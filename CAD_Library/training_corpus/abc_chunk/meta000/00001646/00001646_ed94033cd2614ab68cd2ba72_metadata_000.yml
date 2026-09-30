@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-20T00:09:24.827+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff8b54e4b0a9dffbb18535
+  id: 54ff8b54e4b0a9dffbb18535
+  image: /images/placeholder-user.png
+  name: sangjin oh
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ed94033cd2614ab68cd2ba72/workspaces/d882ad70874b438ea385b54b
+  id: d882ad70874b438ea385b54b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ed94033cd2614ab68cd2ba72
+id: ed94033cd2614ab68cd2ba72
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-07-08T08:24:33.276+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff8b54e4b0a9dffbb18535
+  id: 54ff8b54e4b0a9dffbb18535
+  image: /images/placeholder-user.png
+  name: sangjin oh
+  state: 1
+name: BODY.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff8b54e4b0a9dffbb18535
+  id: 54ff8b54e4b0a9dffbb18535
+  image: /images/placeholder-user.png
+  name: sangjin oh
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ed94033cd2614ab68cd2ba72/w/d882ad70874b438ea385b54b?t=1426810174394
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ed94033cd2614ab68cd2ba72/w/d882ad70874b438ea385b54b/s/300x300?t=1426810174394
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ed94033cd2614ab68cd2ba72/w/d882ad70874b438ea385b54b/s/70x40?t=1426810174394
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ed94033cd2614ab68cd2ba72/w/d882ad70874b438ea385b54b/s/600x340?t=1426810174394
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ed94033cd2614ab68cd2ba72/w/d882ad70874b438ea385b54b/s/300x170?t=1426810174394
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

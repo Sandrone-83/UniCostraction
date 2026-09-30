@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-05T17:40:53.086+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55480ac1e4b089bb8409c1c2
+  id: 55480ac1e4b089bb8409c1c2
+  image: /images/placeholder-user.png
+  name: John Bucknell
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bd10dc2f656943d9a8366745/workspaces/ba0d28e43468453cbc0549a0
+  id: ba0d28e43468453cbc0549a0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bd10dc2f656943d9a8366745
+id: bd10dc2f656943d9a8366745
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T02:19:43.757+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55480ac1e4b089bb8409c1c2
+  id: 55480ac1e4b089bb8409c1c2
+  image: /images/placeholder-user.png
+  name: John Bucknell
+  state: 1
+name: Fan Blade
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55480ac1e4b089bb8409c1c2
+  id: 55480ac1e4b089bb8409c1c2
+  image: /images/placeholder-user.png
+  name: John Bucknell
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bd10dc2f656943d9a8366745/w/ba0d28e43468453cbc0549a0?t=1510757099112
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bd10dc2f656943d9a8366745/w/ba0d28e43468453cbc0549a0/s/300x170?t=1510757099112
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bd10dc2f656943d9a8366745/w/ba0d28e43468453cbc0549a0/s/600x340?t=1510757099112
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bd10dc2f656943d9a8366745/w/ba0d28e43468453cbc0549a0/s/70x40?t=1510757099112
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bd10dc2f656943d9a8366745/w/ba0d28e43468453cbc0549a0/s/300x300?t=1510757099112
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

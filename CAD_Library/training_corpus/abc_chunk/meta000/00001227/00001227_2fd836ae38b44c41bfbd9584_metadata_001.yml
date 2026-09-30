@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-14T14:14:28.824+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe0ce8e4b0c0916a2985e8
+  id: 54fe0ce8e4b0c0916a2985e8
+  image: /images/placeholder-user.png
+  name: itzhak perry
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2fd836ae38b44c41bfbd9584/workspaces/2803eba584944b5888d9dd60
+  id: 2803eba584944b5888d9dd60
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2fd836ae38b44c41bfbd9584
+id: 2fd836ae38b44c41bfbd9584
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-03-20T00:14:11.759+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe0ce8e4b0c0916a2985e8
+  id: 54fe0ce8e4b0c0916a2985e8
+  image: /images/placeholder-user.png
+  name: itzhak perry
+  state: 1
+name: small gear
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe0ce8e4b0c0916a2985e8
+  id: 54fe0ce8e4b0c0916a2985e8
+  image: /images/placeholder-user.png
+  name: itzhak perry
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2fd836ae38b44c41bfbd9584/w/2803eba584944b5888d9dd60?t=1521504858075
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd836ae38b44c41bfbd9584/w/2803eba584944b5888d9dd60/s/600x340?t=1521504858075
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd836ae38b44c41bfbd9584/w/2803eba584944b5888d9dd60/s/300x300?t=1521504858075
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd836ae38b44c41bfbd9584/w/2803eba584944b5888d9dd60/s/300x170?t=1521504858075
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd836ae38b44c41bfbd9584/w/2803eba584944b5888d9dd60/s/70x40?t=1521504858075
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-15T21:44:13.528+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2a1b38b7ec834ee3b19457ff/workspaces/64b3beebacaa4fcc9818d9be
+  id: 64b3beebacaa4fcc9818d9be
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2a1b38b7ec834ee3b19457ff
+id: 2a1b38b7ec834ee3b19457ff
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-12-16T22:03:35.645+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  state: 1
+name: Sample - Artificial Hip
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2a1b38b7ec834ee3b19457ff/w/64b3beebacaa4fcc9818d9be?t=1418680100265
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2a1b38b7ec834ee3b19457ff/w/64b3beebacaa4fcc9818d9be/s/70x40?t=1418680100265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2a1b38b7ec834ee3b19457ff/w/64b3beebacaa4fcc9818d9be/s/300x170?t=1418680100265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2a1b38b7ec834ee3b19457ff/w/64b3beebacaa4fcc9818d9be/s/600x340?t=1418680100265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-22T19:15:43.274+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54e36bfae4b0bf49744aa783
+  id: 54e36bfae4b0bf49744aa783
+  image: https://profiles.onshape.com/739eed6cea7a07fcc4ef9a846fa9bb85c43e0376fd65305b0f5c6cc534dfc5f5.png
+  name: James Jepsen
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e0ddebeed91c420a99a90491/workspaces/2e5045e7d5b64031b5445acd
+  id: 2e5045e7d5b64031b5445acd
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e0ddebeed91c420a99a90491
+id: e0ddebeed91c420a99a90491
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-08-24T16:04:18.713+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57b72d71e4b0052d8f871087
+  id: 57b72d71e4b0052d8f871087
+  image: /images/placeholder-user.png
+  name: Josh Thornton
+  state: 1
+name: Onshape Instructor Kit - 5.2.1 - Collaborative Editing
+notRevisionManaged: false
+numberOfTimesCopied: 478
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54e36bfae4b0bf49744aa783
+  id: 54e36bfae4b0bf49744aa783
+  image: https://profiles.onshape.com/739eed6cea7a07fcc4ef9a846fa9bb85c43e0376fd65305b0f5c6cc534dfc5f5.png
+  name: James Jepsen
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e0ddebeed91c420a99a90491/w/2e5045e7d5b64031b5445acd?t=1435121856646
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e0ddebeed91c420a99a90491/w/2e5045e7d5b64031b5445acd/s/300x170?t=1435121856646
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e0ddebeed91c420a99a90491/w/2e5045e7d5b64031b5445acd/s/300x300?t=1435121856646
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e0ddebeed91c420a99a90491/w/2e5045e7d5b64031b5445acd/s/600x340?t=1435121856646
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e0ddebeed91c420a99a90491/w/2e5045e7d5b64031b5445acd/s/70x40?t=1435121856646
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

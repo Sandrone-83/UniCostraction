@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T23:05:56.032+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdfd09e4b02cb549c92365
+  id: 54fdfd09e4b02cb549c92365
+  image: https://profiles.onshape.com/6b5a00642a643dac271e719ef028d6c701420b2ebfbd6a7e3ff32c639771e27c.png
+  name: Lars Lindmark
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2b2638f82b3946b1867f2d11/workspaces/088fdaa25f38445d8589f08b
+  id: 088fdaa25f38445d8589f08b
+  name: Main
+description: "Utvecklingsmilj\xF6 f\xF6r solarX laddmodul"
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2b2638f82b3946b1867f2d11
+id: 2b2638f82b3946b1867f2d11
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-02-26T15:14:42.532+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdfd09e4b02cb549c92365
+  id: 54fdfd09e4b02cb549c92365
+  image: https://profiles.onshape.com/6b5a00642a643dac271e719ef028d6c701420b2ebfbd6a7e3ff32c639771e27c.png
+  name: Lars Lindmark
+  state: 1
+name: '#001 - Laddmodul'
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdfd09e4b02cb549c92365
+  id: 54fdfd09e4b02cb549c92365
+  image: https://profiles.onshape.com/6b5a00642a643dac271e719ef028d6c701420b2ebfbd6a7e3ff32c639771e27c.png
+  name: Lars Lindmark
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2b2638f82b3946b1867f2d11/w/088fdaa25f38445d8589f08b?t=1519658098853
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2b2638f82b3946b1867f2d11/w/088fdaa25f38445d8589f08b/s/70x40?t=1519658098853
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2b2638f82b3946b1867f2d11/w/088fdaa25f38445d8589f08b/s/600x340?t=1519658098853
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2b2638f82b3946b1867f2d11/w/088fdaa25f38445d8589f08b/s/300x170?t=1519658098853
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2b2638f82b3946b1867f2d11/w/088fdaa25f38445d8589f08b/s/300x300?t=1519658098853
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

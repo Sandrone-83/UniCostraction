@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-19T17:28:04.034+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5505ef59e4b084d81d8c4066
+  id: 5505ef59e4b084d81d8c4066
+  image: /images/placeholder-user.png
+  name: Cadman
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a6ff17f939dd46929ae6e10c/workspaces/6081a095713a4045b7027ba1
+  id: 6081a095713a4045b7027ba1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a6ff17f939dd46929ae6e10c
+id: a6ff17f939dd46929ae6e10c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-09T11:58:22.869+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5505ef59e4b084d81d8c4066
+  id: 5505ef59e4b084d81d8c4066
+  image: /images/placeholder-user.png
+  name: Cadman
+  state: 1
+name: Saw Table Slide
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5505ef59e4b084d81d8c4066
+  id: 5505ef59e4b084d81d8c4066
+  image: /images/placeholder-user.png
+  name: Cadman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a6ff17f939dd46929ae6e10c/w/6081a095713a4045b7027ba1?t=1444391904295
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a6ff17f939dd46929ae6e10c/w/6081a095713a4045b7027ba1/s/600x340?t=1444391904295
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a6ff17f939dd46929ae6e10c/w/6081a095713a4045b7027ba1/s/300x170?t=1444391904295
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a6ff17f939dd46929ae6e10c/w/6081a095713a4045b7027ba1/s/70x40?t=1444391904295
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a6ff17f939dd46929ae6e10c/w/6081a095713a4045b7027ba1/s/300x300?t=1444391904295
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

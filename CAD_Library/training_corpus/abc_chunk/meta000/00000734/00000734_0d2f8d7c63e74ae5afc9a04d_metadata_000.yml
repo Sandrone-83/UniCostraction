@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-24T18:32:27.139+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e659c4e4b0edf73d20e27d
+  id: 53e659c4e4b0edf73d20e27d
+  image: /images/placeholder-user.png
+  name: Cypress Frankenfeld
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0d2f8d7c63e74ae5afc9a04d/workspaces/d21e03840c54490fa8ee723a
+  id: d21e03840c54490fa8ee723a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0d2f8d7c63e74ae5afc9a04d
+id: 0d2f8d7c63e74ae5afc9a04d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-31T14:49:30.489+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e659c4e4b0edf73d20e27d
+  id: 53e659c4e4b0edf73d20e27d
+  image: /images/placeholder-user.png
+  name: Cypress Frankenfeld
+  state: 1
+name: Shared Fan
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e659c4e4b0edf73d20e27d
+  id: 53e659c4e4b0edf73d20e27d
+  image: /images/placeholder-user.png
+  name: Cypress Frankenfeld
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0d2f8d7c63e74ae5afc9a04d/w/d21e03840c54490fa8ee723a?t=1437158181841
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0d2f8d7c63e74ae5afc9a04d/w/d21e03840c54490fa8ee723a/s/600x340?t=1437158181841
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d2f8d7c63e74ae5afc9a04d/w/d21e03840c54490fa8ee723a/s/70x40?t=1437158181841
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d2f8d7c63e74ae5afc9a04d/w/d21e03840c54490fa8ee723a/s/300x170?t=1437158181841
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d2f8d7c63e74ae5afc9a04d/w/d21e03840c54490fa8ee723a/s/300x300?t=1437158181841
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

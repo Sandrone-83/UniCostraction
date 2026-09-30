@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-11T12:40:18.221+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554f1e44e4b089bb8409ca7a
+  id: 554f1e44e4b089bb8409ca7a
+  image: /images/placeholder-user.png
+  name: Eric Humphreys
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/add2232773084ddebd323261/workspaces/bf2e4aa975c84b2a9e345d06
+  id: bf2e4aa975c84b2a9e345d06
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/add2232773084ddebd323261
+id: add2232773084ddebd323261
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-07T16:56:25.308+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/555a7ba6e4b0fc2725f79165
+  id: 555a7ba6e4b0fc2725f79165
+  image: /images/placeholder-user.png
+  name: Serena GH
+  state: 1
+name: boat.zip
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554f1e44e4b089bb8409ca7a
+  id: 554f1e44e4b089bb8409ca7a
+  image: /images/placeholder-user.png
+  name: Eric Humphreys
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/add2232773084ddebd323261/w/bf2e4aa975c84b2a9e345d06?t=1433202300317
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/add2232773084ddebd323261/w/bf2e4aa975c84b2a9e345d06/s/600x340?t=1433202300317
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/add2232773084ddebd323261/w/bf2e4aa975c84b2a9e345d06/s/300x170?t=1433202300317
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/add2232773084ddebd323261/w/bf2e4aa975c84b2a9e345d06/s/70x40?t=1433202300317
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/add2232773084ddebd323261/w/bf2e4aa975c84b2a9e345d06/s/300x300?t=1433202300317
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

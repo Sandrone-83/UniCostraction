@@ -1,0 +1,10 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/multi_insert_with_attribs.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 9, "entity_histogram": {"ATTDEF": 3, "ATTRIB": 3, "POLYLINE": 1, "CIRCLE": 1, "INSERT": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[0.0, 0.871], [-1.5, 0.0]]}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 0.4}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "INSERT", "layer": "FLAGS", "block": "FLAG", "x": 0.0, "y": 0.0, "sx": 1.0, "sy": 1.0, "rot": 15.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}

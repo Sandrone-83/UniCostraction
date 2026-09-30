@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-06T23:45:06.234+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/553f6f0be4b00cc02018900f
+  id: 553f6f0be4b00cc02018900f
+  image: /images/placeholder-user.png
+  name: Artur Grochala
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/af6d85fa924447d6a5d0db39/workspaces/c6d141e5ef074e2b9f2fc799
+  id: c6d141e5ef074e2b9f2fc799
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/af6d85fa924447d6a5d0db39
+id: af6d85fa924447d6a5d0db39
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-17T10:05:08.913+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553f6f0be4b00cc02018900f
+  id: 553f6f0be4b00cc02018900f
+  image: /images/placeholder-user.png
+  name: Artur Grochala
+  state: 1
+name: Copy of Nemesis Tilt Cam
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/553f6f0be4b00cc02018900f
+  id: 553f6f0be4b00cc02018900f
+  image: /images/placeholder-user.png
+  name: Artur Grochala
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/af6d85fa924447d6a5d0db39/w/c6d141e5ef074e2b9f2fc799?t=1445076455883
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/af6d85fa924447d6a5d0db39/w/c6d141e5ef074e2b9f2fc799/s/300x170?t=1445076455883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/af6d85fa924447d6a5d0db39/w/c6d141e5ef074e2b9f2fc799/s/70x40?t=1445076455883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/af6d85fa924447d6a5d0db39/w/c6d141e5ef074e2b9f2fc799/s/300x300?t=1445076455883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/af6d85fa924447d6a5d0db39/w/c6d141e5ef074e2b9f2fc799/s/600x340?t=1445076455883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

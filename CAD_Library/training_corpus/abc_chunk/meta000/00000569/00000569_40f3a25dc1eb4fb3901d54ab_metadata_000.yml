@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-16T08:32:12.627+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7a12e4b0df4f31ebb261
+  id: 53cd7a12e4b0df4f31ebb261
+  image: https://profiles.onshape.com/44bac9b584637ed9b8f225db9d25604d3f45356b5c6f0e1bfde3950f1a04abb4.png
+  name: Kevin O'Toole (Onshape)
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/40f3a25dc1eb4fb3901d54ab/workspaces/06f2fcea77b9472ab5074e6e
+  id: 06f2fcea77b9472ab5074e6e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/40f3a25dc1eb4fb3901d54ab
+id: 40f3a25dc1eb4fb3901d54ab
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-09T04:06:51.080+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7a12e4b0df4f31ebb261
+  id: 53cd7a12e4b0df4f31ebb261
+  image: https://profiles.onshape.com/44bac9b584637ed9b8f225db9d25604d3f45356b5c6f0e1bfde3950f1a04abb4.png
+  name: Kevin O'Toole (Onshape)
+  state: 1
+name: Sample - Wind Meter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7a12e4b0df4f31ebb261
+  id: 53cd7a12e4b0df4f31ebb261
+  image: https://profiles.onshape.com/44bac9b584637ed9b8f225db9d25604d3f45356b5c6f0e1bfde3950f1a04abb4.png
+  name: Kevin O'Toole (Onshape)
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/40f3a25dc1eb4fb3901d54ab/w/06f2fcea77b9472ab5074e6e?t=1421408672959
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/40f3a25dc1eb4fb3901d54ab/w/06f2fcea77b9472ab5074e6e/s/70x40?t=1421408672959
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/40f3a25dc1eb4fb3901d54ab/w/06f2fcea77b9472ab5074e6e/s/600x340?t=1421408672959
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/40f3a25dc1eb4fb3901d54ab/w/06f2fcea77b9472ab5074e6e/s/300x170?t=1421408672959
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

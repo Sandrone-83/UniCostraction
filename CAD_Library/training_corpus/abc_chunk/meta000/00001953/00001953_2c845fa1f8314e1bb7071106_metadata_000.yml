@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-23T22:28:10.884+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2c845fa1f8314e1bb7071106/workspaces/f48e032f12c14fc0bff1e864
+  id: f48e032f12c14fc0bff1e864
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2c845fa1f8314e1bb7071106
+id: 2c845fa1f8314e1bb7071106
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-01T21:28:04.368+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+name: Trial of constraint to model face
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2c845fa1f8314e1bb7071106/w/f48e032f12c14fc0bff1e864?t=1427154867062
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2c845fa1f8314e1bb7071106/w/f48e032f12c14fc0bff1e864/s/300x300?t=1427154867062
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2c845fa1f8314e1bb7071106/w/f48e032f12c14fc0bff1e864/s/70x40?t=1427154867062
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2c845fa1f8314e1bb7071106/w/f48e032f12c14fc0bff1e864/s/300x170?t=1427154867062
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2c845fa1f8314e1bb7071106/w/f48e032f12c14fc0bff1e864/s/600x340?t=1427154867062
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-15T12:41:52.600+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e7c03d750a9b4a48aa19a543/workspaces/d0ac446f322a410cabe946f1
+  id: d0ac446f322a410cabe946f1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e7c03d750a9b4a48aa19a543
+id: e7c03d750a9b4a48aa19a543
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-08T19:47:07.128+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  state: 1
+name: Filament guide
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e7c03d750a9b4a48aa19a543/w/d0ac446f322a410cabe946f1?t=1431699360160
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e7c03d750a9b4a48aa19a543/w/d0ac446f322a410cabe946f1/s/300x300?t=1431699360160
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e7c03d750a9b4a48aa19a543/w/d0ac446f322a410cabe946f1/s/600x340?t=1431699360160
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e7c03d750a9b4a48aa19a543/w/d0ac446f322a410cabe946f1/s/70x40?t=1431699360160
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e7c03d750a9b4a48aa19a543/w/d0ac446f322a410cabe946f1/s/300x170?t=1431699360160
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

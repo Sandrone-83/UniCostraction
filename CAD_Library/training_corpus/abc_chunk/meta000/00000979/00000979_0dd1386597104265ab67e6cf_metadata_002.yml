@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T14:29:16.258+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff05efe4b0191bdfa2076d
+  id: 54ff05efe4b0191bdfa2076d
+  image: https://profiles.onshape.com/774cf07e4ad9d91ee48a4c91ca4e1a0f953f109580cb28cb05c250e04a85e82a.png
+  name: Kyle
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0dd1386597104265ab67e6cf/workspaces/76ee9fff30f240c98e78c67d
+  id: 76ee9fff30f240c98e78c67d
+  name: Vslot Printer Design
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0dd1386597104265ab67e6cf
+id: 0dd1386597104265ab67e6cf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-12-04T01:49:35.570+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff05efe4b0191bdfa2076d
+  id: 54ff05efe4b0191bdfa2076d
+  image: https://profiles.onshape.com/774cf07e4ad9d91ee48a4c91ca4e1a0f953f109580cb28cb05c250e04a85e82a.png
+  name: Kyle
+  state: 1
+name: Printer
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff05efe4b0191bdfa2076d
+  id: 54ff05efe4b0191bdfa2076d
+  image: https://profiles.onshape.com/774cf07e4ad9d91ee48a4c91ca4e1a0f953f109580cb28cb05c250e04a85e82a.png
+  name: Kyle
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0dd1386597104265ab67e6cf/w/76ee9fff30f240c98e78c67d?t=1512352327441
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd1386597104265ab67e6cf/w/76ee9fff30f240c98e78c67d/s/300x170?t=1512352327441
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd1386597104265ab67e6cf/w/76ee9fff30f240c98e78c67d/s/70x40?t=1512352327441
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd1386597104265ab67e6cf/w/76ee9fff30f240c98e78c67d/s/600x340?t=1512352327441
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd1386597104265ab67e6cf/w/76ee9fff30f240c98e78c67d/s/300x300?t=1512352327441
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

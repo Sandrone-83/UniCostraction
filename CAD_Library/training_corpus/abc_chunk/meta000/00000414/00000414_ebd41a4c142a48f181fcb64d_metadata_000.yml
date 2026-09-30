@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-22T23:06:00.531+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5462e3afe4b0bd437437e8ec
+  id: 5462e3afe4b0bd437437e8ec
+  image: /images/placeholder-user.png
+  name: Mark Rumsey
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ebd41a4c142a48f181fcb64d/workspaces/314cc6efc11c4edfa21aebff
+  id: 314cc6efc11c4edfa21aebff
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ebd41a4c142a48f181fcb64d
+id: ebd41a4c142a48f181fcb64d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-12-12T21:59:24.539+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e53f1fe4b09503f321570c
+  id: 53e53f1fe4b09503f321570c
+  image: https://profiles.onshape.com/554c5c463d9c5f52ed13c61d1161aa950e770554fbfc11cc2cc1b90d9ebb5759.png
+  name: Ric Fulop
+  state: 1
+name: GumDrop D-Motor 02.stp
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5462e3afe4b0bd437437e8ec
+  id: 5462e3afe4b0bd437437e8ec
+  image: /images/placeholder-user.png
+  name: Mark Rumsey
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ebd41a4c142a48f181fcb64d/w/314cc6efc11c4edfa21aebff?t=1416703718939
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ebd41a4c142a48f181fcb64d/w/314cc6efc11c4edfa21aebff/s/70x40?t=1416703718939
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ebd41a4c142a48f181fcb64d/w/314cc6efc11c4edfa21aebff/s/600x340?t=1416703718939
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ebd41a4c142a48f181fcb64d/w/314cc6efc11c4edfa21aebff/s/300x170?t=1416703718939
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Arc.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"ARC": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-18.193, -18.193], [6.687, 6.687]]}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": -18.19331722931173, "cy": 6.686516981032791, "r": 8.293098252883262, "a1": 114.7302621727979, "a2": 87.01847499919583}

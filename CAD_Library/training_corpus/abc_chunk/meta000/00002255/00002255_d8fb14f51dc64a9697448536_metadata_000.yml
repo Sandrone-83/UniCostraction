@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-29T19:04:14.096+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55184b35e4b09d1474593207
+  id: 55184b35e4b09d1474593207
+  image: /images/placeholder-user.png
+  name: Michael Leinich
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d8fb14f51dc64a9697448536/workspaces/e8696a835b944ef89e1774ef
+  id: e8696a835b944ef89e1774ef
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d8fb14f51dc64a9697448536
+id: d8fb14f51dc64a9697448536
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-12T06:59:12.943+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55184b35e4b09d1474593207
+  id: 55184b35e4b09d1474593207
+  image: /images/placeholder-user.png
+  name: Michael Leinich
+  state: 1
+name: Ersatzteil Rolle Dachboden Treppe
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55184b35e4b09d1474593207
+  id: 55184b35e4b09d1474593207
+  image: /images/placeholder-user.png
+  name: Michael Leinich
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d8fb14f51dc64a9697448536/w/e8696a835b944ef89e1774ef?t=1427657440115
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d8fb14f51dc64a9697448536/w/e8696a835b944ef89e1774ef/s/300x170?t=1427657440115
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d8fb14f51dc64a9697448536/w/e8696a835b944ef89e1774ef/s/300x300?t=1427657440115
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d8fb14f51dc64a9697448536/w/e8696a835b944ef89e1774ef/s/600x340?t=1427657440115
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d8fb14f51dc64a9697448536/w/e8696a835b944ef89e1774ef/s/70x40?t=1427657440115
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

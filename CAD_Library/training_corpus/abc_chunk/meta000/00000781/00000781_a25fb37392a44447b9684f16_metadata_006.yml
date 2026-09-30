@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-27T17:35:08.136+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5460dbb1e4b03ba5fdfd3b65
+  id: 5460dbb1e4b03ba5fdfd3b65
+  image: /images/placeholder-user.png
+  name: Caleb Jones
+  state: 2
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a25fb37392a44447b9684f16/workspaces/ac36d29e4dd1439193a64d8b
+  id: ac36d29e4dd1439193a64d8b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a25fb37392a44447b9684f16
+id: a25fb37392a44447b9684f16
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-02-28T17:14:00.029+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5460dbb1e4b03ba5fdfd3b65
+  id: 5460dbb1e4b03ba5fdfd3b65
+  image: /images/placeholder-user.png
+  name: Caleb Jones
+  state: 2
+name: Make MIT Screws
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5460dbb1e4b03ba5fdfd3b65
+  id: 5460dbb1e4b03ba5fdfd3b65
+  image: /images/placeholder-user.png
+  name: Caleb Jones
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a25fb37392a44447b9684f16/w/ac36d29e4dd1439193a64d8b?t=1425060222515
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a25fb37392a44447b9684f16/w/ac36d29e4dd1439193a64d8b/s/300x170?t=1425060222515
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a25fb37392a44447b9684f16/w/ac36d29e4dd1439193a64d8b/s/600x340?t=1425060222515
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a25fb37392a44447b9684f16/w/ac36d29e4dd1439193a64d8b/s/300x300?t=1425060222515
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a25fb37392a44447b9684f16/w/ac36d29e4dd1439193a64d8b/s/70x40?t=1425060222515
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

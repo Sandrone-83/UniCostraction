@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-09T21:41:08.474+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e659c4e4b0edf73d20e27d
+  id: 53e659c4e4b0edf73d20e27d
+  image: /images/placeholder-user.png
+  name: Cypress Frankenfeld
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e909f412cda24521865fac0f/workspaces/6f8b499942424a50a940c5f6
+  id: 6f8b499942424a50a940c5f6
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e909f412cda24521865fac0f
+id: e909f412cda24521865fac0f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2015-08-31T14:48:25.665+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e659c4e4b0edf73d20e27d
+  id: 53e659c4e4b0edf73d20e27d
+  image: /images/placeholder-user.png
+  name: Cypress Frankenfeld
+  state: 1
+name: Sample - Bicycle Helmet
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e659c4e4b0edf73d20e27d
+  id: 53e659c4e4b0edf73d20e27d
+  image: /images/placeholder-user.png
+  name: Cypress Frankenfeld
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e909f412cda24521865fac0f/w/6f8b499942424a50a940c5f6?t=1407620871263
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e909f412cda24521865fac0f/w/6f8b499942424a50a940c5f6/s/70x40?t=1407620871263
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e909f412cda24521865fac0f/w/6f8b499942424a50a940c5f6/s/300x170?t=1407620871263
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e909f412cda24521865fac0f/w/6f8b499942424a50a940c5f6/s/600x340?t=1407620871263
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

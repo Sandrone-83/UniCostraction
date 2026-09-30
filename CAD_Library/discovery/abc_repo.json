@@ -1,0 +1,31 @@
+{
+  "sha": "392789113158b874bfa630098f5bbab3ed38309e",
+  "url": "https://api.github.com/repos/deep-geometry/abc-dataset/git/trees/392789113158b874bfa630098f5bbab3ed38309e",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "894a44cc066a027465cd26d634948d56d13af9af",
+      "size": 1203,
+      "url": "https://api.github.com/repos/deep-geometry/abc-dataset/git/blobs/894a44cc066a027465cd26d634948d56d13af9af"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcc5a59e445a4e34f553475b64e74b1ab0578589",
+      "size": 1081,
+      "url": "https://api.github.com/repos/deep-geometry/abc-dataset/git/blobs/bcc5a59e445a4e34f553475b64e74b1ab0578589"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0990742ec4e229e73b02042ed8494dccf2936a35",
+      "size": 181,
+      "url": "https://api.github.com/repos/deep-geometry/abc-dataset/git/blobs/0990742ec4e229e73b02042ed8494dccf2936a35"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,9 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "ezdxf/visibility.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 8, "entity_histogram": {"MTEXT": 4, "TEXT": 2, "INSERT": 2}, "n_layers": 0, "layers": [], "n_block_defs": 4, "bbox": [[0.269, 53.634], [0.0, 30.055]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "L0", "x": 0.2694223392314399, "y": 8.253218687669232, "h": 5.0}
+{"kind": "entity", "type": "TEXT", "layer": "Layer1", "text": "L1", "x": 0.753018250071591, "y": 0.4515654510566236, "h": 5.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "text-block", "x": 5.095654194061964, "y": 12.66949425071551, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Layer2", "block": "text-block", "x": 38.75557269824054, "y": 12.66949425071551, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "text-layer", "text": "inserted L2", "x": 36.8730269420049, "y": 30.05476364325281, "h": 2.0}
+{"kind": "entity", "type": "MTEXT", "layer": "text-layer", "text": "inserted L0", "x": 3.213108306769668, "y": 29.90424186566246, "h": 2.0}
+{"kind": "entity", "type": "MTEXT", "layer": "text-layer", "text": "visible when:\\PL2\\P\\PL1", "x": 53.63411742915008, "y": 27.12297543871737, "h": 2.0}
+{"kind": "entity", "type": "MTEXT", "layer": "text-layer", "text": "visible when:\\PL0\\P\\PL1", "x": 16.79289901917886, "y": 26.32046213871277, "h": 2.0}

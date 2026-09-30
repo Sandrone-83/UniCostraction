@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T14:48:55.160+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e11f0c9b10e443a2a7d1075d/workspaces/abe33cabec254056afb5060b
+  id: abe33cabec254056afb5060b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e11f0c9b10e443a2a7d1075d
+id: e11f0c9b10e443a2a7d1075d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-15T01:08:34.260+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  state: 1
+name: Handle for Jet Engine
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e11f0c9b10e443a2a7d1075d/w/abe33cabec254056afb5060b?t=1428451758409
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e11f0c9b10e443a2a7d1075d/w/abe33cabec254056afb5060b/s/600x340?t=1428451758409
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e11f0c9b10e443a2a7d1075d/w/abe33cabec254056afb5060b/s/70x40?t=1428451758409
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e11f0c9b10e443a2a7d1075d/w/abe33cabec254056afb5060b/s/300x300?t=1428451758409
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e11f0c9b10e443a2a7d1075d/w/abe33cabec254056afb5060b/s/300x170?t=1428451758409
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

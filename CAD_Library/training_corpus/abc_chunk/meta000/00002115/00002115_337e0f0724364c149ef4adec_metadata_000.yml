@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T17:25:43.617+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501ef6fe4b0120eedd95c95
+  id: 5501ef6fe4b0120eedd95c95
+  image: /images/placeholder-user.png
+  name: John Smith
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/337e0f0724364c149ef4adec/workspaces/38a2e248de2842e8b7c595bf
+  id: 38a2e248de2842e8b7c595bf
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/337e0f0724364c149ef4adec
+id: 337e0f0724364c149ef4adec
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-27T15:01:11.633+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501ef6fe4b0120eedd95c95
+  id: 5501ef6fe4b0120eedd95c95
+  image: /images/placeholder-user.png
+  name: John Smith
+  state: 1
+name: MOVABLE WALL BASE
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501ef6fe4b0120eedd95c95
+  id: 5501ef6fe4b0120eedd95c95
+  image: /images/placeholder-user.png
+  name: John Smith
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/337e0f0724364c149ef4adec/w/38a2e248de2842e8b7c595bf?t=1427399042168
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/337e0f0724364c149ef4adec/w/38a2e248de2842e8b7c595bf/s/70x40?t=1427399042168
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/337e0f0724364c149ef4adec/w/38a2e248de2842e8b7c595bf/s/600x340?t=1427399042168
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/337e0f0724364c149ef4adec/w/38a2e248de2842e8b7c595bf/s/300x300?t=1427399042168
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/337e0f0724364c149ef4adec/w/38a2e248de2842e8b7c595bf/s/300x170?t=1427399042168
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

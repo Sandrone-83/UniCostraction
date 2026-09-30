@@ -1,0 +1,47 @@
+{
+  "pack": "Coding_Master_Pack_4",
+  "generato_il": "2026-09-29",
+  "nota_licenza": "Tutto il contenuto e' sintesi didattica originale redatta da Kimi (Moonshot AI): concetti di sistemi distribuiti, sviluppo videogiochi, metodi formali e computer vision espressi con parole proprie. Nessun testo copiato da fonti protette. Uso commerciale libero.",
+  "fonti": [
+    {
+      "id": "CONSENSUS-STORAGE",
+      "descrizione": "Raft e consenso distribuito, storage engines (B-Tree vs LSM), event sourcing e CRDT, transazioni distribuite (2PC/saga/outbox), tempo e ordine in sistemi distribuiti",
+      "file": "parsed/consensus_storage.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "GAME-DEVELOPMENT",
+      "descrizione": "Game loop ed ECS, fisica per giochi, networking dei giochi (client prediction), generazione procedurale, progettare un gioco completo",
+      "file": "parsed/game_development.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "METODI-FORMALI",
+      "descrizione": "Cosa sono i metodi formali, stati e invarianti, model checking (TLA+), tipi come prove e programmazione totale, quando usarli (la scala della necessita')",
+      "file": "parsed/metodi_formali.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "COMPUTER-VISION",
+      "descrizione": "Immagini come tensori, visione classica e fotogrammetria, deep learning per la visione (CNN -> foundation model), visione 3D industriale e scan-to-BIM, AI di visione applicata al cantiere",
+      "file": "parsed/computer_vision.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    }
+  ],
+  "avvertenze": [
+    "Versioni di strumenti e piattaforme riferite al 2026: verificare documentazione ufficiale aggiornata",
+    "Soglie e costi citati sono prassi consolidate indicative"
+  ]
+}

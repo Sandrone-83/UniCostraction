@@ -1,0 +1,46 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "ezdxf/colors.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 45, "entity_histogram": {"MTEXT": 18, "LWPOLYLINE": 13, "CIRCLE": 10, "INSERT": 4}, "n_layers": 0, "layers": [], "n_block_defs": 6, "bbox": [[-4.393, 174.993], [-11.613, 125.394]]}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 2.151090137699052}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-3.664730879715236, 3.664730998538473], [-2.021867170127634, 2.16837933686142]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-2.404063412415652, -0.7915818538585313], [0.2344194003378135, 1.318609035550409]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.9381712268820905, 2.550652785439211], [0.2930242670313277, 1.377213902243923]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-2.433381263255725, -0.8208997046986041], [-1.465121135847965, -0.3809315006353699]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.9968068097389846, 2.609288368296105], [-1.377213835807694, -0.2930242005950987]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-4.392723526477908, 4.439957194398459], [-11.61334902304114, 11.8021841758985]]}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "THIS IS A BLOCK", "x": -2.954575828961324, "y": 11.353230179571, "h": 0.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "BYLAYER", "x": -1.726502556856857, "y": 9.464880699720254, "h": 0.5}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": -0.0472334061917934, "cy": 6.75084932461462, "r": 1.284658587988755}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-3.211883660565234, 3.070183180261096], [4.673664984581222, 9.819417265956417]]}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "BYOBJECT", "x": -1.679269150665064, "y": 2.714031375105633, "h": 0.5}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 1.284658587988755}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-3.164650254373441, 3.11741658645289], [-2.077184340033397, 3.068567941341797]]}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "BYBLOCK", "x": -1.726502556856857, "y": -4.603322676394327, "h": 0.5}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": -0.0472334061917934, "cy": -7.317354051499961, "r": 1.284658587988755}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-3.211883660565234, 3.070183180261096], [-9.39453839153336, -4.248786110158164]]}
+{"kind": "entity", "type": "CIRCLE", "layer": "BLUE", "cx": 70.7495523769065, "cy": 116.9372555939689, "r": 2.151090137699052}
+{"kind": "entity", "type": "CIRCLE", "layer": "BLUE", "cx": 80.62266729894208, "cy": 116.9372555939689, "r": 2.151090137699052}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "BYLAYER", "x": 68.09522299967234, "y": 121.7960860695363, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "BYOBJECT", "x": 77.57025379871715, "y": 121.7411502096915, "h": 1.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "BLUE", "cx": 90.03692425764476, "cy": 117.1842806457819, "r": 2.151090137699052}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "BYBLOCK", "x": 87.13597635698858, "y": 121.7259144005524, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "LAYER\\PBLUE", "x": 50.76040903152076, "y": 121.0263710066802, "h": 2.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "BLUE", "n": 4, "closed": true, "bbox": [[48.71692870538495, 99.6167711152843], [109.0837393238138, 125.3941871536353]]}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "LAYER\\PBLUE", "x": 43.8349357812635, "y": 84.73538702888291, "h": 2.0}
+{"kind": "entity", "type": "INSERT", "layer": "BLUE", "block": "BLOCK2", "x": 64.8362583104387, "y": 78.3950950567129, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "BLUE", "block": "BLOCK2", "x": 92.03735654894074, "y": 77.66394831209507, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "INSERTED\\PBLOCK", "x": 62.23276908203311, "y": 96.69642604532274, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "BLUE", "text": "INSERTED\\PBLOCK AND CHANGED THE COLOUR OF THE BLOCK TO YELLOW", "x": 86.24425846685213, "y": 99.82103001339547, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "LAYER\\PRED", "x": 116.6383122738136, "y": 85.71880213002193, "h": 2.0}
+{"kind": "entity", "type": "INSERT", "layer": "RED", "block": "BLOCK2", "x": 137.6396348029888, "y": 79.37851015785193, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "RED", "block": "BLOCK2", "x": 164.8407330414908, "y": 78.6473634132341, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "INSERTED\\PBLOCK", "x": 135.0361455745832, "y": 97.67984114646177, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "INSERTED\\PBLOCK AND CHANGED THE COLOUR OF THE BLOCK TO YELLOW", "x": 159.0476349594022, "y": 100.8044451145345, "h": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "BLUE", "n": 4, "closed": true, "bbox": [[40.00963798797525, 102.2412195462435], [63.38701564828525, 102.7796149107176]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "RED", "n": 4, "closed": true, "bbox": [[113.7986993593878, 174.9930874833025], [63.90704151300011, 102.1334128334986]]}
+{"kind": "entity", "type": "CIRCLE", "layer": "RED", "cx": 142.2645968394109, "cy": 115.7155162960101, "r": 2.151090137699052}
+{"kind": "entity", "type": "CIRCLE", "layer": "RED", "cx": 152.1377117614465, "cy": 115.7155162960101, "r": 2.151090137699052}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "BYLAYER", "x": 139.6102674621767, "y": 120.5743467715776, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "BYOBJECT", "x": 149.0852982612215, "y": 120.5194109117327, "h": 1.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "RED", "cx": 161.5519687201491, "cy": 115.9625413478232, "r": 2.151090137699052}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "BYBLOCK", "x": 158.651020819493, "y": 120.5041751025937, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "RED", "text": "LAYER\\PRED", "x": 122.2754534940252, "y": 119.8046317087214, "h": 2.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "RED", "n": 4, "closed": true, "bbox": [[120.2319731678894, 171.1318155777887], [107.8620000258551, 124.1724478556766]]}

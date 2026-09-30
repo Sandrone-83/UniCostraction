@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-28T16:40:22.666+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551d8cc5e4b0fead1d2f9c9a
+  id: 551d8cc5e4b0fead1d2f9c9a
+  image: /images/placeholder-user.png
+  name: James Rice
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5679fd67bc134d83993f25a5/workspaces/8bf51300a8ba445f93adb66e
+  id: 8bf51300a8ba445f93adb66e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5679fd67bc134d83993f25a5
+id: 5679fd67bc134d83993f25a5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T19:32:20.756+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551d8cc5e4b0fead1d2f9c9a
+  id: 551d8cc5e4b0fead1d2f9c9a
+  image: /images/placeholder-user.png
+  name: James Rice
+  state: 1
+name: CR Nozzle Adapter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551d8cc5e4b0fead1d2f9c9a
+  id: 551d8cc5e4b0fead1d2f9c9a
+  image: /images/placeholder-user.png
+  name: James Rice
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5679fd67bc134d83993f25a5/w/8bf51300a8ba445f93adb66e?t=1430326388349
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5679fd67bc134d83993f25a5/w/8bf51300a8ba445f93adb66e/s/70x40?t=1430326388349
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5679fd67bc134d83993f25a5/w/8bf51300a8ba445f93adb66e/s/300x300?t=1430326388349
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5679fd67bc134d83993f25a5/w/8bf51300a8ba445f93adb66e/s/600x340?t=1430326388349
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5679fd67bc134d83993f25a5/w/8bf51300a8ba445f93adb66e/s/300x170?t=1430326388349
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

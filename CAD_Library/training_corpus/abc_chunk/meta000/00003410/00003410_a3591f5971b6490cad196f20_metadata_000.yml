@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-20T22:00:46.735+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a3591f5971b6490cad196f20/workspaces/215b5cefee4d4876aa723407
+  id: 215b5cefee4d4876aa723407
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a3591f5971b6490cad196f20
+id: a3591f5971b6490cad196f20
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-11T14:16:40.053+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  state: 1
+name: Can Bus Splitter Case
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a3591f5971b6490cad196f20/w/215b5cefee4d4876aa723407?t=1430491288992
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a3591f5971b6490cad196f20/w/215b5cefee4d4876aa723407/s/300x300?t=1430491288992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a3591f5971b6490cad196f20/w/215b5cefee4d4876aa723407/s/600x340?t=1430491288992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a3591f5971b6490cad196f20/w/215b5cefee4d4876aa723407/s/70x40?t=1430491288992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a3591f5971b6490cad196f20/w/215b5cefee4d4876aa723407/s/300x170?t=1430491288992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

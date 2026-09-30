@@ -1,0 +1,3 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "libredwg/2018/Constraints.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 2, "entity_histogram": {"LINE": 1, "CIRCLE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[3.76, 11.32], [16.064, 20.759]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 3.760368402663999, "y1": 20.75891407303142, "x2": 11.31954640753645, "y2": 16.06385611731542}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 11.31954640753645, "cy": 16.06385611731542, "r": 2.147788761572471}

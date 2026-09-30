@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-13T07:41:09.901+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54b466e1e4b083646069afc4
+  id: 54b466e1e4b083646069afc4
+  image: /images/placeholder-user.png
+  name: Hyrum Fairbanks
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a1621e156ade4317ab6a5bc5/workspaces/5f3b82bd82ce4bc79e9eecc8
+  id: 5f3b82bd82ce4bc79e9eecc8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a1621e156ade4317ab6a5bc5
+id: a1621e156ade4317ab6a5bc5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-01T22:32:56.815+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54bf00aae4b0d3042fcea63e
+  id: 54bf00aae4b0d3042fcea63e
+  image: /images/placeholder-user.png
+  name: Hyrum Fairbanks
+  state: 1
+name: L plate
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54b466e1e4b083646069afc4
+  id: 54b466e1e4b083646069afc4
+  image: /images/placeholder-user.png
+  name: Hyrum Fairbanks
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a1621e156ade4317ab6a5bc5/w/5f3b82bd82ce4bc79e9eecc8?t=1421377741174
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a1621e156ade4317ab6a5bc5/w/5f3b82bd82ce4bc79e9eecc8/s/70x40?t=1421377741174
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a1621e156ade4317ab6a5bc5/w/5f3b82bd82ce4bc79e9eecc8/s/300x170?t=1421377741174
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a1621e156ade4317ab6a5bc5/w/5f3b82bd82ce4bc79e9eecc8/s/600x340?t=1421377741174
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

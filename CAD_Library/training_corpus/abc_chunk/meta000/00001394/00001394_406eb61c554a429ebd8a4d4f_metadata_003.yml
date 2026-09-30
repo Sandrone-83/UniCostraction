@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T18:18:08.307+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fefc31e4b0191bdfa20701
+  id: 54fefc31e4b0191bdfa20701
+  image: /images/placeholder-user.png
+  name: David Maulik
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/406eb61c554a429ebd8a4d4f/workspaces/bb01e4521a804e7da49b8a1a
+  id: bb01e4521a804e7da49b8a1a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/406eb61c554a429ebd8a4d4f
+id: 406eb61c554a429ebd8a4d4f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-12T15:28:31.671+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fefc31e4b0191bdfa20701
+  id: 54fefc31e4b0191bdfa20701
+  image: /images/placeholder-user.png
+  name: David Maulik
+  state: 1
+name: Mini Sanding Blocks
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fefc31e4b0191bdfa20701
+  id: 54fefc31e4b0191bdfa20701
+  image: /images/placeholder-user.png
+  name: David Maulik
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/406eb61c554a429ebd8a4d4f/w/bb01e4521a804e7da49b8a1a?t=1429377483931
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/406eb61c554a429ebd8a4d4f/w/bb01e4521a804e7da49b8a1a/s/300x300?t=1429377483931
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/406eb61c554a429ebd8a4d4f/w/bb01e4521a804e7da49b8a1a/s/600x340?t=1429377483931
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/406eb61c554a429ebd8a4d4f/w/bb01e4521a804e7da49b8a1a/s/300x170?t=1429377483931
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/406eb61c554a429ebd8a4d4f/w/bb01e4521a804e7da49b8a1a/s/70x40?t=1429377483931
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

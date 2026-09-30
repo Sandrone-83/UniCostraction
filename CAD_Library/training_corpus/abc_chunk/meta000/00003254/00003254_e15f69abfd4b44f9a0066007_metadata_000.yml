@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T09:51:36.268+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552d366be4b073b4bdcab44a
+  id: 552d366be4b073b4bdcab44a
+  image: /images/placeholder-user.png
+  name: Jean
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e15f69abfd4b44f9a0066007/workspaces/dc9b06cf69054410a9d89b63
+  id: dc9b06cf69054410a9d89b63
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e15f69abfd4b44f9a0066007
+id: e15f69abfd4b44f9a0066007
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-17T08:55:27.657+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552d366be4b073b4bdcab44a
+  id: 552d366be4b073b4bdcab44a
+  image: /images/placeholder-user.png
+  name: Jean
+  state: 1
+name: Copy of Sample - Wind Meter
+notRevisionManaged: false
+numberOfTimesCopied: 19
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552d366be4b073b4bdcab44a
+  id: 552d366be4b073b4bdcab44a
+  image: /images/placeholder-user.png
+  name: Jean
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e15f69abfd4b44f9a0066007/w/dc9b06cf69054410a9d89b63?t=1429261043635
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e15f69abfd4b44f9a0066007/w/dc9b06cf69054410a9d89b63/s/70x40?t=1429261043635
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e15f69abfd4b44f9a0066007/w/dc9b06cf69054410a9d89b63/s/300x170?t=1429261043635
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e15f69abfd4b44f9a0066007/w/dc9b06cf69054410a9d89b63/s/300x300?t=1429261043635
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e15f69abfd4b44f9a0066007/w/dc9b06cf69054410a9d89b63/s/600x340?t=1429261043635
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

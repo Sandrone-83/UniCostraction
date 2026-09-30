@@ -1,0 +1,6 @@
+{"kind": "doc", "format": "DXF", "version": "AC1018", "file": "libredwg/2004/material.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 5, "entity_histogram": {"VIEWPORT": 4, "SOLID": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[5.25, 19.445], [4.0, 16.007]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

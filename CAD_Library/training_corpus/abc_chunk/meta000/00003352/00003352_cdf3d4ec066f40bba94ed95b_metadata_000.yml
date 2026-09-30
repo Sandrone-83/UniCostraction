@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-19T16:02:32.106+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54295a42e4b042721e167c18
+  id: 54295a42e4b042721e167c18
+  image: /images/placeholder-user.png
+  name: Ken Murphy
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/cdf3d4ec066f40bba94ed95b/workspaces/3ca116f3b3764e9d90957e5a
+  id: 3ca116f3b3764e9d90957e5a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/cdf3d4ec066f40bba94ed95b
+id: cdf3d4ec066f40bba94ed95b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-29T16:12:37.329+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54295a42e4b042721e167c18
+  id: 54295a42e4b042721e167c18
+  image: /images/placeholder-user.png
+  name: Ken Murphy
+  state: 1
+name: brakeGuard2
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54295a42e4b042721e167c18
+  id: 54295a42e4b042721e167c18
+  image: /images/placeholder-user.png
+  name: Ken Murphy
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/cdf3d4ec066f40bba94ed95b/w/3ca116f3b3764e9d90957e5a?t=1461946292504
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/cdf3d4ec066f40bba94ed95b/w/3ca116f3b3764e9d90957e5a/s/600x340?t=1461946292504
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cdf3d4ec066f40bba94ed95b/w/3ca116f3b3764e9d90957e5a/s/70x40?t=1461946292504
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cdf3d4ec066f40bba94ed95b/w/3ca116f3b3764e9d90957e5a/s/300x300?t=1461946292504
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cdf3d4ec066f40bba94ed95b/w/3ca116f3b3764e9d90957e5a/s/300x170?t=1461946292504
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

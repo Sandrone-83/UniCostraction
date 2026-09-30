@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2015-04-30T09:54:40.508+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550acedbe4b0cdf1efec23c2
+  id: 550acedbe4b0cdf1efec23c2
+  image: https://profiles.onshape.com/04d8b5e407f3683509e2bb3e2df38d07768b70d33b9eeeb64fe7c7fa5994ed0c.png
+  name: m0a
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0f131d41320541f4928a8004/workspaces/d7520b7a2ca946f986dfc31b
+  id: d7520b7a2ca946f986dfc31b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0f131d41320541f4928a8004
+id: 0f131d41320541f4928a8004
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2017-03-08T15:07:14.322+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550acedbe4b0cdf1efec23c2
+  id: 550acedbe4b0cdf1efec23c2
+  image: https://profiles.onshape.com/04d8b5e407f3683509e2bb3e2df38d07768b70d33b9eeeb64fe7c7fa5994ed0c.png
+  name: m0a
+  state: 1
+name: myDeltaType3DPrinter
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550acedbe4b0cdf1efec23c2
+  id: 550acedbe4b0cdf1efec23c2
+  image: https://profiles.onshape.com/04d8b5e407f3683509e2bb3e2df38d07768b70d33b9eeeb64fe7c7fa5994ed0c.png
+  name: m0a
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0f131d41320541f4928a8004/w/d7520b7a2ca946f986dfc31b?t=1488985639042
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0f131d41320541f4928a8004/w/d7520b7a2ca946f986dfc31b/s/300x300?t=1488985639042
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0f131d41320541f4928a8004/w/d7520b7a2ca946f986dfc31b/s/600x340?t=1488985639042
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0f131d41320541f4928a8004/w/d7520b7a2ca946f986dfc31b/s/70x40?t=1488985639042
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0f131d41320541f4928a8004/w/d7520b7a2ca946f986dfc31b/s/300x170?t=1488985639042
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

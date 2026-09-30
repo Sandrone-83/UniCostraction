@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-12T17:58:35.360+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54d4c6aae4b0aa627bb8da8a
+  id: 54d4c6aae4b0aa627bb8da8a
+  image: /images/placeholder-user.png
+  name: Kevin Rankl
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6f0fc559e8f3422c908b6060/workspaces/dd048bd586104e2693c2253a
+  id: dd048bd586104e2693c2253a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6f0fc559e8f3422c908b6060
+id: 6f0fc559e8f3422c908b6060
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-28T11:56:44.590+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53fe2cdae4b0a8ed5579f0bb
+  id: 53fe2cdae4b0a8ed5579f0bb
+  image: /images/placeholder-user.png
+  name: Anthony Calderone
+  state: 1
+name: Assault10inch.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54d4c6aae4b0aa627bb8da8a
+  id: 54d4c6aae4b0aa627bb8da8a
+  image: /images/placeholder-user.png
+  name: Kevin Rankl
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6f0fc559e8f3422c908b6060/w/dd048bd586104e2693c2253a?t=1430225915927
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6f0fc559e8f3422c908b6060/w/dd048bd586104e2693c2253a/s/70x40?t=1430225915927
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6f0fc559e8f3422c908b6060/w/dd048bd586104e2693c2253a/s/600x340?t=1430225915927
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6f0fc559e8f3422c908b6060/w/dd048bd586104e2693c2253a/s/300x300?t=1430225915927
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6f0fc559e8f3422c908b6060/w/dd048bd586104e2693c2253a/s/300x170?t=1430225915927
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

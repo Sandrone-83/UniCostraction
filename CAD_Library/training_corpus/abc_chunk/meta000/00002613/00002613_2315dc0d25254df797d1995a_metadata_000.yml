@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-06T15:37:36.252+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5508e1a2e4b08a079699ef04
+  id: 5508e1a2e4b08a079699ef04
+  image: /images/placeholder-user.png
+  name: Daniel Wahl
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2315dc0d25254df797d1995a/workspaces/0eea5acb2443458480198af4
+  id: 0eea5acb2443458480198af4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2315dc0d25254df797d1995a
+id: 2315dc0d25254df797d1995a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-08-24T11:38:52.049+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/573ce705e4b07e534d423630
+  id: 573ce705e4b07e534d423630
+  image: /images/placeholder-user.png
+  name: Laurence Stanley
+  state: 1
+name: gear.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 34
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5508e1a2e4b08a079699ef04
+  id: 5508e1a2e4b08a079699ef04
+  image: /images/placeholder-user.png
+  name: Daniel Wahl
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2315dc0d25254df797d1995a/w/0eea5acb2443458480198af4?t=1428334660595
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2315dc0d25254df797d1995a/w/0eea5acb2443458480198af4/s/600x340?t=1428334660595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2315dc0d25254df797d1995a/w/0eea5acb2443458480198af4/s/300x300?t=1428334660595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2315dc0d25254df797d1995a/w/0eea5acb2443458480198af4/s/300x170?t=1428334660595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2315dc0d25254df797d1995a/w/0eea5acb2443458480198af4/s/70x40?t=1428334660595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

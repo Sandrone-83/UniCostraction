@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T09:50:17.255+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552d366be4b073b4bdcab44a
+  id: 552d366be4b073b4bdcab44a
+  image: /images/placeholder-user.png
+  name: Jean
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/df7a3eec4f5f4e849c3ebcb2/workspaces/a433ea1403ef4f34a428eca5
+  id: a433ea1403ef4f34a428eca5
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/df7a3eec4f5f4e849c3ebcb2
+id: df7a3eec4f5f4e849c3ebcb2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-16T09:52:36.966+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552d366be4b073b4bdcab44a
+  id: 552d366be4b073b4bdcab44a
+  image: /images/placeholder-user.png
+  name: Jean
+  state: 1
+name: Copy of Sample - Hexapod
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552d366be4b073b4bdcab44a
+  id: 552d366be4b073b4bdcab44a
+  image: /images/placeholder-user.png
+  name: Jean
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/df7a3eec4f5f4e849c3ebcb2/w/a433ea1403ef4f34a428eca5?t=1429177841058
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/df7a3eec4f5f4e849c3ebcb2/w/a433ea1403ef4f34a428eca5/s/300x300?t=1429177841058
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df7a3eec4f5f4e849c3ebcb2/w/a433ea1403ef4f34a428eca5/s/300x170?t=1429177841058
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df7a3eec4f5f4e849c3ebcb2/w/a433ea1403ef4f34a428eca5/s/600x340?t=1429177841058
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df7a3eec4f5f4e849c3ebcb2/w/a433ea1403ef4f34a428eca5/s/70x40?t=1429177841058
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

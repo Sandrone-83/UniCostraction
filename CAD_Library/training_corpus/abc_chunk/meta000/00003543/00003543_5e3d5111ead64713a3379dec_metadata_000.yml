@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T14:27:52.443+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55390075e4b0a805f48015e8
+  id: 55390075e4b0a805f48015e8
+  image: /images/placeholder-user.png
+  name: Ulrik Nielsen
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5e3d5111ead64713a3379dec/workspaces/35c38d678a434a2097284706
+  id: 35c38d678a434a2097284706
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5e3d5111ead64713a3379dec
+id: 5e3d5111ead64713a3379dec
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-27T14:19:06.394+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55390075e4b0a805f48015e8
+  id: 55390075e4b0a805f48015e8
+  image: /images/placeholder-user.png
+  name: Ulrik Nielsen
+  state: 1
+name: VariSpecCap
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55390075e4b0a805f48015e8
+  id: 55390075e4b0a805f48015e8
+  image: /images/placeholder-user.png
+  name: Ulrik Nielsen
+  type: 0
+parentId: b6b15c06359bcd8b587bc500
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5e3d5111ead64713a3379dec/w/35c38d678a434a2097284706?t=1430148041100
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5e3d5111ead64713a3379dec/w/35c38d678a434a2097284706/s/70x40?t=1430148041100
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5e3d5111ead64713a3379dec/w/35c38d678a434a2097284706/s/300x300?t=1430148041100
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5e3d5111ead64713a3379dec/w/35c38d678a434a2097284706/s/600x340?t=1430148041100
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5e3d5111ead64713a3379dec/w/35c38d678a434a2097284706/s/300x170?t=1430148041100
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

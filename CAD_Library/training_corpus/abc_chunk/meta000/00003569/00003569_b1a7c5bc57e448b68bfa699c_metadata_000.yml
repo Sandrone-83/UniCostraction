@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-24T10:55:31.084+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdb91be4b0d70547f2beda
+  id: 54fdb91be4b0d70547f2beda
+  image: /images/placeholder-user.png
+  name: Kristofer Skyttner
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b1a7c5bc57e448b68bfa699c/workspaces/8503735cfee44dfb982f5a48
+  id: 8503735cfee44dfb982f5a48
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b1a7c5bc57e448b68bfa699c
+id: b1a7c5bc57e448b68bfa699c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-28T16:35:12.672+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdb91be4b0d70547f2beda
+  id: 54fdb91be4b0d70547f2beda
+  image: /images/placeholder-user.png
+  name: Kristofer Skyttner
+  state: 1
+name: "Krok f\xF6r jackor"
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdb91be4b0d70547f2beda
+  id: 54fdb91be4b0d70547f2beda
+  image: /images/placeholder-user.png
+  name: Kristofer Skyttner
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b1a7c5bc57e448b68bfa699c/w/8503735cfee44dfb982f5a48?t=1429963027350
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b1a7c5bc57e448b68bfa699c/w/8503735cfee44dfb982f5a48/s/300x170?t=1429963027350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b1a7c5bc57e448b68bfa699c/w/8503735cfee44dfb982f5a48/s/600x340?t=1429963027350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b1a7c5bc57e448b68bfa699c/w/8503735cfee44dfb982f5a48/s/300x300?t=1429963027350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b1a7c5bc57e448b68bfa699c/w/8503735cfee44dfb982f5a48/s/70x40?t=1429963027350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

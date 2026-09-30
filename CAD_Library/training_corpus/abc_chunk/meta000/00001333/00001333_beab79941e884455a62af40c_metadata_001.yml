@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T02:22:41.302+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501c606e4b0e0e0dc6c5a3e
+  id: 5501c606e4b0e0e0dc6c5a3e
+  image: /images/placeholder-user.png
+  name: Robert Ely
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/beab79941e884455a62af40c/workspaces/704715935c9c44f184d92d04
+  id: 704715935c9c44f184d92d04
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/beab79941e884455a62af40c
+id: beab79941e884455a62af40c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-06-27T18:19:36.121+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501c606e4b0e0e0dc6c5a3e
+  id: 5501c606e4b0e0e0dc6c5a3e
+  image: /images/placeholder-user.png
+  name: Robert Ely
+  state: 1
+name: PizzaArcade - Gamepad Mk1
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501c606e4b0e0e0dc6c5a3e
+  id: 5501c606e4b0e0e0dc6c5a3e
+  image: /images/placeholder-user.png
+  name: Robert Ely
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/beab79941e884455a62af40c/w/704715935c9c44f184d92d04?t=1467051579742
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/beab79941e884455a62af40c/w/704715935c9c44f184d92d04/s/600x340?t=1467051579742
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/beab79941e884455a62af40c/w/704715935c9c44f184d92d04/s/300x300?t=1467051579742
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/beab79941e884455a62af40c/w/704715935c9c44f184d92d04/s/300x170?t=1467051579742
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/beab79941e884455a62af40c/w/704715935c9c44f184d92d04/s/70x40?t=1467051579742
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

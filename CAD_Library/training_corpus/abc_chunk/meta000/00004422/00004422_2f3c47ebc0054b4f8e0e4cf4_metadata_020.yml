@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-07T01:45:32.201+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5549b498e4b089bb8409c3aa
+  id: 5549b498e4b089bb8409c3aa
+  image: /images/placeholder-user.png
+  name: Joshua Beavers
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2f3c47ebc0054b4f8e0e4cf4/workspaces/c4f83f6565ed4fbd8a8a04b4
+  id: c4f83f6565ed4fbd8a8a04b4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2f3c47ebc0054b4f8e0e4cf4
+id: 2f3c47ebc0054b4f8e0e4cf4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-01-06T08:56:37.966+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5549b498e4b089bb8409c3aa
+  id: 5549b498e4b089bb8409c3aa
+  image: /images/placeholder-user.png
+  name: Joshua Beavers
+  state: 1
+name: Chipload assem
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5549b498e4b089bb8409c3aa
+  id: 5549b498e4b089bb8409c3aa
+  image: /images/placeholder-user.png
+  name: Joshua Beavers
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2f3c47ebc0054b4f8e0e4cf4/w/c4f83f6565ed4fbd8a8a04b4?t=1452070604749
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2f3c47ebc0054b4f8e0e4cf4/w/c4f83f6565ed4fbd8a8a04b4/s/300x170?t=1452070604749
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f3c47ebc0054b4f8e0e4cf4/w/c4f83f6565ed4fbd8a8a04b4/s/70x40?t=1452070604749
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f3c47ebc0054b4f8e0e4cf4/w/c4f83f6565ed4fbd8a8a04b4/s/600x340?t=1452070604749
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f3c47ebc0054b4f8e0e4cf4/w/c4f83f6565ed4fbd8a8a04b4/s/300x300?t=1452070604749
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

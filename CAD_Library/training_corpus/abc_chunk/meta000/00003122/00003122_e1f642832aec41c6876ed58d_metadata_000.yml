@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-13T20:25:30.567+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdcaf9e4b024f269d81649
+  id: 54fdcaf9e4b024f269d81649
+  image: /images/placeholder-user.png
+  name: DefProc
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e1f642832aec41c6876ed58d/workspaces/abf826d3566144299b313b04
+  id: abf826d3566144299b313b04
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e1f642832aec41c6876ed58d
+id: e1f642832aec41c6876ed58d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-14T14:35:19.002+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdcaf9e4b024f269d81649
+  id: 54fdcaf9e4b024f269d81649
+  image: /images/placeholder-user.png
+  name: DefProc
+  state: 1
+name: Ping pong ball acceleration wheels
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdcaf9e4b024f269d81649
+  id: 54fdcaf9e4b024f269d81649
+  image: /images/placeholder-user.png
+  name: DefProc
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e1f642832aec41c6876ed58d/w/abf826d3566144299b313b04?t=1429022125587
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e1f642832aec41c6876ed58d/w/abf826d3566144299b313b04/s/600x340?t=1429022125587
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e1f642832aec41c6876ed58d/w/abf826d3566144299b313b04/s/70x40?t=1429022125587
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e1f642832aec41c6876ed58d/w/abf826d3566144299b313b04/s/300x300?t=1429022125587
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e1f642832aec41c6876ed58d/w/abf826d3566144299b313b04/s/300x170?t=1429022125587
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

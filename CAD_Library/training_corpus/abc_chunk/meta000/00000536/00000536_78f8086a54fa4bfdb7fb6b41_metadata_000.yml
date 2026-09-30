@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-03T20:12:36.035+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5473c51be4b027c7760c5932
+  id: 5473c51be4b027c7760c5932
+  image: https://profiles.onshape.com/e2c5720d7fec4dfe9b0b5d17343af387815c3d0fa97470b526b0849567072a59.png
+  name: Ricky Jordan
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/78f8086a54fa4bfdb7fb6b41/workspaces/b5a4214dd22f402b8839ab53
+  id: b5a4214dd22f402b8839ab53
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/78f8086a54fa4bfdb7fb6b41
+id: 78f8086a54fa4bfdb7fb6b41
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T00:40:35.003+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5473c51be4b027c7760c5932
+  id: 5473c51be4b027c7760c5932
+  image: https://profiles.onshape.com/e2c5720d7fec4dfe9b0b5d17343af387815c3d0fa97470b526b0849567072a59.png
+  name: Ricky Jordan
+  state: 1
+name: Flashlight
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5473c51be4b027c7760c5932
+  id: 5473c51be4b027c7760c5932
+  image: https://profiles.onshape.com/e2c5720d7fec4dfe9b0b5d17343af387815c3d0fa97470b526b0849567072a59.png
+  name: Ricky Jordan
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/78f8086a54fa4bfdb7fb6b41/w/b5a4214dd22f402b8839ab53?t=1424149122047
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/78f8086a54fa4bfdb7fb6b41/w/b5a4214dd22f402b8839ab53/s/600x340?t=1424149122047
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/78f8086a54fa4bfdb7fb6b41/w/b5a4214dd22f402b8839ab53/s/300x300?t=1424149122047
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/78f8086a54fa4bfdb7fb6b41/w/b5a4214dd22f402b8839ab53/s/300x170?t=1424149122047
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/78f8086a54fa4bfdb7fb6b41/w/b5a4214dd22f402b8839ab53/s/70x40?t=1424149122047
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

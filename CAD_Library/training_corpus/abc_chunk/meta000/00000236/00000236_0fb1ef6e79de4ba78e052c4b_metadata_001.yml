@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-14T02:25:49.219+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0fb1ef6e79de4ba78e052c4b/workspaces/fa8ac167ac74498ab33698e7
+  id: fa8ac167ac74498ab33698e7
+  name: Screws
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0fb1ef6e79de4ba78e052c4b
+id: 0fb1ef6e79de4ba78e052c4b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-25T01:05:32.350+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  state: 1
+name: Custom Media Center
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0fb1ef6e79de4ba78e052c4b/w/fa8ac167ac74498ab33698e7?t=1511571991219
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0fb1ef6e79de4ba78e052c4b/w/fa8ac167ac74498ab33698e7/s/300x170?t=1511571991219
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0fb1ef6e79de4ba78e052c4b/w/fa8ac167ac74498ab33698e7/s/300x300?t=1511571991219
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0fb1ef6e79de4ba78e052c4b/w/fa8ac167ac74498ab33698e7/s/70x40?t=1511571991219
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0fb1ef6e79de4ba78e052c4b/w/fa8ac167ac74498ab33698e7/s/600x340?t=1511571991219
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

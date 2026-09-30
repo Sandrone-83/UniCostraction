@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-26T16:09:14.167+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f63ddbe4b0108d0fd87f48
+  id: 53f63ddbe4b0108d0fd87f48
+  image: /images/placeholder-user.png
+  name: Piet Verschelde
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5a6ef3285b89452ea6b390e7/workspaces/7cbee4381165404c845ba9c4
+  id: 7cbee4381165404c845ba9c4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5a6ef3285b89452ea6b390e7
+id: 5a6ef3285b89452ea6b390e7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-08-27T01:15:03.118+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55ef9273e4b0639ab1359192
+  id: 55ef9273e4b0639ab1359192
+  image: /images/placeholder-user.png
+  name: Kedi Kedi
+  state: 1
+name: Mechanism tests
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f63ddbe4b0108d0fd87f48
+  id: 53f63ddbe4b0108d0fd87f48
+  image: /images/placeholder-user.png
+  name: Piet Verschelde
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5a6ef3285b89452ea6b390e7/w/7cbee4381165404c845ba9c4?t=1422391382139
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5a6ef3285b89452ea6b390e7/w/7cbee4381165404c845ba9c4/s/300x170?t=1422391382139
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5a6ef3285b89452ea6b390e7/w/7cbee4381165404c845ba9c4/s/600x340?t=1422391382139
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5a6ef3285b89452ea6b390e7/w/7cbee4381165404c845ba9c4/s/70x40?t=1422391382139
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5a6ef3285b89452ea6b390e7/w/7cbee4381165404c845ba9c4/s/300x300?t=1422391382139
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

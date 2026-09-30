@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-26T20:42:58.796+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5528be6de4b047b72cb0f856
+  id: 5528be6de4b047b72cb0f856
+  image: https://profiles.onshape.com/8e04f9f02b620ae21708339cc6bd3731565d400dedf40ca2e28896fbd39a1b9b.png
+  name: Tarek Mustafa
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/971bc931fc6442138db151bc/workspaces/93d016a405b94e9a9a72046a
+  id: 93d016a405b94e9a9a72046a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/971bc931fc6442138db151bc
+id: 971bc931fc6442138db151bc
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-23T06:08:52.641+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  state: 1
+name: Musik Box
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5528be6de4b047b72cb0f856
+  id: 5528be6de4b047b72cb0f856
+  image: https://profiles.onshape.com/8e04f9f02b620ae21708339cc6bd3731565d400dedf40ca2e28896fbd39a1b9b.png
+  name: Tarek Mustafa
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/971bc931fc6442138db151bc/w/93d016a405b94e9a9a72046a?t=1492333257302
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/971bc931fc6442138db151bc/w/93d016a405b94e9a9a72046a/s/70x40?t=1492333257302
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/971bc931fc6442138db151bc/w/93d016a405b94e9a9a72046a/s/300x170?t=1492333257302
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/971bc931fc6442138db151bc/w/93d016a405b94e9a9a72046a/s/300x300?t=1492333257302
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/971bc931fc6442138db151bc/w/93d016a405b94e9a9a72046a/s/600x340?t=1492333257302
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

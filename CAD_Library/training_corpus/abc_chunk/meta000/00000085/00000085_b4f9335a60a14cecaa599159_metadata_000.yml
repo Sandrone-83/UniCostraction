@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-24T01:23:01.484+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ee3dd5e4b06b2e8691566f
+  id: 53ee3dd5e4b06b2e8691566f
+  image: https://profiles.onshape.com/b81d707a12abf02bf74086babb705486c55a948c7a56d1b4cf35f2a61be7b2af.png
+  name: Doug
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b4f9335a60a14cecaa599159/workspaces/3e544f66c78b4093aed72dc7
+  id: 3e544f66c78b4093aed72dc7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b4f9335a60a14cecaa599159
+id: b4f9335a60a14cecaa599159
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-20T15:05:57.480+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53ee3dd5e4b06b2e8691566f
+  id: 53ee3dd5e4b06b2e8691566f
+  image: https://profiles.onshape.com/b81d707a12abf02bf74086babb705486c55a948c7a56d1b4cf35f2a61be7b2af.png
+  name: Doug
+  state: 1
+name: MAIN GEAR BOX ASSEMBLY.STEP
+notRevisionManaged: false
+numberOfTimesCopied: 6
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ee3dd5e4b06b2e8691566f
+  id: 53ee3dd5e4b06b2e8691566f
+  image: https://profiles.onshape.com/b81d707a12abf02bf74086babb705486c55a948c7a56d1b4cf35f2a61be7b2af.png
+  name: Doug
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b4f9335a60a14cecaa599159/w/3e544f66c78b4093aed72dc7?t=1428374094641
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b4f9335a60a14cecaa599159/w/3e544f66c78b4093aed72dc7/s/600x340?t=1428374094641
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b4f9335a60a14cecaa599159/w/3e544f66c78b4093aed72dc7/s/300x170?t=1428374094641
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b4f9335a60a14cecaa599159/w/3e544f66c78b4093aed72dc7/s/300x300?t=1428374094641
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b4f9335a60a14cecaa599159/w/3e544f66c78b4093aed72dc7/s/70x40?t=1428374094641
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

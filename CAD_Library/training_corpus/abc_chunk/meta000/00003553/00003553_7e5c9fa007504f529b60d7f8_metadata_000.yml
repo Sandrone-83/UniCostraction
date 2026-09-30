@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T22:11:05.527+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54295a42e4b042721e167c18
+  id: 54295a42e4b042721e167c18
+  image: /images/placeholder-user.png
+  name: Ken Murphy
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/7e5c9fa007504f529b60d7f8/workspaces/53fba3d5b77a4547bbeb3b47
+  id: 53fba3d5b77a4547bbeb3b47
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/7e5c9fa007504f529b60d7f8
+id: 7e5c9fa007504f529b60d7f8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-22T14:32:26.673+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54295a42e4b042721e167c18
+  id: 54295a42e4b042721e167c18
+  image: /images/placeholder-user.png
+  name: Ken Murphy
+  state: 1
+name: verticalCardHolder
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54295a42e4b042721e167c18
+  id: 54295a42e4b042721e167c18
+  image: /images/placeholder-user.png
+  name: Ken Murphy
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/7e5c9fa007504f529b60d7f8/w/53fba3d5b77a4547bbeb3b47?t=1445524404402
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/7e5c9fa007504f529b60d7f8/w/53fba3d5b77a4547bbeb3b47/s/600x340?t=1445524404402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7e5c9fa007504f529b60d7f8/w/53fba3d5b77a4547bbeb3b47/s/300x300?t=1445524404402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7e5c9fa007504f529b60d7f8/w/53fba3d5b77a4547bbeb3b47/s/70x40?t=1445524404402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7e5c9fa007504f529b60d7f8/w/53fba3d5b77a4547bbeb3b47/s/300x170?t=1445524404402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

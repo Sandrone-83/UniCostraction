@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-07T02:26:35.141+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/543300b0e4b0d61590c8f2c6
+  id: 543300b0e4b0d61590c8f2c6
+  image: https://profiles.onshape.com/407d990063bf4915a4aa6688ae49c986ce048e680dba168e36e7b7320d026b9e.png
+  name: Kevin Simon
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9a5e4860c0044dd9825667d2/workspaces/bf820a5b18854312a62b52de
+  id: bf820a5b18854312a62b52de
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9a5e4860c0044dd9825667d2
+id: 9a5e4860c0044dd9825667d2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 4
+modifiedAt: 2016-08-25T15:19:12.199+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/578f78b8e4b0278e7d69421a
+  id: 578f78b8e4b0278e7d69421a
+  image: /images/placeholder-user.png
+  name: Todd Lloyd
+  state: 0
+name: Sample - Bicycle Helmet
+notRevisionManaged: false
+numberOfTimesCopied: 14
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/543300b0e4b0d61590c8f2c6
+  id: 543300b0e4b0d61590c8f2c6
+  image: https://profiles.onshape.com/407d990063bf4915a4aa6688ae49c986ce048e680dba168e36e7b7320d026b9e.png
+  name: Kevin Simon
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9a5e4860c0044dd9825667d2/w/bf820a5b18854312a62b52de?t=1412709424507
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9a5e4860c0044dd9825667d2/w/bf820a5b18854312a62b52de/s/600x340?t=1412709424507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9a5e4860c0044dd9825667d2/w/bf820a5b18854312a62b52de/s/300x170?t=1412709424507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9a5e4860c0044dd9825667d2/w/bf820a5b18854312a62b52de/s/70x40?t=1412709424507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

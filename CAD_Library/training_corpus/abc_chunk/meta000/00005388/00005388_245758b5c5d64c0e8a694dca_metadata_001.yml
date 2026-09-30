@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-20T04:24:18.305+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5546af36e4b0b6c175df464e
+  id: 5546af36e4b0b6c175df464e
+  image: https://profiles.onshape.com/e7dcec50f56aae7485bd8efadd6a102226014d03557066036275e0831d7a7d32.png
+  name: Paul Breed
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/245758b5c5d64c0e8a694dca/workspaces/7907f20bb37b495b8b5a76b1
+  id: 7907f20bb37b495b8b5a76b1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/245758b5c5d64c0e8a694dca
+id: 245758b5c5d64c0e8a694dca
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-25T18:39:03.604+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5546af36e4b0b6c175df464e
+  id: 5546af36e4b0b6c175df464e
+  image: https://profiles.onshape.com/e7dcec50f56aae7485bd8efadd6a102226014d03557066036275e0831d7a7d32.png
+  name: Paul Breed
+  state: 1
+name: TankEndCapAssembly
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5546af36e4b0b6c175df464e
+  id: 5546af36e4b0b6c175df464e
+  image: https://profiles.onshape.com/e7dcec50f56aae7485bd8efadd6a102226014d03557066036275e0831d7a7d32.png
+  name: Paul Breed
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/245758b5c5d64c0e8a694dca/w/7907f20bb37b495b8b5a76b1?t=1432582853531
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/245758b5c5d64c0e8a694dca/w/7907f20bb37b495b8b5a76b1/s/600x340?t=1432582853531
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/245758b5c5d64c0e8a694dca/w/7907f20bb37b495b8b5a76b1/s/300x170?t=1432582853531
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/245758b5c5d64c0e8a694dca/w/7907f20bb37b495b8b5a76b1/s/70x40?t=1432582853531
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/245758b5c5d64c0e8a694dca/w/7907f20bb37b495b8b5a76b1/s/300x300?t=1432582853531
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-14T14:45:00.116+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501606be4b0120eedd95ac2
+  id: 5501606be4b0120eedd95ac2
+  image: /images/placeholder-user.png
+  name: Steve Wellcome
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/61e90aec555b47b3aaffe118/workspaces/27b0488de6254f3694b1183a
+  id: 27b0488de6254f3694b1183a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/61e90aec555b47b3aaffe118
+id: 61e90aec555b47b3aaffe118
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T16:48:07.740+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501606be4b0120eedd95ac2
+  id: 5501606be4b0120eedd95ac2
+  image: /images/placeholder-user.png
+  name: Steve Wellcome
+  state: 1
+name: MillingMachineQuillClamp
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501606be4b0120eedd95ac2
+  id: 5501606be4b0120eedd95ac2
+  image: /images/placeholder-user.png
+  name: Steve Wellcome
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/61e90aec555b47b3aaffe118/w/27b0488de6254f3694b1183a?t=1429351018973
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/61e90aec555b47b3aaffe118/w/27b0488de6254f3694b1183a/s/600x340?t=1429351018973
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61e90aec555b47b3aaffe118/w/27b0488de6254f3694b1183a/s/300x170?t=1429351018973
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61e90aec555b47b3aaffe118/w/27b0488de6254f3694b1183a/s/300x300?t=1429351018973
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61e90aec555b47b3aaffe118/w/27b0488de6254f3694b1183a/s/70x40?t=1429351018973
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

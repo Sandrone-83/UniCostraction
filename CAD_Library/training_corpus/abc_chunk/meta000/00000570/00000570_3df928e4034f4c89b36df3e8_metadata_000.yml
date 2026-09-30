@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-16T18:26:12.966+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/3df928e4034f4c89b36df3e8/workspaces/d97e879e7f17499b97649259
+  id: d97e879e7f17499b97649259
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/3df928e4034f4c89b36df3e8
+id: 3df928e4034f4c89b36df3e8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-25T15:18:16.128+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57be23e2a93c2530b89ecfdb
+  id: 57be23e2a93c2530b89ecfdb
+  image: /images/placeholder-user.png
+  name: Spiro
+  state: 1
+name: Sample - Prosthetic Leg
+notRevisionManaged: false
+numberOfTimesCopied: 5
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/3df928e4034f4c89b36df3e8/w/d97e879e7f17499b97649259?t=1421434990116
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/3df928e4034f4c89b36df3e8/w/d97e879e7f17499b97649259/s/300x170?t=1421434990116
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3df928e4034f4c89b36df3e8/w/d97e879e7f17499b97649259/s/600x340?t=1421434990116
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3df928e4034f4c89b36df3e8/w/d97e879e7f17499b97649259/s/70x40?t=1421434990116
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

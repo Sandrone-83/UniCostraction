@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-28T12:19:25.828+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550a7f26e4b0cdf1efec2397
+  id: 550a7f26e4b0cdf1efec2397
+  image: /images/placeholder-user.png
+  name: Akane Shingu
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/3ddc53347f824e4e90c9f6b0/workspaces/0fa770cc162141edaffd231a
+  id: 0fa770cc162141edaffd231a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/3ddc53347f824e4e90c9f6b0
+id: 3ddc53347f824e4e90c9f6b0
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-07-11T07:50:17.500+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550a7f26e4b0cdf1efec2397
+  id: 550a7f26e4b0cdf1efec2397
+  image: /images/placeholder-user.png
+  name: Akane Shingu
+  state: 1
+name: "\u4E5D\u4E8C\u5F0F\u91CD\u6A5F\u95A2\u9283\u3000Type92 Heavy Machine Gun"
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550a7f26e4b0cdf1efec2397
+  id: 550a7f26e4b0cdf1efec2397
+  image: /images/placeholder-user.png
+  name: Akane Shingu
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/3ddc53347f824e4e90c9f6b0/w/0fa770cc162141edaffd231a?t=1499759429411
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/3ddc53347f824e4e90c9f6b0/w/0fa770cc162141edaffd231a/s/300x300?t=1499759429411
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3ddc53347f824e4e90c9f6b0/w/0fa770cc162141edaffd231a/s/70x40?t=1499759429411
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3ddc53347f824e4e90c9f6b0/w/0fa770cc162141edaffd231a/s/300x170?t=1499759429411
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3ddc53347f824e4e90c9f6b0/w/0fa770cc162141edaffd231a/s/600x340?t=1499759429411
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

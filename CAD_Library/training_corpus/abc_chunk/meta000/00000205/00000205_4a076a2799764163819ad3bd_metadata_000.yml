@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-30T19:07:32.722+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4a076a2799764163819ad3bd/workspaces/cc623cfad8c343a191493122
+  id: cc623cfad8c343a191493122
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4a076a2799764163819ad3bd
+id: 4a076a2799764163819ad3bd
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-01T22:36:54.458+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  state: 1
+name: Sample - Bicycle Helmet
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4a076a2799764163819ad3bd/w/cc623cfad8c343a191493122?t=1470091059843
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4a076a2799764163819ad3bd/w/cc623cfad8c343a191493122/s/300x300?t=1470091059843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4a076a2799764163819ad3bd/w/cc623cfad8c343a191493122/s/70x40?t=1470091059843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4a076a2799764163819ad3bd/w/cc623cfad8c343a191493122/s/300x170?t=1470091059843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4a076a2799764163819ad3bd/w/cc623cfad8c343a191493122/s/600x340?t=1470091059843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-09T18:03:56.965+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54614019e4b03a852b16685e
+  id: 54614019e4b03a852b16685e
+  image: /images/placeholder-user.png
+  name: Adam Haberlach
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b6350639195e4a19957904f9/workspaces/4247f72d6fe0448eb1057ca1
+  id: 4247f72d6fe0448eb1057ca1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b6350639195e4a19957904f9
+id: b6350639195e4a19957904f9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-27T03:43:28.886+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54614019e4b03a852b16685e
+  id: 54614019e4b03a852b16685e
+  image: /images/placeholder-user.png
+  name: Adam Haberlach
+  state: 1
+name: ArduinoMount
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54614019e4b03a852b16685e
+  id: 54614019e4b03a852b16685e
+  image: /images/placeholder-user.png
+  name: Adam Haberlach
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b6350639195e4a19957904f9/w/4247f72d6fe0448eb1057ca1?t=1432698324623
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b6350639195e4a19957904f9/w/4247f72d6fe0448eb1057ca1/s/600x340?t=1432698324623
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b6350639195e4a19957904f9/w/4247f72d6fe0448eb1057ca1/s/300x170?t=1432698324623
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b6350639195e4a19957904f9/w/4247f72d6fe0448eb1057ca1/s/70x40?t=1432698324623
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b6350639195e4a19957904f9/w/4247f72d6fe0448eb1057ca1/s/300x300?t=1432698324623
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

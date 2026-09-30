@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-30T21:23:03.780+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55382f5ae4b0a805f4801517
+  id: 55382f5ae4b0a805f4801517
+  image: /images/placeholder-user.png
+  name: Paul Chittenden
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e00d4b032d454ef8ada2c727/workspaces/bfb320e5e16f450c8e0a8bd8
+  id: bfb320e5e16f450c8e0a8bd8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e00d4b032d454ef8ada2c727
+id: e00d4b032d454ef8ada2c727
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-06T22:59:51.566+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55382f5ae4b0a805f4801517
+  id: 55382f5ae4b0a805f4801517
+  image: /images/placeholder-user.png
+  name: Paul Chittenden
+  state: 1
+name: T5 Shift Extension
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55382f5ae4b0a805f4801517
+  id: 55382f5ae4b0a805f4801517
+  image: /images/placeholder-user.png
+  name: Paul Chittenden
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e00d4b032d454ef8ada2c727/w/bfb320e5e16f450c8e0a8bd8?t=1459982639301
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e00d4b032d454ef8ada2c727/w/bfb320e5e16f450c8e0a8bd8/s/300x170?t=1459982639301
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e00d4b032d454ef8ada2c727/w/bfb320e5e16f450c8e0a8bd8/s/70x40?t=1459982639301
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e00d4b032d454ef8ada2c727/w/bfb320e5e16f450c8e0a8bd8/s/600x340?t=1459982639301
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e00d4b032d454ef8ada2c727/w/bfb320e5e16f450c8e0a8bd8/s/300x300?t=1459982639301
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

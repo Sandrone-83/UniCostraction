@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-13T20:27:45.569+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53eba6c3e4b09503f3215bdd
+  id: 53eba6c3e4b09503f3215bdd
+  image: /images/placeholder-user.png
+  name: Tommy Mueller
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5b1c2f8a8c6f40fdaae1e69d/workspaces/fd9fe684325d4c0bb4d47656
+  id: fd9fe684325d4c0bb4d47656
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5b1c2f8a8c6f40fdaae1e69d
+id: 5b1c2f8a8c6f40fdaae1e69d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 2
+modifiedAt: 2016-08-24T23:02:03.298+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5684ea03e4b08fb572b13a22
+  id: 5684ea03e4b08fb572b13a22
+  image: /images/placeholder-user.png
+  name: Justin Walker
+  state: 1
+name: Mechanical Pencil
+notRevisionManaged: false
+numberOfTimesCopied: 5
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53eba6c3e4b09503f3215bdd
+  id: 53eba6c3e4b09503f3215bdd
+  image: /images/placeholder-user.png
+  name: Tommy Mueller
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5b1c2f8a8c6f40fdaae1e69d/w/fd9fe684325d4c0bb4d47656?t=1408675131805
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5b1c2f8a8c6f40fdaae1e69d/w/fd9fe684325d4c0bb4d47656/s/70x40?t=1408675131805
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5b1c2f8a8c6f40fdaae1e69d/w/fd9fe684325d4c0bb4d47656/s/300x170?t=1408675131805
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5b1c2f8a8c6f40fdaae1e69d/w/fd9fe684325d4c0bb4d47656/s/600x340?t=1408675131805
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-30T04:05:01.969+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/008ac7621b8c4a199f5780f1/workspaces/0a2453929cfe4d28a0699b7f
+  id: 0a2453929cfe4d28a0699b7f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/008ac7621b8c4a199f5780f1
+id: 008ac7621b8c4a199f5780f1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-05T17:31:07.592+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  state: 1
+name: Tablet Holder
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/008ac7621b8c4a199f5780f1/w/0a2453929cfe4d28a0699b7f?t=1436130893257
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/008ac7621b8c4a199f5780f1/w/0a2453929cfe4d28a0699b7f/s/70x40?t=1436130893257
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/008ac7621b8c4a199f5780f1/w/0a2453929cfe4d28a0699b7f/s/300x300?t=1436130893257
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/008ac7621b8c4a199f5780f1/w/0a2453929cfe4d28a0699b7f/s/600x340?t=1436130893257
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/008ac7621b8c4a199f5780f1/w/0a2453929cfe4d28a0699b7f/s/300x170?t=1436130893257
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

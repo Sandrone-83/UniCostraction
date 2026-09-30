@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-19T16:08:49.521+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55007eeee4b02630a84536f1
+  id: 55007eeee4b02630a84536f1
+  image: /images/placeholder-user.png
+  name: Seth Moczydlowski
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9b231e07646740d3aa893236/workspaces/68f0e80b59354f178e45352e
+  id: 68f0e80b59354f178e45352e
+  name: Caterpillar 777f
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9b231e07646740d3aa893236
+id: 9b231e07646740d3aa893236
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 2
+modifiedAt: 2015-08-14T02:54:24.486+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55007eeee4b02630a84536f1
+  id: 55007eeee4b02630a84536f1
+  image: /images/placeholder-user.png
+  name: Seth Moczydlowski
+  state: 1
+name: Caterpillar777f
+notRevisionManaged: false
+numberOfTimesCopied: 7
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55007eeee4b02630a84536f1
+  id: 55007eeee4b02630a84536f1
+  image: /images/placeholder-user.png
+  name: Seth Moczydlowski
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9b231e07646740d3aa893236/w/68f0e80b59354f178e45352e?t=1436236231243
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9b231e07646740d3aa893236/w/68f0e80b59354f178e45352e/s/300x300?t=1436236231243
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9b231e07646740d3aa893236/w/68f0e80b59354f178e45352e/s/600x340?t=1436236231243
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9b231e07646740d3aa893236/w/68f0e80b59354f178e45352e/s/300x170?t=1436236231243
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9b231e07646740d3aa893236/w/68f0e80b59354f178e45352e/s/70x40?t=1436236231243
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

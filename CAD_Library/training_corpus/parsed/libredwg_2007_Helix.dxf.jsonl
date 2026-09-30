@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Helix.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"HELIX": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-3.902, 8.989], [6.702, 19.112]]}
+{"kind": "entity", "type": "HELIX", "layer": "0"}

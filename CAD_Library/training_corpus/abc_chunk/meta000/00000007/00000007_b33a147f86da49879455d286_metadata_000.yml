@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-04T17:41:58.770+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53dfa54be4b06a1dc62f2278
+  id: 53dfa54be4b06a1dc62f2278
+  image: /images/placeholder-user.png
+  name: David Katzman (Gmail)
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b33a147f86da49879455d286/workspaces/bfdeeceb44a140cfae14fdd1
+  id: bfdeeceb44a140cfae14fdd1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b33a147f86da49879455d286
+id: b33a147f86da49879455d286
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-09-25T17:02:01.723+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53bca1a6e4b034f430934eaf
+  id: 53bca1a6e4b034f430934eaf
+  image: /images/placeholder-user.png
+  name: System
+  state: 2
+name: Sample Document 2
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53dfa54be4b06a1dc62f2278
+  id: 53dfa54be4b06a1dc62f2278
+  image: /images/placeholder-user.png
+  name: David Katzman (Gmail)
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

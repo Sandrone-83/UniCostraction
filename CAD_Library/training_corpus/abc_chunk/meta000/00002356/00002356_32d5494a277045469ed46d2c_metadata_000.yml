@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-31T13:43:57.651+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdb91be4b0d70547f2beda
+  id: 54fdb91be4b0d70547f2beda
+  image: /images/placeholder-user.png
+  name: Kristofer Skyttner
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/32d5494a277045469ed46d2c/workspaces/65265e2f53ae47afb57c40c4
+  id: 65265e2f53ae47afb57c40c4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/32d5494a277045469ed46d2c
+id: 32d5494a277045469ed46d2c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-11T16:55:48.203+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdb91be4b0d70547f2beda
+  id: 54fdb91be4b0d70547f2beda
+  image: /images/placeholder-user.png
+  name: Kristofer Skyttner
+  state: 1
+name: Heated bed Makerbot 5th gen
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdb91be4b0d70547f2beda
+  id: 54fdb91be4b0d70547f2beda
+  image: /images/placeholder-user.png
+  name: Kristofer Skyttner
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/32d5494a277045469ed46d2c/w/65265e2f53ae47afb57c40c4?t=1427810268198
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/32d5494a277045469ed46d2c/w/65265e2f53ae47afb57c40c4/s/300x300?t=1427810268198
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/32d5494a277045469ed46d2c/w/65265e2f53ae47afb57c40c4/s/600x340?t=1427810268198
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/32d5494a277045469ed46d2c/w/65265e2f53ae47afb57c40c4/s/70x40?t=1427810268198
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/32d5494a277045469ed46d2c/w/65265e2f53ae47afb57c40c4/s/300x170?t=1427810268198
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

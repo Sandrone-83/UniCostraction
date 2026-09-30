@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-10T19:32:16.576+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54d944ede4b0aa627bb8db01
+  id: 54d944ede4b0aa627bb8db01
+  image: /images/placeholder-user.png
+  name: steve staehle
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/24615f5ff44d4cd5809e77a5/workspaces/00e0016b8407495889fff287
+  id: 00e0016b8407495889fff287
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/24615f5ff44d4cd5809e77a5
+id: 24615f5ff44d4cd5809e77a5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-02-10T21:17:23.696+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54d944ede4b0aa627bb8db01
+  id: 54d944ede4b0aa627bb8db01
+  image: /images/placeholder-user.png
+  name: steve staehle
+  state: 1
+name: Liner Installer
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54d944ede4b0aa627bb8db01
+  id: 54d944ede4b0aa627bb8db01
+  image: /images/placeholder-user.png
+  name: steve staehle
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/24615f5ff44d4cd5809e77a5/w/00e0016b8407495889fff287?t=1423603028679
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/24615f5ff44d4cd5809e77a5/w/00e0016b8407495889fff287/s/600x340?t=1423603028679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/24615f5ff44d4cd5809e77a5/w/00e0016b8407495889fff287/s/300x170?t=1423603028679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/24615f5ff44d4cd5809e77a5/w/00e0016b8407495889fff287/s/70x40?t=1423603028679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/24615f5ff44d4cd5809e77a5/w/00e0016b8407495889fff287/s/300x300?t=1423603028679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-21T12:58:04.977+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5534ba68e4b0219061084e1f
+  id: 5534ba68e4b0219061084e1f
+  image: /images/placeholder-user.png
+  name: Johannes Feldmaier
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/120e46e3915e4c2aae88364f/workspaces/2f3e5957c9d64e6f9623556a
+  id: 2f3e5957c9d64e6f9623556a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/120e46e3915e4c2aae88364f
+id: 120e46e3915e4c2aae88364f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-21T17:09:53.823+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5534ba68e4b0219061084e1f
+  id: 5534ba68e4b0219061084e1f
+  image: /images/placeholder-user.png
+  name: Johannes Feldmaier
+  state: 1
+name: connecting_bar_for_a_flower_box_180mm
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5534ba68e4b0219061084e1f
+  id: 5534ba68e4b0219061084e1f
+  image: /images/placeholder-user.png
+  name: Johannes Feldmaier
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/120e46e3915e4c2aae88364f/w/2f3e5957c9d64e6f9623556a?t=1432228083233
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/120e46e3915e4c2aae88364f/w/2f3e5957c9d64e6f9623556a/s/600x340?t=1432228083233
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/120e46e3915e4c2aae88364f/w/2f3e5957c9d64e6f9623556a/s/70x40?t=1432228083233
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/120e46e3915e4c2aae88364f/w/2f3e5957c9d64e6f9623556a/s/300x300?t=1432228083233
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/120e46e3915e4c2aae88364f/w/2f3e5957c9d64e6f9623556a/s/300x170?t=1432228083233
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

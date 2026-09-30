@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-12T00:08:41.786+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/3dc4ec66fde64a1fb6527b4f/workspaces/740e26a23d0b44cd830dd5d3
+  id: 740e26a23d0b44cd830dd5d3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/3dc4ec66fde64a1fb6527b4f
+id: 3dc4ec66fde64a1fb6527b4f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-15T01:04:37.651+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  state: 1
+name: Chem Silicon Mould
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/3dc4ec66fde64a1fb6527b4f/w/740e26a23d0b44cd830dd5d3?t=1434985011735
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/3dc4ec66fde64a1fb6527b4f/w/740e26a23d0b44cd830dd5d3/s/300x300?t=1434985011735
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3dc4ec66fde64a1fb6527b4f/w/740e26a23d0b44cd830dd5d3/s/600x340?t=1434985011735
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3dc4ec66fde64a1fb6527b4f/w/740e26a23d0b44cd830dd5d3/s/70x40?t=1434985011735
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3dc4ec66fde64a1fb6527b4f/w/740e26a23d0b44cd830dd5d3/s/300x170?t=1434985011735
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

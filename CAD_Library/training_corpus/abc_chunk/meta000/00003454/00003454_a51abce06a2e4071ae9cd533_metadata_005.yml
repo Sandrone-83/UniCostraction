@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-21T22:06:02.263+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55317775e4b080d5b1d51f07
+  id: 55317775e4b080d5b1d51f07
+  image: https://profiles.onshape.com/32be88f503fa729091798421ccfa2ea0f65f9624c449750b29b8424df41178cd.png
+  name: Christian Stark
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a51abce06a2e4071ae9cd533/workspaces/aefcdcf72ca24b0ca3b0a3ad
+  id: aefcdcf72ca24b0ca3b0a3ad
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a51abce06a2e4071ae9cd533
+id: a51abce06a2e4071ae9cd533
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2018-03-13T00:05:34.729+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55317775e4b080d5b1d51f07
+  id: 55317775e4b080d5b1d51f07
+  image: https://profiles.onshape.com/32be88f503fa729091798421ccfa2ea0f65f9624c449750b29b8424df41178cd.png
+  name: Christian Stark
+  state: 1
+name: GoPro Mounts
+notRevisionManaged: false
+numberOfTimesCopied: 8
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55317775e4b080d5b1d51f07
+  id: 55317775e4b080d5b1d51f07
+  image: https://profiles.onshape.com/32be88f503fa729091798421ccfa2ea0f65f9624c449750b29b8424df41178cd.png
+  name: Christian Stark
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a51abce06a2e4071ae9cd533/w/aefcdcf72ca24b0ca3b0a3ad?t=1520899548087
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a51abce06a2e4071ae9cd533/w/aefcdcf72ca24b0ca3b0a3ad/s/70x40?t=1520899548087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a51abce06a2e4071ae9cd533/w/aefcdcf72ca24b0ca3b0a3ad/s/300x170?t=1520899548087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a51abce06a2e4071ae9cd533/w/aefcdcf72ca24b0ca3b0a3ad/s/300x300?t=1520899548087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a51abce06a2e4071ae9cd533/w/aefcdcf72ca24b0ca3b0a3ad/s/600x340?t=1520899548087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

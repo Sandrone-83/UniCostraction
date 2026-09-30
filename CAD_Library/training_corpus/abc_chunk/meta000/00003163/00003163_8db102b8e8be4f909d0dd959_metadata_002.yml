@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-15T04:45:15.925+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe5d2ce4b0a9dffbb1845c
+  id: 54fe5d2ce4b0a9dffbb1845c
+  image: https://profiles.onshape.com/764ef0ea91eee4d7ccfd419158e1b84765f42958dde322b6c3636182774f3e9b.png
+  name: Adrian Trace
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/8db102b8e8be4f909d0dd959/workspaces/c2d8e655bd0549e2a1f67d36
+  id: c2d8e655bd0549e2a1f67d36
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/8db102b8e8be4f909d0dd959
+id: 8db102b8e8be4f909d0dd959
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-09-16T03:44:34.871+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe5d2ce4b0a9dffbb1845c
+  id: 54fe5d2ce4b0a9dffbb1845c
+  image: https://profiles.onshape.com/764ef0ea91eee4d7ccfd419158e1b84765f42958dde322b6c3636182774f3e9b.png
+  name: Adrian Trace
+  state: 1
+name: Gantry OX
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe5d2ce4b0a9dffbb1845c
+  id: 54fe5d2ce4b0a9dffbb1845c
+  image: https://profiles.onshape.com/764ef0ea91eee4d7ccfd419158e1b84765f42958dde322b6c3636182774f3e9b.png
+  name: Adrian Trace
+  type: 0
+parentId: 0c84d3431ad4225dd1457ae0
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/8db102b8e8be4f909d0dd959/w/c2d8e655bd0549e2a1f67d36?t=1473997209170
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/8db102b8e8be4f909d0dd959/w/c2d8e655bd0549e2a1f67d36/s/300x170?t=1473997209170
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8db102b8e8be4f909d0dd959/w/c2d8e655bd0549e2a1f67d36/s/70x40?t=1473997209170
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8db102b8e8be4f909d0dd959/w/c2d8e655bd0549e2a1f67d36/s/600x340?t=1473997209170
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8db102b8e8be4f909d0dd959/w/c2d8e655bd0549e2a1f67d36/s/300x300?t=1473997209170
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

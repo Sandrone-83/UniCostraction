@@ -1,0 +1,6 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "assimp/issue_2229.dxf", "source": "assimp/assimp (test/models, BSD)", "license": "BSD", "n_entities": 5, "entity_histogram": {"POLYLINE": 4, "VIEWPORT": 1}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 0.0], [-210.0, 0.0]]}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

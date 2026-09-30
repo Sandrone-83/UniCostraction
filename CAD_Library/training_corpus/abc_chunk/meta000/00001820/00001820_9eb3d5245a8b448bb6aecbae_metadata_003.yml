@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-22T20:03:50.227+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe7d4ae4b0191bdfa2053c
+  id: 54fe7d4ae4b0191bdfa2053c
+  image: /images/placeholder-user.png
+  name: Chris K.
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9eb3d5245a8b448bb6aecbae/workspaces/4f75912db78846b4a2885f13
+  id: 4f75912db78846b4a2885f13
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9eb3d5245a8b448bb6aecbae
+id: 9eb3d5245a8b448bb6aecbae
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-03T06:29:25.421+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe7d4ae4b0191bdfa2053c
+  id: 54fe7d4ae4b0191bdfa2053c
+  image: /images/placeholder-user.png
+  name: Chris K.
+  state: 1
+name: Standing Desk
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe7d4ae4b0191bdfa2053c
+  id: 54fe7d4ae4b0191bdfa2053c
+  image: /images/placeholder-user.png
+  name: Chris K.
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9eb3d5245a8b448bb6aecbae/w/4f75912db78846b4a2885f13?t=1427144768869
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9eb3d5245a8b448bb6aecbae/w/4f75912db78846b4a2885f13/s/300x300?t=1427144768869
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9eb3d5245a8b448bb6aecbae/w/4f75912db78846b4a2885f13/s/70x40?t=1427144768869
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9eb3d5245a8b448bb6aecbae/w/4f75912db78846b4a2885f13/s/300x170?t=1427144768869
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9eb3d5245a8b448bb6aecbae/w/4f75912db78846b4a2885f13/s/600x340?t=1427144768869
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T18:40:08.887+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe2ad0e4b0c0916a2986a2
+  id: 54fe2ad0e4b0c0916a2986a2
+  image: /images/placeholder-user.png
+  name: Max Rothman
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/21adcacb9707488ea6655fd2/workspaces/b29f9dc2a2654ce9ac17e1cc
+  id: b29f9dc2a2654ce9ac17e1cc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/21adcacb9707488ea6655fd2
+id: 21adcacb9707488ea6655fd2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-11T19:59:00.786+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe2ad0e4b0c0916a2986a2
+  id: 54fe2ad0e4b0c0916a2986a2
+  image: /images/placeholder-user.png
+  name: Max Rothman
+  state: 1
+name: Copy of Tutorials - Sketching and Dimensioning
+notRevisionManaged: false
+numberOfTimesCopied: 7
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe2ad0e4b0c0916a2986a2
+  id: 54fe2ad0e4b0c0916a2986a2
+  image: /images/placeholder-user.png
+  name: Max Rothman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/21adcacb9707488ea6655fd2/w/b29f9dc2a2654ce9ac17e1cc?t=1426103943250
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/21adcacb9707488ea6655fd2/w/b29f9dc2a2654ce9ac17e1cc/s/300x170?t=1426103943250
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/21adcacb9707488ea6655fd2/w/b29f9dc2a2654ce9ac17e1cc/s/600x340?t=1426103943250
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/21adcacb9707488ea6655fd2/w/b29f9dc2a2654ce9ac17e1cc/s/70x40?t=1426103943250
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/21adcacb9707488ea6655fd2/w/b29f9dc2a2654ce9ac17e1cc/s/300x300?t=1426103943250
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

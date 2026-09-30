@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-02T04:56:27.373+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/547bcd86e4b06e6305aa76c6
+  id: 547bcd86e4b06e6305aa76c6
+  image: /images/placeholder-user.png
+  name: Andrew Peterson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/df0692f3e8b5468c83e3f515/workspaces/3f77fe5832e74fa4803fd697
+  id: 3f77fe5832e74fa4803fd697
+  name: Stairs and Kitchen Counter along wall
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/df0692f3e8b5468c83e3f515
+id: df0692f3e8b5468c83e3f515
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-28T17:31:06.674+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/547bcd86e4b06e6305aa76c6
+  id: 547bcd86e4b06e6305aa76c6
+  image: /images/placeholder-user.png
+  name: Andrew Peterson
+  state: 1
+name: Tiny Home - 24ft
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/547bcd86e4b06e6305aa76c6
+  id: 547bcd86e4b06e6305aa76c6
+  image: /images/placeholder-user.png
+  name: Andrew Peterson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/df0692f3e8b5468c83e3f515/w/3f77fe5832e74fa4803fd697?t=1437600955482
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/df0692f3e8b5468c83e3f515/w/3f77fe5832e74fa4803fd697/s/300x300?t=1437600955482
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df0692f3e8b5468c83e3f515/w/3f77fe5832e74fa4803fd697/s/600x340?t=1437600955482
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df0692f3e8b5468c83e3f515/w/3f77fe5832e74fa4803fd697/s/70x40?t=1437600955482
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df0692f3e8b5468c83e3f515/w/3f77fe5832e74fa4803fd697/s/300x170?t=1437600955482
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T16:18:23.206+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff9cf5e4b02630a845340f
+  id: 54ff9cf5e4b02630a845340f
+  image: /images/placeholder-user.png
+  name: Jacob Russo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6e7be3d2ace14138946d04ea/workspaces/19adf1e85e0c4474a3b869cd
+  id: 19adf1e85e0c4474a3b869cd
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6e7be3d2ace14138946d04ea
+id: 6e7be3d2ace14138946d04ea
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-06-09T16:25:25.742+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff9cf5e4b02630a845340f
+  id: 54ff9cf5e4b02630a845340f
+  image: /images/placeholder-user.png
+  name: Jacob Russo
+  state: 1
+name: 2-part Color Test Assembly
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff9cf5e4b02630a845340f
+  id: 54ff9cf5e4b02630a845340f
+  image: /images/placeholder-user.png
+  name: Jacob Russo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6e7be3d2ace14138946d04ea/w/19adf1e85e0c4474a3b869cd?t=1465489632090
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6e7be3d2ace14138946d04ea/w/19adf1e85e0c4474a3b869cd/s/300x300?t=1465489632090
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e7be3d2ace14138946d04ea/w/19adf1e85e0c4474a3b869cd/s/70x40?t=1465489632090
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e7be3d2ace14138946d04ea/w/19adf1e85e0c4474a3b869cd/s/300x170?t=1465489632090
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e7be3d2ace14138946d04ea/w/19adf1e85e0c4474a3b869cd/s/600x340?t=1465489632090
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

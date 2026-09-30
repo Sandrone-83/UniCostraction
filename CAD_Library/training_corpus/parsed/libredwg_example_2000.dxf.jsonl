@@ -1,0 +1,209 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "libredwg/example_2000.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 208, "entity_histogram": {"LINE": 68, "POINT": 46, "MTEXT": 18, "SOLID": 15, "LWPOLYLINE": 11, "INSERT": 10, "DIMENSION": 9, "ARC": 5, "ATTDEF": 3, "VIEWPORT": 2, "SPLINE": 2, "REGION": 2, "TEXT": 2, "ATTRIB": 2, "WIPEOUT": 2, "3DFACE": 2, "POLYLINE": 2, "CIRCLE": 1, "XLINE": 1, "ELLIPSE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 16, "bbox": [[-320368.77, 11211.63], [-3064.577, 972635.91]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 271.5499812899507, "y1": 828.2739297568769, "x2": 398.7234623457189, "y2": 91.25601042459311}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 398.7234623457189, "y1": 91.25601042459311, "x2": -237.1440554753863, "y2": 167.4992462186237}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -237.1440554753863, "y1": 167.4992462186237, "x2": -313.4481441088501, "y2": 752.0306939628462}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -313.4481441088501, "y1": 752.0306939628462, "x2": -745.8380547266424, "y2": 777.4451125633605}
+{"kind": "entity", "type": "ATTDEF", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "CIRCLE", "layer": "Tavolo 3", "cx": 0.0, "cy": 0.0, "r": 130.0490046078758}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -72.12776981049683, "y": -10.06474101899221}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -35.36164146556985, "y": 58.16075377925881}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -30.10935083439108, "y": -20.56094401411247}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -30.10935083439108, "y": 16.17584161022387}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": 32.91832459314901, "y": -10.06474101899221}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": 11.90906814171467, "y": 0.431512070405006}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": 17.16135877287888, "y": 58.16075377925881}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -93.13702626193117, "y": -46.80152664332854}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": 69.68445293807599, "y": -46.80152664332854}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -3.847803751792525, "y": -41.55340009862993}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": 106.4505812830175, "y": 5.679638615103613}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": -83.77055558058782, "y": 22.3806685868476}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -473.1585582593793, "y1": 10344.51494024668, "x2": 623.7653224577175, "y2": 10025.90168707239}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -53.45455113515618, "y1": 11789.47475802104, "x2": 1043.469329581941, "y2": 11470.86150484675}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 623.2622653176649, "y1": 10028.65112947292, "x2": 1041.571609945546, "y2": 11468.80939369439}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "1504,68", "x": 830.4162903178994, "y": 10749.31137095713, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -473.7587524534906, "y": 10344.68927305872}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -54.05474532926746, "y": 11789.64909083308}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 1042.268941193717, "y": 11471.21017047083}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 5486.971081423465, "y1": 2530.122579586646, "x2": 5715.310745615377, "y2": 2877.811621253956}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 6247.366942682576, "y1": 3944.413068081676, "x2": 6083.265889598454, "y2": 3562.186019960417}
+{"kind": "entity", "type": "ARC", "layer": "Tavolo 3", "cx": 5929.403601723592, "cy": 3203.807283161912, "r": 391.2614390878535, "a1": 237.0717783317949, "a2": 66.39866519327494}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "2675,62", "x": 6272.17946723071, "y": 3019.513213738822, "h": 2.5}
+{"kind": "entity", "type": "ARC", "layer": "Tavolo 3", "cx": 6268.175595254986, "cy": 3009.602575751631, "r": 2.33333333333212, "a1": 61.73522176253489, "a2": 241.7352217625349}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 5929.403601723592, "y": 3203.807283161912}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 5486.627993960748, "y": 2529.600165964192}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 6247.613509629808, "y": 3944.987376135366}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 6125.38141402653, "y": 2865.165568658142}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 3870.158843413767, "y1": 4177.649923262783, "x2": 4413.204363822766, "y2": 4177.649923262783}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "4177,65", "x": 4405.9126971561, "y": 4179.733256596116, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 3869.533843413767, "y": 4177.649923262783}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 4397.996030489434, "y": 4177.649923262783}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 4630.519359082827, "y1": 4515.053949653964, "x2": 4630.519359082827, "y2": 4208.776713909553}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 4630.519359082827, "y1": 4208.776713909553, "x2": 4820.765738000104, "y2": 4203.776713909552}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 4820.765738000104, "y1": 4203.776713909552, "x2": 4820.765738000104, "y2": 4183.151713909552}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "4630,52", "x": 4818.68240466677, "y": 4190.651713909553, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 4630.519359082827, "y": 4515.678949653964}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 4820.765738000104, "y": 4198.776713909552}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "ARC", "layer": "Tavolo 3", "cx": 490.6216519543077, "cy": 4118.242743387161, "r": 487.1948908877114, "a1": 143.0439314973268, "a2": 250.4559138123451}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "108�", "x": 25.89303480087824, "y": 3978.375989332019, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 3.542714605046057, "y": 4128.871501442696}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 172.7442546208082, "y": 3207.985617767696}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 490.6216519543077, "y": 4118.242743387161}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -276.8548009664507, "y": 4701.847034571435}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 490.6216519543077, "y": 4118.242743387161}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -277.4798009664508, "y1": 4701.847034571434, "x2": -770.9329392035434, "y2": 4701.847034571434}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -770.9329392035434, "y1": 4701.847034571434, "x2": -775.9329392035434, "y2": 4621.313010328623}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -775.9329392035434, "y1": 4621.313010328623, "x2": -795.7246058702099, "y2": 4621.313010328623}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "4701,85", "x": -788.6412725368767, "y": 4623.396343661957, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -276.8548009664508, "y": 4701.847034571434}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -780.9329392035434, "y": 4621.313010328623}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -1069.058731770188, "y1": 4151.652196884142, "x2": -1069.058731770188, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -791.1912341074083, "y1": 3228.395066817358, "x2": -791.1912341074083, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -1066.558731770188, "y1": 2783.280182684132, "x2": -793.6912341074084, "y2": 2783.280182684132}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "277,87", "x": -930.1249829387982, "y": 2785.363516017465, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -1069.058731770188, "y": 4152.277196884142}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -791.1912341074083, "y": 3229.020066817358}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -791.1912341074083, "y": 2783.280182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -791.1912341074083, "y1": 3228.395066817358, "x2": -791.1912341074083, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -276.8548009664508, "y1": 4701.222034571434, "x2": -276.8548009664509, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -788.6912341074084, "y1": 2783.280182684132, "x2": -279.3548009664509, "y2": 2783.280182684132}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "514,34", "x": -534.0230175369296, "y": 2785.363516017465, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -791.1912341074083, "y": 3229.020066817358}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -276.8548009664508, "y": 4701.847034571434}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -276.8548009664509, "y": 2783.280182684132}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -276.8548009664508, "y1": 4701.222034571434, "x2": -276.8548009664509, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 172.7442546208081, "y1": 3207.360617767696, "x2": 172.744254620808, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": -274.3548009664509, "y1": 2783.280182684132, "x2": 170.244254620808, "y2": 2783.280182684132}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "449,6", "x": -52.05527317282143, "y": 2785.363516017465, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -276.8548009664508, "y": 4701.847034571434}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 172.7442546208081, "y": 3207.985617767696}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 172.744254620808, "y": 2783.280182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 172.7442546208081, "y1": 3207.360617767696, "x2": 172.744254620808, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 490.6216519543077, "y1": 4117.617743387159, "x2": 490.6216519543076, "y2": 2782.030182684132}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 175.244254620808, "y1": 2783.280182684132, "x2": 488.1216519543076, "y2": 2783.280182684132}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "317,88", "x": 331.6829532875579, "y": 2785.363516017465, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 172.7442546208081, "y": 3207.985617767696}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 490.6216519543077, "y": 4118.24274338716}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 490.6216519543076, "y": 2783.280182684132}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "test", "x": 285.75, "y": -5.5, "h": 6.0}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "test", "x": 31.75, "y": -15.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "xx", "x": 31.75, "y": -21.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "xx", "x": 31.75, "y": -30.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "xx", "x": 31.75, "y": -39.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "xx", "x": 31.75, "y": -48.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "xx", "x": 31.75, "y": -57.5, "h": 4.5}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": 0.0, "x2": 571.4999999999999, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -11.0, "x2": 571.4999999999999, "y2": -11.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -20.0, "x2": 571.4999999999999, "y2": -20.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -29.0, "x2": 571.4999999999999, "y2": -29.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -38.0, "x2": 571.4999999999999, "y2": -38.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -47.0, "x2": 571.4999999999999, "y2": -47.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -56.0, "x2": 571.4999999999999, "y2": -56.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -65.0, "x2": 571.4999999999999, "y2": -65.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -74.0, "x2": 571.4999999999999, "y2": -74.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -83.0, "x2": 571.4999999999999, "y2": -83.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -92.0, "x2": 571.4999999999999, "y2": -92.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -101.0, "x2": 571.4999999999999, "y2": -101.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -110.0, "x2": 571.4999999999999, "y2": -110.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -119.0, "x2": 571.4999999999999, "y2": -119.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -128.0, "x2": 571.4999999999999, "y2": -128.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -137.0, "x2": 571.4999999999999, "y2": -137.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -146.0, "x2": 571.4999999999999, "y2": -146.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -155.0, "x2": 571.4999999999999, "y2": -155.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -164.0, "x2": 571.4999999999999, "y2": -164.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -173.0, "x2": 571.4999999999999, "y2": -173.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": -182.0, "x2": 571.4999999999999, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 0.0, "y1": 0.0, "x2": 0.0, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 63.5, "y1": -11.0, "x2": 63.5, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 127.0, "y1": -11.0, "x2": 127.0, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 190.5, "y1": -11.0, "x2": 190.5, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 254.0, "y1": -11.0, "x2": 254.0, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 317.5, "y1": -11.0, "x2": 317.5, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 381.0, "y1": -11.0, "x2": 381.0, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 444.5, "y1": -11.0, "x2": 444.5, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 508.0, "y1": -11.0, "x2": 508.0, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 571.4999999999999, "y1": 0.0, "x2": 571.4999999999999, "y2": -182.0}
+{"kind": "entity", "type": "LINE", "layer": "Defpoints", "x1": 0.0, "y1": 0.0, "x2": 0.0, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 370.8586116534307, "y1": 730.6303035220437, "x2": 450.0397564202603, "y2": 619.219273076899}
+{"kind": "entity", "type": "XLINE", "layer": "Tavolo 2"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 2", "n": 7, "closed": false, "bbox": [[478.4890027274623, 950.4337964778983], [941.8483272855899, 1289.727758628673]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 6, "closed": true, "bbox": [[1019.460505690754, 1403.271282119223], [1073.17362782951, 1506.281889427836]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 2", "n": 4, "closed": true, "bbox": [[1998.999274451253, 2792.303947240946], [37.55488961002356, 1518.860392139665]]}
+{"kind": "entity", "type": "ARC", "layer": "Tavolo 2", "cx": 1061.049489167742, "cy": 1142.369513054377, "r": 830.6389483702103, "a1": 264.9225334366026, "a2": 117.2958904559565}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 2", "n": 25, "closed": true, "bbox": [[-1099.847117679494, -728.4032579054519], [532.9749435463748, 919.4023138299]]}
+{"kind": "entity", "type": "SPLINE", "layer": "Tavolo 2", "degree": 3.0, "n_ctrl": 8, "n_fit": 6, "bbox": [[-1793.156271927829, -393.9544459252916], [719.5692228288901, 1967.430418368798]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 4, "closed": true, "bbox": [[-3088.145449163752, 11211.62993268471], [-3064.577269769421, 5441.20424009553]]}
+{"kind": "entity", "type": "ELLIPSE", "layer": "Tavolo 3", "cx": 3532.16682102557, "cy": 2904.260916516109, "ax": -1220.865643219909, "ay": 355.8017603696389, "ratio": 0.5120328285529597}
+{"kind": "entity", "type": "REGION", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "POINT", "layer": "Tavolo 3", "x": 3385.39238329175, "y": 3206.071452770084}
+{"kind": "entity", "type": "ATTDEF", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "MTEXT", "layer": "Tavolo 3", "text": "Teksto granda nur por testi.\\PAlia linio.\\PAlia pli.", "x": 6909.323543582498, "y": 4954.117753698214, "h": 50.0}
+{"kind": "entity", "type": "TEXT", "layer": "Tavolo 3", "text": "teksto simpla", "x": 5881.252623040076, "y": 1296.904699727624, "h": 100.0}
+{"kind": "entity", "type": "ATTDEF", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "bloko", "x": 3642.137357931104, "y": 6066.049566611793, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 4, "closed": true, "bbox": [[5082.692730626928, 6444.577551502646], [-1374.501778955928, -160.8166957610228]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 5, "closed": true, "bbox": [[8156.720015777043, 9133.758785289234], [934.7487236098896, 2005.484861401841]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 2", "n": 4, "closed": true, "bbox": [[8752.364375970761, 9130.411047620886], [2685.641710934768, 3390.765846857583]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 13, "closed": true, "bbox": [[-2345.840022829117, -512.5000565046332], [-2554.640280754354, -720.778902569973]]}
+{"kind": "entity", "type": "RAY", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 8482.03056736465, "y": -1381.341268226861, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 8482.03056736465, "y": -1582.968414015893, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 8688.507233303753, "y": -1381.341268226861, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 8688.507233303753, "y": -1582.968414015893, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 8894.983899242856, "y": -1381.341268226861, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 8894.983899242856, "y": -1582.968414015893, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 9101.460565181957, "y": -1381.341268226861, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "CIRKLO_PUNKTOJ", "x": 9101.460565181957, "y": -1582.968414015893, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "HATCH", "layer": "Tavolo 3", "pattern": "ANGLE", "n_paths": 1.0}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 8445.647190576812, "y1": 104.6775475821341, "x2": 8025.993874877313, "y2": -346.8962774037645}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 8735.804242404512, "y1": 81.17005841116043, "x2": 8316.150926705013, "y2": -370.4037665747383}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 9049.487506137855, "y1": 73.33421198940778, "x2": 8629.834190438358, "y2": -378.2396129964909}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 9276.90796157495, "y1": 73.33421198940778, "x2": 8857.254645875451, "y2": -378.2396129964909}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 10351.27317273602, "y1": 49.82672281842678, "x2": 9931.619857036523, "y2": -401.7471021674719}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 10006.22156384399, "y1": 57.66256924017944, "x2": 9586.568248144496, "y2": -393.9112557457193}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 3", "x1": 9692.538300110653, "y1": 73.33421198940778, "x2": 9272.884984411154, "y2": -378.2396129964909}
+{"kind": "entity", "type": "WIPEOUT", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "REGION", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "DIMENSION", "layer": "Tavolo 3", "x": 1042.268941193717, "y": 11471.21017047083}
+{"kind": "entity", "type": "ARC", "layer": "Tavolo 3", "cx": 5929.403601723592, "cy": 3203.807283161913, "r": 806.6011875207088, "a1": 236.7056811953505, "a2": 66.76476232971925}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 5, "closed": true, "bbox": [[-1069.058731770188, 490.6216519543077], [3207.985617767696, 4701.847034571434]]}
+{"kind": "entity", "type": "POLYLINE", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "DIMENSION", "layer": "Tavolo 3", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "Tavolo 3", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "Tavolo 3", "x": 490.6216519543077, "y": 4118.24274338716}
+{"kind": "entity", "type": "DIMENSION", "layer": "Tavolo 3", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": -791.1912341074083, "y": 2783.280182684132}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": -276.8548009664509, "y": 2783.280182684132}
+{"kind": "entity", "type": "DIMENSION", "layer": "Tavolo 3", "x": 172.744254620808, "y": 2783.280182684132}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 490.6216519543076, "y": 2783.280182684132}
+{"kind": "entity", "type": "TEXT", "layer": "Tavolo 3", "text": "xx", "x": 7526.491852018399, "y": 2445.251210013376, "h": 280.7367083008678}
+{"kind": "entity", "type": "POLYLINE", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "SOLID", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "TOLERANCE", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "INSERT", "layer": "Tavolo 3", "block": "bloko", "x": 0.0, "y": 0.0, "sx": 3256.517756985835, "sy": -1843.492018676836, "rot": 311.3439199910583}
+{"kind": "entity", "type": "ATTRIB", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "WIPEOUT", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 3", "n": 3635, "closed": true, "bbox": [[-2450.873329533017, -1901.272702744172], [2719.899757023414, 3079.055627781774]]}
+{"kind": "entity", "type": "MLINE", "layer": "Tavolo 3"}
+{"kind": "entity", "type": "SPLINE", "layer": "Tavolo 3", "degree": 3.0, "n_ctrl": 7, "n_fit": 5, "bbox": [[-2514.288789172104, -1377.333124373838], [1304.403225798, 2698.772966376651]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

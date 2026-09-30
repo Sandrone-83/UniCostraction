@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-11T16:23:00.254+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e8e9e3e4b081074c6497fe
+  id: 53e8e9e3e4b081074c6497fe
+  image: /images/placeholder-user.png
+  name: Ben
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f16882934f314832b639ffc0/workspaces/595727fce9814759b5fd7e5d
+  id: 595727fce9814759b5fd7e5d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f16882934f314832b639ffc0
+id: f16882934f314832b639ffc0
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2015-09-06T17:11:58.714+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e8e9e3e4b081074c6497fe
+  id: 53e8e9e3e4b081074c6497fe
+  image: /images/placeholder-user.png
+  name: Ben
+  state: 1
+name: Sample - Bicycle Helmet
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e8e9e3e4b081074c6497fe
+  id: 53e8e9e3e4b081074c6497fe
+  image: /images/placeholder-user.png
+  name: Ben
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

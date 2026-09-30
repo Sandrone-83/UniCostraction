@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-27T01:01:26.112+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501f2ebe4b0120eedd95cb6
+  id: 5501f2ebe4b0120eedd95cb6
+  image: https://profiles.onshape.com/1f28ee4f37c88e0c34e19c13247969519310ec33afdb8e8d613aa44c17ac52b8.png
+  name: George Mitsuoka
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a94570bedc124466a88f9833/workspaces/a957012f38754a2db2ad3865
+  id: a957012f38754a2db2ad3865
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a94570bedc124466a88f9833
+id: a94570bedc124466a88f9833
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-12-20T23:34:20.256+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501f2ebe4b0120eedd95cb6
+  id: 5501f2ebe4b0120eedd95cb6
+  image: https://profiles.onshape.com/1f28ee4f37c88e0c34e19c13247969519310ec33afdb8e8d613aa44c17ac52b8.png
+  name: George Mitsuoka
+  state: 1
+name: machinists cube
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501f2ebe4b0120eedd95cb6
+  id: 5501f2ebe4b0120eedd95cb6
+  image: https://profiles.onshape.com/1f28ee4f37c88e0c34e19c13247969519310ec33afdb8e8d613aa44c17ac52b8.png
+  name: George Mitsuoka
+  type: 0
+parentId: 0f7e0c2b84fa0ba529ed58a7
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a94570bedc124466a88f9833/w/a957012f38754a2db2ad3865?t=1432868416802
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a94570bedc124466a88f9833/w/a957012f38754a2db2ad3865/s/300x300?t=1432868416802
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a94570bedc124466a88f9833/w/a957012f38754a2db2ad3865/s/300x170?t=1432868416802
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a94570bedc124466a88f9833/w/a957012f38754a2db2ad3865/s/70x40?t=1432868416802
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a94570bedc124466a88f9833/w/a957012f38754a2db2ad3865/s/600x340?t=1432868416802
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

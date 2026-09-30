@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-08T02:37:06.882+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe2bc8e4b0c0916a2986b0
+  id: 54fe2bc8e4b0c0916a2986b0
+  image: /images/placeholder-user.png
+  name: John Scala
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1d0ccbfaf2df44398575f0ca/workspaces/66771b201c644a1b825d28c0
+  id: 66771b201c644a1b825d28c0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1d0ccbfaf2df44398575f0ca
+id: 1d0ccbfaf2df44398575f0ca
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-28T22:44:05.858+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe2bc8e4b0c0916a2986b0
+  id: 54fe2bc8e4b0c0916a2986b0
+  image: /images/placeholder-user.png
+  name: John Scala
+  state: 1
+name: Final Drive Shaft.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe2bc8e4b0c0916a2986b0
+  id: 54fe2bc8e4b0c0916a2986b0
+  image: /images/placeholder-user.png
+  name: John Scala
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1d0ccbfaf2df44398575f0ca/w/66771b201c644a1b825d28c0?t=1428460629718
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1d0ccbfaf2df44398575f0ca/w/66771b201c644a1b825d28c0/s/600x340?t=1428460629718
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1d0ccbfaf2df44398575f0ca/w/66771b201c644a1b825d28c0/s/70x40?t=1428460629718
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1d0ccbfaf2df44398575f0ca/w/66771b201c644a1b825d28c0/s/300x300?t=1428460629718
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1d0ccbfaf2df44398575f0ca/w/66771b201c644a1b825d28c0/s/300x170?t=1428460629718
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

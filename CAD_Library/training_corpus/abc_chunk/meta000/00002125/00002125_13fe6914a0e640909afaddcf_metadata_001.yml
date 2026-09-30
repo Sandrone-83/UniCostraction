@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T17:44:15.048+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/13fe6914a0e640909afaddcf/workspaces/34b663667d834a0392a81bce
+  id: 34b663667d834a0392a81bce
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/13fe6914a0e640909afaddcf
+id: 13fe6914a0e640909afaddcf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-23T19:16:29.295+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57095821e4b0e8cc9e6ca83c
+  id: 57095821e4b0e8cc9e6ca83c
+  image: https://profiles.onshape.com/7f85d21cafe70e3f59b4a47dd721ca0a18a5023f8995f1c6a74bc01dcb3d4690.png
+  name: Sheldon
+  state: 1
+name: Jeep Roll-cage
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/13fe6914a0e640909afaddcf/w/34b663667d834a0392a81bce?t=1443457369697
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/13fe6914a0e640909afaddcf/w/34b663667d834a0392a81bce/s/70x40?t=1443457369697
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/13fe6914a0e640909afaddcf/w/34b663667d834a0392a81bce/s/600x340?t=1443457369697
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/13fe6914a0e640909afaddcf/w/34b663667d834a0392a81bce/s/300x300?t=1443457369697
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/13fe6914a0e640909afaddcf/w/34b663667d834a0392a81bce/s/300x170?t=1443457369697
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

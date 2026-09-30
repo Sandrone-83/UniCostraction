@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-13T20:41:09.577+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/553f04bee4b02dc0fe624707
+  id: 553f04bee4b02dc0fe624707
+  image: /images/placeholder-user.png
+  name: Ronnie
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/530ee75eab8c49de9a6d8829/workspaces/c8197a8c104046c99824a865
+  id: c8197a8c104046c99824a865
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/530ee75eab8c49de9a6d8829
+id: 530ee75eab8c49de9a6d8829
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-11-10T21:10:06.019+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553f04bee4b02dc0fe624707
+  id: 553f04bee4b02dc0fe624707
+  image: /images/placeholder-user.png
+  name: Ronnie
+  state: 1
+name: WC-Papierhalter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/553f04bee4b02dc0fe624707
+  id: 553f04bee4b02dc0fe624707
+  image: /images/placeholder-user.png
+  name: Ronnie
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/530ee75eab8c49de9a6d8829/w/c8197a8c104046c99824a865?t=1447189732372
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/530ee75eab8c49de9a6d8829/w/c8197a8c104046c99824a865/s/300x300?t=1447189732372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/530ee75eab8c49de9a6d8829/w/c8197a8c104046c99824a865/s/300x170?t=1447189732372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/530ee75eab8c49de9a6d8829/w/c8197a8c104046c99824a865/s/70x40?t=1447189732372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/530ee75eab8c49de9a6d8829/w/c8197a8c104046c99824a865/s/600x340?t=1447189732372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

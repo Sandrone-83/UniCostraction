@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-03T00:33:48.480+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fedd67e4b0191bdfa205c9
+  id: 54fedd67e4b0191bdfa205c9
+  image: /images/placeholder-user.png
+  name: Neil Ralph
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a61816d73b5440399d7046b2/workspaces/f0fbe88a4d0a49119bbe67d1
+  id: f0fbe88a4d0a49119bbe67d1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a61816d73b5440399d7046b2
+id: a61816d73b5440399d7046b2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-03-31T16:53:31.047+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fedd67e4b0191bdfa205c9
+  id: 54fedd67e4b0191bdfa205c9
+  image: /images/placeholder-user.png
+  name: Neil Ralph
+  state: 1
+name: Belt Balance
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fedd67e4b0191bdfa205c9
+  id: 54fedd67e4b0191bdfa205c9
+  image: /images/placeholder-user.png
+  name: Neil Ralph
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a61816d73b5440399d7046b2/w/f0fbe88a4d0a49119bbe67d1?t=1490979331101
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a61816d73b5440399d7046b2/w/f0fbe88a4d0a49119bbe67d1/s/300x300?t=1490979331101
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a61816d73b5440399d7046b2/w/f0fbe88a4d0a49119bbe67d1/s/600x340?t=1490979331101
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a61816d73b5440399d7046b2/w/f0fbe88a4d0a49119bbe67d1/s/70x40?t=1490979331101
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a61816d73b5440399d7046b2/w/f0fbe88a4d0a49119bbe67d1/s/300x170?t=1490979331101
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

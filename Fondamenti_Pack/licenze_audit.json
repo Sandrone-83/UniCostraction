@@ -1,0 +1,66 @@
+{
+ "nota": "Audit licenze del materiale in Fondamenti_Pack (basi: matematica, geometria, fisica, chimica, scienza, filosofia). Tutte le fonti elencate permettono l'uso commerciale e l'addestramento di modelli ML. Verifiche eseguite il 27/09/2026 sulle pagine e i LICENSE di origine.",
+ "fonti": [
+  {
+   "id": "GUTENBERG-CLASSICI",
+   "descrizione": "14 capostipiti public domain: Euclide (Elementi), Newton (Principia), Einstein (Relatività), Lavoisier (Chimica), Darwin (Origine delle specie), Thompson (Calculus Made Easy), Abbott (Flatland - geometria), Platone (Repubblica), Aristotele (Etica Nicomachea), Marco Aurelio (Meditazioni), Russell (Problemi di filosofia), Descartes (Discorso sul metodo), Kant (Critica della ragion pura), Wittgenstein (Tractatus)",
+   "licenza": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/gutenberg/*.txt -> parsed/classici_fondamenti.jsonl",
+   "url": "https://www.gutenberg.org/"
+  },
+  {
+   "id": "WIKIBOOKS-EN",
+   "descrizione": "Wikibooks inglese: Trigonometry, Calculus, Physics (manualistica didattica completa, pagina per pagina)",
+   "licenza": "CC BY-SA 4.0",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: per-pagina nel campo 'attribution' di ogni record",
+   "file": "parsed/wiki_fondamenti/wikibooks_en.jsonl",
+   "url": "https://en.wikibooks.org/",
+   "nota": "corpus estendibile: aggiungere prefissi alla lista BOOKS di fetch_wiki_fondamenti.py"
+  },
+  {
+   "id": "WIKIPEDIA-FONDAMENTI",
+   "descrizione": "Voci Wikipedia (en + it): matematica (aritmetica, algebra, geometria, trigonometria, calcolo, statistica), fisica (meccanica, termodinamica, elettromagnetismo, ottica, relatività, grandezze e unità di misura), chimica, metodo scientifico, filosofia (storia, correnti, pensatori, logica, epistemologia, etica, estetica)",
+   "licenza": "CC BY-SA 4.0",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: per-voce nel campo 'attribution' di ogni record",
+   "file": "parsed/wiki_fondamenti/wiki_fondamenti_en.jsonl, wiki_fondamenti_it.jsonl",
+   "url": "https://wikipedia.org",
+   "nota": "corpus estendibile: rieseguire fetch_wiki_fondamenti.py (riprende da dove ha lasciato; il throttling Wikimedia limita i giri ravvicinati)"
+  },
+  {
+   "id": "CULTURA-PENSIERO",
+   "descrizione": "10 schede: filosofia antica e medievale, moderna, contemporanea, logica e retorica, metodo scientifico ed epistemologia, bias cognitivi e negoziazione, micro/macro economia, scrittura professionale, grammatica italiana tecnica",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/cultura_pensiero.jsonl",
+   "url": ""
+  }
+ ],
+ "fonti_escluse_per_licenza": [
+  {
+   "nome": "OpenStax (Rice University)",
+   "motivo": "i testi sono CC BY 4.0 MA ogni pagina riporta la clausola 'may not be used in the training of large language models without OpenStax's permission' (verificata su openstax.org, settembre 2026) - escluso per la clausola aggiuntiva anti-LLM"
+  },
+  {
+   "nome": "MIT OCW / NPTEL / Engineering LibreTexts",
+   "motivo": "CC BY-NC-SA - esclude uso commerciale"
+  },
+  {
+   "nome": "Khan Academy",
+   "motivo": "termini d'uso che non concedono addestramento LLM"
+  },
+  {
+   "nome": "Testi accademici Springer/Wiley/Pearson",
+   "motivo": "copyright"
+  }
+ ],
+ "prossimi_ampliamenti": [
+  "Completamento voci Wikipedia fondamenti (rilanciare fetch_wiki_fondamenti.py fino a mancanti: 0)",
+  "Altri Wikibooks: Geometry, Algebra, General Chemistry, Logic, Statistics (aggiungere a BOOKS)",
+  "Wikisource: opere filosofiche e scientifiche in italiano (public domain)",
+  "Project Gutenberg: Aristotele Fisica/Metafisica (ed. inglese PD), Euclide Heath completo, Mach, Poincaré (pre-1930)"
+ ]
+}

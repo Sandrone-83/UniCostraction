@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Polyline.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"LWPOLYLINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[9.005, 20.783], [2.212, 14.727]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 5, "closed": false, "bbox": [[9.005348630852552, 20.78260831279535], [2.212438555302597, 14.72668651353783]]}

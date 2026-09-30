@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T13:00:09.495+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fddb93e4b04a9735f91b59
+  id: 54fddb93e4b04a9735f91b59
+  image: /images/placeholder-user.png
+  name: Brian Carlson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/61141767f3b44386959ce246/workspaces/af1550ff0c1d4cc8bd5c17cc
+  id: af1550ff0c1d4cc8bd5c17cc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/61141767f3b44386959ce246
+id: 61141767f3b44386959ce246
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-01T15:23:24.516+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fddb93e4b04a9735f91b59
+  id: 54fddb93e4b04a9735f91b59
+  image: /images/placeholder-user.png
+  name: Brian Carlson
+  state: 1
+name: Endcap radiation tool
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fddb93e4b04a9735f91b59
+  id: 54fddb93e4b04a9735f91b59
+  image: /images/placeholder-user.png
+  name: Brian Carlson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/61141767f3b44386959ce246/w/af1550ff0c1d4cc8bd5c17cc?t=1427979612896
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/61141767f3b44386959ce246/w/af1550ff0c1d4cc8bd5c17cc/s/300x170?t=1427979612896
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61141767f3b44386959ce246/w/af1550ff0c1d4cc8bd5c17cc/s/600x340?t=1427979612896
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61141767f3b44386959ce246/w/af1550ff0c1d4cc8bd5c17cc/s/300x300?t=1427979612896
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61141767f3b44386959ce246/w/af1550ff0c1d4cc8bd5c17cc/s/70x40?t=1427979612896
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

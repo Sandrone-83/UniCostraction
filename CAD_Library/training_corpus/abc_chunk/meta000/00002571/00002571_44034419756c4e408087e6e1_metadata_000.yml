@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-05T02:42:34.508+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/540dc04de4b023eb3faf0a6d
+  id: 540dc04de4b023eb3faf0a6d
+  image: /images/placeholder-user.png
+  name: jamie goldstein
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/44034419756c4e408087e6e1/workspaces/5bba03ee970e422694afedbd
+  id: 5bba03ee970e422694afedbd
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/44034419756c4e408087e6e1
+id: 44034419756c4e408087e6e1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-24T03:46:44.513+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57bcc3d6a93c250f224abbeb
+  id: 57bcc3d6a93c250f224abbeb
+  image: /images/placeholder-user.png
+  name: jonathan white
+  state: 1
+name: Stealth Bomber
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/540dc04de4b023eb3faf0a6d
+  id: 540dc04de4b023eb3faf0a6d
+  image: /images/placeholder-user.png
+  name: jamie goldstein
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/44034419756c4e408087e6e1/w/5bba03ee970e422694afedbd?t=1428242582762
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/44034419756c4e408087e6e1/w/5bba03ee970e422694afedbd/s/300x300?t=1428242582762
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/44034419756c4e408087e6e1/w/5bba03ee970e422694afedbd/s/600x340?t=1428242582762
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/44034419756c4e408087e6e1/w/5bba03ee970e422694afedbd/s/70x40?t=1428242582762
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/44034419756c4e408087e6e1/w/5bba03ee970e422694afedbd/s/300x170?t=1428242582762
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

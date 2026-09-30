@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-27T12:44:22.619+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a47a98a09959465188a093ad/workspaces/a68e589a12c54b6f97b240e8
+  id: a68e589a12c54b6f97b240e8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a47a98a09959465188a093ad
+id: a47a98a09959465188a093ad
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2015-03-25T20:41:35.539+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  state: 1
+name: Sample - Bicycle Helmet
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

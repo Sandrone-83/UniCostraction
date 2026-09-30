@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-14T14:06:52.016+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55001b05e4b02630a84534a1
+  id: 55001b05e4b02630a84534a1
+  image: https://profiles.onshape.com/bd873f0eeb141a19928b79feb327fec63cea5da1c72a90ce4ce70e51a4387071.png
+  name: Vince Haley
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/611a4051f25145c7b17c165d/workspaces/b28cd5898c7c4212b6a046f3
+  id: b28cd5898c7c4212b6a046f3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/611a4051f25145c7b17c165d
+id: 611a4051f25145c7b17c165d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-14T18:58:30.410+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55001b05e4b02630a84534a1
+  id: 55001b05e4b02630a84534a1
+  image: https://profiles.onshape.com/bd873f0eeb141a19928b79feb327fec63cea5da1c72a90ce4ce70e51a4387071.png
+  name: Vince Haley
+  state: 1
+name: pawl-gear-style2
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55001b05e4b02630a84534a1
+  id: 55001b05e4b02630a84534a1
+  image: https://profiles.onshape.com/bd873f0eeb141a19928b79feb327fec63cea5da1c72a90ce4ce70e51a4387071.png
+  name: Vince Haley
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/611a4051f25145c7b17c165d/w/b28cd5898c7c4212b6a046f3?t=1431633568011
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/611a4051f25145c7b17c165d/w/b28cd5898c7c4212b6a046f3/s/600x340?t=1431633568011
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/611a4051f25145c7b17c165d/w/b28cd5898c7c4212b6a046f3/s/300x300?t=1431633568011
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/611a4051f25145c7b17c165d/w/b28cd5898c7c4212b6a046f3/s/70x40?t=1431633568011
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/611a4051f25145c7b17c165d/w/b28cd5898c7c4212b6a046f3/s/300x170?t=1431633568011
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-29T11:05:17.747+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55074754e4b0f6000dd57cf3
+  id: 55074754e4b0f6000dd57cf3
+  image: https://profiles.onshape.com/5787b63196893e2c74f8d4955cfb53c052caa0373890a5c46de5db7232938bce.png
+  name: Joao Correia
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6260c0e15525419fb05c1db8/workspaces/db14d544d3d14cebb9594d03
+  id: db14d544d3d14cebb9594d03
+  name: Main
+description: Cavalete de Apoio para montagem de teste.
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6260c0e15525419fb05c1db8
+id: 6260c0e15525419fb05c1db8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-04-10T20:52:19.511+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55074754e4b0f6000dd57cf3
+  id: 55074754e4b0f6000dd57cf3
+  image: https://profiles.onshape.com/5787b63196893e2c74f8d4955cfb53c052caa0373890a5c46de5db7232938bce.png
+  name: Joao Correia
+  state: 1
+name: teste-1
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55074754e4b0f6000dd57cf3
+  id: 55074754e4b0f6000dd57cf3
+  image: https://profiles.onshape.com/5787b63196893e2c74f8d4955cfb53c052caa0373890a5c46de5db7232938bce.png
+  name: Joao Correia
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6260c0e15525419fb05c1db8/w/db14d544d3d14cebb9594d03?t=1523393561063
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6260c0e15525419fb05c1db8/w/db14d544d3d14cebb9594d03/s/300x170?t=1523393561063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6260c0e15525419fb05c1db8/w/db14d544d3d14cebb9594d03/s/600x340?t=1523393561063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6260c0e15525419fb05c1db8/w/db14d544d3d14cebb9594d03/s/70x40?t=1523393561063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6260c0e15525419fb05c1db8/w/db14d544d3d14cebb9594d03/s/300x300?t=1523393561063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

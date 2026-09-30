@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-11T01:11:15.533+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550629e6e4b092d8e48fa83b
+  id: 550629e6e4b092d8e48fa83b
+  image: /images/placeholder-user.png
+  name: Arnold Rabbit
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bb2168e3a77643a69ad6b81f/workspaces/e031913651a3438d8370cadb
+  id: e031913651a3438d8370cadb
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bb2168e3a77643a69ad6b81f
+id: bb2168e3a77643a69ad6b81f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-09-22T20:51:32.540+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550629e6e4b092d8e48fa83b
+  id: 550629e6e4b092d8e48fa83b
+  image: /images/placeholder-user.png
+  name: Arnold Rabbit
+  state: 1
+name: Light Blocker Again
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550629e6e4b092d8e48fa83b
+  id: 550629e6e4b092d8e48fa83b
+  image: /images/placeholder-user.png
+  name: Arnold Rabbit
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bb2168e3a77643a69ad6b81f/w/e031913651a3438d8370cadb?t=1501038272566
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bb2168e3a77643a69ad6b81f/w/e031913651a3438d8370cadb/s/70x40?t=1501038272566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bb2168e3a77643a69ad6b81f/w/e031913651a3438d8370cadb/s/300x300?t=1501038272566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bb2168e3a77643a69ad6b81f/w/e031913651a3438d8370cadb/s/300x170?t=1501038272566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bb2168e3a77643a69ad6b81f/w/e031913651a3438d8370cadb/s/600x340?t=1501038272566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

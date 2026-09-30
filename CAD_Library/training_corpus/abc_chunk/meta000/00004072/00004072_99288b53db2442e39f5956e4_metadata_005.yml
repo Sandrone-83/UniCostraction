@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T05:22:10.860+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5511df84e4b0b8d7e34b9a78
+  id: 5511df84e4b0b8d7e34b9a78
+  image: /images/placeholder-user.png
+  name: Jonathan Stokes
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/99288b53db2442e39f5956e4/workspaces/336e23caace8435b8beb4173
+  id: 336e23caace8435b8beb4173
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/99288b53db2442e39f5956e4
+id: 99288b53db2442e39f5956e4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-02T22:44:17.520+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5511df84e4b0b8d7e34b9a78
+  id: 5511df84e4b0b8d7e34b9a78
+  image: /images/placeholder-user.png
+  name: Jonathan Stokes
+  state: 1
+name: gearbox plate
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5511df84e4b0b8d7e34b9a78
+  id: 5511df84e4b0b8d7e34b9a78
+  image: /images/placeholder-user.png
+  name: Jonathan Stokes
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/99288b53db2442e39f5956e4/w/336e23caace8435b8beb4173?t=1509662662948
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/99288b53db2442e39f5956e4/w/336e23caace8435b8beb4173/s/300x170?t=1509662662948
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/99288b53db2442e39f5956e4/w/336e23caace8435b8beb4173/s/70x40?t=1509662662948
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/99288b53db2442e39f5956e4/w/336e23caace8435b8beb4173/s/300x300?t=1509662662948
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/99288b53db2442e39f5956e4/w/336e23caace8435b8beb4173/s/600x340?t=1509662662948
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

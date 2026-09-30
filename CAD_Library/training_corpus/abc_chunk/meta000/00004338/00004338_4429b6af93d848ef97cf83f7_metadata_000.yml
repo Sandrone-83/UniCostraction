@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-06T08:41:32.049+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5504072ae4b0307989545c83
+  id: 5504072ae4b0307989545c83
+  image: /images/placeholder-user.png
+  name: Ian Curtis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4429b6af93d848ef97cf83f7/workspaces/00c016c9638e4989b1cb0ed9
+  id: 00c016c9638e4989b1cb0ed9
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4429b6af93d848ef97cf83f7
+id: 4429b6af93d848ef97cf83f7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-16T03:57:19.240+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5504072ae4b0307989545c83
+  id: 5504072ae4b0307989545c83
+  image: /images/placeholder-user.png
+  name: Ian Curtis
+  state: 1
+name: UltraTrap Box
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5504072ae4b0307989545c83
+  id: 5504072ae4b0307989545c83
+  image: /images/placeholder-user.png
+  name: Ian Curtis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4429b6af93d848ef97cf83f7/w/00c016c9638e4989b1cb0ed9?t=1433820115799
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4429b6af93d848ef97cf83f7/w/00c016c9638e4989b1cb0ed9/s/70x40?t=1433820115799
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4429b6af93d848ef97cf83f7/w/00c016c9638e4989b1cb0ed9/s/300x300?t=1433820115799
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4429b6af93d848ef97cf83f7/w/00c016c9638e4989b1cb0ed9/s/300x170?t=1433820115799
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4429b6af93d848ef97cf83f7/w/00c016c9638e4989b1cb0ed9/s/600x340?t=1433820115799
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

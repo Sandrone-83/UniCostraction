@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-21T00:06:04.335+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5505ef59e4b084d81d8c4066
+  id: 5505ef59e4b084d81d8c4066
+  image: /images/placeholder-user.png
+  name: Cadman
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/77a4002c4a374a36b640c728/workspaces/9749eba6938344159127af20
+  id: 9749eba6938344159127af20
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/77a4002c4a374a36b640c728
+id: 77a4002c4a374a36b640c728
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-16T23:40:22.108+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5505ef59e4b084d81d8c4066
+  id: 5505ef59e4b084d81d8c4066
+  image: /images/placeholder-user.png
+  name: Cadman
+  state: 1
+name: Milling Machine
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5505ef59e4b084d81d8c4066
+  id: 5505ef59e4b084d81d8c4066
+  image: /images/placeholder-user.png
+  name: Cadman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/77a4002c4a374a36b640c728/w/9749eba6938344159127af20?t=1461430029103
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/77a4002c4a374a36b640c728/w/9749eba6938344159127af20/s/70x40?t=1461430029103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/77a4002c4a374a36b640c728/w/9749eba6938344159127af20/s/300x300?t=1461430029103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/77a4002c4a374a36b640c728/w/9749eba6938344159127af20/s/300x170?t=1461430029103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/77a4002c4a374a36b640c728/w/9749eba6938344159127af20/s/600x340?t=1461430029103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

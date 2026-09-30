@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-19T16:14:59.477+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff4a68e4b0191bdfa20977
+  id: 54ff4a68e4b0191bdfa20977
+  image: /images/placeholder-user.png
+  name: Alex Stewart
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ac4ec40dba7147c89df0f4b5/workspaces/174b47de842a465bb64da77e
+  id: 174b47de842a465bb64da77e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ac4ec40dba7147c89df0f4b5
+id: ac4ec40dba7147c89df0f4b5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-02-27T19:56:03.803+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff4a68e4b0191bdfa20977
+  id: 54ff4a68e4b0191bdfa20977
+  image: /images/placeholder-user.png
+  name: Alex Stewart
+  state: 1
+name: hand rail
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff4a68e4b0191bdfa20977
+  id: 54ff4a68e4b0191bdfa20977
+  image: /images/placeholder-user.png
+  name: Alex Stewart
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ac4ec40dba7147c89df0f4b5/w/174b47de842a465bb64da77e?t=1488225484321
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ac4ec40dba7147c89df0f4b5/w/174b47de842a465bb64da77e/s/70x40?t=1488225484321
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ac4ec40dba7147c89df0f4b5/w/174b47de842a465bb64da77e/s/600x340?t=1488225484321
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ac4ec40dba7147c89df0f4b5/w/174b47de842a465bb64da77e/s/300x170?t=1488225484321
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ac4ec40dba7147c89df0f4b5/w/174b47de842a465bb64da77e/s/300x300?t=1488225484321
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

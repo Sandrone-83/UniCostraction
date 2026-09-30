@@ -1,0 +1,13 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "ezdxf/hatch_issues.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 12, "entity_histogram": {"CIRCLE": 8, "HATCH": 4}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-4.0, 14.0], [-2.9, 10.0]]}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 4.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 2.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 10.0, "cy": 0.0, "r": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 10.0, "cy": 0.0, "r": 4.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 10.0, "r": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 10.0, "r": 4.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 10.0, "cy": 10.0, "r": 2.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 10.0, "cy": 10.0, "r": 4.0}

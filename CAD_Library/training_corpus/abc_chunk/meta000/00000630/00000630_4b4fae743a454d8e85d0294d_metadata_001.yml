@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-29T20:28:52.575+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ee3dd5e4b06b2e8691566f
+  id: 53ee3dd5e4b06b2e8691566f
+  image: https://profiles.onshape.com/b81d707a12abf02bf74086babb705486c55a948c7a56d1b4cf35f2a61be7b2af.png
+  name: Doug
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4b4fae743a454d8e85d0294d/workspaces/e229a8a8698b492698a4a351
+  id: e229a8a8698b492698a4a351
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4b4fae743a454d8e85d0294d
+id: 4b4fae743a454d8e85d0294d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-12-08T16:24:03.900+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53ee3dd5e4b06b2e8691566f
+  id: 53ee3dd5e4b06b2e8691566f
+  image: https://profiles.onshape.com/b81d707a12abf02bf74086babb705486c55a948c7a56d1b4cf35f2a61be7b2af.png
+  name: Doug
+  state: 1
+name: Bearing Step
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ee3dd5e4b06b2e8691566f
+  id: 53ee3dd5e4b06b2e8691566f
+  image: https://profiles.onshape.com/b81d707a12abf02bf74086babb705486c55a948c7a56d1b4cf35f2a61be7b2af.png
+  name: Doug
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4b4fae743a454d8e85d0294d/w/e229a8a8698b492698a4a351?t=1475255947604
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4b4fae743a454d8e85d0294d/w/e229a8a8698b492698a4a351/s/300x170?t=1475255947604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4b4fae743a454d8e85d0294d/w/e229a8a8698b492698a4a351/s/600x340?t=1475255947604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4b4fae743a454d8e85d0294d/w/e229a8a8698b492698a4a351/s/300x300?t=1475255947604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4b4fae743a454d8e85d0294d/w/e229a8a8698b492698a4a351/s/70x40?t=1475255947604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

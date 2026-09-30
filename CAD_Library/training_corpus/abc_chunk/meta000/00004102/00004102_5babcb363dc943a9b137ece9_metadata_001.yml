@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T14:35:30.756+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55009d79e4b02630a84537ce
+  id: 55009d79e4b02630a84537ce
+  image: /images/placeholder-user.png
+  name: Frank
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5babcb363dc943a9b137ece9/workspaces/ac0baa37197a4a95ab1532af
+  id: ac0baa37197a4a95ab1532af
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5babcb363dc943a9b137ece9
+id: 5babcb363dc943a9b137ece9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-29T01:51:19.453+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55009d79e4b02630a84537ce
+  id: 55009d79e4b02630a84537ce
+  image: /images/placeholder-user.png
+  name: Frank
+  state: 1
+name: ZMR250_Protective_Gear
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55009d79e4b02630a84537ce
+  id: 55009d79e4b02630a84537ce
+  image: /images/placeholder-user.png
+  name: Frank
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5babcb363dc943a9b137ece9/w/ac0baa37197a4a95ab1532af?t=1438135006709
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5babcb363dc943a9b137ece9/w/ac0baa37197a4a95ab1532af/s/300x300?t=1438135006709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5babcb363dc943a9b137ece9/w/ac0baa37197a4a95ab1532af/s/70x40?t=1438135006709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5babcb363dc943a9b137ece9/w/ac0baa37197a4a95ab1532af/s/600x340?t=1438135006709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5babcb363dc943a9b137ece9/w/ac0baa37197a4a95ab1532af/s/300x170?t=1438135006709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Line.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"LINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[11.031, 21.608], [2.812, 16.638]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 21.60776672302099, "y1": 2.811923503435004, "x2": 11.03073729285442, "y2": 16.63754473799147}

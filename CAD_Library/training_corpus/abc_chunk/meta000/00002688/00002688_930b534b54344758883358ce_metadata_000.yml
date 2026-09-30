@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T11:52:48.856+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdbf08e4b02cb549c92275
+  id: 54fdbf08e4b02cb549c92275
+  image: https://profiles.onshape.com/fc94d907a933f1247a4ef963d5f9bbdd28f83e71ce21bbb2a19a178586c2ace0.png
+  name: Tolga
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/930b534b54344758883358ce/workspaces/88e4972bfbae408694e3174f
+  id: 88e4972bfbae408694e3174f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/930b534b54344758883358ce
+id: 930b534b54344758883358ce
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-07T10:25:15.250+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdbf08e4b02cb549c92275
+  id: 54fdbf08e4b02cb549c92275
+  image: https://profiles.onshape.com/fc94d907a933f1247a4ef963d5f9bbdd28f83e71ce21bbb2a19a178586c2ace0.png
+  name: Tolga
+  state: 1
+name: '002'
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdbf08e4b02cb549c92275
+  id: 54fdbf08e4b02cb549c92275
+  image: https://profiles.onshape.com/fc94d907a933f1247a4ef963d5f9bbdd28f83e71ce21bbb2a19a178586c2ace0.png
+  name: Tolga
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/930b534b54344758883358ce/w/88e4972bfbae408694e3174f?t=1515320884352
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/930b534b54344758883358ce/w/88e4972bfbae408694e3174f/s/300x300?t=1515320884352
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/930b534b54344758883358ce/w/88e4972bfbae408694e3174f/s/600x340?t=1515320884352
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/930b534b54344758883358ce/w/88e4972bfbae408694e3174f/s/70x40?t=1515320884352
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/930b534b54344758883358ce/w/88e4972bfbae408694e3174f/s/300x170?t=1515320884352
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

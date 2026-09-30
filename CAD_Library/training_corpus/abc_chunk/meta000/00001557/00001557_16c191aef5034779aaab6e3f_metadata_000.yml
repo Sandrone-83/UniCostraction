@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-18T14:25:26.461+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe13aae4b04a9735f91de3
+  id: 54fe13aae4b04a9735f91de3
+  image: /images/placeholder-user.png
+  name: Troy Ross
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/16c191aef5034779aaab6e3f/workspaces/83780988015e4713af443d90
+  id: 83780988015e4713af443d90
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/16c191aef5034779aaab6e3f
+id: 16c191aef5034779aaab6e3f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-11T03:19:16.162+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe13aae4b04a9735f91de3
+  id: 54fe13aae4b04a9735f91de3
+  image: /images/placeholder-user.png
+  name: Troy Ross
+  state: 1
+name: PVC Hole Guide
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe13aae4b04a9735f91de3
+  id: 54fe13aae4b04a9735f91de3
+  image: /images/placeholder-user.png
+  name: Troy Ross
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/16c191aef5034779aaab6e3f/w/83780988015e4713af443d90?t=1426688729385
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/16c191aef5034779aaab6e3f/w/83780988015e4713af443d90/s/70x40?t=1426688729385
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/16c191aef5034779aaab6e3f/w/83780988015e4713af443d90/s/300x300?t=1426688729385
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/16c191aef5034779aaab6e3f/w/83780988015e4713af443d90/s/300x170?t=1426688729385
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/16c191aef5034779aaab6e3f/w/83780988015e4713af443d90/s/600x340?t=1426688729385
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

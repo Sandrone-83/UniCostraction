@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-21T02:29:09.442+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55009347e4b02630a84537a1
+  id: 55009347e4b02630a84537a1
+  image: /images/placeholder-user.png
+  name: Dennis Ferruzzi
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ec3231a2b7b44b06b78b920b/workspaces/99d3f690d19d4f62bc9b41ee
+  id: 99d3f690d19d4f62bc9b41ee
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ec3231a2b7b44b06b78b920b
+id: ec3231a2b7b44b06b78b920b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-25T17:25:49.512+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55009347e4b02630a84537a1
+  id: 55009347e4b02630a84537a1
+  image: /images/placeholder-user.png
+  name: Dennis Ferruzzi
+  state: 1
+name: QuadBarrel
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55009347e4b02630a84537a1
+  id: 55009347e4b02630a84537a1
+  image: /images/placeholder-user.png
+  name: Dennis Ferruzzi
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ec3231a2b7b44b06b78b920b/w/99d3f690d19d4f62bc9b41ee?t=1427176935723
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ec3231a2b7b44b06b78b920b/w/99d3f690d19d4f62bc9b41ee/s/300x170?t=1427176935723
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ec3231a2b7b44b06b78b920b/w/99d3f690d19d4f62bc9b41ee/s/600x340?t=1427176935723
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ec3231a2b7b44b06b78b920b/w/99d3f690d19d4f62bc9b41ee/s/70x40?t=1427176935723
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ec3231a2b7b44b06b78b920b/w/99d3f690d19d4f62bc9b41ee/s/300x300?t=1427176935723
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

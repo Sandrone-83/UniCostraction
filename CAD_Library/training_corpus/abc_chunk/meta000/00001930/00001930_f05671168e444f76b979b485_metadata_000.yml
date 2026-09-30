@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-23T20:00:04.638+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55052225e4b0e92cb7bac122
+  id: 55052225e4b0e92cb7bac122
+  image: /images/placeholder-user.png
+  name: chaim eshel
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f05671168e444f76b979b485/workspaces/f224f1faa7e5412fb0b9dc63
+  id: f224f1faa7e5412fb0b9dc63
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f05671168e444f76b979b485
+id: f05671168e444f76b979b485
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-23T20:28:28.613+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55052225e4b0e92cb7bac122
+  id: 55052225e4b0e92cb7bac122
+  image: /images/placeholder-user.png
+  name: chaim eshel
+  state: 1
+name: self
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55052225e4b0e92cb7bac122
+  id: 55052225e4b0e92cb7bac122
+  image: /images/placeholder-user.png
+  name: chaim eshel
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f05671168e444f76b979b485/w/f224f1faa7e5412fb0b9dc63?t=1427142562956
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f05671168e444f76b979b485/w/f224f1faa7e5412fb0b9dc63/s/70x40?t=1427142562956
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f05671168e444f76b979b485/w/f224f1faa7e5412fb0b9dc63/s/300x170?t=1427142562956
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f05671168e444f76b979b485/w/f224f1faa7e5412fb0b9dc63/s/600x340?t=1427142562956
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f05671168e444f76b979b485/w/f224f1faa7e5412fb0b9dc63/s/300x300?t=1427142562956
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

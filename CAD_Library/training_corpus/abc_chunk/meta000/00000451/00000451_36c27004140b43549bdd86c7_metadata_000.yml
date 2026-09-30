@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-12T22:23:21.974+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/36c27004140b43549bdd86c7/workspaces/99a0e938e7d24deaa680525e
+  id: 99a0e938e7d24deaa680525e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/36c27004140b43549bdd86c7
+id: 36c27004140b43549bdd86c7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 13
+modifiedAt: 2016-08-25T14:14:02.989+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553a8d9be4b0a8ee8f59ca57
+  id: 553a8d9be4b0a8ee8f59ca57
+  image: https://profiles.onshape.com/625d58b23b254499ed62b1b49b93fce2a5a258d28249dd93431bde718955e5da.png
+  name: Mike LaFleche (Onshape)
+  state: 1
+name: Thermostat
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 3
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/36c27004140b43549bdd86c7/w/99a0e938e7d24deaa680525e?t=1489676567709
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/36c27004140b43549bdd86c7/w/99a0e938e7d24deaa680525e/s/300x300?t=1489676567709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/36c27004140b43549bdd86c7/w/99a0e938e7d24deaa680525e/s/70x40?t=1489676567709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/36c27004140b43549bdd86c7/w/99a0e938e7d24deaa680525e/s/300x170?t=1489676567709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/36c27004140b43549bdd86c7/w/99a0e938e7d24deaa680525e/s/600x340?t=1489676567709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

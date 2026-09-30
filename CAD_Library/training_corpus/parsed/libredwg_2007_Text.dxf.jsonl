@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Text.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"MTEXT": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[7.333, 7.333], [14.116, 14.116]]}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "This a multiline text to check if libredwg is able to read this in the current file format version", "x": 7.332977713194921, "y": 14.11579835023011, "h": 0.2}

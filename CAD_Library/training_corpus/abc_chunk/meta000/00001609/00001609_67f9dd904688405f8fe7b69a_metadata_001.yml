@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-19T15:49:54.447+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ecd60fe4b0bf49744aaa5f
+  id: 54ecd60fe4b0bf49744aaa5f
+  image: /images/placeholder-user.png
+  name: AlphaCadMan
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/67f9dd904688405f8fe7b69a/workspaces/e1ba636375f54580bc1d85c1
+  id: e1ba636375f54580bc1d85c1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/67f9dd904688405f8fe7b69a
+id: 67f9dd904688405f8fe7b69a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-06-20T21:08:32.338+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ecd60fe4b0bf49744aaa5f
+  id: 54ecd60fe4b0bf49744aaa5f
+  image: /images/placeholder-user.png
+  name: AlphaCadMan
+  state: 1
+name: Medical Equipment - Personal
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ecd60fe4b0bf49744aaa5f
+  id: 54ecd60fe4b0bf49744aaa5f
+  image: /images/placeholder-user.png
+  name: AlphaCadMan
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/67f9dd904688405f8fe7b69a/w/e1ba636375f54580bc1d85c1?t=1466456915744
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/67f9dd904688405f8fe7b69a/w/e1ba636375f54580bc1d85c1/s/70x40?t=1466456915744
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/67f9dd904688405f8fe7b69a/w/e1ba636375f54580bc1d85c1/s/600x340?t=1466456915744
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/67f9dd904688405f8fe7b69a/w/e1ba636375f54580bc1d85c1/s/300x300?t=1466456915744
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/67f9dd904688405f8fe7b69a/w/e1ba636375f54580bc1d85c1/s/300x170?t=1466456915744
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

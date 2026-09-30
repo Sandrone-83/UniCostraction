@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T17:24:01.515+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdda4ce4b04a9735f91b38
+  id: 54fdda4ce4b04a9735f91b38
+  image: /images/placeholder-user.png
+  name: James Dugalais
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/190b1906c27e473eba602a91/workspaces/c553b98bb9404fb7b3191fa4
+  id: c553b98bb9404fb7b3191fa4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/190b1906c27e473eba602a91
+id: 190b1906c27e473eba602a91
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-04-04T13:31:24.829+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdda4ce4b04a9735f91b38
+  id: 54fdda4ce4b04a9735f91b38
+  image: /images/placeholder-user.png
+  name: James Dugalais
+  state: 1
+name: Tst spheres
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdda4ce4b04a9735f91b38
+  id: 54fdda4ce4b04a9735f91b38
+  image: /images/placeholder-user.png
+  name: James Dugalais
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/190b1906c27e473eba602a91/w/c553b98bb9404fb7b3191fa4?t=1496433084564
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/190b1906c27e473eba602a91/w/c553b98bb9404fb7b3191fa4/s/300x170?t=1496433084564
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/190b1906c27e473eba602a91/w/c553b98bb9404fb7b3191fa4/s/70x40?t=1496433084564
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/190b1906c27e473eba602a91/w/c553b98bb9404fb7b3191fa4/s/600x340?t=1496433084564
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/190b1906c27e473eba602a91/w/c553b98bb9404fb7b3191fa4/s/300x300?t=1496433084564
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

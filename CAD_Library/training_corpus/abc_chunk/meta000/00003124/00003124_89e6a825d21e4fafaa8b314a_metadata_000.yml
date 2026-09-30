@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-13T23:19:55.429+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551b19cfe4b05652caf2ed1a
+  id: 551b19cfe4b05652caf2ed1a
+  image: /images/placeholder-user.png
+  name: Oscar Rios
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/89e6a825d21e4fafaa8b314a/workspaces/dacf5e10459644e18ca03559
+  id: dacf5e10459644e18ca03559
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/89e6a825d21e4fafaa8b314a
+id: 89e6a825d21e4fafaa8b314a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2017-01-18T01:42:21.825+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551b19cfe4b05652caf2ed1a
+  id: 551b19cfe4b05652caf2ed1a
+  image: /images/placeholder-user.png
+  name: Oscar Rios
+  state: 1
+name: LA iPhone Stand
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551b19cfe4b05652caf2ed1a
+  id: 551b19cfe4b05652caf2ed1a
+  image: /images/placeholder-user.png
+  name: Oscar Rios
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/89e6a825d21e4fafaa8b314a/w/dacf5e10459644e18ca03559?t=1484703719929
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/89e6a825d21e4fafaa8b314a/w/dacf5e10459644e18ca03559/s/600x340?t=1484703719929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/89e6a825d21e4fafaa8b314a/w/dacf5e10459644e18ca03559/s/70x40?t=1484703719929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/89e6a825d21e4fafaa8b314a/w/dacf5e10459644e18ca03559/s/300x300?t=1484703719929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/89e6a825d21e4fafaa8b314a/w/dacf5e10459644e18ca03559/s/300x170?t=1484703719929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

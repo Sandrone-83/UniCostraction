@@ -1,0 +1,12 @@
+{
+ "fonti": [
+  {
+   "id": "SISTEMA-ITALIA",
+   "descrizione": "28 schede: Costituzione italiana (principi, diritti, organi, regioni, giustizia, riforme, ordinamento edilizio), fisco 2026 verificato (IRPEF 23/33/43, IVA, imprese, lavoro/contributi, patrimonio, scadenze, welfare), lavoro dipendente (busta paga, TFR, ferie, licenziamento, CCNL, apprendistato, autonomi), sistema Paese (istituzioni, enti locali, UE, PA digitale, giustizia, scuola/sanita)",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio) - dati 2026 verificati su fonti istituzionali",
+   "uso_commerciale": true,
+   "file": "parsed/costituzione_sistema_italia.jsonl",
+   "url": ""
+  }
+ ]
+}

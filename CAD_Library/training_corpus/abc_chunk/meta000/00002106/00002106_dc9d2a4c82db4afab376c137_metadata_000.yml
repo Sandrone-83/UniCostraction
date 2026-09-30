@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T12:01:32.701+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/dc9d2a4c82db4afab376c137/workspaces/4184d130d87940b484518bf3
+  id: 4184d130d87940b484518bf3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/dc9d2a4c82db4afab376c137
+id: dc9d2a4c82db4afab376c137
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-10T19:46:06.224+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+name: Copy of Sketch constraints to faces
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/dc9d2a4c82db4afab376c137/w/4184d130d87940b484518bf3?t=1436558836905
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/dc9d2a4c82db4afab376c137/w/4184d130d87940b484518bf3/s/300x300?t=1436558836905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dc9d2a4c82db4afab376c137/w/4184d130d87940b484518bf3/s/600x340?t=1436558836905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dc9d2a4c82db4afab376c137/w/4184d130d87940b484518bf3/s/300x170?t=1436558836905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dc9d2a4c82db4afab376c137/w/4184d130d87940b484518bf3/s/70x40?t=1436558836905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

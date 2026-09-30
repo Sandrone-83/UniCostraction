@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T02:34:42.381+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550f1672e4b04fee2ee4cbfb
+  id: 550f1672e4b04fee2ee4cbfb
+  image: /images/placeholder-user.png
+  name: Mike Cinquino
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1cc668ec8cc8452cb7cd3471/workspaces/58dfb4e01197461ca5890bd8
+  id: 58dfb4e01197461ca5890bd8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1cc668ec8cc8452cb7cd3471
+id: 1cc668ec8cc8452cb7cd3471
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 3
+modifiedAt: 2016-08-26T19:19:14.927+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57274ad9e4b092e4bad5b786
+  id: 57274ad9e4b092e4bad5b786
+  image: /images/placeholder-user.png
+  name: Nikola Starcevic
+  state: 1
+name: Arduino uno.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 50
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550f1672e4b04fee2ee4cbfb
+  id: 550f1672e4b04fee2ee4cbfb
+  image: /images/placeholder-user.png
+  name: Mike Cinquino
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1cc668ec8cc8452cb7cd3471/w/58dfb4e01197461ca5890bd8?t=1427337285626
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1cc668ec8cc8452cb7cd3471/w/58dfb4e01197461ca5890bd8/s/70x40?t=1427337285626
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1cc668ec8cc8452cb7cd3471/w/58dfb4e01197461ca5890bd8/s/300x170?t=1427337285626
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1cc668ec8cc8452cb7cd3471/w/58dfb4e01197461ca5890bd8/s/300x300?t=1427337285626
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1cc668ec8cc8452cb7cd3471/w/58dfb4e01197461ca5890bd8/s/600x340?t=1427337285626
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

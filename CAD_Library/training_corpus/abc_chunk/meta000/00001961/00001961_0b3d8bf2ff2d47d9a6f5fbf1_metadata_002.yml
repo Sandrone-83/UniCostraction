@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-24T00:54:29.503+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff7a16e4b02630a8453387
+  id: 54ff7a16e4b02630a8453387
+  image: /images/placeholder-user.png
+  name: Lar Barham
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0b3d8bf2ff2d47d9a6f5fbf1/workspaces/1fb12386352e463cafde41e4
+  id: 1fb12386352e463cafde41e4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0b3d8bf2ff2d47d9a6f5fbf1
+id: 0b3d8bf2ff2d47d9a6f5fbf1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-06-13T05:41:05.265+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff7a16e4b02630a8453387
+  id: 54ff7a16e4b02630a8453387
+  image: /images/placeholder-user.png
+  name: Lar Barham
+  state: 1
+name: Copy of MOTW - Crank-Piston Assembly
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff7a16e4b02630a8453387
+  id: 54ff7a16e4b02630a8453387
+  image: /images/placeholder-user.png
+  name: Lar Barham
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0b3d8bf2ff2d47d9a6f5fbf1/w/1fb12386352e463cafde41e4?t=1465799778630
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0b3d8bf2ff2d47d9a6f5fbf1/w/1fb12386352e463cafde41e4/s/300x300?t=1465799778630
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0b3d8bf2ff2d47d9a6f5fbf1/w/1fb12386352e463cafde41e4/s/600x340?t=1465799778630
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0b3d8bf2ff2d47d9a6f5fbf1/w/1fb12386352e463cafde41e4/s/300x170?t=1465799778630
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0b3d8bf2ff2d47d9a6f5fbf1/w/1fb12386352e463cafde41e4/s/70x40?t=1465799778630
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T16:13:24.797+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/95c7b82e85664702ba63e618/workspaces/60bce8d358864266a3a553ba
+  id: 60bce8d358864266a3a553ba
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/95c7b82e85664702ba63e618
+id: 95c7b82e85664702ba63e618
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-15T01:07:51.353+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  state: 1
+name: New CAM Assembly.zip
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/545d090de4b03ba5fdfd3605
+  id: 545d090de4b03ba5fdfd3605
+  image: /images/placeholder-user.png
+  name: Jeff Bowser
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/95c7b82e85664702ba63e618/w/60bce8d358864266a3a553ba?t=1429805613595
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/95c7b82e85664702ba63e618/w/60bce8d358864266a3a553ba/s/70x40?t=1429805613595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/95c7b82e85664702ba63e618/w/60bce8d358864266a3a553ba/s/300x170?t=1429805613595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/95c7b82e85664702ba63e618/w/60bce8d358864266a3a553ba/s/300x300?t=1429805613595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/95c7b82e85664702ba63e618/w/60bce8d358864266a3a553ba/s/600x340?t=1429805613595
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

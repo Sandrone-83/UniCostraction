@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-16T09:16:10.940+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501692fe4b00b89f7fc8cee
+  id: 5501692fe4b00b89f7fc8cee
+  image: https://profiles.onshape.com/845bacdf7486903cea75e169bb0b2416d595ccef4fdfd21a5025dafe201154dc.png
+  name: Leo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/cd1774f2cac046b48c9c8ef4/workspaces/d949f98140cd45d19be2ca58
+  id: d949f98140cd45d19be2ca58
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/cd1774f2cac046b48c9c8ef4
+id: cd1774f2cac046b48c9c8ef4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-18T17:44:19.609+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55016082e4b00b89f7fc8cdf
+  id: 55016082e4b00b89f7fc8cdf
+  image: /images/placeholder-user.png
+  name: "Jo\xE3o Magno"
+  state: 1
+name: Cone
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501692fe4b00b89f7fc8cee
+  id: 5501692fe4b00b89f7fc8cee
+  image: https://profiles.onshape.com/845bacdf7486903cea75e169bb0b2416d595ccef4fdfd21a5025dafe201154dc.png
+  name: Leo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/cd1774f2cac046b48c9c8ef4/w/d949f98140cd45d19be2ca58?t=1431853760472
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/cd1774f2cac046b48c9c8ef4/w/d949f98140cd45d19be2ca58/s/300x170?t=1431853760472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cd1774f2cac046b48c9c8ef4/w/d949f98140cd45d19be2ca58/s/600x340?t=1431853760472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cd1774f2cac046b48c9c8ef4/w/d949f98140cd45d19be2ca58/s/70x40?t=1431853760472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cd1774f2cac046b48c9c8ef4/w/d949f98140cd45d19be2ca58/s/300x300?t=1431853760472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

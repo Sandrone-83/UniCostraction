@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-12T02:45:01.026+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe9ecfe4b02630a8452ef9
+  id: 54fe9ecfe4b02630a8452ef9
+  image: /images/placeholder-user.png
+  name: Kevin Bertolero
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c80dedb4f61e401889b609e2/workspaces/dd4f7cc8f5964727a23fd622
+  id: dd4f7cc8f5964727a23fd622
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c80dedb4f61e401889b609e2
+id: c80dedb4f61e401889b609e2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-12T02:57:39.054+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe9ecfe4b02630a8452ef9
+  id: 54fe9ecfe4b02630a8452ef9
+  image: /images/placeholder-user.png
+  name: Kevin Bertolero
+  state: 1
+name: V-Slot 20mm x 20mm.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe9ecfe4b02630a8452ef9
+  id: 54fe9ecfe4b02630a8452ef9
+  image: /images/placeholder-user.png
+  name: Kevin Bertolero
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c80dedb4f61e401889b609e2/w/dd4f7cc8f5964727a23fd622?t=1428807462113
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c80dedb4f61e401889b609e2/w/dd4f7cc8f5964727a23fd622/s/300x300?t=1428807462113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c80dedb4f61e401889b609e2/w/dd4f7cc8f5964727a23fd622/s/70x40?t=1428807462113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c80dedb4f61e401889b609e2/w/dd4f7cc8f5964727a23fd622/s/300x170?t=1428807462113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c80dedb4f61e401889b609e2/w/dd4f7cc8f5964727a23fd622/s/600x340?t=1428807462113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

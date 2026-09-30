@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T13:39:21.536+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55031326e4b09f5b1893160f
+  id: 55031326e4b09f5b1893160f
+  image: /images/placeholder-user.png
+  name: Alligator
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6cc6f38a62ff444abe4d7120/workspaces/85ba62748dfc442583a3fdd9
+  id: 85ba62748dfc442583a3fdd9
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6cc6f38a62ff444abe4d7120
+id: 6cc6f38a62ff444abe4d7120
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-04T01:48:57.718+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55031326e4b09f5b1893160f
+  id: 55031326e4b09f5b1893160f
+  image: /images/placeholder-user.png
+  name: Alligator
+  state: 1
+name: GoPro Picavet Mount
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55031326e4b09f5b1893160f
+  id: 55031326e4b09f5b1893160f
+  image: /images/placeholder-user.png
+  name: Alligator
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6cc6f38a62ff444abe4d7120/w/85ba62748dfc442583a3fdd9?t=1427991326420
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6cc6f38a62ff444abe4d7120/w/85ba62748dfc442583a3fdd9/s/300x300?t=1427991326420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6cc6f38a62ff444abe4d7120/w/85ba62748dfc442583a3fdd9/s/70x40?t=1427991326420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6cc6f38a62ff444abe4d7120/w/85ba62748dfc442583a3fdd9/s/300x170?t=1427991326420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6cc6f38a62ff444abe4d7120/w/85ba62748dfc442583a3fdd9/s/600x340?t=1427991326420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

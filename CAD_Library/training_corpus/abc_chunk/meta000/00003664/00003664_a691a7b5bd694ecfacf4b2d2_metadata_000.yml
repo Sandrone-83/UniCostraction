@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-26T12:17:55.162+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5508a6aae4b0f6000dd57f39
+  id: 5508a6aae4b0f6000dd57f39
+  image: /images/placeholder-user.png
+  name: ShepRCS
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a691a7b5bd694ecfacf4b2d2/workspaces/724d4e54499746d1b68c7886
+  id: 724d4e54499746d1b68c7886
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a691a7b5bd694ecfacf4b2d2
+id: a691a7b5bd694ecfacf4b2d2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-08-26T03:25:15.838+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5751e8f4e4b0ea51365b67a2
+  id: 5751e8f4e4b0ea51365b67a2
+  image: /images/placeholder-user.png
+  name: Mark Williams
+  state: 1
+name: 'Elmer''s Engines #46 - Comber Rotary Engine'
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5508a6aae4b0f6000dd57f39
+  id: 5508a6aae4b0f6000dd57f39
+  image: /images/placeholder-user.png
+  name: ShepRCS
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a691a7b5bd694ecfacf4b2d2/w/724d4e54499746d1b68c7886?t=1430666217221
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a691a7b5bd694ecfacf4b2d2/w/724d4e54499746d1b68c7886/s/600x340?t=1430666217221
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a691a7b5bd694ecfacf4b2d2/w/724d4e54499746d1b68c7886/s/300x300?t=1430666217221
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a691a7b5bd694ecfacf4b2d2/w/724d4e54499746d1b68c7886/s/70x40?t=1430666217221
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a691a7b5bd694ecfacf4b2d2/w/724d4e54499746d1b68c7886/s/300x170?t=1430666217221
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

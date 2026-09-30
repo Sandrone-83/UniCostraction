@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-17T14:49:46.253+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5526be25e4b0d32bdfc01af8
+  id: 5526be25e4b0d32bdfc01af8
+  image: /images/placeholder-user.png
+  name: Brad Gill
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4c6dd8316dae41b58f49afa2/workspaces/6361aa84a0454a2687d375b1
+  id: 6361aa84a0454a2687d375b1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4c6dd8316dae41b58f49afa2
+id: 4c6dd8316dae41b58f49afa2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-18T14:33:17.988+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5526be25e4b0d32bdfc01af8
+  id: 5526be25e4b0d32bdfc01af8
+  image: /images/placeholder-user.png
+  name: Brad Gill
+  state: 1
+name: Coat Rack
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5526be25e4b0d32bdfc01af8
+  id: 5526be25e4b0d32bdfc01af8
+  image: /images/placeholder-user.png
+  name: Brad Gill
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4c6dd8316dae41b58f49afa2/w/6361aa84a0454a2687d375b1?t=1429367601536
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4c6dd8316dae41b58f49afa2/w/6361aa84a0454a2687d375b1/s/300x170?t=1429367601536
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4c6dd8316dae41b58f49afa2/w/6361aa84a0454a2687d375b1/s/300x300?t=1429367601536
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4c6dd8316dae41b58f49afa2/w/6361aa84a0454a2687d375b1/s/70x40?t=1429367601536
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4c6dd8316dae41b58f49afa2/w/6361aa84a0454a2687d375b1/s/600x340?t=1429367601536
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

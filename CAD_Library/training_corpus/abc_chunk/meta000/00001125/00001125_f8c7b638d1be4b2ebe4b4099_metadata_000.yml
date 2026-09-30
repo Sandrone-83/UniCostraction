@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T21:22:37.014+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff2fa8e4b02630a845320f
+  id: 54ff2fa8e4b02630a845320f
+  image: /images/placeholder-user.png
+  name: Maxwell Tighe
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f8c7b638d1be4b2ebe4b4099/workspaces/26dce2322dbb49e4bda919c8
+  id: 26dce2322dbb49e4bda919c8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f8c7b638d1be4b2ebe4b4099
+id: f8c7b638d1be4b2ebe4b4099
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-25T01:46:02.787+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff2fa8e4b02630a845320f
+  id: 54ff2fa8e4b02630a845320f
+  image: /images/placeholder-user.png
+  name: Maxwell Tighe
+  state: 1
+name: forklift.CATPart
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff2fa8e4b02630a845320f
+  id: 54ff2fa8e4b02630a845320f
+  image: /images/placeholder-user.png
+  name: Maxwell Tighe
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f8c7b638d1be4b2ebe4b4099/w/26dce2322dbb49e4bda919c8?t=1511574436976
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f8c7b638d1be4b2ebe4b4099/w/26dce2322dbb49e4bda919c8/s/70x40?t=1511574436976
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f8c7b638d1be4b2ebe4b4099/w/26dce2322dbb49e4bda919c8/s/600x340?t=1511574436976
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f8c7b638d1be4b2ebe4b4099/w/26dce2322dbb49e4bda919c8/s/300x300?t=1511574436976
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f8c7b638d1be4b2ebe4b4099/w/26dce2322dbb49e4bda919c8/s/300x170?t=1511574436976
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

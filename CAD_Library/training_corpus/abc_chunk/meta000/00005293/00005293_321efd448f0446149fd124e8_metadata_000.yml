@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-18T21:25:37.347+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554a6ccee4b089bb8409c478
+  id: 554a6ccee4b089bb8409c478
+  image: /images/placeholder-user.png
+  name: Andrew Bennett
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/321efd448f0446149fd124e8/workspaces/4172388f8bc24f4193ed434f
+  id: 4172388f8bc24f4193ed434f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/321efd448f0446149fd124e8
+id: 321efd448f0446149fd124e8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-12T13:54:58.961+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/554a6ccee4b089bb8409c478
+  id: 554a6ccee4b089bb8409c478
+  image: /images/placeholder-user.png
+  name: Andrew Bennett
+  state: 1
+name: Queen Size Mattress "Torsion-Box"
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554a6ccee4b089bb8409c478
+  id: 554a6ccee4b089bb8409c478
+  image: /images/placeholder-user.png
+  name: Andrew Bennett
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/321efd448f0446149fd124e8/w/4172388f8bc24f4193ed434f?t=1431984419355
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/321efd448f0446149fd124e8/w/4172388f8bc24f4193ed434f/s/70x40?t=1431984419355
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/321efd448f0446149fd124e8/w/4172388f8bc24f4193ed434f/s/600x340?t=1431984419355
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/321efd448f0446149fd124e8/w/4172388f8bc24f4193ed434f/s/300x300?t=1431984419355
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/321efd448f0446149fd124e8/w/4172388f8bc24f4193ed434f/s/300x170?t=1431984419355
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T23:43:30.835+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501606be4b0120eedd95ac2
+  id: 5501606be4b0120eedd95ac2
+  image: /images/placeholder-user.png
+  name: Steve Wellcome
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/43f1ace1580843f9abdbd5e4/workspaces/713431e78ee6463b9ca5b4dd
+  id: 713431e78ee6463b9ca5b4dd
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/43f1ace1580843f9abdbd5e4
+id: 43f1ace1580843f9abdbd5e4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T16:48:56.430+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501606be4b0120eedd95ac2
+  id: 5501606be4b0120eedd95ac2
+  image: /images/placeholder-user.png
+  name: Steve Wellcome
+  state: 1
+name: Fret-Bender
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501606be4b0120eedd95ac2
+  id: 5501606be4b0120eedd95ac2
+  image: /images/placeholder-user.png
+  name: Steve Wellcome
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/43f1ace1580843f9abdbd5e4/w/713431e78ee6463b9ca5b4dd?t=1427453746375
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/43f1ace1580843f9abdbd5e4/w/713431e78ee6463b9ca5b4dd/s/300x170?t=1427453746375
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/43f1ace1580843f9abdbd5e4/w/713431e78ee6463b9ca5b4dd/s/300x300?t=1427453746375
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/43f1ace1580843f9abdbd5e4/w/713431e78ee6463b9ca5b4dd/s/600x340?t=1427453746375
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/43f1ace1580843f9abdbd5e4/w/713431e78ee6463b9ca5b4dd/s/70x40?t=1427453746375
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

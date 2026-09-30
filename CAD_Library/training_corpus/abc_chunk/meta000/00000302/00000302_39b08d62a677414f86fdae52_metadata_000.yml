@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-31T16:02:56.713+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7cf7e4b0df4f31ebb28a
+  id: 53cd7cf7e4b0df4f31ebb28a
+  image: https://profiles.onshape.com/2bf67602cd16662eec07de5db1229c2e1c529b6de292a8f995ceb23281c6a259.png
+  name: Ilya Mirman
+  state: 0
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/39b08d62a677414f86fdae52/workspaces/8e056b4ffb654a7fb5377d91
+  id: 8e056b4ffb654a7fb5377d91
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/39b08d62a677414f86fdae52
+id: 39b08d62a677414f86fdae52
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-10-31T17:39:59.735+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7cf7e4b0df4f31ebb28a
+  id: 53cd7cf7e4b0df4f31ebb28a
+  image: https://profiles.onshape.com/2bf67602cd16662eec07de5db1229c2e1c529b6de292a8f995ceb23281c6a259.png
+  name: Ilya Mirman
+  state: 0
+name: ilya's surf board
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7cf7e4b0df4f31ebb28a
+  id: 53cd7cf7e4b0df4f31ebb28a
+  image: https://profiles.onshape.com/2bf67602cd16662eec07de5db1229c2e1c529b6de292a8f995ceb23281c6a259.png
+  name: Ilya Mirman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/39b08d62a677414f86fdae52/w/8e056b4ffb654a7fb5377d91?t=1414775072035
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/39b08d62a677414f86fdae52/w/8e056b4ffb654a7fb5377d91/s/600x340?t=1414775072035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/39b08d62a677414f86fdae52/w/8e056b4ffb654a7fb5377d91/s/300x170?t=1414775072035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/39b08d62a677414f86fdae52/w/8e056b4ffb654a7fb5377d91/s/70x40?t=1414775072035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

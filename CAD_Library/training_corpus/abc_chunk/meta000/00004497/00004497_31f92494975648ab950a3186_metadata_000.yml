@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-09T13:24:07.727+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe068fe4b024f269d81711
+  id: 54fe068fe4b024f269d81711
+  image: /images/placeholder-user.png
+  name: XiaoShiZi
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/31f92494975648ab950a3186/workspaces/a5f6603624704c48a7c84a1c
+  id: a5f6603624704c48a7c84a1c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/31f92494975648ab950a3186
+id: 31f92494975648ab950a3186
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-22T18:06:28.833+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe068fe4b024f269d81711
+  id: 54fe068fe4b024f269d81711
+  image: /images/placeholder-user.png
+  name: XiaoShiZi
+  state: 1
+name: 1029-A2P-A.step
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe068fe4b024f269d81711
+  id: 54fe068fe4b024f269d81711
+  image: /images/placeholder-user.png
+  name: XiaoShiZi
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/31f92494975648ab950a3186/w/a5f6603624704c48a7c84a1c?t=1432319016330
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/31f92494975648ab950a3186/w/a5f6603624704c48a7c84a1c/s/300x300?t=1432319016330
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/31f92494975648ab950a3186/w/a5f6603624704c48a7c84a1c/s/300x170?t=1432319016330
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/31f92494975648ab950a3186/w/a5f6603624704c48a7c84a1c/s/70x40?t=1432319016330
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/31f92494975648ab950a3186/w/a5f6603624704c48a7c84a1c/s/600x340?t=1432319016330
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

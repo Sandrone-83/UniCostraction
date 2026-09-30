@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2014-11-11T16:02:10.624+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7aa1e4b0df4f31ebb271
+  id: 53cd7aa1e4b0df4f31ebb271
+  image: https://profiles.onshape.com/ec6f41415f1a4fb4a0381c6dfe8437a74a7fe7146fc109680d656dc9dc514ea0.png
+  name: Philip Thomas
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/239bbf0e92974a32bd214366/workspaces/f255932e98a94ba6a71a7bf4
+  id: f255932e98a94ba6a71a7bf4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/239bbf0e92974a32bd214366
+id: 239bbf0e92974a32bd214366
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-02T13:14:38.228+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/59f884916ac2cb101356ced1
+  id: 59f884916ac2cb101356ced1
+  image: https://profiles.onshape.com/95e7a16d8ec996bdbf1c804eab91f389225e683d748933a032b16665051f895c.png
+  name: Philip (Odyssean Systems)
+  state: 1
+name: Tablet Stand
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7aa1e4b0df4f31ebb271
+  id: 53cd7aa1e4b0df4f31ebb271
+  image: https://profiles.onshape.com/ec6f41415f1a4fb4a0381c6dfe8437a74a7fe7146fc109680d656dc9dc514ea0.png
+  name: Philip Thomas
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/239bbf0e92974a32bd214366/w/f255932e98a94ba6a71a7bf4?t=1509628345576
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/239bbf0e92974a32bd214366/w/f255932e98a94ba6a71a7bf4/s/600x340?t=1509628345576
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/239bbf0e92974a32bd214366/w/f255932e98a94ba6a71a7bf4/s/70x40?t=1509628345576
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/239bbf0e92974a32bd214366/w/f255932e98a94ba6a71a7bf4/s/300x300?t=1509628345576
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/239bbf0e92974a32bd214366/w/f255932e98a94ba6a71a7bf4/s/300x170?t=1509628345576
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

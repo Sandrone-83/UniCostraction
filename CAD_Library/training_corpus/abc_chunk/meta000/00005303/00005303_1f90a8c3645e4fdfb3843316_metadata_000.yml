@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-19T07:20:43.237+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54c6b890e4b032fda192ebf3
+  id: 54c6b890e4b032fda192ebf3
+  image: /images/placeholder-user.png
+  name: Javier Verba
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1f90a8c3645e4fdfb3843316/workspaces/3bde75d1ed3444fcb6398bec
+  id: 3bde75d1ed3444fcb6398bec
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1f90a8c3645e4fdfb3843316
+id: 1f90a8c3645e4fdfb3843316
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-25T15:09:32.904+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5627d581e4b0462e71c9f76f
+  id: 5627d581e4b0462e71c9f76f
+  image: /images/placeholder-user.png
+  name: "Esa V\xE4is\xE4nen"
+  state: 1
+name: marbelbearing
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54c6b890e4b032fda192ebf3
+  id: 54c6b890e4b032fda192ebf3
+  image: /images/placeholder-user.png
+  name: Javier Verba
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1f90a8c3645e4fdfb3843316/w/3bde75d1ed3444fcb6398bec?t=1451158379883
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1f90a8c3645e4fdfb3843316/w/3bde75d1ed3444fcb6398bec/s/300x170?t=1451158379883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1f90a8c3645e4fdfb3843316/w/3bde75d1ed3444fcb6398bec/s/70x40?t=1451158379883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1f90a8c3645e4fdfb3843316/w/3bde75d1ed3444fcb6398bec/s/300x300?t=1451158379883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1f90a8c3645e4fdfb3843316/w/3bde75d1ed3444fcb6398bec/s/600x340?t=1451158379883
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

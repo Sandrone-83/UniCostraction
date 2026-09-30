@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-29T20:39:03.673+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f386bce4b0108d0fd87833
+  id: 53f386bce4b0108d0fd87833
+  image: /images/placeholder-user.png
+  name: Katy Gero
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bd0972033f464f8f961a150a/workspaces/71ad3f22430644e7b5e0afb6
+  id: 71ad3f22430644e7b5e0afb6
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bd0972033f464f8f961a150a
+id: bd0972033f464f8f961a150a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-07-13T15:30:06.579+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5544a7e8e4b0b6c175df4500
+  id: 5544a7e8e4b0b6c175df4500
+  image: https://profiles.onshape.com/54efc2e3e5494934702018837b49198d222ad9c22fc78873effad01223af3670.png
+  name: Silas Hughes
+  state: 1
+name: CC Spheres
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/56a26b7ee4b0f699dc302654
+  id: 56a26b7ee4b0f699dc302654
+  image: /images/placeholder-user.png
+  name: Katy Gero
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bd0972033f464f8f961a150a/w/71ad3f22430644e7b5e0afb6?t=1468423810831
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bd0972033f464f8f961a150a/w/71ad3f22430644e7b5e0afb6/s/600x340?t=1468423810831
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bd0972033f464f8f961a150a/w/71ad3f22430644e7b5e0afb6/s/300x300?t=1468423810831
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bd0972033f464f8f961a150a/w/71ad3f22430644e7b5e0afb6/s/70x40?t=1468423810831
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bd0972033f464f8f961a150a/w/71ad3f22430644e7b5e0afb6/s/300x170?t=1468423810831
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

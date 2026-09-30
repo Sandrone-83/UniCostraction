@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-18T23:12:17.933+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55028388e4b0120eedd95f20
+  id: 55028388e4b0120eedd95f20
+  image: https://profiles.onshape.com/3725fa9aee60abdbfd9fb6e4a09684e137a334b6f6571d81d23cd0b930ea15f3.png
+  name: Arul Suresh
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2ddb7af146cb4f35a2ce6321/workspaces/50d864f111034349873f1f8f
+  id: 50d864f111034349873f1f8f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2ddb7af146cb4f35a2ce6321
+id: 2ddb7af146cb4f35a2ce6321
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-18T00:10:59.033+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55028388e4b0120eedd95f20
+  id: 55028388e4b0120eedd95f20
+  image: https://profiles.onshape.com/3725fa9aee60abdbfd9fb6e4a09684e137a334b6f6571d81d23cd0b930ea15f3.png
+  name: Arul Suresh
+  state: 1
+name: Hovercraft Mk II
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55028388e4b0120eedd95f20
+  id: 55028388e4b0120eedd95f20
+  image: https://profiles.onshape.com/3725fa9aee60abdbfd9fb6e4a09684e137a334b6f6571d81d23cd0b930ea15f3.png
+  name: Arul Suresh
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2ddb7af146cb4f35a2ce6321/w/50d864f111034349873f1f8f?t=1432079941340
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2ddb7af146cb4f35a2ce6321/w/50d864f111034349873f1f8f/s/600x340?t=1432079941340
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2ddb7af146cb4f35a2ce6321/w/50d864f111034349873f1f8f/s/300x170?t=1432079941340
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2ddb7af146cb4f35a2ce6321/w/50d864f111034349873f1f8f/s/300x300?t=1432079941340
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2ddb7af146cb4f35a2ce6321/w/50d864f111034349873f1f8f/s/70x40?t=1432079941340
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

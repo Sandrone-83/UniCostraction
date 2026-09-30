@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-14T10:52:33.380+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5502b7bde4b05b800d3e4354
+  id: 5502b7bde4b05b800d3e4354
+  image: /images/placeholder-user.png
+  name: Matthieu Lapeyre
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0edbb09350ec4da9bd899300/workspaces/4ff399de11a5490a80faf1d7
+  id: 4ff399de11a5490a80faf1d7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0edbb09350ec4da9bd899300
+id: 0edbb09350ec4da9bd899300
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-14T13:29:47.344+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5502b7bde4b05b800d3e4354
+  id: 5502b7bde4b05b800d3e4354
+  image: /images/placeholder-user.png
+  name: Matthieu Lapeyre
+  state: 1
+name: Raspberry pi
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5502b7bde4b05b800d3e4354
+  id: 5502b7bde4b05b800d3e4354
+  image: /images/placeholder-user.png
+  name: Matthieu Lapeyre
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0edbb09350ec4da9bd899300/w/4ff399de11a5490a80faf1d7?t=1429018150131
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0edbb09350ec4da9bd899300/w/4ff399de11a5490a80faf1d7/s/70x40?t=1429018150131
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0edbb09350ec4da9bd899300/w/4ff399de11a5490a80faf1d7/s/600x340?t=1429018150131
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0edbb09350ec4da9bd899300/w/4ff399de11a5490a80faf1d7/s/300x300?t=1429018150131
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0edbb09350ec4da9bd899300/w/4ff399de11a5490a80faf1d7/s/300x170?t=1429018150131
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

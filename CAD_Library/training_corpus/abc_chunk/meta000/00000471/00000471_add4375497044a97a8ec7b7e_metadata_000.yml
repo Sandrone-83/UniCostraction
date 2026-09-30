@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-15T21:44:31.718+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/add4375497044a97a8ec7b7e/workspaces/d897b0629b334241b8c8581e
+  id: d897b0629b334241b8c8581e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/add4375497044a97a8ec7b7e
+id: add4375497044a97a8ec7b7e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-24T18:14:14.304+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/56993424e4b0f699dc2fc70c
+  id: 56993424e4b0f699dc2fc70c
+  image: /images/placeholder-user.png
+  name: Cal Clark
+  state: 1
+name: Sample - Brake Caliper
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53c826c6e4b08ad13cf21155
+  id: 53c826c6e4b08ad13cf21155
+  image: /images/placeholder-user.png
+  name: Onshape
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/add4375497044a97a8ec7b7e/w/d897b0629b334241b8c8581e?t=1418856908640
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/add4375497044a97a8ec7b7e/w/d897b0629b334241b8c8581e/s/300x170?t=1418856908640
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/add4375497044a97a8ec7b7e/w/d897b0629b334241b8c8581e/s/70x40?t=1418856908640
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/add4375497044a97a8ec7b7e/w/d897b0629b334241b8c8581e/s/600x340?t=1418856908640
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

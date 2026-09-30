@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T10:20:23.796+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550f01b7e4b0b29f4fe99677
+  id: 550f01b7e4b0b29f4fe99677
+  image: /images/placeholder-user.png
+  name: Brice Marnier
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/45986d8635e748b49f3d9f7a/workspaces/225ea4a2069342f9bd9e8ea1
+  id: 225ea4a2069342f9bd9e8ea1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/45986d8635e748b49f3d9f7a
+id: 45986d8635e748b49f3d9f7a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-03T13:24:14.998+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550f01b7e4b0b29f4fe99677
+  id: 550f01b7e4b0b29f4fe99677
+  image: /images/placeholder-user.png
+  name: Brice Marnier
+  state: 1
+name: scale cup
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550f01b7e4b0b29f4fe99677
+  id: 550f01b7e4b0b29f4fe99677
+  image: /images/placeholder-user.png
+  name: Brice Marnier
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/45986d8635e748b49f3d9f7a/w/225ea4a2069342f9bd9e8ea1?t=1430659463702
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/45986d8635e748b49f3d9f7a/w/225ea4a2069342f9bd9e8ea1/s/70x40?t=1430659463702
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/45986d8635e748b49f3d9f7a/w/225ea4a2069342f9bd9e8ea1/s/300x170?t=1430659463702
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/45986d8635e748b49f3d9f7a/w/225ea4a2069342f9bd9e8ea1/s/300x300?t=1430659463702
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/45986d8635e748b49f3d9f7a/w/225ea4a2069342f9bd9e8ea1/s/600x340?t=1430659463702
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

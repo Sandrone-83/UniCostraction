@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-16T00:28:30.251+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55317037e4b080d5b1d51ee7
+  id: 55317037e4b080d5b1d51ee7
+  image: /images/placeholder-user.png
+  name: George Djabarov
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d598acbb27e543d48a71f3d7/workspaces/7850d54d801d47e281ea5ec5
+  id: 7850d54d801d47e281ea5ec5
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d598acbb27e543d48a71f3d7
+id: d598acbb27e543d48a71f3d7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-03T21:49:59.186+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55317037e4b080d5b1d51ee7
+  id: 55317037e4b080d5b1d51ee7
+  image: /images/placeholder-user.png
+  name: George Djabarov
+  state: 1
+name: 3D Printer Strain Relieve
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55317037e4b080d5b1d51ee7
+  id: 55317037e4b080d5b1d51ee7
+  image: /images/placeholder-user.png
+  name: George Djabarov
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d598acbb27e543d48a71f3d7/w/7850d54d801d47e281ea5ec5?t=1431737928818
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d598acbb27e543d48a71f3d7/w/7850d54d801d47e281ea5ec5/s/600x340?t=1431737928818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d598acbb27e543d48a71f3d7/w/7850d54d801d47e281ea5ec5/s/300x300?t=1431737928818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d598acbb27e543d48a71f3d7/w/7850d54d801d47e281ea5ec5/s/70x40?t=1431737928818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d598acbb27e543d48a71f3d7/w/7850d54d801d47e281ea5ec5/s/300x170?t=1431737928818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

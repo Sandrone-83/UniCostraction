@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-09T13:23:22.892+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f2f1249e743349808fca42a3/workspaces/065933beb8254ca6a83dd7c1
+  id: 065933beb8254ca6a83dd7c1
+  name: Headset Dock
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f2f1249e743349808fca42a3
+id: f2f1249e743349808fca42a3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-10-09T20:20:12.728+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  state: 1
+name: Headset Dock
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f2f1249e743349808fca42a3/w/065933beb8254ca6a83dd7c1?t=1412873397374
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f2f1249e743349808fca42a3/w/065933beb8254ca6a83dd7c1/s/600x340?t=1412873397374
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f2f1249e743349808fca42a3/w/065933beb8254ca6a83dd7c1/s/70x40?t=1412873397374
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f2f1249e743349808fca42a3/w/065933beb8254ca6a83dd7c1/s/300x170?t=1412873397374
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

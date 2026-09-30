@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-20T20:16:33.602+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5ca7126202904519b3772065/workspaces/32adc5c17a2b444ba99ba033
+  id: 32adc5c17a2b444ba99ba033
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5ca7126202904519b3772065
+id: 5ca7126202904519b3772065
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-05-28T17:39:58.730+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  state: 1
+name: 3D Printed Drive Train
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5ca7126202904519b3772065/w/32adc5c17a2b444ba99ba033?t=1495993459866
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5ca7126202904519b3772065/w/32adc5c17a2b444ba99ba033/s/600x340?t=1495993459866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5ca7126202904519b3772065/w/32adc5c17a2b444ba99ba033/s/300x170?t=1495993459866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5ca7126202904519b3772065/w/32adc5c17a2b444ba99ba033/s/300x300?t=1495993459866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5ca7126202904519b3772065/w/32adc5c17a2b444ba99ba033/s/70x40?t=1495993459866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

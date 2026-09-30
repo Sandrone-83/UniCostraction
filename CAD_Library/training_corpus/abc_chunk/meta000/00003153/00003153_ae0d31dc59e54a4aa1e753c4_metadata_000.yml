@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-14T19:14:58.728+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53eb987ee4b09503f3215b9c
+  id: 53eb987ee4b09503f3215b9c
+  image: https://profiles.onshape.com/c1e6c5e7300c8690536de377775d78fc342a10f8520eddd47eb2947b8476df6c.png
+  name: Matthew Loew
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ae0d31dc59e54a4aa1e753c4/workspaces/d915dbc45abe4d12af4e926a
+  id: d915dbc45abe4d12af4e926a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ae0d31dc59e54a4aa1e753c4
+id: ae0d31dc59e54a4aa1e753c4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-14T19:17:17.054+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53eb987ee4b09503f3215b9c
+  id: 53eb987ee4b09503f3215b9c
+  image: https://profiles.onshape.com/c1e6c5e7300c8690536de377775d78fc342a10f8520eddd47eb2947b8476df6c.png
+  name: Matthew Loew
+  state: 1
+name: Tractor
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53eb987ee4b09503f3215b9c
+  id: 53eb987ee4b09503f3215b9c
+  image: https://profiles.onshape.com/c1e6c5e7300c8690536de377775d78fc342a10f8520eddd47eb2947b8476df6c.png
+  name: Matthew Loew
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ae0d31dc59e54a4aa1e753c4/w/d915dbc45abe4d12af4e926a?t=1429039047550
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ae0d31dc59e54a4aa1e753c4/w/d915dbc45abe4d12af4e926a/s/70x40?t=1429039047550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ae0d31dc59e54a4aa1e753c4/w/d915dbc45abe4d12af4e926a/s/300x300?t=1429039047550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ae0d31dc59e54a4aa1e753c4/w/d915dbc45abe4d12af4e926a/s/300x170?t=1429039047550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ae0d31dc59e54a4aa1e753c4/w/d915dbc45abe4d12af4e926a/s/600x340?t=1429039047550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

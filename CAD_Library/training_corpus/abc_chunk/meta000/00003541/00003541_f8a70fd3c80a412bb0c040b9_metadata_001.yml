@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T13:54:12.088+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5534c0dce4b073b4bdcab900
+  id: 5534c0dce4b073b4bdcab900
+  image: https://profiles.onshape.com/970b11519197986e9e38e97f3f7633ef26d5af7c1c6ea33be8b5885b0046aa01.png
+  name: Juhaa
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f8a70fd3c80a412bb0c040b9/workspaces/fcb74ac75140415a8cd42e6d
+  id: fcb74ac75140415a8cd42e6d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f8a70fd3c80a412bb0c040b9
+id: f8a70fd3c80a412bb0c040b9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-27T08:39:21.367+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5534c0dce4b073b4bdcab900
+  id: 5534c0dce4b073b4bdcab900
+  image: https://profiles.onshape.com/970b11519197986e9e38e97f3f7633ef26d5af7c1c6ea33be8b5885b0046aa01.png
+  name: Juhaa
+  state: 1
+name: Turnigy Charger B6 Button
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5534c0dce4b073b4bdcab900
+  id: 5534c0dce4b073b4bdcab900
+  image: https://profiles.onshape.com/970b11519197986e9e38e97f3f7633ef26d5af7c1c6ea33be8b5885b0046aa01.png
+  name: Juhaa
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f8a70fd3c80a412bb0c040b9/w/fcb74ac75140415a8cd42e6d?t=1430127596410
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f8a70fd3c80a412bb0c040b9/w/fcb74ac75140415a8cd42e6d/s/300x300?t=1430127596410
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f8a70fd3c80a412bb0c040b9/w/fcb74ac75140415a8cd42e6d/s/600x340?t=1430127596410
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f8a70fd3c80a412bb0c040b9/w/fcb74ac75140415a8cd42e6d/s/300x170?t=1430127596410
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f8a70fd3c80a412bb0c040b9/w/fcb74ac75140415a8cd42e6d/s/70x40?t=1430127596410
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

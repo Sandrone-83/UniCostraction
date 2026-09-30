@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-18T09:09:48.637+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5555d2c2e4b0fed564f7ff45
+  id: 5555d2c2e4b0fed564f7ff45
+  image: /images/placeholder-user.png
+  name: Holger Gilbergs
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ddf7cdd4c9b04ecca64e5e3a/workspaces/0107979789554208b0ab0972
+  id: 0107979789554208b0ab0972
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ddf7cdd4c9b04ecca64e5e3a
+id: ddf7cdd4c9b04ecca64e5e3a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-12-28T18:19:18.993+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5555d2c2e4b0fed564f7ff45
+  id: 5555d2c2e4b0fed564f7ff45
+  image: /images/placeholder-user.png
+  name: Holger Gilbergs
+  state: 1
+name: XCarriageNew.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5555d2c2e4b0fed564f7ff45
+  id: 5555d2c2e4b0fed564f7ff45
+  image: /images/placeholder-user.png
+  name: Holger Gilbergs
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ddf7cdd4c9b04ecca64e5e3a/w/0107979789554208b0ab0972?t=1514485104405
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ddf7cdd4c9b04ecca64e5e3a/w/0107979789554208b0ab0972/s/300x300?t=1514485104405
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ddf7cdd4c9b04ecca64e5e3a/w/0107979789554208b0ab0972/s/300x170?t=1514485104405
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ddf7cdd4c9b04ecca64e5e3a/w/0107979789554208b0ab0972/s/600x340?t=1514485104405
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ddf7cdd4c9b04ecca64e5e3a/w/0107979789554208b0ab0972/s/70x40?t=1514485104405
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

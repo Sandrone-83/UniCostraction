@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-07-25T13:51:01.787+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d4fe04f0f5f84b52bd4f10e4/workspaces/af184e4c3083411ba6f2afac
+  id: af184e4c3083411ba6f2afac
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d4fe04f0f5f84b52bd4f10e4
+id: d4fe04f0f5f84b52bd4f10e4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-29T19:42:03.975+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  state: 1
+name: Assem Test
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d4fe04f0f5f84b52bd4f10e4/w/af184e4c3083411ba6f2afac?t=1461959233465
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d4fe04f0f5f84b52bd4f10e4/w/af184e4c3083411ba6f2afac/s/70x40?t=1461959233465
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4fe04f0f5f84b52bd4f10e4/w/af184e4c3083411ba6f2afac/s/600x340?t=1461959233465
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4fe04f0f5f84b52bd4f10e4/w/af184e4c3083411ba6f2afac/s/300x300?t=1461959233465
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4fe04f0f5f84b52bd4f10e4/w/af184e4c3083411ba6f2afac/s/300x170?t=1461959233465
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

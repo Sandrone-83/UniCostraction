@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-11T01:08:32.980+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5514bc28e4b01e772918e1d0
+  id: 5514bc28e4b01e772918e1d0
+  image: /images/placeholder-user.png
+  name: Aras Balali Moghaddam
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/cd2458ffafa046d69c889dd7/workspaces/81daa5d6f0674a76a7e75dbe
+  id: 81daa5d6f0674a76a7e75dbe
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/cd2458ffafa046d69c889dd7
+id: cd2458ffafa046d69c889dd7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-08T16:02:04.054+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551791cce4b0fead1d2f9631
+  id: 551791cce4b0fead1d2f9631
+  image: /images/placeholder-user.png
+  name: Courtenay Watson
+  state: 1
+name: KM Key Chain
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5514bc28e4b01e772918e1d0
+  id: 5514bc28e4b01e772918e1d0
+  image: /images/placeholder-user.png
+  name: Aras Balali Moghaddam
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/cd2458ffafa046d69c889dd7/w/81daa5d6f0674a76a7e75dbe?t=1439049753649
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/cd2458ffafa046d69c889dd7/w/81daa5d6f0674a76a7e75dbe/s/70x40?t=1439049753649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cd2458ffafa046d69c889dd7/w/81daa5d6f0674a76a7e75dbe/s/300x300?t=1439049753649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cd2458ffafa046d69c889dd7/w/81daa5d6f0674a76a7e75dbe/s/600x340?t=1439049753649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cd2458ffafa046d69c889dd7/w/81daa5d6f0674a76a7e75dbe/s/300x170?t=1439049753649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

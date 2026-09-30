@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-24T19:23:35.469+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501d0a8e4b0120eedd95bfc
+  id: 5501d0a8e4b0120eedd95bfc
+  image: /images/placeholder-user.png
+  name: Douglas Gilliard
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b53d499a5d5c42dfade565bf/workspaces/1aa6e2748a9148b19d2880d6
+  id: 1aa6e2748a9148b19d2880d6
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b53d499a5d5c42dfade565bf
+id: b53d499a5d5c42dfade565bf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-11-25T21:15:49.349+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff05efe4b0191bdfa2076d
+  id: 54ff05efe4b0191bdfa2076d
+  image: https://profiles.onshape.com/774cf07e4ad9d91ee48a4c91ca4e1a0f953f109580cb28cb05c250e04a85e82a.png
+  name: Kyle
+  state: 1
+name: linear_bearing
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501d0a8e4b0120eedd95bfc
+  id: 5501d0a8e4b0120eedd95bfc
+  image: /images/placeholder-user.png
+  name: Douglas Gilliard
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b53d499a5d5c42dfade565bf/w/1aa6e2748a9148b19d2880d6?t=1448486157223
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b53d499a5d5c42dfade565bf/w/1aa6e2748a9148b19d2880d6/s/600x340?t=1448486157223
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b53d499a5d5c42dfade565bf/w/1aa6e2748a9148b19d2880d6/s/300x170?t=1448486157223
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b53d499a5d5c42dfade565bf/w/1aa6e2748a9148b19d2880d6/s/70x40?t=1448486157223
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b53d499a5d5c42dfade565bf/w/1aa6e2748a9148b19d2880d6/s/300x300?t=1448486157223
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

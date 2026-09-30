@@ -1,0 +1,31 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/transform_hatch_pattern.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 30, "entity_histogram": {"HATCH": 16, "LWPOLYLINE": 9, "MTEXT": 3, "INSERT": 2}, "n_layers": 0, "layers": [], "n_block_defs": 4, "bbox": [[-63.342, 155.426], [0.0, 288.0]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[22.0, 32.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ACAD_ISO10W100", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[0.0, 10.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ANGLE", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[11.0, 21.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ANSI33", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[22.0, 32.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ACAD_ISO10W100", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[0.0, 10.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ANGLE", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[11.0, 21.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ANSI33", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "AR-B816C", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "AR-B88", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "AR-HBONE", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "AR-PARQ1", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "AR-RSHKE", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "n_paths": 0.0}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "BRICK_STRBOND", "n_paths": 1.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "HatchBlock", "x": 50.0, "y": 30.0, "sx": 2.0, "sy": 2.0, "rot": 30.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[128.105117766515, 155.425625842204], [52.0, 79.320508075689]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ACAD_ISO10W100", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[90.0, 117.320508075689], [30.0, 57.320508075689]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ANGLE", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "LINE", "n": 4, "closed": true, "bbox": [[109.052558883258, 136.373066958946], [41.0, 68.320508075689]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "ANSI33", "n_paths": 1.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "HatchBlock", "x": 0.0, "y": 80.0, "sx": 2.0, "sy": 2.0, "rot": 180.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Scale:2 Rotation: 180", "x": -63.341595901676, "y": 83.574847791473, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Scale:2 Rotation: 30", "x": 55.894103467049, "y": 31.006536398424, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Exploded", "x": 106.087491114662, "y": 30.204725094149, "h": 1.0}

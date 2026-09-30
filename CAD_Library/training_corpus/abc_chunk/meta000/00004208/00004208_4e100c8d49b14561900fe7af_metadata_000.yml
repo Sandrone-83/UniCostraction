@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-05T10:52:54.559+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551e6d1fe4b069ed6f3280f3
+  id: 551e6d1fe4b069ed6f3280f3
+  image: /images/placeholder-user.png
+  name: Nigel Ball
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4e100c8d49b14561900fe7af/workspaces/f63b6f6f2aeb4d2ba558e612
+  id: f63b6f6f2aeb4d2ba558e612
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4e100c8d49b14561900fe7af
+id: 4e100c8d49b14561900fe7af
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-23T17:42:54.618+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5678253de4b0ba529ddc0d96
+  id: 5678253de4b0ba529ddc0d96
+  image: /images/placeholder-user.png
+  name: Jurgen Pannock
+  state: 1
+name: LulzbotFilamentTubeHolder
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551e6d1fe4b069ed6f3280f3
+  id: 551e6d1fe4b069ed6f3280f3
+  image: /images/placeholder-user.png
+  name: Nigel Ball
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4e100c8d49b14561900fe7af/w/f63b6f6f2aeb4d2ba558e612?t=1433677827679
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4e100c8d49b14561900fe7af/w/f63b6f6f2aeb4d2ba558e612/s/70x40?t=1433677827679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4e100c8d49b14561900fe7af/w/f63b6f6f2aeb4d2ba558e612/s/300x170?t=1433677827679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4e100c8d49b14561900fe7af/w/f63b6f6f2aeb4d2ba558e612/s/600x340?t=1433677827679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4e100c8d49b14561900fe7af/w/f63b6f6f2aeb4d2ba558e612/s/300x300?t=1433677827679
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

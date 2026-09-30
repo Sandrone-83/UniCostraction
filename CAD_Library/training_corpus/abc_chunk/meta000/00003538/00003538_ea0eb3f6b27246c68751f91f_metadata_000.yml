@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T09:10:52.930+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5538b57de4b0a805f4801546
+  id: 5538b57de4b0a805f4801546
+  image: /images/placeholder-user.png
+  name: Dominik Kirschner
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ea0eb3f6b27246c68751f91f/workspaces/c03c2776bae74ffba7cd99c5
+  id: c03c2776bae74ffba7cd99c5
+  name: Hauptteil
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ea0eb3f6b27246c68751f91f
+id: ea0eb3f6b27246c68751f91f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-02T12:10:58.402+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5538b57de4b0a805f4801546
+  id: 5538b57de4b0a805f4801546
+  image: /images/placeholder-user.png
+  name: Dominik Kirschner
+  state: 1
+name: Werkzeughalter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5538b57de4b0a805f4801546
+  id: 5538b57de4b0a805f4801546
+  image: /images/placeholder-user.png
+  name: Dominik Kirschner
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ea0eb3f6b27246c68751f91f/w/c03c2776bae74ffba7cd99c5?t=1430292910729
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ea0eb3f6b27246c68751f91f/w/c03c2776bae74ffba7cd99c5/s/300x170?t=1430292910729
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ea0eb3f6b27246c68751f91f/w/c03c2776bae74ffba7cd99c5/s/70x40?t=1430292910729
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ea0eb3f6b27246c68751f91f/w/c03c2776bae74ffba7cd99c5/s/600x340?t=1430292910729
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ea0eb3f6b27246c68751f91f/w/c03c2776bae74ffba7cd99c5/s/300x300?t=1430292910729
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

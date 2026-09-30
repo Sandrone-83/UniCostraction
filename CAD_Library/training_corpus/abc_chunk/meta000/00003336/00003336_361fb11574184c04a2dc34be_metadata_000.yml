@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-18T16:04:03.319+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551791cce4b0fead1d2f9631
+  id: 551791cce4b0fead1d2f9631
+  image: /images/placeholder-user.png
+  name: Courtenay Watson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/361fb11574184c04a2dc34be/workspaces/e8d646286e0f4352bc3631db
+  id: e8d646286e0f4352bc3631db
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/361fb11574184c04a2dc34be
+id: 361fb11574184c04a2dc34be
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 3
+modifiedAt: 2015-09-11T00:09:11.118+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551791cce4b0fead1d2f9631
+  id: 551791cce4b0fead1d2f9631
+  image: /images/placeholder-user.png
+  name: Courtenay Watson
+  state: 1
+name: Introduction Video
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551791cce4b0fead1d2f9631
+  id: 551791cce4b0fead1d2f9631
+  image: /images/placeholder-user.png
+  name: Courtenay Watson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/361fb11574184c04a2dc34be/w/e8d646286e0f4352bc3631db?t=1429669094220
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/361fb11574184c04a2dc34be/w/e8d646286e0f4352bc3631db/s/70x40?t=1429669094220
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/361fb11574184c04a2dc34be/w/e8d646286e0f4352bc3631db/s/300x300?t=1429669094220
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/361fb11574184c04a2dc34be/w/e8d646286e0f4352bc3631db/s/300x170?t=1429669094220
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/361fb11574184c04a2dc34be/w/e8d646286e0f4352bc3631db/s/600x340?t=1429669094220
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

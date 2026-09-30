@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-27T11:59:19.740+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ee9a3ee4b0bf49744aabab
+  id: 54ee9a3ee4b0bf49744aabab
+  image: /images/placeholder-user.png
+  name: Rajini Rajarathinam
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/17a6e57d8b9b406da9b6441a/workspaces/66a72773f47d4babbbcc9ea9
+  id: 66a72773f47d4babbbcc9ea9
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/17a6e57d8b9b406da9b6441a
+id: 17a6e57d8b9b406da9b6441a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-03-01T09:05:07.359+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ee9a3ee4b0bf49744aabab
+  id: 54ee9a3ee4b0bf49744aabab
+  image: /images/placeholder-user.png
+  name: Rajini Rajarathinam
+  state: 1
+name: Shaping machine
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ee9a3ee4b0bf49744aabab
+  id: 54ee9a3ee4b0bf49744aabab
+  image: /images/placeholder-user.png
+  name: Rajini Rajarathinam
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/17a6e57d8b9b406da9b6441a/w/66a72773f47d4babbbcc9ea9?t=1451990233367
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/17a6e57d8b9b406da9b6441a/w/66a72773f47d4babbbcc9ea9/s/300x300?t=1451990233367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/17a6e57d8b9b406da9b6441a/w/66a72773f47d4babbbcc9ea9/s/70x40?t=1451990233367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/17a6e57d8b9b406da9b6441a/w/66a72773f47d4babbbcc9ea9/s/600x340?t=1451990233367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/17a6e57d8b9b406da9b6441a/w/66a72773f47d4babbbcc9ea9/s/300x170?t=1451990233367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

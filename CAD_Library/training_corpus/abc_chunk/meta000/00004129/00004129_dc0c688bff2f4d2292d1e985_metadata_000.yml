@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T18:15:09.495+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55378ae3e4b021906108503f
+  id: 55378ae3e4b021906108503f
+  image: /images/placeholder-user.png
+  name: Diana Probst
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/dc0c688bff2f4d2292d1e985/workspaces/c5c92c4481a04ace8397198a
+  id: c5c92c4481a04ace8397198a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/dc0c688bff2f4d2292d1e985
+id: dc0c688bff2f4d2292d1e985
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-12-13T21:27:11.630+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553a8d9be4b0a8ee8f59ca57
+  id: 553a8d9be4b0a8ee8f59ca57
+  image: https://profiles.onshape.com/625d58b23b254499ed62b1b49b93fce2a5a258d28249dd93431bde718955e5da.png
+  name: Mike LaFleche (Onshape)
+  state: 1
+name: Rocket
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55378ae3e4b021906108503f
+  id: 55378ae3e4b021906108503f
+  image: /images/placeholder-user.png
+  name: Diana Probst
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/dc0c688bff2f4d2292d1e985/w/c5c92c4481a04ace8397198a?t=1432924950698
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/dc0c688bff2f4d2292d1e985/w/c5c92c4481a04ace8397198a/s/300x300?t=1432924950698
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dc0c688bff2f4d2292d1e985/w/c5c92c4481a04ace8397198a/s/70x40?t=1432924950698
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dc0c688bff2f4d2292d1e985/w/c5c92c4481a04ace8397198a/s/600x340?t=1432924950698
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dc0c688bff2f4d2292d1e985/w/c5c92c4481a04ace8397198a/s/300x170?t=1432924950698
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

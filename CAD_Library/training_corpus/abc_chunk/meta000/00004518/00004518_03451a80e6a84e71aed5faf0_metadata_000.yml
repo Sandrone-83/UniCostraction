@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-10T02:16:39.358+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55156f9be4b01e772918e24b
+  id: 55156f9be4b01e772918e24b
+  image: /images/placeholder-user.png
+  name: Ashley Zimmerer
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/03451a80e6a84e71aed5faf0/workspaces/0a026d5a1344408084789165
+  id: 0a026d5a1344408084789165
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/03451a80e6a84e71aed5faf0
+id: 03451a80e6a84e71aed5faf0
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-14T15:42:10.499+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55156f9be4b01e772918e24b
+  id: 55156f9be4b01e772918e24b
+  image: /images/placeholder-user.png
+  name: Ashley Zimmerer
+  state: 1
+name: Tank Stand
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55156f9be4b01e772918e24b
+  id: 55156f9be4b01e772918e24b
+  image: /images/placeholder-user.png
+  name: Ashley Zimmerer
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/03451a80e6a84e71aed5faf0/w/0a026d5a1344408084789165?t=1434300225117
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/03451a80e6a84e71aed5faf0/w/0a026d5a1344408084789165/s/70x40?t=1434300225117
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/03451a80e6a84e71aed5faf0/w/0a026d5a1344408084789165/s/300x300?t=1434300225117
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/03451a80e6a84e71aed5faf0/w/0a026d5a1344408084789165/s/600x340?t=1434300225117
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/03451a80e6a84e71aed5faf0/w/0a026d5a1344408084789165/s/300x170?t=1434300225117
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

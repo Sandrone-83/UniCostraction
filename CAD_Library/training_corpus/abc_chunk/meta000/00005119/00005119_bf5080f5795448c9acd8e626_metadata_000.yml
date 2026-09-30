@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-17T12:32:19.662+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55571484e4b048f081b2f4f1
+  id: 55571484e4b048f081b2f4f1
+  image: /images/placeholder-user.png
+  name: August Flatby
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bf5080f5795448c9acd8e626/workspaces/1702ad11e56c4f509ec55469
+  id: 1702ad11e56c4f509ec55469
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bf5080f5795448c9acd8e626
+id: bf5080f5795448c9acd8e626
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-17T13:03:28.781+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55571484e4b048f081b2f4f1
+  id: 55571484e4b048f081b2f4f1
+  image: /images/placeholder-user.png
+  name: August Flatby
+  state: 1
+name: Mating Test
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55571484e4b048f081b2f4f1
+  id: 55571484e4b048f081b2f4f1
+  image: /images/placeholder-user.png
+  name: August Flatby
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bf5080f5795448c9acd8e626/w/1702ad11e56c4f509ec55469?t=1431867736559
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bf5080f5795448c9acd8e626/w/1702ad11e56c4f509ec55469/s/70x40?t=1431867736559
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bf5080f5795448c9acd8e626/w/1702ad11e56c4f509ec55469/s/600x340?t=1431867736559
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bf5080f5795448c9acd8e626/w/1702ad11e56c4f509ec55469/s/300x300?t=1431867736559
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bf5080f5795448c9acd8e626/w/1702ad11e56c4f509ec55469/s/300x170?t=1431867736559
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

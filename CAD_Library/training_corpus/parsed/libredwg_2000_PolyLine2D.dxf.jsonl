@@ -1,0 +1,14 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "libredwg/2000/PolyLine2D.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 13, "entity_histogram": {"VIEWPORT": 7, "LINE": 4, "POLYLINE": 2}, "n_layers": 0, "layers": [], "n_block_defs": 11, "bbox": [[-1.0, 0.0], [-0.268, 0.268]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -1.0, "y1": 0.267949, "x2": 0.0, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": -1.0, "y2": -0.267949}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": -1.0, "y2": 0.0}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -0.5, "y1": 0.0, "x2": -1.0, "y2": 0.0}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T20:21:12.587+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ed0843e4b0b6bc3c726ee0
+  id: 54ed0843e4b0b6bc3c726ee0
+  image: https://profiles.onshape.com/fd5e56c62fe54fdb1bd930e458b1f232d2c20a70b4b3017dfefd27f035e1e282.png
+  name: Jon
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/89631281e530460989f74d9e/workspaces/1071e3b8974342619affd13c
+  id: 1071e3b8974342619affd13c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/89631281e530460989f74d9e
+id: 89631281e530460989f74d9e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-20T18:06:34.401+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54cf96c6e4b0bb0f3ea6ce8d
+  id: 54cf96c6e4b0bb0f3ea6ce8d
+  image: https://profiles.onshape.com/f441be862efdb05b9992dc52906311f103ae0b8df19ad85020e811c4b05b0581.png
+  name: Abe (Onshape)
+  state: 1
+name: GarageDoor
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ed0843e4b0b6bc3c726ee0
+  id: 54ed0843e4b0b6bc3c726ee0
+  image: https://profiles.onshape.com/fd5e56c62fe54fdb1bd930e458b1f232d2c20a70b4b3017dfefd27f035e1e282.png
+  name: Jon
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/89631281e530460989f74d9e/w/1071e3b8974342619affd13c?t=1429306097266
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/89631281e530460989f74d9e/w/1071e3b8974342619affd13c/s/300x170?t=1429306097266
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/89631281e530460989f74d9e/w/1071e3b8974342619affd13c/s/300x300?t=1429306097266
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/89631281e530460989f74d9e/w/1071e3b8974342619affd13c/s/600x340?t=1429306097266
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/89631281e530460989f74d9e/w/1071e3b8974342619affd13c/s/70x40?t=1429306097266
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

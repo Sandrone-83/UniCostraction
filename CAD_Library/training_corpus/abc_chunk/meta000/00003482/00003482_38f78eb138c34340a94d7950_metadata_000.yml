@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-22T04:36:58.340+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdeabde4b0c0916a298488
+  id: 54fdeabde4b0c0916a298488
+  image: /images/placeholder-user.png
+  name: Matt Richard
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/38f78eb138c34340a94d7950/workspaces/80435b09beef4f26b807bd9a
+  id: 80435b09beef4f26b807bd9a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/38f78eb138c34340a94d7950
+id: 38f78eb138c34340a94d7950
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-22T13:17:14.905+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7aa1e4b0df4f31ebb271
+  id: 53cd7aa1e4b0df4f31ebb271
+  image: https://profiles.onshape.com/ec6f41415f1a4fb4a0381c6dfe8437a74a7fe7146fc109680d656dc9dc514ea0.png
+  name: Philip Thomas
+  state: 1
+name: PhantomX rev 2 backup.IGS
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdeabde4b0c0916a298488
+  id: 54fdeabde4b0c0916a298488
+  image: /images/placeholder-user.png
+  name: Matt Richard
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/38f78eb138c34340a94d7950/w/80435b09beef4f26b807bd9a?t=1429712305053
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/38f78eb138c34340a94d7950/w/80435b09beef4f26b807bd9a/s/300x170?t=1429712305053
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/38f78eb138c34340a94d7950/w/80435b09beef4f26b807bd9a/s/300x300?t=1429712305053
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/38f78eb138c34340a94d7950/w/80435b09beef4f26b807bd9a/s/600x340?t=1429712305053
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/38f78eb138c34340a94d7950/w/80435b09beef4f26b807bd9a/s/70x40?t=1429712305053
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

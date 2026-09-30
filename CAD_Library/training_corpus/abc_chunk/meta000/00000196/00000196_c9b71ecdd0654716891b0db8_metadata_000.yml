@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-28T20:55:37.913+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54065435e4b023eb3faefb89
+  id: 54065435e4b023eb3faefb89
+  image: /images/placeholder-user.png
+  name: ZZorco
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c9b71ecdd0654716891b0db8/workspaces/40e65d098be940ed921e4889
+  id: 40e65d098be940ed921e4889
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c9b71ecdd0654716891b0db8
+id: c9b71ecdd0654716891b0db8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-09-28T21:15:45.445+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54065435e4b023eb3faefb89
+  id: 54065435e4b023eb3faefb89
+  image: /images/placeholder-user.png
+  name: ZZorco
+  state: 1
+name: Sumitomo Clamp
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54065435e4b023eb3faefb89
+  id: 54065435e4b023eb3faefb89
+  image: /images/placeholder-user.png
+  name: ZZorco
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c9b71ecdd0654716891b0db8/w/40e65d098be940ed921e4889?t=1411938973510
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c9b71ecdd0654716891b0db8/w/40e65d098be940ed921e4889/s/600x340?t=1411938973510
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c9b71ecdd0654716891b0db8/w/40e65d098be940ed921e4889/s/70x40?t=1411938973510
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c9b71ecdd0654716891b0db8/w/40e65d098be940ed921e4889/s/300x170?t=1411938973510
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

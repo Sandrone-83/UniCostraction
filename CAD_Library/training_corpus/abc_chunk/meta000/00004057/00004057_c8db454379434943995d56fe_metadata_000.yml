@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-02T17:37:54.911+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fef7c0e4b02630a8453059
+  id: 54fef7c0e4b02630a8453059
+  image: /images/placeholder-user.png
+  name: tyson dabney
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c8db454379434943995d56fe/workspaces/02a9fb2aa75a428faca389a7
+  id: 02a9fb2aa75a428faca389a7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c8db454379434943995d56fe
+id: c8db454379434943995d56fe
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-29T20:31:21.799+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fef7c0e4b02630a8453059
+  id: 54fef7c0e4b02630a8453059
+  image: /images/placeholder-user.png
+  name: tyson dabney
+  state: 1
+name: garden sign
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fef7c0e4b02630a8453059
+  id: 54fef7c0e4b02630a8453059
+  image: /images/placeholder-user.png
+  name: tyson dabney
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c8db454379434943995d56fe/w/02a9fb2aa75a428faca389a7?t=1430590846719
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c8db454379434943995d56fe/w/02a9fb2aa75a428faca389a7/s/300x300?t=1430590846719
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8db454379434943995d56fe/w/02a9fb2aa75a428faca389a7/s/70x40?t=1430590846719
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8db454379434943995d56fe/w/02a9fb2aa75a428faca389a7/s/600x340?t=1430590846719
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8db454379434943995d56fe/w/02a9fb2aa75a428faca389a7/s/300x170?t=1430590846719
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

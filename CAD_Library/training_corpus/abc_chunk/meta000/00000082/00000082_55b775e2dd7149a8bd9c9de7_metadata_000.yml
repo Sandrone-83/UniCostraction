@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-22T20:38:01.879+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f73771e4b0108d0fd880ba
+  id: 53f73771e4b0108d0fd880ba
+  image: /images/placeholder-user.png
+  name: Brooks Willis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/55b775e2dd7149a8bd9c9de7/workspaces/c343fb8879dd4940bbba225e
+  id: c343fb8879dd4940bbba225e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/55b775e2dd7149a8bd9c9de7
+id: 55b775e2dd7149a8bd9c9de7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-05-05T20:24:44.145+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53f73771e4b0108d0fd880ba
+  id: 53f73771e4b0108d0fd880ba
+  image: /images/placeholder-user.png
+  name: Brooks Willis
+  state: 1
+name: AutoTurret.x_t
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f73771e4b0108d0fd880ba
+  id: 53f73771e4b0108d0fd880ba
+  image: /images/placeholder-user.png
+  name: Brooks Willis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/55b775e2dd7149a8bd9c9de7/w/c343fb8879dd4940bbba225e?t=1462480186840
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/55b775e2dd7149a8bd9c9de7/w/c343fb8879dd4940bbba225e/s/70x40?t=1462480186840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/55b775e2dd7149a8bd9c9de7/w/c343fb8879dd4940bbba225e/s/300x300?t=1462480186840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/55b775e2dd7149a8bd9c9de7/w/c343fb8879dd4940bbba225e/s/300x170?t=1462480186840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/55b775e2dd7149a8bd9c9de7/w/c343fb8879dd4940bbba225e/s/600x340?t=1462480186840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

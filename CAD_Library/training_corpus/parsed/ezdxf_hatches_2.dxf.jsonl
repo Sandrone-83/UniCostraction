@@ -1,0 +1,12 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "ezdxf/hatches_2.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 11, "entity_histogram": {"LWPOLYLINE": 4, "HATCH": 2, "MTEXT": 2, "ARC": 1, "SPLINE": 1, "ELLIPSE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[0.0, 153.794], [0.0, 60.26]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": false, "bbox": [[15.94617981131185, 22.46104327502154], [17.88970141145027, 38.81021154906707]]}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 27.23255482392775, "cy": 37.32841621274949, "r": 4.996302620946588, "a1": 17.25220809399116, "a2": 162.7477919060089}
+{"kind": "entity", "type": "SPLINE", "layer": "0", "degree": 3.0, "n_ctrl": 11, "n_fit": 0, "bbox": [[22.07965616927404, 68.72358721334537], [11.75667640124574, 24.26061858002495]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 2, "closed": false, "bbox": [[32.00406637283393, 47.21845383585098], [38.81021154906707, 38.81021154906707]]}
+{"kind": "entity", "type": "ELLIPSE", "layer": "0", "cx": 49.64089977339618, "cy": 36.43095770602131, "ax": 16.69099826506408, "ay": 6.96203799241026, "ratio": 0.173450304570581}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": false, "bbox": [[61.49705431814722, 70.79594401862802], [17.88970141145027, 38.81021154906707]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 1301, "closed": true, "bbox": [[98.9438525622165, 153.7936167695326], [12.03706288291556, 42.93602996244547]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "OUTLINE OF\\PSEPARATE ENTITIES", "x": 25.59831108416541, "y": 59.86807668237469, "h": 2.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "POLYLINE OUTLINE", "x": 111.3470889808992, "y": 60.25981973693865, "h": 2.0}

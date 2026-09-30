@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-15T16:52:33.612+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554a621ae4b089bb8409c459
+  id: 554a621ae4b089bb8409c459
+  image: https://profiles.onshape.com/a1b5144630cb18e4ecef2929ca2a4455840999fbd4382e488cde89f5144d73b4.png
+  name: Bruce Williams
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d4128676889e4fd98aaaf778/workspaces/3b2b22051b024f88b4b59c57
+  id: 3b2b22051b024f88b4b59c57
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d4128676889e4fd98aaaf778
+id: d4128676889e4fd98aaaf778
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T20:48:10.027+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/554a621ae4b089bb8409c459
+  id: 554a621ae4b089bb8409c459
+  image: https://profiles.onshape.com/a1b5144630cb18e4ecef2929ca2a4455840999fbd4382e488cde89f5144d73b4.png
+  name: Bruce Williams
+  state: 1
+name: Loft Practice
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554a621ae4b089bb8409c459
+  id: 554a621ae4b089bb8409c459
+  image: https://profiles.onshape.com/a1b5144630cb18e4ecef2929ca2a4455840999fbd4382e488cde89f5144d73b4.png
+  name: Bruce Williams
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d4128676889e4fd98aaaf778/w/3b2b22051b024f88b4b59c57?t=1432590520363
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d4128676889e4fd98aaaf778/w/3b2b22051b024f88b4b59c57/s/70x40?t=1432590520363
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4128676889e4fd98aaaf778/w/3b2b22051b024f88b4b59c57/s/300x170?t=1432590520363
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4128676889e4fd98aaaf778/w/3b2b22051b024f88b4b59c57/s/300x300?t=1432590520363
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4128676889e4fd98aaaf778/w/3b2b22051b024f88b4b59c57/s/600x340?t=1432590520363
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

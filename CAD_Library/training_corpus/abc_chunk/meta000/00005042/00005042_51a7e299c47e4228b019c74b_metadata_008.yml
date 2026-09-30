@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-16T12:35:15.259+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5555fa9fe4b048f081b2f444
+  id: 5555fa9fe4b048f081b2f444
+  image: /images/placeholder-user.png
+  name: Maximilian Luisoder
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/51a7e299c47e4228b019c74b/workspaces/2d9982108c8d4f97bd77d161
+  id: 2d9982108c8d4f97bd77d161
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/51a7e299c47e4228b019c74b
+id: 51a7e299c47e4228b019c74b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-25T10:15:58.647+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5555fa9fe4b048f081b2f444
+  id: 5555fa9fe4b048f081b2f444
+  image: /images/placeholder-user.png
+  name: Maximilian Luisoder
+  state: 1
+name: Bohrforichtuing
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5555fa9fe4b048f081b2f444
+  id: 5555fa9fe4b048f081b2f444
+  image: /images/placeholder-user.png
+  name: Maximilian Luisoder
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/51a7e299c47e4228b019c74b/w/2d9982108c8d4f97bd77d161?t=1432548820393
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/51a7e299c47e4228b019c74b/w/2d9982108c8d4f97bd77d161/s/300x170?t=1432548820393
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/51a7e299c47e4228b019c74b/w/2d9982108c8d4f97bd77d161/s/600x340?t=1432548820393
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/51a7e299c47e4228b019c74b/w/2d9982108c8d4f97bd77d161/s/70x40?t=1432548820393
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/51a7e299c47e4228b019c74b/w/2d9982108c8d4f97bd77d161/s/300x300?t=1432548820393
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

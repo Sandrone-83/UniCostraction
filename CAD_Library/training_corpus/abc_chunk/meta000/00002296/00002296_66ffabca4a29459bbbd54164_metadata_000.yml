@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-30T16:07:02.321+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54d0170ae4b0aa627bb8d99a
+  id: 54d0170ae4b0aa627bb8d99a
+  image: /images/placeholder-user.png
+  name: Francesco De Santis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/66ffabca4a29459bbbd54164/workspaces/6d970315d3774140a05ebedc
+  id: 6d970315d3774140a05ebedc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/66ffabca4a29459bbbd54164
+id: 66ffabca4a29459bbbd54164
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-03T16:46:19.525+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54d0170ae4b0aa627bb8d99a
+  id: 54d0170ae4b0aa627bb8d99a
+  image: /images/placeholder-user.png
+  name: Francesco De Santis
+  state: 1
+name: master bedroom floor
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54d0170ae4b0aa627bb8d99a
+  id: 54d0170ae4b0aa627bb8d99a
+  image: /images/placeholder-user.png
+  name: Francesco De Santis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/66ffabca4a29459bbbd54164/w/6d970315d3774140a05ebedc?t=1427734780933
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffabca4a29459bbbd54164/w/6d970315d3774140a05ebedc/s/300x300?t=1427734780933
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffabca4a29459bbbd54164/w/6d970315d3774140a05ebedc/s/300x170?t=1427734780933
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffabca4a29459bbbd54164/w/6d970315d3774140a05ebedc/s/600x340?t=1427734780933
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffabca4a29459bbbd54164/w/6d970315d3774140a05ebedc/s/70x40?t=1427734780933
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

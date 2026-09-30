@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-01T09:29:41.143+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c13dc1fdb43348c4a4298958/workspaces/08ddc41fb52f4ac095492e9e
+  id: 08ddc41fb52f4ac095492e9e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c13dc1fdb43348c4a4298958
+id: c13dc1fdb43348c4a4298958
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-14T08:18:12.007+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+name: 8mm ER11 Brushless CNC Spindle
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c13dc1fdb43348c4a4298958/w/08ddc41fb52f4ac095492e9e?t=1502491797524
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c13dc1fdb43348c4a4298958/w/08ddc41fb52f4ac095492e9e/s/300x300?t=1502491797524
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c13dc1fdb43348c4a4298958/w/08ddc41fb52f4ac095492e9e/s/70x40?t=1502491797524
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c13dc1fdb43348c4a4298958/w/08ddc41fb52f4ac095492e9e/s/600x340?t=1502491797524
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c13dc1fdb43348c4a4298958/w/08ddc41fb52f4ac095492e9e/s/300x170?t=1502491797524
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

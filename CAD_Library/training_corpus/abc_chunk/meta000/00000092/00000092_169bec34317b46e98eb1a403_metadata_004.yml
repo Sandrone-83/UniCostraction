@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-25T12:22:21.422+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53eb9f74e4b0edf73d20e4ec
+  id: 53eb9f74e4b0edf73d20e4ec
+  image: https://profiles.onshape.com/1c50071ec616ee5fef6066b05f547c41aa7d7dca97b4c1a3d147e48785b4f38b.png
+  name: Gal Raz
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/169bec34317b46e98eb1a403/workspaces/4e26c477594d41389caf9a6b
+  id: 4e26c477594d41389caf9a6b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/169bec34317b46e98eb1a403
+id: 169bec34317b46e98eb1a403
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2018-04-05T17:09:55.577+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53eb9f74e4b0edf73d20e4ec
+  id: 53eb9f74e4b0edf73d20e4ec
+  image: https://profiles.onshape.com/1c50071ec616ee5fef6066b05f547c41aa7d7dca97b4c1a3d147e48785b4f38b.png
+  name: Gal Raz
+  state: 1
+name: Case for Xtreamer Q Phone
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53eb9f74e4b0edf73d20e4ec
+  id: 53eb9f74e4b0edf73d20e4ec
+  image: https://profiles.onshape.com/1c50071ec616ee5fef6066b05f547c41aa7d7dca97b4c1a3d147e48785b4f38b.png
+  name: Gal Raz
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/169bec34317b46e98eb1a403/w/4e26c477594d41389caf9a6b?t=1522948160766
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/169bec34317b46e98eb1a403/w/4e26c477594d41389caf9a6b/s/300x170?t=1522948160766
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/169bec34317b46e98eb1a403/w/4e26c477594d41389caf9a6b/s/70x40?t=1522948160766
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/169bec34317b46e98eb1a403/w/4e26c477594d41389caf9a6b/s/300x300?t=1522948160766
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/169bec34317b46e98eb1a403/w/4e26c477594d41389caf9a6b/s/600x340?t=1522948160766
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-05T12:36:20.407+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e8f075e4b09503f32158ca
+  id: 53e8f075e4b09503f32158ca
+  image: /images/placeholder-user.png
+  name: Scott N. Miller
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e3ea4a27cfc74c25abff290c/workspaces/820f2e8476ae4eb2b28e70ce
+  id: 820f2e8476ae4eb2b28e70ce
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e3ea4a27cfc74c25abff290c
+id: e3ea4a27cfc74c25abff290c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-14T13:05:14.105+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e8f075e4b09503f32158ca
+  id: 53e8f075e4b09503f32158ca
+  image: /images/placeholder-user.png
+  name: Scott N. Miller
+  state: 1
+name: Halloween_Machine
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e8f075e4b09503f32158ca
+  id: 53e8f075e4b09503f32158ca
+  image: /images/placeholder-user.png
+  name: Scott N. Miller
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e3ea4a27cfc74c25abff290c/w/820f2e8476ae4eb2b28e70ce?t=1433078797877
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e3ea4a27cfc74c25abff290c/w/820f2e8476ae4eb2b28e70ce/s/70x40?t=1433078797877
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e3ea4a27cfc74c25abff290c/w/820f2e8476ae4eb2b28e70ce/s/300x300?t=1433078797877
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e3ea4a27cfc74c25abff290c/w/820f2e8476ae4eb2b28e70ce/s/600x340?t=1433078797877
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e3ea4a27cfc74c25abff290c/w/820f2e8476ae4eb2b28e70ce/s/300x170?t=1433078797877
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

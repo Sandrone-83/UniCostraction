@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-24T06:18:27.435+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdd46be4b046f89d8e9a57
+  id: 54fdd46be4b046f89d8e9a57
+  image: /images/placeholder-user.png
+  name: Kenny Leong
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ff2ac654e0f743a9b08d1e45/workspaces/d0f28dd4fc3b4d31ad1dc1ce
+  id: d0f28dd4fc3b4d31ad1dc1ce
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ff2ac654e0f743a9b08d1e45
+id: ff2ac654e0f743a9b08d1e45
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-24T06:34:06.881+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdd46be4b046f89d8e9a57
+  id: 54fdd46be4b046f89d8e9a57
+  image: /images/placeholder-user.png
+  name: Kenny Leong
+  state: 1
+name: gundam parts
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdd46be4b046f89d8e9a57
+  id: 54fdd46be4b046f89d8e9a57
+  image: /images/placeholder-user.png
+  name: Kenny Leong
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ff2ac654e0f743a9b08d1e45/w/d0f28dd4fc3b4d31ad1dc1ce?t=1429857289737
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ff2ac654e0f743a9b08d1e45/w/d0f28dd4fc3b4d31ad1dc1ce/s/300x170?t=1429857289737
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ff2ac654e0f743a9b08d1e45/w/d0f28dd4fc3b4d31ad1dc1ce/s/300x300?t=1429857289737
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ff2ac654e0f743a9b08d1e45/w/d0f28dd4fc3b4d31ad1dc1ce/s/600x340?t=1429857289737
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ff2ac654e0f743a9b08d1e45/w/d0f28dd4fc3b4d31ad1dc1ce/s/70x40?t=1429857289737
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-29T00:23:08.519+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55007270e4b02630a8453681
+  id: 55007270e4b02630a8453681
+  image: /images/placeholder-user.png
+  name: PN
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/70fc984390f94560b7b9dafa/workspaces/92c348eab28f4619b00912fc
+  id: 92c348eab28f4619b00912fc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/70fc984390f94560b7b9dafa
+id: 70fc984390f94560b7b9dafa
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-08T22:47:53.662+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55007270e4b02630a8453681
+  id: 55007270e4b02630a8453681
+  image: /images/placeholder-user.png
+  name: PN
+  state: 1
+name: Napkin ring
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55007270e4b02630a8453681
+  id: 55007270e4b02630a8453681
+  image: /images/placeholder-user.png
+  name: PN
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/70fc984390f94560b7b9dafa/w/92c348eab28f4619b00912fc?t=1427590355120
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/70fc984390f94560b7b9dafa/w/92c348eab28f4619b00912fc/s/70x40?t=1427590355120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/70fc984390f94560b7b9dafa/w/92c348eab28f4619b00912fc/s/600x340?t=1427590355120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/70fc984390f94560b7b9dafa/w/92c348eab28f4619b00912fc/s/300x170?t=1427590355120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/70fc984390f94560b7b9dafa/w/92c348eab28f4619b00912fc/s/300x300?t=1427590355120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-17T14:09:52.182+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54feaccfe4b00b89f7fc874e
+  id: 54feaccfe4b00b89f7fc874e
+  image: /images/placeholder-user.png
+  name: Ben Hallam
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d58b716dc87648cf97571b4c/workspaces/f30089068edc451ca0ac6ef2
+  id: f30089068edc451ca0ac6ef2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d58b716dc87648cf97571b4c
+id: d58b716dc87648cf97571b4c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-17T14:12:06.402+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54feaccfe4b00b89f7fc874e
+  id: 54feaccfe4b00b89f7fc874e
+  image: /images/placeholder-user.png
+  name: Ben Hallam
+  state: 1
+name: HP z800.STEP
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54feaccfe4b00b89f7fc874e
+  id: 54feaccfe4b00b89f7fc874e
+  image: /images/placeholder-user.png
+  name: Ben Hallam
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d58b716dc87648cf97571b4c/w/f30089068edc451ca0ac6ef2?t=1426601405472
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d58b716dc87648cf97571b4c/w/f30089068edc451ca0ac6ef2/s/600x340?t=1426601405472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d58b716dc87648cf97571b4c/w/f30089068edc451ca0ac6ef2/s/300x300?t=1426601405472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d58b716dc87648cf97571b4c/w/f30089068edc451ca0ac6ef2/s/300x170?t=1426601405472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d58b716dc87648cf97571b4c/w/f30089068edc451ca0ac6ef2/s/70x40?t=1426601405472
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

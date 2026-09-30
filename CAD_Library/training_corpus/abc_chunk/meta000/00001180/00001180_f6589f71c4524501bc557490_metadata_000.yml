@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-13T18:21:35.330+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fef5dae4b02630a845304c
+  id: 54fef5dae4b02630a845304c
+  image: /images/placeholder-user.png
+  name: Leo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f6589f71c4524501bc557490/workspaces/79fd230791c0426289de0284
+  id: 79fd230791c0426289de0284
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f6589f71c4524501bc557490
+id: f6589f71c4524501bc557490
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-26T18:42:34.217+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57c088f756237c10517c27d9
+  id: 57c088f756237c10517c27d9
+  image: /images/placeholder-user.png
+  name: noah bryant
+  state: 1
+name: Lubica - House.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fef5dae4b02630a845304c
+  id: 54fef5dae4b02630a845304c
+  image: /images/placeholder-user.png
+  name: Leo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f6589f71c4524501bc557490/w/79fd230791c0426289de0284?t=1431462049660
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f6589f71c4524501bc557490/w/79fd230791c0426289de0284/s/300x300?t=1431462049660
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f6589f71c4524501bc557490/w/79fd230791c0426289de0284/s/70x40?t=1431462049660
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f6589f71c4524501bc557490/w/79fd230791c0426289de0284/s/600x340?t=1431462049660
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f6589f71c4524501bc557490/w/79fd230791c0426289de0284/s/300x170?t=1431462049660
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

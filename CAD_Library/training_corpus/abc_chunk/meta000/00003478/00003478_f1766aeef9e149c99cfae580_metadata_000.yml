@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-22T01:26:43.439+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ffa8bae4b0191bdfa20b19
+  id: 54ffa8bae4b0191bdfa20b19
+  image: /images/placeholder-user.png
+  name: frank26080115
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f1766aeef9e149c99cfae580/workspaces/57c8f239a83d44bc8f29b61a
+  id: 57c8f239a83d44bc8f29b61a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f1766aeef9e149c99cfae580
+id: f1766aeef9e149c99cfae580
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-02T18:11:06.442+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ffa8bae4b0191bdfa20b19
+  id: 54ffa8bae4b0191bdfa20b19
+  image: /images/placeholder-user.png
+  name: frank26080115
+  state: 1
+name: Turnigy Aerodrive C1822 Brushless DC Motor
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ffa8bae4b0191bdfa20b19
+  id: 54ffa8bae4b0191bdfa20b19
+  image: /images/placeholder-user.png
+  name: frank26080115
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f1766aeef9e149c99cfae580/w/57c8f239a83d44bc8f29b61a?t=1480628555596
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f1766aeef9e149c99cfae580/w/57c8f239a83d44bc8f29b61a/s/600x340?t=1480628555596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f1766aeef9e149c99cfae580/w/57c8f239a83d44bc8f29b61a/s/70x40?t=1480628555596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f1766aeef9e149c99cfae580/w/57c8f239a83d44bc8f29b61a/s/300x300?t=1480628555596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f1766aeef9e149c99cfae580/w/57c8f239a83d44bc8f29b61a/s/300x170?t=1480628555596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

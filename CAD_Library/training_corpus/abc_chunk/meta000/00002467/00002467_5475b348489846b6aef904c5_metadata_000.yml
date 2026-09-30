@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T13:27:06.453+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe05aee4b04a9735f91d7f
+  id: 54fe05aee4b04a9735f91d7f
+  image: /images/placeholder-user.png
+  name: Ron Stewart
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5475b348489846b6aef904c5/workspaces/366e72b11f7740b49d466f88
+  id: 366e72b11f7740b49d466f88
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5475b348489846b6aef904c5
+id: 5475b348489846b6aef904c5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-12T21:51:10.223+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe05aee4b04a9735f91d7f
+  id: 54fe05aee4b04a9735f91d7f
+  image: /images/placeholder-user.png
+  name: Ron Stewart
+  state: 1
+name: drive side - side guide
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe05aee4b04a9735f91d7f
+  id: 54fe05aee4b04a9735f91d7f
+  image: /images/placeholder-user.png
+  name: Ron Stewart
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5475b348489846b6aef904c5/w/366e72b11f7740b49d466f88?t=1428348495639
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5475b348489846b6aef904c5/w/366e72b11f7740b49d466f88/s/300x300?t=1428348495639
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5475b348489846b6aef904c5/w/366e72b11f7740b49d466f88/s/300x170?t=1428348495639
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5475b348489846b6aef904c5/w/366e72b11f7740b49d466f88/s/70x40?t=1428348495639
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5475b348489846b6aef904c5/w/366e72b11f7740b49d466f88/s/600x340?t=1428348495639
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

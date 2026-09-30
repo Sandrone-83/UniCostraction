@@ -1,0 +1,66 @@
+{
+  "pack": "Coding_Master_Pack",
+  "generato_il": "2026-09-29",
+  "nota_licenza": "Tutto il contenuto e' sintesi didattica originale redatta da Kimi (Moonshot AI): concetti di ingegneria del software, algoritmi, linguaggi, sicurezza e AI coding espressi con parole proprie. Nessun testo copiato da fonti protette. Uso commerciale libero.",
+  "fonti": [
+    {
+      "id": "CODING-BEST-PRACTICES",
+      "descrizione": "Clean code avanzato, refactoring (catalogo movimenti), code review, gestione errori e logging, documentazione, technical debt",
+      "file": "parsed/coding_best_practices.jsonl",
+      "schede": 6,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "ALGORITMI-AVANZATI",
+      "descrizione": "Pensiero algoritmico (metodo), strutture dati avanzate, grafi (BFS/DFS/Dijkstra/MST), programmazione dinamica, divide et impera e greedy, ricerca/ordinamento/complessita'",
+      "file": "parsed/algoritmi_avanzati.jsonl",
+      "schede": 6,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "LINGUAGGI-DEEP",
+      "descrizione": "Python avanzato, JavaScript/TypeScript moderno, SQL avanzato, C++/Rust (ownership), Go (concorrenza), come scegliere il linguaggio",
+      "file": "parsed/linguaggi_deep.jsonl",
+      "schede": 6,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "SYSTEM-DESIGN",
+      "descrizione": "Metodo di system design, scalabilita' (CAP, sharding, caching), architetture (event-driven, CQRS, microservizi, DDD), scelta e modellazione database, API design evoluto, affidabilita' (idempotenza, retry, circuit breaker, saga)",
+      "file": "parsed/system_design.jsonl",
+      "schede": 6,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "SICUREZZA-CODING",
+      "descrizione": "OWASP Top 10 e secure coding, autenticazione moderna (OAuth2, OIDC, JWT, passkey), crittografia pratica, supply chain e dipendenze, sicurezza nel coding con AI, GDPR per sviluppatori",
+      "file": "parsed/sicurezza_coding.jsonl",
+      "schede": 6,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "AI-CODING",
+      "descrizione": "Prompt engineering per codice, come dirigere gli agenti di coding, contesto e RAG sul codebase, ciclo genera-verifica, pratica deliberata e benchmark, costruire tool con AI (function calling, MCP, agenti su misura)",
+      "file": "parsed/ai_coding.jsonl",
+      "schede": 6,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    }
+  ],
+  "avvertenze": [
+    "Versioni di linguaggi, framework e piattaforme citate riferite al 2026: verificare la documentazione ufficiale aggiornata",
+    "Le soglie numeriche (costi, scadenze JWT, percentuali) sono prassi consolidate indicative, non vincoli normativi",
+    "Riferimenti normativi (GDPR) vanno verificati sui testi ufficiali prima dell'applicazione"
+  ]
+}

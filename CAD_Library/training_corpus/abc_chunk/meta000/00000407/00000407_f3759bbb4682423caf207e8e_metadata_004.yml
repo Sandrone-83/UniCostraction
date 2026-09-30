@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-17T16:16:54.462+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53dfebcde4b06a1dc62f24c5
+  id: 53dfebcde4b06a1dc62f24c5
+  image: https://profiles.onshape.com/4ceaf127cd4579f5953f799921df1d6cc017fa799642eb6e82600eac3da0b057.png
+  name: Jeremy Luchini
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f3759bbb4682423caf207e8e/workspaces/12b61cd03c614113b56e25cb
+  id: 12b61cd03c614113b56e25cb
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f3759bbb4682423caf207e8e
+id: f3759bbb4682423caf207e8e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-02-22T22:18:40.700+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53dfebcde4b06a1dc62f24c5
+  id: 53dfebcde4b06a1dc62f24c5
+  image: https://profiles.onshape.com/4ceaf127cd4579f5953f799921df1d6cc017fa799642eb6e82600eac3da0b057.png
+  name: Jeremy Luchini
+  state: 1
+name: Suspension system
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53dfebcde4b06a1dc62f24c5
+  id: 53dfebcde4b06a1dc62f24c5
+  image: https://profiles.onshape.com/4ceaf127cd4579f5953f799921df1d6cc017fa799642eb6e82600eac3da0b057.png
+  name: Jeremy Luchini
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f3759bbb4682423caf207e8e/w/12b61cd03c614113b56e25cb?t=1456179810088
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f3759bbb4682423caf207e8e/w/12b61cd03c614113b56e25cb/s/300x300?t=1456179810088
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f3759bbb4682423caf207e8e/w/12b61cd03c614113b56e25cb/s/300x170?t=1456179810088
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f3759bbb4682423caf207e8e/w/12b61cd03c614113b56e25cb/s/70x40?t=1456179810088
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f3759bbb4682423caf207e8e/w/12b61cd03c614113b56e25cb/s/600x340?t=1456179810088
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

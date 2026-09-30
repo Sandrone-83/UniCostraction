@@ -1,0 +1,25 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/dimension_in_block.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 24, "entity_histogram": {"LINE": 8, "POINT": 6, "SOLID": 4, "MTEXT": 2, "DIMENSION": 2, "INSERT": 2}, "n_layers": 0, "layers": [], "n_block_defs": 6, "bbox": [[0.0, 20.0], [0.0, 20.0]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.625, "x2": 0.0, "y2": 5.198330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 0.625, "x2": 10.0, "y2": 5.198330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.5, "y1": 3.948330050147, "x2": 7.5, "y2": 3.948330050147}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "10", "x": 5.0, "y": 5.849580050147, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 3.948330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 10.0, "y2": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 10.0, "y": 3.948330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.625, "x2": 0.0, "y2": 5.198330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 0.625, "x2": 10.0, "y2": 5.198330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.5, "y1": 3.948330050147, "x2": 7.5, "y2": 3.948330050147}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "10", "x": 5.0, "y": 5.849580050147, "h": 2.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 3.948330050147}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 10.0, "y2": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 10.0, "y": 3.948330050147}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK_WITH_DIM", "x": 20.0, "y": 0.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK_WITH_DIM", "x": 20.0, "y": 20.0, "sx": 1.0, "sy": 1.0, "rot": 30.0}

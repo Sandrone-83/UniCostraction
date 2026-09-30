@@ -1,0 +1,26 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/text_in_viewports.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 25, "entity_histogram": {"TEXT": 14, "VIEWPORT": 7, "LWPOLYLINE": 3, "ELLIPSE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-59.288, 251.263], [0.0, 236.503]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Comic Sans MS", "x": 170.863408325146, "y": 236.503266997782, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "x": 170.863408325146, "y": 232.336600331115, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "abcdefghijklmnopqrstuvwxyz", "x": 170.863408325146, "y": 227.727069287573, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "01234567890 @!\"��$%&/()=?+*#'-_.:,;<>", "x": 170.863408325146, "y": 223.187379623479, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Arial", "x": 251.262547135752, "y": 236.503266997782, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "x": 251.262547135752, "y": 232.336600331115, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "abcdefghijklmnopqrstuvwxyz", "x": 251.262547135752, "y": 227.727069287573, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "01234567890 @!\"��$%&/()=?+*#'-_.:,;<>", "x": 251.262547135752, "y": 223.187379623479, "h": 2.5}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Rectangular Viewport", "x": -1.919593849755, "y": 177.228445822932, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Convex Viewport", "x": -1.919593849755, "y": 124.961818504213, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Concave Viewport", "x": -1.919593849755, "y": 69.032399234396, "h": 2.5}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 7, "closed": true, "bbox": [[1.489913738778, 106.660109354292], [74.943218166945, 121.889514962898]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 8, "closed": true, "bbox": [[0.965374109773, 129.21531340151], [4.91717769477, 62.616536885326]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Rectangular Viewport", "x": 130.788932288525, "y": 177.228445822932, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Elliptic Viewport", "x": 130.788932288525, "y": 124.961818504213, "h": 2.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Curved Concave Viewport", "x": 144.670116581467, "y": 69.032399234396, "h": 2.5}
+{"kind": "entity", "type": "ELLIPSE", "layer": "0", "cx": 192.679256065929, "cy": 102.406614456996, "ax": -59.28799555009778, "ay": 0.0, "ratio": 0.26656124442}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 9, "closed": true, "bbox": [[144.595182348752, 249.503108149764], [7.995489082731, 60.636787565024]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

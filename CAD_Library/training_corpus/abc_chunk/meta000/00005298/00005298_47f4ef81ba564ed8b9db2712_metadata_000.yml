@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-19T00:14:08.485+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/555a7e1be4b070f2af78f458
+  id: 555a7e1be4b070f2af78f458
+  image: /images/placeholder-user.png
+  name: JOSE ANGELO PEIXOTO DA COSTA
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/47f4ef81ba564ed8b9db2712/workspaces/b84f2b8fce7d410885241a99
+  id: b84f2b8fce7d410885241a99
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/47f4ef81ba564ed8b9db2712
+id: 47f4ef81ba564ed8b9db2712
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-07T18:15:10.620+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/555a7e1be4b070f2af78f458
+  id: 555a7e1be4b070f2af78f458
+  image: /images/placeholder-user.png
+  name: JOSE ANGELO PEIXOTO DA COSTA
+  state: 1
+name: "PE\xC7A1"
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/555a7e1be4b070f2af78f458
+  id: 555a7e1be4b070f2af78f458
+  image: /images/placeholder-user.png
+  name: JOSE ANGELO PEIXOTO DA COSTA
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/47f4ef81ba564ed8b9db2712/w/b84f2b8fce7d410885241a99?t=1432040923155
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/47f4ef81ba564ed8b9db2712/w/b84f2b8fce7d410885241a99/s/600x340?t=1432040923155
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/47f4ef81ba564ed8b9db2712/w/b84f2b8fce7d410885241a99/s/300x300?t=1432040923155
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/47f4ef81ba564ed8b9db2712/w/b84f2b8fce7d410885241a99/s/70x40?t=1432040923155
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/47f4ef81ba564ed8b9db2712/w/b84f2b8fce7d410885241a99/s/300x170?t=1432040923155
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

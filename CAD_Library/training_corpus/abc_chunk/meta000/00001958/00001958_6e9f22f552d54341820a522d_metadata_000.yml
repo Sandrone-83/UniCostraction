@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-24T00:44:38.109+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdbafde4b03489a2f1bab0
+  id: 54fdbafde4b03489a2f1bab0
+  image: /images/placeholder-user.png
+  name: Mike Cole
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6e9f22f552d54341820a522d/workspaces/6adb1b8393694358b6c005b8
+  id: 6adb1b8393694358b6c005b8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6e9f22f552d54341820a522d
+id: 6e9f22f552d54341820a522d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-18T23:49:32.264+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdbafde4b03489a2f1bab0
+  id: 54fdbafde4b03489a2f1bab0
+  image: /images/placeholder-user.png
+  name: Mike Cole
+  state: 1
+name: LaserBox
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdbafde4b03489a2f1bab0
+  id: 54fdbafde4b03489a2f1bab0
+  image: /images/placeholder-user.png
+  name: Mike Cole
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6e9f22f552d54341820a522d/w/6adb1b8393694358b6c005b8?t=1442620182815
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6e9f22f552d54341820a522d/w/6adb1b8393694358b6c005b8/s/600x340?t=1442620182815
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e9f22f552d54341820a522d/w/6adb1b8393694358b6c005b8/s/70x40?t=1442620182815
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e9f22f552d54341820a522d/w/6adb1b8393694358b6c005b8/s/300x300?t=1442620182815
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e9f22f552d54341820a522d/w/6adb1b8393694358b6c005b8/s/300x170?t=1442620182815
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

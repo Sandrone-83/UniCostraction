@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-22T00:35:33.684+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe68c6e4b0191bdfa204f8
+  id: 54fe68c6e4b0191bdfa204f8
+  image: https://profiles.onshape.com/5eaa7861fd347006a9046974adf3aec41f7b4795ba52d1e0767a90b204ea251b.png
+  name: Warwick Gresswell
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/66ffeb2027bb49689798a5b4/workspaces/ef7cbcca90c34093aa57739d
+  id: ef7cbcca90c34093aa57739d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/66ffeb2027bb49689798a5b4
+id: 66ffeb2027bb49689798a5b4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-11-29T23:24:36.577+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe68c6e4b0191bdfa204f8
+  id: 54fe68c6e4b0191bdfa204f8
+  image: https://profiles.onshape.com/5eaa7861fd347006a9046974adf3aec41f7b4795ba52d1e0767a90b204ea251b.png
+  name: Warwick Gresswell
+  state: 1
+name: Bullets V2.0
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe68c6e4b0191bdfa204f8
+  id: 54fe68c6e4b0191bdfa204f8
+  image: https://profiles.onshape.com/5eaa7861fd347006a9046974adf3aec41f7b4795ba52d1e0767a90b204ea251b.png
+  name: Warwick Gresswell
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/66ffeb2027bb49689798a5b4/w/ef7cbcca90c34093aa57739d?t=1448839502745
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffeb2027bb49689798a5b4/w/ef7cbcca90c34093aa57739d/s/300x300?t=1448839502745
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffeb2027bb49689798a5b4/w/ef7cbcca90c34093aa57739d/s/600x340?t=1448839502745
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffeb2027bb49689798a5b4/w/ef7cbcca90c34093aa57739d/s/70x40?t=1448839502745
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/66ffeb2027bb49689798a5b4/w/ef7cbcca90c34093aa57739d/s/300x170?t=1448839502745
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

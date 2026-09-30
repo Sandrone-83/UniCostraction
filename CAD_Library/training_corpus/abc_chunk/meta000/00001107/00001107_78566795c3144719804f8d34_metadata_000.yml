@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T17:27:04.586+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe5488e4b04a9735f91f7e
+  id: 54fe5488e4b04a9735f91f7e
+  image: /images/placeholder-user.png
+  name: Jackie Song
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/78566795c3144719804f8d34/workspaces/1094578642e6426095bb03ba
+  id: 1094578642e6426095bb03ba
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/78566795c3144719804f8d34
+id: 78566795c3144719804f8d34
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-12T17:38:36.539+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe5488e4b04a9735f91f7e
+  id: 54fe5488e4b04a9735f91f7e
+  image: /images/placeholder-user.png
+  name: Jackie Song
+  state: 1
+name: 91251A350.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe5488e4b04a9735f91f7e
+  id: 54fe5488e4b04a9735f91f7e
+  image: /images/placeholder-user.png
+  name: Jackie Song
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/78566795c3144719804f8d34/w/1094578642e6426095bb03ba?t=1426181324858
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/78566795c3144719804f8d34/w/1094578642e6426095bb03ba/s/600x340?t=1426181324858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/78566795c3144719804f8d34/w/1094578642e6426095bb03ba/s/70x40?t=1426181324858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/78566795c3144719804f8d34/w/1094578642e6426095bb03ba/s/300x300?t=1426181324858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/78566795c3144719804f8d34/w/1094578642e6426095bb03ba/s/300x170?t=1426181324858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-02T16:14:48.659+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/553fca2de4b0a8ee8f59d07c
+  id: 553fca2de4b0a8ee8f59d07c
+  image: /images/placeholder-user.png
+  name: Danielle Class
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/7b9e4495bd2c438b92a7ed6b/workspaces/06c67efbb6cb4e7cb3c968bf
+  id: 06c67efbb6cb4e7cb3c968bf
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/7b9e4495bd2c438b92a7ed6b
+id: 7b9e4495bd2c438b92a7ed6b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-11T20:58:01.663+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553fca2de4b0a8ee8f59d07c
+  id: 553fca2de4b0a8ee8f59d07c
+  image: /images/placeholder-user.png
+  name: Danielle Class
+  state: 1
+name: 001 Two Rings for STEM
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/553fca2de4b0a8ee8f59d07c
+  id: 553fca2de4b0a8ee8f59d07c
+  image: /images/placeholder-user.png
+  name: Danielle Class
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/7b9e4495bd2c438b92a7ed6b/w/06c67efbb6cb4e7cb3c968bf?t=1430584829986
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/7b9e4495bd2c438b92a7ed6b/w/06c67efbb6cb4e7cb3c968bf/s/300x170?t=1430584829986
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7b9e4495bd2c438b92a7ed6b/w/06c67efbb6cb4e7cb3c968bf/s/300x300?t=1430584829986
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7b9e4495bd2c438b92a7ed6b/w/06c67efbb6cb4e7cb3c968bf/s/70x40?t=1430584829986
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7b9e4495bd2c438b92a7ed6b/w/06c67efbb6cb4e7cb3c968bf/s/600x340?t=1430584829986
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

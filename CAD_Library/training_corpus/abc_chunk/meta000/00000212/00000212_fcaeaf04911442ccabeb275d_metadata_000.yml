@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-06T00:20:41.886+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/542de83ae4b0ca7ae12e79cd
+  id: 542de83ae4b0ca7ae12e79cd
+  image: /images/placeholder-user.png
+  name: Mohammed N. Daud
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/fcaeaf04911442ccabeb275d/workspaces/b37d350df4e14e1095b249d3
+  id: b37d350df4e14e1095b249d3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/fcaeaf04911442ccabeb275d
+id: fcaeaf04911442ccabeb275d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-10-14T03:12:55.539+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/542de83ae4b0ca7ae12e79cd
+  id: 542de83ae4b0ca7ae12e79cd
+  image: /images/placeholder-user.png
+  name: Mohammed N. Daud
+  state: 1
+name: MD Trial
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/542de83ae4b0ca7ae12e79cd
+  id: 542de83ae4b0ca7ae12e79cd
+  image: /images/placeholder-user.png
+  name: Mohammed N. Daud
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/fcaeaf04911442ccabeb275d/w/b37d350df4e14e1095b249d3?t=1413256381120
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/fcaeaf04911442ccabeb275d/w/b37d350df4e14e1095b249d3/s/600x340?t=1413256381120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fcaeaf04911442ccabeb275d/w/b37d350df4e14e1095b249d3/s/300x170?t=1413256381120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fcaeaf04911442ccabeb275d/w/b37d350df4e14e1095b249d3/s/70x40?t=1413256381120
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,5 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/hatch_text_box_in_hole.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 4, "entity_histogram": {"LWPOLYLINE": 2, "MTEXT": 1, "HATCH": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[0.0, 337.0], [0.0, 230.0]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[93.0, 337.0], [40.0, 230.0]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[210.0, 316.0], [58.0, 209.0]]}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT", "x": 222.0, "y": 157.0, "h": 7.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 3.0}

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-17T23:35:44.432+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53dab32ae4b086d90a6429e3
+  id: 53dab32ae4b086d90a6429e3
+  image: https://profiles.onshape.com/f71642dea07c8c433cce54d1ee1931e4c4adf8b1d638aad15870379f673580ee.png
+  name: Joe Dunne
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9ecb13ca86dc4432b70cca2e/workspaces/1b6e72aaccd44f63a110db34
+  id: 1b6e72aaccd44f63a110db34
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9ecb13ca86dc4432b70cca2e
+id: 9ecb13ca86dc4432b70cca2e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2017-12-26T18:47:36.007+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53dab32ae4b086d90a6429e3
+  id: 53dab32ae4b086d90a6429e3
+  image: https://profiles.onshape.com/f71642dea07c8c433cce54d1ee1931e4c4adf8b1d638aad15870379f673580ee.png
+  name: Joe Dunne
+  state: 1
+name: Camera Slider
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53dab32ae4b086d90a6429e3
+  id: 53dab32ae4b086d90a6429e3
+  image: https://profiles.onshape.com/f71642dea07c8c433cce54d1ee1931e4c4adf8b1d638aad15870379f673580ee.png
+  name: Joe Dunne
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9ecb13ca86dc4432b70cca2e/w/1b6e72aaccd44f63a110db34?t=1514314059020
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9ecb13ca86dc4432b70cca2e/w/1b6e72aaccd44f63a110db34/s/600x340?t=1514314059020
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9ecb13ca86dc4432b70cca2e/w/1b6e72aaccd44f63a110db34/s/300x300?t=1514314059020
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9ecb13ca86dc4432b70cca2e/w/1b6e72aaccd44f63a110db34/s/70x40?t=1514314059020
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9ecb13ca86dc4432b70cca2e/w/1b6e72aaccd44f63a110db34/s/300x170?t=1514314059020
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T00:39:16.238+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5521541ce4b0d32bdfc01407
+  id: 5521541ce4b0d32bdfc01407
+  image: /images/placeholder-user.png
+  name: Rudy Elizondo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/04893ba73e6f4c298353bb57/workspaces/6fcd953990094ed5b7e3a743
+  id: 6fcd953990094ed5b7e3a743
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/04893ba73e6f4c298353bb57
+id: 04893ba73e6f4c298353bb57
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-10-08T14:56:09.775+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5521541ce4b0d32bdfc01407
+  id: 5521541ce4b0d32bdfc01407
+  image: /images/placeholder-user.png
+  name: Rudy Elizondo
+  state: 1
+name: Modular PIR Waveguide
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5521541ce4b0d32bdfc01407
+  id: 5521541ce4b0d32bdfc01407
+  image: /images/placeholder-user.png
+  name: Rudy Elizondo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/04893ba73e6f4c298353bb57/w/6fcd953990094ed5b7e3a743?t=1432691031384
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/04893ba73e6f4c298353bb57/w/6fcd953990094ed5b7e3a743/s/300x300?t=1432691031384
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/04893ba73e6f4c298353bb57/w/6fcd953990094ed5b7e3a743/s/300x170?t=1432691031384
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/04893ba73e6f4c298353bb57/w/6fcd953990094ed5b7e3a743/s/70x40?t=1432691031384
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/04893ba73e6f4c298353bb57/w/6fcd953990094ed5b7e3a743/s/600x340?t=1432691031384
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

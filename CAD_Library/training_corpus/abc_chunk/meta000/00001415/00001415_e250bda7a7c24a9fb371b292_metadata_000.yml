@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T23:47:39.524+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55037db3e4b084d81d8c3b63
+  id: 55037db3e4b084d81d8c3b63
+  image: /images/placeholder-user.png
+  name: Arya Asemanfar
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e250bda7a7c24a9fb371b292/workspaces/c83c47c8002349a79fd92dd7
+  id: c83c47c8002349a79fd92dd7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e250bda7a7c24a9fb371b292
+id: e250bda7a7c24a9fb371b292
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-24T16:57:10.643+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/56a26db6e4b0f699dc302695
+  id: 56a26db6e4b0f699dc302695
+  image: /images/placeholder-user.png
+  name: Alexander Hoppe
+  state: 1
+name: Coffee Box
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55037db3e4b084d81d8c3b63
+  id: 55037db3e4b084d81d8c3b63
+  image: /images/placeholder-user.png
+  name: Arya Asemanfar
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e250bda7a7c24a9fb371b292/w/c83c47c8002349a79fd92dd7?t=1459015705765
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e250bda7a7c24a9fb371b292/w/c83c47c8002349a79fd92dd7/s/300x300?t=1459015705765
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e250bda7a7c24a9fb371b292/w/c83c47c8002349a79fd92dd7/s/300x170?t=1459015705765
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e250bda7a7c24a9fb371b292/w/c83c47c8002349a79fd92dd7/s/70x40?t=1459015705765
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e250bda7a7c24a9fb371b292/w/c83c47c8002349a79fd92dd7/s/600x340?t=1459015705765
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-17T15:51:49.520+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0788c55b393b4815a9f8d570/workspaces/42353680dbd84363972d5488
+  id: 42353680dbd84363972d5488
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0788c55b393b4815a9f8d570
+id: 0788c55b393b4815a9f8d570
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-23T20:19:55.170+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  state: 1
+name: PIC IMU Case
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0788c55b393b4815a9f8d570/w/42353680dbd84363972d5488?t=1433446175015
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0788c55b393b4815a9f8d570/w/42353680dbd84363972d5488/s/300x300?t=1433446175015
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0788c55b393b4815a9f8d570/w/42353680dbd84363972d5488/s/300x170?t=1433446175015
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0788c55b393b4815a9f8d570/w/42353680dbd84363972d5488/s/70x40?t=1433446175015
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0788c55b393b4815a9f8d570/w/42353680dbd84363972d5488/s/600x340?t=1433446175015
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

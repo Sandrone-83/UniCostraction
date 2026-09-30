@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-24T22:02:48.989+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdcfa0e4b0c0916a298305
+  id: 54fdcfa0e4b0c0916a298305
+  image: /images/placeholder-user.png
+  name: Michael Bromley
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/df521a96e8fe4dc1a24e5b3e/workspaces/92fffe0ae54c41c38cabd58c
+  id: 92fffe0ae54c41c38cabd58c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/df521a96e8fe4dc1a24e5b3e
+id: df521a96e8fe4dc1a24e5b3e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-11T14:30:16.956+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdcfa0e4b0c0916a298305
+  id: 54fdcfa0e4b0c0916a298305
+  image: /images/placeholder-user.png
+  name: Michael Bromley
+  state: 1
+name: Basement_Floor_Plan
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdcfa0e4b0c0916a298305
+  id: 54fdcfa0e4b0c0916a298305
+  image: /images/placeholder-user.png
+  name: Michael Bromley
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/df521a96e8fe4dc1a24e5b3e/w/92fffe0ae54c41c38cabd58c?t=1428762629079
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/df521a96e8fe4dc1a24e5b3e/w/92fffe0ae54c41c38cabd58c/s/70x40?t=1428762629079
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df521a96e8fe4dc1a24e5b3e/w/92fffe0ae54c41c38cabd58c/s/600x340?t=1428762629079
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df521a96e8fe4dc1a24e5b3e/w/92fffe0ae54c41c38cabd58c/s/300x170?t=1428762629079
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/df521a96e8fe4dc1a24e5b3e/w/92fffe0ae54c41c38cabd58c/s/300x300?t=1428762629079
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

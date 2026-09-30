@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T22:46:57.977+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fef7e2e4b0191bdfa206e8
+  id: 54fef7e2e4b0191bdfa206e8
+  image: /images/placeholder-user.png
+  name: Steven Buxton
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2d9c471e578b4fdc8b66f18c/workspaces/4f9d918ed7ca41e99775d3be
+  id: 4f9d918ed7ca41e99775d3be
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2d9c471e578b4fdc8b66f18c
+id: 2d9c471e578b4fdc8b66f18c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-28T18:41:44.111+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fef7e2e4b0191bdfa206e8
+  id: 54fef7e2e4b0191bdfa206e8
+  image: /images/placeholder-user.png
+  name: Steven Buxton
+  state: 1
+name: TAZ Dropcam mount
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fef7e2e4b0191bdfa206e8
+  id: 54fef7e2e4b0191bdfa206e8
+  image: /images/placeholder-user.png
+  name: Steven Buxton
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2d9c471e578b4fdc8b66f18c/w/4f9d918ed7ca41e99775d3be?t=1427552427156
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2d9c471e578b4fdc8b66f18c/w/4f9d918ed7ca41e99775d3be/s/600x340?t=1427552427156
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2d9c471e578b4fdc8b66f18c/w/4f9d918ed7ca41e99775d3be/s/300x170?t=1427552427156
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2d9c471e578b4fdc8b66f18c/w/4f9d918ed7ca41e99775d3be/s/300x300?t=1427552427156
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2d9c471e578b4fdc8b66f18c/w/4f9d918ed7ca41e99775d3be/s/70x40?t=1427552427156
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2014-09-23T00:43:52.846+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7ad5e4b0df4f31ebb279
+  id: 53cd7ad5e4b0df4f31ebb279
+  image: https://profiles.onshape.com/641e538b354526bc40c85a35c7948f75deb82f2d2d6bd1e2c82f3f8fade30232.png
+  name: Steve Hess
+  state: 2
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/559b9a459ca348529d9f4761/workspaces/f20d8b0e2c7a4e9e8dfb714b
+  id: f20d8b0e2c7a4e9e8dfb714b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/559b9a459ca348529d9f4761
+id: 559b9a459ca348529d9f4761
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 2
+modifiedAt: 2018-03-02T23:14:49.423+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54cf96c6e4b0bb0f3ea6ce8d
+  id: 54cf96c6e4b0bb0f3ea6ce8d
+  image: https://profiles.onshape.com/f441be862efdb05b9992dc52906311f103ae0b8df19ad85020e811c4b05b0581.png
+  name: Abe (Onshape)
+  state: 1
+name: Boat Pump with detailed version graph
+notRevisionManaged: false
+numberOfTimesCopied: 16
+numberOfTimesReferenced: 5
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7ad5e4b0df4f31ebb279
+  id: 53cd7ad5e4b0df4f31ebb279
+  image: https://profiles.onshape.com/641e538b354526bc40c85a35c7948f75deb82f2d2d6bd1e2c82f3f8fade30232.png
+  name: Steve Hess
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/559b9a459ca348529d9f4761/w/f20d8b0e2c7a4e9e8dfb714b?t=1520032497023
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/559b9a459ca348529d9f4761/w/f20d8b0e2c7a4e9e8dfb714b/s/300x170?t=1520032497023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/559b9a459ca348529d9f4761/w/f20d8b0e2c7a4e9e8dfb714b/s/600x340?t=1520032497023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/559b9a459ca348529d9f4761/w/f20d8b0e2c7a4e9e8dfb714b/s/300x300?t=1520032497023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/559b9a459ca348529d9f4761/w/f20d8b0e2c7a4e9e8dfb714b/s/70x40?t=1520032497023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

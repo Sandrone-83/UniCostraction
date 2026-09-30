@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-12T13:42:50.207+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55289e4de4b0ae1ab401863d
+  id: 55289e4de4b0ae1ab401863d
+  image: /images/placeholder-user.png
+  name: Dave Chen
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6a9737f700f64154a8f1585e/workspaces/22d52fc772c14fc197b353f9
+  id: 22d52fc772c14fc197b353f9
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6a9737f700f64154a8f1585e
+id: 6a9737f700f64154a8f1585e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-12T13:43:24.893+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55289e4de4b0ae1ab401863d
+  id: 55289e4de4b0ae1ab401863d
+  image: /images/placeholder-user.png
+  name: Dave Chen
+  state: 1
+name: 26 inch wheel.STEP
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55289e4de4b0ae1ab401863d
+  id: 55289e4de4b0ae1ab401863d
+  image: /images/placeholder-user.png
+  name: Dave Chen
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6a9737f700f64154a8f1585e/w/22d52fc772c14fc197b353f9?t=1428846208234
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6a9737f700f64154a8f1585e/w/22d52fc772c14fc197b353f9/s/300x300?t=1428846208234
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6a9737f700f64154a8f1585e/w/22d52fc772c14fc197b353f9/s/70x40?t=1428846208234
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6a9737f700f64154a8f1585e/w/22d52fc772c14fc197b353f9/s/300x170?t=1428846208234
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6a9737f700f64154a8f1585e/w/22d52fc772c14fc197b353f9/s/600x340?t=1428846208234
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

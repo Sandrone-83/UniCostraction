@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-28T01:23:38.926+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55017c13e4b02630a8453ae8
+  id: 55017c13e4b02630a8453ae8
+  image: /images/placeholder-user.png
+  name: Brian Givens
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/db200906bca94a2ea08c785e/workspaces/934c9804e4cb459b8acba215
+  id: 934c9804e4cb459b8acba215
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/db200906bca94a2ea08c785e
+id: db200906bca94a2ea08c785e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-02T16:55:26.856+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55017c13e4b02630a8453ae8
+  id: 55017c13e4b02630a8453ae8
+  image: /images/placeholder-user.png
+  name: Brian Givens
+  state: 1
+name: chain_bracelet
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55017c13e4b02630a8453ae8
+  id: 55017c13e4b02630a8453ae8
+  image: /images/placeholder-user.png
+  name: Brian Givens
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/db200906bca94a2ea08c785e/w/934c9804e4cb459b8acba215?t=1427507347345
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/db200906bca94a2ea08c785e/w/934c9804e4cb459b8acba215/s/70x40?t=1427507347345
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/db200906bca94a2ea08c785e/w/934c9804e4cb459b8acba215/s/300x170?t=1427507347345
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/db200906bca94a2ea08c785e/w/934c9804e4cb459b8acba215/s/300x300?t=1427507347345
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/db200906bca94a2ea08c785e/w/934c9804e4cb459b8acba215/s/600x340?t=1427507347345
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

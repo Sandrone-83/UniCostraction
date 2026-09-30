@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-24T10:36:11.375+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55030227e4b0958aecec7345
+  id: 55030227e4b0958aecec7345
+  image: /images/placeholder-user.png
+  name: Matt Lawrence
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/eda85e7e50824947bc393fff/workspaces/06bb43e392414b7ab766c21e
+  id: 06bb43e392414b7ab766c21e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/eda85e7e50824947bc393fff
+id: eda85e7e50824947bc393fff
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-11-30T16:47:46.333+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55030227e4b0958aecec7345
+  id: 55030227e4b0958aecec7345
+  image: /images/placeholder-user.png
+  name: Matt Lawrence
+  state: 1
+name: Steam Engine
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55030227e4b0958aecec7345
+  id: 55030227e4b0958aecec7345
+  image: /images/placeholder-user.png
+  name: Matt Lawrence
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/eda85e7e50824947bc393fff/w/06bb43e392414b7ab766c21e?t=1480524486354
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/eda85e7e50824947bc393fff/w/06bb43e392414b7ab766c21e/s/600x340?t=1480524486354
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/eda85e7e50824947bc393fff/w/06bb43e392414b7ab766c21e/s/300x300?t=1480524486354
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/eda85e7e50824947bc393fff/w/06bb43e392414b7ab766c21e/s/70x40?t=1480524486354
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/eda85e7e50824947bc393fff/w/06bb43e392414b7ab766c21e/s/300x170?t=1480524486354
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

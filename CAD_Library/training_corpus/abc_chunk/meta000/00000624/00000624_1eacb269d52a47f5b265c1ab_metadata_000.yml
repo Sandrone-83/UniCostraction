@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-26T14:48:18.779+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7a12e4b0df4f31ebb261
+  id: 53cd7a12e4b0df4f31ebb261
+  image: https://profiles.onshape.com/44bac9b584637ed9b8f225db9d25604d3f45356b5c6f0e1bfde3950f1a04abb4.png
+  name: Kevin O'Toole (Onshape)
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1eacb269d52a47f5b265c1ab/workspaces/79c129379cca4b15b429ae53
+  id: 79c129379cca4b15b429ae53
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1eacb269d52a47f5b265c1ab
+id: 1eacb269d52a47f5b265c1ab
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-09T04:07:00.421+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7a12e4b0df4f31ebb261
+  id: 53cd7a12e4b0df4f31ebb261
+  image: https://profiles.onshape.com/44bac9b584637ed9b8f225db9d25604d3f45356b5c6f0e1bfde3950f1a04abb4.png
+  name: Kevin O'Toole (Onshape)
+  state: 1
+name: Drive_Wheel.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7a12e4b0df4f31ebb261
+  id: 53cd7a12e4b0df4f31ebb261
+  image: https://profiles.onshape.com/44bac9b584637ed9b8f225db9d25604d3f45356b5c6f0e1bfde3950f1a04abb4.png
+  name: Kevin O'Toole (Onshape)
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

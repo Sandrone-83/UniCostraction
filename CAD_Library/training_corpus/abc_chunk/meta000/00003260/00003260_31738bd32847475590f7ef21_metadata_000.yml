@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T14:34:27.900+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5502c05ae4b09f5b189314ee
+  id: 5502c05ae4b09f5b189314ee
+  image: /images/placeholder-user.png
+  name: Gilbert VanHoy
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/31738bd32847475590f7ef21/workspaces/bd192f570bf74df9bf82fc18
+  id: bd192f570bf74df9bf82fc18
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/31738bd32847475590f7ef21
+id: 31738bd32847475590f7ef21
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-15T03:59:23.506+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5502c05ae4b09f5b189314ee
+  id: 5502c05ae4b09f5b189314ee
+  image: /images/placeholder-user.png
+  name: Gilbert VanHoy
+  state: 1
+name: BATTERY-GENERIC 10Ah.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5502c05ae4b09f5b189314ee
+  id: 5502c05ae4b09f5b189314ee
+  image: /images/placeholder-user.png
+  name: Gilbert VanHoy
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/31738bd32847475590f7ef21/w/bd192f570bf74df9bf82fc18?t=1429194870710
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/31738bd32847475590f7ef21/w/bd192f570bf74df9bf82fc18/s/600x340?t=1429194870710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/31738bd32847475590f7ef21/w/bd192f570bf74df9bf82fc18/s/300x170?t=1429194870710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/31738bd32847475590f7ef21/w/bd192f570bf74df9bf82fc18/s/70x40?t=1429194870710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/31738bd32847475590f7ef21/w/bd192f570bf74df9bf82fc18/s/300x300?t=1429194870710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

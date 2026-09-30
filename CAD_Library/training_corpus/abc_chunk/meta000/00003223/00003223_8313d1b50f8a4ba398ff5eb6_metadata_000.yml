@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T01:30:00.317+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5511beb9e4b01e772918dd05
+  id: 5511beb9e4b01e772918dd05
+  image: /images/placeholder-user.png
+  name: Berkley Frei
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/8313d1b50f8a4ba398ff5eb6/workspaces/fa7c624dee2a47e6aaf065a7
+  id: fa7c624dee2a47e6aaf065a7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/8313d1b50f8a4ba398ff5eb6
+id: 8313d1b50f8a4ba398ff5eb6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-11T22:24:02.251+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5511beb9e4b01e772918dd05
+  id: 5511beb9e4b01e772918dd05
+  image: /images/placeholder-user.png
+  name: Berkley Frei
+  state: 1
+name: Monitor Holder 2
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5511beb9e4b01e772918dd05
+  id: 5511beb9e4b01e772918dd05
+  image: /images/placeholder-user.png
+  name: Berkley Frei
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/8313d1b50f8a4ba398ff5eb6/w/fa7c624dee2a47e6aaf065a7?t=1429581392713
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/8313d1b50f8a4ba398ff5eb6/w/fa7c624dee2a47e6aaf065a7/s/600x340?t=1429581392713
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8313d1b50f8a4ba398ff5eb6/w/fa7c624dee2a47e6aaf065a7/s/70x40?t=1429581392713
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8313d1b50f8a4ba398ff5eb6/w/fa7c624dee2a47e6aaf065a7/s/300x170?t=1429581392713
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8313d1b50f8a4ba398ff5eb6/w/fa7c624dee2a47e6aaf065a7/s/300x300?t=1429581392713
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

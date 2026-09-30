@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-26T22:39:13.924+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fb889de4b01567707940ef
+  id: 54fb889de4b01567707940ef
+  image: /images/placeholder-user.png
+  name: Tyler McGahee
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/cde1f6a0f70c4897a0016114/workspaces/044177e5b857423a82c2583f
+  id: 044177e5b857423a82c2583f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/cde1f6a0f70c4897a0016114
+id: cde1f6a0f70c4897a0016114
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-06T04:29:45.988+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fb889de4b01567707940ef
+  id: 54fb889de4b01567707940ef
+  image: /images/placeholder-user.png
+  name: Tyler McGahee
+  state: 1
+name: Flexiforce pad
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fb889de4b01567707940ef
+  id: 54fb889de4b01567707940ef
+  image: /images/placeholder-user.png
+  name: Tyler McGahee
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/cde1f6a0f70c4897a0016114/w/044177e5b857423a82c2583f?t=1509942622858
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/cde1f6a0f70c4897a0016114/w/044177e5b857423a82c2583f/s/70x40?t=1509942622858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cde1f6a0f70c4897a0016114/w/044177e5b857423a82c2583f/s/300x300?t=1509942622858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cde1f6a0f70c4897a0016114/w/044177e5b857423a82c2583f/s/600x340?t=1509942622858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cde1f6a0f70c4897a0016114/w/044177e5b857423a82c2583f/s/300x170?t=1509942622858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

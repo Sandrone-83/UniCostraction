@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-01T23:20:47.675+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5521ed84e4b0d32bdfc0147c
+  id: 5521ed84e4b0d32bdfc0147c
+  image: /images/placeholder-user.png
+  name: Ray Kholodovsky
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/161bbf7a95a74c4394652241/workspaces/48e6c864a9a24415bdc1d2b4
+  id: 48e6c864a9a24415bdc1d2b4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/161bbf7a95a74c4394652241
+id: 161bbf7a95a74c4394652241
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-12T14:25:45.508+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55440b2ce4b0a8ee8f59d57a
+  id: 55440b2ce4b0a8ee8f59d57a
+  image: /images/placeholder-user.png
+  name: Mark Carew
+  state: 1
+name: Lightweight CNC
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5521ed84e4b0d32bdfc0147c
+  id: 5521ed84e4b0d32bdfc0147c
+  image: /images/placeholder-user.png
+  name: Ray Kholodovsky
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/161bbf7a95a74c4394652241/w/48e6c864a9a24415bdc1d2b4?t=1431440793769
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/161bbf7a95a74c4394652241/w/48e6c864a9a24415bdc1d2b4/s/300x170?t=1431440793769
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/161bbf7a95a74c4394652241/w/48e6c864a9a24415bdc1d2b4/s/600x340?t=1431440793769
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/161bbf7a95a74c4394652241/w/48e6c864a9a24415bdc1d2b4/s/70x40?t=1431440793769
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/161bbf7a95a74c4394652241/w/48e6c864a9a24415bdc1d2b4/s/300x300?t=1431440793769
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

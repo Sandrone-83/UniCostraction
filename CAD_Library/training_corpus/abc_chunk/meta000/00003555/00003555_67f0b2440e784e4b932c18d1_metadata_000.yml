@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T22:18:00.119+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550af6c2e4b04fee2ee4c680
+  id: 550af6c2e4b04fee2ee4c680
+  image: /images/placeholder-user.png
+  name: Matt
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/67f0b2440e784e4b932c18d1/workspaces/972f37957d884a69a6a5c51c
+  id: 972f37957d884a69a6a5c51c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/67f0b2440e784e4b932c18d1
+id: 67f0b2440e784e4b932c18d1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 29
+modifiedAt: 2018-03-08T15:31:23.246+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5547ef4be4b0b6c175df4789
+  id: 5547ef4be4b0b6c175df4789
+  image: /images/placeholder-user.png
+  name: David Riha
+  state: 1
+name: Prototype 1 Chassis 042315.stp
+notRevisionManaged: false
+numberOfTimesCopied: 154
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550af6c2e4b04fee2ee4c680
+  id: 550af6c2e4b04fee2ee4c680
+  image: /images/placeholder-user.png
+  name: Matt
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/67f0b2440e784e4b932c18d1/w/972f37957d884a69a6a5c51c?t=1432318457752
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/67f0b2440e784e4b932c18d1/w/972f37957d884a69a6a5c51c/s/300x300?t=1432318457752
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/67f0b2440e784e4b932c18d1/w/972f37957d884a69a6a5c51c/s/70x40?t=1432318457752
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/67f0b2440e784e4b932c18d1/w/972f37957d884a69a6a5c51c/s/300x170?t=1432318457752
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/67f0b2440e784e4b932c18d1/w/972f37957d884a69a6a5c51c/s/600x340?t=1432318457752
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

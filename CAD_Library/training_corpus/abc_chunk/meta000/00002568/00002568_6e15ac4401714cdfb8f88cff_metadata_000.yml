@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-04T19:42:21.902+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdd21ae4b02cb549c922d0
+  id: 54fdd21ae4b02cb549c922d0
+  image: /images/placeholder-user.png
+  name: "H\xE5vard Fj\xE6r"
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6e15ac4401714cdfb8f88cff/workspaces/ce84b8e0cd0c4d569ac1ecf3
+  id: ce84b8e0cd0c4d569ac1ecf3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6e15ac4401714cdfb8f88cff
+id: 6e15ac4401714cdfb8f88cff
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-27T10:41:16.915+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdd21ae4b02cb549c922d0
+  id: 54fdd21ae4b02cb549c922d0
+  image: /images/placeholder-user.png
+  name: "H\xE5vard Fj\xE6r"
+  state: 1
+name: Pietro Beretta Gardone mod. 92
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdd21ae4b02cb549c922d0
+  id: 54fdd21ae4b02cb549c922d0
+  image: /images/placeholder-user.png
+  name: "H\xE5vard Fj\xE6r"
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6e15ac4401714cdfb8f88cff/w/ce84b8e0cd0c4d569ac1ecf3?t=1428180818592
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6e15ac4401714cdfb8f88cff/w/ce84b8e0cd0c4d569ac1ecf3/s/600x340?t=1428180818592
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e15ac4401714cdfb8f88cff/w/ce84b8e0cd0c4d569ac1ecf3/s/300x300?t=1428180818592
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e15ac4401714cdfb8f88cff/w/ce84b8e0cd0c4d569ac1ecf3/s/70x40?t=1428180818592
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6e15ac4401714cdfb8f88cff/w/ce84b8e0cd0c4d569ac1ecf3/s/300x170?t=1428180818592
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

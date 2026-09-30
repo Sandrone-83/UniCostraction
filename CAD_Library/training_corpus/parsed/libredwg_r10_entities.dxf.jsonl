@@ -1,0 +1,27 @@
+{"kind": "doc", "format": "DXF", "version": "AC1006", "file": "libredwg/r10/entities.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 26, "entity_histogram": {"LINE": 6, "POINT": 4, "SOLID": 3, "ATTDEF": 2, "INSERT": 2, "POLYLINE": 2, "ARC": 1, "CIRCLE": 1, "TEXT": 1, "SHAPE": 1, "ATTRIB": 1, "DIMENSION": 1, "3DFACE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[0.0, 9.0], [0.0, 9.127]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 1.0, "y2": 1.0}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 6.044194, "y1": 8.044194, "x2": 7.127279, "y2": 9.127279}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.044194, "y1": 7.044194, "x2": 8.127279, "y2": 8.127279}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.127279, "y1": 8.872721, "x2": 7.327721, "y2": 8.672279}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.872721, "y1": 8.127279, "x2": 7.672279, "y2": 8.327721}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 6.0, "y": 8.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 7.0, "y": 7.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 8.0, "y": 8.0}
+{"kind": "entity", "type": "POINT", "layer": "0", "x": 1.0, "y": 2.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.0, "y1": 3.0, "x2": 3.0, "y2": 4.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 5.0, "cy": 5.0, "r": 1.0, "a1": 270.0, "a2": 0.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 3.0, "cy": 1.0, "r": 1.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "FOO", "x": 1.0, "y": 4.0, "h": 0.75}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLOCK1", "x": 6.0, "y": 1.0, "sx": 0.5, "sy": 0.5, "rot": 30.0}
+{"kind": "entity", "type": "SHAPE", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLOCK2", "x": 2.0, "y": 2.0, "sx": 0.5, "sy": 0.5, "rot": 30.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "dimtype": "", "x": 8.0, "y": 8.0}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}

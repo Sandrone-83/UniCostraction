@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-27T17:06:46.334+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e26e19e4b0edf73d20d3b8
+  id: 53e26e19e4b0edf73d20d3b8
+  image: https://profiles.onshape.com/834667b784e7ee5e99d3b9eaedb3256a61efc3b866673953ab73aa9be6defffd.png
+  name: Julian Leland Bell
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ce5b31679ee845a69ba89d6f/workspaces/64230474975640b9a1d25680
+  id: 64230474975640b9a1d25680
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ce5b31679ee845a69ba89d6f
+id: ce5b31679ee845a69ba89d6f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-10T12:48:11.401+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e26e19e4b0edf73d20d3b8
+  id: 53e26e19e4b0edf73d20d3b8
+  image: https://profiles.onshape.com/834667b784e7ee5e99d3b9eaedb3256a61efc3b866673953ab73aa9be6defffd.png
+  name: Julian Leland Bell
+  state: 1
+name: Parallel-Action Mini Pliers
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e26e19e4b0edf73d20d3b8
+  id: 53e26e19e4b0edf73d20d3b8
+  image: https://profiles.onshape.com/834667b784e7ee5e99d3b9eaedb3256a61efc3b866673953ab73aa9be6defffd.png
+  name: Julian Leland Bell
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ce5b31679ee845a69ba89d6f/w/64230474975640b9a1d25680?t=1418740318903
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ce5b31679ee845a69ba89d6f/w/64230474975640b9a1d25680/s/600x340?t=1418740318903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ce5b31679ee845a69ba89d6f/w/64230474975640b9a1d25680/s/300x170?t=1418740318903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ce5b31679ee845a69ba89d6f/w/64230474975640b9a1d25680/s/70x40?t=1418740318903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

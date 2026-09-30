@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-10T13:25:51.086+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551d929ee4b05652caf2efef
+  id: 551d929ee4b05652caf2efef
+  image: /images/placeholder-user.png
+  name: Eric McCormick
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4d8f68e7d60448c594575048/workspaces/49fd5dd33e18484ebaa32d13
+  id: 49fd5dd33e18484ebaa32d13
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4d8f68e7d60448c594575048
+id: 4d8f68e7d60448c594575048
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-12-21T14:25:14.357+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551d929ee4b05652caf2efef
+  id: 551d929ee4b05652caf2efef
+  image: /images/placeholder-user.png
+  name: Eric McCormick
+  state: 1
+name: 2702 Farmington Drive
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551d929ee4b05652caf2efef
+  id: 551d929ee4b05652caf2efef
+  image: /images/placeholder-user.png
+  name: Eric McCormick
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4d8f68e7d60448c594575048/w/49fd5dd33e18484ebaa32d13?t=1450707955544
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4d8f68e7d60448c594575048/w/49fd5dd33e18484ebaa32d13/s/600x340?t=1450707955544
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4d8f68e7d60448c594575048/w/49fd5dd33e18484ebaa32d13/s/300x170?t=1450707955544
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4d8f68e7d60448c594575048/w/49fd5dd33e18484ebaa32d13/s/300x300?t=1450707955544
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4d8f68e7d60448c594575048/w/49fd5dd33e18484ebaa32d13/s/70x40?t=1450707955544
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

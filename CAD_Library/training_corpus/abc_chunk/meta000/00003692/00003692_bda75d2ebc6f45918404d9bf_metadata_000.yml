@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-27T09:29:18.547+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54feb7b9e4b00b89f7fc878a
+  id: 54feb7b9e4b00b89f7fc878a
+  image: /images/placeholder-user.png
+  name: Stefan
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bda75d2ebc6f45918404d9bf/workspaces/650566abce114519b1bdd097
+  id: 650566abce114519b1bdd097
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bda75d2ebc6f45918404d9bf
+id: bda75d2ebc6f45918404d9bf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-02-03T13:10:40.602+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54feb7b9e4b00b89f7fc878a
+  id: 54feb7b9e4b00b89f7fc878a
+  image: /images/placeholder-user.png
+  name: Stefan
+  state: 1
+name: Flat_multimeter_drago
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54feb7b9e4b00b89f7fc878a
+  id: 54feb7b9e4b00b89f7fc878a
+  image: /images/placeholder-user.png
+  name: Stefan
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bda75d2ebc6f45918404d9bf/w/650566abce114519b1bdd097?t=1454505053262
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bda75d2ebc6f45918404d9bf/w/650566abce114519b1bdd097/s/300x300?t=1454505053262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bda75d2ebc6f45918404d9bf/w/650566abce114519b1bdd097/s/300x170?t=1454505053262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bda75d2ebc6f45918404d9bf/w/650566abce114519b1bdd097/s/600x340?t=1454505053262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bda75d2ebc6f45918404d9bf/w/650566abce114519b1bdd097/s/70x40?t=1454505053262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

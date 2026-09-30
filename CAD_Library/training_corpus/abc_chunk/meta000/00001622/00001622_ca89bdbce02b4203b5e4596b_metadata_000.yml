@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-19T16:24:33.037+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550826f6e4b03fa61ff5d0ca
+  id: 550826f6e4b03fa61ff5d0ca
+  image: /images/placeholder-user.png
+  name: Benjamin Steele
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ca89bdbce02b4203b5e4596b/workspaces/e1b21968dcca4ce990b7450d
+  id: e1b21968dcca4ce990b7450d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ca89bdbce02b4203b5e4596b
+id: ca89bdbce02b4203b5e4596b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-08-24T02:37:44.778+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5693e854e4b0f699dc2f8ed0
+  id: 5693e854e4b0f699dc2f8ed0
+  image: /images/placeholder-user.png
+  name: Roberto Cepeda
+  state: 1
+name: 6 inch saw clamp
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550826f6e4b03fa61ff5d0ca
+  id: 550826f6e4b03fa61ff5d0ca
+  image: /images/placeholder-user.png
+  name: Benjamin Steele
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ca89bdbce02b4203b5e4596b/w/e1b21968dcca4ce990b7450d?t=1477570646201
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ca89bdbce02b4203b5e4596b/w/e1b21968dcca4ce990b7450d/s/70x40?t=1477570646201
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca89bdbce02b4203b5e4596b/w/e1b21968dcca4ce990b7450d/s/300x170?t=1477570646201
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca89bdbce02b4203b5e4596b/w/e1b21968dcca4ce990b7450d/s/600x340?t=1477570646201
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca89bdbce02b4203b5e4596b/w/e1b21968dcca4ce990b7450d/s/300x300?t=1477570646201
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

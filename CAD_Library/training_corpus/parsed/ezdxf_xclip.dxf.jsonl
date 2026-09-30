@@ -1,0 +1,32 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/xclip.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 31, "entity_histogram": {"VIEWPORT": 9, "INSERT": 9, "MTEXT": 9, "LINE": 2, "LWPOLYLINE": 1, "CIRCLE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 5, "bbox": [[0.0, 155.273], [-2.897, 167.315]]}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.0, 7.0], [0.0, 7.0]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 3.5, "x2": 7.0, "y2": 3.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 3.5, "y1": 0.0, "x2": 3.5, "y2": 7.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 3.5, "cy": 3.5, "r": 3.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 5.0, "y": 5.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 13.701472944978, "y": 8.296120375944, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 19.97598156396, "y": 20.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Rectangle", "x": 7.024749978424, "y": 14.990853928592, "h": 0.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Rectangle", "x": 15.343307969032, "y": 14.9027366777, "h": 0.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 17.269750963371, "y": 0.041009747639, "sx": 1.0, "sy": 1.0, "rot": 45.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Rectangle Copy & Rotate", "x": 12.464356755077, "y": 4.040091577013, "h": 0.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Polygon", "x": 22.000731542384, "y": 30.211910241492, "h": 0.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 34.213579220794, "y": 18.648199568587, "sx": 1.0, "sy": 1.0, "rot": 33.582775659428}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Polygon Copy & Rotate", "x": 33.808741455256, "y": 28.221184073843, "h": 0.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 7.219861123372, "y": 19.552210324471, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Original (not cropped)", "x": 7.260566471391, "y": 27.882168895161, "h": 0.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 25.744047593269, "y": 6.497335817091, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Inverted Clipping Path", "x": 25.784752941288, "y": 14.827294387781, "h": 0.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 35.502931650755, "y": 6.561753025165, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Concave Clipping Path", "x": 35.543636998774, "y": 14.891711595855, "h": 0.5}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BaseBlock", "x": 35.502931650755, "y": -2.896936162253, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Inverted Concave Clipping Path", "x": 34.175763770251, "y": 5.433022408437, "h": 0.5}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T07:45:29.922+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552c3c52e4b0720e4f416c01
+  id: 552c3c52e4b0720e4f416c01
+  image: https://profiles.onshape.com/590315a4bbd2a5e1f23b7719f826177fa6da5537ec52e606c5f901f838cd9e87.png
+  name: Nic Tauroa
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2f0bf783bb0d4f02b63206c0/workspaces/e748e1215b8c4e2d8ad9ae05
+  id: e748e1215b8c4e2d8ad9ae05
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2f0bf783bb0d4f02b63206c0
+id: 2f0bf783bb0d4f02b63206c0
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-09-19T20:15:36.178+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552c3c52e4b0720e4f416c01
+  id: 552c3c52e4b0720e4f416c01
+  image: https://profiles.onshape.com/590315a4bbd2a5e1f23b7719f826177fa6da5537ec52e606c5f901f838cd9e87.png
+  name: Nic Tauroa
+  state: 1
+name: Japanese Equip 01 - Car Wheel
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552c3c52e4b0720e4f416c01
+  id: 552c3c52e4b0720e4f416c01
+  image: https://profiles.onshape.com/590315a4bbd2a5e1f23b7719f826177fa6da5537ec52e606c5f901f838cd9e87.png
+  name: Nic Tauroa
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2f0bf783bb0d4f02b63206c0/w/e748e1215b8c4e2d8ad9ae05?t=1505854280885
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2f0bf783bb0d4f02b63206c0/w/e748e1215b8c4e2d8ad9ae05/s/300x300?t=1505854280885
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f0bf783bb0d4f02b63206c0/w/e748e1215b8c4e2d8ad9ae05/s/300x170?t=1505854280885
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f0bf783bb0d4f02b63206c0/w/e748e1215b8c4e2d8ad9ae05/s/600x340?t=1505854280885
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f0bf783bb0d4f02b63206c0/w/e748e1215b8c4e2d8ad9ae05/s/70x40?t=1505854280885
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

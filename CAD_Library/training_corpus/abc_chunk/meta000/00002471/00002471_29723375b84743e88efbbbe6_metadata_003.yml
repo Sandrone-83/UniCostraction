@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T13:39:09.512+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501a588e4b00b89f7fc8d42
+  id: 5501a588e4b00b89f7fc8d42
+  image: https://profiles.onshape.com/484078eaede9c8ead2eeaf791412519d05fd100a867a8acbf9653afbbbb02712.png
+  name: Hakro
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/29723375b84743e88efbbbe6/workspaces/d332b42454c7455ab9d88efc
+  id: d332b42454c7455ab9d88efc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/29723375b84743e88efbbbe6
+id: 29723375b84743e88efbbbe6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-02-23T22:13:15.788+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501a588e4b00b89f7fc8d42
+  id: 5501a588e4b00b89f7fc8d42
+  image: https://profiles.onshape.com/484078eaede9c8ead2eeaf791412519d05fd100a867a8acbf9653afbbbb02712.png
+  name: Hakro
+  state: 1
+name: SWX-Wheel
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501a588e4b00b89f7fc8d42
+  id: 5501a588e4b00b89f7fc8d42
+  image: https://profiles.onshape.com/484078eaede9c8ead2eeaf791412519d05fd100a867a8acbf9653afbbbb02712.png
+  name: Hakro
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/29723375b84743e88efbbbe6/w/d332b42454c7455ab9d88efc?t=1456265619203
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/29723375b84743e88efbbbe6/w/d332b42454c7455ab9d88efc/s/70x40?t=1456265619203
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/29723375b84743e88efbbbe6/w/d332b42454c7455ab9d88efc/s/300x300?t=1456265619203
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/29723375b84743e88efbbbe6/w/d332b42454c7455ab9d88efc/s/300x170?t=1456265619203
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/29723375b84743e88efbbbe6/w/d332b42454c7455ab9d88efc/s/600x340?t=1456265619203
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

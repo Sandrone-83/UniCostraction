@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T18:15:47.094+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5538ed0ae4b0bc1f925a6095
+  id: 5538ed0ae4b0bc1f925a6095
+  image: /images/placeholder-user.png
+  name: Martin Bloedorn
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1a692bb7721d4d1bad8566e3/workspaces/4bb4db045d524f0f8d394b7e
+  id: 4bb4db045d524f0f8d394b7e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1a692bb7721d4d1bad8566e3
+id: 1a692bb7721d4d1bad8566e3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-18T14:46:41.324+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5538ed0ae4b0bc1f925a6095
+  id: 5538ed0ae4b0bc1f925a6095
+  image: /images/placeholder-user.png
+  name: Martin Bloedorn
+  state: 1
+name: servo_internal_motor
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5538ed0ae4b0bc1f925a6095
+  id: 5538ed0ae4b0bc1f925a6095
+  image: /images/placeholder-user.png
+  name: Martin Bloedorn
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1a692bb7721d4d1bad8566e3/w/4bb4db045d524f0f8d394b7e?t=1431964107378
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1a692bb7721d4d1bad8566e3/w/4bb4db045d524f0f8d394b7e/s/600x340?t=1431964107378
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1a692bb7721d4d1bad8566e3/w/4bb4db045d524f0f8d394b7e/s/70x40?t=1431964107378
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1a692bb7721d4d1bad8566e3/w/4bb4db045d524f0f8d394b7e/s/300x170?t=1431964107378
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1a692bb7721d4d1bad8566e3/w/4bb4db045d524f0f8d394b7e/s/300x300?t=1431964107378
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,13 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Leader.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 12, "entity_histogram": {"IMAGE": 5, "LINE": 4, "LEADER": 1, "MTEXT": 1, "LWPOLYLINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 4, "bbox": [[-1.0, 33.066], [-0.268, 12.844]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -1.0, "y1": 0.26794919, "x2": 0.0, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": -1.0, "y2": -0.26794919}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": -1.0, "y2": 0.0}
+{"kind": "entity", "type": "LEADER", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "MTEXT", "x": 15.48139605215153, "y": 12.84399576363243, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 9.574467973499225, "y1": 10.0703252287432, "x2": 14.63072082660552, "y2": 10.0703252287432}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 7, "closed": true, "bbox": [[18.25511440091482, 33.06590806222298], [2.198224883789748, 11.00960989388861]]}
+{"kind": "entity", "type": "IMAGE", "layer": "0"}
+{"kind": "entity", "type": "IMAGE", "layer": "0"}
+{"kind": "entity", "type": "IMAGE", "layer": "0"}
+{"kind": "entity", "type": "IMAGE", "layer": "0"}
+{"kind": "entity", "type": "IMAGE", "layer": "0"}

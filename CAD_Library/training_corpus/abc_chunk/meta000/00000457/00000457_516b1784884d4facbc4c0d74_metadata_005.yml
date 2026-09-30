@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-13T04:27:15.061+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/516b1784884d4facbc4c0d74/workspaces/8e947edb43904354bb16b3f2
+  id: 8e947edb43904354bb16b3f2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/516b1784884d4facbc4c0d74
+id: 516b1784884d4facbc4c0d74
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 3
+modifiedAt: 2016-08-24T18:34:47.092+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/56591f92e4b0498f5bed1cf8
+  id: 56591f92e4b0498f5bed1cf8
+  image: /images/placeholder-user.png
+  name: Mark Trusty
+  state: 1
+name: Fasteners Doc
+notRevisionManaged: false
+numberOfTimesCopied: 21
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/516b1784884d4facbc4c0d74/w/8e947edb43904354bb16b3f2?t=1466404072402
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/516b1784884d4facbc4c0d74/w/8e947edb43904354bb16b3f2/s/70x40?t=1466404072402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/516b1784884d4facbc4c0d74/w/8e947edb43904354bb16b3f2/s/300x300?t=1466404072402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/516b1784884d4facbc4c0d74/w/8e947edb43904354bb16b3f2/s/600x340?t=1466404072402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/516b1784884d4facbc4c0d74/w/8e947edb43904354bb16b3f2/s/300x170?t=1466404072402
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-26T18:35:29.147+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/051dbdb46a50473b85a7620a/workspaces/27e7c3f143004d5fa765460b
+  id: 27e7c3f143004d5fa765460b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/051dbdb46a50473b85a7620a
+id: 051dbdb46a50473b85a7620a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-08T15:30:04.320+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  state: 1
+name: Hotend plate
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/051dbdb46a50473b85a7620a/w/27e7c3f143004d5fa765460b?t=1430149970806
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/051dbdb46a50473b85a7620a/w/27e7c3f143004d5fa765460b/s/300x300?t=1430149970806
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/051dbdb46a50473b85a7620a/w/27e7c3f143004d5fa765460b/s/300x170?t=1430149970806
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/051dbdb46a50473b85a7620a/w/27e7c3f143004d5fa765460b/s/600x340?t=1430149970806
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/051dbdb46a50473b85a7620a/w/27e7c3f143004d5fa765460b/s/70x40?t=1430149970806
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

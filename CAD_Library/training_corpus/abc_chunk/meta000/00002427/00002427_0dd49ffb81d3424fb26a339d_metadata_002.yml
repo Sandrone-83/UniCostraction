@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-01T16:24:24.936+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fddaffe4b04a9735f91b4c
+  id: 54fddaffe4b04a9735f91b4c
+  image: /images/placeholder-user.png
+  name: Ryan Gebs
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0dd49ffb81d3424fb26a339d/workspaces/05b572e954944ae1bc476abf
+  id: 05b572e954944ae1bc476abf
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0dd49ffb81d3424fb26a339d
+id: 0dd49ffb81d3424fb26a339d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2017-03-17T17:20:24.455+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fddaffe4b04a9735f91b4c
+  id: 54fddaffe4b04a9735f91b4c
+  image: /images/placeholder-user.png
+  name: Ryan Gebs
+  state: 1
+name: Gun Stuff
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fddaffe4b04a9735f91b4c
+  id: 54fddaffe4b04a9735f91b4c
+  image: /images/placeholder-user.png
+  name: Ryan Gebs
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0dd49ffb81d3424fb26a339d/w/05b572e954944ae1bc476abf?t=1489771226281
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd49ffb81d3424fb26a339d/w/05b572e954944ae1bc476abf/s/300x300?t=1489771226281
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd49ffb81d3424fb26a339d/w/05b572e954944ae1bc476abf/s/300x170?t=1489771226281
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd49ffb81d3424fb26a339d/w/05b572e954944ae1bc476abf/s/70x40?t=1489771226281
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0dd49ffb81d3424fb26a339d/w/05b572e954944ae1bc476abf/s/600x340?t=1489771226281
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

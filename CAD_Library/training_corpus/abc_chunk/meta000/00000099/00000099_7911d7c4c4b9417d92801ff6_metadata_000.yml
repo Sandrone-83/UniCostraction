@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-01T16:27:45.091+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ed131be4b060b14da3e605
+  id: 53ed131be4b060b14da3e605
+  image: /images/placeholder-user.png
+  name: Gopal Shenoy
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: 50d5a8611e1041bb9d89d52f
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/7911d7c4c4b9417d92801ff6/workspaces/f252fa9f0ed6410cacceecac
+  id: f252fa9f0ed6410cacceecac
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/7911d7c4c4b9417d92801ff6
+id: 7911d7c4c4b9417d92801ff6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-10T01:19:24.352+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53ed131be4b060b14da3e605
+  id: 53ed131be4b060b14da3e605
+  image: /images/placeholder-user.png
+  name: Gopal Shenoy
+  state: 1
+name: Weldment2
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ed131be4b060b14da3e605
+  id: 53ed131be4b060b14da3e605
+  image: /images/placeholder-user.png
+  name: Gopal Shenoy
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/7911d7c4c4b9417d92801ff6/w/f252fa9f0ed6410cacceecac?t=1520794404309
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/7911d7c4c4b9417d92801ff6/w/f252fa9f0ed6410cacceecac/s/70x40?t=1520794404309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7911d7c4c4b9417d92801ff6/w/f252fa9f0ed6410cacceecac/s/300x300?t=1520794404309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7911d7c4c4b9417d92801ff6/w/f252fa9f0ed6410cacceecac/s/300x170?t=1520794404309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7911d7c4c4b9417d92801ff6/w/f252fa9f0ed6410cacceecac/s/600x340?t=1520794404309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T00:01:17.444+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54004dd6e4b0a8ed5579f67a
+  id: 54004dd6e4b0a8ed5579f67a
+  image: /images/placeholder-user.png
+  name: Doug Feigelson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/fc84b201b8f848d88d503020/workspaces/8880df1fab024c7ba39fc7a4
+  id: 8880df1fab024c7ba39fc7a4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/fc84b201b8f848d88d503020
+id: fc84b201b8f848d88d503020
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-04-07T04:22:18.067+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54004dd6e4b0a8ed5579f67a
+  id: 54004dd6e4b0a8ed5579f67a
+  image: /images/placeholder-user.png
+  name: Doug Feigelson
+  state: 1
+name: horn thing
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54004dd6e4b0a8ed5579f67a
+  id: 54004dd6e4b0a8ed5579f67a
+  image: /images/placeholder-user.png
+  name: Doug Feigelson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/fc84b201b8f848d88d503020/w/8880df1fab024c7ba39fc7a4?t=1491538950586
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/fc84b201b8f848d88d503020/w/8880df1fab024c7ba39fc7a4/s/600x340?t=1491538950586
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fc84b201b8f848d88d503020/w/8880df1fab024c7ba39fc7a4/s/70x40?t=1491538950586
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fc84b201b8f848d88d503020/w/8880df1fab024c7ba39fc7a4/s/300x300?t=1491538950586
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fc84b201b8f848d88d503020/w/8880df1fab024c7ba39fc7a4/s/300x170?t=1491538950586
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

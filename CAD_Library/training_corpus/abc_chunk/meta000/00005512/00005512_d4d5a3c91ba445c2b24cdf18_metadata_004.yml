@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-21T22:37:53.975+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55528f0fe4b029e2d5e5b934
+  id: 55528f0fe4b029e2d5e5b934
+  image: /images/placeholder-user.png
+  name: Stephen Sjodin
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d4d5a3c91ba445c2b24cdf18/workspaces/095a8c4d94764819b8a09533
+  id: 095a8c4d94764819b8a09533
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d4d5a3c91ba445c2b24cdf18
+id: d4d5a3c91ba445c2b24cdf18
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-03-19T15:53:43.795+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55528f0fe4b029e2d5e5b934
+  id: 55528f0fe4b029e2d5e5b934
+  image: /images/placeholder-user.png
+  name: Stephen Sjodin
+  state: 1
+name: Scroll Pump
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55528f0fe4b029e2d5e5b934
+  id: 55528f0fe4b029e2d5e5b934
+  image: /images/placeholder-user.png
+  name: Stephen Sjodin
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d4d5a3c91ba445c2b24cdf18/w/095a8c4d94764819b8a09533?t=1521475104214
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d4d5a3c91ba445c2b24cdf18/w/095a8c4d94764819b8a09533/s/600x340?t=1521475104214
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4d5a3c91ba445c2b24cdf18/w/095a8c4d94764819b8a09533/s/70x40?t=1521475104214
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4d5a3c91ba445c2b24cdf18/w/095a8c4d94764819b8a09533/s/300x300?t=1521475104214
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d4d5a3c91ba445c2b24cdf18/w/095a8c4d94764819b8a09533/s/300x170?t=1521475104214
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

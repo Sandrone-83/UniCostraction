@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-26T14:19:36.988+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/553a9991e4b0a027b8ec6db7
+  id: 553a9991e4b0a027b8ec6db7
+  image: /images/placeholder-user.png
+  name: CHRISTIAN FAUDAIS
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ca90483ed4144d6db48c58b6/workspaces/d21572397f764d2493e5bab0
+  id: d21572397f764d2493e5bab0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ca90483ed4144d6db48c58b6
+id: ca90483ed4144d6db48c58b6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-11T19:27:09.313+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553a9991e4b0a027b8ec6db7
+  id: 553a9991e4b0a027b8ec6db7
+  image: /images/placeholder-user.png
+  name: CHRISTIAN FAUDAIS
+  state: 1
+name: DEUXIEME DESSIN
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/553a9991e4b0a027b8ec6db7
+  id: 553a9991e4b0a027b8ec6db7
+  image: /images/placeholder-user.png
+  name: CHRISTIAN FAUDAIS
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ca90483ed4144d6db48c58b6/w/d21572397f764d2493e5bab0?t=1430058969033
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ca90483ed4144d6db48c58b6/w/d21572397f764d2493e5bab0/s/300x300?t=1430058969033
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca90483ed4144d6db48c58b6/w/d21572397f764d2493e5bab0/s/70x40?t=1430058969033
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca90483ed4144d6db48c58b6/w/d21572397f764d2493e5bab0/s/300x170?t=1430058969033
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca90483ed4144d6db48c58b6/w/d21572397f764d2493e5bab0/s/600x340?t=1430058969033
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

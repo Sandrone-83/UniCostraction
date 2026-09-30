@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-15T06:04:36.455+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55554417e4b0fc2725f78bd9
+  id: 55554417e4b0fc2725f78bd9
+  image: https://profiles.onshape.com/87cb0258e77abf56ea861b81e44beca2d65307a09ab4da4bf0f1a8e57340109a.png
+  name: anfroholic
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ddda25f5a2fb44c8b049fcde/workspaces/3f6fd8571d204c8191945893
+  id: 3f6fd8571d204c8191945893
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ddda25f5a2fb44c8b049fcde
+id: ddda25f5a2fb44c8b049fcde
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-13T23:09:36.007+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55554417e4b0fc2725f78bd9
+  id: 55554417e4b0fc2725f78bd9
+  image: https://profiles.onshape.com/87cb0258e77abf56ea861b81e44beca2d65307a09ab4da4bf0f1a8e57340109a.png
+  name: anfroholic
+  state: 1
+name: SCARA **RETIRED VERSION**
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55554417e4b0fc2725f78bd9
+  id: 55554417e4b0fc2725f78bd9
+  image: https://profiles.onshape.com/87cb0258e77abf56ea861b81e44beca2d65307a09ab4da4bf0f1a8e57340109a.png
+  name: anfroholic
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ddda25f5a2fb44c8b049fcde/w/3f6fd8571d204c8191945893?t=1444707810889
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ddda25f5a2fb44c8b049fcde/w/3f6fd8571d204c8191945893/s/300x170?t=1444707810889
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ddda25f5a2fb44c8b049fcde/w/3f6fd8571d204c8191945893/s/300x300?t=1444707810889
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ddda25f5a2fb44c8b049fcde/w/3f6fd8571d204c8191945893/s/600x340?t=1444707810889
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ddda25f5a2fb44c8b049fcde/w/3f6fd8571d204c8191945893/s/70x40?t=1444707810889
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

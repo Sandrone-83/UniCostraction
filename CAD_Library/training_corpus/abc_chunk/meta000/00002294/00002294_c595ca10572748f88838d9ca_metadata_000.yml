@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-30T14:04:05.006+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5450faade4b072356fcc85da
+  id: 5450faade4b072356fcc85da
+  image: /images/placeholder-user.png
+  name: Gabriel Isko
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c595ca10572748f88838d9ca/workspaces/6226f441e7f74d69b3365ce3
+  id: 6226f441e7f74d69b3365ce3
+  name: Robot Kit
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c595ca10572748f88838d9ca
+id: c595ca10572748f88838d9ca
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-31T20:04:02.079+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5450faade4b072356fcc85da
+  id: 5450faade4b072356fcc85da
+  image: /images/placeholder-user.png
+  name: Gabriel Isko
+  state: 1
+name: Robot Kit
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5450faade4b072356fcc85da
+  id: 5450faade4b072356fcc85da
+  image: /images/placeholder-user.png
+  name: Gabriel Isko
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c595ca10572748f88838d9ca/w/6226f441e7f74d69b3365ce3?t=1427725168038
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c595ca10572748f88838d9ca/w/6226f441e7f74d69b3365ce3/s/600x340?t=1427725168038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c595ca10572748f88838d9ca/w/6226f441e7f74d69b3365ce3/s/300x170?t=1427725168038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c595ca10572748f88838d9ca/w/6226f441e7f74d69b3365ce3/s/70x40?t=1427725168038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c595ca10572748f88838d9ca/w/6226f441e7f74d69b3365ce3/s/300x300?t=1427725168038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

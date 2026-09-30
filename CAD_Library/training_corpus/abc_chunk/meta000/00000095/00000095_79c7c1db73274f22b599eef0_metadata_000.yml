@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-28T11:51:40.450+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/79c7c1db73274f22b599eef0/workspaces/547dcffce3df477ab5c468bf
+  id: 547dcffce3df477ab5c468bf
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/79c7c1db73274f22b599eef0
+id: 79c7c1db73274f22b599eef0
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-09-25T20:06:11.958+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53bca1a6e4b034f430934eaf
+  id: 53bca1a6e4b034f430934eaf
+  image: /images/placeholder-user.png
+  name: System
+  state: 2
+name: JB Atom
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/79c7c1db73274f22b599eef0/w/547dcffce3df477ab5c468bf?t=1411574101601
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/79c7c1db73274f22b599eef0/w/547dcffce3df477ab5c468bf/s/600x340?t=1411574101601
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/79c7c1db73274f22b599eef0/w/547dcffce3df477ab5c468bf/s/70x40?t=1411574101601
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/79c7c1db73274f22b599eef0/w/547dcffce3df477ab5c468bf/s/300x170?t=1411574101601
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-02T11:20:56.715+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/27417003e762409185cb2b69/workspaces/ea96e02e231b408da5005030
+  id: ea96e02e231b408da5005030
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/27417003e762409185cb2b69
+id: 27417003e762409185cb2b69
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-10-02T11:42:37.135+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  state: 1
+name: Lantern_Top
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ee3dc8e4b0e9a6419e6ff6
+  id: 53ee3dc8e4b0e9a6419e6ff6
+  image: /images/placeholder-user.png
+  name: Cimquest Admin
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/27417003e762409185cb2b69/w/ea96e02e231b408da5005030?t=1412250151816
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/27417003e762409185cb2b69/w/ea96e02e231b408da5005030/s/600x340?t=1412250151816
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/27417003e762409185cb2b69/w/ea96e02e231b408da5005030/s/70x40?t=1412250151816
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/27417003e762409185cb2b69/w/ea96e02e231b408da5005030/s/300x170?t=1412250151816
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,65 @@
+{
+  "pack": "Coding_Master_Pack_3",
+  "generato_il": "2026-09-29",
+  "nota_licenza": "Tutto il contenuto e' sintesi didattica originale redatta da Kimi (Moonshot AI): concetti di algoritmi, geometria computazionale, sistemi embedded, compilatori, concorrenza e testing espressi con parole proprie. Nessun testo copiato da fonti protette. Uso commerciale libero.",
+  "fonti": [
+    {
+      "id": "INTERVIEW-ALGORITMI",
+      "descrizione": "Pattern da colloquio: sliding window, two pointers, intervalli, matrici, backtracking + come si affronta e si valuta un colloquio tecnico e uno di system design",
+      "file": "parsed/interview_algoritmi.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "GEOMETRIA-COMPUTAZIONALE",
+      "descrizione": "Geometria 2D/3D computazionale, mesh e B-Rep, operazioni booleane e kernel CAD, GIS e dati spaziali, computer graphics e rendering — il ponte con la CAD Library",
+      "file": "parsed/geometria_computazionale.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "EMBEDDED-IOT",
+      "descrizione": "Elettronica e microcontrollori, protocolli IoT (MQTT/OPC UA) e architettura edge, sensoristica per l'edilizia, automazione e controllo (PID/PLC/SCADA), progetto guidato di monitoraggio cantiere",
+      "file": "parsed/embedded_iot.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "COMPILATORI-LINGUAGGI",
+      "descrizione": "Pipeline del compilatore, grammatiche e algoritmi di parsing, bytecode e VM, type systems moderni, progetto guidato di un mini-linguaggio",
+      "file": "parsed/compilatori_linguaggi.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "CONCORRENZA-AVANZATA",
+      "descrizione": "Modelli di concorrenza, lock/race/deadlock, programmazione lock-free e atomics, strutture dati concorrenti e pattern, async/await moderno",
+      "file": "parsed/concorrenza_avanzata.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "TESTING-AVANZATO",
+      "descrizione": "Property-based testing, mutation testing e fuzzing/chaos, load testing, test di integrazione con infrastruttura reale (testcontainers), qualita' come processo",
+      "file": "parsed/testing_avanzato.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    }
+  ],
+  "avvertenze": [
+    "Versioni di strumenti e piattaforme riferite al 2026: verificare documentazione ufficiale aggiornata",
+    "Le soglie numeriche citate sono prassi consolidate indicative"
+  ]
+}

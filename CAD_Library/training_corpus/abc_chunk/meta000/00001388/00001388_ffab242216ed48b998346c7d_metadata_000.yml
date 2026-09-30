@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T16:50:36.673+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55032abee4b0085d14e115d2
+  id: 55032abee4b0085d14e115d2
+  image: /images/placeholder-user.png
+  name: Kris
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ffab242216ed48b998346c7d/workspaces/2a083248871645f3b36fe501
+  id: 2a083248871645f3b36fe501
+  name: Shoe Rack
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ffab242216ed48b998346c7d
+id: ffab242216ed48b998346c7d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-16T18:28:25.952+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55032abee4b0085d14e115d2
+  id: 55032abee4b0085d14e115d2
+  image: /images/placeholder-user.png
+  name: Kris
+  state: 1
+name: Shoe Rack
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55032abee4b0085d14e115d2
+  id: 55032abee4b0085d14e115d2
+  image: /images/placeholder-user.png
+  name: Kris
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ffab242216ed48b998346c7d/w/2a083248871645f3b36fe501?t=1426525986795
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ffab242216ed48b998346c7d/w/2a083248871645f3b36fe501/s/300x300?t=1426525986795
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ffab242216ed48b998346c7d/w/2a083248871645f3b36fe501/s/70x40?t=1426525986795
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ffab242216ed48b998346c7d/w/2a083248871645f3b36fe501/s/600x340?t=1426525986795
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ffab242216ed48b998346c7d/w/2a083248871645f3b36fe501/s/300x170?t=1426525986795
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

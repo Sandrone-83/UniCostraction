@@ -1,0 +1,16 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/acad_table_simple.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 15, "entity_histogram": {"LINE": 8, "MTEXT": 7}, "n_layers": 0, "layers": [], "n_block_defs": 4, "bbox": [[0.0, 456.0], [-29.0, 0.0]]}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "Title", "x": 228.0, "y": -5.5, "h": 6.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "1", "x": 76.0, "y": -15.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "2", "x": 228.0, "y": -15.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "3", "x": 380.0, "y": -15.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "4", "x": 76.0, "y": -21.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "5", "x": 228.0, "y": -21.5, "h": 4.5}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "6", "x": 380.0, "y": -21.5, "h": 4.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 456.0, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -11.0, "x2": 456.0, "y2": -11.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -20.0, "x2": 456.0, "y2": -20.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -29.0, "x2": 456.0, "y2": -29.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 0.0, "y2": -29.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 456.0, "y1": 0.0, "x2": 456.0, "y2": -29.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 152.0, "y1": -11.0, "x2": 152.0, "y2": -29.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 304.0, "y1": -11.0, "x2": 304.0, "y2": -29.0}

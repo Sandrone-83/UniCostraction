@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-13T01:57:15.875+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe5083e4b046f89d8e9ac8
+  id: 54fe5083e4b046f89d8e9ac8
+  image: /images/placeholder-user.png
+  name: Nic Roche
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1fe3bf7ebabf43e590b0fe86/workspaces/0d0140250ff7490ca7ebf6e8
+  id: 0d0140250ff7490ca7ebf6e8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1fe3bf7ebabf43e590b0fe86
+id: 1fe3bf7ebabf43e590b0fe86
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-14T11:06:59.411+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe5083e4b046f89d8e9ac8
+  id: 54fe5083e4b046f89d8e9ac8
+  image: /images/placeholder-user.png
+  name: Nic Roche
+  state: 1
+name: Castor Plugs 20mm OD 8mm ID
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe5083e4b046f89d8e9ac8
+  id: 54fe5083e4b046f89d8e9ac8
+  image: /images/placeholder-user.png
+  name: Nic Roche
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1fe3bf7ebabf43e590b0fe86/w/0d0140250ff7490ca7ebf6e8?t=1462980257429
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1fe3bf7ebabf43e590b0fe86/w/0d0140250ff7490ca7ebf6e8/s/70x40?t=1462980257429
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1fe3bf7ebabf43e590b0fe86/w/0d0140250ff7490ca7ebf6e8/s/300x170?t=1462980257429
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1fe3bf7ebabf43e590b0fe86/w/0d0140250ff7490ca7ebf6e8/s/300x300?t=1462980257429
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1fe3bf7ebabf43e590b0fe86/w/0d0140250ff7490ca7ebf6e8/s/600x340?t=1462980257429
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

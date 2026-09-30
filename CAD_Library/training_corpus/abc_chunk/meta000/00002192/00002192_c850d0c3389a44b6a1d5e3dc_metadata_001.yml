@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-27T16:01:12.903+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55016f60e4b0a9dffbb18687
+  id: 55016f60e4b0a9dffbb18687
+  image: /images/placeholder-user.png
+  name: Joe Pechpua
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c850d0c3389a44b6a1d5e3dc/workspaces/3fac0e69ddb145469e1bcd14
+  id: 3fac0e69ddb145469e1bcd14
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c850d0c3389a44b6a1d5e3dc
+id: c850d0c3389a44b6a1d5e3dc
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-08-09T03:41:56.654+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55016f60e4b0a9dffbb18687
+  id: 55016f60e4b0a9dffbb18687
+  image: /images/placeholder-user.png
+  name: Joe Pechpua
+  state: 1
+name: Delta Motion Test
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55016f60e4b0a9dffbb18687
+  id: 55016f60e4b0a9dffbb18687
+  image: /images/placeholder-user.png
+  name: Joe Pechpua
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c850d0c3389a44b6a1d5e3dc/w/3fac0e69ddb145469e1bcd14?t=1502250136178
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c850d0c3389a44b6a1d5e3dc/w/3fac0e69ddb145469e1bcd14/s/300x170?t=1502250136178
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c850d0c3389a44b6a1d5e3dc/w/3fac0e69ddb145469e1bcd14/s/70x40?t=1502250136178
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c850d0c3389a44b6a1d5e3dc/w/3fac0e69ddb145469e1bcd14/s/600x340?t=1502250136178
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c850d0c3389a44b6a1d5e3dc/w/3fac0e69ddb145469e1bcd14/s/300x300?t=1502250136178
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-31T23:12:41.622+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdc670e4b0c0916a2981ca
+  id: 54fdc670e4b0c0916a2981ca
+  image: /images/placeholder-user.png
+  name: Steve Joachim
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2f087463653a4c06875fc970/workspaces/8a12f2b1731e4f3b943af192
+  id: 8a12f2b1731e4f3b943af192
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2f087463653a4c06875fc970
+id: 2f087463653a4c06875fc970
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-04-04T20:22:29.448+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdc670e4b0c0916a2981ca
+  id: 54fdc670e4b0c0916a2981ca
+  image: /images/placeholder-user.png
+  name: Steve Joachim
+  state: 1
+name: Modeling Random Things
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdc670e4b0c0916a2981ca
+  id: 54fdc670e4b0c0916a2981ca
+  image: /images/placeholder-user.png
+  name: Steve Joachim
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

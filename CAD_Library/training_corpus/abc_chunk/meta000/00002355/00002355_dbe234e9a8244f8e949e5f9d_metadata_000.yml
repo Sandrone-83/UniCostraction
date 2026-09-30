@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-31T10:16:15.343+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55096c38e4b0b29f4fe990ee
+  id: 55096c38e4b0b29f4fe990ee
+  image: /images/placeholder-user.png
+  name: Matej
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/dbe234e9a8244f8e949e5f9d/workspaces/3678bb36465945cdb786c5d0
+  id: 3678bb36465945cdb786c5d0
+  name: pant
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/dbe234e9a8244f8e949e5f9d
+id: dbe234e9a8244f8e949e5f9d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-19T12:33:20.482+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55096c38e4b0b29f4fe990ee
+  id: 55096c38e4b0b29f4fe990ee
+  image: /images/placeholder-user.png
+  name: Matej
+  state: 1
+name: "\u010Dep za uto"
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55096c38e4b0b29f4fe990ee
+  id: 55096c38e4b0b29f4fe990ee
+  image: /images/placeholder-user.png
+  name: Matej
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/dbe234e9a8244f8e949e5f9d/w/3678bb36465945cdb786c5d0?t=1437649622891
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/dbe234e9a8244f8e949e5f9d/w/3678bb36465945cdb786c5d0/s/300x170?t=1437649622891
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dbe234e9a8244f8e949e5f9d/w/3678bb36465945cdb786c5d0/s/600x340?t=1437649622891
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dbe234e9a8244f8e949e5f9d/w/3678bb36465945cdb786c5d0/s/70x40?t=1437649622891
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dbe234e9a8244f8e949e5f9d/w/3678bb36465945cdb786c5d0/s/300x300?t=1437649622891
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

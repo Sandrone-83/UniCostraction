@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-18T08:38:58.266+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5510324ce4b0cdf1efec24b2
+  id: 5510324ce4b0cdf1efec24b2
+  image: /images/placeholder-user.png
+  name: Pasu Bo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d58ad0dcaae64052885337b1/workspaces/9c91962e0c134fe396820829
+  id: 9c91962e0c134fe396820829
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d58ad0dcaae64052885337b1
+id: d58ad0dcaae64052885337b1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-20T03:23:40.515+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5510324ce4b0cdf1efec24b2
+  id: 5510324ce4b0cdf1efec24b2
+  image: /images/placeholder-user.png
+  name: Pasu Bo
+  state: 1
+name: Potting
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5510324ce4b0cdf1efec24b2
+  id: 5510324ce4b0cdf1efec24b2
+  image: /images/placeholder-user.png
+  name: Pasu Bo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d58ad0dcaae64052885337b1/w/9c91962e0c134fe396820829?t=1432092226798
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d58ad0dcaae64052885337b1/w/9c91962e0c134fe396820829/s/600x340?t=1432092226798
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d58ad0dcaae64052885337b1/w/9c91962e0c134fe396820829/s/70x40?t=1432092226798
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d58ad0dcaae64052885337b1/w/9c91962e0c134fe396820829/s/300x300?t=1432092226798
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d58ad0dcaae64052885337b1/w/9c91962e0c134fe396820829/s/300x170?t=1432092226798
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-12T23:12:18.946+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f248a4e4b060b14da3ec62
+  id: 53f248a4e4b060b14da3ec62
+  image: https://profiles.onshape.com/a40857b356b1d5634a147b76540051300e3892ae4ac618340118ab899f91c731.png
+  name: Steen Winther
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/38a16b120d49465b86d5bd82/workspaces/2b1ff5b5bb17458f89862150
+  id: 2b1ff5b5bb17458f89862150
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/38a16b120d49465b86d5bd82
+id: 38a16b120d49465b86d5bd82
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-23T22:48:09.899+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53dab32ae4b086d90a6429e3
+  id: 53dab32ae4b086d90a6429e3
+  image: https://profiles.onshape.com/f71642dea07c8c433cce54d1ee1931e4c4adf8b1d638aad15870379f673580ee.png
+  name: Joe Dunne
+  state: 1
+name: Casting
+notRevisionManaged: false
+numberOfTimesCopied: 5
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f248a4e4b060b14da3ec62
+  id: 53f248a4e4b060b14da3ec62
+  image: https://profiles.onshape.com/a40857b356b1d5634a147b76540051300e3892ae4ac618340118ab899f91c731.png
+  name: Steen Winther
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/38a16b120d49465b86d5bd82/w/2b1ff5b5bb17458f89862150?t=1420603773051
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/38a16b120d49465b86d5bd82/w/2b1ff5b5bb17458f89862150/s/300x170?t=1420603773051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/38a16b120d49465b86d5bd82/w/2b1ff5b5bb17458f89862150/s/70x40?t=1420603773051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/38a16b120d49465b86d5bd82/w/2b1ff5b5bb17458f89862150/s/600x340?t=1420603773051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

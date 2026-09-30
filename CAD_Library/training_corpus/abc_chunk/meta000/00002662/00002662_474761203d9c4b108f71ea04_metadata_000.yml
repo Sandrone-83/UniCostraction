@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-06T23:07:31.470+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550af6c2e4b04fee2ee4c680
+  id: 550af6c2e4b04fee2ee4c680
+  image: /images/placeholder-user.png
+  name: Matt
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/474761203d9c4b108f71ea04/workspaces/197df58ead8d4c9b8fab9e50
+  id: 197df58ead8d4c9b8fab9e50
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/474761203d9c4b108f71ea04
+id: 474761203d9c4b108f71ea04
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 12
+modifiedAt: 2018-03-08T15:30:14.176+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5547ef4be4b0b6c175df4789
+  id: 5547ef4be4b0b6c175df4789
+  image: /images/placeholder-user.png
+  name: David Riha
+  state: 1
+name: 350Z front Hub
+notRevisionManaged: false
+numberOfTimesCopied: 60
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550af6c2e4b04fee2ee4c680
+  id: 550af6c2e4b04fee2ee4c680
+  image: /images/placeholder-user.png
+  name: Matt
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/474761203d9c4b108f71ea04/w/197df58ead8d4c9b8fab9e50?t=1509067675978
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/474761203d9c4b108f71ea04/w/197df58ead8d4c9b8fab9e50/s/300x300?t=1509067675978
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/474761203d9c4b108f71ea04/w/197df58ead8d4c9b8fab9e50/s/70x40?t=1509067675978
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/474761203d9c4b108f71ea04/w/197df58ead8d4c9b8fab9e50/s/300x170?t=1509067675978
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/474761203d9c4b108f71ea04/w/197df58ead8d4c9b8fab9e50/s/600x340?t=1509067675978
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

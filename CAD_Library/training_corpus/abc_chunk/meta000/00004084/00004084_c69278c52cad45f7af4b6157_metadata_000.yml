@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T08:47:11.455+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c69278c52cad45f7af4b6157/workspaces/82c09b1f56294218a5f550b0
+  id: 82c09b1f56294218a5f550b0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c69278c52cad45f7af4b6157
+id: c69278c52cad45f7af4b6157
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-08T15:30:45.435+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  state: 1
+name: LCD stand
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5513f292e4b0b29f4fe99b29
+  id: 5513f292e4b0b29f4fe99b29
+  image: /images/placeholder-user.png
+  name: Lauri
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c69278c52cad45f7af4b6157/w/82c09b1f56294218a5f550b0?t=1430648734439
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c69278c52cad45f7af4b6157/w/82c09b1f56294218a5f550b0/s/300x300?t=1430648734439
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c69278c52cad45f7af4b6157/w/82c09b1f56294218a5f550b0/s/600x340?t=1430648734439
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c69278c52cad45f7af4b6157/w/82c09b1f56294218a5f550b0/s/70x40?t=1430648734439
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c69278c52cad45f7af4b6157/w/82c09b1f56294218a5f550b0/s/300x170?t=1430648734439
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

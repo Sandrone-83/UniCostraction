@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T18:05:28.741+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55150495e4b0b29f4fe99c81
+  id: 55150495e4b0b29f4fe99c81
+  image: https://profiles.onshape.com/f6707cbbdd091394ceca7648a9306ca696c9ad8987e21f804447621a54013b16.png
+  name: Arto
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/61afe52ce5764b8bb0531667/workspaces/a95f0e2dab754f1cb0586419
+  id: a95f0e2dab754f1cb0586419
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/61afe52ce5764b8bb0531667
+id: 61afe52ce5764b8bb0531667
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-29T21:38:37.727+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55150495e4b0b29f4fe99c81
+  id: 55150495e4b0b29f4fe99c81
+  image: https://profiles.onshape.com/f6707cbbdd091394ceca7648a9306ca696c9ad8987e21f804447621a54013b16.png
+  name: Arto
+  state: 1
+name: Paint tube squeezer
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55150495e4b0b29f4fe99c81
+  id: 55150495e4b0b29f4fe99c81
+  image: https://profiles.onshape.com/f6707cbbdd091394ceca7648a9306ca696c9ad8987e21f804447621a54013b16.png
+  name: Arto
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/61afe52ce5764b8bb0531667/w/a95f0e2dab754f1cb0586419?t=1461965934683
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/61afe52ce5764b8bb0531667/w/a95f0e2dab754f1cb0586419/s/300x170?t=1461965934683
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61afe52ce5764b8bb0531667/w/a95f0e2dab754f1cb0586419/s/600x340?t=1461965934683
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61afe52ce5764b8bb0531667/w/a95f0e2dab754f1cb0586419/s/300x300?t=1461965934683
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/61afe52ce5764b8bb0531667/w/a95f0e2dab754f1cb0586419/s/70x40?t=1461965934683
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

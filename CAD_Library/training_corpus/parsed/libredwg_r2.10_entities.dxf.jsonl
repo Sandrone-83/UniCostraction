@@ -1,0 +1,16 @@
+{"kind": "doc", "format": "DXF", "version": null, "file": "libredwg/r2.10/entities.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 15, "entity_histogram": {"LINE": 2, "ATTDEF": 2, "POINT": 2, "INSERT": 2, "ARC": 1, "CIRCLE": 1, "TEXT": 1, "SHAPE": 1, "SOLID": 1, "ATTRIB": 1, "POLYLINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[1.0, 9.0], [1.0, 7.0]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 6.0, "y1": 1.0, "x2": 7.0, "y2": 2.0}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "POINT", "layer": "0", "x": 1.0, "y": 2.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.0, "y1": 3.0, "x2": 3.0, "y2": 4.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 5.0, "cy": 5.0, "r": 1.0, "a1": 270.0, "a2": 0.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 3.0, "cy": 1.0, "r": 1.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "FOO", "x": 1.0, "y": 4.0, "h": 0.75}
+{"kind": "entity", "type": "POINT", "layer": "0", "x": 1.0, "y": 7.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLOCK1", "x": 6.0, "y": 1.0, "sx": 0.5, "sy": 0.5, "rot": 30.0}
+{"kind": "entity", "type": "SHAPE", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLOCK2", "x": 2.0, "y": 2.0, "sx": 0.5, "sy": 0.5, "rot": 30.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}

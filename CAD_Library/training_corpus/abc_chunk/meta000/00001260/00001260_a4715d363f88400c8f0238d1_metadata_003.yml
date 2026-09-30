@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-15T03:23:41.354+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5504f85fe4b09f5b18931c95
+  id: 5504f85fe4b09f5b18931c95
+  image: /images/placeholder-user.png
+  name: Andy Tablay
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a4715d363f88400c8f0238d1/workspaces/5c1d4708e2e5487fbd4fa229
+  id: 5c1d4708e2e5487fbd4fa229
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a4715d363f88400c8f0238d1
+id: a4715d363f88400c8f0238d1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-11T16:48:37.273+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5504f85fe4b09f5b18931c95
+  id: 5504f85fe4b09f5b18931c95
+  image: /images/placeholder-user.png
+  name: Andy Tablay
+  state: 1
+name: Copy of Tutorial - Extrude and Revolve
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5504f85fe4b09f5b18931c95
+  id: 5504f85fe4b09f5b18931c95
+  image: /images/placeholder-user.png
+  name: Andy Tablay
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a4715d363f88400c8f0238d1/w/5c1d4708e2e5487fbd4fa229?t=1510418921183
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a4715d363f88400c8f0238d1/w/5c1d4708e2e5487fbd4fa229/s/300x300?t=1510418921183
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a4715d363f88400c8f0238d1/w/5c1d4708e2e5487fbd4fa229/s/600x340?t=1510418921183
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a4715d363f88400c8f0238d1/w/5c1d4708e2e5487fbd4fa229/s/70x40?t=1510418921183
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a4715d363f88400c8f0238d1/w/5c1d4708e2e5487fbd4fa229/s/300x170?t=1510418921183
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

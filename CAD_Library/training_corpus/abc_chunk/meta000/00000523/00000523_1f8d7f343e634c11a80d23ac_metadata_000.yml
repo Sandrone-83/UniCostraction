@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-21T20:40:00.927+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53eba663e4b0edf73d20e4f0
+  id: 53eba663e4b0edf73d20e4f0
+  image: https://profiles.onshape.com/7c75d99f05ae06347032c181d13378d95fddd22cf6afa934c367efb53858e1a3.png
+  name: Silas
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1f8d7f343e634c11a80d23ac/workspaces/9f0529217fae46dda7ff2978
+  id: 9f0529217fae46dda7ff2978
+  name: Where dad can play around
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1f8d7f343e634c11a80d23ac
+id: 1f8d7f343e634c11a80d23ac
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-03-26T22:30:03.123+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5544a7e8e4b0b6c175df4500
+  id: 5544a7e8e4b0b6c175df4500
+  image: https://profiles.onshape.com/54efc2e3e5494934702018837b49198d222ad9c22fc78873effad01223af3670.png
+  name: Silas Hughes
+  state: 1
+name: LED Light Fixture
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5544a7e8e4b0b6c175df4500
+  id: 5544a7e8e4b0b6c175df4500
+  image: https://profiles.onshape.com/54efc2e3e5494934702018837b49198d222ad9c22fc78873effad01223af3670.png
+  name: Silas Hughes
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

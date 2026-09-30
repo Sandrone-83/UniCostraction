@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-19T16:35:15.452+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdbde2e4b0c0916a29811c
+  id: 54fdbde2e4b0c0916a29811c
+  image: /images/placeholder-user.png
+  name: paul fox
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c756b190509145269ffbcd8a/workspaces/ee326bbfec2946e6a1144ade
+  id: ee326bbfec2946e6a1144ade
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c756b190509145269ffbcd8a
+id: c756b190509145269ffbcd8a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-07T01:02:48.593+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdbde2e4b0c0916a29811c
+  id: 54fdbde2e4b0c0916a29811c
+  image: /images/placeholder-user.png
+  name: paul fox
+  state: 1
+name: oxford switchplate
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdbde2e4b0c0916a29811c
+  id: 54fdbde2e4b0c0916a29811c
+  image: /images/placeholder-user.png
+  name: paul fox
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c756b190509145269ffbcd8a/w/ee326bbfec2946e6a1144ade?t=1459991005886
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c756b190509145269ffbcd8a/w/ee326bbfec2946e6a1144ade/s/300x300?t=1459991005886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c756b190509145269ffbcd8a/w/ee326bbfec2946e6a1144ade/s/600x340?t=1459991005886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c756b190509145269ffbcd8a/w/ee326bbfec2946e6a1144ade/s/70x40?t=1459991005886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c756b190509145269ffbcd8a/w/ee326bbfec2946e6a1144ade/s/300x170?t=1459991005886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

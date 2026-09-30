@@ -1,0 +1,15 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "libredwg/2018/LiveSection1.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 14, "entity_histogram": {"LINE": 5, "POINT": 3, "SOLID": 2, "MTEXT": 1, "LWPOLYLINE": 1, "TEXT": 1, "DIMENSION": 1}, "n_layers": 0, "layers": [], "n_block_defs": 4, "bbox": [[7.118, 30.841], [6.954, 32.247]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 11.6760166778477, "y1": 31.02754550703339, "x2": 11.82078428934928, "y2": 31.935022051796}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 9.71980854968763, "y1": 31.33961481609504, "x2": 9.864576161189213, "y2": 32.24709136085765}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 11.61467547261803, "y1": 31.7856260824205, "x2": 11.27021738958591, "y2": 31.84057667506201}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0139721305647, "y1": 32.04098254412639, "x2": 10.35843021359682, "y2": 31.98603195148488}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;1.9809", "x": 10.81432380159137, "y": 31.91330431327345, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 11.66617069740399, "y": 30.96582592611208}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 9.70996256924392, "y": 31.27789523517374}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 9.836219737511332, "y": 32.06933896780427}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 8, "closed": true, "bbox": [[7.117534315149462, 30.84095921633771], [11.89645561227178, 26.45887686671366]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 14.02991512351477, "y1": 6.95425112892047, "x2": 23.42940697423184, "y2": 22.94757273443976}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "txt1", "x": 10.793295551469, "y": 29.82919774747129, "h": 0.489102799534098}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 9.836219737511332, "y": 32.06933896780427}

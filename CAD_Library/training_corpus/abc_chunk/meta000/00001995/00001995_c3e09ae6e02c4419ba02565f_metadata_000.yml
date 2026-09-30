@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-24T16:40:17.545+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fddc12e4b0c0916a298393
+  id: 54fddc12e4b0c0916a298393
+  image: /images/placeholder-user.png
+  name: Kirk Benson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c3e09ae6e02c4419ba02565f/workspaces/fa1e5b3decf94da4a43b25e4
+  id: fa1e5b3decf94da4a43b25e4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c3e09ae6e02c4419ba02565f
+id: c3e09ae6e02c4419ba02565f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-29T19:02:25.940+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fddc12e4b0c0916a298393
+  id: 54fddc12e4b0c0916a298393
+  image: /images/placeholder-user.png
+  name: Kirk Benson
+  state: 1
+name: Mem Corliss Engine
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fddc12e4b0c0916a298393
+  id: 54fddc12e4b0c0916a298393
+  image: /images/placeholder-user.png
+  name: Kirk Benson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c3e09ae6e02c4419ba02565f/w/fa1e5b3decf94da4a43b25e4?t=1430334157703
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c3e09ae6e02c4419ba02565f/w/fa1e5b3decf94da4a43b25e4/s/300x300?t=1430334157703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c3e09ae6e02c4419ba02565f/w/fa1e5b3decf94da4a43b25e4/s/70x40?t=1430334157703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c3e09ae6e02c4419ba02565f/w/fa1e5b3decf94da4a43b25e4/s/600x340?t=1430334157703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c3e09ae6e02c4419ba02565f/w/fa1e5b3decf94da4a43b25e4/s/300x170?t=1430334157703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

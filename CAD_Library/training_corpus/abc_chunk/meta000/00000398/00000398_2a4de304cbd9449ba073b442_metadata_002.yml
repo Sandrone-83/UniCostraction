@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-16T02:20:30.130+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e12222e4b0446815e1adf1
+  id: 53e12222e4b0446815e1adf1
+  image: https://profiles.onshape.com/b12c3f6e1cf7a5e8a4e462d1d35e905d360ced7b4e47523bf81f8e01a819aba1.png
+  name: Ben
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2a4de304cbd9449ba073b442/workspaces/dd60b0d4d2414a38b4806b75
+  id: dd60b0d4d2414a38b4806b75
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2a4de304cbd9449ba073b442
+id: 2a4de304cbd9449ba073b442
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-11-30T22:20:09.789+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e12222e4b0446815e1adf1
+  id: 53e12222e4b0446815e1adf1
+  image: https://profiles.onshape.com/b12c3f6e1cf7a5e8a4e462d1d35e905d360ced7b4e47523bf81f8e01a819aba1.png
+  name: Ben
+  state: 1
+name: Jinx Prop (MOTW)
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e12222e4b0446815e1adf1
+  id: 53e12222e4b0446815e1adf1
+  image: https://profiles.onshape.com/b12c3f6e1cf7a5e8a4e462d1d35e905d360ced7b4e47523bf81f8e01a819aba1.png
+  name: Ben
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2a4de304cbd9449ba073b442/w/dd60b0d4d2414a38b4806b75?t=1417385678860
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2a4de304cbd9449ba073b442/w/dd60b0d4d2414a38b4806b75/s/300x170?t=1417385678860
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2a4de304cbd9449ba073b442/w/dd60b0d4d2414a38b4806b75/s/70x40?t=1417385678860
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2a4de304cbd9449ba073b442/w/dd60b0d4d2414a38b4806b75/s/600x340?t=1417385678860
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

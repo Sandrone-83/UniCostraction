@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-05T20:23:08.967+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54b9ac06e4b0d3042fce9f1e
+  id: 54b9ac06e4b0d3042fce9f1e
+  image: /images/placeholder-user.png
+  name: Yong Suh
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ee78e0a2efef4b598e976993/workspaces/ac1c665727284163a861b495
+  id: ac1c665727284163a861b495
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ee78e0a2efef4b598e976993
+id: ee78e0a2efef4b598e976993
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-04-23T04:44:45.880+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54b9ac06e4b0d3042fce9f1e
+  id: 54b9ac06e4b0d3042fce9f1e
+  image: /images/placeholder-user.png
+  name: Yong Suh
+  state: 1
+name: Eccentric-Reciprocating
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54b9ac06e4b0d3042fce9f1e
+  id: 54b9ac06e4b0d3042fce9f1e
+  image: /images/placeholder-user.png
+  name: Yong Suh
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ee78e0a2efef4b598e976993/w/ac1c665727284163a861b495?t=1478928187837
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ee78e0a2efef4b598e976993/w/ac1c665727284163a861b495/s/600x340?t=1478928187837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ee78e0a2efef4b598e976993/w/ac1c665727284163a861b495/s/70x40?t=1478928187837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ee78e0a2efef4b598e976993/w/ac1c665727284163a861b495/s/300x170?t=1478928187837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ee78e0a2efef4b598e976993/w/ac1c665727284163a861b495/s/300x300?t=1478928187837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

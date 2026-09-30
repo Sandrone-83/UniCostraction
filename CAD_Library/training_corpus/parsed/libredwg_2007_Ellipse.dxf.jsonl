@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Ellipse.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"ELLIPSE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-8.751, 11.143], [-8.035, 9.537]]}
+{"kind": "entity", "type": "ELLIPSE", "layer": "0", "cx": 11.14325882289372, "cy": 9.537395074421863, "ax": -8.75080174866065, "ay": -8.034650640524557, "ratio": 0.3361089664484748}

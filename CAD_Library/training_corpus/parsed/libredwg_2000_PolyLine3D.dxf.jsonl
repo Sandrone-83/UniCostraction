@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "libredwg/2000/PolyLine3D.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"POLYLINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[0.0, 0.0], [0.0, 0.0]]}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}

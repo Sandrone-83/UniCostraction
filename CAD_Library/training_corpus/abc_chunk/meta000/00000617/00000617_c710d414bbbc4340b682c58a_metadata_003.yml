@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-26T06:19:41.395+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54bf00aae4b0d3042fcea63e
+  id: 54bf00aae4b0d3042fcea63e
+  image: /images/placeholder-user.png
+  name: Hyrum Fairbanks
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c710d414bbbc4340b682c58a/workspaces/2b0a913d0b7d4500bf24ef83
+  id: 2b0a913d0b7d4500bf24ef83
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c710d414bbbc4340b682c58a
+id: c710d414bbbc4340b682c58a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-02-18T23:54:31.173+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54bf00aae4b0d3042fcea63e
+  id: 54bf00aae4b0d3042fcea63e
+  image: /images/placeholder-user.png
+  name: Hyrum Fairbanks
+  state: 1
+name: Dragoon
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54bf00aae4b0d3042fcea63e
+  id: 54bf00aae4b0d3042fcea63e
+  image: /images/placeholder-user.png
+  name: Hyrum Fairbanks
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c710d414bbbc4340b682c58a/w/2b0a913d0b7d4500bf24ef83?t=1424303678566
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c710d414bbbc4340b682c58a/w/2b0a913d0b7d4500bf24ef83/s/300x170?t=1424303678566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c710d414bbbc4340b682c58a/w/2b0a913d0b7d4500bf24ef83/s/300x300?t=1424303678566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c710d414bbbc4340b682c58a/w/2b0a913d0b7d4500bf24ef83/s/600x340?t=1424303678566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c710d414bbbc4340b682c58a/w/2b0a913d0b7d4500bf24ef83/s/70x40?t=1424303678566
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

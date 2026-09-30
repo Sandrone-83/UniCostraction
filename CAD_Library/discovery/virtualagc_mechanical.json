@@ -1,0 +1,453 @@
+{
+  "sha": "d6276630d9e533a47f5153e90dd85a1c43e9008c",
+  "url": "https://api.github.com/repos/virtualagc/virtualagc/git/trees/d6276630d9e533a47f5153e90dd85a1c43e9008c",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ef3e1f55affcdfd12f9de5a67fa717626fe1196",
+      "size": 1358,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/3ef3e1f55affcdfd12f9de5a67fa717626fe1196"
+    },
+    {
+      "path": "2D-CAD",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f49c79b35aeda5eaddb005623f0411e6b3102362",
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/trees/f49c79b35aeda5eaddb005623f0411e6b3102362"
+    },
+    {
+      "path": "2D-CAD/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d10223744bafc6818acfc7def6b1361467baa8fe",
+      "size": 108,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/d10223744bafc6818acfc7def6b1361467baa8fe"
+    },
+    {
+      "path": "3D-models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2420de4acf85d25e74399a3f97c93679e9192eec",
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/trees/2420de4acf85d25e74399a3f97c93679e9192eec"
+    },
+    {
+      "path": "3D-models/1006315A.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3da020aef700b616cc75162933e8e2781e3b96c5",
+      "size": 564,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/3da020aef700b616cc75162933e8e2781e3b96c5"
+    },
+    {
+      "path": "3D-models/1006315A.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21f219b41aa55e2f5838594863d8d12f256c8836",
+      "size": 385012,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/21f219b41aa55e2f5838594863d8d12f256c8836"
+    },
+    {
+      "path": "3D-models/1006315G-NonFunctionalDimensionalModel.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e1389fa317f7761be4f4d0b8703de15d23163e1",
+      "size": 859,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/8e1389fa317f7761be4f4d0b8703de15d23163e1"
+    },
+    {
+      "path": "3D-models/1006315G-NonFunctionalDimensionalModel.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f015a6a719fa789de7eb2b313ea8569f7dc3a86f",
+      "size": 195801,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/f015a6a719fa789de7eb2b313ea8569f7dc3a86f"
+    },
+    {
+      "path": "3D-models/1006340C.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f74f105df97991cc53258f2d445ad3510e340927",
+      "size": 609,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/f74f105df97991cc53258f2d445ad3510e340927"
+    },
+    {
+      "path": "3D-models/1006340C.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78229077d440e2da93acd1c072a9b3e2f4773f96",
+      "size": 45061,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/78229077d440e2da93acd1c072a9b3e2f4773f96"
+    },
+    {
+      "path": "3D-models/1006349-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62d920bcc6645c45fbbcf1ebc45364450a975afe",
+      "size": 586,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/62d920bcc6645c45fbbcf1ebc45364450a975afe"
+    },
+    {
+      "path": "3D-models/1006349-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bbda128fc2c1cc6caf39b0c275fee1844c68d1e",
+      "size": 271817,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/0bbda128fc2c1cc6caf39b0c275fee1844c68d1e"
+    },
+    {
+      "path": "3D-models/1006350-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8038ad60cdf265954420a0ee6298fa53d69ef282",
+      "size": 868,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/8038ad60cdf265954420a0ee6298fa53d69ef282"
+    },
+    {
+      "path": "3D-models/1006350-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b2f2e217eff0667774799d3b18cc9449887718f",
+      "size": 223603,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/9b2f2e217eff0667774799d3b18cc9449887718f"
+    },
+    {
+      "path": "3D-models/1006387D-NonFunctionalDimensionalModel.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e1389fa317f7761be4f4d0b8703de15d23163e1",
+      "size": 859,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/8e1389fa317f7761be4f4d0b8703de15d23163e1"
+    },
+    {
+      "path": "3D-models/1006387D-NonFunctionalDimensionalModel.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69c8aa5594ae043923cd106c887593c951baacb6",
+      "size": 291840,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/69c8aa5594ae043923cd106c887593c951baacb6"
+    },
+    {
+      "path": "3D-models/1010901B-NonFunctionalDimensionalModel.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6878f769d4f21e318cdb124b472e73a63db29e67",
+      "size": 707,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/6878f769d4f21e318cdb124b472e73a63db29e67"
+    },
+    {
+      "path": "3D-models/1010901B-NonFunctionalDimensionalModel.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd98403dc3f79f35b88d2761a259aa667f4871ce",
+      "size": 110062,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/bd98403dc3f79f35b88d2761a259aa667f4871ce"
+    },
+    {
+      "path": "3D-models/1014293-4.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ab6c4ef6fb941ad386b15c3f814eac1c59f75c5",
+      "size": 457,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/8ab6c4ef6fb941ad386b15c3f814eac1c59f75c5"
+    },
+    {
+      "path": "3D-models/1014293-4.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b672884f54e3340294e5e07f40af199907f110bf",
+      "size": 101217,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/b672884f54e3340294e5e07f40af199907f110bf"
+    },
+    {
+      "path": "3D-models/2004699A-000.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c13bf4ea3b615a9e339868d4db192aeae76e26",
+      "size": 543,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/09c13bf4ea3b615a9e339868d4db192aeae76e26"
+    },
+    {
+      "path": "3D-models/2004699A-000.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59d7015378bd6c48be3fa007ab0ede067463173a",
+      "size": 240183,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/59d7015378bd6c48be3fa007ab0ede067463173a"
+    },
+    {
+      "path": "3D-models/2004699A-001.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4dbb5f402289094efd48e8e2f998cc87ad820f9",
+      "size": 701,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/a4dbb5f402289094efd48e8e2f998cc87ad820f9"
+    },
+    {
+      "path": "3D-models/2004699A-001.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3482243aa5d9eec28e3234ff1e0715e931e43848",
+      "size": 234764,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/3482243aa5d9eec28e3234ff1e0715e931e43848"
+    },
+    {
+      "path": "3D-models/2004705A.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b72cec46301a0d409a10216773d33148adb21f29",
+      "size": 727,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/b72cec46301a0d409a10216773d33148adb21f29"
+    },
+    {
+      "path": "3D-models/2004705A.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9e31e2ab698a35353de176171f7dfc1c0928bf1",
+      "size": 6388621,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/a9e31e2ab698a35353de176171f7dfc1c0928bf1"
+    },
+    {
+      "path": "3D-models/2004739A-000.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28773969490dc0f632e237120f852671f7d0f01b",
+      "size": 872,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/28773969490dc0f632e237120f852671f7d0f01b"
+    },
+    {
+      "path": "3D-models/2004739A-000.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc831229cbcd76a7d2450605b3c112a91b24927c",
+      "size": 1221008,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/dc831229cbcd76a7d2450605b3c112a91b24927c"
+    },
+    {
+      "path": "3D-models/2004739A-021.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbc6df3d577de24a91ebc73ef920f45a293db4c7",
+      "size": 999,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/dbc6df3d577de24a91ebc73ef920f45a293db4c7"
+    },
+    {
+      "path": "3D-models/2004739A-021.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b07d719b6db8360683c203561a0875d804ee9f7",
+      "size": 1214907,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/7b07d719b6db8360683c203561a0875d804ee9f7"
+    },
+    {
+      "path": "3D-models/2004900A.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd275143a66c220aa0f511f8c51dada9674f48fb",
+      "size": 706,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/fd275143a66c220aa0f511f8c51dada9674f48fb"
+    },
+    {
+      "path": "3D-models/2004900A.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2134fd5bd39a5bf343777fc72fd40e0737c2a83",
+      "size": 962366,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/c2134fd5bd39a5bf343777fc72fd40e0737c2a83"
+    },
+    {
+      "path": "3D-models/2004919E.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d4ab1e92ecf5fc754e36c08263375f9dc1ac6bb",
+      "size": 617,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/3d4ab1e92ecf5fc754e36c08263375f9dc1ac6bb"
+    },
+    {
+      "path": "3D-models/2004919E.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29cffa42732704128ced3f49723852e98e516562",
+      "size": 1719963,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/29cffa42732704128ced3f49723852e98e516562"
+    },
+    {
+      "path": "3D-models/2004920-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7f58bb11255d0b58097679bcc2256388229ea57",
+      "size": 629,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/f7f58bb11255d0b58097679bcc2256388229ea57"
+    },
+    {
+      "path": "3D-models/2004920-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f8954dd65846ec4b2b0934b721129b6eb837d5e",
+      "size": 978595,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/5f8954dd65846ec4b2b0934b721129b6eb837d5e"
+    },
+    {
+      "path": "3D-models/2004921A.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a289e78414201df40e0116709f9c2c86487edc4",
+      "size": 631,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/2a289e78414201df40e0116709f9c2c86487edc4"
+    },
+    {
+      "path": "3D-models/2004921A.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd3f565989c336c51408f995495dad536db9e733",
+      "size": 222610,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/bd3f565989c336c51408f995495dad536db9e733"
+    },
+    {
+      "path": "3D-models/2004929-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "050e0f28fe5497608a9e692e44c15b9564edda00",
+      "size": 780,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/050e0f28fe5497608a9e692e44c15b9564edda00"
+    },
+    {
+      "path": "3D-models/2004929-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55dbe40987a919b0b8901e53b6f72fc54167025f",
+      "size": 1136337,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/55dbe40987a919b0b8901e53b6f72fc54167025f"
+    },
+    {
+      "path": "3D-models/2004941B.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58a932b7e20f355eedbd30bd05579480a5ab852a",
+      "size": 538,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/58a932b7e20f355eedbd30bd05579480a5ab852a"
+    },
+    {
+      "path": "3D-models/2004941B.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28d6d5a6368a48610772998357c09ff929dfde3e",
+      "size": 151029,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/28d6d5a6368a48610772998357c09ff929dfde3e"
+    },
+    {
+      "path": "3D-models/2004948-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcc299ced23f5d8b022258e7c9a07634d3283bb1",
+      "size": 459,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/fcc299ced23f5d8b022258e7c9a07634d3283bb1"
+    },
+    {
+      "path": "3D-models/2004948-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10f2f483ec334b1dd6ae0b2f6ac9c3a5d1fb626e",
+      "size": 107261,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/10f2f483ec334b1dd6ae0b2f6ac9c3a5d1fb626e"
+    },
+    {
+      "path": "3D-models/2004949-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d60baee9b7a698966d6449440171bd223b52f4dc",
+      "size": 551,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/d60baee9b7a698966d6449440171bd223b52f4dc"
+    },
+    {
+      "path": "3D-models/2004949-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d5005b3b4a17c136a009e801fced270ad204fdb",
+      "size": 166729,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/9d5005b3b4a17c136a009e801fced270ad204fdb"
+    },
+    {
+      "path": "3D-models/2004963-.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd789199fccef1df149212dc11de6680aaaa5594",
+      "size": 538,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/bd789199fccef1df149212dc11de6680aaaa5594"
+    },
+    {
+      "path": "3D-models/2004963-.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "653322ce099fb656e70bbae3f5bf4ac7fe04dfd8",
+      "size": 73681,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/653322ce099fb656e70bbae3f5bf4ac7fe04dfd8"
+    },
+    {
+      "path": "3D-models/2004968E.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c409396144181e6576453654fa3fffff4bfc534",
+      "size": 720,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/1c409396144181e6576453654fa3fffff4bfc534"
+    },
+    {
+      "path": "3D-models/2004968E.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2052a787ff775928ff3ee5cd3c9ee01de9e838f",
+      "size": 1242906,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/b2052a787ff775928ff3ee5cd3c9ee01de9e838f"
+    },
+    {
+      "path": "3D-models/2014009-FromPhotographicEvidence.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc518f85231b174cce3b0d3ede684968388ded02",
+      "size": 622,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/bc518f85231b174cce3b0d3ede684968388ded02"
+    },
+    {
+      "path": "3D-models/2014009-FromPhotographicEvidence.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b619766b46f9a81d711a3cff555aadc819907f92",
+      "size": 99086,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/b619766b46f9a81d711a3cff555aadc819907f92"
+    },
+    {
+      "path": "3D-models/2014012-FromPhotographicEvidence.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc518f85231b174cce3b0d3ede684968388ded02",
+      "size": 622,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/bc518f85231b174cce3b0d3ede684968388ded02"
+    },
+    {
+      "path": "3D-models/2014012-FromPhotographicEvidence.stp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd5af53f0a65cff31961669d803862089afa1826",
+      "size": 235213,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/bd5af53f0a65cff31961669d803862089afa1826"
+    },
+    {
+      "path": "3D-models/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56ad2b946c5b05002d161ad602f3672f35aaac30",
+      "size": 105,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/56ad2b946c5b05002d161ad602f3672f35aaac30"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2e33e1b8ef59707c382b06ed430dfe28ba445a8",
+      "size": 5049,
+      "url": "https://api.github.com/repos/virtualagc/virtualagc/git/blobs/c2e33e1b8ef59707c382b06ed430dfe28ba445a8"
+    }
+  ],
+  "truncated": false
+}

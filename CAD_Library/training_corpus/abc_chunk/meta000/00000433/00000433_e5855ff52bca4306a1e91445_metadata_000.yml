@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-04T14:33:15.845+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e26e19e4b0edf73d20d3b8
+  id: 53e26e19e4b0edf73d20d3b8
+  image: https://profiles.onshape.com/834667b784e7ee5e99d3b9eaedb3256a61efc3b866673953ab73aa9be6defffd.png
+  name: Julian Leland Bell
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e5855ff52bca4306a1e91445/workspaces/991e9886bcad4d1caa629690
+  id: 991e9886bcad4d1caa629690
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e5855ff52bca4306a1e91445
+id: e5855ff52bca4306a1e91445
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-03T21:39:34.799+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e26e19e4b0edf73d20d3b8
+  id: 53e26e19e4b0edf73d20d3b8
+  image: https://profiles.onshape.com/834667b784e7ee5e99d3b9eaedb3256a61efc3b866673953ab73aa9be6defffd.png
+  name: Julian Leland Bell
+  state: 1
+name: Dashboard iPhone Mount
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e26e19e4b0edf73d20d3b8
+  id: 53e26e19e4b0edf73d20d3b8
+  image: https://profiles.onshape.com/834667b784e7ee5e99d3b9eaedb3256a61efc3b866673953ab73aa9be6defffd.png
+  name: Julian Leland Bell
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e5855ff52bca4306a1e91445/w/991e9886bcad4d1caa629690?t=1425418762903
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e5855ff52bca4306a1e91445/w/991e9886bcad4d1caa629690/s/600x340?t=1425418762903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e5855ff52bca4306a1e91445/w/991e9886bcad4d1caa629690/s/70x40?t=1425418762903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e5855ff52bca4306a1e91445/w/991e9886bcad4d1caa629690/s/300x170?t=1425418762903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e5855ff52bca4306a1e91445/w/991e9886bcad4d1caa629690/s/300x300?t=1425418762903
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-19T23:14:09.973+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550afcdde4b04fee2ee4c693
+  id: 550afcdde4b04fee2ee4c693
+  image: /images/placeholder-user.png
+  name: Michael
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5f8139f54fcd4664a477684d/workspaces/5ca4ac33af5d423587ba73bd
+  id: 5ca4ac33af5d423587ba73bd
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5f8139f54fcd4664a477684d
+id: 5f8139f54fcd4664a477684d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-07T21:49:14.094+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550afcdde4b04fee2ee4c693
+  id: 550afcdde4b04fee2ee4c693
+  image: /images/placeholder-user.png
+  name: Michael
+  state: 1
+name: C Channel Bracket 1/4"-20
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550afcdde4b04fee2ee4c693
+  id: 550afcdde4b04fee2ee4c693
+  image: /images/placeholder-user.png
+  name: Michael
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5f8139f54fcd4664a477684d/w/5ca4ac33af5d423587ba73bd?t=1426807934709
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5f8139f54fcd4664a477684d/w/5ca4ac33af5d423587ba73bd/s/600x340?t=1426807934709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5f8139f54fcd4664a477684d/w/5ca4ac33af5d423587ba73bd/s/70x40?t=1426807934709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5f8139f54fcd4664a477684d/w/5ca4ac33af5d423587ba73bd/s/300x170?t=1426807934709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5f8139f54fcd4664a477684d/w/5ca4ac33af5d423587ba73bd/s/300x300?t=1426807934709
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

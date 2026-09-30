@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-29T05:26:50.487+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe2dc7e4b04a9735f91e94
+  id: 54fe2dc7e4b04a9735f91e94
+  image: /images/placeholder-user.png
+  name: Steve Ranta
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/95d2702aa6c14f0b90f711ca/workspaces/8538b2385ace4c3ab75a6463
+  id: 8538b2385ace4c3ab75a6463
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/95d2702aa6c14f0b90f711ca
+id: 95d2702aa6c14f0b90f711ca
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-10T21:29:09.918+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe2dc7e4b04a9735f91e94
+  id: 54fe2dc7e4b04a9735f91e94
+  image: /images/placeholder-user.png
+  name: Steve Ranta
+  state: 1
+name: 3D Body Scanner Assembly
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe2dc7e4b04a9735f91e94
+  id: 54fe2dc7e4b04a9735f91e94
+  image: /images/placeholder-user.png
+  name: Steve Ranta
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/95d2702aa6c14f0b90f711ca/w/8538b2385ace4c3ab75a6463?t=1430286199444
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/95d2702aa6c14f0b90f711ca/w/8538b2385ace4c3ab75a6463/s/300x300?t=1430286199444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/95d2702aa6c14f0b90f711ca/w/8538b2385ace4c3ab75a6463/s/600x340?t=1430286199444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/95d2702aa6c14f0b90f711ca/w/8538b2385ace4c3ab75a6463/s/70x40?t=1430286199444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/95d2702aa6c14f0b90f711ca/w/8538b2385ace4c3ab75a6463/s/300x170?t=1430286199444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

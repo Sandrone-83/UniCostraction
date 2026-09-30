@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-05T13:16:13.310+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54b69c02e4b083646069b305
+  id: 54b69c02e4b083646069b305
+  image: /images/placeholder-user.png
+  name: Mike Apostol
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c5b2027813d645fb8e1f9813/workspaces/7e08b88fb62344f39365de43
+  id: 7e08b88fb62344f39365de43
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c5b2027813d645fb8e1f9813
+id: c5b2027813d645fb8e1f9813
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-01-06T15:50:01.858+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54b69c02e4b083646069b305
+  id: 54b69c02e4b083646069b305
+  image: /images/placeholder-user.png
+  name: Mike Apostol
+  state: 1
+name: Chinese Pavilion - Miniature
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54b69c02e4b083646069b305
+  id: 54b69c02e4b083646069b305
+  image: /images/placeholder-user.png
+  name: Mike Apostol
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c5b2027813d645fb8e1f9813/w/7e08b88fb62344f39365de43?t=1452095414367
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c5b2027813d645fb8e1f9813/w/7e08b88fb62344f39365de43/s/600x340?t=1452095414367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c5b2027813d645fb8e1f9813/w/7e08b88fb62344f39365de43/s/300x300?t=1452095414367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c5b2027813d645fb8e1f9813/w/7e08b88fb62344f39365de43/s/70x40?t=1452095414367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c5b2027813d645fb8e1f9813/w/7e08b88fb62344f39365de43/s/300x170?t=1452095414367
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

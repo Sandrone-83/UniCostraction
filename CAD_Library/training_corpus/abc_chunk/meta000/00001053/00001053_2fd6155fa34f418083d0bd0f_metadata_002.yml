@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T23:07:54.458+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe22e4e4b0c0916a298673
+  id: 54fe22e4e4b0c0916a298673
+  image: /images/placeholder-user.png
+  name: John Pierro
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2fd6155fa34f418083d0bd0f/workspaces/b60b093adc084f4d8a539481
+  id: b60b093adc084f4d8a539481
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2fd6155fa34f418083d0bd0f
+id: 2fd6155fa34f418083d0bd0f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-05-25T15:17:14.042+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe22e4e4b0c0916a298673
+  id: 54fe22e4e4b0c0916a298673
+  image: /images/placeholder-user.png
+  name: John Pierro
+  state: 1
+name: iPad Stand
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe22e4e4b0c0916a298673
+  id: 54fe22e4e4b0c0916a298673
+  image: /images/placeholder-user.png
+  name: John Pierro
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2fd6155fa34f418083d0bd0f/w/b60b093adc084f4d8a539481?t=1495725242113
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd6155fa34f418083d0bd0f/w/b60b093adc084f4d8a539481/s/300x300?t=1495725242113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd6155fa34f418083d0bd0f/w/b60b093adc084f4d8a539481/s/300x170?t=1495725242113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd6155fa34f418083d0bd0f/w/b60b093adc084f4d8a539481/s/600x340?t=1495725242113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2fd6155fa34f418083d0bd0f/w/b60b093adc084f4d8a539481/s/70x40?t=1495725242113
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

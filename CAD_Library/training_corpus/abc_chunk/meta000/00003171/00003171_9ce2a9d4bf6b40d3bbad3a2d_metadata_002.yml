@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-15T08:52:49.222+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552cafb5e4b0fa9371ddd185
+  id: 552cafb5e4b0fa9371ddd185
+  image: /images/placeholder-user.png
+  name: Nicolai
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9ce2a9d4bf6b40d3bbad3a2d/workspaces/03de99b1f6074059b8942b58
+  id: 03de99b1f6074059b8942b58
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9ce2a9d4bf6b40d3bbad3a2d
+id: 9ce2a9d4bf6b40d3bbad3a2d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-14T06:54:12.543+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552cafb5e4b0fa9371ddd185
+  id: 552cafb5e4b0fa9371ddd185
+  image: /images/placeholder-user.png
+  name: Nicolai
+  state: 1
+name: 3D printer design with UM2 import
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552cafb5e4b0fa9371ddd185
+  id: 552cafb5e4b0fa9371ddd185
+  image: /images/placeholder-user.png
+  name: Nicolai
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9ce2a9d4bf6b40d3bbad3a2d/w/03de99b1f6074059b8942b58?t=1439309949706
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9ce2a9d4bf6b40d3bbad3a2d/w/03de99b1f6074059b8942b58/s/300x300?t=1439309949706
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9ce2a9d4bf6b40d3bbad3a2d/w/03de99b1f6074059b8942b58/s/600x340?t=1439309949706
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9ce2a9d4bf6b40d3bbad3a2d/w/03de99b1f6074059b8942b58/s/300x170?t=1439309949706
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9ce2a9d4bf6b40d3bbad3a2d/w/03de99b1f6074059b8942b58/s/70x40?t=1439309949706
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

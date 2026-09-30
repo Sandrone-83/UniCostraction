@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-09T13:43:54.704+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5459a053e4b0a9b27af36f58
+  id: 5459a053e4b0a9b27af36f58
+  image: /images/placeholder-user.png
+  name: Kriss Motors
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c9400dcd7ae9428caffe2204/workspaces/93d6decc193e4fd1831915e6
+  id: 93d6decc193e4fd1831915e6
+  name: Alpine iXL-007 install
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c9400dcd7ae9428caffe2204
+id: c9400dcd7ae9428caffe2204
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-10-25T20:07:45.669+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5459a053e4b0a9b27af36f58
+  id: 5459a053e4b0a9b27af36f58
+  image: /images/placeholder-user.png
+  name: Kriss Motors
+  state: 1
+name: Jaguar Mk2 radio panel modification for 2DIN head unit
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5459a053e4b0a9b27af36f58
+  id: 5459a053e4b0a9b27af36f58
+  image: /images/placeholder-user.png
+  name: Kriss Motors
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c9400dcd7ae9428caffe2204/w/93d6decc193e4fd1831915e6?t=1435496948262
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c9400dcd7ae9428caffe2204/w/93d6decc193e4fd1831915e6/s/300x170?t=1435496948262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c9400dcd7ae9428caffe2204/w/93d6decc193e4fd1831915e6/s/600x340?t=1435496948262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c9400dcd7ae9428caffe2204/w/93d6decc193e4fd1831915e6/s/70x40?t=1435496948262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c9400dcd7ae9428caffe2204/w/93d6decc193e4fd1831915e6/s/300x300?t=1435496948262
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

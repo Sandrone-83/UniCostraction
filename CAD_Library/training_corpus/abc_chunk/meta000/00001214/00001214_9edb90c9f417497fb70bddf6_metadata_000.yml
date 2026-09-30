@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-14T04:15:26.524+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501d2afe4b0120eedd95c03
+  id: 5501d2afe4b0120eedd95c03
+  image: /images/placeholder-user.png
+  name: Alex Hornstein
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9edb90c9f417497fb70bddf6/workspaces/64d87d8536b24f809372be5e
+  id: 64d87d8536b24f809372be5e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9edb90c9f417497fb70bddf6
+id: 9edb90c9f417497fb70bddf6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-14T04:16:43.816+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501d2afe4b0120eedd95c03
+  id: 5501d2afe4b0120eedd95c03
+  image: /images/placeholder-user.png
+  name: Alex Hornstein
+  state: 1
+name: Lower.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501d2afe4b0120eedd95c03
+  id: 5501d2afe4b0120eedd95c03
+  image: /images/placeholder-user.png
+  name: Alex Hornstein
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9edb90c9f417497fb70bddf6/w/64d87d8536b24f809372be5e?t=1426306529357
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9edb90c9f417497fb70bddf6/w/64d87d8536b24f809372be5e/s/300x170?t=1426306529357
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9edb90c9f417497fb70bddf6/w/64d87d8536b24f809372be5e/s/600x340?t=1426306529357
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9edb90c9f417497fb70bddf6/w/64d87d8536b24f809372be5e/s/70x40?t=1426306529357
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9edb90c9f417497fb70bddf6/w/64d87d8536b24f809372be5e/s/300x300?t=1426306529357
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

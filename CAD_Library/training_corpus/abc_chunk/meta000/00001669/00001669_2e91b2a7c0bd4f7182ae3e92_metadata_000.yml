@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-20T18:23:25.951+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff487ce4b02630a8453296
+  id: 54ff487ce4b02630a8453296
+  image: /images/placeholder-user.png
+  name: Steve Thone
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2e91b2a7c0bd4f7182ae3e92/workspaces/3691383439d24f8f99b47419
+  id: 3691383439d24f8f99b47419
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2e91b2a7c0bd4f7182ae3e92
+id: 2e91b2a7c0bd4f7182ae3e92
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-03-27T16:19:46.030+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff487ce4b02630a8453296
+  id: 54ff487ce4b02630a8453296
+  image: /images/placeholder-user.png
+  name: Steve Thone
+  state: 1
+name: Rov Manipulator
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff487ce4b02630a8453296
+  id: 54ff487ce4b02630a8453296
+  image: /images/placeholder-user.png
+  name: Steve Thone
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2e91b2a7c0bd4f7182ae3e92/w/3691383439d24f8f99b47419?t=1522167588400
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2e91b2a7c0bd4f7182ae3e92/w/3691383439d24f8f99b47419/s/300x170?t=1522167588400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2e91b2a7c0bd4f7182ae3e92/w/3691383439d24f8f99b47419/s/600x340?t=1522167588400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2e91b2a7c0bd4f7182ae3e92/w/3691383439d24f8f99b47419/s/300x300?t=1522167588400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2e91b2a7c0bd4f7182ae3e92/w/3691383439d24f8f99b47419/s/70x40?t=1522167588400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

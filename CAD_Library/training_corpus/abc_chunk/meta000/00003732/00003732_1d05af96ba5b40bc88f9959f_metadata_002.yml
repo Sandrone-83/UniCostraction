@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2015-04-28T15:11:17.588+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551ab60de4b09d14745933e0
+  id: 551ab60de4b09d14745933e0
+  image: https://profiles.onshape.com/a7112a670de1b5e17ebecfc42d56ea2a9c8929fc8eb243f954a2cbfcd99169d8.png
+  name: mmemetea
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1d05af96ba5b40bc88f9959f/workspaces/3eb1b86cf5b14f96ae9c5745
+  id: 3eb1b86cf5b14f96ae9c5745
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1d05af96ba5b40bc88f9959f
+id: 1d05af96ba5b40bc88f9959f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2018-04-26T10:15:29.564+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551ab60de4b09d14745933e0
+  id: 551ab60de4b09d14745933e0
+  image: https://profiles.onshape.com/a7112a670de1b5e17ebecfc42d56ea2a9c8929fc8eb243f954a2cbfcd99169d8.png
+  name: mmemetea
+  state: 1
+name: Prusa i3 Hephestos Mods
+notRevisionManaged: false
+numberOfTimesCopied: 9
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551ab60de4b09d14745933e0
+  id: 551ab60de4b09d14745933e0
+  image: https://profiles.onshape.com/a7112a670de1b5e17ebecfc42d56ea2a9c8929fc8eb243f954a2cbfcd99169d8.png
+  name: mmemetea
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1d05af96ba5b40bc88f9959f/w/3eb1b86cf5b14f96ae9c5745?t=1458551661098
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1d05af96ba5b40bc88f9959f/w/3eb1b86cf5b14f96ae9c5745/s/70x40?t=1458551661098
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1d05af96ba5b40bc88f9959f/w/3eb1b86cf5b14f96ae9c5745/s/300x170?t=1458551661098
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1d05af96ba5b40bc88f9959f/w/3eb1b86cf5b14f96ae9c5745/s/300x300?t=1458551661098
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1d05af96ba5b40bc88f9959f/w/3eb1b86cf5b14f96ae9c5745/s/600x340?t=1458551661098
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

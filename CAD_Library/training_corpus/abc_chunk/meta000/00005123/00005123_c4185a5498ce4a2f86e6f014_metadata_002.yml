@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-17T14:31:01.216+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55317037e4b080d5b1d51ee7
+  id: 55317037e4b080d5b1d51ee7
+  image: /images/placeholder-user.png
+  name: George Djabarov
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c4185a5498ce4a2f86e6f014/workspaces/edbac3504510411785ef8496
+  id: edbac3504510411785ef8496
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c4185a5498ce4a2f86e6f014
+id: c4185a5498ce4a2f86e6f014
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-03T00:19:02.864+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55317037e4b080d5b1d51ee7
+  id: 55317037e4b080d5b1d51ee7
+  image: /images/placeholder-user.png
+  name: George Djabarov
+  state: 1
+name: Nexus 5 Holder
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55317037e4b080d5b1d51ee7
+  id: 55317037e4b080d5b1d51ee7
+  image: /images/placeholder-user.png
+  name: George Djabarov
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c4185a5498ce4a2f86e6f014/w/edbac3504510411785ef8496?t=1435734034886
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c4185a5498ce4a2f86e6f014/w/edbac3504510411785ef8496/s/70x40?t=1435734034886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c4185a5498ce4a2f86e6f014/w/edbac3504510411785ef8496/s/300x300?t=1435734034886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c4185a5498ce4a2f86e6f014/w/edbac3504510411785ef8496/s/300x170?t=1435734034886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c4185a5498ce4a2f86e6f014/w/edbac3504510411785ef8496/s/600x340?t=1435734034886
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

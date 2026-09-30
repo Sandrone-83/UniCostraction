@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-13T11:25:03.008+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fef7c0e4b02630a8453059
+  id: 54fef7c0e4b02630a8453059
+  image: /images/placeholder-user.png
+  name: tyson dabney
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4b65bb9a02f6494aa897a53e/workspaces/a839636a4ca944ee81e65918
+  id: a839636a4ca944ee81e65918
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4b65bb9a02f6494aa897a53e
+id: 4b65bb9a02f6494aa897a53e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-02-09T20:38:58.023+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fef7c0e4b02630a8453059
+  id: 54fef7c0e4b02630a8453059
+  image: /images/placeholder-user.png
+  name: tyson dabney
+  state: 1
+name: tank nozzle
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fef7c0e4b02630a8453059
+  id: 54fef7c0e4b02630a8453059
+  image: /images/placeholder-user.png
+  name: tyson dabney
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4b65bb9a02f6494aa897a53e/w/a839636a4ca944ee81e65918?t=1486671113984
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4b65bb9a02f6494aa897a53e/w/a839636a4ca944ee81e65918/s/300x170?t=1486671113984
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4b65bb9a02f6494aa897a53e/w/a839636a4ca944ee81e65918/s/600x340?t=1486671113984
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4b65bb9a02f6494aa897a53e/w/a839636a4ca944ee81e65918/s/300x300?t=1486671113984
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4b65bb9a02f6494aa897a53e/w/a839636a4ca944ee81e65918/s/70x40?t=1486671113984
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,65 @@
+{
+  "pack": "Coding_Master_Pack_2",
+  "generato_il": "2026-09-29",
+  "nota_licenza": "Tutto il contenuto e' sintesi didattica originale redatta da Kimi (Moonshot AI): concetti di ingegneria del software, DevOps, data/AI engineering e progetti pratici espressi con parole proprie. Nessun testo copiato da fonti protette. Uso commerciale libero.",
+  "fonti": [
+    {
+      "id": "DEVOPS-INFRASTRUTTURA",
+      "descrizione": "Docker e container, CI/CD e strategie di rilascio, Kubernetes e IaC, osservabilita' (metriche/log/tracing/allerte), cloud e gestione dei costi (FinOps)",
+      "file": "parsed/devops_infrastruttura.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "FRONTEND-MASTER",
+      "descrizione": "React/Next.js da senior, CSS moderno e design system, web performance (Core Web Vitals), accessibilita' WCAG, archetipi di progetti frontend (landing, dashboard, configuratore)",
+      "file": "parsed/frontend_master.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "DATA-AI-ENGINEERING",
+      "descrizione": "Pipeline dati ELT e qualita', data warehouse e modellazione a stella, machine learning engineering (ciclo di vita, errori), fine-tuning e valutazione LLM, LLMOps (produzione, costi, guardie)",
+      "file": "parsed/data_ai_engineering.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "RETE-SISTEMI",
+      "descrizione": "Networking per sviluppatori (TCP/DNS/TLS), HTTP avanzato e caching, transazioni e livelli di isolamento, replicazione/backup/DR, performance di sistema (profiling e metodo scientifico)",
+      "file": "parsed/rete_sistemi.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "CRAFT-AVANZATO",
+      "descrizione": "Lavorare su codice legacy (strangler fig), stime e pianificazione tecnica, espressioni regolari e parsing, shell scripting e automazione, lettura strategica del codice",
+      "file": "parsed/craft_avanzato.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "PROGETTI-GUIDATI",
+      "descrizione": "Cinque progetti completi con specifica, architettura e criterio di fine: CLI professionale, REST API produttiva, sistema RAG, chatbot con strumenti, mini-linguaggio per voci di computo",
+      "file": "parsed/progetti_guidati.jsonl",
+      "schede": 5,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    }
+  ],
+  "avvertenze": [
+    "Versioni di strumenti e piattaforme riferite al 2026: verificare documentazione ufficiale aggiornata",
+    "Soglie numeriche citate (budget di performance, costi cloud, soglie di latenza) sono prassi consolidate indicative"
+  ]
+}

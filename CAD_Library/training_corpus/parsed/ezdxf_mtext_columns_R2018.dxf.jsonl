@@ -1,0 +1,4 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "ezdxf/mtext_columns_R2018.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 3, "entity_histogram": {"MTEXT": 3}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 134.0], [0.0, 0.0]]}
+{"kind": "entity", "type": "MTEXT", "layer": "STATIC", "text": "m nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam", "x": 0.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "rem ipsum dolor sit amet.", "x": 67.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "rem ipsum dolor sit amet.", "x": 134.0, "y": 0.0, "h": 1.0}

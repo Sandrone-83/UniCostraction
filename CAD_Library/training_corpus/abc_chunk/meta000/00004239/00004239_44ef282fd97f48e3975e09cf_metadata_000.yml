@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-05T16:01:11.174+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5547dfa8e4b0a8ee8f59d7e5
+  id: 5547dfa8e4b0a8ee8f59d7e5
+  image: /images/placeholder-user.png
+  name: Alex Palmer
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/44ef282fd97f48e3975e09cf/workspaces/30b6d256f46445fc85ca01c8
+  id: 30b6d256f46445fc85ca01c8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/44ef282fd97f48e3975e09cf
+id: 44ef282fd97f48e3975e09cf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-03-08T15:29:45.621+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5547ef4be4b0b6c175df4789
+  id: 5547ef4be4b0b6c175df4789
+  image: /images/placeholder-user.png
+  name: David Riha
+  state: 1
+name: StratiBattTray_050515
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5547dfa8e4b0a8ee8f59d7e5
+  id: 5547dfa8e4b0a8ee8f59d7e5
+  image: /images/placeholder-user.png
+  name: Alex Palmer
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/44ef282fd97f48e3975e09cf/w/30b6d256f46445fc85ca01c8?t=1432916685314
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/44ef282fd97f48e3975e09cf/w/30b6d256f46445fc85ca01c8/s/300x170?t=1432916685314
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/44ef282fd97f48e3975e09cf/w/30b6d256f46445fc85ca01c8/s/600x340?t=1432916685314
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/44ef282fd97f48e3975e09cf/w/30b6d256f46445fc85ca01c8/s/300x300?t=1432916685314
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/44ef282fd97f48e3975e09cf/w/30b6d256f46445fc85ca01c8/s/70x40?t=1432916685314
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-19T23:58:26.468+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ab102630fba34d1dae4cb1c3/workspaces/345e2decc67a42a4be0d72ba
+  id: 345e2decc67a42a4be0d72ba
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ab102630fba34d1dae4cb1c3
+id: ab102630fba34d1dae4cb1c3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2016-01-09T19:01:48.100+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  state: 1
+name: MDX-15 Vise
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ab102630fba34d1dae4cb1c3/w/345e2decc67a42a4be0d72ba?t=1447729871527
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ab102630fba34d1dae4cb1c3/w/345e2decc67a42a4be0d72ba/s/300x170?t=1447729871527
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ab102630fba34d1dae4cb1c3/w/345e2decc67a42a4be0d72ba/s/300x300?t=1447729871527
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ab102630fba34d1dae4cb1c3/w/345e2decc67a42a4be0d72ba/s/600x340?t=1447729871527
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ab102630fba34d1dae4cb1c3/w/345e2decc67a42a4be0d72ba/s/70x40?t=1447729871527
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

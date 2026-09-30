@@ -1,0 +1,22 @@
+{
+  "eval_permissive.txt": {
+    "documenti": 2,
+    "caratteri": 218174,
+    "token_stimati": 54543
+  },
+  "eval_research.txt": {
+    "documenti": 6,
+    "caratteri": 1712368,
+    "token_stimati": 428092
+  },
+  "train_permissive.txt": {
+    "documenti": 68,
+    "caratteri": 9171237,
+    "token_stimati": 2292809
+  },
+  "train_research.txt": {
+    "documenti": 65,
+    "caratteri": 30240845,
+    "token_stimati": 7560211
+  }
+}

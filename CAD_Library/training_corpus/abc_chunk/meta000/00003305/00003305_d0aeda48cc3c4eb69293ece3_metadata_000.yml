@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-17T19:35:10.685+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55144cece4b0b8d7e34b9e1f
+  id: 55144cece4b0b8d7e34b9e1f
+  image: /images/placeholder-user.png
+  name: Chad Olivieri
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d0aeda48cc3c4eb69293ece3/workspaces/58b09d1c79f342028815d9af
+  id: 58b09d1c79f342028815d9af
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d0aeda48cc3c4eb69293ece3
+id: d0aeda48cc3c4eb69293ece3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-12T02:55:57.311+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55144cece4b0b8d7e34b9e1f
+  id: 55144cece4b0b8d7e34b9e1f
+  image: /images/placeholder-user.png
+  name: Chad Olivieri
+  state: 1
+name: Motenergy ME1003
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55144cece4b0b8d7e34b9e1f
+  id: 55144cece4b0b8d7e34b9e1f
+  image: /images/placeholder-user.png
+  name: Chad Olivieri
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d0aeda48cc3c4eb69293ece3/w/58b09d1c79f342028815d9af?t=1444616931451
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d0aeda48cc3c4eb69293ece3/w/58b09d1c79f342028815d9af/s/70x40?t=1444616931451
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d0aeda48cc3c4eb69293ece3/w/58b09d1c79f342028815d9af/s/600x340?t=1444616931451
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d0aeda48cc3c4eb69293ece3/w/58b09d1c79f342028815d9af/s/300x170?t=1444616931451
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d0aeda48cc3c4eb69293ece3/w/58b09d1c79f342028815d9af/s/300x300?t=1444616931451
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

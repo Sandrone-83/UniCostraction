@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-03T20:17:17.715+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff48f0e4b00b89f7fc89e7
+  id: 54ff48f0e4b00b89f7fc89e7
+  image: /images/placeholder-user.png
+  name: Krzysztof Kowalski
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/39d5cde8e608499e9cc6b4b8/workspaces/2f087b0680fc4498b568c7ca
+  id: 2f087b0680fc4498b568c7ca
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/39d5cde8e608499e9cc6b4b8
+id: 39d5cde8e608499e9cc6b4b8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-25T07:02:55.909+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff48f0e4b00b89f7fc89e7
+  id: 54ff48f0e4b00b89f7fc89e7
+  image: /images/placeholder-user.png
+  name: Krzysztof Kowalski
+  state: 1
+name: Alu Frame Small
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff48f0e4b00b89f7fc89e7
+  id: 54ff48f0e4b00b89f7fc89e7
+  image: /images/placeholder-user.png
+  name: Krzysztof Kowalski
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/39d5cde8e608499e9cc6b4b8/w/2f087b0680fc4498b568c7ca?t=1432413042054
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/39d5cde8e608499e9cc6b4b8/w/2f087b0680fc4498b568c7ca/s/300x300?t=1432413042054
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/39d5cde8e608499e9cc6b4b8/w/2f087b0680fc4498b568c7ca/s/300x170?t=1432413042054
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/39d5cde8e608499e9cc6b4b8/w/2f087b0680fc4498b568c7ca/s/600x340?t=1432413042054
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/39d5cde8e608499e9cc6b4b8/w/2f087b0680fc4498b568c7ca/s/70x40?t=1432413042054
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

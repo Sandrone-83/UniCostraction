@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-14T20:07:29.583+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55003d02e4b02630a84534f3
+  id: 55003d02e4b02630a84534f3
+  image: /images/placeholder-user.png
+  name: Luke
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/37177167166c4711a9434317/workspaces/e621fd0784e04f9e8e6dda3e
+  id: e621fd0784e04f9e8e6dda3e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/37177167166c4711a9434317
+id: 37177167166c4711a9434317
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-01-19T18:44:39.426+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55003d02e4b02630a84534f3
+  id: 55003d02e4b02630a84534f3
+  image: /images/placeholder-user.png
+  name: Luke
+  state: 1
+name: Branch and Merge Example
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55003d02e4b02630a84534f3
+  id: 55003d02e4b02630a84534f3
+  image: /images/placeholder-user.png
+  name: Luke
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/37177167166c4711a9434317/w/e621fd0784e04f9e8e6dda3e?t=1453229153191
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/37177167166c4711a9434317/w/e621fd0784e04f9e8e6dda3e/s/600x340?t=1453229153191
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/37177167166c4711a9434317/w/e621fd0784e04f9e8e6dda3e/s/300x170?t=1453229153191
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/37177167166c4711a9434317/w/e621fd0784e04f9e8e6dda3e/s/300x300?t=1453229153191
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/37177167166c4711a9434317/w/e621fd0784e04f9e8e6dda3e/s/70x40?t=1453229153191
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

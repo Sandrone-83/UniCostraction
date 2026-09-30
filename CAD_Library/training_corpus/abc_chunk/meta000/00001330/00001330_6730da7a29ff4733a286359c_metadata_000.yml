@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-15T22:57:32.251+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5500a6c9e4b0191bdfa20eb7
+  id: 5500a6c9e4b0191bdfa20eb7
+  image: /images/placeholder-user.png
+  name: Richard Gebhard
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6730da7a29ff4733a286359c/workspaces/d9d3acdc518449f4a68d072c
+  id: d9d3acdc518449f4a68d072c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6730da7a29ff4733a286359c
+id: 6730da7a29ff4733a286359c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-02-28T15:24:29.831+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5500a6c9e4b0191bdfa20eb7
+  id: 5500a6c9e4b0191bdfa20eb7
+  image: /images/placeholder-user.png
+  name: Richard Gebhard
+  state: 1
+name: 'RMS-2A: Robust Casting'
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5500a6c9e4b0191bdfa20eb7
+  id: 5500a6c9e4b0191bdfa20eb7
+  image: /images/placeholder-user.png
+  name: Richard Gebhard
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6730da7a29ff4733a286359c/w/d9d3acdc518449f4a68d072c?t=1500054260315
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6730da7a29ff4733a286359c/w/d9d3acdc518449f4a68d072c/s/70x40?t=1500054260315
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6730da7a29ff4733a286359c/w/d9d3acdc518449f4a68d072c/s/600x340?t=1500054260315
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6730da7a29ff4733a286359c/w/d9d3acdc518449f4a68d072c/s/300x170?t=1500054260315
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6730da7a29ff4733a286359c/w/d9d3acdc518449f4a68d072c/s/300x300?t=1500054260315
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

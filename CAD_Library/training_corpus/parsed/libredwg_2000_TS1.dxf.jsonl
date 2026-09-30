@@ -1,0 +1,94 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "libredwg/2000/TS1.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 93, "entity_histogram": {"LINE": 25, "POINT": 20, "MTEXT": 9, "SOLID": 8, "DIMENSION": 6, "ARC": 5, "LWPOLYLINE": 3, "ATTDEF": 2, "CIRCLE": 2, "HATCH": 2, "INSERT": 1, "ATTRIB": 1, "3DFACE": 1, "POLYLINE": 1, "ELLIPSE": 1, "SPLINE": 1, "REGION": 1, "RAY": 1, "TEXT": 1, "LEADER": 1}, "n_layers": 0, "layers": [], "n_block_defs": 11, "bbox": [[-1.451, 34.603], [-16.692, 57.747]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-0.1359380857696308, 0.1359380857696308], [0.0, 0.2718761715392617]]}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 24.55902001549242, "y1": 50.21982037777121, "x2": 25.48073799992625, "y2": 50.21982037777121}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;50.2198", "x": 26.06573799992625, "y": 50.21982037777121, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24.49652001549242, "y": 50.21982037777121}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 25.48073799992625, "y": 50.21982037777121}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 24.6382681263049, "y1": 49.02823983079217, "x2": 24.78929180991272, "y2": 48.48963355100107}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 26.3841275089944, "y1": 49.51777388363927, "x2": 26.53515119260222, "y2": 48.97916760384816}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 24.9140102315468, "y1": 48.71154640620578, "x2": 25.13362428447216, "y2": 48.77312556799664}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 26.31323833739751, "y1": 49.10388602548225, "x2": 26.09362428447216, "y2": 49.0423068636914}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;1.8132", "x": 25.61362428447216, "y": 48.90771621584402, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24.6213940926989, "y": 49.08841887191002}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 26.36725347538839, "y": 49.57795292475712}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 26.4865539758169, "y": 49.15248324226756}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 26.84423834669138, "y1": 46.76627015266316, "x2": 27.14595709932163, "y2": 46.76627015266316}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 25.99034370674826, "y1": 47.95937796888314, "x2": 26.45803258438272, "y2": 48.42706684651761}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 24.79723589052827, "cy": 46.76627015266317, "r": 2.168721208793363, "a1": 4.756813724923526, "a2": 17.43869723610756}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 24.79723589052827, "cy": 46.76627015266317, "r": 2.168721208793363, "a1": 27.75434634225195, "a2": 40.24318627507653}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;45�", "x": 26.8008730270556, "y": 47.59620382868718, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24.79723589052827, "y": 46.76627015266316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 26.78173834669138, "y": 46.76627015266316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 25.9461495329241, "y": 47.91518379505899}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 26.89205971612262, "y": 47.32757650501666}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 24.13153389940094, "cy": 44.46327921516784, "r": 3.101681837788566, "a1": 3.325514549819008, "a2": 10.11331275239311}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 24.13153389940094, "cy": 44.46327921516784, "r": 3.101681837788566, "a1": 16.95745592073151, "a2": 23.69606853322067}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;27�", "x": 27.14737958991771, "y": 45.18792050150127, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 27.19496793714468, "y": 44.94887381898933}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24.13153389940094, "y": 44.46327921516783}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24.13153389940094, "y": 44.46327921516783}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 28.70342522096354, "y": 44.46327921516783}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 28.3894217039915, "y": 46.63480213521192}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 28.03711315998128, "y1": 40.61255700255301, "x2": 27.85711315998128, "y2": 40.61255700255302}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 27.85711315998128, "y1": 40.61255700255302, "x2": 27.73444404488872, "y2": 41.30724296213313}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;\\U+22052.3794", "x": 28.66711315998128, "y": 40.61255700255301, "h": 0.18}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 27.70314351327004, "y": 41.48450061844277}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 28.1169003910431, "y": 39.14135912392925}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 27.61115696782332, "y1": 39.81034064195834, "x2": 27.43115696782331, "y2": 39.81034064195834}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 27.43115696782331, "y1": 39.81034064195834, "x2": 27.21352078175056, "y2": 39.58192218041086}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "\\A1;R1.1897", "x": 28.18115696782331, "y": 39.81034064195834, "h": 0.18}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 27.08935449428321, "y": 39.45160436483458}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 27.91002195215658, "y": 40.31292987118603}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "some text", "x": 6.25, "y": -0.2266666666666666, "h": 0.25}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "some texst", "x": 1.25, "y": -0.6333333333333329, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 12.5, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -0.4533333333333332, "x2": 12.5, "y2": -0.4533333333333332}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -0.8133333333333334, "x2": 12.5, "y2": -0.8133333333333334}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -1.173333333333333, "x2": 12.5, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 0.0, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.5, "y1": -0.4533333333333332, "x2": 2.5, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 5.0, "y1": -0.4533333333333332, "x2": 5.0, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.5, "y1": -0.4533333333333332, "x2": 7.5, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": -0.4533333333333332, "x2": 10.0, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 12.5, "y1": 0.0, "x2": 12.5, "y2": -1.173333333333333}
+{"kind": "entity", "type": "LINE", "layer": "Defpoints", "x1": 0.0, "y1": 0.0, "x2": 0.0, "y2": 0.0}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "some block", "x": 25.91133071644479, "y": 56.47891750457908, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "POINT", "layer": "0", "x": 25.98765495891621, "y": 55.77914020302216}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 2, "closed": false, "bbox": [[25.23667543407726, 26.63850391859341], [55.43891248934503, 55.43891248934503]]}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 26.19032237069913, "cy": 52.78747525601531, "r": 1.894896233983312, "a1": 54.92060946020611, "a2": 127.1333148556879}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 26.23367748056336, "cy": 52.79373135708363, "r": 0.8861191723612762}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 24.57558062663759, "y1": 51.26074532859647, "x2": 27.79423920860376, "y2": 51.26074532859647}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 26.4865539758169, "y": 49.15248324226756}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 26.89205971612262, "y": 47.32757650501666}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 28.3894217039915, "y": 46.63480213521191}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 27.91002195215657, "cy": 40.31292987118601, "r": 1.189696055429237}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 28.1169003910431, "y": 39.14135912392925}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 27.91002195215658, "y": 40.31292987118603}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "POLYLINE", "layer": "0"}
+{"kind": "entity", "type": "ELLIPSE", "layer": "0", "cx": 28.01452364793553, "cy": 18.56956730115371, "ax": -1.450924089695689, "ay": 0.0, "ratio": 0.4224407003514413}
+{"kind": "entity", "type": "SPLINE", "layer": "0", "degree": 3.0, "n_ctrl": 7, "n_fit": 5, "bbox": [[24.74802648620394, 31.65932345994084], [10.72643392370707, 18.25518476135446]]}
+{"kind": "entity", "type": "REGION", "layer": "0"}
+{"kind": "entity", "type": "RAY", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "tsome text", "x": 28.68651123161356, "y": 0.3052662516744675, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "some text", "x": 24.82601837429886, "y": 57.74671367398203, "h": 0.2}
+{"kind": "entity", "type": "LEADER", "layer": "0"}
+{"kind": "entity", "type": "MLINE", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.03600711602673, "y1": -7.739296811290174, "x2": 31.36579484207391, "y2": -7.739296811290174}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.67956455868929, "y1": -9.014356069012337, "x2": 32.33123081826764, "y2": -9.014356069012337}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[30.83716472021553, 34.60345955890768], [-16.69161249367316, -13.95423049645126]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 1.0}

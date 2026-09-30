@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-13T09:49:51.845+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdde50e4b02cb549c9230b
+  id: 54fdde50e4b02cb549c9230b
+  image: /images/placeholder-user.png
+  name: Pedro Ferreira
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0d5aceffdc1f4188ae053ebf/workspaces/9b34e955a3af4dba83d6bcdb
+  id: 9b34e955a3af4dba83d6bcdb
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0d5aceffdc1f4188ae053ebf
+id: 0d5aceffdc1f4188ae053ebf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-09T09:25:32.894+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdde50e4b02cb549c9230b
+  id: 54fdde50e4b02cb549c9230b
+  image: /images/placeholder-user.png
+  name: Pedro Ferreira
+  state: 1
+name: TesteMyDOC
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdde50e4b02cb549c9230b
+  id: 54fdde50e4b02cb549c9230b
+  image: /images/placeholder-user.png
+  name: Pedro Ferreira
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0d5aceffdc1f4188ae053ebf/w/9b34e955a3af4dba83d6bcdb?t=1428571615138
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0d5aceffdc1f4188ae053ebf/w/9b34e955a3af4dba83d6bcdb/s/300x300?t=1428571615138
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d5aceffdc1f4188ae053ebf/w/9b34e955a3af4dba83d6bcdb/s/70x40?t=1428571615138
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d5aceffdc1f4188ae053ebf/w/9b34e955a3af4dba83d6bcdb/s/300x170?t=1428571615138
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d5aceffdc1f4188ae053ebf/w/9b34e955a3af4dba83d6bcdb/s/600x340?t=1428571615138
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

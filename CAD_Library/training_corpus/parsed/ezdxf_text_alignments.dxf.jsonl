@@ -1,0 +1,59 @@
+{"kind": "doc", "format": "DXF", "version": "AC1018", "file": "ezdxf/text_alignments.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 58, "entity_histogram": {"CIRCLE": 32, "TEXT": 16, "LINE": 10}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 35.0], [-1.5, 15.0]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 0.0, "y2": 10.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 5.0, "y1": 0.0, "x2": 5.0, "y2": 10.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 0.0, "x2": 10.0, "y2": 10.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -1.0, "x2": 10.0, "y2": -1.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BASELINE ADJUSTMENTS", "x": 0.0, "y": -1.5, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "LEFT", "x": 0.0, "y": -1.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "CENTER", "x": 5.0, "y": -1.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "RIGHT", "x": 10.0, "y": -1.0, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 10.0, "y2": 0.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BOTTOM_LEFT", "x": 0.0, "y": 0.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BOTTOM_CENTER", "x": 5.0, "y": 0.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BOTTOM_RIGHT", "x": 10.0, "y": 0.0, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 5.0, "x2": 10.0, "y2": 5.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIDDLE_LEFT", "x": 0.0, "y": 5.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIDDLE_CENTER", "x": 5.0, "y": 5.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIDDLE_RIGHT", "x": 10.0, "y": 5.0, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 10.0, "x2": 10.0, "y2": 10.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "TOP_LEFT", "x": 0.0, "y": 10.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "TOP_CENTER", "x": 5.0, "y": 10.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "TOP_RIGHT", "x": 10.0, "y": 10.0, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "ALIGNED-TEXT-ALIGNED-TEXT-ALIGNED-TEXT-ALIGNED-TEXT", "x": 15.0, "y": 0.0, "h": 2.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.0, "y1": 0.0, "x2": 35.0, "y2": 5.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "FITTED-TEXT-FITTED-TEXT-FITTED-TEXT-FITTED-TEXT", "x": 15.0, "y": 10.0, "h": 2.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.0, "y1": 10.0, "x2": 35.0, "y2": 5.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIDDLE", "x": 15.0, "y": 15.0, "h": 2.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.0, "y1": 15.0, "x2": 35.0, "y2": 10.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": -1.5, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": -1.5, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": -1.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": -1.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": -1.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": -1.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": -1.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": -1.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 0.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 0.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 0.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 0.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 0.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 0.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 5.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 5.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 5.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 5.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 5.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 5.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 10.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 10.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 10.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 10.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 10.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 10.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.0, "cy": 0.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 35.0, "cy": 5.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.0, "cy": 10.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 35.0, "cy": 5.0, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.0, "cy": 15.0, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.0, "cy": 15.0, "r": 0.075}

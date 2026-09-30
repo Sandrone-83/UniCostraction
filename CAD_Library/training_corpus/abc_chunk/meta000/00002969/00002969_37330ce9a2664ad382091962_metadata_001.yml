@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-11T19:49:27.844+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/37330ce9a2664ad382091962/workspaces/653b4954e8334ac6aec92725
+  id: 653b4954e8334ac6aec92725
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/37330ce9a2664ad382091962
+id: 37330ce9a2664ad382091962
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-15T23:03:10.069+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  state: 1
+name: Brendans Speedo Holder
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/37330ce9a2664ad382091962/w/653b4954e8334ac6aec92725?t=1429139984598
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/37330ce9a2664ad382091962/w/653b4954e8334ac6aec92725/s/300x170?t=1429139984598
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/37330ce9a2664ad382091962/w/653b4954e8334ac6aec92725/s/600x340?t=1429139984598
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/37330ce9a2664ad382091962/w/653b4954e8334ac6aec92725/s/300x300?t=1429139984598
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/37330ce9a2664ad382091962/w/653b4954e8334ac6aec92725/s/70x40?t=1429139984598
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

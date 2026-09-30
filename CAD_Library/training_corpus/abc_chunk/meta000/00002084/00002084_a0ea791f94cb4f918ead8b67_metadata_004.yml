@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-25T15:27:23.129+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550ee7c3e4b0b29f4fe99664
+  id: 550ee7c3e4b0b29f4fe99664
+  image: https://profiles.onshape.com/698957e33545a944ebcfba9a1b54a48efdeeb9864f0954409d51836d4640c219.png
+  name: ouilogique
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a0ea791f94cb4f918ead8b67/workspaces/be5adc5ac5d04e34858d6bf0
+  id: be5adc5ac5d04e34858d6bf0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a0ea791f94cb4f918ead8b67
+id: a0ea791f94cb4f918ead8b67
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-05-08T13:37:57.551+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550ee7c3e4b0b29f4fe99664
+  id: 550ee7c3e4b0b29f4fe99664
+  image: https://profiles.onshape.com/698957e33545a944ebcfba9a1b54a48efdeeb9864f0954409d51836d4640c219.png
+  name: ouilogique
+  state: 1
+name: Quizz test
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550ee7c3e4b0b29f4fe99664
+  id: 550ee7c3e4b0b29f4fe99664
+  image: https://profiles.onshape.com/698957e33545a944ebcfba9a1b54a48efdeeb9864f0954409d51836d4640c219.png
+  name: ouilogique
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a0ea791f94cb4f918ead8b67/w/be5adc5ac5d04e34858d6bf0?t=1462713971285
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a0ea791f94cb4f918ead8b67/w/be5adc5ac5d04e34858d6bf0/s/300x170?t=1462713971285
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a0ea791f94cb4f918ead8b67/w/be5adc5ac5d04e34858d6bf0/s/600x340?t=1462713971285
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a0ea791f94cb4f918ead8b67/w/be5adc5ac5d04e34858d6bf0/s/70x40?t=1462713971285
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a0ea791f94cb4f918ead8b67/w/be5adc5ac5d04e34858d6bf0/s/300x300?t=1462713971285
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

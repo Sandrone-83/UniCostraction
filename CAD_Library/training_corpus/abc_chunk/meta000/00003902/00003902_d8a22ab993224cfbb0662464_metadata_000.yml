@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2015-04-30T18:15:35.943+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5542342fe4b0b6c175df425d
+  id: 5542342fe4b0b6c175df425d
+  image: /images/placeholder-user.png
+  name: Trent McPhail
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d8a22ab993224cfbb0662464/workspaces/3eaf1b65f6bc46d3b3dfd771
+  id: 3eaf1b65f6bc46d3b3dfd771
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d8a22ab993224cfbb0662464
+id: d8a22ab993224cfbb0662464
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-31T15:49:50.828+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55310920e4b080d5b1d51e34
+  id: 55310920e4b080d5b1d51e34
+  image: /images/placeholder-user.png
+  name: Tom Naylor
+  state: 1
+name: 14034-001 (as a part).SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5542342fe4b0b6c175df425d
+  id: 5542342fe4b0b6c175df425d
+  image: /images/placeholder-user.png
+  name: Trent McPhail
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d8a22ab993224cfbb0662464/w/3eaf1b65f6bc46d3b3dfd771?t=1445520493182
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d8a22ab993224cfbb0662464/w/3eaf1b65f6bc46d3b3dfd771/s/70x40?t=1445520493182
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d8a22ab993224cfbb0662464/w/3eaf1b65f6bc46d3b3dfd771/s/300x300?t=1445520493182
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d8a22ab993224cfbb0662464/w/3eaf1b65f6bc46d3b3dfd771/s/600x340?t=1445520493182
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d8a22ab993224cfbb0662464/w/3eaf1b65f6bc46d3b3dfd771/s/300x170?t=1445520493182
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

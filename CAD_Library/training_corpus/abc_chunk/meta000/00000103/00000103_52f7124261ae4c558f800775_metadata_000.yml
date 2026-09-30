@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-02T20:10:13.535+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/52f7124261ae4c558f800775/workspaces/85cd4a90fbfc4f079e4437c5
+  id: 85cd4a90fbfc4f079e4437c5
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/52f7124261ae4c558f800775
+id: 52f7124261ae4c558f800775
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-09-03T18:16:51.348+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  state: 1
+name: Xacto
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53fcc9fce4b062546bfe7f8e
+  id: 53fcc9fce4b062546bfe7f8e
+  image: https://profiles.onshape.com/385df257cf61231878f128b3533a0f98a28c46d171c6fc9e47bdb76add8675d7.png
+  name: Daniel Herzberg
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/52f7124261ae4c558f800775/w/85cd4a90fbfc4f079e4437c5?t=1409768542618
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/52f7124261ae4c558f800775/w/85cd4a90fbfc4f079e4437c5/s/300x170?t=1409768542618
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/52f7124261ae4c558f800775/w/85cd4a90fbfc4f079e4437c5/s/70x40?t=1409768542618
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/52f7124261ae4c558f800775/w/85cd4a90fbfc4f079e4437c5/s/600x340?t=1409768542618
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

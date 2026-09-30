@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-19T14:56:25.044+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55554453e4b0b24d2f276038
+  id: 55554453e4b0b24d2f276038
+  image: /images/placeholder-user.png
+  name: RYAN WIDI
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/da8dab1aa14f46b68ba40ccf/workspaces/d603996c0e0846d8ba75ccb9
+  id: d603996c0e0846d8ba75ccb9
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/da8dab1aa14f46b68ba40ccf
+id: da8dab1aa14f46b68ba40ccf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-21T04:16:15.433+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55554453e4b0b24d2f276038
+  id: 55554453e4b0b24d2f276038
+  image: /images/placeholder-user.png
+  name: RYAN WIDI
+  state: 1
+name: Delta 3D Arm
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55554453e4b0b24d2f276038
+  id: 55554453e4b0b24d2f276038
+  image: /images/placeholder-user.png
+  name: RYAN WIDI
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/da8dab1aa14f46b68ba40ccf/w/d603996c0e0846d8ba75ccb9?t=1432185174265
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/da8dab1aa14f46b68ba40ccf/w/d603996c0e0846d8ba75ccb9/s/300x170?t=1432185174265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/da8dab1aa14f46b68ba40ccf/w/d603996c0e0846d8ba75ccb9/s/600x340?t=1432185174265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/da8dab1aa14f46b68ba40ccf/w/d603996c0e0846d8ba75ccb9/s/300x300?t=1432185174265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/da8dab1aa14f46b68ba40ccf/w/d603996c0e0846d8ba75ccb9/s/70x40?t=1432185174265
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-22T22:48:15.843+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54347df4e4b0825ff9a285c7
+  id: 54347df4e4b0825ff9a285c7
+  image: https://profiles.onshape.com/1f62a52fb7a60d679e4b26c94c9b1d4e7fdd30948c6a81a5a62becf557775906.png
+  name: Traveler
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/47a4d745edd94562829ebae0/workspaces/794cc7d251cd4ce2bd4edf15
+  id: 794cc7d251cd4ce2bd4edf15
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/47a4d745edd94562829ebae0
+id: 47a4d745edd94562829ebae0
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-12T04:10:43.490+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54347df4e4b0825ff9a285c7
+  id: 54347df4e4b0825ff9a285c7
+  image: https://profiles.onshape.com/1f62a52fb7a60d679e4b26c94c9b1d4e7fdd30948c6a81a5a62becf557775906.png
+  name: Traveler
+  state: 1
+name: 5 Minutes of Modeling - Mini quad copter frame
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54347df4e4b0825ff9a285c7
+  id: 54347df4e4b0825ff9a285c7
+  image: https://profiles.onshape.com/1f62a52fb7a60d679e4b26c94c9b1d4e7fdd30948c6a81a5a62becf557775906.png
+  name: Traveler
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/47a4d745edd94562829ebae0/w/794cc7d251cd4ce2bd4edf15?t=1484011214992
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/47a4d745edd94562829ebae0/w/794cc7d251cd4ce2bd4edf15/s/300x300?t=1484011214992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/47a4d745edd94562829ebae0/w/794cc7d251cd4ce2bd4edf15/s/300x170?t=1484011214992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/47a4d745edd94562829ebae0/w/794cc7d251cd4ce2bd4edf15/s/70x40?t=1484011214992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/47a4d745edd94562829ebae0/w/794cc7d251cd4ce2bd4edf15/s/600x340?t=1484011214992
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

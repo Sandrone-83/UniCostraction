@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-02T22:27:28.526+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55001b05e4b02630a84534a1
+  id: 55001b05e4b02630a84534a1
+  image: https://profiles.onshape.com/bd873f0eeb141a19928b79feb327fec63cea5da1c72a90ce4ce70e51a4387071.png
+  name: Vince Haley
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0356c34866c64f95b9729fbf/workspaces/f486d37840d24609ae2835de
+  id: f486d37840d24609ae2835de
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0356c34866c64f95b9729fbf
+id: 0356c34866c64f95b9729fbf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-12-15T10:00:21.964+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55001b05e4b02630a84534a1
+  id: 55001b05e4b02630a84534a1
+  image: https://profiles.onshape.com/bd873f0eeb141a19928b79feb327fec63cea5da1c72a90ce4ce70e51a4387071.png
+  name: Vince Haley
+  state: 1
+name: mug
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55001b05e4b02630a84534a1
+  id: 55001b05e4b02630a84534a1
+  image: https://profiles.onshape.com/bd873f0eeb141a19928b79feb327fec63cea5da1c72a90ce4ce70e51a4387071.png
+  name: Vince Haley
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

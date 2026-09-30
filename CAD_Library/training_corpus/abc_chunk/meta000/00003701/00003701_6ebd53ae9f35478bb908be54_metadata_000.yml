@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-27T18:10:27.521+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550b51bae4b0b29f4fe99351
+  id: 550b51bae4b0b29f4fe99351
+  image: /images/placeholder-user.png
+  name: Julian
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6ebd53ae9f35478bb908be54/workspaces/f34ec101101540dc9304314f
+  id: f34ec101101540dc9304314f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6ebd53ae9f35478bb908be54
+id: 6ebd53ae9f35478bb908be54
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-09T10:08:27.436+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550b51bae4b0b29f4fe99351
+  id: 550b51bae4b0b29f4fe99351
+  image: /images/placeholder-user.png
+  name: Julian
+  state: 1
+name: tablet bike clamp
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550b51bae4b0b29f4fe99351
+  id: 550b51bae4b0b29f4fe99351
+  image: /images/placeholder-user.png
+  name: Julian
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6ebd53ae9f35478bb908be54/w/f34ec101101540dc9304314f?t=1431166145134
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6ebd53ae9f35478bb908be54/w/f34ec101101540dc9304314f/s/300x170?t=1431166145134
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6ebd53ae9f35478bb908be54/w/f34ec101101540dc9304314f/s/300x300?t=1431166145134
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6ebd53ae9f35478bb908be54/w/f34ec101101540dc9304314f/s/600x340?t=1431166145134
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6ebd53ae9f35478bb908be54/w/f34ec101101540dc9304314f/s/70x40?t=1431166145134
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

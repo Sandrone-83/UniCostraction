@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-20T08:51:59.828+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe60d3e4b0a9dffbb18461
+  id: 54fe60d3e4b0a9dffbb18461
+  image: /images/placeholder-user.png
+  name: seongsu kim
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ca68fb80dd10437bb2fec740/workspaces/a5930b4e0eed429eb22ef8a0
+  id: a5930b4e0eed429eb22ef8a0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ca68fb80dd10437bb2fec740
+id: ca68fb80dd10437bb2fec740
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-15T07:48:33.472+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe60d3e4b0a9dffbb18461
+  id: 54fe60d3e4b0a9dffbb18461
+  image: /images/placeholder-user.png
+  name: seongsu kim
+  state: 1
+name: clothesPin
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe60d3e4b0a9dffbb18461
+  id: 54fe60d3e4b0a9dffbb18461
+  image: /images/placeholder-user.png
+  name: seongsu kim
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ca68fb80dd10437bb2fec740/w/a5930b4e0eed429eb22ef8a0?t=1441206338408
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ca68fb80dd10437bb2fec740/w/a5930b4e0eed429eb22ef8a0/s/300x300?t=1441206338408
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca68fb80dd10437bb2fec740/w/a5930b4e0eed429eb22ef8a0/s/70x40?t=1441206338408
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca68fb80dd10437bb2fec740/w/a5930b4e0eed429eb22ef8a0/s/300x170?t=1441206338408
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ca68fb80dd10437bb2fec740/w/a5930b4e0eed429eb22ef8a0/s/600x340?t=1441206338408
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

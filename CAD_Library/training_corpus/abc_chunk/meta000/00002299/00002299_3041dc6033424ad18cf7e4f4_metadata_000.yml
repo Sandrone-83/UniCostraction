@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-30T16:18:51.910+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe7d4ae4b0191bdfa2053c
+  id: 54fe7d4ae4b0191bdfa2053c
+  image: /images/placeholder-user.png
+  name: Chris K.
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/3041dc6033424ad18cf7e4f4/workspaces/35bb07c8c6814bf0a7fbfd21
+  id: 35bb07c8c6814bf0a7fbfd21
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/3041dc6033424ad18cf7e4f4
+id: 3041dc6033424ad18cf7e4f4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-31T17:24:58.574+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe7d4ae4b0191bdfa2053c
+  id: 54fe7d4ae4b0191bdfa2053c
+  image: /images/placeholder-user.png
+  name: Chris K.
+  state: 1
+name: Tripod Lever
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe7d4ae4b0191bdfa2053c
+  id: 54fe7d4ae4b0191bdfa2053c
+  image: /images/placeholder-user.png
+  name: Chris K.
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/3041dc6033424ad18cf7e4f4/w/35bb07c8c6814bf0a7fbfd21?t=1427732804517
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/3041dc6033424ad18cf7e4f4/w/35bb07c8c6814bf0a7fbfd21/s/70x40?t=1427732804517
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3041dc6033424ad18cf7e4f4/w/35bb07c8c6814bf0a7fbfd21/s/300x300?t=1427732804517
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3041dc6033424ad18cf7e4f4/w/35bb07c8c6814bf0a7fbfd21/s/600x340?t=1427732804517
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3041dc6033424ad18cf7e4f4/w/35bb07c8c6814bf0a7fbfd21/s/300x170?t=1427732804517
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

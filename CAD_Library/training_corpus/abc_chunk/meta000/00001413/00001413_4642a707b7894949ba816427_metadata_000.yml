@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T23:01:05.093+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe386ae4b046f89d8e9aaf
+  id: 54fe386ae4b046f89d8e9aaf
+  image: https://profiles.onshape.com/d2727e054567d9be66d8186947de928639b2e3fa37f51425dd13177b9bd7399f.png
+  name: Lee
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4642a707b7894949ba816427/workspaces/74dcb19ba1df477dbcf051f1
+  id: 74dcb19ba1df477dbcf051f1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4642a707b7894949ba816427
+id: 4642a707b7894949ba816427
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-15T01:50:04.209+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe386ae4b046f89d8e9aaf
+  id: 54fe386ae4b046f89d8e9aaf
+  image: https://profiles.onshape.com/d2727e054567d9be66d8186947de928639b2e3fa37f51425dd13177b9bd7399f.png
+  name: Lee
+  state: 1
+name: Reprap Prusa i3 Calibration Model
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe386ae4b046f89d8e9aaf
+  id: 54fe386ae4b046f89d8e9aaf
+  image: https://profiles.onshape.com/d2727e054567d9be66d8186947de928639b2e3fa37f51425dd13177b9bd7399f.png
+  name: Lee
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4642a707b7894949ba816427/w/74dcb19ba1df477dbcf051f1?t=1426548903222
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4642a707b7894949ba816427/w/74dcb19ba1df477dbcf051f1/s/300x170?t=1426548903222
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4642a707b7894949ba816427/w/74dcb19ba1df477dbcf051f1/s/600x340?t=1426548903222
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4642a707b7894949ba816427/w/74dcb19ba1df477dbcf051f1/s/300x300?t=1426548903222
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4642a707b7894949ba816427/w/74dcb19ba1df477dbcf051f1/s/70x40?t=1426548903222
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,75 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "ezdxf/3dface.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 74, "entity_histogram": {"3DFACE": 46, "MTEXT": 16, "LWPOLYLINE": 6, "TEXT": 6}, "n_layers": 0, "layers": [], "n_block_defs": 5, "bbox": [[0.0, 5154.251], [0.0, 4199.536]]}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.0, 2199.215790113099], [0.0, 1192.066361318109]]}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "all visible", "x": 710.7265794240466, "y": 4016.547659646379, "h": 50.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "1st hidden", "x": 1241.335629568987, "y": 4016.898803136181, "h": 50.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "2nd hidden", "x": 1755.078343061699, "y": 4016.898803136181, "h": 50.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "3rd hidden", "x": 2306.526946513454, "y": 4016.898803136181, "h": 50.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "4th hidden", "x": 2909.821140462448, "y": 4016.898803136181, "h": 50.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "all hidden", "x": 3447.130028244111, "y": 4016.898803136181, "h": 50.0}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Pall visible", "x": 720.0695988330771, "y": 2296.106511562856, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Podd visible\\Peven hidden", "x": 1272.771337171216, "y": 2403.734017107996, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Podd hidden\\Peven visible", "x": 1778.75448882184, "y": 2409.296509508426, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Pall hidden", "x": 2318.449207978127, "y": 2326.903016847984, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Pall visible", "x": 697.7964996534828, "y": 1204.134073194081, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Podd visible\\Peven hidden", "x": 1250.498237991622, "y": 1311.761578739221, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Podd hidden\\Peven visible", "x": 1756.481389642245, "y": 1317.324071139651, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Pall hidden", "x": 2296.176108798532, "y": 1234.930578479209, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Pall visible", "x": 2936.88035503358, "y": 2283.184082780441, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Podd visible\\Peven hidden", "x": 3489.582093371719, "y": 2390.811588325581, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Podd hidden\\Peven visible", "x": 3995.565245022343, "y": 2396.374080726011, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 1 & 3\\Pall hidden", "x": 4535.259964178629, "y": 2313.98058806557, "h": 50.0}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Pall visible", "x": 2903.50617797556, "y": 1236.208038533216, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Podd visible\\Peven hidden", "x": 3456.207916313699, "y": 1343.835544078357, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Podd hidden\\Peven visible", "x": 3962.191067964323, "y": 1349.398036478787, "h": 50.0}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "edges 2 & 4\\Pall hidden", "x": 4501.885787120609, "y": 1267.004543818345, "h": 50.0}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[606.008932738754, 2805.224722851854], [1352.895137322161, 2544.961498640271]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[2805.224722851851, 5154.250845718525], [1352.895137322161, 2544.961498640271]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[606.008932738754, 3931.44166915703], [2544.961498640271, 4199.536162098836]]}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "3DFACE", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[606.008932738754, 2805.224722851854], [163.4994741574337, 1352.895137322161]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[2805.224722851851, 5154.250845718519], [163.4994741574337, 1352.895137322161]]}

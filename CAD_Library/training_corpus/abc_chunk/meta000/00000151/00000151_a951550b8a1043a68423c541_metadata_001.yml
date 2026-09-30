@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-20T14:35:58.300+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f63ddbe4b0108d0fd87f48
+  id: 53f63ddbe4b0108d0fd87f48
+  image: /images/placeholder-user.png
+  name: Piet Verschelde
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a951550b8a1043a68423c541/workspaces/e06ab4f713f64811be233dce
+  id: e06ab4f713f64811be233dce
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a951550b8a1043a68423c541
+id: a951550b8a1043a68423c541
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2014-11-20T22:37:47.928+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53f63ddbe4b0108d0fd87f48
+  id: 53f63ddbe4b0108d0fd87f48
+  image: /images/placeholder-user.png
+  name: Piet Verschelde
+  state: 1
+name: 3D PRINTER
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f63ddbe4b0108d0fd87f48
+  id: 53f63ddbe4b0108d0fd87f48
+  image: /images/placeholder-user.png
+  name: Piet Verschelde
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a951550b8a1043a68423c541/w/e06ab4f713f64811be233dce?t=1416523091858
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a951550b8a1043a68423c541/w/e06ab4f713f64811be233dce/s/300x170?t=1416523091858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a951550b8a1043a68423c541/w/e06ab4f713f64811be233dce/s/600x340?t=1416523091858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a951550b8a1043a68423c541/w/e06ab4f713f64811be233dce/s/70x40?t=1416523091858
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

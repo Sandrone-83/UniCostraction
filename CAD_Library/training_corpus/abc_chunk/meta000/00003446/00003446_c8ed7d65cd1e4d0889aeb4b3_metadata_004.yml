@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-21T21:53:07.557+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5490cc73e4b0cf9cf099ba6d
+  id: 5490cc73e4b0cf9cf099ba6d
+  image: https://profiles.onshape.com/3c386e4b7f98354b520b057acae6bfd03ae5fd5881d512fd9692540788447de7.png
+  name: Phil
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c8ed7d65cd1e4d0889aeb4b3/workspaces/c816fa0d7ad046159ac22eec
+  id: c816fa0d7ad046159ac22eec
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c8ed7d65cd1e4d0889aeb4b3
+id: c8ed7d65cd1e4d0889aeb4b3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-22T16:12:26.463+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5490cc73e4b0cf9cf099ba6d
+  id: 5490cc73e4b0cf9cf099ba6d
+  image: https://profiles.onshape.com/3c386e4b7f98354b520b057acae6bfd03ae5fd5881d512fd9692540788447de7.png
+  name: Phil
+  state: 1
+name: Bandsaw-Block redo
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5490cc73e4b0cf9cf099ba6d
+  id: 5490cc73e4b0cf9cf099ba6d
+  image: https://profiles.onshape.com/3c386e4b7f98354b520b057acae6bfd03ae5fd5881d512fd9692540788447de7.png
+  name: Phil
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c8ed7d65cd1e4d0889aeb4b3/w/c816fa0d7ad046159ac22eec?t=1429719160950
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c8ed7d65cd1e4d0889aeb4b3/w/c816fa0d7ad046159ac22eec/s/300x300?t=1429719160950
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8ed7d65cd1e4d0889aeb4b3/w/c816fa0d7ad046159ac22eec/s/300x170?t=1429719160950
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8ed7d65cd1e4d0889aeb4b3/w/c816fa0d7ad046159ac22eec/s/70x40?t=1429719160950
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8ed7d65cd1e4d0889aeb4b3/w/c816fa0d7ad046159ac22eec/s/600x340?t=1429719160950
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

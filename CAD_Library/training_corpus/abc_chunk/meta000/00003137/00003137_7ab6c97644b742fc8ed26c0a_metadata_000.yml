@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-14T03:27:41.634+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552a314ee4b0ae1ab4018735
+  id: 552a314ee4b0ae1ab4018735
+  image: /images/placeholder-user.png
+  name: Alexander Ray
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/7ab6c97644b742fc8ed26c0a/workspaces/d0d9f99e1fd449cb9f347522
+  id: d0d9f99e1fd449cb9f347522
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/7ab6c97644b742fc8ed26c0a
+id: 7ab6c97644b742fc8ed26c0a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-17T03:02:03.044+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552a314ee4b0ae1ab4018735
+  id: 552a314ee4b0ae1ab4018735
+  image: /images/placeholder-user.png
+  name: Alexander Ray
+  state: 1
+name: MakerBeam_80mm
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552a314ee4b0ae1ab4018735
+  id: 552a314ee4b0ae1ab4018735
+  image: /images/placeholder-user.png
+  name: Alexander Ray
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/7ab6c97644b742fc8ed26c0a/w/d0d9f99e1fd449cb9f347522?t=1429239766400
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/7ab6c97644b742fc8ed26c0a/w/d0d9f99e1fd449cb9f347522/s/70x40?t=1429239766400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7ab6c97644b742fc8ed26c0a/w/d0d9f99e1fd449cb9f347522/s/300x170?t=1429239766400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7ab6c97644b742fc8ed26c0a/w/d0d9f99e1fd449cb9f347522/s/300x300?t=1429239766400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7ab6c97644b742fc8ed26c0a/w/d0d9f99e1fd449cb9f347522/s/600x340?t=1429239766400
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

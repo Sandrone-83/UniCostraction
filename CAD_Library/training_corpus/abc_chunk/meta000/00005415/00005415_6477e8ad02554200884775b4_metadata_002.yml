@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-20T18:06:10.079+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/555cc8efe4b0a0b23b9e449d
+  id: 555cc8efe4b0a0b23b9e449d
+  image: /images/placeholder-user.png
+  name: Robert Eriksson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6477e8ad02554200884775b4/workspaces/4bdc695442f64806b4064fc8
+  id: 4bdc695442f64806b4064fc8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6477e8ad02554200884775b4
+id: 6477e8ad02554200884775b4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-01T11:29:51.412+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/555cc8efe4b0a0b23b9e449d
+  id: 555cc8efe4b0a0b23b9e449d
+  image: /images/placeholder-user.png
+  name: Robert Eriksson
+  state: 1
+name: Garage
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/555cc8efe4b0a0b23b9e449d
+  id: 555cc8efe4b0a0b23b9e449d
+  image: /images/placeholder-user.png
+  name: Robert Eriksson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6477e8ad02554200884775b4/w/4bdc695442f64806b4064fc8?t=1432847861087
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6477e8ad02554200884775b4/w/4bdc695442f64806b4064fc8/s/70x40?t=1432847861087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6477e8ad02554200884775b4/w/4bdc695442f64806b4064fc8/s/600x340?t=1432847861087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6477e8ad02554200884775b4/w/4bdc695442f64806b4064fc8/s/300x300?t=1432847861087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6477e8ad02554200884775b4/w/4bdc695442f64806b4064fc8/s/300x170?t=1432847861087
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

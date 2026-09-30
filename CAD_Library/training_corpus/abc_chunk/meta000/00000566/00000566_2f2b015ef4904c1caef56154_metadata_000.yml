@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-15T21:38:20.005+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53eba663e4b0edf73d20e4f0
+  id: 53eba663e4b0edf73d20e4f0
+  image: https://profiles.onshape.com/7c75d99f05ae06347032c181d13378d95fddd22cf6afa934c367efb53858e1a3.png
+  name: Silas
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2f2b015ef4904c1caef56154/workspaces/5b71ff49d69a467f88f90895
+  id: 5b71ff49d69a467f88f90895
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2f2b015ef4904c1caef56154
+id: 2f2b015ef4904c1caef56154
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-02T00:01:34.485+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5544a7e8e4b0b6c175df4500
+  id: 5544a7e8e4b0b6c175df4500
+  image: https://profiles.onshape.com/54efc2e3e5494934702018837b49198d222ad9c22fc78873effad01223af3670.png
+  name: Silas Hughes
+  state: 1
+name: Skateboard
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5544a7e8e4b0b6c175df4500
+  id: 5544a7e8e4b0b6c175df4500
+  image: https://profiles.onshape.com/54efc2e3e5494934702018837b49198d222ad9c22fc78873effad01223af3670.png
+  name: Silas Hughes
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2f2b015ef4904c1caef56154/w/5b71ff49d69a467f88f90895?t=1509581136420
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2f2b015ef4904c1caef56154/w/5b71ff49d69a467f88f90895/s/300x170?t=1509581136420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f2b015ef4904c1caef56154/w/5b71ff49d69a467f88f90895/s/300x300?t=1509581136420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f2b015ef4904c1caef56154/w/5b71ff49d69a467f88f90895/s/70x40?t=1509581136420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2f2b015ef4904c1caef56154/w/5b71ff49d69a467f88f90895/s/600x340?t=1509581136420
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

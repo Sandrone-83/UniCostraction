@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T20:59:54.234+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff43b6e4b02630a845327f
+  id: 54ff43b6e4b02630a845327f
+  image: /images/placeholder-user.png
+  name: Pete Libardoni
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/848f8010ccfc41c2b7de6d92/workspaces/fe17b9b29e77402b83986e0d
+  id: fe17b9b29e77402b83986e0d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/848f8010ccfc41c2b7de6d92
+id: 848f8010ccfc41c2b7de6d92
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-05-17T19:39:20.647+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff43b6e4b02630a845327f
+  id: 54ff43b6e4b02630a845327f
+  image: /images/placeholder-user.png
+  name: Pete Libardoni
+  state: 1
+name: Fitting
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff43b6e4b02630a845327f
+  id: 54ff43b6e4b02630a845327f
+  image: /images/placeholder-user.png
+  name: Pete Libardoni
+  type: 0
+parentId: fd3e8a2df3bc14cc4af78862
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/848f8010ccfc41c2b7de6d92/w/fe17b9b29e77402b83986e0d?t=1463513930012
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/848f8010ccfc41c2b7de6d92/w/fe17b9b29e77402b83986e0d/s/600x340?t=1463513930012
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/848f8010ccfc41c2b7de6d92/w/fe17b9b29e77402b83986e0d/s/300x300?t=1463513930012
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/848f8010ccfc41c2b7de6d92/w/fe17b9b29e77402b83986e0d/s/300x170?t=1463513930012
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/848f8010ccfc41c2b7de6d92/w/fe17b9b29e77402b83986e0d/s/70x40?t=1463513930012
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

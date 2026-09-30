@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-20T19:19:30.700+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55268ceee4b0d32bdfc01a26
+  id: 55268ceee4b0d32bdfc01a26
+  image: /images/placeholder-user.png
+  name: sw3Dp
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/7ad181a5b9af42efa6a7424f/workspaces/8c559da37b754c94ae3dd7ff
+  id: 8c559da37b754c94ae3dd7ff
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/7ad181a5b9af42efa6a7424f
+id: 7ad181a5b9af42efa6a7424f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-20T19:22:04.031+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55268ceee4b0d32bdfc01a26
+  id: 55268ceee4b0d32bdfc01a26
+  image: /images/placeholder-user.png
+  name: sw3Dp
+  state: 1
+name: cnc mechanical assembly.sat
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55268ceee4b0d32bdfc01a26
+  id: 55268ceee4b0d32bdfc01a26
+  image: /images/placeholder-user.png
+  name: sw3Dp
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/7ad181a5b9af42efa6a7424f/w/8c559da37b754c94ae3dd7ff?t=1432149727235
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/7ad181a5b9af42efa6a7424f/w/8c559da37b754c94ae3dd7ff/s/600x340?t=1432149727235
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7ad181a5b9af42efa6a7424f/w/8c559da37b754c94ae3dd7ff/s/70x40?t=1432149727235
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7ad181a5b9af42efa6a7424f/w/8c559da37b754c94ae3dd7ff/s/300x300?t=1432149727235
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7ad181a5b9af42efa6a7424f/w/8c559da37b754c94ae3dd7ff/s/300x170?t=1432149727235
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

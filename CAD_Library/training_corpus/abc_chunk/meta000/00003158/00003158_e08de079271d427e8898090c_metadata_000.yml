@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-14T23:56:30.622+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5503a83ce4b09f5b1893198f
+  id: 5503a83ce4b09f5b1893198f
+  image: /images/placeholder-user.png
+  name: Donald Merand
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e08de079271d427e8898090c/workspaces/c9a8ebad26f442c29d6ac959
+  id: c9a8ebad26f442c29d6ac959
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e08de079271d427e8898090c
+id: e08de079271d427e8898090c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-01-03T14:56:02.305+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5503a83ce4b09f5b1893198f
+  id: 5503a83ce4b09f5b1893198f
+  image: /images/placeholder-user.png
+  name: Donald Merand
+  state: 1
+name: Drill Press Laser Pointer
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5503a83ce4b09f5b1893198f
+  id: 5503a83ce4b09f5b1893198f
+  image: /images/placeholder-user.png
+  name: Donald Merand
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e08de079271d427e8898090c/w/c9a8ebad26f442c29d6ac959?t=1483455395499
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e08de079271d427e8898090c/w/c9a8ebad26f442c29d6ac959/s/300x300?t=1483455395499
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e08de079271d427e8898090c/w/c9a8ebad26f442c29d6ac959/s/70x40?t=1483455395499
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e08de079271d427e8898090c/w/c9a8ebad26f442c29d6ac959/s/600x340?t=1483455395499
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e08de079271d427e8898090c/w/c9a8ebad26f442c29d6ac959/s/300x170?t=1483455395499
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

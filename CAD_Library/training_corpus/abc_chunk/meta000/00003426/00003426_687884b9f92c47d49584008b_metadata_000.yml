@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-21T10:31:19.581+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55237f9ae4b059a1ae6a9141
+  id: 55237f9ae4b059a1ae6a9141
+  image: /images/placeholder-user.png
+  name: Gerhard Scharfetter
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/687884b9f92c47d49584008b/workspaces/001757c3c68e4ba592c0c4c3
+  id: 001757c3c68e4ba592c0c4c3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/687884b9f92c47d49584008b
+id: 687884b9f92c47d49584008b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-21T11:25:43.267+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55237f9ae4b059a1ae6a9141
+  id: 55237f9ae4b059a1ae6a9141
+  image: /images/placeholder-user.png
+  name: Gerhard Scharfetter
+  state: 1
+name: PROLITE TF1734MC-B1X
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55237f9ae4b059a1ae6a9141
+  id: 55237f9ae4b059a1ae6a9141
+  image: /images/placeholder-user.png
+  name: Gerhard Scharfetter
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/687884b9f92c47d49584008b/w/001757c3c68e4ba592c0c4c3?t=1470204202685
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/687884b9f92c47d49584008b/w/001757c3c68e4ba592c0c4c3/s/70x40?t=1470204202685
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/687884b9f92c47d49584008b/w/001757c3c68e4ba592c0c4c3/s/600x340?t=1470204202685
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/687884b9f92c47d49584008b/w/001757c3c68e4ba592c0c4c3/s/300x300?t=1470204202685
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/687884b9f92c47d49584008b/w/001757c3c68e4ba592c0c4c3/s/300x170?t=1470204202685
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-25T16:50:26.460+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53fcda34e4b03496ab237c6e
+  id: 53fcda34e4b03496ab237c6e
+  image: /images/placeholder-user.png
+  name: Forrester Cole
+  state: 2
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/02e73af277f2416f94d70c7f/workspaces/2cccfd954e5e400c9771bb24
+  id: 2cccfd954e5e400c9771bb24
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/02e73af277f2416f94d70c7f
+id: 02e73af277f2416f94d70c7f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-07T15:36:08.279+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53fcda34e4b03496ab237c6e
+  id: 53fcda34e4b03496ab237c6e
+  image: /images/placeholder-user.png
+  name: Forrester Cole
+  state: 2
+name: Section view test case
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53fcda34e4b03496ab237c6e
+  id: 53fcda34e4b03496ab237c6e
+  image: /images/placeholder-user.png
+  name: Forrester Cole
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/02e73af277f2416f94d70c7f/w/2cccfd954e5e400c9771bb24?t=1466937272699
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/02e73af277f2416f94d70c7f/w/2cccfd954e5e400c9771bb24/s/300x170?t=1466937272699
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/02e73af277f2416f94d70c7f/w/2cccfd954e5e400c9771bb24/s/600x340?t=1466937272699
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/02e73af277f2416f94d70c7f/w/2cccfd954e5e400c9771bb24/s/70x40?t=1466937272699
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/02e73af277f2416f94d70c7f/w/2cccfd954e5e400c9771bb24/s/300x300?t=1466937272699
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

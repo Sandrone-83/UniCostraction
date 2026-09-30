@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-14T20:57:31.145+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c20a82fa63c44111b8e0c5ea/workspaces/ea791ea5b04f41a483aab480
+  id: ea791ea5b04f41a483aab480
+  name: e g c (u m)
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c20a82fa63c44111b8e0c5ea
+id: c20a82fa63c44111b8e0c5ea
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-25T09:28:20.492+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  state: 1
+name: testing LOFT before the paint is dry
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fecf87e4b013c1a1fd9393
+  id: 54fecf87e4b013c1a1fd9393
+  image: /images/placeholder-user.png
+  name: Andrew
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c20a82fa63c44111b8e0c5ea/w/ea791ea5b04f41a483aab480?t=1443173307835
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c20a82fa63c44111b8e0c5ea/w/ea791ea5b04f41a483aab480/s/300x170?t=1443173307835
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c20a82fa63c44111b8e0c5ea/w/ea791ea5b04f41a483aab480/s/600x340?t=1443173307835
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c20a82fa63c44111b8e0c5ea/w/ea791ea5b04f41a483aab480/s/70x40?t=1443173307835
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c20a82fa63c44111b8e0c5ea/w/ea791ea5b04f41a483aab480/s/300x300?t=1443173307835
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

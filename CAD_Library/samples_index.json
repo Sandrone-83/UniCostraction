@@ -1,0 +1,431 @@
+{
+  "campioni": [
+    {
+      "file": "3dm_ladybug_Book_Case.3dm",
+      "dimensione_bytes": 687013,
+      "fonte_repo": "3dm",
+      "formato": "3DM (OpenNURBS/Rhino)",
+      "magic_ok": true,
+      "versione_3dm": 4,
+      "rhino": "Rhinoceros 4.x",
+      "dimensione_kb": 670.9
+    },
+    {
+      "file": "3dm_ladybug_heart_signet.3dm",
+      "dimensione_bytes": 546368,
+      "fonte_repo": "3dm",
+      "formato": "3DM (OpenNURBS/Rhino)",
+      "magic_ok": true,
+      "versione_3dm": 50,
+      "rhino": "Rhinoceros 5.x",
+      "dimensione_kb": 533.6
+    },
+    {
+      "file": "3ds_assimp_fels.3ds",
+      "dimensione_bytes": 13326,
+      "fonte_repo": "3ds",
+      "formato": "3DS",
+      "magic_ok": true,
+      "versione_3ds": 2,
+      "oggetti_mesh": 1,
+      "vertici_totali": 386,
+      "facce_totali": 768,
+      "materiali": 1,
+      "dimensione_kb": 13.0
+    },
+    {
+      "file": "3ds_assimp_jeep1.3ds",
+      "dimensione_bytes": 68697,
+      "fonte_repo": "3ds",
+      "formato": "3DS",
+      "magic_ok": true,
+      "versione_3ds": 2,
+      "oggetti_mesh": 7,
+      "vertici_totali": 1948,
+      "facce_totali": 2032,
+      "materiali": 1,
+      "dimensione_kb": 67.1
+    },
+    {
+      "file": "dwg_libredwg_Surface_R2004.dwg",
+      "dimensione_bytes": 162991,
+      "fonte_repo": "dwg",
+      "formato": "DWG",
+      "versione_dwg": "AC1018",
+      "versione_autocad": "AutoCAD 2004",
+      "dimensione_kb": 159.2
+    },
+    {
+      "file": "dwg_libredwg_TS1_R2000.dwg",
+      "dimensione_bytes": 418007,
+      "fonte_repo": "dwg",
+      "formato": "DWG",
+      "versione_dwg": "AC1015",
+      "versione_autocad": "AutoCAD 2000",
+      "dimensione_kb": 408.2
+    },
+    {
+      "file": "dwg_libredwg_entities2d_R2000.dwg",
+      "dimensione_bytes": 24028,
+      "fonte_repo": "dwg",
+      "formato": "DWG",
+      "versione_dwg": "AC1015",
+      "versione_autocad": "AutoCAD 2000",
+      "dimensione_kb": 23.5
+    },
+    {
+      "file": "dxf_assimp_wuson.dxf",
+      "dimensione_bytes": 482921,
+      "fonte_repo": "dxf",
+      "formato": "DXF",
+      "encoding": "ASCII",
+      "entita_totali": 1,
+      "entita_per_tipo": {
+        "INSERT": 1
+      },
+      "entita_nel_blocco_mesh": 6939,
+      "entita_blocco_per_tipo": {
+        "VERTEX": 6937,
+        "POLYLINE": 1,
+        "SEQEND": 1
+      },
+      "num_blocchi_definiti": 1,
+      "num_layer": 0,
+      "layer_top": [],
+      "bbox": {
+        "x": [
+          -0.46,
+          0.46
+        ],
+        "y": [
+          -0.001,
+          1.515
+        ]
+      },
+      "area_bbox": 1.4,
+      "dimensione_kb": 471.6
+    },
+    {
+      "file": "dxf_ezdxf_hatches_1.dxf",
+      "dimensione_bytes": 130334,
+      "fonte_repo": "dxf",
+      "formato": "DXF",
+      "encoding": "ASCII",
+      "versione_dxf": "AC1032",
+      "entita_totali": 32,
+      "entita_per_tipo": {
+        "LWPOLYLINE": 16,
+        "HATCH": 10,
+        "ARC": 6
+      },
+      "num_layer": 1,
+      "layer_top": [
+        "0"
+      ],
+      "bbox": {
+        "x": [
+          0.0,
+          163.417
+        ],
+        "y": [
+          0.0,
+          36.125
+        ]
+      },
+      "area_bbox": 5903.4,
+      "dimensione_kb": 127.3
+    },
+    {
+      "file": "dxf_ezdxf_text.dxf",
+      "dimensione_bytes": 232364,
+      "fonte_repo": "dxf",
+      "formato": "DXF",
+      "encoding": "ASCII",
+      "versione_dxf": "AC1032",
+      "entita_totali": 229,
+      "entita_per_tipo": {
+        "LWPOLYLINE": 78,
+        "TEXT": 62,
+        "LINE": 47,
+        "MTEXT": 30,
+        "ATTDEF": 4,
+        "ATTRIB": 4,
+        "VIEWPORT": 2,
+        "INSERT": 1,
+        "SEQEND": 1
+      },
+      "entita_nel_blocco_mesh": 7,
+      "entita_blocco_per_tipo": {
+        "ATTDEF": 4,
+        "VIEWPORT": 2,
+        "LWPOLYLINE": 1
+      },
+      "num_blocchi_definiti": 5,
+      "num_layer": 2,
+      "layer_top": [
+        "0",
+        "Defpoints"
+      ],
+      "bbox": {
+        "x": [
+          -147.927,
+          8401.702
+        ],
+        "y": [
+          -129.664,
+          2847.176
+        ]
+      },
+      "area_bbox": 25450877.9,
+      "dimensione_kb": 226.9
+    },
+    {
+      "file": "dxf_jscad_floorplan.dxf",
+      "dimensione_bytes": 1117143,
+      "fonte_repo": "dxf",
+      "formato": "DXF",
+      "encoding": "ASCII",
+      "versione_dxf": "AC1018",
+      "entita_totali": 970,
+      "entita_per_tipo": {
+        "LINE": 624,
+        "LWPOLYLINE": 124,
+        "TEXT": 89,
+        "DIMENSION": 63,
+        "ARC": 20,
+        "HATCH": 13,
+        "INSERT": 10,
+        "CIRCLE": 9,
+        "MTEXT": 9,
+        "LEADER": 6,
+        "VIEWPORT": 3
+      },
+      "entita_nel_blocco_mesh": 2690,
+      "entita_blocco_per_tipo": {
+        "LINE": 1365,
+        "POINT": 378,
+        "LWPOLYLINE": 278,
+        "INSERT": 275,
+        "MTEXT": 135,
+        "TEXT": 80,
+        "DIMENSION": 63,
+        "ARC": 60,
+        "CIRCLE": 23,
+        "HATCH": 13
+      },
+      "num_blocchi_definiti": 147,
+      "num_layer": 24,
+      "layer_top": [
+        "0",
+        "A-DIMS-1",
+        "A-NOTE",
+        "A-TEXT",
+        "ANNTEXT",
+        "Defpoints",
+        "TEMP",
+        "View Port"
+      ],
+      "bbox": {
+        "x": [
+          -845.224,
+          813.834
+        ],
+        "y": [
+          -673.464,
+          2088.195
+        ]
+      },
+      "area_bbox": 4581753.3,
+      "dimensione_kb": 1091.0
+    },
+    {
+      "file": "dxf_jscad_splines.dxf",
+      "dimensione_bytes": 16576,
+      "fonte_repo": "dxf",
+      "formato": "DXF",
+      "encoding": "ASCII",
+      "versione_dxf": "AC1021",
+      "entita_totali": 2,
+      "entita_per_tipo": {
+        "SPLINE": 2
+      },
+      "num_layer": 1,
+      "layer_top": [
+        "0"
+      ],
+      "bbox": {
+        "x": [
+          10.0,
+          90.0
+        ],
+        "y": [
+          10.0,
+          100.0
+        ]
+      },
+      "area_bbox": 7200.0,
+      "dimensione_kb": 16.2
+    },
+    {
+      "file": "dxf_libredwg_TS1.dxf",
+      "dimensione_bytes": 1057584,
+      "fonte_repo": "dxf",
+      "formato": "DXF",
+      "encoding": "ASCII",
+      "versione_dxf": "AC1015",
+      "entita_totali": 45,
+      "entita_per_tipo": {
+        "VERTEX": 12,
+        "DIMENSION": 6,
+        "LINE": 3,
+        "SEQEND": 2,
+        "LWPOLYLINE": 2,
+        "CIRCLE": 2,
+        "HATCH": 2,
+        "ATTDEF": 1,
+        "INSERT": 1,
+        "ATTRIB": 1,
+        "POINT": 1,
+        "ARC": 1,
+        "3DFACE": 1,
+        "POLYLINE": 1,
+        "TRACE": 1
+      },
+      "entita_nel_blocco_mesh": 63,
+      "entita_blocco_per_tipo": {
+        "LINE": 22,
+        "POINT": 19,
+        "MTEXT": 8,
+        "SOLID": 8,
+        "ARC": 4,
+        "LWPOLYLINE": 1,
+        "ATTDEF": 1
+      },
+      "num_blocchi_definiti": 11,
+      "num_layer": 3,
+      "layer_top": [
+        "0",
+        "Defpoints",
+        "some layer"
+      ],
+      "bbox": {
+        "x": [
+          -1.451,
+          34.603
+        ],
+        "y": [
+          -16.692,
+          57.747
+        ]
+      },
+      "area_bbox": 2683.8,
+      "dimensione_kb": 1032.8
+    },
+    {
+      "file": "step_ladybug_EPalOriginal01.stp",
+      "dimensione_bytes": 159332,
+      "fonte_repo": "step",
+      "formato": "STEP",
+      "file_name_step": null,
+      "schema": null,
+      "entita_step_totali": 3314,
+      "entita_per_tipo": {
+        "CARTESIAN_POINT": 906,
+        "EDGE_CURVE": 288,
+        "DIRECTION": 140,
+        "ADVANCED_FACE": 136,
+        "PLANE": 136,
+        "MANIFOLD_SOLID_BREP": 20,
+        "CLOSED_SHELL": 20
+      },
+      "bbox_xyz": [
+        [
+          -0.0,
+          1200.0
+        ],
+        [
+          -400.0,
+          400.0
+        ],
+        [
+          0.0,
+          144.0
+        ]
+      ],
+      "n_punti_campione": 906,
+      "dimensione_kb": 155.6
+    },
+    {
+      "file": "step_virtualagc_1006315A.stp",
+      "dimensione_bytes": 385012,
+      "fonte_repo": "step",
+      "formato": "STEP",
+      "file_name_step": null,
+      "schema": null,
+      "entita_step_totali": 5255,
+      "entita_per_tipo": {
+        "DIRECTION": 962,
+        "CARTESIAN_POINT": 871,
+        "EDGE_CURVE": 430,
+        "LINE": 224,
+        "CIRCLE": 206,
+        "ADVANCED_FACE": 162,
+        "CYLINDRICAL_SURFACE": 90,
+        "PLANE": 46,
+        "MANIFOLD_SOLID_BREP": 1,
+        "CLOSED_SHELL": 1
+      },
+      "bbox_xyz": [
+        [
+          -0.0,
+          6.62
+        ],
+        [
+          0.0,
+          4.415
+        ],
+        [
+          -0.0,
+          0.125
+        ]
+      ],
+      "n_punti_campione": 871,
+      "dimensione_kb": 376.0
+    },
+    {
+      "file": "step_virtualagc_1006340C.stp",
+      "dimensione_bytes": 45061,
+      "fonte_repo": "step",
+      "formato": "STEP",
+      "file_name_step": null,
+      "schema": null,
+      "entita_step_totali": 635,
+      "entita_per_tipo": {
+        "CARTESIAN_POINT": 100,
+        "DIRECTION": 88,
+        "EDGE_CURVE": 48,
+        "LINE": 48,
+        "ADVANCED_FACE": 19,
+        "PLANE": 19,
+        "MANIFOLD_SOLID_BREP": 1,
+        "CLOSED_SHELL": 1
+      },
+      "bbox_xyz": [
+        [
+          -0.33,
+          0.33
+        ],
+        [
+          0.0,
+          0.035
+        ],
+        [
+          -0.28,
+          0.28
+        ]
+      ],
+      "n_punti_campione": 100,
+      "dimensione_kb": 44.0
+    }
+  ]
+}

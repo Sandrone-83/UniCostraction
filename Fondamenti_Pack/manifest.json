@@ -1,0 +1,121 @@
+[
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "The Elements of Euclid",
+    "records": 31,
+    "license": "Public domain",
+    "url": "https://archive.org/details/elementsofeuclid00eucl_0"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Calculus Made Easy",
+    "records": 43,
+    "license": "Public domain",
+    "url": "https://archive.org/details/in.ernet.dli.2015.94125"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Flatland: A Romance of Many Dimensions",
+    "records": 38,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/201"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "The Republic",
+    "records": 229,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/1497"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "The Nicomachean Ethics",
+    "records": 115,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/8438"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Meditations",
+    "records": 78,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/2680"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "The Problems of Philosophy",
+    "records": 48,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/5827"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Discourse on the Method",
+    "records": 32,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/59"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "The Critique of Pure Reason",
+    "records": 252,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/4280"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "On the Origin of Species",
+    "records": 184,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/1228"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Relativity: The Special and General Theory",
+    "records": 36,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/30155"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Elements of Chemistry",
+    "records": 121,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/30775"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Philosophiae Naturalis Principia Mathematica (English)",
+    "records": 152,
+    "license": "Public domain",
+    "url": "https://www.gutenberg.org/ebooks/28233"
+  },
+  {
+    "file": "parsed/classici_fondamenti.jsonl",
+    "doc": "Tractatus Logico-Philosophicus",
+    "records": 59,
+    "license": "Public domain",
+    "url": "https://archive.org/details/tractatuslogicop1971witt"
+  },
+  {
+    "file": "parsed\\wiki_fondamenti\\wikibooks_en.jsonl",
+    "doc": "wikibooks_en.jsonl",
+    "records": 103,
+    "license": "CC BY-SA 4.0",
+    "url": "https://wikimedia.org"
+  },
+  {
+    "file": "parsed\\wiki_fondamenti\\wiki_fondamenti_en.jsonl",
+    "doc": "wiki_fondamenti_en.jsonl",
+    "records": 55,
+    "license": "CC BY-SA 4.0",
+    "url": "https://wikimedia.org"
+  },
+  {
+    "file": "parsed\\wiki_fondamenti\\wiki_fondamenti_it.jsonl",
+    "doc": "wiki_fondamenti_it.jsonl",
+    "records": 10,
+    "license": "CC BY-SA 4.0",
+    "url": "https://wikimedia.org"
+  }
+]

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T17:08:32.799+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdee18e4b0c0916a2984b9
+  id: 54fdee18e4b0c0916a2984b9
+  image: /images/placeholder-user.png
+  name: Kevin Hendrickson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/05a3e14e58a848f6bbba9d41/workspaces/db5a2c92a29e40cbbcaa39ac
+  id: db5a2c92a29e40cbbcaa39ac
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/05a3e14e58a848f6bbba9d41
+id: 05a3e14e58a848f6bbba9d41
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-21T16:19:06.279+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdee18e4b0c0916a2984b9
+  id: 54fdee18e4b0c0916a2984b9
+  image: /images/placeholder-user.png
+  name: Kevin Hendrickson
+  state: 1
+name: dust collector fittings
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdee18e4b0c0916a2984b9
+  id: 54fdee18e4b0c0916a2984b9
+  image: /images/placeholder-user.png
+  name: Kevin Hendrickson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/05a3e14e58a848f6bbba9d41/w/db5a2c92a29e40cbbcaa39ac?t=1429633189836
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/05a3e14e58a848f6bbba9d41/w/db5a2c92a29e40cbbcaa39ac/s/600x340?t=1429633189836
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/05a3e14e58a848f6bbba9d41/w/db5a2c92a29e40cbbcaa39ac/s/70x40?t=1429633189836
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/05a3e14e58a848f6bbba9d41/w/db5a2c92a29e40cbbcaa39ac/s/300x170?t=1429633189836
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/05a3e14e58a848f6bbba9d41/w/db5a2c92a29e40cbbcaa39ac/s/300x300?t=1429633189836
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

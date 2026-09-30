@@ -1,0 +1,978 @@
+[
+  {
+    "name": ".gitignore",
+    "path": "examples_dxf/.gitignore",
+    "sha": "50aa6059caf9bd3265b89766428b886ce6f93ad5",
+    "size": 191,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/.gitignore?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/.gitignore",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/50aa6059caf9bd3265b89766428b886ce6f93ad5",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/50aa6059caf9bd3265b89766428b886ce6f93ad5",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/.gitignore"
+    }
+  },
+  {
+    "name": "3dface.dxf",
+    "path": "examples_dxf/3dface.dxf",
+    "sha": "9eb0711e169ecfaec975622c6e79f27d0e92f2a9",
+    "size": 133398,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/3dface.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/3dface.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/9eb0711e169ecfaec975622c6e79f27d0e92f2a9",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/3dface.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/3dface.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/9eb0711e169ecfaec975622c6e79f27d0e92f2a9",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/3dface.dxf"
+    }
+  },
+  {
+    "name": "Minimal_DXF_AC1006.dxf",
+    "path": "examples_dxf/Minimal_DXF_AC1006.dxf",
+    "sha": "09f02ca5a470967ff2940ed366b191c71f44d8c2",
+    "size": 805,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/Minimal_DXF_AC1006.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/Minimal_DXF_AC1006.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/09f02ca5a470967ff2940ed366b191c71f44d8c2",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/Minimal_DXF_AC1006.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/Minimal_DXF_AC1006.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/09f02ca5a470967ff2940ed366b191c71f44d8c2",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/Minimal_DXF_AC1006.dxf"
+    }
+  },
+  {
+    "name": "Minimal_DXF_AC1009.dxf",
+    "path": "examples_dxf/Minimal_DXF_AC1009.dxf",
+    "sha": "baef4b94754abed1988f7ac5068dba1486aadb9f",
+    "size": 35,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/Minimal_DXF_AC1009.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/Minimal_DXF_AC1009.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/baef4b94754abed1988f7ac5068dba1486aadb9f",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/Minimal_DXF_AC1009.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/Minimal_DXF_AC1009.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/baef4b94754abed1988f7ac5068dba1486aadb9f",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/Minimal_DXF_AC1009.dxf"
+    }
+  },
+  {
+    "name": "Minimal_DXF_AC1021.dxf",
+    "path": "examples_dxf/Minimal_DXF_AC1021.dxf",
+    "sha": "c8b6904470792c41bc85effc1842a42e869ae07b",
+    "size": 3041,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/Minimal_DXF_AC1021.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/Minimal_DXF_AC1021.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/c8b6904470792c41bc85effc1842a42e869ae07b",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/Minimal_DXF_AC1021.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/Minimal_DXF_AC1021.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/c8b6904470792c41bc85effc1842a42e869ae07b",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/Minimal_DXF_AC1021.dxf"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "examples_dxf/README.md",
+    "sha": "127ff7bc71ce6308be6e3a57d5141e2931bd6c33",
+    "size": 328,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/README.md?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/README.md",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/127ff7bc71ce6308be6e3a57d5141e2931bd6c33",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/README.md?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/127ff7bc71ce6308be6e3a57d5141e2931bd6c33",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/README.md"
+    }
+  },
+  {
+    "name": "VP4.dxf",
+    "path": "examples_dxf/VP4.dxf",
+    "sha": "eea78627cd77e473e4a368dd369087dddaf6c762",
+    "size": 76778,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/VP4.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/VP4.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/eea78627cd77e473e4a368dd369087dddaf6c762",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/VP4.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/VP4.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/eea78627cd77e473e4a368dd369087dddaf6c762",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/VP4.dxf"
+    }
+  },
+  {
+    "name": "acad_table_simple.dxf",
+    "path": "examples_dxf/acad_table_simple.dxf",
+    "sha": "a846939a8935f7f24aa0389d2a0578b26813ccb1",
+    "size": 92040,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/acad_table_simple.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/acad_table_simple.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a846939a8935f7f24aa0389d2a0578b26813ccb1",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/acad_table_simple.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/acad_table_simple.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a846939a8935f7f24aa0389d2a0578b26813ccb1",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/acad_table_simple.dxf"
+    }
+  },
+  {
+    "name": "acad_table_with_blk_ref.dxf",
+    "path": "examples_dxf/acad_table_with_blk_ref.dxf",
+    "sha": "46e01119a9888dd715fb567f0159f96302a20fae",
+    "size": 156603,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/acad_table_with_blk_ref.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/acad_table_with_blk_ref.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/46e01119a9888dd715fb567f0159f96302a20fae",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/acad_table_with_blk_ref.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/acad_table_with_blk_ref.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/46e01119a9888dd715fb567f0159f96302a20fae",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/acad_table_with_blk_ref.dxf"
+    }
+  },
+  {
+    "name": "caret_encoding.dxf",
+    "path": "examples_dxf/caret_encoding.dxf",
+    "sha": "72a06ad9131b712cf78153dd1aeec9a6f365b87e",
+    "size": 21825,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/caret_encoding.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/caret_encoding.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/72a06ad9131b712cf78153dd1aeec9a6f365b87e",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/caret_encoding.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/caret_encoding.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/72a06ad9131b712cf78153dd1aeec9a6f365b87e",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/caret_encoding.dxf"
+    }
+  },
+  {
+    "name": "circle_radius_le_0.dxf",
+    "path": "examples_dxf/circle_radius_le_0.dxf",
+    "sha": "c9272d97c614c35d448c4c3eb9faa353e417d61d",
+    "size": 14979,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/circle_radius_le_0.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/circle_radius_le_0.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/c9272d97c614c35d448c4c3eb9faa353e417d61d",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/circle_radius_le_0.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/circle_radius_le_0.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/c9272d97c614c35d448c4c3eb9faa353e417d61d",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/circle_radius_le_0.dxf"
+    }
+  },
+  {
+    "name": "clockwise_arcs_hatch.dxf",
+    "path": "examples_dxf/clockwise_arcs_hatch.dxf",
+    "sha": "116a94f4d5c423e9d25f034d7a069b9eac83c836",
+    "size": 19257,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/clockwise_arcs_hatch.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/clockwise_arcs_hatch.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/116a94f4d5c423e9d25f034d7a069b9eac83c836",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/clockwise_arcs_hatch.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/clockwise_arcs_hatch.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/116a94f4d5c423e9d25f034d7a069b9eac83c836",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/clockwise_arcs_hatch.dxf"
+    }
+  },
+  {
+    "name": "colors.dxf",
+    "path": "examples_dxf/colors.dxf",
+    "sha": "7c7d0b4149793885fc240df6be720192889a816b",
+    "size": 151817,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/colors.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/colors.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7c7d0b4149793885fc240df6be720192889a816b",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/colors.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/colors.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7c7d0b4149793885fc240df6be720192889a816b",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/colors.dxf"
+    }
+  },
+  {
+    "name": "columns_R2007.dxf",
+    "path": "examples_dxf/columns_R2007.dxf",
+    "sha": "b7370cce0614904bdd0608061757136009520af3",
+    "size": 195808,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/columns_R2007.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/columns_R2007.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/b7370cce0614904bdd0608061757136009520af3",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/columns_R2007.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/columns_R2007.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/b7370cce0614904bdd0608061757136009520af3",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/columns_R2007.dxf"
+    }
+  },
+  {
+    "name": "columns_R2018.dxf",
+    "path": "examples_dxf/columns_R2018.dxf",
+    "sha": "245a48fdd0cdf00c4047dab29a93dc1b30892714",
+    "size": 93392,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/columns_R2018.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/columns_R2018.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/245a48fdd0cdf00c4047dab29a93dc1b30892714",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/columns_R2018.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/columns_R2018.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/245a48fdd0cdf00c4047dab29a93dc1b30892714",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/columns_R2018.dxf"
+    }
+  },
+  {
+    "name": "create_aci_color_table.py",
+    "path": "examples_dxf/create_aci_color_table.py",
+    "sha": "da18e3a733bf0f0a71f26f2429d77a400e956834",
+    "size": 2170,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_aci_color_table.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_aci_color_table.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/da18e3a733bf0f0a71f26f2429d77a400e956834",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_aci_color_table.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_aci_color_table.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/da18e3a733bf0f0a71f26f2429d77a400e956834",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_aci_color_table.py"
+    }
+  },
+  {
+    "name": "create_caret_encoding.py",
+    "path": "examples_dxf/create_caret_encoding.py",
+    "sha": "3b2882c8619c926dc6c4a1279f5c85119b91d668",
+    "size": 701,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_caret_encoding.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_caret_encoding.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/3b2882c8619c926dc6c4a1279f5c85119b91d668",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_caret_encoding.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_caret_encoding.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/3b2882c8619c926dc6c4a1279f5c85119b91d668",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_caret_encoding.py"
+    }
+  },
+  {
+    "name": "create_hatch_boundary_examples.py",
+    "path": "examples_dxf/create_hatch_boundary_examples.py",
+    "sha": "7508bbbe1b91636fa447453291e2c7db0762bc5f",
+    "size": 5206,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_hatch_boundary_examples.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_hatch_boundary_examples.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7508bbbe1b91636fa447453291e2c7db0762bc5f",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_hatch_boundary_examples.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_hatch_boundary_examples.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7508bbbe1b91636fa447453291e2c7db0762bc5f",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_hatch_boundary_examples.py"
+    }
+  },
+  {
+    "name": "create_hatch_pattern_examples.py",
+    "path": "examples_dxf/create_hatch_pattern_examples.py",
+    "sha": "5894ad9774ec0cbb4c36506da28ccc5eea312d08",
+    "size": 1230,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_hatch_pattern_examples.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_hatch_pattern_examples.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/5894ad9774ec0cbb4c36506da28ccc5eea312d08",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_hatch_pattern_examples.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_hatch_pattern_examples.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/5894ad9774ec0cbb4c36506da28ccc5eea312d08",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_hatch_pattern_examples.py"
+    }
+  },
+  {
+    "name": "create_linetype_examples.py",
+    "path": "examples_dxf/create_linetype_examples.py",
+    "sha": "21a6e774d622c05808abb264b7fdf3d12bd8d46f",
+    "size": 1247,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_linetype_examples.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_linetype_examples.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/21a6e774d622c05808abb264b7fdf3d12bd8d46f",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_linetype_examples.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_linetype_examples.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/21a6e774d622c05808abb264b7fdf3d12bd8d46f",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_linetype_examples.py"
+    }
+  },
+  {
+    "name": "create_mline_examples.py",
+    "path": "examples_dxf/create_mline_examples.py",
+    "sha": "d0ce7c87ac99b7bd05858a122b7f537e75d3124f",
+    "size": 2698,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_mline_examples.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_mline_examples.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d0ce7c87ac99b7bd05858a122b7f537e75d3124f",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_mline_examples.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_mline_examples.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d0ce7c87ac99b7bd05858a122b7f537e75d3124f",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_mline_examples.py"
+    }
+  },
+  {
+    "name": "create_mtext_column_examples.py",
+    "path": "examples_dxf/create_mtext_column_examples.py",
+    "sha": "dbac4244d647593020e5b97f9750e7498366b8a4",
+    "size": 2987,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_mtext_column_examples.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_mtext_column_examples.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/dbac4244d647593020e5b97f9750e7498366b8a4",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_mtext_column_examples.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_mtext_column_examples.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/dbac4244d647593020e5b97f9750e7498366b8a4",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_mtext_column_examples.py"
+    }
+  },
+  {
+    "name": "create_mtext_simple_all_alignments.py",
+    "path": "examples_dxf/create_mtext_simple_all_alignments.py",
+    "sha": "ebba6d82d79844163ede28bc47159f7dbcec2331",
+    "size": 1600,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_mtext_simple_all_alignments.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_mtext_simple_all_alignments.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/ebba6d82d79844163ede28bc47159f7dbcec2331",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_mtext_simple_all_alignments.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_mtext_simple_all_alignments.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/ebba6d82d79844163ede28bc47159f7dbcec2331",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_mtext_simple_all_alignments.py"
+    }
+  },
+  {
+    "name": "create_nested_block_references.py",
+    "path": "examples_dxf/create_nested_block_references.py",
+    "sha": "a9b88dea97cc3d3dd1649231af93b46ad4afdfe6",
+    "size": 6551,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_nested_block_references.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_nested_block_references.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a9b88dea97cc3d3dd1649231af93b46ad4afdfe6",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_nested_block_references.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_nested_block_references.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a9b88dea97cc3d3dd1649231af93b46ad4afdfe6",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_nested_block_references.py"
+    }
+  },
+  {
+    "name": "create_point_examples.py",
+    "path": "examples_dxf/create_point_examples.py",
+    "sha": "36938a6d02df8f7df4279b5ce3cf104eeca224ac",
+    "size": 1097,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_point_examples.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_point_examples.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/36938a6d02df8f7df4279b5ce3cf104eeca224ac",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_point_examples.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_point_examples.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/36938a6d02df8f7df4279b5ce3cf104eeca224ac",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_point_examples.py"
+    }
+  },
+  {
+    "name": "create_text_alignments.py",
+    "path": "examples_dxf/create_text_alignments.py",
+    "sha": "c16dbc53fa7e142f5d183a921881e14e7935daef",
+    "size": 4053,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_text_alignments.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_text_alignments.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/c16dbc53fa7e142f5d183a921881e14e7935daef",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_text_alignments.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_text_alignments.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/c16dbc53fa7e142f5d183a921881e14e7935daef",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_text_alignments.py"
+    }
+  },
+  {
+    "name": "create_transparency_checker.py",
+    "path": "examples_dxf/create_transparency_checker.py",
+    "sha": "1fead1110bd810600cd55ae333886945e6143993",
+    "size": 9008,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_transparency_checker.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_transparency_checker.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/1fead1110bd810600cd55ae333886945e6143993",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/create_transparency_checker.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/create_transparency_checker.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/1fead1110bd810600cd55ae333886945e6143993",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/create_transparency_checker.py"
+    }
+  },
+  {
+    "name": "dimension_in_block.dxf",
+    "path": "examples_dxf/dimension_in_block.dxf",
+    "sha": "7e207abceaab988234006c4fefa8c4ae3161f847",
+    "size": 88082,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/dimension_in_block.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/dimension_in_block.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7e207abceaab988234006c4fefa8c4ae3161f847",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/dimension_in_block.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/dimension_in_block.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7e207abceaab988234006c4fefa8c4ae3161f847",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/dimension_in_block.dxf"
+    }
+  },
+  {
+    "name": "dimension_in_nested_blocks.dxf",
+    "path": "examples_dxf/dimension_in_nested_blocks.dxf",
+    "sha": "0376d8de14fa426ab3cc05284639716f10735d6a",
+    "size": 91234,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/dimension_in_nested_blocks.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/dimension_in_nested_blocks.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/0376d8de14fa426ab3cc05284639716f10735d6a",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/dimension_in_nested_blocks.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/dimension_in_nested_blocks.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/0376d8de14fa426ab3cc05284639716f10735d6a",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/dimension_in_nested_blocks.dxf"
+    }
+  },
+  {
+    "name": "hatch_issues.dxf",
+    "path": "examples_dxf/hatch_issues.dxf",
+    "sha": "3716eda4cf3297dd3ead050ecbfc3bda57339707",
+    "size": 73197,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_issues.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_issues.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/3716eda4cf3297dd3ead050ecbfc3bda57339707",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/hatch_issues.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_issues.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/3716eda4cf3297dd3ead050ecbfc3bda57339707",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_issues.dxf"
+    }
+  },
+  {
+    "name": "hatch_text_box_in_fill.dxf",
+    "path": "examples_dxf/hatch_text_box_in_fill.dxf",
+    "sha": "28a7554d030e53c11222b98e099bfc2d988c1e41",
+    "size": 71517,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_text_box_in_fill.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_text_box_in_fill.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/28a7554d030e53c11222b98e099bfc2d988c1e41",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/hatch_text_box_in_fill.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_text_box_in_fill.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/28a7554d030e53c11222b98e099bfc2d988c1e41",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_text_box_in_fill.dxf"
+    }
+  },
+  {
+    "name": "hatch_text_box_in_hole.dxf",
+    "path": "examples_dxf/hatch_text_box_in_hole.dxf",
+    "sha": "263b7d085e6de0adc799c4adb8f4e9cd04a25888",
+    "size": 71517,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_text_box_in_hole.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_text_box_in_hole.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/263b7d085e6de0adc799c4adb8f4e9cd04a25888",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/hatch_text_box_in_hole.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_text_box_in_hole.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/263b7d085e6de0adc799c4adb8f4e9cd04a25888",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_text_box_in_hole.dxf"
+    }
+  },
+  {
+    "name": "hatch_text_box_overlapping_fill_and_hole.dxf",
+    "path": "examples_dxf/hatch_text_box_overlapping_fill_and_hole.dxf",
+    "sha": "66965eb68b5b45c97c318c3b0a8043766c2a046f",
+    "size": 71531,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_text_box_overlapping_fill_and_hole.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_text_box_overlapping_fill_and_hole.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/66965eb68b5b45c97c318c3b0a8043766c2a046f",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/hatch_text_box_overlapping_fill_and_hole.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatch_text_box_overlapping_fill_and_hole.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/66965eb68b5b45c97c318c3b0a8043766c2a046f",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatch_text_box_overlapping_fill_and_hole.dxf"
+    }
+  },
+  {
+    "name": "hatches_1.dxf",
+    "path": "examples_dxf/hatches_1.dxf",
+    "sha": "2369b78fd6484de93ac4079dc6b10cb631ed1495",
+    "size": 130334,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatches_1.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatches_1.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/2369b78fd6484de93ac4079dc6b10cb631ed1495",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/hatches_1.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatches_1.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/2369b78fd6484de93ac4079dc6b10cb631ed1495",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatches_1.dxf"
+    }
+  },
+  {
+    "name": "hatches_2.dxf",
+    "path": "examples_dxf/hatches_2.dxf",
+    "sha": "7eeadb6192a8927e3bcb592c601d7821e7e0ba5e",
+    "size": 208793,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatches_2.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatches_2.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7eeadb6192a8927e3bcb592c601d7821e7e0ba5e",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/hatches_2.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/hatches_2.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7eeadb6192a8927e3bcb592c601d7821e7e0ba5e",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/hatches_2.dxf"
+    }
+  },
+  {
+    "name": "image",
+    "path": "examples_dxf/image",
+    "sha": "8d71c10ea4d8fd5c6e9e555850ffbfaf8ea691f0",
+    "size": 0,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/image?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/tree/master/examples_dxf/image",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/trees/8d71c10ea4d8fd5c6e9e555850ffbfaf8ea691f0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/image?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/trees/8d71c10ea4d8fd5c6e9e555850ffbfaf8ea691f0",
+      "html": "https://github.com/mozman/ezdxf/tree/master/examples_dxf/image"
+    }
+  },
+  {
+    "name": "insert_bricscad_level_1.dxf",
+    "path": "examples_dxf/insert_bricscad_level_1.dxf",
+    "sha": "2e095f4ce79e54086080a98c97a5966642eed843",
+    "size": 91914,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/insert_bricscad_level_1.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/insert_bricscad_level_1.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/2e095f4ce79e54086080a98c97a5966642eed843",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/insert_bricscad_level_1.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/insert_bricscad_level_1.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/2e095f4ce79e54086080a98c97a5966642eed843",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/insert_bricscad_level_1.dxf"
+    }
+  },
+  {
+    "name": "mtext_columns_R2000.dxf",
+    "path": "examples_dxf/mtext_columns_R2000.dxf",
+    "sha": "a9772f4916844efb6b27ea4e68f52cbd8d8801fc",
+    "size": 20896,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_columns_R2000.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_columns_R2000.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a9772f4916844efb6b27ea4e68f52cbd8d8801fc",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/mtext_columns_R2000.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_columns_R2000.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a9772f4916844efb6b27ea4e68f52cbd8d8801fc",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_columns_R2000.dxf"
+    }
+  },
+  {
+    "name": "mtext_columns_R2007.dxf",
+    "path": "examples_dxf/mtext_columns_R2007.dxf",
+    "sha": "291c52328eb4d9dd64d01f375f4117104bf1e937",
+    "size": 22331,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_columns_R2007.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_columns_R2007.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/291c52328eb4d9dd64d01f375f4117104bf1e937",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/mtext_columns_R2007.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_columns_R2007.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/291c52328eb4d9dd64d01f375f4117104bf1e937",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_columns_R2007.dxf"
+    }
+  },
+  {
+    "name": "mtext_columns_R2018.dxf",
+    "path": "examples_dxf/mtext_columns_R2018.dxf",
+    "sha": "16ab041d44b847e4205593b0f3455fb4fb6e94df",
+    "size": 20695,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_columns_R2018.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_columns_R2018.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/16ab041d44b847e4205593b0f3455fb4fb6e94df",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/mtext_columns_R2018.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_columns_R2018.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/16ab041d44b847e4205593b0f3455fb4fb6e94df",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_columns_R2018.dxf"
+    }
+  },
+  {
+    "name": "mtext_complex_inline_codes.dxf",
+    "path": "examples_dxf/mtext_complex_inline_codes.dxf",
+    "sha": "32f4a239e1415d0d291b30ad06b8d118d327cef3",
+    "size": 166396,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_complex_inline_codes.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_complex_inline_codes.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/32f4a239e1415d0d291b30ad06b8d118d327cef3",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/mtext_complex_inline_codes.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/mtext_complex_inline_codes.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/32f4a239e1415d0d291b30ad06b8d118d327cef3",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/mtext_complex_inline_codes.dxf"
+    }
+  },
+  {
+    "name": "multi_insert_with_attribs.dxf",
+    "path": "examples_dxf/multi_insert_with_attribs.dxf",
+    "sha": "f75dfc51fb25191ac3a7b117181ece201768cd6f",
+    "size": 17346,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/multi_insert_with_attribs.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/multi_insert_with_attribs.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/f75dfc51fb25191ac3a7b117181ece201768cd6f",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/multi_insert_with_attribs.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/multi_insert_with_attribs.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/f75dfc51fb25191ac3a7b117181ece201768cd6f",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/multi_insert_with_attribs.dxf"
+    }
+  },
+  {
+    "name": "run_all.py",
+    "path": "examples_dxf/run_all.py",
+    "sha": "95c0f047e60f2c71c273bbc2e0b67e92787b27ca",
+    "size": 529,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/run_all.py?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/run_all.py",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/95c0f047e60f2c71c273bbc2e0b67e92787b27ca",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/run_all.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/run_all.py?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/95c0f047e60f2c71c273bbc2e0b67e92787b27ca",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/run_all.py"
+    }
+  },
+  {
+    "name": "text.dxf",
+    "path": "examples_dxf/text.dxf",
+    "sha": "47d5233aa9d7e2c995b4894a7716110177f9d386",
+    "size": 232364,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/47d5233aa9d7e2c995b4894a7716110177f9d386",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/47d5233aa9d7e2c995b4894a7716110177f9d386",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text.dxf"
+    }
+  },
+  {
+    "name": "text_alignments.dxf",
+    "path": "examples_dxf/text_alignments.dxf",
+    "sha": "cfb39ce5715693b0f018a5632b1617afdf3b1777",
+    "size": 21536,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_alignments.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_alignments.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/cfb39ce5715693b0f018a5632b1617afdf3b1777",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_alignments.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_alignments.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/cfb39ce5715693b0f018a5632b1617afdf3b1777",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_alignments.dxf"
+    }
+  },
+  {
+    "name": "text_fonts.dxf",
+    "path": "examples_dxf/text_fonts.dxf",
+    "sha": "d7a3593d03abffbdbaf6dde2301321f9b4a22fd2",
+    "size": 301744,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_fonts.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_fonts.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d7a3593d03abffbdbaf6dde2301321f9b4a22fd2",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_fonts.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_fonts.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d7a3593d03abffbdbaf6dde2301321f9b4a22fd2",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_fonts.dxf"
+    }
+  },
+  {
+    "name": "text_in_viewports.dxf",
+    "path": "examples_dxf/text_in_viewports.dxf",
+    "sha": "1e25b33b2be9fe44f77c4ba2c46aff8afcd97343",
+    "size": 78620,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_in_viewports.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_in_viewports.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/1e25b33b2be9fe44f77c4ba2c46aff8afcd97343",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_in_viewports.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_in_viewports.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/1e25b33b2be9fe44f77c4ba2c46aff8afcd97343",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_in_viewports.dxf"
+    }
+  },
+  {
+    "name": "text_mirror_shx_font.dxf",
+    "path": "examples_dxf/text_mirror_shx_font.dxf",
+    "sha": "dd16766c9b15366e3e2c138603cf8d33cfb1de94",
+    "size": 187554,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_mirror_shx_font.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_mirror_shx_font.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/dd16766c9b15366e3e2c138603cf8d33cfb1de94",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_mirror_shx_font.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_mirror_shx_font.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/dd16766c9b15366e3e2c138603cf8d33cfb1de94",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_mirror_shx_font.dxf"
+    }
+  },
+  {
+    "name": "text_mirror_true_type_font.dxf",
+    "path": "examples_dxf/text_mirror_true_type_font.dxf",
+    "sha": "d68bb1819fe4a2b522b8ef5bbc4423c33596dd33",
+    "size": 187545,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_mirror_true_type_font.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_mirror_true_type_font.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d68bb1819fe4a2b522b8ef5bbc4423c33596dd33",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_mirror_true_type_font.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_mirror_true_type_font.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d68bb1819fe4a2b522b8ef5bbc4423c33596dd33",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_mirror_true_type_font.dxf"
+    }
+  },
+  {
+    "name": "text_negative_extrusion.dxf",
+    "path": "examples_dxf/text_negative_extrusion.dxf",
+    "sha": "631d36f1d08a8e748d8ff05b4e516fc50f800b40",
+    "size": 228688,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_negative_extrusion.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_negative_extrusion.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/631d36f1d08a8e748d8ff05b4e516fc50f800b40",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_negative_extrusion.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_negative_extrusion.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/631d36f1d08a8e748d8ff05b4e516fc50f800b40",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_negative_extrusion.dxf"
+    }
+  },
+  {
+    "name": "text_oblique_rotate.dxf",
+    "path": "examples_dxf/text_oblique_rotate.dxf",
+    "sha": "914ce6f64d0a0dc653a17db9f1d0370ee6aef82e",
+    "size": 127953,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_oblique_rotate.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_oblique_rotate.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/914ce6f64d0a0dc653a17db9f1d0370ee6aef82e",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_oblique_rotate.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_oblique_rotate.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/914ce6f64d0a0dc653a17db9f1d0370ee6aef82e",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_oblique_rotate.dxf"
+    }
+  },
+  {
+    "name": "text_stacked_shx_font.dxf",
+    "path": "examples_dxf/text_stacked_shx_font.dxf",
+    "sha": "7291cba1bd0a968dc4c2f8704dfc4094a614a0af",
+    "size": 151383,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_stacked_shx_font.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_stacked_shx_font.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7291cba1bd0a968dc4c2f8704dfc4094a614a0af",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_stacked_shx_font.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_stacked_shx_font.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/7291cba1bd0a968dc4c2f8704dfc4094a614a0af",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_stacked_shx_font.dxf"
+    }
+  },
+  {
+    "name": "text_stacked_true_type_font.dxf",
+    "path": "examples_dxf/text_stacked_true_type_font.dxf",
+    "sha": "f5a338b00c4a2efce670222ab0e83f04e773b6ca",
+    "size": 151448,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_stacked_true_type_font.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_stacked_true_type_font.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/f5a338b00c4a2efce670222ab0e83f04e773b6ca",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/text_stacked_true_type_font.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/text_stacked_true_type_font.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/f5a338b00c4a2efce670222ab0e83f04e773b6ca",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/text_stacked_true_type_font.dxf"
+    }
+  },
+  {
+    "name": "transform_hatch_pattern.dxf",
+    "path": "examples_dxf/transform_hatch_pattern.dxf",
+    "sha": "a324e6436f9fc34f8ca4840be1441de749e1982b",
+    "size": 78804,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/transform_hatch_pattern.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/transform_hatch_pattern.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a324e6436f9fc34f8ca4840be1441de749e1982b",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/transform_hatch_pattern.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/transform_hatch_pattern.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/a324e6436f9fc34f8ca4840be1441de749e1982b",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/transform_hatch_pattern.dxf"
+    }
+  },
+  {
+    "name": "uncommon.dxf",
+    "path": "examples_dxf/uncommon.dxf",
+    "sha": "d9b5bca29fd6aaa57d3ef06230bf3ddc20d6d9c4",
+    "size": 343110,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/uncommon.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/uncommon.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d9b5bca29fd6aaa57d3ef06230bf3ddc20d6d9c4",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/uncommon.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/uncommon.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/d9b5bca29fd6aaa57d3ef06230bf3ddc20d6d9c4",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/uncommon.dxf"
+    }
+  },
+  {
+    "name": "valid_lineweights.dxf",
+    "path": "examples_dxf/valid_lineweights.dxf",
+    "sha": "467cc353ccff5c561649696676e175a427c17c16",
+    "size": 21383,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/valid_lineweights.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/valid_lineweights.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/467cc353ccff5c561649696676e175a427c17c16",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/valid_lineweights.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/valid_lineweights.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/467cc353ccff5c561649696676e175a427c17c16",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/valid_lineweights.dxf"
+    }
+  },
+  {
+    "name": "viewport_frozen_layers.dxf",
+    "path": "examples_dxf/viewport_frozen_layers.dxf",
+    "sha": "45143150977f420fe449bb5c49aca80bace6cfe7",
+    "size": 73504,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/viewport_frozen_layers.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/viewport_frozen_layers.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/45143150977f420fe449bb5c49aca80bace6cfe7",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/viewport_frozen_layers.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/viewport_frozen_layers.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/45143150977f420fe449bb5c49aca80bace6cfe7",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/viewport_frozen_layers.dxf"
+    }
+  },
+  {
+    "name": "visibility.dxf",
+    "path": "examples_dxf/visibility.dxf",
+    "sha": "0e2f9813c3d861413cf079727fcd7bbe5e041ffc",
+    "size": 121512,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/visibility.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/visibility.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/0e2f9813c3d861413cf079727fcd7bbe5e041ffc",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/visibility.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/visibility.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/0e2f9813c3d861413cf079727fcd7bbe5e041ffc",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/visibility.dxf"
+    }
+  },
+  {
+    "name": "wipeout_door.dxf",
+    "path": "examples_dxf/wipeout_door.dxf",
+    "sha": "531b270dbecc03586bd8086e854485c92f35cf13",
+    "size": 180063,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/wipeout_door.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/wipeout_door.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/531b270dbecc03586bd8086e854485c92f35cf13",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/wipeout_door.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/wipeout_door.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/531b270dbecc03586bd8086e854485c92f35cf13",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/wipeout_door.dxf"
+    }
+  },
+  {
+    "name": "wipeout_random.dxf",
+    "path": "examples_dxf/wipeout_random.dxf",
+    "sha": "466141fe3ca1bc422a3e8ba0888f0c9ce14e8408",
+    "size": 20459,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/wipeout_random.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/wipeout_random.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/466141fe3ca1bc422a3e8ba0888f0c9ce14e8408",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/wipeout_random.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/wipeout_random.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/466141fe3ca1bc422a3e8ba0888f0c9ce14e8408",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/wipeout_random.dxf"
+    }
+  },
+  {
+    "name": "xclip.dxf",
+    "path": "examples_dxf/xclip.dxf",
+    "sha": "84bc658acae52e4e5c1dac79bfeea306d72411a0",
+    "size": 94031,
+    "url": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/xclip.dxf?ref=master",
+    "html_url": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/xclip.dxf",
+    "git_url": "https://api.github.com/repos/mozman/ezdxf/git/blobs/84bc658acae52e4e5c1dac79bfeea306d72411a0",
+    "download_url": "https://raw.githubusercontent.com/mozman/ezdxf/master/examples_dxf/xclip.dxf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mozman/ezdxf/contents/examples_dxf/xclip.dxf?ref=master",
+      "git": "https://api.github.com/repos/mozman/ezdxf/git/blobs/84bc658acae52e4e5c1dac79bfeea306d72411a0",
+      "html": "https://github.com/mozman/ezdxf/blob/master/examples_dxf/xclip.dxf"
+    }
+  }
+]

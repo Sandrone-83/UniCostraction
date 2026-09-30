@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-14T21:19:59.244+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5553c73de4b0a0c74bdecf7b
+  id: 5553c73de4b0a0c74bdecf7b
+  image: /images/placeholder-user.png
+  name: Georg Hofstetter
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/dacc356f5ac9475c8e949f28/workspaces/f61be6b7d1bf47c0a0b80f80
+  id: f61be6b7d1bf47c0a0b80f80
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/dacc356f5ac9475c8e949f28
+id: dacc356f5ac9475c8e949f28
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-04-24T13:02:59.861+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/555511b9e4b048f081b2f38d
+  id: 555511b9e4b048f081b2f38d
+  image: /images/placeholder-user.png
+  name: "J\xFCrgen Rie\xDF"
+  state: 1
+name: Abdeckung Heizraum
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5553c73de4b0a0c74bdecf7b
+  id: 5553c73de4b0a0c74bdecf7b
+  image: /images/placeholder-user.png
+  name: Georg Hofstetter
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/dacc356f5ac9475c8e949f28/w/f61be6b7d1bf47c0a0b80f80?t=1524575014569
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/dacc356f5ac9475c8e949f28/w/f61be6b7d1bf47c0a0b80f80/s/300x300?t=1524575014569
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dacc356f5ac9475c8e949f28/w/f61be6b7d1bf47c0a0b80f80/s/70x40?t=1524575014569
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dacc356f5ac9475c8e949f28/w/f61be6b7d1bf47c0a0b80f80/s/600x340?t=1524575014569
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dacc356f5ac9475c8e949f28/w/f61be6b7d1bf47c0a0b80f80/s/300x170?t=1524575014569
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-14T11:27:14.733+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fea314e4b02630a8452f02
+  id: 54fea314e4b02630a8452f02
+  image: /images/placeholder-user.png
+  name: Anan Leelasmanchai
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e05b09de228a4c949076efca/workspaces/7bb627bcd0b64325b5f88ac4
+  id: 7bb627bcd0b64325b5f88ac4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e05b09de228a4c949076efca
+id: e05b09de228a4c949076efca
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-16T08:05:07.775+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fea314e4b02630a8452f02
+  id: 54fea314e4b02630a8452f02
+  image: /images/placeholder-user.png
+  name: Anan Leelasmanchai
+  state: 1
+name: BoxQR 3D Printer
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fea314e4b02630a8452f02
+  id: 54fea314e4b02630a8452f02
+  image: /images/placeholder-user.png
+  name: Anan Leelasmanchai
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e05b09de228a4c949076efca/w/7bb627bcd0b64325b5f88ac4?t=1431602881475
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e05b09de228a4c949076efca/w/7bb627bcd0b64325b5f88ac4/s/70x40?t=1431602881475
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e05b09de228a4c949076efca/w/7bb627bcd0b64325b5f88ac4/s/300x170?t=1431602881475
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e05b09de228a4c949076efca/w/7bb627bcd0b64325b5f88ac4/s/300x300?t=1431602881475
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e05b09de228a4c949076efca/w/7bb627bcd0b64325b5f88ac4/s/600x340?t=1431602881475
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

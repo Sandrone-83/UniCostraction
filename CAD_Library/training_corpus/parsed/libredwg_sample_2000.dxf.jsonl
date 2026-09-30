@@ -1,0 +1,7 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "libredwg/sample_2000.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 6, "entity_histogram": {"LINE": 3, "CIRCLE": 1, "TEXT": 1, "LWPOLYLINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-50.319, 199.681], [-85.304, 194.696]]}
+{"kind": "entity", "type": "CIRCLE", "layer": "Tavolo 1", "cx": 199.6812627452187, "cy": 24.69575912391304, "r": 20.0}
+{"kind": "entity", "type": "TEXT", "layer": "Tavolo 1", "text": "Jen teksto simpla, cxu ne?", "x": -50.31873725478131, "y": 134.695759123913, "h": 5.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Tavolo 1", "n": 4, "closed": true, "bbox": [[-50.3187372547813, 49.6812627452187], [-85.30424087608696, 54.69575912391305]]}
+{"kind": "entity", "type": "LINE", "layer": "Tavolo 1", "x1": 99.6812627452187, "y1": 94.69575912391304, "x2": 199.6812627452187, "y2": 94.69575912391304}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 199.6812627452187, "y1": 194.695759123913, "x2": 199.6812627452187, "y2": 94.69575912391304}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 99.6812627452187, "y1": 94.69575912391304, "x2": 199.6812627452187, "y2": 194.695759123913}

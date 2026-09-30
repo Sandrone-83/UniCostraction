@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-04T05:49:21.001+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff95f6e4b0191bdfa20ae0
+  id: 54ff95f6e4b0191bdfa20ae0
+  image: /images/placeholder-user.png
+  name: Doug Chan
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d9f5cd74867244f1bc3222ea/workspaces/4a88b1e34a0143f6b26c83b2
+  id: 4a88b1e34a0143f6b26c83b2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d9f5cd74867244f1bc3222ea
+id: d9f5cd74867244f1bc3222ea
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-12-14T20:04:41.800+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff95f6e4b0191bdfa20ae0
+  id: 54ff95f6e4b0191bdfa20ae0
+  image: /images/placeholder-user.png
+  name: Doug Chan
+  state: 1
+name: Lamp Mount Desk Hole Cover
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff95f6e4b0191bdfa20ae0
+  id: 54ff95f6e4b0191bdfa20ae0
+  image: /images/placeholder-user.png
+  name: Doug Chan
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d9f5cd74867244f1bc3222ea/w/4a88b1e34a0143f6b26c83b2?t=1481745881793
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d9f5cd74867244f1bc3222ea/w/4a88b1e34a0143f6b26c83b2/s/300x170?t=1481745881793
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d9f5cd74867244f1bc3222ea/w/4a88b1e34a0143f6b26c83b2/s/600x340?t=1481745881793
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d9f5cd74867244f1bc3222ea/w/4a88b1e34a0143f6b26c83b2/s/300x300?t=1481745881793
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d9f5cd74867244f1bc3222ea/w/4a88b1e34a0143f6b26c83b2/s/70x40?t=1481745881793
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

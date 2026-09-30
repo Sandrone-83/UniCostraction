@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-08T16:55:39.963+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ffa8bae4b0191bdfa20b19
+  id: 54ffa8bae4b0191bdfa20b19
+  image: /images/placeholder-user.png
+  name: frank26080115
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6d0e72ddb0d94caabc72aeac/workspaces/7170f19a83684ec8b3da9f3e
+  id: 7170f19a83684ec8b3da9f3e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6d0e72ddb0d94caabc72aeac
+id: 6d0e72ddb0d94caabc72aeac
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-08T18:02:36.278+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ffa8bae4b0191bdfa20b19
+  id: 54ffa8bae4b0191bdfa20b19
+  image: /images/placeholder-user.png
+  name: frank26080115
+  state: 1
+name: Pololu Micro Gear Motor.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ffa8bae4b0191bdfa20b19
+  id: 54ffa8bae4b0191bdfa20b19
+  image: /images/placeholder-user.png
+  name: frank26080115
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6d0e72ddb0d94caabc72aeac/w/7170f19a83684ec8b3da9f3e?t=1428515151541
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6d0e72ddb0d94caabc72aeac/w/7170f19a83684ec8b3da9f3e/s/300x300?t=1428515151541
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d0e72ddb0d94caabc72aeac/w/7170f19a83684ec8b3da9f3e/s/70x40?t=1428515151541
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d0e72ddb0d94caabc72aeac/w/7170f19a83684ec8b3da9f3e/s/300x170?t=1428515151541
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d0e72ddb0d94caabc72aeac/w/7170f19a83684ec8b3da9f3e/s/600x340?t=1428515151541
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

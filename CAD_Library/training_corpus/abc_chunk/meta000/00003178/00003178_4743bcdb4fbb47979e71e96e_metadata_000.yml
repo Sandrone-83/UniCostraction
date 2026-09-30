@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-15T13:22:32.514+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fddb93e4b04a9735f91b59
+  id: 54fddb93e4b04a9735f91b59
+  image: /images/placeholder-user.png
+  name: Brian Carlson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4743bcdb4fbb47979e71e96e/workspaces/c5d6d4ae7b034def92a089fb
+  id: c5d6d4ae7b034def92a089fb
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4743bcdb4fbb47979e71e96e
+id: 4743bcdb4fbb47979e71e96e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-01T15:15:23.520+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fddb93e4b04a9735f91b59
+  id: 54fddb93e4b04a9735f91b59
+  image: /images/placeholder-user.png
+  name: Brian Carlson
+  state: 1
+name: DRO bracket
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fddb93e4b04a9735f91b59
+  id: 54fddb93e4b04a9735f91b59
+  image: /images/placeholder-user.png
+  name: Brian Carlson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4743bcdb4fbb47979e71e96e/w/c5d6d4ae7b034def92a089fb?t=1429104443701
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4743bcdb4fbb47979e71e96e/w/c5d6d4ae7b034def92a089fb/s/300x170?t=1429104443701
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4743bcdb4fbb47979e71e96e/w/c5d6d4ae7b034def92a089fb/s/70x40?t=1429104443701
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4743bcdb4fbb47979e71e96e/w/c5d6d4ae7b034def92a089fb/s/600x340?t=1429104443701
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4743bcdb4fbb47979e71e96e/w/c5d6d4ae7b034def92a089fb/s/300x300?t=1429104443701
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

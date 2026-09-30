@@ -1,0 +1,107 @@
+[
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "A History of Architecture on the Comparative Method (5th ed.)",
+    "records": 216,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/ahistoryarchite01fletgoog"
+  },
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "Histoire de l'architecture (in francese)",
+    "records": 361,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/histoire-de-larchitecture"
+  },
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "A Rational Dictionary of French Architecture (selezione EN)",
+    "records": 553,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/5630691_1"
+  },
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "Essai sur l'architecture (in francese)",
+    "records": 51,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/essaisurlarchite00laug"
+  },
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "Précis des leçons d'architecture données à l'École polytechnique (in francese)",
+    "records": 38,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/prcisdesleon01dura"
+  },
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "America's Highways 1776-1976: A History of the Federal-Aid Program",
+    "records": 372,
+    "license": "Public domain (opera del Governo federale USA)",
+    "url": "https://archive.org/details/americashighways00unit"
+  },
+  {
+    "file": "parsed/storia_classici.jsonl",
+    "doc": "The History of the U.S. Army Corps of Engineers",
+    "records": 71,
+    "license": "Public domain (opera del Governo federale USA)",
+    "url": "https://archive.org/details/historyofusarmyc00alex"
+  },
+  {
+    "file": "parsed/cataloghi_edilizia.jsonl",
+    "doc": "Official List of Window Glass",
+    "records": 5,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/OfficialListOfWindowGlass"
+  },
+  {
+    "file": "parsed/cataloghi_edilizia.jsonl",
+    "doc": "Catalogue of Structural Steel & Iron for Architects, Engineers & Contractors",
+    "records": 47,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/CatalogueOfStructuralSteelIronForArchitectsEngineersContractors"
+  },
+  {
+    "file": "parsed/cataloghi_edilizia.jsonl",
+    "doc": "St. Louis Sash & Door Works - Combined Book of Designs",
+    "records": 28,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/st.-louis-sash-door-works-1895"
+  },
+  {
+    "file": "parsed/cataloghi_edilizia.jsonl",
+    "doc": "Haley Bros. & Co. - Lumber, Doors, Sashes, Interior Finish",
+    "records": 3,
+    "license": "Public domain (pubblicato prima del 1930, scan archive.org)",
+    "url": "https://archive.org/details/HaleyBros.Co.LumberMerchantsManufacturersOfDoorsSashesInterior"
+  },
+  {
+    "file": "parsed/habs_haer.jsonl",
+    "doc": "Historic American Buildings Survey - Catalog of the Measured Drawings (1941)",
+    "records": 161,
+    "license": "Public domain (opera del Governo federale USA)",
+    "url": "https://archive.org/details/historicamerican00nati"
+  },
+  {
+    "file": "parsed/habs_haer.jsonl",
+    "doc": "HAER - Boston Elevated Railway, Massachusetts (ricognizione ingegneristica storica)",
+    "records": 34,
+    "license": "Public domain (opera del Governo federale USA)",
+    "url": "https://archive.org/details/ma1288data"
+  },
+  {
+    "file": "parsed\\wiki_storia\\wiki_storia_en.jsonl",
+    "doc": "wiki_storia_en.jsonl",
+    "records": 80,
+    "license": "CC BY-SA 4.0",
+    "url": "https://wikipedia.org"
+  },
+  {
+    "file": "parsed\\wiki_storia\\wiki_storia_it.jsonl",
+    "doc": "wiki_storia_it.jsonl",
+    "records": 32,
+    "license": "CC BY-SA 4.0",
+    "url": "https://wikipedia.org"
+  }
+]

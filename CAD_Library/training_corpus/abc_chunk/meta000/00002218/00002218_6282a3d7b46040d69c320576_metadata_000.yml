@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-28T16:04:44.663+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/540741a7e4b023eb3faefe34
+  id: 540741a7e4b023eb3faefe34
+  image: https://profiles.onshape.com/21c99bac9bc689bbd051055b1f32384a9b535cffa52e1e57b5bdf44c34012cf7.png
+  name: Chris Aicher
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6282a3d7b46040d69c320576/workspaces/fecf7228fc274eb4a37ab778
+  id: fecf7228fc274eb4a37ab778
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6282a3d7b46040d69c320576
+id: 6282a3d7b46040d69c320576
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-04-23T00:09:03.074+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/540741a7e4b023eb3faefe34
+  id: 540741a7e4b023eb3faefe34
+  image: https://profiles.onshape.com/21c99bac9bc689bbd051055b1f32384a9b535cffa52e1e57b5bdf44c34012cf7.png
+  name: Chris Aicher
+  state: 1
+name: GrabCad motion study
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/540741a7e4b023eb3faefe34
+  id: 540741a7e4b023eb3faefe34
+  image: https://profiles.onshape.com/21c99bac9bc689bbd051055b1f32384a9b535cffa52e1e57b5bdf44c34012cf7.png
+  name: Chris Aicher
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6282a3d7b46040d69c320576/w/fecf7228fc274eb4a37ab778?t=1492906147035
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6282a3d7b46040d69c320576/w/fecf7228fc274eb4a37ab778/s/300x300?t=1492906147035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6282a3d7b46040d69c320576/w/fecf7228fc274eb4a37ab778/s/600x340?t=1492906147035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6282a3d7b46040d69c320576/w/fecf7228fc274eb4a37ab778/s/300x170?t=1492906147035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6282a3d7b46040d69c320576/w/fecf7228fc274eb4a37ab778/s/70x40?t=1492906147035
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

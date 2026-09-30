@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-01T13:41:32.610+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5510db6de4b0cdf1efec24f1
+  id: 5510db6de4b0cdf1efec24f1
+  image: /images/placeholder-user.png
+  name: MichaelC
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1621f5db43af4874b1fb5e45/workspaces/ba261871e761452d9a0642a7
+  id: ba261871e761452d9a0642a7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1621f5db43af4874b1fb5e45
+id: 1621f5db43af4874b1fb5e45
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-04-05T06:20:36.478+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5510db6de4b0cdf1efec24f1
+  id: 5510db6de4b0cdf1efec24f1
+  image: /images/placeholder-user.png
+  name: MichaelC
+  state: 1
+name: Top motor mount
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5510db6de4b0cdf1efec24f1
+  id: 5510db6de4b0cdf1efec24f1
+  image: /images/placeholder-user.png
+  name: MichaelC
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1621f5db43af4874b1fb5e45/w/ba261871e761452d9a0642a7?t=1491373239102
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1621f5db43af4874b1fb5e45/w/ba261871e761452d9a0642a7/s/70x40?t=1491373239102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1621f5db43af4874b1fb5e45/w/ba261871e761452d9a0642a7/s/300x300?t=1491373239102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1621f5db43af4874b1fb5e45/w/ba261871e761452d9a0642a7/s/600x340?t=1491373239102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1621f5db43af4874b1fb5e45/w/ba261871e761452d9a0642a7/s/300x170?t=1491373239102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

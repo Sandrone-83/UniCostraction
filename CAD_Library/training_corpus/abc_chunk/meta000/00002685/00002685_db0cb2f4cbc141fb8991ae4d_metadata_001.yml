@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T10:19:23.996+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5508412fe4b00f333563cb6b
+  id: 5508412fe4b00f333563cb6b
+  image: https://profiles.onshape.com/30613130374be9a4b99630b418670d96c9ff32339f84c9e9d0588717242abf6c.png
+  name: Teemu Launis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/db0cb2f4cbc141fb8991ae4d/workspaces/679806f7c007422a912ef9f3
+  id: 679806f7c007422a912ef9f3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/db0cb2f4cbc141fb8991ae4d
+id: db0cb2f4cbc141fb8991ae4d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-15T05:19:33.281+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5508412fe4b00f333563cb6b
+  id: 5508412fe4b00f333563cb6b
+  image: https://profiles.onshape.com/30613130374be9a4b99630b418670d96c9ff32339f84c9e9d0588717242abf6c.png
+  name: Teemu Launis
+  state: 1
+name: VegatableGrowingEquipmentTLS
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5508412fe4b00f333563cb6b
+  id: 5508412fe4b00f333563cb6b
+  image: https://profiles.onshape.com/30613130374be9a4b99630b418670d96c9ff32339f84c9e9d0588717242abf6c.png
+  name: Teemu Launis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/db0cb2f4cbc141fb8991ae4d/w/679806f7c007422a912ef9f3?t=1432476655102
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/db0cb2f4cbc141fb8991ae4d/w/679806f7c007422a912ef9f3/s/300x170?t=1432476655102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/db0cb2f4cbc141fb8991ae4d/w/679806f7c007422a912ef9f3/s/600x340?t=1432476655102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/db0cb2f4cbc141fb8991ae4d/w/679806f7c007422a912ef9f3/s/70x40?t=1432476655102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/db0cb2f4cbc141fb8991ae4d/w/679806f7c007422a912ef9f3/s/300x300?t=1432476655102
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

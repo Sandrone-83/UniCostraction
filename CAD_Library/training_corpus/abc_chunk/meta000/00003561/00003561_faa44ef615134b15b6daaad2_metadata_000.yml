@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-24T08:17:13.224+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe383ce4b024f269d817ab
+  id: 54fe383ce4b024f269d817ab
+  image: /images/placeholder-user.png
+  name: Nicklas Haraldsson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/faa44ef615134b15b6daaad2/workspaces/26328134ed404c718b29ab49
+  id: 26328134ed404c718b29ab49
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/faa44ef615134b15b6daaad2
+id: faa44ef615134b15b6daaad2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-22T20:33:00.560+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe383ce4b024f269d817ab
+  id: 54fe383ce4b024f269d817ab
+  image: /images/placeholder-user.png
+  name: Nicklas Haraldsson
+  state: 1
+name: AeropressTiamoAdapter
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe383ce4b024f269d817ab
+  id: 54fe383ce4b024f269d817ab
+  image: /images/placeholder-user.png
+  name: Nicklas Haraldsson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/faa44ef615134b15b6daaad2/w/26328134ed404c718b29ab49?t=1429888187710
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/faa44ef615134b15b6daaad2/w/26328134ed404c718b29ab49/s/300x170?t=1429888187710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/faa44ef615134b15b6daaad2/w/26328134ed404c718b29ab49/s/70x40?t=1429888187710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/faa44ef615134b15b6daaad2/w/26328134ed404c718b29ab49/s/300x300?t=1429888187710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/faa44ef615134b15b6daaad2/w/26328134ed404c718b29ab49/s/600x340?t=1429888187710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

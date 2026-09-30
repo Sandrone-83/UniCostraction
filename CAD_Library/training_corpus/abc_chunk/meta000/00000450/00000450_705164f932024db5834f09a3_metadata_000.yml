@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-11T17:48:35.552+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e26e65e4b0edf73d20d3c1
+  id: 53e26e65e4b0edf73d20d3c1
+  image: https://profiles.onshape.com/bd338daa78e036028dca90e23fd163c0d56ee52677837ae3dcaba90f875b4d14.png
+  name: Kevin Quigley
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/705164f932024db5834f09a3/workspaces/0ace2cd22f8c4114852db889
+  id: 0ace2cd22f8c4114852db889
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/705164f932024db5834f09a3
+id: 705164f932024db5834f09a3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-21T11:04:46.074+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e26e65e4b0edf73d20d3c1
+  id: 53e26e65e4b0edf73d20d3c1
+  image: https://profiles.onshape.com/bd338daa78e036028dca90e23fd163c0d56ee52677837ae3dcaba90f875b4d14.png
+  name: Kevin Quigley
+  state: 1
+name: helix test
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e26e65e4b0edf73d20d3c1
+  id: 53e26e65e4b0edf73d20d3c1
+  image: https://profiles.onshape.com/bd338daa78e036028dca90e23fd163c0d56ee52677837ae3dcaba90f875b4d14.png
+  name: Kevin Quigley
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/705164f932024db5834f09a3/w/0ace2cd22f8c4114852db889?t=1437476930893
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/705164f932024db5834f09a3/w/0ace2cd22f8c4114852db889/s/300x300?t=1437476930893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/705164f932024db5834f09a3/w/0ace2cd22f8c4114852db889/s/300x170?t=1437476930893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/705164f932024db5834f09a3/w/0ace2cd22f8c4114852db889/s/70x40?t=1437476930893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/705164f932024db5834f09a3/w/0ace2cd22f8c4114852db889/s/600x340?t=1437476930893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

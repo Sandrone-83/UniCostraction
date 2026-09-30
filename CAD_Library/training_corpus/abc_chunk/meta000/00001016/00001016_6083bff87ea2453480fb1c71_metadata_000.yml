@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T16:25:58.259+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdfb2ae4b0c0916a298562
+  id: 54fdfb2ae4b0c0916a298562
+  image: https://profiles.onshape.com/e1eb9f517906ed8071e291c18734bd8ae8898355828383321f76db1ce038fe03.png
+  name: Quinton Rocke
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6083bff87ea2453480fb1c71/workspaces/9ed142b6d86646e0a2f26fcd
+  id: 9ed142b6d86646e0a2f26fcd
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6083bff87ea2453480fb1c71
+id: 6083bff87ea2453480fb1c71
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-12T23:35:55.285+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdfb2ae4b0c0916a298562
+  id: 54fdfb2ae4b0c0916a298562
+  image: https://profiles.onshape.com/e1eb9f517906ed8071e291c18734bd8ae8898355828383321f76db1ce038fe03.png
+  name: Quinton Rocke
+  state: 1
+name: test part 1
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdfb2ae4b0c0916a298562
+  id: 54fdfb2ae4b0c0916a298562
+  image: https://profiles.onshape.com/e1eb9f517906ed8071e291c18734bd8ae8898355828383321f76db1ce038fe03.png
+  name: Quinton Rocke
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6083bff87ea2453480fb1c71/w/9ed142b6d86646e0a2f26fcd?t=1426203407023
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6083bff87ea2453480fb1c71/w/9ed142b6d86646e0a2f26fcd/s/300x170?t=1426203407023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6083bff87ea2453480fb1c71/w/9ed142b6d86646e0a2f26fcd/s/300x300?t=1426203407023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6083bff87ea2453480fb1c71/w/9ed142b6d86646e0a2f26fcd/s/70x40?t=1426203407023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6083bff87ea2453480fb1c71/w/9ed142b6d86646e0a2f26fcd/s/600x340?t=1426203407023
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

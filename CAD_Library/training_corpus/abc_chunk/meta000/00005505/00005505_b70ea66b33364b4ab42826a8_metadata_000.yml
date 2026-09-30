@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-21T19:55:07.010+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/555d4c03e4b039f60f661f12
+  id: 555d4c03e4b039f60f661f12
+  image: /images/placeholder-user.png
+  name: Kevin Sizemore
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b70ea66b33364b4ab42826a8/workspaces/ad93bda365b34369a9b1d2cf
+  id: ad93bda365b34369a9b1d2cf
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b70ea66b33364b4ab42826a8
+id: b70ea66b33364b4ab42826a8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-21T20:57:00.738+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/555d4c03e4b039f60f661f12
+  id: 555d4c03e4b039f60f661f12
+  image: /images/placeholder-user.png
+  name: Kevin Sizemore
+  state: 1
+name: Ricks Boat Part
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/555d4c03e4b039f60f661f12
+  id: 555d4c03e4b039f60f661f12
+  image: /images/placeholder-user.png
+  name: Kevin Sizemore
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b70ea66b33364b4ab42826a8/w/ad93bda365b34369a9b1d2cf?t=1432242404787
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b70ea66b33364b4ab42826a8/w/ad93bda365b34369a9b1d2cf/s/600x340?t=1432242404787
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b70ea66b33364b4ab42826a8/w/ad93bda365b34369a9b1d2cf/s/300x170?t=1432242404787
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b70ea66b33364b4ab42826a8/w/ad93bda365b34369a9b1d2cf/s/70x40?t=1432242404787
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b70ea66b33364b4ab42826a8/w/ad93bda365b34369a9b1d2cf/s/300x300?t=1432242404787
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

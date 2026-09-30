@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-17T00:38:38.591+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55222917e4b0d32bdfc0149c
+  id: 55222917e4b0d32bdfc0149c
+  image: /images/placeholder-user.png
+  name: Chris Towles
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/49c82c85f8084e3c96d82dae/workspaces/cea4bfb4c79b4ca2889a6987
+  id: cea4bfb4c79b4ca2889a6987
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/49c82c85f8084e3c96d82dae
+id: 49c82c85f8084e3c96d82dae
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-23T06:32:33.157+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55222917e4b0d32bdfc0149c
+  id: 55222917e4b0d32bdfc0149c
+  image: /images/placeholder-user.png
+  name: Chris Towles
+  state: 1
+name: Copy of 8020 Inc. - 25 Series Profiles
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55222917e4b0d32bdfc0149c
+  id: 55222917e4b0d32bdfc0149c
+  image: /images/placeholder-user.png
+  name: Chris Towles
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/49c82c85f8084e3c96d82dae/w/cea4bfb4c79b4ca2889a6987?t=1435037741185
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/49c82c85f8084e3c96d82dae/w/cea4bfb4c79b4ca2889a6987/s/300x300?t=1435037741185
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/49c82c85f8084e3c96d82dae/w/cea4bfb4c79b4ca2889a6987/s/300x170?t=1435037741185
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/49c82c85f8084e3c96d82dae/w/cea4bfb4c79b4ca2889a6987/s/600x340?t=1435037741185
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/49c82c85f8084e3c96d82dae/w/cea4bfb4c79b4ca2889a6987/s/70x40?t=1435037741185
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

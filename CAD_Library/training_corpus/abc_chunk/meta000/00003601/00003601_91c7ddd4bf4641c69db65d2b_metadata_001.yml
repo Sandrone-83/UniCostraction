@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-24T21:34:29.104+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe0b87e4b024f269d8172e
+  id: 54fe0b87e4b024f269d8172e
+  image: /images/placeholder-user.png
+  name: Darren Lynch
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/91c7ddd4bf4641c69db65d2b/workspaces/c698a6d2d03a4d99be88167c
+  id: c698a6d2d03a4d99be88167c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/91c7ddd4bf4641c69db65d2b
+id: 91c7ddd4bf4641c69db65d2b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-29T21:45:07.210+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe0b87e4b024f269d8172e
+  id: 54fe0b87e4b024f269d8172e
+  image: /images/placeholder-user.png
+  name: Darren Lynch
+  state: 1
+name: Land Rover mk2
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe0b87e4b024f269d8172e
+  id: 54fe0b87e4b024f269d8172e
+  image: /images/placeholder-user.png
+  name: Darren Lynch
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/91c7ddd4bf4641c69db65d2b/w/c698a6d2d03a4d99be88167c?t=1513113234655
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/91c7ddd4bf4641c69db65d2b/w/c698a6d2d03a4d99be88167c/s/70x40?t=1513113234655
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/91c7ddd4bf4641c69db65d2b/w/c698a6d2d03a4d99be88167c/s/300x170?t=1513113234655
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/91c7ddd4bf4641c69db65d2b/w/c698a6d2d03a4d99be88167c/s/300x300?t=1513113234655
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/91c7ddd4bf4641c69db65d2b/w/c698a6d2d03a4d99be88167c/s/600x340?t=1513113234655
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

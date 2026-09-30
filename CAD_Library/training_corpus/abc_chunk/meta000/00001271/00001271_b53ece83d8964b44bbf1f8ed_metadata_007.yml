@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-15T07:44:22.938+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe5d2ce4b0a9dffbb1845c
+  id: 54fe5d2ce4b0a9dffbb1845c
+  image: https://profiles.onshape.com/764ef0ea91eee4d7ccfd419158e1b84765f42958dde322b6c3636182774f3e9b.png
+  name: Adrian Trace
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b53ece83d8964b44bbf1f8ed/workspaces/6b2f1aad3c43402c82009c85
+  id: 6b2f1aad3c43402c82009c85
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b53ece83d8964b44bbf1f8ed
+id: b53ece83d8964b44bbf1f8ed
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-03-18T01:25:13.891+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe5d2ce4b0a9dffbb1845c
+  id: 54fe5d2ce4b0a9dffbb1845c
+  image: https://profiles.onshape.com/764ef0ea91eee4d7ccfd419158e1b84765f42958dde322b6c3636182774f3e9b.png
+  name: Adrian Trace
+  state: 1
+name: Playground
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe5d2ce4b0a9dffbb1845c
+  id: 54fe5d2ce4b0a9dffbb1845c
+  image: https://profiles.onshape.com/764ef0ea91eee4d7ccfd419158e1b84765f42958dde322b6c3636182774f3e9b.png
+  name: Adrian Trace
+  type: 0
+parentId: 62aeefdadd3efdd5d8580f2e
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

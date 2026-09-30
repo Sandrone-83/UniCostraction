@@ -1,0 +1,4 @@
+{"kind": "doc", "format": "DXF", "version": "AC1006", "file": "assimp/lineTest.dxf", "source": "assimp/assimp (test/models, BSD)", "license": "BSD", "n_entities": 3, "entity_histogram": {"3DFACE": 2, "LINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 0, "bbox": [[-0.5, 0.5], [-0.5, 0.5]]}
+{"kind": "entity", "type": "3DFACE", "layer": "1"}
+{"kind": "entity", "type": "3DFACE", "layer": "1"}
+{"kind": "entity", "type": "LINE", "layer": "1", "x1": 0.0, "y1": -0.5, "x2": 0.0, "y2": 0.5}

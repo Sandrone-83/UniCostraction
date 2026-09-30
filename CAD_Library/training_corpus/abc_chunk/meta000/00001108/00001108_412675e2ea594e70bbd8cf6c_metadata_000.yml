@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T17:29:59.248+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe3f27e4b04a9735f91efc
+  id: 54fe3f27e4b04a9735f91efc
+  image: /images/placeholder-user.png
+  name: Rafael Matsunaga
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/412675e2ea594e70bbd8cf6c/workspaces/ee24d81464e14b1a8738aaef
+  id: ee24d81464e14b1a8738aaef
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/412675e2ea594e70bbd8cf6c
+id: 412675e2ea594e70bbd8cf6c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-13T14:15:44.748+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe3f27e4b04a9735f91efc
+  id: 54fe3f27e4b04a9735f91efc
+  image: /images/placeholder-user.png
+  name: Rafael Matsunaga
+  state: 1
+name: Rubber wheel
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe3f27e4b04a9735f91efc
+  id: 54fe3f27e4b04a9735f91efc
+  image: /images/placeholder-user.png
+  name: Rafael Matsunaga
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/412675e2ea594e70bbd8cf6c/w/ee24d81464e14b1a8738aaef?t=1426204601905
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/412675e2ea594e70bbd8cf6c/w/ee24d81464e14b1a8738aaef/s/300x170?t=1426204601905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/412675e2ea594e70bbd8cf6c/w/ee24d81464e14b1a8738aaef/s/70x40?t=1426204601905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/412675e2ea594e70bbd8cf6c/w/ee24d81464e14b1a8738aaef/s/600x340?t=1426204601905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/412675e2ea594e70bbd8cf6c/w/ee24d81464e14b1a8738aaef/s/300x300?t=1426204601905
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

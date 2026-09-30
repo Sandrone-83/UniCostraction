@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-17T01:31:15.200+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53eb9951e4b0edf73d20e4ea
+  id: 53eb9951e4b0edf73d20e4ea
+  image: /images/placeholder-user.png
+  name: Matthew Jane
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c7d977f326364e35bb5b5d27/workspaces/6d695530bcd04e278af09570
+  id: 6d695530bcd04e278af09570
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c7d977f326364e35bb5b5d27
+id: c7d977f326364e35bb5b5d27
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 60
+modifiedAt: 2016-08-23T17:54:21.114+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57baefb5e4b0b083273671bd
+  id: 57baefb5e4b0b083273671bd
+  image: /images/placeholder-user.png
+  name: gokhan ozkan
+  state: 1
+name: Concept Vehicle
+notRevisionManaged: false
+numberOfTimesCopied: 71
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53eb9951e4b0edf73d20e4ea
+  id: 53eb9951e4b0edf73d20e4ea
+  image: /images/placeholder-user.png
+  name: Matthew Jane
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c7d977f326364e35bb5b5d27/w/6d695530bcd04e278af09570?t=1475777785215
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c7d977f326364e35bb5b5d27/w/6d695530bcd04e278af09570/s/600x340?t=1475777785215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c7d977f326364e35bb5b5d27/w/6d695530bcd04e278af09570/s/300x300?t=1475777785215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c7d977f326364e35bb5b5d27/w/6d695530bcd04e278af09570/s/70x40?t=1475777785215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c7d977f326364e35bb5b5d27/w/6d695530bcd04e278af09570/s/300x170?t=1475777785215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T16:07:47.777+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55464750e4b02dc0fe624b44
+  id: 55464750e4b02dc0fe624b44
+  image: /images/placeholder-user.png
+  name: Magnus Braun
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/27b74b9dcbe34e21aaec80c1/workspaces/370fecb9b0514109a7808993
+  id: 370fecb9b0514109a7808993
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/27b74b9dcbe34e21aaec80c1
+id: 27b74b9dcbe34e21aaec80c1
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-03-04T20:14:49.004+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55464750e4b02dc0fe624b44
+  id: 55464750e4b02dc0fe624b44
+  image: /images/placeholder-user.png
+  name: Magnus Braun
+  state: 1
+name: Mont Blanc Plastik
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55464750e4b02dc0fe624b44
+  id: 55464750e4b02dc0fe624b44
+  image: /images/placeholder-user.png
+  name: Magnus Braun
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/27b74b9dcbe34e21aaec80c1/w/370fecb9b0514109a7808993?t=1520194492970
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/27b74b9dcbe34e21aaec80c1/w/370fecb9b0514109a7808993/s/300x300?t=1520194492970
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/27b74b9dcbe34e21aaec80c1/w/370fecb9b0514109a7808993/s/70x40?t=1520194492970
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/27b74b9dcbe34e21aaec80c1/w/370fecb9b0514109a7808993/s/600x340?t=1520194492970
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/27b74b9dcbe34e21aaec80c1/w/370fecb9b0514109a7808993/s/300x170?t=1520194492970
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

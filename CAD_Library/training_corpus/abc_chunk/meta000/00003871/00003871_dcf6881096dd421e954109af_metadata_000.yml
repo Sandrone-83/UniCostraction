@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-30T00:23:50.135+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501f2ebe4b0120eedd95cb6
+  id: 5501f2ebe4b0120eedd95cb6
+  image: https://profiles.onshape.com/1f28ee4f37c88e0c34e19c13247969519310ec33afdb8e8d613aa44c17ac52b8.png
+  name: George Mitsuoka
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/dcf6881096dd421e954109af/workspaces/620c11a0534c4bd9b391a439
+  id: 620c11a0534c4bd9b391a439
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/dcf6881096dd421e954109af
+id: dcf6881096dd421e954109af
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-12-20T23:39:18.389+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501f2ebe4b0120eedd95cb6
+  id: 5501f2ebe4b0120eedd95cb6
+  image: https://profiles.onshape.com/1f28ee4f37c88e0c34e19c13247969519310ec33afdb8e8d613aa44c17ac52b8.png
+  name: George Mitsuoka
+  state: 1
+name: Keypad Cover
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501f2ebe4b0120eedd95cb6
+  id: 5501f2ebe4b0120eedd95cb6
+  image: https://profiles.onshape.com/1f28ee4f37c88e0c34e19c13247969519310ec33afdb8e8d613aa44c17ac52b8.png
+  name: George Mitsuoka
+  type: 0
+parentId: 1800350027913c93c65fbeec
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/dcf6881096dd421e954109af/w/620c11a0534c4bd9b391a439?t=1430429484596
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/dcf6881096dd421e954109af/w/620c11a0534c4bd9b391a439/s/600x340?t=1430429484596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dcf6881096dd421e954109af/w/620c11a0534c4bd9b391a439/s/70x40?t=1430429484596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dcf6881096dd421e954109af/w/620c11a0534c4bd9b391a439/s/300x170?t=1430429484596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/dcf6881096dd421e954109af/w/620c11a0534c4bd9b391a439/s/300x300?t=1430429484596
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

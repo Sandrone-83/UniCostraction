@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-08T15:10:48.926+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55020cfde4b0120eedd95d83
+  id: 55020cfde4b0120eedd95d83
+  image: https://profiles.onshape.com/eaea40e40d0b960af0619f0f2a07bd0bc052f831da4071c31d1487992863e5ef.png
+  name: Ts Tanto
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5b28f02b27d04b67b1c31d16/workspaces/bccca3dd219f489992ed1adc
+  id: bccca3dd219f489992ed1adc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5b28f02b27d04b67b1c31d16
+id: 5b28f02b27d04b67b1c31d16
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-06-01T21:31:45.443+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55020cfde4b0120eedd95d83
+  id: 55020cfde4b0120eedd95d83
+  image: https://profiles.onshape.com/eaea40e40d0b960af0619f0f2a07bd0bc052f831da4071c31d1487992863e5ef.png
+  name: Ts Tanto
+  state: 1
+name: LUKE ROTJ Lighsaber
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55020cfde4b0120eedd95d83
+  id: 55020cfde4b0120eedd95d83
+  image: https://profiles.onshape.com/eaea40e40d0b960af0619f0f2a07bd0bc052f831da4071c31d1487992863e5ef.png
+  name: Ts Tanto
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5b28f02b27d04b67b1c31d16/w/bccca3dd219f489992ed1adc?t=1464816776616
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5b28f02b27d04b67b1c31d16/w/bccca3dd219f489992ed1adc/s/600x340?t=1464816776616
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5b28f02b27d04b67b1c31d16/w/bccca3dd219f489992ed1adc/s/300x170?t=1464816776616
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5b28f02b27d04b67b1c31d16/w/bccca3dd219f489992ed1adc/s/70x40?t=1464816776616
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5b28f02b27d04b67b1c31d16/w/bccca3dd219f489992ed1adc/s/300x300?t=1464816776616
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

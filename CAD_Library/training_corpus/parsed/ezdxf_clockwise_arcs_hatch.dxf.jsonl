@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/clockwise_arcs_hatch.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 1, "entity_histogram": {"HATCH": 1}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[-292.647, 0.0], [0.0, 606.683]]}
+{"kind": "entity", "type": "HATCH", "layer": "HATCH", "pattern": "SOLID", "n_paths": 2.0}

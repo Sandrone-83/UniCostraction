@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-29T00:17:28.027+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5537ce71e4b0bc1f925a5f72
+  id: 5537ce71e4b0bc1f925a5f72
+  image: /images/placeholder-user.png
+  name: Nick Kaiser
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/20c07ae65c8d4f0588146dbf/workspaces/6f6873c6b26f4366916e9a65
+  id: 6f6873c6b26f4366916e9a65
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/20c07ae65c8d4f0588146dbf
+id: 20c07ae65c8d4f0588146dbf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-08T13:19:59.964+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5537ce71e4b0bc1f925a5f72
+  id: 5537ce71e4b0bc1f925a5f72
+  image: /images/placeholder-user.png
+  name: Nick Kaiser
+  state: 1
+name: Wicked Desk Lamp
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5537ce71e4b0bc1f925a5f72
+  id: 5537ce71e4b0bc1f925a5f72
+  image: /images/placeholder-user.png
+  name: Nick Kaiser
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/20c07ae65c8d4f0588146dbf/w/6f6873c6b26f4366916e9a65?t=1477093743989
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/20c07ae65c8d4f0588146dbf/w/6f6873c6b26f4366916e9a65/s/600x340?t=1477093743989
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/20c07ae65c8d4f0588146dbf/w/6f6873c6b26f4366916e9a65/s/300x170?t=1477093743989
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/20c07ae65c8d4f0588146dbf/w/6f6873c6b26f4366916e9a65/s/70x40?t=1477093743989
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/20c07ae65c8d4f0588146dbf/w/6f6873c6b26f4366916e9a65/s/300x300?t=1477093743989
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

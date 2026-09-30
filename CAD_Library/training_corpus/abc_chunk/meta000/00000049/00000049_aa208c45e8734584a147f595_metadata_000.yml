@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-18T05:53:25.931+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/aa208c45e8734584a147f595/workspaces/049813d761714de18067ef87
+  id: 049813d761714de18067ef87
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/aa208c45e8734584a147f595
+id: aa208c45e8734584a147f595
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-23T06:08:52.743+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  state: 1
+name: Fasteners_onshape_Support
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/aa208c45e8734584a147f595/w/049813d761714de18067ef87?t=1460710645188
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/aa208c45e8734584a147f595/w/049813d761714de18067ef87/s/70x40?t=1460710645188
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/aa208c45e8734584a147f595/w/049813d761714de18067ef87/s/300x300?t=1460710645188
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/aa208c45e8734584a147f595/w/049813d761714de18067ef87/s/600x340?t=1460710645188
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/aa208c45e8734584a147f595/w/049813d761714de18067ef87/s/300x170?t=1460710645188
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-21T15:44:01.758+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ab1749e4b05db5911a9f58
+  id: 54ab1749e4b05db5911a9f58
+  image: /images/placeholder-user.png
+  name: Lucas Dauvergne
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2d6dbaff39704ec8b852ceec/workspaces/e522fe01c137482ca8f77dfa
+  id: e522fe01c137482ca8f77dfa
+  name: '1'
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2d6dbaff39704ec8b852ceec
+id: 2d6dbaff39704ec8b852ceec
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-22T09:01:53.450+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ab1749e4b05db5911a9f58
+  id: 54ab1749e4b05db5911a9f58
+  image: /images/placeholder-user.png
+  name: Lucas Dauvergne
+  state: 1
+name: Miknitic Pro
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ab1749e4b05db5911a9f58
+  id: 54ab1749e4b05db5911a9f58
+  image: /images/placeholder-user.png
+  name: Lucas Dauvergne
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2d6dbaff39704ec8b852ceec/w/e522fe01c137482ca8f77dfa?t=1445504837704
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2d6dbaff39704ec8b852ceec/w/e522fe01c137482ca8f77dfa/s/300x170?t=1445504837704
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2d6dbaff39704ec8b852ceec/w/e522fe01c137482ca8f77dfa/s/300x300?t=1445504837704
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2d6dbaff39704ec8b852ceec/w/e522fe01c137482ca8f77dfa/s/600x340?t=1445504837704
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2d6dbaff39704ec8b852ceec/w/e522fe01c137482ca8f77dfa/s/70x40?t=1445504837704
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

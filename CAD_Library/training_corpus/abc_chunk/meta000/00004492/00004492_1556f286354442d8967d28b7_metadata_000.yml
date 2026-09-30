@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-09T10:58:05.461+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554dc1bee4b0730113dcf92d
+  id: 554dc1bee4b0730113dcf92d
+  image: /images/placeholder-user.png
+  name: Yuki
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1556f286354442d8967d28b7/workspaces/5aa1560919344c48902777e7
+  id: 5aa1560919344c48902777e7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1556f286354442d8967d28b7
+id: 1556f286354442d8967d28b7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-13T11:49:40.860+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/554dc1bee4b0730113dcf92d
+  id: 554dc1bee4b0730113dcf92d
+  image: /images/placeholder-user.png
+  name: Yuki
+  state: 1
+name: Omni Wheel
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554dc1bee4b0730113dcf92d
+  id: 554dc1bee4b0730113dcf92d
+  image: /images/placeholder-user.png
+  name: Yuki
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1556f286354442d8967d28b7/w/5aa1560919344c48902777e7?t=1431269424309
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1556f286354442d8967d28b7/w/5aa1560919344c48902777e7/s/70x40?t=1431269424309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1556f286354442d8967d28b7/w/5aa1560919344c48902777e7/s/300x170?t=1431269424309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1556f286354442d8967d28b7/w/5aa1560919344c48902777e7/s/300x300?t=1431269424309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1556f286354442d8967d28b7/w/5aa1560919344c48902777e7/s/600x340?t=1431269424309
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

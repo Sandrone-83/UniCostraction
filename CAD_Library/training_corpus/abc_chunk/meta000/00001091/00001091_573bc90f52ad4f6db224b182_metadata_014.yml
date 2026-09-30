@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T13:14:19.886+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd79e4e4b0df4f31ebb25d
+  id: 53cd79e4e4b0df4f31ebb25d
+  image: https://profiles.onshape.com/77903983a57fcb5164289e896bb76559c0f874b3833e2ff17dda83e732c6bcdc.png
+  name: Andy Morris (Onshape)
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/573bc90f52ad4f6db224b182/workspaces/8a14b85c4453408da204d19e
+  id: 8a14b85c4453408da204d19e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/573bc90f52ad4f6db224b182
+id: 573bc90f52ad4f6db224b182
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 30
+modifiedAt: 2017-02-08T17:15:03.626+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd79e4e4b0df4f31ebb25d
+  id: 53cd79e4e4b0df4f31ebb25d
+  image: https://profiles.onshape.com/77903983a57fcb5164289e896bb76559c0f874b3833e2ff17dda83e732c6bcdc.png
+  name: Andy Morris (Onshape)
+  state: 1
+name: Guzzi V50 Cafe Racer
+notRevisionManaged: false
+numberOfTimesCopied: 17
+numberOfTimesReferenced: 2
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd79e4e4b0df4f31ebb25d
+  id: 53cd79e4e4b0df4f31ebb25d
+  image: https://profiles.onshape.com/77903983a57fcb5164289e896bb76559c0f874b3833e2ff17dda83e732c6bcdc.png
+  name: Andy Morris (Onshape)
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/573bc90f52ad4f6db224b182/w/8a14b85c4453408da204d19e?t=1473960121724
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/573bc90f52ad4f6db224b182/w/8a14b85c4453408da204d19e/s/300x170?t=1473960121724
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/573bc90f52ad4f6db224b182/w/8a14b85c4453408da204d19e/s/300x300?t=1473960121724
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/573bc90f52ad4f6db224b182/w/8a14b85c4453408da204d19e/s/600x340?t=1473960121724
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/573bc90f52ad4f6db224b182/w/8a14b85c4453408da204d19e/s/70x40?t=1473960121724
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

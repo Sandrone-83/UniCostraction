@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-28T11:55:33.864+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55192e24e4b0104240e5d39c
+  id: 55192e24e4b0104240e5d39c
+  image: /images/placeholder-user.png
+  name: Zachariah
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0bd9c9a9d84b4eefac2c49d6/workspaces/fb88796b919d48bc8145ede8
+  id: fb88796b919d48bc8145ede8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0bd9c9a9d84b4eefac2c49d6
+id: 0bd9c9a9d84b4eefac2c49d6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-11-08T12:29:16.726+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55192e24e4b0104240e5d39c
+  id: 55192e24e4b0104240e5d39c
+  image: /images/placeholder-user.png
+  name: Zachariah
+  state: 1
+name: truck1.iges
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55192e24e4b0104240e5d39c
+  id: 55192e24e4b0104240e5d39c
+  image: /images/placeholder-user.png
+  name: Zachariah
+  type: 0
+parentId: 5cfd0870a6a518630252ad67
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0bd9c9a9d84b4eefac2c49d6/w/fb88796b919d48bc8145ede8?t=1442935211492
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0bd9c9a9d84b4eefac2c49d6/w/fb88796b919d48bc8145ede8/s/300x300?t=1442935211492
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0bd9c9a9d84b4eefac2c49d6/w/fb88796b919d48bc8145ede8/s/300x170?t=1442935211492
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0bd9c9a9d84b4eefac2c49d6/w/fb88796b919d48bc8145ede8/s/600x340?t=1442935211492
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0bd9c9a9d84b4eefac2c49d6/w/fb88796b919d48bc8145ede8/s/70x40?t=1442935211492
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

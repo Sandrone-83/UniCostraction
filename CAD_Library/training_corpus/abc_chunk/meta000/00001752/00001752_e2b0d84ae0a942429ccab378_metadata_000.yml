@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-21T17:29:18.164+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54feca15e4b00b89f7fc87d3
+  id: 54feca15e4b00b89f7fc87d3
+  image: /images/placeholder-user.png
+  name: Erlend Topland
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e2b0d84ae0a942429ccab378/workspaces/9bcc2c34ec824b82994b4e67
+  id: 9bcc2c34ec824b82994b4e67
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e2b0d84ae0a942429ccab378
+id: e2b0d84ae0a942429ccab378
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-24T14:27:45.736+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57693198e4b060b8e8b4ace5
+  id: 57693198e4b060b8e8b4ace5
+  image: /images/placeholder-user.png
+  name: Abdulla Aldarmaki
+  state: 1
+name: Apple TV Remote
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54feca15e4b00b89f7fc87d3
+  id: 54feca15e4b00b89f7fc87d3
+  image: /images/placeholder-user.png
+  name: Erlend Topland
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e2b0d84ae0a942429ccab378/w/9bcc2c34ec824b82994b4e67?t=1426960602936
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e2b0d84ae0a942429ccab378/w/9bcc2c34ec824b82994b4e67/s/300x300?t=1426960602936
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e2b0d84ae0a942429ccab378/w/9bcc2c34ec824b82994b4e67/s/600x340?t=1426960602936
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e2b0d84ae0a942429ccab378/w/9bcc2c34ec824b82994b4e67/s/70x40?t=1426960602936
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e2b0d84ae0a942429ccab378/w/9bcc2c34ec824b82994b4e67/s/300x170?t=1426960602936
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

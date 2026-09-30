@@ -1,0 +1,14 @@
+{"kind": "doc", "format": "DXF", "version": "AC1018", "file": "libredwg/2004/Surface.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 13, "entity_histogram": {"LWPOLYLINE": 4, "LINE": 4, "MESH": 2, "ELLIPSE": 2, "POINT": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[-123.256, 2499.716], [-4.84, 3049.283]]}
+{"kind": "entity", "type": "POINT", "layer": "0", "x": 1018.044015132447, "y": 2044.045155211644}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 5, "closed": false, "bbox": [[1230.691451061304, 2499.716477155726], [1855.462933074763, 2308.088953745289]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 5, "closed": false, "bbox": [[1230.691451061304, 2367.932719991136], [1683.571317582093, 2136.600531027732]]}
+{"kind": "entity", "type": "MESH", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1230.691451061304, "y1": 1855.462933074763, "x2": 1230.691451061304, "y2": 1855.462933074763}
+{"kind": "entity", "type": "MESH", "layer": "0"}
+{"kind": "entity", "type": "ELLIPSE", "layer": "0", "cx": 1791.25022532106, "cy": 1740.365869994849, "ax": -123.2563505940379, "ay": -3.487078423977664, "ratio": 0.6207582628642982}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[1315.457956660249, 1576.901141583554], [1404.792131491244, 1693.659441276146]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1315.457956660249, "y1": 1544.034543905259, "x2": 1315.457956660249, "y2": 1544.034543905259}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[1247.152009342865, 1548.424808455165], [1354.614790256585, 1544.034543905259]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1230.691451061304, "y1": 1683.571317582093, "x2": 1230.691451061304, "y2": 1855.462933074763}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1230.691451061304, "y1": 1855.462933074763, "x2": 1043.783132540682, "y2": 1915.566478524041}
+{"kind": "entity", "type": "ELLIPSE", "layer": "0", "cx": 1840.484043941388, "cy": 1399.239302724385, "ax": -75.8146372135352, "ay": -4.840263654308956, "ratio": 0.6679748718317672}

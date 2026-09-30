@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-16T09:59:57.764+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5501692fe4b00b89f7fc8cee
+  id: 5501692fe4b00b89f7fc8cee
+  image: https://profiles.onshape.com/845bacdf7486903cea75e169bb0b2416d595ccef4fdfd21a5025dafe201154dc.png
+  name: Leo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bc5261f1895f48e586db99ae/workspaces/362776c5efa745daa5bf0520
+  id: 362776c5efa745daa5bf0520
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bc5261f1895f48e586db99ae
+id: bc5261f1895f48e586db99ae
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-17T09:40:01.539+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5501692fe4b00b89f7fc8cee
+  id: 5501692fe4b00b89f7fc8cee
+  image: https://profiles.onshape.com/845bacdf7486903cea75e169bb0b2416d595ccef4fdfd21a5025dafe201154dc.png
+  name: Leo
+  state: 1
+name: IKEA_III.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5501692fe4b00b89f7fc8cee
+  id: 5501692fe4b00b89f7fc8cee
+  image: https://profiles.onshape.com/845bacdf7486903cea75e169bb0b2416d595ccef4fdfd21a5025dafe201154dc.png
+  name: Leo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bc5261f1895f48e586db99ae/w/362776c5efa745daa5bf0520?t=1431770404890
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bc5261f1895f48e586db99ae/w/362776c5efa745daa5bf0520/s/600x340?t=1431770404890
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bc5261f1895f48e586db99ae/w/362776c5efa745daa5bf0520/s/300x170?t=1431770404890
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bc5261f1895f48e586db99ae/w/362776c5efa745daa5bf0520/s/300x300?t=1431770404890
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bc5261f1895f48e586db99ae/w/362776c5efa745daa5bf0520/s/70x40?t=1431770404890
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

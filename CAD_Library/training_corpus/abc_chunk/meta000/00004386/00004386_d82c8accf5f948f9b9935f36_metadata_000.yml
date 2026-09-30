@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-06T20:17:03.491+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554a61f4e4b01a4647afd089
+  id: 554a61f4e4b01a4647afd089
+  image: /images/placeholder-user.png
+  name: Marek Stankovic
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d82c8accf5f948f9b9935f36/workspaces/45c3ae95997241d6a98e6028
+  id: 45c3ae95997241d6a98e6028
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d82c8accf5f948f9b9935f36
+id: d82c8accf5f948f9b9935f36
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-03-25T13:23:06.580+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/554a61f4e4b01a4647afd089
+  id: 554a61f4e4b01a4647afd089
+  image: /images/placeholder-user.png
+  name: Marek Stankovic
+  state: 1
+name: Strut top bracket large
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 2
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554a61f4e4b01a4647afd089
+  id: 554a61f4e4b01a4647afd089
+  image: /images/placeholder-user.png
+  name: Marek Stankovic
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d82c8accf5f948f9b9935f36/w/45c3ae95997241d6a98e6028?t=1487710263812
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d82c8accf5f948f9b9935f36/w/45c3ae95997241d6a98e6028/s/70x40?t=1487710263812
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d82c8accf5f948f9b9935f36/w/45c3ae95997241d6a98e6028/s/300x170?t=1487710263812
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d82c8accf5f948f9b9935f36/w/45c3ae95997241d6a98e6028/s/300x300?t=1487710263812
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d82c8accf5f948f9b9935f36/w/45c3ae95997241d6a98e6028/s/600x340?t=1487710263812
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

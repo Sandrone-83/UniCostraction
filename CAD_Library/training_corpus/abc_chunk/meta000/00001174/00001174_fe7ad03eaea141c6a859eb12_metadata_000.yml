@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-13T15:34:59.800+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff6a3be4b0191bdfa20a2d
+  id: 54ff6a3be4b0191bdfa20a2d
+  image: /images/placeholder-user.png
+  name: Paul Bovbel
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/fe7ad03eaea141c6a859eb12/workspaces/a7ee56631ca44fa6bf82be44
+  id: a7ee56631ca44fa6bf82be44
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/fe7ad03eaea141c6a859eb12
+id: fe7ad03eaea141c6a859eb12
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-13T15:47:04.685+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff6a3be4b0191bdfa20a2d
+  id: 54ff6a3be4b0191bdfa20a2d
+  image: /images/placeholder-user.png
+  name: Paul Bovbel
+  state: 1
+name: TileHolder.sldprt
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff6a3be4b0191bdfa20a2d
+  id: 54ff6a3be4b0191bdfa20a2d
+  image: /images/placeholder-user.png
+  name: Paul Bovbel
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/fe7ad03eaea141c6a859eb12/w/a7ee56631ca44fa6bf82be44?t=1426260903105
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/fe7ad03eaea141c6a859eb12/w/a7ee56631ca44fa6bf82be44/s/300x300?t=1426260903105
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fe7ad03eaea141c6a859eb12/w/a7ee56631ca44fa6bf82be44/s/70x40?t=1426260903105
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fe7ad03eaea141c6a859eb12/w/a7ee56631ca44fa6bf82be44/s/600x340?t=1426260903105
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fe7ad03eaea141c6a859eb12/w/a7ee56631ca44fa6bf82be44/s/300x170?t=1426260903105
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

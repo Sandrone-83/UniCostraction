@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-30T15:35:43.702+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5503a83ce4b09f5b1893198f
+  id: 5503a83ce4b09f5b1893198f
+  image: /images/placeholder-user.png
+  name: Donald Merand
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0d935a338a28433097a42c9b/workspaces/e05e99a4182f4e7ca2ddf543
+  id: e05e99a4182f4e7ca2ddf543
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0d935a338a28433097a42c9b
+id: 0d935a338a28433097a42c9b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-20T00:52:03.104+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5503a83ce4b09f5b1893198f
+  id: 5503a83ce4b09f5b1893198f
+  image: /images/placeholder-user.png
+  name: Donald Merand
+  state: 1
+name: Octagonal Tool Handle Tracing Template
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5503a83ce4b09f5b1893198f
+  id: 5503a83ce4b09f5b1893198f
+  image: /images/placeholder-user.png
+  name: Donald Merand
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0d935a338a28433097a42c9b/w/e05e99a4182f4e7ca2ddf543?t=1430411736010
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0d935a338a28433097a42c9b/w/e05e99a4182f4e7ca2ddf543/s/300x170?t=1430411736010
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d935a338a28433097a42c9b/w/e05e99a4182f4e7ca2ddf543/s/70x40?t=1430411736010
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d935a338a28433097a42c9b/w/e05e99a4182f4e7ca2ddf543/s/600x340?t=1430411736010
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0d935a338a28433097a42c9b/w/e05e99a4182f4e7ca2ddf543/s/300x300?t=1430411736010
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

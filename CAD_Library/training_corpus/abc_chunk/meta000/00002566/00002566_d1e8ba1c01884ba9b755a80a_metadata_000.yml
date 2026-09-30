@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-04T15:49:12.091+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ffca19e4b0191bdfa20b7c
+  id: 54ffca19e4b0191bdfa20b7c
+  image: /images/placeholder-user.png
+  name: Connor Yamada
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d1e8ba1c01884ba9b755a80a/workspaces/f40af9224924401c89e86c3d
+  id: f40af9224924401c89e86c3d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d1e8ba1c01884ba9b755a80a
+id: d1e8ba1c01884ba9b755a80a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-24T02:38:56.794+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ffca19e4b0191bdfa20b7c
+  id: 54ffca19e4b0191bdfa20b7c
+  image: /images/placeholder-user.png
+  name: Connor Yamada
+  state: 1
+name: Action Camera Case
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ffca19e4b0191bdfa20b7c
+  id: 54ffca19e4b0191bdfa20b7c
+  image: /images/placeholder-user.png
+  name: Connor Yamada
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d1e8ba1c01884ba9b755a80a/w/f40af9224924401c89e86c3d?t=1429843158543
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d1e8ba1c01884ba9b755a80a/w/f40af9224924401c89e86c3d/s/300x300?t=1429843158543
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d1e8ba1c01884ba9b755a80a/w/f40af9224924401c89e86c3d/s/70x40?t=1429843158543
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d1e8ba1c01884ba9b755a80a/w/f40af9224924401c89e86c3d/s/600x340?t=1429843158543
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d1e8ba1c01884ba9b755a80a/w/f40af9224924401c89e86c3d/s/300x170?t=1429843158543
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

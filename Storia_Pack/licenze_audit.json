@@ -1,0 +1,54 @@
+{
+  "nota": "Audit licenze Storia_Pack (storia di architettura, costruzioni, ingegneria: dall'antichita' al 1950-oggi). Tutte le fonti permettono uso commerciale e addestramento LLM. Opere federali USA = public domain anche recenti (17 U.S.C. § 105); opere pre-1930 = public domain.",
+  "fonti": [
+    {
+      "id": "STORIA-CLASSICI",
+      "descrizione": "7 testi fondativi della storia dell'architettura e dell'ingegneria: Banister Fletcher 'History of Architecture' 1905 (la bibbia comparata), Choisy 'Histoire de l'architecture' 1899 (struttura e costruzione), Viollet-le-Duc 'Dictionnaire raisonne' 1858 (razionalismo costruttivo), Laugier 'Essai' 1753 (pregiudizio), Durand 'Precis' 1802 (tipologia e modularita'), FHWA 'America's Highways 1776-1976' (storia ingegneria stradale USA), USACE 'History of the Corps of Engineers' 1998 (storia ingegneria militare/civile USA)",
+      "licenza": "Public domain (pre-1930) / Public domain US Gov (17 U.S.C. § 105)",
+      "uso_commerciale": true,
+      "attribuzione_richiesta": "no (consigliata)",
+      "file": "raw/storia_classici/*.txt -> parsed/storia_classici.jsonl",
+      "url": "https://archive.org/"
+    },
+    {
+      "id": "CATALOGHI-EDILIZIA",
+      "descrizione": "4 cataloghi storici di materiali e componenti edilizi (Building Technology Heritage Library): vetri finestra 1919, acciaio strutturale Cambria 1910, infissi St. Louis 1895, legname e finiture Haley Bros 1917 - tipologie, dimensioni, prezzi d'epoca, lessico commerciale dell'edilizia",
+      "licenza": "Public domain (pubblicati prima del 1930)",
+      "uso_commerciale": true,
+      "attribuzione_richiesta": "no (consigliata)",
+      "file": "raw/cataloghi_edilizia/*.txt -> parsed/cataloghi_edilizia.jsonl",
+      "url": "https://archive.org/details/buildingtechnologyheritagelibrary"
+    },
+    {
+      "id": "HABS-HAER",
+      "descrizione": "Historic American Buildings Survey (catalogo delle tavole misurate, 1941) + Historic American Engineering Record (Boston Elevated Railway, 1986): storia costruttiva, tecniche e disegni misurati di edifici e opere d'ingegneria storiche USA",
+      "licenza": "Public domain (opera del Governo federale USA)",
+      "uso_commerciale": true,
+      "attribuzione_richiesta": "no (consigliata)",
+      "file": "raw/habs_haer/*.txt -> parsed/habs_haer.jsonl",
+      "url": "https://www.loc.gov/pictures/collection/hh/"
+    },
+    {
+      "id": "WIKIPEDIA-STORIA",
+      "descrizione": "Voci Wikipedia (en+it): storia dell'architettura dall'antichita' a oggi, storia delle costruzioni e dell'ingegneria (ponti, strade, acquedotti, grattacieli, tunnel, dighe), biografie di ingegneri e architetti (Brunel, Eiffel, Nervi, Freyssinet, Wright, Le Corbusier, maestri 1950-oggi), movimenti e tecniche (Bauhaus, brutalismo, postmoderno, calcestruzzo precompresso, isolamento sismico)",
+      "licenza": "CC BY-SA 4.0",
+      "uso_commerciale": true,
+      "attribuzione_richiesta": "si: per-voce nel campo 'attribution'",
+      "file": "parsed/wiki_storia/wiki_storia_en.jsonl, wiki_storia_it.jsonl",
+      "url": "https://wikipedia.org",
+      "nota": "corpus estendibile: rieseguire fetch_wiki_storia.py (riprende da dove ha lasciato; throttling Wikimedia)"
+    }
+  ],
+  "fonti_escluse_per_licenza": [
+    {"nome": "Kenneth Frampton 'Modern Architecture: A Critical History'", "motivo": "copyright Phaidon"},
+    {"nome": "Sigfried Giedion 'Space, Time and Architecture'", "motivo": "copyright Harvard UP"},
+    {"nome": "Pevsner 'An Outline of European Architecture'", "motivo": "copyright Penguin"},
+    {"nome": "Banister Fletcher edizioni post-1929", "motivo": "copyright (solo l'ed. 1905 e' public domain)"}
+  ],
+  "prossimi_ampliamenti": [
+    "Completamento voci Wikipedia storia (rilanciare fetch_wiki_storia.py)",
+    "Altri cataloghi BTHL: serrature, ferramenta, apparecchi idraulici/sanitari, lampadari, piastrelle (collection archive.org 'buildingtechnologyheritagelibrary')",
+    "USACE 'History of the Los Angeles District' 1975, altre storie divisionali (public domain)",
+    "HAER/HABS - Historic American Engineering/Buildings Record su loc.gov (public domain)"
+  ]
+}

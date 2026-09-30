@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T22:02:56.287+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff7a16e4b02630a8453387
+  id: 54ff7a16e4b02630a8453387
+  image: /images/placeholder-user.png
+  name: Lar Barham
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/25c63692f99a42f6bee0033d/workspaces/afd202fb0d654039bed0e6cb
+  id: afd202fb0d654039bed0e6cb
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/25c63692f99a42f6bee0033d
+id: 25c63692f99a42f6bee0033d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-03T19:00:00.763+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff7a16e4b02630a8453387
+  id: 54ff7a16e4b02630a8453387
+  image: /images/placeholder-user.png
+  name: Lar Barham
+  state: 1
+name: Copy of Sample - Bike Frame
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff7a16e4b02630a8453387
+  id: 54ff7a16e4b02630a8453387
+  image: /images/placeholder-user.png
+  name: Lar Barham
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/25c63692f99a42f6bee0033d/w/afd202fb0d654039bed0e6cb?t=1430699159813
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/25c63692f99a42f6bee0033d/w/afd202fb0d654039bed0e6cb/s/600x340?t=1430699159813
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/25c63692f99a42f6bee0033d/w/afd202fb0d654039bed0e6cb/s/70x40?t=1430699159813
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/25c63692f99a42f6bee0033d/w/afd202fb0d654039bed0e6cb/s/300x170?t=1430699159813
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/25c63692f99a42f6bee0033d/w/afd202fb0d654039bed0e6cb/s/300x300?t=1430699159813
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

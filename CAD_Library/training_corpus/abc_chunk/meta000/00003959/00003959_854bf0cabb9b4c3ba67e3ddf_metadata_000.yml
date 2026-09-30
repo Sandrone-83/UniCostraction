@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-01T17:03:54.837+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55280248e4b0ae1ab401858d
+  id: 55280248e4b0ae1ab401858d
+  image: /images/placeholder-user.png
+  name: Dmitry Spiridonov
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/854bf0cabb9b4c3ba67e3ddf/workspaces/1a99572a1abb4c76a6cd3e48
+  id: 1a99572a1abb4c76a6cd3e48
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/854bf0cabb9b4c3ba67e3ddf
+id: 854bf0cabb9b4c3ba67e3ddf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-05-25T18:56:03.745+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55280248e4b0ae1ab401858d
+  id: 55280248e4b0ae1ab401858d
+  image: /images/placeholder-user.png
+  name: Dmitry Spiridonov
+  state: 1
+name: Mk2 Xmmeye 85Mm V18_Part2_printable
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55280248e4b0ae1ab401858d
+  id: 55280248e4b0ae1ab401858d
+  image: /images/placeholder-user.png
+  name: Dmitry Spiridonov
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/854bf0cabb9b4c3ba67e3ddf/w/1a99572a1abb4c76a6cd3e48?t=1464202580186
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/854bf0cabb9b4c3ba67e3ddf/w/1a99572a1abb4c76a6cd3e48/s/600x340?t=1464202580186
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/854bf0cabb9b4c3ba67e3ddf/w/1a99572a1abb4c76a6cd3e48/s/70x40?t=1464202580186
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/854bf0cabb9b4c3ba67e3ddf/w/1a99572a1abb4c76a6cd3e48/s/300x300?t=1464202580186
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/854bf0cabb9b4c3ba67e3ddf/w/1a99572a1abb4c76a6cd3e48/s/300x170?t=1464202580186
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

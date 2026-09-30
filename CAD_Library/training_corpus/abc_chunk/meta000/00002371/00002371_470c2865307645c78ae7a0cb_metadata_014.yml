@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-31T20:04:36.728+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551743b5e4b09d147459318c
+  id: 551743b5e4b09d147459318c
+  image: /images/placeholder-user.png
+  name: David Barham
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/470c2865307645c78ae7a0cb/workspaces/436f6655f768407fa8a8fdc2
+  id: 436f6655f768407fa8a8fdc2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/470c2865307645c78ae7a0cb
+id: 470c2865307645c78ae7a0cb
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-04-22T22:42:00.449+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551743b5e4b09d147459318c
+  id: 551743b5e4b09d147459318c
+  image: /images/placeholder-user.png
+  name: David Barham
+  state: 1
+name: LAT-engine
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551743b5e4b09d147459318c
+  id: 551743b5e4b09d147459318c
+  image: /images/placeholder-user.png
+  name: David Barham
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/470c2865307645c78ae7a0cb/w/436f6655f768407fa8a8fdc2?t=1524437215649
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/470c2865307645c78ae7a0cb/w/436f6655f768407fa8a8fdc2/s/300x300?t=1524437215649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/470c2865307645c78ae7a0cb/w/436f6655f768407fa8a8fdc2/s/300x170?t=1524437215649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/470c2865307645c78ae7a0cb/w/436f6655f768407fa8a8fdc2/s/600x340?t=1524437215649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/470c2865307645c78ae7a0cb/w/436f6655f768407fa8a8fdc2/s/70x40?t=1524437215649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

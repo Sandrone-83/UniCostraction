@@ -1,0 +1,51 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/valid_lineweights.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 50, "entity_histogram": {"LINE": 25, "TEXT": 25}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 10.0], [0.0, 24.3]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.0, "x2": 10.0, "y2": 0.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.00", "x": 0.0, "y": 0.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 1.0, "x2": 10.0, "y2": 1.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.05", "x": 0.0, "y": 1.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 2.0, "x2": 10.0, "y2": 2.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.09", "x": 0.0, "y": 2.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 3.0, "x2": 10.0, "y2": 3.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.10", "x": 0.0, "y": 3.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 4.0, "x2": 10.0, "y2": 4.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.13", "x": 0.0, "y": 4.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 5.0, "x2": 10.0, "y2": 5.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.15", "x": 0.0, "y": 5.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 6.0, "x2": 10.0, "y2": 6.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.18", "x": 0.0, "y": 6.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 7.0, "x2": 10.0, "y2": 7.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.20", "x": 0.0, "y": 7.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 8.0, "x2": 10.0, "y2": 8.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.25", "x": 0.0, "y": 8.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 9.0, "x2": 10.0, "y2": 9.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.30", "x": 0.0, "y": 9.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 10.0, "x2": 10.0, "y2": 10.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.35", "x": 0.0, "y": 10.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 11.0, "x2": 10.0, "y2": 11.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.40", "x": 0.0, "y": 11.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 12.0, "x2": 10.0, "y2": 12.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.50", "x": 0.0, "y": 12.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 13.0, "x2": 10.0, "y2": 13.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.53", "x": 0.0, "y": 13.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 14.0, "x2": 10.0, "y2": 14.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.60", "x": 0.0, "y": 14.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 15.0, "x2": 10.0, "y2": 15.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.70", "x": 0.0, "y": 15.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 16.0, "x2": 10.0, "y2": 16.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.80", "x": 0.0, "y": 16.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 17.0, "x2": 10.0, "y2": 17.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 0.90", "x": 0.0, "y": 17.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 18.0, "x2": 10.0, "y2": 18.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 1.00", "x": 0.0, "y": 18.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 19.0, "x2": 10.0, "y2": 19.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 1.06", "x": 0.0, "y": 19.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 20.0, "x2": 10.0, "y2": 20.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 1.20", "x": 0.0, "y": 20.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 21.0, "x2": 10.0, "y2": 21.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 1.40", "x": 0.0, "y": 21.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 22.0, "x2": 10.0, "y2": 22.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 1.58", "x": 0.0, "y": 22.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 23.0, "x2": 10.0, "y2": 23.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 2.00", "x": 0.0, "y": 23.3, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 24.0, "x2": 10.0, "y2": 24.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Lineweight: 2.11", "x": 0.0, "y": 24.3, "h": 0.18}

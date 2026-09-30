@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-11T01:37:34.460+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55003d02e4b02630a84534f3
+  id: 55003d02e4b02630a84534f3
+  image: /images/placeholder-user.png
+  name: Luke
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9f7a36612d744a20bbc2e216/workspaces/ca81247fae7e4de99e13aec5
+  id: ca81247fae7e4de99e13aec5
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9f7a36612d744a20bbc2e216
+id: 9f7a36612d744a20bbc2e216
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-12T15:18:48.614+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55003d02e4b02630a84534f3
+  id: 55003d02e4b02630a84534f3
+  image: /images/placeholder-user.png
+  name: Luke
+  state: 1
+name: Wooden_FlowerPot
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55003d02e4b02630a84534f3
+  id: 55003d02e4b02630a84534f3
+  image: /images/placeholder-user.png
+  name: Luke
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9f7a36612d744a20bbc2e216/w/ca81247fae7e4de99e13aec5?t=1431446505324
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9f7a36612d744a20bbc2e216/w/ca81247fae7e4de99e13aec5/s/300x170?t=1431446505324
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9f7a36612d744a20bbc2e216/w/ca81247fae7e4de99e13aec5/s/70x40?t=1431446505324
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9f7a36612d744a20bbc2e216/w/ca81247fae7e4de99e13aec5/s/300x300?t=1431446505324
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9f7a36612d744a20bbc2e216/w/ca81247fae7e4de99e13aec5/s/600x340?t=1431446505324
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

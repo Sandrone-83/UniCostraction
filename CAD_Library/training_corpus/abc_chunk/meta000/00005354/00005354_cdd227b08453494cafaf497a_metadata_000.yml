@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-20T01:34:29.604+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5508ad8de4b092d8e48fae66
+  id: 5508ad8de4b092d8e48fae66
+  image: /images/placeholder-user.png
+  name: Allen Kreager
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/cdd227b08453494cafaf497a/workspaces/b960f8bb5ed144d386f537b8
+  id: b960f8bb5ed144d386f537b8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/cdd227b08453494cafaf497a
+id: cdd227b08453494cafaf497a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-29T14:21:29.506+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5508ad8de4b092d8e48fae66
+  id: 5508ad8de4b092d8e48fae66
+  image: /images/placeholder-user.png
+  name: Allen Kreager
+  state: 1
+name: C10 Tach
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5508ad8de4b092d8e48fae66
+  id: 5508ad8de4b092d8e48fae66
+  image: /images/placeholder-user.png
+  name: Allen Kreager
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/cdd227b08453494cafaf497a/w/b960f8bb5ed144d386f537b8?t=1432909293520
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/cdd227b08453494cafaf497a/w/b960f8bb5ed144d386f537b8/s/70x40?t=1432909293520
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cdd227b08453494cafaf497a/w/b960f8bb5ed144d386f537b8/s/300x300?t=1432909293520
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cdd227b08453494cafaf497a/w/b960f8bb5ed144d386f537b8/s/600x340?t=1432909293520
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cdd227b08453494cafaf497a/w/b960f8bb5ed144d386f537b8/s/300x170?t=1432909293520
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

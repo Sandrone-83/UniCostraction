@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-15T11:09:06.191+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55052225e4b0e92cb7bac122
+  id: 55052225e4b0e92cb7bac122
+  image: /images/placeholder-user.png
+  name: chaim eshel
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a91dfa03da9147f8ba754686/workspaces/1d914396c6dd49b1912879ec
+  id: 1d914396c6dd49b1912879ec
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a91dfa03da9147f8ba754686
+id: a91dfa03da9147f8ba754686
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-23T13:05:08.298+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55052225e4b0e92cb7bac122
+  id: 55052225e4b0e92cb7bac122
+  image: /images/placeholder-user.png
+  name: chaim eshel
+  state: 1
+name: Football gate
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55052225e4b0e92cb7bac122
+  id: 55052225e4b0e92cb7bac122
+  image: /images/placeholder-user.png
+  name: chaim eshel
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a91dfa03da9147f8ba754686/w/1d914396c6dd49b1912879ec?t=1445605654284
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a91dfa03da9147f8ba754686/w/1d914396c6dd49b1912879ec/s/70x40?t=1445605654284
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a91dfa03da9147f8ba754686/w/1d914396c6dd49b1912879ec/s/300x300?t=1445605654284
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a91dfa03da9147f8ba754686/w/1d914396c6dd49b1912879ec/s/300x170?t=1445605654284
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a91dfa03da9147f8ba754686/w/1d914396c6dd49b1912879ec/s/600x340?t=1445605654284
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

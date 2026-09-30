@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-22T12:46:47.343+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fffa9be4b00b89f7fc8aab
+  id: 54fffa9be4b00b89f7fc8aab
+  image: /images/placeholder-user.png
+  name: Loik Le Devehat
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/23e6efbdae254d48b914d347/workspaces/e40372f5b6114e9faa751137
+  id: e40372f5b6114e9faa751137
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/23e6efbdae254d48b914d347
+id: 23e6efbdae254d48b914d347
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-02-11T21:02:34.977+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fffa9be4b00b89f7fc8aab
+  id: 54fffa9be4b00b89f7fc8aab
+  image: /images/placeholder-user.png
+  name: Loik Le Devehat
+  state: 1
+name: Bmo
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fffa9be4b00b89f7fc8aab
+  id: 54fffa9be4b00b89f7fc8aab
+  image: /images/placeholder-user.png
+  name: Loik Le Devehat
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/23e6efbdae254d48b914d347/w/e40372f5b6114e9faa751137?t=1518382971893
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/23e6efbdae254d48b914d347/w/e40372f5b6114e9faa751137/s/300x300?t=1518382971893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/23e6efbdae254d48b914d347/w/e40372f5b6114e9faa751137/s/70x40?t=1518382971893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/23e6efbdae254d48b914d347/w/e40372f5b6114e9faa751137/s/600x340?t=1518382971893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/23e6efbdae254d48b914d347/w/e40372f5b6114e9faa751137/s/300x170?t=1518382971893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

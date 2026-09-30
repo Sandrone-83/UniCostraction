@@ -1,0 +1,12 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/viewport_frozen_layers.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 11, "entity_histogram": {"TEXT": 7, "VIEWPORT": 4}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 223.364], [0.0, 354.654]]}
+{"kind": "entity", "type": "TEXT", "layer": "Layer3", "text": "Layer 3", "x": 20.010380647036, "y": 346.786095059451, "h": 35.0}
+{"kind": "entity", "type": "TEXT", "layer": "Layer2", "text": "Layer 2", "x": 20.010380647036, "y": 217.94943464374, "h": 35.0}
+{"kind": "entity", "type": "TEXT", "layer": "Layer1", "text": "Layer 1", "x": 20.010380647036, "y": 79.45002469685, "h": 35.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Layer 3 is frozen", "x": 223.364080772368, "y": 354.654427867682, "h": 18.0}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "no overrides", "x": 14.342613202682, "y": 178.311120371325, "h": 5.0}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Layer 1 frozen", "x": 14.342613202682, "y": 90.739658277463, "h": 5.0}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Layer 2 frozen", "x": 123.82842547705, "y": 90.739658277463, "h": 5.0}

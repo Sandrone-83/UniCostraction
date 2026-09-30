@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-08T11:49:00.844+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551d929ee4b05652caf2efef
+  id: 551d929ee4b05652caf2efef
+  image: /images/placeholder-user.png
+  name: Eric McCormick
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/68652f3db1de4d3883448bc9/workspaces/38209b8f21604c88a961465e
+  id: 38209b8f21604c88a961465e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/68652f3db1de4d3883448bc9
+id: 68652f3db1de4d3883448bc9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-02T17:22:22.214+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551d929ee4b05652caf2efef
+  id: 551d929ee4b05652caf2efef
+  image: /images/placeholder-user.png
+  name: Eric McCormick
+  state: 1
+name: Aquaponics Fishtank Topper
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551d929ee4b05652caf2efef
+  id: 551d929ee4b05652caf2efef
+  image: /images/placeholder-user.png
+  name: Eric McCormick
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/68652f3db1de4d3883448bc9/w/38209b8f21604c88a961465e?t=1431104580843
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/68652f3db1de4d3883448bc9/w/38209b8f21604c88a961465e/s/300x300?t=1431104580843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/68652f3db1de4d3883448bc9/w/38209b8f21604c88a961465e/s/300x170?t=1431104580843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/68652f3db1de4d3883448bc9/w/38209b8f21604c88a961465e/s/70x40?t=1431104580843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/68652f3db1de4d3883448bc9/w/38209b8f21604c88a961465e/s/600x340?t=1431104580843
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

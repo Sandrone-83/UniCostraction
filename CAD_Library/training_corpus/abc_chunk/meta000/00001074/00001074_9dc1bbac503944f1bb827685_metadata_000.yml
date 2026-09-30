@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T12:03:12.110+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe561ce4b0c0916a2987c2
+  id: 54fe561ce4b0c0916a2987c2
+  image: /images/placeholder-user.png
+  name: Piaoger Gong
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9dc1bbac503944f1bb827685/workspaces/326e5fd7dc5b41a4b04ef5fc
+  id: 326e5fd7dc5b41a4b04ef5fc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9dc1bbac503944f1bb827685
+id: 9dc1bbac503944f1bb827685
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-03T04:26:35.976+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe561ce4b0c0916a2987c2
+  id: 54fe561ce4b0c0916a2987c2
+  image: /images/placeholder-user.png
+  name: Piaoger Gong
+  state: 1
+name: orange
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe561ce4b0c0916a2987c2
+  id: 54fe561ce4b0c0916a2987c2
+  image: /images/placeholder-user.png
+  name: Piaoger Gong
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9dc1bbac503944f1bb827685/w/326e5fd7dc5b41a4b04ef5fc?t=1426227274547
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9dc1bbac503944f1bb827685/w/326e5fd7dc5b41a4b04ef5fc/s/600x340?t=1426227274547
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9dc1bbac503944f1bb827685/w/326e5fd7dc5b41a4b04ef5fc/s/300x170?t=1426227274547
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9dc1bbac503944f1bb827685/w/326e5fd7dc5b41a4b04ef5fc/s/300x300?t=1426227274547
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9dc1bbac503944f1bb827685/w/326e5fd7dc5b41a4b04ef5fc/s/70x40?t=1426227274547
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

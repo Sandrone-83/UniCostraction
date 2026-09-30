@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-27T10:29:24.985+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/542adc8be4b042721e167e8d
+  id: 542adc8be4b042721e167e8d
+  image: https://profiles.onshape.com/8a292c3d9e9e36b1b850a79b8ab592a8a6de987b835ebcbd7b971554cf1527ef.png
+  name: Mustafa Eroglu
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/09d7ee9962c8427aac9ba7cb/workspaces/b1126057cae74174849234f4
+  id: b1126057cae74174849234f4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/09d7ee9962c8427aac9ba7cb
+id: 09d7ee9962c8427aac9ba7cb
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-22T14:56:07.751+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/542adc8be4b042721e167e8d
+  id: 542adc8be4b042721e167e8d
+  image: https://profiles.onshape.com/8a292c3d9e9e36b1b850a79b8ab592a8a6de987b835ebcbd7b971554cf1527ef.png
+  name: Mustafa Eroglu
+  state: 1
+name: Piri Reis.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/542adc8be4b042721e167e8d
+  id: 542adc8be4b042721e167e8d
+  image: https://profiles.onshape.com/8a292c3d9e9e36b1b850a79b8ab592a8a6de987b835ebcbd7b971554cf1527ef.png
+  name: Mustafa Eroglu
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/09d7ee9962c8427aac9ba7cb/w/b1126057cae74174849234f4?t=1432181704121
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/09d7ee9962c8427aac9ba7cb/w/b1126057cae74174849234f4/s/600x340?t=1432181704121
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/09d7ee9962c8427aac9ba7cb/w/b1126057cae74174849234f4/s/300x300?t=1432181704121
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/09d7ee9962c8427aac9ba7cb/w/b1126057cae74174849234f4/s/70x40?t=1432181704121
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/09d7ee9962c8427aac9ba7cb/w/b1126057cae74174849234f4/s/300x170?t=1432181704121
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

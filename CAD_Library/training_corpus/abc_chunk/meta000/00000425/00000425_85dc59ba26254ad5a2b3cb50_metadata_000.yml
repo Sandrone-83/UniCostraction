@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-01T22:22:41.728+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/547bcd86e4b06e6305aa76c6
+  id: 547bcd86e4b06e6305aa76c6
+  image: /images/placeholder-user.png
+  name: Andrew Peterson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/85dc59ba26254ad5a2b3cb50/workspaces/d0ebddb2a0f84959b75e65ba
+  id: d0ebddb2a0f84959b75e65ba
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/85dc59ba26254ad5a2b3cb50
+id: 85dc59ba26254ad5a2b3cb50
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-28T17:31:40.481+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/547bcd86e4b06e6305aa76c6
+  id: 547bcd86e4b06e6305aa76c6
+  image: /images/placeholder-user.png
+  name: Andrew Peterson
+  state: 1
+name: Sample - Fuel Valve Actuator
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/547bcd86e4b06e6305aa76c6
+  id: 547bcd86e4b06e6305aa76c6
+  image: /images/placeholder-user.png
+  name: Andrew Peterson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

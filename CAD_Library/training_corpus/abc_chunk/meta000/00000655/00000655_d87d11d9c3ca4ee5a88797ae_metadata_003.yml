@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-07T19:48:34.600+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54b56770e4b0aecf41bdca17
+  id: 54b56770e4b0aecf41bdca17
+  image: https://profiles.onshape.com/b0c3815158667ac22e00b9065758d9e9a44710224f54919ab5e15e09115dae6d.png
+  name: Micah Haines
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d87d11d9c3ca4ee5a88797ae/workspaces/db3e8452fc044d07a6a6d844
+  id: db3e8452fc044d07a6a6d844
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d87d11d9c3ca4ee5a88797ae
+id: d87d11d9c3ca4ee5a88797ae
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-03-09T04:34:50.866+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54b56770e4b0aecf41bdca17
+  id: 54b56770e4b0aecf41bdca17
+  image: https://profiles.onshape.com/b0c3815158667ac22e00b9065758d9e9a44710224f54919ab5e15e09115dae6d.png
+  name: Micah Haines
+  state: 1
+name: PD L 2016
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54b56770e4b0aecf41bdca17
+  id: 54b56770e4b0aecf41bdca17
+  image: https://profiles.onshape.com/b0c3815158667ac22e00b9065758d9e9a44710224f54919ab5e15e09115dae6d.png
+  name: Micah Haines
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d87d11d9c3ca4ee5a88797ae/w/db3e8452fc044d07a6a6d844?t=1457498111099
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d87d11d9c3ca4ee5a88797ae/w/db3e8452fc044d07a6a6d844/s/70x40?t=1457498111099
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d87d11d9c3ca4ee5a88797ae/w/db3e8452fc044d07a6a6d844/s/300x300?t=1457498111099
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d87d11d9c3ca4ee5a88797ae/w/db3e8452fc044d07a6a6d844/s/600x340?t=1457498111099
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d87d11d9c3ca4ee5a88797ae/w/db3e8452fc044d07a6a6d844/s/300x170?t=1457498111099
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

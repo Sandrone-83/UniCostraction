@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-17T15:43:26.049+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550840bde4b0f6000dd57e56
+  id: 550840bde4b0f6000dd57e56
+  image: /images/placeholder-user.png
+  name: Vito Consalvo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/14162148b3bb44ef8264e6a9/workspaces/e2b4e11206a74595a6439280
+  id: e2b4e11206a74595a6439280
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/14162148b3bb44ef8264e6a9
+id: 14162148b3bb44ef8264e6a9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-27T22:28:42.264+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550840bde4b0f6000dd57e56
+  id: 550840bde4b0f6000dd57e56
+  image: /images/placeholder-user.png
+  name: Vito Consalvo
+  state: 1
+name: poltrona
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550840bde4b0f6000dd57e56
+  id: 550840bde4b0f6000dd57e56
+  image: /images/placeholder-user.png
+  name: Vito Consalvo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/14162148b3bb44ef8264e6a9/w/e2b4e11206a74595a6439280?t=1426621350638
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/14162148b3bb44ef8264e6a9/w/e2b4e11206a74595a6439280/s/70x40?t=1426621350638
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/14162148b3bb44ef8264e6a9/w/e2b4e11206a74595a6439280/s/600x340?t=1426621350638
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/14162148b3bb44ef8264e6a9/w/e2b4e11206a74595a6439280/s/300x300?t=1426621350638
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/14162148b3bb44ef8264e6a9/w/e2b4e11206a74595a6439280/s/300x170?t=1426621350638
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-13T11:18:17.354+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fde3b3e4b024f269d816aa
+  id: 54fde3b3e4b024f269d816aa
+  image: /images/placeholder-user.png
+  name: Artis Kromanis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f112d6f3e0c644ae9de2a724/workspaces/7d40ee193d8a448c9ff9c424
+  id: 7d40ee193d8a448c9ff9c424
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f112d6f3e0c644ae9de2a724
+id: f112d6f3e0c644ae9de2a724
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-12-17T13:36:15.220+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/577389bde4b06edf4bcc69c7
+  id: 577389bde4b06edf4bcc69c7
+  image: /images/placeholder-user.png
+  name: Ivars Dille
+  state: 1
+name: Grieznis_AK_v10.STEP
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fde3b3e4b024f269d816aa
+  id: 54fde3b3e4b024f269d816aa
+  image: /images/placeholder-user.png
+  name: Artis Kromanis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f112d6f3e0c644ae9de2a724/w/7d40ee193d8a448c9ff9c424?t=1513517883840
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f112d6f3e0c644ae9de2a724/w/7d40ee193d8a448c9ff9c424/s/300x300?t=1513517883840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f112d6f3e0c644ae9de2a724/w/7d40ee193d8a448c9ff9c424/s/300x170?t=1513517883840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f112d6f3e0c644ae9de2a724/w/7d40ee193d8a448c9ff9c424/s/600x340?t=1513517883840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f112d6f3e0c644ae9de2a724/w/7d40ee193d8a448c9ff9c424/s/70x40?t=1513517883840
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

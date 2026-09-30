@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-09T10:52:45.970+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe0299e4b04a9735f91d6a
+  id: 54fe0299e4b04a9735f91d6a
+  image: https://profiles.onshape.com/febe5e744c003d49f90d3d1cb780019b6030eada1141c6456cd08f4d992a28f6.png
+  name: James
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6f634902f1db496d949185b8/workspaces/7a59a53fd0dc4b91b2895906
+  id: 7a59a53fd0dc4b91b2895906
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6f634902f1db496d949185b8
+id: 6f634902f1db496d949185b8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-12T14:23:47.616+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe0299e4b04a9735f91d6a
+  id: 54fe0299e4b04a9735f91d6a
+  image: https://profiles.onshape.com/febe5e744c003d49f90d3d1cb780019b6030eada1141c6456cd08f4d992a28f6.png
+  name: James
+  state: 1
+name: Brushless Motors
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe0299e4b04a9735f91d6a
+  id: 54fe0299e4b04a9735f91d6a
+  image: https://profiles.onshape.com/febe5e744c003d49f90d3d1cb780019b6030eada1141c6456cd08f4d992a28f6.png
+  name: James
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6f634902f1db496d949185b8/w/7a59a53fd0dc4b91b2895906?t=1428578580663
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6f634902f1db496d949185b8/w/7a59a53fd0dc4b91b2895906/s/70x40?t=1428578580663
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6f634902f1db496d949185b8/w/7a59a53fd0dc4b91b2895906/s/600x340?t=1428578580663
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6f634902f1db496d949185b8/w/7a59a53fd0dc4b91b2895906/s/300x300?t=1428578580663
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6f634902f1db496d949185b8/w/7a59a53fd0dc4b91b2895906/s/300x170?t=1428578580663
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

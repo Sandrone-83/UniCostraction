@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-07T21:40:03.695+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/545168a8e4b072356fcc8689
+  id: 545168a8e4b072356fcc8689
+  image: https://profiles.onshape.com/6deb4a0c50da05829cd5c0ee36a81177807f903942263e217d2a40edf942e126.png
+  name: Jim Anders
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b2916fd7536b4348b7b22cf7/workspaces/be2a7ffd27034f1d93afe7c3
+  id: be2a7ffd27034f1d93afe7c3
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b2916fd7536b4348b7b22cf7
+id: b2916fd7536b4348b7b22cf7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-11-15T22:09:57.819+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/545168a8e4b072356fcc8689
+  id: 545168a8e4b072356fcc8689
+  image: https://profiles.onshape.com/6deb4a0c50da05829cd5c0ee36a81177807f903942263e217d2a40edf942e126.png
+  name: Jim Anders
+  state: 1
+name: Camera Positioner Mount
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/545168a8e4b072356fcc8689
+  id: 545168a8e4b072356fcc8689
+  image: https://profiles.onshape.com/6deb4a0c50da05829cd5c0ee36a81177807f903942263e217d2a40edf942e126.png
+  name: Jim Anders
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b2916fd7536b4348b7b22cf7/w/be2a7ffd27034f1d93afe7c3?t=1416089427953
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b2916fd7536b4348b7b22cf7/w/be2a7ffd27034f1d93afe7c3/s/600x340?t=1416089427953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b2916fd7536b4348b7b22cf7/w/be2a7ffd27034f1d93afe7c3/s/70x40?t=1416089427953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b2916fd7536b4348b7b22cf7/w/be2a7ffd27034f1d93afe7c3/s/300x170?t=1416089427953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

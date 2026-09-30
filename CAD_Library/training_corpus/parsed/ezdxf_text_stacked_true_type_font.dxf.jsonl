@@ -1,0 +1,440 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/text_stacked_true_type_font.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 439, "entity_histogram": {"CIRCLE": 224, "TEXT": 131, "LINE": 84}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 100.082], [29.334, 60.937]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 0.118849688059, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.118849688059, "y1": 43.40279602162, "x2": 5.118849688059, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 5.118849688059, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.118849688059, "y1": 45.90279602162, "x2": 5.118849688059, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 52.00972533249, "x2": 0.0, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 5.0, "y1": 52.00972533249, "x2": 5.0, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 52.00972533249, "x2": 10.0, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 49.184665112929, "x2": 10.0, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 0.0, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 0.0, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 5.0, "y": 49.084665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 10.0, "y": 49.043265112929, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 52.00972533249, "x2": 10.0, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 55.241057824952, "x2": 10.0, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 58.472390317414, "x2": 10.0, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.118849688059, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.118849688059, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.118849688059, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.118849688059, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 0.0, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 5.0, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 10.0, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 8.00585299164, "y1": 43.958448868075, "x2": 8.00585299164, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 6.591884354312, "y1": 44.970192510646, "x2": 9.419821628969, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 8.00585299164, "y": 44.899492510646, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 8.00585299164, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 8.00585299164, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 47.707476144289, "x2": 10.0, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "STACKED", "x": 0.0, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 0.0, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 5.0, "y": 58.546390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 10.0, "y": 58.613790317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 0.0, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 5.0, "y": 55.341057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 10.0, "y": 55.382457824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 0.0, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 5.0, "y": 52.10972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 10.0, "y": 52.15112533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "FIT alignment is broken", "x": 0.0, "y": 35.266872232825, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "in AutoCAD and BricsCAD!", "x": 0.0, "y": 34.192067442008, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 29.885594131537, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.885594131537, "y1": 43.40279602162, "x2": 34.885594131537, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 34.885594131537, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.885594131537, "y1": 45.90279602162, "x2": 34.885594131537, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.766744443478, "y1": 52.00972533249, "x2": 29.766744443478, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 34.766744443478, "y1": 52.00972533249, "x2": 34.766744443478, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 39.766744443478, "y1": 52.00972533249, "x2": 39.766744443478, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.766744443478, "y1": 49.184665112929, "x2": 39.766744443478, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 29.766744443478, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 29.766744443478, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 34.837455121596, "y": 49.11395443481, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 39.866729342337, "y": 49.084680214069, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.766744443478, "y1": 52.00972533249, "x2": 39.766744443478, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.766744443478, "y1": 55.241057824952, "x2": 39.766744443478, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.766744443478, "y1": 58.472390317414, "x2": 39.766744443478, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.885594131537, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.885594131537, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.885594131537, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.885594131537, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 29.766744443478, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 34.766744443478, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 39.766744443478, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 37.772597435118, "y1": 43.958448868075, "x2": 37.772597435118, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 36.35862879779, "y1": 44.970192510646, "x2": 39.186566072447, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 37.822589884547, "y": 44.920200061216, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 37.772597435118, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 37.772597435118, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 29.766744443478, "y1": 47.707476144289, "x2": 39.766744443478, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Rotated 45 deg", "x": 29.766744443478, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 29.766744443478, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 34.71441854167, "y": 58.524716219222, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 39.666759544618, "y": 58.572375216274, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 29.766744443478, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 34.696033765359, "y": 55.311768503071, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 39.666759544618, "y": 55.341042723812, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 29.766744443478, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 34.696033765359, "y": 52.080436010609, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 39.666759544618, "y": 52.10971023135, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Rotation not applicable", "x": 29.766744443478, "y": 35.266872232825, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "to FIT and ALIGNED", "x": 29.766744443478, "y": 34.192067442008, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 43.436283782209, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.436283782209, "y1": 43.40279602162, "x2": 48.436283782209, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 48.436283782209, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.436283782209, "y1": 45.90279602162, "x2": 48.436283782209, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.31743409415, "y1": 52.00972533249, "x2": 43.31743409415, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 48.31743409415, "y1": 52.00972533249, "x2": 48.31743409415, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 53.31743409415, "y1": 52.00972533249, "x2": 53.31743409415, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.31743409415, "y1": 49.184665112929, "x2": 53.31743409415, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 43.31743409415, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 43.31743409415, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 48.31743409415, "y": 49.084665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 53.31743409415, "y": 49.043265112929, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.31743409415, "y1": 52.00972533249, "x2": 53.31743409415, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.31743409415, "y1": 55.241057824952, "x2": 53.31743409415, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.31743409415, "y1": 58.472390317414, "x2": 53.31743409415, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.436283782209, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.436283782209, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.436283782209, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.436283782209, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 43.31743409415, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 48.31743409415, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 53.31743409415, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 51.32328708579, "y1": 43.958448868075, "x2": 51.32328708579, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 49.909318448462, "y1": 44.970192510646, "x2": 52.737255723119, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 51.32328708579, "y": 44.899492510646, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 51.32328708579, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 51.32328708579, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 43.31743409415, "y1": 47.707476144289, "x2": 53.31743409415, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Oblique 5 deg", "x": 43.31743409415, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 43.31743409415, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 48.31743409415, "y": 58.546390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 53.31743409415, "y": 58.613790317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 43.31743409415, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 48.31743409415, "y": 55.341057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 53.31743409415, "y": 55.382457824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 43.31743409415, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 48.31743409415, "y": 52.10972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 53.31743409415, "y": 52.15112533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Strange interpretation of \"oblique\"", "x": 42.839672066335, "y": 35.266872232825, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "in AutoCAD and BricsCAD!", "x": 42.839672066335, "y": 34.192067442008, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Horizontal alignment is always", "x": 0.0, "y": 30.390315583642, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "applied as \"Center\".", "x": 0.0, "y": 29.334384915872, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 58.580382500334, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.580382500334, "y1": 43.40279602162, "x2": 63.580382500334, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 63.580382500334, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.580382500334, "y1": 45.90279602162, "x2": 63.580382500334, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.461532812275, "y1": 52.00972533249, "x2": 58.461532812275, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 63.461532812275, "y1": 52.00972533249, "x2": 63.461532812275, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 68.461532812275, "y1": 52.00972533249, "x2": 68.461532812275, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.461532812275, "y1": 49.184665112929, "x2": 68.461532812275, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 58.461532812275, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 58.461532812275, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 63.461532812275, "y": 49.084665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 68.461532812275, "y": 49.043265112929, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.461532812275, "y1": 52.00972533249, "x2": 68.461532812275, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.461532812275, "y1": 55.241057824952, "x2": 68.461532812275, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.461532812275, "y1": 58.472390317414, "x2": 68.461532812275, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.580382500334, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.580382500334, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.580382500334, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.580382500334, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 58.461532812275, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 63.461532812275, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 68.461532812275, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 66.467385803915, "y1": 43.958448868075, "x2": 66.467385803915, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 65.053417166587, "y1": 44.970192510646, "x2": 67.881354441244, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 66.467385803915, "y": 44.899492510646, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 66.467385803915, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 66.467385803915, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 58.461532812275, "y1": 47.707476144289, "x2": 68.461532812275, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIRROR-X (BACKWARD)", "x": 58.461532812275, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 58.461532812275, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 63.461532812275, "y": 58.546390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 68.461532812275, "y": 58.613790317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 58.461532812275, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 63.461532812275, "y": 55.341057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 68.461532812275, "y": 55.382457824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 58.461532812275, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 63.461532812275, "y": 52.10972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 68.461532812275, "y": 52.15112533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "That is unexpected!", "x": 52.509682261017, "y": 40.657634476691, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "But in different ways :-)", "x": 0.0, "y": 33.11726265119, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 74.32752245882, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.32752245882, "y1": 43.40279602162, "x2": 79.32752245882, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 79.32752245882, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.32752245882, "y1": 45.90279602162, "x2": 79.32752245882, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.208672770761, "y1": 52.00972533249, "x2": 74.208672770761, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 79.208672770761, "y1": 52.00972533249, "x2": 79.208672770761, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 84.208672770761, "y1": 52.00972533249, "x2": 84.208672770761, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.208672770761, "y1": 49.184665112929, "x2": 84.208672770761, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 74.208672770761, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 74.208672770761, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 79.208672770761, "y": 49.284665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 84.208672770761, "y": 49.326065112929, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.208672770761, "y1": 52.00972533249, "x2": 84.208672770761, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.208672770761, "y1": 55.241057824952, "x2": 84.208672770761, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.208672770761, "y1": 58.472390317414, "x2": 84.208672770761, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.32752245882, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.32752245882, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.32752245882, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.32752245882, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 74.208672770761, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 79.208672770761, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 84.208672770761, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 82.214525762401, "y1": 43.958448868075, "x2": 82.214525762401, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 80.800557125073, "y1": 44.970192510646, "x2": 83.62849439973, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 82.214525762401, "y": 45.040892510646, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 82.214525762401, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 82.214525762401, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 74.208672770761, "y1": 47.707476144289, "x2": 84.208672770761, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIRROR-Y (UPSIDE DOWN)", "x": 74.208672770761, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 74.208672770761, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 79.208672770761, "y": 58.546390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 84.208672770761, "y": 58.613790317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 74.208672770761, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 79.208672770761, "y": 55.341057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 84.208672770761, "y": 55.382457824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 74.208672770761, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 79.208672770761, "y": 52.10972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 84.208672770761, "y": 52.15112533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 15.236104048206, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.236104048206, "y1": 43.40279602162, "x2": 20.236104048206, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 20.236104048206, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.236104048206, "y1": 45.90279602162, "x2": 20.236104048206, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.117254360147, "y1": 52.00972533249, "x2": 15.117254360147, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 20.117254360147, "y1": 52.00972533249, "x2": 20.117254360147, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 25.117254360147, "y1": 52.00972533249, "x2": 25.117254360147, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.117254360147, "y1": 49.184665112929, "x2": 25.117254360147, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 15.117254360147, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 15.117254360147, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 20.117254360147, "y": 49.084665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 25.117254360147, "y": 49.043265112929, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.117254360147, "y1": 52.00972533249, "x2": 25.117254360147, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.117254360147, "y1": 55.241057824952, "x2": 25.117254360147, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.117254360147, "y1": 58.472390317414, "x2": 25.117254360147, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.236104048206, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.236104048206, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.236104048206, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.236104048206, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 15.117254360147, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 20.117254360147, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 25.117254360147, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 23.123107351787, "y1": 43.958448868075, "x2": 23.123107351787, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 21.709138714459, "y1": 44.970192510646, "x2": 24.537075989116, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 23.123107351787, "y": 44.899492510646, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 23.123107351787, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 23.123107351787, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 15.117254360147, "y1": 47.707476144289, "x2": 25.117254360147, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "WIDTH FACTOR 2", "x": 15.117254360147, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 15.117254360147, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 20.117254360147, "y": 58.546390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 25.117254360147, "y": 58.613790317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 15.117254360147, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 20.117254360147, "y": 55.341057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 25.117254360147, "y": 55.382457824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 15.117254360147, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 20.117254360147, "y": 52.10972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 25.117254360147, "y": 52.15112533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Width factor not applicable", "x": 14.763359972102, "y": 35.266872232825, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "to FIT and ALIGNED", "x": 14.763359972102, "y": 34.192067442008, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Aligned alignment", "x": 90.200639536974, "y": 43.40279602162, "h": 3.985987650442}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.200639536974, "y1": 43.40279602162, "x2": 95.200639536974, "y2": 44.65279602162}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Fit alignment", "x": 95.200639536974, "y": 44.65279602162, "h": 0.625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.200639536974, "y1": 45.90279602162, "x2": 95.200639536974, "y2": 44.65279602162}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.081789848915, "y1": 52.00972533249, "x2": 90.081789848915, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 95.081789848915, "y1": 52.00972533249, "x2": 95.081789848915, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 100.081789848915, "y1": 52.00972533249, "x2": 100.081789848915, "y2": 58.472390317414}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.081789848915, "y1": 49.184665112929, "x2": 100.081789848915, "y2": 49.184665112929}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Baseline...", "x": 90.081789848915, "y": 47.707476144289, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Left...", "x": 90.081789848915, "y": 49.184665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Center...", "x": 95.081789848915, "y": 49.284665112929, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Right...", "x": 100.081789848915, "y": 49.326065112929, "h": 0.2}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.081789848915, "y1": 52.00972533249, "x2": 100.081789848915, "y2": 52.00972533249}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.081789848915, "y1": 55.241057824952, "x2": 100.081789848915, "y2": 55.241057824952}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.081789848915, "y1": 58.472390317414, "x2": 100.081789848915, "y2": 58.472390317414}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.200639536974, "cy": 43.40279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.200639536974, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.200639536974, "cy": 45.90279602162, "r": 0.025}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.200639536974, "cy": 44.65279602162, "r": 0.01875}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 47.707476144289, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 47.707476144289, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 49.184665112929, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 49.184665112929, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 52.00972533249, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 52.00972533249, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 55.241057824952, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 55.241057824952, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 90.081789848915, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 95.081789848915, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 58.472390317414, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 100.081789848915, "cy": 58.472390317414, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 98.087642840555, "y1": 43.958448868075, "x2": 98.087642840555, "y2": 45.981936153217}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 96.673674203227, "y1": 44.970192510646, "x2": 99.501611477884, "y2": 44.970192510646}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle alignment", "x": 98.087642840555, "y": 45.040892510646, "h": 0.2}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 98.087642840555, "cy": 44.970192510646, "r": 0.1}
+{"kind": "entity", "type": "CIRCLE", "layer": "INSERT_POINTS", "cx": 98.087642840555, "cy": 44.970192510646, "r": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 90.081789848915, "y1": 47.707476144289, "x2": 100.081789848915, "y2": 47.707476144289}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "MIRROR-XY", "x": 90.081789848915, "y": 60.936925482203, "h": 0.5}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Left", "x": 90.081789848915, "y": 58.472390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Center...", "x": 95.081789848915, "y": 58.546390317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Top-Right", "x": 100.081789848915, "y": 58.613790317414, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Left", "x": 90.081789848915, "y": 55.241057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Center...", "x": 95.081789848915, "y": 55.341057824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Middle-Right", "x": 100.081789848915, "y": 55.382457824952, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Left...", "x": 90.081789848915, "y": 52.00972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Center...", "x": 95.081789848915, "y": 52.10972533249, "h": 0.2}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "Bottom-Right...", "x": 100.081789848915, "y": 52.15112533249, "h": 0.2}

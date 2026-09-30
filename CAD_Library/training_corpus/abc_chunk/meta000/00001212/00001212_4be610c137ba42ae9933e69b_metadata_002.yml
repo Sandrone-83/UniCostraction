@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-14T04:03:24.650+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54efb754e4b098bd780643aa
+  id: 54efb754e4b098bd780643aa
+  image: https://profiles.onshape.com/22cea46624a60d2190fba8998078992d4e0f6ac68f76db9fa85bb986ebdc40a9.png
+  name: Labern
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4be610c137ba42ae9933e69b/workspaces/908c76caba024fa1823ee0aa
+  id: 908c76caba024fa1823ee0aa
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4be610c137ba42ae9933e69b
+id: 4be610c137ba42ae9933e69b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-08-13T23:38:26.557+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54efb754e4b098bd780643aa
+  id: 54efb754e4b098bd780643aa
+  image: https://profiles.onshape.com/22cea46624a60d2190fba8998078992d4e0f6ac68f76db9fa85bb986ebdc40a9.png
+  name: Labern
+  state: 1
+name: Tranjo
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54efb754e4b098bd780643aa
+  id: 54efb754e4b098bd780643aa
+  image: https://profiles.onshape.com/22cea46624a60d2190fba8998078992d4e0f6ac68f76db9fa85bb986ebdc40a9.png
+  name: Labern
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4be610c137ba42ae9933e69b/w/908c76caba024fa1823ee0aa?t=1427233883960
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4be610c137ba42ae9933e69b/w/908c76caba024fa1823ee0aa/s/70x40?t=1427233883960
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4be610c137ba42ae9933e69b/w/908c76caba024fa1823ee0aa/s/600x340?t=1427233883960
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4be610c137ba42ae9933e69b/w/908c76caba024fa1823ee0aa/s/300x300?t=1427233883960
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4be610c137ba42ae9933e69b/w/908c76caba024fa1823ee0aa/s/300x170?t=1427233883960
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

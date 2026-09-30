@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-08T05:25:00.355+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5538147ce4b0bc1f925a5ff5
+  id: 5538147ce4b0bc1f925a5ff5
+  image: /images/placeholder-user.png
+  name: Eisen Montalvo
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a29862727ce14c61a3b078ed/workspaces/cfeb1970f8074075be854f2d
+  id: cfeb1970f8074075be854f2d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a29862727ce14c61a3b078ed
+id: a29862727ce14c61a3b078ed
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-02-07T02:09:00.026+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5538147ce4b0bc1f925a5ff5
+  id: 5538147ce4b0bc1f925a5ff5
+  image: /images/placeholder-user.png
+  name: Eisen Montalvo
+  state: 1
+name: Apple Watch Charge Station 38mm
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5538147ce4b0bc1f925a5ff5
+  id: 5538147ce4b0bc1f925a5ff5
+  image: /images/placeholder-user.png
+  name: Eisen Montalvo
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a29862727ce14c61a3b078ed/w/cfeb1970f8074075be854f2d?t=1434659099818
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a29862727ce14c61a3b078ed/w/cfeb1970f8074075be854f2d/s/70x40?t=1434659099818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a29862727ce14c61a3b078ed/w/cfeb1970f8074075be854f2d/s/300x170?t=1434659099818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a29862727ce14c61a3b078ed/w/cfeb1970f8074075be854f2d/s/600x340?t=1434659099818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a29862727ce14c61a3b078ed/w/cfeb1970f8074075be854f2d/s/300x300?t=1434659099818
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

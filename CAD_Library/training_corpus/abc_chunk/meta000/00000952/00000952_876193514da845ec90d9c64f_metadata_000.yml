@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-10T20:00:58.765+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7aa1e4b0df4f31ebb271
+  id: 53cd7aa1e4b0df4f31ebb271
+  image: https://profiles.onshape.com/ec6f41415f1a4fb4a0381c6dfe8437a74a7fe7146fc109680d656dc9dc514ea0.png
+  name: Philip Thomas
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/876193514da845ec90d9c64f/workspaces/03b881b555e64968913b9501
+  id: 03b881b555e64968913b9501
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/876193514da845ec90d9c64f
+id: 876193514da845ec90d9c64f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-10T21:20:26.219+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7aa1e4b0df4f31ebb271
+  id: 53cd7aa1e4b0df4f31ebb271
+  image: https://profiles.onshape.com/ec6f41415f1a4fb4a0381c6dfe8437a74a7fe7146fc109680d656dc9dc514ea0.png
+  name: Philip Thomas
+  state: 1
+name: Dodecahedron - Can you do it in fewer features? pthomas@onshape.com
+notRevisionManaged: false
+numberOfTimesCopied: 11
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7aa1e4b0df4f31ebb271
+  id: 53cd7aa1e4b0df4f31ebb271
+  image: https://profiles.onshape.com/ec6f41415f1a4fb4a0381c6dfe8437a74a7fe7146fc109680d656dc9dc514ea0.png
+  name: Philip Thomas
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/876193514da845ec90d9c64f/w/03b881b555e64968913b9501?t=1521522313312
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/876193514da845ec90d9c64f/w/03b881b555e64968913b9501/s/300x300?t=1521522313312
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/876193514da845ec90d9c64f/w/03b881b555e64968913b9501/s/600x340?t=1521522313312
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/876193514da845ec90d9c64f/w/03b881b555e64968913b9501/s/300x170?t=1521522313312
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/876193514da845ec90d9c64f/w/03b881b555e64968913b9501/s/70x40?t=1521522313312
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

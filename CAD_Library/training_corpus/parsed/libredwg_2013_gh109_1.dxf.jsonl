@@ -1,0 +1,336 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "libredwg/2013/gh109_1.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 335, "entity_histogram": {"3DFACE": 132, "LINE": 77, "POINT": 42, "INSERT": 29, "MTEXT": 17, "DIMENSION": 14, "ELLIPSE": 13, "ARC": 4, "LWPOLYLINE": 3, "VIEWPORT": 2, "HATCH": 1, "TEXT": 1}, "n_layers": 0, "layers": [], "n_block_defs": 26, "bbox": [[-1296.382, 25577.15], [-2325.228, 12189.283]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -150.0, "y1": 0.0, "x2": 150.0, "y2": 0.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 2, "closed": false, "bbox": [[-70.0, 70.0], [-70.0, 70.0]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 2, "closed": false, "bbox": [[-0.5, 0.5], [-0.5, 0.5]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.45, "y1": 0.975, "x2": 0.5000000000000002, "y2": 0.975}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": 0.0, "x2": 0.45, "y2": 0.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 0.475, "cy": 0.0, "r": 0.975, "a1": 91.4692835813538, "a2": 180.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": 0.0, "x2": 0.5, "y2": 0.975}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.45, "y1": 0.0, "x2": 0.45, "y2": 0.975}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_WOOD"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -0.5, "y1": 0.5, "x2": 0.5, "y2": 0.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -0.5, "y1": -0.5, "x2": 0.5, "y2": -0.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": -0.1666666666666667, "x2": -0.5, "y2": -0.1666666666666667}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": 0.1666666666666666, "x2": -0.5, "y2": 0.1666666666666666}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -0.5, "y1": 0.5, "x2": -0.5, "y2": -0.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": 0.5, "x2": 0.4999999999999999, "y2": -0.5}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_GLASS"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "LINE", "layer": "3T_BAR", "x1": -600.0, "y1": 0.5, "x2": -600.0, "y2": -0.5}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "3DFACE", "layer": "3T_BAR"}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 18111.00374372617, "y1": -419.9999999999981, "x2": 18111.00374372617, "y2": -2325.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 19011.00374372619, "y1": -419.9999999999981, "x2": 19011.00374372619, "y2": -2325.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 18111.00374372617, "y1": -2075.227513393111, "x2": 19011.00374372619, "y2": -2075.227513393111}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 18111.00374372617, "y": -2075.227513393111, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 19011.00374372619, "y": -2075.227513393111, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;900", "x": 18561.00374372618, "y": -1800.22751339311, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 18111.00374372617, "y": -119.9999999999981}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 19011.00374372619, "y": -119.9999999999981}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 19011.00374372619, "y": -2075.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 23.99999999999818, "y1": -24.0, "x2": 23.99999999999818, "y2": -56.00000000011641}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 72.00000000000453, "y1": -56.00000000011641, "x2": 72.00000000000453, "y2": -24.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 0.0, "cy": -24.0, "r": 23.99999999999855, "a1": 0.0, "a2": 90.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 96.00000000000546, "cy": -24.0, "r": 24.00000000000037, "a1": 90.0, "a2": 180.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 48.00000000000455, "cy": -56.00000000011641, "r": 24.00000000000037, "a1": 180.0, "a2": 0.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "������", "n": 13, "closed": true, "bbox": [[-419.9999999999854, 420.0000000000145], [-480.0054000000555, 5.36602e-11]]}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": 345.0000000000145, "cy": -132.1754000000555, "ax": -49.99999999999999, "ay": 5.341092e-10, "ratio": 0.99380000000001}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": 345.0000000000145, "cy": -405.4704000000547, "ax": 50.0, "ay": 5.344311e-10, "ratio": 0.9938000000000101}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": 213.8075079405244, "y1": -296.8347586333612, "x2": 380.8568434021581, "y2": -440.1009688997}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": 380.8568434028857, "y1": -97.5448311002292, "x2": 213.8075079405244, "y2": -240.8110413667491}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": 187.5000000000145, "cy": -268.8229000000556, "ax": -38.55606665427332, "ay": 1.857197e-10, "ratio": 0.9938000000000146}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -219.9999999999854, "cy": -268.8229000000556, "ax": -38.55606665427332, "ay": 1.857197e-10, "ratio": 0.9938000000000146}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -19.99999999998545, "y1": -405.4704000000547, "x2": -19.99999999998545, "y2": -132.1754000000555}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -44.99999999998545, "y1": -132.1754000000555, "x2": -44.99999999998545, "y2": -405.4704000000547}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -394.9999999999855, "y1": -405.4704000000547, "x2": -394.9999999999855, "y2": -132.1754000000555}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -94.99999999998545, "cy": -405.4704000000547, "ax": 49.99999999999999, "ay": 5.34742e-10, "ratio": 0.99380000000001}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -193.6924920594756, "y1": -296.8347586333612, "x2": -59.14315659784188, "y2": -440.1009688997}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -94.99999999998545, "y1": -455.1604000000552, "x2": -344.9999999999854, "y2": -455.1604000000552}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -344.9999999999854, "cy": -405.4704000000547, "ax": 50.0, "ay": 2.932796e-10, "ratio": 0.9938000000000098}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -246.3075079397677, "y1": -296.8347586333612, "x2": -380.856843402129, "y2": -440.1009688998811}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": 161.1924920602323, "y1": -296.8347586333612, "x2": -5.856843402129015, "y2": -440.1009688998811}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": 345.0000000000145, "y1": -455.1604000000552, "x2": 30.00000000001455, "y2": -455.1604000000552}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": 30.00000000001455, "cy": -405.4704000000547, "ax": 50.0, "ay": 2.926467e-10, "ratio": 0.9938000000000101}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -94.99999999998545, "cy": -132.1754000000555, "ax": -49.99999999999999, "ay": 5.341092e-10, "ratio": 0.99380000000001}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -135.7034144923964, "cy": -48.31199169278261, "ax": -14.19951099286118, "ay": 1.504427e-10, "ratio": 0.9938000000003446}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -344.9999999999854, "y1": -82.48540000005505, "x2": -94.99999999998545, "y2": -82.48540000005505}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -344.9999999999854, "cy": -132.1754000000555, "ax": -50.0, "ay": 2.932796e-10, "ratio": 0.9938000000000101}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -59.14315659711428, "y1": -97.5448311002292, "x2": -193.6924920594756, "y2": -240.8110413667491}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -380.856843402129, "y1": -97.5448311002292, "x2": -246.3075079397677, "y2": -240.8110413667491}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": 64.2965855076036, "cy": -48.31199169278261, "ax": -14.19951099286118, "ay": 1.504427e-10, "ratio": 0.9938000000003446}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": 30.00000000001455, "y1": -82.48540000005505, "x2": 345.0000000000145, "y2": -82.48540000005505}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": -35.70341449239641, "cy": -48.31199169278261, "ax": -15.06985224538948, "ay": 2.71585e-11, "ratio": 0.9938000000000945}
+{"kind": "entity", "type": "ELLIPSE", "layer": "������", "cx": 30.00000000001455, "cy": -132.1754000000555, "ax": -50.0, "ay": 2.932796e-10, "ratio": 0.9938000000000101}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": -5.856843402129015, "y1": -97.5448311002292, "x2": 161.1924920602323, "y2": -240.8110413667491}
+{"kind": "entity", "type": "LINE", "layer": "������", "x1": 395.0000000000145, "y1": -132.1754000000555, "x2": 395.0000000000145, "y2": -405.4704000000547}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 9259.79054037021, "y1": -419.9999999999981, "x2": 9259.79054037021, "y2": -2325.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 10159.79054037023, "y1": -419.9999999999981, "x2": 10159.79054037023, "y2": -2325.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 9259.79054037021, "y1": -2075.227513393111, "x2": 10159.79054037023, "y2": -2075.227513393111}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 9259.79054037021, "y": -2075.227513393111, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 10159.79054037023, "y": -2075.227513393111, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;900", "x": 9709.79054037022, "y": -1800.22751339311, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 9259.79054037021, "y": -119.9999999999981}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10159.79054037023, "y": -119.9999999999981}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10159.79054037023, "y": -2075.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "DOTE", "x1": 25577.14954937375, "y1": 8027.483808284321, "x2": -1296.381879826134, "y2": 8027.483808284321}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 2799.999999999993, "y1": 9327.48380828432, "x2": 2799.999999999993, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 12457.3040853105, "y1": 9327.483808284318, "x2": 12457.3040853105, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 2799.999999999993, "y1": 10314.28335533048, "x2": 12457.3040853105, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 2799.999999999993, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 12457.3040853105, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;9657", "x": 7628.652042655246, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 2799.999999999993, "y": 9027.483808284322}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 12457.3040853105, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 12457.3040853105, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 12457.3040853105, "y1": 9327.483808284318, "x2": 12457.3040853105, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 13268.52081025903, "y1": 9327.483808284318, "x2": 13268.52081025903, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 12457.3040853105, "y1": 10314.28335533048, "x2": 13268.52081025903, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 12457.3040853105, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 13268.52081025903, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;811", "x": 12862.91244778476, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 12457.3040853105, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 13268.52081025903, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 13268.52081025903, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 13268.52081025903, "y1": 9327.483808284318, "x2": 13268.52081025903, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 14041.32498981402, "y1": 9327.483808284316, "x2": 14041.32498981402, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 13268.52081025903, "y1": 10314.28335533048, "x2": 14041.32498981402, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 13268.52081025903, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 14041.32498981402, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;773", "x": 13654.92290003653, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 13268.52081025903, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 14041.32498981402, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 14041.32498981402, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 14041.32498981402, "y1": 9327.483808284316, "x2": 14041.32498981402, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 15068.52081025904, "y1": 9327.483808284316, "x2": 15068.52081025904, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 14041.32498981402, "y1": 10314.28335533048, "x2": 15068.52081025904, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 14041.32498981402, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 15068.52081025904, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;1027", "x": 14554.92290003653, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 14041.32498981402, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 15068.52081025904, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 15068.52081025904, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 15068.52081025904, "y1": 9327.483808284316, "x2": 15068.52081025904, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 16559.31153521206, "y1": 9327.483808284316, "x2": 16559.31153521206, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 15068.52081025904, "y1": 10314.28335533048, "x2": 16559.31153521206, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 15068.52081025904, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 16559.31153521206, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;1491", "x": 15813.91617273555, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 15068.52081025904, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 16559.31153521206, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 16559.31153521206, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 16559.31153521206, "y1": 9327.483808284316, "x2": 16559.31153521206, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 17459.31153521206, "y1": 9327.483808284316, "x2": 17459.31153521206, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 16559.31153521206, "y1": 10314.28335533048, "x2": 17459.31153521206, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 16559.31153521206, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 17459.31153521206, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;900", "x": 17009.31153521206, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 16559.31153521206, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 17459.31153521206, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 17459.31153521206, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 17459.31153521206, "y1": 9327.483808284316, "x2": 17459.31153521206, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 20334.68890849111, "y1": 9327.483808284316, "x2": 20334.68890849111, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 17459.31153521206, "y1": 10314.28335533048, "x2": 20334.68890849111, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 17459.31153521206, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 20334.68890849111, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;2875", "x": 18897.00022185158, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 17459.31153521206, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 20334.68890849111, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 20334.68890849111, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 20334.68890849111, "y1": 9327.483808284316, "x2": 20334.68890849111, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 22134.68890849111, "y1": 9327.483808284314, "x2": 22134.68890849111, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 20334.68890849111, "y1": 10314.28335533048, "x2": 22134.68890849111, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 20334.68890849111, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 22134.68890849111, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;1800", "x": 21234.68890849111, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 20334.68890849111, "y": 9027.483808284316}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 22134.68890849111, "y": 9027.483808284314}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 22134.68890849111, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 22134.68890849111, "y1": 9327.483808284314, "x2": 22134.68890849111, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 24370.3568885086, "y1": 9327.483808284314, "x2": 24370.3568885086, "y2": 10564.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 22134.68890849111, "y1": 10314.28335533048, "x2": 24370.3568885086, "y2": 10314.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 22134.68890849111, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 24370.3568885086, "y": 10314.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;2236", "x": 23252.52289849986, "y": 10589.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 22134.68890849111, "y": 9027.483808284314}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24370.3568885086, "y": 9027.483808284314}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24370.3568885086, "y": 10314.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "AXIS", "x1": -2.878e-13, "y1": 8914.28335533048, "x2": -1.378e-13, "y2": 11364.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "AXIS", "x1": 24370.3568885086, "y1": 8914.28335533048, "x2": 24370.3568885086, "y2": 11364.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "AXIS", "x1": -1.531e-13, "y1": 11114.28335533048, "x2": 24370.3568885086, "y2": 11114.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "AXIS", "block": "_ArchTick", "x": -1.531e-13, "y": 11114.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "AXIS", "block": "_ArchTick", "x": 24370.3568885086, "y": 11114.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "AXIS", "text": "\\A1;24370", "x": 12185.1784442543, "y": 11389.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -3.062e-13, "y": 8614.28335533048}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24370.3568885086, "y": 8614.28335533048}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24370.3568885086, "y": 11114.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "AXIS", "x1": -3.858e-13, "y1": 8914.28335533048, "x2": -1.868e-13, "y2": 12164.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "AXIS", "x1": 24370.3568885086, "y1": 8914.28335533048, "x2": 24370.3568885086, "y2": 12164.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "AXIS", "x1": -2.021e-13, "y1": 11914.28335533048, "x2": 24370.3568885086, "y2": 11914.28335533048}
+{"kind": "entity", "type": "INSERT", "layer": "AXIS", "block": "_ArchTick", "x": -2.021e-13, "y": 11914.28335533048, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "AXIS", "block": "_ArchTick", "x": 24370.3568885086, "y": 11914.28335533048, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "AXIS", "text": "\\A1;24370", "x": 12185.1784442543, "y": 12189.28335533048, "h": 297.5}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": -4.041e-13, "y": 8614.28335533048}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24370.3568885086, "y": 8614.28335533048}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 24370.3568885086, "y": 11914.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 11239.38490371356, "y1": -420.0, "x2": 11239.38490371356, "y2": -2169.663856991117}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 13039.38490371356, "y1": -419.9999999999988, "x2": 13039.38490371356, "y2": -2169.663856991117}
+{"kind": "entity", "type": "LINE", "layer": "PUB_DIM", "x1": 11239.38490371356, "y1": -1919.663856991117, "x2": 13039.38490371356, "y2": -1919.663856991117}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 11239.38490371356, "y": -1919.663856991117, "sx": 100.0, "sy": 100.0, "rot": 180.0}
+{"kind": "entity", "type": "INSERT", "layer": "PUB_DIM", "block": "_ArchTick", "x": 13039.38490371356, "y": -1919.663856991117, "sx": 100.0, "sy": 100.0, "rot": 0.0}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_DIM", "text": "\\A1;1800", "x": 12139.38490371356, "y": -1594.663856991117, "h": 350.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 11239.38490371356, "y": -120.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 13039.38490371356, "y": -119.9999999999988}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 13039.38490371356, "y": -1919.663856991117}
+{"kind": "entity", "type": "LINE", "layer": "DOTE", "x1": 0.0, "y1": -1000.0, "x2": 0.0, "y2": 8614.28335533048}
+{"kind": "entity", "type": "LINE", "layer": "DOTE", "x1": 24370.3568885086, "y1": -999.9999999999982, "x2": 24370.3568885086, "y2": 9027.483808284322}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 19011.00374372619, "y": -2075.227513393111}
+{"kind": "entity", "type": "LINE", "layer": "DOTE", "x1": 25370.3568885086, "y1": 0.0, "x2": -999.9999999999854, "y2": 0.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "ANSI31", "n_paths": 1.0}
+{"kind": "entity", "type": "LINE", "layer": "DOTE", "x1": 2799.999999999986, "y1": -999.9999999999964, "x2": 2799.999999999993, "y2": 9027.483808284322}
+{"kind": "entity", "type": "MTEXT", "layer": "SPACE", "text": "\\Fsimplex.shx,gbcbig.shx;\\W1.0000000000;\\T1.0000000000;\\o\\l������", "x": 11955.02910438043, "y": 5316.119697925923, "h": 482.2695035460993}
+{"kind": "entity", "type": "MTEXT", "layer": "SPACE", "text": "\\Fsimplex.shx,gbcbig.shx;\\W0.7058823529;\\T1.0000000000;\\o\\l185.39", "x": 11744.60357246553, "y": 4632.600194379824, "h": 297.5}
+{"kind": "entity", "type": "MTEXT", "layer": "PUB_TEXT", "text": "������������������������", "x": 5163.074134367047, "y": 4763.935688809104, "h": 337.5886524822695}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 10159.79054037023, "y": -2075.227513393111}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "������1", "x": 10446.93730486135, "y": 2316.253655965973, "h": 1412.59015008909}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "111", "x": 0.0, "y": 0.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 12457.3040853105, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 13268.52081025903, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 14041.32498981402, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 15068.52081025904, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 16559.31153521206, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 17459.31153521206, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 20334.68890849111, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 22134.68890849111, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 24370.3568885086, "y": 10314.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "AXIS", "x": 24370.3568885086, "y": 11114.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "AXIS", "x": 24370.3568885086, "y": 11914.28335533048}
+{"kind": "entity", "type": "DIMENSION", "layer": "PUB_DIM", "x": 13039.38490371356, "y": -1919.663856991117}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}
+{"kind": "entity", "type": "VIEWPORT", "layer": "0"}

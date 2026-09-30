@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-15T08:02:52.667+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f248a4e4b060b14da3ec62
+  id: 53f248a4e4b060b14da3ec62
+  image: https://profiles.onshape.com/a40857b356b1d5634a147b76540051300e3892ae4ac618340118ab899f91c731.png
+  name: Steen Winther
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e87554b09cdc48c3add39db9/workspaces/679d23e3dc6f4705a767cd6e
+  id: 679d23e3dc6f4705a767cd6e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e87554b09cdc48c3add39db9
+id: e87554b09cdc48c3add39db9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-23T17:40:31.873+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57b80c54e4b0b083272c5cf6
+  id: 57b80c54e4b0b083272c5cf6
+  image: /images/placeholder-user.png
+  name: Uwe Rutsch
+  state: 1
+name: Spring for carburetor
+notRevisionManaged: false
+numberOfTimesCopied: 5
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f248a4e4b060b14da3ec62
+  id: 53f248a4e4b060b14da3ec62
+  image: https://profiles.onshape.com/a40857b356b1d5634a147b76540051300e3892ae4ac618340118ab899f91c731.png
+  name: Steen Winther
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e87554b09cdc48c3add39db9/w/679d23e3dc6f4705a767cd6e?t=1461354308680
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e87554b09cdc48c3add39db9/w/679d23e3dc6f4705a767cd6e/s/600x340?t=1461354308680
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e87554b09cdc48c3add39db9/w/679d23e3dc6f4705a767cd6e/s/300x300?t=1461354308680
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e87554b09cdc48c3add39db9/w/679d23e3dc6f4705a767cd6e/s/300x170?t=1461354308680
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e87554b09cdc48c3add39db9/w/679d23e3dc6f4705a767cd6e/s/70x40?t=1461354308680
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

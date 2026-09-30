@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-28T08:28:19.090+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff5eefe4b05b800d3e3d8e
+  id: 54ff5eefe4b05b800d3e3d8e
+  image: /images/placeholder-user.png
+  name: Greg Lancaster
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1e3d58f9df7e4f3e910d1446/workspaces/fb2c5e051f7d4752952146a0
+  id: fb2c5e051f7d4752952146a0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1e3d58f9df7e4f3e910d1446
+id: 1e3d58f9df7e4f3e910d1446
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-27T08:59:00.288+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff5eefe4b05b800d3e3d8e
+  id: 54ff5eefe4b05b800d3e3d8e
+  image: /images/placeholder-user.png
+  name: Greg Lancaster
+  state: 1
+name: Rockshox 32mm seal press
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff5eefe4b05b800d3e3d8e
+  id: 54ff5eefe4b05b800d3e3d8e
+  image: /images/placeholder-user.png
+  name: Greg Lancaster
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1e3d58f9df7e4f3e910d1446/w/fb2c5e051f7d4752952146a0?t=1432717154703
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1e3d58f9df7e4f3e910d1446/w/fb2c5e051f7d4752952146a0/s/600x340?t=1432717154703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1e3d58f9df7e4f3e910d1446/w/fb2c5e051f7d4752952146a0/s/300x300?t=1432717154703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1e3d58f9df7e4f3e910d1446/w/fb2c5e051f7d4752952146a0/s/70x40?t=1432717154703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1e3d58f9df7e4f3e910d1446/w/fb2c5e051f7d4752952146a0/s/300x170?t=1432717154703
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

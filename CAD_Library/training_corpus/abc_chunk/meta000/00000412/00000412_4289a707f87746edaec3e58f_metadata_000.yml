@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-20T21:33:31.915+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e53f82e4b081074c649721
+  id: 53e53f82e4b081074c649721
+  image: /images/placeholder-user.png
+  name: Frederick W. Faller
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4289a707f87746edaec3e58f/workspaces/9848f3cb76a84bf78c28ed3b
+  id: 9848f3cb76a84bf78c28ed3b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4289a707f87746edaec3e58f
+id: 4289a707f87746edaec3e58f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-01-23T19:16:29.819+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57095821e4b0e8cc9e6ca83c
+  id: 57095821e4b0e8cc9e6ca83c
+  image: https://profiles.onshape.com/7f85d21cafe70e3f59b4a47dd721ca0a18a5023f8995f1c6a74bc01dcb3d4690.png
+  name: Sheldon
+  state: 1
+name: 1784 House
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e53f82e4b081074c649721
+  id: 53e53f82e4b081074c649721
+  image: /images/placeholder-user.png
+  name: Frederick W. Faller
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4289a707f87746edaec3e58f/w/9848f3cb76a84bf78c28ed3b?t=1477604369103
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4289a707f87746edaec3e58f/w/9848f3cb76a84bf78c28ed3b/s/70x40?t=1477604369103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4289a707f87746edaec3e58f/w/9848f3cb76a84bf78c28ed3b/s/300x170?t=1477604369103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4289a707f87746edaec3e58f/w/9848f3cb76a84bf78c28ed3b/s/600x340?t=1477604369103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4289a707f87746edaec3e58f/w/9848f3cb76a84bf78c28ed3b/s/300x300?t=1477604369103
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

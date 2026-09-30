@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-07T07:49:42.814+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554b0726e4b089bb8409c5df
+  id: 554b0726e4b089bb8409c5df
+  image: https://profiles.onshape.com/c8745821b572bbcf02ff2891929a23c1c2691f518863a2427667c02df5f44445.png
+  name: Dan
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1c5d056d5be2479daf6c8506/workspaces/087b807bdac3433d9d6b88e2
+  id: 087b807bdac3433d9d6b88e2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1c5d056d5be2479daf6c8506
+id: 1c5d056d5be2479daf6c8506
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-10-26T06:52:01.300+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/554b0726e4b089bb8409c5df
+  id: 554b0726e4b089bb8409c5df
+  image: https://profiles.onshape.com/c8745821b572bbcf02ff2891929a23c1c2691f518863a2427667c02df5f44445.png
+  name: Dan
+  state: 1
+name: Swing Arm
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554b0726e4b089bb8409c5df
+  id: 554b0726e4b089bb8409c5df
+  image: https://profiles.onshape.com/c8745821b572bbcf02ff2891929a23c1c2691f518863a2427667c02df5f44445.png
+  name: Dan
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1c5d056d5be2479daf6c8506/w/087b807bdac3433d9d6b88e2?t=1509000734837
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1c5d056d5be2479daf6c8506/w/087b807bdac3433d9d6b88e2/s/300x170?t=1509000734837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1c5d056d5be2479daf6c8506/w/087b807bdac3433d9d6b88e2/s/600x340?t=1509000734837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1c5d056d5be2479daf6c8506/w/087b807bdac3433d9d6b88e2/s/300x300?t=1509000734837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1c5d056d5be2479daf6c8506/w/087b807bdac3433d9d6b88e2/s/70x40?t=1509000734837
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

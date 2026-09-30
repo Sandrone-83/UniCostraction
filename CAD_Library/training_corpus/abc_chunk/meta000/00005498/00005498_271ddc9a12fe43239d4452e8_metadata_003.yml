@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-21T14:26:21.658+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5500779ce4b0191bdfa20d98
+  id: 5500779ce4b0191bdfa20d98
+  image: /images/placeholder-user.png
+  name: Ian Johnson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/271ddc9a12fe43239d4452e8/workspaces/2cd8fd4868cb449b855a0df8
+  id: 2cd8fd4868cb449b855a0df8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/271ddc9a12fe43239d4452e8
+id: 271ddc9a12fe43239d4452e8
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-28T22:42:16.140+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5500779ce4b0191bdfa20d98
+  id: 5500779ce4b0191bdfa20d98
+  image: /images/placeholder-user.png
+  name: Ian Johnson
+  state: 1
+name: Tread Gauge
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5500779ce4b0191bdfa20d98
+  id: 5500779ce4b0191bdfa20d98
+  image: /images/placeholder-user.png
+  name: Ian Johnson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/271ddc9a12fe43239d4452e8/w/2cd8fd4868cb449b855a0df8?t=1435535050038
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/271ddc9a12fe43239d4452e8/w/2cd8fd4868cb449b855a0df8/s/70x40?t=1435535050038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/271ddc9a12fe43239d4452e8/w/2cd8fd4868cb449b855a0df8/s/300x300?t=1435535050038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/271ddc9a12fe43239d4452e8/w/2cd8fd4868cb449b855a0df8/s/300x170?t=1435535050038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/271ddc9a12fe43239d4452e8/w/2cd8fd4868cb449b855a0df8/s/600x340?t=1435535050038
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

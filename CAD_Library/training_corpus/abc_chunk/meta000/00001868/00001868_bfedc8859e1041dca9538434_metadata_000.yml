@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-23T13:54:59.010+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550eaa78e4b024f342a302ce
+  id: 550eaa78e4b024f342a302ce
+  image: /images/placeholder-user.png
+  name: Joerg Hansmann
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bfedc8859e1041dca9538434/workspaces/53523d9dd1ac4df8a1efa0ec
+  id: 53523d9dd1ac4df8a1efa0ec
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bfedc8859e1041dca9538434
+id: bfedc8859e1041dca9538434
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-07-16T18:38:55.923+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550eaa78e4b024f342a302ce
+  id: 550eaa78e4b024f342a302ce
+  image: /images/placeholder-user.png
+  name: Joerg Hansmann
+  state: 1
+name: tea_pot_01
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550eaa78e4b024f342a302ce
+  id: 550eaa78e4b024f342a302ce
+  image: /images/placeholder-user.png
+  name: Joerg Hansmann
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bfedc8859e1041dca9538434/w/53523d9dd1ac4df8a1efa0ec?t=1468694407710
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bfedc8859e1041dca9538434/w/53523d9dd1ac4df8a1efa0ec/s/300x300?t=1468694407710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bfedc8859e1041dca9538434/w/53523d9dd1ac4df8a1efa0ec/s/600x340?t=1468694407710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bfedc8859e1041dca9538434/w/53523d9dd1ac4df8a1efa0ec/s/70x40?t=1468694407710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bfedc8859e1041dca9538434/w/53523d9dd1ac4df8a1efa0ec/s/300x170?t=1468694407710
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-23T22:08:25.073+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55021809e4b0120eedd95db2
+  id: 55021809e4b0120eedd95db2
+  image: /images/placeholder-user.png
+  name: David Coyle
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f480ae857751466ba58bcd35/workspaces/d68d2007e4424db9acf77df1
+  id: d68d2007e4424db9acf77df1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f480ae857751466ba58bcd35
+id: f480ae857751466ba58bcd35
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-02-06T17:49:40.031+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55021809e4b0120eedd95db2
+  id: 55021809e4b0120eedd95db2
+  image: /images/placeholder-user.png
+  name: David Coyle
+  state: 1
+name: iPhone_6_Case
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55021809e4b0120eedd95db2
+  id: 55021809e4b0120eedd95db2
+  image: /images/placeholder-user.png
+  name: David Coyle
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f480ae857751466ba58bcd35/w/d68d2007e4424db9acf77df1?t=1454781246944
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f480ae857751466ba58bcd35/w/d68d2007e4424db9acf77df1/s/300x300?t=1454781246944
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f480ae857751466ba58bcd35/w/d68d2007e4424db9acf77df1/s/300x170?t=1454781246944
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f480ae857751466ba58bcd35/w/d68d2007e4424db9acf77df1/s/600x340?t=1454781246944
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f480ae857751466ba58bcd35/w/d68d2007e4424db9acf77df1/s/70x40?t=1454781246944
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-10T13:08:19.114+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550ae619e4b0b2b5219ef041
+  id: 550ae619e4b0b2b5219ef041
+  image: /images/placeholder-user.png
+  name: Shinichi Iso
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f94525731d404b9ba25613f4/workspaces/90aa853edaa74dae9b99eba9
+  id: 90aa853edaa74dae9b99eba9
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f94525731d404b9ba25613f4
+id: f94525731d404b9ba25613f4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-10T13:50:34.762+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550ae619e4b0b2b5219ef041
+  id: 550ae619e4b0b2b5219ef041
+  image: /images/placeholder-user.png
+  name: Shinichi Iso
+  state: 1
+name: Smartphone Stand
+notRevisionManaged: false
+numberOfTimesCopied: 6
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550ae619e4b0b2b5219ef041
+  id: 550ae619e4b0b2b5219ef041
+  image: /images/placeholder-user.png
+  name: Shinichi Iso
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f94525731d404b9ba25613f4/w/90aa853edaa74dae9b99eba9?t=1431263902125
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f94525731d404b9ba25613f4/w/90aa853edaa74dae9b99eba9/s/600x340?t=1431263902125
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f94525731d404b9ba25613f4/w/90aa853edaa74dae9b99eba9/s/70x40?t=1431263902125
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f94525731d404b9ba25613f4/w/90aa853edaa74dae9b99eba9/s/300x170?t=1431263902125
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f94525731d404b9ba25613f4/w/90aa853edaa74dae9b99eba9/s/300x300?t=1431263902125
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

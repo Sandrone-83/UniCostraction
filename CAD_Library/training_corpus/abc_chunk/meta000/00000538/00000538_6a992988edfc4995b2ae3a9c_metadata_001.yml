@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-04T03:12:12.275+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e12222e4b0446815e1adf1
+  id: 53e12222e4b0446815e1adf1
+  image: https://profiles.onshape.com/b12c3f6e1cf7a5e8a4e462d1d35e905d360ced7b4e47523bf81f8e01a819aba1.png
+  name: Ben
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6a992988edfc4995b2ae3a9c/workspaces/675b5c50560e45dfbbab4cad
+  id: 675b5c50560e45dfbbab4cad
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6a992988edfc4995b2ae3a9c
+id: 6a992988edfc4995b2ae3a9c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-01-11T22:40:02.869+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53e12222e4b0446815e1adf1
+  id: 53e12222e4b0446815e1adf1
+  image: https://profiles.onshape.com/b12c3f6e1cf7a5e8a4e462d1d35e905d360ced7b4e47523bf81f8e01a819aba1.png
+  name: Ben
+  state: 1
+name: MOTW Roughed out Dobsonian Telescope 6"
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e12222e4b0446815e1adf1
+  id: 53e12222e4b0446815e1adf1
+  image: https://profiles.onshape.com/b12c3f6e1cf7a5e8a4e462d1d35e905d360ced7b4e47523bf81f8e01a819aba1.png
+  name: Ben
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6a992988edfc4995b2ae3a9c/w/675b5c50560e45dfbbab4cad?t=1421016010373
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6a992988edfc4995b2ae3a9c/w/675b5c50560e45dfbbab4cad/s/300x170?t=1421016010373
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6a992988edfc4995b2ae3a9c/w/675b5c50560e45dfbbab4cad/s/70x40?t=1421016010373
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6a992988edfc4995b2ae3a9c/w/675b5c50560e45dfbbab4cad/s/600x340?t=1421016010373
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

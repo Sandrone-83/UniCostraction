@@ -1,0 +1,56 @@
+{
+  "pack": "Coding_Master_Pack_5",
+  "generato_il": "2026-09-29",
+  "nota_licenza": "Tutto il contenuto e' sintesi didattica originale redatta da Kimi (Moonshot AI): concetti di information retrieval, motori di query, architettura dei calcolatori, build system e knowledge graph espressi con parole proprie. Nessun testo copiato da fonti protette. Uso commerciale libero.",
+  "fonti": [
+    {
+      "id": "INFORMATION-RETRIEVAL",
+      "descrizione": "Motori di ricerca (indice invertito, BM25), valutazione (precision/recall/NDCG), ricerca vettoriale e HNSW, IR in produzione (OpenSearch, ciclo di vita dell'indice)",
+      "file": "parsed/information_retrieval.jsonl",
+      "schede": 4,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "QUERY-ENGINES",
+      "descrizione": "Pipeline di elaborazione SQL, algoritmi di join, ottimizzazione cost-based e statistiche, modelli di esecuzione (volcano/vectorized/codegen, OLTP vs OLAP)",
+      "file": "parsed/query_engines.jsonl",
+      "schede": 4,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "ARCHITETTURA-CALCOLATORI",
+      "descrizione": "CPU per programmatori (pipeline, branch prediction), memoria e localita' (cache, false sharing), GPU e SIMT, acceleratori (TPU/FPGA/ASIC)",
+      "file": "parsed/architettura_calcolatori.jsonl",
+      "schede": 4,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "BUILD-SYSTEMS-TOOLING",
+      "descrizione": "Build system e incrementaliita', package manager e risoluzione dipendenze (SAT solver sotto npm), monorepo e developer experience, release engineering (firme, SBOM, rollout)",
+      "file": "parsed/build_systems_tooling.jsonl",
+      "schede": 4,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "KNOWLEDGE-GRAPHS",
+      "descrizione": "Grafi di conoscenza (modellare entita' e relazioni), RDF/OWL/ontologie, query su grafi (Cypher, pattern matching, percorsi), Graph RAG (grafo + vettoriale + LLM)",
+      "file": "parsed/knowledge_graphs.jsonl",
+      "schede": 4,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    }
+  ],
+  "avvertenze": [
+    "Versioni di strumenti e piattaforme riferite al 2026: verificare documentazione ufficiale aggiornata",
+    "Soglie e costi citati sono prassi consolidate indicative"
+  ]
+}

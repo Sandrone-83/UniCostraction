@@ -1,0 +1,58 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/insert_bricscad_level_1.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 57, "entity_histogram": {"TEXT": 30, "INSERT": 15, "LINE": 6, "LWPOLYLINE": 6}, "n_layers": 0, "layers": [], "n_block_defs": 5, "bbox": [[-1.865, 15.703], [-0.5, 19.041]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": -0.5, "y1": 0.0, "x2": 0.5, "y2": 0.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": 0.0, "x2": 0.370096189432, "y2": 0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.5, "y1": 0.0, "x2": 0.370096189432, "y2": -0.075}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": -0.5, "x2": 0.0, "y2": 0.5}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.5, "x2": -0.075, "y2": 0.370096189432}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.5, "x2": 0.075, "y2": 0.370096189432}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 0.0, "y": 0.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 1.389567226468, "y": 0.0, "sx": -1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 2.754384116192, "y": 0.0, "sx": 1.0, "sy": -1.0, "rot": 0.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, 1, 1)", "x": -0.411685090827, "y": 0.786832200949, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 0", "x": -0.428753487812, "y": 0.5706325058, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (-1, 1, 1)", "x": 0.944606889328, "y": 0.786832200949, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 0", "x": 0.927538492343, "y": 0.5706325058, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, -1, 1)", "x": 2.276587434376, "y": 0.786832200949, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 0", "x": 2.25951903739, "y": 0.5706325058, "h": 0.1}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 0.0, "y": 1.90822588289, "sx": 1.0, "sy": 1.0, "rot": 45.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 1.389567226468, "y": 1.90822588289, "sx": -1.0, "sy": 1.0, "rot": 45.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 2.754384116192, "y": 1.90822588289, "sx": 1.0, "sy": -1.0, "rot": 45.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, 1, 1)", "x": -0.411685090827, "y": 2.69505808384, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 45", "x": -0.428753487812, "y": 2.478858388691, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (-1, 1, 1)", "x": 0.944606889328, "y": 2.69505808384, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 45", "x": 0.927538492343, "y": 2.478858388691, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, -1, 1)", "x": 2.276587434376, "y": 2.69505808384, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 45", "x": 2.25951903739, "y": 2.478858388691, "h": 0.1}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 0.0, "y": 3.643057752488, "sx": 1.0, "sy": 1.0, "rot": 90.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 1.389567226468, "y": 3.643057752488, "sx": -1.0, "sy": 1.0, "rot": 90.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows", "x": 2.754384116192, "y": 3.643057752488, "sx": 1.0, "sy": -1.0, "rot": 90.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, 1, 1)", "x": -0.411685090827, "y": 4.429889953437, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 90", "x": -0.428753487812, "y": 4.213690258289, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (-1, 1, 1)", "x": 0.944606889328, "y": 4.429889953437, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 90", "x": 0.927538492343, "y": 4.213690258289, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, -1, 1)", "x": 2.276587434376, "y": 4.429889953437, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 90", "x": 2.25951903739, "y": 4.213690258289, "h": 0.1}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows_lv1", "x": 0.018944800242, "y": 7.861085190823, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, 1, 1)", "x": -0.548604433172, "y": 12.93901977386, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 0", "x": -0.565672830157, "y": 12.722820078712, "h": 0.1}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-0.644477846617, 3.702064546665], [7.044442957905, 12.580388629863]]}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows_lv1", "x": 7.939834716739, "y": 7.861085190823, "sx": -1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (-1, 1, 1)", "x": 4.477319980797, "y": 12.93901977386, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 0", "x": 4.460251583812, "y": 12.722820078712, "h": 0.1}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[4.381446567351, 8.727988960633], [7.044442957905, 12.580388629863]]}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows_lv1", "x": 10.448001179527, "y": 11.974242459395, "sx": 1.0, "sy": -1.0, "rot": 0.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, -1, 1)", "x": 9.80160023416, "y": 12.93901977386, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 0", "x": 9.784531837175, "y": 12.722820078712, "h": 0.1}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[9.705726820715, 14.052269213996], [7.044442957905, 12.580388629863]]}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows_lv1", "x": 2.938493831503, "y": 14.926252759746, "sx": 1.0, "sy": 1.0, "rot": 90.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, 1, 1)", "x": -1.750768309166, "y": 18.902134202834, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 90", "x": -1.767836706151, "y": 18.685934507686, "h": 0.1}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[-1.864662308569, 3.671283363389], [14.109610526828, 18.45615292011]]}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows_lv1", "x": 8.81231184483, "y": 17.726886314725, "sx": -1.0, "sy": 1.0, "rot": 90.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (-1, 1, 1)", "x": 4.257612385058, "y": 19.041048196433, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 90", "x": 4.240543988073, "y": 18.824848501285, "h": 0.1}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "arrows_lv1", "x": 10.888693717036, "y": 15.016661555213, "sx": 1.0, "sy": -1.0, "rot": 90.0}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "scale = (1, -1, 1)", "x": 10.474245688336, "y": 19.00404156518, "h": 0.1}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "rotation = 90", "x": 10.457177291351, "y": 18.787841870032, "h": 0.1}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[4.134988469543, 9.670934141501], [14.109610526828, 18.45615292011]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[10.167424224585, 15.703369896543], [14.109610526828, 18.45615292011]]}

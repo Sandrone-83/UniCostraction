@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-05T20:52:27.629+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54feb106e4b05b800d3e3aac
+  id: 54feb106e4b05b800d3e3aac
+  image: /images/placeholder-user.png
+  name: Sean Sammut
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/8556c200606545a8bcf28a5e/workspaces/d21f8ce61dbf4d7cb5517ee6
+  id: d21f8ce61dbf4d7cb5517ee6
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/8556c200606545a8bcf28a5e
+id: 8556c200606545a8bcf28a5e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-05T21:50:07.133+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54feb106e4b05b800d3e3aac
+  id: 54feb106e4b05b800d3e3aac
+  image: /images/placeholder-user.png
+  name: Sean Sammut
+  state: 1
+name: Crawler skid
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54feb106e4b05b800d3e3aac
+  id: 54feb106e4b05b800d3e3aac
+  image: /images/placeholder-user.png
+  name: Sean Sammut
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/8556c200606545a8bcf28a5e/w/d21f8ce61dbf4d7cb5517ee6?t=1428274265887
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/8556c200606545a8bcf28a5e/w/d21f8ce61dbf4d7cb5517ee6/s/70x40?t=1428274265887
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8556c200606545a8bcf28a5e/w/d21f8ce61dbf4d7cb5517ee6/s/300x300?t=1428274265887
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8556c200606545a8bcf28a5e/w/d21f8ce61dbf4d7cb5517ee6/s/600x340?t=1428274265887
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/8556c200606545a8bcf28a5e/w/d21f8ce61dbf4d7cb5517ee6/s/300x170?t=1428274265887
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

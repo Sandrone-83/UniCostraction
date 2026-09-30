@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-23T01:26:51.458+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550f2aace4b04fee2ee4cc1b
+  id: 550f2aace4b04fee2ee4cc1b
+  image: /images/placeholder-user.png
+  name: Ean Moody
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c8995e4cafe44b0eb15a5c70/workspaces/f2532b295fa5452596e66b97
+  id: f2532b295fa5452596e66b97
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c8995e4cafe44b0eb15a5c70
+id: c8995e4cafe44b0eb15a5c70
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-01T21:27:45.494+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550f2aace4b04fee2ee4cc1b
+  id: 550f2aace4b04fee2ee4cc1b
+  image: /images/placeholder-user.png
+  name: Ean Moody
+  state: 1
+name: Copy of Copy of Test Doc Hinge
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550f2aace4b04fee2ee4cc1b
+  id: 550f2aace4b04fee2ee4cc1b
+  image: /images/placeholder-user.png
+  name: Ean Moody
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c8995e4cafe44b0eb15a5c70/w/f2532b295fa5452596e66b97?t=1471441047801
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c8995e4cafe44b0eb15a5c70/w/f2532b295fa5452596e66b97/s/70x40?t=1471441047801
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8995e4cafe44b0eb15a5c70/w/f2532b295fa5452596e66b97/s/600x340?t=1471441047801
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8995e4cafe44b0eb15a5c70/w/f2532b295fa5452596e66b97/s/300x300?t=1471441047801
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c8995e4cafe44b0eb15a5c70/w/f2532b295fa5452596e66b97/s/300x170?t=1471441047801
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

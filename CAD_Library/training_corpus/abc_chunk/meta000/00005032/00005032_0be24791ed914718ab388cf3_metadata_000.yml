@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-16T10:17:50.443+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55103397e4b024f342a30429
+  id: 55103397e4b024f342a30429
+  image: /images/placeholder-user.png
+  name: Diarmuid Kelly
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0be24791ed914718ab388cf3/workspaces/0c0569bdc52b43e0a3295e67
+  id: 0c0569bdc52b43e0a3295e67
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0be24791ed914718ab388cf3
+id: 0be24791ed914718ab388cf3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2015-06-20T09:30:42.563+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55103397e4b024f342a30429
+  id: 55103397e4b024f342a30429
+  image: /images/placeholder-user.png
+  name: Diarmuid Kelly
+  state: 1
+name: Marvel Characters
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55103397e4b024f342a30429
+  id: 55103397e4b024f342a30429
+  image: /images/placeholder-user.png
+  name: Diarmuid Kelly
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0be24791ed914718ab388cf3/w/0c0569bdc52b43e0a3295e67?t=1523273812350
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0be24791ed914718ab388cf3/w/0c0569bdc52b43e0a3295e67/s/300x170?t=1523273812350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0be24791ed914718ab388cf3/w/0c0569bdc52b43e0a3295e67/s/70x40?t=1523273812350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0be24791ed914718ab388cf3/w/0c0569bdc52b43e0a3295e67/s/600x340?t=1523273812350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0be24791ed914718ab388cf3/w/0c0569bdc52b43e0a3295e67/s/300x300?t=1523273812350
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

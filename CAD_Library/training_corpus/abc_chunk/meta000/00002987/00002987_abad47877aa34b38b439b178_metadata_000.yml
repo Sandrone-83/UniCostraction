@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-12T13:44:29.403+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/abad47877aa34b38b439b178/workspaces/61ebfd28679b43c5a9c048a1
+  id: 61ebfd28679b43c5a9c048a1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/abad47877aa34b38b439b178
+id: abad47877aa34b38b439b178
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-17T05:21:50.433+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  state: 1
+name: 3DCAD_5axis_sweep
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/abad47877aa34b38b439b178/w/61ebfd28679b43c5a9c048a1?t=1429248121347
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/abad47877aa34b38b439b178/w/61ebfd28679b43c5a9c048a1/s/600x340?t=1429248121347
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/abad47877aa34b38b439b178/w/61ebfd28679b43c5a9c048a1/s/300x300?t=1429248121347
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/abad47877aa34b38b439b178/w/61ebfd28679b43c5a9c048a1/s/70x40?t=1429248121347
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/abad47877aa34b38b439b178/w/61ebfd28679b43c5a9c048a1/s/300x170?t=1429248121347
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-17T21:21:43.753+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5400aeb7e4b0a8ed5579f9bd
+  id: 5400aeb7e4b0a8ed5579f9bd
+  image: /images/placeholder-user.png
+  name: Robert Roberman
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/36bcb4030e36417b8dc74b87/workspaces/1b7416804ff3483786ac516b
+  id: 1b7416804ff3483786ac516b
+  name: Round Magnet
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/36bcb4030e36417b8dc74b87
+id: 36bcb4030e36417b8dc74b87
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-21T17:33:54.147+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5400aeb7e4b0a8ed5579f9bd
+  id: 5400aeb7e4b0a8ed5579f9bd
+  image: /images/placeholder-user.png
+  name: Robert Roberman
+  state: 1
+name: Zipper roll
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5400aeb7e4b0a8ed5579f9bd
+  id: 5400aeb7e4b0a8ed5579f9bd
+  image: /images/placeholder-user.png
+  name: Robert Roberman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/36bcb4030e36417b8dc74b87/w/1b7416804ff3483786ac516b?t=1445448891063
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/36bcb4030e36417b8dc74b87/w/1b7416804ff3483786ac516b/s/300x300?t=1445448891063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/36bcb4030e36417b8dc74b87/w/1b7416804ff3483786ac516b/s/300x170?t=1445448891063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/36bcb4030e36417b8dc74b87/w/1b7416804ff3483786ac516b/s/70x40?t=1445448891063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/36bcb4030e36417b8dc74b87/w/1b7416804ff3483786ac516b/s/600x340?t=1445448891063
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

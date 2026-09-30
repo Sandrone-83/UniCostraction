@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-05T18:13:07.263+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54c6b890e4b032fda192ebf3
+  id: 54c6b890e4b032fda192ebf3
+  image: /images/placeholder-user.png
+  name: Javier Verba
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/eee2a7487f8d4fe6bc072461/workspaces/191092230ce8416187a27bd7
+  id: 191092230ce8416187a27bd7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/eee2a7487f8d4fe6bc072461
+id: eee2a7487f8d4fe6bc072461
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-02T12:20:48.541+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54c6b890e4b032fda192ebf3
+  id: 54c6b890e4b032fda192ebf3
+  image: /images/placeholder-user.png
+  name: Javier Verba
+  state: 1
+name: polyhedrons
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54c6b890e4b032fda192ebf3
+  id: 54c6b890e4b032fda192ebf3
+  image: /images/placeholder-user.png
+  name: Javier Verba
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/eee2a7487f8d4fe6bc072461/w/191092230ce8416187a27bd7?t=1521521303399
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/eee2a7487f8d4fe6bc072461/w/191092230ce8416187a27bd7/s/600x340?t=1521521303399
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/eee2a7487f8d4fe6bc072461/w/191092230ce8416187a27bd7/s/70x40?t=1521521303399
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/eee2a7487f8d4fe6bc072461/w/191092230ce8416187a27bd7/s/300x300?t=1521521303399
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/eee2a7487f8d4fe6bc072461/w/191092230ce8416187a27bd7/s/300x170?t=1521521303399
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

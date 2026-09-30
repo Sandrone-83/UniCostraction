@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2014-11-08T22:01:06.849+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/545cd961e4b0f05710de34ee
+  id: 545cd961e4b0f05710de34ee
+  image: /images/placeholder-user.png
+  name: Colin Kingsbury
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4185972a944744d8a7a0f2b4/workspaces/d82d7eef8edf4342b7e49732
+  id: d82d7eef8edf4342b7e49732
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4185972a944744d8a7a0f2b4
+id: 4185972a944744d8a7a0f2b4
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2018-04-21T22:31:10.561+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/545cd961e4b0f05710de34ee
+  id: 545cd961e4b0f05710de34ee
+  image: /images/placeholder-user.png
+  name: Colin Kingsbury
+  state: 1
+name: 6-Axis Robot Arm
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 3
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/545cd961e4b0f05710de34ee
+  id: 545cd961e4b0f05710de34ee
+  image: /images/placeholder-user.png
+  name: Colin Kingsbury
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4185972a944744d8a7a0f2b4/w/d82d7eef8edf4342b7e49732?t=1524349990929
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4185972a944744d8a7a0f2b4/w/d82d7eef8edf4342b7e49732/s/300x300?t=1524349990929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4185972a944744d8a7a0f2b4/w/d82d7eef8edf4342b7e49732/s/600x340?t=1524349990929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4185972a944744d8a7a0f2b4/w/d82d7eef8edf4342b7e49732/s/70x40?t=1524349990929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4185972a944744d8a7a0f2b4/w/d82d7eef8edf4342b7e49732/s/300x170?t=1524349990929
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

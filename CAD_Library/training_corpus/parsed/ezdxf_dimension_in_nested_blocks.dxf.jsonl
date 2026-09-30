@@ -1,0 +1,42 @@
+{"kind": "doc", "format": "DXF", "version": "AC1027", "file": "ezdxf/dimension_in_nested_blocks.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 41, "entity_histogram": {"LINE": 9, "POINT": 9, "INSERT": 7, "SOLID": 6, "MTEXT": 3, "LWPOLYLINE": 3, "TEXT": 3, "DIMENSION": 1}, "n_layers": 0, "layers": [], "n_block_defs": 9, "bbox": [[0.0, 190.0], [0.0, 110.0]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.625, "x2": 0.0, "y2": 5.088765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 0.625, "x2": 10.0, "y2": 5.088765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1.0, "y1": 3.838765266792, "x2": 9.0, "y2": 3.838765266792}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "10", "x": 5.0, "y": 4.974265266792, "h": 1.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 3.838765266792}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.0, 10.0], [0.0, 10.0]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BLK1", "x": 0.483409941747, "y": 8.305992795846, "h": 1.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 10.0, "y": 3.838765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.625, "x2": 0.0, "y2": 5.088765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 0.625, "x2": 10.0, "y2": 5.088765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1.0, "y1": 3.838765266792, "x2": 9.0, "y2": 3.838765266792}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "10", "x": 5.0, "y": 4.974265266792, "h": 1.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 3.838765266792}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK1", "x": 0.0, "y": 0.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.0, 30.0], [0.0, 30.0]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BLK2", "x": 1.205403899763, "y": 28.058538005431, "h": 1.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK2", "x": 0.0, "y": 0.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK2", "x": 30.0, "y": 30.0, "sx": 1.0, "sy": 1.0, "rot": 45.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[0.0, 80.0], [0.0, 80.0]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "BLK3", "x": 1.96494103391, "y": 77.590246173353, "h": 1.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 0.0, "y1": 0.625, "x2": 0.0, "y2": 5.088765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.0, "y1": 0.625, "x2": 10.0, "y2": 5.088765266792}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1.0, "y1": 3.838765266792, "x2": 9.0, "y2": 3.838765266792}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "MTEXT", "layer": "0", "text": "10", "x": 5.0, "y": 4.974265266792, "h": 1.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 0.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 0.0}
+{"kind": "entity", "type": "POINT", "layer": "Defpoints", "x": 10.0, "y": 3.838765266792}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK2", "x": 30.0, "y": 30.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK2", "x": 60.0, "y": 60.0, "sx": 1.0, "sy": 1.0, "rot": 45.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK3", "x": 110.0, "y": 30.0, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "INSERT", "layer": "0", "block": "BLK3", "x": 190.0, "y": 110.0, "sx": 1.0, "sy": 1.0, "rot": 45.0}

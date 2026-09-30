@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-02T16:33:22.732+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5450faade4b072356fcc85da
+  id: 5450faade4b072356fcc85da
+  image: /images/placeholder-user.png
+  name: Gabriel Isko
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4e6dd352012c41058a2db015/workspaces/f209fbe5f95a4012a09761b7
+  id: f209fbe5f95a4012a09761b7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4e6dd352012c41058a2db015
+id: 4e6dd352012c41058a2db015
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-05T01:41:06.803+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5450faade4b072356fcc85da
+  id: 5450faade4b072356fcc85da
+  image: /images/placeholder-user.png
+  name: Gabriel Isko
+  state: 1
+name: Arcade Parts
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5450faade4b072356fcc85da
+  id: 5450faade4b072356fcc85da
+  image: /images/placeholder-user.png
+  name: Gabriel Isko
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4e6dd352012c41058a2db015/w/f209fbe5f95a4012a09761b7?t=1427999859466
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4e6dd352012c41058a2db015/w/f209fbe5f95a4012a09761b7/s/300x170?t=1427999859466
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4e6dd352012c41058a2db015/w/f209fbe5f95a4012a09761b7/s/300x300?t=1427999859466
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4e6dd352012c41058a2db015/w/f209fbe5f95a4012a09761b7/s/600x340?t=1427999859466
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4e6dd352012c41058a2db015/w/f209fbe5f95a4012a09761b7/s/70x40?t=1427999859466
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T19:56:05.180+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5526002ce4b0a1d379fb111a
+  id: 5526002ce4b0a1d379fb111a
+  image: /images/placeholder-user.png
+  name: Walter
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/85a3fae4f6be46b9a1c7c5df/workspaces/ba2a4b4bbd6c4d61b7947d13
+  id: ba2a4b4bbd6c4d61b7947d13
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/85a3fae4f6be46b9a1c7c5df
+id: 85a3fae4f6be46b9a1c7c5df
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-16T05:12:01.302+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5526002ce4b0a1d379fb111a
+  id: 5526002ce4b0a1d379fb111a
+  image: /images/placeholder-user.png
+  name: Walter
+  state: 1
+name: iPad Mini Clip Stand
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5526002ce4b0a1d379fb111a
+  id: 5526002ce4b0a1d379fb111a
+  image: /images/placeholder-user.png
+  name: Walter
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/85a3fae4f6be46b9a1c7c5df/w/ba2a4b4bbd6c4d61b7947d13?t=1444972325507
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/85a3fae4f6be46b9a1c7c5df/w/ba2a4b4bbd6c4d61b7947d13/s/300x170?t=1444972325507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/85a3fae4f6be46b9a1c7c5df/w/ba2a4b4bbd6c4d61b7947d13/s/600x340?t=1444972325507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/85a3fae4f6be46b9a1c7c5df/w/ba2a4b4bbd6c4d61b7947d13/s/300x300?t=1444972325507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/85a3fae4f6be46b9a1c7c5df/w/ba2a4b4bbd6c4d61b7947d13/s/70x40?t=1444972325507
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

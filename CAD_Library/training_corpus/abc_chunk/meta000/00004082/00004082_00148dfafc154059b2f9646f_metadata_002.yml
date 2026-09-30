@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T08:26:07.911+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5530cc27e4b0219061084c15
+  id: 5530cc27e4b0219061084c15
+  image: /images/placeholder-user.png
+  name: "Andreas K\xF6nig"
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/00148dfafc154059b2f9646f/workspaces/7fb7cbcab43042eba20bfe7c
+  id: 7fb7cbcab43042eba20bfe7c
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/00148dfafc154059b2f9646f
+id: 00148dfafc154059b2f9646f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-21T14:36:21.044+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5530cc27e4b0219061084c15
+  id: 5530cc27e4b0219061084c15
+  image: /images/placeholder-user.png
+  name: "Andreas K\xF6nig"
+  state: 1
+name: Iris Transmitter Mount
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5530cc27e4b0219061084c15
+  id: 5530cc27e4b0219061084c15
+  image: /images/placeholder-user.png
+  name: "Andreas K\xF6nig"
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/00148dfafc154059b2f9646f/w/7fb7cbcab43042eba20bfe7c?t=1437489558919
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/00148dfafc154059b2f9646f/w/7fb7cbcab43042eba20bfe7c/s/300x170?t=1437489558919
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/00148dfafc154059b2f9646f/w/7fb7cbcab43042eba20bfe7c/s/300x300?t=1437489558919
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/00148dfafc154059b2f9646f/w/7fb7cbcab43042eba20bfe7c/s/70x40?t=1437489558919
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/00148dfafc154059b2f9646f/w/7fb7cbcab43042eba20bfe7c/s/600x340?t=1437489558919
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

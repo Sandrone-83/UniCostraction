@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-20T20:44:58.756+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5502b8dde4b0085d14e115ad
+  id: 5502b8dde4b0085d14e115ad
+  image: https://profiles.onshape.com/d981d293c8c6f8a000ee5f6d8d3920e958b98ac910d63b9004310c0731ffa6ed.png
+  name: Jeremy Gold
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2376e614cfa14d49a4519b74/workspaces/d8d21b0e935940b9b2909e4b
+  id: d8d21b0e935940b9b2909e4b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2376e614cfa14d49a4519b74
+id: 2376e614cfa14d49a4519b74
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-04T00:52:54.824+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5502b8dde4b0085d14e115ad
+  id: 5502b8dde4b0085d14e115ad
+  image: https://profiles.onshape.com/d981d293c8c6f8a000ee5f6d8d3920e958b98ac910d63b9004310c0731ffa6ed.png
+  name: Jeremy Gold
+  state: 1
+name: Huxley Cooling Nozzle
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5502b8dde4b0085d14e115ad
+  id: 5502b8dde4b0085d14e115ad
+  image: https://profiles.onshape.com/d981d293c8c6f8a000ee5f6d8d3920e958b98ac910d63b9004310c0731ffa6ed.png
+  name: Jeremy Gold
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2376e614cfa14d49a4519b74/w/d8d21b0e935940b9b2909e4b?t=1441329418649
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2376e614cfa14d49a4519b74/w/d8d21b0e935940b9b2909e4b/s/300x300?t=1441329418649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2376e614cfa14d49a4519b74/w/d8d21b0e935940b9b2909e4b/s/70x40?t=1441329418649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2376e614cfa14d49a4519b74/w/d8d21b0e935940b9b2909e4b/s/600x340?t=1441329418649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2376e614cfa14d49a4519b74/w/d8d21b0e935940b9b2909e4b/s/300x170?t=1441329418649
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

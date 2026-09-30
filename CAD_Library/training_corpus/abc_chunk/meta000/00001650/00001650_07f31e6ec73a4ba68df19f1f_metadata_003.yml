@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-20T00:11:54.923+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/07f31e6ec73a4ba68df19f1f/workspaces/aba2d221ef754629bdb70f95
+  id: aba2d221ef754629bdb70f95
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/07f31e6ec73a4ba68df19f1f
+id: 07f31e6ec73a4ba68df19f1f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-03-14T00:14:44.852+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  state: 1
+name: Resin Meter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/549362b6e4b05b7908c54137
+  id: 549362b6e4b05b7908c54137
+  image: /images/placeholder-user.png
+  name: Nick
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/07f31e6ec73a4ba68df19f1f/w/aba2d221ef754629bdb70f95?t=1489450762797
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/07f31e6ec73a4ba68df19f1f/w/aba2d221ef754629bdb70f95/s/70x40?t=1489450762797
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/07f31e6ec73a4ba68df19f1f/w/aba2d221ef754629bdb70f95/s/300x300?t=1489450762797
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/07f31e6ec73a4ba68df19f1f/w/aba2d221ef754629bdb70f95/s/600x340?t=1489450762797
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/07f31e6ec73a4ba68df19f1f/w/aba2d221ef754629bdb70f95/s/300x170?t=1489450762797
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

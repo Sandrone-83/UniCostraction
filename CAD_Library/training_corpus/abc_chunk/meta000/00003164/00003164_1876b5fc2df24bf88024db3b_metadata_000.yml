@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-15T06:33:56.282+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe9679e4b05b800d3e3a2b
+  id: 54fe9679e4b05b800d3e3a2b
+  image: /images/placeholder-user.png
+  name: Yoav Cornfield
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1876b5fc2df24bf88024db3b/workspaces/19d230675bb540a9838542f0
+  id: 19d230675bb540a9838542f0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1876b5fc2df24bf88024db3b
+id: 1876b5fc2df24bf88024db3b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-16T07:48:59.321+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe9679e4b05b800d3e3a2b
+  id: 54fe9679e4b05b800d3e3a2b
+  image: /images/placeholder-user.png
+  name: Yoav Cornfield
+  state: 1
+name: mixer stablizer
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe9679e4b05b800d3e3a2b
+  id: 54fe9679e4b05b800d3e3a2b
+  image: /images/placeholder-user.png
+  name: Yoav Cornfield
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1876b5fc2df24bf88024db3b/w/19d230675bb540a9838542f0?t=1429170529855
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1876b5fc2df24bf88024db3b/w/19d230675bb540a9838542f0/s/300x300?t=1429170529855
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1876b5fc2df24bf88024db3b/w/19d230675bb540a9838542f0/s/300x170?t=1429170529855
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1876b5fc2df24bf88024db3b/w/19d230675bb540a9838542f0/s/600x340?t=1429170529855
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1876b5fc2df24bf88024db3b/w/19d230675bb540a9838542f0/s/70x40?t=1429170529855
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

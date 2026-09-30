@@ -1,0 +1,18 @@
+{"kind": "doc", "format": "DXF", "version": "AC1012", "file": "libredwg/r13/v.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 17, "entity_histogram": {"LINE": 16, "TEXT": 1}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[-12.018, 25.388], [-58.844, 45.387]]}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 25.388027, "y1": -37.737713, "x2": 25.388027, "y2": 45.387254}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": -12.018217, "y1": -37.737713, "x2": 25.388027, "y2": -37.737713}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": -12.018217, "y1": 45.387254, "x2": -12.018217, "y2": -37.737713}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 25.388027, "y1": 45.387254, "x2": -12.018217, "y2": 45.387254}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 12.250954, "y1": 24.931799, "x2": 1.118856, "y2": 24.931799}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 12.250954, "y1": 36.063898, "x2": 12.250954, "y2": 24.931799}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 1.118856, "y1": 36.063898, "x2": 12.250954, "y2": 36.063898}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 1.118856, "y1": 24.931799, "x2": 1.118856, "y2": 36.063898}
+{"kind": "entity", "type": "TEXT", "layer": "R-DOOR-ANNO", "text": "V", "x": 2.443505, "y": -58.844322, "h": 11.130423}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 25.388027, "y1": -37.737713, "x2": 25.388027, "y2": 45.387254}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": -12.018217, "y1": -37.737713, "x2": 25.388027, "y2": -37.737713}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": -12.018217, "y1": 45.387254, "x2": -12.018217, "y2": -37.737713}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 25.388027, "y1": 45.387254, "x2": -12.018217, "y2": 45.387254}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 12.250954, "y1": 24.931799, "x2": 1.118856, "y2": 24.931799}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 12.250954, "y1": 36.063898, "x2": 12.250954, "y2": 24.931799}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 1.118856, "y1": 36.063898, "x2": 12.250954, "y2": 36.063898}
+{"kind": "entity", "type": "LINE", "layer": "R-DOOR-OTLN", "x1": 1.118856, "y1": 24.931799, "x2": 1.118856, "y2": 36.063898}

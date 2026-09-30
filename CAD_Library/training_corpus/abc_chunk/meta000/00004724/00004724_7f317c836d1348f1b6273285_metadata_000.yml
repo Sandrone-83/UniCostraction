@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-14T13:22:47.258+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5553b15ae4b029e2d5e5bb2d
+  id: 5553b15ae4b029e2d5e5bb2d
+  image: /images/placeholder-user.png
+  name: Zlikovski
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/7f317c836d1348f1b6273285/workspaces/c731f486c1a540579aacb238
+  id: c731f486c1a540579aacb238
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/7f317c836d1348f1b6273285
+id: 7f317c836d1348f1b6273285
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-14T13:42:18.681+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5553b15ae4b029e2d5e5bb2d
+  id: 5553b15ae4b029e2d5e5bb2d
+  image: /images/placeholder-user.png
+  name: Zlikovski
+  state: 1
+name: OpenBeam 1515
+notRevisionManaged: false
+numberOfTimesCopied: 5
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5553b15ae4b029e2d5e5bb2d
+  id: 5553b15ae4b029e2d5e5bb2d
+  image: /images/placeholder-user.png
+  name: Zlikovski
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/7f317c836d1348f1b6273285/w/c731f486c1a540579aacb238?t=1486702595874
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/7f317c836d1348f1b6273285/w/c731f486c1a540579aacb238/s/300x170?t=1486702595874
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7f317c836d1348f1b6273285/w/c731f486c1a540579aacb238/s/600x340?t=1486702595874
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7f317c836d1348f1b6273285/w/c731f486c1a540579aacb238/s/70x40?t=1486702595874
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/7f317c836d1348f1b6273285/w/c731f486c1a540579aacb238/s/300x300?t=1486702595874
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

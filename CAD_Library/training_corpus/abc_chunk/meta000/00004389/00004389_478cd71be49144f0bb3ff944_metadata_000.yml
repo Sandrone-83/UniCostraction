@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-06T22:48:42.124+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5537f28de4b031bac020ecc3
+  id: 5537f28de4b031bac020ecc3
+  image: /images/placeholder-user.png
+  name: Kevin Izatt
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/478cd71be49144f0bb3ff944/workspaces/9cc3ca2c233141a9b5f61a33
+  id: 9cc3ca2c233141a9b5f61a33
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/478cd71be49144f0bb3ff944
+id: 478cd71be49144f0bb3ff944
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-28T01:39:01.509+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5537f28de4b031bac020ecc3
+  id: 5537f28de4b031bac020ecc3
+  image: /images/placeholder-user.png
+  name: Kevin Izatt
+  state: 1
+name: CZ75Bd CZ75B  pistol grip.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5537f28de4b031bac020ecc3
+  id: 5537f28de4b031bac020ecc3
+  image: /images/placeholder-user.png
+  name: Kevin Izatt
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/478cd71be49144f0bb3ff944/w/9cc3ca2c233141a9b5f61a33?t=1445996345763
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/478cd71be49144f0bb3ff944/w/9cc3ca2c233141a9b5f61a33/s/300x170?t=1445996345763
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/478cd71be49144f0bb3ff944/w/9cc3ca2c233141a9b5f61a33/s/300x300?t=1445996345763
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/478cd71be49144f0bb3ff944/w/9cc3ca2c233141a9b5f61a33/s/70x40?t=1445996345763
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/478cd71be49144f0bb3ff944/w/9cc3ca2c233141a9b5f61a33/s/600x340?t=1445996345763
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

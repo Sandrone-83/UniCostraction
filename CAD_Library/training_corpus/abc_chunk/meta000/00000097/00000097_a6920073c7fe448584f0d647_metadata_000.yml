@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-31T17:23:30.870+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53e8f088e4b0edf73d20e31d
+  id: 53e8f088e4b0edf73d20e31d
+  image: /images/placeholder-user.png
+  name: Bobbeanbags
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a6920073c7fe448584f0d647/workspaces/113446fc9eb0456bb6a10da4
+  id: 113446fc9eb0456bb6a10da4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a6920073c7fe448584f0d647
+id: a6920073c7fe448584f0d647
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-09-25T17:40:07.962+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53bca1a6e4b034f430934eaf
+  id: 53bca1a6e4b034f430934eaf
+  image: /images/placeholder-user.png
+  name: System
+  state: 2
+name: Audio Jack 0.25.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53e8f088e4b0edf73d20e31d
+  id: 53e8f088e4b0edf73d20e31d
+  image: /images/placeholder-user.png
+  name: Bobbeanbags
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a6920073c7fe448584f0d647/w/113446fc9eb0456bb6a10da4?t=1409507632605
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a6920073c7fe448584f0d647/w/113446fc9eb0456bb6a10da4/s/70x40?t=1409507632605
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a6920073c7fe448584f0d647/w/113446fc9eb0456bb6a10da4/s/300x170?t=1409507632605
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a6920073c7fe448584f0d647/w/113446fc9eb0456bb6a10da4/s/600x340?t=1409507632605
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

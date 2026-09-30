@@ -1,0 +1,15 @@
+{"kind": "doc", "format": "DXF", "version": "AC1024", "file": "libredwg/2010/gh209_1.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 14, "entity_histogram": {"INSERT": 3, "ATTRIB": 3, "CIRCLE": 2, "ATTDEF": 2, "LWPOLYLINE": 2, "TEXT": 2}, "n_layers": 0, "layers": [], "n_block_defs": 4, "bbox": [[0.0, 8.528], [-0.027, 14.28]]}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 0.0197507466387868}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 0.0, "cy": 0.0, "r": 0.0197507466387868}
+{"kind": "entity", "type": "ATTDEF", "layer": "0"}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Border", "n": 5, "closed": true, "bbox": [[6.2883033542833, 8.527817496658429], [10.54406365932311, 13.85766443527857]]}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "CLOSED", "x": 6.518544029884722, "y": 14.28010884022756, "h": 0.2965325003213381}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "Work", "n": 2, "closed": false, "bbox": [[6.831634245734093, 8.048384637030935], [11.02145659654628, 13.27194380827355]]}
+{"kind": "entity", "type": "INSERT", "layer": "Symbol_Work", "block": "symbol_work", "x": 7.735766444340328, "y": 13.13437582669563, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "INSERT", "layer": "Symbol_Work", "block": "symbol_work", "x": 7.311108518693789, "y": 12.38511383281905, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "INSERT", "layer": "Symbol_Border", "block": "symbol_border", "x": 7.439021248058509, "y": 13.85766443527857, "sx": 1.0, "sy": 1.0, "rot": 0.0}
+{"kind": "entity", "type": "ATTRIB", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "1", "x": 7.29258602602124, "y": 10.17971810493431, "h": 0.2965325003213381}

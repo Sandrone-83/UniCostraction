@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T18:27:06.193+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5445468ae4b0cb64e8aa1703
+  id: 5445468ae4b0cb64e8aa1703
+  image: /images/placeholder-user.png
+  name: Mike Tomovich
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e9059d2eec5e44e8b86c42b5/workspaces/97fe897767ba4101ba64b336
+  id: 97fe897767ba4101ba64b336
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e9059d2eec5e44e8b86c42b5
+id: e9059d2eec5e44e8b86c42b5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-03T14:53:28.983+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5445468ae4b0cb64e8aa1703
+  id: 5445468ae4b0cb64e8aa1703
+  image: /images/placeholder-user.png
+  name: Mike Tomovich
+  state: 1
+name: Abracon 32k Crystal
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5445468ae4b0cb64e8aa1703
+  id: 5445468ae4b0cb64e8aa1703
+  image: /images/placeholder-user.png
+  name: Mike Tomovich
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e9059d2eec5e44e8b86c42b5/w/97fe897767ba4101ba64b336?t=1428431709720
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e9059d2eec5e44e8b86c42b5/w/97fe897767ba4101ba64b336/s/300x300?t=1428431709720
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e9059d2eec5e44e8b86c42b5/w/97fe897767ba4101ba64b336/s/300x170?t=1428431709720
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e9059d2eec5e44e8b86c42b5/w/97fe897767ba4101ba64b336/s/70x40?t=1428431709720
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e9059d2eec5e44e8b86c42b5/w/97fe897767ba4101ba64b336/s/600x340?t=1428431709720
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

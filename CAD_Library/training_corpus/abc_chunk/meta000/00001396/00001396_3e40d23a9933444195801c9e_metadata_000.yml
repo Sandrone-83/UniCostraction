@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-16T20:55:37.722+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54feb134e4b02630a8452f0b
+  id: 54feb134e4b02630a8452f0b
+  image: /images/placeholder-user.png
+  name: OhmEye
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/3e40d23a9933444195801c9e/workspaces/ecbe48fbc79840b683595aa5
+  id: ecbe48fbc79840b683595aa5
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/3e40d23a9933444195801c9e
+id: 3e40d23a9933444195801c9e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-03-17T05:52:18.931+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54feb134e4b02630a8452f0b
+  id: 54feb134e4b02630a8452f0b
+  image: /images/placeholder-user.png
+  name: OhmEye
+  state: 1
+name: aquarium_carbon_cartridge
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54feb134e4b02630a8452f0b
+  id: 54feb134e4b02630a8452f0b
+  image: /images/placeholder-user.png
+  name: OhmEye
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/3e40d23a9933444195801c9e/w/ecbe48fbc79840b683595aa5?t=1426545582893
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/3e40d23a9933444195801c9e/w/ecbe48fbc79840b683595aa5/s/300x300?t=1426545582893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3e40d23a9933444195801c9e/w/ecbe48fbc79840b683595aa5/s/70x40?t=1426545582893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3e40d23a9933444195801c9e/w/ecbe48fbc79840b683595aa5/s/600x340?t=1426545582893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3e40d23a9933444195801c9e/w/ecbe48fbc79840b683595aa5/s/300x170?t=1426545582893
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

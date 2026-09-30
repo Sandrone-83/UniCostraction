@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T23:19:54.560+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55272ec9e4b001a977b36b33
+  id: 55272ec9e4b001a977b36b33
+  image: /images/placeholder-user.png
+  name: Jeff Davis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b2f14799bef945d19bd7b1d6/workspaces/f91e0153cffb401eb1250c47
+  id: f91e0153cffb401eb1250c47
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b2f14799bef945d19bd7b1d6
+id: b2f14799bef945d19bd7b1d6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-11-10T03:03:47.551+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55272ec9e4b001a977b36b33
+  id: 55272ec9e4b001a977b36b33
+  image: /images/placeholder-user.png
+  name: Jeff Davis
+  state: 1
+name: Cover, Bed Door
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55272ec9e4b001a977b36b33
+  id: 55272ec9e4b001a977b36b33
+  image: /images/placeholder-user.png
+  name: Jeff Davis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b2f14799bef945d19bd7b1d6/w/f91e0153cffb401eb1250c47?t=1447124644193
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b2f14799bef945d19bd7b1d6/w/f91e0153cffb401eb1250c47/s/300x170?t=1447124644193
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b2f14799bef945d19bd7b1d6/w/f91e0153cffb401eb1250c47/s/600x340?t=1447124644193
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b2f14799bef945d19bd7b1d6/w/f91e0153cffb401eb1250c47/s/300x300?t=1447124644193
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b2f14799bef945d19bd7b1d6/w/f91e0153cffb401eb1250c47/s/70x40?t=1447124644193
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

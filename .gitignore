@@ -1,0 +1,10 @@
+# Esclusi da git: archivi binari grandi (meglio via release/Git LFS)
+*.zip
+*.7z
+*.gz
+# File di sistema
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
+parsed/

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T19:26:23.164+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54de80dbe4b0b6bc3c726b7a
+  id: 54de80dbe4b0b6bc3c726b7a
+  image: /images/placeholder-user.png
+  name: Murray Edington
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0f133d8e7fd448708a554e28/workspaces/7e3ff84535fa4d5baeb4aa6e
+  id: 7e3ff84535fa4d5baeb4aa6e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0f133d8e7fd448708a554e28
+id: 0f133d8e7fd448708a554e28
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-21T12:47:12.594+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54de80dbe4b0b6bc3c726b7a
+  id: 54de80dbe4b0b6bc3c726b7a
+  image: /images/placeholder-user.png
+  name: Murray Edington
+  state: 1
+name: Mate trial
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54de80dbe4b0b6bc3c726b7a
+  id: 54de80dbe4b0b6bc3c726b7a
+  image: /images/placeholder-user.png
+  name: Murray Edington
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0f133d8e7fd448708a554e28/w/7e3ff84535fa4d5baeb4aa6e?t=1442839725135
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0f133d8e7fd448708a554e28/w/7e3ff84535fa4d5baeb4aa6e/s/600x340?t=1442839725135
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0f133d8e7fd448708a554e28/w/7e3ff84535fa4d5baeb4aa6e/s/300x300?t=1442839725135
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0f133d8e7fd448708a554e28/w/7e3ff84535fa4d5baeb4aa6e/s/300x170?t=1442839725135
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0f133d8e7fd448708a554e28/w/7e3ff84535fa4d5baeb4aa6e/s/70x40?t=1442839725135
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

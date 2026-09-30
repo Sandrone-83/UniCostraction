@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-14T05:20:10.796+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fde56ce4b04a9735f91bfb
+  id: 54fde56ce4b04a9735f91bfb
+  image: /images/placeholder-user.png
+  name: Gabriel Burnworth
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b0b30ae7f50e47849a092306/workspaces/cff67b483da64553a65ecd92
+  id: cff67b483da64553a65ecd92
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b0b30ae7f50e47849a092306
+id: b0b30ae7f50e47849a092306
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-31T10:37:13.886+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fde56ce4b04a9735f91bfb
+  id: 54fde56ce4b04a9735f91bfb
+  image: /images/placeholder-user.png
+  name: Gabriel Burnworth
+  state: 1
+name: Raspberry Pi Camera Extrusion Ball Mount
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fde56ce4b04a9735f91bfb
+  id: 54fde56ce4b04a9735f91bfb
+  image: /images/placeholder-user.png
+  name: Gabriel Burnworth
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b0b30ae7f50e47849a092306/w/cff67b483da64553a65ecd92?t=1471775473688
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b0b30ae7f50e47849a092306/w/cff67b483da64553a65ecd92/s/300x300?t=1471775473688
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b0b30ae7f50e47849a092306/w/cff67b483da64553a65ecd92/s/600x340?t=1471775473688
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b0b30ae7f50e47849a092306/w/cff67b483da64553a65ecd92/s/300x170?t=1471775473688
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b0b30ae7f50e47849a092306/w/cff67b483da64553a65ecd92/s/70x40?t=1471775473688
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

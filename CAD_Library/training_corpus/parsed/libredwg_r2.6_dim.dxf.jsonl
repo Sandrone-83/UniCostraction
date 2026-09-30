@@ -1,0 +1,54 @@
+{"kind": "doc", "format": "DXF", "version": "AC1003", "file": "libredwg/r2.6/dim.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 53, "entity_histogram": {"LINE": 18, "POINT": 14, "SOLID": 9, "DIMENSION": 5, "TEXT": 4, "ARC": 2, "CIRCLE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 5, "bbox": [[1.0, 10.786], [1.0, 9.127]]}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 3.0, "y1": 1.18, "x2": 3.0, "y2": 1.23}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 3.0, "y1": 2.0, "x2": 3.0, "y2": 1.77}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "R1.0000", "x": 2.55, "y": 1.41, "h": 0.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.91, "y1": 2.0, "x2": 3.09, "y2": 2.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 3.0, "y1": 1.91, "x2": 3.0, "y2": 2.09}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 3.0, "y": 1.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 3.0, "y": 2.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 5.0, "y1": 4.18, "x2": 5.0, "y2": 4.73}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 5.0, "y1": 5.82, "x2": 5.0, "y2": 5.27}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "%%1292.0000", "x": 4.52, "y": 4.91, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 5.0, "y": 4.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 5.0, "y": 6.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 7.0, "cy": 1.0, "r": 3.605551, "a1": 2.860675, "a2": 87.139325}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.0, "y1": 4.785551, "x2": 7.0, "y2": 3.0625}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 10.785551, "y1": 1.0, "x2": 10.0625, "y2": 1.0}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "90%%127", "x": 3.0, "y": 3.0, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 7.0, "y": 1.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 7.0, "y": 3.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 7.0, "y": 1.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 10.0, "y": 1.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 6.044194, "y1": 8.044194, "x2": 7.127279, "y2": 9.127279}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.044194, "y1": 7.044194, "x2": 8.127279, "y2": 8.127279}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.127279, "y1": 8.872721, "x2": 7.327721, "y2": 8.672279}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.872721, "y1": 8.127279, "x2": 7.672279, "y2": 8.327721}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 6.0, "y": 8.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 7.0, "y": 7.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 8.0, "y": 8.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1.0, "y1": 5.0625, "x2": 1.0, "y2": 6.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 3.0, "y1": 5.0625, "x2": 3.0, "y2": 6.18}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 1.18, "y1": 6.0, "x2": 1.43, "y2": 6.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 2.82, "y1": 6.0, "x2": 2.57, "y2": 6.0}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "SOLID", "layer": "0"}
+{"kind": "entity", "type": "TEXT", "layer": "0", "text": "2.0000", "x": 1.61, "y": 5.91, "h": 0.18}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 1.0, "y": 5.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 3.0, "y": 5.0}
+{"kind": "entity", "type": "POINT", "layer": "DEFPOINTS", "x": 3.0, "y": 6.0}
+{"kind": "entity", "type": "CIRCLE", "layer": "0", "cx": 3.0, "cy": 2.0, "r": 1.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 3.0, "y": 2.0}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 5.0, "cy": 5.0, "r": 1.0, "a1": 270.0, "a2": 0.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 5.0, "y": 6.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.0, "y1": 1.0, "x2": 7.0, "y2": 3.0}
+{"kind": "entity", "type": "LINE", "layer": "0", "x1": 7.0, "y1": 1.0, "x2": 10.0, "y2": 1.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 10.0, "y": 1.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "dimtype": "", "x": 8.0, "y": 8.0}
+{"kind": "entity", "type": "DIMENSION", "layer": "0", "x": 3.0, "y": 6.0}

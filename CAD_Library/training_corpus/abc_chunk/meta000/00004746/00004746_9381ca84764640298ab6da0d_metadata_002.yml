@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-14T23:29:00.828+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5553b15ae4b029e2d5e5bb2d
+  id: 5553b15ae4b029e2d5e5bb2d
+  image: /images/placeholder-user.png
+  name: Zlikovski
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9381ca84764640298ab6da0d/workspaces/c99f3dd89b774f1b8e3e8eba
+  id: c99f3dd89b774f1b8e3e8eba
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9381ca84764640298ab6da0d
+id: 9381ca84764640298ab6da0d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-14T23:48:02.696+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5553b15ae4b029e2d5e5bb2d
+  id: 5553b15ae4b029e2d5e5bb2d
+  image: /images/placeholder-user.png
+  name: Zlikovski
+  state: 1
+name: M3 Socket Button Head Screw
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5553b15ae4b029e2d5e5bb2d
+  id: 5553b15ae4b029e2d5e5bb2d
+  image: /images/placeholder-user.png
+  name: Zlikovski
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9381ca84764640298ab6da0d/w/c99f3dd89b774f1b8e3e8eba?t=1468886136954
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9381ca84764640298ab6da0d/w/c99f3dd89b774f1b8e3e8eba/s/70x40?t=1468886136954
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9381ca84764640298ab6da0d/w/c99f3dd89b774f1b8e3e8eba/s/300x300?t=1468886136954
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9381ca84764640298ab6da0d/w/c99f3dd89b774f1b8e3e8eba/s/600x340?t=1468886136954
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9381ca84764640298ab6da0d/w/c99f3dd89b774f1b8e3e8eba/s/300x170?t=1468886136954
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

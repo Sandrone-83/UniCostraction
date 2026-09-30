@@ -1,0 +1,98 @@
+anonymousAccessAllowed: true
+canMove: false
+canUnshare: false
+createdAt: 2015-04-10T10:39:35.752+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550fb288e4b0b2b5219ef102
+  id: 550fb288e4b0b2b5219ef102
+  image: /images/placeholder-user.png
+  name: Hideki Shimizu
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/16dad9b99e9e4aa1b1d3302e/workspaces/6104f9521bf2499b81869a14
+  id: 6104f9521bf2499b81869a14
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/16dad9b99e9e4aa1b1d3302e
+id: 16dad9b99e9e4aa1b1d3302e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-08-13T08:31:57.122+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550fb288e4b0b2b5219ef102
+  id: 550fb288e4b0b2b5219ef102
+  image: /images/placeholder-user.png
+  name: Hideki Shimizu
+  state: 1
+name: Hair Trap
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550fb288e4b0b2b5219ef102
+  id: 550fb288e4b0b2b5219ef102
+  image: /images/placeholder-user.png
+  name: Hideki Shimizu
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/16dad9b99e9e4aa1b1d3302e/w/6104f9521bf2499b81869a14?t=1473042330757
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/16dad9b99e9e4aa1b1d3302e/w/6104f9521bf2499b81869a14/s/70x40?t=1473042330757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/16dad9b99e9e4aa1b1d3302e/w/6104f9521bf2499b81869a14/s/300x170?t=1473042330757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/16dad9b99e9e4aa1b1d3302e/w/6104f9521bf2499b81869a14/s/600x340?t=1473042330757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/16dad9b99e9e4aa1b1d3302e/w/6104f9521bf2499b81869a14/s/300x300?t=1473042330757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

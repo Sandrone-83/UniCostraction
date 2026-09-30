@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-12T21:56:25.550+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fde56ce4b04a9735f91bfb
+  id: 54fde56ce4b04a9735f91bfb
+  image: /images/placeholder-user.png
+  name: Gabriel Burnworth
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/3ffa6cb2b13844dca8940fba/workspaces/97fa747363224f418cb9de5d
+  id: 97fa747363224f418cb9de5d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/3ffa6cb2b13844dca8940fba
+id: 3ffa6cb2b13844dca8940fba
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-31T10:42:58.499+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fde56ce4b04a9735f91bfb
+  id: 54fde56ce4b04a9735f91bfb
+  image: /images/placeholder-user.png
+  name: Gabriel Burnworth
+  state: 1
+name: Actual Stapler
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fde56ce4b04a9735f91bfb
+  id: 54fde56ce4b04a9735f91bfb
+  image: /images/placeholder-user.png
+  name: Gabriel Burnworth
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/3ffa6cb2b13844dca8940fba/w/97fa747363224f418cb9de5d?t=1433069015866
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/3ffa6cb2b13844dca8940fba/w/97fa747363224f418cb9de5d/s/300x300?t=1433069015866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3ffa6cb2b13844dca8940fba/w/97fa747363224f418cb9de5d/s/300x170?t=1433069015866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3ffa6cb2b13844dca8940fba/w/97fa747363224f418cb9de5d/s/70x40?t=1433069015866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/3ffa6cb2b13844dca8940fba/w/97fa747363224f418cb9de5d/s/600x340?t=1433069015866
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

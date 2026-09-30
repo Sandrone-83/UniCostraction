@@ -1,0 +1,91 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-16T19:54:53.497+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f248a4e4b060b14da3ec62
+  id: 53f248a4e4b060b14da3ec62
+  image: https://profiles.onshape.com/a40857b356b1d5634a147b76540051300e3892ae4ac618340118ab899f91c731.png
+  name: Steen Winther
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e6f00e94f0d94212b8a856bc/workspaces/492ebcb0aeb34334827d8e93
+  id: 492ebcb0aeb34334827d8e93
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e6f00e94f0d94212b8a856bc
+id: e6f00e94f0d94212b8a856bc
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-23T17:39:22.198+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/57ab5d16e4b0a4ef1d831bc5
+  id: 57ab5d16e4b0a4ef1d831bc5
+  image: /images/placeholder-user.png
+  name: Richard Compton
+  state: 1
+name: Independent Front Suspension
+notRevisionManaged: false
+numberOfTimesCopied: 5
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f248a4e4b060b14da3ec62
+  id: 53f248a4e4b060b14da3ec62
+  image: https://profiles.onshape.com/a40857b356b1d5634a147b76540051300e3892ae4ac618340118ab899f91c731.png
+  name: Steen Winther
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e6f00e94f0d94212b8a856bc/w/492ebcb0aeb34334827d8e93?t=1413906274604
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e6f00e94f0d94212b8a856bc/w/492ebcb0aeb34334827d8e93/s/70x40?t=1413906274604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e6f00e94f0d94212b8a856bc/w/492ebcb0aeb34334827d8e93/s/300x170?t=1413906274604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e6f00e94f0d94212b8a856bc/w/492ebcb0aeb34334827d8e93/s/600x340?t=1413906274604
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

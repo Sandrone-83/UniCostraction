@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-25T03:23:18.780+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550b191de4b04fee2ee4c6da
+  id: 550b191de4b04fee2ee4c6da
+  image: /images/placeholder-user.png
+  name: Levi King
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d5ad9b12e07e4f058a1c5db5/workspaces/0208471195914e9fb5e5a49a
+  id: 0208471195914e9fb5e5a49a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d5ad9b12e07e4f058a1c5db5
+id: d5ad9b12e07e4f058a1c5db5
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-25T21:05:40.171+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/56b28633e4b0b1f8059fa49b
+  id: 56b28633e4b0b1f8059fa49b
+  image: /images/placeholder-user.png
+  name: Awesome Dude
+  state: 1
+name: vase
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550b191de4b04fee2ee4c6da
+  id: 550b191de4b04fee2ee4c6da
+  image: /images/placeholder-user.png
+  name: Levi King
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d5ad9b12e07e4f058a1c5db5/w/0208471195914e9fb5e5a49a?t=1429933620757
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d5ad9b12e07e4f058a1c5db5/w/0208471195914e9fb5e5a49a/s/600x340?t=1429933620757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d5ad9b12e07e4f058a1c5db5/w/0208471195914e9fb5e5a49a/s/300x300?t=1429933620757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d5ad9b12e07e4f058a1c5db5/w/0208471195914e9fb5e5a49a/s/70x40?t=1429933620757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d5ad9b12e07e4f058a1c5db5/w/0208471195914e9fb5e5a49a/s/300x170?t=1429933620757
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

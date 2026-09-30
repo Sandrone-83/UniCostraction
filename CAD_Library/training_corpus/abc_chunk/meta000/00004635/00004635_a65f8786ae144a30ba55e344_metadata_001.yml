@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-12T12:22:53.219+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdcaf9e4b024f269d81649
+  id: 54fdcaf9e4b024f269d81649
+  image: /images/placeholder-user.png
+  name: DefProc
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a65f8786ae144a30ba55e344/workspaces/5d53a87b47a24b25805bd7d0
+  id: 5d53a87b47a24b25805bd7d0
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a65f8786ae144a30ba55e344
+id: a65f8786ae144a30ba55e344
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-01T21:25:12.806+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdcaf9e4b024f269d81649
+  id: 54fdcaf9e4b024f269d81649
+  image: /images/placeholder-user.png
+  name: DefProc
+  state: 1
+name: Raptor Reloaded
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdcaf9e4b024f269d81649
+  id: 54fdcaf9e4b024f269d81649
+  image: /images/placeholder-user.png
+  name: DefProc
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a65f8786ae144a30ba55e344/w/5d53a87b47a24b25805bd7d0?t=1443735032272
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a65f8786ae144a30ba55e344/w/5d53a87b47a24b25805bd7d0/s/300x170?t=1443735032272
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a65f8786ae144a30ba55e344/w/5d53a87b47a24b25805bd7d0/s/600x340?t=1443735032272
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a65f8786ae144a30ba55e344/w/5d53a87b47a24b25805bd7d0/s/70x40?t=1443735032272
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a65f8786ae144a30ba55e344/w/5d53a87b47a24b25805bd7d0/s/300x300?t=1443735032272
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

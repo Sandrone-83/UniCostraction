@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-17T19:42:30.977+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdbd12e4b04a9735f918fd
+  id: 54fdbd12e4b04a9735f918fd
+  image: /images/placeholder-user.png
+  name: Mike Cloutier
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e0d35a03b46745259cf8878f/workspaces/921b4e67f084431588836b26
+  id: 921b4e67f084431588836b26
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e0d35a03b46745259cf8878f
+id: e0d35a03b46745259cf8878f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-26T06:41:21.964+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/574f2767e4b0ae264c805d0a
+  id: 574f2767e4b0ae264c805d0a
+  image: /images/placeholder-user.png
+  name: John Goncalves
+  state: 1
+name: turners cube
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdbd12e4b04a9735f918fd
+  id: 54fdbd12e4b04a9735f918fd
+  image: /images/placeholder-user.png
+  name: Mike Cloutier
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e0d35a03b46745259cf8878f/w/921b4e67f084431588836b26?t=1451498437051
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e0d35a03b46745259cf8878f/w/921b4e67f084431588836b26/s/300x170?t=1451498437051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e0d35a03b46745259cf8878f/w/921b4e67f084431588836b26/s/70x40?t=1451498437051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e0d35a03b46745259cf8878f/w/921b4e67f084431588836b26/s/300x300?t=1451498437051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e0d35a03b46745259cf8878f/w/921b4e67f084431588836b26/s/600x340?t=1451498437051
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

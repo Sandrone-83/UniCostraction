@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-22T15:12:19.740+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550826f6e4b03fa61ff5d0ca
+  id: 550826f6e4b03fa61ff5d0ca
+  image: /images/placeholder-user.png
+  name: Benjamin Steele
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/e8e2f300429f4eddaabc94f3/workspaces/cc26f5556086446aa4e7fea8
+  id: cc26f5556086446aa4e7fea8
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/e8e2f300429f4eddaabc94f3
+id: e8e2f300429f4eddaabc94f3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-03T12:32:09.709+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550826f6e4b03fa61ff5d0ca
+  id: 550826f6e4b03fa61ff5d0ca
+  image: /images/placeholder-user.png
+  name: Benjamin Steele
+  state: 1
+name: SL-08650 shim
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550826f6e4b03fa61ff5d0ca
+  id: 550826f6e4b03fa61ff5d0ca
+  image: /images/placeholder-user.png
+  name: Benjamin Steele
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/e8e2f300429f4eddaabc94f3/w/cc26f5556086446aa4e7fea8?t=1441282682528
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/e8e2f300429f4eddaabc94f3/w/cc26f5556086446aa4e7fea8/s/300x300?t=1441282682528
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e8e2f300429f4eddaabc94f3/w/cc26f5556086446aa4e7fea8/s/600x340?t=1441282682528
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e8e2f300429f4eddaabc94f3/w/cc26f5556086446aa4e7fea8/s/300x170?t=1441282682528
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/e8e2f300429f4eddaabc94f3/w/cc26f5556086446aa4e7fea8/s/70x40?t=1441282682528
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

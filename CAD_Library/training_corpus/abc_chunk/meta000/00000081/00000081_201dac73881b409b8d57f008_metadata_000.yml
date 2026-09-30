@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-22T10:29:18.191+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53ec6e69e4b081074c64a08d
+  id: 53ec6e69e4b081074c64a08d
+  image: /images/placeholder-user.png
+  name: DudiPeer
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/201dac73881b409b8d57f008/workspaces/4d5a58f54a554cc99ca0db9d
+  id: 4d5a58f54a554cc99ca0db9d
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/201dac73881b409b8d57f008
+id: 201dac73881b409b8d57f008
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-09-29T14:08:32.305+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53ec6e69e4b081074c64a08d
+  id: 53ec6e69e4b081074c64a08d
+  image: /images/placeholder-user.png
+  name: DudiPeer
+  state: 1
+name: MEC-000992-BR
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53ec6e69e4b081074c64a08d
+  id: 53ec6e69e4b081074c64a08d
+  image: /images/placeholder-user.png
+  name: DudiPeer
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/201dac73881b409b8d57f008/w/4d5a58f54a554cc99ca0db9d?t=1481025852142
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/201dac73881b409b8d57f008/w/4d5a58f54a554cc99ca0db9d/s/300x170?t=1481025852142
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/201dac73881b409b8d57f008/w/4d5a58f54a554cc99ca0db9d/s/70x40?t=1481025852142
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/201dac73881b409b8d57f008/w/4d5a58f54a554cc99ca0db9d/s/300x300?t=1481025852142
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/201dac73881b409b8d57f008/w/4d5a58f54a554cc99ca0db9d/s/600x340?t=1481025852142
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

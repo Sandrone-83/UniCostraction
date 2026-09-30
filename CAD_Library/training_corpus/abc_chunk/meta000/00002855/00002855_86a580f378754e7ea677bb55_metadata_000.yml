@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-09T16:52:02.367+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/550f51b0e4b04fee2ee4cc44
+  id: 550f51b0e4b04fee2ee4cc44
+  image: /images/placeholder-user.png
+  name: Frederic Chabot
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/86a580f378754e7ea677bb55/workspaces/4e0b8bb220f04b339328dce1
+  id: 4e0b8bb220f04b339328dce1
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/86a580f378754e7ea677bb55
+id: 86a580f378754e7ea677bb55
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-07-17T19:32:37.952+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/550f51b0e4b04fee2ee4cc44
+  id: 550f51b0e4b04fee2ee4cc44
+  image: /images/placeholder-user.png
+  name: Frederic Chabot
+  state: 1
+name: Crochet Bus
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/550f51b0e4b04fee2ee4cc44
+  id: 550f51b0e4b04fee2ee4cc44
+  image: /images/placeholder-user.png
+  name: Frederic Chabot
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/86a580f378754e7ea677bb55/w/4e0b8bb220f04b339328dce1?t=1437162552845
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/86a580f378754e7ea677bb55/w/4e0b8bb220f04b339328dce1/s/600x340?t=1437162552845
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/86a580f378754e7ea677bb55/w/4e0b8bb220f04b339328dce1/s/300x300?t=1437162552845
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/86a580f378754e7ea677bb55/w/4e0b8bb220f04b339328dce1/s/70x40?t=1437162552845
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/86a580f378754e7ea677bb55/w/4e0b8bb220f04b339328dce1/s/300x170?t=1437162552845
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

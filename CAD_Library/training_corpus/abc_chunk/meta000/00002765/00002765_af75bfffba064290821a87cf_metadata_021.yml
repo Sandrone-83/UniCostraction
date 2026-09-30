@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T18:45:46.513+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55241be3e4b0a1d379fb0e14
+  id: 55241be3e4b0a1d379fb0e14
+  image: /images/placeholder-user.png
+  name: Daniel Lee
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/af75bfffba064290821a87cf/workspaces/99c0a830eae4494197717943
+  id: 99c0a830eae4494197717943
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/af75bfffba064290821a87cf
+id: af75bfffba064290821a87cf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-06-15T16:03:20.335+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55241be3e4b0a1d379fb0e14
+  id: 55241be3e4b0a1d379fb0e14
+  image: /images/placeholder-user.png
+  name: Daniel Lee
+  state: 1
+name: S3 Vampire Racing Copter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55241be3e4b0a1d379fb0e14
+  id: 55241be3e4b0a1d379fb0e14
+  image: /images/placeholder-user.png
+  name: Daniel Lee
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/af75bfffba064290821a87cf/w/99c0a830eae4494197717943?t=1497542606078
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/af75bfffba064290821a87cf/w/99c0a830eae4494197717943/s/300x170?t=1497542606078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/af75bfffba064290821a87cf/w/99c0a830eae4494197717943/s/600x340?t=1497542606078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/af75bfffba064290821a87cf/w/99c0a830eae4494197717943/s/70x40?t=1497542606078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/af75bfffba064290821a87cf/w/99c0a830eae4494197717943/s/300x300?t=1497542606078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

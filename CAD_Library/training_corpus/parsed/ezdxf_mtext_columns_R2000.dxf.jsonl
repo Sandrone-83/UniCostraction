@@ -1,0 +1,10 @@
+{"kind": "doc", "format": "DXF", "version": "AC1015", "file": "ezdxf/mtext_columns_R2000.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 9, "entity_histogram": {"MTEXT": 9}, "n_layers": 0, "layers": [], "n_block_defs": 2, "bbox": [[0.0, 176.0], [0.0, 0.0]]}
+{"kind": "entity", "type": "MTEXT", "layer": "STATIC", "text": "imata sanctus est Lorem ipsum dolor sit amet.\\N", "x": 0.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "STATIC", "text": "a rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\\N", "x": 21.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "STATIC", "text": "imata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam", "x": 42.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "rem ipsum dolor sit amet.", "x": 67.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "", "x": 88.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "", "x": 109.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "rem ipsum dolor sit amet.", "x": 134.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "", "x": 155.0, "y": 0.0, "h": 1.0}
+{"kind": "entity", "type": "MTEXT", "layer": "DYNAMIC", "text": "", "x": 176.0, "y": 0.0, "h": 1.0}

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-02-08T18:18:39.186+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a40da330321b44f286a27361/workspaces/9c8c6cd036bd4247a23c4775
+  id: 9c8c6cd036bd4247a23c4775
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a40da330321b44f286a27361
+id: a40da330321b44f286a27361
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-02-09T11:03:59.078+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  state: 1
+name: Feature_Pattern
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5473c538e4b06e6305aa6c78
+  id: 5473c538e4b06e6305aa6c78
+  image: https://profiles.onshape.com/4473b4e194c652beb152b47814d300c60b9b7002d38f0225cf22385fd671cc8e.png
+  name: FastwayJim
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a40da330321b44f286a27361/w/9c8c6cd036bd4247a23c4775?t=1423421799599
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a40da330321b44f286a27361/w/9c8c6cd036bd4247a23c4775/s/70x40?t=1423421799599
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a40da330321b44f286a27361/w/9c8c6cd036bd4247a23c4775/s/300x170?t=1423421799599
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a40da330321b44f286a27361/w/9c8c6cd036bd4247a23c4775/s/600x340?t=1423421799599
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a40da330321b44f286a27361/w/9c8c6cd036bd4247a23c4775/s/300x300?t=1423421799599
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

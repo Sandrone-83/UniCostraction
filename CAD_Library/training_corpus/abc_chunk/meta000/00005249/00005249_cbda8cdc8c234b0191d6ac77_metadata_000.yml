@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-18T15:47:07.976+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff4d1fe4b02630a84532b0
+  id: 54ff4d1fe4b02630a84532b0
+  image: /images/placeholder-user.png
+  name: Kyle Younkin
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/cbda8cdc8c234b0191d6ac77/workspaces/783758f3b58349c0bbfc5294
+  id: 783758f3b58349c0bbfc5294
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/cbda8cdc8c234b0191d6ac77
+id: cbda8cdc8c234b0191d6ac77
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-06T19:43:16.729+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff4d1fe4b02630a84532b0
+  id: 54ff4d1fe4b02630a84532b0
+  image: /images/placeholder-user.png
+  name: Kyle Younkin
+  state: 1
+name: Sphere
+notRevisionManaged: false
+numberOfTimesCopied: 3
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff4d1fe4b02630a84532b0
+  id: 54ff4d1fe4b02630a84532b0
+  image: /images/placeholder-user.png
+  name: Kyle Younkin
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/cbda8cdc8c234b0191d6ac77/w/783758f3b58349c0bbfc5294?t=1444160892274
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/cbda8cdc8c234b0191d6ac77/w/783758f3b58349c0bbfc5294/s/70x40?t=1444160892274
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cbda8cdc8c234b0191d6ac77/w/783758f3b58349c0bbfc5294/s/300x170?t=1444160892274
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cbda8cdc8c234b0191d6ac77/w/783758f3b58349c0bbfc5294/s/300x300?t=1444160892274
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/cbda8cdc8c234b0191d6ac77/w/783758f3b58349c0bbfc5294/s/600x340?t=1444160892274
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

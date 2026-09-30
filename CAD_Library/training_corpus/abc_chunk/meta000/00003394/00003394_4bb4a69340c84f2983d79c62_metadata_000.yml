@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-20T09:51:05.563+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54dc7a9ce4b0f45fa0dc2d78
+  id: 54dc7a9ce4b0f45fa0dc2d78
+  image: /images/placeholder-user.png
+  name: Jonathan Basri
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4bb4a69340c84f2983d79c62/workspaces/ae7c8ddb7175427d9357e1c2
+  id: ae7c8ddb7175427d9357e1c2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4bb4a69340c84f2983d79c62
+id: 4bb4a69340c84f2983d79c62
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-31T09:26:22.225+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54dc7a9ce4b0f45fa0dc2d78
+  id: 54dc7a9ce4b0f45fa0dc2d78
+  image: /images/placeholder-user.png
+  name: Jonathan Basri
+  state: 1
+name: finga banga
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54dc7a9ce4b0f45fa0dc2d78
+  id: 54dc7a9ce4b0f45fa0dc2d78
+  image: /images/placeholder-user.png
+  name: Jonathan Basri
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4bb4a69340c84f2983d79c62/w/ae7c8ddb7175427d9357e1c2?t=1433068004401
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4bb4a69340c84f2983d79c62/w/ae7c8ddb7175427d9357e1c2/s/300x300?t=1433068004401
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4bb4a69340c84f2983d79c62/w/ae7c8ddb7175427d9357e1c2/s/600x340?t=1433068004401
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4bb4a69340c84f2983d79c62/w/ae7c8ddb7175427d9357e1c2/s/70x40?t=1433068004401
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4bb4a69340c84f2983d79c62/w/ae7c8ddb7175427d9357e1c2/s/300x170?t=1433068004401
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

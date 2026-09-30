@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-13T03:39:21.300+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff3052e4b0191bdfa208dd
+  id: 54ff3052e4b0191bdfa208dd
+  image: https://profiles.onshape.com/8626edf55a3414fa6d67fa8ddaae665bf0422b5b202b077e0daada8df773fe55.png
+  name: Dave Hylands
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/ac25f8aa27194f018107d8a3/workspaces/d9c6e6dc98fe415180a348a6
+  id: d9c6e6dc98fe415180a348a6
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/ac25f8aa27194f018107d8a3
+id: ac25f8aa27194f018107d8a3
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-04-01T21:57:34.968+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff3052e4b0191bdfa208dd
+  id: 54ff3052e4b0191bdfa208dd
+  image: https://profiles.onshape.com/8626edf55a3414fa6d67fa8ddaae665bf0422b5b202b077e0daada8df773fe55.png
+  name: Dave Hylands
+  state: 1
+name: Low-Profile-Knob
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff3052e4b0191bdfa208dd
+  id: 54ff3052e4b0191bdfa208dd
+  image: https://profiles.onshape.com/8626edf55a3414fa6d67fa8ddaae665bf0422b5b202b077e0daada8df773fe55.png
+  name: Dave Hylands
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/ac25f8aa27194f018107d8a3/w/d9c6e6dc98fe415180a348a6?t=1459548153922
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/ac25f8aa27194f018107d8a3/w/d9c6e6dc98fe415180a348a6/s/70x40?t=1459548153922
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ac25f8aa27194f018107d8a3/w/d9c6e6dc98fe415180a348a6/s/300x170?t=1459548153922
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ac25f8aa27194f018107d8a3/w/d9c6e6dc98fe415180a348a6/s/600x340?t=1459548153922
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/ac25f8aa27194f018107d8a3/w/d9c6e6dc98fe415180a348a6/s/300x300?t=1459548153922
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-18T17:20:06.503+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe23c1e4b0c0916a298676
+  id: 54fe23c1e4b0c0916a298676
+  image: /images/placeholder-user.png
+  name: Schuyler Fenton
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/997ada5c0eb7448a9b572279/workspaces/78f754c7c583403893c60890
+  id: 78f754c7c583403893c60890
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/997ada5c0eb7448a9b572279
+id: 997ada5c0eb7448a9b572279
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-13T03:19:39.907+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe23c1e4b0c0916a298676
+  id: 54fe23c1e4b0c0916a298676
+  image: /images/placeholder-user.png
+  name: Schuyler Fenton
+  state: 1
+name: Futuristic Cube
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe23c1e4b0c0916a298676
+  id: 54fe23c1e4b0c0916a298676
+  image: /images/placeholder-user.png
+  name: Schuyler Fenton
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/997ada5c0eb7448a9b572279/w/78f754c7c583403893c60890?t=1434165669913
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/997ada5c0eb7448a9b572279/w/78f754c7c583403893c60890/s/600x340?t=1434165669913
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/997ada5c0eb7448a9b572279/w/78f754c7c583403893c60890/s/300x170?t=1434165669913
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/997ada5c0eb7448a9b572279/w/78f754c7c583403893c60890/s/300x300?t=1434165669913
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/997ada5c0eb7448a9b572279/w/78f754c7c583403893c60890/s/70x40?t=1434165669913
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

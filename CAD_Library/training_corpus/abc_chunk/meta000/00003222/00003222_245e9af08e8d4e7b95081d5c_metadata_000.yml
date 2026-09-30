@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-16T01:25:21.471+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55057c1ce4b09f5b18931cfb
+  id: 55057c1ce4b09f5b18931cfb
+  image: /images/placeholder-user.png
+  name: Justin Gray
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/245e9af08e8d4e7b95081d5c/workspaces/5860fc3346e84f65b972d3ea
+  id: 5860fc3346e84f65b972d3ea
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/245e9af08e8d4e7b95081d5c
+id: 245e9af08e8d4e7b95081d5c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-16T02:05:28.298+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55057c1ce4b09f5b18931cfb
+  id: 55057c1ce4b09f5b18931cfb
+  image: /images/placeholder-user.png
+  name: Justin Gray
+  state: 1
+name: light_switch_cover
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55057c1ce4b09f5b18931cfb
+  id: 55057c1ce4b09f5b18931cfb
+  image: /images/placeholder-user.png
+  name: Justin Gray
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/245e9af08e8d4e7b95081d5c/w/5860fc3346e84f65b972d3ea?t=1429150616453
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/245e9af08e8d4e7b95081d5c/w/5860fc3346e84f65b972d3ea/s/300x300?t=1429150616453
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/245e9af08e8d4e7b95081d5c/w/5860fc3346e84f65b972d3ea/s/600x340?t=1429150616453
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/245e9af08e8d4e7b95081d5c/w/5860fc3346e84f65b972d3ea/s/70x40?t=1429150616453
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/245e9af08e8d4e7b95081d5c/w/5860fc3346e84f65b972d3ea/s/300x170?t=1429150616453
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

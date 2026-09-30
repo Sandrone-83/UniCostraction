@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-28T04:00:23.729+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5514bc28e4b01e772918e1d0
+  id: 5514bc28e4b01e772918e1d0
+  image: /images/placeholder-user.png
+  name: Aras Balali Moghaddam
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d7c620293e6d4ac1a7d2030a/workspaces/999c1b3568504b14bdec1ccc
+  id: 999c1b3568504b14bdec1ccc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d7c620293e6d4ac1a7d2030a
+id: d7c620293e6d4ac1a7d2030a
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-28T06:06:28.183+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5514bc28e4b01e772918e1d0
+  id: 5514bc28e4b01e772918e1d0
+  image: /images/placeholder-user.png
+  name: Aras Balali Moghaddam
+  state: 1
+name: escap motor
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5514bc28e4b01e772918e1d0
+  id: 5514bc28e4b01e772918e1d0
+  image: /images/placeholder-user.png
+  name: Aras Balali Moghaddam
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d7c620293e6d4ac1a7d2030a/w/999c1b3568504b14bdec1ccc?t=1430201049550
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d7c620293e6d4ac1a7d2030a/w/999c1b3568504b14bdec1ccc/s/70x40?t=1430201049550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d7c620293e6d4ac1a7d2030a/w/999c1b3568504b14bdec1ccc/s/600x340?t=1430201049550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d7c620293e6d4ac1a7d2030a/w/999c1b3568504b14bdec1ccc/s/300x170?t=1430201049550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d7c620293e6d4ac1a7d2030a/w/999c1b3568504b14bdec1ccc/s/300x300?t=1430201049550
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

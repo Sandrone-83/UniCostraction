@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-11T02:34:42.640+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdc983e4b0c0916a29823d
+  id: 54fdc983e4b0c0916a29823d
+  image: /images/placeholder-user.png
+  name: Haider ALMALEKY
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/59dbc45e08d84bd1b39a9edb/workspaces/b71e84a609534fcdba1f2a3f
+  id: b71e84a609534fcdba1f2a3f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/59dbc45e08d84bd1b39a9edb
+id: 59dbc45e08d84bd1b39a9edb
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-01-21T00:45:27.592+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdc983e4b0c0916a29823d
+  id: 54fdc983e4b0c0916a29823d
+  image: /images/placeholder-user.png
+  name: Haider ALMALEKY
+  state: 1
+name: Microscope
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdc983e4b0c0916a29823d
+  id: 54fdc983e4b0c0916a29823d
+  image: /images/placeholder-user.png
+  name: Haider ALMALEKY
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/59dbc45e08d84bd1b39a9edb/w/b71e84a609534fcdba1f2a3f?t=1484959557829
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/59dbc45e08d84bd1b39a9edb/w/b71e84a609534fcdba1f2a3f/s/300x170?t=1484959557829
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/59dbc45e08d84bd1b39a9edb/w/b71e84a609534fcdba1f2a3f/s/300x300?t=1484959557829
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/59dbc45e08d84bd1b39a9edb/w/b71e84a609534fcdba1f2a3f/s/600x340?t=1484959557829
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/59dbc45e08d84bd1b39a9edb/w/b71e84a609534fcdba1f2a3f/s/70x40?t=1484959557829
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

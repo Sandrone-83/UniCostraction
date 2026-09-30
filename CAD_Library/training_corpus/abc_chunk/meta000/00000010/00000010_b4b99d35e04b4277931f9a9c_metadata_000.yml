@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-08-05T14:44:53.961+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/b4b99d35e04b4277931f9a9c/workspaces/cb0e0369017a4b1c8ec4a8ed
+  id: cb0e0369017a4b1c8ec4a8ed
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/b4b99d35e04b4277931f9a9c
+id: b4b99d35e04b4277931f9a9c
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-10-04T17:01:54.225+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  state: 1
+name: Dave's Handsome Mug
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/b4b99d35e04b4277931f9a9c/w/cb0e0369017a4b1c8ec4a8ed?t=1461096302452
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/b4b99d35e04b4277931f9a9c/w/cb0e0369017a4b1c8ec4a8ed/s/300x300?t=1461096302452
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b4b99d35e04b4277931f9a9c/w/cb0e0369017a4b1c8ec4a8ed/s/70x40?t=1461096302452
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b4b99d35e04b4277931f9a9c/w/cb0e0369017a4b1c8ec4a8ed/s/600x340?t=1461096302452
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/b4b99d35e04b4277931f9a9c/w/cb0e0369017a4b1c8ec4a8ed/s/300x170?t=1461096302452
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

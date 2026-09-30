@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-05T22:13:22.367+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5508d5fae4b0b2b5219eef26
+  id: 5508d5fae4b0b2b5219eef26
+  image: /images/placeholder-user.png
+  name: R.Paul Waddington
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/49f4848957394d45bee990de/workspaces/ab64fca6d874416992627b3f
+  id: ab64fca6d874416992627b3f
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/49f4848957394d45bee990de
+id: 49f4848957394d45bee990de
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-11T08:49:35.107+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5508d5fae4b0b2b5219eef26
+  id: 5508d5fae4b0b2b5219eef26
+  image: /images/placeholder-user.png
+  name: R.Paul Waddington
+  state: 1
+name: Rubber_Tube_MOTORE
+notRevisionManaged: false
+numberOfTimesCopied: 4
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5508d5fae4b0b2b5219eef26
+  id: 5508d5fae4b0b2b5219eef26
+  image: /images/placeholder-user.png
+  name: R.Paul Waddington
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/49f4848957394d45bee990de/w/ab64fca6d874416992627b3f?t=1430879231444
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/49f4848957394d45bee990de/w/ab64fca6d874416992627b3f/s/300x300?t=1430879231444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/49f4848957394d45bee990de/w/ab64fca6d874416992627b3f/s/600x340?t=1430879231444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/49f4848957394d45bee990de/w/ab64fca6d874416992627b3f/s/300x170?t=1430879231444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/49f4848957394d45bee990de/w/ab64fca6d874416992627b3f/s/70x40?t=1430879231444
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-22T01:36:24.402+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552fe3a3e4b080d5b1d51c1f
+  id: 552fe3a3e4b080d5b1d51c1f
+  image: /images/placeholder-user.png
+  name: Jacob
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/c63f29200323435eb4ccb7e9/workspaces/f842014b40fd4b899bf9cee5
+  id: f842014b40fd4b899bf9cee5
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/c63f29200323435eb4ccb7e9
+id: c63f29200323435eb4ccb7e9
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-22T02:09:26.336+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552fe3a3e4b080d5b1d51c1f
+  id: 552fe3a3e4b080d5b1d51c1f
+  image: /images/placeholder-user.png
+  name: Jacob
+  state: 1
+name: machined_spring_6in_1x12tpi
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552fe3a3e4b080d5b1d51c1f
+  id: 552fe3a3e4b080d5b1d51c1f
+  image: /images/placeholder-user.png
+  name: Jacob
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/c63f29200323435eb4ccb7e9/w/f842014b40fd4b899bf9cee5?t=1429667437077
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/c63f29200323435eb4ccb7e9/w/f842014b40fd4b899bf9cee5/s/600x340?t=1429667437077
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c63f29200323435eb4ccb7e9/w/f842014b40fd4b899bf9cee5/s/300x170?t=1429667437077
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c63f29200323435eb4ccb7e9/w/f842014b40fd4b899bf9cee5/s/70x40?t=1429667437077
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/c63f29200323435eb4ccb7e9/w/f842014b40fd4b899bf9cee5/s/300x300?t=1429667437077
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

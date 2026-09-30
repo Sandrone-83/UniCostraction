@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-16T23:22:26.071+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/554d1fd4e4b0410c1b3b9ca5
+  id: 554d1fd4e4b0410c1b3b9ca5
+  image: /images/placeholder-user.png
+  name: David R. DeLalio
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6d8e1f6cf34d401aa2be9461/workspaces/0bb69ed36bb74290a9785bd2
+  id: 0bb69ed36bb74290a9785bd2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6d8e1f6cf34d401aa2be9461
+id: 6d8e1f6cf34d401aa2be9461
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-19T23:57:58.914+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/554d1fd4e4b0410c1b3b9ca5
+  id: 554d1fd4e4b0410c1b3b9ca5
+  image: /images/placeholder-user.png
+  name: David R. DeLalio
+  state: 1
+name: simple vented box for PCB and wires
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/554d1fd4e4b0410c1b3b9ca5
+  id: 554d1fd4e4b0410c1b3b9ca5
+  image: /images/placeholder-user.png
+  name: David R. DeLalio
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6d8e1f6cf34d401aa2be9461/w/0bb69ed36bb74290a9785bd2?t=1432083492487
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6d8e1f6cf34d401aa2be9461/w/0bb69ed36bb74290a9785bd2/s/300x170?t=1432083492487
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d8e1f6cf34d401aa2be9461/w/0bb69ed36bb74290a9785bd2/s/70x40?t=1432083492487
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d8e1f6cf34d401aa2be9461/w/0bb69ed36bb74290a9785bd2/s/600x340?t=1432083492487
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d8e1f6cf34d401aa2be9461/w/0bb69ed36bb74290a9785bd2/s/300x300?t=1432083492487
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

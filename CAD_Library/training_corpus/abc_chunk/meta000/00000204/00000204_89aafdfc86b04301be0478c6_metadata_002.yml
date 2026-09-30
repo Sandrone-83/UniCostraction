@@ -1,0 +1,70 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-30T19:07:17.883+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/89aafdfc86b04301be0478c6/workspaces/0f20a6c7b78a4ac193c0eeb4
+  id: 0f20a6c7b78a4ac193c0eeb4
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/89aafdfc86b04301be0478c6
+id: 89aafdfc86b04301be0478c6
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2014-09-30T19:07:18.991+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  state: 1
+name: Sample - Fuel Valve Actuator
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/542ad469e4b0ca7ae12e7580
+  id: 542ad469e4b0ca7ae12e7580
+  image: /images/placeholder-user.png
+  name: Kiefer Read
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: null
+  id: null
+  secondarySizes: []
+  sizes: []
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

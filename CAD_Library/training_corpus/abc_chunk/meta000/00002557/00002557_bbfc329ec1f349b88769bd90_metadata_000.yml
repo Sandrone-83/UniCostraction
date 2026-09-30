@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-03T17:19:47.981+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/bbfc329ec1f349b88769bd90/workspaces/d2b8e6aecbff48cc96ce6b29
+  id: d2b8e6aecbff48cc96ce6b29
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/bbfc329ec1f349b88769bd90
+id: bbfc329ec1f349b88769bd90
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-11T14:15:44.870+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  state: 1
+name: vicon sync case.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551d5502e4b0fead1d2f9c1c
+  id: 551d5502e4b0fead1d2f9c1c
+  image: /images/placeholder-user.png
+  name: Michael Mogenson
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/bbfc329ec1f349b88769bd90/w/d2b8e6aecbff48cc96ce6b29?t=1428695039597
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/bbfc329ec1f349b88769bd90/w/d2b8e6aecbff48cc96ce6b29/s/600x340?t=1428695039597
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bbfc329ec1f349b88769bd90/w/d2b8e6aecbff48cc96ce6b29/s/300x170?t=1428695039597
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bbfc329ec1f349b88769bd90/w/d2b8e6aecbff48cc96ce6b29/s/70x40?t=1428695039597
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/bbfc329ec1f349b88769bd90/w/d2b8e6aecbff48cc96ce6b29/s/300x300?t=1428695039597
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

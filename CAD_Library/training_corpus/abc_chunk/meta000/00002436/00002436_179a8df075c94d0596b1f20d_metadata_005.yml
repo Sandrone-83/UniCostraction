@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-01T16:54:09.116+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55186f34e4b07cb7eaa2a11e
+  id: 55186f34e4b07cb7eaa2a11e
+  image: /images/placeholder-user.png
+  name: Abe Gong
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/179a8df075c94d0596b1f20d/workspaces/a53292444e814be7be34d289
+  id: a53292444e814be7be34d289
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/179a8df075c94d0596b1f20d
+id: 179a8df075c94d0596b1f20d
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-10-03T20:26:00.007+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55186f34e4b07cb7eaa2a11e
+  id: 55186f34e4b07cb7eaa2a11e
+  image: /images/placeholder-user.png
+  name: Abe Gong
+  state: 1
+name: Nudge
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55186f34e4b07cb7eaa2a11e
+  id: 55186f34e4b07cb7eaa2a11e
+  image: /images/placeholder-user.png
+  name: Abe Gong
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/179a8df075c94d0596b1f20d/w/a53292444e814be7be34d289?t=1432165666859
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/179a8df075c94d0596b1f20d/w/a53292444e814be7be34d289/s/300x300?t=1432165666859
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/179a8df075c94d0596b1f20d/w/a53292444e814be7be34d289/s/600x340?t=1432165666859
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/179a8df075c94d0596b1f20d/w/a53292444e814be7be34d289/s/300x170?t=1432165666859
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/179a8df075c94d0596b1f20d/w/a53292444e814be7be34d289/s/70x40?t=1432165666859
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

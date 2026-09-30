@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-20T18:32:17.672+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54ff7867e4b00b89f7fc8a5d
+  id: 54ff7867e4b00b89f7fc8a5d
+  image: /images/placeholder-user.png
+  name: "Finn \xD8sterby"
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/d61d6cc804b3472997cccb85/workspaces/ecaad175a08743a887fba282
+  id: ecaad175a08743a887fba282
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/d61d6cc804b3472997cccb85
+id: d61d6cc804b3472997cccb85
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-05-31T11:57:29.907+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54ff7867e4b00b89f7fc8a5d
+  id: 54ff7867e4b00b89f7fc8a5d
+  image: /images/placeholder-user.png
+  name: "Finn \xD8sterby"
+  state: 1
+name: SoapDish
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54ff7867e4b00b89f7fc8a5d
+  id: 54ff7867e4b00b89f7fc8a5d
+  image: /images/placeholder-user.png
+  name: "Finn \xD8sterby"
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/d61d6cc804b3472997cccb85/w/ecaad175a08743a887fba282?t=1464695878305
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/d61d6cc804b3472997cccb85/w/ecaad175a08743a887fba282/s/600x340?t=1464695878305
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d61d6cc804b3472997cccb85/w/ecaad175a08743a887fba282/s/70x40?t=1464695878305
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d61d6cc804b3472997cccb85/w/ecaad175a08743a887fba282/s/300x170?t=1464695878305
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/d61d6cc804b3472997cccb85/w/ecaad175a08743a887fba282/s/300x300?t=1464695878305
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

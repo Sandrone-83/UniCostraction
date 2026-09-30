@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-19T15:10:01.281+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5528a17ee4b0ae1ab401863f
+  id: 5528a17ee4b0ae1ab401863f
+  image: /images/placeholder-user.png
+  name: CHRISTOPHER PEREZ
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/4488e8946fc747f0914de914/workspaces/f7fd8aa4a3d642a4a3e05cde
+  id: f7fd8aa4a3d642a4a3e05cde
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/4488e8946fc747f0914de914
+id: 4488e8946fc747f0914de914
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-11-12T14:51:17.816+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5553507de4b070f554872a47
+  id: 5553507de4b070f554872a47
+  image: /images/placeholder-user.png
+  name: Nick Gencarelle
+  state: 1
+name: projector foot
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5528a17ee4b0ae1ab401863f
+  id: 5528a17ee4b0ae1ab401863f
+  image: /images/placeholder-user.png
+  name: CHRISTOPHER PEREZ
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/4488e8946fc747f0914de914/w/f7fd8aa4a3d642a4a3e05cde?t=1447339923916
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/4488e8946fc747f0914de914/w/f7fd8aa4a3d642a4a3e05cde/s/70x40?t=1447339923916
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4488e8946fc747f0914de914/w/f7fd8aa4a3d642a4a3e05cde/s/300x170?t=1447339923916
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4488e8946fc747f0914de914/w/f7fd8aa4a3d642a4a3e05cde/s/600x340?t=1447339923916
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/4488e8946fc747f0914de914/w/f7fd8aa4a3d642a4a3e05cde/s/300x300?t=1447339923916
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

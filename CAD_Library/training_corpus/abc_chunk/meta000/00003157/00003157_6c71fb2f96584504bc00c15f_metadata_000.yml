@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-14T23:47:03.695+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/552da682e4b080d5b1d51987
+  id: 552da682e4b080d5b1d51987
+  image: /images/placeholder-user.png
+  name: Kegan Leizerman
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6c71fb2f96584504bc00c15f/workspaces/e9d2e68de68d44feb5878d7a
+  id: e9d2e68de68d44feb5878d7a
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6c71fb2f96584504bc00c15f
+id: 6c71fb2f96584504bc00c15f
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-30T18:06:21.695+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/552c19f1e4b001a977b36fa2
+  id: 552c19f1e4b001a977b36fa2
+  image: /images/placeholder-user.png
+  name: Can Aygen
+  state: 1
+name: Motor connector
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/552da682e4b080d5b1d51987
+  id: 552da682e4b080d5b1d51987
+  image: /images/placeholder-user.png
+  name: Kegan Leizerman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6c71fb2f96584504bc00c15f/w/e9d2e68de68d44feb5878d7a?t=1430417189114
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6c71fb2f96584504bc00c15f/w/e9d2e68de68d44feb5878d7a/s/300x300?t=1430417189114
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6c71fb2f96584504bc00c15f/w/e9d2e68de68d44feb5878d7a/s/70x40?t=1430417189114
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6c71fb2f96584504bc00c15f/w/e9d2e68de68d44feb5878d7a/s/600x340?t=1430417189114
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6c71fb2f96584504bc00c15f/w/e9d2e68de68d44feb5878d7a/s/300x170?t=1430417189114
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

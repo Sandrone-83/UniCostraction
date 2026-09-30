@@ -1,0 +1,33 @@
+{"kind": "doc", "format": "DXF", "version": "AC1032", "file": "samples/dxf_ezdxf_hatches_1.dxf", "source": "mozman/ezdxf", "license": "MIT", "n_entities": 32, "entity_histogram": {"LWPOLYLINE": 16, "HATCH": 10, "ARC": 6}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[0.0, 163.417], [0.0, 36.125]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[4.10401974483959, 15.39108220978664], [24.97557444407461, 34.3762486826335]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[23.65190322103732, 35.51149783004644], [24.73033946908114, 33.80403372126781]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[26.10561253067164, 33.46674014248271], [26.61047431679291, 31.84215392132009]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[66.53676201038263, 82.48587199451923], [23.50828264921824, 33.80815183551504]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[67.7636166651998, 81.01364645101756], [24.97969255832184, 32.33674198555425]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[69.7265839860705, 79.05067902444955], [26.45110240828263, 30.53835209007841]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[72.5892448120781, 76.59696982051256], [27.51378731963525, 29.23043220373233]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 2.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[46.47850232088688, 58.33809692989601], [24.55745401864423, 33.6311482708309]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[48.93221163052121, 56.29333924233228], [26.437588866356, 31.66926847088318]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 2.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[50.96979743926704, 54.23287514755617], [27.87703870764637, 30.0512185637455]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 3.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 4.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 3, "closed": false, "bbox": [[90.52467476398633, 95.50272119367489], [25.2544690703545, 31.20054570052284]]}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 87.67241705716486, "cy": 23.75579501510735, "r": 7.97243292816671, "a1": 10.83504062609372, "a2": 27.13715384761044}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 87.67241705716486, "cy": 23.75579501510735, "r": 7.97243292816671, "a1": 52.22602328759454, "a2": 69.03699783969648}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 94.22441183825043, "cy": 29.19181023638669, "r": 1.879693765874353, "a1": 286.7846939712294, "a2": 152.5784831639758}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 1.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 3, "closed": false, "bbox": [[106.6036874636791, 111.5817338933677], [25.40876185981773, 31.35483848998607]]}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 103.7514297568577, "cy": 23.91008780457057, "r": 7.97243292816671, "a1": 10.83504062609371, "a2": 27.13715384761026}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 103.7514297568577, "cy": 23.91008780457057, "r": 7.97243292816671, "a1": 52.22602328759454, "a2": 69.03699783969648}
+{"kind": "entity", "type": "ARC", "layer": "0", "cx": 110.3034245379433, "cy": 29.34610302584991, "r": 1.879693765874353, "a1": 286.7846939712295, "a2": 152.5784831639757}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[102.7338310135901, 116.8535739341333], [21.59331610156323, 34.34631086375322]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 2.0}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 6, "closed": false, "bbox": [[126.964878388816, 138.3297396462504], [23.25183635000889, 33.18006357593117]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 6, "closed": false, "bbox": [[149.7787851701535, 161.1436464275879], [22.83114894177419, 32.75937616769648]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 4, "closed": true, "bbox": [[145.990498084342, 163.4166188192255], [19.80219826932511, 36.12487660989109]]}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 1.0}
+{"kind": "entity", "type": "HATCH", "layer": "0", "pattern": "SOLID", "n_paths": 2.0}

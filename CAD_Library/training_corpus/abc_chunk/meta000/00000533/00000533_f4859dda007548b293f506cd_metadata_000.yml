@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-01-01T00:15:33.006+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f4859dda007548b293f506cd/workspaces/a35fbfbda11a4158b035e575
+  id: a35fbfbda11a4158b035e575
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f4859dda007548b293f506cd
+id: f4859dda007548b293f506cd
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-09-06T21:09:12.153+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  state: 1
+name: Classic Balance Arm Lamp BAB
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53f7afb8e4b0549468e2e467
+  id: 53f7afb8e4b0549468e2e467
+  image: https://profiles.onshape.com/5d107df5c4dcb5b9b7f21b366b6c6c9619fc5eff1f4f411e0b6c25a22b749d31.png
+  name: Bruce Bartlett
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f4859dda007548b293f506cd/w/a35fbfbda11a4158b035e575?t=1461387212603
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f4859dda007548b293f506cd/w/a35fbfbda11a4158b035e575/s/300x300?t=1461387212603
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f4859dda007548b293f506cd/w/a35fbfbda11a4158b035e575/s/70x40?t=1461387212603
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f4859dda007548b293f506cd/w/a35fbfbda11a4158b035e575/s/600x340?t=1461387212603
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f4859dda007548b293f506cd/w/a35fbfbda11a4158b035e575/s/300x170?t=1461387212603
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

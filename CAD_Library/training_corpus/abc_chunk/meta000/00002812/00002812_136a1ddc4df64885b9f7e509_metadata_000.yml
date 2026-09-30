@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-08T16:45:54.083+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5500ec9ce4b05b800d3e403a
+  id: 5500ec9ce4b05b800d3e403a
+  image: /images/placeholder-user.png
+  name: Stefan Riesen
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/136a1ddc4df64885b9f7e509/workspaces/2136fa9b118d4cf3bc711c15
+  id: 2136fa9b118d4cf3bc711c15
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/136a1ddc4df64885b9f7e509
+id: 136a1ddc4df64885b9f7e509
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-07T18:43:56.380+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5500ec9ce4b05b800d3e403a
+  id: 5500ec9ce4b05b800d3e403a
+  image: /images/placeholder-user.png
+  name: Stefan Riesen
+  state: 1
+name: E-Piano
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5500ec9ce4b05b800d3e403a
+  id: 5500ec9ce4b05b800d3e403a
+  image: /images/placeholder-user.png
+  name: Stefan Riesen
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/136a1ddc4df64885b9f7e509/w/2136fa9b118d4cf3bc711c15?t=1428530874217
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/136a1ddc4df64885b9f7e509/w/2136fa9b118d4cf3bc711c15/s/600x340?t=1428530874217
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/136a1ddc4df64885b9f7e509/w/2136fa9b118d4cf3bc711c15/s/70x40?t=1428530874217
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/136a1ddc4df64885b9f7e509/w/2136fa9b118d4cf3bc711c15/s/300x170?t=1428530874217
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/136a1ddc4df64885b9f7e509/w/2136fa9b118d4cf3bc711c15/s/300x300?t=1428530874217
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

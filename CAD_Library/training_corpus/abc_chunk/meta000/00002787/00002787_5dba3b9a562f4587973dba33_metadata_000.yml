@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-08T02:26:36.172+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fe2bc8e4b0c0916a2986b0
+  id: 54fe2bc8e4b0c0916a2986b0
+  image: /images/placeholder-user.png
+  name: John Scala
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5dba3b9a562f4587973dba33/workspaces/82794e7f19c34cb7af73405b
+  id: 82794e7f19c34cb7af73405b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5dba3b9a562f4587973dba33
+id: 5dba3b9a562f4587973dba33
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-28T22:26:46.137+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fe2bc8e4b0c0916a2986b0
+  id: 54fe2bc8e4b0c0916a2986b0
+  image: /images/placeholder-user.png
+  name: John Scala
+  state: 1
+name: 18 Tooth Gear.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fe2bc8e4b0c0916a2986b0
+  id: 54fe2bc8e4b0c0916a2986b0
+  image: /images/placeholder-user.png
+  name: John Scala
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5dba3b9a562f4587973dba33/w/82794e7f19c34cb7af73405b?t=1428459999078
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5dba3b9a562f4587973dba33/w/82794e7f19c34cb7af73405b/s/300x170?t=1428459999078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5dba3b9a562f4587973dba33/w/82794e7f19c34cb7af73405b/s/300x300?t=1428459999078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5dba3b9a562f4587973dba33/w/82794e7f19c34cb7af73405b/s/70x40?t=1428459999078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5dba3b9a562f4587973dba33/w/82794e7f19c34cb7af73405b/s/600x340?t=1428459999078
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

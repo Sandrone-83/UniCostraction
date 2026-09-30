@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-06T15:39:00.962+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54febee5e4b00b89f7fc87a7
+  id: 54febee5e4b00b89f7fc87a7
+  image: /images/placeholder-user.png
+  name: Janis Zarzeckis
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/9eba295bc677426fa1c846d2/workspaces/593029229aeb47f981c80f0e
+  id: 593029229aeb47f981c80f0e
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/9eba295bc677426fa1c846d2
+id: 9eba295bc677426fa1c846d2
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-04T10:35:51.531+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54febee5e4b00b89f7fc87a7
+  id: 54febee5e4b00b89f7fc87a7
+  image: /images/placeholder-user.png
+  name: Janis Zarzeckis
+  state: 1
+name: "Jahti\u0146as logi"
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54febee5e4b00b89f7fc87a7
+  id: 54febee5e4b00b89f7fc87a7
+  image: /images/placeholder-user.png
+  name: Janis Zarzeckis
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/9eba295bc677426fa1c846d2/w/593029229aeb47f981c80f0e?t=1430946216447
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/9eba295bc677426fa1c846d2/w/593029229aeb47f981c80f0e/s/70x40?t=1430946216447
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9eba295bc677426fa1c846d2/w/593029229aeb47f981c80f0e/s/600x340?t=1430946216447
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9eba295bc677426fa1c846d2/w/593029229aeb47f981c80f0e/s/300x300?t=1430946216447
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/9eba295bc677426fa1c846d2/w/593029229aeb47f981c80f0e/s/300x170?t=1430946216447
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

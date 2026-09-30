@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-09-01T22:31:52.914+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5ed74bccca6f4e89829bcb5e/workspaces/16bbc21dea9749aebf588e24
+  id: 16bbc21dea9749aebf588e24
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5ed74bccca6f4e89829bcb5e
+id: 5ed74bccca6f4e89829bcb5e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 1
+modifiedAt: 2018-01-23T06:08:52.130+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/53cd7d40e4b0df4f31ebb294
+  id: 53cd7d40e4b0df4f31ebb294
+  image: https://profiles.onshape.com/b44ad3fbdc50d9b6db63496cd673e11302cff0b1ccf44d07769ef52f16be6500.png
+  name: Lou Gallo (Onshape)
+  state: 1
+name: Compass
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/53cd7b0ce4b0df4f31ebb282
+  id: 53cd7b0ce4b0df4f31ebb282
+  image: /images/placeholder-user.png
+  name: Dave C
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5ed74bccca6f4e89829bcb5e/w/16bbc21dea9749aebf588e24?t=1473029628819
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5ed74bccca6f4e89829bcb5e/w/16bbc21dea9749aebf588e24/s/300x170?t=1473029628819
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5ed74bccca6f4e89829bcb5e/w/16bbc21dea9749aebf588e24/s/70x40?t=1473029628819
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5ed74bccca6f4e89829bcb5e/w/16bbc21dea9749aebf588e24/s/300x300?t=1473029628819
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5ed74bccca6f4e89829bcb5e/w/16bbc21dea9749aebf588e24/s/600x340?t=1473029628819
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

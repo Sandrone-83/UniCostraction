@@ -1,0 +1,40 @@
+{
+  "pack": "Digitale_Marketing_Pack",
+  "generato_il": "2026-09-29",
+  "versione": "2 — approfondimento (50 schede)",
+  "nota_licenza": "Tutto il contenuto e' sintesi didattica originale redatta da Kimi (Moonshot AI): concetti di marketing, informatica e sviluppo software espressi con parole proprie. Nessun testo copiato da fonti protette. Uso commerciale libero.",
+  "fonti": [
+    {
+      "id": "MARKETING-EDILE",
+      "descrizione": "Marketing e promozione per imprese edili: brand, sito/SEO, social, video, paid ads, content marketing, recensioni, fiere, agenti AI, KPI, funnel di vendita, email marketing, personal branding, segmentazione ristrutturazione/nuova costruzione, partnership, pricing, fotografia di cantiere, Google Business Profile, B2B grandi opere, community locale",
+      "file": "parsed/marketing_edile.jsonl",
+      "schede": 23,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "CODING-FONDAMENTI",
+      "descrizione": "Fondamenti di informatica: hardware e OS, linguaggi e paradigmi, algoritmi e strutture dati, internet/HTTP/API, database, Git/cloud/DevOps, Agile, no-code/AI coding, debugging, testing, architetture e design pattern, performance, OOP applicata, esercizi progressivi",
+      "file": "parsed/coding_fondamenti.jsonl",
+      "schede": 14,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    },
+    {
+      "id": "SVILUPPO-WEB-APP",
+      "descrizione": "Sviluppo pratico: siti da zero, app mobile, integrazione AI (API LLM, RAG, agenti), 10 progetti software per impresa edile, percorso di studio, sicurezza/GDPR, stack 2026, back-end e autenticazione, configuratore/preventivatore online, gestionale di cantiere (specifica completa), integrazione AI, pubblicazione/hosting, analytics",
+      "file": "parsed/sviluppo_web_app.jsonl",
+      "schede": 13,
+      "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+      "uso_commerciale": true,
+      "url": ""
+    }
+  ],
+  "avvertenze": [
+    "KPI di marketing (CPL, budget percentuale) e costi pubblicitari indicativi sono stime di prassi 2024-2026, non tariffe ufficiali: verificare sempre prima di fare preventivi",
+    "Prezzi di tool e piattaforme citati sono orientativi e soggetti a variazione",
+    "Per la pubblicita' online rispettare il Codice del Consumo (d.lgs 206/2005) e il GDPR per chatbot e raccolta lead"
+  ]
+}

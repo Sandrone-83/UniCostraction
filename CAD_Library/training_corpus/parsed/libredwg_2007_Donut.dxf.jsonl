@@ -1,0 +1,2 @@
+{"kind": "doc", "format": "DXF", "version": "AC1021", "file": "libredwg/2007/Donut.dxf", "source": "LibreDWG/libredwg", "license": "GPL-3.0 (progetto); file di test di varia provenienza", "n_entities": 1, "entity_histogram": {"LWPOLYLINE": 1}, "n_layers": 0, "layers": [], "n_block_defs": 3, "bbox": [[23.346, 28.346], [3.112, 3.112]]}
+{"kind": "entity", "type": "LWPOLYLINE", "layer": "0", "n": 2, "closed": true, "bbox": [[23.34607991173532, 28.34607991173532], [3.111665977501203, 3.111665977501203]]}

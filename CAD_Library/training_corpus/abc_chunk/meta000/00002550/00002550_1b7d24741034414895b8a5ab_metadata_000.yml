@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-03T14:11:52.660+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdc58be4b024f269d81631
+  id: 54fdc58be4b024f269d81631
+  image: https://profiles.onshape.com/a1e5ff295d9784cc49d3499cb6b335486fbfb8c5fab399efb02bf3bba81935df.png
+  name: Krzysztof Hakenszmidt
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/1b7d24741034414895b8a5ab/workspaces/3c1e66fef00849e0b5a5ed90
+  id: 3c1e66fef00849e0b5a5ed90
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/1b7d24741034414895b8a5ab
+id: 1b7d24741034414895b8a5ab
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-27T06:56:34.753+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/570cfc46e4b0e8cc9e6cc634
+  id: 570cfc46e4b0e8cc9e6cc634
+  image: https://profiles.onshape.com/f32d41ec675bd555f6ee19a6995b671ef8aaf279683422fe9eb585296a93465f.png
+  name: NuTech
+  state: 1
+name: easter.SLDPRT
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdc58be4b024f269d81631
+  id: 54fdc58be4b024f269d81631
+  image: https://profiles.onshape.com/a1e5ff295d9784cc49d3499cb6b335486fbfb8c5fab399efb02bf3bba81935df.png
+  name: Krzysztof Hakenszmidt
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/1b7d24741034414895b8a5ab/w/3c1e66fef00849e0b5a5ed90?t=1435869429177
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/1b7d24741034414895b8a5ab/w/3c1e66fef00849e0b5a5ed90/s/300x300?t=1435869429177
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1b7d24741034414895b8a5ab/w/3c1e66fef00849e0b5a5ed90/s/300x170?t=1435869429177
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1b7d24741034414895b8a5ab/w/3c1e66fef00849e0b5a5ed90/s/600x340?t=1435869429177
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/1b7d24741034414895b8a5ab/w/3c1e66fef00849e0b5a5ed90/s/70x40?t=1435869429177
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

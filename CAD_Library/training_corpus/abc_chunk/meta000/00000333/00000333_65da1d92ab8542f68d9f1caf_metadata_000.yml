@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-05T16:50:19.614+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5446d5d1e4b0a9b27af35287
+  id: 5446d5d1e4b0a9b27af35287
+  image: https://profiles.onshape.com/c463e263217f7c6a2f152f22f23dceb4fc7fd19bbf171a06878e3175765f9724.png
+  name: Isaac Getto
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/65da1d92ab8542f68d9f1caf/workspaces/54e95c10aa3c4d47900cc06b
+  id: 54e95c10aa3c4d47900cc06b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/65da1d92ab8542f68d9f1caf
+id: 65da1d92ab8542f68d9f1caf
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-12T19:39:41.824+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5446d5d1e4b0a9b27af35287
+  id: 5446d5d1e4b0a9b27af35287
+  image: https://profiles.onshape.com/c463e263217f7c6a2f152f22f23dceb4fc7fd19bbf171a06878e3175765f9724.png
+  name: Isaac Getto
+  state: 1
+name: Gyroscope
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5446d5d1e4b0a9b27af35287
+  id: 5446d5d1e4b0a9b27af35287
+  image: https://profiles.onshape.com/c463e263217f7c6a2f152f22f23dceb4fc7fd19bbf171a06878e3175765f9724.png
+  name: Isaac Getto
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/65da1d92ab8542f68d9f1caf/w/54e95c10aa3c4d47900cc06b?t=1442087457153
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/65da1d92ab8542f68d9f1caf/w/54e95c10aa3c4d47900cc06b/s/600x340?t=1442087457153
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/65da1d92ab8542f68d9f1caf/w/54e95c10aa3c4d47900cc06b/s/70x40?t=1442087457153
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/65da1d92ab8542f68d9f1caf/w/54e95c10aa3c4d47900cc06b/s/300x300?t=1442087457153
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/65da1d92ab8542f68d9f1caf/w/54e95c10aa3c4d47900cc06b/s/300x170?t=1442087457153
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-25T02:59:32.410+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5503642ee4b084d81d8c3b09
+  id: 5503642ee4b084d81d8c3b09
+  image: /images/placeholder-user.png
+  name: Julio Guizado
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/2cc3d8eda21f42cb88505f70/workspaces/65c0263239094de7a40c84fe
+  id: 65c0263239094de7a40c84fe
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/2cc3d8eda21f42cb88505f70
+id: 2cc3d8eda21f42cb88505f70
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-04-09T18:34:54.257+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5503642ee4b084d81d8c3b09
+  id: 5503642ee4b084d81d8c3b09
+  image: /images/placeholder-user.png
+  name: Julio Guizado
+  state: 1
+name: porta X endstop
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5503642ee4b084d81d8c3b09
+  id: 5503642ee4b084d81d8c3b09
+  image: /images/placeholder-user.png
+  name: Julio Guizado
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/2cc3d8eda21f42cb88505f70/w/65c0263239094de7a40c84fe?t=1427253627862
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/2cc3d8eda21f42cb88505f70/w/65c0263239094de7a40c84fe/s/300x170?t=1427253627862
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2cc3d8eda21f42cb88505f70/w/65c0263239094de7a40c84fe/s/70x40?t=1427253627862
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2cc3d8eda21f42cb88505f70/w/65c0263239094de7a40c84fe/s/300x300?t=1427253627862
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/2cc3d8eda21f42cb88505f70/w/65c0263239094de7a40c84fe/s/600x340?t=1427253627862
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

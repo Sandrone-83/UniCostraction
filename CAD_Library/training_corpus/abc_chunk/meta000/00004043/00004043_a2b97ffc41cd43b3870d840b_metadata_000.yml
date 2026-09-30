@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-02T04:06:58.368+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/553c18aae4b0a8ee8f59cbdc
+  id: 553c18aae4b0a8ee8f59cbdc
+  image: /images/placeholder-user.png
+  name: Eli Protiva
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/a2b97ffc41cd43b3870d840b/workspaces/279a43d11e7b46cca97a71fe
+  id: 279a43d11e7b46cca97a71fe
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/a2b97ffc41cd43b3870d840b
+id: a2b97ffc41cd43b3870d840b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-02T04:36:18.918+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/553c18aae4b0a8ee8f59cbdc
+  id: 553c18aae4b0a8ee8f59cbdc
+  image: /images/placeholder-user.png
+  name: Eli Protiva
+  state: 1
+name: Well Pump Puller
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/553c18aae4b0a8ee8f59cbdc
+  id: 553c18aae4b0a8ee8f59cbdc
+  image: /images/placeholder-user.png
+  name: Eli Protiva
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/a2b97ffc41cd43b3870d840b/w/279a43d11e7b46cca97a71fe?t=1430541407546
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/a2b97ffc41cd43b3870d840b/w/279a43d11e7b46cca97a71fe/s/70x40?t=1430541407546
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a2b97ffc41cd43b3870d840b/w/279a43d11e7b46cca97a71fe/s/600x340?t=1430541407546
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a2b97ffc41cd43b3870d840b/w/279a43d11e7b46cca97a71fe/s/300x300?t=1430541407546
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/a2b97ffc41cd43b3870d840b/w/279a43d11e7b46cca97a71fe/s/300x170?t=1430541407546
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

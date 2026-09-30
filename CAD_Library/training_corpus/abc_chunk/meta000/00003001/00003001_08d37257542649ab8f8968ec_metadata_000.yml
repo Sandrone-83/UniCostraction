@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-12T17:58:16.097+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5517d58ee4b09d14745931b3
+  id: 5517d58ee4b09d14745931b3
+  image: /images/placeholder-user.png
+  name: Jan-Willem Rommerts
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/08d37257542649ab8f8968ec/workspaces/479ab4d185fa4ede99e23dba
+  id: 479ab4d185fa4ede99e23dba
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/08d37257542649ab8f8968ec
+id: 08d37257542649ab8f8968ec
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2017-07-30T18:01:38.482+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5517d58ee4b09d14745931b3
+  id: 5517d58ee4b09d14745931b3
+  image: /images/placeholder-user.png
+  name: Jan-Willem Rommerts
+  state: 1
+name: Lens 120415B
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5517d58ee4b09d14745931b3
+  id: 5517d58ee4b09d14745931b3
+  image: /images/placeholder-user.png
+  name: Jan-Willem Rommerts
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/08d37257542649ab8f8968ec/w/479ab4d185fa4ede99e23dba?t=1501437698196
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/08d37257542649ab8f8968ec/w/479ab4d185fa4ede99e23dba/s/70x40?t=1501437698196
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/08d37257542649ab8f8968ec/w/479ab4d185fa4ede99e23dba/s/300x300?t=1501437698196
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/08d37257542649ab8f8968ec/w/479ab4d185fa4ede99e23dba/s/300x170?t=1501437698196
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/08d37257542649ab8f8968ec/w/479ab4d185fa4ede99e23dba/s/600x340?t=1501437698196
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

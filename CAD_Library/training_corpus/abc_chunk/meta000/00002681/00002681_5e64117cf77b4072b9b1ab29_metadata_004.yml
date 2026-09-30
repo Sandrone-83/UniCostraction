@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-07T07:29:23.867+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5509514be4b0b29f4fe990ad
+  id: 5509514be4b0b29f4fe990ad
+  image: /images/placeholder-user.png
+  name: Femi Femi
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5e64117cf77b4072b9b1ab29/workspaces/45e7d2efdbc44bffb04c8b68
+  id: 45e7d2efdbc44bffb04c8b68
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5e64117cf77b4072b9b1ab29
+id: 5e64117cf77b4072b9b1ab29
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-11-04T08:15:12.526+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5509514be4b0b29f4fe990ad
+  id: 5509514be4b0b29f4fe990ad
+  image: /images/placeholder-user.png
+  name: Femi Femi
+  state: 1
+name: Original Upright.stp
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5509514be4b0b29f4fe990ad
+  id: 5509514be4b0b29f4fe990ad
+  image: /images/placeholder-user.png
+  name: Femi Femi
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5e64117cf77b4072b9b1ab29/w/45e7d2efdbc44bffb04c8b68?t=1468349896953
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5e64117cf77b4072b9b1ab29/w/45e7d2efdbc44bffb04c8b68/s/70x40?t=1468349896953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5e64117cf77b4072b9b1ab29/w/45e7d2efdbc44bffb04c8b68/s/300x300?t=1468349896953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5e64117cf77b4072b9b1ab29/w/45e7d2efdbc44bffb04c8b68/s/300x170?t=1468349896953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5e64117cf77b4072b9b1ab29/w/45e7d2efdbc44bffb04c8b68/s/600x340?t=1468349896953
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

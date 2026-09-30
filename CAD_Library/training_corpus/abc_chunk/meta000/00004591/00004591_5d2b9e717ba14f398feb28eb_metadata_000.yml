@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-11T16:52:45.255+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/55217b48e4b092be3827e38e
+  id: 55217b48e4b092be3827e38e
+  image: https://profiles.onshape.com/41c215fd1ab8af21e10bbf59bd216feb27de76b40566999864c4863f8e2aa071.png
+  name: Pavel
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/5d2b9e717ba14f398feb28eb/workspaces/22d7c3fadbc6494bae9a3971
+  id: 22d7c3fadbc6494bae9a3971
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/5d2b9e717ba14f398feb28eb
+id: 5d2b9e717ba14f398feb28eb
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-19T23:53:59.331+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/55217b48e4b092be3827e38e
+  id: 55217b48e4b092be3827e38e
+  image: https://profiles.onshape.com/41c215fd1ab8af21e10bbf59bd216feb27de76b40566999864c4863f8e2aa071.png
+  name: Pavel
+  state: 1
+name: SmartReel adapter
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/55217b48e4b092be3827e38e
+  id: 55217b48e4b092be3827e38e
+  image: https://profiles.onshape.com/41c215fd1ab8af21e10bbf59bd216feb27de76b40566999864c4863f8e2aa071.png
+  name: Pavel
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/5d2b9e717ba14f398feb28eb/w/22d7c3fadbc6494bae9a3971?t=1442706901551
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/5d2b9e717ba14f398feb28eb/w/22d7c3fadbc6494bae9a3971/s/600x340?t=1442706901551
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5d2b9e717ba14f398feb28eb/w/22d7c3fadbc6494bae9a3971/s/300x170?t=1442706901551
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5d2b9e717ba14f398feb28eb/w/22d7c3fadbc6494bae9a3971/s/70x40?t=1442706901551
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/5d2b9e717ba14f398feb28eb/w/22d7c3fadbc6494bae9a3971/s/300x300?t=1442706901551
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

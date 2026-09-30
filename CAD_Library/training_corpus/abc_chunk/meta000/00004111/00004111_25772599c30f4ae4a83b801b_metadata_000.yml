@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-03T17:13:52.769+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5541c2fae4b02dc0fe6248af
+  id: 5541c2fae4b02dc0fe6248af
+  image: /images/placeholder-user.png
+  name: Hypno Toad
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/25772599c30f4ae4a83b801b/workspaces/b66f396fc7504744b12c6f18
+  id: b66f396fc7504744b12c6f18
+  name: EUR Pallet
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/25772599c30f4ae4a83b801b
+id: 25772599c30f4ae4a83b801b
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-06-14T10:55:35.451+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5541c2fae4b02dc0fe6248af
+  id: 5541c2fae4b02dc0fe6248af
+  image: /images/placeholder-user.png
+  name: Hypno Toad
+  state: 1
+name: EUR 1 Pallet
+notRevisionManaged: false
+numberOfTimesCopied: 9
+numberOfTimesReferenced: 1
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5541c2fae4b02dc0fe6248af
+  id: 5541c2fae4b02dc0fe6248af
+  image: /images/placeholder-user.png
+  name: Hypno Toad
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/25772599c30f4ae4a83b801b/w/b66f396fc7504744b12c6f18?t=1479560876414
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/25772599c30f4ae4a83b801b/w/b66f396fc7504744b12c6f18/s/70x40?t=1479560876414
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/25772599c30f4ae4a83b801b/w/b66f396fc7504744b12c6f18/s/300x300?t=1479560876414
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/25772599c30f4ae4a83b801b/w/b66f396fc7504744b12c6f18/s/300x170?t=1479560876414
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/25772599c30f4ae4a83b801b/w/b66f396fc7504744b12c6f18/s/600x340?t=1479560876414
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

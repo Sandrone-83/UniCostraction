@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-12-27T14:48:23.046+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5400aeb7e4b0a8ed5579f9bd
+  id: 5400aeb7e4b0a8ed5579f9bd
+  image: /images/placeholder-user.png
+  name: Robert Roberman
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f9d6559308dc4c85aab9fa38/workspaces/587af36f6c9e49cca59f9d61
+  id: 587af36f6c9e49cca59f9d61
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f9d6559308dc4c85aab9fa38
+id: f9d6559308dc4c85aab9fa38
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-09-18T17:14:36.064+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5400aeb7e4b0a8ed5579f9bd
+  id: 5400aeb7e4b0a8ed5579f9bd
+  image: /images/placeholder-user.png
+  name: Robert Roberman
+  state: 1
+name: Zipper Clip
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5400aeb7e4b0a8ed5579f9bd
+  id: 5400aeb7e4b0a8ed5579f9bd
+  image: /images/placeholder-user.png
+  name: Robert Roberman
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f9d6559308dc4c85aab9fa38/w/587af36f6c9e49cca59f9d61?t=1442596485561
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f9d6559308dc4c85aab9fa38/w/587af36f6c9e49cca59f9d61/s/300x300?t=1442596485561
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f9d6559308dc4c85aab9fa38/w/587af36f6c9e49cca59f9d61/s/600x340?t=1442596485561
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f9d6559308dc4c85aab9fa38/w/587af36f6c9e49cca59f9d61/s/70x40?t=1442596485561
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f9d6559308dc4c85aab9fa38/w/587af36f6c9e49cca59f9d61/s/300x170?t=1442596485561
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

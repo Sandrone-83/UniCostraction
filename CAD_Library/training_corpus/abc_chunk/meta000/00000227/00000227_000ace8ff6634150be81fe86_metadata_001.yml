@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-10-07T20:08:16.596+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/543353a2e4b0825ff9a283d1
+  id: 543353a2e4b0825ff9a283d1
+  image: /images/placeholder-user.png
+  name: Sangbae Kim
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/000ace8ff6634150be81fe86/workspaces/70499aac697e423db65025cc
+  id: 70499aac697e423db65025cc
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/000ace8ff6634150be81fe86
+id: 000ace8ff6634150be81fe86
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-07-09T01:30:16.931+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/543353a2e4b0825ff9a283d1
+  id: 543353a2e4b0825ff9a283d1
+  image: /images/placeholder-user.png
+  name: Sangbae Kim
+  state: 1
+name: Sample - Fuel Valve Actuator
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/543353a2e4b0825ff9a283d1
+  id: 543353a2e4b0825ff9a283d1
+  image: /images/placeholder-user.png
+  name: Sangbae Kim
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/000ace8ff6634150be81fe86/w/70499aac697e423db65025cc?t=1468027847215
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/000ace8ff6634150be81fe86/w/70499aac697e423db65025cc/s/300x300?t=1468027847215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/000ace8ff6634150be81fe86/w/70499aac697e423db65025cc/s/600x340?t=1468027847215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/000ace8ff6634150be81fe86/w/70499aac697e423db65025cc/s/300x170?t=1468027847215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/000ace8ff6634150be81fe86/w/70499aac697e423db65025cc/s/70x40?t=1468027847215
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

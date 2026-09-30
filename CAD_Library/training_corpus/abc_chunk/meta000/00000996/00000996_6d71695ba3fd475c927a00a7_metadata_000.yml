@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-03-11T15:38:32.896+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/54fdee41e4b0c0916a2984bb
+  id: 54fdee41e4b0c0916a2984bb
+  image: /images/placeholder-user.png
+  name: Wes Parish
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/6d71695ba3fd475c927a00a7/workspaces/524f0c6aece54b7096f7f065
+  id: 524f0c6aece54b7096f7f065
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/6d71695ba3fd475c927a00a7
+id: 6d71695ba3fd475c927a00a7
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-29T22:57:54.587+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/54fdee41e4b0c0916a2984bb
+  id: 54fdee41e4b0c0916a2984bb
+  image: /images/placeholder-user.png
+  name: Wes Parish
+  state: 1
+name: ChessBishop.ipt
+notRevisionManaged: false
+numberOfTimesCopied: 2
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/54fdee41e4b0c0916a2984bb
+  id: 54fdee41e4b0c0916a2984bb
+  image: /images/placeholder-user.png
+  name: Wes Parish
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/6d71695ba3fd475c927a00a7/w/524f0c6aece54b7096f7f065?t=1432941089784
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/6d71695ba3fd475c927a00a7/w/524f0c6aece54b7096f7f065/s/300x300?t=1432941089784
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d71695ba3fd475c927a00a7/w/524f0c6aece54b7096f7f065/s/300x170?t=1432941089784
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d71695ba3fd475c927a00a7/w/524f0c6aece54b7096f7f065/s/600x340?t=1432941089784
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/6d71695ba3fd475c927a00a7/w/524f0c6aece54b7096f7f065/s/70x40?t=1432941089784
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2014-11-10T21:24:14.235+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5450fac4e4b072356fcc85dc
+  id: 5450fac4e4b072356fcc85dc
+  image: /images/placeholder-user.png
+  name: Andrew Payne
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/909d518ebf304abc8f91356e/workspaces/ac50c85132144ce7b92021c2
+  id: ac50c85132144ce7b92021c2
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/909d518ebf304abc8f91356e
+id: 909d518ebf304abc8f91356e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-07-16T13:49:47.695+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5450fac4e4b072356fcc85dc
+  id: 5450fac4e4b072356fcc85dc
+  image: /images/placeholder-user.png
+  name: Andrew Payne
+  state: 1
+name: Three Legged Stool
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5450fac4e4b072356fcc85dc
+  id: 5450fac4e4b072356fcc85dc
+  image: /images/placeholder-user.png
+  name: Andrew Payne
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/909d518ebf304abc8f91356e/w/ac50c85132144ce7b92021c2?t=1468590711372
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/909d518ebf304abc8f91356e/w/ac50c85132144ce7b92021c2/s/70x40?t=1468590711372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/909d518ebf304abc8f91356e/w/ac50c85132144ce7b92021c2/s/600x340?t=1468590711372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/909d518ebf304abc8f91356e/w/ac50c85132144ce7b92021c2/s/300x170?t=1468590711372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/909d518ebf304abc8f91356e/w/ac50c85132144ce7b92021c2/s/300x300?t=1468590711372
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

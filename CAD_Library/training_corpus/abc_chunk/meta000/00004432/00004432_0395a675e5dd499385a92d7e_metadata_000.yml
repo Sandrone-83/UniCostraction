@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-07T12:41:20.096+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/551c6311e4b09d14745934e2
+  id: 551c6311e4b09d14745934e2
+  image: https://profiles.onshape.com/36d8a6968e51d1c5e4e326cc2bf1d4f49db5855ec26c4080209bef7f6e81dd19.png
+  name: Alex9779
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/0395a675e5dd499385a92d7e/workspaces/8e658af517014d7a8eef31f7
+  id: 8e658af517014d7a8eef31f7
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/0395a675e5dd499385a92d7e
+id: 0395a675e5dd499385a92d7e
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-08-24T20:57:51.010+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/551c6311e4b09d14745934e2
+  id: 551c6311e4b09d14745934e2
+  image: https://profiles.onshape.com/36d8a6968e51d1c5e4e326cc2bf1d4f49db5855ec26c4080209bef7f6e81dd19.png
+  name: Alex9779
+  state: 1
+name: T-Rex 450L Dominator Battery Plate
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/551c6311e4b09d14745934e2
+  id: 551c6311e4b09d14745934e2
+  image: https://profiles.onshape.com/36d8a6968e51d1c5e4e326cc2bf1d4f49db5855ec26c4080209bef7f6e81dd19.png
+  name: Alex9779
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/0395a675e5dd499385a92d7e/w/8e658af517014d7a8eef31f7?t=1471330019358
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/0395a675e5dd499385a92d7e/w/8e658af517014d7a8eef31f7/s/300x300?t=1471330019358
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0395a675e5dd499385a92d7e/w/8e658af517014d7a8eef31f7/s/600x340?t=1471330019358
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0395a675e5dd499385a92d7e/w/8e658af517014d7a8eef31f7/s/300x170?t=1471330019358
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/0395a675e5dd499385a92d7e/w/8e658af517014d7a8eef31f7/s/70x40?t=1471330019358
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

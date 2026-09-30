@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-04-20T17:02:36.849+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5504d923e4b09f5b18931c53
+  id: 5504d923e4b09f5b18931c53
+  image: /images/placeholder-user.png
+  name: Onshaper
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/fab7f27232d3460081425531/workspaces/0f689583090f433b8719c49b
+  id: 0f689583090f433b8719c49b
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/fab7f27232d3460081425531
+id: fab7f27232d3460081425531
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2016-09-05T16:00:51.989+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5532b968e4b080d5b1d51fcf
+  id: 5532b968e4b080d5b1d51fcf
+  image: /images/placeholder-user.png
+  name: Robert Barclay
+  state: 1
+name: Onshaper - Simple Four Stroke
+notRevisionManaged: false
+numberOfTimesCopied: 1
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5504d923e4b09f5b18931c53
+  id: 5504d923e4b09f5b18931c53
+  image: /images/placeholder-user.png
+  name: Onshaper
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- LINK
+- READ
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/fab7f27232d3460081425531/w/0f689583090f433b8719c49b?t=1473091253941
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/fab7f27232d3460081425531/w/0f689583090f433b8719c49b/s/600x340?t=1473091253941
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fab7f27232d3460081425531/w/0f689583090f433b8719c49b/s/300x300?t=1473091253941
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fab7f27232d3460081425531/w/0f689583090f433b8719c49b/s/300x170?t=1473091253941
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/fab7f27232d3460081425531/w/0f689583090f433b8719c49b/s/70x40?t=1473091253941
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false

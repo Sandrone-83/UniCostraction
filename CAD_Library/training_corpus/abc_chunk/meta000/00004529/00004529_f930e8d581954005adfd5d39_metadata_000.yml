@@ -1,0 +1,98 @@
+anonymousAccessAllowed: false
+canMove: false
+canUnshare: false
+createdAt: 2015-05-10T14:14:31.236+0000
+createdBy:
+  href: https://cad.onshape.com/api/users/5514b0a9e4b01e772918e1ba
+  id: 5514b0a9e4b01e772918e1ba
+  image: https://profiles.onshape.com/9ed7385f930b80dc164ab606d09882a914776918034154d3ed2d33478aea69c6.png
+  name: Greg Lincoln
+  state: 1
+createdWithEducationPlan: false
+defaultElementId: null
+defaultWorkspace:
+  href: https://cad.onshape.com/api/documents/d/f930e8d581954005adfd5d39/workspaces/005be1e33c9346649ee80f17
+  id: 005be1e33c9346649ee80f17
+  name: Main
+description: null
+documentLabels: null
+hasReleaseRevisionableObjects: false
+hasRelevantInsertables: false
+href: https://cad.onshape.com/api/documents/f930e8d581954005adfd5d39
+id: f930e8d581954005adfd5d39
+isContainer: false
+isEnterpriseOwned: false
+isMutable: false
+isOrphaned: false
+jsonType: document-summary
+likedByCurrentUser: false
+likes: 0
+modifiedAt: 2015-05-17T14:07:37.343+0000
+modifiedBy:
+  href: https://cad.onshape.com/api/users/5514b0a9e4b01e772918e1ba
+  id: 5514b0a9e4b01e772918e1ba
+  image: https://profiles.onshape.com/9ed7385f930b80dc164ab606d09882a914776918034154d3ed2d33478aea69c6.png
+  name: Greg Lincoln
+  state: 1
+name: Kossel Proximity Mount
+notRevisionManaged: false
+numberOfTimesCopied: 0
+numberOfTimesReferenced: 0
+owner:
+  acceptOwnershipTransfer: false
+  href: https://cad.onshape.com/api/users/5514b0a9e4b01e772918e1ba
+  id: 5514b0a9e4b01e772918e1ba
+  image: https://profiles.onshape.com/9ed7385f930b80dc164ab606d09882a914776918034154d3ed2d33478aea69c6.png
+  name: Greg Lincoln
+  type: 0
+parentId: null
+permission: READ_COPY_EXPORT
+permissionSet:
+- READ
+- LINK
+- COPY
+- EXPORT
+projectId: null
+public: true
+recentVersion: null
+resourceType: document
+supportTeamUserAndShared: false
+tags: []
+thumbnail:
+  href: https://cad.onshape.com/api/thumbnails/d/f930e8d581954005adfd5d39/w/005be1e33c9346649ee80f17?t=1431871357046
+  id: null
+  secondarySizes: null
+  sizes:
+  - href: https://cad.onshape.com/api/thumbnails/d/f930e8d581954005adfd5d39/w/005be1e33c9346649ee80f17/s/300x300?t=1431871357046
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x300
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f930e8d581954005adfd5d39/w/005be1e33c9346649ee80f17/s/300x170?t=1431871357046
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 300x170
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f930e8d581954005adfd5d39/w/005be1e33c9346649ee80f17/s/70x40?t=1431871357046
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 70x40
+    uniqueId: null
+    viewOrientation: ''
+  - href: https://cad.onshape.com/api/thumbnails/d/f930e8d581954005adfd5d39/w/005be1e33c9346649ee80f17/s/600x340?t=1431871357046
+    mediaType: image/png
+    renderMode: ''
+    sheetName: null
+    size: 600x340
+    uniqueId: null
+    viewOrientation: ''
+totalWorkspacesScheduledForUpdate: 0
+totalWorkspacesUpdating: 0
+trash: false
+trashedAt: null
+userAccountLimitsBreached: false
