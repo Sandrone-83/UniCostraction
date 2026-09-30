@@ -1,0 +1,7 @@
+corso: "Formulario di fisica dell'edilizia e degli impianti"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L1-L2"
+schede: 13
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

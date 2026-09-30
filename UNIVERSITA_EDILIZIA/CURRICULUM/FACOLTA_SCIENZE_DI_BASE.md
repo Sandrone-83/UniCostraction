@@ -6,3 +6,4 @@ Matematica, fisica, geometria, scienze: il fondamento di ogni calcolo.
 
 ## Corsi
 - Fondamenti_Pack
+- MATEMATICA_PER_COSTRUIRE_PACK

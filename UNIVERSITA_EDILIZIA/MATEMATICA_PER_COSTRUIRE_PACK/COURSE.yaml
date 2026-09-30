@@ -1,0 +1,7 @@
+corso: "Matematica per costruire"
+facolta: "FACOLTA_SCIENZE_DI_BASE"
+livello: "L0"
+schede: 13
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
