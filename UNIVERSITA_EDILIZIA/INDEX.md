@@ -18,6 +18,7 @@ dell'impresa costruttiva. Ogni pack è un 'corso'; ogni scheda è una 'lezione'.
 | 09 | Italia_Sistema_Pack | Costituzione, fisco, tributi, sistema Paese, appalti pubblici, normativa italiana |  |
 | 10 | Digitale_Marketing_Pack | Marketing edile, social, branding, video, gestione agenti AI |  |
 | 11 | Coding_Master_Pack 1-5 | Coding completo: dal fondamento all'ingegneria del software |  |
+| 12 | POSA_IN_OPERA_PACK | Tecniche di posa in opera e controlli in cantiere: errori tipici, controlli qualità, rese di manodopera | 22 |
 
 ## Totale pack consegnati: 13 zip + questa repository (aggiornata al 2026-09-30)
 
