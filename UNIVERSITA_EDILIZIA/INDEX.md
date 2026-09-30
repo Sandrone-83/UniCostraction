@@ -37,3 +37,18 @@ Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICU
 - MATERIALI_COMPONENTI_IMPIANTISTICA_PACK (9 schede)
 - DIMENSIONAMENTO_TERMOTECNICO_PACK (9 schede)
 - DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK (10 schede)
+
+## Corsi del giro disegno/design/CAD-BIM (2026-10-01)
+
+- DISEGNO_TECNICO_MANUALE_PACK (14 schede, L1, FACOLTA_GEOMETRI_PERITI)
+- CAD_BIM_PROGETTAZIONE_PACK (12 schede, L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE)
+- DESIGN_GUSTO_TENDENZE_PACK (11 schede, L3, FACOLTA_ARCHITETTURA_DESIGN)
+- INTERIOR_PROGETTAZIONE_TECNICA_PACK (11 schede, L2, FACOLTA_ARCHITETTURA_DESIGN)
+
+## Esami di valutazione (ESAMI/)
+
+- ESAMI/MATERIALEDILE/domande.md — esame dimostratore: 1.000 domande a risposta multipla
+  sul settore materiali edili, generate dalle 162 schede del MATERIALEDILE_PACK.
+  Le risposte corrette NON sono in repository: vivono in ESAMI_RISPOSTE/ (fuori repo,
+  consegnate solo al proprietario) per permettere la valutazione imparziale del LLM.
+- ESAMI/README.md — piano completo dei settori d'esame.

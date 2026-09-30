@@ -1,0 +1,6 @@
+corso: "Disegno tecnico e dataset CAD"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L1"
+descrizione: "Dataset open DWG/DXF/3DS/3DM/STEP con metadati geometrici per il training."
+formato: "JSONL/MD"
+lingua: "it"

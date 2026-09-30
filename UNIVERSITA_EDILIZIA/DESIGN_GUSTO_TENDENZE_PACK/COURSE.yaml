@@ -1,0 +1,7 @@
+corso: "Design, gusto e tendenze dell'edilizia"
+facolta: "FACOLTA_ARCHITETTURA_DESIGN"
+livello: "L3"
+schede: 11
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

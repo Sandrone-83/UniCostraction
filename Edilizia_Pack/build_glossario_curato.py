@@ -1,0 +1,110 @@
+# -*- coding: utf-8 -*-
+"""Genera parsed/glossario_curato_kimi.jsonl — schede bilingui curate sui termini
+tecnici dell'edilizia non coperti dalle voci Wikipedia (pratiche, contabilita',
+dettagli costruttivi, sinonimi UK/US). Sintesi originale, pubblico dominio."""
+import json, os
+
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "parsed", "glossario_curato_kimi.jsonl")
+
+TERMS = [
+# --- Pratiche edilizie e amministrative italiane
+("Conto termico","Heating account (thermal energy incentive)","incentivi","Contributo a fondo perduto del GSE per piccoli interventi di efficienza energetica e produzione di calore da FER su edifici esistenti; versione 3.0 istituita dal D.M. 7 agosto 2025, fino al 65% delle spese (100% per PA in piccoli comuni)."),
+("Superbonus","Superbonus (110% tax credit)","incentivi","Detrazione fiscale del 110% per riqualificazione energetica e interventi antisismici, introdotta dal D.L. 34/2020; misura storica conclusasi, con pratiche residue in corso di completamento."),
+("Ecobonus","Ecobonus (energy efficiency tax deduction)","incentivi","Detrazione fiscale del 50-65% per interventi di riqualificazione energetica (cappotto, serramenti, pompe di calore, solare termico); aliquote 50% abitazione principale e 36% altri immobili nel 2026."),
+("Cappotto termico","External thermal insulation (ETICS)","involucro","Sistema di isolamento termico a copertura continua delle superfici opache verticali oorizzontali dell'edificio, con pannelli coibenti incollati e rivestimento protettivo; detto anche ETICS (External Thermal Insulation Composite System)."),
+("Trasmittanza termica (U)","Thermal transmittance (U-value)","involucro","Flusso di calore che attraversa un metro quadro di struttura per grado di differenza di temperatura (W/m2K); il D.M. 26/6/2015 fissa i valori limite per zona climatica."),
+("Coefficiente globale volumico (H'T)","Overall heat transfer coefficient","involucro","Indice del fabbisogno di energia per la climatizzazione invernale riferito al volume climatizzato (W/m3K); requisito di verifica per le ristrutturazioni importanti."),
+("EPgl (indice di prestazione energetica globale)","Global energy performance index","energia","Energia primaria annua per riscaldamento, raffrescamento, acqua calda, ventilazione e illuminazione, riferita al metro quadro (kWh/m2a); base della classificazione energetica A-G dell'APE."),
+("Ponti termici","Thermal bridges","involucro","Punti del'involucro con concentrazione di flusso termico (pilastri a vista, cordoli, balconi) dove si formano condense superficiali e interstiziali; da eliminare o ridurre secondo UNI EN ISO 14683."),
+("Valvola termostatica","Thermostatic radiator valve (TRV)","impianti","Valvola di regolazione modulante sul corpo scaldante che mantiene la temperatura ambiente di set chiudendo parzialmente la portata; obbligatoria negli impianti che accedono a incentivi."),
+("Ventilazione meccanica controllata (VMC)","Mechanical ventilation with heat recovery","impianti","Sistema di ricambio d'aria con recupero di calore (rendimento tipico 80-90%) tra aria estratta e immessa; obbligatoria in combinazione con l'isolamento quando serve per muffe e condense."),
+("Attestato di prestazione energetica (APE)","Energy Performance Certificate (EPC)","pratiche","Documento rilasciato da certificatore energetico abilitato (DPR 75/2013) che classifica l'edificio in classi A-G con indice EPgl; obbligatorio in vendita e locazione."),
+("Relazione tecnica di progetto (RTP)","Design technical report","pratiche","Documento ex L. 10/91 che accompagna i titoli edilizi per edifici di nuova costruzione e ristrutturazione importante, con calcoli di legge 10 secondo le schemi del D.M. 26/6/2015."),
+("Direzione dei lavori (DL)","Construction site management / clerk of works","cantiere","Attivita' del progettista (direttore dei lavori) di sorveglianza sull'esecuzione conforme al progetto, con redazione di verbali, SAL e certificato di regolare esecuzione."),
+("Computo metrico estimativo (CME)","Bill of quantities (BoQ)","contabilita","Elenco delle quantita' di lavoro con prezzi unitari, corpo per corpo, base del contratto e delle misure; redatto dal progettista ai fini del quadro economico."),
+("Contabilità dei lavori","Construction accounting / progress measurement","contabilita","Registrazione amministrativa dei lavori eseguiti: misure, prezzi, ritenute, oneri della sicurezza, somme a disposizione; base dei pagamenti al contraente."),
+("Stato avanzamento lavori (SAL)","Progress report / payment application","contabilita","Dichiarazione mensile o periodica delle lavorazioni eseguite con percentuale di avanzamento, su cui il direttore dei lavori certifica le quote di pagamento."),
+("Asseverazione","Sworn technical attestation","pratiche","Dichiarazione resa da professionista abilitato, con assunzione di responsabilita' civile e penale, che certifica il rispetto di requisiti tecnici richiesti per incentivi e titoli edilizi."),
+("SCIA","SCIA (notification for works commencement)","pratiche","Segnalazione certificata di inizio attivita' per lavori in edilizia libera o assentita: presentata dal tecnico abilitato, consente l'inizio dei lavori dopo attesa di decadenza dei termini."),
+("CILA","CILA (minor works notification)","pratiche","Comunicazione di inizio lavori asseverata per interventi interni senza aumento di superficie o volume, senza titolo abilitativo (ristrutturazioni interne, impianti)."),
+("Agibilità","Certificate of occupancy / usability","pratiche","Dichiarazione del titolare del procedimento che l'immobile e' utilizzabile ai fini a cui e' destinato; dal 2022 anche in forma di agibilita' energetica secondo il D.Lgs 199/2021."),
+("Collaudo","Final inspection and testing","pratiche","Verifica tecnico-funzionale, statica e impiantistica dell'opera ultimata da parte del collaudatore indipendente; fase essenziale prima del trasferimento dell'opera."),
+("Certificato di regolare esecuzione (CRE)","Certificate of regular execution","pratiche","Documento rilasciato dal direttore dei lavori che attesta la conformita' dell'opera al progetto approvato e alle norme; base per il rilascio del titolo di agibilita'."),
+# --- Strutture e materiali
+("Calcestruzzo armato (CLS)","Reinforced concrete (RC)","strutture","Calcestruzzo gettato in cassaforma con armatura metallica interna (barre corrugate); materiale strutturale piu' diffuso per fondazioni, solai, pilastri e travi."),
+("Getto","Concrete pour","cantiere","Operazione di colata del calcestruzzo fresco in cassaforma, con vibratura per eliminare i vuoti; i getti continui evitano giunti freddi deboli."),
+("Cassaforma","Formwork","cantiere","Struttura provvisoria (legno, metallo o polimero) che contiene il calcestruzzo fresco dandogli forma fino alla presa; detta anche cassero o stampo."),
+("Armatura (barre)","Rebar (reinforcing bar)","strutture","Barre d'acciaio nervate (B450C) disposte dove il calcestruzzo e' soggetto a trazione e taglio; diametri usuali 8-24 mm, copriferro minimo 2-3 cm secondo esposizione."),
+("Copriferro","Concrete cover","strutture","Spessore di calcestruzzo tra la superficie e l'armatura; garantisce aderenza e protezione dalla corrosione e dal fuoco (3-4 cm per strutture esterne)."),
+("Solaio","Floor slab / structural floor","strutture","Elemento orizzontale portante che separa i piani: tipi tradizionali a travetti e laterizi, predalle prefabbricate, in laterocemento, lamiera grecata collaborante e cassaforma a perdere."),
+("Travetto","Joist / rib beam","strutture","Piccola trave secondaria del solaio (in laterizio alleggerito, legno, acciaio o calcestruzzo) che sorregge l'intradosso e collabora con la soletta."),
+("Nervatura","Rib / corrugation","strutture","Rinforzo longitudinale o trasversale sagomato di lastre, profili o solai che aumenta l'inerzia flessionale; la lamiera grecata nervata collabora col getto di completamento."),
+("Cordolo","Bond beam","strutture","Cordonatura orizzontale in calcestruzzo armato posata in sommita' ai muri portanti per assorbire le spinte del solaio e migliorare il comportamento sismico."),
+("Catena (muratura)","Wall tie / ring beam","strutture","Elemento orizzontale armato che cinge il fabbricato all'altezza dei solai e in corrispondenza degli archi; nel consolidamento sismico rinforza i muri esistenti."),
+("Tamponamento","Infilling / non-structural wall","involucro","Parete non portante (laterizio, blocchi, pannelli) che chiude il telaio portante; nel sisma puo' fuoriuscire se non vincolata adeguatamente."),
+("Massetto","Screed","finiture","Strato di malta o calcestruzzo gettato sul solaio per regolarizzare la superficie e accogliere i pavimenti, spessori usuali 4-8 cm, talvolta con massetto radiante."),
+("Intonaco","Plaster / render","finiture","Rivestimento applicato a spruzzo o spatola su muratura per protezione e finitura; stratigrafia tradizionale: getto, arriccio, finishing a civile o rinzaffo e velo."),
+("Impermeabilizzazione","Waterproofing","involucro","Barriera continua contro l'acqua su coperture, fondazioni, terrazzi: guaine bituminose (apprese a fiamma), membrane sintetiche (PVC, TPO, EPDM), bentonite e resine liquide."),
+("Guaina bituminosa","Bituminous waterproofing membrane","involucro","Rotolo bitume+polimero armato con finitura ardesiata o liscia, applicato con fiamma ossidrica; vasi e risalti con guaine di testa e controfalla."),
+("Controfalla","Upstand / counter-flashing","involucro","Rialzo di 15-20 cm della guaina lungo risalti, parapetti e tamponamenti per impedire il riflusso dell'acqua; detto anche fianco o alza."),
+("Coibentazione","Thermal insulation (lagging)","involucro","Termine generico per l'isolamento termico/acustico di superfici opache e impianti; dalla 'coibenza' = capacita' di mantenere il calore."),
+# --- Impianti: idraulica ed elettrica
+("Impianto idrico-sanitario","Plumbing and drainage system","impianti","Insieme delle reti di adduzione acqua fredda/calda e scarico acque reflue: tubazioni, raccordi, apparecchiature, con distanziamenti e scarichi a norma UNI EN 12056."),
+("Sifone","Trap (plumbing)","impianti","Curva idraulica sotto lavelli e apparecchi che trattiene un sigillo d'acqua impedendo i cattivi odori; in Italia si usa prevalentemente il sifone a bottiglia ispezionabile."),
+("Collettore","Manifold / header","impianti","Distribuzione centralizzata dei collegamenti idraulici o elettrici con derivazioni singole ispezionabili; tipici i collettori idraulici sanitari (vie d'acqua)."),
+("Tubi in multistrato","Multilayer composite pipe (MLCP)","impianti","Tubo a sandwich PE-X/alluminio/PE-X fuso insieme, pieghevile e tenuto in forma; unisce la flessibilita' della plastica alla barriera all'ossigeno e alla bassa dilatazione del metallo."),
+("Tubo corrugato","Corrugated conduit / flexible duct","impianti","Tubo flessibile a spirale per protezione dei cavi elettrici (corrugato sotto intonaco) o per canalizzazione aria (condotte flessibili in ventilazione)."),
+("Quadro elettrico","Electrical distribution board","impianti","Contenitore con interruttore generale, magnetotermici di protezione dalle sovracorrenti e differenziali (salvavita 30 mA); ripartizione dei circuiti per zone e carichi."),
+("Impianto di messa a terra","Earthing / grounding system","impianti","Conduttore di protezione e dispersore che portano le tensioni di guasto verso terra, attivando i differenziali; requisito di sicurezza fondamentale (CEI 64-8)."),
+("Cavidotto","Cable tray / trunking","impianti","Canale metallica o in PVC per il passaggio dei cavi elettrici, con coperchio; distinguibili le canaline (sotto traccia) e le scale portacavi (impianti industriali)."),
+("Colonna montante","Riser (plumbing/electrical)","impianti","Condotta o cavidotto verticale che distribuisce acqua, gas, energia o scarichi ai piani di un edificio, con sfiato in testa e rubinetti di intercettazione a piano."),
+("Caldaia a condensazione","Condensing boiler","impianti","Generatore di calore a gas che recupera il calore latente dei fumi (rendimento 90-109%); rimossa dagli incentivi Conto Termico 3.0 ma restante ampiamente installata."),
+("Scaldabagno a pompa di calore","Heat pump water heater (HPWH)","impianti","Produzione di acqua calda sanitaria con pompa di calore estrattiva (COP 2,5-3,5), anche ibrida con resistenza; incentivate dal Conto Termico 3.0."),
+("Ripartitore di calore","Heat cost allocator","impianti","Contabilizzatore di calore per radiatori che misura i consumi per singola unita' immobiliare in condominio, base della contabilizzazione del calore obbligatoria."),
+# --- Termini UK/US diffusi nei software e nei progetti
+("Screed","Massetto","finiture","UK: strato di regolarizzazione in calcestruzzo o malta sopra il solaio; negli USA il termine corrispondente piu' vicino e' 'concrete floor topping'."),
+("Rebar","Armatura / tondino","strutture","US: reinforcing bar, barra d'acciaio corrugata per il cemento armato; diametri in numero (rebar #4 = 12,7 mm)."),
+("Formwork","Cassaforma / cassero","cantiere","Inglese comune (UK/US) per le casseforme; include casseforme a telaio, a tunnel e casseri a perdere."),
+("Footing","Plinth / strip foundation","strutture","US: fondazione superficiale a plinti o a nastro sotto i muri; il termine UK corrispondente e' 'strip foundation' o 'pad foundation'."),
+("Slab","Platea / soletta","strutture","US: lastra orizzontale di calcestruzzo (platea di fondazione o soletta di pavimento); 'slab-on-grade' = platea isolata su terreno."),
+("Joist","Travetto / putrella secondaria","strutture","US: elemento secondario orizzontale che sostiene pavimenti e solai, in legno o acciaio; equivalente del travetto italiano."),
+("Stud","Montante in legno","strutture","US: montante verticale in legno o metallo della parete a telaio leggero (2x4 o 2x6 pollici) su cui fissare cartongesso e controsoffitti."),
+("Lintel","Architrave / cordolo di solaio","strutture","UK: trave orizzontale sopra un'apertura (porta, finestra) che sostiene il peso del muro sovrastante; in CA anche 'header'."),
+("Header","Cordolo / architrave (US)","strutture","US: elemento orizzontale di rinforzo sopra le aperture; nelle pareti a telaio il doppio montante in testa."),
+("Sill","Soglia (finestra/porta)","involucro","UK/US: soglia orizzontale inferiore di porta o finestra; in muratura il 'sill plate' e' la prima fila di legname ancorata alla fondazione."),
+("Flashing","Risalto / bavetta metallica","involucro","UK/US: lamiera sagomata (piombo, zinco, alluminio, rame) che sigilla gli incroci tra copertura e pareti, camini, lucernari."),
+("Damp proof course (DPC)","Barriera antiumidita' di taglio","involucro","UK: strato impermeabile (bitume, plastica) interposto tra fondazione e muro per risalita capillare; l'equivalente US e' 'dampproofing'."),
+("French drain","Tubo di drenaggio forato","geotecnica","UK/US: tubo forato in ghiainia per intercettare e convogliare le acque di falda lontano dalle fondazioni; detto anche 'drain tile' o 'weeping tile'."),
+("Gutter / downspout","Grondaia / pluviale","involucro","US: grondaia (gutter) e pluviale di scolo (downspout); nel Regno Unito anche 'rainwater goods'."),
+("Manhole","Pozzetto ispezione","impianti","UK/US: camera di ispezione della rete fognaria con coperchio carrabile; in Italia 'pozzetto a tenuta' o 'pozzetto ispezione'."),
+("Cleanout","Pozzetto risciacquo / ispezione","impianti","US: punto di ispezione e spurgo della fognatura con tappo filettato; base della manutenzione delle reti DN<600."),
+("Ballcock / float valve","Galleggiante (rubinetto a)","impianti","UK/US: valvola a galleggiante che regola il livello di riempimento di cisterne e vasi; oggi sostituita dalle valvole a rubinetto silenziose."),
+("Breaker box","Quadro elettrico (US)","impianti","US: quadro di distribuzione con interruttori (breakers); corrispondente del 'consumer unit' UK e del 'quadro elettrico' italiano."),
+("HVAC","Climatizzazione e ventilazione (impianti meccanici)","impianti","Acronimo US di Heating, Ventilation and Air Conditioning: l'insieme degli impianti meccanici di climatizzazione e ventilazione degli edifici."),
+("Drywall","Cartongesso / lastra in gesso","finiture","US: parete in lastre di gesso rivestito (gypsum board) su telaio leggero; il sistema completo e' il 'drywall system' (parete a secco)."),
+("Stud finder","Rilevatore di montanti","cantiere","US: strumento elettronico o magnetico che individua i montanti, i travetti e le tubazioni dietro i rivestimenti, indispensabile prima di forare pareti."),
+("Wheelbarrow","Carrucola / carriola","cantiere","Strumento da cantiere con cassa, ruota e manici per trasportare calcestruzzo, malta e materiali in sacchi."),
+("Spirit level / laser level","Livella a bolla / livella laser","cantiere","Strumenti di misura della verticalita' e orizzontalita': la livella a bolla tradizionale e la livella laser rotante per cantieri e spianamenti."),
+("Cherry picker / scissor lift","Piattaforma aerea / pantografo","cantiere","Piattaforme di lavoro elevabili per facciate e impianti: braccio telescopico (cherry picker, boom lift) o pantografo (scissor lift)."),
+# --- Sicurezza e organizzazione di cantiere
+("Piano di sicurezza e coordinamento (PSC)","Site safety and coordination plan","sicurezza","Documento del coordinatore sicurezza in fase di progettazione (CSP) che individua rischi, misure e dispositivi di sicurezza del cantiere, obbligatorio per appalti superiori a 3 mesi-lavoratore."),
+("Piano operativo di sicurezza (POS)","Safety operational plan","sicurezza","Documento dell'appaltatore che sviluppa le misure del PSC per le proprie lavorazioni, con DUVRI per i rischi da interferenze."),
+("DUVRI","Interference risk assessment document","sicurezza","Documento unico di valutazione dei rischi da interferenze tra le imprese presenti in cantiere, redatto dal committente o dal datore dei lavori (art. 26 D.Lgs 81/2008)."),
+("Ponteggio","Scaffolding","cantiere","Struttura provvisoria in tubi e giunti per lavori in quota su facciate; tipi: a tubi e giunti, a telai, a sbalzo; montaggio e smontaggio da personale qualificato con progetto per ponteggi complessi."),
+("Parapetto","Guardrail / edge protection","sicurezza","Protezione collettiva anti-caduta su bordi, aperture e scale: corrimano intermedio e basetta, resistente agli urti, seconda misura di sicurezza in ordine di preferenza dopo l'eliminazione del rischio."),
+("DPI","Personal protective equipment (PPE)","sicurezza","Dispositivi di protezione individuale: casco, scarpe antinfortunistiche, guanti, occhiali, imbracatura di sicurezza, DPI III categoria per rischi mortali."),
+("Tettoia di cantiere","Site welfare facilities","cantiere","Locale di prima assistenza, spogliatoi, servizi igienici e mensa richiesti in ogni cantiere dal D.Lgs 81/2008 in funzione del numero di lavoratori."),
+]
+
+with open(OUT, "w", encoding="utf-8") as f:
+    for it, en, dom, defin in TERMS:
+        rec = {
+            "termine_it": it, "termine_en": en, "dominio": dom, "definizione": defin,
+            "source": "glossario_curato_kimi",
+            "license": "Sintesi originale Kimi (pubblico dominio)",
+            "commercial_ok": True,
+            "attribution": "Glossario tecnico edilizia IT-EN, sintesi originale redatta da Kimi su normativa italiana e prassi di cantiere",
+            "url": "",
+        }
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+print("scritti", len(TERMS), "termini curati ->", OUT)

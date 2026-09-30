@@ -1,0 +1,1283 @@
+[
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Holophane Light and Vision Institute (illuminazione tecnica rifrazione vetro)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/TheHolophaneLightAndVisionInstitute"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Eye Comfort Lighting System - illuminazione scientifica di uffici e banche",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/TheEyeComfortLightingSystemTheScientificIlluminationOfOfficesBanks_439"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "UFC 3-600-01 - Fire Protection Engineering for Facilities",
+    "records": 36,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/DTIC_ADA442216"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "UFC 4-171-05 - Army Reserve Facilities",
+    "records": 80,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/DTIC_ADA530875"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Cost Savings Using Stirrup Reinforcement Instead of Standard Reinforcement",
+    "records": 5,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/DTIC_ADA531892"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "The Architect's and Builder's Pocket-Book (il 'prezzario' americano d'epoca: costi, quantita', dettagli costruttivi, formule)",
+    "records": 797,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/buildearchitects00kiddrich"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Strength of Materials (resistenza dei materiali: tensione, deformazione, travi, colonne)",
+    "records": 44,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/strengthofmateri00merriala"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "American Sewerage Practice, Vol. I (fognature e depurazione - il classico)",
+    "records": 231,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/americansewerag00eddygoog"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Foundations and Earth Structures - Design Manual DM 7.2 (progettazione di fondazioni, pali, paratie)",
+    "records": 60,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/DTIC_ADA123637"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Soil Mechanics, Foundations and Earth Structures (NAVFAC DM-7.1) - meccanica del terreno, portanza, spinte, stabilizzazione (757k caratteri)",
+    "records": 124,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/soilmechanicsfou00unit"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "NEETS - Navy Electricity and Electronics Training Series (sintesi 1992): materia, elettronica, circuiti",
+    "records": 58,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/navaleducationandtrainingprogrammanagementsupportactivity_navyelectricityandelectronicstrainin_1992"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "NEETS Modulo 1 - Matter, Energy, and Direct Current (elettricita' DC)",
+    "records": 69,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/NEETSModule01"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "NEETS Modulo 2 - Batteries and Battery Charging",
+    "records": 64,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/NEETSModule02"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "NEETS Modulo 3 - Alternating Current (corrente alternata)",
+    "records": 53,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/NEETSModule03"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "NEETS Modulo 4 - Transformers and Voltage Regulation",
+    "records": 42,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/NEETSModule04"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "The Improvement of Towns and Cities (igiene urbana e pianificazione)",
+    "records": 93,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/improvementoftow00robi"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "SCS National Engineering Handbook (sezione 1968) - ingegneria del suolo e delle acque",
+    "records": 26,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/CAT71334647013"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "SCS National Engineering Handbook (sezione 1971) - ingegneria del suolo e delle acque",
+    "records": 87,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/CAT71334647020"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Collected Papers on Acoustics (fondatore dell'acustica architettonica: tempo di riverbero, assorbimento, criteri progettuali)",
+    "records": 91,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/collectedpapers00sabigoog"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Steelworker 1 & C (NAVPERS 10564-A) - carpenteria metallica navale/edilizia",
+    "records": 45,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/Steelworker1andC10564A"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Materials Testing (TM 5-530/NAVFAC MO-330) - prove su cemento, acciaio, terreno, bitumi",
+    "records": 120,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/armytm5530navyna003564mbp"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Town Planning in Practice (urbanistica operativa - il classico)",
+    "records": 85,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/town-planning-in-practice"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Bridge Engineering (trattato completo di ingegneria dei ponti)",
+    "records": 357,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/bridgeengineeri01waddgoog"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Concrete Manual - A Manual for the Control of Concrete Construction (8th ed.)",
+    "records": 235,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/concretemanualma00unit"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Design of Small Dams (1st ed.)",
+    "records": 328,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/designofsmalldam00unit"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Builder 3 & 2 (NAVEDTRA 14040) - carpenteria, muratura, calcestruzzo, finiture, impalcature",
+    "records": 295,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/micro_IA41153740_0391"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Engineering Aid 3 & 2, Vol. 2 (NAVEDTRA 10628) - rilievo, disegno tecnico, materiali",
+    "records": 75,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/micro_IA41155138_0887"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Steelworker Volume 1 - strutture metalliche, carpenteria, saldatura",
+    "records": 107,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/steelworker1"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Steelworker Volume 2 - carpenteria metallica avanzata",
+    "records": 145,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/steelworker2"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Utilitiesman 1 (NAVEDTRA 14265) - impianti idraulici, riscaldamento, sanitari",
+    "records": 178,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/utilitiesmani024854mbp"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Utilitiesman 2 - impianti idraulici e sanitari",
+    "records": 120,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/utilitiesmanii024855mbp"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Utilitiesman 3 - impianti idraulici, gas, aria compressa",
+    "records": 168,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/utilitiesmaniii024856mbp"
+  },
+  {
+    "file": "parsed/manuali_us_gov.jsonl",
+    "doc": "Wood Handbook - Wood as an Engineering Material (FPL-GTR-190)",
+    "records": 377,
+    "license": "Public domain (US Gov)",
+    "url": "https://archive.org/details/wood-handbook"
+  },
+  {
+    "file": "parsed/ecfr_osha_1926.jsonl",
+    "doc": "29 CFR 1926 OSHA Construction",
+    "records": 607,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.ecfr.gov/current/title-29/part-1926"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 9 aprile 2008 n. 81 - Testo Unico Salute e Sicurezza sul Lavoro, ed. INL gennaio 2026 (testo coordinato, 1466 pp.)",
+    "records": 1123,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.ispettorato.gov.it/files/2026/01/TU-81-08-Ed.-Gennaio-2026.pdf"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.M. 17 gennaio 2018 - Norme Tecniche per le Costruzioni, testo completo G.U. (372 pp.)",
+    "records": 185,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.regione.toscana.it/documents/10180/24622703/DM+2018+NTC+GU.pdf"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "Circolare 21 gennaio 2019 n. 7 C.S.LL.PP. - Istruzioni per l'applicazione delle NTC 2018 (348 pp.)",
+    "records": 170,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.regione.toscana.it/documents/10180/24622703/Circ+2018+NTC+2019+GU.pdf"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "Ordinanza PCM 3274/2003 - Classificazione sismica e norme tecniche per le costruzioni in zona sismica (300 pp.)",
+    "records": 18,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.regione.toscana.it/documents/10180/11700802/ord_3274_2003.pdf"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "DPR 6 giugno 2001 n. 380 - Testo Unico in materia edilizia (testo vigente)",
+    "records": 46,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2001_0380.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 31 marzo 2023 n. 36 - Codice dei contratti pubblici (testo vigente)",
+    "records": 138,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2023_0036.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.M. 22 gennaio 2008 n. 37 - Regolamento attuazione art. 11 D.Lgs 81/08: attivita' di installazione degli impianti",
+    "records": 5,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2008_0037.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 22 gennaio 2004 n. 42 - Codice dei beni culturali e del paesaggio",
+    "records": 47,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2004_0042.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "Legge 9 gennaio 1991 n. 10 - Norme per l'attuazione del Piano energetico nazionale (ed. originale)",
+    "records": 2,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/1991_0010.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 3 aprile 2006 n. 152 - Norme in materia ambientale (Testo Unico Ambiente)",
+    "records": 260,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2006_0152.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.M. 20 febbraio 1968 n. 1444 - Limiti igienico-abitativi degli edifici",
+    "records": 3,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/1968_1444.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 3 marzo 2011 n. 28 - Attuazione direttiva 2009/28/CE sulle FER (art. 28: base del Conto Termico)",
+    "records": 28,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2011_0028.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 4 luglio 2014 n. 102 - Efficienza energetica, diagnosi energetiche, TEE (Certificati Bianchi)",
+    "records": 25,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2014_0102.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 19 agosto 2005 n. 192 - Certificazione energetica degli edifici (APE), recepimento direttiva EPBD",
+    "records": 16,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2005_0192.htm"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.Lgs 8 novembre 2021 n. 199 - Attuazione direttiva RED II: FER, autoconsumo, Comunita' Energetiche Rinnovabili (88 pp.)",
+    "records": 56,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.bosettiegatti.eu/info/norme/statali/2021_0199.pdf"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.L. 19 maggio 2020 n. 34 - Decreto Rilancio: Superbonus 110% (art. 119) e misure economiche, testo originale (326 pp.)",
+    "records": 174,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.lavoro.gov.it/documenti-e-norme/normative/Documents/2020/D-L-19-maggio-2020.pdf"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.M. 7 agosto 2025 - Conto Termico 3.0: incentivazione interventi di piccole dimensioni di efficienza energetica e produzione di calore da FER, testo articolato completo (GU n. 224 del 26-9-2025)",
+    "records": 25,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.gazzettaufficiale.it/eli/id/2025/09/26/25A05263/sg"
+  },
+  {
+    "file": "parsed/norme_italiane.jsonl",
+    "doc": "D.M. 26 giugno 2015 - Metodologie di calcolo delle prestazioni energetiche, requisiti minimi degli edifici, RTP e linee guida certificazione energetica, con allegati (112 pp., testo coordinato)",
+    "records": 47,
+    "license": "Atto pubblico italiano",
+    "url": "https://www.apelazio.enea.it/doc/dm_26062015.pdf"
+  },
+  {
+    "file": "parsed/ifc_bim_index.jsonl",
+    "doc": "Indice modelli IFC (6 edifici)",
+    "records": 6,
+    "license": "MIT",
+    "url": "https://github.com/andrewisen/bim-whale-ifc-samples"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "01 45 00.25 10",
+    "records": 5,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 01 33 00",
+    "records": 17,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 01 33 16.00 10",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 01 57 19",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 01 78 23",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 02 41 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 02 65 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 03 30 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 04 20 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 05 12 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 05 50 13",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 06 10 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 06 17 19",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 07 21 13",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 07 24 00",
+    "records": 12,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 07 84 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 07 92 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 08 11 13",
+    "records": 8,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 08 44 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 08 51 13",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 08 71 00",
+    "records": 13,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 09 22 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 09 29 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 09 51 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 09 68 00",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 09 90 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 10 28 13",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 14 21 13",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 21 13 13",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 22 14 29.00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 22 33 30",
+    "records": 29,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 05 15",
+    "records": 21,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 05 48.19",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 05 93",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 07 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 21 13.23 20",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 23 00",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 52 00.04",
+    "records": 40,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 52 00 Heating Boilers",
+    "records": 44,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 64 26",
+    "records": 24,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 81 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 23 82 00.00 20",
+    "records": 6,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 05 19.00 10",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 05 33",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 24 13",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 27 14.00 20",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 28 00.00 10",
+    "records": 30,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 41 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 26 51 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 31 00 00",
+    "records": 25,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 31 23 00.00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 32 12 16.16",
+    "records": 20,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 32 16 19",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 33 11 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 33 30 00",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 33 46 16",
+    "records": 0,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/ufgs_specs.jsonl",
+    "doc": "UFGS 34 11 00",
+    "records": 54,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "The Decoration of Houses",
+    "records": 73,
+    "license": "Public domain",
+    "url": "https://archive.org/details/decorationofhous00whar"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "The House in Good Taste",
+    "records": 58,
+    "license": "Public domain",
+    "url": "https://archive.org/details/houseingoodtaste00deworich"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "Hints on Household Taste",
+    "records": 69,
+    "license": "Public domain",
+    "url": "https://archive.org/details/hintsonhousehold00east_0"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "The Grammar of Ornament",
+    "records": 77,
+    "license": "Public domain",
+    "url": "https://archive.org/details/gri_33125008700086"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "The Seven Lamps of Architecture",
+    "records": 95,
+    "license": "Public domain",
+    "url": "https://archive.org/details/lampsofarchseven00ruskrich"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "Principles of Decorative Design",
+    "records": 69,
+    "license": "Public domain",
+    "url": "https://archive.org/details/principlesofdeco00dres"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "Vitruvius: The Ten Books on Architecture",
+    "records": 103,
+    "license": "Public domain",
+    "url": "https://archive.org/details/vitruviustenbook00vitruoft"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "Andrea Palladio's Architecture, in Four Books (ed. 1736, in inglese)",
+    "records": 85,
+    "license": "Public domain",
+    "url": "https://archive.org/details/andreapalladiosa00pall"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "I quattro libri dell'architettura (ed. 1590, in italiano)",
+    "records": 80,
+    "license": "Public domain",
+    "url": "https://archive.org/details/quattrolibridell00pall_202401"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "The Stones of Venice, Vol. II",
+    "records": 165,
+    "license": "Public domain",
+    "url": "https://archive.org/details/stonesofvenice22rusk"
+  },
+  {
+    "file": "parsed/design_estetica.jsonl",
+    "doc": "Radford's Cyclopedia of Construction, Vol. 1 - carpentry, building and architecture",
+    "records": 64,
+    "license": "Public domain",
+    "url": "https://archive.org/details/radfordscycloped01unse"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Lumber (WPU081)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU081"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Lumber and Wood Products (WPU08)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU08"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Cement, Hydraulic (WPU1322)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU1322"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Ready-Mix Concrete Manufacturing (PCU327320327320)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/PCU327320327320"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Iron and Steel (WPU101)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU101"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Copper and Brass Mill Shapes (WPU102502)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU102502"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Nonferrous Wire and Cable (WPU1026)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU1026"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Gypsum Products (WPU137)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU137"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Miscellaneous Chemical Products (WPU0679)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU0679"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Nonmetallic Mineral Products (WPU13)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU13"
+  },
+  {
+    "file": "parsed/materiali_prezzi.jsonl",
+    "doc": "PPI: Metal Containers (WPU103)",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": "https://fred.stlouisfed.org/series/WPU103"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "FEMA P-749 - Earthquake-Resistant Design Concepts (NEHRP Recommended Seismic Provisions)",
+    "records": 44,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.fema.gov/emergency-managers/risk-management/earthquake/seismic-building-codes"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "briefs",
+    "records": 1,
+    "license": "Public domain (US Gov)",
+    "url": ""
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief cleaning - nps_preservation-brief-01-cleaning-masonry",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief repointing - nps_preservation-brief-02-repointing",
+    "records": 18,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief energy - nps_preservation-brief-03-energy-efficiency",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief roofing - nps_preservation-brief-04-roofing",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief adobe - nps_preservation-brief-05-adobe",
+    "records": 11,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief abrasive - nps_preservation-brief-06-abrasive-cleaning",
+    "records": 11,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief terra - nps_preservation-brief-07-terra-cotta",
+    "records": 12,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief wood - nps_preservation-brief-09-wood-windows",
+    "records": 11,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief paint - nps_preservation-brief-10-paint-problems-exterior-woodwork",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief storefronts - nps_preservation-brief-11-storefronts",
+    "records": 13,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief structural - nps_preservation-brief-12-structural-glass",
+    "records": 8,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief steel - nps_preservation-brief-13-steel-windows",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief exterior - nps_preservation-brief-14-exterior-additions",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief concrete - nps_preservation-brief-15-concrete",
+    "records": 18,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief substitute - nps_preservation-brief-16-substitute-materials-2023",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief architectural - nps_preservation-brief-17-architectural-character",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief interiors - nps_preservation-brief-18-interiors",
+    "records": 8,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief wood - nps_preservation-brief-19-wood-shingle-roofs",
+    "records": 13,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief barns - nps_preservation-brief-20-barns",
+    "records": 10,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief flat - nps_preservation-brief-21-flat-plaster",
+    "records": 13,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief stucco - nps_preservation-brief-22-stucco",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief ornamental - nps_preservation-brief-23-ornamental-plaster",
+    "records": 11,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief heating - nps_preservation-brief-24-heating-cooling",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief signs - nps_preservation-brief-25-signs",
+    "records": 11,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief log - nps_preservation-brief-26-log-buildings",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief cast - nps_preservation-brief-27-cast-iron",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief painting - nps_preservation-brief-28-painting-interiors",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief slate - nps_preservation-brief-29-slate-roofs",
+    "records": 13,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief clay - nps_preservation-brief-30-clay-tile-roofs",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief mothballing - nps_preservation-brief-31-mothballing-buildings",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief accessibility - nps_preservation-brief-32-accessibility",
+    "records": 12,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief stained - nps_preservation-brief-33-stained-leaded-glass",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief composition - nps_preservation-brief-34-composition-ornament",
+    "records": 14,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief architectural - nps_preservation-brief-35-architectural-investigation",
+    "records": 11,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief cultural - nps_preservation-brief-36-cultural-landscapes",
+    "records": 18,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief graffiti - nps_preservation-brief-38-graffiti",
+    "records": 12,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief controlling - nps_preservation-brief-39-controlling-moisture",
+    "records": 15,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief ceramic - nps_preservation-brief-40-ceramic-tile-floors",
+    "records": 17,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief seismic - nps_preservation-brief-41-seismic-rehabilitation",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief cast - nps_preservation-brief-42-cast-stone",
+    "records": 9,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief historic - nps_preservation-brief-43-historic-structure-reports",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief awnings - nps_preservation-brief-44-awnings",
+    "records": 13,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief wood - nps_preservation-brief-45-wood-porches",
+    "records": 19,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief gas - nps_preservation-brief-46-gas-stations",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief exteriors - nps_preservation-brief-47-exteriors-small-medium-buildings",
+    "records": 16,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief grave - nps_preservation-brief-48-grave-markers",
+    "records": 20,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief metal - nps_preservation-brief-49-metal-ceilings-walls",
+    "records": 20,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief lightning - nps_preservation-brief-50-lightning-protection",
+    "records": 19,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+    "file": "parsed/reports_us_gov.jsonl",
+    "doc": "NPS Preservation Brief building - nps_preservation-brief-51-building-codes",
+    "records": 32,
+    "license": "Public domain (US Gov)",
+    "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  }
+]

@@ -8,3 +8,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 parsed/
+
+# Risposte esami riservate (fuori repository pubblica)
+ESAMI_RISPOSTE/

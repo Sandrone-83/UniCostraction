@@ -1,0 +1,7 @@
+corso: "Disegno tecnico e rappresentazione"
+facolta: "FACOLTA_GEOMETRI_PERITI"
+livello: "L1"
+schede: 14
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

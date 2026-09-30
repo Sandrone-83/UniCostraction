@@ -1,0 +1,364 @@
+{
+ "nota": "Audit licenze del materiale in Edilizia_Pack. Ogni voce riporta: fonte, licenza, uso commerciale consentito, attribuzione richiesta, URL di provenienza. Tutte le licenze elencate permettono l'uso commerciale e l'addestramento di modelli ML. I testi normativi italiani e i documenti del Governo federale USA sono privi di copyright (atti pubblici / public domain).",
+ "fonti": [
+  {
+   "id": "USGOV-MANUALS",
+   "descrizione": "30 manuali tecnici e testi di riferimento: US Navy (NEETS elettricità-elettronica moduli 1-4 + sintesi 1992, Utilitiesman idraulica x3, Builder carpenteria, Steelworker carpenteria metallica x3, Engineering Aid disegno), US Bureau of Reclamation (calcestruzzo, dighe), USDA (Wood Handbook + SCS National Engineering Handbook x2), US DoD UFC (antincendio, strutture), classici pre-1930 (Waddell ponti, Metcalf & Eddy fognature, Unwin e Robinson urbanistica, Sabine acustica architettonica, Merriman resistenza dei materiali, Kidder pocket-book estimatore/costi, cataloghi illuminazione d'epoca)",
+   "licenza": "Public domain (opere Governo federale USA: 17 U.S.C. § 105; opere private pre-1930)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/manuals_txt/*.txt -> parsed/manuali_us_gov.jsonl",
+   "url": "https://archive.org/"
+  },
+  {
+   "id": "OSHA-1926",
+   "descrizione": "29 CFR Part 1926 - Safety and Health Regulations for Construction (regolamento completo sicurezza cantieri USA)",
+   "licenza": "Public domain (regolamento Governo federale USA)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/ecfr/29CFR1926_construction.xml -> parsed/ecfr_osha_1926.jsonl",
+   "url": "https://www.ecfr.gov/current/title-29/part-1926"
+  },
+  {
+   "id": "IT-DLGS81",
+   "descrizione": "D.Lgs 81/2008 Testo Unico salute e sicurezza sul lavoro, edizione INL gennaio 2026, 1466 pagine (testo coordinato con note e allegati)",
+   "licenza": "CC BY-SA 4.0 (edizione INL) - testo normativo pubblico",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: 'INL - Ispettorato Nazionale del Lavoro, CC BY-SA 4.0'",
+   "file": "raw/norme_it/DLgs_81_2008_INL_CC_BY_SA.txt -> parsed/norme_italiane.jsonl",
+   "url": "https://www.ispettorato.gov.it/files/2026/01/TU-81-08-Ed.-Gennaio-2026.pdf"
+  },
+  {
+   "id": "IT-NTC2018",
+   "descrizione": "Norme Tecniche per le Costruzioni D.M. 17/01/2018, testo completo (372 pp.)",
+   "licenza": "Atto pubblico italiano (art. 5 L.633/1941 - libera riproduzione)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/NTC2018_DM_completo.txt -> parsed/norme_italiane.jsonl",
+   "url": "https://www.regione.toscana.it/documents/10180/24622703/DM+2018+NTC+GU.pdf"
+  },
+  {
+   "id": "IT-CIRC7-2019",
+   "descrizione": "Circolare esplicativa NTC 21/01/2019 n. 7 C.S.LL.PP., testo completo (348 pp.)",
+   "licenza": "Atto pubblico italiano",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/NTC2018_Circolare_7_2019.txt -> parsed/norme_italiane.jsonl",
+   "url": "https://www.regione.toscana.it/documents/10180/24622703/Circ+2018+NTC+2019+GU.pdf"
+  },
+  {
+   "id": "IT-ORD3274",
+   "descrizione": "Ordinanza PCM 3274/2003 - classificazione sismica e norme tecniche zona sismica",
+   "licenza": "Atto pubblico italiano",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/Ordinanza_3274_2003_sismica.txt -> parsed/norme_italiane.jsonl",
+   "url": "https://www.regione.toscana.it/documents/10180/11700802/ord_3274_2003.pdf"
+  },
+  {
+   "id": "IT-DPR380",
+   "descrizione": "DPR 380/2001 Testo Unico edilizia (testo vigente)",
+   "licenza": "Atto pubblico italiano",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/DPR_380_bosetti.htm -> parsed/norme_italiane.jsonl",
+   "url": "https://www.bosettiegatti.eu/info/norme/statali/2001_0380.htm"
+  },
+  {
+   "id": "IT-IMPANTI-AMBIENTE",
+   "descrizione": "Normativa italiana aggiuntiva: D.M. 37/08 (impianti - regolamento scarichi, installazione, manutenzione), D.Lgs 42/04 (Codice beni culturali e paesaggio - vincoli restauro), Legge 10/91 (direttive Piano energetico nazionale), D.Lgs 152/06 (Testo Unico Ambiente), D.M. 1444/68 (requisiti igienico-abitativi: altezze, superfici, aerazione)",
+   "licenza": "Atto pubblico italiano (art. 5 L.633/1941 - libera riproduzione)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/DM_37_2008_impianti.htm, DLgs_42_2004_beni_culturali.htm, Legge_10_1991.htm, DLgs_152_2006_ambiente.htm, DM_1444_1968_igiene_abitazioni.htm -> parsed/norme_italiane.jsonl",
+   "url": "https://www.bosettiegatti.eu/"
+  },
+  {
+   "id": "IT-DLGS36",
+   "descrizione": "D.Lgs 36/2023 Codice dei contratti pubblici (testo vigente)",
+   "licenza": "Atto pubblico italiano",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/DLgs_36_2023_appalti_bosetti.htm -> parsed/norme_italiane.jsonl",
+   "url": "https://www.bosettiegatti.eu/info/norme/statali/2023_0036.htm"
+  },
+  {
+   "id": "WIKI-EN-IT",
+   "descrizione": "Voci Wikipedia (en + it): strutture, materiali, geotecnica, impianti, gestione cantiere, infrastrutture + 2° giro (fetch_wiki_materiale_design.py): domotica/smart home (KNX, BACnet, Zigbee, Matter, MQTT, BMS), materiali da costruzione (legno ingegnerizzato, laterizi, pietre, vetri, metalli, isolanti, finiture), estetica/design/architettura (teoria del colore, stili, proporzione, designers), comfort/vivibilità, economia dei prezzi",
+   "licenza": "CC BY-SA 4.0",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: per-voce nel campo 'attribution' di ogni record",
+   "file": "parsed/wiki_construction/wiki_en.jsonl, wiki_it.jsonl",
+   "url": "https://wikipedia.org",
+   "nota": "corpus estendibile: rieseguire i due script fetch_wiki_*.py (riprendono da dove hanno lasciato); alcune voci saltate per throttling Wikimedia"
+  },
+  {
+   "id": "CLASSICI-DESIGN",
+   "descrizione": "11 trattati classici di architettura/design/estetica/home building (public domain): Vitruvio (De architectura), Palladio (I quattro libri, ed. 1590 in italiano + ed. 1736 in inglese), Owen Jones (Grammar of Ornament), Ruskin (Seven Lamps + Stones of Venice), Dresser (Principles of Decorative Design), Wharton & Codman (Decoration of Houses), de Wolfe (House in Good Taste), Eastlake (Hints on Household Taste), Radford's Cyclopedia of Construction vol. 1 (carpentry/building, 1915)",
+   "licenza": "Public domain (pubblicati prima del 1930, scan archive.org)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/design_classics/*.txt -> parsed/design_estetica.jsonl",
+   "url": "https://archive.org/"
+  },
+  {
+   "id": "FRED-PRICES",
+   "descrizione": "11 serie storiche mensili PPI (Producer Price Index) sui materiali da costruzione USA 1926-2026: legname, cemento, calcestruzzo preconfezionato, acciaio, rame, cavi, gesso, prodotti chimici, minerali non metallici — per dare al LLM l'occhio ai prezzi e ai cicli di mercato",
+   "licenza": "Public domain (dati BLS / Governo federale USA via FRED St. Louis Fed)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/prezzi_fred/*.csv -> parsed/materiali_prezzi.jsonl",
+   "url": "https://fred.stlouisfed.org/"
+  },
+  {
+   "id": "USGOV-UFGS",
+   "descrizione": "57 specifiche edilizie UFGS (Unified Facilities Guide Specifications, formato CSI/MasterFormat) su tutte le divisioni: gestione cantiere, demolizione, calcestruzzo, muratura, acciaio, legno, coperture, serramenti, finiture, ascensori, antincendio sprinkler, idraulica, HVAC (centrali, chiller, unita' terminali, generatori), elettrico (protezioni, generatori, fulmini, scaricatori), movimento terra, pavimentazioni, reti, ferroviario",
+   "licenza": "Public domain (opera del Governo federale USA)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/ufgs_specs/txt/*.txt -> parsed/ufgs_specs.jsonl",
+   "url": "https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications"
+  },
+  {
+   "id": "USGOV-REPORTS",
+   "descrizione": "49 rapporti tecnici federali USA: 48 NPS Preservation Briefs (restauro, riabilitazione e manutenzione di edifici storici: muratura, coperture, serramenti, stucchi, intonaci, ferro, accessibilità, umidità, antisismica, codici edilizi) + FEMA P-749 Earthquake-Resistant Design Concepts (concetti di progettazione sismica NEHRP)",
+   "licenza": "Public domain (opera del Governo federale USA)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/us_gov_pdf/*.txt -> parsed/reports_us_gov.jsonl",
+   "url": "https://www.nps.gov/orgs/1739/preservation-briefs.htm"
+  },
+  {
+   "id": "IFC-MIT",
+   "descrizione": "6 modelli BIM IFC di edifici: SimpleWall, ManySimpleWalls, TallBuilding, LargeBuilding, BasicHouse, AdvancedProject",
+   "licenza": "MIT",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: copyright (c) andrewisen - testo licenza in parsed/IFC_SAMPLES_LICENSE_MIT.txt",
+   "file": "raw/bim_ifc/ifc_models/*.ifc -> parsed/ifc_bim_index.jsonl",
+   "url": "https://github.com/andrewisen/bim-whale-ifc-samples"
+  },
+  {
+   "id": "IT-INCENTIVI-NORME",
+   "descrizione": "Normativa italiana su incentivi ed energia: D.Lgs 28/2011 (FER, base Conto Termico), D.Lgs 102/2014 (efficienza energetica, TEE/Certificati Bianchi), D.Lgs 192/2005 (certificazione energetica APE), D.Lgs 199/2021 (RED II, CER, autoconsumo), D.L. 34/2020 (Decreto Rilancio, Superbonus 110%), D.M. 7 agosto 2025 (Conto Termico 3.0, testo articolato completo da Gazzetta Ufficiale)",
+   "licenza": "Atto pubblico italiano (libera riproduzione - art. 5 L.633/1941)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/DLgs_28_2011_FER.htm, DLgs_102_2014_EE_TEE.htm, DLgs_192_2005_APE.htm, DLgs_199_2021_CER.txt, DL_34_2020_rilancio.txt, DM_7_8_2025_ContoTermico3.txt -> parsed/norme_italiane.jsonl",
+   "url": "https://www.gazzettaufficiale.it/eli/id/2025/09/26/25A05263/sg"
+  },
+  {
+   "id": "WIKI-INCENTIVI",
+   "descrizione": "167 voci Wikipedia (66 IT + 101 EN) su Conto Termico, bonus edilizi, detrazioni, efficienza energetica, pompe di calore, solare termico, FER, mercato elettrico, CER/autoconsumo, ESCO, fotovoltaico, accumuli, wallbox",
+   "licenza": "CC BY-SA 4.0",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: nome voce + 'Wikipedia, CC BY-SA 4.0' (campo attribution gia' valorizzato in ogni record)",
+   "file": "parsed/wiki_incentivi/wiki_it.jsonl, wiki_en.jsonl",
+   "url": "https://it.wikipedia.org/wiki/Conto_termico"
+  },
+  {
+   "id": "CONTO-TERMICO-3-SINTESI",
+   "descrizione": "14 schede tecniche redatte da Kimi sul Conto Termico 3.0 e gli incentivi energetici italiani: inquadramento, beneficiari, interventi, percentuali e massimali, iter PortalTermico, catalogo apparecchi prequalificati, cumulabilita', transizioni 2.0-3.0, requisiti tecnici, confronto 2.0 vs 3.0, cronologia, mappa incentivi, CER/autoconsumo",
+   "licenza": "Pubblico dominio (atto pubblico) + sintesi originale",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "parsed/conto_termico_3_0.jsonl",
+   "url": "https://www.gazzettaufficiale.it/eli/id/2025/09/26/25A05263/sg"
+  },
+  {
+   "id": "WIKI-ENGINEERING",
+   "descrizione": "472 voci Wikipedia (211 IT + 261 EN) su ingegneria strutturale, geotecnica, infrastrutture, impianti meccanici/idraulici/antincendio, rilievo e topografia, BIM/CAD/digitale, sostenibilita' e certificazione (LEED, BREEAM, ITACA), gestione progetto, appalti, diritto immobiliare, estimo e finanza",
+   "licenza": "CC BY-SA 4.0",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si: nome voce + 'Wikipedia, CC BY-SA 4.0' (campo attribution gia' valorizzato)",
+   "file": "parsed/wiki_engineering/wiki_it.jsonl, wiki_en.jsonl",
+   "url": "https://it.wikipedia.org/wiki/Scienza_delle_costruzioni"
+  },
+  {
+   "id": "NAVFAC-GEOTECH",
+   "descrizione": "3 manuali di progettazione US Navy/US Army: NAVFAC DM-7.1 Soil Mechanics (meccanica del terreno, 1971), NAVFAC DM 7.2 Foundations and Earth Structures (progettazione fondazioni, 1982), TM 5-530/NAVFAC MO-330 Materials Testing (prove materiali, 1971)",
+   "licenza": "Public domain (opera del Governo federale USA)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no (consigliata)",
+   "file": "raw/manuals_txt/NAVFAC_DM7_SoilMechanics_1971.txt, NAVFAC_DM7-2_Foundations_1982.txt, TM5-530_MaterialsTesting.txt -> parsed/manuali_us_gov.jsonl",
+   "url": "https://archive.org/details/soilmechanicsfou00unit"
+  },
+  {
+   "id": "DM-2015-REQUISITI-MINIMI",
+   "descrizione": "D.M. 26 giugno 2015: metodologie di calcolo delle prestazioni energetiche, requisiti minimi degli edifici (trasmittanze, EPgl, NZEB), schema relazione tecnica di progetto, linee guida certificazione energetica, con allegati (112 pp., testo coordinato ENEA)",
+   "licenza": "Atto pubblico italiano (libera riproduzione - art. 5 L.633/1941)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "no",
+   "file": "raw/norme_it/DM_26_6_2015_requisiti_minimi.txt -> parsed/norme_italiane.jsonl",
+   "url": "https://www.apelazio.enea.it/doc/dm_26062015.pdf"
+  },
+  {
+   "id": "GLOSSARIO-BILINGUE",
+   "descrizione": "Glossario tecnico edilizia IT-EN: 505 coppie di termini dai collegamenti interlinguistici Wikipedia delle voci del corpus (con definizione di contesto) + 82 schede curate su pratiche, contabilita', dettagli costruttivi e sinonimi UK/US (screed, rebar, formwork, footing, stud, lintel, flashing, HVAC, drywall...)",
+   "licenza": "CC BY-SA 4.0 (coppie Wikipedia) + sintesi originale Kimi (schede curate)",
+   "uso_commerciale": true,
+   "attribuzione_richiesta": "si per le coppie Wikipedia (campo attribution valorizzato); no per le schede curate",
+   "file": "parsed/glossario_bilingue.jsonl (505), parsed/glossario_curato_kimi.jsonl (82)",
+   "url": "https://it.wikipedia.org/"
+  },
+  {
+   "id": "ESEMPI-CALCOLO",
+   "descrizione": "34 esercizi di calcolo svolti passo-passo (strutture in c.a./muratura, termofisica edilizia, impianti idraulici-meccanici-elettrici, acustica, geotecnica, rilievo e topografia, estimo/economia di cantiere, misure e computi)",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/esempi_calcolo_svolti.jsonl",
+   "url": ""
+  },
+  {
+   "id": "QUIZ-TECNICI",
+   "descrizione": "Banca di 100 quiz tecnici con risposta commentata (strutture 15, termofisica 15, impianti idraulici 8, impianti meccanici 8, elettrico 8, acustica 5, geotecnica 5, rilievo 5, estimo 7, cantiere e sicurezza 7, normativa italiana 10, materiali 7); livelli base/intermedio/avanzato",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/quiz_tecnici_100.jsonl",
+   "url": ""
+  },
+  {
+   "id": "DOC-TECNICI",
+   "descrizione": "10 modelli di documenti tecnici edilizi con testo completo: relazione strutturale, relazione energetica, capitolato speciale, computo metrico, PSC, lettera di incarico, preventivo impresa, pratica SCIA, verbale di collaudo, SAL/contabilita",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/documenti_tecnici.jsonl",
+   "url": ""
+  },
+  {
+   "id": "FAQ-CLIENTE",
+   "descrizione": "80 FAQ clienti privati con risposta da professionista (ampliamenti, bonus, confini, pratiche, costi, ristrutturazione, catasto, condominio, manutenzione, sicurezza antisismica)",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/faq_cliente_80.jsonl",
+   "url": ""
+  },
+  {
+   "id": "RESTAURO-PATOLOGIE",
+   "descrizione": "9 schede: teoria del restauro (Viollet-le-Duc, Boito, Brandi, Carte internazionali), D.Lgs 42/2004, patologie da umidita' e strutturali, materiali storici, tecniche di consolidamento, restauro legno/coperture, architettura rurale",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/restauro_patologie.jsonl",
+   "url": ""
+  },
+  {
+   "id": "SISTEMI-COSTRUTTIVI",
+   "descrizione": "11 schede: timber frame, platform frame, CLT, steel stud, terra cruda, case di paglia, costruzioni passive, tetti nordici, edilizia giapponese, costruzioni metalliche, costruzione modulare",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/sistemi_costruttivi.jsonl",
+   "url": ""
+  },
+  {
+   "id": "IMPRESA-APPALTI",
+   "descrizione": "10 schede: costituzione impresa, certificazioni SOA/ISO, contratto di appalto privato, gare pubbliche D.Lgs 36/2023, gestione personale CCNL/DURC, sicurezza organizzativa, assicurazioni, contabilita' e cash flow, costi di costruzione per tipologia, sviluppo commerciale",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/impresa_appalti.jsonl",
+   "url": ""
+  },
+  {
+   "id": "ANTINCENDIO",
+   "descrizione": "8 schede: quadro normativo (D.M. 3/8/2015), resistenza al fuoco REI e compartimentazione, vie di fuga, scenari di incendio, rivelazione/allarme, spegnimento, gestione emergenza, materiali e finiture",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/antincendio.jsonl",
+   "url": ""
+  },
+  {
+   "id": "INFRASTRUTTURE",
+   "descrizione": "8 schede: ponti tipologie e azioni, calcestruzzo precompresso, strade, ferrovie, dighe, opere marittime, tunnel",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/infrastrutture.jsonl",
+   "url": ""
+  },
+  {
+   "id": "LEZIONI-FALLIMENTI",
+   "descrizione": "6 schede: crollo Morandi 2018, Aquila vs Norcia, crollo balconi, alluvioni, collassi in cantiere, errori di progettazione piu' costosi",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/lezioni_fallimenti.jsonl",
+   "url": ""
+  },
+  {
+   "id": "EDILIZIA-AVANZATA",
+   "descrizione": "16 schede: impianti speciali (piscine, cucine professionali, sale server, acque, ascensori, ricarica EV, domotica, gas) e strutture avanzate (grattacieli, vento/comfort, isolatori, smorzatori, pushover/time-history, grandi luci, strutture speciali, composite)",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/edilizia_avanzata.jsonl",
+   "url": ""
+  },
+  {
+   "id": "BIM-URBANISTICA",
+   "descrizione": "14 schede: metodologia BIM, IFC/openBIM, scan-to-BIM/GIS/digital twin, computo BIM 4D/5D, BIM in cantiere, contratti/EPC, facility management + piani territoriali, progetto quartiere/paese, reti urbane, standard edilizi, mobilita, paesaggio, rigenerazione",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/bim_urbanistica.jsonl",
+   "url": ""
+  },
+  {
+   "id": "TECNICA-SPECIALISTICA",
+   "descrizione": "12 schede: facciate ventilate/BIPV, condensa Glaser, simulazione energetica dinamica, consolidamento terreni (micropali, jet grouting, muri sostegno), calcestruzzi speciali (SCC, UHPC, FRC, bio-based), certificazioni green (LEED/BREEAM/ITACA/LCA), microzonazione sismica, dissipatori, ingegneria antincendio (FSE/CFD/evacuazione), idraulica urbana sostenibile (LID/SUDS), impianti avanzati (VRF, geotermia, distretti termici), ricostruzione post-sisma (C.A.S.E., MAP)",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/tecnica_specialistica.jsonl",
+   "url": ""
+  },
+  {
+   "id": "METODO-CANTIERE",
+   "descrizione": "8 schede: lean construction (takt time, last planner), procurement e logistica, megaprogetti e program management, claim e ADR, gestione qualita' e collaudo, sicurezza cantiere avanzata, manutenzione patrimonio, EPC/ESCo",
+   "licenza": "Sintesi didattica originale Kimi (pubblico dominio)",
+   "uso_commerciale": true,
+   "file": "parsed/metodo_cantiere.jsonl",
+   "url": ""
+  }
+ ],
+ "fonti_escluse_per_licenza": [
+  {
+   "nome": "Eurocodici EN 1990-1999",
+   "motivo": "copyright CEN; testo non libero - citabili solo come riferimento nelle NTC (che le richiamano)"
+  },
+  {
+   "nome": "Codici IBC/IRC/ICC (USA)",
+   "motivo": "copyright ICC"
+  },
+  {
+   "nome": "UNI/EN norme tecniche",
+   "motivo": "copyright UNI/CEN"
+  },
+  {
+   "nome": "RSMeans / BCIS / DEI prezzari",
+   "motivo": "copyright commerciale"
+  },
+  {
+   "nome": "Engineering LibreTexts / MIT OCW / NPTEL",
+   "motivo": "CC BY-NC-SA - esclude uso commerciale"
+  },
+  {
+   "nome": "RUB Floorplan Dataset",
+   "motivo": "licenza accademica non verificata per uso commerciale"
+  },
+  {
+   "nome": "Documentazione Home Assistant (home-assistant.io)",
+   "motivo": "CC BY-NC-SA 4.0 - verificato su LICENSE.md del repo: esclude uso commerciale"
+  },
+  {
+   "nome": "Documentazione ESPHome (esphome-docs)",
+   "motivo": "CC BY-NC-SA 4.0 - verificato su LICENSE.md del repo: esclude uso commerciale"
+  },
+  {
+   "nome": "openHAB docs / zigbee2mqtt.io",
+   "motivo": "non verificate - escluse per precauzione; la domotica è coperta dalle voci Wikipedia CC BY-SA"
+  }
+ ],
+ "prossimi_ampliamenti": [
+  "Completamento corpus Wikipedia (ri-lanciare i due fetch_wiki_*.py fino a mancanti: 0)",
+  "Ulteriori sezioni UFGS (catalogo completo: 1.582 sezioni in discovery/wbdg_all.json)",
+  "FEMA P-749 Earthquake-Resistant Design Concepts (public domain): https://www.fema.gov",
+  "USACE Engineering Manuals (public domain): https://publications.usace.army.mil",
+  "Dataset BIM open: IFC-Specification test cases buildingSMART (verificare licenza)",
+  "Radford's Cyclopedia of Construction / Carpenter and Builder (public domain, archive.org) per home building storico",
+  "Altri trattati public domain: Palladio (I quattro libri), Laugier, Durand, Ruskin Stones of Venice, Dresser Studies in Design",
+  "Serie FRED aggiornate mensilmente (script ri-lanciabile) per prezzi materiali sempre freschi"
+ ]
+}
