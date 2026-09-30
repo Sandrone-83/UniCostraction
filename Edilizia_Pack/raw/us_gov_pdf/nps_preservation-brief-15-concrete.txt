@@ -1,0 +1,1320 @@
+15 
+PRESERVATION 
+BRIEFS 
+Preservation of Historic Concrete 
+Paul Gaudette and Deborah Slaton 
+National Park Service 
+U.S. Department of the Interior 
+Introduction to Historic Concrete 
+Concrete is an extraordinarily versatile building material 
+used for utilitarian, ornamental, and monumental 
+structures since ancient times. Composed of a mixture 
+of sand, gravel, crushed stone, or other coarse material, 
+bound together with lime or cement, concrete undergoes 
+a chemical reaction and hardens when water is added. 
+Inserting reinforcement adds tensile strength to 
+structural concrete elements. The use of reinforcement 
+contributes significantly to the range and size of 
+building and structure types that can be constructed 
+with concrete. 
+While early twentieth century proponents of modern 
+concrete often considered it to be permanent, it is, 
+like all materials, subject to deterioration. This Brief 
+provides an overview of the history of concrete and 
+its popularization in the United States, surveys the 
+principal causes and modes of concrete deterioration, 
+and outlines approaches to repair and protection that 
+are appropriate to historic concrete. In the context of this 
+Brief, historic concrete is considered to be concrete used 
+in construction of structures of historical, architectural, 
+or engineering interest, whether those structures are old 
+or relatively new. 
+Brief History of Use and Manufacture 
+The ancient Romans found that a mixture of lime putty 
+and pozzolana, a fine volcanic ash, would harden 
+under water. The resulting hydraulic cement became 
+a major feature of Roman building practice, and was 
+used in many buildings and engineering projects 
+such as bridges and aqueducts. Concrete technology 
+was kept alive during the Middle Ages in Spain and 
+Africa. The Spanish introduced a form of concrete to 
+the New World in the first decades of the sixteenth 
+century, referred to as "tapia" or "tabby." This material, 
+a mixture of lime, sand, and shell or stone aggregate 
+mixed with water, was placed between wooden forms, 
+tamped, and allowed to dry in successive layers. Tabby 
+was later used by the English settlers in the coastal 
+southeastern United States. 
+The early history of concrete was fragmented, 
+with developments in materials and construction 
+techniques occurring on different continents and in 
+various countries. In the United States, concrete was 
+slow in achieving widespread acceptance in building 
+construction and did not begin to gain popularity until 
+the late nineteenth century. 
+It was more readily accepted 
+for use in transportation and infrastructure systems. 
+The Erie Canal in New York is an example of the 
+early use of concrete in transportation in the United 
+States . The natural hydraulic cement used in the canal 
+construction was processed from a deposit of limestone 
+found in 1818 near Chittenango, southeast of Syracuse. 
+The use of concrete in residential construction was 
+Figure 1. The Sebastopol House in Seguin, Texas, is an 1856 Greek 
+Revival-style house constructed of lime concrete. Lime concrete 
+or "limecrete" was a popular construction material, as it could be 
+made inexpensively from local materials. By 1900, the town had 
+approximately ninety limecrete structures, twenty of which remain. 
+Photo: Texas Parks and Wildlife Department. 
+1 
+
+Figure 2. Chatterton House was the home of the post trader at Fort 
+Fred Steel in Wyoming, one of several forts established in the 1860s 
+to protect the Union Pacific Railroad. The walls of the post trader's 
+house were built using stone aggregate and lime, without cement. 
+The use of this material presents special preservation challenges. 
+2 
+publicized in the second edition of Orson S. Fowler's A 
+Home for All (1853) which described the advantages of 
+"gravel wall" construction to a wide audience. The town 
+of Seguin, Texas, thirty-five miles east of San Antonio, 
+already had a number of concrete buildings by the 1850s 
+and came to be called "The Mother of Concrete Cities," 
+with approximately ninety concrete buildings made 
+from local "lime water" and gravel (Fig. 1). 
+Impressed by the economic advantages of poured gravel 
+wall or "lime-grout" construction, the Quartermaster 
+General's Office of the War Department embarked on a 
+campaign to improve the quality of building for frontier 
+military posts. As a result, lime-grout structures were 
+constructed at several western posts soon after the Civil 
+War, including Fort Fred Steele and Fort Laramie, both 
+in Wyoming (Fig. 2). By the 1880s, sufficient experience 
+had been gained with unreinforced concrete to permit 
+construction of much larger buildings. A notable 
+example from this period is the Ponce de Leon Hotel in 
+St. Augustine, Florida. 
+Figure 3. The Lincoln Highway Association promoted construction of 
+a high quality continuous hard surface roadway across the country. 
+The Boys Scouts of America installed concrete road markers along the 
+Lincoln Highway in 1928. 
+Extensive construction in concrete also occurred through 
+the system of coastal fortifications commissioned by the 
+federal government in the 1890s for the Atlantic, Pacific, 
+and Gulf coasts. Unlike most concrete construction 
+to that time, the special requirements of coastal 
+fortifications called for concrete walls as much as 20 feet 
+thick, often at sites that were difficult to access. Major 
+structures in the coastal defenses of the 1890s were built 
+of mass concrete with no internal reinforcing, a practice 
+that was replaced by the use of reinforcing bars in 
+fortifications constructed after about 1905. 
+The use of reinforced concrete in the United States dates 
+from 1860, when S.T. Fowler obtained a patent for a 
+reinforced concrete wall. In the early 1870s, William E. 
+Ward built his own house in Port Chester, New York, 
+using concrete reinforced with iron rods for all structural 
+elements. Despite these developments, such construction 
+remained a novelty until after 1880, when innovations 
+introduced by Ernest L. Ransome made the use of 
+reinforced concrete more practicable. Ransome made 
+many contributions to the development of concrete 
+construction technology, including the use of twisted 
+reinforcing bars to improve bond between the concrete 
+and the steel, which he patented in 1884. Two years later, 
+Ransome introduced the rotary kiln to United States 
+cement production. The new kiln had greater capacity 
+and burned more thoroughly and uniformly, allowing 
+development of a less expensive, more uniform, and 
+more reliable manufactured cement. Improvements in 
+concrete production initiated by Ransom led to a much 
+greater acceptance of concrete after 1900. 
+The Lincoln Highway Association, incorporated in 
+1913, promoted the use of concrete in construction of a 
+coast-to-coast roadway system. The goal of the Lincoln 
+Highway Association and highway advocate Henry 
+B. Joy was to educate the country in the need for good 
+roads made of concrete, with an improved Lincoln 
+Figure 4. The highly ornamental concrete panels on the exterior 
+facade of the Baha'i House of Worship in Wilmette, Illinois, illustrate 
+the work of fabricator John ]. Earley, known as "the man who made 
+concrete beautiful." 
+
+Figure 5. Following World War II, architects and engineers took 
+advantage of improvements in concrete production, quality control, 
+and advances in precast concrete to design structures such as the Police 
+Headquarters building in Philadelphia, Pennsylvania, constructed in 
+1961. Photo: Courtesy of the Philadelphia Police Department. 
+Highway as an example. Concrete "seedling miles" 
+were constructed in remote areas to emphasize the 
+superiority of concrete over unimproved dirt. The 
+Association believed that as people learned about 
+concrete, they would press the government to construct 
+good roads throughout their states . Americans' 
+enthusiasm for good roads led to the involvement 
+of the federal government in road-building and the 
+creation of numbered U.S. routes in the 1920s (Fig. 3). 
+During the early twentieth century, Ernest Ransome 
+in Beverly, Massachusetts, Albert Kahn in Detroit, and 
+Richard E. Schmidt in Chicago, promoted concrete 
+for use in "Factory Style" utilitarian buildings with 
+an exposed concrete frame infilled with expanses 
+of glass. Thomas Edison's cast-in-place reinforced 
+concrete homes in Union Township, New Jersey 
+(1908), proclaimed a similarly functional emphasis 
+in residential construction. From the 1920s onward, 
+concrete began to be used with spectacular design 
+results: examples include John J. Earley's Meridian 
+Hill Park in Washington, D.C.; Louis Bourgeois' 
+exuberant, graceful Baha'i Temple in Wilmette, Illinois 
+(1920-1953), for which Earley fabricated the concrete 
+(Fig. 4); and Frank Lloyd Wright's Fallingwater 
+near Bear Run, Pennsylvania (1934). Continuing 
+improvements in quality control and development 
+of innovative fabrication processes, such as the 
+Shockbeton method for precast concrete, provided 
+increasing opportunities for architects and engineers. 
+Wright's Guggenheim Museum in New York City 
+(1959); Geddes Brecher Qualls 
+& Cunningham's Police 
+Headquarters building in Philadelphia, Pennsylvania 
+(1961); and Eero Saarinen's soaring terminal building at 
+Dulles International Airport outside Washington, D.C., 
+and the TWA terminal at Kennedy Airport in New 
+York (1962), exemplify the masterful use of concrete 
+achieved in the modern era (Fig. 5). 
+Figure 6. The Bailey Magnet School in Jackson, Mississippi, was 
+designed as the Jackson Junior High School by the firm of N. W. 
+Overstreet & Town in 1936. The streamlined building exemplifies the 
+applicability of concrete to creating a modern architectural aesthetic. 
+Photo: Bill Burris, Burris/Wagnon Architects, P.A. 
+Figure 7. Detailed bas reliefs as well as sculptures, such as this lion at 
+the Bailey Magnet School, could be used as ornamentation on concrete 
+buildings. Sculptural concrete elements were typically cast in molds. 
+Throughout the twentieth century, a wide range of 
+architectural and engineering structures were built using 
+concrete as a practical and cost-effective choice-and 
+concrete also became valued for its aesthetic qualities. 
+Cast in place and precast concrete were readily adapted 
+to the Streamlined Moderne style, as exemplified by the 
+Bailey Magnet School in Jackson, Mississippi, designed 
+as the Jackson Junior High School by N.W. Overstreet 
+& Town in 1936 (Figs. 6 and 7) . The school is one of 
+many concrete buildings designed and constructed 
+under the auspices of the Public Works Administration. 
+Recreational structures and landscape features also 
+utilized the structural range and unique character of 
+exposed concrete to advantage, as seen in Chicago's 
+Lincoln Park Chess Pavilion, designed by Morris 
+Webster in 1956 (Fig. 8), and the Ira C. Keller Fountain 
+in Portland Oregon, designed by Lawrence Halprin in 
+1969 (Fig. 9). Concrete was also popular for building 
+interiors, with ornamental features and exposed 
+structural elements recognized as part of the design 
+aesthetic (See Figs. 10 and 11 in sidebar). 
+3 
+
+4 
+The expanded use of concrete provided new opportunities to 
+create dramatic spaces and ornate architectural detail on the 
+interiors of buildings, at a significant cost savings over traditional 
+construction practices. The architectural design of the Berkeley 
+City Club in Berkeley, California, expressed Moorish and Gothic 
+elements in concrete on the interior of the building (Fig. 10). Used 
+as a woman's social club, the building was designed by noted 
+California architect Julia Morgan and constructed in 1929. The 
+vaulted ceilings, columns, and ornamental capitals of the lobby 
+and the ornamental arches and beamed ceiling of the "plunge" are 
+all constructed of concrete. 
+Historic Interiors 
+Figure 10. The Berkeley City Club has significant interior spaces and features of 
+concrete construction, including the lobby and pool. Photos: Una Gilmartin (left) 
+and Brian Kehoe (right), Wiss, Janney, Elstner Associates, Inc. 
+The historic character of a building's interior can also be conveyed 
+in a more utilitarian manner in terms of concrete features and 
+finishes (Fig. 11). The exposed concrete structure-columns, 
+capitals, and drop panels-is an integral part of the character 
+of this old commercial building in Minneapolis. 
+In concrete 
+warehouse and factory buildings of the early twentieth century, 
+exposed concrete columns and formboard finish concrete slab 
+ceilings are common features as seen in this warehouse, now 
+converted for use as a parking garage and shops. 
+Figure 11. Whether in a circa 1925 office (left) or in a parking garage 
+and retail facility (right), exposed concrete structures help characterize 
+these building interiors. Photo: Minnesota Historical Society (left). 
+Concrete Characteristics 
+Concrete is composed of fine (sand) and 
+coarse (crushed stone or gravel) aggregates 
+and paste made of portland cement and water. 
+The predominant material in terms of bulk is 
+the aggregate. Portland cement is the binder 
+most commonly used in modern concrete. It 
+is commercially manufactured by blending 
+limestone or chalk with clays that contain 
+alumina, silica, lime, iron oxide and magnesia, 
+and heating the compounds together to high 
+temperatures. The hydration process that 
+occurs between the portland cement and water 
+results in formation of an alkali paste that 
+surrounds and binds the aggregate together as 
+a solid mass. 
+The quality of the concrete is dependent on 
+the ratio of water to the binder; binder content; 
+sound, durable, and well-graded aggregates; 
+compaction during placement; and proper 
+curing. The amount of water used in the mix 
+affects the concrete permeability and strength. 
+The use of excess water beyond that required 
+in the hydration process results in more 
+permeable concrete, which is more susceptible 
+to weathering and deterioration. Admixtures 
+are commonly added to concrete to adjust 
+concrete properties such as setting or hardening 
+time, requirements for water, workability, and 
+other characteristics. For example, the advent 
+of air entraining agents in the 1930s provided 
+enhanced durability for concrete. 
+During the twentieth century, there was 
+a steady rise in the strength of ordinary 
+concrete as chemical processes became better 
+understood and quality control measures 
+improved. In addition, the need to protect 
+embedded reinforcement against corrosion 
+was acknowledged. Requirements for concrete 
+cover over reinforcing steel, increased cement 
+content, decreased water-cement ratio, and air 
+entrainment all contributed to greater concrete 
+strength and improved durability. 
+Mechanisms and Modes of 
+Deterioration 
+Causes of Deterioration 
+Concrete deterioration occurs primarily because 
+of corrosion of the embedded steel, degradation 
+of the concrete itself, use of improper techniques 
+or materials in construction, or structural 
+problems. The causes of concrete deterioration 
+must be understood in order to select an 
+appropriate repair and protection system. 
+
+Figure 8. The Chess Pavilion in Chicago's Lincoln Park 
+was designed by architect Morris Webster and constructed 
+in 1956. The pavilion is a distinctive landscape feature, 
+with its reinforced concrete cantilevered slab that provides 
+cover for chess players. 
+Figure 9. The Ira C. Keller Fountain in Portland, Oregon, 
+was designed by Lawre11ce Halprin and constructed in 
+1969. The fountain is constructed primarily of concrete 
+pillars with formboard textures and surrounding elements, 
+patterned with geometric lines, which facilitate the path 
+of water. Photo: Anita Washko, Wiss, Janney, Elstner 
+Associates, Inc. 
+While reinforcing steel has played a pivotal role in 
+expanding the applications of concrete in twentieth 
+century architecture, corrosion of this steel has also 
+caused deterioration in many historic structures. 
+Reinforcing steel embedded in the concrete is normally 
+surrounded by a passivating 
+oxide layer that, when present, 
+protects the steel from corrosion 
+and aids in bonding the 
+steel and concrete. When the 
+concrete's normal alkaline 
+environment (above a pH 
+of 10) is compromised and 
+the steel is exposed to water, 
+water vapor, or high relative 
+humidity, corrosion of the 
+steel reinforcing takes place. A 
+reduction in alkalinity results 
+from carbonation, a process that 
+occurs when the carbon dioxide 
+in the atmosphere reacts with 
+calcium hydroxide and moisture 
+in the concrete. Carbonation 
+starts at the concrete 's exposed 
+surface but may extend to the 
+reinforcing steel over time. 
+When carbonation reaches 
+the metal reinforcement, the 
+concrete no longer protects the 
+steel from corrosion. 
+Corra ion of embedded 
+reinforcing steel may be 
+initiated and accelerated 
+if 
+calcium chloride was added to 
+the concrete as a set accelerator 
+during original construction 
+to promote more rapid curing. 
+It may also take place if the 
+concrete is later exposed to 
+deicing salts, as may occur 
+during the winter in northern 
+climates. Seawater or other 
+marine environments can 
+also provide large amounts 
+of chloride, either from 
+inadequately washed original aggregate or from 
+exposure of the concrete to seawater. 
+Corros ion-related damage to reinforced concrete is 
+the result of rust, a product of the corrosion process of 
+steel, which expands and thus requires more space in 
+the concrete than the steel did at the time of installation . 
+This change in volume of the steel results in expansive 
+forces, which cause cracking and spalling of the 
+adjacent concrete (Fig. 12). Other signs of corrosion of 
+embedded steel include delamination of the concrete 
+(planar separations parallel to the surface) and rust 
+staining ( often a precursor to spalling) on the concrete 
+near the steel. 
+Lack of proper maintenance of building elements 
+such as roofs and drainage systems can contribute to 
+water-related deterioration of the adjacent concrete, 
+particularly when concrete is saturated with water 
+and then exposed to freezing temperatures. As water 
+within the concrete freezes, it 
+expands and exerts forces on 
+the adjacent concrete. Repeated 
+freezing and thawing can result 
+in the concrete cracking and 
+delaminating. Such damage 
+appears as surface degradation, 
+including severe scaling and 
+micro-cracking that extends 
+into the concrete. The condition 
+is most often observed near 
+the surface of the concrete but 
+can also eventually occur deep 
+within the concrete. This type 
+of deterioration is usually most 
+severe at joints, architectural 
+details, and other areas with 
+more surface exposure to 
+weather. 
+In the second half of 
+the twentieth century, concrete 
+has utilized entrained air (the 
+incorporation of microscopic 
+air bubbles) to provide 
+enhanced protection against 
+damage due to cyclic freezing 
+of saturated concrete. 
+The use of certain aggregates 
+can also result in deterioration 
+of the concrete. Alkali­
+aggregate reactions-in some 
+cases alkali-silica reaction 
+(ASR)-occur when alkalis 
+normally present in cement 
+react with certain aggregates, 
+leading to the development of 
+an expansive crystalline gel. 
+When this gel is exposed to 
+moisture, it expands and causes 
+cracking of the aggregate and 
+concrete matrix. Deleterious 
+aggregates are typically found only in certain areas of 
+the country and can be detected through analysis by an 
+experienced petrographer. Low-alkali cements as well 
+as fly ash are used today in new construction to prevent 
+such reactions where this problem may occur . 
+Problems Specifically Encountered with 
+Historic Concrete 
+Materials and workmanship used in the construction 
+of historic concrete structures, particularly those built 
+before the First World War, sometimes present potential 
+sources of problems. For example, where the aggregate 
+consisted of cinder from burned coal or crushed brick, 
+5 
+
+6 
+the concrete tends to be weak and porous 
+because these aggregates absorb water. Some of 
+these aggregates can be extremely susceptible 
+to deterioration when exposed to moisture 
+and cyclic freezing and thawing. Concrete 
+was sometimes compromised by inclusion of 
+seawater or beach sand that was not thoroughly 
+washed with fresh water, a condition more 
+common with coastal fortifications built prior to 
+1900. The sodium chloride present in seawater 
+and beach sand accelerates the rate of corrosion 
+of the reinforced concrete. 
+Another problem encountered with historic 
+concrete is related to poor consolidation of the 
+concrete during its placement in forms, or in molds in the case 
+of precasting. This problem is especially prevalent in highly 
+ornamental units. Early twentieth century concrete was often 
+tamped or rodded into place, similar to techniques used in 
+forming cast stone. Poorly consolidated concrete often contains 
+voids ("bugholes" or "honeycombs"), which can reduce the 
+protective concrete cover over the embedded reinforcing 
+bars, entrap water, and, 
+if sufficiently large and strategically 
+numerous, reduce localized concrete strength. Vibration 
+technology has improved over time and flowability agents are 
+also used today to address this problem. 
+A common type of deterioration observed in concrete is the 
+effect of weathering from exposure to wind, rain, snow, and 
+salt water or spray. Weathering appears as erosion of the 
+cement paste, a condition more prevalent in northern regions 
+where precipitation can be highly acidic. This results in the 
+exposure of the aggregate particles on the exposed concrete 
+surface. Variations may occur in the aggregate exposure due 
+to differential erosion or dissolution of exposed cement paste. 
+Erosion can also be caused by the mechanical action of water 
+channeled over concrete, such as by the lack of drip grooves in 
+belt courses and sills, and by inadequate drainage. 
+In addition, 
+high-pressure water when used for cleaning can also erode the 
+concrete surface. 
+In concrete structures built prior to the First World War, 
+concrete was often placed into forms in relatively short 
+vertical lifts due to limitations in lifting and pouring 
+techniques available at the time. Joints between different 
+concrete placements (often termed cold joints or lift lines) may 
+sometimes be considered an important part of the character of 
+a concrete element (Fig. 13). However, wide joints may permit 
+water to infiltrate the concrete, resulting in more rapid paste 
+erosion or freeze-thaw deterioration of adjacent concrete in 
+cold climates. 
+In the early twentieth century, concrete was sometimes placed 
+in several layers parallel to the exterior surface. A base concrete 
+was first created with formwork and then a more cement rich 
+mortar layer was applied to the exposed vertical face of the 
+Figure 12. The concrete lighthouse at the Kilauea Point 
+Light Station, Kilauea, Kauai, Hawaii, was constructed 
+circa 1913. The concrete, which was a good quality, high 
+strength mix for its day, is in good condition after almost 
+one hundred years in service. Deterioration in the form of 
+spa/ling related to corrosion of embedded reinforcing steel 
+has occurred primarily in areas of higher ornamentation 
+such as projecting bands and brackets (see close-up photo). 
+Figure 13. Fort Casey on Admiralty Head, Fort Casey, Washington, was 
+constructed in 1898. The lift lines from placement of concrete are clearly 
+visible on the exterior walls and characterize the finished appearance. 
+
+base concrete. The higher cement content in the facing 
+concrete provided a more water-resistant outer layer 
+and finished surface. The application of a cement-rich 
+top layer, referred to in some early concrete publications 
+as "waterproofing," was also used on top surfaces of 
+concrete walls, or as the top layer in sidewalks. With this 
+type of concrete construction, deterioration can occur 
+over time as a result of debonding between layers, and 
+can proceed very rapidly once the protective cement-rich 
+layer begins to break down. 
+It is common for historic concrete to have a highly 
+variable appearance, including color and finish texture. 
+Different levels of aggregate exposure due to paste 
+erosion are often found in exposed aggregate concrete. 
+This variability in the appearance of historic concrete 
+increases the level of difficulty in assessing and repairing 
+weathered concrete. 
+Signs of Distress and Deterioration 
+Characteristic signs of failure in concrete include 
+cracking, spalling, staining, and deflection. Cracking 
+occurs in most concrete but will vary in depth, width, 
+direction, pattern, and location, and can be either active 
+or dormant (inactive). Active cracks can widen, deepen, 
+or migrate through the concrete, while dormant cracks 
+remain relatively unchanged in size. Some dormant 
+cracks, such as those caused by early age shrinkage of 
+the concrete during curing, are not a structural concern 
+but when left unrepaired, can provide convenient 
+channels for moisture penetration and subsequent 
+damage. Random surface cracks, also called map cracks 
+due to their resemblance to lines on a map, are usually 
+related to early-age shrinkage but may also indicate 
+other types of deterioration such as alkali-silica reaction . 
+Structural cracks can be caused by temporary or 
+continued overloads, uneven foundation settling, seismic 
+forces, or original design inadequacies. Structural cracks 
+are active 
+if excessive loads are applied to a structure, if 
+the overload is continuing, or if settlement is ongoing. 
+These cracks are dormant if the temporary overloads 
+have been removed or 
+if differential settlement has 
+stabilized. Thermally-induced cracks result from 
+stresses produced by the expansion and contraction 
+of the concrete during temperature changes. These 
+cracks frequently occur at the ends or re-entrant corners 
+of older concrete structures that were built without 
+expansion joints to relieve such stress. 
+Spalling (the loss of surface material) is often associated 
+with freezing and thawing as well as cracking and 
+delamination of the concrete cover over embedded 
+reinforcing steel. Spalling occurs when reinforcing 
+bars corrode and the corrosion by-products expand, 
+creating high stresses on the adjacent concrete, which 
+cracks and is displaced. Spalling can also occur when 
+water absorbed by the concrete freezes and thaws (Fig . 
+14). 
+In addition, surface spalling or scaling may result 
+from the improper finishing, forming, or other surface 
+phenomena when water-rich cement paste (laitance) 
+rises to the surface. The resulting weak material is 
+vulnerable to spalling of thin layers, or scaling. In some 
+cases, spalling of the concrete can diminish the load­
+carrying capacity of the structure. 
+Deflection is the bending or sagging of structural beams, 
+joists, or slabs, and can be an indication of deficiencies in 
+the strength and structural soundness of concrete. This 
+condition can be produced by overloading, corrosion 
+of embedded reinforcing, or inadequate design or 
+construction, such as use of low-strength concrete or 
+undersized reinforcing bars. 
+Staining of the concrete surface can be related to soiling 
+from atmospheric pollutants or other contaminants, 
+dirt accumulation, and the presence of organic growth. 
+However, stains can also indicate more serious 
+underlying problems, such as corrosion of embedded 
+reinforcing steel, improper previous surface treatments, 
+alkali-aggregate reaction, or efflorescence, the deposition 
+of soluble salts on the surface of the concrete as a result 
+of water migration (Fig. 15). 
+Figures 14. Layers of architectural concrete that have debonded 
+(spa/led) from the surface were removed from a historic water tank 
+during the investigation performed to assess existing conditions. 
+Photos: Anita Washko, Wiss, Janney, Elstner Associates, Inc. 
+7 
+
+8 
+Planning for Concrete Preservation 
+The significance of a historic concrete building or 
+structure-including whether it is important for its 
+architectural or engineering design, for its materials 
+and construction techniques, or both -guides decision 
+making about repair and, if needed, replacement 
+methods. Determining the causes of deterioration is also 
+central to the development of a conservation and repair 
+plan. With historic concrete buildings, one of the more 
+difficult challenges is allowing for sufficient time during 
+the planning phase to analyze the concrete, develop 
+mixes, and provide time for adequate aging of mock-ups 
+for matching to the original concrete. 
+An understanding of the original construction 
+techniques ( cement characteristics, mix design, original 
+intent of assembly, type of placement, precast versus 
+cast in place, etc.) and previous repair work performed 
+on the concrete is important in determining causes 
+of existing deterioration and the susceptibility of the 
+structure to potential other types of deterioration . 
+For example, concrete placed in short lifts (individual 
+concrete placements) or constructed in precast segments 
+will have numerous joints that can provide entry points 
+for water infiltration. Inappropriate prior repairs, such 
+as installation of patches using an incompatible material, 
+can affect the future performance of the concrete. Such 
+prior repairs may require corrective work. 
+As with other preservation projects, three primary 
+approaches are usually considered for historic concrete 
+structures: 
+maintenance, repair, or replacement. 
+Maintenance and repair best achieve the preservation 
+goal of minimal intervention and the greatest retention 
+of existing historic fabric. However, where elements of 
+the building are severely deteriorated or where inherent 
+problems with the material lead to ongoing failures, 
+replacement may be necessary. 
+During planning, information is gathered through 
+research, visual survey, inspection openings, and 
+laboratory studies. The material should then be 
+reviewed by professionals experienced in concrete 
+deterioration to help evaluate the nature and causes of 
+the concrete problems, to assess both the short-term and 
+long-term effects of the deterioration, and to formulate 
+proper repair approaches. 
+Condition Assessment 
+A condition assessment of a concrete building or 
+structure should begin with a review of all available 
+documents related to original construction and prior 
+repairs. While plans and specifications for older 
+concrete buildings are not always available, they can 
+be an invaluable resource and every attempt should be 
+made to find them. They may provide information on 
+the composition of the concrete mix or on the type and 
+location of reinforcing bars. If available, documents 
+related to past repairs should also be reviewed to 
+Figure 15. Evidence of 
+moisture movement through
+concrete 
+is apparent 
+in the form of mineral 
+deposits on the concrete 
+surface. Cyclic freezing 
+and thawing of entrapped 
+moisture, and corrosion of 
+embedded reinforcement, 
+have also contributed to 
+deterioration of the concrete 
+column on this fence at 
+Crocker Field in Fitchburg, 
+Massachusetts, designed by 
+the Olmsted Brothers. 
+understand how the repairs were made and to help 
+evaluate their anticipated performance and service life. 
+Archival photographs can also provide a valuable source 
+of information about original construction. 
+A visual condition survey will help identify and 
+evaluate the extent, types, and patterns of distress 
+and deterioration. The American Concrete Institute 
+offers several useful guides on how to perform a visual 
+condition survey of concrete. Generally, the condition 
+assessment begins with an overall visual survey, 
+followed by a close-up investigation of representative 
+areas to obtain more detailed information about modes 
+of deterioration. 
+A number of nondestructive testing methods can be 
+used in the field to evaluate concealed conditions. Basic 
+techniques include sounding with a hand-held hammer 
+(or for horizontal surfaces, a chain) to help identify areas 
+of delamination. More sophisticated techniques include 
+impact-echo testing (Fig. 16), ground penetrating radar, 
+pulse velocity, and other methods that characterize 
+concrete thickness and locate voids or delaminations. 
+Magnetic detection instruments are used to locate 
+embedded reinforcing steel and can be calibrated to 
+identify the size and depth of reinforcement. Corrosion 
+measurements can be taken using copper-copper 
+sulfate half-cell tests or linear polarization techniques to 
+determine the probability or rate of active corrosion of 
+the reinforcing steel. 
+To further evaluate the condition of the concrete, 
+samples may be removed for laboratory study to 
+determine material components and composition, 
+and causes of deterioration. Samples need to be 
+representative of existing conditions but should be taken 
+from unobtrusive locations. Laboratory studies of the 
+concrete may include petrographic evaluation following 
+ASTM C856, 
+Practice for Petrographic Examination 
+of Hardened Concrete. Petrographic examination, 
+consisting of microscopical studies performed by a 
+geologist specializing in the evaluation of construction 
+materials, is performed to determine air content, water­
+cement ratio, cement content, and general aggregate 
+characteristics. Laboratory studies can also include 
+
+chemical analyses to determine chloride content, sulfate 
+content, and alkali levels of the concrete; identification 
+of deleterious aggregates; and determination of depth 
+of carbonation. Compressive strength studies can 
+be conducted to evaluate the strength of the existing 
+concrete and provide information for repair work. The 
+laboratory studies provide a general identification of 
+the original concrete's components and aggregates, 
+and evidence of damage due to various mechanisms 
+including cyclic freezing and thawing, alkali-aggregate 
+reactivity, or sulfate attack. Information gathered 
+through laboratory studies can also be used to help 
+develop a mix design for the repair concrete. 
+Figure 16. Impact echo testing is performed on a concrete structural 
+slab to help determine depth of deterioration. In this method, a short 
+pulse of energy is introduced into the structure and a transducer 
+mounted on the impacted surface of the structure receives the 
+reflected input waves or echoes. These waves are analyzed to help 
+identify flaws and deterioration within the concrete. 
+Cleaning 
+As with other historic structures, concrete structures are 
+cleaned for several reasons: to improve the appearance 
+of the concrete, as a cyclical maintenance measure, or 
+in preparation for repairs. Consideration should first be 
+given to whether the historic concrete structure needs to 
+be cleaned at all. If cleaning is required, then the gentlest 
+system that will be effective should be selected. 
+Three primary methods are used for cleaning concrete: 
+water methods, abrasive surface treatments, and 
+chemical surface treatments. Low-pressure water (less 
+than 200 psi) or steam cleaning can effectively remove 
+surface soiling from sound concrete ; however, care is 
+required on fragile or deteriorated surfaces. In addition, 
+water and steam methods are typically not effective in 
+removing staining or severe soiling. Power washing 
+with high-pressure water is sometimes used to clean or 
+remove coatings from sound, high-strength concrete, but 
+high-pressure water washing is generally damaging to 
+and not appropriate for concrete on historic structures. 
+When used with proper controls and at very low 
+pressures (typically 35 to 75 psi), microabrasive 
+surface treatments using very fine particulates, such 
+as dolomitic limestone powder, can sometimes clean 
+effectively. However, microabrasive cleaning may alter 
+the texture and surface reflectivity of concrete. Some 
+concrete can be damaged even by fine particulates 
+applied at very low pressures. 
+Chemical surface treatments can clean effectively 
+but may also alter the appearance of the concrete by 
+bleaching the concrete, removing the paste, etching 
+the aggregate, or otherwise altering the surface. 
+Detergent cleaners or mild, diluted acid cleaners may 
+be appropriate for removal of staining or severe soiling. 
+Cleaning products that contain strong acids such as 
+hydrochloric (muriatic) or hydrofluoric acid, which will 
+damage concrete and are harmful to persons, animals, 
+site features, and the environment, should not be used. 
+For any cleaning process, trial samples should be 
+performed prior to full-scale implementation. The 
+intent of the cleaning program should not be to return 
+the structure to a like new appearance. Concrete can 
+age gracefully, and as long as soiling is not severe or 
+deleterious, many structures can still be appreciated 
+without extensive cleaning. 
+Methods of Maintenance and Repair 
+The maintenance of historic concrete often is thought of 
+in terms of appropriate cleaning to remove unattractive 
+dirt or soiling materials. However, the implementation 
+of an overall maintenance plan for a historic structure is 
+the most effective way to help protect historic concrete. 
+For examples, the lack of maintenance to roofs and 
+drainage systems can promote water related damage 
+to adjacent concrete features. The repeated use of 
+deicing salts in winter climates can pit the surface of old 
+concrete and also may promote decay in embedded steel 
+reinforcements. Inadequate protection of concrete walls 
+adjacent to driveways and parking areas can result in the 
+need for repair work later on. 
+The maintenance of historic concrete involves the regular 
+inspection of concrete to establish baseline conditions 
+and identify needed repairs. Inspection tasks involve 
+monitoring protection systems, including sealant joints, 
+expansion joints, and protective coatings; reviewing 
+existing conditions for development of distress such as 
+cracking and delaminations; documenting conditions 
+observed; and developing and implementing a cyclical 
+repair program. 
+Sealants are an important part of maintenance of historic 
+concrete structures. Elastomeric sealants, which have 
+replaced traditional oil-resin based caulks for many 
+applications, are used to seal cracks and joints to keep 
+out moisture and reduce air infiltration. Sealants are 
+commonly used at windows and door perimeters, 
+at interfaces between concrete and other materials, 
+and at attachments to or through walls or roofs, such 
+as with lamps, signs, or exterior plumbing fixtures. 
+9 
+
+10 
+Figure 17. (a) The 63rd Street Beach House was constructed on the shoreline of Chicago in 1919. The highly exposed aggregate concrete of the 
+exterior walls of the beach house was used for many buildings in the Chicago parks as an alternative to more expensive stone construction. Photo: 
+Leslie Schwartz Photography. (b) Concrete deterioration included cracking, spa/ling, and delamination caused by corrosion of embedded reinforcing 
+steel and concrete damage due to cyclic freezing and thawing. (c) Various sizes and tt;pes of aggregates were reviewed for matching to the original 
+concrete materials. (d) Mock-ups of the concrete repair mix were prepared for comparison to the original concrete. Considerations included aggregate 
+type and size, cement color, proportions, aggregate exposure, and surface finish. (e) The craftsman finished the surface to replicate the original 
+appearance in a mock-up on the structure. Here, he used a nylon bristle brush to remove loose paste and expose the aggregate, creating a variable 
+surface to match the adjacent original concrete. 
+Where used for crack repairs on historic facades, the 
+finished appearance of the sealant application must 
+be considered, as it may be visually intrusive. In some 
+cases, sand can be broadcast onto the surface of the 
+sealant to help conceal the repair. 
+Urethane and polyurethane sealants are often used to 
+seal joints and cracks in concrete structures, paving, 
+and walkways; these sealants provide a service life of 
+up to ten years. High-performance silicone sealants 
+also are often used with concrete, as they provide a 
+range of movement capabilities and a service life of 
+twenty years or more. Some silicone sealants may stain 
+adjacent materials, which may be a problem with more 
+porous concrete, and may also tend to accumulate 
+dust and dirt. The effectiveness of sealants for sealing 
+joints and cracks depends on numerous factors 
+including proper surface preparation and application. 
+Sealants should be examined as part of routine 
+maintenance inspections, as these materials deteriorate 
+faster than their substrates and must be replaced 
+periodically as a part of cyclical maintenance. 
+Repair of historic concrete may be required to 
+address deterioration because the original design and 
+construction did not provide for long-term durability, 
+or to facilitate a change in use of the structure. 
+Examples include increasing concrete cover to protect 
+reinforcing steel and reducing water infiltration into the 
+structure by repair of joints. Any such improvements 
+must be thoroughly evaluated for compatibility with 
+the original design and appearance. Care is required in 
+all aspects of historic concrete repair, including surface 
+preparation; installation of formwork; development 
+of the concrete mix design; and concrete placement, 
+consolidation, and curing. 
+An appropriate repair program addresses existing 
+distress and reduces the rate of future deterioration, 
+which in many cases involves moisture-related issues. 
+The repair program should incorporate materials and 
+methods that are sympathetic to the existing materials 
+in character and appearance, and which provide good 
+long-term performance. 
+In addition, repair materials 
+should age and weather similarly to the original 
+materials. In order to best achieve these goals, concrete 
+repair projects should be divided into three phases: 
+development of trial repair procedures, trial repairs and 
+evaluation, and production repair work. 
+
+For any concrete repair project, the process of investigation, 
+laboratory analysis, trial samples, mock-ups, and full-scale 
+repairs allows ongoing refinement of the repair work as 
+well as implementation of quality-control measures. The 
+trial repair process provides an opportunity for the owner, 
+architect, engineer, and contractor to evaluate the concrete 
+mix design and the installation and finishing techniques for 
+the repairs from both technical and aesthetic standpoints. 
+The final repair materials and procedures should match 
+the original concrete in appearance while meeting the 
+established criteria for durability. Information gathered 
+through trial repairs and mock-ups is invaluable in refining 
+the construction documents prior to the start of the overall 
+repair project (Fig. 17). 
+Surface Preparation 
+In undertaking surface preparation for historic concrete 
+repair, care must be taken to limit removal of existing 
+material while still providing an appropriate substrate for 
+repairs. This is particularly important where ornamentation 
+and fine details are involved. Preparation for localized 
+repairs usually begins with removal of the loose concrete 
+to determine the general extent of the repair, followed by 
+saw-cutting the perimeter of the repair area. The repair area 
+should extend beyond the area of concrete deterioration 
+to a sufficient extent to provide a sound substrate. When 
+repairing concrete with an exposed aggregate or other 
+special surface texture, a sawcut edge may be too visually 
+evident. To hide the repair edge, techniques such as lightly 
+hand-chipping the edge of the patch may be used to 
+conceal the joint between the original concrete and the new 
+repair material. The depth to which the concrete needs to 
+be removed may be difficult to determine without invasive 
+probing in the repair area. Removal of concrete should 
+typically extend beyond the level of the reinforcing steel, if 
+present, so that the patch encapsulates the reinforcing steel, 
+which provides mechanical attachment for the repair. 
+If the concrete was originally of lower strength and quality, 
+the assessment of present soundness is more difficult. 
+Deteriorated and unsound concrete is typically removed 
+using pneumatic chipping hammers. Removal of concrete 
+in historic structures is better controlled by using smaller 
+chipping hammers or hand tools. The area of the concrete 
+to be repaired and the exposed reinforcing steel are 
+then cleaned, usually by careful sandblast and air blast 
+procedures applied only within the repair area. Adjacent 
+original concrete surfaces should be protected during this 
+work. 
+In some cases, project constraints such as dust control 
+may limit the ability to thoroughly clean the concrete and 
+steel. For example, it may be necessary to use needle scaling 
+(a small pneumatic impact device) and wire brushing 
+instead of sandblasting. 
+Supplemental steel may be needed when existing 
+reinforcing steel is severely deteriorated, or if reinforcing 
+steel is not present in repair areas. Exposed existing 
+reinforcing and other embedded steel elements can be 
+cleaned, primed, and painted with a corrosion-inhibiting 
+coating. The patching material should be reinforced 
+and mechanically attached to the existing concrete. 
+Reinforcement materials used in repairs most often 
+include mild steel, epoxy-coated steel, or stainless steel, 
+depending on existing conditions. 
+Formwork and Molds 
+Special formwork is needed to recreate ornamental 
+concrete features-which may be complex, in high 
+relief, or architecturally detailed-and to provide special 
+surface finishes such as wood form board textures. 
+Construction of the formwork itself requires particular 
+skill and craftsmanship. Reusable forms can be used for 
+concrete ornamentation that is repeated across a building 
+facade, or precast concrete elements may be used to 
+replace missing or unrepairable architectural features. 
+Formwork for ornamental concrete is often created using 
+a four-step process: a casting of the original concrete is 
+taken; a plaster replica of the unit is prepared; a mold or 
+form is made from the plaster replica; and a new concrete 
+unit is cast. Custom formwork and molds are often the 
+work of specialty companies, such as precasters and cast 
+stone fabricators. 
+The process of forming architectural features or special 
+surface textures is particularly challenging if early age 
+stripping (removal of formwork early in the concrete 
+curing process) is needed to perform surface treatment 
+on the concrete. Timing for formwork removal is related 
+to strength gain, which in turn is partly dependent on 
+temperature and weather conditions. Early age removal of 
+formwork in highly detailed concrete can lead to damage 
+of the new concrete that has not yet gained sufficient 
+strength through curing. 
+Selection of Repair Materials and Mix Design 
+Selection and design of proper repair materials is a 
+critical component of the repair project. This process 
+requires evaluation of the performance, characteristics, 
+and limitations of the repair materials, and may involve 
+laboratory testing of proposed materials and trial repairs. 
+The materials should be selected to address the specific 
+type of repair required and to be compatible with special 
+characteristics of the original concrete. Some modern 
+repair materials are designed to have a high compressive 
+strength and to be impermeable. Even though inherently 
+durable, these newer materials may not be appropriate for 
+use in repairing a low strength historic concrete. 
+The concrete's durability, or resistance to deterioration, 
+and the materials and methods selected for repair 
+depend on its composition, design, and quality of 
+workmanship. In most cases, a 
+mix design for durable 
+replacement concrete should use materials similar to 
+those of the original concrete mix. Prepackaged materials 
+are often not appropriate for repair of historic concrete. 
+The concrete patching material can be air entrained or 
+polymer-modified if subject to exterior exposure, and 
+should incorporate an appropriate selection of aggregate 
+and cement type, and proper water content and water 
+11 
+
+• • I \ \ I ·' • 
+~ , . , \ ,•'!' ·1\\ 
+... ,.· \:• .... <..,_~, ,·,··i "')·'·,·. ;·· q . l .. • ~~ I • ~ . •'· • . • , 
+. , ... \ ... j\ ·;.,♦ .. ;.,; .... ·• ,\' 
+. ~•. - ' f • I . • I, ' • l ' . \' . ,• • ) • 
+1· ·. '~ ;·• I ,. i \.: , ~ ' f , 
+12 
+to cement ratio. Some admixtures, including polymer modifiers, 
+may change the appearance of the concrete mix. Design of the 
+concrete patching material should address characteristics required 
+for durability, workability, strength gain, compressive strength, 
+and other performance attributes. During installation of the 
+repair, skilled workmanship is required to ensure proper mixing 
+procedures, placement, consolidation, and curing. 
+Figure 18. (a) Exposed aggregate precast concrete is 
+sounded with a hammer to detect areas of deterioration. 
+Corrosion of the exposed reinforcing steel bar has led to 
+spalling of the adjacent concrete. (b) Samples of aggregate 
+considered for use in repair concrete are compared to the 
+original concrete materials in terms of size, color, texture, 
+and reflectance. (c) Various sample panels are made using 
+the selected concrete repair mix design for comparison to 
+the original concrete on the building, and the mix design is 
+adjusted based on review of the samples. (d) After removal 
+of the spa/I, the concrete surface is prepared for installation 
+of a formed patch. (e) Prior to placement of the concrete, 
+a retarding agent is brush-applied to the inside face of the 
+formwork to slow curing at the surface. After the concrete 
+is partially cured, the forms are removed and the surface 
+of the concrete is rubbed to remove some of the paste and 
+expose the aggregate to match the original concrete. 
+Matching and Repair Techniques for Historic Concrete 
+Repair measures should be selected that retain as much of the 
+original material as possible, while providing for removal of an 
+adequate amount of deteriorated concrete to provide a sound 
+substrate for a durable repair. The installed repair must visually 
+match the existing concrete as closely as possible and should be 
+similar in other aspects such as compressive strength, permeability, 
+and other characteristics important in the mix design of the 
+concrete (Fig. 18). 
+Understanding the original construction techniques often provides 
+opportunities in the design of repairs. For example, joints between 
+the new and old concrete can be hidden in changes in surface 
+profile and cold joints. The required patching mix for the concrete 
+to be used in the repair will likely need to be specially designed 
+to replicate the appearance of the adjacent historic concrete. A 
+high level of craftsmanship is required for finishing of historic 
+concrete, in particular to create the sometimes inconsistent finish 
+and variation in the original concrete in contrast to the more even 
+appearance required for most non-historic repairs. 
+To match the various characteristics of the original concrete, trial 
+mixes should be developed. These mixes need to take into account 
+the types and colors of aggregates and paste present in the original 
+concrete. Different mixes may be needed because of variations 
+in the appearance and composition of the historic concrete. The 
+trials should utilize different forming and finishing techniques 
+to achieve the best possible match to the original concrete. Initial 
+trials should first take place on site but off the structure. The mix 
+designs providing the best match are then installed as trial repairs 
+on the structure, and assessed after they have cured. 
+Achieving compatibility between repair work and original 
+concrete may be difficult, especially given the variability often 
+present in historic concrete materials and finishes. Formed rather 
+than trowel-applied patch repairs are recommended for durability, 
+as forming permits better ranges of mix ingredients (such as coarse 
+aggregates) and improved consolidation as compared to trowel­
+applied repairs. Parge coatings usually are not recommended 
+as they do not provide as durable repair as formed concrete. 
+However, in some cases parge coatings may be appropriate to 
+match an original parged surface treatment. Proper placement 
+and finishing of the repair are important to obtain a match with 
+the original concrete. To minimize problems associated with rapid 
+curing of concrete, such as surface cracking, it is important to use 
+proper curing methods and to allow for sufficient time. 
+Hairline cracks that show no sign of increasing in size may often 
+be left unrepaired. The width of the crack and the amount of 
+movement usually limits the selection of crack repair techniques 
+that are available. Although it is difficult to determine whether 
+cracks are moving or non-moving, and therefore most cracks 
+
+should be assumed to be moving, it is possible to repair 
+non-moving cracks by installation of a cementitious 
+repair mortar matching the adjacent concrete. It is 
+generally desirable not to widen cracks prior to the mortar 
+application. Repair mortar containing sand in the mix may 
+be used for wider cracks; unsanded repair mortar may be 
+used for narrower cracks. 
+When it is desirable to re-establish the structural integrity 
+of a concrete structure involving dormant cracks, epoxy 
+injection repair has proven to be an effective procedure. 
+Such a repair is made by first sealing the crack on both sides 
+of a wall or structural member with epoxy, polyester, wax, 
+tape, or cement slurry, and then injecting epoxy through 
+small holes or ports drilled in the concrete. Once the epoxy 
+in the crack has hardened, the surface sealing material 
+may be removed; however, this type of repair is usually 
+quite apparent. Although it may be possible to inject epoxy 
+without leaving noticeable residue, this process is difficult 
+and, in general, the use of epoxy repairs in visible areas of 
+concrete on historic structures is not recommended . 
+Active structural cracks (which move as loads are 
+added or removed) and thermal cracks (which move as 
+temperatures fluctuate) must be repaired in a manner that 
+will accommodate the anticipated movement. In some more 
+extreme cases, expansion joints may have to be introduced 
+before crack repairs are undertaken. Active cracks may 
+be filled with sealants that will adhere to the sides of 
+the cracks and will compress or expand during crack 
+movement. The design, detailing, and execution of sealant 
+repairs require considerable attention, or they will detract 
+from the appearance of the historic building. The routing 
+and cleaning of a crack, and installation of an elastomeric 
+sealant to prevent water penetration, is used to address 
+cracks where movement is anticipated. However, unless 
+located in a concealed area of the concrete, this technique 
+is often not acceptable for historic structures because the 
+repair will be visually intrusive (Fig. 19). Other approaches, 
+such as installation of a cementitious crack repair, may need 
+to be considered even though this type of repair may be less 
+effective or have a shorter service life than a sealant repair. 
+Figure 19. A high-speed grinder ia used to widen a crack in 
+preparation for installation of a sealant. This process is called 
+"routing." After the crack is prepared, the sealant is installed to 
+prevent moisture infiltration through the crack. Although sealant 
+repairs can provide a durable, watertight repair for moving cracks, 
+they tend to be very visible. 
+Replacement 
+If specific components of historic concrete structures are 
+beyond repair, replacement components can be cast to 
+match historic ones. Replacement of original concrete 
+should be carefully considered and viewed as a method of 
+last resort. In some cases, such as for repeated ornamental 
+units, it may be more cost-effective to fabricate precast 
+concrete units to replace missing elements. The forms 
+created for precast or cast-in-place units can then be used 
+again during future repair projects. 
+Careful mix formulation, placement, and finishing are 
+required to ensure that replacement concrete units will 
+match the historic concrete. There is often a tendency to 
+make replacement concrete more consistent in appearance 
+than the original concrete. The consistency can be in 
+stark contrast with the variability of the original concrete 
+due to original construction techniques, architectural 
+design, or differential exposure to weather. Trial repairs 
+and mock-ups are used to evaluate the proposed 
+replacement concrete work and to refine construction 
+techniques (Fig 20). 
+Protection Systems 
+Coatings and Penetrating Sealers. Protection systems 
+such as a penetrating sealers or film forming coating 
+are often used with non-historic structures to protect 
+the concrete and increase the length of the service life 
+of concrete repairs. However, film-forming coatings 
+are often inappropriate for use on a historic structure, 
+unless the structure was coated historically. Film­
+forming coatings will often change the color and 
+appearance of a surface, and higher build coatings can 
+also mask architectural finishes and ornamental details. 
+For example, the application of a coating on concrete 
+having a formboard finish may hide the wood texture 
+of the surface. Pigmented film-forming coatings are 
+also typically not appropriate for use over exposed 
+aggregate concrete, where the uncoated exposed surface 
+contributes significantly to the historic character of 
+13 
+
+14 
+Figure 20. (a) The Jefferson Davis Memorial in Fairview, Kentucky, 
+constructed from 1917-1924, is 351 feet tall and constructed of 
+unreinforced concrete. The walls of the memorial are 8 feet thick at the 
+base and 2 feet thick at the top of the wall. Access to the monument 
+for investigation was provided by rappelling techniques, while ground 
+supported and suspended scaffolding was used to access the exterior during 
+repairs. (b) The concrete was severely deteriorated at isolated locations, with 
+spalling and damage from cyclic freezing and thawing of entrapped water. 
+In addition, previous repairs were at the end of their service life and removal 
+of deteriorated concrete and failed previous repairs was required. Light 
+duty chipping hammers were used to avoid damage to adjacent material 
+when removing deteriorated concrete to the level of sound concrete. (c) 
+Field samples were performed to match the color, finish, and texture of the 
+original concrete. A challenge in matching of historic concrete 
+is achieving 
+variabilitt; of appearance. (d) The completed surface after repairs exhibits 
+intentional variability of the concrete surface to match the appearance of 
+the original concrete. Some formwork imperfections that would normally be 
+removed by finishing were intentionally left in place, to replicate the highly 
+variable finish of the original concrete. (e) The Jefferson Davis Memorial 
+after completion of repairs in 2004. Photo e: Joseph Lenzi, Sen/er, Campbell 
+& Associates, Inc. 
+
+concrete. In cases where the color of a substrate needs to 
+be changed, such as to modify the appearance of existing 
+repairs, an alternative to pigmented film-forming coatings is 
+the use of pigmented stains. 
+Many proprietary clear, penetrating sealers are currentl y 
+available to protect concrete substrates. These products 
+render fine cracks and pores within the concrete 
+hydrophobic; however, they do not bridge or fill cracks. 
+Clear sealers may change the appearance of the concrete in 
+that treated areas become more visible after rain in contrast 
+to the more absorptive areas of original concrete. Once 
+applied, penetrating sealers cannot be effectively removed 
+and are therefore considered irreversible . They should 
+not be used on historic concrete without thorough prior 
+consideration. However , clear penetrating sealers provide 
+an important means of protection for historic concrete that 
+is not of good quality and can help to avoid more extensive 
+future repairs or replacement. Thus they are sometimes 
+appropr iate for use on historic concrete. Once applied, these 
+sealers will require periodic re-application. 
+Waterproofing membranes are systems used to protect 
+concrete surfaces such as roofs, terraces, plazas, or balconies, 
+as well as surfaces below grade. Systems range from coal 
+tar pitch membranes used on older buildings, to asphalt or 
+urethane-based systems. On historic buildings, membrane 
+systems are typically used only on surfaces that were 
+originall y protected by a similar system and surfaces that are 
+not visible from grade. Waterproofing membranes may be 
+covered by roofing, paving, or other architectural finishes. 
+Laboratory and field testing is recommended prior to 
+application of a protection system or treatment on any 
+concrete structure; testing is even more critical for historic 
+structures because many such treatments are not reversible . 
+As with other repairs, trial samples are important to 
+evaluate the effectiveness of the treatment and to determine 
+whether it will harm the concrete or affect it s appearance . 
+Cathodic Protection. Corrosion is an electrochemical 
+process in which electrons flow between cathodic (positi vely 
+charged) and anodic (negatively charged) areas on a 
+metal surface; corrosion occurs at the anodes. Cathodic 
+protection is a technique used to control the corro sion of 
+metal by making the whole metal surface the cathode of 
+an electrochemical cell. This technique is used to protect 
+metal structures from corrosion and is also sometimes 
+used to protect steel reinforcement embedded in concrete. 
+For reinforced concrete, cathodic protection is typically 
+accomplished by connecting an auxiliary anode to the 
+reinforcing so that the entire reinforcing bar becomes a 
+cathode. 
+In sacrificial anode (passive) systems , current flows 
+naturally by galvanic action between the less noble anode 
+(such as zinc) and the cathode. In impressed-current (active) 
+systems , current is impressed between an inert anode 
+(such as titanium) and the cathode . Cathodic protection is 
+intended to reduce the rate of corrosion of embedded steel 
+in concrete , which in turn reduces overall deterioration . 
+Protecting embedded steel from corrosion helps to prevent 
+concrete cracking and spalling. 
+Impressed-current cathodic protection is the most 
+effective means of mitigating steel corrosion and has 
+been used in practical structural applications since the 
+1970s. However, impressed-current cathodic protection 
+systems are typically the most costly to install and 
+require substantial ongoing monitoring, adjustment, 
+and maintenance to ensure a proper voltage output 
+(protection current) over time. Sacrificial anode cathodic 
+protection dates back to the 1800s, when the hulls of 
+ships were protected using this technology. Today 
+many industries utilize the concept of sacrificial anode 
+cathodic protection for the protection of steel exposed 
+to corrosive environments. It is less costly than an 
+impressed-current system, but is somewhat less effective 
+and requires reapplication of the anode when it becomes 
+depleted. 
+Re-alkalization. Another technique currently available 
+to protect concrete is realkalization, which is a process 
+to restore the alkalinity of carbonated concrete. The 
+treatment involves soaking the concrete with an alkaline 
+solution, in some cases forcing it into the concrete to 
+the level of the reinforcing steel by passage of direct 
+current. These actions increase the alkalinity of the 
+concrete around the reinforcement, thus restoring the 
+protective alkaline environment for the reinforcement. 
+Like impressed-current cathodic protection methods, it 
+is costly. Other corrosion methods are also available but 
+have a somewhat shorter history of use. 
+Careful evaluation of existing conditions, the causes and 
+nature of distress, and environmental factors is essential 
+before a protection method is selected and implemented. 
+Not every protection system will be effective on each 
+structure. 
+In addition, the level of intrusion caused by 
+the protection system must be carefully evaluated before 
+it is used on a historic concrete structure. 
+Summary 
+In the United States, concrete has been a popular 
+construction material since the late nineteenth century 
+and recently has gained greater recognition as a historic 
+material. Preservation of historic concrete requires a 
+thorough understanding of the causes and types of 
+deterioration, as well as of repair and replacement 
+materials and methods. It is important that adequate 
+time is allotted during the planning phase of a project 
+to provide for trial repairs and mock-ups in order 
+to evaluate the effectiveness and aesthetics of the 
+repairs. Careful design is essential and, as with other 
+preservation efforts, the skill of those performing 
+the work is critical to the success of the repairs. The 
+successful repair of many historic concrete structures 
+in recent years demonstrates that the techniques and 
+materials now available can extend the life of such 
+structures and help ensure their preservation. 
+15 
+
+16 
+Selected Reading 
+Acknowledgements 
+Paul Gaudette is an engineer with Wiss, Janney, Elstner Associates, Inc., in Chicago, Illinois. Deborah Slaton is an architectural 
+conservator with Wiss, Janney, Elstner Associates, Inc., in Northbrook, Illinois. All photographs by Paul Gaudette unless otherwise 
+stated. Front cover image: Kyle Normandin, Wiss, Janney, Elstner Associates, Inc. 
+The authors wish to thank William Bing Coney, author of the first edition of this preservation brief, who served as a peer reviewer 
+for the current edition. In addition, the authors gratefully acknowledge the assistance of the following individuals as peer reviewers 
+of this brief: Ame Johnson and Una Gilmartin, Wiss, Janney, Elstner Associates, Inc.; Robert Joyce, Quality Restorations, Inc.; Susan 
+Macdonald, New South Wales Heritage Office; Miles T. Murray, Restruction Corporation; and Jack Pyburn, OJP/Architect, Inc. Anne 
+E. Grimmer, Chad Randl, arid former staff Sharon C. Park, FAIA, of the Technical Preservation Services, National Park Service, offered 
+valuable comments during development of the brief. Charles E. Fisher of the National Park Service was the technical editor for this 
+publication project. 
+This publication has been prepared pursuant to the National Historic Preservation Act of 1966, as amended, which directs the Secretary 
+of the Interior to develop and make available information concerning historic properties. Comments about this publication should 
+be addressed to: Charles E. Fisher, Technical Preservation Publications Program Manager, Technical Preservation Services-2255, 
+National Park Service, 1849 C Street, NW, Washington, DC 20240. This publication is not copyrighted and can be reproduced without 
+penalty. Normal procedures for credit to the authors and the National Park Service should be provided. The photographs used in 
+this publication may not be used to illustrate other publications without permission of the owners. For more information about the 
+programs of the National Park Service's Technical Preservation Services see our website at http://www.nps.gov/history/hps/tps.htrn 
+ISBN: 978-0-16-078946-5 
+U.S. 
+Government Printing Office Stock Number: 024-005-01253-2 2007 
+American Concrete 
+Institute. Guide for Making a Condition Survey of Concrete in Service. ACI Committee 201, ACI 201.lR-92. 
+American Concrete Institute. Guide to Evaluation of Concrete Structures before Rehabilitation. ACI Committee 364, ACI 364.lR-07. 
+American Concrete Institute. Concrete Repair Guide. ACI Committee 546, ACI 546R-04. 
+American Concrete Institute. Guide for Evaluation of Existing Concrete Buildings. ACI Committee 437, ACI 437R-03. 
+Childe, H.L. Manufacture and Uses of Concrete Products and Cast Stone. London: Concrete Publications Limited, 1930. 
+Collins, Peter. Concrete: The Vision of a New Architecture. New York, New York: Faber and Faber, 1959. 
+Cowden, Adrienne B., comp. Historic Concrete: An Annotated Bibliography. Washington, D.C.: National Park Service, 1993. 
+Komandant, August E. Contemporary Concrete Structures. New York, New York: McGraw Hill, 1972. 
+Erlemann, Gustav G. "Steel Reinforcing Bar Specification in Old Structures." Concrete International, April 1999, 49-50. 
+Federal Highway Administration. Guide to Nondestructive Testing of Concrete. FHWA Publication Number FHWA-SA-97-105. 
+Gaudette, Paul E. "Special Considerations in Repair of Historic Concrete." Concrete Repair Bulletin, January/February 2000, 12-13. 
+Jester, Thomas C., ed. Twentieth Century Building Materials. New York, New York: McGraw-Hill, 1995. 
+Johnson, Ame P., and Seung Kyoung Lee. "Protection Methods for Historic Concrete at Soldier Field." Preserve and Play: Preserving 
+Historic Recreation and Entertainment Sites. Washington, D.C.: Historic Preservation Education Foundation, National Council for 
+Preservation Education, and National Park Service, 2006. 
+Macdonald, Susan, ed. Concrete: Building Pathology. Osney Mead, Oxford, U.K.: Blackwell Science, 2003. 
+McGovern, Martin S. "A Clear View of Sealers." Concrete Construction, January 2000, 53-58. 
+Morton, W. Brown III, Gary L. Hurne, Kay D. Weeks, H. Ward Jandl, and Anne E. Grimmer. The Secretary of the Interior's Standards for 
+Rehabilitation & Illustrated Guidelines for Rehabilitating Historic Buildings. Washington, D.C.: National Park Service, 1983, reprinted 1997. 
+"Repairing Cracks." Concrete Repair Digest, August/September 1992, 160-164. Condensed from ACI document 224.lR-93. 
+Slaton, Deborah. "Cleaning Historic Concrete." Concrete Repair Bulletin, January/February 2000, 14-15. 

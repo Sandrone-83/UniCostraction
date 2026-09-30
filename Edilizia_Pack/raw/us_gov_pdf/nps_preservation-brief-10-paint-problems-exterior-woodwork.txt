@@ -1,0 +1,1108 @@
+U.S. Department of the Interior 
+National Park Service 
+Cultural Resources 
+Heritage Preservation Services 
+10 
+PRESERVATION 
+BRIEFS 
+Exterior Paint Problems 
+on Historic Woodwork 
+Kay D. Weeks and David W. Look, AlA 
+A cautionary approach to paint removal is included in the guidelines to 'The Secretary of the Interior Standards for Historic Preservation 
+Projects." Removing paints down to bare wood surfaces using harsh methods can permanently damage those surfaces; therefore such methods 
+are not recommended . Also , total removal obliterates evidence of the historical paints and their sequence and architectural context. 
+This Brief expands on that advice for the architect, build­
+ing manager, contractor, or homeowner by identifying 
+and describing common types of paint surface conditions 
+and failures, then recommending appropriate treatments 
+for preparing exterior wood surfaces for repainting' to 
+assure the best adhesion and greatest durability of the new 
+paint. Although the Brief focuses on resp.Q.rlsible methods 
+of "paint removal," several paint surface conditions will 
+be described which do not require any paint removal, and 
+still others which can be successfully handled by limited 
+paint removal. In all cases, the information is intended to 
+address the concerns related to exterior wood . It will also 
+be generally assumed that , because houses built before 1950 
+involve one or more layers of lead-base paint,2 the majori­
+ty of conditions warranting paint removal will mean deal­
+ing with this toxic substance along with the dangers of the 
+paint removal tools and chemical strippers themselves. 
+, 
+l 
+General paint type recommendations will be made , but paint color recommenda­
+tions are beyond the scope of this Brief. 
+Douglas R. Shier and William Hall , Analysis of Housing Data Collected in a Lead­
+Based Paint Survey in Pittsburgh , Pennsylvania , Part 1, National Bureau of Stan ­
+dards, Inter-Report 77-1250, May 1977. 
+Purposes of Exterior Paint 
+Paint 3 applied to exterior wood must withstand yearly ex­
+tremes of both temperature and humidity . While never ex­
+pected to be more than a temporary physical shield­
+requiring re-application every 5-8 years-its importance 
+should not be minimized. Because one of the main causes 
+of wood deterioration is moisture penetration , a primary 
+purpose for painting wood is to exclude such moisture, 
+thereby slowing deterioration not only of a building 's ex­
+terior siding and decorative features but, ultimately, its 
+underlying structural members. Another important pur­
+pose for painting wood is, of course , to define and accent 
+architectural features and to improve appearance. 
+, Any pigmented liquid , liquefiable , or mastic composition designed for application 
+to a substrate in a thin layer which is converted to an opaque solid film after ap­
+plication, Paint and Coatings Diction ary , 1978, Federation of Societies for Coat ­
+ings and Technology. 
+Treating Paint Problems in Historic Buildings 
+Exterior paint is constantly deteriorating through the proc­
+esses of weathering , but in a program of regular mainte­
+nance-assuming all other building systems are function­
+ing properly-surfaces can be cleaned, lightly scraped, 
+and hand sanded in preparation for a new finish coat. Un­
+fortunately, these are ideal conditions. More often, com­
+plex maintenance problems are inherited by owners of 
+historic buildings, including areas of paint that have 
+failed 4 beyond the point of mere cleaning, scraping, and 
+hand sanding (although much so-called "paint failure" is 
+attributable to interior or exterior moisture problems or 
+surface preparation and application mistakes with 
+previous coats). 
+Although paint problems are by no means unique to 
+historic buildings, treating multiple layers of hardened , 
+brittle paint on complex, ornamental-and possibly 
+fragile-exterior wood surfaces necessarily requires an ex­
+tremely cautious approach (see figure 1). In the case of re­
+cent construction, this level of concern is not needed 
+because the wood is generally less detailed and, in addi­
+tion, retention of the sequence of paint layers as a partial 
+record of the building's history is not an issue. 
+When historic buildings are involved, however, a 
+special set of problems arises-varying in complexity 
+depending upon their age, architectural style, historical 
+importance, and physical soundness of the wood-which 
+must be carefully evaluated so that decisions can be made 
+that are sensitive to the longevity of the resource. 
+4 For purposes of the Brief, this includes any area of painted exterior woodwork 
+displaying signs of peeling , cracking , or alligator ing to bare wood. See descrip ­
+tions of these and other paint su rface conditions as well as recommended treat ­
+ments on pp . 5-10. 
+Justification for Paint Removal 
+At the outset of this Brief, it must be emphasized that 
+removing paint from historic buildings-with the excep­
+tion of cleaning, light scraping, and hand sanding as part 
+of routine maintenance-should be avoided unless abso­
+lutely essential. Once conditions warranting removal have 
+
+been identified, the general approach should be to remove 
+paint to the next sound layer using the gentlest means 
+possible, then to repaint (see figure 2). Practically speak­
+ing as well, paint can adhere just as effectively to existing 
+paint as to bare wood, providing the previous coats of 
+paint are also adhering uniformly and tightly to the wood 
+and the surface is properly prepared for repainting­
+cleaned of dirt and chalk and dulled by sanding. But, if 
+painted exterior wood surfaces display continuous patterns 
+of deep cracks or if they are extensively blistering and 
+peeling so that bare wood is visible, then the old paint 
+should be completely removed before repainting. The only 
+other justification for removing all previous layers of 
+paint is if doors, shutters, or windows have literally been 
+"painted shut," or if new wood is being pieced-in adjacent 
+to old painted wood and a smooth transition is desired 
+(see figure 3). 
+Fig. 1 Excessive paint build-up on architectural details such as 
+this ornamental bracket does not in itself justify total paint 
+removal. If paint is cracked and peeling down to bare wood , 
+however, it should be removed using the gentlest means possible. 
+Photo: David W. Look , AlA. 
+Fig. 2 A traditionally painted bay window has been stripped to 
+bare wood , then varnished. In addition to being historically inac­
+curate , the varnish will break down faster as a result of the sun 's 
+ultraviolet rays than would primer and finish coats of paint. 
+Photo: David W. Look , AlA. 
+Fig. 3 If damage to parts of a wooden element is severe, new 
+sections of wood will need to be pieced-in. When such piecing is 
+required, paint on the adjacent woodwork should be removed so 
+that the old and new woods will make a smooth profile when 
+joined . After repainting , the repair should be virtually impossible 
+to detect. Photo : Morgan W. Phillips. 
+Paint Removal Precautions 
+Because paint removal is a difficult and painstaking proc­
+ess, a number of costly, regrettable experiences have oc­
+curred-and continue to occur-for both the historic 
+building and the building owner. Historic buildings have 
+been set on fire with blow torches; wood irreversibly 
+scarred by sandblasting or by harsh mechanical devices 
+such as rotary sanders and rotary wire strippers; and 
+layers of historic paint inadvertently and unnecessarily 
+removed. In addition, property owners, using techniques 
+that substitute speed for safety, have been injured by toxic 
+lead vapors or dust from the paint they were trying to 
+remove or by misuse of the paint removers themselves. 
+Owners of historic properties considering paint removal 
+should also be aware of the amount of time and labor in­
+volved. While removing damaged layers of paint from a 
+door or porch railing might be readily accomplished 
+within a reasonable period of time by one or two people, 
+removing paint from larger areas of a building can, with-
+2 
+
+out professional assistance, easily become unmanageable 
+and produce less than satisfactory results. The amount of 
+work involved in any paint removal project must there­
+fore be analyzed on a case-by-case basis. Hiring qua lified 
+professionals will often be a cost-effective decision due to 
+the expe nse of materials, the special equipment required, 
+and the amount of time involved. Further, paint removal 
+companies experienced in dealing with the inherent health 
+and safety dangers of pa int removal should have pur­
+chased such protective devices as are needed to mitigate 
+any dangers and should also be aware of State or local en­
+vironmental and ! or health regulations for hazardous 
+waste disposal. 
+All in all, paint removal is a messy, expensive, and 
+potentially dangerous aspect of rehabilitating or restoring 
+historic buildings and should not be undertaken without 
+careful thought concerning first , its necessity, and second, 
+which of the available recommended methods is the safest 
+and most appropriate for the job at hand. 
+Repainting Historic Buildings for Cosmetic 
+Reasons 
+If existing exterior paint on wood siding , eaves, window 
+sills, sash, and shutters, doors , and decorative features 
+shows no evidence of paint deterioration such as chalking, 
+blistering, peeling, or cracking, then there is no physical 
+reason to repaint , much less remove paint! Nor is color 
+fading, of itself, sufficient justification to repaint a historic 
+building. 
+The decision to repaint may not be based altogether on 
+paint failure. Where there is a new owner, or even where 
+ownership has remained constant through the years, taste 
+in colors often changes. Therefore, if repainting is 
+primarily to alter a building's primary and accent colors , 
+a technical factor of paint accumulation should be taken 
+into consideration . When paint builds up to a thickness of 
+approximately 1/16 " (approximately 16-30 layers), one or 
+more extra coats of paint may be enough to trigger crack­
+ing and peeling in limited or even widespread areas of the 
+building's surface. This results because excessively thick 
+paint is less able to withstand the shrinkage or pull of an 
+additional coat as it dries and is also less able to tolerate 
+thermal stresses . Thick paint invariably fails at the 
+weakest point of adhesion-the oldest layers next to the 
+wood. Cracking and peeling follow . Therefore, if there 
+are no signs of paint failure, it may be somewhat risky to 
+add still another layer of unneeded paint simply for 
+color's sake (extreme changes in color may also require 
+more than one coat to provide proper hiding power and 
+full color). When paint appears to be nearing the critical 
+thickness, a change of accent colors (that is, just to 
+limited portions of the trim) might be an acceptable com­
+promise without chancing cracking and peeling of paint 
+on wooden siding. 
+If the decision to repaint is nonetheless made , the "new" 
+color or colors should , at a minimum , be appropriate to 
+the style and setting of the building. On the other hand , 
+where the intent is to restore or accurately reproduce the 
+colors originally used or those from a significant period in 
+the building's evolution, they should be based on the 
+results of a paint analysis. 5 
+Identification of Exterior Paint Surface 
+Conditions/ Recommended Treatments 
+It is assumed that a preliminary check will already have 
+been made to determine, first, that the painted exterior 
+surfaces are indeed wood-and not stucco, metal, or other 
+wood substitutes-and second, that the wood has not 
+decayed so that repainting would be superfluous. For ex­
+ample, if any area of bare wood such as window sills has 
+been exposed for a long period of time to standing water, 
+wood rot is a strong possibility (see figure 4). Repair or 
+replacement of deteriorated wood should take place before 
+repainting. After these two basic issues have been 
+resolved, the surface condition identification process may 
+commence. 
+The historic building will undoubtedly exhibit a variety 
+of exterior paint surface conditions. For example, paint on 
+the wooden siding and doors may be adhering firmly; 
+paint on the eaves peeling ; and paint on the porch 
+balusters and window sills cracking and alligatoring. The 
+accurate identification of each paint problem is therefore 
+the first step in planning an appropriate overall solution. 
+Paint surface conditions can be grouped according to 
+their relative severity: CLASS I conditions include minor 
+blemishes or dirt collection and generally require no paint 
+removal; CLASS II conditions include failure of the top 
+layer or layers of paint and generally require limited paint 
+removal; and CLASS III conditions include substantial or 
+multiple-layer failure and generally require total paint 
+removal. It is precisely because conditions will vary at dif­
+ferent points on the building that a careful inspection is 
+critical. Each item of painted exterior woodwork (i.e., 
+siding, doors, windows, eaves, shutters, and decorative 
+elements) should be examined early in the planning phase 
+and surface conditions noted. 
+CLASS I Exterior Surface Conditions Generally Requiring 
+No Paint Removal 
+• Dirt , Soot , Pollution, Cobwebs, Insect Cocoons, etc. 
+Cause of Condition 
+Environmental "gri me" or organic matter that tends to 
+cling to painted exterior surfaces and, in particular , pro­
+tected surfaces such as eaves, do not constitute a paint 
+problem unless painted over rather than removed prior to 
+repainting. If not removed, the surface deposits can be a 
+barrier to proper adhesion and cause peeling. 
+Recommended Treatment 
+Most surface matter can be loosened by a strong, direct 
+stream of water from the nozzle of a garden hose. 
+Stubborn dirt and soot will need to be scrubbed off using 
+1fz cup of household detergent in a gallon of water with a 
+medium soft bristle brush. The cleaned surface should 
+then be rinsed thoroughly, and permitted to dry before 
+further inspection to determine if repainting is necessary . 
+Quite often, cleaning provides a satisfactory enough result 
+to postpone repainting. 
+, See the Reading List for paint research and documentation information. See also 
+Tilt? Sl?cretary of tilt? Interior's Standards for Historic Prt?ser..'atiotl Projects i.vitl, 
+Guid,lilles for Applyillg the Stalldards for recommended appr oaches on paints 
+and finishes within various types of project work treatments. 
+3 
+
+• Mildew 
+Cause of Condition 
+Mildew is caused by fungi feeding on nutrients 
+contained in the paint film or on dirt adhering to any sur­
+face. Because moisture is the single most important factor 
+in its growth, mildew tends to thrive in areas where 
+dampness and lack of sunshine are problems such as 
+window sills, under eaves, around gutters and down­
+spouts, on the north side of buildings, or in shaded areas 
+near shrubbery. It may sometimes be difficult to distin­
+guish mildew from dirt, but there is a simple test to 
+differentiate: if a drop of household bleach is placed on 
+the suspected surface, mildew will immediately turn white 
+whereas dirt will continue to look like dirt. 
+Recommended Treatment 
+Because mildew can only exist in shady, warm, moist 
+areas, attention should be given to altering the environ­
+ment that is conducive to fungal growth. The area in 
+question may be shaded by trees which need to be pruned 
+back to allow sunlight to strike the building; or may lack 
+rain gutters or proper drainage at the base of the building. 
+If the shady or moist conditions can be altered, the mildew 
+is less likely to reappear. A recommend solution for 
+removing mildew consists of one cup non-ammoniated 
+detergent, one quart household bleach, and one gallon 
+water. When the surface is scrubbed with this solution 
+using a medium soft brush, the mildew should disappear; 
+however, for particularly stubborn spots, an additional 
+quart of bleach may be added. After the area is mildew­
+free, it should then be rinsed with a direct stream of water 
+from the nozzle of a garden hose, and permitted to dry 
+thoroughly. When repainting, specially formulated 
+"mildew-resistant" primer and finish coats should be used. 
+• Excessive Chalking 
+Cause of Condition 
+Chalking-or powdering of the paint surface-is caused 
+by the gradual disintegration of the resin in the paint film. 
+(The amount of chalking is determined both by the for­
+mulation of the paint and the amount of ultraviolet light 
+to which the paint is exposed.) In moderation, chalking is 
+the ideal way for a paint to "age," because the chalk, 
+when rinsed by rainwater, carries discoloration and dirt 
+away with it and thus provides an ideal surface for 
+repa inting. In excess, however, it is not desirable because 
+the chalk can wash down onto a surface of a different 
+color beneath the painted area and cause streaking as well 
+as rapid disintegration of the paint film itself. Also, if a 
+pain t contains too much pigment for the amount of binder 
+(as the old white lead carbonate/oil paints often did), 
+excessive chalking can result. 
+Recommended Treatment 
+The chalk should be cleaned off with a solution of 1/2 
+cup household detergent to one gallon water, using a 
+medium soft bristle brush. After scrubbing to remove the 
+chalk, the surface should be rinsed with a direct stream of 
+water from the nozzle of a garden hose, allowed to dry 
+thoroughly, (but not long enough for the chalking process 
+to recur) and repainted, using a non-chalking paint. 
+• Staining 
+Cause of Condition 
+Staining of paint coatings usually results from excess 
+Fig. 4 Paint films wear unevenly depending on exposure and 
+location . Exterior locations which are susceptible to accelerated 
+deterioration are horizontal surfaces such as window sills. These 
+and similar areas will require repainting more often than less 
+vulnerable surfaces. In the case of this window sill where paint 
+has peeled off and adjacent areas have cracked and alligatored, 
+the paint should be totally removed . Prior to repainting, any 
+weathered wood should be rejuvenated using a solution of 3 
+cups exterior varnish, 1 oz. paraffin wax, and mineral spirits/ 
+paint thinner / or turpentine to make 1 gallon. Liberal brush ap­
+plication should be made. This formula was tested over a 
+20-year period by the U.S. Department of Agriculture's Forest 
+Products Laboratory and proved to be just as effective as water­
+repellent preservatives containing pentachlorophenol . After the 
+surface has thoroughly dried (2-3 days of warm weather), the 
+treated surface can be painted. A high quality oil-base primer 
+followed by two top coats of a semi-gloss oil-enamel or latex­
+enamel paint is recommended. Photo: Baird M. Smith, AlA. 
+moisture reacting with materials within the wood sub­
+strate. There are two common types of staining, neither of 
+which requires paint removal. The most prevalent type of 
+stain is due to the oxidation or rusting of iron nails or 
+metal (iron, steel, or copper) anchorage devices . A second 
+type of stain is caused by a chemical reaction between 
+moisture and natural extractives in certain woods (red 
+cedar or redwood) which results in a surface deposit of 
+colored matter . This is most apt to occur in new replace­
+ment wood within the first 10-15 years . 
+Recommended Treatment 
+In both cases, the source of the stain should first be lo­
+cated and the moisture problem corrected . 
+When stains are caused by rusting of the heads of nails 
+used to attach shingles or siding to an exterior wall or by 
+rusting or oxidizing iron, steel, or copper anchorage 
+devices adjacent to a painted surface, the metal objects 
+themselves should be hand sanded and coated with a rust ­
+inhibitive primer followed by two finish coats . (Exposed 
+nail heads should ideally be countersunk, spot primed , 
+and the holes filled with a high quality wood filler except 
+where exposure of the nail head was part of the original 
+construction system or the wood is too fragile to with­
+stand the countersinking procedure.) 
+Discoloration due to color extractives in replacement 
+wood can usually be cleaned with a solution of equal 
+parts denatured alcohol and water. After the affected atea 
+4 
+
+/ 
+has been rinsed and permitted to dry, a "stain-blocking 
+primer " especially developed for preventing this type of 
+sta in should be applied (two primer coats are recommended
+for severe cases of bleeding prior to the finish coat) . Each 
+primer coat should be allowed to dry at least 48 hours . 
+CLASS II Exterior Surface Conditions Generally 
+Requiring Limited Paint Removal 
+• Crazing 
+Cause of Condition 
+Crazing-fine, jagged interconnected breaks in the top 
+layer of paint-results when paint that is several layers 
+thick becomes excessively hard and brittle with age and is 
+conseq uently no longer able to expand and contract with 
+the wood in response to changes in temperature and hu­
+midity (see figure 5). As the wood swells , the bond be­
+tween paint layers is broken and hairline cracks appear. 
+Although somewhat more difficult to detect as opposed to 
+other more obvious paint problems , it is well worth the 
+time to scrutinize all surfaces for crazing. If not corrected, 
+exterior moisture will enter the crazed surface, resulting in 
+further swe lling of the wood and , eventually , deep crack­
+ing and alligatoring , a Class III condition which requires 
+total paint removal. 
+Recommended Treatment 
+Crazing can be treated by hand or mechanically sa ndin g 
+the surface , then repainting . Although the hairline cracks 
+may tend to show through the new paint, the surface will 
+be protected against exterior moisture penetration. 
+Fig. 5 Crazing-or surface cracking-is an exterior surface condi-
+tion whic h call be successfu lly treated by sanding and painting. 
+Photo: Courtesy , National Decorating Products Associatioll. 
+• Intercoat Peeling 
+Cause of Condition 
+Intercoat peeling can be the result of improper surface 
+preparation prior to the last repainting. This most often 
+occurs in protected areas such as eaves and covered 
+porches because these surfaces do not receive a regular 
+rinsing from rainfall , and salts from air-borne pollutants 
+thus accumulate on the surface. If not cleaned off, the 
+new paint coat will not adhere properly and that layer 
+will peel. 
+Another common cause of intercoat peeling is incom­
+patibility between paint types (see figure 6). For example , 
+if oil paint is applied over latex paint, peeling of the top 
+coat can sometimes result since , upon aging, the oil paint 
+becomes harder and less elastic than the latex paint. If 
+ latex paint is applied over old, chalking oil paint, peeling 
+can also occur because the latex paint is unable to pene­
+trate the chalky surface and adhere. 
+Recommended Treatment 
+First , where salts or impurities have caused the peeling, 
+the affected area should be washed down thoroughly after 
+scraping, then wiped dry . Finally, the surface should be 
+hand or mechanically sanded , then repainted. 
+Where peeling was the result of using incompatible 
+paints , the peeling top coat should be scraped and hand 
+or mechanically sanded. Application of a high quality oil 
+type exterior primer will provide a surface over which 
+either an oil or a latex topcoat can be successfully used. 
+fig. 6 Th is is an example of intercoat peeling. A latex top coat 
+was applied directly over old oil paint and , as a result , the latex 
+paint was unable to adh ere. If latex is being used over oil, an ai/­
+base primer shou ld be applied first. Although much of the peel­
+ing latex paint can be scraped off, in this case, the best so lution 
+may be to chemica lly dip strip the entire shutter to remove all of 
+the paint down to bare wood, rinse thoroughly , then repaint. 
+Photo: Mary L. O ehrlein, AlA. 
+• Solvent Blistering 
+Cause of Condition 
+Solvent blistering, the result of a less common applica­
+tion error, is not caused by moisture, but by the action of 
+ambient heat on paint solvent or thinners in the paint 
+film. If solvent-rich paint is applied in direct sunlight, the 
+top surface can dry too quickly and, as a result, solvents 
+become trapped beneath the dried paint film. When the 
+solvent vaporizes, it forces its way through the paint film, 
+resulting in surface blisters. This problem occurs more 
+often with dark colored paints because darker colors ab­
+sorb more heat than lighter ones. To distinguish between 
+solvent blistering and blistering caused by moisture, a 
+blister should be cut open. If another layer of paint is visi­
+ble, then solvent blistering is likely the problem whereas if 
+bare wood is revealed , moisture is probably to blame. 
+Solvent blisters are generally small. 
+5 
+
+Recommended Treatment 
+Solvent-blistered areas can be scraped, hand or mechan­
+ically sanded to the next sound layer, then repainted. In 
+order to prevent blistering of painted surfaces, paint 
+should not be applied in direct sunlight. 
+• Wrinkling 
+Cause of Condition 
+Another error in application that can easily be avoided 
+is wrinkling (see figure 7). This occurs when the top layer 
+of paint dries before the layer underneath. The top layer 
+of paint actually moves as the paint underneath (a primer , 
+for example) is drying. Specific causes of wrinkling in­
+clude: (1) applying paint too thick; (2) applying a second 
+coat before the first one dries; (3) inadequate brushing 
+out; and (4)" painting in temperatures higher than recom­
+mended by the manufacturer. 
+Recommended Treatment 
+The wrinkled layer can be removed by scraping followed 
+by hand or mechanical sanding to provide as even a sur­
+face as possible, then repainted following manufacturer 's 
+application instructions. 
+Fig. 7 Wrinkled layers can generally be removed by scraping anc 
+sanding as opposed to total paint removal. Followin g manufac ­
+turers' applicati on instruction s is the best way to avoid this s ur­
+face conditi on. Phot o: Courte sy , Nati onal Decorating Produ cts 
+Association . 
+CLASS III Exterior Surface Conditions Generally 
+Requiring Total Paint Removal 
+If surface conditions are such that the majority of paint will have to 
+be removed prior to repainting, it is suggested that a small sample 
+of intact paint be left in an inconspicuous area either by coverin g 
+the area with a metal plate , or by marking the area and identifyin g 
+it in some way. (When repainting does take place , the sample 
+should not be painted over) . This will enable future investi gat ors to 
+have a record of the building 's paint history. 
+• Peeling 
+Cause of Condition 
+Peeling to bare wood is most often caused by excess in­
+terior or exterior moisture that collects behind the paint 
+6 
+film, thus impairing adhesion (see figure 8). Generally 
+beginning as blisters , cracking and peeling occur as mois­
+ture causes the wood to swell , breaking the adhesion of 
+the bottom layer. 
+Recommended Treatment 
+There is no sense in repainting before dealing with the 
+moisture problems because new paint will simply fail. 
+Therefore, the first step in treating peeling is to locate and 
+remove the source or sources of the moisture , not only 
+because moisture will jeopardize the protective coating of 
+paint but because, if left unattended, it can ultimately 
+cause permanent damage to the wood . Excess interior 
+moisture should be removed from the building through in­
+stallation of exhaust fans and vents. Exterior moisture 
+should be eliminated by correcting the following condi­
+tions prior to repainting : faulty flashing ; leaking gutters ; 
+defective roof shingles; cracks and holes in siding and 
+trim ; deteriorated caulking in joints and seams; and 
+shrubber y growing too close to painted wood . After the 
+moisture problems have been solved, the wood must be 
+permitted to dry out thoroughly . The damaged paint can 
+then be scraped off with a putty knife , hand or mechani ­
+cally sanded , primed , and repainted . 
+Fig. 8 Peeling to bare w ood-one of the m os t comm on ty pes of 
+paint failure- is usually caused by an interior or exterior 
+moisture pro blem. Photo: Ann e E. Grimm er. 
+• Cracking / Alligatoring 
+Cause of Condition 
+Cracking and alligatoring are advanced stages of cra z­
+ing (see figure 9). Once the bond between layers has been 
+broken due to intercoat paint failure , exterior moisture is 
+able to penetrate the surface cracks , causing the wood to 
+swell and deeper cracking to take place . This process con­
+tinues until cracking, which forms parallel to grain , ex­
+tends to bare wood. Ultimately, the cracking becomes an 
+overall pattern of horizontal and vertical breaks in the 
+paint layers that looks like reptile skin; hence , " alligator ­
+ing." In advanced stages of cracking and alligatoring , the 
+surfaces will also flake badly . 
+Recommended Treatment 
+If cracking and alligatoring are present only in the top 
+layers they can probably be scraped, hand or mechanical­
+ly sanded to the next sound layer , then repainted. How ­
+ever , if cracking and / or alligatoring have progressed to 
+
+... 
+bare wood and the paint has begun to flake, it will need 
+to be totally removed. Methods include scraping or paint 
+removal with the electric heat plate, electric heat gun, or 
+chemical strippers, depending on the particular area in­
+volved. Bare wood should be primed within 48 hours, 
+then repainted. 
+--Fig. 9 Cracking , alligatoring , and flaking are evidence of long­
+term neglect of painted surfaces. The remaining paint on the 
+clapboard shown here can be removed with an electric heat plate 
+and wide-bladed scraper. In addition, unsound wood should be 
+replaced and moisture problems corrected before primer and top 
+coats of paint are applied. Photo : David W. Look , AlA . 
+Selecting the Appropriate / Safest Method to 
+Remove Paint . 
+After having presented the "hierarchy" of exterior paint 
+surface conditions-from a mild condition such as mildew­
+ing which simply requires cleaning prior to repainting to 
+serious conditions such as peeling and alligatoring which 
+require total paint removal-one important thought bears 
+repeating: if a paint problem has been identified that war­
+rants either limited or total paint removal, the gentlest 
+method possible for the particular wooden element of the 
+historic building should be selected from the many avail­
+able methods. 
+The treatments recommended-based upon field testing 
+as well as onsite monitoring of Department of Interior 
+grant-in-aid and certification of rehabilitation projects­
+are therefore those which take three over-riding issues into 
+consideration (1) the continued protection and preserva­
+tion of the historic exterior woodwork ; (2) the retention 
+of the sequence of historic paint layers; and (3) the health 
+and safety of those individuals performing the paint 
+removal. By applying these criteria, it will be seen that no 
+paint removal method is without its drawbacks and all 
+recommendations are qualified in varying degrees. 
+Methods for Removing Paint 
+After a particular exterior paint surface condition has 
+been identified , the next step in planning for repainting-if 
+paint removal is required-is selecting an appropriate 
+method for such removal. 
+The method or methods selected should be suitable for 
+the specific paint problem as well as the particular 
+wooden element of the building. Methods for paint 
+removal can be divided into three categories (frequently, 
+however , a combination of the three methods is used) . 
+Each method is defined below, then discussed further and 
+specific recommendations made: 
+Abrasive-"Abrading" the painted surface by manual 
+and/or mechanical means such as scraping and sanding. 
+Generally used for surface preparation and limited paint 
+removal. 
+Thermal-Softening and raising the paint layers by apply­
+ing heat followed by scraping and sanding. Generally used 
+for total paint removal. 
+Chemical-Softening of the paint layers with chemical 
+strippers followed by scraping and sanding. Generally used 
+for total paint removal. 
+• Abrasive Methods (Manual) 
+If conditions have been identified that require limited 
+paint removal such as crazing, intercoat peeling, solvent 
+blistering, and wrinkling, scraping and hand sanding 
+should be the first methods employed before using 
+mechanical means. Even in the case of more serious condi­
+tions such as peeling-where the damaged paint is weak 
+and already sufficiently loosened from the wood surface­
+scraping and hand sanding may be all that is needed prior 
+to repainting. 
+Recommended Abrasive Methods (Manual) 
+Putty Knife / Paint Scraper: Scraping is usually accom­
+plished with either a putty knife or a paint scraper, or 
+both. Putty knives range in width from one to six inches 
+and have a beveled edge. A putty knife is used in a push­
+ing motion going under the paint and working from an 
+area of loose paint toward the edge where the paint is still 
+firmly adhered and, in effect, "beveling" the remaining 
+layers so that as smooth a transition as possible is made 
+between damaged and undamaged areas (see figure 10). 
+Paint scrapers are commonly available in 1%6, 21/2, and 
+3 lj2 inch widths and have replaceable blades. In addition, 
+profiled scrapers can be made specifically for use on 
+moldings. As opposed to the putty knife, the paint scraper 
+is used in a pulling motion and works by raking the 
+damaged areas of paint away. 
+The obvious goal in using the putty knife or the paint 
+scraper is to selectively remove the affected layer or layers 
+of paint; however, both of these tools, particularly the 
+paint scraper with its hooked edge, must be used with 
+care to properly prepare the surface and to avoid gouging 
+the wood. 
+Sandpaper / Sanding Block/ Sanding sponge: After manually 
+removing the damaged layer or layers by scraping, the 
+uneven surface (due to the almost inevitable removal of 
+varying numbers of paint layers in a given area) will need 
+to be smoothed or "feathered out" prior to repainting. As 
+stated before, hand sanding, as opposed to harsher 
+mechanical sanding, is recommended if the area is rela­
+tively limited. A coarse grit, open-coat flint sand­
+paper-the least expensive kind-is useful for this purpose 
+because, as the sandpaper clogs with paint it must be 
+discarded and this process repeated until all layers adhere 
+uniformly. 
+Blocks made of wood or hard rubber and covered with 
+sandpaper are useful for handsanding flat surfaces. Sand­
+ing sponges-rectangular sponges with an abrasive aggre­
+gate on their surfaces-are also available for detail work 
+that requires reaching into grooves because the sponge 
+easily conforms to curves and irregular surfaces. All sand­
+ing should be done with the grain. 
+7 
+
+Summary of Abrasive Methods (Manual) 
+Recommended: Putty knife, paint scraper, sandpaper, 
+sanding block, sanding sponge. 
+Applicable areas of building: All areas. 
+For use on: Class 1, Class II, and Class III conditions . 
+Health / Safety factors: Take precautions against lead dust,
+eye damage; dispose of lead paint residue properly. 
+Fig. 10 An exce llent example of inadequate scraping before re­
+painti ng, the problems here are far more than cosmetic. This im­
+proper ly prepared surface will permit moisture to get behind the 
+paint film which, in turn , will resu lt in chipping and peeling. 
+Photo: Baird M. Smith , AlA. 
+• Abrasive Methods (Mechanical) 
+If hand sanding for purposes of surface preparation has 
+not been productive or if the affected area is too large to 
+consider hand sanding by itself, mechanical abrasive 
+methods, i.e. , power-operated tools may need to be 
+emp loyed ; however, it should be noted that the majority 
+of tools available for paint removal can cause damage to 
+fragile wood and must be used with great care . 
+Recommended Abrasive Methods (Mechanical) 
+Orbital sander : Designed as a finishing or smoothing tool­
+not for the removal of multiple layers of paint-the 
+oribital sander is thus recommended when limited paint 
+removal is required prior to repainting. Because it sands 
+in a small diameter circular motion (some models can also 
+be switched to a back-and-forth vibrating action), this 
+tool is particularly effective for "feathering" areas where 
+paint has first been scraped (see figure 11) . The abrasive 
+surface varies from about 3'X 7 inches to 4 X 9 inches and 
+sandpaper is attached either by clamps or sliding clips . A 
+medium grit, open-coat aluminum oxide sandpaper should 
+be used; fine sandpaper clogs up 50 quickly that it is inef­
+fective for smoothing paint. 
+Belt sander : A second type of power tool-the belt sander ­
+can also be used for removing limited layers of paint but , 
+8 
+in this case, the abrasive surface is a continuous belt of 
+sandpaper that travel s at high speeds and consequently of­
+fers much less control than the orbital sander. Because of 
+the potential for more damage to the paint or the wood, 
+use of the belt sander (also with a medium grit sandpaper) 
+sho uld be limited to flat surfaces and only skilled 
+operators should be permitted to operate it within a 
+historic preservation project. 
+Fig. 11 The orbi tal sander can be used for lilllited paint remo val, 
+i. e., for smoothing flat surfaces after the majority of deteriorated 
+paint has already been scraped off. Ph oto : Charles E. Fisher, III. 
+Not Recommended 
+Rotary Drill Attachments: Rotary drill attachments such 
+as the rotary sanding disc and the rotary wire stripper 
+should be avoided. The disc sander-usually a disc of 
+sandpaper about 5 inches in diameter secured to a rubber 
+based attachment which is in turn connected to an electric 
+drill or other motorized housing-can easily leave visible 
+circular depressions in the wood which are difficult to 
+hide , even with repainting. The rotary wire stripper-clus­
+ter s of metals wires similarly attached to an electric drill­
+type unit-can actually shred a wooden surface and is 
+thus to be used exclusively for removing corrosion and 
+paint from metals. 
+Waterblasting: Waterblasting above 600 p .s.i. to remove 
+pa int is not recommended because it can force water into 
+the woodwork rather than cleaning loose paint and grime 
+from the surface; at worst , high pressure waterblasting 
+causes the water to penetrate exterior sheathing and 
+damages interior finishes . A detergent solution , a medium 
+soft bristle brush , and a garden hose for purposes of rins­
+ing , is the gentlest method involving water and is recom­
+mended when cleaning exterior surfaces prior to repaint­
+ing. 
+
+Sandblasting: Finally-and undoubtedly most vehemently 
+"not recommended" -sandblasting painted exterior wood­
+work will indeed remove paint , but at the same time can 
+scar wooden elements beyond recognition . As with rotary 
+wire strippers, sandblasting erode s the soft porous fibers 
+(spring wood) faster than the hard , dense fibers (summer 
+wood), leaving a pitted surface with ridges and valleys . 
+Sandblasting will also erode projecting areas of carvings 
+and moldings before it removes paint from concave areas 
+(see figure 12). Hence , this abrasive method is potentially 
+the most damaging of all possibilities , even if a contractor
+promises that blast pressure can be controlled so that the 
+paint is removed without harming the historic exterior 
+woodwork. (For Additional Information, See Presevation 
+Briefs 6, "Dangers of Abrasive Cleaning to Historic Build­
+ings" .) 
+Fig. 12 Salldblasting has permallently damaged this ornamental 
+bracket . Evell paillt will not be able to hide the deep eros ion of 
+the wood. Photo: Da vid W. Look , AlA. 
+Summary of Abrasive Methods (Mechanical) 
+Recommended: Orbital sander, belt sander (skilled opera­
+tor only). 
+Applicable areas of building: Flat surfaces , i.e., siding, 
+eaves, doors, window sills. 
+For use on: Class II and Class III conditions. 
+Health / Safety factors: Take precautions against lead dust 
+and eye damage; dispose of lead paint residue properly . 
+Not Recommended: Rotary drill attachments, high 
+pressure waterblasting , sandblasting. 
+• Thermal Methods 
+Where exterior surface condition s have been identified 
+that warrant total paint remo val such as peeling , crack­
+ing, or alligatoring , two thermal devices - the electric heat 
+plate and the electric heat gun-have proven to be quite 
+successful for use on different wooden elements of the 
+historic building. One thermal method-the blow torch - is 
+not recommended because it can scorch the wood or even 
+burn the building down! 
+Recommended Thermal Methods 
+Electric heat plate : The electric heat plate (see figure 13) 
+operates between 500 and 800 degrees Fahrenheit (not hot 
+enough to vaporize lead paint), using about 15 amps of 
+power . The plate is held close to the painted exterior sur­
+face until the layers of paint begin to soften and blister, 
+then moved to an adjacent location on the wood while the 
+softened paint is scraped off with a putty knife (it should 
+be noted that the heat plate is most successful when the 
+paint is very thick!). With practice, the operator can suc­
+ cessfully move the heat plate evenly across a flat surface 
+such as wooden siding or a window sill or door in a con­
+tinuous motion , thus lessening the risk of scorching the 
+wood in an attempt to reheat the edge of the paint suffi­
+ciently for effective removal. Since the electric heat plate 's 
+coil is "red hot ," extreme caution should be taken to 
+avoid igniting clothing or burning the skin. If an extension 
+cord is used, it should be a heavy-duty cord (with 3-prong 
+grounded plugs) . A heat plate could overload a circuit or, 
+even worse , cause an electrical fire ; therefore , it is recom­
+mended that this implement be used with a single circuit 
+and that a fire extinguisher always be kept close at hand . 
+Fig. 13 The electric heat plate (with paint scraper) is particularly 
+useful for removing paint down to bare wood on flat surfaces 
+such as doors , window frames , and siding. After scraping , some 
+light sanding w ill probably be necessary to smooth the surf ace 
+prior to application of primer and top coats. Photo: David W. 
+Look , A lA. 
+Electric heat gun: The electric heat gun (electric hot-air 
+gun) looks like a hand-held hairdryer with a heavy-duty 
+metal case (see figure 14). It has an electrical resistance 
+coil that typically heats between 500 and 750 degrees 
+Fahrenheit and , again , uses about 15 amps of power 
+which requires a heavy-duty extension cord. There are 
+some heat guns that operate at higher temperatures but 
+they should not be purchased for removing old paint 
+9 
+
+because of the danger of lead paint vapors. The tempera­
+ture is controlled by a vent on the side of the heat gun. 
+When the vent is closed, the heat increases. A fan forces a 
+stream of hot air against the painted woodwork, causing a 
+blister to form. At that point, the softened paint can be 
+peeled back with a putty knife. It can be used to best ad­
+vantage when a paneled door was originally varnished, 
+then painted a number of times. In this case, the paint 
+will come off quite easily, often leaving an almost pristine 
+varnished surface behind. Like the heat plate, the heat gun 
+works best on a heavy paint build-up. (It is, however, not 
+very successful on only one or two layers of paint or on 
+surfaces that have only been varnished. The varnish sim­
+ply becomes sticky and the wood scorches.) 
+Although the heat gun is heavier and more tiring to use 
+than the heat plate, it is particularly effective for remov­
+ing paint from detail work because the nozzle can be 
+directed at curved and intricate surfaces. Its use is thus 
+more limited than the heat plate, and most successfully 
+used in conjunction with the heat plate. For example, it 
+takes about two to three hours to strip a paneled door 
+with a heat gun, but if used in combination with a heat 
+plate for the large, flat area, the time can usually be cut in 
+half. Although a heat gun seldom scorches wood, it can 
+cause fires (like the blow torch) if aimed at the dusty 
+cavity between the exterior sheathing and siding and in­
+terior lath and plaster. A fire may smolder for hours be­
+fore flames break through to the surface. Therefore, this 
+thermal device is best suited for use on solid decorative 
+elements, such as molding, balusters, fretwork, or "ginger­
+bread." 
+Fig. 14 The nozzle on the electric heat gun permits hot air to be 
+aimed into cavities on solid decorative elements such as this ap­
+plied column. After the paint has been sufficiently softened , it 
+can be removed with a profiled scraper. Photo: Charles E. 
+Fisher, III. 
+10 
+Not Recommended 
+Blow Torch: Blow torches, such as hand-held propane or 
+butane torches, were widely used in the past for paint 
+removal because other thermal devices were not available. 
+With this technique, the flame is directed toward the paint 
+until it begins to bubble and loosen from the surface. 
+Then the paint is scraped off with a putty knife. Although 
+this is a relatively fast process, at temperatures between 
+3200 and 3800 degrees Fahrenheit the open flame is not 
+only capable of burning a careless operator and causing 
+severe damage to eyes or skin, it can easily scorch or ig­
+nite the wood. The other fire hazard is more insidious. 
+Most frame buildings have an air space between the ex­
+terior sheathing and siding and interior lath and plaster . 
+This cavity usually has an accumulation of dust which is 
+also easily ignited by the open flame of a blow torch. 
+Finally, lead-base paints will vaporize at high tempera­
+tures, releasing toxic fumes that can be unknowingly in­
+haled. Therefore, because both the heat plate and the heat 
+gun are generally safer to use-that is, the risks are much 
+more controllable-the blow torch should definitely be 
+avoided! 
+Summary of Thermal Methods 
+Recommended: Electric heat plate, electric heat gun. 
+Applicable areas of building: Electric heat plate-flat sur­
+faces such as siding, eaves, sash, sills, doors. Electric heat 
+gun-solid decorative molding, balusters, fretwork, or 
+"gingerbread." 
+For use on: Class III conditions. 
+Health/Safety factors: Take precautions against eye 
+damage and fire. Dispose of lead paint residue properly. 
+Not Recommended: Blow torch. 
+• Chemical Methods 
+With the availability of effective thermal methods for 
+total paint removal, the need for chemical methods-in 
+the context of preparing historic exterior woodwork for 
+repainting-becomes quite limited. Solvent-base or caustic 
+strippers may, however, playa supplemental role in a 
+number of situations, including: 
+• Removing paint residue from intricate decorative 
+features, or in cracks or hard to reach areas if a heat gun 
+has not been completely effective; 
+• Removing paint on window muntins because heat 
+devices can easily break the glass; 
+• Removing varnish on exterior doors after all layers of 
+paint have been removed by a heat plate/heat gun if the 
+original varnish finish is being restored; 
+• Removing paint from detachable wooden elements 
+such as exterior shutters, balusters, columns, and doors 
+by dip-stripping when other methods are too laborious. 
+Recommended Chemical Methods 
+(Use With Extreme Caution) 
+Because all chemical paint removers can involve potential 
+health and safety hazards, no wholehearted recommenda­
+tions can be made from that standpoint. Commonly known 
+as "paint removers" or "strippers," both solvent-base or 
+caustic products are commercially available that, when 
+poured, brushed, or sprayed on painted exterior wood­
+work are capable of softening several layers of paint at a 
+time so that the resulting "sludge" -which should be 
+remembered is nothing less than the sequence of historic 
+
+• Marking the original location of the shutter by number {either by stamping 
+numbers into the end grain with metal numeral dies or cutting numbers into the 
+end with a pen knife} will minimize difficulties when rehanging them. 
+paint layers-can be removed with a putty knife. 
+Detachable wood elements such as exterior shutters can 
+also be "dip-stripped." 
+Solvent-base Strippers: The formulas tend to vary, but 
+generally consist of combinations of organic solvents such 
+as methylene chloride, isopropanol, toluol, xylol, and 
+methanol; thickeners such as methyl cellulose; and various 
+additives such as paraffin wax used to prevent the volatile 
+solvents from evaporating before they have time to soak 
+through multiple layers of paint. Thus, while some 
+solvent-base strippers are quite thin and therefore un­
+suitable for use on vertical surfaces, others, called "semi­
+paste" strippers, are formulated for use on vertical sur­
+faces or the underside of horizontal surfaces. 
+However, whether liquid or semi-paste, there are two 
+important points to stress when using any solvent-base 
+stripper: First, the vapors from the organic chemicals can 
+be highly toxic if inhaled; skin contact is equally danger­
+ous because the solvents can be absorbed; second, many 
+solvent-base strippers are flammable. Even though appli­
+cation out-of-doors may somewhat mitigate health and 
+safety hazards, a respirator with special filters for organic 
+solvents is recommended and, of course, solvent-base 
+strippers should never be used around open flames, lighted 
+cigarettes, or with steel wool around electrical outlets. 
+Although appearing to be the simplest for exterior use, 
+a particular type of solvent-base stripper needs to be men­
+tioned here because it can actually cause the most prob­
+lems. Known as "water-rinsable," such products have a 
+high proportion of methylene chloride together with emul­
+sifiers. Although the dissolved paint can be rinsed off with 
+water with a minimum of scraping, this ultimately creates 
+more of a problem in cleaning up and properly disposing 
+of the sludge. In addition, these strippers can leave a 
+gummy residue on the wood that requires removal with 
+solvents. Finally, water-rinsable strippers tend to raise the 
+grain of the wood more than regular strippers. 
+On balance, then, the regular strippers would seem to 
+work just as well for exterior purposes and are perhaps 
+even better from the standpoint of proper lead sludge 
+disposal because they must be hand Scraped as opposed to 
+rinsed off (a coffee-can with a wire stretched across the 
+top is one effective way to collect the sludge; when the 
+putty knife is run across the wire, the sludge simply falls 
+into the can. Then, when the can is filled, the wire is 
+removed, the can capped, and the lead paint sludge dis­
+posed of according to local health regulations). 
+Caustic Strippers: Until the advent of solvent-base strip­
+pers, caustic strippers were used exclusively when a 
+chemical method was deemed appropriate for total paint 
+removal prior to repainting or refinishing. Now, it is more 
+difficult to find commercially prepared caustic solutions in 
+hardware and paint stores for home-owner use with the 
+exception of lye (caustic soda) because solvent-base 
+strippers packaged in small quantities tend to dominate 
+the market. 
+Most commercial dip stripping companies, however, 
+continue to use variations of the caustic bath process 
+because it is still the cheapest method available for remov­
+ing paint. Generally, dip stripping should be left to 
+professional companies because caustic solutions can 
+dissolve skin and permanently damage eyes as well as 
+present serious disposal problems in large quantities . 
+If exterior shutters or other detachable elements are be-
+ing sent out for stripping in a caustic solution, it is wise 
+to see samples of the company's finished work. While 
+some companies do a first-rate job, others can leave a 
+residue of paint in carvings and grooves. Wooden ele­
+ments may also be soaked too long so that the wood 
+grain is raised and roughened, requiring extensive hand 
+sanding later. In addition, assurances should be given by 
+these companies that caustic paint removers will be 
+neutralized with a mild acid solution or at least 
+thoroughly rinsed with water after dipping (a caustic 
+residue makes the wood feel slippery). If this is not done, 
+the lye residue will cause new paint to fail. 
+6 
+Summary of Chemical Methods 
+Recommended, with extreme caution: Solvent-base strip­
+pers, caustic strippers. 
+Applicable areas of buildings: decorative features, window 
+muntins, doors, exterior shutters, columns, balusters, and 
+railings. 
+For use on: Class III Conditions. 
+Health/Safety factors: Take precautions against inhaling 
+toxic vapors; fire; eye damage; and chemical 'poisoning 
+from skin contact. Dispose of lead residue properly 
+General Paint Type Recommendations 
+Based on the assumption that the exterior wood has been 
+painted with oil paint many times in the past and the ex­
+isting top coat is therefore also an oil paint, it is recom­
+mended that for CLASS I and CLASS II paint surface con­
+ditions, a top coat of high quality oil paint be applied 
+when repainting. The reason for recommending oil rather 
+than latex paints is that a coat of latex paint applied 
+directly over old oil paint is more apt to fail. The con­
+siderations are twofold. First, because oil paints continue 
+to harden with age, the old surface is sensitive to the 
+added stress of shrinkage which occurs as a new coat of 
+paint dries. Oil paints shrink less upon drying than latex 
+paints and thus do not have as great a tendency to pull 
+the old paint loose. Second, when exterior oil paints age, 
+the binder releases pigment particles, causing a chalky 
+surface. Although for best results, the chalk (or dirt, etc.) 
+should always be cleaned off prior to repainting, a coat of 
+new oil paint is more able to penetrate a chalky residue 
+and adhere than is latex paint. Therefore, unless it is 
+possible to thoroughly clean a heavy chalked surface, oil 
+paints-on balance-give better adhesion. 
+ * 
+If however, a latex top coat is going to be applied over 
+several layers of old oil paint, an oil primer should be 
+applied first (the oil primer creates a flat, porous surface 
+to which the latex can adhere). After the primer has 
+thoroughly dried, a latex top coat may be applied. In the 
+long run, changing paint types is more time consuming 
+and expensive. An application of a new oil-type top coat 
+on the old oil paint is, thus, the preferred course of 
+action. 
+• If the top coat is latex paint {when viewed by the naked eye or , preferably, with 
+a magnifying glass, it looks like a series of tiny craters} it may either be repainted 
+with new latex paint or with oil paint. Normal surface preparation should precede 
+any repainting. 
+11 
+
+For snIp hy the Superilltpll(](l'ut of Document::;, U.S. Goyernment Printing Office 
+" ·",hlng'toll. n.r. 20402 
+If CLASS III conditions have necessitated total paint 
+removal, there are two options, both of which assure pro­
+tection of the exterior wood: (1) an oil primer may be ap­
+plied followed by an oil-type top coat, preferably by the 
+same manufacturer; or (2) an oil primer may be applied 
+followed by a latex top coat, again using the same brand 
+of paint. It should also be noted that primers were never 
+intended to withstand the effects of weathering; therefore, 
+the top coat should be applied as soon as possible after 
+the primer has dried. 
+Conclusion 
+The recommendations outlined in this Brief are cautious 
+because at present there is no completely safe and effec­
+tive method of removing old paint from exterior wood­
+work. This has necessarily eliminated descriptions of 
+several methods still in a developmental or experimental 
+stage, which can therefore neither be recommended nor 
+precluded from future recommendation. With the ever­
+increasing number of buildings being rehabilitated, 
+however, paint removal technology should be stimulated 
+and, in consequence, existing methods refined and new 
+methods developed which will respect both the historic 
+wood and the health and safety of the operator. 
+Reading List 
+Batcheler, Penelope Hartshorne, "Pai nt Color Research and Restorati on." 
+Technical Leaflet 15. Nashville: American Association for State 
+and Local History (undated). 
+"Da nger : Restoration May Be Hazardous to Your Health ." The Old 
+House Journal. Vol. 4, No.5 (May 1976), pp. 9-11. 
+Gola, Edward F. "Avo iding Mistakes in Exterior Painting." The Old 
+House Journal. Vol. 4, No . 6 (June 1976), pp. 1, 4-5. 
+"How to Assure a Satisfactory Paint Job. " Scientific Section: Circular 
+784. Washington, DC: National Paint, Varnish and Lacquer 
+Association (undated). 
+Labine, Clem. "Selecting the Best Exterior Paint." The Old Hou se Jour­
+nal. Vol. 4, No .7 (July 1976), pp. 1, 10-1l. 
+Morton, W. Brown III and Hume , Gary L. The Secretary of the Interior's 
+Standards for Historic Preservation Projects with Guidelines for 
+Applying the Standards. Washington, DC: Department of In­
+terior, 1979. 
+Paint Problem Solver. St. Louis: National Decorating Products Associa­
+tion, 1980. 
+"Special Issue: Exterior Painting." The Old House Journal. Vol. 4, No.4 
+(April 1981), pp . 7l-94. 
+Thorsen, John W. "Hazardous Waste : What is it? How to Handle it." 
+Professional Decorating & Coating Action. Vol. 43, No.4 
+(September 1981), pp. 4-5. 
+Special thanks go to Baird M. Smith, AlA (formerly Chief. Preservation Tech­
+nology Branch, TPS) for providing general direction in the development of the 
+manuscript. In addition, the following individuals are to be thanked for their 
+contributions as technical experts in the field: Royal T. Brown, National Paint and 
+Coatings Association , Washington , D.C.; Dr. Judith E. Selwyn, Preservation 'J"ech­
+nology Associates, Boston , Massachusetts; and Dennis R. Vacca, Pratt & Lambert 
+Co., Carlstadt, New Jersey. Finally, thanks go to several National Park Service staff 
+members whose valuable comments were incorporated into the text and who con­
+tributed to the production of the brief: James A. Caufield, Anne E. Grimmer, Jean 
+E. Travers , David G. Battle, Sharon C. Park, AlA, Charles E. Fisher Ill, Sara K. 
+Blumenthal, and Martha A. Gutrick. 
+This publication has been prepared pursuant to The Economic Recovery Tax Act 
+of 1981, which directs the Secretary of the Interior to certify rehabilitations of 
+historic buildings that are consistent with their historic character; the advice and 
+guidance in this brief will assist property owners in complying with the re­
+quirements of this law. 
+Preservation Briefs 10 has been developed under the technical editorship of Lee 
+H. Nelson, AlA, Chief, Preservation Assistance Division, National Park Service, 
+U.S. Department of the Interior, Washington, D.C. 20240. Comments on the 
+usefulness of this information are welcomed and can be sent to Mr. Nelson at the 
+above address. 
+This publication is not copyr ighted and can be reproduced without penalty. Nor­
+mal procedures for credit to the authors and the National Park Service are appre­
+ciated. 
+September 1982 

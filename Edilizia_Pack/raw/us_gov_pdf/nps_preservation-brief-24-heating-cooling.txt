@@ -1,0 +1,1030 @@
+PRESERVATION 
+BRIEFS 
+Heating, Ventilating, and Cooling 
+Historic Buildings: 
+Problems and Recommended Approaches 
+Sharon C. Park, AJA 
+U.S. Department of the Interior 
+National Park Service 
+Cultural Resources 
+Heritage Preservation Services 
+The need for modern mechanical systems is one of the 
+most common reasons to undertake work on historic 
+buildings. Such work includes upgrading older me­
+chanical systems, improving the energy efficiency of 
+existing buildings, installing new heating, ventilation or 
+air conditioning (HVAC) systems , or- particularly for 
+museums-installing a climate control system with 
+humidification and dehumidification capabilities . Deci­
+sions to install new HVAC or climate control systems 
+often result from concern for occupant health and com­
+fort, the desire to make older buildings marketable , or 
+the need to provide specialized environments for oper ­
+ating computers, storing artifacts, or displaying mu­
+seum collections . Unfortunately, occupant comfort and 
+concerns for the objects within the building are some ­
+times given greater consideration than the building 
+itself. In too many cases, applying modern standards 
+of interior climate comfort to historic buildings has 
+proven detrimental to historic materials and decorative 
+finishes. 
+This Preservation Brief underscores the importance of 
+careful planning in order to balance the preservation 
+objectives with interior climate needs of the building . It 
+is not intended as a technical guide to calculate ton­
+nage or to size piping or ductwork. Rather, this Brief 
+identifies some of the problems associated with install­
+ing mechanical systems in historic buildings and rec­
+ommends approaches to minimizing the physical and 
+visual damage associated with installing and maintain ­
+ing these new or upgraded systems. 
+Historic buildings are not easily adapted to house 
+modern precision mechanical systems. Careful plan­
+ning must be provided early on to ensure that deci­
+sions made during the design and installation phases 
+of a new system are appropriate . Since new mechanical 
+and other related systems, such as electrical and fire 
+suppression, can use up to 10% of a building's square 
+footage and 30%-40% of an overall rehabilitation 
+budget , decisions must be made in a systematic and 
+coordinated manner. The installation of inappropriate 
+mechanical systems may result in any or all of the 
+following: 
+• large sections of historic materials are removed to 
+install or house new systems. 
+• historic structural systems are weakened by carrying 
+the weight of, and sustaining vibrations from, large 
+equipment. 
+• moisture introduced into the building as part of a 
+new system migrates into historic materials and 
+causes damage, including biodegradation, freeze/ 
+thaw action, and surface staining . 
+• exterior cladding or interior finishes are stripped to 
+install new vapor barriers and insula tion. 
+• historic finishes, features, and spaces are altered by 
+dropped ceilings and boxedchases or by poorly lo­
+cated grilles, registers, and equipment. 
+• systems that are too large or too small are installed 
+before there is a clearly planned use or a new tenant. 
+For historic properties it is critical to understand what 
+spaces, features, and finishes are historic in the build­
+ing, what should be retained, and what the realistic 
+heating, ventilating, and cooling needs are for the 
+building, its occupants , and its contents. A systematic 
+approach, involving preservation planning, preserva­
+tion design, and a follow-up program of monitoring 
+and maintenance, can ensure that new systems are 
+successfully added-or existing systems are suitably 
+upgraded-while preserving the historic integrity of the
+building. 
+No set formula exists for determining what type of 
+mechanical system is best for a specific building. Each 
+building and its needs must be evaluated separately. 
+Some buildings will be so significant that every effort 
+must be made to protect the historic materials and sys­
+tems in place with minimal intrusion from new sys­
+tems. Some buildings will have museum collections 
+that need special climate control. In such cases, cura­
+torial needs must be considered-but not to the ulti­
+mate detriment of the historic building resource. Other 
+
+buildings will be rehabilitated for commercial use. For 
+them, a variety of systems might be acceptable, as long 
+as significant spaces, features, and finishes are retained. 
+Most mechanical systems require upgrading or re­
+placement within 15-30 years due to wear and tear or 
+the availability of improved technology. Therefore, his­
+toric buildings should not be greatly altered or other ­
+wise sacrificed in an effort to meet short-term system s 
+objectives . 
+History of Mechanical Systems 
+The history of mechanical systems in buildings involves 
+a study of inventions and ingenuity as building own­
+ers, architects, and engineers devised ways to improve 
+the interior climate of their buildings. Following are 
+highlights in the evolution of heating, ventilating, and 
+cooling systems in historic buildings. 
+Eighteenth Century. Early heating and ventilation in 
+America relied upon common sense methods of manag­
+ing the environment (see figure 1). Builders purpo sely 
+sited houses to capture winter sun and prevailing sum­
+mer cross breezes; they chose materials that could help 
+protect the inhabitants from the elements , and took 
+precautions against precipitation and damaging drain ­
+age patterns. The location and sizes of window s, 
+doors, porches, and the floor plan itself often evolved 
+to maximize ventilation . Heating was primarily from 
+fireplaces or stoves and, therefore, was at the source of 
+delivery . In 1744, Benjamin Franklin designed his 
+"Pennsylvania stove" with a fresh air intake in order to 
+maximize the heat radiated into the room and to mini­
+mize annoying smoke. 
+Thermal insulation was rudimentary-often wattle 
+and daub, brick and wood nogging. The comfort level 
+for occupants was low, but the relatively small differ­
+ence between internal and external temperatures and 
+relative humidity allowed building materials to expand 
+and contract with the seasons. 
+Regional styles and architectural features reflected 
+regional climates. In warm , dry and sunny climates, 
+thick adobe walls offered shelter from the sun and kept 
+the inside temperatures cool. Verandas , courtyards , 
+porches, and high ceilings also reduced the impact of 
+the sun. Hot and humid climates called for elevated 
+living floors , louvered grilles and shutters, balconies , 
+and interior courtyards to help circulate air. 
+Nineteenth Century. The industrial revolution pro­
+vided the technological means for controlling the envi­
+ronment for the first time (see figure 2). The dual 
+developments of steam energy from coal and industrial 
+mass production made possible early central heating 
+systems with distribution of heated air or steam using 
+metal ducts or pipes. Improvements were made to 
+early wrought iron boilers and by late century , steam 
+and low pressure hot water radiator systems were in 
+common use, both in offices and residences . Some 
+large institutional buildings heated air in furnaces and 
+distributed it throughout the building in brick flues 
+with a network of metal pipes delivering heated air to 
+individual rooms . Residential designs of the period 
+often used gravity hot air systems utilizing decorative 
+floor and ceiling grilles. 
+Ventilation became more scientific and the introdu c-
+2 
+1. Eighteenth century and later vernacular architecture depended on the 
+siting of the building, deciduous trees, cross ventilation, and the placement 
+of windows and chimneys to maximize winter heating and natural summer 
+cooling. Regional details, as seen in this Virginia house, include external 
+chimneys and a separate summer kitchen to reduce fire risk and isolate heat 
+in the summer. Photo: NPS Files. 
+2. Nineteenth century buildings continued to use architectural features such 
+as porches, cupolas, and awnings to make the buildings more comfortable in 
+summer, but heating was greatly improved by hot water or steam radiators. 
+Photo: NPS Files 
+
+tion of fresh air into buildings became an important 
+component of heating and cooling. Improved forced air 
+ventilation became possible in mid-century with the 
+introduction of power-driven fans. Architectural fea­
+tures such as porches, awnings, window and door 
+transoms, large open-work iron roof trusses, roof mon­
+itors, cupolas, skylights and clerestory windows helped 
+to dissipate heat and provide healthy ventilation. 
+Cavity wall construction, popular in masonry struc­
+tures, improved the insulating qualities of a building 
+and also provided a natural cavity for the dissipation of 
+moisture produced on the interior of the building. In 
+some buildings, cinder chips and broken masonry filler 
+between structural iron beams and jack arch floor 
+vaults provided thermal insulation as well as fire­
+proofing. Mineral wool and cork were new sources of 
+lightweight insulation and were forerunners of contem­
+porary batt and blanket insulation. 
+The technology of the age, however, was not suffic­
+ient to produce "tight" buildings. There was still only a 
+moderate difference between internal and external tem­
+peratures. This was due, in part, to the limitations of 
+early insulation, the almost exclusive use of single 
+glazed windows, and the absence of air-tight construc­
+tion. The presence of ventilating fans and the reliance 
+on architectural features, such as operable windows, 
+cupolas and transoms, allowed sufficient air movement 
+to keep buildings well ventilated. Building materials 
+could behave in a fairly traditional way, expanding and 
+contracting with the seasons. 
+Twentieth Century. The twentieth century saw inten­
+sive development of new technologies and the notion 
+of fully integrating mechanical systems (see figure 3). Oil 
+and gas furnaces developed in the nineteenth century 
+were improved and made more efficient, with electric­
+ity becoming the critical source of power for building 
+systems in the latter half of the century. Forced air heat­
+ing systems with ducts and registers became popular 
+for all types of buildings and allowed architects to ex­
+periment with architectural forms free from mechanical 
+encumbrances. In the 1920s large-scale theaters and 
+auditoriums introduced central air conditioning, and by 
+mid-century forced air systems which combined heat­
+ing and air conditioning in the same ductwork set a 
+new standard for comfort and convenience. The combi­
+nation and coordination of a variety of systems came 
+together in the post-World War II highrise buildings; 
+complex heating and air conditioning plants, electric 
+elevators, mechanical towers, ventilation fans, and full 
+service electric lighting were integrated into the build­
+ing's design. 
+The insulating qualities of building materials im­
+proved. Synthetic materials, such as spun fiberglass 
+batt insulation, were fully developed by mid-century. 
+Prototypes of insulated thermal glazing and integral 
+storm window systems were promoted in construction 
+journals. Caulking to seal out perimeter air around 
+window and door openings became a standard con­
+struction detail. 
+The last quarter of the twentieth century has seen 
+making HVAC systems more energy efficient and better 
+integrated. The use of vapor barriers to control mois­
+ture migration, thermally efficient windows, caulking 
+and gaskets, compressed thin wall insulation, has be­
+come standard practice. New integrated systems now 
+combine interior climate control with fire suppression, 
+lighting, air filtration, temperature and humidity con­
+trol, and security detection. Computers regulate the 
+performance of these integrated systems based on the 
+time of day, day of the week, occupancy, and outside 
+ambient temperature. 
+3. The circa 1928 Fox Theater in Detroit, designed by C. Howard Crane, 
+was one of the earliest twentieth century buildings to provide air condition­
+ing to its patrons. The early water-cooled system was recently restored. 
+Commercial and high rise buildings of the twentieth century were able, 
+mostly th rough electrical power, to provide sophisticated systems that inte­
+grated many building services. Photo: William Kessler and Associates, 
+Architects. 
+Climate Control and Preservation 
+Although twentieth century mechanical systems tech­
+nology has had a tremendous impact on making his­
+toric buildings comfortable, the introduction of these 
+new systems in older buildings is not without prob­
+lems. The attempt to meet and maintain modern cli­
+mate control standards may in fact be damaging to historic 
+resources. Modern systems are often over-designed to 
+compensate for inherent inefficiencies of some historic 
+buildings materials and plan layouts. Energy retrofit 
+measures, such as installing exterior wall insulation 
+and vapor barriers or the sealing of operable window 
+and vents, ultimately affect the performance and can 
+reduce the life of aging historic materials. 
+3 
+
+0 
+70 
+60 
+50 
+E 
+30 
+20 
+outside inside 
+II 
+0 
+II 
+> 
+II 
+0 
+II 
+> 
+outside inside 
+95 
+90 
+85 
+80 
+75 
+70 
+65 
+outside inside 
+sealant 
+outlet 
+condensation 
+b. Hot, Humid Climate Condition 
+32°F. 
+c. Moisture Condensation in Walls 
+In general, the greater the differential between the 
+interior and exterior temperature and humidity levels, 
+the greater the potential for damage. As natural vapor 
+pressure moves moisture from a warm area to a colder, 
+dryer area, condensation will occur on or in building 
+materials in the colder area (see figure 4). Too little 
+humidity in winter, for example, can dry and crack 
+historic wooden or painted surfaces. Too much humid­
+ity in winter causes moisture to collect on cold sur­
+faces, such as windows, or to migrate into walls. As a 
+result, this condensation deteriorates wooden or metal 
+windows and causes rotting of walls and wooden 
+structural elements, dampening insulation and holding 
+moisture against exterior surfaces. Moisture migration 
+through walls can cause the corrosion of metal an­
+chors, angles, nails or wire lath, can blister and peel 
+exterior paint, or can leave efflorescence and salt de­
+posits on exterior masonry. In cold climates, freeze­
+thaw damage can result from excessive moisture in 
+external walls. 
+To avoid these types of damage to a historic building, 
+it is important to understand how building components 
+work together as a system. Methods for controlling 
+interior temperature and humidity and improving ven­
+tilation must be considered in any new or upgraded 
+HVAC or climate control system. While certain energy 
+retrofit measures will have a positive effect on the over­
+all building, installing effective vapor barriers in his­
+toric walls is difficult and often results in destruction of 
+significant historic materials (see figure 5). 
+5. The installation of vapor retarders in walls of historic buildings in an 
+effort to contain interior moisture can cause serious damage to historic 
+finishes as shown here. In this example, all the wall plaster and lath have 
+been stripped in preparation for a vapor barrier prior to replastering. Con­
+trolling interior temperature and relative humidity can be more effective than 
+adding insulation and vapor barriers to historic perimeter walls. Photo: 
+Ernest A. Conrad, P.E. 
+4. Mechanical heating and cooling systems change the interior climate of a building. Moisture in the air will dissipate from the warmer area of a building to 
+the colder area and can cause serious deterioration of historic materials. Condensation can form if the dew point occurs within the building wall, particularly 
+one that has been insulated (see a and b). Even when vapor retarders are installed (c), any non-continuous areas will provide spaces for moisture to pass. Wall 
+Section Drawings: NPS files 
+4 
+
+Planning the New System 
+Climate control systems are generally classified accord­
+ing to the medium used to condition the tem~erature: 
+air, water, or a combination of both ( see overview on 
+page 6 ) . The complexity of choices facing a building
+owner or manager means that a systematicapproach is 
+critical in determining the most suitable system for a 
+building, its contents, and its occupants. No matter
+which system is installed, a change in the mtenor ch­
+mate will result. This physical change will in turn affect 
+how the building materials perform. New registers, 
+grilles, cabinets, or other accessories associated with 
+the new mechanical system will also visually change 
+the interior (and sometimes the exterior) appearance of 
+the building. Regardless of the type or extent of a me­
+chanical system, the owner of a historic building 
+should know before a system is installed what it will 
+look like and what problems can be anticipated during
+the life of that system. The potential harm to a building
+and costs to an owner of selecting the wrong mechani-
+cal system are very great. 
+The use of a building and its contents will largely 
+determine the best type of mechanical system. The 
+historic building materials and construction technology 
+as well as the size and availability of secondary spaces 
+within the historic structure will affect the choice of a 
+system. It may be necessary to investigate a combina­
+tion of systems. In each case, the needs of the user the 
+needs of the building, and the needs of a collection or 
+equipment must be considered. It may not be neces-
+sary to have a comprehensive climate control sy_stem if 
+climate-sensitive objects can be accommodated in spe­
+cial areas or climate-controlled display cases . It may not 
+be necessary to have central air conditioning_ in a mild 
+climate if natural ventilation systems can be improved 
+through the use of operable windows, awnings, ex­
+haust fans, and other "low-tech" means. Modern 
+standards for climate control developed for new con­
+struction may not be achievable or desirable for historic
+buildings. In each case, the lowest level of mterventwn 
+needed to successfully accomplish the job should be selected. 
+Before a system is chosen, the following planning 
+steps are recommended: 
+1. Determine the use of the building. The proposed 
+use of the building (museum, commercial, residential, 
+retail) will influence the type of system that should be 
+installed. The number of people and functions to be 
+housed in a building will establish the level of comfort 
+and service that must be provided. Avoid uses that 
+require major modifications to significant architectural
+spaces. What is the intensity of use of the building:
+intermittent or constant use, special events or seasonal 
+events? Will the use of the building require major new 
+services such as restaurants, laundries, kitchens, locker 
+rooms, or other areas that generate moisture that may 
+exacerbate climate control within the historic space? In 
+the context of historic preservation, uses that require 
+radical reconfigurations of historic spaces are inappro­
+priate for the building. 
+2. Assemble a qualified team. This team ideally 
+should consist of a preservation architect, mechanical 
+engineer, electrical engineer, structural engineer and 
+preservation consultants, each knowledgeable in codes 
+and local requirements. If a special use (church, mu-
+seum, art studio) or a collection is involved, a specialist 
+familiar with the mechanical requirements of that 
+building type or collection should also be hired. 
+Team members should be familiar with the needs of 
+historic buildings and be able to balance complex fac­
+tors: the preservation of the historic architecture (aes­
+thetics and conservation), requirements imposed by 
+mechanical systems ( quantified heating and cooling 
+loads), building codes (health and safety), ten_ant re­
+quirements (quality of comfort, ease of operation), ac­
+cess (maintenance and future replacement), and the 
+overall cost to the owner. 
+3. Undertake a condition assessment of the existing 
+building and its systems. What are the existing con­
+struction materials and mechanical systems? What con­
+dition are they in and are they reusable (see figure 6)? 
+Where are existing chillers, boilers, air handlers, or 
+cooling towers located? Look at the condition of all 
+other services that may benefit from being integrated 
+into a new system, such as electrical and fire suppres­
+sion systems. Where can energy efficiency be improved 
+to help downsize any new equipment added, and
+which of the historic features, e.g. shutters, awnings,
+skylights, can be reused (see figure 7)? Evaluate air 
+infiltration through the exterior envelope; monitor the 
+interior for temperature and humidity levels with hy­
+grothermographs for at least a year. Identify building, 
+site or equipment deficiencies or the presence of as­
+bestos that must be corrected prior to the installation or 
+upgrading of mechanical systems. 
+6. A condition assessment during the planning stage would identify this 
+round radiator in a small oval-shaped vestibule as a significant element of the 
+historic heating system. In upgrading the mechanical system, the radiator 
+should be retained. Photo: Michael C. Henry P.E., ALA. 
+5 
+
+cast iron radiator 
+Cooling cycle 
+compressor refrigerant flow 
+heat in evaporator condenser heat out
+expansion valve 
+Overview of HVAC Systems 
+WATER SYSTEMS: Hydronic radiators, Fan coil, or 
+radiant pipes 
+Water systems are generally called hydronic and use a network 
+of pipes to deliver water to hot water radiators, radiant pipes set 
+in floors or fan coil cabinets which can give both heating and 
+cooling. Boilers produce hot water or steam; chillers produce 
+chilled water for use with fan coil units. Thermostats control the 
+temperature by zone for radiators and radiant floors. Fan coil 
+units have individual controls. Radiant floors provide quiet, 
+even heat, but are not common. 
+Advantages: Piped systems are generally easier to install in 
+historic buildings because the pipes are smaller than ductwork. 
+Disadvantages: There is the risk, however, of hidden leaks in 
+the wall or burst pipes in winter if boilers fail. Fan coil conden­
+sate pans can overflow if not properly maintained. Fan coils 
+may be noisy. 
+Hydronic Radiators: Radiators or baseboard radiators are 
+looped together and are usually set under windows or along 
+perimeter walls. New boilers and circulating pumps can up­
+grade older systems. Most piping was cast iron although cop­
+per systems can be used if separately zoned. Modern cast iron 
+baseboards and copper fin-tubes are available. Historic radia­
+tors can be reconditioned. 
+cast iron baseboard 
+return piping Fan coil unit 
+6 
+CENTRAL AIR SYSTEMS 
+The basic heating, ventilation and air conditioning (HVAC) sys­
+tem is all-air, single zone fan driven designed for low, medium 
+or high pressure distribution . The system is composed of com­
+pressor drives, chillers, condensers, and furnace depending 
+on whether the air is heated, chilled or both. Condensers, gen­
+erally air cooled, are located outside. The ducts are sheet metal 
+or flexible plastic and can be insulated. Fresh air can be circu­
+lated. Registers can be designed for ceilings , floors and walls. 
+The system is controlled by thermostats; one per zone. 
+Advantages: Ducted systems offer a high level of control of 
+interior temperature, humidity, and filtration . Zoned units can 
+be relatively small and well concealed. 
+Disadvantages: The damage from installing a ducted system 
+without adequate space can be serious for a historic building. 
+Systems need constant balancing and can be noisy. 
+Basic HVAC: Most residential or small commercial systems will 
+consist of a basic furnace with a cooling coil set in the unit and 
+a refrigerant compressor or condenser located outside the 
+building. Heating and cooling ductwork is usually shared. If 
+sophisticated humidification and dehumidification is added to 
+the basic HVAC system, a full climate control system results. 
+This can often double the size of the equipment. 
+Heating furnace with cooling coil 
+Basic Heat Pump/Air System: The heat pump is a basic HVAC 
+system as described above except for the method of generating 
+hot and cold air. The system operates on the basic refrigeration 
+cycle where latent heat is extracted from the ambient air and is 
+used to evaporate refrigerant vapor under pressure. Functions 
+of the condenser and evaporator switch when heating is 
+needed. Heat pumps, somewhat less efficient in cold climates, 
+can be fitted with electric resistance coil. 
+cycle reverses for heating 
+Fan Coil Units: Fan coil systems use terminal cabinets in each 
+room serviced by 2, 3, or 4 pipes approximately 1-1/2" each in 
+diameter. A fan blows air over the coils which are serviced by 
+hot or chilled water. Each fan coil cabinet can be individually 
+controlled. Four-pipe fan coils can provide both heating and 
+cooling all year long. Most piping is steel. Non-cabinet units 
+may be concealed in closets or custom cabinetry, such as ben­
+ches, can be built. 
+
+return air 
+Boiler Chiller 
+heating coil 
+cooling coil 
+humidifier
+supply air 
+rn'TT Conditioned 
+Air handler space 
+fan
+return air 
+Ill 
+Fresh air intake 
+exhaust fan 
+portable heater 
+electric baseboard 
+exhaustair 
+(Air conditioner) 
+COMBINED AIR AND WATER SYSTEMS 
+These systems are popular for restoration work because they 
+combine the ease of installation for the piped system with the 
+performance and control of the ducted system. Smaller air han­
+dling units, not unlike fan coils, may be located throughout a 
+building with service from a central boiler and chiller. In many 
+cases the water is delivered from a central plant which services 
+a complex of buildings. 
+This system overcomes the disadvantages of a central ducted 1 
+system where there is not adequate horizontal or vertical runs 1 
+for the ductwork . The equipment, being smaller, may also be 
+quieter and cause less vibration. If only one air handler is being 
+utilized for the building, it is possible to house all the equip­
+ment in a vault outside the building and send only conditioned 
+air into the structure . 
+Advantages: flexibility for installation using greater piping runs 
+with shorter ducted runs; Air handlers can fit into small spaces . 
+Disadvantages: piping areas may have undetected leaks; air 
+handlers may be noisy. 
+Water-serviced Air Handlers: 
+Typical Systems Layout: 
+OTHER SYSTEM COMPONENTS 
+Non-systems components should not be overlooked if they can 
+make a building more comfortable without causing damage to 
+the historic resource or its collection. 
+Advantages: components may provide acceptable levels of 
+comfort without the need for an entire system. 
+Disadvantages: Spot heating, cooling and fluxuations in hu­
+midity may harm sensitive collections or furnishings. If an inte­
+grated system is desirable, components may provide only a 
+temporary solution . 
+Portable Air Conditioning: 
+Most individual air conditioners are set in windows or through 
+exterior walls which can be visually as well as physically dam­
+aging to historic buildings. Newer portable air conditioners are 
+available which sit in a room and exhaust directly to the exterior 
+through a small slot created by a raised window sash. 
+Fans: Fans should be considered in most properties to improve 
+ventilation. Fans can be located in attics, at the top of stairs, or 
+in individual rooms. In moderate climates, fans may eliminate 
+the need to install central air systems. 
+Dehumidifiers: For houses without central air handling sys­
+tems, a dehumidifier can resolve problems in humid climates. 
+Seasonal use of dehumidifiers can remove moisture from damp 
+basements and reduce fungal growth. 
+portable unit 
+(dehumidifier)
+Heaters: Portable radiant heaters, such as those with water 
+and glycol, may provide temporary heat in buildings used infre­
+quently or during systems breakdowns. Care should be taken 
+not to create a fire hazard with improperly wired units. 
+Compiled by Sharon C. Park. Sketches adapted from Architectural Graphic Standards with permission from John Wiley and Sons. 
+7 
+
+4. Prioritize architecturally significant spaces, fin­
+ishes, and features to be preserved. Significant archi­
+tectural spaces, finishes and features should be 
+identified and evaluated at the outset to ensure their 
+preservation. This includes significant existing mechan­
+ical systems or elements such as hot water radiators, 
+decorative grilles, elaborate switchplates, and non­
+mechanical architectural features such as cupolas, tran­
+soms, or porches. Identify non-significant spaces 
+where mechanical equipment can be placed and sec­
+ondary spaces where equipment and distribution runs 
+on both a horizontal and vertical basis can be located. 
+Appropriate secondary spaces for housing equipment 
+might include attics, basements, penthouses, mezza­
+nines, false ceiling or floor cavities, vertical chases, 
+stair towers, closets, or exterior below-grade vaults (see 
+figure 8). 
+5. Become familiar with local building and fire 
+codes. Owners or their representatives should meet 
+early and often with local officials. Legal requirements 
+should be checked; for example, can existing ductwork 
+be reused or modified with dampers? Is asbestos abate­
+ment required? What are the energy, fire, and safety 
+codes and standards in place, and how can they be met 
+while maintaining the historic character of the build­
+ing? How are fire separation walls and rated mechani­
+cal systems to be handled between multiple tenants? Is 
+there a requirement for fresh air intake for stair towers 
+that will affect the exterior appearance of the building? 
+Many of the health, energy, and safety code require­
+ments will influence decisions made for mechanical 
+equipment for climate control. It is importance to know 
+what they are before the design phase begins. 
+6. Evaluate options for the type and size of systems. 
+A matrix or feasibility studies should be developed to 
+balance the benefits and drawbacks of various systems. 
+Factors to consider include heating and/or cooling, fuel 
+type, distribution system, control devices, generating 
+equipment and accessories such as filtration, and hu­
+midification. What are the initial installation costs, pro­
+jected fuel costs, long-term maintenance, and life-cycle 
+7. Operable skylights and grilles that can be adapted for return air should be 
+identified as part of the planning phase for new or upgraded mechanical 
+systems. Photo: Dianne Pierce, NPS files. 
+8 
+costs of these components and systems? Are parts of 
+an existing system being reused and upgraded? The 
+benefits of added ventilation should not be overlooked 
+(see figure 9). What are the trade-offs between one 
+large central system and multiple smaller systems? 
+Should there be a forced air ducted system, a 2-pipe 
+fan coil system, or a combined water and air system? 
+What space is available for the equipment and distribu­
+tion system? Assess the fire-risk levels of various fuels. 
+Understand the advantages and disadvantages of the 
+various types of mechanical systems available. Then 
+evaluate each of these systems in light of the preservation 
+objectives established during the design phase of planning. 
+8. In considering options for new systems, existing spaces should be evalu­
+ated for their ability to house new equipment. This sketch shows several 
+areas where new mechanical equipment could be located to avoid damaging 
+significant spaces. Sketch: NPS files 
+9. Improving ventilation through traditional means should not be overlooked 
+in planning new or upgraded HVAC systems. In mild climates, good exhaust 
+fans can often eliminate the need for air conditioning or can reduce equip­
+ment size by reducing cooling loads. Photo: Ernest A. Conrad, P. E. 
+
+Designing the new system 
+In designing a system, it is important to anticipate how 
+it will be installed, how damage to historic materials 
+can be minimized, and how visible the new mechanical 
+system will be within the restored or rehabilitated 
+spaces (see figure 10 a-f). Mechanical equipment space 
+needs are often overwhelming; in some cases, it may 
+be advantageous to look for locations outside of the 
+building, including ground vaults, to house some of 
+the equipment but only if it there is no adverse impact 
+to the historic landscape or adjacent archeological re­
+sources . Various means for reducing the heating and 
+cooling loads (and thereby the size of the equipment) 
+should be investigated. This might mean reducing 
+slightly the comfort levels of the interior, increasing the 
+number of climate control zones, or improving the 
+energy efficiency of the building. 
+The following activities are suggested during the 
+design phase of the new system: 
+1. Establish specific criteria for the new or upgraded 
+mechanical system. New systems should be installed 
+with a minimum of damage to the resource and should be 
+visually compatible with the architecture of the building. 
+They should be installed in a way that is easy to service, 
+maintain, and upgrade in the future. There should be 
+safety and back-up monitors in place if buildings have col­
+lections, computer rooms, storage vaults or special 
+conditions that need monitoring . The new systems 
+should work within the structural limits of the historic 
+building. They should produce no undue vibration, no 
+undue noise, no dust or mold, and no excess moisture that 
+could damage the historic building materials. If any 
+equipment is to be located outside of the building, 
+there should be no impact to the historic appearance of 
+building or site, and there should be no impact on archeo­
+logical resources. 
+2. Prioritize the requirements for the new climate 
+control system. The use of the building will determine 
+the level of interior comfort and climate control. Some­
+times, various temperature zones may safely be created 
+within a historic building. This zoned approach may be 
+appropriate for buildings with specialized collections 
+storage, for buildings with mixed uses, or for large 
+buildings with different external exposures, occupancy 
+patterns, and delivery schedules for controlled air. Spe­
+cial archives, storage vaults or computer rooms may 
+need a completely different climate control from the 
+rest of the building. Determine temperature and hu­
+midity levels for occupants and collections and ventila­
+tion requirements between differing zones . Establish if 
+the system is to run 24 hours a day or only during op­
+erating or business hours . Determine what controls are 
+optimum (manual, computer, preset automatic, or 
+other). The size and location of the equipment to han­
+dle these different situations will ultimately affect the 
+design of the overall system as well. 
+3. Minimize the impact of the new HVAC on the 
+existing architecture. Design criteria for the new sys­
+tem should be based on the type of architecture of the 
+historic resource . Consideration should be given as to 
+whether or not the delivery system is visible or hidden. 
+Utilitarian and industrial spaces may be capable of 
+accepting a more visible and functional system. More 
+formal, ornate spaces which may be part of an interpre­
+tive program may require a less visible or disguised 
+system. A ducted system should be installed without 
+ripping into or boxing out large sections of floors, 
+walls, or ceilings. A wet pipe system should be in­
+stalled so that hidden leaks will not damage important 
+decorative finishes . In each case, not only the type of 
+system (air, water, combination), but its distribution 
+(duct, pipe) and delivery appearance (grilles, cabinets, 
+or registers) must be evaluated. It may be necessary to 
+use a combination of different systems in order to pre­
+serve the historic building. Existing chases should be 
+reused whenever possible. 
+4. Balance quantitative requirements and preserva­
+tion objectives. The ideal system may not be achievable 
+for each historic resource due to cost, space limitations, 
+code requirements, or other factors beyond the owner's 
+control. However, significant historic spaces, finishes, 
+and features can be preserved in almost every case, 
+even given these limitations. For example, if some ceil­
+ing areas must be slightly lowered to accommodate 
+ductwork or piping, these should be in secondary ar­
+eas away from decorative ceilings or tall windows. If 
+modern fan coil terminal units are to be visible in his­
+toric spaces, consideration should be given to custom 
+designing the cabinets or to using smaller units in more 
+locations to diminish their impact. If grilles and regis­
+ters are to be located in significant spaces, they should 
+be designed to work within the geometry or placement 
+of decorative elements. All new elements, such as 
+ducts, registers, pipe-runs, and mechanical equipment 
+should be installed in a reversible manner to be re­
+moved in the future without further damage to the 
+building (see fig 11). 
+Systems Performance and Maintenance 
+Once the system is installed, it will require routine 
+maintenance and balancing to ensure that the proper 
+performance levels are achieved. In some cases, ex­
+tremely sophisticated, computerized systems have been 
+developed to control interior climates, but these still 
+need monitoring by trained staff. If collection exhibits 
+and archival storage are important to the resource, the 
+climate control system will require constant monitoring 
+and tuning. Back-up systems are also needed to pre­
+vent damage when the main system is not working: 
+The owner, manager, or chief of maintenance should 
+be aware of all aspects of the new climate control sys­
+tem and have a plan of action before it is installed. 
+Regular training sessions on operating, monitoring, 
+and maintaining the new system should be held for 
+both curatorial and building maintenance staff. If there 
+are curatorial reasons to maintain constant temperature 
+or humidity levels, only individuals thoroughly trained 
+in how the HVAC systems operates should be able to 
+adjust thermostats. Ill-informed and haphazard at­
+tempts to adjust comfort levels, or to save energy over 
+weekends and holidays, can cause great damage. 
+9 
+
+before after 
+historic after 
+10. The following photographs illustrate recent preservation projects where careful planning and design retained the historic character of the 
+resources. 
+a. Before and after of a circa 1900 school entrance. The radiators have been replaced with a two-pipe fan coil system built into bench seats. The 
+ceiling was preserved and no exposed elements were required to add air conditioning . Piping runs are under the benches and there was no 
+damage to the masonry walls. Photos: Notter Finegold + Alexander lnc . and Lautman Photography, Washington. 
+d. Auditors Buildings, Washington, D.C. This upper floor workspace had been modified over the years with dropped ceilings and partitions. ln 
+the recent restoration, the open plan workspace was restored, the false ceiling was removed, and the fireproof construction was exposed. A vari­
+able air volume (VA V) system using round double shell exposed ductwork is in keeping with the industrial character of the architectural space. 
+Photo: Kenneth Wyner Photography, courtesy of Notter Finegold + Alexander lnc. Before view provided by Notter Finegold + Alexander /Mariani. 
+10 
+
+b. Central air conditioning was installed in the corridors of this circa 1900 
+school building by adding an air handler over the entrance from a vestibule. 
+The custom-designed slot registers provide linear diffusers without detracting 
+from the architecture of the space. Photo: Lautman Photography courtesy of 
+Notter Finegold + Alexander Inc. 
+e. Town Hall, Andover, MA. The upstairs auditorium was restored and new 
+mechanical systems were installed. Perimeter baseboard radiation provides 
+heat and air handlers, located in the attic space provide air conditioning. The 
+cast iron ceiling grille was adapted for return air and the supply registers 
+were installed in a symmetrical and regular manner to minimize impact on 
+the historic ceiling. Photo: David Hewitt/Anne Garrison for Ann Beha 
+Associates. 
+f. Homewood, Baltimore, MD. This elegant circa 1806 residence is now a 
+house museum. The registers for the forced air ducted system seen behind the 
+table legs, are grained to blend with the historic baseboards. The HVAC 
+system uses a water/air system where chilled water and steam heat are 
+converted to conditioned air. Photo: Courtesy Homewood Museum, Johns 
+Hopkins University. 
+11 
+c. Conference room, Auditors Building, Washington, D.C. The historic 
+steam radiators were retained for heating. The cast iron ceiling register was 
+retained as a decorative element, but made inoperable to meet fire codes. 
+Photo: Kenneth Wyner Photography courtesy of Notter Finegold + Alexan­
+der Inc. 
+
+HVAC Do's and Don'ts 
+DO's: 
+• Use shutters, operable windows, porches, curtains, 
+awnings, shade trees and other historically appro­
+priate non-mechanical features of historic buildings 
+to reduce the heating and cooling loads. Consider 
+adding sensitively designed storm windows to 
+existing historic windows. 
+• Retain or upgrade existing mechanical systems 
+whenever possible: for example, reuse radiator 
+systems with new boilers, upgrade ventilation 
+within the building, install proper thermostats or 
+humidistats. 
+• Improve energy efficiency of existing buildings by 
+installing insulation in attics and basements. Add 
+insulation and vapor barriers to exterior walls only 
+when it can be done without further damage to the 
+resource. 
+• In major spaces, retain decorative elements of the 
+historic system whenever possible. This includes 
+switchplates, grilles and radiators. Be creative in 
+adapting these features to work within the new or 
+upgraded system. 
+• 
+• Design climate control systems that are compatible 
+with the architecture of the building: hidden sys­
+tem for formal spaces, more exposed systems possi­
+ble in industrial or secondary spaces. In formal 
+areas, avoid standard commercial registers and use 
+custom slot registers or other less intrusive grilles. 
+12 
+• Size the system to work within the physical con­
+straints of the building. Use multi-zoned smaller 
+units in conjunction with existing vertical shafts, 
+such as stacked closets, or consider locating equip­
+ment in vaults underground, if possible. 
+• Provide adequate ventilation to the mechanical 
+rooms as well as to the entire building. Selectively 
+install air intake grilles in less visible basement, 
+attic, or rear areas. 
+• Maintain appropriate temperature and humidity 
+levels to meet requirements without accelerating 
+the deterioration of the historic building materials. 
+Set up regular monitoring schedules. 
+• Design the system for maintenance access and for 
+future systems replacement. 
+• For highly significant buildings, install safety moni­
+tors and backup features, such as double pans, 
+moisture detectors, lined chases, and battery packs 
+to avoid or detect leaks and other damage from 
+system failures. 
+• Have a regular maintenance program to extend 
+equipment life and to ensure proper performance. 
+• Train staff to monitor the operation of equipment and 
+to act knowledgeably in emergencies or breakdowns. 
+• Have an emergency plan for both the building and 
+any curatorial collections in case of serious mal­
+functions or breakdowns. 
+DON'TS: 
+• Don't install a new system if you don't need it. 
+• Don't switch to a new type of system (e.g. forced 
+air) unless there is sufficient space for the new sys­
+tem or an appropriate place to put it. 
+• Don't over-design a new system. Don't add air con­
+ditioning or climate control if they are not abso­
+lutely necessary. 
+• Don't cut exterior historic building walls to add 
+through-wall heating and air conditioning units. 
+These are visually disfiguring, they destroy historic 
+fabric, and condensation runoff from such units 
+can further damage historic materials. 
+• Don't damage historic finishes, mask historic fea­
+tures, or alter historic spaces when installing new 
+systems. 
+• Don't drop ceilings or bulkheads across window 
+openings. 
+• Don't remove repairable historic windows or re­
+place them with inappropriately designed thermal 
+windows. 
+• Don't seal operable windows, unless part of a mu­
+seum where air pollutants and dust are being 
+controlled. 
+• Don't place condensers, solar panels, chimney 
+stacks, vents or other equipment on visible por­
+tions of roofs or at significant locations on the site. 
+• Don't overload the building structure with the 
+weight of new equipment, particularly in the attic. 
+• Don't place stress on historic building materials 
+through the vibrations of the new equipment. 
+• Don't allow condensation on windows or within 
+walls to rot or spall adjacent historic building 
+materials. 
+Use space in existing chases, closets or shafts for 
+new distribution systems. 
+
+a 
+Maintenance staff should learn how to operate, mon­
+itor, and maintain the mechanical equipment. They 
+must know where the maintenance manuals are kept. 
+Routine maintenance schedules must be developed for 
+changing and cleaning filters, vents, and condensate 
+pans to control fungus, mold, and other organisms that 
+are dangerous to health. Such growths can harm both 
+inhabitants and equipment. (In piped systems, for ex­
+ample, molds in condensate pans can block drainage 
+Imes and cause an overflow to leak onto finished sur­
+faces). Maintenance staff should also be able to monitor 
+the appropriate gauges, dials, and thermographs. Staff 
+must be trained to intervene in emergencies, to know 
+where the master controls are, and whom to call in an 
+emergency. As new personnel are hired, they will also 
+require maintenance training. 
+In addition to regular cyclical maintenance, thorough 
+mspechons should be undertaken from time to time to 
+evaluate the continued performance of the climate con­
+trol system As the system ages, parts are likely to fail, 
+and signs of trouble may appear. Inadequately venti­
+lated areas may smell musty. Wall surfaces may show 
+staining, wet patches , bubbling or other signs of mois­
+ture damage. Routine tests for air quality, humidity, 
+and temperature should indicate if the system is per­
+forming properly. If there is damage as a result of the 
+new system, it should be repaired immediately and 
+then closely monitored to ensure complete repair. 
+Equipment must be accessible for maintenance and 
+should be visible for easy inspection. Moreover, since 
+mechanical systems last only 15-30 years, the system 
+itself must be "reversible." That is, the system must be 
+installed in such a way that later removal will not dam­
+age the building. In addition to servicing, the back-up 
+monitors that signal malfunctioning equipment must 
+be routinely checked, adjusted, and maintained. 
+Checklists should be developed to ensure that all as­
+pects_ of routine maintenance are completed and that 
+data is reported to the building manager. 
+Conclusion 
+The successful integration of new systems in historic 
+buildings can be challenging. Meeting modern HVAC 
+requrrem_ents for human comfort or installing con­
+trolled climates for museum collections or for the oper­
+ation of complex computer equipment can result in 
+both visual and physical damage to historic resources. 
+Owners of historic buildings must be aware that the 
+final result will involve balancing multiple needs; no 
+perfect_ heating, ventilating, and air conditioning sys­
+tem exists. In undertaking changes to historic build­
+ings, it is best to have the advice and input of trained 
+professionals who can: 
+assess the condition of the historic building, 
+evaluate the significant elements that should be 
+preserved or reused 
+prioritize the preservation objectives, 
+understand the impact of new interior climate condi­
+tions on historic materials, 
+integrate preservation with mechanical and code 
+requirements, 
+maximize the advantages of various new or upgraded 
+mechanical systems, 
+understand the visual and physical impact of various 
+installations, 
+identify maintenance and monitoring requirements 
+for new or upgraded systems, and 
+plan for the future removal or replacement of the 
+system. 
+Too often the presumed climate needs of the occu­
+pants or collections can be detrimental to the long-term 
+preservation of the building. With a careful balance 
+between the preservation needs of the building and the 
+interior temperature and humidity needs of the occu­
+pants, a successful project can result. 
+b 
+13 
+11. During the restoration of this 1806 National Historic Landmark (photo a), a new climate control system was installed. The architects removed all the earli­
+er mechanical from the house and installed new equipment in a 30' by40' concrete vault located underground 150 feet from the house itself (photo 
+· n Y con i tionedair zs own into the house reusing much of the circa 1930s ductwork. Photos: Thomas C. Jester. 
+
+Bibliography 
+Banham, Reyner. The Architecture of the Well-Tempered Environment. 
+London: The Architectural Press, 1969. 
+Burns , John A., AIA. Energy Conserving Features Inherent in Older 
+Homes. Washington: U.S. Department of Housing and Urban Devel­
+opment and U.S. Department of the Interior, 1982. 
+Cowan, Henry J. Science and Building; Structural and Environmental 
+Design in the Nineteenth and Twentieth Centuries. New York: John Wiley 
+& Sons, 1978. 
+Ferguson, Eugene S. "An Historical Sketch of Central Heating: 1800-
+1860," in Building Early America (Charles Peterson, editor) Philadel­
+phia: Chilton Book Co., 1976. 
+Fitch, James Marston. American Building; The Environmental Forces That 
+Shape It. Boston: Houghton Mifflin Co., 1972. 
+Giedion, Siegfried. Mechanization Takes Command; a Contribution lo 
+Anonymous History. New York: Oxford University Press, 1948. 
+Merritt, Frederick S. Building Engineering and Systems Design. New 
+York: Van Nostrand Reinhold Co, 1979. 
+Smith, Baird M. Preservation Briefs 3: Conserving Energy in Historic 
+Buildings. Washington , DC: U.S. Department of the Interior , 1978. 
+Turberg, Edward . A History of American Building Technology. Durham : 
+Durham Technical Institute , 1981. 
+cover photo: This historic coal boiler continues in use after its conversion to 
+an oil-fired boiler. Photo: NPS files 
+14 
+Acknowledgements 
+The author gratefully acknowledges the invaluable assistance of 
+Michael C. Henry, P.E., AIA, in the development and technical 
+editing of this Preservation Brief. Technical review was also provided 
+by Ernest A. Conrad, P.E. Thanks is also given to staff members of 
+the National Park Service Cultural Resources Programs, including 
+Tom Keohan and Catherine Colby, Rocky Mountain Region; Michael 
+Crowe, Western Region; Mark Chavez , Midwest Region; Randall J. 
+Biallas, AIA, Chief , Park Historic Architecture Division, and George 
+A. Thorsen, Historical Architect, Denver Service Center. Special 
+thanks is also given to Michael J. Auer of Technical Preservation 
+Services tor his editorial assistance in preparing this paper and Tim 
+Buehner for his assistance with the illustrations . 
+This publication has been prepared pursuant to the National Historic 
+Preservation Act of 1966, as amended, which directs the Secretary of 
+the Interior to develop and make available information concerning 
+historic properties. Preservation Brief 24 was developed under the 
+editorship of H. Ward Jandl, Chief, Technical Preservation Services. 
+Comments on the usefulness of this publication may be directed to 
+Chief, Technical Preservation Services Branch, Preservation Assist­
+ance Division, National Park Service, P.O. Box 37127, Washington, 
+D.C. 20013-7127. This publication is not copyrighted and can be 
+reproduced without penalty. Normal procedures for credit to the 
+author and the National Park Service are apprecia ted. 
+Washington, DC 1991 
