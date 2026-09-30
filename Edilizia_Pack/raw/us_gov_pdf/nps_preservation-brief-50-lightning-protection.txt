@@ -1,0 +1,1645 @@
+ 
+ 
+50
+PRESERVATION 
+BRIEFS 
+Lightning Protection 
+for Historic Structures 
+Charles E. Fisher 
+National Park Service 
+U.S. Department of the Interior 
+Technical Preservation Services 
+Introduction 
+The loss of historic buildings as a result of lightning 
+strikes makes local front page news every year. 
+Lightning strikes make no distinction between historic 
+properties and other types of structures. Historic 
+barns, churches, museums, homes, stores, factories, 
+lighthouses, schools, and other buildings, as well 
+as structures such as tall monuments, may be at 
+unnecessary risk of damage or loss as a result of a strike 
+by lightning. 
+The insurance industry reports that 5% of all claims 
+are lightning-related in the U.S., with annual building 
+damage estimated as high as $1 billion according 
+to Underwriters Laboratories, Inc. Certain types 
+of structures are especially susceptible to damage, 
+particularly churches where lightning accounts for 
+nearly one-third of all church-building fires each year 
+(Fig.1). 
+Figure 1. Saved from a wrecking ball and renovated in 1970 by a 
+70-person congregation, the Sanctuary of the Holy Spirit church 
+was the oldest operating place of worship in Winder, Georgia.  
+Just five years later, the 1904 church was destroyed by fire, hav-
+ing been struck by lightning during a violent thunderstorm.                       
+Photo: Paul Brennen/shutterstock.com
+Lightning protection systems in the United States date 
+back to colonial days and the time of Benjamin Franklin. 
+Old systems that have survived in whole or in part on 
+historic structures may be historic features in their own 
+right and deserve preservation.  Such historic lightning 
+protection systems may still be operating properly 
+or can be repaired and upgraded. Some old systems 
+simply are too deteriorated, incomplete, or archaic to 
+repair and make fully functional, raising the question 
+whether they should be sav
+ed in place or removed 
+in whole or in part for safety. For historic structures 
+that have none and are located in areas that are prone 
+to lightning strikes, or are of special significance and 
+deemed irreplaceable, a modern lightning protection 
+system may merit installation. 
+This Preservation Brief is designed for owners, property 
+managers, architects, contractors, and others involved 
+in the preservation of historic structures.  It includes 
+information on the care, maintenance, and repair 
+of historic and older lightning protection systems; 
+discusses factors to consider in assessing the need for 
+a lightning protection system where none exists; and 
+includes historic preservation guidance on the design 
+and installation of new systems. 
+What Causes a Lightning Strike? 
+During violent storms, ice particles form in the 
+atmosphere and collide with each other, resulting in a 
+transfer of negative ions among ice particles.  Smaller ice 
+particles or crystals tend to lose negative ions, becoming 
+positively charged, and are then carried through 
+updrafts to the upper levels of the clouds.  Heavier ice 
+particles gain negative charges and settle below within 
+the clouds. Lightning is produced when these opposite-
+charged cloud values create high electric fields—nature’s 
+way of reducing the imbalance. 
+The more tyical negative electrical charges travel 
+in leaders or about 150-foot segments. During 
+thunderstorms, bursts of negative charges extend closer 
+to the ground. Under such conditions, higher exposed 
+objects on the ground in turn may send positively 
+charged leaders upward.  When two oppositely charged 
+1 
+
+ 
+leaders connect, a massive stroke of current travels to the 
+ground along one or more paths of low resistance (Fig. 
+2). Usually several strokes occur in rapid succession, 
+appearing to the human eye as a single lightning bolt to 
+the ground. 
+The mechanical force of this enormous energy flow can 
+have a blast effect on a structure, exploding, for example, 
+a large chimney, parapet or corner of a building. Heat up 
+to 50,000°F generated along its path through wood and 
+other building material can result in fire and considerable 
+damage. Besides the risk of injury and loss of human life, 
+irreparable damage to cultural resources can occur as a 
+consequence of a lightning strike. 
+Figure 2. Positive and negative electrical charges occur naturally 
+under certain weather conditions, causing imbalances.  When a 
+downward stream of strong negative charges in the air meets with a 
+shorter leader of positive charges that have accumulated on, and are 
+arising from a building, tree, or object, the resulting flash is lighting. 
+The drawing shows a building with a lightning protection system 
+providing a safe path for the lightning to travel to the ground rod 
+beneath the soil. Courtesy: Cornell Agricultural Safety and Health 
+Program, Jim Houghton, illustrator. 
+Components of Conventional 
+(Traditional) Systems 
+The function of a conventional lightning protection 
+system is not to prevent lightning from striking a 
+structure, but rather to provide a specific path of low 
+resistance for lightning current to travel to the ground 
+that will result in no damage or injury. Since the 18th 
+century, it has proven effective. 
+There are three principal components of a conventional 
+system: the lightning rod (air terminals), conductor, 
+and ground (Fig. 3).  Besides these three traditional 
+components, a system includes the bonding of other 
+metal features of a building considered to be a lightning 
+hazard and, particularly today, the use of surge 
+suppressors. 
+The lightning rod (air terminal) typically is the most 
+prominent visual component of the system, and in 
+its older, more traditional form could appear as an 
+ornamental feature on a structure. In most cases, rods 
+are used at prescribed locations and distances, joined 
+together by connecting wires to conductors. In today’s 
+contemporary applications, the lightning rods are very 
+simple in design, most often consisting of utilitarian air 
+terminals measuring 10 to 12 inches in height, although 
+certain conditions may require taller terminals. By 
+contrast, lightning rods of the late 19th and early 20th 
+century were usually taller, typically four to six feet in 
+height, and often had a more decorative appearance 
+with embellishments, such as a weather or directional 
+vane or glass balls (Fig. 4). 
+Each lightning rod must be attached to the grounding 
+system through horizontal roof cables and vertical 
+conductors.  Cables are used to join individual lightning 
+rods, most often in loops or series, and then in turn 
+attached to two or more main conductors running 
+to metal grounds. One major exception occurs in 
+structures with structural steel where, under certain 
+conditions, lightning rods may be tied directly to 
+the steel frame. The steel needs to be continuously 
+connected, since it must serve as the conductor and be 
+tied to the ground for the lightning protection system to 
+be complete. 
+Cables vary by weight and number of strands of wire, 
+with heavier cables required for use on structures taller 
+than 75 feet. The number of required main conductors 
+depends in part on the perimeter length of the structure.  
+Even on smaller historic buildings, two or more down 
+conductors are needed to help diffuse the electrical 
+charge from a lightning strike along its path to the 
+ground. 
+The grounding system usually consists of long solid-
+metal grounding rods driven into the soil, usually to 
+a depth of at least 10 feet, to which the down cables 
+Conductor 
+Lightning rod 
+(air terminal) 
+Ground rods 
+Cable under eave 
+Figure 3. Conventional lightning protection systems consist of three 
+principal components: the lightning rods, which are connected by 
+cables to the system; two or more down conductors, which connect 
+the lightning rods to the grounding system; and the ground rods. 
+Adapted from a 1950 U. S. Department of Agriculture illustration. 
+2 
+
+Positive and negative electrical 
+charges occur naturally under 
+certain weather conditions, 
+causing inbalances. Drawing 
+shows a lightning protection 
+system providing a safe path 
+for the lightning to travel to the 
+ground rod.
+Figure 4. The most common historic lightning rods of the late 19th to 
+early 20th century consisted of a lightning rod or air terminal, glass 
+ball, and a stand attached to the roof. These rods tended to run four 
+to six feet in height and were quite prominent on the roof. Courtesy: 
+Charles Fisher Collection. Drawing: New Old Products, Inc. 
+Bayonet-style tip 
+Lightning rod 
+Glass ball with 
+metal collars 
+Stand 
+are attached at one end using special connectors. On 
+buildings today, the most commonly used grounding 
+rod is an 8 to 10-foot copper, copper-clad steel, or 
+stainless steel rod. Depending on the soil condition, 
+depth of soil, and presence of bedrock near the surface, 
+additional grounding rods may be needed or may need 
+to be placed in a different manner. In some cases, an 
+alternate grounding system is needed altogether. Other 
+grounding systems, such as those used for electrical, 
+telephone service, or a satellite dish, need to be 
+connected to the lightning protection ground. 
+Whenever a structure has metal gutters and 
+downspouts, metal roof vents, large metal awnings or 
+other conductive objects that contribute to lightning 
+hazards, these objects need to be bonded to the lightning 
+protection system. On the inside of a building, copper 
+and galvanized-iron water lines as well as steam or 
+hot water heating systems with metal pipes must be 
+connected to the ground conductors. Bonding of these 
+objects to the lightning protection system through use of 
+metal conductors deters an electrical charge caused by 
+a lightning strike from seeking alternative paths to the 
+earth.  Bonding also deters side flashing whereby current 
+otherwise could jump from components of the lightning 
+protection system to nearby conductive objects.  As it 
+is impractical to bond all metal objects, such as each 
+steel or aluminum window on a building, only objects 
+considered more hazardous are usually bonded to the 
+lightning protection system (Fig. 5). 
+Lightning damage to a structure can occur from 
+lightning striking distant or nearby power lines. 
+Resulting power surges can affect not only sensitive 
+electronic equipment, such as computers and security 
+systems, but also common household items such as 
+land-line telephones, electric appliances, and home 
+entertainment centers. There is always the human safety 
+risk as well from such power surges, thus the adage stay 
+off the phone (land-line) during an electrical storm. For 
+safety and to protect against excess voltage, different 
+types of surge protective devices (SPD) are used. 
+History 
+Lightning strikes have mystified man since the 
+beginning of time. While it has been observed long ago 
+that lightning tends to strike tall objects, not until the 
+mid-1700s did there emerge a general understanding of 
+lighting and how to prevent damage to structures.  
+In the late 1740s and early 1750s, interest in static 
+electricity led Benjamin Franklin to investigate the 
+nature of electricity, including lightning. In a series 
+of letters to Peter Collinson, a Fellow of the Royal 
+Figure 5. Bonding of conductive material on a structure to the 
+lightning protection system is important to deter damage from side 
+flashing. In this drawing, the metal downspout has been bonded to 
+the down conductor. Unless bonded, metal gutters and downspouts 
+provide a good path for an electrical discharge to side flash and cause 
+damage to a building. Drawing: English Heritage© 
+3 
+
+Society of London, Franklin described his experiments 
+and observations on electricity.  Published together in 
+London in 1751, these letters soon led Thomas-Francois 
+Dalibard and a colleague, collaborating in Paris, to 
+experiment with a tall metal rod that was insulated in 
+the ground. Their experiment in May 1752 was based 
+on a proposal described by Franklin in his letters and 
+succeeded in drawing sparks, helping to confirm that 
+thunderclouds are electrified.
+Franklin probably conducted his famous kite 
+experiement shortly thereafter, unaware at that point of 
+the earlier french experiment. He did publish in his Poor 
+Richard’s Almanac a description of a lightning protection 
+system in 1753, and, in the same year, he was awarded 
+the prestigious Copley Gold Metal by the Royal Society 
+of London for his “curious experiments and observations 
+on electricity.” Franklin had envisioned a means to 
+protect a structure from being struck by lightning. Yet 
+he soon came to realize that rather than preventing 
+strikes, lightning protection systems functioned to 
+provide a safe path of travel for the electrical discharge. 
+ 
+In a letter written in 1762, Franklin provided a detailed 
+description of a lightning protection system: 
+Prepare a steel rod 5 or 6 feet long, half an Inch thick at its 
+biggest End, and tapering to a sharp Point; which Point 
+should be gilt to prevent its rusting.  Let the big End of the 
+Rod have a strong Eye or Ring of half an inch Diameter: 
+Fix this Rod upright to the Chimney or highest Part of the 
+Building, by means of Staples, so as may be kept steady. Let 
+the pointed End be upwards, and rise three or four Feet above 
+the Chimney or Building that the Rod is fix’d to.  Drive into 
+the Ground an Iron Rod of about an Inch Diameter, and ten 
+or twelve feet long, that has also an Eye or Ring in the upper 
+End. 
+It is best that the Rod should be at some Distance from 
+the Foundation of the Building, not nearer than ten feet, if 
+your Ground will allow so much. Then take as much Length 
+of Iron Rod of about half an Inch Diameter, as will reach from 
+the Eye in the Rod above to that in the Rod below; and fasten 
+it securely to those Rods, by passing its Ends thro’ the Rings, 
+and bending those Ends round till they likewise form Rings. 
+This Length of Rod may be in one or several Pieces.  If in 
+several, let the Ends of the Pieces be also well hooked to each 
+other. Then close and cover every Joint with Lead…that there 
+should be considerable Quantity of metalline Contact between 
+Piece and Piece: For if they were only hook’
+d together, and 
+so touch’d each other but in Points, the Lightning in passing 
+thro’ them might melt and break where they join. The Lead 
+will also prevent the Weakening of the Joints by Rust.  To 
+prevent the Shaking of this Rod by the Wind, you may secure 
+it by a few Staples to the Building till it comes down within 
+ten feet of the Ground, and thence carry it off to your Ground 
+Rod; near to which should be planted a Post, to support the 
+Iron Conductor above the heads of the people walking under it. 
+In such a remarkable short time, the basics of today’s 
+lightning protection system for ordinary structures were 
+in place, and this invention became popularly known as 
+the Franklin system. It is still the most commonly used 
+lightning protection system for structures throughout 
+the world. Yet even Franklin acknowledged that he and 
+his colleagues benefited from some luck in arriving so 
+quickly at a lightning protection system that worked. 
+In the second half of the 18th century, lightning 
+protection systems w
+ere being installed from Boston 
+to South Carolina. Yet this was a pioneering period 
+and installations were far from common.  Relying 
+principally on descriptions provided by Franklin rather 
+than first-hand experience, early installers operated 
+with some trial and error. A number of the known early 
+installations seem to have worked reasonably well in 
+providing a safe path to the ground for the charge from 
+an electrical strike, establishing for the first time that 
+buildings could be protected from significant damage 
+caused by lightning. 
+When strikes to a protected structure occurred, damage 
+to the lightning protection system still could result 
+due to material deficiencies or improper installation. 
+The “Electric Rod and Conductor” on Christ Church 
+in Philadelphia was struck by lightning in June 1777, 
+and rendered useless, although additional damage to 
+the church seemingly did not occur. System damage 
+reported at other buildings included the narrower 
+pointed end of the rod at times melting and needing 
+to be replaced; large metal staples securing a down 
+conductor to the building dislodging and having to 
+be reattached; and down conductor sections joined 
+with hook and eye connections needing to be rejoined.  
+Failures did occur as a result of undersized conductors, 
+too few lightning rods, or lack of bonding to nearby 
+metal objects, with resulting damage to buildings. It 
+soon became clear that thicker conductors needed to be 
+used; connectors needed to be more secured and, where 
+possible, reduced in numbers; and, to avoid damage to 
+foundations, more extensive grounding was required, 
+depending upon soil condition. 
+Evidence of late eighteenth-century installations have 
+survived, including ones in Franklin’s hometown.  A 
+section of a hand-forged, wrought-iron conductor 
+remains inside the stair tower of Independence Hall 
+and would have been joined in a series of sections using 
+hook-and-eye connections to form the down conductor. 
+In Portsmouth, New Hampshire, a system was installed 
+in 1767 on the Warner House, purportedly under the 
+personal inspection of Franklin. An early system still 
+survives on the Warner House, consisting of a long 
+forged-welded piece of wrought iron (Fig. 6).  A hook-
+and-eye section of the ground has even survived and is 
+now on display inside the building. 
+In Europe, individuals that shared Franklin’s scientific 
+interest in lightning protection helped to guide early 
+installations on buildings. Despite some initial 
+resistance on religious grounds, lightning rods soon 
+appeared on many larger steeple-topped churches 
+that had a propensity for being struck by lightning. 
+4 
+
+Figure 6. Lightning protection was installed on the Warner House 
+in Portsmouth, New Hampshire, in 1767, purportedly under the 
+personal inspection of Benjamin Franklin. An early system still 
+survives on the building, consisting of a long forged-welded rod of 
+wrought iron which extended up and above the chimney, comprising 
+both the conductor and the air terminal. The conductor was joined 
+to a separate, buried, iron ground rod by a forged hook and eye 
+connector. Photo: Peter Michaud. 
+Specialized applications soon followed such as for 
+powder magazines and lighthouses. 
+The installation by 1788 of the lightning rod on the dome 
+of the Maryland State House in Annapolis, Maryland, 
+represented a superb example of a building-specific 
+application of the Franklin system. Still in place and 
+fully functional, the historic wrought-iron lightning rod 
+measures 28 feet in height and is 2 1/2 inches square 
+at its base, its thickest point. This lightning rod has a 
+decorative flare, including a weathervane toward the top 
+and an acorn and pedestal at its base. As part of a 18th- 
+century renovation of the State House, Joseph Clark, a 
+local architect and builder, erected the large dome and 
+installed the lightning protection system, essentially 
+using the Franklin system (Fig. 7). 
+Figure 7. The c. 1788 wrought-iron lightning rod on the Maryland 
+State House dome measures 28 feet in height, 2-1/2 inches square at 
+its base, and is pointed at its top. The rod passes through a decorative 
+copper-paneled wood acorn that is nearly 4 feet in diameter. The 
+acorn helps provide stability to the rod that, in turn, is secured 
+to the pedestal or base of the acorn. While based on the Franklin 
+system, this rod had a decorative flare, including a weathervane 
+and ornamental base. Prominently located in Annapolis along the 
+Chesapeake Bay, an area of frequent summer lightning storms, the 
+building has been struck by lightning as recently as 2016, surviving 
+undamaged. Photo by Niagara (Own work) [CC BY-SA 3.0 (http:// 
+creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons. 
+Despite no real manuals or standards, the early 
+installations of the “Franklin rod” often proved effective.  
+The experience derived from the early applications 
+provided for an enlightened learning process. Still, there 
+were failures that reinforced the belief among some that 
+lightning rods actually attracted lightning and should 
+not be used. 
+By at least the early 19th century, individuals were 
+marketing lightning protection, sometimes with little or 
+no understanding of the working of the Franklin system.  
+In 1824, the newspaper New England Farmer reprinted a 
+letter attributing many of the recent failures to improper 
+grounding and installation, stating that "Lightning 
+rods are generally made and put up by persons wholly 
+unacquainted with the principles of electricity and what is 
+necessary to constitute a safe conductor." 
+The letter goes on to provide instructions for proper 
+installation that include the use of five or more points at 
+the end of the rod, with points sharpened, tipped with 
+silver, and elevated five or six feet above the highest part 
+of the building. The writer specified that the rod (and 
+conductor) should be at least ¾ inch in diameter, with 
+a continuous weld rather than linked where possible, 
+and should terminate in the earth six or seven feet deep, 
+set in a bed of two or three bushels of wet charcoal. 
+The letter’s author noted that the expense for one rod 
+on a two-story building would not exceed $50, still a 
+considerable sum for the time 
+5 
+
+According to the writer of the aforementioned letter, 
+a single rod could protect a building for 20 feet on 
+each side. Practice and observation were still guiding 
+lightning protection work. 
+As to the number and placement of the lightning rods, 
+in 1823 the French Academy of Sciences carried out 
+scientific investigations and proposed that the protection 
+zone (cone of protection) of an air terminal was a radius 
+twice its height. This provided a framework needed to 
+determine the placement and number of air terminals. 
+Included along with other detailed information in the 
+report entitled “Instruction sur les paratonneres,” it was 
+adopted by the French government and gained wide 
+distribution in the United States. 
+Information on how to protect structures from lightning 
+was shared through newspapers and other means, 
+reaching not only an urban audience but farmers as 
+well.  Because of their typical large size, location in 
+open areas, and their use to store flammable hay and 
+Figure 8. Church steeples, roof turrets, and chimneys were 
+identified early on as being susceptible to lightning strikes. Finials, 
+weathervanes, and other such ornamentation in these locations could 
+often serve as lightning rods when connected to down conductors and 
+grounds. The cupula on the Home Moravian Church in Winston-
+Salem, North Carolina, is an excellent example. Old Salem, Inc., has 
+a number of Moravian buildings where early lightning protection 
+systems are still in place. Photo: Sunni L. Goodson. 
+grains, barns were recognized as being high risks for 
+lightning strikes. A description for proper installation of 
+lightning protection on a New England barn appearing 
+in an 1848 issue of The Cultivator, a New England farm 
+journal, reflects the prevailing view that multiple rods/ 
+terminals and ground components were needed for most 
+structures. 
+In applying the conductor to the barn, begin at the northwest 
+corner, by inserting the rod far enough into the ground to 
+always insure its contact with the moist ground; carry it along 
+the gable end to one end of the ridge pole, thence along the 
+ridge pole to the other end of the ridge pole, thence along the 
+other gable end, and down the southwest corner continuing 
+into the ground....There should be a point at the eaves on each 
+corner, and one on each side of the ridge pole, which should 
+be covered with a coating of silver to prevent them from 
+rusting.... 
+It w
+as common practice to locate the conductor on the 
+outside since most systems were installed on existing 
+buildings. However, installations that ran down the 
+interior still were occurring.  An 1847 article in the 
+Burlington Gazette refers to a church in Philadelphia that 
+recently was destroyed as a result of lightning: "It was 
+provided with a conductor, but it ran down from the 
+steeple inside the church!…. Such blundering ignorance 
+as that of setting a rod to conduct the lightning into the 
+house, we have seldom heard of.  The precise reason for 
+the failure was not stated." 
+By the mid-19th century, the collegial nature of the 
+pioneers of early lightning protection system was giving 
+way to a competitive field and proprietary products. 
+This change came at a time that fostered a growth in 
+the marketing and sales of lightning protection across 
+an expanding country. New lightning protection 
+products and patented systems could get ready 
+exposure as a result of the proliferation of newspapers 
+and manufacturing trade catalogues. The New York 
+firm of Marshall Lefferts & Brothers, manufacturers 
+of galvanized and iron building products, marketed 
+in their 1854 trade catalog the sale of galvanized iron 
+for lightning protection systems that eliminated the 
+degrading effects of rusting. Galvanized steel soon 
+became, along with copper, the common materials used 
+for components. 
+About the same time, David Munson of Indianapolis, 
+Indiana, purportedly invented a copper tubular spiral 
+lightning rod, using copper because of its greater 
+conductivity than iron. Made of sheet copper for 
+affordability, the distinctive tubular spiral shape 
+provided needed rigidity and became a popular type for 
+years. In the 1858 publication,  A Chapter on Thunder and 
+Lightning, Their Causes and Effects, numerous advantages 
+of the Munson Rod were touted, including that it did 
+not rust. Conducting rods came in 5-foot lengths with 
+connections made by lapping and wiring. The lightning 
+rod also was made of copper with a terminal consisting 
+of multiple points. 
+6 
+
+Figure 9. While plain round, 4-inch to 5-inch, color-glass lightning 
+rod balls were most common in the late nineteenth and early 
+twentieth centuries, balls also came in more decorative patterns and 
+shapes such as the pleated round balls shown here in a variety of 
+colors. Courtesy: Ferdinand Meyer Collection. 
+By the 1850s, patents were appearing for glass insulators 
+to secure cables running between air terminals and 
+to secure the main conductors, enabling cables not to 
+directly touch the building. The use of different styles of 
+glass and porcelain insulators became common, all in a 
+perceived effort to help direct a lightning discharge. 
+With the Industrial Revolution, lightning protection 
+products became mass-produced at affordable prices 
+and shipped by railroad across the country. For the 
+Franklin system, there now were many different parts 
+that were available, such as specialized insulators and 
+connectors, and a variety of shapes and sizes available 
+for air terminals—some utilitarian and others quite 
+decorative. 
+The westward movement onto the Great Plains 
+following the Civil War contributed to the Golden 
+Age of lightning protection, as this included areas 
+thought particularly prone to turbulent lightning. The 
+long stretches of flat land made buildings on isolated 
+farmsteads and grain storage containers along railroad 
+sidings at risk. 
+A 4-inch to 5-inch glass or ceramic ball became a 
+common feature on many late 19th and early 20th-
+century rods. They came in different patterns, colors, 
+and shapes, with plain round colored balls dominating 
+the landscape. Balls could be added to one or more of 
+the lightning rods on the roof. Folklore has it that the 
+balls were functional, designed to break when lightning 
+struck, thus giving notice to the building owner that the 
+system both had worked and should be inspected for 
+any possible damage. In fact, the glass balls were purely 
+decorative and intended to aid sales (Fig. 9). Additional 
+decoration could be added to a lightning rod. Multiple, 
+color glass balls and custom-crafted metalwork were 
+two ways to accent it.  A directional weather vane 
+a
+ttached to one of the rods could in turn be embellished 
+with colored glass or a metal animal or sailboat, 
+reflecting the building use or owner’s interest.
+The longer length of air terminals of this period typically 
+required a sturdy stand for stability and attachment 
+to the roof. The height of these stands varied widely, 
+commonly ranging from one to three feet, meaning that 
+the rods could measure as high as fi
+ve feet or more. 
+Three-foot stands with five-foot rods were the most 
+prevalent size.  The rod would usually have a point, 
+with common shapes being a shell point or a bayonet 
+shape. A rounded point was also available, though not 
+as popular in the U.S. as in Europe. 
+In an unusual application, and the first use of aluminum 
+as part of a lightning protection system, a pyramid-
+shaped cast of aluminum was selected to be the top of 
+the Washington Monument and was installed in 1884.  It 
+was later augmented with lightning rod points (Fig. 10). 
+By the 1880s, the commonly accepted measurement 
+that helped determine the number and placement of 
+Figure 10. When the Washington Monument was completed in 1884, 
+it was capped with a pyramid made of aluminum. Though intended to 
+function as a lightning rod, it proved within the year to be deficient. 
+After lightning struck, a crack appeared under the top stone. As a 
+remedy, copper rods attached to a copper band were placed around 
+the base of the aluminum apex. The band was directly connected 
+to the iron elevator shaft inside the monument that was part of the 
+rest of the otherwise functioning system. The cap is the first use of 
+aluminum as a lightning rod in the United States. Photo: Theodor 
+Horydczak, Library of Congress. 
+7 
+
+lightning rods was a cone of protection served by each 
+air terminal that had a radius of the circle at the base 
+measuring the same height as the air terminal—a 1:1 
+ratio. At such a ratio, more lightning rods were typically 
+needed than was common prior to the Civil War. 
+Scientific investigation in lightning protection continued 
+throughout this time along with a growing need 
+for professional standards. In Great Britain, "rules 
+[recommendations] for those who installed lightning 
+protection systems" was published in 1882 in The Report 
+of the Lightning Rod Conference. 
+One of the conclusions of 
+the conference was that there was "no authentic case on 
+record where a properly-constructed conductor failed to 
+do its duty." 
+In the United States, the National Fire Protection 
+Association (NFPA) drew upon this report when 
+they developed and published in 1904 Specifications 
+for Protection of Buildings against Lightning. 
+Though 
+more conservative than the British report in terms of 
+the ability of a properly installed lightning protection 
+system to be effective in all cases, they concluded that 
+lightning protection systems materially reduced the risk 
+of fire loss to structures where prone to such damage. 
+They noted that within a 5-year period, 3,842 dwellings, 
+9,375 barns, 328 churches, and 59 ice houses had losses 
+from fires due to lightning.
+By 1908, the Underwriters Laboratories in the United 
+States began the independent testing and certifying 
+of certain lightning protection equipment. Such 
+specifi
+cations and quality assurance were sorely needed. 
+Traveling salesmen hawking lightning protection 
+to unsuspecting homeowners, farmers, and small 
+merchants too often were more interested in a quick sale 
+rather than whether the system was properly installed.  
+Figure 11. Two salesmen kits used by F. B. Renak operating out of 
+Racine, Wisconsin. He was a reputable agent for several companies 
+including the Security Lightning Rod Company, which offered a 
+reasonable 10-year guarantee upon installation at a time when some 
+unscrupulous companies offered essentially worthless hundred-
+year or lifetime guarantees. The kits included sectional pieces of a 
+twisted copper conductor and two styles of air terminals--one was a 
+bayonet shape and the other came in a shell or bullet shape. The shell 
+terminals were available in several materials, including copper and 
+nickel-coated copper. Courtesy: Charles Fisher Collection. 
+In many communities, particularly in the Midwest, 
+popular opinion turned against the salesman and the 
+potential benefits of lightning protection. Ironically, 
+this came at a time when there was general support 
+among the scientific community as to the effectiveness of 
+properly installed lightning protections (Fig. 11). 
+Using scare techniques, parlor tricks to simulate 
+lightning, testimonials, and flashy advertising, 
+unscrupulous traveling salesmen frequently gave little 
+consideration as to whether a structure was at risk and 
+merited lightning protection. Going hand-in-hand 
+with aggressive sales techniques was often over-priced, 
+shoddy work. Where grounds were not functional or 
+conductors improperly connected, flashy air terminals 
+on a roof provided no protection and written guarantees 
+were of little value. 
+The "Golden Age" of lightning protection came to an 
+end by the 1930s, a victim of the excesses of so many 
+traveling salesmen and the Great Depression.  Many 
+of the lightning protection manufacturers ceased 
+production. Fortunately, a few of the companies did 
+survive and continue today to offer various traditional 
+components that meet modern standards. 
+In the decade after World War II, a number of important 
+changes occurred. Aluminum became an alternative 
+to the use of more expensive copper for terminals and 
+cables and remains, along with copper, one of the 
+two most common materials available today.  Since 
+aluminum is a better conductor than galvanized steel, 
+does not rust, and was competitively priced, it generally 
+replaced the use of galvanized steel. 
+The older method of determining placement of air 
+terminals—the “cone of protection”—became less used. 
+The 150-ft Rolling Sphere Model, developed in the 1950s, 
+has gained more common acceptance. Except for some 
+historic reproductions, air terminals are now shorter 
+than many of their predecessors and are available in 
+both pointed and blunted (rounded) tips. 
+“Surge protectors” or surge protective devices (SPD) 
+have become a significant part of modern lightning 
+protection work, reflecting our increased reliance on 
+electronics and technology (Fig. 12). Besides providing 
+for surge protection at the main electrical service box, 
+second-stage or point-of-use surge protectors are needed 
+to protect sensitive electrical devices such as computers.  
+These surge protectors must be rated for lightning 
+protecttion. With the proliferation of service lines to a 
+structure, proper bonding of these service lines to the 
+common ground of the lightning protection system 
+remains important. 
+Risk Assessment 
+The majority of buildings in this country neither 
+have existing lightning protection nor may they be 
+8 
+
+Figure 12. A surge 
+protector covering the 
+electrical lines in a house, 
+barn, or other such 
+structure is relatively 
+inexpensive to have 
+installed. With two or more 
+electrical service boxes, each 
+will need one. The surge 
+protector includes one or 
+more LED lights which 
+indicate whether or not it 
+is properly functioning. 
+In areas of frequent 
+thunderstorms, the unit 
+may need to be replaced 
+after a severe or repeated 
+number of power surges in 
+the line. Photo: Independent 
+Lightning Protection 
+Company. 
+in real need of such protection. Nevertheless, there 
+are significant number of structures, including many 
+historic ones, at risk of loss or damage due to lightning 
+strikes and which merit protection. Local building 
+codes or fire marshals may require certain buildings 
+being rehabilitated or undergoing a change in use to 
+install lightning protection. In most cases, the decision 
+to install or maintain an existing lightning protection 
+system for a historic building is voluntary. If an owner 
+elects to install one, many local building codes do set 
+forth installation standards, often drawing upon the 
+National Fire Protection 
+Association’s Standard for 
+Installation of Lightning Protection Systems (NFPA 780). 
+The frequency of lightning strikes varies considerably 
+across the country (Fig 13).  Coastal areas in the 
+southeast are particularly prone to high numbers of 
+lightning strikes, while the west coast has few.  Even 
+within a single state, the number of lightning events 
+each year can vary considerably by location.  Lightning 
+activity and lightning strikes are tracked on a continuing 
+basis by companies providing fee services for weather 
+forecasts, insurance claims, and other business purposes. 
+These companies are the best source of data for a specific 
+area where such information is not publicly available. 
+In Annex L to NFPA 780, information on lightning 
+risk assessment is provided. The described method 
+takes into account the building environment, type of 
+construction, structure occupancy, structure contents, 
+and lightning stroke consequences. Among the 
+examples that NFPA 780 cites, and where the need 
+for protection should be given serious consideration 
+regardless of the outcome of the risk assessment, 
+are structures located where there is high lightning 
+frequency, tall isolated structures, buildings containing 
+explosive or flammable materials, and buildings 
+containing irreplaceable cultural heritage. While 
+most historic structures by their very nature may be 
+considered irreplaceable, practical constraints, including 
+financial ones, often result in an informed owner having 
+Figure 13. The frequency of lightning strikes varies considerably across the country and is tracked and reported nationwide.  States with a high 
+number of cloud-to-ground flashes in 2016 included Louisiana and Kansas with over one million each; states with a low number included Maine and 
+New Hampshire with each around 10,000. Ben Franklin's home state of Pennsylvania had 182,071 cloud-to-ground flashes in 2016 while across the 
+country, California had 48,958. Courtesy of Vaisala. 
+9 
+
+to weigh the risks of not installing a lightning protection 
+systems—in other words, the likelihood of lightning 
+striking a building and the resulting damage and 
+potential loss of life that could occur. 
+Buildings with towers or spires such as historic 
+courthouses and churches are at greater risk because of 
+their height and since they are often the most prominent 
+buildings within a small community. 
+On the other 
+hand, a downtown historic building, even one with 
+a tower such as a firehouse, set among much taller, 
+newer buildings, is less likely to be struck by lightning. 
+Structures such as lighthouses that are tall and in 
+exposed locations are at high risk when located where 
+lightning strikes occur. Similarly, an isolated building 
+on a hilltop is more prone to a lightning strike than a 
+rowhouse in an urban district. 
+The type of construction is another factor taken into 
+account, particularly the structural framework and 
+the roof type. For example, a wood roof has a higher 
+risk value than a fiberglass shingle roof because of its 
+greater flammability; a structural steel-frame building 
+with a metal roof that is electrically continuous is at a 
+lower risk than a concrete building with a composition 
+roof. Another factor is the occupancy use and damage 
+that may occur. With theaters, schools, and large retail 
+stores, a lightning strike may cause both fire and panic 
+with loss of life. For farms, there is the risk of fire and 
+loss of business, and for museums there is the additional 
+irreplaceable loss of cultural heritage. 
+A lightning risk assessment should be undertaken by a 
+qualified, experienced individual, usually an architect 
+or engineer, who operates independent of any lightning 
+protection company. For structures that have been 
+previously struck by lightning, and where conditions 
+have not changed that otherwise would significantly 
+lower risk, remember that lightning can and has struck 
+twice in the same place. 
+Inspection, Evaluation, and Maintenance 
+Whether old or quite recent, lightning protection 
+systems need to be periodically inspected and 
+maintained. Systems can be impacted by changes to a 
+structure, as with an addition of a dormer, attachment 
+of a new metal blade sign, or installation of a new roof. 
+Fasteners and certain other components degrade over 
+time, requiring cleaning, securing, or replacement. 
+Components may also suffer from man’s careless or 
+unintentional actions. While performing as intended, a 
+system might even incur some damage, such as to the 
+tip of an air terminal or damage to a surge protector, as a 
+result of a lightning strike. 
+The inspection should either ensure that the system is 
+fully functional or identify components that are broken, 
+dislodged, or otherwise deficient (Fig. 14). Historic 
+components needing conservation work should be 
+identified. While today’s lightning protection standards 
+Figure 14. Lightning protection systems should be visually inspected 
+every year and once every five years be inspected by an experienced 
+professional. Note the break in the down conductor at the top of the 
+photograph and the lack of a bonded connection to the cable at the 
+bottom, which goes to one or more grounds. The old ground rod 
+should be bonded to the new ground. Photo by author. 
+do not classify older systems as obsolete, even functional 
+systems may merit some upgrading, and this should be 
+noted in the inspection. 
+The recommended number and placement of air 
+terminals needed for coverage today usually will exceed 
+that of older systems.  Also, some old lightning rods may 
+be connected to only one conductor, rather than today’s 
+required two or more conductors and grounds. It is 
+important to check whether pertinent objects and service 
+lines are properly bonded to the lightning protection 
+system. As part of the inspection and evaluation 
+process, existing surge suppressors and arresters should 
+be checked, and those locations lacking adequate surge 
+protections should be identified. 
+On older systems, new ground rods usually need to be 
+installed and connected to the old ground rod. Even 
+under normal conditions, grounding components decay 
+and usually will need replacement within 30 years or 
+less, depending upon soil conditions (Fig. 15). The 
+inspection should also indicate whether additional 
+ground rods need to be installed. Particular attention 
+should be placed on recent site work, such as trenching 
+for cable lines or installation of landscape features like 
+10 
+
+Figure 15. Ground rods decay and may need replacement within 30 
+years or less depending upon soil conditions.  Ground rods should be 
+copper-clad steel, solid copper, or stainless steel. They should be 8 feet 
+long and no less than 1/2 inch in diameter. Reprinted with permission 
+from NFPA Standard 780, 2017, Standard for the Installaton of 
+Lightning Protection Systems, Copyright © 2016, National Fire 
+Protection Association, Quincy, MA.  This reprinted material is 
+not the complete and official position of the NFPA on the referenced 
+subject, which is represented only by the standard in its entirety. 
+a metal flagpole, which may have cut or otherwise 
+disturbed a previously functioning ground. 
+Besides visual inspection, a ground resistance test can 
+help establish if an existing ground is working properly. 
+If a visual inspection of certain components is not 
+possible, as with concealed conductors, a continuity test 
+can be run instead. A visual inspection by an individual 
+familiar with lightning protection systems should 
+take place annually and at least every five years be 
+undertaken by a professional who also tests the ground 
+and the system’s conductivity. Where roof replacement 
+or repairs to chimneys, parapets, or similar features has 
+occurred, a visual inspection should immediately follow.     
+With an older system, an assessment should be made 
+at the outset as to its overall historic significance and 
+that of individual components. A lightning rod with a 
+colorful glass ball and crafted weathervane dating to the 
+turn-of-the-twentieth century can easily be appreciated, 
+yet early connectors, conductors, and glass insulators, 
+while more utilitarian in function, may be significant as 
+well and merit preservation considerations. 
+There are additional considerations when an older 
+system is determined to be a historic feature of a 
+building. If a lightning rod is rare or quite distinctive 
+and exhibits deterioration, it may be appropriate in some 
+cases, particularly with museums and public buildings, 
+to replace it with a replica, conserving and retaining the 
+original piece for display or storage inside. Examples 
+include a deteriorated rod that exhibits high quality 
+craftsmanship and specifically designed for a structure; a 
+rod that is of unusual design and is considered valuable 
+folk art; or a surviving 18th-century lighting rod. 
+Where historic lightning rods and other components 
+can function properly and are in fair to good condition, 
+identifying steps to conserve and secure them in place 
+is usually the preferred preservation approach.  When 
+repairs are necessary, finding certain parts for old 
+systems may be more difficult and may necessitate 
+utilizing reproduction parts that may not have been UL- 
+certified, but are otherwise serviceable.  If the existing 
+system is in poor condition and needs substantial 
+upgrading, replacement may be the only alternative.  
+Recommendation of the inspector should be explained 
+in the evaluation, including a discussion of alternatives.  
+With serviceable pre-Civil War lightning rods, and 
+even with more common decorative rods of the Golden 
+Era, special attention is needed where there is a risk of 
+vandalism or theft.  If a building is being mothballed 
+or is undergoing major repairs and is not in a secured 
+location, historic lightning rods with any decoration 
+usually should be temporarily removed. If the risk is 
+high for lightning strike, an interim system with modern 
+terminals may need to be installed. 
+Traditionally, the most common threat of vandalism is 
+due to a glass ball or weathervane being used for target 
+purposes, particularly on vacant and isolated buildings.  
+While rarely preventable, glass balls broken as a result 
+of vandalism can often be replaced, since a number of 
+the common designs and colors are still available today 
+as moderately priced reproductions using original tools 
+(Fig. 16).  Theft occurs as well, since historic lightning 
+rods with glass balls or decorative weathervanes are 
+Figure 16. This three-piece vintage mold for a round pleated-glass 
+lightning rod ball is still used to make accurate reproductions today. 
+Photo by author. 
+11 
+
+valued by collectors, and copper conductors can be sold 
+for scrap metal. 
+Proper maintenance of historic lightning protection 
+systems includes some similar tasks associated with 
+modern systems. 
+Attachment hardware and connectors 
+may become loose and simply need to be retightened. 
+On a common tripod stand, excessive rust on a steel or 
+iron screw, or water leakage where the screw is attached 
+through the roof, will over time cause one or more of the 
+legs of the stand to detach from the roof. As a result, the 
+rod usually will bend or deflect to one side. Thus, it is 
+important to re-secure the stand and ensure that the roof 
+is watertight at the connection. 
+Historic hardware may need to be cleaned to ensure 
+proper function and longer wear. Where historic 
+hardware is severely corroded or broken, has suffered 
+from past abuse, or is otherwise seriously deficient, 
+replacement parts should be used. 
+With replacement hardware even as simple as screws, 
+care must be taken to avoid use of dissimilar metals 
+that have different electrical properties which can 
+result in galvanic corrosion. If the existing conductors 
+are copper, the connectors should be copper or brass. 
+Similarly, only aluminum connectors should be used 
+with aluminum conductors. Because of appearance 
+and durability, plastic anchors and connectors should 
+generally be avoided for historic buildings. Parts 
+designed for lightning protection installations should be 
+used in replacement work. 
+It may be necessary to clean iron and steel parts 
+of the lightning rod. Particularly with decorative 
+weathervanes and directional signs, care must be taken 
+to avoid unnecessary damage when cleaning. Where 
+the object appears to be discolored, this can be the result 
+of a natural patina that provides some protection, and 
+the object may be prized for this visual quality and 
+undisturbed nature. With copper and brass, cleaning 
+to an as-new appearance should generally be avoided 
+except where repairs are made at connectors. 
+Decorative objects, such as a fish or horse on a 
+weathervane, were typically formed from relatively 
+thin sheet metal, as opposed to heavier weight castings 
+that also were sometimes used. Where cleaning is 
+appropriate, use the gentlest means possible, avoiding 
+unnecessary abrasion or etching. The best cleaning 
+approach is to use methods suitable for the cleaning of 
+similar art and historic objects. If the decorative objects 
+have vestiges of early paint, it may be appropriate to 
+take steps to conserve the paint since it adds to the 
+historical value. More than one metal material may 
+be used in a single lightning rod assembly, so it is 
+important to identify the metals on each part and to use 
+an appropriate cleaning method for each type. 
+Iron and later steel used for stands to support a lightning 
+rod are somewhat more forgiving in terms of cleaning 
+methods than softer metals like aluminum, copper, 
+nickel, bronze, and brass, which generally should not be 
+cleaned. Gentle hand scraping, soft wire brushing, and 
+sanding with medium grit emery paper can remove rust 
+on iron and steel, except for where fine detail requires 
+more delicate work. Because iron and steel easily rust, 
+support stands and applied decorative objects that are 
+to be painted should be cleaned and treated with a 
+zinc-based metal primer on the same day. Air terminal 
+stands, connectors, and cables can be painted without 
+impeding the flow of electricity in case of a lightning 
+strike. 
+Historic and reproduction glass balls are a fragile 
+component of the lightning rod and should be handled 
+carefully. Glass can inadvertently be scratched or etched 
+when in contact with certain metal cleaners used on 
+adjacent metal parts. Cleaning to remove bird waste and 
+other harmful residue should be done by washing with 
+a soft cloth, warm water, and a mild non-ionic detergent.  
+Because of their outdoor exposure, cleaning glass to an 
+as-new appearance is not recommended so as to avoid 
+unnecessary risk of breakage. 
+Glass and porcelain insulators used to fasten cables to 
+a building are no longer made for lightning protection 
+work. The cable typically ran through or was secured 
+to the side of a glass insulator, which came in a wide 
+range of colors. The insulator was in turn attached 
+to the building in a variety of ways, typically with 
+a metal bracket or ring. By the early 20th century, 
+porcelain insulators became prevalent, replacing 
+the glass insulator. They can still be used in place 
+when maintaining or upgrading older systems (Fig. 
+17). Where existing insulators have major cracks, are 
+broken, or missing altogether, they can be replaced 
+with appropriate metal fasteners. As historic insulators 
+Figure 17. Glass insulators were attached to a structure in a variety 
+of ways using metal rings, staples, wire, or similar fasteners. Where 
+old insulators are damaged and no longer functional, they can be 
+replaced with appropriate metal fasteners. Photo by author. 
+1212 
+
+are replaced, samples should be retained for record 
+purposes and future reference. 
+Conductors can be cleaned and painted to inhibit 
+corrosion or reduce their visibility. Since the exterior 
+walls of many historic buildings were periodically 
+painted, special cable mounts were often used in the past 
+that allowed the cable to be secured approximately one 
+inch off the wall.  
+Repair 
+Repairing and augmenting an existing lightning 
+protection system on a historic building follows some 
+of the same basic principals, whether the system is 
+historic or more contemporary, yet there are also some 
+key differences. With historic systems, there is a greater 
+emphasis on retaining old materials through repairs 
+and, where necessary, augmentation. An 1870 system 
+that has survived on a building would most likely be 
+considered deficient today in terms of the number and 
+placement of air terminals. For example, there is the 
+current requirement that one or more terminals be used 
+at each chimney, depending upon chimney size—a 
+practice not always common in the past.   
+Historic lightning rods can often be repaired and 
+coverage augmented where needed with smaller, plain 
+contemporary air terminals. The taller lightning rods 
+typically used in the past were usually set on individual 
+stands. Misshapen or bent stands can usually be 
+straightened, while fasteners securing the legs of the 
+stand to the roof often need to be replaced. It is also 
+important to check that the roof is sound where the legs 
+are attached and to correct any wood rot or other roof 
+decay prior to reattaching the stands. Where lightning 
+rods are partially concealed in the roof, it is important to 
+renew seals where they penetrate the roof (Fig. 18). 
+Particularly on late 19
+th-and early 20th-century buildings, 
+accurate reproduction lightning rods often can be used 
+where a historic terminal is missing or to augment for 
+proper coverage where historic ones exist.  There are 
+both some age-old companies as well as newer ones 
+that not only manufacture a number of the traditional 
+lightning rods, but also offer cables, connectors, and 
+other hardware for lightning protection systems that are 
+very similar, and at times, a true match to various older 
+designs. Besides cost, factors influencing the decision 
+whether to use traditional replacement parts or those 
+of more modern design include the historic significance 
+of the existing system; the preservation approach as to 
+whether maintain, restore, or rehabilitate a building; and 
+the visibility of a particular component. 
+Where historic lightning rods are of galvanized steel or 
+iron, it is possible to retain them in place, depending 
+upon condition. These rods usually were connected in 
+the past to conductors of the same or similar material. 
+While iron or steel does not meet code today for 
+conductors and rods, there are tests that can be run 
+Figure 18. With concealed lightning protection systems, cable wire 
+connecting lightning rods and conductors are partially or totally 
+concealed on the exterior by running most of the lines within the 
+structure. Where the lightning rod stand is attached to the roof, as 
+well as where the concealed cable is attached on the outside to the 
+lightning rod, are all areas that need to be routinely inspected and 
+repaired as needed. The roof seal at the junction of the cable through 
+the roof will need to be replaced over time.  Drawing: Courtesy of 
+Independent Lightning Protection Company. 
+for continuity in a circuit (but not for capacity). As in 
+the case of the Maryland State House, the historic iron 
+lightning rod was repaired and retained as an essential 
+part of a functioning system. 
+Where historic lightning rods and conductors are 
+determined to be comparable or equivalent with modern 
+ones in terms of functionality, they can be treated as 
+intergral to the lightning protection system. Where 
+functionally deficient, they can be retained in place and 
+bonded to the updated system. Such old terminals or 
+conductors would thus not be essential to the system, 
+but rather retained as a historic feature. 
+Where one or more existing terminals are connected by 
+a cable to only one down conductor, installing a second 
+path to an additional ground is important. In the case 
+of old conductors, an inspection may find that they 
+are not working properly. Historic conductors may be 
+undersized, frayed, or otherwise degraded and need to 
+be replaced with appropriately-sized modern wire cable 
+that is U.L.-approved for lightning protection.  
+
+Case Study 
+Upgrading old lightning protection on a       
+historic building 
+Mumma House, Antietam National 
+Battlefield, Sharpsburg, Maryland
+Located within the Antietam National Battlefield, 
+the historic Samuel Mumma farm house had 
+lightning protection devices installed some years 
+after the Civil War.  As part of an exterior stabiliza-
+tion of the wood-framed residence in the 1990s, the 
+National Park Service also provided for a newly-
+functioning lightning protection system. 
+The existing system, which appeared to date to the 
+late 1800s, included four tall ornamented lightning 
+rods on the terne-metal roof, each consisting of a 
+galvanized- steel point with a sunburst air terminal 
+on top. The tall rods had been bent over time 
+and the three-legged galvanized steel braces were 
+twisted and loose from the roof. The two original 
+steel down conductors, consisting of twisted 
+section rods, were still in place and connected to 
+ground rods. There were several above-grounds 
+breaks in the down conductors, rendering the 
+system inoperable. Most of the original glass 
+insulators used to attach the down conductors to 
+the masonry walls remained, though a number 
+were broken or missing altogether. 
+For its time, the original protection system would 
+have been considered a proper functioning 
+system with a correct placement of lightning rods, 
+use of two down conductors securely attached 
+to grounds, and cables correctly connecting to 
+lightning rods appropriately sized. While this 
+building feature had acquired historic significance 
+over time and was visually prominent on the 
+roofline, it no longer served its intended function. 
+Besides breaks in the conductors and damage to 
+the lightning rods, there were other deficiencies 
+by today’s standards, including the lack of air 
+terminals at the chimneys and the distance 
+between existing terminals being too great.  
+Furthermore, replacement steel air terminals and 
+steel conductors are no longer used. 
+In asses
+sing whether the system should be repaired 
+and upgraded or be replaced altogether, a number 
+of factors were considered.  After the National Park 
+Service was in contact with a long-established, 
+Figure A.  Rear view of the Mumma House showing three of 
+the four tall reproduction lightning rods placed close to the 
+same locations as the historic ones, which were too deteriorated 
+to reuse. Running down the left side of the house below the 
+chimney is one of the two historic down conductors, which were 
+saved in place and bonded to the new system. Photo by author. 
+Figure B. Photo shows one of the reproduction tall lightning 
+rods being secured in place. New cables connected the 
+reproduction lightning rods and the modern air terminals to the 
+down conductors that lead to the grounds. Photo: Independent 
+Lightning Protection Company. 
+Figure C. The historic down conductor with its original insulator 
+attached to the house just above the stone foundation is still connected to 
+the old ground while bonded to the new conductor and new ground rod.  
+Photo by author. 
+14 
+
+lightning protection manufacturer in Goshen, 
+Indiana, it was determined that the historic air 
+terminals and a number of the connectors could 
+still be easily replicated using old molds that the 
+company had for casting of new parts. Since the 
+historic terminals were in poor condition and 
+mounted high on the roof, it was decided to replace 
+the four lightning rods with matching designs. 
+Replacement steel terminals were not considered a 
+suitable option, so lead-coated copper was selected 
+for its durability and similar coloration to the 
+original terminals. 
+Figure E. Plan for the 
+installation of the new 
+system. Note that the 
+historic systems did not 
+include any lightning rods 
+at the chimneys, while 
+today’s code requires two 
+air terminals on each side 
+of this size chimney. The 
+required new air terminals 
+were much smaller than 
+the historic ones and were 
+relatively inconspicuous 
+along the ridge of the roof.  
+Drawing: courtesy of the 
+Independent Lightning 
+Protection Company. 
+The four reproduction lightning rods were installed 
+close to the original locations. To augment and 
+ensure proper coverage, additional contemporary 
+terminations were installed.  There was no effort to 
+conceal the new connecting cables since visibility 
+was a historic feature of the old system.  New copper 
+down conductors were placed at needed locations, 
+including where two historic steel conductors 
+existed. The new conductors were connected to 
+new grounding rods. Both of the historic down 
+conductors with their glass insulators were retained 
+in place and bonded to adjacent new conductors, 
+providing an informative way to preserve in place 
+part of the old system. 
+Upon completion of the work, the visual prominence 
+of the historic lightning rods had been re-established 
+while integrating non-obtrusive additions to the 
+system in order to meet code. A distinctive rooftop 
+feature, the large reproduction lightning rods are part 
+of a fully-functional lightning protection system. 
+Figure D. Tall lightning rods once again stand out on the Mumma 
+House. These reproduction rods along with retention of the historic 
+down conductors have been incorporated into the modern lightning 
+protection system that was installed.  Much smaller, contemporary air 
+terminals located on the roof are barely discernable from below. 
+Photo by author. 
+15 
+
+Depending upon age and significance, if a historic down 
+conductor or the cables connecting the air terminals are 
+to be replaced, one or more sections should be saved; 
+tagged as to its function, location, and date of removal; 
+and stored with the structure’s historic artifacts for 
+future reference. Remember, it may be possible to retain 
+in place an inadequate historic down conductor by 
+simply bonding it to a new down conductor (see case 
+study on page 14). 
+When installing new down conductors, each should be 
+fitted with a purpose-made test clamp at an accessible 
+location to permit periodic testing. Where conditions 
+permit, new ground conductors on masonry structures 
+should be attached only at joints rather than to masonry 
+units (Fig. 19). 
+Any sharp bends in conductors require attention since 
+they raise the risk of flashover problems.  Sharp bends 
+can be either reworked so as to form a minimum bend 
+radius of eight inches, or, if that is not possible, the 
+Figure 19. Placement of down conductors along inside corners 
+or adjacent to downspouts helps minimize their visibility. This 
+conductor has been placed on an inside corner. Other good 
+installation practices shown in the drawing include the use of clamps 
+to attach the conductor at mortar joints, rather than damaging 
+the stones; the avoidance of sharp bends in the conductor; and 
+provisions for a test clamp and an inspection pit accessing the ground 
+connection which can be used during periodic inspections of the 
+system. Drawing: English Heritage©. 
+section of the conductor should be replaced and the 
+alignment changed. 
+In most cases, repair work involving neglected 
+systems includes new ground rods being installed. 
+Most old grounding rods do not merit special historic 
+preservation considerations and can be left in place and 
+bonded to the new ground rods. When installing new 
+grounding rods, avoid where possible any archeological 
+resources. All service lines should be bonded to the new 
+lightning grounds. 
+Surge protective devises that are not functioning 
+properly should simply be replaced with modern units 
+and, where lacking, new ones should be added. Metal 
+objects and features at risk that lack proper bonding to 
+the lightning protection system should be connected as 
+well. 
+Installing a New System 
+Installing a new system on a historic structure requires 
+a number of special considerations. Depending upon 
+the nature of the structure, such as its height, complexity 
+of the roof, internal access, type of structure, historic 
+significance, and use, the decision has to be made 
+whether to conceal as much as possible or surface mount 
+the new terminals and conductors. On a high-rise 
+building with a continuous steel structure, it is common 
+practice to tie the lightning protection system to the steel 
+structure. High-rise buildings are prone to be stuck by 
+lightning (Fig. 20). The Empire State Building in New 
+York City is struck on the average of more than 20 times 
+a year.  Small modern air terminals mounted on a high 
+rooftop usually have little visual impact from below. 
+Most historic buildings, however, are much lower in 
+height and their roofs are often readily seen. For these 
+buildings, the decision as to the extent of concealment 
+may involve consideration of two or more possible 
+options, with the most common options being: 
+1. Elect to place modern air terminals and conductors in 
+a manner that minimizes their visual impact yet remains 
+fully exposed on the outside. 
+2. Select an installation approach that conceals within 
+the structure as much of the lightning protection system 
+as possible. 
+3. Choose to install reproduction lightning rods 
+appropriate to the period and type of the structure, 
+augmenting with contemporary terminals as needed, 
+and elect not to conceal the system. 
+Some of the earliest 18
+th-century installations concealed 
+part of the down conductor within the building such as 
+at Independence Hall and Christ Church in Philadelphia. 
+This approach fell out of favor for a number of years, as 
+systems generally were surface mounted on the outside.  
+Since the Golden Age, there are a multitude of products 
+16 
+
+and installation techniques that permit concealment 
+of the conductors or cables connecting lightning rods. 
+Current standards and building codes generally allow 
+the use of either exposed or concealed systems. 
+With concealed systems, the exposed air terminals run 
+through the roof and are typically attached below to a 
+ridge board or other part of the inside roof structure, 
+permitting the connecting conductors to run inside 
+the roof. The terminals require a good weather seal at 
+the roof. The connecting conductors can be attached 
+to outside ground conductors or to concealed ground 
+conductors that are either set in a wall cavity on finished 
+interiors or, on some utilitarian structures, left partially 
+exposed on the interior side of outside walls.  At grade, 
+the inside ground conductors can then be run to the 
+outside and be joined to the grounding rods. 
+Concealment applications exist for specialty features 
+even as mundane as metal rooftop ventilators commonly 
+found on small manufacturing buildings and barns. 
+Figure 20. High-rise buildings in cities 
+such as New York, Chicago, and Atlanta 
+have a higher risk of being struck by 
+lightning, and it is not uncommon for 
+some structures to be hit multiple times 
+during a year. Multiple strokes from a 
+single lightning occurrence can strike 
+more than one building at the same 
+time as shown in this photograph of the 
+Atlanta skyline during a thunderstorm. 
+Photo: David Selby©. 
+With ventilators, the air terminal would extend from 
+inside the vent up through the center top and be secured 
+inside the vent to the conducting cables. 
+One of the factors when considering concealment 
+methods is how much initial disturbance is required on 
+the interior of a structure. For historic buildings, such 
+an approach may not be advisable if historic interior 
+finishes and distinctive features are adversely impacted. 
+On the other hand, if such disturbance is not necessary 
+or the interior is undergoing considerable work, 
+concealment techniques are a plausible option. 
+In many cases, the most practical approach is to design 
+a modern system that is largely an outside mount, but 
+where special attention is placed on utilizing appropriate 
+techniques and materials that help minimize the visual 
+impact of the cabling and multiple air terminals. 
+Fortunately, today’s smaller air terminals accommodate 
+simple, unobtrusive attachment methods, unlike the 
+taller stands commonly used in the past. While roof 
+Reroofing a Structure that has Lightning Protection
+Most reroofing work necessitates temporary removal of portions of the lightning protection system.  With some small 
+simple roofs, a roofer may be capable of undertaking the reinstallation work, subject to an inspection by a qualified 
+lightning protection professional upon completion of the work. In most cases, however, the removal and reinstallation 
+should be done by a qualified lightning protection contractor. If the work must be undertaken during a season of high 
+lightning risk, every effort should be made to closely coordinate the overall work in order to minimize the time when 
+the building is left unprotected. 
+While reroofi
+ng, it is often important that certain aspects of the lightning protection systems unaffected by the roof 
+work remain functional. This particularly applies to surge protection. Where there is a high risk, any components 
+of the lightning protection system remaining in place during the roof work should not create unintended paths for 
+electrical discharge from a potential lightning strike. If the reroofing stems in part from related new construction that 
+will affect the design of the existing lightning protection systems, as with the construction of a large addition or a new 
+dormer, services of a qualified lightning protection professional should be used. 
+17 
+
+Common Questions about 
+Lightning Protection Systems
+By installing a lightning protection system is 
+there a greater risk of a lightning strike? No. 
+Is a licensed contractor required for installation? 
+Even though many of the components of a traditional 
+lightning protection system are readily available to 
+the public and contractors, licensed and certified 
+installers should be used in most cases. 
+In a lightning-prone region should a weather-
+vane on a building be bonded to a lightning 
+protection system? 
+Yes. Where no system exists, 
+it may be best to leave the weathervane ungrounded 
+rather than undertake a do-it-yourself project. 
+What to do with an old decorative rod on a 
+building where the system has not been func-
+tional for years?  If the building is considered to be 
+at risk, repair and upgrade the lightning protection 
+or remove the rod and store for possible later reuse.  
+If the area is not highly prone to lightning and the 
+building risk is low, probably no immediate action is 
+needed. 
+What about the use on a historic building of 
+one of the non-conventional types of lightning 
+protection systems that have been marketed in 
+recent years?  NFPA and UL safety standards for 
+lightning protection only apply to the widely ac-
+cepted Franklin system. The conventional/traditional 
+Franklin system remains effective and has stood the 
+test of time. 
+With a working lightning protection system, 
+are there any precautions to be taken during a 
+lightning storm? There are still the normal precau-
+tions to be taken such as avoiding metal water pipes 
+(no baths) for personal safety, disconnecting sensitive 
+electronics when possible, and staying indoors. 
+Can landscape features like trees be protected 
+from lightning damage? Yes.  Lightning protection 
+can be installed on trees. 
+mounted terminals are typically connected by conductor 
+wires running along the roof top, down conductors 
+can often be placed at inside corners, beside or behind 
+downspouts, or on less prominent elevations for reduced 
+visibility. 
+On chimneys and rooftop features such as 
+parapets, the small terminals can be placed on the least 
+prominent side or in a way that best minimizes their 
+visual impact while providing the necessary protection. 
+Both lightning protection systems that primarily use 
+copper components and ones that use aluminum are 
+available today.  With copper terminals and cables, 
+some of the connectors and fasteners usually are made 
+of bronze. For historic buildings, copper systems often 
+are preferred because they have been traditionally used 
+in the past and may be a good visual match where 
+replication is desired. While copper is more costly, 
+aluminum as a material is a slightly poorer conductor, 
+requiring heavier gauge cables and components. As 
+a replacement for galvanized cables and terminals, 
+aluminum or sometimes lead-coated copper may be 
+preferred over copper for a closer color match. 
+The choice as to whether to use copper or aluminum 
+is at times dictated by the existing roofing material. 
+Copper should not be used for lightning protection 
+on old galvanized steel or corrugated iron roofs, as it 
+will tend over time to stain and erode the roofing due 
+to galvanic corrosion.  Aluminum should also be used 
+on steel, iron, and zinc roofs. For such commonly-
+found historic roofing materials as slate, wood, asphalt 
+shingles, and rolled roofing, either copper or aluminum 
+may be used. 
+While the installation of lightning protection should 
+always be done by a certified lightning protection 
+contractor, there are projects where a roofing contractor 
+needs to be involved as well.  Such close coordination 
+is important, especially on membrane roofs, to ensure 
+both that the lightning protection is properly installed 
+and that the integrity of the roofing and flashing is 
+not impaired. The appropriate means of attaching air 
+terminals to the roof and securing the connecting cables 
+without reducing the service life of the roof depends 
+on a variety of factors.  The use of specific sealants, 
+adhesives, cap sheet materials, and metal fasteners to 
+secure cables and terminals to the roof depends in part 
+on the type of roof, roofing material, and other building 
+specific conditions. Fasteners must be attached in a 
+manner that minimizes the risk of future water leaks. 
+For smaller historic structures such as most residences 
+and barns, there is the option of installing a new system, 
+utilizing period reproduction air terminals where 
+appropriate and augmenting with modern smaller 
+air terminals at chimneys and other locations where 
+dictated by today’s standards (Fig. 21). This approach 
+can be used to replace a missing system, or where it is 
+simply the preference of the property owner, providing 
+the intent is not to create a major new visual feature 
+where one did not historically exist. Care should be 
+18 
+
+taken to select a design that is compatible with the 
+historic character of the building, especially in regards 
+to any ornamentation. Because of availability, the 
+best building candidates for reproduction terminals 
+are those dating to the Golden Age.  Even some of the 
+manufacturers’ cables and connectors available today for 
+general installations are a match to historic ones. 
+Although lightning protection can be added to a 
+structure anytime, the best time is when a roof is being 
+replaced. 
+Existing surge protection that is deficient 
+should be upgraded or replaced whenever needed.  For 
+building uses such as museums with special climate 
+controls, businesses with vital data equipment, or even 
+homes with expensive home entertainment centers, up-
+to-date protection from power surges is important.  Such 
+surges may be caused not only by lightning but also by 
+electrical malfunctions. If the installation of a traditional 
+lightning protection is being postponed or because 
+of low risk not being considered, appropriate surge 
+protective devices still should be installed and care be 
+taken that electrical service, cable, and similar systems 
+are properly grounded. 
+The locations for down conductors are usually derived 
+as a result of requirements of standards and codes and 
+aesthetic considerations. For historic buildings of special 
+significance, particular care in the installation of the 
+grounds should be taken so as to minimize disturbance 
+and risks to historic landscape features and damage to 
+any archeological resources. Furthermore, location of 
+drain pipes and underground utility lines should be 
+marked prior to grounds being installed. 
+Codes, Standards, and Contracts 
+For large or complex structures, special applications, 
+certain uses, or buildings of high historic significance, 
+the services of an architect or engineer experienced with 
+lightning protection is usually desirable to assist with 
+major upgrades or new installations. A number of the 
+major manufacturers of lightning protection systems 
+Figure 21. Small air terminals have been used in this more recent 
+installation and have little visual impact. If a partially concealed 
+system was desired, the cable and the mount for two of the air 
+terminals could have been concealed within the ventilators.         
+Photo by author. 
+also provide helpful design assistance. In more common 
+building cases where design services independent of 
+the installation contractor are not used, the property 
+representative needs to check with the local building 
+department as to relevant code provisions.  While 
+the National Electrical Code, which includes general 
+references to lightning protection may be cited, the most 
+commonly referred to safety standard specifically for 
+lightning protection work is that issued by the National 
+Fire Protection Association and entitled, NFPA 780 
+Standard for Installation of Lightning Protection Systems. 
+The Underwriters Laboratories, Inc. (UL),  has a 
+similar standard covering the installation of lightning 
+protection, UL 96A Standard for Installation Requirements 
+for Lightning Protection Systems.  In addition, UL has 
+requirements that cover the components used in 
+the system, UL 96 Standard for Lightning Protection 
+Components. These standards can be specified in a 
+contract document along with NFPA 780.  
+Where a historic system is being repaired or undergoing 
+upgrades using specialty reproduction parts, all 
+functional replacement parts, unlike ornamental 
+pieces, should be UL-listed products. UL-listed 
+products help provide quality assurance, but it does 
+not necessarily mean that non-UL-approved parts 
+are unsafe to use. For new installations and for some 
+older systems, UL also offers an optional Inspection 
+Certificate Program through UL-listed installers. A UL 
+Certificate assures that a lightning protection system 
+installed on a structure has been inspected by a UL-field 
+representative and is in compliance with UL, NFPA, or 
+U.S. government standards. 
+The Lightning Protection Institute (LPI) is a voluntary 
+membership association for lightning protection 
+manufacturers and contractors that provides training 
+and certifications for designers and installers. They 
+offer different levels of certifications for installers.  A 
+membership list can be found on their website.  The 
+Institute also administers a quality assurance program 
+that certifies an installation meets their quality assurance 
+program through a third-party inspector. 
+For most projects, competitive proposals from 
+experienced lightning protection installers are desirable. 
+However, with historic systems, the choice of installers 
+may be more limited. Depending upon the historic 
+resource and conditions, it may be important to use a 
+contractor both with experience in lightning protection 
+systems and historic buildings. Work on historic 
+buildings often requires knowledge of older building 
+materials and construction; an appreciation of the 
+importance of installing a lightning protection system 
+that does not unnecessarily impact the structure’s 
+historic appearance or damage historic materials; and a 
+commitment to the highest quality of work. 
+The cost of a new system varies according to many 
+factors such as the size of a structure, roof type, and 
+19 
+
+materials. Features that require individual protection, 
+such as dormers, chimneys, and metal skylights, will 
+add to the cost. Porches and lower additions to a 
+building may necessitate additional work to ensure full 
+protection coverage.  The type of materials to be used 
+affects costs, with copper and copper alloys being more 
+expensive than aluminum.  Copper cannot be used on 
+structures with aluminum siding or most metal roofs, 
+and similarly aluminum cannot be used on a copper 
+roof. The extent of required bonding of nearby objects 
+and the level of surge protection coverage desired are 
+also cost factors. 
+The cost of a new system installed on a simple 
+monument, house, or barn with a small footprint and 
+plain roofline tends to be relatively inexpensive.  A new 
+system on a medium-sized residence or commercial 
+building with multiple dormers, chimneys, and 
+numerous features that need to be bonded to the system 
+will cost considerably more. Among some other factors 
+affecting costs are whether conductors are concealed 
+or run exposed, the ease of access to the building, and 
+where the building is located. 
+Summary 
+The use of lightning protection systems to protect 
+structures and provide for public safety is scientifically 
+accepted. Various government entities require such 
+installations on their buildings and local building codes 
+in areas of frequent lightning may require such systems 
+depending upon the use of a structure. While there are 
+no special requirements simply because a building is 
+historic, as an irreplaceable cultural resource, historic 
+structures at risk of damage or loss from a lightning 
+strike merit protection. 
+Acknowledgements 
+Charles Fisher, Technical Preservation Services, National 
+Park Service, has over 44 years of experience in historic 
+building conservation and rehabilitation. 
+The author would like to thank the assistance of Robert 
+E. Cripe, Sr. and Jan Yoder, Independent Protection 
+Company; Doug Franklin, retired president, Thompson 
+Lightning Protection; Terry Portfleet, Michigan Lightning 
+Protection; Sandy Easley, New Old Products, Inc.; Sunni 
+L. Goodson, historic preservation consultant; Bruce Gill, 
+Christ Church in Philadelphia; and Peter Michaud, New 
+Hampshire Division of Historical Resources. 
+Special thanks go to Dr. E. Philip Krider, University of 
+Arizona. Assistance provided by Kaaren Staveteig and 
+Brian Goeken, Chief, Technical Preservation Services, of 
+the National Park Service, are gratefully acknowledged.  
+This publication has been prepared pursuant to the 
+National Historic Preservation Act, which directs the 
+Secretary of the Interior to develop and make available 
+information concerning historic properties. Additional 
+information offered by Technical Preservation Services is 
+available on our website at 
+www.nps.gov/tps. Comments 
+about this publication should be made to: Technical 
+Preservation Services, National Park Service, 1849 C 
+Street NW, Washington, DC 20240.  
+This publication is not copyrighted and can be 
+reproduced without penalty. 
+Normal procedures for 
+credit to the author and the National Park Service are 
+appreciated. Except for the photographs by the author, 
+illustrations used in this publication may not be used in 
+other print or electronic media without permission of the 
+owners. Photographs by the author should be credited 
+with author’s name, National Park Service.  
+October 2017 
+20 

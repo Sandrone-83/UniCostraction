@@ -1,0 +1,978 @@
+ PRESERVATION
+BRIEFS 
+Repairing Historic Flat Plaster­
+Walls and Ceilings 
+Marylee MacDonald 
+U.S. Department of the Interior National Park Service 
+Preservation Assistance Division Technical Preservation Services 
+Plaster in a historic building is like a family album . The 
+handwriting of the artisans, the taste of the original 
+occupants, and the evolving styles of decoration are 
+embodied in the fabric of the building. From modest 
+farmhouses to great buildings, regardless of the ethnic 
+origins of the occupants, plaster has traditionally been 
+used to finish interior walls. 
+A versatile material , plaster could be applied over 
+brick, stone, half-timber, or frame construction. It pro­
+vided a durable surface that was easy to clean and that 
+could be applied to flat or curved walls and ceilings. 
+Plaster could be treated in any number of ways: it 
+could receive stenciling, decorative painting, wallpaper, 
+or whitewash. This variety and the adaptability of the 
+material to nearly any building size, shape, or configu­
+ration meant that plaster was the wall surface chosen 
+for nearly all buildings until the 1930s or 40s (Fig. 1). 
+Historic plaster may first appear so fraught with prob­
+lems that its total removal seems the only alternative. 
+But there are practical and historical reasons for saving 
+it. First, three-coat plaster is unmatched in strength 
+Fig. 1. Left: Schifferstadt, Frederick, Maryland, 1756. Right: First Christian Church, Eugene, Oregon, 1911. Although these two structures are 
+separated in history by over 150 years and differences in size, ethnic origin, geography, construction techniques, and architectural character, their 
+builders both used plaster as the interior surface coating for flat and curved walls. Photo left: Kay Weeks. Photo right: Kaye Ellen Simonson. 
+
+/ h) 
+/p) 
+and durability. It resists fire and reduces sound trans­
+mission. Next, replacing plaster is expensive. A build­
+ing owner needs to think carefully about the condition 
+of the plaster that remains; plaster is often not as badly 
+damaged as it first appears. Of more concern to preser­
+vationists, however, original lime and gypsum plaster 
+is part of the building's historic fabric-its smooth­
+troweled or textured surfaces and subtle contours 
+evoke the presence of America's earlier craftsmen. Plas­
+ter can also serve as a plain surface for irreplaceable 
+decorative finishes. For both reasons, plaster walls and 
+ceilings contribute to the historic character of the inte­
+rior and should be left in place and repaired if at all 
+possible (Fig. 2). 
+Fig. 2. A hole in the wall of a 1760s Custom House in Chestertown, 
+Maryland illustrates the evolution of the room. (a) The original 
+plaster was applied directly to an exterior masonry wall and the 
+chairrail (missing here, see arrow) was in place before the wet plas­
+ter was applied to the wall. Sometime later when the interior was 
+modified, the masonry was furred out. Machine-sawn wood lath (b) 
+was nailed to the furring strips and (c) new three-coat plaster was 
+applied. Photo: Maryland Historical Trust. 
+The approaches described in this Brief stress repairs 
+using wet plaster, and traditional materials and tech­
+niques that will best assist the preservation of historic 
+plaster walls and ceilings-and their appearance. Dry 
+wall repairs are not included here, but have been writ­
+ten about extensively in other contexts. Finally, this 
+Brief describes a replacement option when historic 
+plaster cannot be repaired. Thus, a veneer plaster sys­
+tem is discussed rather than dry wall. Veneer systems 
+include a coat or coats of wet plaster-although thinly 
+applied-which can, to a greater extent, simulate tradi­
+tional hand-troweled or textured finish coats. This sys­
+tem is generally better suited to historic preservation 
+projects than dry wall. 
+To repair plaster, a building owner must often enlist the 
+help of a plasterer. Plastering is a skilled craft, requir­
+ing years of training and special tools (Fig. 3). While 
+minor repairs can be undertaken by building owners, 
+most repairs will require the assistance of a plasterer. 
+2 
+Fig. 3. Many of these traditional plastering tools are still used 
+today: (a) screen to separate coarse sand from fine sand; (b) lime 
+screen to remove unslaked particles of lime; (c) hoe; (d) shovel; (e) 
+hawk to hold small amounts of plaster; (f) angle fl.oat to apply fin­
+ishes to inside angles; (g), (h), (i) assorted trowels to apply base­
+coats and finish coat; (j) padded fl.oat to level off humps and fill in 
+hollows caused by other tools; (k) a two-handled fl.oat or "darby" to 
+fl.oat larger surfaces; (I) a simple straight edge; (m) a square to test 
+the trueness of angles; (n) plumb to check verticality of plastered 
+surfaces; (o), (p), (q), (r) jointing and mitering tools to pick out 
+angles in decorative moldings; (s) comb made of sharpened lath 
+pieces to scratch the basecoat of plaster; (t) brush to dampen plaster 
+surfaces while they are worked smooth; (u) template made of wood 
+and metal to cut a required outline for a fancy mold. 
+
+paint outline 
+of wood trim 
+(nailed to ground) 
+Historical Background 
+Plasterers in North America have relied on two materi­
+als to create their handiwork-lime and gypsum. Until 
+the end of the 19th century, plasterers used lime plas­
+ter. Lime plaster was made from four ingredients: lime , 
+aggregate, fiber, and water. The lime came from 
+ground-and-heated limestone or oyster shells; the ag­
+gregate from sand; and the fiber from cattle or hog 
+hair. Manufacturing changes at the end of the 19th 
+century made it possible to use gypsum as a plastering 
+material. Gypsum and lime plasters were used in com­
+bination for the base and finish coats during the early 
+part of the 20th century; gypsum was eventually fa­
+vored because it set more rapidly and , initially, had a 
+harder finish. 
+Not only did the basic plastering material change, but 
+the method of application changed also. In early Amer­
+ica, the windows, doors, and all other trim were in­
+stalled before the plaster was applied to the wall (Fig. 
+4). Generally the woodwork was prime-painted before 
+plastering. Obtaining a plumb, level wall, while work­
+ing against built-up mouldings, must have been diffi­
+cult . But sometime in the first half of the 19th century, 
+builders began installing wooden plaster "grounds" 
+around windows and doors and at the base of the wall. 
+Installing these grounds so that they were level and 
+plumb made the job much easier because the plasterer 
+could work from a level, plumb, straight surface. 
+Woodwork was then nailed to the "grounds" after the 
+walls were plastered (Fig. 5). Evidence of plaster be­
+hind trim is often an aid to dating historic houses, or to 
+discerning their physical evolution. 
+Fig. 4. The builders of this mid-18th century house installed the 
+baseboard moulding first, then applied a mud and horse hair plaster 
+(called paling) to the masonry wall. Lime was used for the finish 
+plaster. Also shown are the hacking marks which prepared the wall 
+for a subsequent layer of plaster. Photo: Kay Weeks. 
+Fig. 5 (a). The photo above shows the use of wooden plaster 
+"grounds" nailed to the wall studs of the mid-19th century Lock­
+wood House in Harpers Ferry, West Virginia. This allowed the 
+plasterer to work flush with the surface of the grounds. Afterwards, 
+the carpenter could nail the finish woodwork to the ground, effec­
+tively hiding the joint between the plaster and the ground. The trim 
+was painted after its installation, leaving a paint outline on the 
+plaster. Fig. 5 (b). The photo below shows door trim and mouldings 
+in place after the plastering was complete. Photos: Kaye Ellen 
+Simonson. 
+Lime Plaster 
+When building a house, plasterers traditionally mixed 
+bags of quick lime with water to "hydrate" or "slake" 
+the lime. As the lime absorbed the water, heat was 
+given off. When the heat diminished, and the lime and 
+water were thoroughly mixed, the lime putty that re­
+sulted was used to make plaster. 
+When lime putty, sand, water, and animal hair were 
+mixed, the mixture provided the plasterer with "coarse 
+stuff." This mixture was applied in one or two layers to 
+build up the wall thickness. But the best plaster was 
+done with three coats. The first two coats made up the 
+coarse stuff; they were the scratch coat and the brown 
+coat. The finish plaster, called "setting stuff" contained 
+a much higher proportion of lime putty, little aggre­
+gate, and no fiber, and gave the wall a smooth white 
+surface finish. 
+Compared to the 3/8-inch-thick layers of the scratch 
+and brown coats, the finish coat was a mere 1/8-inch 
+thick . Additives were used for various finish qualities. 
+3 
+
+0 0 
+0 0 0 0 
+0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 
+0 0 0 0 
+0 0 
+For example, fine white sand was mixed in for a "float 
+finish." This finish was popular in the early 1900s. (If 
+the plasterer raked the sand with a broom, the plaster 
+wall would retain swirl marks or stipples.) Or marble 
+dust was added to create a hard-finish white coat 
+which could be smoothed and polished with a steel 
+trowel. Finally, a little plaster of Paris, or "gauged 
+stuff;' was often added to the finish plaster to acceler­
+ate the setting time. 
+Although lime plaster was used in this country until 
+the early 1900s, it had certain disadvantages. A plas­
+tered wall could take more than a year to dry; this de­
+layed painting or papering. In addition, bagged quick 
+lime had to be carefully protected from contact with air, 
+or it became inert because it reacted with ambient 
+moisture and carbon dioxide. Around 1900, gypsum 
+began to be used as a plastering material. 
+Gypsum Plaster 
+Gypsum begins to cure as soon as it is mixed with 
+water. It sets in minutes and completely dries in two to 
+three weeks. Historically, gypsum made a more rigid 
+plaster and did not require a fibrous binder. However, 
+it is difficult to tell the difference between lime and 
+gypsum plaster once the plaster has cured. 
+Despite these desirable working characteristics, gyp­
+sum plaster was more vulnerable to water damage than 
+lime. Lime plasters had often been applied directly to 
+masonry walls (without lathing), forming a suction 
+bond. They could survive occasional wind-driven mois­
+ture or water wicking up from the ground. Gypsum 
+plaster needed protection from water. Furring strips 
+had to be used against masonry walls to create a dead 
+air space. This prevented moisture transfer. 
+In rehabilitation and restoration projects, one should 
+rely on the plasterer's judgment about whether to use 
+lime or gypsum plaster . In general, gypsum plaster is 
+the material plasterers use today. Different types of 
+aggregate may be specified by the architect such as 
+clean river sand, perlite, pumice, or vermiculite; how­
+ever, if historic finishes and textures are being repli­
+cated, sand should be used as the base-coat aggregate. 
+Today, if fiber is required in a base coat, a special gyp­
+sum is available which includes wood fibers. Lime 
+putty, mixed with about 35 percent gypsum (gauging 
+plaster) to help it harden, is still used as the finish coat. 
+Lath 
+Lath provided a means of holding the plaster in place. 
+Wooden lath was nailed at right angles directly to the 
+structural members of the buildings (the joists and 
+studs), or it was fastened to non-structural spaced 
+strips known as furring strips. Three types of lath can 
+be found on historic buildings (Fig. 6). 
+Wood Lath. Wood lath is usually made up of narrow, 
+thin strips of wood with spaces in between. The plas­
+terer applies a slight pressure to push the wet plaster 
+through the spaces. The plaster slumps down on the 
+inside of the wall, forming plaster "keys." These keys 
+hold the plaster in place. 
+4 
+Fig. 6. Top to bottom: Hand-riven lath, machine-sawn wood lath, 
+expanded metal (diamond mesh) lath, and perforated gypsum board 
+lath. Profile views of their keying characteristics are shown to the 
+right. For plaster repairs or replastering, galvanized metal lath is 
+the most reliable in terms of longevity, stability, and proper keying. 
+Drawing: Kaye Ellen Simonson. 
+
+Metal Lath. Metal lath, patented in England in 1797, 
+began to be used in parts of the United States toward 
+the end of the 19th century. The steel making up the 
+metal lath contained many more spaces than wood lath 
+had contained. These spaces increased the number of 
+keys; metal lath was better able to hold plaster than 
+wood lath had been. 
+Rock Lath. A third lath system commonly used was 
+rock lath (also called plaster board or gypsum-board 
+lath). In use as early as 1900, rock lath was made up of 
+compressed gypsum covered by a paper facing. Some 
+rock lath was textured or perforated to provide a key 
+for wet plaster. A special paper with gypsum crystals in 
+it provides the key for rock lath used today; when wet 
+plaster is applied to the surface, a crystalline bond is 
+achieved. 
+Rock lath was the most economical of the three lathing 
+systems . Lathers or carpenters could prepare a room 
+more quickly. By the late 1930s, rock lath was used 
+almost exclusively in residential plastering . 
+Common Plaster Problems 
+When plaster dries, it is a relatively rigid material 
+which should last almost indefinitely. However, there 
+are conditions that cause plaster to crack, effloresce, 
+separate, or become detached from its lath framework 
+(Fig. 7). These include: 
+• Structural Problems 
+• Poor Workmanship 
+• Improper Curing 
+• Moisture 
+Structural Problems 
+Overloading. Stresses within a wall, or acting on the 
+house as a whole, can create stress cracks. Appearing 
+as diagonal lines in a wall, stress cracks usually start at 
+a door or window frame, but they can appear any­
+where in the wall, with seemingly random starting 
+points. 
+Fig. 7 (a) to (d). series of photographs taken in different rooms of an early 20th century house in West Virginia reveal a variety of plaster wall 
+surface problems, most of which can easily be remedied through sensitive repair: Hairline cracks (a) in an otherwise sound wall can be filled with joint 
+compound or patching plaster. The wall can also be canvassed or wallpapered. Stress cracks (b) in plaster over a kitchen door frame can be repaired 
+using fiberglass mesh tape and joint compound. Settlement cracks (c) in a bedroom can be similarly repaired. The dark crack at the ;uncture between 
+walls, however, may be a structural crack and should be investigated for its underlyingcause. Moisture damage (d) from leaking plumbing
+on the second fioor has damaged both wallpaper and plaster in the dining room. After fixing the leaking pipes, the wall covering and rotted plaster 
+will need to be replaced and any holes repaired. Photos: Kay Weeks. 
+5 
+
+Builders of now-historic houses had no codes to help 
+them size the structural members of buildings . The 
+weight of the roof, the second and third stories, the 
+furniture, and the occupants could impose a heavy 
+burden on beams, joists, and studs. Even when houses 
+were built properly, later remodeling efforts may have 
+cut in a doorway or window without adding a struc­
+tural beam or "header" across the top of the opening . 
+Occasionally, load-bearing members were simply too 
+small to carry the loads above them. Deflection or 
+wood "creep" (deflection that occurs over time) can 
+create cracks in plaster. 
+Overloading and structural movement (especially when 
+combined with rotting lath, rusted nails, or poor qual­
+ity plaster) can cause plaster to detach from the lath. 
+The plaster loses its key. When the mechanical bond 
+with the lath is broken, plaster becomes loose or 
+bowed. If repairs are not made , especially to ceilings , 
+gravity will simply cause chunks of plaster to fall to the 
+floor. 
+cheaper material . Oversanding can cause the plaster to 
+weaken or crumble (Fig. 8). Plaster made from a poorly 
+proportioned mix may be more difficult to repair. 
+SettlementNibration. Cracks in walls can also result 
+when houses settle . Houses built on clay soils are espe­
+cially vulnerable. Many types of clay (such as mont­
+morillonite) are highly expansive. In the dry season, 
+water evaporates from the clay particles , causing them 
+to contract. During the rainy season, the clay swells. 
+Thus, a building can be riding on an unstable footing . 
+Diagonal cracks running in opposite directions suggest 
+that house settling and soil conditions may be at fault . 
+Similar symptoms occur when there is a nearby source 
+of vibration-blasting, a train line, busy highway, or 
+repeated sonic booms. 
+Lath movement. Horizontal cracks are often caused by 
+lath movement. Because it absorbs moisture from the 
+air, wood lath expands and contracts as humidity rise s 
+and falls. This can cause cracks to appear year after 
+year. Cracks can also appear between rock lath panels . 
+A nail holding the edge of a piece of lath may rust or 
+loosen, or structural movement in the wood framing 
+behind the lath may cause a seam to open. Heavy 
+loads in a storage area above a rock-lath ceiling can also 
+cause ceiling cracks . 
+Errors in initial building construction such as improper 
+bracing, poor corner construction, faulty framing of 
+doors and windows, and undersized beams and floor 
+joists eventually "telegraph" through to the plaster 
+surface . 
+Poor Workmanship 
+In addition to problems caused by movement or weak ­
+ness in the structural framework , plaster durability can 
+be affected by poor materials or workmanship. 
+Poorly proportioned mix. The proper proportioning 
+and mixing of materials are vital to the quality of the 
+plaster job. A bad mix can cause problems that appear 
+years later in a plaster wall. Until recently, proportions 
+of aggregate and lime were mixed on the job . A plas­
+terer may have skimped on the amount of cementing 
+material (lime or gypsum) because sand was the 
+6 
+Fig. 8. Too much aggregate (sand) and not enough cementing mate­
+rial (lime or gypsum) in the base coat has made this plaster surface 
+weak and crumbly. Besides losing its key with the lath, the layers 
+are disintegrating. It will most likely need to be totally removedand 
+replaced with all new plaster. Photo: Marylee MacDonald.
+Incompatible basecoats and finish coats. Use of perlite 
+as an aggregate also presented problems. Perlite is a 
+lightweight aggregate used in the base coat instead of 
+sand. It performs well in cold weather and has a 
+slightly better insulating value. But if a smooth lime 
+finish coat was applied over perlited base coats on 
+wood or rock lath, cracks would appear in the finish 
+coat and the entire job would have to be re-done. To 
+prevent this, a plasterer had to add fine silica sand or 
+finely crushed perlite to the finish coat to compensate 
+for the dramatically differing shrinkage rates between 
+the base coat and the finish coat. 
+Improper plaster application. The finish coat is subject 
+to "chip cracking" if it was applied over an excessively 
+dry base coat, or was insufficiently troweled, or if too 
+little gauging plaster was used. Chip cracking looks 
+very much like an alligatored paint surface. Another 
+common problem is called map cracking-fine , irregu­
+lar cracks that occur when the finish coat has been 
+applied to an oversanded base coat or a very thin base 
+coat. 
+Too much retardant. Retarding agents are added to slow 
+down the rate at which plaster sets, and thus inhibit 
+hardening. They have traditionally included ammonia, 
+
+glue, gelatin, starch, molasses, or vegetable oil. If the 
+plasterer has used too much retardant , however, a gyp­
+sum plaster will not set within a normal 20 to 30 min­
+ute time period. As a result, the surface becomes soft 
+and powdery. 
+Inadequate plaster thickness. Plaster is applied in three 
+coats over wood lath and metal lath-the scratch, 
+brown , and finish coats . In three-coat work, the scratch 
+coat and brown coat were sometimes applied on suc­
+cessive days to make up the required wall thickness. 
+Using rock lath allowed the plasterer to apply one base 
+coat and the finish coat-a two-coat job. 
+If a plasterer skimped on materials, the wall may not 
+have sufficient plaster thickness to withstand the nor­
+mal stresses within a building. The minimum total 
+thickness for plaster on gypsum board (rock lath) is 1/2 
+inch. On metal lath the minimum thickne ss is 5/8 inch ; 
+and for wood lath it is about 3/4 to 7/8 inch. This mini­
+mum plaster thickness may affect the thicknes s of trim 
+projecting from the wall 's plane . 
+Improper Curing 
+Proper temperature and air circulation during curing 
+are key factors in a durable plaster job. The ideal tem­
+perature for plaster to cure is between 55- 70 degrees 
+Fahrenheit. However, historic houses were sometimes 
+plastered before window sashes were put in. There 
+was no way to control temperature and humidit y. 
+Dryouts, freezing, and sweat-outs. When temperatures 
+were too hot, the plaster would return to its original con­
+dition before it was mixed with water, that is, calcined 
+gypsum. A plasterer would have to spray the wall with 
+alum water to re-set the plaster. If freezing occurred be­
+fore the plaster had set, the job would simply have to be 
+re-done . If the windows were shut so that air could not 
+circulate, the plaster was subject to sweat-out or rot. Since 
+there is no cure for rotted plaster, the affected area had to 
+be removed and replastered. 
+Moisture 
+Plaster applied to a masonry wall is vulnerable to water 
+damage if the wall is constantly wet . When salts from 
+the masonry substrate come in contact with water, they 
+migrate to the surface of the plaster, appearing as dry 
+bubbles or efflorescence. The source of the moisture 
+must be eliminated before replastering the damaged 
+area . 
+Sources of Water Damage. Moisture problems occur for 
+several reasons . Interior plumbing leaks in older 
+houses are common . Roofs may leak, causing ceiling 
+damage. Gutters and downspouts may also leak , pour­
+ing rain water next to the building foundation. In brick 
+buildings , dampness at the foundation level can wick 
+up into the above-grade walls. Another common 
+source of moisture is splash-back. When there is a 
+paved area next to a masonry building , rainwater 
+splashing up from the paving can dampen masonry 
+walls . In both cases water travels through the masonr y 
+and damages interior plaster . Coating s applied to the 
+interior are not effective over the long run. The mois­
+ture problem must be stopped on the outside of the 
+wall. 
+Repairing Historic Plaster 
+Many of the problems described above may not be easy 
+to remedy . If major structural problems are found to be 
+the source of the plaster problem, the structural prob­
+lem should be corrected. Some repairs can be made by 
+removing only small sections of plaster to gain access. 
+Minor structural problems that will not endanger the 
+building can generally be ignored. Cosmetic damages 
+from minor building movement, holes, or bowed areas 
+can be repaired without the need for wholesale demoli­
+tion . However, it may be necessary to remove deterio­
+rated plaster caused by rising damp in order for 
+masonry walls to dry out. Repairs made to a wet base 
+will fail again. 
+Canvassing Uneven Wall Surfaces 
+Uneven wall surfaces, caused by previous patching or 
+by partial wallpaper removal, are common in old 
+houses . As long as the plaster is generally sound, cos­
+metically unattractive plaster walls can be "wallpa­
+pered" with strips of a canvas or fabric-like material. 
+Historically, canvassing covered imperfections in the 
+plaster and provided a stable base for decorative paint­
+ing or wallpaper . 
+Filling Cracks 
+Hairline cracks in wall and ceiling plaster are not a 
+serious cause for concern as long as the underlying 
+plaster is in good condition. They may be filled easily 
+with a patching material (see Patching Materials, page 
+13 ). For cracks that re-open with seasonal humidity 
+change, a slightly different method is used. First the 
+crack is widened slightly with a sharp, pointed tool 
+such as a crack widener or a triangular can opener. 
+Then the crack is filled . For more persistent cracks, it 
+may be necessary to bridge the crack with tape. In this 
+instance, a fiberglass mesh tape is pressed into the 
+patching material. After the first application of a quick­
+setting joint compound dries , a second coat is used to 
+cover the tape, feathering it at the edges . A third coat 
+is applied to even out the surface , followed by light 
+sanding. The area is cleaned off with a damp sponge , 
+then dried to remove any leftover plaster residue or 
+dust . 
+When cracks are larger and due to structural move­
+ment , repairs need to be made to the structural system 
+before repairing the plaster. Then, the plaster on each 
+side of the crack should be removed to a width of 
+about 6 inches down to the lath. The debris is cleaned 
+out, and metal lath applied to the cleared area, leaving 
+the existing wood lath in place. The metal lath usually 
+prevents further cracking . The crack is patched with an 
+appropriate plaster in three layers (i.e., basecoats and 
+finish coat) . If a crack seems to be expanding , a struc­
+tural engineer should be consulted. 
+7 
+
+Replacing Delaminated Areas of the Finish Coat 
+Sometimes the finish coat of plaster comes loose from 
+the base coat (Fig. 9). In making this type of repair, the 
+plasterer paints a liquid plaster-bonding agent onto the 
+areas of base-coat plaster that will be replastered with a 
+new lime finish coat . A homeowner wishing to repair 
+small areas of delaminated finish coat can use the 
+methods described in Patching Materials. 
+Fig. 9. The smooth-troweled lime finish coat has delaminated from 
+the brown coat underneath. This is another repair that can be un­
+dertaken without further loss of the historic plaster. Photo: Marylee 
+MacDonald. 
+Patching Holes in Walls 
+For small holes (less than 4 inches in diameter) that 
+involve loss of the brown and finish coats, the repair is 
+made in two applications . First, a layer of basecoat 
+plaster is troweled in place and scraped back below the 
+level of the existing plaster . When the base coat has set 
+but not dried, more plaster is applied to create a 
+smooth , level surface. One-coat patching is not gener­
+ally recommended by plasterers because it tends to 
+produce concave surfaces that show up when the work 
+is painted. Of course, if the lath only had one coat of 
+plaster originally, then a one-coat patch is appropriate 
+(Fig. 10). 
+For larger holes where all three coats of plaster are 
+damaged or missing down to the wood lath, plasterers 
+generally proceed along these lines. First, all the old 
+plaster is cleaned out and any loose lath is re-nailed. 
+Next, a water mist is sprayed on the old lath to keep it 
+from twisting when the new, wet plaster is applied, or 
+better still, a bonding agent is used. To provide more 
+reliable keying and to strengthen the patch, expanded 
+metal lath ( diamond mesh) should be attached to the 
+wood lath with tie wires or nailed over the wood lath 
+with lath nails (Fig. 11). The plaster is then applied in 
+three layers over the metal lath, lapping each new layer 
+of plaster over the old plaster so that old and new are 
+evenly joined. This stepping is recommended to pro­
+duce a strong, invisible patch (Fig. 12). Also, if a patch 
+is made in a plaster wall that is slightly wavy, the con­
+tour of the patch should be made to conform to the 
+irregularities of the existing work. A flat patch will 
+stand out from the rest of the wall. 
+Fig. 10 (a) and (b). In this New Hampshire residence dating from the 1790s, the original plaster was a single coat of lime, sand, and horsehair ap­
+plied aver split lath. A one-coat repair, in this case, is appropriate. To the left: a flat sheet of galvanized expanded metal lath is placed aver the patch 
+area and an outline marked with a large soft lumber crayon. The metal lath is then cut to fit the hole and nailed to the lath. To the right: the edges of 
+the original plaster and wood lath beneath have been thoroughly soaked with water. A steel trowel is used to apply the plaster in large, rough strokes. 
+Finally, it will be scraped and smoothed off. Because only one coat of plaster is used, without a finish coat, a clean butt-joint is made with the original 
+plaster. Photos: John Leeke. 
+8 
+
+The patch is stepped 
+so that each new coat 
+of plaster laps over 
+the others 
+2 x 4 studs 
+I 
+Fig. 13. This beaded ceiling in one of the bedrooms of the 1847 
+Lockwood House, Harpers Ferry, West Virginia, is missing portions 
+of plaster due to broken keys. This is attributable, in part, to deterio­
+ration of the wood lath. Photo: Kaye Ellen Simonson . 
+Fig. 11. Repairs are being made to the historic plaster in an early 
+20th century residence in Tennessee. A fairly sizeable hole in three­
+coat plaster extends to the wood lath. Expanded metal lath has been 
+cut to fit the hole, then attached to the wood lath with a tie-wire. 
+Two ready-mix gypsum base coats are in the process of being ap­
+plied. After they set, the finish coat will be smooth-troweled gauged 
+lime to match the existing wall. Photo: Walter Jowers. 
+Fig. 12. This explains how a hole in historic plaster is repaired over 
+the existing wood lath. First, metal lath is secured over the wood 
+lath with a tie wire, then the new plaster is applied in three layers, 
+"stepped" so that each new coat overlaps the old plaster to create a 
+good adhesive bond. Drawing: Kaye Ellen Simonson. 
+Patching Holes in Ceilings 
+Hairline cracks and holes may be unsightly, but when 
+portions of the ceiling come loose, a more serious prob­
+lem exists (Fig. 13). The keys holding the plaster to the 
+ceiling have probably broken. First, the plaster around 
+the loose plaster should be examined. Keys may have 
+deteriorated because of a localized moisture problem, 
+poor quality plaster, or structural overloading; yet, the 
+surrounding system may be intact. If the areas sur­
+rounding the loose area are in reasonably good condi­
+tion, the loose plaster can be reattached to the lath 
+using flat-head wood screws and plaster washers 
+(Fig. 14). To patch a hole in the ceiling plaster, metal lath 
+is fastened over the wood lath; then the hole is filled 
+with successive layers of plaster, as described above. 
+• 
+• 
+Fig. 14. In a late 18th century house in Massachusetts, flat-head 
+wood screws and plaster washers were used to reattach loose ceiling 
+plaster to the wood lath. After the crack is covered with fiberglass 
+mesh tape, both the taped crack and the plaster washers will be 
+skim-coated with a patching material. Photo: John Obed Curtis. 
+9 
+
+Establishing New Plaster Keys 
+If the back of the ceiling lath is accessible (usually from 
+the attic or after removing floor boards), small areas of 
+bowed-out plaster can be pushed back against the lath. 
+A padded piece of plywood and braces are used to 
+secure the loose plaster. After dampening the old lath 
+and coating the damaged area with a bonding agent, a 
+fairly liquid plaster mix (with a glue size retardant 
+added) is applied to the backs of the lath, and worked 
+into the voids between the faces of the lath and the 
+back of the plaster. While this first layer is still damp, 
+plaster-soaked strips of jute scrim are laid across the 
+backs of the lath and pressed firmly into the first layer 
+as reinforcement. The original lath must be secure, 
+otherwise the weight of the patching plaster may 
+loosen it. 
+Loose, damaged plaster can also be re-keyed when the 
+goal is to conserve decorative surfaces or wallpaper. Large 
+areas of ceilings and walls can be saved. This method 
+requires the assistance of a skilled conservator-it is not a 
+repair technique used by most plasterers. The conservator 
+injects an acrylic adhesive mixture through holes drilled 
+in the face of the plaster ( or through the lath from be­
+hind, when accessible). The loose plaster is held firm 
+with plywood bracing until the adhesive bonding mixture 
+sets. When complete, gaps between the plaster and lath 
+are filled, and the loose plaster is secure (Fig. 15). 
+Fig. 15. When ceiling repairs are made with wet plaster or with an 
+injected adhesive mixture, the old loose plaster must be supported 
+with a plywood brace until re-keying is complete. Photo: John Leeke. 
+10 
+Replastering Over the Old Ceiling 
+If a historic ceiling is too cracked to patch or is sagging 
+(but not damaged from moisture), plasterers routinely 
+keep the old ceiling and simply relath and replaster 
+over it. This repair technique can be used if lowering 
+the ceiling slightly does not affect other ornamental 
+features. The existing ceiling is covered with 1x3-inch 
+wood furring strips, one to each joist, and fastened 
+completely through the old lath and plaster using a 
+screw gun. Expanded metal lath or gypsum board lath 
+is nailed over the furring strips. Finally, two or three 
+coats are applied according to traditional methods. 
+Replastering over the old ceiling saves time, creates 
+much less dust than demolition, and gives added fire 
+protection. 
+When Damaged Plaster Cannot be 
+Repaired-Replacement Options 
+Partial or complete removal may be necessary if plaster 
+is badly damaged, particularly if the damage was 
+caused by long-term moisture problems. Workers un­
+dertaking demolition should wear OSHA-approved 
+masks because the plaster dust that flies into the air 
+may contain decades of coal soot. Lead, from lead­
+based paint, is another danger. Long-sleeved clothing 
+and head-and-eye protection should be worn. Asbes­
+tos, used in the mid-twentieth century as an insulating 
+and fireproofing additive, may also be present and 
+OSHA-recommended precautions should be taken. If 
+plaster in adjacent rooms is still in good condition, 
+walls should not be pounded-a small trowel or pry 
+bar is worked behind the plaster carefully in order to 
+pry loose pieces off the wall. 
+When the damaged plaster has been removed, the 
+owner must decide whether to replaster over the exist­
+ing lath or use a different system. This decision should 
+be based in part on the thickness of the original plaster 
+and the condition of the original lath. Economy and 
+time are also valid considerations. It is important to 
+ensure that the wood trim around the windows and 
+doors will have the same "reveal" as before. (The "re­
+veal" is the projection of the wood trim from the sur­
+face of the plastered wall). A lath and plaster system 
+that will give this required depth should be selected. 
+Replastering-Alternative Lath Systems for New 
+Plaster 
+Replastering old wood lath. When plasterers work with 
+old lath, each lath strip is re-nailed and the chunks of 
+old plaster are cleaned out. Because the old lath is dry, 
+it must be thoroughly soaked before applying the base 
+coats of plaster, or it will warp and buckle; further­
+more, because the water is drawn out, the plaster will 
+fail to set properly. As noted earlier, if new metal lath is 
+installed over old wood lath as the base for new plaster, 
+
+many of these problems can be avoided and the his­
+toric lath can be retained (Fig. 16). The ceiling should 
+still be sprayed unless a vapor barrier is placed behind 
+the metal lath. 
+Replastering over new metal lath . An alternative to re­
+using the old wood lath is to install a different lathing 
+system . Galvanized metal lath is the most expensive , 
+but also the most reliable in terms_ of longevity, stabil­
+ity, and proper keying. When lathing over open joists, 
+the plasterer should cover the joists with kraft paper or 
+a polyethylene vapor barrier . Three coats of wet plaster 
+are applied consecutively to form a solid, monolithic 
+unit with the lath . The scratch coat keys into the metal 
+lath; the second, or brown, coat bonds to the scratch 
+coat and builds the thickness; the third, or finish coat, 
+consists of lime putty and gauging plaster. 
+Replastering over new rock lath. It is also possible to 
+use rock lath as a plaster base. Plasterers may need to 
+remove the existing wood lath to maintain the wood­
+work's reveal. Rock lath is a 16x36-inch 1/2-inch thick 
+gypsum-core panel covered with absorbent paper with 
+gypsum crystals in the paper. The crystals in the paper 
+bond the wet plaster and anchor it securely . This type 
+of lath requires two coats of new plaster-the brown 
+coat and the finish coat. The gypsum lath itself takes 
+the place of the first, or scratch, coat of plaster . 
+Painting New Plaster 
+The key to a succe ssful paint job is proper drying of 
+the plaster . Histo rically, lime p lasters w ere allowed to 
+cure for at least a year befor e the w alls were painted or 
+papered . With modern ventilation , plaster cure s in a 
+shorter time ; however , fresh gypsum plaster with a 
+lime finish coat should still be perfectl y dry before 
+paint is applied-or the paint may peel. (Plasterers 
+traditionally used the "match test" on new plaster. If a 
+match would light by striking it on the new plaster 
+surface , the plaster was considered dry.) Today it is 
+best to allow new plaster to cure two to three week s. A 
+good alkaline-resistant primer , specifically formulated 
+for new plaster , should then be used. A compatible 
+latex or oil-based paint can be used for the final coat . 
+A Modern Replacement System 
+Veneer Plaster. Using one of the traditional lath and 
+plaster systems provides the highest qualit y plaster job. 
+However , in some cases , budget and time cons ider­
+ations may lead the owner to consider a less expensive 
+replacement alternative. Designed to reduce the cost of 
+materials, a more recent lath and plaster system is less 
+expensive than a two-or-three coat plaster job, but onl y 
+slightly more expensive than drywall. This plaster sys­
+tem is called veneer plaster . 
+Fig. 16. In the restoration of a ca. 1830s house in Maine, split-board lath has been covered with expanded metal lath in preparation for new 
+coats of plaster. This method permits the early lath to be saved whzle the metal lath, wzth zts superior keying, serves as reinforcement. Photo· 
+National Park Service files. 
+11 
+
+the system uses gypsum-core panels that are the same 
+size as drywall (4x8 feet), and specially made for ve­
+neer plaster . They can be installed over furring chan­
+nels to masonry walls or over old wood lath walls and 
+ceilings. Known most commonly as "blueboard;' the 
+panelsare covered with a special paper compatible 
+with veneer plaster. Joints between the 4-foot wide 
+sheets are taped with fiberglass mesh, which is bedded 
+in the veneer plaster. After the tape is bedded, a thin, 
+1/16-inch coat of high-strength veneer plaster is applied 
+to the entire wall surface. A second veneer layer can be 
+used as the "finish" coat, or the veneer plaster can be 
+covered with a gauged lime finish-coat-the same coat 
+that covers ordinary plaster (Fig. 17). 
+Fig. 17. This contemporary plasterer is mixing a lime finish coat in 
+much the same way as America's earlier artisans. The ring consists 
+of lime putty; the white powder inside is gauging plaster. After the 
+mixture 1s blended, a steel trowel will be used to apply it. It should 
+be noted that a traditional lime finish coat can be applied over a 
+veneer plaster base coat to approximate the look of historic plaster 
+walls and ceilings. Photo: Marylee MacDonald. 
+Although extremely thin, a two-coat veneer plaster 
+system has a 1,500 psi rating and is thus able to with­
+stand structural movements in a building or surface 
+abrasio_n._ With either a veneer finish or a gauged lime­
+putty finish coat, the room will be ready for painting 
+almost immediately. When complete, the troweled or 
+textured wall surface looks more like traditional plaster 
+than drywall. 
+The thin profile of the veneer system has an added 
+benefit, especial!y for owners of uninsulated masonry 
+buildings . Insulation can be installed between the 
+pieces of furring channel used to attach blueboard to 
+masonry walls. This can be done without having to 
+furr out the window and door jambs. The insulation 
+plus the veneer system will result in the same thick­
+ness as the original plaster. Occupants in the rooms 
+will be more comfortable because they will not be los­
+ing heat to cold wall surfaces. 
+Summary 
+The National Park Service recommends retaining his­
+tone plaster if at all possible. Plaster is a significant part 
+of the "fabric" of the building.Much of the building's 
+history 1s documented in the layers of paint and paper 
+found covering old plaster. For buildings with decora­
+tive painting, conservation of historic flat plaster is 
+even more important. Consultation with the National 
+Park Service, with State Historic Preservation Officers 
+local preservation organizations, historic preservation' 
+consultants, or with the Association for Preservation 
+Technology is recommended. Where plaster cannot be 
+repaired or conserved using one of the approaches 
+outlined in this Brief, documentation of the layers of 
+wallpaper and paint should be undertaken before re­
+moving the historic plaster. This information may be 
+needed to complete a restoration plan. 
+12 
+
+PatchingMaterials
+Plasterers generallyuse ready-mix base-coat plaster for 
+patchiespeciallywhere large holes need to be filled. 
+Theready-mix plaster contains gypsum and aggregate 
+in proper pproportions. The plasterer only needs tu add 
+Another mix plasterers use to patch cracks or small 
+holes, or for finish-coat repair, is a "high gauge" lime 
+putty (50 percent limlime; 50 percent gauging plaster). 
+Thismaterial will produce a white, smooth patch. It is 
+especially suitable for surface repairs. 
+Although propertyowners cannot duplicate the years 
+of accumulated knowledge and craft skills of a profes­
+sional plasterer, there are materials that can be used for 
+do-it-yourself repairs. For example, fine cracks can be 
+filled with an an-purpose drywall jjoint compound . For 
+bridging larger cracks using fiberglasstape, a home­
+owner can use a "quick-setting" joint compound. This 
+compoundhas a fast drying titime-60, 90, or 120 min­
+utes. Quick-setting joint compound dries because of a 
+chemical reaction, not because of water evaporation. It 
+shrinks less than all-purpose joint compound and has 
+much the same wrokability as ready-nux base-coat 
+plaster. However, because quick-set joint compounds
+are hard to sand, they should only be used to bed tape 
+or to fill large holes. All-purpose joint compound 
+should g, espbe used as the final coat prior to sanding. 
+Homeowners may also want to try using a ready -mix 
+perlited base-coat plaster for scratch and brown coat 
+repair. The plaster can be hand-mixed in small quanti­
+ties, but bagged ready-mix should be protected from 
+ambient moisture. A "mill-mixed pre-gauged" lime 
+finish coat plaster can also be used by nomeowners. A 
+base coat utilizing pperlite or other lightweight aggre-
+gates should only be used for making small repairs 
+(less than 4 ft. patches). For large-scale repairs and 
+entire room re-plastering, see the precautions in Table 1 
+for using perlite. 
+Homeowners may see a material sold as "patching 
+plaster" or "plaster of Paris" in hardware stores. This 
+dry powder cannot be used by itself for plaster repairs. 
+It must be combined with lime to create a successful 
+patching mixture. 
+When using a lime finish coat for any repair, wait 
+longer to paint, or use an alkaline-resistant primer. 
+TABLE 1 
+REPLASTERING 
+Selected Plaster Bases/Compatible Basecoats and Finish Coats 
+Traditional Plaster Bases Compatible Basecoats Compatible Finish Coats 
+OLD WOOD LATH gypsum /sand plaster 
+gypsum /perlite plaster 2 
+lime putty /gauging plaster 
+lime putty /gauging plaster 
+METAL LATH gypsum/sand plaster1gh strength 
+gypsum/perlite plaster 2 
+lime putty/gauging plaster 
+lime putty/gauging plaster 
+GYPSUM (ROCK) LATH PANELS gypsum/sand plaster 
+gypsum/perlite plaster 2 
+lime putty/gauging plaster 
+lime putty /gauging plaster 
+UNGLAZED BRICK/CLAY TILE gypsum /perlite plaster 
+(masonry type) 
+2 lime putty /gauging plaster 
+Mod ern Plast er Base Compatible Basecoat Compatible Finish Coat 
+GYPSUM CORE VENEER PANELS 
+(BLUE BOARD) 
+veneer plaster veneer plaster 
+or 
+lime putty /gauging plaster 
+1 On traditional bases (wood, metal , and rock lath) , the thickness or base coat plaster is one of the most important elements or a good plaster job Grounds should be set to obtain the following minimum 
+plaster thicknesse s: (1) Over rock lath -1/2" (2) Over brick, clay tile, or other masonry -5/8" (3) Over metal lath, measured from face of lath-5/8" (4) Over wood lath-7 /8". In no case shou ld the total 
+plaster thickne ss be less than 1/2". The allowance for the finish coat is approximately 1/16" which requires the base coat to be 7/16" for 1/2" grounds. This is a minimum base coat thickness on rock lath . 
+The standard for other masonry units and metal lath is 5/8" thick, including the finish. Certain types of construction or fire ratings may require an increase in plaster thickness (and/or an increase in the 
+gypsum to aggregate ration) but never a thinn er application of plaster than recommended above. Job experience indicates that thin applications of plaster often evidence cracking where normal applica­
+tions to standard ground s do not . This conditi on is a direct result of the inability of thin section areas to resist external forces as adequately as thicker, normal applications of plaster. 
+2 Perlite is a lightweight aggregate often used in gypsum plaster in place of sand. It performs well in cold weather and has a slightly better insulating value than sand. In a construction with metal lath, 
+perlite aggregate is not recommend ed in the basecoat except under a sand or "float'' finish. When gypsum/perlite basecoats are used over any other base (i.e., wood, rock lath, brick) and the finish coat is 
+to be a "white" finish coat (smooth-troweled gauged lime putty) it is necessary to add fine silica sand or perlite fines to the finish coat. This measure prevents cracking of the "white" finish coat due to 
+differential shrinkage . 
+13 
+
+Plaster 1enns 
+Scratch coat. The first base coat put on wood or metal lath. 
+The wet plaster is "scratched" with a scarifier or comb to 
+provide a rough surface so the next layer of base coat will 
+stick to it. 
+Brown coat. The brown coat is the second application of wet, 
+base-coat plaster with wood lath or metal systems. With 
+gypsum board lath (rock lath, plasterboard), it is the only 
+base coat needed. 
+Finish coat. Pure lime, mixed with about 35 percent gauging 
+plaster to help it harden, is used for the very thin surface 
+finish of the plaster wall. Fine sand can be added for a 
+sanded finish coat. 
+Casing Bead. Early casing bead was made of wood. In the 
+19th century, metal casing beads were sometimes used 
+around fireplace projections, and door and window 
+openings. Like a wood ground, they indicate the proper 
+thickness for the plaster. 
+Corner Bead. Wire mesh with a rigid metal spline used on 
+outside comers. Installing the comer bead plumb is 
+important. 
+Cornerite. Wire mesh used on inside comers of adjoining 
+walls and ceilings. It keeps comers from cracking. 
+Ground. Plasterers use metal or wood strips around the edges 
+of doors and windows and at the bottom of walls. These 
+grounds help keep the plaster the same thickness and 
+provide a stopping edge for the plaster. Early plaster work, 
+however, did not use grounds. On early buildings, the 
+woodwork was installed and primed before plastering began . 
+Some time in the early 19th century, a transition occurred, 
+and plasterers applied their wall finish before woodwork was 
+installed. 
+Gypsum. Once mined from large gypsum quarries near Paris 
+(thus the name plaster of Paris), gypsum in its natural form is 
+calcium sulfate. When calcined (or heated), one-and-a-half 
+water molecules are driven off, leaving a hemi-hydrate of 
+calcium sulfate. When mixed with water, it becomes calcium 
+sulfate again. While gypsum was used in base-coat plaster 
+from the 1890s on, it has always been used in finish coat and 
+decorative plaster. For finish coats, gauging plaster was added 
+to lime putty; it causes the lime to harden. Gypsum is also 
+the ingredient in moulding plaster, a finer plaster used to 
+create decorative mouldings in ornamental plasterwork. 
+Lime. Found in limestone formations or shell mounds, 
+naturally occurring lime is calcium carbonate. When heated, 
+it becomes calcium oxide. After water has been added, it 
+becomes calcium hydroxide. This calcium hydroxide reacts 
+with carbon dioxide in the air to recreate the original calcium 
+carbonate. 
+Screed.Screeds are strips of plaster run vertically or 
+horizontally on walls or ceilings. They are used to plumb and 
+straighten uneven walls and level ceilings. Metal screeds are 
+used to separate different types of plaster finishes or to 
+separate lime and cement plasters. 
+Reading List 
+Ashurst , John and Ashurst, Nicola. Practical Building Conservation, 
+English Heritage Technical Handbook, Volume 3. Mortars, Plasters and 
+Renders. New York: Halsted Press, 1988. 
+Gypsum Construct10n Handbook. Chicago: United States Gypsum 
+Company, 1986. 
+Hodgson, Frederick Thomas. Plaster and Plastering: Mortars and 
+Cements, How to Make and How to Use. New York: The Industrial 
+Publication Company, 1901. 
+Jowers, Walter. "Plas ter Patching, Part II." Restoration Primer. New 
+England Builder, November, 1987, pp. 41-43. 
+Leeke, John. "Problems with Plaster, Part One." Landmarks Observer, 
+Vol. 12. March/April, 1985., pp. 10, 14. Also "Prob lems with Plaster, 
+Part Two." Vol. U., May/June, 1985, p. 12.
+_____ . "Saving Irreplaceable Plaster." Old House Journal. Vol. 
+XV, No. 6, November/December, 1987, pp. 51-55. 
+McKee, Harley J., FAIA. Introduction to Early American Masonry-Stone, 
+Brick, Mortar, and Plaster. New York: National Trust for Historic 
+Preservation and Columbia University, 1973. 
+Phillips, Morgan . "Adhesives for the Reattachment of Loose Plaster," 
+A.P. T. Bulletin, Vol. XII, No. 2, 1980, pp. 37-63 . 
+Poore, Patricia. "The Basics of Plaster Repair." Old House Journal, Vol. 
+16, No. 2, March/April, 1988, pp. 29-35. 
+Shivers, Natalie. Walls and Molding: How to Care for Old and Historic 
+Wood and Plaster. Washington, D.C.: National Trust for Historic 
+Preservation, 1989. 
+Stagg, W. D. and 8. Pegg. Plastering: A Craftsman's Encyclopedia. 
+Woodstock , New York: Beekman Publishers, 1976. 
+Van den Branden, F. and Thomas L. Hartsell . Plastering Skills. 
+Homewood, Illinois: American Technical Publishers, Inc., 1984. 
+Weaver, Martin . "Nuts and Bolts: Properly Plastered." Canadian 
+Heritage. Aug./Sept., 1981, pp. 34-36. Also "Nuts and Bolts: Fixing 
+Plaster." Oct., 1981, pp. 33-35. 
+Acknowledgements 
+Preservation Brief 21 was based on an article in Old House Restoration on 
+repairing historic plaster published by the University of Illinois at Urbana­
+Champaign, 1984. Kay D. Weeks, Preservation Assistance Division, Technical 
+Preservation Services Branch, expanded the article and made substantial 
+contributions to its development as a Brief. Special thank s go to the technical 
+experts in the field who reviewed and comment upon the draft manuscript: 
+Andrew Ladygo (Society for the Preservation of New England Antiquities) , 
+David Flaharty, Gilbert Wolf (National Plastering Industries), Michael 
+Kempster, and Walter Jowers. Insightful comments were offered by the 
+Technical Preservation Services Branch which is directed by H. Ward Jandl. 
+Finally, staff member Karen Kummer, Small Homes Council-Building Research 
+Council, University of Illinois, provided invaluable production assistance. 
+The publicalion has beenprepared pursuant to the National Historic PreservationAct of 1966, as 
+amended.PreservationBriefs 21 was developedunder the tee/mica/ editorship of Lee H. Nelson, FAIA,
+Chief, PreservationAssistance Division, National Park Service, Department of the Interior, P.O. Box
+37127, Washington, D.C. 20013-7127. Commentson the usefulness of this infom1ation are welcomed 
+and may be sent to Mr. Nelson al the above address. This publication is not copyrighted and can be 
+reproduced without penalty. Normalprocedures for credit to the author and the National Park Service 
+are appreciated. October, 1989 
+For sale by the U.S. Government Printing Office 
+Superintendent of Documents, Mail Stop: SSOP, Washington , DC 20402-9328 
+14 

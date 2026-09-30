@@ -1,0 +1,735 @@
+U.S. Department of the Interior 
+National Park Service 
+Cultural Resource s 
+Heritage Preservation Services 
+Preservation 
+Briefs: 9 
+The Repair of 
+Historic Wooden Windows 
+JohnH. ~yers------------------------------------------------------------------
+The windows on many historic buildings are an important 
+aspect of the architectural character of those buildings. 
+Their design, craftsmanship, or other qualities may make 
+them worthy of preservation . This is self-evident for or­
+namental windows, but it can be equally true for 
+warehouses or factories where the windows may be the 
+most dominant visual element of an otherwise plain 
+building (see figure 1).  Evaluating the significance of 
+these windows and planning for their repair or replace­
+ment can be a complex process involving both objective 
+and subjective considerations . The Secretary of the In­
+terior's Standards for Rehabilitation, and the accompany­
+ing guidelines, call for respecting the significance of 
+original materials and features , repairing and retaining 
+them wherever possible, and when necessary, replacing 
+them in kind. This Brief is based on the issues of 
+significance and repair which are implicit in the standards, 
+but the primary emphasis is on the technical issues of 
+planning for the repair of windows including evaluation 
+of their physical condition , techniques of repair, and 
+design considerations when replacement is necessary. 
+Figure 1. Windows are frequently important visual focal points, especial­
+lyon simple facades such as this mill building. Replacement of the multi­
+pane windows here with larger panes could dramatically change the ap­
+pearance of the building. The areas of missing windows convey the im­
+pression of such a change . Photo: John T. Lowe 
+Much of the technical section presents repair techniques as 
+an instructional guide for the do-it-yourselfer. The infor­
+mation will be useful, however, for the architect, contrac­
+tor , or developer on large-scale projects. It presents a 
+methodology for approaching the evaluation and repair of 
+existing windows, and considerations for replacement, 
+from which the professional can develop alternatives and 
+specify appropriate materials and procedures. 
+Architectural or Historical Significance 
+Evaluating the architectural or historical significance of 
+windows is the first step in planning for window treat­
+ments, and a general understanding of the function and 
+history of windows is vital to making a proper evalua­
+tion. As a part of this evaluation, one must consider four 
+basic window functions: admitting light to the interior 
+spaces, providing fresh air and ventilation to the in­
+terior, providing a visual link to the outside world, and 
+enhancing the appearance of a building . No single factor 
+can be disregarded when planning window treatments; for 
+example, attempting to conserve energy by closing up or 
+reducing the size of window openings may result in the 
+use of more energy by increasing electric lighting loads 
+and decreasing passive solar heat gains. 
+Historically, the first windows in early American houses 
+were casement windows; that is, they were hinged at the 
+side and opened outward. In the beginning of the eigh­
+teenth century single- and double-hung windows were in­
+troduced. Subsequently many styles of these vertical 
+sliding sash windows have come to be associated with 
+specific building periods or architectural styles, and this is 
+an important consideration in determining the significance 
+of windows, especially on a local or regional basis. Site­
+specific, regionally oriented architectural comparisons 
+should be made to determine the significance of windows 
+in question. Although such comparisons may focus on 
+specific window types and their details, the ultimate deter­
+mination of significance should be made within the con­
+text of the whole building, wherein the windows are one 
+architectural element (see figure 2). 
+After all of the factors have been evaluated, windows 
+should be considered significant to a building if they; 1) 
+are original, 2) reflect the original design intent for the 
+building, 3) reflect period or regional styles or building 
+practices , 4) reflect changes to the building resulting 
+from major periods or events, or 5) are examples of ex­
+ceptional craftsmanship or design . Once this evaluation 
+of significance has been completed, it is possible to pro-
+For sale by the Superintendent 01 Documents, U.S. Government Printing Office, Washington, D.C. 20402 
+
+lintel 
+I Head I 
+, u 
+a I' n" , I I' i 
+'-ll .j-r \ \ \ \ I \ II 
+-J!1. JI r 
+_J! J I - IOJ . _ r-e " --
+. ~ 
+J~, - ~ 
+:::C~-=' 
+top rail --4-f:'1_ 
+putty 1oI-+--:~ parting bead 
+-QglaZin g 
+rabbet 
+~ ! ~ 
+Ir 
+~ 
+., 
+':'1 
+., mu 
+rT:'~(Jr l[ - ][ : I me 1 11 
+1. ~ sash ! It ltl JJ[ JL- I i i pa nes 
+ntin 
+eting rail ~~~~+- weights 
+weight pocket 
+I III 
+I ~ V 
+][ 
+[ LLJL 
+parting bead I Jamb I 
+r --::J[ I stile --__ -+--+-J interior stop 1 .1 I I 
+][ ~ I. - . 
+,~,; , Pl ~ 
+putty'.;- ~;;:::;<~~~ 
+T bottom rail---+++--+H 
+.:; :; 1 Ji t .t~J..~ 
+~[ J' H 1 ~~; o rl rj Inten r I 
+-r J~ 1. 11 ~ 1 
+J[ lL.l II 1 I 
+l!l[J I I' 
+Window Elevation 
+sill--l-.l...l--_ \ C_--;: ~"------- stool 
+Window Sections 
+Muntin Profiles 
+These are only three examples 
+of many possible profiles. Mun­
+tins can contribute substantially 
+to window significance. 
+ceed with planning appropriate treatments, beginning 
+with an investigation of the physical condition of the 
+windows. 
+Figure 2. These drawings of window details identify major components, terminology , and installation details for a wooden double-hung window. 
+Physical Evaluation 
+The key to successful planning for window treatments is 
+a careful evaluation of existing physical conditions on a 
+unit-by-unit basis. A graphic or photographic system may 
+be devised to record existing conditions and illustrate the 
+scope of any necessary repairs. Another effective tool is a 
+window schedule which lists all of the parts of each win­
+dow unit. Spaces by each part allow notes on existing 
+conditions and repair instructions. When such a schedule 
+is completed, it indicates the precise tasks to be performed 
+in the repair of each unit and becomes a part of the 
+specifications. In any evaluation, one should note at a 
+minimum, 1) window location, 2) condition of the paint, 
+3) condition of the frame and sill, 4) condition of the sash 
+(rails, stiles and muntins), 5) glazing problems, 6) hard­
+ware, and 7) the overall condition of the window (ex­
+cellent, fair, poor, and so forth). 
+Many factors such as poor design, moisture, vandalism, 
+insect attack, and lack of maintenance can contribute to 
+window deterioration , but moisture is the primary con­
+tributing factor in wooden window decay. All window 
+units should be inspected to see if water is entering around 
+the edges of the frame and, if so, the joints or seams 
+should be caulked to eliminate this danger. The glazing 
+putty should be checked for cracked, loose, or missing 
+sections which allow water to saturate the wood, especial­
+ly at the joints. The back putty on the interior side of the 
+pane should also be inspected, because it creates a seal 
+which prevents condensation from running down into the 
+joinery. The sill should be examined to insure that it 
+slopes downward away from the building and Cl-llows 
+water to drain off. In addition, it may be advisable to cut 
+a dripline along the underside of the sill. This almost in­
+visible treatment will insure proper water run-off, particu-
+larly if the bottom of the sill is flat. Any conditions, in­
+cluding poor original design, which permit water to come 
+in contact with the wood or to puddle on the sill must be 
+corrected as they contribute to deterioration of the win­
+dow. 
+One clue to the location of areas of excessive moisture 
+is the condition of the paint; therefore, each window 
+should be examined for areas of paint failure. Since ex­
+cessive moisture is detrimental to the paint bond, areas of 
+paint blistering, cracking, flaking, and peeling usually 
+identify points of water penetration, moisture saturation , 
+and potential deterioration. Failure of the paint should 
+not, however, be mistakenly interpreted as a sign that the 
+wood is in poor condition and hence, irreparable. Wood 
+is frequently in sound physical condition beneath unsight­
+ly paint. After noting areas of paint failure, the next step 
+is to inspect the condition of the wood, particularly at the 
+points identified during the paint examination. 
+Each window should be examined for operational 
+soundness beginning with the lower portions of the frame 
+and sash. Exterior rainwater and interior condensation can 
+flow downward along the window, entering and collecting 
+at points where the flow is blocked. The sill, joints be­
+tween the sill and jamb, corners of the bottom rails and 
+muntin joints are typical points where water collects and 
+deterioration begins (see figure 3). The operation of the 
+window (continuous opening and closing over the years 
+and seasonal temperature changes) weakens the joints, 
+causing movement and slight separation. This process 
+makes the joints more vulnerable to water which is readi­
+ly absorbed into the end-grain of the wood. If severe 
+deterioration exists in these areas, it will usually be ap­
+parent on visual inspection, but other less severely deteri­
+orated areas of the wood may be tested by two traditional 
+methods using a small ice pick. 
+An ice pick or an awl may be used to test wood for 
+soundness. The technique is simply to jab the pick into a 
+wetted wood surface at an angle and pry up a small sec-
+2 
+
+Figure 3. Deterioration of poorly maintained windows usually begins on 
+horizontal surfaces and at joints where water can collect and saturate the 
+wood. The problem areas are clearly indicated by paint failure due to 
+moisture. Photo: Baird M. Smith, AlA 
+tion of the wood . Sound wood will separate in long 
+fibrous splinters , but decayed wood will lift up in short ir­
+regular pieces due to the breakdown of fiber strength. 
+Another method of testing for soundness consists of 
+pushing a sharp object into the wood, perpendicular to 
+the surface. If deterioration has begun from the hidden 
+side of a member and the core is badly decayed, the visi­
+ble surface may appear to be sound wood. Pressure on 
+the probe can force it through an apparently sound skin 
+to penetrate deeply into decayed wood. This technique is 
+especially useful for checking sills where visual access to 
+the underside is restricted. 
+Following the inspection and analysis of the results, the 
+scope of the necessary repairs will be evident and a plan 
+for the rehabilitation can be formulated. Generally the ac­
+tions necessary to return a window to "like new" condi­
+tion will fall into three broad categories: 1) routine main­
+tenance procedures , 2) structural stabilization, and 3) 
+parts replacement. These categories will be discussed in 
+the following sections and will be referred to respectively 
+as Repair Class I, Repair Class II, and Repair Class III. 
+Each successive repair class represents an increasing level 
+of difficulty, expense , and work time. Note that most of 
+the points mentioned in Repair Class I are routine main­
+tenance items and should be prov ided in a regular main­
+tenance program for any building . The neglect of these 
+routine items can contribute to many common window 
+problems. 
+Before undertaking any of the repairs mentioned in the 
+followi ng sections all sources of moisture penetration 
+should be identified and eliminated , and all existing decay 
+fungi destroyed in order to arrest the deterioration pro­
+cess. Many commercially available fungicides and wood 
+preservatives are toxic, so it is extremely important to 
+follow the manufacturer's recommendat ions for applica­
+tion, and store all chemical materials away from children 
+and animals. After fungicidal and preservative treatment 
+the windows may be stabilized , retained, and restored 
+with every expectation for a long service life. 
+Repair Class I: Routine Maintenance 
+Repairs to wooden windows are usually labor intensive 
+and relatively uncomplicated . On small scale projects this 
+allows the do-it-yourselfer to save money by repairing 
+all or part of the windows. On larger projects it presents 
+the opportunity for time and money which might other­
+wise be spent on the removal and replacement of existing 
+windows , to be spent on repairs, subsequently saving all 
+or part of the material cost of new window units. Regard­
+less of the actual costs , or who performs the work , the 
+evaluation process described earlier will provide the 
+knowledge from which to specify an appropriate work 
+program , establish the work element priorities, and iden­
+tify the level of skill needed by the labor force. 
+The routine maintenance required to upgrade a window 
+to "like new " condition normally includes the following 
+steps: 1) some degree of interior and exterior paint 
+removal, 2) removal and repair of sash (inCluding reglaz­
+ing where necessary) , 3) repairs to the frame , 4) weather­
+stripping and reinstallation of the sash, and 5) repainting. 
+These operations are illustrated for a typical double-hung 
+wooden window (see figures 4a-f) , but they may be 
+adapted to other window types and styles as applicable. 
+Historic windows have usually acquired many layers of 
+paint over time. Removal of excess layers or peeling and 
+flaking paint will facilitate operation of the window and 
+restore the clarity of the original detailing. Some degree of 
+paint removal is also necessary as a first step in the prop­
+er surface preparation for subsequent refinishing (if paint 
+color analysis is desired , it should be conducted prior to 
+the onset of the paint removal). There are several safe and 
+effective techniques for removing paint from wood, 
+depending on the amount of paint to be removed . Several 
+techniques such as scraping, chemical stripping, and the 
+use of a hot air gun are discussed in "Preservation Briefs: 
+10 Paint Removal from Historic Woodwork" (see Addi­
+tional Reading section at end) . 
+Paint removal should begin on the interior frames , be­
+ing careful to remove the paint from the interior stop and 
+the parting bead, particularly along the seam where these 
+stops meet the jamb . This can be accomplished by run­
+ning a utility knife along the length of the seam , breaking 
+the paint bond . It will then be much easier to remove the 
+stop, the parting bead and the sash. The interior stop may 
+be initiall y loosened from the sash side to avoid visible 
+scarring of the wood and then gradually pried loose using 
+a pair of putty knives, working up and down the stop in 
+small increments (see figure 4b) . With the stop removed, 
+the lower or interior sash may be withdrawn . The sash 
+cords should be detached from the sides of the sash and 
+their ends may be pinned with a nail or tied in a knot to 
+prevent them from falling into the weight pocket. 
+Removal of the upper sash on double-hung units is 
+similar but the parting bead which holds it in place is set 
+into a groove in the center of the stile and is thinner and 
+more delicate than the interior stop. After removing any 
+paint along the seam , the parting bead should be carefully 
+pried out and worked free in the same manner as the in­
+terior stop. The upper sash can be removed in the same 
+manner as the lower one and both sash taken to a conve­
+nient work area (in order to remove the sash the interior 
+stop and parting bead need only be removed from one 
+side of the window). Window openings can be covered 
+with polyethylene sheets or plywood sheathing while the 
+sash are out for repair. 
+The sash can be stripped of paint using appropriate 
+techniques, but if any heat treatment is used (see figure 
+4c), the glass should be removed or protected from the 
+sudden temperature change which can cause breakage . An 
+3 
+
+( ( 1 
+Figure 4a. The following series of photographs of 
+the repair of a historic double-hung window use a 
+unit which is structurally sound but has many 
+layers of paint, some cracked and missing putty, 
+slight separation at the joints, broken sash cords, 
+and one cracked pane. Photo: John H. Myers 
+Figure 4b. After removing paint from the seam 
+between the interior stop and the jamb, the stop 
+can be pried out and gradually worked loose using 
+a pair of putty knives as shown. To avoid visible 
+scarring of the wood, the sash can be raised and 
+the stop pried loose initially from the outer side. 
+Photo: John H. Myers 
+Figure 4c. Sash can be removed and repaired in a 
+convenient work area. Paint is being removed from 
+this sash with a hot air gun while an asbestos 
+sheet protects the glass from sudden temperature 
+change. Photo: John H. Myers 
+Figure 4d. Reglazing or replacement of the putty 
+requires that the existing putty be removed 
+manually, the glazing points be extracted, the 
+glass removed, and the back putty scraped out. To 
+reglaze, a bed of putty is laid around the perimeter 
+of the rabbet, the pane is pressed into place, 
+glazing points are inserted to hold the pane 
+(shown), and a final seal of putty is beveled 
+around the edge of the glass. Photo: John H. 
+Myers 
+Figure 4e. A common repair is the replacement of 
+broken sash cords with new cords (shown) or with 
+chains. The weight pocket is often accessible 
+through a removable plate in the jamb, or by 
+removing the interior trim. Photo: John H. Myers 
+Figure 4£. Following the relatively simple repairs, 
+the window is weathertight, like new in 
+appearance, and serviceable for many years to 
+come. Both the historic material and the detailing 
+and craftsmanship of this original window have 
+been preserved. Photo: John H. Myers 
+4 
+
+overlay of aluminum foil on gypsum board or asbestos 
+can protect the glass from such rapid temperature 
+change. It is important to protect the glass because it 
+may be historic and often adds character to the window. 
+Deteriorated putty should be removed manually, taking 
+care not to damage the wood along the rabbet . If the 
+glass is to be removed, the glazing points which hold the 
+glass in place can be extracted and the panes numbered 
+and removed for cleaning and reuse in the same open­
+ings. With the glass panes out, the remaining putty can be 
+removed and the sash can be sanded, patched, and 
+primed with a preservative primer. Hardened putty in 
+the rabbets may be softened by heating with a soldering 
+iron at the point of removal. Putty remaining on the 
+glass may be softened by soaking the panes in linseed 
+oil, and then removed with less risk of breaking the 
+glass. Before reinstalling the glass, a bead of glazing 
+compound or linseed oil putty shou ld be laid around the 
+rabbet to cushion and seal the glass . Glazing compound 
+should only be used on wood which has been brushed 
+with linseed oil and primed with an oil based primer or 
+paint. The pane is then pressed into place and the glaz­
+ing points are pushed into the wood around the perim ­
+eter of the pane (see figure 4d). The final glazing com­
+pound or putty is applied and beveled to complete the 
+seal. The sash can be refinished as desired on the inside 
+and painted on the outside as soon as a "skin " has formed 
+on the putty , usually in 2 or 3 days . Exterior paint should 
+cover the beveled glazing compound or putty and lap 
+over onto the glass slightly to complete a weathertight 
+seal. After the proper curing times have elapsed for paint 
+and putty, the sash will be ready for reinstallation. 
+While the sash are out of the frame, the condition of 
+the wood in the jamb and sill can be evaluated. Repair 
+and refinishing of the frame may proceed concurrently 
+with repairs to the sash, taking advantage of the curin g 
+times for the paints and putty used on the sash. One of 
+the most common work items is the replacement of the 
+sash cords with new rope cords or with chains (see figure 
+4e). The weight pocket is frequently accessible through a 
+door on the face of the frame near the sill, but if no door 
+exists , the trim on the interior face may be removed for 
+access . Sash weights may be increased for easier window 
+operation by elderly or handicapped persons . Additional 
+repairs to the frame and sash may include consolidation 
+or replacement of deteriorated wood. Techniques for these 
+repairs are discussed in the following sections . 
+The operations just discussed summarize the efforts 
+necessary to restore a window with minor deterioratio n to 
+"like new " condition (see figure 4f). The techniques can be 
+applied by an unskilled person with minimal training and 
+experience. To demonstrate the practicality of this ap­
+proach, and photograph it, a Technical Preservation Ser­
+vices staff member repaired a wooden double-hung, two 
+over two window which had been in service over nine ty 
+years. The wood was structurally sound but the window 
+had one broken pane, many layers of paint , broken sash 
+cords and inadequate, worn-out weatherstripping. The 
+staff member found that the frame could be stripped of 
+paint and the sash removed quite easily . Paint , putty and 
+glass removal required about one hour for each sash, and 
+the reglazing of both sash was accomplished in about one 
+hour. Weatherstripping of the sash and frame , replace ­
+ment of the sash cords and reinstallation of the sash, part­
+ing bead, and stop required an hour and a half. These 
+times refer only to individual operations ; the entire proc-
+ess took several days due to the drying and curing times 
+for putty, primer, and paint, however, work on other win­
+dow units could have been in progress during these lag 
+times . 
+Repair Class II: Stabilization 
+The preceding description of a window repair job focused 
+on a unit which was operationally sound. Many windows 
+will show some additional degree of physical deteriora­
+tion, especially in the vulnerable areas mentioned earlier, 
+but even badly damaged windows can be repaired using 
+simple processes. Partially decayed wood can be water­
+proofed, patched, built-up, or consolidated and then 
+painted to achieve a sound condition, good appearance, 
+and greatly extended life. Three techniques for repairing 
+partially decayed or weathered wood are discussed in this 
+section, and all three can be accomplished using products 
+available at most hardware stores. 
+One established technique for repairing wood which is 
+split, checked or shows signs of rot, is to: 1) dry the 
+wood, 2) treat decayed areas with a fungicide, 3) water­
+proof with two or three applications of boiled linseed oil 
+(applications every 24 hours), 4) fill cracks and holes with 
+putty, and 5) after a "skin" forms on the putty, paint the 
+surface. Care should be taken with the use of fungicide 
+which is toxic. Follow the manufacturers' directions and 
+use only on areas which will be painted. When using any 
+technique of building up or patching a flat surface, the 
+finished surface should be sloped slightly to carry water 
+away from the window and not allow it to puddle . Caulk­
+ing of the joints between the sill and the jamb will help 
+reduce further water penetration. 
+When sills or other members exhibit surface weathering 
+they may also be built-up using wood putties or home­
+made mixtures such as sawdust and resorcinol glue, or 
+whiting and varnish. These mixtures can be built up in 
+successive layers, then sanded, primed, and painted. The 
+same caution about proper slope for flat surfaces applies 
+to this technique. 
+Wood may also be strengthened and stabilized by con­
+solidation, using semi-rigid epoxies which saturate the 
+porous decayed wood and then harden. The surface of the 
+consolidated wood can then be filled with a semi-rigid 
+epoxy patching compound, sanded and painted (see figure 
+5). Epoxy patching compounds can be used to build up 
+Figure 5. This illustrates a two-part epoxy patching compound used to fill 
+the surface of a weathered sill and rebuild the missing edge. When the epoxy 
+cures, it can be sanded smooth and painted to achieve a durable and 
+waterproof repair. Photo: John H. Myers 
+5 
+
+missing sections or decayed ends of members. Profiles can 
+be duplicated using hand molds, which are created by 
+pressing a ball of patching compound over a sound sec­
+tion of the profile which has been rubbed with butcher 's 
+wax . This can be a very efficient technique where there 
+are many typical repairs to be done. Technical Preserva­
+tion Services has published Epoxies for Wood Repairs 
+in Historic Buildings (see Additional Reading section at 
+end), which discusses the theory and techniques of epoxy 
+repairs. The process has been widely used and proven in 
+marine applications; and proprietary products are avail­
+able at hardware and marine supply stores. Although 
+epoxy materials may be comparatively expensive, they 
+hold the promise of being among the most durable and 
+long lasting materials available for wood repair. 
+Any of the three techniques discussed can stabilize and 
+restore the appearance of the window unit. There are 
+times, however, when the degree of deterioration is so ad­
+vanced that stabilization is impractical, and the only way 
+to retain some of the original fabric is to replace damaged 
+parts. 
+Repair Class III: Splices and Parts Replacement 
+When parts of the frame or sash are so badly deteriorated 
+that they cannot be stabilized there are methods which 
+permit the retention of some of the existing or original 
+fabric. These methods involve replacing the deteriorated 
+parts with new matching pieces, or splicing new wood in­
+to existing members. The techniques require more skill 
+and are more expensive than any of the previously dis­
+cussed alternatives. It is necessary to remove the sash 
+and / or the affected parts of the frame and have a 
+carpenter or woodworking mill reproduce the damaged or 
+missing parts. Most millwork firms can duplicate parts , 
+such as muntins, bottom rails, or sills, which can then be 
+incorporated into the existing window , but it may be 
+necessary to shop around because there are several factor s 
+controlling the practicality of this approach. Some wood­
+working mills do not like to repair old sash because nails 
+or other foreign objects in the sash can damage expensive 
+knives (which cost far more than their profits on small 
+repair jobs); others do not have cutting knives to 
+duplicate muntin profiles. Some firms prefer to concen­
+trate on larger jobs with more profit potential, and some 
+may not have a craftsman who can duplicate the parts. A 
+little searching should locate a firm which will do 
+the job , and at a reasonable price. If such a firm does not 
+exist locally , there are firms which undertake this kind of 
+repair and ship nationwide. It is possible , however, for 
+the advanced do-it-yourselfer or craftsman with a table 
+saw to duplicate moulding profiles using techniques 
+discussed by Gordie Whittington in "Simplified Methods 
+for Reproducing Wood Mouldings," Bulletin of the 
+Association for Preservation Technology, Vol. III, No . 4, 
+1971, or illustrated more recently in The Old House , 
+Time-Life Books, Alexandria, Virginia, 1979 . 
+The repairs discussed in this section involve window 
+frames which may be in very deteriorated condition , 
+possibly requiring removal; therefore, caution is in 
+order. The actual construction of wooden window frames 
+and sash is not complicated. Pegged mortise and tenon 
+units can be disassembled easily , if the units are out of the 
+building. The installation or connection of some frames to 
+the surrounding structure, especially masonry walls, can 
+complicate the work immeasurably, and may even require 
+dismantling of the wall. It may be useful , therefore , to 
+take the following approach to frame repair: 1) conduct 
+regular maintenance of sound frames to achieve the 
+longest life possible , 2) make necessary repairs in place 
+wherever possible, using stabilization and splicing tech­
+niques , and 3) if removal is necessary, thoroughly in­
+vestigate the structural detailing and seek appropriate pro­
+fessional consultation. 
+Another alternative may be considered if parts replace­
+ment is required, and that is sash replacement. If extensive 
+replacement of parts is necessary and the job becomes 
+prohibitively expensive it may be more practical to pur­
+chase new sash which can be installed into the existing 
+frames . Such sash are available as exact custom reproduc­
+tions, reasonable facsimiles (custom windows with similar 
+profiles ), and contemporary wooden sash which are 
+similar in appearance . There are companies which still 
+manufacture high quality wooden sash which would 
+duplicate most historic sash. A few calls to local build-
+ing suppliers may provide a source of appropriate replace­
+ment sash, but if not, check with local historical 
+associations, the state historic preservation office , 
+or preservation related magazines and supply catalogs for 
+information. 
+If a rehabilitation project has a large number of win­
+dows such as a commercial building or an industrial com­
+plex , there may be less of a problem arriving at a solu­
+tion . Once the evaluation of the windows is completed 
+and the scope of the work is known, there may be a 
+potential economy of scale. Woodworking mills may be 
+interested in the work from a large project; new sash in 
+volume may be considerably less expensive per unit ; 
+crews can be assembled and trained on site to perform all 
+of the window repairs ; and a few extensive repairs can be 
+absorbed (without undue burden) into the total budget 
+for a large number of sound windows. While it may be 
+expensive for the average historic home owner to pay 
+seventy dollars or more for a mill to grind a custom knife 
+to duplicate four or five bad muntins , that cost becomes 
+negligible on large commercial projects which may have 
+several hundred windows. 
+Most windows should not require the extensive repairs 
+discussed in this section . The ones which do are usually in 
+buildings which have been abandoned for long periods or 
+have totally lacked maintenance for years. It is necessary 
+to thoroughly investigate the alternatives for windows 
+which do require extensive repairs to arrive at a solution 
+which retains historic significance and is also economically 
+feasible . Even for projects requiring repairs identified in 
+this section , if the percentage of parts replacement per 
+window is low, or the number of windows requiring 
+repair is small, repair can still be a cost effective solution. 
+Weatherization 
+A window which is repaired should be made as energy ef­
+ficient as possible by the use of appropriate weather­
+stripping to reduce air infiltration. A wide variety of 
+products are available to assist in this task . Felt may be 
+fastened to the top , bottom, and meeting rails, but may 
+have the disadvantage of absorbing and holding moisture, 
+particularly at the bottom rail. Rolled vinyl strips may 
+also be tacked into place in appropriate locations to 
+reduce infiltration. Metal strips or new plastic spring 
+strips may be used on the rails and , if space permits, in 
+6 
+
+the channels between the sash and jamb. Weatherstripping 
+is a historic treatment, but old weatherstripping (felt) is 
+not likely to perform very satisfactorily. Appropriate con­
+temporary weatherstripping should be considered an in­
+tegral part of the repair process for windows. The use of 
+sash locks installed on the meeting rail will insure that the 
+sash are kept tightly closed so that the weatherstripping 
+will function more effectively to reduce infiltration. 
+Although such locks will not always be historically accu­
+rate, they will usually be viewed as an acceptable contem­
+porary modification in the interest of improved thermal 
+performance. 
+Many styles of storm windows are available to improve 
+the thermal performance of existing windows. The use of 
+exterior storm windows should be investigated whenever 
+feasible because they are thermally efficient, cost-effective, 
+reversible, and allow the retention of original windows 
+(see "Preservation Briefs: 3"). Storm window frames may 
+be made of wood , aluminum , vinyl, or plastic; however, 
+the use of unfinished aluminum storms should be 
+avoided. The visual impact of storms may be minimized 
+by selecting colors which match existing trim color. 
+Arched top storms are available for windows with special 
+shapes. Although interior storm windows appear to offer 
+an attractive option for achieving double glazing with 
+minimal visual impact, the potential for damaging con­
+densation problems must be addressed. Moisture which 
+becomes trapped between the layers of glazing can con­
+dense on the colder , outer prime window, potentially 
+leading to deterioration. The correct approach to using in­
+terior storms is to create a seal on the interior storm while 
+allowing some ventilation around the prime window. In 
+actual practice, the creation of such a durable, airtight 
+seal is difficult. 
+Window Replacement 
+Although the retention of original or existing windows is 
+always desirable and this Brief is intended to encourage 
+that goal, there is a point when the condition of a win­
+dow may clearly indicate replacement. The decision proc­
+ess for selecting replacement windows should not begin 
+with a survey of contemporary window products which 
+are available as replacements, but should begin with a 
+look at the windows which are being replaced. Attempt to 
+understand the contribution of the window(s) to the ap­
+pearance of the facade including: 1) the pattern of the 
+openings and their size; 2) proportions of the frame and 
+sash; 3) configuration of window panes; 4) muntin pro­
+files; 5) type of wood; 6) paint color; 7) characteristics of 
+the glass; and 8) associated details such as arched tops, 
+hoods, or other decorative elements. Develop an under­
+standing of how the window reflects the period, style, or 
+regional characteristics of the building, or represents tech­
+nological development. 
+Armed with an awareness of the significance of the ex­
+isting window, begin to search for a replacement which 
+retains as much of the character of the historic window as 
+possible. There are many sources of suitable new win­
+dows. Continue looking until an acceptable replacement 
+can be found. Check building supply firms, local wood­
+working mills, carpenters, preservation oriented maga­
+zines, or catalogs or sUl'pliers of old building materials, 
+for product information. Local historical associations and 
+state historic preservation offices may be good sources of 
+information on products which have been used success­
+fully in preservation projects. 
+Consider energy efficiency as one of the factors for 
+replacements, but do not let it dominate the issue. Energy 
+conservation is no excuse for the wholesale destruction of 
+historic windows which can be made thermally efficient 
+by historically and aesthetically acceptable means. In fact , 
+a historic wooden window with a high quality storm win­
+dow added should thermally outperform a new double­
+glazed metal window which does not have thermal 
+breaks (insulation between the inner and outer frames in­
+tended to break the path of heat flow) . This occurs 
+because the wood has far better insulating value than the 
+metal, and in addition many historic windows have high 
+ratios of wood to glass, thus reducing the area of highest 
+heat transfer. One measure of heat transfer is the U-value , 
+the number of Btu's per hour transferred through a square 
+foot of material. When comparing thermal performance , 
+the lower the U-value the better the performance. Accord­
+ing to ASHRAf 1977 Fundamentals, the U-values for 
+single glazed wooden windows range from 0.88 to 0.99. 
+The addition of a storm window should reduce these 
+figures to a range of 0.44 to 0.49. A non-thermal break, 
+double-glazed metal window has a U-value of about 0.6. 
+Conclusion 
+Technical Preservation Services recommends the retention 
+and repair of original windows whenever possible . We 
+believe that the repair and weatherization of existing 
+wooden windows is more practical than most people 
+realize, and that many windows are unfortunately re­
+placed because of a lack of awareness of techniques for 
+evaluation, repair, and weatherization. Wooden windows 
+which are repaired and properly maintained will have 
+greatly extended service lives while contributing to the 
+historic character of the building. Thus , an important ele­
+ment of a building's significance will have been preserved 
+for the future. 
+Additional Reading 
+ASHRAE Handbook-1977 Fundamentals. New York: American Society 
+of Heating, Refrigerating and Air-conditioning Engineers , 1978 
+(chapter 26). 
+Ferro, Maximillian. Preservation: Present Pathway to Fall River 's Future. 
+Fall River, Massachusetts: City of Fall River, 1979 (chapter 7). 
+"Fixing Double-Hung Windows." Old House Journal (no. 12, 1979): 135. 
+Look, David W. "Preservation Briefs: 10 Paint Removal from Historic 
+Woodwork." Washington, DC: Technical Preservation Services, 
+U.S. Department of the Interior , forthcoming. 
+Morrison , Hugh. Early American Architecture. New York: Oxford 
+University Press, 1952. 
+Phillips, Morgan, and Selwyn, Judith, Epoxies for Wood Repairs in 
+Historic Buildings. Washington, DC : Technical Preservation Ser­
+vices, U.S. Department of the Interior (Government Printing Office, 
+Stock No. 024-016-00095-1), 1978. 
+Rehab Right. Oakland, California: City of Oakland Planning Depart­
+ment, 1978 (pp. 78-83). 
+"Sealing Leaky Windows." Old House Journal (no. 1, 1973): 5. 
+Smith, Baird M, "Preserv ation Briefs: 3 Conserving Energy in Historic 
+Buildings," Washington, DC: Technical Preservation Services, U.S. 
+Department of the Interior , 1978. 
+1981 
+7 

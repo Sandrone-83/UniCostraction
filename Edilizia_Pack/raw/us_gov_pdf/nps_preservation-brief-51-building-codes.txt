@@ -1,0 +1,2801 @@
+51
+PRESERVATION 
+BRIEFS 
+Building Codes for Historic and Existing Buildings: 
+Planning and Maximizing their Application 
+Marilyn E. Kaplan, Architect, FAPT 
+National Park Service 
+U.S. Department of the Interior 
+Technical Preservation Services 
+The rehabilitation of historic and existing buildings often 
+triggers compliance with building codes  that establish 
+the minimum level of safety and performance to protect 
+the public health, safety, and welfare. When applied to 
+historic buildings, codes originally written for new con-
+struction can require major changes to signifcant historic 
+features, spaces, and materials, or can render their rehabil-
+itation infeasible. In contrast, codes written specifcally for 
+existing buildings and historic buildings acknowledge 
+their special construction and physical limitations and can 
+allow for less invasive and more cost-effective means to re-
+habilitate them while still meeting minimum code require-
+ments. [Note: Words in bold are defned in the glossary.] 
+The aim of this Brief is to provide information on how to 
+meet the goals of building codes while also preserving 
+or minimizing alterations to the character-defning  
+features, spaces, materials, and fnishes  of historic 
+buildings. The Brief presents an overview of the most 
+widely adopted codes in the United States and their 
+provisions for historic buildings. It provides guidance for 
+selecting the optimal code compliance path and suggests 
+best practices for achieving code-compliant solutions that 
+also allow for the preservation of a building’s historic 
+character. While the Brief is primarily intended to apply to 
+historic buildings, much of the information also applies to 
+the rehabilitation of existing buildings. 
+An existing, legally-occupied building is typically not re-
+quired to comply with current code requirements, except 
+when a jurisdiction has adopted retroactive  code require-
+ments (typically regarding life-safety) or when a build-
+ing undergoes improvements classifed by the code as a 
+repair, alteration, or change of occupancy. Code-required 
+improvements may be limited to the area where work is 
+proposed or involve other areas of the building. The code 
+requirements are established as a function of whether a 
+proposed project is classifed under the code as a  repair, 
+alteration, change in occupancy , or addition. These 
+categories/terms are separate and independent from those  
+used or defned in the Secretary of the Interior’s Standards 
+for the Treatment of Historic Properties , which defnes 
+Preservation , Rehabilitation, Restoration, and Recon-
+struction as four different treatments. 
+For purposes of this Brief, ‘code’ is the general term en-
+compassing all adopted construction requirements related 
+to improvements to historic buildings. These may be codes, 
+appendices, local ordinances, or referenced standards . 
+Because jurisdictions often lag in adopting the most recent 
+edition of a model code and may also modify the model 
+code or adopt unique ordinances to supplement the model 
+code, the frst step for every project is to identify the codes 
+and other requirements applicable to a given rehabilita -
+tion project in its jurisdiction. 
+Excluded from the Brief 
+are requirements gener-
+ated by other zoning or 
+planning codes including 
+those administered by his-
+toric preservation or de-
+sign review commissions,  
+local ordinances, funding 
+sources, or specialized 
+codes or requirements 
+like those used for spe-
+cifc building types such 
+as hospitals or schools or 
+developed by a property 
+insurer. Also, while every 
+attempt has been made 
+to accurately quote and/ 
+or characterize the codes 
+and code requirements  
+discussed in this Brief, the 
+adopted, current code  
+applicable to the individual  
+project should always  
+be consulted. 
+Figure 1: The installation 
+of an exterior automatic 
+fre sprinkler system for the 
+historic multi-story porches  
+allowed these important, 
+character-defning features  
+to be retained to meet life and 
+fre-safety code requirements.   
+Photo: Robert Holcomb 
+1 
+
+Development Of Building  
+Construction Codes in   
+The United States 
+General 
+The earliest building code regulations adopted in the 
+United States in the 19th and early 20th centuries focused 
+on fre safety following catastrophic fres and earthquakes 
+as well as improving substandard housing conditions. 
+Over time, codes have expanded to establish minimum 
+requirements for natural light, clean water, waste 
+treatment, structural integrity, wind and food resistance, 
+minimum room dimensions, building exits , and hundreds 
+of other requirements that affect life and property 
+safety. After World War II, codes also served as available 
+mechanisms to implement new public and government 
+priorities related to housing, universal accessibility, 
+and energy conservation. Over the next 75 years, the 
+codes and their administration became increasingly 
+complex, a pattern that continues as new code changes 
+continue to raise the level of required performance of 
+buildings. Examples include provisions focused on energy 
+consumption and conservation, carbon reduction, design 
+and performance of ventilation systems, and protection 
+from wildfres at the urban-wilderness interface. 
+Housing Controls 
+Nineteenth-century land use controls addressed outbreaks 
+of infectious diseases, poor sanitation, and inadequate 
+ventilation in overcrowded slums, as well as the confagra-
+tions that destroyed dense, and often wood-frame, con-
+struction in cities where residential, manufacturing, and 
+industrial uses comingled. Local regulations controlled 
+building height and size, interior room heights, street 
+drainage, wall thickness and material, and chimneys and 
+freplaces. They also prohibited certain uses based on po-
+tential fre and health hazards. Early tenement-focused 
+legislation in New York City (1867, 1879), Chicago (1902), 
+and the state of California (1909) included requirements 
+for light and fresh air in habitable rooms, interior toilets, 
+heat, fre escapes, and minimum room sizes and ceiling 
+heights. Other codes and legislation responded to disas-
+ters such as the 1871 Chicago fre and the 1906 San Francis-
+co earthquake. Collectively, these regulations remain the 
+foundation for the minimum housing standards present in 
+current codes. 
+Fire Safety 
+Most mid-19th-century manufacturing and industrial 
+buildings operating in the Northeastern United States 
+were highly susceptible to fre. Rudimentary fre 
+protection systems  were installed in many of these 
+buildings, with the frst known perforated pipe sprinkler 
+system installed in 1852 at the plant of the Proprietors 
+of the Locks and Canals in 1852 in Lowell, Massachusetts. 
+The sprinkler head patented in 1874 by Henry Parmelee of 
+New Haven, Connecticut, was used in hundreds of systems 
+installed between 1878 and 1882 through arrangements 
+with the Providence Steam and Gas Company. Owned by 
+Frederic Grinnell, the company patented its own device in 
+1881. Grinnell later invented the glass disc sprinkler, the 
+precursor of modern sprinkler heads, as well as secured 
+numerous patents including those for dry pipe valves and 
+automatic fre alarm systems. 
+Fire-resistant construction and  fre suppression  systems 
+were championed by insurance companies and manufac-
+turers. The 1896 Report of Committee on Automatic Sprin -
+kler Protection, prepared by representatives of insurance 
+organizations and others, provided design and installation 
+standards in response to the hundreds of unique, non-
+standardized installations that existed. The meetings that 
+produced the report also created the National Fire Pro-
+tection Association (NFPA) to administer these standards. 
+Prior to 1904, NFPA membership was limited to the insur-
+ance industry. 
+The National Board of Fire Underwriters (NBFU), organized 
+in 1866, also recognized the problems of unsafe building 
+construction and uncontrolled fre hazards, as well as the 
+importance of water supply and local fre departments. 
+Their comprehensive 1905 Recommended Building Code , 
+renamed the National Building Code by 1927, was based on 
+damage assessment caused by major fres, including those 
+following the 1906 San Francisco earthquake. 
+Contemporaneous efforts sought to standardize early 
+electrical installations prone to overcurrents and fre. The 
+demand for electricity exploded following Thomas Edi-
+son’s 1879 development of the incandescent lamp, the 
+1882 construction of the frst electric light-power station in 
+New York City, and the use of electric lighting at the 1893 
+World’s Columbian Exposition in Chicago. The 1897 Nation-
+al Electrical Code (NEC), published by the NBFU, was trans-
+Figure 2: Sprinkler heads and 
+other equipment can be selected 
+and placed to have minimal visual 
+intrusion with no impact on 
+functionality, such as these fxed  
+(left) or concealed (right, with 
+arrow) sprinkler heads. Photos: 
+Marilyn Kaplan 
+2 
+
+ferred to the NFPA in 1911, the second step in establishing 
+the NFPA as the principal American organization produc-
+ing codes and standards associated with fre safety. 
+In 1927 the NFPA published the Building Exits Code , 
+incorporating fndings from nationally publicized fres 
+with loss of life at the Iroquois Theatre (Chicago, 1903), 
+the Collinwood School (Cleveland, 1908), and the Triangle 
+Shirtwaist Company (New York, 1911). Theaters, schools, 
+factories, and other places of public assembly  received  
+special attention in codes following these events. The 
+adopted code provisions focused on stairways, fre escapes, 
+and the construction and arrangement of multiple exits in 
+these buildings. In 1963 the NFPA changed the title of the 
+code to Code for Safety to Life from Fire in Buildings and 
+Structures and, subsequently, to the NFPA 101 Life Safety 
+Code. Fire safety principles from these early documents, 
+ranging from marking of exits to calculation of the number 
+of required exits, have been enhanced, expanded, and 
+incorporated into all contemporary building codes. For 
+specialized buildings such as hospitals, universities, schools, 
+and public buildings, NFPA 101 is commonly enforced,  
+often in conjunction with a model building code. Although 
+NFPA published its frst general construction code in 2000, 
+NFPA 5000:  Building Construction and Safety Code , it has 
+not been widely adopted. 
+Seismic 
+The destruction caused by the San Francisco earthquake 
+of 1906 illustrated the threat to cities identifed as having 
+moderate or high risk of experiencing signifcant seismic 
+activity. The frst seismic provisions included in the 
+1927 Uniform Building Code were expanded following 
+technical and scientifc advances including the earthquake 
+magnitude scale in 1935 and the creation of the frst 
+seismic hazard maps in 1949. Passage of the 1977 Federal 
+Earthquake Hazards Reduction Act permitted funding 
+of risk mitigation studies by engineering, scientifc, 
+and technical organizations. The state of California’s 
+earthquakes with signifcant loss of life in San Fernando 
+(1973), Loma Prieta (1989), and Northridge (1992) resulted 
+in expanded technical requirements for new construction 
+and existing buildings.  
+Alongside requirements that Federal agencies incorporate 
+seismic-resistant design in newly owned or leased build-
+ings by 1994, seismic provisions began to be incorporated 
+into the model codes by the early 1990s. Code provisions 
+have continued to be revised as more is learned about 
+seismic activity and building performance in earthquakes. 
+In many jurisdictions, ordinances requiring voluntary or 
+mandatory seismic risk reduction programs have been ad-
+opted or are under consideration to address buildings with 
+unreinforced masonry as well as non-ductile concrete con-
+struction. Some jurisdictions with large urban centers in 
+high seismic risk areas have also adopted more restrictive 
+construction and rehabilitation requirements than those  
+contained in the model building code or standard. 
+Accessibility 
+Late-1950s research at the University of Illinois produced  
+the frst comprehensive document addressing accessibil -
+ity in buildings, the 1961 Specifcations for Making Build -
+ings and Facilities Accessible to and Usable by the Physically  
+Handicapped. Additional research in the 1970s resulted in  
+the 1980 and subsequent editions of ANSI A117.1, published  
+by the American National Standards Institute (ANSI).  
+In 1968 the Architectural Barriers Act (ABA) became the frst  
+Federal effort to require accessibility to buildings and facili-
+ties designed, built, altered, or leased by Federal agencies.  
+Under this act, standards for accessibility were incorporat-
+ed into the Uniform Federal Accessibility Standards (UFAS).  
+The model code organizations’ engagement in accessibility  
+began in 1987, when the Council of American Building Of-
+fcials (CABO) developed an accessibility standard intended  
+to be compatible with code and enforcement procedures.  
+Following the 1990 passage of the Americans with Disabili-
+ties Act (ADA), administered by the U.S. Department of  
+Justice, Civil Rights Division, the ADA Accessibility Guide-
+lines for Buildings and Facilities (ADAAG) were published in 
+1991. The ADA and ABA guidelines were later merged into a  
+single document, the 2004 Accessibility Guidelines. 
+The ADA brings expanded accessibility of the built  
+environment by means of one of its major component  
+parts, “Title III, Public Accommodations.” This part is  
+applicable to private persons or groups that own, operate,  
+or lease places of public accommodation. Examples of  
+such places are restaurants, hotels, theaters, medical  
+offces, pharmacies, retail stores, museums, libraries,  
+parks, private schools, and day care centers. It requires  
+that all new construction, as well as alterations and  
+additions to existing buildings, meet specifc accessibility  
+standards. Exempt from its requirements are buildings or  
+parts of buildings controlled by private clubs or religious  
+organizations. Accessibility requirements for housing  
+funded or whose fnancing is guaranteed by the Federal  
+government was compulsory under Section 504 of the  
+Rehabilitation Act of 1973. In 1988 the Fair Housing  
+Amendments Act made new privately-funded housing of  
+four units or more accessible to persons with disabilities.  
+The ADA’s accessibility guidelines have had multiple re-
+visions since 1990 including those which create closer 
+coordination with accessibility requirements which are 
+incorporated by reference into the locally adopted and 
+enforceable model codes. Special provisions and consider-
+ations for historic buildings exist in both the ADA and the 
+model code. When CABO joined the ICC in 1998, the ICC 
+assumed the role of Secretariat of the Standard, publishing 
+the ICC / ANSI A117.1-Accessible and Usable Buildings and 
+Facilities in 1998. This publication was an important effort 
+to incorporate accessibility requirements into the model 
+codes and thus enforceable by local building offcials as 
+part of the permitting process. The ADA is otherwise en-
+forceable only by Federal District Courts through lawsuits 
+brought by individuals. 
+3 
+
+Energy Conservation 
+Beginning in the 1970s, energy conservation standards for  
+residential construction were included in the Model En -
+ergy Code  published by CABO and, for commercial build -
+ings, in the 90.1 series of codes published by ASHRAE,  
+formerly the American Society of Heating, Refrigerating,  
+and Air-Conditioning Engineers. In 2000 these documents  
+were merged into the International Energy Conservation  
+Code (IECC) and have currently been adopted by many  
+jurisdictions as a minimum standard. Energy codes typi -
+cally address building envelope (roof, walls, windows, and  
+doors), mechanical systems, service water heating (do -
+mestic hot water), lighting, and electrical power. In some  
+cases, above-minimum codes such as the International  
+Green Construction Code  (IgCC) and other state or munic -
+ipal codes or energy policy have also been adopted. Con -
+sistent with local, state, and Federal policy, energy per -
+formance standards will continue to increase. As already  
+adopted by some jurisdictions, with possible eventual in -
+corporation into the IECC, newer approaches address top -
+ics ranging from establishing limits for  a  building’s  energy  
+use to carbon reduction. 
+Natural Disasters 
+By the 1930s the Federal government provided funding for  
+repair and reconstruction of certain public facilities follow-
+ing earthquakes and other disasters. Major catastrophic  
+events of the 1960s and 1970s precipitated additional Feder-
+al efforts, frst within the Department of Housing and Urban  
+Development (HUD) and later within the Federal Emergency  
+Management Agency (FEMA). Created in 1979 to centralize  
+disaster-related responsibilities, FEMA in turn became part  
+of the U.S. Department of Homeland Security in 2003.  
+The model codes include extensive provisions related to 
+protection from seismic events, hurricanes, and fre, and 
+more limited provisions for protection from foods. For 
+the latter, in 1968 the National Flood Insurance Act (NFIA) 
+made food insurance available to homeowners, and soon 
+thereafter food insurance was mandatory for certain 
+properties located in Special Flood Hazard Areas. Guidance 
+and construction requirements published by FEMA include 
+their publications specifc to hurricanes, tsunamis, fooding, 
+earthquakes, and fre. Code and other Federal program 
+requirements have continued to evolve following unprec-
+edented natural disasters in recent years. 
+Model Code Organizations 
+While the earliest regulations focused on fre safety and 
+were often developed by property insurance companies, 
+the advent of regional code organizations concerned with 
+broader construction-related issues established the tech-
+nical and administrative framework still followed today. 
+Most of these organizations’ members were building  
+code offcials  from cities, towns, and government agen-
+cies, although contractors, manufacturers, and design 
+professionals also participated. Each of the model code 
+organizations produced comprehensive, regionally-tailored 
+building codes available for local or state adoption. 
+The Building Offcials and Code Administrators (BOCA), 
+founded in 1915, published its frst model code widely 
+used in the northeastern states, the BOCA Basic Building  
+Code, in 1950. The Southern Building Code Congress Inter-
+national (SBCCI), established in 1940, published the Stan -
+dard Building Code in 1945 which was widely adopted by 
+southeastern states. The International Conference of Build-
+ing Offcials (ICBO), formed in 1922 by Pacifc Coast build-
+ing code offcials, published the Uniform Building Code in 
+1927 which was broadly used in states west of the Missis-
+sippi River. In 1972 these organizations formed the Council 
+of American Building Offcials (CABO), publishing the One- 
+and Two-Family Dwelling Code for residential buildings 
+less than four stories in height. 
+By the early 1990s, efforts to create a single set of nation-
+al model codes had gained wide acceptance. In 1994 the  
+three model code organizations created the International  
+Code Council (ICC), which quickly became the predomi-
+nant national organization of the building code community.  
+While the NFPA was only initially involved in the consolida-
+tion effort, it remains the principal organization recognized  
+for fre protection expertise, codes, and standards.  
+In 2000 the ICC published the frst International Building  
+Code (I
+BC), merging the composition and content of the  
+three regional model codes into one code document. The  
+ICC currently publishes an integrated family of ffteen  
+codes, each revised on a three-year cycle, ranging in topic  
+from existing buildings to energy conservation. 
+Codes for Existing and  
+Historic Buildings  
+The post-World War II construction boom and Federal  
+urban renewal program funded through The Housing Act 
+of 1949, active through the 1980s, supported the demo-
+lition of thousands of buildings considered to be urban 
+slums. In response, 1960s grassroots preservation advocacy 
+efforts led to the passage of the National Historic Preser-
+vation Act of 1966. In addition to the creation of the Na-
+tional Register of Historic Places, this Federal legislation 
+required Federal agencies to consider the potential effect 
+or impact on historic properties through a consultation 
+process for projects undertaken, approved, funded,  
+permitted, or licensed by Federal agencies. 
+Further protection of historic buildings arose as states 
+adopted their own state-level historic registries and 
+consultation processes, and more historic preservation 
+or design review commissions were created at the local 
+level. Federal grants-in-aid and tax incentive programs 
+were adopted in the 1970s to encourage historic building 
+rehabilitation. For these programs, the Secretary of 
+the Interior’s Standards for the Treatment of Historic 
+Properties and its now widely adopted Standards for 
+4 
+
+Figure 3: Some code challenges 
+such as exiting and fre 
+protection requirements on  
+smaller Main Street buildings  
+can be mitigated by using the 
+IEBC. Photo: Marilyn Kaplan 
+Rehabilitation were created. Simultaneously, other 
+Federal agencies, including HUD, shifted funds to support 
+rehabilitation projects. 
+Historically, building codes were written for new 
+construction, largely ignoring existing buildings or  
+requiring compliance with new construction standards for 
+substantial rehabilitation projects. Building code offcials, 
+known in various jurisdictions as the “ authority having 
+jurisdiction,” had wide discretion in determining what 
+improvements were required as part of a rehabilitation 
+project, thus making it diffcult to predict not only what 
+would be required but also the level of diffculty and cost 
+to meet those requirements. Presidential commissions 
+of the 1960s, recognizing the potential contribution of 
+existing buildings to meet the nation’s housing needs,  
+directed HUD (created in 1965) to develop model standards 
+for incorporation into local building codes with special 
+preference to the rehabilitation of existing housing and 
+to expand the funds available for building rehabilitation. 
+HUD recognized that to remove barriers to rehabilitation 
+these codes needed to be fexible and to maximize 
+retention of existing materials, construction techniques, 
+and foor-plan confgurations.  
+HUD’s groundbreaking  Rehabilitation Guidelines series, 
+addressing technical and administrative obstacles to the 
+reuse of existing buildings, included the 1980 edition of 
+Number 8, Guideline on Fire Ratings of Archaic Materials 
+and Assemblies. Revised in 2000, this document remains 
+an important resource relative to evaluating the fre-resis-
+tance of older building materials. 
+Efforts by HUD and others also resulted in the adoption 
+of unique rehabilitation codes, chapters, or provisions 
+in the model codes and the codes of some jurisdictions. 
+Approaches to the challenge of balancing safety, cost, 
+and other parameters in existing and historic buildings 
+varied widely. Some jurisdictions required compliance with 
+new construction standards when 50% of the value of 
+a building was exceeded in the rehabilitation, allowing 
+fewer code upgrades when the rehabilitation costs were 
+25%, or between 25% and 50%, of the building value. 
+Others, such as in Massachusetts and Chicago, established 
+requirements based on the level of hazard increase when 
+comparing the pre-rehabilitation and proposed post-
+rehabilitation uses.  
+An important advance in building codes was the develop-
+ment of a numerical scoring system to measure the level  
+of safety provided by a building or a proposed rehabilita-
+tion. This advancement, developed in Ohio in the 1980s,  
+was based on a methodology developed for New York  
+City high-rise offce buildings and an appendix of the  
+NFPA’s  Life Safety Code for health care occupancies. By  
+assigning scores to existing safety parameters, attributes  
+could be recognized and credited against code defcien -
+cies to determine whether the overall proposed conditions  
+would provide an acceptable level of safety. In 1985 this  
+system was adopted as a supplement to the BOCA Nation-
+al Building Code, subsequently renamed Articles 25 and  
+32. Eventually incorporated into the International Building  
+Code (IBC), this system was relocated to the International 
+Existing Building Code (IEBC) where it continues to serve  
+as the basis of the Performance Compliance Method. 
+Another approach to increased code predictability was to  
+apply requirements as a function of owner-elective work.  
+Rather than the earlier codes’ abrupt jumps when 50% of  
+building value was reached, in this approach the extent  
+and stringency of code requirements gradually increased  
+for projects defned as a repair, alteration, or change  
+of occupancy. This served as the framework for three  
+infuential rehabilitation codes: ICBO’s 1997 Uniform Code  
+for Building Conservation (UCBC), the 1997 Nationally  
+Applicable Recommended Rehabilitation Provisions  
+(NARRP) prepared for HUD, and the 1998 New Jersey 
+Rehabilitation Subcode. 
+5 
+
+This approach was included as the Work Area 
+Compliance Method  in the frst edition of the 
+International Existing Building Code , published in 2003. 
+For projects undergoing a change of occupancy , it also 
+established requirements as a function of whether fre 
+and life safety hazards were increased or decreased as 
+a result of the occupancy change. While the Work Area 
+Compliance Method included a special chapter for historic 
+buildings, other compliance methods had separate but 
+less comprehensive provisions for historic buildings. The 
+“stepped” approach to rehabilitation has been followed 
+in other building codes, including the International 
+Residential Code’s  (IRC) Appendix J and "Chapter 43: 
+Building Rehabilitation", of the NFPA 101: Life Safety Code. 
+Prior to the publication of the IEBC, some jurisdictions 
+and the model code organizations developed unique 
+approaches for historic buildings. These included allowing 
+the building code offcial or appointed boards to approve 
+exceptions or variances; special provisions for historic 
+house museums, bed-and-breakfasts, or a jurisdiction’s 
+most signifcant historic buildings as listed in the code; 
+enforcement of minimum maintenance standards for 
+historic properties; and the development of unique codes 
+for historic buildings, such as the state of California’s  
+1975 adoption of its frst California State Historical  
+Building Code. 
+Most jurisdictions now use the IEBC and its historic build-
+ing provisions, and few jurisdictions have continued to 
+maintain or develop their own separate historic building 
+code provisions. In many cases, adoption includes modif-
+cations to the model code to meet local priorities. 
+Code Development, Adoption,   
+and Enforcement 
+Code Development 
+Codes have expanded from single-focus documents 
+concentrating on life safety to a suite of separate 
+publications establishing thousands of minimum 
+architectural and engineering requirements. Separate 
+codes regulate construction and rehabilitation of 
+residential properties, existing buildings, and new 
+construction; ongoing operations and property  
+maintenance; and topics such as plumbing, electrical, and 
+mechanical systems. To eliminate redundancies, codes 
+often explicitly refer to provisions of other codes or 
+reference standards. Additional provisions and guidelines 
+are included in informational or mandatory appendices of 
+the codes or related, separate, ordinances adopted by the 
+jurisdiction.  
+The International Code Council (ICC), the National Fire Pro-
+tection Association (NFPA), and other organizations pre-
+paring codes and standards have unique processes for the 
+writing and updating of codes, typically involving mem-
+ber participation to develop, review, and accept proposed 
+changes. Although ICC codes are updated on three-year 
+cycles, few jurisdictions immediately adopt the newest 
+edition or adopt the full suite of ICC codes. Separate pro-
+cedures exist for code organizations’ updating of materi-
+als classifed as informational only, such as guidelines and 
+handbooks. Most code organizations follow the voluntary 
+consensus standards for the development of codes, over-
+seen by the American National Standards Institute (ANSI). 
+Types of Codes 
+Code provisions can be prescriptive-based , with require-
+ments explicitly established, or  performance-based , 
+specifying overall goals and permitting the designer and 
+building code offcial to determine how these will be met. 
+Prescriptive provisions that identify specifc materials or 
+methods are traditionally the easiest to use for new con-
+struction where little interpretation or negotiation is re-
+quired. Performance provisions that specify a performance 
+goal and permit the designer to determine the means to 
+achieve that goal provide greater fexibility and can be 
+benefcial in resolving situations presented by the specifc 
+or unique conditions of existing and historic buildings. Ex-
+amples of performance provisions include the numeric rat-
+ing system of the Performance Compliance Method of the 
+International Existing Building Code (IEBC) and the energy 
+code requirements in the International Energy Conserva -
+tion Code (IECC) that establish the amount of energy (En-
+ergy Use Intensity) a building is permitted to use annually. 
+In both cases, the code establishes a numeric value repre-
+senting the minimum performance level a building must 
+achieve, permitting the designer to select the building 
+systems and components that cumulatively will meet the 
+required level of performance.  Equivalencies, like code 
+provisions for “alternative methods and materials,” are 
+another means to demonstrate that a code-established 
+performance level will be met. Multiple references to this 
+concept exist within the IEBC, although it can be diffcult 
+to quantitatively establish equivalency without computer  
+modeling or extensive testing.  
+Code Enforcement: Adoption, Permitting, 
+and Inspections 
+Most jurisdictions in the United States have adopted one 
+or more of the ICC model codes. Adoptions can occur at 
+the state or local level, and procedures for adoption vary. 
+It is not uncommon for the code’s frst administrative chap-
+ter to be modifed by the adopting jurisdiction, for exam-
+ple, to select only certain codes of the ICC model codes for 
+adoption or to amend some sections of the code to refect 
+local conditions and priorities such as to include provisions 
+addressing natural disasters, sea level rise, and greater en-
+ergy performance.  
+Code enforcement is typically the responsibility of a ju-
+risdiction, although third-party frms or state or county 
+agencies may be authorized to act on the jurisdiction’s 
+behalf. Procedures are established for permits, inspections, 
+6 
+
+ 
+  
+Minimum Property Maintenance and 
+Housing Codes 
+appeals, whether  construction documents  must be pre-
+pared by a registered design professional , which build-
+ing types and scopes of work require a permit and inspec-
+tion, and if contractors must meet licensing or certifcation 
+requirements. State and Federal agencies may be exempt 
+from local requirements and undertake their own code 
+compliance procedures. 
+Enforcement responsibilities can be assigned to a single 
+building department or shared, most typically with the fre 
+department. Separate review and inspection may occur by 
+topic area (plumbing, electrical, energy conservation) or by 
+other departments or boards associated with zoning, plan-
+ning, historic preservation, etc. 
+Permits and Inspections 
+When required, plans and/or specifcations are reviewed to 
+confrm that the proposed work complies with the require-
+ments of the jurisdiction. Issuance of the building permit  
+indicates that the proposed design complies with applica-
+ble code requirements and that legal permission is granted 
+to begin construction. The permit may specify required 
+inspections for foundations, insulation, and electrical and 
+plumbing installations. Inspections may be undertaken by 
+the jurisdiction or a third-party inspector, as is common for 
+electrical installations.  
+Figure 4: Creative life- and fre-safety code solutions may be 
+required for special buildings and conditions, such as the use of an 
+automatic accordion type, horizontal-sliding fre and security door  
+to meet code requirements. Concealed when not in use, such systems 
+can provide up to a 3-hour fre-resistance rating.  
+Photo: U.S. General Services Administration 
+Final inspections, often initiated by a letter from the 
+design professional indicating the completed project 
+has been constructed in a code-compliant manner, are 
+required for the issuance of a Certifcate of Occupancy  
+or Certifcation of Completion . Where inspected 
+conditions are found to be defcient, additional work  
+may be required. 
+Appeals, Waivers, and Variances 
+The appeal process for a project denied a permit and 
+for projects for which a waiver of code requirements 
+or a variance is requested varies by jurisdiction. In some 
+cases, such requests can be acted on by staff, the building 
+code offcial, or an appeal body comprised of expert 
+professionals, while in others a more complex process 
+involving a regional or state review board may be required. 
+Existing Occupied Buildings 
+Provided that no unsafe conditions exist, codes generally 
+allow existing, legally constructed, and occupied buildings 
+to remain in operation without complying with current 
+code requirements. Most minor maintenance work can  
+be undertaken without engagement in the code process.  
+Only in rare instances are new code requirements 
+retroactive. These are typically limited to items considered 
+most critical to public health and safety, for example, 
+smoke detectors in certain residential occupancies or 
+swimming pool enclosures. 
+Certain occupancies such as places of public assembly 
+and schools, or certain building equipment, such as 
+elevators and mechanical or fre protection equipment, 
+may be required to have annual or periodic inspections. 
+Such requirements and enforcement responsibilities may  
+be established in the fre code or other local or state 
+legislation and may address topics such as access and 
+egress, special events, safe storage and use of hazardous 
+materials, emergency planning and response, etc. 
+Poorly maintained and vacant buildings are at risk of  
+vandalism and damage due to exposure to the elements,  
+fre, and earthquakes. These vulnerabilities not only  
+affect their occupants, but also extend to neighboring  
+buildings. Protection for and from these buildings is  
+available through the enforcement of adopted minimum  
+property maintenance standards, such as the International  
+Property Maintenance Code (IPMC), housing, or fre codes.  
+Unlike the building and rehabilitation codes that guide  
+construction efforts, these minimum standards establish  
+the minimum conditions for legal occupancy. Often, their  
+enforcement is sporadic and reactive when a complaint has  
+been lodged. 
+Enforcement of these minimum standards is the most  
+effcient means to protect housing and other historic  
+7 
+
+Codes / Publisher Scope Special Historic Building Provisions 
+International Existing 
+Building Code (IEBC) 
+— 
+I
+nternational Code 
+Coun
+cil, Inc. (ICC) 
+Repair, alteration, change of 
+occupancy, additions, and relocation 
+of existing buildings. 
+Chapter 3. Historic building provisions, applicable to all 
+compliance paths, are limited to those addressing acces-
+sibility (accessible routes and entrances, toilet rooms). 
+Note: Appendices/Resources include 
+Guidelines for Seismic Retroft, 
+Accessibility, Wind Retroft, and Fire 
+Ratings of Archaic Materials a nd 
+Assemblies. 
+Separate  provisions for Prescriptive Compliance Method 
+are included in Chapter 5, and Work Area Compliance 
+Method in Chapter 12. 
+Appendix B, Supplementary Accessibility Requirement  
+for Existing Buildings and Facilities establishes a 
+consultation process if the appendix has been adopted 
+by the jurisdiction. 
+buildings from accelerated deterioration caused by  
+unaddressed, unsafe conditions. A jurisdiction’s efforts  
+can be reinforced by programs that identify and monitor  
+vulnerable buildings, such as establishing an inventory  
+of vacant or rental properties and implementing robust  
+inspection programs. Timely code enforcement follow-up  
+of noted unsafe and non-compliant conditions can avoid a  
+catastrophic fre, structural collapse, unplanned relocation  
+of occupants, or a costly emergency demolition.  
+Protection of these properties requires the adoption of  
+appropriate codes and local regulations and adequate  
+staffng and resources to support enforcement, including  
+proactive inventorying and monitoring of existing build -
+ings. Additional protections can also be achieved when a  
+jurisdiction has the legal authority to undertake critical  
+repairs at the expense of the property owner or to trans -
+fer ownership of delinquent properties to an appointed  
+International   
+Residential Code  
+(IRC) 
+— 
+ICC 
+New construction or existing buildings that 
+are three stories or less above grade. Lim-
+ited to single-family houses, two-family 
+houses (duplexes), and buildings consisting 
+of three or more townhouse units. 
+Existing Buildings and Structures , an expansion of Ap-
+pendix AJ of previous IRC editions, is similar in format 
+to the historic building provisions of the IEBC Work Area 
+Compliance Method. The appendix is informational only 
+and must be separately adopted by the jurisdiction. 
+Energy conservation requirements  
+for new and existing buildings and 
+residential and commercial buildings. 
+Requirements separated for commercial  
+and residential buildings. 
+In addition to Chapter 5 exceptions for alterations, 
+code provisions are not mandatory if documentation 
+demonstrating  that compliance with the code would 
+threaten, degrade, or destroy historic features is 
+submitted. 
+International Energy  
+Conservation Code (IECC) 
+— 
+ICC 
+Construction in new and existing buildings, 
+including Chapter 11 retroactive provisions. 
+Chapter 11 references NFPA 914 Code for the  
+Protection of Historic Structures for fre protection 
+planning (maintenance and availability of fre safety  
+and evacuation plans). 
+International Fire Code  
+(IFC) 
+— 
+ICC 
+Energy requirements for new and existing 
+buildings; a code-allowed alternate to the 
+International Energy Conservation Code 
+(IECC). 
+Includes requirements for alterations. 
+Standard 90.1 Energy 
+Standard for Buildings 
+Except Low Rise 
+Residential Buildings 
+— 
+ASHRAE 
+Historic buildings are exempted. 
+Addresses retrofts, such as building 
+envelope improvements, environmental  
+control strategies, energy system analysis, 
+HVAC selection, and lighting design. 
+Addresses technical requirements and op-
+erations, such as fre protection, fre pre-
+vention, security, construction efforts, and 
+special events. 
+Guideline 34 Energy 
+Guideline for Historic 
+Buildings 
+— 
+ASHRAE 
+Written for historic structures. 
+NFPA 914 Code for the 
+Protection of Historic 
+Structures 
+—  
+National Fire Protection 
+Association (NFPA) 
+Written for historic structures. 
+NFPA 101 Life Safety Code 
+—  
+NFPA 
+Addresses fre safety and related hazards 
+for new and existing buildings. Often 
+applied to larger and institutional 
+buildings including hospitals, schools, and 
+public buildings.  
+Three compliance options for historic buildings:  
+comply with Chapter 43 provisions for historic 
+buildings, with Chapter 43 work category (similar in 
+format to IEBC), or with NFPA 914. 
+Primary Codes and Guidelines for Historic Buildings 
+Figur
+e 5. Special provisions for existing and historic buildings. 
+8 
+
+ Construction and Occupancy/Use 
+Classifcations 
+receiver or other entity committed to the building’s pro -
+tection and rehabilitation. Engagement with the courts  
+and related agencies as part of these code enforcement  
+actions is also essential.  
+The Secretary of the Interior’s 
+Standards 
+The Secretary of the Interior's Standards for the Treatment 
+of Historic Properties (36 CFR Part 68, 1995) consists of 
+four treatment standards: Preservation, Rehabilitation,  
+Restoration, and Reconstruction. While not a code, they 
+are regulatory for projects receiving Historic Preservation 
+Fund Grant assistance and other federally-assisted 
+projects. The Secretary of the Interior's Standards for 
+Rehabilitation (36 CFR Part 67, 1990), which are included 
+in the Treatment Standards, are regulatory for the Federal 
+Historic Preservation Tax Incentives program (commonly 
+known as the “Historic Tax Credits”) and are the criteria 
+used to determine if a project qualifes as “a certifed 
+rehabilitation,” and, therefore, for certain tax benefts 
+under the Internal Revenue Code. 
+The 1990 (specifc to the tax incentives program) and the 
+19
+95 versions of the Rehabilitation Standards convey the 
+same intent and provide the same guidance, although 
+they are worded slightly differently, and “shall” replaces 
+“will” in the 1995 version. The Secretary of the Interior's 
+Standards for the Treatment of Historic Properties , in 
+particular the Standards for Rehabilitation , are intended 
+as general guidance for work on all historic properties, are 
+widely used, and have been adopted at Federal, state, and 
+local levels. 
+Using the Codes 
+Model International Codes 
+The International Code Council’s (ICC) ffteen model codes, 
+which address a multitude of topics associated with public 
+health, safety, and welfare, are the most adopted codes 
+in the United States. These model codes are adopted as 
+published or with modifcations as determined by the local 
+jurisdiction. Adoption may explicitly reference the title of 
+the model code and the date of its publication or instead 
+rename the code to include the name of the jurisdiction 
+and the date adopted. 
+The International Existing Building Code (IEBC) contains a 
+full chapter dedicated to historic buildings. The Interna -
+tional Plumbing Code  (IPC) and others have requirements 
+for existing installations and how alterations or additions 
+are addressed. This includes the retroactive provisions of 
+Chapter 11 of the International Fire Code (IFC), applicable 
+always regardless of whether a repair or alteration is un-
+dertaken. Additional codes published by the ICC, generally 
+with less impact on historic buildings, are shown in Figure 
+22. The principal codes and guidelines affecting historic 
+and existing buildings are identifed in Figure 5. 
+Codes are organized by two key risk factors that 
+establish the minimum level of safety a building must 
+provide: construction classifcation  and occupancy  
+classifcation . The interplay of these classifcations 
+determines maximum building height, number of stories, 
+and building area; permitted occupancies; and other 
+requirements primarily related to fre protection and 
+means of egress. 
+Figure 6. The IEBC 
+provides opportunities  
+to retain character-
+defning features such 
+as historic stairways  
+that would not be 
+permitted to remain by 
+codes written for new 
+construction. 
+Photo: Marilyn Kaplan  
+Construction Classifcation is based on the materials used 
+in construction. Buildings are further described by fre-
+resistance ratings assigned to key building elements: 
+primary structural frame, exterior and interior bearing 
+walls, exterior nonbearing walls, interior nonbearing walls  
+and partitions, foor construction, and roof construction. 
+A “Type I” building using protected non-combustible struc-
+tural elements, such as concrete and freproofed steel, has 
+a higher degree of fre-resistance than a “Type V,” fully 
+wood-framed building. Typical 19th-century buildings 
+classifed as “Type III” include three-story “Main Street” 
+buildings with masonry exteriors and interior wood fram-
+ing. “Type IV” buildings include traditional heavy-timber 
+and mass-timber construction, as the larger dimensions of 
+the wood structural components provide greater fre-resis-
+tance than the smaller dimensions of modern lumber. 
+Occupancy classifcation of buildings or spaces is based on  
+their purpose and function and relative risk to the occu -
+pants (Figure 7). A small commercial tenant space pres -
+ents less risk than a day care, hospital, or nightclub use.  
+Further sub-classifcations within the broad occupancy  
+groups are based on the characteristics of a specifc use.  
+Multiple classifcations can be assigned, such as with Main  
+Street mixed-use buildings with commercial or offce use  
+on the frst foor and residential use on the upper foor(s).  
+Model  International Existing  
+Building Code 
+Prior to the 2003 publication of the IEBC, rehabilitation  
+projects were regulated by the IBC or the IRC. The IBC  
+and IRC were primarily written for new construction,  
+9 
+
+    
+    
+    
+     
+Common Occupancy and Use Classifcations 
+Classifcation Examples 
+INTERNATIONAL BUILDING CODE * 
+Assembly Group A
+    Assembly Group A-1 Motion Picture Theaters, Symphony and Concert Halls, Theaters
+    Assembly Group A-2 Banquet Halls, Nightclubs, Restaurants
+    Assembly Group A-3 Art Galleries, Community Halls, Libraries, Museums 
+Business Group B Banks, Education Occupancies (Above 12th Grade), Professional Services 
+Mercantile Group M Department Stores, Markets 
+Residential Group R 
+Residential Group R-1 Hotels, Congregate Living (Transient) 
+Residential Group R-2 Apartment Houses, Dormitories (Non-Transient) 
+Residential Group R-3 Buildings up to 2 Dwelling Units, Smaller Care and Living Facilities 
+Residential Group R-4 Assisted Living Facilities, Group Homes with 5-16 Occupancy, 
+24-Hour Residential 
+INTERNATIONAL RESIDENTIAL CODE 
+No specifc occupancy or use classifcations. 
+Figure 7 . *Additional Occupancies include Educational (Grades K-12), Factory and Industrial, High Hazard, Institutional, Storage, Utility,  
+and Miscellaneous. 
+although Chapter 34 of the IBC, since relocated to the IEBC,  
+addressed existing buildings. While rehabilitation projects  
+continue to be allowed to use these codes, the unique  
+conditions of historic and other existing buildings are often  
+better addressed by the provisions specifcally written for  
+rehabilitation projects contained within the IEBC and the  
+IRC’s  Appendix J Existing Buildings and Structures. Of these,  
+only the IEBC contains specifc historic building provisions. 
+The 2024 edition of the IEBC incorporates numerous modi-
+fca
+tions to the original document while remaining similar  
+in approach and format to previous editions still in effect in  
+many jurisdictions. Changes and updates are prepared on  
+three-year cycles. While the IRC is designed to contain most  
+requirements in a single code book, the IEBC is more com-
+plex given its references to other codes and its applicability  
+to the full array of existing buildings and the unique condi-
+tions they present.  
+The IEBC offers multiple paths to establish code compli-
+ance for all residential and non-residential rehabilitation  
+projects. The IBC and IRC can also be used for rehabilitation  
+projects, although proposed work must meet the require -
+ments for new construction. Special provisions for exist-
+ing buildings are included in the IRC Appendix BO, Existing  
+Buildings and Structures in jurisdictions where it has been  
+adopted. Using the IEBC also incorporates requirements  
+of other codes, most signifcantly the International Energy 
+Conservation Code (IECC) and the IFC. The organization of  
+the IEBC is shown in Figure 8. 
+ Repairs 
+Repairs are defned as, “The reconstruction, replacement  
+or renewal of any part of an existing building for the  
+purpose of its maintenance or to correct damage.”  
+Requirements are limited in scope (structure, food hazard  
+areas, and electrical, mechanical, and plumbing systems).  
+In general, a building cannot be made less safe or less  
+code compliant.  
+Repairs to historic buildings need only comply with the 
+requirements in "Chapter 12: Historic Buildings." Repairs 
+using original or like materials and methods of construc-
+tion and replacement of existing or missing features using 
+original materials are allowed. Replacement glazing in  
+hazardous locations must comply with requirements for 
+new construction, except for glass block walls, louvered 
+windows, and jalousies. Hazardous materials not allowed 
+in new construction cannot be used. 
+ Relocation 
+Repairs, alterations, and changes of occupancy of moved or  
+relocated buildings may follow any one of the compliance  
+paths of the IEBC, or the IBC or IRC. For historic buildings  
+using the IEBC Work Area Compliance Method, foundation,  
+exterior wall, and opening requirements must comply with  
+new construction requirements or with the compliance  
+alternatives of the historic building chapter. All other  
+historic building provisions of that chapter are applicable. 
+For historic buildings using the Prescriptive or 
+Performance Compliance Methods, work must comply 
+with the requirements for repair, alteration, or change of 
+occupancy. New construction requirements are applied to 
+the foundation system and when a building is relocated 
+into a food hazard area. With some exceptions, new 
+construction requirements for wind, seismic, and snow 
+loads also apply. 
+10 
+
+Figure 8. Identifying which code compliance method [(Prescriptive (Chapter 5); Work Area (Chapters 6-11); or Performance (Chapter 13)]  is 
+best suited to a particular project is essential. Early consultation with the building code ofcial to discuss the selected path can expedite the 
+design and code review/processes.  
+ Organization of the 2024 IEBC 
+Chapter 
+1 Scope and Administration Applies to all compliance methods. 
+2 Defnitions Applies to all compliance methods. 
+3 Provisions for All Compliance Methods Applies to all compliance methods. In addition to the Prescriptive 
+Compliance, Performance Compliance, and Work Area Compliance 
+methods, it establishes an additional code path for Alterations based on 
+code provisions in place at the time the building was constructed. 
+4 Repairs Establishes minimum requirements for projects of limited scope. 
+Repairs to Historic Buildings are only required to comply with repair 
+requirements of Chapter 12. 
+5 Prescriptive Compliance Method Prescriptive Compliance Method 
+6 Classifcation of Work Work Area Compliance Method 
+7 Alterations – Level 1 Work Area Compliance Method 
+8 Alterations – Level 2 Work Area Compliance Method 
+9 Alterations – Level 3 Work Area Compliance Method 
+10 Change of Occupancy Work Area Compliance Method 
+11 Additions Work Area Compliance Method 
+12 Historic Buildings Work Area Compliance Method Chapter 12 serves as an overlay 
+to Chapters 7–10. 
+13 Performance Compliance Method Performance Compliance Method 
+14 Relocated or Moved Buildings Applies to all repairs and compliance methods, with specifc requirements 
+for new foundations, structural work, and food hazard areas. 
+15 Construction Safeguards Applies to all compliance methods. 
+16 Referenced Standards If adopted by jurisdiction, applies to all compliance methods. 
+Appendix 
+A Guidelines for the Seismic Retroft of 
+Existing Buildings 
+If adopted by jurisdiction, applies to all compliance methods. 
+B Supplementary Accessibility Requirements 
+for Existing Buildings and Facilities 
+If adopted by jurisdiction, applies to all compliance methods. Provides 
+consultation process with historic preservation offcials. 
+C Guidelines for the Wind Retroft of 
+Existing Buildings 
+If adopted by jurisdiction, applies to all compliance methods. 
+Resource 
+a Guidelines on Fire Ratings of Archaic 
+Materials and Assemblies. 
+Applies to all compliance methods. Provides fre-resistance ratings 
+for older building elements or materials not typically included in 
+modern codes. 
+Alterations and Changes of Occupancy: 
+Compliance Methods 
+For projects classifed as an alteration  or change of oc-
+cupancy, the IEBC provides a choice of compliance paths:  
+Prescriptive Compliance, Work Area Compliance, Perfor-
+mance Compliance, or, for Alterations, compliance with re-
+quirements at the time the building was constructed, with 
+limitations and additional provisions. Use of this so-called 
+“law-in-existence” approach may work best with more re-
+cently constructed historic buildings. 
+Although typically less well-suited to historic buildings, 
+rehabilitation projects can also comply with the new 
+construction requirements of the IBC, the IRC, or the IRC’s 
+Appendix J provisions for existing buildings if this has been 
+adopted by the jurisdiction. 
+Prescriptive Compliance Method.  This traditional ap-
+proach to building regulation originated in Chapter 34 of 
+the IBC and was relocated to the IEBC in 2012. It is often 
+preferred by those most familiar with the IBC due to its 
+similar format and content. 
+11 
+
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ Code Compliance Paths for Existing Buildings 
+IEBC Chapter 1 (Scope and Administration) 
+IEBC Chapter 2 (Defnitions) 
+IEBC Chapter 3 (Provisions for All Compliance Methods) 
+Building Code (IBC) or 
+Residential Code (IRC) 
+Prescriptive 
+Compliance Method 
+(Chapter 5) Requires 
+compliance with IFC 
+Work Area 
+Compliance Method 
+(Chapter 6–11) Al-
+terations Level 1,2,3; 
+Change of Occupancy, 
+Additions, Historic 
+Buildings 
+Performance 
+Compliance Method 
+(Chapter 13) 
+Law-in-Existence 
+(IEBC Section 301.3) 
+Use of path for 
+alteration projects 
+requires approval 
+by code offcial. 
+Path permits 
+compliance with law 
+in existence at time 
+of construction, with 
+some exceptions 
+Additional 
+Fire Code (IFC) Retroactive Provisions 
+Energy Conservation Code (IECC) 
+Referenced requirements from IEBC or IBC/IRC 
+Local requirements 
+This method includes extensive structural requirements  
+related to earthquake damage and seismic design; grav-
+ity, lateral, and wind loads; improvements in foor hazard  
+areas; fre-resistant ratings; and fre escapes, as well as win -
+dows and emergency escape openings when an addition is  
+constructed or an alteration or change of occupancy occurs.  
+For historic buildings, the application of this method is lim-
+ited to conditions judged by the code offcial to constitute 
+a distinct life safety hazard . Special allowances are also 
+available to buildings located in food hazard areas  and 
+in the application of structural provisions. 
+Performance Compliance Method . Also originating 
+from Chapter 34 of the IBC, this method uses a numeri-
+cal scoring system to determine if a project will meet an 
+acceptable level of safety. Scores calculated for twenty-
+one safety parameters are used to determine the total 
+minimum scores for the categories of fre safety, means of 
+egress, and general safety. Defciencies in one parameter 
+can be compensated by a higher score in another. A total 
+building score equal to or exceeding the minimum safety 
+scores for the three categories establishes compliance. 
+This method can be extremely fexible in responding to the  
+unique conditions presented by different historic and ex-
+isting buildings. It benefts smaller rehabilitation projects,  
+including those with business or mixed-use occupancies, by  
+often allowing a building to forgo a new sprinkler system or  
+to maintain an existing system. The method is a scoring sys-
+tem of twenty-one fre safety parameters (Figure 12a, 12b).  
+Work Area Compliance Method . Projects using this 
+method are classifed as one of three levels of alteration, 
+based on the extent of proposed work, a change of occu-
+pancy, or an addition. 
+The Work Area Compliance Method establishes code  
+requirements incrementally, based on the scale and type  
+of proposed work. Requirements increase in stringency  
+from the lowest level, Alteration—Level 1, to the highest  
+levels of work, either Alteration—Level 3 (when the work  
+area exceeds 50% of the building area) or a change of  
+occupancy. Requirements for projects involving a change  
+of occupancy also increase or decrease based on the hazard  
+rating associated with the change. The hazard ratings of  
+existing and proposed occupancies are compared using  
+three hazard scales (Means of Egress, Heights and Areas,  
+and Exposure of Exterior Walls).  
+Figure 9. The IEBC contains 4 compliance paths: the ffth path permits the use of the IBC or IRC. This fgure illustrates the general structure of 
+the 2024 IEBC, excluding chapters applicable to Repairs, Relocated or Moved Buildings, Construction Safeguards, and Appendices. Variations 
+may occur depending on which model codes, and which edition of each, have been adopted by the jurisdiction. Note that use of the IRC’s 
+Appendix AJ provisions for existing buildings requires the jurisdiction to have explicitly adopted this appendix. 
+12 
+
+Figure 10. A modern horizontal 
+element was installed to meet the 
+code-required railing height while  
+still retaining the lower historic 
+railing. Photo: Nicholas Vann 
+The most restrictive require-
+ments are applied to projects  
+involving a change of occu-
+pancy, with the most restrictive  
+provisions applied to occupan-
+cies the code considers having 
+the highest hazard. For exam-
+ple, since an Assembly occupancy is considered more haz-
+ardous  than  a  Business  occupancy in all three hazard scales,  
+requirements for the proposed Business occupancy would  
+be less stringent than those for the Assembly space. 
+Application to Historic Buildings 
+According to the IEBC, historic buildings are defned   
+as, “Any building or structure that is one or more of the  
+following: 
+1. L ist ed, or certifed as eligible for listing, by the State  
+Historic Preservation Offcer or the Keeper of the  
+National Register of Historic Places, in the National  
+Register of Historic Places.  
+2. D esi
+gnated as historic under an applicable state or   
+local law. 
+3. C ertifed as a contributing resource within a National  
+Register, state designated or locally designated   
+historic district.” 
+This defnition excludes buildings that have only been  
+determined  eligible  for listing by a locality or only  
+identifed in a historic resources survey or inventory.  
+Additionally, in the Prescriptive Compliance Method, a  
+slightly different defnition of historic buildings is used in  
+determining when full improvements in food hazard areas  
+are required. 
+"Chapter 3: Provisions for All Compliance Methods" contains  
+the base provisions applicable to the four compliance paths  
+contained in the IEBC. Additional or modifed provisions  
+unique to the selected compliance method found in other  
+Work Area Compliance Method, Classifcation of Work 
+Classifcation Defnition Comment 
+Alteration – 
+Level 1 
+(Chapter 7) 
+Removal and replacement, or the 
+covering of existing materials, elements, 
+equipment, or fxtures using new 
+materials, elements, equipment, or 
+fxtures that serve the same purpose. 
+Building cannot be made less safe, specifcally regarding means of 
+egress and fre protection. 
+Includes limited requirements for new building elements and 
+materials (interior fnishes, windows, emergency egress/rescue,  
+fuel gas piping), reroofng, structural requirements for reroofng, 
+and energy conservation in work area. 
+Alteration – 
+Level 2 
+(Chapter 8) 
+Reconfguration of space, the addition 
+or elimination of any door or window, 
+the reconfguration or extension of 
+any system, or the installation of any 
+additional equipment. 
+Requirements from Alteration - Level 1 plus requirements for new 
+work including some exceptions from IBC (windows, electrical, 
+dead-end corridors, ceiling height, below grade transportation, 
+and structural). 
+Includes requirements for vertical openings, fre protection, means 
+of egress, and structural components in work area and beyond. 
+Additional requirements for electrical, mechanical, plumbing, and 
+energy conservation limited to work areas. 
+Alteration – 
+Level 3 
+(Chapter 9) 
+Work area exceeds 50 percent of the total 
+building area. 
+Requirements from Alteration - Levels 1 and 2, plus special 
+requirements for high-rise buildings; extension of area of required 
+work for building elements and materials including in means 
+of egress; and additional requirements for fre protection and 
+structural components. 
+Change of  
+Occupancy 
+(Chapter 10) 
+Includes any change of occupancy classif-
+cation, any change from one group to an-
+other within an occupancy classifcation, 
+or any change in use within a group for a 
+specifc occupancy classifcation. 
+Includes requirements for fre protection, means of egress, 
+accessibility, structural, electrical, mechanical, and plumbing. Some 
+requirements are established as a function of the relative change 
+of hazard between the previous and the new occupancies (higher, 
+equal, or less). 
+Additions 
+(Chapter 11) 
+An extension or increase in the foor area, 
+number of stories, or height of a building  
+or structure. 
+For additions not separated from the existing building by a fre 
+wall, it provides some exceptions from requirements for new con-
+struction (except height and area), as well as some requirements 
+applicable to the existing building. 
+Figure 11. All of the above classifcations must also comply with Provisions for all Compliance Methods. The provisions of  
+Chapter 12 Historic Buildings serve as an overlay to each of these classifcations. 
+13 
+
+SAFETY PARAMETERS FIRE SAFETY (FS) MEANS OF EGRESS (ME) GENERAL SAFETY (GS) 
+1305.2.1 Building height 
+1305.2.2 Building area 
+1305.2.3 Compartmentation 
+1305.2.4 Tenant and dwelling unit 
+separations 
+1305.2.5 Corridor walls 
+1305.2.6 Vertical openings 
+1305.2.7 HVAC systems 
+1305.2.8 Automatic fire detection 
+TABLE 1305.2.3—COMPARTMENTATION VALUES 
+       
+        
+         
+        
+    
+       
+      
+     
+       
+        
+       
+     
+      
+  
+ 
+   
+    
+       
+   
+      
+ 
+       
+      
+         
+       
+            
+      
+      
+     
+     
+ 
+   
+      
+      
+      
+       
+  
+    
+Performance Compliance Method 
+TABLE 1305.2.3—COMPARTMENTATION VALUES 
+ OCCUPANCY 
+  CATEGORIESa
+a  b  c  d  e  
+  A-1, A-3 0  6   10  14  18 
+ A-2 0  4   10  14  18 
+    A-4, B, E, S-2 0  5   10  15  20 
+    F, M, R, S-1 0  4   10  16  22 
+ I-2 0  2  8   10  14 
+a.  For  compartment  sizes  between  categories,  the  compartmentation  value  shall  be  obtained  by  linear  interpolation.  
+Figure 12a. Table 1305.2.3 shows how the Compartmentation Value used in the Summary Sheet (Table 1306.1 in the 2024 IEBC) is 
+determined. A value between 0 and 22, based on building size as further detailed in the chapter, is selected and added to the appropriate 
+column of the Summary Sheet in order to establish a total building score. 
+Figure 12b. Shows the list of twenty-one parameters addressed in Table 1306.1. Summary Sheet- Building Codes, (partially excerpted in this 
+f
+gure). Tables 1305.2.3 and 1306.1 are copyrighted materials excerpted from the 2024 International Existing Building Code. Copyright © 2023. 
+International Code Council, Inc. All rights reserved. Reproduced with permission. www.ICCSAFE.org . 
+1305.2.9 Fire alarm system 
+1305.2.10 Smoke control * * * * 
+1305.2.11 Means of egress * * * * 
+1305.2.12 Dead ends * * * * 
+1305.2.13 Maximum exit access 
+travel distance * * * * 
+1305.2.14 Elevator control 
+1305.2.15 Means of egress emer-
+gency lighting * * * * 
+1305.2.16 Mixed occupancies * * * * 
+1305.2.17 Automatic sprinklers ÷ 2 = 
+1305.2.18 Standpipes 
+1305.2.19 Incidental use 
+1305.2.20 Smoke 
+compartmentation 
+1305.2.21.1 Care recipients ability 
+for self-preservationa * * * * 
+1305.2.21.2 Care recipients 
+concentrationa * * * * 
+1305.2.21.3 Attendant-to-care 
+recipients ratioa * * * * 
+Building score–total value 
+* * * *No applicable value to be inserted. 
+a. Only applicable to Group I-2 occupancies. 
+TABLE 1306.1— SUMMARY SHEET— BUILDING CODETABLE 1306.1—SUMMARY SHEET—BUILDING CODE 
+14 
+
+chapters also apply. Chapter 3 provisions for historic build-
+ings only apply to accessibility. Additional historic building  
+provisions included in Appendix B, Supplementary Accessi-
+bility Requirements for Existing Buildings and Facilities, ap-
+ply when the appendix has been adopted by the jurisdiction.  
+Figure 13. Careful selection, design, and location of exit signs can 
+help preserve the historic character of signifcant historic spaces 
+while still meeting code requirements. Photo: Marilyn Kaplan 
+Although the Performance Compliance Method does not  
+include additional provisions for historic buildings, it can  
+and has been successfully applied to many historic building  
+projects. The Prescriptive Compliance Method includes spe -
+cial provisions for historic buildings related to life safety  
+hazards, food hazard areas, and structural requirements.  
+The Work Area Compliance Method contains the most pro -
+visions for historic buildings in its chapter titled, "Chapter  
+12: Historic Buildings." 
+Historic Buildings: Work Area Compliance Method . 
+"Chapter 12: Historic Buildings" is an overlay to the require-
+ments established for alterations and changes of occupan -
+cy in non-historic buildings. This chapter includes specifc  
+provisions and procedures that may allow many historic  
+features, materials, and conditions to remain.  
+Additional Codes and Standards  
+Impacting Historic Buildings 
+Some states and jurisdictions use other approaches to regu -
+late existing and historic buildings. The simplest of these  
+are amendments to the IEBC that address local conditions  
+or priorities. For example, among other amendments to  
+the IEBC, the Existing Building Code of Massachusetts mod -
+ifes the provisions for historic house museums to include  
+specifc requirements for maximum occupancy,  exiting,  
+and fre protection equipment.  
+The state of Ohio regulates existing buildings within its  
+Ohio Building Code . Many requirements parallel or match  
+those in the IEBC, including the Performance Compliance  
+Method, titled therein as Compliance Alternatives . For 
+historic buildings, the code only states that “The provision  
+of this code relating to the construction, repair, alteration,  
+addition, restoration and movement of buildings, and  
+change of occupancy shall not be mandatory for historic  
+buildings where such buildings are judged by the building  
+code offcial to not constitute a distinct life safety hazard.”   
+The state of California has maintained its State Historical  
+Building Code since 1975. Unique to this code is its author-
+ship by the State Historical Building Safety Board, which  
+is separate from the state’s code adoption process for the  
+California Building Code. While the California Building Code  
+serves as the base document, it is the Safety Board that de-
+termines if a particular alternative is “reasonably equiva-
+lent” to a requirement established by the California Build-
+ing Code. Having a single board responsible for all historic  
+building code-related activities—from writing the code to  
+hearing appeals—provides the framework to document and  
+ultimately codify commonly accepted alternative solutions.  
+The New Jersey Rehabilitation Subcode , developed in  
+parallel to the IEBC in the late 1990s, is unique in format,  
+designed to eliminate barriers, and be a stand-alone, user-
+friendly document. Noteworthy are the more expansive  
+and explicit allowances for historic house museums and its  
+establishment of the Secretary of the Interior’s Standards  
+for the Treatment of Historic Properties as the basis for us -
+ing the historic building provisions.  
+Since 2001, NFPA 914 Code for Fire Protection of Histor-
+ic Structures has been successfully used on some historic 
+building projects. This code uniquely establishes a deci-
+sion-making process that includes construction, equipment, 
+and operational approaches for fre prevention and secu-
+rity. NFPA 914 is identifed in the International Fire Code as 
+an alternate approach to developing a fre protection plan. 
+For existing buildings, the state of Vermont adopts only  
+the structural provisions of the IEBC; otherwise, it relies on 
+the provisions of "Chapter 43: Building Rehabilitation" of 
+NFPA 101. Vermont specifcally establishes NFPA 914 as the 
+code to be used for historic buildings. 
+ 
+ 
+Existing Buildings Not Undergoing 
+Improvement 
+With few exceptions, existing conditions are  grandfa-
+thered. Unless a repair, rehabilitation project, or addi -
+tion is planned, requirements of the International Exist -
+ing Building Code  (IEBC) are not applied retroactively.  
+Exceptions include retroactive provisions such as those  
+contained within the International Fire Code (IFC) and  
+International Property Maintenance Code (IPMC), which  
+establish minimum requirements for ongoing occupancy  
+including those related to maintenance of safety-relat -
+ed features. Additional minimum property standards for  
+housing are sometimes adopted by local ordinance.  
+  The International Energy Conservation 
+Code (IECC) and other Energy Provisions 
+The International Energy Conservation Code  (IECC) con-
+tains energy conservation measures for residential and  
+15 
+
+Topic Key Summary of Provision 
+GENERAL (1201) 
+Scope 101.1 R,A,C This section establishes that the intent of the chapter is the preservation of historic buildings, with specif-
+ic provisions for a documentation report, treatment of museums, and requirements for historic buildings  
+located in food hazard areas or determined to be unsafe. 
+Report 1201.2 R,A,C The requirement to submit a Report is determined by the building code offcial. The Report must iden-
+tify all unsafe conditions; provide a structural description and assessment of strengths or weaknesses for  
+buildings classifed as Seismic Design Category D, E or F; and describe building components with a level  
+of safety substantially below those required of existing nonhistoric buildings. It is not required for Level 1- 
+Alterations. Further guidance is provided in the Historic Building Code Report section of this Brief. 
+Special Occupancy  
+exceptions - 
+museums 1201.3 
+R,A,C Allows single family residences less than 3,000 square feet per foor and a maximum of 3 stories to be  
+used for museum tours and other public assembly activities to be classifed as a Group B occupancy,  
+as approved by the building code offcial. A Group B occupancy is less restrictive than an Assembly  
+occupancy and allows some fexibility in addressing life safety and egress conditions.  
+Flood Hazard  
+Areas 1201.4 
+R,A,C For work defned as a substantial improvement, food hazard requirements of the IBC and IRC do not  
+apply if the building will retain its historic status following work (note: unique defnition of ‘historic’ than  
+otherwise used in the IEBC). 
+Unsafe conditions  
+1201.5 
+R,A,C Limits the scope of required repairs to specifc conditions deemed unsafe by the building code offcial. 
+REPAIRS (1202) 
+General 1202.1 R Allows use of original or like materials and methods of construction, except for hazardous materials or  
+glass in hazardous areas.  
+ Replacement 
+1202.2 
+R Replacement of existing or missing features using original materials and matching the original confgura-
+tion, height and size are permitted. With the exception of permitted repair of glass block walls, louvered  
+windows and jalousies, replacement glazing in hazardous locations must meet the requirements of the IBC. 
+FIRE SAFETY  (1203)           Provides alternate treatment of elements ranging from means of egress to exit signs for alterations and change of oc-
+ cupancy. However, if the building code offcial determines that a distinct fre hazard exists, an automatic fre sprinkler 
+system may be required. 
+ General (Fire 
+Suppression) 
+1203.2 
+A,C Buildings that do not conform to the construction requirements of the IEBC and that are determined to  
+constitute a distinct fre hazard must have an automatic sprinkler system as determined appropriate by  
+the code offcial. The sprinkler system may be considered an acceptable alternative to code requirements  
+except for the required number of exits. 
+Means of Egress  
+1203.3 
+A,C Existing door openings and corridor and stairway widths may be approved when the code offcial deter-
+ mines these to have suffcient width and height for passage. 
+The existing swing of front or main exit doors can remain if suffcient egress exists at other locations, as  
+ approved by the code offcial. 
+Transoms  
+1203.4 
+A,C In Group R-1, R-2, and R-3 sprinklered occupancies, transoms in corridors and other fre-resistance rated walls  
+may be maintained if fxed in the closed position and a sprinkler is installed on each side of the transom.  
+Interior Finishes  
+1203.5 
+A,C Existing fnishes demonstrated to be historic are permitted to be retained. 
+Stairway   
+Enclosure 1203.6 
+A,C In buildings of 3 stories or less, a fre-resistant rating of the exit enclosure is not required if the use of  
+tight-ftting doors and solid elements limit the spread of smoke.  
+One-hour fre-re -
+sistant Assemblies  
+1203.7 
+A,C  Existing wall and ceiling fnishes of wood or metal lath and plaster are not required to achieve a 1-hour 
+fre-resistant rating.  
+Glazing in fre-
+resistance  
+Rated Systems  
+1203.8 
+A,C Historic glazing materials can remain in interior walls without achieving a 1-hour fre-resistant rating if  
+the opening has approved smoke seals and the affected area has an automatic sprinkler system. 
+Stairway Railings  
+1203.9 
+A,C Grand stairways are not required to meet handrail and guard requirements.  
+At all stairways, existing handrails and guards can remain provided they are not structurally dangerous.  
+Guards  
+1203.10 
+A,C Existing guards can be repaired to maintain the level of protection provided by the means of egress. 
+Spacing between existing intermediate railings or openings with ornamental patterns can remain.  
+Missing historic elements or members can be replaced in kind.  
+Exit Signs  
+1203.11 
+A,C Alternative exit signs identifying exits and egress path that avoid damage to historic character are  
+permitted, as approved by the code offcial. 
+Historic Building Provisions of the IEBC Work Area Method 
+R =Repair, A =Alteration, C =Change of Occupancy 
+16 
+
+Topic Key Summary of Provision 
+ Automatic 
+ sprinkler systems 
+1203.12  
+A,C Buildings that do not conform to the construction requirements of the IBC and determined to constitute  
+ a distinct fre hazard shall be accepted if provided with an approved automatic sprinkler system, or an 
+alternative life-safety system approved by the code offcial.  
+CHANGE OF OCCUPANCY (1204) 
+ Building Area 
+1204.2 
+C Allowable foor area established in the IBC can be exceeded by 20%. 
+Location on   
+Property   
+1204.3 
+C When there is an increase to a higher hazard category for Exposure of Exterior Walls, alternative meth-
+ ods to achieve the fre-resistance and exterior opening protective requirements are permitted. These 
+may require completion of a Historic Building Report per 1201.2.  
+ Occupancy  
+Separation 1204.4 
+C A required fre separation of 1 hour is not required if the building has an approved automatic sprinkler  
+system throughout. 
+ Roof Covering 
+1204.5  
+C  Roof-covering materials with no less than a Class C rating (ASTM E108, UL 790) are permitted in lieu of a 
+ fre-retardant roof covering. 
+Means of Egress  
+1204.6 
+C  Existing door openings and corridor and stair widths can remain providing there is suffcient width 
+and height for passage, the capacity of the exit system is adequate for the occupant load, or where  
+operational controls to limit occupancy are approved by the code offcial. 
+Door Swing  
+1204.7 
+C Existing swing of front doors can remain if other approved exits have suffcient capacity to serve the  
+total occupant load, as approved by the code offcial. 
+ Transoms 
+1204.8 
+C Existing transoms in corridor walls required to have a fre-resistance rating can remain if fxed in a closed  
+position with fxed wire glass or other approved glazing installed on one side of the transom, or if in  
+compliance with 1203.4. 
+ Interior Finishes 
+1204.9 
+C In lieu of compliance with the fre test requirements of the IBC, non-conforming materials can remain if  
+ surfaced with an approved fre-retardant coating that achieves the required classifcation. Testing of the 
+ fre-retardant coating is required. 
+This coating is not required if the building has an automatic sprinkler system throughout and the non-
+conforming materials are historic. 
+One-hour  
+ Fire-resistant  
+Assemblies 1204.10 
+C Existing wall and ceiling fnishes of wood lath or plaster are not required to achieve a   
+1-hour fre-resistant rating. 
+Stairways and  
+Guards 1204.11 
+C Alternatives for stairways and guards that meet the requirements of 1203 shall be accepted provided 
+these are acceptable or judged to meet the intent of the code by the code offcial. 
+Existing conditions at all stairways and guards are permitted to remain for buildings less than 3,000 
+ square feet. 
+ Exit Signs 
+1204.12 
+C Alternative exit sign locations identifying exits and exit path that avoid damage to historic character are  
+permitted, as accepted by the code offcial.  
+ Exit Stair Live Load 
+1204.13 
+C  Historic stairways in buildings changed to a Group R-1 or R-2 occupancy can remain if demonstrated to 
+be capable of supporting a 75-psf live load.  
+ Natural Light 
+1204.14 
+C The existing level of natural lighting can remain if compliance with natural light requirements would lead  
+to a loss of historic character or materials.  
+STRUCTURAL (1205)           Modifes the structural requirements established in other chapters. Authorizes the building code offcial to accept exist -
+ing and previously approved live and roof live loads and limits the extent of repair required when substantial structural  
+damage has occurred. 
+Structural  
+1205.1 
+R,A,C Existing foor structure previously approved live loads and roof live loads can be accepted by the code of-
+fcial, including operational controls limiting live load or roof live load.  
+ Regardless of the level of damage, structural repairs to return a building to its pre-damaged condition 
+are permitted without additional work.  
+ Dangerous  
+Conditions 1205.2 
+ Conditions determined dangerous by the code offcial are not required to be remedied beyond what is 
+required to address the dangerous condition. 
+RELOCATED BUILDINGS (1206.1) 
+ Relocated  
+Buildings 1206.1 
+R,A,C Allows relocated buildings to use the historic building provisions, provided that new foundations and ex-
+terior wall and opening requirements comply with the IBC or the IEBC. The building must also retain its  
+historic designation. 
+Figure 14. References to the IBC require compliance with provisions for new construction included in that code. “Section 1203 Fire Safety” 
+heading includes provisions for Alterations and Changes of Occupancy. “Section 1204 Change of Occupancy” provisions are applicable only  
+to projects defned as a Change of Occupancy. For the complete text of noted provisions, refer to the current edition of the IEBC, as adopted 
+by the jurisdiction. 
+17 
+
+non-residential buildings. For smaller residential buildings,  
+the IECC’s provisions are repeated within the International  
+Residential Code  (IRC). While the IECC is one of the most  
+widely-used energy codes, the state of California’s 2022  
+Building Energy Effciency Standards and ANSI/ASHRAE/IES  
+Standard 90.1 Energy Standard for Buildings Except Low-
+Rise Residential Buildings (Standard 90.1) establish alter -
+nate performance standards and design approaches. 
+Figure 15. Small and mid-size house museums are provided special treatment in the IEBC, provided that adequate exiting is available. Given 
+the level of careful oversight of these buildings, house museums can be great candidates to use the alternate approaches contained in NFPA 914. 
+Photo: Marilyn Kaplan 
+In response to Federal and state policy and mandates,  
+recent editions of the widely adopted IECC have expanded  
+in scope and requirements. Some jurisdictions have also  
+adopted rating systems, building performance standards,  
+and codes such as the International Green Construction  
+Code  (IgCC) or ASHRAE Standard 189.1—Standard for the  
+Design of High-Performance Green Buildings to increase a  
+building’s energy and environmental performance beyond  
+the minimum established by the IECC. Less common are  
+local or state ‘stretch’ or ‘reach’ codes, such as the state of  
+Massachusetts’  Stretch Code, enacted in 2009 to establish  
+energy performance requirements exceeding those of the  
+state’s base building energy code. 
+The IECC is one of the more complex of the model codes.  
+It contains three compliance path options: prescriptive,  
+modeling, or compliance with Standard 90.1. Modeling,  
+using the IECC’s Section C407 or the two modeling paths  
+in Standard 90.1, is most often undertaken for complex  
+buildings or those with additional sustainability goals.  
+Nationwide, using the prescriptive path is the most  
+common approach.  
+The IECC specifes energy effciency measures based on a  
+project’s categorization as a repair, alteration, change of  
+occupancy, or addition. Like the stepped approach of the  
+Work Area Compliance Method of the IEBC, the improve -
+ments imposed by IECC are proportionate to the scope  
+of owner-elective work. All existing buildings are grant -
+ed certain exceptions from the IECC, including allowing  
+storm windows or window-flm to be installed over single-
+glazed windows, and minimal or no insulation when wall,  
+ceiling, or roof cavities are not exposed.  
+Prior to 2015, the IECC exempted historic buildings.  
+The IECC now requires the submission of a report to  
+document when energy effciency measures would  
+“threaten, degrade, or destroy the historic form, fabric, or  
+function” of the historic building. This documentation  
+is similar to the report identifed for historic buildings  
+in the IEBC, although in the IEBC it is only mandatory  
+18 
+
+Figure 16. Summary of provisions for historic buildings in the fre and energy codes. 
+INTERNATIONAL ENERGY CONSERVATION CODE 
+Residential buildings  
+(all existing buildings) 
+Residential buildings  
+(historic buildings) 
+Commercial buildings  
+(all existing buildings) 
+ Commercial buildings 
+(historic buildings) 
+(R503.1.1) For work to all existing buildings (except repairs or additions), if energy use of the building is  
+not increased, the following is permitted: 
+• Storm windows installed over existing fenestration.  
+• I nsulation at ceiling, wall, or foor cavities exposed during construction limited to  
+flling cavity with insulation. 
+• N o insulation required if existing roof, wall, or foor cavity is not exposed during  
+construction. 
+• N o insulation required if project is limited to roof replacement. 
+• I nsulation limited to above or below sheathing where reroofng exposes sheathing  
+or insulation. 
+Installation of surface-applied window flm (to reduce solar heat gain) on existing single pane fenes -
+tration that is permitted to be retained. 
+(R501.6) Compliance is not required if the Historic Building Report submitted demonstrates that com-
+pliance would threaten, degrade, or destroy the historic form, fabric, or function of the building. Re-
+port must be signed by owner, design professional, a representative of the State Historic Preservation 
+Offce, or the historic preservation authority having jurisdiction. 
+(C503.1.1) For work to all existing buildings (except repairs or additions), if energy use of the building is 
+not increased, following is permitted: 
+• Storm windows installed over existing fenestration. 
+•  Installation of surface-applied window flm (to reduce solar heat gain) on existing single 
+pane fenestration that is permitted to be retained. 
+• I nsulation at ceiling, wall, or foor cavities exposed during construction limited to flling 
+cavity with insulation. 
+• N o work if existing roof, wall, or foor cavity is not exposed during construction. 
+• N o work for projects limited to roof recover. 
+Air barriers not required for roof recover and roof replacement if project excludes other work at 
+building envelope.  
+(C501.6) Compliance is not required if the historic building Report submitted demonstrates that 
+compliance would threaten, degrade, or destroy the historic form, fabric, or function of the historic 
+building. Report must be signed by design professional, a representative of State Historic Preservation 
+Offce, or the historic preservation authority having jurisdiction. 
+INTERNATIONAL FIRE CODE 
+All buildings (S102.6) Establishes that compliance is not mandatory where buildings do not constitute a distinct 
+hazard to life or property, providing that a fre protection plan per S1103 has been developed. 
+Construction project (S1103.1.1) Fire safety requirements including equipment and construction are not required for 
+historic buildings with a fre protection plan developed in accordance with NFPA 914, provided 
+that fre safety and evacuation plans are maintained and available. 
+Ongoing use / retroactive (S1032) Requirements for maintenance of the means of egress system for historic and existing build-
+ings; no other provisions for historic buildings. 
+if required by the code offcial to document that  
+compliance with other (non-historic) provisions “would  
+be damaging to the contributing historic features.” In  
+some jurisdictions, the local or state historic preservation  
+offce may be asked to document which historic features  
+would be adversely affected by proposed energy  
+effciency measures. The Secretary of the Interior’s  
+Standards for Rehabilitation & Illustrated Guidelines on  
+Sustainability for Rehabilitating Historic Buildings (2017)  
+and Preservation Brief 3: Improving Energy Effciency  
+in Historic Buildings  provide guidance on how to  
+make historic buildings more sustainable and energy-
+effcient while preserving their historic character and  
+features. With careful planning and execution, many  
+historic rehabilitation projects can achieve higher  
+levels of energy performance than those strictly  
+required by code. 
+Provisions for Historic and Existing Buildings in the International Energy  
+Conservation and Fire Codes 
+19 
+
+The Americans with Disabilities Act (ADA) 
+and Accessibility Codes 
+The Americans with Disabilities Act (ADA), a Federal civil 
+rights law prohibiting discrimination against individuals 
+with disabilities, became law in 1990. State and local gov-
+ernments are governed by Title II of the Act, while Title III 
+governs public accommodations in privately-owned, leased, 
+or operated hotels, restaurants, retail spaces, doctor’s of-
+fces, movie theaters, etc. 
+Owners of places of public accommodation are responsible 
+for ‘readily achievable’ barrier removal, with priorities es-
+tablished in the following order: 
+1. A ccess into the place of public  accommodation  
+from public sidewalks, parking, or public  
+transportation. 
+2. Access to areas where goods and services are  
+available to the public. 
+3. Access to restroom facilities. 
+4. Access to the goods, services, facilities, privileges,  
+advantages, or accommodations of a place of  
+public accommodation. 
+Barrier removals at buildings includes items such as the  
+installation of ramps, widening of doorways, rearranging  
+shelves and furniture, and accessible door hardware.  
+As defned in the Act, ‘readily achievable’ means easily ac -
+complishable and able to be carried out without much dif -
+fculty or expense, as determined by factors such as:  
+1. The nature and cost of the action needed, 
+2. The overall fnancial resources of the site or sites  
+involved in the action; the number of persons  
+employed at the site; the effect on expenses and  
+resources; legitimate safety requirements that  
+are necessary for safe operation, including crime  
+prevention measures; or the impact otherwise of  
+the action upon the operation of the site, 
+3. The geographic separateness, and the  
+administrative or fscal relationship of the site  
+or sites in question to any parent corporation or  
+entity, 
+4. If applicable, the overall fnancial resources of  
+any parent corporation or entity; the overall size  
+of the parent corporation or entity with respect  
+to the number of its employees; the number,  
+type, and location of its facilities, and 
+5. If applicable, the type of operation or  
+operations of any parent corporation or  
+entity, including the composition, structure,  
+and functions of the workforce of the parent  
+corporation or entity. 
+Title III (Public Accommodations) of the ADA has no  
+retroactive construction requirements. When work  
+on an existing building occurs, however, 20% of the  
+expenditures must be spent over a three-year period  
+to provide an accessible path of travel. Once the 20%  
+threshold has been reached, no additional funds need be  
+spent to improve the accessible path of travel. However,  
+future requirements for readily achievable barrier  
+removal are only eliminated once the building is 100%  
+accessible per new construction standards. 
+Efforts to coordinate the technical provisions of the ADA  
+with those of the IEBC and other model codes continue.  
+Given the often technical and practical diffculty of  
+making existing buildings fully accessible, both the ADA  
+and IEBC accept a lesser level of accessibility for existing  
+buildings when compared to new construction. In the  
+IEBC, the accessibility requirements are triggered when  
+construction associated with an alteration, change  
+of occupancy, or addition occurs. Also, accessibility  
+requirements are identical in all compliance paths, and  
+no accessibility requirements are triggered for projects  
+classifed as a repair, or for buildings undergoing a  
+change of occupancy classifcation if no construction  
+work is required or undertaken. However, ADA-
+established thresholds and requirements for removing  
+barriers in places of public accommodation still apply. 
+The ADA includes exceptions for existing buildings when  
+implementation would be  technically infeasible , i.e.,  
+unable to be accomplished without moving a major struc -
+tural element. For historic buildings, additional excep -
+tions for site arrival points, accessible routes, entrances,  
+and toilet facilities exist when compliance would threaten  
+or destroy the historic signifcance of the property.  
+Fire Codes 
+The IFC is typically used to establish a minimum level of  
+performance for building use and operations once con -
+struction is complete. Although there is overlap and co -
+ordination with the IBC and the IEBC, the IFC addresses a  
+wider range of topics such as handling or the use of haz -
+ardous materials, treatment of vacant premises, indoor  
+displays, ongoing maintenance of fre protection systems  
+and features, fre protection water supply, and fre appa -
+ratus access roads. 
+Enforcement of the IFC begins with the issuance of an oc-
+cupancy permit and is ongoing at a schedule set by the  
+jurisdiction. Some jurisdictions use the IFC without adop -
+tion of other construction codes, while most use the IFC  
+in conjunction with the IBC and/or NFPA 1 or NFPA 101.  
+Inconsistencies in procedures or requirements can occur  
+when the codes are not developed by the same organi -
+zation. Enforcement of the IFC is most often assigned to  
+the fre department, with potential overlap when the fre  
+safety aspects of the building code are enforced by the  
+building code offcial.  
+20 
+
+Figure 17. Metal ceilings 
+commonly present code 
+challenges when fre 
+separation is required 
+between diferent uses on 
+the frst and upper foors. 
+Acceptable code solutions  
+permitting retention may 
+include the application of  
+intumescent coatings, the  
+addition of a sprinkler 
+system, or the addition 
+of fre-rated material  
+above the ceiling, in which 
+case the original metal 
+ceilings can be salvaged 
+and reinstalled or, if not 
+possible, replaced with 
+matching new ceiling tiles. 
+Photo: Benton Henry 
+Although most requirements are not retroactive, some  
+jurisdictions may enforce provisions from the chapters  
+entitled "Fire Safety Requirements for Existing Buildings"  
+and "Means of Egress." One of the many informational  
+and optional appendices included in the IFC is the appen -
+dix High-Rise Buildings – Retroactive Automatic Sprinkler  
+Requirements . The IFC overlaps with the scope of codes  
+and standards published by the National Fire Protection  
+Association, many of whose documents are included as  
+reference standards in the IFC. 
+The administrative chapter, which may be modifed by  
+a jurisdiction, includes the following section on historic  
+buildings which refers the user back to NFPA 914:  “The  
+provisions of this code relating to the construction,  
+alteration, repair, enlargement, restoration, relocation or  
+moving of buildings or structures shall not be mandatory  
+for existing buildings or structures identifed and classifed  
+by the state or local jurisdiction as historic buildings  
+where such buildings or structures do not constitute  
+a distinct hazard to life or property. Fire protection in  
+designated historic buildings shall be provided with an  
+approved fre protection plan as required in Section  
+1103.1.1.”   
+ Coordination with the Secretary of the 
+Interior’s Standards for Rehabilitation 
+Of the ten standards of the Secretary of the Interior’s  
+Standards for Rehabilitation (36 CFR 68, issued 1995),  
+Standards 2, 5, and 6 generally have the most impact on  
+the use and application of building codes (the separate  
+sets of standards for the treatments Preservation,  
+Restoration, and Reconstruction have similar implications  
+in the application of codes):  
+Standard 2. The historic character of a property will  
+be retained and preserved. The removal of distinc -
+tive materials or alteration of features, spaces and  
+spatial relationships that characterize a property  
+will be avoided.  
+Standard 5. Distinctive materials, features, fnishes,  
+and construction techniques or examples of  
+craftsmanship that characterize a property will be  
+preserved.  
+Standard 6. Deteriorated historic features will be  
+repaired rather than replaced. Where the severity  
+of deterioration requires replacement of a distinc -
+tive feature, the new feature will match the old in  
+design, color, texture and, where possible, materials.  
+Replacement of missing features will be substanti -
+ated by documentary and physical evidence.  
+Additional guidance on code-required work and its  
+impact on historic building features, spaces, materials,  
+and fnishes is included as separate sections in the  
+Guidelines for Preserving, Rehabilitating, Restoring and  
+Reconstructing Historic Buildings  that accompany The 
+Secretary of the Interior’s Standards for the Treatment of  
+Historic Properties. 
+21 
+
+ 
+Best Practice: Balancing Historic Preservation and Code Compliance 
+Optimizing code solutions for historic  
+buildings requires coordination of the  
+owner’s program; code, architectural, and  
+engineering requirements; and historic  
+preservation goals. The following steps are  
+recommended:  
+Step 1: Establish a Qualifed Project Team  
+Step 2: I dentify Historic Signifcance and  
+Character-Defning Features 
+Step 3: I ntegrate Preservation Goals into   
+Project Planning  
+Step 4:  Select Optimal Code Compliance Path  
+St
+ep 5:  Coordinate with Building Code,   
+F
+ire Code, and Historic Preservation   
+Offcials  
+ 
+St
+ep 6:  Adjust and Present Final Submission  
+   Step 1: Establish a Qualifed 
+Project Team 
+The project team should be led by design 
+professionals experienced in the planning of 
+historic preservation projects and may include 
+a historic preservation or code consultant. 
+The team’s familiarity and/or research on 
+acceptable preservation practices, emerging 
+materials and technologies, and innovative so-
+lutions can minimize identifed conficts. Early 
+introduction of the full team to the project, 
+ideally starting with the development of con-
+cept drawings and preliminary identifcation 
+of character-defning features, provides the 
+greatest likelihood that preservation-related  
+concerns will be successfully integrated into 
+the planning process and considered by all 
+team members. 
+The team should work closely with the build-
+ing and fre code offcials to confrm appli-
+cable codes and ordinances, procedures, and 
+special concerns of the jurisdiction, to learn 
+of successful solutions from relevant projects, 
+and determine whether additional require-
+ments, including a Historic Building Report, 
+would be required to support alternative 
+solutions. The IFC deserves special attention 
+as the requirements can be differently inter-
+preted and enforced by the fre and building 
+departments.  
+ Step 2: Identify Historic Signifcance and 
+Character-Defning Features 
+Evaluation of  the historic signifcance of the 
+property and identifcation of its character-
+defning features should be undertaken by 
+a qualifed design professional or historic 
+preservation consultant. These features may 
+be identifed in documentation used for the 
+historic designation, in a Historic Structure Re-
+port if one has been prepared, or in a build-
+ing survey undertaken as part of the project 
+planning. The National Park Service’s Preser-
+vation Brief 17: Architectural Character—Iden-
+tifying the Visual Aspects of Historic Buildings 
+as an Aid to Preserving their Character and 
+Preservation Brief 18: Rehabilitating Interiors 
+in Historic Buildings: Identifying and Preserv-
+ing Character-Defning Elements  and other 
+Preservation Briefs and guidance on building 
+interiors can assist in the identifcation and 
+treatment of character-defning features. Lo -
+cal and state preservation offcials can also be 
+of assistance. Conficts between code require -
+ments and historic preservation goals can 
+best be resolved by early identifcation and 
+consideration in the project’s early design and 
+planning stages. 
+Step 3: Integrate Preservation Goals into 
+Project Planning 
+Planning and detailing code-related work 
+must strive to protect a building’s historic 
+character, by  avoiding or minimizing altera-
+tions of signifcant historic spaces, architec -
+tural features, and materials. The appropriate 
+treatment of historic buildings is guided by 
+22 
+
+the  S
+ecretary of the Interior’s Standards for  
+Rehabilitation, w hich are widely used and  
+adopted at the Federal, state, and local levels.  
+Many jurisdictions have adopted alternate  
+language based on the Standards.  
+Design and treatment decisions should be  
+made on a case-by-case basis in consideration  
+of the relative importance of the building’s  
+historic character-defning features, including  
+previous alterations that have acquired  
+historic signifcance. Existing conditions  
+must also be evaluated and documented,  
+anticipating that certain conditions may  
+only be discovered during construction.  
+This requires adequate research from the  
+project team at the onset of the project so  
+that design and system options that meet  
+the  Standards can be explored. Some   
+solutions may also require custom details  
+or materials. Achieving a design that meets  
+the Standards and complies with applicable  
+codes requires fexibility, as multiple iterations  
+and/or refnements may be necessary before  
+arriving at the fnal design.  
+ Step 4: Select Optimal Code Compliance 
+P
+ath and Alternatives 
+Experienced design professionals and building 
+c
+ode offcials may be able to anticipate the 
+compliance method most appropriate to a 
+particular project. For example, the IEBC’s 
+Performance Compliance Method can work 
+well on “Main Street” projects involving 
+older, small-scale commercial buildings, while 
+the law-in-existence path may be suitable to 
+more recently constructed historic buildings. 
+The Work Area Compliance Method allows 
+the retention of features such as historic 
+transoms, interior fnishes, stairway railings, 
+windows, doors, and glazing, although in 
+some cases a sprinkler system may be required. 
+Given that each project is unique relative 
+to its construction, occupancy classifcation, 
+program, condition, and extent of character-
+defning features present, evaluating multiple 
+compliance paths may be necessary to fnd the 
+optimal solution. 
+The Work Area Compliance Method is the 
+only path that may require a Historic Building 
+Report. This report, or a preservation offcial’s 
+written confrmation of historic designation 
+or identifcation of character-defning fea -
+tures, can also serve as supporting documen-
+tation regardless of compliance path. 
+Step 5: Coordinate with Building 
+Code, Fire Code, and Historic 
+Preservation Offcials 
+Once character-defning features and confict-
+ing code requirements have been identifed, 
+coordination should begin with building code 
+and historic preservation offcials. A prelimi-
+nary meeting attended by both parties will 
+allow early discussions of any specifc project 
+concerns, including identifcation of successful 
+solutions from similar projects, direction for 
+further investigations, and clarity on where 
+code fexibility may be possible. In some cases, 
+the initial meeting may determine that in-
+put from a higher-ranking code offcial or a 
+waiver or variance will be required. 
+Coordinating review and approvals on time-
+sensitive projects can be an additional chal-
+lenge when reviews by different departments 
+are required for various code compliance 
+issues such as fre and building for construc-
+tion-related matters, in addition to planning 
+and zoning approvals required for historic 
+preservation or design review. 
+Step 6: Adjust and Present Final 
+Submission. 
+Submission requirements vary widely by agen-
+cy and jurisdiction. In addition to providing all 
+required and requested information, the fnal 
+submission to the building code offcial must 
+clearly document all aspects of the project, 
+including where alternates and equivalencies 
+are presented. A supplemental report based 
+on the format and content of the report speci-
+fed in the Work Area Compliance Method 
+can be a useful supplement to the mate
+rials 
+submitted to the building code offcial. 
+23 
+
+ Historic Building Code Report 
+Figure 18. The 
+building code 
+review for this 
+mixed-use building 
+in Monroe, WI, in-
+cluded a compari -
+son of requirements 
+established by 
+application of the 
+three compliance 
+Methods of the 
+IEBC. In lieu of a 
+sprinkler system,  
+the Performance 
+Compliance Meth -
+od permitted the 
+use of other fre and 
+life safety features.  
+Photo: Chris Rute 
+When using the Historic Building chapter as part of the  
+Work Area Compliance Method of the IEBC, the building  
+code offcial may require the submission of a Historic Build -
+ing Code Report to document the basis for acceptance of  
+alternatives.  
+For projects where other compliance paths do not allow 
+character-defning features to be retained, the Report can 
+be used to “demonstrate how the intent of these provi-
+sions is complied with in providing an equivalent level of 
+safety.” To establish equivalency, the frst administrative 
+chapter of the IEBC, and most jurisdictional codes based 
+on the IEBC, includes a section titled "Alternative materi-
+als, design and methods of construction, and equipment,"  
+similar to the text included in the IECC and IRC.  
+The building code offcial may request supporting research, 
+such as test reports from approved sources, or other tests 
+to establish equivalency. For items related to fre-resis-
+tance, Resource A of the IEBC, Guidelines on Fire Ratings of 
+Archaic Materials and Assemblies , is an invaluable tool for 
+establishing fre-resistance ratings of older materials and 
+systems not typically found in the modern codes. 
+The requirement for the Report and confrmation of the re -
+quired content should be reviewed with the building code  
+offcial in advance. In the IEBC, the Report is prepared by a  
+design professional and may include the following compo-
+nents, as required in previous editions of the IEBC. 
+1.   Identifcation of the specifc provisions of the Historic 
+Buildings chapter applicable to the proposed work.  
+2.  Discussion of how compliance with provisions of other 
+IEBC chapters would damage character-defning 
+features. 
+3. For buildings of Seismic Design Category D, E, F, a 
+structural evaluation and identifcation of any 
+strengths or weaknesses of vertical and horizontal 
+elements of the lateral force-resisting system is 
+required. 
+4. For character-defning features unable to be preserved 
+using the Historic Buildings chapter, alternative 
+solutions providing equivalent levels of safety can 
+be presented following the code’s administrative 
+requirements of Chapter 1, which may differ 
+depending on jurisdiction. 
+The content of the Report can be included in the code 
+analysis that establishes a project’s existing conditions 
+and design parameters. Incorporating the Report in the 
+construction drawings increases the likelihood of future 
+discovery as part of a project’s permanent record and 
+communicates the project’s historic preservation goals to 
+the contractor and trades undertaking the work. A sample 
+format for the Report is shown in Figure 19. 
+In the 2024 edition of the IEBC, the code offcial cannot 
+require a Report for Level 1 alterations unless the 
+proposed work makes the building less compliant with the 
+provisions of the IBC. Where a Report is required by the 
+code offcial, it must document unsafe conditions, address 
+the structural components per Number 3 above, and 
+describe any components of the building providing a level 
+of safety below that of existing nonhistoric buildings. 
+24 
+
+Historic Building Report Format  
+TITLE SUMMARY 
+1 Code Analysis Identifcation of applicable codes and selected code compliance 
+method, construction, and occupancy classifcations; building 
+description (size, height, construction materials, etc.); and 
+ additional key code requirements. 
+2 Summary of Chapter 3 Requirements Identifcation of applicable requirements associated with 
+structural design, accessibility, smoke alarms and carbon 
+ monoxide detection, and exterior wall coverings. 
+2 
+Code Conficts with the Secretary of the Interior’s 
+ Standards for the Treatment of Historic Properties 
+ (or Standards for Rehabilitation or other applicable 
+ or adopted historic preservation standards) 
+Identifcation of specifc code provisions damaging to 
+character-defning features (termed “contributing features” 
+in the IEBC). 
+3 Conficts resolved by Historic Building Provisions of the 
+IEBC (Work Area Compliance Method only) 
+Identifcation of features compliant with Historic  
+ Building Provisions. 
+4 Seismic Evaluation  As required by Chapter 3 and modifed by selected 
+compliance path.  
+5 Conficts Unresolved by Historic Building Provisions Proposed Modifcations, Alternatives, and Equivalencies, 
+ following requirements of Chapter 1. 
+6  Photographs Overall and close-up views as required to depict  
+character-defning features.  
+7 Existing and Proposed Drawings  Floor plans and/or elevations, depending on the scope of  
+ project. Information, and seal of design professional as  
+required by jurisdiction. 
+Figure 19. Sample report format (IEBC, Chapter 12). 
+Modifcations, Alternatives, and Equivalencies 
+Code Section Text 
+IEBC 104.23 The provisions of this code are not intended to prevent the installation of any material or to 
+prohibit any design or method of construction not specifcally prescribed by this code, provided 
+that any such alternative is not specifcally prohibited by this code and has been approved. 
+Exception: Performance-based alternative materials, designs or methods of construction and 
+equipment complying with the ICC Performance Code. This exception shall not apply to alternative 
+structural materials or to alternative structural designs. 
+Alternative materials, 
+design and methods 
+of construction, and 
+equipment 
+IEBC 104.2.3.4 An alternative material, design or method of construction shall, for the purpose intended, be 
+not less than the equivalent of that prescribed in the code with respect to all of the following, 
+as applicable: 1. Quality.  2. Strength  3. Effectiveness.  4. Durability.  5. Safety, other than fre 
+safety. 6. Fire safety. 
+Equivalency criteria 
+IEBC 104.24 Where there are practical diffculties involved in carrying out the provisions of this code, the code 
+offcial shall have the authority to grant modifcations for individual cases, provided that the code 
+offcial shall frst fnd that one or more special individual reasons makes the strict letter of this code 
+impractical, and that the modifcation is in compliance with the intent and purpose of this code 
+and that such modifcation does not lessen health, accessibility, life and fre safety, or structural 
+requirements. The details of the written request for and action granting modifcations shall be 
+recorded and entered in the fles of the Department of Building Safety.  
+Modifcations 
+Figure 20. Alternate solutions accepted by the building code ofcial as meeting the intent of the code are permitted in all codes to allow the use of 
+new technologies and non-specifed materials or designs. 
+25 
+
+Figure 21. The photograph on the right illustrates partial deployment of vertical fre curtains activated as part of a fre alarm and 
+detection system. In this installation, a combination of fxed glazing and smoke curtains to separate the open corridors from the 
+multi-story atrium permitted the stunning historic atrium space to remain largely unaltered and the corridors to be included in the 
+building’s egress calculations in meeting code requirements. Photo: Higgins Quasebarth & Partners, LLC 
+Summary 
+Successful application of code requirements in a  
+manner that is sympathetic to historic buildings and  
+their character-defning features, spaces, materials, and  
+fnishes is essential for their long-term preservation  
+and viability. Historic buildings must respond to current  
+performance requirements for accessibility, fre and  
+structural safety, and energy conservation, as well as  
+emerging requirements addressing protection from  
+natural disasters and resilience.  
+The last two decades have brought tremendous  
+advancements in how the model codes address  
+historic buildings. Unique codes, special code  
+provisions, and new compliance paths are now  
+available, although updates and refnements will  
+continue. Future editions of the construction and  
+fre prevention codes may result in easier application  
+to the single historic building project, although  
+such advancements are unlikely to reach the ease  
+of navigating codes for new construction. Instead,  
+achieving success in the interplay of historic  
+26 
+
+preservation and health and public safety goals will  
+always rely on the collaborative application of experience,  
+knowledge, and creativity of the project team working  
+with the building and fre code offcials.  
+Glossary 
+Addition (IEBC) . “An extension or increase in foor area  
+or height of a building or structure.” 
+Alteration (IEBC). “Any construction or renovation to an 
+existing structure other than a repair or addition.” 
+Appeal. A process by which the decision of the building 
+code offcial can be presented to higher-ranking staff or 
+an independent body for review and possible reversal or 
+modifcation. 
+Approved (IEBC). “Acceptable to the code offcial.” 
+Authority Having Jurisdiction.  Se e building code  
+offcial.  
+Building Code. A document establishing the minimum 
+standards for construction materials and methods that are 
+permitted for construction. 
+Building Code Offcial . The governmental unit, agency 
+offcer, or other designated authority responsible for code 
+administration and enforcement. Alternate terms can be 
+“building offcial,” “code offcial,” “code enforcement off -
+cial,” and “authority having jurisdiction.” 
+Building Permit . Document issued by the jurisdiction  
+certifying a proposed project’s compliance with applicable  
+codes and other laws. 
+Certifcate of Completion . Document issued by design  
+professional or other inspector attesting that a project  
+has been executed and accepted as being constructed in  
+accordance with all requirements. 
+Certifcate of Occupancy . Document issued by the  
+jurisdiction certifying a building’s compliance with  
+applicable codes and other laws, indicating it to be in a  
+condition suitable for occupancy. 
+Change of Occupancy . A change from one specifc  
+occupancy classifcation to another occupancy  
+classifcation. A change of use is a change within one  
+occupancy classifcation.  
+Character-Defning Features . The historic features and  
+defning characteristics of a historic building that are il -
+lustrative of a type, period, and/or style of architecture  
+and establish the building’s historic and visual character.  
+Historic building rehabilitations should not change, ob -
+scure, damage or destroy distinctive materials, features,  
+spaces, or spatial relationships. See the National Park  
+Service’s  Preservation Brief 17: Architectural Character:  
+Identifying the Visual Aspects of Historic Buildings as an  
+Aid to Preserving their Character and Preservation Brief  
+18: Rehabilitating Interiors in Historic Buildings: Identi -
+fying and Preserving Character-Defning Elements and 
+other guidance for more information. 
+Compartmentation . Division of a building into  
+compartments for fre risk management to contain a  
+fre within a specifc section of a building and limit the  
+passage of fames and smoke. A compartment is defned  
+by its fre-resistant materials including fre doors and  
+other barriers. 
+Construction Classifcation . The code’s classifcation  
+of a building or space based on the fre-resistance  
+ratings of the construction elements, used to establish  
+minimum construction requirements. For fre safety,  
+buildings are classifed from least safe, such as  
+constructed with dimensional wood framing, to the  
+safest, i.e., concrete construction.  
+Construction Documents . Written and graphic  
+documentation describing the design, location, and  
+physical characteristics of a project’s elements necessary  
+to guide construction and obtain a building permit.  
+De Minimis. A legal term for slight variations or  
+tolerances from a requirement with no meaningful  
+impact on performance.  
+Design Professional . An individual, including an  
+architect or engineer, who is registered or licensed   
+to practice their respective design profession as defned  
+by the professional registration laws of a state or  
+jurisdiction.  
+Distinct Fire Hazard . A condition that diminishes the  
+level of fre safety, life safety, or property protection of  
+a structure to an unacceptable level as deemed by the  
+local code or fre offcial.  
+Egress. The path an occupant follows to leave a  
+building or room. See means of egress. 
+Equivalent or Equivalency . Alternate materials,  
+equipment, or devices to those specifed in a particular  
+code that will meet its established performance  
+standards. 
+Existing Building (IEBC) . “A building erected prior to  
+the date of adoption of the appropriate code or one for  
+which a legal building permit has been issued.” 
+27 
+
+Existing Structure . For application of provisions in food  
+hazard areas, a building or structure for which the start  
+of construction commenced before the effective date  
+of the community's frst food plain management code,  
+ordinance, or standard. 
+Exit. Components of a means of egress between exit  
+access and exit discharge, including exterior exit doors  
+at the level of exit discharge, interior exit stairway and  
+ramps, exit passageways, exterior exit stairways and  
+ramps, and horizontal exits. 
+Fire Alarm System (ICC) . “A system or portion of a  
+combination system consisting of components and circuits  
+arranged to monitor and annunciate the status of fre  
+alarm or supervisory signal-initiating devices and to  
+initiate the appropriate response to those signals.” 
+Fire Code. A document establishing the minimum  
+standards for fre safety for construction, rehabilitation,  
+and ongoing operations. 
+Fire Code Offcial . The governmental unit, agency  
+offcer, or other designated authority responsible  
+for administration and enforcement of the fre code.  
+Alternate term to “fre prevention code offcial” and  
+“authority having jurisdiction.”  
+Fire Protection System (ICC) . “Approved devices,  
+equipment and systems or combinations of systems used  
+to detect a fre, activate an alarm, extinguish or control  
+a fre, control or manage smoke and products of a fre or  
+any combination thereof.”  
+Fire-Resistance Rating (ICC) . “The period of time a  
+building element, component, or assembly maintains  
+the ability to confne a fre, continues to perform a given  
+structural function, or both, as determined by the tests, or  
+the methods based on tests, prescribed in Section 703.” 
+Fire Suppression System . An automatic system used 
+to extinguish, control, or prevent a fre from occurring 
+or spreading. The system includes a method of early 
+detection of a fre through heat, smoke, and other 
+warning signals, a supply of water or other substance 
+that is discharged through an integrated system of 
+piping, and additional operating equipment. While 
+water-based systems are most common, including water 
+mist systems that use water droplets and require a 
+separate pressure source, systems may also use gaseous 
+or chemical agents. Most standards for the many types 
+of systems available are published by the National Fire 
+Protection Association. 
+Flood Hazard Areas (IEBC) . “The greater of the 
+following two areas: 
+1. T he area within a food plain subject to a 
+1-percent or greater chance of fooding in  
+any year. 
+2.  The a rea designated as a food hazard area on 
+a community’s food hazard map, or otherwise 
+legally designated.” 
+Gr
+andfathered. A code provision in which existing 
+conditions are permitted to remain and are not required 
+to meet current code. 
+Higher Hazard Seismic Area . Based on maps by U.S. 
+Geological Survey or others, areas that are more likely 
+prone to earthquake hazards. 
+Historic Building (IEBC). “Any building or structure that 
+is one or more of the following: 
+1. Listed, or certifed as eligible for listing, by the 
+State Historic Preservation Offcer or the Keeper 
+of the National Register of Historic Places, in the 
+National Register of Historic Places. 
+2. Designated as historic under an applicable state 
+or local law. 
+3. Certifed as a contributing resource within a 
+National Register, state designated, or locally 
+designated historic district.” 
+Historic Building Code Report . See Report. 
+Intumescent Fire-Resistant Coatings (ICC) . “Thin flm 
+liquid mixture applied to substrates by brush, roller, spray, 
+or trowel which expands into a protective foamed layer to 
+provide fre-resistant protection of the substrates when 
+exposed to fame or intense heat.” 
+Live Load (ICC). “A load produced by the use and 
+occupancy of the building or other structure that does not 
+include construction or environmental loads such as wind 
+load, snow load, rain load, earthquake load, food load or 
+dead load.” 
+Means of Egress (ICC) . “A continuous and unobstructed 
+path of vertical and horizontal egress travel from any 
+occupied portion of a building or structure to a public way. 
+A means of egress consists of three separate and distinct 
+parts: the exit access, the exit, and the exit discharge.” 
+28 
+
+Figure 22. Within the family of codes published by the International Code Council (ICC), the International Existing Building Code  
+(IEBC) provides the most fexibility for historic and existing buildings. Photo: International Code Council 
+Model Code. Code written for building construction  
+developed and maintained by a code standards  
+organization and available for adoption by a  
+jurisdiction. Model codes are adopted as published or  
+with modifcations. 
+National Register of Historic Places . The offcial list  
+of the nation’s historic places worthy of preservation,  
+authorized by the National Historic Preservation Act  
+of 1966. The National Register is maintained by the  
+National Park Service as part of a national preservation  
+program to coordinate and support public and private  
+efforts to identify, evaluate, and protect America’s  
+historic and cultural resources. 
+Occupancy. The purpose or activity for which a building 
+or space is designed or intended to be used. Occupancies 
+are further subclassifed according to their group. 
+Occupancy Classifcation . A classifcation determined  
+by the code used to establish minimum construction-
+related requirements. Higher-hazard occupancies such  
+as warehouses storing paint, furniture, or paper; barns;  
+pulp and paper mills, etc., typically require the inclusion  
+of more fre protection features.  
+Operational Features . Non-built features that  
+contribute to life safety and property protection  
+through the creation and enforcement of policy  
+regulating how a building is to be used and maintained.  
+Examples include a limitation on the number of persons  
+permitted to occupy a space to address foor load  
+capacity or visitation led by docents familiar with the  
+building in the case of museums with egress limitations.  
+Performance Based . A code or code provision that  
+establishes an overall performance goal for a building  
+component or system, permitting the goal to be  
+achieved in ways presented by the design professional  
+and approved by the code offcial. Performance-based  
+codes are considered to have greater fexibility, permit  
+the use of new technology and materials, and address  
+the unusual conditions provided by existing buildings.  
+Performance Compliance Method . One of the  
+compliance methods in the IEBC, using a quantitative  
+method for evaluating existing and acceptable risk.  
+Permit. An offcial document or certifcate issued by a  
+building or fre department authorizing performance  
+of a specifed activity, such as a Building Permit,  
+Certifcate of Completion of a construction project, or  
+Certifcate of Occupancy.  
+Prescriptive Based . A code or code provision that  
+requires each building component to be built to a  
+certain standard, e.g., a one-hour fre-rated wall, or  
+36-inch stair width.  
+Prescriptive Compliance Method . One of the  
+compliance methods in the IEBC, most like the  
+approach of the codes for new construction. 
+29 
+
+Preservation (NPS) . One of the four established  
+treatments of historic properties under the Secretary  
+of the Interior’s Standards for the Treatment of Historic  
+Properties , defned as “the act or process of applying  
+measures necessary to sustain the existing form, integrity,  
+and materials of an historic property.” Work, including  
+preliminary measures to protect and stabilize a property,  
+generally focuses on the ongoing maintenance and  
+repair of historic materials and features rather than  
+extensive replacement or new construction. New exterior  
+additions are not within the scope of this treatment  
+(see Rehabilitation); however, the limited and sensitive  
+upgrading of mechanical, electrical, and plumbing  
+systems and other code-required work to make properties  
+functional is appropriate within a preservation project. 
+Public Assembly. Buildings or spaces designed or  
+occupied for gatherings such as civic, social, recreation, or  
+religious functions, as well as food or drink consumption.  
+Depending on the jurisdiction, an occupant load as small  
+as 50 persons can be defned as a public assembly. 
+Reconstruction (NPS) . One of the four established  
+treatments of historic properties under the Secretary  
+of the Interior’s Standards for the Treatment of Historic  
+Properties , defned as, “the act or process of depicting,  
+by means of new construction, the form, features, and  
+detailing of a non-surviving site, landscape, building,  
+structure, or object for the purpose of replicating its  
+appearance at a specifc period in time and in its   
+historic location.”  
+Reference Standard . An adopted technical document,  
+developed by an industry organization and/or profes -
+sional association, establishing supplemental criteria for  
+minimum quality and performance for the design, manu -
+facture, testing or installation of a material, product, or  
+assembly. Unless noted as included for informational pur -
+poses only, a reference standard is an enforceable exten -
+sion of the code. 
+Rehabilitation (NPS) . One of the four established  
+treatments of historic properties under the Secretary  
+of the Interior’s Standards for the Treatment of Historic  
+Properties , defned as “the act or process of making  
+possible a compatible use for a property through  
+repair, alterations, and additions while preserving those  
+portions or features which convey its historical, cultural,  
+or architectural values.” The Standards for Rehabilitation  
+are the most commonly used and adopted of the four  
+sets of Standards , along with associated guidelines and  
+other related guidance issued by the National Park Service  
+(NPS). The 1990 version of the Standards for Rehabilitation  
+is used to determine if a project qualifes as “a certifed  
+rehabilitation” under the Federal Historic Preservation Tax  
+Incentives program. 
+Rehabilitation (IEBC). “Any work, as described by the 
+categories of work defned herein, undertaken in an 
+existing building.”  
+Relocatable Building (IEBC) . “A partially or completely 
+assembled building constructed and designed to be reused 
+multiple times and transported to different building sites.” 
+Repair (IEBC). “The reconstruction, replacement or 
+renewal of any part of an existing building for the purpose 
+of its maintenance or to correct damage.”  
+Report. In the context of the Historic Buildings Chapter 
+of the IEBC, a historic building code report establishes 
+the basis and requirements for using this chapter when 
+required by the building code offcial. 
+Restoration (NPS). One of the four established 
+treatments of historic properties under the Secretary 
+of the Interior’s Standards for the Treatment of Historic 
+Properties, defned as “the act or process of accurately 
+depicting the form, features, and character of a property 
+as it appeared at a particular period in time by means 
+of the removal of features from other periods in its 
+history and reconstruction of missing features from the 
+restoration period.”  The limited and sensitive upgrading 
+of mechanical, electrical, and plumbing systems and other 
+code-required work to make properties functional as 
+appropriate with a restoration period. 
+Retroactive. Building-related conditions that must 
+be brought to current code regardless of whether a 
+construction project is proposed. Retroactive requirements 
+are generally limited, as most conditions that were lawfully 
+constructed are permitted to remain. See Grandfathered. 
+Seismic Design Category (ICC) . “A classifcation 
+assigned to a structure based on its risk category and  
+the severity of the design earthquake ground motion   
+at the site.”  
+Seismic Forces (IEBC) . “The loads, forces, and  
+requirements prescribed herein, related to the response  
+of the building to earthquake motions, to be used in the  
+analysis and design of the structure and its components.  
+Seismic forces are considered either full or reduced, as  
+provided in Chapter 3.”  
+State Historic Preservation Offcer . As established 
+in the National Historic Preservation Act of 1966, the  
+appointed offcial and offce in each of the 59 states,  
+territories, and the District of Columbia responsible  
+for Federal and state historic preservation activities  
+including maintaining historic registers, review of  
+projects for Federal Section 106 compliance and the  
+Historic Tax Credit program, and related programs  
+supporting historic preservation. 
+30 
+
+Substa
+ntial Damage (IEBC) . “For the purpose of  
+determining compliance with the food provisions of  
+this code, damage of any origin sustained by a structure  
+whereby the cost of restoring the structure to its before-
+damaged condition would equal or exceed 50 percent  
+of the market value of the structure before the damage  
+occurred.” 
+Substantial Improvement (IEBC) . “For the purpose of  
+determining compliance with the food provisions of this  
+code, any repair, alteration, addition, or improvement of a  
+building or structure, the cost of which equals or exceeds  
+50 percent of the market value of the structure, before  
+the improvement or repair is started. If the structure has  
+sustained substantial damage, any repairs are considered  
+substantial improvement regardless of the actual repair  
+work performed. As used in the IEBC, the term does not,  
+however, include either of the following: 
+1.  Any project for improvement of a building  
+required to correct existing health, sanitary,  
+or safety code violations identifed by  
+the code offcial and that is the minimum  
+necessary to ensure safe living conditions. 
+2.  Any al teration of a historic structure,  
+provided that the alteration will not preclude  
+the structure's continued designation as a  
+historic structure.” 
+Sub
+stantial Structural Alteration (IEBC) . “An alteration 
+in which the gravity load-carrying structural elements 
+altered within a 5-year period support more than 30 
+percent of the total foor and roof area of the building or 
+structure. The areas to be counted toward the 30 percent 
+shall include mezzanines, penthouses, and in-flled courts 
+and shafts tributary to the altered structural elements.” 
+Technically Infeasible . As used in the Accessibility 
+Standards, an alteration that has little likelihood of being 
+accomplished because the existing structural conditions 
+require the removal or alteration of a load-bearing 
+member that is an essential part of the structural frame; 
+or because other existing physical or site constraints 
+prohibit modifcation or addition of elements, spaces or 
+features which are in full and strict compliance with the 
+minimum requirements for new construction and which 
+are necessary to provide accessibility. 
+Tolerances. An allowable deviation from dimensional 
+requirements of the code that will have insignifcant 
+impact on safety and performance. 
+Unsafe (IEBC) . “Buildings, structures or equipment that 
+are unsanitary, or that are defcient due to inadequate 
+means of egress facilities, inadequate light and ventilation, 
+or that constitute a fre hazard, or in which the structure 
+or individual structural members meet the defnition 
+of ‘Dangerous,’ or that are otherwise dangerous to 
+human life or the public welfare, or that involve illegal 
+or improper occupancy or inadequate maintenance 
+shall be deemed unsafe. A vacant structure that is not 
+secured against entry shall be deemed unsafe.” 
+Variance. A regulatory process by which an applicant 
+can request permission to deviate from the code 
+provisions. 
+Waiver. See Variance. 
+Work Area (IEBC) . “That portion or portions of 
+a building consisting of all reconfgured space as 
+indicated on the construction documents. Work area 
+excludes portions of the building where incidental 
+work entailed by the intended work must be 
+performed and portions of the building where work 
+not initially intended by the owner is specifcally 
+required by this code.” 
+Work Area Compliance Method . One of the 
+compliance methods in the IEBC; it includes the most 
+provisions specifc to historic buildings. 
+31 
+
+References 
+California Historical Building Code, California Code of  
+Regulations. Title 24, Part 8. California Building Standards  
+Commission, 2019.  
+Hensley, Jo Ellen, and Antonio Aguilar. Preservation  
+Brief 3, Improving Energy Effciency in Historic Building s. 
+Washington, D.C.: National Park Service, 2011. 
+International Code Council (ICC). International Existing  
+Building Code (2024). Falls Church, VA. 
+International Code Council (ICC). International Property  
+Maintenance Code (2024). Falls Church, VA. 
+Jandl, H. Ward. Preservation Brief 18, Rehabilitating  
+Interiors in Historic Buildings: Identifying and Preserving  
+Character-Defning Elements . Washington, D.C.: National  
+Park Service, 1988. 
+Nelson, Lee H., FAIA. Preservation Brief 17, Architectural  
+Character—Identifying the Visual Aspects of Historic  
+Buildings as an Aid to Preserving their Character . 
+Washington, D.C.: National Park Service, 1988. 
+Watts, Jack. Fire Safety in Historic Buildings. 
+Washington, DC.: National Trust for Historic  
+Preservation, 2008. 
+The Secretary of the Interior’s Standards for the  
+Treatment of Historic Properties and Guidelines  
+for Preserving, Rehabilitating, Restoring and  
+Reconstructing Historic Buildings . Washington,  
+D.C.: U.S. Department of the Interior, National  
+Park Service, Technical Preservation Services, 2017.  
+The Treatment Standards are codifed in 36 CFR  
+68. A separate, but substantively similar, version  
+of the Secretary of the Interior’s Standards for  
+Rehabilitation  (36 CFR 67) is used to determine if  
+a project qualifes as “a certifed rehabilitation”  
+under the Federal Historic Preservation Tax  
+Incentives program (commonly known as the  
+Historic Tax Credits) to qualify for certain tax  
+benefts under the Internal Revenue Code. 
+This publication and other sets of NPS guidelines,  
+related guidance, and technical preservation  
+information are available from the Technical  
+Preservation Services website at   
+https://www.nps.gov/tps/index.htm. 
+Acknowledgements 
+The author wishes to thank the following:  Antonio Aguilar, Senior Historical Architect, Brian Goeken, Division  
+Chief, and Charles E. Fisher, Architectural Historian (retired), Technical Preservation Services, National Park Service,  
+for their guidance and expertise; Timothy R Costello, PE, Wiss, Janney, Elstner Associates, Inc., John Curley, AIA,  
+CBCO, CFM, Chief Development Services Offcer, City of Aurora, IL, Dijana Cuvalo, AIA, Historic Preservation  
+Division, City of Chicago Department of Planning and Development, Sean Denniston, Principal, Heritage Green  
+Consulting, Frank Heitzman, AIA, ASID, Heitzman Architects, Oak Park, IL, Chris Rute, AIA, RIBA, Principal, CR  
+Designs, Beth Tubbs, PE, FSFPE, Chief Fire Protection Engineer, International Code Council, and Nicholas Vann, AIA,  
+Washington State Offce of Equity and Belonging, formerly State Historical Architect, Washington Department of  
+Archaeology & Historic Preservation for their assistance in reviewing the brief; and to Angela Shearer, Elizabeth  
+Tune, and Jennifer K. Bailey, Technical Preservation Services, National Park Service, for their help in the fnal edits  
+of the publication. The author also wishes to thank the Getty Conservation Institute for their generous support of  
+the research contained in this  Brief while a 2021–2022 Conservation Guest Scholar. 
+Front cover image: Davenport Hotel, Spokane, WA. Photo: Nicholas Vann. 
+This publication has been prepared pursuant to the National Historic Preservation Act of 1966, as amended, which  
+directs the Secretary of the Interior to develop and make available information concerning historic properties. This  
+publication is available from the Technical Preservation Services website 
+at https://www.nps.gov/tps/index.htm or  
+hard copies may be purchased from the Government Printing Offces at the U.S. Government Bookstore. 
+C
+omments about this publication should be addressed to: Technical Preservation Services, National Park Service,  
+1849 C Street NW, Mail Stop 7246, Washington, DC 20240 or by email to NPS_TPS@nps.gov. This publication is not  
+copyrighted and can be reproduced without penalty. Normal procedures for credit to the authors and the National  
+Park Service are appreciated. Unless NPS fle photos, the photographs used in this publication may not be used to  
+illustrate other publications without permission of the owners. 
+June 2024 
+32 
