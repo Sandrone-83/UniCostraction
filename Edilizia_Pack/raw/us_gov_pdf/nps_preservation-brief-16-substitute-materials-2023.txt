@@ -1,0 +1,1813 @@
+1
+16
+PRESERVATION
+BRIEFS
+The Use of Substitute Materials 
+on Historic Building Exteriors
+John Sandor, David Trayte, and Amy Elizabeth Uebel
+National Park Service
+U.S. Department of the Interior
+Technical Preservation Services
+The Secretary of the Interior's Standards for Rehabilitation  
+generally require that deteriorated distinctive architectural 
+features of a historic property be repaired rather than 
+replaced. Standard 6 of the Standards for Rehabilitation 
+further states that when replacement of a distinctive 
+feature is necessary, the new feature must “match the old 
+in composition, design, color, texture, and other visual 
+properties, and, where possible , materials” (emphasis 
+added). While the use of matching materials to replace 
+historic ones is always preferred under the Standards for 
+Rehabilitation, the Standards also purposely recognize 
+that flexibility may sometimes be needed when it comes 
+to new and replacement materials as part of a historic 
+rehabilitation project. Substitute materials that closely 
+match the visual and physical properties of historic 
+materials can be successfully used on many rehabilitation 
+projects in ways that are consistent with the Standards.
+The flexibility inherent in the Standards for Rehabilitation 
+must always be balanced with the preservation of the 
+historic character and the historic integrity of a building, 
+of which historic materials are an important aspect. 
+Any replacement work reduces the historic integrity of 
+a building to some degree, which can undermine the 
+historic character of the property over time. With limited 
+exceptions, replacement should only be considered when 
+damage or deterioration is too severe to make repair 
+feasible. When needed replacement is made with a 
+material that matches the historic material, the impact 
+on integrity can be minimal, especially when only a small 
+amount of new material is needed. When a substitute 
+material is used for the replacement, the loss in integrity 
+can sometimes, although not always, be greater than 
+that of a matching material. Also, whether historic or 
+substitute material, there is a point where the amount 
+of replacement can become excessive and the building’s 
+historic integrity is diminished to an unacceptable 
+degree, regardless of the material used—that is, a loss of 
+authenticity and the physical features and characteristics 
+closely associated with the property’s historic significance.
+The term substitute materials  is used to describe building 
+materials that have the potential to match the appear-
+ance, physical properties, and related attributes of historic 
+materials well enough to make them alternatives for use 
+in current preservation practice when historic materials 
+require replacement.
+Compelling reasons to use a substitute material instead 
+of the historic material include the unavailability or poor 
+performance of the historic material, or environmental 
+pressures or code-driven requirements that necessitate a 
+change in material. When using a substitute material for 
+replacement it is critical that it match the historic material 
+in all of its visual and physical properties to preserve the 
+historic character of the building and minimize the impact 
+on its integrity. 
+Substitute materials can be cost-effective, permit the ac-
+curate visual duplication of historic materials, and provide 
+improved durability. While the behavior of traditional, his-
+toric materials is generally well understood, the behavior 
+of newer materials can be less established and sometimes 
+less predictable. Substitute materials are most successful 
+when the properties of both the original material and the 
+substitute are thoroughly understood by all those involved 
+in the design and construction process. The architect must 
+be adept at the selection of substitute materials and their 
+incorporation into architectural plans and specifications. 
+The contractor or tradesperson in the field must also be 
+experienced with their use.
+This Preservation Brief provides general guidance on the 
+use of substitute materials as replacement materials for 
+distinctive features on the exterior of historic buildings. 
+Due to the ever-evolving product market for construction 
+materials, this Brief does not provide specifications 
+for substitute materials. This guidance should be used 
+in conjunction with qualified professionals who are 
+knowledgeable in current construction and historic 
+preservation practices. 
+
+2
+This Brief includes a discussion of the appropriate use 
+of substitute materials and provides a path for decision-
+making in their use. In considering the use of substitute 
+materials, such issues as the deterioration or failure of 
+the historic building component and material must be 
+understood. The existing component’s physical and visual 
+properties, profile, surface texture, dimensions, and 
+performance should be identified to establish the basis for 
+evaluating a possible replacement material. The physical 
+and visual properties of the various substitute materials 
+available should also be assessed and compared to the 
+original material for their physical and visual compatibility. 
+Lastly, the suitability of a given substitute replacement 
+material should be determined based on how well the 
+material matches both the physical and visual properties 
+of the existing material as well as any specific performance 
+or application needs. The Brief’s descriptions of common 
+substitute materials are not meant to be comprehensive, 
+and, as the performance history of newer materials 
+continues to grow and new materials are developed, 
+available options will change, and our understanding of 
+current material performance will continue to evolve.
+Historical Use of Substitute  
+Materials 
+The tradition of using affordable and common materials 
+in imitation of more expensive and less available materi -
+als is a long one. At Mount Vernon, for example, George 
+Washington used wood painted with sand-  impregnated 
+paint to imitate rusticated stone. This technique, along 
+with scoring stucco into block patterns, was common in 
+Colonial America to imitate stone.
+Nineteenth-century technology made a variety of materi -
+als readily available and widely used that were not only 
+able to imitate traditional materials but were also cheaper 
+to fabricate and easier to use. Traditionally, carved stone 
+units were individually worked. Molded or cast materials 
+greatly increased efficiency in creating repetitive ele -
+ments. Cement-based products such as cast stone could 
+provide convincing imitations of natural stone with care -
+fully chosen aggregates and cements and was typically a 
+commercially manufactured product. It could be tooled 
+like natural stone, though that could reduce much of 
+the cost advantage. These carefully-crafted cementitious 
+products were widely used as trim elements for masonry 
+structures or as the face material for an entire building. 
+At the other end of the spectrum, mail-order catalogs 
+provided a wide variety of forms for molding concrete 
+that were merely evocative of natural stone and did little 
+to match its appearance. Concrete masonry units could be 
+fabricated locally and on site, avoiding expensive quarry -
+ing and shipping costs. 
+Offering similar efficiencies as cast stone for reproducing 
+repetitive and even complex decorative shapes, terra cotta 
+could mimic the surface characteristics of stone with vari -
+ous textures and glazes. It was popular in the late nine -
+teenth and early twentieth centuries for details on stone 
+or brick buildings as well as for the entire skin of large and 
+elaborately detailed buildings. 
+Cast iron was also used to imitate stone, often with very 
+decorative profiles, for a variety of architectural features 
+ranging from window hoods to columns, piers, balus-
+trades, and even whole façades. Cast iron offered its own 
+set of efficiencies including cost, fabrication time, and 
+weight, but required a painted finish.
+While cast stone, terra cotta, and cast iron offered effi-
+ciencies over quarried and, particularly, carved stone, they 
+were not cheap or impermanent materials. Less costly, but 
+also less durable, stamped or brake-formed sheet metal, 
+typically galvanized, could also be used instead of masonry 
+for cornices, window hoods, roofing tiles, and even entire 
+building façades.
+Substitute Materials and 
+Applying the Standards for 
+Rehabilitation
+The Standards for Rehabilitation are focused on 
+preserving the important and distinctive  
+character-defining features of a historic property 
+(Standards 2 and 6), and they are to be applied in a 
+reasonable manner, taking into account economic 
+and technical feasibility ( 36 CFR 67.7 and 36 CFR 
+68). The Standards have an inherent flexibility that 
+facilitates their application to diverse projects, 
+historic properties, and conditions. They are to 
+be applied on a “cumulative-effect” basis, when 
+the overall effect of all work in the context of the 
+specific conditions of the property and the project is 
+consistent with the property's historic character. 
+The Standards for Rehabilitation require that the 
+replacement of a distinctive feature match the old 
+in physical and visual properties. While the use of 
+matching materials is always preferred, the Standards 
+purposely allow for the use of substitute materials 
+when the use of original materials is not reasonably 
+possible, such as in consideration of economic and 
+technical feasibility or in new construction. They 
+also provide additional flexibility in the treatment 
+of secondary, less distinctive features that are 
+less important in defining the historic character 
+of the property. The Standards for Rehabilitation 
+recognize that flexibility is appropriate to facilitate 
+“a compatible use for a property … while preserving 
+those portions or features which convey its historical, 
+cultural, or architectural values” (definition of 
+“Rehabilitation,” 36 CFR 67.2(b)). 
+
+3
+Examples of Historical Use of Substitute Materials
+Figure 2a. Casting concrete blocks to mimic quarried 
+stone was a popular late 19th- to mid 20th-century 
+technique. Concrete masonry units could be completed by 
+local craftsman, saving time and shipping costs.  
+Photo: John Sandor, NPS.
+Figure 2b: The 19th century also produced a variety of 
+metal products used to imitate other materials. Across the 
+country, cast iron was used in storefronts to imitate stone. 
+Photo: John Sandor, NPS.
+Figure 2c: Stucco has been used to imitate a number of 
+building materials for many centuries. Seen here, stucco 
+was applied to a brick structure and scored to represent a 
+stone façade. Photo: John Sandor, NPS.
+Figure 2d: Terra cotta gained popularity in the late 19th 
+century as a cheap and lightweight alternative to stone. 
+Glazing techniques allowed the blocks to imitate a variety 
+of natural stone materials. Photo: John Sandor, NPS.
+
+4
+These examples of one material used to imitate another, 
+more often in initial construction than for later repair and 
+replacement purposes, are referred to as imitative materi -
+als in the Guidelines for Preserving, Rehabilitating, Restor -
+ing & Reconstructing Historic Buildings , updated in 2017, 
+that accompany the Secretary of the Interior's Standards 
+for the Treatment of Historic Properties. These imitative 
+materials, while evoking other materials, usually had dis-
+tinctive qualities of their own and were not always a very 
+close match in appearance to the historic material they 
+were meant to imitate.
+Many of the traditional materials discussed above are still 
+available and used to replace damaged or missing original 
+features, both to replace matching historic materials and 
+sometimes as substitute materials. Because of their exten-
+sive use over time and their known physical and chemical 
+properties, cast stone, cast iron, and terra cotta are well 
+understood substitute materials. This continued usage 
+and familiarity means their installation requirements and 
+service life are well established, which in turn makes it 
+easier to determine when and how to use these traditional 
+materials as substitutes for a deteriorated material. Howev -
+er, innovation in replacement materials continues, and new 
+products (many of them consisting of synthetic materials) 
+are continually introduced. These non-traditional products 
+are an increasing part of both the new construction and 
+rehabilitation industries. Some materials, like glass fiber 
+reinforced polymers, glass fiber reinforced concrete, or 
+fiber cement, have been in use long enough for an accu-
+rate prediction of their service life and performance. Other 
+newer, non-traditional materials may be too new to have 
+established performance records, thus, understanding 
+their material properties is critical, and their use should be 
+approached with more caution.
+When to Consider Using Substitute 
+Materials in Preservation Projects
+According to the Standards for Rehabilitation , deteriora-
+tion should generally be addressed through repair if in 
+repairable condition. Repair can entail a variety of treat-
+ments that retain the unit of building material and remove 
+and patch or replace only the damaged portion. This ap-
+proach can be done with traditional methods and materi-
+als such as a dutchman, where like-kind material is pre-
+cisely inserted into wood or stone, or it may employ other 
+materials such as epoxies for wood repair or cementitious 
+compounds for masonry. As long as the repair methods are 
+sound and do not damage or accelerate the deterioration 
+of the historic material, repairs are generally preferable to 
+replacement of an entire element. More complex manufac-
+tured products, typical of more recent historic materials (as 
+well as a lot of modern building materials generally), may 
+be more difficult to repair, if they can be repaired at all. 
+There are situations, however, when the level of deterio-
+ration makes localized repairs infeasible and entire fea-
+tures or units of historic material must be replaced. While 
+achieving an effective match of all of the visual qualities of 
+a material can be challenging, even when replacement is 
+in kind, it can be even more challenging when the replace-
+ment is a substitute material. A good visual match is not 
+the only consideration when a substitute material is to be 
+used for incremental replacement within a larger assem-
+bly of historic material. When an individual siding board 
+or a single block of ashlar is being replaced, it is usually 
+best achieved with the original material. Introduction of 
+a different material into an intact assembly requires that 
+its inherent properties, such as expansion and contraction, 
+moisture resistance, or permeability, be thoroughly consid-
+ered relative to those of the surrounding historic materials 
+to avoid causing damage. 
+Figure 3: Incremental repair is best done using in-kind material to 
+minimize differences in the performance characteristics that could 
+negatively affect the overall assembly. Photo: NPS.
+Figure 4. While occasionally used to imitate other materials such as 
+wood or slate shingle, many asbestos shingles and siding materials 
+had their own distinct shape and profile. No longer manufactured 
+today, alternative materials must be found to replace these 
+materials when they are distinctive features on a historic structure. 
+Drawing: Association for Preservation Technology, Building 
+Technology Heritage Library.
+
+5
+Figure 5. (Left) Asbestos shingles were often used as a substitute for traditional slate roof shingles. The historic asbestos roof on this rehabilitation 
+project had reached the end of its lifespan and required complete replacement. (Right) Given the limited replacement materials available to match 
+the historic asbestos shingles, utilizing natural slate was determined to be the best visual match for the original shingles and design intent in this 
+instance. Photos: Crosskey Architects.
+Circumstances in which the use of substitute materials 
+may generally be considered appropriate, taking into 
+consideration technical and economic feasibility reasons, 
+include: the unavailability of historic materials; the 
+unavailability of skilled artisans or historic craft techniques; 
+inadequate durability of the original materials; the 
+replacement of a secondary feature; construction of a  
+new addition; the reconstruction of a missing feature; 
+code-required performance; and for enhanced resilience 
+and sustainability: 
+• 
+ Unavailability of historic material. A common 
+reason for using substitute materials is the difficulty 
+in finding a good match using the historic material 
+(particularly a problem for masonry materials where 
+the color and texture are derived from the material 
+itself). This may be due to the actual unavailability 
+of the material or to protracted delivery dates, 
+particularly if the material cannot be sourced 
+domestically. It is not uncommon for a local quarry 
+that is no longer in operation to have been the source 
+of an original stone. If another quarry cannot supply 
+a satisfactory match, a substitute material such as dry-
+tamp cast stone or textured precast concrete may be 
+an appropriate alternative, if care is taken to ensure 
+that the detail, color, and texture of the original 
+stone are matched. Even when the color is successfully 
+matched, the appearance of a cementitious product 
+may diverge from that of the historic stone as the 
+substitute material ages. 
+Many m
+anufactured materials that were used 
+historically on buildings are no longer made. Terne-
+plated steel, which was the material most typically 
+used for painted standing-seam or flat-seam roofing, 
+is no longer made. However, because it was always 
+painted, other metals including galvanized steel or 
+copper can generally be substituted if painted. When 
+the historic material needing to be replaced is a 
+manufactured product developed as an imitation of 
+a natural material, which was the case with asbestos 
+shingles meant to imitate slate, the natural material 
+may now be an appropriate substitute material to 
+consider for the manufactured one that is no longer 
+produced. 
+• 
+ Unavailability of skilled artisans or historic 
+craft techniques . These two issues can complicate 
+any preservation or rehabilitation project. This is 
+particularly true for intricate ornamental work, such 
+as carved wood, carved stone, wrought iron, or cast 
+iron. While skilled craftsmen may not be as difficult 
+to find as they once were, there can still be limitations 
+geographically, even in finding less specialized skills, 
+and particularly if a project is small. Technical advances 
+have allowed some stone or wood carvers to take 
+advantage of computerized equipment, but complex 
+designs will likely still require hand work. It may 
+also be possible to mimic a carved element using a 
+material that can be cast in a mold, adding significant 
+efficiency where an historic element survives from 
+which a mold can be made. Options for casting include 
+aluminum, cast stone, fiberglass, glass fiber reinforced 
+concretes, and terra cotta, but not all carved elements 
+can be duplicated by a casting, and mold-making and 
+casting still require skilled craftsmen.
+•  Inadequate durability of the original material. 
+Some historic building materials were of inherently 
+poor quality or were not durable. In other cases, 
+one material was naturally incompatible with other 
+materials on the building, causing staining or galvanic 
+corrosion. Examples of poor-quality materials are 
+very soft sandstones, which eroded quickly, and 
+brownstone, which is vulnerable to delamination. 
+In some cases, more durable natural stones may be 
+visually similar enough to stand in for these soft stones 
+but cast stone or another material may be needed to 
+achieve an appropriate match.  
+
+6
+Figure 6. The dramatic 
+difference in the number 
+of growth rings between 
+old-growth wood and 
+wood that was recently 
+harvested from second- 
+or third-growth forests 
+is indicative of the 
+diminished dimensional 
+stability and durability 
+of most lumber currently 
+available. Photo:  
+Zachary Dettmore. 
+The ready availability of manufactured ornamental 
+wood features fed a nineteenth-century taste for 
+decorative architectural details that were often 
+used on the exterior of buildings with little concern 
+for how they would be affected by moisture or 
+maintained. Even old-growth wood from decay-
+resistant species often could not prevent features 
+with severe exposure from eventually needing to be 
+replaced. Today’s available commercial supplies of 
+lumber no longer provide the denser, more decay-
+resistant wood of old-growth forests, so even careful 
+matching to species, which is not always possible, will 
+not yield a replacement equal in performance to the 
+historic material. Old-growth wood is likely to be very 
+expensive, if it can be found, and may not be available 
+from a sustainable, environmentally responsible 
+source. When features with severe exposure need to 
+be replaced or reproduced, substitute materials that 
+are less susceptible to decay can have a longer life, and 
+when the feature is painted, as exterior wood features 
+generally are, the visual effect of a substitute material 
+can be minimal.
+•  Replacement of a secondary feature. When it 
+is necessary to replace a less distinctive, secondary 
+feature that is less important in defining the historic 
+character of the property, there is more flexibility in 
+how it can be replaced. While it may be less important 
+to find an exact match in materials when replacing 
+such a feature, the retention of the overall historic 
+character should still guide selection of an appropriate 
+replacement material. For example, replacing 
+secondary features such as those with limited visibility 
+(e.g., siding materials on a rear elevation) may permit 
+replacement materials that are similar in appearance 
+or character without having to be a perfect match. 
+•  Construction of a new addition. The Standards 
+require t
+hat new additions to historic buildings and 
+related new construction be differentiated from the 
+old as well as be compatible with the historic character 
+of the property and its site and environment. Using 
+materials that evoke, without matching, the historic 
+material can be an effective means of achieving 
+the needed balance between compatibility and 
+Figure 7. A new addition replaced non-historic construction on the rear elevation of this building. Fiber cement gives the addition a compatible 
+appearance without replicating the exposure for thickness of the historic siding. Photo: Ward Architecture + Preservation. 
+
+7
+Figure 8. A long-missing cast-iron steeple was reconstructed in aluminum and 
+fiber-reinforced polymer (FRP). Photo: John Sandor, NPS, Inset: Quinn Evans.
+differentiation for new additions and 
+new construction. Even if differentiation 
+is achieved through design rather than 
+materials, there generally is no basis for 
+requiring the use of matching historic 
+materials for new additions and new 
+construction as part of a rehabilitation 
+project. 
+•  Reconstruction of a missing feature. 
+Many buildings lose significant features 
+over the course of their lives for reasons 
+such as those previously discussed. When a 
+missing feature is to be reconstructed, the 
+importance of matching the original mate-
+rial may be less important to the effect 
+replacing the missing feature may have on 
+the overall historic character and appear-
+ance of the building. Though replacement 
+of missing features must be substantiated 
+by documentary, physical, or pictorial 
+evidence, in many cases the authenticity 
+of the material may be secondary to the 
+overall visual qualities. The use of a more 
+cost-effective substitute material for the 
+construction of a missing feature can often 
+be an important factor in the feasibility of 
+undertaking such work. 
+•  Code-required performance.  
+Modern building codes are regularly 
+amended to require higher performance 
+levels for new and existing buildings in such 
+areas as life safety, seismic retrofits, and 
+accessibility. Rehabilitation projects often 
+trigger compliance with code requirements 
+that were not in place when a building 
+was constructed. Although building codes 
+may often allow for the retention of 
+historic materials and assemblies, substitute 
+materials can offer an alternative in 
+situations when the historic materials are 
+non-compliant and cannot otherwise be 
+reasonably retained. In these instances, a 
+change in material may be appropriate to 
+meet code requirements, while in other 
+instances selecting the optimal code 
+compliance method for the project may 
+achieve code-compliant solutions that also 
+allow for the preservation of a building’s 
+historic materials and finishes.  
+For example, fire codes may require 
+increased resistance to flame spread for 
+buildings within dense urban environments 
+where building proximity and separation 
+between buildings is a concern. Some 
+substitute materials are non-combustible, 
+have good ratings for flame spread, and 
+can provide an alternative to help meet 
+
+8
+fire code requirements. Depending on the building 
+component and the material, however, a substitute 
+material may not resist fire any better than the 
+historic material. In addressing code issues, all feasible 
+alternatives should be considered to minimize the 
+impact on the historic character of the building while 
+still meeting code requirements.  
+ 
+With specific provi
+sions in building code related to 
+issues such as seismic hazards, the choice of materials 
+for features inherently unstable in a seismic event can 
+be a key part of a code-compliant retrofit solution. 
+Elements at risk of falling such as parapets, finials, and 
+overhanging cornices may be made safe by anchoring 
+them to new structural frames. However, for some 
+heavy masonry features, especially where there is 
+deterioration or the feature is difficult to effectively 
+brace, adequately anchoring the existing feature 
+may not prove feasible. In such cases removing and 
+replacing these features with lighter-weight replicas 
+that incorporate a resilient structural framework can 
+help preserve the historic character of the building 
+while improving life safety performance. 
+•  Enhanced resilience and sustainability. Wildfires, 
+ea
+rthquakes, floods, hurricanes, and other extreme 
+weather events put historic buildings and their occu-
+pants at risk and may require adaptive treatments that 
+are more invasive than might be accepted in other cir-
+cumstances, including related to the use of substitute 
+materials. In these contexts, it is still necessary to try 
+to minimize impacts on a building’s historic character 
+as much as possible while still adapting it to be more 
+resilient. Widespread wildfires, for example, have 
+increased demand for fire resistant materials for the 
+exterior building envelope. Flood events may neces -
+sitate the replacement of historic materials that have 
+been damaged or inundated with hazardous substanc-
+es in contaminated floodwaters. When undertaking 
+repairs in such circumstances, substitute materials may 
+offer greater resilience to anticipated future exposure 
+to natural hazard risks.  
+Similarly, efforts to improve energy efficiency and 
+performance m
+ay include the use of substitute materi-
+als as replacement components when modifications to 
+building assemblies are required and the historic mate-
+rials cannot be preserved. When evaluating substitute 
+materials in the context of sustainability objectives, 
+factors such as the environmental impact of produc-
+tion, the full life cycle of products, and the embodied 
+carbon of the materials already in place should be 
+carefully analyzed. There may be more sustainable 
+choices for a replacement material, including the use 
+of more traditional materials in place of manufactured 
+products that may consist of non-renewable resources 
+or hazardous materials. While some synthetic substi-
+tute materials are made from recycled materials or 
+are otherwise sustainably produced, many are not 
+repairable, salvageable, or recyclable themselves, and 
+they may have shorter lifespans to their historic mate-
+rial counterparts. When either greater resilience or 
+sustainability is a factor, all feasible alternatives should 
+be considered in finding a balanced approach that 
+maintains historic character while meeting resilience 
+and sustainability goals.
+Substitute Materials and  
+Economic Feasibility
+Economic feasibility is inevitably a concern when choosing 
+a material for any part of a project, whether a historic 
+or substitute material, but it should not be the sole 
+determinant factor at the expense of maintaining the 
+Figure 9. Previously bricked-in openings below the flood line were 
+reopened and new aluminum windows installed with cellular 
+PVC trim detailed to hold back moderate flood waters and survive 
+exposure to water. Photo: John Sandor, NPS.
+historic character and historic integrity of a building. Other 
+factors may prompt the consideration of a substitute 
+material, such as the cost of maintaining the historic 
+material, because it is comparatively difficult or costly to 
+reach or access, or the frequency of required maintenance 
+the historic material needs. Additionally, where in-
+kind replacement material is found to be prohibitively 
+expensive, it may be reasonable to consider a substitute 
+that offers an alternative and is a good physical and 
+visual match. Not all substitute materials are, however, 
+cost-effective replacements. Long-term durability and 
+maintainability are other factors that should be considered 
+in conjunction with initial cost.
+Maintenance of a material, particularly where accessibil-
+ity is difficult or expensive, can be an important part of a 
+
+9
+cost evaluation. Maintenance costs should not be consid-
+ered without also considering life-cycle expenses. While 
+some substitute materials may offer reduced initial costs, 
+they may be as or more costly than traditional materials to 
+maintain over time. For example, many substitute materials 
+are not readily repairable, necessitating full replacement 
+when damaged. The cost to replace a material or assem-
+bly at the end of its lifespan may also be greater than the 
+accumulated incremental expense to maintain the historic 
+material, particularly if it is a more traditional, repairable 
+material. Maintenance cost should never be the sole reason 
+for replacing a historic material that is not deteriorated.
+Criteria for the Appropriate Use 
+of Substitute Materials 
+Substitute materials must meet three basic criteria to be 
+considered: they must be compatible with the historic 
+materials in appearance; their physical properties must be 
+similar to those of the historic materials, or the materials 
+must be installed in a manner that tolerates differences; 
+and they must meet certain basic performance expecta-
+tions over an extended period of time.
+• Matching the Appearance of the Historic
+Mat
+erial
+Any mat
+erial’s appearance varies depending on the
+nature of the material and how it is used. Some
+historic materials, such as wood and ferrous metals,
+were typically painted, making the color of the
+substitute unimportant, though the texture of the
+surface, which telegraphs through a paint layer, is
+still an important consideration. Texture can be a
+large part of distinguishing a material formed by
+hand from one that is machine-made. Many historic
+materials, such as most building stones, are used
+without any coating, making the color, pattern, and
+reflectivity, as well as surface texture, dependent on
+the material itself. Matching the color and surface
+characteristics of a historic natural material with a 
+man-made substitute can often be quite difficult.  
+When the color and surface characteristics of 
+an existing material are important, cleaning the 
+material should be the starting point for evaluating 
+a potential matching material. In situations where 
+there are subtle variations in color and texture 
+within the original material, the substitute 
+material should be similarly varied so that it is not 
+conspicuous by its uniformity. If a material is custom 
+fabricated, a sufficient number of samples should 
+be supplied to permit on-site comparison of color, 
+texture, detailing, and other critical visual qualities. 
+For a manufactured product with preset choices 
+of color or texture, it may be necessary to look at 
+samples from more than one manufacturer to find 
+the best match. Similarly, prefabricated products, 
+such as roofing slate, may offer limited, if any, 
+choice of unit size, which can be a critical factor 
+for achieving a good match. A substitute material 
+should not be used to replace distinctive, character-
+defining materials and features if an adequate 
+match in design and appearance is not possible. 
+As all exposed materials are subject to ultraviolet 
+degradation, samples of a new material, particularly 
+when custom formulated, should be prepared 
+during the early planning phases to allow for 
+evaluation of the effects of weathering on 
+color stability. When that is not possible, or if a 
+prefabricated product is used, the fabricator or 
+manufacturer may be able to identify regional 
+locations where equivalent products have been 
+installed long enough ago to get a better sense of 
+how the material weathers and performs.  
+While a perfect match is the desired goal for 
+replacing distinctive features, it is not always 
+possible, even when the same matching material is 
+chosen for the replacement. When any compromise 
+Figure 10. Polymer slates 
+offer a choice of shapes but 
+not sizes, limiting their 
+ability to achieve a good 
+visual match for some 
+historic slate. With the size 
+of the polymer slates (right) 
+being nearly twice that of 
+the historic slates (
+left), the 
+scale of the entire feature is 
+incompatibly altered. The 
+molded edges of this mate-
+rial, which contribute to its 
+ability to replicate slate, 
+would be lost if each shingle 
+was resized by cutting. 
+Photo: John Sandor, NPS.
+
+10
+must be made in the precision of the match, it is 
+wise to consider the vantage point from which 
+the material will be seen. Sometimes what seems 
+important at close range, such as variations in the 
+texture of a surface, may be secondary to other 
+aspects of the material when viewed from some 
+distance. The closer a feature is to the viewer, the 
+more closely the material and craftsmanship should 
+match the original. An on-site mock-up using a 
+sample of the proposed material can help evaluate 
+whether it is an adequate visual match. 
+Figure 11. The thickness of the wood siding on the front (left) 
+creates a deeper shadow line than is achieved with the fiber cement 
+siding used on the side (right) elevation. While the exposure can 
+be adjusted, fiber cement siding is not available in a matching 
+thickness. Photo: John Sandor, NPS.
+•  Matching the Physical Properties of the
+Historic Material
+Carefully chosen substitute materials can often
+closel
+y match the appearance of historic materials,
+but their physical properties may differ greatly. These
+differences are most critical when incrementally
+replacing components of a larger assembly that retains
+significant historic material. The chemical composition
+of the material (e.g., the presence of acids, alkalis,
+salts, or metals) should be evaluated to ensure that
+the replacement materials will be compatible with the
+adjacent historic materials. Materials that will cause
+galvanic corrosion or other chemical reactions must be
+isolated from one another.
+The thermal- and moisture-driven expansion and 
+contraction coefficients of each adjacent material 
+must be within narrow limits or be accommodated 
+by carefully designed joints and fasteners. Joints 
+can play a role both in accommodating movement 
+of materials as well as in managing moisture, either 
+to keep it from entering the enclosure assembly or 
+to let it escape from the building envelope, or both. 
+Because some synthetic materials are less permeable 
+to moisture than more traditional materials, 
+installations must take into account the potential 
+to trap moisture and cause deterioration of historic 
+and new materials. An assembly incorporating new 
+and historic materials should be designed so that if 
+material failures occur, the failures occur within the 
+new material rather than the historic one. 
+During installation, surface preparation is critical to 
+ensure proper attachment. Deteriorated underlying 
+material must be removed or stabilized. Non-
+corrosive anchoring devices or fasteners that are 
+designed to carry the new material and to withstand 
+wind, rain, snow, and other destructive elements 
+should be used. Since physical failures often result 
+from poor anchorage or improper installation 
+techniques, a structural engineer should be 
+included in planning any major project. For readily 
+available, off-the-shelf materials, manufacturers’ 
+recommendations for attachment and spacing should 
+be followed.  
+Nearly all substitute materials have some properties 
+that are different from the historic materials they 
+may replace. Even when substitute materials are 
+isolated from historic materials and features, it is 
+important to understand the substitute materials’ 
+properties in order to use them successfully. 
+•  Performance of the Material Over Time
+When more traditional materials are used to replace
+damage
+d historic materials and features, their perfor -
+mance is predictable in most cases. An exception may
+be modern wood that has durability and other prop -
+Figure 12. Cellulose composite materials, like wood, expand and 
+contract with moisture. Here it was used to reconstruct a missing 
+storefront. Unlike solid wood that is dimensionally stable parallel to 
+the grain, this composite moves equally in all dimensions, resulting 
+in gaps that were not adequately anticipated in the design.  
+Photo: John Sandor, NPS. 
+
+11
+Figure 13. Cast stone was used to effectively replace individual blocks of sandstone. Both the original ( left) and the substitute material (right) 
+retain similar physical and visible properties. Having weathered for over 30 years, some erosion of the binder has revealed quartz grains of 
+the aggregate (inset), but it is only noticeable upon close inspection. Photo: John Sandor, NPS. 
+erties different than those of historic wood from old-
+growth forests. Many of the materials used as substi -
+tutes have been in use long enough to provide some 
+idea of how they perform over time. Other material 
+may only have test results from accelerated weather -
+ing. The length of manufacturer warranties may be an 
+indicator of expected durability and lifespan. War -
+ranties only predict a manufacturer’s expectation of 
+a product’s performance and are no guarantee that 
+the manufacturers will still be in business at the time 
+needed to stand behind them. Just as new manufac -
+turers emerge with new materials, others disappear. 
+Where possible, projects involving substitute materi -
+als in similar installations and exposures should be 
+examined before selecting a new, less-tested material. 
+It is unrealistic to expect a substitute material, which 
+can be quite different in composition than the historic 
+material, not to age differently.  
+Even traditional materials will not perform well if 
+not used or detailed appropriately, and experienced 
+architects, engineers, fabricators, and installers rely 
+on their professional knowledge and experience to 
+ensure proper installation and techniques when work -
+ing with familiar materials. This is just one of many 
+reasons that using the original materials for needed 
+replacement is usually the best choice. Some of the 
+materials now available as substitutes have properties 
+that differ greatly from the traditional materials they 
+may be used to replace. It is critical to the successful 
+performance of substitute materials that everyone 
+involved in the selection, design, and installation fully 
+understands the material’s properties, especially how 
+it is different than the material it is replacing, and 
+how that will affect the surrounding materials and 
+building systems.  
+Many traditional building materials can be repaired 
+either with traditional methods and materials or with 
+more modern conservation techniques using sub-
+stances like epoxies. However, many modern substitute 
+materials (particularly synthetic ones) are not as easily 
+repaired, if repairable at all, as their more traditional 
+counterparts. Confirming that a material is repairable 
+may be important for those used, e.g., where impact 
+or significant wear or abrasion is likely. 
+Finally, it is critical that the substitute materials be 
+documented as part of the historical record of the 
+building so that proper care and maintenance of all of 
+the building materials continue, ensuring the contin -
+ued life of the historic building.
+Choosing an Appropriate  
+Substitute Material
+Once all reasonable options for repair and replacement 
+in kind have been considered and sufficient justification 
+for substitute materials has been established, the choice 
+among the variety of substitute materials currently 
+available must be made. Rapidly developing technologies 
+allow a wide variety of materials to choose from that are 
+intended to mimic historic materials. Many of the materials 
+that were historically used as substitutes for more 
+traditional historic materials have themselves become 
+historic, and some of these early substitutes continue to 
+be reasonable options as substitute materials today. No 
+substitute material will exactly match the historic material 
+in all aspects, but many are able to adequately match 
+the appearance and relevant physical attributes to make 
+for a potential substitute. If a substitute material is not 
+
+12
+an adequate physical and visual match given the specific 
+conditions of the building and the project, then it should 
+not be used to replace distinctive, character-defining 
+materials and features.
+Listed below are various building components or 
+features and the substitute materials which may, in 
+some circumstances, be considered for use as possible 
+replacement materials in a historic rehabilitation project 
+consistent with the Standards for Rehabilitation . This list 
+includes different substitute material options available 
+today for these building features and poses questions 
+that should be asked and considered when choosing 
+between the original material and various types of 
+substitute materials. This is followed by a list of some of 
+the more commonly used, currently available materials 
+that may have some applications as substitute materials 
+and the properties of each that affect their suitability 
+for use as substitutes. This list should not be read as an 
+endorsement of any of these materials, generally, or their 
+appropriateness for use as a substitute material, but it 
+serves as a reminder that the successful use of any building 
+material requires a careful consideration of its properties 
+relative to where and how it will be used. 
+The above chart lists materials that are sometimes used as substitutes for replacement of historic building features. Even within a given 
+category, all materials may not be equally suitable as a substitute replacement material for the actual historic material or feature. Any 
+substitute material should be selected based on its specific physical and visual characteristics, conditions, and intended application 
+consistent with the Secretary of the Interior's Standards for Rehabilitation.
+Masonry 
+Stone, terra 
+cotta
+Architectural 
+Metals 
+Cast & wrought 
+iron, steel, 
+pressed metal
+Siding 
+Wood, asbestos
+Roofing 
+Wood shingle, 
+slate, tile
+Decking 
+Tongue-and-
+groove & 
+square-edge 
+wood
+Molding / Trim 
+Wood
+Aluminum • • • •
+Cast Stone & Precast 
+Concrete • •
+Fiber Reinforced 
+Concretes
+•
+Glass Fiber Reinforced 
+Polymers
+• •
+Fiber Cement • • •
+Mineral / Polymer 
+Composite
+• • • •
+Cellulose Fiber / 
+Polymer Composite
+• • • •
+Non-composite 
+Polymers
+• • •
+Cellular PVC • • •
+Potential Substitute Materials 
+Historic Building Features
+Considering Substitute 
+Materials 
+Considering the use of a substitute material 
+should begin with the following questions about 
+the conditions and location where it will be used:
+•  Will the significance or visibility of the
+historic feature require a very precise match?
+• Is the entire feature being replaced or just a 
+component of it?
+• Are pre-existing conditions contributing to 
+the failure of the existing material, and, if so, 
+how will they be addressed/corrected?
+• Is the need for replacement due to inherent 
+deficiencies of the original material? 
+•  Will the material need to resist any 
+environmental hazards such as flooding  
+or fire?
+Historic Features and Substitute Materials
+Historic Building Features
+
+13
+Historic Building Features: Criteria for selecting an 
+appropriate replacement material
+Masonry
+FEATURES: corbels, brackets, balusters, cornices, 
+window and door surrounds, friezes, wall surfaces, 
+horizontal surfaces, incidental ornament, columns
+HISTORIC MATERIALS: terra cotta, cast stone,  
+stone, concrete 
+POTENTIAL SUBSTITUTES : cast stone, pre-cast concrete, 
+GFRC, GFRP, non-composite polymers (polyurethane), 
+cast or stamped metal
+Questions to ask about the replacement material:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Can it serve a structural function?
+How is the material affected by moisture?
+ Can the material survive flooding and be 
+reused?
+ Can it reproduce the surface texture of the 
+original?
+ Is its shrinkage in curing low enough to allow it 
+to be molded from existing stones?
+ Can matching color be achieved without a 
+coating and with UV stability?
+ Can an adequate match of the surface (color 
+and texture) be achieved with a coating?   
+ Is a coating required?
+ If it is not self-supporting, is it lightweight 
+enough to be supported by an underlying 
+framework?
+ Can multiple original units be replicated with a 
+single replacement piece?
+ Where thermal movement is different from the 
+original material, how will joints accommodate? 
+ Is the material combustible? 
+Architectural Metals
+FEATURES: pilasters, door and window surrounds, 
+cornices, incidental ornament, columns, spandrels, 
+ceilings, sheathing, roofing 
+HISTORIC MATERIALS: cast and wrought iron, steel, 
+bronze, lead, aluminum, and stamped steel (usually 
+galvanized or terne-coated)
+POTENTIAL SUBSTITUTES: GFRP, aluminum,  
+non-composite polymer (polyurethane), GFRC,  
+metallic/polymer composite
+Questions to ask about the replacement material:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ Will the replacement material serve a structural 
+or cosmetic role?
+ Will it expand and contract with temperature 
+change enough to require special 
+accommodation in its installation?
+ If part of an assembly of mixed materials, how 
+will any expansion and contraction of the 
+dissimilar materials be accommodated? 
+ Will the replacement material increase 
+deterioration of the historic or surrounding 
+elements, for instance due to galvanic corrosion, 
+moisture entrapment, jacking of original 
+material, off-gassing creating a corrosive 
+environment, or poor original design of the 
+historic material?
+ How will the replacement material mimic the 
+surface color/patination of the original material?  
+ If a coating is needed, what preparation is 
+needed, and what is its durability or service life 
+of the finish? 
+ What attachment and support systems are 
+necessary?
+ If the original element is structural, but the new 
+material is not, how can supplemental structure 
+be introduced to support the new?
+
+14
+Figure 14. Surface texture is an important aspect in matching the appearance of a historic material, especially when a material is viewed at close 
+range. As seen in these two images, many of the substitute materials produced for siding and trim have an embossed wood grain, making them 
+incompatible for replacing historic wood that was typically planed to a smooth surface. Some substitute products are available with a smooth 
+surface as well. Photos: John Sandor, NPS. 
+Siding
+FEATURES: clapboard, tongue-and-groove or shiplap 
+siding, board and batten, shingles
+HISTORIC MATERIALS: wood and asbestos
+POTENTIAL SUBSTITUTES : cellular PVC, wood fiber/
+polymer composite, fiber cement, mineral/polymer 
+composite 
+Questions to ask about the replacement material: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ What are the widths, lengths, profiles, thicknesses, 
+and textures available?
+ What, if any, are the finishing requirements,  
+and/or is it available factory-finished?
+ How well does it hold paint, and can prefinished 
+surfaces be renewed? 
+ What tools are needed to cut it, and can it be 
+machined?
+ Does it absorb moisture and, if so, to what effect? 
+ Can the material survive flooding and be reused?
+ Will it expand and contract with temperature  
+change enough to require special 
+accommodation in its installation? 
+ What characteristics can affect its handling  
+(e.g., weight, flexibility, brittleness)?
+ Does it have specific fastening requirements? 
+Is it susceptible to insect damage?
+What is its impact resistance?  
+Does it have a flame spread rating?
+What is the expected lifespan and/or warranty?
+Roofing
+HISTORIC MATERIALS: wood shingle, slate shingle, 
+asbestos shingle, clay tile, concrete tile, metal
+POTENTIAL SUBSTITUTES : fiber cement, mineral/poly -
+mer composite, wood fiber/polymer composite, pre-cast 
+concrete, metal 
+Questions to ask about the replacement material: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+What sizes and shapes are available?
+What are color choices? 
+ What is the color stability of the new material, 
+and how will it age/weather? 
+What is the impact resistance? 
+What is its flame spread rating?
+ What are the installation requirements of the 
+new material? 
+ Can the feature being replaced be custom-
+produced if ready-made ones of the new 
+material are not an accurate match? 
+ What is the expected lifespan and/or warranty?
+
+15
+Figure 15. Tongue-and-
+groove porch flooring is 
+manufactured in several 
+different substitute 
+materials. Each type has 
+different properties, though 
+most are more moisture-
+resistant than wood. The 
+prefinished product shown 
+can be painted when 
+worn, but repainting is not 
+recommended for some 
+product choices. Photo: Oak 
+Alley Foundation. 
+Decking 
+FEATURES: tongue-and-groove, square-edge flooring
+HISTORIC MATERIALS: wood
+POTENTIAL SUBSTITUTES: cellular PVC, wood fiber/
+polymer composite, mineral/polymer composite, non-
+composite polymers (solid PVC)
+Questions to ask about the replacement material: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ What are the widths, lengths, and textures 
+available?
+Is it site painted or prefinished? 
+ How well does it hold paint, and can prefinished 
+surfaces we renewed?
+ What tools are needed to cut it, and can it be 
+machined?
+ What dimensional span does its strength allow?
+ Does it absorb water, and if so, to what effect?
+ Can the material survive flooding and be 
+reused?
+ Does it require a drainage plane, or can it be  
+installed atop a membrane?
+ Will it expand and contract with temperature 
+change enough to require special 
+accommodation in its installation? 
+ Is it susceptible to insect damage?
+ Is it impact resistant?  
+ Does it have a flame spread rating?
+ What is the expected lifespan and/or warranty?
+Molding / Trim 
+FEATURES: run moldings, flat boards, casings, cornice, 
+frieze, railings, balustrade, columns
+HISTORIC MATERIALS: wood, metal
+POTENTIAL SUBSTITUTES : cellular PVC, wood fiber/
+polymer composite, mineral/polymer composite, non-
+composite polymer (polyurethane), GFRP, sheet metal
+Questions to ask about the replacement material:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ What are the widths, lengths, and textures 
+available?
+ What, if any, are the finishing requirements  
+and/or is it available factory-finished?
+ How well does it hold paint, and can prefinished 
+surfaces be renewed?
+ What tools are needed to cut it, and can it  
+be machined?
+ Does it absorb moisture, and if so, to what 
+effect?
+ Can the material survive flooding and be 
+reused?
+ Will it expand and contract with temperature  
+change enough to require special 
+accommodation in its installation? 
+ What characteristics can affect its handling  
+(e.g., weight, flexibility, brittleness)?
+ Does it have specific fastening requirements? 
+ Is it susceptible to insect damage?
+ What is its impact resistance?  
+ Does it have a flame spread rating?
+ What is the expected lifespan and/or warranty?
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Potential Substitute Materials: Matching properties  
+and performance needs 
+Physical Composition and Properties 
+After assessing different material options based on the intended application, the appropriateness 
+of a substitute material should also be considered in context of the material’s physical composition, 
+associated properties, and necessary visual match. 
+Aluminum 
+MATERIAL:  Aluminum is a highly corrosion-resistant 
+alloy that can be cast, wrought, or extruded. Molten alu-
+minum is cast into permanent (metal) molds or one-time 
+sand molds forming cast aluminum. Extruded aluminum 
+is formed by passing heated aluminum through a die 
+which produces the desired form. Wrought aluminum 
+is worked using the heated metal and then bending, 
+stamping, and otherwise shaping the metal. If not self-
+supporting, aluminum elements are generally screwed or 
+bolted to a structural frame. Aluminum can be welded, 
+but more often sections, particularly extruded ones, are 
+mechanically connected. 
+PROPERTIES: 
+Isotropic 
+Lightweight 
+Thermal movement greater than cast iron or wood 
+Corrosion-resistant, but direct contact with other 
+metals may trigger galvanic corrosion 
+Lower structural strength that iron or steel 
+Ductile - less brittle than cast iron 
+Non-combustible 
+Retains high defnition through molding process and 
+produces crisp profles through extrusion 
+Can be given a durable metallic fnish through 
+anodization. Surface etching required for paint 
+adhesion 
+Can be machined into a large variety of shapes/ 
+dimensions 
+Figure 16. Aluminum is a highly corrosion-resistant metal 
+that is commonly used as a substitute material for cast iron. 
+Aluminum can be a more afordable and lightweight alternative 
+to cast iron that retains a similar texture, shape, and 
+maintenance cycle. Photo: NPS. 
+16 
+
+ 
+ 
+  
+  
+  
+  
+   
+  
+  
+   
+   
+Cast Stone & Precast Concrete 
+MATERIAL: A cement lime and aggregate mixture that 
+is dry-tamped into a mold is generally referred to as 
+cast stone. Cast stone is one of the original substitute 
+materials. Its longevity has proved that the material ages 
+compatibly with stone. A wet mix of cement and aggre-
+gate poured into molds also has a long history of being 
+used to produce concrete masonry units mimicking stone 
+and roofng tiles mimicking clay tile. Both methods have 
+minimal shrinkage during curing, though they employ  
+different curing and fnishing techniques. Both can 
+include reinforcing bars and anchorage devices installed 
+during fabrication. The dry-tamp fabrication method is 
+especially effective at producing an outer surface with 
+the appearance of stone.  
+Figure 17. The balustrade con-
+sists of multiple prior campaigns 
+of using cast stone to replace 
+the natural stone. The efective  
+match for the surface texture 
+and color of the original stone 
+allowed individual elements  
+to be incrementally replaced 
+only when they had failed, thus 
+retaining the maximum amount  
+of original material as long as 
+possible. Photo: EverGreene 
+Architectural Arts.  
+PROPERTIES: 
+• Isotropic 
+• Weight equivalent to stone 
+• Expansion/contraction similar to stone 
+• Water absorption may differ from that of any 
+particular stone 
+• Can be structural 
+• Non-combustible 
+• Vapor-permeable 
+• May achieve a wide range of color and surface 
+textures by varying mix, but use of pigments may 
+reduce UV stability 
+• Can be coated 
+• May be tooled to match the appearance of 
+tooled stone 
+• Repairs similarly to stone 
+17 
+
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+ 
+Figure 18. Missing 
+historic terra cotta 
+spandrel panels on 
+all foor levels were 
+recreated utilizing glass  
+fber reinforced concrete  
+(GFRC) replacements.  
+New spandrels were 
+fabricated as individual  
+components and  
+attached with metal  
+clips between historic 
+terra cotta piers. Photo: 
+Kris Frail, Dewberry. 
+Fiber Reinforced Concretes (GFRC, CFRC) 
+MATERIAL: Fiber reinforced concretes are lightweight 
+concrete compounds modifed with additives and rein-
+forced with alkaline resistant glass fbers (GFRC), or less 
+frequently carbon fbers (CFRC). They are generally fab-
+ricated as thin-shelled panels and applied to a separate 
+structural frame or anchorage system. GFRC is typically 
+sprayed into forms, although it can be poured, and an-
+choring devices are included in the fabrication. The color 
+is derived from the natural aggregates and, if necessary, 
+a small percentage of added pigments. Because of its 
+low shrinkage in curing, it can be produced using molds 
+taken directly from the building. 
+PROPERTIES: 
+• Isotropic 
+• Lighter weight than solid masonry 
+• Expansion/contraction similar to stone 
+• No load bearing capacity, so underlying framework 
+must be used to accommodate any loads 
+• Material can be fre-rated 
+• Vapor-permeable 
+• Can be produced in larger sections effciently 
+reproducing repetitive elements or features that 
+were originally made up of small individual units 
+• Large range of colors achievable by varying 
+aggregates, but when pigments are needed UV 
+stability may be reduced 
+• May be left uncoated or may be painted 
+18 
+
+ 
+  
+   
+  
+  
+   
+   
+  
+ 
+  
+ 
+  
+Figure 19. A new, lightweight fber reinforced polymer is attached to a new metal armature to replicate damaged and missing 
+elements of a terra cotta cornice. Photo: Quinn Evans. 
+Glass Fiber Reinforced Polymers (FRP , Fiberglass) 
+MATERIAL: Fiberglass is the most well-known of 
+the FRP products generally produced as a thin, rigid, 
+laminate shell formed by pouring a polyester or 
+epoxy resin gelcoat into a mold. When tack-free, 
+layers of chopped glass or glass fabric are added 
+along with additional resins. The surface gel coat 
+can be pigmented or painted. Reinforcing rods and 
+attachment devices can be added when necessary. 
+Because of is low shrinkage in curing, it can be 
+produced using molds taken directly from the building. 
+Rather than being produced as standard components, 
+FRP is custom fabricated for individual applications. 
+PROPERTIES 
+• Isotropic 
+• Lighter weight than masonry, similar to sheet metal 
+• More thermally driven expansion than masonry 
+or metals 
+• No load bearing capacity, so underlying framework 
+must be used to accommodate any loads 
+• High strength to weight ratio 
+• Flammable 
+• Not vapor-permeable 
+• Can be produced in larger sections effciently 
+reproducing repetitive elements or features that 
+were originally made up of small individual units 
+• May be diffcult to match false joints in multi-
+unit assemblies to actual joints that need to 
+accommodate movement 
+• Color can be incorporated into the surface gel-coat, 
+or the surface may be coated  
+19 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Figure 20. Cement board was used to replace a non-historic infll and mimics the confguration of a typical vehicular door of the period. 
+Photos: Historic Augusta. 
+Fiber Cement 
+MATERIAL: Fiber cement products are made from 
+fber, sand that is ground to a powder, cement, and 
+proprietary additives to reduce moisture absorption. 
+The fber used in roof products is glass fber alone, 
+whereas siding and trim board products are primarily 
+wood fber. The material is formed with a smooth or 
+textured surface, cut to standard sizes of panels, boards, 
+or shingles, and cured in an autoclave. Roofng material 
+has integral color, but board and siding products are 
+produced with a primer, if not fully factory fnished. 
+Most siding and trim boards are embossed with a wood 
+grain on one surface and are smooth on the other, the 
+smooth side being the appropriate surface to imitate 
+planed wood. 
+PROPERTIES: 
+• Products are minimally orthotropic 
+• Heavier and more brittle than wood, limiting 
+available lengths 
+• Very little thermal- and no moisture-driven 
+movement 
+• Low water absorption, but not recommended for 
+ground or roof contact 
+• Class A fame spread 
+• Resists insect damage 
+• Available in limited thicknesses and widths 
+• Not machinable, but may be cut with special carbide 
+blades; cutting requires dust collection and personal 
+protective equipment 
+• Cut edges require sealing 
+• Available unfnished, primed, or prefnished, and 
+must be painted (with latex paint) 
+• 15-year limited warranty typical 
+20 
+
+Mineral / Polymer Composite 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+MATERIAL: Calcium carbonate or fy ash are mineral 
+ingredients held in a matrix of various polymers to 
+produce materials formed or molded into a number of 
+building products. Additives found in some of the roof-
+ing products include pigments and UV stabilizers. Some 
+use a substantial portion of recycled material. Different 
+combinations yield products with different properties, 
+each formulated for a specifc building component. 
+When the material is fy ash with some glass fbers 
+bound in a matrix of polyurethane, it is identifed as 
+polyash. Siding, trim, bead board, and deck products 
+are primed or prefnished, whereas roof products have 
+integral color. 
+PROPERTIES: 
+Fly ash (siding and trim) 
+• Isotropic 
+• Heavier and more brittle than wood, and lacking 
+structural capacity 
+• Little thermal or moisture-driven movement 
+• Suffciently low water absorption to permit ground 
+contact 
+• Class C fame spread 
+• Resists insect damage 
+• Available in limited thicknesses and widths 
+• Machinable with carbide tools blades; requires dust 
+collection 
+• Cut edges do not require sealing 
+Figure 21. A mineral 
+polymer composite  
+siding was available in 
+the profle very similar 
+to the historic siding. 
+The replacement siding  
+was used where the 
+original material was 
+almost completely  
+missing beneath 
+a more modern 
+covering. Areas where 
+the original wood 
+was largely intact  
+were replaced with 
+matching wood to 
+sustain more of the 
+material integrity of 
+the building. Photo: 
+Belk Architecture. 
+• Must be painted 
+• 30-year limited warranty typical 
+Calcium carbonate or recycled rubber (roofng) 
+• Isotropic 
+• More thermally-driven movement than slate 
+or wood 
+• Little to no moisture absorption 
+• As shingles: lighter and more fexible than slate 
+• As tongue-and-groove decking: heavier and 
+harder than wood 
+• Not vulnerable to insect damage 
+• Available in limited dimensions 
+• As shingles: Class 4 impact resistance, and fame 
+spread ratings ranging from Class A to Class C 
+depending on the specifc product 
+• As shingles: integral color, that may be subject 
+to fading 
+• As tongue-and-groove decking: prefnished 
+with non-renewable fnish, and can be cut with 
+woodworking tools 
+• 50-year limited warranties on roofng products 
+typical 
+21 
+
+  
+  
+  
+  
+  
+ 
+  
+ 
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+Cellulose Fiber / Polymer Composite 
+MATERIAL: Wood strands or fbers are coated with 
+resin for moisture resistance and zinc-borate for insect 
+and fungal-decay resistance, then consolidated under 
+heated pressure. Solid composite core boards are cut 
+from sheets of material, then factory-primed or fnished. 
+Resulting siding and trim board products can be referred 
+to as engineered wood, fber board, or hardboard. 
+Products may be embossed with a wood grain or have 
+a smooth fnish, the smooth side being the appropriate 
+surface to imitate planed wood. Siding, trim, and 
+tongue-and-grove decking with a slightly different 
+properties are produced by extruding polyvinyl chloride 
+(PVC) combined with non-wood cellulose. Roofng 
+shingles are molded from fne wood fbers, color 
+additives, and UV stabilizers bound with polypropylene 
+or polyethylene (thermoplastics). 
+Figure 22. A porch was reconstructed using posts fabricated on 
+site from a smooth-surface cellulose/polymer composite material. 
+Though the face of the posts are painted, the lack of paint on the 
+bottom at the cut ends is not consistent with manufacturers’ 
+recommendations. This treatment will allow moisture to be 
+absorbed, shortening the life of the new replacement feature. 
+Photo: John Sandor, NPS. 
+PROPERTIES: 
+Predominantly Cellulose (siding, trim and decking)  
+• Minimal thermal movement 
+• Resistant to moisture-driven movement 
+• Lighter and more fexible than solid wood, but lacks 
+structural capacity 
+• Rice hull cellulose: can span typical foor-framing 
+spacing as decking 
+• Low water absorption (for wood, no ground or roof 
+contact) 
+• Class A or Class C fame spread 
+• Resists insect damage 
+• Available in limited dimensions 
+• Machinable with woodworking tools 
+• Wood cellulose: Cut edges must be sealed and 
+may need additional surface prep for fnish; must 
+be painted if unfnished or primed, also available 
+prefnished 
+• Rice hull cellulose: Accepts stain/paint, but no 
+fnish required 
+• 30–50 year limited warranty, depending on 
+manufacturer 
+Predominantly Polymer (roofng) 
+• Minimal thermal movement 
+• Little to no moisture absorption 
+• Lighter and more fexible than slate 
+• Class 4 impact-resistance 
+• Class A fame spread 
+• Available in limited shingle size 
+• 50-year limited warranty typical 
+22 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Figure 23. 3-D printing using various polymers is occasionally used to replicate missing metal or wood features. This new application is 
+continually being refned, but the application can be successful when a painted, lightweight feature needs to be replicated. Photo: NPS. 
+Non-composite Polymers 
+MATERIALS: The main two polymer materials used 
+without signifcant other components are polyurethane 
+and polyvinyl chloride (PVC). Polyurethane millwork is 
+constructed of urethane foam created by mixing isocya-
+nate and resin. The polyurethane mixture is kept under 
+pressure in a mold as it expands to any desired shape. 
+These molded products have a closed-cell, foamed core 
+with a denser surface skin. Polyurethane products can 
+have exterior applications but are more often used 
+for interior features. Polyvinyl chloride (PVC) in a solid 
+extruded form is another polymer that can have archi-
+tectural application as tongue-and-groove decking. Vari-
+ous polymers formed using 3-D printing are also being 
+explored as replacements for painted metal or wood 
+ornamental features. 
+PROPERTIES: Each of the two groupings has distinct 
+physical properties 
+Urethane Foam (moldings and decorative elements) 
+• Lightweight and fexible, but lacking structural 
+capacity 
+• More thermally-driven movement than wood or 
+stone, but less than cellular PVC 
+• Does not absorb water 
+• Flammable 
+• Resists insect damage 
+• Can be cut with standard woodworking tools 
+• Adhesive and mechanical fasteners both 
+recommended for installation 
+• Supplied primed and must be painted (latex paint) 
+• Lifetime limited warranty typical 
+Solid PVC (fooring) 
+• Isotropic 
+• Heavier and less fexible that wood 
+• Minimal thermal movement 
+• Does not absorb water 
+• Strength to span typical foor-framing spacing 
+• Impact-resistance greater than wood 
+• Class A fame spread 
+• No insect susceptibility 
+• Good paint adhesion, but also available prefnished 
+• 20-year warranty typical 
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+Cellular Polyvinyl Chloride (PVC) 
+MATERIAL: Varying amounts of calcium carbonate 
+and a foaming agent are added to melted PVC before 
+passing through an injection die and then a calibrator 
+to produce the shape and size of the fnished product. 
+Cellular PVC is produced as sheets, boards, and mold-
+ings. Differences in the specifcs of the equipment and 
+the rate of cooling create two varieties of product, with 
+distinct properties. One is known as free-foam, having a 
+fairly consistent structure throughout its section, and the 
+other is identifed as Celuka, having a skin that is denser 
+than its core. This primarily affects the ease with which 
+the product can be milled and shaped. The material is 
+white and needs no applied fnish. When produced for 
+decking the material has a colored and textured wear 
+layer over the PVC core. 
+PROPERTIES 
+• Isotropic 
+• Lighter and more fexible than wood 
+• Less strong than wood (in tension and shear), but can 
+span typical foor- framing spacing as decking 
+• More impact-resistance than wood 
+• Negligible water absorption; no moisture-driven 
+movement, unlike wood 
+• Subject to thermal expansion and contraction 
+signifcantly greater than wood, though the thermal 
+movement is less for the same dimension than the 
+cross-grain moisture-driven movement of wood 
+• For longer pieces, thermal movement requires 
+manufacturer’s specifcations to be followed for 
+attachment, and inclusion of expansion joints when 
+installed at low temperature (joints should be glued) 
+• Class A fame spread 
+• Resists insect damage 
+• Machinable with woodworking tools, though cut 
+edges may need additional surface prep for fnish 
+• Good paint adhesion; if painted, high light 
+refectance (HLV) is recommended to minimize heat 
+driven expansion 
+• 25–30-year limited warranty, depending on 
+manufacturer 
+Figure 24. Cellular PVC when painted can be used to replace  
+deteriorated wood features. This beadboard set in a wood frame  
+was not historically designed to shed water efectively and had  
+deteriorated. Cellular PVC was able to match the appearance of the  
+wood details, while its properties were well matched to the shady  
+location, painted fnish, and limited size and confguration within  
+the overall assembly; thus, it should provide a long-lasting solution  
+for this application. Photo: Jennifer Balson Alvarez, NPS. 
+Acknowledgements 
+John Sandor, Architectural Historian, David Trayte, Historical Architect, and Amy Elizabeth Uebel, Architectural Historian, 
+Technical Preservation Services, National Park Service, revised Preservation Brief 16: The Use of Substitute Materials on Historic 
+Building Exteriors, originally written by Sharon C. Park, FAIA, FAPT, and published in 1988. The revised Brief contains expanded 
+and updated information as well as new color photographs describing the general issues and application of substitute 
+materials on historic buildings. 
+The authors wish to thank the following: Peyton Hall, FAIA, Principal Architect Emeritus, Historic Resources Group, Mary 
+Jablonski, President, Jablonski Building Conservation, Inc., Thomas Jester, FAIA, FAPT, LEED AP, Principal, Quinn Evans, Sharon 
+Park, FAIA, FAPT, Associate Director Emerita, Smithsonian Institution, Debra Slaton, Principal, Wiss, Janney, Elstner Associates, 
+Inc., for their guidance and review of this revision; and to Brian Goeken, Chief of Technical Preservation Services, National Park 
+Service, and Jo Ellen Hensley, Elizabeth Tune, and Jennifer Oeschger, Technical Preservation Services, National Park Service, 
+for their help in the editing of the publication. Illustrations not specifcally credited are f rom National Park Service fles. Front 
+cover image: Installation of a new roof feature on a ca.1895 commercial building. The dome was constructed of fber-reinforced 
+polymer to replicate the missing original feature in Aurora, Illinois, 2023. Photo: Kelsey Cozens/JH Real Estate Partners LLC. 
+This publication has been prepared pursuant to the National Historic Preservation Act of 1966, as amended, which directs 
+the Secretary of the Interior to develop and make available information concerning historic properties. This publication is 
+available from the Technical Preservation Services website at http://www.nps.gov/tps/ or hard copies may be purchased from 
+the Government Printing Offces at the U.S. Government Bookstore a t https://bookstore.gpo.gov/. Comments about this 
+publication should be addressed to Technical Preservation Services, National Park Service, 1849 C Street, NW, Mail Stop 7243, 
+Washington, DC 20240, or by email to NPS_TPS@nps.gov. 
+This publication is not copyrighted and can be reproduced without penalty. Normal procedures for credit to the authors and 
+the National Park Service are appreciated. The photographs used in this publication may not be used to illustrate other 
+publications without permission of the owners. 
+October 2023 
+24 

@@ -1,0 +1,1379 @@
+1
+The concept of energy conservation in buildings is not 
+new. Throughout history building owners have dealt 
+with changing fuel supplies and the need for effi cient 
+use of these fuels. Gone are the days of the cheap and 
+abundant energy of the 1950’s. Today with energy 
+resources being depleted and the concern over the 
+effect of greenhouse gases on climate change, owners 
+of historic buildings are seeking ways to make their 
+buildings more energy effi  cient. These concerns are key 
+components of sustainability — a term that generally 
+refers to the ability to maintain the environmental, 
+social, and economic needs for human existence. The 
+topic of sustainable or “green” building practices is too 
+broad to cover in this brief. Rather, this preservation 
+brief is intended to help property owners, preservation 
+professionals, and stewards of historic buildings make 
+informed decisions when considering energy effi ciency 
+improvements to historic buildings. 
+Sound energy improvement measures must take into 
+consideration not only potential energy savings, but 
+also the protection of the historic property’s materials 
+and features. This guidance is provided in accordance 
+with the Secretary of the Interior’s Standards for 
+Rehabilitation to ensure that the architectural integrity 
+of the historic property is preserved. Achieving a 
+successful retrofi  t project must balance the goals of 
+energy effi  ciency with the least impact to the historic 
+building. Planning must entail a holistic approach that 
+considers the entire building envelope, its systems and 
+components, its site and environment, and a careful 
+evaluation of the effects of the measures undertaken. 
+Treatments common to new construction need to be 
+evaluated carefully before implementing them in historic 
+buildings in order to avoid inappropriate alteration of 
+important architectural features and irreparable damage 
+to historic building materials. This brief targets primarily 
+small-to medium-size historic buildings, both residential 
+and commercial. However, the general decision-making 
+principles outlined here apply to buildings of any size 
+and complexity. 
+Inherent Energy Efﬁ cient Features 
+of Historic Buildings
+Before implementing any energy conservation measures, 
+the existing energy-effi  cient characteristics of a historic 
+building should be assessed. Buildings are more 
+than the sum of their individual components. The 
+design, materials, type of construction, size, shape, site 
+orientation, surrounding landscape, and climate all 
+play a role in how buildings perform. Historic building 
+construction methods and materials often maximized 
+natural sources of heat, light and ventilation to respond 
+to local climatic conditions. The key to a successful 
+rehabilitation project is to understand and identify the 
+existing energy-effi  cient aspects of the historic building 
+and how they function, as well as to understand and 
+identify its character-defi  ning features to ensure they 
+are preserved. Whether rehabilitated for a new or 
+continuing use, it is important to utilize the historic 
+building’s inherent sustainable qualities as they were 
+intended to ensure that they function effectively together 
+with any new treatments added to further improve 
+energy effi ciency.
+Windows, courtyards, and light wells
+Operable windows, interior courtyards, clerestories, 
+skylights, rooftop ventilators, cupolas, and other features 
+that provide natural ventilation and light can reduce 
+energy consumption. Whenever these devices can be 
+used to provide natural ventilation and light, they save 
+energy by reducing the need to use mechanical systems 
+and interior artifi cial lighting. 
+Historically, builders dealt with the potential heat loss 
+and gain from windows in a variety of ways depending 
+on the climate. In cold climates where winter heat 
+loss from buildings was the primary consideration 
+before mechanical systems were introduced, windows 
+were limited to those necessary for adequate light and 
+ventilation. In historic buildings where the ratio of glass 
+Improving Energy Effi ciency 
+in Historic Buildings 
+Jo Ellen Hensley and Antonio Aguilar
+PRESERV ATION
+BRIEFS
+ 
+3
+National Park Service
+U.S. Department of the Interior
+Technical Preservation Services
+
+2
+to wall is less than 20%, the potential heat loss through 
+the windows is likely minimal; consequently, they are 
+more energy effi  cient than most recent construction. In 
+hot climates, numerous windows provided valuable 
+ventilation, while features such as wide roof overhangs, 
+awnings, interior or exterior shutters, venetian blinds, 
+shades, curtains and drapes signifi  cantly reduced heat 
+gain through the windows. Historic windows can play 
+an important role in the effi  cient operation of a building 
+and should be retained.
+New architectural styles, beginning with the 
+International Style of the 1920’s, brought about an 
+increase in the percentage of glazing in the total 
+building envelope. By the 1950’s, with the advent of 
+the glass curtain wall, glazing constituted nearly 100% 
+of a building’s exterior walls in many buildings. While 
+many early modern buildings continued to use operable 
+windows as a way to provide natural ventilation, greater 
+reliance on mechanical heating and air conditioning 
+systems eventually reduced the function of exterior 
+glazing to providing light only, particularly in 
+commercial, offi  ce, and institutional buildings. 
+Walls
+Thick masonry walls typical of the late-nineteenth 
+and early-twentieth centuries have inherent thermal 
+characteristics that keep the buildings cooler in 
+the summer and warmer in the winter. Walls with 
+substantial mass have the advantage of high thermal 
+inertia, which reduces the rate of heat transfer through 
+the wall. For instance, a wall with high thermal inertia, 
+subjected to solar radiation for an hour, will absorb the 
+heat at its outside surface, but slowly transfer it to the 
+interior over a period as long as six hours. Conversely, a 
+wall having the equivalent thermal resistance (R-value), 
+but a substantially lower thermal inertia, will transfer 
+the heat in perhaps as little as two hours. Heavy 
+masonry walls also reduce the need for summer cooling. 
+High thermal inertia is the reason many older public and 
+commercial buildings without air conditioning still feel 
+cool during the summer. The heat from the midday sun 
+does not penetrate the buildings until late afternoon and 
+evening, when it is less likely to be occupied or when 
+exterior temperatures have fallen. Heavy masonry walls 
+are also effective in moderating internal temperatures 
+in the winter by dampening the overall peaks of heat 
+gain and loss resulting in a fl  atter and more tolerable 
+daily cycle. In areas that require cooling during the day 
+and heating at night, masonry walls can help spread 
+out excess heat gain from the day to cover some of the 
+needed heating for the evening and night hours. 
+Roofs 
+Roof construction and design in historic buildings, 
+particularly vernacular buildings, are strongly 
+Fig. 1.  A decorative, stained glass skylight allows natural daylight 
+into the interior.
+Fig. 2.  Upper and lower shutters control daylight and provide privacy.
+Fig. 3.  Stone walls with substantial mass have high thermal inertia.
+
+3
+infl  uenced by the conditions of the local climate. Wide 
+overhangs that sometimes extend to create porches 
+minimize the heat gain from the sun in warmer climates, 
+while steep, sloping roofs with minimal or no overhang 
+prevail in colder climates to allow for shedding snow 
+and increasing benefi  cial solar heat gain through the 
+windows. Materials and color also infl  uence the thermal 
+performance of roofs. Metal and light colored roofs, for 
+example, refl  ect sunlight and thereby reduce the heat 
+gain from solar radiation. 
+Floor Plans 
+The fl  oor plan of many historic buildings, particularly 
+traditional vernacular ones, was also designed to 
+respond to the local climate. In cold climates, rooms 
+with low ceilings were clustered around central 
+chimneys to share the heat, while small windows 
+with interior shutters reduced drafts and heat loss. In 
+warmer climates, wide central halls with tall ceilings, 
+breezeways, and large porches all maximized 
+air circulation.
+Landscape
+Site orientation was another factor considered especially 
+in the location of a historic building on its property. 
+In cold climates, buildings were oriented against 
+northern winds while buildings in warm climates were 
+sited to take advantage of prevailing breezes. Evergreen 
+trees planted on the north side of buildings shielded 
+from winter winds; deciduous trees planted to the 
+south provided summer shade and maximum sun in 
+the winter. 
+Energy Audit
+Before implementing any measures to improve the 
+thermal performance of a historic building, an energy 
+audit should be undertaken to evaluate the current 
+energy use of the building and identify defi ciencies 
+in the building envelope or mechanical systems. In 
+some areas, the local utility company may offer a free 
+simple audit, however a more in-depth audit should 
+be obtained from a professional energy auditor. The 
+goal of the audit is to establish a baseline of building 
+performance data to serve as a reference point 
+when evaluating the effectiveness of future energy 
+improvements. It is important to hire an independent 
+auditor who does not have fi  nancial interests in the 
+results, such as a product vendor. 
+An energy auditor fi  rst documents the current energy 
+use patterns in the building to establish an energy use 
+history. This initial step includes obtaining the billing 
+history from the local utility company over a one- or 
+two-year period, as well as documenting the number 
+of building occupants, how the building is used, and 
+the type of fuel consumed. The location of any existing 
+insulation is recorded and the approximate R-value of 
+various components of the building envelope including 
+walls, ceilings, fl  oors, doors, windows and skylights 
+is calculated. The building envelope is inspected to 
+identify areas of air infi  ltration and air loss. The type 
+and age of mechanical systems and major appliances 
+are also recorded. 
+Tools such as a blower door test or infrared 
+thermography are useful to identify specifi  c areas of 
+infi  ltration, lack of insulation and thermal bridging. 
+Mechanical depressurization along with infrared 
+thermography is extremely useful in identifying 
+locations of air leakage and heat loss followed by the use 
+of tracer smoke to isolate specifi  c air leaks. These tests 
+are often challenging to perform on buildings and must 
+be undertaken by experienced professionals to avoid 
+Fig. 4.  A typical 
+New England saltbox 
+features a steeply 
+sloping roof to shed 
+snow and a fl oor plan 
+organized around a 
+central chimney to 
+conserve heat.
+Lean-to 
+Addition
+Parlor Hall
+Fig. 5.  The side porches of this house in Charleston, SC, shade the 
+large windows and provide outdoor living spaces that take advantage 
+of sea breezes.
+
+4
+misleading or inaccurate results. There are professional 
+standards for audits, those of the Building Performance 
+Institute (BPI) being the most widely used. 
+The energy auditor then produces a detailed report 
+that documents the fi  ndings of the audit and includes 
+specifi  c recommendations for upgrades such as air 
+sealing, adding insulation, general repairs, lighting, and 
+improvements to or replacement of mechanical systems 
+or major appliances. Cost estimates are provided 
+for each of the improvements including the cost of 
+implementation, potential operating cost savings, and, 
+importantly, the anticipated payback period. Armed 
+with this information, historic building owners can 
+start to make informed decisions on how to improve 
+the performance of their buildings. Usually the auditor 
+fi  nds a few locations where there is major air leakage; 
+large “holes” that are unique to a particular building 
+and require equipment to fi  nd them. These anomalies 
+are often invisible to the people who use the building on 
+a regular basis. It is important to retest the performance 
+of the building following the implementation of any 
+upgrades undertaken as a result of an energy audit to 
+ensure that the upgrades are performing as expected.
+Prioritizing Energy Upgrades 
+When implementing energy upgrades, efforts should 
+be concentrated on improvements that will provide the 
+most payback for the money expended and the least 
+compromise to the historic character of the building. 
+Some upgrades recommended in energy audits may not 
+be introduced into a historic building feasibly without 
+damaging historic fabric or altering the appearance 
+of signifi  cant features. Removing historic siding and 
+replacing it with new siding to introduce insulation 
+into the wall cavity of a frame building or replacing 
+repairable historic windows are examples of treatments 
+that should not be undertaken on historic buildings. 
+A common misconception is that replacing windows 
+alone will result in major energy savings. This argument, 
+often used to sell replacement windows, is simply not 
+true. Although it varies from building to building, the 
+U.S. Department of Energy (DOE) has documented that 
+air loss attributable to windows in most buildings is 
+only about 10% of the total air loss. Studies have shown 
+that window replacement does not pay for itself in 
+energy savings in a reasonable length of time. Moreover, 
+there are ways to improve the performance of historic 
+windows that do not require their replacement. 
+In addition, historic windows can usually be repaired 
+and are, thus, sustainable, while most new windows 
+cannot be repaired, or even recycled, and may wind up 
+in landfi lls. 
+When considering energy upgrades, it is imperative to 
+get a clear picture of what an improvement will cost 
+initially and how long it will take to pay back the cost 
+in energy savings. Therefore, the life cycle cost of the 
+improvement must be considered as well as its impact 
+on historic fabric. Reducing infi  ltration around existing 
+windows and doors, sealing penetrations in the building 
+envelope, and adding insulation — particularly in the 
+attic where it has little impact on historic fabric — can 
+result in signifi  cant improvements at relatively little 
+cost. Updating mechanical systems or changing the way 
+in which they are operated can also be cost-effective 
+interventions. For example, installing a more effi cient 
+mechanical system alone may pay for itself in ten years.
+Fig. 6. (left)  A blower door is used to depressurize a building by exhausting air at a rate that allows pressure gages and tracer smoke to measure the 
+amount and location of air leakage. Photo: Robert Cagnetta, Heritage Restoration, Inc. 
+Fig. 7. (center and right)  The left thermal image shows the walls of this building before insulating. After insulation was added, the cooler and, thus 
+darker exterior walls evidence how much the heat loss has been reduced. Photos: EYP Architecture & Engineering.
+
+5
+Actions to Improve Energy Efﬁ ciency
+Reducing energy demands for heating and cooling 
+may be accomplished in two steps. First, implement 
+operational changes and upgrades to mechanical 
+systems and major appliances — measures that do not 
+require making alterations or adding new materials — 
+to ensure that a building functions as effi ciently 
+as possible. After all these measures have been 
+implemented, corrective work or treatments, such as 
+weatherization, that require other alterations to the 
+building may be considered. 
+Establishing Realistic Goals
+Energy consumption data gathered by the U.S. Energy 
+Information Administration (see chart) shows that 
+residential buildings built before 1950 (the largest 
+percentage of historic building stock) are about 30 to 
+40 percent less energy effi  cient than buildings built 
+after 2000. Using this as a baseline, a 30 to 40 percent 
+upgrade of a historic building’s energy performance 
+can be a realistic goal. A 40 percent increase in energy 
+effi  ciency would of course be a more achievable goal for 
+buildings that have had minimal upgrades since their 
+original construction, i.e., added insulation, tightening 
+of the exterior envelope, or more effi cient mechanical 
+equipment. On the other hand, achieving “net zero” 
+energy goals as it is currently done with some new 
+construction can be a much more diffi  cult challenge to 
+achieve in a historic retrofi  t. Attempting to reach such a 
+goal with a historic building would most likely result in 
+signifi  cant alterations and loss of historic materials. [The 
+data for commercial buildings documents that buildings 
+in 2003 used approximately the same energy as they did 
+before 1920, after reaching their peak in the 1980’s.]
+Operational Changes
+One of the greatest effects on energy use is user 
+behavior. Once an energy audit has established a 
+baseline for the current energy use in a building, 
+operational changes should be identifi  ed to control 
+how and when the building is used to minimize the use 
+of energy-consuming equipment. These changes can 
+range from simple measures such as regular cleaning 
+and maintenance of mechanical equipment to installing 
+sophisticated controls that cycle equipment on and off 
+in specifi  ed intervals for maximum performance. The 
+following changes are recommended to reduce heating 
+and cooling costs.
+• Install programmable thermostats. 
+• Close off r
+ooms that are not in use and adjust the 
+temperature in those rooms.
+• Do not condition rooms that do not need to be 
+conditioned, thereby reducing the thermal envelope.
+• Use insulated shades and curtains to control heat gain 
+and loss through windows.
+• Use operable windows, shutters, awnings and 
+vents as originally intended to contr
+ol temperature 
+and ventilation.
+• 
+Residential Energy Use Intensity by Age
+Take advantage of natural light. 
+• Install compact fl  uorescent lights (CFL) and light-
+emitting diode (LED) lights. 
+• Install motion sensors and timers for lighting and local 
+ventilation, such as bathroom exhaust fans.
+• Reduce “phantom” electricity loads by turning 
+equipment off when not in use. 
+• Clean and service mechanical equipment regularly. 
+These measures should be undertaken fi  rst to save 
+energy in any existing building and are particularly 
+appr
+opriate for historic buildings because they do not 
+require alterations to historic materials. 
+Upgrading Equipment and Appliances
+In addition to maximizing the ener
+gy effi ciency of 
+existing building systems, substantial savings can be 
+achieved through upgrading equipment and appliances. 
+One should still weigh the operational savings against 
+the initial cost of the new equipment, particularly if the 
+existing equipment is not near the end of its life. 
+Calculator aids that take into account the effi ciency 
+of both the existing and new equipment are available 
+Source: Residential Energy Consumption Survey, 2005
+Year Built KBtu/sq ft/yr
+Prior to 1950 74.5
+1950 to 1969 66.0
+1970 to 1979 59.4
+1980 to 1989 51.9
+1990 to 1999 48.2
+2000 to 2005 44.7
+Fig. 8.  Where Air Escapes From a House (by percentage) – Image 
+based on data from Energy Savers, U.S. Department of Energy.  
+Illustration: Blank Space LLC.
+
+6
+online to assist in determining the payback. Advance 
+planning will allow time to fi  nd the most effi cient unit, 
+as well as to investigate the availability of any state and 
+federal energy credits. As energy prices continue to rise 
+and technology advances, options such as the installation 
+of a solar hot water heater or geothermal ground 
+source or water source heat pumps are becoming more 
+economically feasible. Recommendations for upgrading 
+equipment and appliances include:
+• Upgrade the heating system. It is important to install 
+new furnaces that utilize outside combustion air to 
+reduce air drawn into the building through uncontrolled 
+infi  ltration. [All furnaces and boilers are now measured 
+by their annual fuel utilization effi ciency 
+or AFUE.] 
+Heating equipment is now more effi  cient and gas 
+furnaces that used to have a 60% (AFUE) rating can 
+now operate at as much as 90 to 97% effi ciency.
+• Upgrade the air conditioning system. 
+• Replace the water heater. High-effi  ciency water heaters 
+use far less energy than earlier models, and high-effi ciency 
+tankless water heaters heat water on demand and offer 
+even greater savings. Point of use water heat can also 
+reduce costs and water consumption by reducing the time 
+it takes to draw hot water.
+• Upgrade appliances. Energy Star appliances, 
+particularly refrigerators, washing machines and 
+dishwashers can all reduce electricity use and additional 
+indoor heating loads. 
+Upgrading Building Components 
+In addition to operational and mechanical upgrades, it 
+can be possible to upgrade many building components 
+in a manner that will not jeopardize the historic character 
+of the building and can be accomplished at a reasonable 
+cost. The goal of these upgrades is to improve the 
+thermal performance of the building, resulting in even 
+gr
+eater energy savings. Retrofi
+ t measures to historic 
+buildings should be limited to those that achieve at least 
+reasonable ener
+gy savings, at reasonable costs, with the 
+least impact on the character of the building. 
+The following list includes the most common measures 
+proposed to improve the thermal performance of 
+an existing building; some measures are highly 
+recommended for historic buildings, but others are less 
+benefi  cial, and can even be harmful to a historic building.
+Requires Minimal Alteration 
+• Reduce air leakage. 
+• Add attic insulation.
+• Install storm windows.
+• Insulate basements and crawlspaces. 
+• Seal and insulate ducts and pipes.
+• W
+eather strip doors and add storm doors.
+• Add awnings and shading devices where appropriate.
+Requires More Alteration 
+• Add interior vestibules.
+• Replace windows.
+• Add insulation to wood-frame walls.
+• Add insulation to masonry walls.
+• Install cool roofs and gr
+een roofs.
+The treatments listed fi  rst have less potential to 
+negatively impact the historic fabric of a building. They 
+tend to be less intrusive, are often reversible, and offer 
+the highest potential for energy savings. Undertaking 
+any of the tr
+eatments in the second group, however, may 
+pose technical pr
+oblems and damage to historic building 
+materials and architectural features. Their installation 
+costs may also outweigh the anticipated energy savings 
+and must be evaluated on a case-by-case basis with 
+advice from professionals experienced in historic 
+preservation and building performance.
+Requires Minimal Alteration 
+Reduce air leakage. Reducing air leakage (infi ltration 
+and exfi  ltration) should be the fi  
+rst priority of a 
+preservation retrofi  t plan. Leakage of air into a building 
+can account for 5 to 40 percent of space-conditioning 
+costs, which can be one of the lar
+gest operational costs 
+for buildings.1 In addition, unwanted air leakage into 
+and out of the building can lead to occupant comfort 
+issues resulting from drafts. Air infi  ltration can be 
+especially problematic in historic buildings because it 
+is closely linked to increased moisture movement into 
+building systems. 
+Air fl  ow into and out of buildings is driven by three 
+primary forces: wind pressure, mechanical pressure 
+and the stack effect. Cold outside air that infi ltrates the 
+building through big holes, as well as through loose 
+windows, doors, and cracks in the outer shell of the 
+building, causes the heating system to work harder and
+consume more energy. In a multi-story building, cold 
+air that enters the building at lower levels, including 
+the basement or crawlspace, will travel up through 
+the building and exit out leaky windows, gaps around 
+windows and the attic as a result of temperature and 
+pressure differential. This pattern of air movement 
+Fig. 9.  An energy auditor tests the effi  ciency of a boiler.
+
+7
+is called the “stack effect.” Not only is valuable 
+conditioned air lost, but damaging moisture may also 
+enter the wall cavities and attic spaces. To stop the stack 
+effect, the top and bottom of the exterior walls, inter-
+fl  oor bypasses, and any existing chases or shafts must 
+be sealed, or “draft proofed.” The use of spray foam 
+sealants in basement and attic cracks is a particularly 
+useful technique for reducing air infi ltration. 
+Adding weatherstripping to doors and windows, sealing 
+open cracks and joints at the base of walls and around 
+windows and doors, sealing off recessed lighting fi xtures 
+from above, and sealing the intersection of walls and 
+attic, will substantially reduce air leakage. When using 
+exterior caulk to seal the intersection of siding and doors 
+or windows, do not caulk the underside of clapboards 
+or below windows to allow any liquid water to escape. 
+When infi  ltration and, consequently, exfi ltration are 
+reduced, mechanical ventilation may be necessary to 
+meet occupants’ requirements for fresh air.
+Add attic or roof insulation. Heat loss and gain caused 
+by increased interior/exterior temperature differentials 
+primarily due to the stack effect and solar radiation are 
+greatest at the top of a building. Therefore, reducing 
+heat transfer through the roof or attic should be one of 
+the highest priorities in reducing energy consumption. 
+Adding insulation in unoccupied, unfi nished attics 
+is not only very effective from an energy-savings 
+perspective, but it is also generally simple to install and 
+causes minimal disruption to historic materials. The U.S. 
+Department of Energy (DOE) provides a recommended 
+R-value chart based on climate zones to help determine 
+the optimal amount of insulation that should be installed 
+in a particular project. Local codes may also have specifi c 
+insulation requirements. Insulating trap or access doors 
+should not be overlooked. Even though they may be 
+small, attic doors can be responsible for substantial 
+heat loss and should be addressed as part of any attic 
+insulation project.
+In unfi  nished and unheated attics, the insulation 
+material is typically placed between the fl oor joists 
+using blown-in, batt, or rigid foam insulation. When 
+using fi  berglass batts faced with a vapor retarder, 
+the vapor retarder should be face down towards the 
+heated interior. However, the use of a vapor retarder 
+is not necessary in attic applications. If additional batt 
+insulation is being added over existing insulation that 
+is near or above the top of the joists, new un-faced batts 
+should be placed perpendicular to the old ones to cover 
+the top of the joists and reduce thermal bridging through 
+the frame members. In low-pitched roofs, or where 
+installing batt insulation is diffi  cult, a more complete 
+coverage of the attic fl  oor may be achieved by using 
+blown-in insulation. Unfi  nished attics must be properly 
+ventilated to allow excess heat to escape.
+   
+Fig. 10.  The pattern of air movement referred to as the ”stack effect”.  
+Illustration: Blank Space LLC.
+Fig. 11.  Air infi  ltration and exfi ltration. 
+Illustration: Blank Space LLC.
+Fig. 12.  Recommended energy improvements vary widely based on 
+climate. The information contained in this document is based primarily 
+on the available data for the Northeast and Mid-Atlantic regions.
+DOE Climate Zone Map
+
+8
+Radiant barriers may be used in attics to reduce thermal 
+radiation across the air space between the roof deck 
+and the attic fl  oor in order to reduce summer heat gain. 
+They are most benefi  cial in reducing cooling loads in 
+hot climates and consist of a highly refl  ective sheet or 
+coating, usually aluminum, applied to one or both sides 
+of a fl  exible material. They are effective only when the 
+foil surface faces an air space, and as long as the surface 
+remains shiny – that is, free from dirt, dust, condensation 
+and oxidation. Radiant barriers should not be installed 
+directly over insulation on the attic fl  oor, as they can act 
+as vapor retarders and trap moisture in the insulation 
+unless they are perforated. Their placement should be 
+ventilated on both sides.
+Insulating the underside of the roof rather than the attic 
+fl  oor increases the volume of the thermal envelope of 
+the building, thus making this treatment inherently less 
+energy effi  cient. However, when mechanical equipment 
+and/or ductwork are housed in an attic space, placing 
+the insulation under the roof and treating the attic 
+as a conditioned space is strongly recommended. 
+This treatment allows the equipment to operate more 
+effi  ciently and can prevent moisture-related problems 
+caused by condensation on the mechanical equipment.
+When insulation is placed under the roof, all vents in 
+the attic and the intersection between the walls and roof 
+rafters must be sealed. Rigid foam or batt insulation 
+placed between the roof rafters is a common method of 
+insulating the underside of a roof. Open cell spray foam 
+(.5lb/cuft) may sometimes be applied under the roof 
+deck only when there are no gaps in the sheathing which 
+could allow the foam to expand under slates or shingles, 
+preventing the re-use of the roofi  ng material. Also, if 
+roof leaks do occur, they may go undetected until after 
+major damage occurs. Consideration must also be given 
+to the irreversibility of this procedure because the foam 
+enters the pores of the wood. It may be more advisable 
+to install a breathable layer of material that will allow for 
+future removal without leaving a residue. 
+When total roof replacement is required because of 
+deterioration, installing rigid foam insulation on top 
+of the roof deck before laying the new roofi ng material 
+can be simple and effective, particularly on low-pitched 
+or fl  at roofs. However, the added thickness of the roof 
+caused by installing rigid foam can alter the appearance 
+of projecting eaves, dormers, and other features. If this 
+application would signifi  cantly alter the appearance of 
+these features, consider other methods. 
+Install storm windows. The addition of metal or wood 
+exterior or interior storm windows may be advisable 
+to increase the thermal performance of the windows 
+in ways that weatherstripping and caulking cannot 
+address. A single-glazed storm window may only 
+increase a single-pane window’s thermal resistance to 
+R2, however, that is twice as good as a single-glazed 
+window alone. It will make a noticeable contribution 
+to the comfort level of the building occupant, with 
+the added benefi  t of protecting the historic window 
+from weathering. Using clear, non-tinted, low-e glass 
+in the storm window can further increase the thermal 
+performance of the window assembly without the loss of 
+historic fabric. Studies have shown that the performance 
+of a traditional wood window with the addition of a 
+storm window can approach that of a double-glazed 
+replacement window.
+2 Some storm windows are 
+available with insulated low-e glass, offering even 
+higher thermal performance without the loss of the 
+historic window. Furthermore, a storm window avoids 
+the problem of irreparable seal failure on insulated glass 
+units (IGUs) used in modern replacement windows. 
+While the lifespan of the IGU depends both on the 
+quality of the seal and other factors, it is unreasonable to 
+expect more than 25 years. Once the seal fails, the sash 
+itself will usually need to be entirely replaced.
+By providing an additional insulating air space and 
+adding a barrier to infi  ltration, storm windows improve 
+comfort and reduce the potential for condensation on the 
+glass. To be effective and compatible, storm windows 
+must be tight fi  tting; include a sealing gasket around the 
+glass; align with the meeting rail of the primary sash; 
+match the color of the sash; and be caulked around the 
+frame to reduce infi  ltration without interfering with any 
+weep holes. 
+Whether a storm window or the historic window itself, 
+the interior window must be the tighter of the two units 
+to avoid condensation between the windows that can 
+Fig. 14.  Sample installation of rigid foam insulation, tapered at the 
+edge to avoid altering the appearance of the roof.
+Fig. 13.  Sample installation of a radiant barrier.
+Roof Decking
+Air Space
+Radiant Barrier
+Insulation
+Joist
+
+9
+occur in a cold climate that requires indoor heating. 
+Condensation is a particular concern if it collects on 
+the historic window, as can easily happen with a loose-
+fi  tting, storm window. While interior storm windows 
+can be as thermally effective as exterior storm windows, 
+appropriate gaskets must be used to ensure that 
+damage-causing condensation does not form on the 
+inside face of the historic window. Opening or removing 
+the interior storm windows during non-heating months 
+also helps to avoid the negative effects of moisture 
+build-up. 
+For large, steel industrial windows, the addition of 
+interior, insulated sliding glass windows that align 
+with the primary vertical mullions has proven to be a 
+successful treatment that allows the primary window to 
+remain operable. 
+Insulate basements and crawlspaces. The fi  rst step in 
+addressing the insulation of basements and crawl spaces 
+is to decide if they are to be part of the conditioned 
+space and, therefore, within the thermal envelope of 
+the building. If these areas are kept outside the thermal 
+envelope of the building and treated as unconditioned 
+areas, insulating between the fl  oor joists on the 
+underside of the subfl  oor is generally recommended. 
+Alternatively, rigid foam insulation installed over 
+the bottom of the fl  oor joists on the basement or 
+crawlspace side may also be used. All gaps between the 
+unconditioned and conditioned areas of the building, 
+including the band joists, should be air sealed to prevent 
+air infi  ltration into the upper levels of the building. 
+If the crawlspace contains mechanical equipment, or if 
+high levels of moist air enter the crawlspace through 
+vents during the summer months, it is advisable to 
+include the crawlspace within the thermal boundary of 
+the building. As in attics, water vapor can condense on 
+ducts and other equipment located in unconditioned 
+basements and crawlspaces. In the past, building codes 
+routinely required that crawlspaces be treated as non-
+conditioned spaces and be ventilated. However, this has 
+not proven to be a best practice in all cases. Ventilation 
+through crawlspace vents does not keep the space dry 
+during humid summers. All vents should be sealed and 
+access doors weather-stripped. Rigid foam insulation 
+installed on the interior face of the wall is recommended 
+for basement and crawlspace foundation walls, only 
+after all drainage issues have been addressed. Special 
+attention should be given to ensure that all the joints 
+between the insulation boards are sealed. 
+A moisture barrier on exposed dirt in a crawlspace is 
+strongly recommended to prevent ground moisture 
+from entering the building envelope. Whenever feasible, 
+pouring a concrete slab over a moisture barrier in 
+crawlspaces or basements with exposed dirt fl oors 
+should be considered. 
+Seal and insulate ducts and pipes. A surprisingly 
+enormous amount of energy is wasted when heated 
+or cooled air escapes from supply ducts or when 
+hot attic air leaks into air conditioning return ducts. 
+Based on data collected in ener
+gy audits, as much as 
+35 percent of the conditioned air in an average central 
+air conditioning system may escape fr
+om the ducts.3 
+Care must be taken to completely seal all connections 
+in the duct system and adequately insulate the ducts, 
+especially in unconditioned spaces. This loss of 
+energy is another reason to treat attics, basements and 
+crawlspaces as conditioned spaces. Ducts located in 
+unconditioned spaces should be insulated based on the 
+recommendations for the appropriate climate zone. Hot 
+water pipes and water heaters should be insulated in 
+unconditioned spaces to retain heat, and all water pipes 
+insulated to prevent freezing in cold climates.
+Weather strip doors and add storm doors. Historic 
+wood doors are often signifi  cant featur
+es and should 
+always be retained, rather than replaced. While an 
+insulated r
+eplacement door may have a higher R-value, 
+doors represent a small area of the total building 
+envelope, and the difference in energy savings after 
+replacement would be insignifi  cant. The doors and 
+frames should, however, have proper maintenance 
+including regular painting, and the addition or renewal 
+of weatherstripping. Storm doors can improve the 
+thermal performance of the historic door in cold 
+climates and may be especially recommended for a 
+door with glazing. The design of the storm door should 
+be compatible with the character of the historic door. 
+A fully glazed storm door with a frame that matches 
+the color of a historic door is often an appropriate 
+choice because it allows for the historic door to remain 
+visible. Storm doors are recommended primarily for 
+residential buildings. They are not appropriate for 
+commercial or industrial buildings. These buildings 
+never had storm doors, because the doors were opened 
+frequently or remained open for long periods. It may 
+also not be appropriate to install a storm door on a 
+highly signifi  cant entrance door. In some instances,  
+Fig. 15.  Original steel windows were 
+retained and made operable during 
+the rehabilitation of this historic mill 
+complex. Insulated sliding windows 
+were added on the interior to improve 
+energy effi ciency.
+
+10
+the addition of a storm door could add signifi cant heat 
+gain on certain exposures or in hot climates, which could 
+degrade the material or fi  nish of the historic door.
+Add awnings and shading devices. Awnings and other 
+shading devices can provide a considerable reduction 
+of heat gain through windows and storefronts. Keeping 
+existing awnings, or replacing them if previously 
+removed, is a relatively easy way to enhance the energy 
+performance of a building. Awnings should only be 
+installed when they are compatible with the building 
+type and character. In building types that did not have 
+awnings historically, interior shades, blinds or shutters 
+should be considered instead.
+A wide range of shades, blinds and shutters is available 
+for use in all types of buildings to control heat gain or 
+loss through windows, as well as lighting levels. When 
+properly installed, shades are a simple and cost-effective 
+means of saving energy. Some shade fabrics block only 
+a portion of the light coming in — allowing the use of 
+natural light — while others block all or most of the 
+light. The light-colored or refl  ective side of the shades 
+should face the window to reduce heat gain. Quilted 
+roller shades feature several layers of fi  ber batting and 
+sealed edges, and these shades act as both insulation 
+and an air barrier. They control air infi ltration more 
+effectively than other soft window treatments. Pleated or 
+cellular shades provide dead air spaces within the cells 
+to add insulation value. These shades, however, do not 
+measurably control air infi ltration.
+Retractable awnings and interior shades should be 
+kept lowered during the summer to prevent unwanted 
+heat gain, but raised in the winter to take advantage 
+of the heat gain. Interior shades, especially those that 
+have some insulation value, should be lowered at night 
+during the winter months.
+Light shelves are architectural devices designed to 
+maximize daylight coming through windows by 
+refl ecting it deeper into the building. These horizontal 
+elements are usually mounted on the interior above 
+head height in buildings with high ceilings. Although 
+they can provide energy savings, they are not compatible 
+with most historic buildings. In general, light shelves 
+are most likely to be appropriate in some industrial or 
+modernist-style buildings, or where the historic integrity 
+of interior spaces has been lost and they can be installed 
+without being visible from the exterior.
+Requires More Alteration 
+Add interior vestibules. Vestibules that create a 
+secondary air space or “air lock” are effective in 
+reducing air infi  ltration when the exterior door is 
+open. Exterior and interior vestibules are common 
+architectural features of many historic buildings and 
+should be retained wherever they exist. Adding an 
+interior vestibule may also be appropriate in some 
+historic buildings. For example, new glazed interior 
+vestibules may be compatible changes to historic 
+commercial and industrial buildings. New exterior 
+vestibules will usually result in too great a change to the 
+character of primary entrances, but may be acceptable 
+in very limited instances, such as at rear entrances. Even 
+in such instances, new vestibules should be compatible 
+with the architectural character of the historic building.
+Replace windows. Windows are character-defi ning 
+features of most historic buildings. As discussed 
+previously, the replacement of a historic window with 
+a modern insulated unit is not usually a cost-effective 
+choice. Historic wood windows have a much longer 
+service life than replacement insulated windows, which 
+cannot be easily repaired. Therefore, the sustainable 
+choice is to repair historic windows and upgrade their 
+thermal performance. However, if the historic windows 
+are deteriorated beyond repair, if repair is impractical 
+because of poor design or material performance, or 
+if repair is economically infeasible, then replacement 
+windows may be installed that match the historic 
+windows in size, design, number of panes, muntin 
+profi  le, color, refl  ective qualities of the glass, and the 
+same relationship to the window opening. 
+Other options should also be considered before 
+undertaking complete window replacement. If only the 
+sash is severely deteriorated and the frame is repairable, 
+then only the sash may need to be replaced. If the 
+limited lifespan of insulated glass is not a concern, the 
+new sash can be made to accommodate double glazing.
+Fig. 16.  Historic vestibules retain conditioned air in the living spaces.
+
+11
+Where the sashes are sound, but improved thermal 
+performance without the use of a storm window 
+is desired, some windows may be retrofi tted with 
+insulated glass. If the existing sash is of suffi cient 
+thickness, it may be routed to accept insulated, clear 
+low-e glass without extensive loss of historic material 
+or historic character. When insulated glass is added in 
+a new or retrofi  tted sash, any weights will have to be 
+modifi  ed to accommodate the signifi  cant extra weight.
+Wall Insulation
+Adding wall insulation must be evaluated as part of 
+the overall goal to improve the thermal effi ciency of 
+a building and should only be considered after the 
+installation of attic and basement insulation. Can this 
+goal be achieved without the use of wall insulation? Can 
+insulation be added without causing signifi cant loss 
+of historic materials or accelerated deterioration of the 
+wall assembly? Will it be cost effective? These are basic 
+questions that must be answered before a decision is 
+made to insulate the walls and may require professional 
+evaluation.
+Add insulation to wood-frame walls. Wood is 
+particularly susceptible to damage from high moisture 
+levels; therefore, addressing existing moisture problems 
+before the addition of insulation is essential. 
+Un-insulated historic wood buildings have a higher 
+rate of air infi  ltration than modern buildings; while 
+this makes older buildings less effi  cient thermally, it 
+helps dissipate the unwanted moisture and thus keeps 
+building assemblies dry. Climate, building geometry, 
+the condition of the building materials, construction 
+details, and many other factors make it diffi  cult to assess 
+the impact that adding insulation will have on reducing 
+the air fl  ow and, hence, the drying rate in a particular 
+building. For this reason, predicting the impact of 
+adding insulation to wood-frame walls is diffi cult. 
+Insulation Installed in the Wall Cavity: When sheathing is 
+part of the wall assembly, and after any moisture-related 
+problems have been addressed, adding insulation to the 
+interior cavity of a wood-frame wall may be considered. 
+Adding insulation in a wall where there is no sheathing 
+between the siding and studs is more problematic, 
+however, because moisture entering the wall cavity 
+through cracks and joints by wind-driven rain or 
+capillary action will wet the insulation in contact with 
+the back of the siding. 
+Installing blown-in insulation, either dense-packed 
+cellulose or fi  berglass, into the wall cavity causes 
+the least amount of damage to historic materials and 
+fi  nishes when there is access to the cavity walls, and 
+it is therefore a common method of insulating wood-
+frame walls in existing buildings. In most cases, blowing 
+insulation material into the wall cavity requires access 
+through the exterior or interior wall surfaces. When 
+historic plaster, wood paneling, or other interior 
+historic decorative elements are present, accessing the 
+cavity from the exterior is recommended by removing 
+individual siding boards at the top of each wall cavity. 
+In this manner the boards can be reinstalled without 
+unsightly drill holes on the exterior. If the plaster is 
+deteriorated and will require repair, then the wall cavity 
+may be accessed from the interior through holes drilled 
+through non-decorative plaster.
+Of the materials available, dense-packed cellulose fi ber 
+is most commonly used. Its R-value, ability to absorb 
+and diffuse moisture, impediment to air fl ow, relatively 
+simple installation, and low cost make it a popular 
+choice. Cellulose insulation from most manufacturers is 
+available in at least two grades that are characterized by 
+the type of fi  re retardant added to the insulation. The fi re 
+retardants are usually: (1) a mix of ammonium sulfate 
+and boric acid or (2) boric acid only (termed “borate 
+only”). The recommended type of cellulose insulation 
+for historic buildings is the “borate only” grade, as 
+cellulose treated with sulfates reacts with moisture in the 
+air and forms sulfuric acid which corrodes many metals.
+Optimum conditions for installing insulation inside 
+the wall cavity occur in buildings where either the 
+exterior materials or interior fi  nishes have been lost, 
+or where the materials are deteriorated beyond repair 
+and total replacement is necessary. However, wholesale 
+removal of historic materials either on the exterior or 
+interior face of a historic wall to facilitate insulation is 
+Fig. 17.  Illustration of insulation from the 1889 trade catalog 
+“The Uses of Mineral Wool in Architecture, Car Building and Steam 
+Engineering”.  Collection Centre Canadien d’Architecture/Canadian 
+Centre for Architecture, Montreal, Canada.
+
+12
+not recommended. Even when the exterior materials, 
+such as wood siding, could potentially be r
+einstalled, 
+this method, no matter how carefully executed, usually 
+results in damage to, and loss of historic materials.
+If the wall cavity is open, the opportunity to properly 
+install 
+batt insulation is available. A tight fi t between 
+the insulation and the adjacent building components 
+is critical to the performance of the insulation. Batt 
+insulation must be cut to the exact length of the cavity. 
+A batt that is too short creates air spaces above and 
+beneath the batt, allowing convection. A batt that is too 
+long will bunch up, creating air pockets. Air pockets 
+and convection currents signifi  cantly reduce the thermal 
+performance of insulation. Each wall cavity should be 
+completely fi  lled. Unfaced, friction-fi  t batt insulation 
+fl  uffed to fi  ll the entire wall cavity is recommended. Any 
+air gaps between the insulation and the framing or other 
+assembly components must be avoided. Batts should be 
+split around wiring, pipes, ducts and other elements in 
+the wall rather than be pushed or compressed around 
+obstacles.
+When adding insulation to the sidewalls, the band joist 
+area between fl  oors in multi-story, platform-framed 
+buildings should be included in the sidewall insulation 
+retrofi  t. The R-value of the insulation installed in the 
+band joist area should be at least equal to the R-value of 
+the insulation in the adjacent wall cavities. In balloon-
+framed buildings, the wall cavity is continuous between 
+fl  oors except where fi  re stops have been inserted. 
+The use of spray foam or foamed-in-place insulation 
+would appear to have great potential for application 
+in historic wood-frame buildings due to their ability to 
+fl  ow into wall cavities and around irregular obstacles. 
+Their high R-value and function as an air barrier make 
+them a tempting choice. However, their use presents 
+several problems. The injected material bonds tightly to 
+historic materials making its removal diffi cult, especially 
+if it is encased in an existing wall. The pressure caused 
+by the expansion rate of these foams within a wall can 
+also damage historic material, including breaking the 
+plaster keys or cracking existing plaster fi nishes.
+Insulation Installed on Either Side of the Wall: Batt, rigid 
+foam board, and spray foam insulation are commonly 
+added to the interior face of walls in existing buildings 
+by furring-out the walls to accommodate the additional 
+thickness. However, this often requir
+es the destruction 
+or alteration of important architectural features, such 
+as cornices, base boards, and window trim, and the 
+removal or covering of plaster or other historic wall 
+fi  nishes. Insulation installed in this manner is only 
+recommended in buildings where interior spaces and 
+features lack architectural distinction or have lost 
+signifi  cance due to previous alterations. 
+Adding rigid foam insulation to the exterior face of 
+wood-frame buildings, while common practice in 
+new construction, is never an appropriate treatment 
+for historic buildings. Exterior installation of the foam 
+boards requires removal of the existing siding and trim 
+to install one or more layers of polyisocyanurate or 
+polystyrene foam panels. Depending on the amount 
+of insulation added for the particular climate, the wall 
+thickness may be dramatically increased by moving 
+Band Joist
+Fig. 18.  Dense-packed cellulose insulation is being blown in through 
+holes drilled in the sheathing. Once the operation has been completed, 
+the shingles will be reinstalled. Photo: Edward Minch.
+Fig. 20.  The walls 
+have been furred 
+out inappropriately 
+around the historic 
+window trim creating 
+an appearance the 
+interior never had 
+historically. 
+Fig. 19.  Platform framing (left) and Balloon framing (right).
+
+13
+the siding as much as 4 inches out from the sheathing. 
+Even if the historic siding and trim could be removed 
+and reapplied without signifi  cant damage, the historic 
+relationship of windows to walls, walls to eaves, 
+and eaves to roof would be altered, which would 
+compromise the architectural integrity and appearance 
+of the historic building.
+Solid Masonry Walls: As with frame buildings, installing 
+insulation on the interior walls of a historic masonry 
+structure should be avoided when it would involve 
+covering or removing important architectural features 
+and fi  nishes, or when the added thickness would 
+signifi  cantly alter the historic character of the interior. 
+The addition of insulation on solid masonry walls 
+in cold climates results in a decr
+eased drying rate, 
+an increased frequency of freeze-thaw cycles, and 
+prolonged periods of warmer and colder temperatures 
+of the masonry. These changes can have a direct effect on 
+the durability of materials.
+Depending on the type of masonry, exterior masonry 
+walls can absorb a signifi  cant amount of water when it 
+rains. Masonry walls dry both toward the exterior and 
+the interior. When insulation is added to the interior side 
+of a masonry wall, the insulation material reduces the 
+drying rate of the wall toward the interior, causing the 
+wall to stay wet for longer periods of time. Depending 
+on the local climate, this could result in damage to 
+the historic masonry, damage to interior fi nishes, and 
+deterioration of wood or steel structural components 
+What about moisture?
+The issue of moisture in insulated assemblies is the 
+subject of much debate.  While there is no conclusive 
+way to predict all moisture problems, especially 
+in historic buildings, experts seem to agree on a 
+few basic tenants.  Exterior materials in insulated 
+buildings become colder in the winter and stay wet 
+longer following a rain event. While the wetness may 
+not pose a problem for robust materials, it may speed 
+the deterioration of some building materials, and 
+lead to more frequent maintenance such as repainting 
+of wood or repointing of masonry. Summer moisture 
+problems are most commonly associated with 
+excessive indoor cooling and the use of interior wall 
+fi  nishes that act as vapor retarders (paint buildup or 
+vinyl wall coverings). Good air-sealing at the ceiling 
+plane usually controls moisture in insulated attics.
+Most problems are caused by poor moisture 
+management, poor detailing which does not allow 
+the building to shed water, or inadequate drainage.  
+Therefore, a thorough assessment of the building’s 
+ability to keep out unwanted moisture must be done 
+before adding new insulation materials.  Refer to 
+Preservation Brief #39: Holding the Line: Controlling 
+Unwanted Moisture in Historic Buildings for more 
+information.  Because of all the uncertainties 
+associated with insulating walls, brick walls in 
+particular, it may be advisable to hire a professional 
+consultant who specializes in the many factors that 
+affect the behavior of moisture in a building and 
+can apply this expertise to the unique characteristics 
+of a particular structure. Sophisticated tools such 
+as computer modeling are useful to predict the 
+performance of building assemblies, but they require 
+interpretation by a skilled practitioner and the results 
+are only as good as the data entered. It is important 
+to remember, there are no reliable prescriptive 
+measures to prevent moisture problems.
+4
+Vapor Retarders (Barriers): Vapor retardants are 
+commonly used in modern construction to manage 
+the diffusion of moisture into wall cavities and 
+attics.  For vapor retardants to work properly, 
+however, they must be continuous, which makes 
+their installation diffi  cult in existing buildings, and 
+therefore generally not recommended. Even in new 
+construction, installation of vapor retardants is not 
+always indicated.  Formerly, the recommended 
+treatment was to install a vapor retardant toward 
+the heated side of the wall (toward the interior 
+space in cold climates and toward the exterior in hot 
+climates).  DOE now recommends that if moisture 
+moves both to the interior and exterior of a building 
+for signifi  cant parts of the year, it is better not to use 
+a vapor retarder at all.
+5
+Fig. 21.  The interior face of a brick masonry wall shows damage that 
+resulted from the installation of a vapor retardant (foil facing) and 
+thermal insulation. Photo: Simpson Gumpertz & Heger.
+
+14
+imbedded in the wall. Masonry walls of buildings that 
+are heated during the winter benefi  t from the transfer of 
+heat from the inside to the outside face of the walls. This 
+thermal transfer protects the exterior face of the wall by 
+reducing the possibility of water freezing in the outer 
+layers of the wall, particularly in cold and wet climates. 
+The addition of insulation on the interior of the wall not 
+only prolongs the drying rate of the exterior masonry 
+wall, but keeps it colder as well, thereby increasing the 
+potential for damage due to freeze-thaw cycles.
+6
+Extreme swings in temperature may also have negative 
+effects on a historic masonry wall. The addition of 
+insulation materials to a historic masonry wall decreases 
+its ability to transfer heat; thus, walls tend to stay warm 
+or cold for longer periods of time. In addition, walls 
+exposed to prolonged solar radiation during winter 
+months can also be subject to higher swings in surface 
+temperature during the day. Deleterious effects due 
+to stress caused by expansion and contraction of the 
+building assembly components can result. 
+Buildings with masonry materials of higher porosity, 
+such as those built with low-fi red brick, or certain 
+soft stones, are particularly susceptible to freeze-thaw 
+cycles and must be carefully evaluated prior to adding 
+insulation. Inspection of the masonry in areas that are 
+not heated such as parapets, exposed wing walls, or 
+other parts of the building is particularly important. A 
+noticeable difference in the amount of spalling or sanding 
+of the masonry in these areas could predict that the same 
+type of deterioration will occur throughout the building 
+after the walls are insulated. Brick that was fi red at lower 
+temperatures was often used on the inside face of the 
+wall or on secondary elevations. Even masonry walls 
+faced with more robust materials such as granite may 
+have brick, rubble, mortar or other less durable materials 
+as backing.
+Spray foams are being used for insulation in many 
+masonry buildings. Their ability to be applied over 
+irregular surfaces, provide good air tightness, and 
+continuity at intersections between, walls, ceilings, fl oors 
+and window perimeters makes them well suited for use 
+in existing buildings. However, the long-term effects 
+of adding either open- or closed-cell foams to insulate 
+historic masonry walls as well as performance of these 
+products have not been adequately documented. 
+Use of foam insulation in buildings with poor quality 
+masonry or uncontrolled rising damp problems should 
+be avoided. 
+Periodic monitoring of the condition of insulated 
+masonry walls is strongly recommended regardless of 
+the insulation material added.
+Install cool roofs and green roofs: Cool roofs and 
+vegetated “green roofs” help to reduce the heat gain 
+from the roof, ther
+eby cooling the building and its 
+environment. Cool roofs include refl  ective metal roofs, 
+light-colored or white roofs, and fi berglass shingles 
+that have a coating of refl  ective crystals. All of these 
+roofi  ng materials refl  ect the sun’s radiation away from 
+the building, which lessens heat gain, resulting in a 
+reduction of the cooling load. Cool roofs are generally 
+not practical in northern climates where buildings 
+benefi  t from the added heat gain of a dark-colored 
+roof during colder months. Cool and green roofs are 
+appropriate for use on historic buildings only when they 
+are compatible with their architectural character, such 
+as fl  at roofs with no visibility. A white-colored roof that 
+is readily visible is not appropriate for historic metal 
+roofs that were traditionally painted a dark color, such 
+as green or iron oxide red. A white refl  ective roof is most 
+suitable on fl  at roofed historic buildings. If a historic 
+building has a slate roof, for example, removing the 
+slate to install a metal roof is not a compatible treatment. 
+It is never appropriate to remove a historic roof if the 
+material is in good or repairable condition to install 
+a cool roof. However, if the roof has previously been 
+changed to an asphalt shingle roof, fi berglass shingles 
+with special refl  ective granules may be an appropriate 
+replacement. 
+A green roof consists of a thin layer of vegetation 
+planted over a waterproofi  ng system or in trays installed 
+on top of an existing fl  at or slightly sloped roof. Green 
+roofs are primarily benefi  cial in urban contexts to reduce 
+the heat island effect in cities and to control storm water 
+run-off. A green roof also reduces the cooling load of 
+the building and helps cool the surrounding urban 
+environment, fi  lters air, collects and fi  lters storm water, 
+and can provide urban amenities, including vegetable 
+gardens, for building occupants. The impact of increased  
+Fig. 22.  Installation of both cool and green roofs in an urban 
+environment.
+
+15
+structural loads, added moisture, and potential for 
+leaks must be considered before installing a green roof. 
+A green roof is compatible on a historic building only if 
+the plantings are not visible above the roofl  ine as seen 
+from below. 
+Alternative Energy Sources 
+Although not the focus of this publication, alternative 
+energy sources are dealt with in more detail in The 
+Secretary of the Interior’s Standards for Rehabilitation & 
+Illustrated Guidelines on Sustainability for Rehabilitating 
+Historic Buildings and other NPS publications. 
+Devices that utilize solar, geothermal, wind and other 
+sources of energy to help reduce consumption of 
+fossil fuel-generated energy can often be successfully 
+incorporated in historic building retrofi  ts. However, if 
+the alterations or costs required to install these devices 
+do not make their installation economically feasible, 
+buying power generated off site from renewable 
+sources may also be a good alternative. The use of most 
+alternative energy strategies should be pursued only 
+after all other upgrades have been implemented to make 
+the building more energy effi  cient because their initial 
+installation cost is usually high. 
+Solar Energy: Man has sought to harness the power 
+of solar energy to heat, cool, and illuminate buildings 
+throughout history. Construction techniques and design 
+strategies that utilize building materials and components 
+to collect, store, and release heat from the sun are 
+described as “passive solar design.” As previously 
+discussed, many historic buildings include passive solar 
+features that should be retained and may be enhanced. 
+Compatible additions to historic buildings also offer 
+opportunities to incorporate passive solar features. 
+Active solar devices, such as solar heat collectors and 
+photovoltaic systems, can be added to historic buildings 
+to decrease reliance on grid-source fossil-fuel powered 
+electricity. Incorporating active solar devices in existing 
+buildings is becoming more common as solar collector 
+technology advances. Adding this technology to historic 
+buildings, however, must be done in a manner that 
+has a minimal impact on historic roofi  ng materials and 
+preserves their character by placing them in locations 
+with limited or no visibility, i.e., on fl  at roofs at a low 
+angle or on a secondary roof slope. 
+Solar collectors used to heat water can be relatively 
+simple. More complex solar collectors heat a fl uid or 
+air that is then pumped through the system to heat or 
+cool interior spaces. Photovoltaic panels (PV) transform 
+solar radiation into electricity. The greatest potential 
+for the use of PV panels in historic buildings is on 
+buildings with large fl  at roofs, high parapets, or roof 
+confi  gurations that allow solar panels to be installed 
+without being prominently visible. The feasibility 
+of installing solar devices in small commercial and 
+residential buildings will depend on installation costs, 
+conventional energy rates, and available incentives, all of 
+which will vary with time and location. The same factors 
+apply to the use of solar collectors for heating water, but 
+smaller installations may meet a building’s need and the 
+technology has a considerable track record. 
+Geothermal Energy: The use of the earth’s heat is 
+another source of readily-accessible clean energy. The 
+most common systems that utilize this form of energy 
+are geothermal heat pumps, also known as geo-
+exchange, earth-coupled, ground-source, or water-source 
+heat pumps. Introduced in the late 1940s, geothermal 
+heat pumps rely on heat from the constant temperature 
+of the earth, unlike most other heat pumps which use 
+the outside air temperature as the exchange medium. 
+This makes geothermal heat pumps more effi cient than 
+conventional heat pumps because they do not require an 
+electric back-up heat source during prolonged periods of 
+cold weather. 
+There are many reasons that geothermal heat pumps 
+are well suited for use in historic buildings. They 
+can reduce the amount of energy consumption and 
+emissions considerably, compared to the air exchange 
+systems or electric resistance heating of conventional 
+HVAC systems. They require less equipment space, 
+have fewer moving parts, provide better zone space 
+conditioning, and maintain better internal humidity 
+levels. Geothermal heat pumps are also quieter because 
+they do not require external air compressors. Despite 
+higher installation costs, geothermal systems offer 
+long-term operational savings and adaptability that 
+may make them a worthwhile investment in some 
+historic buildings. 
+Fig. 23.  Solar collectors installed in a compatible manner on low 
+sloping sawtooth monitors. Top Photo: Neil Mishalov, Berkeley, CA.
+
+16
+Wind Energy: For historic properties in rural areas, 
+where wind power has been utilized historically, 
+installation of a wind mill or turbine may be suitable to 
+the historic setting and cost effective. Before choosing to 
+install wind-powered equipment, the potential benefi t 
+and the impact on the historic character of the building, 
+the site and surrounding historic district must be 
+analyzed. In order for the turbines to work effectively, 
+average wind speeds of 10 mph or higher are necessary. 
+This technology may not be practical in more densely-
+populated areas sheltered from winds or regions where 
+winds are not consistent. In cities with tall buildings, 
+there is potential for installing relatively small rooftop 
+turbines that are not visible from the ground. However, 
+because of the initial cost and size of some turbines, it is 
+generally more practical to purchase wind power from 
+an off-site wind farm through the local utility company. 
+Summary
+With careful planning, the energy effi  ciency of historic 
+buildings can be optimized without negatively 
+impacting their historic character and integrity. 
+Measuring the energy performance of buildings after 
+improvements are completed must not be overlooked, 
+as it is the only way to verify that the treatments 
+have had the intended effect. Ongoing monitoring of 
+buildings and their components after alterations to 
+historic building assemblies are completed can prevent 
+irreparable damage to historic materials. This, along 
+with regular maintenance, can ensure the long-term 
+preservation of our historic built environment and the 
+sustainable use of our resources.
+Acknowledgements
+Jo Ellen Hensley, Senior Architectural Historian, LEED Green Associate, and Antonio Aguilar, Senior Historical Architect, Technical 
+Preservation Services Branch, National Park Service, revised Preservation Brief 3: Conserving Energy in Historic Buildings, written 
+by Baird M. Smith, FAIA and published in 1978.  The revised Brief contains expanded and updated information on the subject of 
+energy effi  ciency in historic buildings. A number of individuals and organizations have contributed their time and expertise in the 
+development of this Brief, beginning with the participants of the “Improving Energy Effi  ciency in Historic Buildings—A Round Table 
+Symposium,” Washington, DC, 2002. Special thanks go to Mike Jackson, FAIA, Illinois Historic Preservation Agency; Edward Minch, 
+Energy Services Group; William B. Rose, Research Architect, University of Illinois; Bradford S. Carpenter, P .E., LEED AP; and Mark 
+Thaler, AIA, for their technical advice. The Advisory Council on Historic Preservation’s Sustainability Task Force, the General Services 
+Administration’s Center for Historic Buildings, and our colleagues at the National Center for Preservation Technology and Training 
+commented on the manuscript. In addition, the Technical Preservation Services professional staff, in particular Anne Grimmer, 
+Michael J. Auer and John Sandor, provided critical and constructive review of the publication.
+This publication has been prepared pursuant to the National Historic Preservation Act of 1966, as amended, which directs the Secretary 
+of the Interior to develop and make available information concerning historic properties. Additional information about the programs of 
+Technical Preservation Services is available on the website at www.nps.gov/tps. Comments about this publication should be addressed 
+to: Charles E. Fisher, Technical Preservation Publications Program Manager, Technical Preservation Services,  National Park Service, 
+1201 Eye Street, NW, 6
+th Floor, Washington, DC 20005. This publication is not copyrighted and can be reproduced without penalty. 
+Normal procedures for credit to the authors and the National Park Service are appreciated. The photographs used in this publication 
+may not be used to illustrate other publications without permission of the owners. Cover photograph: Farmhouse with energy effi cient 
+historic storm windows.
+ISBN: 978-0-16-089762-7
+U.S. Government Printing Offi  ce Stock Number: 024-005-01294-0 
+December 2011
+End Notes
+1 John Krigger and Chris Dorsi, “Air Leakage,” in Residential 
+Energy: Cost Savings and Comfort for Existing Buildings. Helena, 
+Montana: Saturn Resource Management, 2004, p. 73.
+2 Measured Winter Performance of Storm Windows. A 2002 study done 
+by Lawrence Berkeley National Labs.
+3 Midwest Weatherization Best Practices Field Guide. Prepared for the 
+U.S. Department of Energy Weatherization Assistance Program, 
+May 2007, p. 157.
+4 Adapted from comments provided by William B. Rose, Research 
+Architect, University of Illinois, April 2011.
+5 U.S. Department of Energy, Insulation Fact Sheet, DOE/CE-0180, 
+2008, p.14.
+6 Bradford S. Carpenter, P .E., LEED AP et al., The Designer’s 
+Dilemma: Modern Performance Expectations and Historic Masonry 
+Walls (paper presented at the RCI  2010 Symposium on Building 
+Envelope Technology, San Antonio, Texas).

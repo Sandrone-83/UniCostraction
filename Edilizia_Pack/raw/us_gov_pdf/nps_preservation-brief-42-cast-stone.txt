@@ -1,0 +1,877 @@
+42 PRESERVATION
+BRIEFS 
+ 
+The Maintenance, Repair and 
+Replacement of Historic Cast Stone 
+Richard Pieper 
+U.S. Department of the Interior 
+National Park Service 
+Cultural Resources 
+Heritage Preservation Services 
+An Imitative Building Material with Many Names 
+The practice of using cheaper and more common materials 
+on building exteriors in imitation of more expensive natural 
+materials is by no means a new one . In the eighteenth cen­
+tury, sand impregnated paint was applied to wood to look 
+like quarried stone. Stucco scored to simulate stone ashlar 
+could fool the eye as well . In the 19th centur y, cast iron 
+was also often detailed to appear like stone. Another such 
+imitative building material was "cast stone " or, more pre­
+cisely, precast concrete building units (Figs. 1, 2 and 3). 
+Cast stone was just one name given to various concrete 
+mixtures that employed molded shapes , decorative aggre­
+gates, and masonry pigments to simulate natural stone. 
+The basic mixtures included water, sand, coarse aggregate, 
+and cementing agents . Natural cements , portland cements , 
+oxychloride cements, and sodium silicate based cements 
+were all used as binding agents. The differences in the 
+resulting products reflected the different stone aggregates, 
+binding agents, methods of manufacture and curing, and 
+systems of surface finishing that were used to produce 
+them . Versatile in representing both intricately carved 
+ornament and plain blocks of wall ashlar, cast stone could 
+be tooled with a variety of finishes. 
+During a century and a half of use in the United States, cast 
+stone has been given various names. While the term "artifi­
+cial stone" was commonly used in the 19th century, "con­
+crete stone," "cast stone," and "cut cast stone" replaced it in 
+the early 20th century. In addition, Coignet Stone, Frear 
+Stone, and Ransome Stone were all names of proprietary 
+systems for precast concrete building units, which experi­
+enced periods of popularity in different areas of the United 
+Figure 1. In the early 20th century, elaborate custom building ornament was frequently produced in cast stone. Here, at the Benedict Stone Company's plant in 
+Chicago, cartouches, balustrade panels, railings, and balusters await finishing and shipment. Photo: Courtesy, National Building Museum. 
+
+Figure 2. The prominent Delaware and Hudson Building in Albany, New 
+York (1916) made extensive use of cast stone as trim combined with a random 
+ashlar facing of natural granite. The elaborate gothic trim was produced by 
+the Onondaga Litholite Company of Syracuse, New York. 
+States in the 19th century. These systems may be contrast­
+ed with "Artistic Concrete," decorative molded concrete 
+construction, both precast and cast-in-place, which made 
+little effort to simulate natural stone (Fig. 4). 
+Having gained popularity in the United States in the 1860s, 
+cast stone had become widely accepted as an economical 
+substitute for natural stone by the early decades of the 20th 
+century. Now, it is considered an important historic mate­
+rial in its own right with unique deterioration problems 
+that require traditional, as well as innovative solutions. 
+This Preservation Brief discusses in detail the maintenance 
+and repair of historic cast stone--precast concrete building 
+units that simulate natural stone. It also covers the condi­
+tions that warrant replacement of historic cast stone with 
+appropriate contemporary concrete products and provides 
+guidance on their replication. Many of the issues and tech­
+niques discussed here are relevant to the repair and 
+replacement of other precast concrete products, as well. 
+2 
+Figure 3. Sculptural omament was frequently produced in cast stone. 
+Repetitive detail, such as these banding course panels 011 the Level Club in 
+New York City (1926), were produced much more economically than they 
+could be in natural stone. 
+1•1111 
+Figure 4. As shown in this Sears, Roebuck and Co. concrete machinery cata­
+log, artistic concrete used standard concrete mixes to produce precast and 
+cast-in-place concrete in molded forms, but made little effort to simulate nat­
+ural stone. 
+
+History o f Use and Manufacture 
+Early Patented Systems 
+While some use of cast stone may be dated to the Middle 
+Ages, more recent efforts to replicate stone with cementi­
+tious materials began in England and France at the end of 
+the 18th century. Coade Stone, one of the best known of 
+the early English manufactures, was used for architectural 
+ornament and trim, and saw limited use for interior decora­
+tion in the United States as early as 1800. Significant 
+advances in the artificial stone industry in the United States 
+were tied to the production of natural cement or hydraulic 
+lime, which began about 1820. 
+A large number of patented American , English, and French 
+systems were marketed immediately after the Civil War. 
+One of the earliest American patents for cast stone was 
+awarded to George A. Frear of Chicago in 1868. Frear 
+Stone was a mixture of natural cement and sand, to which a 
+solution of shellac was added to provide initial curing 
+strength. Frear's system was widely licensed around the 
+country, and the resultant variation in materials and manu­
+facturing methods apparently resulted in some significant 
+failures. 
+Another product which utilized natural cement as its 
+cementing agent was Beton Coignet (literally, "Coignet con­
+crete," also known as "Coignet Stone"). Francois Coignet 
+was a pioneer of concrete construction in France . He 
+received United States patents in 1869 and 1870 for his sys­
+tem of precast concrete construction, which consisted of 
+portland cement, hydraulic lime, and sand. In the United 
+States the formula was modified to a mix of sand with 
+Rosendale Cement ( a high quality natural cement manu­
+factured in Rosendale, Ulster County, New York). In 1870 
+Coignet's U.S. patent rights were sold to an American, 
+John C. Goodrich, Jr., who formed the New York and Long 
+Island Coignet Stone Company . This company fabricated 
+the cast stone for one of the earliest extant cast stone struc­
+tures in the United States, the Cleft Ridge Span in Prospect 
+Park, Brooklyn, New York (Fig. 5). 
+Some proprietary systems substituted other cements for the 
+portland cement or hydraulic lime. The British patent pro­
+cess of Frederick Ransome utilized a mixture of sand and 
+sodium silicate, combined with calcium chloride, to form 
+blocks of calcium silicate. The sodium chloride by-product 
+was intended to be removed with water washes during the 
+curing process. The Sorel cement process, developed in 
+1853 and later applied to the manufacture of grindstones, 
+tiles, and cast stone for buildings, combined zinc oxide 
+with zinc chloride, or magnesium oxide and magnesium 
+chloride, to form a hydrated oxychloride cement mixture 
+that bound together sand or crushed stone. The Union 
+Stone Company in Boston manufactured cast stone using 
+the Sorel process. Ultimately, however, alternate cementing 
+systems were abandoned in favor of portland cement, 
+which proved to be more dependable and less expensive. 
+Figure 5. Constructed in 1868 
+of Belon Coignet, the Cleft 
+Ridge Span in New York City's 
+Prospect Park is one of the earli­
+est extant cast stone structures 
+in the United States. 
+Late 19th and 20th Century Devel opment 
+The use of cast stone grew rapidly with the extraordinary 
+development of the portland cement and concrete indus­
+tries at the end of the 19th century. In the early decades of 
+the 20th century, cast stone became widely accepted as an 
+economical substitute for natural stone. It was sometimes 
+used as the only exterior facing material for a building, but 
+was more often used as trim on a rock-faced natural stone 
+or brick wall (Fig. 6). In most early 20th century installa­
+tions, cast stone was used for exterior window and door 
+surrounds or lintels, copings, parapets and balustrades, 
+banding courses, cornices and friezes, and sculptural orna­
+ment. On occasion, decorative interiors were also finished 
+with cast stone, although elaborate interior cornices and 
+ornaments were more frequently fabricated of plaster. 
+3 
+
+Manufacture 
+Manufacturers of cast stone used graded 
+mixes of crushed marble, limestone, gran­
+ite, and smelting slag to produce a variety
+of stone effects. A light cement matrix 
+with an aggregate of crushed marble 
+could replicate limestone, while a mix of 
+marble and small amounts of smelting 
+slag would give the effect of white gran­
+ite (Fig. 7). Some manufacturers added 
+masonry pigments and varied colors on 
+the faces of the stone to give a somewhat 
+stylized effect of variegated sandstone. 
+Each manufacturer prepared a variety of 
+stock mixes as well. Not surprisingly, 
+aggregates varied in different localities. 
+In New York State, for example, crushed 
+Gouverneur and Tuckahoe marbles were 
+popular facing aggregates; in other areas, 
+crushed feldspar or granite and even 
+silica sand were commonly used. 
+ 
+The two basic cast stone production sys­
+tems were "dry tamp" and "wet cast." 
+The dry tamp process employed a stiff, 
+low-slump concrete mix that was pressed 
+and compacted into the molds. The deco­
+rative aggregate mix was frequently dis­
+tributed only on the exterior facing of the 
+cast units (typically 3 / 4" to 1 ½" thick), 
+while the cores of the units were common 
+concrete. Because of the stiff mix, dry 
+tamp units required a relatively short 
+period of time in the molds, which could 
+then be used several times a day. After 
+removal from the molds, the dry tamp 
+units were often cured in steam rooms to 
+assure proper hydration of the cement. 
+The wet cast process, on the other hand, 
+used a much more plastic concrete mix 
+that could be poured and vibrated into 
+the molds. This system used significantly 
+more water in the mix, assuring proper 
+hydration of the cement mix without 
+elaborate curing, but requiring that the 
+units be left in the molds for at least a 
+day. Because of this method of fabrica­
+tion, wet cast products necessarily dis­
+tributed their decorative aggregate mix 
+through the entire unit, rather than sim­
+ply an outer facing. 
+Concrete was cast in molds of wood, 
+plaster, sand and, early in the 20th centu­
+ry, even hide glue or gelatin, depending 
+upon the production method, the intrica­
+cy of the piece to be cast, and the number 
+of units to be manufactured. Metal 
+molds were sometimes used for stock 
+ornamental items, less frequently for cus­
+tom architectural work. When the units 
+4 
+Figure 7. A combination of crushed white 
+marble and black smelting slag was frequently 
+used to give the appearance of a "white gran­
+ite". The hammered finish on this early twen­
+tieth century cast stone would have been pro­
+duced with a pneumatic chisel. 
+were adequately hard, finish surfaces 
+were worked to expose the decorative 
+stone aggregate. When removed from 
+the mold, wet cast units exhibit a surface 
+film of cement paste, which must be 
+removed to expose the aggregate. 
+Partially cured units could be sprayed 
+with water, rubbed with natural bristle 
+brushes, etched with acid, or sandblasted 
+to remove the cement layer. The surface 
+of dry tamp products required less finish­
+ing. 
+High quality cast stone was frequently 
+"cut" or tooled with pneumatic chisels 
+and hammers similar to those used to cut 
+natural stone (Fig. 9). In some cases, 
+rows of small masonry blades were used 
+to create shallow parallel grooves similar 
+to lineal chisel marks. The results were 
+often strikingly similar in appearance to 
+natural stone. Machine and hand tooling 
+was expensive, however, and simple 
+molded cut cast stone was sometimes 
+only slightly less costly than similar work 
+in limestone. Significant savings could 
+be achieved over the cost of natural stone 
+when repetitive units of ornate carved 
+trim were required. 
+Finally, cast stone is sometimes used 
+today to replace natural stone when the 
+original historic stone is no longer avail­
+able, or the greater strength of reinforced 
+concrete is desired. Reinforced cast stone 
+columns, for instance, are frequently 
+used to replace natural stone columns in 
+seismic retrofits of historic structures. 
+Fine-grained stones, such as sandstones, 
+may be very successfully replicated with 
+cast stone. Coarse-grained granites and 
+marbles with pronounced patterns or 
+banding are, for obvious reasons, not so 
+successfully matched with cast stone. 
+The replacement of natural stone with 
+cast stone requires careful attention to 
+selection of fine aggregates and the pig­
+mentation of the cementing matrix (Fig. 
+8). Coarse aggregate, which is generally 
+used in cast stone to control shrinkage 
+and assure adequate compressive 
+strength, can present an aesthetic prob­
+lem if it is visible at the surface of cast 
+stone elements which simulate sand­
+stone. Careful control of aggregate sizes 
+in the mix formulation can reduce this 
+problem. 
+Figure 8. For this column, the appearance of a "pink 
+granite" was simulated by using a pinkish matrix 
+with white and black aggregate. Erosion of a tinted 
+matrix results in a significant lightening of the cast 
+stone surface. 
+Figure 6. Cast stone was commonly used for 
+molded trim in conjunction with brick or natu­
+ral stone. This brick building in Rochester, 
+New York, uses cast stone for the entry sur­
+round, and natural stone for unornamented 
+window sills, thresholds, and water table units. 
+
+Mechanisms and Modes of Deterioration 
+The best historic cast stone can rival natural stone in longevity. Many quality cast stone installations from the first decades of 
+the twentieth century are still in excellent condition, and require little repair. Like any other building material, however, cast 
+stone is subject to deterioration, which may occur in several ways: 
+• Separation of the facing and core layers 
+• Deterioration of the aggregate 
+• Deterioration or erosion of the cementing matrix 
+• Deterioration of the iron or steel reinforcement 
+• Deterioration of cramps and anchors used in its installation 
+Separation of the Facing and Core Layers 
+Separation of the facing and core layers of dry tamp units is not uncommon, and often reflects fabrication defects such as poor 
+compactio n, lengthy fabrication time, or improper curing. Where separation of facing and core layers is suspected, cast stone 
+units may be "sounded" to establish the extent of delamination. 
+5 
+Figure 9. Onondaga Litholite Company Catalog: (a) Section of Hand-Finishing Department. (b) Tooling 
+machines are set up with a series of carborundum wheels that grind grooves into the surface of the stone (c) 
+Pneumatic hammers are used to produce six or eight cut finish (d) Point Finish is put on with a single pointed 
+chisel. Courtesy, collection of Michael F. Lynch
+
+Figure 10. Scaling of cast stone units signals problems with the cementing 
+mix and method of manufacture. Serious deterioration of cast stone, such as 
+this, warrants replacement. 
+Deterioration of the Aggregate 
+Cast stone failure caused by deterioration of the aggregate 
+is uncommon. Granites, marbles, and silica sand are gener­
+ally durable, although limestone and marble aggregate are 
+subject to the same dissolution problems that affect quar­
+ried units of these stones. In rare instances, a reaction 
+between the alkalis in the cement matrix and the stone 
+aggregate may also cause deterioration. 
+Figure 11. Erosion of the cementing 
+matrix on the surface of cast stone is 
+common in areas exposed to water 
+runoff, such as window sills and cop­
+ings. If no other deterioration is present, 
+this condition does not warrant repair or 
+replacement, but should be considered 
+normal weathering. The unweathered 
+surface at the left of this photograph 
+shows the appearance of the original 
+hammer-dressed finish. At right, the 
+matrix has eroded, and the aggregate is 
+much more prominent than on the 
+unweathered surface. 
+6 
+Deterioration or Erosion of the Cementing Matrix 
+While it is relatively uncommon in twentieth century cast 
+stone, serious deterioration of the cementing matrix can 
+cause extensive damage to cast stone units (Fig. 10 ). A 
+properly prepared cementing mix will be durable in most 
+exterior applications, and any flaking of exterior surfaces 
+signals problems in the cementing mix and in the method 
+of manufacture. The use of poor quality or improperly 
+stored cement, impure water, or set accelerators can cause 
+cement problems to occur years after a structure is complet­
+ed. Improper mixing and compaction can also result in a 
+porous concrete that is susceptible to frost damage and 
+scaling. Severe cement matrix problems may be impossible 
+to repair properly and often necessitate replacement of the 
+deteriorating cast stone units. 
+More common and less serious than flaking or scaling 
+caused by deterioration of the cementing matrix is the ero­
+sion of the matrix surface (Fig. 11). This usually occurs on 
+surfaces of projecting features exposed to water runoff, 
+such as sills, water tables, and window hoods. In these 
+areas, the matrix may erode, leaving small grains of aggre­
+gate projecting from the surface. The resultant rough sur­
+face is not at all the intended original appearance. In some 
+historic cast stone installations, the thin layer of cement and 
+fine sand at the surface of the cast stone units was not origi­
+nally tooled from the molded surface, but was finished 
+with patterns of masonry pigments in a stylized imitation 
+of highly figured sandstones or limestones (Fig. 12). 
+Erosion of the pigmented surface layer on this type of cast 
+stone results in an even more dramatic change in appear­
+ance. 
+
+Figure 12. Elaborate pigmentation of the cementing matrix sometimes gave a rather stylized or unnatural appearance to the finished cast stone (left). Texts state that 
+effects like this were sometimes produced by drawing strings dipped in masonry pigments across the surface of the uncured units. Cast stone, such as this, has its col­
+oration only at the outer surface of the stone, and was not intended to be brushed or tooled to expose the aggregate. Erosion of the cementing matrix of this type of 
+cast stone, as seen on the base of the wall (right), will result in a significant alteration of appearance. 
+Deterioration of the Iron or Steel Reinforcement 
+During their original manufacture , unusuall y long and thin 
+cast stone units , such as window sills or balustrade railings , 
+and units requiring structural capacity, such as lintels, were 
+generally reinforced with mild steel reinforcing bars. Large 
+pieces sometimes had cable loops or hook s cast into them 
+to facilitate handling and attachment. On occasion, this 
+reinforcement and wire may be too close (less than 2") to 
+the surface of the piece and rusting will cause spalling of 
+the surface (Fig. 13). This frequentl y happen s to sills, cop­
+ings, and water tables where repeated hea vy wetting lead s 
+to loss of alkalinity in the concrete, allowing the reinforc e­
+ment to rust. If damage from the deteriorating reinforce­
+ment is extensive , as for instance , the splitting of a balu ster 
+from the rusting of a central reinforcin g rod, the cast stone 
+unit may require replacement. 
+Deterioration of Cramps and Anchors 
+Even when reinforcement has not been added to individual 
+cast stone units, mild steel cramps may have been used to 
+anchor a cast stone veneer to backup masonry. Where 
+spalls have occurred primarily at the tops of ashlar or frieze 
+units, this is generally the cause. 
+Maintenance of Cast Stone Installations 
+Cleaning 
+Cast stone installations with marble or limestone aggre­
+gates may sometimes be cleaned with the same alkaline 
+pre-wash/ acid afterwash chemical cleaning systems used 
+to clean limestone and other calcareous natural stones. If 
+no marble or limestone aggregates are present, acidic clean­
+ers, such as those used for natural granites and sandstones , 
+may be used . In either case, dark particulate staining in 
+protected areas may be persistent, however , and require 
+experimentation with other cleaning methods. Some 
+micro-abrasive cleaning techniques used under very con­
+trolled circumstances by skilled cleaning personnel can be 
+appropriate for removing tenacious soiling. Ordinary sand 
+blasting or wet grit blasting can seriously damage the sur­
+face of the cast stone and should not be used (Fig. 14). 
+Figure 13. Rusting of reinforcement near the surface of the stone may result 
+in spa/ling. S ections of reinforcement, such as this, may be cut out and the 
+spall repaired with a matching composite mortar. 
+7 
+
+Figure 14. Sandblasting and wet grit blasting can seriously erode the surface 
+and should not be used to clean cast stone surfaces. 
+Early cast stone installations may have been constructed 
+with natural cement mortars, but in late 19th century and 
+20th century installations, cast stone units were generally 
+bedded and pointed with mortars composed of portland 
+cement, lime, and sand. When repointing or replacement 
+of the historic mortar is required, a Type N mortar (about 
+one part cement, and one part lime to six parts of sand) is 
+generally appropriate. When repointing any historic 
+masonry, it is important to match both the character and 
+color of the sand and color of the cement matrix in the his­
+toric mortar. Cement matrix color can often be adjusted by 
+using combinations of white, "light," and gray portland 
+cement in the mortar. 
+Joints in historic cast stone installations can be quite thin 
+and the dense mortar thus difficult to remove. 
+Unnecessary repointing can cause significant damage to 
+8 
+historic cast stone. Cracked and open joints will most often 
+be found on exposed features, such as balustrades and cop­
+ings, and, of course, require repointing. When a hard and 
+tenacious mortar was used in the original installation or a 
+later repointing, the removal of the mortar can easily chip 
+the edges of the cast stone units. 
+While the careless use of "grinders" to remove mortar has 
+damaged countless historic masonry buildings, a skilled 
+mason may sometimes use a hand held grinder fitted with 
+a thin diamond blade to score the center of a joint, and then 
+remove the rest of the mortar with a hand chisel. If this 
+method is not done carefully, however, wandering of the 
+blade can widen or alter joints and cause significant dam­
+age to the cast stone. Care must be taken to prevent dam­
+age from over cutting of vertical joints by stopping blades 
+well short of adjacent units. The use of small pneumatic 
+chisels, such as those used to tool stone, can also work well 
+for mortar removal, but even this method can cause chip­
+ping to the edges of cast stone units if it is not done 
+carefully. 
+Methods of Repair 
+Much historic cast stone is unnecessarily replaced when it 
+could easily be repaired in situ, or left untreated. This is 
+especially true of areas that exhibit isolated spalls from 
+rusting reinforcement bars or anchorage, or installations 
+where erosion of the matrix has left a rough surface of 
+exposed aggregate. 
+The weathering of cast stone, while different from that of 
+natural stone, produces a patina of age and does not war­
+rant large-scale replacement, unless severe cement matrix 
+problems or rusting reinforcement bars have caused exten­
+sive scaling or spalling. Severe rusting of reinforcement 
+bars on small decorative features, such as balusters, may 
+signal carbonation (loss of alkalinity) of the matrix. Where 
+carbonation of the matrix has occurred, untreated reinforce­
+ment will continue to rust. Replacement may be an accept­
+able approach for exposed and severely deteriorated fea­
+tures, such as hand railings, roof balustrades, or wall cop­
+ings, where disassembly is unlikely to damage adjacent 
+construction. Conversely, small areas of damage should 
+generally be repaired with mortar "composites", or left 
+alone. 
+Re-securing Separated Surface Facing 
+Where the decorative facing of dry tamped cast stone has 
+separated from core layers, injected grouts may be used to 
+re-secure the facing. Re-attachment of a separated facing 
+layer may be time consuming, and should be undertaken 
+by a conservator, rather than a mason (Fig. 15). This tech­
+nique may be the best, most economical, approach for 
+repair of figurative sculpture or unique elements that are 
+not repeated elsewhere on a building. Theoretically, 
+cementitious grouts are most appropriate for re-attaching 
+separated facings, but hairline fissures may require the use 
+of resin adhesives. Low-viscosity epoxies have been used 
+Repointing 
+
+for this purpose, and may be applied through small injec­
+tion ports . Cracks that would allow the adhesive to leak 
+must be repaired prior to injection , of course . Holes made 
+for adhesive injection will require patching after re-attach­
+ment is complete . 
+Repairing Spall s from Rusting Reinforcement Bars and 
+Mechanical Damage 
+Drilled holes, mechanically damaged corners , and occasion­
+al spalls from rusting reinforcement bars and anchorage are 
+repairable conditions that do not warrant the replacement 
+of cast stone. Small "composite " repairs to damaged 
+masonry units can be made with mortar formulated to 
+visually match the original material, and may be success­
+fully undertaken by a competent and sensitive mason . If 
+deterioration appears widespread, however , or if large sur­
+face areas are spalling or cracking and replacement appears 
+necessary, the owner may wish to consult a preservation 
+architect or consultant to determine the cause of deteriora­
+tion and to specify necessary repairs or replacement , as 
+appropriate. 
+The methods of composite repair used for stone masonry 
+are also generally applicable for the repair of historic cast 
+stone . For repairs to damaged cast stone to be successful , 
+however, both the cement matrix color and the aggregate 
+size and coloration must match that of the historic unit. 
+Crushed stone and slag (such as "Black Beauty" abrasive 
+grit), which are similar to many common traditional aggre-
+gates, are widely available, although some additional 
+crushing and/ or sieving may be necessary to obtain aggre­
+gate of an appropriate size. Remember that half or more of 
+a weathered surface is exposed aggregate, so careful aggre­
+gate selection and size grading is extremely important for 
+patching. Even differences in aggregate angularity 
+(rounded pebbles vs. crushed stone) will be noticeable in 
+the final repair. If more than one aggrega te was used in the 
+cast stone, the ratio of the selected aggregates in the mix is, 
+of course, equally important. Variation in coloring of the 
+cement matrix may be achieved through the use of either 
+white, "light, " or gray portland cement. If additional tint­
+ing is required, only inorganic alkali-resistant masonry pig­
+ments should be used. Because most historic cast stone 
+was manufactured primarily from portland cement and 
+aggregate (with a less than 15% lime/ cement ratio), it is not 
+necessary to add large amounts of hydrated lime to cast 
+stone composite repair mixtures. Small amounts of lime 
+may be added for plasticity of the working mix. 
+To repair a spall caused by deterioration of a ferrous rein­
+forcement bar or anchorage, it is necessary to remove all 
+cracked concrete adjacent to the spall; grind and brush the 
+reinforcement to remove all rust and scale; and paint the 
+metal with a rust-inhibiting primer prior to applying the 
+cast stone composite . If the reinforcement bar is much too 
+close to the surface of the stone, it may be advisable to cut 
+out the deteriorating section of reinforcement after consul­
+tation with a structural engineer. If deteriorating cramps 
+are removed, it may be necessary to install new stainless 
+steel anchorage . 
+Figure 15. A delaminated l ayer of ornamental cast stone on the Orpheum Theater, San Francisco, California (1925), was successfully re-attached using epoxy. The 
+multiple delivery ports for the epoxy are removed after treatment and the holes patched. Photo: David P Wessell. 
+9 
+
+10 
+Composite Repair of Damaged Masonry Units 
+Figure 16. The (a) damaged area is cut out to create a shallow void of even depth,½" or more. Undercutting the sides of the void may provide better adhesion 
+while the composite is being applied. A small grinder fitted with n diamond blade may be used to prepare the void. (b) A range of aggregates matching those 
+in the cast stone is required. Matching aggregate size and angularity is very important. Small spatulas and trowels are used for application of the composite. 
+The aggregates are mixed to a ratio approximating that in the cast stone. (c) Matching the color of the cementing matrix may require numerous tests. Only 
+small amounts are required for any one repair. Lime may be added to the mix for workability. (d) The composite mortar is applied to the void with a small 
+spatula or trowel. An aggregate rich mix may not adhere properly, and it may be desirable to apply n more cement rich mix directly to the substrate. (e) The 
+composite mix is pressed into the void, leaving the patch slightly proud of the surface. (f) The composite is struck flush with the adjacent surfaces. (g) Patting 
+the patch with a moist sponge removes matrix and exposes the aggregate. (h) It may be desirable to impress additional aggregate into the surface of the patch 
+to achieve a better match to s11rrounding surfaces. If so, the mix aggregate shouldbe crushed to a smaller size. Laying in larger aggregate may result in a 
+mosaic appearance which does not match adjacent surfaces. (i) This completed composite repair could have been improved by brushingto remove the matrix 
+residue at the edges of the repair before the surface cured. 
+
+Where spalls have a feather edge, it will be 
+necessary to cut back the repair area to a 
+uniform depth (1/2" or more). As with 
+natural stone composite repairs, a bonding 
+agent may assist adhesion of the repair 
+material to the original concrete. For 
+unusually large or deep patches, mechani­
+cal anchoring of the repair with small 
+nylon or stainless steel rods may be 
+required. If the adjacent cast stone is 
+tooled or weathered, it will be necessary to 
+scribe or brush the repaired area to give it 
+a matching surface texture. Adding 
+enough coarse aggregate to match adjacent 
+original material will sometimes interfere 
+with adhesion of the composite, and it 
+may be necessary to press additional 
+aggregate into the applied patch prior to 
+finishing. If this is not skillfully done, 
+however, the surface of the patch may take 
+on a mosaic appearance. For this reason, 
+it is advisable to undertake test composite 
+repairs in an unobtrusive location first 
+(Fig. 16). Figure 17. Unlike natural stone, cast stone generally may not be tooled in place to reduce lippage of 
+uneven surfaces at joints. Tooling often exposes coarse aggregate from below the surface. 
+Surface Refinishing 
+While re-tooling deteriorated natural stone may sometimes 
+be appropriate, restoring the original appearance of cast 
+stone where surface erosion has occurred is difficult or 
+impossible. Tooling or grinding of the cast stone surface 
+may expose coarse aggregate and will not, in any case, 
+restore original patterned pigmentation that has weathered 
+away (Fig. 17). Silicate paints or masonry stains may be 
+applied in patterns to replicate the original appearance, but 
+may not be durable or completely successful aesthetically. 
+Where matrix has eroded, it is advisable to accept the 
+weathered appearance of the cast stone, unless extensive 
+replacement is mandated by other factors. 
+Because cast stone depends on exposed aggregate to 
+achieve its aesthetic effect, the use of an applied cementi­
+tious surface coating dramatically alters the visual effect of 
+the material and is inappropriate as a cast stone repair tech­
+nique. A cementitious surface coating can also trap mois­
+ture in the cast units and cause surface spalling. 
+Figure 18. Long or thin cast 
+stone elements require rein­
+forcement. When possible, 
+reinforcemen.t of new cast 
+stone should be made of stain­
+less steel. 
+11 
+
+Figure 19. Molds for the replication of cast stone may be made 011 site using 
+rubber materials and reinforcement. The molded profile of this window pedi­
+ment will be used to run a plaster mockup, from which a production mold will 
+be made. Photo: Michael Devonshire. 
+Replacement of Historic Cast Stone 
+Installations 
+Individual cast stone units, which are subject to repeated 
+wetting (such as copings, railings and balusters) and exhib­
+it severe failure due to spalling or reinforcement deteriora­
+tion, may require replacement with new cast stone (Fig. 18). 
+Fortunately, a number of companies custom manufacture 
+precast concrete units and can replicate deteriorated units 
+in existing buildings (Fig. 19). The variables involved in 
+manufacture are considerable, and it is wise to use a firm 
+with experience in ornamental and custom work rather 
+than a precast concrete firm which manufactures stock 
+structural items, concrete pipe, or the like. Several trade 
+organizations, including the Cast Stone Institute, the 
+National Precast Concrete Association, and the 
+Architectural Precast Association, have developed recom­
+mendations and/ or guide specifications for the manufac­
+ture of cast stone and precast concrete. These specifications 
+set standards for characteristics such as compressive 
+strength and water absorptivity, and discuss additives such 
+as air entraining agents and water reducing agents, which 
+influence the longevity of new cast stone. Trade references 
+and guide specifications should be consulted before con­
+tracting for replacement of historic cast stone. 
+Fabrication Defects in New Cast Stone 
+While the cement matrix coloration and aggregate consider­
+ations previously described require the most careful atten­
+tion, project staff should also look for defects which are 
+common to cast stone fabrication: 
+Air bubbles. Small pits on the surface of the stone may form 
+if the unit is not given adequate vibration to release 
+trapped air during pouring. Bubbles can also be a problem 
+12 
+Figure 20. (top) After removal from the mold, new cast stone units are scrubbed, as shown, to 
+remove surface paste and expose underlying aggregate, (middle) End cast pieces, such as 
+columns or sculpture, may have numerous aur bubbles at the surface. (bottom) The holes on 
+the surface of the casting are filled with a mortar similar to the concrete mix used to cast the 
+element
+
+Figure 21. Surface cracking 
+may reduce the durability of cast 
+stone units. Cracking is often 
+problematic on reinforced ele­
+ments with thin "necks," such 
+as balusters, unless curing is 
+carefully controlled. 
+Surface cracking or checking. Overly wet mixes and insuffi­
+cient moisture during curing can result in surface cracking 
+of large castings, such as columns . Such cracking dramati­
+cally reduces the durability of new cast stone. Small rein­
+forced elements, such as baluster s, also frequently crack at 
+thin "necks" in the castings (Fig. 21). 
+Aggregate segregation. Cast stone formulations generally 
+include a range of coarse aggregates (crushed stone) and 
+fine aggregates (sand) (Fig. 22). When units are vibrated to 
+assure compaction of the mix and liberate trapped air bub­
+bles, coarse aggregates may begin to settle and separate 
+from the paste of cement and sand. Aggregate segregation 
+results in a visible concentration of coarse aggregate at one 
+end of the casting. Segregation is more problematic when 
+end casting long pieces, such as columns. 
+Surface rippling or irregularity. Production 
+molds for fabrication are often made of rub­
+ber mold facings encased in larger "mother 
+molds " of plaster and wood (Fig. 23). 
+Vibration can loosen the rubber facing from 
+the outer mold and result in rippling or 
+irregularities on the surface of the finished 
+casting (Fig. 24). Even when rippling is not 
+noticeable, irregularity caused by mold 
+movement can make it difficult to line up 
+surfaces of adjacent units when assembling 
+cast stone installations. 
+Figure 22. Most cast stone formulations use a mixture of coarse and fine aggregates. Coarse aggregates 
+are not usually as visible from the surface, but may settle in end cast pieces. 
+Mold lines. Freestanding elements, such as 
+columns, must be cast in two-part molds, 
+which are separated to release the complet­
+ed cast piece. If the mold parts do not join 
+tightly, some leakage of cement paste will 
+occur at the mold joint, resulting in a pro­
+jecting line on the surface of the casting. 
+This is generally tooled off before the cast­
+ing completely cures. A mold line will be 
+visible on the completed piece if the project­
+ing material is not completely removed, or 
+if the tooling at the mold line does not 
+match the adjacent surface of the casting. 
+Tooling at mold lines may also expose con­
+trasting coarse aggregate beneath the sur­
+face of the casting. 
+13 
+when end casting long items such as columns or railings, 
+where it is difficult to vibrate bubbles away from the finish 
+surface of the unit (Fig. 20). 
+
+Other Considerations for Replacement of Cast Stone 
+Several other considerations are worth noting when it is 
+necessary to replace historic cast stone elements with 
+matching new cast stone. 
+Reinforcement. The alkalinity of new concrete generally pro­
+vides adequate protection to steel reinforcement. In 
+exposed areas where deterioration due to rusting of rein­
+forcement has previously been a problem, however, the use 
+of stainless steel reinforcement is recommended. 
+Surface finishing. Post-fabrication surface toolingof new
+cast stone is not currently common. Sandblasting 1s typi­
+cally used to remove the surface film of cement and expose 
+the aggregate. For replacement units replicating historic 
+cast stone pieces in highly visible locations, it is sometimes 
+possible to make a mold of a sound or repaired existing
+piece to incorporate the original tooling in the casting pro­
+cess. If the historic unit is too deteriorated to use as a pat­
+tern, a plaster model may be made to replicate the dam­
+aged piece. This is tooled to replicate the desired surface 
+treatment or appearance, and a production mold is then 
+made from the plaster model. 
+Moist curing. Surface crystallization of soluble salts (efflo­
+rescence) during curing may lighten the surface of some 
+precast units, especially those simulating darker _stone. 
+Some manufacturers use a series of wet/ dry curmg cycles 
+or washing with acetic acid to remove soluble salts that 
+might otherwise discolor finished surfaces. For most wet
+cast products, simple moist curing under a plastic cover 1s 
+sufficient. 
+14 
+Figure 23. Production molds (left) made 
+of durable rubbers backed with wood and 
+plaster supports are used to fabricate new 
+cast stone. Production molds may be 
+made from original elements which have 
+been repaired with epoxies and plaster, or 
+from new plaster mockups. (below) 
+Appropriateness of Glass Fiber Reinforced 
+Concrete as a Replacement Material 
+Light-Weight Alternative 
+Glass fiber reinforced concrete (GFRC) is more and more 
+frequently encountered in building rehabilitation and is 
+used to replicate deteriorated stone and cast stone, and 
+even architectural terra cotta (Fig. 25). This is a relatively 
+new material that uses short chopped strands of glass fiber 
+to reinforce a matrix of sand and cement. GFRC has 
+become a popular low-cost alternative to traditional precast 
+concrete or stone masonry for some applications. 
+Fabricators use a spray gun to spray the mortar-like mix 
+into a mold of the shape desired. The resulting concrete 
+unit, typically only ¾" thick, is quite rigid, but requires a 
+metal frame or armature to secure it to the building sub­
+strate. The metal frame is joined to the GFRC unit with 
+small "bonding pads" of GFRC. 
+GFRC has a dramatic advantage over traditional precast 
+concrete where the weight of the installation is a concern, 
+such as with cornices or window hoods. Many cast stone 
+mixes can successfully be replicated with GFRC. Where it 
+is used to simulate natural stone, GFRC, like cast stone, is 
+most appropriate for simulation of fine-grained sandstones 
+or limestones. 
+
+Not for Use in Load Bearing Applications 
+Because the GFRC system is in effect a "skin," GFRC cannot 
+be used for load bearing applications without provision of 
+additional support. This makes it unsuitable for some 
+tasks, such as replacement of individual ashlar units . It is 
+also not appropriate for small freestanding elements, such 
+as balusters, or for most columns, unless they are engaged 
+to surrounding masonry or can be vertically seamed, which 
+may significantly alter the historic appearance. GFRC units 
+must also allow for expansion and contraction , and are gen­
+erally separated by sealant joints, not by mortar. A sealant 
+joint may be unacceptable for some historic application s; 
+however, substitution of GFRC for cast stone may be appro­
+priate when an entire assembly, such as a cornice, roof 
+dormer, or window hood, requires replacement. Great care 
+must be taken when detailing a GFRC replacement for 
+existing cast stone. 
+Deterioration of GFRC 
+Because it is a relatively new material, the long 
+term durability of GFRC is still untested. When 
+GFRC was first introduced, some installations 
+experienced deterioration caused by alkaline sen­
+sitivity of the glass fiber reinforcement. Alkali 
+resistant glass is now used for GFRC manufac­
+ture. Even when the GFRC skin is well manufac­
+tured , however, the steel armature and bonding 
+pad system used to mount the material is vulner­
+able to damage from leakage at sealant joints or 
+small cracks in wash surfaces. The use of galva ­
+nized or stainless steel armatures , and stainless 
+steel fasteners and bonding pad anchors is advis ­
+able. 
+Figure 25. Glass Fiber Reinforced Concrete (GFRC) is some­
+times used to replicate deteriorated elements of cast or fine 
+grained natural stone. Because the GFRC element is a rigid, but 
+relatively thin shell, it must be supported and attached with an 
+interior framework of steel. The attachment hardware inside this 
+GFRC cartouche (left) will not be visible when the unit is 
+installed (armature visible at right). Photos: Towne House 
+Restorations, Inc. 
+Summary 
+Figure 24. Separation of an interior rubber mold 
+from a plaster mother mold during casting may 
+result in rippling or irregularity of the completed 
+casting. 
+Cast stone--a mixture of water, sand, coarse aggregate, and 
+cementing agents--has proven over time to be an attractive 
+and durable building material, when properly manufac­
+tured. It gained popularity in the 1860s and, by the early 
+decades of the 20th century, became widely accepted as an 
+economical substitute for natural stone . Unfortunately, 
+much historic cast stone is unnecessarily replaced when it 
+could easily be repaired and preserved in situ, or left 
+untreated. Appropriate repair of damaged units can 
+extend the life of any cast stone installation. Because of the 
+necessity of matching both matrix color and aggrega te size 
+and ratio, conservation projects which involve repair or 
+replication of cast stone should allow adequate lead time 
+for the assembly of materials and the preparation of test 
+samples . Understanding which conditions require repair, 
+which warrant replacement, and which should be accepted 
+as normal weathering is key to selecting the most appropri­
+ate approach to the protection and care of historic cast 
+stone. 
+15 
+
+Selected Reading 
+Childe, H.L. Manufacture and Uses of Concrete Products and Cast Stone, 
+London: Concrete Publications Limited, 1930. 
+Jester, Thomas C., ed., Twentieth Century Building Materials, New York, 
+NY: McGraw-Hill, 1995. 
+Precast/Prestressed Concrete Institute , Architectural Precast Concrete, 
+2nd ed., Chicago, Illinois: Precast/Prestressed Concrete Institute, 1989. 
+Whipple, Harvey, Concrete Stone Manufacture, Detroit: Concrete­
+Cement Age Publishing Company, 1918. 
+Acknowledgements 
+Helpful Organizations 
+Cast Stone Institute 
+10 West Kimball Street 
+Winder, GA 30680-2535 
+National Precast Concrete Association 
+10333 North Meridian Street, Suite 272 
+Indianapolis, IN 46290 
+Architectural Precast Association 
+P.O. Box 08669 
+Fort Myers, FL 33908-0669 
+Kay D. Weeks, Heritage Preservation Services, National Park Service (NPS), served as project director and general editor. The author wishes to thank 
+Alan Barr of Towne House Restorations, Inc., Ron Moore of Western Building Restoration, architect Theo Prudon , and conservator David Wessell of 
+the Architectural Resources Group for their assistance in the preparation and review of this brief. Chuck Fisher and Anne Grimmer, Technical
+Preservation Services, NPS, offered valuable comments during its development. MJM Studios provided access for photography of cast stone fabrica­
+tion. Michael F. Lynch, Vice President, SPNEA, and Michael Devonshire, Principal, Jan Hird Pokorny Associates, generously lent images from the per­
+sonal collections for the Brief. 
+This publication has been prepared pursuant to the National Historic Preservation Act, as amended, which directs the Secretary of the Interior to 
+develop and make available information concerning historic properties. Comments about this publication should be directed to: Chuck Fisher, 
+Technical Publications Program Manager, Technical Preservation Services, National Park Service, 1849 C Street, NW, NC-200, Washington, DC 20240. 
+<www2.cr.nps.gov / tps> This publication is not copyrighted and can be reproduced without penalty. Normal procedures for credit to the authors and 
+the National Park Service are appreciated. Unless otherwise noted, all photographs in the brief are by Richard Pieper. The photographs used in this 
+publication may not be used to illustrate other publications without permission of the owners. 
+ISSN: 0885-7016 
+16 
+September 2001 
