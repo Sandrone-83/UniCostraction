@@ -1,0 +1,1391 @@
+U.S. Department of the Interior 
+National Park Service 
+Cultural Resources 
+Heritage Preservation Services 
+2 
+PRESERVATION 
+BRIEFS 
+Repointing Mortar Joints 
+in Historic Masonry Buildings 
+Robert C. Mack, FAIA 
+John P. Speweik 
+Figure 1. After removing deteriorated mortar, an experienced mason repoillts 
+a portion of this early-20th century limestone building. Photo: Robert C. 
+Mack,FAIA. 
+Masonry - brick, stone, terra-cotta , and concrete block -
+is found on nearly every historic building. Structures 
+with all-masonry exteriors come to mind immediately, 
+but most other buildings at least have masonry 
+foundations or chimneys. Although generally considered 
+"permanent," masonry is subject to deterioration, 
+especially at the mortar joints . Repointing, also known 
+simply as "pointing" or-somewhat inaccurately-"tuck 
+pointing" *, is the process of removing deteriorated mortar 
+from the joints of a masonry wall and replacing it with 
+new mortar (Fig. 1). Properly done, repointing restores 
+the visual and physical integrity of the masonry. 
+Improperly done, repointing not only detracts from the 
+appearance of the building, but may also cause physical 
+damage to the masonry units themselves . 
+The purpose of this Brief is to provide general guidance 
+on appropriate materials and methods for repointing 
+historic masonry buildings and it is intended to benefit 
+building owners, architects , and contractors. The Brief 
+should serve as a guide to prepare specifications for 
+repointing historic ma sonry buildings . It should also 
+help develop sensitivity to the particular needs of historic 
+masonry , and to assist historic building owners in 
+working cooperatively with architects, architectural 
+conservators and historic preservation consultants, and 
+contractors. Although specifically intended for historic 
+buildings, the guidance is appropriate for other masonry 
+buildings as well. This publication updates Preservation 
+Briefs 2: Repainting Mortar Joints in Historic Brick Buildings 
+to include all types of historic unit masonry. The scope of 
+the earlier Brief has also been expanded to acknowledge 
+that the many buildings constructed in the first half of the 
+20th century are now historic and eligible for listing in 
+the National Register of Historic Places, and that they 
+may have been originally constructed with portland 
+cement mortar. 
+*Tuckpointi ng technically describes a primaril y decorative application 
+of a raised mortar joint or lime putty joint on top of flush mortar joint s. 
+1 
+
+2 
+Figure 2. Much of the mortar on this building has been leached away by 
+water from a leaking downspout. The downspout must be replaced and any 
+other drainage problems repaired before repainting. Photo: Robert C. Mack, 
+FAIA. 
+prepare specifications which reflect the particular require­
+ments of each job and can provide oversight of the work 
+in progress. Referrals to preservation consultants 
+frequently can be obtained from State Historic 
+Preservation Offices, the American Institute for 
+Conservation of Historic and Artistic Works (AIC), the 
+Association for Preservation Technology (APT), and local 
+chapters of the American Institute of Architects (AIA). 
+Finding an Appropriate Mortar Match 
+Preliminary research is necessary to ensure that the 
+proposed repointing work is both physically and visually 
+appropriate to the building. Analysis of unweathered 
+portions of the historic mortar to which the new mortar will 
+be matched can suggest appropriate mixes for the 
+repointing mortar so that it will not damage the building 
+because it is excessively strong or vapor impermeable. 
+Examination and analysis of the masonry units-brick, 
+stone or terra cotta-and the techniques used in the original 
+construction will assist in maintaining the building's 
+historic appearance (Figs. 3-4). A simple, non-technical, 
+evaluation of the masonry units and mortar can provide 
+information concerning the relative strength and 
+permeability of each-critical factors in selecting the 
+repointing mortar-while a visual analysis of the historic 
+mortar can provide the information necessary for 
+developing the new mortar mix and application techniques. 
+Although not crucial to a successful repointing project, for 
+projects involving properties of special historic significance, 
+a mortar analysis by a qualified laboratory can be useful by 
+providing information on the original ingredients. 
+However, there are limitations with such an analysis, and 
+replacement mortar specifications should not be based 
+solely on laboratory analysis. Analysis requires 
+interpretation, and there are important factors which affect 
+the condition and performance of the mortar that cannot be 
+established through laboratory analysis. These may 
+include: the original water content, rate of curing, weather 
+conditions during original construction, the method of 
+mixing and placing the mortar, and the cleanliness and 
+condition of the sand. 
+The most useful information that can 
+come out of laboratory analysis is the identification of sand by 
+Use of Consultants. Because there are so many possible 
+causes for deterioration in historic buildings, it may be 
+desirable to retain a consultant, such as a historic 
+architect or architectural conservator, to analyze the 
+building. In addition to determining the most 
+appropriate solutions to the problems, a consultant can 
+The decision to repoint is most often related to some 
+obvious sign of deterioration, such as disintegrating 
+mortar, cracks in mortar joints, loose bricks or stones, 
+damp walls, or damaged plasterwork. It is, however, 
+erroneous to assume that repointing alone will solve 
+deficiencies that result from other problems (Fig. 2) . The 
+root cause of the deterioration-leaking roofs or gutters, 
+differential settlement of the building, capillary action 
+causing rising damp , or extreme weather exposure-­
+should always be dealt with prior to beginning work. 
+Without appropriate repairs to eliminate the source of 
+the problem, mortar deterioration will continue and any 
+repointing will have been a waste of time and money. 
+Identifying the Problem Before Repointing 
+In the 1930s more new mortar products intended to 
+hasten and simplify masons' work were introduced in 
+the U.S. These included masonry cement, a premixed, 
+bagged mortar which is a combination of portland 
+cement and ground limestone, and hydrated lime, 
+machine-slaked lime that eliminated the necessity of 
+slaking quicklime into putty at the site. 
+Portland cement was patented in Great Britain in 1824. 
+It was named after the stone from Portland in Dorset 
+which it resembled when hard. This is a fast-curing, 
+hydraulic cement which hardens under water. Portland 
+cement was first manufactured in the United States in 
+1872, although 
+it was imported before this date. But it 
+was not in common use throughout the country until the 
+early 20th century. Up until the turn of the century 
+portland cement was considered primarily an additive, 
+or "minor ingredient" to help accelerate mortar set time. 
+By the 1930s, however, most masons used a mix of equal 
+parts portland cement and lime putty. Thus, the mortar 
+found in masonry structure s built between 1873 and 1930 
+can range from pure lime and sand mixes to a wide 
+varie ty of lime, portland cement, and sand combinations. 
+Mortar consisting primarily of lime and sand has been 
+used as an integral part of masonry structures for 
+thousands of years. Up until about the mid-19th century, 
+lime or quicklime (sometimes called lump lime) was 
+delivered to construction sites, where it had to be slaked, 
+or combined with water. Mixing with water caused it to 
+boil and resulted in a wet lime putty that was left to 
+mature in a pit or wooden box for several weeks, up to a 
+year. Traditional mortar was made from lime putty, or 
+slaked lime, combined with local sand, generally in a 
+ratio of 1 part lime putty to 3 parts sand by volume. 
+Often other ingredients, such as crushed marine shells 
+(another source of lime), brick dust, clay, natural 
+cements, pigments, and even animal hair were also 
+added to mortar, but the basic formulation for lime putty 
+and sand mortar remained unchanged for centuries until 
+the advent of portland cement or its forerunner, Roman 
+cement, a natural, hydraulic cement. 
+Historical Background 
+
+Figure 3. Good-quality repainting closely replicates the original in composition, texture, joint type and profile on this 19th centun; brick building (left), and on this 
+late-19th century granite on H.H. Richardson's Glessner House in Chicago (right). Photos: Charles E. Fisher: Sharon C. Park, FAIA. 
+gradation and color. This allows the color and the texture of 
+the mortar to be matched with some accuracy because 
+sand is the largest ingredient by volume. 
+In creating a repointing mortar that is compatible with the 
+masonry units, the objective is to achieve one that matches 
+the historic mortar as closely as possible, so that the new 
+material can coexist with the old in a sympathetic, 
+supportive and, if necessary, sacrificial capacity. The exact 
+physical and chemical properties of the historic mortar are 
+not of major significance as long as the new mortar 
+conforms to the following criteria : 
+•The new mortar must match the historic mortar in colo r, 
+texture and tooling. 
+(If a laboratory analysis is undertaken, 
+it may be possible to match the binder components and 
+their proportions with the historic mortar, if those materials 
+are available .) 
+•The sand must match the sand in the historic mortar. 
+(The color and texture of the new mortar will usually fall 
+into place if the sand is matched successfully.) 
+•The new mortar must have greater vapor permeability 
+and be softer (measured in compressive strength) than the 
+masonry units. 
+•The new mortar must be as vapor permeable and as soft 
+or softer (measured in compressive strength) than the 
+historic mortar. (Softness or hardness is not necessarily an 
+indication of permeability; old, hard lime mortars can still 
+retain high permeability.) 
+Properties of Mortar 
+Mortars for repointing should be softer or more 
+permeable than the masonry units and no harder or 
+more impermeable than the historic mortar to prevent 
+damage to the masonry units. It is a common error to 
+assume that hardness or high strength is a measure of 
+appropriateness, particularly for lime-based historic 
+mortars. Stresses within a wall caused by expansion, 
+contraction, moisture migration, or settlement must be 
+accommodated in some manner; in a masonry wall these 
+Figure 4. (left) The poor quality of this repainting-it appears to have been "tooled" with the mason's finger-does not match the delicacy of tlie original beaded joint on 
+this 19th-century brick wall. (right) It is obvious that the repainting on this "test patch" is not an appropriate replacement mortar joint for this early-19th centun; 
+stone foundation. Photos: Lee H. Nelson, FAIA. 
+3 
+
+4 
+Permeability, or rate of vapor transmission, is also critical. 
+High lime mortars are more permeable than denser 
+cement mortars. Historically, mortar acted as a bedding 
+material-not unlike an expansion joint-rather than a 
+"glue" for the masonry units, and moisture was able to 
+migrate through the mortar joints rather than the 
+masonry units. When moisture evaporates from the 
+masonry it deposits any soluble salts either on the surface 
+as efflorescence or below the surface as subfl.orescence. While 
+salts deposited on the surface of masonry units are 
+usually relatively harmless, salt crystallization within a 
+masonry unit creates pressure that can cause parts of the 
+outer surface to spall off or delarninate. If the mortar does 
+not permit moisture or moisture vapor to migrate out of 
+the wall and evaporate, the result will be damage to the 
+masonry units. 
+Components of Mortar 
+Sand. Sand is the largest component of mortar and the 
+material that gives mortar its distinctive color, texture and 
+cohesiveness. Sand must be free of impurities, such as 
+salts or clay. The three key characteristics of sand are: 
+particle shape, gradation and void ratios. 
+Figure 5. The use of hard, port/and-cement mortar that is less permeable than 
+the soft bricks has resulted in severe damage to this brick wall. Moisture 
+trapped in the wall was unable to evaporate through the mortar which is 
+intended to be sacrificial, and thus protect the bricks. As a result the moisture 
+remained in the walls until water pressure eventually popped the surface off 
+the bricks. Photo: National Park Service Files. 
+When viewed under a magnifying glass or low-power 
+microscope, particles of sand generally have either 
+rounded edges, such as found in beach and river 
+sand, or sharp, angular edges, found in crushed or 
+manufactured sand. For repointing mortar, rounded or 
+natural sand is preferred for two reasons. 
+It is usually 
+similar to the sand in the historic mortar and provides a 
+better visual match . It also has better working qualities 
+or plasticity and can thus be forced into the joint more 
+easily, forming a good contact with the remaining 
+historic mortar and the surface of the adjacent masonry 
+units. Although manufactured sand is frequently more 
+readily available, it is usually possible to locate a supply 
+of rounded sand. 
+The gradation of the sand (particle size distribution) 
+plays a very important role in the durability and 
+cohesive properties of a mortar. Mortar must have a 
+certain percentage of large to small particle sizes in order 
+to deliver the optimum performance. Acceptable 
+guidelines on particle size distribution may be found in 
+ASTM C 144 (American Society for Testing and 
+Materials). However, in actuality, since neither historic 
+nor modem sands are always in compliance with ASTM 
+C 144, matching the same particle appearance and 
+gradation usually requires sieving the sand. 
+A scoop of sand contains many small voids between the 
+individual grains. A mortar that performs well fills all 
+these small voids with binder (cement/lime combination 
+or mix) in a balanced manner. Well-graded sand 
+generally has a 30 per cent void ratio by volume. Thus, 
+30 per cent binder by volume generally should be used, 
+unless the historic mortar had a different binder: 
+aggregate ratio. This represents the 1:3 binder to sand 
+ratios often seen in mortar specifications. 
+For repointing, sand generally should conform to ASTM 
+C 144 to assure proper gradation and freedom from 
+impurities; some variation may be necessary to match 
+the original size and gradation. Sand color and texture 
+also should match the original as closely as possible to 
+provide the proper color match without other additives. 
+Lime. Mortar formulations prior to the late-19th century 
+used lime as the primary binding material. Lime is 
+derived from heating limestone at high temperatures 
+which burns off the carbon dioxide, and turns the 
+limestone into quicklime. There are three types of 
+limestone-calcium, magnesium, and dolomitic­
+differentiated by the different levels of magnesium 
+carbonate they contain which impart specific qualities to 
+mortar . Historically, calcium lime was used for mortar 
+rather than the dolomitic lime (calcium magnesium 
+carbonate) most often used today. But it is also 
+important to keep in mind the fact that the historic limes, 
+and other components of mortar, varied a great deal 
+because they were natural, as opposed to modem lime 
+which is manufactured and, therefore, standardized . 
+Because some of the kinds of lime, as well as other 
+components of mortar, that were used historically are no 
+longer readily available, even when a conscious effort is 
+made to replicate a "historic" mix, this may not be 
+achievable due to the differences between modem and 
+historic materials. 
+stresses 
+should be relieved by the mortar rather than by 
+the masonry units. A mortar that is stronger in 
+compressive strength than the masonry units, will not 
+"give," thus causing the stresses to be relieved through 
+the masonry units-resulting in permanent damage to 
+the masonry, such as cracking and spalling, that cannot 
+be repaired easily (Fig. 5). While stresses can also break 
+the bond between the mortar and the masonry units, 
+permitting water to penetrate the resulting hairline 
+cracks, this is easier to correct in the joint through 
+repointing than if the break occurs in the masonry units. 
+
+Lime, itself, when mixed with water into a paste is very 
+plastic and creamy. It will remain workable and soft 
+indefinitely, if stored in a sealed container. Lime 
+(calcium hydroxide) hardens by carbonation absorbing 
+carbon dioxide primarily from the air, converting itself to 
+calcium car bonat e. Once a lime and sand mortar is 
+mixed and placed in a wall, it begins the process of 
+carbonation. If lime mortar is left to dry too rapidly, 
+carbonation of the mortar will be reduced, resulting in 
+poor adhesion and poor durability. In addition, lime 
+mortar is slightly water soluble and thus is able to re-seal 
+any hairline cracks that may develop during the life o f 
+the mortar. Lime mortar is soft, porous, and changes 
+little in volume during temperature fluctuations, thus 
+making it a good choice for historic buildings. 
+Because of 
+these qualities, high calcium lime mortar may be considered 
+for many repainting projects, not just those involving 
+historic buildings. 
+For repointing, lime should conform to ASTM C 207 , 
+Type S, or Type SA, Hydrated Lime for Masonry 
+Purposes. This machine-slaked lime is designed to 
+assure high plasticity and water retention. The use of 
+quicklime which must be slaked and soaked by hand 
+may have advantages over hydrated lime in some 
+restoration projects 
+if time and mone y allow. 
+Lime putty. Lime putty is slaked lime that has a putty or 
+paste-like consistency . It should conform to ASTM C 5. 
+Mortar can be mixed using lime putty according to 
+ASTM C 270 property or proportion specification. 
+Portland cement. More recent, 20th-century mortar has 
+used portland cement as a primary binding material. A 
+straight portland cement and sand mortar is extremel y 
+hard, resists the movement of water, shrinks upon 
+setting, and undergoes relatively large thermal 
+movements . When mixed with water , portland cemen t 
+forms a harsh, stiff paste that is quite unworkable, 
+becoming hard very quickly. (Unlike lime , portland 
+cement will harden regardless of weather conditions and 
+does not require wetting and drying cycles .) Some 
+portland cement assists the workability and plasticity of 
+the mortar without adversely affecting the finished 
+project; it also provides early strength to the mortar and 
+speeds setting. Thus, it may be appropriate to add some 
+portland cement to an essentially lime-based mortar 
+even when repointing relatively soft 18th or 19th century 
+brick under some circumstances when a slightl y harder 
+mortar is required . The more portland cement that is 
+added to a mortar formulation the harder it becomes­
+and the faster the initial set. 
+For repointing, portland cement 
+should conform to ASTM 
+C 150. White, non-staining portland cement may provide 
+a better color match for some historic mortars than the 
+more commonly available grey portland cement. But, it 
+should not be assumed, however , that white portland 
+cement is always appropriate for all historic buildings, 
+since the original mortar may have been mixed with grey 
+cement. The cement should not ha ve more than 0 .60 per 
+cent alkali to help avoid efflore scence. 
+Masonry cement. Masonry cement is a preblended 
+mortar mix commonly found at hardware and home 
+repair stores . It is designed to produce mortars with a 
+compressive strength of 750 psi or higher when mixed 
+MORTAR ANALYSIS 
+Methods for analyzing mortars can be divided 
+into two broad categories: wet chemical and 
+instrumental. Many laboratories that analyze 
+historic mortars use a simple wet-chemical 
+method called acid digestion, whereby a sample of 
+the mortar is crushed and then mixed with a dilute 
+acid. The acid dissolves all the carbonate­
+containing minerals not only in the binder, but 
+also in the aggregate (such as oyster shells, coral 
+sands, or other carbonate-based materials), as well 
+as any other acid-soluble materials. The sand and 
+fine-grained acid-insoluble material is left behind. 
+There are several variations on the simple acid 
+digestion test. One involves collecting the carbon 
+dioxide gas given off as the carbonate is digested 
+by the acid; based on the gas volume the carbonate 
+content of the mortar can be accurately 
+determined (Jedrzejewska, 1960). Simple acid 
+digestion methods are rapid, inexpensive, and 
+easy to perform, but the information they provide 
+about the original composition of a mortar is 
+limited to the color and texture of the sand. The 
+gas collection method provides more information 
+about the binder than a simple acid digestion test. 
+Instrumental analysis methods that have been 
+used to evaluate mortars include polarized light or 
+thin-section microscopy, scanning electron 
+microscopy, atomic absorption spectroscopy, X-ray 
+diffraction, and differential thermal analysis. All 
+instrumental methods require not only expensive, 
+specialized equipment, but also highly-trained 
+experienced analysts. However, instrumental 
+methods can provide much more information 
+about a mortar. Thin-section microscopy is 
+probably the most commonly used instrumental 
+method. Examination of thin slices of a mortar in 
+transmitted light is often used to supplement acid 
+digestion methods, particularly to look for 
+carbonate-based aggregate. For example, the new 
+ASTM test method, ASTM C 1324-% ''Test Method 
+for Examination and Analysis of Hardened 
+Mortars" which was designed specifically for the 
+analysis of modern lime-cement and masonry 
+cement mortars, combines a complex series of wet 
+chemical analyses with thin-section microscopy. 
+The drawback of most mortar analysis methods is 
+that mortar samples of known composition have 
+not been analyzed in order to evaluate the method. 
+Historic mortars were not prepared to narrowly 
+defined specifications from materials of uniform 
+quality; they contain a wide array of locally 
+derived materials combined at the discretion of the 
+mason. While a particular method might be able 
+to accurately determine the original proportions of 
+a lime-cement-sand mortar prepared from modem 
+materials, the usefulness of that method for 
+evaluating historic mortars is questionable unless 
+it has been tested against mortars prepared from 
+materials more commonly used in the past. 
+Lorraine Schnabel. 
+5 
+
+6 
+Figure 6. Tinted mortar. (/eft)Black mortar with a beaded joint was used here 011 this late-19th century hard pressed red brick and, (c~nter) a _dark brown tinted_ mortar 
+with an almost flush joint was used on this early-20th century Roman brick. (right) When constru~ted at the turn-of-the-c_entury, this buildmg was pomted with a 
+dark gray mortar to blend with the color of the stone, but the light-colored mortar llsed in spot repozntmg has destroyed t/11s harmony and adversely impacts the 
+building's historic character. Photos: Anne Grimmer. 
+with sand and water at the job site. It may contain 
+hydrated lime, but it always contains a large amount of 
+portland cement, as well as ground limestone and other 
+workability agents, including air-entraining agents. 
+Because masonry cements are not required to contain 
+hydrated lime, and generally do not contain lime, _the~ 
+produce high strength mortars that can damage histonc 
+masonry. For this reason, they generally are not recommended 
+for use on historic masonry buildings. 
+Lime mortar (pre-blended). Hydrated lime mortars, and 
+pre-blended lime putty mortars with or without a 
+matched sand are commercially available. Custom 
+mortars are also available with color. 
+In most instances, 
+pre-blended lime mortars conta~g sand ~ay not 
+provide an exact match; however, if the proJect calls for 
+total repainting, a pre-blended lime mortar may be worth 
+considering as long as the mortar is compatible in strength 
+with the masonry. If the project involves only selected, 
+"spot" repainting, then it may be better to carry out a 
+mortar analysis which can provide a custom pre-blended 
+lime mortar with a matching sand. In either case, if a 
+preblended lime mortar is to be used, it should contain 
+Type S or SA hydrated lime conforming to ASTM C 207. 
+Water. Water should be potable-dean and free from 
+acids, alkalis, or other dissolved organic materials. 
+Other Components 
+Historic components. In addition to the color of the . 
+sand the texture of the mortar is of critical importance m 
+duplicating historic mortar. Most mortars dating from 
+the mid-19th century on-with some exceptions-have a 
+fairly homogeneous texture and color. Some earlier . 
+mortars are not as uniformly textured and may contain 
+lumps of partially burned lime or "?irty lim~", shell_ 
+(which often provided a source of hme, particularly m 
+coastal areas), natural cements, pieces of clay, lampblack 
+or other pigments, or even animal hair. The visual char­
+acteristics of these mortars can be duplicated through the 
+use of similar materials in the repainting mortar. 
+Replicating such 
+unique or individual mortars _will 
+require writing new specifications f~r each p~oJect. If 
+possible, suggested sources for speaal materials should 
+be included. For example, crushed oyster shells can be 
+obtained in a variety of sizes from poultry supply dealers. 
+Pigments. Some historic mortars, particularly ~ the late 
+19th century, were tinted to match or contra~t wit~ the 
+brick or stone (Fig. 6). Red pigments, sometimes m the 
+form of brick dust, as well as brown, and black pigments 
+were commonly used. Modern pigments are available 
+which can be added to the mortar at the job site, but they 
+should not exceed 10 per cent by weight of the portland 
+cement in the mix, and carbon black should be limited to 
+2 per cent. Only synthetic mineral oxides, which are 
+alkali-proof and sun-fast, should be used to prevent 
+bleaching and fading. 
+Modem components. Admixtures are used to create 
+specific characteristics in mortar, and ~h~t~er they . 
+should be used will depend upon the mdiVIdual proJect. 
+Air-entraining agents, for example, help the mortar to 
+resist freeze-thaw damage in northern climates. 
+Accelerators are used to reduce mortar freezing prior to 
+setting while retarders help to extend the mortar life in hot 
+climates. Selection of admixtures should be made by the 
+architect or architectural conservator as part of the specifi­
+cations, not something routinely added by the masons. 
+Generally, modern 
+chemical additives are_~eces_sary 
+and may, in fact, have detrimental effects m historic 
+masonry projects. The use of antifreeze compounds is 
+not recommended. They are not very effective with high 
+lime mortars and may introduce salts, which may cause 
+efflorescence later. A better practice is to warm the sand 
+and water, and to protect the completed work from 
+freezing. No definitive study has determined_ whether 
+air-entraining additives should be used to resist frost 
+action and enhance plasticity, but in areas of extreme 
+exposure requiring high-strength mortars with lower 
+permeability, air-entrainme,~t of 10-16 percent may b~ . 
+desirable (see formula for severe weather exposure m 
+Mortar Type and Mix). Bonding agents are not a 
+substitute for proper joint preparation, and they should 
+generally be avoided. If the joint is properly prepared, 
+there will be a good bond between the new mortar ~nd 
+the adjacent surfaces. In addition, a bonding agent i~ 
+difficult to remove if smeared on a masonry surface (Fig. 7). 
+
+Mortar Type and Mix 
+Mortars for repointing projects, especially those involving 
+historic buildings, typically are custom mixed in order to 
+ensure the proper physical and visual qualities. These 
+materials can be combined in varying proportions to 
+create a mortar with the desired performance and 
+durability. The actual specification of a particular mortar 
+type should take into consideration all of the factors 
+affecting the life of the building including: current site 
+conditions, present condition of the masonry, function 
+of the new mortar , degree of weather exposure, and skill 
+of the mason. Thus, no two repointing projects are 
+exactly the same. Modern material s specified for use in 
+repointing mortar should conform to specifications of 
+the American Society for Testing and Materials (ASTNI) 
+or comparable federal specifications, and the resulting 
+mortar should conform to ASTM C 270, Mortar for 
+Unit Masonry. 
+Specifying the proportions for the repointing mortar for 
+a specific job is not as difficult as it might seem. Five 
+mortar types, each with a corresponding recommended 
+mix, have been established by ASTM to distinguish high 
+strength mortar from soft flexible mortars. The ASTM 
+designated them in decreasing order of approximate 
+general strength as Type M (2,500 psi), Type S (1,800 psi), 
+Type N (750 psi), Type O (350 psi) and Type K (75 psi) . 
+(The letters identifying the types are from the words 
+MA20N WORK using every other letter.) Type K has 
+the highest lime content of the mixes that contain 
+portland cement, although it is seldom used today, 
+except for some historic preservation projects. The 
+designation "L" in the accompanying chart identifies a 
+straight lime and sand mix. Specifying the appropriate 
+ASTM mortar by proportion of ingredients, will ensure 
+the desired physical properties . Unless specified 
+otherwise, measurements or proportions for mortar 
+mixes are always given in the following order: cement­
+lime-sand . Thus , a Type K mix, for example, would be 
+referred to as 1-3-10, or 1 part cement to 3 parts lime to 
+10 parts sand. Other requirements to create the desired 
+visual qualities should be included in the specifications. 
+Figure 7. The dark stain on 
+either side of the vertical 
+joint on this sandstone 
+water/able probably resulted 
+from the use of a bonding 
+agent that was not properly 
+cleaned off the masonry 
+after repainting. Photo: 
+Anne Grimmer. 
+Figure 8. Due to inadequate joint preparation, the repainting mortar has not 
+adhered properly and is falling out of the joint. Photo: Robert C. Mack, FAIA. 
+The strength of a mortar can vary. If mixed with higher 
+amounts of portland cement, a harder mortar is 
+obtained. The more lime that is added, the softer and 
+more plastic the mortar becomes, increasing its 
+workability. A mortar strong in compressive strength 
+might be desirable for a hard stone (such as granite) pier 
+holding up a bridge deck, whereas a softer, more 
+permeable lime mortar would be preferable for a historic 
+wall of soft brick. Masonry deterioration caused by salt 
+deposition results when the mortar is less permeable that 
+the masonry unit. A strong mortar is still more permeable 
+than hard dense stone . However, in a wall constructed of 
+soft bricks where the masonry unit itself has a relatively 
+high permeability or vapor transmission rate, a soft, high 
+lime mortar is necessary to retain sufficient permeability . 
+Budgeting and Scheduling 
+Repointing is both expensive and time consuming due to 
+the extent of handwork and special materials required. 
+It is preferable to repoint only those areas that require 
+work rather than an entire wall, as is often specified. 
+But, if 25 to 50 per cent or more of a wall needs to be 
+repointed, repointing the entire wall may be more cost 
+effective than spot repointing. Total repointing may also 
+be more sensible when access is difficult, requiring the 
+erection of expensive scaffolding (unless the majority of 
+the mortar is sound and unlikely to require replacement 
+in the foreseeable future) . Each project requires 
+judgement based on a variety of factors. Recognizing 
+this at the outset will help to prevent many jobs from 
+becoming prohibitively expensive. 
+In scheduling, seasonal aspects need to be considered 
+first. Generally speaking, wall temperatures between 40 
+and 95 degrees F (8 and 38 degrees C) will prevent 
+freezing or excessive evaporation of the water in the 
+mortar. Ideally, repointing should be done in shade, 
+away from strong sunlight in order to slow the drying 
+process, especially during hot weather. 
+If necessary, 
+shade can be provided for large-scale projects with 
+appropriate modifications to scaffolding. 
+The relationship of repointing to other work proposed on 
+the building must also be recognized. For example, if 
+paint removal or cleaning is anticipated, and if the 
+mortar joints are basically sound and need only selective 
+repointing, it is generally better to postpone repointing 
+7 
+
+8 
+Figure 10. Using a hammer and masonry chisel is the least damaging and, 
+thus, generally the preferred method of removing old mortar in preparation 
+for repainting historic masonry. Photo: John P. Speweik. 
+Test Panels. These panels are prepared by the contractor 
+using the same techniques that will be used on the 
+remainder of the project. Several panel locations­
+preferably not on the front or other highly visible location 
+of the building-may be necessary to include all types of 
+masonry, joint styles, mortar colors, and other problems 
+likely to be encountered on the job. If cleaning tests, for 
+Execution of the Work 
+The contract documents should call for unit prices as well 
+as a base bid. Unit pricing forces the contractor to 
+determine in advance what the cost addition or reduction 
+will be for work which varies from the scope of the base 
+bid. If, for example, the contractor has fifty linear feet 
+less of stone repointing than indicated on the contract 
+documents but thirty linear feet more of brick repointing, 
+it will be easy to determine the final price for the work. 
+Note that each type of work-brick repointing, stone 
+repointing, or similar items-will have its own unit price. 
+The unit price also should reflect quantities; one linear 
+foot of pointing in five different spots will be more 
+expensive than five contiguous linear feet. 
+bidder, and bidders who have performed poorly on other 
+projects usually can be eliminated from consideration on 
+this basis, even if they have the lowest prices. 
+The ideal way to select a contractor is 
+to ask knowledge­
+able owners of recently repointed historic buildings for 
+recommendations. Qualified contractors then can 
+provide lists of other repointing projects for inspection. 
+More commonly, however, the contractor for a repointing 
+project is selected through a competitive bidding process 
+over which the client or consultant has only limited 
+control. In this situation it is important to ensure that 
+the specifications stipulate that masons must have a 
+minimum of five years' experience with repointing 
+historic masonry buildings to be eligible to bid on the 
+project. Contracts are awarded to the lowest responsible 
+Contractor Selection 
+Building managers also must recognize the difficulties 
+that a repointing project can create. The process is time 
+consuming, and scaffolding may need to remain in place 
+for an extended period of time. The joint preparation 
+process can be quite noisy and can generate large 
+quantities of dust which must be controlled, especially at 
+air intakes to protect human health, and also where it 
+might damage operating machinery. Entrances may be 
+blocked from time to time making access difficult for 
+both building tenants and visitors. Clearly, building 
+managers will need to coordinate the repointing work 
+with other events at the site. 
+until after completion of these activities. However, if the 
+mortar has eroded badly, allowing moisture to penetrate 
+deeply into the wall, repointing should be accomplished 
+before cleaning. Related work, such as structural or roof 
+repairs, should be scheduled so that they do not interfere 
+with repointing and so that all work can take maximum 
+advantage of erected scaffolding. 
+Figure 9. Comparison of incorrect and correct preparation of mortar joints 
+for repainting. Drawing: Robert C. Mack, FAIA, and David W. Look, AJA. 
+
+Figure 11. The damage to the edges and corners of these historic bricks was 
+caused by using a mechanical grinder to rake out the joints. Note the 
+overcutting of the head joint and the damage to the arises (corners) of the 
+bricks. Photo: Lee H. Nelson, FAIA. 
+example, are also to be undertaken , they should be 
+carried out in the same location . Usually a 3 foot by 3 
+foot area is sufficient for brickwork, while a somewhat 
+larger area may be required for stonework. These panels 
+establish an acceptable standard of work and serve as a 
+benchmark for evaluating and accepting subsequent 
+work on the building. 
+Joint Preparation. Old mortar should be removed to a 
+minimum depth of 2 to 2- ½ times the width of the joint 
+to ensure an adequate bond and to prevent mortar 
+"popouts" (Fig. 8). For most brick joints , this will 
+require removal of the mortar to a depth of approximate­
+ly ½ to 1 inch; for stone masonry with wide joints, 
+mortar may need to be removed to a depth of several 
+inches . Any loose or disintegrated mortar beyond thi s 
+minimum depth also should be removed (Fig. 9) . 
+Although 
+some damage may be inevitable, careful joint 
+preparation can help limit damage to masonry units . 
+The traditional manner of removing old mortar is 
+through the use of hand chisels and mash hammers 
+(Fig. 10). Though labor-intensive , in most instances this 
+method poses the least threat for damage to historic 
+masonry units and produces the best final product . 
+The most common method of removing mortar , 
+however, is through the use of power saws or grinder s. 
+The use of power tools by unskilled masons can be 
+disastrous for historic masonry , particularly soft brick. 
+Using power saws on walls with thin joints , such as 
+most brick walls , almost always will result in damage to 
+the masonry units by breaking the edges and by 
+overcutting on the head, or vertical joints (Fig. 11). 
+However, small pneumatically-powered chisels 
+generally can be used safely and effectivel y to remove 
+mortar on historic buildings as long as the masons 
+maintain appropriate control o ver the equipment. 
+Figure 12 .. A power grinder, operated correctly by a skilled mason may be 
+used in preparation for repainting to cut wide, horizontal mortar joints, 
+typical of many early-20th century brick structures without causing damage 
+to the brick. Note the use of protective safety equipment. Photo: Robert C. 
+Mack,FAIA . 
+Under certain circumstances, thin diamond-bladed 
+grinders may be used to cut out horizontal joints only on 
+hard portland cement mortar common to most early-20th 
+century masonry buildings (Fig. 12). Usually, automatic 
+tools most successfully remove old mortar without 
+damaging the masonry units when they are used in 
+combination with hand tools in preparation for 
+repainting. Where horizontal joints are uniform and 
+fairly wide, it may be possible to use a power masonry 
+saw to assist the removal of mortar, such as by cutting 
+along the middle of the joint; final mortar removal from 
+the sides of the joints still should be done with a hand 
+chisel and hammer. Caulking cutters with diamond 
+blades can sometimes be used successfully to cut out 
+joints without damaging the masonry. Caulking cutters 
+are slow; they do not rotate, but vibrate at very high 
+speeds , thus minimizing the possibility of damage to 
+masonry units (Fig. 13). Although mechanical tools may 
+be used safely in limited circumstances to cut out 
+horizontal joints in preparation for repainting, they 
+should never be used on vertical joints because of the 
+danger of slipping and cutting into the brick above or 
+below the vertical joint. Using power tools to remove 
+mortar without damaging the surrounding masonry 
+units also necessitates highly skilled masons experienced 
+in working on historic masonry buildings. Contractors 
+9 
+
+10 
+Figure 13. (left) In preparation for repainting, the mortar joints on these 
+granite steps are first cut out mechanically (note the vacuum attached to the 
+cutting tool in foreground to cut down on dust). (right) Final removal of the 
+old mortar is done by hand to avoid damage to the edges of the joints. 
+Mechanical preparation of horizontal joints by an experienced mason may 
+sometimes be acceptable, especially where the joints are quite wide and the 
+masonry is a very hard stone. Photos: Anne Grimmer. 
+Mortar should be removed cleanly from the masonry 
+units, leaving square corners at the back of the cut. 
+Before filling, the joints should be rinsed with a jet of 
+water to remove all loose particles and dust. At the time 
+of filling, the joints should be damp, but with no 
+standing water present. For masonry walls-limestone, 
+sandstone and common brick-that are extremely 
+absorbent, it is recommended that a continual mist of 
+water be applied for a few hours before repainting begins. 
+Mortar Prep aration. Mortar components should be 
+measured and mixed carefully to assure the uniformity 
+of visual and physical characteristics. Dry ingredients 
+are measured by volume and thoroughly mixed before 
+the addition of any water. Sand must be added in a 
+damp, loose condition to avoid over sanding. 
+Repainting mortar is typically pre-hydrated by adding 
+water so it will just hold together, thus allowing it to 
+stand for a period of time before the final water is 
+added. Half the water should be added, followed by 
+mixing for approximately 5 minutes. The remaining 
+water should then be added in small portions until a 
+mortar of the desired consistency is reached. The total 
+volume of water necessary may vary from batch to 
+batch, depending on weather conditions. 
+It is important 
+to keep the water to a minimum for two reasons: first, a 
+drier mortar is cleaner to work with, and it can be 
+compacted tightly into the joints; second, with no excess 
+water to evaporate, the mortar cures without shrinkage 
+cracks. Mortar should be used within approximately 30 
+minutes of final mixing, and "retempering," or adding 
+more water, should not be permitted. 
+Using Lime Putty to Make M ortar. Mortar made with 
+lime putty and sand, sometimes referred to as roughage 
+or course stuff, should be measured by volume, and may 
+require slightly different proportions from those used 
+with hydrated lime (Fig. 14). No additional water is 
+usually needed to achieve a workable consistency 
+because enough water is already contained in the putty. 
+Sand is proportioned first, followed by the lime putty, 
+then mixed for five minutes or until all the sand is 
+thoroughly coated with the lime putty. But mixing, in the 
+familiar sense of turning over with a hoe, sometimes may 
+not be sufficient if the best possible performance is to be 
+obtained from a lime putty mortar. Although the old 
+practice of chopping, beating and ramming the 
+mortar has largely been forgotten, recent field work has 
+confirmed that lime putty and sand rammed and beaten 
+with a wooden mallet or ax handle, interspersed by 
+chopping with a hoe, can significantly improve 
+workability and performance. The intensity of this action 
+increases the overall lime/ sand contact and removes any 
+surplus water by compacting the other ingredients. 
+It 
+may also be advantageous for larger projects to use a 
+mortar pan mill for mixing. Mortar pan mills which have 
+a long tradition in Europe produce a superior lime putty 
+mortar not attainable with today's modern paddle and 
+drum type mixers. 
+For larger repainting projects the lime putty and sand can 
+be mixed together ahead of time and stored indefinitely, 
+on or off site, which eliminates the need for piles of sand 
+on the job site. This mixture, which resembles damp 
+brown sugar, must be protected from the air in sealed 
+containers with a wet piece of burlap over the top or 
+sealed in a large plastic bag to prevent evaporation and 
+premature carbonation. The lime putty and sand mixture 
+can be recombined into a workable plastic state months 
+later with no additional water. 
+If portland cement is specified in a lime putty and sand 
+mortar-Type O (1:2:9) or Type K (1:3:11)-the portland 
+cement should first be mixed into a slurry paste before 
+adding it to the lime putty and sand. Not only will this 
+ensure that the portland cement is evenly distributed 
+throughout the mixture, but if dry portland cement is 
+added to wet ingredients it tends to "ball up," jeopardiz­
+ing dispersion. (Usually water must be added to the lime 
+putty and sand anyway once the portland cement is 
+introduced.) Any color pigments should be added at this 
+stage and mixed for a full five minutes. The mortar 
+should be used within 30 minutes to 1 1/2 hours and it 
+should not be retempered. Once portland cement has 
+been added the mortar can no longer be stored. 
+Using any of these power tools may also be more 
+acceptable on hard stone, such as quartzite or granite, 
+than on terracotta with its glass-like glaze, or on soft 
+brick or stone. The test panel should determine the 
+acceptability of power tools . If power tools are to be 
+permitted, the contractor should establish a quality 
+control program to account for worker fatigue and 
+similar variables. 
+should demonstrate proficiency with power tools before 
+their use is approved. 
+Filling the Joint. Where existing mortar has been 
+removed to a depth of greater than 1 inch, these deeper 
+areas should be filled first, compacting the new mortar in 
+several layers. The back of the entire joint should be 
+filled successively by applying approximately 1/4 inch of 
+mortar, packing it well into the back corners. This 
+
+a b C 
+Figure 14. Mixing mortar using lime putty: (a) proportioning sand; (b) proportioning lime putty; (c) placing lime putty on top of sand; (d) mixing sand over 
+lime putty; (e) hand mixing mortar; and, (f) sample of mortar after mixing. Photos: John P. Speweik. 
+application may extend along the wall for several 
+feet. As soon as the mortar has reached thumb-print 
+hardness, another 1/4 inch layer of mortar-approximately 
+the same thickness-may be applied. Several layers will 
+be needed to fill the joint flush with the outer surface of 
+the masonry. It is important to allow each layer time to 
+harden before the next layer is applied; most of the 
+mortar shrinkage occurs during the hardening 
+process and layering thus minimizes overall shrinkage . 
+When the final layer of mortar is thumb-print hard , the 
+joint should be tooled to match the historic joint (Fig. 15). 
+Proper timing of the tooling is important for uniform 
+color and appearance. If tooled when too soft, the color 
+will be lighter than expected, and hairline cracks may 
+occur; if tooled when too hard, there may be dark 
+streaks called "tool burning," and good closure of the 
+mortar against the masonry units will not be achieved. 
+If the old bricks or stones have worn, rounded edges , it 
+is best to recess the final mortar slightly from the face of 
+the masonry. This treatment will help avoid a joint 
+which is visually wider than the actual joint; it also will 
+avoid creation of a large, thin featheredge which is easily 
+damaged, thus admitting water (Fig. 16). After tooling , 
+excess mortar can be removed from the edge of the joint 
+by brushing with a natural bristle or nylon brush. Metal 
+bristle brushes should never be used on historic masonry . 
+Curing Conditions. The preliminary hardening of high­
+lime content mortars-those mortars that contain more 
+lime by volume than portland cement, i.e., Type O (1:2:9), 
+Type K (1:3:11), and straight lime/sand, Type "L"(0:1:3) 
+-takes place fairly rapidly as water in the mix is lost 
+to the porous surface of the masonry and through 
+evaporation. A high lime mortar (especially Type "L") 
+left to dry out too rapidly can result in chalking, poor 
+adhesion, and poor durability. Periodic wetting of the 
+repointed area after the mortar joints are thumb-print 
+hard and have been finish tooled may significantly 
+accelerate the carbonation process. When feasible, 
+misting using a hand sprayer with a fine nozzle can be 
+simple to do for a day or two after repointing. Local 
+conditions will dictate the frequency of wetting, but 
+initially it may be as often as every hour and gradually 
+reduced to every three or four hours. Walls should be 
+covered with burlap for the first three days after 
+repointing. (Plastic may be used, but it should be tented 
+out and not placed directly against the wall.) This helps 
+keep the walls damp and protects them from direct 
+sunlight. Once carbonation of the lime has begun, it will 
+continue for many years and the lime will gain strength 
+as it reverts back to calcium carbonate within the wall. 
+Aging the Mortar. Even with the best efforts at matching 
+the existing mortar color, texture, and materials, there 
+will usually be a visible difference between the old and 
+11 
+
+12 
+Staining the new mortar to achieve a better color match 
+is generally not recommended, but it may be appropriate 
+in some instances. Although staining may provide an 
+initial match, the old and new mortars may weather at 
+different rates, leading to visual differences after a few 
+seasons. In addition, the mixtures used to stain the mortar 
+may be harmful to the masonry; for example, they may 
+introduce salts into the masonry which can lead to 
+efflorescence. 
+Cleaning the Repointed Masonry. If repainting work is 
+carefully executed, there will be little need for cleaning 
+other than to remove the small amount of mortar from 
+the edge of the joint following tooling. This can be done 
+with a stiff natural bristle or nylon brush after the 
+mortar has dried, but before it is initially set (1-2 hours). 
+Mortar that has hardened can usually be removed with a 
+wooden paddle or, if necessary, a chisel. 
+Further cleaning is best accomplished with plain water 
+and natural bristle or nylon brushes. 
+If chemicals must 
+Figure 15. The profile of the repainted joints on the left replicate the historic 
+joints around the corner to the right on the front of this stone building in 
+Leesburg, VA. The contractor's pride in the repainting work is evident by the 
+signature in the vertical joint. Photo: Anne Grimmer. 
+new work, partly because the new mortar has been 
+matched to the unweathered portions of the historic 
+mortar. Another reason for a slight mismatch may be 
+that the sand is more exposed in old mortar due to the 
+slight erosion of the lime or cement. Although spot 
+repainting is generally preferable and some color 
+difference should be acceptable, if the difference between 
+old and new mortar is too extreme, it may be advisable 
+in some instances to repaint an entire area of a wall, or an 
+entire feature such as a bay, to minimize the difference 
+between the old and the new mortar. 
+If the mortars have 
+been properly matched, usually the best way to deal 
+with surface color differences is to let the mortars age 
+naturally. Other treatments to overcome these 
+differences, including cleaning the non-repainted areas 
+or staining the new mortar, should be carefully tested 
+prior to implementation. 
+Figure 16. Comparison of visual effect of full mortar joints vs. slightly recessed 
+joints. Filling joints too full hides the actual joint thickness and changes the 
+character of the original brickwork. Drawing: Robert C. Mack, FAIA. 
+be used, they should be selected with extreme caution. 
+Improper cleaning can lead to deterioration of the 
+masonry units, deterioration of the mortar, mortar smear, 
+and efflorescence. New mortar joints are especially 
+susceptible to damage because they do not become fully 
+cured for several months. Chemical cleaners, particularly 
+acids, should never be used on dry masonry. The masonry 
+should always be completely soaked once with water 
+before chemicals are applied. After cleaning, the walls 
+should be flushed again with plain water to remove all 
+traces of the chemicals. 
+Several precautions should be taken if a freshly repainted 
+masonry wall is to be cleaned. First, the mortar should 
+be fully hardened before cleaning. Thirty days is usually 
+sufficient, depending on weather and exposure; as 
+mentioned previously, the mortar will continue to cure 
+even after it has hardened. Test panels should be 
+prepared to evaluate the effects of different cleaning 
+Figure 17. This photograph shows the significant visual change to the 
+character of this historic brick building that has resulted from improper 
+repointing procedures and a noticeably increased thickness of the mortar 
+joints. Photo: Lee H. Nelson, FAIA. 
+
+Mortar Types 
+(Measured by volume) 
+Designation Cement Hydrated Lime
+or 
+Lime Putty 
+Sand 
+M 1 '/, 3 - 3 3/, 
+s 1 '/, 4 - 4 1/, 
+N 1 1 5-6 
+0 1 2 8-9 
+K 1 3 10-12 
+''L" 0 1 2 '/, - 3 
+methods. Generally, on newly repointed masonry walls, 
+only very low pressure (100 psi) water washing supple­
+mented by stiff natural bristle or nylon brushes should be 
+used, except on glazed or polished surfaces, where only 
+soft cloths should be used."" 
+New construction ''bloom" or efflorescence occasionally 
+appears within the first few months of repointing and 
+usually disappears through the normal process of 
+weathering. If the efflorescence is not removed by 
+natural processes, the safest way to remove it is by dry 
+brushing with stiff natural or nylon bristle brushes 
+followed by wet brushing. Hydrochloric (muriatic) acid, 
+is generally ineffective, and it should not be used to 
+remove efflorescence. It may liberate additional salts, 
+which, in turn, can lead to more efflorescence. 
+Surface Grouting is sometimes suggested as an 
+alternative to repointing brick buildings, in particular. 
+This process involves the application of a thin coat of 
+cement-based grout to the mortar joints and the 
+mortar /brick interface. To be effective the grout must 
+extend slightly onto the face of the masonry units, thus 
+widening the joint visually. The change in the joint 
+appearance can alter the historic character of the 
+structure to an unacceptable degree. In addition, 
+although masking of the bricks is intended to keep the 
+grout off the remainder of the face of the bricks, some 
+level of residue, called "veiling," will inevitably remain . 
+Surface grouting cannot substitute for the more 
+extensive work of repointing, and it is not a 
+recommended treatment for historic masonry. 
+••Additional information on masonry cleaning is presented in 
+Preservation Briefs 1: The Cleaning and Waterproof Coating of Masonry 
+Buildings, Robert C. Mack, AIA , Washington , D.C.: Technical 
+Preservation Services, National Park Service, U.S. Department of th e 
+Interior, 1975; and Keeping it Clean: Removing Exterior Dirt, Paint, Stains & 
+Graffiti from Historic Masonry Buildings, Anne E. Grimmer, Washingt on, 
+D.C.: Technical Preservation Services , National Park Service, U.S. 
+Department of the Interior, 1988. 
+Masonry Material Sheltered Moderate Severe 
+Very Durable: 
+granite, hard-cored 
+brick , etc. 0 N s 
+Moderately Durable : 
+limestone, durable stone, 
+molded brick K 0 N 
+Minimally Durable : 
+soft hand-made brick "L" K 0 
+Summary 
+For the Owner/ Administrator. The owner or adminis­
+trator of a historic building should remember that 
+repointing is likely to be a lengthy and expensive 
+process. First, there must be adequate time for 
+evaluation of the building and investigation into the 
+cause of problems. Then, there will be time needed for 
+preparation of the contract documents. The work itself 
+is precise, time-consuming and noisy, and scaffolding 
+may cover the face of the building for some time. 
+Therefore, the owner must carefully plan the work 
+to avoid problems. Schedules for both repointing and 
+other activities will thus require careful coordination to 
+avoid unanticipated conflicts. The owner must avoid 
+the tendency to rush the work or cut corners if the 
+historic building is to retain its visual integrity and the 
+job is to be durable. 
+For the Architect/Consultant. Because the prin1ary role 
+of the consultant is to ensure the life of the building, a 
+knowledge of historic construction techniques and the 
+special problems found in older buildings is essential. 
+The consultant must assist the owner in planning for 
+logistical problems relating to research and construction. 
+It is the consultant's responsibility to determine the cause 
+of the mortar deterioration and ensure that it is corrected 
+before the masonry is repointed. The consultant must also 
+be prepared to spend more time in project inspections 
+than is customary in modem construction. 
+For the Masons. Successful repointing depends on the 
+masons themselves. Experienced masons understand 
+the special requirements for work on historic buildings 
+and the added time and expense they require. The 
+entire masonry crew must be willing and able to perform 
+the work in conformance with the specifications, even when 
+the specifications may not be in conformance with standard 
+practice. At the same time, the masons should not hesitate 
+to question the specifications if it appears that the work 
+specified would damage the building . 
+
+14 
+Visually Examining the Mortar and 
+the Masonry Units 
+A simple in-situ comparison will help determine the 
+hardness and condition of the mortar and the masonry 
+units. Begin by scraping the mortar with a screwdriver, 
+and gradually tapping harder with a cold chisel and 
+mason's hammer. Masonry units can be tested in the 
+same way beginning, even more gently, by scraping with 
+a fingernail. This relative analysis which is derived from 
+the IO-point hardness scale used to describe minerals, 
+provides a good starting point for selection of an 
+appropriate mortar. It is described more fully in "The 
+Russack System for Brick & Mortar Description" 
+referenced in Selected Reading at the end of this Brief. 
+Mortar samples should be chosen carefully, and picked 
+from a variety of locations on the building to find 
+unweathered mortar, if possible. Portions of the building 
+may have been repainted in the past while other areas 
+may be subject to conditions causing unusual deteriora­
+tion. There may be several colors of mortar dating from 
+different construction periods or sand used from different 
+sources during the initial construction. Any of these 
+situations can give false readings to the visual or physical 
+characteristics required for the new mortar. Variations 
+should be noted which may require developing more 
+than one 
+mix. 
+1) Remove with a chisel and hammer three or four 
+unweathered samples of the mortar to be matched 
+from several locations on the building. (Set the 
+largest sample aside-this will be used later for 
+comparison with the repainting mortar). Removing 
+a full representation of samples will allow selection of 
+a "mean" or average mortar sample. 
+2) Mash the remaining samples with a wooden 
+mallet, 
+or hammer if necessary, until they are separated into 
+their constituent parts. There should be a good 
+handful of the material . 
+3) Examine the powdered portion-the lime and/ or 
+cement matrix of the mortar. 
+Most particularly, note 
+the color. There is a tendency to think of historic 
+mortars as having white binders, but grey portland 
+cement was available by the last quarter of the 19th 
+century, and traditional limes were also sometimes 
+grey. Thus, in some instances, the natural color of the 
+historic binder may be grey, rather than white. The 
+mortar may also have been tinted to create a colored 
+mortar, and this color should be identified at this point. 
+4) Carefully blow away the powdery material (the lime 
+and/ or cement matrix 
+which bound the mortar together). 
+5) With a low power (10 power) magnifying glass, 
+examine the remaining sand and other materials such 
+as lumps of lime or shell. 
+6) Note and record the wide range of color as well 
+as the varying sizes of the individual grains of 
+sand , impurities , or other materials. 
+Other Factors to Consider 
+Color. Regardless of the color of the binder or colored 
+additives, the sand is the primary material that gives mortar 
+Figure 19. Mortar joints of 18th century brick buildings were often as much 
+as 1/2 inch wide, cut flush and struck with a grapevine joint, but for window 
+and door surrounds where a finer quality rubbed brick was used, mortar 
+joints were very thin. Photo: National Park Service Files. 
+its color. A surprising variety of colors of sand may be 
+found in a single sample of historic mortar, and the 
+different sizes of the grains of sand or other materials, 
+such as incompletely ground lime or cement, play an 
+important role in the texture of the repainting mortar. 
+Therefore, when specifying sand for repainting mortar, it 
+may be necessary to obtain sand from several sources and 
+to combine or screen them in order to approximate the range 
+of sand colors and grain sizes in the historic mortar sample. 
+Pointing Style. Close examination of the historic 
+masonry wall and the techniques used in the original 
+construction will assist in maintaining the visual 
+qualities of the building (Fig. 18). Pointing styles and 
+the methods of producing them should be examined. 
+It 
+is important to look at both the horizontal and the 
+vertical joints to determine the order in which they were 
+tooled and whether they were the same style. Some 
+late-19th and early-20th century buildings, for example, 
+have horizontal joints that were raked back while the 
+vertical joints were finished flush and stained to match 
+the bricks, thus creating the illusion of horizontal bands. 
+Pointing styles may also differ from one facade to 
+another; front walls often received greater attention to 
+mortar detailing than side and rear walls (Fig. 19). 
+Tuckpointing is not true repainting but the 
+Figure 20. This stone garden wall was tuckpointed to match the tuckpointing 
+on the c. 1920s house on the property. Photo: Anne Grimmer. 
+
+application of a raised joint or lime putty joint on top 
+of flush mortar joints (Fig. 20). Penciling is a purely 
+decorative, painted surface treatment over a mortar 
+joint, often in a contrasting color. 
+Masonry Units. The masonry units should also be 
+examined so that any replacement units will match the 
+historic masonry. Within a wall there may be a wide 
+range of colors, textures, and sizes, particula~ly with 
+hand-made brick or rough-cut, locally-quarried stone. 
+Replacement units should blend in with the full range 
+of masonry units rather than a single brick or stone. 
+Matching Color and Texture of the Repointing Mortar 
+New mortar should match the unweathered interior 
+portions of the historic mortar. The simplest way to 
+check the match is to make a small sample of the 
+proposed mix and allow it to cure at a temperatu~e of 
+approximately 70 degrees F for about a "."eek, ~r 1t can 
+be baked in an oven to speed up the curmg; this 
+sample is then broken open and the surface is compared 
+Figure 18. A cross-section of mortar joint types. (a). 
+Grapevine joints on a mid-18th century brick building; 
+(b) flush joints on a mid-to-late 19th century brick . 
+building; (c) beaded joints on a late-19th_ century brzck 
+building; (d) early-20th century beaded Joints on rou~h­
+cut limestone where the vertical joints were struck prior 
+to the horizontal joints; (e) raked joints on 1920s wire 
+brick; (f) horizontal joints on a 1934 building designed 
+by Frank Lloyd Wright were raked back from the face of 
+the bricks, and the vertical joints were filled with a red­
+tinted mortar to emphasize the horizontality of the 
+narrow bricks, and struck flush with the face of the 
+bricks; (g) the joints on this 20th century glazed terra­
+cotta tile building are raked slightly, emphasizing the 
+glazed block face. Photos: National Park Service Files 
+(a,b,e); Robert C. Mack, FAIA (c,d,f,g). 
+with the surface of the largest "saved" sample of 
+historic mortar. 
+If a proper color match cannot be achieved through the 
+use of natural sand or colored aggregates like crushed 
+marble or brick dust, it may be necessary to use a 
+modern mortar pigment. 
+During the early stages of the project, it should be 
+determined how closely the new mortar should match 
+the historic mortar. Will "quite close" be sufficient, or is 
+"exactly'' expected? The specifications should state this 
+clearly so that the contractor has a reasonable idea how 
+much time and expense will be required to develop an 
+acceptable match. 
+The same judgment will be necessary in matching 
+replacement terra cotta, stone or brick. If there is a 
+known source for replacements, this should be included 
+in the specifications. If a source cannot be determined 
+prior to the bidding process, the specifications sho_uld 
+include an estimated price for the replacement matenals 
+with the final price based on the actual cost to the contractor. 
+I 
+15 
+
+16 
+Conclusion 
+A good repointing job is meant to last, at least 30 years, 
+and preferably 50-100 years. Shortcuts and poor 
+craftsmanship result not only in diminishing the historic 
+character of a building, but also in a job that looks bad, 
+and will require future repointing sooner than if the 
+work had been done correctly (Fig. 17). The mortar 
+joint in a historic masonry building has often been 
+called a wall's "first line of defense." Good repointing 
+practices guarantee the long life of the mortar joint, the 
+wall, and the historic structure. Although careful 
+maintenance will help preserve the freshly repainted 
+mortar joints, it 
+is important to remember that mortar joints 
+are intended to be sacrificial and will probably require 
+repointing some time in the future. Nevertheless, if the 
+historic mortar joints proved durable for many years, then 
+careful repointing should have an equally long life, ultimately 
+contributing to the preservation of the entire building. 
+Selected Reading 
+Ashurst, John & Nicola. Practical Building Conservation. Vol. 3: 
+Mortars, Plasters and Renders. New York: Halsted Press, a 
+Division of John Wiley & Sons, Inc., 1988. 
+Cliver, E. Blaine. "Tests for the Analysis of Mortar Samples." 
+Bulletin of the Association for Preservation Technology. Vol. 6, 
+No. 1 (1974), pp. 68-73. 
+Coney, William B., AIA. Masonry Repainting of Twentieth­
+Century Buildings. Illinois Preservation Series. Number 10. 
+Springfield, IL: Division of Preservation Services, Illinois 
+Historic Preservation Agency, 1989. 
+Davidson, J.l. "Masonry Mortar." Canadian Building Digest. 
+CBD 163. Ottawa, ONT: Division of Building Research, 
+National Research Council of Canada, 1974. 
+Ferro, Maximillian 
+L., AIA, RIBA. "The Russack System for 
+Brick and Mortar Description: A Field Method for 
+Assessing Masonry Hardness." Technology and Conservation. 
+Vol. 5, No. 2 (Summer 1980), pp. 32-35. 
+Hooker, Kenneth A. "Field Notes on Repainting." Aberdeen's 
+Magazine of Masonry Construction. Vol. 4, No. 8 (August 
+1991), pp. 326-328. 
+Jedrzejewska, H. "Old Mortars in Poland: A New Method of 
+Investigation." Studies in Conservation. Vol. 5, No. 4 (1960), 
+pp. 132-138. 
+"Lime's Role in Mortar ." Aberdeen's Magazine of Masonry 
+Construction. Vol. 9, No. 8 (August 1996), pp. 364-368. 
+Phillips, Morgan W. "Brief Notes on the Subjects of Analyzing 
+Paints and Mortars and the Recording of Moulding Profiles: 
+The Trouble with Paint and Mortar Analysis." Bulletin of the 
+Association for Preservation Technology. Vol. 10, No. 2 (1978), 
+pp . 77-89. 
+Preparation and Use of Lime Mortars: An Introduction to the 
+Principles of Using Lime Mortars. Scottish Lime Centre for 
+Historic Scotland. Edinburgh: Historic Scotland, 1995. 
+Schierhorn, Carolyn. "Ensuring Mortar Color Consistency." 
+Aberdeen's Magazine of Masonry Construction. Vol. 9, No. 1 
+(January 1996), pp. 33-35. 
+"Should Air-Entrained Mortars Be Used?" Aberdeen's Magazine 
+of Masonry Construction. Vol. 7, No. 9 (September 1994), 
+pp. 419-422. 
+Sickels-Taves, Lauren B. "Creep, Shrinkage, and Mortars in 
+Historic Preservation." Journal of Testing and Evaluation, 
+JTEVA. Vol. 23, No. 6 (November 1995), pp. 447-452. 
+Speweik, John P. The History of Masonry Mortar in America, 
+1720-1995. Arlington, VA: National Lime Association, 1995. 
+Speweik, John P. "Repainting Right: Why Using Modern 
+Mortar Can Damage a Historic House." Old-House Journal. 
+Vol. XXV, No. 4 (July-August 1997), pp. 46-51. 
+Technical Notes on Brick Construction. Brick Institute of America, 
+Reston, VA. 
+"Moisture Resistance 
+of Brick Masonry: Maintenance." 7F. 
+February 1986. 
+"Mortars for Brick Masonry." 8 Revised II. November 1989. 
+"Standard Specification for Portland Cement-Lime Mortar 
+for Brick Masonry." BA Revised. September 1988 . 
+"Mortar for Brick Masonry-Selection and Controls." 8B 
+Reissued. September 1988. (July/ August 1976). 
+"Guide Specifications for Brick Masonry, Part V Mortar and 
+Grout."llE Revised. September 1991. 
+"Bonds and Patterns in Brickwork." 30 Reissued . 
+September 1988. 
+Useful Addresses 
+Brick Institute of America 
+11490 Commerce Park Drive 
+Reston, VA 22091 
+Portland Cement Association 
+5420 Old Orchard Road 
+Skokie, IL 60077 
+Acknowledgments 
+National Lime Association 
+200 N. Glebe Road, Suite 800 
+Arlington, VA 22203 
+Robert C. Mack, FAIA, is a principal in the firm of MacDonald & Mack , 
+Architects, Ltd., an architectural firm that specializes in historic 
+buildings in Minneapolis, Minnesota. John P. Speweik , CSI, Toledo, 
+Ohio, is a 5th-generation stonemason, and principal in U.S. Heritage 
+Group, Inc., Chicago, Illinois, which does custom historic mortar 
+matching. Anne Grimmer, Senior Architectural Historian, Heritage 
+Preservation Services Program, National Park Service, was responsible 
+for developing and coordinating the revision of this Preservation Brief, 
+incorporating professional comments, and the technical editing. 
+The authors and the editor wish to thank the following for the 
+professional and technical review they provided: Mark Macpherson and 
+Ron Peterson, Masonry Restoration Contractors, Macpherson-Towne 
+Company, Minneapolis, MN; Lorraine Schnabel, Architectural 
+Conservator, John Milner Associates, Inc ., Philadelphia, PA; Lauren B. 
+Sickels-Taves, Ph.D., Architectural Conservator, Biohistory International , 
+Huntington Woods, MI; and the following National Park Service profes­
+sional staff, including: E. Blaine Cliver, Chief, Historic American 
+Buildings Survey /Historic American Engineering Record; Douglas C. 
+Hicks, Deputy Superintendent, Historic Preservation Training Center, 
+Frederick, MD; Chris McGuigan, Supervisory Exrubits Specialist, 
+Historic Preservation Training Center, Frederick, MD; Charles E. Fisher, 
+Sharon C. Park, FAIA, John Sandor, Technical Preservation Services 
+Branch, Heritage Preservation Services, and Kay D. Weeks, Heritage 
+Preservation Services. 
+The original version of this brief, Repainting Mortar Joints in Historic Brick 
+Buildings, was written by Robert C. Mack in 1976, and was revised and 
+updated in 1980 by Robert C. Mack, de Teel Patterson Tiller, and James 
+S. Askins. 
+This publication has been prepared pursuant to the National Historic 
+Preservation Act of 1966, as amended, which directs the Secretary of the 
+Interior to develop and make available information concerning historic 
+properties. Comments about this publication should be directed to 
+de Teel Patterson Tiller, Chief, Heritage Preservation Services Program, 
+National Park Service, 1849 C Street, N. W. Suite NC200, Washington, 
+D.C. 20240. This publication is not copyrighted and can be reproduced 
+without penalty. Normal procedures for credit to the authors and the 
+National Park Service are appreciated. 
+Front Cover: Repainting a historic brick building using a lime-based mortar. 
+Traditional lime mortars have a consistency that enables the mortar to cling 
+to a repainting tool while in a vertical position. Photo: John P. Speweik. 
+ISSN:0885-7016 October 1998 

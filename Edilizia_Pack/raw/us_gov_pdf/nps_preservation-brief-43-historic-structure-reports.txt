@@ -1,0 +1,1281 @@
+The Moore House 
+l'IH· Sill- of th,· S111-r,·1ukr- \ orklo\\ 11 
+43PRESERVATION 
+BRIEFS 
+The Preparation and Use of 
+Historic Structure Reports 
+Deborah Slaton 
+National Park Service 
+U.S. Department of the Interior 
+A historic structure report provides documentary, 
+graphic, and physical information about a property's 
+history and existing condition. Broadly recognized as 
+an effective part of preservation planning, a historic 
+structure report also addresses management or owner 
+goals for the use or re-use of the property. It provides 
+a thoughtfully considered argument for selecting 
+the most appropriate approach to treatment, prior to 
+the commencement of work, and outlines a scope of 
+recommended work. The report serves as an important 
+guide for all changes made to a historic property during 
+a project-repair, rehabilitation, or restoration-and can 
+also provide information for maintenance procedures . 
+Finally, it records the findings of research and 
+investigation, as well as the processes of physical work, 
+for future researchers. 
+A historical "first." The first historic structure report 
+prepared in the United States, The Moore House: The Site 
+of the Surrender- Yorktown, was written by Charles E. 
+Peterson of the National Park Service in the early 1930s 
+(Fig. 1). In the decades since the Moore House report 
+was completed, preservation specialists commissioned 
+by owners and managers of historic properties have 
+prepared thousands of reports of this type. Similar 
+studies have also been used for many years as planning 
+tools in France, Canada, Australia, and other countries, 
+as well as in the United States. Although historic 
+structure reports may differ in format depending upon 
+the client, the producer of the report, the significance of 
+the structure, treatment requirements, and budgetary 
+and time restrictions, the essential historic preservation 
+goal is the same. 
+Figure 1. In the 
+introduction to the 
+first historic structure 
+report in this country, 
+Charles E. Peterson 
+of the National Park 
+Service wrote in 
+1935 "any architect 
+who undertakes the 
+responsibility of work­
+ing over a fine old 
+building should feel 
+obligated to prepare 
+a detailed report of 
+his findings for the 
+information of those 
+who will come to 
+study the structure in 
+future years." Since 
+then, thousands of his­
+toric structure reports 
+(HSRs) have been 
+prepared to help guide 
+work on historic prop­
+erties. Photo: National 
+Parks and Conserva­
+tion Association. 
+Just as an art conservator would not intervene 
+in the life of an artistic artifact before 
+obtaining a thorough knowledge of its history, 
+significance, and composition, so those engaged 
+in the preservation of buildings .. . should 
+proceed only from a basis of knowledge. Too 
+often in the past, the cultural integrity of 
+countless buildings . .. has been compromised 
+by approaches to restorations grounded on 
+personal whim, willful romanticism, and 
+expedient notions of repair .... The preparation 
+of a historic structure report is the first step in 
+adopting a disciplined approach to the care of a 
+historic building.1 
+In response to the many inquires received on the 
+subject, this Preservation Brief will explain the purpose 
+of historic structure reports, describe their value to the 
+preservation of significant historic properties, outline 
+how reports are commissioned and prepared, and 
+recommend an organizational format. The National Park 
+Service acknowledges the variations that exist in historic 
+1 
+
+structure reports and in how these reports address the 
+specific needs of the properties for which they have 
+been commissioned. Thus, this Brief is written primarily 
+for owners and administrators of historic properties, 
+as well as architects, architectural historians, and other 
+practitioners in the field, who have limited experience 
+with historic structure reports. 
+It also responds to the 
+requests of practitioners and owners to help define the 
+scope of a historic structure report study. 
+Guiding the Treatment of 
+Significant Historic Properties 
+A historic structure report is generally commissioned by 
+a property owner for an individual building and its site 
+that has been designated as historically or architecturally 
+significant, particularly buildings open to the public, 
+such as state capitols, city halls, courthouses, libraries, 
+hotels, theaters, churches, and house museums (Fig. 2). 
+It is certainly possible, but is less common, to prepare a 
+historic structure report for a privately owned residence. 
+Figure 2. Historic structure reports are prepared for many types of structures with various intended uses. Examples include courthouses and state 
+capitols still serving their historic function (upper left, Wisconsin State Capitol, Madison); significant properties that are to be rehabilitated and 
+adaptively reused (center left, New York Merchants' Exhange, from former bank headquarters to hotel); and properties that are to be restored as house 
+museums (lower left, Willa Cather Childhood Home, Red Cloud, Nebraska). The scope of such studies includes the interior as well as exterior of the 
+historic structure (lower right, Stanley Field Hall, Field Museum, Chicago). Photos: upper and lower left, Wiss, Janney, Elstner Associates, Inc.; 
+center left, Jan Hird Pokorny Associates, Inc.; lower right, McGuire Igleski & Associates, Inc. 
+Besides the building itself, a historic structure report 
+may address immediate site or landscape features, as 
+well as items that are attached to the building, such 
+as murals, bas reliefs, decorative metalwork, wood 
+paneling, and attached floor coverings. Non-attached 
+items, including furniture or artwork, may be discussed 
+in the historic structure report, but usually receive in­
+depth coverage in a separate report or inventory. One 
+significant property may include multiple buildings, for 
+example, a house, barn, and outbuildings; thus, a single 
+historic structure report may be prepared for several 
+related buildings and their site. 
+Historic structure reports can be prepared for other 
+historic resource types as well, including bridges, 
+canals, ships, mines, and locomotives, which are 
+categorized as structures by the National Register 
+of Historic Places; sculpture and monuments, which 
+are categorized as objects; and college campuses and 
+industrial complexes, which are categorized as districts 
+(Fig. 3). For battlefields, gardens, designed landscapes, 
+and cemeteries, which are categorized as sites, parallel 
+evaluation and investigation is usually undertaken 
+through a separate document called a cultural landscape 
+report. 
+2 
+
+Figure 3. The University of Vermont has more than thirty contribut­
+ing buildings in four historic districts listed in the National Register 
+of Historic Places. The Campus Master Plan recognizes a commit­
+ment to respect and maintain the historic integrity of these facilities. 
+Historic structure reports are available for many of the University's 
+historic structures. Photo: University of Vermont Historic Preserva­
+tion Program. 
+Figure 4. For small or simple projects, the project team may include 
+only one or two specialists while complex projects may involve a large 
+number of investigators and specialists. For example, evaluation 
+of this barn may primarily involve a historian, an architectural 
+conservator, and a structural engineer. Photo: Wiss, Janney, Elstner 
+Associates, Inc. 
+A team approach. With such an array of subject 
+matter, it is not surprising that preparation of a historic 
+structure report is almost always a multi-disciplinary 
+task. For a small or simple project, the project team 
+may include only one or two specialists. For a complex 
+project, a team may involve historians, architectural 
+historians, archeologists, architects, structural engineers,
+mechanical engineers, electrical engineers, landscape 
+architects, conservators, curators, materials scientists, 
+building code consultants, photographers, and other 
+specialis ts. The disciplines involved in a specific 
+historic structure report reflect the key areas or issues 
+to be addressed for the particular property. The 
+project leader or designated principal author for the 
+report is responsible for coordinating and integrating 
+the information generated by the various disciplines. 
+Designation of a principal author may depend on the 
+goals of the historic structure report and on which 
+disciplines are emphasized in the study. 
+Value of the Historic Structure Report 
+The completed historic structure report is of value in 
+many ways. It provides: 
+■ A primary planning document for decision­
+making about preservation, rehabilitation, 
+restoration, or reconstruction treatments 
+■ Documentation to help establish significant 
+dates or periods of construction 
+■ A guide for budget and schedule planning for 
+work on the historic structure 
+■ A basis for design of recommended work 
+■ A compilation of key information on the history, 
+significance, and existing condition of the 
+historic structure 
+■ A summary of information known and 
+conditions observed at the time of the survey 
+■ A readily accessible reference document for 
+owners, managers, staff, committees, and 
+professionals working on or using the historic 
+structure 
+■ A tool for use in interpretation of the structure 
+based on historical and physical evidence 
+■ A bibliography of archival documentation 
+relevant to the structure 
+■ A resource for further research and investigation 
+■ A record of completed work 
+Benefits for large-scale and long-term projects. In the 
+development of any historic structure report, the scope 
+of work and level of detail are necessarily adjusted to 
+meet the requirements of a particular project, taking into 
+account the property's significance, condition, intended 
+use, and available funding. This does not mean 
+that every significant historic property requires-or 
+receives-a comprehensive investigation and detailed 
+report. Some historic structure reports are of very 
+limited scope . It may be necessary for a project to 
+proceed without a historic structure report, either 
+because of the cost of the report or a perceived need to 
+expedite the work. 
+Most large-scale or long-term work projects would 
+benefit greatly from the preparation of such a 
+report-and not only from the value of the report as 
+an efficient planning tool. (See box above.) If work 
+proceeds without a historic structure report to guide 
+it, it is possible that physical evidence important to 
+understanding the history and construction of the 
+structure may be destroyed or that inappropriate 
+changes may be made. The preparation of a report 
+prior to initiation of work preserves such information 
+for future researchers. Even more importantly, prior 
+3 
+
+prepara tion of a repor t helps ensure that the history, 
+significance, and condition of the property are 
+thoroughly understood and taken in to consideration in 
+the selection of a treatment approach and development 
+of work recommendations. One of the goals of a historic 
+structure report is to reduce the loss of historic fabric or 
+significance and to ensure the preservation of the historic 
+character of the resource. 
+When to P repare the Re port 
+Optimal firs t phase. The historic structure report is an 
+opti mal first phase of his toric preservation efforts for 
+a significant b uilding or structure, preceding design 
+and im plementation of preservation, rehabilitation, 
+restora tion, or recons truction work. Information 
+contained in the repor t documen ts existing conditions 
+and serves as a basis for proposing physical changes. 
+As additional information is learned relevant to the 
+history of the building, and as work on the historic 
+struc ture is implemented, the report can be amended 
+and supplemented. 
+The length of time required to prepare a historic 
+structure report and the budget established for its 
+development will vary, depending on the complexity 
+of the project, the extent and availability of archival 
+documentation, and to what extent work has already 
+been perfor med on the building. 
+If the scope of a 
+historic st ru cture report for a simple building is limited 
+to a brief overview of historic significance, a walk­
+through co ndition assessment, and general treatment, 
+the stu dy and report may be completed within a few 
+mon ths' time by an experienced investigator. On 
+the ot her hand, a his toric structure report for a larger 
+building wi th numerous pas t alterations and substantive 
+problems will require extensive research and on-site 
+study by a multidiscip linary team . This type of report 
+can often take up to two years to complete. 
+4 
+Determining the Scope of Work 
+The following questions should be answered to 
+determine the scope of work required for the study : 
+■ Is the building's history well understood? 
+■ Has the period of significance been established? 
+■ Does the building represent a variety of periods 
+of construction, additions, and modifications, 
+not all of which may be significant? 
+■ What archival documentation is available? 
+■ Does the building have physical problems that 
+require repair? What construction materials 
+and systems are known to exhibit distress or 
+deterioration? 
+■ Does the building have code or functional 
+problems that interfere with its use? 
+■ Is the building in use? Is a new or more 
+intensive use planned? 
+■ Is funding available to commission the report 
+needed to address these requirements? If not, 
+can the scope of the report be reduced to answer 
+critical questions in a limited report? 
+■ Has the time frame for the overall project been 
+established? 
+Incremental pr eparation. If budgetary constraints 
+preclude completing the historic structure report as 
+one project, it can be prepared incrementally (Fig . 5). 
+The work recommendations should not be developed 
+or implemented prior to completion of research and 
+investigation, except for emergency stabilization to 
+prevent immediate failure or damage, or temporary 
+measures to address critical health and safety issues. 
+A partial historic structure report can be completed in 
+preparation for anticipated work that must be initiated 
+to preserve or protect the building. This type of report 
+includes analysis of only those building elemen ts and 
+systems that may be affected by the proposed work, 
+and involves only the specialis ts needed to address the 
+types of investigation and work planned. For example, 
+research and documentation of existing interior finishes 
+may be required before under taking localized s tructural 
+stabilization that will require removal of interior 
+materials . 
+Figure 5. At the Hudson Opera House, a multi-arts center in 
+Hudson, New York, the historic structure report was prepared 
+incrementally. The first phase of the report focused on assessment and 
+recommendations for repair of the roofing, the most critical issue in 
+preservation of the building. Photo: Gary Schiro. 
+In undertaking such work prior to the com pletion of a 
+historic structure report, caution sho uld be taken not to 
+alter or unnecessarily remove changes to the buil ding 
+that had occurred over time . The comple ted report may 
+conclude that such changes to the building may have 
+acquired significance in their own right and therefore 
+merit preservation. 
+Documenti ng p ast w ork. Sometimes a historic structure 
+report is initiated when repair or restoration work 
+on the historic building has already been completed. 
+Although it is always recommended that the study be 
+done prior to new work, in this case, the report needs 
+
+to document-as fully as possible-the condition 
+and appearance of materials, elements, and spaces as 
+they existed prior to the work performed. The extent 
+to which this can be achieved depends on the quality 
+of archival documentation available and physical 
+recording undertaken prior to the completed work. 
+The report should describe the nature and extent of the 
+past repair or restoration work, and, if possible, should 
+also document research performed, reasons for design 
+decisions made, and the construction process for the 
+work already completed on the structures. 
+Commissioning a Report 
+Commissioning a historic structure report requires 
+answering a series of questions to establish the scope of 
+work. (See sidebar.) The goals of the report need to be 
+defined and the report should be designed to support 
+planning for the future of the historic structure. This 
+effort may involve gathering information to answer 
+questions about what is significant about the building 
+and site; what uses are appropriate for the building, or 
+whether existing uses need to be modified; what known 
+conditions require repair and whether those repairs are 
+urgent; and what short-term and long-term goals need 
+to be addressed. Finally the available budget for the 
+historic structure report project should be established 
+before a request for proposals is issued. 
+The procedures for preparing a historic structure report 
+and the outline of report content and organization can 
+serve as the basis to develop a scope of work for the 
+study and also to solicit proposals for a report that 
+reflects the requirements of the specific structure, and, of 
+course, the available budget. Although the request for 
+proposals should always establish such a scope of work, 
+firms may be invited to suggest adjustments to the scope 
+of work based on their past experience. The request 
+for proposals should require a qualifications submittal 
+from each proposer. This submittal should include 
+resumes for the principal investigators and a description 
+of experience in preparing historic structure reports or 
+similar studies, as well as experience with buildings 
+of similar type, age, and construction to the subject of 
+the study. References and samples of work may be 
+requested from the proposer as part of this submittal. 
+An interview with one or more candidates is highly 
+recommended, both so that the proposers can present 
+their project approach and qualifications, and so that 
+the client can ask questions in response to the submitted 
+proposal. 
+How Much Will It Cost? 
+Figure 6. Historical photographs are an invaluable aid and time saver in establishing a building's original construction and evolution; in guiding 
+the replication of missing features; and even in understanding existing material deterioration. The availability of information, such as archival 
+photographs, surviving original architectural drawings, or HABS documentation, has a direct bearing on the cost of preparing a historic structure 
+report. In this circa 1890 photo of the Rancho San Andres Castro Adobe, the "lumbering up" on the south end is a character-defining feature of 
+adobe construction, rarely seen today. Photo: Historic photograph from the Historic Structure Report for Rancho San Andres Adobe by Edna 
+Kimbro, State Historian, California State Parks, Monterey District. 
+The cost of undertaking a historic structure report is 
+determined by numerous factors, some of which may 
+be unique to a particular property. Common to most 
+projects, however, are seven factors that help determine 
+the cost of a report: 
+1. The level of significance of the property will certainly 
+influence the cost. That is, a property that is nationally 
+significant would likely require a greater effort than a 
+property that is only locally significant. 
+5 
+
+2. The treatment and use for which the historic structure 
+report information provides a basis is an important cost 
+consideration. If the decision is reached to maintain a 
+building in its current form, the level of effort required 
+in preparing a historic structure report would be less 
+than where the intended treatment is a comprehensive 
+restoration . 
+A change in building use likewise may 
+increase the level of effort; for example, the additional 
+work involved in addressing different building code 
+provisions. 
+3. The availability of information about the historic 
+resource has a direct bearing on costs. Some historic 
+structures are well researched, and drawings may have 
+been prepared to exacting standards, while others may 
+require considerable original research and investigation 
+to establish the evolution of the structure (Fig. 
+6). 
+On occasion, a property owner's in-house staff or 
+volunteers may undertake further research in advance 
+of a contracted study as a way to reduce the cost of the 
+report. 
+4. The location of and access to a historic building is a 
+cost factor for some studies. A property in a remote 
+mountain location can involve high travel costs relative 
+to properties in or near an urban area . 
+A structure 
+requiring special techniques for exterior physical 
+inspection would involve higher access costs than a 
+small residential structure (Fig. 
+7). 
+Figure 7. Numerous factors influence the cost of preparing a 
+historic structure report including the level of significance, size, 
+and complexity of the property; required treatment and us~; ex~sting 
+condition; and the location and access to the structure. Historic 
+structure reports were prepared for several small lighthouses along 
+the Oregon coast, including the Coquille River Lighthouse, shown 
+here. Photo: Wiss, Janney, Elstner Associates, Inc. 
+6 
+Collecting Information for the Report 
+A typical study involves: 
+■ Preliminary walk through 
+■ Research and review of archival 
+documentation 
+■ Oral histories 
+■ An existing condition survey (including 
+exterior and interior architectural elements , 
+structural systems, mechanical and electrical 
+systems, etc.) 
+■ Measured drawings following the Secretary of 
+the Interior's Standards and Guidelines for 
+Architectural and Engineering Documentation 
+■ Record photography 
+■ Selected materials studies (e.g., mortar 
+analy sis, finishes analysis, etc.) 
+■ Evaluation o f significance 
+■ Discussion with the owner and users about 
+current and future intended uses for the 
+structure 
+■ Selection and rationale for the most approp riate 
+treatment approach (preservation, 
+rehabilitation, restoration , or reconstruction) 
+■ Development of specific work 
+recommendations 
+5. The size and architectural character of a property 
+affect the time required to prepare a historic structure 
+report. A simple four-room vernacular structure would 
+usually involve less effort than a complicated high-style 
+courthouse with many significant spaces. 
+6. The physical condition of the structure and also the 
+extent of physical fabric that is accessible for study will be 
+cost determinants as well. Obviously, a property in 
+good condition is usually less problematic than one in a 
+deteriorated state. For a structure that was continuously 
+occupied and where alterations cover earlier fabric, the 
+opportunity to extract information from physical fabric 
+dating to early periods may be limited without extensive 
+removals that are usually beyond the scope of the 
+historic structure report study. Even where buildings 
+are vacant, there are instances where certain physical 
+investigations may need to be limited because of the 
+destructive impact that will occur to historic fabric. 
+7. The type of final report that is required can 
+significantly affect the cost of the project, but is an area 
+where costs can readily be controlled. Historic structure 
+reports do not necessarily need to be professionally 
+bound and printed. In-house desktop publishing has 
+become commonplace, and a formai work product 
+can often be obtained without excessive costs. Overly 
+sophisticated printing and binding efforts represent 
+a misplaced funding allocation for most historic 
+
+properties. There are distinct advantages to having a 
+report prepared in an appropriate electronic form, thus 
+reducing the number of hard copies and facilitating 
+future updates and additions to the report. For most 
+properties where historic structure reports are prepared, 
+ten or so hard copies should suffice. Providing one 
+copy of the report in a three-ring binder is a helpful and 
+inexpensive way to furnish the owner with a "working" 
+copy of the document. 
+Suggested steps for collecting information prior to 
+configuring the data into the 
+actual report are as follows: 
+Preliminary walk through. A preliminary walk 
+through of the building and its site with the owner or 
+site manager, appropriate building staff representatives, 
+and key members of the historic structure report team is 
+important to review the project scope of work. During 
+the walk through, a brief review of existing conditions 
+can be performed to highlight user concerns and gather 
+information about distress and deterioration observed. 
+Building staff may also be able to provide information 
+on recent repairs, current maintenance procedures, and 
+specific areas of active deterioration. A brief review of 
+existing documentation available on site is also useful. 
+Site personnel may be able to recommend additional 
+archival resources. 
+Historical research. Archival research should be 
+directed toward gathering information on the building's 
+history, original construction and later modifications, 
+occupancies, and uses over time (Fig. 8). Research 
+for the report is not intended to produce a large 
+compen dium of historical and genealogical material, 
+but rather selected information necessary to understand 
+the evolution of the structure, its significance, and 
+justificatio n for the treatment selected. For significant 
+sites where other types of studies such as archeological 
+investigations or a cultural landscape report have been 
+completed or are underway, coordination is required to 
+ensure that research information is shared and that the 
+research effort is not duplicated. 
+Figure 8. Historical research is directed toward gathering information 
+on a structure's history, original construction and later modifications, 
+occupancies, and uses over time. Research may range from national 
+repositories such as the Library of Congress to local collections or 
+private family records. Old newspapers, architectural journals, and 
+even manufacturing trade catalogs can be surprising sources of 
+historical accounts and illustrations. This circa 1902 photograph of 
+New York's Flatiron Building is of the construction in progress; such 
+photographs are useful in understanding building chronology as well 
+as concealed conditions of as-built construction such as building 
+framing. Photo: Library of Congress, LC-D401-14278. The interior 
+photograph of the former Bemir Drug Store in Rochester, New York, 
+showcases a rubber tile floor as illustrated in a 1925 publication by 
+the United States Rubber Company. 
+If a National Register nomination or other inventory has 
+already been completed for the building and its site, the 
+bibliography -of that document may suggest possible 
+sources for further research. In addition, a completed 
+National Register nomination can serve as a starting 
+point for development of the historic structure report 
+sections on history and significance, and can be included 
+in the appendix of the report. 
+Public and university libraries, and state and local 
+historical societies, are likely sources of relevant 
+materials. Municipal records collections often contain 
+deed and building permit information that is useful in 
+developing a chronology of ownership and construction . 
+Architectural, engineering, and construction documents, 
+shop drawings, repair documents, and maintenance 
+records are valuable sources of information. The original 
+7 
+
+drawings and specifications, if extant, may be kept at 
+the archives of the historic building but may also have 
+been retained by the firm that designed the building or 
+successor firms. Building records and other archival 
+documentation may have remained with the structure or 
+site, with previous owners, or with related properties . 
+Historic photographs are invaluable in developing a 
+chronology of building changes and in determining 
+the character and detailing of missing elements (Fig 
+9). Photographs in private collections, not intended 
+as formal documentation, can often be useful. For 
+example, family photographs taken outdoors can 
+document a building that appears in the background. 
+Renderings and paintings can also be useful, but these 
+images must be carefully analyzed and compared with 
+other information to ensure accurate interpretation. 
+Correspondence and oral histories can be important 
+additions to the overall information, but may be 
+unreliable and should be confirmed, when possible, 
+by comparison with photographic documentation and 
+physical evidence . 
+Figure 9. A CADD perspective analysis facilitated study of the location of a long removed interior bulkhead wall. The bulkhead appears in a 
+historic exterior photograph of a man seated in the door entrance to a mid-nineteenth century plantation dependency. Drawing: John Volz & 
+Associates, Inc.; historic photo: National Park Service files. 
+Fire insurance maps, such as Sanborn maps, can provide 
+information on type of construction materials. When 
+maps from different years are available, these can be 
+useful in developing a chronology of additions and other 
+changes to the structure. 
+Existing condition survey. A survey is performed to 
+document 
+physical spaces and elements, and to assess 
+the current condition of building materials and systems. 
+In conjunction with historical research, the condition 
+survey helps determine the historic integrity of a 
+structure. The survey and inspection should address the 
+building's exterior and interior materials, features and 
+finishes; structural systems; interior spaces; mechanical, 
+electrical, and plumbing systems; and fire detection and 
+security 
+systems. Further study may be required such 
+as non-intrusive or intrusive investigation, field testing, 
+sample removal, and laboratory testing and analysis of 
+materials. 
+\ 
+{ I 
+Figure 10. Archeological studies may be valuable in uncovering 
+important evidence of changes to a historic structure. Following 
+historical research and after several archeological soil probes, a 
+decision was made to excavate an area in front of a mid-nineteenth 
+century fireplace, revealing the original dirt floor and hearth 
+undetected by earlier restoration efforts. Photo: Kaaren Staveteig, 
+National Park Service. 
+UNCLE JOE PHOTO SHOWING LOCATION Of BEAM IN PLAN ANO ELE\IATK)N 
+8 
+
+Archeological investigations can provide information 
+on the locations of building foundations and other 
+sub-gra de building elements, and can also assist in 
+developing information on the function of adjacent site 
+areas, building elements, and previously unfinished 
+floor spaces (Fig. 10). The survey may also address 
+the immediate site landscape, if this is not covered in a 
+separate cultural landscape report. 
+Information gathered during the survey can be 
+documented 
+with field notes on baseline drawings 
+consisting of field sketches or measured drawings. In 
+addition, documentation can include photographs 
+(35-mm, large format, digital, perspective-corrected, 
+and scale-rectified photographs ; photogrammetry; and 
+laser techniques), sketches and measured drawings, 
+computer-aided design and drafting (CADD), video 
+records, and written notes and field measurements. 
+Depending upon project requirements, documentation 
+may need to be prepared to archival standards regarding 
+paper, photographs and negatives, electronic records, 
+and backup data. 
+Measured drawings and record photography. The 
+collection of the Historic American Building Survey/ 
+Historic American Engineering Record (HABS / HAER) 
+archive at the Library of Congress should be searched 
+in case the property has been previously documented 
+through drawings and photographs. While many 
+historic properties have been documented since the start 
+of this invaluable collection in the 1930s, it is still more 
+likely that this type of documentation does not exist 
+for a property for which a historic structure report is 
+being undertaken. Preparation of such documentation 
+to portray the current condition of a property can 
+be an invaluable addition to the historic structure 
+report. Besides serving as a documentary record of a 
+structure, the recording documents can serve another 
+purpose such as an easement document, information 
+for catastrophic loss protection, interpretive drawings, 
+or baseline drawings for proposed work. If undertaken 
+as part of the current building study, the measured 
+drawings and record photography should follow the 
+Secretary of the Interior's Standards and Guidelines for 
+Architectural and Engineering Documentation. 
+Materials investigation and testing. Field examination 
+and testing of building material may include non­
+destructive (non-intrusive) or, where necessary, 
+destructive (intrusive) examination and/ or testing of 
+materials, components, and systems (Fig. 11). Examples 
+of non-destructive methods of field examination and 
+testing include field microscopy, the use of a metal 
+detector to locate concealed metal elements, and X-
+ray techniques to assess concealed conditions. Some 
+examples of destructive methods of field examination 
+and testing include structural testing, strain relief 
+testing, and inspection openings (probes). Instruments 
+such as a borescope, through which concealed 
+conditions can be viewed through a small hole, permit 
+enhanced examination while limiting damage to the 
+existing building fabric. 
+Figure 11. The use of special access methods may be n~cessar_y for 
+close-up investigation of building elements. At the Wisconsin State 
+Capitol, project architects and engineers used rappel/mg techniques. 
+Photo: Wiss, Janney, Elstner Associates, Inc. 
+Depending upon existing conditions and the results of 
+the site inspection, field monitoring may be required. 
+Field monitoring can include humidity and temperature 
+monitoring, documentation of structural movement 
+and vibrations, light level monitoring, and other 
+environmental monitoring. 
+In addition, materials samples may be removed for 
+laboratory studies. A wide range of laboratory testing 
+may be appropriate to establish the composition of 
+various construction materials, determine causes of 
+deterioration, and identify and assess appropriate 
+conservation and repair measures (Fig. 12). Materials 
+analysis may also be helpful in dating changes to the 
+9 
+
+structure and in developing a chronology of construction 
+(Fig. 13). For example, mortar analysis may be 
+performed to determine the composition of original and 
+repainting mortars and to provide information for use 
+in designing a mortar mix for repainting. As another 
+example, paint and other coatings may be analyzed to 
+determine finish types and composition, and original 
+and subsequent color schemes, using special analysis 
+techniques and comparison with color standard systems. 
+Samples should generally be returned to the owner 
+and retained in case future testing is required. In some 
+cases, it may be appropriate to reinstall the samples after 
+materials studies have been completed. 
+Figure 12. Field and laboratory studies of construction materials 
+may be performed as part of a historic structure report. Laboraton; 
+studies of samples removed from the building may include a range of 
+chemical and physical testing and evaluation. Here, a petrographer 
+uses a stereomicroscope to examine concrete specimens. Photo: Wiss, 
+Janney, Elstner Associates, Inc. 
+Figure 13. Paint studies may not only help establish the chronology 
+of paints and paint colors used on a building but also may aid in the 
+dating of existing architectural features. Examination of the paint 
+layers on these modillions utilizing a hand-held microscope enabled 
+an investigating team to confirm in the field which modillions were 
+original and which were later replacements. Photo: Charles Fisher, 
+National Park Service. 
+Sample removal and analysis may also be required 
+to identify hazardous materials, which are present in 
+many historic buildings. For example, lead and other 
+heavy metals are components of many older paints and 
+coatings, and asbestos is a constituent of some roofing 
+materials, claddings, sealants, and insulation. Mold and 
+mildew may be present and require special treatment; 
+in this case a consulting industrial hygienist may need 
+to be included in the project team. Analysis may be 
+performed to confirm the materials present, determine 
+the nature of the hazard, and help identify methods of 
+remediation or management. 
+As buildings constructed during recent decades become 
+"historic," newer materials require study and analysis 
+as part of historic structure reports. For example, 
+curtain wall components and joint sealants may require 
+analysis to determine their composition, identify causes 
+10 
+of deterioration, and select appropriate replacement 
+sealants. Composite materials and plastics, present in 
+post-World War II buildings, may also require special 
+effort to determine repair techniques or appropriate 
+materials for replacement. 
+All of the information gathered during the physical 
+investigation, and through field testing and laboratory 
+analysis, should be documented in field notes, sketches, 
+photographs, and test reports. This information 
+is incorporated in the historic structure report and 
+provides a basis for the development of treatment 
+recommendations. 
+Evaluation of significance. The process of evaluation 
+occurs throughout the study of the historic structure 
+as information is gathered, compared, and reviewed. 
+Historical data and physical evidence are reviewed to 
+help evaluate the historical, architectural, engineering, 
+and cultural significance of the property, its construction 
+and use, and occupants or other persons associated with 
+its history and development. This evaluation includes 
+determination of the period(s) of primary significance. 
+An overview of the building's history and an assessment 
+of its significance are included in the report. 
+Depending on the historical significance of the property, 
+and whether a detailed history has already been written, 
+
+a brief or more detailed history may be appropriate. A 
+chronology of construction and changes to the building, 
+developed through historic and physical research, is 
+an effective approach to identifying original building 
+elements, as well as modifications that have occurred 
+over time. If a comprehensive National Register 
+nomination or other inventory has been prepared, the 
+significance may already be defined. In other cases, the 
+significance of a building and even its treatment may 
+have been established through authorizing legislation 
+or through the charter of an organization or foundation 
+that owns the historic property. Where appropriate, 
+however, the building's significance should be re­
+evaluated in light of research performed for the historic 
+structure report. 
+The results of the research, investigation, and field 
+and laboratory testing are reviewed as a basis for 
+developing specific work recommendations. The 
+history and significance of the building and its site are 
+evaluated to understand what spaces, elements, and 
+finishes are of architectural or historical importance, 
+and to confirm the overall project goals and treatment 
+direction. The physical condition of the building 
+and its systems is evaluated with regard to existing 
+deterioration and distress, and needed repairs, as well 
+as changes required to meet treatment goals. Attention 
+is given to identification of life safety issues and code 
+considerations. Conditions are also identified that could 
+lead to future safety risks, loss of historic fabric, or loss 
+of performance. 
+The Secretary of the Interior provides four 
+distinct but interrelated approaches to the 
+treatment of historic properties. 
+Preservation focuses on the maintenance and 
+repair of existing historic materials and retention of 
+a property's form as it has evolved over time. 
+Rehabilitation acknowledges the need to alter 
+or add to a historic property to meet continuing 
+or changing uses while retaining the property's 
+historic character. 
+Restoration is undertaken to depict a property 
+at a particular period of time in its history, while 
+removing evidence of other periods. 
+Reconstruction re-creates vanished or non­
+surviving portions of a property for interpretive 
+purposes. 
+Selection of a treatment approach. Once the building's 
+history, significance, and physical condition have been 
+researched and investigated, an appropriate treatment is 
+usually selected (Fig. 14). Depending upon the intended 
+use of a property, funding prospects, and the findings 
+of the investigation, it may be necessary in some cases to 
+identify and discuss an alternate treatment as well. For 
+example, a building currently occupied by caretakers 
+that is a candidate for restoration and use as a museum 
+may require such ambitious funding support that, for 
+the foreseeable future, a more practical treatment could 
+be to preserve the building and retain the caretakers. In 
+this case, the treatment recommendation would be to 
+restore the property and project work relevant to the 
+restoration would be described. 
+However, the alternate treatment 
+(in this instance an interim one) 
+of preserving the building in 
+its current form would also be 
+described, including discussion of 
+work appropriate to preservation 
+such as repairing the existing roof 
+and installing a monitored fire 
+detection system. 
+Figure 14. The treatment approach selected for a building usually is determined by the intended use of 
+a property, funding prospects, and the findings of an investigation. The Wolf Creek Inn, operated by the 
+Oregon Parks and Recreation Department, is among the most intact and oldest active travelers' inns 
+in Oregon. The historic structure report outlined a rehabilitation treatment which included such work 
+recommendations as repairs to specific historic fabric, landscape restoration and site improvements,. 
+and upgrading of the building's mechanical and electrical systems. Photo: Historic American Building 
+Survey, 1934. 
+In selecting an appropriate 
+treatment, the Secretary of the 
+Interior's Standards for the 
+Treatment of Historic Properties 
+can be particularly helpful. (See 
+sidebar.) In use for more than 
+twenty-five years, the Standards 
+are a widely accepted means of 
+planning for and undertaking 
+project work in a manner that 
+preserves historic materials 
+and elements. The Secretary's 
+Standards have been adopted 
+by many state and local review 
+11 
+
+entities for review of work proposals on historic 
+structures. 
+The Standards and their accompanying Guidelines 
+describe four different options for treatment and 
+list recommended techniques for exterior and 
+interior work consistent with each option. One 
+treatment (preservation, rehabilitation, restoration, 
+or reconstruction) is usually selected and followed 
+throughout the course of a project involving a particular 
+building. Application of a single treatment approach 
+helps to avoid inappropriate combinations of work, 
+such as restoring a building's appearance to an earlier 
+time in history while simultaneously constructing a new 
+addition. 
+Development of work recommendations. The 
+work recommendations are a central feature of the 
+report. They are developed only after the research 
+and investigation has been completed and the overall 
+project goal established as to whether a particular 
+building should be preserved, rehabilitated, restored, 
+or reconstructed. The specific work recommendations 
+need to be consistent with the selected treatment. If 
+analysis performed during the study suggests that the 
+approach or use initially proposed would adversely 
+affect the materials, character, and significance of the 
+historic building, then an alternate approach with 
+a different scope of work or different use may need 
+to be developed. The process of developing work 
+recommendations also needs to take into account 
+applicable laws, regulations, codes, and functional 
+requirements with specific attention to life safety, fire 
+protection, energy conservation, abatement of hazardous 
+materials, and accessibility for persons with disabilities. 
+In addition to project goals, the proposed work is 
+also guided by the building's condition. The scope of 
+recommended work may range from minor repairs 
+to structural stabilization to extensive restoration. In 
+addition, the scope of work may be very narrow (e.g., 
+priming and painting of woodwork and repair of 
+deteriorated roof flashings), or very extensive (e.g., 
+stabilization of timber framing or major repair and 
+repointing of exterior masonry walls). The result of 
+implementing (or not implementing) the recommended 
+work needs to be considered as the recommendations 
+are developed. 
+Of course, the available project budget is also a factor 
+in determining the extent of recommended work and 
+whether it must be accomplished in several phases or 
+projects. Whether or not available budget is the primary 
+factor in determining the extent of work that can be 
+performed, it is often useful to prioritize recommended 
+work items. The recommended tasks can be examined 
+in terms of relative importance and the time required 
+for implementation. Prioritizing repairs can be critical 
+where immediate or short-term work is needed to 
+stabilize a building or structure, eliminate safety 
+hazards, make the building weather tight, and protect it 
+against further deterioration (Fig. 15). 
+Figure 15. The historic structure report for the Hotel Florence, shown 
+here in 1886 (upper), 1963 (center), and 2004 (lower) views, provided 
+a basis for stabilization and repair work which has been completed. 
+Initial phases of work addressed preservation of the building 
+envelope, structural repairs, and limited mechanical and electrical 
+improvements. The report also provided recommendations for future 
+rehabilitation work that will be implemented in phases as funding 
+becomes available. Photos: upper and center, Historic American 
+Building Survey; lower, Wiss, Janney, Elstner Associates, Inc. 
+12 
+Appropriate procedures for undertaking the 
+recommended work items are described in the historic 
+structure report and are intended to serve as a basis for 
+planning the repair, rehabilitation, or restoration design. 
+The level of detail to which the work items are defined 
+should be limited in the historic structure report, as these 
+
+recommendations serve as the foundation for, rather 
+than in place of, design and construction documents 
+for the work. For example, baseline drawings 
+annotated with existing condition notes can later serve 
+as a starting place for development of construction 
+drawings. Outline procedures provided in the report for 
+recommended work items can be used later to develop 
+specifications for the work. Finally, a general opinion of 
+probable costs associated with the recommended work 
+is often prepared. A cost estimate is useful to building 
+owners and managers in budget planning and also 
+assists in prioritizing the work. For large or complex 
+projects, the services of a professional cost estimator may 
+be helpful in this effort. 
+Report Preparation. Upon completion of the 
+research, physical investigation, evaluation, and work 
+recommendations, the historic structure report is 
+compiled. The principal investigator may submit an 
+outline of the report for owner review at the beginning 
+of the report preparation. A draft report may also 
+be submitted for review when the report is partially 
+complete, especially if there are many new research 
+findings, significant physical distress conditions to 
+be addressed, or complicated choices to be made in 
+determining the treatment. 
+The report should be prepared in a style and format 
+that is readily accessible and user-friendly; however, it 
+is not essential that a standardized method or format be 
+followed for all historic structure reports. The report can 
+be primarily narrative or graphic, but is most typically 
+a combination of these formats. Ease and economy of 
+report preparation should be considered but should 
+not take precedence over clarity and thoroughness of 
+documentation. 
+Meetings and presentations. In addition to meetings 
+with site personnel early in the study process, it is 
+helpful for the project team to meet at key points during 
+the research, investigation, and development of the 
+historic structure report. For example, it is useful for 
+the project team members performing archival research 
+to meet with site personnel to review documents 
+and findings, and to help ensure that important 
+archival sources have not been overlooked. Project 
+team members may also walk through the building 
+with site personnel during the investigation phase to 
+review and discuss existing conditions and possible 
+recommendation approaches. When the report is in 
+draft form, a meeting of the project team with those 
+personnel who will be reviewing and using the report 
+is useful to discuss overall goals, treatments, and 
+recommendations as these are being developed. Finally, 
+when the study is complete, a presentation of the 
+completed study by the project team helps to familiarize 
+the owner and building personnel with the report, 
+highlight key issues, answer questions, and provide a 
+transition to the use of the report as a working document 
+by the building's caretakers. 
+Report Organization 
+The scope of the study-historical research, condition 
+survey, investigation and testing, evaluation, selection 
+of appropriate treatment, and development of specific 
+work recommendations-generates a wealth of 
+information about the history and condition of the 
+building and the specific work needed to preserve, 
+rehabilitate, restore, or reconstruct it. This information is 
+typically a combination of historical and technical data 
+obtained by different members of the project team and 
+presented as an integrated report in text, photographs, 
+drawings, and tables (Fig.16). The project leader or 
+principal author must guide the development of the 
+report so that key issues are addressed, information is 
+Figure 16. The historic structure report for the Noland House in 
+Independence, Missouri, a vernacular house that is significant 
+as part of the context of Harry S Truman's life and family in 
+Independence, Missouri, includes photographs and measured 
+drawings to record existing features and conditions of the building. 
+The measured drawings will also provide a basis for construction 
+documents for future preservation work. This photograph and 
+drawing illustrate the front elevation of the house. Photo and 
+drawing: Bahr Vermeer Haecker Architects. 
+13 
+
+documented and assimilated in the report findings and 
+discussion, recommendations are clearly presented , 
+and no information is lost or misinterpreted in the 
+compilation process. 
+In order to integrate the many pieces of information 
+into a 
+coherent and comprehensive whole, the historic 
+structure report is generally organized into two 
+principal sections preceded by a brief introduction that 
+summarizes overall findings and recommendations and 
+provides project administrative data . The main sections 
+of the report consist of (1) a narrative that documents 
+the evolution of the building, its physical description, 
+existing condition, and an evaluation of significance; 
+and (2) a discussion of historic preservation objectives, 
+together with recommendations for an overall treatment 
+approach and for specific work. The report is usually 
+supplemented with footnotes or endnotes, bibliography , 
+and appendices of historical documentation and 
+technical data. 
+It is highly recommended that a post project record of 
+all work performed later be added as a supplement to 
+the historic structure report. This record may consist 
+of annotated drawings, photographs, and other 
+documentation of the work performed. Site personnel 
+may help coordinate this supplement or record if the 
+principal author of the report is not involved in the 
+later construction phase . Some organizations and 
+government agencies consider the post project record to 
+be a third part of a historic structure report and not just a 
+supplement. 
+When physical evidence is discovered during the cour se 
+of the construction work or when new documentary 
+evidence is discovered as research continues after 
+completion of the report, this also should be recorded 
+and incorporated into the historic structure report or 
+in an appendix to the report . An important goal of the 
+historic structure report process is to maintain the report 
+as an active and working document, both to facilitate the 
+use of information compiled in the report and to permit 
+the report to accommodate new information readily as it 
+becomes available. 
+Report Production and Availability 
+The historic structure report is most often prepared 
+in the form of a printed, illustrated manuscript. In 
+recent years, attention has been given to creating or 
+transforming the historic structure report into an 
+electronic document as well. In electronic format, the 
+report can easily be shared with interested parties and is 
+readily updated. 
+However, because historic structure reports are still 
+mostly produced in printed format (although sometimes 
+concurrently with an electronic document), it is important 
+that, after production, one or more copies be provided to the 
+property owner and also made available to the project team. 
+As the basis for design and construction documents, the 
+historic structure report needs to be readily available and 
+extensively used during implementation of the work. 
+At least one site copy should be maintained in a physical 
+format that can be readily updated, such as a three-ring 
+notebook to which additional documentation can easily 
+be added. Field documentation materials, including 
+photographs and negatives, measured field drawings, 
+condition reports and surveys, materials test reports, 
+and other information gathered during the study can 
+be stored in an archive by the building owner for future 
+reference. 
+14 
+An archival copy should also be provided to the 
+owner, and a minimum of one archival copy kept at 
+the project site and at an appropriate local or regional 
+archive , such as a state historical library. Copies of 
+the historic structure report may also be provided to a 
+local historical organization or university and the state 
+historic preservation agency or historical society. In 
+addition, a copy may be given to the National Trust 
+for Historic Preservation Library at the University of 
+Maryland at College Park, which has established a 
+reference collection of historic structure reports. 
+Summary 
+Variou s agencies and organizations have employed 
+historic structure reports as planning tools for many 
+years, for example, the National Park Service, General 
+Services Administration, New York State Office of Parks, 
+Recreation and Historic Preservation, and the Society 
+for the Preservation of New England Antiquities. These 
+and other agencies and organizations may have specific 
+requirements and procedures for reports prepared for 
+properties under their stewardship that differ from 
+those described in this Preservation Brief. All historic 
+structure reports, however, share a common goal-the 
+careful documentation and appropriate treatment of 
+significant historic structures . 
+The historic structure report is an optimal first phase 
+of historic preservation efforts for a significant 
+building, preceding design and implementation 
+of its preservation, rehabilitation, restoration, or 
+reconstruction . 
+If work proceeds without a historic 
+structure report as a guide, physical evidence important 
+to understanding the history and construction of the 
+building may be destroyed. The preparation of a report 
+prior to initiation of work provides documentation 
+for future researchers . Even more importantly, prior 
+preparation of a report helps ensure that the history, 
+significance, and condition of the property are 
+thoroughly understood and taken into consideration 
+in the selection of an appropriate treatment and in 
+the development of work recommendations. A well 
+prepared historic structure report is an invaluable 
+preservation guide. 
+
+Content and Organization of Report 
+Cover Page 
+Table of Contents 
+Introduction 
+Study Summary 
+Project Data 
+Part 1 - Developmental History 
+Historical Background and Context 
+Chronology of Development and Use 
+Physical Description 
+Evaluation of Significance 
+Condition Assessment 
+Part 2 - Treatment and Work Recommendations 
+Historic Preservation Objectives 
+Requirements for Work 
+Work Recommendations and Alternatives 
+Bibliography 
+Appendices 
+Supplemental Record of Work Performed 
+(section often added later) 
+Completion Report 
+Technical Data (on work completed) 
+Introduction. This section includes a concise account of 
+research and investigation findings and recommendations for 
+treatment and use, and a record of project administrative data. 
+■ Study Sum man; - a brief statement of the purpose, findings, 
+and recommendations of the study, including major 
+research findings, key issues addressed by the study, and a 
+summary of recommendations for treatment and use . 
+■ Project Data - a summary of project administrative 
+data (e.g., location, ownership, and landmark status of 
+property) and the methodology and project participants . 
+Part 1 Developmental History. This section consists of a 
+narrative report based on historical research and physical 
+examination documenting the evolution of the building, 
+its current condition and causes of deterioration, and its 
+significance. 
+■ Historical Background and Context - a brief history of the 
+building and its context, its designers and builders, and 
+persons associated with its history and development. 
+■ Chronology of Development and Use - a description 
+of original construction, modifications, and uses, based on 
+historical documentation and physical evidence. 
+■ Physical Description - a description of elements, materials, 
+and spaces of the building, including significant and non­
+significant features of the building . 
+■ Evaluation of Significance - a discussion of significant 
+features, original and non-original materials and elements, 
+and identification of the period(s) of significance (if 
+appropriate). 
+■ Condition Assessment - a description of the condition of
+building materials, elements, and systems and causes 
+of deterioration, and discussion of materials testing and 
+analysis (if performed as part of this study). 
+Part 2 Treatment and Work Recommendations. This section 
+presents the historic preservation objective and selected 
+treatment (preservation, rehabilitation, restoration, or 
+reconstruction), requirements for work, and recommended 
+work that corresponds with the defined treatment goal. 
+■ Historic Preservation Objectives - a description and rationale 
+for the recommended treatment and how it meets the 
+project goals for use of the building, e.g., rehabilitation for 
+a new use, restoration for interpretive purposes, etc. 
+■ Requirements for Work - an outline of the laws, regulations, 
+and functional requirements that are applicable to the 
+recommended work areas (e.g., life safety, fire protection, 
+energy conservation, hazardous materials abatement, and 
+handicapped accessibility). 
+■ Work Recommendations and Alternatives - a presentation 
+of tasks recommended to realize the proposed treatment 
+approach; evaluation of proposed solutions; and 
+description of specific recommendations for work, 
+including alternate solutions, if appropriate. 
+Notes, Bibliography and Appendices 
+■ Footnotes or endnotes 
+■ Bibliography, annotated if possible 
+■ List of sources of information (e.g., archives, photograph 
+collections) 
+■ Appendices (e.g., figures, tables, drawings, historic and 
+current photographs, reference documents, materials 
+analysis reports, etc.) 
+■ Index (if the report is particularly long or complex) 
+Supplemental Record of Work Performed. This section 
+documents work performed, which may include planning 
+studies, technical studies such as laboratory testing or 
+structural analysis, or other investigation work that was not 
+part of the scope of the original historic structure report, 
+and records physical work on the building (construction 
+documents, annotated drawings, photographs). The section 
+is usually added later to update the report, as most historic 
+structure reports are issued prior to implementation of the 
+recommended treatment approach and specific work. It is 
+sometimes referred to as Part 3 of the report. 
+■ Completion Report - a record of the work accomplished, 
+physical evidence discovered during construction, and 
+how findings affect interpretation of the building. 
+■ Technical Data - a collection of field reports, material 
+data sheets, field notes, correspondence, and construction 
+documents. 
+15 
+
+Bibliography 
+Burns, John, editor, with the staff of HABS/HAER, National 
+Park Service, U.S. Deparbnent of the Interior. Recording 
+Historic Structures. Washington, D .C.: The American 
+Institute of Architects Press, 1989. 
+Jandl, H . Ward. Preservation Brief 18. "Rehabilitating 
+Interiors in Historic Buildings: Identifying and Preserving 
+Character-Defining Elements." Washington, D.C.: National 
+Park Service, 1988. 
+McDonald, Jr., Travis C. Preservation Brief 35. 
+"Understanding Old Buildings: The Process of Architectural 
+Investigation." Washington, D.C.: National Park Service, 
+1994. 
+Nelson, Lee H., FAIA. Preservation Brief 17. "Architectural 
+Character: Identifying the Visual Aspects of Historic 
+Buildings as an Aid to Preserving Their Character ." 
+Washington, D.C.: National Park Service , 1988. 
+The Secretary of the Interior's Standards for Rehabilitation & 
+Illustrated Guidelines for Rehabilitating Historic Buildings. 
+Washington, D .C.: U.S. Deparbnent of the Interior, National 
+Park Service, Preservation Assistance Division, 1992. 
+1 From the introduction to the University of Virginia, Pavilion 1, 
+Historic Structure Report, Mesick Cohen Waite Hall Architects , 
+1988. 
+Secretary of the Interior's Standards and Guidelines for 
+Architectural and Engineering Documentation. Washington, 
+D.C.: U.S. Department of the Interior, National Park Service, 
+Historic American Buildings Survey/ Historic American 
+Engineering Record, 1983. 
+Slaton, Deborah, and Alan W. O'Bright, guest editors . 
+Association for Preservation Technology International (APT) 
+Bulletin XXVII, no. 1 (1997). Special issue on historic 
+structure reports. 
+Weeks, Kay D., and Anne E. Grimmer. The Secretary of the 
+Interior's Standards for the Treatment of Historic Properties 
+with Guidelines for Preserving, Rehabilitating, Restoring 
+& Reconstructing Historic Buildings. Washington, D.C.: 
+U.S. Department of the Interior, National Park Service, 
+Cultural Resource Stewardship and Partnerships, Heritage 
+Preservation Services, 1995. 
+Acknowledgements 
+Deborah Slaton is an Architectural Conservator with Wiss, Janney , Elstner Associates, Inc., in Northbrook, Illinois. 
+The author gratefully acknowledges the following individuals for their assistance in the preparation and review of this brief: 
+Alan W. O'Bright, National Park Service; John Volz, Volz & Associates; Philip D. Hamp, Vinci-Hamp Architects, Inc.; William 
+G. Foulks; and Travis C. MacDonald, Jr., Thomas Jefferson's Poplar Forest. Additional thanks go to Jeffrey P. Koerber, Clark 
+University, and Harry J. Hunderman, Joshua D. Freedland, and Kenneth M . Itle, Wiss, Janney, Elstner Associates, Inc. The 
+following staff of the Technical Preservation Services, National Park Service, offered valuable comments during its development: 
+Sharon Park, FAIA, Anne Grimmer, Michael Auer, and Chad Randl. Charles E. Fisher and Kay D. Weeks of the National Park 
+Service's Heritage Preservation Services were the technical editors for this publication project. 
+This publication has been prepared pursuant to the National Historic Preservation Act, as amended, which directs the Secretary 
+of the Interior to develop and make available information concerning historic properties. Comments about this publication 
+should be directed to: Charles Fisher, Technical Publications Program Manager, Technical Preservation Services, National Park 
+Service, 1849 C Street, NW, 2255, Washington, DC 20240. <www .cr.nps.gov/ hps / tps> This publication is not copyrighted and can 
+be reproduced without penalty. Normal procedures for credit to the authors and the National Park Service are appreciated. The 
+photographs used in this publication may not be used to illustrate other publications without permission of the owners. 
+ISSN: 0885-7016 
+U.S. Government Printing Office 2004 024-005-01191-9 April 2005 
+16 

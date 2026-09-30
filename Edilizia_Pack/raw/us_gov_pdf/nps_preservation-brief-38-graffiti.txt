@@ -1,0 +1,1025 @@
+U.S. Department of the Interior 
+National Park Service 
+Cultural Resources 
+Preservation Assistance 
+38 
+PRESERVATION 
+BRIEFS 
+Removing Graffiti from Historic Masonry 
+Martin E. Weaver 
+In Cooperation with the 
+New York Landmarks Conservancy 
+Figure 1. Many stones resemble others, and even concrete can sometimes be 
+mistaken for stone. The stone trim on the Old Merchant's (Seabun) 
+TredwelI) House (1832), in Greenwich Village, New York City, is 
+documented as Vermont marble. After establishing the stone type, cleaning 
+methods should be tested in a discrete location in order to determine the most 
+effective means of removing the graffiti without damaging the stone. More 
+than one kind of removal technique may be required when both stone and 
+brick require cleaning. Photo: Mark A. Weber 
+Removing graffiti as soon as it appears is the key to its 
+elimination-and recurrence . Thus, the intent of this 
+Preservation Brief is to help owners and managers of historic 
+masonry structures find the best way to remove exterior, 
+surface-applied graffiti* quickly, effectively, and safely. The 
+Brief will discuss the variety of materials used to apply 
+graffiti, and offer guidance on how to remove graffiti from 
+all types of historic masonry without harming either the 
+surface or the substrate . Suggestions will also be given 
+regarding the use of physical barriers to protect masonry 
+surfaces from graffiti, and the application of barrier coatings 
+to facilitate graffiti removal. Building managers and owners 
+of historic properties will be advised on the importance of 
+being prepared for rapid graffiti removal by testing different 
+cleaning techniques in advance in order to select the most 
+appropriate and sensitive cleaning technique. Health and 
+safety and environmental concerns are addressed, as well as 
+regulatory matters . Removing graffiti without causing 
+damage to historic masonry is a job for trained maintenance 
+crews, and in some cases, professional conservators, and 
+generally should not be attempted by untrained workers, 
+property owners or building managers. Although the focus 
+of this Preservation Brief is on historic masonry, the same 
+guidance may be applied equally to removing graffiti from 
+non-historic masonry. 
+Identifying the Graffiti and the Masonry 
+Successful graffiti removal from historic masonry depends 
+on achieving a balance between breaking the bond between 
+the graffiti and the masonry surface without damaging the 
+masonry. This generally requires knowledge both of the 
+materials used to make the graffiti and the masonry on 
+which the graffiti has been executed, as well as knowledge 
+of cleaning methods and materials (Fig. 1). Without this, 
+masonry surfaces can be badly disfigured or damaged 
+during graffiti removal. 
+Graffiti. Most graffiti is made with spray paints. Although 
+a number of solvents and paint strippers are capable of 
+dissolving or breaking down these paints, some may 
+permanently discolor or stain the masonry surface if not 
+used correctly . As a result, the remaining paint may become 
+
+.... '1 I-h.J;~ I<;.;,'r 
+I '" IL ". E:rl r 
+2 
+more difficult, or even impossible, to remove. Poorly 
+thought-out and generally hasty attempts to remove graffiti 
+using harsh chemicals or abrasives can also cause 
+permanent damage to the masonry that may be worse than 
+the graffiti (Fig. 2). 
+The ability to identify the graffiti material is an important 
+step in successful removal. Numerous kinds of spray paint 
+(polyurethanes, lacquers, and enamels), and brush-applied 
+paints (oils and synthetic resins such as vinyls, acrylics , 
+acetates, methacrylates, or alkyds), as well as permanent 
+felt markers are the materials most often used to make 
+graffiti. But other materials are also used for graffiti, 
+including water-soluble felt markers, ballpoint pens, chalk , 
+graphite and colored pencils, pastels, wax and oil crayons , 
+liquid shoe polish, and lipstick (Fig. 3). The range of 
+materials adopted by graffitists continues to expand. 
+Figure 2. Harsh, but ineffective, graffiti removal methods have resulted in 
+permanent damage to granite walls at the General Grant National 
+Memorial in New York City. Photo: Judith M. Jacob 
+Paints are composed of pigments that provide color and 
+hiding power; binder that holds the pigments together and 
+to the substrate; and a solvent that allows the 
+pigment / binder mixture to flow. Some spray paints and 
+markers may contain dyes instead of pigments . Paints are 
+applied wet. Generally, as the solvent evaporates, the 
+binder solidifies . The greater the solvent content of the 
+paint, the greater the flow rate , and thus, the greater the 
+ability of the paint to penetrate into masonry pores 
+The two primary components contained in most graffiti 
+materials-pigment or dye, and binder-may simply 
+remain on the masonry surface , or penetrate into the 
+masonry to varying depths depending on a number of 
+factors , including the surface tension of the substrate and 
+viscosity of the solvent or vehicle. Thus, even the total 
+removal of the pigment or the binder may leave residues of 
+the other component actually in, or below, the surface of the 
+stone . Residual stains, or graffiti "ghosts ," such as those 
+from any kind of red paint or the fine black pigments used 
+in spray paints, may be particularly difficult to remove (Fig. 
+4). With painted graffiti, it is helpful to establish how long 
+it has been on the surface . For most paints that have been 
+on the surface for several weeks or months, hardening 
+processes are likely to be complete or well-advanced; the 
+solubility of the paint is proportionately reduced and it will 
+be more difficult to remove. 
+Figure 3 (a-d). A wide 
+variety of materials is 
+used to make sllrface­
+applied graffiti on 
+masonry, including 
+(a) chalk, (b) felt-tip 
+marker, (c) felt-tip 
+marker combined with 
+crayon, alld (d) felt-tip 
+marker and spray 
+paint all concrete. 
+Photos: (a) Anne 
+Grimmer, (b) Frallces 
+Gale, (c) Martin 
+Weaver, (d) Anile 
+Grimmer. 
+
+Figure 4 (a-b). After cleaning with an alkaline paint remover, remnants 
+or ghosts of black spray-painted graffiti are still visible and may require 
+poulticing, while the blue paint has been almost completely removed. 
+Photos: Mark A. Weber. 
+Masonry. The historic masonry substrate must also be 
+identified . As used here, the term masonry encompasses all 
+types of natural stones; manufactured clay materials , 
+including brick and terra cotta; and cementitious materials , 
+such as cast stone, concrete and mortar . The common factor 
+among masonry materials is that they are porous, to a 
+greater or lesser extent, and sensitive to abrasion . After 
+identifying the masonry, its condition, including fragility, 
+porosity and permeability, must also be assessed prior to 
+beginning graffiti removal. For example , a smooth , newly­
+polished granite surface is comparatively easy to clean 
+because it is relatively impermeable and paint vehicles tend 
+to stay on the surface rather than penetrate into microscopic 
+pores . A very smooth, polished surface also has no pits or 
+crevices that will retain particles of pigment or binder . In 
+contrast, weathered marble or limestone may be extremely 
+porous and permeable, with a rough surface on which 
+particles of pigment can easily lodge . The fragility of such a 
+surface can make it impossible to clean the surface even 
+with a bristle brush without risking severe surface loss. A 
+difference in surface texture or finish may also be the reason 
+that a particular cleaning agent will work in one situation 
+but not another. 
+Some types of masonry may react adversely to contact with 
+the various cleaning agents required to break or dissolve 
+the bond between the graffiti and the masonry surface . 
+Thus, for purposes of cleaning, masonry types are often 
+categorized according to whether they are acid-sensitive, 
+non-acid sensitive, or alkali-sensitive. Acid-sensitive stones 
+consisting of carbonate materials may be damaged or even 
+destroyed by contact with acids. Although, in many 
+instances, acidic cleaning compounds are not effective for 
+graffiti removal and generally should not be used for this 
+purpose, it is useful to know that some acid-sensitive 
+materials include: stones such as limestone, marble, 
+travertine, calcareous sandstones and shales; most polished 
+stones; and glazed architectural terra cotta and glazed brick. 
+Non-acid sensitive masonry materials include slate, granite, 
+unglazed architectural terra cotta and unglazed brick. 
+Alkali-sensitive stones may contain silicates, or ferrous, 
+soluble iron compounds that can react with alkalis or water 
+to form severe staining. Alkali-sensitive stones include some 
+granites, Indiana limestone, and many types of sandstone, 
+especially those that are green or grey in color. Glazed and 
+polished surfaces tend to be damaged by both strong acids 
+and strong alkalis. 
+Graffiti Removal Methods and Materials 
+A variety of treatments are available from which to choose 
+the most appropriate method of graffiti removal that will 
+not damage the surface of historic masonry. Removal 
+techniques, which are chosen according to the type of 
+graffiti and the masonry , range from simply erasing 
+pencilled graffiti with soft erasers, or removing chalked 
+graffiti with soft brushes, to poulticing with water (with or 
+without detergents), poulticing with organic solvents or 
+alkali-based paint removers, or applying bleach to remove 
+painted graffiti. In very limited situations, it may mean 
+using very delicate and controlled abrasive means. 
+Successful graffiti removal often requires a combination of 
+cleaning materials and methods. 
+Poulticing 
+The most effective method of removing graffiti from 
+masonry usually involves the use of a poultice. A poultice 
+consists of an absorbent material or powder-inert clays such 
+as kaolin or sepiolite, diatomaceous earth (fuller's earth); or 
+cellulose products such as fluff puIp celluIose or shredded 
+paper-mixed with a cleaning solution (a liquid reagent such 
+as water, organic solvent, paint stripper or bleach) to form a 
+paste or slurry. The purpose of a poultice is twofold: it 
+enables a cleaning solution to be kept in contact with the 
+stained area as long as possible, while allowing the cleaning 
+solution to pull the staining material out of the substrate via 
+the poultice without redepositing it in, or restaining, the 
+masonry . A poultice is often covered with a plastic sheet to 
+retard evaporation (Fig. 5). With some extremely porous 
+types of stone, such as marble, although a poultice may 
+remove a stain from one side of the stone, stains can pass 
+completely through the stone and be redeposited on the 
+other side of the masonry slab. Thus, caution should always 
+be exercised in stain and graffiti removal. 
+Water and Detergent. Graffiti removal from historic 
+masonry should always begin with the gentlest means 
+possible . In some instances, this means low-pressure water 
+washing. Fresh graffiti- one or two days old-made with 
+water-soluble markers may sometimes be removed with 
+water, possibly aided by a neutral or non-ionic detergent. 
+3 
+
+4 
+Figure 5. (a) Here, a commercially-manufactured poultice is being 
+applied to the graffiti ghost that remains on this limestone building after 
+an initial treatment with paint remover; (b) a plastic sheet has been taped 
+over the poultice to slow dowll the rate of evaporatioll of the solvents 
+contained in the poultice. Photos: Ken Lustbadel'. 
+(Non-ionic detergents which do not ionize in solution, do 
+not deposit a solid, visible residue .) Ammonia can also be 
+effective in removing fresh graffiti. Any detergent should 
+be approached with caution and tested before using 
+because most commercial laundry detergents are not 
+neutral and contain substances which may leave 
+undesirable residues on masonry materials . Usually, the 
+water and detergent should be mixed with an absorbent 
+material and applied in the form of a poultice. Although 
+water washing is often likely to be the gentlest cleaning 
+method for historic masonry, it may not be as effective for 
+removing graffiti because many graffiti materials are not 
+soluble in water. 
+Organic Solvents and Paint Removers. Most graffiti can be 
+removed without damaging the masonry with proprietary 
+graffiti-removal products and commercial paint strippers 
+containing organic solvents. But, these products should 
+always be tested and used in accordance with 
+manufacturer's instructions included in the product 
+literature. Normally, solvents should be used in a poultice 
+form to prevent them from penetrating into the substrate, 
+and permanently discoloring or staining the masonry . A 
+number of paint-removers are manufactured as thick gels 
+or pastes that cling to the surface, and some commercial 
+paint-removal products include a tough fiber-reinforced 
+paper or cloth backing that retards evaporation and also 
+facilitates neat and clean removal of the used stripper. The 
+advantage of using organic solvents is that they evaporate 
+completely, leaving no residual material in the masonry. 
+However, organic solvents may present a severe health 
+hazard, and workers using them must wear adequate 
+protection. "Off-the-shelf" aerosol graffiti removers 
+generally should not be used because the dissolved paint 
+being removed may run down the wall "staining" a 
+previously clean area; or pigments may also be 
+redistributed by the rinsing and scrubbing recommended 
+by the product manufacturer (Fig. 6). 
+Alkaline Compounds. Alkaline compounds may be used 
+to remove some oils and greases, and waxes from non-aLkali 
+sensitive masonry. Like organic solvents, alkaline 
+compo unds should generally be used in conjunction with a 
+poultice when removing graffiti. The use of alkaline 
+compounds should always be followed by a weak acid 
+Figure 6. Although all aerosol graffiti remover has taken off much of the 
+graffiti, it has left Ilew stains where it dripped down the masonry surface. 
+Photo: Kell Lustbader. 
+
+wash and a water rinse in order to neutraliz~r remove-­
+all the alkaline residues from the masonry. Strong alkalies 
+(pH13-14), such as sodium hydroxide-based paint removers 
+(caustic soda or lye), generally should not be used as they 
+can cause efflorescence and staining on masonry surfaces, if 
+not properly neutralized. Potassium and other hydroxide 
+paint removers may react with iron compounds in some 
+masonry, particularly Indiana limestone, to form dark 
+brown (rust-colored), or black ferric hydroxide stains, 
+which are very difficult to remove. 
+Bleaches. Alkali-based bleaches such as calcium 
+hypochlorite can sometimes be used very successfully in a 
+poultice to bleach or decolorize certain dyes contained in 
+some paints and inks that cannot readily be removed by 
+other means. 
+Mechanical or Abrasive Methods. Mechanical treatments 
+include dry or wet blasting, using abrasive grits, such as 
+sand, dolomite powder, aluminum oxide, ground-walnut 
+shells, sodium bicarbonate (baking soda), and others; high­
+pressure water washing; and mechanical sanding or 
+grin ding . All of these abrasive methods will cause damage 
+to masonry and, in most instances, should never be 
+considered as a method of removing graffiti from historic 
+masonry. Abrasive methods used mistakenly by untrained 
+workers to remove graffiti usually result in etching the 
+outline of the graffiti permanently into the masonry (Fig. 7). 
+Some historic masonry materials can be easily damaged by 
+pressure washing even at low or moderate pressures 000-
+400 psi). Occasionally, however , under very controlled 
+circumstances, a micro-abrasive technique may be 
+appropriate for removing graffiti from delicate masonry 
+surfaces, if used at low pressures of 35-40 psi with fine 
+abrasives. This treatment, which must be done very slowly 
+and carefully to avoid damaging the masonry, should be 
+tested first, and undertaken only by a professional 
+conservator. Another exception, even though it is not 
+strictly an abrasive treatment, is using a razor blade as a 
+first step to remove spray paint or felt-tip marker from 
+polished granite. However, this too, should be undertaken 
+only by a professional conservator, and only on polished 
+granite, which is very hard and generally impervious to 
+scra tches. 
+Laser Cleaning. Although not in general use as a cleaning 
+technique, laser technology offers great promise in the 
+future as a non-damaging method of graffiti removal. 
+Testing 
+Before selecting a removal method , all cleaning materials 
+and techniques for removing graffiti from a historic 
+masonry building should be tested on mock-ups or areas of 
+the resource that are not highly visible, but which are 
+representative of typical conditions . Visual observation 
+sho uld be supplemented by the use of a magnifying glass, 
+and spot tests should be carried out with various solvents to 
+help identify the specific graffiti medium, which will aid in 
+its removal. More complex testing using laboratory 
+equipme nt and more scientific analytical processes may 
+sometimes be necessary in complex situations. Sample 
+areas that represent the desired degree of "cleanliness" 
+sho uld be approved in writing by client, architect, 
+conservator or other appropriate authority . The materials 
+and all the other data necessary to reproduce the desired 
+Figure 7 (a-b). The first time this spray-painted graffiti appeared it was 
+removed abrasively. As a result, the graffiti was permanently etched into 
+the limestone and cal1not be concealed even by the pigmented barrier 
+coating painted over it later. The barrier coating did, however, facilitate 
+110n-abrasive removal of graffiti the next time it was applied. 
+Photos: Anne Grimmer. 
+cleaning results should be meticulously recorded and the 
+accepted sample area preserved for reference until the end 
+of the job. The existence of a "clean" sample for comparison 
+and a signed agreement can avoid unpleasant surprises, 
+misunderstandings, and perhaps legal acti~ns. 
+When a type of graffiti appears for the first time that was 
+executed with a material not immediately recognizable and 
+for which no countermeasures have been developed, tests 
+may need to be carried out by an architectural conservator 
+to identify the material and to determine effective removal 
+treatments. Agencies with large inventories of graffiti­
+prone buildings and structures should watch for graffiti 
+made with new materials and experiment with different 
+cleaning methods in order to be prepared when it appears. 
+Such early action can save large sums of money in the long 
+term. (See "Development of a Treatment Plan .") 
+5 
+
+6 
+Developmen t of a Treatment Plan 
+For managers or owners of historic masonry buildings, 
+or agencies responsible for large inventories of graffiti­
+prone properties, including parks, highway and 
+railroad bridges and viaducts, bus, train and subway 
+stations, and cemeteries, the development of a 
+treatment plan may be the first step toward an effective 
+graffiti-removal program. It is becoming increasingly 
+common for large or important historic properties to 
+have regular maintenance and disaster plans that 
+include graffiti removal. 
+When feasible, a separate treatment plan should be 
+prepared for each structure. However, if this is not 
+possible, it is advisable to prepare a variety of 
+treatment plans for specific masonry types. Plans 
+should be prepared to cover all types of masonry that 
+fall under one jurisdiction, management or ownership 
+that are potential targets for graffiti. 
+Guidance contained in treatment plans should be based 
+on the results of carefully controlled testing to remove a 
+wide variety of common graffiti materials safely, and 
+withou t damaging the various types of masonry. 
+Individual treatment plans should address all parts of 
+the building or structure that could be disfigured by 
+graffiti, and any features too fragile to be cleaned by 
+anyone other than a conservator should be noted on 
+the plan . 
+A treatment plan is essentially a cleaning 
+specification, but it should also include information 
+on the following : 
+• the types and conditions of masonry likely to be 
+targeted by graffiti; 
+• methods, materials and techniques known to work 
+most successfully in the removal of specific types 
+of graffiti from the surface of each type of masonry; 
+• sources for materials; 
+• a list of contractors with expertise in graffiti 
+removal, including names, telephone numbers, 
+information on emergency access to the property, 
+and storage location of materials; 
+• graffiti-removal methods which may be harmful to 
+the masonry surface ; 
+• contractors or consultants who are not acceptable 
+and should not be considered for graffiti removal; 
+• scaffolding, pumps, or safety equipment that might 
+be required, where it is available, and costs 
+involved; and 
+• health and safety concerns regarding specific 
+removal treatments, product literature and 
+Material Safety Data Sheets (MSDS). 
+Health and Safety Considerations 
+Most of the chemicals used for graffiti removal are dangerou s 
+to workers, as well as to others who may be in the vicinity. 
+Organic solvents are toxic by ingestion, inhalation, and skin 
+contact. Material Safety Data Sheets (MSDS), available from 
+the product manufacturer for all paint-removal products, 
+should always be consulted and followed. Identification of 
+hazardous components and checking with chemical reference 
+works will help assure that the least hazardous, but most 
+effective, products are selected. 
+Generally speaking, it is a sensible policy to carry out all 
+graffiti removal in well-ventilated conditions . Some 
+solvents can be used only outdoors, and sometimes forced 
+ventilation may be necessary even there, requiring workers 
+to use air-fed respiratory equipment to avoid wind-blown 
+fumes. Smoking, eating or drinking must not be allowed 
+when cleaning is in progress. 
+Some materials used for graffiti removal are so corrosive 
+that accidental contact can cause serious, permanent 
+scarring and painful injuries. Wearing appropriate 
+protective clothing must be strictly enforced . Mandatory 
+personal protective equipment (PPE) normally includes face 
+shields or safety glasses; long, chemical-resistant gloves; 
+face masks with respirators for organic solvents; and 
+possibly, full protective clothing with an independent 
+air supply. 
+All smoking and open flames should be rigorously 
+excluded from work areas; many solvents are flammable or 
+highly explosive in vapor or liquid form when mixed with 
+air. Solvent residue, used swabs, cloths, overalls and all 
+other solvent-contaminated items should be safely and 
+legally disposed of, or properly stored-even overnight­
+away from potential sources of fire. Electrical equipment 
+may require explosion-proof fittings when used with 
+certain solvents. 
+When electric pumps and pressure-spraying equipment are 
+used, it is especially important that all necessary 
+precautions be taken to avoid electric shock. Water sprays 
+and puddles on the ground present a potentially dangerous 
+situation, if they come into contact with temporary wiring 
+at worksites where graffiti is being removed. Such hazards 
+must be carefully monitored and controlled. 
+As with any construction project, attention should always 
+be directed toward the general safety of the workers and 
+passers-by, but also toward possible damage to the resource 
+itself that might result from careless placement of ladders, 
+or scaffolding. Chemicals used for masonry cleaning can 
+also damage adjacent metals, glass, and painted surfaces, as 
+well as vegetation (Fig. 8). Product manufacturers' 
+instructions should always be closely followed to avoid 
+such inadvertent "collateral" damage . 
+Environmental Considerations 
+To protect against environmental contamination, including 
+the formation of unwanted ozone at ground level and 
+damage to the ozone layer in the earth's outer atmosphere, 
+legislation has been enacted in some states making it illegal 
+to use even moderate quantities of some solvents - voLatiLe 
+organic compounds (VOCs) contained in paint removers . In 
+response to this legislation, many new products are being 
+developed that do not contain VOCs. 
+
+After completing graffiti removal, the disposal of chemical 
+products and rinsing effluent must be taken into account. 
+Arrangement for disposal of the cleaning waste should be 
+made prior to beginning graffiti removal, especially if it is a 
+project of considerable size. In many places it is illegal to 
+discharge solvents and/or paint residues into sewers or 
+storm drains . The owner or manager of a historic property, 
+or in some cases the individual or firm doing the cleaning 
+or graffiti removal, is responsible for being informed of, and 
+complying with, relevant laws and regulations. Under 
+provisions of the National Historic Preservation Act of 1966, 
+as amended, approval may be required from a state or 
+federal preservation agency before any work can be 
+undertaken on buildings or structures listed in or eligible 
+for listing in the National Register of Historic Places, if such 
+a project involves federal funding or licensing. Many state 
+and local historic district commissions and review boards 
+have their own regulations that require approval for 
+cleaning or graffiti removal work that is undertaken on 
+landmarks or properties in locally designated historic 
+districts . 
+Barrier Coatings 
+Anti-graffiti or barrier coatings are intended to facilitate the 
+removal of graffiti from porous as well as non-porous 
+surfaces. These coatings are most commonly transparent, 
+but may also be pigmented. They are available in a variety 
+of formulations designed to serve different needs . The use 
+of barrier coatings to protect graffiti-prone historic masonry 
+surfaces may seem to be an easy preventive solution to a 
+persistent graffiti problem. However, for the most part, 
+these coatings are not the panacea that some advertising 
+might suggest. Some of them simply do not work, and 
+others may cause physical or aesthetic changes or damage 
+to the masonry. 
+Transparent Coatings. Transparent coatings serve as a 
+barrier between the masonry surface and graffiti, 
+preventing graffiti from penetrating into the masonry. 
+They are also intended to make graffiti removal easier since 
+most graffiti does not adhere well to them. Generally, 
+graffiti applied over transparent barrier coatings can be 
+removed with low-pressure water and a detergent, or with 
+a solvent. 
+There are basically two kinds of transparent barrier 
+coatings: temporary and permanent. Temporary, or 
+"sacrificial" coatings are removed when graffiti is removed 
+and then must be reapplied. Permanent transparent barrier 
+coatings are more resistant to the water or solvents used to 
+remove graffiti, and remain on the masonry surface when 
+graffiti is removed (although this type of coating also must 
+usually be reapplied after several cleanings). A third type 
+of transparent barrier coating combines temporary and 
+permanent coatings, based on a two-part system . A water­
+based acrylic sealer is first applied to the masonry surface, 
+after which a sacrificial layer consisting of a polyethylene 
+wax emulsion or dispersion coat is applied over the sealer. 
+When graffiti is removed, the sealer coat remains on the 
+masonry, but the sacrificial coat dissolves and is removed 
+with the graffiti, and thus must be reapplied . (With this 
+two-part system, even the first coat will eventually wear off 
+after multiple cleanings, and must also be reapplied .) 
+Unfortunately, in application, there are a number of 
+negative aspects of transparent barrier coatings that 
+generally prevent their being recommended for use on 
+historic masonry. First, clear coatings may alter the color of 
+the masonry surface and add a gloss that may be highly 
+visible, or apparent only in certain lighting conditions or 
+when it rains. Second, clear coatings may reduce the water­
+vapor permeability of the masonry, thereby contributing to 
+possible water-related deterioration. Third, the coating 
+may discolor and change over time. Exposure to ultra­
+violet light can cause a coating to yellow; dirt build-up may 
+darken the treated surface; and some coatings acquire a 
+sheen when rubbed or brushed against. Such changes are 
+especially noticeable when only a portion of the building 
+has been coated. Furthermore, if coatings are not 
+maintained on a regular basis, usually through periodic 
+removal and reapplication, many coatings tend to fail. 
+What often results is an uneven, "patchy" look to the 
+masonry that can have a very negative impact on the 
+character of the historic building (Fig. 9). 
+Despite these potential drawbacks, there may be some 
+instances in which the graffiti problem or frequency of 
+occurrence is so severe that application of a transparent 
+barrier coating on historic masonry may be worth 
+considering. Some water-based polysaccharide coatings, 
+and silicone and silicone-based coatings have been used 
+with success on masonry structures . They are essentially 
+Criteria to Consider Before Selecting 
+a Barrier Coating as the Primary 
+Protective Means of 
+Combating Graffiti 
+What to look for in a Barrier Coating: 
+• Water-vapor permeable, or "breathable". 
+• "Invisible" without gloss or sheen, when applied to 
+masonry. 
+• No change in appearance from uncoated areas when 
+masonry is wet. 
+• Does not discolor or attract dirt. 
+• Weathers evenly. 
+Questions to Ask: 
+• Will the coating last long enough to offset its cost? 
+• Will the application and reapplication of the coating 
+be cost effective? 
+• Will the coating be effective against more than one 
+type of graffiti? 
+• Can the coating be completely and thoroughly 
+removed, so that, if necessary, paint, or another 
+coating will adhere to the masonry surface? 
+• Will the building ever need to be repointed or 
+patched? A barrier coating may make this difficult 
+or even impossible. 
+Before Application: 
+• Seek advice of an architectural conservator. 
+• Test coating on an inconspicuous area of masonry, or 
+study the success/ failure of the coating in other 
+locations where it has been used. 
+7 
+
+8
+Figure 8. The cast-iron railing and light fixtures on this stone stoop have been wrapped with plastic sheeting to protect them from damage by chemicals being 
+used to remove the graffiti. Photo: Mark A. Weber. 
+Figure 9. These photographs illustrate some of the problems inherent in clear 
+barrier coatings. (a) The transparent coating applied to the lower portion of 
+this granite entranceway has darkened it, thus changing the character of the 
+historic masonry. (b) But it is not nearly so obvious or damaging to the 
+building's historic character as the thick and shiny clear coating applied here 
+which resembles a plastic sheathing over the brick. Scratches are highly 
+visible and a surface haze indicates that the coating has begun to deteriorate. 
+(c) This transparent coating is peeling and has failed completely; 110t only is 
+it an eyesore, but it may also be hard to remove from the brick. Photos: (a-b) 
+Mark A. Weber, (c) Martin E. Weaver. 
+
+invisible, and do not change the natural appearance of the 
+masonry. Although less durable than solvent-borne 
+coa tings, they are water-vapor permeable (breathable), and 
+may be reapplied to the masonry surface immediately after 
+remov ing graffiti, while the surface is still damp . 
+Howeve r, extreme caution must be exercised before 
+applying a transparent barrier coating. Experimental test 
+app lications should always be tried first on discrete areas 
+that are not highly visible, and the treat ed areas evaluated 
+over a period of time . Laboratory test results on the 
+perfo rmance of coatings applied to samples of like masonry 
+types may be useful to some extent. But because the tests 
+are carried out in a controlled environment, they may not 
+be as accurate or reliable as tests actually carried out on-site 
+where the factors of weather and pollution are the same as 
+those at the location where the coating will be used. If 
+circumstances warrant, and the use of a barrier coating is 
+determined necessary , an architectural conservator should 
+eva luate the test performance of a variety of coatings before 
+selecting one to be applied to historic masonry . Because of 
+the potential for disfigurement , owners of landmark­
+designated buildings are required by some preservation 
+review boards and landmark commissions to obtain 
+approval before they apply a barrier coating . 
+Pigmented Coatings. A pigmented barrier coati ng may be 
+used on masonry as a permanent , preventive barrier 
+coating , or as a temporary mean s of concealing graffiti until 
+it can be removed . 
+Like a transparent barrier coating, a pigm ented barrier coating 
+facilitates the removal of graffiti because graffiti does not 
+adhere well to it. Pigmented barrier coatings that are water­
+vapor permeable may sometimes be used as a permanent 
+barrier coating on non-historic masonry where there is 
+frequent recurrence of graffiti, and when constant surveillance 
+is not possible (Fig. 10). Although there are some instances in 
+which pigmented barrier coatings may be appropriate on 
+painted historic masonry, they are not recommended for 
+unpainted historic masonry because they will change the 
+appearance of the masonry. There is also another kind of 
+pigmented coating that is specially formulated to be used as a 
+temporary measure to conceal graffiti that cannot be removed 
+right away. This temporary, vapor-permeable paint is 
+removed when the graffiti is removed. 
+Pigmented coatings are also not generally recommended as 
+a permanent measure to cover up graffiti. Some graffiti 
+materials , particularly felt markers, bleed through the 
+coating; and repeated applications of the coating or paint 
+can result in a heavy paint build-up on a masonry surface. 
+Another disadvantage of using paint or a pigmented 
+coating to hide graffiti is that it usually appears as an 
+obvious patch on unpainted masonry and tends to attract 
+more graffiti unless the paint can be applied in a discrete, 
+and well-defined area (Fig. 11). If incompatible with either 
+the masonry or the graffiti, such a coating may peel off the 
+masonry surface in an unsightly manner. Like transparent 
+coatings, pigmented coatings may be difficult or impossible 
+to remove completely once their performance or 
+appearance is no longer satisfactory (Fig. 12). 
+Preventing and Controlling Graffiti 
+Experience shows that prompt removal of graffiti is one of 
+the most effective measures against its recurrence . Graffiti 
+that is not removed quickly tends to attract more graffiti. 
+Often motivated by a need to have their work seen, 
+graffitists tend to be discouraged from repeating their 
+efforts in a location where their work is quickly removed . 
+Figure 10 (a) It may be appropriate to cOl1sider the applicatiol1 of a barrier 
+coating in order to facilitate removal il1 some out-of-the-way 10catiol1s 
+where ftlll-time security is not possible, sHch as this stairway and bridge 
+underpass next to the C&O Canal. (b) Overpainting graffiti on the stone 
+wall at the left has not been successful; it has resulted il1 highlighting the 
+defaced stones, thereby attracting more graffiti. Photos: Al1ne Grimmer. 
+9 
+
+10 
+Figure 11. (a) The first floor of this 
+Iimestol1e storefrol1t was pail1ted il1 al1 
+effort to cover graffiti. However, because 
+the pail1t is poorly matched to the color 
+of the buildil1g stol1e, it is highly visible 
+al1d 110W acts as a "magl1et" for l1ew 
+graffiti. (b) Similarly, the lowest 
+horizol1tal bal1d 011 this stol1e buildil1g, 
+overpail1ted to cover graffiti, has also 
+attracted more graffiti. Photos: (a) Mark 
+A. Weber, (b) Martil1 E. Weaver 
+Apart from removal, effective graffiti-prevention measures 
+can be considered under two headings. The first consists of 
+physical measures involving maintenance, lighting, 
+security and the erection of barriers on or around the 
+property itself. The second focuses on community 
+awareness programs that include neighborhood patrols, 
+community service programs and educational programs in 
+the schools. 
+Maintenance and Security. Neglect invites vandalism, 
+whereas a well-maintained property encourages civic 
+pride. Thus, careful attention should be given to 
+establishing regular maintenance programs which do not 
+allow properties to reach a point of obvious deterioration 
+or abandonment. Cyclical maintenance also makes good 
+sense economically. 
+Graffiti is less likely to occur if graffitists can be clearly 
+seen. It is often recommended that accessible, graffiti­
+prone areas be illuminated with floodlighting or spotlights. 
+Graffiti may also be reduced or prevented by the presence 
+of security guards, park rangers or police officers, or by the 
+visible presence of surveillance cameras. Publicity about 
+arrests and punitive measures against the graffitists, and 
+the general vigilance of the security system may also reduce 
+graffiti. 
+If they are historically appropriate and compatible with the 
+historic property, soft barriers in the form of low, pOSSibly 
+thorny, shrubs and bushes or other forms of landscaping 
+and planting may be effective deterrents. Such plantings 
+can make it difficult to reach the property by any route 
+other than the approved secure one. Hard barriers 
+provided by fences and transparent screens or shields, such 
+as clear acrylic or other polycarbonate sheets, may also 
+afford some degree of protection. But these can have a 
+negative aesthetic impact on the property's appearance, 
+particularly if the barriers themselves become disfigured 
+by graffiti. 
+Community Awareness. Community action and education 
+often play an important role in a successful anti-graffiti 
+program. Neighborhood watches can effectively deter 
+graffitists, and can help police and other security agencies in 
+
+a 
+the detection and prevention of graffiti. Intensive public 
+campaigns against graffiti, including presentations in schools, 
+developing programs to foster community pride, and 
+sentencing offenders to remove graffiti in their own 
+community can also be useful. Publicity concerning arrests of 
+graffitists can be a useful preventive tool. (But, on the other 
+hand, frequent newspaper coverage of graffiti outbreaks or 
+even of new community efforts at deterring graffiti can 
+sometimes have the opposite effect by challenging the 
+"creativity" of graffitists.) Community groups trained in 
+proper cleaning techniques can also assist property owners in 
+prompt and non-damaging graffiti removal. 
+Figure 12. (a) Graffiti that was overpainted has been exposed here as a result of the coating's failure. The uneven edges where the overpainting has peeled 
+away will make inconspicuous touch-up difficult. (b) The unsightliness of graffiti bleeding through layers of cracked and peeling paint makes an obvious 
+point that using a pigmented coating was not an appropriate maintenance technique for this stone sculpture base. Photos: (a) Martin E. Weaver, (b) Judith 
+M. Jacob. 
+
+12 
+Tips for Successful Graffiti Removal 
+- It is important to pre-wet the masonry 
+surface when using an alkaline paint 
+remover; it is also advisable to pre-wet the 
+masonry surrounding a graffitied area to 
+dilute the effect of any cleaning agents that 
+might be inadvertently splashed or spilled on 
+the unsoiled surface. Do not wet the area to 
+be cleaned if the cleaning agent is solvent­
+based or incompatible with water. 
+- Always rinse the cleaning agent off the 
+masonry surface starting at the bottom and 
+moving up. This prevents the cleaning agent 
+from running down and staining a lower 
+surface . 
+- Air temperature can be a factor in graffiti 
+removal. Most paint removers do not work 
+when the air temperature is either very cold 
+or very hot. This may sometimes explain 
+why a method that worked in one instance 
+may not be effective again in another, similar 
+situation. 
+- Variations within the same type of stone, 
+such as bedding planes, density, finish, or 
+degree of weathering, may explain why some 
+areas of the same stone sometimes clean 
+better that others. 
+- Even if advance testing has been done and a 
+treatment plan exists, at least some on-the­
+spot testing will probably be necessary. 
+- Mortar joints react differently from masonry 
+units, and may require a different cleaning 
+material and/ or method to be cleaned 
+effectively. 
+- Graffiti removal may result in an obviously 
+"clean" spot. Always clean the entire 
+masonry unit that is bounded by mortar 
+joints (but not the joints themselves, unless 
+necessary). The prominence of the clean spot 
+may be minimized by fanning the cleaning 
+out from the spot, and "feathering" it by 
+gradually reducing the strength or 
+thoroughness of the cleaning. 
+- If it is not possible to completely remove all 
+traces of graffiti without removing some of 
+the masonry surface, it may be preferable to 
+leave the masonry alone. Some graffiti 
+ghosts become less noticeable with time due 
+to fading of the dyes used in paints and 
+markers. Sometimes it may be possible to 
+conceal more obvious graffiti ghosts with 
+carefully-matched paint. 
+- After graffiti removal, the masonry surface 
+should always be tested with pH strips to 
+make sure all the cleaning materials have 
+been completely removed. Non-staining pH 
+strips, available from chemical supply 
+companies, will indicate whether acids or 
+alkalis remain on the masonry surface. 
+- Although alkaline paint removers are 
+sometimes ineffective on modern 
+formulations of aerosol paints, they can 
+work well in removing multi-layered graffiti 
+because they last longer. 
+- What removes graffiti in one instance may 
+not always work again even in what appears 
+to be an identical situation. 
+- More than one cleaning material and 
+technique may be required to clean a heavily 
+graffitied area if different materials were 
+used to make the graffiti. For example, 
+shapes are often outlined with broad-tip felt 
+markers and then filled in with spray paint. 
+- Effective graffiti removal often depends on 
+trial-and-error testing, as well as a 
+knowledge of masonry materials, graffiti 
+materials and cleaning techniques. 
+
+Suggestions for Removing Graffiti from Historic Masonry 
+Graffiti Removal Method Health and Safety Cautions 
+Pencil 1. Erase with non-abra sive pencil eraser . None. 
+2. Wash with water and non-ionic detergent. 
+3. Rinse with water. 
+Chalk / Pastel 
+(not wax or oil-base) 
+1. Brush off with bristle brush. None. 
+2. Wash with water and non-ionic detergent. 
+3. Rinse with water . 
+Paint 
+Spray (aerosol) 
+Non-spray paint 
+1. Poultice with paint remover organic 
+solvent , or petroleum-based compound**. 
+*, +See cautions below for NMP, solvents 
+and petroleum-based compounds. 
+2. Rinse with water, denatured alcohol or 
+mineral spirits. Wear proper respirator, gloves 
+and eye protection . 3. Wash with water and non-ionic detergent. 
+4. Rinse with water. 
+Permanent (felt-tip) 
+Marker 
+1. Wash with water and non-ionic 
+detergent, if necessary . 
++See cautions below for NMP, solvents 
+and petroleum-based compounds. 
+2. Poultice with bleach  
+paint remover  organic solvent 
+or petroleum-based compound**. 
+*,
+***,
+Bleach is corrosive, causes chemical 
+burns, and forms toxic gases (chlorine). 
+Wear proper respirator, gloves 
+and eye protection . 
+3. Wash with water and non-ionic detergent. 
+4. Rinse with water. 
+Water Soluble 
+(felt-tip) Marker 
+1. Wash with water and non-ionic detergent. Bleach is corrosive, causes chemical 
+burns, and forms toxic gases (chlorine). 
+Wear proper respirator, gloves 
+and eye protection. 
+2. Poultice with bleach  ***.
+3. Wash with water and non-ionic detergent. 
+4. Rinse with water. 
+Ballpoint Pen 1. Erase with non-abrasive pencil eraser. +See cautions below for NMP, solvents 
+and petroleum-based compounds . 
+Wear proper respirator, gloves 
+and eye protection . 
+2. Poultice with organic solvent 
+or petroleum-based compound  **.
+3. Wash with water and non-ionic detergent. 
+4. Rinse with water. 
+Crayon 
+Lipstick 
+Shoe Polish 
+1. Poultice with denatured alcohol, paint 
+remover* or organic solvent  **.
++See cautions below for NMP, solvents 
+and petroleum-based compounds . 
+Wear proper respirator, gloves 
+and eye protection . 
+2. Wash with water and non-ionic detergent. 
+3. Rinse with water . 
+.. Paint Remover based on N-methyl-2-pyrrolidone (NMP). 
+** Organic Solvent such as acetone, lacquer-thinner , or petroleum-based compound such as dimethyl adipate. 
+*** Bleach such as calcium hypochlorite. 
++ N-methyl-2-pyrrolidone (NMP) is mildly toxic and may have adverse reproductive effects. 
+Solvents and petroleum-based compounds have toxic vapors, are flammable, and require well-ventilated conditions. 
+These are suggestions to assist in graffiti removal. Method s should always be tested first under the supervision and guidance of an 
+architectural conservator. 
+13 
+
+14 
+Summary 
+Although rapid graffiti removal is the most effective 
+weapon in eliminating graffiti and preventing its recurrence 
+in the same location, hasty, untested removal attempts can 
+disfigure and cause harm to historic masonry. Thus, it is 
+important that the owner or manager of a historic masonry 
+building or structure be prepared with a plan to ensure the 
+prompt removal of graffiti when it occurs. Regularly 
+scheduled maintenance and cleaning programs to eliminate 
+graffiti from historic masonry properties may be assisted by 
+the installation of physical barriers, security systems and 
+Selected Reading 
+American Geological Institute. AGI Glossary of Geology and 
+Related Sciences. Washington, D.C: American Geological 
+Institute, 1960. 
+Ashurst, Nicola. Cleaning Historic Buildings. Vol. I: 
+Substrates, Soiling and Investigations; Vol. II: Cleaning 
+Materials and Processes. London: Donhead Publishing Ltd., 
+1994. 
+"Chemistry Leaves Its Mark on Graffiti." Chemical 
+Marketing Reporter. November 14, 1993. 
+Ehrenkrantz & Eckstut Architects, P.C Technical Tips: 
+Removing Graffiti. New York: New York Landmarks 
+Conservancy, n.d. (1994). 
+Graffiti Removal Manual. Providence, RI: Keep Providence 
+Beautiful, September 1986. 
+Grimmer, Anne E. Keeping it Clean: Removing Exterior Dirt, 
+Paint, Stains and Graffiti from Historic Masonry Buildings. 
+Washington, D.C : Preservation Assistance Division, 
+National Park Service, U.s. Department of the Interior, 1988. 
+Lewis, Richard J. Hazardous Chemicals Desk Reference. 
+Second Edition. New York: Van Nostrand Reinhold, 1991. 
+NIOSH Pocket Guide to Chemical Hazards. Washington, D.C: 
+National Institute for Occupational Safety and Health, 
+Centers for Disease Control and Prevention, Public Health 
+Service, U.S. Department of Health and Human Services, 
+June 1994. 
+lighting, as well as increased community involvement. 
+Successful graffiti removal from historic masonry requires 
+knowledge of a variety of cleaning methods and materials, 
+and an awareness that what works to remove graffiti from 
+one kind of masonry surface may not remove it from 
+another. By testing different cleaning methods in advance, 
+treatment plans will be available, when needed, to provide 
+guidance for safe and sensitive graffiti removal from 
+historic masonry. 
+Reisner, Robert. Graffiti: Two Thousand Years of Wall 
+Writing. Chicago: Cowles Book Company, 1971. 
+Science for Conservators: Conservation Teaching Series. The 
+Conservation Unit of the Museums and Galleries 
+Commission. 3 volumes. New York: Routledge, A 
+Division of Routledge, Chapman and Hall, Inc., 1992. 
+Torraca, Giorgio. Porous Building Materials. Rome: 
+ICC ROM, 1988. 
+Torraca, Giorgio. Solubility and Solvents for Conservation 
+Problems. Rome: ICC ROM, 1990. 
+Weaver, Martin E. Conserving Buildings: A Guide to 
+Techniques and Materials. New York: John Wiley & Sons, 
+Inc., 1993. 
+Whitford, Maurice J. Getting Rid of Graffiti: A practical guide 
+to graffiti removal and anti-graffiti protection. New York: Van 
+Nostrand Reinhold, Inc., 1992. 
+Wollbrinck, Thomas. "The Composition of Proprietary 
+Paint Strippers." Journal of the American Institute for 
+Conservation. Vol. 32 (1993), pp. 43-57. 
+Young, Daniel J. How to Comply with the OSHA Hazard 
+Communication Standard: A Guide to Compliance with OSHA 
+Worker Right-to-Know Regulations. New York: Van 
+Nostrand Reinhold, 1989. 
+,., u.s. GOVERNMENT PRINTING OFFICE: 1995 387-091/20004 
+
+Acknowledgements 
+This Preservation Brief was developed under a cooperative 
+agreement between the New York Landmarks Conservancy 
+and the National Park Service. Mark A. Weber, Director, 
+Technical Services Center, served as project coordinator for 
+the Conservancy. The author, Martin E. Weaver, is the 
+Director of the Center for Preservation Research at 
+Columbia University. He is an internationally recognized 
+expert in the conservation of architectural and cultural 
+resources, a noted lecturer, and author of Conserving 
+Buildings: A Guide to Techniques and Materials, as well as 
+numerous articles on the subject. 
+Anne E. Grimmer, Senior Architectural Historian, 
+Technical Preservation Services, Preservation Assistance 
+Division, National Park Service, coordinated the 
+development of this Preservation Brief and served as 
+Technical Editor. Technical review of this publication by 
+the following is gratefully acknowledged: Frances Gale, 
+Training Coordinator, National Center for Preservation 
+Technology and Training, National Park Service, 
+Natchitoches, LA; Judith M. Jacob, Architectural 
+Conservator, Building Conservation Branch , Northeast 
+Cultural Resources Center, National Park Service, NY, NY; 
+Andrea Mones -O'Hara , Regional Historic Preservation 
+ISSN: 0885 7016 October 1995 
+'The word grnffito Igrnffiti, plural) - is derived from the o ld Italian diminutive of 
+graffio - to scratch, and the Latin grnphire - to write. Grnffiti in contemporary 
+usage has come to mean an inscription , drawings , or markin gs, Except in very 
+formal or techni cal appli cations , graffiti is generally consider ed a "mass" noun 
+and pair ed with a Singular verb , 
+Officer, National Capital Region, General Services 
+Administration, Washington, DC; Nicolas F. Veloz, 
+Conservator of Outdoor Sculpture and Monuments, 
+National Capital Area Office, National Park Service, 
+Washington, DC; and Michael J. Auer, Timothy Buehner, 
+Charles E. Fisher, and especially Kay D, Weeks, Technical 
+Preservation Services, Preservation Assistance Division, 
+National Park Service, Washington, DC. 
+This publication has been prepared pursuant to the 
+National Historic Preservation Act of 1966, as amended, 
+which directs the Secretary of the Interior to develop and 
+make available information concerning historic properties . 
+Comments on the usefulness of this publication may be 
+directed to: Technical Preservation Services, Preservation 
+Assistance Division, Center for Cultural Resource 
+Stewardship and Partnerships, National Park Service, P.O. 
+Box 37127, Washington, DC 20013-7127, or Technical 
+Services Center, New York Landmarks Conservancy, 141 
+Fifth A venue, NY, NY 10010. This publication is not 
+copyrighted and can be reproduced without penalty. 
+Normal procedures for credit to the author, the National 
+Park Service, and the New York Landmarks Conservancy 
+are appreciated. 
+Cover Photograph: Sandstone gatepost, Springfield Armory National 
+Historic Site, Springfield, Massachusetts. Photo: Judith M, facob, 
+15 

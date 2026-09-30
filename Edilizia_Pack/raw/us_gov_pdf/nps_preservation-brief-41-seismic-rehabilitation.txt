@@ -1,0 +1,1578 @@
+1
+41
+PRESER
+ 
+V ATION  
+BRIEFS 
+The Seismic Rehabilitation 
+of Historic Buildings 
+Antonio Aguilar
+National Park Service
+U.S. Department of the Interior
+Technical Preservation Services
+Earthquakes result from sudden movements of the 
+geological plates that form the earth’s crust, generally 
+along cracks or fractures known as “faults.” When 
+buildings are not designed and constructed to withstand 
+these unpredictable and often violent ground motions, 
+major structural damage, or outright collapse, can result, 
+with grave risk to human life. Historic buildings are 
+especially vulnerable to seismic events, particularly 
+those built before seismic codes were adopted. Also, 
+more and more communities continue to adopt higher 
+standards for seismic retrofit of existing buildings. And, 
+despite popular misconceptions, the risks of earthquakes 
+are not limited to the West Coast (Figures 1 and 7), but 
+exist across much of the United States.
+Figure 1. In 2011, a 5.6 magnitude 
+earthquake substantially damaged all four 
+turrets atop St. Gregory’s University 
+Benedictine Hall in Shawnee, Oklahoma. 
+Photo: St. Gregory University.
+Although historic and other older buildings can be 
+retrofitted to survive earthquakes, the process of doing 
+so may damage or destroy the very featur
+es that make 
+such buildings significant. While life-safety issues 
+remain foremost concerns, fortunately, there are various 
+approaches which can help protect historic buildings 
+from both the devastation caused by earthquakes 
+and from the damage inflicted by well-intentioned, 
+but insensitive, retrofit procedures. Building owners, 
+managers, consultants, and communities need to 
+be actively involved in planning for and readying 
+irreplaceable historic resources from these threats.
+This Preservation Brief provides information on how 
+earthquakes affect historic buildings, how a historic 
+preservation ethic can guide responsible retrofit 
+decisions, and how various methods of seismic 
+rehabilitation can protect human lives and historic 
+structures. The Brief provides a description of the most 
+common vulnerabilities of various building construction 
+types and the seismic strengthening methods most often 
+needed to remedy them. A glossary of technical terms is 
+also provided at the end of the Brief. 
+Undertaking the seismic rehabilitation of a historic 
+building is a process that requires careful planning 
+and execution, and the coordinated work of architects, 
+engineers, code officials, contractors, and agency 
+administrators. Project personnel working together 
+can ensure that the architectural, structural, financial, 
+programmatic, cultural, and social values of historic 
+buildings are preserved, while rendering them safe for 
+continued use.
+Achieving Seismic Retrofit as well  
+as Preservation
+Major repairs 
+and alterations, 
+additions, change 
+in occupancy, and 
+local ordinances 
+can trigger 
+compliance with 
+current building 
+code requirements, 
+including seismic 
+strengthening 
+requirements that 
+specify a minimum 
+level of protection 
+from earthquake 
+hazards to building
+occupants. They 
+also specify 
+the process 
+for the seismic 
+evaluation of 
+buildings, outline 
+the methods for 
+rehabilitation, 
+specify limitations 
+
+2
+on selecting str
+uctural analysis procedures, identify 
+acceptable rehabilitation strategies, and specify when 
+alternative compliance methods may be used.
+Building codes are primarily intended to guide the 
+design and construction of new buildings and often 
+require the application of certain design and construction 
+methods that are critical for good seismic performance. 
+However, determining the seismic adequacy of historic 
+buildings by comparing them to the requirements 
+for new construction can be difficult, and sometimes 
+impossible, because some archaic building materials 
+and construction methods are not included in the new 
+building codes. While many jurisdictions have adopted 
+prescriptive standards, primarily for certain building 
+types such as unreinforced masonry load bearing walls, 
+more sophisticated, performance-based evaluation 
+methods allowed by some codes offer more flexibility. 
+Many prescriptive code complying standards can result 
+in the destruction of much of a historic building’s 
+appearance and integrity
+. This is because the most 
+expedient way to reinforce a building is to introduce a 
+completely new complying structural system, to add 
+new structural members, and to fill in irregularities or 
+large openings without regard to how the new structural 
+elements or modifications affect its architectural design. 
+The results of these approaches can be quite intrusive 
+(Figures 2-3). However, structural reinforcement can 
+be introduced sensitively while still meeting code 
+requirements. In such cases, its design, placement, 
+patterning, and detailing will respect the historic 
+character of the building, even when the reinforcement 
+itself is visible (Figures 4-5). 
+Figures 2-3. Standard approaches to seismic rehabilitation, such as adding diagonal bracing to reinforce window and storefront openings as seen in 
+these photos, can be visually intrusive. Figure 2 (left). Figure 3 (right). Photo: Steade Craigo.
+Figures 4-5. Using moment frames (horizontal and vertical 
+steel members identified by the arrows) set back behind 
+storefront openings as seen in Figure 4 (left), or placing brace 
+frames (in red) away from the windows as illustrated in  
+Figure 5 (right) are solutions that meet historic preservation 
+goals. Figure 4. Photo: Elizabeth Hilton.
+Successful seismic rehabilitations of historic buildings 
+require both skillful use of the best available technology 
+
+3
+as well a proper understanding of historic preservation, 
+and the inherent strength of archaic materials and 
+structural systems. The seismic retrofit of historic 
+buildings is as much an art as it is a science; it is, 
+therefore, extremely important to select a professional 
+who is not only experienced with seismic rehabilitation 
+of existing buildings, but is also closely familiar with 
+The Secretary of the Interior’s Standards for the Treatment 
+of Historic Properties. While some degree of change or 
+alteration to a historic building may be inevitable and 
+acceptable in a seismic rehabilitation, the Standards 
+can provide  critical decision-making guidance in 
+the process of planning and designing a successful 
+seismic rehabilitation. The goal of a successful 
+seismic rehabilitation should be to reduce the seismic 
+vulnerabilities of a building while retaining its historic 
+materials and features to the greatest extent possible and 
+avoiding or minimizing alterations to significant historic 
+features and spaces.
+Four important preservation principles should be kept 
+in mind when undertaking seismic retrofit projects:
+• Historic features and materials, both structural and 
+nonstructural, should be preserved and retained, not 
+as museum artifacts, but to continue to fulfill their 
+historic function to the greatest extent possible, and 
+not be replaced wholesale in the process of seismic 
+strengthening.
+• If historic features and materials are damaged beyond 
+repair, or must be removed during the retrofit, they 
+should be replaced in kind or with compatible 
+substitute materials. If they must be removed during 
+the retrofit, they should be removed carefully and 
+thoroughly documented to ensure they can be properly 
+re-installed in their original location.
+• New seismic retrofit systems should work in concert 
+with the inherent strengths of the historic structural 
+system, and, whether hidden or exposed, should 
+respect the character and integrity of the historic 
+building, be visually unobtrusive and compatible 
+in design, and be selected and designed with due 
+consideration to limiting the damage to historic features 
+and materials during installation.
+• Seismic work should be reversible whenever feasible 
+to allow its removal for future installation of improved 
+systems as well as repair of historic features and 
+materials.
+Putting a Team Together
+A team that is experienced with both seismic retrofit 
+requirements and historic preservation, and can 
+adopt an inter-disciplinary approach, is important 
+for achieving a seismic rehabilitation that is sensitive 
+to the building’s historic character, features, and 
+materials. Team members should be selected for their 
+experience with similar projects, and may include 
+architects, engineers, code specialists, contractors, 
+and preservation consultants. Because the typical 
+seismic codes are written for new construction, it 
+is important that both the architect and structural 
+engineer be knowledgeable about historic buildings 
+and about meeting building code equivalencies and 
+finding other options. 
+Local and state building officials can identify regulatory 
+requirements, alternative approaches to meeting 
+these requirements, and a historic preservation or 
+building conservation code if one has been adopted 
+by the jurisdiction. Even on small projects that 
+cannot support a full professional team, consultants 
+should be familiar with historic preservation goals. 
+The State Historic Preservation Office (SHPO) and 
+the local historic preservation office or commission 
+may be able to identify consultants with experience 
+in seismic rehabilitation of historic buildings, or be 
+able to provide initial technical assistance on how to 
+approach a seismic retrofit.
+Earthquakes and Historic Buildings: 
+Assessing Principal Risk Factors
+The Federal Emergency Management Agency (FEMA) 
+defines seismic risk as a function of earthquake hazard 
+and vulnerability. Assessing the seismic risk of a historic 
+property is the first step to avoid the potential loss of life 
+and injuries, damage and loss of property, or disruption 
+of services. Seismic evaluations of historic buildings 
+within areas of earthquake hazard should be conducted 
+if they have not been previously performed. This 
+evaluation should identify both the potential structural 
+deficiencies of the building (any structural component 
+such as columns, beams, floors, etc., required to resist 
+seismic forces), as well as the potential vulnerabilities 
+of the nonstructural components of the building (all 
+components that are not part of the structural system, 
+which include exterior cladding, glazing, chimneys, 
+interior partitions, ceilings, and other architectural 
+features, as well as building systems, and equipment). 
+Nonstructural failures generally account for the majority 
+of earthquake damage repair costs during earthquakes. 
+Thus, it is critical to consider the risk and consequences 
+of potential nonstructural failures. This is particularly 
+important for historic buildings located in areas of low 
+or moderate earthquake hazard, where the danger of 
+collapse may be relatively small, but nonstructural 
+elements such as unanchored stone veneers, cornices, 
+parapets, chimneys, and gable ends may dislodge and 
+fall to the ground during a moderate earthquake and 
+pose severe life-safety hazards (Figure 6).
+
+4
+Other important nonstructural hazards to consider are 
+the possibility that gas and water lines may rupture 
+during an earthquake, which can cause fire and water 
+damage. Many of these vulnerabilities can be mitigated 
+by understanding how the forces unleashed in an 
+earthquake affect a building, and then planning and 
+implementing appropriate remedial treatments  
+(Figure 7).
+Factors that influence how and why historic buildings 
+are damaged in an earthquake:
+1. Depth of the earthquake and subsequent strength of 
+earthquake waves reaching the surface
+2. Duration of the earthquake, including aftershock 
+tremors
+3. Proximity of the building to the earthquake epicenter, 
+although distance is not necessarily a direct 
+relationship
+4. Building construction type, including structural 
+systems and materials
+5. Building design, including plan and elevation 
+configuration, overall massing,  arrangement of 
+interior spaces, and detailing of nonstructural elements
+6. Existing building condition, including maintenance 
+level
+7. Site and soil conditions
+In the process of assessing the potential seismic risk, 
+these are crucial factors that should be considered:
+1. Type of construction and condition of the building 
+2. Site seismic hazards
+3. Occupancy and use  
+Type of Building Construction. To a great extent, a 
+historic building’s construction and materials determine 
+its behavior during an earthquake. Some buildings, 
+such as a broad class of wood-frame structures, are 
+able to absorb substantial movements with little risk 
+of collapse. Others, such as unreinforced masonry 
+or adobe buildings, tend to be more susceptible to 
+damage from shaking (Figure 8). If an earthquake is 
+strong, or continues for a long time, building elements 
+that are poorly attached or unreinforced may collapse 
+or dislodge. Buildings of more rigid or stronger 
+construction methods such as reinforced concrete or 
+steel-frame buildings may also have seismic deficiencies 
+depending on when they were constructed and whether 
+or not they have been well-maintained over time. 
+A thorough assessment of the building’s existing 
+conditions is the basis for any seismic rehabilitation. 
+This begins by gathering any available information 
+about the building’s original construction. Many historic 
+buildings in earthquake zones have survived episodes of 
+ground shaking and may even have undergone previous 
+seismic reinforcement work. Compiling any available 
+documentation that quantifies their proven seismic 
+resistance or describes seismic reinforcement work 
+or any other changes that have occurred over time is 
+extremely useful. Some of these records may have been 
+already compiled in previous documentation assembled 
+to nominate the structure to the National Register of 
+Historic Places or for a Historic Structure Report. (If 
+not previously done, for many buildings preparing a 
+Historic Structure Report is highly recommended; see 
+Preservation Brief 43: The Preparation and Use of Historic 
+Structure Reports). Early real estate or insurance maps, 
+such as Sanborn Maps, and assessor’s records may also 
+note building changes over time.
+Original construction documents, plans and 
+specifications, when available, and engineering 
+drawings, in particular, which include structural layout 
+and connection details are especially useful. When 
+drawings documenting improvements or alterations 
+over time are not available, building permits can also 
+provide useful information. Historic photographs of 
+the building under construction or before and after 
+previous earthquakes are also invaluable. The compiled 
+information, along with a thorough evaluation of the 
+condition and strength of the existing building materials, 
+will provide a sound basis for calculating the potential 
+seismic hazards of the building and preparing a seismic 
+retrofit plan.
+Building Configuration. The geometry and shape of 
+a building also play a role in how a building behaves 
+during an earthquake. Buildings with regular plans, 
+whether they are round, square, or rectangular, have 
+a greater resistance to damage during an earthquake 
+because their geometry allows for equal resistance of 
+lateral forces in all directions. 
+Buildings with complex and irregular plans, however, 
+may be more prone to damage during an earthquake 
+because of uneven strength and stiffness. For example, 
+structures with an L,T, H, or other plan  configurations 
+with inward-facing, or re-entrant corners, have unequal 
+resistance to stress concentrated at those corners and 
+intersections (Figure 9). This is of particular concern if 
+the buildings have flexible structural systems and/or 
+have an irregular layout of shear walls, which may cause 
+portions of the building to pull apart. 
+Similarly, the more complex and irregular buildings are 
+in elevation, the more susceptible they are to damage, 
+especially tall structures. Other building features such 
+as large ground-level storefront or garage openings, 
+or floors with columns and walls running in only one 
+direction, are commonly known as “soft” or “weak” 
+stories, which increase the seismic vulnerability of 
+historic buildings (Figures 10 and 11).
+
+5
+Figure 6. 
+Failing 
+nonstructural 
+elements 
+such as the 
+stone-veneer 
+window and 
+door surrounds 
+shown in this 
+image can 
+become a life-
+safety hazard 
+when they 
+block or impede 
+an exit path. 
+Photo: Wiss, 
+Janney, Elstner 
+and Associates, 
+Inc.
+Figure 7. A simplified 2014 United States Geological Survey (USGS)  seismic hazard map. Owners of certain classes of high-risk buildings in 
+regions of high seismic activity are advised, and often required by local ordinances, to take immediate action in undertaking a comprehensive 
+vulnerability assessment and make any necessary seismic rehabilitation measures. Owners of buildings in moderate seismic zones are advised to do 
+further investigation of their building’s exposure to earthquake risk, identify seismic rehabilitation needs, and consider mitigation of risks primarily 
+due to nonstructural hazards. Owners of buildings in low seismic areas are advised to consider low-cost rehabilitation measures that protect against 
+casualties and property loss, if such measures are found to be necessary, even though the potential occurrence of an earthquake might be low.
+Figure 8. Unreinforced masonry buildings, such as this 1875 
+stone building damaged during the 2014 South Napa, California 
+earthquake, can be particularly vulnerable to earthquake damage.  
+Photo: Architectural Resour
+ces Group.
+EUSGS 
+Highest hazard 
+s,:ience for a cball9;ng wo1/d 
+Lowest hazard 
+,. 
+·. -...... .. / 
+
+6
+Figure 9. This image shows structural deformation due to stress 
+concentration in structures with re-entrant corners, the inside corner 
+where the two perpendicular exterior walls meet.
+Figure 10. (left) Open first floor. Figure 11. (right) Double height second floor. These renderings show 
+examples of “weak” or ”soft” story irregularities.
+Basic Maintenance/Earthquake 
+Preparedness
+Regular maintenance ensures that existing historic 
+materials remain in good condition and are not 
+weakened by rot, rust, decay, or other moisture 
+problems. Without exception, historic buildings 
+should be well maintained. An evacuation plan 
+should also be developed. With the knowledge that 
+an earthquake may occur at any time in the future, 
+building owners should have emergency information 
+and supplies on hand.
+•	 Check roofs, gutters, and foundations for 
+moisture problems, and check for corrosion 
+of metal ties at parapets and chimneys. Make 
+repairs and keep metal painted and in good 
+condition.
+•	 Inspect and keep termite and wood-boring 
+insects away from wooden structural members.
+•	 Check exit steps and porches to ensure that 
+they are tightly connected and will not collapse 
+during an emergency exit.
+•	 Check masonry for deteriorating mortar, and 
+never defer repairs. Repoint, matching the 
+historic mortar in composition and detailing.
+•	 Contact utility companies for information on 
+flexible connectors for gas and water lines and 
+earthquake-activated gas shut-off valves. Strap 
+oil tanks down and anchor water heaters to wall 
+framing.
+•	 Collect local emergency material for reference 
+and implement simple household or office 
+mitigation measures, such as installing latches 
+to keep cabinets from flying open or braces to 
+attach tall bookcases to walls. Keep drinking 
+water, tarpaulins, and other emergency supplies 
+on hand.
+Building Condition. Damaged and deteriorated 
+building materials increase the risk of serious damage 
+during an earthquake. This condition can be the result 
+of poor quality workmanship and materials from when 
+the building was built, or lack of proper maintenance. 
+Material damage and degradation due to moisture, 
+erosion, mold, or insect infestation are typical problems 
+resulting from poor maintenance. Well-maintained 
+buildings, even without added reinforcement, survive 
+better than similar buildings that have not been 
+maintained. In unreinforced masonry buildings, 
+deteriorated mortar joints can weaken entire walls. 
+Regular cyclical maintenance is therefore essential. 
+The capacity of the structural system to resist 
+earthquakes may also be severely r
+educed if previous 
+alterations or earthquakes have weakened structural 
+connections. Unrepaired cracks or damage from 
+previous earthquakes can progressively weaken a 
+building, increasing the potential for greater damage 
+during the next earthquake. Cumulative earthquake 
+damage can be significant; therefore, it is important to 
+analyze the structural capacity of the building. 
+Over time, structural members 
+can become loose and pose a 
+major liability. Unreinforced 
+masonry buildings typically have 
+a friction-fit connection between 
+horizontal and vertical structural 
+members, and the shaking 
+caused by an earthquake pulls 
+them apart. Insufficient bearing 
+surfaces for beams, joists, and 
+rafters against the load-bearing 
+walls or support columns is 
+another important factor to 
+consider. The resulting structural 
+inadequacy can cause a partial 
+or complete building collapse, 
+
+7
+depending on the severity of the earthquake and the 
+internal wall configuration. 
+Evaluation of the general physical condition of the 
+building’s interior and exterior, and identification of 
+areas vulnerable to seismic damage, often requires 
+testing and analysis to determine the durability 
+and strength of materials and structure. This 
+should be performed by a qualified engineer who is 
+knowledgeable of historic materials and construction 
+methods. In order to evaluate the actual strength and 
+condition of the historic materials, selective destructive 
+testing may be required.
+Site Seismic Hazards. In addition to the shaking 
+motion of the ground during an earthquake, there is 
+risk of damage due to site-specific hazards, such as fault 
+rupture; liquefaction and other soil failures; landslides; 
+hazards from adjacent buildings, including pounding; 
+or potential inundation from nearby dam failure or a 
+tsunami. If such hazards exist, they should be addressed 
+along with any needed seismic rehabilitation of the 
+building. 
+Occupancy and Use. A building’s occupancy and use 
+have a direct relationship to its seismic risk, as well as 
+the social, economic, or environmental consequences 
+that an earthquake may pose. From a life-safety 
+perspective, warehouses, barns, and certain industrial 
+buildings and structures with low human occupancy 
+may present a lower risk compared to high-rise office 
+buildings, theaters, and other high-occupancy buildings. 
+Specific uses such as medical facilities, housing for 
+persons of limited mobility, or buildings that support 
+vital community services or utilities fall within use 
+categories where the risk of damage or collapse during 
+an earthquake requires special consideration. Owners of 
+historic buildings that are being repurposed for a new 
+use should be aware that, depending on the change, the 
+new use may pose a higher risk to life safety and may 
+require significant seismic reinforcement to mitigate its 
+seismic risk. Inversely, if the change in use lowers the 
+risk to life safety, the need for extensive seismic retrofit 
+work may not be necessary. 
+Evaluating Significant Historic Features  
+and Spaces
+Just as important as the assessment of the material 
+and structural condition of a building is the careful 
+identification of the interior and exterior features and 
+components that help define its historic character. 
+Establishing a protection and preservation plan that 
+identifies significant interior spaces, features, and 
+finishes is essential. Significant architectural elements 
+include domes and atriums and important or  
+highly-decorative features such as staircases, ornate 
+ceilings, mosaics, murals, and other historic treatments. 
+Conversely, it is also important to identify secondary or 
+tertiary areas of the building, or any spaces, features, or 
+finishes that have been changed over time and no longer 
+have historic significance. Less important spaces may 
+provide areas for additional structural reinforcement 
+to be installed during a seismic rehabilitation without 
+having an adverse impact on the overall historic 
+character of the building. 
+The placement of additional structural reinforcement 
+should be carefully considered to avoid or appreciably 
+minimize any impact on the building’s significant or 
+primary exterior and interior spaces (Figure 12). New 
+structural elements should be located within interstitial 
+or utilitarian spaces whenever possible. Alterations 
+within secondary spaces are preferable to alterations of 
+primary spaces, but care should be taken to preserve 
+historic materials and character to the greatest extent 
+feasible in these areas as well. When new structural 
+elements must be added within significant interior 
+spaces, the placement and location should avoid 
+major alterations to the overall volume, distinctive 
+architectural features, or finishes within the space, as 
+well as to its character (Figures 13-15). (See Preservation 
+Brief 17: Architectural Character—Identifying the Visual 
+Aspects of Historic Buildings as an Aid to Preserving their 
+Character, and Preservation Brief 18: Rehabilitating Interiors 
+in Historic Buildings: Identifying and Preserving Character-
+Defining Elements.)
+Figure 12. A mezzanine was added to the original banking hall of 
+this 1921 former bank building as a seismic strengthening measure. 
+Subdividing such an important character-defining space can result in 
+a severe loss to a building’s historic integrity.
+Developing a Seismic Rehabilitation Plan
+Seismic Vulnerability. Seismic vulnerability is 
+represented as a sliding scale of potential damage based 
+on the probability of hazard by locale (site-specific data) 
+and building use. This helps the owner understand 
+the building’s vulnerability to damage, both structural 
+and nonstructural, in the event of an earthquake. 
+Consequences of earthquake vulnerability may be 
+characterized as:
+
+8
+Figures 13-14. Vertical steel 
+reinforcement members were inserted 
+and grouted into the walls of the main 
+waiting room in Seattle’s historic 1906 
+King Street Railroad Station to 
+strengthen them (top left). To replace 
+the original plaster ornamentation, 
+molds were made to cast new 
+replacement plaster elements as shown 
+on this work-in-progress photo (top 
+right). Photos: John Stamets.
+Figure 15. After completion of the 
+seismic r
+einforcement, the replicated 
+plaster ornamentation was installed 
+and the decorative painted finishes 
+restored, returning the waiting room 
+of King Street Station to its historic 
+appearance. Photo: Doug Scott.
+• Deaths and injuries to building occupants and related 
+liability
+• Building collapse or damage to building components, 
+and related cost for repairs
+• Damage to building contents and related cost or 
+liabilities
+• Disruption of building operations and related cost or 
+liabilities
+Performance Objectives. Once the risks and 
+vulnerabilities of a building have been assessed, the 
+next step in the process is usually setting goals for 
+reducing the seismic risks. Knowing what rehabilitation 
+requirements are mandated by the local jurisdiction 
+is critical, as well as knowing whether a locality has 
+separate codes for historic structures. There may be 
+other triggers, such as a lender requiring retrofit or 
+earthquake insurance when refinancing a loan, or 
+a change of occupancy. The owner should also be 
+aware of the different levels of seismic risk-reduction 
+measures that can be chosen and their associated 
+cost. Alternative ways of reducing seismic risk to life 
+and property, such as reducing the occupancy of a 
+building or providing alternative facilities in case of an 
+earthquake, should be studied. 
+After all alternatives have been considered, modification 
+options for reducing the risk of damage to a historic 
+building should be evaluated. Before undertaking a 
+seismic rehabilitation, objectives that define the level 
+of acceptable damage or loss for a building during 
+a potential earthquake must be determined. These 
+are referred to as “rehabilitation objectives.” The 
+rehabilitation objectives are usually set by the local 
+code, ordinance, or code official in mandatory seismic 
+strengthening programs, or chosen by the owner and 
+engineer in a voluntary seismic rehabilitation (see ASCE 
+Standard 41-13).
+
+9
+Figure 16. Computer modelling is a useful analytic tool that helps 
+assess the strengths and weaknesses of a building and evaluate 
+different seismic strengthening options. Three-dimensional dynamic 
+analysis is required for a number of different structures located in 
+certain seismic zones.
+Photo: Wiss, Janney, Elstner and Associates, Inc.
+The rehabilitation objectives are based on target 
+“building performance levels” which provide a limiting 
+range to the amount of predicted damage that a 
+building should sustain during an earthquake. Building 
+performance levels fall into four general classifications 
+that rank from higher performance (lower risk) to lower 
+performance (more risk):  
+1. Operational. Backup utility services maintain function; 
+the building sustains very little damage. This approach 
+is intended for critical facilities, such as hospitals 
+and emergency management centers, which must 
+remain open and operational after a major earthquake. 
+For some historic buildings, achieving this level of 
+performance may be difficult or next to impossible 
+without a great deal of modification. However, as more 
+buildings that were engineered to sustain ground-
+shaking become historic, more may achieve this level 
+of performance.
+2. Immediate Occupancy. The building remains safe to 
+occupy. Damage and expected repairs are minor. 
+3. Life Safety. The building remains stable and has 
+substantial structural reserve capacity; hazardous 
+nonstructural damage is controlled. 
+4. Collapse Prevention. This addresses the most serious 
+life-safety concerns by correcting those deficiencies 
+that could lead to serious human injury or total 
+building collapse. The building remains standing in 
+order for occupants to exit the building; any other 
+damage or loss is acceptable. It is expected that if an 
+earthquake were to occur, the building should not 
+collapse but would be seriously damaged, could not be 
+occupied, and would require major repairs or need to 
+be demolished.
+Figures 17 and 18. Careful placement of the new structural reinforcement, painted to match the surrounding building elements, if left exposed, 
+minimizes its visual impact. New added structural elements may be left exposed when their visibility does not impair the historic character of the 
+building. Figure 17 (left). Photo: Jason Hagin. Figure 18 (right). Photo: Architectural Resources Group.
+From a design perspective, the vast majority of historic 
+buildings can tolerate a well-planned and placed system 
+of seismic reinforcement. Utilitarian structures, such 
+as warehouses, may be able to receive fairly visible 
+reinforcement systems without undue damage to 
+their historic character (Figures 17-18). Other, more 
+architecturally detailed buildings or those with more 
+finished or decorative interior surfaces will benefit 
+from more hidden systems. However, installation of 
+such systems may require the temporary removal and 
+reinstallation of significant features as part of the seismic 
+rehabilitation work. Most buildings can incorporate 
+
+10
+seismic hazard mitigation during other construction 
+work in a way that ensures a high degree of in-place 
+retention of historic materials.
+Building performance levels are established for both 
+structural and nonstructural damage. While reducing 
+life-safety risks and ensuring safe post-earthquake 
+occupancy of a building might be the primary concerns 
+for many owners, potential damage to contents may be 
+extremely important in certain circumstances. Important 
+archives and records, invaluable art objects, and book 
+and other collections are often housed in historic 
+buildings. Risk-reduction measures associated with 
+hazardous materials or valuable equipment must also 
+be considered. 
+Hazard Mitigation of Nonstructural Components
+Nonstructural components are all those elements other 
+than the columns, bearing walls, floors, beams or trusses, 
+bracing elements, foundation, and other elements that 
+make up a building’s structure (Figures 19-20). In the 
+past, seismic rehabilitation of existing buildings has 
+focused on mitigating structural deficiencies. However, 
+nonstructural components represent a substantial 
+portion of a building’s initial capital investment; 
+and, based on post-earthquake surveys, losses from 
+nonstructural components also represent a high 
+percentage of losses during an earthquake (see FEMA 
+E-74: Reducing the Risk of Nonstructural Earthquake 
+Damage—A Practical Guide).
+Figure 19. Chimneys are 
+common nonstructural 
+features susceptible to 
+earthquake damage, 
+even in zones of low-to 
+medium-seismic activity 
+as shown on this building 
+2011 earthquake. 
+Photo: Suzanne Tripp.
+Figure 20. Bracing parapet walls, as illustrated in the typical detail drawing 
+on the left, and as installed in the image on the right, helps avoid hazards 
+fr
+om falling debris.
+Similar to structural components, a risk assessment of 
+nonstructural components should be completed based 
+on the hazards they present. The potential consequences 
+of earthquake damage to nonstructural components 
+depend on the type of risk they pose:
+Life Safety. Could anyone be hurt by this component in 
+an earthquake? 
+Property Loss. Could a large property loss result? 
+Functional Loss. Could the loss of this component cause 
+an outage or interruption in operations? 
+111RCIICH BOL.T 
+WITH BEARING 
+PLATE 
+22° 
+OIIIUJ:D DDWEL----r,~ 
+ALTEIINATE 
+INIEINFORCED 
+MASONRY WALL 
+ANSLE WITH BOLT EACH IHI 
+SHEATHING 
+ANlil.l: Wmt LAG SCRl:WS 
+JOISTS 
+
+11
+Hazardous Nonstructural Components
+The following list represents typical components and 
+is not exhaustive:
+Architectural
+•	 Exterior walls (including masonry veneers, 
+prefabricated panels, glazing, glass block, and 
+curtain wall and storefront window systems) 
+•	 Partitions (hollow- clay tile, unreinforced 
+masonry, or similar)
+•	 Ceilings (plaster or other heavy material, 
+particularly if suspended)
+•	 Parapets, cornices, turrets, and other projecting 
+decorative elements (unreinforced masonry) 
+•	 Balconies, canopies, marquees, and signs 
+•	 Chimneys and exhaust/ vent stacks (unreinforced 
+masonry)
+•	 Stairways 
+Mechanical, Electrical, and Plumbing Systems
+•	 Boilers, furnaces, pumps, and chillers
+•	 Water and fuel storage tanks
+•	 Plumbing and piping, both nonhazardous and 
+hazardous materials, including sprinkler systems
+•	 Conduits
+•	 Ductwork
+•	 Light fixtures
+•	 Electrical and communication equipment
+Furnishings and Interior Equipment
+•	 Storage racks
+•	 Bookcases
+•	 Filing cabinets
+•	 Hazardous material storage units
+•	 Elevators
+•	 Conveyors
+•	
+Other c
+ontents in museums and historic houses
+Cost and Implementation
+Designing a successful seismic rehabilitation takes 
+into consideration not only seismic performance and 
+historic preservation concerns, but financial ones as well. 
+The rehabilitation of historic buildings often triggers 
+mandated seismic strengthening work to comply with 
+local codes. This often occurs when the amount of work 
+crosses a certain threshold or when the rehabilitation 
+involves a change in use, such as the conversion of an 
+industrial building into a residential use. In these cases, 
+the rehabilitation includes all the work necessary to 
+meet the new programmatic requirements as well as 
+the seismic performance objectives in a “single-stage” 
+project. All the costs and occupancy disruptions are also 
+incurred at one time, and a significant upfront capital 
+investment is required. 
+When budgetary constraints and/or occupancy 
+restrictions do not make a single-stage project 
+feasible, a “multi-stage” project that spreads the cost 
+and occupancy disruptions over a set period of time 
+should be considered. The term used for a planned 
+rehabilitation, implemented over a period of time to 
+meet a predetermined seismic performance objective, 
+is an “incremental rehabilitation.” In an incremental 
+rehabilitation, the work is integrated into ongoing 
+facility maintenance and capital improvement 
+operations. An incremental approach has been shown to 
+have many advantages from a benefit/cost analysis (see 
+FEMA 227, 395, and 399).
+Preparation of Construction Documents and Execution 
+of the Work
+Whether the seismic rehabilitation will be done as a 
+single project or incrementally, construction documents 
+must be prepared. The documents should clearly 
+define the overall scope of the work. In the case of an 
+incremental rehabilitation, the scope and sequence 
+of each phase must also be clearly detailed. A good 
+set of construction documents along with a quality 
+assurance program to ensure that the design is carried 
+out as specified is critical for any successful seismic 
+rehabilitation. It is also critical that the construction 
+documents include details and specifications for the 
+treatment of historic features and materials. Selecting 
+a contractor with a proven record of successful historic 
+rehabilitation work is extremely important. It is also 
+recommended that the project team schedule a meeting 
+with the local building code official to discuss the 
+seismic retrofit approach and to explore potential code 
+compliance alternatives. 
+
+12
+Questions to Ask  
+These questions should be discussed with the team to 
+determine acceptable alternatives. Since there is never a 
+single “right” answer, the design team and code officials 
+should work together to determine the appropriate level of 
+seismic retrofit with the lowest visual impact on significant 
+spaces, features, and finishes on both the interior and 
+exterior of historic buildings. This guide is not intended to 
+prescribe how seismic retrofit should be done, but rather, 
+to illustrate that every physical change to a building will 
+have some consequence. By asking how impacts can be 
+reduced, the owner will have several options from which 
+to choose.
+•	 C
+an bracing be installed without damag
+ing decorative 
+details or the appearance of parapets, chimneys, or 
+balconies?
+•	 Are the visible features of the reinforcement, such as 
+anchor plates/washers or added exterior buttresses 
+adequately designed to blend in with the historic 
+building?
+•	 Can hidden or grouted bolts be used to tie floors and 
+walls together, instead of using traditional bolts and 
+exposed washers or rosettes if they might detract from 
+a building’s historic character?
+•	 Are diagonal frames, such as X- or K-braces or other 
+located to have a minimal impact on the primary 
+facade? Are they set back and painted a receding color 
+if visible through windows or storefronts?
+•	 Can moment frames or reinforced bracing be added 
+around historic storefronts in order to avoid exposed 
+reinforcement, such as X-braces, within the immediate 
+viewing range of the public?
+•	 Can shorter sections of reinforcement be “stitched” 
+into the existing building to avoid removing or 
+covering large sections of historic materials? This is 
+particularly important for the insertion of additional 
+roof framing supports.
+•	 Can shear walls be located in utilitarian interior spaces 
+to reduce the impact on finishes in the primary areas?
+•	 Are there situations where a thinner, applied fiber-
+reinforced coating would adequately strengthen walls 
+or supports without the need for heavier reinforced 
+concrete?
+•	 Can diaphragms be added to non-significant floors in 
+order to protect highly decorated ceilings below, or the 
+reverse if the floor is more ornamental than the ceiling?
+•	 Are there adequate funds to retain, repair, or reinstall 
+ornamental features and finishes once structural 
+reinforcements have been installed?
+•	 Should alternative seismic reinforcement methods 
+such as base isolation, wall damping systems, or core 
+drilling be considered? Could they protect significant 
+features and materials by reducing the amount of 
+intervention required?
+•	 Are the seismic treatments under consideration 
+“reversible” in a way that allows the most amount of 
+historic materials to be retained and allows future 
+repair and restoration?
+•	 Could the seismic rehabilitation add excessive 
+strengthening that could have unintended negative 
+consequences to the historic structure during an 
+earthquake?
+Remediating Seismic Deficiencies 
+Achieving desired building performance objectives 
+depends on the specific occupant needs, site, and 
+building conditions. The particular approaches to 
+achieving this should also be tailored to the unique 
+historic character and conditions of each building, and 
+the specific seismic deficiencies that need to be remedied 
+or mitigated. Most seismic deficiencies and possible 
+required mitigation techniques can be divided into the 
+general categories described here. Although not an 
+exhaustive list, it is intended to provide an overview of 
+the scope of work a building owner or project manager 
+might expect during a seismic rehabilitation.
+Inadequate Global Strength or Stiffness. Historic 
+buildings which were not designed to resist the lateral 
+forces of a ground-shaking event often lack adequate 
+overall strength, or “global strength.” While this is 
+seldom the only deficiency that needs to be mitigated, 
+lack of sufficient global strength makes a building 
+particularly vulnerable during a seismic event. 
+Approaches to mitigating this deficiency often require 
+reinforcing the existing structure or adding structural 
+components to strengthen the building. Mitigating the 
+lack of sufficient overall stiffness, or “global stiffness,” is 
+also necessary in many seismic rehabilitations. While the 
+methods used to improve stiffness are often the same as 
+those used to correct inadequate strength, strength and 
+stiffness are considered separately because they relate 
+to specific building responses. A building may have 
+minimum acceptable strength to prevent its collapse, 
+but if it is too flexible the building may be vulnerable 
+to excessive movement or drift. Too much drift often 
+results in extensive damage to exterior and interior walls 
+and nonstructural components.
+The addition of steel moment frames, braced frames 
+of various configurations, and concrete shear walls are 
+typical methods for increasing the strength and stiffness 
+of a building. Careful placement of new structural 
+elements is critical to avoid negatively affecting 
+windows and doorways, particularly on highly-visible 
+elevations. Alterations to significant interior spaces such 
+
+13
+as lobbies, assembly spaces, and other character-defining 
+spaces should likewise be avoided.
+Building Irregularities. Plan irregularities such as 
+re-entrant corners place extraordinary demands on 
+building elements due to torsional or twisting reactions 
+to the ground-shaking forces of an earthquake. Vertical 
+irregularities create an uneven distribution of the  
+mass or stiffness between the vertical elements of the 
+building which can be particularly problematic in  
+multi-story buildings. The vulnerability to seismic 
+damage that these types of irregularities impose was 
+seldom considered in the original design of many 
+historic buildings, and normally requires retrofit 
+measures to mitigate them. 
+Plan and elevation irregularities are too many to 
+enumerate here. Mitigation measures for this type of 
+deficiency can be challenging to undertake in historic 
+buildings, as some of these irregularities may be 
+important to the building’s historic character. Some of 
+the most problematic solutions involve adding shear 
+walls directly behind window and door openings, 
+particularly when they are on highly-visible elevations. 
+Solutions that involve inserting a new floor or a large 
+mezzanine into an architecturally significant, two-story 
+space should be avoided. 
+Load Path. There should be a positive and continuous 
+load path to convey lateral forces. Inadequate connection 
+between structural and nonstructural components of 
+a building is one of the most critical deficiencies to be 
+addressed in many seismic rehabilitations. Forces acting 
+on building components must be able to be transferred 
+down to the supporting soil. For example, in order to 
+resist the forces of an earthquake, a panel of cladding 
+must be adequately connected to the floor, walls, frames, 
+braces, and other structural members that connect it to 
+the building’s foundation. 
+A strong connection between all of the elements of the 
+building allows for the transfer of the stressing forces 
+down to the foundation, where it is absorbed by the 
+soil. Breaks or failures along this load path render 
+any existing seismic system ineffective. Methods for 
+mitigating load path deficiencies range from simple 
+reinforcement measures such as adding metal straps, 
+threaded bolts, and other mechanical fasteners to more 
+elaborate engineered connections. Adequate connections 
+between walls, roof, floors, and foundation are critical, 
+as well as between the components of all the vertical and 
+horizontal structural components of the building such as 
+joist to beams or walls, and columns to beams and floors 
+or footings. 
+Diaphragms. Floors and roofs are commonly referred to 
+as “diaphragms” in seismic design. Diaphragms act as 
+horizontal “beams” between the vertical elements (walls 
+and/or columns) that resist the lateral forces during 
+an earthquake. Inadequate shear, bending strength, 
+and stiffness are some of the most common diaphragm 
+deficiencies. Strengthening methods for diaphragms 
+can entail adding sheathing to roofs or floors, installing 
+tension rods in shallow-vaulted concrete floors, and 
+various other methods. 
+Reinforcement around openings, re-entrant corners, 
+and mitigation of other plan irregularities may also 
+be necessary. Ensuring proper transfer of the lateral 
+earthquake forces spread over the diaphragm to the 
+lateral force-resisting system (vertical elements of 
+the structure) is also an important component of a 
+seismic retrofit. Adequate diaphragm “collectors,” 
+structural elements that collect the lateral force and 
+transfer it to the lateral force-resisting system, need 
+to be strengthened or added to compensate for any 
+deficiencies in the existing construction. 
+Foundations. Foundation deficiencies can vary greatly 
+and include deficiencies within the foundation system 
+itself or with the soil conditions. Foundation deficiencies 
+are independent of building or construction type, and 
+remedial work can include replacing or upgrading the 
+existing foundation, adding a new foundation next to 
+the existing one, or adding new pilings or drilled piers. 
+While often expensive and disruptive to correct or 
+mitigate, foundation deficiencies are critical to address. 
+Remediating Seismic Deficiencies According 
+to Building Construction Type
+Unreinforced Masonry Bearing Wall. Unreinforced 
+masonry (URM) buildings are most commonly brick 
+or stone without steel reinforcement bars imbedded in 
+them. In many historic buildings of this type, masonry 
+bearing walls support the weight of the roof and floors. 
+Joists bear directly on the wall at the perimeter of the 
+building and are supported by post and beams on the 
+interior. Unreinforced masonry is one of the oldest and 
+most diverse construction types and encompasses a 
+wide range of materials and wall construction methods 
+such as solid clay brick, cut or field stone, hollow-clay 
+brick, structural tile, concrete masonry units, and adobe. 
+URM buildings are generally considered to be some 
+of the most susceptible to earthquake damage. In 
+strong earthquakes, the walls may fall outward and 
+cause a partial or total collapse of the building. Poor 
+connection between the exterior walls and diaphragms 
+severely impair the capacity of a URM building to resist 
+an earthquake, and thus it is important that this be 
+remediated. Other significant hazards that can be life 
+threatening are falling debris from parapets, cornices, 
+chimneys, or other nonstructural elements. 
+A basic seismic rehabilitation program for a URM 
+building may involve bracing the parapets and 
+chimneys, and securing other elements that can break 
+away from the building, as well as securing the walls to 
+the floors and roof. Engineering analysis of the structure 
+
+14
+may indicate that additional reinforcement of the roof 
+and floor may be necessary. This may be accomplished 
+by adding columns or shear walls in order to adequately 
+transfer lateral loads to the ground. 
+Preventing the collapse of the walls, particularly load-
+bearing walls, is critical in URM buildings. This entails 
+strengthening the walls through various methods such 
+as adding strongbacks, or secondary support members, 
+to the wall; adding a layer of steel-reinforced concrete; 
+adding shotcrete bonded to the URM wall; core drilling; 
+or adding a fiber composite layer (epoxy embedded 
+fiberglass mesh). Adding interior wall bracing or 
+inserting vertical steel bars embedded in grout into 
+the wall itself are also widely-used wall reinforcement 
+methods. These techniques must be carefully evaluated 
+to balance building performance and preservation 
+objectives (Figures 21-27).
+Figure 21. Epoxy-embedded fiberglass 
+mesh is being bonded to the back of the 
+brick pilasters of this 1906 unreinforced 
+masonry building. New finishes 
+matching the appearance and detailing 
+of the original finishes will be applied 
+over the mesh. Photo: Wiss, Janney, 
+Elstner and Associates, Inc.
+Figure 22. A new steel stud wall is 
+being added to one side of this interior 
+hollow-clay tile wall. The side with the 
+least amount of historic finishes was 
+chosen as the least disruptive location for 
+the added reinforcement. The wall will 
+be returned to its original appearance 
+by installing new finishes matching the 
+historic finishes. Photo: Wiss, Janney, 
+Elstner and Associates, Inc.
+Concrete Frame. Most historic concrete building 
+assemblies consist of concrete columns and floor 
+systems of various types (flat slabs, two-way slabs, and 
+beam-and-slab). Exterior and interior walls are often 
+unreinforced masonry, commonly called infill, and 
+are typically nonstructural, presenting the deficiencies 
+described previously. The most important structural 
+vulnerability of this construction type is the lack of 
+ductility. Prior to 1960, building codes may not have 
+required concrete-frame buildings to be designed 
+and detailed for ductile performance (i.e., not fail 
+when loaded beyond capacity) to resist lateral forces, 
+depending on the region. Concrete-frame buildings were 
+required to be “ductile” in the 1976 Uniform Building 
+Code. In many historic concrete-frame buildings, 
+because the connection between the columns and beams 
+is not strong enough to resist the lateral loads during an 
+earthquake, the buildings are in danger of collapsing. 
+Particularly vulnerable buildings of this type are those 
+with relatively few concrete walls and columns that 
+are weaker than the beams or slabs. Mitigating this 
+condition is typically accomplished by adding a new 
+system, such as shear walls (Figure 28).
+
+15
+Figure 23. Historic wine cellar 
+building in Napa, California.
+Figure 24. Drawing of the wine 
+cellar’s front wall showing the 
+locations of the center cores for 
+continuous steel reinfor
+cement 
+rods to be inserted and grouted 
+in place.
+Figure 25. View of one of the center cores 
+drilled down through the wall.
+Figure 26. Eye bolts used to anchor the 
+floor to the wall.
+Figure 27. Location of the eye bolts 
+after grouting
+The seismic rehabilitation of this 
+historic wine cellar building shown 
+in Figure 23 included center coring 
+of the exterior stone walls to add steel 
+reinforcement, as illustrated in Figures 
+24 and 25. The floors were tied to the 
+steel reinforcement in the walls using 
+eye bolts, as seen in Figures 26 and 
+27, eliminating the need for exterior 
+washers or plates. Figure 23 Photo: 
+Architectural Resources Group. Figures 
+24-27 Photos: MKM & Associates.
+
+16
+Figure 28. Steel 
+reinforcement for the new 
+sheer walls, perpendicular 
+to the windows, is being 
+installed in this concrete-
+frame building. 
+Photo: Robert Chattel.
+Steel Frame. This type of construction consists of a 
+complete frame of steel columns and beams. Floors 
+are usually concrete slabs or metal decks filled 
+with concrete. Exterior walls can be reinforced or 
+unreinforced masonry, architectural terra cotta, glass 
+curtain walls, or other types of construction. Mitigating 
+the seismic deficiencies of the nonstructural elements 
+must be done according to their construction methods. 
+Steel-frame construction is used in a wide variety of 
+building types such as offices, hospitals, government, 
+and academic buildings, as well as industrial and other 
+utilitarian structures. This type of construction started 
+to gain widespread use in the latter part of the 19th 
+century. 
+There are two general categories of steel-frame 
+construction: Steel moment frame, which consists of 
+steel columns and beams with rigid connections using 
+angles and plates that can be riveted, welded, or bolted 
+together; and braced frame. Braced-frame structures 
+have diagonal steel members placed in selected bays of 
+the structure to improve the lateral force resistance of 
+the overall structure, whereas moment frames rely on 
+the strength of rigid corner connections to resist lateral 
+forces.
+Steel-frame buildings, particularly braced-frame 
+buildings, have superior seismic performance over other 
+construction methods. Moment-frame buildings are very 
+elastic during seismic activity, and, although they are 
+able to withstand strong lateral forces, they are subject 
+to significant movement between stories, or interstory 
+drifts, and are also prone to pounding on adjacent 
+buildings. Their flexibility can also result in damage to 
+structural connections as well as to interior walls and 
+cladding.
+Large interstory drifts may make steel-frame buildings 
+more difficult to repair after an earthquake. Typical 
+remedies to improve the stiffness of steel-frame 
+buildings include adding new concrete shear walls 
+or brace frames, or adding steel cover plates to the 
+existing steel columns. The latter technique may not 
+be recommended if it requires significant removal or 
+damage to existing historic features or finishes. 
+Light Wood Frame. Light wood-frame construction 
+is common in much residential and small commercial 
+building construction. It includes both post-and-beam 
+construction as well as stud-wall construction. Life-
+safety performance of light wood-frame construction 
+during an earthquake is typically very good. The 
+most common seismic deficiency of this building type 
+is the lack of, or poor, anchorage of the walls to the 
+foundation, deterioration of existing structural fasteners, 
+and/or an insufficient number of fastened connections. 
+Inadequate strength of the lower stories in multi-story 
+buildings may also be a vulnerability. In many dwellings 
+this includes structures resting on intermittent wood or 
+masonry piers, unfinished garages, and/or crawlspaces. 
+
+17
+Unbraced cripple walls and poor foundation anchorage 
+are common vulnerabilities in many one-and two-
+family detached dwellings of one or more stories. In 
+these buildings, interior walls usually provide sufficient 
+bracing to resist lateral loads during a seismic event, but 
+the crawlspace often only has perimeter framing which 
+may become highly stressed and collapse during an 
+earthquake. Adequate anchorage to the foundation in 
+wood-frame dwellings prevents them from sliding off 
+their foundation. Mitigating the lack of adequate bracing 
+of cripple walls and proper foundation anchoring are 
+high priority seismic rehabilitation measures in light 
+wood-frame buildings (Figure 29).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 29. Cripple-wall reinforcement. Simple approaches such as 
+nailing plywood between crawlspace studs, bolting sill plates to the 
+foundation, and strapping the cripple wall to the floor above can make 
+a dramatic difference in protecting a building from seismic damage.
+Multi-story, multi-unit residential wood-frame buildings 
+with parking, common areas, or commercial uses on 
+the ground floor are a sub-category of this construction 
+type that is also very susceptible to damage during 
+earthquakes. The upper floors of these buildings 
+typically have a repetitive interior layout which 
+gives them uniform strength and stiffness. The lower 
+floors however, because they typically have larger 
+exterior openings and may have more varied interior 
+configurations and large open spaces, often create a 
+“weak story” condition (Figure 30).
+Figure 30. Large perimeter openings and a limited number of interior 
+partitions on the ground floor can create a “weak story” condition 
+that makes buildings particularly vulnerable to earthquake damage. 
+Photo: USGS.
+Seismic rehabilitation requirements for one-and  
+two-family residential and other small-scale buildings 
+commonly include securing chimneys and correcting 
+other life-safety nonstructural deficiencies, such as 
+bolting the sill plate to the foundation and adding 
+plywood sheathing to reinforce knee walls. Structures 
+built over intermittent wood or masonry piers are also 
+vulnerable during earthquakes. Providing connection 
+between the piers or installing a new continuous support 
+element of adequate strength under the walls is often 
+required. Large exterior openings such as garage doors 
+or structural irregularities such as cantilevers must also 
+be evaluated and mitigated. In the case of multi-story 
+apartment buildings with a soft or weak story, additional 
+steel frames or masonry shear walls may be necessary 
+to give adequate strength to the ground floor (see FEMA 
+P-807).
+Seismic Isolation and Energy Dissipation 
+Systems
+Seismic isolation and energy dissipation systems are 
+relatively new, highly sophisticated methods that require 
+extensive design and engineering analysis. Seismic 
+isolation systems involve disconnecting, or greatly 
+reducing, the transmission of the seismic forces from 
+the ground to the building. Energy dissipation methods 
+involve either passive or active energy dissipation 
+devices that dampen the effects of the lateral and vertical 
+motion of an earthquake. Energy dissipation systems 
+are sometimes used in tall buildings where installing 
+seismic isolation systems may not be feasible. However, 
+implementing either of these systems is often too costly 
+or impractical for most seismic rehabilitations of historic 
+buildings.
+Important Preservation Considerations
+Reinforcing the connection between various structural 
+and nonstructural elements, installing new structural 
+elements, and performing other seismic rehabilitation 
+work may require selective removal of historic wall and 
+ceiling finishes. Attention should be given to minimize 
+the amount of historic material removed, as well as 
+performing the necessary repair or replacement of the 
+historic features and finishes after the seismic work is 
+completed. 
+Completely removing a character-defining feature such 
+as a chimney, cornice, or parapet in order to mitigate its 
+seismic vulnerability is not a recommended treatment. 
+
+18
+Instead, such building elements should be braced and 
+secured whenever possible. If a significant architectural 
+feature has sustained earthquake damage, it should 
+be repaired rather than removed. If the damage is 
+so extensive that it requires complete replacement, 
+using in-kind replacement materials is generally the 
+recommended approach. In some circumstances, 
+however, a compatible substitute material that meets 
+technical performance requirements may be appropriate, 
+such as a lighter weight material that matches the 
+original in design and appearance. 
+Historic corridor walls constructed of unreinforced 
+masonry, hollow-clay tile in particular, need careful 
+consideration. Every effort should be made to retain 
+the historic materials while taking measures to secure 
+the wall and the historic materials to prevent them 
+from the possibility of injuring occupants or blocking 
+an egress path. Every available reinforcement method 
+and technique that allows the corridor walls and their 
+historic materials and detailing to be preserved in place 
+should be considered. If retention of the core masonry 
+elements is not feasible, but there are extant features 
+and finishes, such as a marble wainscot, doors and 
+transoms, wood trim, or other features, they should be 
+retained, even if they have to be reinstalled over a new 
+framing structure for the corridor that replicates the 
+ceiling height, corridor width, and the relationship and 
+installation details of the historic features. 
+Post-Earthquake Issues 
+In most municipalities, a survey or inspection, usually 
+by professionals or trained volunteers, will be conducted 
+as soon as possible after an earthquake, and buildings 
+will be tagged on the front with a posted notice stating 
+whether they are safe to enter. Typically red, yellow, 
+and green tags are used to indicate varying levels 
+of damage—no entry, limited entry, and useable, 
+respectively—and their relative safety. Heavily-
+damaged areas are often secured and determined 
+off-limits, and, unfortunately, many red-tagged, but 
+repairable, buildings have been torn down unnecessarily 
+because owners were unable to evaluate and develop 
+a stabilization plan in time. Owners or members of 
+the preservation community may engage their own 
+engineers with specialized knowledge to challenge a 
+demolition order. 
+During times of emergencies, many communities, 
+banks, and insurance agencies will not be in a position 
+to evaluate alternative approaches to dealing with 
+damaged historic buildings. Therefore, they often 
+require full compliance with codes for new construction 
+for the major rehabilitation work required. Because 
+seismic aftershocks may further damage a weakened 
+building, the inability to act quickly—even to shore up 
+or stabilize the structure on a temporary basis—can 
+result in the building’s demolition. 
+Penetrating rain, uneven settlement, vandalism, 
+and continuing aftershocks can easily undermine a 
+building’s remaining structural integrity. Moreover, 
+the longer a building is unoccupied or non-income-
+producing, the sooner it is likely to be torn down in a 
+negotiated settlement with the insurance company. All 
+of these factors work against saving buildings damaged 
+in earthquakes. Thus, having a recovery plan already in 
+place is highly recommended.
+Having an established emergency plan, complete with 
+access to plywood, tarpaulins, bracing timbers, and 
+equipment, will allow quick action to save a building 
+following an earthquake. Technical assistance programs 
+are available from the federal government after a natural 
+disaster. Grant funds or low-cost loans from federal, 
+state, and Congressional special appropriations are 
+targeted for qualified properties, which can help offset 
+the cost of rehabilitation (see information about FEMA).
+Summary
+Recognizing the seismic vulnerability of historic 
+buildings is an important step toward saving and 
+protecting the built heritage in earthquake-prone areas. 
+Vulnerability resulting from lack of maintenance and 
+improper repairs that weaken the structural integrity of a 
+building must not be overlooked. Even prior mitigation 
+work can become ineffective over time if buildings are 
+not adequately maintained. Unlike many other natural 
+disasters, earthquakes come with no warning and can 
+result in devastating loss of life and property. Therefore, 
+preparedness cannot be overemphasized.
+Damage to historic buildings after an earthquake can 
+be as great as the initial damage from the earthquake 
+itself. The ability to act quickly to shore up and stabilize 
+a building and to begin its sensitive rehabilitation is 
+imperative. Communities without earthquake-hazard-
+reduction plans in place put their historic buildings—as 
+well as the safety and economic well-being of their 
+communities—at risk.
+Simple measures such as bracing parapets and 
+chimneys, tying buildings to foundations, and anchoring 
+brick walls to floors and the roof, are extremely effective 
+mitigation measures. However, even simple measures 
+such as these can cause damage to historic materials 
+or impact the visual qualities of a historic building 
+when not properly executed. For this reason, engaging 
+qualified and experienced professionals and workers 
+when undertaking seismic retrofit work is important. 
+Finally, modern research has helped develop various 
+new seismic retrofit techniques that, added to more 
+traditional methods, provide many approaches to 
+strengthen buildings in earthquake-prone areas. These 
+techniques must be carefully evaluated and chosen so 
+that the process of mitigating potential seismic damage 
+avoids unnecessary removal of historic materials and 
+retains the character of historic properties.
+
+19
+Glossary 
+BASE ISOLATION: Also referred to as Seismic Base Isolation 
+or Base Isolation System, is a technique aimed at isolating or 
+separating a building or structure from the movement caused by 
+earthquakes by means of a flexible layer between the foundation 
+and the vertical supports.
+BRACED FRAME:  Essentially, a vertical truss, or its equivalent, 
+added to a building frame to resist lateral forces.
+COLLECTOR: A member or element provided to transfer lateral 
+forces from a portion of a structure to vertical elements of the 
+lateral force-resisting system (also called a drag strut).
+CORE DRILLING: A vertical reinforcement system that relies 
+on drilling a continuous vertical core that is filled with steel 
+reinforcing rods and grouting to resist in-plane or out-of-plane 
+bending.
+CRIPPLE WALL: A short wall between the foundation and the 
+first-floor framing.
+DAMPING: The internal energy absorption characteristic of a 
+structural system that acts to attenuate induced free vibration.
+DIAGONAL BRACES: Inclined components designed to carry 
+axial loads, enabling a structural frame to act as a truss to resist 
+lateral forces.
+DIAPHRAGM: A horizontal, or nearly horizontal, system 
+designed to transmit lateral forces to the vertical elements of the 
+lateral force-resisting system. The term “diaphragm” includes 
+horizontal bracing systems.
+FIBER WRAP REINFORCEMENT: A synthetic compound of 
+filaments that increase the shear capacity of structural members. 
+DUCTILITY: The ability of a structure or element to dissipate 
+energy inelastically when displaced beyond its elastic limit 
+without a significant loss in load-carrying capacity.
+FAULT RUPTURE: A break in the ground along the fault line 
+during an earthquake.
+GLOBAL STRENGTH: 
+The lateral strength of the vertical 
+oriented lateral force-resisting system at the effective global 
+yield point.
+GLOBAL STIFFNESS: The stiffness of the entire lateral force-
+resisting system.
+GROUTED BOLTS: Anchor bolts set in a grout mixture. 
+INTERSTORY DRIFT: The displacement of one floor level 
+relative to the floor level above or below.
+LATERAL FORCE-RESISTING SYSTEM: The part of the 
+structural system assigned to resist lateral forces.
+LIQUIFACTION: A condition where the soil underneath or 
+around the building loses cohesive strength and behaves like a 
+liquid during an earthquake.
+LIFE SAFETY: Providing a level of assurance that risk of loss 
+of life is kept to minimal levels. For buildings, this includes 
+strengthening to reduce l) structural collapse, 2) falling debris, 
+3) blocking exits or emergency routes, and 4) prevention of 
+consequential fire. 
+MOMENT FRAME: A structural frame system in which seismic 
+shear forces are resisted by shear and flexure in members and 
+joints of the frame.
+POUNDING: The action of two adjacent buildings coming 
+into contact with each other during an earthquake as a result 
+of their close proximity and differences in dynamic response 
+characteristics.
+RE-ENTRANT CORNER: A corner on the exterior of a building 
+that is directed inward such as the inside corner of an L-shaped 
+building, where the two perpendicular portions of the building 
+meet.
+SEISMIC REHABILITATION: Modifications to existing 
+components, or installation of new components, that correct 
+deficiencies identified in a seismic evaluation to achieve a selected 
+rehabilitation objective.
+SHEAR WALL: A wall, bearing or nonbearing, designed to resist 
+lateral forces acting in the plane of the wall.
+SHOTCRETE: Concrete that is pneumatically placed on vertical 
+or near vertical surfaces, typically with a minimal use of forms.
+SOFT STORY: A story in which the lateral stiffness is less than 70 
+percent of the stiffness of the story above.
+STRUCTURE: An assemblage of framing members designed to 
+support gravity loads and resist lateral forces. Structures may be 
+categorized as building structures or non-building structures.
+WEAK STORY: A story in which the lateral strength is less than 
+80 percent of that in the story above.
+Federal Emergency Management Agency (FEMA)
+In March 2003, FEMA and 22 other federal agencies, programs 
+and offices became part of the Department of Homeland Security. 
+FEMA’s role and mission continues to focus on building, 
+sustaining, and improving the nation’s capacity to prepare 
+for, protect against, respond to, recover from, and mitigate all 
+hazards. FEMA offers a variety of earthquake-related resources 
+including reports, handbooks, guides, manuals, software, web-
+based tools, and instructional materials. These documents contain 
+nationally-applicable technical criteria intended to ensure that 
+buildings will withstand earthquakes better than before. There is 
+a great deal of information that is applicable to historic buildings, 
+although they are not necessarily identified as a separate category. 
+Most of the information is available online at www.fema.gov/
+earthquake. Information on how to obtain hard copies may be 
+found on the web site. 
+National Earthquake Hazards Reduction Program (NEHRP)
+The National Earthquake Hazards Reduction Program (NEHRP) 
+leads the federal government’s efforts to reduce the fatalities, 
+injuries, and property losses caused by earthquakes. Congress 
+established NEHRP in 1977, directing that four federal agencies 
+coordinate their complementary activities to implement and 
+maintain the program. These agencies are FEMA, the National 
+Institute of Standards and Technology (NIST), the National 
+Science Foundation (NSF) and the U.S. Geological Survey (USGS). 
+More information about NEHRP is available online at www.
+nehrp.gov.
+
+References
+Agbabian, M.F. Masri, and R.L. Nigbor. “Evaluation of Seismic 
+Migration Measures for Art Objects.” Getty Conservation Institute 
+Scientific Program Report (1990).
+American Society of Civil Engineers. Seismic Rehabilitation of 
+Existing Buildings. ASCE/SEI Standard 41-13 (2014). Reston, VA.
+California Historical Building Code, California Code of 
+Regulations. Title 24, Part 8. California Building Standards 
+Commission, 2010.
+Federal Emergency Management Agency (FEMA). A Benefit-Cost 
+Model for the Seismic Rehabilitation of Buildings. FEMA 227 (1992). 
+Washington, DC.
+FEMA. Engineering Guideline for Incremental Seismic Rehabilitation. 
+FEMA P-420 (2009). Washington, DC.
+FEMA. Incremental Seismic Rehabilitation of Retail Buildings.  
+FEMA 399 (2014). Washington, DC.
+FEMA. Incremental Seismic Rehabilitation of School Buildings.  
+FEMA 395 (2003). Washington, DC.
+FEMA. Seismic Evaluation and Retrofit of Multi-Unit Wood-Frame 
+Buildings With Weak First Stories. FEMA P-807 (2012).  
+Washington, DC.
+FEMA. Techniques for the Seismic Rehabilitation of Existing Buildings. 
+FEMA 547 (2007). Washington, DC. 
+International Code Council (ICC). International Existing Building 
+Code (2015). Falls Church, VA.
+National Park Service (NPS). Museum Handbook, Part I, Museum 
+Collections, Chapter 10, Emergency Planning. 
+http://www.nps.
+gov/museum/publications/MHI/CHAP10A-B.pdf
+Acknowledgements
+Antonio Aguilar, Senior Historical Architect, Technical Preservation Services, National Park Service, revised Preservation Brief 41: The 
+Seismic Retrofit of Historic Buildings: Keeping Preservation in the Forefront, originally written by David W. Look, AIA, Terry Wong, PE, 
+and Sylvia Rose Augustus and published in 1997. The revised Brief contains expanded and updated information as well as new color 
+photographs describing the general issues and needs associated with the seismic rehabilitation of historic buildings. 
+The author wishes to thank the following: Melvyn Green, SE, Melvyn Green & Associates, Inc., for his guidance and expertise in the 
+revision of the Brief; Stephen Day, AIA, Stephen Day Architecture, Andrew Phillips, Associate Architect, SMR Architects, and Meredith 
+Wirsching, NCARB, for their input in the initial planning of the revision;  Alan Dreyfuss, AIA, Wiss, Janney, Elstner Asssociates, 
+Inc., Loring A. Wyllie Jr., Senior Principal, Degenkolb Engineers, Timothy Brandt, AIA, Senior Restoration Architect, and Mark C. 
+Huck, AIA, Restoration Architect, from the California Office of Historic Preservation, Nicholas Vann, AIA, State Historical Architect, 
+Washington Department of Archaeology & Historic Preservation, Sueann Brown, Regional Historical Architect, Pacific West Region, 
+and Jason Hagin, Historical Architect, Golden Gate National Recreational Area, National Park Service, for their assistance in reviewing 
+various drafts of the brief; and to Charles Fisher, Brian Goeken, Anne Grimmer, Elizabeth Milnarik, and Gary Sachau, Technical 
+Preservation Services, National Park Service, for their help in the final edits of the publication. Illustrations not specifically credited 
+are from National Park Service files. Front cover image: Damage to a ca. 1910 building in Napa, California caused by the South Napa 
+earthquake in 2014. Photo: Wiss, Janney, Elstner and Associates, Inc.
+This publication has been prepared pursuant to the National Historic Preservation Act of 1966, as amended, which directs the Secretary 
+of the Interior to develop and make available information concerning historic properties. This publication is available from the 
+Technical Preservation Services website at http://www.nps.gov/tps/ or hard copies may be purchased from the Government Printing 
+Offices at the U.S. Government Bookstore. 
+Comments about this publication should be addressed to: Technical Preservation Services, National Park Service, 1849 C Street, NW, 
+Washington, DC 20240. This publication is not copyrighted and can be reproduced without penalty. Normal procedures for credit to 
+the authors and the National Park Service are appreciated. The photographs used in this publication may not be used to illustrate other 
+publications without permission of the owners.
+Section 508 Compliant PDF, June 2016

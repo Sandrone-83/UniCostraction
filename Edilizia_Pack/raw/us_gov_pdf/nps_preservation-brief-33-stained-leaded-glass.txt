@@ -1,0 +1,1313 @@
+1
+33
+PRESERV ATION
+BRIEFS
+The Preservation and Repair of 
+Historic Stained and Leaded Glass
+Neal A. Vogel and Rolf Achilles
+National Park Service
+U.S. Department of the Interior
+Heritage Preservation Services
+“Stained glass” can mean colored, painted or enameled glass, 
+or glass tinted with true glass “stains.”  In this Brief the 
+term refers to both colored and painted glass.  “Leaded glass” 
+refers generically to all glass assemblies held in place by lead, 
+copper, or zinc cames.  Because the construction, protection, 
+and repair techniques of leaded glass units are similar, 
+whether the glass itself is colored or clear, “stained glass” and 
+“leaded glass” are used interchangeably throughout the text.  
+Glass is a highly versatile medium.  In its molten 
+state, it can be spun, blown, rolled, cast in any shape, 
+and given any color.  Once cooled, it can be polished, 
+beveled, chipped, etched, engraved, or painted.  Of 
+all the decorative eﬀ ects possible with glass, however, 
+none is more impressive than “stained glass.”  Since 
+the days of ancient Rome, stained glass in windows 
+and other building elements has shaped and colored 
+light in inﬁ nite ways.  
+Stained and leaded glass can be found throughout 
+America in a dazzling variety of colors, patt erns, and 
+textures (Fig. 1).  It appears in windows, doors, ceilings, 
+fanlights, sidelights, light ﬁ xtures, and other glazed 
+features found in historic buildings (Fig. 2).  It appears in 
+all building types and architectural styles—embellishing 
+the light in a great cathedral, or adding a touch of 
+decoration to the smallest rowhouse or bungalow.  A 
+number of notable churches, large mansions, civic 
+buildings, and other prominent buildings boast 
+windows or ceilings by LaFarge, Tiﬀ any, Connick, or 
+one of many other, lesser-known, American masters, 
+but stained or leaded glass also appears as a prominent 
+feature in great numbers of modest houses built between 
+the Civil War and the Great Depression.
+This Brief gives a short history of stained and leaded 
+glass in America.  It also surveys basic preservation 
+and documentation issues facing owners of buildings 
+with leaded glass.  It addresses common causes of 
+deterioration and presents repair, restoration, and 
+protection options.  It does not oﬀ er detailed advice 
+on speciﬁ c work treatments.  Glass is one of the most 
+durable, yet fragile building materials.  While stained 
+glass windows can last for centuries, as the great 
+cathedrals of Europe att est, they can be instantly 
+destroyed by vandals or by careless workmen.  Extreme 
+care must therefore be exercised, even in the most 
+minor work.  For this reason, virtually all repair or 
+restoration work undertaken on stained and leaded 
+glass must be done by professionals, whether the 
+feature is a magniﬁ cent stained glass window or a clear, 
+leaded glass storefront transom.  Before undertaking 
+any repair work, building owners or project managers 
+should screen studios carefully, check references, inspect 
+other projects, and require duplicate documentation 
+of any work so that full records can be maintained.  
+Consultants should be employed on major projects.
+Figure 1.  This door and transom suggest the richness of 19th 
+century leaded glass.  Photo:  Jack E. Boucher, HABS.
+
+2
+Historical Background
+Glassblowers were among the founders of Jamestown in 
+1607, and early glass manufacturing was also att empted 
+in 17th-century Boston and Philadelphia.  Dutch 
+colonists in the New Netherlands enjoyed painted oval 
+or circular medallions that bore the family’s coat of arms 
+or illustrated Dutch proverbs.  German colonists in the 
+mid-Atlantic region also began early glass ventures.  
+Despite the availability of good natural ingredients, 
+each of these early American glassmakers eventually 
+failed due to production and managerial diﬃ  culties.  
+As a result, colonists imported most of their glass from 
+England throughout the 17th and 18th centuries.
+Social values as well as high costs also restricted the 
+use of stained and other ornamental glass.  This was 
+particularly true with regard to churches.  The Puritans, 
+who sett led New England, rejected the religious imagery 
+of the Church of England, and built simple, unadorned 
+churches with clear glass windows.  Less than 1% of 
+the Nation’s stained and leaded glass predates 1700.  
+Considering the enormous loss of 17th-, 18th-, and early 
+19th-century buildings, any window glass surviving 
+from these periods is very signiﬁ cant (Fig. 3).  Every 
+eﬀ ort should be made to document and preserve it.
+Figure 2.  Components of a leaded glass window. 
+Figure 3.  The entrance to the Morris-Jumel Mansion, New York 
+City, is one of the earliest surviving installations of stained glass 
+in the country.  It features a fanlight and sidelights of large clear 
+roundels and small bulls-eyes of red and orange glass tinted with 
+silver stains from ca. 1810.  Photo:  Ken Moss.
+Anatomy of a 
+Leaded Window
+Despite many failed starts, the War of 1812, and 
+British competition, American glass production 
+increased steadily throughout the 19th century.  
+Stained glass was available on a very limited basis in 
+America during the ﬁ rst quarter of the 19th century, 
+but American stained glass did not really emerge 
+in its own right until the 1840s.  The windows at 
+St. Ann and the Holy Trinity Episcopal Church in 
+Brooklyn, New York, made by John and William 
+Jay Bolton between 1843 and 1848, are perhaps 
+the most signiﬁ cant early American stained glass 
+installation (Fig. 4).  Other important early stained 
+glass commissions were the glass ceilings produced 
+by the J. & G. H. Gibson Company of Philadelphia for 
+the House and Senate chambers of the United States 
+Capitol in 1859.
+America’s glass industry boomed during the second 
+half of the 19th century.  (And although stained and 
+leaded glass is found nationwide, the manufacturing 
+was based in the Northeast and Midwest, where 
+good natural ingredients for glass, and coal reserves 
+
+3
+for the kilns were available.  Moreover, nearly all of 
+the nationally renowned studios were based in major 
+metropolitan areas of the central and northeastern 
+states--near the manufacturers that supplied their raw 
+materials.)  In response to this growth, the industry 
+formed self-regulating associations that established 
+guidelines for business and production.  In 1879 
+the Window Glass Association of America was 
+established, and in 1903 The National Ornamental Glass 
+Manufacturers’ Association, precursor of the Stained 
+Glass Association in America, was formed.
+Figure 4.  The windows at St. Ann and the Holy Trinity Episcopal 
+Church, Brooklyn, New York, were made between 1843-1849 by John 
+and William Jay Bolton.  Photo:  Leland A. Cook.
+The 60 years from about 1870 to 1930 were the high 
+point for stained glass in the U.S.  In the early years, 
+American stylistic demands reﬂ ected those current 
+in Europe, including various historic revivals, and 
+aesthetic and geometric patt erns.  American patt erns 
+prevailed thereaft er; they tended to be more vivid, 
+brash, and bold (Fig. 5).
+Figure 5.  Stained glass is an exterior feature as well as an interior 
+one.  As part of any preservation project, stained glass should be 
+photographed from the exterior as well as the interior.  
+Aft er the 1893 Columbia World’s Exposition, the Art 
+Nouveau Style became the rage for windows.  Sinuous 
+nymphs, leggy maidens, whiplashed curves, lilies, and 
+brambles became standard subjects until World War I.  
+Among the leading proponents of the Art Nouveau 
+Style were glassmakers John LaFarge and Louis Comfort 
+Tiﬀ any.  Both men experimented independently 
+throughout the 1870s to develop opalescent glass, which 
+LaFarge was ﬁ rst to incorporate into his windows.  
+Tiﬀ any became the bett er-known, due in part to his 
+proliﬁ c output.  
+He att racted world-class artists and innovative 
+glassmakers to his studio.  Today, “Tiﬀ any” remains a 
+household name.  His favorite and most popular scenes 
+were naturalistic images of ﬂ owers, colorful peacocks 
+and cockatiels, and landscapes at sunrise and sunset 
+(Fig. 6).  LaFarge, while appreciated in his own day, 
+gradually slid into relative obscurity, from which he has 
+emerged in recent decades.  Tiﬀ any and LaFarge are the 
+greatest names in American stained glass.  
+In dramatic contrast to the American Art Nouveau style 
+was the Neo-Gothic movement that became so popular 
+for church and university architecture across the country.  
+Charles J. Connick was a leading designer of medieval-
+style windows characteristic of the style (Fig. 7).
+Advocates of the Prairie Style, of whom Frank Lloyd 
+Wright is the best known, rejected Tiﬀ any’s naturalistic 
+scenes and Connick’s Gothic imitations. (Fig. 8).  
+Wright’s rectilinear organic abstractions developed 
+simultaneously with the similar aesthetic of the various 
+European Secessionists.  The creation of this style was 
+aided by the development of zinc and copper cames 
+in 1893.  These cames—much stiﬀ er than lead—made 
+it possible to carry out the linear designs of Prairie 
+School windows with fewer support bars.  At ﬁ rst, these 
+windows had only an elitist following, but they were 
+soon widely accepted and proliferated during the early 
+20th century.  
+By 1900, stained and leaded glass was being mass-
+produced and was available to almost everyone.  
+Leading home journals touted leaded glass windows for 
+domestic use, and a nationwide building boom created 
+an unprecedented demand for stained and leaded art 
+glass windows, door panels, and transoms.  Mail order 
+catalogs from sash and blind companies appeared, 
+
+some oﬀ ering over 100 low-cost, mass produced designs 
+(although the same catalogs assured buy
+ers that their 
+leaded glass was “made to order”) (Fig. 9).  
+Figure 6.  This 1907 landscape window is typical of those produced 
+by Tiﬀ any Studios.  Characteristics include the use of opalescent 
+glass, intricate leading and organic copper foil work, acid-etching, 
+plating (i.e., several layers of glass), and a sense of perspective.  
+Figure 7.  Charles J. Connick was another American master of 
+stained glass.  He worked in a modernized Neo-Gothic style.  This 
+window is fr
+om 1921.  Photo:  Diana Kincaid.
+Figure 8.  This 1902 window by Henry Webster Tomlinson 
+reﬂ ects the Prairie School philosophy of providing 
+ornamentation while retaining a view through the window.   
+4
+The fading popularity of the ornate Victorian styles, 
+combined with inferior materials used for mass 
+production, essentially eliminated the production 
+of quality leaded glass.  The last mail order catalogs 
+featuring stained glass were published in the mid-1920s, 
+and tastes changed to the point that the 1926 House 
+Beautiful Building Annual declared:  “the crude stained 
+glass windows in many of the Mansard-roof mansions 
+of the ‘eighties [1880s] prove how dreadful glass can be 
+when wrongly used.”  
+Some creative eﬀ orts expanded leaded glass media in new 
+directions.  Lead-overlay or “silhouett e” glass was one 
+novelty that climaxed in the late 1920s and early 1930s.  
+Some designers sandwiched glass between layers of hand-
+cut sheet lead, while others sandwiched the perforated 
+sheet lead between layers of glass.  These windows 
+present a playful reversal from traditional stained glass; 
+in “silhouett e” glass the lead metalwork, rather than the 
+glass, becomes the primary art form (Fig. 10).  However, 
+such novelties failed to catch on during the Depression.  
+World War II delivered the ﬁ nal blow and ornamental 
+glass is seldom found in residential, commercial, and 
+secular architecture aft er circa 1940.  The great age of 
+American stained glass was over.  Fortunately, leaded 
+glass panels survived in uncounted numbers throughout 
+the country, and are now once again appreciated as 
+virtually irreplaceable features of historic buildings.
+
+Figure 9.  A typical 
+mail-order catalog page 
+of art glass windows 
+available in 1903 
+from the E. L. Roberts 
+Company, Chicago.
+Figure 10.  This 
+lead-silhouett e 
+stained glass face 
+graces a 1928 coach 
+house in Buﬀ alo, 
+and is att ributed to 
+D’Ascenzo Studios of 
+Philadelphia.  
+5
+Dating and Documenting Historic 
+Leaded Glass 
+Before deciding on any treatment for historic leaded 
+glass, every eﬀ ort should be made to understand—and 
+to record—its history and composition.  Documentation 
+is strongly encouraged for signiﬁ cant windows.  
+Assigning an accurate date, maker, and style to a stained 
+glass window oft en requires extensive research and 
+professional help.  A documentation and recording 
+project, however, is worth the eﬀ ort and expense, as 
+insurance against accidents, vandalism, ﬁ re and other 
+disasters.  The bett er the information available, the bett er 
+the restoration can be.  The following sources oﬀ er some 
+guidelines for dating leaded windows.
+Building Context.  The history of the building can 
+provide ready clues to the history of its leaded windows, 
+doors, and other elements.  The construction date, 
+and dates of major additions and alterations, should 
+be ascertained.  Later building campaigns may have 
+been a time for reglazing.  This is especially the case 
+with churches and temples.  They were oft en built 
+with openings glazed with simple or generic clear 
+leaded glass.  Stained glass was added later as ﬁ nances 
+allowed.  Conversely, the windows may be earlier than 
+the building.  They may have been removed from one 
+structure and installed in another (once again, this is 
+more likely with religious structures).  Bills, inventories, 
+and other writt en documents oft en give clues to the 
+date and composition of leaded glass.  Religious 
+congregations, fraternal lodges, historical societies and 
+other preservation organizations may have writt en 
+histories that can aid a researcher.
+Inscriptions and Signatures.  Many studios 
+and artists aﬃ  xed signature plates to their 
+work—oft en at the lower right hand corner.  
+In the case of Tiﬀ any windows, the signature 
+evolved through several distinct phases, 
+and helps date the piece within a few years:  
+Tiﬀ any Glass Company (1886-1892), Tiﬀ any 
+Glass & Decorating Company (with address, 
+1892-1902), Tiﬀ any Studios New York or Louis 
+C. Tiﬀ any (post 1902).  (Tiﬀ any Studios, like 
+others, did not always sign pieces and the 
+absence of an inscription cannot be used 
+to rule out a particular studio or artist.)  
+Windows may also feature dated plaques 
+commemorating a donor.  However, these do 
+not always indicate the date of the window, 
+since windows were oft en installed before a 
+donor was found.  Nevertheless, such marks 
+help establish a reasonable date range.
+Composition and Other Stylistic Elements.  
+These elements are more subjective, and call 
+for a fairly broad knowledge of architecture 
+and art history.  Do the windows ﬁ t the 
+general style of the building?  The style of the 
+window may reﬂ ect a stylistic period (e.g., 
+Arts & Craft s, Art Nouveau, Prairie School).  
+The imagery or iconography of the windows may also 
+reveal their overall historical context and establish a 
+general time period.  
+Framing and Surround.  Framing elements and the 
+window surround can reveal information central to 
+dating the window.  Do moldings match other interior 
+trim?  Has the opening been altered?  Is the window set 
+in an iron frame (post-1850s), a steel frame (generally 
+post-World War I), a cast stone or terra cott a frame 
+(seen as early as the 1880s, but popular aft er 1900)?
+Reinforcement and Leading Details.  Does the 
+window or other element have round bars or ﬂ at 
+
+6
+bars?  Flat bars began to appear about 1890; round 
+bars, used since the Middle Ages, remained in use 
+until the 1920s, when ﬂ at bars supplanted them.  
+Cames can also give dating clues.  Zinc cames, 
+for example, developed by Chicago Metallic 
+in association with Frank Lloyd Wright, ﬁ rst 
+appeared in 1893.  In general, however, dating a 
+window by the came alone is diﬃ  cult unless it is 
+disassembled to view the “heart” (center web) for 
+millmarks.  Over one hundred varieties of lead 
+came were available in the early 20th century.  
+Moreover, came was sometimes produced to look 
+old.  Henderson’s Antique Leading from the 1920s 
+was made “to resemble the old hand wrought 
+lead” and also carried “easy-ﬁ x” clip-on Georgian-
+style ornaments.
+Glass.  The glass itself can help in dating a window.  
+Opalescent glass, for instance, was patented 
+by John LaFarge in 1879.  Ti
+ﬀ any patented two 
+variations on LaFarge’s technique in the same year.  
+(Opalescent glass is translucent, with variegated 
+colors resulting from internally refracted light.  It 
+features milky colored streaks.)  Pre-1880 glass is 
+usually smooth translucent colored glass (painted 
+or not); glass with bold, deep colors is typical of the 
+1880s and 1890s, along with jewels, drapery glass 
+and rippled glass.  But such ﬂ amboyance faded out 
+with the rest of Victoriana by about 1910.  However, 
+stained glass styles of the late 19th century 
+continued to appear in ecclesiastical buildings aft er 
+they passed from general fashion.  Leaded beveled 
+plate glass was popular in residential architecture 
+aft er 1890, and was used profusely until the 1920s.
+The level of documentation warranted depends 
+upon the signiﬁ cance of the window, but it is very 
+important to document repair and restoration 
+projects before, during, and aft er project work.  
+Photographs will normally suﬃ  ce for most 
+windows.  For highly signiﬁ cant windows, rubbings 
+as well as writt en documentation are recommended.  
+The leading patt erns in such windows are complex, 
+particularly in plated windows (which have several 
+layers).  Rubbings are therefore encouraged for each 
+layer when restored; they are invaluable if a disaster 
+occurs and reconstruction is required.  Annotated 
+rubbings of the leadwork should be done with a wax 
+stone on acid-free vellum.  
+To document windows properly, inscriptions should 
+be recorded word for word, including misspellings, 
+peculiarities in type style, and other details.  Names 
+and inscriptions in or on windows can indicate 
+ethnic heritage, particularly in churches or civic 
+structures where windows oft en reﬂ ect styles and 
+themes from the congregation or community’s 
+origins.  Lastly, any conjectural information should 
+be clearly noted as such.
+The Importance of Context
+Stained glass commissioned for a particular building 
+was normally designed not only to reﬂ ect the shape 
+of the opening but also to coordinate with other 
+aspects of the overall sett ing such as the architectural 
+style, adjacent materials, and interior decoration.  The 
+window opening, frame or sash colors, placement 
+of the reinforcement, alignment with architectural 
+elements, and orientation to natural light also establish 
+the relationship between the stained glass and the 
+building.  The vibrant colors of opalescent glass, 
+which can oft en be read from the exterior, and the 
+linear designs of Prairie School windows, which oft en 
+harmonize with both the interior and the exterior, are 
+two examples that readily demonstrate the importance 
+of architectural context to ornamental glass.  
+This important relationship between the glass and its 
+sett ing, however, can  be weakened or entirely lost over 
+the years due to unsympathetic decorating schemes 
+or building campaigns, damage, deterioration, inept 
+repairs, or the mere accumulation of dirt.  
+Changes to the ornamentation and ﬁ nish of the 
+structural frame can have an especially  pronounced 
+eﬀ ect on the overall appearance of a stained glass 
+window or dome.  In the Chicago Cultural Center 
+dome the historic ﬁ nishes of the ornamental cast iron 
+frame have darkened 
+considerably over 
+the years, muting the 
+dome’s rich personality.  
+In strong sunlight the 
+glass is so dominant 
+that the frame appears 
+only as a silhouett e.  
+Restoring the vibrancy 
+of the historic ﬁ nish is 
+necessary to recapture 
+the equally important contribution of the frame to 
+the original design intent of the dome.  Aft er careful 
+investigation to document the historic appearance 
+(right), a mock-up section of the frame was regilded 
+with aluminum leaf (top).  The dramatic eﬀ ect of 
+restoring the dome’s overall context is readily apparent 
+aft er only this small section of the frame was reﬁ nished.  
+
+Figure 11.  The face paint has failed substantially in the ﬁ gure at the 
+left .  Ghost images of the feature are barely visible.  Window (1903) 
+by Edwin P . Sperry, glass by Tiﬀ any Studios; “Old Main,” (1891-
+1893) Illinois Institute of Technology, Chicago.  Photo:  Rolf Achilles.
+7
+Deterioration of Stained and Leaded Glass 
+Three elements of leaded glass units are prone to 
+damage and deterioration:  the glass itself; the decorative 
+elements (mostly applied paint); and the structural 
+system supporting the glass.
+Glass Deterioration
+Glass is virtually immune to natural deterioration.   
+Most American glass is quite stable—due to changes 
+in glass composition made in the mid-19th century, 
+particularly the increased silica content and the use of 
+soda lime instead of potash as a source of alkali.  Rarely, 
+however, glass impurities or poor processing can cause 
+problems, such as minor discoloration or tiny internal 
+fractures (particularly in opalescent glass).  And all glass 
+can be darkened by dirt; this can oft en be removed.  
+However, while glass does not normally deteriorate, 
+it is susceptible to scratching or etching by abrasion or 
+chemicals, and to breakage.
+The greatest cause of breakage or fracture is physical 
+impact.  Leaded glass in doors, sidelights, and low 
+windows is particularly susceptible to breakage from 
+accidents or vandalism.  When set in operable doors 
+or windows, leaded glass can crack or w
+eaken from 
+excessive force, vibration, and eventually even from 
+normal use.  Cracks can also result from improperly 
+set nails or points that hold the window in the frame, 
+or more rarely, by structural movement within the 
+building.  Leaded glass that is improperly annealed 
+can crack on its own from internal stress.  (Annealing is 
+the process by which the heated glass is slowly cooled; 
+the process is akin to tempering metal.)  Glass can also 
+disintegrate from chemical instability or the intense heat 
+of a ﬁ re.  Finally, windows assembled with long, narrow, 
+angular pieces of glass are inherently prone to cracking.  
+Oft en the cause of the cracks can be determined by the 
+path they travel: cracks from impact typically radiate 
+straight from the source.  Stress cracks caused by heat 
+or improper annealing will travel an irregular path and 
+change direction sharply.
+Deterioration of Painted Glass
+Painted glass, typically associated with pictorial scenes 
+and ﬁ gures found in church windows, oft en presents 
+serious preservation challenges.  If ﬁ red improperly, 
+or if poor quality mixtures were used, painted glass is 
+especially vulnerable to weathering and condensation.  
+Some studios were notorious for poorly ﬁ red paints 
+(particularly those working with opalescent glass), 
+while others had outstanding reputations for durable 
+painted glass.  Paints can be applied cold on the glass or 
+fused in a kiln.  Since they are produced from ground 
+glass, enamels do not “fade,” as oft en suggested, but 
+rather ﬂ ake oﬀ  in particles.  Several steps in the painting 
+process can produce fragile paint that is susceptible 
+to ﬂ aking.  If applied too thick, the paint may not fuse 
+properly to the glass, leaving small bubbles on the 
+surface.  This condition, sometimes called “frying,” 
+can also result from poor paint mixtures or retouching.  
+Paint failure is more commonly caused by under ﬁ ring 
+(i.e., baking the glass either at too low a temperature or 
+for too litt le time).  Unfortunately, in American stained 
+glass, the enamels used to simulate ﬂ esh tones were 
+typically generated from several layers that were ﬁ red 
+at too low a temperature.  This means the most diﬃ  cult 
+features to replicate—faces, hands and feet—are oft en 
+the ﬁ rst to ﬂ ake away (Fig. 11).
+Structural Deterioration
+The greatest and the most common threat to leaded 
+glass is deterioration of the skeletal structure that 
+holds the glass.  The structure consists of frame 
+members, and lead or zinc (and occasionally brass or 
+copper) came that secures individual pieces of glass.  
+Frame members include wood sash and muntins that 
+decay, steel t-bars and “saddle bars” that corrode, and 
+terra cott a or stone tracery that can fracture and spall 
+(Fig. 12).  When frames fail, leaded glass sags and 
+cracks due to insuﬃ  cient bracing; it may even fall out 
+from wind pressure or vibration.  
+Wood sash are nearly always used for residential 
+windows and are common in many institutional 
+windows as well.  Left  unprotected, wood and glazing 
+compounds decay over time from moisture and 
+exposure to sunlight—with or without protective storm 
+glazing—allowing glass to fall out.  
+
+Figure 12.  Stained glass frames are typically wood, steel or stone; 
+however, other materials, and their inherent problems, can also be found 
+as seen in this photograph of cracked terra cott a frames from 1926.  
+8
+Steel frames and saddle bars (braces) corrode when not 
+maintained, which accelerates the deterioration of the 
+glazing compound and loosens the glass.  Moreover, 
+operable steel ventilators and windows are designed to 
+tight tolerances.  Neglect can lead to problems.  Eventually, 
+they either fail to close snugly or corrode completely shut.  
+The leaded glass is then frequently reinstalled in aluminum 
+window units, which require wider sections for equal 
+strength and typically results in an inch or more of the 
+glass border being trimmed.  Instead of relocating glass in 
+aluminum frames, historic steel frames should be repaired.  
+Oft en the corrosion is superﬁ cial; frames in this condition 
+need prepping, painting with a good zinc-enriched paint, 
+and realigning in the frame.
+Masonry frames typically last a long time with few 
+problems, but removing leaded glass panels set in 
+hardened putt y or mortar can be nearly impossible; as 
+a last resort, glass borders may have to be sacriﬁ ced to 
+remove the window.  
+Occasionally, leaded glass was designed or fabricated 
+with inadequate bracing; this results in bulging or bowing 
+panels; leaded panels should generally not exceed 14 linear 
+feet (4.25 m) around the perimeter without support.  More 
+oft en, the placement of bracing is adequate, but the tie-wires 
+that att ach the leaded panels to the primary frame may be 
+broken or disconnected at the solder joints.
+Lead and zinc cames are the two most common assembly 
+materials used in stained and other “leaded” glass.  The 
+strength and durability of the leaded panel assembly 
+depends upon the type of came, the quality of the 
+craft smanship, and the glazing concept or design, as well 
+as on the metallic composition of the cames, their cross-
+section strength, how well they are joined and soldered, 
+and the leading patt ern within each panel.   Came is prone 
+to natural deterioration from weathering and from thermal 
+expansion and contraction, which causes metal fatigue.  
+Came Types and Properties
+Lead Came 
+Lead is a soft  malleable metal (it can be 
+scratched with a ﬁ ngernail).  It naturally 
+produces a protective dark bluish-gray 
+patina.  In the mid-19th century, improved 
+smelting processes enabled manufacturers to 
+extract valuable metal impurities from lead, 
+thereby producing 100% pure lead came.  
+The industry reasoned that 100% pure lead 
+came was superior to the less pure variety.  
+Although pure lead came is very workable 
+and contributes to intricate designs, time has 
+proven it to be less durable than medieval 
+came, which contained trace elements of tin, 
+copper, silver, and antimony.  Unfortunately, 
+the misconception that pure lead had greater 
+longevity continued throughout the glory 
+years of leaded glass use in America.  Most 
+glass conservators use a 100-year rule of 
+thumb for the general life expectancy of 19th 
+century came.  In the 1970s, “restoration 
+lead” (ASTM B29-84) was developed based 
+on metallurgic analyses of medieval cames, 
+some of which have lasted for centuries.  
+Restoration lead should always be used 
+when releading historic windows, unless the 
+original integrity will be compromised.
+Zinc Came
+Zinc came is more vulnerable to atmospheric 
+corrosion (particularly from sulfuric acids) 
+than lead, but has proven to be durable in 
+America because it weighs 40% less than 
+lead and its coeﬃ  cient of expansion is 7% 
+lower.  Thus, it is somewhat less susceptible 
+to fatigue from expansion and contraction.  
+Moreover, it is ten times harder than lead, 
+and has three times the tensile strength.  Zinc 
+came is strong enough to be self-supporting 
+and requires litt le bracing to interrupt the 
+window’s design.  While zinc came is perfect 
+for the geometric designs of Prairie School 
+windows, it is usually too stiﬀ  to employ 
+in curvilinear designs.  Zinc can also take 
+several ﬁ nishes, including a copper or black 
+ﬁ nish.  (As a result, zinc can be mistaken for 
+copper or brass.)
+Other Came
+Other metals, primarily solid brass and 
+copper, were also occasionally employed 
+as came.  They are generally found only in 
+windows between ca. 1890 and ca. 1920.  
+Frank Lloyd Wright started with zinc in 1893, 
+was plating the zinc with copper by the late 
+1890s, and using solid copper by 1906.The inherent strength of the assembly system is also related 
+to the cross-section, proﬁ le and internal construction of 
+
+9
+the came (Fig. 13).  Came can have a ﬂ at, rounded, or 
+“colonial” proﬁ le, and aside from a few specialty and 
+perimeter cames (U-channel), is based on a variation of 
+the lett er “H” and ranges from 1/8” (3.2mm) wide to 1½” 
+(38mm) wide.  The cross-section strength of came varies 
+depending on the thickness of the heart and ﬂ anges.  
+Occasionally, came with reinforced (double) hearts or 
+a steel core was used for rigidity, usually in doors and 
+sidelights.  Such came added strength at the expense of 
+ﬂ exibility and was typically used for rectilinear designs, 
+or for strategically placed reinforcement within a 
+curvilinear design. 
+How the cames are joined in a leaded panel is crucial 
+to their long-term performance.  P
+oor craft smanship 
+leads to a weak assembly and premature failure, while 
+panels fabricated with interlocking (weaving) cames 
+and lapped leads add strength.  Soldered joints oft en 
+reveal the skill level of the artisan who assembled the 
+window, and can give evidence of past repairs.  Solder 
+joints should be neat and contact the heart of the came-
+-wherein lies its greatest strength.  Came joints should 
+be examined closely; large globs of solder commonly 
+conceal cames that do not meet.  (Lead cames typically 
+crack or break along the outside edge of the solder joint; 
+stronger zinc cames frequently break the solder itself 
+where it bridges junctures.)      
+Leading patt erns designed with inadequate support 
+also contribute to structural failure.  Panels with a series 
+of adjacent parallel lines tend to hinge or “accordion,” 
+while lines radiating in concentric circles tend to 
+telescope into a bulge.  Stronger leading techniques, 
+support bars, or specialty cames are sometimes required 
+to correct poor original design.  Minor sagging and 
+bulging is to be expected in an old window and may 
+not require immediate action.  However, when bulges 
+exceed 1½” (38mm) out of plane, they cross into a 
+precarious realm; at that point, glass pieces can crack 
+from severe sagging and pressure.  If the bulged area 
+moves when pressed gently, or if surrounding glass is 
+breaking, it is time to address the problem before serious 
+failure results.
+Figure 13.  A wide variety of came has been used for ornamental glass 
+in America:  (a) ﬂ at lead came; (b) round lead came; (c) “Colonial” 
+zinc came; (d) double-heart lead came with a steel core; (e) “Prairie 
+School” zinc came.
+Cleaning, Repair and Protection 
+The level of cleaning, repair, or protection depends on 
+the condition, quality, and signiﬁ cance of the glass, and, 
+as always, the available budget.  Hastily undertaken, 
+overly aggressive, or poorly executed repairs can cause 
+more damage than does prolonged deterioration.  
+Repairs should, therefore, only be undertaken aft er 
+carefully evaluating the condition of the glass—and 
+only by professionals.  Minor cracks, sagging, and 
+oxidation are part of the character of historic leaded 
+glass, and require no treatment.  More extensive cracks, 
+major bulges (generally, more than 1½” [38mm]), and 
+other signs of advancing deterioration may call for 
+intervention, but caution must always be exercised.  
+And each window must be evaluated separately.  In 
+some cases, windows have bulged up to 4” (102mm) 
+out of plane without harming the pieces of glass or 
+risking collapse.
+Cleaning 
+Perhaps the greatest virtue of stained glass is that its 
+appearance is constantly transformed by the ever-
+changing light.  But dirt, soot, and grime can build up 
+on both sides of the glass from pollution, smoke, and 
+oxidation.  In churches the traditional burning of incense 
+or candles can eventually deposit carbon layers.  These 
+deposits can substantially reduce the transmitt ed light 
+and make an originally bright window muted and 
+lifeless.  Simply cleaning glass will remove harmful 
+deposits, and restore much of its original beauty, while 
+providing the opportunity to inspect its condition 
+closely (Fig. 14).  The type of cleaner to use depends 
+on the glass.  Water alone should be tried ﬁ rst (soft  
+water is preferable); deionized water should be used 
+for especially signiﬁ cant glass and museum quality 
+restorations.  If water alone is insuﬃ  cient, the next step 
+is to use a non-ionic detergent.  Occasionally, windows 
+are covered with a yellowed layer of shellac, lacquer, 
+varnish, or very stubborn grime that requires alcohol, 
+or solvents to remove.  Most unpainted art glass can 
+be treated with acetone, ethanol, isopropyl alcohol, 
+or mineral spirits to remove these coatings if gentler 
+methods have failed.  All chemical residues must then be 
+removed with a non-ionic detergent, and the glass rinsed 
+with water.  (All workers should take normal protective 
+measures when working with toxic chemicals.)
+(c)
+(a)
+(e)
+(b )
+(d)
+Flange
+Heart
+
+Figure 14.  The external glass plate has been removed to clean the 
+interlayer of this plated Tiﬀ any Studios window.  
+Painted glass must never be cleaned before the stability of 
+the paint is conﬁ rmed, and only then with great caution.  
+If the paint is sound, it can be cleaned with soft  sponges 
+and cloth.  If the paint was improperly ﬁ red or simply 
+applied cold, paint can ﬂ ake oﬀ  during cleaning and 
+special measures are required such as delicate cleaning 
+with cott on swabs.  Occasionally, paint is so fragile the 
+owner must simply document and accept the windows 
+in their current state rather than risk losing the original 
+surface.  Fragile paint typically calls for an experienced 
+glass conservator and more costly restoration measures.
+10
+Acidic, caustic, or abrasive cleaners should never be 
+used.  They can damage glass.  Most common household 
+glass cleaners contain ammonia and should not be used 
+either.  Cleaning products should have a neutral pH.
+Repair
+As with all elements in older and historic buildings, 
+maintenance of leaded glass units is necessary to prevent 
+more serious problems.  It is essential to keep the frame 
+maintained regardless of the material.  Oft en, this simply 
+entails regular painting and caulking, and periodic 
+replacement of the glazing compound.  Wood frames 
+should be kept painted and caulked; new sections 
+should be spliced into deteriorated ones, and epoxy 
+repairs made where necessary.  Masonry frames must be 
+kept well pointed and caulked to prevent moisture from 
+corroding the steel armature and anchors within.
+Windows that leak water, are draughty, or ratt le in the 
+wind (or when gently tapped) may indicate that the 
+waterprooﬁ ng cement (“waterprooﬁ ng”) and sealants 
+have deteriorated and maintenance or restoration is 
+needed.  Waterprooﬁ ng is a compound rubbed over 
+the window—preferably while ﬂ at on a table—and 
+pressed under the came ﬂ ange to form a watertight 
+bond between the leading and the glass.  Traditionally, 
+waterprooﬁ ng was made of linseed oil and whiting, 
+and a coloring agent.  (Hardening agents should not be 
+included in the mixture; solvent-based driers should 
+be used sparingly.)  The waterprooﬁ ng allows leaded 
+glass in a vertical position (e.g., in windows) to be used 
+as a weatherproof barrier.  It does not provided adequate 
+protection for leaded glass in a horizontal or arched 
+position; leaded glass ceilings and domes must always be 
+protected by a secondary skylight or diﬀ using skylight.
+Glazing and sealants (e.g., putt ies, caulks) are used to seal 
+the leaded panel against the sash, and to seal any open 
+joints around the window frame.  Sealants improved 
+dramatically in the mid-twentieth century.  But these 
+sealants are not without problems.  Some release acetic acid 
+as they cure.  Acetic acid can harm lead, and should never 
+be used on leaded glass.  Instead, “neutral cure” sealants 
+should be used.  These high-performance construction 
+sealants are not sold in consumer supply stores.  
+The appropriate type of sealant depends on the materials 
+to be bonded and on the desired appearance and longevity.  
+When windows are to be restored, the contractor should 
+explain what types of waterprooﬁ ng and sealants are to 
+be used, and how long they are expected to last.  On large 
+projects, a lett er from the product manufacturer should 
+be obtained that approves and warranties the proposed 
+application of their product.  When in doubt, a traditional 
+linseed-oil based glazing putt y is oft en best.
+Leaded panels will generally outlast several generations 
+of waterprooﬁ ng.  When the waterprooﬁ ng has failed, 
+the window should be removed from the opening 
+and waterproofed on a bench.  Leaded glass cannot be 
+adequately waterproofed in place.  Removing the windows 
+will provide an opportunity to perform maintenance on 
+the window surround and to secure the reinforcement.  
+This is far less expensive than totally releading the 
+window, which is typically required if maintenance is 
+deferred.  When waterprooﬁ ng or sealants break down, 
+many building owners att empt to resolve the problem 
+by installing protective glazing, when the window only 
+needs maintenance.  Protective glazing is not an alternative 
+to maintenance; in fact, it impedes maintenance if not 
+installed properly and can accelerate the deterioration of 
+the stained glass.
+A very common—but extremely harmful—practice in 
+the American stained glass industry is performing major 
+window repairs in place.  The practice is routine among 
+churches where the cost of restoring large windows can be 
+prohibitive.  However, undertaking major repairs in place 
+provides only a quick ﬁ x.  A window cannot be properly 
+repaired or restored in place if it is bulging or sagging far 
+out of plane, if over 5% of the glass is broken, or if solder 
+joints are failing.  Unscrupulous glazers can introduce a 
+great deal of stress into the glass by forcibly ﬂ att ening the 
+window in place and soldering on additional bracing.  At a 
+comfortable distance the window may look ﬁ ne, but upon 
+close inspection the stress cracks in the glass and broken 
+solder joints become obvious.  Windows subjected to this 
+treatment will deteriorate rapidly, and complete, much 
+more costly restoration will likely be necessary within 
+a few years (while a proper repair can easily last two 
+generations or more).
+
+11
+Major repairs to windows are sometimes 
+part of a larger preservation project.  In 
+such cases, the risk of damaging the 
+windows can be very great if their removal 
+and reinstallation have not been carefully 
+planned.  When major building repairs 
+are also to take place, the windows should 
+be removed ﬁ rst to prevent damage 
+during other work.  Windows should 
+be reinstalled as the next-to-last step 
+in the larger project (followed by the 
+painters or others working on the ﬁ nishes 
+surrounding the stained glass).
+And glass should be protected whenever 
+other work is undertaken on buildings-
+-whether or not the windows are also 
+to be repaired.  External scaﬀ olding, for 
+example, erected for repointing or rooﬁ ng 
+projects, may oﬀ er vandals and thieves 
+easy access to windows and, through 
+them, to building interiors.  Stained 
+and leaded glass should always be well 
+protected whenever chemical cleaners 
+are used on the exterior of the building; 
+some products, such as hydroﬂ uoric-acid 
+cleaners, will cause irreversible damage.  
+Repairs to Glass
+Minor repairs, such as replacing a few 
+isolated pieces of broken glass, can be 
+performed in place.  This work, typically 
+called a “drop-in,” “stop-in,” or “open-
+lead” repair, entails cutt ing the came 
+ﬂ ange around the broken piece of glass at 
+the solder joints, folding it back to repair 
+or replace the old glass, and resoldering 
+the joints.  Repairing a zinc came window 
+is not as easy.  Zinc cames are too stiﬀ  to 
+open up easily, so they must be cut open 
+with a small hack saw and dismantled 
+until the broken area is reached.  The 
+glass is then repaired or replaced and 
+the window is reassembled.  New cames 
+can be patinated to harmonize with 
+the originals--but only with diﬃ  culty.  
+Repatination should never be att empted 
+in place, since it is impossible to clean oﬀ  
+harmful residues trapped under the came.
+Photographing Stained Glass
+Historic stained glass windows, laylights 
+and domes should be documented to 
+help ensure the best-quality restoration 
+in the event of vandalism, ﬁ re or other 
+loss.  Photographic documentation 
+is also important for insurance and 
+investigation purposes when vandalism 
+or theft  is involved.  Given the highly 
+photogenic nature of stained glass, 
+photographs can also serve as artwork 
+for guidebooks or other interpretive or 
+publicity purposes; quality photographs 
+can be especially worthwhile in 
+fundraising eﬀ orts.
+Photographing stained glass is both 
+challenging and rewarding.  Windows and domes lit by daylight can seem 
+to be ever changing in visual appearance. They can appear dramatically 
+diﬀ erent in any given photograph depending not only on the photographic 
+equipment and sett ings used, but also on the time of day, degree of cloud 
+cover, the ambient interior light, and a multitude of other factors.  Moreover, 
+photographs may diﬀ er depending on the aspect to be captured.  Painted 
+ﬂ esh areas and highly translucent Prairie School windows oft en “burn out” 
+if photographed in bright sunlight, while faceted jewels and very dense or 
+plated opalescent glass oft en look best in direct sunlight.
+Generally, exposures should be bracketed to capture the full range of the 
+stained glass; the variation in images can permit diﬀ erent images to serve 
+diﬀ erent purposes.  Under most circumstances, interior lights should be 
+turned oﬀ , and the stained glass should be photographed in both transmitt ed 
+light (no ﬂ ash) and reﬂ ected light utilizing a ﬂ ash. The ﬂ ash should ideally 
+be positioned away from the camera to provide a raking light and to avoid 
+reﬂ ected “hot spots.” Although photographing with a ﬂ ash will neutralize 
+the transmitt ed light and black out the glass, it reveals the location and 
+condition of the lead cames, braces, tie-wires, and other structural elements.
+A tripod should be employed for a sharp image whenever using long 
+exposures and higher apertures. The subject should be shot as level as 
+possible to minimize the distortion known as “parallax.”  Occasionally, 
+when shooting a group of windows, it is beneﬁ cial to develop a cardboard, 
+Ecuboard, Masonite or similar cutout material to mask the window being 
+photographed.   Adjacent windows or windows on the opposite side of the 
+room may need to be shaded or blocked to avoid “front lighting” on the 
+window from competing with the transmitt ed light.  Windows should also 
+be photographed from the outside if there is no protective glazing to interfere 
+with the view.  This is particularly important with opalescent glass, which 
+oft en was intended to be read from the exterior as well as the interior.
+Some glass projects warrant a visual representation of the stained glass 
+window to be in place during restoration. Aft er establishing the existing 
+window dimensions, a photograph of the stained glass window can be 
+enlarged to full scale and copied on adhesive-backed transparent ﬁ lm. In 
+essence a decal, it can then be applied to acrylic or polycarbonate sheets 
+and used as a temporary replacement to ﬁ ll the opening (above).   Such ﬁ lm 
+decals are sensitive to light and will not last indeﬁ nitely.  However, they are 
+reasonably convincing from a distance and can last a year or longer while the 
+actual window is being restored.
+Original glass should be retained 
+whenever possible, even though it may be 
+damaged.  Replacement glass that exactly 
+or closely matches the original piece can 
+be very diﬃ  cult to ﬁ nd, and costly to 
+make.  An endless variety of glass colors 
+and textures were produced, and given 
+the delicate chemistry of glassmaking, 
+even samples from the same run can 
+be noticeably diﬀ erent.  The traditional 
+
+12
+secrecy that shrouds the glassmaking trade to this 
+very day, as well as environmental bans of historically 
+popular ingredients such as lead and cobalt for deep 
+blues and greens, further hinders accurate reproductions.  
+Therefore, it is nearly always bett er to use an imperfect 
+original piece of glass than to replace it (Fig. 15).  If the 
+paint is failing on a prominent feature of a window, a 
+coverplate of thin, clear glass can be painted and placed 
+over the original.  (The coverplates must be att ached 
+mechanically, rather than laminated, so that they can 
+be removed later if necessary.)  A reverse image of the 
+fading feature should be painted on the backside of the 
+coverplate in order to get the two painted images as close 
+together as possible.  With repetitive designs, stencils can 
+be created to produce multiple duplicates.  
+Figure 15.  To permit repair of the cracked glass, the original lead 
+overlay is ﬁ rst salvaged from this historic leaded panel of silhouett e 
+glass to retain as much of the original work as possible.   
+Sometimes replacement is the only option.  Fortunately, 
+custom glass houses still exist, including the company 
+that originally supplied much of the glass for Tiﬀ any 
+commissions.  Stained and leaded glass has also 
+experienced a resurgence in popularity, and American 
+glassmakers have revived many types of historic glass.
+When missing, shatt ered, or poorly matched glass from 
+later repairs must be replaced, the new pieces should be 
+scribed on the edge (under the came) with the date to 
+prevent any confusion with original glass in the future.
+Glass cracks will enlarge over time as the contacting 
+edges grind against each other, whenever the window is 
+subject to vibration, thermal expansion and contraction, 
+and other forces such as building movement. Therefore, 
+it is important to repair cracks across important features 
+as soon as they are detected and while a clean break 
+remains.  Years ago, cracks were typically repaired with 
+a “Dutchman” or “false lead” by simply splicing in a 
+cover lead ﬂ ange over a crack.  Although this conceals 
+the crack, it creates an even larger visual intrusion and 
+provides no bond to the glass.  Today, there are three 
+primary options for repairing broken glass:  copper foil, 
+epoxy edge-gluing (Fig. 16), and silicone edge-gluing.  
+These techniques diﬀ er in strength, reversibility, and 
+visual eﬀ ect, and the appropriate repair must be selected 
+on a case-by-case basis by a restoration specialist.
+Figure 16.  A valuable historic piece of original hand-painted glass is 
+carefully edge-glued with epoxy. 
+Copper Foiling:  Copper foil has the longest history 
+and, unless the glass is unstable, is generally the best 
+option when a piece of glass has only one or two cracks.  
+Copper foil is a thin tape that is applied along each side 
+of the break, trimmed to a minimal width on the faces, 
+and soldered.  A copper wire can be soldered on where 
+additional strength is required.  However, copper foil 
+repairs should not be used on unstable glass, since heat 
+is required that can cause further damage. Copper foil 
+produces a strong repair, is totally reversible, and has a 
+negligible aesthetic impact (a 1/16” [1.6mm] wide line).   
+Epoxy Edge-Gluing:  This technique produces a 
+nearly invisible line and is oft en used on painted glass, 
+particularly focal points of a window such as a face, or 
+a portion of sky intended to be one continuous piece.  
+Epoxy can even be tinted to match the glass.  It is also 
+used for infusing shatt ered glass or microscopic cracks 
+caused by intense heat from a ﬁ re.  Epoxy produces 
+a very strong repair, but will deteriorate in sunlight 
+and requires secondary glazing to protect it from UV 
+degradation.  Epoxy is the least reversible of the three 
+techniques, and usually the most expensive.  
+Silicone Edge-Gluing:  This repair method has the 
+lowest strength and should be used when a ﬂ exible joint 
+is desirable—if, for instance, the window will be under 
+continuous stress.  Silicone repairs are easily reversible, 
+and can be removed with a razor blade—when they 
+are done correctly, that is.  Silicone edge-gluing is not 
+the same as smearing silicone all over the glass.  This 
+unfortunate practice, seen throughout the country, is 
+useless as a repair technique, and usually causes more 
+damage than if the glass were left  alone.  Silicone is 
+almost clear, but it refracts light diﬀ erently from glass 
+and is, thus, easily detectable.  Silicone is not aﬀ ected by 
+temperature, humidity or UV light.  Silicone repairs are 
+typically the least expensive repair option.
+
+13
+Repairs to Structural Support Systems
+Windows may have detached from the saddle bars and 
+begun to sag, bulge, and bow extensively.  This point 
+varies from window to window.  Generally, however, a 
+window sagging or bulging more than 1½” (38mm) out of 
+plane has reached the point where it should be removed 
+from the opening to be ﬂ att ened out.  Under these 
+conditions, it is essential to note if the support system or 
+leading patt ern has failed so it may be corrected before 
+the window is reinstalled.  The window must be allowed 
+to ﬂ att en over a few weeks in a horizontal position.  This 
+will minimize stress on the solder joints and glass.  A 
+moderate weight and  controlled heat will help coax the 
+window back into its original plane.  The process requires 
+patience.  Once the window has ﬂ att ened, the original 
+support system should be reatt ached and additional 
+support added as necessary.  It is crucial to consider the 
+original design so the new support bars do not intrude on 
+important window features.  Sometimes small thin braces 
+or “ﬁ ns” can be manipulated to follow existing lead lines 
+exactly.  These give support, but are almost invisible.  
+Flatt ening windows also provides a good opportunity 
+to apply new waterprooﬁ ng to help prevent further 
+deterioration.  Today, a wide variety of traditional and 
+synthetic compounds are employed.
+Windows should only be removed when they need to be 
+ﬂ att ened, waterproofed, reinforced, or releaded.  Allow 
+plenty of time for careful, thorough work.  Large projects 
+can take several months, especially if complete releading 
+is necessary.  Owners, consulting professionals, and 
+construction managers must therefore ensure that vacant 
+openings will be weathertight for an extended period—
+whether the openings are covered by plywood, acrylics, 
+or polymer ﬁ lm.  If desired, images of the window can be 
+printed on adhesive ﬁ lm and applied to rigid plastic and 
+installed in the openings as temporary facsimiles during 
+studio restoration. 
+Rebuilding or releading a window is an expensive and 
+involved process.  The releading process requires that a 
+window be disassembled before it can be reassembled 
+(Fig. 17).  The glass pieces must be removed from the 
+cames, the old cement must be cleaned from each piece 
+of glass, and all the pieces must be rejoined precisely.  
+At every step the process involves the risk of damaging 
+the glass.  Furthermore, exceptional studios had unique 
+leading techniques, and thus the cames should not 
+be replaced casually.  Total releading should only be 
+undertaken when necessary to avoid or slow the loss 
+of historic fabric.  (It is essential to request a copy of all 
+window rubbings if the windows are to be completely 
+releaded.)   
+Figure 17.  Total releading is very time consuming and costly and 
+should only be undertaken when the original lead is exhausted 
+beyond repair.
+Lead and zinc cames, however, are intended to be a 
+sacriﬁ cial element of a glass unit assembly, as mortar 
+is to brick and paint is to wood; came will break down 
+long before glass and must ultimately be replaced; came 
+typically lasts 75 to 200 years depending on the window’s 
+quality, design and environment.  A common preservation 
+conﬂ ict arises in releading historic windows:  whether to 
+retain historical accuracy by using the existing proﬁ le, or 
+to use came with a stronger proﬁ le for greater longevity.  
+The decision must be carefully weighed depending on 
+the signiﬁ cance of the window, the contribution of the 
+came proﬁ le to the overall design, and the severity of 
+the deterioration caused by a thin or weak came.  In 
+most windows, the came proﬁ le is essentially lost in 
+transmitt ed light, but occasionally shadow lines are 
+important and should be reproduced.   Furthermore, 
+it is important to correct technical problems that arise 
+from ﬂ imsy original came.  Occasionally, a slightly 
+heft ier came may be the best solution to resolve weak 
+panels that have not proven the test of time.  Under 
+these circumstances, the thicker lead came (even if only 
+1/64” [0.4mm]) will cause a re-leaded panel to swell 
+slightly, and the frame or perimeter leads may have 
+to be trimmed to ﬁ t the opening.  (Trimming the glass 
+should be the very last resort.)  This would not be an 
+appropriate solution in a museum-quality restoration or 
+for a highly signiﬁ cant window.
+Protective Glazing and Screens
+The use of protective glazing (also known as 
+secondary or storm glazing) is controversial.  Potential 
+beneﬁ ts of protective glazing are that it can shield 
+windows from wind pressure; increase energy 
+savings; protect against environmental pollutants and 
+UV light; provide vandalism and security protection, 
+and reduce window maintenance.  Potential 
+drawbacks are that it can promote condensation; cause 
+heat to build up in the air space and thereby increase 
+the window’s expansion/contraction; eliminate natural 
+ventilation; reduce access for maintenance; oﬀ er a 
+poor energy payback for the cost, and signiﬁ cantly 
+mar the building’s appearance.  Protective glazing is 
+oft en presented as a cheaper alternative to full-scale 
+restoration.  And all too oft en protective glazing is 
+installed as a routine matt er when there is litt le threat 
+of damage from vandalism or other causes.  Protective 
+glazing, especially when improperly installed, may 
+hasten deterioration of stained glass windows.  
+
+14
+Domes and Ceilings 
+Stained glass domes and ceilings were very 
+popular throughout the Victorian and Classical 
+Revival periods.  They are oft en principal 
+interior features of churches, hotels, restaurants, 
+railway stations, and civic buildings.  The loss or 
+unsympathetic alteration of leaded glass ceilings 
+and domes is a widespread problem.  Poorly 
+planned rehabilitation projects sometimes cause 
+the unnecessary removal or alteration of overhead 
+leaded glass in order to comply with ﬁ re codes or 
+to achieve perceived energy savings; occasionally, 
+they are even concealed above suspended ceilings.
+Moreover, stained glass in the horizontal position 
+readily collects dust and dirt over the years 
+and is relatively inaccessible for cleaning.  It is 
+also more likely to “creep” or slump when the 
+reinforcement is inadequate.  Most importantly, 
+leaded glass cannot be suﬃ  ciently weatherproofed 
+in a horizontal (or arched) position.  It must always 
+be protected by skylights or “diﬀ users”—rooft op 
+features that diﬀ use the natural daylight into the 
+att ic or light shaft , and protect the leaded glass 
+ceiling or dome from the elements (a).
+(a) Stained glass ceilings and domes are oft en principal interior 
+features of churches, hotels, restaurants, railway stations, and 
+civic buildings.  This vaulted ceiling illuminates the Cypress Lawn 
+Memorial Gardens mausoleum in Colma, California.  The panel 
+removed reveals the diﬀ using skylight above.
+Due to the inferior quality of glazing sealants of the 
+late 19th and early 20th centuries, and to deferred 
+maintenance, glass ceilings have frequently been 
+removed or covered with rooﬁ ng materials.  
+Artiﬁ cial lighting is then required to backlight the 
+ceiling or dome, which robs the stained glass of its 
+life−the vibrant eﬀ ects created by ever-changing 
+natural light.  All types of artiﬁ cial lighting can 
+be found from ﬂ oodlamps to ﬂ uorescent tubes.  
+Outside sensors are even used to modulate the 
+light level in an att empt to simulate changes in 
+daylight.  However, daylight is impossible to 
+emulate.  Moreover, it’s free.  Artiﬁ cial lighting 
+requires maintenance, introduces an additional 
+ﬁ re hazard in the att ic, increases the building’s 
+electrical load, and is supplied only at a ﬁ nancial 
+and environmental cost.
+Stained glass ceilings and domes that have been 
+sealed oﬀ  from natural light should be investigated 
+for restoration.  Once natural light is restored and 
+the stained glass is cleaned, the lighting eﬀ ect 
+on an interior can be extraordinary.  Improved 
+skylight designs and major advances in glazing 
+sealants since World War II (particularly silicones) 
+encourage the restoration of skylights without the 
+fear of inheriting a maintenance nightmare (b).
+(b) Workers install a jeweled art glass oculus of a Healy & Millet 
+dome.  The diﬀ using skylight was restored overhead to reintroduce 
+daylight to the historic 1897 dome aft er being roofed over since the 
+1940s.   
+
+15
+Various types of metal grills or screens are also used.  
+They add security and vandalism protection but also 
+impair the appearance of the window (inside and out) 
+by creating new shadows that telegraph on the stained 
+glass or diﬀ using transmitt ed light. As a general rule, 
+protective layers should not be added on historic 
+buildings unless the glass sett ing was designed for 
+storm glazing.  In most cases the potential drawbacks 
+outweigh the potential beneﬁ ts.
+Under some circumstances, however, protective glazing 
+or screens may be necessary.  (This applies to windows.  
+Domes and ceilings present a special case.  See “Domes 
+and Ceilings”).  A real vandalism or security threat 
+warrants protective glazing, such as when the windows 
+can be reached easily or are in an isolated location.  
+Protective glazing is also warranted when employed 
+historically on a particular window as original plating 
+(Tiﬀ any Studios, for example, oft en used plate glass 
+to keep dirt and moisture out of their multi-plated 
+windows).  Unusual circumstances (such as when the 
+windows are painted on the outside) may also dictate 
+the use of protective glazing. Finally, protective glazing 
+is warranted when a UV ﬁ lter is needed to prevent 
+epoxy glass repairs from breaking down.  
+A variety of protective glazing materials are available.  
+They include polycarbonates, acrylics, laminated 
+glass, plate glass, and tempered glass.  The plastic 
+products are very strong, lightweight, and relatively 
+easy to install, but will scratch, haze, and yellow over 
+time, despite UV inhibitors.  They also have a high 
+coeﬃ  cient of expansion and contraction, so the frames 
+must be designed to accommodate change induced 
+by temperature ﬂ uctuations.  Poor installations in 
+restrictive frames cause distorted reﬂ ections from 
+bowing panels oft en damaging the historic frame.  
+Protective panels of glass are heavier and more diﬃ  cult 
+to install, making them more expensive than plastic.  
+However, glass will not bow, scratch, or haze and is 
+usually the best option in aesthetic terms; laminated 
+glass provides additional impact resistance.
+A common error in installing protective glazing is to 
+create a new window conﬁ guration (Fig. 18).  Insensitive 
+installations that disregard the original tracery destroy the 
+window’s aesthetics—and the building’s.  When protective 
+glazing is added, it should be ventilated.  If a window is 
+not ventilated, heat and condensation may build up in the 
+air space between the ornamental glass and the protective 
+glazing (creating a “greenhouse eﬀ ect”).    
+Figure 18. On this pair of neo-gothic church windows, the 
+aluminum frame grid used for protective glazing disregards 
+the original tracery of the window on the left .  The grid mars 
+the appearance of the window inside and out.  It also impairs 
+the overall historic character of the building.  The plastic 
+storm glazing has been removed from the adjacent window to 
+restore the original window appearance. 
+When absolutely necessary, protective glazing should be 
+installed in an independent frame between ⅝” (16mm) 
+and 1” (25mm) from the leaded glass.  This allows the 
+protective panel to be removed for periodic maintenance 
+of both the historic window and the new glazing.  The 
+conditions of the air space between the two layers should 
+be monitored on a regular basis; condensation should 
+never collect on the window.  
+No ideal formulas have been developed for venting the 
+air space between the ornamental glass and the protective 
+glazing, but it is typically vented to the outside (unless the 
+building is air conditioned most of the year).  Generally, 
+a gap of several inches is left  at the top and bott om when 
+glass is used, or holes are drilled in the protective glazing 
+at the top and bott om when polycarbonates and acrylics 
+are used.  Small screens or vents should be added to keep 
+out insects.  Finally, it is important to realize that most 
+original plating was “rough plate” or “ribbed” and never 
+had a modern polished reﬂ ection.  Some glass tinted the 
+transmitt ed light intentionally, as originally designed: in 
+this case any new or replacement plating should simulate 
+this eﬀ ect to respect the artisan’s intention.
+Conclusion
+Much of the Nation’s stained glass and leaded glass has 
+recently passed, or is quickly approaching, its 100th 
+anniversary—yet much of this glass has not been cleaned 
+or repaired since the day it was installed.  With proper 
+care, the stained and leaded windows, transoms, and other 
+elements that add so much to historic buildings can easily 
+last another century.
+
+16
+Wooden frame of the rose window undergoing repair (exterior view). 
+Selected Reading List
+Duthie, Arthur Louis.  Decorative Glass Processes: Cutt ing, 
+Etching, Staining, and Other Traditional Techniques.  New York:  
+The Corning Museum of Glass and Dov er Publications, 1982.
+Fisher, Charles E., III, ed.  The Window Handbook: Successful 
+Strategies for Rehabilitating Windows in Historic Buildings.  
+Washington, D.C.:  National Park Service and Georgia Institute 
+of Technology.  1986. Rev. 1990.
+Fisher, Charles E., III, Deborah Slaton, and Rebecca 
+A. Shiﬀ er, eds.  Window Rehabilitation Guide for Historic 
+Buildings. Washington, D.C.: Historic Preservation Education 
+Foundation/National Park Service, 1997.  
+Heinz, Thomas A.  Lloyd Wright Glass Art.  Academy Editions, 
+Ernst & Sohn, 1994.
+Heinz, Thomas A.  “Use & Repair of Zinc Cames in Art-
+Glass Windows.”  Old House Journal, (September/October 
+1989), pp. 35-38.
+Lee, Lawrence, George Seddon and Francis Stephans.  Stained 
+Glass.  New York:  Crown Publishers, 1976.
+Lloyd, John Gilbert.  Stained Glass in America.  Jenkintown, PA:  
+Foundation Books, 1963.
+Stained Glass Association of America.  SGAA Reference & 
+Technical Manual, Second Edition Lee’s Summit, MO:  The 
+Stained Glass Association of America, 1992.
+Wilson, H. Weber.  Great Glass in American Architecture:  
+Decorative Windows and Doors Before 1920.  New York:  E. P . 
+Dutt on, 1986.
+Cover Photograph:  Tiﬀ any Studios opalescent art glass frame 
+from 1914, originally installed in a dome over the Men’s Grill in 
+Marshall Field’s, Chicago.
+Acknowledgements
+Neal A. Vogel is the Principal of Restoric, LLC, Evanston, Illinois.  Rolf Achilles is an Art Historian and Curator of the Smith Museum of 
+Stained Glass Windows at Navy Pier, Chicago.  All drawings and photographs by Neal A. Vogel unless otherwise stated.
+Michael J. Auer, Technical Preservation Services, National Park Service, served as technical editor.  Additional assistance was provided 
+by Charles Fisher, Anne Grimmer,  and former staﬀ  Chad Randl, Technical Preservation Services. 
+The authors would like to thank the following for sharing information and providing opportunities to review works in progress: Bott i 
+Studios of Architectural Arts, Evanston, IL; Chicago Metallic Corporation, Chicago, IL; Chicago Art Glass and Jewels, Inc., Cedar 
+Grove, WI; Conrad Schmitt  Studios, Inc., New Berlin, WI; Cypress Lawn Memorial Park, Colma, CA; Hollander Glass, Stanton, CA;  
+Mary Clerkin Higgins, New York, NY; Venturella Studios, New York, NY; Wardell Art Glass, Aurora, IL. Special thanks for providing 
+editorial assistance to Arthur J. Femenella, Femenella & Associates, Branchburg, NJ; Richard L. Hoover, Stained Glass Association of 
+America, Lee’s Summit, MO; and H. Weber Wilson, Oltz-Wilson Antiques, Portsmouth, RI.
+This publication has been prepared pursuant to the National Preservation Act of 1966, as amended, which directs the Secretary of 
+the Interior to develop and make available information concerning historic properties. Comments about this publication should be 
+addressed to: Charles Fisher, Technical Publications Program Manager, Technical Preservation Services—2255, National Park Service, 
+1849 C Street, NW, Washington, D.C. 20240.  This publication is not copyrighted and can be reproduced without penalty.  Normal 
+procedures for credit to the authors and the National Park Service should be provided.  The photographs used in this publication 
+may not be used to illustrate other publications without permission of the owners.  For more information about the programs of the 
+National Park Service’s Technical Preservation Services, see our website at www.nps.gov/history/hps/tps.
+ISSN:  978-0-16-078947-2
+U.S. Government Printing Oﬃ  ce Stock Number: 024-005-01254-1           October 2007
