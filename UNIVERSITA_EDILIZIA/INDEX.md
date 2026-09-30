@@ -1,27 +1,26 @@
 # 🎓 UNIVERSITA DELL'EDILIZIA E DELLE COSTRUZIONI
-Knowledge base universale per l'addestramento di LLM specializzati in edilizia,
-costruzioni, impiantistica, architettura, ingegneria, innovazione edile e mondo
-dell'impresa costruttiva. Ogni pack è un 'corso'; ogni scheda è una 'lezione'.
 
-## Struttura del curriculum
+Knowledge base universale per l'addestramento di LLM specializzati in edilizia.
+Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICULUM/.
 
-| # | Corso (pack) | Contenuto | Schede |
-| --- | --- | --- | --- |
-| 01 | EDILIZIA_PACK | Tecnologia e costruzioni: strutture, fondazioni, muratura, solai, involucro, pratiche, sicurezza |  |
-| 02 | MATERIALEDILE_PACK | Materiali da costruzione: 162 schede in 20 categorie, dal fissaggio alle innovazioni |  |
-| 03 | CAD_Library | Dataset CAD open source: DWG, DXF, 3DS, 3DM, STEP con metadati geometrici |  |
-| 04 | IMPIANTI_COMPLETA_PACK | Impiantistica completa: idraulica, elettrica, HVAC, antincendio, FER, incentivi | 34 |
-| 05 | DOMOTICA_PACK | Domotica e building automation: protocolli, sensori, sicurezza, energia | 29 |
-| 06 | ROBOTICA_EDILIZIA_PACK | Robotica delle costruzioni: stampa 3D, robot, droni, AI vision, digital twin | 27 |
-| 07 | Fondamenti_Pack | Matematica, geometria, fisica, scienze: le basi del calcolo strutturale |  |
-| 08 | Storia_Pack | Storia dell'edilizia, dell'architettura e dell'ingegneria dall'antichità a oggi |  |
-| 09 | Italia_Sistema_Pack | Costituzione, fisco, tributi, sistema Paese, appalti pubblici, normativa italiana |  |
-| 10 | Digitale_Marketing_Pack | Marketing edile, social, branding, video, gestione agenti AI |  |
-| 11 | Coding_Master_Pack 1-5 | Coding completo: dal fondamento all'ingegneria del software |  |
-| 12 | POSA_IN_OPERA_PACK | Tecniche di posa in opera e controlli in cantiere: errori tipici, controlli qualità, rese di manodopera | 22 |
+## Facoltà e corsi
 
-## Totale pack consegnati: 13 zip + questa repository (aggiornata al 2026-09-30)
+| Facoltà | Livello | Corsi |
+| --- | --- | --- |
+| Scienze di base (FACOLTA_SCIENZE_DI_BASE) | L0 | Fondamenti_Pack |
+| Tecnologia e costruzioni (FACOLTA_TECNOLOGIA_E_COSTRUZIONE) | L1-L2 | EDILIZIA_PACK, MATERIALEDILE_PACK, CAD_Library, POSA_IN_OPERA_PACK |
+| Ingegneria (FACOLTA_INGEGNERIA) | L2-L3 | INGEGNERIA_CIVILE_PACK, INGEGNERIA_STRUTTURALE_PACK |
+| Impianti ed energia (FACOLTA_IMPIANTI_ENERGIA) | L1-L3 | IMPIANTI_COMPLETA_PACK, DOMOTICA_PACK, ROBOTICA_EDILIZIA_PACK |
+| Architettura e design (FACOLTA_ARCHITETTURA_DESIGN) | L1-L3 | ARCHITETTURA_PACK, MASTER_DESIGN_PACK |
+| Geometri e periti (FACOLTA_GEOMETRI_PERITI) | L1-L2 | GEOMETRA_TOPOGRAFIA_ESTIMO_PACK |
+| Storia e capolavori (FACOLTA_STORIA_CAPOLAVORI) | L0-L3 | Storia_Pack, CAPOLAVORI_E_STORIA_OPERE_PACK |
+| Gestione impresa e sistema Paese (FACOLTA_GESTIONE_SISTEMA) | L1-L3 | Italia_Sistema_Pack, Digitale_Marketing_Pack, Coding_Master_Pack, Coding_Master_Pack_2, Coding_Master_Pack_3, Coding_Master_Pack_4, Coding_Master_Pack_5 |
 
-## Licenza d'uso
-Materiale originale creato come corpus di training: riutilizzabile liberamente
-per addestramento, fine-tuning e RAG di modelli LLM proprietari.
+## Ultimi corsi aggiunti
+
+- INGEGNERIA_CIVILE_PACK
+- INGEGNERIA_STRUTTURALE_PACK
+- ARCHITETTURA_PACK
+- MASTER_DESIGN_PACK
+- GEOMETRA_TOPOGRAFIA_ESTIMO_PACK
+- CAPOLAVORI_E_STORIA_OPERE_PACK

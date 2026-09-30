@@ -1,0 +1,7 @@
+corso: "Architettura"
+facolta: "FACOLTA_ARCHITETTURA_DESIGN"
+livello: "L1-L3"
+schede: 15
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

@@ -1,0 +1,7 @@
+corso: "Capolavori e storia delle opere"
+facolta: "FACOLTA_STORIA_CAPOLAVORI"
+livello: "L0-L3"
+schede: 25
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
