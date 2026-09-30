@@ -1,0 +1,1387 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-23 21 13.23 20 (July 2007)
+Change 1 - 11/19
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-15184N (April 2006)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 23 - HEATING, VENTILATING, AND AIR CONDITIONING (HVAC)
+SECTION 23 21 13.23 20
+[HIGH][MEDIUM] TEMPERATURE WATER SYSTEM WITHIN BUILDINGS
+07/07, CHG 1: 11/19
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   DEFINITIONS
+    1.2.1   Medium Temperature Water (MTW)
+    1.2.2   High Temperature Water (HTW)
+    1.2.3   Terminal Unit
+    1.2.4   Steam Producer
+  1.3   GENERAL REQUIREMENTS
+    1.3.1   Associated Work
+    1.3.2   Description
+    1.3.3   Classes and Maximum Working Pressures
+    1.3.4   Field Verification
+    1.3.5   Identification
+    1.3.6   Welding Safety
+      1.3.6.1   Procedures and Qualifications
+  1.4   SUBMITTALS
+PART 2   PRODUCTS
+  2.1   PIPE AND PIPE SYSTEM
+    2.1.1   High Pressure Piping System
+    2.1.2   Pipe
+    2.1.3   Pipe Fittings
+      2.1.3.1   Fittings for Steel Pipe Sizes 3 to 50 mm 1/8 to 2 inches
+      2.1.3.2   Fittings for Steel Sizes 65 mm 2 1/2 inches and Above
+    2.1.4   Gaskets
+    2.1.5   Bolting
+    2.1.6   Vents
+    2.1.7   Valves; Gate, Globe, Ball, Check, Angle, and Control
+      2.1.7.1   Globe Valves
+      2.1.7.2   Gate Valves
+      2.1.7.3   Temperature Control Valves
+      2.1.7.4   Emergency Shutoff Valve
+SECTION 23 21 13.23 20  Page 1
+CANCELLED
+
+
+    2.1.8   Strainers
+    2.1.9   Joints
+      2.1.9.1   Welded Joints
+      2.1.9.2   Flanged Joints
+    2.1.10   Hangers and Supports
+    2.1.11   Pipe Sleeves
+    2.1.12   Caulking and Sealants
+    2.1.13   Instrumentation
+      2.1.13.1   Pressure Gages
+      2.1.13.2   Indicating Thermometers
+    2.1.14   System Terminal Units
+      2.1.14.1   Heat Exchanger, [HTW][MTW]
+      2.1.14.2   Steam Producer, [HTW][MTW]
+PART 3   EXECUTION
+  3.1   INSTALLATION
+  3.2   PIPING
+    3.2.1   Branch Connections
+    3.2.2   Cleaning of Piping (Pre-Erection)
+    3.2.3   Cleaning of Piping (Post-Erection)
+    3.2.4   Valves
+      3.2.4.1   General
+      3.2.4.2   System Terminal Unit Piping
+    3.2.5   Cleaning and Painting of Piping and Equipment
+    3.2.6   Identification of Piping and Physical Hazards
+    3.2.7   Hangers and Supports
+    3.2.8   Pipe Sleeves
+    3.2.9   Instrumentation
+  3.3   WELDING
+    3.3.1   Responsibility of Contractor for Fusion Welding
+    3.3.2   Qualifications of Welders
+      3.3.2.1   Examining Welders
+      3.3.2.2   Examination Results
+    3.3.3   Beveling, Alignment, and Erection
+    3.3.4   Weld Inspection
+    3.3.5   Electrodes
+  3.4   QUALITY CONTROL
+    3.4.1   General Test Requirements
+    3.4.2   Field Tests
+      3.4.2.1   Hydrostatic Tests of Service Piping
+      3.4.2.2   Operational Tests
+  3.5   SCHEDULE
+-- End of Section Table of Contents --
+SECTION 23 21 13.23 20  Page 2
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-23 21 13.23 20 (July 2007)
+Change 1 - 11/19
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-15184N (April 2006)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 23 21 13.23 20
+[HIGH][MEDIUM] TEMPERATURE WATER SYSTEM WITHIN BUILDINGS
+07/07, CHG 1: 11/19
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for high and medium temperature water 
+piping systems inside of building mechanical rooms, 
+including connections to interior existing piping 
+and system terminal unit.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+**************************************************************************
+NOTE:  Project requirements may require addition of 
+supplemental information to the paragraphs contained 
+herein, however, designer is cautioned to verify 
+additional references to ascertain applicability of 
+materials to system design prior to inclusion.
+**************************************************************************
+**************************************************************************
+NOTE:  The following information must be shown on 
+the project drawings:
+1.  Flow diagram of high or medium temperature water 
+piping indicating connections to existing supply and 
+return, pressure and temperature of existing supply 
+SECTION 23 21 13.23 20  Page 3
+CANCELLED
+
+
+and return, (maximum and minimum or constant, 
+applicable), valves and critical valve positions 
+(including normally closed for bypass valve), any 
+necessary flow rates, pressure drops not already in 
+equipment schedule or specifications, and location 
+of temperature and/or pressure sensors.
+2.  System Terminal Unit detail providing location 
+of all piping including valves, strainers, flanges, 
+fittings, connections, and supports (coordinate with 
+Section 23 21 13.00 20 and Section 23 22 26.00 20).
+3.  Single line plan and any necessary sections 
+indicating location, sizes, and routing of all 
+associated piping.
+4.  Appropriate schedules for equipment, including 
+any reset schedules.
+5.  Information necessary when asbestos material is 
+involved (See second note in paragraph entitled 
+"Description").
+6.  Detail of connections to existing high or medium 
+temperature water piping, including air chambers and 
+vents as required.
+**************************************************************************
+PART 1   GENERAL
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification. The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+ 
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+ 
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+SECTION 23 21 13.23 20  Page 4
+CANCELLED
+
+
+AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)
+ASME A13.1
+(2023) Scheme for the Identification of 
+Piping Systems
+ASME B16.5
+(2020) Pipe Flanges and Flanged Fittings 
+NPS 1/2 Through NPS 24 Metric/Inch Standard
+ASME B16.9
+(2024) Factory-Made Wrought Buttwelding 
+Fittings
+ASME B16.11
+(2021) Forged Fittings, Socket-Welding and 
+Threaded
+ASME B16.34
+(2021) Valves - Flanged, Threaded and 
+Welding End
+ASME B18.2.1
+(2012; R 2021) Square, Hex, Heavy Hex, and 
+Askew Head Bolts and Hex, Heavy Hex, Hex 
+Flange, Lobed Head, and Lag Screws (Inch 
+Series)
+ASME B18.2.2
+(2022) Nuts for General Applications: 
+Machine Screw Nuts, and Hex, Square, Hex 
+Flange, and Coupling Nuts (Inch Series)
+ASME B31.1
+(2024) Power Piping
+ASME B40.100
+(2022) Pressure Gauges and Gauge 
+Attachments
+ASME BPVC SEC VIII D1
+(2023) BPVC Section VIII-Rules for 
+Construction of Pressure Vessels Division 1
+AMERICAN WELDING SOCIETY (AWS)
+AWS B2.1/B2.1M
+(2021) Specification for Welding Procedure 
+and Performance Qualification
+AWS D1.1/D1.1M
+(2025) Structural Welding Code - Steel
+AWS Z49.1
+(2021) Safety in Welding, Cutting and 
+Allied Processes
+ASTM INTERNATIONAL (ASTM)
+ASTM A53/A53M
+(2024) Standard Specification for Pipe, 
+Steel, Black and Hot-Dipped, Zinc-Coated, 
+Welded and Seamless
+ASTM A106/A106M
+(2026) Standard Specification for Seamless 
+Carbon Steel Pipe for High-Temperature 
+Service
+ASTM A193/A193M
+(2026) Standard Specification for 
+Alloy-Steel and Stainless Steel Bolting 
+for High Temperature or High Pressure 
+Service and Other Special Purpose 
+Applications
+SECTION 23 21 13.23 20  Page 5
+CANCELLED
+
+
+ASTM A194/A194M
+(2026) Standard Specification for Carbon 
+Steel, Alloy Steel, and Stainless Steel 
+Nuts for Bolts for High-Pressure or 
+High-Temperature Service, or Both
+ASTM A234/A234M
+(2025) Standard Specification for Piping 
+Fittings of Wrought Carbon Steel and Alloy 
+Steel for Moderate and High Temperature 
+Service
+MANUFACTURERS STANDARDIZATION SOCIETY OF THE VALVE AND FITTINGS 
+INDUSTRY (MSS)
+MSS SP-58
+(2025) Pipe Hangers and Supports - 
+Materials, Design and Manufacture, 
+Selection, Application, and Installation
+NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION (NEMA)
+NEMA Z535.1
+(2022) Safety Colors
+U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)
+29 CFR 1910.144
+Safety Color Code for Marking Physical 
+Hazards
+1.2   
+DEFINITIONS
+1.2.1   
+Medium Temperature Water (MTW)
+Heating hot water systems operating at
+ 121 to 177 degrees C
+ 250 to 350 
+degrees F
+.
+1.2.2   
+High Temperature Water (HTW)
+Heating hot water systems operating at greater than
+ 177 degrees C but less 
+than 232 degrees C
+ 350 degrees F but less than 450 degrees F
+.
+1.2.3   
+Terminal Unit
+Heat exchanger or steam producer using [HTW][MTW] as the primary heating 
+medium.
+1.2.4   
+Steam Producer
+Unfired steam generator.
+1.3   
+GENERAL REQUIREMENTS
+Section 
+23 03 00
+ BASIC MECHANICAL MATERIALS AND METHODS, applies to this 
+section with additions and modifications specified herein.
+1.3.1   
+Associated Work
+**************************************************************************
+NOTE: Edit, specifying all associated sections for 
+the specific project.
+**************************************************************************
+SECTION 23 21 13.23 20  Page 6
+CANCELLED
+
+
+Other work associated with this section including insulation, hot water 
+piping, hot water distribution outside the building, steam, and painting 
+is covered in other sections of this specification.
+1.3.2   
+Description
+**************************************************************************
+NOTE:  Work should be confined to inside of building 
+mechanical rooms.  Avoid running high or medium 
+temperature water in occupied spaces or where hidden 
+from access or view.
+**************************************************************************
+**************************************************************************
+NOTE:  This section requires connections to existing 
+high or medium temperature water piping that may 
+contain asbestos insulation or associated material.  
+Sampling and testing of suspicious material and 
+subsequent inclusion of Section 
+02 82 00
+ ASBESTOS 
+REMEDIATION or Section 
+02 83 00
+ LEAD REMEDIATION and 
+appropriate plans for asbestos material removal and 
+disposal must be verified by the designer and 
+provided as necessary.
+**************************************************************************
+The work must include the furnishing, installing, and testing of high 
+temperature water piping inside the building, as indicated, together with 
+all fittings and appurtenances necessary for a complete and operable 
+system.  [The work also includes [modifications] [and] [
+[HTW][MTW] system 
+connection
+] to the existing [HTW][MTW] piping.]
+1.3.3   
+Classes and Maximum Working Pressures
+Except as specified otherwise, piping components must be suitable for use 
+under the maximum working pressures indicated.  Except as modified herein, 
+the pressure temperature limitations must be as specified in the 
+referenced standards and specifications.  All pressures in this 
+specification are pressures in
+ kilopascal (kPa)
+ pounds per square inch 
+(psi)
+ above atmospheric pressure, and all temperatures are in
+ degrees 
+Celsius (C)
+ degrees Fahrenheit (F)
+.
+1.3.4   
+Field Verification
+The Contractor must become familiar with all details of the work, verify 
+all dimensions in the field, verify the maximum operating temperature and 
+pressure of the heating distribution system with the heating plant 
+foreman, and advise the Contracting Officer of any discrepancy within 3 
+days and before performing any work.
+1.3.5   
+Identification
+Each major item of equipment must have the manufacturer's name, address, 
+type or style, and model or serial number on a plate secured to the item 
+of equipment.
+1.3.6   
+Welding Safety
+Safety in welding and cutting of pipe must conform to 
+AWS Z49.1
+.
+SECTION 23 21 13.23 20  Page 7
+CANCELLED
+
+
+1.3.6.1   
+Procedures and Qualifications
+Before any welding is performed, the Contractor must submit 
+welding 
+procedure specifications
+ for all metals included in the work, together 
+with proof of its qualification as outlined in 
+ASME B31.1
+.
+Before any welder or operator performs any welding, submit Welder's 
+Performance Qualification Record
+ in conformance with 
+ASME B31.1
+showing 
+that the welder was rated under the approved procedure specification 
+submitted by the Contractor.  In addition, submit each welder's assigned 
+number, letter, or symbol used to identify the work of the welder, and 
+affix immediately upon completion of the weld.  To welders making 
+defective welds after passing a qualification test, give a qualification 
+test and upon failing to pass the test, do not permit to work this 
+contract.
+Welders and welding operators 
+previous qualifications
+ on welding 
+procedures test may be accepted for the contract without requalification 
+subject to the approval and provided that all the conditions specified in 
+ASME B31.1
+ are met before a procedure can be used.
+1.4   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G".  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a "G" to an item 
+if the submittal is sufficiently important or 
+complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+SECTION 23 21 13.23 20  Page 8
+CANCELLED
+
+
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-01 Preconstruction Submittals
+Valves
+Packing
+Gaskets
+SD-02 Shop Drawings
+[HTW][MTW] System connection
+ diagrams (within building)
+SD-03 Product Data
+Valves
+Strainers
+Pipe
+Pipe fittings
+[
+Heat exchanger
+]
+[
+Steam producer
+]
+[
+Expansion joints
+]
+  Information must show details, dimensions, capacities, and 
+ratings.
+SD-07 Certificates
+Welding procedure specifications
+Performance qualification record
+Previous qualifications
+Valves
+Gaskets
+PART 2   PRODUCTS
+2.1   
+PIPE AND PIPE SYSTEM
+**************************************************************************
+NOTE:  When individual branch loops require 
+circulating pumps due to constant volume plant 
+system design or insufficient available differential 
+pressure for terminal unit control valve in a 
+variable volume plant system design, designer must 
+SECTION 23 21 13.23 20  Page 9
+CANCELLED
+
+
+provide appropriate pump specifications herein. 
+Pumps must be carefully sized for the specific loop 
+only such that operation of the main plant system 
+and other branch loops is not affected.
+**************************************************************************
+**************************************************************************
+NOTE:  If it is necessary to provide for additional 
+thermal expansion of piping, designer may provide 
+design and specification for either expansion 
+loop(s) or mechanical expansion joints for the 
+particular service, however, expansion loop(s) are 
+preferred.
+**************************************************************************
+2.1.1   
+High Pressure Piping System
+**************************************************************************
+NOTE:  Specify the maximum pressure and temperature 
+leaving the central heating plant.  Note that some 
+operating pressures may be substantially higher than 
+corresponding saturation pressures at the supply 
+temperature,  depending upon the method of plant 
+generator pressurization (Booster pumps and 
+compressed gas pressurization methods produce 
+distribution pressures considerably higher than 
+steam buffer type method).  Select design pressure 
+equal or greater than one and one half (1-1/2) times 
+the maximum operating pressure.
+**************************************************************************
+ASME B31.1
+; Maximum operating pressure of [_____]
+ kPa
+ psi
+ at [_____] 
+degrees C
+ degrees F
+; design pressure of
+ [2068] [2758] [4136] [_____] kPa
+ 
+[300] [400] [600] [_____] psi
+.
+2.1.2   
+Pipe
+Pipe
+ 50 mm
+ 2 inches
+ in diameter and larger: schedule 80, black steel plain 
+end beveled, 
+ASTM A53/A53M
+, Grade B, Type E (electric resistance welded) 
+or S (seamless), or 
+ASTM A106/A106M
+, Grade B.  Pipe sizes through
+ 40 mm
+ 1 
+1/2 inches
+ in diameter: schedule 80, black steel, 
+ASTM A106/A106M
+, Grade B.
+2.1.3   
+Pipe Fittings
+Fittings must be compatible in thickness with the pipe being used, must be 
+used in conformance with 
+ASME B31.1
+, and must conform to the following 
+requirements.  Steel welded fittings:  
+ASTM A234/A234M
+.  Flanges must be 
+serrated or raised-faced type.  In horizontal lines, reducing fittings 
+must  be the eccentric type and installed to ensure that the system can be 
+thoroughly drained.  Remove raised faces when used with existing flanges 
+having a flat face.
+2.1.3.1   
+Fittings for Steel Pipe Sizes
+ 3 to 50 mm
+ 1/8 to 2 inches
+ASME B16.11
+, Class 300 steel socket welding type.
+2.1.3.2   
+Fittings for Steel Sizes
+ 65 mm
+ 2 1/2 inches
+ and Above
+Steel fitting butt welding type 
+ASME B16.9
+ or 
+ASME B16.5
+flanged type, 
+SECTION 23 21 13.23 20  Page 10
+CANCELLED
+
+
+Class 300.
+2.1.4   
+Gaskets
+The Contractor must submit the manufacturers published temperature and 
+pressure ratings and provide materials recommended by the manufacturer for 
+the maximum operating temperature, system design pressure, and service 
+specified herein.
+2.1.5   
+Bolting
+Bolt studs for flanged joints must be alloy steel studs, threaded on both 
+ends and fitted with two hexagon nuts per stud.  Bolt must be 
+ASME B18.2.1
+ and material must conform to 
+ASTM A193/A193M
+, Grade B-7, 
+threads Class 7 fit.  Nuts must be American Standard Heavy semi-finished 
+hexagonal (
+ASME B18.2.2
+) and material must conform to 
+ASTM A194/A194M
+, 
+Grade 7.
+2.1.6   
+Vents
+**************************************************************************
+NOTE:  Air chambers may be deleted if branch 
+connections are made to bottom half of existing 
+overhead supply and return mains. See paragraph 
+entitled "Branch Connections" herein.
+**************************************************************************
+Provide air chambers and manual air vent valves as indicated at all high 
+points in the [HTW][MTW] system.  Provide a
+ 15 mm
+ 1/2 inch
+ vent line from 
+each air vent to the nearest drain.  Vent lines must be provided with two
+ 
+15 mm
+ 1/2 inch
+ bar stock globe valves as
+indicated.
+2.1.7   
+Valves
+; Gate, Globe, Ball, Check, Angle, and Control
+All valve materials must conform to 
+ASME B16.34
+.  Valve bodies must be 
+carbon or stainless steel (Type 304 or 316) with stainless steel trim. All 
+valves must be Class 300.  Ends must be butt welding or raised face 
+flanged type conforming to 
+ASME B16.34
+.  Valve pressure and temperature 
+design values must not be exceeded. The Contractor must submit the 
+manufacturers recommended materials list for valves, packing, and gaskets 
+with certification that all meet the system design pressure at maximum 
+operating temperature and the service as specified herein.
+2.1.7.1   
+Globe Valves
+Globe type valves must have outside screw and yoke with bolt bonnets, and 
+flat seats, but must not be of the reversed-cup type.  The stuffing boxes 
+must be large and deep.  Valves
+ 50 mm
+ 2 inches
+ and larger must have at 
+least six U or V type [teflon-impregnated braided non-asbestos] [_____] 
+packing rings, specifically designated as suitable for high-temperature 
+water. Valves smaller than
+ 50 mm
+ 2 inches
+ must have four or five rings.  
+Spiral or continuous packing will not be acceptable.  A metal insert must 
+be provided having proper clearance around the stem at the bottom of the 
+stuffing box and acting as a base for the packing materials.  
+Packing
+ 
+glands must be furnished with liner of noncorrosive material and must be 
+of one piece with not less than two bolts.  Valves
+ 32 mm
+ 1 1/4 inches
+ and 
+smaller need not have yokes or bolted screws and deep stuffing boxes.  
+Stems must be provided with bevel above the disk for cutoff and repacking 
+SECTION 23 21 13.23 20  Page 11
+CANCELLED
+
+
+valve under pressure when fully open.  On the underside side of the bonnet 
+a pack-under-pressure bushing of stainless steel must be provided.  The 
+bushing must be screwed into place.
+2.1.7.2   
+Gate Valves
+Gate valves, wedge gate type, outside screw and yoke, valve body with 
+straight through ports without recesses except between seats to assure 
+minimum turbulence, erosion, and resistance to flow.  The bonnet must be 
+equipped with a bonnet bushing.  The valves must have a self-centering 
+male and female joint equipped with a gasket.
+2.1.7.3   
+Temperature Control Valves
+**************************************************************************
+NOTE:  Provide valve operating conditions based upon 
+the type of control maintained at the central 
+heating plant for the distribution system, and the 
+arrangement of piping at the system terminal unit.  
+Three-way valves and balancing valves are not 
+recommended, nor any arrangement that may allow a 
+drop in temperature/pressure sufficient to cause 
+flash to steam.  The delta P at design load should 
+not be less than one half the available pressure 
+drop across the valve in order for the 
+equal-percentage type valve to function properly.
+**************************************************************************
+**************************************************************************
+Note:  Control valve delta P at design load (valve 
+full open) must not be less than
+ 34 kPa
+ 5 psi
+.  If 
+the control valve available differential pressure 
+drop with valve full open is less than
+ 34 kPa
+ 5 psi
+, 
+it is necessary to provide a pump sized for the 
+specific branch (loop) only, which does not affect 
+other system branches, to boost the available 
+pressure.
+**************************************************************************
+Two-way, single seated, equal percentage-flow type, industrial quality 
+flow regulating (control) valve conforming to the materials specified 
+herein, and size selected by the valve manufacturer for the following 
+conditions:
+a.  Maximum flow rate: [_____]
+ L/s
+ Gpm
+b.  Minimum flow rate: [_____]
+ L/s
+ Gpm
+c.  Internal pressure: [_____](maximum operating)
+ kPa
+ Psi
+d.  Pressure differential at design load:  [_____](open) delta p,
+ kPa
+ Psi
+e.  Pressure Differential at minimum load:  [_____] (closed) delta p,
+ kPa
+ 
+Psi
+ (Equal to pump head or controlled differential pressure in 
+variable volume flow system)
+Provide automatic operator with manual override (handwheel) and position 
+indicator.
+SECTION 23 21 13.23 20  Page 12
+CANCELLED
+
+
+2.1.7.4   
+Emergency Shutoff Valve
+[HTW] [MTW] automatic, quick closing, ball valve located between the 
+manual [HTW] [MTW] supply shutoff valve and the system terminal unit 
+inlet, with pressure/temperature sensor located on the shell side.  
+Emergency valve must automatically close when the pressure/temperature 
+setting of the shell side safety relief valve is reached.  Emergency Valve 
+must be normally open.
+2.1.8   
+Strainers
+Body materials must conform to 
+ASME B16.34
+, Fine Mesh type strainer and 
+trim must be Type 304 or 316 stainless steel, selected for the service 
+specified herein.
+2.1.9   
+Joints
+2.1.9.1   
+Welded Joints
+Joints between sections of pipe and between pipe and fittings must be 
+welded.  Joints between pipe and valves must be welded or flanged.  The 
+welding must conform to requirements of paragraph entitled "Responsibility 
+of Contractor for Fusion Welding."  Branch connections may be made with 
+either welding tees or forged branch outlet fittings, either being 
+acceptable without size limitations.  Branch outlet fittings where used 
+must be forged, flared for improved flow where attached to the run, 
+reinforced against external strains, and designed to withstand full 
+pipe-bursting strength.
+2.1.9.2   
+Flanged Joints
+Joints for connection to valves in high or medium temperature water system 
+must be welded or flanged, faced true, provided with gaskets, and made 
+perfectly square and tight.  Flanges must be forged steel, raised face, 
+weld-neck type.  Slip-on flanges will not be allowed.  Gaskets for [HTW] 
+[MTW] systems must be [metallic non-asbestos] [_____].
+2.1.10   
+Hangers and Supports
+**************************************************************************
+NOTE:  In project locations with Environmental 
+Severity Classification (ESC) of C4 or C5 or high 
+humidity areas as identified in ASHRAE 90.1 as 
+climate zones 0A, 1A, 2A, 3A, 3C, 4C and 5C, include 
+bracketed sentence below to require hot-dipped 
+galvanized hangers if ferrous materials are used.  
+See UFC 1-200-01 for determination of ESC for 
+project locations.
+**************************************************************************
+ASME B31.1
+, 
+MSS SP-58
+, and as specified herein.[  If ferrous materials are 
+used, provide hot-dipped galvanized hangers, inserts and supports.]
+2.1.11   
+Pipe Sleeves
+Schedule 80 steel pipe, and as specified herein.
+SECTION 23 21 13.23 20  Page 13
+CANCELLED
+
+
+2.1.12   
+Caulking and Sealants
+Materials as recommended by the manufacturer for the service specified 
+herein.
+2.1.13   
+Instrumentation
+2.1.13.1   
+Pressure Gages
+ASME B40.100
+, with corrosion resistant steel trim for high temperature 
+water service.  Dial range must be 0
+ kPa
+ psi
+ to the system design pressure 
+specified herein.  Provide stainless steel isolation petcock.
+2.1.13.2   
+Indicating Thermometers
+Thermometers must be dial type with an adjustable angle suitable for the 
+service.  Provide thermowell sized for each thermometer in accordance with 
+the thermowell specification.  Fluid-filled thermometers (mercury is not 
+acceptable) must have a nominal scale diameter of
+ 127 mm
+ 5 inches
+.  
+Construction must be stainless-steel case with molded glass cover, 
+stainless-steel stem and bulb.  Stem must be straight, length as required 
+to fit well.  Bimetal thermometers must have a scale diameter of
+ 90 mm
+ 3 
+1/2 inches
+.  Case must be hermetic.  Case and stem must be constructed of 
+stainless steel. Bimetal stem must be straight and of a length as required 
+to fit the well.
+2.1.14   
+System Terminal Units
+2.1.14.1   
+Heat Exchanger
+, [HTW][MTW]
+**************************************************************************
+NOTE:  Since the hot water heat exchanger and 
+associated hot water piping is specified in Section 
+23 21 13.00 20
+ LOW TEMPERATURE WATER [LTW] HEATING 
+SYSTEM and high or medium temperature water piping 
+herein, coordination for the heat exchanger details 
+indicating arrangement of piping is necessary.  
+Avoid redundancy between Section 
+23 21 13.23 20
+ 
+[HIGH] [MEDIUM] TEMPERATURE WATER SYSTEM WITHIN 
+BUILDINGS, Section 
+23 21 13.00 20
+ LOW TEMPERATURE 
+WATER [LTW] HEATING SYSTEM and other related 
+specifications sections.  When paragraph entitled 
+"Pressure Gages" is used, provide auxiliary piping 
+and accessories in other sections, including relief 
+valve, thermal measuring element (sensor), and 
+auxiliary piping and wiring, alarms, controllers, 
+and flow switches.
+**************************************************************************
+Designed for an operating pressure of
+ 2758 kPa
+ 400 psi
+ [_____] and a 
+temperature of
+ 204 degrees C
+ 400 degrees F
+ [_____]; factory tested 
+hydraulically to
+ 4136 kPa
+ 600 psi
+ [_____]; welded steel support brackets 
+or flanges; Class 300 steel primary water flanges; stainless steel or 
+seamless, stress relieved, cupro-nickel (90-10) U-tubes; steel head and 
+flanged opening for easy tube bundle removal; tube sheets and baffles of 
+[same material as tubes][steel]; steel shell designed for a pressure of
+ 
+4136 [2758] [2068] kPa
+ 600 [400] [300] psi
+; openings for ASME pressure 
+relief valve, thermal measuring element (sensor), pressure gage, vent, 
+thermometer, and drain, provided by welded fittings to shell; handholes 
+SECTION 23 21 13.23 20  Page 14
+CANCELLED
+
+
+provided where indicated or recommended by manufacturer.  Arrangement of 
+heat exchanger piping must be as indicated such that [HTW] [MTW] (primary 
+heating medium) is connected to the U-tube side (with offset flanges) and 
+secondary water to the shell side.  The heat exchanger must be designed in 
+accordance with 
+ASME BPVC SEC VIII D1
+, and carry the code stamp.
+2.1.14.2   
+Steam Producer
+, [HTW][MTW]
+**************************************************************************
+NOTE:  When paragraph entitled "Indicating 
+Thermometers" is used, coordination with Section 
+23 22 26.00 20
+ STEAM SYSTEM AND TERMINAL UNITS and 
+other related sections is necessary.  Designer must 
+provide specifications for the following accessories:
+1.  Feedwater pump(s).
+2. Condensate receiver.
+3.  Blowdown tank.
+4.  Chemical feed.
+5.  Makeup water.
+6.  Auxiliary piping & wiring.
+7.  Magnetrol water column pump controller/low water 
+cutoff.
+8.  Proportional pressure controller with pressure 
+sensing element for control valve.
+**************************************************************************
+Arranged with [HTW] [MTW] on the U-tube side and steam on the shell side, 
+designed for an operating pressure of
+ 2758 kPa
+ 400 psi
+ [_____] and a 
+temperature of
+ 204 degrees C
+ 400 degrees F
+ [_____], factory tested 
+hydraulically to
+ 4136 kPa
+ 600 psi
+ [_____]; welded steel support brackets 
+or flanges; Class 300 steel water connections (offset); stainless steel or 
+seamless, stress relieved, cupro-nickel (90-10) U-tubes; steel head and 
+flanges opening for easy tube bundle removal; steel shell designed for a 
+minimum pressure of
+ 862 kPa
+ 125 psi
+; openings for feedwater/makeup water, 
+drain, blowdown, steam outlet, water level gage, water level control 
+mechanism (pneumatic or electric), ASME safety relief valve [one] [two], 
+pressure gage, [manhole] [handholes], chemical feed, and vent; internal 
+water separator welded to shell at steam exit.  The steam producer must be 
+designed in accordance with 
+ASME BPVC SEC VIII D1
+, and carry the code 
+stamp.
+PART 3   EXECUTION
+3.1   
+INSTALLATION
+Arrange work in a neat and orderly manner so that minimum storage of 
+equipment and material is required at the project site.  All parts must be 
+readily accessible for inspection, repair, and renewal.  Protect material 
+and equipment from the weather.
+SECTION 23 21 13.23 20  Page 15
+CANCELLED
+
+
+3.2   
+PIPING
+Unless specifically stated to the contrary, fabrication, assembly, 
+welding, soldering, and brazing must conform to 
+ASME B31.1
+ for all piping 
+of the hot water system.  All piping must follow the general arrangement 
+shown; cut accurately to measurements established for the work by the 
+Contractor, and work into place without springing or forcing, except where 
+cold-springing is specified.  Install piping within buildings entirely out 
+of the way of lighting fixtures and doors, windows, and other openings. 
+Run overhead piping in buildings in the most inconspicuous positions.  
+Provide adequate clearances from walls, ceilings, and floors to permit the 
+welding of joints; at least
+ 150 mm
+ 6 inches
+ for pipe sizes
+ 100 mm
+ 4 inches
+ 
+and less,
+ 254 mm
+ 10 inches
+ for pipe sizes over
+ 100 mm
+ 4 inches
+, and in 
+corners provide sufficient clearance to permit the welder to work between 
+the pipe and one wall.  Make provision for expansion and contraction of 
+pipe lines.  Make changes in size of water lines with reducing fittings.  
+Do not bury, conceal, or insulate piping until it has been inspected, 
+tested, and approved.  Protect materials and equipment from the weather.  
+Do not run piping concealed in walls or partitions or underground or under 
+the floor except as otherwise indicated. Where pipe passes through 
+building structure, do not conceal pipe joints but locate where they may 
+be readily inspected.  Run all pipe to be insulated as shown and as 
+required with sufficient clearance to permit application of insulation.  
+Use flanged joints only where necessary for normal maintenance and where 
+required to match valves.  Provide gaskets, packing, and thread compounds 
+suitable for the service.  Use long radius ells wherever possible to 
+reduce pressure drops.  Pipe bends in lieu of welding fittings may be used 
+where space permits.  Pipe bends must have a uniform radius of at least 
+five times the pipe diameter and must be free from any appreciable 
+flattening, wrinkling, or thinning of the pipe.  Changes in direction may 
+be made by bending of pipe provided that a hydraulic pipe bender is used.  
+Pipe to be bent must be steel conforming to 
+ASTM A53/A53M
+, Class required 
+to match adjoining pipe.  Bent pipe showing kinks, wrinkles, or 
+malformations will not be acceptable.  Do not use mitering of pipe to form 
+elbows, notching straight runs to form full sized tees, or any similar 
+construction.  Make all branch connections with welding tees except 
+factory made forged welding branch outlets or nozzles having integral 
+reinforcements conforming to 
+ASME B31.1
+.  Open ends of pipe lines and 
+equipment must be properly capped or plugged during installation to keep 
+dirt and other foreign matter out of the system.  Pipe not otherwise 
+specified must be uncoated.
+3.2.1   
+Branch Connections
+Branches from supply and return mains must be taken off as indicated or as 
+approved.  Connections must be carefully made to ensure unrestricted 
+circulation, eliminate air pockets, and permit the complete drainage of 
+the system.  Changes in horizontal piping sizes must be made through 
+eccentric reducing fittings.
+3.2.2   
+Cleaning of Piping (Pre-Erection)
+Thoroughly clean each section of pipe, fittings, and valves of all foreign 
+matter before erection as follows: hold each piece of pipe in an inclined 
+position and thoroughly tap along its full length to loosen sand, mill 
+scale and other foreign matter.  Pipe
+ 50 mm
+ 2 inches
+ and larger must have 
+a wire brush of a diameter larger than that of the inside of the pipe 
+drawn through its entire length several times.  Before final connections 
+are made to apparatus, wash out the interior of all piping thoroughly with 
+SECTION 23 21 13.23 20  Page 16
+CANCELLED
+
+
+water.  Plug or cap open ends of mains during all shutdown periods.  Do 
+not leave lines open at any place where any foreign matter might 
+accidentally enter pipe.
+3.2.3   
+Cleaning of Piping (Post-Erection)
+Prior to the hydrostatic, performance and operating tests, the interior of 
+the heat-carrying piping must be flushed with water until the piping is 
+free of all foreign materials to the satisfaction of the [Contractor 
+Quality Control representative] [Contracting Officer].
+3.2.4   
+Valves
+3.2.4.1   
+General
+Install valves in conformance with 
+ASME B31.1
+ and as required herein at 
+the locations indicated. Install valves with stems horizontal or above.  
+Locate or equip stop valves to permit operation from floor level, or 
+provide with safe access in the form of walkways or ladders.  Install 
+valves in positions accessible for operation and repair.
+3.2.4.2   
+System Terminal Unit Piping
+**************************************************************************
+NOTE:  Ascertain that the flow in the hot water side 
+(shell) is continuous to preclude overheating, that 
+the hot water supply side is provided with 
+appropriate safety relief valve piped to drain, and 
+that any necessary alarms and flow switches are 
+provided on the hot water supply of the heat 
+exchanger.  Ascertain also that the high or medium 
+temperature water is on the tube side of the heat 
+exchanger and hot water on the shell side.
+**************************************************************************
+**************************************************************************
+NOTE:  The following information must be shown on 
+the project drawings:
+1.  Flow diagram of high or medium temperature water 
+piping indicating connections to existing supply and 
+return, pressure and temperature of existing supply 
+and return, (maximum and minimum or constant, 
+applicable), valves and critical valve positions 
+(including normally closed for bypass valve), any 
+necessary flow rates, pressure drops not already in 
+equipment schedule or specifications, and location 
+of temperature and/or pressure sensors.
+2.  System Terminal Unit detail providing location 
+of all piping including valves, strainers, flanges, 
+fittings, connections, and supports (coordinate with 
+Section 
+23 21 13.00 20
+ LOW TEMPERATURE WATER [LTW] 
+HEATING SYSTEM and Section 
+23 22 26.00 20
+ STEAM 
+SYSTEM AND TERMINAL UNITS).
+3.  Single line plan and any necessary sections 
+indicating location, sizes, and routing of all 
+associated piping.
+SECTION 23 21 13.23 20  Page 17
+CANCELLED
+
+
+4.  Appropriate schedules for equipment, including 
+any reset schedules.
+5.  This section requires connections to existing 
+high or medium temperature water piping that may 
+contain asbestos insulation or associated material.  
+Provide plans for removal and disposal of such 
+material.
+6.  Detail of connections to existing high or medium 
+temperature water piping, including air chambers and 
+vents as required.
+Since the hot water heat exchanger and associated 
+hot water piping is specified in Section 
+23 21 13.00 20
+ LOW TEMPERATURE WATER [LTW] HEATING 
+SYSTEM and high or medium temperature water piping 
+herein, coordination for the heat exchanger details 
+indicating arrangement of piping is necessary.  
+Avoid redundancy between Section 
+23 21 13.23 20
+ 
+[HIGH] [MEDIUM] TEMPERATURE WATER SYSTEM WITHIN 
+BUILDINGS, Section 
+23 21 13.00 20
+ LOW TEMPERATURE 
+WATER (LTW) HEATING SYSTEM and other related 
+specifications sections.  When paragraph entitled 
+"Pressure Gages" is used, provide auxiliary piping 
+and accessories in other sections, including relief 
+valve, thermal measuring element (sensor), and 
+auxiliary piping and wiring, alarms, controllers, 
+and flow switches.
+When paragraph entitled "Indicating Thermometers" is 
+used, coordination with Section 
+23 22 26.00 20
+ STEAM 
+SYSTEM AND TERMINAL UNITS and other related sections 
+is necessary.  Designer must provide specifications 
+for the following accessories:
+1.  Feedwater pump(s).
+2. Condensate receiver.
+3.  Blowdown tank.
+4.  Chemical feed.
+5.  Makeup water.
+6.  Auxiliary piping & wiring.
+7.  Magnetrol water column pump controller/low water 
+cutoff.
+8.  Proportional pressure controller with pressure 
+sensing element for control valve.
+**************************************************************************
+All associated [HTW] [MTW] piping must conform to the requirements 
+specified herein and arrangement be as indicated and specified. Install 
+control valve in the return side providing an upstream strainer, gate 
+SECTION 23 21 13.23 20  Page 18
+CANCELLED
+
+
+isolation valves, and a bypass with a globe or plug valve (Do not install 
+control valve in supply with a check valve in the return).  Install 
+automatic emergency shutoff valve to provide quick [HTW] [MTW] shutoff in 
+case of U-tube rupture and to protect the secondary piping.  Install gate 
+isolation valve in the supply.  Provide a dirt leg with a gate isolation 
+valve and capped end for the supply line drop.  All valves must be 
+installed in horizontal lines.  Arrange connections to system terminal 
+units with offset flanges such that adequate clearance is provided for 
+pulling tubes and maintenance without requiring breaking of pipe.
+3.2.5   
+Cleaning and Painting of Piping and Equipment
+Clean and paint piping in accordance with Section 
+09 90 00
+ PAINTS AND 
+COATINGS.
+3.2.6   
+Identification of Piping and Physical Hazards
+Identify all piping & physical hazards in accordance with 
+29 CFR 1910.144
+, 
+ASME A13.1
+, and 
+NEMA Z535.1
+.  Spacing of identification marks on runs must 
+not exceed
+ 15 meters
+ 50 feet
+.  Painting and stenciling must conform to 
+Section 
+09 90 00
+ PAINTS AND COATINGS. Colors must conform to 
+NEMA Z535.1
+.
+3.2.7   
+Hangers and Supports
+The design and fabrication of pipe hangers, supports, and welding 
+attachments must conform to 
+MSS SP-58
+ and 
+ASME B31.1
+.  Hanger types and 
+supports for bare and covered pipe must conform to 
+MSS SP-58
+for the 
+temperature range.  Unless otherwise indicated, horizontal and vertical 
+piping attachments must conform to 
+MSS SP-58
+.  Continuous inserts and 
+expansion joints
+ may be used.
+3.2.8   
+Pipe Sleeves
+Provide sleeves where pipes pass through masonry or concrete walls. 
+Sleeves in outside walls below and above grade, must be steel pipe, 
+Schedule 80.  Space between pipe or insulation and the sleeve must be not 
+less than
+ 6 mm
+ 1/4 inch
+.  Hold sleeves securely in proper position and 
+location before and during construction.  All sleeves must be of 
+sufficient length to pass through entire thickness of walls, partitions, 
+or slabs.  Firmly pack space between the pipe and the sleeve with oakum 
+and caulk on both ends of the sleeve with elastic cement.
+3.2.9   
+Instrumentation
+Provide a thermometer and pressure gage, as specified herein, on both the 
+high or medium temperature water supply and return piping located on the 
+system terminal unit side of the isolation valves.
+3.3   
+WELDING
+3.3.1   
+Responsibility of Contractor for Fusion Welding
+The Contractor is entirely responsible for the quality of the welding and 
+must:
+a.  Conduct tests not only of the welding procedure used by his 
+organization to determine the suitability of the procedure to insure 
+welds that will meet the required tests, but also of the welding 
+operators to determine the ability of the operators to make sound 
+SECTION 23 21 13.23 20  Page 19
+CANCELLED
+
+
+welds under standard conditions.
+b.  Be thoroughly familiar with 
+ASME B31.1
+ and with 
+AWS B2.1/B2.1M
+.
+c.  Be capable of performing all welding operations required for 
+construction and installation of the heating system.
+3.3.2   
+Qualifications of Welders
+Rules of procedure for qualification of all welders and general 
+requirements for fusion welding must conform with the applicable portions 
+of 
+ASME B31.1
+, or with 
+AWS B2.1/B2.1M
+, and also as outlined below.
+3.3.2.1   
+Examining Welders
+Each welder must be examined at the jobsite by the Contractor in the 
+presence of a representative of the Contracting Officer to determine the 
+ability of the welder to meet the qualifications required.  Welders for 
+piping must be tested and qualified for all applicable positions.  Each 
+welder must be required to identify his weld with his specific code 
+marking signifying his name and number assigned.
+3.3.2.2   
+Examination Results
+The Contracting Officer must be provided with a listing of names and 
+corresponding code markings.  Where a welder fails to meet the prescribed 
+welding qualifications, that welder must be retested, and if he fails the 
+second test, he must be disqualified for work on the project.
+3.3.3   
+Beveling, Alignment, and Erection
+Fabrication of welded pipe joints must be in accordance with 
+ASME B31.1
+.
+3.3.4   
+Weld Inspection
+Welds must be inspected for defects in accordance with the following:
+a.  Cracks must not be acceptable regardless of length or location;
+b.  Undercut must not be deeper than 5 percent of the base-metal thickness 
+or
+ 0.79 mm
+ 1/32 inch
+, whichever is less;
+c.  Overlap must not be permitted.  The Contracting Officer reserves the 
+right to further examine the welds by other means to establish the 
+soundness of any weld.  Weld defects must be removed and repairs made 
+to the weld, or the weld joints must be entirely removed and repairs 
+made to the weld at no additional cost to the Government.  Repairing 
+defective welds by adding weld material over the defect or by peening 
+will not be permitted.  Welders responsible for defective welds may be 
+required to requalify under paragraph entitled "Qualifications of 
+Welders."
+3.3.5   
+Electrodes
+Electrodes must be stored and dried in accordance with 
+AWS D1.1/D1.1M
+ or 
+as recommended by the manufacturer.  Electrodes that have been wetted or 
+that have lost any of their coating must not be used.
+SECTION 23 21 13.23 20  Page 20
+CANCELLED
+
+
+3.4   
+QUALITY CONTROL
+3.4.1   
+General Test Requirements
+Tests must be conducted before, during, and after the installation of the 
+system.  All instruments, equipment, facilities, and labor required to 
+properly conduct the tests must be provided by the Contractor.  Test 
+pressure gages for a specific test must be approved by the Contracting 
+Officer and must have dials indicating not less than 1 1/2 times nor more 
+than 2 times the test pressure.  Any deficiencies must be corrected at the 
+Contractor's expense.  Failure to correct any deficiencies will be cause 
+for rejection of the system.
+3.4.2   
+Field Tests
+The following field tests must be conducted when applicable to the system 
+involved.  If any failures occur, the Contractor must make such 
+adjustments or replacements as directed by the Contracting Officer, and 
+the tests must be repeated at the Contractor's expense until satisfactory 
+installation and operation are achieved.
+3.4.2.1   
+Hydrostatic Tests of Service Piping
+All service piping must be tested hydrostatically before insulation is 
+applied at field joints, and must be proved tight at a pressure 1 1/2 
+times the maximum operating pressure or
+ 1379 kPa
+ 200 psi
+, whichever is 
+greater, except hot water lines must not be tested at more than
+ 4136 kPa
+ 
+600 psi
+.  Hydrostatic test pressures must be held for a minimum of 4 hours.
+3.4.2.2   
+Operational Tests
+After completion of the system, or testable portions thereof, operational 
+tests must be conducted as in service to demonstrate satisfactory function 
+and operating effectiveness.  The tests on each system, or portion 
+thereof, must last not less than 6 hours.
+3.5   
+SCHEDULE
+Some metric measurements in this section are based on mathematical 
+conversion of inch-pound measurements, and not on metric measurements 
+commonly agreed on by the manufacturers or other parties.  The inch-pound 
+and metric measurements shown are as follows:
+Products
+Inch-Pound
+Metric
+a.  Fluid Filled Thermometer: Nominal 
+Scale Diameter
+= 5 inches
+= 127 mm
+b.  Bimetal Thermometer: Scale Diameter
+= 3 1/2 inches
+= 90 mm
+c.  Heat Exchanger: Operating Condition
+= 400 psi
+= 2758 kPa
+= 400 degrees F
+= 204 degrees C
+        -- End of Section --
+SECTION 23 21 13.23 20  Page 21
+CANCELLED

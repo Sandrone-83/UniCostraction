@@ -1,0 +1,4083 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-22 33 30 (August 2025)
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-22 33 30.00 10 (August 2020)
+UFGS-48 14 13.00 20 (May 2015)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 22 - PLUMBING
+SECTION 22 33 30
+SOLAR WATER HEATING EQUIPMENT
+08/25
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   SOLAR ENERGY SYSTEM
+  1.3   SUBMITTALS
+  1.4   QUALITY ASSURANCE
+    1.4.1   Welder Qualification
+    1.4.2   Material And Equipment
+    1.4.3   Operation and Maintenance Data
+    1.4.4   "As-Built" and Record Drawings
+  1.5   CYBERSECURITY EQUIPMENT CERTIFICATION
+  1.6   DELIVERY, STORAGE, AND HANDLING
+  1.7   WARRANTY
+    1.7.1   Warranty Exclusion
+    1.7.2   Cybersecurity During Warranty Period
+  1.8   CALCULATION
+  1.9   POSTED OPERATING INSTRUCTIONS
+    1.9.1   Maintenance and Accessibility
+  1.10   CERTIFICATIONS
+  1.11   HEALTH AND SAFETY RECOMMENDATIONS
+  1.12   SPARE PARTS
+PART 2   PRODUCTS
+  2.1   GENERAL EQUIPMENT REQUIREMENTS
+    2.1.1   Standard Products
+    2.1.2   Nameplates
+    2.1.3   Identical Items
+    2.1.4   Equipment Guards [and Access]
+    2.1.5   Solar Energy Systems
+    2.1.6   Special Tools
+  2.2   PIPING SYSTEM
+    2.2.1   Bolts and Nuts
+SECTION 22 33 30  Page 1
+CANCELLED
+
+
+    2.2.2   Gaskets
+    2.2.3   Copper Tubing
+    2.2.4   Solder-Joint Fittings
+    2.2.5   Brazing Metal
+    2.2.6   Piping Identification Labels
+    2.2.7   Unions
+    2.2.8   Dielectric Union
+    2.2.9   Dielectric Waterways and Flanges
+    2.2.10   Expansion Joints
+      2.2.10.1   Bellow Expansion Joints
+      2.2.10.2   Guided Slip-Tube Expansion Joints
+    2.2.11   Pipe Supports
+    2.2.12   Pipe Threads
+    2.2.13   Solder
+    2.2.14   Joints and Fittings for Copper Tubing
+      2.2.14.1   Bronze Flanges and Flanged Fittings
+  2.3   VALVES
+    2.3.1   Gate Valves
+    2.3.2   Globe and Angle Valves
+    2.3.3   Ball Valves
+    2.3.4   Water Pressure-Reducing Valves
+    2.3.5   Bronze Gate, Globe, Angle, and Check Valves
+    2.3.6   Balancing Cocks, Flow Rate Control and Meter
+    2.3.7   Control Valves
+      2.3.7.1   Shutoff and Diverting Control Valves
+      2.3.7.2   Non-Shutoff Mixing Valves
+      2.3.7.3   Valve Operators
+    2.3.8   Air Vents and Relief Valves, Pressure and Temperature
+      2.3.8.1   Air Vents
+      2.3.8.2   Relief Valves
+    2.3.9   Calibrating Balancing Valves
+  2.4   VACUUM BREAKERS
+  2.5   STRAINERS
+    2.5.1   Combination Strainer and Pump Suction Diffuser
+  2.6   PRESSURE GAUGES
+  2.7   THERMOMETERS
+  2.8   COPPER SHEETS COPPER ALLOY 110
+  2.9   ALUMINUM SHEETS
+  2.10   COMPRESSION TANKS
+  2.11   STORAGE TANKS
+    2.11.1   Solar Storage Tanks
+    2.11.2   Underground Tanks
+    2.11.3   Tank Insulations and Jackets
+    2.11.4   Dielectric Waterways and Flanges
+  2.12   SUPPLEMENTARY HEAT
+  2.13   ELECTRICAL WORK
+  2.14   COLLECTOR SUBSYSTEM
+    2.14.1   Collector Sizes
+      2.14.1.1   Minimum Performance Parameters
+    2.14.2   Flat Plate Collector Construction
+      2.14.2.1   Absorber Plate and Flow Tubes
+      2.14.2.2   Cover Glazing
+      2.14.2.3   Insulation
+      2.14.2.4   Collector Identification
+      2.14.2.5   Other Components
+      2.14.2.6   Hail Protection
+      2.14.2.7   Casing
+    2.14.3   Evacuated Tube Collectors
+      2.14.3.1   Operating Conditions
+SECTION 22 33 30  Page 2
+CANCELLED
+
+
+    2.14.4   Mounting and Assembly Hardware
+    2.14.5   Solar Collector Performance
+  2.15   SOLAR COLLECTORS ARRAY
+    2.15.1   Net Absorber Area and Array Layout
+    2.15.2   Piping
+    2.15.3   Supports for Solar Collector Array
+  2.16   LIGHTNING PROTECTION SYSTEM
+  2.17   TRANSPORT SUBSYSTEM
+    2.17.1   Heat Exchangers
+      2.17.1.1   Plate-and-Frame Construction
+      2.17.1.2   [Shell and Tube][ or ][Tube in Tube] Construction
+      2.17.1.3   Coil Heat Exchanger
+    2.17.2   Pumps
+      2.17.2.1   [Booster][ and ][Circulating] Pumps
+    2.17.3   Pipe Insulation
+    2.17.4   Expansion Tank
+    2.17.5   Heat Transfer Fluid
+      2.17.5.1   Collector Heat Transfer FluidHeat Transfer Fluid
+    2.17.6   Solar-boosted Domestic Water Heaters
+    2.17.7   Drain Back Tank
+  2.18   INSULATION
+  2.19   CONTROL AND INSTRUMENTATION SUBSYSTEM
+    2.19.1   Solar Controller
+      2.19.1.1   Differential Temperature Control
+      2.19.1.2   High Limit Control
+      2.19.1.3   Swimming Pool Control
+      2.19.1.4   Controller Enclosure
+    2.19.2   Differential Temperature Control Equipment
+    2.19.3   Sensors
+    2.19.4   Pressure Gages
+    2.19.5   Tank Gages
+    2.19.6   Thermistor Temperature Sensors
+    2.19.7   Differential Thermostat
+    2.19.8   Sensor and Control Wiring
+    2.19.9   Thermometers
+    2.19.10   Flowmeters
+    2.19.11   Test Ports
+    2.19.12   Monitoring System
+    2.19.13   Sight Flow Indicators
+  2.20   SOLAR COLLECTOR CONTROL SEQUENCES
+  2.21   PAINTING AND FINISHING
+    2.21.1   Factory Painting System
+      2.21.1.1   Inside the Building
+      2.21.1.2   Outside the Building
+    2.21.2   Shop Painting System for Metal Surfaces
+      2.21.2.1   Certification
+PART 3   EXECUTION
+  3.1   EXAMINATION
+  3.2   INSTALLATION
+    3.2.1   Solar Collector System
+    3.2.2   Collector Subsystem
+      3.2.2.1   Collector Array
+      3.2.2.2   Array Piping
+      3.2.2.3   Piping Installation
+        3.2.2.3.1   Fittings
+        3.2.2.3.2   Measurements
+        3.2.2.3.3   Cleaning
+SECTION 22 33 30  Page 3
+CANCELLED
+
+
+        3.2.2.3.4   Panel Connections to Headers
+        3.2.2.3.5   Header Thermal Expansion and Contraction
+        3.2.2.3.6   Flanged Joints
+        3.2.2.3.7   Sleeves
+        3.2.2.3.8   Flashing
+        3.2.2.3.9   Escutcheons
+        3.2.2.3.10   Drain Lines
+        3.2.2.3.11   Insulation and Identification
+      3.2.2.4   Excavating and Backfilling
+      3.2.2.5   Instrumentation
+      3.2.2.6   Array Support
+    3.2.3   Storage Subsystem
+    3.2.4   Transport Subsystem
+      3.2.4.1   Flow Rates
+      3.2.4.2   Pumps
+      3.2.4.3   Expansion Tank
+      3.2.4.4   Piping, Valves, and Accessories
+      3.2.4.5   Pipe Expansion
+      3.2.4.6   Valves
+      3.2.4.7   Foundations
+      3.2.4.8   Grooved Mechanical Joints
+    3.2.5   Control Subsystem
+      3.2.5.1   Differential Temperature Controller
+      3.2.5.2   Sequence of Operation
+  3.3   INSPECTION AND TESTING
+    3.3.1   Inspection
+    3.3.2   Testing Prior to Concealment
+      3.3.2.1   Piping Test
+      3.3.2.2   Hydrostatic Test
+      3.3.2.3   Cleaning of Piping
+    3.3.3   Posting Framed Instructions
+    3.3.4   Acceptance Testing and Final Inspection
+      3.3.4.1   As-Built Drawings
+      3.3.4.2   Final Hydrostatic Test
+      3.3.4.3   System Flushing
+      3.3.4.4   System Filling
+      3.3.4.5   Control Logic
+      3.3.4.6   Temperature Sensor Diagnostics
+      3.3.4.7   Mechanical Systems Tests
+      3.3.4.8   Operation Test
+  3.4   FIELD QUALITY CONTROL
+    3.4.1   Field Inspection
+    3.4.2   Manufacturer's Field Services
+  3.5   COMMISSIONING
+    3.5.1   Commissioning Agent Qualification
+    3.5.2   Commissioning Plan and Schedule
+    3.5.3   Start-up Pre-functional Checklists
+    3.5.4   Functional Performance Testing
+    3.5.5   Functional Performance Testing Results
+  3.6   OVERALL SYSTEM OPERATIONS
+  3.7   INSTRUCTIONS TO THE GOVERNMENT PERSONNEL
+    3.7.1   Instructor's Qualification Resume
+  3.8   FIELD TRAINING
+-- End of Section Table of Contents --
+SECTION 22 33 30  Page 4
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-22 33 30 (August 2025)
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-22 33 30.00 10 (August 2020)
+UFGS-48 14 13.00 20 (May 2015)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 22 33 30
+SOLAR WATER HEATING EQUIPMENT
+08/25
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for solar domestic and service water 
+heating equipment.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+**************************************************************************
+NOTE:  Applications of the solar systems may be 
+domestic hot water, space heating, swimming pool 
+heating, process fluid heating, spa water heating, 
+air conditioning for solar cooling and heating, 
+agricultural process heating, or other commercial 
+and industrial uses.
+NOTE:  Show the following information on the project 
+drawings:
+1.  Control equipment operation matrix.
+2.  Control operations sequence.
+3.  Details of soft-drawn copper-tubing connectors 
+SECTION 22 33 30  Page 5
+CANCELLED
+
+
+to top and bottom headers of solar-collector panel.
+4.  System diagram.
+5.  Panel array layout and locations.
+6.  System equipment locations.
+7.  Equipment piping details.
+8.  Mounting details.
+9.  Schedules in accordance with UFC 3-440-01, 
+"Facility Scale Renewable Energy Systems".
+**************************************************************************
+PART 1   GENERAL
+**************************************************************************
+NOTE:  In accordance with the design guidance 
+presented in UFC 3-440-01, the system is designed 
+around the properties of a particular collector.  
+The designer should indicate the design methodology 
+used on the drawings.  This ensures that equipment 
+shown on detail drawings (if different from the 
+equipment assumed by the designer) is properly 
+sized.  It is particularly important for the 
+designer to indicate on the drawings the collector 
+parameters used in the design.  Detail drawings 
+returned should also be so noted, particularly if 
+the collector chosen has properties different from 
+those used in the original design.  UFC 3-440-01 
+provides the designer, project manager, and quality 
+assurance personnel a checklist of required drawings 
+and information called out by this guide 
+specification to appear on the drawings.
+Minimize the risk of legionellosis in building water 
+system by following guidance in the U.S. Army Corps 
+of Engineers (USACE) Engineer Manual (EM) 200-1-13, 
+Environmental Quality:  Minimizing the Risk of 
+Legionellosis Associated with Building Water Systems 
+on Army Installations.
+**************************************************************************
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+SECTION 22 33 30  Page 6
+CANCELLED
+
+
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI)
+ANSI Z21.22/CSA 4.4
+(2015; R 2025) Relief Valves for Hot Water 
+Supply Systems
+AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE)
+ASCE 7-16
+(2017; Errata 2018; Supp 1 2018) Minimum 
+Design Loads and Associated Criteria for 
+Buildings and Other Structures
+AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING 
+ENGINEERS (ASHRAE)
+ASHRAE 90.1 - IP
+(2019) Energy Standard for Buildings 
+Except Low-Rise Residential Buildings
+ASHRAE 93
+(2010; Errata 2013; Errata 2014) Methods 
+of Testing to Determine the Thermal 
+Performance of Solar Collectors
+ASHRAE 96
+(1980; R 1989) Methods of Testing to 
+Determine the Thermal Performance of 
+Unglazed Flat-Plate Liquid-Type Solar 
+Collectors
+AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)
+ASME A13.1
+(2023) Scheme for the Identification of 
+Piping Systems
+ASME B1.20.1
+(2013; R 2018) Pipe Threads, General 
+Purpose (Inch)
+ASME B1.20.2M
+(2006; R 2011) Pipe Threads, 60 Deg. 
+General Purpose (Metric)
+ASME B16.1
+(2020) Gray Iron Pipe Flanges and Flanged 
+Fittings Classes 25, 125, and 250
+ASME B16.15
+(2024) Cast Copper Alloy Threaded Fittings 
+Classes 125 and 250
+ASME B16.18
+(2021) Cast Copper Alloy Solder Joint 
+Pressure Fittings
+SECTION 22 33 30  Page 7
+CANCELLED
+
+
+ASME B16.22
+(2021) Wrought Copper and Copper Alloy 
+Solder Joint Pressure Fittings
+ASME B16.24
+(2022) Cast Copper Alloy Pipe Flanges, 
+Flanged Fittings, and Valves Classes 150, 
+300, 600, 900, 1500, and 2500
+ASME B16.26
+(2024) Cast Copper Alloy Fittings for 
+Flared Copper Tubes
+ASME B16.39
+(2025) Malleable Iron Threaded Pipe 
+Unions; Classes 150, 250, and 300
+ASME B31.1
+(2024) Power Piping
+ASME B40.100
+(2022) Pressure Gauges and Gauge 
+Attachments
+ASME BPVC SEC VIII
+(2015) Boiler and Pressure Vessel Codes:  
+Section VIII Rules for Construction of 
+Pressure Vessel
+ASME BPVC SEC VIII D1
+(2023) BPVC Section VIII-Rules for 
+Construction of Pressure Vessels Division 1
+ASME PTC 19.3 TW
+(2016; R 2025) Thermowells
+AMERICAN SOCIETY OF SANITARY ENGINEERING (ASSE)
+ASSE 1003
+(2020) Performance Requirements for Water 
+Pressure Reducing Valves for Domestic 
+Water Distribution Systems - (ANSI 
+approved 2010)
+ASSE 1017
+(2023) Performance Requirements for 
+Temperature Actuated Mixing Valves for Hot 
+Water Distribution Systems - (ANSI 
+approved 2010)
+AMERICAN WELDING SOCIETY (AWS)
+AWS A5.8/A5.8M
+(2019) Specification for Filler Metals for 
+Brazing and Braze Welding
+AWS B2.1/B2.1M
+(2021) Specification for Welding Procedure 
+and Performance Qualification
+AWS D1.2/D1.2M
+(2014; Errata 1 2014; Errata 2 2020) 
+Structural Welding Code - Aluminum
+ASTM INTERNATIONAL (ASTM)
+ASTM A193/A193M
+(2026) Standard Specification for 
+Alloy-Steel and Stainless Steel Bolting 
+for High Temperature or High Pressure 
+Service and Other Special Purpose 
+Applications
+ASTM A194/A194M
+(2026) Standard Specification for Carbon 
+SECTION 22 33 30  Page 8
+CANCELLED
+
+
+Steel, Alloy Steel, and Stainless Steel 
+Nuts for Bolts for High-Pressure or 
+High-Temperature Service, or Both
+ASTM B32
+(2020) Standard Specification for Solder 
+Metal
+ASTM B62
+(2017; R 2025) Standard Specification for 
+Composition Bronze or Ounce Metal Castings
+ASTM B75/B75M
+(2026) Standard Specification for Seamless 
+Copper Tube
+ASTM B88
+(2022) Standard Specification for Seamless 
+Copper Water Tube
+ASTM B88M
+(2020) Standard Specification for Seamless 
+Copper Water Tube (Metric)
+ASTM B117
+(2025) Standard Practice for Operating 
+Salt Spray (Fog) Apparatus
+ASTM B152/B152M
+(2019) Standard Specification for Copper 
+Sheet, Strip, Plate, and Rolled Bar
+ASTM B168
+(2019; E 2022) Standard Specification for 
+Nickel-Chromium-Iron Alloys, 
+Nickel-Chromium-Cobalt-Molybdenum Alloy, 
+and Nickel-Iron-Chromium-Tungsten Alloy 
+Plate, Sheet, and Strip
+ASTM B209
+(2014) Standard Specification for Aluminum 
+and Aluminum-Alloy Sheet and Plate
+ASTM B209M
+(2014) Standard Specification for Aluminum 
+and Aluminum-Alloy Sheet and Plate (Metric)
+ASTM B828
+(2023) Standard Practice for Making 
+Capillary Joints by Soldering of Copper 
+and Copper Alloy Tube and Fittings
+ASTM C1048
+(2018) Standard Specification for 
+Heat-Strengthened and Fully Tempered Flat 
+Glass
+ASTM D3667
+(2016) Standard Specification for Rubber 
+Seals Used in Flat-Plate Solar Collectors
+ASTM D3832
+(1979; R 2011) Standard Specification for 
+Rubber Seals Contacting Liquids in Solar 
+Energy Systems
+ASTM E1
+(2014; R 2025) Standard Specification for 
+ASTM Liquid-in-Glass Thermometers
+ASTM E822
+(1992; R 2009) Standard Practice for 
+Determining Resistance of Solar Collector 
+Covers to Hail by Impact With Propelled 
+Ice Balls
+SECTION 22 33 30  Page 9
+CANCELLED
+
+
+ASTM E1160
+(2013; R 2021) Standard Guide for On-Site 
+Inspection and Verification of Operation 
+of Solar Domestic Hot Water Systems
+ASTM F1199
+(2021) Standard Specification for Cast 
+(All Temperatures and Pressures) and 
+Welded Pipe Line Strainers (150 psig and 
+150 degrees F Maximum)
+INTERNATIONAL CODE COUNCIL (ICC)
+ICC IBC
+(2024) International Building Code
+MANUFACTURERS STANDARDIZATION SOCIETY OF THE VALVE AND FITTINGS 
+INDUSTRY (MSS)
+MSS SP-25
+(2018) Standard Marking System for Valves, 
+Fittings, Flanges and Unions
+MSS SP-58
+(2025) Pipe Hangers and Supports - 
+Materials, Design and Manufacture, 
+Selection, Application, and Installation
+MSS SP-72
+(2010a) Ball Valves with Flanged or 
+Butt-Welding Ends for General Service
+MSS SP-80
+(2019) Bronze Gate, Globe, Angle, and 
+Check Valves
+MSS SP-110
+(2010) Ball Valves Threaded, 
+Socket-Welding, Solder Joint, Grooved and 
+Flared Ends
+NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION (NEMA)
+NEMA 250
+(2020) Enclosures for Electrical Equipment 
+(1000 Volts Maximum)
+NEMA MG 00001
+(2024) Motors and Generators
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+NFPA 780
+(2026) Standard for the Installation of 
+Lightning Protection Systems
+SHEET METAL AND AIR CONDITIONING CONTRACTORS' NATIONAL ASSOCIATION 
+(SMACNA)
+SMACNA 1981
+(2024) Seismic Restraint Manual Guidelines 
+for Mechanical Systems, 3rd Edition
+SOLAR RATING AND CERTIFICATION CORPORATION (SRCC)
+SRCC CRIS
+(ongoing online) Certification Ratings 
+Information Service (CRIS)
+SRCC OG-100
+(2015) Solar Thermal Collector 
+Certification Program
+SECTION 22 33 30  Page 10
+CANCELLED
+
+
+SRCC OG-300
+(2015) Solar Thermal System Certification 
+Program
+SRCC STD 300
+(2015) Solar Thermal System Standard
+U.S. DEPARTMENT OF DEFENSE (DOD)
+UFC 3-301-01
+(2023; with Change 6, 2026) Structural 
+Engineering
+U.S. GENERAL SERVICES ADMINISTRATION (GSA)
+CID A-A-59617
+(Basic, Notice 1) Unions, Brass or Bronze, 
+Threaded Pipe Connections and Solder-Joint 
+Tube Connections
+CID A-A-60001
+(Rev A) Traps, Steam
+FS F-T-2907
+(Rev A; Notice 1) Tanks, Portable Hot 
+Water Storage
+UL SOLUTIONS (UL)
+UL 873
+(2007; Reprint Feb 2015) Standard for 
+Temperature-Indicating and -Regulating 
+Equipment
+UL Electrical Construction
+(2012) Electrical Construction Equipment 
+Directory
+1.2   
+SOLAR ENERGY SYSTEM
+**************************************************************************
+NOTE:  For systems located in an area subject to 
+freezing, a closed-loop antifreeze system may be 
+used.  This system requires the propylene-glycol 
+based heat transfer fluid, pumps, heat exchanger, 
+and an expansion tank.  A drain back system with 
+either potable water or a propylene-glycol based 
+heat transfer fluid in a closed loop may also be 
+used.  For systems at locations in which freezing 
+temperatures do not occur, a direct circulation 
+system may be used.  UFC 3-440-01 provides further 
+information on these system types and their 
+appropriate uses.  The Solar Collectors 
+Manufacturer's factory designed systems, applicable 
+to the specific location and use, may be utilized.
+**************************************************************************
+a.  Provide a solar energy system arranged for preheating of service 
+(domestic [and][or] process) water using flat plate liquid solar 
+collectors or evacuated tube collectors.  Solar systems may be 
+pressurized glycol systems[ or drain back systems].  Include in the 
+system components the solar collector array, storage tank[s], pump[s], 
+automatic controls, instrumentation, interconnecting piping and 
+fittings,[ uninhibited food-grade propylene-glycol and water heat 
+transfer fluid in a closed loop,][ potable water heat transfer fluid 
+in an open loop,][ heat exchanger,][ expansion tank,][ drain back 
+SECTION 22 33 30  Page 11
+CANCELLED
+
+
+tank] and all accessories required for the fully functional operation 
+of the system.  Provide all appurtenances required by a manufacturer 
+designed system for a full and functional operation.
+b.  Submit manufacturer's descriptive and technical literature; 
+performance chart and curves; catalog cuts; installation instructions; 
+proposed diagrams, instructions, and other sheets prior to posting.  A 
+copy of the posted instructions proposed to be used, including a 
+system schematic, wiring and control diagrams, and a complete layout 
+of the entire system.  Include with the instructions, in typed form, 
+condensed operating instructions explaining preventive maintenance 
+procedures, methods of checking the system for normal safe operation 
+and procedures for safely starting and stopping the system, methods of 
+balancing and testing flow in the system, and methods of testing for 
+control failure and proper system operation.
+c.  Submit drawings containing a system schematic; a collector layout and 
+roof plan noting reverse-return piping for the collector array; a 
+system elevation; an equipment room layout; a schedule of operation 
+and installation instructions; and a schedule of design information 
+including collector height and width, recommended flow rate and 
+pressure drop at that flow rate, and number of collectors to be 
+grouped per bank.
+d.  Include on the drawings complete wiring and schematic diagrams and any 
+other details required to demonstrate that the system has been 
+coordinated and will properly function as a unit.  Show proposed 
+layout and anchorage of equipment and appurtenances, and equipment 
+relationship to other parts of the work, including clearances for 
+maintenance and operation.
+1.3   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a "G" to an item 
+if the submittal is sufficiently important or 
+complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+SECTION 22 33 30  Page 12
+CANCELLED
+
+
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-02 Shop Drawings
+Solar Energy System
+As-Built Drawings
+Valves
+; 
+G
+, [_____]
+Instrumentation
+; 
+G
+, [_____]
+Solar Energy Systems
+; 
+G
+, [_____]
+Installation
+; 
+G
+, [_____]
+SD-03 Product Data
+Spare Parts
+Solar Energy System
+Quality Assurance
+; 
+G
+, [_____]
+Commissioning Plan
+; 
+G
+, [_____]
+Commissioning Schedule
+; 
+G
+, [_____]
+Piping
+; 
+G
+, [_____]
+Instrumentation
+; 
+G
+, [_____]
+Valves
+; 
+G
+, [_____]
+Pumps
+; 
+G
+, [_____]
+Solar 
+Storage Tanks
+; 
+G
+, [_____]
+Solar Collectors
+; 
+G
+, [_____]
+Heat Exchangers
+; 
+G
+, [_____]
+Compression Tanks
+; 
+G
+, [_____]
+Solar-Boosted 
+Domestic Water Heaters
+; 
+G
+, [_____]
+Collector 
+Heat Transfer Fluid
+; 
+G
+, [_____]
+SECTION 22 33 30  Page 13
+CANCELLED
+
+
+Insulation
+ Around Piping and Storage Tanks; 
+G
+, [_____]
+Piping System
+; 
+G
+, [_____]
+SD-06 Test Reports
+Inspection and Testing
+**************************************************************************
+NOTE:  Underground tanks are not a recommended 
+method for thermal storage.  A design with thermal 
+storage within a building is more ideal for 
+efficiency.
+**************************************************************************
+Underground Solar Storage Tanks 
+Holiday Test
+; 
+G
+, [_____]
+SD-07 Certificates
+Welder qualification
+; 
+G
+, [_____]
+[
+Cybersecurity Equipment Certification
+; 
+G
+, [_____]
+]
+Seismic Certification
+; 
+G
+, [_____]
+Wind Certification
+; 
+G
+, [_____]
+Shop Painting System
+ Certification; 
+G
+, [_____]
+SD-08 Manufacturer's Instructions
+Solar Energy Systems
+; 
+G
+, [_____]
+SD-10 Operation and Maintenance Data
+Operation and Maintenance Procedures
+; 
+G
+[, [_____]]
+Solar Energy Systems
+, Data Package 3; 
+G
+, 
+SD-11 Closeout Submittals
+Posted Operating Instructions
+ for Solar Energy System; 
+G
+[, [_____]]
+1.4   
+QUALITY ASSURANCE
+1.4.1   
+Welder Qualification
+Qualify procedures and welders in accordance with with Section 
+40 05 13.96
+ 
+WELDING PROCESS PIPING unless a specific welding code is specified under 
+which the welding is specified to be accomplished.  Submit, prior to 
+welding operations,  copies of qualified procedures and lists of names and 
+identification symbols of qualified welders and welding operators.
+1.4.2   
+Material And Equipment
+Provide materials and equipment that are products of manufacturers 
+regularly engaged in the production of such products which are of equal 
+material, design and workmanship.  Provide products with satisfactory 
+SECTION 22 33 30  Page 14
+CANCELLED
+
+
+commercial or industrial use for years prior to bid opening, and past 
+performance documentation with consistent design and bill of materials.  
+Include applications of equipment and materials under similar 
+circumstances and of similar size.  Where or more items of the same class 
+of equipment are required, products will be from a single manufacturer; 
+the component parts of the item must be the products of the same 
+manufacturer unless stated in the technical section.  Submit proof of 
+compliance with requirements of UL, where material or equipment is 
+specified to comply.  The label of or listing in 
+UL Electrical Construction
+ will be acceptable evidence.  In lieu of the label or listing, a written 
+certificate from an approved nationally recognized testing laboratory 
+(NRTL) equipped to perform such services, stating that the items have been 
+tested and conform to the requirements and testing methods of Underwriters 
+Laboratories may be submitted.
+1.4.3   
+Operation and Maintenance Data
+Submit 
+Solar Energy Systems
+ data package for the following items in 
+accordance with Section 
+01 78 23
+ OPERATION AND MAINTENANCE DATA.
+a.  Troubleshooting guide for solar energy systems[ with as-built plans 
+displaying systems components coordinated with activity to organize as 
+required].
+b.  Solar collector warranty
+c.  Operation instructions
+d.  Preventive maintenance and inspection data, including a schedule for 
+system operators.
+e.  Project[ as-built] drawings.
+1.4.4   
+"As-Built" and Record Drawings
+After completion of construction, submit 
+"As-Built" drawings
+ prepared and 
+certified by the construction contractor, showing in red ink, on-site 
+changes to the original construction details and all underground utilities 
+measured from field benchmarks, accurate to within
+ 25 mm
+1 inch
+ of 
+centerline of the utility.  Immediately record for inclusion into the 
+"As-Built" drawings all modifications to original drawings made during 
+installation.  Indicate adequate clearance for operation, maintenance, and 
+replacement of operating equipment devices.  After submittal and approval 
+of "As-Built" drawings, submit Record Drawings, prepared and by the 
+project engineer(s) and architect(s), of the original design drawings 
+reflecting all design changes and contractor noted changes in the 
+"As-Built" drawings.
+[
+1.5   
+CYBERSECURITY EQUIPMENT CERTIFICATION
+**************************************************************************
+NOTE:  Select this option if the solar water heating 
+system includes remote control or remote access 
+capability even if the system is separate from an 
+energy management control system.  Exercise a Risk 
+Management Framework (RMF) for implementing 
+cybersecurity.  Refer to Section 
+25 05 11
+ 
+CYBERSECURITY FOR FACILITY-RELATED CONTROL SYSTEMS 
+and UFC 4-010-06 Cybersecurity of Facility-Related 
+SECTION 22 33 30  Page 15
+CANCELLED
+
+
+Control Systems (FRCS) for requirements on 
+incorporating cybersecurity into control system and 
+for general information on the Risk Management 
+Framework (RMF) process as it applies to control 
+system.  Coordinate equipment certification with 
+Government's cybersecurity requirements and 
+interpretations.
+**************************************************************************
+Furnish a certification that control systems are designed and tested in 
+accordance with DoD Instruction 8500.01, DoD Instruction 8510.01, and as 
+required by individual Service Implementation Policy.
+]
+1.6   
+DELIVERY, STORAGE, AND HANDLING
+Protect all equipment delivered and placed in storage from the weather, 
+excessive humidity and excessive temperature variation, and dirt and dust 
+or other contaminants.
+1.7   
+WARRANTY
+**************************************************************************
+NOTE:  Warranties on Navy construction:  Warranties 
+for equipment, materials, or design, furnished, or 
+workmanship performed by the Contractor, or any 
+subcontractor or supplier, has a duration of one 
+year from the date of final acceptance of the work.  
+An exception is in normal commercial practice, 
+longer warranty periods for particular construction 
+are given.  A warranty duration of longer than a 
+year, and not covered normally by the industry, 
+requires a Level III Contracting Officer's written 
+determination documenting that the extra warranty 
+protection is needed.
+Most flat plate collector manufacturers provide a 
+minimum 10-year warranty.  In the past, the solar 
+energy field attracted a large number of 
+disreputable manufacturers, many of whom were out of 
+business long before their warranty expired.  Any 
+manufacturer that meets this collector specification 
+should provide a quality collector that is capable 
+of surviving the warranty.
+**************************************************************************
+Provide a minimum 10-year warranty against the following: failure of 
+manifold or riser tubing, joints or fittings; degradation of absorber 
+plate selective surface; rusting or discoloration of collector hardware; 
+and embrittlement of header manifold seals.  Include in the warranty full 
+repair or replacement of defective materials or equipment.  Include 
+warranty information, names, addresses, telephone numbers, and procedures 
+for filing a claim and obtaining warranty services.  The equipment items 
+must be supported by service organizations which are reasonably convenient 
+to the equipment installation in order to render satisfactory service to 
+the equipment on a regular and emergency basis during the warranty period 
+of the contract.[  Provide mounting system warranty of minimum 15 years.]
+SECTION 22 33 30  Page 16
+CANCELLED
+
+
+1.7.1   
+Warranty Exclusion
+The warranty must cover all system malfunctions and failures except those 
+resulting from misuse, abuse, neglect, fire, vandalism, acts of nature, or 
+other causes beyond the control of the Contractor or manufacturer.
+[
+1.7.2   
+Cybersecurity During Warranty Period
+**************************************************************************
+NOTE:  Select this option if the solar water heating 
+system includes remote control or remote access 
+capability.
+**************************************************************************
+All work performed on the control system after acceptance must be 
+performed using Government Furnished Equipment or equipment specifically 
+and individually approved by the Government.
+]
+1.8   
+CALCULATION
+If construction is approved to deviate from design, provide relevant 
+calculations to demonstrate that new design is satisfactory.
+1.9   
+POSTED OPERATING INSTRUCTIONS
+Provide for piping identification codes and diagrams of solar energy 
+systems, operating instructions, control matrix, and troubleshooting 
+instructions. Instructions are to be posted at a place agreed to by the 
+Government.
+1.9.1   
+Maintenance and Accessibility
+Collector design must allow for rapid replacement of glass covers.  Pumps, 
+pipes, valves, and controls must be accessible to allow for repair or 
+replacement.  Water pumps must be located so that leakage does not cause 
+serious damage.  The operations and maintenance manual must be developed 
+for the specific design of the solar system and include a valve 
+maintenance schedule.  Comply with CFR 1910 Subpart E, Exit Routers and 
+Emergency Planning requirements.  Maintenance access must follow OSHA fall 
+protection requirements.
+1.10   
+CERTIFICATIONS
+Provide 
+seismic certification
+ and 
+wind certification
+, prepared by a 
+licensed professional engineer or National Recognized Testing Laboratory, 
+(NRTL) for all components and assembled systems in accordance with 
+ASCE 7-16
+, 
+ICC IBC
+, state and local building codes.  Seismic and wind 
+certifications must demonstrate system must withstand wind and seismic 
+requirements as installed and remain online and functional after a seismic 
+or wind event.
+1.11   
+HEALTH AND SAFETY RECOMMENDATIONS
+Section 
+01 35 26
+ GOVERNMENTAL SAFETY REQUIREMENTS, applies to this section 
+with additions and modifications specified herein.
+1.12   
+SPARE PARTS
+Submit data for each different item of material and equipment listed, 
+SECTION 22 33 30  Page 17
+CANCELLED
+
+
+including a complete list of parts and supplies, with current unit prices 
+and source of supply; a list of parts and supplies that are either 
+normally furnished at no extra cost with the purchase of equipment, or 
+specified to be furnished as part of the contract; and a list of 
+additional items recommended by the manufacturer which must provide 
+efficient operation for a period of 120 days.
+PART 2   PRODUCTS
+**************************************************************************
+NOTE:  To comply with Public Law 109-58 (Energy 
+Policy Act of 2005) design new federal buildings to 
+achieve energy consumption levels that are at least 
+30 percent below the level required by ASHRAE 
+90.1-2004.  As a minimum, all energy consuming 
+products and systems must meet or exceed the 
+requirements of the latest ASHRAE 90.1.
+**************************************************************************
+2.1   
+GENERAL EQUIPMENT REQUIREMENTS
+2.1.1   
+Standard Products
+Provide materials and equipment which are the standard products of a 
+manufacturer regularly engaged in the manufacture of such products and 
+that essentially duplicate items that have been in satisfactory use for at 
+least 5 years prior to bid opening.  Provide equipment supported by a 
+service organization that is, in the opinion of the Contracting Officer, 
+reasonably convenient to the site.
+2.1.2   
+Nameplates
+For each major item of equipment, secure a plate containing the 
+manufacturer's name, address, type or style, model or serial number, and 
+catalog number to the item of equipment.
+2.1.3   
+Identical Items
+Items of the same classification must be identical, including equipment, 
+assemblies, parts, and components.
+2.1.4   
+Equipment Guards [and Access]
+Fully enclose or guard belts, pulleys, chains, gears, couplings, 
+projecting set-screws, keys, and other rotating parts so located that any 
+person may come in close proximity.  Properly guard or cover 
+high-temperature equipment and piping located so as to endanger personnel 
+or where it creates a potential fire hazard with insulation of a type 
+specified.[  Provide catwalk, ladder, and guard rails where shown and in 
+accordance with Section 
+05 50 13
+ MISCELLANEOUS METAL FABRICATIONS.]  
+Comply with CFR 1910 Subpart O, Machinery and Machine Guarding 
+requirements.
+2.1.5   
+Solar Energy Systems
+**************************************************************************
+NOTE:  SRCC OG-300 applies to residential and light 
+commercial systems of
+ 450 liters
+119 gallons
+ or 
+less.  SRCC OG-100 applies to the collectors only.
+SECTION 22 33 30  Page 18
+CANCELLED
+
+
+**************************************************************************
+[
+SRCC OG-300
+ listed, ][
+SRCC OG-100
+ Collector certification, ]and provide 
+necessary materials to fabricate solar energy systems in accordance with 
+this section.  At the Contractor's option, provide factory-prefabricated 
+solar equipment packages which include heat exchanger, compression and 
+storage tanks, pumps and controls and which meet the requirements of this 
+section or are certified by an ANSI-accredited certification body to 
+SRCC STD 300
+ or other applicable ANSI standard.
+2.1.6   
+Special Tools
+Provide one set of special tools, calibration devices, and instruments 
+required for operation, calibration, and maintenance of the equipment.
+2.2   
+PIPING SYSTEM
+**************************************************************************
+NOTE:  Provide complete piping system with pipe, 
+pipe fittings, valves, strainers, expansion loops, 
+hangers, inserts, supports, anchors, guides, 
+sleeves, and accessories.
+**************************************************************************
+Provide system materials conforming to the following:
+2.2.1   
+Bolts and Nuts
+Stainless steel; 
+ASTM A193/A193M
+ for bolts and 
+ASTM A194/A194M
+ for nuts.
+2.2.2   
+Gaskets
+**************************************************************************
+NOTE:  For cold weather region of below
+ minus 10 
+degrees C
+ 14 degrees F
+, consider gaskets made of 
+rubber in accordance with ASTM D3667 (for flat plate 
+solar collectors) or ASTM D3832 (for evacuated tube 
+solar collectors), Type C.
+**************************************************************************
+[Fluorinated elastomers, ethylene-propylene-diene-terpolymer (EPDM) or 
+silicone, ][
+ASTM D3667
+, Type C rubber, ][
+ASTM D3832
+, Type C rubber, 
+]compatible with flange faces.
+2.2.3   
+Copper Tubing
+**************************************************************************
+NOTE:  Underground tanks which require buried copper 
+tubing are not a recommended method for thermal 
+storage.  A design with thermal storage within a 
+building is more ideal for efficiency.
+The following paragraphs are tailored for ARMY and 
+AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+ASTM B88M
+,
+ASTM B88
+,
+ Type K where buried, Type L otherwise.  Collector 
+risers Type L or M.
+SECTION 22 33 30  Page 19
+CANCELLED
+
+
+ASTM B88M
+, 
+ASTM B88
+, 
+minimum Type L, hard drawn copper tubing, except that 
+the connection tubes of collectors may be soft-drawn.
+2.2.4   
+Solder-Joint Fittings
+ASME B16.22
+, wrought copper.
+2.2.5   
+Brazing Metal
+AWS A5.8/A5.8M
+, 15 percent silver-base alloy, minimum melting point
+ 816 
+degrees C
+ 1,500 degrees F
+, for copper pipes rated at maximum
+ 862 kPa and 
+177 degrees C
+ 125 psi and 350 degrees F
+.  Provide cadmium free filler 
+metals.
+2.2.6   
+Piping Identification Labels
+Plastic slip-on or adhesive backed labels conforming to 
+ASME A13.1
+.
+2.2.7   
+Unions
+CID A-A-59617
+, solder joint.
+2.2.8   
+Dielectric Union
+Provide insulated union with a galvanized steel female pipe-threaded end 
+and a copper solder joint end conforming to 
+ASME B16.39
+, Class 1.  Provide 
+a dry insulation barrier, impervious to water and capable of withstanding 
+a 600 volt breakdown test and limiting galvanic current to one percent of 
+the short circuit current in a corresponding bimetallic joint.
+2.2.9   
+Dielectric Waterways and Flanges
+**************************************************************************
+NOTE:  Since all wetted surfaces are required to be 
+nonferrous, the only location for dielectric 
+waterways to be considered is the penetrations to 
+the storage tank.
+**************************************************************************
+Provide waterways and flanges conforming to the requirements of 
+ASME B16.39
+.  
+Provide dielectric waterways with metal connections at both ends suited to 
+match connecting piping.  Thread or solder ends to match adjacent piping.  
+Line dielectric waterways internally with an insulator specifically 
+designed to prevent current flow between dissimilar metals.  Provide 
+dielectric waterways and flanges suitable for the temperatures, pressures, 
+and antifreeze encountered. Dielectric flanges must meet the performance 
+requirements described herein for dielectric waterways.
+2.2.10   
+Expansion Joints
+2.2.10.1   
+Bellow Expansion Joints
+**************************************************************************
+NOTE:  In corrosive atmospheric conditions such as 
+oceanic air, use only nickel-chromium-iron alloy 
+bellows.
+**************************************************************************
+SECTION 22 33 30  Page 20
+CANCELLED
+
+
+Corrugated,[ unreinforced][ or][ with[ reinforcing][ or][ equalizing] 
+rings], and[ single-bellow][ double-bellow] expansion joints.  Construct 
+bellows of[ copper alloy][ nickel-chromium-iron alloy, conforming to 
+ASTM B168
+][ or][ stainless steel].
+2.2.10.2   
+Guided Slip-Tube Expansion Joints
+[Ring packing with seal to allow repacking under pressure, ][Permanent 
+packless seal, ][internally ][internally and externally ]guided, and[ 
+single][ double] slip-tube.  Provide drain port in the housing.[  For 
+packless seal, provide a Type 304 or 321 stainless steel bellows with 
+laminated or multi-ply construction.]
+2.2.11   
+Pipe Supports
+MSS SP-58
+.  Provide stainless steel metal insulation shield.
+2.2.12   
+Pipe Threads
+ASME B1.20.2M
+ASME B1.20.1
+.
+2.2.13   
+Solder
+**************************************************************************
+NOTE:  The solders referenced are necessary for 
+compatibility with the fluids and metals contained 
+in solar energy systems and also required for piping 
+containing potable water.
+**************************************************************************
+ASTM B32
+, Type Sb5, Sn94, Sn95, or Sn96, with minimum melting
+ 221 degrees C
+ 430 degrees F
+.  Lead solders are not allowed in any portion of the 
+potable water system.
+2.2.14   
+Joints and Fittings for Copper Tubing
+Provide wrought copper and bronze solder-joint pressure fittings 
+conforming to 
+ASME B16.22
+ and 
+ASTM B75/B75M
+.  Provide cast copper alloy 
+solder-joint pressure fittings conforming to 
+ASME B16.18
+ and 
+ASTM B828
+.  
+Provide cast copper alloy fittings for flared copper tube conforming to 
+ASME B16.26
+ and 
+ASTM B62
+.  Brass or bronze adapters for brazed tubing may 
+be used for connecting tubing to flanges and to threaded ends of valves 
+and equipment.  Provide cast bronze threaded fittings conforming to 
+ASME B16.15
+.  Extracted brazed tee joints produced with an acceptable tool 
+and installed as recommended by the manufacturer may be used.  Do not use 
+grooved mechanical joints and fittings.
+2.2.14.1   
+Bronze Flanges and Flanged Fittings
+**************************************************************************
+NOTE:  This paragraph is tailored for NAVY.  Use for 
+Navy projects.
+**************************************************************************
+ASME B16.24
+.
+2.3   
+VALVES
+[Provide end connections as indicated.  ]
+Valves
+ must open by turning 
+SECTION 22 33 30  Page 21
+CANCELLED
+
+
+counterclockwise.
+2.3.1   
+Gate Valves
+MSS SP-80
+, bronze, Class 150;[ Type 1, solid wedge non-rising stem][ or][ 
+Type 2, solid wedge, inside screw rising stem]; with solder, threaded, or 
+flanged ends.
+2.3.2   
+Globe and Angle Valves
+MSS SP-80
+, bronze, Class 150;[ Type 1, metal disc integral seat][ or][ 
+Type 2, non-metallic disc, integral seat]; with solder, threaded, or 
+flanged ends.
+2.3.3   
+Ball Valves
+[
+MSS SP-72
+][ or][
+ MSS SP-110
+], Class 125 or 150.
+2.3.4   
+Water Pressure-Reducing Valves
+ASSE 1003
+ with ASSE seal, self contained, direct acting, and single seat 
+diaphragm.
+2.3.5   
+Bronze Gate, Globe, Angle, and Check Valves
+**************************************************************************
+NOTE:  MSS SP-80 shows standard practice for check 
+valves.  Of the check valves listed, only the metal 
+to metal lift check valve (Type 1) may be used.  
+However, spring loaded check valves (also called 
+"nonslam" check valves) are available and are 
+similar to the lift check valve referenced.  These 
+spring loaded check valves are preferred and should 
+be used whenever practical.
+For Navy Projects Only:  When thermal siphon is a 
+problem, such as an active flow indicator during 
+nighttime or poor system performance, use only 
+spring-loaded check valves with elastomer seals.
+**************************************************************************
+MSS SP-80
+, Type 1 (or nonslam, spring type), Class 125 or 150.
+MSS SP-80
+, bronze, Class 150;[ Type 3, swing check, metal disc to metal 
+seat][ or][ Type 4, swing check, non-metallic disc to metal seat].[  
+Provide spring-loaded construction with elastomer seals.]
+2.3.6   
+Balancing Cocks, Flow Rate Control and Meter
+Bronze, solder, threaded, or flanged ends.  Provide square head, flow 
+indicator arc or check pressure ports for differential flow metering 
+device.  Provide valve construction with rating of
+ 116 degrees C at 862 kPa
+ 240 degrees F at 125 psi
+.
+2.3.7   
+Control Valves
+UL listed.  Provide valves actuated by electric motors.  Construct valves 
+to permit replacing valve seals without draining the system.  Provide 
+bronze body construction and stainless steel valve stems, with rating of
+ 4 
+SECTION 22 33 30  Page 22
+CANCELLED
+
+
+to 166 degrees C at 862 kPa
+ 40 to 240 degrees F at 125 psi
+.  Include 
+external position indicators and steel enclosures to protect operating 
+components.
+2.3.7.1   
+Shutoff and Diverting Control Valves
+Bronze valves with 100 percent shutoff, stainless steel butterfly or ball, 
+and elastomer seats and seals.
+2.3.7.2   
+Non-Shutoff Mixing Valves
+ASSE 1017
+, 
+MSS SP-25
+ marking modulating,[ bronze][ or][ brass] body 
+construction, stainless steel valve stems, and thermostatically controlled
+2.3.7.3   
+Valve Operators
+Provide electric[ two-position][ or][ proportioning] operators, with 
+oil-immersed gear trains.  Two-position operators may be single-direction 
+with[ spring-return][ or][ reversing]construction.[  For[ reversing][ 
+and][ proportioning] operators, provide limit switches to limit the lever 
+in either direction unless the operator is the stalling type.]  Operators 
+must function properly with a 10 percent plus or minus change in the line 
+voltage feeding the equipment.  Totally enclose operators and gear trains 
+in dustproof housings of pressed steel or metal castings with rigid 
+conduit connections.  Equip valve operators with a spring yield device so 
+that when in the closed position it will maintain on the valve disc a 
+pressure equivalent to the pressure rating of the valve.
+2.3.8   
+Air Vents and Relief Valves, Pressure and Temperature
+2.3.8.1   
+Air Vents
+**************************************************************************
+NOTE:  Locate manual air vents at the high 
+point(s)of the system where air will accumulate.
+**************************************************************************
+[
+CID A-A-60001
+, float construction for pressures up to
+ 862 kPa
+ 125 psi
+.  
+][Provide manual air vents that are
+ 10 mm
+ 3/8 inch
+ brass or bronze globe 
+valves or cocks suitable for
+ 862 kPa
+ 125 psig
+ service.  Provide air vents 
+with threaded plugs or caps.]
+[
+Provide automatic air vents consisting of ball-float construction.  
+Provide vent inlet no less than
+ 12 mm
+ 1/2-inch
+ and outlet no less than
+ 8 mm
+ 1/4-inch
+.  Provide corrosion-resistant steel.  Vent discharges air must 
+be at any pressure up to
+ 1034 kPa
+ 150 psig
+.
+]
+2.3.8.2   
+Relief Valves
+**************************************************************************
+NOTE:  The system should be used with
+ 862 kPa
+ 125 
+psig
+ pressure relief and
+ 99 degrees C
+ 210 degree F
+ 
+temperature relief whenever possible.  In the event 
+of overpressure, the pressure relief valves located 
+at the low points in the system (usually on the 
+expansion tank in the equipment room) should open 
+first due to the elevation head of the system.  This 
+prevents fluid release at the collector level and 
+serves to alert maintenance personnel of a problem.
+SECTION 22 33 30  Page 23
+CANCELLED
+
+
+**************************************************************************
+ANSI Z21.22/CSA 4.4
+.  Locate pressure relief valves on the solar collector 
+array upper manifold and on the expansion tank to open and discharge the 
+collector fluid[ into drain indicated][ into drain tank] when fluid 
+pressure rises above
+ 862 kPa
+ 125 psig
+.  Locate pressure and temperature 
+relief valves on the solar storage tank to open and discharge water[ into 
+drain indicated][ into drain tank] when fluid pressure rises above
+ 
+[862][_____] kPa
+ [125][_____] psig
+ or when fluid temperature rises above
+ 
+[99][_____] degrees C
+ [210][_____] degrees F
+.
+[Provide ASME labeled valves with a relief setting 200 percent higher than 
+the normal operating pressure.  ]Provide nonferrous or stainless steel 
+valve seats and moving parts exposed to fluid, compatible with the 
+operating conditions.
+2.3.9   
+Calibrating Balancing Valves
+Provide calibrated balancing valves suitable for
+ 862 kPa
+ 125 psig
+ and
+ 121 
+degrees C
+ 250 degrees F
+ service, of bronze body/brass ball construction 
+with seat rings compatible with system fluid, and with differential 
+readout ports across valve seat area.  Fit readout ports with internal 
+insert of compatible material and check valve.  Calibrated balancing 
+valves must have memory stop feature to allow valve to be closed for 
+service and reopened to set point without disturbing balance position and 
+calibrated nameplate to assure specific valve settings.
+2.4   
+VACUUM BREAKERS
+Install atmospheric type anti-siphon vacuum breaker where indicated on the 
+plans.  Include lightweight disc float with silicone disc for tight 
+seating.  Construct the vacuum breaker of lead free materials.
+2.5   
+STRAINERS
+**************************************************************************
+NOTE:  Locate a strainer before the pump to test for 
+system flush.
+**************************************************************************
+ASTM F1199
+, removable basket and screen, Style Y pattern, cast iron 
+strainer with pressures to
+ 862 kPa
+ 125 psig
+, simplex type,threaded or 
+soldered ends, for
+ 50 mm
+ 2 inches
+ and smaller,and flanged ends in 
+accordance with 
+ASME B16.1
+, for
+ 65 mm
+ 2 1/2 inches
+ and larger; or a 
+combination elbow-strainer with straightening vanes and strainer arranged 
+for horizontal flow.
+2.5.1   
+Combination Strainer and Pump Suction Diffuser
+Angle type body with removable strainer basket and internal straightening 
+vanes, a suction pipe support, and a blowdown outlet and plug.  Strainer 
+must be in accordance with 
+ASTM F1199
+, except as modified and supplemented 
+by this specification.  Unit body must have arrows clearly cast on the 
+sides indicating the direction of flow.
+Casing must have connection sizes to match pump suction and pipe sizes, 
+and be provided with adjustable support foot or support foot boss to 
+relieve piping strains at pump suction.  Provide unit casing with blowdown 
+port and plug.  Provide a magnetic insert to remove debris from system.
+SECTION 22 33 30  Page 24
+CANCELLED
+
+
+2.6   
+PRESSURE GAUGES
+ASME B40.100
+.  Provide pressure gauges with throttling type needle valve 
+or a pulsation dampener and shutoff valve.  Provide minimum dial size of
+ 
+90 mm
+ 3-1/2 inch
+.  Each gauge range must be selected so that at normal 
+operating pressure, the needle is within the middle-third of the range.
+2.7   
+THERMOMETERS
+ASME PTC 19.3 TW
+, Type I, Class 3.  Supply thermometers with wells and 
+separable bronze sockets.
+2.8   
+COPPER SHEETS COPPER ALLOY 110
+ASTM B152/B152M
+.
+2.9   
+ALUMINUM SHEETS
+ASTM B209
+, Alloy 3003.
+2.10   
+COMPRESSION TANKS
+ASME BPVC SEC VIII
+, steel construction with ASME label for
+ 862 kPa (gage)
+ 
+125 psig
+ working pressure.  Hot-dip galvanize interior and exterior 
+surfaces of tanks after fabrication.  Provide cast iron or steel saddles 
+or supports.  Provide tanks with drain, fill, air charging and system 
+connections, and liquid level gage.
+2.11   
+STORAGE TANKS
+**************************************************************************
+NOTE:  Storage tank volume must be between
+ 61 to 81 
+liters per square meter
+ 1.5 to 2 gallons per square 
+foot
+ of collector area.  This range of acceptable 
+values must be inserted in the blanks provided based 
+on the array area inserted in paragraph NET ABSORBER 
+AREA AND ARRAY LAYOUT.  Storage volume outside of 
+this range becomes undesirable from a system 
+performance point of view.  Items to be shown on the 
+drawings must include:
+a.  Range of acceptable storage tank volumes
+b.  Number of
+ liters
+ gallons
+ of storage provided per
+ 
+square meter
+ square foot
+ of collector area for given 
+tank
+c.  Minimum R value of tank insulation
+d.  Type of lining in tank.
+**************************************************************************
+[Provide solar indirect water heater type storage tank, having integral 
+coil heat exchanger for connection to the collector array (see paragraph 
+HEAT EXCHANGER below).  ]Solar system hot water storage tank must have a 
+storage volume between [_____] and [_____]
+ liters
+ gallons
+ and is as 
+shown.  Provide solar system storage tank conforming to specifications for 
+hot water storage tanks in Section 
+22 00 00
+ PLUMBING, GENERAL PURPOSE.  
+SECTION 22 33 30  Page 25
+CANCELLED
+
+
+Provide insulation in accordance with Section 
+23 07 00
+ THERMAL INSULATION 
+FOR MECHANICAL SYSTEMS, except that insulation must have an R value of not 
+less than 30.  Design tank penetrations to allow for connections to copper 
+piping without risk of corrosion due to dissimilar metals, and factory 
+install as indicated.  For domestic use, heat the water in the storage 
+tank to a minimum of
+ 60 degrees C
+ 140 degrees F
+ in order to avoid any 
+potential source of Legionnaire's disease.
+2.11.1   
+Solar Storage Tanks
+**************************************************************************
+NOTE:  Small mixing pumps and shrouds to enhance 
+tube bundle heat exchanger performance in the tanks 
+are an exception and should be used only where 
+required.  The corrosive nature of some water 
+supplies may require copper lining.  For better 
+stratification (hot water on the top, cold water on 
+the bottom), use vertical solar tanks.  Up to
+ 18,950 
+liters
+ 5,000 gallon
+ capacity, solar storage tanks 
+may be unpressurized, internally 
+stainless-steel-lined, factory insulated, and 
+covered with enamel steel outer jackets for indoor 
+applications or fiberglass jackets for outer and 
+underground applications.  Solar storage tanks, if 
+intended for an usable life in excess of 5 years, 
+should not be pressurized.  Unpressurized stainless 
+steel tanks should last in excess of 20 years; other 
+unpressurized tanks should last up to 15 years; 
+pressurized steel tanks with copper heat exchangers 
+may last only 3 to 8 years, due to galvanic 
+corrosion.  Recommend
+ 12 liters
+ 3 gallons
+ of storage 
+capacity for each square
+ meter
+ foot
+ of collector 
+surface facing the sun.
+**************************************************************************
+Except as modified herein, 
+FS F-T-2907
+;[ stone lined (cement lined)][ 
+glass lined][ stainless steel][ Type 18-8 stainless steel lined][ or][ 
+baked-on phenolic] steel tank with ASME label for
+ [862 kPa (gage)]
+ [125 
+psig]
+ [_____].  Do not use baffles or perforated pipes in tank 
+construction.  For the steel tank, include[ collector loop heat-exchanger 
+bundle][ and][ domestic hot water][ and][ space heating] heat-exchanger 
+bundle.  Tank design must meet 
+ASHRAE 90.1 - IP
+ standby loss criteria.
+2.11.2   
+Underground Tanks
+**************************************************************************
+NOTE:  Underground tanks are not a recommended 
+method for thermal storage.  A design with thermal 
+storage within a building is more ideal for 
+efficiency.
+**************************************************************************
+UL listed,[ double-walled,] fiberglass coated steel tanks.  Provide 
+exterior surfaces of steel tanks with a glass reinforced isophthalic 
+polyester resin of sufficient thickness to resist 35,000-volt 
+Holiday test
+.  
+Provide automatic monitoring system with audible alarms to continuously 
+monitor leaks.  Tank design must meet 
+ASHRAE 90.1 - IP
+ standby loss 
+criteria.
+SECTION 22 33 30  Page 26
+CANCELLED
+
+
+2.11.3   
+Tank Insulations and Jackets
+Comply with Section 
+23 07 00
+ THERMAL INSULATION FOR MECHANICAL SYSTEMS.  
+Separate aboveground tanks from supports with insulation.
+2.11.4   
+Dielectric Waterways and Flanges
+**************************************************************************
+NOTE:  Since all wetted surfaces are required to be 
+nonferrous, the only location for dielectric 
+waterways to be considered is the penetrations to 
+the storage tank.
+**************************************************************************
+Provide waterways and flanges conforming to the requirements of 
+ASME B16.39
+.  
+Provide dielectric waterways with metal connections at both ends suited to 
+match connecting piping.  Thread or solder ends to match adjacent 
+piping.[  Line dielectric waterways internally with an insulator 
+specifically designed to prevent current flow between dissimilar 
+metals.][  Provide dielectric waterway with a water impervious insulation 
+barrier capable of limiting galvanic current between dissimilar metals to 
+1 percent of short circuit current in a corresponding bimetallic joint.]  
+Provide dielectric waterways and flanges suitable for the temperatures, 
+pressures, and antifreeze encountered.  Dielectric flanges must meet the 
+performance requirements described herein for dielectric waterways.
+2.12   
+SUPPLEMENTARY HEAT
+**************************************************************************
+NOTE:  UFC 3-440-01 requires the Supplementary Heat.
+The designer should consider a control strategy that 
+prioritizes solar heat and minimizes supplementary 
+energy use, such as a lockout for supplementary 
+heat, when solar output is sufficient
+**************************************************************************
+Provide supplementary heat source which must supply 100 percent of the 
+system required loads.  The auxiliary heater must operate automatically.  
+Common heat delivery system must be shared with the solar system.[  
+Include the supplementary heat design in the solar system design package.]
+2.13   
+ELECTRICAL WORK
+Provide electric motor-driven equipment specified complete with motor, 
+motor starters, and controls.  Provide electrical equipment and wiring in 
+accordance with Section 
+26 20 00
+ INTERIOR DISTRIBUTION SYSTEM.  Specify or 
+indicate electrical characteristics.  Provide motor starters complete with 
+thermal overload protection and other appurtenances necessary for the 
+motor control specified.  Each motor must be of sufficient size to drive 
+the equipment at the specified capacity without exceeding the nameplate 
+rating of the motor.  Provide manual or automatic control and protective 
+or signal devices required for the operation specified, and any control 
+wiring required for controls and devices but are not shown.   Integral 
+size motors must be the premium efficiency type in accordance with 
+NEMA MG 00001
+ or electronically commutated motor (ECM) for improved energy 
+efficiency at low speeds.
+SECTION 22 33 30  Page 27
+CANCELLED
+
+
+2.14   
+COLLECTOR SUBSYSTEM
+**************************************************************************
+NOTE:  As discussed in UFC 3-440-01, the design of a 
+solar energy system is heavily dependent on the 
+choice of a collector.  It is important that the 
+collector around which the system is designed be 
+described as thoroughly as possible on the 
+designer's drawings.  Of particular interest are the 
+length and width of the collector (for spacing and 
+roof layout reasons), the recommended flow rate of 
+the collector, and the rated pressure drop at that 
+flow rate.  The designer should verify that the 
+values of the following parameters are indicated in 
+schedules on the drawings:
+1.  Type of collectors
+2.  Number of collectors
+3.  Gross area and net aperture area
+4.  Collector height and width
+5.  Collector fluid volume
+6.  Collector filled weight
+7.  Collector manufacturer's warranty period
+8.  Recommended collector flow rate
+9.  Pressure drop across the collector at 
+recommended flow rate.
+Flat plate collectors should be utilized in ASHRAE 
+Climate Zones 0-3.  Evacuated tube collectors should 
+be used in ASHRAE Climate Zones 4 and above or 
+within zones 1-3 when water heating above
+ 60 degrees 
+C
+ 140 degrees F
+ is required.
+**************************************************************************
+**************************************************************************
+NOTE:  In accordance with ASHRAE 93 and ASHRAE 96, a 
+solar collector is "a device designed to absorb 
+incident solar radiation and to transfer the energy 
+to a liquid passing through it."  Use the liquid 
+flat-plate collector for system design, including 
+cooling applications up to
+ 141 kW
+ 40 tons
+.  Use 
+ASHRAE 93 for glazed collectors and ASHRAE 96 for 
+unglazed collectors.  The State of Florida requires 
+all solar collectors to be certified by FSEC 
+(Florida Solar Energy Center).  If the project site 
+is not in Florida and the state and local 
+regulations do not prohibit FSEC certified 
+collector, the use of FSEC collector may be 
+considered as an option.  Provide lightning 
+protection as required by the local environment.  A 
+collector in which the internal risers and headers 
+are in a reverse return arrangement will have 
+uniform flow and uniform heating, but it will be too 
+restrictive to limit only this arrangement.  When 
+inlet and outlet tubes are not located conveniently 
+on the collector, the collector will take up 
+additional space, resulting in more exposed roof 
+area between the collector.
+**************************************************************************
+SECTION 22 33 30  Page 28
+CANCELLED
+
+
+Liquid flat-plate collectors and evacuated tube collectors[ must be][ 
+SRCC OG-100
+ and 
+SRCC CRIS
+ listed][ or][ Florida Solar Energy Center (FSEC) 
+certified][ and][ must be tested in accordance with][ 
+ ASHRAE 93
+][ and][ 
+ASHRAE 96
+].  Provide factory fabricated and assembled,[ single glazed][ 
+double glazed][ triple glazed][ or][ unglazed] panels.[  Internal manifold 
+collectors may be used if manufacturer standard.]  Include the following 
+design features:
+2.14.1   
+Collector Sizes
+Maximum filled weight not to exceed
+ 24.40 kg per square meter
+ 5 pounds per 
+square foot
+ of gross collector area.
+2.14.1.1   
+Minimum Performance Parameters
+**************************************************************************
+NOTE:  In accordance with ASHRAE 93 and ASHRAE 96, 
+instantaneous collector efficiency is "the amount of 
+energy removed by the transfer liquid per unit of 
+gross collector area during the specified time 
+period divided by the total solar radiation incident 
+on the collector per unit area (solar flux) during 
+the same time period, under steady-state or 
+quasi-steady-state (the state of the solar collector 
+test when the flow rate and temperature of the 
+liquid entering the collector are constant but the 
+exit liquid temperature changes gradually due to the 
+normal change in irradiation that occurs with time 
+for clear sky conditions) conditions."  Read ASHRAE 
+93 and ASHRAE 96 for further details and unit 
+measurements.
+**************************************************************************
+Provide total collector flow rate in accordance with manufacturer's 
+recommendations.  Provide instantaneous collector efficiency as follows:
+Minimum Instantaneous 
+Collector Efficiency, 
+Percent
+Inlet Fluid Parameter
+74
+0
+54
+0.03
+40
+0.05
+Determine inlet fluid parameter (IFP) in accordance with the following 
+formula:
+IFP = (A - B)/C
+Where:
+A =  Liquid inlet temperature in collector
+B =  Ambient air temperature
+C =  Solar flux
+SECTION 22 33 30  Page 29
+CANCELLED
+
+
+2.14.2   
+Flat Plate Collector Construction
+Provide liquid, internally manifolded type flat plate solar collectors.  
+Provide each collector with cover glazing, an absorber plate, heat 
+transfer liquid flow tubes, internal headers, weep holes, insulation, and 
+a casing.  Collectors must be of weather-tight construction.  Solar 
+collectors must withstand a stagnation temperature of
+ 177 degrees C
+ 350 
+degrees F
+ and a working pressure of
+ 862 kPa
+ 125 psig
+ without degrading, 
+out-gassing, or warping.  Provide collector net aperture area as shown and 
+is a minimum of
+ 2.3 square meters
+ 24.5 square feet
+.  Provide collector 
+length, width, and volume  as shown on the drawings.
+2.14.2.1   
+Absorber Plate and Flow Tubes
+**************************************************************************
+NOTE:  The full sheet absorber plates offer the 
+highest performance of absorptive coatings.  While 
+the IR reflective coating ensures low thermal 
+emissivity, the oxidic absorption and 
+anti-reflective coatings ensure the maximum level of 
+solar absorption.
+The following paragraph is tailored for ARMY and AIR 
+FORCE, and NAVY.  Select the applicable tailoring 
+option for the project.
+**************************************************************************
+Provide copper absorber sheet or plate.  Top of absorber plate must be 
+coated with selective surface of black chrome and has an emissivity less 
+than 0.2 and absorptivity greater than 0.9.  Provide Type L or Type M 
+copper flow tubes that are soldered, brazed, or mechanically bonded to the 
+absorber plate.  Install tubes on the absorber plate so that they drain by 
+gravity.  
+Fabricate of[ aluminum][ stainless-steel][ copper tubes on 
+copper sheet or aluminum][ or][ copper tubes with copper or aluminum 
+fins].  Provide the absorber rated for
+ [1034 kPa (gage)]
+ [150 psig]
+ 
+[_____] with working pressure of
+ [862 kPa (gage)]
+ [125 psig]
+ [_____].  
+Provide selective or semi-selective absorber coating with minimum 
+absorptivity 0.90, maximum emissivity 0.12, and minimum breakdown 
+temperature at
+ [204 degrees C]
+ [400 degrees F]
+ [_____].
+2.14.2.2   
+Cover Glazing
+**************************************************************************
+NOTE:  The following paragraph is tailored for ARMY 
+and AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+Each collector must have a single layer of cover glazing made of clear 
+float, water white or low iron type tempered glass.  Provide glass meeting 
+ASTM C1048
+.  Provide cover glazing which is completely replaceable from 
+the front of the collector without disturbing the piping or adjacent 
+collectors.  
+Cover glazing must be Kind FT (fully tempered), Condition A 
+(uncoated surfaces), Type I (transparent flat type), Class 1 (clear), 
+Quality q3 - glazing select;
+ [3][5][ or ][4] mm
+[1/8][3/16][ or ][5/32] inch
+ float glass, conforming to 
+ASTM C1048
+.
+  Cover glazing must be separated 
+from the collector by a continuous gasket made of EPDM rubber.
+SECTION 22 33 30  Page 30
+CANCELLED
+
+
+2.14.2.3   
+Insulation
+Insulate back and sides of the absorber plate.  Fill space between 
+absorber plate and casing with insulation that has an R value of 4 
+minimum.  Use insulation conforming to EPA requirements in accordance with 
+Section 
+01 33 29
+ SUSTAINABILITY REQUIREMENTS AND REPORTING which is 
+fibrous glass, polyisocyanurate, urethane foam, or other material suitable 
+for the intended purpose, and capable of withstanding the moisture, sun 
+exposure, and stagnation temperature limitations of the solar collector.  
+Do not allow polyisocyanurate insulation to come in contact with the 
+absorber plate.
+2.14.2.4   
+Collector Identification
+On each collector, provide the following information:
+a.  Manufacturer's name or trademark
+b.  Model name or number
+c.  Certifying agency label and rating.
+2.14.2.5   
+Other Components
+Provide collectors for the complete removal of internal moisture which may 
+develop in the collectors.[  Collector weep holes or desiccants with air 
+vents may be used.  If desiccants are used, provide 8 mesh silica gel with 
+approximately 10,000 cycles of regeneration.]
+2.14.2.6   
+Hail Protection
+Manufacturer's hail protection performance measured according to 
+ASTM E822
+, 
+or equivalent.
+2.14.2.7   
+Casing
+**************************************************************************
+NOTE:  The following paragraph is tailored for ARMY 
+and AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+Provide aluminum casing.  Provide mill finish or factory applied baked 
+enamel, embossed or bronze anodized aluminum.  Separate cover glazing from 
+the casing by an EPDM rubber gasket or equivalent material.  Make 
+allowance for thermal expansion between the cover and absorber plates and 
+the casing, and for drainage of moisture through weep holes.  
+Fabricate 
+from at least 20 gage[ galvanized steel][ or][
+ASTM B209M
+ 
+ASTM B209
+ 
+alloy 
+or equivalent aluminum].  Paint collector box with durable baked enamel or 
+powder coat.  In the back of case, provide insulation with a heat transfer 
+factor of maximum
+ 0.57 watts per degree C per square meter
+ 0.1 BTU per 
+hour per degree F per square foot
+.  Use only insulation without 
+out-gassing or other breakdown at or under stagnation temperature, such as 
+rigid mineral fiber panels.  Fabricate cover frame and glazing channel of[ 
+galvanized sheet steel][ stainless steel][ or][ extruded aluminum].  
+Provide preformed gaskets of EPDM or silicone as specified.
+SECTION 22 33 30  Page 31
+CANCELLED
+
+
+2.14.3   
+Evacuated Tube Collectors
+**************************************************************************
+NOTE:  There are several types of solar collectors 
+that utilize evacuated tubes.  The most prominent 
+being heat pipe collectors and direct flow 
+collectors.  Heat pipe collectors are highly 
+efficient and recommended for use for domestic hot 
+water.  The tubes are easily removed and replaced 
+without disabling the entire system.  The tubes are 
+suitable for cold climates.  Correct Orientation of 
+the pipes is imperative for proper operation.  
+Direct flow collectors are wet systems, utilizing a 
+"pipe within a pipe" design.  The interior pipe has 
+an integral heat absorber mechanically attached to 
+the pipe.  These tube collectors can be mounted 
+horizontal or vertical and are suitable for all 
+weather conditions.  The direct flow collectors are 
+recommended for commercial and industrial 
+applications.  These collectors are very flexible 
+and can be utilized when the ideal installation 
+position is not available.  For both types, the 
+tubes are under a vacuum, providing excellent 
+insulation.
+**************************************************************************
+Evacuated tube collectors must incorporate the use of borosilicate glass 
+tubes.  Utilize[ heat pipe][ direct flow] collectors in the system 
+design.  Ensure tubes are resistant to thermal shock and designed to 
+resist hail damage.
+[
+Heat pipe systems are a dry system that does not utilize water within the 
+collector tubes.  Incorporate an inner sealed copper tube containing a 
+non-toxic heat transfer medium into the system.  The heat-pipe principle 
+will transfer heat, via the heat pipe, from the evacuated glass tube to 
+the receptor in the manifold.  Design the system to allow the removal of 
+the tubes without draining the system.  Install systems that are extremely 
+dependent on the correct mounting arrangements precisely as recommended by 
+the manufacturer to insure correct operation.
+][
+Utilize direct flow systems, which are a fully pumped wet system, if ideal 
+installation arrangements are not possible.  Enclose a copper pipe, 
+circulating water, within the evacuated tube.  Connect the ends of the 
+pipe to the cold or hot water header within the panel assembly.  Direct 
+flow systems are pressurized and can be mounted both horizontally and 
+vertically.  Manufacture the system to allow replacement of a single 
+evacuated tube without draining the entire collector loop.
+]
+2.14.3.1   
+Operating Conditions
+[Provide direct flow collectors capable of withstanding a stagnation 
+temperature of
+ 300 degrees C
+ 595 degrees F
+.  ][Provide heat pipe 
+collectors capable of withstanding a stagnation temperature of
+ 165 degrees 
+C
+ 330 degrees F
+.  ]Evacuated tubes must incorporate "plug and play" design 
+where tubes can be removed or replaced without disabling the entire system.
+2.14.4   
+Mounting and Assembly Hardware
+Provide stainless steel mounting frame with stainless steel or aluminum 
+SECTION 22 33 30  Page 32
+CANCELLED
+
+
+mounting clips.  Provide stainless steel assembly hardware including all 
+bolts, washers, and nuts.
+2.14.5   
+Solar Collector Performance
+**************************************************************************
+NOTE:  The maximum number of collectors per bank 
+allowed by the manufacturer should be investigated.  
+This number is dependent on the header and riser 
+diameters, flow rates, and thermal expansion 
+characteristics of the collector.  It is expected 
+that most
+ 1.2 m
+ 4 foot
+ wide collectors can be 
+grouped into banks of at least seven, and this is 
+the largest bank size allowed.
+**************************************************************************
+Plot thermal performance on the thermal efficiency curve in accordance 
+with 
+ASHRAE 93
+.  The y-intercept must be equal to or greater than 0.68, 
+and the numerical value of the slope of the curve (FRUL) is between
+ 0 and 
+minus 5.7 watts per square meter per degree K
+ 0 and minus 1.0 Btu per hour 
+per square foot per degree F
+.
+Manufacturer's recommended volumetric flow rate and the design pressure 
+drop at the recommended flow rate must be as shown.  Manufacturer's 
+recommendations must allow at least seven collectors to be joined per bank 
+while providing for balanced flow and for thermal expansion considerations.
+2.15   
+SOLAR COLLECTORS
+ ARRAY
+2.15.1   
+Net Absorber Area and Array Layout
+**************************************************************************
+NOTE:  The minimum array aperture area allowed for 
+the project is that collector array area associated 
+with the highest LCC savings by the SOLFEAS solar 
+feasibility study computer program.  The array 
+layout should be completed according to the methods 
+discussed in UFC 3-440-01.  Flow through the array 
+must be in balance at the proper flow rates, while 
+maintaining a maximum velocity limit of
+ 1.5 m/s
+ 5 
+ft/s
+.  For flow balancing purposes, each bank must 
+have the same number of collectors.  Banks must 
+contain between 4 and 7 collectors each.  Generally, 
+the array should follow building lines, but must 
+keep within 20 degrees of due south.  Care should be 
+taken to distinguish between magnetic and due south 
+for the project location.  Row spacing is a function 
+of the collector height and projection location; 
+methodology for determining this spacing is given in 
+UFC 3-440-01.  It is imperative to proper 
+construction of the system that the array layout be 
+accurately shown on the drawings.  Items to be shown 
+on the drawings must include:
+a.  SOLFEAS result for minimum array size
+b.  Total array size to be installed
+c.  Bank size (4, 5, 6, or 7 collectors) and number 
+of banks
+d.  Minimum row spacing in event of multiple rows of 
+SECTION 22 33 30  Page 33
+CANCELLED
+
+
+collection
+e.  Array orientation with respect to true south.
+**************************************************************************
+Provide array consisting of an assembly of solar collectors as shown with 
+a minimum total array aperture area of [_____]
+ square meters
+ square feet
+.  
+Assemble solar collectors as shown in banks of equal number of 
+collectors.  Banks consist of no less than four and no more than seven 
+collectors each.  Orient collector array so that all collectors face the 
+same direction and are oriented within 20 degrees of true south and with 
+respect to true south as indicated.  Space collectors arranged in multiple 
+rows so that no shading from other collectors is evident between 1000 
+hours and 1400 hours solar time on December 21.
+Use minimum spacing between rows as recommended by the manufacturer for 
+the specific location.
+2.15.2   
+Piping
+**************************************************************************
+NOTE:  The reverse-return strategy is important to 
+proper array operation.  Because this strategy 
+results in what may be initially perceived by the 
+Contractor as excess piping, it is important that 
+the array piping be shown and indicated on the 
+drawing as satisfying this requirement.  Rules, 
+methodology, and examples of the reverse-return 
+strategy are given in UFC 3-440-01.  Collector loop 
+flow rate should be determined by multiplying the 
+recommended flow rate per collector by the number of 
+collectors to be installed.  Collector headers must 
+be located such that there is no possibility of air 
+pockets.  Items to be shown on the drawings must 
+include:
+a.  Flow rate through collector loop based on 
+recommended flow per collector
+b.  Reverse-return piping shown and noted
+c.  Valves, strainers, automatic controls, and all 
+accessories
+d.  Pipe pitch for draining.
+**************************************************************************
+The array piping includes interconnecting piping between solar collectors, 
+and connect in a reverse-return configuration as indicated with 
+approximately equal pipe length for any possible flow path.  Provide flow 
+rate through the collector array as indicated.  Provide automatic pressure 
+relief valves in the array piping system as indicated, and adjust to open 
+when the pressure within the solar array rises above
+ 862 kPa
+ 125 psig
+.
+Each collector bank must be capable of being isolated by valves, and each 
+bank capable of being separated has a pressure relief valve installed and 
+is capable of being drained.  Locate manually operated air vents at system 
+high points, and pitch all array piping a minimum of
+ 21 mm/meter
+ 0.25 
+inch/foot
+ as shown so that piping can be drained by gravity.  Supply 
+calibrated balancing valves at the outlet of each collector bank as 
+indicated.
+SECTION 22 33 30  Page 34
+CANCELLED
+
+
+2.15.3   
+Supports for Solar Collector Array
+**************************************************************************
+NOTE:  The support structure for the solar array is 
+to be constructed from stainless steel to minimize 
+cost and maintenance of painting a system.  For the 
+majority of solar projects, this structure will be 
+constructed as a support rack on a flat roof.  
+Design loads for solar arrays include the filled 
+weight of the collectors, weight of filled piping, 
+wind, seismic and snow loads, and the weight of the 
+support structure itself.  Of these, the wind 
+imposed on solar collector arrays may require the 
+most attention.  Provide seismic details, if a 
+Government designer (either Corps office or A/E) is 
+the Engineer of Record, and show on the drawings.  
+Delete the bracketed phrase if seismic details are 
+not provided.  Pertinent portions of UFC 3-301-01 
+and Sections 
+13 48 73
+ SEISMIC CONTROL FOR 
+NONSTRUCTURAL COMPONENTS and 
+23 05 48.19
+ SEISMIC 
+BRACING FOR MECHANICAL SYSTEMS must be included in 
+the contract documents.  Support structures provided 
+by the collector manufacturer may be used if they 
+meet the stated specification.
+**************************************************************************
+**************************************************************************
+NOTE:  In hostile environments, the additional cost 
+of stainless steel components may be justified.  
+Manufacturer's standard construction material is 
+acceptable only in noncoastal and noncorrosive 
+environments defined as Environmental Severity 
+Classification Category C1 and C2 as determined by 
+Tables A-1 and A-2, Appendix A, UFC 1-200-01 DOD 
+Building Code.  All fasteners for collector aluminum 
+frames must be stainless steel.  Galvanized 
+fasteners must not contact roof mounted collector 
+frames or racking.  Ground mounted system must 
+withstand the expected wind loads for the location.  
+Coordinate with the structural engineer.  Coordinate 
+the ground mounted system foundation type with the 
+geotechnical report.
+**************************************************************************
+[As indicated.][  Provide a commercial integrated structural system, 
+supplied by a single manufacturer, consisting of formed aluminum or 
+galvanized or plated steel channels, perforated with round or square 
+holes, and corrosion resistant brackets, clamps, bolts and nuts.][  Use a 
+stainless steel, galvanized steel, or aluminum support structure.  Do not 
+use wood or plastic components for support.][  Provide stainless steel 
+support structure for collector array in accordance with Section[ 
+05 50 13
+ 
+MISCELLANEOUS METAL FABRICATIONS][ 
+05 50 14
+STRUCTURAL METAL 
+FABRICATIONS].]  Use array mounting hardware compatible with the site 
+considerations and environment.  Select mechanical hardware for corrosion 
+resistance and durability.  Use support structure to secure collector 
+array at the tilt angle with respect to horizontal and orientation with 
+respect to true south as shown.  Support structure must withstands static 
+weight of filled collectors and piping, wind, snow, seismic, and other 
+loads as required by 
+ASCE 7-16
+ and 
+ICC IBC
+.  Submit calculations provided 
+SECTION 22 33 30  Page 35
+CANCELLED
+
+
+by the licensed professional structural engineer for the array mounting 
+system and its attachment to the structure.  Seismic details must[ conform 
+to 
+UFC 3-301-01
+ and Sections 
+13 48 73
+ SEISMIC CONTROL FOR NONSTRUCTURAL 
+COMPONENTS and 
+23 05 48.19
+ SEISMIC BRACING FOR MECHANICAL SYSTEMS][ be as 
+shown on the drawings].  Support structure must allow access to all 
+equipment for maintenance, repair, and replacement.  Design must include 
+fall protection prevention systems compatible with the job tasks and work 
+environment.
+[
+2.16   
+LIGHTNING PROTECTION SYSTEM
+**************************************************************************
+NOTE:  Provide a lighting risk assessment 
+calculation in accordance with UFC 3-501-01 
+Electrical Engineering and UFC 3-575-01 Lightning 
+and Static Electricity Protection Systems 
+requirements, and if lighting protection is a design 
+requirement, include this paragraph in the 
+Specification.
+**************************************************************************
+Provide Lightning Protection for electrical and mechanical systems in 
+accordance with Section 
+26 41 00
+ LIGHTING PROTECTION SYSTEM and 
+NFPA 780
+.
+]
+2.17   
+TRANSPORT SUBSYSTEM
+2.17.1   
+Heat Exchangers
+**************************************************************************
+NOTE:  Although solar energy system performance is 
+not strongly dependent on the effectiveness of the 
+particular heat exchanger used, it is very important 
+to ensure that it is sized properly.  Use of the 
+approach and return temperatures stated in this 
+paragraph ensures that the effectiveness of the heat 
+exchanger is within acceptable limits.  The hot side 
+return temperature can be less than
+ 49 degrees C
+ 120 
+degrees F
+ if the designer determines that the 
+effectiveness should be greater than 0.5.  When 
+multi-plate heat exchangers are used, the 
+effectiveness can be significantly increased above 
+0.5 for a small increase in heat exchanger cost.  
+Both shell-and-tube and multi-plate or 
+plate-and-frame heat exchangers are allowable for 
+solar systems.  Although the shell-and-tube 
+exchangers are more common, multi-plate heat 
+exchangers are becoming readily available from a 
+variety of manufacturers.  The multi-plate heat 
+exchanger has the advantages over shell-and-tube of 
+being more compact, more efficient, easier to clean, 
+and it is commonly produced from superior 
+materials.  They can also be easily expanded to 
+larger sizes if necessary, and many require little 
+or no insulation.  The designer should consider use 
+of these exchangers whenever practical.  Because of 
+the wide variety of configurations used by these 
+heat exchangers, they must often be sized by the 
+individual manufacturers.  In accordance with UFC 
+3-440-01, the flow rate on the storage side of the 
+SECTION 22 33 30  Page 36
+CANCELLED
+
+
+heat exchanger should be 1.25 times that on the 
+collector side.  Items to be shown on the drawings 
+must include:
+a.  Type of heat exchanger and heat exchanger 
+materials
+b.  Flow rates on both sides of heat exchanger
+c.  Plate or tube heat transfer area.
+**************************************************************************
+**************************************************************************
+NOTE:  Where potable fluids are not used, double 
+wall and vented construction provides fail-safe leak 
+detection without attendance by any operator.  If 
+the operator is not present, sound alarms may not be 
+heard, and visual indicators may not be observed in 
+some cases.  For many years, industrial applications 
+commonly use shell-and-tube or tube-in-tube heat 
+exchangers.  In recent years, some industrial 
+applications use plate-and-frame heat exchangers as 
+options.  Plate-and-frame construction requires much 
+less space, i.e., from one-tenth to one-half of the 
+space required by shell-and-tube construction.  
+Plate-and-frame heat exchangers generally have high 
+heat transfer rates.  Electropolished stainless 
+steel plates may be specified to minimize fouling.  
+Use titanium or nickel-brazed stainless steel heat 
+exchangers in spas due to high temperature water and 
+high chlorination.
+**************************************************************************
+**************************************************************************
+NOTE:  All materials used in the heat exchanger must 
+be compatible with the fluids used.
+**************************************************************************
+**************************************************************************
+NOTE:  The following paragraph is tailored for ARMY 
+and AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+Thermal capacity on the storage side of the heat exchanger must be greater 
+than or equal to the thermal capacity on the collector side of the heat 
+exchanger.  The storage sub-system volumetric flow rate must be at least 
+0.9 times that of the total array volumetric flow rate.
+  Perform heat 
+exchanger construction and testing in accordance with 
+ASME BPVC SEC VIII D1
+and list for use on potable water systems.  Use minimum design pressure 
+rating of
+ 862 kPa
+ 125 psig
+.  Heat exchanger must be capable of returning a 
+hot-side exit temperature of
+ [49][_____] degrees C
+ [120] [_____] degrees F
+ 
+or less given a hot-side approach temperature of
+ 60 degrees C
+ 140 degrees F
+ and a cold-side approach temperature of
+ 38 degrees C
+ 100 degrees F
+.  Heat 
+exchanger must be capable of withstanding temperatures of at least
+ 116 
+degrees C
+ 240 degrees F
+.  Provide heat exchanger that is capable of 
+operation at the flow rates as shown.
+  
+ASME BPVC SEC VIII
+, construction 
+with ASME label for
+ 1034 kPa (gage)
+ 150 psig
+ working pressure and
+ 2068 kPa 
+(gage)
+ 300 psig
+ factory-rating pressure.[  Provide automatic monitoring 
+system with audible alarms to continuously monitor leaks.][  Provide 
+relief vent with a visual indicator to detect leaks by the change of 
+SECTION 22 33 30  Page 37
+CANCELLED
+
+
+coloring in the heat transfer fluid.]
+2.17.1.1   
+Plate-and-Frame Construction
+**************************************************************************
+NOTE:  The following paragraphs are tailored for 
+ARMY and AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+Construct heat exchanger of multiple plates of 316 stainless steel, 
+titanium, copper, copper-nickel, or brass.  Provide plates that are 
+frame-mounted, mechanically bonded, welded, or brazed at edges.  
+Plate-type heat exchanger must be able to be cleaned.  Provide gaskets 
+consisting of EPDM rubber or Viton.  All plate heat exchanger 
+characteristics must be as indicated.
+[Stainless steel][ or][ monel] plates and carbon steel frames, with baked 
+epoxy-enamel, and shroud.  Provide stainless steel side bolts and 
+nozzles.  Provide one piece molded[ nitrile rubber][ ethylene-propylene 
+rubber viton][ neoprene][ or][ butyl] gaskets.  Fabricate heat exchangers 
+with design results of heat transfer coefficients greater than
+ 5680 watt 
+per square meter degree C
+ 1,000 BTU per square foot per hour per degree F
+.
+2.17.1.2   
+[Shell and Tube][ or ][Tube in Tube] Construction
+**************************************************************************
+NOTE:  The following paragraph is tailored for ARMY 
+and AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+Provide[ fixed][ removable] bundle, shell-and-tube type heat exchanger.  
+Construct shell, tube sheets, and end plates of nonferrous, brass, 
+copper-nickel, or 316 stainless steel.  Provide shell insulation in 
+accordance with Section 
+23 07 00
+ THERMAL INSULATION FOR MECHANICAL 
+SYSTEMS, except that insulation must have a minimum R value of no less 
+than 12.  Provide tubes that are seamless copper or copper alloy and 
+mechanically bonded, welded, or brazed to the end tube plates.  Tubes must 
+be straight and supported by tube sheets which maintain the tubes in 
+alignment.[  Arrange straight tube heat exchanger for mechanical 
+cleaning.]  Provide all tube-in-shell heat exchanger characteristics as 
+indicated.  
+[Double wall vented, ][Straight tube ][or ]["U" tube ][as 
+indicated].  Low temperature water[ mixture] must pass through tubes.  
+High temperature water[ mixture] must pass through shells.  Fabricate 
+tubes from
+ [16 mm][20 mm]
+ [5/8 inch][3/4 inch]
+ or[ stainless steel][ or][ 
+seamless No. 20 BWG cuprous-nickel (90-10)].  Provide tube bundles 
+removable through flanged openings.
+2.17.1.3   
+Coil Heat Exchanger
+Heat exchanger must be integral to the storage tank.  Construct heat 
+exchanger of nonferrous, stainless steel, copper nickel, or copper.  
+Provide all coil heat exchanger characteristics as shown.  If a freeze 
+protection fluid circulates in the heat exchanger, heat exchanger piping 
+must consist of double wall construction.
+SECTION 22 33 30  Page 38
+CANCELLED
+
+
+2.17.2   
+Pumps
+**************************************************************************
+NOTE:  In closed loop systems, the use of a standard 
+base mounted or inline pump is acceptable.  If the 
+system utilizes an open loop or drain down tank 
+where the pump may drain, incorporate a means to 
+prime the pump or the use of a self-priming pump.
+**************************************************************************
+Provide circulating 
+pumps
+ that[ are listed for use in a potable water 
+system and] are the electrically-driven, single-stage, centrifugal, base 
+mounted or inline type.[  Provide self-priming pumps.]  Support pumps[ on 
+a concrete foundation][ or][ by the piping on which installed].  Pumps 
+must have a capacity no less than that indicated and are either 
+integrally-mounted with the motor or direct-connected by a flexible-shaft 
+coupling on a cast-iron or steel sub-base.  Construct pump shaft of 
+corrosion resistant alloy steel, sleeve bearings and glands of bronze 
+designed to accommodate a mechanical seal.  Provide pumps with bronze or 
+stainless steel impellers and casings of cast iron or bronze.  Motors must 
+have sufficient power for the service required, are of a type approved by 
+the manufacturer of the pump, are suitable for the available electric 
+service and for the heat transfer fluid used, and conform to the 
+requirements specified in Section 
+26 20 00
+ INTERIOR DISTRIBUTION SYSTEM.  
+Control motors by suitable switches that can be activated by either the 
+differential temperature controller or by manual override 
+(Hand-Off-Automatic).  Provide each pump suction and discharge connection 
+with a pressure gauge as specified.
+[
+2.17.2.1   
+[Booster][ and ][Circulating] Pumps
+**************************************************************************
+NOTE:  If silicone based fluids are used, use rotary 
+pumps to avoid seepage problems.
+**************************************************************************
+[Section 
+23 21 23
+ HYDRONIC PUMPS, centrifugal][;][pump styles as 
+indicated].  Provide flanged inlets and outlets, mechanical seals, 
+flexible couplings, and electronically commutated motors (ECM).  Select 
+pumps to operate not more than 5 percent below and on the shut-off side of 
+the maximum efficiency point of the impeller curve.  Provide bronze or 
+cast iron body construction, bronze or stainless steel fitted.
+]
+2.17.3   
+Pipe Insulation
+Apply pipe insulation and coverings in accordance with Section 
+23 07 00
+ 
+THERMAL INSULATION FOR MECHANICAL SYSTEMS as called out for steam piping to
+ 103 kPa
+ 15 psig
+.  Provide array piping insulation capable of withstanding
+ 
+121 degrees C
+ 250 degrees F
+, except provide piping within
+ 450 mm
+ 1.5 feet
+ 
+of collector connections capable of withstanding
+ 204 degrees C
+ 400 degrees 
+F
+.
+2.17.4   
+Expansion Tank
+**************************************************************************
+NOTE:  Care should be taken by the designer to 
+properly size the expansion tank according to the 
+guidance in UFC 3 440-01.  This expansion tank 
+sizing criteria requires the expansion tank to be 
+SECTION 22 33 30  Page 39
+CANCELLED
+
+
+able to accept an amount of fluid equal to the fluid 
+volume of the collectors plus piping at the same 
+height or above the collectors.  This is in contrast 
+to the conventional method of sizing the expansion 
+tank to account for thermal expansion of the heat 
+transfer fluid.  The method described above allows 
+for the large volume increase corresponding to the 
+vaporization of fluid in the collectors during 
+stagnation.  This "oversizing" provides a fail-safe 
+means of system pressure control during stagnation 
+conditions, and prevents heat transfer fluid 
+discharge by keeping the system pressure below the 
+maximum
+ 862 kPa
+ 125 psig
+ relief value.  A 
+bladder-type expansion tank is required to separate 
+the heat transfer fluid from the metal tank 
+material.  Use of a precharged tank allows the 
+overall tank size to be smaller.  Care should be 
+taken to ensure that the expansion tank precharge 
+pressure is less than the fill pressure at the 
+expansion tank.  Items to be shown on the drawings 
+must include:
+a.  Expansion tank acceptance and total volume
+b.  Expansion tank and bladder materials
+c.  Maximum relief, system cold fill, and precharge 
+pressures.
+**************************************************************************
+Construct and test expansion tank in accordance with 
+ASME BPVC SEC VIII D1
+ 
+and as applicable for a working pressure of
+ 862 kPa
+ 125 psig
+.  Provide 
+tank with an elastomeric EPDM bladder which separates the system fluid 
+from the tank walls and is suitable for a maximum operating temperature of
+ 
+116 degrees C
+ 240 degrees F
+.  Size the expansion tank to accept a volume 
+equal to the fluid volume of the collectors plus the associated piping.  
+Tank volume must be a minimum of [_____]
+ liters
+ gallons
+ as shown.  If the 
+system is modified from the construction documents, recalculate the system 
+volume and modify the expansion tank volume as required.  Provide total 
+tank size and arrangement as shown.  Provide tank with
+ 862 kPa
+ 125 psi
+ 
+pressure relief valve.  Provide tank with precharge pressure of [_____]
+ kPa
+ psi
+ as shown.
+2.17.5   
+Heat Transfer Fluid
+**************************************************************************
+NOTE:  Where freezing temperatures at the project 
+location and the system design dictate, the use of 
+an uninhibited propylene-glycol/water solution will 
+be utilized.  USP/food-grade uninhibited 
+propylene-glycol is a nontoxic, noncorrosive fluid 
+used by the food industry, and has been approved for 
+use with single isolation heat exchangers in 
+closed-loop military solar energy systems by the 
+Office of the Surgeon General (DASG) in coordination 
+with the Toxicology Division of the Army 
+Environmental Hygiene Agency.  The concentration to 
+be used is a function of the climate where the 
+system is to be located.  The concentration should 
+be either 30 or 50 percent, with climates that 
+commonly attain freezing temperatures (those above 
+SECTION 22 33 30  Page 40
+CANCELLED
+
+
+approximately
+ 2,222 heating Kelvin days
+ 4000 heating 
+degree F days
+) receiving the 50 percent solution.  
+Although inhibited propylene-glycol is often used in 
+mechanical systems, uninhibited propylene-glycol is 
+specified for solar systems to eliminate fluid 
+maintenance requirements.  Indicate in equipment 
+schedules on drawings the heat transfer fluid used, 
+the concentration, and the maximum operating 
+temperature to assure proper equipment and materials 
+compatibility.  Items to be shown on the drawings 
+regarding the heat transfer fluid must include, if 
+applicable:
+a.  Use of uninhibited, food-grade propylene-glycol 
+and distilled water solution
+b.  30 or 50 percent concentration
+c.  Note of tamper resistant seal requirement.
+**************************************************************************
+[Solar collector loop fluid must be uninhibited USP/food-grade 
+propylene-glycol and mixed with distilled or demineralized water to form 
+a[ 30][ 50] percent by volume propylene-glycol solution as shown.][Solar 
+collector loop fluid must be potable water.]
+2.17.5.1   
+Collector 
+Heat Transfer Fluid
+Heat Transfer Fluid
+**************************************************************************
+NOTE:  If a glycol mixtures is used, the designer 
+must consider the decrease heat transfer capacity of 
+the system in calculation to address hot water 
+requirements and efficiency.
+**************************************************************************
+**************************************************************************
+NOTE:  In lieu of the collector heat transfer fluid, 
+the use of water in a drainback concept may be 
+acceptable.  Recommend to use only non-toxic heat 
+transfer fluid.
+**************************************************************************
+Conform to the following:
+a.  Liquid useful temperature range of
+ [minus 40] to [204] [_____] degrees 
+C
+ [minus 40] to [400] [_____] degrees F
+.
+b.  Non-ionic, high dielectric, non-aqueous, non-reactive, stable fluid 
+which does not corrode copper, aluminum, iron, or steel, or attack 
+plastics.
+c.  Flash point exceeding
+ 193 degrees C
+ 380 degrees F
+.
+d.  Fluid stability of 5 years.
+e.  Maximum acute oral toxicity of
+ 5 grams per kilogram
+ 5000 ppm
+.
+2.17.6   
+Solar-boosted 
+Domestic Water Heaters
+ASHRAE 90.1 - IP
+ and UL listed.  Provide built-in[, double wall] heat 
+exchanger and factory insulation jacket.  Non-pressurized, vented, 
+SECTION 22 33 30  Page 41
+CANCELLED
+
+
+drainback systems may use single-wall heat exchanger.
+2.17.7   
+Drain Back Tank
+Provide drain back tank that is constructed by one manufacturer, ASME 
+stamped for working pressure, has ASME registration, and is sized in 
+accordance with the requirements of the manufacturer.  Construct tank of 
+stainless steel type 304 alloy. Provide tank connection fittings that are
+ 
+12 mm
+ 1/2 inch
+ female NPT type fittings.  Maximum operating pressure must 
+be no less than 50 PSI.  Maximum temperature less than
+ 95 degrees C
+ 200 
+degrees F
+ is unacceptable.
+2.18   
+INSULATION
+**************************************************************************
+NOTE:  The following paragraph is tailored for ARMY 
+and AIR FORCE, and NAVY.  Select the applicable 
+tailoring option for the project.
+**************************************************************************
+Insulate back and sides of the absorber plate.  Fill space between 
+absorber plate and casing with insulation that has an R value of 4 
+minimum.  Use insulation conforming to EPA requirements in accordance with 
+Section 
+01 33 29
+ SUSTAINABILITY REQUIREMENTS AND REPORTING which is 
+polyisocyanurate, urethane foam, or other material suitable for the 
+intended purpose, and capable of withstanding the moisture, sun exposure, 
+and stagnation temperature limitations of the solar collector.  Do not 
+allow polyisocyanurate insulation to come in contact with the absorber 
+plate.  
+Follow Section 
+23 07 00
+ THERMAL INSULATION FOR MECHANICAL SYSTEMS 
+requirements.
+2.19   
+CONTROL AND 
+INSTRUMENTATION
+ SUBSYSTEM
+Use corrosion resistant materials for wetted parts of instruments.
+2.19.1   
+Solar Controller
+UL listed.  Solid-state or electrical only, with overvoltage protection.
+2.19.1.1   
+Differential Temperature Control
+Factory assembled and packaged device.
+2.19.1.2   
+High Limit Control
+Provide high temperature cut-off to limit upper half of the storage tank 
+temperature to be
+ [71][82][_____] degrees C
+ [160][180][_____] degrees F
+.
+[
+2.19.1.3   
+Swimming Pool Control
+**************************************************************************
+NOTE:  Delete this paragraph if the project is not 
+for a swimming pool.
+**************************************************************************
+Provide adjustable thermostatic setting to prevent pool overheating, with 
+range from
+ [13][_____] to [29][_____] degrees C
+ [56][_____] to [85][_____] 
+degrees F
+.  Turn solar heater on when solar collectors are
+ 2.77 degrees C
+ 
+5 degrees F
+ hotter than pool temperature.  When pool temperature is above 
+SECTION 22 33 30  Page 42
+CANCELLED
+
+
+the thermostatic setting, drain water from the panels.
+]
+2.19.1.4   
+Controller Enclosure
+NEMA 250
+; Weathertight rated to NEMA 4X.
+2.19.2   
+Differential Temperature Control Equipment
+**************************************************************************
+NOTE:  The guidance contained in UFC 3-440-01 
+discusses desired control and diagnostic 
+capabilities of control equipment.
+**************************************************************************
+Supply differential temperature control equipment as a system by a single 
+manufacturer.  Controller must be compatible with the building automation 
+system (BAS).  Provide solid-state electronic type controller complete 
+with an integral transformer to supply low voltage, which allows a minimum 
+adjustable temperature differential (on) of
+ 4 to 11 degrees C
+ 8 to 20 
+degrees F
+, a minimum adjustable temperature differential (off) of
+ 2 to 3 
+degrees C
+ 3 to 5 degrees F
+, and includes a switching relay or solid state 
+output device for pump control.  Thermostat must operate in the on-off 
+mode.  Controller accuracy must be plus or minus
+ 0.5 degree C
+ 1 degree F
+.  
+Provide controller that is compatible with 10-kOhm thermistor temperature 
+sensors.  Use differential control to provide direct digital temperature 
+readings of all temperatures sensed.  Control must indicate visually when 
+pumps are energized.  Control ambient operating range must be a minimum of
+ 
+0 to 49 degrees C
+ 32 to 120 degrees F
+.  At a minimum, system control 
+points must include:
+a.  Collector temperature sensor
+b.  Storage tank temperature sensor
+c.  Heat exchanger temperatures inlet and outlet
+d.  Pump inlet and discharge pressure
+e.  Heat exchanger inlet and outlet pressure
+f.  Storage tank pressure
+g.  Flow indicator in the collector loop
+h.  Flow indicator in the storage loop
+i.  BTU meter to measure and record the thermal energy stored.
+[
+2.19.3   
+Sensors
+**************************************************************************
+NOTE:  Delete this paragraph if solar collectors are 
+unglazed.
+**************************************************************************
+Construct sensors to withstand stagnation temperatures of glazed solar 
+collectors.  Provide primary and alternate collector sensors attached to 
+an absorber plate.  Provide[ copper][ brass] wells which can be inserted 
+into the collector tube, storage tank, or [_____].  Sensors may be 
+SECTION 22 33 30  Page 43
+CANCELLED
+
+
+strapped onto pipes and covered with insulation.
+]
+2.19.4   
+Pressure Gages
+ASME B40.100
+, brass body, and minimum
+ 90 mm
+ 3 1/2 inch
+ diameter dial face.
+2.19.5   
+Tank Gages
+Provide[ buoyant force;][ diaphragm;][ or][ purge, bubble-pipe] type 
+Gage[s].
+2.19.6   
+Thermistor Temperature Sensors
+**************************************************************************
+NOTE:  UFC 3-440-01 allows using platinum resistance 
+temperature detectors (RTDs) also.
+**************************************************************************
+Provide 10-kOhm thermistor temperature sensors supplied by the 
+differential temperature controller manufacturer, with an accuracy of plus 
+or minus 1 percent at
+ 25 degrees C
+ 77 degrees F
+.  Model supplied must have 
+passed an accelerated life test conducted by subjecting thermistor 
+assemblies to a constant temperature of
+ 204 degrees C
+ 400 degrees F
+ or 
+greater for a period of 1000 hours minimum.  Maintain accuracy within plus 
+or minus 1 percent as stated above.  Provide hermetically sealed glass 
+type thermistors.  Use operating range of
+ minus 22 to plus 204 degrees C
+ 
+minus 40 to plus 400 degrees F
+.  Provide immersion wells or watertight 
+threaded fittings for temperature sensors.
+[
+2.19.7   
+Differential Thermostat
+**************************************************************************
+NOTE:  Use this only in large systems, generally not 
+residential.  It is recommended that the 
+differential thermostat be
+ 4.40 degrees C
+ 8 degrees F
+ turn on and
+ 1.70 to 2.80 degrees C
+ 3 to 5 degrees F
+ 
+turn off.
+**************************************************************************
+Provide UL-listed differential thermostat for controlling the magnetic 
+starter, not in the same circuit as pump motor.[  For integral collector 
+freeze protection, provide two independent contact relays[, rated 10 
+amperes at 120 Vac].][  Provide a switch with ON, OFF, and AUTO 
+positions.]  Provide weathertight enclosures.
+]
+2.19.8   
+Sensor and Control Wiring
+18 AWG minimum twisted and shielded 2, 3, or 4 conductor to match analog 
+function hardware.  Provide control wiring with 600 volt insulation.  
+Provide multi-conductor wire with an outer jacket of PVC.
+2.19.9   
+Thermometers
+ASTM E1
+,[ liquid-in-glass type][ dial type, liquid-filled tube and bulb].  
+For pipe and tank applications, provide separate sockets fabricated of 
+brass, copper, or stainless steel and rated for
+ 862 kPa
+ 125 psi
+ working 
+pressure.
+SECTION 22 33 30  Page 44
+CANCELLED
+
+
+2.19.10   
+Flowmeters
+**************************************************************************
+NOTE:  Venturi pressure differential is dependent on 
+the flow rates to be measured.  System flow rates 
+are dependent on recommended collector flow rates.  
+UFC 3 440-01 and paragraphs Piping and Heat 
+Exchanger should be used to determine both the 
+collector side and storage side flow rates.
+**************************************************************************
+Provide flowmeters consisting of a venturi,
+ 150 mm
+ 6 inch
+ dial 
+differential pressure meter, valved pressure taps, and bar stock needle 
+valves.  Provide venturi flow nozzle with threaded bronze ends for pipe 
+sizes up to
+ 50 mm
+ 2 inches
+ and flanged ends for pipe sizes
+ 65 mm
+ 2-1/2 
+inches
+ and above.  Venturi length must be not less than 1.6 times the pipe 
+size.  Select venturi to read differential pressure corresponding to 0.5 
+to 1.5 times the system flow rate.  Provide venturi with an accuracy of 
+plus or minus 1 percent of the range.  Provide meter with an accuracy of 
+plus or minus 2 percent of the full scale range.
+2.19.11   
+Test Ports
+Solid brass,
+ 6 mm
+ 1/4 inch
+ fitting to receive either a temperature or 
+pressure probe
+ 3 mm
+ 1/8 inch
+ outside diameter, two valve cores of 
+neoprene, fitted with color coded and marked cap with gasket, and rated for
+ 6894 kPa (gage)
+ 1,000 psig.
+2.19.12   
+Monitoring System
+**************************************************************************
+NOTE:  For small systems, such as family housing, do 
+not use monitoring system, due to high initial cost 
+and the labor to maintain it.
+**************************************************************************
+a.  [Solar Differential Controller with ]
+Kilojoule 
+BTU 
+Meter:  [Controller 
+conforming to 
+UL 873
+ with ]Sensing and Monitoring device to measure 
+and display the heat energy produced by the solar system, with minimum 
+sensitivity of 0.5 percent over the entire scale.  Provide 
+electromechanical
+ kJ
+ BTU
+ counter plus digital-panel meter indicating 
+sensor temperatures, differential temperature, flow rate, and
+ watt
+ BTU 
+per minute or hour
+.
+b.  [Water ][and ][Heat Transfer Fluid ]Leak Detection:  UL-listed system 
+consisting of a sensor probe, control panel, and LED indicators for[ 
+water; yellow,][ and][ heat transfer fluid; red,] with audible alarm 
+at minimum 75 dB sound level; reference 10 exponential minus 12 watts.
+2.19.13   
+Sight Flow Indicators
+Provide sight flow indicators consisting of a clear glass window or 
+cylinder and a nonferrous or 316 stainless steel body and impeller.  
+Provide indicator with threaded ends for pipe sizes up to
+ 50 mm
+ 2 inches
+ 
+and flanged ends for pipe sizes
+ 65 mm
+ 2-1/2 inches
+ and above. Maximum 
+operating pressure must be no less than
+ 862 kPa
+ 125 psi
+.  Maximum 
+operating temperature must be no less than
+ 121 degrees C
+ 250 degrees F
+.
+SECTION 22 33 30  Page 45
+CANCELLED
+
+
+2.20   
+SOLAR COLLECTOR CONTROL SEQUENCES
+As indicated in paragraph SEQUENCE OF OPERATION.
+2.21   
+PAINTING AND FINISHING
+**************************************************************************
+NOTE:  For corrosion protection, select the 
+manufacturer's standard finish corresponding to the 
+Environmental Severity Classifications (ESC) and 
+humid locations following UFC 3-190-06 Protective 
+Coatings and Paints and ASHRAE 90.1-2019 
+requirements.  UFC 1-200-01, section titled 
+"Corrosion Prone Locations" identifies Climate Zones 
+3C, 4C, or 5C as requiring additional corrosion 
+protection.  Humid locations are in Climate Zones 
+0A, 1A, 2A, 3A, 3C, 4C, and 5C.  To determine ESC 
+for specific project locations, use the latest 
+ASHRAE United States Climate Zones Map.
+**************************************************************************
+New equipment painting must be factory applied or shop applied, and must 
+be as specified herein.
+2.21.1   
+Factory Painting System
+2.21.1.1   
+Inside the Building
+Equipment and component items, when fabricated from ferrous metal and 
+located inside the building, must be factory finished with the 
+manufacturer's standard finish.
+2.21.1.2   
+Outside the Building
+Equipment and component items, when fabricated from ferrous metal and 
+located outside the building, must be factory finished with the 
+manufacturer's standard finish for project location[ in Climate Zone 
+[_____]].
+2.21.2   
+Shop Painting System for Metal Surfaces
+Clean, pretreated, prime and paint metal surfaces; except aluminum 
+surfaces need not be painted.  Apply coatings to clean dry surfaces.  
+Clean the surfaces to remove dust, dirt, rust, oil and grease by wire 
+brushing and solvent degreasing prior to application of paint, except 
+metal surfaces subject to temperatures in excess of
+ 50 degrees C
+ 120 
+degrees F
+ must be cleaned to bare metal.
+Where more than one coat of paint is specified, apply the second coat 
+after the preceding coat is thoroughly dry.  Lightly sand damaged painting 
+and retouch before applying the succeeding coat.  Color of finish coat 
+must be aluminum or light gray.
+a.  Temperatures Less Than
+ 50 Degrees C
+ 120 Degrees F
+:  Immediately after 
+cleaning, the metal surfaces subject to temperatures less than
+ 50 
+degrees C
+ 120 degrees F
+ must receive one coat of pretreatment primer 
+applied to a minimum dry film thickness of
+ 0.0076 mm
+ 0.3 mil
+, one coat 
+of primer applied to a minimum dry film thickness of
+ 0.0255 mm
+ 1 mil
+; 
+and two coats of enamel applied to a minimum dry film thickness of
+ 
+SECTION 22 33 30  Page 46
+CANCELLED
+
+
+0.0255 mm
+ 1 mil
+ per coat.
+b.  Temperatures Between
+ 50 and 205 Degrees C
+ 120 and 400 Degrees F
+:  
+Metal surfaces subject to temperatures between
+ 50 and 205 degrees C
+ 
+120 and 400 degrees F
+ must receive two coats of
+ 205 degrees C
+ 400 
+degrees F
+ heat-resisting enamel applied to a total minimum in 
+thickness of
+ 0.05 mm
+ 2 mils
+.
+c.  Temperatures Greater Than
+ 205 Degrees C
+ 400 Degrees F
+:  Metal surfaces 
+subject to temperatures greater than
+ 205 degrees C
+ 400 degrees F
+ must 
+receive two coats of
+ 315 degrees C
+ 600 degrees F
+ heat-resisting paint 
+applied to a total minimum dry film thickness of
+ 0.05 mm
+ 2 mils
+.
+2.21.2.1   
+Certification
+Provide certification that the 
+shop painting system
+ applied withstands 125 
+hours in a salt-spray fog test, except that equipment located outdoors 
+must withstand 500 hours in a salt-spray fog test.  Salt-spray fog test 
+must be in accordance with 
+ASTM B117
+, and for that test the acceptance 
+criteria must be as follows:  Immediately after completion of the test, 
+the paint must show no signs of blistering, wrinkling, or cracking, and no 
+loss of adhesion; and the specimen must show no signs of rust creepage 
+beyond
+ 3 mm
+ 0.125 inch
+ on either side of the scratch mark.
+PART 3   EXECUTION
+3.1   
+EXAMINATION
+After becoming thoroughly familiar with all details of the work, verify 
+all dimensions in the field, and advise the Contracting Officer of any 
+discrepancy before performing any work.
+3.2   
+INSTALLATION
+3.2.1   
+Solar Collector System
+**************************************************************************
+NOTE:  Disinfect domestic water systems, if 
+connected with solar collector panels.  Provide 
+disinfections provisions in either Section 
+22 00 00
+ 
+PLUMBING, GENERAL PURPOSE or another appropriate 
+project section.
+**************************************************************************
+Install the solar collector system in accordance with this section and the 
+printed instructions of the manufacturer.[  Disinfect domestic water 
+systems, if connected with collector panels, in accordance with Section 
+22 00 00
+ PLUMBING, GENERAL PURPOSE.]  Prior to system start-up, protect 
+collector from direct sunlight.
+3.2.2   
+Collector Subsystem
+3.2.2.1   
+Collector Array
+**************************************************************************
+NOTE:  UFC 3-440-01 discusses installation design 
+guidelines for solar collector arrays.  The tilt 
+angle of the collectors off horizontal should be 
+near the site latitude within plus or minus 10 
+SECTION 22 33 30  Page 47
+CANCELLED
+
+
+degrees (to favor winter output).  Items to be shown 
+on the drawings with regard to the installation of 
+the array must include:
+a.  Tilt angle of collectors from horizontal
+b.  Elevation of bottom or back of collectors off of 
+flat or pitched roof
+c.  Location and elevation of piping with regard to 
+array supply and return.
+d.  Provide a minimum space of
+ 100 mm
+ 4 inches
+ 
+between the collector and the roof.
+**************************************************************************
+Install solar collector array at the tilt angle, orientation, and 
+elevation above roof as indicated.[  Install collectors per the 
+manufacturer's instructions.][  For installation on flat roofs with rack 
+type collector mounting or for ground mounted collectors, bottom of 
+collector must be a minimum of
+ 450 mm
+ 18 inches
+ from roof or ground 
+surface.][  For mounting on pitched roofs, install back of collectors a 
+minimum of
+ 50 mm
+ 4  inches
+ above roof surface.]  Keep the collectors out 
+of the shade between 9 a.m. and 3 p.m. when the bulk of the energy 
+collection occurs.  Array azimuth angle apples to the direction of the 
+collector faces.  Design the array's azimuth angle within plus or minus 20 
+degrees from due south.[  Group internal-manifold collectors into banks 
+ranging from four to seven collectors, with each bank containing the same 
+number of collectors to maintain uniform flow throughout the array and 
+minimize thermal expansion.]  Each solar collector must be removable for 
+maintenance, repair, or replacement.  Solar collector array must not 
+impose additional loads on the structure beyond the loads scheduled on the 
+structural drawings.  Roof penetrations for the array supply and return 
+piping and sensor wiring conduit must be without leaking and allow 
+movement due to temperature expansion.  For installation on new roof, 
+coordinate with roof manufacturer of new roof and obtain certificate.  For 
+installation on existing roof, coordinate with activity to provide 
+certificate of continued validity of warranty from manufacturer.
+3.2.2.2   
+Array Piping
+Install collector array piping in a reverse-return configuration so that 
+path lengths of collector supply and return are of approximately equal 
+length.  All piping must be coded with fluid type and flow direction 
+labels in accordance with Section 
+09 90 00
+ PAINTS AND COATINGS.
+3.2.2.3   
+Piping Installation
+Accurately cut pipe to measurements established on site and work into 
+place without springing or forcing.  Locate piping out of the way of 
+windows, doors, openings, light fixtures, electrical conduit, equipment, 
+and other piping.  Provide for expansion and contraction.  Do not bury, 
+conceal, or insulate until piping has been inspected, and tested.  Locate 
+joints where they may be readily inspected.  Provide flexibility in piping 
+connected to equipment for thermal stresses and vibration.  Support and 
+anchor piping connected to equipment to prevent strain from thermal 
+movement and weight from being imposed on equipment.[  Provide seismic 
+restraints in accordance with 
+SMACNA 1981
+.]  Install hangers and supports 
+in accordance with 
+MSS SP-58
+, unless otherwise indicated.
+SECTION 22 33 30  Page 48
+CANCELLED
+
+
+3.2.2.3.1   
+Fittings
+Provide long-radius ells wherever possible to reduce pressure drops.  Do 
+not bend pipes, miter pipe to form elbows, use bushings, or notch straight 
+runs to form full-sized tees.  Provide union for disconnection of valves 
+and equipment for which a means of disconnection is not otherwise 
+provided. Provide reducing fittings for changes of pipe size.
+3.2.2.3.2   
+Measurements
+Determine and establish measurements for piping at the job site and 
+accurately cut pipe and tubing lengths accordingly.  Where possible, 
+install full pipe lengths.  Do not use couplings to join random lengths.
+3.2.2.3.3   
+Cleaning
+Thoroughly clean interior of water piping before joining by blowing clear 
+with either steam or compressed air.  Maintain cleanliness of piping 
+throughout installation.  Provide caps or plugs on ends of cleaned piping 
+as necessary to maintain cleanliness.
+3.2.2.3.4   
+Panel Connections to Headers
+Connect panels to top and bottom headers with soft-drawn long bend "S" or 
+"U" copper tubes brazed with 15-percent silver solder.  Provide tube 
+bender only.  Hand-formed tubing will not be acceptable.  Install bottom 
+headers behind the panels to protect the header insulation from abuse.  
+For panels with internal headers, provide copper couplings and soldering.
+3.2.2.3.5   
+Header Thermal Expansion and Contraction
+Install slip tube or bellows type expansion joints.  Limit thermal 
+expansion of collector headers to
+ [6][_____] mm for 93 degrees C
+ 
+[1/4][_____] inch for 200 degrees F
+ maximum rise.
+3.2.2.3.6   
+Flanged Joints
+Provide flanged joints for making flanged connections to flanged pumps and 
+other flanged piping components.  Install joints so that flanged faces 
+bear uniformly.  Engage bolts so that there is complete threading through 
+the nuts and tighten until bolts are equally torqued.
+3.2.2.3.7   
+Sleeves
+Provide schedule 10 galvanized steel sleeves for pipe and tubing passing 
+through floors, roofs, walls and partitions of either concrete or masonry 
+construction, except that sleeves are not required for floor slabs on 
+grade.  After piping has been installed, pack oakum into the space between 
+the pipe or tubing and the sleeve and seal both ends with insulating 
+cement.
+3.2.2.3.8   
+Flashing
+[Section 
+07 60 00
+ FLASHING AND SHEET METAL.  ]Provide watertight flashing 
+for pipe and tubing extending through the roof.
+3.2.2.3.9   
+Escutcheons
+Provide chrome plated steel escutcheons for uninsulated pipe and tubing 
+SECTION 22 33 30  Page 49
+CANCELLED
+
+
+passing through floors, walls and ceilings.
+3.2.2.3.10   
+Drain Lines
+Provide drain lines from air vents and relief valves to the nearest[ roof 
+drains][ floor drains][ disposal points as directed].
+3.2.2.3.11   
+Insulation and Identification
+Insulate piping in accordance with Section 
+23 07 00
+ THERMAL INSULATION FOR 
+MECHANICAL SYSTEMS.[  Frostproof air vents by insulating or shielding from 
+night sky reverse radiation.]  After piping has been insulated, apply 
+identification labels and arrows in accordance with 
+ASME A13.1
+.  Apply 
+identification over the insulation jacket of piping.  Provide two copies 
+of the piping identification code framed under glass and install where 
+directed.  Where insulation is exposed to the exterior of a building, 
+sunlight, or the elements, insulation must be shielded from the elements 
+with appropriate aluminum, stainless steel, or UV-inhibited PVC jacketing.
+3.2.2.4   
+Excavating and Backfilling
+**************************************************************************
+NOTE:  Underground tanks which require the buries 
+lines are not a recommended method for thermal 
+storage.  A design with thermal storage within a 
+building is more ideal for efficiency.
+**************************************************************************
+Provide in accordance with Section 
+31 00 00
+ EARTHWORK.  Coordinate 
+provision of utility warning and identification tape with backfill 
+operation.  Provide tapes above buried lines at a depth of
+ 200 to 300 mm
+ 8 
+to 12 inches
+ below finish grade.
+3.2.2.5   
+Instrumentation
+Install instruments as recommended by the control manufacturers.[  For the 
+monitoring system to detect[ water][ and][ heat transfer fluid], locate 
+the sensor probe in the lowest corner of double-wall[ tank][ and][ heat 
+exchanger].]  Locate control panels[ inside mechanical room] [_____].
+3.2.2.6   
+Array Support
+Install array support in accordance with the recommendations of the 
+collector manufacturer and licensed profession structural engineer.  Weld 
+structural members requiring welding in accordance with 
+AWS D1.2/D1.2M
+ for 
+aluminum and welders should be qualified according to 
+AWS B2.1/B2.1M
+.  
+Provide fall protection prevention systems compatible with the job tasks 
+and work environment.  Follow the manufacturer required space around the 
+array for maintenance.
+3.2.3   
+Storage Subsystem
+Install solar storage tank penetrations as shown so that cold water inlet 
+to storage tank and outlet from storage tank to collector array are 
+located near the bottom of the tank, and inlet from collector array and 
+outlet to load are located near the top of the tank.  Where practicable, 
+install hot water storage tanks with access hatches in order to facilitate 
+annual cleaning and inspections.
+SECTION 22 33 30  Page 50
+CANCELLED
+
+
+3.2.4   
+Transport Subsystem
+3.2.4.1   
+Flow Rates
+**************************************************************************
+NOTE:  The reverse-return strategy is important to 
+proper array operation.  Because this strategy 
+results in what may be initially perceived by the 
+Contractor as excess piping, it is important that 
+the array piping be shown and indicated on the 
+drawing as satisfying this requirement.  Rules, 
+methodology, and examples of the reverse-return 
+strategy are given in UFC 3 440-01.  Collector loop 
+flow rate should be determined by multiplying the 
+recommended flow rate per collector by the number of 
+collectors to be installed.  Collector headers must 
+be located such that there is no possibility of air 
+pockets.  Items to be shown on the drawings must 
+include:
+a.  Flow rate through collector loop based on 
+recommended flow per collector
+b.  Reverse-return piping shown and noted
+c.  Valves, strainers, automatic controls, and all 
+accessories
+d.  Pipe pitch for draining.
+Although solar energy system performance is not 
+strongly dependent on the effectiveness of the 
+particular heat exchanger used, it is very important 
+to ensure that it is sized properly.  Use of the 
+approach and return temperatures stated in this 
+paragraph ensures that the effectiveness of the heat 
+exchanger is within acceptable limits.  The hot side 
+return temperature can be less than
+ 49 degrees C
+ 120 
+degrees F
+ if the designer  determines  that the 
+effectiveness should be greater than 0.5.  When 
+multi-plate heat exchangers are used, the 
+effectiveness can be significantly increased above 
+0.5 for a small increase in heat exchanger cost.  
+Both shell-and-tube and multi-plate or plate and 
+frame heat exchangers are allowable for solar 
+systems.  The multi-plate heat exchanger has the 
+advantages over shell-and-tube of being more 
+compact, more efficient, easier to clean, and it is 
+commonly produced from superior materials.  They can 
+also be easily expanded to larger sizes if 
+necessary, and many require little or no 
+insulation.  The designer should consider use of 
+these exchangers whenever practical.  Because of the 
+wide variety of configurations used by these heat 
+exchangers, they must often be sized by the 
+individual manufacturers.  In accordance with UFC 
+3-440-01, the flow rate on the storage side of the 
+heat exchanger should be 1.25 times that on the 
+collector side.  Items to be shown on the drawings 
+must include:
+a.  Type of heat exchanger and heat exchanger 
+SECTION 22 33 30  Page 51
+CANCELLED
+
+
+materials
+b.  Flow rates on both sides of heat exchanger
+c.  Plate or tube heat transfer area.
+**************************************************************************
+[Base flow rate in the collector loop on recommended collector flow rate, 
+and as shown.  Storage loop flow rate  must be 1.25 times the collector 
+loop flow rate.  ][Base system flow rate on recommended collector flow 
+rate, and as indicated.  ]All flow rates  must be below
+ 1.5 meters/second
+ 
+5 feet/second
+.
+3.2.4.2   
+Pumps
+[Install pumps on foundations, leveled, grouted, and realigned before 
+operation in accordance with manufacturers' instructions.  ][Provide 
+additional pipe supports for close-coupled in-line pumps.  ][Provide a 
+straight pipe between the suction side of the pump and the first elbow for 
+all base mounted pumps.  The length of this pipe must be a minimum of five 
+times the diameter of the pipe on the suction side of the pump, or attach 
+a suction diffuser of the proper size to the suction side of the pump.  
+][Provide straight pipe between the suction side of the pump and the first 
+elbow for all in-line pumps.  The length of this pipe must be a minimum of 
+five times the diameter of the pipe size on the suction side of the pump.  
+]Drain line sizes from the pumps  must be not less than the drain trap or 
+the pump dirt pocket, but in no case must the drain line be less than
+ 13 mm
+ 1/2 inch
+ iron pipe size.  Terminate drain lines to spill over the nearest 
+floor or open sight drain.
+3.2.4.3   
+Expansion Tank
+Install expansion tank on suction side of pump.
+3.2.4.4   
+Piping, Valves, and Accessories
+**************************************************************************
+NOTE:  In freezing temperatures at the project, the 
+use of an uninhibited propylene-glycol/water 
+solution may be required.  USP/food-grade 
+uninhibited propylene-glycol is a nontoxic, 
+noncorrosive fluid used by the food industry, and 
+has been approved for use with single isolation heat 
+exchangers in closed-loop military solar energy 
+systems by the Office of the Surgeon General (DASG) 
+in coordination with the Toxicology Division of the 
+Army Environmental Hygiene Agency.  The 
+concentration to be used is a function of the 
+climate where the system is to be located.  The 
+concentration should be either 30 or 50 percent, 
+with climates that commonly attain freezing 
+temperatures (those above approximately
+ 2,222 
+heating Kelvin days
+ 4000 heating degree F days
+) 
+receiving the 50 percent solution.  Although 
+inhibited propylene-glycol is often used in 
+mechanical systems, uninhibited propylene-glycol is 
+specified for solar systems to eliminate fluid 
+maintenance requirements.  Indicate in equipment 
+schedules on drawings the heat transfer fluid used, 
+the concentration, and the maximum operating 
+temperature to assure proper equipment and materials 
+SECTION 22 33 30  Page 52
+CANCELLED
+
+
+compatibility.  Water should only be used as a heat 
+transfer fluid when the direct circulation system is 
+specified, or when the system is designed with 
+inherent freeze protection.  Items to be shown on 
+the drawings regarding the heat transfer fluid must 
+include, if applicable:
+a.  Use of uninhibited, food-grade propylene-glycol 
+and distilled water solution
+b.  30 or 50 percent concentration
+c.  Note of tamper resistant seal requirements.
+**************************************************************************
+Install piping in accordance with Section 
+22 00 00
+ PLUMBING, GENERAL 
+PURPOSE, except where noted otherwise.  Code piping with fluid type and 
+flow direction labels in accordance with Section 
+09 90 00
+ PAINTS AND 
+COATINGS.  When a food-grade uninhibited propylene-glycol solution is used 
+to heat potable service water, tamper resistant seals must be attached to 
+all fill ports.  All propylene-glycol circuits must be labeled "CONTAINS 
+UNINHIBITED FOOD-GRADE PROPYLENE-GLYCOL:  INTRODUCTION OF ANY NONAPPROVED 
+FLUID MAY CONSTITUTE A HEALTH HAZARD."  All tamper resistant seals must 
+carry the name of the registered engineer or licensed plumber who 
+certifies that only a [30][50] percent food-grade uninhibited 
+propylene-glycol and water solution has been installed in the system.  
+Install air vents at the high points of the collector array and in the 
+equipment room.
+3.2.4.5   
+Pipe Expansion
+Provide expansion of supply and return pipes for changes in the direction 
+of the run of pipe or by expansion loops as indicated.  Use expansion 
+loops to provide adequate expansion of the main straight runs of the 
+system within the stress limits specified in 
+ASME B31.1
+.  Provide 
+cold-sprung loops and install where indicated.  Provide pipe guides as 
+indicated.  Do not use expansion joints in system piping.
+3.2.4.6   
+Valves
+**************************************************************************
+NOTE:  Calibrated balancing valves are required at 
+the outlet of each bank in addition to the ball 
+valve required at this outlet.  If the 
+reverse-return piping strategy is properly adhered 
+to, this valve may prove unnecessary.  It is 
+specified, however, to allow the array to be flow 
+balanced in the event of improper construction or 
+modification of the array at some later time.  The 
+ball valves are required to enable the array to be 
+disconnected for maintenance or repair.  Check 
+valves at pump discharges are required to prevent 
+back flow into pumps and are required on the 
+collector loop to prevent fluid cooled in the 
+collectors at night from migrating around the loop 
+to the heat exchanger.
+**************************************************************************
+Install valves at the locations indicated and where required for the 
+proper functioning of the system.  Install valves with their stems 
+horizontal or above.  Install gate or ball valves at the inlet and outlet 
+SECTION 22 33 30  Page 53
+CANCELLED
+
+
+of each bank of internally manifolded collectors.  Install calibrated 
+balancing valves with integral pressure taps at the outlet of each bank 
+and at the pump discharge.  Mark final setting for each valve on each 
+valve.  Install ball valves with a union immediately adjacent.  Install 
+gate valves at the inlet and outlet of each pump and also at the inlet and 
+outlet of each heat exchanger.  Install a check valve at pump discharges.  
+Pipe discharges of relief valves[ where required for high temperature or 
+pressure] to the nearest floor drain or as indicated on system drawings.  
+Give consideration to the fluid temperature and pressure when locating the 
+relief valve discharges.  Additionally, evaluate the pipe material of the 
+receiving pipe for high temperature fluids.
+Install 
+ASSE 1017
+ temperature controlled (master mixing valve) to lower 
+temperature per UFC 3-420-01 immediately downstream of the water heater 
+[and][or] storage tank as close to the fixture(s) as possible in order to 
+reduce the amount of stored tempered water in the pipes in accordance with 
+ASSE 1017
+.
+3.2.4.7   
+Foundations
+Construct concrete foundations or pads for storage tanks, heat exchangers, 
+pumps, and other equipment covered by this specification in accordance 
+with manufacturer's recommendations and be a minimum of
+ 150 mm
+ 6 inches
+ 
+high with chamfered edges.
+3.2.4.8   
+Grooved Mechanical Joints
+Do not utilize grooved mechanical joints.
+3.2.5   
+Control Subsystem
+3.2.5.1   
+Differential Temperature Controller
+Install automatic control equipment at the location shown in accordance 
+with the manufacturer's instructions.  Install control wiring and sensor 
+wiring in conduit.[  Mount collector temperature sensor in a temperature 
+sensor well in the fluid stream along the top manifold of a bank between 
+two adjacent collector units.][  Provide collector temperature sensor by 
+differential temperature controller manufacturer and mount directly on the 
+absorber plate by the manufacturer.]  Unless otherwise indicated, provide 
+operators, controllers, sensors, indicators, and like devices when 
+installed on equipment casings and pipe lines with stand-off mounting 
+brackets, bases, nipples, adapters, or extended tubes to provide 
+clearance, not less than the thickness of the insulation, between the 
+surface and the device.  These stand-off mounting items must be integral 
+with the devices or standard accessories of the controls manufacturer 
+unless otherwise approved.  Clamp-on devices or instruments where direct 
+contact with pipe surface is required are exempt from the use of the above 
+mounting items.  Color code and identify all control wiring with permanent 
+numeric or alphabetic codes.
+3.2.5.2   
+Sequence of Operation
+**************************************************************************
+NOTE:  The following on/off set differentials are 
+common for liquid systems:
+Pump on  =
+ 7 to 11 degrees C
+ 12 to 20 degrees F
+.
+Pump off =
+ 2 to 4 degrees C
+ 3 to  8 degrees F
+.
+SECTION 22 33 30  Page 54
+CANCELLED
+
+
+**************************************************************************
+The differential temperature controller sensing temperature difference 
+between the fluid in a solar collector and water in the storage tank must 
+start solar collector loop[ and storage loop] pumps[s] when the 
+temperature differential (Delta T - ON) rises above
+ [8][_____] degrees C
+ 
+[15][_____] degrees F
+, and must stop the pump when the differential (Delta 
+T - OFF) falls below
+ [3][_____] degrees C
+ [5][_____] degrees F
+.
+3.3   
+INSPECTION AND TESTING
+Submit an independent testing agency's certified reports of inspections 
+and laboratory tests, including analysis, position of flow-balancing 
+equipment, and interpretation of test results.  Properly identify each 
+report.  Describe test methods used and compliance with recognized test 
+standards.
+3.3.1   
+Inspection
+Make system available for inspection at all times.
+3.3.2   
+Testing Prior to Concealment
+Provide equipment and apparatus required for performing tests.  Correct 
+defects disclosed by the tests and repeat tests.  Conduct testing in the 
+presence of the[ Contracting Officer][ QC Representative].
+3.3.2.1   
+Piping Test
+**************************************************************************
+NOTE:  Use pneumatic test if non-aqueous heat 
+transfer fluid are used, to avoid contamination of 
+fluids with water and to eliminate seepage problems.
+**************************************************************************
+Prior to testing, equipment and components that cannot withstand the tests 
+must be properly isolated.[  Pneumatically test new piping for leakage 
+using air at a pressure of
+ 138 kPa (gage)
+ 20 psig
+ or][  Test new water 
+piping for leakage using water at a pressure of at least
+ 690 kPa (gage)
+ 
+100 psig
+ or] 1.5 times the system pressure.  Install a calibrated test 
+pressure gage in the system to indicate loss in pressure occurring during 
+the test.  Apply and maintain the test pressure for one hour, during which 
+time there must be no evidence of leakage, as detected by a reduction in 
+test pressure.  Should a reduction occur, locate leaks, repair, and repeat 
+the test.
+3.3.2.2   
+Hydrostatic Test
+Demonstrate to Contracting Officer that all piping has been 
+hydrostatically tested, at a pressure of
+ 862 kPa
+ 125 psi
+ for a period of 
+time sufficient for inspection of every joint in the system and in no case 
+less than 2 hours, prior to installation of insulation.  Isolate expansion 
+tank and relief valves from test pressure.  Loss of pressure is not 
+allowed.  Repair leaks found during tests by replacing pipe or fittings 
+and retest the system.  Caulking of joints is not permitted.
+3.3.2.3   
+Cleaning of Piping
+Flush system piping with clean, fresh water prior to concealment of any 
+SECTION 22 33 30  Page 55
+CANCELLED
+
+
+individual section and prior to final operating tests.  Prior to flushing 
+piping, isolate or remove relief valves.  Cover solar collectors to 
+prevent heating of cleaning fluid, unless cleaning is performed during 
+hours of darkness.  Circulate the solution through the section to be 
+cleaned at the design flow rate for a minimum of 2 hours.
+3.3.3   
+Posting Framed Instructions
+Post framed instructions under glass or in laminated plastic where 
+directed.  Include a system schematic, and wiring and control diagrams 
+showing the complete layout of the entire system.  Prepare condensed 
+operating instructions explaining preventative maintenance procedures, 
+balanced flow rates, methods of checking the system for normal safe 
+operation, and procedures for safely starting and stopping the system in 
+typed form, frame as specified above, and post beside the diagrams.  
+Submit proposed diagrams, instructions, and other sheets for approval 
+prior to posting.  Post framed instructions before acceptance testing of 
+the system.
+3.3.4   
+Acceptance Testing and Final Inspection
+Notify the Contracting Officer 7 calendar days before the performance and 
+acceptance tests are to be conducted.  Perform tests in the presence of 
+the Contracting Officer.  Furnish all instruments and personnel required 
+for the tests.  Electricity and water will be furnished by the 
+Government.  Maintain a written record of the results of all acceptance 
+tests to be submitted in booklet form.  The tests are as follows:
+3.3.4.1   
+As-Built Drawings
+Submit, as a condition of final acceptance, a complete set of as-built 
+system drawings.  Clearly indicate the actual condition of the installed 
+solar energy system at the time of the final test.
+3.3.4.2   
+Final Hydrostatic Test
+Demonstrate to Contracting Officer that all piping has been 
+hydrostatically tested at a pressure of
+ 862 kPa
+ 125 pounds per square inch
+ 
+for a period of time sufficient for inspection of every joint in the 
+system and in no case less than 2 hours.  Isolate expansion tank and 
+relief valves from test pressure.  Use gauges in the test that have been 
+calibrated within the 6-month period preceding the test.  Test must be 
+witnessed by Contracting Officer.  Loss of pressure is not allowed.  
+Repair leaks found during tests by replacing pipe or fittings and retest 
+the system.  Caulking of joints is not permitted.
+3.3.4.3   
+System Flushing
+For the final inspection, flush the system thoroughly, in no case for less 
+than 2 hours, of all foreign matter until a white linen bag installed in a 
+strainer basket shows no evidence of contamination.  Keep the white linen 
+bag in the strainer basket during the entire flushing operation prior to 
+its being presented to the Contracting Officer for approval.  The 
+Contracting Officer will inspect the linen bag prior to completion of 
+flushing and approve the flushing operation.  Drain system prior to final 
+filling.
+SECTION 22 33 30  Page 56
+CANCELLED
+
+
+3.3.4.4   
+System Filling
+Fill system through indicated connections with[ propylene-glycol 
+solution.  Mix solution consisting of [30][50] percent propylene-glycol 
+and [70][50] percent distilled water by volume][ distilled water] 
+externally to the solar system.  Vent air from the system after filling.  
+System pressure at the high point on the roof must be
+ 69 kPa
+ 10 psig
+ 
+minimum.
+3.3.4.5   
+Control Logic
+**************************************************************************
+NOTE:  The following on/off set differentials are 
+common for liquid systems:
+Pump on  =
+ 7 to 11 degrees C
+ 12 to 20 degrees F
+.
+Pump off =
+ 2 to 4 degrees C
+ 3 to 8 degrees F
+.
+**************************************************************************
+By substituting variable resistors for collector and storage tank 
+temperature sensors, demonstrate the differential temperature controller 
+correctly energizes the system pump[s] when the collector sensor indicates 
+a temperature of
+ [8][_____] degrees C
+ [15][_____] degrees F
+ greater than 
+the storage tank temperature, as indicated on the controller display 
+panel.  Provide differential temperature controller to de-energize the 
+system pump[s] when the displayed temperature of the solar collectors is
+ 
+[3][_____] degrees C
+ [5][_____] degrees F
+ greater than the displayed 
+temperature of the storage tank.
+3.3.4.6   
+Temperature Sensor Diagnostics
+Demonstrate that the controller will correctly identify open and short 
+circuits on both the solar collector temperature sensor circuit and the 
+storage tank sensor circuit.
+3.3.4.7   
+Mechanical Systems Tests
+**************************************************************************
+NOTE:  Insert appropriate Section number and title 
+in blank below using format per UFC 1-300-02.
+**************************************************************************
+Perform tests on mechanical systems, including pumps, controls, controlled 
+valves, and other components in accordance with manufacturer's written 
+recommendations.  Test entire system in accordance with[ Section 
+23 05 93
+ 
+TESTING, ADJUSTING, AND BALANCING FOR HVAC] [_____] and 
+ASTM E1160
+.
+3.3.4.8   
+Operation Test
+Perform operational test over a period of 48 consecutive hours with 
+sufficient solar insulation to cause activation of the solar energy system 
+during daylight hours.  With system fully charged so that pressure at the 
+high point on the roof or the lowest system pressure is a minimum of
+ 69 kPa
+ 10 psig
+ and with fluid and pump[s] energized,[ sight flow indicator must 
+indicate flow][flowmeter must indicate flow as indicated].  Use calibrated 
+balancing valves with pressure taps to indicate bank flow rate as shown.
+SECTION 22 33 30  Page 57
+CANCELLED
+
+
+3.4   
+FIELD QUALITY CONTROL
+3.4.1   
+Field Inspection
+Prior to initial operation, inspect the piping system for conformance to 
+drawings, specifications and 
+ASME B31.1
+.  Inspect the following 
+information on each collector:
+a.  Manufacturer's name or trademark
+b.  Model name or number
+c.  Certifying agency label and rating
+.
+3.4.2   
+Manufacturer's Field Services
+Furnish the services of a technical representative of the collector 
+manufacturer, at the job site during each phase of inspection, 
+installation, and testing.  For solar collectors, furnish the services of 
+a manufacturer's representative to instruct Government personnel for one 
+man day, in the operating and maintenance of equipment.  Notify the 
+Contracting Officer in writing, prior to scheduling instructions.
+3.5   
+COMMISSIONING
+**************************************************************************
+NOTE:  Section 
+01 91 00.15
+ BUILDING COMMISSIONING is 
+intended for building systems, however, the basic 
+requirements are applicable to Solar Water Heating 
+Systems commissioning processes.  Section 
+01 91 00.15
+ will need to be tailored for the Solar Water 
+Heating Systems when compiling project 
+specifications.
+**************************************************************************
+Conduct Commissioning, after the system is installed and is ready for 
+operation, in accordance with Section 
+01 91 00.15
+ BUILDING COMMISSIONING.
+3.5.1   
+Commissioning Agent Qualification
+Individual qualified in testing (e.g., professional engineer, 
+factory-certified technician) must perform or directly supervise 
+commissioning tests.
+3.5.2   
+Commissioning Plan and Schedule
+Develop and implement a 
+commissioning plan
+ and 
+commissioning schedule
+ in 
+accordance with Section 
+01 91 00.15
+ BUILDING COMMISSIONING.
+3.5.3   
+Start-up Pre-functional Checklists
+Carry out a checklist of startup requirements and conduct a series of 
+safety tests which must show proper installation, safe operation, and 
+performance conforming to specification.
+3.5.4   
+Functional Performance Testing
+Prepare test procedures and conduct functional performance testing of the 
+installed system.  Coordinate test requirements with a technical 
+SECTION 22 33 30  Page 58
+CANCELLED
+
+
+representative of the collector manufacturer.
+3.5.5   
+Functional Performance Testing Results
+Coordinate, observe and record the results of the functional performance 
+testing.  Coordinate retesting as necessary until satisfactory performance 
+is verified.  Verify the intended operation of individual components and 
+system interactions under various conditions and modes of operation.  
+Document items of non-compliance in materials, installation or operation.  
+Immediately address observed non-conformance and deficiencies in terms of 
+notification to responsible parties, and provide recommended actions to 
+correct deficiencies.
+3.6   
+OVERALL SYSTEM OPERATIONS
+Demonstrate that the solar energy system will operate properly while 
+unattended for a period of at least 72 hours and that the controller will 
+start pump[s] after being warmed by the sun, and that it will properly 
+shut down during cloudy weather or in the evening over a minimum of three 
+complete cycles.  Contractor is permitted to manipulate the temperature of 
+the storage tank by the introduction of cold water at local groundwater 
+temperature.
+3.7   
+INSTRUCTIONS TO THE GOVERNMENT PERSONNEL
+Upon completion of the work and at a time approved by the Contracting 
+Officer, provide instructions by a qualified instructor to the Government 
+personnel in the proper adjustment, system operation, and maintenance of 
+the specified systems and equipment, including pertinent safety 
+requirements as required.  Government personnel must receive training 
+comparable to the equipment manufacturer's factory training.  Instructor 
+must provide a separate training course for the monitoring system.
+3.7.1   
+Instructor's Qualification Resume
+**************************************************************************
+NOTE:  Use the most appropriate and available option 
+to provide the necessary training.
+**************************************************************************
+Instructor(s) must be employee(s) of[ installer][ manufacturer][ certified 
+solar water heating system training program].  Instructors must be 
+thoroughly familiar with all parts of the installation and trained in 
+operating theory as well as practical operation and maintenance work.  
+Submit the name(s)and qualification resume(s)of instructor(s)to the 
+Contracting Officer for approval.
+3.8   
+FIELD TRAINING
+Provide a field training course for designated operating and maintenance 
+staff members.  Provide training for a minimum period of [_____] hours of 
+normal working time and start after the system is functionally complete 
+but prior to final acceptance tests.  Include discussion of the system 
+design and layout and demonstrations of routine 
+operation and maintenance 
+procedures
+.  This training includes:  normal system operation and control; 
+flow balancing; detection of a nonfunctioning system due to sensor, 
+controller, [and][or] mechanical failure; filling, draining, and venting 
+of the collector array; replacement of sensors, collectors, and collector 
+components; collector cleaning and inspection for leaks; and heat 
+SECTION 22 33 30  Page 59
+CANCELLED
+
+
+exchanger cleaning and expansion tank charging if applicable.  Submit 
+[6][_____] copies of operation and [6][_____] copies of maintenance 
+manuals for the equipment furnished.  One complete set prior to 
+performance testing and the remainder upon acceptance.  Manuals must be 
+approved prior to the field training course.  Detail the step-by-step 
+procedures required for system filling, startup, operation, and shutdown 
+in the operating manuals.  Include the manufacturer's name, model number, 
+service manual, parts list, and brief descriptions of all equipment and 
+their basic operating features.  List routine maintenance procedures, 
+possible breakdowns and repairs, troubleshooting guides, piping and 
+equipment layout, balanced fluid flow rates, and simplified wiring and 
+control diagrams of the system as installed in the maintenance manuals.
+        -- End of Section --
+SECTION 22 33 30  Page 60
+CANCELLED

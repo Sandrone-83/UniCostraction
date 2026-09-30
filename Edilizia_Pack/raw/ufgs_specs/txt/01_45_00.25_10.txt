@@ -1,0 +1,466 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC UFGS-01 45 00.25 10 (August 2026)
+------------------------------------
+Preparing Activity:  ARMY New
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated July 2026
+**************************************************************************
+SECTION 01 45 00.25 10
+CONSTRUCTION MANAGEMENT PLATFORM (CMP)
+08/26
+**************************************************************************
+Adhere to UFS 1-300-02 Specifications (UFGS) Format 
+Standard when editing this guide specification or 
+preparing new project specification sections.  Edit 
+this guide specification for project specific 
+requirements by adding, deleting, or revising text.  
+For bracketed items, choose applicable item(s) or 
+insert appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a Criteria Change Request (CCR).
+**************************************************************************
+PART 1   GENERAL
+1.1   REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+SECTION 01 45 00.25 10  Page 1
+
+references in the Print/Publish process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by the 
+basic designation only.
+U.S. ARMY CORPS OF ENGINEERS (USACE)
+EM 385-1-1 (2024) Safety -- Safety and Occupational 
+Health (SOH) Requirements
+1.2   SUBMITTALS
+Manage all project submittals in CMP and in accordance with Section 01 33 00
+ SUBMITTAL PROCEDURES.
+1.3   CMP SOFTWARE
+CMP is an IL-4 web-based application capable of handling Controlled 
+Unclassified Information (CUI) and other sensitive government data.  Do not 
+enter, upload, transmit, or store information in CMP that exceeds the 
+system authorization or applicable contract security requirements.
+To ensure secure access, obtain and maintain credentials required for CMP 
+access.  Authenticate using EAMS-A and EAMS-A MobileConnect.
+CMP is authorized for deployment on mobile devices and is available on both 
+iOS and Android platforms.  Contractors are authorized to use the CMP 
+mobile application for the entry, management, and maintenance of contract 
+data required by the contract using the approved authentication method.  
+Subject to project-specific authorization and guidance, contractors may 
+download CMP from the Apple App Store or Google Play Store and use it 
+securely in accordance with the approved authentication method and 
+applicable security requirements.  Most applications are available on the 
+CMP mobile application which includes offline capabilities when an internet 
+connection is unavailable and automatic sync once reconnected.
+CMP and the CMP Mobile Application minimum system requirements are 
+available at the Kahua System Requirements website:
+Kahua System Requirements
+https://kahua.mcoutput.com/preview/Content/2-Using-Kahua/System-Settings/system-requireme
+Contractors must begin populating required contract data within 7 calendar 
+days of receipt of the Notice to Proceed or within 7 calendar days of 
+receiving access to the contract in CMP.  CMP user guidance, access 
+instructions, updates, and training information will be provided by the 
+Government.  The common database will be updated each time a user saves an 
+entry or change.
+Notify the Contracting Officer of departing personnel immediately, not to 
+exceed 72 hours after their departure for removal from CMP.
+Log in to CMP at least every 35 days to maintain active user account.
+1.4   CONSTRUCTION CONTRACT SYSTEM OF RECORD
+The construction contract system of record for this contract is the system 
+SECTION 01 45 00.25 10  Page 2
+
+designated by the Contracting Officer and administered by the administering 
+District.  The construction contract system of record is either the 
+Resident Management System (RMS) or the Construction Management Platform 
+(CMP).
+1.4.1   System of Record Transition
+Refer to Section 01 45 00.15 10 RESIDENT MANAGEMENT SYSTEM CONTRACTOR MODE 
+(RMS CM) for the requirements associated with the Construction Contract 
+system of record transition from RMS CM to CMP.
+1.4.2   Training
+Recorded and written CMP training will be available through the 
+Construction Management Administration Application (CMA²) located at:  
+https://cm-usace.erdc.dren.mil/category/c0f6918b-0f46-48a8-a74f-d340e0c05bc6.
+1.5   CONTRACT ADMINISTRATION
+The Government will use CMP to manage and administer this contract.  The 
+Government and the Contractor will have different access authorities (roles 
+or permissions) to the same contract database within CMP.  The joint 
+Government-Contractor use of CMP facilitates electronic exchange of 
+information and overall management of the contract.  Unless otherwise 
+noted, use CMP to provide all data submissions required within this 
+contract's specification, to include template forms and letters when 
+available.
+The Contractor accesses CMP to record, maintain, input, track, and 
+electronically share information with the Government throughout the 
+contract period via the following applications and application suites:
+a. Administration
+b. Document Management
+c. Field Management
+d. Cost Management
+1.5.1   Correspondence And Electronic Communications
+Manage contract correspondence and electronic communications as follows:
+Exchange correspondence and other documents in electronic format via CMP to 
+the maximum extent feasible.  Digitally sign all records requiring 
+signatures in CMP.
+Create, transmit, and track all official contract correspondence within CMP 
+such that the system reflects current correspondence status (including 
+attachments and related records).
+When the Contracting Officer requires paper documents with original 
+signatures, provide the paper originals as directed and upload a PDF copy 
+to CMP.  Where an electronic copy is also used, the paper document governs 
+in the event of discrepancy.
+SECTION 01 45 00.25 10  Page 3
+
+1.5.2   Other Factors
+Other portions of this contract directly apply to the data entry 
+requirements in the construction contract system of record.  Direct 
+particular attention to FAR 52.236-15 SCHEDULES FOR CONSTRUCTION CONTRACTS; 
+FAR 52.232-27 PROMPT PAYMENT FOR CONSTRUCTION CONTRACTS; FAR 52.232-5 
+PAYMENTS UNDER FIXED-PRICED CONSTRUCTION CONTRACTS; Section 01 32 01.00 10 
+PROJECT SCHEDULE; Section 01 33 00 SUBMITTAL PROCEDURES; Section 01 35 26 
+GOVERNMENTAL SAFETY REQUIREMENTS; and Section 01 45 00 QUALITY CONTROL
+1.6   CMP CONTRACT DATABASE
+The Government and the Contractor will use the same contract database 
+within CMP with appropriate permissions.
+The Government will enter the basic contract award data in CMP prior to 
+granting the Contractor access.  Government entries applicable to the 
+contractor in CMP will generally be related to submittal reviews, 
+correspondence status, and Quality Assurance (QA), as well as other 
+miscellaneous administrative information.
+Contractor entries in CMP must establish, maintain, and update data 
+throughout the duration of the contract.  Contractor entries generally 
+include, but are not limited to, prime and subcontractor information, daily 
+project data and associated information, quality control activities, 
+submittals, requests for information (RFI), schedule updates, and payment 
+requests.
+1.6.1   Administration
+The Contractor responsibilities for entries in CMP include but are not 
+limited to the following items:
+1.6.1.1   Contractor Information
+Contractor's name, address, telephone number(s), management staff, and all 
+required data fields in the Company and Contacts, Project, Project 
+Directory, and other applications within CMP.
+1.6.1.2   Subcontractor Information
+Enter all subcontractor administrative data and information into CMP within 
+7 calendar days of receiving access to the contract in CMP or within 7 
+calendar days of signing the subcontract agreement.  This includes name, 
+trade, address, phone number(s), and other required information for all 
+subcontractors.  List subcontractors separately for each individual trade 
+to be performed.
+For each subcontractor, enter name, trade, address, phone number(s), and 
+other required information within seven calendar days of signing the 
+subcontract agreement.  List subcontractors separately for each individual 
+trade to be performed.
+1.6.1.3   Correspondence
+Identify all Contractor correspondence to the Government with a serial 
+number.  Prefix correspondence initiated by the Contractor's office with 
+"S".  Number letters starting from 0001 (e.g., S-0001).  The Government's 
+letters to the Contractor are prefixed with "C".  Request for Proposals are 
+SECTION 01 45 00.25 10  Page 4
+
+generated in CMP and prefixed with "RFP".
+1.6.1.4   Equipment
+Enter and maintain a current list of equipment planned for use or being 
+used on the project site, including the most recent and planned equipment 
+inspection dates in accordance with Section 01 45 00 QUALITY CONTROL.
+1.6.1.5   Data, Reports and Templates
+Track the status of the project using analytics, dashboards, and reports 
+available in CMP.  These data tracking tools include but are not limited to 
+weekly progress analytics, daily reports, Deficiency Tracking Log, 
+Submittal Register Status, and Schedule and Progress Payment reporting.  
+Where data can be entered in CMP, use the applicable output templates 
+available in CMP for activities such as meetings, submittals, safety 
+submissions and reporting, progress payments, preconstruction documents, 
+and similar project deliverables.
+When other specifications in this contract require the use of an ENG Form 
+which is integrated in CMP as a template, enter the data directly into CMP 
+instead of filling out the ENG Form and submitting as a PDF.
+1.6.2   Document Management
+Use the CMP Document Management applications suite to perform contract 
+management functions specifically related to the management and 
+distribution of information including drawing and specifications, RFIs, 
+Submittals, correspondence, and other contract documents.
+1.6.2.1   BIM
+When other sections of this contract require Advanced Modeling, upload all 
+BIM and other model files to the File Manager application in CMP.  Use the 
+BIM application to view, compare, and annotate advanced model files.
+When the contract requires Government collaboration, upload all advanced 
+modeling files to CMP.  Pin all related CMP records to the current BIM 
+files.
+1.6.2.2   Correspondence
+This application is the central log for all contract-related 
+communications.  All official contract correspondence must occur in CMP.
+1.6.2.3   Design Review
+This application streamlines and enhances document reviews, including 
+drawings, models, specifications and reports, and utilizes markups, 
+annotations, and review and approval workflow to track progress and 
+backcheck comments.
+Initiate, manage and conduct all design reviews in CMP.
+1.6.2.4   File Manager
+Store project documentation not contained elsewhere in the system in an 
+organized format.  File manager includes version history, viewing, markup, 
+and external sharing capabilities.
+SECTION 01 45 00.25 10  Page 5
+
+All contract files not housed in a specific application, such as RFIs, 
+Submittals, or Correspondence, must be stored in the File Manager 
+application.
+1.6.2.5   Media Manger
+Upload and store all contract photos and videos in the Media Manager 
+application.
+1.6.2.6   Meetings
+Use this application to set up meetings, create agendas, record meeting 
+minutes, track attendance, and assign and track items to be completed.
+Schedule and document all meetings held with the Government in the CMP 
+Meetings application.  This includes, but is not limited to, meeting 
+agendas, minutes, and action items.
+1.6.2.7   Submittals
+Use the "Submittal Register/Items" and Submittal Packages applications to 
+create, track, manage, and markup submittals.  Manage all project 
+submittals in CMP in accordance with Section 01 33 00 SUBMITTAL PROCEDURES.
+Use the "Submittal Register/Items" application to update, maintain and 
+track the contract submittal items.  The Government will provide the 
+initial project submittal register.  Update and maintain the submittal 
+register  daily in CMP.
+Use the Submittal Packages application to package and transmit submittals 
+to the Government for review and manage the submittal workflow.  Where 
+referenced elsewhere in this contract, the terms submittal transmittals and 
+ENG Form 4025 are synonymous with Submittal Packages in CMP.  Group 
+submittal items from the same specification into submittal packages for 
+Government review.  When samples, spare parts, mock-ups, color boards or 
+hard copies are specifically required, provide documentation in the 
+submittal package indicating that the physical submittal was transmitted.  
+Do not group submittal items with variations in the same submittal package 
+as submittal items without a variation request.
+Contractors may request submittal items be added to CMP throughout the 
+lifecycle of the project.  Approval and disapproval of Contractor requests 
+are at the discretion of the Contracting Officer. 
+1.6.2.8   Requests for Information (RFIs)
+Create, submit, and track all RFIs for Government review and response in 
+the RFI application.  RFIs must include a description with specific 
+contract references, the information requested, a contractor 
+recommendation, potential cost and or schedule impacts, linked schedule 
+activity (if applicable), and any relevant reference files.  Review the 
+status of RFIs in the weekly progress meeting in accordance with Section 
+01 32 01.00 10 PROJECT SCHEDULE.
+1.6.2.9   Risk Register
+Use this application to track potential contract budget or schedule risks 
+SECTION 01 45 00.25 10  Page 6
+
+including summary reports and heat maps.
+1.6.2.10   Scheduling
+**************************************************************************
+NOTE:  If using other than Section 01 32 01.00 10 
+Project Schedule, insert the applicable 
+Specification Section number in the empty bracket.
+**************************************************************************
+Submit all schedules for Government review as required in Section[ 
+01 32 01.00 10][_____] in the CMP Scheduling application and not in the 
+Submittals application.  Schedule submission, review, and workflow will 
+occur in the Scheduling application following all requirements of Section 
+01 33 00 Submittals.  Link schedule activities in the Scheduling 
+application with applicable CMP records including, but not limited to, 
+documents, RFIs, deficiencies, daily report entries, issues, and all 
+submittal register items.
+1.6.2.11   Work Packages
+Use this application to update and maintain workflow for Design Reviews, 
+RFIs, Submittals and other applications based on required personnel, 
+document type and discipline combination.  Designate the appropriate 
+personnel required for each workflow in accordance with personnel 
+requirements established in other sections of the contract.
+1.6.3   Field Management
+Use the CMP Field Management Application suite to manage safety, quality, 
+and other functions as required by the contract.
+1.6.3.1   Forms
+Use the form templates to complete the required contract documentation 
+forms, for submission and review by the government.  Develop additional 
+form templates as appropriate for documenting and tracking contract 
+required information in CMP.
+At a minimum, complete the following form templates in CMP and submit to 
+the Government:
+1.6.3.1.1   Accident Prevention Plan (APP)
+Use the application to identify potential hazards and outline the measures 
+that will be taken to prevent accidents and ensure a safe working 
+environment in accordance with the EM 385-1-1.  Create, submit and maintain 
+the Accident Prevention Plan (APP) in CMP.
+1.6.3.1.2   Contractor Quality Control Plan (QCP)
+**************************************************************************
+NOTE:  Include the bracketed text for all Design 
+Build Contracts
+**************************************************************************
+Use the application to complete and maintain the contract required QCP[ and 
+design quality control plan].  Provide data for all fields, in accordance 
+with the requirements of Section 01 45 00 Quality Control[ and Section 
+SECTION 01 45 00.25 10  Page 7
+
+01 33 16.00 10 Design Data (Design After Award)].  Select the complete form 
+and attach the DFOW list when creating the QCP submittal in CMP.
+1.6.3.1.3   Activity Hazard Analysis (AHA)
+Develop or upload, review, submit, and maintain for Government review and 
+acceptance an AHA for each work activity, task, or definable feature of 
+work (DFOW) in CMP in accordance with Section 01 35 26 GOVERNMENTAL SAFETY 
+REQUIREMENTS and EM 385-1-1.  Link the reviewed and accepted AHAs to all 
+associated Three Phase Inspections in CMP prior to scheduling the 
+Preparatory Phase Meeting.
+1.6.3.2   Closeout
+Use this application to track all tasks and activities required to closeout 
+the project.
+Use the CMP Closeout application to manage project red zone and closeout 
+activities including all required contract deliverables, to include but not 
+limited to, O&M manuals, as-built drawings, spare parts, administrative 
+closeout, transfers of construction, warranty, and remediation of all 
+deficiencies.
+Maintain and link all applicable records to the redline drawings in CMP as 
+required in Section 01 45 00 QUALITY CONTROL and Section 01 78 00 CLOSEOUT 
+SUBMITTALS.
+1.6.3.3   Commissioning
+Use this application to manage the commissioning process including 
+equipment lists, pre-functional checklists, and functional performance 
+tests.
+Manage all commissioning documentation in CMP.  Develop commissioning 
+documentation (checklists, test reports, etc.) directly in CMP or upload as 
+complete PDFs in the Commissioning application for the record and 
+Government review.  Create or provide all required commissioning 
+documentation in accordance with the applicable contract specification 
+sections.
+1.6.3.4   Deficiencies
+Use this application to create, track, and resolve quality, safety and 
+environmental deficiencies, document punch list inspections, and manage the 
+process through correction and verification.  Document all deficiencies as 
+applicable in Sections 01 45 00 QUALITY CONTROL, 01 35 26 GOVERNMENTAL 
+SAFETY REQUIREMENTS, 01 57 19 TEMPORARY ENVIRONMENTAL CONTROLS and the 
+EM 385-1-1.
+Identify, enter, track, and resolve deficiencies in CMP, including those 
+entered by the government, and manage resolution to completion.  Pin the 
+location of all deficiencies and punch list items to drawing within CMP.  
+Link each deficiency to the applicable schedule activity.  Payment will not 
+be made for activities with unresolved deficiencies.  Capture and upload 
+photographs of the deficiencies and obtain the government concurrence or 
+verification of the remediation.  Use the Deficiencies application to 
+document all punch-out inspections and pre-final or final inspections, in 
+accordance with specification Section 01 45 00 QUALITY CONTROL.
+SECTION 01 45 00.25 10  Page 8
+
+1.6.3.5   Definable Features of Work (DFOW)
+Use this application to create, submit, and finalize the contract DFOWs and 
+link the appropriate DFOW to other records within CMP.
+Link all project records, including but not limited to RFIs, Submittals, 
+work performed, progress payment items, schedule activities and daily 
+reports, to the associated DFOW.
+1.6.3.6   Field Observations
+Use this application to capture all actionable quality, safety, and 
+environmental field observations.  Pin the location on the drawings, assign 
+responsibility, and track to resolution all Field Observations, including 
+those documented by the Government.
+1.6.3.7   Mishap Reporting
+Provide all information and documentation pertaining to accident, near miss 
+and injury reporting in the Mishap Reporting application.  Enter all 
+required ENG Form 3394 data in the system for Near Miss, Initial Accident 
+Reports, and Final Accident reports, and attach all reference documentation 
+pertinent to the mishap investigation as required by the Contracting 
+Officer.  Follow all reporting requirements for accidents and incidents as 
+required in EM 385-1-1, Section 01 35 26 GOVERNMENTAL SAFETY REQUIREMENTS, 
+and as required by any other applicable federal, state, or local agencies.
+1.6.3.8   Inspections
+Use this application to catalog all required project inspections and 
+testing.  Assign a responsible individual to track each inspection to 
+completion.
+All project inspections, including but not limited to, safety inspections, 
+material inspections, inspections of completed work, QC and third-party 
+testing must be documented and managed in this application.  Include 
+documentation of any required corrective actions.
+1.6.3.9   Daily Reports
+Use this application to record and document all daily activities on the 
+project, including weather, labor, equipment, and materials.
+Enter Daily Reports in CMP and submit for review in accordance with Section 
+01 45 00 QUALITY CONTROL and Section 01 35 26 GOVERNMENTAL SAFETY 
+REQURIEMENTS.
+Update data and documentation in CMP daily, including but not limited to, 
+QC documentation, RFIs, submittals, and modifications.  CMP includes an 
+analytics functionality to consolidate the necessary data from all 
+applications into the Daily Summary Report.
+1.6.3.10   Three-Phase Quality Control  
+Use this application to manage the Preparatory, Initial, and Follow-Up 
+phases for all Definable Features of Work.
+Use the Three-Phase Quality Control application to track all activities and 
+documentation for each DFOW including preparatory phase meeting, initial 
+SECTION 01 45 00.25 10  Page 9
+
+inspection, and follow-up inspection.  Document the agendas and minutes for 
+the preparatory phase, all inspection documentation, test reports, and 
+location for all initial and follow-up inspections, and link applicable 
+references to the appropriate CMP record.
+1.6.4   Cost Management 
+Use the CMP Cost Management application suite to manage contract financial 
+interaction with the Government.
+1.6.4.1   Contract Transfer - DD Form 1354
+This application provides the ability to leverage facility and contract 
+data to create a DD Form 1354.  Use the DD Form 1354 application to create 
+the draft, interim, and final versions of DD Form 1354 and manage the 
+review workflow
+1.6.4.2   Issues And Potential Changes
+Use this application to log and track to resolution of all issues that have 
+potential impacts to the project.  Records generated in their respective 
+CMP applications (such as RFIs or deficiencies) may be processed into an 
+Issue when escalation is required for resolution.
+Issues that result in a contract change will be processed into a potential 
+change, and documentation tracked within this application.  Provide 
+proposal information in response to requests for proposal within the 
+application in accordance with all applicable contract and FAR clause 
+requirements.  This includes but is not limited to cost and time impact 
+information as data and an attached PDF containing required backup 
+documentation.
+1.6.4.3   Progress Payments
+Use this application to create, submit, review and track progress and final 
+payments.  Update the work completed under the Contract at least monthly, 
+measured as percent or as specific quantities.  Input the draft Schedule of 
+Values (SOV) amounts into the application and submit the pencil copy of the 
+cost-loaded SOV for Government review and concurrence based on actual 
+progress and requested pay amounts per activity.  Utilize the application 
+to track total amounts invoiced to date for each line item, withholdings, 
+stored materials, and executed contract changes.
+Incorporate the Government-approved draft SOV into the formal periodic 
+schedule update submission in accordance with Section 01 32 01.00 10 
+PROJECT SCHEDULE.  Upon completion of the Government periodic schedule 
+review, CMP will integrate approved cost-loaded SOV data into the Progress 
+Payment application.  Use this imported data to create the formal progress 
+payment request and generate the prompt payment certification directly 
+within the application.  Complete the process by submitting the signed 
+prompt payment certification, the formal payment request, and all 
+supporting reference documentation through the application. 
+1.7   IMPLEMENTATION
+Use of the construction contract system of record as described in the 
+preceding paragraphs is mandatory.  Ensure sufficient resources are 
+available to maintain contract data within the system.  The system is an 
+integral part of the Contractor's required contract management and quality 
+SECTION 01 45 00.25 10  Page 10
+
+control.
+1.8   NOTICE OF NONCOMPLIANCE
+Take corrective action within 7 calendar days after receipt of notice of 
+noncompliance by the Contracting Officer.
+PART 2   PRODUCTS
+Not Used
+PART 3   EXECUTION
+Not Used
+-- End of Section --
+SECTION 01 45 00.25 10  Page 11

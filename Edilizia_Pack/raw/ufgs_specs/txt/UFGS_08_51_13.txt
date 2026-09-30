@@ -1,0 +1,2122 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-08 51 13 (May 2019)
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-08 51 13 (May 2011)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 08 - OPENINGS
+SECTION 08 51 13
+ALUMINUM WINDOWS
+05/19
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   SUBMITTALS
+  1.3   QUALITY ASSURANCE
+    1.3.1   Qualification of Manufacturer
+    1.3.2   Shop Drawing Requirements
+    1.3.3   Engineer's Qualifications for Blast Design
+    1.3.4   Sample Requirements
+      1.3.4.1   Finish Sample Requirements
+      1.3.4.2   Window Sample Requirements
+      1.3.4.3   Mock-Ups
+    1.3.5   Design Data Requirements
+    1.3.6   Test Report Requirements
+    1.3.7   Certification
+  1.4   DELIVERY AND STORAGE
+  1.5   PLASTIC IDENTIFICATION
+  1.6   PERFORMANCE REQUIREMENTS
+    1.6.1   Wind Loading Design Pressure
+    1.6.2   Tests
+  1.7   DRAWINGS
+  1.8   WINDOW PERFORMANCE
+    1.8.1   Structural Performance
+    1.8.2   Antiterrorism Performance Requirements
+      1.8.2.1   Computational Design Analysis Method
+      1.8.2.2   Dynamic Design Analysis Method
+      1.8.2.3   Standard Airblast Test Method
+    1.8.3   Air Infiltration
+    1.8.4   Water Penetration
+    1.8.5   Thermal Performance
+      1.8.5.1   Southern Climate
+      1.8.5.2   South-Central Climate
+      1.8.5.3   North-Central Climate
+      1.8.5.4   Northern Climate
+SECTION 08 51 13  Page 1
+CANCELLED
+
+
+      1.8.5.5   Subarctic Climate
+    1.8.6   Life Safety Criteria
+    1.8.7   Sound Attenuation
+    1.8.8   Windborne-Debris-Impact Performance
+  1.9   WARRANTY
+PART 2   PRODUCTS
+  2.1   WINDOWS
+    2.1.1   Awning Windows (AP)
+    2.1.2   Casement Windows (C)
+    2.1.3   Hung Windows (H)
+    2.1.4   Horizontal Sliding Windows (HS)
+    2.1.5   Projected Windows (AP)
+    2.1.6   Top-Hinged  Windows (TH)
+    2.1.7   Vertically Pivoted Windows (VP)
+    2.1.8   Fixed Windows (F)
+    2.1.9   Forced Entry Resistant Windows
+    2.1.10   Glass and Glazing
+    2.1.11   Caulking and Sealing
+    2.1.12   Weatherstripping
+    2.1.13   Sash Poles
+  2.2   FABRICATION
+    2.2.1   Provisions for Glazing
+    2.2.2   Fasteners
+    2.2.3   Adhesives
+    2.2.4   Drips and Weep Holes
+    2.2.5   Combination Windows
+    2.2.6   Mullions and Transom Bars
+    2.2.7   Accessories
+      2.2.7.1   Hardware
+      2.2.7.2   Fasteners
+      2.2.7.3   Window-Cleaner Anchors
+      2.2.7.4   Window Anchors
+    2.2.8   Finishes
+      2.2.8.1   Anodic Coating
+      2.2.8.2   Organic Coating
+    2.2.9   Screens
+      2.2.9.1   Insect Screen
+  2.3   SPECIAL OPERATORS
+    2.3.1   Pole Operators
+    2.3.2   Extension Crank Operators
+    2.3.3   Mechanical Operators
+  2.4   THERMAL-BARRIER WINDOWS
+  2.5   MULLIONS
+  2.6   WINDOW CLEANERS' BOLTS
+PART 3   EXECUTION
+  3.1   SCHEDULE
+  3.2   INSTALLATION
+    3.2.1   Method of Installation
+    3.2.2   Dissimilar Materials
+    3.2.3   Anchors and Fastenings
+    3.2.4   Adjustments After Installation
+  3.3   CLEANING
+-- End of Section Table of Contents --
+SECTION 08 51 13  Page 2
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-08 51 13 (May 2019)
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-08 51 13 (May 2011)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 08 51 13
+ALUMINUM WINDOWS
+05/19
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for R, LC, CW and AW performance class 
+aluminum windows.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Use aluminum windows (fixed or operable) in humid 
+locations or project locations with Environmental 
+Severity Classifications (ESC) of C3 thru C5.  Humid 
+locations are those in ASHRAE climate zones 0A, 1A, 
+2A, 3A, 3C, 4C and 5C (as identified in ASHRAE 
+90.1).  See UFC 1-200-01 for determination of ESC 
+for project locations.  Aluminum will oxidize and 
+the specified finish should be anodic (clear or 
+colored).  Use stainless steel hardware for operable 
+parts.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+**************************************************************************
+1.  Windows requiring UL fire rating must be steel, 
+and may occur in conjunction with aluminum windows 
+which cannot be approved for this use.  When steel 
+windows are used in conjunction with aluminum, 
+specify finish matching aluminum windows.  Steel 
+SECTION 08 51 13  Page 3
+CANCELLED
+
+
+windows should be specified in Section 
+08 51 23
+ 
+STEEL WINDOWS.
+2.  Aluminum windows are not acceptable for use as 
+security windows which should be steel, specified in 
+Section 
+08 51 23
+ STEEL WINDOWS.  Security steel 
+windows are designed and constructed to give 
+protection against unauthorized entrance and removal 
+of materials from warehouses and other storage type 
+areas; they are not designed for detention use.  
+Guard windows for detention use are not included in 
+this guide; where such windows are desired, consult 
+Steel Window Institute Recommended Specifications 
+and manufacturers' data, and specify in Section 
+08 51 23
+ STEEL WINDOWS.
+3.  Specify the following items of related work 
+under other sections of the specifications:
+a.  Glass and glazing and the furnishing of glazing 
+clips and gaskets.
+b.  Caulking and sealants.
+c.  Structural building supports at window mullions.
+d.  Wood subframes for windows in frame walls.
+e.  Drilling and tapping for attachment of window 
+shades, drapery rods, and venetian blinds.  The 
+drilling and tapping of window frames to receive 
+brackets for shades, venetian blinds, and curtain 
+rods has been omitted from this specification.  It 
+is contemplated that this work will be done after 
+erection of windows by the trade for the item to be 
+installed.  On projects where factory drilling for 
+these items is required, revise this specification 
+accordingly.
+f.  Brackets and supports for window shades, drapery 
+rods, and venetian blinds.
+g.  Electrical requirements for motor driven 
+operators.
+**************************************************************************
+**************************************************************************
+NOTE:  On the drawings, show:
+1.  Sizes and types of windows; metal and wood 
+subframes, casings, or stools; and hardware.
+2.  Sizes, location, and swing of ventilators; 
+direction of slide for sliding ventilators; location 
+and details of fixed sash.
+3.  Typical window sections and details.  Show glass 
+thickness.  Show special glazing.
+SECTION 08 51 13  Page 4
+CANCELLED
+
+
+4.  Method of anchoring windows to adjoining 
+construction; size and types of clips, anchors, 
+screws, or other fasteners.
+5.  Details of nonstructural mullions and mullion 
+covers; details of anchoring and reinforcing 
+nonstructural mullions at windows to receive window 
+cleaner anchors.
+6.  Number and locations of window cleaner anchors.
+7.  Locations of windows requiring special 
+operators.  Show method of operation and concealment 
+of operators, cables and rods.  Show wiring diagram 
+for motor driven operators.
+8.  Locations of windows designated as forced entry 
+resistant.
+**************************************************************************
+PART 1   GENERAL
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+ALUMINUM ASSOCIATION (AA)
+AA DAF45
+(2003; Reaffirmed 2009) Designation System 
+for Aluminum Finishes
+AMERICAN ARCHITECTURAL MANUFACTURERS ASSOCIATION (AAMA)
+AAMA 611
+(2014) Voluntary Specification for 
+Anodized Architectural Aluminum
+SECTION 08 51 13  Page 5
+CANCELLED
+
+
+AAMA 701/702
+(2011) Voluntary Specification for Pile 
+Weatherstripping and Replaceable 
+Fenestration Weatherseals
+AAMA 901
+(2016) Voluntary Specification for Rotary 
+& Linear Operators in Window Applications
+AAMA 902
+(2016) Voluntary Specification for Sash 
+Balances
+AAMA 907
+(2015) Voluntary Specification for 
+Corrosion Resistant Coatings on Carbon 
+Steel Components Used in Windows, Doors 
+and Skylights
+AAMA 1503
+(2009) Voluntary Test Method for Thermal 
+Transmittance and Condensation Resistance 
+of Windows, Doors and Glazed Wall Sections
+AAMA 2603
+(2020) Voluntary Specification, 
+Performance Requirements and Test 
+Procedures for Pigmented Organic Coatings 
+on Aluminum Extrusions and Panels
+AAMA 2604
+(2017a) Voluntary Specification, 
+Performance Requirements and Test 
+Procedures for High Performance Organic 
+Coatings on Aluminum Extrusions and Panels
+AAMA 2605
+(2022) Voluntary Specification, 
+Performance Requirements and Test 
+Procedures for Superior Performing Organic 
+Coatings on Aluminum Extrusions and Panels
+AAMA WSG.1
+(1995) Window Selection Guide
+AAMA/WDMA/CSA 101/I.S.2/A440
+(2017) North American Fenestration 
+Standard/Specification for Windows, Doors, 
+and Skylights
+AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING 
+ENGINEERS (ASHRAE)
+ASHRAE 169
+(2021) Climate Data for Building Design 
+Standards
+ASTM INTERNATIONAL (ASTM)
+ASTM A276/A276M
+(2025) Standard Specification for 
+Stainless Steel Bars and Shapes
+ASTM D3656/D3656M
+(2013) Standard Specification for Insect 
+Screening and Louver Cloth Woven from 
+Vinyl-Coated Glass Yarns
+ASTM E90
+(2023) Standard Test Method for Laboratory 
+Measurement of Airborne Sound Transmission 
+Loss of Building Partitions and Elements
+SECTION 08 51 13  Page 6
+CANCELLED
+
+
+ASTM E413
+(2022) Classification for Rating Sound 
+Insulation
+ASTM E1300
+(2024) Standard Practice for Determining 
+Load Resistance of Glass in Buildings
+ASTM E1332
+(2016) Standard Classification for Rating 
+Outdoor-Indoor Sound Attenuation
+ASTM E1886
+(2019) Standard Test Method for 
+Performance of Exterior Windows, Curtain 
+Walls, Doors, and Impact Protective 
+Systems Impacted by Missile(s) and Exposed 
+to Cyclic Pressure Differentials
+ASTM E1996
+(2017) Standard Specification for 
+Performance of Exterior Windows, Curtain 
+Walls, Doors, and Impact Protective 
+Systems Impacted by Windborne Debris in 
+Hurricanes
+ASTM F588
+(2017) Standard Test Methods for Measuring 
+the Forced Entry Resistance of Window 
+Assemblies, Excluding Glazing Impact
+ASTM F1642/F1642M
+(2025) Standard Test Method for Glazing 
+and Glazing Systems Subject to Airblast 
+Loadings
+ASTM F2248
+(2012) Standard Practice for Specifying an 
+Equivalent 3-Second Duration Design 
+Loading for Blast Resistant Glazing 
+Fabricated with Laminated Glass
+ASTM F2912
+(2017) Standard Specification for Glazing 
+and Glazing Systems Subject to Airblast 
+Loadings
+INTERNATIONAL WINDOW CLEANING ASSOCIATION (IWCA)
+IWCA I-14.1
+(2001) Window Cleaning Safety Standard
+NATIONAL FENESTRATION RATING COUNCIL (NFRC)
+NFRC 100
+(2020) Procedure for Determining 
+Fenestration Product U-Factors
+NFRC 200
+(2020) Procedure for Determining 
+Fenestration Product Solar Heat Gain 
+Coefficient and Visible Transmittance at 
+Normal Incidence
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+NFPA 101
+(2024) Life Safety Code
+PASSIVE HOUSE INSTITUTE - US (PHIUS)
+PHIUS Certified
+Certified Data Program for Window 
+SECTION 08 51 13  Page 7
+CANCELLED
+
+
+Performance
+PASSIVE HOUSE INSTITUTE INTERNATIONAL (PHI)
+Passivhaus Certified
+(2012) Certification of Passive House 
+Suitable Components
+Passivhaus Criteria
+(2012) Certification Criteria for 
+Certified Passive House Glazings and 
+Transparent Components
+SCREEN MANUFACTURERS ASSOCIATION (SMA)
+SMA 1004
+(1987; R 1998) Aluminum Tubular Frame 
+Screens for Windows
+SMA 1201
+(R 2013) Specifications for Insect Screens 
+for Windows, Sliding Doors and Swinging 
+Doors
+U.S. DEPARTMENT OF DEFENSE (DOD)
+UFC 4-010-01
+(2018; with Change 3, 2024) DoD Minimum 
+Antiterrorism Standards for Buildings
+U.S. DEPARTMENT OF ENERGY (DOE)
+Energy Star
+Energy Star Energy Efficiency Labeling 
+System (FEMP)
+1.2   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a "G" to an item 
+if the submittal is sufficiently important or 
+complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+SECTION 08 51 13  Page 8
+CANCELLED
+
+
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-02 Shop Drawings
+Windows
+; 
+G
+, [_____]
+Fabrication Drawings
+SD-03 Product Data
+Windows
+; 
+G
+, [_____]
+[
+Recycled Content of Aluminum Windows
+; 
+S
+]
+Hardware
+; 
+G
+, [_____]
+Fasteners
+; 
+G
+, [_____]
+Window Performance
+; 
+G
+, [_____]
+Thermal-Barrier Windows
+; 
+G
+, [_____]
+Mullions
+; 
+G
+, [_____]
+Window Cleaners' Bolts
+; 
+G
+, [_____]
+Screens
+; 
+G
+, [_____]
+Weatherstripping
+; 
+G
+, [_____]
+Accessories
+; 
+G
+, [_____]
+Adhesives
+Thermal Performance
+; 
+G
+, [_____]
+Energy Star
+ Label For Residential Aluminum Window Products
+; 
+S
+SD-04 Samples
+Finish Sample
+Window Sample
+[
+Window 
+Mock-Ups
+; 
+G
+, [_____]
+]
+SD-05 Design Data
+SECTION 08 51 13  Page 9
+CANCELLED
+
+
+Structural Calculations for Deflection
+; 
+G
+, [_____]
+Design Analysis
+; 
+G
+, [_____]
+SD-06 Test Reports
+Minimum Condensation Resistance Factor
+[
+Resistance to Forced Entry
+][
+Standard Airblast Test
+; 
+G
+, [_____]
+][
+Windborne-Debris-Impact Performance
+]
+SD-07 Certificates
+**************************************************************************
+NOTE:  Provide engineer's qualifications when 
+required to show conformance to UFC 4-010-01, DoD 
+Minimum Antiterrorism Requirements for Buildings.
+**************************************************************************
+[
+Engineer's Qualifications
+]
+SD-10 Operation and Maintenance Data
+Windows
+, Data Package 1; 
+G
+, [_____]
+  Submit in accordance with Section 
+01 78 23
+ OPERATION AND 
+MAINTENANCE DATA.
+Plastic Identification
+1.3   
+QUALITY ASSURANCE
+1.3.1   
+Qualification of Manufacturer
+Window manufacturer must specialize in designing and manufacturing the 
+type of aluminum windows specified in this section, and have a minimum of 
+[_____] years of documented successful experience.  Manufacturer must have 
+the facilities capable of meeting contract requirements, single-source 
+responsibility and warranty.
+1.3.2   
+Shop Drawing Requirements
+Take field measurements prior to preparation of drawings and 
+fabrications.  Provide drawings that indicate elevations of windows, 
+full-size sections, thickness and gages of metal, fastenings, proposed 
+method of anchoring, size and spacing of anchors, details of construction, 
+method of glazing, details of operating hardware, [mullion details,] 
+[method and materials for weatherstripping,] [method of attaching 
+screens,] [material and method of attaching subframes,] [stools,] 
+[casings,] [sills,] [trim,] [window cleaner anchors,] installation 
+details, and other related items.
+[
+1.3.3   
+Engineer's Qualifications
+ for Blast Design
+**************************************************************************
+SECTION 08 51 13  Page 10
+CANCELLED
+
+
+NOTE:  Provide engineer's qualifications when 
+required to show conformance to UFC 4-010-01, DoD 
+Minimum Antiterrorism Requirements for Buildings.
+**************************************************************************
+All blast design calculations must be performed by or under the direct 
+supervision of a registered engineer with a minimum of 5 years experience 
+performing blast design.  The engineer performing the blast design must be 
+able to demonstrate experience on similar size projects using similar 
+design methods to meet the requirements outlined in this specification.
+]
+1.3.4   
+Sample Requirements
+1.3.4.1   
+Finish Sample 
+Requirements
+ 
+Submit color chart of standard factory color coatings when factory-finish 
+color coating is to be provided.
+1.3.4.2   
+Window Sample
+ Requirements
+**************************************************************************
+NOTE:  Choose one of the following options.  Include 
+the first choice for projects requiring a large 
+number of windows.  Include the second choice for 
+projects requiring a limited number of windows.
+**************************************************************************
+[
+Submit one full-size window of each type proposed for use, complete with 
+AAMA Label, glazing, hardware, anchors, and other accessories.  Where 
+screens or weatherstripping is required, fit sample windows with such 
+items that are to be used.  After approval, install each sample in work, 
+clearly identified, and record its location.
+][
+Submit one full-size corner of each window type proposed for use.  Where 
+screens or weatherstripping is required, fit sample with such items that 
+are to be used.
+]
+[
+1.3.4.3   
+Mock-Ups
+**************************************************************************
+NOTE:  Requesting mock-up samples of aluminum 
+windows is not required for most projects.  Size of 
+project and scope of quality control should be 
+carefully evaluated before requiring Contractor to 
+provide a costly mock-up.  Delete paragraph if 
+mock-ups are not required.
+**************************************************************************
+Before fabrication, full-size mock-up of [each type of aluminum window] 
+[one window unit] [_____] complete with glass and AAMA certification label 
+for structural purposes and NFRC Temporary and Permanent Label for 
+certification of thermal performance rating will be required for review of 
+window construction and quality of hardware operation.
+]
+1.3.5   
+Design Data Requirements
+Submit calculations to substantiate compliance with deflection 
+requirements[ and Antiterrorism Performance Requirements].  A registered 
+Professional Engineer must provide calculations.
+SECTION 08 51 13  Page 11
+CANCELLED
+
+
+Submit 
+design analysis
+ with calculations showing that the design of each 
+different size and type of aluminum window unit and its anchorage to the 
+structure[.] [meets the requirements of paragraph ANTITERRORISM 
+PERFORMANCE REQUIREMENTS.]  Calculations verifying the structural 
+performance of each window proposed for use, under the given loads, must 
+be prepared and signed by a registered professional engineer.  Reflect the 
+window components and anchorage devices to the structure, as determined by 
+the design analysis, in the shop drawings.
+1.3.6   
+Test Report Requirements
+**************************************************************************
+NOTE:  Include bracketed wording when windows are 
+required to resist blast loads all required by UFC 
+4-010-01, DoD Minimum Antiterrorism Requirements for 
+Buildings.
+**************************************************************************
+Submit test reports for each type of window attesting that identical 
+windows have been tested and meet the requirements specified herein for 
+conformance to 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ including test size, [and] 
+minimum condensation resistance factor
+ (CRF)[, and 
+resistance to forced 
+entry
+][, and, for Antiterrorism windows, in lieu of a Design Analysis, 
+results of a Standard Airblast Test].[  For Antiterrorism windows, in lieu 
+of a Design Analysis, results of airblast testing, whether by arena test 
+or shock tube, must be included in a test report, providing information in 
+accordance with 
+ASTM F1642/F1642M
+, as prepared by the independent testing 
+agency performing the test.  The test results must demonstrate the ability 
+of each window proposed for use to withstand the airblast loading 
+parameters and achieve the hazard level rating specified in paragraph 
+STANDARD AIRBLAST TEST METHOD.]
+1.3.7   
+Certification
+**************************************************************************
+NOTE:  Energy Star Certification is required for 
+residential windows.  FEMP Designation, Passivhaus, 
+and PHIUS Certifications are methods to ensure 
+compliance with thermal performance.
+**************************************************************************
+Ensure that construction is performed with products that meet or exceed [
+Energy Star
+ criteria,] [FEMP Designated criteria,] [and 
+Passivhaus Criteria
+] [
+Passivhaus Certified
+] [and be current in their certification].[  
+Provide 
+PHIUS Certified
+ window performance.]
+Each prime window unit must bear the AAMA Label warranting that the 
+product complies with 
+AAMA/WDMA/CSA 101/I.S.2/A440
+.  Certified test 
+reports attesting that the prime window units meet the requirements of 
+AAMA/WDMA/CSA 101/I.S.2/A440
+, including test size, will be acceptable in 
+lieu of product labeling.
+1.4   
+DELIVERY AND STORAGE
+Deliver windows to project site in an undamaged condition.  Use care in 
+handling and hoisting windows during transportation and at the jobsite. 
+Store windows and components out of contact with the ground, under a 
+weathertight covering, so as to prevent bending, warping, or otherwise 
+SECTION 08 51 13  Page 12
+CANCELLED
+
+
+damaging the windows.  Repair damaged windows to an "as new" condition as 
+approved.  If windows can not be repaired, provide a new unit.
+1.5   
+PLASTIC IDENTIFICATION
+**************************************************************************
+NOTE:  The marking system indicated below is 
+intended to provide assistance in identification of 
+products for making subsequent decisions as to 
+handling, recycling, or disposal.
+**************************************************************************
+Label plastic products provided to indicate their polymeric composition 
+according to the following list.  Where products are not labeled, provide 
+product data indicating polymeric information in Operation and Maintenance 
+Manual.
+a.  Type 1:  Polyethylene Terephthalate (PET, PETE).
+b.  Type 2:  High Density Polyethylene (HDPE).
+c.  Type 3:  Vinyl (Polyvinyl Chloride or PVC).
+d.  Type 4:  Low Density Polyethylene (LDPE).
+e.  Type 5:  Polypropylene (PP).
+f.  Type 6:  Polystyrene (PS).
+g.  Type 7:  Other. Use of this code indicates that the package in 
+question is made with a resin other than the six listed above, or is 
+made of more than one resin listed above, and used in a multi-layer 
+combination.
+1.6   
+PERFORMANCE REQUIREMENTS
+1.6.1   
+Wind Loading Design Pressure
+Design window components, including mullions, hardware, and anchors, to 
+withstand a wind-loading design pressure of at least [_____]
+ pascal
+ pounds 
+per square foot (psf)
+.
+[
+1.6.2   
+Tests
+Test windows proposed for use in accordance with 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ for the particular type and quality window 
+specified.
+Perform tests by a nationally recognized independent testing laboratory 
+equipped and capable of performing the required tests.  Submit the results 
+of the tests as certified laboratory reports required herein.
+Minimum design load for a uniform-load structural test must be
+ 2400 pascal
+ 
+50 psf
+.
+[
+Test projected windows in accordance with the applicable portions of the 
+AAMA WSG.1
+ for air infiltration, water resistance, uniform-load 
+deflection, and uniform-load structural test.
+SECTION 08 51 13  Page 13
+CANCELLED
+
+
+][
+Test double-hung windows in accordance with the applicable portions of the 
+AAMA WSG.1
+ for air infiltration, water resistance, uniform-load 
+deflection, and uniform-load structural test.
+]
+]
+1.7   
+DRAWINGS
+Submit the 
+Fabrication Drawings
+ for aluminum window units showing complete 
+window assembly including hardware, weatherstripping, and subframe 
+assembly details.
+1.8   
+WINDOW PERFORMANCE
+**************************************************************************
+NOTE:  Structural performance, air infiltration and 
+water penetration are standard performance 
+requirements for all aluminum window types.
+Design must meet the requirements of UFC 1-200-02, 
+"High Performance and Sustainable Building 
+Requirements" which invokes the requirements within 
+UFC 3-101-01, "Architecture".  UFC 1-00-02 and UFC 
+3-101-01 make references throughout to various 
+ASHRAE documents governing energy efficiency and 
+requirements for the components of building envelope 
+design including fenestrations and glazing.
+ANTITERRORISM PERFORMANCE REQUIREMENTS and SOUND 
+ATTENUATION sections below are optional to designer, 
+and must be omitted or revised as needed to meet 
+project requirements.
+Applicability of UFC 4-010-01 DoD Minimum 
+Antiterrorism Standards for Buildings
+The antiterrorism (AT) standards contained in UFC 
+4-010-01 DO NOT establish the Design Basis Threat 
+(DBT) or the Level of Protection (LOP) for DoD 
+buildings.  Installation Antiterrorism Plans may 
+define a DBT for the installation.  Use UFC 4-020-01 
+(Security Engineering: Facilities Planning Manual) 
+to establish and/or validate the DBT and LOP for 
+individual projects. The process outlined in UFC 
+4-020-01 will determine if the minimum AT standards 
+are adequate or if additional protective measures 
+are required.  Where a specific DBT and LOP are 
+identified, additional guidance is included in 
+Appendix B (Best Practices) of UFC 04-010-01.  For 
+buildings that are outside an installation 
+perimeter, use UFC 4-020-01 to establish the DBT and 
+LOP.  The DBT and LOP will result in a 
+representative standoff distance for the appropriate 
+construction - window systems (glazing, frame, 
+connections) in this instance.
+A structural analysis will need to be performed to 
+determine if the most stringent loading on window 
+assembly is from antiterrorism blast loads or 
+windborne debris in high wind regions.
+**************************************************************************
+SECTION 08 51 13  Page 14
+CANCELLED
+
+
+Aluminum windows must meet the following performance requirements.  
+Perform testing requirements by an independent testing laboratory or 
+agency.
+1.8.1   
+Structural Performance
+Structural test pressures on window units must be for positive load 
+(inward) and negative load (outward).  After testing, there will be no 
+glass breakage, permanent damage to fasteners, hardware parts, support 
+arms or actuating mechanisms or any other damage which could cause window 
+to be inoperable.  There must be no permanent deformation of any main 
+frame, sash or ventilator member in excess of the requirements established 
+by 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ for the window types and classification 
+specified in this section.
+[
+1.8.2   
+Antiterrorism Performance Requirements
+Windows must meet the antiterrorism performance criteria as specified in 
+the paragraphs below in accordance with 
+UFC 4-010-01
+.  Conformance to the 
+performance requirements must be validated by one of the following methods.
+1.8.2.1   
+Computational Design Analysis Method
+Design window assembly to the criteria listed herein.  Include 
+computational design analysis calculations verifying the structural 
+performance of each window assembly proposed for use, under the given 
+static equivalent loads.
+Design window frames, mullions, sashes, and glazing to the criteria listed 
+herein.  Include computational design analysis calculations verifying the 
+structural performance of each window system proposed for use, under the 
+given static equivalent loads.
+  
+**************************************************************************
+NOTE:  The blanks in the following paragraph should 
+be the value of the equivalent 3-second duration 
+design loading obtained from Figure 1 of ASTM F2248 
+for the explosive weight and standoff distance 
+combination (based on the established DBT/LOP) that 
+is being designed for in this project.  This section 
+must be completed by an engineer experienced in 
+blast-resistant design. 
+**************************************************************************
+Glazing resistance must be greater than equivalent 3-second duration 
+loading of [_____]
+ Pascal
+ pounds
+ per square foot (psf) for type [_____] 
+window[ and [_____]
+ Pascal
+ psf
+ for the remaining window types].  The 
+glazing frame bite for the window frames must be in accordance with 
+ASTM F2248
+. 
+Design Aluminum/Steel window framing members to restrict deflections of 
+the edges of glazing they support to L/60 under two times (2X) the glazing 
+resistance per the requirements of 
+ASTM F2248
+ and 
+ASTM E1300
+.
+**************************************************************************
+NOTE:  Connection Design:  For mullion and framing 
+members designed using dynamic analysis or shown to 
+work through airblast testing, all connections 
+SECTION 08 51 13  Page 15
+CANCELLED
+
+
+between mullions and/or framing members and all 
+connections of storefront systems to the supporting 
+structure must be designed for the full dynamic 
+capacity of the attached member or the maximum 
+calculated dynamic reaction with a load factor equal 
+to 1.0.  Use ultimate capacity of fasteners as 
+recommended by the fastener manufacturer with a 
+capacity reduction factor of 0.75.  Use Load and 
+Resistance Factor Design (LRFD) with appropriate 
+reduction (phi) factors per material specific code 
+for design of connections components into supporting 
+structure.  All dynamic and static material strength 
+increase factors for the connection components must 
+be equal to 1.0.  All connection designs must be 
+performed checking all conventional failure 
+mechanisms.  See Engineering Technical Report (PDC 
+TR-10-02) titled Blast Resistant Design Methodology 
+for Window Systems Designed Statically and 
+Dynamically at USACE Protective Design Center 
+(Website link: 
+https://pdc.usace.army.mil/library/tr/10-02
+) for 
+additional information.  Calculations/Design 
+Analysis for the connection design as stated above 
+must be completed by an engineer experienced in 
+blast-resistant design.
+**************************************************************************
+**************************************************************************
+NOTE:  Use the first bracketed requirement below if 
+the maximum air blast pressure is greater than 
+one-half the magnitude of the load resistance of the 
+blast resistant glazing.
+Use the second bracketed requirement below if the 
+maximum air blast pressure is less than one-half the 
+magnitude of the load resistance of the blast 
+resistant glazing.
+**************************************************************************
+[
+Anchor window frames to the supporting structure with anchors designed to 
+resist [two times (2X)][one time (1X)] the glazing resistance in 
+accordance with 
+ASTM F2248
+ and 
+ASTM E1300
+.
+]
+1.8.2.2   
+Dynamic Design Analysis Method
+**************************************************************************
+NOTE:  The blanks in the following paragraph should 
+be the value of the peak positive pressure and 
+impulse for the explosive weight and standoff 
+distance combination (based on the established 
+DBT/LOP) that is being designed for in this 
+project.  Choose the first bracketed items, low 
+hazard rating/very low level of protection for 
+inhabited building occupancy as defined in UFC 
+4-010-01 (Table B-1).  Choose the second bracketed 
+items, very low hazard rating/low level of 
+protection for primary gathering/billeting building 
+occupancy as defined in UFC 4-010-01 (Table B-1).  
+Dynamic analysis is preferred because it typically 
+SECTION 08 51 13  Page 16
+CANCELLED
+
+
+yields a more appropriate and economical / efficient 
+design.  The values for input into the blanks in the 
+following paragraph related to ‘ductility ratio’ and 
+‘maximum support rotation’ (for the appropriate 
+level of protection – very low, low) for steel and 
+aluminum framing/mullions  can be found in 
+Engineering Technical Report (PDC TR-10-02) titled 
+Blast Resistant Design Methodology for Window 
+Systems Designed Statically and Dynamically at USACE 
+Protective Design Center (Website link:  
+https://pdc.usace.army.mil/library/tr/10-02
+).  This 
+section must be completed by an engineer experienced 
+in blast-resistant design.
+**************************************************************************
+Design window assembly using a dynamic analysis to prove the system will 
+provide performance equivalent to or better than a [low];[very low]; 
+[_____] hazard rating in accordance with 
+ASTM F2912
+ for the peak positive 
+pressure of
+ [_____] kilopascals (kPa)
+ [_____]pounds per square inch (psi)
+ 
+and peak positive phase impulse of
+ [_____] kilopascal-millisecond 
+(kPa-msec)
+ [_____] pounds per square inch - millisecond (psi-msec)
+.  Use a 
+triangular blast load using the applicable pressure and impulse indicated 
+above.  The allowable response limits of [aluminum] [steel] frame elements 
+are as follows:  Maximum ductility ratio of [_____] and maximum support 
+rotation of [_____] degrees.
+1.8.2.3   
+Standard Airblast Test
+ Method
+**************************************************************************
+NOTE:  The blanks in the following paragraph should 
+be the value of the peak positive pressure and 
+impulse for the explosive weight and standoff 
+distance combination (based on the established 
+DBT/LOP) that is being designed for in this 
+project.  Choose the first bracketed items, low 
+hazard rating/very low level of protection for 
+inhabited building occupancy as defined in UFC 
+4-010-01.  Choose the second bracketed items, very 
+low hazard rating/low level of protection for 
+primary gathering building occupancy as defined in 
+UFC 4-010-01.  This section must be completed by an 
+engineer experienced in blast-resistant design.
+**************************************************************************
+As an alternative to the 'Computational Design Analysis Method' and 
+'Dynamic Design Analysis Method' indicated above, window [_____] assembly 
+may be tested for evaluation of hazards generated from airblast loading in 
+accordance with 
+ASTM F1642/F1642M
+ by an independent testing agency 
+regularly engaged in blast testing.  For proposed window systems that are 
+of the same type as the tested system but of different size, the test 
+results may be accepted provided the proposed window size is within the 
+range from 25 percent smaller to 10 percent larger in area and aspect 
+ratio of the original qualified tested glazing systems in accordance with 
+ASTM F2912
+.  Proposed window system/assembly of a size outside this range 
+will require testing to evaluate their hazard rating or are certified by 
+the 'Dynamic Design Analysis Method' indicated above.  Testing may be by 
+shock tube or arena test.  Perform the test on the entire proposed window 
+system/assembly, including, the glazing, its framing/support system, 
+operating devices, and all anchorage devices.  Window support system 
+SECTION 08 51 13  Page 17
+CANCELLED
+
+
+replicate anchorage of the window support system with the method of 
+installation to be used for the project.  The minimum airblast loading 
+parameters for the test will be as follows: peak positive pressure of
+ 
+[_____] kilopascals (kPa)
+ [_____] pounds per square inch (psi)
+ and peak 
+positive phase impulse of
+ [_____] kilopascal-millisecond (kPa-msec)
+ 
+[_____] pounds per square inch - millisecond (psi-msec)
+.  The hazard 
+rating for the proposed window systems, as determined by the rating 
+criteria of 
+ASTM F2912
+, to provide performance equivalent to or better 
+than a [low];[very low]; [_____] hazard rating (i.e. the "No Break", "No 
+Hazard", "Minimal Hazard", "Very Low Hazard" and “Low Hazard” ratings are 
+acceptable.  "High Hazard" ratings are unacceptable.  Results of window 
+systems previously tested by test protocols other than 
+ASTM F1642/F1642M
+ 
+may be accepted provided the required loading, hazard level rating, and 
+size limitations stated herein are met.
+]
+1.8.3   
+Air Infiltration
+Air infiltration must not exceed the amount established by 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ for each window type.
+1.8.4   
+Water Penetration
+Water penetration must not exceed the amount established by 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ for each window type.
+1.8.5   
+Thermal Performance
+**************************************************************************
+NOTE:  Window properties are critical to energy 
+performance and comfort.  Specify low U value (rate 
+of heat transfer) to reduce winter heat loss and 
+summer heat gain.
+Energy Star labeling is applicable to residential 
+units only.
+For nonresidential applications, refer to UFC 
+1-200-02, High Performance and Sustainable Building 
+Requirements, for minimum requirements for energy 
+efficiency and meeting minimum building envelope 
+requirements of UFC 3-101-01 including fenestrations 
+and glazing.
+Coordinate with Section 
+08 81 00
+ GLAZING.  Designer 
+must verify availability and adequate competition 
+for products meeting bracketed energy performance 
+requirements before specifying and edit as needed.
+**************************************************************************
+Windows (including frames and glass) will be independently tested and 
+certified with a Solar Heat Gain Coefficient (SHGC) determined according 
+to 
+NFRC 200
+ procedures and a whole window U-factor determined in 
+accordance with 
+NFRC 100
+ within the ranges as indicated below according to 
+the 
+ASHRAE 169
+ Climate Zone of the project location.[  Windows used solely 
+within the interior of a conditioned envelope are exempted from meeting 
+U-Factor and SHGC requirements, unless otherwise noted.]  Provide visual 
+Transmittance (VT) of 0.5 or greater.  Submit documentation supporting 
+compliance with 
+Energy Star
+, FEMP designated, and Passive House 
+qualifications as applicable.  Provide proof of 
+Energy Star
+ label for 
+SECTION 08 51 13  Page 18
+CANCELLED
+
+
+residential aluminum window products
+.
+[
+1.8.5.1   
+Southern Climate
+Windows installed in Climate Zone [1] [2] will have a U-Factor of
+ [1.3] 
+[1.25] [_____] W/m
+2
+.
+degrees C
+ [0.40][_____] BTU/h
+.
+ft
+2
+.
+degrees F
+ or less and 
+a SHGC of [0.25] [_____] or less.
+][
+1.8.5.2   
+South-Central Climate
+Windows installed within Climate Zone 3 will have a U-Factor of
+ [0.85] 
+[1.25] [_____] W/m
+2
+.
+degrees C
+ [0.30][_____] BTU/h
+.
+ft
+2
+.
+degrees F
+ or less and 
+a SHGC of [0.25] [_____] or less.
+][
+1.8.5.3   
+North-Central Climate
+Windows installed within Climate Zone 4 will have a U-Factor of
+ [0.85] 
+[1.25] [_____] W/m
+2
+.
+degrees C
+ [0.30] [_____] BTU/h
+.
+ft
+2
+.
+degrees F
+ or less 
+and a SHGC of [0.36] [_____] or less.
+][
+1.8.5.4   
+Northern Climate
+Windows installed within Climate Zone [5] [6] [7] will have a U-Factor of
+ 
+[0.65] [1.25][_____] W/m
+2
+.
+degrees C
+ [0.27] [_____] BTU/h
+.
+ft
+2
+.
+degrees F
+ or 
+less and a SHGC of [0.36] [0.41] [_____] or less.
+][
+1.8.5.5   
+Subarctic Climate
+Windows installed within Climate Zone 8 will have a U-Factor of
+ [0.45] 
+[1.25] [_____] W/m
+2
+.
+degrees C
+ [0.08] [0.22] [_____] BTU/h
+.
+ft
+2
+.
+degrees F
+ or 
+less.  There is no SHGC limit for this climate zone.
+]
+[
+1.8.6   
+Life Safety Criteria
+**************************************************************************
+NOTE:  Designer must indicate on the drawings which 
+windows serve as rescue and/or secondary means of 
+escape.
+**************************************************************************
+Provide windows that conform to 
+NFPA 101
+ Life Safety Code when rescue 
+and/or second means of escape are indicated.
+][
+1.8.7   
+Sound Attenuation
+**************************************************************************
+NOTE:  Aluminum environmental control windows have a 
+"built-in" sound attenuation.  This paragraph will 
+be used only when sound attenuation is a design 
+parameter.  Use outside-indoor transmission class 
+(OITC) when exterior source noise is a concern.
+**************************************************************************
+When tested in accordance with 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ or the 
+following below, provide a minimum Sound Transmission Class (STC) of 35 in 
+accordance with 
+ASTM E90
+ and as determined by 
+ASTM E413
+ or Outside-Indoor 
+Transmission Class (OITC) of 25 in accordance with 
+ASTM E1332
+ and as 
+determined by 
+ASTM E413
+ with the window glazed with
+ 13 mm
+ 1/2 inch
+ air 
+SECTION 08 51 13  Page 19
+CANCELLED
+
+
+space between two pieces of
+ 6 mm
+ 1/4 inch
+.
+][
+1.8.8   
+Windborne-Debris-Impact Performance
+**************************************************************************
+NOTE:  Retain WINDBORNE-DEBRIS-IMPACT RESISTANCE 
+Paragraph if required by Project.  The UFC 1-200-01 
+DoD Building Code cited IBC defines windborne debris 
+regions.  Enhanced protection applies to essential 
+facilities.  Verify site specific requirements with 
+the AHJ.  Delete items not required.
+**************************************************************************
+Exterior window system including glazing must comply with indicated basis 
+or enhanced protection testing requirements in 
+ASTM E1996
+ for [Wind Zone 
+1] [Wind Zone 2] [Wind Zone 3] [Wind Zone 4] when tested according to 
+ASTM E1886
+.  Test specimens must be no smaller in width and length than 
+glazing indicated for use on Project and must be installed in same manner 
+as glazing indicated for use on Project.
+a.  Refer to drawings for classification of window requiring basic or 
+enhanced protection.
+[
+b.  Large-Missile Test:  For glazing located within
+ 9.1 m
+ 30 feet
+ of grade.
+][
+c.  Small-Missile Test:  For glazing located more than
+ 9.1 m
+ 30 feet
+ above 
+grade.
+]
+]
+1.9   
+WARRANTY
+Provide Manufacturer's standard performance guarantees or warranties that 
+extend beyond a 1 year period.
+PART 2   PRODUCTS
+2.1   
+WINDOWS
+**************************************************************************
+NOTE:  AAMA/WDMA/CSA 101/I.S.2/A440 includes a 
+designation system with a four part code, which 
+includes Product Type, Performance Class, 
+Performance Grade (design pressure) and maximum size 
+tested to achieve desired rating (example Double 
+Hung or H, CW30 760 by 1520 (30 by 60)).  Product 
+Type is an abbreviation for window type (AP for 
+awning, hopper, projected window, C for casement, H 
+for hung, etc.).  Performance classes represent the 
+level of performance (R, LC, CW and AW).  
+Performance Grade represents the design pressure to 
+which the window is constructed.
+AAMA/WDMA/CSA 101/I.S.2/A440 establishes minimum 
+Performance Grade for each Performance Class:  15 
+for R (corresponding to a design pressure of
+ 720 Pa
+ 
+15 psf
+); 25 for LC (corresponding to a design 
+pressure of
+ 1200 Pa
+ 25 psf
+); 30 for CW 
+(corresponding to a design pressure of
+ 1440 Pa
+ 30 psf
+); and 40 for AW (corresponding to a design pressure 
+of
+ 1920 Pa
+ 40 psf
+).
+SECTION 08 51 13  Page 20
+CANCELLED
+
+
+AAMA/WDMA/CSA 101/I.S.2/A440 also includes criteria 
+for specifying windows required to meet higher 
+design pressures if minimum pressure is inadequate. 
+These windows are designated as Optional Performance 
+Grade and should be specified in increments of
+ 240 Pa
+ 5 psf
+ above the minimum Performance Grade.
+**************************************************************************
+**************************************************************************
+NOTE:  Consult AAMA 1503 "Voluntary Test Method for 
+Transmittance and Condensation Resistance of 
+Windows, Doors and Glazed Wall Sections" and select 
+the minimum Condensation Resistance Factor (CRF) 
+required for the particular project conditions.
+**************************************************************************
+**************************************************************************
+NOTE:  Consult AAMA/WDMA/CSA 101/I.S.2/A440 to 
+calculate design pressure(s) applicable to the 
+project.  Adjust "design factors" because naval 
+facilities are typically less than 100 miles from 
+hurricane ocean line.
+**************************************************************************
+**************************************************************************
+NOTE:  Use materials with recycled content where 
+appropriate for use.  Verify suitability, 
+availability within the region, cost effectiveness 
+and adequate competition before specifying product 
+recycled content requirements.
+**************************************************************************
+Provide prime windows that comply with 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ and 
+the requirements specified herein.  In addition to compliance with 
+AAMA/WDMA/CSA 101/I.S.2/A440
+, window framing members for each individual 
+light of glass must not deflect to the extent that deflection 
+perpendicular to the glass light exceeds L/175 of the glass edge length 
+when subjected to uniform loads at specified design pressures.  Provide 
+Structural calculations for deflection
+ to substantiate compliance with 
+deflection requirements.  Provide windows of types, performance classes, 
+performance grades, combinations, and sizes indicated or specified.[  
+Provide aluminum window frames with a minimum recycled content of 20 
+percent.  Provide data identifying percentage of 
+recycled content of 
+aluminum windows
+.]  Design windows to accommodate hardware, glass, 
+weatherstripping, screens, and accessories to be furnished.  Each window 
+must be a complete factory assembled unit with or without glass 
+installed.  Dimensions shown are minimum.  Provide windows with insulating 
+glass and thermal break necessary to achieve a minimum Condensation 
+Resistance Factor (CRF) of [_____] when tested in accordance with 
+AAMA 1503
+.  
+Provide manufacturer's standard hardware fabricated from aluminum, 
+stainless steel, carbon steel complying with 
+AAMA 907
+, or other 
+corrosion-resistant material compatible with adjacent materials; designed 
+to smoothly operate, tightly close, and securely lock windows, and sized 
+to accommodate sash weight and dimensions.
+**************************************************************************
+NOTE:  Performance Grades represent design pressure 
+values for which products have been tested. Specify 
+SECTION 08 51 13  Page 21
+CANCELLED
+
+
+an Optional Performance Grade where a higher than 
+minimum Performance Grade is desired due to severe 
+weather conditions and wind loadings.  Optional 
+Performance Grade windows must be tested in 
+compliance with AAMA/WDMA/CSA 101/I.S.2/A440.  
+Testing must substantiate requirements for uniform 
+loading (structural), water resistance, and air 
+infiltration.
+**************************************************************************
+2.1.1   
+Awning Windows (AP)
+Type AP-[R15] [LC25] [CW30] [AW40] [ [R] [LC] [CW] [AW]- [_____] (Optional 
+Performance Grade)].  Conceal operating mechanism within the frame members 
+or enclose within a metal casing not less than
+ 1.59 mm
+ 0.0625 inch
+ thick 
+sheet aluminum.
+2.1.2   
+Casement Windows (C)
+Type C-[R15] [LC25] [CW30] [AW40] [ [R] [LC] [CW] [AW]- [_____] (Optional 
+Performance Grade)].  Ventilators must be[ rotary crank][ handle] 
+operated.  Provide ventilators over
+ 1650 millimeters
+ 65 inches
+ high with 
+two separate locking devices or a two-point locking device operated by 
+rods from a single lever handle.  Conceal rods where possible.[  Provide 
+casement windows in combination with [fixed][projected] windows specified 
+below.]
+2.1.3   
+Hung Windows (H)
+**************************************************************************
+NOTE:  Tilt-in windows most likely will not meet 
+ATFP pressure requirements and should not be 
+specified if force protection is required.
+**************************************************************************
+[Double][_____] Hung, Type H-[R15] [LC25] [CW30 ][AW40] [ [R] [LC] [CW] 
+[AW]- [_____] (Optional Performance Grade)].  Test and rate sash balance 
+to conform with 
+AAMA 902
+.
+Design windows, mullions, hardware, and anchors to withstand the wind 
+loading specified.
+2.1.4   
+Horizontal Sliding Windows (HS)
+Type HS-[R15] [LC25] [CW30] [AW40] [ [R] [LC] [CW] [AW]- [_____] (Optional 
+Performance Grade)].
+2.1.5   
+Projected Windows (AP)
+Type AP-[R15] [LC25] [CW30] [AW40] [ [R] [LC] [CW] [AW]- [_____] (Optional 
+Performance Grade)].  Provide projected windows with concealed four bar 
+friction hinges only.  Gear-type rotary hardware to comply with 
+AAMA 901
+.  
+Provide operators that function without requiring the removal of interior 
+screens.
+2.1.6   
+Top-Hinged  Windows (TH)
+Type TH-[CW30] [AW40] [ [CW] [AW]- [_____] (Optional Performance Grade)].  
+Top-hinged windows must be [inswinging][outswinging].
+SECTION 08 51 13  Page 22
+CANCELLED
+
+
+2.1.7   
+Vertically Pivoted Windows (VP)
+**************************************************************************
+NOTE:  Pivoting windows most likely will not meet 
+ATFP pressure requirements and should not be 
+specified if force protection is required.
+**************************************************************************
+Type VP-[R15] [LC25] [CW30] [AW40] [ [R] [LC] [CW] [AW]-[_____] (Optional 
+Performance Grade)].[  Provide window with remotely operated venetian 
+blind mounted between an access sash and the main sash.]
+2.1.8   
+Fixed Windows (F)
+Type F-[R15] [LC25] [CW30] [AW40] [ [R] [LC] [CW] [AW]- [_____] (Optional 
+Performance Grade)].
+2.1.9   
+Forced Entry Resistant Windows
+**************************************************************************
+NOTE:  Conventional aluminum windows offer nominal 
+resistance to forced entry by unskilled or 
+opportunistic intruders.  While there is no way to 
+make a window absolutely "burglar proof," windows 
+complying with AAMA 1302 can provide reasonable 
+assurance that entry, or attempted entry, will leave 
+ample evidence of "forced entry."  It establishes 
+only a pass/fail condition when specific 
+concentrated loads are applied to sash or ventilator 
+in attempt to open or remove sash or ventilator from 
+window frame and specifies no measured time delay.  
+It provides moderate degree of security against 
+unskilled or opportunistic intruder at little or no 
+additional cost.  When forced entry resistant 
+windows are specified, coordinate glazing 
+requirements and specify impact resistant glass and 
+glazing materials in Section 
+08 81 00
+ GLAZING.
+For projects requiring security windows, specify 
+steel security windows in Section 
+08 51 23
+ STEEL 
+WINDOWS.  Protection in high crime areas against 
+skilled professional intruders requires a more 
+sophisticated approach to physical security. Consult 
+Design Manual 13.1 "Physical Security" for 
+recommendations.
+**************************************************************************
+In addition to meeting the requirements of 
+AAMA/WDMA/CSA 101/I.S.2/A440
+, 
+windows designated for resistance to forced entry must conform to the 
+requirements of 
+ASTM F588
+.
+2.1.10   
+Glass and Glazing
+Materials are specified in Section 
+08 81 00
+ GLAZING.
+2.1.11   
+Caulking and Sealing
+Are specified in Section 
+07 92 00
+ JOINT SEALANTS.
+SECTION 08 51 13  Page 23
+CANCELLED
+
+
+2.1.12   
+Weatherstripping
+AAMA/WDMA/CSA 101/I.S.2/A440
+.  Provide for all ventilating (operable) sash 
+for all windows.  Provide woven wool pile weatherstripping
+ 5.3 millimeter
+ 
+0.210 inch
+ thick, conforming to 
+AAMA 701/702
+, or polypropylene 
+multifilament fiber weatherstripping installed in an integral 
+weatherstripping groove in the sash or frame, and flexible 
+polyvinylchloride weatherstripping installed in the sill member.
+2.1.13   
+Sash Poles
+Seamless aluminum tube,
+ 1.59 mm
+ 0.0625 inch
+ minimum wall thickness,
+ 25 mm
+ 
+one inch
+ diameter, [_____]
+ m
+ feet
+ long, with cast aluminum hook and 
+protective cover or tip on the lower end.  Finish must match windows.
+2.2   
+FABRICATION
+Fabrication of window units must comply with 
+AAMA/WDMA/CSA 101/I.S.2/A440
+.
+2.2.1   
+Provisions for Glazing
+**************************************************************************
+NOTE:  Specify glass thickness and vinyl gaskets in 
+Section 
+08 81 00
+ GLAZING.  Inside glazing is 
+preferred, especially for windows above first floor 
+and other locations where access is difficult. 
+Windows designed for inside glazing may not be 
+available in double-hung type; check manufacturers' 
+literature.  Where project requires insulating 
+glass, show sash members, glazing beads, and 
+hardware of sufficient size and weight to receive 
+and support glass of thickness specified.  Allow
+ 3 mm
+ 1/8 inch
+ minimum between each side of insulating 
+glass and metal frame and between edges of glass and 
+frame for glazing compound and expansion.  Drawings 
+must clearly indicate method for securing insulating 
+glass in place.
+**************************************************************************
+**************************************************************************
+NOTE:  Include the bracket option for minimum 
+glazing frame bite requirements when personnel 
+density is greater than one person per
+ 40 square 
+meters
+ 430 square feet
+ and minimum ATFP standoff 
+distances are met.  This does not include guard type 
+facilities, single and duplex detached family 
+housing.  These requirements are specified in 
+Department of Defense  Antiterrorism Standards for 
+Buildings.
+**************************************************************************
+Design windows and rabbets suitable for glass thickness shown [or 
+specified].[  For minimum antiterrorism windows, attach glazing to its 
+supporting frame using structural silicone sealant or adhesive glazing 
+tape in accordance with 
+ASTM F2248
+.]  Design sash for[ inside][ outside][ 
+single][ double] glazing and for securing glass with[ metal beads,][ 
+glazing clips,][ glazing channels,] or glazing compound.
+SECTION 08 51 13  Page 24
+CANCELLED
+
+
+2.2.2   
+Fasteners
+Use window manufacturer's standard for windows, trim, and accessories.  
+Self-tapping sheet-metal screws are not acceptable for material more than
+ 
+2 mm
+ 1/16 inch
+ thick.
+2.2.3   
+Adhesives
+Provide joint sealants as specified in Section 
+07 92 00
+ JOINT SEALANTS.  
+For interior application of joint sealants, comply with applicable 
+regulations regarding reduced VOC's, and as specified in Section 
+07 92 00
+ 
+JOINT SEALANTS.
+2.2.4   
+Drips and Weep Holes
+Provide continuous drips over heads of top ventilators.  Where fixed 
+windows adjoin ventilators, drips must be continuous across tops of fixed 
+windows.  Provide drips and weep holes as required to return water to the 
+outside.
+2.2.5   
+Combination Windows
+Windows used in combination must be factory assembled of the same class 
+and grade.  Where factory assembly of individual windows into larger units 
+is limited by transportation considerations, prefabricate, match mark, 
+transport, and field assemble.
+2.2.6   
+Mullions and Transom Bars
+**************************************************************************
+NOTE:  Specify the design pressure used to specify 
+the Performance Grade or the Optional Performance 
+Grade for the adjoining windows.
+**************************************************************************
+**************************************************************************
+NOTE:  Include the bracketed paragraph included 
+under the "WINDOWS" heading for static loads when 
+minimum measures of antiterrorism/force protection 
+(ATFP) are required and delete the first bracketed 
+sentence in the following paragraph.
+**************************************************************************
+[Provide mullions between multiple window units to resist two times (2X) 
+glazing resistance in accordance with 
+ASTM F2248
+ and 
+ASTM E1300
+.  ]Provide 
+mullions with a thermal break.  Secure mullions and transom bars to 
+adjoining construction and window units in such a manner as to permit 
+expansion and contraction and to form a weathertight joint.[  Where window 
+cleaner anchors are required, reinforce mullions and anchor to adjoining 
+construction so as to provide safe and adequate support.]  Provide mullion 
+covers on the interior and exterior to completely close exposed joints and 
+recesses between window units and to present a neat appearance.[  Provide 
+special covers over structural support at mullions as indicated.]
+2.2.7   
+Accessories
+Provide windows complete with necessary hardware, fastenings, clips, fins, 
+anchors, glazing beads, and other appurtenances necessary for complete 
+installation and proper operation.[  Furnish extruded aluminum subframe 
+SECTION 08 51 13  Page 25
+CANCELLED
+
+
+receptors[ and subsill] with each window unit.]
+2.2.7.1   
+Hardware
+**************************************************************************
+NOTE:  Use stainless steel hardware in humid 
+locations or project locations with Environmental 
+Severity Classifications (ESC) of C3 thru C5.  Humid 
+locations are those in ASHRAE climate zones 0A, 1A, 
+2A, 3A, 3C, 4C and 5C (as identified in ASHRAE 
+90.1).  See UFC 1-200-01 for determination of ESC 
+for project locations.
+**************************************************************************
+AAMA/WDMA/CSA 101/I.S.2/A440
+.  The item, type, and functional 
+characteristics must be the manufacturer's standard for the particular 
+window type.  Provide [stainless steel ]hardware of suitable design and of 
+sufficient strength to perform the function for which it is used.  Equip 
+all operating ventilators with a lock or latching device which can be 
+secured from the inside.
+2.2.7.2   
+Fasteners
+Provide concealed anchors of the type recommended by the window 
+manufacturer for the specific type of construction.  Anchors and fasteners 
+must be compatible with the window and the adjoining construction. Provide 
+a minimum of three anchors for each jamb located approximately
+ 150 mm
+ 6 
+inches
+ from each end and at midpoint.
+2.2.7.3   
+Window-Cleaner Anchors
+**************************************************************************
+NOTE:  Window-cleaner anchors should be shown and 
+specified for windows having sills more than
+ 1800 mm
+ 
+6 feet
+ above grade, adjoining balconies, or 
+adjoining roofs, unless window cleaning methods at 
+activity make use of anchors unnecessary.  
+Coordinate window cleaning procedures and 
+requirements with using activity.  When requested by 
+using activity, removable or tilting-type sash may 
+be provided instead of anchors.  Removable or 
+tilting-type sash may be specified as Contractor 
+option when these units are desired by using 
+activity and are economically competitive with 
+double-hung sash equipped with anchors.  When 
+appropriate, add the following at end of paragraph 
+WINDOW-CLEANER ANCHORS:
+"Removable or tilting-type sash may be provided in 
+lieu of double-hung windows equipped with window 
+cleaner anchors.  Design sash so that both sides of 
+glass can be readily cleaned from interior without 
+dismantling any part of window or screens.  Provide 
+removable and tilting-type sash with tamper-proof 
+hardware to prevent sash removal by unauthorized 
+personnel."
+**************************************************************************
+Provide double head anchors for windows[ indicated][ specified].  Anchors 
+SECTION 08 51 13  Page 26
+CANCELLED
+
+
+must be stainless steel of size and design required for the window type 
+and application, conforming to 
+ASTM A276/A276M
+.  Provide two anchors for 
+each single window[ and each adjacent fixed glass window unit].  Fasten 
+anchors
+ 1120 mm
+ 44 inches
+ above the window sill utilizing appropriate 
+methods for the window type and application in accordance with industry 
+safety standards.
+2.2.7.4   
+Window Anchors
+Anchoring devices for installing windows must be made of aluminum, 
+cadmium-plated steel, stainless steel, or zinc-plated steel conforming to 
+AAMA/WDMA/CSA 101/I.S.2/A440
+.
+2.2.8   
+Finishes
+**************************************************************************
+NOTE:  Specify anodic and organic coatings as 
+Contractor's option when these finishes are 
+determined to be economically competitive in the 
+project area, unless the project requires use of one 
+or the other to match an existing condition.
+**************************************************************************
+Comply with NAAMM's "Metal Finishes Manual" for applying and designating 
+finishes.  Exposed aluminum surfaces must be factory finished with an[ 
+anodic coating][ or][ organic coating].[  Color must be [_____][ as 
+indicated].] All windows[ for each building] must have the same finish.
+2.2.8.1   
+Anodic Coating
+**************************************************************************
+NOTE:  Specify Architectural Class I in locations 
+with an Environmental Severity Classification (ESC) 
+of C3 through C5, locations where microenvironments 
+may create a locally corrosive environment 
+regardless of ESC (e.g., prevailing winds, 
+ventilation, waterfront environments, and 
+penetrations of the building envelope), high 
+humidity interior areas (bathrooms, locker rooms, 
+pools, trainers), areas open to the exterior 
+(mechanical rooms and hangars), and spaces that are 
+not conditioned by design or may not be conditioned 
+during prolonged periods due to deployment or 
+non-occupancy.  See UFC 1-200-01 for determination 
+of ESC for project locations.  Specify Architectural 
+Class II for all atmospheric conditions not 
+requiring Class I.
+**************************************************************************
+Clean exposed aluminum surfaces and provide an anodized finish conforming 
+to 
+AA DAF45
+ and 
+AAMA 611
+.  Finish must be:
+[
+a.  Architectural Class II (
+ 0.01 to 0.0175 mm
+ 0.4 mil to 0.7 mil
+), 
+designation AA-M10-C22-[A31, clear (natural)] [A32, integral color] 
+[A34, electrolytically deposited color] anodized.
+][
+b.  Architectural Class I (
+ 0.0175 mm
+ 0.7 mil
+ or thicker), designation 
+AA-M10-C22-[A41, clear (natural)] [A42, integral color] [A44, 
+electrolytically deposited color] anodized.
+SECTION 08 51 13  Page 27
+CANCELLED
+
+
+]
+2.2.8.2   
+Organic Coating
+**************************************************************************
+NOTE:  When anodic and organic coatings are 
+determined to be economically competitive in the 
+project area, specify baked enamel finish (AAMA 
+2603) as an option to Architectural Class II, anodic 
+coating or high-performance finish (AAMA 2604 or 
+AAMA 2605) as an option to Architectural Class I, 
+anodic coating.
+**************************************************************************
+Clean and prime exposed aluminum surfaces.  Provide a[ baked enamel finish 
+in accordance with 
+AAMA 2603
+ with total dry film thickness not less than
+ 
+0.02 mm
+ 0.8 mil
+][ high-performance finish in accordance with [
+AAMA 2604
+][
+AAMA 2605
+] with total dry film thickness of not less than
+ 0.03 mm
+ 1.2 mils
+].
+2.2.9   
+Screens
+AAMA/WDMA/CSA 101/I.S.2/A440
+.  Provide one insect screen for each operable 
+exterior sash or ventilator.  Design screens to be rewirable, easily 
+removable from inside the building, and to permit easy access to operating 
+hardware.  Manufacturers standard aluminum frame complying with 
+SMA 1004
+ 
+or 
+SMA 1201
+.  Fabricate frames with mitered or coped joints or corner 
+extrusion, concealed fasteners and removable PVC spline/anchors concealing 
+edge of frame.
+2.2.9.1   
+Insect Screen
+Insect screen mesh to be[ Glass-fiber mesh, 18x16 of PVC-coated 
+glass-fiber threads; woven and fused to form a fabric mesh in accordance 
+with 
+ASTM D3656/D3656M
+][ Aluminum wire fabric, 18x16 mesh of
+ 0.2794 mm
+ 
+0.011 inch
+ diameter coated aluminum wire].
+2.3   
+SPECIAL OPERATORS
+**************************************************************************
+NOTE:  Remote and group operated windows will 
+require special operators.  Identify these windows 
+on the drawings and show method of operation.
+**************************************************************************
+For windows having operating hardware or locking or latching devices 
+located more than
+ 1800 mm
+ 6 feet
+ above the floor, provide suitably 
+designed operators or locking or latching devices necessary for convenient 
+and proper window operation.
+2.3.1   
+Pole Operators
+Poles must be of proper length to permit window operation from
+ 1500 mm
+ 5 
+feet
+ above the floor.  Provide one pole operator for each room, and one 
+pole hanger for each pole.  Locate hangers where directed.
+2.3.2   
+Extension Crank Operators
+Provide removable handles for crank-operated rotary-type operators located 
+more than
+ 1800 mm
+ 6 feet
+ above the floor.  Provide one removable handle 
+SECTION 08 51 13  Page 28
+CANCELLED
+
+
+for each room.
+2.3.3   
+Mechanical Operators
+**************************************************************************
+NOTE:  When motor driven operators are specified, 
+specify electrical characteristics in Section 
+26 20 00
+, INTERIOR DISTRIBUTION SYSTEM.
+**************************************************************************
+Provide [manual] [electric motor driven] operators for group operation of 
+continuous rows of windows [located [_____]
+ mm
+ feet
+ above the floor].  
+Operators must be capable of opening and closing windows without 
+appreciable deflection, vibration or rattle.  Provide means of adjustment 
+for transmission lines.  Provide operators to control window units in 
+groups [as recommended by the window manufacturer] [or] [as indicated].
+2.4   
+THERMAL-BARRIER WINDOWS
+Provide thermal-barrier windows, complete with accessories and fittings, 
+where indicated.
+Specify material and construction except as follows:
+a.  Aluminum alloy must be 6063-T6.
+b.  Frame construction, including operable sash, must be factory-assembled 
+and factory-sealed inner and outer aluminum completely separated from 
+metal-to-metal contact.  Join assembly by a continuous, concealed, low 
+conductance divider housed in an interlocking extrusion of the inner 
+frame.  Metal fasteners, straps, or anchors must not bridge the 
+connection between the inner and outer frame.
+c.  Operating hardware for each sash must consist of spring-loaded nylon 
+cushion blocks and pin locks designed to lock in predetermined 
+locations.
+d.  Sash must be completely separated from metal-to-metal contact by means 
+of woven-pile weatherstripping, plastic, or elastomeric separation 
+members.
+e.  Operating and storm sash must be factory-glazed with the type of glass 
+indicated and of the quality specified in Section 
+08 81 00
+ GLAZING.
+2.5   
+MULLIONS
+**************************************************************************
+NOTE:  Drawings must indicate the profile and 
+dimensions of mullions, anchorage and reinforcing 
+members as required for wind loading, and the type, 
+profile, and fastening system for the mullion cover 
+(screw-fastened or snap-on).
+**************************************************************************
+Provide mullions between multiple-window units where indicated.
+Provide profiles for mullions and mullion covers, reinforced as required 
+for the specified wind loading, and securely anchored to the adjoining 
+construction.  Mullion extrusion will include serrations or pockets to 
+SECTION 08 51 13  Page 29
+CANCELLED
+
+
+receive weatherstripping, sealant, or tape at the point of contact with 
+each window flange.
+Mullion assembly must include aluminum window clamps or brackets screwed 
+or bolted to the mullion and the mullion cover.
+Mullion cover must be screw-fastened to the mullion unless otherwise 
+indicated.
+Mullion reinforcing members must be fabricated of the materials specified 
+in 
+AAMA/WDMA/CSA 101/I.S.2/A440
+ and meet the specified design loading.
+2.6   
+WINDOW CLEANERS' BOLTS
+Provide window cleaners' bolts for all windows
+ 2100 millimeter
+ 7 feet
+ or 
+higher above finished grade, except for windows that can be removed and 
+cleaned from the ground or from a lower roof level without the use of an 
+extension ladder.  Provide two bolts for each single window unit and each 
+fixed glass unit.  Locate bolts
+ 1120 millimeter
+ 44 inches
+ above the window 
+sill.
+Window cleaners' bolts must be double-head type, AISI Series 300 
+corrosion-resistant steel, size and design complying with 
+IWCA I-14.1
+. 
+Contact side of the bolts must be ground to fit flat against window 
+jambs.  Bolts must be factory- or field-attached before windows are set.  
+Reinforce backs of frames to receive bolts with
+ 6 by 150 millimeter
+ 1/4 by 
+6-inch
+ corrosion-resistant steel or aluminum plates bolted or welded to 
+the frames at the factory.  Special wall anchors must be provided on 
+frames at the point of bolt attachment.
+PART 3   EXECUTION
+3.1   
+SCHEDULE
+Some metric measurements in this section are based on mathematical 
+conversion of inch-pound measurements, and not on metric measurement 
+commonly agreed to by the manufacturers or other parties.  The inch-pound 
+and metric measurements are as follows:
+ PRODUCTS
+INCH-POUND
+METRIC
+ Metal Casing
+0.0625 inch
+1.59 mm
+ Aluminum Tube (Diameter)
+0.0625 inch
+1.59 mm
+1 inch
+25 mm
+3.2   
+INSTALLATION
+3.2.1   
+Method of Installation
+Install in accordance with the window manufacturer's printed instructions 
+and details.  Build in windows as the work progresses or install without 
+forcing into prepared window openings.  Set windows at proper elevation, 
+location, and reveal; plumb, square, level, and in alignment; and brace, 
+strut, and stay properly to prevent distortion and misalignment.  Protect 
+ventilators and operating parts against accumulation of dirt and building 
+SECTION 08 51 13  Page 30
+CANCELLED
+
+
+materials by keeping ventilators tightly closed and locked to frame.  Bed 
+screws or bolts in sill members, joints at mullions, contacts of windows 
+with sills, built-in fins, and subframes in mastic sealant of a type 
+recommended by the window manufacturer.  Install and caulk windows in a 
+manner that will prevent entrance of water and wind.  Fasten insect 
+screens securely in place.
+Any materials that show visual evidence of biological growth due to the 
+presence of moisture must not be installed on the building project.
+3.2.2   
+Dissimilar Materials
+Where aluminum surfaces are in contact with, or fastened to masonry, 
+concrete, wood, or dissimilar metals, except stainless steel or zinc, 
+protect the aluminum surface from dissimilar materials as recommended in 
+the Appendix to 
+AAMA/WDMA/CSA 101/I.S.2/A440
+.  Do not coat surfaces in 
+contact with sealants after installation with any type of protective 
+material.  Do not apply coatings or lacquers to surfaces to which caulking 
+and glazing components must adhere.
+3.2.3   
+Anchors and Fastenings
+Make provision for securing units to each other, to masonry, and to other 
+adjoining construction.  Windows installed in masonry walls must have head 
+and jamb members designed to recess into masonry wall not less than
+ 11 mm
+ 
+7/16 inch
+.
+3.2.4   
+Adjustments After Installation
+After installation of windows and completion of glazing and field 
+painting, adjust all ventilators and hardware to operate smoothly and to 
+provide weathertight sealing when ventilators are closed and locked.  
+Lubricate hardware and operating parts as necessary.[  Adjust double hung 
+windows to operate with maximum applied force of 25 pounds in either 
+direction, not including breakaway friction force.]  Verify that products 
+are properly installed, connected, and adjusted.
+3.3   
+CLEANING
+Clean interior and exterior surfaces of window units of mortar, plaster, 
+paint spattering spots, and other foreign matter to present a neat 
+appearance, to prevent fouling of weathering surfaces and 
+weather-stripping, and to prevent interference with the operation of 
+hardware.  Replace all stained, discolored, or abraded windows that cannot 
+be restored to their original condition with new windows.
+        -- End of Section --
+SECTION 08 51 13  Page 31
+CANCELLED

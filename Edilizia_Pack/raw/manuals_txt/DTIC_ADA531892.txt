@@ -1,0 +1,899 @@
+Cost  Savings  Using  Stirrup  Reinforcement  Instead  of  Laced  Wall 
+Reinforcement  Per  UFC  3-340-02  (TM  5-1300)  December,  2008. 
+
+
+Darell  Lawver,  P.E. 
+Weidlinger  Associates,  Inc. 
+
+399  W.  El  Camino  Real,  Suite  200 
+Mountain  View,  Calif.  94040 
+650-230-0320 
+650-230-0209  (fax) 
+lawver&wai.  com 
+
+Jim  Weeks,  P.E., 
+Weidlinger  Associates,  Inc. 
+
+6301  Indian  School  Rd.  NE,  Suite  501 
+Albuquerque,  NM  87110 
+505-349-2832 
+212-497-2220  (fax) 
+weeks(a),wai.  com 
+
+
+Stephen  Forman. 
+
+B  &  W Pantex,  LLC 
+PO  Box  30020 
+Amarillo,  TX  79120 
+806-477-6153 
+806-477 -55 58(fax) 
+SFormanfypantex.  com 
+
+Robert  Lackey,  P.  E. 
+
+B  &  W Pantex,  LLC 
+PO  Box  30020 
+Amarillo,  TX  79120 
+806-477-7087 
+806-477-5558  (fax) 
+rlackev(a)pantex.  com 
+
+Larry  Faria,  P.  E. 
+CH2MHILL 
+
+12377  Merit  Drive,  Suite  1000 
+Dallas,  TX  75251 
+972.663.2312 
+972.385.0846  (fax) 
+Larry. Faria(d)/ch2m.  com 
+
+
+Standard  Form  298  (Rev.  8-98) 
+
+Prescribed  by  ANSI  Std  Z39-18 
+
+
+Weidlinger  Associates^  Inc.  began  the  blast  resistant  design  of  an  explosive  processing  facility  in 
+2005.  The  facility  was  designed  using  the  1990  version  of  TM5-1300  “Structures  to  Resist  the 
+Effects  of  Accidental  Explosions”.  Due  to  the  close  proximity  of  the  charge  locations  to  the 
+processing  bay  walls,  the  wall  designs  incorporated  lacing  reinforcement.  Upon  release  of  UFC 
+3-340-02  “Structures  to  Resist  the  Effects  of  Accidental  Explosions”  in  December  of  2008,  the 
+design  of  the  facility  was  revised  to  decrease  the  cost  of  construction.  The  revision  to  the  design 
+used  the  new  Section  4-22  “Design  of  Non-Laced  Reinforced  Slabs”  Type  C  stirrups  to  replace 
+the  lacing  in  the  walls.  Once  the  redesign  was  complete,  CH2M  HILL  developed  a  cost  study 
+report  that  documented  the  cost  savings  realized  by  the  redesign  effort.  This  paper  will  discuss 
+the  wall  design  and  redesign  process  and  provide  cost  data  for  comparison  of  the  savings 
+provided  by  switching  from  lacing  to  Type  C  stirrups. 
+
+Introduction 
+
+The  design  of  explosive  processing  facilities  for  Department  of  Defense  (DoD),  Department  of 
+Energy  (DOE),  other  government  organizations  and  government  contractors  has  been  primarily 
+governed  by  the  November  1990  version  of  TM5-1300  [1]  for  almost  two  decades  since  its 
+publication.  The  document  contains  prescriptive  and  recommended  design  procedures  for  the 
+design  of  structures  to  resist  the  effects  of  accidental  explosions.  The  procedures  were 
+developed  from  explosive  testing  -  extensive  in  some  areas,  but  very  limited  in  others  -  and  good 
+engineering  practice.  Since  the  publication  of  TM5-1300,  the  state  of  the  art  methods  in 
+computational  fluid  dynamics  and  structural  analysis  have  improved  tremendously  in  their  ability 
+to  more  accurately  predict  the  response  of  structural  components  to  blast  loading.  This  has  been 
+verified  and  validated  through  many  government-sponsored  test  programs  [2-1 1].  These  test 
+programs  have  also  improved  the  accuracy  of  empirical  and  simplified  engineering  tools  to 
+predict  the  response  of  structural  components  to  blast  loading  [12-14].  Due  to  the  prescriptive 
+nature  of  TM5-1300,  this  body  of  knowledge  is  generally  not  available  for  use  in  design.  Blast 
+testing  of  systems  is  often  required  to  demonstrate  their  ability  to  meet  the  intent  of  the  standard 
+when  they  fall  short  of  meeting  the  strict  prescriptive  requirements  of  TM5-1300.  The  testing  is 
+not  only  very  costly,  but  also  time  consuming  which  may  prevent  users  from  meeting  aggressive 
+design  and  construction  schedules.  Therefore,  most  engineering  projects  conform  to  the 
+prescriptive  requirements  of  the  TM5-1300  standards.  In  this  manner,  the  design  can  be 
+reviewed  through  conventional  government  channels  and  delays  caused  by  the  testing  process 
+are  avoided. 
+
+Design  Using  the  TM5-1300,  November  1990,  Publication 
+
+The  design  of  the  explosive  processing  facility  began  in  2005  using  the  November  1990,  TM5- 
+1300  publication  as  the  governing  design  code.  The  design  of  the  walls  and  roof  slabs  required 
+that  the  slabs  resist  the  creation  of  hazardous  spall,  avoid  breaching,  prevent  direct  and  diagonal 
+shear  failure,  and  limit  global  deflections  of  the  slab  itself.  TM5-1300  required  lacing  when  the 
+scaled  standoff  distance,  Z  equal  to  the  standoff  from  face  of  wall  to  center  of  charge  divided  by 
+the  cube  root  of  the  explosive  weight,  was  less  than  or  equal  to  1.  Table  1  below  displays  the  Z 
+=  1  standoffs  for  various  charge  sizes.  As  the  table  indicates,  the  standoff  from  the  center  of  the 
+charge  to  the  face  of  wall  is  relatively  large  even  for  small  charge  sizes  and  can  greatly  increase 
+the  size  of  the  bay.  A  study  was  done  to  evaluate  the  design  with  a  larger  total  footprint  to  allow 
+
+
+for  more  standoff  and  avoid  lacing.  However,  that  design  required  more  space  to  construct  the 
+building  and  increased  construction  cost.  Therefore,  lacing  was  used  in  the  original  design. 
+
+
+Table  1.  Scaled  Range,  Z,  equal  to  1  for  Various  Charge  Sizes 
+
+
+Charge  Size  (lbs) 
+
+Standoff  (ft) 
+
+10 
+
+2.15 
+
+50 
+
+3.68 
+
+100 
+
+4.64 
+
+200 
+
+5.85 
+
+500 
+
+7.94 
+
+1000 
+
+10.0 
+
+The  TM5-1300  approach  to  slab  design  is  to  start  with  a  flexural  response  mode  using  Single- 
+Degree-of-Freedom  (SDOF)  methods  and  then  design  the  direct  and  diagonal  shear 
+reinforcement  to  develop  their  full  flexural  capacity.  This  approach  can  be  termed  as  “the 
+flexural  fail  first  approach”  and  is  based  on  attempting  to  develop  a  ductile  failure  mode.  This 
+approach  may  have  major  deficiencies  when  designing  very  thick  slabs  with  span  to  depth  ratios 
+of  less  than  five.  This  is  due  to  the  fact  that  thick  slabs  do  not  respond  in  a  pure  flexural  mode. 
+SDOF  methods  tend  to  overestimate  the  response  and  require  excessive  flexural  reinforcement 
+[11].  This,  in  turn,  leads  to  high  ultimate  shear  capacity  and,  consequently,  excessive  shear 
+reinforcement.  In  addition  to  the  flexural  steel,  middle  bars  are  put  in  the  slabs  of  processing 
+bays  to  resist  any  tension  load  that  is  produced  by  gas  pressure  build  up  before  venting  from  the 
+bay  occurs.  Finite  element  calculations  for  very  thick  walls  to  large  near  contact  charges  have 
+confirmed  the  response  mode  to  depend  much  more  on  local  dilation  of  the  concrete  and  local 
+confining  steel  layout  than  on  global  flexural  bending  modes  [15].  This  is  an  area  where  future 
+code  changes  would  benefit  both  the  cost  and  reliability  of  thick  slabs  designed  to  resist  blast 
+loading. 
+
+After  the  wall  is  initially  designed  using  the  flexural  approach,  it  must  be  designed  to  resist 
+production  of  hazardous  spall  and  breach.  The  current  approaches  to  resist  spall  and  breaching 
+are  based  on  empirical  equations  [1,  12].  These  equations  determine  if  spall  or  breach  can  occur 
+for  a  given  concrete  wall  thickness,  design  charge  weight,  and  standoff.  If  the  slab  can  resist 
+breach  but  not  spall,  a  spall  plate  may  be  added  to  the  wall  face  away  from  the  blast  threat  to 
+prevent  spall.  TM  5-1300  provides  a  method  for  designing  the  spall  plate  and  its  attachment  to 
+the  wall. 
+
+In  order  to  reduce  steel  congestion  and  allow  for  manual  placement  of  reinforcing  bars  for  the 
+design  of  the  explosive  facility,  the  maximum  rebar  size  was  limited  to  a  No.  11  bar.  An  attempt 
+was  also  made  to  maximize  the  use  of  common  reinforcing  bar  sizes  and  spacing  to  simplify 
+construction.  This  approach  can  be  problematic  if  the  matching  reinforcement  greatly 
+strengthens  a  wall  in  flexure,  since  a  large  penalty  may  be  paid  in  shear  reinforcement.  The  slab 
+can  get  very  congested  when  the  flexural  steel,  tension  steel,  diagonal  shear  steel,  and  direct 
+shear  steel  is  placed  in  the  wall.  Furthermore,  the  TM5-1300  document  prohibits  the  use  of 
+couplers  without  testing,  so  very  long  lap  splices  create  even  more  congestion.  Due  to  the  fact 
+that  stirrup  spacing  cannot  exceed  the  depth  divided  by  two  (where  depth  is  dependent  on  the 
+
+
+type  of  slab),  using  thicker  slabs  is  the  only  means  to  get  larger  spacing  of  the  primary 
+reinforcement.  The  thicker  slab  helps  reduce  congestion  on  one  hand,  but  when  it  becomes  too 
+thick,  the  assumptions  of  a  flexural  response  that  the  SDOF  methods  rely  on  in  the  analysis  are 
+violated.  Congestion  becomes  even  worse  when  lacing  is  used  in  lieu  of  stirrups  as  diagonal 
+shear  reinforcement. 
+
+Once  the  design  met  the  requirements  of  TM5-1300,  CH2M  HILL  structural  engineers  ensured 
+the  design  resisted  gravity,  wind  and  seismic  loading,  and  met  the  requirements  of  ACI  318  [16]. 
+Figure  1  illustrates  a  section  cut  for  a  representative  laced  wall.  While  a  2D  drawing  can  make 
+the  layout  appear  straight  forward  to  construct,  a  3D  perspective,  especially  at  wall  intersections, 
+can  better  illustrate  the  difficulty  in  actual  construction.  Figure  2  provides  a  photograph  of  laced 
+construction  and  helps  illustrate  the  complexity  involved  in  the  construction  of  laced  slabs. 
+
+
+STANDARD  S0*  HOOK  AT  EACH  END. 
+EXTEND  VERTICAL  BARS  A  MINIMUM 
+OF  30’  INTO  THE  SLAB.  EXTEND  MIDDLE 
+BARS  A  MINIMUM  OF  20’  INTO  THE  SLAB 
+
+
+START  FIRST  HORIZONTAL' 
+BAR  41  ABOVE  MAT 
+
+
+*4  SLAB  STIRRUPS  ENGAGED 
+AROUND  OUTERMOST  TOP 
+AND  BOTTOM  BARS 
+
+
+REFERENCE  WALL 
+1AN0  SLAB  SCHEOULE 
+FOR  BAR  SIZE. 
+THICKNESS.  ANO 
+SLAB  THICKNESS 
+
+
+•MIDDLE  BARS  WITH  4‘  TO  6' CLEARANCE  BETWEEN 
+BARS.  ALIGN  WITH  VERTICAL  BARS  EACH  FACE. 
+PROVIOE  A  MINIMUM  OF  IS*  EMBEDMENT  INTO  MAT 
+•DIAGONAL  BAR  EACH  SIDE  OF  VERTICAL  BAR 
+AND  PLACED  BEYOND  THE  LACING  BARS 
+■REFERENCE  A/S70 
+
+
+3‘  MUD  SLAB 
+
+
+"6  x  CONTINUOUS 
+AT  VERTICAL  ANO 
+MIODLE  8AR  HOOKS 
+
+
+SECTION 
+
+
+STIRRUPS  IN  MAT  TO  ONE 
+SPACING  PAST  END  OF  DIAGONAL 
+BAR,  TYPICAL. STIRRUPS  SHALL 
+ENGAGE  THE  OUTERMOST  TOP 
+AND  80TT0M  BARS.  SPACE  THE 
+STIRRUPS  AT  4* PERPENDICULAR 
+TO  WALLS  AND  8'  PARALLEL  TO 
+WALLS.  DETAIL  THE  STIRRUPS 
+BASED  UPON  A  24*  THICK  MAT 
+WITH  2* BOTTOM  CONCRETE 
+COVER. 
+
+
+Figure  1.  Laced  Wall  Section 
+
+
+Figure  2.  Laced  Wall  Construction 
+
+
+New  Stirrup  Shear  Provisions  of  UFC  3-340-02,  December  2008,  Publication 
+
+Sections  4-22  and  4-66.3  of  UFC  3-340-02,  December  2008,  describe  the  conditions  required  for 
+the  use  of  stirrups  in  lieu  of  lacing.  The  Type  C  stirrup  with  180  degree  bent  legs  at  each  end  can 
+be  used  for  all  charge  separations  allowed  in  the  manual,  even  when  Z  is  less  than  1,  and  for 
+rotations  up  to  12  degrees.  While  the  design  of  the  walls  and  slabs  in  the  explosive  processing 
+facility  was  based  on  SDOF  calculations  with  rotations  of  less  than  2  degrees  for  personnel 
+protection,  the  standoff  was  often  less  than  a  Z  equal  to  1 .  Therefore,  the  Type  C  stirrup 
+configuration  was  used  to  replace  lacing  in  the  design  of  walls  with  these  near  contact  charges. 
+Figure  3  illustrates  the  previous  wall  section  modified  for  Type  C  stirrups.  Stirrup  size  and 
+layout  is  a  function  of  the  element's  flexural  capacity,  while  the  size  of  rebar  used  is  a  function  of 
+the  required  area  and  spacing  of  the  stirrups.  The  maximum  and  minimum  size  of  stirrup  bars 
+are  No.  8  and  No.  3,  respectively,  while  the  spacing  between  stirrups  is  limited  to  a  maximum  of 
+d/2  or  dc/2  for  type  I  and  type  II  or  III  cross-sections,  respectively.  The  type  I,  II,  and  III  cross- 
+sections  are  defined  in  UFC  3-340-02.  The  use  of  stirrups  in  lieu  of  lacing  is  based  on  recent 
+testing  [13,  14].  Where  recent  is  defined  as  anything  after  the  November  1990  version  of  TM5- 
+1300  was  published. 
+
+
+MAT  FOUNDATION 
+
+
+SECTION 
+
+
+^§3/  SCALE:  V2  --  1' 
+
+
+DETAIL  THE  STIRRUPS  BASED  UPON 
+A  24"  THICK  MAT  WITH  2"  BOTTOM 
+CONCRETE  COVER.  START  STIRRUP 
+PLACEMENT  WITHIN  3"  OF  WALL  FACE 
+ON  EACH  SIDE  OF  WALL. 
+
+
+Figure  3.  Stirrup  Wall  Construction 
+
+
+Revised  Design  Based  on  UFC  3-340-02  Stirrup  Provisions 
+
+Once  UFC  3-340-02  was  approved  to  replace  TM5-1300  as  the  design  code  of  record  in  January 
+2009,  the  slabs  in  the  processing  facility  were  redesigned  using  Type  C  stirrups  instead  of  lacing. 
+The  laced  design  proved  troublesome  in  many  ways  during  the  pre-bid  design  process.  First, 
+many  contractors  would  not  even  bid  on  the  project  due  to  the  laced  design.  Second,  the  lack  of 
+experience  in  constructing  laced  slabs  required  higher  contingency  costs  for  those  contractors 
+willing  to  bid  on  the  project.  Finally,  the  actual  effort  and  time  required  to  build  the  structure 
+was  greatly  increased  by  the  laced  construction.  The  redesign  with  stirrups  instead  of  lacing  was 
+based  on  keeping  the  bay  and  slab  layout  unchanged  due  to  the  potential  negative  impact  on 
+architectural,  mechanical,  electrical  and  process  systems  that  would  cascade  through  the  design 
+effort.  This  meant  that  only  the  interior  reinforcement  could  be  changed  in  the  design.  While 
+the  primary  effort  would  be  based  on  replacing  the  diagonal  shear  capacity  of  the  lacing  with 
+stirrups,  there  were  impacts  due  to  the  new  placement  of  the  primary  reinforcing  that  required 
+consideration.  The  fact  that  a  stirrup  solution  to  resist  diagonal  shear  could  allow  the  primary 
+rebar  to  be  placed  closer  to  the  wall’s  exterior  surface  and  thus,  increase  the  flexural  capacity  of 
+the  wall  was  evaluated  in  the  redesign  effort.  The  revised  design  with  stirrups,  including 
+providing  complete  quality  controlled  checked  calculations,  was  completed  in  about  four  weeks. 
+
+
+Impact  of  Design  Change 
+
+After  the  revised  design  was  completed,  CH2M  HILL  evaluated  the  cost  differential.  The 
+revised  design  was  estimated  to  save  approximately  580,000  pounds  of  reinforcement  and  22,000 
+man-hours  of  construction  effort.  In  addition,  it  is  estimated  that  more  contractors  would  bid  on 
+the  project  since  conventional  construction  methods  could  be  employed  with  the  elimination  of 
+lacing.  The  weight  of  steel  and  labor  savings  was  estimated  to  reduce  construction  costs  by 
+about  $2  million  dollars. 
+
+Conclusion 
+
+The  blast  resistant  design  of  an  explosive  processing  facility  was  completed  using  the  laced 
+approach  as  outlined  in  TM5-1300,  November  1990.  Later,  the  design  was  revised  in 
+accordance  with  the  new  UFC  3-340-02,  December  2008,  approach  using  stirrups  in  lieu  of 
+lacing.  The  result  was  significant  savings  in  total  steel  weight  and  man-hours  to  construct  the 
+structure.  In  addition,  the  conventional  construction  with  stirrups  is  familiar  to  many  contractors 
+and  allows  for  more  cost  competitive  bidding  and  less  construction  risk.  This  project  is  an 
+example  where  incorporating  updated  test  results  into  the  standards  can  produce  more  cost 
+effective  blast  resistant  structures  that  provide  the  level  of  safety  required  for  explosive 
+processing  protection. 
+
+References 
+
+1.  US  Army  TM  5-1300,  Navy  NAVFAC  P-397,  or  Air  Force  AFR  88-22,  Structures  to  Resist 
+the  Effects  of  Accidental  Explosions ,  November  1990. 
+
+2.  Tennant,  D.,  H.  Levine  and  J.  Mould,  “Prediction  of  Static  and  Dynamic  Response  of 
+Reinforced  Concrete  Slabs  Through  Failure  Using  a  Rate-Dependent  Three  Invariant  Softening 
+Model  for  Concrete,”  Proc.  of  the  8th  Intemat.  Symp.  On  Interaction  of  the  Effects  of  Munitions 
+with  Structures,  McLean,  VA,  April  21-25,  1997. 
+
+3.  D.  Lawver,  R.  Daddazio,  G.  J.  Oh,  C.  K.  B.  Lee,  A.  Pifko  and  M.  Stanley,  “Simulating  The 
+Response  of  Composite  Reinforced  Floor  Slabs  Subjected  To  Blast  Loading,”  2003  ASME 
+International  Mechanical  Engineering  Congress  and  RD&D  Expo,  November  2003. 
+
+4.  D.  Lawver,  R.  Daddazio,  G.  J.  Oh,  A.  Pifko  and  M.  Stanley,  “Composite  Retrofits  of 
+Reinforced  Concrete  Slabs  to  Resist  Blast  Loading”, 74th  Shock  and  Vibration  Symposium, 
+October  2003. 
+
+5.  D.  Lawver,  D.  Vaughan  and  H.  Levine,  “Response  of  AISC  Steel  Column  Sections  To  Blast 
+Loading,”  PVP  Vol.  454,  Problems  Involving  Thermal-Hydraulics,  Liquid  Sloshing,  and 
+Extreme  Loads  on  Structures,  July  2003. 
+
+6.  Levine,  H.  S.,  D.  Tennant  and  F.  Wong,  “Response  of  Buried  Vertical  Steel  Cylinders  to  High 
+Intensity  Airblast  Loadings,”  Proc.  1991  ASME-PVP  Conference,  Symp.  on  Structural 
+Dynamics  Produced  by  Extreme  Loading  Conditions,  San  Diego,  CA,  June  23-27,  1991. 
+
+7.  Levine,  H.  S.  and  D.  Tennant,  “Dynamic  Buckling  of  Buried  Steel  Cylinders,”  Proc.  1991 
+ASME  Winter  Annual  Mtg,  Symp.  on  Dynamic  Response  of  Structures  to  High  Energy 
+Excitations,  AMD-Vol.  127/PVP-Vol.  225,  Atlanta,  GA,  Dec.  1-6,  1991. 
+
+8.  Tennant,  D.  and  H.  Levine,  “Response  of  Embedded  Cylindrical  and  Articulated  Structures  to 
+Airblast  and  Ground  Shock  Loads,”  Proc.  62nd  Shock  and  Vibration  Symposium,  Springfield, 
+VA,  October  29-31,  1991. 
+
+
+9.  Tennant,  D.  and  H.  Levine,  “Response  Predictions  of  Reinforced  Concrete  Structures 
+Subjected  to  Combined  Airblast  and  Fragment  Loadings,”  Proceedings  of  the  68th  Shock  and 
+Vibration  Symposium,  Hunts  Valley,  MD,  November  3-6,  1997. 
+
+10.  Tennant  D.,  H.  S.  Levine,  and  J.  C.  Mould,  Jr.,  “Prediction  of  Static  and  Dynamic  Response 
+of  Reinforced  Concrete  Slabs  using  a  Rate-Dependent  Three  Invariant  Softening  Model  for 
+Concrete,”  Proceedings  of  the  8th  International  Symposium  on  the  Interaction  of  the  Effects  of 
+Munitions  with  Structures,  April  22-25,  1997. 
+
+11.  Lawver,  D.,  Oneto,  R.,  Stanley,  M.,  Tennant  D.,  Weeks,  J.,  FLEX FE  Models  and  Full  Scale 
+Tests  of  Blast  Loaded  Reinforced  Concrete  Columns ,  Thirty-Third  DOD  Explosive  Safety 
+Seminar  Proceedings,  Palm  Springs,  CA,  August  2008. 
+
+12.  K.  A.  Marchand  and  B.T  Plenge,  AFRL-MN-EG-TR- 1998-7032,  Concrete  Hard  Target 
+Spall  and  Breach  Model ,  March  1998. 
+
+13.  Zehrt,  W.  H.,  Jr.,  Woodson,  S.  C.,  and  Beck,  D.  C.,  Investigation  of  Army  TM  5- 
+1 3 00/NA  VFAC  P-397/AFR  8-22  Bar  Bend  Requirements  for  Single  Leg  Stirrups 
+used  as  Diagonal  Tension  Reinforcement ,  Thirty-Second  DOD  Explosives  Safety 
+Seminar  Proceedings,  Philadelphia,  PA,  August  2006. 
+
+14.  Woodson,  S.  C.  and  Zehrt,  W.  H.,  Jr.,  Investigation  of  Army  TM  5-1300/NAVFAC 
+P-397/AFR  88-22  Diagonal  Tension  Requirements  at  Low  Scaled  Distances , 
+
+Thirty-Second  DOD  Explosives  Safety  Seminar  Proceedings,  Philadelphia,  PA, 
+
+August  2006. 
+
+15.  Full  Cell  Blast  Evaluation  For  Lawrence  Livermore  National  Laboratory,  Site  300  EMPC 
+Facility ,  Weidlinger  Associates  ^  Inc.,  Final  Report,  July  29,  2005. 
+
+16.  ACI-318,  Building  Code  Requirements  for  Reinforced  Concrete  with  Commentary, 
+American  Concrete  Institute. 
+
+
+U  Yd  an]  a  tit 
+Dada/nbar 
+
+
+CH2MHILL 
+
+Lockwood  Greene 
+
+
+Cost  Savings  Using  Stirrupng 
+Instead  of  Laced  Wall  Reinfor 
+UFC  3-340-02  (TM  5-1300)  Dc 
+
+2cflo8Bi  ...  _  JHi . 
+
+
+Darell  Lawver,  PE,  SE 
+
+
+Jim  Weeks,  PE 
+Steve  Forman 
+Robert  Lackey,  PE 
+Larry  Faria,  PE 
+
+
+34th  DoD  Explosives  Safety 
+Seminar 
+
+
+Portland,  Oregon 
+July  13-15,  2010 
+
+
+www.wai.com 
+
+New  York,  NY  •  Cambridge,  MA  •  Mountain  View,  CA  • 
+Washington,  DC  •  Marina  Del  Rey,  CA  •  Albuquerque,  NM 
+
+
+♦  Introduction 
+
+♦  Design  Using  Lacing 
+
+♦  Blast  Effects  Testing 
+
+♦  Design  Using  Stirrups 
+Conclusions 
+
+
+TrtwSdlinger 
+
+
+Associates®  Inc. 
+
+
+www.wai.com 
+
+
+Introduction 
+
+♦  Explosive  Processing  Facility  2005  Design 
+November  1990  TM5-1300  Blast  Design  Code 
+Studied  Layout  with  Z  >  1  and  Z  <  1 
+Z  <  1  Chosen  And  Lacing  Required  Per  Standards 
+
+Research  into  History  of  Lacing  Requirement  Yielded  Little 
+Verifiable  Information 
+
+Research  Since  1990  Publication  Demonstrated 
+Effectiveness  of  Stirrups 
+
+Many  DoD  Sponsored  Weapons  Tests  on  Structures  Without 
+Lacing  or  Diagonal  Bars 
+
+Tests  Included  Internal  Detonations  -  Both  Cased  and  Uncased 
+Weapons 
+
+US  Army  WES  performed  tests  to  specifically  demonstrate 
+performance  of  stirrups 
+
+~hhkMd\mger  Associates®  Inc. 
+
+
+www.wai.com 
+
+
+♦  Lacing  Increases  Congestion 
+
+♦  Lacing  Reduces  Number  of  Contractors  Who  Will  Bid 
+Lap  splices  in  lacing  difficult  to  place 
+
+♦  TM5-1300  Basically  Prohibits  Use  of  Couplers 
+
+♦  Lacing  Severely  Impacts  Placement  of  Primary  Rebar 
+in  Slabs 
+
+Lacing  Must  Wrap  Horizontal  Bars 
+Primary  Bars  Inside  Horizontal  Bars 
+
+
+77^Sdlinger 
+
+
+Associates®  Inc. 
+
+
+www.wai.com 
+
+
+♦  In  2D,  Lacing 
+Does  not  Appear 
+Difficult 
+
+♦  Thick  Walls 
+Provide 
+"Handroom" 
+
+
+//^fejdlinger  Associates®  Inc 
+
+
+www.wai.com 
+
+
+Placement  of 
+Horizontal  and 
+Vertical  Bars  a 
+Challenge 
+
+Typical 
+Construction 
+Tolerances  Can 
+Impact  Design 
+
+Diagonal  Bars 
+Difficult  to  Place 
+
+Wall  Corners 
+
+Extremely 
+
+Difficult 
+
+^Bellinger  Associates®  Inc. 
+
+
+www.wai.com 
+
+
+Lacing  Conge 
+
+Placement  of 
+Horizontal  and 
+Vertical  Bars  a 
+Challenge 
+
+♦  Vertical  Bars 
+Inside  Horizontal 
+Bars 
+
+
+LL J 
+
+
+sociates®  Inc. 
+www.wai.com 
+
+
+■  —  -  "  - _ _ 
+
+Lacing  Conge 
+
+♦  Diagonal  Bars 
+Difficult  to  Place 
+
+♦  Wall  Corners 
+Extremely 
+Difficult 
+
+♦  Both  Vertical  and 
+Horizontal 
+Diagonal  Bars 
+Intersect 
+
+
+dlinger  Associates 
+
+
+Inc. 
+
+
+www.wai.com 
+
+
+Lacing-Conge 
+
+♦  Construction 
+Tolerances  Can 
+Impact  Design 
+Calculations 
+
+
+77^Sdlinger 
+
+
+Associates®  Inc. 
+
+
+www.wai.com 
+
+
+♦  Woodson,  S.  C.,  Gaube,  W.  H.,  and  Knight,  T.  C., 
+"Alternative  Shear  Reinforcement  Guidelines  for 
+Blast-Resistance  Design/'  24th  DDESB  Seminar, 
+1990. 
+
+♦  Woodson,  S.  C.,  "Response  Limits  of  Blast-Resistant 
+Slabs",  Technical  Report  SL-90-11,  US  Army 
+Waterways  Experiment  Station,  Vicksburg,  MS, 
+October  1990 
+
+
+Woodson,  S.  C.,  "Lacing  Versus  Stirrups  -  An 
+Experimental  Study  of  Shear  Reinforcement  in  Blast- 
+Resistant  Structures,"  Technical  Report  SL-92-2,  US 
+Army  Engineer  Waterways  Experiment  Station, 
+Vicksburg,  MS,  March  1992. 
+
+
+jdlinger  Associates®  Inc. 
+
+
+www.wai.com 
+
+
+Weapon  Effing 
+
+♦  Advanced  Analysis  and  Testing  Performed  for  DoD 
+Projects 
+
+Internal  Detonations  Tested  and  Analyzed 
+Structures  Often  Do  Not  Have  Diagonal  Bars  or  Lacing 
+Z  Often  Less  than  1 
+
+
+//^fejdlinger  Associates®  Inc 
+
+
+www.wai.com 
+
+
+6  Axial  Loaded 
+Reinforced  Concrete 
+Columns 
+
+♦  No  Diagonal  Bars  or 
+Lacing 
+
+♦  Variations  in  Stirrups 
+Layout  For  Given 
+Column  and  Threat 
+
+
+//^fejdlinger  Associates®  Inc 
+
+
+www.wai.com 
+
+
+Respo 
+
+
+usa  ru?  T 
+
+
+iiup-.  -• 
+
+
+TM  5-1300  would  n 
+
+allow  this  design 
+
+
+T^^Sdlinger  Associates®  Inc 
+
+
+www.wai.com 
+
+
+rrups 
+
+
+/Wa; 
+
+
+st$ 
+
+
+- 
+
+
+a  . 
+
+
+— 
+
+
+2008 
+
+
+3-340-02* 
+
+
+Rb-EHbNCb  WALL 
+AND  SLAB  SCHEDULE 
+FOR  BAR  SIZE, 
+THICKNESS,  AND 
+SLAB  THICKNESS 
+
+
+"■ri 
+
+
+♦  Stirrups  Much 
+Easier  to  Place 
+
+♦  Stirrups  Allow 
+For  Flexible 
+Primary  Rebar 
+Placement 
+
+♦  Stirrups  are 
+Standard 
+Construction 
+
+
+CON'INUOUS 
+
+
+LXfbNO  HORIZON  1  AL  — * 
+WALL  REINFORCING 
+AND  WALL  5“IRRUPS 
+fU  WI I  HIN  12"  U-  I  HE 
+TOP  CF  SLAB 
+
+
+STANDARD  S0”  -OCK  AT  EACH  END. EXTEND  VERTICAL 
+BARS  A  MINIMJM  CF  40"  INTO  THE  SLAB.  EXTEND 
+MIDDI  F  BARS  A  MINIMUM  DF  28"  INTO  THF  SI  AB 
+
+a6  x  CONTINUOUS  AT  HOOKS  AS  INDICATED 
+:  RErERENCE  A/S70 
+
+
+TYP 
+
+
+PROVIDE  ONE  "5  SINGLE  LEG  STIRRUP 
+6'  MAXIMUM  ABOVE  BOTTOM  OF  SLAB 
+
+
+VERTICAL  AND  MIDDLE  BARS 
+SHALL  NOT  BE  SPLICED 
+
+
+“8  DIAGONAL  BAR  0  8" 
+IN  EACH  DIRECTION 
+
+HORIZONTAL  BAR, EACH  FACE 
+
+
+SCHEDULED  WAL_  STIRRUPS  — \  J  > 
+WITH  180  DEGREE  END  HOOKS.  l_ 
+WHEN  TWC  STIRRUPS  ARE  V 
+
+REQUIRED,  PLACE  ABOVE  AND 
+BELOW  HORIZONTAL  BARS  AS 
+SHOWN.  , 
+
+*5  ®  I  I?  \ 
+
+S' AH  I  FIRS  I  H0R1ZUN 1 AL  \ 
+
+BAR  4"  ABOVE  MAT  '-x 
+
+*10  x  16'- 0"  ©  8‘  AT  \  \  TV[ 
+
+CbN’-R  OF  MAI  \ 
+
+MAT  FOUNDATION  \  \ 
+
+
+P-  CONCRFTF 
+COVER 
+
+
+l'-8‘ 
+
+
+SCHEDULED  S_AB  STIRRUPS 
+ENCAGED  AROUND  OUTERMOS" 
+TOP  AND  BOTTOM  BARS. END 
+HOOKS  SHALL  BE  135  DEGREES. 
+
+
+VERTICAL  BAR  WITH  STANDARD  END  HOOKS 
+EACH  FACE. ALIGN  WITH  MIDDLE  BARS  AND 
+PROVIDE  A  MINIMUM  OF  17"  FM3FDMFNT  INTO 
+THE  MAT.  VERTICAL  BARS  SHALL  3E  OUTERMOST 
+BARS.  PLACE  DIRECTION  0-  END  HOOKS  AS  NOTED. 
+
+-  Minn  F  BARS  WITH  STANDARD  FND  HOOKS  WTTH 
+4"  TO  6"  CLEARANCE  BETWEEN  BARS.  ALIGN  WITH 
+VERTICA_  3ARS  EACH  FACE.  PROVIDE  A  MINIMUM 
+OF  IS1  EMBEDMENT  INTO  MAT 
+
+
+‘0  DIAGONAL  BAR 
+?  8“  IN  EACH  FACE 
+
+
+REFERENCE 
+
+A/S7e 
+
+
+TOP  OF  STIRRU3  SHALL  BE  TIED 
+TO  HORIZON~AL  BARS.  BOTTOM 
+OF  STIRRUP  MAY  BE  UNTIED. 
+
+
+3"  MUD  SLAB 
+
+135  DEGREE  HQO<S- 
+IN  MAT  SLAB 
+STIRRUPS 
+
+
+dlinger  Associates®  Inc. 
+
+
+PROVIDE  ONE  *5  — ' 
+SINGLE  LEG  STIRRUP 
+4"  BELOW  TOP  OF 
+MAT  FOUNDATION 
+
+
+*6  x  CONTINUOUS 
+AT  HOOKS  AS 
+INDICATFn 
+
+
+SECTION 
+
+
+www.wai.com 
+
+
+SCALE:  Vz  =  1'- 
+
+
+*4  STIRRUPS  IN  MAT  TO  ONE  SPACING  | 
+PAST  END  OF  DIAGONAL  BAR,  TYPICAL. 
+STIRRUPS  SHALL  ENGAGE  OUTERMOST 
+TOP  AND  30TTOM  BARS.  SPACE  THE 
+STIRRwPS  AT  8'  PERPENDICULAR  TC 
+WALLS  AND  8"  PARALLEL  TO  WALLS. 
+DETAI_  THE  STIRRUPS  BASED  U^ON 
+A  24"  “HICK  MAT  WITH  2'  BOTTOM 
+CONCRETE  COVER.  START  STIRRLP 
+PLACEMENT  WITHIN  3"  OF  WALL  F^CE 
+ON  EACH  SIDE  OF  WALL. 
+
+
+♦  Summary  of  Results 
+
+Initial  Design  Based  on  November  1990  TM5-1300 
+Lacing  Required  Due  to  Z  <  1 
+
+Lacing  Increase  Congestion,  Complexity  of 
+Construction  and  Limited  Contactors  Bidding  on 
+Project 
+
+Testing  Has  Proven  That  Stirrups  Can  Perform  in  Z  < 
+1  Range 
+
+Revised  Design  per  UFC  3-340-02,  December  2008 
+Design  Used  Stirrups  in  Lieu  of  Lacing 
+
+Revised  Design  Estimated  to  Save  $2M  in 
+Construction  Costs  &  22,000  Man  Hours  of  Effort 
+
+
+77^Sdlinger 
+
+
+Associates®  Inc. 
+
+
+www.wai.com 
+
+

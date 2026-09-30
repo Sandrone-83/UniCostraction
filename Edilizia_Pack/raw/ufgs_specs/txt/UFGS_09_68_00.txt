@@ -1,0 +1,1622 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-09 68 00 (November 2024)
+------------------------------------
+Preparing Activity:  USACE
+Superseding
+UFGS-09 68 00 (November 2017)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 09 - FINISHES
+SECTION 09 68 00
+CARPETING
+11/24
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   SUBMITTALS
+  1.3   CERTIFICATIONS
+    1.3.1   Indoor Air Quality Certifications
+      1.3.1.1   Floor Covering Materials
+  1.4   DELIVERY, STORAGE, AND HANDLING
+  1.5   AMBIENT CONDITIONS
+  1.6   WARRANTY
+PART 2   PRODUCTS
+  2.1   CARPET
+    2.1.1   Recycled Content
+    2.1.2   PFOS/PFOA Requirements
+    2.1.3   Indoor Air Quality Requirements
+    2.1.4   Sustainable Product Certifications
+    2.1.5   Physical Characteristics for [Broadloom][Modular 
+Tile][Entrance][Textile Composite] Carpet
+      2.1.5.1   Carpet Construction
+      2.1.5.2   Type
+      2.1.5.3   Pile Type[s]
+      2.1.5.4   Pile Fiber
+      2.1.5.5   Gauge or Pitch
+      2.1.5.6   Stitches or Rows/Wires
+      2.1.5.7   Surface Pile Weight
+      2.1.5.8   Pile Thickness
+      2.1.5.9   Pile Density
+      2.1.5.10   Dye Method
+      2.1.5.11   Backing Materials
+      2.1.5.12   Attached Cushion
+  2.2   PERFORMANCE REQUIREMENTS
+    2.2.1   Texture Appearance Retention Rating (TARR)
+SECTION 09 68 00  Page 1
+CANCELLED
+
+
+    2.2.2   Static Control
+    2.2.3   Flammability and Critical Radiant Flux Requirements
+    2.2.4   Tuft Bind
+    2.2.5   Colorfastness to Crocking
+    2.2.6   Colorfastness to Light
+    2.2.7   Colorfastness to Water
+    2.2.8   Breaking Strength
+    2.2.9   Delamination Strength
+    2.2.10   Noise Reduction Coefficient
+    2.2.11   Antimicrobial
+  2.3   CARPET CUSHION
+    2.3.1   Fiber Cushion
+      2.3.1.1   Weight
+      2.3.1.2   Thickness
+      2.3.1.3   Density
+    2.3.2   Rubber Cushion
+      2.3.2.1   Weight
+      2.3.2.2   Thickness
+      2.3.2.3   Compression Resistance
+      2.3.2.4   Density
+    2.3.3   Polyurethane-Foam Cushion
+      2.3.3.1   Compression Force Deflection at 65 Percent
+      2.3.3.2   Thickness
+      2.3.3.3   Density
+    2.3.4   Performance Requirements - Critical Radiant Flux
+  2.4   ADHESIVES AND CONCRETE PRIMER
+  2.5   MODULAR CARPET TILE CONNECTORS
+  2.6   ADHESIVE BACKING
+  2.7   MOLDINGS
+  2.8   TAPE
+  2.9   COLOR, TEXTURE, AND PATTERN
+PART 3   EXECUTION
+  3.1   SURFACE PREPARATION
+  3.2   MOISTURE AND ALKALINITY TESTS
+  3.3   PREPARATION OF CONCRETE SUBFLOOR
+  3.4   INSTALLATION
+    3.4.1   Broadloom Installation
+    3.4.2   Modular Tile Installation
+    3.4.3   Entrance Carpet Installation
+    3.4.4   Stretch-in Installation
+  3.5   CLEANING AND PROTECTION
+    3.5.1   Cleaning
+    3.5.2   Protection
+  3.6   REMNANTS
+  3.7   MAINTENANCE
+    3.7.1   Extra Materials
+    3.7.2   Maintenance Service
+-- End of Section Table of Contents --
+SECTION 09 68 00  Page 2
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-09 68 00 (November 2024)
+------------------------------------
+Preparing Activity:  USACE
+Superseding
+UFGS-09 68 00 (November 2017)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 09 68 00
+CARPETING
+11/24
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for broadloom carpet, modular tile 
+carpet, and entrance carpet.
+This section is intended for floor coverings only, 
+and should not be used to specify carpeting 
+installed on wall or ceiling surfaces.  Where 
+carpeting is to be used on surfaces other than 
+floors, refer to Section 
+09 72 00
+ WALLCOVERINGS.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+PART 1   GENERAL
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+SECTION 09 68 00  Page 3
+CANCELLED
+
+
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN ASSOCIATION OF TEXTILE CHEMISTS AND COLORISTS (AATCC)
+AATCC 16.1
+(2023) Test Method for Colorfastness to 
+Light: Outdoor
+AATCC 107
+(2013) Colorfastness to Water
+AATCC 134
+(2016) Electrostatic Propensity of Carpets
+AATCC 165
+(2021; E 2024) Colorfastness to Crocking:  
+Textile Floor Coverings - Crockmeter Method
+AATCC 174
+(2016) Antimicrobial Activity Assessment 
+of New Carpets
+ASTM INTERNATIONAL (ASTM)
+ASTM C423
+(2023; E 2024) Sound Absorption and Sound 
+Absorption Coefficients by the 
+Reverberation Room Method
+ASTM D297
+(2021) Rubber Products - Chemical Analysis
+ASTM D1335
+(2017; E 2018) Standard Test Method for 
+Tuft Bind of Pile Yarn Floor Coverings
+ASTM D1667
+(2022) Standard Specification for Flexible 
+Cellular Materials - Poly (Vinyl Chloride) 
+Foam (Closed-Cell)
+ASTM D2646
+(2024) Standard Guide for Backing Fabric 
+Characteristics of Pile Yarn Floor 
+Coverings
+ASTM D2859
+(2016) Standard Test Method for Ignition 
+Characteristics of Finished Textile Floor 
+Covering Materials
+ASTM D3278
+(2021) Standard Test Methods for Flash 
+Point of Liquids by Small Scale Closed-Cup 
+Apparatus
+SECTION 09 68 00  Page 4
+CANCELLED
+
+
+ASTM D3574
+(2017) Standard Test Methods for Flexible 
+Cellular Materials—Slab, Bonded, and 
+Molded Urethane Foams
+ASTM D3676
+(2013) Rubber Cellular Cushion Used for 
+Carpet or Rug Underlay
+ASTM D3936
+(2021) Standard Test Method for Resistance 
+to Delamination of the Secondary Backing 
+of Pile Yarn Floor Covering
+ASTM D5793
+(2018) Standard Test Method for Binding 
+Sites Per Unit Length or Width of Pile 
+Yarn Floor Coverings
+ASTM D5848
+(2020) Standard Test Method for Mass Per 
+Unit Area of Pile Yarn Floor Coverings
+ASTM D6859
+(2011) Standard Test Method for Pile 
+Thickness of Finished Level Pile Yarn 
+Floor Coverings
+ASTM D7330
+(2015) Standard Test Method for Assessment 
+of Surface Appearance Change in Pile Floor 
+Coverings Using Standard Reference Scales
+ASTM E648
+(2025) Standard Test Method for Critical 
+Radiant Flux of Floor-Covering Systems 
+Using a Radiant Heat Energy Source
+ASTM F1869
+(2023) Standard Test Method for Measuring 
+Moisture Vapor Emission Rate of Concrete 
+Subfloor Using Anhydrous Calcium Chloride
+ASTM F2170
+(2019a) Standard Test Method for 
+Determining Relative Humidity in Concrete 
+Floor Slabs Using in situ Probes
+CALIFORNIA DEPARTMENT OF PUBLIC HEALTH (CDPH)
+CDPH SECTION 01350
+(2017; Version 1.2) Standard Method for 
+the Testing and Evaluation of Volatile 
+Organic Chemical Emissions from Indoor 
+Sources using Environmental Chambers
+CARPET AND RUG INSTITUTE (CRI)
+CRI 104
+(2015) Carpet Installation Standard for 
+Commercial Carpet
+CRI 105
+(2015) Carpet Installation Standard for 
+Residential Carpet
+CRI GLP QM
+(2017) Green Label Plus Quality Manual
+CRI Test Method 103
+(2015) Standard Test Method for the 
+Evaluation of Texture Appearance Retention 
+of Carpet Standards Program
+SECTION 09 68 00  Page 5
+CANCELLED
+
+
+GREEN SEAL (GS)
+GS-36
+(2013) Adhesives for Commercial Use
+INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO)
+ISO 2551
+(2020) Textile Floor Coverings and Textile 
+Floor Coverings in Tile Form- 
+Determination of Dimensional Changes Due 
+to the Effects of Varied Water and Heat 
+Conditions and Distortion Out of Plane
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+NFPA 253
+(2011) Standard Method of Test for 
+Critical Radiant Flux of Floor Covering 
+Systems Using a Radiant Heat Energy Source
+NSF INTERNATIONAL (NSF)
+NSF/ANSI 140
+(2019) Sustainability Assessment for Carpet
+SCIENTIFIC CERTIFICATION SYSTEMS (SCS)
+SCS
+SCS Global Services (SCS) Indoor Advantage
+SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT (SCAQMD)
+SCAQMD Rule 1113
+(2016) Architectural Coatings
+SCAQMD Rule 1168
+(2022) Adhesive and Sealant Applications
+U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)
+16 CFR 1630
+Standard for the Surface Flammability of 
+Carpets and Rugs (FF 1-70)
+UL SOLUTIONS (UL)
+UL 2818
+(2022) GREENGUARD Certification Program 
+For Chemical Emissions For Building 
+Materials, Finishes And Furnishings
+1.2   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a "G" to an item, 
+if the submittal is sufficiently important or 
+complex in context of the project.
+SECTION 09 68 00  Page 6
+CANCELLED
+
+
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-02 Shop Drawings
+Installation Drawings
+; 
+G
+, [_____]
+SD-03 Product Data
+Carpet
+; 
+G
+, [_____]
+Textile Composite Carpet
+; 
+G
+, [_____]
+Carpet Cushion
+; 
+G
+, [_____]
+Recycled Content for Carpeting
+; 
+S
+Recycled Content for Fiber Cushion
+; 
+S
+Recycled Content for Rubber Cushion
+; 
+S
+Recycled Content for Polyurethane-Foam Cushion
+; 
+S
+Recycled Content for Textile Composite Carpet
+; 
+S
+Moldings
+; 
+G
+, [_____]
+Indoor Air Quality for Aerosol Adhesives
+; 
+S
+Indoor Air Quality for Non-Aerosol Adhesives
+; 
+S
+Indoor Air Quality for Concrete Primer
+; 
+S
+[
+Modular Carpet Tile Connectors
+; 
+G
+, [_____]
+SECTION 09 68 00  Page 7
+CANCELLED
+
+
+]
+SD-04 Samples
+Carpet
+; 
+G
+, [_____]
+Textile Composite Carpet
+; 
+G
+, [_____]
+Carpet Cushion
+; 
+G
+, [_____]
+Moldings
+; 
+G
+, [_____]
+Sustainable Product Certifications
+; 
+S
+SD-06 Test Reports
+Moisture and Alkalinity Tests
+; 
+G
+, [_____]
+SD-07 Certificates
+Indoor Air Quality for Carpet
+; 
+S
+Indoor Air Quality for Textile Composite Carpet
+; 
+S
+Indoor Air Quality for Fiber Cushion
+; 
+S
+Indoor Air Quality for Rubber Cushion
+; 
+S
+Indoor Air Quality for Polyurethane-Foam Cushion
+; 
+S
+SD-08 Manufacturer's Instructions
+Surface Preparation
+SD-10 Operation and Maintenance Data
+Cleaning and Protection
+Maintenance Service
+SD-11 Closeout Submittals
+Warranty
+1.3   
+CERTIFICATIONS
+1.3.1   
+Indoor Air Quality Certifications
+1.3.1.1   
+Floor Covering Materials
+Provide carpet[, ][and ]cushion[, and textile composite carpet] products 
+certified to meet indoor air quality requirements by 
+UL 2818
+ (GreenGuard) 
+Gold, 
+SCS
+ Global Services Indoor Advantage Gold, 
+CRI GLP QM
+ or provide 
+certification or validation by other third-party program that products 
+meet the requirements of this Section.  Provide current product 
+certification documentation from certification body.  When product does 
+not have certification, provide validation that product meets the indoor 
+air quality product requirements cited herein.
+SECTION 09 68 00  Page 8
+CANCELLED
+
+
+1.4   
+DELIVERY, STORAGE, AND HANDLING
+Deliver materials to the site in the manufacturer's original wrappings and 
+packages clearly labeled with the manufacturer's name, brand name, size, 
+dye lot number, and related information.  Remove materials from packaging 
+and store them in a clean, dry, well ventilated area 
+(100 percent outside 
+air supply, minimum of 1.5 air changes per hour, and no recirculation),
+protected from damage, soiling, and moisture
+, and strong contaminant 
+sources and residues
+, and maintain at a temperature above
+ 16 degrees C
+ 60 
+degrees F
+ for 2 days prior to installation.  
+Do not store carpet or 
+modular carpet tiles with materials which have high emissions of volatile 
+organic compounds (VOCs) or other contaminants, including paints and 
+adhesives.
+  Do not store carpet near materials that may off gas or emit 
+harmful fumes, such as kerosene heaters, fresh paint, or adhesives.
+1.5   
+AMBIENT CONDITIONS
+Maintain areas in which carpeting is to be installed at a temperature above
+ 16 degrees C
+ 60 degrees F
+ and below
+ 32 degrees C
+ 90 degrees F
+ for 2 days 
+before installation, during installation, and for 2 days after 
+installation.  Provide temporary ventilation during work of this section.  
+Maintain a minimum temperature of
+ 13 degrees C
+ 55 degrees F
+ thereafter for 
+the duration of the contract.
+1.6   
+WARRANTY
+Provide manufacturer's standard performance guarantees or warranties 
+including minimum ten year wear warranty, two year material and 
+workmanship and ten year tuft bind and delamination.
+PART 2   PRODUCTS
+2.1   
+CARPET
+**************************************************************************
+NOTE:  If more than one carpet type is required for 
+a project, use a separate paragraph for each carpet 
+type.  Designate each carpet type with a letter or 
+number symbol.  Use the same designations to key 
+carpets to locations on the drawings and in Section 
+09 06 00
+ SCHEDULES FOR FINISHES.
+ADA Requirements:  Carpet must be securely attached; 
+have a firm cushion, or backing, or no cushion; and 
+have a level loop, textured loop, level cut pile, or 
+level cut/uncut pile texture.  The maximum thickness 
+should be
+ 13 mm
+ 1/2 inch
+.  Fasten exposed edges of 
+carpet to floor surfaces and have trim along the 
+entire length of the exposed edge.
+Nylon fiber is typically abrasion resistant and 
+durable in all pile configurations using filament 
+fiber, has good stain removal characteristics, and 
+is recommended for commercial installations.
+Triexta (PTT) fiber is recommended for residential 
+installations.  Some PTT fiber made outside the US 
+can be used in commercial applications, but 
+specification of these products must comply with the 
+SECTION 09 68 00  Page 9
+CANCELLED
+
+
+Buy America Act when applicable.  Triexta is 
+marketed as offering excellent durability, 
+resiliency and crush resistance.  Permanent stain 
+resistance, bleach resistance and colorfastness 
+built into the fiber helps to make triexta carpets 
+easy to clean and can extend the life of the 
+carpet.  It is important to note that long term 
+performance of triexta fiber has not yet been 
+tested.  
+Polyethylene terephthalate (PET) recycled polyester 
+fiber has permanent fade resistance, is permanently 
+colorfast, has a permanent stain resistance which is 
+higher than other type fibers, is impervious to 
+harsh chemicals, and has the lowest static buildup.  
+PET type polyester carpet, once crushed under 
+continued high pressure, is less likely than nylon 
+carpet to rebound.  PET carpet is not recommended 
+for severe and moderate wear level areas and should 
+be limited to light wear areas.
+Wool is a natural fiber, which is inherently flame 
+resistant, forming a char that will neither melt nor 
+drip.  Wool is also rapidly renewable and resilient, 
+and due to the scaly character of its fiber it 
+scatters optical light, thus reducing soiling 
+visibility.  Wool is highly recommended for 
+shipboard use due to it being inherently flame 
+resistant.
+Wool, cotton, jute, hemp and sisal carpets may not 
+meet accepted performance requirements of commercial 
+carpet.  Verify suitability, availability and 
+adequate competition before specifying these 
+products.
+Flexible and modular components, like carpet tile, 
+reduce the labor and materials costs related to 
+operations and maintenance, churn, and future 
+renovations.
+Continuous dye process uses two to three times less 
+water than batch dyeing during manufacture.
+**************************************************************************
+Furnish first quality carpet that is free of visual blemishes, streaks, 
+poorly dyed areas, fuzzing of pile yarn, spots or stains, and other 
+physical and manufacturing defects.  Provide carpet materials and 
+treatments as reasonably nonallergenic and free of other recognized health 
+hazards.  Provide a static control construction on all grade carpets which 
+gives adequate durability and performance.  Submit manufacturer's catalog 
+data and printed documentation stating physical characteristics, 
+durability, resistance to fading, and flame resistance characteristics for 
+each type of carpet material and installation accessory.  Submit 
+manufacturer's Product Data for a.) Carpet, b.) Moldings, c.) Carpet 
+Cushion, and d.) Textile Composite Carpet.  Also, submit Samples of the 
+following:
+a.  Carpet:  [Two] [_____] "Production Quality" samples
+ 450 by 450 mm
+ 18 
+SECTION 09 68 00  Page 10
+CANCELLED
+
+
+by 18 inches
+ of each carpet proposed for use, showing quality, 
+pattern, and color specified
+b.  Moldings:  [Two] [_____] samples of each type minimum
+ 300 mm
+ 12 inches
+ 
+long
+c.  Carpet Cushion:  [Two] [_____] samples minimum
+ 150 by 150 mm
+ 6 by 6 
+inches
+ 
+[
+d.  Textile Composite Carpet:  [Two] [_____] samples minimum
+ 450 by 450 mm
+ 
+18 by 18 inches
+ 
+]
+2.1.1   
+Recycled Content
+**************************************************************************
+NOTE:  Use materials with recycled content where 
+appropriate for use. Verify suitability, 
+availability within the region, cost effectiveness 
+and adequate competition (including verification of 
+bracketed percentages included in this guide 
+specification) before specifying product recycled 
+content requirements. A resource that can be used to 
+identify products with recycled content is the 
+"Comprehensive Procurement Guidelines (CPG)" page 
+within the EPA's website at http://www.epa.gov. 
+Other products with recycled content are also 
+acceptable when meeting all requirements of this 
+specification.
+Research shows the product is available from US 
+national manufacturers above the minimum recycled 
+content percentages shown below.  Some manufacturers 
+and regions have higher percentages. Based on 
+research, insert desired minimum percentages into 
+the empty set of brackets.
+**************************************************************************
+Carpeting must contain a minimum of [20][40][_____] percent recycled 
+content.  Provide data identifying percentage of 
+recycled content for 
+carpeting
+[ and 
+recycled content for textile composite carpet
+].
+2.1.2   
+PFOS/PFOA Requirements
+Provide materials free from perfluorooctanesulfonic acid (PFOS) or 
+perfluorooctanoic acid (PFOA).
+2.1.3   
+Indoor Air Quality Requirements
+Products must meet emissions requirements of 
+CDPH SECTION 01350
+.  Provide 
+certification or validation of 
+indoor air quality for carpet
+[ 
+indoor air 
+quality for textile composite carpet
+].
+[
+2.1.4   
+Sustainable Product Certifications
+Submit 
+sustainable product certifications
+ per 
+NSF/ANSI 140
+. 
+SECTION 09 68 00  Page 11
+CANCELLED
+
+
+]
+2.1.5   
+Physical Characteristics for [Broadloom][Modular 
+Tile][Entrance][Textile Composite] Carpet
+**************************************************************************
+NOTE:  Copy this paragraph including subparagraphs 
+if more than one carpet is specified.  Designate 
+each carpet type with a letter or number symbol.  
+Use the same designations to key carpets to 
+locations on the drawings or in Section 
+09 06 00
+ 
+SCHEDULES FOR FINISHES.
+Terms such as "sheet carpet" may be used in the 
+industry for "broadloom carpet" and "textile 
+composite flooring" may be used in the industry for 
+"textile composite carpet."  Confirm differing 
+terminologies when editing and selecting carpeting 
+products.
+Terms such a "plank" or "tile" are subject to 
+available product formats from the manufacturers.  
+Sizes suggested in Part 2 are not exhaustive or 
+intended to exclude other sizes.
+**************************************************************************
+2.1.5.1   
+Carpet Construction
+[Tufted] [Woven] [Bonded] 
+[Needlebond] [Needle Felt] 
+[Composite] [_____]
+2.1.5.2   
+Type
+[Broadloom
+ carpet [3.6] [1.8] m
+ [12] [6] feet
+ minimum usable carpet width 
+[with exception of corridors] [and] [stairs] [_____].]
+[Modular carpet tile
+ 
+[450 by 450] [500 by 500] [600 by 600] [914 by 305] [1219 by 305] [_____] 
+mm square
+ [18 by 18] [20 by 20] [24 by 24] [36 by 12] [48 by 12] [_____] 
+inch square
+ with 0.15 percent growth/shrink rate in accordance with 
+ISO 2551
+.]
+  
+[Entrance
+ [450 by 450] [_____] mm
+ [18 by 18] [_____] inch
+ 
+square
+ [3.6] [1.8] m
+ [12] [6] feet
+ width [_____] mat size.]
+  [Modular tile 
+textile composite carpet of [knitted][molded] fabric on backer 
+[305 by 
+1219] [450 by 450] [610 by 610] [_____] mm
+[12 by 48] [18 by 36] [24 by 24] 
+[_____] inch
+] [Backed broadloom matching [modular carpet tile][modular 
+tile textile composite carpet] for use on[ stairs][ and ][ramps].][See 
+Section [
+09 69 13
+ RIGID GRID ACCESS FLOORING][ and ][
+09 69 19
+ STRINGERLESS 
+ACCESS FLOORING] for size required for a one to one alignment with raised 
+access floor panels.]
+2.1.5.3   
+Pile Type[s]
+[Level-loop] [Multilevel loop] [Cut and loop] [Frieze] [Cut pile] [Random 
+sheared] [Level tip shear] [Knitted fabric]
+2.1.5.4   
+Pile Fiber
+Commercial 100 percent branded (federally registered trademark) [nylon 
+continuous filament] [nylon staple] [wool with Woolmark certification] 
+[wool blend with Wool Bureau certification] [_____].
+2.1.5.5   
+Gauge or Pitch
+Minimum [_____]
+ mm
+ inch
+ in accordance with 
+ASTM D5793
+SECTION 09 68 00  Page 12
+CANCELLED
+
+
+2.1.5.6   
+Stitches or Rows/Wires
+Minimum [_____] per
+ square meter
+ square inch
+2.1.5.7   
+Surface Pile Weight
+Minimum [_____]
+ kg/square meter
+ ounces per square yard
+.  This does not 
+include weight of backings.  Determine weight in accordance with 
+ASTM D5848
+.
+2.1.5.8   
+Pile Thickness
+Minimum [_____]
+ mm
+ inch
+ in accordance with 
+ASTM D6859
+2.1.5.9   
+Pile Density
+**************************************************************************
+NOTE:  Pile Density = 36 x Pile Weight/Pile 
+Thickness.
+**************************************************************************
+Minimum [_____]
+2.1.5.10   
+Dye Method
+[Solution dyed] [Stock dyed] [Yarn (or Skein) dyed] [Piece dyed] [Space 
+dyed] [Continuous dyed]
+2.1.5.11   
+Backing Materials
+Provide primary backing materials like 
+[those customarily used and 
+accepted by the trade for each type of carpet] [polypropylene]
+ 
+[synthetic 
+material]
+ 
+ [rubber]
+ [jute] [cotton] [_____].  Provide secondary backing to 
+suit project requirements of those customarily used and accepted by the 
+trade for each type of carpet.
+2.1.5.12   
+Attached Cushion
+Provide an attached cushion [chemically frothed polyurethane with minimum 
+weight of
+ 0.610 kg/sq. m
+ 18 oz/sq. yard
+, minimum density of
+ 176 kg/cubic m
+ 
+11 lb/cubic foot
+] [mechanically frothed polyurethane with minimum weight of
+ 0.745 kg/sq. m
+ 22 oz/sq. yard
+, minimum density of
+ 224 kg/cubic m
+ 14 
+lb/cubic foot
+, minimum thickness of
+ 2.5 mm
+ 0.100 inch
+, and maximum 
+compression resistance of
+ 34.5 kPa
+ 5 psi
+, and compression set of 15 
+percent in accordance with 
+ASTM D3676
+].  Do not exceed the maximum ash 
+content of 50 percent when tested in accordance with 
+ASTM D297
+.  Pass the 
+accelerated aging test in accordance with [
+ASTM D3676
+] [
+ASTM D1667
+] for 
+the cushion.
+2.2   
+PERFORMANCE REQUIREMENTS
+2.2.1   
+Texture Appearance Retention Rating (TARR)
+**************************************************************************
+NOTE:  Use the chart below to identify the 
+recommended minimum use TARR traffic level 
+classification that corresponds to the end-use 
+application.  These classifications are based on 
+typical usage.  Use a higher classification if 
+SECTION 09 68 00  Page 13
+CANCELLED
+
+
+traffic exposure is expected to be greater than 
+usual.  Provide a TARR traffic level classification 
+for each carpet used on a project.
+END-USE CLASSIFICATION CHART
+  
+End-Use Application
+                   
+Minimum Use 
+                                       Classification
+BANKS/CREDIT UNIONS
+  Entrances and customer banking space        Severe
+  Open office space, private offices           Heavy
+BOWLING ALLEYS
+  Concourses (excluding food service,
+   working and storage areas)                 Severe
+CHAPELS AND OTHER RELIGIOUS FACILITIES
+  Educational wing, worship areas              Heavy
+CHILD CARE CENTERS
+  All areas                                   Severe
+CLUBS
+  All areas                                   Severe
+HOUSING
+  
+Single Family
+  Family rooms, living rooms, dining rooms     Heavy
+  Sleeping rooms                               Heavy
+  Combination living/sleeping rooms            Heavy
+  
+Multi-Family
+  Common areas (lobbies, lounges)             Severe
+  Corridors                                   Severe
+  Family rooms, living rooms, dining rooms     Heavy
+  Multi-purpose areas                         Severe
+  Sleeping rooms                               Heavy
+  Combination living/sleeping rooms            Heavy
+LABORATORY/RESEARCH FACILITIES
+  Computer work areas                         Severe
+  Closed private office                        Heavy
+  Open work areas, dry labs                   Severe
+LIBRARIES
+  Conference rooms, corridors                 Severe
+LODGING FACILITIES/DORMITORIES
+  Conference rooms                            Severe
+  Combination living/sleeping rooms           Severe
+  Dining facilities                           Severe
+  Offices                                      Heavy
+  Public areas(lobbies, lounges, TV rooms,
+   day rooms)                                 Severe
+  Sleeping rooms                               Heavy
+MEDICAL FACILITIES 
+(excluding patient treatment areas)
+  Assisted living areas, classrooms            Heavy
+  Chapels, consultation rooms                  Heavy
+SECTION 09 68 00  Page 14
+CANCELLED
+
+
+  Clinical waiting areas (outpatient,
+   pharmacy, ancillary zone only)             Severe
+  Corridors, dining areas, elevators          Severe
+  Entrance areas
+   (entry mats should be used)                Severe
+  Libraries                                    Heavy
+  Lobbies                                     Severe
+  Lounges                                      Heavy
+  Offices (private, semi-private)             Severe
+  Patient rooms                                Heavy
+  Playrooms (OB/GYN, Pediatric clinics)       Severe
+  Staff sleeping and watch areas               Heavy
+MILITARY HOUSING
+  
+Family Housing
+  Flag                                         Heavy
+  Single unit                                  Heavy
+  Multi-unit (corridors, sleeping/living 
+   rooms)                                      Heavy
+  Multi-unit (public areas, lobbies, lounges) Severe
+  
+Bachelor Officer Quarters
+  Sleeping/living rooms                        Heavy
+  Public areas (lobbies, lounges)             Severe
+  Dining Facilities                           Severe
+  Offices                                      Heavy
+  
+Bachelor Enlisted Quarters
+  Sleeping/living rooms                       Severe
+  Public areas (lobbies, lounges)             Severe
+  Dining Facilities                           Severe
+  Offices                                      Heavy
+MUSIC OR DRAMA CENTERS
+  All areas                                   Severe
+OFFICES (including administrative areas)
+  Closed private offices                       Heavy
+  Corridors                                   Severe
+  Conference rooms                             Heavy
+  Open plan office (circulation areas)        Severe
+  Open plan office (work areas)                Heavy
+RESTAURANTS (excluding work spaces)
+  Dining areas                                Severe
+  Cafeteria-type dining areas, enlisted 
+   canteens                                   Severe
+  Office areas                                 Heavy
+RETAIL STORES
+  Offices                                      Heavy
+  Restaurant and cafeteria dining areas       Severe
+  Sales areas                                 Severe
+THEATERS
+  All areas                                   Severe
+TRAINING BUILDINGS/EDUCATIONAL FACILITIES 
+(including dependents' schools)
+SECTION 09 68 00  Page 15
+CANCELLED
+
+
+  Classrooms, corridors                       Severe
+  Staff/administration offices                 Heavy
+YOUTH CENTERS
+  All areas                                   Severe
+**************************************************************************
+Provide carpet with a greater than or equal to [3.0 (Heavy)] [3.5 
+(Severe)] TARR traffic level classification in accordance with 
+ASTM D7330
+ 
+or 
+CRI Test Method 103
+.
+2.2.2   
+Static Control
+**************************************************************************
+NOTE:  Specify static control to meet project 
+requirements.  Installations for critical areas such 
+as computer rooms will use the 2.0 kV requirements.  
+Static protected carpets for most commercial 
+installations are normally rated at 3.5 kV.
+**************************************************************************
+Provide static control to permanently regulate static buildup to less than 
+[3.5] [2.0] [_____] kV when tested at 20 percent relative humidity and
+ 21 
+degrees C
+ 70 degrees F
+ in accordance with 
+AATCC 134
+.
+2.2.3   
+Flammability and Critical Radiant Flux Requirements
+**************************************************************************
+NOTE:  Choice of critical radiant flux level as it 
+applies to building type and area of application 
+will be made in accordance with the latest edition 
+of NFPA 101.  Wherever the use of Class II (0.22) 
+watts finish is required, Class I (0.45) watts will 
+be permitted.
+**************************************************************************
+Comply with 
+16 CFR 1630
+ or 
+ASTM D2859
+.  Provide carpet in corridors and 
+exits with a minimum average critical radiant flux of [0.22] [0.45] watts 
+per square centimeter when tested in accordance with 
+ASTM E648
+ or 
+NFPA 253
+.
+2.2.4   
+Tuft Bind
+Comply with 
+ASTM D1335
+ for tuft bind force required to pull a tuft or loop 
+free from carpet backing with a minimum [
+40 N 
+10 pound 
+average force for 
+loop pile broadloom] [
+18 N 
+3 pound 
+average force for cut pile broadloom] [
+36 N 
+8 pound 
+average force for modular carpet tile].
+2.2.5   
+Colorfastness to Crocking
+Comply dry and wet crocking with 
+AATCC 165
+ and with a Class 4 minimum 
+rating on the AATCC Color Transference Chart for all colors.
+2.2.6   
+Colorfastness to Light
+Comply colorfastness to light with 
+AATCC 16.1
+, Test Option E "Water-Cooled 
+Xenon-Arc Lamp, Continuous Light" and with a minimum 4 gray scale rating 
+after 40 hours.
+SECTION 09 68 00  Page 16
+CANCELLED
+
+
+2.2.7   
+Colorfastness to Water
+**************************************************************************
+NOTE:  Include this test when specifying carpet 
+constructed of yarn dyed fibers.
+**************************************************************************
+Comply colorfastness to water with 
+AATCC 107
+ and with a minimum 4.0 gray 
+scale rating and a minimum 4.0 transfer scale rating.
+2.2.8   
+Breaking Strength
+ASTM D2646
+ dry breaking strength, not less than 
+445 N
+100 lbf
+.
+2.2.9   
+Delamination Strength
+Provide delamination 
+ASTM D3936
+ strength for tufted carpet with a 
+secondary back of minimum
+ 615 N/m
+ 3.5 lbs/inch
+.
+[
+2.2.10   
+Noise Reduction Coefficient
+Provide noise reduction coefficient (NRC) of [_____] per 
+ASTM C423
+.
+]
+2.2.11   
+Antimicrobial
+**************************************************************************
+NOTE:  Include when required for a specific use such 
+as child care, dining facilities or hospitals.
+**************************************************************************
+Nontoxic antimicrobial treatment in accordance with 
+AATCC 174
+ Part I 
+(qualitative), guaranteed by the carpet manufacturer to last the life of 
+the carpet.
+2.3   
+CARPET CUSHION
+**************************************************************************
+NOTE:  Select the appropriate carpet cushion.
+Carpet such as modular tile carpet, modular tile 
+textile composite carpet, and broadloom versions of 
+modular carpet types are manufactured with integral 
+cushion backing. Confirm types when editing to 
+prevent unintentionally omitting padding or 
+duplicating padding under backed carpet.
+**************************************************************************
+[
+2.3.1   
+Fiber Cushion
+[Rubberized hair, mothproofed and sterilized] [Rubberized jute [with 
+minimum 40 percent recycled content], mothproofed and sterilized] 
+[Synthetic with minimum [___] percent recycled content] [Resinated, 
+recycled textile].  [Provide data identifying percentage of 
+recycled 
+content for fiber cushion
+.
+Products must meet emissions requirements of 
+CDPH SECTION 01350
+.  Provide 
+certification or validation of 
+indoor air quality for fiber cushion
+.]
+SECTION 09 68 00  Page 17
+CANCELLED
+
+
+2.3.1.1   
+Weight
+[_____] g/sq.m
+[_____] oz./sq. yd.
+2.3.1.2   
+Thickness
+[_____] mm
+[_____] inches
+ plus 5 percent maximum
+2.3.1.3   
+Density
+[_____] kg/cu.m
+[_____] lb/cu.ft.
+][
+2.3.2   
+Rubber Cushion
+[Flat][Rippled waffle][Textured flat][Reinforced][, with minimum 60 
+percent recycled content.  Provide data identifying percentage of 
+recycled 
+content for rubber cushion
+.
+Products must meet emissions requirements of 
+CDPH SECTION 01350
+.  Provide 
+certification or validation of 
+indoor air quality for rubber cushion
+.]
+2.3.2.1   
+Weight
+[_____] g/sq.m
+[_____] oz./sq. yd.
+2.3.2.2   
+Thickness
+[_____] mm
+[_____] inches
+ plus 5 percent maximum
+2.3.2.3   
+Compression Resistance
+[_____] kg/sq. mm
+[_____] lb/sq. in.
+ at [25][65] percent in accordance with 
+ASTM D3574
+.
+2.3.2.4   
+Density
+[_____] kg/cu.m
+[_____] lb/cu.ft.
+][
+2.3.3   
+Polyurethane-Foam Cushion
+[Grafted prime] [Densified] [Bonded] [Mechanically frothed] [, with 
+minimum 15 percent recycled content.  Provide data identifying percentage 
+of 
+recycled content for polyurethane-foam cushion
+.
+Products must meet emissions requirements of 
+CDPH SECTION 01350
+.  Provide 
+certification or validation of 
+indoor air quality for polyurethane-foam 
+cushion
+.]
+2.3.3.1   
+Compression Force Deflection at 65 Percent
+[_____] mm
+[_____] lb/sq.in.
+ of polymer density in accordance with 
+ASTM D3574
+2.3.3.2   
+Thickness
+[_____] mm
+[_____] inches
+ plus 5 percent maximum
+SECTION 09 68 00  Page 18
+CANCELLED
+
+
+2.3.3.3   
+Density
+[_____] kg/cu.m
+[_____] lb/cu.ft.
+]
+2.3.4   
+Performance Requirements - Critical Radiant Flux
+Provide carpet cushion in corridors and exits with a minimum average 
+critical radiant flux of [0.22][0.45] watts per square centimeter when 
+tested in accordance with 
+ASTM E648
+.
+2.4   
+ADHESIVES AND CONCRETE PRIMER
+Comply with applicable regulations regarding toxic and hazardous 
+materials.  Provide water resistant, mildew resistant, nonflammable, and 
+nonstaining adhesives and concrete primers for carpet installation as 
+required by the carpet manufacturer.  
+Provide release adhesive for modular 
+tile carpet as recommended by the carpet manufacturer.  Provide adhesives 
+flashpoint of minimum
+ 60 degrees C
+ 140 degrees F
+ in accordance with 
+ASTM D3278
+.
+  Non-aerosol adhesive products used on the interior of the 
+building (defined as inside of the weatherproofing system) must meet 
+either emissions requirements of 
+CDPH SECTION 01350
+ (limit requirements 
+for either office or classroom spaces regardless of space type) or VOC 
+content requirements of 
+SCAQMD Rule 1168
+.  Aerosol adhesive products used 
+on the interior of the building (defined as inside of the weatherproofing 
+system) must meet either emissions requirements of 
+CDPH SECTION 01350
+ 
+(limit requirements for either office or classroom spaces regardless of 
+space type) or VOC content requirements of 
+GS-36
+.  Provide validation of 
+indoor air quality for aerosol adhesives
+.  Provide validation of 
+indoor 
+air quality for non-aerosol adhesives
+.  Concrete primer products used on 
+the interior of the building (defined as inside of the weatherproofing 
+system) must meet either emissions requirements of 
+CDPH SECTION 01350
+ 
+(limit requirements for either office or classroom spaces regardless of 
+space type) or VOC content requirements of 
+SCAQMD Rule 1113
+.  Provide 
+validation of 
+indoor air quality for concrete primer
+.
+[
+2.5   
+MODULAR CARPET TILE CONNECTORS
+Provide carpet manufacturer's concealed modular carpet tile connectors 
+(adhesive tabs) to restrain modular carpet tiles in place in lieu of 
+adhesive between modular carpet tile and substrate.[  Where intended for 
+use over access flooring panels, confirm source of connectors by either 
+flooring panel or carpet tile manufacturer.  Provide coordinated layout 
+drawings of connectors, modular carpet tile joints, flooring panel joints, 
+and penetrating items through carpet tiles and flooring panels.]
+][
+2.6   
+ADHESIVE BACKING
+Provide adhesive backed modular tile with release paper for removal at 
+installation.
+]
+2.7   
+MOLDINGS
+Provide carpet moldings where floor covering material changes or carpet 
+edge does not abut a vertical surface.  Provide [a heavy-duty [vinyl] 
+[rubber] molding designed for the type of carpet being installed.  Provide 
+floor flange of a minimum
+ [38 mm]
+ [1 1/2 inches]
+ wide.  Provide [_____] 
+color to match [resilient base] [_____].] [an aluminum molding, pinless 
+clamp-down type, designed for the type of carpet being installed.  Provide 
+[natural color anodized] [prefinished color [_____] finish.  Provide a 
+SECTION 09 68 00  Page 19
+CANCELLED
+
+
+floor flange of a minimum
+ 38 mm
+ 1-1/2 inch
+ wide and face a minimum
+ 16 mm
+ 
+5/8 inch
+ wide.]]
+2.8   
+TAPE
+Provide tape for seams as recommended by the carpet manufacturer for the 
+type of seam used in broadloom installation.  
+Seam sealant must have a 
+maximum VOC content of no more than 50 grams/liter.  Do not use sealants 
+that contain 1,1,1-trichloroethane or toluene.
+2.9   
+COLOR, TEXTURE, AND PATTERN
+**************************************************************************
+NOTE: Coordinate editing of color reference 
+sentence(s) with the Government.  Generally the 
+Section 
+09 06 00
+ SCHEDULES FOR FINISHES or drawings 
+are used when the project is designed by an 
+Architect or Interior designer.  Select color from 
+manufacturer's standard colors or identified in this 
+specification only when the project has minimal 
+finishes.
+When the government directs that color be located in 
+the drawings, add a note that states:  "Where color 
+is shown as being specific to one manufacturer, an 
+equivalent color by another manufacturer may be 
+submitted for approval.  Manufacturers and materials 
+specified are not intended to limit the selection of 
+equal colors from other manufacturers.  The word 
+"color" as used herein includes surface color and 
+pattern."
+When more than one type, pattern or color is 
+specified identify location.
+When a manufacturer's name, stock number, pattern, 
+and color is specified for color, be certain that 
+the product conforms to the specification, as 
+edited. 
+**************************************************************************
+Provide color, texture, and pattern in accordance with [Section 
+09 06 00
+ 
+SCHEDULES FOR FINISHES] [the drawings] [_____].
+PART 3   EXECUTION
+3.1   
+SURFACE PREPARATION
+Do not install carpet on surfaces that are unsuitable and will prevent a 
+proper installation.  Prepare subfloor in accordance with flooring 
+manufacturer's recommended instructions.  Repair holes, cracks, 
+depressions, or rough areas using material recommended by the carpet or 
+adhesive manufacturer.  Free floor of any foreign materials and sweep 
+clean.  Before beginning work, test subfloor with glue and carpet to 
+determine "open time" and bond.  Submit [three] [_____] copies of the 
+manufacturer's printed Installation instructions for the carpet, including 
+Surface Preparation, seaming techniques, and recommended adhesives and 
+tapes.
+SECTION 09 68 00  Page 20
+CANCELLED
+
+
+3.2   
+MOISTURE AND ALKALINITY TESTS
+Test concrete slab for excessive moisture content and excessive alkalinity 
+in accordance with 
+CRI 104
+/
+CRI 105
+, 
+ASTM F1869
+, and 
+ASTM F2170
+.  Submit 
+[three] [_____] copies of reports of Moisture and Alkalinity Tests 
+including content of concrete slab stating date of test, person conducting 
+the test, and the area tested.  Perform tests for each [
+18.6 sq. m
+200 sq. 
+ft.
+][
+304.8 sq. m
+1000 sq. ft.
+].  Perform a minimum of three evenly spaced 
+tests of each installation area.  For anhydrous calcium chloride test, 
+confirm substrates have a moisture-vapor-emission rate less than [
+1.36 kg 
+of water/92.9 sq. m
+3 lb of water/1000 sq. ft.
+][_____].  For relative 
+humidity tests confirm substrate relative humidity levels are less than 
+[75][_____] percent.
+3.3   
+PREPARATION OF CONCRETE SUBFLOOR
+**************************************************************************
+NOTE:  Coordinate need for sealing of concrete slab 
+with project requirements such as wet conditions 
+which might occur in hospital care.
+**************************************************************************
+Do not commence installation of the carpeting until concrete substrate is 
+at least 90 days old.  Prepare the concrete surfaces in accordance with 
+the carpet manufacturer's instructions.  Match carpet, when required, and 
+adhesives to prevent off-gassing to a type of curing compounds, leveling 
+agents, and concrete sealer.
+3.4   
+INSTALLATION
+Isolate area of installation from rest of building.  
+Perform all work by 
+manufacturer's approved installers.  Conduct installation in accordance 
+with the manufacturer's printed instructions and 
+CRI 104
+/
+CRI 105
+.  Protect 
+edges of carpet meeting hard surface flooring with molding and install in 
+accordance with the molding manufacturer's printed instructions.  
+Use 
+autofoam mothproofing system for wool carpets.
+ Follow ventilation, 
+personal protection, and other safety precautions recommended by the 
+adhesive manufacturer.  Continue ventilation during installation and for 
+at least 72 hours following installation.  Do not permit traffic or 
+movement of furniture or equipment in carpeted area for 24 hours after 
+installation.  Complete other work which would damage the carpet prior to 
+installation of carpet.  Submit [three] [_____] copies of 
+Installation 
+Drawings
+ for 1) Carpet, 2) Carpet Cushion, and 3) Moldings indicating 
+areas receiving carpet, carpet types, patterns, direction of pile, 
+location of seams, and locations of edge molding.
+Do not install building construction materials that show visual evidence 
+of biological growth.
+3.4.1   
+Broadloom Installation
+Install broadloom carpet [direct glue down] [pre-applied adhesive glue 
+down] smooth, uniform, and secure, with a minimum of seams.  Apply 
+regular, unnoticeable, and treated seams with a seam adhesive.  Run side 
+seams toward the light, where practical, and where such layout does not 
+increase the number of seams.  Install breadths parallel, with carpet pile 
+in the same direction.  Match patterns accurately.  Neatly cut and fit 
+cutouts, at door jambs, columns and ducts securely.  Locate seams at 
+doorways parallel to and centered directly under doors.  Do not make seams 
+SECTION 09 68 00  Page 21
+CANCELLED
+
+
+perpendicular to doors or at pivot points.  Provide seams at changes in 
+directions of corridors to follow the wall line parallel to the carpet 
+direction.  Lay the carpet lengthwise down the corridors with widths less 
+than
+ 1.8 m
+ 6 feet
+.
+3.4.2   
+Modular Tile Installation
+Install modular tiles with [releasable] [manufacturer's adhesive tab 
+system] [permanent vinyl-compatible] [self-adhering] [_____] adhesive and 
+snug joints.  Use [monolithic] [1/4 turn] [ashlar] [brick] [herringbone] 
+[random] [_____] installation method.  Comply with manufacturer 
+installation instructions for required drying time of releasable adhesive 
+so it sets up properly.  Provide accessibility to the subfloor where 
+required.  Modular carpet tile on stairs and sloped surfaces must be 
+installed with a more permanent installation method in accordance with the 
+manufacturer's instructions and with manufacturer recommended adhesives 
+for this application.  Install broadloom version of modular tile when 
+available from the same manufacturer for use on stairs and sloped 
+surfaces.  [See Section [
+09 69 13
+ RIGID GRID ACCESS FLOORING][ and ][
+09 69 19
+ STRINGERLESS ACCESS FLOORING] for installation method of modular 
+carpet tile on access flooring.]
+3.4.3   
+Entrance Carpet Installation
+[Install tiles with [permanent vinyl-compatible] [releasable] adhesive and 
+snug joints.  Use [monolithic] [1/4 turn] [ashlar] [brick] [random] 
+installation method.]  [Install roll goods [direct glue down] [pre-applied 
+adhesive glue down] and smooth, uniform, and secure, with a minimum of 
+seams.  Prepare regular, unnoticeable, and treated seams with a seam 
+adhesive.  Install breadths parallel, with carpet pile in the same 
+direction.  Match patterns accurately.  Neatly cut and fit, securely, 
+cutouts at door jambs, columns, and ducts.  Locate seams at doorways 
+parallel to and centered directly under doors.  Do not make seams 
+perpendicular to doors or at pivot points.]  [Cut mats to specified size 
+and finish them with a tapered vinyl edge that is glued and sewn on.]
+[
+3.4.4   
+Stretch-in Installation
+**************************************************************************
+NOTE:  Installation with tack strips (stretch in 
+method) over cushion can avoid potential adhesive 
+interaction with carpet backing.  It is appropriate 
+for residential and hospitality settings, in which 
+rooms are relatively small and separate cushion is 
+used; but not feasible in large, open spaces.
+**************************************************************************
+Provide carpet tack strips wherever carpeting abuts vertical surfaces.  
+Install tackless carpet stripping by nailing.  Place carpet cushion 
+face-up, as recommended by cushion manufacturer, over entire floor area to 
+be carpeted with joints butted.  Do not use adhesives to attach carpet, 
+cushion, or substrate.  Comply with carpet manufacturer's instructions for 
+installation.  Attach rubber or metal edge strip to substrate with 
+adhesive for transition when carpet meets other flooring materials or to 
+finish carpet edge when required.
+]
+3.5   
+CLEANING AND PROTECTION
+Submit [three] [_____] copies of carpet manufacturer's maintenance 
+SECTION 09 68 00  Page 22
+CANCELLED
+
+
+instructions describing recommended type of cleaning equipment and 
+material, spotting and cleaning methods, and cleaning cycles.
+3.5.1   
+Cleaning
+As specified in Section 
+01 78 00
+ CLOSEOUT SUBMITTALS.  After installation 
+of the carpet, remove debris, scraps, and other foreign matter.  Remove 
+soiled spots and adhesive from the face of the carpet with appropriate 
+spot remover.  Cut off and remove protruding face yarn.  Vacuum carpet 
+clean
+ with a high-efficiency particulate air (HEPA) filtration vacuum
+.
+3.5.2   
+Protection
+Protect the installed carpet from soiling and damage with heavy, 
+reinforced, nonstaining kraft paper, plywood, or hardboard sheets.  Lap 
+and secure edges of kraft paper protection to provide a continuous cover.  
+Restrict traffic for at least 48 hours.  Remove protective covering when 
+directed by the Contracting Officer.
+3.6   
+REMNANTS
+Manage waste as specified in the Waste Management Plan.  [Provide remnants 
+remaining from the installation, consisting of scrap pieces more than
+ 600 
+mm
+ 2 feet
+ in dimension with more than
+ 0.6 square meters
+ 6 square feet
+ 
+total [to the Government] [to local non-profit such as Habitat for 
+Humanity as directed by the Government]].  [Set aside and return 
+non-retained scraps to manufacturer for recycling into new product] 
+[Remove non-retained scraps from site and recycle appropriately].
+3.7   
+MAINTENANCE
+3.7.1   
+Extra Materials
+Provide extra material from same dye lot consisting of 
+[full width 
+continuous broadloom][, ]
+[and][ uncut modular carpet tiles][, ][and ][
+textile composite carpet]
+ for future maintenance.  Provide a minimum of 
+[three] [_____] percent of total
+ square meters
+ square yards
+ of each carpet 
+type, pattern, and color.  [Furnish [three] [____] percent extra of total 
+adhesive tabs.]
+3.7.2   
+Maintenance Service
+**************************************************************************
+NOTE:  Maintenance agreements are standard practice 
+in the building industry.  Under a green lease, when 
+the customer no longer requires the use of the 
+particular product or requires an updated model, the 
+manufacturer is obligated to reclaim it and 
+refurbish it or disassemble it for recycling as 
+appropriate.
+**************************************************************************
+Collect information from the manufacturer about [maintenance agreement] 
+[green lease] options, and submit to Contracting Officer.  Service must 
+reclaim materials for recycling and/or reuse.  Service must not landfill 
+or burn reclaimed materials.  When such a service is not available, seek 
+local recyclers to reclaim the materials.  Submit documentation of 
+manufacturer's [maintenance agreement] [take-back program] [green lease] 
+for carpet.  Include contact information, summary of procedures, and the 
+SECTION 09 68 00  Page 23
+CANCELLED
+
+
+limitations and conditions applicable to the project.  Indicate 
+manufacturer's commitment to reclaim materials for recycling and reuse.
+        -- End of Section --
+SECTION 09 68 00  Page 24
+CANCELLED

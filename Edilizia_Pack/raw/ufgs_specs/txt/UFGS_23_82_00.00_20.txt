@@ -1,0 +1,1071 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-23 82 00.00 20 (February 2016)
+Change 1 - 08/18
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-23 82 00.00 20 (November 2008)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 23 - HEATING, VENTILATING, AND AIR CONDITIONING (HVAC)
+SECTION 23 82 00.00 20
+TERMINAL HEATING UNITS
+02/16, CHG 1: 08/18
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   RELATED REQUIREMENTS
+  1.3   SUBMITTALS
+PART 2   PRODUCTS
+  2.1   UNIT HEATERS
+    2.1.1   Gas-Fired Unit Heater
+      2.1.1.1   Casing
+      2.1.1.2   Heat Exchanger
+      2.1.1.3   Burners
+      2.1.1.4   Draft Diverter
+      2.1.1.5   Controls
+      2.1.1.6   Efficiency
+      2.1.1.7   Accessories
+    2.1.2   Oil-Fired Unit Heater
+      2.1.2.1   Casing
+      2.1.2.2   Heat Exchanger
+      2.1.2.3   Burner
+      2.1.2.4   Controls
+      2.1.2.5   Accessories
+      2.1.2.6   Efficiency
+    2.1.3   [Steam] [or] [Hot-Water] Unit Heater
+      2.1.3.1   Casing
+      2.1.3.2   Coil
+      2.1.3.3   Controls
+    2.1.4   Electric Unit Heater
+      2.1.4.1   Casing
+      2.1.4.2   Heating Element
+      2.1.4.3   Controls
+      2.1.4.4   Wiring
+      2.1.4.5   Accessories
+SECTION 23 82 00.00 20  Page 1
+CANCELLED
+
+
+  2.2   INFRARED HEATERS
+    2.2.1   Sheet Metal
+    2.2.2   Unvented Gas Infrared Heater
+      2.2.2.1   Heating Element
+      2.2.2.2   Reflector
+      2.2.2.3   Controls
+      2.2.2.4   Ventilation
+    2.2.3   Vented Gas Infrared Heater
+      2.2.3.1   Vent
+      2.2.3.2   Reflector
+      2.2.3.3   Heat Exchanger and Combustion Chamber
+      2.2.3.4   Controls
+      2.2.3.5   Fan or Vacuum Pump
+      2.2.3.6   Performance
+    2.2.4   Electric Infrared Heater
+      2.2.4.1   Heating Element
+      2.2.4.2   Heater Housing
+      2.2.4.3   Reflector
+      2.2.4.4   Wiring
+      2.2.4.5   Accessories
+  2.3   FAN
+  2.4   MOTOR AND STARTER
+  2.5   SEISMIC BRACINGS
+  2.6   GAS PIPING SYSTEM AND FLUE VENT
+  2.7   FUEL OIL [TANK] AND PIPING SYSTEM
+  2.8   HOT WATER PIPING SYSTEM
+  2.9   STEAM AND CONDENSATE PIPING SYSTEM
+  2.10   SOURCE QUALITY CONTROL
+PART 3   EXECUTION
+  3.1   INSTALLATION
+    3.1.1   Suspensions of Equipment
+    3.1.2   Vents
+    3.1.3   Electrical Work
+  3.2   FIELD QUALITY CONTROL
+    3.2.1   Test Instruments and Apparatus
+    3.2.2   Field Inspection
+    3.2.3   Field Tests
+      3.2.3.1   Fuel Piping Pressure Tests
+      3.2.3.2   Fire Tests for Nonelectrical Heating Equipment
+      3.2.3.3   Insulation-Resistance Tests for Electrical Equipment
+      3.2.3.4   Operational Tests
+  3.3   SCHEDULE
+-- End of Section Table of Contents --
+SECTION 23 82 00.00 20  Page 2
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-23 82 00.00 20 (February 2016)
+Change 1 - 08/18
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-23 82 00.00 20 (November 2008)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 23 82 00.00 20
+TERMINAL HEATING UNITS
+02/16, CHG 1: 08/18
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for unit heaters and infrared heaters.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+PART 1   GENERAL
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification. The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+SECTION 23 82 00.00 20  Page 3
+CANCELLED
+
+
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI)
+ANSI Z83.8/CSA 2.6
+(2016; R 2021) Gas Unit Heaters, Gas 
+Packaged Heaters, Gas Utility Heaters, and 
+Gas-Fired Duct Furnaces
+ANSI Z83.19/CSA 2.35
+(2017; R 2022) Gas-Fired High-Intensity 
+Infrared Heaters
+AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING 
+ENGINEERS (ASHRAE)
+ASHRAE 33
+(2016) Method of Testing Forced 
+Circulation Air Cooling and Air Heating 
+Coils
+ASTM INTERNATIONAL (ASTM)
+ASTM A109/A109M
+(2025) Standard Specification for Steel, 
+Strip, Carbon (0.25 Maximum Percent), 
+Cold-Rolled
+ASTM A123/A123M
+(2024) Standard Specification for Zinc 
+(Hot-Dip Galvanized) Coatings on Iron and 
+Steel Products
+ASTM A240/A240M
+(2025a) Standard Specification for 
+Chromium and Chromium-Nickel Stainless 
+Steel Plate, Sheet, and Strip for Pressure 
+Vessels and for General Applications
+ASTM A463/A463M
+(2025b) Standard Specification for Steel 
+Sheet, Aluminum-Coated, by the Hot-Dip 
+Process
+ASTM A653/A653M
+(2025a) Standard Specification for Steel 
+Sheet, Zinc-Coated (Galvanized) or 
+Zinc-Iron Alloy-Coated (Galvannealed) by 
+the Hot-Dip Process
+ASTM A1011/A1011M
+(2025) Standard Specification for Steel, 
+Sheet and Strip, Hot-Rolled, Carbon, 
+Structural, High-Strength Low-Alloy, 
+High-Strength Low-Alloy with Improved 
+Formability, and Ultra-High-Strength
+ASTM B117
+(2025) Standard Practice for Operating 
+Salt Spray (Fog) Apparatus
+SECTION 23 82 00.00 20  Page 4
+CANCELLED
+
+
+ASTM B209
+(2014) Standard Specification for Aluminum 
+and Aluminum-Alloy Sheet and Plate
+ASTM B209M
+(2014) Standard Specification for Aluminum 
+and Aluminum-Alloy Sheet and Plate (Metric)
+ASTM D1654
+(2008; R 2016; E 2017) Standard Test 
+Method for Evaluation of Painted or Coated 
+Specimens Subjected to Corrosive 
+Environments
+NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION (NEMA)
+NEMA ICS 2
+(2000; R 2020) Industrial Control and 
+Systems Controllers, Contactors, and 
+Overload Relays Rated 600 V
+NEMA ICS 6
+(1993; R 2016) Industrial Control and 
+Systems:  Enclosures
+NEMA MG 00001
+(2024) Motors and Generators
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+NFPA 54
+(2024) National Fuel Gas Code
+NFPA 70
+(2026; TIA 26-1; ERTA 26-1;  TIA 26-2; TIA 
+26-3; TIA 26-4; TIA 26-5; TIA 26-6; TIA 
+26-7; ERTA 26-2; ERTA 26-3) National 
+Electrical Code
+NFPA 90A
+(2024) Standard for the Installation of 
+Air Conditioning and Ventilating Systems
+NFPA 90B
+(2024) Standard for the Installation of 
+Warm Air Heating and Air Conditioning 
+Systems
+NFPA 91
+(2026) Standard for Exhaust Systems for 
+Air Conveying of Vapors, Gases, Mists and 
+Noncombustible Particulate Solids
+NFPA 211
+(2019) Standard for Chimneys, Fireplaces, 
+Vents, and Solid Fuel-Burning Appliances
+UL SOLUTIONS (UL)
+UL 441
+(2016; Reprint Apr 2024) UL Standard for 
+Safety Gas Vents
+UL 731
+(2018; Reprint Nov 2021) UL Standard for 
+Safety Oil-Fired Unit Heaters
+1.2   
+RELATED REQUIREMENTS
+Section 
+23 03 00
+ BASIC MECHANICAL MATERIALS AND METHODS, applies to this 
+section with additions and modifications specified herein.
+SECTION 23 82 00.00 20  Page 5
+CANCELLED
+
+
+1.3   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a "G" to an item 
+if the submittal is sufficiently important or 
+complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-03 Product Data
+Unit Heaters
+Infrared Heaters
+SD-10 Operation and Maintenance Data
+Unit Heaters
+, Data Package 2
+Infrared Heaters
+, Data Package 2
+  Submit in accordance with Section 
+01 78 23
+ OPERATION AND 
+MAINTENANCE DATA.
+SECTION 23 82 00.00 20  Page 6
+CANCELLED
+
+
+PART 2   PRODUCTS
+**************************************************************************
+NOTE:  In order to comply with UFC 1-200-02, designs 
+must achieve energy consumption levels that are at 
+least 30 percent below the baseline established in 
+the 2010 publication of ASHRAE 90.1.  The Designer 
+of Record must design heating and cooling systems 
+that assist in achieving this requirement.
+**************************************************************************
+2.1   
+UNIT HEATERS
+Self-contained and factory assembled, [propeller] [or] [centrifugal] fan 
+with capacities expressed as Btu per hour output and cubic foot-per-minute 
+air delivery, operating conditions, and mounting arrangements as 
+indicated. Average fan bearing life must be minimum 200,000 hours at 
+operating conditions.  Provide fan motor with [direct] [or] [belt] drive.  
+Construct fan-guard motor mount of steel wire.  Equip each heater with 
+individually adjustable package discharge louver.  Louvers may be 
+substituted by discharge cones or diffusers.  Provide thermostats [as 
+indicated].  Furnish circuit breaker disconnect switch.
+2.1.1   
+Gas-Fired Unit Heater
+ANSI Z83.8/CSA 2.6
+ and AGA label.
+2.1.1.1   
+Casing
+Minimum [22] [_____] gage [steel] [or] [aluminum].  Provide removable 
+access panels.
+2.1.1.2   
+Heat Exchanger
+Minimum [20] [_____] gage all-welded steel construction with 
+corrosion-resistant aluminum finish.
+2.1.1.3   
+Burners
+Die-formed, slot ports, and steel construction with aluminum paint.
+2.1.1.4   
+Draft Diverter
+All-welded steel construction and an integral part of each heat exchanger 
+section.  Allows backdrafts to bypass burner assembly without affecting 
+normal operation.
+2.1.1.5   
+Controls
+Consisting of a combination pressure regulator, [two-stage gas valve in 
+100 percent and [55] [_____] percent of full rating,] main shutoff valve, 
+pilot cock, pilot safety switch for 100 percent shutoff, high temperature 
+limit switch, and time-delay fan switch.  Include power and control 
+connections in an integral junction box.
+2.1.1.6   
+Efficiency
+Unit heater must have a minimum combustion efficiency of 80 percent when 
+tested in accordance with 
+ANSI Z83.8/CSA 2.6
+.
+SECTION 23 82 00.00 20  Page 7
+CANCELLED
+
+
+[
+2.1.1.7   
+Accessories
+**************************************************************************
+NOTE:  Do not acquire propane-gas conversion kit for 
+project locations where it is not cost effective to 
+use propane gas as fuel.  Delete this paragraph if 
+not required.
+**************************************************************************
+Provide [propane-gas conversion kit] [automatic electric pilot recognition 
+kit].
+]
+2.1.2   
+Oil-Fired Unit Heater
+UL 731
+ and UL labeled.
+2.1.2.1   
+Casing
+Minimum [22] [_____] gage [aluminum] [or] [[enamel] [or] [vinyl] coated 
+steel].  Provide removable access door.
+2.1.2.2   
+Heat Exchanger
+Minimum 16 gage primary combustion chamber constructed of [perlite-clad 
+steel] [, aluminum-clad steel] [, or] [400 series stainless steel]; 
+minimum 14 gage secondary heating section composed of aluminized, mild, or 
+hot-rolled steel.  Provide a flame observation port on the burner side of 
+the heater.
+2.1.2.3   
+Burner
+Provide pressure oil-atomizing burner with mechanically forced draft, 
+suitable for fuel oil No. 2.  Provide two-stage oil pump.  Equip burner 
+motor with a combustion air damper.
+2.1.2.4   
+Controls
+Include fan and limit switch, low voltage (24-volt) transformer, 
+electronic flame safeguard with flame safety relay, and electric spark 
+ignition.
+2.1.2.5   
+Accessories
+Provide [power exhauster,] oil filter, oil pressure regulator, and 
+barometric damper.
+2.1.2.6   
+Efficiency
+Unit heater must have a minimum combustion efficiency of 80 percent when 
+tested in accordance with 
+UL 731
+.
+2.1.3   
+[Steam] [or] [Hot-Water] Unit Heater
+ASHRAE 33
+ tested for heating coils; UL listed for motor and controls.
+2.1.3.1   
+Casing
+Minimum [20] [_____] gage [steel] [or] [aluminum] with removable access 
+SECTION 23 82 00.00 20  Page 8
+CANCELLED
+
+
+panels or means to remove, service, and maintain major components.
+2.1.3.2   
+Coil
+**************************************************************************
+NOTE:  Use copper for maximum
+ 517 kPa (gage)
+ 75 psig
+ 
+steam or maximum
+ 163 degrees C
+ 325 degrees F
+ hot 
+water at
+ 1379 kPa (gage)
+ 200 psig
+, red brass for 
+maximum
+ 1379 kPa (gage)
+ 200 psig
+ steam or
+ 218 
+degrees C
+ 425 degrees F
+ hot water at
+ 2068 kPa (gage)
+ 
+300 psig
+, copper nickel for maximum
+ 2758 kPa (gage)
+ 
+400 psig
+ steam or maximum
+ 232 degrees C
+ 450 degrees F
+ at
+ 4136 kPa (gage)
+ 600 psig
+, and steel for maximum
+ 
+232 degrees C
+ 450 degrees F
+ hot water at
+ 4136 kPa 
+(gage)
+ 600 psig
+.
+**************************************************************************
+Fin-and-tube coil constructed of [copper,] [red brass,] [90-10 copper 
+nickel,] [or ] [steel] tubes and [copper] [or] [aluminum] fins.  Use 
+maximum design pressure of [steam at [_____]
+ kilopascal (kpa (gage))
+ 
+pounds per square inch gage (psig)
+] [and] [hot water at [_____]
+ kpa (gage)
+ 
+psig
+ and [_____] degrees
+ C
+ F
+].
+2.1.3.3   
+Controls
+[Automatic controls of [modulating] [on-off-auto] [or] [combination of 
+modulating and on-off-auto] system] [As indicated].  [Provide a 
+three-position selector switch.]
+2.1.4   
+Electric Unit Heater
+**************************************************************************
+NOTE:  Check if Section 
+23 83 00.00 20
+ ELECTRIC 
+SPACE HEATING EQUIPMENT covers electric unit heater. 
+Recommend to cover unit heaters exclusively in this 
+section.  Avoid redundant statement.
+**************************************************************************
+UL listed; wattage, voltage, phase, and number of steps as indicated. 
+Provide control-circuit terminals and single source of power supply. 
+Heater 5 Kw and larger must be three-phase, with load balanced on each of 
+the three phases.  Limit leaving air temperature below
+ 60 degrees C at 
+15.5 degrees C
+ 140 degrees F at 60 degrees F
+ entering air.
+2.1.4.1   
+Casing
+Minimum [21] [_____] gage steel.
+2.1.4.2   
+Heating Element
+Nickel-chromium heating wire element, free from expansion noise and 60 Hz 
+hum.  Embed element in magnesium-oxide insulating refractory.  Seal 
+element in high-mass steel or corrosion-resisting metallic sheath with 
+fins. Enclose element ends in terminal box.  Space fins at maximum six 
+fins per inch.  Limit fin surface temperature
+ 288 degrees C
+ 550 degrees F
+at any point during normal operation.
+SECTION 23 82 00.00 20  Page 9
+CANCELLED
+
+
+2.1.4.3   
+Controls
+Include limit controls for thermal overheat protection of heaters.  For 
+remote thermostatic operation, provide contactor rated for 100,000 duty 
+cycles.  [Provide a control transformer to supply 120-volt thermostat 
+control circuit for each heater.]  Provide room thermostat for pilot duty.
+2.1.4.4   
+Wiring
+Completely factory-prewired to terminal strips, ready to receive branch 
+circuit and control connections for
+ 60 degrees C
+ 140 degrees F
+ [copper] 
+[or] [aluminum] wiring.
+[
+2.1.4.5   
+Accessories
+**************************************************************************
+NOTE:  These accessories are not integral components 
+of electric unit heater.  Delete this paragraph if 
+not required.
+**************************************************************************
+Provide fan switching devices to independently operate fan motor for 
+summer ventilation and winter heat recovery.
+]
+2.2   
+INFRARED HEATERS
+**************************************************************************
+NOTE:  Check if Section 
+23 83 00.00 20
+ ELECTRIC 
+SPACE HEATING EQUIPMENT covers electric unit heater. 
+Recommend to cover unit heaters exclusively in this 
+section.  Avoid redundant statement.
+**************************************************************************
+[Reflector-beam spread] [and] operating conditions as indicated.  Provide 
+pre-wired control boxes, thermostats, and reflector [and duct] hangers.
+2.2.1   
+Sheet Metal
+[
+a.  Aluminum-Clad Steel:  
+ASTM A463/A463M
+, nominal thickness of minimum 16 
+gage for radiant tubing between burners and vacuum pump or vent.
+][
+b.  Aluminum: 
+ 
+ASTM B209M
+ 
+ASTM B209
+, manufacturer's standard thickness.
+][
+c.  Stainless Steel:  
+ASTM A240/A240M
+, nominal thickness of not less than 
+20 gage.
+][
+d.  [Ceramic-Coated] [Enamel-Coated] Steel:  
+ASTM A1011/A1011M
+ hot rolled 
+or
+ASTM A109/A109M
+ cold rolled, low-carbon steel.  Provide coating able 
+to withstand infrared heater operating temperatures.
+]
+2.2.2   
+Unvented Gas Infrared Heater
+**************************************************************************
+NOTE:  Use only if adequate ventilation ensured for 
+the project location.
+**************************************************************************
+ANSI Z83.19/CSA 2.35
+ and AGA approved.
+SECTION 23 82 00.00 20  Page 10
+CANCELLED
+
+
+2.2.2.1   
+Heating Element
+Perforated ceramic capable of withstanding thermal shock in [3] [_____] 
+minutes from
+ 1093 to 0 degrees C
+ 2000 to 32 degrees F
+ without fatigue and 
+of minimum
+ 871 degrees C
+ 1600 degrees F
+ operating temperature.  When 
+re-radiating screens are used to obtain operating temperature, provide 
+[stainless-steel] [or] [chromized-steel] matching screen.
+2.2.2.2   
+Reflector
+[Polished [aluminum] [stainless steel]] [or] [approved high infrared 
+reflector materials].  Provide reflector supports of manufacturer's 
+standard.
+2.2.2.3   
+Controls
+Provide either an intermittent pilot ignition system or a solid-state 
+direct ignition system.  Provide automatic gas safety valve capable of 
+withstanding a 10 percent voltage fluctuation.
+2.2.2.4   
+Ventilation
+Section 
+23 30 00
+ HVAC AIR DISTRIBUTION.
+2.2.3   
+Vented Gas Infrared Heater
+**************************************************************************
+NOTE:  For spot heating, use single-burner power 
+vented heater; for small area heating, uses 
+single-burner vacuum vented heater; and for large 
+area or entire building heating, use multiple-burner 
+vacuum vented heater.
+**************************************************************************
+ANSI Z83.19/CSA 2.35
+ with AGA label, [single-burner power vented] 
+[single-burner vacuum vented] [or] [multiple-burner vacuum vented].
+2.2.3.1   
+Vent
+NFPA 54
+ and 
+NFPA 211
+, [Type 316 stainless steel] [or] [high-temperature 
+corrosion-resistant plastic rated for minimum
+ 204 degrees C
+ 400 degrees F
+].  Vent flue gas to outdoors by induced draft.
+2.2.3.2   
+Reflector
+[Polished [aluminum] [stainless steel]] [or] [approved high infrared 
+reflector materials].  Provide manufacturer's standard reflector supports.
+2.2.3.3   
+Heat Exchanger and Combustion Chamber
+Construct heat exchanger and combustion chamber of [aluminum-clad steel] 
+[ceramic-coated steel] [or] stainless steel.
+2.2.3.4   
+Controls
+Incorporate either an intermittent pilot ignition system or a solid-state 
+direct ignition system.  Provide safety air-flow switch for each burner.
+SECTION 23 82 00.00 20  Page 11
+CANCELLED
+
+
+2.2.3.5   
+Fan or Vacuum Pump
+Heater manufacturer's standard.
+2.2.3.6   
+Performance
+**************************************************************************
+NOTE:  Performance Criteria are:
+Minimum Steady 
+State Thermal 
+Efficiency 
+(Percent)
+Maximum Heat 
+Release (kJ Per 
+Square Meter of 
+Heating Surface
+Single-Burner Power Vented Heater
+80
+31,350
+Single-Burner Vacuum Vented Heater
+80
+33,060
+Multiple-Burner Vacuum Vented 
+Heater
+85
+23,940
+Minimum Steady 
+State Thermal 
+Efficiency 
+(Percent)
+Maximum Heat 
+Release (BTU Per 
+Square Meter of 
+Heating Surface
+Single-Burner Power Vented Heater
+80
+2,750
+Single-Burner Vacuum Vented Heater
+80
+2,900
+Multiple-Burner Vacuum Vented 
+Heater
+85
+2,100
+**************************************************************************
+Provide sufficient radiant heating surface to attain a minimum 
+steady-state thermal efficiency of [80] [85] percent and a maximum heat 
+release of
+ [31,350] [33,060] [23.940] kJ per square meter
+ [2,750] [2,900] 
+[2,100] Btu per square foot
+.
+2.2.4   
+Electric Infrared Heater
+**************************************************************************
+NOTE:  Check if Section 
+23 83 00.00 20
+ ELECTRIC 
+SPACE HEATING EQUIPMENT covers electric unit heater. 
+Recommend to cover unit heaters exclusively in this 
+section.  Avoid redundant statement.
+**************************************************************************
+Self-contained, factory assembled, and UL listed and including the heating 
+element, reflector, heater housing, mounting brackets, element holders, 
+wire guards, and high-temperature internal wiring.
+SECTION 23 82 00.00 20  Page 12
+CANCELLED
+
+
+2.2.4.1   
+Heating Element
+Minimum
+ 9 1/2 mm
+ 3/8 inch
+ diameter quartz tube or metal sheath with coiled 
+resistor wire.  Element operating temperature range must be
+ 649 to 982 
+degrees C
+ 1200 to 1800 degrees F
+.
+2.2.4.2   
+Heater Housing
+[Weatherproof] [aluminum-clad steel] [stainless-steel] [aluminum] [or] 
+[low-carbon steel] construction.  Provide a baked enamel finish over a 
+corrosion-resistant primer.  Provide a chrome-plated or stainless-steel 
+wire guard to prevent heating elements from accidental damage.  Furnish 
+swivel brackets to position heater in any horizontal angle.
+2.2.4.3   
+Reflector
+Polished [aluminum] [or] [stainless steel].
+2.2.4.4   
+Wiring
+Fully enclosed internal wiring.  Provide minimum
+ 152 mm
+ 6 inch
+ slack 
+fixture (heater) wire for connection to branch circuit wiring.
+[
+2.2.4.5   
+Accessories
+**************************************************************************
+NOTE:  Electric-clock controller is an input 
+controller provided separately as an optional 
+addition to unit heaters.  Delete this paragraph if 
+not required.
+**************************************************************************
+Provide electric-clock controller with self-starting synchronous motors 
+and snap acting switch, rated for 125 percent of the load which it 
+controls. Provide a 30-second time cycle with an infinitely adjustable 
+"on-off" period each cycle.  Equip controller with external indicating 
+knob for manual adjustment from zero to 100 percent.  If surface mounted, 
+furnish steel enclosure with a baked enamel finish over a 
+corrosion-resistant primer.  If flush mounted, furnish galvanized steel 
+enclosure with knockouts for conduit in bottom and sides.  Provide a 
+connection wiring diagram on the inside cover of the enclosure.  Where 
+loads exceed the maximum available rating of controller, provide high 
+duty-cycle contactors serving as pilot devices.
+]
+2.3   
+FAN
+Provide [steel] [or] [aluminum] fans with ball or roller bearings for 
+motors over
+ 0.09 kW
+ 1/8 horsepower (hp)
+ and sleeve bearings for motors
+ 
+0.09 kW
+ 1/8 hp
+ and under.  Provide sleeve bearings with oil reservoir, if 
+not permanently lubricated.
+2.4   
+MOTOR AND STARTER
+**************************************************************************
+NOTE:  The motor control requirements should be 
+coordinated with the electrical section and will 
+depend on field conditions.  The following types of 
+motor starters should be used as a guide only.  When 
+electrical power circuits to which equipment are 
+SECTION 23 82 00.00 20  Page 13
+CANCELLED
+
+
+connected are heavily loaded, the full 
+voltage-across line starting may result in excessive 
+voltage drop on the circuit.
+Motor kW
+Voltage
+Type Starter
+Up to 5 1/2
+208-230
+Across line magnetic
+5 1/2 to 11
+208-230
+Across line magnetic  part wind or wye 
+delta
+11 to 22 3/8
+460
+Across line magnetic  part wind or wye 
+delta
+Above 11
+208-230
+Part wind or wye delta
+Above 22 3/8
+460
+Part wind or wye delta
+Motor kW
+Voltage
+Type Starter
+Up to 7-1/2
+208-230
+Across line magnetic
+7-1/2 to 15
+208-230
+Across line magnetic  part wind or wye delta
+15 to 30
+460
+Across line magnetic  part wind or wye delta
+Above 15
+208-230
+Part wind or wye delta
+Above 30
+460
+Part wind or wye delta
+**************************************************************************
+NEMA MG 00001
+, and 
+NEMA ICS 2
+, and 
+NEMA ICS 6
+, respectively.  [Provide 
+explosion-proof motors and motor starters where indicated.] Provide 
+continuous-duty motor with built-in automatic reset thermal overload 
+protection.  For motor
+ 0.37 kW
+ 1/2 hp
+ and larger, use three-phase.  
+Provide single-phase motor of permanent split capacitor or capacitor 
+start.  Limit motor speed at 1800
+ rpm
+ r/min
+.  Wire motor to heater power 
+supply source.
+[
+2.5   
+SEISMIC BRACINGS
+**************************************************************************
+NOTE:  Depending upon various heaters, delete any 
+irrelevant paragraph for piping systems.
+**************************************************************************
+Section 
+23 05 48.19
+ SEISMIC BRACING FOR MECHANICAL SYSTEMS.
+][
+2.6   
+GAS PIPING SYSTEM AND FLUE VENT
+Comply with Section 
+23 11 20
+ FACILITY GAS PIPING, Section 
+33 51 15
+ 
+NATURAL-GAS / LIQUID PETROLEUM DISTRIBUTION PIPELINES, for gas valves and 
+SECTION 23 82 00.00 20  Page 14
+CANCELLED
+
+
+piping.  Use 
+UL 441
+ flue vents [and] [gas-vent roof jacks], of [galvanized 
+steel] [aluminum] [or] [stainless steel].
+][
+2.7   
+FUEL OIL [TANK] AND PIPING SYSTEM
+Section 
+33 52 10
+ FUEL SYSTEMS PIPING (SERVICE STATION).
+][
+2.8   
+HOT WATER PIPING SYSTEM
+Section 
+23 21 13.00 20
+ LOW TEMPERATURE WATER [LTW] HEATING SYSTEMS.
+][
+2.9   
+STEAM AND CONDENSATE PIPING SYSTEM
+Section 
+23 22 26.00 20
+ STEAM SYSTEM AND TERMINAL UNITS.
+]
+2.10   
+SOURCE QUALITY CONTROL
+Special protection is not required for equipment that has a zinc coating 
+conforming to [
+ASTM A123/A123M
+] [
+ASTM A653/A653M
+].  Otherwise, protect 
+affected equipment items by manufacturers' corrosion-inhibiting coating or 
+paint system that has proved capable of withstanding salt-spray test in 
+accordance with 
+ASTM B117
+.  Test indoor and outdoor equipment for 125 
+hours; test outdoor equipment used in a marine atmosphere for 500 hours.  
+For each specimen, perform a scratch test as defined in 
+ASTM D1654
+.
+PART 3   EXECUTION
+3.1   
+INSTALLATION
+Install equipment where indicated and as recommended by manufacturer's 
+recommendations, 
+NFPA 54
+, 
+NFPA 90A
+, 
+NFPA 90B
+, 
+NFPA 91
+ and 
+NFPA 211
+.
+3.1.1   
+Suspensions of Equipment
+Provide equipment supports including beam clamps, turnbuckles and twist 
+links or weld-wire chains, wire ropes with rope clips and rope thimbles, 
+threaded-eye rod hangers with lock nuts and heat-duct hangers, 
+threaded-eye bolts with expansion screws, brackets, platform and mounting 
+frame, and vibration isolators.  Locate equipment in such a manner that 
+working space is available for servicing, such as vacuum pump and burner 
+removal, access to automatic controls, and lubrication.  Provide 
+electrical isolation of dissimilar metals.  Clean interior of casings or 
+cabinets before and after completion of installation.
+3.1.2   
+Vents
+NFPA 54
+ and 
+NFPA 211
+.  Provide vents with weatherproofing flashings in 
+accordance with Section 
+07 60 00
+ FLASHING AND SHEET METAL.
+3.1.3   
+Electrical Work
+NFPA 70
+ and Division 26, "ELECTRICAL."  When replacing original control 
+wires, provide No. 16 AWG with minimum 105 degrees C insulation.
+3.2   
+FIELD QUALITY CONTROL
+Administer, schedule, and conduct specified tests.  Furnish personnel, 
+instruments and equipment for such tests.  Correct defects and repeat the 
+respective inspections and tests.  Conduct inspections and testing in the 
+SECTION 23 82 00.00 20  Page 15
+CANCELLED
+
+
+presence of the Contracting Officer.
+3.2.1   
+Test Instruments and Apparatus
+Provide instruments and apparatus currently certified as being accurate to 
+within one percent of their full scale.  Use gages with a maximum scale 
+between 1 1/2 and 2 times test pressure.
+3.2.2   
+Field Inspection
+Prior to initial operation, inspect equipment installation to ensure that 
+indicated and specified requirements have been met.
+3.2.3   
+Field Tests
+3.2.3.1   
+Fuel Piping Pressure Tests
+[Pneumatically test gas piping at 1 1/2 times operating pressure and check 
+for leakage with soap solution.]  [Hydrostatically test fuel oil piping at 
+1 1/2 times maximum working pressure.]
+3.2.3.2   
+Fire Tests for Nonelectrical Heating Equipment
+Test combustion controls and equipment with specified fuel at 100 percent 
+full rated load.  During tests, verify proper operation of controls. 
+Adjust burners for maximum efficiency using Orsat or similar apparatus. 
+Maintain firing for at least four hours [, and where high-low-off 
+combustion controls are provided, operate the heating equipment for one 
+hour at low fire and 3 hours at high fire].  For acceptable combustion 
+efficiency, allow maximum 4.5 percent carbon dioxide in flue gases.
+3.2.3.3   
+Insulation-Resistance Tests for Electrical Equipment
+At the completion of wiring, test 600 volt wiring to verify that no short 
+circuits exist before or after the attachment of electrical heating 
+equipment to the power source.  Make tests with an instrument which 
+applies a voltage of approximately 500 volts for a direct reading of 
+insulation resistance.
+3.2.3.4   
+Operational Tests
+After completing fire tests and insulation-resistance tests, operate 
+equipment continuously under varying load conditions to verify functioning 
+of combustion controls, electrical controls, flame safeguard controls, 
+safety interlocks, and specified operating sequence.  Run each test for a 
+minimum period of one hour.
+3.3   
+SCHEDULE
+SECTION 23 82 00.00 20  Page 16
+CANCELLED
+
+
+Some metric measurements in this section are based on mathematical 
+conversion of inch-pound measurements, and not on metric measurements 
+commonly agreed on by the manufacturers or other parties.  The inch-pound 
+and metric measurements shown are as follows:
+Products
+Inch-Pound
+Metric
+a.  Motor Capacity
+= 7 1/2 hp
+= 5 1/2 kW
+= 15 hp
+= 11 kW
+= 30 hp
+= 22 3/8 kW
+        -- End of Section --
+SECTION 23 82 00.00 20  Page 17
+CANCELLED

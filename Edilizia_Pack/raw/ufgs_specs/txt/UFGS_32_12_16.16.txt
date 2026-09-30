@@ -1,0 +1,2984 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-32 12 16.16 (November 2020)
+------------------------------------
+Preparing Activity:  USACE
+Superseding
+UFGS-32 12 16 (August 2009)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 32 - EXTERIOR IMPROVEMENTS
+SECTION 32 12 16.16
+ROAD-MIX ASPHALT PAVING
+11/20
+PART 1   GENERAL
+  1.1   PERCENT PAYMENT
+    1.1.1   Method of Measurement
+    1.1.2   Basis of Payment
+    1.1.3   Lot Pay Factor
+    1.1.4   Payment Adjustment for Laboratory Air Voids
+      1.1.4.1   Pay Factor Example for Laboratory Air Voids
+    1.1.5   Payment Adjustment for In-place Densities
+      1.1.5.1   Pay Factor Example for In-place Density
+    1.1.6   Payment Adjustment for Smoothness (Final Wearing Surface Only)
+    1.1.7   Payment Adjustment for Plan Grade
+  1.2   PAYMENT
+    1.2.1   Method of Measurement
+    1.2.2   Basis of Payment
+  1.3   REFERENCES
+  1.4   SUBMITTALS
+  1.5   ACCEPTANCE
+    1.5.1   Acceptability of Work
+    1.5.2   Acceptance Requirements
+    1.5.3   Pavement Lots
+    1.5.4   Sublot Sampling
+    1.5.5   Additional Sampling and Testing
+    1.5.6   Theoretical Maximum Density (TMD)
+    1.5.7   Laboratory Air Voids
+      1.5.7.1   Tolerance
+      1.5.7.2   Calculating Laboratory Air Voids
+    1.5.8   In-place Density
+      1.5.8.1   Tolerance
+    1.5.9   Surface Smoothness
+      1.5.9.1   Smoothness Requirements
+        1.5.9.1.1   Straightedge Testing
+        1.5.9.1.2   Profilograph Testing
+      1.5.9.2   Testing Method
+SECTION 32 12 16.16  Page 1
+CANCELLED
+
+
+        1.5.9.2.1   Straightedge Testing
+        1.5.9.2.2   Profilograph Testing
+        1.5.9.2.3   Bumps ("Must Grind" Areas)
+    1.5.10   Plan Grade
+    1.5.11   Laboratory Accreditation and Validation
+  1.6   ENVIRONMENTAL REQUIREMENTS
+PART 2   PRODUCTS
+  2.1   SYSTEM DESCRIPTION
+    2.1.1   Asphalt Mixing Plant
+      2.1.1.1   Truck Scales
+      2.1.1.2   Inspection of Plant
+      2.1.1.3   Storage bins
+    2.1.2   Hauling Equipment
+    2.1.3   Material Transfer Vehicle (MTV)
+    2.1.4   Asphalt Pavers
+      2.1.4.1   Receiving Hopper
+      2.1.4.2   Automatic Grade Controls
+    2.1.5   Rollers
+    2.1.6   Diamond Grinding
+  2.2   AGGREGATES
+    2.2.1   Coarse Aggregate
+    2.2.2   Fine Aggregate
+    2.2.3   Mineral Filler
+    2.2.4   Aggregate Gradation
+  2.3   ASPHALT CEMENT BINDER
+  2.4   WARM-MIX ASPHALT TECHNOLOGIES/PRODUCTS
+  2.5   MIX DESIGN
+    2.5.1   JMF Requirements
+    2.5.2   Adjustments to JMF
+  2.6   RECYCLED HOT MIX ASPHALT
+    2.6.1   RAP Aggregates and Asphalt Cement
+    2.6.2   RAP Mix
+PART 3   EXECUTION
+  3.1   CONTRACTOR QUALITY CONTROL
+    3.1.1   General Quality Control Requirements
+    3.1.2   Testing Laboratory
+    3.1.3   Quality Control Testing
+      3.1.3.1   Asphalt Content
+      3.1.3.2   Aggregate Properties
+      3.1.3.3   Moisture Content of Aggregate
+      3.1.3.4   Moisture Content of Asphalt Mixture
+      3.1.3.5   Temperatures
+      3.1.3.6   VMA[, Marshall Stability, and Flow]
+      3.1.3.7   In-Place Density
+      3.1.3.8   Additional Testing
+      3.1.3.9   QC Monitoring
+    3.1.4   Sampling
+    3.1.5   Control Charts
+  3.2   PREPARATION OF ASPHALT BINDER MATERIAL
+  3.3   PREPARATION OF MINERAL AGGREGATE
+  3.4   PREPARATION OF ASPHALT MIXTURE
+  3.5   PREPARATION OF THE UNDERLYING SURFACE
+  3.6   TEST SECTION
+    3.6.1   Sampling and Testing for Test Section
+    3.6.2   Additional Test Sections
+SECTION 32 12 16.16  Page 2
+CANCELLED
+
+
+  3.7   TRANSPORTING AND PLACING
+    3.7.1   Transporting
+    3.7.2   Placing
+  3.8   COMPACTION OF MIXTURE
+    3.8.1   General
+    3.8.2   Segregation
+  3.9   JOINTS
+    3.9.1   Transverse Joints
+    3.9.2   Longitudinal Joints
+-- End of Section Table of Contents --
+SECTION 32 12 16.16  Page 3
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-32 12 16.16 (November 2020)
+------------------------------------
+Preparing Activity:  USACE
+Superseding
+UFGS-32 12 16 (August 2009)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 32 12 16.16
+ROAD-MIX ASPHALT PAVING
+11/20
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for intermediate and wearing courses 
+(central-plant hot-mix and warm-mix) for roads using 
+Marshall or Gyratory compaction methods.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.  Do not lessen the quality of the work.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+PART 1   GENERAL
+**************************************************************************
+NOTE:  Modifications must be made to this guide 
+specification during conversion to a project 
+specification in accordance with the NOTES which are 
+located throughout the document.  These NOTES are 
+instructions to the designer, and will not appear in 
+the project specification.
+This guide specification only pertains to the 
+hot-mix and warm-mix asphalt aspects of the project 
+and not to any surface preparation requirements 
+dealing with aggregate base courses, milling, or 
+tack and prime coats.  Cover surface preparation 
+requirements adding pertinent sections to the 
+SECTION 32 12 16.16  Page 4
+CANCELLED
+
+
+project documents.
+This specification utilizes a Quality Assurance and 
+Quality Control (QA/QC) construction management 
+philosophy.  Quality Assurance refers to the actions 
+performed by the Government or designated 
+representative to assure the final product meets the 
+job requirements.  This specification has been 
+developed for QC testing to be used as a basis for 
+acceptance
+ and percent payment
+. The Government's QA 
+testing should include as a minimum 10 percent of 
+the QC tests.
+For projects less than 1,000
+ tonnes
+ tons
+, State DOT 
+material's requirements may be specified.  Only 
+material requirements may be substituted as an 
+option.  The designer should select which DOT mix 
+design is appropriate for the project.  Construction 
+procedures and acceptability of work requirements 
+must stay the same.  Designer has the option to 
+eliminate submittal requirement for material samples 
+for this size project.
+For projects over 1,000
+ tonnes
+ tons
+ use this guide 
+as is.  Lot size should be specified appropriately.
+Do not delete PART 1.  Select the tailoring option 
+for PERCENT PAYMENT when pay reduction factors are 
+desired.  Select the tailoring option for 
+ACCEPT-REJECT when pass/fail criteria is desired.  
+PERCENT PAYMENT is recommended for most projects and 
+is the standard of practice used by most State 
+DOTs.  Adequate justification must be provided by 
+the DOR when selecting the ACCEPT-REJECT tailoring 
+option.
+**************************************************************************
+1.1   
+PERCENT PAYMENT
+**************************************************************************
+NOTE:  The basis of pay testing program includes 
+material tests to determine laboratory air voids and 
+in-place density, which are needed to determine 
+percent payment.
+**************************************************************************
+1.1.1   
+Method of Measurement
+**************************************************************************
+NOTE:  For unit-price contracts, include first 
+bracketed statements and delete the second set.
+For lump sum contracts, delete the first bracketed 
+statements and include the second set.
+Do not use lump sum contracts when the job exceeds 
+1,000
+ tonnes
+ tons
+.
+**************************************************************************
+SECTION 32 12 16.16  Page 5
+CANCELLED
+
+
+[The amount paid for will be the number of
+ tonnes
+ tons
+ of
+ hot-mix
+ warm-mix
+ 
+asphalt pavement mixture used in the accepted work.  Weigh the
+ hot-mix
+ 
+warm-mix
+ asphalt pavement mixture after mixing. No separate payment will 
+be made for weight of asphalt cement material incorporated herein.] 
+[Measurement of the quantity of
+ hot-mix
+ warm-mix
+ asphalt pavement, per
+ 
+tonne
+ ton
+ placed and accepted, will be made for the purposes of assessing 
+the pay factors stipulated below.]
+1.1.2   
+Basis of Payment
+**************************************************************************
+NOTE:  For unit-price contracts, include first 
+bracketed statements and delete the second set.  
+For lump sum contracts, delete the first bracketed 
+statements and include the second set.  Include 
+prescriptive unit price based on the 
+Government/Engineer estimate for payment adjustment.
+**************************************************************************
+[Quantities of
+ hot-mix
+ warm-mix
+ asphalt pavement, determined as specified 
+above, will be paid for at respective contract unit prices or at reduced 
+prices adjusted in accordance with paragraphs PERCENT PAYMENT and 
+ACCEPTANCE.  Payment will constitute full compensation for furnishing all 
+materials, equipment, plant, and tools; and for all labor and other 
+incidentals necessary to complete work required by this section of the 
+specification.] [The measured quantity of
+ hot-mixed
+ warm-mixed
+ asphalt 
+pavement will be paid for and included in the lump sum contract price.  If 
+less than 100 percent payment is due based on the pay factors stipulated 
+in paragraph PERCENT PAYMENT, a unit price of [_____] per
+ tonne
+ ton
+ will 
+be used for purposes of calculating the payment reduction.]
+1.1.3   
+Lot Pay Factor
+The lot pay factor is determined by taking the lowest computed pay factor 
+based on either laboratory air voids, in-place density, smoothness, or 
+grade (each discussed below).  Remove and replace lots when the lowest 
+computed pay factor requires rejection.  At the end of the project 
+calculate the average pay factor for all lots.  If this average lot pay 
+factor exceeds 95.0 percent and no individual lot has a pay factor less 
+than 75.0 percent, then the percent payment for the entire project will be 
+100 percent of the unit bid price.  If the average lot pay factor is less 
+than 95.0 percent, then each lot will be paid for at the unit price 
+multiplied by the lot's pay factor.  For any lots which are less than 2,000
+ tonnes
+ tons
+, a weighted lot pay factor will be used to calculate the 
+average lot pay factor.  When work on a lot is required to be terminated 
+before all four sublots are completed, the results from the completed 
+sublots will be analyzed to determine the percent payment for the lot 
+following the same procedures and requirements for full lots but with 
+fewer or more test results as determined in paragraph PAVEMENT LOTS.
+1.1.4   
+Payment Adjustment for Laboratory Air Voids
+Laboratory air void calculations for each lot will use the average 
+theoretical maximum density values obtained for the lot.  Determine the 
+average TMD in accordance with paragraph THEORETICAL MAXIMUM DENSITY 
+(TMD).  The mean absolute deviation of the laboratory air void contents 
+(one from each sublot) from the JMF air void content will be evaluated as 
+shown in the example below and a pay factor will be determined from Table 
+SECTION 32 12 16.16  Page 6
+CANCELLED
+
+
+1.  When 0 percent payment is determined, remove and replace the rejected 
+lot at least
+ 100 mm
+ 4 inches
+ into the cold (existing) lane adjacent to the 
+longitudinal joint.
+Table 1.  Pay Factor Based on Laboratory Air Voids
+Mean Absolute Deviation of Lab Air
+Voids from JMF
+Pay Factor,  percent
+O.60 or less
+100
+0.61 - 0.80
+98
+0.81 - 1.00
+95
+1.01 - 1.20
+90
+Above 1.20
+reject (0)
+1.1.4.1   
+Pay Factor Example for Laboratory Air Voids
+An example of the computation of mean absolute deviation for laboratory 
+air voids is as follows:  Assume that the laboratory air voids are 
+determined from 4 sublots where one set of laboratory compacted specimens 
+is from a single sublot.  The laboratory air voids for the 4 sublots are 
+determined to be 3.5, 3.0, 4.0, and 3.7.  Assume that the target air voids 
+from the JMF is 4.0.  The mean absolute deviation is then:
+Mean Absolute Deviation = (|3.5 - 4.0| + |3.0 - 4.0| + |4.0 - 4.0| + 
+|3.7 - 4.0|)/4
+Mean Absolute Deviation = (0.5 + 1.0 + 0.0 + 0.3)/4 = (1.8)/4 = 0.45
+The mean absolute deviation for laboratory air voids is determined to be 
+0.45.  It can be seen from Table 1 that the lot's pay factor based on 
+laboratory air voids is 100 percent.
+1.1.5   
+Payment Adjustment for In-place Densities
+The average in-place mat and joint densities are expressed as a percentage 
+of the average theoretical maximum density (TMD) for the lot.  Determine 
+the average TMD in accordance with paragraph THEORETICAL MAXIMUM DENSITY 
+(TMD).  The average in-place mat density and joint density for a lot are 
+determined and compared with Table 2 to calculate a single pay factor per 
+lot.  Use the following process to determine the single pay factor for 
+in-place density:
+a.  Step 1:  Determine the pay factors for mat density and joint density 
+using Table 2.
+b.  Step 2:  Determine ratio of joint area to mat area.  The area 
+associated with the joint is considered to be
+ 3 m
+ 10 feet
+ wide times 
+the length of completed longitudinal construction joint in the lot.  
+This joint area will not exceed the total lot size.  The length of 
+joint to be considered will be that length where a new lane has been 
+placed against an adjacent lane of asphalt pavement, either an 
+adjacent freshly paved lane or one paved at any time previously.
+SECTION 32 12 16.16  Page 7
+CANCELLED
+
+
+c.  Step 3:  Compute the weighted pay factor for the joint using the 
+formula in the example below.
+d.  Step 4:  Compare weighted pay factor for joint density to pay factor 
+for mat density and select the smaller.  This selected pay factor is 
+the pay factor based on density for the lot.
+When 0 percent payment is determined for mat density, remove and replace 
+the rejected lot at least
+ 100 mm
+ 4 inches
+ into the cold (existing) lane 
+adjacent to the longitudinal joint.  When 0 percent payment is determined 
+for joint density, remove and replace the rejected longitudinal joint with 
+a
+ 3 m
+ 10 feet
+ wide paving lane that is centered over the joint.
+Table 2.  Pay Factor Based on In-place Density
+Average Mat Density (4
+Cores) (Percent of TMD)
+Pay Factor, Percent
+Average Joint Density (4
+Cores) (Percent of TMD)
+93.0 - 96.0
+100.0
+91.5 or above
+92.9
+100.0
+91.4
+92.8 or 96.1
+99.9
+91.3
+92.7
+99.8
+91.2
+92.6 or 96.2
+99.6
+91.1
+92.5
+99.4
+91.0
+92.4 or 96.3
+99.1
+90.9
+92.3
+98.7
+90.8
+92.2 or 96.4
+98.3
+90.7
+92.1
+97.8
+90.6
+92.0 or 96.5
+97.3
+90.5
+91.9
+96.3
+90.4
+91.8 or 96.6
+94.1
+90.3
+91.7
+92.2
+90.2
+91.6 or 96.7
+90.3
+90.1
+91.5
+87.9
+90.0
+91.4 or 96.8
+85.7
+89.9
+91.3
+83.3
+89.8
+91.2 or 96.9
+80.6
+89.7
+91.1
+78.0
+89.6
+91.0 or 97.0
+75.0
+89.5
+below 91.0, above 97.0
+0.0 (reject)
+below 89.5
+1.1.5.1   
+Pay Factor Example for In-place Density
+An example of the computation of a pay factor (in I-P units only) based on 
+in-place density, is as follows:  Assume the following test results for 
+field density made on the lot:  (1) Average mat density = 92.2 percent (of 
+lab TMD).  (2) Average joint density = 90.5 percent (of lab TMD).  (3) 
+SECTION 32 12 16.16  Page 8
+CANCELLED
+
+
+Total area of lot = 30,000 square feet.  (4) Length of completed 
+longitudinal construction joint = 2,000 feet.
+a.  Step 1:  Determine pay factor based on mat density and on joint 
+density, using Table 2:
+(1)  Mat density of 92.2 percent = 98.3 pay factor.
+(2)  Joint density of 90.5 percent = 97.3 pay factor.
+b.  Step 2:  Determine ratio of joint area to mat area.  Multiply the 
+length of completed longitudinal construction joint by the specified 
+10 foot width and divide by the mat area (total paved area in the lot).
+(1)  Ratio = Ratio of joint area to mat area 
+(2)  Ratio = (2,000 feet x 10 feet)/30,000 square feet
+(3)  Ratio = 0.6667
+c.  Step 3: Weighted pay factor (wpf) for joint is determined as indicated 
+below:
+(1)  wpf = joint pay factor + (100 - joint pay factor) x (1 - ratio)
+(2)  wpf = 97.3 + (100-97.3) x (1-0.6667) = 98.2 percent
+d.  Step 4: Compare weighted pay factor for joint density to pay factor 
+for mat density and select the smaller:
+(1)  Pay factor for mat density:  98.3 percent.
+(2)  Weighted pay factor for joint density:  98.2 percent
+(3)  Selected pay factor:  98.2 percent
+1.1.6   
+Payment Adjustment for Smoothness (Final Wearing Surface Only)
+**************************************************************************
+NOTE:  This paragraph may be deleted for projects 
+where a profilograph cannot record
+ 400 meters
+ 0.25 
+miles
+ in length.
+**************************************************************************
+Profilograph Testing.  Record the location and data from all profilograph 
+measurements.  When the Profile Index of a lot exceeds the tolerance 
+specified in paragraph SMOOTHNESS REQUIREMENTS by
+ 16 mm per km
+ 1.0 inch 
+per mile
+, but less than
+ 32 mm per km
+ 2.0 inches per mile
+, after any 
+reduction of high spots or removal and replacement, the computed pay 
+factor for that lot based on surface smoothness will be 95 percent.  When 
+the Profile Index exceeds the tolerance by
+ 32 mm per km
+ 2.0 inches per mile
+, 
+but less than
+ 47 mm per km
+ 3.0 inches per mile
+, the computed pay factor 
+will be 90 percent.  When the Profile Index exceeds the tolerance by
+ 47 mm 
+per km
+ 3.0 inches per mile
+, but less than
+ 63 mm per km
+ 4.0 inches per mile
+, 
+the computed pay factor will be 75 percent.  Remove and replace the lot 
+when the Profile Index exceeds the tolerance by
+ 63 mm per km
+ 4.0 inches 
+per mile
+ or more, at no additional cost to the Government.  Regardless of 
+the above, correct any small individual area with surface deviation which 
+exceeds the tolerance given above by more than
+ 79 mm per km
+ 5.0 inches per 
+SECTION 32 12 16.16  Page 9
+CANCELLED
+
+
+mile
+ or more, by grinding to meet the specification requirements above or 
+remove and replace at no additional cost to the Government.
+1.1.7   
+Payment Adjustment for Plan Grade
+**************************************************************************
+NOTE:  The grade and surface smoothness requirements 
+specified below are for the final wearing surface 
+only.  If there is a requirement to test and control 
+the grade and smoothness for the intermediate 
+courses, for example, when the intermediate courses 
+will be exposed to traffic, slight modifications to 
+this specification are required.
+**************************************************************************
+When more than 5 percent of all measurements made within a lot are outside 
+the
+ 15 mm
+ 0.05 foot
+ tolerance, the pay factor based on grade for that lot 
+will be 95 percent.  For individual locations where the grade exceeds
+ 22.5 
+mm
+ 0.075 foot
+ tolerance, remove the surface lift full depth and replace 
+the lift with asphalt pavement to meet specification requirements at no 
+additional cost to the Government.  High spots can be diamond ground as an 
+alternative to remove and replace in order to meet grade requirements for 
+the lot and at individual locations.
+1.2   
+PAYMENT
+**************************************************************************
+NOTE:  The basis of acceptance includes material 
+tests to determine laboratory air voids and in-place 
+density.
+**************************************************************************
+1.2.1   
+Method of Measurement
+**************************************************************************
+NOTE:  For unit-price contracts, include first 
+bracketed statements and delete the second set.
+For lump sum contracts, delete the first bracketed 
+statements and include the second set.
+Do not use lump sum contracts when the job exceeds 
+1,000
+ tonnes
+ tons
+.
+**************************************************************************
+[The amount paid for will be the number of
+ tonnes
+ tons
+ of
+ hot-mix
+ warm-mix
+ 
+asphalt pavement mixture used in the accepted work.  Weigh the
+ hot-mix
+ 
+warm-mix
+ asphalt pavement mixture after mixing.  No separate payment will 
+be made for weight of asphalt cement material incorporated herein.] 
+[Measurement of the quantity of
+ hot-mix
+ warm-mix
+ asphalt pavement per lot 
+will be made for the purposes of assessing acceptance stipulated in 
+paragraph ACCEPTANCE.]
+1.2.2   
+Basis of Payment
+**************************************************************************
+NOTE:  For unit-price contracts, include first 
+bracketed statements and delete the second set.  
+SECTION 32 12 16.16  Page 10
+CANCELLED
+
+
+For lump sum contracts, delete the first bracketed 
+statements and include the second set.
+**************************************************************************
+[Quantities of
+ hot-mix
+ warm-mix
+ asphalt pavement, determined as specified 
+above, will be paid for at respective contract unit prices.  Payment will 
+constitute full compensation for furnishing all materials, equipment, 
+plant, and tools; and for all labor and other incidentals necessary to 
+complete work required by this section of the specification.][The measured 
+quantity of
+ hot-mixed
+ warm-mixed
+ asphalt pavement will be paid for and 
+included in the lump sum contract price.]
+1.3   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN ASSOCIATION OF STATE HIGHWAY AND TRANSPORTATION OFFICIALS 
+(AASHTO)
+AASHTO M 156
+(2013; R 2025) Standard Specification for 
+Requirements for Mixing Plants for 
+Hot-Mixed, Hot-Laid Bituminous Paving 
+Mixtures
+AASHTO T 304
+(2011; R 2015) Standard Method of Test for 
+Uncompacted Void Content of Fine Aggregate
+AASHTO T 329
+(2015) Standard Test Method for Moisture 
+Content of Hot Mix Asphalt (HMA) by Oven 
+Method
+ASPHALT INSTITUTE (AI)
+AI MS-2
+(2015) Asphalt Mix Design Methods
+SECTION 32 12 16.16  Page 11
+CANCELLED
+
+
+ASTM INTERNATIONAL (ASTM)
+ASTM C29/C29M
+(2023) Standard Test Method for Bulk 
+Density ("Unit Weight") and Voids in 
+Aggregate
+ASTM C88
+(2018) Standard Test Method for Soundness 
+of Aggregates by Use of Sodium Sulfate or 
+Magnesium Sulfate
+ASTM C117
+(2023) Standard Test Method for Materials 
+Finer than 75-um (No. 200) Sieve in 
+Mineral Aggregates by Washing
+ASTM C127
+(2025) Standard Test Method for Density, 
+Relative Density (Specific Gravity), and 
+Absorption of Coarse Aggregate
+ASTM C128
+(2025) Standard Test Method for Density, 
+Relative Density (Specific Gravity), and 
+Absorption of Fine Aggregate
+ASTM C131/C131M
+(2020) Standard Test Method for Resistance 
+to Degradation of Small-Size Coarse 
+Aggregate by Abrasion and Impact in the 
+Los Angeles Machine
+ASTM C136/C136M
+(2025) Standard Test Method for Sieve 
+Analysis of Fine and Coarse Aggregates
+ASTM C142/C142M
+(2017; R 2023) Standard Test Method for 
+Clay Lumps and Friable Particles in 
+Aggregates
+ASTM C566
+(2025) Standard Test Method for Total 
+Evaporable Moisture Content of Aggregate 
+by Drying
+ASTM D75/D75M
+(2019) Standard Practice for Sampling 
+Aggregates
+ASTM D140/D140M
+(2016) Standard Practice for Sampling 
+Asphalt Materials
+ASTM D242/D242M
+(2009; R 2014) Mineral Filler for 
+Bituminous Paving Mixtures
+ASTM D946/D946M
+(2020) Standard Specification for 
+Penetration-Graded Asphalt Cement for Use 
+in Pavement Construction
+ASTM D979/D979M
+(2015) Sampling Bituminous Paving Mixtures
+ASTM D2041/D2041M
+(2011) Theoretical Maximum Specific 
+Gravity and Density of Bituminous Paving 
+Mixtures
+ASTM D2172/D2172M
+(2017; E 2018) Standard Test Methods for 
+Quantitative Extraction of Asphalt Binder 
+SECTION 32 12 16.16  Page 12
+CANCELLED
+
+
+from Asphalt Mixtures
+ASTM D2419
+(2014) Sand Equivalent Value of Soils and 
+Fine Aggregate
+ASTM D2726/D2726M
+(2019) Standard Test Method for Bulk 
+Specific Gravity and Density of 
+Non-Absorptive Compacted Bituminous 
+Mixtures
+ASTM D2872
+(2019) Standard Test Method for Effect of 
+Heat and Air on a Moving Film of Asphalt 
+(Rolling Thin-Film Oven Test)
+ASTM D3203/D3203M
+(2017) Standard Test Method for Percent 
+Air Voids in Compacted Asphalt Mixtures
+ASTM D3665
+(2012; R 2017) Standard Practice for 
+Random Sampling of Construction Materials
+ASTM D3666
+(2016) Standard Specification for Minimum 
+Requirements for Agencies Testing and 
+Inspecting Road and Paving Materials
+ASTM D4791
+(2019) Flat Particles, Elongated 
+Particles, or Flat and Elongated Particles 
+in Coarse Aggregate
+ASTM D4867/D4867M
+(2009; R 2014) Effect of Moisture on 
+Asphalt Concrete Paving Mixtures
+ASTM D5361/D5361M
+(2016) Standard Practice for Sampling 
+Compacted Asphalt Mixtures for Laboratory 
+Testing
+ASTM D5444
+(2015) Mechanical Size Analysis of 
+Extracted Aggregate
+ASTM D5821
+(2013; R 2017) Standard Test Method for 
+Determining the Percentage of Fractured 
+Particles in Coarse Aggregate
+ASTM D6084/D6084M
+(2018) Standard Test Method for Elastic 
+Recovery of Asphalt Materials by 
+Ductilometer
+ASTM D6307
+(2019) Standard Test Method for Asphalt 
+Content of Asphalt Mixture by Ignition 
+Method
+ASTM D6373
+(2023) Standard Specification for 
+Performance Graded Asphalt Binder
+ASTM D6925
+(2014) Standard Test Method for 
+Preparation and Determination of the 
+Relative Density of Hot Mix Asphalt (HMA) 
+Specimens by Means of the Superpave 
+Gyratory Compactor
+SECTION 32 12 16.16  Page 13
+CANCELLED
+
+
+ASTM D6926
+(2020) Standard Practice for Preparation 
+of Asphalt Mixture Specimens Using 
+Marshall Apparatus
+ASTM D6927
+(2015) Standard Test Method for Marshall 
+Stability and Flow of Bituminous Mixtures
+ASTM D7405
+(2020) Standard Test Method for Multiple 
+Stress Creep and Recovery (MSCR) of 
+Asphalt Binder Using a Dynamic Shear 
+Rheometer
+ASTM D8239
+(2018) Standard Specification for 
+Performance-Graded Asphalt Binder Using 
+the Multiple Stress Creep and Recovery 
+(MSCR) Test
+ASTM E1274
+(2018); R 2024 Standard Test Method for 
+Measuring Pavement Roughness Using a 
+Profilograph
+1.4   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review submittal description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a “G” to an item, 
+if the submittal is sufficiently important or 
+complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+SECTION 32 12 16.16  Page 14
+CANCELLED
+
+
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-02 Shop Drawings
+Placement Plan
+; 
+G
+, [_____]
+SD-03 Product Data
+Diamond Grinding Plan
+; 
+G
+, [_____]
+Mix Design
+; 
+G
+, [_____]
+Contractor Quality Control
+; 
+G
+, [_____]
+SD-04 Samples
+Aggregates
+Asphalt Cement Binder
+Warm-mix Additive
+SD-06 Test Reports
+Aggregates
+; 
+G
+, [_____]
+QC Monitoring
+SD-07 Certificates
+Asphalt Cement Binder
+; 
+G
+, [_____]
+Laboratory Accreditation and Validation
+Warm-mix Additive
+1.5   
+ACCEPTANCE
+**************************************************************************
+NOTE:  It is recommended that an independent 
+material testing company be hired by the Contractor 
+to provide the acceptance testing for the project. 
+Typically acceptance testing will be performed by 
+the Contractor's independent laboratory with 
+oversight from the Government.  The results from 
+laboratory testing need to be forwarded daily to the 
+Government as the basis for acceptance
+ and percent 
+payment
+.
+The acceptance testing program includes material 
+tests to determine laboratory air voids and in-place 
+density
+, which are needed to determine percent 
+payment
+.  The acceptance testing laboratory will 
+also conduct tests to monitor aggregate gradation, 
+asphalt content, and voids in mineral aggregate 
+SECTION 32 12 16.16  Page 15
+CANCELLED
+
+
+(VMA).  These tests would serve as a check to the 
+Contractor's QC testing.
+For projects with less than 2,000
+ tonnes
+ tons
+, the 
+entire project can be considered as a single lot.  
+In this case, sublot sampling could occur over 
+several days production, which could lead to higher 
+sublot variability.
+Select the tailoring option for PERCENT PAYMENT when 
+pay reduction factors are desired.  Select the 
+tailoring option for ACCEPT-REJECT when pass/fail 
+criteria is desired.
+**************************************************************************
+1.5.1   
+Acceptability of Work
+Acquire the services of an independent commercial laboratory to perform 
+acceptance testing.  Acceptance of the plant produced mix and in-place 
+requirements will be on a lot to lot basis.  The materials and the 
+pavement itself will be accepted on the basis of production testing.  The 
+Government may make check tests from split samples to validate the results 
+of the production testing.  Testing performed by the Government does not 
+reduce the required testing of the independent commercial laboratory.  
+Split samples will be taken for Government testing to reduce the 
+variability between the independent commercial laboratory and the 
+Government's test results.  When the difference between the independent 
+commercial laboratory and the Government's test results for split samples 
+exceed the acceptable range of two results for multilaboratory precision 
+for the appropriate test method (i.e. ASTM) then at least one of the 
+laboratories is determined to be in error.  An evaluation of procedures 
+and equipment in both laboratories will be made to determine the cause(s) 
+for the differences.  Develop steps to correct procedures and equipment to 
+bring multilaboratory precision to within acceptable limits.
+1.5.2   
+Acceptance Requirements
+Provide all sampling and testing required for acceptance
+ and payment 
+adjustment
+.  Where appropriate,
+ adjustments in percent payment
+ acceptance
+ 
+for individual lots of asphalt pavement will be made based on laboratory 
+air voids, in-place density, smoothness, and grade in accordance with the 
+following paragraphs.  Surface smoothness and grade determinations will be 
+made on the lot as a whole.  Exceptions or adjustments to this will be 
+made in situations where the mix within one lot is placed as part of both 
+the intermediate and surface courses, thus smoothness and grade 
+measurements for the entire lot cannot be made.
+1.5.3   
+Pavement Lots
+A standard lot for all requirements is equal to one day's production or 
+2,000
+ tonnes
+ tons
+, whichever is smaller.  Divide each lot into four equal 
+sublots in order to evaluate laboratory air voids and in-place density.  
+When operational conditions cause a lot to be terminated before the 
+specified four sublots have been completed, use the following procedure to 
+adjust the lot size and number of tests for the lot.  Where three sublots 
+have been completed, they constitute a lot.  Where one or two sublots have 
+been completed, incorporate them into the next lot and the total number of 
+sublots (i.e. 5 or 6 sublots) is used for acceptance criteria.  Include 
+partial lots at the end of asphalt production into the previous lot.  
+SECTION 32 12 16.16  Page 16
+CANCELLED
+
+
+Complete and report all theoretical maximum density, laboratory air voids, 
+and in-place density testing within 24 hours after construction of each 
+lot.
+1.5.4   
+Sublot Sampling
+Take one mixture sample for each sublot in accordance with 
+ASTM D979/D979M
+ 
+from a random truck or another location for determining theoretical 
+maximum density, laboratory air voids, any additional testing the 
+Government desires, and Contractor Quality Control.  All samples will be 
+selected randomly, using commonly recognized methods of assuring 
+randomness conforming to 
+ASTM D3665
+ and employing tables of random numbers 
+or computer programs.
+1.5.5   
+Additional Sampling and Testing
+The Government reserves the right to direct additional samples and tests 
+for any area which appears to deviate from the specification 
+requirements.  The cost of any additional testing will be paid for by the 
+Government.  Testing in these areas will be treated as a separate lot.  
+Payment 
+Acceptance 
+will be made for the quantity of asphalt pavement 
+represented by these tests in accordance with the provisions of this 
+section.
+1.5.6   
+Theoretical Maximum Density (TMD)
+Measure theoretical maximum density one time for each sublot in accordance 
+with 
+ASTM D2041/D2041M
+ for purposes of calculating laboratory air voids 
+and determining in-place density.  The average TMD for each lot will be 
+determined as the average TMD of the random sublot samples.  When the TMD 
+on both sides of a longitudinal joint is different, the average of these 
+two TMD values will be used as the TMD needed to calculate the percent 
+joint density.
+1.5.7   
+Laboratory Air Voids
+**************************************************************************
+NOTE:  Select the appropriate tailoring option for 
+the Marshall or Superpave Methods.
+**************************************************************************
+[Prepare one set of laboratory compacted specimens for each sublot in 
+accordance with 
+ASTM D6926
+ using the hand-held hammer for the Marshall 
+Method.]
+[Prepare one set of laboratory compacted specimens for each sublot 
+in accordance with 
+ASTM D6925
+ using the Superpave gyratory compactor.]
+  
+Provide three test specimens prepared from the same sample for each set of 
+laboratory compacted specimens.  Compact the specimens within 2 hours of 
+the time the mixture was loaded into trucks at the asphalt plant.  Do not 
+reheat samples prior to compaction.  Provide insulated containers as 
+necessary to maintain the sample temperature.  Measure the bulk density of 
+laboratory compacted specimens in accordance with 
+ASTM D2726/D2726M
+.  
+Determine laboratory air voids from one set (three laboratory compacted 
+specimens) for each sublot sample in accordance with 
+ASTM D3203/D3203M
+.
+1.5.7.1   
+Tolerance
+Provide laboratory air voids with a mean absolute deviation of 1.00 
+percent or less from the JMF for each lot.  Remove and replace lots that 
+do not meet the laboratory air voids requirement at least
+ 100 mm
+ 4 inches
+ 
+SECTION 32 12 16.16  Page 17
+CANCELLED
+
+
+into the cold (existing) lane adjacent to the longitudinal joint, at no 
+additional cost to the Government.  The mean absolute deviation of the 
+laboratory air void contents from the JMF air void content will be 
+evaluated as shown in the example below.
+1.5.7.2   
+Calculating Laboratory Air Voids
+Laboratory air void calculations for each lot will use the average 
+theoretical maximum density values obtained for the lot.  Determine the 
+average TMD in accordance with paragraph THEORETICAL MAXIMUM DENSITY 
+(TMD).  The mean absolute deviation of the laboratory air void contents 
+(one from each sublot) from the JMF air void content will be evaluated as 
+in the following example:
+Assume that the laboratory air voids are determined from 4 sublots where 
+one set of laboratory compacted specimens is from a single sublot.  The 
+laboratory air voids for the 4 sublots are determined to be 3.5, 3.0, 4.0, 
+and 3.7.  Assume that the target air voids from the JMF is 4.0.  The mean 
+absolute deviation is then:
+Mean Absolute Deviation = (|3.5 - 4.0| + |3.0 - 4.0| + |4.0 - 4.0| + 
+|3.7 - 4.0|)/4
+Mean Absolute Deviation = (0.5 + 1.0 + 0.0 + 0.3)/4 = (1.8)/4 = 0.45
+The mean absolute deviation for laboratory air voids is determined to be 
+0.45.  It can be seen that 0.45 is less than 1.00 percent.  The lot is 
+acceptable for laboratory air voids.
+1.5.8   
+In-place Density
+Obtain one random 
+100 mm 
+4 inch 
+or
+ 150 mm
+ 6 inch
+ diameter core from the 
+mat and joint of each sublot in accordance with 
+ASTM D5361/D5361M
+ for 
+determining in-place density.  Cut samples neatly with a diamond core 
+drill bit.  Obtain random cores that are the full thickness of the layer 
+being placed.  Select core locations randomly using the procedures 
+contained in 
+ASTM D3665
+.  Locate cores for mat density no closer than
+ 300 
+mm
+ 12 inches
+ from a transverse or longitudinal joint including the 
+pavement edge.  Center all cores for joint density on the joint.  Discard 
+samples that are clearly defective as a result of sampling and take an 
+additional random core.  When the random core is less than
+ 25 mm
+ 1 inch
+ 
+thick, it will not be included in the analysis.  In this case, obtain 
+another random core sample.  Clean and tack coat dry core holes before 
+filling with asphalt mixture.  Fill all core holes with asphalt mixture 
+and compact using a standard Marshall hammer to the density specified.  
+Provide all tools, labor, and materials for cutting samples, cleaning, and 
+filling the cored pavement.  Measure in-place density in accordance with 
+ASTM D2726/D2726M
+ using each core obtained from the mat and joint.
+1.5.8.1   
+Tolerance
+Provide a minimum in-place mat density of 93.0 percent and a minimum 
+in-place joint density of 90.0 percent for each lot.  The average in-place 
+mat and joint densities are expressed as a percentage of the average 
+theoretical maximum density (TMD) for the lot.  Determine the average TMD 
+in accordance with paragraph THEORETICAL MAXIMUM DENSITY (TMD).  Remove 
+and replace lots that do not meet the in-place mat density requirement at 
+least
+ 100 mm
+ 4 inches
+ into the cold (existing) lane adjacent to the 
+longitudinal joint, at no additional cost to the Government.  Remove and 
+SECTION 32 12 16.16  Page 18
+CANCELLED
+
+
+replace the longitudinal joint when the lot does not meet the in-place 
+joint density, at no additional cost to the Government.  Use a
+ 3 m
+ 10 feet
+ 
+wide paving lane that is centered over the joint.
+1.5.9   
+Surface Smoothness
+Use a straightedge and profilograph for measuring surface smoothness.  Use 
+the profilograph method for all longitudinal testing, except for paving 
+lanes less than
+ 400 meters
+ 0.25 miles
+ in length.  Use the straightedge 
+method for transverse testing, for longitudinal testing where the length 
+of each pavement lane is less than
+ 400 meters
+ 0.25 miles
+, and at the ends 
+of the paving limits for the project.  Smoothness requirements do not 
+apply over crowns or grade breaks.  Maintain detailed notes of the testing 
+results and provide a copy to the Government immediately after each day's 
+testing.
+1.5.9.1   
+Smoothness Requirements
+1.5.9.1.1   
+Straightedge Testing
+Provide finished surfaces of the pavements with no abrupt change of
+ 6 mm
+ 
+1/4 inch
+ or more when checked with an approved
+ 4 m
+ 12 foot
+ straightedge.  
+Remove and replace surface lift lots when the surface smoothness exceeds
+ 9 
+mm
+ 3/8 inch
+, at no additional cost to the Government.  High spots can be 
+diamond ground as an alternative to remove and replace in order to meet 
+surface smoothness requirements at individual locations.
+1.5.9.1.2   
+Profilograph Testing
+Provide finished surfaces with a Profile Index not greater than
+ 140 mm per 
+km
+ 9 inches per mile
+ when tested with an approved California-type 
+profilograph.
+  Remove and replace the lot when the Profile Index exceeds 
+the tolerance by
+ 63 mm per km
+ 4.0 inches per mile
+ or more, at no 
+additional cost to the Government.  Correct any small individual area with 
+surface deviation which exceeds the tolerance given above by more than
+ 79 
+mm per km
+ 5.0 inches per mile
+ or more by diamond grinding to meet the 
+specification requirements above or remove and replace at no additional 
+cost to the Government.
+1.5.9.2   
+Testing Method
+After the final rolling, but not later than 24 hours after placement, test 
+the surface of the pavement in each entire lot in a manner to reveal 
+surface irregularities exceeding the tolerances specified above.  If any 
+pavement areas are diamond ground, retest these areas immediately after 
+diamond grinding.  The maximum area allowed to be corrected by diamond 
+grinding is 10 percent of the total area of the lot.  Test the entire area 
+of the pavement with a profilograph.  Check a number of random locations 
+along with any observed suspicious locations primarily at transverse and 
+longitudinal joints with the straightedge.
+1.5.9.2.1   
+Straightedge Testing
+Use the straightedge to measure abrupt changes in surface smoothness.  
+Hold the straightedge in contact with the pavement surface and measure the 
+maximum distance between the straightedge and the pavement surface.  
+Determine the amount of surface irregularity by placing the freestanding 
+(unleveled) straightedge on the pavement surface and allowing it to rest 
+upon the two highest spots covered by its length, and measuring the 
+SECTION 32 12 16.16  Page 19
+CANCELLED
+
+
+maximum gap between the straightedge and the pavement surface in the area 
+between these two high points.
+1.5.9.2.2   
+Profilograph Testing
+Perform profilograph testing using an approved California profilograph and 
+procedures described in 
+ASTM E1274
+.  Provide equipment that utilizes 
+electronic recording and automatic computerized reduction of data to 
+indicate "must-grind" bumps and the Profile Index for the pavement.  Use a 
+"blanking band" that is
+ 5 mm
+ 0.2 inch
+ wide and the "bump template" spanning
+ 25 mm
+ 1 inch
+ with an offset of
+ 10 mm
+ 0.4 inch
+.  Provide profilograph 
+operated by an approved, factory-trained operator on the alignments 
+specified above.  Provide a copy of the reduced tapes to the Government at 
+the end of each day's testing.
+1.5.9.2.3   
+Bumps ("Must Grind" Areas)
+Reduce any bumps ("must grind" areas) shown on the profilograph trace 
+which exceed
+ 10 mm
+ 0.4 inch
+ in height by diamond grinding until they do 
+not exceed
+ 7.5 mm
+ 0.3 inch
+ when retested.  Taper diamond grinding in all 
+directions to provide smooth transitions to areas not requiring diamond 
+grinding.  The following will not be permitted:  (1) skin patching for 
+correcting low areas, (2) planing or milling for correcting high areas.[  
+At the Contractor's option, pavement areas including diamond ground areas 
+can be rechecked with the profilograph in order to record a lower Profile 
+Index.][  Perform additional profilograph testing in all areas corrected 
+by diamond grinding.]
+1.5.10   
+Plan Grade
+**************************************************************************
+NOTE:  For roadway projects, select the first 
+bracketed option.
+For parking lots, select the second bracketed option.
+**************************************************************************
+Provide a final wearing surface of pavement conforming to the elevations 
+and cross sections shown and not vary more than
+ 15 mm
+ 0.05 foot
+ from the 
+plan grade established and approved at site of work.  Within 5 working 
+days after completion of a particular lot incorporating the final wearing 
+course, test the final wearing surface of the pavement for conformance 
+with specified plan grade requirements.  Match finished surfaces at 
+juncture with other pavements  with finished surfaces of abutting 
+pavements.  Deviation from the plan elevation will not be permitted in 
+areas of pavements where closer conformance with planned elevation is 
+required for the proper functioning of drainage and other appurtenant 
+structures involved.[  For roads, the grade will be determined by running 
+lines of levels along the centerline at intervals of
+ 7.6 m
+ 25 feet
+ or less 
+longitudinally to determine the elevation of the completed pavement 
+surface.  Measure transverse grades at appropriate intervals.][  For 
+parking lots, the grade will be determined by running lines of levels at 
+intervals of
+ 7.6 m
+ 25 feet
+ or less longitudinally and transversely to 
+determine the elevation of the completed pavement surface.]  Diamond 
+grinding can be used to remove high spots to meet grade requirements.  
+Skin patching for correcting low areas or planing or milling for 
+correcting high areas will not be permitted.  Maintain detailed notes of 
+the results of the testing and provide a copy to the Government 
+immediately after each day's testing.
+  Remove and replace surface lift 
+SECTION 32 12 16.16  Page 20
+CANCELLED
+
+
+lots when individual locations exceed
+ the 15 mm
+ 0.05 foot
+ tolerance, at no 
+additional cost to the Government.  High spots can be diamond ground as an 
+alternative to remove and replace in order to meet plan grade requirements 
+at individual locations.
+1.5.11   
+Laboratory Accreditation and Validation
+**************************************************************************
+NOTE:  Include bracketed sentence for Corps-managed 
+projects.  Utilization of the USACE Materials 
+Testing Center (MTC) is optional for Air Force and 
+Navy managed projects.
+**************************************************************************
+Provide laboratories used to develop the Job Mix Formula (JMF), perform 
+acceptance testing, and Contractor Quality Control testing that meet the 
+requirements of 
+ASTM D3666
+.  Provide laboratories with a masonry saw 
+having a diamond blade for trimming pavement cores and samples.  Perform 
+all required test methods by an accredited laboratory.  Schedule and 
+provide payment for laboratory inspections.  Additional payment or a time 
+extension due to failure to acquire the required laboratory accreditation 
+is not allowed.[  The Government will inspect the laboratory equipment and 
+test procedures prior to the start of
+ hot-mix
+ warm-mix
+ operations for 
+conformance with 
+ASTM D3666
+.  In addition, all testing laboratories 
+performing acceptance testing require USACE validation by the Material 
+Testing Center (MTC)[ for both parent laboratory and plant testing 
+laboratory].  Validation on all laboratories is required to remain current 
+throughout the duration of the paving project.  Contact the MTC manager 
+listed at 
+https://mtc.erdc.dren.mil
+ for costs and scheduling.]  Submit a 
+certificate of compliance signed by the manager of the laboratory stating 
+that it meets these requirements to the Government prior to the start of 
+construction.  At a minimum, include the following certifications:
+a.  Qualifications of personnel; laboratory manager, supervising 
+technician, and testing technicians.
+b.  A listing of equipment to be used in developing the job mix.
+c.  A copy of the laboratory's quality control system.
+1.6   
+ENVIRONMENTAL REQUIREMENTS
+**************************************************************************
+NOTE:  The temperature requirements in
+ Table 3
+ Table 
+1
+ are included to avoid problems with the Contractor 
+achieving density because the mix cools too fast.  
+Waivers to these requirements for isolated 
+incidences during production are applicable if the 
+density requirements are still met.
+**************************************************************************
+Do not place the asphalt mixture upon a wet surface or when the surface 
+temperature of the underlying course is less than specified in
+ Table 3
+ 
+Table 1
+.  The temperature requirements may be waived by the Government, if 
+requested; however, meet all other requirements including compaction.
+SECTION 32 12 16.16  Page 21
+CANCELLED
+
+
+Table 3.  Table 1.  Surface Temperature Limitations of Underlying Course
+Mat Thickness, mm inches
+Degrees C F
+75 3 or greater
+ 4  40
+Less than 75 3
+ 7  45
+PART 2   PRODUCTS
+2.1   
+SYSTEM DESCRIPTION
+Perform the work consisting of pavement courses composed of mineral 
+aggregate and asphalt material heated and mixed in a central mixing plant 
+and placed on a prepared course.  Provide asphalt pavement designed and 
+constructed in accordance with this section conforming to the lines, 
+grades, thicknesses, and typical cross sections shown on the drawings.  
+Construct each course to the depth, section, or elevation required by the 
+drawings and rolled, finished, and approved before the placement of the 
+next course.  Submit proposed 
+Placement Plan
+ indicating lane widths and  
+longitudinal joints for each course or lift.
+2.1.1   
+Asphalt Mixing Plant
+Provide plants used for the preparation of asphalt mixture conforming to 
+the requirements of 
+AASHTO M 156
+ with the following changes:
+2.1.1.1   
+Truck Scales
+Weigh the asphalt mixture on approved scales, or on certified public 
+scales at no additional expense to the Government.  Inspect and seal 
+scales at least annually by an approved calibration laboratory.
+2.1.1.2   
+Inspection of Plant
+Provide access to the Government at all times, to all areas of the plant 
+for checking adequacy of equipment; inspecting operation of the plant; 
+verifying weights, proportions, and material properties; checking the 
+temperatures maintained in the preparation of the mixtures and for taking 
+samples.  Provide assistance as requested, for the Government to procure 
+any desired samples.
+2.1.1.3   
+Storage bins
+The asphalt mixture can be stored in non-insulated storage bins for a 
+period of time not exceeding 3 hours.  The asphalt mixture can be stored 
+in insulated storage bins for a period of time not exceeding 8 hours.  
+Provide the mix drawn from bins that meets the same requirements as mix 
+loaded directly into trucks.
+2.1.2   
+Hauling Equipment
+Provide trucks used for hauling asphalt mixture that have tight, clean, 
+and smooth metal beds.  To prevent the mixture from adhering to them, 
+lightly coat the truck beds with a minimum amount of paraffin oil, lime 
+solution, or other approved material.  Do not use petroleum based products 
+as a release agent.  Provide each truck with a suitable cover to protect 
+SECTION 32 12 16.16  Page 22
+CANCELLED
+
+
+the mixture from adverse weather, contamination, and loss of material 
+during hauling.  When necessary due to long haul distance and cold 
+weather, provide insulated truck beds with covers (tarps) that are 
+securely fastened.
+[
+2.1.3   
+Material Transfer Vehicle (MTV)
+**************************************************************************
+NOTE:  A Material Transfer Vehicle (MTV) should be 
+considered for use on high volume roads such as base 
+entrance roads and roads that will be subjected to 
+significant truck traffic or other heavy vehicles.  
+This paragraph should be deleted if a MTV will not 
+be required.
+**************************************************************************
+Provide Material Transfer Vehicle for placement of the asphalt mixture.  
+Transfer the material from the hauling equipment to the paver using a 
+self-propelled, material transfer vehicle with a swing conveyor that is 
+capable of delivering material to the paver without making contact with 
+the paver.  Provide MTV capable to move back and forth between the hauling 
+equipment and the paver providing material transfer to the paver, while 
+allowing the paver to operate at a constant speed.  Provide Material 
+Transfer Vehicle with remixing and storage capability to prevent physical 
+and thermal segregation.
+]
+2.1.4   
+Asphalt Pavers
+Provide mechanical spreading and finishing equipment consisting of a 
+self-powered paver, capable of spreading and finishing the mixture to the 
+specified line, grade, and cross section.  Provide paver screed capable of 
+laying a uniform mixture to meet the specified thickness, smoothness, and 
+grade without physical or temperature segregation, the full width of the 
+material being placed.  Provide a paver with a vibrating screed to be used 
+during all placement.
+2.1.4.1   
+Receiving Hopper
+Provide paver with a receiving hopper of sufficient capacity to permit a 
+uniform spreading operation and a distribution system to place the mixture 
+uniformly in front of the screed without segregation.  Provide a screed 
+that effectively produces a finished surface of the required evenness and 
+texture without tearing, shoving, or gouging the mixture.
+[
+2.1.4.2   
+Automatic Grade Controls
+**************************************************************************
+NOTE:  Automatic grade control is needed when the 
+design requires elevations for the asphalt pavement 
+surface.  Many maintenance and rehabilitation 
+projects require an overlay thickness and do not 
+specify actual grades.  Delete information on 
+automatic grade control if not needed.  
+**************************************************************************
+Provide a paver equipped with a control system capable of maintaining the 
+specified screed elevation.  One of three methods can be used to control 
+grade: stringline, laser, or computerized elevations along with GPS. For 
+multiple layers it is acceptable to control the grade in the underlying 
+SECTION 32 12 16.16  Page 23
+CANCELLED
+
+
+layer and control the grade of the surface layer by applying a constant 
+thickness over the underlying layer which has been placed to the desired 
+grade.  Slope control can also be used to control the grade of the surface 
+for roads, but is not acceptable for wide pavements such as parking lots.  
+Provide transverse slope controller capable of maintaining the screed at 
+the desired slope within plus or minus 0.1 percent.  A ski-type device of 
+not less than
+ 9.14 m
+ 30 ft
+ can be used to provide improved smoothness.  
+Use a shoe on one side of the paver to match an existing paved surface to 
+provide a smooth joint.
+]
+2.1.5   
+Rollers
+Provide rollers in good condition and operate at slow speeds to avoid 
+displacement of the asphalt mixture.  Provide sufficient number, type, and 
+weight of rollers to compact the mixture to the required density while it 
+is still in a workable condition.  Do not use equipment which causes 
+excessive crushing of the aggregate.
+2.1.6   
+Diamond Grinding
+Those performing diamond grinding are required to have a minimum of three 
+years experience in diamond grinding.  In areas not meeting the specified 
+limits for surface smoothness and plan grade, reduce high areas to attain 
+the required smoothness and grade, except as depth is limited below.  
+Reduce high areas by diamond grinding the asphalt pavement with approved 
+equipment.  Perform diamond grinding by sawing with saw blades impregnated 
+with an industrial diamond abrasive.  Assemble the saw blades in a cutting 
+head mounted on a machine designed specifically for diamond grinding that 
+produces the required texture and smoothness level without damage to the 
+asphalt pavement or joint faces.  Provide diamond grinding equipment with 
+saw blades that are
+ 3 mm
+ 1/8-inch
+ wide, a minimum of 60 blades per
+ 300 mm
+ 
+12 inches
+ of cutting head width, and capable of cutting a path a minimum 
+of 
+0.9 m
+ 
+3 feet
+ wide.  Diamond grinding equipment that causes raveling, 
+fracturing of aggregate, or disturbance to the underlying material will 
+not be allowed.  The maximum area corrected by diamond grinding the 
+surface of the asphalt pavement is 10 percent of the total area of any 
+lot.  The maximum depth of diamond grinding is
+ 12 mm
+ 1/2 inch
+.  Provide 
+diamond grinding machine equipped to flush and vacuum the pavement 
+surface.  Dispose of all debris from diamond grinding operations off 
+Government property.  Prior to diamond grinding, submit a 
+Diamond Grinding 
+Plan
+ for review and approval.  At a minimum, include the daily reports for 
+the deficient areas, the location and extent of deficiencies, corrective 
+actions, and equipment.  Remove and replace all pavement areas requiring 
+plan grade or surface smoothness corrections in excess of the limits 
+specified.
+Prior to production diamond grinding operations, perform a test section at 
+the approved location, consisting of a minimum of two adjacent passes with 
+a minimum length of
+ 12 m
+ 40 feet
+ to allow evaluation of the finish and 
+transition between adjacent passes.  Production diamond grinding 
+operations cannot be performed prior to approval.
+2.2   
+AGGREGATES
+Notify the Government at least 7 days before sampling aggregates.  Obtain 
+samples in accordance with 
+ASTM D75/D75M
+ that are representative of the 
+materials to be used for the project.  Provide aggregates consisting of 
+crushed stone, crushed gravel, crushed slag, screenings, natural sand, and 
+mineral filler as required.  The portion of material retained on the
+ 4.75 
+SECTION 32 12 16.16  Page 24
+CANCELLED
+
+
+mm
+ No. 4
+ sieve is coarse aggregate.  The portion of material passing the
+ 
+4.75 mm
+ No. 4
+ sieve and retained on the
+ 0.075 mm
+ No. 200
+ sieve is fine 
+aggregate.  The portion passing the
+ 0.075 mm
+ No. 200
+ sieve is defined as 
+mineral filler.  Submit sufficient materials to produce
+ 90 kg
+ 200 pounds
+ 
+of blended mixture for mix design verification.  Submit all aggregate test 
+results and samples to the Government at least 14 days prior to start of 
+construction.  Perform job aggregate testing no earlier than 6 months 
+before contract award.
+2.2.1   
+Coarse Aggregate
+**************************************************************************
+NOTE:  Retain the sulfate soundness (requirement b., 
+below) in areas where freeze-thaw occurs.  The 
+requirement for sulfate soundness may be deleted in 
+climates where freeze-thaw does not occur.  However, 
+in those areas where freeze-thaw does not occur, 
+requirement b. must remain if experience has shown 
+that this test separates good performing aggregates 
+from bad performing aggregates.  Retain this 
+requirement for all Navy projects.
+Percentage of Wear (ASTM C131/C131M) must not exceed 
+40.  Aggregates with a higher percentage of wear may 
+be specified, provided a satisfactory record under 
+similar conditions of service and exposure has been 
+demonstrated.
+**************************************************************************
+Provide coarse aggregate consisting of sound, tough, durable particles, 
+free from films of material that would prevent thorough coating and 
+bonding with the asphalt material and free from organic matter and other 
+deleterious substances.  Provide coarse aggregate particles meeting the 
+following requirements:
+a.  The percentage of loss not greater than [40] [_____] percent after 500 
+revolutions when tested in accordance with 
+ASTM C131/C131M
+.
+[
+b.  The sodium sulfate soundness loss not exceeding 12 percent, or the 
+magnesium sulfate soundness loss not exceeding 18 percent after five 
+cycles when tested in accordance with 
+ASTM C88
+.
+]
+c.  At least 75 percent by weight of coarse aggregate containing two or 
+more fractured faces when tested in accordance with 
+ASTM D5821
+ with 
+fractured faces produced by crushing.
+d.  The particle shape essentially cubical and the aggregate containing 
+not more than 10 percent, by weight, of flat and elongated particles 
+(5:1 ratio of length to thickness) when tested in accordance with 
+ASTM D4791
+, Method B.
+e.  Slag consisting of air-cooled, blast furnace slag with a compacted 
+weight of not less than
+ 1200 kg/cubic meter
+ 75 lb/cu ft
+ when tested in 
+accordance with 
+ASTM C29/C29M
+.
+f.  Clay lumps and friable particles not exceeding 0.3 percent, by weight, 
+when tested in accordance with 
+ASTM C142/C142M
+.
+SECTION 32 12 16.16  Page 25
+CANCELLED
+
+
+2.2.2   
+Fine Aggregate
+**************************************************************************
+NOTE:  Set the lower limit for uncompacted void 
+content (requirement c., below) at 45 for fine 
+aggregate angularity unless local experience 
+indicates that a lower value can be used.  There are 
+some aggregates which have a good performance record 
+and have an uncompacted void content less than 45.  
+In no case set the limit at less than 43.
+**************************************************************************
+Provide fine aggregate consisting of clean, sound, tough, durable 
+particles.  Provide aggregate particles that are free from coatings of 
+clay, silt, or any objectionable material, contain no clay balls, and meet 
+the following requirements:
+a.  Quantity of natural sand (noncrushed material) added to the aggregate 
+blend not exceeding 15 percent by weight of total aggregate.
+b.  Individual fine aggregate sources with a sand equivalent value greater 
+than [45] [_____] when tested in accordance with 
+ASTM D2419
+.
+c.  Fine aggregate portion of the blended aggregate with an uncompacted 
+void content greater than 45.0 percent when tested in accordance with 
+AASHTO T 304
+ Method A.
+d.  Clay lumps and friable particles not exceeding 0.3 percent, by weight, 
+when tested in accordance with 
+ASTM C142/C142M
+.
+2.2.3   
+Mineral Filler
+Provide mineral filler consisting of a nonplastic material meeting the 
+requirements of 
+ASTM D242/D242M
+.
+2.2.4   
+Aggregate Gradation
+**************************************************************************
+NOTE:  Delete from
+ Table 4
+ Table 2
+ the gradations 
+that will not be used as a part of this project.
+Gradation 1 is limited to intermediate courses.  Do 
+not use gradation 1 for surface courses.  
+Gradation 2 is suitable for intermediate and surface 
+courses.  Typically gradation 2 is used on most 
+projects except where leveling courses are needed. 
+Gradation 3 is limited to leveling courses and 
+shoulders.
+Generally, the layer thickness for gradation No. 1 
+is at least
+ 57 mm
+ 2.25 inches
+, the thickness for 
+gradation No. 2 is at least
+ 37.5 mm
+ 1.5 inches
+, and 
+thickness for gradation No. 3 is at least
+ 25 mm
+ 1.0 
+inch
+.  The preferred thickness of the surface layer 
+is
+ 50 mm
+ 2 inches
+.  The surface layer should not be 
+less than
+ 37 mm
+ 1.5 inches
+.  The thickness of the 
+underlying layers can be up to
+ 75 mm
+ 3 inches
+ 
+SECTION 32 12 16.16  Page 26
+CANCELLED
+
+
+depending on the total designed thickness of the 
+asphalt pavement.
+**************************************************************************
+Provide a combined aggregate gradation that conforms to gradations 
+specified in
+ Table 4
+ Table 2
+, when tested in accordance with 
+ASTM C136/C136M
+ and 
+ASTM C117
+, and does not vary from the low limit on one 
+sieve to the high limit on the adjacent sieve or vice versa, but grades 
+uniformly from coarse to fine.  Provide a JMF within the specification 
+limits; however, the gradation can exceed the limits when the allowable 
+deviation from the JMF shown in
+ Tables 6 and 7
+ Tables 4 and 5
+ are applied.
+Table 4.  Table 2.  Aggregate Gradations
+Sieve Size, mm inch
+Gradation 1 Percent
+Passing by Mass
+Gradation 2 Percent
+Passing by Mass
+Gradation 3 Percent
+Passing by Mass
+25.0  1
+100
+---
+---
+19.0  3/4
+90-100
+100
+---
+12.5  1/2
+68-88
+90-100
+100
+ 9.5  3/8
+60-82
+69-89
+90-100
+ 4.75 No. 4
+45-67
+53-73
+58-78
+ 2.36 No. 8
+32-54
+38-60
+40-60
+ 1.18 No. 16
+22-44
+26-48
+28-48
+ 0.60 No. 30
+15-35
+18-38
+18-38
+ 0.30 No. 50
+9-25
+11-27
+11-27
+ 0.15 No. 100
+6-18
+6-18
+6-18
+ 0.075 No. 200
+3-6
+3-6
+3-6
+2.3   
+ASPHALT CEMENT BINDER
+**************************************************************************
+NOTE:  For CONUS locations specify Performance 
+Graded (PG) asphalt binders.  Consider using the 
+same grade PG binder used by the State DOT near the 
+project location.  For example the PG grade 
+typically specified in that region of the state for 
+dense graded mixes on highways with design ESALs 
+less than 10 million.  The exception to that would 
+be grades with a low temperature higher than PG 
+XX-22 must not be used such as PG XX-16 or PG XX-10 
+unless the Engineer has had successful experience 
+with them.
+For OCONUS locations penetration graded asphalt 
+binders may be used.
+If rutting is a typical problem in the area or if 
+high traffic volume is expected then consider  
+"bumping" the high temperature grade for the top
+ 100 
+SECTION 32 12 16.16  Page 27
+CANCELLED
+
+
+mm
+ 4 inches
+ of pavement.  The low temperature grade 
+should remain the same.  For most roads rutting is 
+not a concern.  
+For State DOTs that use performance graded asphalt 
+binder, select ASTM D6373.  For State DOTs that use 
+performance graded asphalt binder using the Multiple 
+Stress Creep Recovery test, select ASTM D8239. 
+When the PG spread between the high and low 
+temperature is less than 90, delete the three 
+bracketed options for elastic recovery and MSCR 
+recovery.
+When the PG spread between the high and low 
+temperature is greater than 90, a PG Plus Test will 
+be required to determine if the asphalt cement has 
+been polymer modified.  Use the PG Plus Test found 
+in the State DOT specifications for the project 
+location.  When the State DOT does not specify a PG 
+Plus Test, use ASTM D6084/D6084M with a minimum 
+elastic recovery of 75 percent.  
+Select one of the three bracketed option below for 
+PG plus testing.  Use the first option for State 
+DOTs with elastic recovery, ASTM D6084/D6084M.  Use 
+the second option for State DOTs that have Multiple 
+Stress Creep Recovery testing, ASTM D7405.  Use the 
+third option for State DOTs that have no PG plus 
+testing, ASTM D6084/D6084M.
+Consider contacting a materials engineer or the 
+State DOT when editing this criteria.
+**************************************************************************
+Provide asphalt cement binder that conforms to [
+ASTM D6373
+] [
+ASTM D8239
+] 
+Performance Grade (PG) [_____].[  As an alternate, provide 
+ASTM D946/D946M
+ 
+Penetration Grade [_____]].  [Provide an asphalt binder with a minimum 
+elastic recovery of [_____] percent when tested at
+ 25 degrees C plus or 
+minus 0.5 degrees C
+ 77 degrees F plus or minus 0.9 degrees F
+ in accordance 
+with 
+ASTM D6084/D6084M
+.  Condition the specimen for elastic recovery in 
+accordance with 
+ASTM D2872
+.][Provide an asphalt binder with an average 
+recovery of [_____] percent at [_____] 
+ kPa
+ psi
+ when tested in accordance 
+with 
+ASTM D7405
+.  Condition the specimen for elastic recovery in 
+accordance with 
+ASTM D2872
+.][Provide an asphalt binder with a minimum 
+elastic recovery of 75 percent in accordance with 
+ASTM D6084/D6084M
+.]  
+Provide test data indicating grade certification by the supplier at the 
+time of delivery of each load to the mix plant.  
+When warm-mix asphalt 
+technology involves additives, grade the asphalt binder with the asphalt 
+binder additive included.  
+Submit copies of these certifications to the 
+Government.  The supplier is defined as the last source of any 
+modification to the binder.  The Government may sample and test the binder 
+at the mix plant at any time before or during mix production.  [Submit
+ 20 L
+ 5 gallon
+ sample of the asphalt cement or asphalt binder not less than 14 
+days before start of the test section for mix design verification and 
+approval.  Obtain samples for this verification testing in accordance with 
+ASTM D140/D140M
+ and in the presence of the Government.  Provide these 
+samples to the Government for the verification testing, which will be 
+performed at the Government's expense.]
+SECTION 32 12 16.16  Page 28
+CANCELLED
+
+
+2.4   
+WARM-MIX ASPHALT TECHNOLOGIES/PRODUCTS
+**************************************************************************
+NOTE:  Warm-mix asphalt (WMA) can be used in lieu 
+of hot mix asphalt (HMA).  The WMA is primarily used 
+to reduce emissions during production and placement 
+of HMA.  Research has shown that WMA mixes provide 
+similar performance to HMA mixture.  It is 
+recommended only HMA should be specified unless 
+there is a good reason to use WMA.
+  
+Delete if WMA is not allowed.
+**************************************************************************
+Provide warm-mix asphalt technologies/products that have a record of good 
+performance and are included on the local state DOT's qualified products 
+list, if the DOT maintains a qualified products list.  These qualified 
+products lists can be found at each state DOT's website.
+2.5   
+MIX DESIGN
+**************************************************************************
+NOTE:  Select the appropriate gradation and VMA 
+requirements in
+ Table 5
+ Table 3
+ to be consistent 
+with the gradation chosen in
+ Table 4
+ Table 2
+.  
+Delete from
+ Table 5
+ Table 3
+ the gradations that will 
+not be used as a part of this project.
+Use 75 blows with the Marshall hand-held hammer for 
+high traffic areas or all pavements designed for 
+tire pressures of
+ 690 kPa
+ 100 psi
+ or higher.
+Use 50 blows with the Marshall hand-held hammer for 
+all shoulder pavements and pavements designed for 
+tire pressures less than
+ 690 kPa
+ 100 psi
+.
+For Marshall mixes, select the appropriate Marshall 
+column in
+ Table 5
+ Table 3
+ and delete the column that 
+will not be used as a part of this project.
+Use 75 gyrations with the Superpave gyratory 
+compactor for high traffic areas or all pavements 
+designed for tire pressures of
+ 690 kPa
+ 100 psi
+ or 
+higher.
+Use 50 gyrations with the Superpave gyratory 
+compactor for all shoulder pavements and pavements 
+designed for tire pressures less than
+ 690 kPa
+ 100 psi
+.
+For Superpave mixtures delete the columns in
+ Table 5
+ 
+Table 3
+ that refer to Marshall.
+**************************************************************************
+Develop the mix design.  Perform Job Mix formula (JMF) and aggregates 
+testing no earlier than 6 months before contract award.  Provide asphalt 
+mixture composed of well-graded aggregate, mineral filler if required, and 
+asphalt material.  Provide aggregate fractions sized, handled in separate 
+size groups, and combined in such proportions that the resulting mixture 
+SECTION 32 12 16.16  Page 29
+CANCELLED
+
+
+meets the grading requirements of
+ Table 4
+ Table 2
+.  Do not produce asphalt 
+pavement for
+ payment
+ acceptance
+ until a JMF has been approved.
+[  Design 
+the asphalt mixture using [50] [75] blows with the Marshall hand-held 
+hammer procedures contained in 
+AI MS-2
+ and the criteria shown in
+ Table 5
+ 
+Table 3
+.]
+[  Design the asphalt mixture using the Superpave gyratory 
+compactor set at [50] [75] gyrations.  Prepare samples at various asphalt 
+contents and compacted in accordance with 
+ASTM D6925
+.]
+  Use laboratory 
+compaction temperatures for Polymer Modified Asphalts as recommended by 
+the asphalt binder manufacturer.  Determine the Tensile Strength Ratio 
+(TSR) of the composite mixture in accordance with 
+ASTM D4867/D4867M
+.  
+Compact the TSR specimens to an air void content of 7 percent plus or 
+minus 1 percent.  If the Tensile Strength Ratio (TSR) of the composite 
+mixture is less than 75, reject the aggregates or treat the asphalt 
+mixture with an anti-stripping agent.  Add a sufficient amount of 
+anti-stripping agent to produce a TSR of not less than 75.  If an 
+antistrip agent is required, provide it at no additional cost to the 
+Government.  Provide sufficient materials to produce
+ 90 kg
+ 200 pound
+ of 
+blended mixture to the Government for verification of mix design at least 
+14 days prior to construction of test section.
+2.5.1   
+JMF Requirements
+Submit the proposed JMF in writing, for approval, at least 14 days prior 
+to the start of the test section including, as a minimum:
+a.  Percent passing each sieve size.
+b.  Percent of asphalt cement.
+c.  Percent of each aggregate and mineral filler to be used.
+d.  Asphalt performance grade or penetration grade.
+e.  
+[Number of blows of hammer per side of molded specimen.]
+[Number of 
+Superpave gyratory compactor gyrations.]
+f.  Laboratory mixing temperature.
+g.  Laboratory compaction temperature.
+h.  Temperature-viscosity relationship of the asphalt cement
+i.  Plot of the combined gradation on the 0.45 power gradation chart, 
+stating the nominal maximum size.
+j.  Graphical plots and summary tabulation of
+[ Marshall stability, flow,]
+ 
+air voids, voids in the mineral aggregate, and unit weight versus 
+asphalt content as shown in 
+AI MS-2
+.  Include summary tabulation that 
+includes individual specimen data for each specimen tested.
+k.  Specific gravity and absorption of each aggregate.
+l.  Percent natural sand.
+m.  Percent particles with two or more fractured faces (in coarse 
+aggregate).
+n.  Fine aggregate angularity.
+SECTION 32 12 16.16  Page 30
+CANCELLED
+
+
+o.  Percent flat or elongated particles in coarse aggregate.
+p.  Tensile Strength Ratio and wet/dry specimen test results.
+q.  Antistrip agent (if required).
+r.  List of all modifiers.
+s.  Percentage and properties (asphalt content, aggregate gradation, and 
+aggregate properties) of RAP in accordance with paragraph RECYCLED 
+ASPHALT PAVEMENT, if RAP is used.
+t.  
+Warm-mix additive
+ or process.
+Table 5.  Table 3.  Mix Design Criteria
+Test Property
+Marshall
+(50 Blows)
+Marshall
+(75 Blows)
+Superpave
+([50][75]
+gyrations)
+Stability, N pounds, minimum (NA 
+for Superpave)
+44501000
+(1)
+80001800
+(1)
+NA
+Flow, 0.25 mm 0.01 inch, (NA for 
+Superpave)
+8-18
+8-16
+NA
+Air voids, percent
+3-5
+3-5
+3-5
+Minimum Percent Voids in Mineral 
+Aggregate (VMA)
+(2)
+Gradation 1
+13.0
+13.0
+13.0
+Gradation 2
+14.0
+14.0
+14.0
+Gradation 3
+15.0
+15.0
+15.0
+TSR, minimum percent
+75
+75
+75
+(1) This is a minimum requirement.  Provide significantly higher average during 
+construction to ensure compliance with the specifications.
+(2) Calculate VMA in accordance with AI MS-2, based on ASTM C127 and ASTM C128 
+bulk specific gravity for the aggregate.
+2.5.2   
+Adjustments to JMF
+The JMF for each mixture is in effect until a new formula is approved in 
+writing by the Government.  Should a change in sources of any materials be 
+made, perform a new mix design and a new JMF approved before the new 
+material is used.  Make minor adjustments within the specification limits 
+to the JMF to optimize mix volumetric properties.  Adjustments to the 
+original JMF are limited to plus or minus 4 percent on the
+ 4.75 mm
+ No. 4
+ 
+and coarser sieves; plus or minus 3 percent on the
+ 2.36 mm
+ No. 8
+ to
+ 0.30 mm
+ No. 50
+ sieves; and plus or minus 1 percent on the
+ 0.15 mm
+ No. 100
+ sieve 
+and 
+ 0.075 mm
+ No. 200
+ sieve.  Asphalt content adjustments are limited to 
+plus or minus 0.40 from the original JMF.  If adjustments are needed that 
+exceed these limits, develop a new mix design.
+SECTION 32 12 16.16  Page 31
+CANCELLED
+
+
+2.6   
+RECYCLED HOT MIX ASPHALT
+**************************************************************************
+NOTE:  Reclaimed Asphalt Pavement (RAP) can be used 
+but the amount of asphalt binder from RAP cannot 
+exceed 30 percent of the total asphalt content in 
+the recycled asphalt mixture.  The resulting 
+recycled mix must meet all requirements that are 
+specified for virgin mixtures.  
+The 30 percent is an upper limit.  If the existing 
+asphalt pavement is relatively old, the amount of 
+RAP used should not approach this limit.  If the 
+recycling involves relatively new RAP materials, the 
+percentage of RAP specified below can reach 30 
+percent binder as long as the recycled mixture meets 
+the specification requirements.  
+Select the first option if RAP is not used.  
+In addition to MS-02, refer to UFC 3-250-03, 
+"Standard Practice Manual for Flexible Pavements" 
+for further design guidance.
+**************************************************************************
+[Recycled asphalt mixture is not allowed for the project.] [Provide 
+recycled asphalt mixture consisting of reclaimed asphalt pavement (RAP), 
+coarse aggregate, fine aggregate, mineral filler, and asphalt cement.  
+Provide RAP of a consistent gradation, asphalt content, and properties.  
+Maintain RAP stockpiles free from contamination including coal-tar 
+sealers.  Limit the maximum RAP chunk size to
+ 50 mm
+ 2 inches
+ when feeding 
+RAP into the plant.  The individual aggregates in a RAP chunk are not to 
+exceed the maximum size aggregate of the gradation specified in
+ Table 4
+ 
+Table 2
+.  Design the recycled asphalt mixture using procedures contained 
+in 
+AI MS-2
+.  Provide RAP job mix that meets the requirements of paragraph 
+MIX DESIGN.  Limit the amount of RAP so the asphalt binder from the RAP 
+does not exceed 30 percent of the total asphalt content.]
+[
+2.6.1   
+RAP Aggregates and Asphalt Cement
+Provide a blend of aggregates used in the recycled mix that meet the 
+requirements of paragraph AGGREGATES.  Establish the percentage of asphalt 
+binder in the RAP for the mixture design according to 
+ASTM D2172/D2172M
+ or 
+ASTM D6307
+ using the appropriate dust correction procedure.
+2.6.2   
+RAP Mix
+Select the virgin asphalt binder as described below:
+a.  For 0 to 20 percent recycled binder content - no change in virgin 
+binder selection.
+b.  For 20+ percent to 30 percent recycled binder content - select virgin 
+binder one grade softer than normal.
+SECTION 32 12 16.16  Page 32
+CANCELLED
+
+
+]
+PART 3   EXECUTION
+3.1   
+CONTRACTOR QUALITY CONTROL
+**************************************************************************
+NOTE:  The Contractor may be able to meet the 
+specified quality control requirements with in-house 
+capability or may have to use the independent 
+commercial laboratory to provide the required 
+quality control testing.
+Select the bracketed option for Marshall mixes.
+**************************************************************************
+3.1.1   
+General Quality Control Requirements
+Submit the Quality Control Plan.  Do not produce
+ hot-mix
+ warm-mix
+ asphalt  
+for
+ payment
+ acceptance
+ until the quality control plan has been approved.  
+In the quality control plan, address all elements which affect the quality 
+of the pavement including, but not limited to:
+a.  Mix Design and unique JMF identification code
+b.  Aggregate Grading
+c.  Quality of Materials
+d.  Stockpile Management and procedures to prevent contamination
+e.  Proportioning
+ including percent of warm-mix additive
+f.  Mixing and Transportation
+g.  Mixture Volumetrics
+h.  Moisture Content of Mixtures
+i.  Placing and Compaction
+j.  Joints
+k.  Surface Smoothness
+l.  Truck bed release agent
+[
+m.  Correlation of mechanical hammer to hand hammer.  Determine the number 
+of blows of the mechanical hammer required to provide the same density 
+of the JMF as provided by the hand hammer.  Use the average of three 
+specimens per trial blow application.
+]
+3.1.2   
+Testing Laboratory
+Provide a fully equipped asphalt laboratory located at the plant or job 
+site that is equipped with heating and air conditioning units to maintain 
+a temperature of
+ 24 plus or minus 2.3 degrees C
+ 75 plus or minus 5 degrees 
+F
+.  Provide laboratory facilities that are kept clean and all equipment 
+maintained in proper working condition.  Provide the Government with 
+unrestricted access to inspect the laboratory facility, to witness quality 
+control activities, and to perform any check testing desired.  The 
+SECTION 32 12 16.16  Page 33
+CANCELLED
+
+
+Government will advise in writing of any noted deficiencies concerning the 
+laboratory facility, equipment, supplies, or testing personnel and 
+procedures.  When the deficiencies are serious enough to adversely affect 
+test results, immediately suspend the incorporation of the materials into 
+the work.  Incorporation of the materials into the work will not be 
+permitted to resume until the deficiencies are corrected.
+3.1.3   
+Quality Control Testing
+Perform all quality control tests applicable to these specifications and 
+as set forth in the Quality Control Program.  Use the independent 
+commercial laboratory for acceptance testing in paragraph ACCEPTANCE.  Use 
+in-house capabilities or the independent commercial laboratory for quality 
+control testing.  Required elements of the testing program include, but 
+are not limited to tests for the control of asphalt content, aggregate 
+gradation, aggregate moisture, moisture in the asphalt mixture, 
+temperatures, VMA, 
+[Marshall stability, flow, ]
+and in-place density.  
+Develop a Quality Control Testing Plan as part of the Quality Control 
+Program.
+3.1.3.1   
+Asphalt Content
+Determine asphalt content a minimum of twice per lot (a lot is defined in 
+paragraph PAVEMENT LOTS) using the ignition method in accordance with 
+ASTM D6307
+.  Use the extraction method in accordance with 
+ASTM D2172/D2172M
+ if the correction factor for the ignition method in 
+ASTM D6307
+ is greater 
+than 1.0.  The asphalt content for the lot will be determined by averaging 
+the test results.
+3.1.3.2   
+Aggregate Properties
+Determine aggregate gradations a minimum of twice per lot from mechanical 
+analysis of extracted aggregate in accordance with 
+ASTM D5444
+, 
+ASTM C136/C136M
+, and 
+ASTM C117
+.  Determine the specific gravity of each 
+aggregate size grouping for each
+ 18,000 tonnes
+ 20,000 tons
+ in accordance 
+with 
+ASTM C127
+ or 
+ASTM C128
+.  Determine fractured faces for gravel sources 
+for each
+ 18,000 tonnes
+ 20,000 tons
+ in accordance with 
+ASTM D5821
+.  
+Determine the uncompacted void content of natural sand, manufactured sand, 
+and blended aggregate for each
+ 18,000 tonnes
+ 20,000 tons
+ in accordance 
+with 
+AASHTO T 304
+ Method A.
+3.1.3.3   
+Moisture Content of Aggregate
+Determine the moisture content of aggregate used for production a minimum 
+of once per lot in accordance with 
+ASTM C566
+.
+3.1.3.4   
+Moisture Content of Asphalt Mixture
+Determine the moisture content of the asphalt mixture at least once per 
+lot in accordance with 
+AASHTO T 329
+.
+3.1.3.5   
+Temperatures
+Check temperatures at least four times per lot, at necessary locations to 
+determine the temperature at the dryer, the asphalt cement binder in the 
+storage tank, the asphalt mixture at the plant, and the asphalt mixture at 
+the job site.
+SECTION 32 12 16.16  Page 34
+CANCELLED
+
+
+3.1.3.6   
+VMA
+[, Marshall Stability, and Flow]
+Obtain mixture samples at least four times per lot. Calculate the VMA of 
+each specimen in accordance with 
+AI MS-2
+ based on 
+ASTM C127
+ and 
+ASTM C128
+ 
+bulk specific gravity for the aggregate
+[, as well as the Marshall 
+stability and flow, as described in 
+ASTM D6927
+]
+.  Provide VMA within the 
+limits of
+ Table 5
+ Table 3
+.
+3.1.3.7   
+In-Place Density
+Conduct any necessary testing to ensure the specified density is 
+achieved.  A nuclear gauge or other non-destructive testing device can be 
+used to monitor pavement density.
+3.1.3.8   
+Additional Testing
+Perform any additional testing deemed necessary to control the process.
+3.1.3.9   
+QC Monitoring
+Submit all QC test results to the Government on a daily basis as the tests 
+are performed.  The Government reserves the right to monitor any of the 
+Contractor's quality control testing and to perform duplicate testing as a 
+check to the Contractor's quality control testing.
+3.1.4   
+Sampling
+When directed by the Government, sample and test any material which 
+appears to not meet specification requirements unless such material is 
+voluntarily removed and replaced or deficiencies corrected.  Perform all 
+sampling in accordance with standard procedures specified.
+3.1.5   
+Control Charts
+**************************************************************************
+NOTE:  
+For Marshall mixes, select the appropriate 
+Marshall row in
+ Table 6
+ Table 4
+ and delete the row 
+that will not be used as a part of this project.
+For Superpave mixes, delete the rows in
+ Table 6
+ 
+Table 4
+ that refer to Marshall.
+ 
+Select the appropriate gradation and VMA 
+requirements in
+ Table 6
+ Table 4
+ to be consistent 
+with the gradation chosen in
+ Table 4
+ Table 2
+.
+For projects less than 2,000
+ tonnes
+ tons
+, the 
+control chart requirements may be deleted.
+**************************************************************************
+For process control, establish and maintain linear control charts on both 
+individual samples and the running average of last four samples for the 
+parameters listed in
+ Table 6
+ Table 4
+, as a minimum.  Post the control 
+charts as directed by the Government and maintain current at all times.  
+Identify the following on the control charts: the project number, the test 
+parameter being plotted, the individual sample numbers, the Action and 
+Suspension Limits listed in
+ Table 6
+ Table 4
+ applicable to the test 
+parameter being plotted, and the test results.  Also show target values 
+(JMF) on the control charts as indicators of central tendency for the 
+SECTION 32 12 16.16  Page 35
+CANCELLED
+
+
+cumulative percent passing, asphalt content, and laboratory air voids 
+parameters.  When the test results exceed either applicable Action Limit, 
+take immediate steps to bring the process back in control.  When the test 
+results exceed either applicable Suspension Limit, halt production until 
+the problem is solved.  When the Suspension Limit is exceeded for 
+individual values or running average values, the Government has the option 
+to require removal and replacement of the material represented by the 
+samples or to leave in place and base acceptance on mixture volumetric 
+properties and in place density.  Use the control charts as part of the 
+process control system for identifying trends so that potential problems 
+can be corrected before they occur.  Make decisions concerning mix 
+modifications based on analysis of the results provided in the control 
+charts.  In the Quality Control Plan, indicate the appropriate action to 
+be taken to bring the process into control when certain parameters exceed 
+their Action Limits.
+Table 6.  Table 4.  Action and Suspension Limits for the Parameters to be Plotted
+on Individual and Running Average Control Charts
+Individual Samples
+Running Average of
+Last Four Samples
+Parameter to be Plotted
+Action
+Limit
+Suspension
+Limit
+Action
+Limit
+Suspension
+Limit
+4.75 mm No. 4 sieve, Cumulative 
+percent passing, deviation for JMF 
+target; plus or minus values
+6
+8
+4
+5
+0.6 mm No. 30 sieve, Cumulative 
+percent passing, deviation for JMF 
+target; plus or minus values
+4
+6
+3
+4
+0.075 mm No. 200 sieve, Cumulative 
+percent passing, deviation for JMF 
+target; plus or minus values
+1.4
+2.0
+1.1
+1.5
+Asphalt content, percent deviation 
+from JMF target; plus or minus value
+0.4
+0.5
+0.2
+0.3
+Stability, Newtons pounds (minimum) (NA for Superpave)
+75 Blow JMF
+80001800
+75601700
+84401900
+80001800
+50 Blow JMF
+44501000
+4000900
+49001100
+44501000
+Flow, 0.25 mm 0.01 inch (NA for Superpave)
+75 Blow JMF
+8 min.
+7 min.
+9 min.
+8 min.
+16 max.
+17 max.
+15 max.
+16 max.
+50 Blow JMF
+8 min.
+7 min.
+9 min.
+8 min.
+18 max.
+19 max.
+17 max.
+18 max.
+Laboratory Air Voids, percent 
+deviation from JMF target value
+No specific action and suspension limits set 
+since this parameter is used for acceptance
+In-place Mat Density, percent of TMD
+No specific action and suspension limits set 
+since this parameter is used for acceptance
+In-place Joint Density, percent of 
+TMD
+No specific action and suspension limits set 
+since this parameter is used for acceptance
+VMA
+Gradation 1
+13.5
+13.0
+13.3
+13.0
+SECTION 32 12 16.16  Page 36
+CANCELLED
+
+
+Table 6.  Table 4.  Action and Suspension Limits for the Parameters to be Plotted
+on Individual and Running Average Control Charts
+Individual Samples
+Running Average of
+Last Four Samples
+Parameter to be Plotted
+Action
+Limit
+Suspension
+Limit
+Action
+Limit
+Suspension
+Limit
+Gradation 2
+14.5
+14.0
+14.3
+14.0
+Gradation 3
+15.5
+15.0
+15.3
+15.0
+3.2   
+PREPARATION OF ASPHALT BINDER MATERIAL
+Heat the asphalt cement material while avoiding local overheating.  
+Provide a continuous supply of the asphalt material to the mixer at a 
+uniform temperature.  Maintain the temperature of the asphalt delivered to 
+the mixer to provide a suitable viscosity for adequate coating of the 
+aggregate particles.
+  For hot-mix, do not heat unmodified asphalt to a 
+temperature exceeding
+ 160 degrees C
+ 325 degrees F
+ when added to the 
+aggregate.  Do not heat modified asphalt to a temperature exceeding
+ 175 
+degrees C
+ 350 degrees F
+ when added to the aggregate.
+  For warm-mix, do not 
+heat asphalt binder to a temperature exceeding
+ 132 degrees C
+ 270 degrees F
+ 
+when added to the aggregate.
+3.3   
+PREPARATION OF MINERAL AGGREGATE
+Heat and dry the aggregate prior to mixing.  Provide a rate of heating and 
+a maximum temperature that does not damage the aggregates.  Do not heat 
+the aggregate to a temperature exceeding
+ 175 degrees C
+ 350 degrees F
+ when 
+the asphalt binder is added.  Maintain the temperature no lower than is 
+required to obtain complete coating and uniform distribution on the 
+aggregate particles and to provide a mixture of satisfactory workability.
+3.4   
+PREPARATION OF ASPHALT MIXTURE
+Weigh or meter the aggregates and the asphalt cement and introduce into 
+the mixer the amount specified by the JMF.  Mix the combined materials 
+until the aggregate obtains a uniform coating of asphalt binder and is 
+thoroughly distributed throughout the mixture.  The moisture content of 
+all asphalt mixture upon discharge from the plant is not to exceed 0.5 
+percent by total weight of mixture as measured by 
+AASHTO T 329
+.
+3.5   
+PREPARATION OF THE UNDERLYING SURFACE
+**************************************************************************
+NOTE:  If the underlying surface to be paved is an 
+unbound granular layer, apply a prime coat, 
+especially if this layer will be exposed to weather 
+for an extended period of time prior to covering 
+with an asphalt mixture.  Benefits derived from a 
+prime coat include an additional weatherproofing of 
+the base, improving the bond between the base and 
+asphalt layer, and preventing the base from shifting 
+under construction equipment.
+If the underlying surface to be paved is an existing 
+asphalt or concrete layer, use a tack coat to ensure 
+an adequate bond between layers.
+Tack and prime coat requirements will need to be 
+covered in the contract documents.
+SECTION 32 12 16.16  Page 37
+CANCELLED
+
+
+**************************************************************************
+Immediately before placing the asphalt mixture, clean the underlying 
+course of dust and debris.  Apply a [prime coat] [ or ] [tack coat] in 
+accordance with Section 
+32 12 13
+ BITUMINOUS TACK AND PRIME COATS.
+3.6   
+TEST SECTION
+**************************************************************************
+NOTE: Delete requirement for a test section if the 
+project requires less than 2,000
+ tonnes
+ tons
+.
+**************************************************************************
+Prior to full production, place a test section for each JMF used.  
+Construct a test section
+ 75 to 150 m
+ 250 to 500 feet
+ long and two paver 
+passes wide with a longitudinal cold joint.  Do not place the second lane 
+of test section until the temperature of pavement edge is less than
+ 80 
+degrees C
+ 175 degrees F
+.  Construct the test section with the same depth 
+as the course which it represents.  Ensure the underlying grade or 
+pavement structure upon which the test section is to be constructed is the 
+same or very similar to underlying layer for the project.  Use the same 
+equipment and procedures in construction of the test section as on the 
+remainder of the course represented by the test section.  Construct the 
+test section as part of the project pavement, as approved by the 
+Government.
+3.6.1   
+Sampling and Testing for Test Section
+**************************************************************************
+NOTE:  
+Table 7 
+Table 5 
+applies only to the test 
+section and localized areas appearing to deviate 
+from the specification.  The limits in
+ Tables 1, 2, 
+and 6
+ Table 4
+ apply to the results of 4 full scale 
+production tests run for each lot.  This is why the 
+limits listed in
+ Table 7
+ Table 5
+ are different from 
+those listed in
+ Tables 1, 2, and 6
+ Table 4
+.
+Select the appropriate VMA requirement to match the 
+selected gradation.  
+For Marshall mixes, select the appropriate stability 
+and flow value to match the laboratory compactive 
+effort (50 or 75 blows).
+For Superpave mixes, delete the rows in
+ Table 7
+ 
+Table 5
+ that refer to Marshall.
+**************************************************************************
+Obtain one sample at the plant from a random truck.  Compact three 
+specimens and test for laboratory air voids
+[ as well as the Marshall 
+stability and flow]
+.  Test a portion of the same sample for theoretical 
+maximum density (TMD), aggregate gradation, asphalt content, and TSR.  
+Adjust the compactive effort as required to provide TSR specimens with an 
+air void content of 7 plus or minus 1 percent.  Obtain four randomly 
+selected cores from each finished pavement mat (eight total), four from 
+the longitudinal joint, and test for density.  Perform random sampling in 
+accordance with procedures contained in 
+ASTM D3665
+.  Construction may 
+continue provided the test results are within the tolerances or exceed the 
+minimum values shown in
+ Table 7
+ Table 5
+.  If all test results meet the 
+SECTION 32 12 16.16  Page 38
+CANCELLED
+
+
+specified requirements, the test section may remain as part of the project 
+pavement.  If test results exceed the tolerances shown, remove and replace 
+the test section and construct another test section at no additional cost 
+to the Government.
+Table 7.  Table 5.  Test Section Requirements for Material and Mixture Properties
+Property
+Specification Limit
+Aggregate Gradation-Percent Passing (Individual Test Result)
+4.75 mm No. 4 and larger
+JMF plus or minus 8
+2.36, 1.18, 0.60, and 0.30 mmNo. 8, No. 
+16, No. 30, and No. 50
+JMF plus or minus 6
+0.15 and 0.075 mmNo. 100 and No. 200
+JMF plus or minus 2.0
+Asphalt Content, Percent (Individual 
+Test Result)
+JMF plus or minus 0.5
+Laboratory Air Voids, Percent (Average 
+of 3 specimens)
+JMF plus or minus 1.0
+VMA, Percent (Average of 3 specimens)
+See Table 5 Table 3
+Tensile Strength Ratio (TSR) (At 7 
+percent plus/minus 1 percent air void 
+content)
+75 percent minimum
+Conditioned Strength
+415 kPa 60 psi minimum
+Mat Density, Percent of TMD (Average of 
+4 Random Cores)
+92.0 - 96.0 93.0 minimum
+Joint Density, Percent of TMD (Average 
+of 4 Random Cores)
+89.5 minimum 90.0 minimum
+Stability, newtons pounds (Average of 3 
+specimens)
+(for Marshall only)
+[4450 1000 minimum for 50 blows][8000 
+1800 minimum for 75 blows]
+Flow, 0.25 mm 0.01 inch (Average of 3 
+specimens)
+(for Marshall only with non-modified 
+asphalt)
+[8 - 18 for 50 blows][8 - 16 for 75 
+blows]
+3.6.2   
+Additional Test Sections
+If the initial test section should prove to be unacceptable, make the 
+necessary adjustments to the JMF, plant operation, placing procedures, and 
+rolling procedures before beginning construction of a second test 
+section.  Construct and evaluate additional test sections, as required, 
+for conformance to the specifications.  Full production paving is not 
+allowed until an acceptable section has been constructed and accepted.
+SECTION 32 12 16.16  Page 39
+CANCELLED
+
+
+3.7   
+TRANSPORTING AND PLACING
+3.7.1   
+Transporting
+Transport asphalt mixture from the mixing plant to the site in clean, 
+tight vehicles.  Schedule deliveries so that placing and compacting of 
+mixture is uniform with minimum stopping and starting of the paver.  
+Provide adequate artificial lighting for night placements.  Hauling over 
+freshly placed material will not be permitted until the material has been 
+compacted as specified, and allowed to cool to
+ 60 degrees C
+ 140 degrees F
+.
+3.7.2   
+Placing
+Place the mix in lifts of adequate thickness and compact at a temperature 
+suitable for obtaining density, surface smoothness, and other specified 
+requirements.  Upon arrival, place the mixture to the full width by an 
+asphalt paver; strike off in a uniform layer of such depth that, when the 
+work is completed, the required thickness is obtained and the surface 
+conforms to the grade and contour indicated.  Do not broadcast waste 
+mixture onto the mat or recycle into the paver hopper.  Collect waste 
+mixture and dispose off site.  Regulate the speed of the paver to 
+eliminate pulling and tearing of the asphalt mat.  Begin placement of the 
+mixture  along the centerline of a crowned section or on the high side of 
+areas with a one-way slope.  Place the mixture in consecutive adjacent 
+strips having a minimum width of
+ 3 m
+ 10 feet
+.  Offset the longitudinal 
+joint in one course from the longitudinal joint in the course immediately 
+below by at least
+ 300 mm
+ 1 foot
+; however, locate the joint in the surface 
+course at the centerline of the pavement.  Offset transverse joints in one 
+course by at least
+ 3 m
+ 10 feet
+ from transverse joints in the previous 
+course.  Offset transverse joints in adjacent lanes a minimum of
+ 3 m
+ 10 
+feet
+.  On isolated areas where irregularities or unavoidable obstacles 
+make the use of mechanical spreading and finishing equipment impractical, 
+the mixture can be spread and luted by hand tools.
+3.8   
+COMPACTION OF MIXTURE
+3.8.1   
+General
+a.  After placing, thoroughly and uniformly compact the mixture by 
+rolling.  Compact the surface as soon as possible without causing 
+displacement, cracking, or shoving.  Determine the sequence of rolling 
+operations and the type of rollers used with the exception that 
+application of more than three passes with a vibratory roller in the 
+vibrating mode is prohibited.  Maintain the speed of the roller, at 
+all times, sufficiently slow to avoid displacement of the asphalt 
+mixture and to be effective in compaction.  Correct at once any 
+displacement occurring as a result of reversing the direction of the 
+roller, or from any other cause.
+b.  Furnish sufficient rollers to handle the output of the plant.  
+Continue rolling until the surface is of uniform texture, true to 
+grade and cross section, and the required field density is obtained.  
+To prevent adhesion of the mixture to the roller, keep the wheels 
+properly moistened, but excessive water is not permitted.  In areas 
+not accessible to the roller, thoroughly compact the mixture with hand 
+tampers or small compactors.  Remove the full depth of any mixture 
+that becomes loose and broken, mixed with dirt, contains 
+check-cracking, or is in any way defective.  Replace with fresh 
+asphalt mixture and immediately compact to conform to the surrounding 
+SECTION 32 12 16.16  Page 40
+CANCELLED
+
+
+area.  Perform this work at no expense to the Government.  Skin 
+patching is not allowed.
+3.8.2   
+Segregation
+**************************************************************************
+NOTE:  Select the first bracketed option when a test 
+section is required.
+Select the second bracketed option for projects less 
+than 2,000
+ tonnes
+ tons
+.
+**************************************************************************
+The Government can sample and test any material that looks deficient.  
+When the in-place material appears to be segregated, the Government has 
+the option to sample the material and have it tested and compared to the 
+[aggregate gradation, asphalt content, and in-place density requirements in
+ Table 7
+ Table 5
+][in-place density requirements in
+ Table 2
+ paragraph 
+ACCEPTANCE
+].  If the material fails to meet these specification 
+requirements, remove and replace the extent of the segregated material the 
+full depth of the layer of asphalt mixture at no additional cost to the 
+Government.  When segregation occurs in the mat, take appropriate action 
+to correct the process so that additional segregation does not occur.
+3.9   
+JOINTS
+Construct joints to ensure a continuous bond between the courses and to 
+obtain the required density.  Provide all joints with the same texture as 
+other sections of the course and meet the requirements for smoothness and 
+grade.
+3.9.1   
+Transverse Joints
+Do not pass the roller over the unprotected end of the freshly laid 
+mixture, except when necessary to form a transverse joint.  When necessary 
+to form a transverse joint, construct by means of placing a bulkhead or by 
+tapering the course.  Utilize a dry saw cut on the transverse joint full 
+depth and width on a straight line to expose a vertical face prior to 
+placing the adjacent lane.  Remove the cutback material from the project.  
+In both methods, provide a light tack coat of asphalt material to all 
+contact surfaces before placing any fresh mixture against the joint.
+3.9.2   
+Longitudinal Joints
+Provide a joint that meets density and smoothness requirements for joints 
+and has uniform texture.  Cut back longitudinal joints which are 
+irregular, damaged, uncompacted, cold (less than
+ 80 degrees C
+ 175 degrees F
+ at the time of placing adjacent lanes), or otherwise defective, a maximum 
+of
+ 75 mm
+ 3 inches
+ from the top of the course with a cutting wheel to 
+expose a clean, sound, near vertical surface for the full depth of the 
+course.  Remove all cutback material from the project.  Provide a light 
+tack coat of asphalt material to all contact surfaces prior to placing any 
+fresh mixture against the joint.
+        -- End of Section --
+SECTION 32 12 16.16  Page 41
+CANCELLED

@@ -1,0 +1,1170 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-08 11 13 (August 2020)
+Change 1 - 08/25
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-08 11 13 (February 2010)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 08 - OPENINGS
+SECTION 08 11 13
+STEEL DOORS AND FRAMES
+08/20, CHG 1: 08/25
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   SUBMITTALS
+  1.3   DELIVERY, STORAGE, AND HANDLING
+PART 2   PRODUCTS
+  2.1   STANDARD STEEL DOORS
+    2.1.1   Classification - Level, Performance, Model
+      2.1.1.1   Standard Duty Doors
+      2.1.1.2   Heavy Duty Doors
+      2.1.1.3   Extra Heavy Duty Doors
+      2.1.1.4   Maximum Duty Doors
+  2.2   CUSTOM HOLLOW METAL DOORS
+  2.3   INSULATED STEEL DOOR SYSTEMS
+  2.4   ACCESSORIES
+    2.4.1   Shelves for Dutch Doors
+    2.4.2   Louvers
+      2.4.2.1   Interior Louvers
+      2.4.2.2   Exterior Louvers
+    2.4.3   Astragals
+    2.4.4   Moldings
+  2.5   INSULATION CORES
+  2.6   STANDARD STEEL FRAMES
+    2.6.1   Welded Frames
+    2.6.2   Knock-Down Frames
+    2.6.3   Mullions and Transom Bars
+    2.6.4   Stops and Beads
+    2.6.5   Terminated Stops
+    2.6.6   Cased Openings
+    2.6.7   Anchors
+      2.6.7.1   Wall Anchors
+      2.6.7.2   Floor Anchors
+SECTION 08 11 13  Page 1
+CANCELLED
+
+
+  2.7   FIRE [AND] [SMOKE] DOORS AND FRAMES
+    2.7.1   Labels
+    2.7.2   Oversized Doors
+    2.7.3   Astragal on Fire [and Smoke] Doors
+  2.8   EXTERIOR FRAMES
+  2.9   HARDWARE PREPARATION
+  2.10   FINISHES
+    2.10.1   Factory-Primed Finish
+    2.10.2   Hot-Dip Zinc-Coated and Factory-Primed Finish
+    2.10.3   Electrolytic Zinc-Coated Anchors and Accessories
+    2.10.4   Factory-Applied Enamel Finish
+  2.11   FABRICATION AND WORKMANSHIP
+  2.12   PROVISIONS FOR GLAZING
+PART 3   EXECUTION
+  3.1   INSTALLATION
+    3.1.1   Frames
+    3.1.2   Doors
+    3.1.3   Fire [and Smoke] Doors and Frames
+  3.2   PROTECTION
+  3.3   CLEANING
+-- End of Section Table of Contents --
+SECTION 08 11 13  Page 2
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-08 11 13 (August 2020)
+Change 1 - 08/25
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-08 11 13 (February 2010)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 08 11 13
+STEEL DOORS AND FRAMES
+08/20, CHG 1: 08/25
+**************************************************************************
+NOTE:  This guide specification covers steel doors 
+and frames.  Some paragraphs may need to be 
+supplemented to meet project requirements.
+Include Section 
+08 34 73
+ SOUND CONTROL DOOR 
+ASSEMBLIES when project includes flush steel sound 
+retardant doors with Sound Transmission 
+Classification (STC) ranging from 25 to 45.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+**************************************************************************
+NOTE:  On the drawings, show:
+1.  Sizes of door openings, thicknesses of doors, 
+swings, and travels of doors, and design of doors, 
+whether flush panel, full flush, paneled, glazed, or 
+louvered.  It is recommended that standard door-type 
+nomenclature, SDI 106, be used to indicate designs 
+(e.g., F, L, G, GL in lieu of A, B, C).
+2.  Details of nonstructural mullions, mullion 
+covers, and removable mullions.
+SECTION 08 11 13  Page 3
+CANCELLED
+
+
+3.  Type and thickness of glazing required; whether 
+or not insulating glass units are required.
+4.  Method, type, and spacing required for anchoring 
+door frames to adjoining construction.
+5.  Lintels and reinforcement required to support 
+walls or partitions above doors.
+6.  Type of shop finish on steel surfaces.
+7.  Free area for louvers in doors.
+8.  Complete door schedule.  Schedule should assign 
+a separate number for each opening and should 
+indicate door type and style, material, design, 
+size, thickness, glazed or unglazed, class fire 
+rating for fire doors, hardware set number, 
+threshold material, if any, and material for frames, 
+mullions, and transom bars.
+**************************************************************************
+PART 1   GENERAL
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN WELDING SOCIETY (AWS)
+AWS D1.1/D1.1M
+(2025) Structural Welding Code - Steel
+ASTM INTERNATIONAL (ASTM)
+ASTM A653/A653M
+(2025a) Standard Specification for Steel 
+SECTION 08 11 13  Page 4
+CANCELLED
+
+
+Sheet, Zinc-Coated (Galvanized) or 
+Zinc-Iron Alloy-Coated (Galvannealed) by 
+the Hot-Dip Process
+ASTM A879/A879M
+(2012; R 2017) Standard Specification for 
+Steel Sheet, zinc Coated by the 
+Electrolytic Process for Applications 
+Requiring Designation of the Coating Mass 
+on Each Surface
+ASTM A924/A924M
+(2022a) Standard Specification for General 
+Requirements for Steel Sheet, 
+Metallic-Coated by the Hot-Dip Process
+ASTM C578
+(2023) Standard Specification for Rigid, 
+Cellular Polystyrene Thermal Insulation
+ASTM C591
+(2022) Standard Specification for Unfaced 
+Preformed Rigid Cellular Polyisocyanurate 
+Thermal Insulation
+ASTM C612
+(2025) Standard Specification for Mineral 
+Fiber Block and Board Thermal Insulation
+ASTM D2863
+(2019) Standard Test Method for Measuring 
+the Minimum Oxygen Concentration to 
+Support Candle-Like Combustion of Plastics 
+(Oxygen Index)
+ASTM E1300
+(2024) Standard Practice for Determining 
+Load Resistance of Glass in Buildings
+ASTM F2247
+(2018) Standard Test Method for Metal 
+Doors Used in Blast Resistant Applications 
+(Equivalent Static Load Method)
+ASTM F2248
+(2012) Standard Practice for Specifying an 
+Equivalent 3-Second Duration Design 
+Loading for Blast Resistant Glazing 
+Fabricated with Laminated Glass
+ASTM F2927
+(2012) Standard Test Method for Door 
+Systems Subject to Airblast Loadings
+BUILDERS HARDWARE MANUFACTURERS ASSOCIATION (BHMA)
+ANSI/BHMA A156.115
+(2016) Hardware Preparation in Steel Doors 
+and Steel Frames
+NATIONAL ASSOCIATION OF ARCHITECTURAL METAL MANUFACTURERS (NAAMM)
+NAAMM HMMA 810
+(2009) Hollow Metal Doors
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+NFPA 80
+(2025) Standard for Fire Doors and Other 
+Opening Protectives
+NFPA 105
+(2025) Standard for Smoke Door Assemblies 
+SECTION 08 11 13  Page 5
+CANCELLED
+
+
+and Other Opening Protectives
+NFPA 252
+(2022) Standard Methods of Fire Tests of 
+Door Assemblies
+STEEL DOOR INSTITUTE (SDI/DOOR)
+SDI/DOOR 111
+(2009) Recommended Details for Standard 
+Steel Doors, Frames, and Accessories and 
+Related Components
+SDI/DOOR 113
+(2023) Standard Practice for Determining 
+the Steady-State Thermal Transmittance of 
+Steel Door and Frame Assemblies
+SDI/DOOR A250.3
+(2019) Test Procedure and Acceptance 
+Criteria for Factory Applied Finish 
+Coatings for Steel Doors and Frames
+SDI/DOOR A250.4
+(2022) Test Procedure and Acceptance 
+Criteria for Physical Endurance for Steel 
+Doors, Frames and Frame Anchors
+SDI/DOOR A250.6
+(2020) Recommended Practice for Hardware 
+Reinforcing on Standard Steel Doors and 
+Frames
+SDI/DOOR A250.8
+(2023) Specifications for Standard Steel 
+Doors and Frames
+SDI/DOOR A250.11
+(2022) Recommended Erection Instructions 
+for Steel Frames
+U.S. DEPARTMENT OF DEFENSE (DOD)
+UFC 4-010-01
+(2018; with Change 3, 2024) DoD Minimum 
+Antiterrorism Standards for Buildings
+UL SOLUTIONS (UL)
+UL 10C
+(2016; Reprint Mar 2026) UL Standard for 
+Safety Positive Pressure Fire Tests of 
+Door Assemblies
+1.2   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+Quality Control System.  Only add a "G" to an item 
+if the submittal is sufficiently important or 
+complex in context of the project.
+SECTION 08 11 13  Page 6
+CANCELLED
+
+
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-02 Shop Drawings
+Doors
+; 
+G
+, [_____]
+Frames
+; 
+G
+, [_____]
+Accessories
+SD-03 Product Data
+Doors
+; 
+G
+, [_____]
+Recycled Content for Steel Door Product
+; 
+S
+Frames
+; 
+G
+, [_____]
+Recycled Content for Steel Frame Product
+; 
+S
+Accessories
+[
+SD-04 Samples
+Factory-applied Enamel Finish
+; 
+G
+, [_____]
+]
+1.3   
+DELIVERY, STORAGE, AND HANDLING
+Deliver doors, frames, and accessories undamaged and with protective 
+wrappings or packaging.[  Strap knock-down frames in bundles.][  Provide 
+temporary steel spreaders securely fastened to the bottom of each welded 
+frame.]  Store doors and frames on platforms under cover in clean, dry, 
+ventilated, and accessible locations, with
+ 6 mm
+ 1/4 inch
+ airspace between 
+SECTION 08 11 13  Page 7
+CANCELLED
+
+
+doors.  Remove damp or wet packaging immediately and wipe affected 
+surfaces dry.  Replace damaged materials with new.
+PART 2   PRODUCTS
+2.1   
+STANDARD STEEL 
+DOORS
+**************************************************************************
+NOTE:  Standard steel doors are the most common and 
+competitively priced which apply to most metal door 
+openings in most projects.  Different 
+classifications and performance requirements are 
+available as explained in the editor's notes in 
+paragraph CLASSIFICATION - LEVEL, PERFORMANCE, MODEL.
+**************************************************************************
+**************************************************************************
+NOTE:  For forced entry, include the bracketed 
+option below regarding exterior glazing when 
+personnel density is greater than one person per
+ 40 
+square meters
+ 430 square feet
+ and the minimum AT/FP 
+standoff distances are met.  This does not include 
+guard type facilities or single and duplex detached 
+family housing.  These requirements are specified in 
+UFC 4-010-01 "DoD Minimum Antiterrorism Standards 
+for Buildings".  Include last bracketed sentence if 
+exterior doors must meet antiterrorism requirements 
+of UFC 4-010-01.
+**************************************************************************
+SDI/DOOR A250.8
+, except as specified otherwise.  Prepare doors to receive 
+door hardware as specified in Section 
+08 71 00
+ DOOR HARDWARE.  Undercut 
+where indicated.  Provide exterior doors with top edge closed flush and 
+sealed to prevent water intrusion.  Provide doors at
+ 44.5 mm
+ 1-3/4 inch
+ 
+thick, unless otherwise indicated.  Provide door material that uses a 
+minimum of 25 percent recycled content.  Submit shop drawings showing each 
+type of door.  Provide a schedule of doors within the shop drawing 
+submittal identifying door number, door and frame types and construction, 
+dimensions, thickness,[ methods of assembly,][ door louvers,][ fire 
+ratings,][ hardware sets,][ accessories,][ and glazing size and type].  
+Provide data indicating percentage of 
+recycled content for steel door 
+product
+.[  Provide exterior glazing in accordance with 
+ASTM F2248
+ and 
+ASTM E1300
+.][  Exterior doors must be tested in accordance with 
+ASTM F2247
+ 
+or 
+ASTM F2927
+ to meet requirements of 
+UFC 4-010-01
+.]
+2.1.1   
+Classification - Level, Performance, Model
+**************************************************************************
+NOTE:  When a door level is not required, delete the 
+entire paragraph for that level.  Door levels for 
+various locations should be determined in accordance 
+with SDI 108 Table 2 and the following list.
+Closet doors (without locks)               Level 1
+Individual offices, storage rooms,
+classrooms, patients' rooms,
+bathrooms, and bedrooms (except
+BEQ bedrooms)                              Level 2
+BEQ sleeping room entrance doors and interior egress 
+SECTION 08 11 13  Page 8
+CANCELLED
+
+
+doors                                      Level 3
+Exterior 
+Main entrance and circulation doors and
+ 
+other locations                            Level 4
+Model designations are as follows:
+Model 1 Full Flush Design
+Model 2 Seamless Design
+Model 3 Stile and Rail
+Where appearance is important and edge seams are 
+objectionable, use Model 2.
+Core constructions must be at the manufacturer's 
+discretion and
+ are as follows:
+a.  Kraft/Paper Honeycomb
+b.  Polyurethane Modified Polyisocyanurate
+c.  Polystyrene
+d.  Mineral Board
+e.  Vertical Steel Stiffeners
+**************************************************************************
+2.1.1.1   
+Standard Duty Doors
+SDI/DOOR A250.8
+, Level 1, physical performance Level C, Model [1] [2], of 
+size(s) and design(s) indicated and core construction as required by the 
+manufacturer.  Provide [where shown][for doors No. [_____]].
+2.1.1.2   
+Heavy Duty Doors
+SDI/DOOR A250.8
+, Level 2, physical performance Level B, Model [1][2], with 
+core construction as required by the manufacturer [for interior doors][ 
+and ][for exterior doors], of size(s) and design(s) indicated.[  Where 
+vertical stiffener cores are required, the space between the stiffeners 
+must be filled with board insulation.][  Provide Level 2 [where 
+indicated][for doors No. [_____]].]
+2.1.1.3   
+Extra Heavy Duty Doors
+SDI/DOOR A250.8
+, Level 3, physical performance Level A, Model [1][2][3] 
+with core construction as required by the manufacturer [for interior 
+doors][ and ][for indicated exterior doors], of size(s) and design(s) 
+indicated.[  Where vertical stiffener cores are required, the space 
+between the stiffeners must be filled with board insulation.][  Provide 
+Level 3 [where indicated] [for doors No. [_____]].]
+2.1.1.4   
+Maximum Duty Doors
+SDI/DOOR A250.8
+, Level 4, physical performance Level A, Model [1][2] with 
+core construction as required by the manufacturer [for interior doors][ 
+and ][for indicated exterior doors], of size(s) and design(s) indicated.[  
+Where vertical stiffener cores are required, the space between the 
+stiffeners must be filled with board insulation.][  Provide Level 4 [where 
+indicated] [for doors No. [_____]].]
+[
+2.2   
+CUSTOM HOLLOW METAL DOORS
+**************************************************************************
+SECTION 08 11 13  Page 9
+CANCELLED
+
+
+NOTE:  Custom steel doors are typically scheduled in 
+locations that (1) require unique dimensions that 
+are oversized, non-standard, or located in special 
+use buildings or retrofits, (2)require enhanced 
+performance from weather, sound reduction, forced 
+entry, bullet resistant, or blast doors, or (3) 
+require specific aesthetics that require 
+embossments, attractive panels or other 
+customization possibly for historic or other 
+installations.  Where only standard steel doors are 
+used in a project, delete this paragraph.
+**************************************************************************
+**************************************************************************
+NOTE:  For forced entry, include the bracketed 
+option below regarding exterior glazing when 
+personnel density is greater than one person per
+ 40 
+square meters
+ 430 square feet
+ and the minimum AT/FP 
+standoff distances are met.  This does not include 
+guard type facilities or single and duplex detached 
+family housing.  These requirements are specified in 
+UFC 4-010-01 "DoD Minimum Antiterrorism Standards 
+for Buildings".  Include last bracketed sentence if 
+exterior doors must meet antiterrorism requirements 
+of UFC 4-010-01.
+**************************************************************************
+Provide custom hollow metal doors where nonstandard steel doors are 
+indicated.  Provide custom steel doors in the door size(s), design(s), 
+materials, construction, gages, and finish as specified for custom steel 
+doors and complying with the requirements of 
+NAAMM HMMA 810
+.  Fill all 
+spaces in exterior doors with insulation.  Close top and bottom edges with 
+steel channels not lighter than
+ 1.5 mm thick
+ 16 gage
+.[  Close tops of 
+exterior doors flush with an additional channel and seal to prevent water 
+intrusion.]  Prepare doors to receive hardware specified in Section 
+08 71 00
+ DOOR HARDWARE.[  Undercut doors where indicated.]  Provide doors 
+at
+ 44.5 mm
+ 1-3/4 inch
+ thick, unless otherwise indicated.[  Provide 
+exterior glazing in accordance with 
+ASTM F2248
+ and 
+ASTM E1300
+.][  Exterior 
+doors much be tested in accordance with 
+ASTM F2247
+ and 
+ASTM F2927
+ to meet 
+the requirements of 
+UFC 4-010-01
+.]
+][
+2.3   
+INSULATED STEEL DOOR SYSTEMS
+**************************************************************************
+NOTE:  Insulated steel doors and frames are 
+recommended for entrances to dwelling units in 
+UEPH's and barracks.  Edit or delete the paragraph 
+to suit the project.
+**************************************************************************
+Provide insulated steel doors and frames in accordance with 
+SDI/DOOR 113
+ 
+at entrances to dwelling units and where indicated.  Meet energy 
+requirements including Solar Heat Gain Coefficient (SHGC) and U-factor.  
+Provide insulated steel doors with a core of polyurethane foam; face 
+sheets, edges, and frames of galvanized steel not lighter than
+ 0.7 mm thick
+ 23 gage
+,
+ 1.5 mm thick
+ 16 gage
+, and
+ 1.5 mm
+ 16 gage
+ respectively; magnetic 
+weatherstripping; nonremovable-pin hinges; thermal-break aluminum 
+threshold; and vinyl door bottom.  Provide to doors and frames a phosphate 
+treatment, rust-inhibitive primer, and baked acrylic enamel finish.  Test 
+SECTION 08 11 13  Page 10
+CANCELLED
+
+
+doors in accordance with 
+SDI/DOOR A250.4
+ and meet the requirements for 
+Level C.  Prepare doors to receive specified hardware.  Provide doors
+ 44.5 
+mm
+ 1-3/4 inch
+ thick.
+]
+2.4   
+ACCESSORIES
+2.4.1   
+Shelves for Dutch Doors
+SDI/DOOR 111
+.  Fabricate shelves of steel not lighter than
+ 1.5 mm thick
+ 16 
+gage
+, [[_____]
+ mm
+ inches
+ wide][of the size indicated].  Provide brackets 
+of stock type fabricated of the same metal used to fabricate shelves.
+2.4.2   
+Louvers
+**************************************************************************
+NOTE:  Interior and exterior louvers are applied to 
+steel doors differently.  Interior door louvers are 
+removable on side by molding flange and exterior 
+door louver frames are permanently welded to the 
+door and provided with removable bird screen or 
+insect screen.
+**************************************************************************
+**************************************************************************
+NOTE:  Avoid louvers on exterior doors in humid 
+locations or project locations with Environmental 
+Severity Classifications (ESC) of C3 thru C5 as they 
+are very susceptible to weather deterioration.  
+Humid locations are those in ASHRAE climate zones 
+0A, 1A, 2A, 3A, 3C, 4C and 5C (as identified in 
+ASHRAE 90.1).  See UFC 1-200-01 for determination of 
+ESC for project locations.  Consider other means of 
+providing the venting function.
+Ensure that louvers in doors are drainable, 
+weatherproof and factory primed.  Doors with 
+factory-installed louvers are also recommended.
+**************************************************************************
+2.4.2.1   
+Interior Louvers
+**************************************************************************
+NOTE:  Lightproof louvers are used when light 
+transmission must be avoided.  However, these 
+provide a minimal free air flow.
+**************************************************************************
+SDI/DOOR 111
+.  Where indicated, provide louvers of stationary 
+[sightproof][ and ][lightproof] type[ where scheduled].[  Louvers for 
+lightproof must not transmit light.]  Detachable moldings on room or non 
+security side of door; on security side of door, moldings to be integral 
+part of louver.  Form louver frames of
+ 0.9 mm thick
+ 20 gage
+ steel and 
+louver blades of a minimum
+ 0.6 mm
+ 24 gage
+.[  Louvers for lightproof doors 
+must have minimum of 20 percent net-free opening.][  Sightproof louvers to 
+be inverted ["V" blade design with minimum 55][ and ][inverted ["Y"] blade 
+design with minimum 40] percent net-free opening.]
+SECTION 08 11 13  Page 11
+CANCELLED
+
+
+2.4.2.2   
+Exterior Louvers
+**************************************************************************
+NOTE:  Use aluminum screens in humid locations or 
+project locations with Environmental Severity 
+Classifications (ESC) of C3 thru C5.  Humid 
+locations are those in ASHRAE climate zones 0A, 1A, 
+2A, 3A, 3C, 4C and 5C (as identified in ASHRAE 
+90.1).  See UFC 1-200-01 for determination of ESC 
+for project locations.
+**************************************************************************
+Provide louvers of the inverted ["Y"]["V"]["Z"] type with minimum of 
+[30][55][35] percent net-free opening.  Weld or tenon louver blades to 
+continuous channel frame and weld assembly to door to form watertight 
+assembly.  Form louvers of hot-dip galvanized steel of same gage as door 
+facings.  At louvers provide steel-framed [insect][bird] screens secured 
+to room side and readily removable.  Provide [aluminum wire cloth,
+ 7 by 7 
+per 10 mm or 7 by 6 per 10 mm
+ 18 by 18 or 18 by 16 inch
+ mesh, for insect 
+screens][galvanized steel,
+ 13 by 13 mm
+ 1/2 by 1/2 inch
+ mesh hardware 
+cloth, for bird screens].  Net-free louver area to be before screening.
+2.4.3   
+Astragals
+For pairs of exterior steel doors which will not have aluminum astragals 
+or removable mullions, as specified in Section 
+08 71 00
+ DOOR HARDWARE 
+provide overlapping steel astragals with the doors.
+2.4.4   
+Moldings
+Provide moldings around glass of interior and exterior doors and louvers 
+of interior doors.  Provide nonremovable moldings on outside of exterior 
+doors and on corridor side of interior doors.  Other moldings may be 
+stationary or removable.  Secure inside moldings to stationary moldings, 
+or provide snap-on moldings.
+2.5   
+INSULATION CORES
+**************************************************************************
+NOTE:  Door manufacturers use various insulation 
+materials as their standard.  Unless the designer 
+has a specific reason to eliminate an insulation 
+material, it is advised to maintain all listed types 
+of insulation materials.
+If additional interior or specialty doors require 
+thermal insulation include the bracketed option and 
+indicate these requirements on the door schedule in 
+the drawings.
+**************************************************************************
+Provide insulating cores at all exterior doors[ and other specific doors 
+noted in the door schedule], and provide an apparent U-factor of
+ 2.1 W/m2 
+x K
+ .37 BTU/h x ft2 x degrees F
+ in accordance with 
+SDI/DOOR 113
+ and 
+conforming to:
+a.  Rigid Cellular Polyisocyanurate Foam:  
+ASTM C591
+, Type I or II, 
+foamed-in-place or in board form, with oxygen index of not less than 
+22 percent when tested in accordance with 
+ASTM D2863
+; or
+SECTION 08 11 13  Page 12
+CANCELLED
+
+
+b.  Rigid Polystyrene Foam Board:  
+ASTM C578
+, Type I or II; or
+c.  Mineral board:  
+ASTM C612
+, Type I.
+2.6   
+STANDARD STEEL 
+FRAMES
+**************************************************************************
+NOTE:  Designate whether frames are to be welded or 
+knock-down field-assembled type.  In general, 
+utilize welded frames unless knock-down frames are 
+required due to a renovation project or the 
+temporary nature of the partitions being 
+constructed.  Welded frames must be built in as CMU 
+walls are constructed or before drywall is installed 
+on studs.  Slip-on drywall frames must be knock-down 
+type to be inserted after drywall is installed.  
+When both types are required for the project, modify 
+paragraph to specify both types and locations where 
+required.
+**************************************************************************
+SDI/DOOR A250.8
+, Level [1][2][3][4], except as otherwise specified.  Form 
+frames to sizes and shapes indicated, with[ welded corners][ or][ 
+knock-down field-assembled corners].  Provide steel frames for doors,[ 
+transoms,][ sidelights,][ mullions,][ cased openings,][ and][ interior 
+glazed panels,] unless otherwise indicated.  Submit shop drawings showing 
+each type of frame.  Provide frame product that uses a minimum of 25 
+percent recycled content.  Provide data indicating percentage of 
+recycled 
+content for steel frame product
+.
+2.6.1   
+Welded Frames
+Continuously weld frame faces at corner joints.  Mechanically interlock or 
+continuously weld stops and rabbets.  Grind welds smooth.
+Weld frames in accordance with the recommended practice of the Structural 
+Welding Code Sections 1 through 6, 
+AWS D1.1/D1.1M
+ and in accordance with 
+the practice specified by the producer of the metal being welded.
+[
+2.6.2   
+Knock-Down Frames
+**************************************************************************
+NOTE:  Remove this section unless knock-down frames 
+are required due to a renovation project or the 
+temporary nature of the partitions being constructed.
+**************************************************************************
+Design corners for simple field assembly by concealed tenons, splice 
+plates, or interlocking joints that produce square, rigid corners and a 
+tight fit and maintain the alignment of adjoining members.  Provide 
+locknuts for bolted connections.
+]
+2.6.3   
+Mullions and Transom Bars
+Provide mullions and transom bars of closed or tubular construction with 
+heads and jambs butt-welded together[ or knock-down for field assembly].  
+Bottom of door mullions must have adjustable floor anchors and spreader 
+connections.
+SECTION 08 11 13  Page 13
+CANCELLED
+
+
+2.6.4   
+Stops and Beads
+Provide form and loose stops and beads from
+ 0.9 mm thick
+ 20 gage
+ steel.  
+Provide for glazed and other openings in standard steel frames.  Secure 
+beads to frames with oval-head, countersunk Phillips self-tapping sheet 
+metal screws or concealed clips and fasteners.  Space fasteners 
+approximately
+ 300 to 400 mm
+ 12 to 16 inch
+ on center.  Miter molded shapes 
+at corners.  Butt or miter square or rectangular beads at corners.
+2.6.5   
+Terminated Stops
+**************************************************************************
+NOTE:  Specify or indicate when stops (rabbet 
+strips) are required to be terminated above the 
+floor; generally, terminated stops are used in 
+hospitals and similar buildings to eliminate 
+projections on which wheels of beds and carts are 
+caught and to eliminate small, dirt-catching corners.
+**************************************************************************
+Where indicated, terminate interior door frame stops
+ 150 mm
+ 6 inch
+ above 
+floor.[  Do not terminate stops of frames for [lightproof,] [soundproof,] 
+[or lead-lined] doors.]
+2.6.6   
+Cased Openings
+Fabricate frames for cased openings of same material, gage, and assembly 
+as specified for metal door frames, except omit door stops and preparation 
+for hardware.
+2.6.7   
+Anchors
+Provide anchors to secure the frame to adjoining construction.  Provide 
+steel anchors, zinc-coated not lighter than
+ 1.2 mm thick
+ 18 gage
+.
+2.6.7.1   
+Wall Anchors
+Provide at least three anchors for each jamb.  For frames which are more 
+than
+ 2285 mm
+ 7.5 feet
+ in height, provide one additional anchor for each 
+jamb for each additional
+ 760 mm
+ 2.5 feet
+ or fraction thereof.
+a.  Masonry:  Provide anchors of corrugated or perforated steel straps or
+ 
+5 mm
+ 3/16 inch
+ diameter steel wire, adjustable or T-shaped;
+b.  Stud partitions:  Weld or otherwise securely fasten anchors to backs 
+of frames.  Design anchors to be fastened [to wood studs with nails,] 
+[to closed steel studs with sheet metal screws, and to open steel 
+studs by wiring or welding];
+c.  Completed openings:  Secure frames to previously placed concrete or 
+masonry with expansion bolts in accordance with 
+SDI/DOOR 111
+; and
+d.  Solid plaster partitions:  Secure anchors solidly to back of frames 
+and tie into the lath.  Provide adjustable top strut anchors on each 
+side of frame for fastening to structural members or ceiling 
+construction above.  Provide size and type of strut anchors as 
+recommended by the frame manufacturer.
+SECTION 08 11 13  Page 14
+CANCELLED
+
+
+2.6.7.2   
+Floor Anchors
+**************************************************************************
+NOTE:  In masonry construction, extension clips at 
+bottom of frames are usually required in locations 
+where additional floor fill occurs on top of 
+structural slabs, and the metal frames and 
+partitions are installed before the fill is placed.  
+In such cases, the drawings or specifications should 
+indicate the distance required between the rough 
+slab and finished floor.
+**************************************************************************
+Provide floor anchors drilled for
+ 10 mm
+ 3/8 inch
+ anchor bolts at bottom of 
+each jamb member.[  Where floor fill occurs, terminate bottom of frames at 
+the indicated finished floor levels and support by adjustable extension 
+clips resting on and anchored to the structural slabs.]
+2.7   
+FIRE [AND] [SMOKE] DOORS AND FRAMES
+**************************************************************************
+NOTE:  For each opening requiring labeled doors, 
+specify or indicate the hourly rating of fire doors, 
+as established by the National Fire Protection 
+Association.  When labeled doors are necessary on 
+both sides of a fire wall, provide adequate 
+details.  Labels cannot be obtained for 
+double-acting doors or for steel angle frames.  
+Metal frames to receive labeled wood fire doors must 
+also be labeled.
+If the facility includes sprinklers and other fire 
+protection measures, doors may or may not require 
+insulation for temperature rise.  In projects that 
+require temperature rise criteria on fire doors, 
+include the bracketed last sentence in the paragraph 
+below and indicate this requirement in the door 
+schedule.
+**************************************************************************
+Provide fire[ and smoke] doors and frames in accordance with 
+NFPA 80
+[ and 
+][
+NFPA 105
+] and this specification.[  Include insulated core materials in 
+fire doors where indicated in the door schedule.]
+2.7.1   
+Labels
+Provide fire doors and frames bearing the label of Underwriters 
+Laboratories (UL), Factory Mutual Engineering and Research (FM), or 
+Warnock Hersey International (WHI) attesting to the rating required.  
+Testing must be in accordance with 
+NFPA 252
+ or 
+UL 10C
+.  Provide labels 
+that are metal with raised letters, bearing the name or file number of the 
+door and frame manufacturer.  Labels must be permanently affixed at the 
+factory to frames and to the hinge edge of the door.  Do not paint door 
+and labels.
+2.7.2   
+Oversized Doors
+For fire doors and frames which exceed the size for which testing and 
+labeling are available, furnish certificates stating that the doors and 
+SECTION 08 11 13  Page 15
+CANCELLED
+
+
+frames are identical in design, materials, and construction to a door 
+which has been tested and meets the requirements for the class indicated.
+2.7.3   
+Astragal on Fire [and Smoke] Doors
+On pairs of labeled fire doors, conform to 
+NFPA 80
+ and UL requirements.[  
+On smoke control doors, conform to 
+NFPA 105
+.]
+2.8   
+EXTERIOR FRAMES
+**************************************************************************
+NOTE:  In lieu of grouting exterior frames which is 
+no longer recommended by SDI/Door, the minimum 
+thickness of exterior door frames required herein 
+provides security without grouting the frame.
+**************************************************************************
+Provide thermal insulation in all exterior frames.  Provide frames of a 
+minimum Level 4, with frames of a minimum thickness of
+ 1.7 mm
+ 0.067 inch
+, 
+14 gage.
+2.9   
+HARDWARE PREPARATION
+Drill and tap doors and frames to receive finish hardware.  Prepare doors 
+and frames for hardware in accordance with the applicable requirements of 
+SDI/DOOR A250.8
+ and 
+SDI/DOOR A250.6
+.  For additional requirements refer to 
+ANSI/BHMA A156.115
+.  Drill and tap for surface-applied hardware at the 
+project site.  Build additional reinforcing for surface-applied hardware 
+into the door at the factory.  Punch door frames[, with the exception of 
+frames that will have weatherstripping [or] [lightproof] [or] [soundproof] 
+gasketing,] to receive a minimum of two rubber or vinyl door silencers on 
+lock side of single doors and one silencer for each leaf at heads of 
+double doors.  Set lock strikes out to provide clearance for silencers.
+2.10   
+FINISHES
+**************************************************************************
+NOTE:  Specify the type finish required for the type 
+of steel used for fabrication of doors and frames.  
+Specify hot-dip zinc-coated steel for exterior 
+hollow metal doors and frames in humid locations or 
+project locations with Environmental Severity 
+Classifications (ESC) of C3 thru C5.  Also specify 
+hot-dip zinc-coated steel for interior hollow metal 
+doors and frames in high humidity building spaces 
+and interior doors at project locations with ESC 
+classifications of C4 and C5.  Hugh humidity 
+building spaces include bathrooms, locker rooms, 
+shower areas, laundry rooms, pools, and trainers.  
+Humid locations are those in ASHRAE climate zones 
+0A, 1A, 2A, 3A, 3C, 4C and 5C (as identified in 
+ASHRAE 90.1).  See UFC 1-200-01 for determination of 
+ESC for project locations.  Galvannealed steel is 
+suitable for interior doors and frames in most 
+buildings in ESC locations of C1 and C2.  Unless 
+factory finish coating is required, specify finish 
+coating will be applied by field painting in Section 
+09 90 00
+ PAINTS AND COATINGS.
+**************************************************************************
+SECTION 08 11 13  Page 16
+CANCELLED
+
+
+[
+2.10.1   
+Factory-Primed Finish
+Thoroughly clean all surfaces of doors and frames then chemically treat 
+and factory prime with a rust inhibiting coating as specified in 
+SDI/DOOR A250.8
+[.][, or paintable A25 galvannealed steel without primer.  
+Where coating is removed by welding, apply touchup of factory primer.]
+][
+2.10.2   
+Hot-Dip Zinc-Coated and Factory-Primed Finish
+Fabricate [exterior][interior][scheduled] doors and frames from hot dipped 
+zinc coated steel, alloyed type, that complies with 
+ASTM A924/A924M
+ and 
+ASTM A653/A653M
+.  The coating weight must meet or exceed the minimum 
+requirements for coatings having
+ 122 grams per square meter
+ 0.4 ounces per 
+square foot
+, total both sides, i.e.,
+ ZF120
+ A40
+.  Repair damaged 
+zinc-coated surfaces by the application of zinc dust paint.  Thoroughly 
+clean and chemically treat to insure maximum paint adhesion.  Factory 
+prime as specified in 
+SDI/DOOR A250.8
+.[  Provide for [exterior doors][ and 
+][interior doors][door openings No. [_____]]].
+]
+2.10.3   
+Electrolytic Zinc-Coated Anchors and Accessories
+Provide electrolytically deposited zinc-coated steel in accordance with 
+ASTM A879/A879M
+, Commercial Quality, Coating Class A.  Phosphate treat and 
+factory prime zinc-coated surfaces as specified in 
+SDI/DOOR A250.8
+.
+[
+2.10.4   
+Factory-Applied Enamel Finish
+**************************************************************************
+NOTE:  Use this paragraph if field coatings as 
+specified in Section 
+09 90 00
+ PAINTS AND COATINGS 
+are not required or provided.  One coat of 
+factory-applied enamel finish is readily available 
+in standard colors.  Two coats and special colors 
+add to cost and to delivery time.
+**************************************************************************
+Provide coatings that meet test procedures and acceptance criteria in 
+accordance with 
+SDI/DOOR A250.3
+.  After factory priming, apply [one 
+coat][two coats] of [low-gloss][medium-gloss] enamel to exposed surfaces.  
+Separately bake or oven dry each coat.  Drying time and temperature 
+requirements must be in accordance with the coating manufacturer's 
+recommendations.  Provide finish coat color(s) [as indicated][_____] to 
+match approved color sample(s).
+]
+2.11   
+FABRICATION AND WORKMANSHIP
+Provide finished doors and frames that are strong and rigid, neat in 
+appearance, and free from defects, waves, scratches, cuts, dents, ridges, 
+holes, warp, and buckle.  Provide molded members that are clean cut, 
+straight, and true, with joints coped or mitered, well formed, and in true 
+alignment.  Dress exposed welded and soldered joints smooth.  Design door 
+frame sections for use with the wall construction indicated.  Corner 
+joints must be well formed and in true alignment.  Conceal fastenings 
+where practicable.[  Frames for use in solid plaster partitions must be 
+welded construction.][  On wraparound frames for masonry partitions, 
+provide a throat opening
+ 3 mm
+ 1/8 inch
+ larger than the actual masonry 
+thickness.][  Design[ other] frames in exposed masonry walls or partitions 
+to allow sufficient space between the inside back of trim and masonry to 
+SECTION 08 11 13  Page 17
+CANCELLED
+
+
+receive caulking compound.]
+2.12   
+PROVISIONS FOR GLAZING
+Materials are specified in Section 
+08 81 00
+, GLAZING.
+PART 3   EXECUTION
+3.1   
+INSTALLATION
+3.1.1   
+Frames
+Set frames in accordance with 
+SDI/DOOR A250.11
+.  Plumb, align, and brace 
+securely until permanent anchors are set.  Anchor bottoms of frames with 
+expansion bolts or powder-actuated fasteners.  Build in or secure wall 
+anchors to adjoining construction.[  Where frames require ceiling struts 
+or overhead bracing, anchor frames to the struts or bracing.]
+3.1.2   
+Doors
+Hang doors in accordance with clearances specified in 
+SDI/DOOR A250.8
+.  
+After erection and glazing, clean and adjust hardware.
+3.1.3   
+Fire [and Smoke] Doors and Frames
+Install fire doors and frames, including hardware, in accordance with 
+NFPA 80
+.[  Install[ fire rated] smoke doors and frames in accordance with [
+NFPA 80
+][ and ][
+NFPA 105
+].]
+3.2   
+PROTECTION
+Protect doors and frames from damage.  Repair damaged doors and frames 
+prior to completion and acceptance of the project or replace with new, as 
+directed.  Wire brush rusted frames until rust is removed.  Clean 
+thoroughly.  Apply an all-over coat of rust-inhibitive paint of the same 
+type used for shop coat.
+3.3   
+CLEANING
+Upon completion, clean exposed surfaces of doors and frames thoroughly.  
+Remove mastic smears and other unsightly marks.
+        -- End of Section --
+SECTION 08 11 13  Page 18
+CANCELLED

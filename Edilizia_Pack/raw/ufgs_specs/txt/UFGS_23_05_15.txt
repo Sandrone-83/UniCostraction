@@ -1,0 +1,3651 @@
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-23 05 15 (May 2022)
+Change 2 - 08/24
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-23 05 15 (February 2014)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 23 - HEATING, VENTILATING, AND AIR CONDITIONING (HVAC)
+SECTION 23 05 15
+COMMON PIPING FOR HVAC
+05/22, CHG 2: 08/24
+PART 1   GENERAL
+  1.1   REFERENCES
+  1.2   GENERAL REQUIREMENTS
+  1.3   SUBMITTALS
+  1.4   QUALITY ASSURANCE
+    1.4.1   Material and Equipment Qualifications
+    1.4.2   Alternative Qualifications
+    1.4.3   Service Support
+    1.4.4   Manufacturer's Nameplate
+    1.4.5   Modification of References
+      1.4.5.1   Definitions
+      1.4.5.2   Administrative Interpretations
+  1.5   DELIVERY, STORAGE, AND HANDLING
+  1.6   ELECTRICAL REQUIREMENTS
+  1.7   ELECTRICAL INSTALLATION REQUIREMENTS
+    1.7.1   New Work
+    1.7.2   Modifications to Existing Systems
+    1.7.3   High Efficiency Motors
+      1.7.3.1   High Efficiency Single-Phase Motors
+      1.7.3.2   High Efficiency Polyphase Motors
+    1.7.4   Three-Phase Motor Protection
+  1.8   INSTRUCTION TO GOVERNMENT PERSONNEL
+  1.9   ACCESSIBILITY
+PART 2   PRODUCTS
+  2.1   ELECTRICAL HEAT TRACING
+  2.2   PIPE AND FITTINGS
+    2.2.1   Type BCS, Black Carbon Steel
+    2.2.2   Type BCS-125, 862 kilopascal Service 125-psi Service
+    2.2.3   Type GCS, Galvanized Carbon Steel
+    2.2.4   Type GCS-DWV, Galvanized Steel Drain, Waste and Vent
+    2.2.5   Type CISP-DWV, Cast-Iron Drain, Waste and Vent
+SECTION 23 05 15  Page 1
+CANCELLED
+
+
+    2.2.6   Type CPR, Copper
+      2.2.6.1   Type CPR-A, Copper Above Ground
+      2.2.6.2   Type CPR-U, Copper Under Ground
+      2.2.6.3   Type CPR-INS, Copper Under Ground Insulated
+    2.2.7   Polypropylene Pipe
+    2.2.8   Grooved Pipe Couplings and Fittings
+  2.3   PIPING SPECIALTIES
+    2.3.1   Air Separator
+    2.3.2   Air Vents
+    2.3.3   Compression Tank
+    2.3.4   Dielectric Connections
+    2.3.5   Expansion Vibration Isolation Joints
+    2.3.6   Flexible Pipe
+    2.3.7   Flexible Metallic Pipe
+    2.3.8   Flexible Metal Steam Hose
+    2.3.9   Metallic Expansion Joints
+    2.3.10   Hose Faucets
+    2.3.11   Pressure Gages
+    2.3.12   Sight-Flow Indicators
+    2.3.13   Sleeve Couplings
+    2.3.14   Thermometers
+    2.3.15   Pump Suction Strainers
+    2.3.16   Line Strainers, Water Service
+    2.3.17   Line Strainers, Steam Service
+  2.4   VALVES
+    2.4.1   Ball and Butterfly Valves
+    2.4.2   Drain, Vent, and Gage Cocks
+    2.4.3   Gate Valves (GAV)
+    2.4.4   Globe and Angle Valves (GLV-ANV)
+    2.4.5   Standard Check Valves (SCV)
+    2.4.6   Nonslam Check Valves (NSV)
+  2.5   MISCELLANEOUS MATERIALS
+    2.5.1   Bituminous Coating
+    2.5.2   Bolting
+    2.5.3   Elastomer Caulk
+    2.5.4   Escutcheons
+    2.5.5   Flashing
+    2.5.6   Flange Gaskets
+    2.5.7   Grout
+    2.5.8   Pipe Thread Compounds
+  2.6   SUPPORTING ELEMENTS
+    2.6.1   Building Structure Attachments
+      2.6.1.1   Anchor Devices, Concrete and Masonry
+      2.6.1.2   Beam Clamps
+      2.6.1.3   Type 19 and 23 C-Clamps
+      2.6.1.4   Inserts, Concrete
+    2.6.2   Horizontal Pipe Attachments
+      2.6.2.1   Single Pipes
+      2.6.2.2   Parallel Pipes
+    2.6.3   Vertical Pipe Attachments
+    2.6.4   Hanger Rods and Fixtures
+    2.6.5   Supplementary Steel
+PART 3   EXECUTION
+  3.1   PIPE INSTALLATION
+  3.2   VALVES
+  3.3   SUPPORTING ELEMENTS INSTALLATION
+  3.4   PENETRATIONS
+SECTION 23 05 15  Page 2
+CANCELLED
+
+
+  3.5   SLEEVES
+  3.6   ESCUTCHEONS
+  3.7   FLASHINGS
+  3.8   UNDERGROUND PIPING INSTALLATION
+  3.9   HEAT TRACE CABLE INSTALLATION
+  3.10   DISINFECTION
+  3.11   HEAT TRACE CABLE TESTS
+  3.12   OPERATION AND MAINTENANCE
+  3.13   PAINTING OF NEW EQUIPMENT
+    3.13.1   Factory Painting Systems
+    3.13.2   Shop Painting Systems for Metal Surfaces
+-- End of Section Table of Contents --
+SECTION 23 05 15  Page 3
+CANCELLED
+
+
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-23 05 15 (May 2022)
+Change 2 - 08/24
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-23 05 15 (February 2014)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated April 2026
+**************************************************************************
+SECTION 23 05 15
+COMMON PIPING FOR HVAC
+05/22, CHG 2: 08/24
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for standard basic mechanical work and 
+should be supplemented by use of other mechanical 
+sections as required.
+Show on the drawings detailed upstream and 
+downstream piping anchor provisions.
+Install flexible metallic pipe vertically to keep 
+dirt out of convolutions.
+Coordinate design detail and specification for each 
+installation with the manufacturer to ensure that 
+length, stiffness of hose, and slack are suitable 
+for the intended offset, travel, and imposed service 
+under normal and shock conditions.
+Indicate on the drawings use of flexible metal steam 
+for main steamline dripping where amount of 
+expansion and contraction is such that movement 
+cannot be readily accommodated by piping 
+configuration, with excessive stress on pressurized 
+components or where there is a tendency to cause 
+leaks at connections to mains.  Tunnels, trenches, 
+manholes, and above-ground steamlines are prime 
+locations; ensure the pressure rating accounts for 
+water-hammer shock.  This specification is limited to
+ 15 millimeter through 25 millimeter
+ 1/2 inch 
+through 1 inch
+.  Use welded pipe, valve, and hole 
+connections wherever possible.  Provide a welded end 
+steam strainer upstream of hose to prevent welding 
+bead penetration of bellows upon start up.  Wherever 
+possible, install flexible metal steam hose 
+vertically.
+Show on the Drawings, or supplement the 
+specifications to include, calculated movement of 
+piping, operating pressure and temperature ranges, 
+fluid velocity, piping anchor and guiding 
+SECTION 23 05 15  Page 4
+CANCELLED
+
+
+provisions, limit stops, installation length, end 
+connections, and special conditions such as angular 
+displacement and vibration analysis in one or more 
+planes.
+This specification does not include slip-type 
+expansion joints or ball joints.
+Adhere to 
+UFC 1-300-02
+ Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a 
+Criteria Change Request (CCR)
+.
+**************************************************************************
+PART 1   GENERAL
+1.1   
+REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN INSTITUTE OF STEEL CONSTRUCTION (AISC)
+AISC 325
+(2017) Steel Construction Manual
+SECTION 23 05 15  Page 5
+CANCELLED
+
+
+AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)
+ASME A112.18.1/CSA B125.1
+(2024) Plumbing Supply Fittings
+ASME A112.19.2/CSA B45.1
+(2024) Standard for Vitreous China 
+Plumbing Fixtures and Hydraulic 
+Requirements for Water Closets and Urinals
+ASME B1.20.7
+(1991; R 2013) Standard for Hose Coupling 
+Screw Threads (Inch)
+ASME B1.21M
+(1997; R 2013; R 2018; R 2023) Standard 
+for Metric Screw Threads - MJ Profile
+ASME B16.1
+(2020) Gray Iron Pipe Flanges and Flanged 
+Fittings Classes 25, 125, and 250
+ASME B16.3
+(2021) Malleable Iron Threaded Fittings, 
+Classes 150 and 300
+ASME B16.4
+(2021) Gray Iron Threaded Fittings; 
+Classes 125 and 250
+ASME B16.5
+(2020) Pipe Flanges and Flanged Fittings 
+NPS 1/2 Through NPS 24 Metric/Inch Standard
+ASME B16.9
+(2024) Factory-Made Wrought Buttwelding 
+Fittings
+ASME B16.11
+(2021) Forged Fittings, Socket-Welding and 
+Threaded
+ASME B16.22
+(2021) Wrought Copper and Copper Alloy 
+Solder Joint Pressure Fittings
+ASME B16.25
+(2022) Buttwelding Ends
+ASME B16.26
+(2024) Cast Copper Alloy Fittings for 
+Flared Copper Tubes
+ASME B16.34
+(2021) Valves - Flanged, Threaded and 
+Welding End
+ASME B16.39
+(2025) Malleable Iron Threaded Pipe 
+Unions; Classes 150, 250, and 300
+ASME B31.3
+(2024) Process Piping
+ASME B36.10M
+(2022) Welded and Seamless Wrought Steel 
+Pipe
+ASME B40.100
+(2022) Pressure Gauges and Gauge 
+Attachments
+ASME BPVC SEC IX
+(2017; Errata 2018) BPVC Section 
+IX-Welding, Brazing and Fusing 
+Qualifications
+ASME BPVC SEC VIII D1
+(2023) BPVC Section VIII-Rules for 
+SECTION 23 05 15  Page 6
+CANCELLED
+
+
+Construction of Pressure Vessels Division 1
+AMERICAN WELDING SOCIETY (AWS)
+AWS A5.8/A5.8M
+(2019) Specification for Filler Metals for 
+Brazing and Braze Welding
+AWS WHB-2.9
+(2004) Welding Handbook; Volume 2, Welding 
+Processes, Part 1
+ASTM INTERNATIONAL (ASTM)
+ASTM A6/A6M
+(2026) Standard Specification for General 
+Requirements for Rolled Structural Steel 
+Bars, Plates, Shapes, and Sheet Piling
+ASTM A53/A53M
+(2024) Standard Specification for Pipe, 
+Steel, Black and Hot-Dipped, Zinc-Coated, 
+Welded and Seamless
+ASTM A74
+(2025) Standard Specification for Cast 
+Iron Soil Pipe and Fittings
+ASTM A105/A105M
+(2026) Standard Specification for Carbon 
+Steel Forgings for Piping Applications
+ASTM A106/A106M
+(2026) Standard Specification for Seamless 
+Carbon Steel Pipe for High-Temperature 
+Service
+ASTM A126
+(2004; R 2023) Standard Specification for 
+Gray Iron Castings for Valves, Flanges, 
+and Pipe Fittings
+ASTM A183
+(2014; R 2020) Standard Specification for 
+Carbon Steel Track Bolts and Nuts
+ASTM A197/A197M
+(2020; R 2023; E 2023) Standard 
+Specification for Cupola Malleable Iron
+ASTM A216/A216M
+(2021) Standard Specification for Steel 
+Castings, Carbon, Suitable for Fusion 
+Welding, for High-Temperature Service
+ASTM A234/A234M
+(2025) Standard Specification for Piping 
+Fittings of Wrought Carbon Steel and Alloy 
+Steel for Moderate and High Temperature 
+Service
+ASTM A276/A276M
+(2025) Standard Specification for 
+Stainless Steel Bars and Shapes
+ASTM A278/A278M
+(2001; R 2024) Standard Specification for 
+Gray Iron Castings for Pressure-Containing 
+Parts for Temperatures Up to 650 degrees F 
+(350 degrees C)
+ASTM A307
+(2023) Standard Specification for Carbon 
+Steel Bolts, Studs, and Threaded Rod 60 
+SECTION 23 05 15  Page 7
+CANCELLED
+
+
+000 PSI Tensile Strength
+ASTM A312/A312M
+(2022a) Standard Specification for 
+Seamless, Welded, and Heavily Cold Worked 
+Austenitic Stainless Steel Pipes
+ASTM A480/A480M
+(2025b) Standard Specification for General 
+Requirements for Flat-Rolled Stainless and 
+Heat-Resisting Steel Plate, Sheet, and 
+Strip
+ASTM A563
+(2021; E 2022a) Standard Specification for 
+Carbon and Alloy Steel Nuts
+ASTM A563M
+(2007; R 2013) Standard Specification for 
+Carbon and Alloy Steel Nuts (Metric)
+ASTM A888
+(2024) Standard Specification for Hubless 
+Cast Iron Soil Pipe and Fittings for 
+Sanitary and Storm Drain, Waste, and Vent 
+Piping Applications
+ASTM B32
+(2020) Standard Specification for Solder 
+Metal
+ASTM B62
+(2017; R 2025) Standard Specification for 
+Composition Bronze or Ounce Metal Castings
+ASTM B88
+(2022) Standard Specification for Seamless 
+Copper Water Tube
+ASTM B88M
+(2020) Standard Specification for Seamless 
+Copper Water Tube (Metric)
+ASTM B117
+(2025) Standard Practice for Operating 
+Salt Spray (Fog) Apparatus
+ASTM B370
+(2022) Standard Specification for Copper 
+Sheet and Strip for Building Construction
+ASTM B749
+(2025) Standard Specification for Lead and 
+Lead Alloy Strip, Sheet and Plate Products
+ASTM C67/C67M
+(2025) Standard Test Methods for Sampling 
+and Testing Brick and Structural Clay Tile
+ASTM C109/C109M
+(2024) Standard Test Method for 
+Compressive Strength of Hydraulic Cement 
+Mortars (Using 2-in. or (50-mm) Cube 
+Specimens)
+ASTM C404
+(2024) Standard Specification for 
+Aggregates for Masonry Grout
+ASTM C476
+(2023) Standard Specification for Grout 
+for Masonry
+ASTM C553
+(2024) Standard Specification for Mineral 
+Fiber Blanket Thermal Insulation for 
+SECTION 23 05 15  Page 8
+CANCELLED
+
+
+Commercial and Industrial Applications
+ASTM C564
+(2026) Standard Specification for Rubber 
+Gaskets for Cast Iron Soil Pipe and 
+Fittings
+ASTM C920
+(2018; R 2024) Standard Specification for 
+Elastomeric Joint Sealants
+ASTM D2000
+(2018; R 2024) Standard Classification 
+System for Rubber Products in Automotive 
+Applications
+ASTM D2308
+(2007; R 2013) Standard Specification for 
+Thermoplastic Polyethylene Jacket for 
+Electrical Wire and Cable
+ASTM E1
+(2014; R 2025) Standard Specification for 
+ASTM Liquid-in-Glass Thermometers
+ASTM E84
+(2026) Standard Test Method for Surface 
+Burning Characteristics of Building 
+Materials
+ASTM E814
+(2024) Standard Test Method for Fire Tests 
+of Penetration Firestop Systems
+ASTM F104
+(2011; R 2020) Standard Classification 
+System for Nonmetallic Gasket Materials
+ASTM F568M
+(2007) Standard Specification for Carbon 
+and Alloy Steel Externally Threaded Metric 
+Fasteners
+ASTM F2389
+(2024a) Standard Specification for 
+Pressure-rated Polypropylene (PP) Piping 
+Systems
+CAST IRON SOIL PIPE INSTITUTE (CISPI)
+CISPI 310
+(2012) Coupling for Use in Connection with 
+Hubless Cast Iron Soil Pipe and Fittings 
+for Sanitary and Storm Drain, Waste, and 
+Vent Piping Applications
+FLUID SEALING ASSOCIATION (FSA)
+FSA-0017
+(1995e6) Standard for Non-Metallic 
+Expansion Joints and Flexible Pipe 
+Connectors Technical Handbook
+INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEERS (IEEE)
+IEEE 515
+(2017) Standard for the Testing, Design, 
+Installation, and Maintenance of 
+Electrical Resistance Heat Tracing for 
+Industrial Applications
+IEEE C2
+(2023; ERTA 1 2023; ERTA 2-3 2025) 
+SECTION 23 05 15  Page 9
+CANCELLED
+
+
+National Electrical Safety Code
+MANUFACTURERS STANDARDIZATION SOCIETY OF THE VALVE AND FITTINGS 
+INDUSTRY (MSS)
+MSS SP-58
+(2025) Pipe Hangers and Supports - 
+Materials, Design and Manufacture, 
+Selection, Application, and Installation
+MSS SP-67
+(2022) Butterfly Valves
+MSS SP-70
+(2011) Gray Iron Gate Valves, Flanged and 
+Threaded Ends
+MSS SP-72
+(2010a) Ball Valves with Flanged or 
+Butt-Welding Ends for General Service
+MSS SP-80
+(2019) Bronze Gate, Globe, Angle, and 
+Check Valves
+MSS SP-110
+(2010) Ball Valves Threaded, 
+Socket-Welding, Solder Joint, Grooved and 
+Flared Ends
+MSS SP-125
+(2010) Gray Iron and Ductile Iron In-Line, 
+Spring-Loaded, Center-Guided Check Valves
+NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION (NEMA)
+NEMA MG 00001
+(2024) Motors and Generators
+NEMA MG 10
+(2017) Energy Management Guide for 
+Selection and Use of Fixed Frequency 
+Medium AC Squirrel-Cage Polyphase 
+Induction Motors
+NEMA MG 11
+(1977; R 2012) Energy Management Guide for 
+Selection and Use of Single Phase Motors
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+NFPA 70
+(2026; TIA 26-1; ERTA 26-1;  TIA 26-2; TIA 
+26-3; TIA 26-4; TIA 26-5; TIA 26-6; TIA 
+26-7; ERTA 26-2; ERTA 26-3) National 
+Electrical Code
+NSF INTERNATIONAL (NSF)
+NSF/ANSI 14
+(2024) Plastics Piping System Components 
+and Related Materials
+U.S. DEPARTMENT OF DEFENSE (DOD)
+MIL-C-18480
+(1982; Rev B; Notice 2 2009; Notice 3 
+2022) Coating Compound, Bituminous, 
+Solvent, Coal-Tar Base
+MIL-DTL-17813
+(2009; Rev H; Supp 1 2009; Notice 1 2013; 
+Notice 2 2018; Notice 3 2023) Expansion 
+SECTION 23 05 15  Page 10
+CANCELLED
+
+
+Joints, Pipe, Metallic Bellows, General 
+Specification for
+U.S. GENERAL SERVICES ADMINISTRATION (GSA)
+CID A-A-1922
+(Rev A; Notice 1; Notice 2; Notice 3; 
+Notice 4) Shield, Expansion (Caulking 
+Anchors, Single Lead)
+CID A-A-1923
+(Rev A; Notice 1; Notice 2; Notice 3; 
+Notice 4) Shield, Expansion (Lag, Machine 
+and Externally Threaded Wedge Bolt Anchors)
+CID A-A-1924
+(Rev A; Notice 3) Shield, Expansion (Self 
+Drilling Tubular Expansion Shell Bolt 
+Anchors
+CID A-A-1925
+(Rev A; Notice 1; Notice 2; Notice 3; 
+Notice 4) Shield Expansion (Nail Anchors)
+CID A-A-55614
+(Basic; Notice 2) Shield, Expansion 
+(Non-Drilling Expansion Anchors)
+CID A-A-55615
+(Basic; Notice 1; Notice 2; Notice 3; 
+Notice 4) Shield, Expansion (Wood Screw 
+and Lag Bolt Self-Threading Anchors
+UL SOLUTIONS (UL)
+UL 1479
+(2015; Reprint Mar 2026) UL Standard for 
+Safety Fire Tests of Penetration Firestops
+1.2   
+GENERAL REQUIREMENTS
+**************************************************************************
+NOTE:  If Section 
+23 30 00
+ HVAC AIR DISTRIBUTION is 
+not included in the project specification, 
+applicable requirements thereof should be inserted 
+and the first paragraph deleted.  If Section 
+23 05 48.19
+ SEISMIC BRACING FOR HVAC is not included 
+in the project specification, applicable 
+requirements thereof should be inserted and the 
+second paragraph deleted.  If Section 
+40 05 13.96
+ 
+WELDING PROCESS PIPING is not included in the 
+project specification, applicable requirements 
+thereof should be inserted and the third paragraph 
+deleted.
+**************************************************************************
+[
+a.  Section 
+23 30 00
+ HVAC AIR DISTRIBUTION applies to work specified in 
+this section
+][
+b.  Section 
+23 05 48.19
+ SEISMIC BRACING FOR HVAC applies to work specified 
+in this section.
+][
+c.  Section 
+40 05 13.96
+ WELDING PROCESS PIPING applies to work specified 
+in this section.
+]
+d.  Submit 
+Records of Existing Conditions
+ consisting of the results of 
+SECTION 23 05 15  Page 11
+CANCELLED
+
+
+Contractor's survey of work area conditions and features of existing 
+structures and facilities within and adjacent to the jobsite.  
+Commencement of work constitutes acceptance of the existing conditions.
+e.  Include with 
+Equipment Foundation Data
+ for piping systems all plan 
+dimensions of foundations and relative elevations, equipment weight 
+and operating loads, horizontal and vertical loads, horizontal and 
+vertical clearances for installation, and size and location of anchor 
+bolts.
+f.  Submit 
+Fabrication Drawings
+ for pipes, valves and specialties 
+consisting of fabrication and assembly details to be performed in the 
+factory.
+g.  Submit 
+Material, Equipment, and Fixture Lists
+ for pipes, valves and 
+specialties including manufacturer's style or catalog numbers, 
+specification and drawing reference numbers, warranty information, and 
+fabrication site information.  Provide a complete list of construction 
+equipment to be used.
+h.  Submit 
+Manufacturer's Standard Color Charts
+ for pipes, valves and 
+specialties showing the manufacturer's recommended color and finish 
+selections.
+i.  Include with 
+Listing of Product Installations
+ for piping systems 
+identification of at least 5 units, similar to those proposed for use, 
+that have been in successful service for a minimum period of 5 years.  
+Include in the list purchaser, address of installation, service 
+organization, and date of installation.
+j.  Submit 
+Record Drawings
+ for pipes, valves and accessories providing 
+current factual information including deviations and amendments to the 
+drawings, and concealed and visible changes in the work.
+k.  Submit 
+Connection Diagrams
+ for pipes, valves and specialties 
+indicating the relations and connections of devices and apparatus by 
+showing the general physical layout of all controls, the 
+interconnection of one system (or portion of system) with another, and 
+internal tubing, wiring, and other devices.
+l.  Submit 
+Coordination Drawings
+ for pipes, valves and specialties showing 
+coordination of work between different trades and with the structural 
+and architectural elements of work.  Detail all drawings sufficiently 
+to show overall dimensions of related items, clearances, and relative 
+locations of work in allotted spaces.  Indicate on drawings where 
+conflicts or clearance problems exist between various trades.
+1.3   
+SUBMITTALS
+**************************************************************************
+NOTE:  Review Submittal Description (SD) definitions 
+in Section 
+01 33 00
+ SUBMITTAL PROCEDURES and edit 
+the following list, and corresponding submittal 
+items in the text, to reflect only the submittals 
+required for the project.  The Guide Specification 
+technical editors have classified those items that 
+require Government approval, due to their complexity 
+or criticality, with a "G."  Generally, other 
+submittal items can be reviewed by the Contractor's 
+SECTION 23 05 15  Page 12
+CANCELLED
+
+
+Quality Control System.  Only add a “G” to an item, 
+if the submittal is sufficiently important or 
+complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification, with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  
+Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 
+01 33 00
+ SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+Government approval is required for submittals with a "G" or "S" 
+classification.
+  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.
+  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.
+  Submit the following in accordance with Section 
+01 33 00
+ SUBMITTAL PROCEDURES:
+SD-01 Preconstruction Submittals
+Material, Equipment, and Fixture Lists
+[; 
+G
+, [_____]
+]
+SD-02 Shop Drawings
+Record Drawings
+[; 
+G
+, [_____]
+]
+Connection Diagrams
+[; 
+G
+, [_____]
+]
+Coordination Drawings
+[; 
+G
+, [_____]
+]
+Fabrication Drawings
+[; 
+G
+, [_____]
+]
+Installation Drawings
+[; 
+G
+, [_____]
+]
+SD-03 Product Data
+Pipe and Fittings
+[; 
+G
+, [_____]
+]
+Piping Specialties
+[; 
+G
+, [_____]
+]
+Valves
+[; 
+G
+, [_____]
+]
+Miscellaneous Materials
+[; 
+G
+, [_____]
+]
+Supporting Elements
+[; 
+G
+, [_____]
+]
+SECTION 23 05 15  Page 13
+CANCELLED
+
+
+Equipment Foundation Data
+[; 
+G
+, [_____]
+]
+SD-04 Samples
+Manufacturer's Standard Color Charts
+[; 
+G
+, [_____]
+]
+SD-05 Design Data
+Pipe and Fittings
+[; 
+G
+, [_____]
+]
+Piping Specialties
+[; 
+G
+, [_____]
+]
+Valves
+[; 
+G
+, [_____]
+]
+SD-06 Test Reports
+Hydrostatic Tests
+[; 
+G
+, [_____]
+]
+Air Tests
+[; 
+G
+, [_____]
+]
+Valve-Operating Tests
+[; 
+G
+, [_____]
+]
+Drainage Tests
+[; 
+G
+, [_____]
+]
+Pneumatic Tests
+[; 
+G
+, [_____]
+]
+Non-Destructive Electric Tests
+[; 
+G
+, [_____]
+]
+System Operation Tests
+[; 
+G
+, [_____]
+]
+SD-07 Certificates
+Record of Satisfactory Field Operation
+[; 
+G
+, [_____]
+]
+List of Qualified Permanent Service Organizations
+[; 
+G
+, [_____]
+]
+Listing of Product Installations
+[; 
+G
+, [_____]
+]
+Records of Existing Conditions
+[; 
+G
+, [_____]
+]
+Surface Resistance
+[; 
+G
+, [_____]
+]
+Shear and Tensile Strengths
+[; 
+G
+, [_____]
+]
+Temperature Ratings
+[; 
+G
+, [_____]
+]
+Bending Tests
+[; 
+G
+, [_____]
+]
+Flattening Tests
+[; 
+G
+, [_____]
+]
+Transverse Guided Weld Bend Tests
+[; 
+G
+, [_____]
+]
+SD-10 Operation and Maintenance Data
+Operation and Maintenance Manuals
+[; 
+G
+, [_____]
+]
+SECTION 23 05 15  Page 14
+CANCELLED
+
+
+1.4   
+QUALITY ASSURANCE
+1.4.1   
+Material and Equipment Qualifications
+Provide materials and equipment that are standard products of 
+manufacturers regularly engaged in the manufacture of such products, which 
+are of a similar material, design and workmanship.  Provide standard 
+products in satisfactory commercial or industrial use for 2 years prior to 
+bid opening.  The 2-year use includes applications of equipment and 
+materials under similar circumstances and of similar size.  Ensure the 
+product has been for sale on the commercial market through advertisements, 
+manufacturers' catalogs, or brochures during the 2 year period.
+1.4.2   
+Alternative Qualifications
+Products having less than a two-year field service record are acceptable 
+if a certified 
+record of satisfactory field operation
+ for not less than 
+6000 hours, exclusive of the manufacturer's factory or laboratory tests, 
+can be shown.
+1.4.3   
+Service Support
+Ensure the equipment items are supported by service organizations.  Submit 
+a certified 
+list of qualified permanent service organizations
+ for support 
+of the equipment which includes their addresses and qualifications.  
+Select service organizations that are reasonably convenient to the 
+equipment installation and able to render satisfactory service to the 
+equipment on a regular and emergency basis during the warranty period of 
+the contract.
+1.4.4   
+Manufacturer's Nameplate
+Provide a nameplate on each item of equipment bearing the manufacturer's 
+name, address, model number, and serial number securely affixed in a 
+conspicuous place; the nameplate of the distributing agent is not 
+acceptable.
+1.4.5   
+Modification of References
+In each of the publications referred to herein, consider the advisory 
+provisions to be mandatory, as though the word, "shall" had been 
+substituted for "should" wherever it appears.  Interpret references in 
+these publications to the "authority having jurisdiction," or words of 
+similar meaning, to mean the Contracting Officer.
+1.4.5.1   
+Definitions
+For the International Code Council (ICC) Codes referenced in the contract 
+documents, advisory provisions are considered mandatory, the word "should" 
+is interpreted as "shall."  Reference to the "code official" is 
+interpreted to mean the "Contracting Officer."  For Navy owned property, 
+interpret references to the "owner" to mean the "Contracting Officer."  
+For leased facilities, references to the "owner" is interpreted to mean 
+the "lessor."  References to the "permit holder" are interpreted to mean 
+the "Contractor."
+1.4.5.2   
+Administrative Interpretations
+For ICC Codes referenced in the contract documents, the provisions of 
+SECTION 23 05 15  Page 15
+CANCELLED
+
+
+Chapter 1, "Administrator," do not apply.  These administrative 
+requirements are covered by the applicable Federal Acquisition Regulations 
+(FAR) included in this contract and by the authority granted to the 
+Officer in Charge of Construction to administer the construction of this 
+project.  References in the ICC Codes to sections of Chapter 1, are 
+applied as appropriate by the Contracting Officer and as authorized by his 
+administrative cognizance and the FAR.
+1.5   
+DELIVERY, STORAGE, AND HANDLING
+Handle, store, and protect equipment and materials to prevent damage 
+before and during installation in accordance with the manufacturer's 
+recommendations, and as approved by the Contracting Officer.  Replace 
+damaged or defective items.
+[
+1.6   
+ELECTRICAL REQUIREMENTS
+**************************************************************************
+NOTE:  Use this paragraph for other than 
+SOUTHNAVFACENGCOM projects.
+**************************************************************************
+Furnish motors, controllers, disconnects and contactors with their 
+respective pieces of equipment.  Ensure motors, controllers, disconnects 
+and contactors conform to and have electrical connections provided under 
+Section 
+26 20 00
+ INTERIOR DISTRIBUTION SYSTEM.  Furnish internal wiring 
+for components of packaged equipment as an integral part of the equipment. 
+Extended voltage range motors is not permitted.  Provide controllers and 
+contactors with a maximum of 120 volt control circuits, and auxiliary 
+contacts for use with the controls furnished.  When motors and equipment 
+furnished are larger than sizes indicated, include the cost of additional 
+electrical service and related work under the section that specified that 
+motor or equipment.  Provide power wiring and conduit for field installed 
+equipment under and conform to the requirements of Section 
+26 20 00
+ 
+INTERIOR DISTRIBUTION SYSTEM.
+][
+1.7   
+ELECTRICAL INSTALLATION REQUIREMENTS
+**************************************************************************
+NOTE:  Use this paragraph and its subparagraphs 
+regarding electrical components and energy efficient 
+motors for SOUTHNAVFACENGCOM projects.
+**************************************************************************
+Ensure electrical installations conform to 
+IEEE C2
+, 
+NFPA 70
+, and 
+requirements specified herein.
+1.7.1   
+New Work
+Provide electrical components of mechanical equipment, such as motors, 
+motor starters [(except starters/controllers which are indicated as part 
+of a motor control center)], control or push-button stations, float or 
+pressure switches, solenoid valves, integral disconnects, and other 
+devices functioning to control mechanical equipment, as well as control 
+wiring and conduit for circuits rated 100 volts or less, to conform with 
+the requirements of the section covering the mechanical equipment.  
+Extended voltage range motors are not permitted.  Provide under Division 
+26, the interconnecting power wiring and conduit, control wiring rated 120 
+volts (nominal) and conduit, [the motor control equipment forming a part 
+SECTION 23 05 15  Page 16
+CANCELLED
+
+
+of motor control centers,] and the electrical power circuits, except 
+internal wiring for components of package equipment is provided as an 
+integral part of the equipment.  When motors and equipment furnished are 
+larger than sizes indicated, provide any required changes to the 
+electrical service as may be necessary and related work as a part of the 
+work for the section specifying that motor or equipment.
+1.7.2   
+Modifications to Existing Systems
+Where existing mechanical systems and motor-operated equipment require 
+modifications, provide electrical components under Division 26.
+1.7.3   
+High Efficiency Motors
+1.7.3.1   
+High Efficiency Single-Phase Motors
+Unless otherwise specified, provide high efficiency single-phase 
+fractional-horsepower alternating-current motors corresponding to the 
+applications listed in 
+NEMA MG 11
+.
+1.7.3.2   
+High Efficiency Polyphase Motors
+Unless otherwise specified, select polyphase motors based on high 
+efficiency characteristics relative to the applications as listed in 
+NEMA MG 10
+.  Additionally, ensure polyphase squirrel-cage medium induction 
+motors with continuous ratings meet or exceed energy efficient ratings in 
+accordance with Table 12-6C of 
+NEMA MG 00001
+.
+1.7.4   
+Three-Phase Motor Protection
+Provide controllers for motors rated one
+ 1.34 kilowatts
+ one horsepower
+ and 
+larger with electronic phase-voltage monitors designed to protect motors 
+from phase-loss, undervoltage, and overvoltage.  Provide protection for 
+motors from immediate restart by a time adjustable restart relay.
+]
+1.8   
+INSTRUCTION TO GOVERNMENT PERSONNEL
+When specified in other sections, furnish the services of competent 
+instructors to give full instruction to the designated Government 
+personnel in the adjustment, operation, and maintenance, including 
+pertinent safety requirements, of the specified equipment or system.  
+Provide instructors thoroughly familiar with all parts of the installation 
+and trained in operating theory as well as practical operation and 
+maintenance work.
+Give instruction during the first regular work week after the equipment or 
+system has been accepted and turned over to the Government for regular 
+operation.  The number of man-days (8 hours per day) of instruction 
+furnished is as specified in the individual section.  When more than four 
+man-days of instruction are specified, use approximately half of the time 
+for classroom instruction.  Use other time for instruction with the 
+equipment or system.
+When significant changes or modifications in the equipment or system are 
+made under the terms of the contract, provide additional instruction to 
+acquaint the operating personnel with the changes or modifications.
+SECTION 23 05 15  Page 17
+CANCELLED
+
+
+1.9   
+ACCESSIBILITY
+**************************************************************************
+NOTE:  The following requirement is intended to 
+solicit the installer's help in the prudent location 
+of equipment when he has some control over 
+locations.  However, designers should not rely on it 
+at all since enforcing this requirement in the field 
+would be difficult.  Therefore, the system designer 
+needs to layout and indicate the locations of 
+equipment, control devices, and access doors so that 
+most of the accessibility questions are resolved 
+inexpensively during design.
+**************************************************************************
+Install all work so that parts requiring periodic inspection, operation, 
+maintenance, and repair are readily accessible.  Install concealed valves, 
+expansion joints, controls, dampers, and equipment requiring access, in 
+locations freely accessible through access doors.
+PART 2   PRODUCTS
+2.1   
+ELECTRICAL HEAT TRACING
+Provide heat trace systems for pipes, valves, and fittings that are in 
+accordance with 
+IEEE 515
+ and be UL listed.  System include all necessary 
+components, including heaters and controls to prevent freezing.
+Provide self-regulating heaters consisting of two 16 AWG tinned-copper bus 
+wires embedded in parallel in a self-regulating polymer core that varies 
+its power output to respond to temperature along its length.  Ensure 
+heater is able to be crossed over itself without overheating.  Obtain 
+approval before used directly on plastic pipe.  Cover heater with a 
+radiation cross-linked modified polyolefin dielectric jacket in accordance 
+with 
+ASTM D2308
+.
+[
+For installation on plastic piping, apply the heater using aluminum tape.  
+Provide heater with an outer braid of tinned-copper and an outer jacket of 
+modified polyolefin in accordance with 
+ASTM D2308
+, to provide a good 
+ground path and to enhance the heater's ruggedness.
+]
+**************************************************************************
+NOTE:  Self-regulation factor is defined as the 
+percentage reduction, without thermostatic control, 
+of the heater output going from
+ 4 degrees C
+ 40 
+degrees F
+ pipe temperature operation to
+ 66 degrees C
+ 
+150 degrees F
+ pipe temperature operation.
+**************************************************************************
+Provide heater with self-regulating factor of at least [90] [_____] 
+percent, in order to provide energy conservation and to prevent 
+overheating.
+Operate heater on line voltages of [120] [208] [220] [240] [277] volts 
+without the use of transformers.
+**************************************************************************
+NOTE:  Required heater output rating is in watts per
+ 
+meter at 10 degrees C
+ foot at 50 degrees F
+.  Heater 
+SECTION 23 05 15  Page 18
+CANCELLED
+
+
+selection based on
+ 25 millimeter
+ one-inch
+ fiberglass 
+insulation on metal piping.
+**************************************************************************
+Size Heater according to the following table:
+Pipe Size (DN)
+(Millimeter Diameter)
+Minus 23 degrees C
+Minus 29 degrees C
+80 or less
+16 watts per meter (wpm)
+16 watts per meter (wpm)
+100
+16 wpm
+26 wpm
+150
+26 wpm
+26 wpm
+200
+2 strips/16 wpm
+2 strips/26 wpm
+300 to 356
+2 strips/26 wpm
+2 strips/26 wpm
+Pipe Size
+(Inch, Diameter)
+Minus 10 degrees F
+Minus 20 degrees F
+3 inches or less
+5 watts per foot (wpf)
+5 wpf
+4 inch
+5 wpf
+8 wpf
+6 inch
+8 wpf
+8 wpf
+8 inch
+2 strips/5 wpf
+2 strips/8 wpf
+12 inch
+2 strips/8 wpf
+2 strips/8 wpf
+Control systems by an ambient sensing thermostat set at
+ 4 degrees C
+ 40 
+degrees F
+ either directly or through an appropriate contactor.
+2.2   
+PIPE AND FITTINGS
+**************************************************************************
+NOTE:  Do not use press fittings on NAVFAC 
+projects.  Do not use grooved connections on NAVFAC 
+projects.
+**************************************************************************
+Submit equipment and performance data for 
+pipe and fittings
+ consisting of 
+corrosion resistance, life expectancy, gage tolerances, and grade line 
+analysis.  Submit design analysis and calculations consisting of surface 
+resistance, rates of flow, head losses, inlet and outlet design, required 
+radius of bend, and pressure calculations.  Also include in data pipe 
+size, shape, and dimensions, as well as temperature ratings, vibration and 
+thrust limitations minimum burst pressures, shut-off and non-shock 
+pressures and weld characteristics.
+SECTION 23 05 15  Page 19
+CANCELLED
+
+
+2.2.1   
+Type BCS, Black Carbon Steel
+**************************************************************************
+NOTE:  This pipe is applicable for chilled, hot, 
+dual-temperature, and cooling-tower water.  Refer to 
+Specification Section 
+23 64 26
+ for system details.
+**************************************************************************
+Ensure pipe
+ DN6 through DN300
+ 1/8 through 12 inches
+ is Schedule 40 black 
+carbon steel, conforming to 
+ASTM A53/A53M
+.
+Ensure pipe
+ DN6 through DN250
+ 1/8 through 10 inches
+ is Schedule 40 
+seamless or electric-resistance welded black carbon steel, conforming to 
+ASTM A53/A53M
+, [Type E, Grade B (electric-resistance welded)] [Type S 
+(seamless)].  Grade A should be used for permissible field bending, in 
+both cases.
+Ensure pipe
+ DN300 through DN610
+ 12 through 24 inches
+ is
+ 9.52 millimeter
+ 
+0.375-inch
+ wall seamless black carbon steel, conforming to 
+ASTM A53/A53M
+, 
+[Type E, Grade B (electric-resistance welded)] [Type S (seamless)].
+Ensure fittings
+ DN50 and under
+ 2 inches and under
+ are
+ 1034 kilopascal
+ 
+150-pounds per square inch, gage (psig)
+ working steam pressure (wsp) 
+banded black malleable iron screwed, conforming to 
+ASTM A197/A197M
+ and 
+ASME B16.3
+.
+Ensure unions
+ DN50 and under
+ 2 inches and under
+ are
+ 1724 kilopascal
+ 250 
+pounds per square inch, wsp
+ female, screwed, black malleable iron with 
+brass-to-iron seat, and ground joint, conforming to 
+ASME B16.39
+.
+Ensure fittings
+ DN65 and over
+ 2-1/2 inches and over
+ are Steel butt weld, 
+conforming to 
+ASTM A234/A234M
+ and 
+ASME B16.9
+ to match pipe wall thickness.
+Ensure flanges
+ DN65 and over
+ 2-1/2 inches and over
+ are
+ 1034 kilopascal
+ 
+150-pound
+ forged-steel conforming to 
+ASME B16.5
+, welding neck to match 
+pipe wall thickness.
+2.2.2   
+Type BCS-125,
+ 862 kilopascal Service
+ 125-psi Service
+**************************************************************************
+NOTE:  This pipe is applicable for steam- and 
+condensate-piping systems at pressures less than
+ 862 
+kilopascal
+ 125 pounds per square inch (psi)
+.  Avoid 
+screwed-end connections in condensate piping 
+wherever possible.  See Section 
+23 64 26
+ CHILLED, 
+CHILLED-HOT, AND CONDENSER WATER PIPING SYSTEMS for 
+black carbon steel pipe for higher pressure ratings.
+**************************************************************************
+Ensure pipe
+ DN6 through DN40
+ 1/8 through 1-1/2 inches
+ is Schedule 40 
+steam, Schedule 80 condensate, furnace butt weld, black carbon steel, 
+conforming to 
+ASTM A53/A53M
+, Type F (furnace butt welded, continuous 
+welded) and 
+ASME B36.10M
+.
+Ensure pipe
+ DN50 through DN250
+ 2 through 10 inches
+ is Schedule 40 steam, 
+Schedule 80 condensate, seamless or electric-resistance welded black 
+carbon steel, conforming to 
+ASTM A53/A53M
+ [Type E, Grade B 
+(electric-resistance welded)] [Type S (seamless)] and 
+ASME B36.10M
+.
+SECTION 23 05 15  Page 20
+CANCELLED
+
+
+**************************************************************************
+NOTE:  For condensate piping, modify following (for
+ 
+DN300
+ 12 inches
+ and over) to schedule 40 or schedule 
+80, if necessary.
+**************************************************************************
+Ensure pipe
+ DN300 through DN610
+ 12 through 24 inches
+ is
+ 9.52 millimeter
+ 
+0.375-inch
+ wall, [seamless] [electric-resistance] welded black carbon 
+steel, conforming to 
+ASTM A53/A53M
+ [Type E, Grade B (electric-resistance 
+welded)] [Type S (seamless) and 
+ASME B36.10M
+].
+[
+Ensure fittings
+ DN50 and under
+ 2 inches and under
+ are
+ 862 kilopascal
+ 
+125-psig
+ wsp, cast iron, screwed end, conforming to 
+ASTM A126
+ Class A and 
+ASME B16.4
+.
+][
+Ensure fittings
+ DN50 and under
+ 2 inches and under
+ are
+ 1034 kilopascal
+ 
+150-psig
+ wsp banded black malleable iron screwed, conforming to 
+ASTM A197/A197M
+ and 
+ASME B16.3
+.
+][
+Ensure fittings
+ DN25 through DN50
+ 1 through 2 inches
+ are
+ 14 or 21 
+megapascal
+ 2,000-or 3,000-psi
+ water, oil, or gas (wog) to match pipe wall, 
+forged carbon steel socket weld, conforming to 
+ASTM A105/A105M
+ and 
+ASME B16.11
+.
+][
+Ensure fittings
+ DN50 and under
+ 2 inches and under
+ are
+ 862 kilopascal
+ 
+125-psig
+ wsp, cast iron, screwed end, conforming to 
+ASTM A126
+ Class A and 
+ASME B16.4
+.
+][
+Ensure fittings
+ DN65 and over
+ 2-1/2 inches and over
+ are wall thickness to 
+match pipe, long radius butt weld, black carbon steel, conforming to 
+ASTM A234/A234M
+, Grade WPB and 
+ASME B16.9
+.
+][
+Ensure couplings
+ DN50 and under
+ 2 inches and under
+ are commercial standard 
+weight for Schedule 40 pipe and commercial extra heavy weight for Schedule 
+80 pipe, black carbon steel where threaded, and
+ 14 or 21 megapascal
+ 
+2,000-or 3,000-psi
+ wog forged carbon steel, conforming to 
+ASTM A105/A105M
+ 
+and 
+ASME B16.11
+, where welded.
+][
+Ensure flanges
+ DN65 and over
+ 2-1/2 inches and over
+ are
+ 1035 kilopascal,
+ 
+150-pound,
+ forged carbon-steel welding neck, with raised face or flat face 
+and concentric serrated finish, conforming to 
+ASTM A105/A105M
+ and 
+ASME B16.5
+.
+][
+Conform grooved pipe couplings and fittings in accordance with paragraph 
+GROOVED PIPE COUPLINGS AND FITTINGS.
+]
+2.2.3   
+Type GCS, Galvanized Carbon Steel
+**************************************************************************
+NOTE:  This pipe is applicable for potable water and 
+rain water leader systems.
+**************************************************************************
+Ensure pipe
+ DN15 through DN250, and where indicated
+ 1/2 through 10 inches, 
+and where indicated
+ is Schedule 40 seamless or electric-resistance welded 
+galvanized steel conforming to 
+ASTM A53/A53M
+, Type E, Grade B 
+(electric-resistance welded) or Type S (seamless).
+Ensure pipe
+ DN300 and over
+ 12 inches and over
+ is
+ 9.52 millimeter
+ 0.375-inch
+SECTION 23 05 15  Page 21
+CANCELLED
+
+
+ wall, seamless, galvanized steel, conforming to 
+ASTM A53/A53M
+, Grade B.
+Ensure fittings
+ DN50 and under
+ 2 inches and under
+ are
+ 1034 kilopascal
+ 
+150-psig
+ wsp banded galvanized malleable iron screwed, conforming to 
+ASTM A197/A197M
+ and 
+ASME B16.3
+.
+Ensure unions
+ DN50 and under
+ 2 inches and under
+ are
+ 1034 kilopascal
+ 
+150-psig
+ wsp female, screwed, galvanized malleable iron with brass-to-iron 
+seat and ground joint.
+Ensure fittings
+ DN65 and over
+ 2-1/2 inches and over
+ are
+ 862 kilopascal
+ 
+125-psig
+ wsp cast-iron flanges and flanged fittings, conforming to 
+ASTM A126
+, Class A and 
+ASME B16.1
+.
+Conform grooved pipe couplings and fittings in accordance with paragraph 
+GROOVED PIPE COUPLINGS AND FITTINGS.
+As an option, use
+ 1034 kilopascal
+ 150-psig
+ wsp banded galvanized malleable 
+iron screwed fittings, conforming to 
+ASTM A197/A197M
+ and 
+ASME B16.3
+.
+2.2.4   
+Type GCS-DWV, Galvanized Steel Drain, Waste and Vent
+**************************************************************************
+NOTE:  Nonferrous piping exposed to view in finished 
+spaces and normally chrome plated is specified in 
+Section 
+22 00 00
+ PLUMBING, GENERAL PURPOSE.  Select 
+A53 pipe where bending and flattening tests are 
+required.
+**************************************************************************
+Ensure pipe (all sizes) is Schedule 40 [seamless] [electric-resistance 
+welded] galvanized carbon steel, conforming to 
+ASTM A53/A53M
+, Grade A.
+Furnace butt weld pipe is acceptable for sizes less than
+ DN50
+ 2 inches
+.
+[
+Provide risers
+ DN80
+ 3 inches
+ and larger are Type CISP-DWV.
+][
+Ensure fittings are galvanized, [coated] [uncoated], screwed, cast iron, 
+recessed pattern drainage fittings, conforming to 
+ASTM A126
+.
+][
+Use long radius fittings wherever space permits.  Short-turn tees, 
+branches, and ells may be used for vent piping and connections of branch 
+lines to battery fixtures, except wall-hung water closets.
+]
+2.2.5   
+Type CISP-DWV, Cast-Iron Drain, Waste and Vent
+**************************************************************************
+NOTE:  When project requires risers
+ DN80
+ 3 inches
+ 
+and larger, include Type CISP-DWV materials 
+specification.
+**************************************************************************
+[
+Provide soil pipe drain, waste, and vent bell-and-spigot type pipe cast 
+iron, conforming to 
+ASTM A74
+.[  Joints shall be two-gasket system type 
+neoprene, conforming to 
+ASTM C564
+.][  Caulk and lead all joints in lines 
+to provide proper leaktight support and alignment.]  Select the extra 
+heavy (CISP-DWV-XH) pipe class.
+][
+Provide soil pipe drain, waste, and vent hubless cast iron pipe and 
+SECTION 23 05 15  Page 22
+CANCELLED
+
+
+fittings, conforming to 
+ASTM A888
+.  Joints shall be heavyweight no-hub 
+couplings with stainless steel clamps, conforming to 
+CISPI 310
+.
+]
+2.2.6   
+Type CPR, Copper
+**************************************************************************
+NOTE:  Copper pipe above ground and below ground is 
+acceptable for chilled, hot, dual-temperature, 
+cooling-tower water, and potable-water systems.  
+Refer to Sections 
+23 64 26
+ CHILLED, CHILLED-HOT, AND 
+CONDENSER WATER PIPING SYSTEMS and 
+22 00 00
+ 
+PLUMBING, GENERAL PURPOSE for system details.
+**************************************************************************
+2.2.6.1   
+Type CPR-A, Copper Above Ground
+Ensure tubing
+ DN50 and under
+ 2 inches and under
+ is seamless copper tubing, 
+conforming to
+ 
+ASTM B88M
+,
+ 
+ASTM B88
+,
+ Type L (hard-drawn for all horizontal 
+and all exposed vertical lines, annealed for concealed vertical lines).
+Ensure fittings
+ DN50 and under
+ 2 inches and under
+ are
+ 1034 kilopascal
+ 
+150-psig
+ wsp wrought-copper solder joint fittings conforming to 
+ASME B16.22
+.
+Ensure unions
+ DN50 and under
+ 2 inches and under
+ are
+ 1034 kilopascal
+ 
+150-psig
+ wsp wrought-copper solder joint, conforming to 
+ASME B16.22
+.
+[
+Provide brazing rod with Classification BCuP-5, conforming to 
+AWS A5.8/A5.8M
+.
+][
+Use solder, alloy Sb-5, conforming to 
+ASTM B32
+.
+]
+2.2.6.2   
+Type CPR-U, Copper Under Ground
+**************************************************************************
+NOTE:  For sizes under
+ DN80
+ 3 inches
+.
+**************************************************************************
+Provide Type K seamless copper tube piping, conforming to
+ 
+ASTM B88M
+ 
+ASTM B88
+.  Use wrought copper socket-joint fittings, conforming to 
+ASME B16.22
+.  Ensure fittings for connection to corporation cocks are cast 
+bronze, flared-type, conforming to 
+ASME B16.26
+.  Braze the joints.
+2.2.6.3   
+Type CPR-INS, Copper Under Ground Insulated
+**************************************************************************
+NOTE:  Type CPR-INS material is commercially 
+available in sizes to and including
+ DN105
+ 4 inches
+ 
+OD.
+Since pipe is protected from soil by insulation 
+system, Type L copper tube may be used if suitable 
+for water carried at a cost saving of 10 percent.
+Type CPR-INS material may be used for hot water 
+supply and return connected to tunnel mains.
+**************************************************************************
+Provide insulated Type K seamless copper tube piping conforming to
+ 
+ASTM B88M
+ 
+ASTM B88
+.  Use wrought copper socket-joint fittings, conforming 
+SECTION 23 05 15  Page 23
+CANCELLED
+
+
+to 
+ASME B16.22
+.  Braze the joints.
+Provide insulation not less than
+ DN50
+ 2 inches
+ thick, suitable for 
+continuous service temperatures of not less than
+ 121 degrees C
+ 250 degrees 
+F
+. Use factory-molded, closed-cell polyurethane foam insulation of not 
+less than
+ 40 kilogram per cubic meter
+ 2.5 pounds per cubic foot
+ density.  
+Waterproof insulation with an extruded rigid Type II virgin 
+polyvinylchloride, with minimum wall thickness of
+ 1.52 millimeter through 
+102 millimeter
+ 60 mils through 4 inches
+ outside diameter,
+ 2.16 millimeter 
+through 168.28 millimeter
+ 85 mils through 6.625 inches
+ and
+ 2.79 millimeter 
+through 273 millimeter
+ 110 mils through 12.750 inches
+.  Provide fitting 
+covers fabricated from the same materials and thickness as adjacent pipe 
+covering according to the manufacturer's directions.
+2.2.7   
+Polypropylene Pipe
+Pipe is manufactured from a PP-R resin meeting the short-term properties 
+and long-term strength requirements of 
+ASTM F2389
+.  Pipe is made in a 
+three layer extrusion process.  Piping contains a fiber layer (faser) to 
+restrict thermal expansion.  Pipe complies with the rated pressure 
+requirements of 
+ASTM F2389
+.  Ensure layers are incorporated in the pipe 
+wall to limit thermal expansion to
+ 3.38 cm per degree C per meter
+ 2 
+1/4-inches per 100 F per 100-ft
+.  If the hydronic system includes ferrous 
+components, an oxygen barrier is required in pipe wall.
+Ensure pipe is certified by NSF International as complying with 
+NSF/ANSI 14
+, 
+and 
+ASTM F2389
+.
+Ensure pipe wrap or insulation meets the requirements of 
+ASTM E84
+.  Ensure 
+the system has a Flame Spread Classification of less than 25 and Smoke 
+Development rating of less than 50.
+Where pipe is exposed to direct UV light for more than 30 days, provide a 
+Factory applied, UV-resistant coating or alternative UV protection.
+2.2.8   
+Grooved Pipe Couplings and Fittings
+**************************************************************************
+NOTE: Do not use grooved connections on NAVFAC 
+projects.
+**************************************************************************
+Provide housing for all couplings, fabricated in two or more parts, of 
+black, ungalvanized malleable iron castings.  Ensure coupling gasket is 
+molded synthetic rubber, conforming to 
+ASTM D2000
+.  Ensure coupling bolts 
+are oval-neck, track-head type, with hexagonal heavy nuts conforming to 
+ASTM A183
+.
+Fabricate all pipe fittings used with couplings of black, ungalvanized 
+malleable iron castings.  Where a manufacturer's standard-size malleable 
+iron fitting pattern is not available, approved fabricated fittings may be 
+used.
+Fabricate fittings from Schedule 40 or
+ 19 millimeter
+ 0.75-inch
+ wall 
+ASTM A53/A53M
+, Grade B seamless steel pipe; long radius seamless welding 
+fittings with wall thickness to match pipe, conforming to 
+ASTM A234/A234M
+ 
+and 
+ASME B16.9
+.
+SECTION 23 05 15  Page 24
+CANCELLED
+
+
+2.3   
+PIPING SPECIALTIES
+Submit equipment and performance data for 
+piping specialties
+ consisting of 
+corrosion resistance, life expectancy, gage tolerances, and grade line 
+analysis.  Submit design analysis and calculations consisting of surface 
+resistance, rates of flow, head losses, inlet and outlet design, required 
+radius of bend, and pressure calculations.  Also include in data pipe 
+size, shape, and dimensions, as well as temperature ratings, vibration and 
+thrust limitations minimum burst pressures, shut-off and non-shock 
+pressures and weld characteristics.
+2.3.1   
+Air Separator
+Air separated from converter discharge water is ejected by a 
+reduced-velocity device vented to the compression tank.
+[
+Provide a commercially constructed separator, designed and certified to 
+separate not less than 80 percent of entrained air on the first passage of 
+water and not less than 80 percent of residual on each successive pass. 
+Provide shop drawings detailing all piping connections proposed for this 
+work.
+][
+Ensure the air separator is carbon steel, designed, fabricated, tested, 
+and stamped in conformance with 
+ASME BPVC SEC VIII D1
+ for service 
+pressures not less than
+ 862 kilopascal
+ 125 psi
+.
+]
+2.3.2   
+Air Vents
+[
+Provide manual air vents using
+ 10 millimeter
+ 3/8-inch
+ globe valves.
+]
+**************************************************************************
+NOTE:  This size vent is suitable for most systems, 
+and passes
+ 9.40 liter per second of free air
+ 20 
+cubic feet of free air per minute
+ at a system 
+pressure of
+ 862 kilopascal
+ 125 psi
+.  Where a system 
+is filled at a certain rate, larger vents or a 
+multiple assembly with safety features should be 
+used.
+**************************************************************************
+[
+Provide automatic air vents on pumps, mains, and where indicated using 
+ball-float construction.  Ensure the vent inlet is not less than
+ DN20
+ 
+3/4-inch ips
+ and the outlet not less than
+ 8 millimeter
+ 1/4-inch ips
+.  
+Orifice size is
+ 3 millimeter
+ 1/8 inch
+.  Provide corrosion-resistant steel 
+trim conforming to [
+ASTM A276/A276M
+] [
+ASTM A480/A480M
+].  Fit vent with 
+try-cock.  Ensure vent discharges air at any pressure up to
+ 1034 kilopascal
+ 150 psi
+.  Ensure outlet is copper tube routed.
+]
+2.3.3   
+Compression Tank
+Provide compression tank designed, fabricated, tested, and stamped for a 
+working pressure of not less than
+ 862 kilopascal
+ 125 psi
+ in accordance 
+with 
+ASME BPVC SEC VIII D1
+.  Ensure tank is hot-dip galvanized after 
+fabrication to produce not less than
+ 51 grams
+ 1.5 ounces
+ of zinc coating 
+per square
+ meter
+ foot
+ of single-side surface.
+Tank accessories include red-lined gage-glass complete with glass 
+protectors and shutoff valves, air charger and drainer, and manual vent.
+SECTION 23 05 15  Page 25
+CANCELLED
+
+
+2.3.4   
+Dielectric Connections
+Electrically isolate dissimilar pipe metals from each other by couplings, 
+unions, or flanges commercially manufactured for that purpose and rated 
+for the service pressure and temperature.
+2.3.5   
+Expansion Vibration Isolation Joints
+**************************************************************************
+NOTE:  Drawings should show detailed piping anchor 
+provisions where expansion vibration isolation 
+joints are used.
+This joint may also serve as a dielectric connector.
+**************************************************************************
+Construct single or multiple arch-flanged expansion vibration isolation 
+joints of steel-ring reinforced chloroprene-impregnated cloth materials.  
+Design joint to absorb the movement of the pipe sections in which 
+installed with no detrimental effect on the pipe or connected equipment.  
+Back flanges with ferrous-metal backing rings.  Provide control rod 
+assemblies to restrict joint movement.  Coat all nonmetallic exterior 
+surfaces of the joint with chlorosulphonated polyethylene.  Provide 
+grommets in limit bolt hole to absorb noise transmitted through the bolts.
+**************************************************************************
+NOTE:  If other elastomers are substituted for 
+chloroprene, temperature limits may be lowered to
+ 82 
+degrees C
+ 180 degrees F
+ or less.
+**************************************************************************
+Ensure joints are suitable for continuous-duty working temperature of at 
+least
+ 121 degrees C
+ 250 degrees F
+.
+**************************************************************************
+NOTE:  Select the following paragraph where solids 
+accumulating in arch would cause cutting of carcass. 
+Note that all movements will be reduced by 50 
+percent.
+**************************************************************************
+Fill arches with soft chloroprene.
+Ensure joint, single-arch, movement limitations and size-related, pressure 
+characteristics conform to 
+FSA-0017
+.
+2.3.6   
+Flexible Pipe
+**************************************************************************
+NOTE:  Drawings should show detailed upstream and 
+downstream piping anchor provisions and location 
+with respect to axis of motion where flexible pipe 
+is used.
+Grooved couplings and vibration-isolated pipe 
+hangers should be considered.
+Flexible pipe may also serve as a dielectric 
+connector.
+SECTION 23 05 15  Page 26
+CANCELLED
+
+
+Select following paragraph for manufacturer's 
+standard-service pipe.
+**************************************************************************
+Construct flexible pipe vibration and pipe-noise eliminators of 
+wire-reinforced, rubber-impregnated cloth and cord materials and be 
+flanged.  Back the flanges with ferrous-metal backing rings.  Ensure 
+service pressure-rating is a minimum 1.5 times actual service, with surge 
+pressure at
+ 82 degrees C
+ 180 degrees F
+.
+**************************************************************************
+NOTE:  Anticipated life of chloroprene units at
+ 121 
+degrees C
+ 250 degrees F
+ is 5 to 10 years.
+**************************************************************************
+Construct flexible pipe vibration and pipe noise eliminators of 
+wire-reinforced chloroprene-impregnated cloth and cord materials.  Ensure 
+the pipe is flanged.  Provide all flanges backed with ferrous-metal 
+backing rings.  Coat nonmetallic exterior surfaces of the flexible pipe 
+with an acid- and oxidation-resistant chlorosulphonated polyethylene.  
+Rate the flexible pipe for continuous duty at
+ 896 kilopascal and 121 
+degrees C
+ 130 psi and 250 degrees F
+.
+Ensure unit pipe lengths, face-to-face, are not less than the following:
+**************************************************************************
+NOTE:  The following lengths are basic 
+recommendations:  each application should be 
+reviewed for optimum length.
+**************************************************************************
+                
+INSIDE DIAMETER (DN)
+             
+UNIT PIPE LENGTH
+            [To 65, inclusive                    305 millimeter
+            80 to 100, inclusive                 450 millimeter
+            125 to 300, inclusive                600 millimeter]
+            [To 80, inclusive                    450 millimeter
+            110 to 250, inclusive                600 millimeter
+            300 and larger                       914 millimeter]
+                
+INSIDE DIAMETER
+                
+UNIT PIPE LENGTH
+            [To 2-1/2 inches, inclusive          12 inches
+            3 to 4 inches, inclusive             18 inches
+            5 to 12 inches, inclusive            24 inches]
+            [To 3 inches, inclusive              18 inches
+            4 to 10 inches, inclusive            24 inches
+            12 inches and larger                 36 inches]
+SECTION 23 05 15  Page 27
+CANCELLED
+
+
+                
+INSIDE DIAMETER
+                
+UNIT PIPE LENGTH
+2.3.7   
+Flexible Metallic Pipe
+Ensure flexible pipe is the bellows-type with wire braid cover and 
+designed, constructed, and rated in accordance with the applicable 
+requirements of 
+ASME B31.3
+.
+Minimum working pressure rating is
+ [345] [690] kilopascal at 149 degrees C
+ 
+[50] [100] psi at 300 degrees F
+.
+[
+Ensure minimum burst pressure is [four] [_____] times working pressure at
+ 
+149 degrees C
+ 300 degrees F
+.  Bellows material is AISI Type 316L 
+corrosion-resistant steel.  Ensure braid is AISI 300 series 
+corrosion-resistant steel wire.
+][
+Ensure welded end connections are Schedule 80 carbon steel pipe, 
+conforming to 
+ASTM A106/A106M
+, Grade [B] [C].
+][
+Provide threaded end connections; hex-collared Schedule 40, AISI Type 316L 
+corrosion-resistant steel, conforming to 
+ASTM A312/A312M
+.
+][
+Ensure flanged end connection rating and materials conform to 
+specifications for system primary-pressure rating.
+]
+2.3.8   
+Flexible Metal Steam Hose
+Provide a bellows type hose with wire braid cover and designed, 
+constructed, and rated in accordance with the applicable requirements of 
+ASME B31.3
+.
+Ensure the working steam pressure rating is
+ 862 kilopascal at 260 degrees C
+ 125 psi at 500 degrees F
+.
+[
+Ensure minimum burst pressure is [four] [_____] times working steam 
+pressure at
+ 149 degrees C
+ 300 degrees F
+.
+]
+Ensure bellows material is AISI Type 316L corrosion-resistant steel.  
+Braid is AISI Type 300-series corrosion-resistant steel wire.
+[
+Provide welded end connections; Schedule 80 carbon steel pressure tube, 
+conforming to 
+ASTM A106/A106M
+, Grade [B] [C].
+][
+Provide threaded end connections; hex-collared Schedule 40, AISI Type 316L 
+corrosion-resistant steel, conforming to 
+ASTM A312/A312M
+.
+][
+Ensure flanged end connection rating and materials conform to 
+specifications for system primary-pressure rating.
+]
+2.3.9   
+Metallic Expansion Joints
+[
+Provide metallic-bellows expansion joints conforming to 
+MIL-DTL-17813
+.
+][
+Provide Type I expansion joints; (corrugated bellows, unreinforced), 
+[Class 1 (single bellows, expansion joint)], [Class 2 (double bellows, 
+expansion joint)].
+]
+Design and construct joints to absorb all of the movements of the pipe 
+SECTION 23 05 15  Page 28
+CANCELLED
+
+
+sections in which installed, with no detrimental effect on pipe or 
+supporting structure.
+Rate, design, and construct joints for pressures to
+ 862 kilopascal
+ 125 psig
+ and temperatures to
+ 260 degrees C
+ 500 degrees F
+.
+Ensure joints have a designed bursting strength in excess of [four] 
+[_____] times their rated pressure.
+Ensure joints are capable of withstanding a hydrostatic test of 1.5 times 
+their rated pressure while held at their uncompressed length without 
+leakage or distortion that may adversely affect their life cycle.
+Ensure life expectancy is not less than 10,000 cycles.
+Ensure movement capability of each joint exceeds calculated movement of 
+piping by [100] [_____] percent.
+Provide bellows and internal sleeve material of AISI Type 304, 304L, or 
+321 corrosion-resistant steel.
+End connections require no field preparation other than cleaning.
+[
+Butt weld end preparation of expansion joints conform to the same codes 
+and standards requirements as applicable to the piping system materials at 
+the indicated joint location.
+][
+Flanges of flanged-end expansion joints conforms to the same codes and 
+standard requirements as are applicable to companion flanges specified for 
+the given piping system at the indicated joint location.
+]
+Provide joints,
+ DN65
+ 2-1/2 inches
+ and smaller, with internal guides and 
+limit stops.
+Provide joints,
+ DN80
+ 3 inches
+ and larger, with removable external covers, 
+internal sleeves, and purging connection.  Size sleeves to accommodate 
+lateral clearance required, with minimum reduction of flow area, and with 
+oversized bellows where necessary.  When a sleeve requires a gasket as 
+part of a locking arrangement, provide the gasket used by the 
+manufacturer.  Joints without purging connection may be provided; however, 
+remove these from the line prior to, or not installed until, cleaning 
+operations are complete.
+[
+Provide the cylindrical end portion of the reinforced bellows element with 
+a thrust sleeve of sufficient thickness to bring that portion within 
+applicable code-allowable stress.  Provide 360 degrees support for the 
+element and end-reinforcing ring with the sleeve.
+][
+Ensure expansion joints have four, equidistant, permanent tram points 
+clearly marked on each joint end.  Locate points to prevent obliteration 
+during installation.  Include distance between tram points indicating 
+installed lengths in shop drawings.  Overall dimension after joint 
+installation is subject to approval from the Contracting Officer.
+]
+Ensure each expansion joint has adjustable clamps or yokes provided at 
+quarter points, straddling the bellows.  Overall joint length is set by 
+the manufacturer to maintain joints in manufacturer's recommended position 
+during installation.
+SECTION 23 05 15  Page 29
+CANCELLED
+
+
+**************************************************************************
+NOTE:  Securely anchor pipe lines containing 
+expansion joints to completely resist the thrust due 
+to the pressure acting on the full internal area of 
+the corrugations.  Also, properly guide the pipe to 
+prevent misalignment of the joint.  Correlate 
+details of anchors and guides for each application.
+**************************************************************************
+Permanently and legibly mark each joint with the manufacturer's name or 
+trademark and serial number; the size, series, or catalog number; bellows 
+material; and directional-flow arrow.
+2.3.10   
+Hose Faucets
+**************************************************************************
+NOTE:  Normally delete vacuum breaker when faucets 
+are installed in non-potable-water lines.
+**************************************************************************
+Construct hose faucets with
+ 15 millimeter
+ 1/2 inch
+ male inlet threads, 
+hexagon shoulder, and
+ 20 millimeter
+ 3/4 inch
+ hose connection, conforming 
+to 
+ASME A112.18.1/CSA B125.1
+.  Ensure hose-coupling screw threads conform 
+to
+ 
+ASME B1.21M
+ 
+ASME B1.20.7
+.
+Provide vandal proof, atmospheric-type vacuum breaker on the discharge of 
+all potable water lines.
+2.3.11   
+Pressure Gages
+Ensure pressure gages conform to 
+ASME B40.100
+ and to requirements 
+specified herein.  Pressure-gage size is
+ 90 millimeter
+ 3-1/2 inches
+ 
+nominal diameter.  Ensure case is corrosion-resistant steel, conforming to 
+any of the AISI 300 series of 
+ASTM A6/A6M
+, with an ASM No. 4 standard 
+commercial polish or better.  Equip gages with adjustable red marking 
+pointer and damper-screw adjustment in inlet connection.  Align 
+service-pressure reading at midpoint of gage range.  Ensure all gages are 
+Grade B or better and be equipped with gage isolators.
+**************************************************************************
+NOTE:  Retain the following paragraph only if 
+pressure gages are used on steam piping.
+**************************************************************************
+[
+Fit steam gages with black steel syphons and steam service pressure-rated 
+gage cocks or valves.
+]
+2.3.12   
+Sight-Flow Indicators
+Construct sight-flow indicators for pressure service on
+ 80 millimeter
+ 
+3-inch ips
+ and smaller of bronze with specially treated single- or 
+double-glass sight windows and have a bronze, nylon, or 
+tetrafluoroethylene rotating flow indicator mounted on an AISI Type [304] 
+[316] corrosion-resistant steel shaft.  Body may have screwed or flanged 
+end.  Provide pressure- and temperature-rated assembly for the applied 
+service.  Flapper flow-type indicators are not acceptable.
+SECTION 23 05 15  Page 30
+CANCELLED
+
+
+2.3.13   
+Sleeve Couplings
+Sleeve couplings for plain-end pipe consist of one steel middle ring, two 
+steel followers, two chloroprene or Buna-N elastomer gaskets, and the 
+necessary steel bolts and nuts.
+2.3.14   
+Thermometers
+Ensure thermometers conform to 
+ASTM E1
+, except for being filled with a red 
+organic liquid.  Provide an industrial pattern armored glass thermometer, 
+(well-threaded and seal-welded).  Ensure thermometers installed
+ 1800 
+millimeter
+ 6 feet
+ or higher above the floor have an adjustable angle 
+body.  Ensure scale is not less than
+ 180 millimeter
+ 7 inches
+ long and the 
+case face is manufactured from manufacturer's standard polished aluminum 
+or AISI 300 series polished corrosion-resistant steel.  Thermometer range 
+is [_____].  Provide thermometers with nonferrous separable wells.  
+Provide lagging extension to accommodate insulation thickness.
+2.3.15   
+Pump Suction Strainers
+**************************************************************************
+NOTE:  To preclude cavitation, check the following 
+conditions prior to specifying:  NPSH, flow rate, 
+open area, screen size, and pressure drop across 
+strainer.
+**************************************************************************
+Provide a cast iron strainer body, rated for not less than
+ 172 kilopascal 
+at 38 degrees C
+ 25 psig at 100 degrees F
+, with flanges conforming to 
+ASME B16.1
+, Class 125.  Strainer construction is such that there is a 
+machined surface joint between body and basket that is normal to the 
+centerline of the basket.
+Ensure minimum ratio of open area of each basket to pipe area is 3 to 1.  
+Provide a basket with AISI 300 series corrosion-resistant steel wire mesh 
+with perforated backing.
+Ensure mesh is capable of retaining all particles larger than 1,000 
+micrometer, with a pressure drop across the strainer body of not more than
+ 
+5 kilopascal
+ 0.5 psi
+ when the basket is two-thirds dirty at maximum system 
+flow rate.  Provide reducing fittings from strainer-flange size to pipe 
+size.
+Provide a [differential-pressure gage][pressure gage with
+ 2 kilopascal
+ 
+0.25-pound
+ graduations] fitted with a two-way brass cock across the 
+strainer.
+Provide manual air vent cocks in cap of each strainer.
+2.3.16   
+Line Strainers, Water Service
+Provide Y-type strainers with removable basket.  Ensure strainers in sizes
+ 
+DN50
+ 2-inch ips
+ and smaller have screwed ends; in sizes
+ DN65
+ 2-1/2-inch ips
+ and larger, strainers have flanged ends.  Ensure body working-pressure 
+rating exceeds maximum service pressure of installed system by at least 50 
+percent.  Ensure body has cast-in arrows to indicate direction of flow.  
+Ensure all strainer bodies fitted with screwed screen retainers have 
+straight threads and gasketed with nonferrous metal.  For strainer bodies
+ 
+DN65
+ 2-1/2-inches
+ and larger, fitted with bolted-on screen retainers, 
+SECTION 23 05 15  Page 31
+CANCELLED
+
+
+provide offset blowdown holes.  Fit all strainers larger than
+ DN65
+ 
+2-1/2-inches
+ with manufacturer's standard ball-type blowdown valve.  
+Ensure body material is [cast bronze conforming to 
+ASTM B62
+][cast iron 
+conforming to Class 30
+ 
+ASTM A278/A278M
+].  Where system material is 
+nonferrous, use nonferrous metal for the metal strainer body material.
+Ensure minimum free-hole area of strainer element is equal to not less 
+than 3.4 times the internal area of connecting piping.  Strainer screens 
+perforation size is not to exceed
+ 1.14 millimeter
+ 0.045-inch
+.  Ensure 
+strainer screens have finished ends fitted to machined screen chamber 
+surfaces to preclude bypass flow.  Strainer element material is[ AISI Type 
+[304] [316] corrosion-resistant steel][ Monel metal].
+2.3.17   
+Line Strainers, Steam Service
+Provide Type Y strainers with removable strainer element.
+Use flanged body end connections for all valves larger than
+ DN50
+ 2 inches
+, 
+unless butt weld ends are specified.  Use [screwed] [socket] weld for sizes
+ DN50
+ 2 inches
+ and under to suit specified piping system end connection 
+and maintenance requirements[ or be welded].
+For strainers located in tunnels, trenches, manholes, and valve pits, use 
+welded end connections.
+Body working steam pressure rating is the same as the primary valve rating 
+for system in which strainer is installed, except where welded end 
+materials requirements result in higher pressure ratings.  Ensure body has 
+integral cast or forged arrows to indicate direction of flow.  Provide 
+strainer bodies with blowdown valves that have discharge end plugged with 
+a solid metal plug.  Make closure assembly with tetrafluoroethylene tape.  
+Ensure bodies fitted with bolted-on screen retainers have offset blowdown 
+holes.
+Body materials are [cast steel conforming to 
+ASTM A216/A216M
+, Grade WCB] 
+[forged carbon steel conforming to 
+ASTM A105/A105M
+] [manufacturer's 
+standard metallurgical equivalents for service pressures of
+ 1035 kilopascal
+ 150-psi
+ wsp and greater, and for lower pressure ratings where welding is 
+required] [cast iron conforming to 
+ASTM A126
+, Class B, for service 
+pressures
+ 862 kilopascal
+ 125-psi
+ wsp and less].
+Ensure minimum free-hole area of strainer element is equal to not less 
+than 3.4 times the internal area of connecting piping.  Strainer screens 
+perforation size is not to exceed
+ 0.51 millimeter
+ 0.020 inch
+ or equivalent 
+wire mesh.  Strainer screens have finished ends fitted to machined screen 
+chamber surfaces to preclude bypass flow.  Strainer element material is 
+AISI Type [304] [316] corrosion-resistant steel and fitted with backup 
+screens where necessary to prevent collapse.
+2.4   
+VALVES
+**************************************************************************
+NOTE:  Figure 1A is a one piece body.
+Figure 1B is a vertically split body with the split 
+to one side of the ball.
+Figure 1C is a top entry.
+SECTION 23 05 15  Page 32
+CANCELLED
+
+
+Figure 1D is a three piece body.
+**************************************************************************
+Submit equipment and performance data for 
+valves
+ consisting of corrosion 
+resistance and life expectancy.  Submit design analysis and calculations 
+consisting of rates of flow, head losses, inlet and outlet design, and 
+pressure calculations.  Also include in data, pipe dimensions, as well as 
+temperature ratings, vibration and thrust limitations, minimum burst 
+pressures, shut-off and non-shock pressures and weld characteristics.
+Polypropylene valves will comply with the performance requirements of 
+ASTM F2389
+.  Valves shall conform to 
+ASME B16.34
+.
+2.4.1   
+Ball and Butterfly Valves
+Ensure ball valves conform to 
+MSS SP-72
+ for flanged valves and 
+MSS SP-110
+ 
+for screwed-end valves for Figure [1A] 1 piece body, [1B] vertically split 
+body, [1C] top entry [1D] three piece body and are rated for service at 
+not less than
+ 1207 kilopascal at 93 degrees C
+ 175 psig at 200 degrees F
+.  
+For valve bodies in sizes
+ DN50
+ 2 inches
+ and smaller, use screwed-end 
+connection-type constructed of Class A copper alloy.  For valve bodies in 
+sizes
+ [DN50] [DN65]
+ 2-1/2 inches
+ and larger, use flanged-end connection 
+type, constructed of Class [D] [E] [F] material.  Balls and stems of valves
+ DN50
+ 2 inches
+ and smaller are manufacturer's standard with hard chrome 
+plating finish.  Balls and stems of valves
+ DN65
+ 2-1/2 inches
+ and larger 
+are manufacturer's standard Class C corrosion-resistant steel alloy with 
+hard chrome plating.  Balls of valves
+ DN150
+ 6 inches
+ and larger may be 
+Class D with 900 Brinell hard chrome plating.  Ensure valves are suitable 
+for flow from either direction and seal equally tight in either 
+direction.  Valves with ball seals held in place by spring washers are not 
+acceptable.  Ensure all valves have adjustable packing glands.  Seats and 
+seals are fabricated from tetrafluoroethylene.
+Ensure butterfly valves conform to 
+MSS SP-67
+ and are the wafer type for 
+mounting between specified flanges.  Ensure valves are rated for
+ 1034 
+kilopascal
+ 150-psig
+ shutoff and nonshock working pressure.  Select bodies 
+of cast ferrous metal conforming to 
+ASTM A126
+, Class B, and to 
+ASME B16.1
+ 
+for body wall thickness.  Seats and seals are fabricated from resilient 
+elastomer designed for field removal and replacement.
+2.4.2   
+Drain, Vent, and Gage Cocks
+Provide [T-head] [lever handle] drain, vent, and gage cocks, ground key 
+type, with washer and screw, constructed of polished 
+ASTM B62
+ bronze, and 
+rated
+ 862 kilopascal
+ 125-psi
+ wsp.  Ensure end connections are rated for 
+specified service pressure.
+Ensure pump vent cocks, and where spray control is required, are UL 
+umbrella-hood type, constructed of manufacturer's standard polished brass. 
+Ensure cocks are
+ 15 millimeter
+ 1/2-inch ips
+ male, end threaded, and rated 
+at not less than
+ 862 kilopascal at 107 degrees C
+ 125 psi at 225 degrees F
+.
+2.4.3   
+Gate Valves (GAV)
+Ensure gate valves
+ DN50
+ 2 inches
+ and smaller conform to 
+MSS SP-80
+.  For 
+valves located in tunnels, equipment rooms, factory-assembled equipment, 
+and where indicated use union-ring bonnet, screwed-end type.  Make packing 
+of non-asbestos type materials.  Use rising stem type valves.
+SECTION 23 05 15  Page 33
+CANCELLED
+
+
+Ensure gate valves
+ DN65
+ 2-1/2 inches
+ and larger, are Type I, (solid wedge 
+disc, tapered seats, steam rated); Class 125 (
+862 kilopascal 
+125-psig 
+steam-working pressure at
+ 178 degrees C
+ 353 degrees F
+ saturation); and
+ 
+1379 kilopascal
+ 200-psig
+, wog (nonshock), conforming to 
+MSS SP-70
+ and to 
+requirements specified herein.  Select flanged valves, with bronze trim 
+and outside screw and yoke (OS&Y) construction.  Make packing of 
+non-asbestos type materials.
+2.4.4   
+Globe and Angle Valves (GLV-ANV)
+Ensure globe and angle valves
+ DN50
+ 2 inches
+ and smaller, are
+ 862 kilopascal
+ 125-pound, 125-psi
+ conforming to 
+MSS SP-80
+ and to requirements specified 
+herein.  For valves located in tunnels, equipment rooms, factory-assembled 
+equipment, and where indicated, use union-ring bonnet, screwed-end type.  
+Ensure disc is free to swivel on the stem in all valve sizes.  Composition 
+seating-surface disc construction may be substituted for all metal-disc 
+construction.  Make packing of non-asbestos type materials.  Ensure disk 
+and packing are suitable for pipe service installed.
+Ensure globe and angle valves,
+ DN65
+ 2-1/2 inches
+ and larger, are cast iron 
+with bronze trim.  Ensure valve bodies are cast iron conforming to 
+ASTM A126
+, Class A, as specified for Class 1 valves under 
+MSS SP-80
+.  
+Select flanged valves in conformance with 
+ASME B16.1
+.  Valve construction 
+is outside screw and yoke (OS&Y) type.  Make packing of non-asbestos type 
+materials.
+2.4.5   
+Standard Check Valves (SCV)
+Ensure standard check valves in sizes
+ DN50
+ 2 inches
+ and smaller are
+ 862 
+kilopascal
+ 125-psi
+ swing check valves except as otherwise specified.  
+Provide lift checks where indicated.  Ensure swing-check pins are 
+nonferrous and suitably hard for the service.  Select composition type 
+discs.  Ensure the swing-check angle of closure is manufacturer's standard 
+unless a specific angle is needed.
+Use cast iron, bronze trim, swing type check valves in sizes
+ DN65
+ 2-1/2 
+inches
+ and larger.  Ensure valve bodies are cast iron, conforming to 
+ASTM A126
+, Class A and valve ends are flanged in conformance with 
+ASME B16.1
+.  Swing-check pin is AISI Type or approved equal 
+corrosion-resistant steel.  Angle of closure is manufacturer's standard 
+unless a specific angle is needed.  Ensure valves have bolted and gasketed 
+covers.
+Provide check valves with [external spring-loaded] [lever-weighted], 
+positive-closure devices and valve ends are [mechanical joint] [push-on] 
+[flanged].
+2.4.6   
+Nonslam Check Valves (NSV)
+**************************************************************************
+NOTE:  The following specification is adequate for 
+most construction situations.  Where unusual 
+hydraulic conditions occur, review closing time and 
+in-service adjustment capability of helical-coil 
+valve construction versus other construction.
+**************************************************************************
+Provide check valves at pump discharges in sizes
+ DN50
+ 2 inches
+ and larger 
+with nonslam or silent-check operation conforming to 
+MSS SP-125
+.  Select a 
+SECTION 23 05 15  Page 34
+CANCELLED
+
+
+valve disc or plate that closes before line flow can reverse to eliminate 
+slam and water-hammer due to check-valve closure.  Ensure valve is Class 
+125 rated for
+ 1379 kilopascal
+ 200-psi
+ maximum, nonshock pressure at
+ 66 
+degrees C
+ 150 degrees F
+ in sizes to
+ DN300
+ 12 inches
+.  Use valves that are 
+[wafer type to fit between flanges conforming to 
+ASME B16.1
+][fitted with 
+flanges conforming to 
+ASME B16.1
+].  Valve body may be cast iron, or 
+equivalent strength ductile iron.  Select disks using manufacturer's 
+standard bronze, aluminum bronze, or corrosion-resistant steel.  Ensure 
+pins, springs, and miscellaneous trim are manufacturer's standard 
+corrosion-resistant steel.  Disk and shaft seals are Buna-N elastomer 
+tetrafluoroethylene.
+2.5   
+MISCELLANEOUS MATERIALS
+Submit equipment and performance data for 
+miscellaneous materials
+ 
+consisting of corrosion resistance, life expectancy, gage tolerances, and 
+grade line analysis.
+2.5.1   
+Bituminous Coating
+Ensure the bituminous coating is a solvent cutback, heavy-bodied material 
+to produce not less than a
+ 0.30 millimeter
+ 12-mil
+ dry-film thickness in 
+one coat, and is recommended by the manufacturer to be compatible with 
+factory-applied coating and rubber joints.
+For previously coal-tar coated and uncoated ferrous surfaces underground, 
+use bituminous coating solvent cutback coal-tar type, conforming to 
+MIL-C-18480
+.
+2.5.2   
+Bolting
+Ensure flange and general purpose bolting is hex-head and conforms to
+ 
+ASTM F568M
+, Class 4.8 or above
+ 
+ASTM A307
+, Grade B
+ (bolts, for flanged 
+joints in piping systems where one or both flanges are cast iron).  Heavy 
+hex-nuts conform to
+ 
+ASTM A563M
+ 
+ASTM A563
+.  Square-head bolts and nuts are 
+not acceptable.  Ensure threads are coarse-thread series.
+2.5.3   
+Elastomer Caulk
+Use two-component polysulfide- or polyurethane-base elastomer caulking 
+material, conforming to 
+ASTM C920
+.
+2.5.4   
+Escutcheons
+Manufacture escutcheons from nonferrous metals and chrome-plated except 
+when AISI 300 series corrosion-resistant steel is provided.  Ensure metals 
+and finish conforms to 
+ASME A112.19.2/CSA B45.1
+.
+Use one-piece escutcheons where mounted on chrome-plated pipe or tubing, 
+and one-piece of split-pattern type elsewhere.  Ensure all escutcheons 
+have provisions consisting of [internal spring-tension devices] 
+[setscrews] for maintaining a fixed position against a surface.
+2.5.5   
+Flashing
+Ensure sheetlead conforms to 
+ASTM B749
+,[ UNS Alloy Number L50049 (intended 
+for use in laboratories and shops in general application)][ UNS Alloy 
+Number L51121 (for use where lead sheet of high purity and improved 
+structural strength is indicated)].
+SECTION 23 05 15  Page 35
+CANCELLED
+
+
+Ensure sheet copper conforms to 
+ASTM B370
+ and be not less than
+ 4.88 
+kilogram per square meter
+ 16 ounces per square foot
+ weight.
+2.5.6   
+Flange Gaskets
+Provide compressed non-asbestos sheets, conforming to 
+ASTM F104
+, coated on 
+both sides with graphite or similar lubricant, with nitrile composition, 
+binder rated to
+ 399 degrees C
+ 750 degrees F
+.
+2.5.7   
+Grout
+**************************************************************************
+NOTE:  When moisture or uncured concrete occurs, 
+metallic grout may cause buildup of pressure that, 
+under confinement, could be sufficient to misaligned 
+equipment.
+**************************************************************************
+Provide shrink-resistant grout as a premixed and packaged 
+metallic-aggregate, mortar-grouting compound conforming to 
+ASTM C404
+ and 
+ASTM C476
+.
+**************************************************************************
+NOTE:  Specify epoxy grout, particularly where mild 
+chemical resistance is necessary or where oil 
+soaking may occur.
+For service with acids, polyester grouts should be 
+specified.
+Where high anchor-bolt torques
+ (2712 newton-meter)
+ 
+(2,000 ft-lb)
+ are applied, epoxy polyamides will 
+cold-flow.
+**************************************************************************
+Ensure shrink-resistant grout is a combination of pre-measured and 
+packaged epoxy polyamide or amine resins and selected aggregate mortar 
+grouting compound conforming to the following requirements:
+Tensile strength                           13.100 Megapascal, minimum
+Compressive strength  
+ASTM C109/C109M
+     96.527 Megapascal, minimum
+Shrinkage, linear                           0.003 mm per millimeter, maximum
+Water absorption      
+ASTM C67/C67M
+              0.1 percent, maximum
+Bond strength to                            6.895 Megapascal, minimum steel
+                                            in shear minimum
+Tensile strength                            1,900 psi, minimum
+Compressive strength  
+ASTM C109/C109M
+     14,000 psi, minimum
+Shrinkage, linear                           0.00012 inch per inch, maximum
+Water absorption      
+ASTM C67/C67M
+              0.1 percent, maximum
+SECTION 23 05 15  Page 36
+CANCELLED
+
+
+Bond strength to                            1,000 psi, minimum steel in shear
+                                            minimum
+2.5.8   
+Pipe Thread Compounds
+Use polytetrafluoroethylene tape not less than
+ 0.05 to 0.08 millimeter
+ 2 
+to 3 mils
+ thick in potable and process water and in chemical systems for 
+pipe sizes to and including
+ DN25
+ 1-inch ips
+.  Use polytetrafluoroethylene 
+dispersions and other suitable compounds for all other applications upon 
+approval by the Contracting Officer; however, do not use lead-containing 
+compounds in potable water systems.
+2.6   
+SUPPORTING ELEMENTS
+Submit equipment and performance data for the 
+supporting elements
+ 
+consisting of corrosion resistance, life expectancy, gage tolerances, and 
+grade line analysis.
+Provide all necessary piping systems and equipment supporting elements, 
+including but not limited to:  building structure attachments; 
+supplementary steel; hanger rods, stanchions, and fixtures; vertical pipe 
+attachments; horizontal pipe attachments; anchors; guides; and 
+spring-cushion, variable, or constant supports.  Ensure supporting 
+elements are suitable for stresses imposed by systems pressures and 
+temperatures and natural and other external forces normal to this facility 
+without damage to supporting element system or to work being supported.
+Ensure supporting elements conform to requirements of 
+ASME B31.3
+, and 
+MSS SP-58
+, except as noted.
+Ensure attachments welded to pipe are made of materials identical to that 
+of pipe or materials accepted as permissible raw materials by referenced 
+code or standard specification.
+Ensure supporting elements exposed to weather are hot-dip galvanized or 
+stainless steel. Select materials of such a nature that their apparent and 
+latent-strength characteristics are not reduced due to galvanizing 
+process.  Electroplate supporting elements in contact with copper tubing 
+with copper.
+Type designations specified herein are based on 
+MSS SP-58
+.  Ensure masonry 
+anchor group-, type-, and style-combination designations are in accordance 
+with 
+CID A-A-1922
+, 
+CID A-A-1923
+, 
+CID A-A-1924
+, 
+CID A-A-1925 
+, 
+CID A-A-55614
+, 
+and 
+CID A-A-55615
+.  Provide support elements, except for supplementary 
+steel, that are cataloged, load rated, commercially manufactured products.
+2.6.1   
+Building Structure Attachments
+**************************************************************************
+NOTE:  Review specific instructions relative to 
+anchor devices in support elements installation 
+paragraph prior to selection of following text.
+**************************************************************************
+2.6.1.1   
+Anchor Devices, Concrete and Masonry
+Ensure anchor devices conform to 
+CID A-A-1922
+, 
+CID A-A-1923
+, 
+CID A-A-1924
+, 
+CID A-A-1925
+, 
+CID A-A-55614
+, and 
+CID A-A-55615
+SECTION 23 05 15  Page 37
+CANCELLED
+
+
+For cast-in, floor mounted, equipment anchor devices, provide adjustable 
+positions.
+[
+Provide built-in masonry anchor devices.
+]
+Do not use powder-actuated anchoring devices to support any mechanical 
+systems components.
+2.6.1.2   
+Beam Clamps
+Ensure beam clamps are center-loading 
+MSS SP-58
+ Type [20] [21] [28] [29] 
+[30] [_____].
+[
+When it is not possible to use center-loading beam clamps, 
+eccentric-loading beam clamps, 
+MSS SP-58
+ Type [20] [25] [27] may be used 
+for piping sizes
+ DN50
+ 2 inches
+ and less and for piping sizes
+ DN50 through 
+DN250
+ 2 through 10 inches
+ provided two counterbalancing clamps are used 
+per point of pipe support.  Where more than one rod is used per point of 
+pipe support, determine rod diameter in accordance with referenced 
+standards.
+]
+2.6.1.3   
+Type 19 and 23 C-Clamps
+Torque Type 19 and 23 C-clamps in accordance with 
+MSS SP-58
+ and have both 
+locknuts and retaining devices furnished by the manufacturer.  Field 
+fabricated C-clamp bodies or retaining devices are not acceptable.
+2.6.1.4   
+Inserts, Concrete
+Use concrete 
+MSS SP-58
+ Type [18] [_____] inserts  When applied to piping 
+in sizes
+ DN50
+ 2 inches ips
+ and larger and where otherwise required by 
+imposed loads, insert and wire a
+ 305 millimeter
+ 1-foot
+ length of
+ 13 
+millimeter
+ 1/2-inch
+ reinforcing rod through wing slots.  Submit 
+proprietary-type continuous inserts for approval.
+2.6.2   
+Horizontal Pipe Attachments
+2.6.2.1   
+Single Pipes
+Support piping in sizes to and including
+ DN50
+ 2-inch ips
+ by 
+MSS SP-58
+ Type 
+6 solid malleable iron pipe rings, except that, use split-band-type rings 
+in sizes up to
+ DN25
+ 1-inch ips
+.
+Support piping in sizes through
+ DN200
+ 8-inch ips
+ inclusive by 
+MSS SP-58
+ 
+Type [1] [3] [4] attachments.
+Use 
+MSS SP-58
+ Type 1 and Type 6 assemblies on vapor-sealed insulated 
+piping and have an inside diameter larger than pipe being supported to 
+provide adequate clearance during pipe movement.
+Where thermal movement of a point in a piping system
+ DN100
+ 4 inches
+ and 
+larger would cause a hanger rod to deflect more than 4 degrees from the 
+vertical or where a horizontal point movement exceeds
+ 13 millimeter
+ 1/2 
+inch
+, use 
+MSS SP-58
+ Type [41] [44 through 46] [49] pipe rolls.
+Support piping in sizes larger than
+ DN200
+ 8-inch ips
+ with 
+MSS SP-58
+ Type 
+[41] [44 through 46] [49] pipe rolls.
+Use 
+MSS SP-58
+ Type 40 shields on all insulated piping.  Ensure area of the 
+SECTION 23 05 15  Page 38
+CANCELLED
+
+
+supporting surface is such that compression deformation of insulated 
+surfaces does not occur.  Roll away longitudinal and transverse shield 
+edges from the insulation.
+Provide insulated piping without vapor barrier on roll supports with 
+MSS SP-58
+ Type 39 saddles.
+Provide spring supports as indicated.
+2.6.2.2   
+Parallel Pipes
+Use trapeze hangers fabricated from structural steel shapes, with U-bolts, 
+in congested areas and where multiple pipe runs occur.  Ensure structural 
+steel shapes[ conform to supplementary steel requirements][ be of 
+commercially available, proprietary design, rolled steel].
+2.6.3   
+Vertical Pipe Attachments
+Ensure vertical pipe attachments are 
+MSS SP-58
+ Type 8.
+Include complete fabrication and attachment details of any spring supports 
+in shop drawings.
+2.6.4   
+Hanger Rods and Fixtures
+Use only circular cross section rod hangers to connect building structure 
+attachments to pipe support devices.  Use pipe, straps, or bars of 
+equivalent strength for hangers only where approved by the Contracting 
+Officer.
+Provide turnbuckles, swing eyes, and clevises as required by support 
+system to accommodate temperature change, pipe accessibility, and 
+adjustment for load and pitch.  Rod couplings are not acceptable.
+2.6.5   
+Supplementary Steel
+Where it is necessary to frame structural members between existing members 
+or where structural members are used in lieu of commercially rated 
+supports, design and fabricate such supplementary steel in accordance with 
+AISC 325
+.
+PART 3   EXECUTION
+3.1   
+PIPE INSTALLATION
+Submit certificates for pipes, valves and specialties showing conformance 
+with test requirements as contained in the reference standards contained 
+in this section.  Provide certificates verifying 
+Surface Resistance
+, 
+Shear 
+and Tensile Strengths
+, 
+Temperature Ratings
+, 
+Bending Tests
+, 
+Flattening Tests
+ and 
+Transverse Guided Weld Bend Tests
+.
+Provide test reports for 
+Hydrostatic Tests
+, 
+Air Tests
+, 
+Valve-Operating 
+Tests
+, 
+Drainage Tests
+, 
+Pneumatic Tests
+, 
+Non-Destructive Electric Tests 
+and 
+System Operation Tests
+, in compliance with referenced standards contained 
+within this section.
+Fabricate and install piping systems in accordance with 
+ASME B31.3
+, 
+MSS SP-58
+, and 
+AWS WHB-2.9
+.
+SECTION 23 05 15  Page 39
+CANCELLED
+
+
+Submit 
+Installation Drawings
+ for pipes, valves and specialties.  Drawings 
+include the manufacturer's design and construction calculations, forces 
+required to obtain rated axial, lateral, or angular movements, 
+installation criteria, anchor and guide requirements for equipment, and 
+equipment room layout and design.  Ensure drawings specifically advise on 
+procedures to be followed and provisions required to protect expansion 
+joints during specified hydrostatic testing operations.
+**************************************************************************
+NOTE:  Select one of the following two paragraphs.  
+The first paragraph is the standard option that 
+provides true electrical isolation.  This is the 
+preferred option.  The second paragraph is a 
+non-standard option intended to be used as a 
+cost-saving option.  This option also covers 
+dielectric nipples that are often factory-installed 
+on mechanical equipment.  This option provides a 
+level of electrical insulation between the two 
+metals, but may still lead to galvanic corrosion 
+over time as metals are not truly isolated.
+**************************************************************************
+[
+Ensure connections between steel piping and copper piping are electrically 
+isolated from each other.  Dielectric pipe unions shall be installed to 
+prevent galvanic corrosion.  The dielectric unions shall have metal 
+connections on both ends.  The ends shall be threaded, flanged, or brazed 
+to match adjacent piping.  The metal parts of the union shall be separated 
+so that the electrical current is below one percent of the galvanic 
+current which would exist upon metal-to-metal contact.  Gaskets, flanges, 
+and unions shall be installed in accordance with manufacturer's 
+recommendations.
+][
+Provide dielectric nipples between steel piping and copper piping to 
+reduce galvanic corrosion.  Dielectric nipples shall be Schedule 40 
+galvanized steel conforming to 
+ASTM A53/A53M
+ with inert, non-corrosive 
+thermoplastic lining.  For pipe sizes
+ DN50
+ 2 inches ips
+ smaller, a bronze 
+ball valve can be used between dissimilar metals.
+]
+Make final connections to equipment with [unions] [flanges] installed every
+ 30480 millimeter
+ 100 feet
+ of straight run.  Install unions in the line 
+downstream of screwed- and welded-end valves.
+Ream all pipe ends before joint connections are made.
+Make screwed joints with specified joint compound with not more than three 
+threads showing after joint is made up.
+Apply joint compounds to the male thread only and exercise care to prevent 
+compound from reaching the unthreaded interior of the pipe.
+Install screwed unions, welded unions, or bolted flanges wherever required 
+to permit convenient removal of equipment, valves, and piping accessories 
+from the piping system for maintenance.
+Securely support piping systems with due allowance for thrust forces, 
+thermal expansion and contraction.  Do not subject the system to 
+mechanical, chemical, vibrational or other damage as specified in 
+ASME B31.3
+.
+SECTION 23 05 15  Page 40
+CANCELLED
+
+
+Ensure field welded joints conform to the requirements of the 
+AWS WHB-2.9
+, 
+ASME B31.3
+, and 
+ASME BPVC SEC IX
+.
+[
+Make piping systems butt weld joints with backing rings.  Use compatible 
+backing ring materials with materials being joined.  Ensure joint 
+configuration conforms to 
+ASME B16.25
+.
+For polypropylene pipe, make fusion-weld joints in accordance with the 
+pipe and fitting manufacturer's specifications and product standards.  Use 
+fusion-weld tooling, welding machines, and electrofusion devices specified 
+by the pipe and fittings manufacturer.  Prior to joining, prepare the pipe 
+and fittings in accordance with 
+ASTM F2389
+ and the manufacturer's 
+specifications.  Ensure joint preparation, setting and alignment, fusion 
+process, cooling times and working pressure are in accordance with the 
+pipe and fitting manufacturer's specifications.
+]
+**************************************************************************
+NOTE:  Prior to selection of one of the following 
+two paragraphs, review requirements of ASME B31.3 
+and ASME BPVC SEC IX to avoid conflict and 
+redundancy.  Also review PFI ES-19 and PFI ES-28 if 
+materials specifications have been rewritten or 
+supplemented.
+**************************************************************************
+[
+Accomplish preheat and postheat treatment of welds in accordance with 
+ASME BPVC SEC IX
+ and 
+ASME B31.3
+.
+][
+Take all necessary precautions during installation of flexible pipe and 
+hose including flushing and purging with water, steam, and compressed air 
+to preclude bellows failure due to pipe line debris lodged in bellows.  
+Ensure installation conforms to manufacturer's instructions.
+]
+3.2   
+VALVES
+Install valves in piping mains and all branches and at equipment where 
+indicated and as specified.
+Install valves to permit isolation of branch piping and each equipment 
+item from the balance of the system.
+Install riser and downcomer drains above piping shutoff valves in piping
+ 
+DN65
+ 2-1/2 inches
+ and larger.  Tap and fit shutoff valve body with a
+ DN15
+ 
+1/2-inch
+ plugged globe valve.
+Install valves unavoidably located in furred or other normally 
+inaccessible places with access panels adequately sized for the location 
+and located so that concealed items may be serviced, maintained, or 
+replaced.
+3.3   
+SUPPORTING ELEMENTS INSTALLATION
+Install supporting elements in accordance with the referenced codes and 
+standards.
+Support piping from building structure.  Do not support piping from roof 
+deck or from other pipe.
+Run piping parallel with the lines of the building.  Space and install 
+SECTION 23 05 15  Page 41
+CANCELLED
+
+
+piping and components so that a threaded pipe fitting may be removed 
+between adjacent pipes and so that there is no less than
+ DN15
+ 1/2 inch
+ of 
+clear space between the finished surface and other work and between the 
+finished surface of parallel adjacent piping.  Arrange hangars on 
+different adjacent service lines running parallel with each other in line 
+with each other and parallel to the lines of the building.
+Install piping support elements at intervals specified hereinafter, at 
+locations not more than
+ 900 millimeter
+ 3 feet
+ from the ends of each 
+runout, and not over
+ 300 millimeter
+ 1 foot
+ from each change in direction 
+of piping.
+Base load rating for all pipe-hanger supports on insulated weight of lines 
+filled with water and forces imposed.  Deflection per span is not exceed 
+slope gradient of pipe.  Ensure supports are in accordance with the 
+following minimum rod size and maximum allowable hanger spacing for 
+specified pipe.  For concentrated loads such as valves, reduce the 
+allowable span proportionately:
+            PIPE SIZE (DN)    ROD SIZE     STEEL PIPE     COPPER PIPE
+            
+MILLIMETER
+        
+MILLIMETER
+   
+MILLIMETER
+     
+MILLIMETER
+            25 and smaller       10           2500           1850
+            32 to 40             10           3050           2500
+            50                   10           3050           3050
+            65 to 90             13           3700           3700
+            100 to 125           16           5000           4300
+            150                  20           5000           5000
+            200 to 300           22           6100           6100
+            356 to 457           25           6100           6100
+            508 and over         32           6100           6100
+            PIPE SIZE         ROD SIZE     STEEL PIPE     COPPER PIPE
+             
+INCHES
+            
+INCHES
+         
+FEET
+           
+FEET
+            1 and smaller       3/8             8              6
+            1-1/4 to 1-1/2      3/8            10              8
+            2                   3/8            10              8
+            2-1/2 to 3-1/2      1/2            12             12
+            4 to 5              5/8            16             14
+            6                   3/4            16             16
+            8 to 12             7/8            20             20
+            14 to 18            1              20             20
+SECTION 23 05 15  Page 42
+CANCELLED
+
+
+            PIPE SIZE         ROD SIZE     STEEL PIPE     COPPER PIPE
+             
+INCHES
+            
+INCHES
+         
+FEET
+           
+FEET
+            20 and over         1-1/4          20             20
+Install vibration isolation supports where needed.  Refer to Section 
+23 05 48.19
+ SEISMIC BRACING FOR HVAC where A/C equipment and piping is 
+installed.
+Support vertical risers independently of connected horizontal piping, 
+whenever practicable, with fixed or spring supports at the base and at 
+intervals to accommodate system range of thermal conditions.  Ensure 
+risers have guides for lateral stability.  For risers subject to 
+expansion, install only one rigid support at a point approximately 
+one-third down from the top.  Place clamps under fittings unless otherwise 
+specified.  Support carbon-steel pipe at each floor and at not more than
+ 
+4572 millimeter
+ 15-foot
+ intervals for pipe
+ DN50
+ 2 inches
+ and smaller and 
+at not more than
+ 6096 millimeter
+ 20-foot
+ intervals for pipe
+ DN65
+ 2-1/2 
+inches
+ and larger.
+3.4   
+PENETRATIONS
+Install effective sound stopping and adequate operating clearance to 
+prevent structure contact where piping penetrates walls, floors, or 
+ceilings into occupied spaces adjacent to equipment rooms; where similar 
+penetrations occur between occupied spaces; and where penetrations occur 
+from pipe chases into occupied spaces.  Occupied spaces include space 
+above ceilings where no special acoustic treatment of ceiling is provided. 
+Finish penetrations to be compatible with surface being penetrated.
+[
+Accomplish sound stopping and vapor-barrier sealing of pipe shafts and 
+large floor and wall openings by packing to high density with properly 
+supported fibrous-glass insulation or, where ambient or surface 
+temperatures do not exceed
+ 49 degrees C
+ 120 degrees F
+, by foaming-in-place 
+with self-extinguishing,
+ 0.9 kilogram
+ 2-pound
+ density polyurethane foam to 
+a depth not less than
+ 152 millimeter
+ 6 inches
+.  Finish foam with a rasp.  
+Ensure vapor barrier is not less than
+ 3 millimeter
+ 1/8-inch
+ thick vinyl 
+coating applied to visible and accessible surfaces.  Where high 
+temperatures and fire stopping are a consideration, use only mineral wool 
+with openings covered by
+ 1.6 millimeter
+ 16-gage
+ sheet metal.
+]
+3.5   
+SLEEVES
+Install sleeves where piping passes through roofs, masonry, concrete walls 
+and floors.
+Continuously [weld][braze] sleeves passing through steel decks to the deck.
+Ensure sleeves that extend through floors, roofs, load bearing walls, and 
+fire barriers are continuous and fabricated from Schedule 40 steel pipe, 
+with welded anchor lugs.  Form all other sleeves by molded linear 
+polyethylene liners or similar materials that are removable. Ensure 
+diameter of sleeves is large enough to accommodate pipe, insulation, and 
+jacketing without touching the sleeve and provides a minimum
+ 10 millimeter
+ 
+3/8-inch
+ clearance.  Install a sleeve size to accommodate mechanical and 
+thermal motion of pipe precluding transmission of vibration to walls and 
+the generation of noise.
+Pack the space between a pipe, bare or insulated, and the inside of a pipe 
+SECTION 23 05 15  Page 43
+CANCELLED
+
+
+sleeve or a construction surface penetration solid with a mineral fiber 
+conforming to 
+ASTM C553
+ Type V (flexible blanket),
+ to 538 degrees C
+ to 
+1,000 degrees F
+.  Install this packing wherever the piping passes through 
+firewalls, equipment room walls, floors, and ceilings connected to 
+occupied spaces, and other locations where sleeves or construction-surface 
+penetrations occur between occupied spaces.  Where sleeves or construction 
+surface penetrations occur between conditioned and unconditioned spaces, 
+fill the space between a pipe, bare or insulated, and the inside of a pipe 
+sleeve or construction surface penetration with an elastomer caulk to a 
+depth of
+ 13 millimeter
+ 1/2 inch
+.  Ensure all caulked surfaces are oil- and 
+grease-free.
+Ensure through-penetration fire stop materials and methods are in 
+accordance with 
+ASTM E814
+ and 
+UL 1479
+.
+Caulk exterior wall sleeves watertight with lead and oakum or mechanically 
+expandable chloroprene inserts with mastic-sealed metal components.
+**************************************************************************
+NOTE:  Review roof flooding provisions before 
+revising the following paragraph.
+**************************************************************************
+[
+Ensure sleeve height above roof surface is a minimum of
+ 305
+ 12
+ and a 
+maximum of
+ 457 millimeter
+ 18-inches
+.
+]
+3.6   
+ESCUTCHEONS
+Install escutcheons at all penetrations of piping into finished areas.  
+Where finished areas are separated by partitions through which piping 
+passes, install escutcheons on both sides of the partition.  Where 
+suspended ceilings are installed, install plates at the underside only of 
+such ceilings.  For insulated pipes, select plates large enough to fit 
+around the insulation.  Use chrome-plated escutcheons in all occupied 
+spaces and of size sufficient to effectively conceal openings in building 
+construction.  Firmly attach escutcheons with setscrews.
+3.7   
+FLASHINGS
+**************************************************************************
+NOTE:  Review roof flooding provisions.
+**************************************************************************
+[
+Install flashings at penetrations of building boundaries by mechanical 
+systems and related work.
+]
+3.8   
+UNDERGROUND PIPING INSTALLATION
+Prior to being lowered into a trench, clean all piping, visually inspected 
+for apparent defects, and tapped with a hammer to audibly detect hidden 
+defects.
+Further inspect suspect cast-ferrous piping by painting with kerosene on 
+external surfaces to reveal cracks.
+Distinctly mark defective materials found using a road-traffic quality 
+yellow paint; promptly remove defective material from the site.
+After conduit has been inspected, and not less than 48 hours prior to 
+SECTION 23 05 15  Page 44
+CANCELLED
+
+
+being lowered into a trench, coat all external surfaces of cast ferrous 
+conduit with a compatible bituminous coating for protection against 
+brackish ground water.  Apply a single coat, in accordance with the 
+manufacturer's instructions, to result in a dry-film thickness of not less 
+than
+ 0.30 millimeter
+ 12 mils
+.
+Ensure excavations are dry and clear of extraneous materials when pipe is 
+being laid.
+Use wheel cutters for cutting of piping or other machines designed 
+specifically for that purpose.  Electric-arc and oxyacetylene cutting is 
+not permitted.
+Begin laying of pipe at the low point of a system.  When in final 
+acceptance position, ensure it is true to the grades and alignment 
+indicated, with unbroken continuity of invert.  Blocking and wedging is 
+not permitted.
+[
+Point bell or grooved ends of piping upstream.
+]
+Make changes in direction with long sweep fittings.
+Install necessary socket clamping, piers, bases, anchors, and thrust 
+blocking.  Protect rods, clamps, and bolting with a coating of bitumen.
+Support underground piping below supported or suspended slabs from the 
+slab with a minimum of two supports per length of pipe.  Protect supports 
+with a coating of bitumen.
+On excavations that occur near and below building footings, install 
+backfilling material consisting of
+ 13800 kilopascal
+ 2,000-psi
+ cured 
+compressive-strength concrete poured or pressure-grouted up to the level 
+of the footing.
+Properly support vertical downspouts; soil, waste, and vent stacks; water 
+risers; and similar work on approved piers at the base and provided with 
+approved structural supports attached to building construction.
+[
+Provide cleanout, flushing, and observation risers.
+]
+3.9   
+HEAT TRACE CABLE INSTALLATION
+Field apply heater tape and cut to fit as necessary, linearly along the 
+length of pipe after piping has been pressure tested and approved by the 
+Contracting Officer.  Secure the heater to piping with [cable ties] 
+[fiberglass tape].  Label thermal insulation on the outside, "Electrical 
+Heat Trace."
+Install power connection, end seals, splice kits and tee kit components in 
+accordance with 
+IEEE 515
+ to provide a complete workable system.  Terminate 
+connection to the thermostat and ends of the heat tape in a junction box.  
+Ensure cable and conduit connections are raintight.
+3.10   
+DISINFECTION
+[
+Disinfect water piping, including all valves, fittings, and other devices, 
+with a solution of chlorine and water.  Ensure the solution contains not 
+less than 50 parts per million (ppm) of available chlorine.  Hold solution 
+for a period of not less than 8 hours, after which the solution contains 
+SECTION 23 05 15  Page 45
+CANCELLED
+
+
+not less than 10 ppm of available chlorine or redisinfect the piping.  
+After successful sterilization, thoroughly flush the piping before placing 
+into service.  Flushing is complete when the flush water contains less 
+than 0.5 ppm of available chlorine.  Water for disinfected will be 
+furnished by the Government.  Approve disposal of contaminated flush water 
+in accordance with written instructions received from the Environmental 
+authority having jurisdiction through the Contracting Officer and all 
+local, State and Federal Regulations.
+][
+Flush piping with potable water until visible grease, dirt and other 
+contaminants are removed (visual inspection).
+]
+3.11   
+HEAT TRACE CABLE TESTS
+Test heat trace cable system in accordance with 
+IEEE 515
+ after 
+installation and before and after installation of the thermal insulation.  
+Test heater cable using a [1000] [_____] vdc megger.  Minimum insulation 
+resistance is [20 to 1000] [_____] megohms regardless of cable length.
+3.12   
+OPERATION AND MAINTENANCE
+Provide 
+Operation and Maintenance Manuals
+ consistent with manufacturer's 
+standard brochures, schematics, printed instructions, general operating 
+procedures and safety precautions.  Submit test data that is clear and 
+readily legible.
+3.13   
+PAINTING OF NEW EQUIPMENT
+**************************************************************************
+NOTE:  For SOUTHNAVFACENGCOM projects, delete all 
+painting requirements and specify as follows:  "PART 
+3 EXECUTION, Not used."
+**************************************************************************
+Factory or shop apply new equipment painting, as specified herein, and 
+provided under each individual section.
+3.13.1   
+Factory Painting Systems
+Manufacturer's standard factory painting systems may be provided subject 
+to certification that the factory painting system applied withstands 125 
+hours in a salt-spray fog test, except that equipment located outdoors 
+withstand 500 hours in a salt-spray fog test.  Conduct salt-spray fog test 
+is in accordance with 
+ASTM B117
+, and for that test the acceptance criteria 
+is as follows:  immediately after completion of the test, the inspected 
+paint shows no signs of blistering, wrinkling, or cracking, and no loss of 
+adhesion; and the specimen shows no signs of rust creepage beyond
+ 3 mm
+ 
+0.125 inch
+ on either side of the scratch mark.
+Ensure the film thickness of the factory painting system applied on the 
+equipment is not less than the film thickness used on the test specimen.  
+If manufacturer's standard factory painting system is being proposed for 
+use on surfaces subject to temperatures above
+ 50 degrees C
+ 120 degrees F
+, 
+design the factory painting system for the temperature service.
+3.13.2   
+Shop Painting Systems for Metal Surfaces
+Clean, pretreat, prime and paint metal surfaces; except aluminum surfaces 
+need not be painted.  Apply coatings to clean dry surfaces.  Clean the 
+SECTION 23 05 15  Page 46
+CANCELLED
+
+
+surfaces to remove dust, dirt, rust, oil and grease by wire brushing and 
+solvent degreasing prior to application of paint, except clean to bare 
+metal, surfaces subject to temperatures in excess of
+ 50 degrees C
+ 120 
+degrees F
+.
+Where more than one coat of paint is specified, apply the second coat 
+after the preceding coat is thoroughly dry.  Lightly sand damaged painting 
+and retouch before applying the succeeding coat.  Selected color of finish 
+coat is aluminum or light gray.
+a.  Temperatures Less Than
+ 50 Degrees C
+ 120 Degrees F
+:  Immediately after 
+cleaning, the metal surfaces subject to temperatures less than
+ 50 
+degrees C
+ 120 degrees F
+ receives one coat of pretreatment primer 
+applied to a minimum dry film thickness of
+ 0.0076 mm
+ 0.3 mil
+, one coat 
+of primer applied to a minimum dry film thickness of
+ 0.0255 mm
+ one mil
+; 
+and two coats of enamel applied to a minimum dry film thickness of
+ 
+0.0255 mm
+ one mil
+ per coat.
+b.  Temperatures Between
+ 50 and 205 Degrees C
+ 120 and 400 Degrees F
+:  
+Metal surfaces subject to temperatures between
+ 50 and 205 degrees C
+ 
+120 and 400 degrees F
+ Receives two coats of
+ 205 degrees C
+ 400 degrees F
+ heat-resisting enamel applied to a total minimum thickness of
+ 0.05 mm
+ 
+2 mils
+.
+c.  Temperatures Greater Than
+ 205 Degrees C
+ 400 Degrees F
+:  Metal surfaces 
+subject to temperatures greater than
+ 205 degrees C
+ 400 degrees F
+ 
+receives two coats of
+ 315 degrees C
+ 600 degrees F
+ heat-resisting paint 
+applied to a total minimum dry film thickness of
+ 0.05 mm
+ 2 mils
+.
+        -- End of Section --
+SECTION 23 05 15  Page 47
+CANCELLED
