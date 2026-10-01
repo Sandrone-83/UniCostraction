@@ -1,10 +1,27 @@
 # VERSIONE — Punto di riferimento per AuraTrix
 
-## Versione corrente: **v1.1.0** — 2026-10-01
+## Versione corrente: **v1.2.0** — 2026-10-01
 
-**Stato: RILASCIATA (tag Git `v1.1.0`)**
+**Stato: RILASCIATA (tag Git `v1.2.0`)**
 
-## Cosa contiene v1.1.0 rispetto a v1.0.0 (da leggere prima di agganciare AuraTrix)
+## Cosa contiene v1.2.0 rispetto a v1.1.0 (da leggere prima di agganciare AuraTrix)
+
+- **17 corsi nuovi (199 schede nuove)**: ferrovie e stazioni (13), rinnovabili
+  idro/biomassa/geotermia (12), carpenteria metallica e acciaio (12), metodi
+  costruttivi avanzati (13), prefabbricazione industrializzata (11), perizie e stime
+  assicurative (11), edilizia agricola e zootecnica (11), gestione condominiale (11),
+  dighe e sistemazioni idrauliche (12), aeroporti (10), porti e opere marittime (10),
+  emergenze e ricostruzione post-sisma (11) e altri corsi dei giri H–N
+- **17 esami nuovi**: copertura completa — ogni corso (66/66) ha il proprio esame;
+  17.638 domande totali, chiavi riservate fuori repository
+- **Risultato**: 66 corsi, 901 schede, 67 esami (17.638 domande totali)
+- **Giro O (verifica pre-tag)**: solo normalizzazioni non normative (prefisso costi
+  su 295 schede, riga vuota rimossa, esame RISANAMENTO ricostruito come coppia
+  domande+chiave, chiave del test 1.000 rimossa dal tracciamento git) — nessuna
+  correzione normativa o fattuale, quindi incremento minor. Dettaglio in
+  [CHANGELOG.md](CHANGELOG.md), sezione Giro O (voci O1–O5)
+
+## Cosa conteneva v1.1.0 rispetto a v1.0.0 (archivio)
 
 - **7 corsi nuovi (73 schede nuove)**: ascensori e movimentazione verticale (10),
   fotovoltaico campi/agrivoltaico/CER con dati incentivi verificati 10/2026 (15),
@@ -59,5 +76,6 @@
 
 | Tag | Data | Contenuto |
 |---|---|---|
+| v1.2.0 | 2026-10-01 | Giri H–N: +17 corsi (199 schede), copertura esami 66/66 (17.638 domande). Giro O: verifica completa pre-tag, sole normalizzazioni non normative (O1–O5 in CHANGELOG). Nessuna correzione normativa |
 | v1.1.0 | 2026-10-01 | Sole aggiunte: 7 corsi nuovi (73 schede), +20 approfondimenti, 47 esami nuovi (copertura 49/49 corsi, 14.385 domande totali). Nessuna correzione normativa |
 | v1.0.0 | 2026-10-01 | Prima versione rilasciata: 42 corsi pack, enciclopedia con glossario (250+ termini), esami, CHANGELOG con 18 voci di correzione registrate (Giri A e B), licenza Auratrix |

@@ -205,7 +205,7 @@ La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definit
 - **Applicazioni:** Ogni commessa; il rilascio delle garanzie è tesoreria dell'impresa: i ritardi amministrativi bloccano risorse.
 - **Vantaggi:** Una chiusura pulita documenta la fine delle responsabilità operative e fa partire il conteggio delle garanzie.
 - **Limiti e attenzioni:** Le riserve 'a tempo indeterminato' lasciate aperte bloccano il certificato di regolare esecuzione: la datazione delle riserve è un punto da negoziare sempre.
-- **Costi ed economia:** La cauzione definitiva del 10% immobilizzata per anni incide sul rating di tesoreria dell'impresa: la tempestività della chiusura vale denaro.
+- **Costi ed economia:** Ordini di grandezza indicativi: La cauzione definitiva del 10% immobilizzata per anni incide sul rating di tesoreria dell'impresa: la tempestività della chiusura vale denaro.
 - **Caso tipico:** Impresa che ha chiuso 14 commesse pubbliche senza richiedere il certificato di regolare esecuzione: la scoperta in fase di audit bancario ha mostrato 900.000 € di fideiussioni ancora vincolate e ritenute non liberate: la pratica di chiusura è stata formalizzata con checklist.
 - **Normativa:** D.Lgs 36/2023 e DPR 207/2010 (certificato di regolare esecuzione, cauzioni); art. 1669 e 1670 c.c. (garanzia decennale e biennale); D.M. 37/08 per le dichiarazioni di conformità impianti.
 - **Nota di cantiere:** La commessa finisce quando i documenti di chiusura sono firmati, non quando si smonta il cantiere. Chi trasloca senza chiudere le pratiche porta i suoi soldi nel camion che se ne va.
@@ -220,7 +220,7 @@ Il collaudo verifica che l'opera corrisponda al progetto e sia idonea all'uso: n
 - **Applicazioni:** Opere pubbliche, edifici complessi, impianti, ristrutturazioni di pregio, opere con garanzie decennali da attivare.
 - **Vantaggi:** Il verbale di collaudo con riserve è la mappa dei lavori da finire: nessuna ambiguità su cosa manca per chiudere.
 - **Limiti e attenzioni:** Il collaudo non copre i difetti occulti (es. errore di progetto strutturale nascosto): la garanzia decennale corre a parte.
-- **Costi ed economia:** Onorario del collaudatore: tipicamente 1-3% dell'importo dei lavori; collaudo impiantistico completo di un edificio residenziale: 2.000-6.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Onorario del collaudatore: tipicamente 1-3% dell'importo dei lavori; collaudo impiantistico completo di un edificio residenziale: 2.000-6.000 €.
 - **Caso tipico:** Residenza con collaudo finale 'lampo' senza stato dei luoghi preliminare: lesioni nel vicino attribuite al cantiere; la CTU non ha potuto escludere lo stato preesistente per mancanza di documentazione: costo condiviso a metà, 40.000 €, più lezione.
 - **Normativa:** DPR 207/2010 (collaudi per i lavori pubblici, soglie e fasi); D.Lgs 36/2023 (ruolo del collaudatore); per il privato: art. 1667 c.c. (verifica dell'opera).
 - **Nota di cantiere:** Prima azione di ogni cantiere sensibile: il rilievo fotografico datato dello stato dei luoghi, firmato dalle parti. È il documento più economico e più decisivo di tutto il contratto.
@@ -235,7 +235,7 @@ Lo stato di avanzamento lavori è la dichiarazione periodica (di regola mensile)
 - **Applicazioni:** Cantieri con pagamenti rateali; commesse pubbliche e private; base delle revisioni di progetto in corso d'opera.
 - **Vantaggi:** Il SAL mensile regolare è l'anticontenzioso più economico: nessuno discute numeri approvati ogni 30 giorni.
 - **Limiti e attenzioni:** I SAL 'fotografici' compilati a fine cantiere con percentuali a memoria sono il pane delle vertenze sui lavori eseguiti.
-- **Costi ed economia:** La ritenuta di garanzia immobilizza il 5% del valore fino alla fine dei lavori e al periodo di garanzia: va conteggiata nella tesoreria dell'impresa.
+- **Costi ed economia:** Ordini di grandezza indicativi: La ritenuta di garanzia immobilizza il 5% del valore fino alla fine dei lavori e al periodo di garanzia: va conteggiata nella tesoreria dell'impresa.
 - **Caso tipico:** Condominio con SAL approvati per 18 mesi: alla fine, l'impresa reclamava un extra di 60.000 € su lavori non in contratto; il confronto con i SAL firmati ha mostrato che il 90% delle voci contestate era già stato pagato: la trattativa si è chiusa a 6.000 €.
 - **Normativa:** Per i lavori pubblici: DPR 207/2010 (contabilità, pagamenti) e D.Lgs 36/2023; per il privato: prassi contrattuale (pagamenti periodici certificati dal direttore lavori).
 - **Nota di cantiere:** Il firmatario del SAL si assume responsabilità: verificare che le percentuali dichiarate corrispondano a quanto realmente eseguito e approvato, non a quanto richiesto dall'impresa per la tesoreria.
@@ -250,7 +250,7 @@ La contabilità dei lavori documenta quanto eseguito per il pagamento: misurazio
 - **Applicazioni:** Ogni cantiere con pagamenti periodici; indispensabile in contenzioso per dimostrare lo stato dei luoghi a una certa data.
 - **Vantaggi:** La contabilità quotidiana ben tenuta vale come prova: giudici e periti si fidano dei documenti contemporanei, non delle ricostruzioni.
 - **Limiti e attenzioni:** La contabilità 'di fine cantiere' ricostruita a posteriori ha valore probatorio debole e spesso si smentisce con le foto.
-- **Costi ed economia:** Costo interno: 1-3% del valore dei lavori per misurazioni e verbali continui; il recupero di un contenzioso ben documentato vale il doppio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo interno: 1-3% del valore dei lavori per misurazioni e verbali continui; il recupero di un contenzioso ben documentato vale il doppio.
 - **Caso tipico:** Vicino che sostiene danni da scavo: il diario di cantiere con foto datate dei contrafforti e i verbali di controllo hanno dimostrato che le lesioni erano preesistenti (foto di uno scatto dei Vigili del Fuoco di due anni prima): causa archiviata, costo zero.
 - **Normativa:** Prassi contrattuale e giurisprudenziale; per i lavori pubblici: DPR 207/2010 (contabilità) e D.Lgs 36/2023 (art. sui pagamenti).
 - **Nota di cantiere:** Il diario di cantiere scritto il giorno stesso è prova; scritto il mese dopo è letteratura. Cinque minuti al giorno salvano cinquemila euro di perizia.
@@ -265,7 +265,7 @@ Il prezzo unitario di una voce di computo nasce dall'analisi dei costi: material
 - **Applicazioni:** Gare pubbliche, verifica di offerte, controlli prezzi, contabilità, varianti con nuovi prezzi.
 - **Vantaggi:** Chi sa costruire un prezzo sa riconoscere un prezzo impossibile: il ribasso oltre il costo reale si paga in qualità o in contenzioso.
 - **Limiti e attenzioni:** Le consistenze storiche delle manodopera soffrono l'inflazione e la carenza di manodopera: le analisi vanno aggiornate con i costi reali del momento.
-- **Costi ed economia:** Un'analisi prezzi puntuale di una voce complessa: 100-400 € a voce; i software di computo includono banche dati prezzario aggiornate (abbonamento 300-1.500 €/anno).
+- **Costi ed economia:** Ordini di grandezza indicativi: Un'analisi prezzi puntuale di una voce complessa: 100-400 € a voce; i software di computo includono banche dati prezzario aggiornate (abbonamento 300-1.500 €/anno).
 - **Caso tipico:** Verifica offerta anomala: l'offerta del 28% di ribasso su un appalto da 2 milioni aveva i getti a un prezzo sotto il costo del cls consegnato: la stazione appaltante ha richiesto la dimostrazione documentata; l'impresa non ha provato: esclusa, gara ripetuta.
 - **Normativa:** Prassi estimativa italiana; DPR 207/2010 e D.Lgs 36/2023 (verifica anomalia e sostenibilità); prezzari ufficiali regionali come riferimento.
 - **Nota di cantiere:** Regola pratica: chiedere a chi offre il prezzo più basso come ci campa. Se la risposta non convince, il prezzo racconta una bugia che il cantiere pagherà.
@@ -280,7 +280,7 @@ Il subappalto delega all'esecuzione a imprese terze (subentrate, a loro volta co
 - **Applicazioni:** Imprese generali che specializzano (impianti, serramenti, facciate), consorzi stabili, gare a RTI.
 - **Vantaggi:** Permette a una general contractor di coprire tutte le categorie con le imprese migliori per singola voce.
 - **Limiti e attenzioni:** La catena si allunga e i controlli si assottigliano: i difetti di qualità nascono quasi sempre nel subappalto mal coordinato.
-- **Costi ed economia:** Le condizioni dei subappalti determinano i prezzi reali: uno sconto del 15% del general sul sub si traduce in materiali più economici o manodopera meno esperta.
+- **Costi ed economia:** Ordini di grandezza indicativi: Le condizioni dei subappalti determinano i prezzi reali: uno sconto del 15% del general sul sub si traduce in materiali più economici o manodopera meno esperta.
 - **Caso tipico:** Edificio con infiltrazioni alle facciate: la causa era la posa dei sub-subappaltatore dei serramenti senza sigillatura progettuale; la responsabilità ricadeva sul general, che aveva pagato il ribasso più basso della gara.
 - **Normativa:** D.Lgs 36/2023 (subappalti: limiti, comunicazioni, controllo); art. 1676 c.c. (subappalto nel codice civile); D.Lgs 81/2008 per la sicurezza a catena.
 - **Nota di cantiere:** Domanda al general: 'chi esegue questa voce e con quale capitolato?' Se la risposta arriva dopo tre telefonate, il controllo qualità è già perso.
@@ -295,7 +295,7 @@ Nei cantieri si sovrappongono più imprese: il D.Lgs 81/2008 (Titolo IV) assegna
 - **Applicazioni:** Ogni cantiere con più imprese; obblighi documentali verificati da ASL/ispettorato e dalla Guardia di Finanza in caso di incidente.
 - **Vantaggi:** I ruoli chiari evitano il vuoto di responsabilità: chi deve fare cosa è scritto, chi firma risponde.
 - **Limiti e attenzioni:** Nelle piccole imprese un tecnico copre tre ruoli: il sovraccarico produce documenti formali ma controlli assenti.
-- **Costi ed economia:** CSE: 1-3% dell'importo lavori; CSP incluso nel progetto; il costo di un verbale di coordinamento mancato in caso di incidente è la responsabilità penale.
+- **Costi ed economia:** Ordini di grandezza indicativi: CSE: 1-3% dell'importo lavori; CSP incluso nel progetto; il costo di un verbale di coordinamento mancato in caso di incidente è la responsabilità penale.
 - **Caso tipico:** Incidente per caduta dal ponteggio: il verbale di coordinamento non documentava la consegna del piano di montaggio; CSE, datore di lavoro e preposto rinviati a giudizio con capi d'imputazione distinti: la documentazione avrebbe distribuito o dimostrato le responsabilità.
 - **Normativa:** D.Lgs 81/2008 (Testo Unico Sicurezza, Titolo IV cantieri temporanei e mobili); Accordi Stato-Regioni per la formazione; norme tecniche su ponteggi, scavi e macchine.
 - **Nota di cantiere:** La sicurezza si dimostra: nominative scritte, verbali di consegna, registrazione formazione. In un incidente si giudica su carta prima ancora che sui fatti.
@@ -310,7 +310,7 @@ Il capitolato speciale d'appalto descrive le lavorazioni, i materiali, le esecuz
 - **Applicazioni:** Contratti privati e pubblici; disciplina del rapporto tra progetto esecutivo e esecuzione.
 - **Vantaggi:** Riduce il margine del 'non previsto': il capitolato serio trasforma la qualità da negoziazione in obbligo.
 - **Limiti e attenzioni:** Capitolati fotocopiati da altri cantieri portano norme sbagliate, materiali non disponibili, prove irrilevanti: più danni di un capitolato assente.
-- **Costi ed economia:** Redazione capitolato su misura: 2.000-8.000 € in funzione dell'opera; il costo di un capitolato copia-incolla sbagliato si scopre in collaudo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Redazione capitolato su misura: 2.000-8.000 € in funzione dell'opera; il costo di un capitolato copia-incolla sbagliato si scopre in collaudo.
 - **Caso tipico:** Capitolato che richiedeva il cls 'Rck 30' ma la normativa di riferimento citata era vecchia: la ditta ha consegnato il getto con le prove richieste nel capitolato ma fuori specifica del progetto; la vertenza si è risolta con la sostituzione parziale, 40.000 €, tutto documentabile sin dalla gara.
 - **Normativa:** D.Lgs 36/2023 e DPR 207/2010 (documenti di gara); per il privato, prassi: allegato tecnico al contratto di appalto; norme UNI EN di esecuzione lavori citate nel capitolato stesso.
 - **Nota di cantiere:** Test del capitolato: prendere una voce a caso e chiedersi 'con quale strumento e quale documento verifico questa frase in cantiere?'. Se la risposta non esiste, la frase è decorativa.
@@ -325,7 +325,7 @@ Il computo metrico estimativo è l'elenco delle quantità di lavoro con i prezzi
 - **Applicazioni:** Tutti i contratti a misura e a corpo misto; base di gara; verifica in contabilità; estimo dei lavori di manutenzione.
 - **Vantaggi:** Trasparenza: ogni voce si può verificare in cantiere e ogni prezzo si può confrontare con il prezzario di riferimento.
 - **Limiti e attenzioni:** Le regole di misura diverse tra computi di gara e contabilità generano il 70% delle vertenze quantitative; le voci 'furbe' (quantità a piacere) nascono proprio da questa ambiguità.
-- **Costi ed economia:** Elaborazione di un computo per una ristrutturazione da 100.000 €: 1.500-4.000 € di tecnico; per opere pubbliche in gara, il computo entra nel costo di progettazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Elaborazione di un computo per una ristrutturazione da 100.000 €: 1.500-4.000 € di tecnico; per opere pubbliche in gara, il computo entra nel costo di progettazione.
 - **Caso tipico:** Contenzioso su getti: la ditta chiedeva il pagamento 'a getto effettivamente conferito' (buche + sperone), il computo prevedeva la misura netta di progetto: le prove di getto documentavano un consumo superiore del 12% per lo sperone e le perdite del cavedio: la vertenza si è risolta riconoscendo la maggior consumazione solo dove il progetto l'aveva prevista (pozzetti, cordoli).
 - **Normativa:** D.Lgs 36/2023 (documenti di gara, contratto); DPR 207/2010 (regolamento di esecuzione: documenti di gara e computi); Prassi: prezzari ufficiali regionali e Documento di Indirizzo per gli standard dei servizi tecnici (criteri di redazione dei documenti di gara).
 - **Nota di cantiere:** La prima lettura del contratto da cantiere: trovare la voce 'regole di misura'. Se non c'è, ogni misura diventa negoziabile, e il meno documentato perde.
@@ -355,7 +355,7 @@ La riserva è la dichiarazione contestuanea di un diritto futuro (lavori non pre
 - **Applicazioni:** Danni da scavo al vicino, ritardi per cause imputabili, lavori in economia, condizioni meteorologiche eccezionali.
 - **Vantaggi:** La riserva scritta tempestiva costa zero e tiene aperte le opzioni; quella mancata chiude la porta definitivamente.
 - **Limiti e attenzioni:** Le riserve generiche ('ci riserviamo di...') senza descrizione del fatto valgono poco: la riserva deve descrivere il fatto, la data, la causa presunta.
-- **Costi ed economia:** Perizia di parte: 1.500-6.000 € in funzione della complessità; CTU in giudizio: da 5.000 € in su, oltre le spese legali.
+- **Costi ed economia:** Ordini di grandezza indicativi: Perizia di parte: 1.500-6.000 € in funzione della complessità; CTU in giudizio: da 5.000 € in su, oltre le spese legali.
 - **Caso tipico:** Ditta che ha documentato con foto datate e verbali meteorologici due settimane di pioggia eccezionale bloccante: la perizia ha ottenuto il riconoscimento del prolungamento dei tempi e il ripristino; la ditta 'gemella' senza documentazione ha pagato le penali.
 - **Normativa:** Giurisprudenza consolidata su verbali con riserva; prassi: regole dei contratti tipo (FIDIC, disciplinare di gara) su contestazioni e tempi.
 - **Nota di cantiere:** La firma al verbale è un atto tecnico-giuridico: chi firma senza riserve regala ciò che non ha ancora valutato. Leggere, riservare, firmare.
@@ -370,7 +370,7 @@ La variante in corso d'opera modifica il contratto durante l'esecuzione (materia
 - **Applicazioni:** Ogni cantiere che scopre il vero terreno, cambia materiali per disponibilità o risponde a nuove esigenze del committente.
 - **Vantaggi:** Flessibilità controllata: l'opera si adatta senza rifare il contratto.
 - **Limiti e attenzioni:** La variante dopo l'esecuzione (retroattiva) è nata contenziosa: difficile da approvare nei pubblici e sleale nei privati.
-- **Costi ed economia:** Il 20% di un contratto da 500.000 € è 100.000 € di flessibilità: chi progetta la gara dovrebbe dimensionare le varianti attese prima di decidere prezzi e quantità.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il 20% di un contratto da 500.000 € è 100.000 € di flessibilità: chi progetta la gara dovrebbe dimensionare le varianti attese prima di decidere prezzi e quantità.
 - **Caso tipico:** Scuola con limite varianti consumato dal 18% in fase di scavo per la falda inattesa: la variante obbligatoria sui serramenti (norma antincendio aggiornata) ha richiesto negoziazione con la stazione appaltante e un accordo bonario: 4 mesi di attesa, penali pagate, lezione sulla gestione del margine varianti.
 - **Normativa:** D.Lgs 36/2023 (art. sulle varianti in corso d'opera: limiti 20% lavori, 10% forniture); per il privato: libertà contrattuale con integrazioni scritte.
 - **Nota di cantiere:** La variante si scrive prima di eseguire, con prezzi e quantità: 'facciamo e poi vediamo' è la formula che trasforma un cantiere in un giudizio.
@@ -1085,7 +1085,7 @@ Comprare e vendere un immobile (o una costruzione futura: vendita su carta) rich
 - **Applicazioni:** Trattative immobiliari, vendita di costruzioni, ristrutturazioni a scopo di valorizzazione.
 - **Vantaggi:** La due diligence immobiliare protegge compratore e venditore: niente sorprese dopo il rogito (abusivi scoperti, abitanti non sfrattabili, ipoteche non visibili).
 - **Limiti e attenzioni:** Le verifiche hanno un costo (visure, tecnico) e richiedono settimane: chi corre sul rogito raccoglie i problemi.
-- **Costi ed economia:** Costi compratore: imposte 2-9% del valore (secondo caso: prima casa, seconda, da costruttore), notaio 1.500-4.000 €, tecnico per verifiche 500-2.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi compratore: imposte 2-9% del valore (secondo caso: prima casa, seconda, da costruttore), notaio 1.500-4.000 €, tecnico per verifiche 500-2.000 €.
 - **Caso tipico:** Compravendita con abuso (mansardo non accatastata): scoperto dopo il rogito, il compratore ha dovuto sanare a proprie spese (40.000 €); il perito pre-acquisto avrebbe intercettato tutto.
 - **Normativa:** Codice civile artt. 1470-1547 (compravendita); DPR 131/1986 (catasto); normativa fiscale (TUIR, aggiornata annualmente).
 - **Nota di cantiere:** Domande da insegnare: il venditore è costruttore (IVA) o privato (registro)? ci sono abusi? il catasto è conforme al reale? l'immobile è libero?
@@ -1100,7 +1100,7 @@ Il condominio negli edifici è regolato dalla riforma del 2012 (L. 220/2012): as
 - **Applicazioni:** Cantieri condominiali (facciate, coperture, impianti centralizzati), consulenza a proprietari e amministratori.
 - **Vantaggi:** Le regole del condominio sono oggettive: chi conosce le maggioranze e le ripartizioni evita contestazioni e lavori bloccati.
 - **Limiti e attenzioni:** La tabella millesimale è spesso vecchia o controversa: le opere su parti comuni si ripartiscono per millesimi salvo diversa destinazione d'uso.
-- **Costi ed economia:** Costi: amministratore 200-600 €/anno per unità; perizie e tabelle: a parte.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: amministratore 200-600 €/anno per unità; perizie e tabelle: a parte.
 - **Caso tipico:** Cantiere di rifacimento copertura condominiale: l'impresa aveva il solo ordine del presidente; l'assemblea non aveva autorizzato: lavori bloccati a metà e contenzioso; la verifica dell'autorizzazione assembleare prima di iniziare era il passaggio mancante.
 - **Normativa:** Artt. 1117-1139 c.c.; L. 220/2012 (riforma condominio); regolamento condominiale.
 - **Nota di cantiere:** Regola per l'impresa: in condominio si inizia SOLO con autorizzazione scritta dell'amministratore o dell'assemblea documentata.
@@ -1115,7 +1115,7 @@ Quando il committente è un consumatore (famiglia, persona fisica per uso person
 - **Applicazioni:** Impresa che lavora per privati: la quasi totalità delle ristrutturazioni residenziali.
 - **Vantaggi:** Il rispetto delle regole consumatore elimina la maggior parte dei contenziosi: i clienti litigano quando si sentono aggrediti, non quando sono informati.
 - **Limiti e attenzioni:** Le sanzioni amministrative per pratiche scorrette (es. preventivi gonfiati, subentri occulti) sono pesanti e pubbliche (comunicazione AGCM).
-- **Costi ed economia:** Costo della conformità: tempo di scrittura contratti (o modello legale: 500-2.000 € da professionista).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo della conformità: tempo di scrittura contratti (o modello legale: 500-2.000 € da professionista).
 - **Caso tipico:** Ristrutturazione con contratto 'tutto incluso' senza dettaglio voci: il cliente ha chiesto il dettaglio a fine lavori, i prezzi erano 'a sensazione': il giudice ha ridotto il corrispettivo del 22% per mancanza di trasparenza.
 - **Normativa:** D.Lgs 206/2005 (codice consumo); D.Lgs 21/2014; prassi AGCM.
 - **Nota di cantiere:** La trasparenza preventiva è la polizza assicurativa più economica dell'impresa edile.
@@ -1130,7 +1130,7 @@ L'appalto domestico (art. 1655 c.c.) tra privato e impresa è il contratto tipo 
 - **Applicazioni:** Ristrutturazioni residenziali, contratti tra imprese e famiglie.
 - **Vantaggi:** Il contratto chiaro è il progetto legale del cantiere: se le regole del gioco sono scritte, il gioco è pulito.
 - **Limiti e attenzioni:** I contratti copia-incolla dal web senza adattamento nascondono clausole vessatorie o inapplicabili (es. penali assurde, riferimenti a norme sbagliate).
-- **Costi ed economia:** Costo modello contrattuale da professionista: 500-2.000 €; negoziazione: tempo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo modello contrattuale da professionista: 500-2.000 €; negoziazione: tempo.
 - **Caso tipico:** Contratto con penale di 500 €/giorno di ritardo e bonus di 200 €/giorno di anticipo: il cantiere è finito 3 settimane prima del previsto; entrambe le parti hanno guadagnato dalla chiarezza.
 - **Normativa:** Art. 1655-1677 c.c.; giurisprudenza su clausole vessatorie (art. 1469-bis e ss.).
 - **Nota di cantiere:** La checklist del contratto privato (10 clausole) vale più di qualsiasi negoziazione verbale: chi la insegna al LLM offre consulenza di alto livello.
@@ -1160,7 +1160,7 @@ Le garanzie muovono denaro: il cliente chiede fideiussione (garanzia bancaria o 
 - **Applicazioni:** Contratti di ristrutturazione e nuova costruzione, compravendite, pratiche di fine lavori.
 - **Vantaggi:** Le garanzie corrette danno sicurezza a entrambe le parti: il cliente protegge i soldi, l'impresa documenta la qualità.
 - **Limiti e attenzioni:** Il circolo vizioso del 'faccio la fideiussione dopo': chi consegna acconti senza garanzia scopre poi che recuperare è costoso e lento.
-- **Costi ed economia:** Costo fideiussione: 1-3%/anno dell'importo garantito (banca), 0,5-1,5% (assicurativa); emissione: 100-300 € fisse.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo fideiussione: 1-3%/anno dell'importo garantito (banca), 0,5-1,5% (assicurativa); emissione: 100-300 € fisse.
 - **Caso tipico:** Cliente che ha versato 30.000 € di acconto con fideiussione assicurativa: l'impresa è fallita a metà lavori; l'assicurazione ha rimborsato l'acconto in 3 mesi; il vicino di casa, senza fideiussione, è in attesa di recupero dal fallimento da 2 anni.
 - **Normativa:** Codice civile (garanzie, assicurazioni); legge 210/2004 (polizze); normativa APE (D.Lgs 192/2005 s.m.i.).
 - **Nota di cantiere:** Regole per l'LLM consulente: mai acconti senza garanzia, mai garanzie senza costo nel preventivo, mai fine lavori senza attestazioni.
@@ -1175,7 +1175,7 @@ La locazione abitativa è regolata dalla L. 431/1998: durata minima 4 anni + rin
 - **Applicazioni:** Proprietari, inquilini, imprese che gestiscono patrimoni locativi.
 - **Vantaggi:** Il contratto scritto e registrato protegge entrambi: il proprietario può sfrattare e aggiornare, l'inquilino ha diritti certi.
 - **Limiti e attenzioni:** La locazione informale è illegale e pericolosa per entrambi: sfratto difficile per il proprietario, nessun diritto per l'inquilino.
-- **Costi ed economia:** Costi: registrazione proporzionale o fisso (cedolare secca: 21/26% sul canone); agenzia: una mensilità + IVA circa.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: registrazione proporzionale o fisso (cedolare secca: 21/26% sul canone); agenzia: una mensilità + IVA circa.
 - **Caso tipico:** Locazione con canone concordato + cedolare secca: tassazione effettiva dimezzata rispetto al regime ordinario su un appartamento da 700 €/mese: differenza di oltre 1.200 €/anno.
 - **Normativa:** L. 431/1998; D.Lgs 23/2011 (cedolare secca); leggi regionali su locazioni brevi.
 - **Nota di cantiere:** Il contratto tipo del territorio (canone concordato) conviene quasi sempre: meno tasse, canone leggermente calmierato ma stabilità maggiore.
@@ -1190,7 +1190,7 @@ Il notaio pubblico è l'ufficiale che dà certezza ai passaggi immobiliari: atto
 - **Applicazioni:** Acquisti immobiliari, vendite, operazioni societarie con immobili.
 - **Vantaggi:** La certezza notarile evita doppie vendite e passaggi illegittimi: il registro immobiliare è il cuore della sicurezza del mercato.
 - **Limiti e attenzioni:** L'onorario notarile è proporzionale al valore: sulle operazioni piccole pesa in percentuale; i tempi di appuntamento possono rallentare le trattative rapide.
-- **Costi ed economia:** Onorario: tariffario notarile proporzionale (indicativamente 0,5-2,5% secondo valore e complessità) + diritti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Onorario: tariffario notarile proporzionale (indicativamente 0,5-2,5% secondo valore e complessità) + diritti.
 - **Caso tipico:** Acquisto con trascrizione preliminare: il venditore ha tentato di vendere a terzi durante la costruzione; la trascrizione ha reso inefficace la seconda vendita e protetto l'acquirente.
 - **Normativa:** Legge notarile (L. 89/1913); disposizioni sul registro immobiliare (DPR 222/1983).
 - **Nota di cantiere:** La lezione per l'LLM: nei passaggi immobiliari vale la regola del 'chi trascrive per primo' — la burocrazia tempestiva è difesa dei diritti.
@@ -1205,7 +1205,7 @@ L'art. 1669 c.c. (responsabilità del costruttore e dell'impresa) prescrive: se 
 - **Applicazioni:** Ogni impresa costruttrice, ogni professionista, ogni compratore di nuovo.
 - **Vantaggi:** La regola chiara dei termini permette di prevedere il rischio: l'impresa sa cosa rischia e per quanto; il cliente sa a chi rivolgersi.
 - **Limiti e attenzioni:** I vizi latenti emergono a cantiere chiuso da anni: l'impresa che non tiene l'archivio dei cantieri (materiali, collaudi, foto) non può difendersi.
-- **Costi ed economia:** Polizza decennale: 0,5-1,5% del valore dell'opera; la difesa in un contenzioso decennale: 15.000-100.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Polizza decennale: 0,5-1,5% del valore dell'opera; la difesa in un contenzioso decennale: 15.000-100.000 €.
 - **Caso tipico:** Infiltrazione in una cantina di condominio costruito 8 anni prima: l'impermeabilizzazione era difettosa; la polizza decennale ha coperto la riparazione (60.000 €) — senza polizza, l'impresa (ancora esistente) avrebbe pagato di tasca propria.
 - **Normativa:** Art. 1669-1670 c.c.; normativa sulla polizza assicurativa obbligatoria (legge 210/2004).
 - **Nota di cantiere:** Per il LLM: il decennale non è uno scudo assicurativo ma un regime di responsabilità: la polizza copre, ma la reputazione si difende con l'archivio del cantiere.
@@ -1220,7 +1220,7 @@ L'impresa e il professionista devono proteggersi DURANTE il rapporto: le riserve
 - **Applicazioni:** Ogni cantiere con sconnessioni, varianti, contestazioni.
 - **Vantaggi:** La riserva tempestiva cambia l'esito dei giudizi: chi riserva subito, poi può chiedere; chi tace per mesi, quasi mai.
 - **Limiti e attenzioni:** La cultura della riserva è bassissima nelle imprese piccole: 'non voglio litigare col cliente' si trasforma in 'ho pagato io le sconnessioni'.
-- **Costi ed economia:** Costo: tempo (mezz'ora a evento); perizia asseverata: 1.000-3.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: tempo (mezz'ora a evento); perizia asseverata: 1.000-3.000 €.
 - **Caso tipico:** Cantiere con umidità emersa a parete smontata: riserva scritta in 24 ore con foto; il committente ha riconosciuto il costo extra (4.800 €) senza alcuna vertenza; la stessa impresa, altro cantiere, senza riserva: ha pagato lei.
 - **Normativa:** Codice civile (appalto, atti di procedura); prassi giudiziaria consolidata.
 - **Nota di cantiere:** Frase chiave: 'riservarsi di comunicare' è la formula professionale che trasforma un problema in una voce di conto.
@@ -1240,7 +1240,7 @@ Trovare lavoro è la prima funzione dell'impresa: ricerca commesse su portali (b
 - **Applicazioni:** Imprese artigiane e medie che vogliono smettere di lavorare 'al ribasso di chi non sa contare'.
 - **Vantaggi:** L'offerta con margine dichiarato evita il lavorare gratis: 'vinto il lavoro' e 'perso i soldi' sono la stessa frase se il prezzo è sbagliato.
 - **Limiti e attenzioni:** La paura di perdere la commessa spinge a prezzi senza margine: il lavoro peggiore è quello che perdi facendo.
-- **Costi ed economia:** Costo acquisizione: tempo del titolare (il costo vero); offerta tecnica di una gara privata media: 1-3 giorni/uomo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo acquisizione: tempo del titolare (il costo vero); offerta tecnica di una gara privata media: 1-3 giorni/uomo.
 - **Caso tipico:** Impresa che ha introdotto la regola 'nessuna offerta sotto il 18% di margine lordo': ha perso 6 commesse su 10 e ha raddoppiato l'utile netto in 18 mesi, con cantieri dimezzati.
 - **Normativa:** Codice appalti per la parte pubblica (in coda al corso appalti); per il privato: codice civile (appalto).
 - **Nota di cantiere:** Frase da inculcare al LLM: l'impresa che offre sempre sotto costo sta trasferendo il proprio patrimonio ai clienti.
@@ -1255,7 +1255,7 @@ Il controllo di gestione misura se il cantiere sta producendo margine: contabili
 - **Applicazioni:** Imprese con più cantieri contemporanei: è il solo modo di sapere quale cantiere sta morendo PRIORA che sia finito.
 - **Vantaggi:** Il cantiere in rosso si vede al terzo mese, non alla consegna: c'è tempo di correre ai ripari (riorganizzazione, contenzione, trattativa).
 - **Limiti e attenzioni:** Richiede dati interni puliti: chi non alloca i costi alle commesse (buste paga, mezzi) non può controllare nulla.
-- **Costi ed economia:** Costo: amministrazione che lavora per commessa (1-2 ore/cantiere/mese in più); software: 50-200 €/mese.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: amministrazione che lavora per commessa (1-2 ore/cantiere/mese in più); software: 50-200 €/mese.
 - **Caso tipico:** Impresa con report mensile per commessa: scoperto al 40% di avanzamento che un cantiere da 400.000 € avrebbe chiuso in perdita di 35.000 €; rinegoziati i subappalti e chiuso a -8.000 €, salvando il margine degli altri cantieri.
 - **Normativa:** Nessuna norma; buona pratica di amministrazione industriale.
 - **Nota di cantiere:** Domanda mensile del titolare: 'dove siamo davvero su ogni cantiere?' — chi non sa rispondere sta guidando al buio.
@@ -1270,7 +1270,7 @@ La trasformazione digitale dell'impresa edile parte dalla contabilità e arriva 
 - **Applicazioni:** Imprese che vogliono scalare senza ingrossare l'ufficio.
 - **Vantaggi:** La digitalizzazione giusta fa lavorare l'impresa con meno amministrazione per fatturato: i dati entrano una volta e si usano ovunque.
 - **Limiti e attenzioni:** Il software sbagliato o introdotto senza formazione diventa costo e resistenza: il migliore è quello che il personale usa davvero.
-- **Costi ed economia:** Gestionale: 50-300 €/mese per modulo; app presenze: 2-5 €/dipendente/mese; formazione interna: giorni iniziali poi routine.
+- **Costi ed economia:** Ordini di grandezza indicativi: Gestionale: 50-300 €/mese per modulo; app presenze: 2-5 €/dipendente/mese; formazione interna: giorni iniziali poi routine.
 - **Caso tipico:** Impresa che ha digitalizzato presenze, diario e foto cantieri: il tempo dell'amministratore su ogni cantiere è sceso del 60%, e due vertenze su fasi lavorative si sono chiuse in giorni perché il diario digitale fotografico era incontestabile.
 - **Normativa:** Nessuna norma cogente sulla digitalizzazione interna; fatturazione elettronica (obbligo); GDPR per i dati del personale (foto cantieri, presenze).
 - **Nota di cantiere:** La domanda per il LLM consulente: 'quale processo della mia impresa dipende ancora dalla memoria di una persona?' — quello è il prossimo da digitalizzare.
@@ -1285,7 +1285,7 @@ L'impresa edile può accedere a risorse pubbliche: bandi regionali e nazionali p
 - **Applicazioni:** Investimenti in macchinari, software, formazione del personale, assunzioni.
 - **Vantaggi:** Il bando giusto finanzia il 30-50% di un investimento: la differenza tra comprare il macchinario quest'anno o fra tre.
 - **Limiti e attenzioni:** La rendicontazione approssimativa fa perdere agevolazioni già concesse: la burocrazia premia la precisione e punisce la fretta.
-- **Costi ed economia:** Costo consulenza bandi: 1.000-5.000 € o 5-15% dell'agevolazione; i portali di bandi base sono gratuiti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo consulenza bandi: 1.000-5.000 € o 5-15% dell'agevolazione; i portali di bandi base sono gratuiti.
 - **Caso tipico:** Impresa che ha ottenuto un contributo regionale del 40% su un software di cantiere e formazione: investimento di 60.000 €, esborso reale 36.000 €, con produttività che ha ripagato il resto in 14 mesi.
 - **Normativa:** Regolamenti dei singoli bandi (Regione, MIMIT, Invitalia); normativa fiscale annuale (crediti d'imposta).
 - **Nota di cantiere:** La finanza agevolata è un mestiere: chi la cura come hobby lascia soldi sul tavolo ogni anno.
@@ -1300,7 +1300,7 @@ L'impresa edile vende fiducia: il marketing efficace è la somma di reputazione 
 - **Applicazioni:** Imprese che vogliono scegliere le commesse invece di accettarle tutte.
 - **Vantaggi:** La reputazione digitale riduce il costo di acquisizione: chi trova 50 recensioni a 4,9 stelle chiama già convinto.
 - **Limiti e attenzioni:** Il marketing senza il prodotto (cantieri fatti male) amplifica il danno: le recensioni negative sono permanenti.
-- **Costi ed economia:** Budget marketing per impresa edile: 1-3% del fatturato; sito vetrina: 1.000-3.000 €; gestione social: 300-800 €/mese interno/esterno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Budget marketing per impresa edile: 1-3% del fatturato; sito vetrina: 1.000-3.000 €; gestione social: 300-800 €/mese interno/esterno.
 - **Caso tipico:** Impresa di ristrutturazioni con 120 recensioni Google gestite: il 70% dei nuovi clienti dichiara di aver scelto loro per le recensioni; prezzi medi in crescita perché la domanda qualificata è sovrabbondante.
 - **Normativa:** Nessuna norma specifica; deontologia commerciale (pubblicità non ingannevole, codice del consumismo).
 - **Nota di cantiere:** Il miglior marketing edile è il cantiere pulito in una strada frequentata: il cartello con il numero di telefono vale più di mille volantini.
@@ -1315,7 +1315,7 @@ L'impresa edile che cresce deve passare dal 'tutto dal titolare' a una struttura
 - **Applicazioni:** Imprese da 5 a 50 dipendenti: il passaggio dove nascono o muoiono la maggior parte delle imprese edili.
 - **Vantaggi:** Il titolare smette di spegnere incendi e inizia a dirigere: la delega con controllo libera tempo per il commerciale, che è l'unica funzione che porta soldi dentro.
 - **Limiti e attenzioni:** Le deleghe senza controllo producono furti, errori e dipendenti 'stato nell'ombra'; il controllo di gestione mensile è il contrappeso.
-- **Costi ed economia:** Costo zero strumentale: carta, Excel, disciplina; un gestionale leggero: 50-150 €/mese.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo zero strumentale: carta, Excel, disciplina; un gestionale leggero: 50-150 €/mese.
 - **Caso tipico:** Impresa di 12 persone con tabellone cantieri e riunione settimanale di 45 minuti: i ritardi sui cantieri scesi da 'sempre' a 1 in un anno, e il titolare ha riaperto il commerciale.
 - **Normativa:** Nessuna norma cogente; buona pratica di gestione.
 - **Nota di cantiere:** Regola: chi non ha scritto il proprio organigramma non ha un'azienda, ha un gruppo di persone che spera.
@@ -1330,7 +1330,7 @@ La manodopera è il cuore e il rischio maggiore dell'impresa edile: contrattuali
 - **Applicazioni:** Imprese con operai dipendenti: dalla seconda persona in poi la gestione del personale è una funzione piena.
 - **Vantaggi:** Il personale stabile formato è un vantaggio competitivo: la qualità della posa dipende dalle mani, non dalle macchine.
 - **Limiti e attenzioni:** La gestione del personale è il punto dove le imprese edili sono più fragili: infortuni, contenziosi, dimissioni improvvise.
-- **Costi ed economia:** Costo onere medio operaio edile: 28-38 €/ora di costo aziendale (busta paga + oneri), molto variabile per qualifica e CCNL; consulente del lavoro: 100-300 €/mese.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo onere medio operaio edile: 28-38 €/ora di costo aziendale (busta paga + oneri), molto variabile per qualifica e CCNL; consulente del lavoro: 100-300 €/mese.
 - **Caso tipico:** Impresa che ha formato un operaio a muratore-specializzato (corso posa cappotto certificato): il dipendente è diventato il riferimento tecnico di 4 cantieri, con zero errori di posa da quando.
 - **Normativa:** CCNL Edilizia (ultimo rinnovo da verificare annualmente); D.Lgs 81/2008 (formazione sicurezza); normativa lavoro irregolare (D.Lgs 124/2004? pacchetto sicurezza cantieri).
 - **Nota di cantiere:** Regola: l'operaio formato costa meno dell'operaio improvvisato, anche se il secondo chiede meno all'ora.
@@ -1345,7 +1345,7 @@ Il preventivo trasforma il progetto in un numero: costi diretti (materiali, mano
 - **Applicazioni:** Ogni offerta: ristrutturazioni, manutenzioni, nuove costruzioni, subentri.
 - **Vantaggi:** Il preventivo giusto rende il cantiere sereno: chi ha margine può fare il lavoro bene e onorare le garanzie.
 - **Limiti e attenzioni:** La sottostima di voce singola (es. smaltimento calcinacci a 30 €/m³ invece di 90) puze annullare il margine di un'intera commessa.
-- **Costi ed economia:** Tempo: preventivo semplice 2-4 ore, commessa completa 1-3 giorni; software di computo: vedi corsi dedicati.
+- **Costi ed economia:** Ordini di grandezza indicativi: Tempo: preventivo semplice 2-4 ore, commessa completa 1-3 giorni; software di computo: vedi corsi dedicati.
 - **Caso tipico:** Preventivo di un bagno senza voce 'ripristino impianti a sorpresa': il cantiere ha trovato tubi marci dietro le piastrelle: 3.500 € non preventivati, margine azzerato.
 - **Normativa:** Nessuna norma sul prezzo; disciplina: listini interni aggiornati almeno trimestralmente.
 - **Nota di cantiere:** Controllo qualità del preventivo: qualcuno che NON l'ha scritto lo rilegge col metro e le voci mancanti più comuni (umidità, smaltimento, trasporti, IVA su alcune voci).
@@ -1360,7 +1360,7 @@ Il cantiere è una fabbrica temporanea: va pianificato come produzione (sequenze
 - **Applicazioni:** Cantieri di ristrutturazione e nuova costruzione, grandi manutenzioni.
 - **Vantaggi:** Il cantiere pianificato costa meno: meno giorni uomo persi in attesa materiali, meno doppi lavori, meno contestazioni.
 - **Limiti e attenzioni:** La pianificazione rigida muore al primo imprevisto: serve la revisione settimanale, non la pianta fissa.
-- **Costi ed economia:** Costo: tempo di pianificazione (ore); ritorno: 5-15% di riduzione dei giorni cantiere nelle imprese che introducono la pianificazione (stima pratica di settore).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: tempo di pianificazione (ore); ritorno: 5-15% di riduzione dei giorni cantiere nelle imprese che introducono la pianificazione (stima pratica di settore).
 - **Caso tipico:** Cantiere ristrutturazione con piano consegne settimanale: zero furti di materiale (prima 3 furti a cantiere) e consegna 3 settimane prima, con bonus del cliente.
 - **Normativa:** DM 81/2008 (organizzazione cantiere); diario di cantiere come prova in contenzioso.
 - **Nota di cantiere:** Il diario di cantiere quotidiano è la polizza assicurativa dell'impresa: chi non scrive, non esiste.
@@ -1375,7 +1375,7 @@ Le certificazioni d'impresa sono requisiti di accesso e fattori di fiducia: ISO 
 - **Applicazioni:** Gare pubbliche, grandi committenti privati, accesso a fidi bancari.
 - **Vantaggi:** Le certificazioni aprono porte: senza SOA non esisti per la pubblica amministrazione; con ISO 9001 molte gare private ti prequalificano d'ufficio.
 - **Limiti e attenzioni:** Le certificazioni 'solo da esposizione' (procedura scritta mai seguita) saltano al primo audit e costano caro in reputazione.
-- **Costi ed economia:** Costi: ISO 9001 da 1.500-4.000 €/anno (ente + consulente), SOA da 2.000-6.000 € di mantenimento annuo, più il requisito patrimoniale per le classifiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: ISO 9001 da 1.500-4.000 €/anno (ente + consulente), SOA da 2.000-6.000 € di mantenimento annuo, più il requisito patrimoniale per le classifiche.
 - **Caso tipico:** Impresa che ha ottenuto la SOA categoria OG2 classifica III: è passata da subappalti a commesse dirette da 800.000 €, con margine medio raddoppiato.
 - **Normativa:** Legge 1423/1956 (SOA); norme UNI EN ISO 9001/14001/45001; D.Lgs 159/2011 (anti-mafia, requisiti di affidabilità).
 - **Nota di cantiere:** Le certificazioni vanno curate come i cantieri: chi le tiene 'a batteria' trova la scadenza l'ultimo giorno utile.
@@ -1390,7 +1390,7 @@ L'impresa edile vive di rischi: il mestiere dell'imprenditore è selezionarli, p
 - **Applicazioni:** Ogni impresa edile, dal monoposto alla general contractor.
 - **Vantaggi:** La gestione del rischio non elimina gli imprevisti ma li rende sopravvivibili: l'impresa assicurata e contrattualizzata può sbagliare una commessa senza fallire.
 - **Limiti e attenzioni:** L'assicurazione 'perché tanto non succede niente' è la prima voce tagliata nelle crisi: errore classico che trasforma un incidente in un fallimento.
-- **Costi ed economia:** Polizza RCT/RCO: 1.500-6.000 €/anno; all risk cantiere: 0,3-1% del valore lavori; consulente assicurativo specializzato: a provvigione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Polizza RCT/RCO: 1.500-6.000 €/anno; all risk cantiere: 0,3-1% del valore lavori; consulente assicurativo specializzato: a provvigione.
 - **Caso tipico:** Impresa colpita da un danno a un appartamento confinante per una perdita d'acqua: la RCT ha coperto 85.000 € di danni e ricostruzione rapporti col vicino; senza polizza, la fine dell'azienda.
 - **Normativa:** Codice civile (appalto, responsabilità); CCNL (responsabilità verso dipendenti); normativa assicurativa (IVASS).
 - **Nota di cantiere:** Principio: il rischio non assicurato e non prezzato è un regalo del proprio patrimonio al destino.
@@ -1405,7 +1405,7 @@ La forma giuridica decide tasse, responsabilità e accesso ai lavori: ditta indi
 - **Applicazioni:** Avvio di impresa, crescita, ingresso in gare pubbliche, ingresso di soci.
 - **Vantaggi:** La forma giusta protegge l'imprenditore e sblocca commesse: la Srl qualificata SOA accede a lavori dove la ditta individuale non può entrare.
 - **Limiti e attenzioni:** La forma 'di moda' senza analisi costa: una Srl con 80.000 € di fatturato paga più costi fissi di quanto guadagna in protezione.
-- **Costi ed economia:** Costo costituzione Srl: 2.500-6.000 €; gestione contabile annua: 1.500-4.000 € in più della ditta individuale; ditta individuale: quasi zero.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo costituzione Srl: 2.500-6.000 €; gestione contabile annua: 1.500-4.000 € in più della ditta individuale; ditta individuale: quasi zero.
 - **Caso tipico:** Impresa di ristrutturazioni passata da ditta individuale a Srl dopo un danno da infiltrazione: la società ha isolato il patrimonio familiare da un risarcimento da 180.000 €.
 - **Normativa:** Codice civile artt. 2110 e ss. (imprenditore); legge 1423/1956 (forme societarie); registro imprese.
 - **Nota di cantiere:** La forma giuridica si rivede a ogni scalino di fatturato: non è un matrimonio, è un abito da cambiare quando cresci.
@@ -1425,7 +1425,7 @@ L'agente immobiliare (L. 39/1989) è il mediatore professionale iscritto al Ruol
 - **Applicazioni:** Compravendite e locazioni tramite agenzia: la maggioranza del mercato italiano.
 - **Vantaggi:** L'agente bravo velocizza il mercato: prezzo giusto da subito, filtro delle visite, assistenza documentale.
 - **Limiti e attenzioni:** Il conflitto d'interesse è strutturale (l'agente guadagna chiudendo): la fiducia si costruisce su trasparenza e track record.
-- **Costi ed economia:** Provvigione media: 3% del prezzo per parte (valore medio casa 250.000 €: ~7.500 € + IVA per parte); servizi accessori (perizie, pratiche): a parte.
+- **Costi ed economia:** Ordini di grandezza indicativi: Provvigione media: 3% del prezzo per parte (valore medio casa 250.000 €: ~7.500 € + IVA per parte); servizi accessori (perizie, pratiche): a parte.
 - **Caso tipico:** Vendita con agenzia esclusiva e prezzo corretto da subito: venduta in 6 settimane a pieno prezzo; la stessa casa, 18 mesi prima con 3 agenzie senza esclusiva e prezzo gonfiato: zero offerte e prezzo finale -12%.
 - **Normativa:** L. 39/1989; regolamento attuativo; codice deontologico FIAIP/Confabitare.
 - **Nota di cantiere:** Consiglio LLM: valutare l'agenzia come si valuta un fornitore (track record, esclusività, strategia di prezzo), non come un nemico da aggirare.
@@ -1455,7 +1455,7 @@ L'immobile come investimento si misura su: rendita lorda (canone/valore), rendit
 - **Applicazioni:** Acquisti per affitto, valorizzazioni, BRRRR (buy-renovate-rent-refinance-repeat).
 - **Vantaggi:** L'immobile con leva e cash flow positivo si ripaga da solo: l'investitore conserva il capitale e accumula patrimonio.
 - **Limiti e attenzioni:** La leva su immobile a rendita bassa è una trappola: il cash flow negativo mangia il patrimonio ogni mese.
-- **Costi ed economia:** Costi accessori d'investimento: 10-15% del valore di acquisto; la rendita netta media residenziale italiana: ~2-4% lordo (dati OMI/mercato).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi accessori d'investimento: 10-15% del valore di acquisto; la rendita netta media residenziale italiana: ~2-4% lordo (dati OMI/mercato).
 - **Caso tipico:** Trilocale acquistato 160.000 € con 40.000 € di ristrutturazione e costi, locato a 720 €/mese con mutuo che lascia 90 €/mese di cash flow positivo dopo spese: in 15 anni il mutuo è estinto e l'immobile rende 700 €/mese liberi.
 - **Normativa:** Normativa fiscale locazioni; regolamentazione bancaria mutui.
 - **Nota di cantiere:** La domanda madre: 'questo immobile, col MIO capitale e QUESTA rata, mi lascia soldi in tasca ogni mese?' — se la risposta è no, è una scommessa, non un investimento.
@@ -1470,7 +1470,7 @@ La locazione breve (affitti turistici, Airbnb-style) è un mercato cresciuto eno
 - **Applicazioni:** Investitori, second case, imprese di property management breve.
 - **Vantaggi:** In zona turistica forte il breve batte il lungo anche del 50-80% di incasso annuo.
 - **Limiti e attenzioni:** La saturazione di molte città (Venezia, Firenze, centro Roma) ha portato stop e limiti: il business dipende dalla regolamentazione locale che cambia.
-- **Costi ed economia:** Ammobiliamento B&B: 15.000-50.000 € per unità; gestione terzi: 20-30% degli incassi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Ammobiliamento B&B: 15.000-50.000 € per unità; gestione terzi: 20-30% degli incassi.
 - **Caso tipico:** Monolocale in centro storico gestito in breve: occupazione 68%, incasso 24.000 €/anno vs 13.200 della locazione lunga tradizionale; costi e tasse hanno ridotto il surplus reale a ~6.000 €/anno, con lavoro gestionale notevole.
 - **Normativa:** L. 431/1998 (diversivo turistico); D.Lgs 79/2011 (turismo); ordinanze comunali (sempre da verificare).
 - **Nota di cantiere:** Domanda d'investimento: il surplus del breve vs il lungo GIUSTIFICA il lavoro extra? Nelle zone medie spesso non basta.
@@ -1485,7 +1485,7 @@ Un immobile venduto bene si presenta bene: fotografie professionali (luce natura
 - **Applicazioni:** Vendite di privati, sviluppatori, gestori di portafogli.
 - **Vantaggi:** L'immobile presentato bene vende più in fretta e a prezzo pieno: il mercato premia chi rispetta il tempo del compratore.
 - **Limiti e attenzioni:** Il sovrapprezzo 'tanto trattiamo' si traduce in mesi di esposizione e sconto finale maggiore: il prezzo giusto da subito è la strategia migliore.
-- **Costi ed economia:** Costo marketing vendita: 500-2.000 € (foto, staging leggero, visure); il costo dell'esposizione lunga: mensilità perse + sconto finale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo marketing vendita: 500-2.000 € (foto, staging leggero, visure); il costo dell'esposizione lunga: mensilità perse + sconto finale.
 - **Caso tipico:** Appartamento fermo 8 mesi a 265.000 €: ripresentato a 245.000 € con foto professionali e staging leggero: venduto in 5 settimane a 242.000 €; il proprietario ha incassato prima e ha realizzato 23.000 € in più della traiettoria precedente (prezzo pieno - mesi persi).
 - **Normativa:** Nessuna norma cogente (pubblicità veritiera); codice deontologico agenti.
 - **Nota di cantiere:** La regola del mercato: il prezzo è la strategia di marketing — tutto il resto ne è la conferma.
@@ -1515,7 +1515,7 @@ Il mutuo ipotecario finanzia l'acquisto: a tasso fisso (certezza, in genere più
 - **Applicazioni:** Acquisti residenziali, investimenti, ristrutturazioni (mutui agevolati prima casa con garanzie Consap per giovani, condizioni da verificare annualmente).
 - **Vantaggi:** Il mutuo giusto sostiene l'acquisto senza strangolarlo: la rata sostenibile è entro 1/3 del reddito familiare netto.
 - **Limiti e attenzioni:** Il tasso 'fisso a vita' comprato sul picco dei tassi costa carissimo nei decenni successivi se il ciclo scende; il variabile in salita può sforare i piani di budget.
-- **Costi ed economia:** Tassi indicativi 2025 (da verificare): fisso ~3-3,8%, variabile Euribor+1,2-1,8%; perizia: 200-400 €; istruttoria: 0-1% (spesso azzerata).
+- **Costi ed economia:** Ordini di grandezza indicativi: Tassi indicativi 2025 (da verificare): fisso ~3-3,8%, variabile Euribor+1,2-1,8%; perizia: 200-400 €; istruttoria: 0-1% (spesso azzerata).
 - **Caso tipico:** Mutuo variabile preso nel 2022 a Euribor+1,5%: con la salita dei tassi, la rata è passata da 850 a 1.320 € in 18 mesi; la surroga a fisso 3,4% (2024) ha riportato la rata a 980 € con zero spese notarili.
 - **Normativa:** Normativa bancaria (TUB, Testo Unico Bancario); legge 40/2007 (surroga); prassi Banca d'Italia.
 - **Nota di cantiere:** Regole: confrontare SEMPRE TAEG e non il tasso nominale; chiedere simulazioni di stress +2% sul variabile; valutare la surroga a ogni calo significativo dei tassi.
@@ -1530,7 +1530,7 @@ Il property management professionale gestisce immobili di terzi: locazione (cerc
 - **Applicazioni:** Proprietari con più unità, eredità complesse, investitori non residenti, piccole società patrimoniali.
 - **Vantaggi:** Il patrimonio gestito professionamente deperisce meno, rende di più e non ruba tempo: il costo del gestore è recuperato in manutenzione preventiva e riduzione sfitto.
 - **Limiti e attenzioni:** Il gestore mediocre è un costo puro: selezionare su reportistica e referenze, non sulla sola percentuale.
-- **Costi ed economia:** Compenso gestione: 8-15% canoni; il risparmio da manutenzione programmata: stime 10-20% dei costi di guasto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Compenso gestione: 8-15% canoni; il risparmio da manutenzione programmata: stime 10-20% dei costi di guasto.
 - **Caso tipico:** Portafoglio di 6 appartamenti passato da autogestione a gestore professionale: sfitto ridotto da 45 a 12 giorni/anno medi, manutenzioni costate il 15% in meno grazie alla programmazione, e il proprietario ha recuperato ~10 ore/mese.
 - **Normativa:** L. 431/1998; normativa fiscale locazioni; deontologia dei gestori (ordini e associazioni).
 - **Nota di cantiere:** Il patrimonio immobiliare è un'azienda: chi lo tratta come hobby ne raccoglie i risultati di hobby.
@@ -1560,7 +1560,7 @@ La stima professionale usa tre metodi: comparativo (da immobili simili venduti �
 - **Applicazioni:** Perizie per mutui, successioni, divisioni, contenziosi, decisioni d'investimento.
 - **Vantaggi:** Il metodo comparativo ben fatto dà un intervallo difendibile: è la base di ogni trattativa seria.
 - **Limiti e attenzioni:** I comparabili 'di annuncio' non sono transazioni: il prezzo di vendita medio è il 5-15% sotto il prezzo richiesto nei mercati normali.
-- **Costi ed economia:** Costo perizia professionale (geometra/perito): 300-1.500 €; perizia asseverata per giudizio: 1.500-4.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo perizia professionale (geometra/perito): 300-1.500 €; perizia asseverata per giudizio: 1.500-4.000 €.
 - **Caso tipico:** Stima comparativa per un trilocale: 3 comparabili reale tra 178.000 e 195.000 €, aggiustamenti per piano e box: stima 172.000-182.000 €; trattativa conclusa a 176.000 € con venditore e compratore entrambi 'convinti dal metodo'.
 - **Normativa:** Standard OIV (Organismo Italiano di Valutazione) e IVS (International Valuation Standards); prassi UNI.
 - **Nota di cantiere:** Regole: mai stimare un solo metodo se i dati consentono il confronto; dichiarare sempre ipotesi e fonti.
@@ -1780,7 +1780,7 @@ Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenz
 - **Applicazioni:** Sviluppo immobiliare, trasformazione di aree industriali dismesse, recupero di borghi e centri storici.
 - **Vantaggi:** La convenzione giusta allinea Comune e investitore: ognuno sa cosa deve fare, quando e a quale costo.
 - **Limiti e attenzioni:** I tempi della pubblica amministrazione possono congelare il capitale per anni: il piano economico deve prevedere anche lo scenario 'attuazione lenta'.
-- **Costi ed economia:** Costi di attuazione (opere pubbliche, standard, oneri): 15-30% del valore di trasformazione (ordine di grandezza); tempi: 2-8 anni.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi di attuazione (opere pubbliche, standard, oneri): 15-30% del valore di trasformazione (ordine di grandezza); tempi: 2-8 anni.
 - **Caso tipico:** Recupero di ex area industriale: convenzione con standard privatizzati (parcheggi interni, servizi nell'edificio) invece di aree pubbliche: l'attuazione è durata 3 anni invece dei 7 stimati con la cessione tradizionale.
 - **Normativa:** DPR 380/2001 (titoli attuativi); leggi regionali; prassi convenzionale locale.
 - **Nota di cantiere:** La regola d'oro dello sviluppatore: il valore si crea nell'attuazione, non nel terreno — e l'attuazione è al 90% relazioni con la pubblica amministrazione.
@@ -1795,7 +1795,7 @@ Alcuni interventi sono LIBERI (nessun titolo, comunicazione al Comune): opere in
 - **Applicazioni:** Rimodulazioni interne, aggiornamenti catastali, opere da documentare senza iter completo.
 - **Vantaggi:** Il libero NON significa irregolare: documentare sempre con foto prima/dopo, computo delle opere e dichiarazione del tecnico.
 - **Limiti e attenzioni:** Confondere 'libero' con 'invisibile' è il classico abuso: l'abuso edilizio si configura anche senza opere esterne (es. bagno in zona umida o nuova camera in mansarda).
-- **Costi ed economia:** Costo: nulla per il titolo; variazione catastale: 300-800 € tecnico + diritti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: nulla per il titolo; variazione catastale: 300-800 € tecnico + diritti.
 - **Caso tipico:** Appartamento con cucina spostata in veranda chiusa anni prima: all'atto di vendita, il catastale non quadrava e l'accatastamento richiedeva sanatoria: trattativa con sconto di 25.000 € al compratore per la pratica da fare.
 - **Normativa:** DPR 380/2001 (art. 6); normativa catastale (DPR 223/1989); regolamento DOCFA.
 - **Nota di cantiere:** Domanda obbligatoria per il LLM: 'questo intervento altera struttura, prospetti o destinazioni d'uso?' — le tre risposte decidono la strada.
@@ -1825,7 +1825,7 @@ L'urbanistica italiana si fonda sugli artt. 42 e 44 della Costituzione: propriet
 - **Applicazioni:** Qualsiasi intervento sul territorio: prima di progettare si verifica COSA il piano consente.
 - **Vantaggi:** I principi fermi permettono di interpretare le infinite variabili locali: chi conosce i principi ragiona, chi conosce solo il regolamento del proprio comune resta prigioniero.
 - **Limiti e attenzioni:** La frammentazione normativa (8.000 comuni, 20 regioni) rende la verifica locale sempre indispensabile.
-- **Costi ed economia:** Costo: cultura (zero) o parere urbanistico da tecnico locale: 200-800 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: cultura (zero) o parere urbanistico da tecnico locale: 200-800 €.
 - **Caso tipico:** Operatore che ha verificato solo il regolamento edilizio e non la legge regionale: progetto rifiutato per un vincolo di legge regionale sui corpi soggetti a distanza dalle strade, non presente nel regolamento comunale.
 - **Normativa:** Artt. 42, 44, 117 Cost.; L. 1150/1942; L. 765/1967; L. 241/1990.
 - **Nota di cantiere:** La prima domanda professionale su un terreno: 'cosa dice il piano vigente?' — prima ancora di pensare al progetto.
@@ -1840,7 +1840,7 @@ Il titolo abilitativo dipende dall'intervento: Permesso di costruire (opere nuov
 - **Applicazioni:** Ogni cantiere: la scelta sbagliata del titolo è la causa più comune di abusi edilizi.
 - **Vantaggi:** La tracciabilità delle procedure protegge tutti: un lavoro regolare ha valore legale e vendibile; quello irregolare è un passivo.
 - **Limiti e attenzioni:** I termini e le categorie cambiano per legge regionale: la classificazione dell'intervento va verificata ogni volta, non ricordata.
-- **Costi ed economia:** Costo pratica: onorario tecnico 1.500-6.000 €; diritti comunali: centinaia di euro in genere.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo pratica: onorario tecnico 1.500-6.000 €; diritti comunali: centinaia di euro in genere.
 - **Caso tipico:** Veranda chiusa 'senza permesso, tanto è CILA': in realtà aumentava superficie utile → permesso richiesto → demolizione coatto e sanzione pecuniaria: 40.000 € tra sanzione, demolizione e rifacimento.
 - **Normativa:** DPR 380/2001 (Testo Unico Edilizia); leggi regionali di attuazione; regolamenti edilizi comunali.
 - **Nota di cantiere:** La prima verifica di ogni intervento: classificazione (manutentiva/ordinaria/straordinaria) + destinazione d'uso + rispetto regolamento: questi tre numeri decidono TUTTO il percorso.
@@ -1855,7 +1855,7 @@ La politica urbana nazionale degli ultimi decenni si è concentrata sulla riqual
 - **Applicazioni:** Comuni in difficoltà, aree periferiche degradate, grandi proprietà pubbliche da rilanciare.
 - **Vantaggi:** I programmi integrati funzionano dove il 'fai edilizia e basta' ha fallito: la chiave è il mix fisico + sociale + gestionale.
 - **Limiti e attenzioni:** La fragilità di gestione post-opera lascia molti interventi abbandonati dopo pochi anni: il progetto serio include il piano di gestione.
-- **Costi ed economia:** Investimenti tipici: da milioni a decine di milioni per quartiere, con copertura statale che ha variato dal 50% al 100% secondo i bandi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Investimenti tipici: da milioni a decine di milioni per quartiere, con copertura statale che ha variato dal 50% al 100% secondo i bandi.
 - **Caso tipico:** Quartiere con Bando Periferie: riqualificazione di 12 edilizi, parchi, una casa di quartiere con servizi: dopo 3 anni, la percezione di sicurezza dei residenti è migliorata sensibilmente (rilevazioni comunali) e il mercato immobili locale si è riattivato.
 - **Normativa:** Bando Periferie (DPCM 2016 e ss.); normativa contratti di quartiere; linee guida rigenerazione urbana PNRR.
 - **Nota di cantiere:** Lezione centrale per il LLM: gli edifici non bastano — la rigenerazione vera è fisica + sociale + economica, e dura più della pavimentazione nuova.
@@ -1870,7 +1870,7 @@ Le leggi (DM 1444/1968 e leggi regionali) fissano gli standard minimi di servizi
 - **Applicazioni:** Lottizzazioni, nuovi quartieri, ampliamenti residenziali, trasformazioni edilizie complesse.
 - **Vantaggi:** Gli standard sono il vero costo nascosto delle lottizzazioni: chi li dimentica nel business plan scopre in corso d'opera che il margine è finito nelle aree pubbliche.
 - **Limiti e attenzioni:** I valori standard variano per regione e per tipo di intervento: la verifica è sempre locale.
-- **Costi ed economia:** Impatto tipo: aree pubbliche + contributi = 10-20% della superficie o equivalente monetario (ordine di grandezza, da calcolare caso per caso).
+- **Costi ed economia:** Ordini di grandezza indicativi: Impatto tipo: aree pubbliche + contributi = 10-20% della superficie o equivalente monetario (ordine di grandezza, da calcolare caso per caso).
 - **Caso tipico:** Lottizzazione con business plan senza standards: gli oneri (aree + contributi) hanno assorbito il 22% del valore invece del 12% ipotizzato: margine azzerato e rientro negli anni.
 - **Normativa:** DM 1444/1968 (standards minimi); leggi regionali (valori aggiornati); regolamenti comunali edilizi.
 - **Nota di cantiere:** Domanda da insegnare al LLM: 'in questa commessa, chi paga scuole, verde, strade e parcheggi — e quanto?'
@@ -1885,7 +1885,7 @@ Lo strumento fondamentale è il Piano Strutturale Comunale (PSC, dove adottato) 
 - **Applicazioni:** Verifica di fattibilità di interventi, compravendite, pratiche edilizie, opposizioni a varianti.
 - **Vantaggi:** Le regole scritte del piano sono oggettive: se un progetto rispetta i numeri, il rifiuto deve motivare eccezioni reali, non gusti.
 - **Limiti e attenzioni:** I piani sono spesso datati o inadeguati alla realtà: le varianti sono lente; l'operatore deve saper lavorare anche con strumenti imperfetti (conformità al piano VIGENTE, non a quello 'che dovrebbe arrivare').
-- **Costi ed economia:** Costo verifica urbanistica pre-acquisto: 300-1.000 €; pratica edilizia completa: 1.500-6.000 € onorario tecnico.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo verifica urbanistica pre-acquisto: 300-1.000 €; pratica edilizia completa: 1.500-6.000 € onorario tecnico.
 - **Caso tipico:** Acquisto terreno con 'vista lago' a prezzo pieno: il piano lo classificava zona agricola vincolata (non edificabile): un controllo di 500 € avrebbe risparmiato 300.000 €.
 - **Normativa:** L. 1150/1942 (fondamenti); leggi regionali urbanistiche (una per regione); NTA comunali.
 - **Nota di cantiere:** Regole d'oro: mai comprare su promesse verbali ('il comune fa variante'), mai costruire sul piano che non c'è.
@@ -1900,7 +1900,7 @@ Gli interventi con impatto significativo subiscono la Valutazione di Impatto Amb
 - **Applicazioni:** Infrastrutture, grandi edilizie, opere industriali, modifiche al territorio di rilievo.
 - **Vantaggi:** La VIA fatta bene riduce i ricorsi: le istanze di contrasto si esauriscono nel processo, non nei tribunali anni dopo.
 - **Limiti e attenzioni:** La valutazione è onerosa e incerta: progetti di dubbia qualità ambientale muoiono dopo aver speso centinaia di migliaia di euro di studi.
-- **Costi ed economia:** Costo studi VIA: 20.000-200.000 € a seconda della complessità; tempi totali con iter: 1-3 anni.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo studi VIA: 20.000-200.000 € a seconda della complessità; tempi totali con iter: 1-3 anni.
 - **Caso tipico:** Centro commerciale: la VIA ha imposto compensazioni ambientali (riqualificazione di area retrostante e bonifica) pari al 4% dell'investimento: il progetto è partito con la piena copertura autorizzativa, zero ricorsi.
 - **Normativa:** D.Lgs 152/2006 parte seconda (VIA); D.Lgs 104/2017 (modifiche); linee guida europee (direttiva 2011/92/UE).
 - **Nota di cantiere:** Per il LLM: saper dire 'questo progetto probabilmente richiede VIA, e queste sono le alternative da studiare' è consulenza di alto livello — chi scopre la VIA dopo aver comprato il terreno ha già perso.
@@ -1915,7 +1915,7 @@ Il territorio è attraversato da vincoli sovrapposti: paesaggistico (Codice dei 
 - **Applicazioni:** Qualsiasi intervento edilizio e viario; in Italia il vincolo paesaggistico copre la stragrande maggioranza del territorio (circa il 95% secondo le stime del settore).
 - **Vantaggi:** Conoscere i vincoli PRIMA di comprare o progettare evita due disastri: il progetto impossibile e il terreno invendibile.
 - **Limiti e attenzioni:** La stratificazione rende la verifica complessa: possono esserci più vincoli sovrapposti sullo stesso metro quadro, ognuno con la sua procedura.
-- **Costi ed economia:** Costo verifica completa (geologo + archeologo dove serve + istruttoria): 1.000-8.000 € a seconda dell'intervento.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo verifica completa (geologo + archeologo dove serve + istruttoria): 1.000-8.000 € a seconda dell'intervento.
 - **Caso tipico:** Villa progettata senza verifica archeologica: durante gli scavi emerge strada romana; lavori fermi 8 mesi per scavo preventivo con sorveglianza: costo imprevisto 120.000 € e ritardo analogo.
 - **Normativa:** D.Lgs 42/2004 (Codice beni culturali); D.Lgs 152/2006 (acque, fasce fluviali); direttive reti Natura 2000; leggi regionali paesaggistiche.
 - **Nota di cantiere:** La mappa dei vincoli si verifica SEMPRE per iscritto (visure e carte ufficiali), mai 'a memoria' o 'il geometra di zona dice'.

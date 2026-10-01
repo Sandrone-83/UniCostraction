@@ -205,3 +205,17 @@ Contenuto: 3 corsi nuovi (aeroporti e infrastrutture di volo; porti e opere mari
 | N3 | Precauzione applicata | Numeri che variano per evento o commissario (contributi ricostruzione, premi di urgenza) citati con rimando alle delibere vigenti | Regola del protocollo: senza fonte, nessuna numerazione precisa |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.
+
+## Giro O — 2026-10-01, verifica completa pre-tag v1.2.0 (approvazione esplicita dell'utente)
+
+Batteria di controllo eseguita su tutti i 66 pack (901 schede): validazione JSON, ordine esatto delle 11 chiavi, campi vuoti, normative vuote, nomi duplicati, prefisso costi, marker di bozza, coerenza domande/chiavi dei 67 esami. Esito finale: 0 anomalie residue su tutti i controlli.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| O1 | Normalizzazione | 295 schede storiche con cifre in `costi_e_economia` prive del prefisso regolamentare. Prima: il campo iniziava direttamente con l'elenco prezzi (es. «Fonometro integratore professionale: noleggio 100-300 €/giornato…», «Il cantiere in zona vincolata costa il 20-40% in più.»). Dopo: «Ordini di grandezza indicativi: » premesso in testa al campo. Nessun numero alterato | Regola costi del protocollo (punto 5 del registro): i costi restano «ordini di grandezza indicativi»; modifica puramente formale |
+| O2 | Normalizzazione | Riga vuota rimossa da `FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/schede/schede.jsonl` (righe = schede, nessuna scheda persa) | Controllo JSON: la riga non era un oggetto valido |
+| O3 | Falso positivo chiarito | Marker «TODO» segnalato in ENERGETICA_INCENTIVI_PACK era la sottostringa di «ME**TODO** (documenti, tracciabilità, cumuli)» nella scheda «Le detrazioni fiscali…»: linguaggio corretto, nessuna modifica. Le 46 occorrenze di «da verificare» erano formule tecniche legittime («da verificare sul testo vigente», «da verificare caso per caso», «da verificare di progetto»), non righe non verificate: nessuna modifica | Controllo letterale del testo attorno al marker |
+| O4 | Correzione strutturale | ESAMI/RISANAMENTO: la chiave era assente (277 domande senza risposte). Dopo: esame rigenerato come coppia coerente domande+chiave (277/277) con il driver standard, distrattori pertinenti al solo pack RISANAMENTO_E_RECUPERO_EDILIZIO. Le 277 domande precedenti sono state sostituite dall'istanza coerente | Controllo di coerenza esami: dopo il fix, 67 esami / 17.638 domande tutti allineati domande↔chiavi |
+| O5 | Sicurezza | `RISPOSTE_AURATRIX_1000.md` (chiave del test da 1.000 domande) era tracciato in git su repository pubblica. Dopo: rimosso dal tracciamento (`git rm --cached`), file mantenuto in locale ed escluso dal re-add tramite `.git/info/exclude`. Nota onesta: il file resta visibile nella storia dei commit precedenti fino a un eventuale intervento di riscrizione della storia | Regola esplicita dell'utente: «le risposte le metti, le dai solo a me»; la repository pubblica contraddiceva la regola |
+
+Righe aperte nel giro: nessuna. Il materiale riceve il tag v1.2.0 con l'approvazione esplicita dell'utente (2026-10-01).

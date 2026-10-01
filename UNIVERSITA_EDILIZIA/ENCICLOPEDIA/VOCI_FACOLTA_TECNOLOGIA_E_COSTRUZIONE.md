@@ -175,7 +175,7 @@ I principali strumenti di modellazione: Autodesk Revit (più diffuso, disciplne 
 - **Applicazioni:** Scelta dello strumento in base a: disciplina dominante, ecosistema dello studio, esigenze di computo (integrazione con i prezzari italiani), collaborazione con altri studi.
 - **Vantaggi:** Il tipo giusto dimezza i tempi: chi fa computi in Italia spesso preferisce suite integrate (Edificius/Primus); chi lavora su larga scala internazionale va su Revit; chi fa capannoni metallici su Tekla.
 - **Limiti e attenzioni:** La migrazione tra strumenti a progetto in corso è costosa; i formati nativi non sono interoperabili tra loro (solo via IFC, con perdite).
-- **Costi ed economia:** Licenze: 1.500-3.500 €/anno per posto (Revit/Archicad/Allplan); suite italiane: offerte anche in abbonamento mensile più accessibile; hardware: workstation 2.000-4.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Licenze: 1.500-3.500 €/anno per posto (Revit/Archicad/Allplan); suite italiane: offerte anche in abbonamento mensile più accessibile; hardware: workstation 2.000-4.000 €.
 - **Caso tipico:** Studio di 8 persone passato da CAD 2D a Archicad: le tavole esecutive di una villa sono passate da 6 settimane a 3, e il computo ha smesso di essere la fase 'temuta'.
 - **Normativa:** Nessuna norma sul software; riferimento processi UNI 11337 / ISO 19650.
 - **Nota di cantiere:** Criterio di scelta per il LLM da consigliare: tipo di commessa, ecosistema dei partner, requisiti di gara, budget formazione.
@@ -205,7 +205,7 @@ Il modello arriva in cantiere: sequenze di montaggio 4D (modello + tempi), verif
 - **Applicazioni:** Grand cantieri, edilizia industriale, opere infrastrutturali, coordinamento HSE.
 - **Vantaggi:** Il cantiere vede prima di costruire: sequenze impossibili o pericolose emergono in riunione, non con la gru sul campo.
 - **Limiti e attenzioni:** In cantieri piccoli e artigianali il modello resta poco usato operativemente: serve sforzo di traduzione (tavole semplici dal modello) per non lasciare l'operaio senza documento utilizzabile.
-- **Costi ed economia:** Tablet rugged per cantiere: 300-800 €; software di cantiere BIM: spesso incluso nell'ecosistema licenziato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Tablet rugged per cantiere: 300-800 €; software di cantiere BIM: spesso incluso nell'ecosistema licenziato.
 - **Caso tipico:** Cantiere di un ponte: la sequenza 4D ha mostrato che il getto previsto in settimana 24 avrebbe richiesto il ponteggio già smontato in settimana 22: anticipato di 2 settimane il rifornimento, evitato 10 giorni di fermo macchina.
 - **Normativa:** DM 81/2008 (sicurezza, con l'obbligo della valutazione dei rischi da interferenze); UNI 11337.
 - **Nota di cantiere:** Il principio da insegnare: il modello in cantiere serve se qualcuno LO USA ogni giorno; altrimenti resta un esercizio accademico.
@@ -220,7 +220,7 @@ La verifica automatica delle collisioni tra discipline (clash detection) confron
 - **Applicazioni:** Tutte le commesse BIM con più discipline; in particolare impianti vs strutture in edifici tecnologicamente densi (ospedali, data center, industriali).
 - **Vantaggi:** Sposta il costo dell'errore dalla fase di cantiere (prezzo pieno, ritardi) alla fase di progetto (prezzo quasi nullo): è il business case principale del coordinamento BIM.
 - **Limiti e attenzioni:** Troppi falsi positivi (tolleranze non settate) fanno ignorare il report: calibrare le regole è un mestiere.
-- **Costi ed economia:** Software di coordinamento: da gratuiti/open source a 1.000-3.000 €/anno; il costo vero è il tempo dei progettisti per risolvere.
+- **Costi ed economia:** Ordini di grandezza indicativi: Software di coordinamento: da gratuiti/open source a 1.000-3.000 €/anno; il costo vero è il tempo dei progettisti per risolvere.
 - **Caso tipico:** Data center: il coordinamento BIM degli impianti ha permesso il montaggio 'a secco' di 40 km di canaline senza una sola modifica in cantiere, con il programma rispettato al giorno.
 - **Normativa:** buildingSMART MVD; convenzioni di coordinamento del BEP.
 - **Nota di cantiere:** Metrica da insegnare al LLM: numero di clash aperti per area alla consegna di ogni fase, tendenza a zero prima dell'esecutivo.
@@ -235,7 +235,7 @@ Dal modello BIM si estraggono le quantità (quantity take-off): volumi di muratu
 - **Applicazioni:** Gare d'appalto, contabilità lavori, controllo avanzamento, analisi prezzi unitari.
 - **Vantaggi:** Zero errori di trascrizione: finita la contabilità 'a mano' tra tavole, fogli Excel e Excel; il computo vive col modello e si aggiorna con esso.
 - **Limiti e attenzioni:** Il computo del modello sporco è falsamente preciso: la regola è 'sporco il modello = sporco il computo'; serve un controllo di qualità sulle quantità campione.
-- **Costi ed economia:** Software con prezzari integrati: abbonamenti 50-150 €/mese (Primus, MC4, usBIM); il tempo risparmiato sulla contabilità di commessa ripaga l'abbonamento in genere entro il primo mese.
+- **Costi ed economia:** Ordini di grandezza indicativi: Software con prezzari integrati: abbonamenti 50-150 €/mese (Primus, MC4, usBIM); il tempo risparmiato sulla contabilità di commessa ripaga l'abbonamento in genere entro il primo mese.
 - **Caso tipico:** Contabilità di un cantiere da 2 M€: il computo dal modello con stato avanzamento per oggetti ha ridotto la preparazione dei SAL da una settimana a mezza giornata, con contestazioni azzerate da parte dell'impresa.
 - **Normativa:** UNI 11891 (computo metrico); prezzari ufficiali (DEI, regionali).
 - **Nota di cantiere:** Prima di affidarsi alle quantità del modello: verifica campione manuale su 5-10 voci significative.
@@ -250,7 +250,7 @@ Il digital twin è il gemello digitale dell'edificio in esercizio: modello as-bu
 - **Applicazioni:** Gestioni immobiliari grandi (ospedali, scuole, centri commerciali, gestori di patrimonio), facility management, energy manager.
 - **Vantaggi:** Manutenzione predittiva e meno guasti: si interviene sull'asset giusto al momento giusto; il modello è il 'cervello' dell'edificio per chi lo gestisce.
 - **Limiti e attenzioni:** Costo di presidio dati e sensoristica non banale; twin senza processo di gestione è un modello bello ma inutile.
-- **Costi ed economia:** Sensoristica base: 5-30 €/m²; piattaforme twin: abbonamenti variabili (centinaia di euro/mese); ritorno documentato su grandi patrimoni (riduzione costi gestione 10-20%, stime settoriali).
+- **Costi ed economia:** Ordini di grandezza indicativi: Sensoristica base: 5-30 €/m²; piattaforme twin: abbonamenti variabili (centinaia di euro/mese); ritorno documentato su grandi patrimoni (riduzione costi gestione 10-20%, stime settoriali).
 - **Caso tipico:** Ospedale con twin operativo: il localizzamento guasto da una valvola su modello + storico interventi ha dimezzato i tempi di ripristino del reparto rispetto alla ricerca 'a schemi cartacei'.
 - **Normativa:** UNI EN ISO 19650-3 (fase operativa); COBie (schema dati asset, buildingSMART).
 - **Nota di cantiere:** Il twin si costruisce PRIMA del cantiere (convenzioni sui dati) e si consegna DOPO: chi progetta pensando alla gestione vende un edificio migliore.
@@ -280,7 +280,7 @@ BIM (Building Information Modeling) non è un software: è un metodo di lavoro i
 - **Applicazioni:** Progettazione integrata, gare pubbliche (BIM obbligatorio sopra soglie in Italia dal 2022-2025 con DM 312/2021), gestione e manutenzione.
 - **Vantaggi:** Una fonte unica di verità: fine alle inconsistenze tra tavole; computo metrico e distinta materiali quasi automatici; simulazioni energetiche e strutturali sullo stesso oggetto.
 - **Limiti e attenzioni:** Richiede un cambio organizzativo, non solo tecnico: convenzioni condivise, responsabilità sui dati, formazione; il modello 'sporco' informativamente è peggio di un CAD 2D ben fatto.
-- **Costi ed economia:** Avvio: formazione 3-10 gg/persona; modellazione BIM di un edificio medio costa in genere come il doppio del CAD 2D iniziale, ripagata sulle varianti e sul computo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Avvio: formazione 3-10 gg/persona; modellazione BIM di un edificio medio costa in genere come il doppio del CAD 2D iniziale, ripagata sulle varianti e sul computo.
 - **Caso tipico:** Commessa pubblica con BIM obbligatorio: il computo automatico dal modello ha ridotto da 3 settimane a 2 giorni la redazione della distinta base della gara, con zero errori di trascrizione.
 - **Normativa:** DM 312/2021 (BIM obbligatorio PA); UNI 11337 (informatizzazione processi edilizi).
 - **Nota di cantiere:** Regola: il BIM non sostituisce il progettista che sa costruire — sostituisce la riscrittura dei dati.
@@ -310,7 +310,7 @@ La serie ISO 19650 (derivata dal britannico PAS 1192) definisce il processo: Inf
 - **Applicazioni:** Commesse pubbliche e private organizzate, team multidisciplinari, gestione documentale digitale.
 - **Vantaggi:** Chiarezza contrattuale: ognuno sa cosa deve produrre e chi verifica; lo storico completo dei dati è tracciato e giuridicamente difendibile.
 - **Limiti e attenzioni:** Burocratizzazione eccessiva su commesse piccole: applicare ISO 19650 'light' (EIR di 2 pagine, CDE = cartella condivisa disciplinata) è più efficace del metodo completo su una villetta.
-- **Costi ed economia:** Implementazione CDE: da cartella condivisa (0 €) a piattaforme professionali (5-30 €/utente/mese).
+- **Costi ed economia:** Ordini di grandezza indicativi: Implementazione CDE: da cartella condivisa (0 €) a piattaforme professionali (5-30 €/utente/mese).
 - **Caso tipico:** Commessa ospedaliera: il CDE con stati del dato ha permesso di dimostrare in arbitrato quale versione della sala operatoria era stata approvata e da chi, chiudendo una controversia da 400.000 € in settimane.
 - **Normativa:** UNI EN ISO 19650-1/2 (adottate in Italia); UNI 11337-6 (modello informativo).
 - **Nota di cantiere:** Principio cardine: lo stato del dato nel CDE è più importante del software usato — il WIP non va mai in cantiere.
@@ -325,7 +325,7 @@ Il LOD (Level of Development, standard americano; in Italia spesso 'Level of Det
 - **Applicazioni:** Capitolati informativi, gare BIM, commesse con premi/penali sulla qualità del modello.
 - **Vantaggi:** Il LOD scritto nel contratto rende misurabile la qualità del modello: niente più 'il modello è finito' senza definizione di 'finito'.
 - **Limiti e attenzioni:** Sovradimensionare i LOD costa denaro senza valore: modellare il singolo chiodo a LOD 400 in fase preliminare è spreco.
-- **Costi ed economia:** Modellazione esecutiva di un edificio residenziale: 20-60 €/m² in più rispetto al solo 2D, a seconda del LOD richiesto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Modellazione esecutiva di un edificio residenziale: 20-60 €/m² in più rispetto al solo 2D, a seconda del LOD richiesto.
 - **Caso tipico:** Gara con LOD 300 prescritto: il progettista che consegnava un modello LOD 200 si è visto rigettare la fase progettuale; il criterio LOD ha reso oggettiva la verifica.
 - **Normativa:** UNI EN ISO 19650-1/2 (LOIN); LOD Specification (bimFORUM, uso internazionale).
 - **Nota di cantiere:** Nel contratto BIM: scrivere LOD/LOIN per disciplina e per fase, con verifica puntuale sul campione.
@@ -340,7 +340,7 @@ Lo scan-to-BIM converte la nuvola di punti del rilievo laser in un modello BIM f
 - **Applicazioni:** Ristrutturazioni senza disegni, retrofit energetico, patrimonio storico, verifica deformazioni, impianti su esistente.
 - **Vantaggi:** Il modello dell'esistente alimenta computo, verifiche strutturali ed energetiche con dati veri invece che supposizioni: il preventivo sul serio nasce qui.
 - **Limiti e attenzioni:** La nuvola è infinitamente dettagliata: modellare TUTTO è impossibile; serve una convenzione di semplificazione, altrimenti costi fuori controllo.
-- **Costi ed economia:** Scan-to-BIM: 8-25 €/m² a seconda di LOD e regolarità dell'edificio; edifici storici verso l'alto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Scan-to-BIM: 8-25 €/m² a seconda di LOD e regolarità dell'edificio; edifici storici verso l'alto.
 - **Caso tipico:** Palazzo storico: HBIM con distacchi della malta e umidità mappati sulle pareti ha guidato la scelta di consolidamento senza demolizioni, risparmiando circa il 30% rispetto alla soluzione ipotizzata a tavolino.
 - **Normativa:** UNI 11337; linee guida HBIM per il patrimonio culturale (maturità varia, da verificare caso per caso).
 - **Nota di cantiere:** Da dichiarare sempre nel deliverable: data del rilievo, strumento, tolleranza di rappresentazione — l'as-built di oggi è il riferimento dei lavori di domani.
@@ -730,7 +730,7 @@ La camera è il prodotto dell'albergo: il comfort (il letto, l'insonorizzazione,
 - **Applicazioni:** Nuovi alberghi, ristrutturazioni di camere, standard di catena.
 - **Vantaggi:** La camera 'giusta' fa tornare i clienti: il sonno buono è l'unico prodotto veramente ricordato.
 - **Limiti e attenzioni:** Il design audace invecchia male: le camere 'di moda' richiedono rinnovi ogni 5-7 anni invece che ogni 12-15.
-- **Costi ed economia:** Costi: la camera completa (arredi, bagni, finiture, impianti): 25.000-80.000 € per chiavi? per camera secondo categoria.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la camera completa (arredi, bagni, finiture, impianti): 25.000-80.000 € per chiavi? per camera secondo categoria.
 - **Caso tipico:** Albergo che ha investito in materassi top e insonorizzazione (dopo i reclami): le recensioni sono passate dal 7,8 al 9,2 in un anno con identico design.
 - **Normativa:** Normativa di classificazione regionale (i requisiti minimi); normativa antincendio camere (i rivelatori fumi obbligatori).
 - **Nota di cantiere:** La gerarchia degli investimenti camera: 1) letto e silenzio, 2) bagno e doccia, 3) tecnologia, 4) estetica.
@@ -745,7 +745,7 @@ La cucina professionale (laboratorio + linea di cottura + lavaggio) è un'offici
 - **Applicazioni:** Ristoranti alberghieri, grandi cucine di resort, mense, catering.
 - **Vantaggi:** La cucina efficiente serve 300 coperti con 10 cuochi invece di 15: l'organizzazione dell'ambiente vale quanto il talento.
 - **Limiti e attenzioni:** La ventilazione sottodimensionata rende la cucina infernale e la sala odorata: l'errore più comune e più odiato.
-- **Costi ed economia:** Costi: la cucina professionale attrezzata: 2.000-5.000 €/m² (arredi e macchinari); la cappa aspirante: 3.000-15.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la cucina professionale attrezzata: 2.000-5.000 €/m² (arredi e macchinari); la cappa aspirante: 3.000-15.000 €.
 - **Caso tipico:** Cucina di resort riprogettata con il flusso 'merce → preparazione → cottura → uscita' lineare e l'abbattitore vicino alla linea: i tempi di servizio sono calati del 30% e gli sprechi alimentari del 20%.
 - **Normativa:** Normativa HACCEP (Reg. CE 852/2004); normativa antincendio cucine; normativa igienica regionale.
 - **Nota di cantiere:** La cucina si progetta con lo chef: chi disegna 'una cucina standard' per un ristorante serio paga la variante in corso d'opera.
@@ -760,7 +760,7 @@ L'energia è il secondo costo di un albergo dopo il personale: i consumi (clima,
 - **Applicazioni:** Hotel in gestione, ristrutturazioni energetiche, certificazioni ambientali (Green Key, GSTC).
 - **Vantaggi:** L'hotel efficiente riduce i costi e vende di più (il mercato premia la sostenibilità dichiarata).
 - **Limiti e attenzioni:** L'intervento energetico sbagliato (la pompa di calore malestratificata? il bollitore mal gestito) scontenta ospiti (acqua fredda ai picchi) e spreca comunque.
-- **Costi ed economia:** Costi: il retrofit energetico: 3-8 anni di ritorno secondo gli interventi; le detrazioni fiscali dove applicabili.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: il retrofit energetico: 3-8 anni di ritorno secondo gli interventi; le detrazioni fiscali dove applicabili.
 - **Caso tipico:** Hotel con pompe di calore per ACS, contabilizzatori e LED: i consumi energetici sono calati del 35% in 3 anni; la parte restante (la climatizzazione delle aree comuni) è il prossimo intervento pianificato.
 - **Normativa:** D.Lgs 192/2005 (requisiti energetici); contabilizzazione calore (D.Lgs 102/2014); specifiche settore.
 - **Nota di cantiere:** La domanda annuale del direttore: 'quanto consumiamo per camera occupata?' — il benchmark che guida tutto.
@@ -775,7 +775,7 @@ L'albergo è un edificio-servizio: la parte pubblica (hall, camere, ristoranti, 
 - **Applicazioni:** Alberghi di ogni categoria, resort, B&B di pregio, ostelli moderni.
 - **Vantaggi:** L'albergo efficiente guadagna da dove non si vede: i consumi tagliati, i tempi di cambio camera ridotti, il personale che non si incrocia mai con gli ospiti.
 - **Limiti e attenzioni:** La separazione dei flussi 'costa metratura' (i corridoi di servizio sono spazio non vendibile).
-- **Costi ed economia:** Costi: la componente tecnica (back of house) è il 25-35% della superficie di un albergo ben progettato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la componente tecnica (back of house) è il 25-35% della superficie di un albergo ben progettato.
 - **Caso tipico:** Albergo riorganizzato con il flusso biancheria dedicato (montacarichi e depositi ai piani): i tempi di cambio camera sono calati del 25% e le lamentele per i carrelli nei corridoi azzerate.
 - **Normativa:** Normativa alberghiera (classificazione regionale, requisiti); normativa antincendio e igienica; specifiche delle catene.
 - **Nota di cantiere:** La prima domanda: 'dove dorme l'ospite e dove lavora il personale?' — la mappa che li separa è la pianta vera dell'albergo.
@@ -805,7 +805,7 @@ La lavanderia è il cuore logistico dell'albergo: la biancheria (lenzuola, asciu
 - **Applicazioni:** Alberghi grandi e medi, resort, ospedali (cenni).
 - **Vantaggi:** La lavanderia interna efficiente garantisce l'autonomia (nessun ritardo dell'esterno) e la qualità; quella esternalizzata libera spazio e personale.
 - **Limiti e attenzioni:** La lavanderia mal organizzata è il collo di bottiglia quotidiano: la biancheria manca sempre al momento sbagliato.
-- **Costi ed economia:** Costi: lavanderia industriale attrezzata: 100.000-400.000 €; l'esternalizzazione: 0,8-1,5 €/kg di biancheria.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: lavanderia industriale attrezzata: 100.000-400.000 €; l'esternalizzazione: 0,8-1,5 €/kg di biancheria.
 - **Caso tipico:** Resort con lavanderia riorganizzata su flusso unidirezionale (sporco in entrata, pulito in uscita, mai incroci) e il ripiegatore automatico: il personale della lavanderia è passato da 6 a 4 persone con capacità aumentata.
 - **Normativa:** Normativa igienico-sanitaria; specifiche macchinari; sicurezza (le macchine industriali).
 - **Nota di cantiere:** La regola: la biancheria sporca e quella pulita non si incontrano MAI: la separazione fisica dei flussi è sacra.
@@ -835,7 +835,7 @@ L'albergo è aperto 365 giorni/anno: la manutenzione deve essere programmata, si
 - **Applicazioni:** Gestioni alberghiere di ogni dimensione.
 - **Vantaggi:** L'albergo mantenuto si vede: le recensioni parlano di 'tutto funziona', il valore si mantiene, le ristrutturazioni si rimandano di anni.
 - **Limiti e attenzioni:** La manutenzione 'a emergenza' brucia il personale e uccide le recensioni (la doccia fredda del mattino è il ricordo eterno).
-- **Costi ed economia:** Costi: manutenzione programmata: 3-6% del fatturato o 10-20 €/camera/mese.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: manutenzione programmata: 3-6% del fatturato o 10-20 €/camera/mese.
 - **Caso tipico:** Hotel con il programma di manutenzione digitale (ogni camera ha la sua scheda interventi): le recensioni negative per guasti si sono azzerate in 18 mesi e il costo delle emergenze è calato del 40%.
 - **Normativa:** Nessuna norma cogente specifica; prassi gestionali e assicurative.
 - **Nota di cantiere:** La regola: in alberghiero non esiste 'domani sistemiamo': l'ospite paga per oggi, il guasto va risolto in ore.
@@ -865,7 +865,7 @@ La SPA è il centro di profitto che cresce: il percorso benessere (idromassaggi,
 - **Applicazioni:** Resort, alberghi 4-5 stelle, centri benessere urbani.
 - **Vantaggi:** La SPA vende il fuori stagione: l'hotel di montagna con la SPA piena anche a gennaio, quello di mare a novembre.
 - **Limiti e attenzioni:** La SPA mal gestita (l'acqua fredda, il vapore scarso, il personale assente) è un passivo: il cliente la prova una volta e basta.
-- **Costi ed economia:** Costi: la SPA alberghiera: 1.500-4.000 €/m² (attrezzata); i ricavi: il day-spa pass (50-120 €) e i trattamenti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la SPA alberghiera: 1.500-4.000 €/m² (attrezzata); i ricavi: il day-spa pass (50-120 €) e i trattamenti.
 - **Caso tipico:** Resort con SPA riprogettata (la piscina tecnica con i getti, il percorso caldo-freddo, la zona relax silenziosa): i day-spa pass coprono i costi di gestione e il fatturato dei trattamenti è cresciuto del 40% (il percorso 'scaldato' prepara i clienti ai massaggi).
 - **Normativa:** Normativa antincendio; igiene (le piscine e i bagni di vapore); specifiche settore.
 - **Nota di cantiere:** La SPA è teatro: la scenografia (acqua, vapore, luce, silenzio) deve funzionare tutto insieme, ogni giorno.
@@ -3520,7 +3520,7 @@ I materiali da fonti biologiche crescono rapidi e sequestrano CO2: canapa edile 
 - **Applicazioni:** Isolamenti naturali, interni salubri, architetture a bassissimo impatto, edilizia rurale e ricettiva.
 - **Vantaggi:** L'abitazione in bio-based ha interni di qualità aria superiore (meno emissioni) e comfort igrometrico naturale: il 'muro che respira' non è marketing, è fisica dei materiali.
 - **Limiti e attenzioni:** La variabilità del materiale naturale richiede manifattura esperta: il bambù mal selezionato fessura e infesta; la canapa mal dosata con la calce perde resistenza.
-- **Costi ed economia:** Costi: isolante canapa 20-40 €/m² (comparabile al fibra di legno); bambù strutturale: su preventivo; intonaco terra-calce 20-45 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: isolante canapa 20-40 €/m² (comparabile al fibra di legno); bambù strutturale: su preventivo; intonaco terra-calce 20-45 €/m².
 - **Caso tipico:** Casa in paglia e legno con intonaci terra-calce: consumi riscaldamento ridotti del 70% rispetto al precedente edificio, comfort estivo eccellente senza climatizzazione, interni con qualità dell'aria percepita nettamente superiore dagli abitanti.
 - **Normativa:** Normativa sui materiali da costruzione (reazione al fuoco, emissioni); specifiche dei consorzi di settore (canapa, paglia).
 - **Nota di cantiere:** Il bio-based richiede artigiani formati: il materiale è semplice, la manifattura no.
@@ -3550,7 +3550,7 @@ I calcestruzzi evoluti superano i limiti del materiale classico: UHPC (Ultra Hig
 - **Applicazioni:** Opere sottili (ponti pedonali, coperture leggere), restauri con spessori minimi, elementi di pregio, contesti aggressivi (industria, mare).
 - **Vantaggi:** Il UHPC permette strutture impossibili con il c.a. tradizionale: sezioni sottili, luci maggiori, vita utile enormemente allungata.
 - **Limiti e attenzioni:** Il costo è 5-15 volte il c.a. ordinario: si usa dove il peso e la durata valgono più del prezzo al metro cubo.
-- **Costi ed economia:** Costi: UHPC 1.500-4.000 €/m³ in opera (ordini di grandezza); il c.a. ordinario posato: 100-200 €/m³.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: UHPC 1.500-4.000 €/m³ in opera (ordini di grandezza); il c.a. ordinario posato: 100-200 €/m³.
 - **Caso tipico:** Passerella pedonale in UHPC: sezione di appena 12 cm per una luce di 20 m, posata in due giorni; dopo 8 anni, zero manutenzione e zero degrado visibile.
 - **Normativa:** Norme sui calcestruzzi (EN 206 e specifiche produttori); per UHPC: linee guida e documenti d'applicazione ( SETRA/AFGC di riferimento internazionale).
 - **Nota di cantiere:** La regola: il materiale avanzato si giustifica nel costo del ciclo di vita, non nel prezzo d'acquisto.
@@ -3580,7 +3580,7 @@ Il professionista di fronte all'innovazione usa strumenti: il TRL (Technology Re
 - **Applicazioni:** Selezione materiali per commesse innovative, R&D di prodotto, verifica di promesse commerciali.
 - **Vantaggi:** Il metodo protegge dal marketing: i 'materialetti miracolosi' muoiono di fronte a TRL basso e track record assente.
 - **Limiti e attenzioni:** La cautela eccessiva uccide l'innovazione utile: i materiali nuovi sono necessari (decarbonizzazione): valutarli seriamente, non liquidarli né ingoiarli.
-- **Costi ed economia:** Costi: LCA completa 3.000-15.000 € per prodotto (a carico del produttore); la verifica documentale da parte del progettista: tempo di studio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: LCA completa 3.000-15.000 € per prodotto (a carico del produttore); la verifica documentale da parte del progettista: tempo di studio.
 - **Caso tipico:** Materiale isolante 'rivoluzionario' proposto dal rappresentante: TRL 4, nessuna EPD, track record zero: la verifica ha evitato un cappotto sperimentale su 40 appartamenti; tre anni dopo il prodotto non esiste più.
 - **Normativa:** UNI EN ISO 14040/44 (LCA); regolamento UE 305/2011 (marcatura CE); linee guida TRL (NASA-origin, uso settoriale).
 - **Nota di cantiere:** La frase da insegnare: 'Mi mostri EPD, marcatura CE, casi studio di 5 anni e il costo del ciclo di vita' — quattro richieste che smascherano il 90% delle innovazioni premature.
@@ -3610,7 +3610,7 @@ I materiali 'intelligenti' rispondono all'ambiente: l'aerogel (gel siliceo disid
 - **Applicazioni:** Retrofit di edilizi storici (l'aerogel rispetta gli spessori), climatizzazione passiva (PCM nelle pareti), facciate adattive.
 - **Vantaggi:** L'aerogel risolve l'irrisolvibile: isolare dove non c'è spazio (cornici, volte, sottili spessori) senza alterare le geometrie.
 - **Limiti e attenzioni:** Il costo premium è reale: l'aerogel costa 10-20 volte la lana; i PCM richiedono massicci volumi per un beneficio misurabile.
-- **Costi ed economia:** Costi: aerogel 40-80 €/m²; PCM in malta/gesso: premium 30-60% sul materiale base; i risparmi energetici: da simulazione energetica, non da promesse.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: aerogel 40-80 €/m²; PCM in malta/gesso: premium 30-60% sul materiale base; i risparmi energetici: da simulazione energetica, non da promesse.
 - **Caso tipico:** Restauro di un edificio storico con cappotto interno in aerogel di 15 mm: il dispersions? No: la dispersione è scesa come con 8 cm di lana, le cornici storiche sono intatte e l'U-value ha raggiunto il requisito di legge.
 - **Normativa:** Normativa energetica (D.Lgs 192/2005 s.m.i.); marcatura CE dei materiali da costruzione.
 - **Nota di cantiere:** La domanda: 'quanto vale qui un centimetro di spessore?' — dove vale molto, l'aerogel vince.
@@ -3625,7 +3625,7 @@ I PCM (Phase Change Materials) immagazzinano calore come la ghicciolo? No: come 
 - **Applicazioni:** Edilizi con inerzia termica insufficiente (case in legno, case ligth-weight), climi con escursioni giornaliere marcate, rifugi e locali senza climatizzazione notturna.
 - **Vantaggi:** I PCM migliorano il comfort estivo senza climatizzazione: le temperature picco si abbassano di 2-4 °C negli edifici ben progettati (dati di simulazione e monitoraggio).
 - **Limiti e attenzioni:** Il beneficio è zero se l'edificio è già massiccio o se le escursioni sono piccole: serve il calcolo, non l'entusiasmo.
-- **Costi ed economia:** Costi: intonaco/malta con PCM: +30-60%; pannelli PCM: 50-120 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: intonaco/malta con PCM: +30-60%; pannelli PCM: 50-120 €/m².
 - **Caso tipico:** Casa in legno in clima continentale con intonaco al PCM: le temperature estive interne non superano mai i 27 °C senza aria condizionata (monitoraggio estivo), contro i 31 °C della casa gemella senza PCM.
 - **Normativa:** Normativa energetica (la massa termica entra nei calcoli); specifiche produttori.
 - **Nota di cantiere:** La verità: i PCM sono 'massa termica liquida' portatile: pagano dove la massa vera non si può avere.
@@ -3640,7 +3640,7 @@ Il riciclato avanzato trasforma rifiuti in risorsa strutturale: plastiche ricicl
 - **Applicazioni:** Arredo urbano sostenibile, pavimentazioni esterne, asfalti modificati, elementi di alleggerimento, commesse green con requisiti di riciclato.
 - **Vantaggi:** Il riciclato avanzato chiude il cerchio: meno discarica, meno estrazione, e in molti casi prestazioni migliori (la gomma nell'asfalto silenzia).
 - **Limiti e attenzioni:** Il riciclato mal tracciato è un rischio: plastica senza provenienza certificata, aggregato con gesso o amianto contamina il cantiere e la reputazione.
-- **Costi ed economia:** Costi: arredo in plastica riciclata pari a quello vergine (oggi); l'aggregato riciclato 10-30% in meno del vergine; i premi ESG possono valere più del risparmio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: arredo in plastica riciclata pari a quello vergine (oggi); l'aggregato riciclato 10-30% in meno del vergine; i premi ESG possono valere più del risparmio.
 - **Caso tipico:** Pista ciclabile in asfalto con gomma riciclata: il rumore al passaggio delle bici è ridotto percettibilmente e l'elasticità ha migliorato il comfort; il Comune ha usato il dato per la comunicazione ambientale del bando Europa.
 - **Normativa:** Normative sui materiali riciclati (CTU e linee guida nazionali; marcatura CE dove applicabile); norme ambientali sui rifiuti (D.Lgs 152/2006).
 - **Nota di cantiere:** La regola: il riciclato serio ha certificazione di provenienza e di prestazione: 'è riciclato' non basta.
@@ -3685,7 +3685,7 @@ Il vetro intelligente cambia le facciate: elettrocromico (la trasmissione lumino
 - **Applicazioni:** Facciate di uffici e residenze di pregio, involucri in climi estremi, edilizia ad alta efficienza energetica (facciate dinamiche).
 - **Vantaggi:** La facciata elettrocromica elimina le schermature esterne e ottimizza luce e calore in automatico: comfort e risparmio insieme.
 - **Limiti e attenzioni:** Il costo premium è elevato (2-5 volte il vetro selettivo standard) e la manutenzione elettronica si aggiunge a quella del vetro.
-- **Costi ed economia:** Costi: vetro elettrocromico 250-600 €/m²; fotovoltaico trasparente: su progetto; autopulente: premium 15-30%.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: vetro elettrocromico 250-600 €/m²; fotovoltaico trasparente: su progetto; autopulente: premium 15-30%.
 - **Caso tipico:** Facciata uffici elettrocromica: il disagio abbagliamento scomparso e il fabbisogno di raffreddamento estivo ridotto del 25% rispetto alla simulazione con schermature interne.
 - **Normativa:** Normativa facciate (reazione al fuoco, sicurezza); specifiche produttori; marcatura CE.
 - **Nota di cantiere:** La facciata del futuro non isola: gestisce energia, luce e comfort in tempo reale.
@@ -4075,7 +4075,7 @@ Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tu
 - **Applicazioni:** Fondazioni, elevazioni strutturali, murature, facciate, impianti, opere esterne e drenaggi.
 - **Vantaggi:** Un controllo geometrico rigoroso costa poche ore e previene gli errori più costosi del cantiere (vanimuri storti, quote sbagliate, impianti fuori posto).
 - **Limiti e attenzioni:** Richiede strumenti tarati e personale formato; i laser economici perdono precisione al sole e sulla lunga distanza; nessuno strumento sostituisce la doppia verifica indipendente.
-- **Costi ed economia:** Livello laser rotante professionale: 300-800 €; stazione totale: 5.000-15.000 € (o noleggio 80-150 €/giorno); rilievo topografico di impianto da geometra: 400-900 € a cantiere medio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Livello laser rotante professionale: 300-800 €; stazione totale: 5.000-15.000 € (o noleggio 80-150 €/giorno); rilievo topografico di impianto da geometra: 400-900 € a cantiere medio.
 - **Caso tipico:** Le contese tra impresa e committente su quote e allineamenti si risolvono quasi sempre a favore di chi ha documentato i controlli con rilievi firmati e fotografie datate.
 - **Normativa:** UNI EN 13670 (tolleranze di esecuzione per le strutture in calcestruzzo, valori da verificare), regole della regola dell'arte per le altre lavorazioni; per i rilievi di confine e tracciamenti urbanistici le disposizioni catastali vigenti (da verificare caso per caso).
 - **Nota di cantiere:** Pianta i picchetti di riferimento fuori dal raggio degli scavi e dei mezzi e proteggili con cls e tubo: li userai fino all'ultimo giorno; verifica sempre le diagonali, non solo i lati (un parallelogramma ha i lati giusti e gli angoli sbagliati); prima di ogni getto ripassa le quote degli sbocchi impianti: spostare un attacco di 10 cm dopo il getto costa 50 volte di più. Manodopera: mezza giornata di impianto iniziale e 15-30 minuti di controllo a ogni fase nuova.
@@ -4090,7 +4090,7 @@ Realizzazione completa del tetto a falda: barriera al vapore, isolante, intercap
 - **Applicazioni:** Tetti a falda di edifici residenziali, riqualificazioni energetiche di coperture esistenti.
 - **Vantaggi:** La ventilazione smaltisce calore estivo e umidità residua: allunga la vita del manto e migliora il comfort del sottotetto; sistema riparabile a pezzi.
 - **Limiti e attenzioni:** Costo più alto della copertura non ventilata; i dettagli di camini, lucernari e conversa restano punti critici; in zone nevose servono fermaneve e verifiche dei carichi.
-- **Costi ed economia:** Fornitura+posa pacchetto completo (senza struttura portante): 120-220 €/m2 di falda secondo isolante e manto. Resa: 0,8-1,5 h/m2 per squadra da 2-3.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa pacchetto completo (senza struttura portante): 120-220 €/m2 di falda secondo isolante e manto. Resa: 0,8-1,5 h/m2 per squadra da 2-3.
 - **Caso tipico:** Le indagini sulle muffe dei sottotetti abitati in Italia mostrano quasi sempre barriera vapore assente o interrotta in corrispondenza dei punti luce e dei passaggi impianti.
 - **Normativa:** D.M. 26/6/2015 (trasmittanze minime delle coperture per zona climatica), UNI EN 1991-1-3 (carichi neve) e UNI EN 1991-1-4 (vento) per i fissaggi; norme di prodotto per membrane e manti secondo schede tecniche.
 - **Nota di cantiere:** Ogni foro nella barriera vapore va nastrato: i passaggi di cavi e tubi si fanno con manicotti sigillati, non a strappo; verifica a fine giornata che gronde e colmo siano liberi da scarti e sfridi (la ventilazione nasce lì); in estate non lasciare isolante scoperto sotto il sole pomeridiano: degrada e vola. Manodopera: squadra da 3 fa 25-40 m2/giorno di pacchetto completo su falde regolari.
@@ -4105,7 +4105,7 @@ Realizzazione di intonaci interni ed esterni a più strati (rinzaffo, arriccio, 
 - **Applicazioni:** Finitura di murature interne ed esterne, regolarizzazione di supporti irregolari, fondo per pitture e rivestimenti.
 - **Vantaggi:** Economico, traspirante (soprattutto a base calce), riparabile e compatibile con supporti storici se a base calce.
 - **Limiti e attenzioni:** Tempi di maturazione lunghi tra le mani (giorni, non ore); qualità dipendente dalla mano d'opera; fessura per ritiro se tirato in spessori eccessivi in unica mano.
-- **Costi ed economia:** Fornitura+posa intonaco premiscelato a macchina: 18-28 €/m2; manuale civile: 22-35 €/m2. Resa: 0,2-0,4 h/m2 a macchina, 0,4-0,8 h/m2 manuale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa intonaco premiscelato a macchina: 18-28 €/m2; manuale civile: 22-35 €/m2. Resa: 0,2-0,4 h/m2 a macchina, 0,4-0,8 h/m2 manuale.
 - **Caso tipico:** Nei restauri e nei centri storici italiani l'intonaco a base calce idraulica resta la scelta obbligata per compatibilità con le murature antiche.
 - **Normativa:** UNI EN 998-1 (malte per intonaci interni ed esterni), UNI EN 13914-1 (progettazione ed esecuzione degli intonaci, da verificare l'edizione recepita).
 - **Nota di cantiere:** Bagnare il supporto molto assorbente il giorno prima, non cinque minuti prima (acqua in superficie = distacco); mai intonacare sotto i 5 °C o su supporto gelato; metti rete su ogni raccordo muratura-calcestruzzo e sui passaggi impianti: lì nasce sempre la prima crepa. Manodopera: 25-40 m2/giorno per intonacatore con aiuto a macchina.
@@ -4120,7 +4120,7 @@ Scelta, foratura e installazione di tasselli metallici a espansione, a sottosqua
 - **Applicazioni:** Fissaggio di strutture metalliche, macchinari, parapetti, ponteggi, impianti, rinforzi sismici e connessioni post-installate di armature.
 - **Vantaggi:** Consentono collegamenti strutturali post-installazione senza prevedere inserti nel getto; gli ETA danno valori di carico certificati e calcolabili.
 - **Limiti e attenzioni:** Prestazioni reali molto sensibili alla qualità dell'installazione (pulizia, umidità, temperatura); in muratura piena o forata servono ancoranti specifici e spesso boccole rete; i costi per ancorante certificato sono alti.
-- **Costi ed economia:** Tassello ETA M10-M12: 1-4 € cad.; ancoraggio chimico con resina e tondo: 3-8 € a punto posato; prova di estrazione (pull-out): 40-80 € a prova presso laboratori o tecnici abilitati.
+- **Costi ed economia:** Ordini di grandezza indicativi: Tassello ETA M10-M12: 1-4 € cad.; ancoraggio chimico con resina e tondo: 3-8 € a punto posato; prova di estrazione (pull-out): 40-80 € a prova presso laboratori o tecnici abilitati.
 - **Caso tipico:** Nei cantieri di miglioramento sismico italiani le connessioni post-installate di cordoli e cerchiature sono sistematicamente verificate con prove di estrazione a campione richieste dal direttore lavori.
 - **Normativa:** ETAG 001 / EAD 330232 (tasselli metallici) ed EAD 330499 (ancoranti a resina) per le approvazioni ETA; UNI EN 1992-4 (progettazione dei fissaggi nel calcestruzzo).
 - **Nota di cantiere:** Il foro sporco è il primo nemico della resina: pompetta, scovolo, pompetta, sempre, anche se il foro sembra pulito; scarta i primi 10-15 cm di cartuccia finché il colore non è omogeneo; mai fissare carichi pesanti sull'intonaco o sul rasante del cappotto: il fissaggio deve raggiungere il supporto strutturale con lunghezza utile corretta. Manodopera: 2-5 minuti a tassello meccanico, 8-15 minuti a punto per chimico pulito a regola d'arte.
@@ -4135,7 +4135,7 @@ Posa di membrane bitume-polimero a fiamma su coperture piane o a falda. Errore t
 - **Applicazioni:** Coperture piane praticabili e non, tetti a falda sotto manto discontinuo, impermeabilizzazione di opere interrate (con configurazioni dedicate).
 - **Vantaggi:** Sistema noto, economico, riparabile localmente; le versioni ardesiate proteggono dai raggi UV senza protezioni aggiuntive.
 - **Limiti e attenzioni:** Giunti e dettagli (camini, pluviali, angoli) restano i punti deboli; la fiamma richiede precauzioni antincendio e mano esperta; invecchiamento e ritiro impongono manutenzione programmata.
-- **Costi ed economia:** Fornitura+posa doppio strato su piano: 35-60 €/m2; singolo strato ardesiato su falda: 25-40 €/m2. Resa: 0,25-0,5 h/m2 su superfici libere, molto di più su coperture ricche di emergenze.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa doppio strato su piano: 35-60 €/m2; singolo strato ardesiato su falda: 25-40 €/m2. Resa: 0,25-0,5 h/m2 su superfici libere, molto di più su coperture ricche di emergenze.
 - **Caso tipico:** Tipologia più diffusa nelle coperture piane italiane; i piani di manutenzione dei condomini prevedono tipicamente ricontrollo dei sormonti e riverniciatura protettiva ogni 8-12 anni.
 - **Normativa:** UNI EN 13707 (membrane bituminose per coperture), UNI EN 13956 (membrane plastiche ed elastiche), per i criteri di progetto delle coperture continue fare riferimento alla UNI 11442 (da verificare l'edizione vigente).
 - **Nota di cantiere:** Non fiammare mai su supporto umido o gelato: il vapore fa bolle entro pochi giorni di sole; i dettagli si fanno prima del campo (angoli, bocchettoni, risalite) con pezzi di rinforzo dedicati; chiudi sempre il giorno di lavoro con i sormonti di testa protetti dalla pioggia notturna. Manodopera: squadra da 2-3, 80-150 m2/giorno su piano regolare.
@@ -4150,7 +4150,7 @@ Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatur
 - **Applicazioni:** Bagni, docce a filo pavimento, balconi e terrazzi pavimentati sopra locali abitati, vasche e piscine (con prodotti specifici).
 - **Vantaggi:** Continuità totale senza giunti, ideale su geometrie complesse; aderisce direttamente al supporto e accetta la posa ceramica a colla.
 - **Limiti e attenzioni:** Spessori insufficienti annullano la funzione (prodotto tirato per renderlo); tempi di attesa tra le mani e prima della piastrellatura; le poliuretaniche richiedono supporto asciutto e primer.
-- **Costi ed economia:** Fornitura+posa bagno tipo: 35-60 €/m2 di superficie impermeabilizzata; kit doccia a filo con canalina: 150-400 € a corpo. Resa: 0,3-0,6 h/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa bagno tipo: 35-60 €/m2 di superficie impermeabilizzata; kit doccia a filo con canalina: 150-400 € a corpo. Resa: 0,3-0,6 h/m2.
 - **Caso tipico:** La maggior parte delle infiltrazioni condominiali da balconi in Italia deriva da raccordi non fasciati: le perizie CTU rilevano sistematicamente l'assenza dei pezzi speciali.
 - **Normativa:** UNI EN 14891 (prodotti impermeabilizzanti liquidi applicati sotto piastrellatura ceramica), prescrizioni dei produttori (posa piastrellature su supporti impermeabilizzati).
 - **Nota di cantiere:** Fai la prova di tenuta (piscinatura 24-48 ore con scarichi tappati) PRIMA di posare la ceramica e verbalizzala con foto: è la prova che ti salva in contenzioso; rispetta i consumi in kg/m2, non le mani a occhio; proteggi la membrana dai carrelli durante la posa. Manodopera: un bagno tipo (10-12 m2 impermeabilizzati) prende 1-1,5 giornate tra mani e fasce.
@@ -4165,7 +4165,7 @@ Posa di tubazioni, scatole, cavi e quadri con verifiche di continuità, isolamen
 - **Applicazioni:** Impianti di utilizzazione a 230/400 V in edifici residenziali, terziari e piccoli industriali.
 - **Vantaggi:** La separazione dei circuiti e i differenziali dedicati danno sicurezza e selettività (un guasto non spegne tutto l'appartamento); la posa a regola d'arte consente manutenzione e integrazioni future.
 - **Limiti e attenzioni:** Le tracce nelle strutture esistenti sono invasive e polverose; il costo cresce molto con il numero di punti luce e frutti; richiede personale abilitato e pratica camerale.
-- **Costi ed economia:** Fornitura+posa punto luce/presa: 35-60 € a punto (2025-2026, senza frutti di pregio); appartamento 100 m2 rifacimento completo: 5.000-9.000 €. Resa: 4-8 punti/giorno per elettricista con aiuto in ristrutturazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa punto luce/presa: 35-60 € a punto (2025-2026, senza frutti di pregio); appartamento 100 m2 rifacimento completo: 5.000-9.000 €. Resa: 4-8 punti/giorno per elettricista con aiuto in ristrutturazione.
 - **Caso tipico:** Le verifiche di messa a terra e di isolamento sono obbligatorie nella dichiarazione di conformità italiana: le ditte serie le allegano sempre con i valori strumentali misurati.
 - **Normativa:** CEI 64-8 (impianti utilizzatori a tensione non superiore a 1000 V in c.a.), D.M. 37/2008 (installazione a regola dell'arte, dichiarazione di conformità, obblighi dell'installatore).
 - **Nota di cantiere:** Sfila i cavi PRIMA che il muratore chiuda le tracce e lascia sempre una sonda nei tubi vuoti per il futuro; fotografa le tracce aperte con un metro in vista: tra dieci anni quella foto vale oro; nessuna scatola di derivazione sotto l'intonaco, nemmeno una: usa scatole a scomparsa con coperchio ispezionabile. Manodopera: prevedi 1 giornata per il quadro e le verifiche strumentali a fine lavoro, non è tempo perso.
@@ -4180,7 +4180,7 @@ Posa delle reti di adduzione e scarico interne con collaudo di tenuta prima dell
 - **Applicazioni:** Bagni, cucine, centrali termiche e colonne montanti di edifici residenziali e terziari.
 - **Vantaggi:** I sistemi multistrato e PP riducono i punti di giunzione nascosti e i tempi di posa rispetto al ferro zincato; il collaudo preventivo azzera i contenziosi per infiltrazioni.
 - **Limiti e attenzioni:** Le tracce nelle murature portanti sono limitate (attenzione alla statica); i raccordi nascosti non ispezionabili restano un rischio; il PP dilata molto a caldo e richiede staffaggi e compensazioni corrette.
-- **Costi ed economia:** Fornitura+posa bagno completo di adduzioni e scarichi: 1.500-3.500 € a bagno (senza sanitari); colonna montante condominiale: 80-150 €/m lineare. Resa: 0,5-1 giornata per punto acqua con squadra da 2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa bagno completo di adduzioni e scarichi: 1.500-3.500 € a bagno (senza sanitari); colonna montante condominiale: 80-150 €/m lineare. Resa: 0,5-1 giornata per punto acqua con squadra da 2.
 - **Caso tipico:** Le pratiche assicurative italiane per danni da acqua richiedono sempre la documentazione del collaudo: la mancanza della prova in pressione è la prima contestazione alle imprese.
 - **Normativa:** UNI EN 806 (impianti di adduzione interna, parti 1-5), UNI EN 12056 (impianti di scarico interno), D.M. 37/2008 (dichiarazione di conformità e regola dell'arte).
 - **Nota di cantiere:** Collauda SEMPRE prima di chiudere: lascia l'impianto in pressione almeno 24 ore e fotografa il manometro con data; proteggi gli sbocchi delle tubazioni dalla boiacca con tappi provvisori; le guarnizioni degli scarichi si montano asciutte e pulite, mai forzate: un bicchiere storto di 3 gradi perde dopo un anno. Manodopera: idraulico + aiuto, un bagno tipo in 3-5 giornate complete di tracce e ripristini.
@@ -4195,7 +4195,7 @@ Incollaggio, tassellatura e rasatura armata di pannelli isolanti sulla facciata 
 - **Applicazioni:** Riqualificazione energetica di edifici esistenti e isolamento di nuove costruzioni in laterizio o c.a.
 - **Vantaggi:** Elimina i ponti termici di facciata, migliora il comfort estivo e invernale, protegge la struttura dagli sbalzi termici; intervento cardine dei bonus energetici italiani.
 - **Limiti e attenzioni:** Richiede ponteggio e condizioni meteo favorevoli (5-30 °C, no pioggia); i dettagli di serramenti, balconi e marcapiani sono critici; gli EPS sono sensibili al fuoco in fase di cantiere (stoccaggio e tempi di copertura).
-- **Costi ed economia:** Fornitura+posa EPS 10-14 cm: 70-120 €/m2 di facciata (senza ponteggio, 2025-2026); lana minerale: 90-140 €/m2. Resa: 0,6-1,0 h/m2 comprensiva di rasatura.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa EPS 10-14 cm: 70-120 €/m2 di facciata (senza ponteggio, 2025-2026); lana minerale: 90-140 €/m2. Resa: 0,6-1,0 h/m2 comprensiva di rasatura.
 - **Caso tipico:** Intervento trainante del Superbonus 110% in Italia con migliaia di facciate condominiali riqualificate; i controlli ENEA hanno evidenziato come errori tipici i tasselli non ETA e gli spessori dichiarati non corrispondenti al posato.
 - **Normativa:** ETAG 004 / EAD 040083-00-0404 (kit ETICS e marcatura del sistema), D.M. 26/6/2015 (trasmittanze minime delle pareti), prescrizioni ETA del kit per tasselli e collanti.
 - **Nota di cantiere:** Non rasare mai sotto il sole battente o con vento forte: la rasatura brucia e spolvera; doppia rete negli angoli delle aperture con rinforzi a 45 gradi; stacca i pannelli in corrispondenza dei giunti strutturali e sigilla con giunto di dilatazione, non coprire mai un giunto strutturale con il cappotto continuo. Manodopera: squadra da 3 fa 40-70 m2/giorno di pannellatura, meno sulla rasatura.
@@ -4210,7 +4210,7 @@ Posa di pareti e tramezzi in blocchi di calcestruzzo aerato autoclavato con coll
 - **Applicazioni:** Tramezzi interni portanti e non, tamponamenti termici monostrato, murature portanti di edifici bassi.
 - **Vantaggi:** Elevato isolamento termico in monostrato (lambda tipico 0,09-0,16 W/mK a seconda della densità), leggerezza, velocità di posa (fino a 2-3 volte il laterizio), precisione delle superfici che riduce gli intonaci.
 - **Limiti e attenzioni:** Fragile agli urti in cantiere e ai fissaggi pesanti (servono tasselli specifici); sensibile all'umidità in fase di posa e all'acqua meteorica; fessura facilmente se vincolato rigidamente alla struttura.
-- **Costi ed economia:** Fornitura+posa tramezzo 10 cm: 35-55 €/m2; parete 30 cm: 60-90 €/m2. Resa: 0,25-0,5 h/m2, tra le più alte dei sistemi murari.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa tramezzo 10 cm: 35-55 €/m2; parete 30 cm: 60-90 €/m2. Resa: 0,25-0,5 h/m2, tra le più alte dei sistemi murari.
 - **Caso tipico:** Ampio uso nei condomini in bioedilizia del Nord Europa e in Italia per tamponamenti monostrato in zone con obbligo di alte prestazioni termiche post-Superbonus.
 - **Normativa:** UNI EN 771-4 (blocchi in calcestruzzo aerato autoclavato), UNI EN 1996 (Eurocodice 6), schede tecniche ed ETA del produttore per malte e connettori.
 - **Nota di cantiere:** La prima fila decide tutta la parete: perdi tempo lì e vai veloce dopo; non posare con blocchi bagnati o gelati; proteggi i cantieri aperti dalla pioggia con teli fino al completamento del manto. Fissaggi di pensili e sanitari solo con tasselli chimici o specifici per AAC. Manodopera: 15-25 m2/giorno per squadra da due.
@@ -4225,7 +4225,7 @@ Posa di blocchi in laterizio (pieni, semipieni, forati) con malta a giunti orizz
 - **Applicazioni:** Murature portanti di edifici in muratura, tamponamenti di telai in c.a. o acciaio, tramezzi pesanti.
 - **Vantaggi:** Materiale durevole, buona massa termica e acustica, posa comprensibile a ogni squadra; il laterizio rettificato a letto sottile riduce i ponti termici.
 - **Limiti e attenzioni:** Lenta (rese basse rispetto ai sistemi a secco); sensibile alla pioggia durante la posa (la malta lava); giunti pieni male compromettono resistenza e isolamento acustico.
-- **Costi ed economia:** Fornitura+posa tamponamento forato 25-30 cm: 55-85 €/m2; manodopera sola 25-40 €/m2. Resa: 0,6-1,0 h/m2 con muratore+manovale su pareti correnti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa tamponamento forato 25-30 cm: 55-85 €/m2; manodopera sola 25-40 €/m2. Resa: 0,6-1,0 h/m2 con muratore+manovale su pareti correnti.
 - **Caso tipico:** Nei contenziosi per fessurazioni dei tamponamenti in Italia la causa più frequente rilevata è l'assenza di giunti di scorrimento al raccordo con la struttura e l'ancoraggio rigido eseguito male.
 - **Normativa:** UNI EN 1996-1-1 e 1996-2 (Eurocodice 6, progettazione ed esecuzione murature), UNI EN 771-1 (blocchi in laterizio), UNI EN 998-2 (malte per muratura), NTC 2018 cap. murature.
 - **Nota di cantiere:** Bagna i blocchi molto assorbenti d'estate ma non posarli mai fradici; riempi sempre i giunti verticali premendo la malta, non spalmandola di taglio; lascia 1-2 cm sotto il cordolo o la trave e chiudi dopo 1-2 settimane con malta espansiva o schiuma strutturale. Manodopera: conta 8-12 m2/giorno per squadra da due su pareti dritte e pulite.
@@ -4240,7 +4240,7 @@ Posa flottante o incollata di parquet multistrato e posa incollata di pavimenti 
 - **Applicazioni:** Abitazioni, uffici, alberghi, scuole e sanità (linoleum e LVT per lavabilità e classi d'uso).
 - **Vantaggi:** Comfort di calpestio e acustica al calpestio superiore alla ceramica; posa flottante rapida e reversibile; i resilienti danno continuità igienica senza fughe.
 - **Limiti e attenzioni:** Il legno si muove con l'umidità: ambienti non condizionati o fughe di calore sotto pavimento lo degradano; i resilienti fotografano ogni difetto del sottofondo; sensibili a umidità di risalita senza barriera.
-- **Costi ed economia:** Fornitura+posa parquet multistrato flottante: 60-120 €/m2; incollato: 80-150 €/m2; LVT incollato: 40-75 €/m2. Resa: parquet flottante 0,15-0,3 h/m2, incollato 0,4-0,7 h/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa parquet multistrato flottante: 60-120 €/m2; incollato: 80-150 €/m2; LVT incollato: 40-75 €/m2. Resa: parquet flottante 0,15-0,3 h/m2, incollato 0,4-0,7 h/m2.
 - **Caso tipico:** Standard nei reparti sanitari e scolastici italiani l'uso di linoleum o PVC omogeneo con risalita a zoccolo sanitaria per i protocolli di igienizzazione.
 - **Normativa:** Per i prodotti lignei e resilienti fare riferimento alle norme di prodotto UNI EN pertinenti (parquet, LVT, linoleum) e alle schede del produttore per umidità residua e adesivi: i numeri di norma specifici vanno verificati sull'edizione vigente.
 - **Nota di cantiere:** Nessuna misura dell'umidità = nessuna garanzia: verbalizza il valore di carburo prima di posare e fallo firmare; il parquet su riscaldamento a pavimento richiede ciclo di accensione di prova e spegnimento prima della posa; sotto i mobili fissi e le cucine non incollare mai il flottante. Manodopera: 20-40 m2/giorno per posatore su flottante, 10-20 m2/giorno su incollato.
@@ -4255,7 +4255,7 @@ Posa a colla di piastrelle ceramiche su massetto o autolivellante. Errore tipico
 - **Applicazioni:** Pavimenti e rivestimenti di interni, bagni, balconi, terrazzi, facciate ventilate leggere (con sistemi dedicati).
 - **Vantaggi:** Superficie durevole, igienica, resistente all'acqua e al gelo (gres); manutenzione minima e lunga vita utile.
 - **Limiti e attenzioni:** Rigido: trasmette le fessurazioni del supporto se non si rispettano i giunti; i grandi formati richiedono supporti molto planari e attrezzatura dedicata; posa lenta rispetto ai resilienti.
-- **Costi ed economia:** Fornitura+posa gres formato medio: 45-80 €/m2; grandi formati e mosaici: 70-130 €/m2. Resa: 0,5-1,2 h/m2 secondo formato e schema di posa.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa gres formato medio: 45-80 €/m2; grandi formati e mosaici: 70-130 €/m2. Resa: 0,5-1,2 h/m2 secondo formato e schema di posa.
 - **Caso tipico:** Le perizie su distacchi di pavimenti in Italia citano quasi sempre assenza di giunti perimetrali (pavimento incastrato alle pareti) o doppia spalmatura omessa su 60x120.
 - **Normativa:** prescrizioni dei produttori (progettazione, installazione e manutenzione delle piastrellature ceramiche), UNI EN 12004 (adesivi per piastrellature), UNI EN 13888 (malte per fughe).
 - **Nota di cantiere:** Il supporto comanda: controlla planarità con staggia da 2 m prima di iniziare e correggi con autolivellante, non con la colla tirata a spessori; lascia sempre 5-8 mm a perimetro coperti dal battiscopa; nei bagni la pendenza verso lo scarico si verifica a getto d'acqua prima della fugatura. Manodopera: 8-15 m2/giorno per piastrellista con aiuto su formati medi.
@@ -4270,7 +4270,7 @@ Installazione di finestre e porte esterne con controtelaio, fissaggi meccanici e
 - **Applicazioni:** Sostituzione serramenti in ristrutturazione e posa in nuove costruzioni, anche in foro isolato (posa in filare interno, esterno o centrale).
 - **Vantaggi:** Il giunto a tre livelli elimina infiltrazioni, spifferi e condense sul perimetro: il serramento performante rende solo se la posa è corretta.
 - **Limiti e attenzioni:** Richiede misure al millimetro (rilievo a vano finito) e tempi di produzione lunghi; errore di posa difficilmente correggibile senza smontaggio; nelle ristrutturazioni i ponti termici del nodo spalla-vano restano se non isolati.
-- **Costi ed economia:** Posa qualificata finestra 1-2 ante: 80-150 € a serramento di sola manodopera; fornitura+posa PVC/alluminio taglio termico: 400-900 €/m2 a seconda di prestazioni e vetri.
+- **Costi ed economia:** Ordini di grandezza indicativi: Posa qualificata finestra 1-2 ante: 80-150 € a serramento di sola manodopera; fornitura+posa PVC/alluminio taglio termico: 400-900 €/m2 a seconda di prestazioni e vetri.
 - **Caso tipico:** I contenziosi per condense e infiltrazioni attorno alle finestre in Italia riguardano quasi sempre il giunto di posa, non il serramento: le perizie verificano l'assenza del livello interno di tenuta vapore.
 - **Normativa:** UNI 11673-1 (posa in opera dei serramenti esterni: istruzioni generali e criteri di verifica), UNI EN 14351-1 (marcatura CE di finestre e porte esterne).
 - **Nota di cantiere:** Non fissare mai il telaio appoggiandolo direttamente sul marmo o sul davanzale senza cunei regolabili: si imbarca; controlla la diagonale del vano prima di ordinare (in ristrutturazione i vani sono raramente squadri); la schiuma espandente libera deforma i telai sottili: usa fermi e distanziali fino a maturazione. Manodopera: 2-4 ore per finestra standard con squadra da 2, compreso smaltimento vecchio telaio.
@@ -4285,7 +4285,7 @@ Sigillatura con prodotti elastici di giunti di frazionamento, raccordi tra mater
 - **Applicazioni:** Perimetri serramenti, giunti tra pavimento e parete, facciate e pannelli prefabbricati, sanitari e cucine, giunti di marciapiedi e platee.
 - **Vantaggi:** Costo irrilevante rispetto al danno che previene (infiltrazioni, distacchi); ripristinabile e ispezionabile; ampia gamma di adesioni e colori.
 - **Limiti e attenzioni:** Durata finita (5-15 anni secondo esposizione): è manutenzione programmata, non opera definitiva; adesione nulla su supporti umidi, polverosi o gelati; molti sigillanti non sono verniciabili.
-- **Costi ed economia:** Fornitura+posa: 4-10 €/m lineare secondo larghezza giunto e accessibilità; cartuccia professionale 3-8 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa: 4-10 €/m lineare secondo larghezza giunto e accessibilità; cartuccia professionale 3-8 €.
 - **Caso tipico:** Le infiltrazioni ai perimetri finestra nelle perizie italiane si risolvono nel 90% dei casi rifacendo la sigillatura con cordolo e prodotto neutro a regola d'arte, senza toccare il serramento.
 - **Normativa:** ISO 11600 (classificazione sigillanti elastici per edilizia), UNI EN 15651 (sigillanti per usi non strutturali in edilizia, parti 1-4, marcatura CE).
 - **Nota di cantiere:** Il giunto si progetta, non si improvvisa: larghezza minima 6 mm e massima circa 25-30 mm per i sigillanti correnti, oltre servono sistemi diversi; sgrassa i lati con solvente compatibile e lascia evaporare; tira la conca con spatolina e acqua saponata subito dopo l'estrusione, mai dopo la pellicola. Manodopera: 20-40 m lineari/ora su giunti preparati, la metà se devi prima rimuovere il vecchio sigillante.
@@ -4300,7 +4300,7 @@ Montaggio di orditure metalliche e lastre di gesso rivestito per pareti non port
 - **Applicazioni:** Divisioni interne non portanti, contropareti impiantistiche, controsoffitti tecnici, correzioni acustiche e termiche di facciata dall'interno.
 - **Vantaggi:** Velocissimo, pulito, leggero (15-30 kg/m2 contro 100-200 delle murature), ideale per ristrutturazioni e per integrare impianti e isolante.
 - **Limiti e attenzioni:** Portata ai carichi sospesi limitata (servono rinforzi in lastre doppie o traverse dove previsti pensili); sensibile all'umidità persistente se non si usano lastre idrofughe; acustica mediocre se eseguito in lastra singola senza lana.
-- **Costi ed economia:** Fornitura+posa controparete singola lastra per lato con lana: 35-55 €/m2; doppia lastra acustica: 50-75 €/m2; controsoffitto: 30-50 €/m2. Resa: 0,35-0,6 h/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa controparete singola lastra per lato con lana: 35-55 €/m2; doppia lastra acustica: 50-75 €/m2; controsoffitto: 30-50 €/m2. Resa: 0,35-0,6 h/m2.
 - **Caso tipico:** Sistema dominante nelle ristrutturazioni di uffici, alberghi e ospedali in Italia per la velocità di cantiere e la facilità di ispezione impiantistica.
 - **Normativa:** UNI 11424 (posa in opera di sistemi non portanti in lastre di gesso rivestito), classificazioni di reazione e resistenza al fuoco secondo le prove di sistema del produttore.
 - **Nota di cantiere:** Le crepe nascono agli angoli delle aperture: lì la lastra non va mai giuntata, tagliala a L attorno allo spigolo; nastro antirumore sotto le guide sempre, anche quando non richiesto: costa pochi euro e salva l'acustica; chiudi gli attacchi a pavimento solo dopo la posa dei pavimenti per non intrappolare acqua di cantiere. Manodopera: squadra da 2 fa 30-60 m2/giorno di parete semplice.
@@ -4315,7 +4315,7 @@ Posa di travetti, pignatte, armature integrative e getto della soletta di comple
 - **Applicazioni:** Solai intermedi e di copertura di edifici residenziali e terziari; adattabile a piante irregolari.
 - **Vantaggi:** Economico, flessibile in pianta, tecnologia nota a ogni impresa italiana, buon comportamento al fuoco della soletta continua.
 - **Limiti e attenzioni:** Peso proprio elevato rispetto ai solai in legno o a secco; vulnerabile in zona sismica se privo di cordoli e collegamenti efficaci; tempi legati alla maturazione del getto.
-- **Costi ed economia:** Fornitura+posa completa (travetti, pignatte, ferro, getto): 55-90 €/m2 a seconda di luce e carichi. Resa posa a secco: 60-100 m2/giorno per squadra da 3; getto soletta: 150-300 m2/giorno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa completa (travetti, pignatte, ferro, getto): 55-90 €/m2 a seconda di luce e carichi. Resa posa a secco: 60-100 m2/giorno per squadra da 3; getto soletta: 150-300 m2/giorno.
 - **Caso tipico:** Tipologia dominante nel costruito residenziale italiano dal dopoguerra a oggi; le verifiche sismiche di edifici esistenti ne controllano rigidezza e ammorsamento ai muri portanti.
 - **Normativa:** NTC 2018 (requisiti geometrici e verifiche solai), UNI EN 1992-1-1, UNI EN 15037 (sistemi di solaio prefabbricati con blocchi di alleggerimento).
 - **Nota di cantiere:** Prima del getto fai camminare solo i punti appoggiati sui travetti e posa passerelle; i ferri superiori sulle travi si reggono con distanziali a sedia, non a mano; vibra con ago piccolo e tocca leggero per non spaccare le pignatte. Controlla che lo scarico della pompa non cada sempre nello stesso punto. Manodopera: 0,15-0,30 h/m2 complessivi tra posa e assistenza al getto.
@@ -4330,7 +4330,7 @@ Sottofondi autolivellanti cementizi o a base anidrite per regolarizzare supporti
 - **Applicazioni:** Ristrutturazioni con tempi rapidi, regolarizzazione prima di LVT, resine, parquet incollato, copertura di pavimenti radianti a basso spessore.
 - **Vantaggi:** Velocità di cantiere altissima (300-500 m2/giorno con pompa), planarità eccellente, pedonabilità in 3-24 ore secondo prodotto.
 - **Limiti e attenzioni:** Costo del materiale 3-5 volte il massetto tradizionale; sensibile all'umidità residua del supporto (rischio bolle e distacchi); non dà pendenze: serve un supporto già in quota.
-- **Costi ed economia:** Consumo tipico 1,5-1,7 kg/m2 per mm di spessore; fornitura+posa 3-10 mm: 15-28 €/m2 tutto compreso.
+- **Costi ed economia:** Ordini di grandezza indicativi: Consumo tipico 1,5-1,7 kg/m2 per mm di spessore; fornitura+posa 3-10 mm: 15-28 €/m2 tutto compreso.
 - **Caso tipico:** Standard nelle riqualificazioni di uffici e retail con riapertura rapida; largo uso nei cantieri con pavimento radiante a secco o basso spessore.
 - **Normativa:** UNI EN 13813 (classificazione dei massetti), schede tecniche e DoP del produttore; per anidrite in ambienti umidi attenersi alle prescrizioni del produttore.
 - **Nota di cantiere:** Il primer non è opzionale: su supporti assorbenti dai due mani, su non assorbenti quella aggrappante; chiudi le fughe e i fori del supporto o l'autolivellante scappa di sotto; lavora a temperatura 5-30 °C e senza correnti d'aria forti che screpolano la superficie. Manodopera: 0,03-0,08 h/m2 con pompa, ma prevedi mezza giornata di preparazione del supporto.
@@ -4345,7 +4345,7 @@ Realizzazione di sottofondi aderenti o galleggianti con malta sabbia-cemento a c
 - **Applicazioni:** Sottofondi per pavimenti in ceramica, pietra, parquet e resina; pendenze su terrazzi; copertura di impianti a pavimento (con spessori e additivi dedicati).
 - **Vantaggi:** Economico, robusto, adattabile a ogni quota e pendenza; compatibile con quasi tutti i rivestimenti dopo maturazione.
 - **Limiti e attenzioni:** Maturazione lenta (circa 1 cm/settimana per l'essiccazione): ritardi di cronoprogramma se non si usano premiscelati rapidi; qualità molto dipendente dalla mano d'opera; non autolivellante.
-- **Costi ed economia:** Fornitura+posa: 18-30 €/m2 per 5 cm tradizionale; premiscelato in sacco o con pompa: 22-35 €/m2. Resa: 100-200 m2/giorno per squadra da 3-4 con premiscelato pompato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+posa: 18-30 €/m2 per 5 cm tradizionale; premiscelato in sacco o con pompa: 22-35 €/m2. Resa: 100-200 m2/giorno per squadra da 3-4 con premiscelato pompato.
 - **Caso tipico:** Nei cantieri di ristrutturazione condominiale italiana il massetto galleggiante su materassino acustico è lo standard per rispettare i requisiti acustici D.P.C.M. 5/12/1997.
 - **Normativa:** UNI EN 13813 (massetti e materiali per massetti: classi di resistenza a compressione e flessione); requisiti del sottofondo per piastrellature secondo prescrizioni dei produttori (collanti UNI EN 12004).
 - **Nota di cantiere:** La prova vera è il carburo di calcio: ceramica sotto il 2% di umidità residua, parquet e resilienti sotto 1,5-2% (valori di prassi: verificare le schede del produttore del rivestimento); stendi fogli di polietilene tra massetto e isolante solo se previsto come barriera scivolo; spolvera cemento a secco sulla superficie solo se richiesto e mai come rimedio a eccesso d'acqua. Manodopera: 0,15-0,30 h/m2.
@@ -4360,7 +4360,7 @@ Allestimento, puntellamento e rimozione dei casseri per getti verticali e orizzo
 - **Applicazioni:** Pilastri, pareti, travi e solai gettati in opera; opere di fondazione e platee.
 - **Vantaggi:** Casseri rigidi e ben puntellati danno superfici regolari (finitura faccia a vista possibile) e riducono le spese di rasatura e ripristino.
 - **Limiti e attenzioni:** Voce di costo rilevante (ammortamenti, noleggi, manodopera di carpenteria); errori di puntellamento generano frecce eccessive e fessurazioni; il riutilizzo eccessivo di pannelli usurati peggiora il finito.
-- **Costi ed economia:** Casseratura+disarmo: 25-45 €/m2 di superficie casserata per strutture correnti; il cassero incide tipicamente per il 30-40% sul costo della struttura in c.a. Produttività: 0,4-0,9 h/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Casseratura+disarmo: 25-45 €/m2 di superficie casserata per strutture correnti; il cassero incide tipicamente per il 30-40% sul costo della struttura in c.a. Produttività: 0,4-0,9 h/m2.
 - **Caso tipico:** Nei crolli in cantiere durante i getti di solai, le indagini italiane rilevano quasi sempre puntellamenti insufficienti o ri-puntellamenti fatti male sui piani inferiori.
 - **Normativa:** UNI EN 13670 (classi di finitura e tempi minimi di disarmo in funzione di temperatura e tipo di cemento), D.Lgs 81/2008 Titolo IV (ponteggi e opere provvisionali, da verificare per il dettaglio dei capitoli).
 - **Nota di cantiere:** Prima del getto lava il fondo dei casseri e chiudi le aperture di pulizia solo a fine lavaggio; tira i puntelli solo quando il progetto o il direttore lavori lo autorizza, mai a occhio; ri-puntella sempre il solaio sottostante se getti in successione rapida. Manodopera: prevedi 2 carpentieri per 15-25 m2/giorno su pareti semplici.
@@ -4375,7 +4375,7 @@ Operazioni di getto, costipamento con vibratore a immersione e maturazione umida
 - **Applicazioni:** Fondazioni, pilastri, pareti, solai pieni e solette di completamento di solai in laterocemento.
 - **Vantaggi:** Getto continuo ben vibrato garantisce omogeneità, durabilità e assenza di nidi di ghiaia; la maturazione corretta riduce il ritiro e la fessurazione precoce.
 - **Limiti e attenzioni:** Getti interrotti male generano riprese fredde deboli; temperatura sotto 5 °C o sopra 30 °C richiede precauzioni speciali; l'aggiunta d'acqua in cantiere per recuperare lavorabilità degrada resistenza e durabilità.
-- **Costi ed economia:** Fornitura+getto con pompa: 120-180 €/m3 di getto in opera (2025-2026, cls ordinario); squadra tipo 4-6 persone con produzione 15-30 m3/h con pompa. Un ripristino di nidi di ghiaia costa 40-80 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fornitura+getto con pompa: 120-180 €/m3 di getto in opera (2025-2026, cls ordinario); squadra tipo 4-6 persone con produzione 15-30 m3/h con pompa. Un ripristino di nidi di ghiaia costa 40-80 €/m2.
 - **Caso tipico:** Nei cantieri di opere pubbliche italiane il direttore lavori prescrive controlli di accettazione sul conglomerato (prelievi per cubetti/cilindri) a ogni fornitura significativa, come da prassi contabile NTC 2018.
 - **Normativa:** UNI EN 206 (specificazione e conformità), UNI EN 13670 (esecuzione strutture in calcestruzzo), NTC 2018 D.M. 17/1/2018 (controlli di accettazione).
 - **Nota di cantiere:** Non gettare mai da altezza libera superiore a circa 1,5 m senza tubo di scarico; vibra fino a che la superficie diventa lucida e senza bolle, poi estrai lentamente; copri il getto con teli bagnati o geomembrana e tienilo umido: la prima fessura da ritiro si vede entro 24-48 ore. Manodopera: 0,8-1,5 h/m3 per getti correnti con pompa.
@@ -4390,7 +4390,7 @@ Taglio, piegatura e posa delle barre B450C con rispetto dei copriferri di proget
 - **Applicazioni:** Tutte le strutture in calcestruzzo armato: fondazioni, cordoli, pilastri, travi, solai.
 - **Vantaggi:** Il copriferro corretto è la prima protezione contro carbonatazione e corrosione: garantisce la vita utile di progetto senza costi aggiuntivi rilevanti.
 - **Limiti e attenzioni:** Armature dense rendono difficile il passaggio del vibratore; distanziali insufficienti o di scarsa qualità cedono sotto i piedi degli operatori; la fase è lenta e poco meccanizzabile.
-- **Costi ed economia:** Lavorazione e posa ferro d'armatura: 0,50-0,90 €/kg (2025-2026); produttività 80-150 kg/giorno per carpentiere su strutture correnti, meno su nodi complessi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Lavorazione e posa ferro d'armatura: 0,50-0,90 €/kg (2025-2026); produttività 80-150 kg/giorno per carpentiere su strutture correnti, meno su nodi complessi.
 - **Caso tipico:** Nelle verifiche in corso d'opera del collaudatore statico in Italia la posa armature è la fase che richiede obbligatoriamente la documentazione fotografica prima del getto.
 - **Normativa:** NTC 2018 (copriferri e ancoraggi), UNI EN 1992-1-1 (Eurocodice 2), UNI EN 13670 (esecuzione e tolleranze).
 - **Nota di cantiere:** Fotografa ogni armatura prima di chiudere i casseri: è la tua assicurazione. Controlla che i distanziali siano appoggiati sul cassero e non sul terreno o sull'armatura sottostante; le staffe vanno legate strette o si aprono in getto. Manodopera: prevedi un carpentiere + aiuto per ogni 100 kg/giorno su lavori semplici.
@@ -5010,7 +5010,7 @@ La facciata continua (curtain wall) è il sistema a montanti e traversi in allum
 - **Applicazioni:** Uffici, direzioni, sedi istituzionali, alberghi moderni, centri commerciali.
 - **Vantaggi:** La facciata continua libera l'architettura: superfici vetrate continue senza spalle di interruzione, con prestazioni controllate.
 - **Limiti e attenzioni:** La manutenzione delle facciate continue è specializzata e costosa: i guasti ai siliconi dopo 15-20 anni richiedono rifacimenti parziali con piattaforme.
-- **Costi ed economia:** Costi: facciata continua 700-1.500 €/m² installata (ordini di grandezza, molto variabile).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: facciata continua 700-1.500 €/m² installata (ordini di grandezza, molto variabile).
 - **Caso tipico:** Sede direzionale con facciata unitized: il montaggio ha richiesto metà del tempo della facciata stick comparabile, con qualità di tenuta superiore verificata in prova camino? No: verificata in prova di tenuta in cantiere.
 - **Normativa:** Normativa facciate (reazione al fuoco, sicurezza strutturale vetri); specifiche sistemi; UNI sui vetri strutturali.
 - **Nota di cantiere:** La facciata continua si progetta con il facciatista (sistema, nodi, vetri) dall'inizio: chi la 'disegna' dopo dal generale paga di ritardi e varianti.
@@ -5025,7 +5025,7 @@ I serramenti durano decenni se mantenuti: le guarnizioni (gomme che invecchiano)
 - **Applicazioni:** Condomini, case private, gestioni patrimoniali, manutenzione programmata.
 - **Vantaggi:** La manutenzione costa il 5% del valore del serramento l'anno e ne raddoppia la vita: il conto più semplice dell'edilizia.
 - **Limiti e attenzioni:** I serramenti 'mai toccati in 20 anni' richiedono la sostituzione totale mentre quelli mantenuti bastava riverniciare.
-- **Costi ed economia:** Costi: manutenzione annua: 5-15 €/finestra; guarnizioni: 5-10 €/m; riverniciatura legno: 30-80 €/anta.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: manutenzione annua: 5-15 €/finestra; guarnizioni: 5-10 €/m; riverniciatura legno: 30-80 €/anta.
 - **Caso tipico:** Portoncino in legno riverniciato ogni 5 anni: a 30 anni è ancora perfetto; il portoncino identico del condominio vicino 'mai toccato': sostituito a 14 anni per marciume ai ferri.
 - **Normativa:** Nessuna norma cogente; prassi produttori e manutentori.
 - **Nota di cantiere:** La frase da insegnare: il serramento è come la macchina: il tagliando costa poco, il motore fuso costa tutto.
@@ -5040,7 +5040,7 @@ Il telaio del serramento si sceglie per durabilità, isolamento, manutenzione e 
 - **Applicazioni:** Finestre e portefinestre residenziali, facciate continue, portoni, serramenti per edilizia pubblica.
 - **Vantaggi:** Il serramento giusto dura 30-50 anni e taglia i consumi del 20-40% rispetto a infissi vecchi: è tra gli investimenti con il ritorno più rapido nell'edilizia esistente.
 - **Limiti e attenzioni:** Il PVC lasciato al sole estivo si scalda e può deformare in luce; l'alluminio senza taglio termico condensa invernale; il legno trascurato marcisce ai ferri.
-- **Costi ed economia:** Costi indicativi serramento completo: PVC 180-350 €/m², alluminio taglio termico 300-600 €/m², legno 400-900 €/m², misto 500-1.000 €/m², posa inclusa circa.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi indicativi serramento completo: PVC 180-350 €/m², alluminio taglio termico 300-600 €/m², legno 400-900 €/m², misto 500-1.000 €/m², posa inclusa circa.
 - **Caso tipico:** Sostituzione serramenti in appartamento anni '70 (da vetro singolo a doppio con taglio termico): consumo riscaldamento ridotto del 28% misurato sulle bollette, eliminata la condensa mattutina sui vetri.
 - **Normativa:** UNI EN 14351-1 (finestre: marcatura CE, prestazioni); UNI 11673 (installazione); leggi regionali sui requisiti energetici.
 - **Nota di cantiere:** Domanda guida: esposizione al sole, budget, manutenzione che il cliente farà DAVVERO — le tre risposte scelgono il materiale.
@@ -5055,7 +5055,7 @@ Gli oscuranti esterni sono la prima schermatura solare: persiane (tradizione ita
 - **Applicazioni:** Residenze, uffici con vetrature esterne, edilizia climatica calda, ristrutturazioni energeticamente rilevanti.
 - **Vantaggi:** La schermatura esterna vale più del vetro selettivo sul caldo estivo: blocca il sole PRIMA del vetro, il metodo più efficace in assoluto.
 - **Limiti e attenzioni:** Le tapparelle chiuse d'estate isolano ma oscurano: il compromesso luce/calore va gestito (lamelle orientabili come via di mezzo).
-- **Costi ed economia:** Costi: tapparella coibentata 80-200 €/m², persiane alluminio 100-250 €/m², frangisole orientabili 200-500 €/m², motorizzazione +150-400 € per punto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: tapparella coibentata 80-200 €/m², persiane alluminio 100-250 €/m², frangisole orientabili 200-500 €/m², motorizzazione +150-400 € per punto.
 - **Caso tipico:** Ufficio vetrato con frangisole orientabili motorizzati a sensori solari: il calore estivo in vena? No: in facciata è sceso del 60%, la luce naturale resta gestita e i consumi di climatizzazione estiva sono calati di un terzo.
 - **Normativa:** Nessuna norma cogente specifica (salvo requisiti energetici che li premiano); marcatura CE degli oscuranti.
 - **Nota di cantiere:** Regole climatiche: al sud e nelle vetrature grandi la schermatura esterna è obbligatoria 'di fatto' per il comfort estivo; progettarla SEMPRE insieme ai serramenti, non dopo.
@@ -5070,7 +5070,7 @@ Le porte sono funzione e sicurezza: interne (legno, vetro, laminato), blindate (
 - **Applicazioni:** Ogni edificio: abitazioni, uffici, locali pubblici, alberghi, ospedali.
 - **Vantaggi:** La porta giusta nel punto giusto: la blindata sul perimetro, la tagliafuoco nei compartimenti, la silenziosa in camera da letto: dettaglio che cambia la vita quotidiana.
 - **Limiti e attenzioni:** La porta tagliafuoco tenuta aperta con un cuneo (per comodità) annulla la compartimentazione: è la violazione più comune e più pericolosa.
-- **Costi ed economia:** Costi: porta interna 150-600 € (su misura 800-2.500 €), blindata 800-3.000 €, tagliafuoco 400-1.200 €, automatica 2.000-10.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: porta interna 150-600 € (su misura 800-2.500 €), blindata 800-3.000 €, tagliafuoco 400-1.200 €, automatica 2.000-10.000 €.
 - **Caso tipico:** Albergo con porte tagliafuoco con chiudiporta a scomparsa (a norma e silenziose): in emergenza tutte chiuse; il cliente abituato agli alberghi 'con i cunei' ha apprezzato l'attenzione alla sicurezza reale.
 - **Normativa:** UNI EN 1627 (resistenza effrazione); UNI EN 1634 (tagliafuoco porte); UNI EN 16005 (porte automatiche).
 - **Nota di cantiere:** La porta si sceglie per percorso: dove passa chiunque (pubblico) va robusta e automatica, dove dorme qualcuno va silenziosa, dove divide il fuoco va certificata.
@@ -5085,7 +5085,7 @@ Il miglior serramento del mondo installato male è una perdita di denaro: la pos
 - **Applicazioni:** Installazione di infissi nuovi, sostituzione in ristrutturazione, posa in edilizia nuova con cassero.
 - **Vantaggi:** La posa certificata vale quanto il serramento: l'installazione a regola d'arte elimina le condense, le spifferate e le infiltrazioni che umiliano i serramenti belli.
 - **Limiti e attenzioni:** La sostituzione 'frettolosa' (serramento misurato a occhio, schiuma ovunque, niente tenuta esterna) produce muffa ai lati in 2 inverni.
-- **Costi ed economia:** Costo posa: 60-150 €/infisso (o 15-25% del valore serramento); la certificazione di posa UNI 11673: richiesta al posatore.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo posa: 60-150 €/infisso (o 15-25% del valore serramento); la certificazione di posa UNI 11673: richiesta al posatore.
 - **Caso tipico:** Sostituzione serramenti con fascia perimetrale a tenuta e prova doccia: dopo 3 inverni, zero infiltrazioni e zero condensa; il condominio vicino con posa 'classica' ha rifatto i davanzali umidi di 6 appartamenti.
 - **Normativa:** UNI 11673 (installazione serramenti: livelli di esecuzione); UNI 11425 (posa a regola d'arte); libretto di posa.
 - **Nota di cantiere:** Fermo al cantiere: nessun serramento si consegna senza il libretto di posa compilato e la prova di tenuta.
@@ -5145,7 +5145,7 @@ Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + inte
 - **Applicazioni:** Ogni finestra: la scelta vetro dipende da esposizione (sud freddo: selettivo alto g; sud caldo: selettivo basso g) e da vincoli di sicurezza (porte, finestre basse, balaustre).
 - **Vantaggi:** Il vetro giusto fa più dell'isolante del muro: un buon vetro camera vale quanto 20 cm di cappotto sulla superficie vetrata.
 - **Limiti e attenzioni:** Il triplo non sempre paga: in climi miti il beneficio rispetto al doppio è modesto e l'aumento di peso/costo è reale.
-- **Costi ed economia:** Delta costo: da vetro singolo a doppio basso emissivo: +40-80 €/m² di vetro; il triplo: altri +30-60 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Delta costo: da vetro singolo a doppio basso emissivo: +40-80 €/m² di vetro; il triplo: altri +30-60 €/m².
 - **Caso tipico:** Vetrata sud-est con vetro selettivo a basso g: la sovratemperatura estiva interna è scomparsa senza schermature esterne; la vetrata gemella a vetro standard aveva reso la stanza inutilizzabile dalle 14 alle 18 in estate.
 - **Normativa:** UNI EN 674/675/676 (metodi prova Ug); UNI EN 1279 (vetro camera durabilità); UNI EN 12150/14449 (temperato/stratificato).
 - **Nota di cantiere:** La domanda non è 'quanto costa il vetro?' ma 'quanto calore entra ed esce da questo vetro in questa esposizione?'
@@ -5165,7 +5165,7 @@ Ogni attraversamento della copertura è un potenziale punto di infiltrazione: ca
 - **Applicazioni:** Coperture con camini e velux (sottotetti abitabili), impianti fotovoltaici su falda, lucernari su coperture piane.
 - **Vantaggi:** Gli attraversamenti ben dettagliati sono invisibili e secchi per decenni: sono il 20% della copertura e l'80% dei problemi.
 - **Limiti e attenzioni:** Il foro 'sistemato col silicone' nel manto di copertura è un conto alla rovescia: il silicone muore in 5-10 anni.
-- **Costi ed economia:** Costo dettagli: la pezza speciale costa poco (50-200 €), rifare l'interno di una stanza dopo l'infiltrazione costa migliaia.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo dettagli: la pezza speciale costa poco (50-200 €), rifare l'interno di una stanza dopo l'infiltrazione costa migliaia.
 - **Caso tipico:** Sottotetto con 6 velux posati con collari integrati: dopo 8 anni zero infiltrazioni; il sottotetto gemello con finestre 'adattate' dal posatore ha chiuso 4 finestre per infiltrazioni dopo 3 inverni.
 - **Normativa:** Buona pratica costruttiva e istruzioni produttori; le verifiche in collaudo copertura.
 - **Nota di cantiere:** La domanda di cantiere: 'da dove passa l'acqua se batte qui?' — se la risposta è il silicone, fermare il lavoro.
@@ -5225,7 +5225,7 @@ La copertura a falda (inclinazione minima 15-20° per tegole) protegge l'edifici
 - **Applicazioni:** Case, villette, coperture di pregio, edilizia residenziale con sottotetto abitabile.
 - **Vantaggi:** La falda ben fatta dura 50+ anni: il manto si sostituisce, la struttura resta.
 - **Limiti e attenzioni:** I punti deboli sono i dettagli: ricorsi (colmo), gronde, attraversamenti (camini, antenne), dove l'acqua si ferma o risale.
-- **Costi ed economia:** Costo copertura a falda completa: 120-250 €/m² (manto e struttura accessoria); la sola sostituzione manto: 60-120 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo copertura a falda completa: 120-250 €/m² (manto e struttura accessoria); la sola sostituzione manto: 60-120 €/m².
 - **Caso tipico:** Copertura rifatta con sottotetto ventilato: l'estate il sottotetto misura 8-10 °C in meno rispetto alla falda soleggiata; i 40 anni della copertura precedente (non ventilata) erano finiti in 25 per marciume delle orditure.
 - **Normativa:** Normativa tetti (NTC per carichi neve/vento); UNI sulle tegole e sulle costruzioni in legno; regolamenti edilizi (altezze, pendenze).
 - **Nota di cantiere:** La prima legge del tetto: l'acqua scende, non sale — ma risale per capillarità e per vento nei dettagli mal chiusi.
@@ -5255,7 +5255,7 @@ Il sistema di raccolta (gronde per falde, pluviali per piani) dimensiona e convo
 - **Applicazioni:** Ogni edificio: case, condomini, capannoni, per la gestione dell'acqua piovana.
 - **Vantaggi:** Il sistema di raccolta ben dimensionato elimina il rischio principale delle coperture: l'acqua che trabocca o ristagna ai bordi.
 - **Limiti e attenzioni:** Le gronde strette e i pluviali sottodimensionati traboccano nei temporali forti: bagnano le facciate e i davanzali.
-- **Costi ed economia:** Costi: gronda in alluminio 15-35 €/m, pluviali 20-50 €/m, il sistema completo di un'abitazione: 1.000-3.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: gronda in alluminio 15-35 €/m, pluviali 20-50 €/m, il sistema completo di un'abitazione: 1.000-3.000 €.
 - **Caso tipico:** Villa con gronde rifatte larghe e pluviali dimensionati al nuovo volume ricavato in sottotetto: dopo il temporale 'del secolo', zero traboccamenti; la casa identica del vicino ha bagnato tutti i davanzali del lato ovest.
 - **Normativa:** Nessuna norma cogente specifica; buona pratica edilizia; regole igieniche per gli scarichi.
 - **Nota di cantiere:** La verifica rapida in cantiere: il temporale forte è il collaudo del sistema — se l'acqua scende dai pluviali e non dalle gronde, il dimensionamento è giusto.
@@ -5270,7 +5270,7 @@ Le coperture piane e le terrazze si impermeabilizzano: guaine bituminose (ardegi
 - **Applicazioni:** Terrazze, tetti piani, coperture tecniche, lastrici solari, piscine tecniche, fondazioni orizzontali (impermeabilizzazione).
 - **Vantaggi:** La copertura piana impermeabilizzata bene dura 25-30 anni e diventa terrazza: spazio guadagnato a parità di costruzione.
 - **Limiti e attenzioni:** È la copertura più delicata: l'acqua ristagnante e i dettagli (salti, camini, paracolpi) concentrano l'80% dei guasti.
-- **Costi ed economia:** Costi: guaina bituminosa 20-40 €/m², PVC/TPO 30-60 €/m², liquide 25-50 €/m², posa inclusa; la protezione: extra.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: guaina bituminosa 20-40 €/m², PVC/TPO 30-60 €/m², liquide 25-50 €/m², posa inclusa; la protezione: extra.
 - **Caso tipico:** Terrazza impermeabilizzata con membrana PVC saldata e prova di tenuta in fase di posa: dopo 10 anni e due rifacimenti dei massetti 'gemelli' in bitume, zero infiltrazioni; la prova in cantiere ha pagato tutto.
 - **Normativa:** Norme sui prodotti e la posa (marcatura CE, istruzioni); prescrizioni dei produttori? No: riferimento: specifiche e linee guida produttori; normativa antincendio delle coperture.
 - **Nota di cantiere:** La frase chiave: la copertura piana non deve mai vedere l'acqua ferma: pendenza, drenaggio, prova.
@@ -5285,7 +5285,7 @@ La copertura è la superficie che perde e guadagna più calore (fino al 30% dell
 - **Applicazioni:** Retrofit energetici (conto termico, detrazioni), nuove costruzioni, recupero sottotetti.
 - **Vantaggi:** Il tetto isolato bene cambia la casa: inverno caldo senza sprechi, estate fresca senza climatizzazione forsennata.
 - **Limiti e attenzioni:** L'isolamento mal posato (ponti termici sulle orditure, freno vapore mancante) condensa e marcisce la struttura in pochi anni.
-- **Costi ed economia:** Costi: isolamento copertura in falda 40-90 €/m²; l'intervento su un 100 m² di copertura: 4.000-9.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: isolamento copertura in falda 40-90 €/m²; l'intervento su un 100 m² di copertura: 4.000-9.000 €.
 - **Caso tipico:** Sottotetto isolato con fibra di legno tra le orditure e 12 cm continui sopra (tetto ventilato): i consumi invernali sono calati del 35%; l'estate il sottotetto resta fresco senza aria condizionata.
 - **Normativa:** Normativa energetica (D.Lgs 192/2005, requisiti); UNI 11484? No: riferimento: prassi e certificazioni isolanti (marcatura CE).
 - **Nota di cantiere:** La copertura è il primo posto dove intervenire in un retrofit: rendimento massimo, invasività contenuta.
@@ -5315,7 +5315,7 @@ La scelta del manto coprente definisce vita e aspetto: tegole in laterizio (mars
 - **Applicazioni:** Coperture residenziali, coperture tecniche, pensiline, campanili e strutture speciali.
 - **Vantaggi:** Il laterizio è eterno e 'italiano': il metallo è moderno e leggero; la scelta corretta dipende da pendenza, peso, budget e vincoli paesaggistici.
 - **Limiti e attenzioni:** I manti leggeri soffrono il grandine e la dilatazione termica (il metallo 'lavora' con 30 °C di escursione); le tegole rompono se calpestate male.
-- **Costi ed economia:** Costi: tegole laterizio 25-60 €/m² materiale, lastre metalliche 40-120 €/m², membrane 15-35 €/m², posa inclusa nel computo copertura.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: tegole laterizio 25-60 €/m² materiale, lastre metalliche 40-120 €/m², membrane 15-35 €/m², posa inclusa nel computo copertura.
 - **Caso tipico:** Copertura di una villa con lastre di zinco-titanio su falde complesse: le piegature a freddo hanno eliminato giunti e saldature; dopo 12 anni zero manutenzione e un invecchiamento uniforme elegante.
 - **Normativa:** Norme sui prodotti (marcatura CE tegole e lastre); specifiche produttori su fissaggi e pendenze.
 - **Nota di cantiere:** Regole d'oro: pendenza ≥ minima del manto, fissaggi contro il vento, dettagli piegati (non siliconati) su gronde e ricorsi.
@@ -5330,7 +5330,7 @@ Il tetto va ispezionato ogni anno (o dopo eventi eccezionali): lo smaltimento de
 - **Applicazioni:** Case, condomini, patrimoni gestiti, capannoni.
 - **Vantaggi:** Il tetto mantenuto dura il doppio: la manutenzione è la polizza assicurativa più economica dell'edificio.
 - **Limiti e attenzioni:** L'ispezione 'da terra col binocolo' non vede i problemi veri: serve salire (o drone) una volta l'anno.
-- **Costi ed economia:** Costi: ispezione professionale 100-300 €; pulizia gronde 2-5 €/m; riparazioni piccole 100-500 €; il conto del tetto ignorato: migliaia.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: ispezione professionale 100-300 €; pulizia gronde 2-5 €/m; riparazioni piccole 100-500 €; il conto del tetto ignorato: migliaia.
 - **Caso tipico:** Condominio con tetto ispezionato ogni anno: scoperta e riparata una alzatura di guaina da 40 cm per 180 €; il condominio vicino con la stessa guaina non ispezionata ha rifatto tre stanze per infiltrazioni: 12.000 €.
 - **Normativa:** Nessuna norma cogente; prassi assicurative (le polizze richiedono manutenzione).
 - **Nota di cantiere:** Da insegnare: il tetto non si vede dalla stanza, per questo si dimentica — finché piove dentro.

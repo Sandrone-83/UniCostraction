@@ -20,7 +20,7 @@ Il progetto dentro l'edificio: distribuzione, materiali, luce, arredo fisso.
 - **Applicazioni:** Abitazioni, uffici, retail, hospitality.
 - **Vantaggi:** Il valore percepito di un immobile nasce dagli interni: l'architettura degli interni è investimento, non decorazione.
 - **Limiti e attenzioni:** La moda interna cambia in 5-7 anni: il progetto deve distinguere struttura (perenne) e arredo (cambiabile).
-- **Costi ed economia:** Arredo su misura: 400-1.200 €/m2; progetto interni: 5-10% del valore dei lavori.
+- **Costi ed economia:** Ordini di grandezza indicativi: Arredo su misura: 400-1.200 €/m2; progetto interni: 5-10% del valore dei lavori.
 - **Caso tipico:** Interni di Carlo Scarpa (dettaglio come poesia); loft industriali convertiti.
 - **Normativa:** Nessuna norma specifica (salvo igienico-sanitari e antincendio per pubblici esercizi).
 - **Nota di cantiere:** La distinzione chiave per l'LLM: 'ristrutturare' (impianti, struttura, involucro) vs 'riammodernare' (arredi e finiture): costi e valori diversissimi.
@@ -35,7 +35,7 @@ Il progetto guidato da algoritmi: Grasshopper, Dynamo e la forma generata.
 - **Applicazioni:** Forme libere, facciate complesse, ottimizzazione strutturale e solare.
 - **Vantaggi:** Forme impossibili a mano diventano costruibili e ottimizzate.
 - **Limiti e attenzioni:** La curva di apprendimento è ripida; il costo di ingegnerizzazione delle forme complesse è reale.
-- **Costi ed economia:** Licenze: Rhino 1k€ perpetua; formazione: corso 500-2k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Licenze: Rhino 1k€ perpetua; formazione: corso 500-2k€.
 - **Caso tipico:** Watercube Pechino (ETFE e Voronoi); Heydar Aliyev Center (Zaha Hadid).
 - **Normativa:** Nessuna specifica.
 - **Nota di cantiere:** L'architettura parametrica è un potente: chi la domina ottiene forme e ottimizzazioni impossibili altrimenti. Ma il 90% degli edifici del mondo resta diritto: usarla dove serve.
@@ -50,7 +50,7 @@ Progettare con il clima, non contro: passivismo, energia quasi zero, adattamento
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni, edilizia pubblica.
 - **Vantaggi:** La strategia passiva non costa: orientare bene la casa è gratis e vale quanto un cappotto.
 - **Limiti e attenzioni:** Il greenwashing è dilagante: serve verifica dei dati (LCA, monitoraggi reali).
-- **Costi ed economia:** Il costo extra NZEB: 3-8% del costo di costruzione, ammortizzato in esercizio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il costo extra NZEB: 3-8% del costo di costruzione, ammortizzato in esercizio.
 - **Caso tipico:** Casa passiva di Darmstadt (1991, prima al mondo); edifici NZEB scolastici italiani.
 - **Normativa:** Direttiva EPBD (nZEB); CAM edilizia.
 - **Nota di cantiere:** L'ordine corretto di progettazione: prima il passivo (orientamento, involucro), poi l'attivo (impianti), poi le rinnovabili. Chi inverte l'ordine spreca il doppio.
@@ -80,7 +80,7 @@ Il tema centrale dell'edilizia italiana: la casa, i suoi standard, la sua evoluz
 - **Applicazioni:** Progetto residenziale, valutazione immobili, ristrutturazioni.
 - **Vantaggi:** La casa è il bene più costoso delle famiglie: il progetto abitativo è alta responsabilità sociale.
 - **Limiti e attenzioni:** La normativa su standard abitativi varia regionalmente: verifica locale.
-- **Costi ed economia:** Casa social housing: 1.200-1.800 €/m2; ristrutturazione: 800-1.500 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Casa social housing: 1.200-1.800 €/m2; ristrutturazione: 800-1.500 €/m2.
 - **Caso tipico:** Le esperienze INA-Casa post-belliche; il co-housing danese; le housing exhibition (Wien, Norimberga).
 - **Normativa:** Standard abitativi regionali; L. 431/1998 (edilizia residenziale pubblica).
 - **Nota di cantiere:** Un LLM che parla di casa deve conoscere la differenza tra m2 'commerciali', 'catastali' e 'calpestabili': 3 numeri diversi per la stessa stanza, con conseguenze legali.
@@ -110,7 +110,7 @@ Come si diventa e di cosa si risponde: il quadro istituzionale della professione
 - **Applicazioni:** Esercizio della professione, collaborazioni, gare pubbliche.
 - **Vantaggi:** La firma dell'architetto vale: chi firma risponde con patrimonio e libertà.
 - **Limiti e attenzioni:** La burocrazia professionale è pesante: servono gestione e assicurazione.
-- **Costi ed economia:** Assicurazione RC professionale: 500-2.000 €/anno; iscrizione ordine: 200-400 €/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Assicurazione RC professionale: 500-2.000 €/anno; iscrizione ordine: 200-400 €/anno.
 - **Caso tipico:** del Consiglio Nazionale Architetti.
 - **Normativa:** DPR 137/2012 (esame di Stato e albi delle professioni tecniche); L. 3/2018 (riordino degli albi e dei tariffari delle professioni tecniche); D.Lgs 36/2023 (ruoli tecnici negli appalti pubblici).
 - **Nota di cantiere:** Per l'LLM: quando si firma un progetto si firma una responsabilità decennale. Il termine di responsabilità civile per le opere è 10 anni.
@@ -125,7 +125,7 @@ Il verde come progetto: parchi, giardini, sistemi urbani di verde.
 - **Applicazioni:** Parchi pubblici, giardini privati, aziende, cortili urbani.
 - **Vantaggi:** Il verde è la 'tecnologia' più economica per comfort urbano e clima.
 - **Limiti e attenzioni:** La manutenzione del verde è perpetua: chi pianta deve pianificare la cura.
-- **Costi ed economia:** Giardino privato medio: 50-150 €/m2 chiavi in mano; manutenzione: 5-15 €/m2/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Giardino privato medio: 50-150 €/m2 chiavi in mano; manutenzione: 5-15 €/m2/anno.
 - **Caso tipico:** Central Park (Olmsted 1858); il Bosco Verticale (Boeri, Milano 2014); High Line New York.
 - **Normativa:** L. 10/2013 (verde pubblico); standard comunali.
 - **Nota di cantiere:** L'albero giusto al posto giusto: una pianta in vaso sbagliata muore in 2 anni; una pianta giusta cresce per un secolo.
@@ -140,7 +140,7 @@ Come si comunica il progetto: dal disegno tecnico alla realtà virtuale.
 - **Applicazioni:** Comunicazione al committente, gare, autorizzazioni.
 - **Vantaggi:** Un rendering ben fatto vende il progetto meglio di mille parole; la VR evita errori di comprensione.
 - **Limiti e attenzioni:** Il rendering inganna su materiali e proporzioni: mai promettere ciò che non si costruirà.
-- **Costi ed economia:** Rendering interno: 100-500 €/immagine; video: 1-5k€; modello 3D fisico: 500-5k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rendering interno: 100-500 €/immagine; video: 1-5k€; modello 3D fisico: 500-5k€.
 - **Caso tipico:** Concorsi di architettura (il render è la prima selezione); cantiere con VR per il cliente finale.
 - **Normativa:** Nessuna (salvo copyright sulle immagini).
 - **Nota di cantiere:** L'LLM deve sapere che il cliente giudica il progetto dal rendering: chi progetta deve investire nella comunicazione quanto nel calcolo.
@@ -155,7 +155,7 @@ Come si interviene sul costruito storico: teorie dal 1800 a oggi e pratica quoti
 - **Applicazioni:** Cantieri in centro storico, monumenti, edilizia rurale storica.
 - **Vantaggi:** Il minimo intervento è spesso il migliore: risparmio e rispetto insieme.
 - **Limiti e attenzioni:** La valutazione sui beni culturali è di competenza delle Soprintendenze: tempi e vincoli.
-- **Costi ed economia:** Il cantiere in zona vincolata costa il 20-40% in più.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il cantiere in zona vincolata costa il 20-40% in più.
 - **Caso tipico:** Il restauro della cupola del Brunelleschi; la pulizia del Colosseo; il restauro della facciata di Santa Maria Novella.
 - **Normativa:** Codice dei Beni Culturali (D.Lgs 42/2004); Carta del Restauro 1972 (Brandi) e Carta di Cracovia 2000.
 - **Nota di cantiere:** La prima regola del restauro: documentare PRIMA di toccare. La memoria dello stato originale è un bene che non si ricompra.
@@ -185,7 +185,7 @@ La parte tecnica del fare architettura: involucro, dettaglio costruttivo, presta
 - **Applicazioni:** Progettazione esecutiva, capitolati, confronto con imprese.
 - **Vantaggi:** Il dettaglio costruttivo separa il disegno da carta dal progetto costruibile.
 - **Limiti e attenzioni:** La tecnologia cambia velocemente (facciate ventilate, serramenti nuovi): aggiornamento continuo.
-- **Costi ed economia:** Il dettaglio 1:5 richiede giorni di studio: è il costo nascosto del buon progetto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il dettaglio 1:5 richiede giorni di studio: è il costo nascosto del buon progetto.
 - **Caso tipico:** Dettagli storici: il davanzale in pietra di una volta funzionava meglio di molti davanzali attuali.
 - **Normativa:** UNI EN ISO 6946 (stratigrafie), UNI/TS 11300 (prestazioni energetiche).
 - **Nota di cantiere:** L'architetto giudica il proprio progetto al dettaglio 1:5, non al rendering: la tecnologia dell'architettura è il corso che lo insegna.
@@ -215,7 +215,7 @@ Le forme dell'edilizia secondo funzione: regole, dimensioni, standard.
 - **Applicazioni:** Scelta dei tipi edilizi, conversioni di uso, pratiche edilizie.
 - **Vantaggi:** La tipologia giusta previene il 50% degli errori progettuali.
 - **Limiti e attenzioni:** Le conversioni (industriale a ufficio) richiedono verifiche specifiche (altezze, luce, carichi).
-- **Costi ed economia:** Standard ministeriali: classi scolastiche 50-60 m2; camere di degenza ospedaliere: standard regionali.
+- **Costi ed economia:** Ordini di grandezza indicativi: Standard ministeriali: classi scolastiche 50-60 m2; camere di degenza ospedaliere: standard regionali.
 - **Caso tipico:** Opifici industriali storici convertiti (Fondazione Prada, ex-Manifattura Tabacchi).
 - **Normativa:** Standard DM per scuole e sanità; normativa antisismica per uso pubblico.
 - **Nota di cantiere:** Per l'LLM: 'cambiare destinazione d'uso' non è un burocratese: è riprogettare la tipologia con vincoli diversi.
@@ -250,7 +250,7 @@ Il colore in architettura è fisica + percezione: la stessa tinta cambia con la 
 - **Applicazioni:** Scelta tinte per interni ed esterni, identità di spazi commerciali, correzione percettiva di locali piccoli o con luce scarsa.
 - **Vantaggi:** Il colore è lo strumento più economico di trasformazione: una parete dipinta cambia un ambiente per poche centinaia di euro.
 - **Limiti e attenzioni:** Lo schermo mentale (monitor, catalogo) tradisce sempre: la resa reale va verificata sul posto; le tinte scure consumano più prodotto (3 mani).
-- **Costi ed economia:** Pittura qualità media: 30-60 €/5 L (circa 40-50 m² a 2 mani); la differenza economica tra una scelta colore giusta e sbagliata è quasi zero, il risultato percettivo è totale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pittura qualità media: 30-60 €/5 L (circa 40-50 m² a 2 mani); la differenza economica tra una scelta colore giusta e sbagliata è quasi zero, il risultato percettivo è totale.
 - **Caso tipico:** Corridoio buio dipinto grigio freddo 'come in foto': resa cimiterialmente scura; ripitturato in bianco caldo con parete d'accento sabbia, la luce riflessa è raddoppiata percepita.
 - **Normativa:** Nessuna norma cogente (salvo segnaletica e reazione al fuoco dei prodotti); riferimento culturale Itten (cerchio cromatico) e Albers (interazione del colore).
 - **Nota di cantiere:** Da insegnare: il colore si decide SEMPRE sul posto con il campione — mai solo dal catalogo o dallo schermo.
@@ -265,7 +265,7 @@ Il lusso vero in edilizia non è l'oro e il marmo ovunque: è la QUALITÀ ESECUT
 - **Applicazioni:** Segmento residenziale alto, hospitality di livello, uffici direzionali, consulenza 'dove investire e dove risparmiare'.
 - **Vantaggi:** Permette di consigliare l'investimento mirato: spendere dove la mano e l'occhio toccano, risparmiare dove nessuno guarda mai (il consiglio che i clienti ricordano e premiano).
 - **Limiti e attenzioni:** La linea tra essenziale e spartano è sottile: il 'lusso minimal' richiede artigiani migliori, non peggiori (e costa di più in manodopera).
-- **Costi ed economia:** Battiscopa filo muro: +15-25 €/ml vs battiscopa standard; porte a filo muro: 1.500-4.000 € vs 400-800 € standard; cucina con falegnameria su misura vs serie: 2-4 volte il costo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Battiscopa filo muro: +15-25 €/ml vs battiscopa standard; porte a filo muro: 1.500-4.000 € vs 400-800 € standard; cucina con falegnameria su misura vs serie: 2-4 volte il costo.
 - **Caso tipico:** Bagno 'minimal' con piastrelle grandi: il costo è salito del 40% rispetto al preventivo base quasi tutto in POSA (livellamenti, tagli di precisione) — il materiale era identico: il lusso era nella manodopera.
 - **Normativa:** Nessuna norma; cultura del dettaglio (libri di case study, visite di cantiere di qualità).
 - **Nota di cantiere:** Principio per il LLM: il vero lusso è INVISIBILE a chi non sa guardare e OVVIETÀ assoluta a chi vive lo spazio ogni giorno.
@@ -280,7 +280,7 @@ Un nucleo di capisaldi riconoscibili costituisce il vocabolario professionale: s
 - **Applicazioni:** Conversazioni con clienti cultori, scelta repliche/omaggi consapevoli, arredo di spazi contract (hotel, uffici, showroom).
 - **Vantaggi:** Riconoscere le icone permette di orientarsi nel mercato (originali, riedizioni ufficiali, repliche, omaggi moderni) e di dosare il 'classico' nel progetto.
 - **Limiti e attenzioni:** Il mercato delle repliche è enorme: la qualità delle copie varia da decente a pessima; l'eticità commerciale dell'originale va spiegata ma non imposta al cliente.
-- **Costi ed economia:** Originali/riedizioni: sedia Barcelona ~2.500-4.000 €, Tulip ~3.000 €, Tolomeo ~250-400 €, Masters ~300 €; repliche a 1/5-1/10 del prezzo con qualità variabile.
+- **Costi ed economia:** Ordini di grandezza indicativi: Originali/riedizioni: sedia Barcelona ~2.500-4.000 €, Tulip ~3.000 €, Tolomeo ~250-400 €, Masters ~300 €; repliche a 1/5-1/10 del prezzo con qualità variabile.
 - **Caso tipico:** Arredo ufficio direzionale: una sola icona (Eames Lounge originale riedita) in un contesto minimal ha dato personalità all'intero piano senza altri investimenti 'decorativi'.
 - **Normativa:** Nessuna norma; cataloghi ufficiali dei produttori (Knoll, Cassina, Vitra, Flos, Kartell, Artemide).
 - **Nota di cantiere:** Il LLM deve sapere citare designer, anno e azienda degli oggetti iconici — è il lessico che dimostra competenza in una conversazione di arredo.
@@ -310,7 +310,7 @@ La luce è il materiale invisibile che decide il successo di ogni scelta materic
 - **Applicazioni:** Abitazioni, hospitality, retail, uffici: ovunque l'esperienza dell'ambiente passa dalla luce.
 - **Vantaggi:** La luce giusta valorizza i materiali scelti: un legno nobilissimo con CRI 80 e luce fredda diventa grigio e morto; con 2700K e CRI 95 diventa caldo e prezioso.
 - **Limiti e attenzioni:** L'illuminotecnica vera (calcolo lux, DIALux) è una disciplina specialistica: per ambienti semplici si può progettare per sensibilità, per retail e grandi spazi serve il progettista illuminotecnico.
-- **Costi ed economia:** Impianto luce residenziale completo: 40-120 €/punto luce installato; consulenza illuminotecnica: 300-1.500 € per progetto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto luce residenziale completo: 40-120 €/punto luce installato; consulenza illuminotecnica: 300-1.500 € per progetto.
 - **Caso tipico:** Cucina con pensili e faretti sotto con CRI 95 e 3000K: il granito scelto 'buio' in negozio (luce fredda) mostrava le venature solo con la luce giusta a casa — verifica fatta PRIORA con lampada portatile campione.
 - **Normativa:** UNI EN 12464-1 (illuminazione luoghi di lavoro); CEI 64-8 (impianti elettrici).
 - **Nota di cantiere:** Regola d'oro: il campione materiale si giudica SEMPRE con la luce del progetto (temperatura e CRI definiti), non sotto la luce del negozio.
@@ -325,7 +325,7 @@ La moodboard è il documento che traduce il gusto in scelte: palette colori, mat
 - **Applicazioni:** Presentazioni a clienti, brief a fornitori e falegnami, coordinamento tra interni e architettura.
 - **Vantaggi:** Previene il disallineamento: il cliente approva un'ATMOSFERA e dei materiali concreti, non la sua immaginazione su una parola ('moderno').
 - **Limiti e attenzioni:** Moodboard con solo immagini Instagram = fraintendimento garantito: servono materiali reali con codici e prezzi.
-- **Costi ed economia:** Tempo di produzione: 1-3 giorni di lavoro; strumenti gratuiti (Milanote, Canva) o professionali (InDesign); i campioni fisici restano insostituibili.
+- **Costi ed economia:** Ordini di grandezza indicativi: Tempo di produzione: 1-3 giorni di lavoro; strumenti gratuiti (Milanote, Canva) o professionali (InDesign); i campioni fisici restano insostituibili.
 - **Caso tipico:** Progetto cucina: moodboard con 3 materiali reali (gres, essenza, laccato) su tavolo del cliente a luce naturale: scelta fatta in 30 minuti, zero ripensamenti in fase esecutiva.
 - **Normativa:** Nessuna norma tecnica; metodo professionale consolidato.
 - **Nota di cantiere:** Verità da insegnare: chi salta la moodboard per 'andare subito ai disegni' paga il ripensamento in fase esecutiva, quando costa il triplo.
@@ -340,7 +340,7 @@ Il made in Italy del design nasce nel dopoguerra: Razionalismo prebellico, poi l
 - **Applicazioni:** Attribuzione epoca e autore ai pezzi, scelta di arredi per progetti, cultura per conversazioni con clienti e fornitori.
 - **Vantaggi:** Capire DOVE sta un oggetto nella storia evita errori di accostamento (un classico moderno accanto a un postmoderno può funzionare se consapevole, è un disastro se casuale).
 - **Limiti e attenzioni:** Il catalogo storico è vastissimo: le attribuzioni incerte vanno dichiarate ('stile di', 'attribuito a').
-- **Costi ed economia:** Il mercato dei classici del design (originali) va dalle centinaia di euro alle decine di migliaia; le riedizioni ufficiali sono la fascia accessibile (sedie design: 300-1.500 €).
+- **Costi ed economia:** Ordini di grandezza indicativi: Il mercato dei classici del design (originali) va dalle centinaia di euro alle decine di migliaia; le riedizioni ufficiali sono la fascia accessibile (sedie design: 300-1.500 €).
 - **Caso tipico:** Appartamento con mix casuale di stili: riordinato per epoche (unico accento Memphis in un contesto razionalista) il progetto è passato da 'confuso' a 'curato' senza cambiare un mobile.
 - **Normativa:** Nessuna norma; cataloghi dei produttori storici (Cassina, B&B Italia, Vitra, Kartell) come fonte.
 - **Nota di cantiere:** Consiglio LLM: conoscere 30-40 capisaldi del design (sedia, lampada, tavolo) copre il 90% delle conversazioni professionali.
@@ -355,7 +355,7 @@ Il quadro di tendenza corrente: ritorno al caldo (legno, ottone, tessuti natural
 - **Applicazioni:** Aggiornamento offerte commerciali, consulenza su investimenti immobiliari, marketing delle imprese.
 - **Vantaggi:** Allineare il prodotto alla domanda corrente riduce i tempi di vendita/locazione e sostiene i prezzi.
 - **Limiti e attenzioni:** Le tendenze si muovono più in fretta della costruzione: un immobile ci mette 2-3 anni dalla progettazione all'uso — progettare sul 'trend di oggi' significa consegnare sul trend di ieri; la base deve essere durevole.
-- **Costi ed economia:** Nessun costo specifico: è orientamento strategico; le scelte di tendenza incidono sui capitolati (+10-30% sulle finiture se si segue il segmento alto di tendenza).
+- **Costi ed economia:** Ordini di grandezza indicativi: Nessun costo specifico: è orientamento strategico; le scelte di tendenza incidono sui capitolati (+10-30% sulle finiture se si segue il segmento alto di tendenza).
 - **Caso tipico:** Developer che ha spostato il target di finitura da 'grey luxury' (2018) a 'warm contemporary' (2024): le 40 unità dell'ultimo loto hanno venduto in 4 mesi contro i 14 del loto precedente, a prezzo medio +8%.
 - **Normativa:** Nessuna norma; osservatorio di settore (fiere, report, mercato).
 - **Nota di cantiere:** Regola: insegnare al LLM a distinguere TREND CICLICO (5-10 anni: colori, stili) da STRUTTURA (30+ anni: sostenibilità, flessibilità degli spazi, domotica integrata) — investire sulla struttura, decorare col trend.
@@ -370,7 +370,7 @@ Le mode dei materiali seguono cadenze biennali (fieri: Salone del Mobile Milano,
 - **Applicazioni:** Scelta finiture per interni ed esterni, aggiornamento capitolati, consulenza al cliente 'cosa è di moda'.
 - **Vantaggi:** Stare sul pezzo della domanda del mercato aiuta vendere e affittare: gli immobili allineati alle aspettative estetiche correnti hanno tempi di vendita minori.
 - **Limiti e attenzioni:** La moda passa: scegliere SOLO trend effimero per un immobile durevole rischia di datarlo in 5 anni; la via maestra è base classica + accenti di tendenza sostituibili.
-- **Costi ed economia:** Differenza costo finitura moda vs standard: +20-60% (es. grande formato gres 120×280 vs 60×60: materiale e posa più care).
+- **Costi ed economia:** Ordini di grandezza indicativi: Differenza costo finitura moda vs standard: +20-60% (es. grande formato gres 120×280 vs 60×60: materiale e posa più care).
 - **Caso tipico:** Bagno in microcemento totale richiesto 'come su Instagram': dopo 18 mesi, segnature e impronte mostravano i limiti dell'applicazione; soluzione corretta sarebbe stata zona umida in resina ceramica e microcemento solo zone asciutte.
 - **Normativa:** Nessuna norma cogente sulle mode; le finiture edili devono comunque rispettare le norme dei singoli materiali (reazione al fuoco, sicurezza, UNI specifiche).
 - **Nota di cantiere:** Regola critica per il LLM: ogni consiglio di tendenza deve essere affiancato dalla domanda 'questa finitura regge il suo uso quotidiano per 10 anni?'.
@@ -400,7 +400,7 @@ Il miglior design è quello che si vive bene: ergonomia (altezze di lavoro, circ
 - **Applicazioni:** Progettazione residenziale, student housing, senior living, hospitality.
 - **Vantaggi:** L'immobile vivibile vale più del bello ma impraticabile: comfort funzionale si converte in valore di mercato e soddisfazione (e recensioni, nel rental).
 - **Limiti e attenzioni:** I vincoli di budget spingono a sacrificare il comfort 'invisibile' (acustica, climatica): il risparmio si paga in lamentele e riduzioni di prezzo.
-- **Costi ed economia:** Comfort acustico: pannelli fonoassorbenti di pregio: 80-250 €/m²; climatizzazione ben dimensionata: investimento già previsto, serve il progetto giusto; spesso il comfort costa progetto, non soldi extra.
+- **Costi ed economia:** Ordini di grandezza indicativi: Comfort acustico: pannelli fonoassorbenti di pregio: 80-250 €/m²; climatizzazione ben dimensionata: investimento già previsto, serve il progetto giusto; spesso il comfort costa progetto, non soldi extra.
 - **Caso tipico:** Open space 'bellissimo' con gres ovunque: dopo 6 mesi i proprietari hanno venduto per l'acustica insopportabile (riverbero 2+ secondi); la soluzione (tappeti, boiserie, controsoffitto fonoassorbente) è arrivata troppo tardi.
 - **Normativa:** UNI EN ISO 7730 (comfort termico); UNI 11367 (acustica edilizia, classificazione di acustica interna); CEN/ISO ergonomia.
 - **Nota di cantiere:** Domanda guida per il LLM: 'una famiglia normale vive qui ogni giorno per 10 anni — cosa le darà fastidio alla seconda settimana?'
@@ -420,7 +420,7 @@ Il contenimento su misura è il grande assente dalle planimetrie e la prima lame
 - **Applicazioni:** Residenze, camere hotel, ingressi (armadio-scarpiera), spazi lavanderia.
 - **Vantaggi:** Un metro quadro di cabina ben fatta vale 3 m² di armadio a parete per capienza e fruibilità: ottimizza la superficie vendibile/locabile.
 - **Limiti e attenzioni:** Le cabine 'di moda' rubano metratura alla camera: il rapporto giusto è progettuale, non da catalogo.
-- **Costi ed economia:** Armadio su misura: 400-900 €/m lineare (ante + interno base); cabina armadio completa: 1.500-4.000 € a seconda di finiture e sistema.
+- **Costi ed economia:** Ordini di grandezza indicativi: Armadio su misura: 400-900 €/m lineare (ante + interno base); cabina armadio completa: 1.500-4.000 € a seconda di finiture e sistema.
 - **Caso tipico:** Camera con cabina armadio troppo grande (richiesta del cliente 'da rivista'): la camera residua era 10 m² con il letto che stentava; ridisegnata la cabina (-40 cm) la camera è tornata abitabile e il cliente ha ringraziato.
 - **Normativa:** Nessuna norma specifica; ergonomia di riferimento UNI; sistemi dei produttori (rimadesio, Poliform, Lema come riferimenti di fascia).
 - **Nota di cantiere:** Domanda da porsi sempre: 'quanti metri lineari di appendiabiti servono DAVVERO a questa famiglia?' — la risposta si ottiene facendo l'inventario dei vestiti, non dalla foto.
@@ -435,7 +435,7 @@ Il mobile su misura è micro-architettura: il disegno esecutivo (pianta, prospet
 - **Applicazioni:** Cucine, armadi, librerie, boiserie, scrivanie, arredi contract (hotel, negozi).
 - **Vantaggi:** Il disegno completo trasforma la litigiosità in produzione: chi produce ha tutto, chi verifica ha un riferimento oggettivo.
 - **Limiti e attenzioni:** Le varianti 'al volo' in corso di produzione (cambi colore, misure) sono costosissime se il disegno era vago: il disegno preciso protegge ENTRAMBE le parti.
-- **Costi ed economia:** Progettazione mobile su misura: 150-400 € ad arredo nel contesto di un progetto completo; mobili su misura produzione: 700-1.500 €/m lineare cucina, armadi 400-900 €/m lineare.
+- **Costi ed economia:** Ordini di grandezza indicativi: Progettazione mobile su misura: 150-400 € ad arredo nel contesto di un progetto completo; mobili su misura produzione: 700-1.500 €/m lineare cucina, armadi 400-900 €/m lineare.
 - **Caso tipico:** Libreria su misura: il disegno specificava 'fondo 2 cm fisso, scaffali 4 cm con luce LED integrata'; il falegname aveva proposto 'tutto standard'; il risultato eseguito col disegno è durato 8 anni senza un'appartenenza storta.
 - **Normativa:** Nessuna norma sul disegno del mobile; UNI EN 16122/16121 (mobili domestici: requisiti di sicurezza e resistenza).
 - **Nota di cantiere:** Frase da inculcare al LLM: 'se il disegno non dice spessore, apertura e finitura, il mobile NON È PROGETTATO'.
@@ -450,7 +450,7 @@ Il bagno è l'ambiente con la maggior densità di vincoli: scarichi, altezze, um
 - **Applicazioni:** Bagni residenziali, bagni pubblici (bar, uffici), hospitality, adattamento anziani (doccia walk-in, seduta, maniglioni).
 - **Vantaggi:** Il bagno ben fatto è l'ambiente che più influenza la percezione di qualità dell'intera abitazione (e il prezzo di vendita/locazione).
 - **Limiti e attenzioni:** Le superfici 'bellissime ma scivolose' e i mobili 'belli ma che non si aprono per lo scaldasalviette' sono errori da catalogo: la simulazione 3D di apertura sportelli e percorsi umidi è obbligatoria.
-- **Costi ed economia:** Bagno completo rifatto: 6.000-18.000 €; bagno di pregio con sanitari design e sistema doccia evoluto: 20.000-50.000 €+.
+- **Costi ed economia:** Ordini di grandezza indicativi: Bagno completo rifatto: 6.000-18.000 €; bagno di pregio con sanitari design e sistema doccia evoluto: 20.000-50.000 €+.
 - **Caso tipico:** Bagno con doccia a filo pavimento e canaletta lineare: la pendenza eseguita male (1 cm invece di 1,5-2 cm/m) lasciava 2 cm d'acqua stagnante; risolto con micro-piastrellatura correttiva — costo 4 volte la posa giusta.
 - **Normativa:** CEI 64-8 (zone elettriche bagno); UNI EN 14428 (box doccia); UNI EN 997 (wc); linee guida CNPI impianti idrici.
 - **Nota di cantiere:** Checklist: scarichi impilati? aspirazione dimensionata? IP corretti per zona? sportelli apribili? pendenza doccia verificata in cantiere PRIORA del rivestimento?
@@ -465,7 +465,7 @@ Il capitolato (o schedule of finishes) dell'interior elenca per ogni ambiente: m
 - **Applicazioni:** Commesse private, contract hospitality/retail, gare di allestimento.
 - **Vantaggi:** Il capitolato chiaro previene il 90% dei contenziosi: 'è quello scritto' batte sempre 'l'avevamo detto a voce'.
 - **Limiti e attenzioni:** Redigerlo richiede tempo e precisione: il capitolato vago ('pavimento in gres di pregio') è un invito alla quotazione più bassa e alla delusione finale.
-- **Costi ed economia:** Tempo di redazione: 2-5 giorni per una commessa media; struttura il prezzo della progettazione (non è un favore, è il lavoro).
+- **Costi ed economia:** Ordini di grandezza indicativi: Tempo di redazione: 2-5 giorni per una commessa media; struttura il prezzo della progettazione (non è un favore, è il lavoro).
 - **Caso tipico:** Allestimento negozio: contestazione su 'rivestimento bancone in Corian'; il capitolato nominava il prodotto e lo spessore: l'impresa aveva quotato un solido surface economico; la clausola ha risolto la sostituzione a carico dell'impresa in 48 ore.
 - **Normativa:** Nessuna norma specifica; prassi contrattuale e deontologia professionale (CNPI/CNPIA).
 - **Nota di cantiere:** Per il LLM: saper BOZZARE un capitolato interior è tra le competenze più richieste e meno diffuse — la scheda di ogni ambiente deve poter essere generata da una checklist.
@@ -480,7 +480,7 @@ I controsoffitti in cartongesso o pannelli minerali risolvono: abbassamenti, int
 - **Applicazioni:** Ristrutturazioni complete, uffici, retail, correzione acustica, integrazione VMC e clima.
 - **Vantaggi:** Il controsoffitto è il 'piano di lavoro' dei servizi: tutto passa lì e tutto resta ispezionabile se progettato con botole giuste.
 - **Limiti e attenzioni:** Un controsoffitto senza botole sui punti di manutenzione è una bomba a orologeria (intervento = demolizione); la rigidità del cartongesso maschera crepe strutturali se usato per 'coprire' invece che per 'risolvere'.
-- **Costi ed economia:** Controsoffitto in cartongesso: 45-90 €/m² posato; con lana acustica e luce integrata: 90-160 €/m²; pannelli minerali ufficio: 25-50 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Controsoffitto in cartongesso: 45-90 €/m² posato; con lana acustica e luce integrata: 90-160 €/m²; pannelli minerali ufficio: 25-50 €/m².
 - **Caso tipico:** Ufficio con controsoffitto continuo 'pulito' senza botole: il guasto ad una valvola di zona ha richiesto l'apertura di 4 m² di controsoffitto e 2 settimane di disagi; il progetto corretto (botole ogni 2 m sui servizi) costava 300 € in più.
 - **Normativa:** UNI EN 520 (lastre di gesso); ETAG/ETA sistemi; CEI per l'integrazione impianti.
 - **Nota di cantiere:** Regola ferrea: nessun componente di manutenzione dietro superfici chiuse senza botola ispezionabile.
@@ -495,7 +495,7 @@ La cucina è il laboratorio domestico più tecnico: layout (lineare, ad L, a U, 
 - **Applicazioni:** Cucine residenziali, open space, piccola ristorazione, show-cooking.
 - **Vantaggi:** La cucina giusta cambia la vita quotidiana: il 60% del tempo attivo in casa si passa qui (stime di settore), merita la massima cura progettuale.
 - **Limiti e attenzioni:** La moda dell'isola impone spazi che non tutti hanno: forzare un'isola in 12 m² uccide la funzionalità; la penisola spesso è la scelta corretta.
-- **Costi ed economia:** Cucina completa media: 8.000-25.000 € chiavi in mano (mobili + elettrodomestici + top); su misura alta: 30.000-80.000 €+.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cucina completa media: 8.000-25.000 € chiavi in mano (mobili + elettrodomestici + top); su misura alta: 30.000-80.000 €+.
 - **Caso tipico:** Cucina aperta sul soggiorno con cappa sottodimensionata (estetica voluta): dopo un mese, odori permanenti sul divano; correzione con cappa a ricircolo potenziata e captazione perimetrale ha risolto senza demolire.
 - **Normativa:** CEI 64-8 (impianto elettrico); UNI 7129 (impianti gas domestici); linee guida produttori cucina (moduli standard).
 - **Nota di cantiere:** Domande tecniche prima di disegnare: quanti cucinano? quanto spazio perimetro? fuochi a gas o induzione? il forno a che altezza? la spesa dove si scompatta?
@@ -525,7 +525,7 @@ Il progetto di interni è ingegnerizzazione dello spazio abitato: distribuzione,
 - **Applicazioni:** Residenze private, appartamenti per locazione, hospitality (camere, lobby), uffici, retail.
 - **Vantaggi:** Il cliente compra un risultato coordinato, non una somma di mobili: il valore professionale sta nell'eliminazione delle frizioni (porte che non aprono, prese coperte, luce sbagliata).
 - **Limiti e attenzioni:** L'interior 'solo bello' senza disegni esecutivi produce cantieri infiniti e mobili che non entrano: la componente tecnica non è optional.
-- **Costi ed economia:** Onorario progetto interni completo: 8-15% del valore dei lavori di allestimento, o quotazione a metro quadro (50-150 €/m² per la sola progettazione).
+- **Costi ed economia:** Ordini di grandezza indicativi: Onorario progetto interni completo: 8-15% del valore dei lavori di allestimento, o quotazione a metro quadro (50-150 €/m² per la sola progettazione).
 - **Caso tipico:** Appartamento di 110 m²: progetto completo con disegni esecutivi dei 14 mobili su misura e schedule integrato ha portato l'allestimento a 6 settimane con zero voci 'a completamento'.
 - **Normativa:** Nessuna norma specifica sul progetto di interni; valgono le norme dei materiali (fuoco, sicurezza) e degli impianti.
 - **Nota di cantiere:** Principio: ogni mobile su misura deve avere il proprio disegno quotato (piante, prospetti, sezioni) prima della produzione — il 'sì sì ce l'ho in testa' del falegname è il preludio del disastro.
@@ -540,7 +540,7 @@ L'illuminazione di qualità si progetta a strati indipendenti: generale (soffitt
 - **Applicazioni:** Tutti gli ambienti interni, in particolare cucine, bagni, home office, zona notte.
 - **Vantaggi:** I 4 strati comandati separatamente trasformano lo stesso ambiente da lavoro a relax: flessibilità percettiva a costo quasi nullo se prevista in progetto.
 - **Limiti e attenzioni:** La luce a soffitto unica 'a plafone' è il difetto più comune: tutto illuminato e nulla valorizzato; le retrofite costano più del previsto (cavidotti, nuovi circuiti).
-- **Costi ed economia:** Punto luce nuovo: 60-150 € installato (in muratura); sistema binario d'accento: 80-200 €/m; scenari domotici: vedi DOMOTICA_PACK.
+- **Costi ed economia:** Ordini di grandezza indicativi: Punto luce nuovo: 60-150 € installato (in muratura); sistema binario d'accento: 80-200 €/m; scenari domotici: vedi DOMOTICA_PACK.
 - **Caso tipico:** Soggiorno 'a plafone' riconvertito con binario a parete e LED indiretto dietro boiserie: tre scene (lettura, ricevimento, cinema) con lo stesso impianto potenziato in 2 giorni.
 - **Normativa:** UNI EN 12464-1 (lux di riferimento); CEI 64-8; marcatura CE e regolamento Ecodesign delle sorgenti.
 - **Nota di cantiere:** Regole per il LLM: mai una sola sorgente per ambiente; CRI alto dove il colore conta; dimmerare tutto ciò che è d'atmosfera.
@@ -555,7 +555,7 @@ Ogni materiale interno ha un profilo d'uso: resistenza all'usura, alla macchia, 
 - **Applicazioni:** Scelta finiture per nuovi progetti, ripristini, consulenza 'dove investire'.
 - **Vantaggi:** La giusta abbinata materiale-uso elimina il 90% dei difetti di fine lavori e delle lamentele post-consegna.
 - **Limiti e attenzioni:** Ogni materiale ha il suo difetto: nasconderlo al cliente è disonesto professionale; dosarlo (marmo sul piano snack, quarzo sul piano lavoro) è design.
-- **Costi ed economia:** Delta di costo tra materiali: laminato 30-60 €/ml; quarzo 250-600 €/ml; marmo 300-900 €/ml; gres 20-80 €/m²; LVT 15-40 €/m²; parquet 40-150 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Delta di costo tra materiali: laminato 30-60 €/ml; quarzo 250-600 €/ml; marmo 300-900 €/ml; gres 20-80 €/m²; LVT 15-40 €/m²; parquet 40-150 €/m².
 - **Caso tipico:** Piano cucina in marmo 'tutto uguale': dopo 3 mesi, macchie d'olio permanenti sul piano cottura; correzione con piano snack in quarzo e ripristino marmo sul resto — il cliente avrebbe scelto diversamente se avesse saputo.
 - **Normativa:** Riferimento UNI EN 685 (classi di usura pavimenti), reazioni al fuoco (DM/UNI 9177), dichiarazioni CE dei prodotti.
 - **Nota di cantiere:** Tabella da insegnare: materiale → pregio → difetto → uso ideale → fascia prezzo. È il cuore di questa scheda.
@@ -570,7 +570,7 @@ Il quadro dell'innovazione negli interni: materiali bio-based e riciclati a pare
 - **Applicazioni:** Aggiornamento offerte, consulenza clienti, ripensamento di arredi per vendita/locazione.
 - **Vantaggi:** Chi presenta soluzioni aggiornate vince le commesse: il cliente 'legge' il progettista dalla capacità di mostrare ciò che non sapeva di volere.
 - **Limiti e attenzioni:** Ogni innovazione ha un costo nascosto di manutenzione o usabilità: la doccia emozionale in un bagno di 4 m² privo di spazio tecnico è un guasto futuro, non un lusso.
-- **Costi ed economia:** Materiali innovativi: +20-80% sui tradizionali; arredi trasformabili di qualità: 1,5-3 volte il fisso standard.
+- **Costi ed economia:** Ordini di grandezza indicativi: Materiali innovativi: +20-80% sui tradizionali; arredi trasformabili di qualità: 1,5-3 volte il fisso standard.
 - **Caso tipico:** Showroom aggiornato con campioni tattili (feltro, sughero, terrazzo) e una 'cucina nascosta' funzionante: la permanenza media dei clienti è raddoppiata e il tasso di conversione a preventivo è salito in modo marcato (misurato su 6 mesi).
 - **Normativa:** Nessuna norma cogente (le finiture rispettano le norme dei singoli materiali: fuoco, emissioni, UNI).
 - **Nota di cantiere:** Criterio critico per il LLM: proporre l'innovazione con la sua SCHEDA TECNICA d'uso — dove funziona, cosa costa, cosa richiede, quando evitarla.
@@ -590,7 +590,7 @@ Il suono degli spazi: riverbero, isolamento, comfort acustico negli interni.
 - **Applicazioni:** Ristoranti, uffici, hotel, sale home cinema, open space.
 - **Vantaggi:** L'acustica è il comfort che il cliente percepisce ma non sa nominare: chi la progetta vince il giudizio finale.
 - **Limiti e attenzioni:** L'acustica si cura in progetto: i pannelli aggiunti dopo sono una toppa visibile.
-- **Costi ed economia:** Pannello fonoassorbente: 30-100 €/m2; trattamento acustico ristorante: 50-150 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pannello fonoassorbente: 30-100 €/m2; trattamento acustico ristorante: 50-150 €/m2.
 - **Caso tipico:** I ristoranti stellati con acustica curata (si parla a voce bassa); gli uffici con sale 'focus'.
 - **Normativa:** UNI EN ISO 3382 (riverbero); UNI 11367 (acustica ambienti di lavoro).
 - **Nota di cantiere:** Il test immediato di un interno di pregio: entrare, parlare, ascoltare. Se la voce 'rimbomba', il progetto costava il doppio e vale la metà.
@@ -605,7 +605,7 @@ Come un brand vive negli spazi: identità, materiali, racconto.
 - **Applicazioni:** Catene retail, hotel chain, uffici corporate, showroom.
 - **Vantaggi:** La coerenza di marca è riconoscibilità: vale milioni in advertising equivalente.
 - **Limiti e attenzioni:** La rigidità eccessiva uccide l'anima del singolo locale.
-- **Costi ed economia:** Art direction spazi: 5-50k€ progetto; brand book: 10-100k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Art direction spazi: 5-50k€ progetto; brand book: 10-100k€.
 - **Caso tipico:** Le sedi coerenti di Aesop (ogni negozio diverso ma riconoscibile); i marchi di moda nelle loro flagship.
 - **Normativa:** Nessuna norma.
 - **Nota di cantiere:** Per l'LLM: quando un cliente chiede 'un interno elegante', la domanda professionale è 'che marca sei? Chi vuoi essere?' Il design nasce dalla risposta, non dal catalogo.
@@ -620,7 +620,7 @@ Il colore come strumento progettuale: teoria, percezione, applicazione.
 - **Applicazioni:** Pareti, facciate, arredi, segnaletica.
 - **Vantaggi:** Il colore giusto corregge difetti di proporzione a costo di una vernice.
 - **Limiti e attenzioni:** Il colore sul monitor non è il colore in parete: serve campionatura reale.
-- **Costi ed economia:** Consulenza color design: 50-150 €/ora; campioni NCS: 5-15 €/pz.
+- **Costi ed economia:** Ordini di grandezza indicativi: Consulenza color design: 50-150 €/ora; campioni NCS: 5-15 €/pz.
 - **Caso tipico:** Le case colorate di Portofino e Burano; il rosso Ferrari come marchio cromatico.
 - **Normativa:** NCS (Natural Colour System) come riferimento europeo.
 - **Nota di cantiere:** L'LLM deve sapere: il bianco non esiste. Ne esistono 100 (bianchi caldi, freddi, grigi): il bianco sbagliato rende ospedale anche un attico di lusso.
@@ -635,7 +635,7 @@ Le due stanze che decidono il valore percepito di un'abitazione.
 - **Applicazioni:** Residenze, hotel, contract.
 - **Vantaggi:** Cucina e bagno di pregio recuperano il 100% dell'investimento alla rivendita.
 - **Limiti e attenzioni:** La moda di queste stanze cambia in 10 anni: il progetto deve prevedere l'aggiornabilità.
-- **Costi ed economia:** Cucina di pregio: 15-60k€; bagno di pregio: 8-25k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cucina di pregio: 15-60k€; bagno di pregio: 8-25k€.
 - **Caso tipico:** Le cucine 'teatro' con isola centrale; i bagni in marmo bookmatch.
 - **Normativa:** Nessuna norma specifica (impianti sì, scarichi, antincendio).
 - **Nota di cantiere:** L'LLM deve sapere che in queste due stanze il lusso si tocca (rubinetteria, maniglie) e si vive (funzionalità): chi progetta solo l'immagine fallisce in 6 mesi di uso quotidiano.
@@ -650,7 +650,7 @@ Il legno costruito su misura: la sartoria dell'interior design.
 - **Applicazioni:** Interni di pregio, uffici direzionali, hotel boutique.
 - **Vantaggi:** Il su misura risolve ogni spazio irregolare e dà unicità assoluta.
 - **Limiti e attenzioni:** Costo e tempo: il su misura richiede 6-12 settimane di consegna.
-- **Costi ed economia:** Boiserie su misura: 300-800 €/m2; libreria su misura: 400-1.000 €/m2; arredo custom: 1.000-3.000 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Boiserie su misura: 300-800 €/m2; libreria su misura: 400-1.000 €/m2; arredo custom: 1.000-3.000 €/m2.
 - **Caso tipico:** Le boiserie storiche dei palazzi italiani; le cucine su misura di artigiani italiani.
 - **Normativa:** Nessuna norma (emissioni legni: Classe E1).
 - **Nota di cantiere:** Il su misura si ordina dopo il progetto impianti definitivo: una boiseria sopra una canalina mai posata è un disastro da 10k€. Sequenza: prima rete, poi boiserie.
@@ -665,7 +665,7 @@ Come si governa il processo di design in azienda: metodo, persone, tempi.
 - **Applicazioni:** Aziende di prodotto, contract, brand di arredo.
 - **Vantaggi:** Il design senza metodo è decorazione; il metodo senza design è burocrazia.
 - **Limiti e attenzioni:** Il design management richiede budget e potere decisionale veri.
-- **Costi ed economia:** Consulenza design management: 300-800 €/giorno; progetto completo prodotto: 10-100k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Consulenza design management: 300-800 €/giorno; progetto completo prodotto: 10-100k€.
 - **Caso tipico:** Aziende italiane del comparto arredo che vincono col design (Cassina, B&B, Poliform).
 - **Normativa:** Nessuna norma: metodo manageriale.
 - **Nota di cantiere:** Per l'LLM: quando l'utente descrive un prodotto 'bellissimo ma fallito', la prima ipotesi è mancanza di design management: brief vago, tempi imposti, costi tagliati a metà.
@@ -695,7 +695,7 @@ Progettare hotel: dalla hall alla camera, il racconto dell'accoglienza.
 - **Applicazioni:** Hotel di lusso, boutique hotel, resort, B&B di pregio.
 - **Vantaggi:** L'hotel si giudica in 10 secondi dalla hall: il design è il primo servizio.
 - **Limiti e attenzioni:** La manutenzione di un hotel è quotidiana: materiali 'belli ma fragili' sono un errore professionale.
-- **Costi ed economia:** Ristrutturazione hotel 4-5 stelle: 1.500-3.500 €/m2; arredo camera: 8-20k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Ristrutturazione hotel 4-5 stelle: 1.500-3.500 €/m2; arredo camera: 8-20k€.
 - **Caso tipico:** Gli hotel di Ian Schrager/Edition; il Bulgari Hotel Milano; agriturismi di design in Toscana.
 - **Normativa:** Normativa alberghiera regionale (classificazione); antincendio DM 2/9/2021.
 - **Nota di cantiere:** L'hotel che funziona ha un'identità riconoscibile in ogni dettaglio (portachiavi, profumo, musica): il design è coerenza totale, non solo estetica.
@@ -710,7 +710,7 @@ Il design che parte dall'utente: ricerca, empatia, test.
 - **Applicazioni:** Arredo, spazi, prodotti digitali fisici.
 - **Vantaggi:** Riduce il 70% dei fallimenti: si testa prima di produrre.
 - **Limiti e attenzioni:** La ricerca utente costa tempo: il mercato spesso non lo vuole pagare.
-- **Costi ed economia:** Ricerca utente: 2-10k€ per progetto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Ricerca utente: 2-10k€ per progetto.
 - **Caso tipico:** Il design dei sedili aeronautici testato su migliaia di corpi; il bracciolo del treno che 'non capisce' chi lo usa.
 - **Normativa:** UNI ISO 9241 (ergonomia interazione uomo-sistema).
 - **Nota di cantiere:** La frase guida: 'non sono il mio utente'. Il progettista deve uscire dalla propria testa e misurare le persone reali.
@@ -725,7 +725,7 @@ La casa di lusso: distribuzione, materiali, custom, tecnologia integrata.
 - **Applicazioni:** Ville, attici, residenze private.
 - **Vantaggi:** La casa di pregio si vive, non si fotografa: il comfort quotidiano è il vero lusso.
 - **Limiti e attenzioni:** Il rischio 'showroom': la casa-museo non si abita.
-- **Costi ed economia:** Interior di pregio: 1.500-4.000 €/m2; cucina professionale integrata: 20-80k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Interior di pregio: 1.500-4.000 €/m2; cucina professionale integrata: 20-80k€.
 - **Caso tipico:** Le ville di Lake Como; gli interni di Studio Peregalli (classicismo contemporaneo).
 - **Normativa:** Nessuna norma specifica (impianti e antincendio sì).
 - **Nota di cantiere:** Il criterio di pregio moderno: la tecnologia che non si vede (luce, clima, audio integrati) e la materia che si tocca (pietra, legno, tessuto).
@@ -740,7 +740,7 @@ L'ufficio contemporaneo: flessibilità, wellbeing, ibrido.
 - **Applicazioni:** Uffici corporate, startup, studi professionali.
 - **Vantaggi:** L'ufficio giusto attrae talenti: il workplace è leva di recruiting.
 - **Limiti e attenzioni:** L'open space acusticamente sbagliato è la causa n.1 di insoddisfazione lavorativa.
-- **Costi ed economia:** Workplace design: 400-1.000 €/m2; phone booth acustica: 5-15k€/pz.
+- **Costi ed economia:** Ordini di grandezza indicativi: Workplace design: 400-1.000 €/m2; phone booth acustica: 5-15k€/pz.
 - **Caso tipico:** Le sedi Google (activity based); il nuovo ufficio ibrido post-2020.
 - **Normativa:** WELL Building Standard; UNI EN 12464-1 (illuminazione); UNI 11367 (progetto acustico degli edifici).
 - **Nota di cantiere:** La domanda da LLM per l'ufficio: 'quante ore di lavoro profondo richiedono le persone qui?' Da lì nasce il rapporto tra open space e sale concentrate.
@@ -755,7 +755,7 @@ Progettare la luce come si progetta una scena: strati, temperature, contrasti.
 - **Applicazioni:** Abitazioni di pregio, ristoranti, hotel, retail, musei.
 - **Vantaggi:** La luce giusta trasforma uno spazio mediocre: il miglior rapporto costo/impatto dell'interior.
 - **Limiti e attenzioni:** La luce sbagliata distrugge anche i materiali migliori.
-- **Costi ed economia:** Progetto lighting: 3-8 €/m2; corpo illuminante di design: 100-1.000 €/pz.
+- **Costi ed economia:** Ordini di grandezza indicativi: Progetto lighting: 3-8 €/m2; corpo illuminante di design: 100-1.000 €/pz.
 - **Caso tipico:** I negozi del lusso (luce 2700K sui prodotti, 4000K nei camerini); l'esperienza TeamLab.
 - **Normativa:** CEI EN 12464-1; UNI EN 15193.
 - **Nota di cantiere:** Regola dei tre strati: mai una sola luce a soffitto. Generale + funzionale + accenti: il segreto di ogni interno di pregio.
@@ -770,7 +770,7 @@ Marmi, essenze, metalli, tessuti: cosa distingue una finitura di pregio.
 - **Applicazioni:** Interior design di lusso, hospitality, yacht, contract premium.
 - **Vantaggi:** Il materiale giusto comunica valore meglio di qualsiasi decorazione aggiunta.
 - **Limiti e attenzioni:** Il pregio senza manutenzione diventa degrado: il marmo bianco in cucina è un impegno.
-- **Costi ed economia:** Marmo di pregio: 80-300 €/m2; essenza pregiata (wengè, teak): 80-200 €/m2; ottone brunito: 150-400 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Marmo di pregio: 80-300 €/m2; essenza pregiata (wengè, teak): 80-200 €/m2; ottone brunito: 150-400 €/m2.
 - **Caso tipico:** I marmi di Carrara (Calacatta, Statuario); il legno di recupero certificato di pregio.
 - **Normativa:** Nessuna norma sul pregio: la certificazione FSC/PEFC conta per il legno.
 - **Nota di cantiere:** L'LLM deve distinguere 'costoso' da 'pregiato': il granito comune costa più di alcuni marmi rari ed è esteticamente inferiore. Il pregio è conoscenza, non prezzo.
@@ -785,7 +785,7 @@ Gli spazi esterni come stanze a cielo aperto: arredo, materiali, verde.
 - **Applicazioni:** Ville, attici, hotel, ristoranti.
 - **Vantaggi:** Gli spazi esterni aumentano la metratura percepita e il valore immobiliare.
 - **Limiti e attenzioni:** Le premesse sbagliate (quota scarichi, vento, sole) rovinano l'outdoor più di qualsiasi altro spazio.
-- **Costi ed economia:** Outdoor completo: 200-600 €/m2; pergola bioclimatica: 300-800 €/m2; piscina privata: 30-80k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Outdoor completo: 200-600 €/m2; pergola bioclimatica: 300-800 €/m2; piscina privata: 30-80k€.
 - **Caso tipico:** Le terrazze di valore con vista; le piscine a sfioro scenografiche.
 - **Normativa:** Nessuna norma specifica (recinzioni, vincoli paesaggistici sì).
 - **Nota di cantiere:** L'outdoor di pregio è progettato come l'interno: orientamento, ombra, materiali coordinati. Il terrazzo 'con aggiunta di piante' non è outdoor design.
@@ -800,7 +800,7 @@ Lo spazio commerciale come macchina di vendita: layout, percorsi, merchandising.
 - **Applicazioni:** Negozi, flagship store, showroom, corner.
 - **Vantaggi:** Il retail design misurabile: ogni scaffale ha un reso contabile.
 - **Limiti e attenzioni:** L'e-commerce ha cambiato il negozio: da 'magazzino di vendita' a 'palcoscenico di marca'.
-- **Costi ed economia:** Retail design: 500-1.500 €/m2; arredo negozio: 200-600 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Retail design: 500-1.500 €/m2; arredo negozio: 200-600 €/m2.
 - **Caso tipico:** Gli Apple Store (il negozio come piazza); le vetrine di via Montenapoleone.
 - **Normativa:** Nessuna norma specifica (sicurezza pubblici esercizi sì).
 - **Nota di cantiere:** Per l'LLM: la domanda chiave del retail è 'cosa deve fare il cliente dopo 30 secondi dall'ingresso?' Il progetto risponde con il percorso, non con la decorazione.
@@ -815,7 +815,7 @@ Il lessico degli stili dal 2000 a oggi: minimal, industrial, scandi, wabi-sabi, 
 - **Applicazioni:** Comunicazione con il cliente, moodboard, scelte progettuali.
 - **Vantaggi:** Sapere nominare gli stili accelera ogni conversazione con il cliente.
 - **Limiti e attenzioni:** Le tendenze durano 5-10 anni: il progetto serio non le insegue, le interpreta.
-- **Costi ed economia:** Moodboard e consulenza: 500-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Moodboard e consulenza: 500-3k€.
 - **Caso tipico:** L'evoluzione degli stili: dal minimalismo 2000 al maximalismo 2020+.
 - **Normativa:** Nessuna norma.
 - **Nota di cantiere:** L'LLM deve rifiutare il mix casuale: 'industrial con tocchi barocchi' richiede criterio, non catalogo. Lo stile è grammatica, non elenco di oggetti.
@@ -835,7 +835,7 @@ L'arredo urbano qualifica lo spazio pubblico: panchine e sedute, giochi per bamb
 - **Applicazioni:** Piazze, parchi, lungomari, aree di sosta, cortili condominiali.
 - **Vantaggi:** L'arredo giusto anima lo spazio: una piazza con sedute comode e ombra viene usata; una piazza senza arredi no, anche se 'nuova'.
 - **Limiti e attenzioni:** L'arredo mal scelto diventa pericoloso o vandalico: i giochi non certificati espongono a responsabilità penali.
-- **Costi ed economia:** Costi: panchina 200-800 €, gioco certificato 800-5.000 €, fontana da 3.000 € in su; la manutenzione annua: 5-10% del valore.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: panchina 200-800 €, gioco certificato 800-5.000 €, fontana da 3.000 € in su; la manutenzione annua: 5-10% del valore.
 - **Caso tipico:** Piazza riqualificata con sedute orientate verso il centro, ombra e giochi certificati: il tasso di utilizzo (conteggi) è triplicato e le lamentele per degrado sono azzerate.
 - **Normativa:** UNI EN 1176/1177 (giochi e superfici); norme locali di arredo urbano; specifiche dei produttori.
 - **Nota di cantiere:** La prima regola dell'arredo: disegnare per l'uso, non per la foto — sedute sotto il sole battente senza ombra non le userà nessuno.
@@ -850,7 +850,7 @@ I tetti giardino trasformano la copertura in spazio verde: stratigrafia a rovesc
 - **Applicazioni:** Edifici residenziali, uffici, coperture di box, serre, strutture commerciali.
 - **Vantaggi:** Il tetto verde protegge la guaina dal sole e dagli sbalzi: la vita dell'impermeabilizzazione passa da 15-20 a 40+ anni (stima di settore).
 - **Limiti e attenzioni:** Il peso è il limite decisivo: su solai vecchi non rinforzati il tetto verde intensivo è impossibile; la valutazione strutturale precede ogni entusiasmo.
-- **Costi ed economia:** Costi: estensivo 60-120 €/m²; intensivo 150-350 €/m²; il risparmio energetico estivo: sensibile sulle coperture esposte.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: estensivo 60-120 €/m²; intensivo 150-350 €/m²; il risparmio energetico estivo: sensibile sulle coperture esposte.
 - **Caso tipico:** Ufficio con tetto estensivo: la temperatura interna sotto copertura in estate è scesa di 4-5 °C con minore uso di climatizzazione; la guaina, verificata a 12 anni, era come nuova sotto il substrato.
 - **Normativa:** UNI EN 12056? No: riferimento normativo: norme sui tetti verdi (linee guida nazionali e specifiche FLL tedesche di riferimento internazionale); verifica strutturale NTC.
 - **Nota di cantiere:** La sequenza corretta: struttura → impermeabilizzazione (verificata in condizioni reali) → sistemi → piante: mai invertire l'ordine.
@@ -865,7 +865,7 @@ La scelta delle piante è la decisione che vale decenni: gli alberi da fusto alt
 - **Applicazioni:** Parchi, giardini, aiuole stradali, siepi, aree private.
 - **Vantaggi:** Le essenze giuste riducono manutenzione e acqua del 50-70% rispetto alle scelte 'da rivista' non adattate.
 - **Limiti e attenzioni:** La moda delle piante esotiche crea passivi: palme e banani in climi non loro sopravvivono con cure costose o muoiono.
-- **Costi ed economia:** Costi: pianta da siepe 5-20 €; arbusto 10-40 €; albero da fusto 150-800 €; prato a semina 3-8 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: pianta da siepe 5-20 €; arbusto 10-40 €; albero da fusto 150-800 €; prato a semina 3-8 €/m².
 - **Caso tipico:** Comune che ha sostituito il lungo viale di platani malati con frassini e tigli più resistenti: le spese di manutenzione e sostituzione si sono dimezzate in 6 anni e l'ombreggiamento è tornato pieno.
 - **Normativa:** Nessuna norma cogente; conoscenze botaniche e prassi locali (vivai).
 - **Nota di cantiere:** La domanda futura: 'questa pianta reggerà i 40 °C di luglio tra 10 anni con l'acqua che avremo?' — se la risposta è incerta, scegliere altro.
@@ -880,7 +880,7 @@ L'irrigazione moderna è a goccia e programmata: consuma il 30-60% in meno dell'
 - **Applicazioni:** Giardini privati, parchi, coperture verdi, campi sportivi, agricoltura urbana.
 - **Vantaggi:** L'irrigazione programmata col sensore pioggia: risparmio idrico garantito e piante più sane (meno funghi per foglie bagnate).
 - **Limiti e attenzioni:** Il sistema mal dimensionato (zone troppo grandi) dà pressioni basse e coperture a macchia di leopardo.
-- **Costi ed economia:** Costi: impianto a goccia 4-10 €/m²; irrigazione interrata completa 8-20 €/m²; il risparmio idrico: documentato 30-50%.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: impianto a goccia 4-10 €/m²; irrigazione interrata completa 8-20 €/m²; il risparmio idrico: documentato 30-50%.
 - **Caso tipico:** Parco pubblico con irrigazione zonata e sensore pioggia: il consumo idrico annuo è sceso del 45% rispetto all'aspersione notturna precedente, con migliore stato del tappeto erboso.
 - **Normativa:** Nessuna norma cogente; prassi e specifiche dei produttori; normativa sul risparmio idrico locale.
 - **Nota di cantiere:** La regola: irrigare poco e spesso? No: irrigare profondo e raramente (radici profonde = piante resistenti), con sensore pioggia obbligatorio.
@@ -895,7 +895,7 @@ Il verde senza manutenzione muore o diventa pericolo: potature, concimazioni, ir
 - **Applicazioni:** Condòmini, aziende, parchi pubblici, proprietari privati.
 - **Vantaggi:** La manutenzione programmata costa meno degli interventi d'emergenza: il ramo caduto costa 10 volte la potatura programmata.
 - **Limiti e attenzioni:** Il contratto vago ('manutenzione ordinaria del verde') genera liti infinite su cosa sia 'ordinaria'.
-- **Costi ed economia:** Costi: manutenzione giardino privato: 3-10 €/m²/anno; parchi pubblici: budget comunali dedicati; la potatura di un albero da fusto: 150-600 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: manutenzione giardino privato: 3-10 €/m²/anno; parchi pubblici: budget comunali dedicati; la potatura di un albero da fusto: 150-600 €.
 - **Caso tipico:** Condominio passato da manutenzione 'a chiamata' a contratto annuale con capitolato e calendario: il giardino è rinato in una stagione e le spese impreviste (alberi caduti, infestanti) sono azzerate.
 - **Normativa:** Capitolati tipo e regolamenti locali; normativa fitosanitaria (D.Lgs 150/2012); prassi di settore.
 - **Nota di cantiere:** Il giardino è un contratto continuo, non un evento: chi lo tratta come tale ha giardini belli; chi no, ha spese e lamentele.
@@ -910,7 +910,7 @@ I giardini verticali portano il verde in su: pannelli modulari o feltri stratifi
 - **Applicazioni:** Facciate di edifici, pareti interne di atri, barriere acustiche verdi, spazi commerciali.
 - **Vantaggi:** Il giardino verticale trasforma una parete anonima in habitat: valore estetico e ambientale insieme.
 - **Limiti e attenzioni:** L'impianto di irrigazione è il cuore: se si guasta, il muro muore in settimane; la manutenzione richiede specialisti.
-- **Costi ed economia:** Costi: 400-900 €/m² installato (moduli, ordini di grandezza variabili); manutenzione: 10-30 €/m²/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: 400-900 €/m² installato (moduli, ordini di grandezza variabili); manutenzione: 10-30 €/m²/anno.
 - **Caso tipico:** Parete verde in un atrio d'ufficio: la qualità dell'aria percepita migliorata e le temperature estive della parete orientata a ovest ridotte di 8 °C in superficie; l'irrigazione con centralina e recupero condensa consuma pochissimo.
 - **Normativa:** Nessuna norma specifica nazionale; specifiche dei sistemi e verifica strutturale degli ancoraggi.
 - **Nota di cantiere:** Regole: irrigazione ridondante (doppia linea o backup), accesso per la sostituzione delle cassette, essenze per l'esposizione reale.
@@ -940,7 +940,7 @@ Il giardino si progetta come l'architettura: funzione (gioco, relax, produzione)
 - **Applicazioni:** Giardini privati, condomini, aziende, giardini terapeutici, cortili scolastici.
 - **Vantaggi:** Il giardino ben progettato vive con poca acqua e poca manutenzione: la sostenibilità inizia dalle scelte correttive.
 - **Limiti e attenzioni:** Il giardino 'da rivista' con essenze non adattate al clima muore entro 2-3 anni o diventa un pozzo di soldi.
-- **Costi ed economia:** Costo progettazione giardino: 5-15% del valore dell'impianto; impianto completo residenziale: 100-300 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo progettazione giardino: 5-15% del valore dell'impianto; impianto completo residenziale: 100-300 €/m².
 - **Caso tipico:** Giardino mediterraneo sostituito a prato inglese in una villa: consumo idrico da 8.000 a 1.200 €/anno, manutenzione quasi dimezzata, valore estetico salito per coerenza con il contesto.
 - **Normativa:** Nessuna norma cogente salvo standard urbanistici; prassi di settore (architettura del paesaggio).
 - **Nota di cantiere:** Domande guida: chi usa questo giardino? quanta acqua e manutenzione possiamo permetterci? cosa resterà tra 10 anni senza interventi eroici?
@@ -955,7 +955,7 @@ Il verde in città non è decorazione: è infrastruttura ecologica: mitiga isola
 - **Applicazioni:** Parchi urbani, giardini di edifici, strade alberate, aiuole, cortili, aree industriali.
 - **Vantaggi:** Il verde è l'unica infrastruttura che cresce di valore con gli anni: un albero piantato oggi rende servizi per decenni.
 - **Limiti e attenzioni:** Il verde mal progettato (essenze sbagliate, manutenzione assente) diventa un passivo: alberi che cadono, aiuole infestate.
-- **Costi ed economia:** Costi: impianto giardino urbano 80-250 €/m²; manutenzione 5-20 €/m²/anno; un albero ad alto fusto piantumato: 200-800 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: impianto giardino urbano 80-250 €/m²; manutenzione 5-20 €/m²/anno; un albero ad alto fusto piantumato: 200-800 €.
 - **Caso tipico:** Strada alberata con platani maturi: la temperatura estiva misurata a 2 m dal suolo è 6-8 °C inferiore alla strada parallela senza alberi; i negozi della strada alberata segnalano maggiore permanenza dei clienti nei mesi caldi.
 - **Normativa:** Standard DM 1444/68 e leggi regionali; linee guida verde urbano comunali; norme paesaggistiche.
 - **Nota di cantiere:** Prima regola del verde urbano: si pianta pensando a come sarà tra 20 anni, non a come appare oggi.

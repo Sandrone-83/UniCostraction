@@ -20,7 +20,7 @@ Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa
 - **Applicazioni:** Piani urbanistici, nuove infrastrutture di trasporto, autorizzazioni industriali, valutazioni di impatto acustico, contenziosi di vicinato.
 - **Vantaggi:** La classe acustica dà un diritto: l'abitante di una zona classe II può pretendere il rispetto dei limiti notturni, e il progettista di una nuova strada sa a cosa attenersi prima di disegnarla.
 - **Limiti e attenzioni:** I valori esatti di limite li fissa il piano comunale: la legge quadro dà le categorie, i regolamenti locali danno i numeri; le mappe di zonizzazione possono essere datate.
-- **Costi ed economia:** Indagine fonometrica ambientale per VIA o piano: 3.000-15.000 € in funzione del numero di stazioni e notti di misura; zonizzazione comunale: 20.000-100.000 € per il piano completo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Indagine fonometrica ambientale per VIA o piano: 3.000-15.000 € in funzione del numero di stazioni e notti di misura; zonizzazione comunale: 20.000-100.000 € per il piano completo.
 - **Caso tipico:** Nuovo centro logistico vicino a frazione residenziale: la valutazione previsionale ha mostrato superamento notturno di 4 dB sul limite di classe III: l'accordo con il comune ha previsto barriera fonica e chiusura notturna del piazzale in cambio dell'autorizzazione, evitando il contenzioso.
 - **Normativa:** Legge 26/10/1995 n. 447; D.Lgs. 19/08/2005 n. 194 (attuazione direttiva 2002/49/CE); norme tecniche di riferimento UNI EN ISO 1996-1/-2 (misura e descrizione); regolamenti e piani attuativi comunali.
 - **Nota di cantiere:** In fase di acquisto o progettazione, chiedere subito la classe acustica della zona: una differenza di classe può valere un trattamento di facciata da 30.000 € o un contenzioso decennale.
@@ -35,7 +35,7 @@ Quando un edificio esistente non rispetta i requisiti (o le lamentele arrivano),
 - **Applicazioni:** Edifici residenziali e alberghi in contenzioso, cambi destinazione d'uso, edifici storici con requisiti da adeguare, scuole e uffici pubblici.
 - **Vantaggi:** La bonifica ben diagnosticata colpisce il cammino vero: i costi si contenere perché si interviene dove serve e non 'a tappeto'.
 - **Limiti e attenzioni:** Nei solai di legno antichi e nei solai in laterocemento con travetti il margine di miglioramento è fisicamente limitato (5-8 dB): gestire le aspettative con il committente è parte dell'intervento.
-- **Costi ed economia:** Bonifica parete con contro-parete isolata: 80-150 €/m²; controsoffitto acustico: 70-140 €/m²; massetto flottente di bonifica: 40-80 €/m²; campagna diagnostica preliminare: 1.000-3.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Bonifica parete con contro-parete isolata: 80-150 €/m²; controsoffitto acustico: 70-140 €/m²; massetto flottente di bonifica: 40-80 €/m²; campagna diagnostica preliminare: 1.000-3.000 €.
 - **Caso tipico:** Albergo in centro storico con calpestio di 62 dB in tutte le camere sottostanti: il problema era un unico tipo di massetto anni '70 incollato. La sostituzione selettiva solo dei solai delle camere (40% della superficie) ha portato l'intero albergo in conformità, risparmiando il 60% del costo 'a tappeto'.
 - **Normativa:** DPCM 5/12/1997 (valori di conformità); UNI EN ISO 16283 (verifica post-intervento); UNI EN ISO 12354 (valutazione previsionale dell'intervento).
 - **Nota di cantiere:** La regola della bonifica: mai aggiungere materiale prima di aver spento i ponti. Chi mette lana ovunque senza aver chiuso il cammino di flanking sta arricchendo il cartongessificio, non l'isolamento.
@@ -50,7 +50,7 @@ Il rumore di calpestio è la struttura-borne sound generata dai passi: si attuti
 - **Applicazioni:** Edilizia residenziale e alberghiera: solai tra piani diversi, unità in verticale, palestre e locali tecnici sopra ambienti sensibili.
 - **Vantaggi:** Il massetto galleggiante è la tecnica più robusta: il costo aggiuntivo è modesto (8-20 €/m²) rispetto al rischio di asseverazione mancata.
 - **Limiti e attenzioni:** Ponte acustico al perimetro = azzeramento della prestazione; i lavori successivi (perforazioni per infissi a pavimento, scale) possono distruggere la galleggiamento locale.
-- **Costi ed economia:** Sistema massetto flottante completo: 25-50 €/m² (isolante + massetto + posa); correzione postuma in opera: 30-80 €/m² con ristrutturazione dei locali.
+- **Costi ed economia:** Ordini di grandezza indicativi: Sistema massetto flottante completo: 25-50 €/m² (isolante + massetto + posa); correzione postuma in opera: 30-80 €/m² con ristrutturazione dei locali.
 - **Caso tipico:** Condominio con L'nT,w misurato di 61 dB: la causa era un unico ponte al cordolo perimetrale del vano scala, dove il massetto era 'poggiato' per errore sul muro portante. Il rifacimento di 12 metri lineari di cordolo ha portato l'intero edificio in conformità.
 - **Normativa:** DPCM 5/12/1997 (limite L'nT,w ≤ 58 dB); UNI EN ISO 717-2 (classificazione calpestio); UNI EN ISO 140-7/-8 (misura in laboratorio e opera).
 - **Nota di cantiere:** Regola pratica: il flottamento si controlla prima del getto, non dopo. Una foto del cordolo perimetrale chiuso correttamente vale più di dieci certificazioni di materiale.
@@ -65,7 +65,7 @@ La protezione dal rumore esterno si ottiene con la facciata (muratura, serrament
 - **Applicazioni:** Strade, ferrovie, aeroporti, zone industriali, ospedali e scuole vicino a sorgenti, nuove costruzioni in aree classificate ad alta emissione.
 - **Vantaggi:** La facciata giusta risolve il problema alla radice: un buon serramento ben installato protegge 24 ore su 24 senza manutenzione.
 - **Limiti e attenzioni:** Le abitudini d'uso (finestre aperte di notte in estate) possono annullare il progetto; nelle aree con rumore molto alto (oltre 70 dB) servono facciate speciali e ventilazione meccanica.
-- **Costi ed economia:** Serramento con doppio vetro 4/12/4 e telaio a taglio termico: 300-600 €/m²; triplo vetro: 450-800 €/m²; barriera stradale fonica: 400-900 €/ml.
+- **Costi ed economia:** Ordini di grandezza indicativi: Serramento con doppio vetro 4/12/4 e telaio a taglio termico: 300-600 €/m²; triplo vetro: 450-800 €/m²; barriera stradale fonica: 400-900 €/ml.
 - **Caso tipico:** Case popolari lungo tangenziale: le camere da letto davanti alla barriera rilevavano 68 dB(A) con finestra chiusa a causa di cassonetti rotti e vetri semplici; il piano di sostituzione serramenti (triplo vetro, cassonetti coibentati) ha portato le camere a 45-48 dB(A) con la barriera stradale esistente.
 - **Normativa:** Legge 447/95 e classificazione acustica del territorio (limiti per uso degli ambienti); DPCM 5/12/1997; UNI EN ISO 12354-3 (calcolo della facciata); UNI EN ISO 1996 (descrizione e misura del rumore esterno).
 - **Nota di cantiere:** Verifica pratica: la facciata vale quanto il suo elemento più debole per il cammino aereo. Controllare cassonetti, bocchette di ventilazione, e la tenuta perimetrale degli infissi prima di firmare il collaudo acustico.
@@ -80,7 +80,7 @@ L'acustica si misura in decibel (dB), scala logaritmica del rapporto tra pressio
 - **Applicazioni:** Base di ogni progetto, misura e verifica acustica: dai cantieri ai concerti, dalle scuole alle fondamenta dei compressori.
 - **Vantaggi:** Una volta capita la scala logaritmica, i numeri acustici diventano leggibili: '64 dB' si scompone in bande, frequenze e pesi in modo meccanico.
 - **Limiti e attenzioni:** Il dB non è una grandezza 'assoluta' come il metro: senza specificare pesatura, banda e tempo di misura, un valore isolato è ambiguo.
-- **Costi ed economia:** Fonometro integratore professionale: noleggio 100-300 €/giorno, acquisto 800-4.000 €; fonometro classe 1 con analizzatore di bande 3.000-10.000 €; software di calcolo previsionale acustico da gratuito a 5.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Fonometro integratore professionale: noleggio 100-300 €/giorno, acquisto 800-4.000 €; fonometro classe 1 con analizzatore di bande 3.000-10.000 €; software di calcolo previsionale acustico da gratuito a 5.000 €.
 - **Caso tipico:** Contenzioso tra condomini: la misura 'a sensazione' registrata su smartphone (65 dB pesata sbagliata, tempo di misura 10 s) è stata sostituita da una misura fonometrica con fonometro classe 1, pesatura A, intervallo di osservazione di un'ora: il valore corretto era 54 dB(A) e il contenzioso si è chiuso.
 - **Normativa:** Riferimenti metrologici: IEC 61672 (fonometri); serie UNI EN ISO 1996 (rumore ambientale); UNI EN ISO 140 e UNI EN ISO 16283 (misura acustica in edilizia).
 - **Nota di cantiere:** Prima di discutere di rumore, fissare le condizioni: pesatura, banda, tempo di misura, meteo, sorgente. Chi misura senza convenzioni sta raccogliendo numeri, non prove.
@@ -95,7 +95,7 @@ Gli impianti meccanici sono la prima causa di lamentele acustiche negli edifici 
 - **Applicazioni:** Centrali termiche, tetti tecnici, facciate con unità esterne, cantieri di climatizzazione, VMC in residenze di pregio.
 - **Vantaggi:** Il rumore impiantistico è quasi sempre progettato male, non costruito male: intervenire in progetto costa decine di euro al mq, in bonifica centinaia.
 - **Limiti e attenzioni:** Le etichette dei prodotti danno il Lw in laboratorio: in installazione reale il valore cambia di diversi dB; le norme sul rumore di vicinato (classi acustiche) possono imporre limiti più stringenti in fascia notturna.
-- **Costi ed economia:** Supporti antivibranti seri: 50-300 € a macchina; base inerziale 500-3.000 €; silenziatori aeraulici 100-400 €/m² di sezione; bonifica postuma di un tetto tecnico: 5.000-30.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Supporti antivibranti seri: 50-300 € a macchina; base inerziale 500-3.000 €; silenziatori aeraulici 100-400 €/m² di sezione; bonifica postuma di un tetto tecnico: 5.000-30.000 €.
 - **Caso tipico:** Residenze di pregio con pompe di calore sul tetto: 54 dB(A) di notte in camera sottostante (limite 45 per la classe acustica); soluzione con basi inerziali + supporti a molla e barriera su due lati: -12 dB(A) in camera, costo 18.000 € su 12 unità.
 - **Normativa:** DPCM 5/12/1997 (requisiti sugli impianti); UNI EN ISO 3744 (determinazione dei livelli di potenza sonora dai macchinari); norme regionali sulle classi acustiche (attuazione legge 447/95); UNI EN 12354 per il calcolo previsionale dei livelli in opera.
 - **Nota di cantiere:** La domanda progettuale decisiva: 'a quanti dB di fondo è l'ambiente a destinazione, e quale margine voglio?' Se la risposta non c'è, il silenziamento si compra a caso.
@@ -110,7 +110,7 @@ Negli ambienti di lavoro l'obiettivo non è il silenzio ma la comprensibilità: 
 - **Applicazioni:** Uffici operativi, direzionali, call center, sale conferenza, studi medici e professionali, scuole e università.
 - **Vantaggi:** L'acustica corretta è produttività: la riduzione del disturbo percettivo si traduce in meno errori, meno stress e meno assenteismo auto-riportato.
 - **Limiti e attenzioni:** Il sound masking mal progettato diventa esso stesso un disturbo; gli uffici con cemento levigato e vetro dappertutto sono acusticamente ingestibili a costi ragionevoli.
-- **Costi ed economia:** Trattamento acustico open space: 30-80 €/m² di assorbimento installato; sound masking: 20-60 €/m²; sale riunione complete: 5.000-30.000 € in funzione della superficie.
+- **Costi ed economia:** Ordini di grandezza indicativi: Trattamento acustico open space: 30-80 €/m² di assorbimento installato; sound masking: 20-60 €/m²; sale riunione complete: 5.000-30.000 € in funzione della superficie.
 - **Caso tipico:** Open space di 120 postazioni con RT60 1,4 s: le telefonate si sentivano a 20 metri; intervento con baffle al soffitto e divisori acustici tra i cluster: RT60 0,6 s, distanza di privacy da 6 m a 2,5 m, soddisfazione rilevata +40%.
 - **Normativa:** UNI 11175:2016 (requisiti acustici degli ambienti di lavoro); UNI EN ISO 11654 (assorbitori); DPCM 5/12/1997 per i requisiti passivi tra unità; D.Lgs 81/2008 (ambiente di lavoro, comfort).
 - **Nota di cantiere:** Test in falsa scala: in cantiere, prima dei mobili, fare il 'colpo di tosse' a centro stanza. Se la coda di riverbero si sente lunga, il soffitto e le pareti vanno trattati prima che arrivino le scrivanie.
@@ -125,7 +125,7 @@ L'isolamento acustico di un elemento si valuta con indici in dB: il Rw (laborato
 - **Applicazioni:** Scelta di pareti divisorie, solai, facciate, serramenti: ogni elemento di separazione si specifica con il suo indice.
 - **Vantaggi:** Indici unificati: il serramento da 38 dB e la parete da 50 dB si confrontano sullo stesso metro, e il progetto somma i cammini di trasmissione.
 - **Limiti e attenzioni:** L'indice singolo nasconde il comportamento in frequenza: un solaio con 'buca' a 250 Hz può avere Rw buono e prestazione reale cattiva; le misure in opera includono le flanking transmission che il laboratorio non vede.
-- **Costi ed economia:** Incidenza tipica: passare da una parete interna da 45 a 52 dB di Rw costa in media 10-25 €/m² di materiale in più (doppia lastra, lana, distanziatori); il costo maggiore è quasi sempre nel dettaglio, non nel materiale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Incidenza tipica: passare da una parete interna da 45 a 52 dB di Rw costa in media 10-25 €/m² di materiale in più (doppia lastra, lana, distanziatori); il costo maggiore è quasi sempre nel dettaglio, non nel materiale.
 - **Caso tipico:** Hotel con pareti cartongesso certificate Rw 52: lamentele per voce tra camere; indagine: le cassette di ispezione dei bagni a parete comune non erano state trattate, e i due scarichi 'comunicavano'. Dieci cassette corrette, problema risolto con 3.000 € di lavoro.
 - **Normativa:** UNI EN ISO 717-1 (classificazione dell'isolamento all'aria); UNI EN ISO 717-2 (classificazione del rumore di calpestio); UNI EN ISO 140-3/-4 (metodi di misura laboratorio e opera).
 - **Nota di cantiere:** Specificare sempre la coppia (C; Ctr): specificare solo il numero senza correzione spettrale è come comprare un pneumatico senza sapere la stagione.
@@ -140,7 +140,7 @@ Fonoassorbente riduce il rumore dentro l'ambiente (assorbe, non riflette); fonoi
 - **Applicazioni:** Pareti divisorie (isolamento), sale riunioni e open space (assorbimento), studi e home theatre (entrambi), coperture di impianti e barriere.
 - **Vantaggi:** Separare i due problemi li risolve entrambi: prima si isola (il percorso strutturale), poi si assorbe (il campo sonoro).
 - **Limiti e attenzioni:** La lana in cavedio aperta assorbe ma non isola; il pannello pesante senza smorzamento isola meno di quanto pesa; i materiali 'spugna' sui muri interni non fermano il rumore dei vicini.
-- **Costi ed economia:** Lana/fibra per cavedi: 8-20 €/m²; pannelli fonoassorbenti finiti: 30-120 €/m²; membrane viscoelastiche: 10-25 €/m²; sistema parete doppia isolata: 60-130 €/m² complessivo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Lana/fibra per cavedi: 8-20 €/m²; pannelli fonoassorbenti finiti: 30-120 €/m²; membrane viscoelastiche: 10-25 €/m²; sistema parete doppia isolata: 60-130 €/m² complessivo.
 - **Caso tipico:** Open space 'insonorizzato' con pareti rivestite in pannelli spugnosi: il rumore tra postazioni restava identico; l'aggiunta di assorbitori al soffitto (baffle) e schermi tra i gruppi ha ridotto il tempo di riverberazione da 1,2 s a 0,5 s: -6 dB percettivi, produttività percepita in su.
 - **Normativa:** UNI EN ISO 11654 (classificazione dei assorbitori con coefficiente αw); UNI EN ISO 717-1 (per gli elementi di separazione); UNI EN 12354 (metodo di calcolo previsionale).
 - **Nota di cantiere:** Test rapido sul cantiere: se il materiale soffia aria attraverso i pori, è fonoassorbente; se è denso e compatto, tende all'isolamento. Mettere la 'spugna' tra i vicini non ha mai isolato nulla.
@@ -155,7 +155,7 @@ La misura dell'isolamento in opera segue metodi standardizzati: ISO 140 (serie c
 - **Applicazioni:** Asseverazioni DPCM, controlli di qualità, verifiche di contenziosi, collaudi acustici di edifici speciali (sale prove, studi).
 - **Vantaggi:** La misura standard è confrontabile: un DnT,w misurato secondo ISO 16283 a Milano e a Palermo è lo stesso numero.
 - **Limiti e attenzioni:** La misura in cantiere è sensibile alle condizioni: mobili assenti (camere vuote riverberano di più), posa ancora sporca, impianti accesi; i risultati possono variare di 2-3 dB tra visite.
-- **Costi ed economia:** Campagna completa di misure su un edificio residenziale (3-4 unità, isolamento + calpestio): 2.000-6.000 €; singola coppia di ambienti: 600-1.500 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Campagna completa di misure su un edificio residenziale (3-4 unità, isolamento + calpestio): 2.000-6.000 €; singola coppia di ambienti: 600-1.500 €.
 - **Caso tipico:** Verifica di contenzioso in una villa bifamiliare: le misure 'fai da te' del vicino (cellulare) davano 40 dB; la misura ISO 16283 con fonometro classe 1 ha dato 52 dB: la differenza era il tempo di riverberazione enorme della stanza vuota del misuratore improvvisato, normalizzato correttamente dal metodo.
 - **Normativa:** UNI EN ISO 140-4/-5/-7 (serie classica), UNI EN ISO 16283-1/-2/-3 (metodi operativi in sito), UNI EN ISO 717-1/-2 (classificazione dei risultati), IEC 61672-1 (fonometri di classe 1).
 - **Nota di cantiere:** Una misura seria documenta: temperatura, umidità, presenza di mobili, sorgente utilizzata, posizioni dei microfoni. Senza questi metadati, il numero non è ripetibile e non vale in una vertenza.
@@ -170,7 +170,7 @@ Il DPCM 5/12/1997 fissa i requisiti acustici passivi degli edifici: limiti di is
 - **Applicazioni:** Progettazione di ogni edificio residenziale, terziario, scolastico, sanitario in Italia: requisito di legge verificato in fase di agibilità.
 - **Vantaggi:** Chiarezza: pochi numeri, obbligatori, verificabili; l'asseverazione finale protegge committente e costruttore.
 - **Limiti e attenzioni:** Redatto nel 1997: non copre i sistemi costruttivi a secco moderni nei dettagli; le deroghe dell'esistente creano una casistica ampia.
-- **Costi ed economia:** Asseverazione acustica con misure in opera: 1.500-4.000 € per edificio residenziale medio; con calcolo previsionale da progetto: 800-2.000 €; rilevazione completa di un appartamento (isolamento, calpestio, impianti): 800-2.500 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Asseverazione acustica con misure in opera: 1.500-4.000 € per edificio residenziale medio; con calcolo previsionale da progetto: 800-2.000 €; rilevazione completa di un appartamento (isolamento, calpestio, impianti): 800-2.500 €.
 - **Caso tipico:** Condominio nuovo con asseverazione 'a calcolo': a un anno di vita, i vicini lamentano passi udibili; la verifica in opera ha mostrato L'nT,w di 61 dB contro i 58 dichiarati: il massetto galleggiante era stato posato con ponte acustico ai bordi. Il rifacimento parziale è costato 25.000 €.
 - **Normativa:** DPCM 5 dicembre 1997 'Requisiti acustici passivi degli edifici'; Legge 26 ottobre 1995 n. 447 (inquinamento acustico: classificazione acustica del territorio, limiti, sanzioni); D.Lgs. 194/2005 (attuazione direttiva 2002/49/CE sulla determinazione e gestione del rumore ambientale).
 - **Nota di cantiere:** L'asseverazione è un documento con valenza legale: chi la firma con numeri presunti invece che misurati risponde personalmente. La misura in opera costa meno della responsabilità.
@@ -185,7 +185,7 @@ L'UNI EN ISO 12354 è il metodo europeo di calcolo previsionale dell'acustica in
 - **Applicazioni:** Progettazione ex-novo, asseverazione a calcolo del DPCM, verifica di varianti in corso d'opera, diagnosi di edifici esistenti.
 - **Vantaggi:** Permette di decidere in progetto: la differenza tra una parete da 48 e una da 52 dB si valuta prima di costruirla, con un margine di incertezza dichiarato.
 - **Limiti e attenzioni:** I risultati dipendono dalla qualità dei dati di ingresso: la variabilità di posa (ponti, fori, flessibili) può discostare l'opera dal calcolo di 3-5 dB; il metodo è meno affidabile su costruzioni leggere complesse.
-- **Costi ed economia:** Progettazione acustica completa di un edificio residenziale medio: 2.000-8.000 € (0,5-2 €/m³ di volume lordo); il software specializzato: 1.000-5.000 €/licenza.
+- **Costi ed economia:** Ordini di grandezza indicativi: Progettazione acustica completa di un edificio residenziale medio: 2.000-8.000 € (0,5-2 €/m³ di volume lordo); il software specializzato: 1.000-5.000 €/licenza.
 - **Caso tipico:** Residenza studentesca con vincolo di costo: il calcolo previsionale ha mostrato che due soluzioni divisorie apparentemente equivalenti (a secco vs semintegno) differivano di 4 dB in DnT,w: scelta la soluzione a secco con il dettaglio corretto, asseverazione superata al primo colpo.
 - **Normativa:** UNI EN ISO 12354-1/-2/-3/-4 (metodi di calcolo); UNI EN ISO 717 (classificazione dei risultati); DPCM 5/12/1997 (valori da rispettare).
 - **Nota di cantiere:** Il calcolo previsionale è un contratto tra progettista e costruttore: se il cantiere rispetta il dettaglio progettuale, il numero esce. Se il dettaglio cambia, il calcolo va rifatto.
@@ -235,7 +235,7 @@ I server scaldano in continuazione: la climatizzazione di precisione mantiene 22
 - **Applicazioni:** Data center di ogni dimensione, sale server aziendali, edge node.
 - **Vantaggi:** La climatizzazione è il 40-50% del consumo elettrico: migliorarla è il primo business case (il PUE da 1,5 a 1,2 vale un terzo della bolletta).
 - **Limiti e attenzioni:** I margini di temperatura sono stretti: gli errori di taratura (umidità troppo bassa: elettrostatica; troppo alta: corrosione) guastano i server silenziosamente.
-- **Costi ed economia:** Costi: CRAC 3.000-10.000 €/unità; il contenimento dei corridoi: 100-300 €/m; l'impatto sul PUE: il vero parametro economico.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: CRAC 3.000-10.000 €/unità; il contenimento dei corridoi: 100-300 €/m; l'impatto sul PUE: il vero parametro economico.
 - **Caso tipico:** Data center con contenimento corridoi caldi e free-cooling: il PUE è sceso da 1,55 a 1,22; la bolletta elettrica annua si è ridotta di oltre il 20% e la potenza liberata ha permesso l'installazione di altri 200 rack senza nuovo allaccio.
 - **Normativa:** ASHRAE TC 9.9 (i margini termici dei server); EN 50600; specifiche dei produttori IT.
 - **Nota di cantiere:** La regola: il freddo è per i server, non per la stanza: contenere i corridoi, non raffrescare l'aria inutilmente.
@@ -250,7 +250,7 @@ L'alimentazione del data center è a catena ridondata: due linee elettriche indi
 - **Applicazioni:** Ogni data center: dal piccolo locale aziendale all'hyperscale di 100.000 m².
 - **Vantaggi:** La ridondanza elettrica è assoluta: il data center più piccolo ha più continuità di un ospedale medio.
 - **Limiti e attenzioni:** La ridondanza non usata è costo morto: il Tier giusto si sceglie sul business (non tutti i server valgono Tier IV).
-- **Costi ed economia:** Costi: UPS 200-400 €/kVA; generatori 150-300 €/kVA; la ridondanza N+1 aggiunge il 30-50% sui sistemi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: UPS 200-400 €/kVA; generatori 150-300 €/kVA; la ridondanza N+1 aggiunge il 30-50% sui sistemi.
 - **Caso tipico:** Test annuale 'black building' in un data center Tier III: il passaggio sui generatori è avvenuto in 8 secondi senza interruzione dei servizi; il test ha scoperto un bypass mal configurato che avrebbe lasciato un intero corridoio scoperto.
 - **Normativa:** CEI 0-16 (connessione rete); specifiche TIA-942; normativa antincendio e ambientale per i generatori.
 - **Nota di cantiere:** Domanda cardine: 'quanto vale un minuto di fermo per questo servizio?' — la risposta definisce il Tier.
@@ -280,7 +280,7 @@ L'edge computing porta il calcolo vicino all'utente (il 5G, l'IoT, la guida auto
 - **Applicazioni:** Telco, reti 5G, industria 4.0, reti IoT, filiali bancarie.
 - **Vantaggi:** L'edge porta la potenza dove serve: la latenza è la nuova valuta (la guida autonoma non può aspettare 50 ms).
 - **Limiti e attenzioni:** I micro-DC sono vulnerabili (fisicamente accessibili): la sicurezza va rivista per il contesto urbano.
-- **Costi ed economia:** Costi: armadio edge 20.000-80.000 €; container data center 100.000-500.000 € (ordini di grandezza).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: armadio edge 20.000-80.000 €; container data center 100.000-500.000 € (ordini di grandezza).
 - **Caso tipico:** Container data center per una fiera tecnologica: installato in 3 giorni, operativo per l'evento, poi spostato in un'altra sede: la modularità ha evitato la costruzione di un locale permanente per un'esigenza temporanea.
 - **Normativa:** Standard EN 50600 (modulare); specifiche produttori; normativa antincendio ridotta per gli armadi.
 - **Nota di cantiere:** La direzione è chiara: il calcolo va verso le persone (edge), il consolidamento va verso l'energia pulita (grandi DC al nord) — entrambi sono edilizia.
@@ -295,7 +295,7 @@ Il data center è l'edificio della continuità: ospita i server che tengono in f
 - **Applicazioni:** Cloud provider, banche, PA, grandi aziende, edge computing urbano.
 - **Vantaggi:** La domanda digitale cresce del 10-20%/anno: i data center sono l'edilizia che più cresce nel mondo (stima settore).
 - **Limiti e attenzioni:** Consumano tantissima energia: la localizzazione (freddo, energia rinnovabile) è la nuova leva competitiva.
-- **Costi ed economia:** Costi: un rack IT (0,5 m²) vale 15.000-50.000 €; l'edilizia: 6.000-15.000 €/m² (iper-specializzata).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: un rack IT (0,5 m²) vale 15.000-50.000 €; l'edilizia: 6.000-15.000 €/m² (iper-specializzata).
 - **Caso tipico:** Edge data center in una città del nord: il freddo esterno free-cooling (l'aria esterna raffredda direttamente) ha ridotto il PUE da 1,5 a 1,15, con risparmio energetico di milioni di euro in 10 anni.
 - **Normativa:** TIA-942 (standard progettazione); standard Uptime Tier; EN 50600 (serie europea); normativa antincendio specifica.
 - **Nota di cantiere:** La prima legge del data center: il costo di NON funzionare supera qualsiasi costo di costruzione — si progetta per non fermarsi mai.
@@ -325,7 +325,7 @@ Il data center è fatto di connessioni: il cablaggio strutturato (fibre ottiche 
 - **Applicazioni:** Cablaggio di data center e grandi uffici, SAN (storage), reti industriali.
 - **Vantaggi:** Il cablaggio ben documentato dimezza i tempi di intervento: l'errore 'ho staccato il cavo sbagliato' costa ore di downtime.
 - **Limiti e attenzioni:** Il cablaggio 'arruffato' (spaghetti cabling) blocca la ventilazione dei rack e rende ogni cambio un rischio.
-- **Costi ed economia:** Costi: il cablaggio strutturato completo: 50-150 €/punto (ordine di grandezza); le fibre: da 5-15 €/m il cavo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: il cablaggio strutturato completo: 50-150 €/punto (ordine di grandezza); le fibre: da 5-15 €/m il cavo.
 - **Caso tipico:** Data center riorganizzato con cable management rigoroso e mappa aggiornata: i tempi di risoluzione guasti sono calati del 60% e gli errori di manutenzione azzerati.
 - **Normativa:** Standard TIA-568 e ISO/IEC 11801 (cablaggio); specifiche produttori.
 - **Nota di cantiere:** La regola: il cavo si tira una volta nella vita, la documentazione si aggiorna ogni volta che si tocca.
@@ -340,7 +340,7 @@ La sicurezza del data center è a cipolle: fisica (cancelli, guardie, varchi con
 - **Applicazioni:** Data center aziendali e commerciali, locali server critici.
 - **Vantaggi:** La sicurezza a strati è efficace: un solo strato violato non basta a chi non è autorizzato.
 - **Limiti e attenzioni:** La sicurezza eccessiva rallenta le operazioni quotidiane: i livelli vanno calibrati (non tutto serve Tier IV).
-- **Costi ed economia:** Costi: i sistemi di controllo accessi: 5.000-50.000 €; il rilevamento incendio VESDA: 2.000-10.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: i sistemi di controllo accessi: 5.000-50.000 €; il rilevamento incendio VESDA: 2.000-10.000 €.
 - **Caso tipico:** Tentativo di accesso non autorizzato a un rack in un data center: il badge non autorizzato ha allertato, la telecamera ha registrato, l'accesso è stato negato e tracciato: il cliente ha rinnovato il contratto per la sicurezza documentata.
 - **Normativa:** Normativa antincendio (D.M. 2015 con prescrizioni specifiche); GDPR per i dati di accesso; specifiche settore.
 - **Nota di cantiere:** La domanda: 'chi può toccare questo rack e chi lo sa?' — la tracciabilità è la metà della sicurezza.
@@ -370,7 +370,7 @@ L'edificio del data center ha esigenze particolari: i pavimenti rialzati (il sot
 - **Applicazioni:** Progettazione di nuovi data center e retrofit di edifici esistenti (la modalità più comune: ex-industriali riconvertiti).
 - **Vantaggi:** L'edilizia del data center è ingegneria 'ospedaliera': pulizia, precisione, previsione dell'imprevisto.
 - **Limiti e attenzioni:** Il retrofit dell'edificio esistente spesso non regge i carichi: le verifiche strutturali preliminari evitano cantieri bloccati.
-- **Costi ed economia:** Costi: pavimento rialzato 80-200 €/m²; la struttura rinforzata: quota strutturale; l'edilizia base: 6.000-15.000 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: pavimento rialzato 80-200 €/m²; la struttura rinforzata: quota strutturale; l'edilizia base: 6.000-15.000 €/m².
 - **Caso tipico:** Ex capannone industriale riconvertito a data center: il rinforzo dei solai con le verifiche preliminari ha permesso l'uso senza sostituzione della struttura; il progetto senza verifica (di un altro team, poi abbandonato) richiedeva la demolizione del solaio.
 - **Normativa:** NTC (carichi); specifiche TIA-942; normativa antincendio e della sala.
 - **Nota di cantiere:** La verifica preliminare dei carichi (rack pieni, pavimenti rialzati, i gruppi elettrogeni sul tetto o in cortile) è il primo passo di ogni progetto DC.
@@ -390,7 +390,7 @@ Quanti kWh di batteria servono: il calcolo dal profilo di consumo.
 - **Applicazioni:** Ville con FV, case in zone con blackout, B&B.
 - **Vantaggi:** La batteria giusta si calcola sul consumo NOTTURNO: il giorno il FV copre, la notte serve la batteria.
 - **Limiti e attenzioni:** L'accumulo perde il 10-15% di resa (carica/scarica): l'autoconsumo 100% è matematicamente impossibile.
-- **Costi ed economia:** Batteria 5 kWh: 2.000-3.500 €; 10 kWh: 4.000-7.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Batteria 5 kWh: 2.000-3.500 €; 10 kWh: 4.000-7.000 €.
 - **Caso tipico:** Le batterie LFP (fosfato ferro-litio) che stanno sostituendo il NMC nel residenziale.
 - **Normativa:** UNI CEI 0-16; CEI 0-21.
 - **Nota di cantiere:** Il quesito professionale prima della batteria: 'quanto consumi di notte?' Chi non sa rispondere vende batterie a caso. E la batteria si ripaga in 8-15 anni: il backup e le tariffe dinamiche accorciano, il prezzo dell'energia li determina.
@@ -405,7 +405,7 @@ Quando il vento conviene: la fisica onesta del microeolico.
 - **Applicazioni:** Aziende agricole in collina, coste, isole.
 - **Vantaggi:** La fisica è chiara: il cubo della velocità premia i siti veri e punisce quelli speranzosi.
 - **Limiti e attenzioni:** Il 90% dei siti residenziali italiani ha vento insufficiente: il microeolico è spesso una delusione costosa (spirito critico richiesto).
-- **Costi ed economia:** Le torri anemometriche (500-2.000 €) per la misura di 12 mesi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Le torri anemometriche (500-2.000 €) per la misura di 12 mesi.
 - **Caso tipico:** Le isole minori (Ventotene, Pantelleria) dove l'eolico è la regola; i microeolici 'da giardino' abbandonati.
 - **Normativa:** Nessuna specifica: fisica + certificazione CE.
 - **Nota di cantiere:** La regola d'oro dell'eolico: 'misura per un anno prima di comprare'. Il venditore che promette 3.000 kWh dal vento 'che c'è sempre' vende fuffa: il vento che basta vive in pochi siti, e va DIMOSTRATO.
@@ -435,7 +435,7 @@ I cavi del FV: dimensionamento rapido e le protezioni obbligatorie.
 - **Applicazioni:** Ogni impianto fotovoltaico.
 - **Vantaggi:** Il dimensionamento elettrico corretto è la sicurezza: un cavo sottodimensionato surriscalda e brucia.
 - **Limiti e attenzioni:** Il differenziale tipo B costa 200-400 €: il risparmio qui è falso.
-- **Costi ed economia:** Cavi solari 6 mm²: 2-4 €/ml.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cavi solari 6 mm²: 2-4 €/ml.
 - **Caso tipico:** Gli impianti con SPD e tipo B conformi CEI 0-21.
 - **Normativa:** CEI 0-21; CEI 64-8.
 - **Nota di cantiere:** La regola: nel FV il differenziale è tipo B, lo scaricatore è presente, la messa a terra è fatta. Le tre cose valgono più della marca dei pannelli.
@@ -480,7 +480,7 @@ L'impianto che non si ferma mai: logica e dimensionamento degli ibridi.
 - **Applicazioni:** Case isolate, agriturismi, rifugi, B&B, 'aziende con continuità richiesta'.
 - **Vantaggi:** L'ibrido corretto dà l'autonomia senza il diesel quotidiano: il generatore è l'ultima spiaggia, non la routine.
 - **Limiti e attenzioni:** La complessità di gestione richiede una centralina di supervisione professionale.
-- **Costi ed economia:** Energy manager: 1.000-3.000 €; generatore backup: 2.000-8.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Energy manager: 1.000-3.000 €; generatore backup: 2.000-8.000 €.
 - **Caso tipico:** I rifugi alpini con FV + batteria + generatore (il diesel accende una volta al mese).
 - **Normativa:** CEI 0-16; normativa connessione.
 - **Nota di cantiere:** La logica dell'ibrido: 'ogni fonte fa ciò che fa meglio'. Il FV copre il sole, la batteria la notte, il generatore l'emergenza. Chi fa tutto col generatore paga il triplo.
@@ -495,7 +495,7 @@ Vivere senza ENEL: la matematica dell'autonomia completa.
 - **Applicazioni:** Case isolate, baite, 'podere' sì, postazioni remote.
 - **Vantaggi:** 'sulla connessione' (chi evita il preventivo ENEL da 20k€).
 - **Limiti e attenzioni:** 'niente sprechi'.
-- **Costi ed economia:** Il costo dell'off-grid serio: 20-60k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il costo dell'off-grid serio: 20-60k€.
 - **Caso tipico:** Le comunità energetiche (CER) che portano il modello 'condiviso' nei paesi.
 - **Normativa:** CEI 0-16; normativa CER (ARERA).
 - **Nota di cantiere:** La verità dell'off-grid: non è 'staccare la spina', è 'diventare il proprio gestore'. Chi non vuole gestire l'energia non deve andare off-grid: la rete è un servizio, e pagarlo costa meno dell'indipendenza per molti.
@@ -525,7 +525,7 @@ L'acqua calda dal sole: come si dimensiona l'impianto solare termico.
 - **Applicazioni:** Abitazioni, condomini, hotel, piscine (riscaldamento).
 - **Vantaggi:** Il solare termico è la tecnologia più semplice e robusta: rende per 25 anni con manutenzione minima.
 - **Limiti e attenzioni:** 'l'impianto con glicole' gestisce il gelo, ma la manutenzione del fluido è obbligatoria.
-- **Costi ed economia:** Impianto famiglia 4 persone: 4 m² collettori + accumulo 200 l: 3.000-5.000 € installato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto famiglia 4 persone: 4 m² collettori + accumulo 200 l: 3.000-5.000 € installato.
 - **Caso tipico:** Il Conto Termico 3.0 incentiva il solare termico (premio al netto).
 - **Normativa:** UNI EN 12976; UNI/TS 12977.
 - **Nota di cantiere:** Il ritorno del solare termico: nel 2020 sembrava morto, nel 2025 torna forte per la semplicità. Le regole: accumulo giusto, orientamento giusto, integrazione corretta. L'errore classico: i collettori troppo grandi per l'accumulo (estate = bollore).
@@ -545,7 +545,7 @@ Quanta acqua calda serve davvero: il dimensionamento degli accumuli e delle reti
 - **Applicazioni:** Abitazioni, condomini, hotel, palestre, uffici.
 - **Vantaggi:** L'ACS è il 30-40% della bolletta energetica: dimensionarla bene vale quanto l'involucro.
 - **Limiti e attenzioni:** 'perdono': l'accumulo perde calore in proporzione al volume: scegliere l'accumulo GIUSTO.
-- **Costi ed economia:** Accumulo 100 l: 150-400 €; scambiatore a fascio: +20-30% sulla caldaia.
+- **Costi ed economia:** Ordini di grandezza indicativi: Accumulo 100 l: 150-400 €; scambiatore a fascio: +20-30% sulla caldaia.
 - **Caso tipico:** Le norme anti-legionella negli edifici pubblici (acqua a 50°C nei punti di erogazione con valvole termostatiche).
 - **Normativa:** UNI EN 806; linee guida ISS legionella.
 - **Nota di cantiere:** La regola dell'accumulo: meglio piccolo e spesso rinnovato che grande e stagnante. La legionella ama l'acqua ferma a 30-45°C: l'accumulo a 60°C con scarichi settimanali è il vaccino.
@@ -560,7 +560,7 @@ Quanti Watt serve per ogni stanza: il metodo dei ΔT nominali.
 - **Applicazioni:** Ogni impianto a termosifoni.
 - **Vantaggi:** La formula del ΔT spiega il 90% dei 'termosifoni freddi con la PDC': non sono pochi, sono sottodimensionati per la temperatura di mandata.
 - **Limiti e attenzioni:** La verifica corretta richiede i dati del costruttore (le curve di rendimento).
-- **Costi ed economia:** Radiatore alluminio 600 mm: 120-200 W/elemento a ΔT50; a ΔT25 serve il doppio degli elementi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Radiatore alluminio 600 mm: 120-200 W/elemento a ΔT50; a ΔT25 serve il doppio degli elementi.
 - **Caso tipico:** Le case in PDC con radiatori raddoppiati (o radianti) per andare a 35-45°C.
 - **Normativa:** UNI EN 442 (radiatori).
 - **Nota di cantiere:** Il trucco pratico: con PDC a 45°C, progettare come se il carico raddoppiasse: termosifoni grandi e belli o pannelli radianti. 'le piastre': chi mette la PDC coi termosifoni vecchi sottodimensionati ha buttato metà dell'incentivo.
@@ -575,7 +575,7 @@ Il progetto termico completo passo per passo, con i numeri veri.
 - **Applicazioni:** Modello replicabile per qualsiasi residenza unifamiliare.
 - **Vantaggi:** L'esempio mostra la catena: fabbisogno -> macchina -> emissione -> aria -> costo finale.
 - **Limiti e attenzioni:** I numeri cambiano col clima e l'involucro: l'esempio è il metodo, non la tabella.
-- **Costi ed economia:** Il metodo è gratuito: carta e UNI/TS 11300.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il metodo è gratuito: carta e UNI/TS 11300.
 - **Caso tipico:** Migliaia di ville italiane con questi numeri (Legge 10 2024).
 - **Normativa:** UNI/TS 11300; UNI EN 12831.
 - **Nota di cantiere:** Il controllo finale professionale: il consumo stimato deve corrispondere alla bolletta del primo anno: scostamenti >30% = errore di dimensionamento da scoprire, non da nascondere.
@@ -605,7 +605,7 @@ Come si sceglie la potenza del cuore termico: mai 'un po' più grande tanto paga
 - **Applicazioni:** Ogni nuovo impianto termico.
 - **Vantaggi:** Il sovradimensionamento è il male: cicli di accensione brevi, consumi e usura (soprattutto caldaie a gas).
 - **Limiti e attenzioni:** Il sottodimensionamento PDC invernale richiede l'integrazione: va progettata, non scoperta a dicembre.
-- **Costi ed economia:** La differenza di costo tra una caldaia da 24 e 35 kW: 100-200 € (inutile comprare il sovradimensionamento).
+- **Costi ed economia:** Ordini di grandezza indicativi: La differenza di costo tra una caldaia da 24 e 35 kW: 100-200 € (inutile comprare il sovradimensionamento).
 - **Caso tipico:** La modulazione minima delle caldaie (3 kW) che convive coi fabbisogni da 4-6 kW delle case efficienti.
 - **Normativa:** UNI EN 12831; UNI/TS 11300.
 - **Nota di cantiere:** Il test professionale: chiedere 'qual è il fabbisogno di picco della casa?' Se l'installatore non sa rispondere, sta vendendo una macchina a caso. Il miglior investimento è l'audit, non il sovradimensionamento.
@@ -620,7 +620,7 @@ Come fanno a convivere più generatori: il dimensionamento della logica, non sol
 - **Applicazioni:** Impianti ibridi complessi: villa con camino, solare, PDC.
 - **Vantaggi:** L'accumulo giusto rende amici generatori diversi: ognuno lavora al suo turno.
 - **Limiti e attenzioni:** La logica di gestione elettronica va progettata PRIMA delle macchine.
-- **Costi ed economia:** Valvole deviatrici: 150-400 €; centraline di gestione: 200-600 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Valvole deviatrici: 150-400 €; centraline di gestione: 200-600 €.
 - **Caso tipico:** Gli impianti 'a cascata' delle case alpine (legna -> solare -> integrazione).
 - **Normativa:** UNI 7129; UNI EN 15316.
 - **Nota di cantiere:** La frase d'ordine: 'prima l'accumulo, poi i generatori'. Chi compra la macchina prima del serbatoio costruisce un puzzle senza cornice.
@@ -635,7 +635,7 @@ La verifica energetica di legge confronta l'indice di prestazione energetica glo
 - **Applicazioni:** Relazione tecnica di nuova costruzione, ristrutturazione importante, riqualificazione energetica; APE; verifica per detrazioni (con metodo semplificato).
 - **Vantaggi:** Il metodo è autocoscienza del progetto: chi sa calcolare l'edificio di riferimento sa esattamente dove il proprio progetto perde punti.
 - **Limiti e attenzioni:** I calcoli sono solo così buoni quanto i dati di ingresso: ponti termici ignorati, serramenti dichiarati ottimistici e impianti tarati male rendono l'APE 'teorico' e la bolletta reale una sorpresa.
-- **Costi ed economia:** Relazione energetica completa con software certificato per un edificio residenziale medio: 800-2.500 € (oltre al progetto); il software certificato costa 300-1.500 €/anno di licenza.
+- **Costi ed economia:** Ordini di grandezza indicativi: Relazione energetica completa con software certificato per un edificio residenziale medio: 800-2.500 € (oltre al progetto); il software certificato costa 300-1.500 €/anno di licenza.
 - **Caso tipico:** Villa di 200 m² in zona E con grande vetrate a sud: l'EPgl calcolato 'ottimistico' (ponti termici trascurati, VMC non conteggiata) era 62 kWh/m²a; la verifica con dati reali lo portava a 78: il progetto è stato corretto (aggiunta schermatura esterna, VMC con recupero efficiente) prima del cantiere, non dopo la prima bolletta.
 - **Normativa:** D.M. 28/10/2025 (Requisiti Minimi, in vigore dal 3/6/2026) con metodi e valori limite; UNI/TS 11300 serie (calcolo fabbisogni); D.Lgs 192/2005 (obbligo di certificazione); software certificati secondo le regole ENEA.
 - **Nota di cantiere:** La verifica EP si fa PRIMA di chiudere il progetto degli impianti: l'involucro si può aggiustare con 5 cm di isolante, l'impianto sbagliato si paga due volte.
@@ -650,7 +650,7 @@ Un ponte termico è la zona dell'involucro con flusso di calore bidimensionale (
 - **Applicazioni:** Progetto del dettaglio costruttivo dell'involucro, verifica di legge dal 2026, diagnosi di muffa e condensa, riqualificazioni.
 - **Vantaggi:** Dal 2026 i ponti termici non sono più un'opinione: hanno un numero Ψ di legge e un contorno di verifica chiaro.
 - **Limiti e attenzioni:** I valori tabellari coprono le tipologie ricorrenti: architetture speciali richiedono il calcolo numerico (software di post-processing termico).
-- **Costi ed economia:** Correggere un ponte termico in progetto costa quasi zero (disegno); correggerlo in opera costa 50-300 €/ml di dettaglio (strappi, integrazioni isolante).
+- **Costi ed economia:** Ordini di grandezza indicativi: Correggere un ponte termico in progetto costa quasi zero (disegno); correggerlo in opera costa 50-300 €/ml di dettaglio (strappi, integrazioni isolante).
 - **Caso tipico:** Condominio con muffa ricorrente sui fregi agli architravi: il calcolo ha mostrato Ψ doppio del tabellare per l'interruzione dell'isolante in corrispondenza delle tamponature in ca: la correzione con tasselli isolanti a copertura ha eliminato la muffa in un inverno.
 - **Normativa:** D.M. 28/10/2025 (valori Ψ per tipologia, zona e posizione isolante); UNI EN ISO 10211 (calcolo termico bidimensionale); UNI EN ISO 13788 (valutazione condensa superficiale e interstiziale).
 - **Nota di cantiere:** La muffa disegna i ponti termici: ogni macchia ha la forma del flusso che l'ha causata. Il sopralluogo estivo prepara il cantiere d'inverno.
@@ -665,7 +665,7 @@ La trasmittanza termica U (W/m²K) misura quanto calore attraversa un elemento p
 - **Applicazioni:** Verifica di legge di ogni involucro nuovo o riqualificato, scelta dei materiali, controlli in fase di collaudo energetico.
 - **Vantaggi:** Una tabella sola governa il mercato: ogni prodotto isolante o serramento si vende 'per zona' e la verifica è immediata.
 - **Limiti e attenzioni:** I valori sono riferiti al componente 'pulito': il ponte termico di installazione (spalle, davanzali, agganci) degrada la prestazione reale: il decreto 2025 introduce valori di trasmittanza lineica Ψ espliciti per i ponti termici più ricorrenti.
-- **Costi ed economia:** Passare da U 0,40 a U 0,28 su una parete (zona D→E standard) richiede in genere 4-6 cm di isolante in più: 12-25 €/m² di costo aggiuntivo, recuperabile con incentivi e bolletta.
+- **Costi ed economia:** Ordini di grandezza indicativi: Passare da U 0,40 a U 0,28 su una parete (zona D→E standard) richiede in genere 4-6 cm di isolante in più: 12-25 €/m² di costo aggiuntivo, recuperabile con incentivi e bolletta.
 - **Caso tipico:** Riqualificazione di un edificio anni '70 in zona D: il progetto con serramenti U 1,8 è passato la verifica di legge ma ha fallito la verifica detrazioni (serve 1,6 secondo il DM 2020... verifica valore vigente): la scelta del 1,4 ha sbloccato entrambe. Chi progetta per la legge minima spende due volte.
 - **Normativa:** D.M. 28 ottobre 2025 (G.U. 283/2025), in vigore dal 3/6/2026, Allegato 1 e Appendici (sostituisce D.M. 26/6/2015); D.M. 6/8/2020 per i requisiti delle detrazioni fiscali; UNI EN ISO 6946; UNI EN 14351-1; UNI/TS 11300 (metodi di calcolo energetico).
 - **Nota di cantiere:** Attenzione alla differenza tra 'valore di legge' e 'valore per la detrazione': il secondo è quasi sempre più severo. Il professionista che conosce solo la prima tabella fa rilavorare il cliente.
@@ -680,7 +680,7 @@ Per accedere alle detrazioni fiscali energetiche valgono i requisiti del D.M. 6 
 - **Applicazioni:** Progettazione di riqualificazioni che puntano alla detrazione: involucro, serramenti, impianti, pompe di calore.
 - **Vantaggi:** Il margine tra 'di legge' e 'di detrazione' è il valore aggiunto del progettista: costruire sopra la soglia più alta costa poco e apre ogni porta.
 - **Limiti e attenzioni:** Le tabelle si aggiornano con le leggi di bilancio: il numero giusto è quello vigente alla data di FINE lavori (e inizio, secondo le regole del periodo): documentare la data di riferimento in relazione.
-- **Costi ed economia:** Sovrapprezzo medio per progettare 'al livello detrazioni' invece che 'a legge': 5-15 €/m² di involucro: il ritorno è la piena accessibilità all'incentivo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Sovrapprezzo medio per progettare 'al livello detrazioni' invece che 'a legge': 5-15 €/m² di involucro: il ritorno è la piena accessibilità all'incentivo.
 - **Caso tipico:** Cliente indeciso sulla detrazione: progetto fatto comunque ai livelli DM 2020 (serramenti U 1,3 in zona E): alla firma del contratto la detrazione era ancora disponibile e l'intero intervento è entrato in agevolazione; il vicino 'al limite di legge' (U 1,4) ha dovuto accontentarsi del solo miglioramento di comfort.
 - **Normativa:** D.M. 6 agosto 2020 'Requisiti tecnici per l'accesso alle detrazioni fiscali per interventi di efficienza energetica'; Legge di Bilancio in vigore (finestre temporali e aliquote); prassi ENEA per l'asseverazione e l'invio telematico.
 - **Nota di cantiere:** La data che conta è dichiarata e documentata: conservare nel fascicolo la data di inizio lavori (SCIA/permesso o contratto con data certa) e di fine lavori (verbale di collaudo/consegna): sono loro a decidere quale legge applica.
@@ -695,7 +695,7 @@ L'involucro deve funzionare anche d'estate: la trasmittanza termica periodica Yi
 - **Applicazioni:** Edilizia residenziale e terziaria del centro-sud e delle aree interne, tamponamenti in climi caldi, retrofit di edifici con sofferenza estiva.
 - **Vantaggi:** L'estate è il nuovo inverno: il comfort estivo paga in produttività (uffici) e in salute (anziani), e la norma ora lo tratta esplicitamente.
 - **Limiti e attenzioni:** Le verifiche periodiche richiedono il calcolo dinamico: software o metodi semplificati accettati; le schermature esterne devono essere mosse e mantenute (una tenda rotta vale zero).
-- **Costi ed economia:** Una schermatura esterna mobile ben fatta: 30-80 €/m² di vetro; un sistema di ventilazione notturna controllata: 1.000-4.000 € per appartamento.
+- **Costi ed economia:** Ordini di grandezza indicativi: Una schermatura esterna mobile ben fatta: 30-80 €/m² di vetro; un sistema di ventilazione notturna controllata: 1.000-4.000 € per appartamento.
 - **Caso tipico:** Uffici open space con vetro a ovest e frangisole interni: temperature operative oltre 28 °C per 60 ore/anno malgrado il climatizzatore: l'analisi periodica ha mostrato Yie doppio del limite e sfasamento di 4 ore; spostata la schermatura all'esterno e aggiunta ventilazione notturna: -3 °C di picco interno senza toccare l'impianto.
 - **Normativa:** Requisiti di trasmittanza periodica dal D.M. Requisiti Minimi (D.M. 28/10/2025, quadro ereditato dal 2015); UNI EN ISO 13788 (condensa); UNI EN ISO 13786 (proprietà termiche dinamiche); UNI EN 12464-1 e UNI EN 15193 per l'illuminazione e l'illuminazione naturale.
 - **Nota di cantiere:** La domanda estiva decisiva: 'dove va il calore di notte?' Se la risposta non esiste (masse, ventilazione, sfasamento), il climatizzatore lavora per il sole.
@@ -710,7 +710,7 @@ L'Italia è divisa in sei zone climatiche (A-F) in base ai gradi giorno (GG): A 
 - **Applicazioni:** Ogni calcolo termotecnico italiano: involucro (limiti U), impianti (temperature di progetto), APE, incentivi, agibilità.
 - **Vantaggi:** Un solo dato (la zona del comune) apre tutte le tabelle: il primo campo di ogni software termotecnico è sempre la zona climatica.
 - **Limiti e attenzioni:** Le tabelle comunali vanno verificate su fonte aggiornata: confini comunali e riclassificazioni occasionali cambiano la zona (e i requisiti) senza cambiare il clima.
-- **Costi ed economia:** Costo zero: è un dato pubblico (tabelle DPR 412/93 aggiornate); il software lo precompila dalla selezione del comune.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo zero: è un dato pubblico (tabelle DPR 412/93 aggiornate); il software lo precompila dalla selezione del comune.
 - **Caso tipico:** Due comuni confinanti della stessa provincia, uno in zona E e uno in F: stesso progetto di villa richiede involucro diverso (serramento U ≤1,40 vs ≤1,10 W/m²K) e generatore dimensionato su -9 °C invece di -5 °C: il preventivo 'copiato' dal comune vicino era tecnicamente sbagliato.
 - **Normativa:** DPR 412/1993 (norme per la progettazione, l'installazione e la manutenzione degli impianti termici degli edifici, con ripartizione climatica); D.M. Requisiti Minimi (oggi D.M. 28 ottobre 2025, in vigore dal 3 giugno 2026, che ha sostituito il D.M. 26 giugno 2015).
 - **Nota di cantiere:** Il primo campo da compilare in assoluto: comune dell'opera. Chi progetta 'a occhio' sul clima percepito sbaglia requisiti e dimensionamenti insieme.
@@ -725,7 +725,7 @@ Il radiante si calcola per portata: il metodo UNI EN 1264.
 - **Applicazioni:** Case in PDC, ristrutturazioni con massetto, soffitti radianti per raffrescamento.
 - **Vantaggi:** Il radiante funziona a temperature irraggiamento: il comfort migliore con l'acqua più fredda possibile.
 - **Limiti e attenzioni:** Le perdite verso il basso (la trasmittanza verso il solaio) vanno isolate: senza isolamento il radiante scalda i vicini.
-- **Costi ed economia:** Radiante in massetto: 40-80 €/m2 installato; soffitto radiante: 50-100 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Radiante in massetto: 40-80 €/m2 installato; soffitto radiante: 50-100 €/m2.
 - **Caso tipico:** Le 'zone radianti' con collettore dedicato e valvole termostatiche (obbligatorie).
 - **Normativa:** UNI EN 1264 (1-5).
 - **Nota di cantiere:** La verifica di cantiere: il termometro IR sulla superficie: il pavimento deve arrivare a 26-29°C in superficie (non bollente: irradia piano). Se il massetto scalda troppo in poche ore, il controllo è sbagliato: il radiante è lentezza programmata.
@@ -755,7 +755,7 @@ Come si calcola la rete di ventilazione: dal volume d'aria alla bocchetta.
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni, uffici, scuole.
 - **Vantaggi:** La VMC silenziosa nasce dal calcolo: la velocità bassa nei rami finali è il segreto.
 - **Limiti e attenzioni:** I software di calcolo (anche gratuiti) aiutano, ma la verifica acustica finale resta la misura.
-- **Costi ed economia:** La verifica: anemometro a ogni bocchetta (50-100 €).
+- **Costi ed economia:** Ordini di grandezza indicativi: La verifica: anemometro a ogni bocchetta (50-100 €).
 - **Caso tipico:** Le VMC con sonda CO2 che modulano le portate in base all'effettiva presenza.
 - **Normativa:** UNI 10339; UNI EN 13779.
 - **Nota di cantiere:** La regola pratica: la bocchetta in camera da letto deve essere appena udibile: se la senti, è troppo veloce. aumentare: la velocità scende col quadrato del diametro.
@@ -770,7 +770,7 @@ Dalla fine del 2025 il D.M. Requisiti Minimi raccoglie in un'unica relazione tec
 - **Applicazioni:** Pratiche edilizie di ogni intervento energetico rilevante, materiali per il collaudo energetico, fascicolo del fabbricato.
 - **Vantaggi:** Un solo documento controllabile: il tecnico che sa compilare la relazione unica domina tutti gli adempimenti che prima erano dispersi in cinque decreti.
 - **Limiti e attenzioni:** La completezza è forma e sostanza: relazioni con le voci 'non applicabili' dimenticate (automi, acqua, ricarica) sono il primo rilievo dei controllori.
-- **Costi ed economia:** Redazione relazione tecnica ex art. 8: 600-2.500 € in funzione della complessità; il software guida l'output e riduce gli errori di omissione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Redazione relazione tecnica ex art. 8: 600-2.500 € in funzione della complessità; il software guida l'output e riduce gli errori di omissione.
 - **Caso tipico:** Villette in classe A: la relazione unica ha evidenziato che due dei sei lotti non avevano la predisposizione per colonnine richiesta per i posti auto in corte comune: integrata in corso d'opera con cavidotto condiviso, costo 900 € invece della sistemazione successiva da 4.000 €.
 - **Normativa:** D.M. 28/10/2025, Allegato 1 (relazione tecnica unica, in vigore dal 3/6/2026) che incorpora gli obblighi di D.Lgs 199/2021 (FER), D.Lgs 257/2016 (ricarica VE), D.Lgs 102/2014 (automazione), direttiva 2020/2184 (acque); D.Lgs 192/2005 (art. 8).
 - **Nota di cantiere:** La relazione ex art. 8 è la madre di tutte le verifiche: fare tabella di raccordo obbligo → capitolo → documento allegato, e spuntarla in fase di progetto, non in fase di pratica.
@@ -790,7 +790,7 @@ Gestione ingressi: badge, RFID, QR, biometria, serrature smart.
 - **Applicazioni:** Uffici, cantieri, palestre, B&B (check-in digitale).
 - **Vantaggi:** Tracciabilità ingressi; revoca immediata; niente chiavi perse.
 - **Limiti e attenzioni:** La biometria è dato sensibile GDPR; blackout = aprire in sicurezza (fail-safe vs fail-secure).
-- **Costi ed economia:** Lettore: 50-300 €; serratura smart: 150-600 €; software: 100-500 €/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Lettore: 50-300 €; serratura smart: 150-600 €; software: 100-500 €/anno.
 - **Caso tipico:** Kaba, SALTO, Nuki (residenziale), August.
 - **Normativa:** GDPR biometria; EN 60839 controllo accessi.
 - **Nota di cantiere:** Cantieri: il controllo accessi con timbratura integrata risolve giacenze e sicurezza (chi è in cantiere in caso d'emergenza).
@@ -805,7 +805,7 @@ Come è organizzato un impianto domotico: sensori, attuatori, bus, supervisione,
 - **Applicazioni:** Qualsiasi edificio: residenziale, terziario, industriale, hospitality.
 - **Vantaggi:** Struttura modulare ed espandibile; ogni livello può evolvere indipendentemente.
 - **Limiti e attenzioni:** Progettazione sbagliata = rigetto costoso; serve un progettista qualificato (tra cui certificazione KNX Partner).
-- **Costi ed economia:** Impianto base appartamento: 3-8k€; villa completa: 10-40k€; edificio terziario: 20-100 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto base appartamento: 3-8k€; villa completa: 10-40k€; edificio terziario: 20-100 €/m2.
 - **Caso tipico:** Standard KNX Association per l'architettura a 3 livelli.
 - **Normativa:** L.46/90 (criteri CEN); CEI 64-8 per la parte elettrica.
 - **Nota di cantiere:** Prima regola: definire gli scenari di vita PRIMA dei protocolli: la tecnologia serve il comfort, non il contrario.
@@ -820,7 +820,7 @@ La casa che aiuta: monitoraggio non invasivo di anziani, sicurezza, teleassisten
 - **Applicazioni:** Abitazioni anziani, RSA, housing sociale, home care.
 - **Vantaggi:** Autonomia prolungata a domicilio; famiglia tranquilla; dati per teleassistenza.
 - **Limiti e attenzioni:** Equilibrio tra controllo e autonomia: il consenso è eticamente obbligatorio.
-- **Costi ed economia:** Kit assistenza: 300-1.500 €; servizio monitoring: 20-50 €/mese.
+- **Costi ed economia:** Ordini di grandezza indicativi: Kit assistenza: 300-1.500 €; servizio monitoring: 20-50 €/mese.
 - **Caso tipico:** Vayyar radar, Nokia/Withings, soluzioni KNX Health.
 - **Normativa:** GDPR (datore di lavoro no; famiglia sì con consenso).
 - **Nota di cantiere:** Il valore sociale è enorme: una caduta rilevata in 2 minuti vale più di qualsiasi scenario 'cinema'.
@@ -835,7 +835,7 @@ Le mani dell'impianto: relè, dimmer, motori, valvole, attuatori multifunzione.
 - **Applicazioni:** Attuare luci, carichi, tapparelle, clima, irrigazione, serrature.
 - **Vantaggi:** Sostituzione quasi plug-and-play in centralino; diagnostica da bus.
 - **Limiti e attenzioni:** Compatibilità carichi (LED, motori) da verificare; scatti elettrici su bobine.
-- **Costi ed economia:** Attuatore 4 canali KNX: 150-300 €; attuatore Wi-Fi: 15-40 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Attuatore 4 canali KNX: 150-300 €; attuatore Wi-Fi: 15-40 €.
 - **Caso tipico:** MDT, Jung, Gira (KNX); Shelly, Sonoff (Wi-Fi).
 - **Normativa:** Marcatura CE; CEI 64-8-4 protezioni.
 - **Nota di cantiere:** Sovradimensionare i contatti per i carichi capacitivi LED: la regola è corrente nominale x3 in scelta.
@@ -850,7 +850,7 @@ Estensione KNX per cifrare i telegrammi e autenticare i dispositivi.
 - **Applicazioni:** Edifici sensibili (banche, ospedali, hotel luxury), chiunque voglia proteggere l'impianto da accessi remoti.
 - **Vantaggi:** Conformità alla cybersecurity dell'impianto; requisito sempre più richiesto dagli appalti pubblici.
 - **Limiti e attenzioni:** Retrofit complesso su impianti vecchi; gestione chiavi disciplinata.
-- **Costi ed economia:** +10-20% sui componenti; nessun cambio architetturale.
+- **Costi ed economia:** Ordini di grandezza indicativi: +10-20% sui componenti; nessun cambio architetturale.
 - **Caso tipico:** Mandato sempre più frequente in gare d'appalto europee.
 - **Normativa:** IEC 62443 (cybersecurity industriale) come riferimento.
 - **Nota di cantiere:** Abilitare KNX Secure in fase di messa in servizio, non dopo: la migrazione a cantiere finito costa il triplo.
@@ -865,7 +865,7 @@ Il protocollo bus cablato più diffuso al mondo per edilizia residenziale e terz
 - **Applicazioni:** Controllo luce, clima, tapparelle, sicurezza, energia in edifici nuovi e retrofit.
 - **Vantaggi:** Affidabilità certificata (decenni di esercizio); interoperabilità tra 500+ produttori; standard aperto (ISO/IEC 14543-3).
 - **Limiti e attenzioni:** Costo cavo e componenti superiore al wireless; progettazione ETS specializzata.
-- **Costi ed economia:** Attuatore KNX: 80-300 €; sensore: 50-250 €; software ETS: licenza 200-1.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Attuatore KNX: 80-300 €; sensore: 50-250 €; software ETS: licenza 200-1.000 €.
 - **Caso tipico:** Ospedali, stadi, aeroporti, hotel di lusso; ~500 milioni di dispositivi installati.
 - **Normativa:** EN 50090 / ISO-IEC 14543-3; marchio KNX.
 - **Nota di cantiere:** In retrofit il bus viaggia spesso sul 230V esistente (KNX Powerline) o su wireless KNX.
@@ -895,7 +895,7 @@ Protocollo per l'automazione di edifici terziari (HVAC, centrali termiche, BMS).
 - **Applicazioni:** Uffici, ospedali, scuole, centri commerciali: supervisione impianti e contabilizzazione.
 - **Vantaggi:** Standard ISO (ISO 16484-5); scambio dati tra marche diverse di centraline e BMS.
 - **Limiti e attenzioni:** Più complesso del KNX lato residenziale; orientato al tecnico impiantista.
-- **Costi ed economia:** Gateway BACnet: 300-1.500 €; integrazione in BMS: 2-10k€ per edificio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Gateway BACnet: 300-1.500 €; integrazione in BMS: 2-10k€ per edificio.
 - **Caso tipico:** Metasys (JCI), Desigo (Siemens), Niagara Framework come supervisor.
 - **Normativa:** ISO 16484; EN di prodotto per componenti.
 - **Nota di cantiere:** Per il LLM: BACnet parla 'impianti', KNX parla 'stanze': gli edifici intelligenti usano entrambi con un gateway.
@@ -910,7 +910,7 @@ Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
 - **Applicazioni:** Fotovoltaico (inverter), contabilizzazione calore, gruppi elettrogeni, strumentazione.
 - **Vantaggi:** Semplicità assoluta; supportato da qualunque dispositivo industriale; gratuito.
 - **Limiti e attenzioni:** Nessuna sicurezza nativa; nessun modello dati condiviso (vendor-specific).
-- **Costi ed economia:** Integrazione: quasi gratuita; gateway Modbus-KNX/BACnet: 150-800 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Integrazione: quasi gratuita; gateway Modbus-KNX/BACnet: 150-800 €.
 - **Caso tipico:** Qualunque inverter FV, qualunque contatore di energia.
 - **Normativa:** Nessuna certificazione formale; IEC 61158 come famiglia fieldbus.
 - **Nota di cantiere:** Mai esporre Modbus su Internet aperto: tunnel VPN o gateway con autenticazione.
@@ -925,7 +925,7 @@ Controllo climatizzazione per zone con presenza, finestre aperte, apprendimento 
 - **Applicazioni:** Riscaldamento e raffrescamento residenziale e terziario.
 - **Vantaggi:** Risparmio 10-25% su clima; comfort zonale reale; integrazione con calendario.
 - **Limiti e attenzioni:** Impianti idronici mal bilanciati vanificano i controlli.
-- **Costi ed economia:** Valvola smart: 40-100 €; centrale zone: 200-800 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Valvola smart: 40-100 €; centrale zone: 200-800 €.
 - **Caso tipico:** Netatmo, Tado, Honeywell (Matter/Cloud); KNX (locale).
 - **Normativa:** UNI EN 215 valvole; direttiva EED per contabilizzazione.
 - **Nota di cantiere:** La regola d'oro: regolare PRIMA l'impianto idraulico (bilanciamento), POI i termostati smart.
@@ -940,7 +940,7 @@ Proteggere l'edificio connesso: reti, dispositivi, cloud, accessi remoti.
 - **Applicazioni:** Ogni edificio connesso: da casa a grattacielo.
 - **Vantaggi:** L'edificio è ora un sistema informatico: rischio ransomware arriva anche dal termostato.
 - **Limiti e attenzioni:** Complessità per l'installatore tradizionale; dispositivi cinesi senza aggiornamenti.
-- **Costi ed economia:** Hardering base: 0-500 €; progetto sicurezza: 1-5k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Hardering base: 0-500 €; progetto sicurezza: 1-5k€.
 - **Caso tipico:** Firewall UniFi/pfSense; piattaforme certificate KNX Secure, BACnet/SC.
 - **Normativa:** IEC 62443; GDPR per dati personali; NIS2 per enti/gestori infrastrutture.
 - **Nota di cantiere:** Prima regola: cambiare TUTTE le password di default. Seconda: rete ospiti separata. Terza: aggiornamenti trimestrali calendarizzati.
@@ -955,7 +955,7 @@ Monitorare e gestire i carichi elettrici: produzione FV, consumi, priorità, wal
 - **Applicazioni:** Ville con FV+auto elettrica+induzione+pompa di calore: il caso limite di carico.
 - **Vantaggi:** Zero distacchi enel; uso massimo dell'autoconsumo FV; bolletta sotto controllo.
 - **Limiti e attenzioni:** Sistemi chiusi cloud-to-cloud poco affidabili; serve standard (Modbus!).
-- **Costi ed economia:** Kit monitoraggio: 200-600 €; energy manager integrato: 1-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Kit monitoraggio: 200-600 €; energy manager integrato: 1-3k€.
 - **Caso tipico:** Shelly EM, Fronius Solar.web, SolarEdge, open source Home Assistant + Modbus.
 - **Normativa:** CEI 0-16 per allacciamenti; UNI CEI 11339 energy management.
 - **Nota di cantiere:** Con pompa di calore + wallbox + induzione serve quasi sempre un gestore di carichi: il contatore da 6 kW ringrazia.
@@ -970,7 +970,7 @@ L'impianto domotico come cervello del sistema energetico: consumi, produzione, a
 - **Applicazioni:** Abitazioni efficienti, B&B, piccoli condomini.
 - **Vantaggi:** Autoconsumo >70% possibile con logiche di carico; rendimento della batteria monitorato.
 - **Limiti e attenzioni:** API cloud soggette a cambi; dipendenza marca inverter.
-- **Costi ed economia:** Integrazione software: 0-1k€; hardware aggiuntivo minimo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Integrazione software: 0-1k€; hardware aggiuntivo minimo.
 - **Caso tipico:** Home Assistant Energy, Fronius, Victron (flessibili), Sonnen.
 - **Normativa:** CEI 0-21 (connessione BT); guida CEI 82-25 per i sistemi fotovoltaici (serie in parti, edizione vigente).
 - **Nota di cantiere:** La scalda-acqua con resistenza 'fotovoltaica' (SG Ready) è il primo upgrade economico: 300 € di relè, +15% autoconsumo.
@@ -985,7 +985,7 @@ Come far parlare insieme KNX, BACnet, Modbus, Zigbee, Matter, cloud.
 - **Applicazioni:** Qualsiasi edificio con sottosistemi eterogenei (tipico: BMS + domotica + FV + sicurezza).
 - **Vantaggi:** Un unico cruscotto; logiche condivise; dati unificati per energia e manutenzione.
 - **Limiti e attenzioni:** Punto critico: se il gateway cade, l'integrazione cade; ridondanza e manutenzione.
-- **Costi ed economia:** Gateway edge: 300-3.000 €; licenze software: 0-5k€/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Gateway edge: 300-3.000 €; licenze software: 0-5k€/anno.
 - **Caso tipico:** Home Assistant (open source), Tridum Niagara (professionale), Node-RED (prototipi).
 - **Normativa:** Nessuna specifica; IEC 62443 per la sicurezza.
 - **Nota di cantiere:** Regola: il gateway deve 'spegnere bene' — in assenza di cloud e gateway, luce e tapparelle devono funzionare comunque.
@@ -1000,7 +1000,7 @@ Controllo luci: accensioni sceniche, dimmer, presenza, luce naturale integrata (
 - **Applicazioni:** Uffici, scuole, hotel, abitazioni: comfort visivo e risparmio energetico.
 - **Vantaggi:** Risparmio 30-60% su illuminazione; benessere visivo documentato (HCL).
 - **Limiti e attenzioni:** Qualità dimmer: flicker e compatibilità lampade da testare.
-- **Costi ed economia:** Dimmer KNX: 100-250 €/canale; sensori: 50-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dimmer KNX: 100-250 €/canale; sensori: 50-150 €.
 - **Caso tipico:** Standard DALI-2 per il controllo lampade professionali.
 - **Normativa:** EN 12464-1 illuminazione luoghi di lavoro.
 - **Nota di cantiere:** Il daylight harvesting in ufficio ripaga in 2-4 anni: sensori + logica che abbassano l'artificiale quando entra il sole.
@@ -1015,7 +1015,7 @@ Irrigazione giardini e giardini pensili guidata da meteo e umidità del suolo.
 - **Applicazioni:** Ville, condomini, hotel, aziende agrituristiche, cantieri con verde.
 - **Vantaggi:** Risparmio acqua 30-50%; prato sano senza pensieri.
 - **Limiti e attenzioni:** Sensori di suolo da calibrare; congelamento valvole in inverno.
-- **Costi ed economia:** Kit zona: 100-300 €; sistema completo giardino: 500-2k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Kit zona: 100-300 €; sistema completo giardino: 500-2k€.
 - **Caso tipico:** Rachio, Hunter Hydrawise, Orbit B-hyve.
 - **Normativa:** Risparmio idrico raccomandato D.Lgs 152/06.
 - **Nota di cantiere:** Con green roof e giardini pensili (sempre più richiesti in edilizia), l'irrigazione smart passa da optional a progetto.
@@ -1030,7 +1030,7 @@ Il quadro normativo e economico completo per progettare e preventivare.
 - **Applicazioni:** Preventivi, direzione lavori, formazione cliente.
 - **Vantaggi:** Chiarezza contrattuale; qualifica dell'installatore; valore immobiliare aumentato (5-15% percepito).
 - **Limiti e attenzioni:** Mancanza di standard sui prezzi: preventivi eterogenei.
-- **Costi ed economia:** Prezzi 2025: punto luce domotico 60-150 €; attuatore 80-250 €; quadro completo appartamento 3-10k€; villa 15-50k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Prezzi 2025: punto luce domotico 60-150 €; attuatore 80-250 €; quadro completo appartamento 3-10k€; villa 15-50k€.
 - **Caso tipico:** Tabelle prezzi installatori KNX/Mater.
 - **Normativa:** L.46/90; CEI 64-8; contratti tipo ANIT/Confartigianato.
 - **Nota di cantiere:** Il vero costo della domotica non è l'hardware: è il progetto e la programmazione (30-50% del totale). Chi risparmia lì compra un impianto che non funziona.
@@ -1045,7 +1045,7 @@ Come si progetta fisicamente: canaline, quadretti, centralini, automazioni elett
 - **Applicazioni:** Impianti nuovi e ristrutturazioni radicali.
 - **Vantaggi:** Manutenibilità: ogni attuatore etichettato e mappato; crescita futura garantita.
 - **Limiti e attenzioni:** Errori classici: bus accoppiato a 230V, centralini saturi, zero documentazione.
-- **Costi ed economia:** Costo cablaggio domotico: +20-40% sull'impianto elettrico tradizionale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo cablaggio domotico: +20-40% sull'impianto elettrico tradizionale.
 - **Caso tipico:** Best practice KNX Association, guide CEI.
 - **Normativa:** CEI 64-8 (impianti utilizzatori a tensione <=1000V); DM 37/08.
 - **Nota di cantiere:** Consegnare SEMPRE il progetto ETS/documentazione: un impianto domotico senza documentazione è un'arma puntata contro il futuro proprietario.
@@ -1060,7 +1060,7 @@ Protocollo digitale dedicato al controllo dell'illuminazione professionale.
 - **Applicazioni:** Uffici, retail, musei, ospedali: ogni punto luce indirizzabile.
 - **Vantaggi:** Controllo fine di ogni lampada; retrofit facile (bus sui fili delle fasi); emergency test integrato.
 - **Limiti e attenzioni:** Richiede progettazione indirizzi; integrazione con BMS via gateway.
-- **Costi ed economia:** Driver DALI: +5-15 €/punto; gateway DALI-BACnet: 400-1.500 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Driver DALI: +5-15 €/punto; gateway DALI-BACnet: 400-1.500 €.
 - **Caso tipico:** Qualunque produttore illuminotecnico professionale.
 - **Normativa:** IEC 62386 (DALI-2); EN 62386.
 - **Nota di cantiere:** DALI dentro, BACnet fuori: la coppia standard dell'edificio terziario moderno.
@@ -1075,7 +1075,7 @@ La programmazione comportamentale: 'cinema', 'benvenuto', 'notte', 'emergenza'.
 - **Applicazioni:** Residenze luxury, hotel (scene benvenuto), uffici (scene riunione/presentazione).
 - **Vantaggi:** Trasforma la tecnologia in esperienza; il valore percepito aumenta 10x.
 - **Limiti e attenzioni:** Logiche troppo complesse confondono l'utente: regola '3 tap massimo'.
-- **Costi ed economia:** Programmazione: parte dei costi d'installazione (10-20%).
+- **Costi ed economia:** Ordini di grandezza indicativi: Programmazione: parte dei costi d'installazione (10-20%).
 - **Caso tipico:** Scene KNX standard, scene Philips Hue/Apple Home.
 - **Normativa:** Nessuna; best practice progettuali.
 - **Nota di cantiere:** Una scena si giudica da quanto è ovvia: se serve il manuale d'uso, è sbagliata.
@@ -1090,7 +1090,7 @@ Gli occhi dell'impianto: presenza, movimento, luce, temperatura, umidità, CO2, 
 - **Applicazioni:** Controllo illuminazione, clima, sicurezza, VMC, scenari anti-allagamento/gas.
 - **Vantaggi:** mm-wave rileva presenza anche ferma (uffici, anziani); CO2 guida la VMC con dati reali.
 - **Limiti e attenzioni:** Falsi positivi PIR in ambienti con animali; taratura iniziale lunga.
-- **Costi ed economia:** Sensore PIR: 10-50 €; mm-wave: 30-80 €; CO2 NDIR: 60-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Sensore PIR: 10-50 €; mm-wave: 30-80 €; CO2 NDIR: 60-150 €.
 - **Caso tipico:** Dispositivi KNX/Aqara/Shelly per ogni fascia.
 - **Normativa:** Marcatura CE; CEI EN per compatibilità elettromagnetica.
 - **Nota di cantiere:** I sensori sono il 30% del comfort e l'80% dei malfunzionamenti percepiti: investire in qualità e taratura.
@@ -1105,7 +1105,7 @@ Impianto di sicurezza con sensori volumetrici, perimetrali, centrali, integrato 
 - **Applicazioni:** Ville, uffici, negozi, magazzini.
 - **Vantaggi:** Integrazione: l'allarme attiva scene (accendi luce, alza tapparelle, invia notifica).
 - **Limiti e attenzioni:** Standard antintrusione rigidi sul cablaggio (tamper); integrazione domotica da certificare.
-- **Costi ed economia:** Impianto appartamento: 800-2.500 €; villa: 2-8k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto appartamento: 800-2.500 €; villa: 2-8k€.
 - **Caso tipico:** Bentel, Ajax (wireless), Satel, DSC.
 - **Normativa:** CEI 79-2/3/4; VDE 0833 per componentistica bus.
 - **Nota di cantiere:** La domotica NON sostituisce l'impianto certificato: convivono, con l'antintrusione che manda stati alla domotica.
@@ -1120,7 +1120,7 @@ La domotica comanda la VMC in base a CO2, umidità e presenza: aria pulita con m
 - **Applicazioni:** Case passive, uffici, scuole, camere hotel.
 - **Vantaggi:** Comfort e salute documentati (concentrazione, sonno); consumi della VCA ottimizzati (-30%).
 - **Limiti e attenzioni:** Centraline VMC 'chiuse' senza interfaccia: scegliere modelli con ingresso 0-10V/Modbus.
-- **Costi ed economia:** Centralina VMC smart-ready: +200-500 € rispetto a standard.
+- **Costi ed economia:** Ordini di grandezza indicativi: Centralina VMC smart-ready: +200-500 € rispetto a standard.
 - **Caso tipico:** Zehnder, Mitsubishi Lossnay, Vortice con controlli esterni.
 - **Normativa:** UNI EN 13779 classificazione aria; UNI/TS 11300 per calcoli.
 - **Nota di cantiere:** Sopra i 1.000 ppm di CO2 le prestazioni cognitive calano: sensori CO2 in ufficio sono salute, non gadget.
@@ -1135,7 +1135,7 @@ Telecamere IP per sicurezza, con vincoli GDPR per aree comuni e lavoro.
 - **Applicazioni:** Cantieri, condomini, aziende, showroom.
 - **Vantaggi:** Deterrenza documentata; analitiche riducono falsi allarmi 90%.
 - **Limiti e attenzioni:** GDPR: DPIA obbligatoria, tempi conservazione, divieto aree sensibili (uffici, spogliatoi).
-- **Costi ed economia:** Cam IP: 80-400 €; NVR 8ch: 300-800 €; progetto: 50-300 €/punto installato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cam IP: 80-400 €; NVR 8ch: 300-800 €; progetto: 50-300 €/punto installato.
 - **Caso tipico:** Hikvision, Dahua, Axis (top), Ubiquiti (semplice).
 - **Normativa:** GDPR; Legge 76/2013 sicurezza urbana (flussi verso PS); norma videosorveglianza lavoro.
 - **Nota di cantiere:** La telecamera si posiziona sulla PROPRIETA', mai sullo spazio pubblico: 1 metro può costare una sanzione.
@@ -1150,7 +1150,7 @@ Rete mesh Bluetooth per illuminazione smart professionale.
 - **Applicazioni:** Uffici, retail, hotel: illuminazione + localizzazione indoor (asset tracking).
 - **Vantaggi:** Una sola rete per luce e localizzazione dei badge/carrelli; installazione semplice.
 - **Limiti e attenzioni:** Ecosistema in crescita ma inferiore a KNX/DALI; distanza hop limitata.
-- **Costi ed economia:** Componenti: 15-80 €/punto luce.
+- **Costi ed economia:** Ordini di grandezza indicativi: Componenti: 15-80 €/punto luce.
 - **Caso tipico:** Signify Interact, Silicon Labs reference designs.
 - **Normativa:** Bluetooth SIG Mesh specifications.
 - **Nota di cantiere:** La killer feature è il posizionamento indoor: retail e ospedali lo adottano per questo.
@@ -1165,7 +1165,7 @@ Lo standard unificato 2022+ per la smart home: interoperabilità tra Google, App
 - **Applicazioni:** Nuovi impianti e aggiornamenti smart home: un solo ecosistema per ogni dispositivo.
 - **Vantaggi:** FINALMENTE: un dispositivo Matter funziona con tutti gli assistenti; commissioning semplice.
 - **Limiti e attenzioni:** Dispositivi ancora non esaustivi; certificazione in corso per molte categorie.
-- **Costi ed economia:** Dispositivi Matter: 15-100 €; border router integrato in altoparlanti/hub esistenti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dispositivi Matter: 15-100 €; border router integrato in altoparlanti/hub esistenti.
 - **Caso tipico:** Google Nest, Apple HomeKit, Amazon Echo, SmartThings convergenti su Matter.
 - **Normativa:** Standard CSA (Connectivity Standards Alliance).
 - **Nota di cantiere:** Per nuovi impianti residenziali: preferire dispositivi Matter-certified per non restare imprigionati in un ecosistema.
@@ -1180,7 +1180,7 @@ Dispositivi smart direttamente sulla rete Wi-Fi dell'edificio.
 - **Applicazioni:** Piccoli impianti, singoli ambienti, B&B, retrofit leggero.
 - **Vantaggi:** Nessun hub aggiuntivo; prezzo basso; app immediata.
 - **Limiti e attenzioni:** Consumo elevato (batterie durano poco); congestione rete; dipendenza dal cloud esterno.
-- **Costi ed economia:** Dispositivo: 10-50 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dispositivo: 10-50 €.
 - **Caso tipico:** Sonoff, Shelly, Tuya/Smart Life (migliaia di prodotti).
 - **Normativa:** CEI 64-8 per l'impianto elettrico.
 - **Nota di cantiere:** Il cloud esterno è un rischio continuità: se il produttore chiude, i dispositivi muoiono. Preferire dispositivi con API locali.
@@ -1195,7 +1195,7 @@ Protocollo radio sub-GHz per domotica residenziale (mesh).
 - **Applicazioni:** Sicurezza, sensori, attuatori in contesti residenziali.
 - **Vantaggi:** Banda libera da congestione Wi-Fi; segnale che attraversa pareti meglio del 2,4 GHz.
 - **Limiti e attenzioni:** Ecosistema più piccolo di Zigbee; hub dedicato.
-- **Costi ed economia:** Dispositivo: 20-80 €; hub: 100-250 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dispositivo: 20-80 €; hub: 100-250 €.
 - **Caso tipico:** Fibaro, Aeotec, Somfy (parzialmente).
 - **Normativa:** Z-Wave Alliance; certificazione obbligatoria.
 - **Nota di cantiere:** In edilizia europea ha perso terreno verso Zigbee e Matter, ma resta solido in sicurezza.
@@ -1210,7 +1210,7 @@ Mesh radio a basso consumo per sensori e attuatori domotici.
 - **Applicazioni:** Sensori ambiente, prese smart, illuminazione, chiavi intelligenti.
 - **Vantaggi:** Bassissimo consumo (batterie anni); mesh estendibile; dispositivi economici.
 - **Limiti e attenzioni:** Interferenze Wi-Fi sulla stessa banda; qualità variabile tra marche.
-- **Costi ed economia:** Dispositivo: 10-60 €; hub: 50-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dispositivo: 10-60 €; hub: 50-150 €.
 - **Caso tipico:** Philips Hue, IKEA Tradfri, Samsung SmartThings, Aqara.
 - **Normativa:** Zigbee Alliance -> Connectivity Standards Alliance.
 - **Nota di cantiere:** Per un LLM: Zigbee è perfetto per il RETROFIT senza demolizioni: vale l'oro in ristrutturazioni.
@@ -1230,7 +1230,7 @@ L'APE (Attestato di Prestazione Energetica) è il documento che certifica la pre
 - **Applicazioni:** Compravendite, locazioni, cantieri incentivati, piani energetici comunali, patrimoni immobiliari.
 - **Vantaggi:** È la 'carta d'identità' energetica: senza APE serio non esiste commercio né incentivo regolare.
 - **Limiti e attenzioni:** La qualità dipende dal certificatore: APE 'fotocopia' con dati presunti valgono poco e in tribunale meno.
-- **Costi ed economia:** APE di un appartamento: 150-400 €; di una villa: 300-700 €; di un edificio complesso: 800-3.000 €. Lo sconto massimo si ha con i dati reali (bollette) invece di quelli standard.
+- **Costi ed economia:** Ordini di grandezza indicativi: APE di un appartamento: 150-400 €; di una villa: 300-700 €; di un edificio complesso: 800-3.000 €. Lo sconto massimo si ha con i dati reali (bollette) invece di quelli standard.
 - **Caso tipico:** Vendita di un trilocale con APE di 6 anni prima: la perizia del compratore ha richiesto l'APE aggiornato che ha mostrato una classe in meno del documento originale: rinegoziazione del prezzo di 8.000 € — l'APE vecchio costava caro al venditore.
 - **Normativa:** D.Lgs 192/2005 (origine, recepimento EPBD), D.Lgs 63/2013, DPR 75/2013 (metodo di calcolo unico nazionale); regole regionali sui registri e sulle sanzioni.
 - **Nota di cantiere:** Per il CT 3.0 l'APE va pensato in coppia (ante e post) con lo stesso certificatore: la coerenza dei due documenti è la prima verifica d'istruttoria.
@@ -1245,7 +1245,7 @@ Le Comunità Energetiche Rinnovabili (CER) e le configurazioni di autoconsumo co
 - **Applicazioni:** Condomini, borghi e municipaità, filiere agricole, artigiani, piccole imprese che condividono un tetto o un campo.
 - **Vantaggi:** Scalano l'autoconsumo dove il singolo non può: un condominio in CER condivide un impianto sul tetto comune e riparte il beneficio in bolletta.
 - **Limiti e attenzioni:** La complessità amministrativa è reale: statuto, contabilità dei flussi, rapporti GSE; il premio dipende da regole che si evolvono (verificare sempre le condizioni vigenti).
-- **Costi ed economia:** Costo di costituzione CER con supporto specializzato: 2.000-8.000 €; gestione annua: 1.000-4.000 €; i gestori di piattaforma offrono pacchetti chiavi in mano (verificare i costi aggiornati).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo di costituzione CER con supporto specializzato: 2.000-8.000 €; gestione annua: 1.000-4.000 €; i gestori di piattaforma offrono pacchetti chiavi in mano (verificare i costi aggiornati).
 - **Caso tipico:** Borgo di montagna: 40 famiglie in CER con idroelettrico esistente da 90 kW ammodernato: premio GSE più condivisione dell'energia: risparmio medio per famiglia alcune centinaia di euro l'anno, con il valore sociale della ripresa dell'impianto abbandonato.
 - **Normativa:** D.Lgs 199/2021 (attuazione direttiva 2018/2001/UE sulle comunità energetiche); D.Lgs 28/2011; regole applicative GSE e delibere ARERA sulle configurazioni di autoconsumo.
 - **Nota di cantiere:** Prima di proporre una CER: mappare tetto/cabina/contatori. Se i partecipanti non stanno nella stessa cabina di trasformazione, la configurazione cambia (o cade): la cabina è il confine fisico del progetto.
@@ -1260,7 +1260,7 @@ La domanda si presenta sul PortalTermico 3.0 del GSE: in accesso diretto entro 9
 - **Applicazioni:** Pratiche GSE di imprese installatrici, studi tecnici, PA con ESCo.
 - **Vantaggi:** La prenotazione PA risolve il problema della tesoreria: l'ente pubblico sa prima di cantieriare che i fondi sono bloccati.
 - **Limiti e attenzioni:** L'istruttoria è formale ma rigida: pratiche incomplete tornano indietro e perdono la corsa sul fondo a esaurimento.
-- **Costi ed economia:** Gestione pratica completa (studio tecnico): 500-2.500 € in funzione della complessità; la revoca per mancato mantenimento dell'impegno rende il contributo un debito: il contratto di manutenzione quinquennale è parte del business case.
+- **Costi ed economia:** Ordini di grandezza indicativi: Gestione pratica completa (studio tecnico): 500-2.500 € in funzione della complessità; la revoca per mancato mantenimento dell'impegno rende il contributo un debito: il contratto di manutenzione quinquennale è parte del business case.
 - **Caso tipico:** Cooperativa di housing: pratica CT 3.0 su 12 alloggi presentata dal tecnico in giornata 4 dalla fine lavori con APE post già pronto: numero in graduatoria utile; il condominio 'gemello' che ha aspettato l'APE (altri 45 giorni) è entrato dopo il primo esaurimento parziale dei fondi.
 - **Normativa:** GSE — regole applicative Conto Termico 3.0 (aggiornate; consultare la versione vigente sul portale); D.M. 7/8/2025; D.Lgs 28/2011 (incentivi energetici).
 - **Nota di cantiere:** L'APE post-intervento è il collo di bottiglia: prenotare il termotecnico per la certificazione PRIERA della fine dei lavori, non dopo. La classe energetica guadagnata è anche la prova dell'incentivo.
@@ -1275,7 +1275,7 @@ Il Conto Termico 3.0 incentiva interventi su inviluppo e impianti: pompe di calo
 - **Applicazioni:** Riqualificazione termica di edifici residenziali (termico), aziende (terziario con FV), scuole e comuni (fino al 100%).
 - **Vantaggi:** La logica 'trainata' del fotovoltaico allinea l'incentivo alla decarbonizzazione del calore: il progetto integrato PdC+FV+accumulo è il target della misura.
 - **Limiti e attenzioni:** Il fotovoltaico non residenziale da solo NON entra: serve sempre la sostituzione del generatore termico; le percentuali variano per zona climatica e tipologia edificio.
-- **Costi ed economia:** Esempio verificato su fonti GSE: PdC 8-16 kW: incentivo tipico 2.000-7.500 €; caldaia biomassa classe 4-5: 1.500-5.000 €; solare termico: 1.500-4.000 €; ibrido caldaia+PdC: 2.500-8.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Esempio verificato su fonti GSE: PdC 8-16 kW: incentivo tipico 2.000-7.500 €; caldaia biomassa classe 4-5: 1.500-5.000 €; solare termico: 1.500-4.000 €; ibrido caldaia+PdC: 2.500-8.000 €.
 - **Caso tipico:** Azienda alberghiera: sostituzione caldaia a gas con PdC 50 kW + FV 20 kWp + accumulo 10 kWh: incentivo stimato ~30.000 € tra termico (65% su parte) e traino FV/accumulo (20%); la stessa azienda con solo fotovoltaico (senza PdC) avrebbe avuto zero.
 - **Normativa:** D.M. 7/8/2025 e allegati tecnici; catalogo apparecchi GSE (i prodotti devono essere iscritti); requisiti di efficienza ENEA per le maggiorazioni; DM 37/08 per la conformità impiantistica.
 - **Nota di cantiere:** Il catalogo GSE decide: prima di quotare, verificare che il modello specifico (non la 'famiglia') sia iscritto al catalogo con la classe di efficienza dichiarata. Il modello non iscritto = incentivo azzerato.
@@ -1290,7 +1290,7 @@ Il Conto Termico 3.0 è il contributo a fondo perduto del GSE per interventi di 
 - **Applicazioni:** Sostituzione di generatori con pompe di calore, solare termico, biomassa certificata, isolamento, building automation, interventi nelle PA; parte degli incentivi per la riqualificazione del parco edilizio.
 - **Vantaggi:** È un contributo in cassa, non una detrazione: non dipende dalla capienza fiscale del richiedente e arriva in mesi, non in dieci anni.
 - **Limiti e attenzioni:** Fondo a esaurimento: la rapidità della pratica decide; non cumulabile con le detrazioni fiscali statali sulle stesse spese.
-- **Costi ed economia:** Non ha costo di accesso (nessun costo per la domanda); i costi sono quelli della pratica tecnica: APE ante/post, progettazione, eventuale assistenza (1-3% dell'incentivo).
+- **Costi ed economia:** Ordini di grandezza indicativi: Non ha costo di accesso (nessun costo per la domanda); i costi sono quelli della pratica tecnica: APE ante/post, progettazione, eventuale assistenza (1-3% dell'incentivo).
 - **Caso tipico:** Impresa metalmeccanica: pompa di calore da 40 kW + fotovoltaico trainato da 30 kWp: incentivo stimato 65% sul termico e 20% sul FV (maximale ~1.500 €/kW decrescente con la taglia); pratica in accesso diretto entro 90 giorni dalla fine lavori, prima rata dopo istruttoria GSE (60 giorni di valutazione).
 - **Normativa:** D.M. 7 agosto 2025 (Conto Termico 3.0); GSE — regole tecniche e catalogo apparecchi (aggiornato dal 15 aprile 2026); D.Lgs 28/2011 (esenzione IRPEF del contributo per le persone fisiche, art. 11).
 - **Nota di cantiere:** Regola d'oro commerciale: mai vendere il Conto Termico come 'sicuro'. Si vende come 'maggiorazione probabile se la pratica è completa e i fondi ci sono'. Il contratto con il cliente deve separare il prezzo dell'opera dall'incentivo.
@@ -1305,7 +1305,7 @@ Le detrazioni fiscali restano il grande strumento dell'edilizia italiana. Numeri
 - **Applicazioni:** Ristrutturazioni edilizie, riqualificazione energetica, interventi sulle parti comuni condominiali, arredi connessi alla ristrutturazione.
 - **Vantaggi:** Trasformano l'imposta in investimento: per chi ha capienza fiscale il 50% in 10 anni resta competitivo con molti contributi.
 - **Limiti e attenzioni:** I valori cambiano ogni anno (legge di bilancio): la specializzazione dell'LLM deve essere sul METODO (documenti, tracciabilità, cumuli), non sui numeri dell'anno scorso.
-- **Costi ed economia:** Pratica di detrazione gestita da tecnico: 300-1.500 €; l'errore tipico (pagamento non tracciato) fa perdere l'intera agevolazione su quella fattura.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pratica di detrazione gestita da tecnico: 300-1.500 €; l'errore tipico (pagamento non tracciato) fa perdere l'intera agevolazione su quella fattura.
 - **Caso tipico:** Cliente con bonifico 'ristrutturazioni' fatto su conto del figlio convivente ma non intestatario: l'Agenzia delle Entrate ha negato la detrazione (non tracciato come da norma): 12.000 € di agevolazione perse per un bonifico sbagliato.
 - **Normativa:** TUIR art. 16-bis; L. 199/2025 (Legge di Bilancio 2026); Circolare Agenzia delle Entrate 8/E del 19 giugno 2025; prassi ENEA per le piattaforme delle detrazioni energetiche (versione vigente).
 - **Nota di cantiere:** Il primo controllo di ogni pratica di detrazione: intestatario del bonifico = intestatario dell'immobile (o comproprietario), causale corretta, nel periodo dei lavori. Il 90% delle perdite nasce qui.
@@ -1320,7 +1320,7 @@ Ogni progetto ha un incentivo 'giusto': il fondo perduto (Conto Termico) vince s
 - **Applicazioni:** Ogni studio tecnico che prepara preventivi energetici; ogni impresa che decide l'investimento.
 - **Vantaggi:** Il cliente giudica il professionista sullo scenario reale: chi presenta un unico numero 'con bonus' senza scenario B perde credibilità alla prima variazione di legge.
 - **Limiti e attenzioni:** Nessun incentivo copre il 100% del rischio progettuale: la sostenibilità dell'opera senza incentivo resta il test di serietà.
-- **Costi ed economia:** Tempo di analisi comparativa: 2-4 ore di tecnico per progetto tipo; i software di simulazione economica includono i moduli incentivi aggiornati (abbonamento).
+- **Costi ed economia:** Ordini di grandezza indicativi: Tempo di analisi comparativa: 2-4 ore di tecnico per progetto tipo; i software di simulazione economica includono i moduli incentivi aggiornati (abbonamento).
 - **Caso tipico:** Famiglia con reddito medio e ristrutturazione da 80.000 € (di cui 30.000 energetici): il CT 3.0 (se ammissibile, unica rata per importi bassi) dava cassa subito ma solo sulle voci termiche; la detrazione 50% copriva tutto ma in 10 anni. Scelta: CT sul termico + detrazione sul resto — ammissibile perché spese diverse.
 - **Normativa:** Regole di cumulo del D.M. 7/8/2025 (CT 3.0) e delle leggi di bilancio (detrazioni); prassi ENEA/GSE per i raffronti spese.
 - **Nota di cantiere:** Domanda da porsi prima di firmare qualsiasi preventivo incentivato: 'questo numero cambia se il cliente non ha capienza / se il fondo finisce / se la legge cambia?' Se sì, il preventivo deve dirlo.
@@ -1335,7 +1335,7 @@ Per le imprese l'efficienza energetica si incentiva anche con il credito d'impos
 - **Applicazioni:** Imprese manifatturiere e dei servizi in sede propria, modernizzazione energetica degli stabilimenti, impianti fotovoltaici aziendali con accumulo.
 - **Vantaggi:** Il credito d'imposta è cumulabile con altre misure (con regole di raffronto spese) e si pianifica con il commercialista d'impresa: è uno strumento da bilancio, non da cantiere.
 - **Limiti e attenzioni:** Piattaforme con tempi e requisiti (es. pratica prima dell'installazione per alcune misure): il mancato rispetto della sequenza rende il credito insostenibile in verifica.
-- **Costi ed economia:** Assistenza per pratica Transizione/iperammortamento: 2.000-8.000 € in funzione dell'investimento; l'asseverazione energetica (audit) per il credito 35%: 3.000-15.000 € per stabilimento.
+- **Costi ed economia:** Ordini di grandezza indicativi: Assistenza per pratica Transizione/iperammortamento: 2.000-8.000 € in funzione dell'investimento; l'asseverazione energetica (audit) per il credito 35%: 3.000-15.000 € per stabilimento.
 - **Caso tipico:** Stabilimento metalmeccanico: confronto 2026 tra CT 3.0 (PdC+FV trainato, fondo perduto, solo se progetto integrato) e iperammortamento (FV+accumulo puro, beni strumentali): per il solo fotovoltaico l'iperammortamento restava l'unica via; per il progetto con pompa di calore il CT 3.0 dava cassa immediata. Il piano ha combinato entrambi su voci diverse.
 - **Normativa:** D.L. approvati per Transizione 5.0 (crediti 2024-2025) e legge di bilancio 2026; discipline iperammortamento aggiornate (verificare versione vigente); piattaforma MIMIT per i crediti energia.
 - **Nota di cantiere:** La sequenza temporale è il contenuto vero di questi incentivi: pratica/prima, acquisto poi, installazione dopo. Le imprese che comprano 'e poi vedono l'incentivo' finiscono a sostenere l'investimento intero.
@@ -1380,7 +1380,7 @@ I Titoli di Efficienza Energetica (TEE, 'certificati bianchi') sono titoli negoz
 - **Applicazioni:** Cogenerazione e trigenerazione, recupero di calore, efficientamento di reti, impianti di grandi utenze, riqualificazione termica di edifici pubblici e privati.
 - **Vantaggi:** L'efficienza diventa un titolo: l'investimento può ripagarsi due volte (risparmio in bolletta + vendita TEE).
 - **Limiti e attenzioni:** Prezzo volatile (ha oscillato da decine a oltre 200 €/TEE negli anni: verificare quotazioni); la burocracia di certificazione scoraggia i piccoli interventi senza supporto specializzato.
-- **Costi ed economia:** Gestione pratica TEE da società specializzata: percentuale del valore (5-15%) o quota fissa; i TEE di un buon progetto di cogenerazione industriale possono valere decine di migliaia di euro l'anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Gestione pratica TEE da società specializzata: percentuale del valore (5-15%) o quota fissa; i TEE di un buon progetto di cogenerazione industriale possono valere decine di migliaia di euro l'anno.
 - **Caso tipico:** Municipalità con riqualificazione termica di 5 scuole: i TEE certificati hanno coperto il 12% dell'investimento complessivo venduti a distanza di un anno dal termine lavori (strategia di vendita frazionata concordata con la società di gestione).
 - **Normativa:** D.Lgs 28/2011 (art. 7: meccanismo dei TEE e obblighi); regole GSE per la certificazione e il mercato (aggiornate periodicamente); direttiva EED di riferimento (2012/27/UE).
 - **Nota di cantiere:** I TEE si progettano: chi decide la strategia di vendita DOPO la certificazione si accontenta del prezzo del giorno; chi la decide prima ottimizza il valore atteso.
@@ -1395,7 +1395,7 @@ I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli 
 - **Applicazioni:** Bandi di gara pubblici, commesse di catene retail e grandi corporate, edilizia scolastica e sanitaria, cantieri green.
 - **Vantaggi:** Allineano il mercato: chi produce e posa con CAM dimostrabili entra nei bandi moderni senza sconti.
 - **Limiti e attenzioni:** La documentazione ambientale di molti fornitori è ancora debole: il cantiere che non verifica prima dell'ordine scopre il problema alla consegna.
-- **Costi ed economia:** Differenziale di prezzo dei prodotti CAM: 0-10% (spesso zero sui grandi volumi); EPD di prodotto per il produttore: 2.000-8.000 € per famiglia.
+- **Costi ed economia:** Ordini di grandezza indicativi: Differenziale di prezzo dei prodotti CAM: 0-10% (spesso zero sui grandi volumi); EPD di prodotto per il produttore: 2.000-8.000 € per famiglia.
 - **Caso tipico:** Gara di un polo scolastico: l'offerta con cls certificato con EPD e gestione rifiuti al 75% di riciclo ha vinto il punteggio ambientale superando un ribasso economico più alto dello 0,8%: il valore dei CAM supera il prezzo nei punteggi.
 - **Normativa:** D.Lgs 36/2023 (CAM negli appalti pubblici); DM e decreti attuativi per le singole categorie; UNI EN 15804 (EPD per prodotti da costruzione); strategia GPP nazionale.
 - **Nota di cantiere:** Il CAM si verifica in fase di offerta con documenti (EPD, dichiarazioni): chi li chiede dopo l'aggiudicazione trova fornitori impreparati e cantieri fermi.
@@ -1410,7 +1410,7 @@ Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica p
 - **Applicazioni:** Imprese industriali, catene distributive grandi, PA con edilizia pubblica estesa, ESCo.
 - **Vantaggi:** La diagnosi obbligatoria è il pretesto burocratico che diventa piano di investimento: chi la fa sul serio trova il 10-20% di risparmio identificato.
 - **Limiti e attenzioni:** Formalismo diffuso: diagnosi 'fotocopia' che non portano a un investimento sono carta senza valore.
-- **Costi ed economia:** Diagnosi energetica di uno stabilimento medio: 4.000-15.000 €; per gruppi con più sedi: a listino. ISO 50001: 5.000-20.000 € di costruzione e certificazione del sistema.
+- **Costi ed economia:** Ordini di grandezza indicativi: Diagnosi energetica di uno stabilimento medio: 4.000-15.000 €; per gruppi con più sedi: a listino. ISO 50001: 5.000-20.000 € di costruzione e certificazione del sistema.
 - **Caso tipico:** Fonderia medio-piccola 'energivora' non a conoscenza dell'obbligo: richiesta della diagnosi in corso di verifica: costo affrettato doppio (diagnosi + pratica) rispetto alla programmazione: 9.000 € e una violazione formalizzata che il nuovo energy manager interno ha trasformato in piano di risparmio da 40.000 €/anno.
 - **Normativa:** D.Lgs 102/2014 (efficienza energetica, recepimento direttiva EED); UNI CEI 16247 (diagnosi energetiche); decreti MIMIT con elenchi energivore e aggiornamenti soglie.
 - **Nota di cantiere:** La scadenza della diagnosi è dicembre degli anni dispari: chi si muove a ottobre dell'anno scorso trova le ESCo disponibili; chi si muove a novembre dell'anno scadenza paga il sovrapprezzo e rischia la sanzione.
@@ -1425,7 +1425,7 @@ Le ESCo (Energy Service Company) realizzano interventi di efficienza energetica 
 - **Applicazioni:** Scuole e PA senza budget, stabilimenti industriali, ospedali, grandi servizi, riqualificazione di condomìni con spese comuni importanti.
 - **Vantaggi:** Trasferisce a chi sa farlo il rischio tecnico-finanziario: il cliente paga dal risparmio, non da cassa.
 - **Limiti e attenzioni:** Il costo del capitale e del rischio si paga nel prezzo: l'EPC costa di più dell'intervento a budget; la qualità della baseline decide chi guadagna davvero.
-- **Costi ed economia:** Valutazione ESCo: risparmi garantiti tipicamente 15-40% sui consumi presi in carico; la quota di riparto a favore della ESCo è definita contrattualmente per durata e rischio; le pratiche CT 3.0 in prenotazione per PA prevedono espressamente il canale ESCo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Valutazione ESCo: risparmi garantiti tipicamente 15-40% sui consumi presi in carico; la quota di riparto a favore della ESCo è definita contrattualmente per durata e rischio; le pratiche CT 3.0 in prenotazione per PA prevedono espressamente il canale ESCo.
 - **Caso tipico:** Ospedale con EPC di 9 anni su cogenerazione, involucro e illuminazione: risparmio verificato dal protocollo M&V del 28% sui consumi elettrici e 35% sui termici; al termine del contratto l'impianto è rimasto all'ospedale con gestione interna formata dalla ESCo stessa.
 - **Normativa:** UNI CEI 11352 (requisiti e certificazione ESCo); IPMVP (protocollo di misura e verifica, riferimento internazionale); D.Lgs 28/2011 (certificati bianchi e contratti di servizio energetico); D.M. 7/8/2025 (canale ESCo per la prenotazione CT 3.0).
 - **Nota di cantiere:** La prima verifica di serietà di un EPC: chi ha scritto la baseline e con quali dati (bolllette ≥ 24 mesi). La baseline su un solo anno di bolletta è il punto di partenza di ogni contestazione futura.
@@ -1505,7 +1505,7 @@ Le formule elettriche del cantiere e dello studio.
 - **Applicazioni:** Dimensionamento linee, verifica quadri, scelta protezioni, diagnostica guasti.
 - **Vantaggi:** P=V·I basta per non bruciare un impianto: chi la ignora sottodimensiona i cavi.
 - **Limiti e attenzioni:** Le formule sono a regime: i picchi di avviamento (motori) richiedono sovradimensionamento coordinato.
-- **Costi ed economia:** Le tabelle sezione-corrente sono nella CEI 64-8 (pubblica).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le tabelle sezione-corrente sono nella CEI 64-8 (pubblica).
 - **Caso tipico:** Forno 3 kW a 230 V: I = 3000/230 = 13 A → linea 2,5 mm² con magnetotermico 16 A.
 - **Normativa:** CEI 64-8; IEC 60364.
 - **Nota di cantiere:** Il test del professionista: chiedere sempre la corrente di impiego prima di parlare di sezioni. Il cavo si sceglie dalla corrente, non dal colore o dall'abitudine.
@@ -1550,7 +1550,7 @@ Le formule del fluire dell'acqua negli edifici: pressione, portata, perdite di c
 - **Applicazioni:** Dimensionamento tubazioni, verifica pressioni, diagnosi di impianti deboli.
 - **Vantaggi:** Le perdite di carico spiegano il 90% dei problemi: 'l'acqua non arriva' = le perdite superano la pressione.
 - **Limiti e attenzioni:** I calcoli sono per regime permanente: i transitori richiedono studi dedicati.
-- **Costi ed economia:** Le formule in UNI EN 806 e nei manuali.
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule in UNI EN 806 e nei manuali.
 - **Caso tipico:** Doccia al 3° piano con p=0,8 bar: ok (min 0,5); con p=0,3 bar: insufficiente → servono perdite ridotte o pressurizzazione.
 - **Normativa:** UNI EN 806; UNI EN 1717.
 - **Nota di cantiere:** La regola del pollice: a parità di portata, raddoppiare il diametro riduce le perdite di 30 volte (J ∝ 1/D⁵ approssimato). Il diametro corretto è il miglior investimento invisibile dell'impianto.
@@ -1580,7 +1580,7 @@ Il peso che frena il caldo: capacità termica e fase di sfasamento.
 - **Applicazioni:** Case passive, climi mediterranei, edilizia in terra e cls.
 - **Vantaggi:** L'inerzia è il condizionamento gratuito: la parete pesante carica di fresco la notte e lo restituisce il giorno.
 - **Limiti e attenzioni:** L'inerzia è utile solo con escursione giorno-notte: nei climi umidi e costanti vale meno.
-- **Costi ed economia:** I valori ρ·c nelle tabelle (cls 2400 kg/m³ · 1000 = 2,4 MJ/m³K).
+- **Costi ed economia:** Ordini di grandezza indicativi: I valori ρ·c nelle tabelle (cls 2400 kg/m³ · 1000 = 2,4 MJ/m³K).
 - **Caso tipico:** Le case in tufo dell'Etna: interni freschi senza condizionatore; i palazzi storici di pietra.
 - **Normativa:** UNI EN ISO 13786 (inerzia).
 - **Nota di cantiere:** La regola mediterranea: 'parete pesante verso sud, isolata all'esterno, ventilata la notte': tre mosse fisiche che sostituiscono metà del condizionatore.
@@ -1640,7 +1640,7 @@ Quanta aria serve davvero: il calcolo della VMC e del comfort degli interni.
 - **Applicazioni:** Progetto VMC, verifica qualità aria, scelta centraline.
 - **Vantaggi:** Il calcolo della portata decide il dimensionamento della VMC: la salute si calcola, non si promette.
 - **Limiti e attenzioni:** I ricambi minimi di legge sono il minimo legale, non il comfort ottimale.
-- **Costi ed economia:** Le tabelle UNI 10339 (pubbliche).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le tabelle UNI 10339 (pubbliche).
 - **Caso tipico:** Camera da letto 2 persone, 30 m³/h ciascuno = 60 m³/h: una centralina da 100 m³/h copre la zona notte.
 - **Normativa:** UNI 10339; UNI EN 13779.
 - **Nota di cantiere:** La regola del CO2: sotto i 800 ppm la testa funziona, sopra i 1200 ppm il sonno e la concentrazione calano. Il sensore CO2 (60 €) è il termometro del comfort moderno.
@@ -1765,7 +1765,7 @@ Il fotovoltaico a terra è un investimento finanziario: si valuta come un'impres
 - **Applicazioni:** Business plan di nuovi campi, valutazione di acquisizioni, confronto tra siti e tecnologie.
 - **Vantaggi:** Il modello è lineare: pochi input dominano (produzione, prezzo, CAPEX); il PPA a lungo termine con un cliente industriale de-rischia il prezzo e rende il progetto bancabile anche in mercato volatile.
 - **Limiti e attenzioni:** Le stime di prezzo a 20-30 anni sono il punto debole di ogni modello: gli scenari si fanno cautelativi; i costi di iter e connessione sono i più sottostimati dai principianti; il rischio normativo italiano recente (cambi di regole su incentivi e rete) va prudenzializzato.
-- **Costi ed economia:** Esempio svolto (ordini di grandezza indicativi, sito centro-Italia): 1 MWp con CAPEX 0,75 mln €, produzione 1.400 kWh/kWp (1,4 GWh/anno), OPEX 15k€/anno, prezzo medio vendita 90 €/MWh: ricavo ~126k€/anno, margine lordo ~111k€, payback ~7-8 anni, flussi per 30 anni con sostituzione inverter a metà vita; con PPA a 100 €/MWh il progetto passa i criteri bancari standard (DSCR >1,2).
+- **Costi ed economia:** Ordini di grandezza indicativi: Esempio svolto (ordini di grandezza indicativi, sito centro-Italia): 1 MWp con CAPEX 0,75 mln €, produzione 1.400 kWh/kWp (1,4 GWh/anno), OPEX 15k€/anno, prezzo medio vendita 90 €/MWh: ricavo ~126k€/anno, margine lordo ~111k€, payback ~7-8 anni, flussi per 30 anni con sostituzione inverter a metà vita; con PPA a 100 €/MWh il progetto passa i criteri bancari standard (DSCR >1,2).
 - **Caso tipico:** Il caso reale dei campi costruiti nel 2020-2022 con LCOE sotto i 60 €/MWh sta producendo flussi pieni nonostante la volatilità dei prezzi 2024-2026: chi aveva contratto PPA è immune, chi vende spot vive il mercato.
 - **Normativa:** Le prassi bancarie di riferimento (Solar Bankability, linee guida BEI); i regimi di vendita (RID secondo le regole GSE, mercato libero secondo ARERA); il D.Lgs 190/2024 per il quadro autorizzativo che regge l'investimento.
 - **Nota di cantiere:** Il modello economico si aggiorna con i dati reali del primo anno: la ricalibrazione annuale è prassi professionale; i contratti EPC con garanzia di produzione danno il primo benchmark di onestà della stima; la curva di degradazione va dentro il modello, non sopra.
@@ -1890,7 +1890,7 @@ Diffusione sonora di emergenza: messaggi chiari che guidano l'uscita.
 - **Applicazioni:** Stadi, scuole, ospedali, centri commerciali, industrie.
 - **Vantaggi:** L'evacuazione vocale dimezza i tempi di uscita rispetto alla sirena; in stadi è l'unica via praticabile.
 - **Limiti e attenzioni:** Progetto specialistico; la batteria tampone va mantenuta (la causa #1 dei guasti).
-- **Costi ed economia:** Impianto EVAC edificio: 5-20 €/m2; centrali grandi impianti: 10-50k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto EVAC edificio: 5-20 €/m2; centrali grandi impianti: 10-50k€.
 - **Caso tipico:** Bosch PAVIRO, Dynacord, systems integrators certificati.
 - **Normativa:** EN 50849 (EVAC); EN 54-16.
 - **Nota di cantiere:** L'emergenza si prova: la simulazione annuale con cronometro è l'unico modo di sapere se funziona.
@@ -1905,7 +1905,7 @@ Barriere fisiche al fuoco: porte REI 60-120, pareti, serrande, vetri tagliafuoco
 - **Applicazioni:** Ogni edificio: corridoi, vani scale, garage interrati, laboratori.
 - **Vantaggi:** Il comparto funziona SOLO se tutte le chiusure sono a norma: una porta spalancata annulla tutto.
 - **Limiti e attenzioni:** Le porte tagliafuoco spesso vengono 'bloccate' per comodità; i fermi automatici costano e vengono tolti.
-- **Costi ed economia:** Porta REI 60: 400-1.200 €; vetro tagliafuoco: 300-800 €/m2; verifica annuale: 10-30 €/porta.
+- **Costi ed economia:** Ordini di grandezza indicativi: Porta REI 60: 400-1.200 €; vetro tagliafuoco: 300-800 €/m2; verifica annuale: 10-30 €/porta.
 - **Caso tipico:** Porte Dierre, Novoferm; vetri Saint-Gobain, Schott.
 - **Normativa:** UNI EN 16034 (porte e finestre resistenti al fuoco: marcatura CE e campo d'applicazione); DM 3/8/2015 e normativa vigente prevenzione incendi per le prescrizioni; UNI EN 13501 (classi di resistenza E/EI).
 - **Nota di cantiere:** Il controllo annuale delle chiusure tagliafuoco è l'obbligo più economico e più trascurato: un check di 1 giorno salva un intero edificio.
@@ -1920,7 +1920,7 @@ Sensori che rilevano fumo, calore, fiamma, gas: il primo anello della catena di 
 - **Applicazioni:** Uffici, hotel, ospedali, data center, magazzini, parcheggi.
 - **Vantaggi:** Evacuazione precoce: la differenza tra un incidente e una tragedia; la manutenzione è normata e tracciata.
 - **Limiti e attenzioni:** Falsi allarmi in cucine e parcheggi (sensori sbagliati); centraline non manutenute.
-- **Costi ed economia:** Rivelatore: 30-150 €; centrale indirizzata: 800-3k€; progetto: 3-15 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rivelatore: 30-150 €; centrale indirizzata: 800-3k€; progetto: 3-15 €/m2.
 - **Caso tipico:** Esser, Bosch, NOTIFIER (Honeywell), Siemens Cerberus.
 - **Normativa:** EN 54 (serie completa); DM 2/9/2021.
 - **Nota di cantiere:** La rilevazione si progetta per COMPARTI e rischi (cucina, parcheggio, camera): lo stesso edificio ha sensori diversi per ambiente.
@@ -1935,7 +1935,7 @@ Misurare il calore consumato da ogni unità immobiliare: obbligatoria nei condom
 - **Applicazioni:** Condomini con riscaldamento centralizzato (millioni di unità in Italia).
 - **Vantaggi:** Chi consuma paga: risparmi medi documentati del 15-25% post-contabilizzazione; equità tra vicini.
 - **Limiti e attenzioni:** I ripartitori mal posizionati misurano male; le manutenzioni saltate rovinano tutto.
-- **Costi ed economia:** Ripartitore: 30-80 €/unità; centrale: 300-800 €; contatore diretto: 150-400 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Ripartitore: 30-80 €/unità; centrale: 300-800 €; contatore diretto: 150-400 €.
 - **Caso tipico:** Ista, Techem, Sontex: i 'big three' europei.
 - **Normativa:** UNI EN 834/835 (ripartitori/contatori); legge 10/91 art. 26 bis (obbligo).
 - **Nota di cantiere:** La contabilizzazione è il provvedimento energetico italiano MIGLIORE al mondo per diffusione: un LLM edile italiano DEVE conoscerla nei dettagli.
@@ -1980,7 +1980,7 @@ Il cuore elettrico di edifici grandi: trasformazione da media tensione a bassa t
 - **Applicazioni:** Condomini grandi, uffici, hotel, industrie, data center.
 - **Vantaggi:** Autonomia gestionale; tariffe MT più convenienti; continuità di servizio.
 - **Limiti e attenzioni:** Manutenzione obbligatoria con personale abilitato; spazio e costi iniziali.
-- **Costi ed economia:** Cabina 630-1000 kVA: 40-120k€ chiavi in mano; manutenzione: 3-8k€/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cabina 630-1000 kVA: 40-120k€ chiavi in mano; manutenzione: 3-8k€/anno.
 - **Caso tipico:** Cabine standardizzate 15/20 kV secondo norma CEI.
 - **Normativa:** CEI 0-16 (allacciamenti); DPR 462/01 (esercizio); L.186/68.
 - **Nota di cantiere:** La gestione della cabina richiede un 'esercente' nominato: molti condomini lo ignorano e rischiano sanzioni e blackout.
@@ -1995,7 +1995,7 @@ Distribuzione dei cavi elettrici in canaline, tubi protettivi, sottotraccia.
 - **Applicazioni:** Ogni edificio: posa in opera dei cavi.
 - **Vantaggi:** Sistematicità e tracciabilità; il sottotraccia è invisibile ed esteticamente perfetto.
 - **Limiti e attenzioni:** Tubi troppo pieni (>40% riempimento) surriscaldano; canaline esteticamente critiche se non progettate.
-- **Costi ed economia:** Posa punto luce in traccia: 60-120 €; canalina 25x40: 3-6 €/ml.
+- **Costi ed economia:** Ordini di grandezza indicativi: Posa punto luce in traccia: 60-120 €; canalina 25x40: 3-6 €/ml.
 - **Caso tipico:** Sistemi a secco: canaline esterne certificate CEI.
 - **Normativa:** CEI 64-8-2 (posa); CEI 64-8-5 (selezione cavi).
 - **Nota di cantiere:** La regola 40% di riempimento tubo non è burocratica: un tubo pieno surriscalda il cavo e degrada l'isolante in anni.
@@ -2010,7 +2010,7 @@ Distribuzione segnali TV terrestri/satellitari, DAB, streaming strutturato.
 - **Applicazioni:** Condomini, hotel, ospedali (sistemi SMATV).
 - **Vantaggi:** La presa multimediale unificata semplifica ogni locale; matrici per hospitality.
 - **Limiti e attenzioni:** Le vecchie reti cascata degradano: i condomini storici hanno impianti TV pessimi.
-- **Costi ed economia:** Impianto condominiale: 30-80 €/appartamento; matrice hotel: 1-5k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto condominiale: 30-80 €/appartamento; matrice hotel: 1-5k€.
 - **Caso tipico:** Centralini Fracarro, IKUSI, Televes.
 - **Normativa:** Legge 249/97 (Telecom); CEI 28-1.
 - **Nota di cantiere:** In ristrutturazione: passare cavo coassiale 5E + LAN in ogni stanza: il 'cordone' mediale della casa moderna.
@@ -2025,7 +2025,7 @@ Dispersore di terra: protezione di persone e cose dai guasti elettrici e fulmini
 - **Applicazioni:** Tutti gli edifici, obbligatorio per legge.
 - **Vantaggi:** La messa a terra è IL sistema che rende efficaci i differenziali; resistenza <40 ohm (valore tipico) o secondo progetto.
 - **Limiti e attenzioni:** Realizzata male nei cantieri (bastano poche decine di ohm in più per non funzionare).
-- **Costi ed economia:** Messa a terra casa: 200-600 €; misura con protocollo: 150-300 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Messa a terra casa: 200-600 €; misura con protocollo: 150-300 €.
 - **Caso tipico:** Piazzole con aste da 1,5-2 m in terreno omogeneo.
 - **Normativa:** CEI 64-8; CEI EN 61936.
 - **Nota di cantiere:** Ogni ristrutturazione radicale = nuova verifica del dispersore (obbligatoria) con VERBALE: niente verbale, niente conformità.
@@ -2040,7 +2040,7 @@ Difesa da fulmini e manovre rete: scaricatori di sovratensione.
 - **Applicazioni:** Edifici con impianto fulmini, zone fulminose, impianti elettronici/FV.
 - **Vantaggi:** Protegge elettronica, quadri KNX, inverter FV, elettrodomestici: danni da fulmine costano 10x gli SPD.
 - **Limiti e attenzioni:** Spesso omessi per risparmio; installati male (cavi troppo lunghi).
-- **Costi ed economia:** SPD Tipo 1+2: 100-300 €; installazione compresa: 200-500 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: SPD Tipo 1+2: 100-300 €; installazione compresa: 200-500 €.
 - **Caso tipico:** Dehn, ABB, Citel.
 - **Normativa:** CEI 64-8-4; CEI EN 61643.
 - **Nota di cantiere:** L'impianto fulmini senza SPD interni protegge l'involucro, non l'elettronica: dopo un fulmine i danni tipici sono sul domotica/FV. Gli SPD costano meno di un inverter.
@@ -2055,7 +2055,7 @@ Distribuzione e protezione dell'energia elettrica di un edificio.
 - **Applicazioni:** Qualsiasi edificio: dal monolocale alla torre.
 - **Vantaggi:** Selettività e protezione delle persone; manutenibilità modulare.
 - **Limiti e attenzioni:** Quadri pieni zeppi e mal etichettati: incubo decennale; aggiunte abusive.
-- **Costi ed economia:** Quadro appartamento completo: 300-900 € materiali; quadro condominiale: 1-5k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Quadro appartamento completo: 300-900 € materiali; quadro condominiale: 1-5k€.
 - **Caso tipico:** Componenti ABB, Schneider, Gewiss, Siemens.
 - **Normativa:** CEI 64-8; CEI EN 61439 (quadri).
 - **Nota di cantiere:** Il differenziale 30 mA salva la vita: ogni ambiente bagnato deve avere protezione dedicata. Punto non negoziabile.
@@ -2070,7 +2070,7 @@ Cablaggio dati ethernet dell'edificio: dorsali e punti rete in ogni ambiente.
 - **Applicazioni:** Abitazioni (ufficio smart working), uffici, hotel, scuole.
 - **Vantaggi:** La dorsale di dati è la 'ferrovia' della domotica moderna: ogni dispositivo IP ci passa.
 - **Limiti e attenzioni:** Wi-Fi mesh senza dorsale cablata = colli di bottiglia.
-- **Costi ed economia:** Punto rete posato: 80-150 €; switch PoE 8 porte: 100-300 €; AP Wi-Fi 6: 100-400 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Punto rete posato: 80-150 €; switch PoE 8 porte: 100-300 €; AP Wi-Fi 6: 100-400 €.
 - **Caso tipico:** Standard Cat6A per dorsali (10 Gbit-ready); PoE per camere e AP.
 - **Normativa:** ISO/IEC 11801; CEI EN 50174.
 - **Nota di cantiere:** Regola moderna: 2 prese dati per camera + 1 per TV + dorsale al router. Il Wi-Fi si aggiunge SOPRA la dorsale, mai al suo posto.
@@ -2085,7 +2085,7 @@ Batterie agli ioni di litio per accumulare il FV e usarlo di sera: l'autoconsumo
 - **Applicazioni:** Abitazioni con FV, B&B, piccoli terziari, condomini con CER.
 - **Vantaggi:** Massimizza l'autoconsumo; backup di emergenza per blackout (funzione islanding).
 - **Limiti e attenzioni:** Il ROI puro è lungo (8-15 anni se non c'è incentivo); la batteria degrada (80% dopo 6.000 cicli).
-- **Costi ed economia:** Batteria 10 kWh: 4.000-8.000 € installata; costo/kWh in calo continuo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Batteria 10 kWh: 4.000-8.000 € installata; costo/kWh in calo continuo.
 - **Caso tipico:** Tesla Powerwall, BYD, Pylontech, Sonnen (tedesco, servizi CER).
 - **Normativa:** UNI CEI 0-16 (connessi BT); regole CEI 0-21 aggiornate per accumulo.
 - **Nota di cantiere:** L'accumulo conviene davvero con: prezzi elettricità alti, incentivi, backup desiderato. Altrimenti la PDC consuma il surplus di giorno: 'batteria termica' gratis.
@@ -2100,7 +2100,7 @@ Infrastruttura di ricarica privata e condominiale: la nuova frontiera degli edif
 - **Applicazioni:** Box auto, parcheggi condominiali, uffici, hotel, aziende.
 - **Vantaggi:** L'edificio diventa 'distributore': servizio ai residenti/dipendenti; richiesto sempre più spesso in vendita/affitto.
 - **Limiti e attenzioni:** I quadri elettrici condominiali non sono pronti: serve load management; i condomini litigano sul costo dell'energia comune.
-- **Costi ed economia:** Wallbox 7 kW: 400-1.200 € + posa; colonnina DC 50 kW: 15.000-25.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Wallbox 7 kW: 400-1.200 € + posa; colonnina DC 50 kW: 15.000-25.000 €.
 - **Caso tipico:** Wallbox Pulsar, Zaptec, ABB Terra; gestione: monta o openWB.
 - **Normativa:** CEI EN 61851; CEI 0-21 per connessione.
 - **Nota di cantiere:** La regola d'oro condominiale: wallbox con dynamic load management + contabilizzazione RFID (chi consuma paga). Nessun attrito, nessuna guerra tra condomini.
@@ -2115,7 +2115,7 @@ Generazione elettrica da sole: il cuore della transizione energetica degli edifi
 - **Applicazioni:** Tetti di abitazioni, capannoni, facciate, carport, agrivoltaico.
 - **Vantaggi:** Il costo è crollato (70% in 15 anni); il risparmio in bolletta è immediato con autoconsumo; incentivi (Ritiro Dedicato, CER).
 - **Limiti e attenzioni:** La resa dipende da orientamento/inclinazione/ombreggiamenti; la burocrazia (GSE) scoraggia.
-- **Costi ed economia:** Impianto 6 kWp residenziale: 7.000-12.000 € (2025) installato; capannone 100 kWp: 60.000-90.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto 6 kWp residenziale: 7.000-12.000 € (2025) installato; capannone 100 kWp: 60.000-90.000 €.
 - **Caso tipico:** Moduli: LONGi, Jinko, Trina; inverter: SolarEdge, Fronius, Huawei, SMA.
 - **Normativa:** CEI 0-21 (BT), CEI 0-16 (MT); guida CEI 82-25 (sistemi fotovoltaici); D.Lgs 28/2011.
 - **Nota di cantiere:** Il vero rendimento di un FV si decide al sopralluogo: alberi, comignoli, antenne possono distruggere la produzione di un tetto 'bello'.
@@ -2130,7 +2130,7 @@ Reti interne gas: dal contatore agli apparecchi, con sicurezza attiva e passiva.
 - **Applicazioni:** Abitazioni, ristoranti, laboratori, industrie.
 - **Vantaggi:** Il VS chiude in 2 s in caso di fuga: salva vite (incidenti domestici).
 - **Limiti e attenzioni:** Le vecchie reti in gomma sono pericolo reale; verifica triennale da professionista abilitato.
-- **Costi ed economia:** Rete interna appartamento: 300-900 €; ristorante: 1-3k€; rilevatore certificato: 60-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rete interna appartamento: 300-900 €; ristorante: 1-3k€; rilevatore certificato: 60-150 €.
 - **Caso tipico:** Valvole di sicurezza ora OBBLIGATORIE in nuovi impianti e in caso di ristrutturazione.
 - **Normativa:** UNI 7129 (impianti a gas per uso domestico e similari); D.M. 24/11/1984 e s.m.i. (impianti di distribuzione e utilizzazione del gas); marcatura CE secondo Regolamento (UE) 2016/426 (apparecchi a gas); D.M. 37/2008 (conformità impianti).
 - **Nota di cantiere:** Norma chiara: in ristrutturazione l'impianto gas va MESSO A NORMA INTEGRALMENTE, non a pezzi: è l'occasione giusta per rivedere tutto.
@@ -2145,7 +2145,7 @@ Generatore di calore a gas a rendimento 90-109%: il punto di riferimento europeo
 - **Applicazioni:** Riscaldamento e ACS per abitazioni, condomini, terziario.
 - **Vantaggi:** Efficienza reale con ritorni freddi (pannelli radianti); compatibile con Conto Termico.
 - **Limiti e attenzioni:** Compatibile solo con impianti a bassa temperatura; con radianti alti spreca.
-- **Costi ed economia:** Caldaia a camera aperta 24-32 kW: 1.200-2.800 € installata; manutenzione annuale 80-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Caldaia a camera aperta 24-32 kW: 1.200-2.800 € installata; manutenzione annuale 80-150 €.
 - **Caso tipico:** Modulazione 1:10 per convivere con le micro-richieste delle case efficienti.
 - **Normativa:** UNI EN 483; Ecodesign ERP; UNI 10389 (verifiche).
 - **Nota di cantiere:** La caldaia si dimensiona sull'INVOLUCRO, non sulla metratura: una casa efficiente da 150 m2 in montagna può bastare 15 kW.
@@ -2160,7 +2160,7 @@ Sistemi di climatizzazione multisplit evoluti: una sola unità esterna per decin
 - **Applicazioni:** Uffici, hotel, ristoranti, grandi abitazioni, condomini.
 - **Vantaggi:** Simultaneità caldo/freddo (uffici con facciate diverse) con recupero: efficienza estrema; nessun gas di scarico in locale.
 - **Limiti e attenzioni:** Costo iniziale; manutenzione F-gas certificata; la refrigerante distribuita in edifici è dibattuta (norme in aggiornamento).
-- **Costi ed economia:** Impianto VRF ufficio: 60-120 €/m2 installato; manutenzione: 5-15 €/m2/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto VRF ufficio: 60-120 €/m2 installato; manutenzione: 5-15 €/m2/anno.
 - **Caso tipico:** Daikin VRV, Mitsubishi VRF, LG Multi V, Samsung DVM.
 - **Normativa:** F-gas; EN 378 (sicurezza refrigeranti).
 - **Nota di cantiere:** Il VRF con recupero totale è la scelta dei terziari premium: chi progetta uffici lo deve saper dimensionare per zone e simultaneità.
@@ -2175,7 +2175,7 @@ Distribuzione del calore (e fresco) per irraggiamento: il comfort termico più e
 - **Applicazioni:** Abitazioni nuove, ristrutturazioni con massetto, soffitti radianti per raffrescamento.
 - **Vantaggi:** Confort superiore (uniformità ±0,5°C), riduzione polveri (no convezione), perfetto per PDC e caldaie a condensazione.
 - **Limiti e attenzioni:** Inerzia termica: lenta a reagire (va con prognosi meteo, non con accensioni manuali); attenzione in massetti con parquet.
-- **Costi ed economia:** Pavimento radiante: 40-80 €/m2 materiali+posa (massetto escluso); soffitto radiante: 50-100 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pavimento radiante: 40-80 €/m2 materiali+posa (massetto escluso); soffitto radiante: 50-100 €/m2.
 - **Caso tipico:** Sistemi a bassa inerzia (secco) per il retrofit; sistemi in massetto per le nuove.
 - **Normativa:** UNI EN 1264; UNI 1264-4 calcoli.
 - **Nota di cantiere:** Il radiante si controlla con curve climatiche e sonde esterne: il termostato in ogni stanza è quasi un danno col radiante. Da spiegare al cliente.
@@ -2190,7 +2190,7 @@ Macchina frigorifera inversa che scalda (e raffresca) usando l'aria esterna: 1 k
 - **Applicazioni:** Nuove abitazioni, ristrutturazioni profonde, piccoli terziari, case in montagna.
 - **Vantaggi:** Riduzione consumi 50-70% vs caldaia a gas; raffrescamento incluso; abbinamento perfetto a pannelli radianti e FV.
 - **Limiti e attenzioni:** Rumorosità unità esterna da gestire; performance che calano sotto -10°C (serve integrazione o dimensionamento prudente).
-- **Costi ed economia:** PDC aria-acqua 8-12 kW: 6.000-12.000 € installata; PDC aria-aria multisplit: 1.500-4.000 € per zona.
+- **Costi ed economia:** Ordini di grandezza indicativi: PDC aria-acqua 8-12 kW: 6.000-12.000 € installata; PDC aria-aria multisplit: 1.500-4.000 € per zona.
 - **Caso tipico:** Mitsubishi, Daikin, Vaillant, Panasonic: le 'big' del settore residenziale.
 - **Normativa:** F-gas Reg. UE 517/2014 (manutenzione obbligatoria); UNI 11300 per calcoli.
 - **Nota di cantiere:** La PDC è la scelta di default 2025+ in Italia (anche per il Conto Termico 3.0): il progettista deve saperla dimensionare con il metodo bin (temperature esterne di progetto).
@@ -2205,7 +2205,7 @@ Combinazione caldaia a gas + pompa di calore: la PDC copre il 90% del fabbisogno
 - **Applicazioni:** Ristrutturazioni dove la rete elettrica non basta o il clima è severo; chi vuole il meglio dei due mondi.
 - **Vantaggi:** Massimo risparmio senza rinunciare alla sicurezza del picco; derating elettrico ridotto.
 - **Limiti e attenzioni:** Doppio generatore da mantenere; controllo integrato da marca unica.
-- **Costi ed economia:** Ibrido PDC+caldaia: 8.000-15.000 € installato (PDC + caldaia a condensazione compatte).
+- **Costi ed economia:** Ordini di grandezza indicativi: Ibrido PDC+caldaia: 8.000-15.000 € installato (PDC + caldaia a condensazione compatte).
 - **Caso tipico:** Daikin Hybrid, Vaillant aroTHERM hybrid, Mitsubishi Ecodan Hydro.
 - **Normativa:** F-gas + UNI 7129 (gas); Conto Termico 3.0 ammissibile.
 - **Nota di cantiere:** L'ibrido è la risposta prudente per il retrofit del patrimonio italiano (4,6 milioni di caldaie a gas obsolete): il mio LLM deve conoscerlo bene.
@@ -2220,7 +2220,7 @@ Ricambio d'aria con recupero di calore: obbligatoria (di fatto) nelle case effic
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni profonde, scuole, uffici (legge obbliga ricambio).
 - **Vantaggi:** Fino al 90% del calore recuperato; umidità e CO2 controllate; niente muffa da condensa.
 - **Limiti e attenzioni:** La manutenzione filtri è obbligatoria e trascurata; le reti mal progettate sono rumorose.
-- **Costi ed economia:** VMC centralizzata casa: 3.000-8.000 € installata; VMC decentralizzata (monoblocco parete): 500-1.500 €/locale.
+- **Costi ed economia:** Ordini di grandezza indicativi: VMC centralizzata casa: 3.000-8.000 € installata; VMC decentralizzata (monoblocco parete): 500-1.500 €/locale.
 - **Caso tipico:** Zehnder, Zehnder ComfoAir; Mitsubishi Lossnay; Vortice.
 - **Normativa:** UNI EN 13779; UNI/TS 11300-2; DM 26/06/2015 (requisiti energetici, ventilazione).
 - **Nota di cantiere:** La VMC decentralizzata è il compromesso giusto per il retrofit: il 70% del beneficio a 1/4 del costo e senza opere murarie.
@@ -2235,7 +2235,7 @@ Aspirazione e ricambio nei luoghi di lavoro: salute obbligatoria e spesso proget
 - **Applicazioni:** Capannoni, officine, magazzini, cucine industriali, laboratori.
 - **Vantaggi:** Riduzione stress termico (protezione lavoratori); in estate i capannoni senz'aria sono fermi produttivi.
 - **Limiti e attenzioni:** La destratificazione nei capannoni alti ripaga in 1-2 anni ma pochi la fanno.
-- **Costi ed economia:** Ventilatore a tetto 1.500 mm: 400-1.000 €; sistema destratificazione capannone: 5-15 €/m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Ventilatore a tetto 1.500 mm: 400-1.000 €; sistema destratificazione capannone: 5-15 €/m2.
 - **Caso tipico:** Big Ass Fans, standard industriale.
 - **Normativa:** D.Lgs 81/08 allegato XVII (microclima); UNI EN ISO 7730 (comfort).
 - **Nota di cantiere:** Prima di installare il condizionatore in un capannone, chiedi: il tetto è coibentato? Un tetto caldo annulla qualsiasi climatizzazione (soffitti radianti 60-70°C in estate).
@@ -2250,7 +2250,7 @@ Condizionamento chimico e fisico delle acque: durezza, ferro, sedimenti, legione
 - **Applicazioni:** Zone molto dure (>30 °F), caldaie, torri evaporative, ospedali, piscine, laboratori.
 - **Vantaggi:** Riduce incrostazioni (+20% efficienza caldaia); protegge scambiatori e rubinetteria.
 - **Limiti e attenzioni:** L'acqua addolcita non è potabile: ramo separato; manutenzione resine.
-- **Costi ed economia:** Addolcitore domestico: 400-1.200 €; industriale: 2-10k€; analisi acqua: 50-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Addolcitore domestico: 400-1.200 €; industriale: 2-10k€; analisi acqua: 50-150 €.
 - **Caso tipico:** Addolcimento standard in gran parte del Centro-Sud Italia (acque >25-35 °F).
 - **Normativa:** DPR 236/88 (qualità acque potabili); UNI EN 806.
 - **Nota di cantiere:** Prima di qualsiasi trattamento: ANALISI dell'acqua (60 €) che determina tutto il resto. Mai vendere un addolcitore senza analisi.
@@ -2265,7 +2265,7 @@ Distribuzione acqua fredda e calda sanitaria (ACS) dall'allaccio ai punti di ero
 - **Applicazioni:** Abitazioni, uffici, alberghi, ospedali, laboratori.
 - **Vantaggi:** Multistrato: rapidità di posa e nessuna ossidazione; collettori: bilanciamento e manutenzione puntuale.
 - **Limiti e attenzioni:** PPR richiede attrezzatura di saldatura; la circolazione ACS costa se non isolata bene.
-- **Costi ed economia:** Multistrato 16-20mm: 1,5-4 €/ml; collettore 8 vie: 60-150 €; installazione punto acqua: 150-350 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Multistrato 16-20mm: 1,5-4 €/ml; collettore 8 vie: 60-150 €; installazione punto acqua: 150-350 €.
 - **Caso tipico:** Impianti a collettore (impianto a 'pettine') ora standard nelle abitazioni moderne.
 - **Normativa:** UNI EN 806 (progettazione degli impianti idrici interni); D.Lgs 152/2006 (requisiti di qualità delle acque destinate al consumo umano) e D.M. 25/02/2016 (criteri di accettabilità); marcatura CE dei componenti a contatto con acqua potabile.
 - **Nota di cantiere:** L'ACS deve arrivare <25 s e >50°C (anti-legionella): percorso max 15-20 m dal generatore o inserire circolazione.
@@ -2280,7 +2280,7 @@ Dispositivi antinquinamento per evitare risalite nei punti d'acqua: zone di prot
 - **Applicazioni:** Ospedali, dentisti, laboratori, cucine industriali, idromassaggio.
 - **Vantaggi:** Previene contaminazioni chimiche e batteriche (legionella inclusa).
 - **Limiti e attenzioni:** Sottovalutato dai piccoli artigiani; controlli sanitari severi negli edifici pubblici.
-- **Costi ed economia:** Dispositivi: 50-400 €/punto; progetto zone: da 200 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dispositivi: 50-400 €/punto; progetto zone: da 200 €.
 - **Caso tipico:** Zone di protezione secondo EN 1717.
 - **Normativa:** UNI EN 1717 (fondamentale); circolari ministeriali legionella.
 - **Nota di cantiere:** Ogni punto d'acqua deve avere la giusta 'zona di protezione': è il requisito più trascurato e più sanzionato negli esercizi pubblici.
@@ -2295,7 +2295,7 @@ Evacuazione acque reflue: colonne di scarico, rami orizzontali, ventilazione.
 - **Applicazioni:** Bagni, cucine, lavanderie, laboratori, condomini.
 - **Vantaggi:** Il PP silenzioso riduce il rumore di scarico di 10-15 dB: comfort notturno.
 - **Limiti e attenzioni:** Pendenze errate = intasamenti cronici; curve eccessive vietate.
-- **Costi ed economia:** Tubo PP silenzioso 110: 6-12 €/ml; posa verticale: 30-60 €/ml compreso accessori.
+- **Costi ed economia:** Ordini di grandezza indicativi: Tubo PP silenzioso 110: 6-12 €/ml; posa verticale: 30-60 €/ml compreso accessori.
 - **Caso tipico:** Colonne a ventilazione secondaria negli edifici alti (norma).
 - **Normativa:** UNI EN 12056; EN 1329 (PVC); UNI 9494 (pilette).
 - **Nota di cantiere:** Mai ridurre il diametro verso il basso: la colonna va calcolata sul numero di apparecchi scaricanti contemporaneamente (UNI EN 12056).
@@ -2310,7 +2310,7 @@ Collezioni e smaltimento acque meteoriche: tetti, lastrici, cortili.
 - **Applicazioni:** Tetti, terrazzi, piazzali, parcheggi interrati (con vasche di laminazione).
 - **Vantaggi:** Separazione acque piovane/recupero: riduzione bolletta idrica e rischio allagamenti.
 - **Limiti e attenzioni:** Fognatura mista satura = rigurgiti; vasche di laminazione grandi da pulire.
-- **Costi ed economia:** Pluviale 80-110: 3-8 €/ml; caditoia lastrico: 30-80 €/pz; vasca laminazione: 80-200 €/m3.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pluviale 80-110: 3-8 €/ml; caditoia lastrico: 30-80 €/pz; vasca laminazione: 80-200 €/m3.
 - **Caso tipico:** Sistemi di recupero acque piovane con cisterna e riuso per irrigazione/WC.
 - **Normativa:** UNI EN 12056-3; D.Lgs 152/06 (tutela acque).
 - **Nota di cantiere:** Su lastrici e cortili: caditoie + disconnessione fognaria nera sono la prima difesa contro gli allagamenti urbani.
@@ -2325,7 +2325,7 @@ Spegnimento automatico a pioggia: la protezione antincendio più efficace al mon
 - **Applicazioni:** Magazzini, archivi, parcheggi, hotel, ospedali, data center, cucine industriali.
 - **Vantaggi:** Riduce morti e danni del 80-90% quando attivo; abbassa polizze assicurative.
 - **Limiti e attenzioni:** Costo iniziale; acqua danni su beni non protetti; progetto certificato (VdS/FM o UNI).
-- **Costi ed economia:** Impianto: 15-40 €/m2 per capannoni (tubi nudi) a 40-80 €/m2 per uffici con controsoffitti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto: 15-40 €/m2 per capannoni (tubi nudi) a 40-80 €/m2 per uffici con controsoffitti.
 - **Caso tipico:** Sistemi NFPA 13/EN 12845; teste 'fast response' per hotel e ospedali.
 - **Normativa:** UNI EN 12845; NFPA 13; UNI 9490 (progettazione).
 - **Nota di cantiere:** I sprinkler si progettano SULLA FALSO SOFFITTO definitivo: cambiare il controsoffitto dopo = rifare l'impianto. Coordinamento col cartongesso è critico.
@@ -2340,7 +2340,7 @@ Rete antincendio a presidi manuali: idranti UNI 45 e avvolgibili (naspi).
 - **Applicazioni:** Condomini, uffici, scuole, musei, esercizi commerciali.
 - **Vantaggi:** Spegnimento immediato con personale addestrato; costo contenuto.
 - **Limiti e attenzioni:** Richiede addestramento dei residenti; manutenzione semestrale obbligatoria.
-- **Costi ed economia:** Idrante UNI 45: 150-400 €; naspo: 80-200 €; quadro antincendio con 2 elettropompe: 2-6k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Idrante UNI 45: 150-400 €; naspo: 80-200 €; quadro antincendio con 2 elettropompe: 2-6k€.
 - **Caso tipico:** Ogni condominio italiano >10.000 m3 (o >24 m altezza) secondo norma.
 - **Normativa:** UNI 9484; NFPA 14 (per avvolgibili); DM 2 settembre 2021.
 - **Nota di cantiere:** Gli idranti richiedono portata: verificare la rete idrica condominiale prima di installarli (spesso serve quadro di pressurizzazione).
@@ -2355,7 +2355,7 @@ Gli incentivi 2025+ per la riqualificazione energetica e gli impianti efficienti
 - **Applicazioni:** Ristrutturazioni di involucro e impianti: la maggior parte degli interventi rientra in qualcosa.
 - **Vantaggi:** Gli incentivi cambiano la bancabilità degli interventi: la PDC con CT3.0 diventa la scelta quasi obbligata.
 - **Limiti e attenzioni:** Le regole cambiano spesso (il LLM deve sapere di verificare sempre il testo vigente); le pratiche richiedono professionisti abilitati.
-- **Costi ed economia:** Premio CT3.0: percentuali sul costo (fino a 40-50% per le PDC in sostituzione caldaia); i valori esatti vanno verificati su GSE.
+- **Costi ed economia:** Ordini di grandezza indicativi: Premio CT3.0: percentuali sul costo (fino a 40-50% per le PDC in sostituzione caldaia); i valori esatti vanno verificati su GSE.
 - **Caso tipico:** Portale GSE; EGE (esperti in gestione energetica) per le pratiche grandi.
 - **Normativa:** DM Conto Termico 3.0 (2025); direttive CEE ARERA; normativa fiscale annuale.
 - **Nota di cantiere:** Regola critica per il LLM: MAI citare cifre di incentivi come certe: indicare SEMPRE la fonte (GSE/ENEA) e la data di verifica — gli incentivi sono la causa #1 di informazioni datate nel settore.
@@ -2370,7 +2370,7 @@ La legge italiana dell'impiantistica: installazione, manutenzione, abilitazioni 
 - **Applicazioni:** Ogni intervento su impianti: dal nuovo impianto alla sostituzione della caldaia.
 - **Vantaggi:** Tutto tracciato e legale; il libretto è il 'libro sanitario' dell'edificio.
 - **Limiti e attenzioni:** Sanatorie e abusi comuni (lavori senza DiCo); il compratore di casa poi paga.
-- **Costi ed economia:** Costo DiCo e pratiche: 100-400 €; verifica energetica (legge 10): 300-900 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo DiCo e pratiche: 100-400 €; verifica energetica (legge 10): 300-900 €.
 - **Caso tipico:** Pratiche standardizzate per legge 10, CPI, prevenzione incendi.
 - **Normativa:** D.Lgs 37/08; DM 37/08; Legge 10/91 (energetica).
 - **Nota di cantiere:** Chi compra casa DEVE chiedere libretti e DiCo di tutti gli impianti: l'immobile senza documentazione vale meno, punto.
@@ -2385,7 +2385,7 @@ La normativa energetica degli edifici: requisiti, calcoli, attestato di prestazi
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni importanti, compravendite.
 - **Vantaggi:** L'APE orienta compratori e affittuari; i requisiti spingono l'efficienza (involucro, impianti).
 - **Limiti e attenzioni:** Calcoli spesso 'di facciata' per chiudere pratica; il valore APE 'alla rovescia' è un rischio legale.
-- **Costi ed economia:** Progetto legge 10 + APE: 300-900 €; pratica edilizia energetica grande: 1-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Progetto legge 10 + APE: 300-900 €; pratica edilizia energetica grande: 1-3k€.
 - **Caso tipico:** Software Namirial, Logical Soft, MC4, Blumatica.
 - **Normativa:** Legge 10/91; D.Lgs 192/2005 (EPBD); D.Lgs 48/2020 aggiornato.
 - **Nota di cantiere:** Da quando esiste la 'scheda descrittiva' dell'APE (2023), l'attestato è diventato uno strumento di marketing: l'LLM deve saper leggere e spiegare le classi (A4-G).
@@ -2420,7 +2420,7 @@ Come la caldaia moderna recupera il calore latente dei fumi: i componenti aggiun
 - **Applicazioni:** Nuove installazioni e sostituzioni obbligatorie (incentivi Conto Termico 3.0).
 - **Vantaggi:** Il recupero di calore vale il 10-15% in più: sul gas risparmia 100-200 €/anno.
 - **Limiti e attenzioni:** La condensa va smaltita correttamente: lo scarico a pioggia è vietato e corrosivo.
-- **Costi ed economia:** Sostituzione caldaia a condensazione: 1.500-3.000 € installata.
+- **Costi ed economia:** Ordini di grandezza indicativi: Sostituzione caldaia a condensazione: 1.500-3.000 € installata.
 - **Caso tipico:** Le caldaie a condensazione installate in Italia: oltre 10 milioni (dati Anima).
 - **Normativa:** Ecodesign ERP; UNI 7129.
 - **Nota di cantiere:** La caldaia a condensazione rende AL MASSIMO con impianti a bassa temperatura (pannelli radianti, termosifoni dimensionati per 55-60°C): con radiatori vecchi a 80°C perde metà del vantaggio.
@@ -2435,7 +2435,7 @@ Cosa c'è dentro la caldaia che scalda la maggior parte delle case italiane.
 - **Applicazioni:** Riscaldamento e ACS di abitazioni e piccoli condomini.
 - **Vantaggi:** Conoscere i componenti = diagnosticare il guasto: il 90% dei 'guasti caldaia' sono componenti da 30-150 €.
 - **Limiti e attenzioni:** L'elettronica moderna richiede assistenza autorizzata per la garanzia.
-- **Costi ed economia:** Componenti di ricambio: 30-300 €; scambiatore: 150-400 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Componenti di ricambio: 30-300 €; scambiatore: 150-400 €.
 - **Caso tipico:** Le caldaie a camera stagna vs aperta: la scelta dipende dal tiraggio del camino (verifica UNI 7129).
 - **Normativa:** UNI 7129; schede tecniche costruttori (Baxi, Vaillant, Ariston).
 - **Nota di cantiere:** Prima prova in caso di 'non scalda': verificare pressione impianto (1-1,5 bar) e flusso ACS: il 40% dei guasti sono idraulici, non elettronici.
@@ -2450,7 +2450,7 @@ Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
 - **Applicazioni:** Ogni generatore a fiamma (caldaia, stufa, camino, termocamino).
 - **Vantaggi:** La canna fumaria giusta garantisce sicurezza ed efficienza: il tiraggio insufficiente soffoca la fiamma e riempie di monossido.
 - **Limiti e attenzioni:** Le canne fumarie esistenti in muratura spesso non sono idonee per a condensazione (acido corrosivo).
-- **Costi ed economia:** Canna fumaria coibentata: 60-150 €/ml installata.
+- **Costi ed economia:** Ordini di grandezza indicativi: Canna fumaria coibentata: 60-150 €/ml installata.
 - **Caso tipico:** Le verifiche periodiche dei camini (spazzacamino) e le prescrizioni sulle canne fumarie (marcatura CE e schede del produttore).
 - **Normativa:** UNI 7129; UNI EN 1856 (canne fumarie metalliche).
 - **Nota di cantiere:** Il test del tiraggio: fiamma accesa alla base della canna (tiraggio 'a candela'): se la fiamma vira verso l'interno, la canna va rifatta. Mai operare 'a tentativi' con i generatori a fiamma.
@@ -2465,7 +2465,7 @@ Come funziona la macchina che raffresca: compressore, condensatore, espansione, 
 - **Applicazioni:** Raffrescamento estivo e riscaldamento invernale (pompa di calore 'aria-aria').
 - **Vantaggi:** Il ciclo frigorifero è lo stesso di tutte le macchine termiche: capirlo una volta = capirle tutte.
 - **Limiti e attenzioni:** Il rendimento crolla con le temperature esterne estreme (raffrescamento a +40°C, riscaldamento a −10°C).
-- **Costi ed economia:** Split 12000 BTU (3,5 kW): 600-1.500 € installato; manutenzione: 80-150 €/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Split 12000 BTU (3,5 kW): 600-1.500 € installato; manutenzione: 80-150 €/anno.
 - **Caso tipico:** Il mercato italiano del condizionatore (oltre 10 milioni di split, 'dati settore').
 - **Normativa:** Reg. UE 517/2014 (F-gas); UNI EN 378.
 - **Nota di cantiere:** La potenza si sceglie sul fabbisogno REALE (isolamento), non sui m2: una stanza ben coibentata da 25 m2 basta 9000 BTU, una vetrata esposta sud ne vuole 18000.
@@ -2540,7 +2540,7 @@ L'anatomia della macchina del futuro: refrigerazione + idronica.
 - **Applicazioni:** Riscaldamento invernale, raffrescamento estivo e ACS (aria-acqua).
 - **Vantaggi:** Una sola macchina per tutto: riscaldamento, raffrescamento, ACS con rendimento 300-500%.
 - **Limiti e attenzioni:** La complessità elettronica richiede installatori certificati F-gas e formazione specifica.
-- **Costi ed economia:** PDC aria-acqua 8 kW: 4.000-8.000 € installata (prima degli incentivi).
+- **Costi ed economia:** Ordini di grandezza indicativi: PDC aria-acqua 8 kW: 4.000-8.000 € installata (prima degli incentivi).
 - **Caso tipico:** Le PDC R32 e R290 (propano, GWP basso) della nuova generazione 2024-2026.
 - **Normativa:** F-gas; EN 378; UNI 11300.
 - **Nota di cantiere:** Il componente più delicato: il compressore. La causa n.1 di guasto prematuro è l'installazione idraulica sbagliata (acqua sporca, aria nell'impianto): il filtro a Y e il spurgo accurato valgono più della marca del compressore.
@@ -2570,7 +2570,7 @@ La produzione di ACS punto per punto: le tre tecnologie a confronto.
 - **Applicazioni:** Abitazioni senza impianto centralizzato, secondi bagni, B&B.
 - **Vantaggi:** Lo scaldabagno a gas istantaneo non ha accumulo: energia infinita ma portata limitata (11-17 l/min).
 - **Limiti e attenzioni:** Lo scaldabagno a gas in camera da letto è vietato (norma UNI 7129: solo camera stagna o ambienti idonei).
-- **Costi ed economia:** Scaldabagno a gas: 400-900 €; elettrico: 150-400 €; a PDC: 800-1.800 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Scaldabagno a gas: 400-900 €; elettrico: 150-400 €; a PDC: 800-1.800 €.
 - **Caso tipico:** Lo standard italiano dello scaldabagno a gas (milioni installati); 'per l'ACS efficiente'.
 - **Normativa:** UNI 7129; ecodesign.
 - **Nota di cantiere:** Il dimensionamento rapido ACS: 1 persona = 40-60 l a 40°C di accumulo. Una famiglia di 4 con docce serali: accumulo 100-150 l (scaldabagno) o 150-200 l (scaldacqua centralizzato).
@@ -2585,7 +2585,7 @@ Il camino che scalda l'acqua: potenza 15-25 kW con accumulo obbligatorio.
 - **Applicazioni:** Case con camino frequente e impianto idronico esistente.
 - **Vantaggi:** Combina atmosfera del fuoco visibile e integrazione con riscaldamento centralizzato.
 - **Limiti e attenzioni:** SENZA accumulo il termocamino è vietato per norma (bollore istantaneo: la potenza del fuoco supera sempre l'assorbimento istantaneo).
-- **Costi ed economia:** Termocamino: 3.000-8.000 €; accumulo 1000 l: 800-1.500 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Termocamino: 3.000-8.000 €; accumulo 1000 l: 800-1.500 €.
 - **Caso tipico:** Le installazioni central-europee (Austria, Germania) dove il termocamino+accumulo è lo standard.
 - **Normativa:** Prescrizioni sul tiraggio e sull'altezza della canna secondo le norme applicabili e le schede dei produttori; marcatura CE secondo UNI EN 1856-1 per le canne fumarie metalliche.
 - **Nota di cantiere:** La regola d'oro: accumulo = 50-100 l per kW di potenza del focolare. Chi vende il termocamino senza accumulo vende un impianto fuorilegge.
@@ -2600,7 +2600,7 @@ La stufa che scalda l'acqua: serbatoio, coclea, braciere, scambiatore.
 - **Applicazioni:** Integrazione riscaldamento di ville e appartamenti (fino a 15-20 kW termici).
 - **Vantaggi:** Rendimento 85-92%: il pellet è il bio-combustibile più efficiente per residenziale.
 - **Limiti e attenzioni:** La canna fumaria è il punto critico: pulizia annuale obbligatoria (incrostazioni che riducono il tiraggio).
-- **Costi ed economia:** Termostufa: 2.500-6.000 € installata; pellet: 280-350 €/t.
+- **Costi ed economia:** Ordini di grandezza indicativi: Termostufa: 2.500-6.000 € installata; pellet: 280-350 €/t.
 - **Caso tipico:** Il mercato italiano del pellet (oltre 3 milioni di stufe installate).
 - **Normativa:** UNI 14785 (stufe a pellet); UNI 7129 per il collegamento idraulico.
 - **Nota di cantiere:** La termostufa scalda L'ACQUA dell'impianto, non è una stufa d'ambiente: richiede sempre vaso di espansione, pompa e valvola di sicurezza come una caldaia (impianto a norma).
@@ -2615,7 +2615,7 @@ Cosa c'è dentro la centralina e come è fatta la rete di distribuzione.
 - **Applicazioni:** Case nuove e ristrutturazioni profonde (obbligo quasi-passivo).
 - **Vantaggi:** Il cuore della casa sana: recupera l'80-92% del calore e cambia l'aria senza aprire le finestre.
 - **Limiti e attenzioni:** La rete mal progettata (curve strette, diametri sbagliati) rende rumorosa e inefficiente la macchina migliore.
-- **Costi ed economia:** VMC centralizzata casa 150 m²: 3.000-7.000 € installata.
+- **Costi ed economia:** Ordini di grandezza indicativi: VMC centralizzata casa 150 m²: 3.000-7.000 € installata.
 - **Caso tipico:** Le VMC a flusso continuo con bocchette a regolazione (standard italiano).
 - **Normativa:** UNI 10339; DM 26/06/2015.
 - **Nota di cantiere:** Il controllo essenziale a fine installazione: misura del portata con anemometro a ogni bocchetta (deve corrispondere al progetto ±10%). Senza misura non c'è collaudo.
@@ -2650,7 +2650,7 @@ Il cuore della distribuzione moderna: il collettore e i vantaggi del pettine.
 - **Applicazioni:** Impianti idraulici residenziali moderni (docce, bagni, cucine).
 - **Vantaggi:** Una perdita futura colpisce un solo punto, non tutto il solaio: manutenibilità assoluta.
 - **Limiti e attenzioni:** Il consumo di tubo è maggiore (30-50% in più di metri lineari).
-- **Costi ed economia:** Collettore 8 vie: 60-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Collettore 8 vie: 60-150 €.
 - **Caso tipico:** Lo standard tedesco/italiano della distribuzione a pettine dagli anni 2000.
 - **Normativa:** 'prassi progettuali'.
 - **Nota di cantiere:** Il collaudo della rete a pettine: la prova in pressazione si fa settore per settore con il collettore: isolare una zona alla volta trova il problema in minuti, non in giorni.
@@ -2665,7 +2665,7 @@ L'hardware elettrico che ogni impiantista tocca ogni giorno.
 - **Applicazioni:** Quadri impianto, quadri pompe, automazioni, VMC.
 - **Vantaggi:** Conoscere i componenti elettrici base permette all'idraulico di dialogare con l'elettricista (e viceversa).
 - **Limiti e attenzioni:** L'impiantista NON certifica l'impianto elettrico (serve abilitazione): il confine professionale è netto.
-- **Costi ed economia:** Magnetotermico: 5-30 €; differenziale: 30-80 €; contattore: 15-60 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Magnetotermico: 5-30 €; differenziale: 30-80 €; contattore: 15-60 €.
 - **Caso tipico:** I quadri di zona con differenziale dedicato (obbligatorio per bagni e cucine).
 - **Normativa:** CEI 64-8.
 - **Nota di cantiere:** La regola dell'impiantista: ogni macchina che tocca l'acqua (pompe, lavatrici, scaldabagni) deve essere alimentata da un differenziale 30 mA dedicato: la vita vale più del risparmio di un quadretto.
@@ -2800,7 +2800,7 @@ Il cappotto dei tubi: dove obbligatorio, di quanto e con cosa.
 - **Applicazioni:** Impianti idraulici e termici di ogni edificio.
 - **Vantaggi:** Un tubo non isolato in solaio perde il 10-20% del calore: l'isolamento ripaga in 1-2 anni.
 - **Limiti e attenzioni:** L'isolamento mal posato (giunti scoperti) vale meno della metà.
-- **Costi ed economia:** Isolamento tubo: 2-5 €/ml materiale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Isolamento tubo: 2-5 €/ml materiale.
 - **Caso tipico:** Le prescrizioni UNI/TS 11300-2 sulle perdite dei tubi (fino al 20% della resa).
 - **Normativa:** UNI EN ISO 12241 (isolamento termico).
 - **Nota di cantiere:** L'acqua calda deve arrivare in 25 secondi e a temperatura: i tubi lunghi senza isolamento e senza ricircolo sono il male assoluto dell'energia e del comfort.
@@ -2815,7 +2815,7 @@ Il cuore che muove l'acqua nei circuiti chiusi.
 - **Applicazioni:** Riscaldamento, raffrescamento, ACS con ricircolo, solare termico.
 - **Vantaggi:** Il circolatore modulante corretto riduce i consumi elettrici dell'80% rispetto ai vecchi a 3 velocità.
 - **Limiti e attenzioni:** Un circolatore sovradimensionato consuma e ronca; uno sottodimensionato non scalda l'ultimo termosifone.
-- **Costi ed economia:** Circolatore A: 150-500 €; a rotore asciutto: 200-600 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Circolatore A: 150-500 €; a rotore asciutto: 200-600 €.
 - **Caso tipico:** La sostituzione dei circolatori vecchi in Italia (milioni all'anno).
 - **Normativa:** Ecodesign ERP per circolatori.
 - **Nota di cantiere:** 'la pompa non si dimensiona sulla portata massima, ma sul punto di lavoro reale': chiedere SEMPRE la curva carico-pressione del circuito, non 'quanti kW serve'.
@@ -2830,7 +2830,7 @@ Come si uniscono i tubi: le 4 tecniche e quando usarle.
 - **Applicazioni:** Ogni giunzione di ogni impianto idraulico e gas.
 - **Vantaggi:** La pressatura moderna: un operaio giunziona 50 punti al giorno con affidabilità testata.
 - **Limiti e attenzioni:** La pressatura sbagliata (ganasce sporche, tubo non a fondo) è la perdita n.1 dei cantieri moderni.
-- **Costi ed economia:** Pinza a pressare: 100-400 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pinza a pressare: 100-400 €.
 - **Caso tipico:** le presse radiali e le presse a morsetto per multistrato.
 - **Normativa:** Prescrizioni dei produttori per le pressioni di pressatura e le curve di pressatura del multistrato.
 - **Nota di cantiere:** La regola del professionista: una giunzione visibile vale dieci nascoste. E una giunzione inaccessibile deve essere pressata DUE volte (sicurezza) o saldata.
@@ -2845,7 +2845,7 @@ I materiali della rete idraulica: dove usarli e dove evitarli.
 - **Applicazioni:** Adduzione acqua potabile, scarichi tecnici, antincendio, irrigazione.
 - **Vantaggi:** Ogni materiale ha il suo posto: il multistrato in residenziale, il rame in pregiato, il PP-R in industriale.
 - **Limiti e attenzioni:** Il rame rubato nei cantieri: valutare alternative nei luoghi a rischio.
-- **Costi ed economia:** Prezzi indicativi al metro per diametro 16-20.
+- **Costi ed economia:** Ordini di grandezza indicativi: Prezzi indicativi al metro per diametro 16-20.
 - **Caso tipico:** Le reti in multistrato a collettore 'a pettine' nelle case moderne.
 - **Normativa:** UNI EN 1057 (rame); UNI EN ISO 15874 (PP-R); UNI EN ISO 15875 (PE-X); multistrato secondo normativa di prodotto vigente con marcatura CE.
 - **Nota di cantiere:** Il multistrato NON si lascia all'aria nel solaio: protezione UV e meccanica obbligatoria. La guaina corrugata non è optional.
@@ -2860,7 +2860,7 @@ La rete gas: i materiali ammessi e le regole di posa.
 - **Applicazioni:** Reti gas interne per caldaie, cucine, termostufe.
 - **Vantaggi:** La tenuta della rete gas è vita: i materiali giusti e le prove giuste sono non negoziabili.
 - **Limiti e attenzioni:** Le reti esistenti in gomma o ferro vecchio sono pericolo reale.
-- **Costi ed economia:** Rete gas interna appartamento: 300-900 €; rilevatore gas certificato: 60-150 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rete gas interna appartamento: 300-900 €; rilevatore gas certificato: 60-150 €.
 - **Caso tipico:** Le verifiche triennali obbligatorie (legge gas).
 - **Normativa:** UNI 7129; UNI 11144 (rilevatori).
 - **Nota di cantiere:** Ogni nuova rete gas va provata in pressione (aria) con manometro: 15 minuti senza caduta. Chi non fa la prova non ha installato: ha messo in pericolo.
@@ -2875,7 +2875,7 @@ I rubinetti che regolano l'acqua: i 6 tipi che devi conoscere.
 - **Applicazioni:** Collettori, corpi scaldanti, impianti ACS, idronici.
 - **Vantaggi:** Le valvole giuste al posto giusto: il 50% dei malfunzionamenti idronici sono valvole sbagliate o assenti.
 - **Limiti e attenzioni:** 'i detentori chiusi lasciano l'aria': ogni valvola ha la sua logica d'uso.
-- **Costi ed economia:** Valvole: 10-80 €/pz; testine termostatiche: 15-60 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Valvole: 10-80 €/pz; testine termostatiche: 15-60 €.
 - **Caso tipico:** I collettori con valvole di detenzione e sfiato (standard multistrato).
 - **Normativa:** UNI EN 215 (testine termostatiche).
 - **Nota di cantiere:** Ogni impianto idronico va 'svuotabile': una valvola a sfera in basso e uno sfiato in alto per ogni zona. Chi non prevede lo svuotamento ha progettato un impianto non manutenibile.
@@ -2890,7 +2890,7 @@ Come assorbire la dilatazione dell'acqua calda: dimensionamento e manutenzione.
 - **Applicazioni:** Ogni impianto idronico chiuso (riscaldamento, raffrescamento, PDC, solare termico).
 - **Vantaggi:** Il vaso espansione è la protezione n.1 contro il sovrappressione: l'impianto senza vaso muore in anni.
 - **Limiti e attenzioni:** La membrana perde gas nel tempo: la pressione cala e la valvola di sicurezza perde.
-- **Costi ed economia:** Vaso espansione 12 l: 40-80 €; 24 l: 60-120 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Vaso espansione 12 l: 40-80 €; 24 l: 60-120 €.
 - **Caso tipico:** La causa n.1 della perdita dalla valvola di sicurezza: vaso di espansione scarico o a membrana danneggiata: verificare sempre la carica prima di sostituire la valvola.
 - **Normativa:** UNI 7129; prassi costruttive.
 - **Nota di cantiere:** Il test di 10 secondi: toccare il vaso in funzione: la metà inferiore deve essere fredda (acqua), la superiore tiepida (gas). Se tutto freddo o tutto caldo: membrana rotta, sostituire.
@@ -2910,7 +2910,7 @@ La sauna finlandese (aria secca 80-100 °C, umidità bassa) e il bagno turco (ha
 - **Applicazioni:** Hotel, SPA, centri benessere, ville di pregio.
 - **Vantaggi:** La sauna e l'hammam trasformano una casa o un hotel: il valore percepito (e commerciale) sale immediatamente.
 - **Limiti e attenzioni:** La tenuta al vapore dell'hammam è critica: i vapori che scappano dietro il rivestimento marcisco la struttura in pochi anni.
-- **Costi ed economia:** Costi: sauna 5.000-15.000 €; hammam 8.000-25.000 € (finiture comprese).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: sauna 5.000-15.000 €; hammam 8.000-25.000 € (finiture comprese).
 - **Caso tipico:** Hammam in hotel con la barriera vapore continua e la camera di espansione del vapore: dopo 8 anni, la struttura intatta; l'hammam gemello con la barriera 'parziale' ha rifatto il controsoffitto adiacente per muffa a 4 anni.
 - **Normativa:** Normativa antincendio (le saune sono locali a rischio); specifiche costruttive; igiene (le saune pubbliche hanno regole).
 - **Nota di cantiere:** La regola dell'hammam: il vapore è più insidioso dell'acqua: dove arriva il vapore, serve la barriera assoluta.
@@ -2925,7 +2925,7 @@ Il bordo vasca e gli accessori completano l'opera: i bordi in pietra o gres anti
 - **Applicazioni:** Piscine di pregio, hotel, centri benessere.
 - **Vantaggi:** Il bordo ben fatto trasforma la piscina da 'vasca' a 'opera': l'acqua che tocca il bordo è un effetto scenico permanente.
 - **Limiti e attenzioni:** L'estetica senza funzione genera manutenzione: il bordo a sfioro richiede il controllo del livello e la pulizia della vaschetta.
-- **Costi ed economia:** Costi: bordo a sfioro +30-50% sul bordo classico; l'idromassaggio: +1.000-3.000 €; l'illuminazione subacquea: 500-2.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: bordo a sfioro +30-50% sul bordo classico; l'idromassaggio: +1.000-3.000 €; l'illuminazione subacquea: 500-2.000 €.
 - **Caso tipico:** Piscina con bordo a sfioro e illuminazione LED: l'effetto scenico notturno è il punto forte dell'hotel (le recensioni lo citano); la manutenzione extra (la vaschetta) è stata organizzata in 10 minuti settimanali.
 - **Normativa:** Normative elettriche (CEI 64-8 per le piscine: le zone 0-1-2); specifiche produttori.
 - **Nota di cantiere:** La domanda di progetto: 'l'estetica richiesta quanta manutenzione in più comporta?' — la risposta va scritta nel contratto.
@@ -2940,7 +2940,7 @@ La copertura della piscina non è un optional: mantiene il calore (il 70% delle 
 - **Applicazioni:** Piscine private, alberghiere, pubbliche in inverno.
 - **Vantaggi:** La copertura è l'investimento con il ritorno più rapido della piscina: risparmia calore, pulizia e prodotti chimici.
 - **Limiti e attenzioni:** La copertura manuale 'pesante' non si usa: la comodità decide l'uso reale.
-- **Costi ed economia:** Costi: a bolle 200-600 €, telone invernale 300-800 €, copertura di sicurezza 2.000-5.000 €, automatica 5.000-12.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: a bolle 200-600 €, telone invernale 300-800 €, copertura di sicurezza 2.000-5.000 €, automatica 5.000-12.000 €.
 - **Caso tipico:** Piscina con copertura automatica usata quotidianamente: i consumi di riscaldamento ridotti del 60%, la pulizia dimezzata e la sicurezza garantita; la piscina identica con copertura 'manuale riposta in garage' ha consumato il doppio e richiede pulizie triple.
 - **Normativa:** Normative di sicurezza piscine (i requisiti anti-annegamento per le coperture); specifiche produttori.
 - **Nota di cantiere:** La regola: la copertura si compra con la piscina, non dopo: è parte dell'impianto.
@@ -2955,7 +2955,7 @@ L'impianto di trattamento dell'acqua è il cuore tecnico: la filtrazione (sabbia
 - **Applicazioni:** Piscine private, pubbliche, hotel, centri sportivi.
 - **Vantaggi:** L'impianto giusto fa l'acqua cristallina con 30 minuti di cura a settimana; quello sbagliato è un secondo lavoro.
 - **Limiti e attenzioni:** La chimica mal gestita (pH fuori controllo) rovina il cloro, il rivestimento e gli occhi dei bagnanti.
-- **Costi ed economia:** Costi: impianto completo di filtrazione per piscina privata 30-60 m²: 3.000-8.000 €; il locale tecnico va progettato accessibile e drenato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: impianto completo di filtrazione per piscina privata 30-60 m²: 3.000-8.000 €; il locale tecnico va progettato accessibile e drenato.
 - **Caso tipico:** Piscina con elettrolisi del sale e filtro oversize (dimensionato per 1,5 volte il volume): l'acqua resta cristallina con la metà dei controlli rispetto alla piscina 'standard' dello stesso costruttore.
 - **Normativa:** Normativa piscine (igiene, ricircolo); specifiche dei produttori; la manutenzione programmata.
 - **Nota di cantiere:** La regola: il filtro è il polmone, la pompa è il cuore, la chimica è il medico: se uno dei tre è sbagliato, l'acqua lo racconta subito.
@@ -2985,7 +2985,7 @@ L'acqua della piscina si scalda con scambiatori (caldaia, pompa di calore, solar
 - **Applicazioni:** Piscine private, hotel, centri benessere, piscine coperte.
 - **Vantaggi:** La copertura + la pompa di calore: la combinazione che estende la stagione di mesi a costi contenuti.
 - **Limiti e attenzioni:** Il riscaldamento senza copertura è buttare soldi: l'acqua calda evapora e porta via il calore.
-- **Costi ed economia:** Costi: pompa di calore piscina 1.500-4.000 €; copertura automatica 3.000-8.000 €; i consumi con la copertura: ridotti del 50-70%.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: pompa di calore piscina 1.500-4.000 €; copertura automatica 3.000-8.000 €; i consumi con la copertura: ridotti del 50-70%.
 - **Caso tipico:** Piscina con pompa di calore e copertura a doghe: la stagione è passata da 4 a 7 mesi con consumi elettrici contenuti; la piscina identica del vicino senza copertura ha speso il doppio per scaldare 3 mesi.
 - **Normativa:** Normativa sui refrigeranti (pompe di calore); specifiche produttori.
 - **Nota di cantiere:** La gerarchia: prima la copertura, poi il riscaldamento: mai riscaldare senza coprire.
@@ -3060,7 +3060,7 @@ La piscina da costruzione è un serbatoio in calcestruzzo armato impermeabilizza
 - **Applicazioni:** Piscine private, alberghiere, pubbliche, centro benessere.
 - **Vantaggi:** La vasca ben costruita dura 50 anni: le vasche 'economiche' fanno le prime crepe al terzo anno.
 - **Limiti e attenzioni:** La tenuta è critica: una fessura non riparata consuma acqua, sale e riscalda? costa denaro e mina la struttura.
-- **Costi ed economia:** Costi: piscina interrata in calcestruzzo 25-50 m²: 1.500-3.000 €/m² di vasca (finiture base); il rivestimento in mosaico: extra.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: piscina interrata in calcestruzzo 25-50 m²: 1.500-3.000 €/m² di vasca (finiture base); il rivestimento in mosaico: extra.
 - **Caso tipico:** Piscina con guaina PVC sotto il mosaico e getto curato (curing prolungato): dopo 12 anni, zero perdite e zero infiltrazioni strutturali; la vasca gemella senza guaina ha rifatto l'impermeabilizzazione a 6 anni per alzature e infiltrazioni.
 - **Normativa:** Prescrizioni igienico-sanitarie regionali per piscine (acque di balneazione artificiali); normativa di prodotto per materiali e strutture (cls UNI EN 206, acciai UNI EN 10080, rivestimenti con marcatura CE); buona pratica progettuale e specifiche d'appalto.
 - **Nota di cantiere:** La prima legge della piscina: l'acqua è pesante (1.000 kg/m³) e sempre in movimento — la struttura e la tenuta devono rispettarla sempre.
@@ -3280,7 +3280,7 @@ Telecamere intelligenti che rilevano DPI mancanti, zone pericolo e vicinanza a m
 - **Applicazioni:** Sicurezza cantieri, monitoraggio accessi, conteggio presenze, analisi near-miss.
 - **Vantaggi:** Sicurezza proattiva 24/7; dati oggettivi per audit; riduzione incidenti dimostrata 20-40%.
 - **Limiti e attenzioni:** Privacy (lavoratori sorvegliati); falsi positivi; qualità installazione.
-- **Costi ed economia:** SaaS 2-15 €/camera/mese + hardware; progetto cantiere: 5-50k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: SaaS 2-15 €/camera/mese + hardware; progetto cantiere: 5-50k€.
 - **Caso tipico:** Everguard.ai, SmartVid.io (acquisita da Oracle); adozione da general contractor USA.
 - **Normativa:** GDPR + accordi sindacali; DPIA obbligatoria per videosorveglianza lavoratori.
 - **Nota di cantiere:** Usare l'AI come coach, non come spia: comunicare lo scopo preventivo o il progetto fallisce culturalmente.
@@ -3295,7 +3295,7 @@ Macchine automatiche per piegare e legare reti e barre d'armatura.
 - **Applicazioni:** Centri di lavorazione armature, grandi opere, gabbie di pali e travi.
 - **Vantaggi:** Produttività 5-10x; precisione di piega costante; meno malattie professionali.
 - **Limiti e attenzioni:** Batch minimo per ripagare; programmazione CAD delle forme.
-- **Costi ed economia:** Bender CNC: 100-500k€; robot legatore: 40-100k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Bender CNC: 100-500k€; robot legatore: 40-100k€.
 - **Caso tipico:** Schnell, EVG, Progress: standard nelle fabbriche di prefabbricati.
 - **Normativa:** Direttiva macchine; UNI EN 10080 acciai.
 - **Nota di cantiere:** Chi armava a mano 3 addetti, con la macchina ne serve 1: riallocare la manodopera sulla posa.
@@ -3310,7 +3310,7 @@ Robot che tracciano e posano da soli layout di cantiere e componenti partendo da
 - **Applicazioni:** Tracciamento pareti, posa travi laser, verifica posa contro modello (scan-to-BIM).
 - **Vantaggi:** Zero errori di misura; aggiornamento continuo as-built; meno rilievi manuali.
 - **Limiti e attenzioni:** Richiede BIM affidabile e coordinato; superfici pulite e accessibili.
-- **Costi ed economia:** Dusty Robotics FieldPrinter: noleggio/servizio 3-10k€/mese su cantieri grandi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Dusty Robotics FieldPrinter: noleggio/servizio 3-10k€/mese su cantieri grandi.
 - **Caso tipico:** Dusty (USA) su cantieri di data center; HP SitePrint per layout elettrico/idraulico.
 - **Normativa:** Nessuna; integra processo BIM ISO 19650.
 - **Nota di cantiere:** Stampare il layout sul solaio prima delle partizioni cambia il cantiere: niente misure a nastro.
@@ -3325,7 +3325,7 @@ La verità critica: cosa NON funziona ancora nella costruzione robotizzata.
 - **Applicazioni:** Formazione del LLM al pensiero critico (spirito critico richiesto dall'utente).
 - **Vantaggi:** Evita entusiasmi ingiustificati; guida investimenti razionali; riconosce il valore dell'artigianato.
 - **Limiti e attenzioni:** Rischio di hype: molti progetti dimostrativi non scalano mai.
-- **Costi ed economia:** Il fallimento di Katerra (1,6 miliardi $ bruciati) insegna: la tecnologia senza processo uccide.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il fallimento di Katerra (1,6 miliardi $ bruciati) insegna: la tecnologia senza processo uccide.
 - **Caso tipico:** Casi studio: Katerra, Arrivo, molte startup di stampa 3D scomparse dal 2018.
 - **Normativa:** Nessuna; è cultura manageriale.
 - **Nota di cantiere:** Regola per il LLM: la robotica vince sul RIPETITIVO e PERICOLOSO; l'umano vince sul VARIO e CREATIVO: il cantiere del futuro è ibrido.
@@ -3340,7 +3340,7 @@ Modello vivo dell'opera aggiornato in tempo reale da sensori, rilievi e avanzame
 - **Applicazioni:** Cantieri complessi, gestione patrimonio, smart buildings, manutenzione predittiva.
 - **Vantaggi:** Decisioni su dati reali; simulazioni prima di intervenire; consegna as-built garantita.
 - **Limiti e attenzioni:** Costo integrazione; disciplina nel mantenere il modello aggiornato.
-- **Costi ed economia:** Piattaforma digital twin: 20-200k€/anno + sensoristica.
+- **Costi ed economia:** Ordini di grandezza indicativi: Piattaforma digital twin: 20-200k€/anno + sensoristica.
 - **Caso tipico:** Singapore Virtual Singapore; Heathrow; cantiere di Grand Paris Express.
 - **Normativa:** ISO 19650; nessuna norma unica ancora.
 - **Nota di cantiere:** Un digital twin abbandonato è peggio di niente: serve un data manager di cantiere dedicato.
@@ -3355,7 +3355,7 @@ Rilievo laser a scansione dal drone per vegetazione e geometrie complesse.
 - **Applicazioni:** Rilievi in foreste, linee elettriche, frane, scavi e cave, modelli digitali di terreno.
 - **Vantaggi:** Penetra la vegetazione (rimbalzi multipli); accuratezza 3-10 cm anche senza GCP.
 - **Limiti e attenzioni:** Peso/batteria: 10-25 min volo; costo sensore; elaborazione specialistica.
-- **Costi ed economia:** Sistema LiDAR drone: 40-150k€; costo rilievo bosco: 1-5 €/ha.
+- **Costi ed economia:** Ordini di grandezza indicativi: Sistema LiDAR drone: 40-150k€; costo rilievo bosco: 1-5 €/ha.
 - **Caso tipico:** YellowScan, RIEGL miniVUX; adozione da ferrovie e TSO elettrici.
 - **Normativa:** COME per fotogrammetria; sicurezza laser classe.
 - **Nota di cantiere:** Il DTM da LiDAR è la base per la modellazione idraulica e geotecnica: investire qui ripaga in progettazione.
@@ -3370,7 +3370,7 @@ Ispezione visiva e termografica di superfici verticali e orizzontali con sensori
 - **Applicazioni:** Ispezioni di ponti, torri, pannelli fotovoltaici, gru, antenne, facciate vetro.
 - **Vantaggi:** Niente piattaforme aeree o funi nella maggior parte dei casi; ispezione 5-10x più veloce.
 - **Limiti e attenzioni:** Batteria 20-40 min; normativa volo in area urbana; attesa condizioni meteo.
-- **Costi ed economia:** Servizio ispezione: 300-1.500 €/giornata; risparmio 40-70% vs ponteggio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Servizio ispezione: 300-1.500 €/giornata; risparmio 40-70% vs ponteggio.
 - **Caso tipico:** CyberHawk, Skydio per ponti; ispezioni FV termografiche con DJI M300.
 - **Normativa:** Regolamento droni UE specific/SORA; ENAC; coordinamento con Ente gestore infrastruttura.
 - **Nota di cantiere:** Documentare ogni anomalia con foto georiferita: la relazione diventa base di computo per manutenzione.
@@ -3385,7 +3385,7 @@ Consegna di piccoli materiali, strumenti e campioni via drone.
 - **Applicazioni:** Cantieri estesi, isole, aree montane, consegna attrezzature urgenti tra gru e baraccamenti.
 - **Vantaggi:** Taglio dei tempi di attesa; nessun mezzo di superficie; sicurezza del personale.
 - **Limiti e attenzioni:** Autonomia limitata con carico; regolamento di volo; costo/km ancora alto.
-- **Costi ed economia:** Drone cargo: 20-200k€; consegna 5-30 € vs 50-150 € di mezzo+personale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Drone cargo: 20-200k€; consegna 5-30 € vs 50-150 € di mezzo+personale.
 - **Caso tipico:** Wing (Alphabet) per consegne; EHang cargo; test in cantieri minerari.
 - **Normativa:** Regolamento droni UE; assicurazioni; certificazione classe specifica.
 - **Nota di cantiere:** Oggi conviene per emergenze e siti remoti; la scala arriverà con regolamentazione U-space.
@@ -3400,7 +3400,7 @@ Rilievo 3D da drone con foto georiferite per mappatura di cantiere e patrimonio.
 - **Applicazioni:** Rilievo di terreni, monitoraggio avanzamento lavori, patrimonio architettonico, lastrico solare.
 - **Vantaggi:** Rilievo 10-50 ha/giorno; nessun ponteggio; ortofoto e nuvole di punti cm-level.
 - **Limiti e attenzioni:** Dipendenza da meteo; autorizzazioni ENAC; non penetra la vegetazione fitta.
-- **Costi ed economia:** Drone professionale 5-30k€; software elaborazione 2-10k€/anno; costo rilievo: 0,5-5 €/ha vs rilievo tradizionale 10x.
+- **Costi ed economia:** Ordini di grandezza indicativi: Drone professionale 5-30k€; software elaborazione 2-10k€/anno; costo rilievo: 0,5-5 €/ha vs rilievo tradizionale 10x.
 - **Caso tipico:** DJI Phantom/M300 + Pix4D/Agisoft; usati da tutti i general contractor.
 - **Normativa:** Regolamento UE 2019/945 (droni), ENAC; privacy per immagini.
 - **Nota di cantiere:** Ogni rilievo ripetibile nel tempo crea il 'diario fotografico metrico' del cantiere: oro in caso di contenzioso.
@@ -3415,7 +3415,7 @@ Quando la robotica ripaga: il quadro economico realistico.
 - **Applicazioni:** Decisione investimenti di imprese, direzioni lavori, committenti.
 - **Vantaggi:** Sui grandi volumi e lavori ripetitivi il ROI è 1-3 anni; su piccoli lavori tradizionali non ripaga mai.
 - **Limiti e attenzioni:** Macchine sottoutilizzate sono perdita; mancanza di manutentori; obsolescenza software.
-- **Costi ed economia:** Robot muratore: rientro 2-4 anni a >15.000 m2 di facciata; drone rilievo: rientro immediato (<3 mesi).
+- **Costi ed economia:** Ordini di grandezza indicativi: Robot muratore: rientro 2-4 anni a >15.000 m2 di facciata; drone rilievo: rientro immediato (<3 mesi).
 - **Caso tipico:** Dati da McKinsey Global Institute e da casi FBR/Construction Robotics pubblicati.
 - **Normativa:** Nessuna; è analisi gestionale.
 - **Nota di cantiere:** Criterio pratico: comprare robot dove c'è (1) ripetitività, (2) volume, (3) carenza di manodopera qualificata.
@@ -3430,7 +3430,7 @@ Buldozer, escavatori e dumper comandati a distanza per cantieri pericolosi.
 - **Applicazioni:** Frane, discariche, cave, cantieri con rischio instabilità, ambiente radioattivo.
 - **Vantaggi:** Eliminazione del rischio uomo-macchina; lavoro continuo su più turni.
 - **Limiti e attenzioni:** Latenza e banda critiche; percezione ridotta rispetto alla cabina.
-- **Costi ed economia:** Kit retrofit teleoperato: 30-150k€; macchina nuova autonoma: +20-40%.
+- **Costi ed economia:** Ordini di grandezza indicativi: Kit retrofit teleoperato: 30-150k€; macchina nuova autonoma: +20-40%.
 - **Caso tipico:** Komatsu/Hitachi autonomous trucks nelle miniere (Rio Tinto); teleoperazione nelle centrali nucleari (JTEKT).
 - **Normativa:** Direttiva macchine + UNI per macchine da cantiere (EN 474).
 - **Nota di cantiere:** La teleoperazione è il gradino prima dell'autonomia: investire in reti 5G private del cantiere.
@@ -3445,7 +3445,7 @@ Piattaforme software open per comandare robot eterogenei in cantiere.
 - **Applicazioni:** Cantieri pilota, ricerca, automazione impianti di produzione prefabbricati.
 - **Vantaggi:** Standard aperto; enorme ecosistema; riuso di algoritmi già sviluppati.
 - **Limiti e attenzioni:** Richiede competenze software in azienda; affidabilità da industrializzare.
-- **Costi ed economia:** Software gratuito; competenze: 60-120k€/anno di un ingegnere robotico.
+- **Costi ed economia:** Ordini di grandezza indicativi: Software gratuito; competenze: 60-120k€/anno di un ingegnere robotico.
 - **Caso tipico:** ROS-Industrial; progetti Horizon Europe per costruzione robotizzata.
 - **Normativa:** Nessuna; buone pratiche open source.
 - **Nota di cantiere:** Per un'impresa edile media: iniziare da MQTT+OPC-UA per i sensori, ROS solo se si sviluppa robotica propria.
@@ -3460,7 +3460,7 @@ Fabbriche con robot saldatori, carroponte CNC e linee automatizzate per componen
 - **Applicazioni:** Strutture in acciaio, facciate unitizzate, pannelli parete, bagni monoblocco, moduli completi.
 - **Vantaggi:** Qualità industriale; cantiere 30-70% più veloce; meno sprechi e meno personale in quota.
 - **Limiti e attenzioni:** Investimento impianto pesante; progettazione BIM obbligatoria; trasporto dei moduli.
-- **Costi ed economia:** Impianto prefabbricazione: 5-50M€; risparmio cantiere 10-20% del totale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto prefabbricazione: 5-50M€; risparmio cantiere 10-20% del totale.
 - **Caso tipico:** Katerra (fallimento da studiare), Kleusberg, Lindbäcks, Sekisui House; bagni monoblocco Caleffi.
 - **Normativa:** Marcatura CE componenti; EN 1090 per acciaio; DfMA come metodo progettuale.
 - **Nota di cantiere:** La prefabbricazione robotizzata è la robotica che FUNZIONA oggi: chi progetta per DfMA vince su tempi e qualità.
@@ -3475,7 +3475,7 @@ Carotatrici e seghe robotizzate per tagli di precisione in cls e roccia.
 - **Applicazioni:** Fori per impianti, tagli per rinforzi, aperture, demolizioni controllate.
 - **Vantaggi:** Precisione millimetrica; nessuna fatica per l'operatore; continuità di lavoro.
 - **Limiti e attenzioni:** Polvere e acqua di raffreddamento da gestire; consumo utensili diamantati.
-- **Costi ed economia:** Carotatrice robotizzata 15-60k€; utensile diamantato 50-300 €/m di taglio.
+- **Costi ed economia:** Ordini di grandezza indicativi: Carotatrice robotizzata 15-60k€; utensile diamantato 50-300 €/m di taglio.
 - **Caso tipico:** Hilti, Tyrolit robot systems per tagli su dighe e ponti.
 - **Normativa:** Direttiva macchine; ATEX per ambienti con polveri esplosive.
 - **Nota di cantiere:** Il taglio robotizzato evita microfessurazioni: fondamentale prima di incollaggi FRP.
@@ -3490,7 +3490,7 @@ Mini escavatori demolitori telecomandati con frantumi e bracci idraulici.
 - **Applicazioni:** Demolizioni interne, ambienti confinati, centrali nucleari, tunnel, cantieri urbani.
 - **Vantaggi:** Operatore lontano dal pericolo; accesso a spazi stretti; minor vibrazione e polvere.
 - **Limiti e attenzioni:** Portata e raggio limitati; costo orario elevato; serve manutentore formato.
-- **Costi ed economia:** Noleggio 1.500-4.000 €/giorno; acquisto 60-300k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Noleggio 1.500-4.000 €/giorno; acquisto 60-300k€.
 - **Caso tipico:** Brokk, Husqvarna DXR: usati a Chernobyl, metropolitane, demolizioni ospedaliere.
 - **Normativa:** Direttiva macchine; valutazione rumore/polvere; amianto: procedure D.Lgs 81/08.
 - **Nota di cantiere:** Per demolizioni selezionate e interne è quasi sempre più sicuro e spesso più economico dell'escavatore grande.
@@ -3520,7 +3520,7 @@ Robot semi-automatici per la posa di piastrelle grandi formato e levigatura.
 - **Applicazioni:** Aeroporti, centri commerciali, grandi pavimentazioni continue.
 - **Vantaggi:** Produttività 3-5x; qualità di planarità costante; riduzione malattie muscolo-scheletriche.
 - **Limiti e attenzioni:** Setup e messa a punto iniziale lenti; non gestisce tagli e particolari.
-- **Costi ed economia:** Robot TileRobot/SAM: 150-400k€; rientro su >5.000 m2.
+- **Costi ed economia:** Ordini di grandezza indicativi: Robot TileRobot/SAM: 150-400k€; rientro su >5.000 m2.
 - **Caso tipico:** Robot della Università di Monash (Hadrian 'piastrellista'); Tile laying robots in Cina.
 - **Normativa:** Direttiva macchine; accordi collettivi su sicurezza in cantiere.
 - **Nota di cantiere:** Su grandi superfici il robot conviene; su bagni e cucine resta l'artigiano.
@@ -3535,7 +3535,7 @@ Robot collaborativo che posa mattoni pieni/forati con malta, con operaio aliment
 - **Applicazioni:** Facciate in laterizio, murature di tamponamento, rivestimenti a faccia vista.
 - **Vantaggi:** Produttività 3.000+ mattoni/turno (6 volte l'umano); qualità costante del giunto.
 - **Limiti e attenzioni:** Serve operaio dedicato all'alimentazione; non posa angoli e aperture (resta manuale).
-- **Costi ed economia:** Acquisto 400-600k$; rientro indicativo 3-5 anni su grandi cantieri di facciata.
+- **Costi ed economia:** Ordini di grandezza indicativi: Acquisto 400-600k$; rientro indicativo 3-5 anni su grandi cantieri di facciata.
 - **Caso tipico:** Construction Robotics SAM100: usato su cantieri Walmart, scuole USA.
 - **Normativa:** NESSUNA norma robotica specifica; rispetto Direttiva macchine 2006/42/CE.
 - **Nota di cantiere:** Adatto a grandi superfici rettilinee: su piccoli cantieri residenziali non ripaga.
@@ -3550,7 +3550,7 @@ Gruppi di piccoli robot autonomi che costruiscono cooperando, ispirati alle term
 - **Applicazioni:** Ricerca, ambienti estremi, costruzione spaziale, strutture di emergenza.
 - **Vantaggi:** Robustezza (nessun singolo punto critico); parallelizzazione; accesso a zone pericolose.
 - **Limiti e attenzioni:** TRL basso (3-5); scalabilità non dimostrata in edilizia reale.
-- **Costi ed economia:** Prototipi accademici; costo sistema sperimentale 50-200k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Prototipi accademici; costo sistema sperimentale 50-200k€.
 - **Caso tipico:** TERMES (Harvard), swarms ETH Zurich; NASA JPL per habitat lunari.
 - **Normativa:** Nessuna normativa; etica e sicurezza collettive in studio.
 - **Nota di cantiere:** Da monitorare: è la direzione di lungo periodo, non una tecnologia da cantiere 2026.
@@ -3565,7 +3565,7 @@ Come rendere conforme un cantiere con robot e macchine automatizzate.
 - **Applicazioni:** Qualsiasi adozione robotica: dal robot demolitore al cobot muratore.
 - **Vantaggi:** Quadro chiaro di responsabilità; valutazione rischi aggiornata; LAVORATORI FORMATI.
 - **Limiti e attenzioni:** Normativa frammentata; regolamenti nazionali da armonizzare; interpretazioni locali.
-- **Costi ed economia:** Costo compliance: valutazione+formazione 5-30k€ per cantiere robotizzato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo compliance: valutazione+formazione 5-30k€ per cantiere robotizzato.
 - **Caso tipico:** Cantieri nord-europei come riferimento; protocolli ENEL/Webuild per robot in opera.
 - **Normativa:** D.Lgs 81/08 + allegato V macchine; Direttiva macchine (nuova 2023/1230).
 - **Nota di cantiere:** Regola d'oro: il robot entra in cantiere solo dopo la valutazione del RSPP e con percorso pedonale segregato.
@@ -3580,7 +3580,7 @@ I mix stampabili: requisiti di pompa-bilità, apertura di staglio, costruibilit�
 - **Applicazioni:** Qualsiasi progetto di stampa 3D.
 - **Vantaggi:** Possibilità di mix custom (leggeri, isolanti, fibrati); integrazione di fibre per anti-sismico.
 - **Limiti e attenzioni:** Catena di fornitura e certificazione del mix ancora limitata; richiede laboratorio di dosaggio.
-- **Costi ed economia:** Mix stampabile: +10-30% sul cls ordinario; sviluppo mix dedicato: 5-20k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Mix stampabile: +10-30% sul cls ordinario; sviluppo mix dedicato: 5-20k€.
 - **Caso tipico:** Mix di HeidelbergCement, CEMEX D.fab, mix CNR per ENEA.
 - **Normativa:** Prove di costruibilità e reologia (EN 12350 adattate); nessuna norma armonizzata specifica.
 - **Nota di cantiere:** Testare sempre il mix con prova di crollo a torre (slump flow a torre) prima del cantiere.
@@ -3595,7 +3595,7 @@ Sistema mobile di stampa intero edificio in ~7-14 giorni.
 - **Applicazioni:** Housing sociale, emergency housing, edilizia residenziale USA.
 - **Vantaggi:** Tempo di cantiere drasticamente ridotto; 2-4 addetti per casa; costo materiale basso.
 - **Limiti e attenzioni:** Geometrie a parete semplice; reti impianti da progettare prima (canaline integrate).
-- **Costi ed economia:** Casa stampata: 4.000-10.000 € in materiali + macchina; totale 30-50% sotto mercato USA.
+- **Costi ed economia:** Ordini di grandezza indicativi: Casa stampata: 4.000-10.000 € in materiali + macchina; totale 30-50% sotto mercato USA.
 - **Caso tipico:** ICON: comunità in Texas (East 17th), progetti NASA per habitat lunari.
 - **Normativa:** Normativa edilizia locale, ASTM in corso; codici anti-sismici da adattare.
 - **Nota di cantiere:** Prevedere nel modello BIM la posa di canaline per impianti prima della stampa delle pareti.
@@ -3610,7 +3610,7 @@ Stampa con materiali di terra locali, rifiuti industriali attivati, geopolimeri 
 - **Applicazioni:** Architetture sostenibili, padiglioni, edilizia rurale, esteri emergenti.
 - **Vantaggi:** Impronta carbonica molto bassa; uso di rifiuti e terra locale; niente cemento.
 - **Limiti e attenzioni:** Resistenza meccanica inferiore al cls; vulnerabilità all'acqua senza protezioni; ricerca ancora attiva.
-- **Costi ed economia:** Materiale 5-20 €/m3 (terra locale) contro 60-120 €/m3 di cls; macchina COBOD/wasp da 50-200k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Materiale 5-20 €/m3 (terra locale) contro 60-120 €/m3 di cls; macchina COBOD/wasp da 50-200k€.
 - **Caso tipico:** TECLA (Mario Cucinella + WASP); case in India/Africa con stampanti low cost.
 - **Normativa:** Linee guida sperimentali; per opere strutturali serve validazione accademica e prove su campioni.
 - **Nota di cantiere:** Ideale per strutture non portanti, recinzioni, padiglioni e murature di riempimento verificate sismicamente.
@@ -3625,7 +3625,7 @@ Prototipi e componenti strutturali in acciaio/alluminio stampati in 3D.
 - **Applicazioni:** Nodi strutturali complessi, ponti pedonali, architetture parametriche.
 - **Vantaggi:** Forme impossibili con lamiere; personalizzazione di massa; spreco quasi nullo di metallo.
 - **Limiti e attenzioni:** Costo orario macchina elevato; dimensioni limitate; verifica strutturale su-sito complessa.
-- **Costi ed economia:** WAAM 100-500 €/kg; SLM 300-1.000 €/kg; competitivo solo per forme estreme o prototipi.
+- **Costi ed economia:** Ordini di grandezza indicativi: WAAM 100-500 €/kg; SLM 300-1.000 €/kg; competitivo solo per forme estreme o prototipi.
 - **Caso tipico:** Ponte MX3D in acciaio ad Amsterdam; nodi per Renzo Piano Building Workshop.
 - **Normativa:** EN ISO/ASTM 52900; verifica a fatica e saldabilità secondo Eurocodici.
 - **Nota di cantiere:** Per il progettista: pensare al metallo stampato come getto metallico, non come laminato.
@@ -3640,7 +3640,7 @@ Stampanti a braccio/portalino che estrudono strati di calcestruzzo rapido per pa
 - **Applicazioni:** Villette monopiano, case popolari, uffici, pareti e murature in loco.
 - **Vantaggi:** Riduzione manodopera (-50/-80% sulla muratura), velocità (10-100 m2/giorno), minor spreco, geometrie libere.
 - **Limiti e attenzioni:** Richiede progettazione ad hoc (DfAM); superfici grezze da rifinire; normativa ancora in sviluppo; capital cost elevato.
-- **Costi ed economia:** Macchina 300k-1,5M€; costo parete stampata 30-60% in meno rispetto a muratura tradizionale su grandi volumi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Macchina 300k-1,5M€; costo parete stampata 30-60% in meno rispetto a muratura tradizionale su grandi volumi.
 - **Caso tipico:** COBOD BOD2 (usata da GE, PERI, HeidelbergCement); ICON Vulcan; Apis Cor; CyBe; WASP Crane.
 - **Normativa:** EILCO/ISO/ASTM in definizione; in Italia CNR-DT 125 (prime linee guida stampa 3D).
 - **Nota di cantiere:** La stampa 3D sostituisce la muratura, NON la struttura: la platea, le travi e la copertura restano tradizionali o prefabbricate.
@@ -3655,7 +3655,7 @@ Strumenti geodetici a guida automatica per il posizionamento ad alta precisione.
 - **Applicazioni:** Posa strutture in acciaio, monitoraggi, piloni, binari, prefabbricati di precisione.
 - **Vantaggi:** Precisione 1-2 mm su centinaia di metri; un solo operatore; misure continue.
 - **Limiti e attenzioni:** Vista libera richiesta; umidità/polvere degradano; costo strumento.
-- **Costi ed economia:** Stazione totale robotica: 15-50k€; laser tracker: 60-150k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Stazione totale robotica: 15-50k€; laser tracker: 60-150k€.
 - **Caso tipico:** Leica TS16, Trimble S7; standard nei cantieri di ponte e grattacielo.
 - **Normativa:** Principi di geodesia e topografia: rilievi con stazione totale e livellazione secondo le tolleranze di progetto; riferimenti IGM per le reti nazionali.
 - **Nota di cantiere:** Fondamentale abbinare il rilievo continuo al modello: la stazione totale 'guida' la posa come un GPS del cantiere.
@@ -3670,7 +3670,7 @@ Strutture indossabili attive (motore) o passive (molle) che aiutano a sollevare 
 - **Applicazioni:** Movimentazione sacchi, posa in quota, sbattimento prolungato, logistica magazzino.
 - **Vantaggi:** Riduzione affaticamento 30-60%; minor infortuni muscolo-scheletrici (50% degli infortuni edili).
 - **Limiti e attenzioni:** Peso 3-8 kg; caldo in estate; adozione culturale; manutenzione batterie.
-- **Costi ed economia:** Esoscheletro passivo 3-10k€; attivo 20-50k€; rientro su riduzione infortuni e assenze.
+- **Costi ed economia:** Ordini di grandezza indicativi: Esoscheletro passivo 3-10k€; attivo 20-50k€; rientro su riduzione infortuni e assenze.
 - **Caso tipico:** SuitX/Dephy; esoscheletri usati da Ford, Delta, in prova da Webuild sui cantieri.
 - **Normativa:** Direttiva DPI; valutazione ergonomica D.Lgs 81/08 allegato XXXIII.
 - **Nota di cantiere:** Il miglior esoscheletro è quello che l'operaio accetta: coinvolgerlo nella scelta del modello.
@@ -3690,7 +3690,7 @@ L'accessibilità è diritto (D.Lgs 80/1992): gli edifici pubblici e privati aper
 - **Applicazioni:** Edifici pubblici, commerciali, uffici, abitazioni di disabili, ristrutturazioni con detrazioni.
 - **Vantaggi:** L'accessibilità bene fatta serve a tutti: genitori con passeggini, anziani, corrieri: il 'disegno per tutti' migliora l'edilizia per tutti.
 - **Limiti e attenzioni:** Gli adempimenti fatti 'al limite' per spuntare la casella creano percorsi umilianti e inefficaci: il superamento barriere è progetto, non pezza.
-- **Costi ed economia:** Costo servizio igienico accessibile in più: 2.000-5.000 €; piattaforma elevatrice esterna: 8.000-20.000 €; detrazione 75% su interventi dedicati (verificare normativa corrente).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo servizio igienico accessibile in più: 2.000-5.000 €; piattaforma elevatrice esterna: 8.000-20.000 €; detrazione 75% su interventi dedicati (verificare normativa corrente).
 - **Caso tipico:** Farmacia ristrutturata con ingresso a gradini: l'abbattimento barriere con rampa e portello automatico ha aperto il mercato a carrozzine e passeggini; il titolare dichiara clientela aumentata in modo percettibile già dopo pochi mesi.
 - **Normativa:** D.Lgs 80/1992; DM 236/1989; legge 13/1989; norme UNI (pendenze, segnaletica).
 - **Nota di cantiere:** Prima verifica di progetto: 'una persona in carrozzina può entrare, girare nei locali, usare i servizi e uscire in autonomia?' — il percorso completo, non il singolo dettaglio.
@@ -3705,7 +3705,7 @@ L'abbattimento barriere verticali si fa con ascensori (obbligatori sopra certi p
 - **Applicazioni:** Edifici pubblici e privati con più piani, ristrutturazioni, condomini.
 - **Vantaggi:** L'impianto verticale trasforma la fruibilità dell'edificio: per anziani e disabili è la differenza tra casa e prigione.
 - **Limiti e attenzioni:** In edifici storici lo spesso vano ascensore è impossibile: le piattaforme esterne sono spesso la soluzione, con il vincolo paesaggistico da gestire.
-- **Costi ed economia:** Costo ascensore nuovo: 18.000-45.000 €; piattaforma: 8.000-20.000 €; manutenzione: 1.000-2.500 €/anno; montascale: 3.000-8.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo ascensore nuovo: 18.000-45.000 €; piattaforma: 8.000-20.000 €; manutenzione: 1.000-2.500 €/anno; montascale: 3.000-8.000 €.
 - **Caso tipico:** Condominio con anziani al terzo piano: installata piattaforma esterna con detrazione e maggioranza condominiale ridotta: costo netto rientrato in parte dalle detrazioni e i residenti hanno recuperato autonomia.
 - **Normativa:** DPR 162/1999; L. 220/2012 (installazioni agevolate in condominio); DM 236/1989.
 - **Nota di cantiere:** Regole: mai sottodimensionare la cabina (sedia a rotelle + accompagnatore), mai saltare il contratto di manutenzione (è obbligo), mai installare senza i verbali di collaudo (responsabilità penale in caso di incidente).
@@ -3735,7 +3735,7 @@ La compartimentazione divide l'edificio in setti con resistenza al fuoco certifi
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni di edifici esistenti, adeguamenti di locali con pubblico.
 - **Vantaggi:** La compartimentazione funziona: negli incendi edilizi i compartimenti corretti hanno salvato intere ali di edificio mentre il compartimento d'origine bruciava.
 - **Limiti e attenzioni:** Un solo attraversamento non sigillato (cavo elettrico, tubo) annulla un settore intero: la qualità sta nei dettagli di posa.
-- **Costi ed economia:** Costo porte tagliafuoco: 400-1.500 €; mastici e sigillature intumescenti: poche decine di euro a punto; il costo in fase di costruzione è una frazione del rifacimento.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo porte tagliafuoco: 400-1.500 €; mastici e sigillature intumescenti: poche decine di euro a punto; il costo in fase di costruzione è una frazione del rifacimento.
 - **Caso tipico:** Verifica post-incendio in ufficio: il settore REI 90 ha contenuto il fuoco in due stanze; la porta tagliafuoco del corridoio (chiusa automaticamente) ha salvato l'ala opposta: danno da 180.000 € invece che all'edificio intero.
 - **Normativa:** D.M. 03/08/2015; UNI EN 13501-2 (classi REI); normativa prodotti da costruzione CPR (UE 305/2011).
 - **Nota di cantiere:** La domanda da fare al LLM: 'quali sono i setti REI di questo edificio e dove passano i servizi attraverso di essi?' — ogni passaggio è un punto critico.
@@ -3750,7 +3750,7 @@ I mezzi di estinzione manuali sono la prima risposta: estintori a polvere (unive
 - **Applicazioni:** Ogni edificio produttivo e commerciale, cantieri grandi, magazzini.
 - **Vantaggi:** L'estintore usato nei primi minuti spegne il 90% degli incendi che altrimenti diventano grandi (statistiche VVF): posizionato giusto e il personale formato, è il presidio più efficace in assoluto.
 - **Limiti e attenzioni:** L'estintore 'solo a norma sulla carta' (revisione scaduta, sepolto dietro scaffali) è carta straccia nel momento del bisogno.
-- **Costi ed economia:** Costo estintore: 40-120 € (revisione 15-30 €/anno); idrante completo: 300-800 €; formazione personale: 30-80 €/persona.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo estintore: 40-120 € (revisione 15-30 €/anno); idrante completo: 300-800 €; formazione personale: 30-80 €/persona.
 - **Caso tipico:** Incendio in officina: un dipendente formato ha spento un principio d'incendio al banco con l'estintore a 4 m di distanza in 40 secondi; danno limitato a 2.000 € invece che all'intera attività.
 - **Normativa:** D.M. 03/08/2015 (tabelle presidi); UNI 45 e UNI EN 3 (estintori); D.Lgs 81/2008 (formazione).
 - **Nota di cantiere:** Checklist cantiere/azienda: estintori presenti, accessibili, revisionati; idranti provati; personale formato — tre spunte ogni 6 mesi.
@@ -3765,7 +3765,7 @@ La gestione dell'emergenza è la parte 'umana' della prevenzione: Piano di Emerg
 - **Applicazioni:** Uffici, scuole, industrie, centri commerciali, edifici con pubblico.
 - **Vantaggi:** L'edificio progettato bene con persone non preparate resta pericoloso: la prova di evacuazione annuale è il momento di verità.
 - **Limiti e attenzioni:** Il PEI 'nel cassetto' senza aggiornamento o formazione è inutile in emergenza: chi non sa cosa fare, non lo legge.
-- **Costi ed economia:** Costo formazione addetti: 50-150 €/persona; prova di evacuazione: tempo interno; redazione PEI: 500-2.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo formazione addetti: 50-150 €/persona; prova di evacuazione: tempo interno; redazione PEI: 500-2.000 €.
 - **Caso tipico:** Prova di evacuazione in una scuola: evidenziato che un corridoio si intasava per una porta contraria; invertita l'apertura e ricalibrato il percorso: la prova successiva ha rispettato il tempo con margine del 40%.
 - **Normativa:** D.M. 03/08/2015 (capo gestione); D.Lgs 81/2008 (emergenze); UNI ISO 45001 (sistemi gestione sicurezza).
 - **Nota di cantiere:** Il PEI va trattato come il libretto dell'auto: revisionato ogni anno, consultato prima di ogni modifica dell'edificio.
@@ -3810,7 +3810,7 @@ La prevenzione incendi italiana si basa sul D.M. 03/08/2015 (norme tecniche di p
 - **Applicazioni:** Ogni edificio con pubblico (scuole, uffici, negozi, ristoranti, alberghi), industrie, depositi.
 - **Vantaggi:** La logica è preventiva: costruire sicuro costa una frazione di quanto costa ristrutturare dopo un incendio o adeguare un locale sequestrato.
 - **Limiti e attenzioni:** La normativa è vasta e i regolamenti locali si sovrappongono: serve il professionista abilitato, non il fai-da-te.
-- **Costi ed economia:** Costo progetto prevenzione incendi: 2.000-10.000 € secondo complessità; oneri per presidi: voci specifiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo progetto prevenzione incendi: 2.000-10.000 € secondo complessità; oneri per presidi: voci specifiche.
 - **Caso tipico:** Ristorante aperto senza SCIA antincendio: sequestro preventivo dopo un controllo, 30 giorni di chiusura, rientro con progetto e adeguamenti: costo totale ~45.000 €; il progetto preventivo sarebbe costato 4.000 €.
 - **Normativa:** D.M. 03/08/2015; regolamento di esecuzione del TULPS (D.P.R. 635/1982, parte); D.Lgs 139/2006 (Codice sicura).
 - **Nota di cantiere:** Prima domanda su un locale commerciale: 'che livello di rischio incendio ha questa attività e che titolo mi serve?' — decide costi e tempi dell'apertura.
@@ -3840,7 +3840,7 @@ La segnaletica di sicurezza (UNI EN ISO 7010) guida l'evacuazione e l'azione in 
 - **Applicazioni:** Ogni edificio con pubblico e le relative scadenze di controllo.
 - **Vantaggi:** La segnaletica corretta orienta anche chi non conosce l'edificio (clienti, visitatori): in emergenza non si ragiona, si segue.
 - **Limiti e attenzioni:** La segnaletica 'creativa' non normalizzata confonde: le persone cercano i pittogrammi standard che conoscono.
-- **Costi ed economia:** Costo cartelli: 10-50 € l'uno; planimetrie stampate e incorniciate: 30-80 €; il costo della mancata documentazione in un controllo: sanzioni e chiusure.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo cartelli: 10-50 € l'uno; planimetrie stampate e incorniciate: 30-80 €; il costo della mancata documentazione in un controllo: sanzioni e chiusure.
 - **Caso tipico:** Controllo VVF in un centro commerciale: segnaletica ottima ma revisione estintori scaduta di 4 mesi: diffida con termine di 15 giorni; il registro digitale delle scadenze (semplice foglio con alert) avrebbe evitato la diffida e l'ansia.
 - **Normativa:** UNI EN ISO 7010 (segnaletica); UNI 11292 (planimetrie evacuazione); D.M. 03/08/2015 (documentazione).
 - **Nota di cantiere:** Il registro delle scadenze (estintori, porte, prove, formazione) è la spina dorsale della conformità: chi non ha il registro, non ha la conformità.

@@ -20,7 +20,7 @@ Mentre le viste ortogonali danno le misure, assonometrie (isometrica, dimetrica)
 - **Applicazioni:** Presentazioni al cliente, concorsi, permessi (integratione paesaggistica), social e marketing dell'impresa.
 - **Vantaggi:** Vende il progetto: il cliente non legge le tavole tecniche ma capisce subito una prospettiva; riduce i cambiamenti in corso d'opera (il cliente 'ha visto' la casa).
 - **Limiti e attenzioni:** Il render fotorealistico crea aspettative materiali precise: se poi si usa un materiale diverso (costo), il cliente percepisce un peggioramento anche se il progetto è corretto.
-- **Costi ed economia:** Render interno esterno: da 300-1.500 € a immagine dal renderista freelance; video walkthrough 1.000-5.000 €; molti software BIM includono motori di render base.
+- **Costi ed economia:** Ordini di grandezza indicativi: Render interno esterno: da 300-1.500 € a immagine dal renderista freelance; video walkthrough 1.000-5.000 €; molti software BIM includono motori di render base.
 - **Caso tipico:** Prima/dopo con render in fase di offerta di una ristrutturazione: approvazione del cliente in un incontro solo invece di tre, con zero modifiche in corso d'opera sulla distribuzione.
 - **Normativa:** Nessuna norma cogente sulla resa; coerenza con il progetto definito a tavole (revisioni allineate).
 - **Nota di cantiere:** Nel contratto: specificare che render e prospettive sono 'interpretazione grafica' e che fanno fede le tavole quotate.
@@ -35,7 +35,7 @@ Il CAD 2D (AutoCAD, DraftSight, LibreCAD, BricsCAD) replica il disegno manuale i
 - **Applicazioni:** Planimetrie di progetto e as-built, schemi impiantistici, disegni di produzione serramentisti e carpenterie.
 - **Vantaggi:** Modifica istantanea: cambia la geometria e quote e testi si aggiornano; copia/incolla tra disegni con blocchi standard aziendali; archivio riutilizzabile.
 - **Limiti e attenzioni:** Il disegno 2D non 'capisce' l'oggetto: una parete è 4 linee, non un muro; chiudere un muro sbagliato non aggiorna superfici né computi.
-- **Costi ed economia:** Licenza CAD 2D professionale: 300-1.500 €/anno (AutoCAD ~1.700 €/anno; alternative libere gratuite); formazione base: 2-5 giorni.
+- **Costi ed economia:** Ordini di grandezza indicativi: Licenza CAD 2D professionale: 300-1.500 €/anno (AutoCAD ~1.700 €/anno; alternative libere gratuite); formazione base: 2-5 giorni.
 - **Caso tipico:** Uso dei blocchi finestre con attributi per il tipo di vetro: cambiato l'attributo 'vetro' nel blocco, tutte le finestre identiche si aggiornano insieme e il computo dei serramenti resta coerente.
 - **Normativa:** Nessuna norma sul software; la norma regola il disegno, non lo strumento (UNI EN ISO 128 resta valida sul CAD).
 - **Nota di cantiere:** Template aziendale con layer, blocchi e scale preimpostati vale più di qualsiasi corso: chi disegna col template giusto è veloce e coerente.
@@ -65,7 +65,7 @@ Il set base di un progetto architettonico: planimetrie (distribuzione, quotata),
 - **Applicazioni:** Pratiche edilizie comunali, gare d'appalto, comunicazione con la direzione lavori e le imprese.
 - **Vantaggi:** Un set coerente elimina il 90% delle richieste di chiarimento (RdC) in cantiere: chi esegue trova tutto, allineato.
 - **Limiti e attenzioni:** La manutenzione dell'allineamento tra tavole è manuale in CAD 2D (in BIM è automatica): ogni modifica va propagata a mano su tutte le tavole.
-- **Costi ed economia:** Set completo appartamento: 15-25 tavole; costo interno o onorario per tavola nella struttura dell'incarico professionale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Set completo appartamento: 15-25 tavole; costo interno o onorario per tavola nella struttura dell'incarico professionale.
 - **Caso tipico:** Richiesta di chiarimento in cantiere su una scala interna: la sezione quotava alzata 2,80 m, la pianta 2,85 m: disallineamento di copiatura in CAD 2D, risolto con una sola tavola 'di revisione B'.
 - **Normativa:** Linee guida del Ministero per le tavole di progetto (schemi tipo); regolamenti edilizi comunali (contenuti minimi).
 - **Nota di cantiere:** Checklist prima di consegnare un set: pianta-sezione-prospetto sullo stesso asse, quote coincidenti, finiture coerenti col capitolato.
@@ -80,7 +80,7 @@ Il disegno manuale resta fondamentale: schizzi di concept, rilevamenti rapidi in
 - **Applicazioni:** Rilevamento di immobili esistenti, bozze di concept da discutere col cliente, annotazioni in direzione lavori.
 - **Vantaggi:** Velocità e pensiero: disegnando a mano il progettista ragiona; molti concept migliori nascono sul quaderno prima ancora di aprire il CAD.
 - **Limiti e attenzioni:** Precisione limitata: uno schizzo non è un documento di gara; il passaggio al CAD serve sempre per la restituzione quotata.
-- **Costi ed economia:** Costo strumentale quasi zero (quaderno + matita + metro laser 40-100 €); valore enorme per la fase preliminare.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo strumentale quasi zero (quaderno + matita + metro laser 40-100 €); valore enorme per la fase preliminare.
 - **Caso tipico:** Rilevamento di un appartamento anni '60: misure incrociate su due diagonali per vano hanno rivelato un muro non a 90° di 4 cm: senza diagonali il mobilificio avrebbe sbagliato la cassettiera su misura.
 - **Normativa:** Nessuna norma specifica; il rilievo quotato che alimenta il progetto deve rispettare la quotatura UNI EN ISO 129.
 - **Nota di cantiere:** Regola di rilevamento: mai meno di 2 misure per definire un punto, e sempre le diagonali dei vani per verificare la squadratura.
@@ -95,7 +95,7 @@ Oltre all'architettura, il progettista edile legge disegni meccanici: carpenteri
 - **Applicazioni:**  carpenterie di solai in acciaio, scale metalliche, strutture di copertura, telai serramenti, supporti impianti.
 - **Vantaggi:** La tolleranza esplicita evita il 'non entra': il carpentiere sa cosa aspettarsi e cosa consegnare; il collaudo ha un riferimento oggettivo.
 - **Limiti e attenzioni:** Confondere tolleranza dimensionale con tolleranza di posizionamento (GD&T) porta a pezzi buoni scartati o montaggi forzati.
-- **Costi ed economia:** Disegno di produzione di una scala metallica: 400-1.200 € a seconda della complessità; pezzo meccanico singolo molto meno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Disegno di produzione di una scala metallica: 400-1.200 € a seconda della complessità; pezzo meccanico singolo molto meno.
 - **Caso tipico:** Staffa di connessione tra trave acciaio e pilastro: disegno con tolleranze sui fori (+0,5 mm) ha permesso montaggio a secco senza rilavorazione di 120 staffe in un capannone logistico.
 - **Normativa:** UNI EN ISO 2768 (tolleranze generali); UNI EN ISO 1302 (rugosità); UNI EN ISO 2553 (saldature).
 - **Nota di cantiere:** Regola: in cantiere NON si 'adatta' mai un pezzo meccanico con la smerigliatrice senza aver avvisato il progettista: la tolleranza violata può essere strutturale.
@@ -140,7 +140,7 @@ Il metodo delle proiezioni ortogonali (Monge, fine '700) rappresenta un oggetto 
 - **Applicazioni:** Qualsiasi disegno architettonico o meccanico: piante, sezioni, prospetti, disegni di parti in officina.
 - **Vantaggi:** Dà informazioni complete e misurabili dall'oggetto: ogni quota è vera in scala, cosa che le prospettive non garantiscono.
 - **Limiti e attenzioni:** Le viste singole non mostrano la profondità: servono almeno 2-3 viste coordinate; i principianti sbagliano spesso l'allineamento tra pianta e alzati.
-- **Costi ed economia:** Nessun costo specifico: è il metodo base di ogni CAD 2D e 3D.
+- **Costi ed economia:** Ordini di grandezza indicativi: Nessun costo specifico: è il metodo base di ogni CAD 2D e 3D.
 - **Caso tipico:** Il classico esercizio accademico: disegnare un pezzo meccanico dalle tre viste (di fronte, di lato, dall'alto) e verificare che ogni spigolo corrisponda; errore tipico = linea mancante nel cambio di piano.
 - **Normativa:** UNI EN ISO 128-30 (viste); UNI EN ISO 5456 (proiezioni).
 - **Nota di cantiere:** In cantiere: la pianta e la sezione devono sempre essere allineate (stessa quota di riferimento) o chi esegue legge male i vani.
@@ -170,7 +170,7 @@ Il rilievo moderno dell'esistente: scanner laser terrestre (LiDAR) che misura mi
 - **Applicazioni:** Rilievo di fabbricati storici, verifica di deformazioni e saggi, as-built per retrofit, rilievo di facciate con telai e ponteggi difficili.
 - **Vantaggi:** Velocità e completezza: in giornata si rileva un intero edificio con dettaglio impossibile a mano; la nuvola è archivio permanente misurabile anche anni dopo.
 - **Limiti e attenzioni:** La nuvola di punti non è un disegno: serve la restituzione umana (interpretazione di cosa è muro, arredo, impalcatura); costo strumentale elevato.
-- **Costi ed economia:** Scansione giornaliera servizio: 800-2.500 € a seconda della superficie; drone + fotogrammetria facciate: 500-1.500 €; software di gestione nuvole incluso in molti CAD.
+- **Costi ed economia:** Ordini di grandezza indicativi: Scansione giornaliera servizio: 800-2.500 € a seconda della superficie; drone + fotogrammetria facciate: 500-1.500 €; software di gestione nuvole incluso in molti CAD.
 - **Caso tipico:** Rilievo laser scanner di una chiesa con volte: restituzione ha scoperto uno spostamento di 12 cm della chiave di volta rispetto ai disegni del '900, decisivo per il progetto di consolidamento.
 - **Normativa:** Riferimento tecnico UNI 11337 per l'informatizzazione (contesto BIM); specifiche IGM per i rilievi di precisione.
 - **Nota di cantiere:** Prima di ristrutturare senza disegni: il rilievo scanner paga sempre il suo costo alla prima muratura che 'non era dove sembrava'.
@@ -185,7 +185,7 @@ La scala è il rapporto tra disegno e realtà: edilizia usa soprattutto 1:50 e 1
 - **Applicazioni:** Scelta formato tavola: A1/A0 per tavole di progetto, A3 per dettagli e disegni di produzione, A4 per relazioni.
 - **Vantaggi:** Formati standardizzati = stampa, archiviazione e consultazione uniformi in tutto il mondo; copisterie e plotter lavorano solo con questi formati.
 - **Limiti e attenzioni:** A scale troppo piccole (1:200 per dettagli) le spessori diventano invisibili: il disegnatore tende a esagerare i spessori 'a mano' creando disegni falsi.
-- **Costi ed economia:** Costo copia A1 circa 3-6 €, plotter interno vs copisteria; archiviazione digitale (PDF/A) azzera il costo di conservazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo copia A1 circa 3-6 €, plotter interno vs copisteria; archiviazione digitale (PDF/A) azzera il costo di conservazione.
 - **Caso tipico:** Dettaglio cappotto-serramento eseguito in scala 1:5 su A3: leggibile, quotato, consegnabile direttamente al posatore senza interpretazioni.
 - **Normativa:** UNI EN ISO 5455 (scale); UNI EN ISO 216 / 5457 (formati foglio e disposizione).
 - **Nota di cantiere:** Regola: se in scala 1:50 due linee si sovrappongono, servono il dettaglio ingrandito e la quota, non la 'linea più grossa'.
@@ -215,7 +215,7 @@ Le tavole esecutive traducono il progetto definitivo in istruzioni operative: po
 - **Applicazioni:** Cantieri ordinari e grandi opere: sono il documento operativo quotidiano della direzione lavori e delle imprese.
 - **Vantaggi:** Minimizzano varianti e contenziosi: se è disegnato e quotato, è dovuto; se non è disegnato, l'impresa può legittimamente chiedere economie o eseguire a propria interpretazione.
 - **Limiti e attenzioni:** Produzione onerosa: un set esecutivo completo di una villa può richiedere 100-200 ore di tavolino; sottodimensionare questa fase è l'errore più pagato di tutto il settore.
-- **Costi ed economia:** Set esecutivo medio: 3.000-15.000 € di onorario a seconda della complessità; il risparmio di un set esiguo si ripaga con liti da 10 volte tanto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Set esecutivo medio: 3.000-15.000 € di onorario a seconda della complessità; il risparmio di un set esiguo si ripaga con liti da 10 volte tanto.
 - **Caso tipico:** Cantiere di una piscina: l'esecutivo quotava la pendenza di 1,5 cm/m verso i skimmer; l'impresa aveva 'sempre fatto 1 cm/m': la tavola ha chiuso la discussione in 5 minuti e la piscina funziona perfettamente.
 - **Normativa:** UNI 11352 (documenti di cantiere); capitolato speciale d'appalto (richiami incrociati).
 - **Nota di cantiere:** Il direttore dei lavori consegna in cantiere SOLO tavole con timbro e revisione corrente; le tavole senza firma sono bozze, non documenti.
@@ -235,7 +235,7 @@ Mettere in regola immobili irregolari: il valore economico della regolarità.
 - **Applicazioni:** Compravendite, successioni, mutui.
 - **Vantaggi:** L'immobile regolare vale il 10-20% in più: la regolarità è un investimento, non una burocrazia.
 - **Limiti e attenzioni:** L'abuso edilizio non sanabile rende l'immobile invendibile: i casi vanno analizzati uno per uno.
-- **Costi ed economia:** Verifica pre-acquisto: 200-500 €; pratica sanatoria: 500-2k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Verifica pre-acquisto: 200-500 €; pratica sanatoria: 500-2k€.
 - **Caso tipico:** Il mercato italiano delle 'case con abusi' e il problema della conformità nelle compravendite 2023+.
 - **Normativa:** TU edilizia; norme catastali.
 - **Nota di cantiere:** La prima regola: MAI comprare senza verifica catastale e urbanistica scritta. Il notaio chiede, ma la verifica tecnica spetta al tecnico: il notaio vede i documenti, il tecnico vede la realtà.
@@ -250,7 +250,7 @@ Il geometra in cantiere: misure, contabilità, stime di lavori da eseguire.
 - **Applicazioni:** Piccoli cantieri, ristrutturazioni, manutenzioni condominiali.
 - **Vantaggi:** Il geometra 'da cantiere' è il garante che le parti paghino per lavori fatti davvero.
 - **Limiti e attenzioni:** La contabilità richiede precisione documentale: le liti nascono da carta mancante.
-- **Costi ed economia:** Contabilità lavori: 2-4% del valore dei lavori; DL piccoli cantieri: 3-6%.
+- **Costi ed economia:** Ordini di grandezza indicativi: Contabilità lavori: 2-4% del valore dei lavori; DL piccoli cantieri: 3-6%.
 - **Caso tipico:** I cantieri di ristrutturazione con SAL mensili; i condomini con amministratori tecnici.
 - **Normativa:** D.Lgs 36/2023 (codice dei contratti pubblici) e DPR 207/2010 per la contabilità dei lavori pubblici; per il privato, prassi contrattuale (computo, SAL, perizie).
 - **Nota di cantiere:** La frase del cantiere: 'chi non misura non viene pagato'. La contabilità è la memoria del cantiere: senza di essa ogni pretesa diventa opinione.
@@ -265,7 +265,7 @@ Il perito nel tribunale: incarichi, responsabilità, come si scrive una consulen
 - **Applicazioni:** Contenziosi edilizi: difetti costruzione, confini, danni da vicino, sinistri.
 - **Vantaggi:** La CTU decide processi da milioni: il perito è un potere neutrale con responsabilità piena.
 - **Limiti e attenzioni:** Il ruolo richiede formazione specifica (obiettività, diritto processuale).
-- **Costi ed economia:** CTU edilizia: 1.500-8k€ per incarico; CTP: 800-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: CTU edilizia: 1.500-8k€ per incarico; CTP: 800-3k€.
 - **Caso tipico:** Le cause sui difetti di costruzione (decennale); le vertenze condominiali sui lavori.
 - **Normativa:** CPC artt. 191 ss; art. 2236 c.c. (responsabilità per cose scientifiche).
 - **Nota di cantiere:** Il consiglio del maestro: il CTU non 'favorisce' chi lo paga (non lo paga: lo paga il giudice). Chi entra in CTU pensando al cliente che l'ha proposto sbaglia mestiere e rischia il 2236.
@@ -280,7 +280,7 @@ Come è fatto e come funziona il catasto fondiario ed edilizio urbano.
 - **Applicazioni:** Pratiche catastali, compravendite, successioni, divisioni.
 - **Vantaggi:** Il catasto è la 'mappa proprietaria' d'Italia: ogni intervento edilizio passa da qui.
 - **Limiti e attenzioni:** Il catasto NON è aggiornato automaticamente: il disallineamento catastale/reale è la regola, non l'eccezione.
-- **Costi ed economia:** Visura catastale online: 1,35 € (gratis per i propri immobili); Docfa: registrazione gratuita.
+- **Costi ed economia:** Ordini di grandezza indicativi: Visura catastale online: 1,35 € (gratis per i propri immobili); Docfa: registrazione gratuita.
 - **Caso tipico:** Il catasto napoleonico (1807): la base di tutto quello che c'è oggi.
 - **Normativa:** DPR 1142/1949 (norme catastali); regolamento attuativo; Docfa software ufficiale.
 - **Nota di cantiere:** La prima verifica di ogni immobile: visura catastale + planimetria. Il 30% degli immobili italiani ha incongruenze: scoprirle PRIMA della vendita vale migliaia di euro.
@@ -295,7 +295,7 @@ Come si divide un bene comune: dall'eredita al frazionamento edilizio.
 - **Applicazioni:** Successioni, divisioni tra eredi, vendita di porzioni.
 - **Vantaggi:** La divisione ben fatta evita decenni di liti familiari: è geometria al servizio della pace civile.
 - **Limiti e attenzioni:** Le servitù (passaggi, viste) vanno pensate PRIMA di dividere, non dopo.
-- **Costi ed economia:** Divisione catastale: 300-800 €; divisione complessa con frazionamento: 1-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Divisione catastale: 300-800 €; divisione complessa con frazionamento: 1-3k€.
 - **Caso tipico:** Le divisioni di terreni agricoli ereditari; i frazionamenti di villini in villetta a schiera.
 - **Normativa:** Catasto: regole Docfa; edilizia: DPR 380/2001.
 - **Nota di cantiere:** L'LLM deve sapere: dividere NON è tagliare in due: è garantire che ogni parte sia autonomamente utilizzabile (accesso, servizi, rapporti).
@@ -310,7 +310,7 @@ Come si registra/rettifica un immobile al catasto: il software Docfa e le pratic
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni, variazioni (fusioni, frazionamenti).
 - **Vantaggi:** L'accatastamento regolare vale: l'immobile non accatastato ha mercato nullo.
 - **Limiti e attenzioni:** La distinzione catasto/urbanistica confonde tutti: sono due mondi paralleli che devono convergere.
-- **Costi ed economia:** Pratica Docfa da tecnico: 150-500 €; sanatoria catastale: 300-1.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pratica Docfa da tecnico: 150-500 €; sanatoria catastale: 300-1.000 €.
 - **Caso tipico:** Migliaia di pratiche Docfa quotidiane in Italia; le verifiche di conformità catastale nelle compravendite (2023-2024: requisito sempre più stringente).
 - **Normativa:** Do.C.Fa. (Documenti Catasto Fabbricati), applicativo ufficiale Agenzia delle Entrate: basi normative D.M. 2 gennaio 1998 n. 28, DPR 138/1998; Vademecum Docfa Agenzia delle Entrate; per la conformità urbanistica le norme del PRGC comunale.
 - **Nota di cantiere:** L'LLM deve distinguere: CONFORMITA' CATASTALE (il fabbricato è al catasto come è costruito) vs CONFORMITA' URBANISTICA (è costruito come autorizzato): due verifiche diverse, due professionisti, due esiti possibili.
@@ -325,7 +325,7 @@ Le pratiche edilizie che il cittadino (con tecnico) presenta: cosa serve per cos
 - **Applicazioni:** Ristrutturazioni, pratiche comunali, sanatorie, compravendite.
 - **Vantaggi:** Sapere quale pratica serve evita multe e demolizioni: l'errore amministrativo costa più dell'errore tecnico.
 - **Limiti e attenzioni:** Le differenze regionali e comunali (vari beni: regolamenti edilizi comunali diversi).
-- **Costi ed economia:** Pratica CILA/SCIA da tecnico: 300-800 €; PdC: 1.500-5k€; sanatoria: 1.000-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pratica CILA/SCIA da tecnico: 300-800 €; PdC: 1.500-5k€; sanatoria: 1.000-3k€.
 - **Caso tipico:** Il TU edilizia 2001 che ha semplificato (teoricamente) tutto.
 - **Normativa:** DPR 380/2001; regolamenti edilizi comunali.
 - **Nota di cantiere:** Regola d'oro per l'LLM: prima di dire 'serve il permesso', verificare la norma regionale e il regolamento comunale: in edilizia il dettaglio locale manda in archivio le generalità nazionali.
@@ -340,7 +340,7 @@ Come si fa una stima credibile: ricerca comparazioni, correzioni, conclusione.
 - **Applicazioni:** Perizie per mutui, compravendite private, contenziosi.
 - **Vantaggi:** Il metodo comparativo è il reale standard: i prezzi si dimostrano con simili venduti, non con teorie.
 - **Limiti e attenzioni:** I portali danno prezzi CHIESTI, non prezzi REALI: il correttivo di negoziazione (5-15%) è d'obbligo.
-- **Costi ed economia:** Software di stima (banche dati): abbonamenti 500-2k€/anno; la stima manuale resta validissima.
+- **Costi ed economia:** Ordini di grandezza indicativi: Software di stima (banche dati): abbonamenti 500-2k€/anno; la stima manuale resta validissima.
 - **Caso tipico:** Le perizie dei tribunali (CTU); le stime delle banche per i mutui (con standard interni).
 - **Normativa:** Linee guida OMI; IVS (International Valuation Standards).
 - **Nota di cantiere:** L'LLM deve citare sempre il range (min-med-max) mai il numero secco: la stima è un intervallo di probabilità, e dire 'vale 250.000 €' è da incapaci professionali.
@@ -355,7 +355,7 @@ La scienza del valore: costrutto, finalità, metodi.
 - **Applicazioni:** Perizie, compravendite, espropri, successioni, garanzie bancarie.
 - **Vantaggi:** Il valore non è un'opinione: è un'applicazione di metodo su dati di mercato.
 - **Limiti e attenzioni:** I dati OMI sono mediane comunali: il valore puntuale richiede correttivi (stato, piano, esposizione).
-- **Costi ed economia:** Perizia estimativa: 300-800 € per immobile ordinario; perizie giudiziarie: 1-3k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Perizia estimativa: 300-800 € per immobile ordinario; perizie giudiziarie: 1-3k€.
 - **Caso tipico:** Le quotazioni OMI pubbliche (Agenzia delle Entrate); il mercato immobiliare italiano 2024-2025 in ripresa.
 - **Normativa:** 'linee guida OMI'; Codice deontologico dei periti.
 - **Nota di cantiere:** La frase fondamentale dell'estimo: 'il valore è il prezzo probabile in una vendita normale tra parti consapevoli'. Chi stima un valore senza dati di mercato compaRABILI non stima: racconta.
@@ -370,7 +370,7 @@ Il rilievo che produce nuvole di punti e modelli 3D fotorealistici.
 - **Applicazioni:** Beni architettonici, impianti industriali, cantieri, frane, forensi (incidenti).
 - **Vantaggi:** Il rilievo 3D cattura 'tutto': nulla resta non misurato; il BIM reverse-engineering nasce qui.
 - **Limiti e attenzioni:** I dati sono enormi (GB): servono hardware e competenze di gestione.
-- **Costi ed economia:** Scanner giornata lavoro: 800-2.000 €; fotogrammetria drone: 300-800 €/intervento.
+- **Costi ed economia:** Ordini di grandezza indicativi: Scanner giornata lavoro: 800-2.000 €; fotogrammetria drone: 300-800 €/intervento.
 - **Caso tipico:** Il rilievo scanner del Colosseo; il rilievo 3D delle cattedrali per la manutenzione.
 - **Normativa:** Nessuna norma armonizzata specifica (prassi professionali).
 - **Nota di cantiere:** Per il futuro: il rilievo 3D sarà lo standard (costi in calo del 90% in 10 anni). Il geometra che non sa gestire una nuvola di punti sarà fuori mercato entro il 2030.
@@ -385,7 +385,7 @@ Come funziona il 'GPS' dei cantieri e quando non funziona.
 - **Applicazioni:** Tracciamenti, rilievi di grandi aree, controllo lavori, precision agriculture.
 - **Vantaggi:** Il GNSS RTK ha rivoluzionato il tracciamento: 1 uomo fa il lavoro di 3 in un decimo del tempo.
 - **Limiti e attenzioni:** La dipendenza dal cielo: in città densa e sotto i ponti il GNSS è inaffidabile.
-- **Costi ed economia:** Rover RTK: 5-20k€; servizi di rete (es. regioni italiane): abbonamenti 500-2k€/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rover RTK: 5-20k€; servizi di rete (es. regioni italiane): abbonamenti 500-2k€/anno.
 - **Caso tipico:** Le reti GNSS regionali italiane (gratuite o a canone); il tracciamento di strade e linee elettriche.
 - **Normativa:** Standard RTCM per le correzioni.
 - **Nota di cantiere:** Regola: il GNSS dà la posizione del rover, non del punto da tracciare: la stadia deve essere livellata e il punto marcato corretto. Il cm di precisione si perde in un secondo di distrazione.
@@ -400,7 +400,7 @@ Il ruolo del geometra nella filiera edilizia: cosa può fare, cosa deve sapere, 
 - **Applicazioni:** Studi tecnici, imprese, pubbliche amministrazioni, tribunali.
 - **Vantaggi:** Il geometra è il tecnico 'a tutto campo' dell'edilizia italiana: nessun altro professionista copre così tante fasi.
 - **Limiti e attenzioni:** Il rischio di dispersione: specializzarsi (catasto? estimo? DL?) è la risposta.
-- **Costi ed economia:** Studio di progettazione: 20-100k€/anno di fatturato; onorari DL: 2-4% dei lavori.
+- **Costi ed economia:** Ordini di grandezza indicativi: Studio di progettazione: 20-100k€/anno di fatturato; onorari DL: 2-4% dei lavori.
 - **Caso tipico:** Il geometra italiano come 'general practitioner' dell'edilizia, riconosciuto in pochi altri paesi.
 - **Normativa:** DPR 380/2001 (TU edilizia) per i ruoli; legge 3/2018 per le professioni tecniche.
 - **Nota di cantiere:** L'AI non sostituisce il geometra: sostituisce il geometra che non sa usare l'AI. La stima, il catasto e il DL restano ad esercizio di responsabilità.
@@ -415,7 +415,7 @@ Come si esegue un rilievo completo: poligonale, battute, elaborazione.
 - **Applicazioni:** Rilievi di terreni, fabbricati, strade, reti.
 - **Vantaggi:** Il rilievo ben fatto è la base di ogni progetto: errori di rilievo = errori di progetto = errori in cantiere.
 - **Limiti e attenzioni:** La compensazione richiede giudizio: i software non decidono quali battute sono sbagliate.
-- **Costi ed economia:** Rilievo edificio 200 m2: 400-1.200 €; rilievo terreno 1 ha: 300-800 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rilievo edificio 200 m2: 400-1.200 €; rilievo terreno 1 ha: 300-800 €.
 - **Caso tipico:** Rilievi per pratiche catastali (Docfa); rilievi per certificazioni energetiche.
 - **Normativa:** Norme UNI rilievi; prassi catastali Agenzia delle Entrate.
 - **Nota di cantiere:** Il controllo minimo: la chiusura della poligonale (l'errore di chiusura deve essere entro 1/10.000): chi non controlla la chiusura non ha fatto un rilievo, ha fatto una passeggiata.
@@ -430,7 +430,7 @@ La cassetta degli attrezzi: come funzionano e quando usarli.
 - **Applicazioni:** Rilievi di frazionamento, tracciamenti, rilievi esistenti, monitoraggi.
 - **Vantaggi:** Ogni strumento ha il suo ambito: il GNSS non va in centro città, la stazione totale non va su aree vaste.
 - **Limiti e attenzioni:** Il costo degli strumenti: chi compra sbagliato strumento perde in prestazioni.
-- **Costi ed economia:** Stazione totale: 8-40k€; GNSS RTK: 5-20k€; livello: 500-3k€; scanner: 15-60k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Stazione totale: 8-40k€; GNSS RTK: 5-20k€; livello: 500-3k€; scanner: 15-60k€.
 - **Caso tipico:** I rilievi GNSS delle grandi reti; lo scanner laser per i beni storici complessi.
 - **Normativa:** Nessuna norma specifica (tarature annuali consigliate).
 - **Nota di cantiere:** La combinazione GNSS+stazione totale risolve il 95% dei rilievi ordinari: chiunque altro strumento è specializzazione.
@@ -445,7 +445,7 @@ Misurare la terra: coordinate, quote, riferimenti, errori.
 - **Applicazioni:** Ogni rilievo e ogni posizionamento in cantiere.
 - **Vantaggi:** Senza sistemi di riferimento non esiste misura: ogni numero topografico ha bisogno del suo 'rispetto a cosa'.
 - **Limiti e attenzioni:** La differenza tra precisione (risoluzione) e accuratezza (vicinanza al vero) è la causa classica di errori catastrofici.
-- **Costi ed economia:** Nessun costo: concetti + strumenti (da 500 € di GNSS rover).
+- **Costi ed economia:** Ordini di grandezza indicativi: Nessun costo: concetti + strumenti (da 500 € di GNSS rover).
 - **Caso tipico:** La fuso Roma 1940 ancora usata nei documenti catastali storici italiani.
 - **Normativa:** UNI per rilievi topografici; IGM per la rete geodetica nazionale.
 - **Nota di cantiere:** Prima regola: chiedere SEMPRE in che sistema di coordinate è il dato. Un punto 'giusto' nel sistema sbagliato è sbagliato di 100 m.

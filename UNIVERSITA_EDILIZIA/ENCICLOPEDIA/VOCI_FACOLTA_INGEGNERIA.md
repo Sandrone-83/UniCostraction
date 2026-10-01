@@ -375,7 +375,7 @@ Nel legno tutto avviene nelle connessioni: il legno è anisotropo (forte nella f
 - **Applicazioni:** Ogni struttura in legno: telai, X-Lam, coperture, capriate.
 - **Vantaggi:** La connessione giusta è invisibile e dura quanto la struttura: i collassi del legno avvengono quasi sempre nei nodi, non negli elementi.
 - **Limiti e attenzioni:** La connessione 'a occhio' del carpentiere tradizionale è il rischio maggiore in cantiere: ogni giunzione va disegnata.
-- **Costi ed economia:** Costo delle connessioni: 10-20% del costo strutturale; il risparmio sulle connessioni è il peggior risparmio possibile.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo delle connessioni: 10-20% del costo strutturale; il risparmio sulle connessioni è il peggior risparmio possibile.
 - **Caso tipico:** Verifica post-tempesta di un capannone in legno: tutti gli elementi integri, caduto per il distacco di una piastra mal fissata con viti troppo corte: la struttura era a posto, il nodo no.
 - **Normativa:** Eurocodice 5 (capo connessioni); ETA dei sistemi di fissaggio; marcatura CE viti strutturali (EN 14592).
 - **Nota di cantiere:** La regola d'oro: in cantiere, ogni connessione deve corrispondere a un disegno; se non c'è il disegno, non si fa.
@@ -390,7 +390,7 @@ Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano
 - **Applicazioni:** Case, edilizia residenziale, ampliamenti, sopralzi.
 - **Vantaggi:** Il cantiere asciutto è un vantaggio doppio: tempi rapidi e qualità (il legno non ama bagnarsi mentre lo monti).
 - **Limiti e attenzioni:** La logistica è critica: i pannelli grandi richiedono gru e spazi; un cantiere senza gru giusta blocca tutto.
-- **Costi ed economia:** Costo cantiere: il montaggio è il 20-30% del costo struttura; il risparmio di tempo porta via ponteggi, sicurezza e gestione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo cantiere: il montaggio è il 20-30% del costo struttura; il risparmio di tempo porta via ponteggi, sicurezza e gestione.
 - **Caso tipico:** Casa unifamiliare: montaggio della struttura in 6 giorni lavorativi, chiusa al tetto in 3 settimane; la casa 'gemella' in muratura dello stesso costruttore: 5 mesi alla stessa fase.
 - **Normativa:** Piano di montaggio del produttore; controllo qualità interno; sicurezza cantieri (più leggero, meno rischi).
 - **Nota di cantiere:** La regola d'oro del cantiere legno: il telo copre tutto ciò che non è ancora coperto, e ogni vite va a coppia controllata con segno a matita.
@@ -420,7 +420,7 @@ Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compet
 - **Applicazioni:** Imprese che valutano il passaggio al legno, investitori, committenti pubblici con vincoli ambientali.
 - **Vantaggi:** Il totale costo d'opera del legno è competitivo: chi guarda solo il prezzo della struttura sbaglia il confronto.
 - **Limiti e attenzioni:** La filiera è più corta e meno 'blindabile': i forti del legno in produzione sono pochi, i prezzi volatili.
-- **Costi ed economia:** Costi: casa in legno chiavi in mano: 1.800-2.800 €/m² (comparabile alla muratura di qualità); la struttura sola: voci precedenti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: casa in legno chiavi in mano: 1.800-2.800 €/m² (comparabile alla muratura di qualità); la struttura sola: voci precedenti.
 - **Caso tipico:** Confronto trasparente presentato a un committente (tabella costi-tempi-consumi legno vs c.a.): la scelta è caduta sul legno non per 'green' ma per il totale costo d'opera inferiore del 8%.
 - **Normativa:** Nessuna norma cogente; dati di mercato (piazze borsa legno, studi settore).
 - **Nota di cantiere:** Insegnare al LLM il confronto 'totale costo d'opera': chi vende il legno sul solo prezzo struttura perde, chi lo vende su tempi + consumi + ambiente vince.
@@ -435,7 +435,7 @@ Il legno è il più antico dei materiali da costruzione e il più moderno: rinno
 - **Applicazioni:** Case unifamiliari, edilizia residenziale, scuole, edifici a elevata sostenibilità, sopralzi e ampliamenti.
 - **Vantaggi:** Il legno ben progettato dura come il calcestruzzo: con la metà del peso, la metà del tempo di cantiere e la CO2 sequestrata.
 - **Limiti e attenzioni:** Il pregiudizio 'il legno brucia e marcisce' è superato tecnicamente ma vivo nel mercato: serve comunicazione e dettagli corretti.
-- **Costi ed economia:** Costo struttura in legno: 250-450 €/m² di superficie (ordini di grandezza); il gap si chiude nei tempi e nei consumi energetici.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo struttura in legno: 250-450 €/m² di superficie (ordini di grandezza); il gap si chiude nei tempi e nei consumi energetici.
 - **Caso tipico:** Casa in X-Lam di 180 m²: cantiere di 4 mesi contro i 10 della muratura equivalente; i consumi invernali misurati sono un terzo inferiori alla casa di confine in calcestruzzo.
 - **Normativa:** NTC (Eurocodice 5 in Italia); UNI EN 1995 (progettazione legno); marcatura CE dei prodotti strutturali.
 - **Nota di cantiere:** La prima battaglia del progettista in legno è culturale: il cliente chiede 'sicurezza contro fuoco e umidità' — le risposte esistono e sono normate.
@@ -450,7 +450,7 @@ Il legno brucia in superficie ma ha un superpotere: carbonizza a velocità nota 
 - **Applicazioni:** Ogni edificio in legno: residenziale, pubblico, industriale.
 - **Vantaggi:** Il legno non è più 'il materiale che brucia' ma 'il materiale che resiste al fuoco in modo calcolabile': il grattacielo in legno (18 piani, Mjøstårnet in Norvegia) esiste e ha superato le verifiche al fuoco.
 - **Limiti e attenzioni:** La comunicazione resta difficile: dire 'il legno resiste al fuoco' senza spiegare il meccanismo non convince nessuno.
-- **Costi ed economia:** Costo protezione: il dimensionamento al fuoco è già nel progetto; i rivestimenti aggiungono 10-30 €/m² dove richiesti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo protezione: il dimensionamento al fuoco è già nel progetto; i rivestimenti aggiungono 10-30 €/m² dove richiesti.
 - **Caso tipico:** Ufficio in X-Lam con pareti a vista trattate: la certificazione REI 60 ottenuta con il calcolo della carbonizzazione, senza intonaci; il cliente ha accettato il legno 'perché il progettista ha spiegato il fuoco'.
 - **Normativa:** Eurocodice 5 parte fuoco; UNI EN 13501 (classi); normativa prevenzione incendi.
 - **Nota di cantiere:** La formula da insegnare: 'il legno brucia il suo coprifuoco, l'acciaio cede improvvisamente: il legno al fuoco è prevedibile, l'acciaio no (se non protetto)'.
@@ -510,7 +510,7 @@ Il telaio in legno (platform framing, balloon) è il sistema a intelaiatura: tel
 - **Applicazioni:** Villette, case unifamiliari, piccoli edifici residenziali, sopralzi leggeri.
 - **Vantaggi:** Il telaio è il legno più accessibile: costi contenuti, posa con squadre locali, adattabilità totale alla geometria.
 - **Limiti e attenzioni:** La precisione artigianale è il limite: il telaio mal posato (fuori squadra, pannelli storti) perde le prestazioni teoriche.
-- **Costi ed economia:** Costi: struttura telaio 180-350 €/m²; la posa richiede carpenteria qualificata.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: struttura telaio 180-350 €/m²; la posa richiede carpenteria qualificata.
 - **Caso tipico:** Sopralzo in telaio leggero su edificio esistente: il peso ridotto del 70% ha evitato il rinforzo della struttura esistente; i tempi di cantiere sono stati un terzo della soluzione in acciaio-valutata.
 - **Normativa:** Eurocodice 5; norme sulle costruzioni in legno (UNI); marcatura CE pannelli OSB (EN 300).
 - **Nota di cantiere:** Il telaio vive di precisione: il montante dritto e il pannello ben fissato valgono più di ogni altra cosa.
@@ -540,7 +540,7 @@ L'X-Lam (cross laminated timber) è il pannello di legno incrociato: listelli so
 - **Applicazioni:** Edifici residenziali multi-piano, scuole, uffici, edilizia con struttura a vista.
 - **Vantaggi:** Il cantiere X-Lam è un cantiere industriale: i pannelli arrivano tagliati, forati e numerati, si montano in giorni con gru e squadre piccole.
 - **Limiti e attenzioni:** Il costo al metro quadro è più alto della muratura tradizionale (ordine +20-40%); il gap si recupera in tempi, precisione e consumi.
-- **Costi ed economia:** Costi: pannello X-Lam 40-90 €/m² (spessori standard); struttura completa 250-450 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: pannello X-Lam 40-90 €/m² (spessori standard); struttura completa 250-450 €/m².
 - **Caso tipico:** Edificio scolastico in X-Lam a tre piani: montaggio della struttura in 3 settimane; il legno a vista nelle aule ha migliorato la percezione dello spazio e la qualità dell'ambiente dichiarata da studenti e insegnanti.
 - **Normativa:** Eurocodice 5 / NTC; marcatura CE EN 13986 (X-Lam); specifiche produttori (Holz, Stora Enso,Mayr-Melnhof come riferimenti europei).
 - **Nota di cantiere:** La regola: l'X-Lam si progetta CON il produttore (sistemi, connessioni, trasporti): il modello 3D nasce già costruibile.
@@ -560,7 +560,7 @@ Le strutture miste sfruttano la collaborazione acciaio-calcestruzzo: travi con p
 - **Applicazioni:** Edifici per uffici, scuole, ospedali, ampliamenti su edifici esistenti (l leggerezza), ponti in acciaio-calcestruzzo.
 - **Vantaggi:** L' altezza della struttura si riduce del 20-30% rispetto al c.a. puro: su edifici alti significano piani in più o costi di involucro ridotti.
 - **Limiti e attenzioni:** La collaborazione richiede controllo di posa (connettori saldati correttamente, getto senza vuoti): il difetto è nascosto.
-- **Costi ed economia:** Costi: solette collaboranti complete 40-90 €/m²; il risparmio è nei tempi e nell'altezza più che nel solo costo materiale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: solette collaboranti complete 40-90 €/m²; il risparmio è nei tempi e nell'altezza più che nel solo costo materiale.
 - **Caso tipico:** Ampliamento di un edificio con solette collaboranti su struttura esistente: il carico aggiuntivo ridotto del 40% rispetto alla soluzione in c.a. ha permesso il rifacimento senza rinforzo delle fondazioni, con risparmio complessivo del 25%.
 - **Normativa:** Eurocodice 4 (strutture composte); norme sui connettori e sulle lamiere grecate collaborative.
 - **Nota di cantiere:** Domanda da porsi: 'dove il c.a. puro pesa troppo e l'acciaio puro costa troppo?' — lì vive il composito.
@@ -575,7 +575,7 @@ Oltre alle membrane, le grandi luci si coprono con gusci sottili (calcestruzzo, 
 - **Applicazioni:** Capannoni industriali, hangar, palazzetti, coperture di grandi superfici commerciali.
 - **Vantaggi:** Le coperture leggere riducono il peso permanente e quindi le strutture portanti e le fondazioni: risparmio strutturale a catena.
 - **Limiti e attenzioni:** La tenuta all'acqua delle grandi luci è critica: dilatazioni termiche, condensa e punti singoli (luci, camini) richiedono progetto attento.
-- **Costi ed economia:** Costi indicativi: pannelli sandwich 30-70 €/m², reticolari 80-200 €/m², gusci su progetto; montaggio incluso nel computo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi indicativi: pannelli sandwich 30-70 €/m², reticolari 80-200 €/m², gusci su progetto; montaggio incluso nel computo.
 - **Caso tipico:** Capannone con reticolare 40×80: la verifica in fase di progetto del camino passante (solaio forato, anello di tenuta) ha evitato la classica infiltrazione camino che invece è emersa nel capannone 'gemello' progettato senza dettaglio.
 - **Normativa:** Eurocodice 3 (acciaio), Eurocodice 2 (calcestruzzo); normativa neve UNI EN 1991-1-3.
 - **Nota di cantiere:** Nelle coperture leggere il diavolo è nei dettagli: ogni foro, ogni attraversamento, ogni giunzione è un futuro punto di infiltrazione se non disegnato.
@@ -620,7 +620,7 @@ Le opere speciali (ponti, tensostrutture, gusci, opere marittime) si affidano al
 - **Applicazioni:** Ponti esistenti, opere critiche, edifici monitorati post-sisma, strutture con vincoli assicurativi.
 - **Vantaggi:** Il monitoraggio trasforma la manutenzione da 'a guasto' a 'previsione': si interviene sul componente giusto prima che ceda.
 - **Limiti e attenzioni:** I sensori senza interpretazione sono numeri morti: serve il professionista che legge e decide.
-- **Costi ed economia:** Costo: monitoraggio ponte medio 10.000-50.000 € iniziale + gestione annua; il confronto: chiusura imprevista di un viadotto: costi sociali enormi.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: monitoraggio ponte medio 10.000-50.000 € iniziale + gestione annua; il confronto: chiusura imprevista di un viadotto: costi sociali enormi.
 - **Caso tipico:** Viadotto monitorato dopo un sisma: l'accelerometro ha registrato il superamento delle soglie su un appoggio; ispezione mirata entro 48 ore, sostituzione del dispositivo e riapertura in una settimana invece di mesi di verifiche generalizzate.
 - **Normativa:** Linee guida MIT per la classificazione e la sorveglianza dei ponti; norme sui controlli non distruttivi (UNI EN ISO).
 - **Nota di cantiere:** L'opera speciale moderna si consegna con il 'fascicolo della salute' come una persona: esami periodici, storia, previsioni.
@@ -635,7 +635,7 @@ Le opere marittime convivono con l'acqua di mare: dighe foranee e frangiflutti (
 - **Applicazioni:** Porti turistici, peschecci, difese costiere, banchine industriali, cantieri navali.
 - **Vantaggi:** Una buona opera marittime protegge un territorio per decenni: il valore è nel servizio continuo (porto operativo, spiaggia preservata).
 - **Limiti e attenzioni:** Il mare risponde in anni, non in giorni: le opere sbagliate degradano lentamente ma inesorabilmente e i danni a terzi (erosione della costa vicina) sono oggetto di contenziosi lunghissimi.
-- **Costi ed economia:** Costi: molto variabili (opere marittime: migliaia di euro al metro lineare); la manutenzione è il 30-50% del costo del ciclo di vita.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: molto variabili (opere marittime: migliaia di euro al metro lineare); la manutenzione è il 30-50% del costo del ciclo di vita.
 - **Caso tipico:** Porto turistico: il frangiflutti orientato seguendo l' analisi delle onde dominanti ha mantenuto la calma in banchina con mare forza 7; il porto 'gemello' con orientamento sbagliato richiede chiusura con mare forza 5.
 - **Normativa:** Specifiche tecniche per le opere marittime (direttive MIT); per le dighe foranee le Istruzioni tecniche per la progettazione delle dighe marittime (CSLP 23/09/1994 n. 156); Eurocodice 7 (geotecnica) e Eurocodice 8 (sismica); norme sulla corrosione (ISO 12944 per le protezioni).
 - **Nota di cantiere:** La prima legge dell'ingegneria marittima: rispettare il mare come un carico vivo che cambia — mai combatterlo con la rigidità dove serve la porosità.
@@ -665,7 +665,7 @@ La prefabbricazione sposta la produzione dal cantiere allo stabilimento: element
 - **Applicazioni:** Edilizia residenziale di serie, uffici, scuole, ospedali modulari, capannoni.
 - **Vantaggi:** Il cantiere industriale è più veloce del 30-50% e con scarti ridotti: il tempo è denaro e la qualità di serie batte la posa artigianale su grandi numeri.
 - **Limiti e attenzioni:** Il progetto deve essere 'industriale' da subito: cambiare in corso d'opera costa come ridisegnare la fabbrica.
-- **Costi ed economia:** Costi: elemento precast tipico 100-300 €/m³ posato (ordine di grandezza); il vantaggio cresce con la ripetizione (quantità).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: elemento precast tipico 100-300 €/m³ posato (ordine di grandezza); il vantaggio cresce con la ripetizione (quantità).
 - **Caso tipico:** Edificio scolastico con 60% elementi prefabbricati: cantiere di 9 mesi invece di 14, con zero fessurazioni da ritiro e qualità superficiale superiore grazie allo stampo in stabilimento.
 - **Normativa:** Normativa precast (Eurocodice 2 parte precompresso e specifiche UNI); D.M. requisiti energetici (se involucro); specifiche produttori.
 - **Nota di cantiere:** La regola: il prefabbricato premia chi progetta per il sistema dall'inizio e punisce chi lo usa come 'scorciatoia' a progetto avviato.
@@ -680,7 +680,7 @@ Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idros
 - **Applicazioni:** Acquedotti, serbatoi antincendio, vasche di depurazione, serbatoi industriali, vasche agricole, piscine tecniche.
 - **Vantaggi:** La tenuta è tutto: un serbatoio che perde è un costo permanente di gestione e un rischio idrogeologico.
 - **Limiti e attenzioni:** Le vasche interrate non ispezionabili degradano invisibilmente: la manutenzione preventiva richiede accessi e botole.
-- **Costi ed economia:** Costi: serbatoio c.a. interrato 500-1.500 €/m³; GRP superficiale 150-400 €/m³ (ordini di grandezza).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: serbatoio c.a. interrato 500-1.500 €/m³; GRP superficiale 150-400 €/m³ (ordini di grandezza).
 - **Caso tipico:** Serbatoio antincendio di un'industria: la verifica del troppopieno verso lo scarico di sicurezza (e non verso l'esterno del terreno) ha evitato un allagamento chimico in caso di guasto della galleggiante.
 - **Normativa:** Normativa idraulica (D.Lgs 152/2006); Eurocodice 8 per le vasche in sisma; specifiche settore acquedottistico.
 - **Nota di cantiere:** Domande da porre: cosa contiene? chi lo ispeziona e come? cosa succede se trabocca o si rompe? — tre risposte progettano il serbatoio.
@@ -725,7 +725,7 @@ Il vetro strutturale porta carichi: facciate a montanti e traversi, coperture re
 - **Applicazioni:** Facciate trasparenti, coperture di atri, ponti e passerelle pedonali di pregio, scale interne, balaustre.
 - **Vantaggi:** La trasparenza strutturale è l'estetica massima: luce e leggerezza impossibili con altri materiali.
 - **Limiti e attenzioni:** Il vetro strutturale non perdona: un difetto di bordo o un foro mal posizionato è una rottura certa a mesi di distanza; la manutenzione (guarnizioni, silicone) è obbligatoria e specialistica.
-- **Costi ed economia:** Costi: vetro strutturale temperato stratificato: 150-400 €/m² (ultra performante di più); il sistema completo di facciata strutturale: 500-1.200 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: vetro strutturale temperato stratificato: 150-400 €/m² (ultra performante di più); il sistema completo di facciata strutturale: 500-1.200 €/m².
 - **Caso tipico:** Copertura atrio in vetro: la scelta del film SGP (rigido) invece del PVB standard ha permesso lastre più leggere con la stessa sicurezza; dopo 10 anni, zero fratture spontanee contro la media storica del 1% del PVB.
 - **Normativa:** Normativa vetro strutturale (UNI e linee guida nazionali; Eurocodice con documenti applicativi); norma sui prodotti vetro (EN 12150 temperato, EN 14449 stratificato).
 - **Nota di cantiere:** Le tre regole del vetro strutturale: bordi lavorati perfetti, fori solo dove il progettista li ha messi, nessuna concentrazione di tensione mai.
@@ -740,7 +740,7 @@ Le tensostrutture coprono grandi luci con materiale teso (membrane PVC o PTFE, c
 - **Applicazioni:** Stadi, tensostrutture per eventi, coperture piscine e centri sportivi, pensiline, coperture industriali leggere.
 - **Vantaggi:** Il rapporto peso/luce è imbattibile: grandi coperture con fondamenta ridotte e tempi di montaggio rapidissimi.
 - **Limiti e attenzioni:** Le membrane hanno vita utile definita (sostituzione oce ogni 15-30 anni) e sono sensibili a tagli, fuochi dolci e vandalismi.
-- **Costi ed economia:** Costo indicativo: 250-600 €/m² di copertura secondo complessità (ordine di grandezza); la manutenzione è la voce critica.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo indicativo: 250-600 €/m² di copertura secondo complessità (ordine di grandezza); la manutenzione è la voce critica.
 - **Caso tipico:** Tensostruttura su centro sportivo: copertura di 60×90 m in 4 mesi di cantiere; la verifica della pretensione annuale ha mantenuto la forma perfetta dopo 8 anni e due nevicate eccezionali.
 - **Normativa:** Eurocodice 1 (azioni) e prassi per membrane; normativa antincendio delle membrane (reazione al fuoco certificata); specifiche produttori.
 - **Nota di cantiere:** Regola: in tensostruttura tutto sta nei dettagli di bordo e ancoraggio: il 90% dei guasti nasce lì.
@@ -960,7 +960,7 @@ La baia di carico è il collo di bottiglia logistico: la zona dove i camion cari
 - **Applicazioni:** Ogni magazzino e centro di distribuzione.
 - **Vantaggi:** La baia efficiente elimina le attese dei camion (il costo nascosto più grande della logistica): i camion scaricano in 30 minuti invece di 2 ore.
 - **Limiti e attenzioni:** La baia mal attrezzata (senza leveler, senza sigillo) perde energia (freddo/caldo), espone alla pioggia e ferma i cicli di lavoro.
-- **Costi ed economia:** Costi: dock leveler 3.000-8.000 €, portone sezionale industriale 3.000-7.000 €, la baia completa: 10.000-25.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: dock leveler 3.000-8.000 €, portone sezionale industriale 3.000-7.000 €, la baia completa: 10.000-25.000 €.
 - **Caso tipico:** Centro logistico con baie dotate di leveler e sigilli: i tempi di sosta camion sono calati del 40% e i consumi di climatizzazione del molo del 25% (meno infiltrazioni d'aria).
 - **Normativa:** Normativa macchine (dock leveler CE); specifiche di settore; normativa antincendio per i moli.
 - **Nota di cantiere:** La domanda da logistica: 'quanti camion al giorno e quanto tempo stanno fermi?' — la risposta dimensiona le baie e le attrezzature.
@@ -975,7 +975,7 @@ Il capannone industriale è architettura minima massimizzata: una scatola con st
 - **Applicazioni:** Magazzini, officine, produzione, logistica, agricoltura industriale.
 - **Vantaggi:** Il capannone giusto è uno strumento di produzione: chi progetta 'una tettoia' per un magazzino che lavora a turni paga poi il triplo per adattarla.
 - **Limiti e attenzioni:** L'economia spinge al minimo: il capannone 'troppo basso' o 'troppo stretto' blocca la crescita dell'azienda che lo usa.
-- **Costi ed economia:** Costi: capannone base 250-450 €/m² chiavi in mano; con uffici e finiture industriali di pregio: 500-900 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: capannone base 250-450 €/m² chiavi in mano; con uffici e finiture industriali di pregio: 500-900 €/m².
 - **Caso tipico:** Capannone logistico progettato sui flussi (ricevimento, stoccaggio, spedizione in linea): la produttività del magazzino è salita del 30% dopo il trasferimento; il capannone precedente 'a caso' richiedeva il doppio dei percorsi interni.
 - **Normativa:** Normativa capannoni (logistica, antincendio DM 2015, energetica); NTC per la struttura; normativa agro-industriale se applicabile.
 - **Nota di cantiere:** La prima domanda: 'cosa succede DENTRO questo capannone?' — la risposta decide altezze, luci, pavimenti e porte.
@@ -1020,7 +1020,7 @@ La luce industriale è produttività e sicurezza: gli impianti moderni a LED ad 
 - **Applicazioni:** Capannoni, magazzini, officine, celle frigorifere (apparecchi per freddo).
 - **Vantaggi:** La luce giusta nel punto giusto riduce gli errori di picking e gli infortuni: è un investimento produttivo, non una voce di consumo.
 - **Limiti e attenzioni:** L'illuminazione 'a giorno solo' nei magazzini interni crea zone d'ombra tra le scaffalature: gli errori di prelievo crescono.
-- **Costi ed economia:** Costi: impianto LED industriale 30-60 €/m²; il risparmio sui consumi: 50-70% rispetto ai corpi tradizionali.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: impianto LED industriale 30-60 €/m²; il risparmio sui consumi: 50-70% rispetto ai corpi tradizionali.
 - **Caso tipico:** Magazzino con illuminazione a sensori di presenza per corsie: il consumo elettrico dell'illuminazione è calato del 55% e gli errori di picking del 20% (confronto anno su anno).
 - **Normativa:** UNI EN 12464-1 (lux); CEI 64-8; normativa emergenza.
 - **Nota di cantiere:** La verifica rapida: 'il prelevatore legge il codice prodotto senza strizzare gli occhi?' — se no, l'illuminazione è sbagliata.
@@ -1065,7 +1065,7 @@ L'immobile industriale è una macchina da mantenere: la copertura (guaine, fissa
 - **Applicazioni:** Patrimoni industriali, logistica, produzione, immobili in affitto (il tenant e il landlord devono accordarsi).
 - **Vantaggi:** Il capannone mantenuto vale di più e ferma meglio il fitto: la manutenzione è reddito immobiliare.
 - **Limiti e attenzioni:** La logica 'si aggiusta quando si rompe' trasforma ogni guasto in fermo produzione.
-- **Costi ed economia:** Costi: manutenzione programmata: 5-10 €/m²/anno; il guasto non programmato: 3-5 volte tanto più fermo macchina.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: manutenzione programmata: 5-10 €/m²/anno; il guasto non programmato: 3-5 volte tanto più fermo macchina.
 - **Caso tipico:** Magazzino logistico con contratto annuale di manutenzione (copertura, portoni, pavimenti): dopo 15 anni l'immobile è 'come nuovo' e il fitto è al top di mercato; il capannone identico non mantenuto è in ristrutturazione a 12 anni.
 - **Normativa:** Nessuna norma cogente; prassi assicurative e contrattuali (i contratti di locazione industriale prevedono la manutenzione programmata).
 - **Nota di cantiere:** L'immobile industriale è un attrezzo di produzione: si mantiene come la macchina utensile.
@@ -1080,7 +1080,7 @@ Il pavimento industriale è una struttura: sopporta carrelli elevatori, scaffala
 - **Applicazioni:** Magazzini, officine, centri logistici, lavanderie industriali, celle frigorifere.
 - **Vantaggi:** Il pavimento giusto non si vede ma si sente: niente polveri, niente giunti spaccati, i carrelli che scorrono senza sbattere.
 - **Limiti e attenzioni:** Il difetto classico: il pavimento 'fissurato' per il ritiro non controllato e i bordi dei giunti che si sfaldano sotto le ruote: le macchine smontano e si rifanno metà pavimento a 5 anni.
-- **Costi ed economia:** Costi: pavimento industriale levigato: 35-70 €/m²; il rifacimento di una zona guasta costa il triplo del preventivo corretto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: pavimento industriale levigato: 35-70 €/m²; il rifacimento di una zona guasta costa il triplo del preventivo corretto.
 - **Caso tipico:** Magazzino con pavimento a giunti 5×5 m con resine di riempimento: dopo 8 anni di carrelli a turni continui, i giunti integri e il pavimento planarità perfetta; il magazzino vicino con giunti 'aperti': la manutenzione ha sostituito 1.200 m² di bordi in 6 anni.
 - **Normativa:** Norme pavimenti industriali (specifiche e linee guida; UNI 11714 per i pavimenti in calcestruzzo levigato); prescrizioni dei carrellisti (planarità).
 - **Nota di cantiere:** La regola: il pavimento industriale si progetta con chi ci lavora sopra (carrelli, scaffalature, macchinari) — non è un massetto, è una strada interna.
@@ -1095,7 +1095,7 @@ I portoni industriali chiudono i grandi varchi: sezionali (lastre che scorrono v
 - **Applicazioni:** Capannoni, magazzini, moli, officine, autorimesse industriali.
 - **Vantaggi:** Il portone giusto accelera i flussi: un portone rapido in un flusso continuo vale mezzo operaio in più.
 - **Limiti e attenzioni:** Il portone 'bloccato aperto' (guasto) annulla l'isolamento dell'intero capannone.
-- **Costi ed economia:** Costi: portone sezionale 3.000-7.000 €, rapido 4.000-10.000 €, manutenzione annua 200-500 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: portone sezionale 3.000-7.000 €, rapido 4.000-10.000 €, manutenzione annua 200-500 €.
 - **Caso tipico:** Cella frigorifera con portoni rapidi: la variazione di temperatura in cella è stata contenuta (+2 °C max all'apertura contro i +7 del portone precedente), con risparmio energetico misurabile e qualità del prodotto preservata.
 - **Normativa:** Normativa macchine (marcatura CE); specifiche produttori; normativa antincendio (i portoni tagliafuoco industriali hanno classi RE).
 - **Nota di cantiere:** La regola: il portone si sceglie sul traffico (aperture/ora) e sul clima (isolamento), mai solo sul prezzo.
@@ -1110,7 +1110,7 @@ Le scaffalature sono strutture metalliche portanti che trasformano il volume del
 - **Applicazioni:** Logistica, produzione, e-commerce, agricoltura, ferramenta industriale.
 - **Vantaggi:** La scaffalatura giusta raddoppia la capacità di stoccaggio a parità di superficie: il volume verticale è il terreno gratis.
 - **Limiti e attenzioni:** L'urto del carrello è la prima causa di crollo di scaffalature: senza protezioni di base, il rischio è quotidiano.
-- **Costi ed economia:** Costi: scaffalatura selettiva 40-90 €/posizione pallet (ordine di grandezza); il magazzino automatico: investimenti su progetto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: scaffalatura selettiva 40-90 €/posizione pallet (ordine di grandezza); il magazzino automatico: investimenti su progetto.
 - **Caso tipico:** Magazzino con scaffalature a gravità per il picking veloce: i tempi di preparazione ordini sono calati del 25%; la protezione anticrollo (bordi e basi rinforzate) ha eliminato i danni da urto che costavano 8.000 €/anno.
 - **Normativa:** Normativa scaffalature (EN 15512, EN 15620, verifiche periodiche); Eurocodice 3; normativa sicurezza sul lavoro (le scaffalature sono attrezzature di lavoro, verifica annuale).
 - **Nota di cantiere:** Regole: le scaffalature si progettano insieme al capannone (altezze, carichi, pavimenti) e si proteggono SEMPRE alla base.
@@ -1375,7 +1375,7 @@ Le formule del dimensionamento rapido delle fondazioni.
 - **Applicazioni:** Predimensionamento fondazioni, verifiche rapide, perizie.
 - **Vantaggi:** Il predimensionamento corretto della platea è un calcolo di 3 righe: la trattativa con il geotecnico parte da qui.
 - **Limiti e attenzioni:** Le formule cambiano con il tipo di terreno: sabbia, argilla, roccia parlano lingue diverse.
-- **Costi ed economia:** Le formule in EC7 e nei manuali.
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule in EC7 e nei manuali.
 - **Caso tipico:** Edificio N=2000 kN su platea: A ≥ 2000/150 ≈ 13,3 m² (platea 4×3,5 m a 150 kPa ammissibili).
 - **Normativa:** EC7.
 - **Nota di cantiere:** La platea è economica fino a ~150-200 kPa di terreno: oltre, i pali convengono. La soglia di scelta è una formula, non un'opinione.
@@ -1390,7 +1390,7 @@ Le formule del terreno: capire cosa regge e cosa spinge.
 - **Applicazioni:** Fondazioni, muri di sostegno, verifiche di scavo, consolidamenti.
 - **Vantaggi:** Le formule della geotecnica sono poche e potenti: la diagnosi del terreno inizia qui.
 - **Limiti e attenzioni:** I parametri (c, φ) vengono dalle indagini: la formula è giusta, i dati possono non esserlo.
-- **Costi ed economia:** Le formule in EC7 e nei manuali di geotecnica.
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule in EC7 e nei manuali di geotecnica.
 - **Caso tipico:** Sabbia (φ=30°): K_a = tan²(45−15) = 1/3: la spinta è un terzo di quella a riposo: il muro regge.
 - **Normativa:** EC7; NTC2018 cap. 6.
 - **Nota di cantiere:** La geotecnica è la scienza dei 'dipende': ogni formula vale per il terreno descritto. Prima delle formule, l'indagine: 5-10k€ di sondaggi valgono più di qualsiasi calcolo.
@@ -1420,7 +1420,7 @@ Le formule del legno lamellare: leggero ma esigente.
 - **Applicazioni:** Tetti, travi di copertura, capannati in legno, X-LAM.
 - **Vantaggi:** Il legno si calcola come l'acciaio ma con E molto più basso: spesso la freca (deformazione) e non la resistenza comanda la sezione.
 - **Limiti e attenzioni:** L'umidità e il ritiro vanno considerati nella freccia a lungo termine (fattore k_def).
-- **Costi ed economia:** Le formule nell'EC5 (pubblico).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule nell'EC5 (pubblico).
 - **Caso tipico:** Trave in legno 20×20, L=4 m, q=2 kN/m: M=4 kN·m; W=1333 cm³; σ=3 MPa << 16 MPa: la resistenza avanza; la freccia è il vero dimensionamento.
 - **Normativa:** EC5.
 - **Nota di cantiere:** La regola del pollice del legno: 'dimensiona la freccia, non la rottura'. Il 90% delle travi in legno è sovradimensionato a rottura e sottodimensionato a deformazione.
@@ -1435,7 +1435,7 @@ La verifica rapida dei muri portanti esistenti.
 - **Applicazioni:** Diagnosi di edifici esistenti, verifiche pre-intervento, perizie.
 - **Vantaggi:** La verifica a mano del muro in 10 minuti: chi sa farla riconosce subito il muro pericoloso.
 - **Limiti e attenzioni:** Le murature reali hanno variabilità enorme: serve il livello di conoscenza (LC).
-- **Costi ed economia:** Le formule nelle NTC2018 cap. 7 (pubbliche).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule nelle NTC2018 cap. 7 (pubbliche).
 - **Caso tipico:** Muro pieno 50 cm, h=3 m, N=100 kN/m: σ = 100e3/(1000·500) = 0,2 MPa << 1-2 MPa tipici: il muro regge la compressione, il problema è il sisma (taglio).
 - **Normativa:** NTC2018 cap. 7.
 - **Nota di cantiere:** La verifica del muro portante ha un ordine: 1) snellezza, 2) compressione, 3) taglio (sisma). Il sisma è quasi sempre il vincolo vero in Italia.
@@ -1480,7 +1480,7 @@ Le formule di base dell'ingegneria sismica: quanto trema l'edificio.
 - **Applicazioni:** Verifica sismica preliminare, valutazione esistente, spiegazione ai clienti.
 - **Vantaggi:** Il periodo è il 'battito cardiaco' dell'edificio: basso e tozzo vs alto e snello rispondono in modo opposto.
 - **Limiti e attenzioni:** Le formule sono semplificate: l'analisi completa è dinamica (spettri di risposta).
-- **Costi ed economia:** Le formule in NTC2018 cap. 7.3 (pubbliche).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule in NTC2018 cap. 7.3 (pubbliche).
 - **Caso tipico:** Edificio H=12 m in cls: T ≈ 0,075·12^0,75 ≈ 0,47 s (periodo breve: forza alta ma duttilità richiesta moderata).
 - **Normativa:** NTC2018; EC8.
 - **Nota di cantiere:** Regola sismica fondamentale: la forza sismica non è una forza esterna, è l'inerzia dell'edificio che accelera. L'edificio si scuote da sé: il progetto governa la risposta, non il terremoto.
@@ -1495,7 +1495,7 @@ La legge madre della statica: ogni corpo fermo ha somma di forze e momenti nulla
 - **Applicazioni:** Primo passo di OGNI calcolo strutturale, a mano o al computer.
 - **Vantaggi:** Tre equazioni risolvono tutti i problemi isostatici: il 70% delle strutture reali è verificabile a mano.
 - **Limiti e attenzioni:** Le strutture iperstatiche (incastri multipli) richiedono metodi aggiuntivi (deformazioni).
-- **Costi ed economia:** Il calcolo a mano delle reazioni: 5 minuti e zero software.
+- **Costi ed economia:** Ordini di grandezza indicativi: Il calcolo a mano delle reazioni: 5 minuti e zero software.
 - **Caso tipico:** Trave 6 m con q = 10 kN/m: reazioni 30 kN ciascuna; chiunque lo verifichi in un minuto.
 - **Normativa:** Statica dei corpi rigidi (testi classici).
 - **Nota di cantiere:** La prima verifica di ogni modello FEM: le reazioni devono eguagliare i carichi totali. Se ΣR ≠ Σcarichi, il modello ha un vincolo assente o un carico perso.
@@ -1525,7 +1525,7 @@ Le formule della valutazione: come si 'legge' la capacità di una struttura che 
 - **Applicazioni:** Diagnosi, perizie, adeguamenti, compravendite.
 - **Vantaggi:** Le formule del 'quanto regge ancora' sono le più richieste della professione italiana.
 - **Limiti e attenzioni:** Il valore da tabelle è prudente: può sottostimare il reale del 30-50% (da provare se l'intervento lo merita).
-- **Costi ed economia:** Le formule in NTC2018 cap. 8 e CNR-DT 200/2013 (pubbliche).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le formule in NTC2018 cap. 8 e CNR-DT 200/2013 (pubbliche).
 - **Caso tipico:** Cls con 3 carotaggi: f_m = 28 MPa, s = 3 MPa -> f_k = 28 − 1,64·3 = 23 MPa.
 - **Normativa:** NTC2018 cap. 8.
 - **Nota di cantiere:** La regola etica della valutazione: il livello di conoscenza va detto SEMPRE in relazione. Una valutazione LC1 con numeri certi è disonestà tecnica: 'valori assunti da tabelle, conoscenza parziale' va scritto.
@@ -1540,7 +1540,7 @@ Come si confronta l'azione con la resistenza: la regola del gioco del progetto m
 - **Applicazioni:** Ogni verifica strutturale firmata.
 - **Vantaggi:** Un metodo unico e trasparente: la sicurezza è nei coefficienti, non nei 'fattori di esperienza'.
 - **Limiti e attenzioni:** I coefficienti cambiano per materiale e per stato limite: le tabelle vanno consultate sempre.
-- **Costi ed economia:** Le NTC2018 riportano tutti i coefficienti (pubbliche).
+- **Costi ed economia:** Ordini di grandezza indicativi: Le NTC2018 riportano tutti i coefficienti (pubbliche).
 - **Caso tipico:** Verifica pilastro: N_Ed = 900 kN ≤ N_Rd = 1.200 kN -> verificato (margine 25%).
 - **Normativa:** NTC2018; EC0 (EN 1990).
 - **Nota di cantiere:** La verifica SLU non è 'passa/non passa': è un rapporto E_d/R_d. Un rapporto 0,98 e 0,50 sono tecnicamente diversi (margine) anche se entrambi 'verificati'.
@@ -1560,7 +1560,7 @@ Negli scavi sotto falda si abbassa il livello dell'acqua con pozzi d'emungimento
 - **Applicazioni:** Scavi per box, parcheggi interrati, cantine, canali, opere idrauliche; consolidamento temporaneo o permanente.
 - **Vantaggi:** Trasforma uno scavo 'in apnea' in uno scavo asciutto e sicuro: il lavoro procede e le verifiche sono numeriche e controllabili.
 - **Limiti e attenzioni:** In sabbie fini e limi il drenaggio è lento; l'abbassamento prolungato assesta il terreno drenato (vedi vicini); le autorizzazioni allo scarico possono bloccare il cantiere.
-- **Costi ed economia:** Impianto di abbassamento: 5.000-30.000 € in funzione del numero di pozzi e portate; gestione 500-2.000 €/settimana (energia, manutenzione); il reintegro dopo lo scavo è quasi sempre obbligatorio e va messo in conto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Impianto di abbassamento: 5.000-30.000 € in funzione del numero di pozzi e portate; gestione 500-2.000 €/settimana (energia, manutenzione); il reintegro dopo lo scavo è quasi sempre obbligatorio e va messo in conto.
 - **Caso tipico:** Scavo per garage interrato a 4 m sotto falda a 1,5 m: verifica a sifonamento non superata con fondo pieno; soluzione con sovrascavo alleggerito di sabbia e griglia filtrante sopra i getti, costo aggiuntivo 15.000 € su un garage da 35.000 € — il progettista che lo ha previso ha venduto tranquillità.
 - **Normativa:** NTC 2018 (verifiche di sollevamento e sifonamento); UNI EN 1997-1 (sezione dedicata alle pressioni idrauliche); regolamenti e autorizzazioni per lo scarico delle acque di falda (ambito idraulico-autorizzativo regionale).
 - **Nota di cantiere:** La domanda da farsi prima di ogni scavo sotto falda: 'se la pompa si ferma stanotte, cosa succede?' La risposta progettuale (sifonamento, tempo di rientro, piano emergenza) è parte dell'opera.
@@ -1575,7 +1575,7 @@ La portanza di un palo si scompone in componente di punta (resistenza del terren
 - **Applicazioni:** Palificazioni di edifici, torri, capannoni, viadotti; rinforzi di fondazioni esistenti; pali tiranti per opere di sostegno.
 - **Vantaggi:** Le prove di carico convertono l'incertezza geotecnica in un valore misurato: su grandi palificazioni la prova su un palo pilota guida la messa in opera di centinaia di pali.
 - **Limiti e attenzioni:** Prove statiche costose e lente; le prove dinamiche su gettati in sito sono meno dirette; l'effetto gruppo può ridurre la portanza somma dei pali singoli (interferenza).
-- **Costi ed economia:** Prova di carico statico verticale: 3.000-10.000 € a prova; PDA: 300-800 € a palo; sonic logging: 150-400 € a palo. In un budget di palificazione serio le prove sono l'1-3%.
+- **Costi ed economia:** Ordini di grandezza indicativi: Prova di carico statico verticale: 3.000-10.000 € a prova; PDA: 300-800 € a palo; sonic logging: 150-400 € a palo. In un budget di palificazione serio le prove sono l'1-3%.
 - **Caso tipico:** Palificazione di un viadotto: prove statiche su due pali pilota hanno mostrato attrito laterale del 30% superiore alle stime da sondaggi: ridotto il numero di pali di un'elica, risparmio stimato 80.000 € su 400 pali.
 - **Normativa:** NTC 2018 (verifiche e prove); UNI EN 1997-1; UNI EN ISO 22477 (prove di carico su fondazioni profonde).
 - **Nota di cantiere:** Documentare il numero di colpi/battuta o la profondità di trivellazione palo per palo: la dispersione in cantiere è la prima informazione sulla qualità reale della palificazione.
@@ -1590,7 +1590,7 @@ I pali trasferiscono i carichi in profondità, a strati portanti profondi (punta
 - **Applicazioni:** Edifici su terreni molli spessi, pali di ormeggio e sostegno, ripristini di fondazioni esistenti, fondazioni in falda con metodo a bassa vibrazione.
 - **Vantaggi:** Sfonda la formazione cattiva e lavora dove il terreno è buono: cedimenti ridotti e controllabili, indipendenti dallo scavo di fondazione.
 - **Limiti e attenzioni:** Costo e macchine; le vibrazioni dei battuti possono danneggiare i vicini; nei gettati in sito la qualità dipende dalla corretta esecuzione ( pulizia di fondo, continuità del cls).
-- **Costi ed economia:** Indicativo 2025-2026: palo trivellato Ø60 100-200 €/ml; micropalo 150-350 €/ml; battuto precompresso Ø35-45 80-150 €/ml più trasporto e guida. La voce più costosa spesso è la prova di carico: 3.000-10.000 € per prova verticale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Indicativo 2025-2026: palo trivellato Ø60 100-200 €/ml; micropalo 150-350 €/ml; battuto precompresso Ø35-45 80-150 €/ml più trasporto e guida. La voce più costosa spesso è la prova di carico: 3.000-10.000 € per prova verticale.
 - **Caso tipico:** Rinforzo fondazioni di un edificio anni '60 lesionato: 48 micropali da 150 mm infissi dall'interno del seminterrato con micropaletti di contrasto, senza scavo esterno: ripristinato in 6 settimane con il fabbricato in esercizio.
 - **Normativa:** NTC 2018 per le verifiche di pali singoli e di gruppo; UNI EN 1997-1 (sezioni dedicate alle fondazioni profonde); UNI EN 14199 per l'esecuzione dei micropali; UNI EN 1536 per i pali gettati in sito.
 - **Nota di cantiere:** Sui pali gettati la fondazione vera è sotto terra: registrazione del cavedio (reattività, portanza del fondo), volume di cls gettato, e prova di integrità (es. sonic logging sui pali principali) valgono più di qualsiasi dichiarazione.
@@ -1605,7 +1605,7 @@ Le fondazioni esistenti si verificano e rinforzano con tecniche non invasive o m
 - **Applicazioni:** Edifici storici lesionati, ampliamenti con incremento di carico, variazioni d'uso, adattamenti sismici di edifici esistenti.
 - **Vantaggi:** Recupera il valore dell'esistente senza demolizioni: i rinforzi a micropali sono eseguibili dall'interno senza scavo esterno.
 - **Limiti e attenzioni:** Il carico reale delle vecchie fondazioni è spesso incerto; gli interventi sotto carico richiedono fasi e monitoraggi attenti.
-- **Costi ed economia:** Indicativo: micropali di rinforzo 150-350 €/ml; radicazioni 200-400 €/ml; sotto-fondazioni manuali 300-600 €/ml per tratto; monitoraggio continuo 1.000-5.000 € per campagna.
+- **Costi ed economia:** Ordini di grandezza indicativi: Indicativo: micropali di rinforzo 150-350 €/ml; radicazioni 200-400 €/ml; sotto-fondazioni manuali 300-600 €/ml per tratto; monitoraggio continuo 1.000-5.000 € per campagna.
 - **Caso tipico:** Palazzo vincolato con cedimenti differenziali secolari: rinforzo con 60 micropali infissi dai locali seminterrati con testa di ripartizione in acciaio, monitoraggio laser per 18 mesi: cedimenti arrestati, valore immobiliare recuperato.
 - **Normativa:** NTC 2018 (circolare e istruzioni per l'adeguamento sismico e il consolidamento); linee guida per il miglioramento sismico dell'edilizia esistente; UNI EN 1997-1 per le verifiche di rinforzo.
 - **Nota di cantiere:** Prima di rinforzare, capire: il 70% dei rinforzi di fondazione fallisce perché tratta il sintomo (lesione) senza avere individuato la causa (falda, vasca, terreno organico, carichi aggiunti nel tempo).
@@ -1620,7 +1620,7 @@ Il cedimento di una fondazione è accettabile se uniforme; ciò che danneggia le
 - **Applicazioni:** Ogni progetto di fondazione deve riportare la previsione di cedimento: statico verificato, committente informato, manutenzione pianificata.
 - **Vantaggi:** Un cedimento previsto è un cedimento gestibile: giunti, fasce di dilatazione, sequenza di rifiniture ne annullano gli effetti.
 - **Limiti e attenzioni:** I modelli danno dispersioni notevoli: la verifica ex post con topografia di cedimento (punti fissi, lastre di livellazione) resta buona pratica per le opere importanti.
-- **Costi ed economia:** Monitoraggio topografico di cedimento: 500-2.000 € per campagna con rilievi semestrali; molto meno del ripristino di una muratura lesionata (50-300 €/ml di lesione).
+- **Costi ed economia:** Ordini di grandezza indicativi: Monitoraggio topografico di cedimento: 500-2.000 € per campagna con rilievi semestrali; molto meno del ripristino di una muratura lesionata (50-300 €/ml di lesione).
 - **Caso tipico:** Caso classico di insegnamento: edificio storico su due tipi di fondazione (vecchia e nuova ala): cedimento differenziale al giunto di 6 cm in 30 anni, gestito con giunto aperto e manutenzione programmata anziché rinforzi invasivi.
 - **Normativa:** UNI EN 1997-1 per le verifiche di esercizio (SLS); NTC 2018 per i contenuti del progetto geotecnico; riferimenti dei limiti di cedimento nei testi classici di progettazione (es. Burland, Biarez).
 - **Nota di cantiere:** Prima regola anti-contenzioso: fotografare e misurare le finiture dei vicini prima di iniziare lo scavo; il cedimento contestato quasi mai coincide col cedimento reale misurato su riferimenti topografici.
@@ -1635,7 +1635,7 @@ Fondazioni superficiali (platee, plinti, travi rovesce, cordoli) appoggiano a po
 - **Applicazioni:** Edifici residenziali e commerciali su terreni di buona portanza: sabbie dense, ghiaie, argille sovraconsolidate di superficie.
 - **Vantaggi:** Soluzione più economica e veloce della palificazione: nessuna macchina speciale, ispezione diretta del terreno di appoggio prima del getto.
 - **Limiti e attenzioni:** Richiede terreno con portanza adeguata entro 1-3 m; cedimenti differenziali controllabili; falda alta complica scavi e getti.
-- **Costi ed economia:** Ordine di grandezza: platea in cls armato completa di scavo, igienico, getto e impermeabilizzazione 90-180 €/m² per grandi superfici; plinti 150-300 €/m³ di cls.
+- **Costi ed economia:** Ordini di grandezza indicativi: Ordine di grandezza: platea in cls armato completa di scavo, igienico, getto e impermeabilizzazione 90-180 €/m² per grandi superfici; plinti 150-300 €/m³ di cls.
 - **Caso tipico:** Villette a schiera su platea comune anziché plinti singoli: in un lotto su sabbia con falda stagionale, la platea ha eliminato i cedimenti differenziali tra unità che i plinti separati avrebbero manifestato (murature intonacate che si 'tagliano' a pettine).
 - **Normativa:** NTC 2018 (D.M. 17/01/2018) — verifiche GEO con coefficienti parziali; UNI EN 1997-1 (Eurocodice 7); UNI EN 1992-1 per il calcolo del cls di fondazione.
 - **Nota di cantiere:** Il getto della fondazione va fatto sul terreno verificato, non sul terreno di riporto: 10 cm di materiale sciolto sotto la platea possono costare il cedimento differenziale di tutta l'ala dell'edificio.
@@ -1665,7 +1665,7 @@ Le prove di laboratorio misurano i parametri di progetto su campioni indisturbat
 - **Applicazioni:** Calibrazione dei parametri di calcolo per fondazioni, pareti, dighe, bonifiche; valutazione delle pressioni neutre in rapido carico.
 - **Vantaggi:** I triassiali CU/CD su campioni ben prelevati sono il riferimento per le grandi opere: i valori di progetto si fanno su questi numeri.
 - **Limiti e attenzioni:** Campioni indisturbati veri solo nelle argille; nelle sabbie le prove in laboratorio sono difficili e si preferisce l'interpolazione dai penetrometri; i risultati dipendono dalla qualità del campione (disturbo).
-- **Costi ed economia:** Indicativo: oedometrica 150-350 €/prova; taglio diretto 100-250 €/prova; triassiale CU con u 400-900 €/prova; pacchetto geotecnico completo (10-15 prove) 3.000-8.000 €.
+- **Costi ed economia:** Ordini di grandezza indicativi: Indicativo: oedometrica 150-350 €/prova; taglio diretto 100-250 €/prova; triassiale CU con u 400-900 €/prova; pacchetto geotecnico completo (10-15 prove) 3.000-8.000 €.
 - **Caso tipico:** Progetto di un serbatoio con rilievi rapidi di riempimento: triassiali CU con misura di u hanno mostrato che il cu in rapido era metà di quello drenato: dimensionati i pali e il programma di riempimento per fasi per evitare instabilità del fondo.
 - **Normativa:** UNI EN ISO 17892 (serie delle norme di prova di laboratorio geotecnico: granulometria, Atterberg, oedometro, taglio, triassiale); UNI EN 1997-2 per l'uso dei risultati ai fini di progetto.
 - **Nota di cantiere:** Il referto di laboratorio vale quanto il prelievo: un campione 'indisturbato' trasportato male o conservato al caldo dà parametri che sembrano scientifici e non lo sono.
@@ -1680,7 +1680,7 @@ Le prove penetrometriche misurano la resistenza del terreno in profondità in mo
 - **Applicazioni:** Classificazione preliminare, verifica portanza fondazioni, valutazione rischio licuefazione in sabbie sature, controllo di ripristino terre di bonifica.
 - **Vantaggi:** Rapide ed economiche; CPTu dà un profilo continuo ogni centimetro; SPT dà anche un campione disturbato per classificazione e limiti Atterberg.
 - **Limiti e attenzioni:** SPT è semi-empirico e dipendente dall'operatore; in ghiaia il campionatore si rifiuta; il CPTu non fornisce campioni e si ferma nei terreni molto densi.
-- **Costi ed economia:** Indicativo: SPT 30-80 €/prova (incluso nel sondaggio); CPTu 40-100 €/ml con arrivo squadra e mezzo; micropenetrometro a mano (DPM) per piccoli lavori qualche centinaio di euro.
+- **Costi ed economia:** Ordini di grandezza indicativi: Indicativo: SPT 30-80 €/prova (incluso nel sondaggio); CPTu 40-100 €/ml con arrivo squadra e mezzo; micropenetrometro a mano (DPM) per piccoli lavori qualche centinaio di euro.
 - **Caso tipico:** Verifica licuefazione in Pianura Padana: profili CPTu in sabbie sature sotto falda con (N1)60cs bassi hanno guidato la scelta di miglioramento del terreno anziché palificazione pura in un capannone logistico.
 - **Normativa:** UNI EN ISO 22476 (norma internazionale per le prove geotecniche in sito, parti per SPT e CPT); UNI EN 1997-2 per l'interpretazione ai fini di calcolo.
 - **Nota di cantiere:** Attenzione alle tabelle di correlazione N-resistenza: valgono per terreni granulari medi e perdono attendibilità in terreni estremi (molto densi o molto sabbiosi fini sotto falda).
@@ -1695,7 +1695,7 @@ Quando il terreno è debole ma il carico deve restare, si migliora il terreno in
 - **Applicazioni:** Fondazioni di capannoni e parchi logistici su terreni deboli, sotto-fondazioni stradali, contenimento di sabbie licuefacenti, ripristini di frane.
 - **Vantaggi:** A volte più economico dei pali su grandi superfici e tratta il terreno invece di eluderlo; tecniche come le stone columns drenano e riducono il rischio licuefazione.
 - **Limiti e attenzioni:** Richiedono mezzi specializzati; le colonne di ghiaia in argille molli possono riflettere verso l'alto il carico (bulging); il jet grouting è il più costoso a metro.
-- **Costi ed economia:** Indicativo: colonne di ghiaia 30-80 €/ml; jet grouting 150-400 €/ml; vibroflottazione 15-40 €/m²; surcharge con gestione mesi di attesa: il costo è il tempo (e il monitoraggio).
+- **Costi ed economia:** Ordini di grandezza indicativi: Indicativo: colonne di ghiaia 30-80 €/ml; jet grouting 150-400 €/ml; vibroflottazione 15-40 €/m²; surcharge con gestione mesi di attesa: il costo è il tempo (e il monitoraggio).
 - **Caso tipico:** Hub logistico su 4 m di limi soffici: confronto pali vs colonne di ghiaia + precompressione: la seconda ha vinto su costo (-35%) e sui tempi (no code dei palificatori), con cedimenti residui accettabili monitorati per 2 anni.
 - **Normativa:** UNI EN 1997-1 per la verifica dell'opera migliorata; norme di esecuzione e controllo di qualità specifiche per ciascuna tecnica (rapporti di cantiere, prove di resistenza su getti, misure di cedimento).
 - **Nota di cantiere:** Il miglioramento si controlla con le misure: piombi, estensimetri, colate di prova. Senza strumentazione il miglioramento del terreno è una promessa, con la strumentazione è un fatto.
@@ -1710,7 +1710,7 @@ Le opere di sostegno trattengono il terreno negli scavi e nelle spianate: muri a
 - **Applicazioni:** Scavi urbani, rampe, spianate stradali, sostegno di fondi stradali, recupero di corpi franati.
 - **Vantaggi:** La paratie è reversibile: palancole e tiranti si rimuovono a fine scavo; i diaframmi restano ma liberano spazio interno.
 - **Limiti e attenzioni:** Cedimenti indotti verso i vicini: in area edificata l'operta di sostegno 'al limite' economica sposta il problema sulla casa del vicino.
-- **Costi ed economia:** Indicativo: gabbioni 60-120 €/m² di faccia; muro in ca infisso 250-500 €/ml; paratia di palancole noleggio+sconficco 150-350 €/ml; diaframma 400-800 €/ml; tiranti 100-250 €/ml.
+- **Costi ed economia:** Ordini di grandezza indicativi: Indicativo: gabbioni 60-120 €/m² di faccia; muro in ca infisso 250-500 €/ml; paratia di palancole noleggio+sconficco 150-350 €/ml; diaframma 400-800 €/ml; tiranti 100-250 €/ml.
 - **Caso tipico:** Scavo stradale a 5 m a filo case: danni documentati alle abitazioni durante le fasi di scavo senza puntellatura pronta; il ripristino (riparazioni + indennizzi) ha superato il costo di un sistema di puntelli a perdere già previsto in progetto.
 - **Normativa:** NTC 2018 per le verifiche geotecniche (spinte, sifonamento, stati limite); UNI EN 1997-1 per i metodi di calcolo; norme di esecuzione per palancole e getti di parete (UNI EN 1538 per i diaframmi).
 - **Nota di cantiere:** La spinta del terreno non aspetta: le paratie si puntellano prima dello scavo, non durante. Ogni metro di scavo senza puntello è un metro di spinta accumulata sulle fondazioni del vicino.
@@ -1725,7 +1725,7 @@ Tre famiglie di terreni creano problemi specifici: gli argillosi espansivi (gonf
 - **Applicazioni:** Pianura padana (limi e sabbie licuefacenti), aree vulcaniche con pozzolane, fondovalle torbiose di montagna, argille varicolori di orizzonte appenninico.
 - **Vantaggi:** Riconoscerli precocemente da indagini costa poco e cambia completamente la strategia di fondazione: quasi mai si corre ai ripari in corso d'opera.
 - **Limiti e attenzioni:** I campioni di torba e limo organico si degradano in laboratorio: i parametri devono venire da prove in sito e da esperienza locale.
-- **Costi ed economia:** La rimozione di torba può costare 20-60 €/m³ movimentato (scavo+smaltimento+reintegro); la palificazione su terreno organico spesso raddoppia il costo a palo; la vibroflottazione antilicuefazione 15-40 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: La rimozione di torba può costare 20-60 €/m³ movimentato (scavo+smaltimento+reintegro); la palificazione su terreno organico spesso raddoppia il costo a palo; la vibroflottazione antilicuefazione 15-40 €/m².
 - **Caso tipico:** Case in Pianura Padana dopo il sisma del 2012: i danni da licuefazione (liquefaction ejecta, cedimenti differenziali) hanno colpito le costruzioni su sabbie satura poco dense: le verifiche di microzonazione ora guidano di norma le fondazioni nella zona epicentrale.
 - **Normativa:** NTC 2018 (classificazione dei terreni, verifiche di sicurezza sismica geotecnica, categorie di sottosuolo); UNI EN 1997-1 e 1998-5 (progettazione geotecnica sismica); microzonazione sismica come da normativa nazionale (classificazione locale).
 - **Nota di cantiere:** Se il sondaggio dice 'torba' o 'N basso sotto falda', non è un problema di laboratorio: è una decisione di progetto che va presa prima di firmare il prezzo dell'opera.
@@ -1740,7 +1740,7 @@ I terreni si classificano per granulometria: argilla (<0,002 mm), limo (0,002-0,
 - **Applicazioni:** Ogni progetto geotecnico parte dalla classificazione: scelta del tipo di fondazione, stima preliminare di parametri, drenaggio, scavo.
 - **Vantaggi:** Un linguaggio comune tra indagini, progetto e direzione lavori: due tecnici che parlano di 'sabbia limosa mediamente densa' intendono lo stesso materiale.
 - **Limiti e attenzioni:** La classificazione non misura da sola la resistenza: due argille con stessa plasticità possono avere resistenze molto diverse (consolidazione, struttura).
-- **Costi ed economia:** Analisi granulometrica 60-150 €/campione; limiti di Atterberg 80-200 €/campione; pacchetto di classificazione standard 150-350 € per campione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Analisi granulometrica 60-150 €/campione; limiti di Atterberg 80-200 €/campione; pacchetto di classificazione standard 150-350 € per campione.
 - **Caso tipico:** Confusione classificazione-comportamento: terreno classificato 'sabbia limosa' ma con limo plastico in realtà coesivo: il prezzo di scavo stimato su scavo a parete ripida è fallito in cantiere per ritto di parete.
 - **Normativa:** UNI EN ISO 14688-1 e -2 (classificazione, identificazione e descrizione dei terreni); UNI EN ISO 14689 (per le rocce); UNI EN 1997-2 per i riferimenti di laboratorio.
 - **Nota di cantiere:** Il nome corretto del terreno si paga: scrivere 'argilla limosa mediamente sovraconsolidata' invece di 'fanghiglia' cambia prezzi di scavo, mezzi consentiti e calcoli di parete.
@@ -1770,7 +1770,7 @@ La tensione efficace σ' = σ - u (Terzaghi, 1936) è il principio base della me
 - **Applicazioni:** Fondazioni sotto falda, consolidazione, abbassamenti di falda, rischio licuefazione, sifonamento sotto dighe e diaframmi.
 - **Vantaggi:** Un unico principio spiega portanza, spinte sulle pareti, cedimenti e licuefazione: impararlo bene risolve metà della geotecnica.
 - **Limiti e attenzioni:** Terreni non saturi richiedono tensioni negative (suzione) con modelli più complessi; i terreni cementati e strutturati si discostano dal comportamento di Terzaghi.
-- **Costi ed economia:** Conseguenza economica diretta: ogni metro di abbassamento falda in scavo può costare pannelli di cofferdam + pompe + reintegro, in genere 50-300 €/m² di superficie dello scavo a seconda del regime.
+- **Costi ed economia:** Ordini di grandezza indicativi: Conseguenza economica diretta: ogni metro di abbassamento falda in scavo può costare pannelli di cofferdam + pompe + reintegro, in genere 50-300 €/m² di superficie dello scavo a seconda del regime.
 - **Caso tipico:** Scavo condominiale 6 m sotto falda a 2 m: il progetto prevedeva continuità del diaframma anziché sifonamento controllato; la verifica a sifonamento con la tensione efficace ha imposto un sovrascavo interno di alleggerimento che ha salvato l'opera in un evento di piena.
 - **Normativa:** Principio consolidato riportato in ogni testo di meccanica delle terre (Terzaghi & Peck; Craig); UNI EN 1997-1 per le verifiche di stabilità al sifonamento e di portanza in condizioni drenate/non drenate.
 - **Nota di cantiere:** Domanda da cantiere che rivela tutto: 'ma la falda dove sta oggi, non dove era alla perforazione?' — u dipende dall'acqua attuale, non da quella del sondaggio.
@@ -1790,7 +1790,7 @@ L'acqua è il nemico primario delle strade: il drenaggio raccoglie (bordi e cune
 - **Applicazioni:** Strade, piazzali, parcheggi, muri di contenimento (i drenaggi dietro i muri salvano le strutture).
 - **Vantaggi:** Il drenaggio funzionante raddoppia la vita della pavimentazione: l'acqua che resta o penetra è il primo degrado.
 - **Limiti e attenzioni:** I drenaggi sono invisibili finché funzionano: nessuno li manutiene finché non è troppo tardi.
-- **Costi ed economia:** Costo: la componente drenaggio è il 5-10% del costo stradale; la pulizia programmata: irrisoria rispetto ai guasti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: la componente drenaggio è il 5-10% del costo stradale; la pulizia programmata: irrisoria rispetto ai guasti.
 - **Caso tipico:** Curva che si allagava ogni temporale forte: aggiunti due pozzetti e una condotta di scarico di 15 m: costo 2.800 €; gli incidenti in quella curva (frequenti sul bagnato) si sono azzerati nell'anno successivo.
 - **Normativa:** Normativa idraulica (legge drenaggi locali); prassi MIT; standard comunali.
 - **Nota di cantiere:** La regola del manutentore: le caditoie si puliscono PRIORA dell'autunno, non dopo il primo allagamento.
@@ -1805,7 +1805,7 @@ L'illuminazione pubblica serve la sicurezza stradale e urbana: lampioni con alte
 - **Applicazioni:** Strade, piazze, percorsi pedonali, parcheggi, aree industriali.
 - **Vantaggi:** L'illuminazione giusta riduce incidenti notturni e degrado percepito: la luce è la prima sicurezza urbana.
 - **Limiti e attenzioni:** L'illuminazione eccessiva o mal orientata costa denaro, inquina (luce verso il cielo) e infastidisce i residenti.
-- **Costi ed economia:** Costi: apparecchio LED pubblico 150-400 €; impianto completo stradale: 1.500-3.000 €/punto luce installato; il risparmio LED: il 50-70% sulla bolletta.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: apparecchio LED pubblico 150-400 €; impianto completo stradale: 1.500-3.000 €/punto luce installato; il risparmio LED: il 50-70% sulla bolletta.
 - **Caso tipico:** Comune che ha sostituito 1.200 punti luce con LED e telecontrollo: bolletta dimezzata, guasti rilevati in ore invece che settimane, e richieste di intervento azzerate.
 - **Normativa:** UNI 11248 (illuminazione stradale); norme CEI; linee guida risparmio energetico MIT.
 - **Nota di cantiere:** Il principio moderno: la luce giusta, dove serve, quando serve, al livello giusto — il resto è spreco.
@@ -1820,7 +1820,7 @@ La manutenzione programmata delle strade costa una frazzione della ricostruzione
 - **Applicazioni:** Comuni, province, gestori di strade, grandi piazzali industriali.
 - **Vantaggi:** La strada mantenuta è sicura, dura il doppio e costa meno: la manutenzione è il miglior investimento di bilancio.
 - **Limiti e attenzioni:** La cultura della manutenzione è debole: si preferisce la 'inaugurazione' alla cura — e poi le buche diventano cronaca.
-- **Costi ed economia:** Costi: sigillatura 3-8 €/m²; microtappeto 8-15 €/m²; rifacimento completo 60-120 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: sigillatura 3-8 €/m²; microtappeto 8-15 €/m²; rifacimento completo 60-120 €/m².
 - **Caso tipico:** Comune con piano di manutenzione stradale programmata: spesa annua costante e dimezzata nel decennio; il comune vicino con politica 'a guasto': spesa doppia e strade percepite 'distruzione' dai cittadini.
 - **Normativa:** Linee guida MIT sulla manutenzione; norme sui programmi di manutenzione stradale.
 - **Nota di cantiere:** La lezione per il LLM: le infrastrutture, come gli edifici, si mantengono — il 'costruire' senza 'mantenere' è il fallimento italiano classico.
@@ -1835,7 +1835,7 @@ La viabilità dolce è la nuova frontiera urbana: marciapiedi continui e accessi
 - **Applicazioni:** Riqualificazioni urbane, mobilità sostenibile, cantieri in centro.
 - **Vantaggi:** La città a velocità umana vende e vive meglio: commerci, immobili e sicurezza traggono beneficio dai percorsi pedonali di qualità.
 - **Limiti e attenzioni:** La pista ciclabile 'simbolica' (segni sulla carreggiata) non la usa nessuno: la sicurezza percepita decide l'uso reale.
-- **Costi ed economia:** Costi: pista ciclabile protetta 80-200 €/m; marciapiede nuovo 50-120 €/m; la segnaletica orizzontale a costo quasi nullo.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: pista ciclabile protetta 80-200 €/m; marciapiede nuovo 50-120 €/m; la segnaletica orizzontale a costo quasi nullo.
 - **Caso tipico:** Zona 30 con piste ciclabili continua in una città media: gli spostamenti in bici sono raddoppiati in 2 anni (rilevazione comunale) e gli incidenti ciclo-pedonali sono scesi di un terzo.
 - **Normativa:** Codice della Strada; linee guida MIT sulla mobilità ciclistica; normative accessibilità.
 - **Nota di cantiere:** La regola: le persone non usano la pista ciclabile che si interrompe; progettare la continuità prima della larghezza.
@@ -1850,7 +1850,7 @@ Il parcheggio è spazio urbano critico: box interrati (costosi ma salvano superf
 - **Applicazioni:** Residenze, uffici, centri commerciali, cantieri di urbanizzazione.
 - **Vantaggi:** Il parcheggio interrato libera superficie vendibile o verde: il costo del box si ripaga nel valore dell'immobile.
 - **Limiti e attenzioni:** Il garage fatto male (rampe impossibili, colonne nei posti) genera liti decennali tra condomini.
-- **Costi ed economia:** Costo box interrato: 8.000-20.000 € a posto; parcheggio a raso: 500-2.000 € a posto (massetto e segnaletica).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo box interrato: 8.000-20.000 € a posto; parcheggio a raso: 500-2.000 € a posto (massetto e segnaletica).
 - **Caso tipico:** Palazzina con garage interrato ben proporzionato: le rampe dolci e i posti larghi hanno eliminato le lamentele e i danni auto dei primi anni: il condominio 'gemello' dello stesso costruttore, con garage 'compresso', ha avuto 2 assemblee litigiose e richieste di risarcimento.
 - **Normativa:** Normativa antincendio parcheggi (D.M. 2015); regolamenti edilizi locali (standard parcheggio).
 - **Nota di cantiere:** Prova del nove del garage: 'una famiglia normale con bambini e spesa riesce a scendere, parcheggiare e salire senza acrobazie?'
@@ -1865,7 +1865,7 @@ Le pavimentazioni sono a struttura flessibile (sottofondi granulari + conglomera
 - **Applicazioni:** Strade urbane ed extraurbane, parcheggi, piste ciclabili, aree industriali.
 - **Vantaggi:** La pavimentazione giusta per il traffico giusto: il sovradimensionamento spreca, il sottodimensionamento diventa colata continua di rattoppi.
 - **Limiti e attenzioni:** Il difetto più comune: il drenaggio trascurato: l'acqua che resta nel pacchetto stradale distrugge ogni struttura in pochi inverni.
-- **Costi ed economia:** Costi: asfaltatura nuova 25-60 €/m²; rifacimento completo struttura 60-120 €/m²; il cemento rigido 20-40% in più iniziale.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: asfaltatura nuova 25-60 €/m²; rifacimento completo struttura 60-120 €/m²; il cemento rigido 20-40% in più iniziale.
 - **Caso tipico:** Strada comunale rifatta con drenaggio longitudinale corretto e manto d'usura a drenaggio rapido: dopo 6 anni e 4 inverni pesanti, zero buche; la strada parallela fatta nello stesso periodo senza drenaggio: rattoppata ogni primavera.
 - **Normativa:** Norme pavimentazioni (specifiche MIT e ANAS; UNI per i conglomerati bituminosi).
 - **Nota di cantiere:** La vita di una pavimentazione si decide nel progetto idraulico, non nella scelta del bitume.
@@ -1880,7 +1880,7 @@ L'edificio esiste grazie alle reti esterne: acquedotto, fognatura, gas, elettric
 - **Applicazioni:** Urbanizzazioni di lotti, ristrutturazioni con aumento di carico (allacci nuovi o potenziati), cantieri.
 - **Vantaggi:** Le reti ben progettate in fase di urbanizzazione evitano il disastro dello scavo successivo: ogni rete dimenticata è un cantiere aperto sull'asfalto nuovo.
 - **Limiti e attenzioni:** Il sottoservizio 'dimenticato' poi si paga il triplo: la trincea aperta dopo mesi rovina la pavimentazione e la fiducia del cliente.
-- **Costi ed economia:** Costi: allacciamenti completi per una villetta: 3.000-15.000 € a seconda delle distanze e delle reti; l'urbanizzazione completa di reti: quote importanti del computo di lottizzazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: allacciamenti completi per una villetta: 3.000-15.000 € a seconda delle distanze e delle reti; l'urbanizzazione completa di reti: quote importanti del computo di lottizzazione.
 - **Caso tipico:** Lottizzazione con il coordinato di scavo: una sola trincea per tutte le reti ha risparmiato il 30% dei costi di scavo rispetto alle trincee separate previste inizialmente.
 - **Normativa:** Norme tecniche delle reti (UNI per acquedotti, gas UNI 7129 e norme del gas, norme elettriche CEI, specifiche gestori).
 - **Nota di cantiere:** La carta delle reti aggiornata è la mappa del tesoro del cantiere: chi la ha evita il 90% delle rotture accidentali.
@@ -1895,7 +1895,7 @@ Le strade si classificano per funzione (autostrade, strade extraurbane principal
 - **Applicazioni:** Progettazione di strade nuove, varianti, accessi, interventi di sicurezza.
 - **Vantaggi:** La geometria giusta è la prima sicurezza stradale: la maggior parte degli incidenti in curva nasce da raggi sotto standard.
 - **Limiti e attenzioni:** Lo standard costa spazio e terreno: nelle zone montane la geometria piena non è sempre raggiungibile e si accettano compromessi segnalati.
-- **Costi ed economia:** Costi: nuova strada extraurbana: 300-1.000 €/m lineare (ordini di grandezza molto variabili secondo terreno e opere d'arte).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: nuova strada extraurbana: 300-1.000 €/m lineare (ordini di grandezza molto variabili secondo terreno e opere d'arte).
 - **Caso tipico:** Variante di una strada comunale con raggio in curva portato dallo standard di 30 a 80 km/h: gli incidenti in curva si sono azzerati nei 3 anni successivi (dati comunali).
 - **Normativa:** Normativa geometrica stradale (D.M. 5 novembre 2001 e ss.); norme ANAS e locali.
 - **Nota di cantiere:** La prima domanda di progetto: 'a che velocità deve andare qui in sicurezza?' — la risposta decide curve, pendenze e visibilità.
@@ -1910,7 +1910,7 @@ L'ingegneria del traffico regola il flusso: segnaletica orizzontale e verticale,
 - **Applicazioni:** Comuni e province per la gestione viaria, cantieri che impattano sulla viabilità.
 - **Vantaggi:** L'intervento mirato (rotatoria, attraversamento rialzato, delineatore) costa poco e salva vite: la sicurezza stradale è il miglior investimento pubblico per rapporto costo/beneficio.
 - **Limiti e attenzioni:** La segnaletica eccessiva o incoerente confonde e degrada la sicurezza invece di aumentarla.
-- **Costi ed economia:** Costi: attraversamento pedonale rialzato 3.000-8.000 €; rotatoria 30.000-150.000 €; barriera guardrail 30-60 €/m.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: attraversamento pedonale rialzato 3.000-8.000 €; rotatoria 30.000-150.000 €; barriera guardrail 30-60 €/m.
 - **Caso tipico:** Rotatoria in un incrocio rurale 'pericoloso': gli incidenti con lesioni si sono ridotti del 70% (prima/dopo a 3 anni); il costo dell'opera si è ripagato con i costi sociali evitati in meno di 2 anni.
 - **Normativa:** Codice della Strada (D.Lgs 285/1992); normativa segnaletica (regolamento esecuzione); linee guida sicurezza MIT.
 - **Nota di cantiere:** Domanda da tecnico: 'dove accade la maggior parte degli incidenti di questo tratto?' — i dati degli incidenti guidano gli investimenti meglio di ogni opinione.
@@ -1925,7 +1925,7 @@ Il cantiere in strada o in centro deve convivere con la viabilità: il piano di 
 - **Applicazioni:** Lavori stradali, posa reti, ristrutturazioni su fronte strada.
 - **Vantaggi:** Il piano traffico ben fatto evita multe, sospensioni e incidenti: il cantiere che rispetta la strada lavora senza intoppi amministrativi.
 - **Limiti e attenzioni:** La 'deroga' non richiesta o il cantiere improvvisato causano sospensioni dei lavori e danni alla reputazione.
-- **Costi ed economia:** Costo: piano e segnaletiva temporanea 1.000-5.000 €; l'OSU: diritti comunali; i ritardi da sospensione: incalcolabili.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costo: piano e segnaletiva temporanea 1.000-5.000 €; l'OSU: diritti comunali; i ritardi da sospensione: incalcolabili.
 - **Caso tipico:** Lavori su via principale con piano traffico approvato e cantiere a fasi: zero sospensioni e una segnaletazione che i residenti hanno apprezzato; il cantiere 'gemello' senza piano: sospeso 3 volte in un mese, ritardo complessivo di 6 settimane.
 - **Normativa:** Codice della Strada (artt. 211 e ss. per la circolazione in presenza di lavori); norme segnaletica temporanea; regolamenti OSU comunali.
 - **Nota di cantiere:** Regole ferree: mai chiudere una strada senza deroga approvata, mai lasciare materiale oltre i coni, mai lavorare sul fronte strada senza protezione degli operai.
@@ -1945,7 +1945,7 @@ Come si costruisce un aeroporto: pista, viabilità aerea, terminal, quota di pro
 - **Applicazioni:** Aeroporti civili, militari, eliporti.
 - **Vantaggi:** Il progetto aeroportuale unisce pavimentazione strutturale, segnaletica elettronica e architettura dei terminal.
 - **Limiti e attenzioni:** Sicurezza operativa certificata (ENAC): ogni intervento passa da verifiche formali.
-- **Costi ed economia:** Pista 3000 m: 30-80 M€; terminal medio: 50-200 M€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pista 3000 m: 30-80 M€; terminal medio: 50-200 M€.
 - **Caso tipico:** Malpensa T1 (Grimshaw); piste sull'acqua di OR Tambo; Kai Tak storico (approccio sulla città).
 - **Normativa:** Regolamento UE 139/2014; ICAO Annex 14; ENAC regolamenti.
 - **Nota di cantiere:** In aeroporto nulla è decorativo: ogni cordolo, ogni luce, ogni segnale ha una funzione operativa certificata.
@@ -1975,7 +1975,7 @@ La rotaia: geometria, sovrastruttura, segnalamento e le gallerie dell'alta veloc
 - **Applicazioni:** AV/AC, linee metropolitane, tramvie, rotaie industriali.
 - **Vantaggi:** Trasporto su rotaia: 8-10 volte più efficiente del gomma per tonnellata-km.
 - **Limiti e attenzioni:** Costo di realizzo elevatissimo; pianificazione decennale.
-- **Costi ed economia:** Alta velocità: 30-80 M€/km in pianura, 100+ M€/km in montagna (gallerie).
+- **Costi ed economia:** Ordini di grandezza indicativi: Alta velocità: 30-80 M€/km in pianura, 100+ M€/km in montagna (gallerie).
 - **Caso tipico:** TAV Bologna-Firenze (73 km di cui 78% in galleria!); base del San Gottardo.
 - **Normativa:** Normativa ferroviaria UE (TSI); RFI prescrizioni tecniche.
 - **Nota di cantiere:** In ferrovia la galleria non è un'eccezione ma la norma: il progettista ferroviario è prima di tutto un progettista di gallerie.
@@ -1990,7 +1990,7 @@ La frana è l'emergenza n.1 italiana: come la si conosce, la si ferma o la si co
 - **Applicazioni:** Cantieri in zona franosa, strade montane, bacini idrografici.
 - **Vantaggi:** La mitigazione funziona: le frane si gestiscono, non si 'risolvono' mai del tutto.
 - **Limiti e attenzioni:** Il rischio residuo resta: la pianificazione urbana deve rispettare le pericolosità.
-- **Costi ed economia:** Rete paramassi: 50-150 €/m2; dreni profondi: 200-600 €/ml; monitoraggio: 5-50k€/sito/anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rete paramassi: 50-150 €/m2; dreni profondi: 200-600 €/ml; monitoraggio: 5-50k€/sito/anno.
 - **Caso tipico:** Frana di Sarno 1998, frana di Campotosto; reti della Valtellina; progetto IFFI (inventario frane italiane).
 - **Normativa:** Piano assetto idrogeologico (PAI); L. L. 183/89 forestale; NTC per il rischio geologico.
 - **Nota di cantiere:** Prima di costruire in montagna: leggere il PAI e chiedere lo storico frane del comune. Sempre.
@@ -2005,7 +2005,7 @@ Il 'panino' geotecnico: scavo, sostegno, rivestimento, ventilazione e sicurezza.
 - **Applicazioni:** Tratte ferroviarie/stradali, metropolitane, gallerie idroelettriche, opere militari.
 - **Vantaggi:** Le gallerie rendono linee rette in montagna: accorciano km e CO2 per decenni.
 - **Limiti e attenzioni:** Sorpresa geologica = il rischio n.1; il costo può raddoppiare in corso d'opera.
-- **Costi ed economia:** Galleria in TBM: 40-150 M€/km secondo roccia; NATM: 20-80 M£/km.
+- **Costi ed economia:** Ordini di grandezza indicativi: Galleria in TBM: 40-150 M€/km secondo roccia; NATM: 20-80 M£/km.
 - **Caso tipico:** Base del San Gottardo (57 km, 2016, il più lungo del mondo); galleria del Ceneri; Frejus (1871).
 - **Normativa:** Guide italiane per le gallerie (AETOS) come riferimento tecnico; normativa di sicurezza per i cantieri in sotterraneo (D.Lgs 81/2008).
 - **Nota di cantiere:** La regola d'oro delle gallerie: 'chi scava male, paga due volte' — il sostegno economico è quello che poi crolla.
@@ -2020,7 +2020,7 @@ Le opere invecchiano: monitoraggio, manutenzione programmata, digitalizzazione d
 - **Applicazioni:** Reti autostradali, ferroviarie, idrauliche, comunali.
 - **Vantaggi:** Una manutenzione programmata costa 1/5 del ripristino d'emergenza.
 - **Limiti e attenzioni:** La cronaca: finanziare il nuovo è politico, mantenere il vecchio non lo è.
-- **Costi ed economia:** Manutenzione ordinaria ponti: 50-200 €/m2/anno; SHM grande opera: 100-500k€ installazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: Manutenzione ordinaria ponti: 50-200 €/m2/anno; SHM grande opera: 100-500k€ installazione.
 - **Caso tipico:** Il crollo del ponte Morandi (2018) ha cambiato la normativa sulle ispezioni; il tabella di monitoraggio ponti ANSFISA.
 - **Normativa:** L. 168/2017 (trasporti); direttive ispezioni ponti post-Morandi.
 - **Nota di cantiere:** La frase chiave del settore: 'il nuovo si inaugura, il vecchio si ignora'. Un LLM edile deve ribaltare questa logica.
@@ -2035,7 +2035,7 @@ Il cantiere delle grandi opere: rischi specifici e cultura della sicurezza.
 - **Applicazioni:** Gallerie, ponti in quota, scavi profondi, lavori subacquei.
 - **Vantaggi:** Nelle grandi opere la sicurezza si progetta come la struttura: Safety by Design.
 - **Limiti e attenzioni:** I subappalti a catena diluiscono la responsabilità: va governata.
-- **Costi ed economia:** HSE su grande opera: 2-5% del costo di costruzione; formazione: 40h/anno/persona.
+- **Costi ed economia:** Ordini di grandezza indicativi: HSE su grande opera: 2-5% del costo di costruzione; formazione: 40h/anno/persona.
 - **Caso tipico:** Il cantiere del San Gottardo (record di sicurezza per 17 anni di lavori); cantieri TAV con formazione continua.
 - **Normativa:** D.Lgs 81/08; norma UNI cantieri sotterranei; accordi Stato-Regioni.
 - **Nota di cantiere:** Il dato storico: le galleri hanno il tasso infortuni più alto dell'edilizia: chi lavora sotto terra lavora con più regole e più rispetto.
@@ -2080,7 +2080,7 @@ Tenere su il terreno: muri a gravità, a contrafforti, ancorati, gabbioni, parat
 - **Applicazioni:** Sostegni stradali, scavi urbani, frane, terrazzamenti.
 - **Vantaggi:** Il drenaggio è il 70% della sicurezza di un muro: l'acqua spinge, l'acqua rovina.
 - **Limiti e attenzioni:** Il 90% dei crolli di muri dipende da drenaggi ostruiti o assenti.
-- **Costi ed economia:** Muro a gravità: 150-400 €/m3 di cls; ancorato: 300-800 €/m2 di parete.
+- **Costi ed economia:** Ordini di grandezza indicativi: Muro a gravità: 150-400 €/m3 di cls; ancorato: 300-800 €/m2 di parete.
 - **Caso tipico:** Muraglione della statale Amalfitana; paratie dello scavo di Milano M4.
 - **Normativa:** Eurocodice 7 (EN 1997) per le opere di terra.
 - **Nota di cantiere:** Nessun muro tiene senza drenare: se il progetto non ha i tubi di scarico, il progetto è sbagliato.
@@ -2095,7 +2095,7 @@ Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Applicazioni:** Dissesto idrogeologico, irrigazione, produzione idroelettrica (17% elettricità Italia).
 - **Vantaggi:** L'invaso regola il fiume: protezione idraulica e risorsa insieme.
 - **Limiti e attenzioni:** Il rischio diga è il rischio industriale più severo: serve cultura della sicurezza totale.
-- **Costi ed economia:** Dighe grandi: miliardi di euro; la manutenzione e la sorveglianza sono obblighi di legge (L. 426/1998).
+- **Costi ed economia:** Ordini di grandezza indicativi: Dighe grandi: miliardi di euro; la manutenzione e la sorveglianza sono obblighi di legge (L. 426/1998).
 - **Caso tipico:** Diga del Vajont (1963, 1917 morti: errore geologico, non idraulico); diga di Itaipu; Grande Dixence (285 m, più alta d'Europa).
 - **Normativa:** L. 426/1998, art. 28 (Norme per la sicurezza delle dighe); D.M. 26 giugno 2014 (Norme tecniche per la progettazione e la costruzione degli sbarramenti di ritenuta).
 - **Nota di cantiere:** Ogni diga italiana ha un piano di emergenza e un adempimento annuale: la manutenzione non è un optional.
@@ -2110,7 +2110,7 @@ Attraversare l'ostacolo: la storia e la tecnologia del ponte.
 - **Applicazioni:** Valli fluviali, autostrade, ferrovie, passerelle pedonali.
 - **Vantaggi:** Il ponte giusto nasce dall'ostacolo: luce, fondazione, accessi e manutenzione decidono la tipologia.
 - **Limiti e attenzioni:** La manutenzione dei ponti è trascurata ovunque: il degrado delle armature è la prima causa di criticità.
-- **Costi ed economia:** Passerella pedonale: 1-5k€/m2; viadotto autostradale: 3-8k€/m2 di impalcato.
+- **Costi ed economia:** Ordini di grandezza indicativi: Passerella pedonale: 1-5k€/m2; viadotto autostradale: 3-8k€/m2 di impalcato.
 - **Caso tipico:** Ponte Morandi (collasso 2018: manutenzione e sistema strutturale); viadotti italiani monitorati da ANSFISA.
 - **Normativa:** Eurocodici 1-3 (azioni, cls, acciaio); Norme tecniche per le costruzioni (D.M. 17/01/2018); per le opere viarie la normativa di esercizio ANSFISA.
 - **Nota di cantiere:** Per un LLM: quando qualcuno dice 'ponte', le prime domande da fare sono: fondazioni? manutenzione? traffico previsto? Il ponte non è l'impalcato, è tutto il sistema.
@@ -2125,7 +2125,7 @@ Ingegneria del mare: difendere la costa e creare approdi sicuri.
 - **Applicazioni:** Porti commerciali, turistici, pescerecci; difesa costiera.
 - **Vantaggi:** Il porto è un ecosistema: funziona solo se mare, fondali, viabilità e retroporto crescono insieme.
 - **Limiti e attenzioni:** Le opere marine subiscono la mareggiata del secolo: il sovradimensionamento è la norma.
-- **Costi ed economia:** Diga foranea: 5-20 k€/ml; dragaggio portuale: 3-15 €/m3.
+- **Costi ed economia:** Ordini di grandezza indicativi: Diga foranea: 5-20 k€/ml; dragaggio portuale: 3-15 €/m3.
 - **Caso tipico:** Porto di Genova (diga foranea in costruzione 6 km); MOSE di Venezia (opera di difesa mareale: 5,5 mld €).
 - **Normativa:** Le azioni di progetto secondo gli Eurocodici (EN 1991), le Norme tecniche per le costruzioni (D.M. 17/01/2018) e CNR-DT 207/2008 (azione del vento); per le dighe marittime le Istruzioni tecniche per la progettazione delle dighe marittime (CSLP 23/09/1994 n. 156); circolari MIT per le opere marittime.
 - **Nota di cantiere:** Il MOSE insegna: le opere maritime hanno tempi biblici (1973-2020) e la manutenzione è eterna: progettare semplice da mantenere vale più del record.
@@ -2140,7 +2140,7 @@ L'Italia è il paese europeo più sismico: come le opere civili convivono col te
 - **Applicazioni:** Ponti, viadotti, edifici pubblici, opere strategiche (ospedali, dighe).
 - **Vantaggi:** Il buon progetto antisismico NON costa di più: costa saperlo fare.
 - **Limiti e attenzioni:** L'adeguamento del patrimonio esistente è il problema vero (80% degli edifici pre-1981).
-- **Costi ed economia:** Isolatori al basso (1.000-3.000 €/appoggio) ammortizzati in sicurezza e assicurazioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: Isolatori al basso (1.000-3.000 €/appoggio) ammortizzati in sicurezza e assicurazioni.
 - **Caso tipico:** Terremoto dell'Aquila 2009, Amatrice 2016 (il crollo più grave: edifici non adeguati); ponti isolati sopravvissuti a Kobe 1995.
 - **Normativa:** NTC2018; Ordinanza PCM 3274/2003; Eurocodice 8.
 - **Nota di cantiere:** L'Italia ha le norme antisismiche tra le migliori del mondo: il problema è il patrimonio esistente. Chi progetta oggi lavora sul 20% nuovo e dovrebbe saper valutare l'80% esistente.
@@ -2155,7 +2155,7 @@ Costruire clima-compatibile: cementi basso carbonio, riciclo, energia nelle oper
 - **Applicazioni:** Opere pubbliche italiane ed europee: tutte le gare 2025+ richiedono LCA.
 - **Vantaggi:** Il 40% delle emissioni costruzione-infrastrutture è nei materiali: decidere cls e acciaio = decidere il clima.
 - **Limiti e attenzioni:** Il riciclato richiede tracciabilità e prove, non buona volontà.
-- **Costi ed economia:** Cls basso carbonio: +5-15 €/m3; LCA opera: 3-15k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cls basso carbonio: +5-15 €/m3; LCA opera: 3-15k€.
 - **Caso tipico:** Autostrada del Brennero con cls basso carbonio; parco fotovoltaico sulle canalette TAV.
 - **Normativa:** EU Taxonomy; CAM (DM 56/2017 aggiornati); EN 15804 LCA.
 - **Nota di cantiere:** L'efficienza energetica della galleria (ventilazione, illuminazione smart) ripaga: una galleria lunga consuma come una piccola città.
@@ -2170,7 +2170,7 @@ La strada come opera d'ingegneria: geometria, pavimentazione, drenaggio.
 - **Applicazioni:** Strade provinciali, statali, autostrade, urbanhe.
 - **Vantaggi:** Il tracciato giusto riduce incidenti più di qualsiasi guardrail.
 - **Limiti e attenzioni:** La progettazione stradale è burocraticamente intensa (fascicolo del fabbricato).
-- **Costi ed economia:** Pavimentazione autostradale: 60-120 €/m2; manutenzione bitume ogni 10-15 anni.
+- **Costi ed economia:** Ordini di grandezza indicativi: Pavimentazione autostradale: 60-120 €/m2; manutenzione bitume ogni 10-15 anni.
 - **Caso tipico:** Autostrade del Sole (A1, 1956-64: 755 km che unirono l'Italia); Passo dello Stelvio.
 - **Normativa:** DM 6792/2001 (norme funzionali e geometriche strade); Direttive Ministeriali 1995.
 - **Nota di cantiere:** Il nemico n.1 della pavimentazione è l'acqua: il drenaggio vale più dello spessore del bitume.
@@ -2190,7 +2190,7 @@ Il materiale della leggerezza e della velocità: profili, aste, nodi e saldature
 - **Applicazioni:** Capannoni, ponti, torri, ristrutturazioni, strutture provvisionali.
 - **Vantaggi:** Montaggio rapidissimo; precisione di fabbrica; riciclabile al 100%.
 - **Limiti e attenzioni:** La corrosione e l'instabilità: due nemici che vanno progettati, non sperati.
-- **Costi ed economia:** Capannone acciaio: 250-500 €/m2; carpenteria pesante: 4-8 €/kg installata.
+- **Costi ed economia:** Ordini di grandezza indicativi: Capannone acciaio: 250-500 €/m2; carpenteria pesante: 4-8 €/kg installata.
 - **Caso tipico:** Torre Eiffel (1889, rivetti a caldo: 7.300 tonnellate); capannoni logistici moderni.
 - **Normativa:** EC3 (EN 1993); EN 1090 marcatura CE strutturale.
 - **Nota di cantiere:** L'acciaio si progetta per stabilità prima che per resistenza: un pilastro snello si piega prima di rompersi. Chi ignora l'euler nel 2025 sbaglia progetto.
@@ -2205,7 +2205,7 @@ Tutto ciò che la struttura deve reggere: pesi, persone, neve, vento, sisma, urt
 - **Applicazioni:** Calcolo di ogni elemento portante di ogni edificio.
 - **Vantaggi:** Il 90% delle verifiche quotidiane usa mezza dozzina di valori: conoscerli a memoria è potere.
 - **Limiti e attenzioni:** Le azioni eccezionali (esplosioni, impatti) sono stimate con modelli probabilistici complessi.
-- **Costi ed economia:** Valori in NTC2018 e EC1: gratis e pubblici.
+- **Costi ed economia:** Ordini di grandezza indicativi: Valori in NTC2018 e EC1: gratis e pubblici.
 - **Caso tipico:** Il carico neve accumulato nel 1985 in Appennino causò crolli di coperture industriali leggerissime.
 - **Normativa:** NTC2018 cap. 3; Eurocodice 1 (EN 1991).
 - **Nota di cantiere:** La prima domanda del calcolo: 'cosa può appoggiarsi qui in 50 anni?' — il dubbio sul carico è il primo errore da escludere.
@@ -2220,7 +2220,7 @@ Il materiale del 90% delle strutture italiane: come funziona e come si calcola.
 - **Applicazioni:** Travi, pilastri, solai, platee, fondazioni, opere marittime.
 - **Vantaggi:** Economico, duttile, collaudabile, resistente al fuoco.
 - **Limiti e attenzioni:** Fessura e ritiro: va progettato il controllo delle fessure, non solo la resistenza.
-- **Costi ed economia:** Cls prezzo indicativo; calcolo a mano di una trave: 2-4 ore; software: minuti.
+- **Costi ed economia:** Ordini di grandezza indicativi: Cls prezzo indicativo; calcolo a mano di una trave: 2-4 ore; software: minuti.
 - **Caso tipico:** Il codice italiano del c.a. (Giovannazzi 1946) fu tra i primi al mondo; la scuola italiana di c.a. resta un riferimento.
 - **Normativa:** EC2 (EN 1992); NTC2018 cap. 4; CNR-DT 203/2006 (linee guida cls esistente).
 - **Nota di cantiere:** La frase del maestro: 'il calcestruzzo armato si fessura: il progettista decide dove e come'. Le fessure controllate sono un servizio, non un difetto.
@@ -2265,7 +2265,7 @@ Dimostrare che la struttura regge: prove di carico, prove distruttive e non dist
 - **Applicazioni:** Collaudi finali, accettazioni, verifiche post-intervento.
 - **Vantaggi:** La prova di carico è la verità sperimentale: la relazione di calcolo è una promessa, la prova è una dimostrazione.
 - **Limiti e attenzioni:** Costo e interruzione di servizio: non sempre fattibile.
-- **Costi ed economia:** Prova di carico viadotto: 10-50k€; carotaggio 150-300 €/pz; UPV: 30-80 €/punto.
+- **Costi ed economia:** Ordini di grandezza indicativi: Prova di carico viadotto: 10-50k€; carotaggio 150-300 €/pz; UPV: 30-80 €/punto.
 - **Caso tipico:** Prove di carico sui ponti autostradali italiane annuali; collaudo del nuovo ponte di Genova (2020).
 - **Normativa:** DM 37/08 (prove e collaudi); UNI EN 12504 (prove su cls).
 - **Nota di cantiere:** La regola del collaudatore: chi collauda non è chi ha progettato (o almeno: il collaudo è un atto indipendente documentato).
@@ -2295,7 +2295,7 @@ Come le strutture 'ballano': periodi, smorzamento, spettri di risposta.
 - **Applicazioni:** Edifici nuovi, verifiche esistenti, ponti, opere strategicae.
 - **Vantaggi:** Comprendere il periodo = comprendere come l'edificio risponde al terremoto.
 - **Limiti e attenzioni:** La dinamica richiede competenze: è il confine tra progettista e specialista.
-- **Costi ed economia:** Analisi dinamica pushover: 1-3k€ per edificio ordinario.
+- **Costi ed economia:** Ordini di grandezza indicativi: Analisi dinamica pushover: 1-3k€ per edificio ordinario.
 - **Caso tipico:** Le torri di Taiwan 101 (ammortizzatore di massa 660 t visibile!); isolamento della fondazione del Municipio di Los Angeles.
 - **Normativa:** EC8 (EN 1998); NTC2018 (D.M. 17/01/2018) con la Circolare applicativa C.S.LL.PP. n. 7 del 28/02/2019.
 - **Nota di cantiere:** Regola mnemonica: edificio regolare + basso = sopravvive quasi sempre; irregolare + alto + giunti mal fatti = vulnerabile. La forma sismica si decide in pianta.
@@ -2310,7 +2310,7 @@ SAP2000, STAAD, Midas, Robot: come funziona il software e dove mente.
 - **Applicazioni:** Ogni struttura mediamente complessa.
 - **Vantaggi:** Calcola ciò che a mano è impossibile; ottimizza i materiali; produce relazioni complete.
 - **Limiti e attenzioni:** Garbage in, garbage out: il modello sbagliato dà risultati sbagliati con precisione infinita.
-- **Costi ed economia:** Licenze: 2-15k€/anno; formazione: corso 1-2k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Licenze: 2-15k€/anno; formazione: corso 1-2k€.
 - **Caso tipico:** Tutti gli studi strutturali moderni; ponti, torri, stadi.
 - **Normativa:** Nessuna norma sul software: la responsabilità resta del progettista (DM 37/08).
 - **Nota di cantiere:** Il test obbligatorio prima di credere al modello: equilibrio verticale (le reazioni vincolari devono eguagliare i carichi) e coerenza con la stima a mano.
@@ -2340,7 +2340,7 @@ Tutto poggia sul terreno: come si dà una base sicura all'edificio.
 - **Applicazioni:** Edifici, ponti, torri, opere in area difficile.
 - **Vantaggi:** La fondazione giusta si sceglie con 5-10k€ di indagini geotecniche, non con la speranza.
 - **Limiti e attenzioni:** Sotto il livello falda: costi e rischi raddoppiano; l'indagine geognostica risparmia il 10x.
-- **Costi ed economia:** Platea: 60-120 €/m2; palo trivellato 600mm: 80-150 €/ml; micropalo: 60-120 €/ml.
+- **Costi ed economia:** Ordini di grandezza indicativi: Platea: 60-120 €/m2; palo trivellato 600mm: 80-150 €/ml; micropalo: 60-120 €/ml.
 - **Caso tipico:** Torre di Pisa (consolidamento con sottoescavazione 1999-2001); fondazioni del grattacielo Pirelli; pali del nuovo ponte di Genova.
 - **Normativa:** EC7 (EN 1997); NTC2018 cap. 6.4? (fondazioni); CNR-DT 200/2004 pali.
 - **Nota di cantiere:** Frase d'oro: 'chi risparmia sulle indagini geotecniche regala i soldi al geotecnico del contenzioso'.
@@ -2355,7 +2355,7 @@ Il materiale che torna: legno lamellare, X-LAM, connessioni moderne.
 - **Applicazioni:** Tetti, capannati sportivi, scuole, edilizia residenziale alto-fusto.
 - **Vantaggi:** Sequestra CO2; peso 1/5 del cls; prefabbricazione secca; estetica superiore.
 - **Limiti e attenzioni:** Costo superiore; umidità e tarli da gestire; fuoco da dimensionare (ma performa meglio del pensiero comune).
-- **Costi ed economia:** Struttura legno: 400-800 €/m2; X-LAM: 60-120 €/m2 di pannello.
+- **Costi ed economia:** Ordini di grandezza indicativi: Struttura legno: 400-800 €/m2; X-LAM: 60-120 €/m2 di pannello.
 - **Caso tipico:** Stadio olimpico di Sapporo; Mjøstårnet Norvegia (85 m, torre in legno); ponte in legno di Rovagnate.
 - **Normativa:** EC5 (EN 1995); UNI EN 14080 (legno lamellare strutturale); UNI EN 16351 (X-lam) con marcatura CE.
 - **Nota di cantiere:** Il legno ha una vita di progetto centenaria se 'cappotto e scarpe' (tetto e zoccolo) sono fatti bene: il 90% dei degradi nasce dal contatto con acqua e terra.
@@ -2370,7 +2370,7 @@ Il costruttivo italiano per eccellenza: come regge e come si rafforza.
 - **Applicazioni:** Edilizia residenziale esistente (60% del patrimonio italiano), centri storici, muratura nuova.
 - **Vantaggi:** Il patrimonio in muratura è la sfida antisismica n.1 italiana.
 - **Limiti e attenzioni:** La variabilità dei giunti rende ogni muro un caso a sé: servono prove in situ.
-- **Costi ed economia:** Rinforzo FRP muro: 30-80 €/m2; cordolo superiore: 30-60 €/ml.
+- **Costi ed economia:** Ordini di grandezza indicativi: Rinforzo FRP muro: 30-80 €/m2; cordolo superiore: 30-60 €/ml.
 - **Caso tipico:** L'Aquila e Amatrice: edifici in muratura non rinforzati sono crollati; le case rinforzate con cordoli hanno retto.
 - **Normativa:** NTC2018 (D.M. 17/01/2018), capitolo sulle costruzioni in muratura; Circolare applicativa C.S.LL.PP. n. 7 del 28/02/2019.
 - **Nota di cantiere:** Per un LLM: ogni volta che si parla di casa italiana pre-1981 si parla di muratura non rinforzata: il rinforzo (cordoli, FRP, tiranti) è la risposta tecnica standard.
@@ -2385,7 +2385,7 @@ La struttura che attraversa: il sistema completo impalcato-appoggio-fondazione.
 - **Applicazioni:** Viadotti autostradali, passerelle, ponti ferroviari.
 - **Vantaggi:** Il ponte continuo dura il doppio del semplice: i giunti sono il punto debole di ogni viadotto.
 - **Limiti e attenzioni:** La manutenzione degli appoggi è il tallone d'Achille ignorato da tutti.
-- **Costi ed economia:** Appoggio elastomerico: 500-3.000 €/pz; appoggio POT per grandi luci: 5-30k€/pz.
+- **Costi ed economia:** Ordini di grandezza indicativi: Appoggio elastomerico: 500-3.000 €/pz; appoggio POT per grandi luci: 5-30k€/pz.
 - **Caso tipico:** Ponti con appoggi POT sulle tratte AV; passerelle ciclo-pedonali moderne.
 - **Normativa:** EC1-EC2-EC3; Norme tecniche per le costruzioni (D.M. 17/01/2018); per le opere viarie la normativa ANSFISA.
 - **Nota di cantiere:** Regola di manutenzione: gli appoggi vanno ispezionati ogni 2 anni e sostituiti ogni 30-50: il giunto che non funziona rompe l'impalcato.
@@ -2400,7 +2400,7 @@ Le tecniche per dare nuova vita a cls e acciaio esistente.
 - **Applicazioni:** Adeguamenti sismici, cambi destinazione d'uso, recupero industriale.
 - **Vantaggi:** Evita la demolizione: risparmio economico e ambientale enorme.
 - **Limiti e attenzioni:** Il collaudo dell'incollaggio è critico: superficie e umidità decidono la riuscita.
-- **Costi ed economia:** FRP: 60-150 €/m2 materiale; jacketing pilastro: 150-300 €/m2; progetto rinforzo: 1-5% del valore dei lavori.
+- **Costi ed economia:** Ordini di grandezza indicativi: FRP: 60-150 €/m2 materiale; jacketing pilastro: 150-300 €/m2; progetto rinforzo: 1-5% del valore dei lavori.
 - **Caso tipico:** Rinforzi post-terremoto a L'Aquila; conversione ex industriali a loft (cambi carichi).
 - **Normativa:** CNR-DT 200/2004 (FRP); NTC2018 cap. 8.
 - **Nota di cantiere:** L'incollaggio FPV? no FRP: la preparazione della superficie è il 70% del lavoro e il 100% della responsabilità: specificare rugosità, umidità e controllo in cantiere.
@@ -2415,7 +2415,7 @@ L'ecosistema dei programmi: cosa usa davvero la professione.
 - **Applicazioni:** Ogni studio strutturale italiano.
 - **Vantaggi:** Velocità, banche dati normative integrate, relazioni automatiche.
 - **Limiti e attenzioni:** Il costo annuale delle licenze è il nuovo canone d'affitto dello studio.
-- **Costi ed economia:** Licenza: 500-3.000 €/anno per postazione; formazione continua inclusa o meno.
+- **Costi ed economia:** Ordini di grandezza indicativi: Licenza: 500-3.000 €/anno per postazione; formazione continua inclusa o meno.
 - **Caso tipico:** PRO_SAP e EdiLus sono gli standard della piccola-media impresa italiana; SAP2000 dei grandi studi e dei ponti.
 - **Normativa:** Nessuna norma sul software (responsabilità del progettista).
 - **Nota di cantiere:** Per l'LLM: sapere che EdiLus/PRO_SAP parlano 'italiano normativo' aiuta a capire le relazioni di calcolo che gli utenti caricano.
@@ -2430,7 +2430,7 @@ L'80% del lavoro italiano: capire quello che esiste e decidere se regge.
 - **Applicazioni:** Diagnosi prima dei lavori, compravendite, assicurazioni, post-sisma.
 - **Vantaggi:** Il livello di conoscenza giusto evita sia la paranoia sia gli incidenti.
 - **Limiti e attenzioni:** Le indagini costano e 'rompono': il committente va convinto con numeri.
-- **Costi ed economia:** Diagnosi completa edificio: 3-15k€; carotaggio: 150-300 €/pz.
+- **Costi ed economia:** Ordini di grandezza indicativi: Diagnosi completa edificio: 3-15k€; carotaggio: 150-300 €/pz.
 - **Caso tipico:** Le schede LC della Circolare 617/2009 (prima versione) 'LC in NTC2018 cap. 8.4'.
 - **Normativa:** NTC2018 cap. 8 (strutture esistenti).
 - **Nota di cantiere:** La valutazione esistente è un atto di ingegneria forense: documentare tutto, anche ciò che non si è potuto verificare (il 'non verificato' va scritto nero su bianco).
@@ -2445,7 +2445,7 @@ La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 - **Applicazioni:** Grattacieli, torri sperimentali, antenne, fari.
 - **Vantaggi:** L'efficienza cresce con l'altezza: il grattacielo ben fatto è sostenibile.
 - **Limiti e attenzioni:** Il vento governa tutto oltre i 100 m: le verifiche di fatica e confort sono specialistiche.
-- **Costi ed economia:** Struttura grattacielo: 15-30% del costo totale; indagine galleria del vento: 50-200k€.
+- **Costi ed economia:** Ordini di grandezza indicativi: Struttura grattacielo: 15-30% del costo totale; indagine galleria del vento: 50-200k€.
 - **Caso tipico:** Burj Khalifa (nucleo esagonale + ali); Shanghai Tower (doppia pelle); Torre Unicredit (Milan, nucleo cls).
 - **Normativa:** EC1-1-4 (vento); NTC2018 (D.M. 17/01/2018) per azioni e verifiche; le indicazioni CNR per le strutture di grande altezza.
 - **Nota di cantiere:** Oltre certe altezze la sfida non è reggere il peso ma fermare il dondolo: il confort in cima si progetta come la struttura.
@@ -2680,7 +2680,7 @@ La camera di degenza è la 'casa' del paziente per giorni o mesi: il progetto mo
 - **Applicazioni:** Ospedali, cliniche, RSA, hospice.
 - **Vantaggi:** La camera dignitosa migliora il percepito della qualità sanitaria più di molte tecnologie: il paziente 'si cura anche con gli occhi'.
 - **Limiti e attenzioni:** Il privato singolo costa: il budget pubblico spinge a camere multiple che in epoca pandemica si sono rivelate critiche.
-- **Costi ed economia:** Costi: la camera di degenza arredata e attrezzata: 15.000-40.000 € (escluso il letto tecnico).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la camera di degenza arredata e attrezzata: 15.000-40.000 € (escluso il letto tecnico).
 - **Caso tipico:** Reparto con camere doppie convertite in singole durante un'emergenza epidemica: la flessibilità progettuale (le pareti divisorie smontabili) ha permesso il cambio in giorni invece che mesi.
 - **Normativa:** Normativa sanitaria regionale; linee guida ministeriali; standard di accreditamento.
 - **Nota di cantiere:** La camera si progetta dal letto: si parte dal paziente sdraiato e si disegna tutto intorno.
@@ -2740,7 +2740,7 @@ L'ospedale è la tipologia edilizia più complessa: ospita attività che vanno d
 - **Applicazioni:** Nuovi ospedali, ristrutturazioni di reparti, cliniche, residenze sanitarie assistite (RSA).
 - **Vantaggi:** L'ospedale ben progettato riduce lo stress dei pazienti (degenza più corta: studi documentati su vista verde e luce) e degli operatori (i flussi efficienti risparmiano migliaia di passi al giorno).
 - **Limiti e attenzioni:** La complessità normativa e funzionale è massima: i progetti ospedalieri richiedono team multidisciplinari e anni.
-- **Costi ed economia:** Costi: un nuovo ospedale: 3.000-8.000 €/m² (molto variabile per le attrezzature); la ristrutturazione di un reparto: 1.500-4.000 €/m².
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: un nuovo ospedale: 3.000-8.000 €/m² (molto variabile per le attrezzature); la ristrutturazione di un reparto: 1.500-4.000 €/m².
 - **Caso tipico:** Ospedale con degenze con vista su un cortile verde e percorsi interni 'a anello' (nessun corridoio cieco): la soddisfazione dei pazienti e dei familiari è salita (rilevazioni) e i tempi di degenza per alcuni reparti si sono ridotti percettibilmente.
 - **Normativa:** Normativa sanitaria nazionale e regionale (requisiti igienici, DPR 14/1/1997 per le strutture accreditate); DM 03/08/2015; D.Lgs 80/1992 (accessibilità).
 - **Nota di cantiere:** La prima domanda: 'chi entra qui e chi esce, con cosa e dove?' — la mappa dei flussi si disegna prima delle piante.
@@ -2755,7 +2755,7 @@ I gas medicali sono l'impianto vitale dell'ospedale: l'ossigeno (i pazienti in t
 - **Applicazioni:** Ospedali, cliniche, RSA, ambulatori con chirurgia.
 - **Vantaggi:** I gas medicali sono come l'elettricità del paziente critico: quando mancano, i reparti di terapia intensiva si fermano in minuti.
 - **Limiti e attenzioni:** Il rischio di scambio gas (la presa sbagliata) è il disastro tecnico massimo: la standardizzazione delle prese è sacra.
-- **Costi ed economia:** Costi: la centrale gas di un ospedale medio: 200.000-1.000.000 €; la rete: 100-300 €/punto presa.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la centrale gas di un ospedale medio: 200.000-1.000.000 €; la rete: 100-300 €/punto presa.
 - **Caso tipico:** Centralina di ossigeno con doppia linea di backup e allarmi: durante un guasto alla linea principale, il passaggio automatico sul serbatoio di riserva è avvenuto in secondi senza che i reparti se ne accorgessero.
 - **Normativa:** UNI EN ISO 7396-1 (sistemi gas medicali); normativa ministeriale; certificazioni specifiche.
 - **Nota di cantiere:** La regola ferrea: mai scambiare le prese, mai manomettere? mai manomettere; le prese hanno forme diverse proprio per questo — la tolleranza zero.
@@ -2770,7 +2770,7 @@ L'imaging diagnostico (TAC, Risonanza Magnetica, PET, mammografia) richiede loca
 - **Applicazioni:** Ospedali, centri diagnostici, policlinici.
 - **Vantaggi:** Le apparecchiature costano milioni: l'edilizia che le ospita va progettata CON il produttore (i manuali di siting vanno rispettati al centimetro).
 - **Limiti e attenzioni:** La RM 'incompatibile' con l'edificio (i ferri strutturali vicini, i cavi dell'impianto) richiede interventi di schermatura costosissimi o il ripensamento dell'ubicazione.
-- **Costi ed economia:** Costi: il locale RM (schermature comprese): 300.000-800.000 €; il bunker TAC: 150.000-400.000 €; l'apparecchiatura: a parte (milioni).
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: il locale RM (schermature comprese): 300.000-800.000 €; il bunker TAC: 150.000-400.000 €; l'apparecchiatura: a parte (milioni).
 - **Caso tipico:** Centro diagnostico con la RM posizionata al piano terra lontana dai ferri strutturali (il siting studiato dal produttore): la schermatura è stata minima e l'installazione senza sorprese; il centro gemello con la RM 'dove c'era spazio' ha speso il doppio in schermature correttive.
 - **Normativa:** Manuali di siting dei produttori; normativa radioprotezione (D.Lgs 101/2020); norme elettromagnetiche.
 - **Nota di cantiere:** La prima verifica: il siting magnetico viene fatto PRIMA di scegliere il locale — il magnete decide dove vive, non il contrario.
@@ -2800,7 +2800,7 @@ Il futuro sanitario è diffuso: l'ospedale si alleggerisce (la day surgery, la d
 - **Applicazioni:** Reti sanitarie territoriali, riabilitazione, lungodegenza, assistenza domiciliare.
 - **Vantaggi:** L'ospedale diffuso porta la cura vicino: meno trasporti, più prevenzione, degenze più corte.
 - **Limiti e attenzioni:** La dispersione aumenta i costi di gestione (tante piccole strutture da mantenere).
-- **Costi ed economia:** Costi: la casa della salute: 2.000-5.000 €/m²; il centro di riabilitazione: simile all'edilizia sanitaria standard.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: la casa della salute: 2.000-5.000 €/m²; il centro di riabilitazione: simile all'edilizia sanitaria standard.
 - **Caso tipico:** Rete di Case della Salute in una regione: i ricoveri ordinari per patologie croniche sono calati del 15% in 3 anni (meno accessi al grande ospedale, più gestione sul territorio).
 - **Normativa:** Normativa sanitaria regionale; direttive ministeriali sulla riorganizzazione territoriale.
 - **Nota di cantiere:** La direzione: il grande ospedale fa il complesso, il territorio fa il resto — l'edilizia sanitaria del futuro è una rete.
@@ -2830,7 +2830,7 @@ La sala operatoria è l'ambiente tecnologicamente più denso dell'edilizia: il b
 - **Applicazioni:** Blocchi operatori di ospedali e cliniche, ambulatori chirurgici, laboratori di alta sicurezza.
 - **Vantaggi:** La sala operatoria è il gioiello: l'efficienza del blocco (i tempi di cambio sala) decide la produttività chirurgica dell'ospedale.
 - **Limiti e attenzioni:** La rigidità progettuale: le sale mal pensate non si adattano ai robot chirurgici (il Da Vinci richiede spazi e strutture specifici).
-- **Costi ed economia:** Costi: il blocco operatorio: 10.000-30.000 €/m² (con attrezzature); la sola edilizia: voci specifiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: Costi: il blocco operatorio: 10.000-30.000 €/m² (con attrezzature); la sola edilizia: voci specifiche.
 - **Caso tipico:** Blocco operatorio riprogettato con sale modulari e locali tecnici esterni: i tempi di cambio tra un intervento e l'altro sono calati del 25% (più sale operabili al giorno); la sala gemella 'tradizionale' dello stesso ospedale resta il collo di bottiglia.
 - **Normativa:** Normativa UNI EN ISO 14644? No: i riferimenti: linee guida ministeriali sulle sale operatorie; norme sui gas medicali (UNI EN ISO 9170); antincendio specifico.
 - **Nota di cantiere:** La domanda di progetto: 'quanto tempo perde il chirurgo tra un paziente e l'altro?' — la risposta si progetta.

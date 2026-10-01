@@ -188,3 +188,10 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - Nuovi esami: ESAMI/AEROPORTI, ESAMI/PORTI_MARITTIMI, ESAMI/EMERGENZE (250 domande ciascuno), chiavi riservate fuori repository
 - Rettifica conteggio del giro M: il totale corretto era 63 pack / 870 schede / 64 esami (era stato scritto 905 per errore di somma); nessuna scheda coinvolta, solo il numero nel registro
 - Totale repository: 66 pack, 901 schede, 67 esami
+
+## Giro di verifica O — controllo pre-tag v1.2.0 (2026-10-01)
+
+- Verifica completa di tutti i 66 pack e 67 esami prima del tag v1.2.0: validazione JSON, schema 11 chiavi, prefisso costi (295 schede normalizzate), marker di bozza, coerenza domande↔chiavi, conteggi COURSE.yaml. Esito: 0 anomalie residue
+- ESAMI/RISANAMENTO ricostruito come coppia coerente (277 domande + chiave riservata), chiave del test da 1.000 domande rimossa dal tracciamento git
+- Dettaglio correzioni: CHANGELOG.md, sezione Giro O (voci O1–O5)
+- Totale repository (invariato): 66 pack, 901 schede, 67 esami

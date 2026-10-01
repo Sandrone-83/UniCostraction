@@ -80,7 +80,7 @@ Rettangoli, triangoli, cerchi, trapezi: calcolare superfici di lavoro senza soft
 - **Applicazioni:** Misura pavimenti, coperture, intonaci, terreni, pannelli fotovoltaici.
 - **Vantaggi:** Le superfici si calcolano a mano in cantiere: chi non le sa calcola sprechi o ordinazioni sbagliate.
 - **Limiti e attenzioni:** Le figure reali non sono mai perfette: aggiungere sempre uno scarto (5-10%).
-- **Costi ed economia:** La calcolatrice tascabile resta lo strumento n.1 del capocantiere.
+- **Costi ed economia:** Ordini di grandezza indicativi: La calcolatrice tascabile resta lo strumento n.1 del capocantiere.
 - **Caso tipico:** Il teorema di Pitagora: dati due lati di un angolo retto trova il terzo (il muro che 'taglia' in diagonale).
 - **Normativa:** Nessuna: geometria euclidea.
 - **Nota di cantiere:** Regola d'oro cantiere: 'misura due volte, taglia una'. Le formule non perdonano l'errore di lettura del metro.
@@ -170,7 +170,7 @@ Sen, cos, tan: lo strumento per misurare ciò che non si può arrivare a toccare
 - **Applicazioni:** Tracciamenti, rilievi indiretti, coperture inclinate, scavi, topografia.
 - **Vantaggi:** Misura altezze e distanze senza salire: la trigometria è il GPS del geometra.
 - **Limiti e attenzioni:** Gli angoli in gradi vs radianti nei software: il settaggio sbagliato rovina il calcolo.
-- **Costi ed economia:** La calcolatrice scientifica (50 €) risolve il 90% dei problemi.
+- **Costi ed economia:** Ordini di grandezza indicativi: La calcolatrice scientifica (50 €) risolve il 90% dei problemi.
 - **Caso tipico:** Pendenza 100% = 45°; pendenza 30° = 57,7%: le segnaletiche stradali e le coperture parlano lingue diverse.
 - **Normativa:** Nessuna.
 - **Nota di cantiere:** Regola mnemonica: SOH-CAH-TOA (Sen=Opp/Ipo, Cos=Add/Ipo, Tan=Opp/Add). Impararla una volta per sempre.

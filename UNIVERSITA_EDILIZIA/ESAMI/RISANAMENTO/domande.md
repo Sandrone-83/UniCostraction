@@ -1,2501 +1,2497 @@
-# ESAME — RISANAMENTO E RECUPERO EDILIZIO (277 domande)
+# ESAME — RISANAMENTO (277 domande)
 
 Risposte NON presenti: il file chiave è riservato (fuori repository).
-Le opzioni sbagliate sono errori tipici di cantiere, tutti pertinenti alla materia.
+Le opzioni sbagliate sono errori tipici di uno specialista del settore, pertinenti alla materia della domanda.
 
 ## Domanda 1
 
-Per una termografia efficace dello stato di un edificio in inverno, quale differenza di temperatura tra interno ed esterno è consigliata?
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non è rilevante: la termografia funziona a qualsiasi temperatura
-- B) Almeno 3-5 °C di scarto
-- C) Solo se la differenza supera i 40 °C
-- D) Almeno 15-20 °C di scarto
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) i nastri FRP orizzontali e verticali consolidano pannelli murari
 
 ## Domanda 2
 
-L'igrometro a contatto misura:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) La conducibilità termica del muro
-- B) La concentrazione di CO2 negli ambienti
-- C) L'umidità percentuale del legno e delle murature in superficie e in profondità
-- D) La temperatura di rugiada dell'aria
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri
 
 ## Domanda 3
 
-Il metodo del carburo di calcio serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Misurare la resistenza a compressione dei mattoni
-- B) Verificare la presenza di amianto nei materiali
-- C) Analizzare la composizione chimica dell'intonaco
-- D) Determinare il contenuto di umidità di un campione di muratura per via gravimetrica
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) CO.RE.PA per l'edilizia)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 4
 
-Nella mappatura dell'umidità di un edificio, le misure vanno riportate:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Solo in un verbale numerico senza riferimenti
-- B) A memoria per la relazione finale
-- C) Su pianta con la posizione e il valore di ogni misura
-- D) Solo nei punti con macchie visibili
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) la rete di armatura dove il supporto è incoerente
+- D) il trasporto come rifiuto pericoloso con FIR e lo smaltimento in discarica autorizzata
 
 ## Domanda 5
 
-Prima di ogni indagine invasiva su un edificio vincolato è necessario:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) La comunicazione al vicino di casa
-- B) Il permesso del comune per ogni foro
-- C) Nulla, le indagini sono sempre libere
-- D) Il nulla osta della Soprintendenza
+- A) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) La mappa: manutenzione ordinaria (senza titolo, con CILA solo se esterna), manutenzione straordinaria (CILA o SCIA secondo i comuni e le opere), ristrutturazione edilizia (SCIA), i titoli abilitativi del TU edilizio (DPR 380/2001)
 
 ## Domanda 6
 
-La termografia invernale di una parete mostra un rettangolo freddo in alto: la causa più probabile è:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Il ponte termico della soletta
-- B) Una tubazione dell'acqua calda
-- C) Umidità di risalita dal terreno
-- D) Isolante assente o cavedio con ricircolo d'aria
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) la rete di armatura dove il supporto è incoerente
+- C) Le cerchiature in acciaio o FRP (fibre impregnate di resina) irrigidiscono i muri
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 7
 
-Il rilievo stratigrafico serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Verificare la verticalità dei muri
-- B) Misurare l'altezza degli ambienti
-- C) Conoscere l'ordine e la natura degli strati della parete
-- D) Campionare l'aria indoor
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) l'isolamento del tetto come occasione obbligata (il sottotetto recuperato deve rispettare i valori di legge)
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 8
 
-La diagnosi di un edificio inizia sempre da:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) L'apertura dei muri con demolizioni
-- B) La termografia estiva
-- C) L'indagine visiva guidata da check-list e la raccolta documentale
-- D) Il prelievo di campioni per laboratorio
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le detrazioni fiscali per il recupero (ristrutturazioni, risparmio energetico, bonus sismico) con le regole di incasso (saldo o cessione del credito)
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 9
 
-Una verifica laser scanner di un edificio storico fornisce:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) La geometria precisa per il rilievo dello stato di fatto
-- B) La mappa dell'umidità nei muri
-- C) La resistenza sismica dell'edificio
-- D) La datazione delle murature
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il deumidificatore a refrigerazione (condensa su batteria fredda): portata 10-30 l/giorno per i locali
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 10
 
-La traccia fotografica georeferenziata pre-intervento serve soprattutto a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Verificare il lavoro dei muratori
-- B) Ottenere il titolo edilizio
-- C) Documentare lo stato originale in caso di contestazioni successive
-- D) Allegare immagini alla fattura
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) l'edilizia libera per interventi interni senza rilevanza (elenco nazionale aggiornato)
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 11
 
-Per distinguere condensa superficiale da umidità di risalita, si usa:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) L'analisi chimica dell'intonaco
-- B) Solo l'osservazione delle macchie
-- C) La misura dello spessore del muro
-- D) Il confronto tra temperatura di superficie e punto di rugiada, con igrometro a muro
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) il rilievo stratigrafico con picchiettature localizzate
+- C) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- D) il trasporto come rifiuto pericoloso con FIR e lo smaltimento in discarica autorizzata
 
 ## Domanda 12
 
-Un edificio con umidità persistente dopo ogni pioggia alla base di un muro perimetrale: prima ipotesi da verificare:
+Tra questi, quale limite è dichiarato nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) La rottura di una tubazione interna
-- B) La condensa degli ambienti interni
-- C) La risalita capillare dal terreno
-- D) L'acqua piovana che entra da gronda, cordolo o lattoneria difettosa
+- A) la mappatura dell'umidità prima/dopo permette di misurare l'efficacia del risanamento
+- B) la termografia è una fotografia del momento (sole, stagione)
+- C) la termografia trova ciò che l'occhio non vede (isolante assente, ponti termici, infiltrazioni)
+- D) La diagnosi documentata evita il 90% delle sorprese in corso d'opera
 
 ## Domanda 13
 
-L'umidità di risalita capillare si ferma tipicamente a un'altezza dal piano terra di:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Non ha un'altezza caratteristica
-- B) 20-30 cm sempre
-- C) 1-1,5 m, talvolta oltre nei muri spessi e porosi
-- D) 3-4 m in ogni caso
+- A) la rimozione con procedure a umido, aspirazione localizzata, camere di decontaminazione e DPI dei livelli massimi
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 14
 
-Il metodo di risanamento da risalita capillare che crea una barriera fisica continua è:
+Nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» la tecnologia comprende anche:
 
-- A) Il deumidificatore portatile
-- B) L'aerazione del locale
-- C) La tinteggiatura impermeabile
-- D) Il taglio murario con inserimento della barriera
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) CO.RE.PA per l'edilizia)
+- C) La mappa: manutenzione ordinaria (senza titolo, con CILA solo se esterna), manutenzione straordinaria (CILA o SCIA secondo i comuni e le opere), ristrutturazione edilizia (SCIA), i titoli abilitativi del TU edilizio (DPR 380/2001)
+- D) la deumidificazione canalizzata negli impianti di climatizzazione con ruota integrata
 
 ## Domanda 15
 
-Le iniezioni chimiche contro la risalita capillare si eseguono:
+Secondo la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», a quali riferimenti normativi fare riferimento?
 
-- A) In fori a tamburo ravvicinati, in pressione controllata, con prodotto adatto al materiale murario
-- B) In un unico foro al centro della stanza
-- C) Con il prodotto applicato a pennello sulla superficie
-- D) Solo su intonaco fresco
+- A) le regole del restauro secondo il Codice dei Beni Culturali (D.Lgs 42/2004) per gli edifici vincolati
+- B) le prescrizioni antincendio e di accessibilità per i nuovi volumi abitati
+- C) la Circolare n. 7/2019 per le applicazioni
+- D) i requisiti di ventilazione degli ambienti secondo le norme nazionali di salubrità
 
 ## Domanda 16
 
-Gli intonaci deumidificanti funzionano perché:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Contengono biocidi che uccidono la muffa
-- B) Lasciano evaporare l'umidità del muro attraverso la loro porosità
-- C) Riscaldano il muro dall'interno
-- D) Sigillano completamente la superficie
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 17
 
-L'errore classico che rovina il risanamento da risalita capillare è:
+Nella scheda «L'umidità di risalita capillare: come sale e come si risana» la tecnologia comprende anche:
 
-- A) Posare l'intonaco deumidificante in inverno
-- B) Fare due mani invece di una
-- C) Usare la rete di armatura
-- D) Chiudere gli intonaci deumidificanti con pitture impermeabili o carta da parati
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 18
 
-Dopo la posa della barriera chimica, il muro saturo:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Si asciuga in 48 ore
-- B) Si asciuga solo d'estate
-- C) Ci mette mesi o anni ad asciugare completamente
-- D) Non si asciuga mai
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante)
 
 ## Domanda 19
 
-La barriera contro la risalita va posata:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo sui muri perimetrali esterni
-- B) A 30 cm dal pavimento
-- C) Al filo del piano terra esterno
-- D) Sotto la quota del pavimento finito, in continuità sotto i muri portanti interni
+- A) la rete di armatura dove il supporto è incoerente
+- B) la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre)
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 20
 
-Le efflorescenze bianche sui muri a terra sono:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Sali disciolti dall'acqua di risalita e cristallizzati in superficie
-- B) Residui di colla delle carte da parati
-- C) Degrado biologico della tinta
-- D) Cemento non carbonatato
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 21
 
-La scelta tra iniezione e taglio murario dipende principalmente da:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) La natura del muro, i vincoli, i carichi e la possibilità di lavorare in profondità
-- B) La stagione in corso
-- C) La marca del deumidificatore
-- D) Il colore dell'intonaco esistente
+- A) le barre filettate attraversano i muri con piastre di contrasto
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 22
 
-L'innalzamento del livello stradale esterno rispetto alla zoccolatura originale provoca:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Peggioramento della risalita capillare perché il muro entra nel terreno bagnato
-- B) Solo problemi estetici
-- C) Nessun effetto sull'umidità
-- D) Miglioramento della ventilazione
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 23
 
-La condensa superficiale si forma quando:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Il muro è troppo caldo
-- B) Il muro è troppo spesso
-- C) L'aria è troppo secca
-- D) La temperatura di superficie del muro scende sotto il punto di rugiada dell'aria ambiente
+- A) la rete di armatura dove il supporto è incoerente
+- B) le agevolazioni fiscali per l'adeguamento sismico (riduzione del rischio sismico con classificazione finale)
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 24
 
-Il metodo di Glaser valuta:
+Quale ordine di grandezza economico è riportato per «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) La trasmittanza termica in regime dinamico
-- B) La porosità dell'intonaco
-- C) La condensa interstiziale nella parete strato per strato
-- D) La resistenza sismica della parete
+- A) il ponteggio per un edificio residenziale 15-40 €/m² di facciata
+- B) il censimento con campionamenti 300-1.000 €
+- C) il rilievo laser di un edificio 1.000-3.000 €
+- D) cappotto locale di un angolo 50-100 €/m²
 
 ## Domanda 25
 
-La muffa ricorrente dietro un armadio appoggiato al muro nord è causata tipicamente da:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) L'umidità del legno dell'armadio
-- B) Il ristagno d'aria umida sulla superficie fredda non ventilata
-- C) La vernice dell'armadio
-- D) La conduttività dell'armadio
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 26
 
-La cura corretta della muffa da condensa prevede sempre:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) La sola pittura antimuffa
-- B) Il riscaldamento continuo a 25 °C
-- C) L'eliminazione della causa (ponte termico, umidità d'aria, ventilazione)
-- D) La sanificazione con candeggina annuale
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) l'isolamento del tetto come occasione obbligata (il sottotetto recuperato deve rispettare i valori di legge)
 
 ## Domanda 27
 
-Le pitture antimuffa senza risoluzione della causa sono:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Un isolante termico
-- B) Un miglioramento della traspirabilità
-- C) La soluzione definitiva
-- D) Un trucco temporaneo che maschera il problema
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) la VMC (ventilazione meccanica controllata) con flusso continuo o a umidità regolata
 
 ## Domanda 28
 
-Una VMC monoblocco a singola stanza serve a:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Riscaldare l'ambiente
-- B) Filtrare l'acqua di rete
-- C) Scaricare il vapore alla fonte (bagno, cucina) prima che si diffonda
-- D) Deumidificare il muro
+- A) il rivestimento a intonaco 'sacrificial' che si degrada al posto del muro
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 29
 
-La soglia della finestra è un punto tipico di muffa perché:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) È il punto più alto del muro
-- B) È esposta al sole
-- C) È un ponte termico con l'interpiano e il telaio
-- D) È fatta di legno
+- A) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 30
 
-Per verificare se una macchia è condensa o infiltrazione si può:
+Nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» la tecnologia comprende anche:
 
-- A) Misurare l'umidità del muro con igrometro e confrontare con la rugiada
-- B) Guardare il colore della macchia
-- C) Aspettare la prossima pioggia
-- D) Scaldare la parete con phon
+- A) il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure
+- B) il rapporto di danno per la compagnia assicurativa con perizia fotografica
+- C) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 31
 
-L'isolamento interno mal eseguito può:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Aumentare la traspirazione
-- B) Spostare il punto di rugiada e peggiorare la muffa dietro i mobili
-- C) Non avere alcun effetto termico
-- D) Eliminare sempre la muffa
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 32
 
-La temperatura e l'umidità relative tipiche per prevenire la muffa negli ambienti abitati sono:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) 18-21 °C con umidità relativa 40-60%
-- B) Non influiscono
-- C) 15 °C con umidità relativa 80%
-- D) 25-28 °C con umidità relativa 70-80%
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) i nastri FRP orizzontali e verticali consolidano pannelli murari
 
 ## Domanda 33
 
-Stendere il bucato in casa senza ventilazione:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Aumenta fortemente il carico di vapore e il rischio di condensa e muffa
-- B) Non ha effetti sull'umidità interna
-- C) Migliora la qualità dell'aria
-- D) Disinfetta gli ambienti
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
 
 ## Domanda 34
 
-Il punto di rugiada dell'aria a 20 °C e 55% di umidità relativa è circa:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) 20 °C
-- B) 5 °C
-- C) 10-11 °C
-- D) 15 °C
+- A) La sequenza operativa: messa in sicurezza elettrica, estrazione con pompe e aspiratori, smaltimento dei materiali non recuperabili (cartongesso, isolanti, arredi imbottiti), asciugatura forzata con deumidificatori e ventilatori (settimane per i muri), disinfezione delle superfici (rischio microbiologico), verifica dell'umidità residua prima di richiudere
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 35
 
-Sui fabbricati storici con muratura a calce, l'intonaco corretto è:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) L'intonaco cementizio ad alta resistenza
-- B) La resina epossidica
-- C) La malta a grassello di calce, traspirante e compatibile
-- D) Il gesso premiscelato
+- A) la conformità catastale e urbanistica pre-vendita
+- B) la rete di armatura dove il supporto è incoerente
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
 
 ## Domanda 36
 
-L'intonaco cementizio applicato su muratura a calce tende a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Migliorare la traspirazione
-- B) Assorbire l'umidità del muro
-- C) Diventare più elastico col tempo
-- D) Staccare nei cicli di umidità perché più rigido e impermeabile del supporto
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) la certificazione di bonifica con analisi dell'aria finali
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 37
 
-Le tinteggiature silossaniche sono indicate per:
+Perché «L'umidità di risalita capillare: come sale e come si risana» conviene secondo la scheda? Scegli il vantaggio corretto:
 
-- A) Ogni supporto senza preparazione
-- B) Facciate esposte con buona protezione dal carico batterico e dallo smog, su supporti minerali
-- C) Solo gli interni
-- D) Solo il legno
+- A) le iniezioni fatte male (fori troppo distanti, prodotto sbagliato per il materiale) non funzionano
+- B) Il muro saturo ci mette mesi o anni ad asciugare dopo la barriera: la fretta rovina il risultato
+- C) il rialzo della quota stradale esterno annulla la barriera interna
+- D) gli intonaci deumidificanti permettono la messa in opera delle finiture prima che il muro sia asciutto (il muro si asciuga attraverso di loro)
 
 ## Domanda 38
 
-Prima della tinteggiatura estiva in piena estate, il supporto va:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Protetto dal sole diretto e bagnato se troppo caldo e asciutto
-- B) Lasciato al vento
-- C) Scaldato al massimo
-- D) Trattato con acquaragia
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le barre filettate attraversano i muri con piastre di contrasto
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 39
 
-La carbonatazione della calce in intonaco a calce richiede:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) 24 ore
-- B) Settimane di stagionatura prima di sigillare con pitture
-- C) L'applicazione di primer sintetico
-- D) Una stagione di gelo
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) il deumidificatore con rotore ad adsorbione per i locali freddi (cantine)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 40
 
-L'intonaco deumidificante può essere finito prima che il muro sia asciutto perché:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Riscalda la parete
-- B) È impermeabile
-- C) Contiene resine che bloccano l'acqua
-- D) Lascia evaporare l'umidità residua attraverso la sua struttura macroporosa
+- A) le detrazioni fiscali per il recupero (ristrutturazioni, risparmio energetico, bonus sismico) con le regole di incasso (saldo o cessione del credito)
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 41
 
-La rete di armatura negli intonaci si usa quando:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Solo d'inverno
-- B) Sempre, obbligatoriamente
-- C) Il supporto è incoerente o i diversi materiali rischiano distacchi
-- D) Mai
+- A) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- B) la deumidificazione canalizzata negli impianti di climatizzazione con ruota integrata
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 42
 
-Sulle facciate vincolate, prima del risanamento serve:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Nulla di specifico
-- B) Solo il DURC
-- C) L'approvazione della Soprintendenza su materiali e colori
-- D) La SCIA
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) il consorzio di riferimento (es
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 43
 
-L'errore tipico che macchia il vetro durante la tinteggiatura:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) La lavorazione di mattina
-- B) L'uso del rullo troppo nuovo
-- C) La tinta troppo chiara
-- D) L'irrorazione del prodotto sul vetro non protetto: il silossanico macchia in modo permanente
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) le barre filettate attraversano i muri con piastre di contrasto
 
 ## Domanda 44
 
-Il risanamento delle facciate con macchie di umidità parte sempre da:
+Tra questi, quale limite è dichiarato nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Il lavaggio con idropulitrice
-- B) La diagnosi e l'eliminazione della causa dell'acqua (gronde, lattoneria, cordoli)
-- C) La pittura antimuffa
-- D) La sola rasatura delle macchie
+- A) gli intonaci deumidificanti permettono la messa in opera delle finiture prima che il muro sia asciutto (il muro si asciuga attraverso di loro)
+- B) le iniezioni fatte male (fori troppo distanti, prodotto sbagliato per il materiale) non funzionano
+- C) Le iniezioni chimiche sono poco invasive e compatibili con i vincoli storici
+- D) il taglio meccanico è la barriera definitiva dove fattibile
 
 ## Domanda 45
 
-In Italia la legge quadro sull'amianto è la:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Legge 10/1991
-- B) Legge 27 marzo 1992, n. 257
-- C) DPR 380/2001
-- D) D.Lgs 81/2008
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) la sabbia di falda pulita e le terre per i massetti drenanti
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 46
 
-Il regolamento attuativo che disciplina mappatura e metodi di bonifica dell'amianto è:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) D.M. 37/2008
-- B) DPR 20 maggio 2011, n. 177
-- C) D.Lgs 152/2006
-- D) DPR 207/2010
+- A) il controllo: igrostato a regolazione automatica con soglia 55-60% UR
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 47
 
-L'incapsulamento dell'amianto consiste in:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) La verniciatura a pennello
-- B) La rimozione completa
-- C) La copertura con vasi di fiori
-- D) La sigillatura dei materiali con prodotti che imprigionano le fibre
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) il metodo del carburo di calcio per il dosaggio gravimetrico
+- D) la rimozione con procedure a umido, aspirazione localizzata, camere di decontaminazione e DPI dei livelli massimi
 
 ## Domanda 48
 
-L'amianto diventa pericoloso soprattutto quando:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) È integro e indisturbato
-- B) È bagnato
-- C) Libera fibre respirabili in seguito a sfaldamento, taglio o degrado
-- D) È verniciato
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) le iniezioni di malta cementizia o resina ricompattano i nuclei vuoti
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 49
 
-La bonifica dell'amianto viene eseguita da:
+Per lavorare correttamente su «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», cosa raccomandano le note di cantiere?
 
-- A) Qualunque impresa edile
-- B) Squadre specializzate con formazione certificata e DPI dedicati
-- C) Il muratore di fiducia
-- D) Il giardiniere
+- A) i tempi di carbonatazione della calce sono lenti: non sigillare presto con pitture impermeabili
+- B) non richiudere prima dei valori igrometrici di riassetto: la muffa dentro il muro si vendica in autunno
+- C) conservare il titolo con i timbri di ricezione: in vendita lo chiederanno
+- D) Chiedere SEMPRE al Comune la pre-asseverazione per i lavori in zona vincolata o di dubbia classificazione
 
 ## Domanda 50
 
-Il rifiuto da bonifica amianto è trasportato con:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Sacchi neri standard
-- B) Il cassonetto comunale
-- C) Il camion del costruttore
-- D) Formulario di identificazione (FIR) verso discarica autorizzata per rifiuti pericolosi
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) il registro di carico e scarico (obbligo per il produttore)
 
 ## Domanda 51
 
-La UNI 8520 riguarda:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Gli intonaci deumidificanti
-- B) Le verifiche impianti elettrici
-- C) I ponteggi
-- D) La rimozione dei materiali contenenti amianto con criteri tecnici
+- A) la rete di armatura dove il supporto è incoerente
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) La mappa: manutenzione ordinaria (senza titolo, con CILA solo se esterna), manutenzione straordinaria (CILA o SCIA secondo i comuni e le opere), ristrutturazione edilizia (SCIA), i titoli abilitativi del TU edilizio (DPR 380/2001)
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 52
 
-Dopo la bonifica, la documentazione che certifica l'avvenuto lavoro comprende:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Solo la fattura
-- B) Nulla, è orale
-- C) Il DURC aggiornato
-- D) Verbali di bonifica, FIR, eventuali analisi finali dell'aria
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 53
 
-Il primo passo prima di una bonifica amianto è:
+Secondo la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale elemento fa parte della tecnologia dell'argomento trattato?
 
-- A) Il censimento con eventuale verifica in laboratorio dei materiali sospetti
-- B) La copertura con teli
-- C) La vendita del materiale
-- D) La demolizione
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre)
+- C) le tinture a calce per le finiture
+- D) il consorzio di riferimento (es
 
 ## Domanda 54
 
-La differenza tra incapsulamento e confinamento dell'amianto:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) L'incapsulamento sigilla il materiale sul posto; il confinamento isola l'area con barriere
-- B) Il confinamento rimuove il materiale
-- C) L'incapsulamento demolisce
-- D) Sono sinonimi
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) l'edilizia libera per interventi interni senza rilevanza (elenco nazionale aggiornato)
+- C) il metodo del carburo di calcio per il dosaggio gravimetrico
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 55
 
-Le operazioni di rimozione amianto avvengono tipicamente con:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Lavaggio con idropulitrice
-- B) Procedura a umido e aspirazione localizzata per evitare la dispersione delle fibre
-- C) Lavoro a secco con scalpello
-- D) Soffiatura ad aria compressa
+- A) la deumidificazione canalizzata negli impianti di climatizzazione con ruota integrata
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) la rete di armatura dove il supporto è incoerente
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 56
 
-La camera di decontaminazione della zona di lavoro serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Decontaminare persone e materiali in uscita dalla zona di bonifica
-- B) Dormire i guardiani
-- C) Conservare gli attrezzi
-- D) Ospitare la direzione lavori
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) La mappa: manutenzione ordinaria (senza titolo, con CILA solo se esterna), manutenzione straordinaria (CILA o SCIA secondo i comuni e le opere), ristrutturazione edilizia (SCIA), i titoli abilitativi del TU edilizio (DPR 380/2001)
 
 ## Domanda 57
 
-Le cerchiature in FRP sui muri hanno la funzione di:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Irrigidire il pannello murario e migliorare il comportamento fuori piano
-- B) Aumentare il peso del muro
-- C) Impermeabilizzare
-- D) Isolare termicamente
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 58
 
-Le iniezioni di consolidamento delle murature servono a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Impermeabilizzare il muro
-- B) Riscaldare la parete
-- C) Colorare l'intonaco
-- D) Ricompattare i nuclei vuoti e ripristinare la monoliticità
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) il trasporto come rifiuto pericoloso con FIR e lo smaltimento in discarica autorizzata
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 59
 
-Il consolidamento con tessuti in fibra di carbonio (FRP) sul cls richiede:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Temperature sotto zero
-- B) L'applicazione sotto la pioggia
-- C) Superfici polverose e bagnate
-- D) Superfici preparate meticolosamente: levigate, pulite e saturate con primer
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre)
 
 ## Domanda 60
 
-L'intervento di consolidamento va sempre preceduto da:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Il carico di prova
-- B) La diagnosi della causa della lesione (fondazione, sovraccarico, sisma)
-- C) La verniciatura
-- D) La demolizione delle parti lesionate
+- A) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 61
 
-I sistemi FRP sono sensibili a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Solo all'acqua piovana
-- B) Al vento leggero
-- C) Alla luce artificiale
-- D) Fuoco e raggi UV: vanno protetti con intonaci o vernici specifiche
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 62
 
-Un muro che si fessura per cedimento della fondazione va consolidato:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Con la vernice elastica
-- B) Solo con iniezioni
-- C) Risolvendo prima la causa (fondazioni) altrimenti le cerchiature non fermano il fenomeno
-- D) Solo con cerchiature
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 63
 
-Le barre filettate con piastre di contrasto attraversano:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Le fondazioni per profondità
-- B) I solai per renderli acustici
-- C) I muri per contrastare lo spanciamento fuori piano
-- D) Le travi per alleggerirle
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) le tecniche: tamponamenti rinforzati con reti e intonaci armati, collegamenti migliorati tra solai e muri (elementi di collegamento), rinforzo dei nodi con FRP, dissipatori per nuove costruzioni
 
 ## Domanda 64
 
-L'incamiciatura in cls fibrorinforzato si usa soprattutto per:
+Quale di questi è un limite o svantaggio documentato di «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Rinforzare fondazioni e zoccoli esistenti
-- B) Rifinire gli interni
-- C) Creare giardini pensili
-- D) Isolare acusticamente
+- A) La cura della causa (ponte termico o umidità d'aria) elimina la muffa definitivamente
+- B) I fungicidi e le pitture antimuffa senza cura della causa sono trucco temporaneo
+- C) il cappotto esterno cura muffa e consumi insieme
+- D) la VMC decentrata per singoli ambienti risolve i bagni e le cucine senza lavori impiantistici grandi
 
 ## Domanda 65
 
-La posa dei FRP in inverno richiede attenzione a:
+Quali sono le applicazioni tipiche di «L'umidità di risalita capillare: come sale e come si risana» secondo la scheda?
 
-- A) L'umidità dell'aria oltre 95% solo
-- B) Le temperature di posa del sistema (tipicamente 5-30 °C seconda scheda tecnica)
-- C) Il colore della resina
-- D) La fase lunare
+- A) Case antiche, ville di campagna, cantine e seminterrati, muri a confine, edifici in cui il livello stradale è salito nel tempo coprendo le zoccolature originali
+- B) Edifici residenziali e pubblici nelle zone sismiche (quasi tutta l'Italia), palazzi con lesioni, scuole e uffici da mettere in sicurezza
+- C) Angoli nord di camere da letto, dietro gli armadi appoggiati ai muri freddi, sotto le finestre (soglie), nelle case ristrutturate con cappotto interno mal fatto
+- D) Alluvioni e esondazioni, rotture di tubazioni, risalite fognarie, infiltrazioni prolungate scoperte tardi
 
 ## Domanda 66
 
-La garanzia del sistema di consolidamento FRP dipende da:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) La marca del pennello
-- B) Il colore applicativo
-- C) La posa certificata con verbali di applicazione secondo le istruzioni del produttore
-- D) La stagione di posa
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) il deumidificatore con rotore ad adsorbione per i locali freddi (cantine)
 
 ## Domanda 67
 
-La differenza tra rafforzamento locale e adeguamento sismico:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Sono la stessa cosa
-- B) Il rafforzamento riguarda solo il tetto
-- C) Il rafforzamento elimina le fragilità peggiori a costi contenuti; l'adeguamento porta l'edificio ai livelli delle nuove costruzioni
-- D) L'adeguamento è un intervento estetico
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- C) per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 68
 
-Le agevolazioni fiscali per la riduzione del rischio sismico richiedono:
+Il quadro normativo di «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» comprende anche:
 
-- A) La foto del cantiere
-- B) Solo la fattura del muratore
-- C) Nulla di documentale
-- D) La classificazione del rischio prima e dopo con perizia del professionista abilitato
+- A) DPR 20 agosto 1999 n. 248 e DPR 20 maggio 2011 n. 177 (regolamento attuativo: mappatura, metodi di bonifica, corsi obbligatori)
+- B) la valutazione della muffa negli ambienti indoor secondo le linee guida sulla qualità dell'aria interna
+- C) per i beni vincolati, il nulla osta della Soprintendenza prima di qualunque indagine invasiva
+- D) i regolamenti edilizi comunali per le pratiche locali
 
 ## Domanda 69
 
-Le NTC2018 per gli edifici esistenti sono contenute nel:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) D.M. 17 gennaio 2018 con la Circolare applicativa n. 7 del 28 febbraio 2019
-- B) D.M. 26/06/2015
-- C) DPR 380/2001
-- D) D.Lgs 81/2008
+- A) l'incamiciatura in cls fibrorinforzato sulle fondazioni
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 70
 
-Il collegamento solaio-muro migliorato serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Ridurre il peso del solaio
-- B) Evitare lo scorrimento dei solai e migliorare la scatola muraria in sisma
-- C) Migliorare l'acustica
-- D) Eliminare i ponti termici
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 71
 
-La prima fase di un intervento sismico sull'esistente è:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) L'installazione dei dissipatori
-- B) La demolizione dei muri deboli
-- C) La tinteggiatura
-- D) La valutazione di vulnerabilità sismica dell'edificio
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) i condotti dell'impiantistica nei recuperi di interrati: altezza tecnica da dedicare
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 72
 
-Un edificio con lesioni da terremoto ma agibile:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Può essere riabitato subito
-- B) Va solo ripulito
-- C) Va valutato da un tecnico strutturista prima di rientrarvi: le lesioni possono nascondere danni alle strutture portanti
-- D) Va abbandonato in ogni caso
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) la certificazione di bonifica con analisi dell'aria finali
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 73
 
-Le reti e intonaci armati sui tamponamenti servono a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Impermeabilizzare
-- B) Decorare
-- C) Prevenire il distacco fuori piano dei pannelli
-- D) Isolare termicamente
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) il consorzio di riferimento (es
 
 ## Domanda 74
 
-L'adeguamento sismico completo di un vecchio edificio:
+Secondo la scheda «L'umidità di risalita capillare: come sale e come si risana», quale indicazione di costo è corretta?
 
-- A) È obbligatorio per tutti gli edifici
-- B) Può costare quanto la ricostruzione: va valutato con analisi costi-benefici
-- C) Non richiede progetto
-- D) Costa sempre meno del rafforzamento
+- A) il rifiuto pericoloso da 150 €/t in su a seconda della tipologia
+- B) taglio meccanico con barriera 80-150 €/ml
+- C) deumidificatore portatile 150-400 €
+- D) Ordini di grandezza indicativi: sopralluogo con termografia 300-800 €
 
 ## Domanda 75
 
-I dissipatori sismici si installano tipicamente:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Nei giardini
-- B) Negli edifici nuovi o in adeguamenti importanti, per smaltire l'energia del terremoto
-- C) Sui muri storici a vista
-- D) Nelle fondazioni dei capannoni di sera
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
 
 ## Domanda 76
 
-Il rafforzamento locale con cerchiature e collegamenti è:
+Quale dato economico o di costo è citato nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Un intervento solo estetico
-- B) Una pratica catastale
-- C) Un obbligo per legge in ogni caso
-- D) Un intervento di riduzione del rischio per la vita residua dell'edificio
+- A) cocciopesto 60-120 €/m² a seconda della complessità
+- B) il risanamento completo di una casa indipendente 5-20k€
+- C) adeguamento sismico completo 500-1.200 €/m²
+- D) il ripristino di finiture allagate 100-300 €/m² a seconda dei materiali
 
 ## Domanda 77
 
-L'altezza minima tipica per gli ambienti abitabili nei recuperi è di circa:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) 2,00 m ovunque
-- B) Non esiste un minimo
-- C) 3,50 m
-- D) 2,40-2,70 m sul finito secondo i regolamenti comunali
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) Le cerchiature in acciaio o FRP (fibre impregnate di resina) irrigidiscono i muri
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 78
 
-Nel recupero del sottotetto, l'altezza utile si misura:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Sul grezzo di caldana
-- B) A metà altezza
-- C) Sul colmo solo
-- D) Sul finito (massetto, controsoffitti, pavimento): il grezzo inganna
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) Il deumidificatore a refrigerazione (condensa su batteria fredda): portata 10-30 l/giorno per i locali
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 79
 
-Gli abbaini nel recupero sottotetto:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Contano sul computo delle superfici secondo le regole comunali: verificare prima del progetto
-- B) Contano sempre come superficie piena
-- C) Non contano mai
-- D) Sono vietati
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) Le regole generali (dalla normativa edilizia nazionale e dei regolamenti comunali): l'altezza minima degli ambienti abitabili (tipicamente 2,40-2,70 m a seconda dei regolamenti), i lucernai e le finestre per l'aerazione e l'illuminazione naturali nelle stanze abitabili, le scale con alzate e pedate regolari per l'accesso
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 80
 
-Una finestra a bocca di lupo nel seminterrato:
+Quali sono le applicazioni tipiche di «Condensa e muffa negli edifici esistenti: diagnosi e cure» secondo la scheda?
 
-- A) Sostituisce la VMC
-- B) Non rende abitabile la stanza per luce e aerazione naturali insufficienti
-- C) Basta per la cucina
-- D) Rende la stanza abitabile
+- A) Coperture in lastre di eternit di capannoni e case, canne fumarie, condotte di aerazione, pannelli di tamponamento e pavimenti in vinil-amianto
+- B) Acquisto di immobili da ristrutturare, piani di manutenzione, controversie tra compratore e venditore, sopralluoghi per riqualificazione energetica
+- C) Angoli nord di camere da letto, dietro gli armadi appoggiati ai muri freddi, sotto le finestre (soglie), nelle case ristrutturate con cappotto interno mal fatto
+- D) Alluvioni e esondazioni, rotture di tubazioni, risalite fognarie, infiltrazioni prolungate scoperte tardi
 
 ## Domanda 81
 
-Il recupero del sottotetto è l'occasione giusta per:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Rimuovere l'isolante
-- B) Isolare il tetto a regola d'arte secondo i valori di legge
-- C) Posare moquette
-- D) Lasciare l'isolamento esistente
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 82
 
-Il regolamento edilizio comunale nel recupero spazi determina:
+Qual è il punto debole di «L'umidità di risalita capillare: come sale e come si risana» secondo la scheda?
 
-- A) Altezze minime, rapporti finestra/pavimento, pratiche richieste
-- B) Nulla, vale solo il DPR 380
-- C) Solo il colore dei muri
-- D) Solo la destinazione d'uso
+- A) il taglio meccanico è la barriera definitiva dove fattibile
+- B) il rialzo della quota stradale esterno annulla la barriera interna
+- C) gli intonaci deumidificanti permettono la messa in opera delle finiture prima che il muro sia asciutto (il muro si asciuga attraverso di loro)
+- D) Le iniezioni chimiche sono poco invasive e compatibili con i vincoli storici
 
 ## Domanda 83
 
-La variazione catastale dopo il recupero di sottotetto serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Aggiornare il catasto: i metri recuperati aumentano il valore dichiarato e la regolarità
-- B) Decorre in automatico
-- C) Diminuire le tasse
-- D) Evitare il collaudo
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) le iniezioni di malta cementizia o resina ricompattano i nuclei vuoti
 
 ## Domanda 84
 
-Nei seminterrati recuperati, l'impermeabilizzazione:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Basta la pittura
-- B) È sufficiente il deumidificatore
-- C) Va verificata e risanata prima di ogni finitura: l'umidità di risalita si vendica dopo
-- D) Non serve se c'è il riscaldamento
+- A) l'incamiciatura in cls fibrorinforzato sulle fondazioni
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) la rete di armatura dove il supporto è incoerente
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 85
 
-Il costo al m² del recupero sottotetto rispetto alla nuova costruzione è tipicamente:
+Il quadro normativo di «L'umidità di risalita capillare: come sale e come si risana» comprende anche:
 
-- A) Il triplo
-- B) Identico
-- C) Inferiore: circa la metà
-- D) Doppio
+- A) Le prestazioni dei deumidificatori secondo le schede marcate CE e le norme di prodotto applicabili
+- B) Legge 27 marzo 1992 n. 257 (legge amianto)
+- C) le regole del restauro secondo il Codice dei Beni Culturali (D.Lgs 42/2004) per gli edifici vincolati
+- D) le verifiche di efficacia con misure igrometriche successive
 
 ## Domanda 86
 
-Nel recupero di interrati, la sola 'finestra' ammissibile per l'aerazione degli ambienti abitabili è:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) La bocca di lupo
-- B) La porta blindata con feritoia
-- C) Una finestra a quota che garantisca luce e aerazione naturali secondo il regolamento
-- D) Il lucernario qualsiasi
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 87
 
-Dopo un allagamento, la prima operazione in un locale con quadro elettrico è:
+Qual è il punto debole di «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» secondo la scheda?
 
-- A) Fotografare subito
-- B) Sezionare l'alimentazione elettrica prima di entrare in acqua
-- C) Accendere le luci
-- D) Aspirare con l'aspirapolvere
+- A) La diagnosi documentata evita il 90% delle sorprese in corso d'opera
+- B) la termografia trova ciò che l'occhio non vede (isolante assente, ponti termici, infiltrazioni)
+- C) la mappatura dell'umidità prima/dopo permette di misurare l'efficacia del risanamento
+- D) i rilievi costano tempo e il cliente vuole il preventivo subito
 
 ## Domanda 88
 
-La documentazione fotografica pre-intervento nell'allagamento serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Solo per i social
-- B) Alla polizia municipale
-- C) Nulla di utile
-- D) La perizia assicurativa: senza prove dei danni il risarcimento si complica
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) il formulario di identificazione del rifiuto (FIR) compilato dal produttore
 
 ## Domanda 89
 
-La muffa dopo un allagamento può comparire in:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo in estate
-- B) Mai se si asciuga con i giornali
-- C) 48-72 ore se i materiali restano umidi
-- D) Un anno
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) la VMC (ventilazione meccanica controllata) con flusso continuo o a umidità regolata
 
 ## Domanda 90
 
-L'asciugatura forzata dopo allagamento richiede:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Solo il riscaldamento acceso
-- B) Deumidificatori e ventilatori per settimane su muri e massetti
-- C) La cera liquida
-- D) Una giornata con le finestre aperte
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) Le fasi: il censimento con verifica in laboratorio dei materiali sospetti
 
 ## Domanda 91
 
-I materiali da smaltire dopo allagamento includono tipicamente:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo la carta da parati
-- B) Cartongesso bagnato, isolanti, arredi imbottiti e legno impregnato
-- C) Niente, tutto si asciuga
-- D) Solo la moquette
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) le detrazioni fiscali per il recupero (ristrutturazioni, risparmio energetico, bonus sismico) con le regole di incasso (saldo o cessione del credito)
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 92
 
-La verifica dell'umidità residua prima di richiudere le finiture avviene con:
+Per lavorare correttamente su «L'umidità di risalita capillare: come sale e come si risana», cosa raccomandano le note di cantiere?
 
-- A) Il peso
-- B) L'occhio
-- C) Il tatto
-- D) Igrometro a contatto: valori di riassetto secondo le tabelle di riferimento
+- A) gli intonaci deumidificanti non vanno mai chiusi con pitture impermeabili o carta da parati (l'acqua resta intrappolata)
+- B) le temperature di posa dei FRP (5-30 °C) vanno rispettate
+- C) distinguere subito RINP e RIP: la commistione trasforma tutto in pericoloso
+- D) la garanzia del sistema dipende dalla posa certificata: tenere i verbali di applicazione
 
 ## Domanda 93
 
-In caso di risalita fognaria nell'allagamento serve anche:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Nient'altro
-- B) Solo l'asciugatura
-- C) La disinfezione e la verifica della tenuta della rete: il danno si ripete se la causa resta
-- D) La pittura
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) il registro di carico e scarico (obbligo per il produttore)
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 94
 
-Il deumidificatore post-allagamento va posizionato:
+Quale dato economico o di costo è citato nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Nel punto più umido con libera circolazione d'aria (10 cm dai muri)
-- B) Sotto il tavolo
-- C) Fuori dalla finestra
-- D) Nel corridoio lontano
+- A) la manodopera artigianale qualificata è la voce principale
+- B) Ordini di grandezza indicativi: smaltimento macerie RINP 30-70 €/t (variabile per regione e discarica)
+- C) Ordini di grandezza indicativi: iniezioni chimiche 30-60 €/ml di muro
+- D) Ordini di grandezza indicativi: rimozione eternit da tetto 25-60 €/m² (tetto compreso smaltimento)
 
 ## Domanda 95
 
-I rifiuti contaminati da acque di allagamento fognario:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Vanno gestiti secondo D.Lgs 152/2006 con la documentazione di rifiuto
-- B) Si interrano in giardino
-- C) Si bruciano
-- D) Si buttan nei sacchi neri
+- A) la rete di armatura dove il supporto è incoerente
+- B) il rivestimento a intonaco 'sacrificial' che si degrada al posto del muro
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 96
 
-Il data logger nella fase di asciugatura serve a:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Scaldare l'ambiente
-- B) Dimostrare con numeri l'andamento dell'umidità fino al riassetto
-- C) Decorare il cantiere
-- D) Sostituire il termostato
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) La mappa: manutenzione ordinaria (senza titolo, con CILA solo se esterna), manutenzione straordinaria (CILA o SCIA secondo i comuni e le opere), ristrutturazione edilizia (SCIA), i titoli abilitativi del TU edilizio (DPR 380/2001)
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 97
 
-Le macerie da demolizione sono classificate come:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Rifiuti speciali pericolosi
-- B) Non sono rifiuti
-- C) Rifiuti urbani
-- D) Rifiuti speciali non pericolosi (RINP)
+- A) il deumidificatore con rotore ad adsorbione per i locali freddi (cantine)
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 98
 
-Il formulario di identificazione del rifiuto (FIR) va compilato:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) A fine cantiere riassuntivo
-- B) Solo per l'amianto
-- C) Mai, è facoltativo
-- D) Alla produzione del rifiuto, per ogni spedizione
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) La classificazione: rifiuti speciali non pericolosi (RINP: macerie, intonaci, legno non trattato) e pericolosi (RIP: vernici, solventi, amianto, oli)
 
 ## Domanda 99
 
-La commistione di rifiuti pericolosi con non pericolosi rende:
+Quale di questi componenti/processi è descritto nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) I rifiuti urbani
-- B) Il tutto non pericoloso
-- C) Il tutto pericoloso con costi di smaltimento maggiori
-- D) I rifiuti gratuiti
+- A) le barre filettate attraversano i muri con piastre di contrasto
+- B) la certificazione di bonifica con analisi dell'aria finali
+- C) i nastri FRP orizzontali e verticali consolidano pannelli murari
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 100
 
-Il registro di carico e scarico dei rifiuti è obbligatorio per:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Solo il trasportatore
-- B) Solo la discarica
-- C) Nessuno
-- D) Il produttore del rifiuto (l'impresa che lo genera in cantiere)
+- A) la certificazione di bonifica con analisi dell'aria finali
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 101
 
-Il calcestruzzo di demolizione frantumato in loco può diventare:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Solo detriti da pagare
-- B) Rifiuto pericoloso
-- C) Sottofondo stradale dello stesso cantiere (recupero) con FIR dedicato
-- D) Materiale da interro sempre vietato
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) il registro di carico e scarico (obbligo per il produttore)
 
 ## Domanda 102
 
-Il costo dello smaltimento macerie RINP è tipicamente:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Gratuito
-- B) 30-70 €/tonnellata variabile per regione
-- C) 5 €/tonnellata fisse
-- D) 500 €/kg
+- A) la rete di armatura dove il supporto è incoerente
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) la rimozione con procedure a umido, aspirazione localizzata, camere di decontaminazione e DPI dei livelli massimi
 
 ## Domanda 103
 
-Il consorzio di riferimento per i rifiuti dell'edilizia è tipicamente:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) La municipalizzata dei rifiuti
-- B) Un consorzio come CO.RE.PA o equivalenti regionali
-- C) La camera di commercio
-- D) L'ENEA
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 104
 
-Le vernici e i solventi di cantiere sono:
+Per «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi appartiene alla tecnologia descritta nella scheda?
 
-- A) Non rifiuti
-- B) Rifiuti speciali pericolosi con smaltimento dedicato
-- C) Rifiuti inerti
-- D) Rifiuti urbani
+- A) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
+- B) le barre filettate attraversano i muri con piastre di contrasto
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) l'incamiciatura in cls fibrorinforzato sulle fondazioni
 
 ## Domanda 105
 
-La tracciabilità del rifiuto si dimostra con:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) La parola del trasportatore
-- B) Il DURC
-- C) La foto del camion
-- D) Copia del FIR e scontrini di pesata conservati: l'onere della prova è di chi ha prodotto
+- A) il metodo del carburo di calcio per il dosaggio gravimetrico
+- B) le agevolazioni fiscali per l'adeguamento sismico (riduzione del rischio sismico con classificazione finale)
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 106
 
-Nel preventivo di risanamento la voce rifiuti va stimata con margine:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non va messa, è inclusa
-- B) 15-25% in più del quantitativo stimato: gli scavi e le demolizioni sorprendono sempre
-- C) Esatta al decimo
-- D) Meno del reale
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) il metodo del carburo di calcio per il dosaggio gravimetrico
+- D) le tecniche: tamponamenti rinforzati con reti e intonaci armati, collegamenti migliorati tra solai e muri (elementi di collegamento), rinforzo dei nodi con FRP, dissipatori per nuove costruzioni
 
 ## Domanda 107
 
-La manutenzione straordinaria di un appartamento richiede tipicamente:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) La delibera condominiale
-- B) Nulla di ufficiale
-- C) CILA o SCIA secondo il regolamento comunale e la natura dei lavori
-- D) Sempre il permesso di costruire
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 108
 
-La CILA è:
+Quale ordine di grandezza economico è riportato per «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) La sanatoria
-- B) La comunicazione inizio lavori asseverata: parte senza attendere il via libera
-- C) Il permesso di costruire
-- D) La denuncia di inizio attività antincendio
+- A) le analisi finali dell'aria 200-600 €
+- B) la verifica termigrometrica post-intervento 200-400 €
+- C) il rilievo laser di un edificio 1.000-3.000 €
+- D) la sanatoria ex post 3-10 volte il costo della pratica fatta in tempo
 
 ## Domanda 109
 
-La SCIA per ristrutturazione va presentata:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Mai se c'è il geometra
-- B) Dopo i lavori
-- C) A fine stagione
-- D) Prima dell'apertura del cantiere
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) l'edilizia libera per interventi interni senza rilevanza (elenco nazionale aggiornato)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 110
 
-Le detrazioni per ristrutturazione si possono incassare:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo in contanti
-- B) Solo con bonifico dal comune
-- C) A saldo in dichiarazione o tramite cessione del credito con documentazione a posto
-- D) Mai, sono teoriche
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 111
 
-L'edilizia libera secondo il DPR 380/2001 riguarda:
+Quale di questi è un vantaggio documentato di «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) I cambi di destinazione
-- B) Tutte le sopraelevazioni
-- C) Interventi interni senza rilevanza urbanistica secondo l'elenco nazionale aggiornato
-- D) Le demolizioni
+- A) I fungicidi e le pitture antimuffa senza cura della causa sono trucco temporaneo
+- B) le abitudini (stendere il bucato in casa) contano quanto l'edilizia
+- C) La cura della causa (ponte termico o umidità d'aria) elimina la muffa definitivamente
+- D) l'isolamento interno sposta la superficie fredda: se mal fatto peggiora la muffa dietro l'armadio
 
 ## Domanda 112
 
-Il regolamento edilizio comunale stabilisce:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Le regole locali (altezze, pratiche, volumetrie) che affiancano il DPR 380/2001
-- B) Le norme antincendio nazionali
-- C) Nulla dopo il 2001
-- D) Solo le tasse
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) La classificazione: rifiuti speciali non pericolosi (RINP: macerie, intonaci, legno non trattato) e pericolosi (RIP: vernici, solventi, amianto, oli)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 113
 
-In vendita immobiliare, la regolarità urbanistica e catastale:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non interessa
-- B) Va verificata da un tecnico prima dell'atto: il notaio vede i documenti, il tecnico la realtà
-- C) La garantisce l'agente
-- D) Si sistema dopo
+- A) la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 114
 
-La cessione del credito delle detrazioni richiede:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Una richiesta al comune
-- B) Nulla
-- C) Il notaio dell'acquirente
-- D) Documentazione impeccabile (asseverazioni, bonifici parlanti, fatture)
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) la rete di armatura dove il supporto è incoerente
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 115
 
-La sanatoria ex post di un'opera abusiva costa tipicamente:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Meno
-- B) È gratuita
-- C) Come la pratica normale
-- D) 3-10 volte la pratica fatta in tempo
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) la deumidificazione canalizzata negli impianti di climatizzazione con ruota integrata
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 116
 
-Il titolo edilizio va conservato:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo digitale su mail
-- B) Non serve
-- C) Con timbri di ricezione: in vendita e in fisco lo chiederanno
-- D) Al comune basta
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 117
 
-Il deumidificatore a refrigerazione funziona:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Ultrasuoni
-- B) Condensando l'umidità dell'aria su una batteria fredda
-- C) Riscaldando l'aria
-- D) Ioni negativi
+- A) la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre)
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) l'archivio documentale (pratiche, visure, storico interventi)
+- D) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
 
 ## Domanda 118
 
-Nei locali freddi come le cantine il deumidificatore adatto è:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Quello a refrigerazione standard
-- B) Il termoventilatore
-- C) Il tipo con rotore ad adsorbione
-- D) Il ventilatore
+- A) la rete di armatura dove il supporto è incoerente
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) i condotti dell'impiantistica nei recuperi di interrati: altezza tecnica da dedicare
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 119
 
-L'igrostato di un deumidificatore va tarato tipicamente a:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) 80%
-- B) 30%
-- C) 95%
-- D) 55-60% di umidità relativa
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) Le fasi: il censimento con verifica in laboratorio dei materiali sospetti
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 120
 
-La VMC con recupero di calore scambia:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) I segnali radio
-- B) L'acqua di scarico
-- C) Tra l'aria espulsa e quella immessa, recuperando energia
-- D) Solo il calore esterno
+- A) Le regole generali (dalla normativa edilizia nazionale e dei regolamenti comunali): l'altezza minima degli ambienti abitabili (tipicamente 2,40-2,70 m a seconda dei regolamenti), i lucernai e le finestre per l'aerazione e l'illuminazione naturali nelle stanze abitabili, le scale con alzate e pedate regolari per l'accesso
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 121
 
-Il deumidificatore gestisce:
+Qual è il punto debole di «Condensa e muffa negli edifici esistenti: diagnosi e cure» secondo la scheda?
 
-- A) L'infiltrazione dal tetto
-- B) L'umidità dell'aria ambientale, non asciuga il muro saturo
-- C) La guaina
-- D) La risalita capillare
+- A) il cappotto esterno cura muffa e consumi insieme
+- B) le abitudini (stendere il bucato in casa) contano quanto l'edilizia
+- C) La cura della causa (ponte termico o umidità d'aria) elimina la muffa definitivamente
+- D) la VMC decentrata per singoli ambienti risolve i bagni e le cucine senza lavori impiantistici grandi
 
 ## Domanda 122
 
-Lo scarico condensa di un deumidificatore continuo:
+Quale accorgimento è nelle note di cantiere della scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Va a tubo fisso verso uno scarico: evita lo svuotamento del serbatoio
-- B) Si ricicla nella piscina
-- C) Si butta in terra
-- D) Si versa nel lavandino
+- A) Prima di imbiancare: misurare temperatura muro e rugiada, non indovinare
+- B) le temperature di posa dei FRP (5-30 °C) vanno rispettate
+- C) Documentare TUTTO con fotografie georeferenziate prima di intervenire: la memoria dello stato originale è la difesa in caso di contestazione
+- D) l'elettricità va sezionata prima di entrare in acqua
 
 ## Domanda 123
 
-La ventilazione controllata in un edificio umido va posizionata prioritariamente in:
+Quale di questi componenti/processi è descritto nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Salone
-- B) Bagni e cucine, le fonti di vapore
-- C) Camera da letto
-- D) Corridoio esterno
+- A) la VMC (ventilazione meccanica controllata) con flusso continuo o a umidità regolata
+- B) il rivestimento a intonaco 'sacrificial' che si degrada al posto del muro
+- C) le tinture a calce per le finiture
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 124
 
-Un deumidificatore professionale da cantiere si distingue per:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Il colore
-- B) Il peso
-- C) Portata (litri/giorno), robustezza e possibilità di scarico continuo
-- D) La marca del display
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 125
 
-La deumidificazione canalizzata negli impianti di climatizzazione usa tipicamente:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Una caldaia
-- B) Un umidificatore
-- C) Una ruota ad adsorbione integrata nell'unità di trattamento aria
-- D) Un filtro a carboni
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 126
 
-Il data logger umidità-temperatura serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Contare i passi
-- B) Fotografare la muffa
-- C) Dimostrare l'andamento del risanamento con dati oggettivi
-- D) Registrare i suoni
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 127
 
-Il cocciopesto è composto da:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Bitume e sabbia
-- B) Grassello di calce e frammenti di laterizio cotto
-- C) Cemento e sabbia
-- D) Gesso e colla
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) la rete di armatura dove il supporto è incoerente
+- C) la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante)
+- D) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
 
 ## Domanda 128
 
-La proprietà unica del cocciopesto nelle vasche è:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Non richiede stagionatura
-- B) È impermeabile al vapore
-- C) Impermeabile all'acqua liquida ma traspirante al vapore, con auto-riparazione delle microfessure
-- D) È plastico come la resina
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) La malta a grassello di calce per gli intonaci di risanamento (traspirante, fungicida naturale)
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 129
 
-Il grassello di calce maturo richiede una stagionatura di almeno:
+Per «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi appartiene alla tecnologia descritta nella scheda?
 
-- A) 6 mesi (meglio anni)
-- B) Una settimana
-- C) 2 giorni
-- D) Non stagiona
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante)
+- C) le tecniche: tamponamenti rinforzati con reti e intonaci armati, collegamenti migliorati tra solai e muri (elementi di collegamento), rinforzo dei nodi con FRP, dissipatori per nuove costruzioni
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 130
 
-Le malte a calce nei risanamenti sono preferite ai cementizi perché:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Più rapide da applicare
-- B) Più economiche sempre
-- C) Più resistenti alla compressione
-- D) Traspiranti, fungicide naturali e compatibili con le murature storiche
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la conformità catastale e urbanistica pre-vendita
 
 ## Domanda 131
 
-L'intonaco 'sacrificale' sui muri umidi:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Si degrada al posto del muro storico proteggendolo e si rifà periodicamente
-- B) È impermeabile
-- C) È decorativo
-- D) Si posa solo in facciata
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) il metodo del carburo di calcio per il dosaggio gravimetrico
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 132
 
-La carbonatazione della calce è il processo per cui:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) L'intonaco prende fuoco
-- B) La calce diventa cemento
-- C) La calce diventa liquida
-- D) La calce idrata reagisce con la CO2 e ritorversa in carbonato di calcio indurendo
+- A) il rilievo stratigrafico con picchiettature localizzate
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) i condotti dell'impiantistica nei recuperi di interrati: altezza tecnica da dedicare
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 133
 
-Le tinture a calce per esterni:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Sono permeabili e patinabili: vanno usate su intonaci a calce
-- B) Sono vernici sintetiche
-- C) Vanno solo su cls
-- D) Sono impermeabili
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 134
 
-La protezione delle malte a calce nelle prime settimane è critica perché:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Perché attirano insetti
-- B) Perché sbiadiscono al sole
-- C) Non serve protezione
-- D) Il gelo e la pioggia arrestano la carbonatazione e degradano l'intonaco fresco
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 135
 
-La sabbia di falda pulita nei massetti drenanti serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Drenare le acque verso il basso senza ristagni
-- B) Riscaldare
-- C) Colorare
-- D) Isolare acusticamente
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) la VMC (ventilazione meccanica controllata) con flusso continuo o a umidità regolata
+- D) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
 
 ## Domanda 136
 
-I tempi lenti delle malte a calce:
+Quale di questi componenti/processi è descritto nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Sono un'opinione
-- B) Vanno rispettati: la fretta del cantiere moderno è incompatibile con la calce
-- C) Si dimezzano con il phon
-- D) Non esistono
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri
+- C) le tinture a calce per le finiture
+- D) la certificazione di bonifica con analisi dell'aria finali
 
 ## Domanda 137
 
-Un muro ha un'umidità misurata al carburo di calcio del 6% in peso. Per un laterizio pieno antico questo valore indica:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Muro completamente asciutto
-- B) Umidità contenuta ma da monitorare: i valori di allarme per laterizio pieno superano tipicamente il 5-6%
-- C) Muro saturo: serve risanamento urgente
-- D) Il metodo non è valido per murature
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) l'incamiciatura in cls fibrorinforzato sulle fondazioni
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 138
 
-In un appartamento di 80 m² con stenditoio interno quotidiano, il carico di umidità aggiuntivo è tipicamente:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Misurabile solo in cucina
-- B) Irrilevante
-- C) Decisivo per il rischio di condensa: serve l'espulsione meccanica del vapore
-- D) Utile a deumidificare
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) la deumidificazione canalizzata negli impianti di climatizzazione con ruota integrata
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 139
 
-La prova con igrometro a contatto su intonaco dà 3% di umidità: il muro è:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Saturo
-- B) Non misurabile
-- C) Bagnato
-- D) Nella norma per gli intonaci deumidificanti in asciugatura (valori di riferimento intorno al 3-5%)
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) il rilievo stratigrafico con picchiettature localizzate
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 140
 
-Il prezzo delle iniezioni chimiche per 30 m lineari di muro con due squadre:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Circa 5.000 € sempre
-- B) Circa 900-1.800 € di sola lavorazione con materiale secondo preventivo
-- C) Circa 100 €
-- D) Circa 10.000 €
+- A) le tecniche: tamponamenti rinforzati con reti e intonaci armati, collegamenti migliorati tra solai e muri (elementi di collegamento), rinforzo dei nodi con FRP, dissipatori per nuove costruzioni
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 141
 
-Per la tinteggiatura esterna di 200 m² di facciata:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Budget indicativo 2.400-5.000 € comprensivo di preparazione e ponteggio
-- B) Budget di 200 €
-- C) La tinteggiatura è gratuita
-- D) Budget di 20.000 €
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri
+- C) la rete di armatura dove il supporto è incoerente
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 142
 
-Un data logger mostra 75% UR stabile in camera da letto con muffa: la prima misura da prendere è:
+Perché «Condensa e muffa negli edifici esistenti: diagnosi e cure» conviene secondo la scheda? Scegli il vantaggio corretto:
 
-- A) Aprire tutte le finestre d'inverno
-- B) Comprare la pittura antimuffa
-- C) Alzare il riscaldamento a 28 °C
-- D) Verificare la temperatura di superficie del muro e il punto di rugiada
+- A) l'isolamento interno sposta la superficie fredda: se mal fatto peggiora la muffa dietro l'armadio
+- B) le abitudini (stendere il bucato in casa) contano quanto l'edilizia
+- C) il cappotto esterno cura muffa e consumi insieme
+- D) I fungicidi e le pitture antimuffa senza cura della causa sono trucco temporaneo
 
 ## Domanda 143
 
-La rimozione eternit da un tetto di 150 m²:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Budget indicativo 3.750-9.000 € comprensivo di smaltimento
-- B) Circa 300 €
-- C) Gratuita con il fotovoltaico
-- D) Circa 50.000 €
+- A) le iniezioni di malta cementizia o resina ricompattano i nuclei vuoti
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 144
 
-In caso di allagamento del seminterrato, il tempo entro cui agire per prevenire la muffa:
+Quale di questi errori di cantiere è segnalato nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) 24-72 ore: l'asciugatura rapida è la misura anti-muffa
-- B) Non c'è fretta
-- C) Un mese
-- D) Un anno
+- A) le cucine e i bagni devono espellere il vapore all'esterno con ventole dedicate o VMC
+- B) il cantiere su edificio occupato va pianificato per fasi con comunicazione continua ai condomini
+- C) mai isolare internamente senza valutare la posizione dello strato di tenuta al vapore
+- D) l'igrometro va tarato e le misure riportate su pianta con i valori
 
 ## Domanda 145
 
-La cessione del credito di una detrazione richiede che:
+Quale dato economico o di costo è citato nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Si regali la fattura
-- B) Non serve documentazione
-- C) Le fatture siano intestate e i pagamenti tracciabili (bonifico parlante)
-- D) Si paghi in contanti
+- A) Ordini di grandezza indicativi: VMC monoblocco a una stanza 300-900 €
+- B) Ordini di grandezza indicativi: smaltimento macerie RINP 30-70 €/t (variabile per regione e discarica)
+- C) le analisi finali dell'aria 200-600 €
+- D) Ordini di grandezza indicativi: CILA/SCIA con progetto da tecnico 1.000-3.000 €
 
 ## Domanda 146
 
-Una camera con temperatura aria 20 °C e UR 65% ha punto di rugiada intorno a:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) 20 °C
-- B) 13-14 °C: se il muro è più freddo di così, la condensa è possibile
-- C) 18 °C
-- D) 0 °C
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 147
 
-Il recupero sottotetto di 60 m² con isolamento e finiture:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Costa come una nuova costruzione
-- B) Budget indicativo 24.000-54.000 €
-- C) Budget di 3.000 €
-- D) Budget di 200.000 €
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) Il deumidificatore a refrigerazione (condensa su batteria fredda): portata 10-30 l/giorno per i locali
+- C) la rete di armatura dove il supporto è incoerente
+- D) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
 
 ## Domanda 148
 
-La verifica strutturale per consolidamento di un edificio:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non serve se c'è il geometra
-- B) 1.500-5.000 € secondo complessità
-- C) Gratuita
-- D) 100.000 €
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) l'archivio documentale (pratiche, visure, storico interventi)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 149
 
-Una parete divisoria da risanare acusticamente con doppia orditura:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Richiede doppia struttura sfalsata con lana minerale: l'efficacia nasce dallo sfasamento
-- B) Basta un foglio di cartongesso in più
-- C) Si vernicia di scuro
-- D) Si mette il polistirolo
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- C) CO.RE.PA per l'edilizia)
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 150
 
-Il risanamento di umidità di risalita con taglio meccanico su muro portante antico:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Va valutato con massima cautela: il taglio orizzontale in profondità su muri portanti è rischioso
-- B) È vietato per legge
-- C) È sempre consigliato
-- D) Si fa con il trapano a colonna
+- A) il controllo: igrostato a regolazione automatica con soglia 55-60% UR
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 151
 
-Un tetto piano con bolle sulla guaina a giugno:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Indica umidità intrappolata nel supporto: la guaina si sta distaccando per espansione del vapore
-- B) Bucarle con il chiodo
-- C) Vuol dire che la guaina è nuova
-- D) È normale e bello
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 152
 
-La produzione di ACS in hotel con accumulo stratificato:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Sostituisce la caldaia
-- B) L'accumulo assorbe i picchi mattutini senza sovradimensionare le macchine
-- C) Serve per il raffreddamento
-- D) Aumenta i picchi
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) il formulario di identificazione del rifiuto (FIR) compilato dal produttore
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 153
 
-Il prezzo del frantumato di cls riutilizzato in cantiere:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) 8-15 €/t contro 30-70 €/t dello smaltimento in discarica
-- B) Più caro della discarica
-- C) 50 €/kg
-- D) Gratuito sempre
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) il consorzio di riferimento (es
 
 ## Domanda 154
 
-Una VMC con portata 100 m³/h in bagno:
+Il quadro normativo di «Condensa e muffa negli edifici esistenti: diagnosi e cure» comprende anche:
 
-- A) È inutile
-- B) Serve per 200 persone
-- C) Scalda l'acqua
-- D) Scarica il vapore di una doccia standard se i sifoni delle altre stanze sono idonei
+- A) le regole del restauro (D.Lgs 42/2004) per i beni vincolati
+- B) le prescrizioni antincendio e di accessibilità per i nuovi volumi abitati
+- C) le schede tecniche dei prodotti con valutazione/ETA (Documento di Valutazione del Comportamento) per i sistemi FRP
+- D) la valutazione della muffa negli ambienti indoor secondo le linee guida sulla qualità dell'aria interna
 
 ## Domanda 155
 
-La pittura antimuffa dopo risanamento della causa:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Sostituisce la VMC
-- B) Sostituisce il cappotto
-- C) Può essere usata come finitura protettiva finale, non come cura
-- D) È la cura principale
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 156
 
-Il cemento nelle malte storiche:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Rende tutto più duraturo
-- B) È sempre compatibile
-- C) Non influisce
-- D) È spesso la causa dei distacchi su muratura a calce: la rigidezza blocca la traspirazione
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 157
 
-Una differenza di pressione tra camera e corridoio in ospedale si misura in:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Decibel
-- B) Pascal (Pa), con indicatori visivi alla porta
-- C) Newton
-- D) Lux
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) il rivestimento a intonaco 'sacrificial' che si degrada al posto del muro
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 158
 
-Le fibre di amianto rilasciate nella rimozione a secco:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Pesano e cadono subito
-- B) Si diffondono nell'aria invisibili: per questo serve il bagnamento e l'aspirazione
-- C) Sono visibili a occhio nudo
-- D) Sono inoffensive se asciutte
+- A) la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante)
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 159
 
-Il FIR del rifiuto va consegnato:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Al trasportatore prima del carico, con copia al produttore
-- B) Al comune a fine anno
-- C) Alla discarica dopo
-- D) Non serve
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) l'isolamento del tetto come occasione obbligata (il sottotetto recuperato deve rispettare i valori di legge)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 160
 
-In un consolidamento FRP, la temperatura di posa tipica indicata dalle schede:
+Tra questi, quale vantaggio è attribuito a «Condensa e muffa negli edifici esistenti: diagnosi e cure» dalla scheda?
 
-- A) Qualsiasi
-- B) Solo sopra i 35 °C
-- C) 5-30 °C: fuori fascia l'adesione si compromette
-- D) -10+50 °C
+- A) l'isolamento interno sposta la superficie fredda: se mal fatto peggiora la muffa dietro l'armadio
+- B) le abitudini (stendere il bucato in casa) contano quanto l'edilizia
+- C) la VMC decentrata per singoli ambienti risolve i bagni e le cucine senza lavori impiantistici grandi
+- D) I fungicidi e le pitture antimuffa senza cura della causa sono trucco temporaneo
 
 ## Domanda 161
 
-La muffa dopo risanamento compiuto ricompare in 2 mesi alla stessa parete:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) La pittura era di scarsa qualità
-- B) Si risana con più candeggina
-- C) È sfortuna
-- D) La causa non era stata risolta: la muffa è un campanello, non la malattia
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) i condotti dell'impiantistica nei recuperi di interrati: altezza tecnica da dedicare
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 162
 
-La soglia di umidità relativa indoor sotto cui la muffa non cresce è circa:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) 60-65% UR
-- B) Non esiste soglia
-- C) 40% UR è troppo secca ma sicura
-- D) 90% UR
+- A) la rete di armatura dove il supporto è incoerente
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) il deumidificatore con rotore ad adsorbione per i locali freddi (cantine)
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 163
 
-Le iniezioni chimiche su muro a sacco pieno di terra:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Funzionano sempre
-- B) Triplicano la dose e basta
-- C) Sono vietate
-- D) Hanno resa incerta: il prodotto fugge nei vuoti, serve valutare il riempimento o altro metodo
+- A) la rete di armatura dove il supporto è incoerente
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) l'archivio documentale (pratiche, visure, storico interventi)
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 164
 
-Un ponteggio a telai per risanamento facciata costa tipicamente:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) 500 €/m²
-- B) È gratis del muratore
-- C) 1 €/m²
-- D) 15-40 €/m² di facciata secondo altezza e durata
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 165
 
-Il punto critico della copertura piano con FV:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Le staffe di fissaggio: ogni foro è un potenziale ingresso se non sigillato a regola d'arte
-- B) I pannelli stessi
-- C) Il cielo
-- D) Le grondaie nuove
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 166
 
-La prova di tenuta dell'isolamento a cappotto:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Si fa con termografia o prova di pioggia dopo la posa, prima della consegna
-- B) Non serve
-- C) Solo a parole
-- D) A fine dei lavori dell'impresa
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 167
 
-Una camera da letto con parete nord e armadio a muro:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Va incollato al muro
-- B) L'armadio protegge
-- C) L'armadio va distanziato o la parete isolata: l'aria ferma dietro l'armadio condensa
-- D) Non succede nulla
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) il rapporto di danno per la compagnia assicurativa con perizia fotografica
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 168
 
-Il banco di prova di una malta a calce storica:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) La fa il venditore a voce
-- B) Si fa su campione con la stessa preparazione del cantiere
-- C) Non serve
-- D) Si guarda il sacco
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 169
 
-Le detrazioni fiscali per ristrutturazione:
+Quale riferimento normativo è citato nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Richiedono bonifico parlante e asseverazione oltre la fattura
-- B) Basta la ricevuta
-- C) Sono automatiche
-- D) Si prendono in contanti
+- A) Le prescrizioni e i prodotti secondo le norme di prodotto degli intonaci (UNI EN 998-1) e le schede tecniche dei sistemi di risanamento
+- B) le norme tecniche sulle macerie da costruzione e demolizione (NTCD)
+- C) la VMC secondo le prescrizioni della normativa nazionale di ventilazione degli edifici
+- D) i requisiti di ventilazione degli ambienti secondo le norme nazionali di salubrità
 
 ## Domanda 170
 
-La valutazione del rischio sismico ante-intervento serve:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) A classificare la partenza e ad accedere alle agevolazioni con la perizia
-- B) Solo alla banca
-- C) La fa il geometra telefonicamente
-- D) A nulla
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le agevolazioni fiscali per l'adeguamento sismico (riduzione del rischio sismico con classificazione finale)
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 171
 
-Una lastra di eternit rotta sul tetto:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Si vernicia
-- B) Si butta giù con il piede
-- C) Si lava con l'acqua
-- D) Va trattata come rifiuto pericoloso con bonifica: non si sposta a mani nude
+- A) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- B) la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 172
 
-Il bilancio idrico di una piscina prevede il rabbocco per:
+Quale dato economico o di costo è citato nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Evaporazione, trascinamento e scarichi di fondo: tipicamente 2-5% a settimana d'estate
-- B) Solo pioggia
-- C) Ogni 10 anni
-- D) Non serve rabbocco
+- A) recupero seminterrato 500-1.000 €/m² (con impermeabilizzazioni e luce)
+- B) Ordini di grandezza indicativi: intonaco a grassello di calce posato 45-90 €/m²
+- C) l'incapsulamento 15-30 €/m²
+- D) la verifica termigrometrica post-intervento 200-400 €
 
 ## Domanda 173
 
-La prova di carico su un solaio recuperato:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Cammina il più pesante
-- B) Si esegue con zavorre graduate prima del collaudo strutturale
-- C) Non serve
-- D) Si guarda da lontano
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) La sequenza operativa: messa in sicurezza elettrica, estrazione con pompe e aspiratori, smaltimento dei materiali non recuperabili (cartongesso, isolanti, arredi imbottiti), asciugatura forzata con deumidificatori e ventilatori (settimane per i muri), disinfezione delle superfici (rischio microbiologico), verifica dell'umidità residua prima di richiudere
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 174
 
-L'umidità di risalita si distingue dall'infiltrazione perché:
+Quali sono le applicazioni tipiche di «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» secondo la scheda?
 
-- A) Non si distingue
-- B) Ha odore
-- C) Ha andamento ascendente con efflorescenze alla base, senza legame con eventi piovosi immediati
-- D) È sempre più scura
+- A) Cantine e seminterrati, appartamenti con muffa stagionale, biblioteche e archivi, magazzini di materiali sensibili, case in cui il risanamento murario è rinviato
+- B) Case antiche, ville di campagna, cantine e seminterrati, muri a confine, edifici in cui il livello stradale è salito nel tempo coprendo le zoccolature originali
+- C) Muri fessurati dopo un sisma, solai che flettevano troppo, edifici con sopraelevazioni previste, ripristino dopo lesioni da cedimenti differenziali
+- D) Acquisto di immobili da ristrutturare, piani di manutenzione, controversie tra compratore e venditore, sopralluoghi per riqualificazione energetica
 
 ## Domanda 175
 
-Il DPI dei lavoratori in bonifica amianto è:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Guanti di gomma soltanto
-- B) Di livello dedicato (tuta, maschera con filtri P3, decontaminazione)
-- C) Occhiali da sole
-- D) Non serve se veloce
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 176
 
-La distanza degli iniettori nei fori a tamburo per risalita:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) A caso
-- B) Un solo foro per stanza
-- C) Secondo spessore e materiali: tipicamente a maglia ravvicinata sulla quota di campagna
-- D) Un foro ogni 5 metri
+- A) il controllo: igrostato a regolazione automatica con soglia 55-60% UR
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 177
 
-La carta da parati su intonaco deumidificante:
+Quale riferimento normativo è citato nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Blocca l'evaporazione: il muro resta umido e la muffa arriva
-- B) Non influenza
-- C) È consigliata
-- D) Migliora la traspirazione
+- A) D.Lgs 27 settembre 2006 n. 257 (disposizioni per lo smaltimento)
+- B) Le buone prassi per le indagini su edilizia esistente secondo le NTC2018 (D.M. 17/01/2018) per i rilievi strutturali
+- C) la perizia assicurativa secondo le regole del contratto e della polizza
+- D) La UNI EN 998-1 per le specifiche degli intonaci
 
 ## Domanda 178
 
-Un edificio con sisma: la prima verifica prima del rientro:
+Per «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi appartiene alla tecnologia descritta nella scheda?
 
-- A) Il parere del vicino
-- B) Le foto su internet
-- C) Sopralluogo strutturale con eventuale giudizio di agibilità
-- D) L'assicurazione
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) il consorzio di riferimento (es
+- D) la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre)
 
 ## Domanda 179
 
-La tinteggiatura a calce richiede supporto:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Solo legno
-- B) A base calce compatibile: non aderisce su supporti cementizi o plastici
-- C) Qualsiasi superficie
-- D) Solo metallo
+- A) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- B) le tinture a calce per le finiture
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 180
 
-Il registro di carico scarico rifiuti va tenuto:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Una volta all'anno
-- B) Aggiornato ad ogni movimento e conservato per gli anni previsti dalla normativa ambientale
-- C) A memoria
-- D) Non va tenuto
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) l'isolamento del tetto come occasione obbligata (il sottotetto recuperato deve rispettare i valori di legge)
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 181
 
-Un tecnico che certifica il risanamento dell'umidità deve consegnare:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Diagnosi con misure, metodo scelto, verbali di posa e verifica finale
-- B) Nulla
-- C) Solo la fattura
-- D) Una foto
+- A) la conformità catastale e urbanistica pre-vendita
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 182
 
-La temperatura superficiale minima di una parete per evitare condensa a 20 °C e 55% UR:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Qualsiasi sopra lo zero
-- B) Superiore al punto di rugienda (circa 10-11 °C): sotto, la condensa è fisica
-- C) Solo sopra i 25 °C
-- D) Non è misurabile
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) CO.RE.PA per l'edilizia)
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 183
 
-Il copertone di sicurezza in piscina:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Serve solo d'inverno
-- B) Basta il telo
-- C) Deve reggere il carico di una persona: le versioni certificate sono diverse dal telo estivo
-- D) È decorativo
+- A) le tinture a calce per le finiture
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 184
 
-La risalita capillare in un muro di tufo poroso:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) È più bassa
-- B) È particolarmente marcata: il tufo trattiene l'acqua e risale in alto
-- C) Non esiste nel tufo
-- D) Dipende dal colore
+- A) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 185
 
-Il consolidamento con iniezioni di malta nei muri:
+Quale ordine di grandezza economico è riportato per «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Ripristina la continuità dei giunti e la monoliticità del pannello
-- B) Isola termicamente
-- C) Impermeabilizza
-- D) Rende il muro elastico
+- A) intonaco deumidificante 25-45 €/m² posato
+- B) cocciopesto 60-120 €/m² a seconda della complessità
+- C) Ordini di grandezza indicativi: intonaco a calce posato 35-70 €/m²
+- D) VMC monoblocco doppio flusso con recupero 1.500-3.500 € installata
 
 ## Domanda 186
 
-Il DURC nei cantieri di risanamento serve a:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Sostituire il contratto
-- B) Certificare la regolarità contributiva delle imprese: obbligo in fase di appalto
-- C) Non serve
-- D) Pagare meno
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 187
 
-La valutazione energetica del recupero sottotetto:
+Quale accorgimento è nelle note di cantiere della scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Inutile
-- B) Solo per i nuovi
-- C) Facoltativa
-- D) Obbligatoria in ristrutturazione: il tetto recuperato deve rispettare i valori di legge
+- A) l'igrometro va tarato e le misure riportate su pianta con i valori
+- B) La barriera va messa in continuità sotto i muri portanti interni, non solo sui perimetrali
+- C) Mai intervenire senza la diagnosi della causa della lesione: consolidare un muro che cede per fondazione instabile è inutile
+- D) le verifiche in corso d'opera (prove di tiro su collegamenti) documentano la qualità
 
 ## Domanda 188
 
-Un consolidamento locale con cerchiature FRP:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Non serve calcolo
-- B) Si fa a occhio
-- C) Sostituisce sempre l'adeguamento
-- D) Richiede progetto strutturale con calcoli e non sostituisce il miglioramento globale dove necessario
+- A) il metodo del carburo di calcio per il dosaggio gravimetrico
+- B) Le cerchiature in acciaio o FRP (fibre impregnate di resina) irrigidiscono i muri
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 189
 
-La muffa sui mobili di una camera fredda:
+Secondo la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», a quali riferimenti normativi fare riferimento?
 
-- A) Si pulisce e basta
-- B) Indica che l'ambiente è al di sopra del punto di rugiada: servono ventilazione e riscaldamento
-- C) È normale in inverno
-- D) È colpa dei mobili
+- A) le schede dei produttori per l'uso degli strumenti
+- B) Il metodo di verifica della condensa secondo UNI EN ISO 13788
+- C) La UNI EN 998-1 per le malte
+- D) la perizia assicurativa secondo le regole del contratto e della polizza
 
 ## Domanda 190
 
-Le analisi finali dell'aria dopo bonifica amianto:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Facoltative
-- B) Solo visive
-- C) Non esistono
-- D) Documentano la rientranza dei valori di sicurezza con metodi di campionamento specifici
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) il rapporto di danno per la compagnia assicurativa con perizia fotografica
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 191
 
-Il costo di un rafforzamento sismico locale è tipicamente:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Gratuito
-- B) Identico all'adeguamento
-- C) 150-400 €/m² contro i 500-1.200 €/m² dell'adeguamento completo
-- D) Il triplo
+- A) la rimozione con procedure a umido, aspirazione localizzata, camere di decontaminazione e DPI dei livelli massimi
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 192
 
-La prova dell'acqua calda ai punti lontani in hotel:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Richiede il bilanciamento del ricircolo: il primo piano non deve rubare all'ultimo
-- B) Basta la pressione
-- C) Si fa con il secchio
-- D) Non serve
+- A) il rilievo stratigrafico con picchiettature localizzate
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 193
 
-Un edificio vincolato con umidità al piano terra:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) I metodi tradizionali (calce, cocciopesto, ventilazione) sono spesso l'unica via compatibile
-- B) Si ignora
-- C) Si fa il cappetto impermeabile
-- D) Si butta cemento
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) CO.RE.PA per l'edilizia)
+- D) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
 
 ## Domanda 194
 
-Il regolatore di velocità del ventilatore camera hotel:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Aumenta il rumore
-- B) È inutile
-- C) Serve a scaldare
-- D) Mantiene la VMC silenziosa: la velocità bassa è il confort
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) le iniezioni di malta cementizia o resina ricompattano i nuclei vuoti
 
 ## Domanda 195
 
-La documentazione fotografica pre-bonifica:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo social
-- B) La fa il comune
-- C) Inutile
-- D) Fondamentale per la perizia assicurativa e la verifica finale
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) l'edilizia libera per interventi interni senza rilevanza (elenco nazionale aggiornato)
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 196
 
-La verifica di efficacia del risanamento da risalita:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Il giorno dopo
-- B) A naso
-- C) Mai
-- D) Si misura con nuove letture igrometriche a stagioni distanti (minimo 6-12 mesi)
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 197
 
-Le staffe del FV su guaina:
+Quale di questi è un vantaggio documentato di «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Solo guaina va bene
-- B) Con la colla
-- C) Con il silicone
-- D) Vanno posate su orditura o zavorrate: mai ancorate solo alla guaina
+- A) il rialzo della quota stradale esterno annulla la barriera interna
+- B) Le iniezioni chimiche sono poco invasive e compatibili con i vincoli storici
+- C) le iniezioni fatte male (fori troppo distanti, prodotto sbagliato per il materiale) non funzionano
+- D) Il muro saturo ci mette mesi o anni ad asciugare dopo la barriera: la fretta rovina il risultato
 
 ## Domanda 198
 
-Un muro con umidità al 90% di umidità relativa dell'aria vicina:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) È asciutto
-- B) Misura sbagliata
-- C) È normale
-- D) È al limite della condensa perenne: serve intervento su ventilazione e superficie
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) il rapporto di danno per la compagnia assicurativa con perizia fotografica
 
 ## Domanda 199
 
-La separazione pulito/sporco in ospedale:
+Nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure» la tecnologia comprende anche:
 
-- A) Vale solo per i farmaci
-- B) Non si progetta
-- C) È la barriera n.1 contro le infezioni: i flussi non devono incrociarsi
-- D) È un dettaglio
+- A) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 200
 
-La VMC in un recupero sottotetto:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Non serve mai
-- B) È vietata
-- C) Sostituisce il riscaldamento
-- D) È quasi sempre necessaria: il tetto ricoperto riduce la ventilazione naturale
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) la rete di armatura dove il supporto è incoerente
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 201
 
-Il banco prova dell'umidità di un muro prima del risanamento:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Conferma il metodo: senza diagnosi il risanamento è al buio
-- B) È una perdita di tempo
-- C) Lo fa il cliente
-- D) Si guarda
+- A) il metodo del carburo di calcio per il dosaggio gravimetrico
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) l'archivio documentale (pratiche, visure, storico interventi)
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 202
 
-Le malte deumidificanti con zolle:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Si posano sotto la pioggia
-- B) Non serve cura
-- C) Vanno protette dal gelo e dalla pioggia nelle prime settimane
-- D) Si posano sotto il sole cocente
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la sabbia di falda pulita e le terre per i massetti drenanti
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 203
 
-Il valore di umidità residua finale dopo asciugatura forzata:
+Secondo la scheda «L'umidità di risalita capillare: come sale e come si risana», a quali riferimenti normativi fare riferimento?
 
-- A) Sempre zero
-- B) Si confronta con i valori di riassetto della tabella di riferimento del metodo usato
-- C) Non misurabile
-- D) Va a sensazione
+- A) la valutazione della muffa negli ambienti indoor secondo le linee guida sulla qualità dell'aria interna
+- B) per gli edifici vincolati il parere della Soprintendenza sul metodo
+- C) la qualità dell'aria interna secondo le linee guida nazionali
+- D) Il metodo di verifica della condensa secondo UNI EN ISO 13788
 
 ## Domanda 204
 
-La climatizzazione nei recuperi sottotetto:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Basta il ventilatore
-- B) Non serve
-- C) Si riusa il vecchio split
-- D) Va progettata con il nuovo volume: le unità interne nei colmi e la deumidificazione attiva
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) la rete di armatura dove il supporto è incoerente
+- C) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 205
 
-Una perdita d'acqua dal tetto con macchie in facciata:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) La guaina sempre
-- B) La lattoneria e i cordoli sono i primi sospettati prima della guaina
-- C) Il cappotto
-- D) Le finestre
+- A) il rivestimento a intonaco 'sacrificial' che si degrada al posto del muro
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 206
 
-Il fascicolo del fabbricato dopo il risanamento:
+Quale accorgimento è nelle note di cantiere della scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Non serve
-- B) Si butta
-- C) Lo tiene il comune
-- D) Raccoglie diagnosi, titoli, verbali, FIR e manutenzioni: lo strumento del futuro proprietario
+- A) alla fine si richiede la documentazione completa (verbali, FIR, analisi): senza quella non c'è stata bonifica
+- B) distinguere subito RINP e RIP: la commistione trasforma tutto in pericoloso
+- C) Il supporto va bagnato (a giusta saturazione) prima dell'intonaco: il gancio meccanico dipende dall'umidità del contatto
+- D) lo scarico condensa a tubo fisso elimina lo svuotamento quotidiano
 
 ## Domanda 207
 
-La formazione del personale di cantiere in bonifica amianto:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non prevista
-- B) Facoltativa
-- C) Solo per il titolare
-- D) Obbligatoria secondo il DPR 177/2011 con corsi specifici e aggiornamenti
+- A) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- B) le agevolazioni fiscali per l'adeguamento sismico (riduzione del rischio sismico con classificazione finale)
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 208
 
-Il punto di rugiada sale se:
+Per «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi appartiene alla tecnologia descritta nella scheda?
 
-- A) L'aria si raffredda
-- B) La pressione scende
-- C) Il muro si scalda
-- D) L'umidità relativa dell'aria aumenta a parità di temperatura
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) i nastri FRP orizzontali e verticali consolidano pannelli murari
+- C) le iniezioni di malta cementizia o resina ricompattano i nuclei vuoti
+- D) il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure
 
 ## Domanda 209
 
-Un risanamento che funziona:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Migliora i valori misurati nel tempo: la prova dei numeri decide
-- B) Fa bella la facciata
-- C) È veloce
-- D) Costa tanto
+- A) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) le detrazioni fiscali per il recupero (ristrutturazioni, risparmio energetico, bonus sismico) con le regole di incasso (saldo o cessione del credito)
 
 ## Domanda 210
 
-La muffa su intonaco esterno a nord:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Basta la candeggina
-- B) È normale
-- C) Indica condensa o ristagno d'acqua: verificare isolamento, pulizia e tinta
-- D) È il colore
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 211
 
-I giunti di dilatazione della guaina:
+Tra questi, quale vantaggio è attribuito a «L'umidità di risalita capillare: come sale e come si risana» dalla scheda?
 
-- A) Solo in verticale
-- B) Non esistono
-- C) Si mettono a caso
-- D) Vanno in corrispondenza dei tagli strutturali e dei cordoli
+- A) il taglio meccanico è la barriera definitiva dove fattibile
+- B) il rialzo della quota stradale esterno annulla la barriera interna
+- C) Il muro saturo ci mette mesi o anni ad asciugare dopo la barriera: la fretta rovina il risultato
+- D) le iniezioni fatte male (fori troppo distanti, prodotto sbagliato per il materiale) non funzionano
 
 ## Domanda 212
 
-La profondità del taglio murario anti-risalita:
+Per lavorare correttamente su «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», cosa raccomandano le note di cantiere?
 
-- A) Non serve profondità
-- B) Sempre 30 cm
-- C) A filo terra
-- D) Sotto la quota di campagna corretta: il dettaglio decide l'efficacia
+- A) le temperature di posa dei FRP (5-30 °C) vanno rispettate
+- B) lo scarico condensa a tubo fisso elimina lo svuotamento quotidiano
+- C) la protezione dal gelo e dalla pioggia nelle prime settimane è critica per la carbonatazione
+- D) la termografia si prenota in inverno con 15-20 °C di scarto
 
 ## Domanda 213
 
-Un data logger in camera da letto va lasciato:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Dieci minuti
-- B) Almeno una settimana per raccogliere il ciclo giorno-notte
-- C) Un anno
-- D) Mai
+- A) La valutazione di vulnerabilità sismica dell'esistente
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
 
 ## Domanda 214
 
-La pittura a calce su intonaco cementizio:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) È più resistente
-- B) Va benissimo
-- C) Aderisce male: serve la verifica di compatibilità o la rimozione
-- D) Si stucca
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) Le cerchiature in acciaio o FRP (fibre impregnate di resina) irrigidiscono i muri
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 215
 
-Il costo del serbatoio del gruppo elettrogeno:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Dimensionato su 8-72 ore di autonomia secondo criticità
-- B) Non serve
-- C) Sempre 1 litro
-- D) Infinito
+- A) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- B) il controllo: igrostato a regolazione automatica con soglia 55-60% UR
+- C) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 216
 
-La camera a pressione negativa in ospedale:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Non esiste
-- B) Protegge il corridoio dal paziente infettivo
-- C) Protegge il paziente
-- D) È per il risparmio energetico
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) i nastri FRP orizzontali e verticali consolidano pannelli murari
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 217
 
-Il posizionamento del deumidificatore in cantina:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Fuori porta
-- B) Sopra lo scaffale
-- C) In angolo
-- D) Centrale con ricircolo libero, mai in angolo
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 218
 
-La prova finale di tenuta della piscina:
+Quale dato economico o di costo è citato nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Prima del riempimento definitivo: verifica struttura e coibentazione
-- B) Dopo un anno
-- C) A occhio
-- D) Mai
+- A) Ordini di grandezza indicativi: recupero sottotetto 400-900 €/m² finito
+- B) Ordini di grandezza indicativi: rafforzamento locale di un edificio 150-400 €/m²
+- C) Ordini di grandezza indicativi: iniezioni chimiche 30-60 €/ml di muro
+- D) Ordini di grandezza indicativi: sopralluogo con termografia 300-800 €
 
 ## Domanda 219
 
-La scelta cloro sale vs cloro liquido:
+Quale di questi è un vantaggio documentato di «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Il liquido è vietato
-- B) Sono identici
-- C) Il sale elimina la logistica del cloro ma richiede la cella e il controllo pH
-- D) Il sale non disinfetta
+- A) L'indagine non invasiva dà informazioni parziali: la conferma arriva solo con il campionamento locale
+- B) i rilievi costano tempo e il cliente vuole il preventivo subito
+- C) La diagnosi documentata evita il 90% delle sorprese in corso d'opera
+- D) la termografia è una fotografia del momento (sole, stagione)
 
 ## Domanda 220
 
-Un recupero interrato con pozzetto di raccolta:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Si riempie di cemento
-- B) Il pozzetto è decorativo
-- C) La pompa con galleggiante gestisce gli eventi: il locale resta asciutto
-- D) Basta la grondaia
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) La sequenza operativa: messa in sicurezza elettrica, estrazione con pompe e aspiratori, smaltimento dei materiali non recuperabili (cartongesso, isolanti, arredi imbottiti), asciugatura forzata con deumidificatori e ventilatori (settimane per i muri), disinfezione delle superfici (rischio microbiologico), verifica dell'umidità residua prima di richiudere
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 221
 
-La temperatura dell'acqua dei bambini in piscina:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) 30-32 °C massimo con sorveglianza attiva
-- B) 20 °C
-- C) Non conta
-- D) 35 °C
+- A) il rilievo stratigrafico con picchiettature localizzate
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) La sequenza operativa: messa in sicurezza elettrica, estrazione con pompe e aspiratori, smaltimento dei materiali non recuperabili (cartongesso, isolanti, arredi imbottiti), asciugatura forzata con deumidificatori e ventilatori (settimane per i muri), disinfezione delle superfici (rischio microbiologico), verifica dell'umidità residua prima di richiudere
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 222
 
-Il giorno della prova di tenuta della guaina:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Si fissa con la committenza e si documenta: è il collaudo
-- B) Dopo 5 anni
-- C) Non serve data
-- D) Lo decide il muratore
+- A) Il deumidificatore a refrigerazione (condensa su batteria fredda): portata 10-30 l/giorno per i locali
+- B) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 223
 
-La differenza tra RI e RINP:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Il colore
-- B) Nessuna
-- C) Il peso solo
-- D) La pericolosità: i RIP richiedono gestione e smaltimento dedicati
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) la conformità catastale e urbanistica pre-vendita
+- C) il metodo del carburo di calcio per il dosaggio gravimetrico
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 224
 
-La valutazione energetica di legge 10 nel recupero:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Sostituisce il catasto
-- B) È facoltativa
-- C) La fa la banca
-- D) Attesta i valori di legge del nuovo involucro recuperato
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) Le regole generali (dalla normativa edilizia nazionale e dei regolamenti comunali): l'altezza minima degli ambienti abitabili (tipicamente 2,40-2,70 m a seconda dei regolamenti), i lucernai e le finestre per l'aerazione e l'illuminazione naturali nelle stanze abitabili, le scale con alzate e pedate regolari per l'accesso
 
 ## Domanda 225
 
-La camera stagna dei forni a legna:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) È un optional
-- B) Isola il focolare a fiamma libera per legge nei locali non conformi
-- C) Serve per estetica
-- D) Non esiste
+- A) la rete di armatura dove il supporto è incoerente
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) i nastri FRP orizzontali e verticali consolidano pannelli murari
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 226
 
-Il controllo dei filtri HEPA:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Sostituzione e prova di integrità secondo pianificazione
-- B) Mai
-- C) Ogni 50 anni
-- D) Con la scopa
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 227
 
-Un camino senza collare di lattoneria:
+Quale accorgimento è nelle note di cantiere della scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Si sistema col silicone
-- B) È normale
-- C) È una infiltrazione programmata: il collare è l'unica soluzione duratura
-- D) Basta la vernice
+- A) Il supporto va bagnato (a giusta saturazione) prima dell'intonaco: il gancio meccanico dipende dall'umidità del contatto
+- B) Prima di imbiancare: misurare temperatura muro e rugiada, non indovinare
+- C) La classificazione del rischio PRIMA e DOPO è il documento chiave per le agevolazioni e per la vendita futura: conservarla
+- D) misurare i risultati con un data logger: i numeri convincono il cliente più delle promesse
 
 ## Domanda 228
 
-La scheda tecnica del sistema FRP:
+Quale di questi errori di cantiere è segnalato nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Non esiste
-- B) Si butta
-- C) Va conservata con i verbali di posa: la garanzia vive lì
-- D) La tiene il fornitore
+- A) la protezione dal gelo e dalla pioggia nelle prime settimane è critica per la carbonatazione
+- B) l'isolamento del tetto si fa a regola d'arte nel recupero: l'occasione non si ripresenta
+- C) Misurare l'altezza sul FINITO (massetto + controsoffitti + pavimento): il grezzo inganna
+- D) aspettare la stagione di asciugatura prima di giudicare il risultato
 
 ## Domanda 229
 
-La differenza di umidità tra parete e aria:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Il gradiente guida la direzione del flusso di vapore
-- B) È sempre costante
-- C) Dipende dal colore
-- D) Non esiste
+- A) La valutazione di vulnerabilità sismica dell'esistente
+- B) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 230
 
-La scelta della tinta esterna:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Silossanica per facciate minerali con protezione, calce per i supporti a calce
-- B) Acquosa universale
-- C) Sintetica brillante
-- D) Indifferente
+- A) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) il rilievo stratigrafico con picchiettature localizzate
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 231
 
-La manutenzione delle grondaie:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Pulizia autunnale e verifica dei sifoni: la grondaia traboccante bagna la facciata
-- B) Mai
-- C) Ogni 50 anni
-- D) Solo se cade
+- A) le barre filettate attraversano i muri con piastre di contrasto
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 232
 
-Il registro antincendio dell'hotel:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Raccoglie le verifiche obbligatorie: le chiusure, gli estintori, le prove
-- B) È decorativo
-- C) Non esiste
-- D) Lo tiene la questura
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) il rilievo stratigrafico con picchiettature localizzate
+- C) La malta a grassello di calce per gli intonaci di risanamento (traspirante, fungicida naturale)
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 233
 
-La prova acustica in opera dell'hotel:
+Quale di questi errori di cantiere è segnalato nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Si misura l'isolamento tra camere finite prima del completamento del piano
-- B) A orecchio
-- C) Non serve
-- D) La fa il cliente
+- A) il cantiere su edificio occupato va pianificato per fasi con comunicazione continua ai condomini
+- B) le finestre vanno protette in tinteggiatura: il silossanico macchia il vetro in modo permanente
+- C) la zona di lavoro va recintata e segnalata
+- D) la protezione dal gelo e dalla pioggia nelle prime settimane è critica per la carbonatazione
 
 ## Domanda 234
 
-La verifica del contatore e della centrale gas in hotel:
+Quale riferimento normativo è citato nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Il concierge
-- B) Solo se esplode
-- C) Manutenzione periodica e verifica di tenuta: obblighi di legge con verbali
-- D) Mai
+- A) per i beni vincolati, il nulla osta della Soprintendenza prima di qualunque indagine invasiva
+- B) gli elenchi europei dei rifiuti (codici EER) per la classificazione
+- C) le verifiche di posa secondo le istruzioni dei produttori
+- D) Il metodo di verifica della condensa secondo UNI EN ISO 13788
 
 ## Domanda 235
 
-Il bordo della piscina (bordo sfioro):
+Per lavorare correttamente su «Condensa e muffa negli edifici esistenti: diagnosi e cure», cosa raccomandano le note di cantiere?
 
-- A) È decorativo
-- B) Riscalda l'acqua
-- C) Livella l'acqua a specchio raccogliendo l'overflow nel cassone
-- D) Trattiene i bambini
+- A) le cucine e i bagni devono espellere il vapore all'esterno con ventole dedicate o VMC
+- B) Mai intervenire senza la diagnosi della causa della lesione: consolidare un muro che cede per fondazione instabile è inutile
+- C) alla fine si richiede la documentazione completa (verbali, FIR, analisi): senza quella non c'è stata bonifica
+- D) la zona di lavoro va recintata e segnalata
 
 ## Domanda 236
 
-La scelta dell'isolante nel recupero sottotetto:
+Tra questi, quale vantaggio è attribuito a «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» dalla scheda?
 
-- A) Il più economico
-- B) Solo lana di roccia sempre
-- C) Secondo lo spessore disponibile e i valori di legge: il ventilato resta la regola d'oro
-- D) Indifferente
+- A) i rilievi costano tempo e il cliente vuole il preventivo subito
+- B) la mappatura dell'umidità prima/dopo permette di misurare l'efficacia del risanamento
+- C) L'indagine non invasiva dà informazioni parziali: la conferma arriva solo con il campionamento locale
+- D) la termografia è una fotografia del momento (sole, stagione)
 
 ## Domanda 237
 
-La documentazione del rilievo:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Si conserva con data e firma: è la base del progetto e della garanzia
-- B) Si butta
-- C) Solo digitale dispersa
-- D) La tiene il cliente
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) il formulario di identificazione del rifiuto (FIR) compilato dal produttore
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 238
 
-La temperatura di mandata della pompa di calore piscina:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) 60 °C
-- B) 80 °C
-- C) Irrilevante
-- D) Bassa (28-30 °C): la macchina rende al meglio con COP alti
+- A) Le fasi: il censimento con verifica in laboratorio dei materiali sospetti
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 239
 
-Il controllo del pH in piscina:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non serve
-- B) 7,2-7,6 con regolazione automatica per l'efficacia del disinfettante
-- C) Una volta l'anno
-- D) Sempre 8,5
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) le tinture a calce per le finiture
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 240
 
-Il collegamento solaio-muro in sisma:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) È inutile
-- B) È estetico
-- C) Trattiene il solaio e la parete insieme: il nodo è la vita della scatola
-- D) È solo acustico
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) La malta a grassello di calce per gli intonaci di risanamento (traspirante, fungicida naturale)
+- C) la rete di armatura dove il supporto è incoerente
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 241
 
-La scelta del metodo anti-risalita:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Sempre iniezioni
-- B) Sempre ventilazione
-- C) Dipende da muro, vincoli, carichi e budget: non esiste il metodo universale
-- D) Sempre taglio
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 242
 
-Il rifiuto di amianto non bonificato:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) Si regala
-- B) Non si vende né si regala: è pericoloso e gestito da obblighi di legge
-- C) Si brucia
-- D) Si interra
+- A) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
+- B) l'archivio documentale (pratiche, visure, storico interventi)
+- C) il metodo del carburo di calcio per il dosaggio gravimetrico
+- D) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
 
 ## Domanda 243
 
-La verifica dello scarico di condensa del deumidificatore:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non serve
-- B) Si butta in terra
-- C) Deve essere libero verso uno scarico: ristagni e allagamenti sono dietro l'angolo
-- D) Si beve
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) le tecniche: tamponamenti rinforzati con reti e intonaci armati, collegamenti migliorati tra solai e muri (elementi di collegamento), rinforzo dei nodi con FRP, dissipatori per nuove costruzioni
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) Il metodo di Glaser valuta la condensa interstiziale strato per strato
 
 ## Domanda 244
 
-Un edificio con cavedi ostruiti del tetto piano:
+Perché «La diagnosi dell'edificio esistente: rilievo, umidità, termografia» conviene secondo la scheda? Scegli il vantaggio corretto:
 
-- A) La guaina cuoce dal basso: la pulizia dei camini è manutenzione
-- B) Non influenza
-- C) È normale
-- D) Buca la guaina
+- A) i rilievi costano tempo e il cliente vuole il preventivo subito
+- B) L'indagine non invasiva dà informazioni parziali: la conferma arriva solo con il campionamento locale
+- C) la termografia è una fotografia del momento (sole, stagione)
+- D) la termografia trova ciò che l'occhio non vede (isolante assente, ponti termici, infiltrazioni)
 
 ## Domanda 245
 
-La prova di campo dei consolidamenti:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) A occhio
-- B) Con prove di adesione e tirafondi secondo il sistema
-- C) Non esiste
-- D) Con il calendario
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 246
 
-Il bilancio energetico del data center:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) È irrilevante
-- B) Basta la potenza
-- C) Non si misura
-- D) Il PUE misura l'efficienza: il contenimento dei flussi è il primo passo
+- A) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- B) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- C) la rete di armatura dove il supporto è incoerente
+- D) il formulario di identificazione del rifiuto (FIR) compilato dal produttore
 
 ## Domanda 247
 
-La camera a pressione positiva della sala operatoria:
+Per la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) È per il caldo
-- B) Fa entrare sporco
-- C) Non esiste
-- D) L'aria esce verso i locali meno puliti proteggendo il campo operatorio
+- A) La malta a grassello di calce per gli intonaci di risanamento (traspirante, fungicida naturale)
+- B) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- C) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- D) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
 
 ## Domanda 248
 
-La raccolta dell'acqua piovana dal tetto:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) A caso
-- B) Solo estetica
-- C) Grondaie dimensionate con pendenza e pluviali liberi: la facciata ringrazia
-- D) Si ignora
+- A) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) la VMC (ventilazione meccanica controllata) con flusso continuo o a umidità regolata
 
 ## Domanda 249
 
-La diagnosi della muffa:
+Quale di questi è un limite o svantaggio documentato di «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) La fa il pittore
-- B) Si cura con la candeggina
-- C) Richiede misure (temperatura, UR, igrometro) prima di qualunque intervento
-- D) Basta guardare
+- A) il taglio meccanico è la barriera definitiva dove fattibile
+- B) gli intonaci deumidificanti permettono la messa in opera delle finiture prima che il muro sia asciutto (il muro si asciuga attraverso di loro)
+- C) Il muro saturo ci mette mesi o anni ad asciugare dopo la barriera: la fretta rovina il risultato
+- D) Le iniezioni chimiche sono poco invasive e compatibili con i vincoli storici
 
 ## Domanda 250
 
-La cessione del credito:
+Quale di questi è un limite o svantaggio documentato di «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) È una truffa
-- B) È automatica
-- C) È vietata
-- D) Strumento legale di incasso delle detrazioni con controlli documentali severi
+- A) la mappatura dell'umidità prima/dopo permette di misurare l'efficacia del risanamento
+- B) La diagnosi documentata evita il 90% delle sorprese in corso d'opera
+- C) L'indagine non invasiva dà informazioni parziali: la conferma arriva solo con il campionamento locale
+- D) la termografia trova ciò che l'occhio non vede (isolante assente, ponti termici, infiltrazioni)
 
 ## Domanda 251
 
-Il valore di progetto della neve:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Zero in montagna
-- B) Secondo NTC2018 e zona: accumulo e addensamento inclusi
-- C) Sempre uguale
-- D) Decide il cliente
+- A) la rete di armatura dove il supporto è incoerente
+- B) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- C) la sabbia di falda pulita e le terre per i massetti drenanti
+- D) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
 
 ## Domanda 252
 
-La valutazione di conformità catastale:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»?
 
-- A) Confronta lo stato di fatto con la documentazione catastale
-- B) Non serve
-- C) È estetica
-- D) La fa il notaio
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 253
 
-Il condensatore della pompa di calore piscina:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Vuole aria libera: il locale caldo raddoppia i consumi
-- B) Va coperto
-- C) Va in cantina chiusa
-- D) Non serve
+- A) la sabbia di falda pulita e le terre per i massetti drenanti
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- D) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
 
 ## Domanda 254
 
-La soglia di allarme del monitor fumi:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) A caso
-- B) Imposta con la commissione di collaudo secondo la progettazione antincendio
-- C) Non esiste
-- D) Sempre zero
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
 
 ## Domanda 255
 
-Un muro umido con pittura antimuffa ogni anno:
+Quale di questi componenti/processi è descritto nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) È curato
-- B) La pittura basta
-- C) Il muro ringrazia
-- D) La causa non è risolta: la pittura è un tamponamento che si ripete
+- A) per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri
+- B) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- C) Le fasi: il censimento con verifica in laboratorio dei materiali sospetti
+- D) i nastri FRP orizzontali e verticali consolidano pannelli murari
 
 ## Domanda 256
 
-La manutenzione delle porte tagliafuoco:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Mai
-- B) Controllo semestrale di guarnizioni e chiudiporta con verbale
-- C) Con lo straccio
-- D) Ogni 50 anni
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 257
 
-La camera stagna della cucina a gas:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non esiste
-- B) È per l'odore
-- C) Serve l'aerazione secondo UNI 7129 e la verifica di tenuta
-- D) È facoltativa
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- D) Le regole generali (dalla normativa edilizia nazionale e dei regolamenti comunali): l'altezza minima degli ambienti abitabili (tipicamente 2,40-2,70 m a seconda dei regolamenti), i lucernai e le finestre per l'aerazione e l'illuminazione naturali nelle stanze abitabili, le scale con alzate e pedate regolari per l'accesso
 
 ## Domanda 258
 
-La vasca di compenso dello sfioro:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) È decorativa
-- B) Trattiene il sale
-- C) Si riempie di terra
-- D) Livella l'acqua e ospita i sensori di livello
+- A) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- B) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- C) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- D) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
 
 ## Domanda 259
 
-La scelta dell'umidificazione in casa:
+Per la scheda «L'umidità di risalita capillare: come sale e come si risana», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Solo se necessaria con misure: l'eccesso di umidità è nemico
-- B) Mai utile
-- C) Sempre utile
-- D) Decide il gatto
+- A) il trasporto come rifiuto pericoloso con FIR e lo smaltimento in discarica autorizzata
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
+- D) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
 
 ## Domanda 260
 
-La verifica della guaina dopo il grandine:
+Secondo la scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», quale indicazione di costo è corretta?
 
-- A) Non serve
-- B) Bucarla
-- C) Ispezione visiva e prova di tenuta eventuale: i danni si sommano
-- D) Sempre nuova
+- A) l'incapsulamento 15-30 €/m²
+- B) deumidificatore portatile 150-400 €
+- C) Ordini di grandezza indicativi: CILA/SCIA con progetto da tecnico 1.000-3.000 €
+- D) intonaco deumidificante 25-45 €/m² posato
 
 ## Domanda 261
 
-Il DURC delle imprese in appalto:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Obbligatorio in fase di gara e rinnovato: tutela il committente
-- B) Facoltativo
-- C) Non esiste
-- D) Sostituisce il contratto
+- A) La valutazione di vulnerabilità sismica dell'esistente
+- B) il rilievo stratigrafico con picchiettature localizzate
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 262
 
-La temperatura di mandata del riscaldamento con radiatori a ΔT 50:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) 45 °C
-- B) 95 °C
-- C) 75 °C mandata, 65 °C ritorno, 20 °C ambiente
-- D) 30 °C
+- A) il rilievo stratigrafico con picchiettature localizzate
+- B) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- C) l'incamiciatura in cls fibrorinforzato sulle fondazioni
+- D) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
 
 ## Domanda 263
 
-La documentazione di fine cantiere:
+Secondo la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale indicazione di costo è corretta?
 
-- A) Si butta
-- B) Raccoglie verbali, FIR, collaudi e as built: la memoria del lavoro
-- C) Non serve
-- D) La tiene solo l'impresa
+- A) la verifica termigrometrica post-intervento 200-400 €
+- B) Ordini di grandezza indicativi: intonaco a calce posato 35-70 €/m²
+- C) Ordini di grandezza indicativi: servizio di estrazione e asciugatura forzata 1.000-4.000 € per appartamento
+- D) mappatura umidità di un appartamento 200-500 €
 
 ## Domanda 264
 
-La muffa in cantina con pareti fredde:
+Nella scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura» la tecnologia comprende anche:
 
-- A) È normale
-- B) Basta la candeggina
-- C) Gestita con deumidificatore ad adsorbimento e isolamento delle pareti
-- D) Si sgombera
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) la conformità catastale e urbanistica pre-vendita
+- C) Le fasi: il censimento con verifica in laboratorio dei materiali sospetti
+- D) i nastri FRP orizzontali e verticali consolidano pannelli murari
 
 ## Domanda 265
 
-La prova di tenuta degli scarichi:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) A occhio
-- B) Con ricalibratura dei sifoni e verifica delle pendenze
-- C) Dopo un anno
-- D) Mai
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- C) il rapporto di danno per la compagnia assicurativa con perizia fotografica
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 266
 
-La scelta della caldaia per il condominio:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»?
 
-- A) La più grossa
-- B) La più economica
-- C) Quella del vicino
-- D) Con la valutazione dei carichi e i rendimenti di cascata
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) il rilievo stratigrafico con picchiettature localizzate
+- C) il consorzio di riferimento (es
+- D) il metodo del carburo di calcio per il dosaggio gravimetrico
 
 ## Domanda 267
 
-La ventilazione dell'isolamento interno:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «L'umidità di risalita capillare: come sale e come si risana»?
 
-- A) Serve per asciugare le superfici e prevenire la muffa interstiziale
-- B) È inutile
-- C) È vietata
-- D) Fa sprecare
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare
+- C) La valutazione di vulnerabilità sismica dell'esistente
+- D) la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra
 
 ## Domanda 268
 
-La verifica del campione di amianto:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Con la lingua
-- B) A occhio
-- C) In laboratorio con analisi mineralogica: la certezza prima della bonifica
-- D) Non serve
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale
+- C) la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta
+- D) il registro di carico e scarico (obbligo per il produttore)
 
 ## Domanda 269
 
-La tenuta della porta della camera stagna:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Si verifica con la mano e il fumetto: l'aria deve entrare dai varchi previsti
-- B) Non serve
-- C) A orecchio
-- D) Con il metro
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) La classificazione: rifiuti speciali non pericolosi (RINP: macerie, intonaci, legno non trattato) e pericolosi (RIP: vernici, solventi, amianto, oli)
+- C) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
+- D) la rete di armatura dove il supporto è incoerente
 
 ## Domanda 270
 
-La consegna del fascicolo di risanamento:
+Secondo la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale elemento fa parte della tecnologia dell'argomento trattato?
 
-- A) Include diagnosi, metodo, verbali, FIR e manutenzioni programmate
-- B) Solo la fattura
-- C) Una foto
-- D) Nulla
+- A) La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico
+- B) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- C) la certificazione di bonifica con analisi dell'aria finali
+- D) la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante)
 
 ## Domanda 271
 
-Il regolatore di portata delle valvole termostatiche:
+Quale di questi NON appartiene alla tecnologia descritta nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) È decorativo
-- B) Fa rumore
-- C) Mantiene il bilanciamento idraulico: ogni stanza la sua temperatura
-- D) È vietato
+- A) le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno)
+- B) Il metodo di Glaser valuta la condensa interstiziale strato per strato
+- C) la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro)
+- D) la certificazione di bonifica con analisi dell'aria finali
 
 ## Domanda 272
 
-La verifica dell'impianto di scarico della piscina:
+Quale di questi errori di cantiere è segnalato nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Prima del riempimento: i collaudi si fanno 'a secco' dove possibile
-- B) Mai
-- C) Dopo 10 anni
-- D) A occhio
+- A) la SCIA va presentata PRIMA dell'apertura del cantiere: dopo è abuso
+- B) mai isolare internamente senza valutare la posizione dello strato di tenuta al vapore
+- C) Il FIR si compila alla produzione, non alla fine: ogni cassonata ha la sua traccia
+- D) le finestre vanno protette in tinteggiatura: il silossanico macchia il vetro in modo permanente
 
 ## Domanda 273
 
-La pressione di prova della rete gas:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) A caso
-- B) Non serve
-- C) Secondo UNI 7129 con strumento calibrato e verbale
-- D) Con la gomma
+- A) l'archivio documentale (pratiche, visure, storico interventi)
+- B) Le fasi: il censimento con verifica in laboratorio dei materiali sospetti
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) il rilievo stratigrafico con picchiettature localizzate
 
 ## Domanda 274
 
-La verifica dei punti di misura della termografia:
+Per la scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Non serve
-- B) Interno ed esterno in corrispondenza: la differenza racconta la storia
-- C) Solo interno
-- D) Solo esterno
+- A) La classificazione: rifiuti speciali non pericolosi (RINP: macerie, intonaci, legno non trattato) e pericolosi (RIP: vernici, solventi, amianto, oli)
+- B) il metodo del carburo di calcio per il dosaggio gravimetrico
+- C) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- D) l'archivio documentale (pratiche, visure, storico interventi)
 
 ## Domanda 275
 
-La scelta del deumidificatore per la camera da letto:
+Per la scheda «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura», quale di questi elementi NON è citato tra la sua tecnologia?
 
-- A) Il più grosso
-- B) Con portata sui litri/giorno e rumorosità (<40 dB in camera)
-- C) Indifferente
-- D) Il più economico
+- A) intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne
+- B) le tinture a calce per le finiture
+- C) la rete di armatura dove il supporto è incoerente
+- D) La scelta del risanamento parte dal supporto (calce antica vs malta cementizia)
 
 ## Domanda 276
 
-La prova di funzionamento del gruppo elettrogeno:
+Per «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», quale di questi elementi appartiene alla tecnologia descritta nella scheda?
 
-- A) Mensile a vuoto e annuale in carico: il giorno del bisogno non si improvvisa
-- B) Ogni 10 anni
-- C) Solo se piove
-- D) Mai
+- A) L'indagine visiva guidata da check-list (fessurazione, degradi, tracce)
+- B) il rapporto di danno per la compagnia assicurativa con perizia fotografica
+- C) le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione
+- D) l'incamiciatura in cls fibrorinforzato sulle fondazioni
 
 ## Domanda 277
 
-La verifica dello sfasamento termico delle pareti:
+Tra questi, quale limite è dichiarato nella scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure»?
 
-- A) Non esiste
-- B) È inutile
-- C) Più alto è, meglio smorza il caldo estivo: le masse pesanti aiutano
-- D) Più basso meglio
-
----
-
-Chiavi riservate: vedi ESAMI_RISPOSTE (non in repository).
+- A) La cura della causa (ponte termico o umidità d'aria) elimina la muffa definitivamente
+- B) la VMC decentrata per singoli ambienti risolve i bagni e le cucine senza lavori impiantistici grandi
+- C) l'isolamento interno sposta la superficie fredda: se mal fatto peggiora la muffa dietro l'armadio
+- D) il cappotto esterno cura muffa e consumi insieme
