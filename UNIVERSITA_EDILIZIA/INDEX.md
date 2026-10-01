@@ -104,3 +104,9 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK (10 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: tecnologia ascensori, dimensionamento sui flussi, installazione in esistente (MRL), manutenzione UNI EN 13015, modernizzazione, accessibilità UNI EN 81-70, piattaforme e montacarichi, scale mobili EN 115-1, porte e sicurezza, efficienza e rigenerazione
 - Approfondimenti: COSTRUIRE_IN_LEGNO_PACK 9→13, COSTRUZIONI_SPECIALI_PACK 9→13, MATERIALI_DEL_FUTURO_PACK 9→13, SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK 9→13, EDILIZIA_INDUSTRIALE_LOGISTICA_PACK 8→12 (totale +20 schede)
 - Totale repository: 44 pack, 639 schede, 0 errori JSON
+
+## Corsi del giro di approfondimento 5 (2026-10-01, bozza post-v1.0.0)
+
+- FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK (15 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA) — nuovo corso master: campi FV utility, siti e risorsa, layout (pitch/GCR/PR/P50-P90), moduli TOPCon/HJT/bifacciali, inverter di centrale, strutture (pali/viti/tracker), agrivoltaico e incentivi verificati 2026 (DM 436/2023, regole GSE 27/3/2026), iter autorizzativi D.Lgs 190/2024, connessione di rete, CER/AUC/GAC con tariffa 60-120 €/MWh verificata, BESS, economia del MWp
+- Nuovi esami: ESAMI/ASCENSORI (300 domande) ed ESAMI/FOTOVOLTAICO_CER (400 domande), chiavi riservate fuori repository; distrattori pertinenti allo stesso settore
+- Totale repository: 45 pack, 654 schede

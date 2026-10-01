@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-801 voci enciclopediche tratte da 45 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+816 voci enciclopediche tratte da 46 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -33,6 +33,8 @@
   Schiuma PU bicomponente che espande e aderisce: fissaggio e isolamento in un colpo: per pannelli, cassonetti e coibentazioni.
 - **Aerogel** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Gel di silice essiccato: l'isolante solido più leggero e performante al mondo.
+- **Agrivoltaico in Italia: il percorso degli incentivi dal DM 436/2023 al 2026** — Agrivoltaico incentivi · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  L'agrivoltaico italiano ha un percorso di incentivi dedicato nato con il PNRR: contributo del 40% e tariffa per 20 anni, con regole operative del GSE aggiornate nel 2026. Conoscere le tappe evita di citare bandi chiusi e…
 - **Algebra di base: equazioni, proporzioni, percentuali** — Algebra · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Le operazioni che governano computi, scale, dosaggi e rendimenti.
 - **Alluminio estruso** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -75,6 +77,8 @@
   Mentre le viste ortogonali danno le misure, assonometrie (isometrica, dimetrica) e prospettive (a un/due/tre punti di fuga) danno la comprensione spaziale e comunicativa: servono al cliente, non al posatore.
 - **Attuatori domotici** — Attuatori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Le mani dell'impianto: relè, dimmer, motori, valvole, attuatori multifunzione.
+- **AUC e GAC: l'autoconsumo collettivo in edificio e i gruppi di autoconsumo** — Autoconsumo collettivo · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Non tutto l'autoconsumo collettivo è una CER: l'AUC condivide energia dentro un edificio o un complesso, i GAC aggregano consumatori e produttori senza forma giuridica piena. Le regole e i vantaggi differiscono in modo p…
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
 
@@ -369,6 +373,8 @@
   Operazioni di getto, costipamento con vibratore a immersione e maturazione umida del calcestruzzo strutturale. L'errore tipico è la segregazione per getto da altezza eccessiva o per iper-vibratura; il controllo è su clas…
 - **Gli acquedotti romani: l'ingegneria dell'acqua per 500 anni** — Capolavori antichi · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   11 acquedotti portavano a Roma 1,1 milioni di m3 di acqua al giorno: più di molte città moderne.
+- **Gli adempimenti autorizzativi dei grandi fotovoltaici: iter, vincoli, tempi** — Autorizzazioni · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Tra l'idea e il cantiere di un campo FV c'è un percorso autorizzativo che può durare 1-4 anni: autorizzazione unica, valutazioni ambientali, vincoli paesaggistici, connessione. Chi investe senza mappare questo percorso c…
 - **Gli authoring BIM: Revit, Archicad, Allplan, Edificius** — Authoring tool · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   I principali strumenti di modellazione: Autodesk Revit (più diffuso, disciplne architettonica/strutturale/MEP), Graphisoft Archicad (forte in architettura, storico italiano), Allplan (diffuso nei grandi studi e nelle inf…
 - **Gli errori tipici del disegno tecnico e come evitarli** — Errori tipici · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -379,6 +385,8 @@
   La famiglia EN 1990-1999: cosa dice ciascun codice e come si usano insieme.
 - **Gli incendi edilizi: lezioni dai casi reali** — Casi incendio · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   L'analisi degli incendi reali insegna più di ogni norma: i pattern ricorrenti in edilizia: incendi durante i lavori (saldature, flessibili, stufe da cantiere), sottodimensionamento o mancata manutenzione degli impianti e…
+- **Gli incentivi delle CER: tariffa, corrispettivo, PNRR e pratica GSE** — CER incentivi · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  I numeri delle CER verificati nel 2026: tariffa incentivante tra 60 e 120 €/MWh sulla quota condivisa per 20 anni, corrispettivo ARERA intorno agli 8 €/MWh, contributo PNRR del 40% nei comuni sotto i 50.000 abitanti. La …
 - **Gli indici di isolamento: Rw, DnT,w e la correzione spettrale** — Isolamento · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   L'isolamento acustico di un elemento si valuta con indici in dB: il Rw (laboratorio), il DnT,w normalizzato per il tempo di riverberazione (in opera), con correzioni spettrali C e Ctr per rumore tipo (voce, traffico, aer…
 - **Gli investimenti immobiliari: rendite, cash flow, leva** — Investimenti · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
@@ -429,6 +437,8 @@
   La frontiera bio: i biocementi (batteri che induriscono la sabbia precipitando carbonato di calcio: il 'cemento' lo fanno i microbi), i mattoni da micelio (il micelio dei funghi cresce su scarti agricoli e li lega in blo…
 - **I calcestruzzi del futuro: UHPC, autoriparanti, translucidi** — Calcestruzzi avanzati · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   I calcestruzzi evoluti superano i limiti del materiale classico: UHPC (Ultra High Performance Concrete: resistenze 120-200 MPa, spessori ridotti del 50%, durabilità eccezionale), autoriparanti (con batteri o capsule cura…
+- **I campi fotovoltaici a terra: anatomia di un impianto utility** — Utility scale · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Il campo fotovoltaico a terra (utility scale) è un vero e proprio impianto industriale: migliaia di moduli, strutture di campo, inverter, cabine elettriche, rete interna in cavidotti e un muro di confine. Capirne l'anato…
 - **I capannoni industriali: la scatola che lavora** — Capannoni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Il capannone industriale è architettura minima massimizzata: una scatola con struttura (acciaio o precast), involucro (pannelli sandwich), grandi porte e luce naturale; il progetto giusto parte dalla logistica interna (i…
 - **I certificati bianchi (TEE): l'efficienza come titolo** — Mercati · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -469,6 +479,8 @@
   Il riciclato avanzato trasforma rifiuti in risorsa strutturale: plastiche riciclate in elementi arredo e tubazioni, aggregati da demolizione selezionata (con percentuali crescenti nel calcestruzzo), CO2 mineralizzata nel…
 - **I mezzi di estinzione: estintori, idranti, naspi** — Estinzione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   I mezzi di estinzione manuali sono la prima risposta: estintori a polvere (universali, sporcano), a CO2 (locali elettrici, non lasciano residui), idranti a parete con naspo (portata e getto minimo per attività), impianti…
+- **I moduli di nuova generazione: TOPCon, HJT, PERC, bifacciali e degradazione** — Moduli · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Il modulo fotovoltaico è cambiato più negli ultimi 5 anni che nei 30 precedenti: le celle TOPCon e HJT stanno sostituendo il PERC, i bifacciali sono diventati standard nei campi, e la garanzia di degradazione ha dichiara…
 - **I pannelli coibentati e l'involucro industriale: tenuta, ponti termici e durabilità** — Involucro · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Il capannone moderno è un involucro di pannelli coibentati che fanno da parete, copertura e isolamento in un colpo solo. La differenza tra un involucro che dura 30 anni e uno che perde in 5 sta nei dettagli di posa e nei…
 - **I parcheggi: progettare l'auto senza rovinare il quartiere** — Parcheggi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -635,6 +647,8 @@
   Il ruolo del geometra nella filiera edilizia: cosa può fare, cosa deve sapere, come evolve.
 - **Il governo del territorio: principi costituzionali** — Principi · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   L'urbanistica italiana si fonda sugli artt. 42 e 44 della Costituzione: proprietà pubblica e privata riconosciuta ma con funzione sociale, che può essere vincolata in base ai piani; l'art. 117 attribuisce la pianificazio…
+- **Il layout del campo: pitch, ground cover ratio e la produzione attesa** — Layout e produzione · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Quanto fitto si mettono i moduli? Il layout del campo bilancia resa del singolo modulo (più spazio = meno ombreggiamenti reciproci) e resa del terreno (più spazio = meno MW installati). Il linguaggio tecnico è pitch e GC…
 - **Il legno e il fuoco: la protezione che funziona** — Fuoco · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno brucia in superficie ma ha un superpotere: carbonizza a velocità nota (0,5-0,7 mm/min) e il carbone isolante protegge il cuoro sano: una sezione in legno dimensionata 'al fuoco' mantiene la resistenza più a lung…
 - **Il legno e l'umidità: protezione dalla pioggia e dalla condensa** — Umidità · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
@@ -757,6 +771,8 @@
   Placche con interruttori, prese, USB e comandi: il punto di contatto dell'impianto.
 - **Intonaco civile tradizionale e premiscelato** — Finiture · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Realizzazione di intonaci interni ed esterni a più strati (rinzaffo, arriccio, finitura). Errore tipico: applicare su supporto polveroso o troppo assorbente senza preparazione (distacchi a scaglie) e non rispettare i tem…
+- **Inverter di centrale e rete interna: dal modulo alla cabina di consegna** — Inverter e rete interna · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Dalla corrente continua dei moduli alla corrente alternata di rete: inverter, cabine di trasformazione e la rete interna in cavidotto sono il sistema nervoso del campo. La scelta tra string inverter e central inverter ca…
 - **Irrigazione smart** — Irrigazione · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Irrigazione giardini e giardini pensili guidata da meteo e umidità del suolo.
 - **ISO 19650: gestione informativa dell'edificio** — ISO 19650 · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -797,6 +813,8 @@
   Le formule del suono negli edifici: il comfort che si misura.
 - **L'agenzia immobiliare: ruolo, provvigioni, normativa** — Agenzia · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   L'agente immobiliare (L. 39/1989) è il mediatore professionale iscritto al Ruolo (CAM): mediazione tra venditore e compratore o locatore e locatario, con provvigione (mediazione) dovuta quando conclude l'affare; l'iscriz…
+- **L'agrivoltaico: energia e agricoltura sullo stesso metro quadro** — Agrivoltaico · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  L'agrivoltaico fa convivere il fotovoltaico con la coltivazione: pannelli sopraelevati sopra le colture, in serra fotovoltaica o intercalati tra le file. Non è un FV su terreno agricolo con la coltura come pretesto: è un…
 - **L'albergo come macchina: front of house e back of house** — Fondamenti · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   L'albergo è un edificio-servizio: la parte pubblica (hall, camere, ristoranti, wellness) deve incantare, la parte tecnica (cucine, lavanderia, magazzini, impianti, personale) deve funzionare invisibile; il rapporto tra l…
 - **L'antincendio industriale: magazzini e rischi speciali** — Antincendio industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -813,6 +831,8 @@
   Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenzionata (l'imprenditore costruisce infrastrutture e standard in cambio delle aree edificabili), piani di recupero (edilizia consolidata), pro…
 - **L'economia del legno: costi, tempi, mercato** — Economia · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
+- **L'economia di un campo FV: CAPEX, OPEX, LCOE e l'esempio del MWp** — Economia di progetto · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Il fotovoltaico a terra è un investimento finanziario: si valuta come un'impresa. CAPEX, OPEX, produzione attesa, prezzo dell'energia e sconto determinano la bancabilità. L'esempio svolto del MWp mette insieme tutto il c…
 - **L'edge computing: il data center piccolo e ovunque** — Edge e micro · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   L'edge computing porta il calcolo vicino all'utente (il 5G, l'IoT, la guida autonoma non possono aspettare il cloud lontano): i micro-data center (un armadio rack in un edificio), i container data center (il DC in un box…
 - **L'edificio in estate: trasmittanza periodica, sfasamento e rischio muffa** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
@@ -899,6 +919,8 @@
   Comprare e vendere un immobile (o una costruzione futura: vendita su carta) richiede la verifica completa della situazione legale e fiscale PRIORA del rogito: visura catastale e ipotecaria, conformità urbanistica, stato …
 - **La condensazione e il vapore: quando l'acqua si nasconde nella parete** — Condensazione · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Il vapore acqueo che attraversa la parete e diventa acqua: la fisica della muffa.
+- **La connessione alla rete: cabina primaria, studio di rete e TICA** — Connessione di rete · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Per un campo FV la connessione è metà del progetto: richiesta di connessione, studio di rete, offerta, lavori di potenziamento e contratto TICA. I tempi di connessione decidono la data del ricavo più della costruzione st…
 - **La consolidazione dei terreni saturi: Terzaghi e il tempo dei cedimenti** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   La consolidazione è il processo con cui un terreno saturo scarica nel tempo la pressione idraulica in eccesso e si comprime: governata dal coefficiente di consolidazione cv e dal grado di consolidazione U in funzione del…
 - **La contabilità dei lavori: misure, contabilità figurativa, giustificativi** — Contabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
@@ -1017,6 +1039,8 @@
   Sapere subito dove è il fuoco cambia tutto: i sistemi di rivelazione indirizzati dicono la posizione esatta dell'allarme alla centrale, ai soccorsi e al personale. La scelta del tipo di rivelatore (fumo, calore, fiamma, …
 - **La Sagrada Familia (1882-in costruzione): il cantiere eterno** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   La basilica di Gaudí a Barcellona: in costruzione da 140 anni, completamento previsto 2026-2030.
+- **La scelta del sito: irraggiamento, terreno, vincoli e soiling** — Siti e risorsa · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Un campo FV rende per 30 anni: la scelta del sito è la decisione irreversibile. Irraggiamento, orografia, terreno, vincoli e polveri determinano più della metà della differenza di rendimento tra un buon sito e un cattivo…
 - **La scelta delle essenze: alberi, arbusti, prati per il clima italiano** — Essenze · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   La scelta delle piante è la decisione che vale decenni: gli alberi da fusto alto per le strade (platano, tiglio, frassino, cipresso? No: cipresso non da fusto alto urbano), gli arbusti per le aiuole (lauroceraso, viburno…
 - **La segnaletica di sicurezza e i controlli documentali** — Segnaletica · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
@@ -1093,6 +1117,8 @@
   La baia di carico è il collo di bottiglia logistico: la zona dove i camion caricano e scaricano; gli elementi: portoni sezionali o rapidi, pensiline di protezione, dock leveler (rampe regolabili che pareggiano i dislivel…
 - **Le camere alberghiere: il prodotto che si vende** — Camere · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La camera è il prodotto dell'albergo: il comfort (il letto, l'insonorizzazione, l'oscuramento), la tecnologia (Wi-Fi, TV, domotica), l'efficienza per la gestione (le superfici resistenti, il minibar, la cassaforte) e la …
+- **Le CER: comunità energetiche e autoconsumo collettivo** — CER · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Le Comunità Energetiche Rinnovabili permettono di condividere energia tra produttori e consumatori dentro lo stesso perimetro di rete: incentivi su 20 anni e un nuovo ruolo sociale per l'energia. È il modello che sta cam…
 - **Le chiusure e l'accessibilità: porte automatiche, soglie e barriere architettoniche** — Accessibilità · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Una porta è accessibile quando tutte le persone possono usarla: soglie azzerate o superabili, larghezze utili adeguate, maniglie manovrabili con una mano, aperture automatiche dove serve. La progettazione accessibile è o…
 - **Le connessioni in legno: dove le strutture si incontrano** — Connessioni · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
@@ -1193,6 +1219,8 @@
   Le strade si classificano per funzione (autostrade, strade extraurbane principali/secondarie/locali, strade urbane) e ogni classe ha la sua geometria: larghezza carreggiata, raggio minimo delle curve, pendenze longitudin…
 - **Le strutture composte acciaio-calcestruzzo avanzate** — Compositi avanzati · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Le strutture miste sfruttano la collaborazione acciaio-calcestruzzo: travi con piattabanda (slim floor), solette collaboranti su lamiera grecata, colonne riempite (CFST: concrete-filled steel tubes); il vantaggio è l'alt…
+- **Le strutture di campo: fondazioni, pali infissi, viti elicoidali e tracker** — Strutture di campo · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Le strutture reggono 30 anni di vento, grandine e corrosione: il 30-40% del costo meccanico di un campo sta qui. La scelta passa dal terreno: dalla piastra per terreni deboli alla vite elicoidale dove il sottosuolo lo pe…
 - **Le strutture esistenti: rilievo, indagini, valutazione** — Strutture esistenti · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   L'80% del lavoro italiano: capire quello che esiste e decidere se regge.
 - **Le strutture gonfiabili: padiglioni, coperture e magazzini d'aria** — Strutture pneumatiche · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -1243,6 +1271,8 @@
   Listelli segati essiccati (abete, piallati) per controsoffitti a doghe e finiture a vista.
 - **Lo scaldabagno: a gas, elettrico e a pompa di calore** — Scaldabagni · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   La produzione di ACS punto per punto: le tre tecnologie a confronto.
+- **Lo stoccaggio nei campi FV: BESS, ibridazione e revenue stacking** — Stoccaggio · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
+  Le batterie stanno entrando nei campi fotovoltaici: spostare il mezzogiorno di produzione sulla sera, vendere servizi alla rete, ridurre il curtailment. La batteria è un asset economico complesso, non solo tecnico.
 - **Lo strumento del progettista: software strutturali italiani e internazionali** — Software strutturali · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   L'ecosistema dei programmi: cosa usa davvero la professione.
 - **Locazione breve e affitti turistici: mercato e regole** — Locazione breve · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)

@@ -83,3 +83,15 @@ Contenuto: +20 schede di approfondimento su 5 pack (legno, costruzioni speciali,
 | D3 | Validazione globale | 44 pack, 639 schede, 0 errori JSON, 0 schede fuori schema | Script di validazione eseguito a fine giro |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).
+
+## Giro E — 2026-10-01, bozza post-v1.0.0 (commit corrente)
+
+Contenuto: nuovo corso FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK (15 schede), nuovi esami ASCENSORI (300 domande) e FOTOVOLTAICO_CER (400 domande).
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| E1 | Nuovo pack FV/agrivoltaico/CER | Dati incentivisti verificati via web il 01/10/2026: Decreto CACER D.M. 414/2023 (tariffa 60-120 €/MWh, parte variabile max 40 €/MWh con formula TIP=TIPmin+max(0,180-Pz), maggiorazioni +4/+10 €/MWh Centro/Nord, corrispettivo ARERA ~8 €/MWh, 20 anni, limite 1 MW, cabina primaria ARERA 727/2022); agrivoltaico: DM 436/2023, regole GSE 31/5/2024 e 27/3/2026, DM 123/2025 (riapertura 323,4 mln), DM 149/2025 (fine lavori 30/6/2026, esercizio entro 18 mesi, rendicontazione 31/10/2026), graduatorie decreti 249-250/2024, DL 19/2026 art. 27 (programmi facility), D.Lgs 190/2024 (TU FER), DPR 31/3/2023 (GAUDÌ), ISPRA linee guida VIA 57/2025 | Fonti GSE, MASE, ARERA, press di settore e studi legali (biblus.acca.it, confagricolturaveneto.it, tedioli.com, euractiv.it, logicenergy.de); valori tariffari soggetti ad aggiornamento annuale: marcato in scheda «da verificare sui documenti vigenti» |
+| E2 | Nuovi esami (700 domande totali) | ASCENSORI 300 e FOTOVOLTAICO_CER 400, generatore build_esami_giro5.py: 8 famiglie di domande (tecnologia, note cantiere, vantaggi, limiti, NOT-questions, applicazioni, costi, norme) con distrattori dello stesso settore; chiavi in ESAMI_RISPOSTE/ fuori repository (gitignore verificato) | Controllo interno: schema chiavi validato, lettere coerenti, dedup su (testo, risposta) |
+| E3 | Validazione globale | 45 pack, 654 schede, 0 errori JSON, 0 schede fuori schema | Script di validazione eseguito a fine giro |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).

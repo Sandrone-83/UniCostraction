@@ -21,6 +21,8 @@ di apprendimento per settore.
 | EDILIZIA_GENERALE | in coda | Edilizia_Pack |
 | IMPIANTI_TERMICI | in coda | Macchine termiche + dimensionamento |
 | IMPIANTI_FV_EOLICO | ✅ 1.000 domande | dimensionamento FV/eolico/accumulo (10 schede + banco calcoli) |
+| ASCENSORI | ✅ 300 domande | ascensori, piattaforme, montacarichi, scale mobili (10 schede) |
+| FOTOVOLTAICO_CER | ✅ 400 domande | campi FV a terra, agrivoltaico, CER/AUC/GAC, BESS (15 schede) |
 | DOMOTICA | in coda | 29 schede |
 | POSA_IN_OPERA | in coda | 22 schede |
 | STRUTTURE | in coda | ingegneria strutturale + formulario |
