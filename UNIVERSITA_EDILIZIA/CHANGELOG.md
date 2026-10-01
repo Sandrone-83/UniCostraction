@@ -149,3 +149,16 @@ Contenuto: 3 corsi nuovi (restauro e conservazione delle opere, impianti sportiv
 | I3 | Validazione curatoriale | Rimosso script di generazione residuo nel pack restauro; 54 pack, 762 schede, 0 errori JSON, 0 schede fuori schema, 0 refusi | Rivalidazione indipendente rispetto ai resoconti agente |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.2.0 o v1.1.1, da decidere alla chiusura della bozza).
+
+## Giro J — 2026-10-01, bozza post-v1.1.0 (verso v1.2, NESSUN tag applicato)
+
+Contenuto: aggiornamento verificato di tutti gli incentivi edilizia/rinnovabili con numeri e percentuali su fonti reali (ricerca web 01/10/2026), ENERGETICA_INCENTIVI_PACK 13→15 schede.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| J1 | Detrazioni fiscali: numeri verificati | Scheda 6 riscritta con: 2026 = 50% abitazione principale (proprietario o diritto reale di godimento) / 36% altri casi, limite 96.000 euro, 10 quote annuali; roadmap 2027 = 36%/30%, 2028-2033 = 30% con limite 48.000 euro, dal 2034 = 36% con 48.000 euro; esclusione caldaie uniche a gas fossile per spese 2025-2027; tetto art. 16-ter TUIR per redditi oltre 75.000 euro (base 14.000/8.000 euro x coefficiente figli 0,50-1,00); IVA 10% e rientro di FV, accumulo, colonnine | L. 199/2025 (Legge di Bilancio 2026); Circolare Agenzia Entrate 8/E 19/6/2025; fiscomania.com, biblus.acca.it, enel.it (guide aggiornate 2026) |
+| J2 | Conto Termico 3.0: conferma valori | Schede 1-3 gia' allineate (D.M. 7/8/2025, operativo dal 25/12/2025, portale dal 2/2/2026, domanda entro 90 gg, rata unica <= 15.000 euro, 65% PdC/biomassa 5 stelle/solare termico, 40% involucro, 55% combinati, 100% PA piccoli comuni/scuole/sanita', +10% componenti UE, +5/10/15% moduli ENEA): verificata la coerenza con le fonti 2026, nessuna correzione necessaria | gse.it via fonti di settore (biblus.acca.it, embuild.eu, tgreen.it, ristrutturalo.it, apefacile.it) |
+| J3 | Nuove schede: RID e Reddito Energetico | Scheda 14: chiusura Scambio sul Posto ai nuovi impianti (esercizio prima del 29/5/2025), RID d'ufficio dal 1/1/2026, prezzi zonali con minimi garantiti (0,047-0,11 euro/kWh ordine di grandezza da fonti di settore), alternative CER/mercato libero. Scheda 15: Reddito Energetico nazionale (ISEE <= 15.000 euro o 30.000 con 4+ figli, impianti 2-6 kW, 100% costo, non cumulabile con detrazione, ~80% fondi al Sud, varianti regionali es. Puglia 20.000 euro) | rossinienergy.it, marcorinaldo.it, accentosolare.it, enel.it, greenmood.org (guide 2026); regole GSE citate come 'versione vigente' dove il dettaglio va verificato sul portale |
+| J4 | Esame ENERGETICA_INCENTIVI rigenerato | 220 -> 250 domande per coprire le 2 schede nuove; chiavi riservate fuori repo, 0 anomalie | Controllo interno |
+
+Righe aperte nel giro: il valore puntuale delle tariffe RID e dei decreti attuativi del Reddito Energetico e' marcato 'versione vigente / verificare su gse.it': i numeri strutturali (aliquote, massimali, soglie ISEE) sono verificati su piu' fonti concordanti. Il materiale resta bozza finche' l'utente non approva il tag.

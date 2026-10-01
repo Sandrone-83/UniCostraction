@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-239 voci, 14 corsi.
+241 voci, 14 corsi.
 
 
 ## Acustica edilizia
@@ -1218,7 +1218,7 @@ Mesh radio a basso consumo per sensori e attuatori domotici.
 
 ## Energetica edilizia e incentivi
 
-*Corso `ENERGETICA_INCENTIVI_PACK` — 13 voci*
+*Corso `ENERGETICA_INCENTIVI_PACK` — 15 voci*
 
 ### L'APE: l'attestato di prestazione energetica
 
@@ -1299,15 +1299,15 @@ Il Conto Termico 3.0 è il contributo a fondo perduto del GSE per interventi di 
 
 **Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
 
-Le detrazioni fiscali restano il grande strumento dell'edilizia italiana: la detrazione del 50% per ristrutturazioni (limite 96.000 €) è la misura strutturale, mentre le aliquote 'energetiche' sono state ridotte e modificate più volte dopo il Superbonus: i valori vigendi vanno sempre verificati sulla Legge di Bilancio corrente.
+Le detrazioni fiscali restano il grande strumento dell'edilizia italiana. Numeri verificati ad ottobre 2026 (L. 199/2025, Legge di Bilancio 2026): per le spese del 2026 la detrazione e' del 50% sull'abitazione principale del proprietario o titolare di diritto reale di godimento e del 36% negli altri casi, su un limite di 96.000 euro per unita' immobiliare, ripartita in 10 quote annuali. Dal 2027 le aliquote scendono a 36% e 30%; dal 2028 al 2033 si prevede il 30% con limite di 48.000 euro.
 
-- **Tecnologia e criteri:** Criteri del sistema (stabili): 1) la detrazione si riparte in 10 quote annuali (salvo cessione del credito dove prevista); 2) base: il pagamento tracciabile (bonifico parlante 'ristrutturazioni/energia') per le spese agevolabili; 3) asseverazione tecnica richiesta per gli interventi energetici (pratica ENEA per le detrazioni energetiche, sostituita dalle piattaforme previste dalla norma vigente); 4) documenti: fatture, pagamenti tracciati, APE quando dovuto, pratica online entro i termini; 5) CUMULO: non cumulabile con Conto Termico 3.0 sulle stesse spese — la scelta è alternativa; cumulabilità con contributi regionali e PNRR secondo le regole specifiche; 6) i massimali per tipologia ( finestre, cappotto, impianti) sono definiti annualmente e cambiano: mai quotare un progetto sulla base di un articolo di due anni prima.
+- **Tecnologia e criteri:** Sistema e numeri verificati (ottobre 2026): 1) spese 2026: 50% per abitazione principale (proprietario o titolare di diritto reale di godimento: il locatario e il familiare convivente restano al 36%), 36% negli altri casi; limite 96.000 euro per unita' immobiliare; 10 quote annuali; 2) roadmap: 2027 = 36%/30% (limite 96.000 euro), 2028-2033 = 30% con limite 48.000 euro, dal 2034 = 36% con 48.000 euro; 3) ESCLUSIONE: sostituzione della climatizzazione invernale con caldaie uniche a combustibili fossili esclusa per spese 2025-2027; 4) redditi oltre 75.000 euro: tetto complessivo art. 16-ter TUIR (base 14.000 euro per redditi 75.001-100.000, 8.000 euro oltre 100.000, moltiplicata per coefficiente familiare: 0,50 senza figli, 0,70 con uno, 0,85 con due, 1,00 con tre o piu'); conta la rata annua, non la spesa complessiva; 5) pagamento tracciabile (bonifico parlante) intestato all'intestatario dell'immobile; 6) fotovoltaico, accumulo collegato all'impianto e colonnine di ricarica rientrano nel bonus; IVA agevolata al 10% sull'intero impianto.
 - **Applicazioni:** Ristrutturazioni edilizie, riqualificazione energetica, interventi sulle parti comuni condominiali, arredi connessi alla ristrutturazione.
 - **Vantaggi:** Trasformano l'imposta in investimento: per chi ha capienza fiscale il 50% in 10 anni resta competitivo con molti contributi.
 - **Limiti e attenzioni:** I valori cambiano ogni anno (legge di bilancio): la specializzazione dell'LLM deve essere sul METODO (documenti, tracciabilità, cumuli), non sui numeri dell'anno scorso.
 - **Costi ed economia:** Pratica di detrazione gestita da tecnico: 300-1.500 €; l'errore tipico (pagamento non tracciato) fa perdere l'intera agevolazione su quella fattura.
 - **Caso tipico:** Cliente con bonifico 'ristrutturazioni' fatto su conto del figlio convivente ma non intestatario: l'Agenzia delle Entrate ha negato la detrazione (non tracciato come da norma): 12.000 € di agevolazione perse per un bonifico sbagliato.
-- **Normativa:** Legge di Bilancio in vigore (valori aggiornati); TUIR art. 16-bis (ristrutturazioni) e art. 16-bis.1 (energia); prassi Agenzia delle Entrate e ENEA per le piattaforme.
+- **Normativa:** TUIR art. 16-bis; L. 199/2025 (Legge di Bilancio 2026); Circolare Agenzia delle Entrate 8/E del 19 giugno 2025; prassi ENEA per le piattaforme delle detrazioni energetiche (versione vigente).
 - **Nota di cantiere:** Il primo controllo di ogni pratica di detrazione: intestatario del bonifico = intestatario dell'immobile (o comproprietario), causale corretta, nel periodo dei lavori. Il 90% delle perdite nasce qui.
 
 ### Scegliere l'incentivo giusto: fondo perduto, detrazione, credito
@@ -1339,6 +1339,36 @@ Per le imprese l'efficienza energetica si incentiva anche con il credito d'impos
 - **Caso tipico:** Stabilimento metalmeccanico: confronto 2026 tra CT 3.0 (PdC+FV trainato, fondo perduto, solo se progetto integrato) e iperammortamento (FV+accumulo puro, beni strumentali): per il solo fotovoltaico l'iperammortamento restava l'unica via; per il progetto con pompa di calore il CT 3.0 dava cassa immediata. Il piano ha combinato entrambi su voci diverse.
 - **Normativa:** D.L. approvati per Transizione 5.0 (crediti 2024-2025) e legge di bilancio 2026; discipline iperammortamento aggiornate (verificare versione vigente); piattaforma MIMIT per i crediti energia.
 - **Nota di cantiere:** La sequenza temporale è il contenuto vero di questi incentivi: pratica/prima, acquisto poi, installazione dopo. Le imprese che comprano 'e poi vedono l'incentivo' finiscono a sostenere l'investimento intero.
+
+### Il Reddito Energetico: fotovoltaico senza anticipo per famiglie con ISEE basso (verificati ottobre 2026)
+
+**Categoria:** Incentivi rinnovabili · **Corso:** Energetica edilizia e incentivi
+
+Il Reddito Energetico nazionale (GSE) copre il 100% del costo di un impianto fotovoltaico da 2 a 6 kW per i nuclei con ISEE fino a 15.000 euro (30.000 euro con almeno 4 figli a carico): impianto installato da operatore convenzionato senza anticipo da parte della famiglia, a sportello con fondi a esaurimento.
+
+- **Tecnologia e criteri:** Requisiti verificati (ottobre 2026): 1) ISEE: fino a 15.000 euro, o 30.000 euro con almeno 4 figli a carico; 2) impianto: fotovoltaico da 2 a 6 kW sull'abitazione di residenza, con possibile quota di accumulo secondo le regole della misura; 3) erogazione: contributo diretto all'installatore convenzionato, la famiglia non anticipa; 4) gestione: GSE, a sportello, con graduatorie a esaurimento; 5) non cumulabile con la detrazione fiscale sulla stessa spesa; cumulabile con RID/CER sulla valorizzazione dell'energia; 6) impianti realizzati da operatori accreditati secondo i requisiti del bando; 7) risorse: larga quota destinata al Mezzogiorno (circa 80% dei fondi secondo le fonti di settore); alcune regioni hanno requisiti piu' ampi (es. Puglia: ISEE fino a 20.000 euro) con bandi regionali dedicati.
+- **Applicazioni:** Famiglie in condizione di vulnerabilita' energetica, edilizia residenziale privata nel Mezzogiorno, imprese installatrici accreditate al bando.
+- **Vantaggi:** Elimina la barriera dell'anticipo: chi non puo' permettersi ne' l'investimento ne' l'attesa della detrazione ottiene l'impianto e la riduzione della bolletta subito.
+- **Limiti e attenzioni:** Fondo a esaurimento e finestre brevi: i fondi si esauriscono in giorni; serve essere pronti con documenti e operatori convenzionati al momento dell'apertura.
+- **Costi ed economia:** Ordini di grandezza indicativi: per la famiglia il costo e' zero (coperto il 100% fino ai limiti della misura); per l'impresa installatrice il flusso dipende dalla convenzione GSE e dalla tempistica di rendicontazione; il beneficio energetico tipico: 300-700 euro/anno di bolletta in meno per un 3-6 kW ben orientato (stima 2026).
+- **Caso tipico:** Nucleo familiare nel Sud con ISEE 12.000 euro e bolletta annua di 1.800 euro: impianto 4,5 kW con accumulo installato da operatore convenzionato a costo zero; la bolletta si riduce tipicamente del 60-80% e l'energia immessa entra nel RID.
+- **Normativa:** D.Lgs 28/2011; regole GSE Reddito Energetico (edizione vigente sul portale GSE); decreti attuativi PNRR della misura (versione vigente); bandi regionali analoghi dove attivi (verificare sui portali regionali).
+- **Nota di cantiere:** Per l'impresa e' un canale commerciale vero: serve accreditamento preventivo, personale formato sulle pratiche GSE e velocita' documentale. Chi si accredita dopo l'apertura dello sportello perde la stagione.
+
+### La vendita dell'energia FV: dal Rap allo Scambio sul Posto chiuso, il RID (verificati ottobre 2026)
+
+**Categoria:** Incentivi rinnovabili · **Corso:** Energetica edilizia e incentivi
+
+Come si valorizza oggi l'energia fotovoltaica immessa in rete: lo Scambio sul Posto non accetta piu' impianti nuovi (ultimo accesso agli impianti in esercizio prima del 29 maggio 2025) e il meccanismo di riferimento e' il Ritiro Dedicato (RID), che dal 1 gennaio 2026 si attiva d'ufficio se il titolare non sceglie altro.
+
+- **Tecnologia e criteri:** Meccanismi verificati (ottobre 2026): 1) RID: il GSE acquista l'energia immessa a prezzo di mercato zonale orario; per i piccoli impianti sono previsti prezzi minimi garantiti (ordine di grandezza segnalato dalle fonti di settore: 0,047-0,11 euro/kWh); 2) attivazione d'ufficio dal 1/1/2026 per chi non comunica una scelta diversa; 3) alternative: vendita sul mercato libero con aggiudicazione alla migliore offerta, oppure adesione a una CER con tariffa premiale sull'energia condivisa; 4) il Rap (Ritiro Avviato e Programmato) resta la forma base per chi non configura nulla; 5) l'autoconsumo resta il valore piu' alto: 1 kWh autoconsumato vale piu' di 1 kWh venduto, per questo il dimensionamento si sposta su accumulo e load management.
+- **Applicazioni:** Impianti fotovoltaici residenziali, condominiali e industriali in esercizio; strategia di business dei plant owner e delle ESCo.
+- **Vantaggi:** Semplicita' e neutralita': nessun rischio di prezzo per chi resta nel RID e l'energia vale sempre il prezzo di mercato, con minimi garantiti per i piccoli impianti.
+- **Limiti e attenzioni:** Il prezzo zonale e' variabile: nelle ore di forte produzione FV il valore dell'energia immessa si riduce (effetto merit order); chi vende tutto rinuncia alla parte piu' redditizia, l'autoconsumo.
+- **Costi ed economia:** Ordini di grandezza indicativi: adesione RID gestita dal GSE senza costi di attivazione (coperti dal corrispettivo di ritiro); il differenziale tra autoconsumo e vendita vale 0,10-0,25 euro/kWh a seconda della fascia tariffaria: per questo l'accumulo cambia il conto economico piu' del meccanismo di vendita.
+- **Caso tipico:** Famiglia con impianto 6 kW senza batteria (autoconsumo 30%): con il RID percepisce il valore di mercato dei 4.200 kWh/anno immessi; aggiungendo 10 kWh di accumulo (autoconsumo 70-80%) il beneficio annuo tipico cresce di 500-900 euro rispetto alla vendita pura (stima su fonti di settore 2026).
+- **Normativa:** D.Lgs 28/2011 (fonti rinnovabili); regole GSE su Ritiro Dedicato, Rap e chiusura dello Scambio sul Posto ai nuovi impianti (2025); delibere ARERA di settore (versione vigente: verificare su gse.it).
+- **Nota di cantiere:** La domanda del cliente e' sempre 'mi conviene batteria o vendita?': la risposta si costruisce sulla curva di carico reale (bollette), non sui listini. Chi consuma di sera compra accumulo; chi ha consumi diurni (pompe, uffici) valorizza l'autoconsumo diretto.
 
 ### I certificati bianchi (TEE): l'efficienza come titolo
 

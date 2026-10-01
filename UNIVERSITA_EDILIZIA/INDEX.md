@@ -148,3 +148,10 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - PIETRE_NATURALI_E_LAPIDEI_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: famiglie di pietre, lavorazioni di superficie, marmo/travertino/granito, pavimentazioni esterne, rivestimenti e facciate, trattamenti, posa, manutenzione, prezzi, confronto con agglomerati e ceramica
 - Nuovi esami: ESAMI/RESTAURO_CONSERVAZIONE (223 domande), ESAMI/IMPIANTI_SPORTIVI (250), ESAMI/PIETRE_NATURALI (250), chiavi riservate fuori repository
 - Totale repository: 54 pack, 762 schede, 55 esami
+
+
+## Corsi del giro di approfondimento 10 — aggiornamento incentivi (2026-10-01, bozza post-v1.1.0)
+
+- ENERGETICA_INCENTIVI_PACK 13→15 schede: detrazioni fiscali aggiornate con numeri verificati ad ottobre 2026 (50%/36% 2026 con limite 96.000 €, roadmap 2027-2034, esclusione caldaie a gas 2025-2027, tetto art. 16-ter TUIR per redditi oltre 75.000 €); nuove schede su RID e chiusura dello Scambio sul Posto ai nuovi impianti, e Reddito Energetico (ISEE ≤15.000/30.000 €, impianti 2-6 kW, copertura 100%)
+- Esame ENERGETICA_INCENTIVI rigenerato (220→250 domande)
+- Totale repository: 54 pack, 764 schede, 55 esami

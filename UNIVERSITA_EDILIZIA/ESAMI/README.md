@@ -32,7 +32,7 @@ di apprendimento per settore.
 | DOMOTICA | ✅ 300 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
 | EDILIZIA_SCOLASTICA | ✅ 250 domande | chiavi: jsonl |
-| ENERGETICA_INCENTIVI | ✅ 220 domande | chiavi: jsonl |
+| ENERGETICA_INCENTIVI | ✅ 250 domande | chiavi: jsonl |
 | FACILITY_MANAGEMENT | ✅ 250 domande | chiavi: jsonl |
 | FISCO_IMPRESA_EDILE | ✅ 250 domande | chiavi: jsonl |
 | FORMULARIO_FISICA | ✅ 220 domande | chiavi: jsonl |
