@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-210 voci, 13 corsi.
+220 voci, 13 corsi.
 
 
 ## Acustica edilizia
@@ -193,7 +193,37 @@ L'UNI EN ISO 12354 è il metodo europeo di calcolo previsionale dell'acustica in
 
 ## Data center e critical facilities
 
-*Corso `DATA_CENTER_E_CRITICAL_FACILITIES_PACK` — 7 voci*
+*Corso `DATA_CENTER_E_CRITICAL_FACILITIES_PACK` — 12 voci*
+
+### I livelli di affidabilità Tier e la ridondanza N+1
+
+**Categoria:** Affidabilità · **Corso:** Data center e critical facilities
+
+Un data center non può spegnersi: il settore ragiona per livelli di disponibilità (Tier I-IV) che definiscono quante componenti in più (ridondanza) ci devono essere per garantire la continuità anche quando qualcosa si guasta o va in manutenzione.
+
+- **Tecnologia e criteri:** Tier I: componenti singole, fermi per manutenzione; Tier II: componenti ridondanti (N+1) ma percorsi unici; Tier III: ogni componente manutenibile senza fermare il servizio (concurrently maintainable), uplink multipli; Tier IV: fault tolerance, doppio alimentazione fino al server, qualsiasi guasto singolo non interrompe nulla. La ridondanza si applica a corrente (UPS, gruppi), raffreddamento e rete.
+- **Applicazioni:** SCELTA DEL LIVELLO per data center di cloud provider, sale server aziendali, centrali telefoniche, ospedali (reparti critici).
+- **Vantaggi:** Il Tier giusto evita di pagare il 300% per un'affidabilità che il business non richiede: un Tier II ben fatto basta al 90% delle PMI; la manutenzione programmata senza blackout è il vero valore del Tier III.
+- **Limiti e attenzioni:** Ogni salto di Tier raddoppia o triplica investimento e consumi; la ridondanza non si misura in sala macchine: il punto debole diventa il singolo cavo dimenticato; il Tier certificato costa l'audit.
+- **Costi ed economia:** Ordini di grandezza indicativi: il costo al kW IT sale da 5-8k€/kW per soluzioni semplici a 20-40k€/kW per Tier IV; il PUE (efficienza) premia i progettisti bravi: ogni 0,1 di PUE in meno su 1 MW è un risparmio annuo misurabile in centinaia di migliaia di euro.
+- **Caso tipico:** Una banca regionale ha scelto il Tier III per il data center di continuità operativa: quando un UPS è andato in manutenzione programmata, l'operatività non si è nemmeno accorta dello switch.
+- **Normativa:** Lo standard di riferimento del settore è ANSI/TIA-942 (telecomunicazioni - infrastrutture dei data center) con la serie EN 50600 europea; i livelli Tier sono definiti dall'Uptime Institute come classificazione di settore.
+- **Nota di cantiere:** La ridondanza va provata: gli esercizi di switch mensili (da UPS a bypass, da gruppo ad altro) mantengono i meccanismi 'vivi'; il peggior nemico è l'intervento umano non documentato: ogni passaggio di cavo toglie ridondanza finché non è ricollaudato.
+
+### Il cablaggio strutturato e la sala di rete: dorsali, ottica e gestione cavi
+
+**Categoria:** Cablaggio · **Corso:** Data center e critical facilities
+
+La rete è il sangue del data center: il cablaggio strutturato (dorsali in fibra ottica, cavi in rame Cat6A alle macchine) si progetta con gli standard internazionali, si posa con la certificazione di ogni singolo cavo e si gestisce con le mappe.
+
+- **Tecnologia e criteri:** Le dorsali in fibra monomodio OS2 tra le sale e i punti di distribuzione (ODF); i cavi di collegamento Cat6A schermato per il 10 GbE sul rame; le patch panel e le vie di corsa con riempimento massimo 40-50% (per l'aria e per l'aggiunta futura); le spine MPO/MTP per la fibra ad alta densità; la certificazione con certifier di ogni condotta Cat6A (lunghezza, attenuazione, diafonia).
+- **Applicazioni:** Ogni data center e sale di rete; le dorsali di edificio intelligente; i collegamenti delle postazioni di lavoro critiche.
+- **Vantaggi:** Una dorsale OS2 ben fatta dura 20 anni e supporta evoluzioni di velocità cambiando solo gli apparati attivi; la certificazione punto-punto evita i misteri del 'cavo che non va' in produzione; le vie di corsa con margine rendono gli interventi futuri rapidi senza spegnere nulla.
+- **Limiti e attenzioni:** Il rame Cat6A sopra i 55-70 m perde il 10G: le sale grandi richiedono punti di distribuzione intermedi; la fibra sporca nei connettori è la causa n.1 di reti instabili: serve la pulizia con scope e pennette; la documentazione che non segue i cambiamenti diventa disinformazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: cablaggio strutturato completo di una sala 500 m² 30-80 €/m²; la certificazione dei cavi inclusa nel contratto (3-8 €/punto di più per certificare); le spine MPO ad alta densità costano 5-10 volte una LC ma risparmiano spazio nei tray ottici.
+- **Caso tipico:** Un'azienda ha migrato 10 GbE su rame esistente Cat5e: le prestazioni crollavano a intermittenza. La ricablaggio in Cat6A con certificazione ha eliminato i problemi: i cavi vecchi 'funzionavano' solo a velocità ridotte e senza margini.
+- **Normativa:** Lo standard ANSI/TIA-568 per il cablaggio strutturato (con la serie ISO/IEC 11801 equivalente); la certificazione dei cavi secondo gli standard delle categorie; gli ambienti con la gestione delle vie di corsa secondo gli standard dei data center (TIA-942).
+- **Nota di cantiere:** Ogni cavo va etichettato a entrambe le estremità con la stessa matricola e registrato nella mappa; le curve minime della fibra (raggio 10x il diametro) vanno rispettate negli ODF; le scarpe antistatiche e i braccialetti ai polsi proteggono elettronica e cavi; la pulizia connette: 'prima di chiudere il connettore, guardalo con la scope'.
 
 ### La climatizzazione di precisione: freddo per i server
 
@@ -225,6 +255,21 @@ L'alimentazione del data center è a catena ridondata: due linee elettriche indi
 - **Normativa:** CEI 0-16 (connessione rete); specifiche TIA-942; normativa antincendio e ambientale per i generatori.
 - **Nota di cantiere:** Domanda cardine: 'quanto vale un minuto di fermo per questo servizio?' — la risposta definisce il Tier.
 
+### Continuità elettrica: UPS, gruppi elettrogeni e switch automatici
+
+**Categoria:** Continuità elettrica · **Corso:** Data center e critical facilities
+
+La corrente del data center arriva da due strade: la rete e il diesel. L'UPS (gruppo di continuità) copre i secondi dello switch, il gruppo elettrogeno copre le ore del blackout, l'ATS (commutatore automatico) sceglie la strada in millisecondi.
+
+- **Tecnologia e criteri:** L'UPS a doppia conversione online purifica e ricrea la corrente: zero microinterruzioni; le batterie (VRLA o litio) coprono 5-15 minuti, il tempo di avvio del gruppo; il gruppo elettrogeno con quadro di parallelo e serbatoio autonomo per 8-72 ore; l'ATS statico o commutato trasferisce i carichi; l'harmonic filtering protegge le utenze elettroniche.
+- **Applicazioni:** Ogni data center, sale ospedaliere critiche, centrali di videosorveglianza, impianti di produzione continua.
+- **Vantaggi:** L'online double conversion isola i server da ogni disturbo di rete: microtagli, sbalzi, armoniche; il litio dimezza ingombro e peso delle batterie e dura il doppio; i test automatici mensili mantengono il gruppo pronto.
+- **Limiti e attenzioni:** Le batterie VRLA durano 3-5 anni e vanno sostituite a scaglioni: è la manutenzione più ricorrente; i gruppi diesel sono rumorosi e vanno in locali attrezzati con scarico e alimentazione aria; il punto debole tipico è l'ATS mai provato in carico.
+- **Costi ed economia:** Ordini di grandezza indicativi: UPS 100 kVA 20-40k€; gruppo elettrogeno 500 kVA 40-80k€; la sostituzione batterie di un sistema 100 kVA 5-10k€ ogni 4-5 anni.
+- **Caso tipico:** Durante un blackout di rete di 6 ore, un data center ha mantenuto i servizi con i gruppi in rotazione (due da 800 kVA a 75% di carico): il serbatoio esterno garantiva 48 ore e il contratto con il fornitore di gasolio prevedeva rifornimento d'emergenza in 4 ore.
+- **Normativa:** Gli impianti elettrici seguono la Norma CEI 64-8 con le prescrizioni per le utenze particolari; le emissioni e l'installazione dei gruppi seguono le prescrizioni ambientali e antincendio locali; la sicurezza delle batterie segue le schede dei produttori con la gestione come rifiuti pericolosi a fine vita.
+- **Nota di cantiere:** Le prove in carico reali (bypass test) vanno documentate: un ATS mai provato è un'ipotesi; le batterie vanno monitorate cella per cella: una cella morta su 40 uccide tutta la stringa nel momento del bisogno; il locale batterie va ventilato e temperato (ogni 10 °C in più dimezza la vita delle VRLA).
+
 ### L'edge computing: il data center piccolo e ovunque
 
 **Categoria:** Edge e micro · **Corso:** Data center e critical facilities
@@ -255,6 +300,21 @@ Il data center è l'edificio della continuità: ospita i server che tengono in f
 - **Normativa:** TIA-942 (standard progettazione); standard Uptime Tier; EN 50600 (serie europea); normativa antincendio specifica.
 - **Nota di cantiere:** La prima legge del data center: il costo di NON funzionare supera qualsiasi costo di costruzione — si progetta per non fermarsi mai.
 
+### Il raffreddamento del data center: corridoio freddo, corridoio caldo e free cooling
+
+**Categoria:** Raffreddamento · **Corso:** Data center e critical facilities
+
+Il 40% dell'energia di un data center va nel raffreddamento: organizzare i flussi d'aria (corridoio freddo chiuso davanti ai server, caldo dietro) è l'intervento che più riduce i consumi prima ancora di comprare macchine migliori. L'efficienza si misura con il PUE.
+
+- **Tecnologia e criteri:** La separazione dei flussi con containment (tendaggi o pareti trasparenti) evita il mescolamento aria calda/fredda; il free cooling porta aria esterna diretta o indiretta nelle mezze stagioni e di notte; l'acqua refrigerata con chillers ad alta temperatura di mandata (18-20 °C) elimina la deumidificazione; il liquid cooling (direct-to-chip) sta arrivando per i carichi AI estremi; il PUE = energia totale / energia IT (1,2-1,4 è ottimo, 1,8+ da rinnovare).
+- **Applicazioni:** Data center nuovi e riqualificati, sale server di grandi aziende, edge computing in container.
+- **Vantaggi:** Il containment da solo riduce il consumo di ventilazione del 20-30%; il free cooling nelle zone fredde italiane copre 4-6 mesi l'anno; alzare la temperatura di mandata da 12 a 18 °C taglia il 30-40% del costo frigorifero senza rischi per l'hardware moderno.
+- **Limiti e attenzioni:** Le macchine legacy vogliono temperature basse: la transizione va fatta a gradini; l'acqua refrigerata richiede impianti idraulici e torri gestite; il direct liquid cooling richiede hardware compatibile e competenze nuove.
+- **Costi ed economia:** Ordini di grandezza indicativi: contenment su corridoio 5-15k€ per corridoio; il rifacimento di un impianto di raffreddamento su 500 kW IT 100-300k€; i sistemi di monitoraggio dei flussi (sensori wireless) 1-3k€ per sala.
+- **Caso tipico:** Un data center italiano con PUE 1,65 è sceso a 1,28 in un anno: contenment dei corridoi, alzamento della mandata a 17 °C e free cooling economizzatore con le porte esterne filtrate: risparmio annuo stimato sui 200 MWh.
+- **Normativa:** La progettazione segue la serie EN 50600 e la ANSI/TIA-942 per l'infrastruttura; l'efficienza energetica e l'energia ricavata da fonti rinnovabili rientrano negli obblighi di rendicontazione ambientale delle grandi aziende (D.Lgs 254/2016 per la rendicontazione non finanziaria).
+- **Nota di cantiere:** La prima misura da fare è la termografia in esercizio: i punti caldi si vedono subito; mai sotto/sopra i rack con passacavi non sigillati: la 'cappa calda' sale e ricircola; i sensori di temperatura a ogni rack con allarme 27 °C d'ingresso sono il termometro dello stato di salute.
+
 ### Le reti e il cablaggio strutturato: le autostrade dei dati
 
 **Categoria:** Reti · **Corso:** Data center e critical facilities
@@ -284,6 +344,21 @@ La sicurezza del data center è a cipolle: fisica (cancelli, guardie, varchi con
 - **Caso tipico:** Tentativo di accesso non autorizzato a un rack in un data center: il badge non autorizzato ha allertato, la telecamera ha registrato, l'accesso è stato negato e tracciato: il cliente ha rinnovato il contratto per la sicurezza documentata.
 - **Normativa:** Normativa antincendio (D.M. 2015 con prescrizioni specifiche); GDPR per i dati di accesso; specifiche settore.
 - **Nota di cantiere:** La domanda: 'chi può toccare questo rack e chi lo sa?' — la tracciabilità è la metà della sicurezza.
+
+### La soppressione incendio nei data center: gas puliti e pre-action
+
+**Categoria:** Soppressione incendi · **Corso:** Data center e critical facilities
+
+L'acqua e i server non vanno d'accordo: i data center usano impianti a gas (FM-200, Novec/fluorochetomi o inerte) che spengono senza bagnare, oppure spruzzatori pre-action che intervengano solo quando serve davvero, minimizzando i danni accidentali.
+
+- **Tecnologia e criteri:** I gas puliti (idrofluorochetomi o miscele inerti CO2/N2/Ar) riducono l'ossigeno o interrompono la combustione in 10-30 secondi senza residui; gli impianti a spruzzatura pre-action hanno i tubi carichi d'aria compressa e si riempiono d'acqua solo dopo la conferma del rilevatore: un tubo rotto non inonda la sala; il rilevamento doppio (fumo + calore) riduce i falsi allarmi; il fire damper sui condotti di ventilazione isola la zona.
+- **Applicazioni:** Sale server, sale di rete, archivi magnetici, locali UPS e batterie (qui servono sistemi dedicati per il rischio diverso).
+- **Vantaggi:** I gas non lasciano residui: il server si riavvia dopo la ventilazione; il pre-action elimina il rischio dei tubi pieni d'acqua sopra i rack; l'intervento in 10 secondi limita il danno termico.
+- **Limiti e attenzioni:** I gas fluorurati sono sotto i divieti F-gas progressivi (UE 2024/573): il settore si sta muovendo verso gli inerti e il pre-action; le miscele inerti richiedono locali tenuti (l'apertura delle porte durante lo scarico li scarica); il pre-action richiede la manutenzione dei compressori d'aria dei tubi.
+- **Costi ed economia:** Ordini di grandezza indicativi: impianto a gas per una sala 300-500 m² 20-50k€; il pre-action costa simile al tradizionale ma con componenti aggiuntive (compressore, valvole pre-action) 30-40% in più; la manutenzione semestrale delle valvole e dei rilevatori è ricorrente.
+- **Caso tipico:** Un falso allarme in una sala senza pre-action ha allagato 30 rack: dopo la transizione al pre-action doppio interbloccato, un successivo incidente con tubo danneggiato è rimasto senza conseguenze perché i tubi erano a secco fino alla conferma doppia.
+- **Normativa:** Il rilevamento e la soppressione secondo le prescrizioni antincendio applicabili e le regole dell'installatore autorizzato; i gas fluorurati seguono il Regolamento (UE) 2024/573 con i suoi divieti progressivi; gli spruzzatori automatici seguono le norme di prodotto e installazione UNI EN 12845 (impianti a pioggia fissa) con la variante pre-action.
+- **Nota di cantiere:** La sequenza conta: rilevamento doppio, avviso sonoro, ritardo di evacuazione (30-60 s), scarico: va collaudata integralmente; le estintori portatili restano comunque obbligatori; il locale batterie ha rischio d'incendio diverso: valutare sistemi dedicati (acqua nebulizzata o agenti specifici).
 
 ### L'edilizia del data center: struttura, pavimenti rialzati, altezze
 
@@ -2563,7 +2638,7 @@ Come assorbire la dilatazione dell'acqua calda: dimensionamento e manutenzione.
 
 ## Piscine e centri wellness
 
-*Corso `PISCINE_E_WELLNESS_PACK` — 7 voci*
+*Corso `PISCINE_E_WELLNESS_PACK` — 12 voci*
 
 ### Saune e bagni di vapore: il calore terapeutico
 
@@ -2655,6 +2730,66 @@ L'acqua della piscina si scalda con scambiatori (caldaia, pompa di calore, solar
 - **Normativa:** Normativa sui refrigeranti (pompe di calore); specifiche produttori.
 - **Nota di cantiere:** La gerarchia: prima la copertura, poi il riscaldamento: mai riscaldare senza coprire.
 
+### Il riscaldamento della piscina: pompe di calore, scambiatori e coperture
+
+**Categoria:** Riscaldamento · **Corso:** Piscine e centri wellness
+
+Riscaldare una piscina significa lottare contro l'evaporazione: ogni kg di acqua che evapora porta via oltre mezzo chilowattora. Il coperto è il primo 'riscaldatore': poi vengono la pompa di calore e lo scambiatore.
+
+- **Tecnologia e criteri:** La pompa di calore aria-acqua per piscine ruba calore all'aria anche a temperature basse (rende fin sotto i 10 °C esterni); lo scambiatore a piastre usa la caldaia o l'accumulo ACS; il solare termico con pannelli a bassa temperatura integra; la copertura (a doghe, isotermica, ad avvolgimento) taglia l'evaporazione del 70-90% di notte.
+- **Applicazioni:** Piscine private riscaldate tutto l'anno, piscine condominiali in mezza stagione, centri benessere con vasche a temperatura diversa.
+- **Vantaggi:** La copertura isotermica di notte vale quanto un riscaldatore: i consumi si dimezzano; la pompa di calore rende 4-6 volte l'elettricità consumata; il solare termico copre il 40-60% del fabbisogno stagionale.
+- **Limiti e attenzioni:** Senza copertura il riscaldatore lavora per l'evaporazione: bolletta doppia; le pompe di calore rumorose vanno posizionate lontano dalle camere; il riscaldamento a 30 °C aumenta la richiesta di disinfezione (l'acqua calda è più viva per i microbi).
+- **Costi ed economia:** Ordini di grandezza indicativi: pompa di calore piscina 8-15 kW 2.500-6.000 € installata; copertura isotermica avvolgibile 80-200 €/m² di superficie; scambiatore a piastre 300-800 €.
+- **Caso tipico:** Un hotel con piscina scoperta riscaldata ha ridotto del 40% il costo stagionale installando la copertura ad avvolgimento motorizzato e abbassando la temperatura di notte a 24 °C: nessun ospite se n'è accorto, la bolletta sì.
+- **Normativa:** Gli scambiatori e le macchine seguono le direttive di prodotto (PED per i componenti a pressione, marcatura CE); le pompe di calore per piscine seguono l'ecodesign europeo; il collegamento idraulico alla rete segue le regole della UNI EN 1717 per la protezione del fluido di rete.
+- **Nota di cantiere:** Il vaso di espansione della piscina è il 'polmone' del giro idraulico: dimensionarlo sul volume totale e sul gradiente termico; le valvole di non ritorno aiutano ma il troppo pieno e lo scarico di fondo vanno sempre previsti; la temperatura dell'acqua nei bambini piccoli (max 30-32 °C) guida la taratura.
+
+### La sicurezza in piscina: annegamento, scivoli e accessibilità
+
+**Categoria:** Sicurezza · **Corso:** Piscine e centri wellness
+
+L'annegamento è tra le prime cause di morte accidentale infantile: la sicurezza della piscina si progetta con la vasca e si mantiene con le regole d'uso. Recinzioni, allarmi, scalette e illuminazione fanno la differenza tra il divertimento e il dramma.
+
+- **Tecnologia e criteri:** Le protezioni: recinzione perimetrale con cancelli autochiudenti (barriera fisica per i bambini sotto i 5 anni), coperture di sicurezza ad alta resistenza che reggono il peso di una persona, allarmi di immersione e radar perimetrali; gli ausili: scalette con corrimano, pontili di appoggio, docce di emergenza; le vascine dei bambini separate con profondità graduale.
+- **Applicazioni:** Piscine private con bambini, piscine condominiali, piscine pubbliche con bagnino di sorveglianza.
+- **Vantaggi:** La copertura di sicurezza isola completamente la vasca quando non è sorvegliata; la recinzione impedisce l'accesso non autorizzato senza togliere l'estetica del giardino; gli allarmi avvisano prima che l'incidente diventi annegamento.
+- **Limiti e attenzioni:** Nessun dispositivo sostituisce la sorveglianza attiva: il bambino si annega in silenzio in 2-3 minuti; le coperture di sicurezza richiedono la manutenzione dei cinghianti; i radar d'allarme possono dare falsi allarmi con pioggia e animali.
+- **Costi ed economia:** Ordini di grandezza indicativi: copertura di sicurezza avvolgibile 150-400 €/m²; recinzione vasca 100-250 €/ml; allarme perimetrale 200-600 €.
+- **Caso tipico:** La normativa di alcune regioni e Comuni richiede la delibera condominiale con prescrizioni di sicurezza per l'uso comune: una piscina condominiale ha adottato il regolamento d'uso con turni e presenza del bagnino nei weekend.
+- **Normativa:** Le piscine aperte al pubblico seguono le norme regionali di igiene e sicurezza con il regolamento di esercizio; i requisiti di accessibilità per disabili seguono le regole del superamento delle barriere architettoniche; le coperture di sicurezza con marcatura secondo le norme di prodotto applicabili.
+- **Nota di cantiere:** La regola che salva: mai lasciare il bambino da solo 'nemmeno per un attimo' nemmeno con il salvagente; la scalinatura d'ingresso non sostituisce la scaletta di emergenza; la luce subacquea e l'illuminazione perimetrale dell'area permettono il soccorso di sera.
+
+### Le tipologie di piscina: skimmer, a sfioro, interrate e sopraelevate
+
+**Categoria:** Tipologie · **Corso:** Piscine e centri wellness
+
+La tecnologia costruttiva della vasca decide l'estetica dell'acqua e la complessità dell'impianto: la skimmer è la regina economica della casa, lo sfioro il lusso dell'hotel. Ogni tipo ha il suo circuito idraulico dedicato.
+
+- **Tecnologia e criteri:** Skimmer: bocchette di superficie raccolgono l'acqua e la mandano al filtro; a sfioro: la vasca trabocca in un canale perimetrale con cassone di compenso che livella l'acqua a specchio; interrata in cls gettato in opera, prefabbricata in vetroresina o acciaio; sopraelevata/pannello solo per usi temporanei o sopra solai verificati.
+- **Applicazioni:** Ville private (skimmer o sfioro), hotel e centri benessere (sfioro), piscine pubbliche (interrate in opera), piscine stagionali.
+- **Vantaggi:** La skimmer costa meno e si mantiene facilmente; lo sfioro dà l'acqua a specchio che pulisce anche la superficie continuamente; il cls in opera permette qualsiasi forma e rifinitura (mosaico, liner, piastrella).
+- **Limiti e attenzioni:** Lo sfioro costa il 30-50% in più tra cassone e regolazione; la prefabbricata in vetroresina ha forme fisse e spedizione critica; la sopraelevata sul solaio richiede la verifica del carico: l'acqua pesa 1.000 kg/m³.
+- **Costi ed economia:** Ordini di grandezza indicativi: skimmer interrata 8x4 m chiavi in mano 25.000-45.000 €; sfioro stessa dimensione 45.000-80.000 €; prefabbricata vetroresina 15.000-30.000 € installata.
+- **Caso tipico:** Un agriturismo ha scelto lo sfioro con cascata sulla campagna: il cassone di compenso è diventato anche vasca idromassaggio riscaldata: due funzioni dal medesimo circuito, con il lusso dello specchio d'acqua come immagine di marca.
+- **Normativa:** Le piscine private seguono le regole costruttive e le schede dei produttori; le piscine aperte al pubblico seguono la normativa regionale di igiene e la UNI 10637 (qualità dell'acqua delle piscine per uso umano).
+- **Nota di cantiere:** La decisione skimmer/sfioro si prende PRIEMA del progetto idraulico: cambiare idea a cantiere avviato costa il rifacimento dei collettori; nella skimmer il posizionamento dei boccheti rispetto al verso dominante del vento fa la differenza sulla pulizia della superficie.
+
+### L'impianto di trattamento dell'acqua della piscina: filtrazione, disinfezione, bilancio idrico
+
+**Categoria:** Trattamento acque · **Corso:** Piscine e centri wellness
+
+L'acqua della piscina è un circuito chiuso che va filtrato, disinfezionato e bilanciato continuamente: la qualità dell'acqua si misura con pochi parametri (cloro libero, pH, torbidità) che devono stare in fascia giorno dopo giorno.
+
+- **Tecnologia e criteri:** Il giro idraulico: superficie (skimmer/sfioro) e fondo (aspirafango) raccolgono l'acqua verso la pompa, il filtro (a sabbia quarzosa o a cartuccia) trattiene le particelle, la disinfezione (cloro, sale elettrolisi, UV, ozono) disattiva i microbi, il riscaldamento (scambiatore, pompa di calore, solare) regola la temperatura; il bilancio chimico: pH 7,2-7,6, cloro libero 1-3 mg/l per le private, la clorazione breakpoint contro i clorammici.
+- **Applicazioni:** Piscine private e condominiali, piscine pubbliche, centri benessere, piscine terapeutiche.
+- **Vantaggi:** Il filtro a sabbia con controrlavaggio dura decenni e gestisce grandi portate; la clorazione con sale elimina la gestione del cloro liquido e l'odore; il controllo automatico di pH e cloro mantiene l'acqua stabile con interventi mensili.
+- **Limiti e attenzioni:** La filtrazione non toglie i problemi chimici: un pH fuori fascia inibisce il cloro; la clorammica (cloro legato ai residui organici) brucia gli occhi anche con cloro alto; il bagno assiduo porta il saleschiuma: serve lo scarico parziale periodico.
+- **Costi ed economia:** Ordini di grandezza indicativi: locale tecnico completo per piscina privata 4.000-10.000 €; il controllo automatico pH/cloro 800-2.500 €; la manutenzione ordinaria da gestore 100-250 €/mese.
+- **Caso tipico:** Un condominio con piscina 'agli occhi rossi dei bagnanti' ha risolto non aumentando il cloro ma abbassando il pH e facendo la breakpoint: l'odore scomparso e la torbidità sono sparite in 48 ore.
+- **Normativa:** La qualità dell'acqua secondo UNI 10637 per le piscine; le piscine pubbliche seguono le norme regionali di igiene con controlli analitici periodici; i requisiti di sicurezza dei locali tecnici e delle vascine di compenso secondo la normativa antincendio e della sicurezza dei luoghi di lavoro.
+- **Nota di cantiere:** Il locale tecnico va areato e drenato: le pompe non devono mai lavorare in secco; i prodotti chimici si conservano separati e in locali ventilati; il manometro del filtro racconta la verità: quando sale di pressione, è ora di controrlavare.
+
 ### La vasca da costruzione: struttura, tenuta, forma
 
 **Categoria:** Vasche · **Corso:** Piscine e centri wellness
@@ -2669,6 +2804,21 @@ La piscina da costruzione è un serbatoio in calcestruzzo armato impermeabilizza
 - **Caso tipico:** Piscina con guaina PVC sotto il mosaico e getto curato (curing prolungato): dopo 12 anni, zero perdite e zero infiltrazioni strutturali; la vasca gemella senza guaina ha rifatto l'impermeabilizzazione a 6 anni per alzature e infiltrazioni.
 - **Normativa:** Prescrizioni igienico-sanitarie regionali per piscine (acque di balneazione artificiali); normativa di prodotto per materiali e strutture (cls UNI EN 206, acciai UNI EN 10080, rivestimenti con marcatura CE); buona pratica progettuale e specifiche d'appalto.
 - **Nota di cantiere:** La prima legge della piscina: l'acqua è pesante (1.000 kg/m³) e sempre in movimento — la struttura e la tenuta devono rispettarla sempre.
+
+### Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax
+
+**Categoria:** Wellness · **Corso:** Piscine e centri wellness
+
+Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifiche.
+
+- **Tecnologia e criteri:** L'idromassaggio: getti d'aria (blowers) o d'acqua (pompe) con idrogetti orientabili; la minipiscina con pannelli e sedute; la sauna: stufa elettrica o a legna con pietre, rivestimento in legno resinoso (abetine), ventilazione forzata o naturale; il bagno turco: generatore di vapore in locale coibentato con rivestimento impermeabile; il percorso Kneipp: vasche alternate calde e fredde.
+- **Applicazioni:** Bagni padronali, suites di hotel, centri benessere, spa condominiali, palestre.
+- **Vantaggi:** La minipiscina idromassaggio riscaldata si usa tutto l'anno in 5-6 m²; la sauna secca ha manutenzione minima e durata decennale; il bagno turco idrata e rilassa con consumi contenuti.
+- **Limiti e attenzioni:** L'idromassaggio richiede la qualità dell'acqua da piscina in miniatura: filtro e disinfezione dedicati; la sauna in appartamento richiede il locale dedicato con isolamento e ventilazione; vapore e legno non amano l'umidità: i locali devono asciugare rapidamente.
+- **Costi ed economia:** Ordini di grandezza indicativi: minipiscina idromassaggio da esterno 4.000-12.000 €; sauna finlandese 2 posti 3.000-8.000 € installata; bagno turco 3.000-10.000 € a seconda dei rivestimenti.
+- **Caso tipico:** Una suite di hotel con bagno turco privato ha richiesto la deumidificazione dedicata del locale: senza, il marmo e le porte della camera si degradavano in una stagione.
+- **Normativa:** Gli apparecchi elettrici seguono la marcatura CE e le norme di prodotto; i locali umidi seguono i requisiti elettrici dei volumi (Norma CEI 64-8) con protezioni differenziali 30 mA; le saune seguono le prescrizioni dei produttori e le regole della buona costruzione.
+- **Nota di cantiere:** La sauna va posata su pavimento lavabile con scarico; il bagno turco vuole il soffitto inclinato per far scivolare il condensa verso le pareti; i getti idromassaggio in vasca di ceramica richiedono la struttura rinforzata: il getto è una spinta continua sul rivestimento.
 
 
 ## Robotica delle costruzioni

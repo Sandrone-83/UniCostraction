@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-733 voci enciclopediche tratte da 43 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+771 voci enciclopediche tratte da 44 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -191,6 +191,8 @@
   Come si compone un progetto: asse, simmetria, gerarchia, contrasto, scala.
 - **Computer vision e AI per la sicurezza di cantiere** — AI vision · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Telecamere intelligenti che rilevano DPI mancanti, zone pericolo e vicinanza a mezzi.
+- **Condensa e muffa negli edifici esistenti: diagnosi e cure** — Muffa · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  La muffa nei punti freddi del muro è quasi sempre condensa: l'aria umida degli ambienti tocca la superficie sotto la temperatura di rugiada e l'acqua compare dal nulla. Capire se il fenomeno è superficiale (ponte termico…
 - **Conglomerato bituminoso** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Miscela di bitume e aggregati per manti stradali: flessibile, veloce, riparabile.
 - **Connettore a strappo / ancoraggio pesante** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -199,6 +201,8 @@
   Lamiere piegate (angolari, staffe, mensole a T, connettori a coda di rondine, piastre) che collegano elementi di carpenteria in legno: giunzione strutturale certificata.
 - **Contabilizzazione diretta e indiretta del calore** — Contabilizzazione · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Misurare il calore consumato da ogni unità immobiliare: obbligatoria nei condomini centralizzati.
+- **Continuità elettrica: UPS, gruppi elettrogeni e switch automatici** — Continuità elettrica · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
+  La corrente del data center arriva da due strade: la rete e il diesel. L'UPS (gruppo di continuità) copre i secondi dello switch, il gruppo elettrogeno copre le ore del blackout, l'ATS (commutatore automatico) sceglie la…
 - **Conto Termico 3.0, CEE e detrazioni per impianti** — Incentivi · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Gli incentivi 2025+ per la riqualificazione energetica e gli impianti efficienti.
 - **Conto Termico 3.0: accesso diretto, prenotazione, pratica** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -427,12 +431,18 @@
   Il cuore della distribuzione moderna: il collettore e i vantaggi del pettine.
 - **I componenti elettrici dell'impiantista: quadri, magnetotermici, differenziali** — Componenti elettrici · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   L'hardware elettrico che ogni impiantista tocca ogni giorno.
+- **I consolidamenti strutturali: cerchiature, FRP e iniezioni** — Consolidamento · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Quando il muro non regge più (fessurazioni, terremoto, sovraccarichi) si può rinforzare senza demolire: le tecniche moderne aggiungono resistenza con interventi minimi e reversibili dove possibile.
 - **I flussi ospedalieri: puliti, sporchi, pubblici e sanitari** — Flussi · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   L'ospedale vive di flussi separati: il paziente (pubblico → sanitario), il personale (cambio → reparto), le merci (consegna → magazzino → reparto), i rifiuti (reparto → smaltimento), i defunti (reparto → obitorio → uscit…
 - **I gas medicali: ossigeno, vuoto, aria medicale** — Gas medicali · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   I gas medicali sono l'impianto vitale dell'ospedale: l'ossigeno (i pazienti in terapia intensiva), l'aria medicale (la respirazione assistita), il vuoto (le aspirazioni chirurgiche), l'anidride carbonica (la chirurgia la…
+- **I gas medicinali: ossigeno, aria medicale, aspirazione** — Impianti · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
+  I gas medicinali sono farmaci che viaggiano in tubi: ossigeno, aria medicale, protossido di azoto e vuoto chirurgico arrivano ai letti e alle sale da centrali dedicate con reti separate, monitorate e certificate. Un erro…
 - **I gruppi di pressurizzazione e le autoclavi** — Idraulica — pressurizzazione · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Quando la pressione di rete non basta ad alimentare un edificio (altezze elevate, utenze contemporanee, giardini, sprinkler), entra in gioco il gruppo di pressurizzazione: pompa più autoclave che mantiene la pressione de…
+- **I livelli di affidabilità Tier e la ridondanza N+1** — Affidabilità · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
+  Un data center non può spegnersi: il settore ragiona per livelli di disponibilità (Tier I-IV) che definiscono quante componenti in più (ridondanza) ci devono essere per garantire la continuità anche quando qualcosa si gu…
 - **I manti di copertura: tegole, lastre metalliche, membrane** — Manti · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   La scelta del manto coprente definisce vita e aspetto: tegole in laterizio (marsigliesi, portoghesi, coppi: durano 50+ anni, pesanti ~40-50 kg/m²), lastre metalliche (alluminio, zinco-titanio, acciaio: leggere, per pende…
 - **I materiali a cambio di fase (PCM): il calore nel cassetto** — PCM · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
@@ -503,6 +513,8 @@
   828 m, 163 piani utilizzabili: il limite attuale dell'edificio alto.
 - **Il cablaggio DC e AC del fotovoltaico: sezioni e protezioni** — FV cablaggi · corso: *Dimensionamento di fotovoltaico, eolico e accumulo* (`DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK`)
   I cavi del FV: dimensionamento rapido e le protezioni obbligatorie.
+- **Il cablaggio strutturato e la sala di rete: dorsali, ottica e gestione cavi** — Cablaggio · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
+  La rete è il sangue del data center: il cablaggio strutturato (dorsali in fibra ottica, cavi in rame Cat6A alle macchine) si progetta con gli standard internazionali, si posa con la certificazione di ogni singolo cavo e …
 - **Il calcestruzzo armato: teoria e dimensionamento** — Calcestruzzo armato · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il materiale del 90% delle strutture italiane: come funziona e come si calcola.
 - **Il calcolo a mano: travi, pilastri, solai in 30 minuti** — Calcolo manuale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -517,6 +529,8 @@
   Le formule di base dell'ingegneria sismica: quanto trema l'edificio.
 - **Il cantiere del legno: montaggio, sequenze, precisione** — Costruzione · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano prefabbricati (tagliati, forati, numerati), la gru li posa, le squadre avvitano le connessioni; il tempo si dimezza, il cantiere resta pulit…
+- **Il cantiere di risanamento e i rifiuti: classificazione, formulari e costi reali** — Rifiuti · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Ogni cantiere di risanamento produce tonnellate di rifiuti: mattoni, intonaci, coperture, e talvolta rifiuti speciali (amianto, piombo, idrocarburi). La gestione corretta è un obbligo di legge con formulari di identifica…
 - **Il capitolato di interior: documento contrattuale** — Capitolato interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Il capitolato (o schedule of finishes) dell'interior elenca per ogni ambiente: materiali, prodotti con marca/modello o equivalente, colori con codice, modalità di posa, standard di qualità, esclusioni; è la difesa di ent…
 - **Il capitolato speciale d'appalto: il contratto tecnico** — Strumenti contrattuali · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
@@ -597,6 +611,8 @@
   Stimare la bolletta prima di progettare: le formule del conto termico quotidiano.
 - **Il fotovoltaico in formule: produzione, inclinazione, ombreggiamento** — Fotovoltaico formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Quanta energia produce un pannello: le formule della resa solare.
+- **Il fotovoltaico sul tetto: compatibilità strutturale, tenuta e orientamento** — Fotovoltaico su coperture · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
+  Il tetto è la sede naturale del fotovoltaico ma l'impianto aggiunge carichi, forature e ombreggiamenti: la compatibilità va valutata prima sul tetto vero (età, struttura, orientamento, ombre) e poi sul pannello.
 - **Il geometra/perito moderno: la professione ai tempi dell'AI** — Professione · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il ruolo del geometra nella filiera edilizia: cosa può fare, cosa deve sapere, come evolve.
 - **Il governo del territorio: principi costituzionali** — Principi · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -621,6 +637,8 @@
   Come si confronta l'azione con la resistenza: la regola del gioco del progetto moderno.
 - **Il miglioramento dei terreni: precompressione, colonne di ghiaia, jet grouting** — Miglioramento dei terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   Quando il terreno è debole ma il carico deve restare, si migliora il terreno invece di sfondarlo: precompressione con riempimenti temporanei, colonne di ghiaia, vibroflottazione, jet grouting, iniezioni e consolidamenti …
+- **Il miglioramento sismico dell'esistente: rafforzare localmente o adeguare** — Sisma · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Dopo un terremoto (o per prevenzione) gli edifici esistenti possono essere migliorati: il rafforzamento locale elimina le fragilità peggiori, l'adeguamento porta l'edificio ai livelli delle nuove costruzioni. Il percorso…
 - **Il Millau Viaduct (2004): il ponte più alto d'Europa** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il viadotto strallato della A75 in Francia: 343 m di altezza massima (più alto della Torre Eiffel).
 - **Il monitoraggio delle opere speciali: sensori e ispezioni** — Monitoraggio · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -651,22 +669,36 @@
   La struttura che attraversa: il sistema completo impalcato-appoggio-fondazione.
 - **Il property management: gestire patrimoni locativi** — Property management · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Il property management professionale gestisce immobili di terzi: locazione (cercare inquilini, contratti, incassi), manutenzione (tecnici di fiducia, pronto intervento), contabilità (cedolare, registrazioni), amministraz…
+- **Il raffreddamento del data center: corridoio freddo, corridoio caldo e free cooling** — Raffreddamento · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
+  Il 40% dell'energia di un data center va nel raffreddamento: organizzare i flussi d'aria (corridoio freddo chiuso davanti ai server, caldo dietro) è l'intervento che più riduce i consumi prima ancora di comprare macchine…
 - **Il rilievo con laser scanner e fotogrammetria** — Rilievo laser scanner · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Il rilievo moderno dell'esistente: scanner laser terrestre (LiDAR) che misura milioni di punti (nuvola di punti) o fotogrammetria da drone/foto, restituiti in piante, sezioni e modelli 3D con precisione millimetrica.
 - **Il rilievo topografico: da terreno a disegno** — Rilievi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si esegue un rilievo completo: poligonale, battute, elaborazione.
+- **Il risanamento con metodi tradizionali: calce, cocciopesto e sabbia** — Metodi · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  I materiali tradizionali ritornano nei risanamenti di qualità: la calce, il cocciopesto e le sabbie selezionate risolvono l'umidità lavorando *con* la muratura storica invece di sigillarla. La tecnica antica è spesso la …
+- **Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura** — Recupero estetico · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  La facciata è la pelle dell'edificio: intonaci degradata da umidità, sale e smog si risanano con il rispetto della compatibilità dei materiali. La regola del restauro: il nuovo intonaco deve 'comportarsi' come quello sto…
 - **Il riscaldamento della piscina: estendere la stagione** — Riscaldamento · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   L'acqua della piscina si scalda con scambiatori (caldaia, pompa di calore, solare), la copertura mantiene il calore (l'evaporazione è la prima perdita: la coperta riduce il 70% delle dispersioni), la stagione si estende …
+- **Il riscaldamento della piscina: pompe di calore, scambiatori e coperture** — Riscaldamento · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
+  Riscaldare una piscina significa lottare contro l'evaporazione: ogni kg di acqua che evapora porta via oltre mezzo chilowattora. Il coperto è il primo 'riscaldatore': poi vengono la pompa di calore e lo scambiatore.
 - **Il rumore degli impianti: caldaie, VMC, pompe e condizionatori** — Impianti · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Gli impianti meccanici sono la prima causa di lamentele acustiche negli edifici moderni: caldaie a condensazione, unità esterne di climatizzazione, VMC, pompe di calore producono rumore di regimi che si trasmette per via…
 - **Il rumore di calpestio: massetti galleggianti e pavimenti** — Calpestio · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Il rumore di calpestio è la struttura-borne sound generata dai passi: si attutisce con massetti galleggianti (strato elastico sotto il massetto), tappeti flottanti e giunti perimetrali; il DPCM richiede L'nT,w ≤ 58 dB tr…
 - **Il rumore esterno: facciate, serramenti e barriere** — Esterno · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   La protezione dal rumore esterno si ottiene con la facciata (muratura, serramento, vetro, cassonetto, angoli ciechi) progettata sul rumore della classe acustica dell'area; le barriere stradali attenuano la propagazione i…
+- **Il sottotetto ventilato: la regola d'oro del tetto in legno** — Coperture inclinate · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
+  Un tetto in legno dura un secolo se l'aria circola sotto la copertura: la ventilazione del sottotetto elimina il vapore che sale dagli ambienti e lo scarica prima che condensi sulle falde. La stratigrafia corretta è il s…
 - **Il telaio in legno: travi, pilastri e la costruzione tradizionale** — Telaio · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il telaio in legno (platform framing, balloon) è il sistema a intelaiatura: telai di travi e montanti riempiti di pannelli (OSB, fibra, laterizio leggero); è il sistema più diffuso al mondo (USA, Scandinavia) e il più ec…
 - **Il termocamino: il focolare che diventa generatore idraulico** — Termocamini · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino che scalda l'acqua: potenza 15-25 kW con accumulo obbligatorio.
+- **Il tetto sotto la neve: carichi, valanghe e guardie** — Sicurezza inverno · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
+  La neve è il carico accidentale più severo per il tetto di montagna: il crollo sotto il carico nevoso è una delle cause principali di dissesto invernale. La stima del carico, la forma del tetto e le disposizioni di sicur…
+- **Il tetto verde: giardino pensile, fiorito o estensivo** — Coperture verdi · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
+  La copertura vegetale trasforma il tetto piano in un giardino: isola, trattene l'acqua piovana, abbassa la temperatura estiva dell'edificio e allunga la vita della guaina. Richiede però una progettazione seria del peso e…
 - **Il trattamento dell'acqua potabile: addolcitori, filtri e separazione dei fluidi** — Idraulica — trattamento acque · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   L'acqua di rete, pur potabile, contiene durezza, sedimenti e, nei sistemi, può mescolarsi con fluidi non potabili. Il trattamento protegge le apparecchiature (caldaie, pompe di calore, scambiatori) e garantisce la salubr…
 - **Il vaso di espansione: il componente che salva l'impianto** — Vasi espansione · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
@@ -737,6 +769,8 @@
   Negli ambienti di lavoro l'obiettivo non è il silenzio ma la comprensibilità: il tempo di riverberazione, il rumore di fondo e la distanza critica determinano quanto si lavora bene (e quanto si stanca) in open space, sal…
 - **L'acustica dei serramenti: Rw e la scelta per zone rumorose** — Acustica · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il serramento è il punto debole acustico dell'involucro: la sua capacità di isolamento si esprime con il valore Rw (dB) misurato in laboratorio, e la scelta corretta dipende dal rumore esterno (strade, ferrovie, aerei) e…
+- **L'acustica delle camere d'albergo: il silenzio è il primo servizio** — Acustica · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
+  Il cliente dimentica il 90% dei dettagli tecnici ma non dimentica mai una notte insonne: l'acustica tra camere (pareti divisorie), verso i corridoi (porte) e dagli impianti (sotto e sopra) è il parametro che decide le re…
 - **L'acustica in formule: riverbero, isolamento, assorbimento** — Acustica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule del suono negli edifici: il comfort che si misura.
 - **L'agenzia immobiliare: ruolo, provvigioni, normativa** — Agenzia · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
@@ -781,10 +815,16 @@
   L'imaging diagnostico (TAC, Risonanza Magnetica, PET, mammografia) richiede locali specialissimi: la Risonanza ha il magnete superconduttivo (il campo magnetico resta SEMPRE attivo: le stanze hanno regole ferree di acces…
 - **L'impermeabilizzazione: guaine, membrane liquide, coperture piane** — Guaine · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Le coperture piane e le terrazze si impermeabilizzano: guaine bituminose (ardegiate o autoaderenti, con giunti saldati), membrane sintetiche (PVC, TPO, EPDM: saldate a caldo o con nastro), membrane liquide (poliuretanich…
+- **L'impiantistica alberghiera: produzione centralizzata di ACS e gestione dei picchi** — Impianti · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
+  L'hotel ha il picco d'acqua calda alle 7:30 di mattina (docce) e quello di corrente la sera: l'impianto deve essere dimensionato sui picchi, non sulle medie. La produzione ACS centralizzata con accumulo ben dimensionato …
 - **L'impianto antincendio: idranti, naspi ed estintori** — Antincendio · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Gli impianti di protezione attiva contro l'incendio permettono la prima manovra di spegnimento da parte degli occupanti o dei vigili del fuoco. Il dimensionamento dipende da volume, destinazione d'uso e disposizioni dell…
+- **L'impianto di trattamento dell'acqua della piscina: filtrazione, disinfezione, bilancio idrico** — Trattamento acque · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
+  L'acqua della piscina è un circuito chiuso che va filtrato, disinfezionato e bilanciato continuamente: la qualità dell'acqua si misura con pochi parametri (cloro libero, pH, torbidità) che devono stare in fascia giorno d…
 - **L'impianto elettrico in formule: potenza, corrente, caduta di tensione** — Elettrica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule elettriche del cantiere e dello studio.
+- **L'impianto elettrico ospedaliero: i gruppi di sicurezza e le utenze vitali** — Elettrica · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
+  In ospedale la corrente non deve mai mancare: i gruppi eletrogeni alimentano le 'utenze vitali' (life safety) e quelle 'critiche' (sale operatorie, terapia intensiva) con autonomia garantita anche di giorni. Il progetto …
 - **L'impresa edile: forme giuridiche e scelta consapevole** — Struttura · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   La forma giuridica decide tasse, responsabilità e accesso ai lavori: ditta individuale, società a responsabilità limitata (Srl), srl semplificata, società tra professionisti, cooperativa edile; la scelta corretta dipende…
 - **L'ingegneria civile: il quadro della professione** — Disciplina · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -805,10 +845,16 @@
   L'impresa edile che cresce deve passare dal 'tutto dal titolare' a una struttura con funzioni: produzione (cantieri), acquisti, amministrazione, sicurezza, commerciale; ogni ruolo ha compiti, autorità e responsabilità sc…
 - **L'ospedale diffuso: digitale, territorio, riabilitazione** — Ospedale diffuso · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   Il futuro sanitario è diffuso: l'ospedale si alleggerisce (la day surgery, la diagnostica veloce) e il territorio si rafforza (le case della salute, i distretti, la telemedicina); l'edilizia segue: meno grandi monoblocch…
+- **L'ospedale flessibile: moduli, teste di letto e adattabilità ai cambi di funzione** — Flessibilità · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
+  Le esigenze sanitarie cambiano più velocemente degli edifici: l'ospedale moderno si progetta con moduli strutturali regolari, teste di letto attrezzate e vani tecnici accessibili per trasformare una degenza in terapia in…
+- **L'umidità di risalita capillare: come sale e come si risana** — Umidità · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  L'acqua del terreno risale nei muri per capillarità come in una cannuccia: i muri a terra delle case vecchie ne sono pieni, con efflorescenze, scrostamenti e muffa alla base. Il risanamento è uno dei lavori più richiesti…
 - **L'X-Lam (CLT): il legno che fa da muro e da solaio** — X-Lam · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   L'X-Lam (cross laminated timber) è il pannello di legno incrociato: listelli sovrapposti a strati incrociati (3-7 strati), incollati, che danno un pannello bidirezionale: porta carichi nelle due direzioni, fa pareti port…
 - **La bonifica acustica dell'esistente: strategie per edifici che non passano** — Bonifica · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Quando un edificio esistente non rispetta i requisiti (o le lamentele arrivano), si bonifica per cammini di trasmissione: tamponamenti, controsoffitti, massetti, rivestimenti, correzione dei ponti acustici.
+- **La bonifica dell'amianto in edilizia: individuazione, rimozione e smaltimento** — Bonifiche · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  L'amianto (eternit) copre ancora milioni di tetti e canne fumarie italiani: è pericoloso solo se libera fibre, ma la normativa ne regola la gestione con rigore. La bonifica è un lavoro di squadre specializzate, con docum…
 - **La caldaia a condensazione: il circuito della condensa** — Caldaie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Come la caldaia moderna recupera il calore latente dei fumi: i componenti aggiuntivi.
 - **La caldaia murale a gas: anatomia completa delle componenti** — Caldaie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -841,6 +887,10 @@
   La cupola in laterizio più grande del mondo: 44 m di diametro, costruita senza centine (impalcature) complete.
 - **La degenza: la camera come ambiente di cura** — Degenza · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   La camera di degenza è la 'casa' del paziente per giorni o mesi: il progetto moderno privilegia le camere con servizi private o doppie (l'isolamento dell'infezione, la dignità), la vista verde (il contatto con la natura …
+- **La deumidificazione meccanica e la ventilazione controllata in edilizia umida** — Deumidificazione · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Quando l'edificio non può risanare alla radice (vincoli, costi, tempi) la deumidificazione meccanica gestisce il sintoma in modo scientifico: abbassare l'umidità dell'aria impedisce la condensa e ferma la muffa.
+- **La diagnosi dell'edificio esistente: rilievo, umidità, termografia** — Diagnosi · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Prima di curare bisogna capire: il rilievo dello stato di fatto, la mappatura dell'umidità con igrometro a contatto e carburo, la termografia con camera IR e la storia dell'edificio sono gli strumenti della diagnosi che …
 - **La diga del Vajont e il disastro del 1963: la lezione che non deve morire** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il disastro più grave della storia dell'ingegneria italiana: 1917 morti nella notte del 9 ottobre 1963.
 - **La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0** — Digitalizzazione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -853,8 +903,12 @@
   Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa alla più rumorosa) con limiti di immissione differenziati per periodo (diurno/notturno) e per tipo di sorgente; la zonizzazione acustica la …
 - **La geotecnica in formule: portanza, spinta, cedimenti** — Geotecnica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule del terreno: capire cosa regge e cosa spinge.
+- **La lattoneria: grondaie, pluviali e tutti i particolari che fanno durare il tetto** — Lattoneria · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
+  L'acqua che non viene raccolta bene rovina facciate e fondamenta: grondaie, pluviali, gocciolatoi e salienti (colmi, ricorsi) sono la 'plastica chirurgica' del tetto. Sono il 5% della copertura e il 50% dei problemi quan…
 - **La lavanderia alberghiera: il giro della biancheria** — Lavanderia · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La lavanderia è il cuore logistico dell'albergo: la biancheria (lenzuola, asciugamani, tovaglie) gira in ciclo continuo; il flusso (sporco in arrivo → lavaggio → asciugatura → stiro → ripiegamento → deposito pulito → dis…
+- **La lavanderia e la cucina tecnica: i reparti silenziosi che fanno l'hotel** — Logistica · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
+  Lavanderia e cucina sono i reparti produttivi dell'hotel: macchine industriali, grandi carichi elettrici e termici, acque e scarichi pesanti. Posizionarli e organizzarli bene è invisibile al cliente; farlo male si sente …
 - **La locazione abitativa: legge 431/1998, canone concordato** — Locazione · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   La locazione abitativa è regolata dalla L. 431/1998: durata minima 4 anni + rinnovo 4 (contratto transitorio solo per esigenze specifiche), requisiti abitabilità e agibilità, deposito cauzionale max 3 mensilità; il canon…
 - **La luce come materia di progetto: naturale e artificiale** — Luce · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -875,6 +929,8 @@
   Una macchina termica ben mantenuta dura il doppio e consuma meno: la manutenzione non è un optional ma un sistema di schede, controlli periodici e verbali che dimostra la conformità e protegge la garanzia.
 - **La manutenzione industriale degli immobili: il capannone che dura** — Manutenzione industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   L'immobile industriale è una macchina da mantenere: la copertura (guaine, fissaggi, lucernari), i portoni (molle, guarnizioni), le facciate (pannelli, fissaggi al vento), i pavimenti (giunti, levigature), gli impianti; l…
+- **La manutenzione programmata alberghiera: il piano che tiene aperto l'hotel** — Manutenzione · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
+  L'hotel non può chiudere: la manutenzione si fa a stagione, di notte, per piani. Il piano manutentivo alberghiero organizza camera per camera, impianto per impianto, con finestre tra un check-out e il check-in.
 - **La massa termica e l'inerzia: la fisica del comfort estivo** — Massa termica · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Il peso che frena il caldo: capacità termica e fase di sfasamento.
 - **La misura in opera: UNI EN ISO 140 e 16283** — Misure · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
@@ -905,6 +961,8 @@
   Come si diventa e di cosa si risponde: il quadro istituzionale della professione.
 - **La progettazione del giardino: i principi del progetto verde** — Progettazione giardino · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   Il giardino si progetta come l'architettura: funzione (gioco, relax, produzione), gerarchia spaziale (aree definite da siepi e percorrenze), successione cromatica e di fioriture, rapporto tra pieni e vuoti; il 'verde arc…
+- **La progettazione ospedaliera: il flusso pulito-sporco e le zone funzionali** — Progettazione · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
+  L'ospedale si progetta come un organismo: il paziente, il personale, i farmaci e i rifiuti seguono percorsi separati che non devono mai incrociarsi. Il concetto di base è la separazione dei flussi 'puliti' (cibo, farmaci…
 - **La progettazione tecnica del bagno** — Bagno · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Il bagno è l'ambiente con la maggior densità di vincoli: scarichi, altezze, umidità, sicurezza elettrica, comfort termico; progettarlo bene significa risolvere ingombri e manutenzioni PRIORA di chiudere le pareti.
 - **La progettazione tecnica della cucina** — Cucina · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -925,8 +983,12 @@
   La segnaletica di sicurezza (UNI EN ISO 7010) guida l'evacuazione e l'azione in emergenza: cartelli fotoluminescenti o illuminati (uscite, estintori, idranti, punto di ritrovo), planimetrie di evacuazione affisse, percor…
 - **La sicurezza del data center: fisica, logica, antincendio** — Sicurezza DC · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   La sicurezza del data center è a cipolle: fisica (cancelli, guardie, varchi con badge, telecamere, antitaccheggio? No: anti-intrusione), logica (firewall, segmentazione), ambientale (antincendio, allagamenti, polveri); o…
+- **La sicurezza in piscina: annegamento, scivoli e accessibilità** — Sicurezza · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
+  L'annegamento è tra le prime cause di morte accidentale infantile: la sicurezza della piscina si progetta con la vasca e si mantiene con le regole d'uso. Recinzioni, allarmi, scalette e illuminazione fanno la differenza …
 - **La sicurezza negli appalti: i ruoli secondo D.Lgs 81/2008** — Sicurezza · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Nei cantieri si sovrappongono più imprese: il D.Lgs 81/2008 (Titolo IV) assegna i ruoli — committente, datore di lavoro di cantiere, dirigente, preposto, responsabili tecnici, CSE, CSP, DLV, DDL — con responsabilità che …
+- **La soppressione incendio nei data center: gas puliti e pre-action** — Soppressione incendi · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
+  L'acqua e i server non vanno d'accordo: i data center usano impianti a gas (FM-200, Novec/fluorochetomi o inerte) che spengono senza bagnare, oppure spruzzatori pre-action che intervengano solo quando serve davvero, mini…
 - **La stampa 3D in edilizia: cosa può e cosa non può** — Stampa 3D · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   La stampa 3D edile deposita calcestruzzo a getto continuo secondo un percorso digitale: pareti portanti con geometrie libere, costruzione rapida, meno manodopera; oggi stampa pareti (il solaio e i nodi restano convenzion…
 - **La stima immobiliare comparativa nella pratica** — Estimo immobiliare · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -949,6 +1011,8 @@
   La piscina da costruzione è un serbatoio in calcestruzzo armato impermeabilizzato: la struttura (getto in opera o casseri a perdere), l'impermeabilizzazione (guaina PVC o ceramica? le guaine liquide o i rivestimenti), il…
 - **La ventilazione in formule: portate, ricambi e CO2** — VMC calcoli · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Quanta aria serve davvero: il calcolo della VMC e del comfort degli interni.
+- **La ventilazione ospedaliera: pressioni differenziate e filtrazione** — Affidabilità · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
+  L'aria negli ospedali è un dispositivo medico: le sale operatorie si mantengono in sovrappressione con aria filtrata HEPA, le camere di isolamento infettivo in depressione, i reparti di immunodepressi in protezione con f…
 - **La viabilità in cantiere: il cantiere che non strangola la colla** — Viabilità cantiere · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   Il cantiere in strada o in centro deve convivere con la viabilità: il piano di traffico (PdT) definisce deviazioni, restringimenti, segnaletica temporanea, presidi; in Italia la gestione del traffico in deroga è regolata…
 - **La VMC centralizzata: anatomia della macchina e della rete** — VMC tecnologia · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -993,6 +1057,8 @@
   Nel legno tutto avviene nelle connessioni: il legno è anisotropo (forte nella fibra, debole traverso) e le giunzioni concentrano gli sforzi; le connessioni moderne usano viti filettate, piastelle, angolari metallici, chi…
 - **Le coperture della piscina: proteggere e risparmiare** — Coperture · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   La copertura della piscina non è un optional: mantiene il calore (il 70% delle perdite è evaporazione), mantiene pulita l'acqua (le foglie e la polvere), aumenta la sicurezza (i bambini e gli animali), prolunga la vita d…
+- **Le coperture piane: guaine, vespai e il mito del tetto che non perde mai** — Coperture piane · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
+  Il tetto piano è pratico e moderno ma perde al primo errore di posa: la guaina è una pelle continua che il sole degrada e le giunture tradiscono. Il principio cardine è il vespaiato: l'aria che scorre sotto la guaina la …
 - **Le coperture verdi: tetti giardino** — Coperture verdi · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   I tetti giardino trasformano la copertura in spazio verde: stratigrafia a rovescio su piano orizzontale: protezione radici, drenaggio, filtro, substrato colturale, vegetazione; i benefici: isolamento termico aggiuntivo, …
 - **Le cucine professionali: il cuore caldo dell'albergo** — Cucine · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
@@ -1049,6 +1115,8 @@
   Le chiusure tagliafuoco EI1 o REI (Resistenza, Elastica tenuta all'aria, Isolamento termico) dividono l'edificio in compartimenti e permettono l'evacuazione sicura: il loro valore in minuti (30, 60, 90, 120) dichiara qua…
 - **Le porte: interne, blindate, tagliafuoco, automatiche** — Porte · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Le porte sono funzione e sicurezza: interne (legno, vetro, laminato), blindate (sicurezza abitativa), tagliafuoco REI (compartimentazione), automatiche (flussi pubblici), scorrevoli (risparmio spazio); ogni tipologia ha …
+- **Le pratiche per il recupero edilizio: CILA, SCIA, edilizia libera e detrazioni** — Agevolazioni · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Il recupero edilizio ha un percorso burocratico dedicato più rapido del nuovo: molti interventi di manutenzione straordinaria sono CILA o SCIA, alcuni manutenzioni ordinarie pure. Conoscere la mappa delle pratiche evita …
 - **Le procedure edilizie: CILA, SCIA, Permesso di costruire** — Procedure · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Il titolo abilitativo dipende dall'intervento: Permesso di costruire (opere nuove, ristrutturazioni che aumentano il volume/superficie utilizzando l'edificabilità residua), SCIA (opere di ristrutturazione ordinaria senza…
 - **Le proiezioni ortogonali: il metodo di Monge** — Proiezioni · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -1091,6 +1159,8 @@
   Le tensostrutture coprono grandi luci con materiale teso (membrane PVC o PTFE, cavi) ancorato a puntoni, anelli o contropesi: i carichi viaggiano solo per trazione, con sezioni minime e peso estremamente contenuto.
 - **Le tipologie di appalto: a corpo, a misura, misto** — Strumenti contrattuali · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Il contratto di appalto si distingue per il criterio di determinazione del prezzo: a corpo (prezzo fisso per l'opera completa), a misura (pagamento in funzione delle quantità eseguite), misto (corpo per alcune parti, mis…
+- **Le tipologie di piscina: skimmer, a sfioro, interrate e sopraelevate** — Tipologie · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
+  La tecnologia costruttiva della vasca decide l'estetica dell'acqua e la complessità dell'impianto: la skimmer è la regina economica della casa, lo sfioro il lusso dell'hotel. Ogni tipo ha il suo circuito idraulico dedica…
 - **Le travi fondamentali: momenti e tagli delle 4 travi base** — Travi · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le 4 travi che ogni tecnico deve conoscere a memoria: i numeri della professione.
 - **Le valvole dell'impianto idraulico: sfera, detentore, termostatica, miscelatrice** — Valvole · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
@@ -1325,6 +1395,8 @@
   Metallo rosso per tubazioni idrauliche, elettriche e lattoneria: durabilità millenaria, battericida naturale.
 - **Rappresentazione dell'architettura: disegno, rendering, realtà virtuale** — Rappresentazione · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Come si comunica il progetto: dal disegno tecnico alla realtà virtuale.
+- **Recupero di sottotetti e interrati: altezze, luci e pratiche** — Recupero spazi · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Recuperare il sottotetto o il seminterrato è il modo più rapido di guadagnare metri quadri senza cemento nuovo: le regole (altezze minime, luci, aerazione, accessi) decidono cosa si può fare e come si dichiara.
 - **Resina epossidica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento continuo in resina: senza fughe, chimicamente resistente: garage, laboratori, retail.
 - **Restauro e conservazione: le teorie e i metodi** — Restauro architettonico · corso: *Architettura* (`ARCHITETTURA_PACK`)
@@ -1341,6 +1413,8 @@
   Le tecniche per dare nuova vita a cls e acciaio esistente.
 - **Riqualificazione urbana: contratti di quartiere, periferie, rigenerazione** — Riqualificazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   La politica urbana nazionale degli ultimi decenni si è concentrata sulla riqualificazione: Contratti di Quartiere (anni 2000), Bando Periferie (2016-2022), Contratti di Fiume, rigenerazione urbana e sociale: interventi i…
+- **Risanamento dopo allagamenti e danni idraulici** — Emergenze · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
+  Quando l'acqua entra in casa (alluvione, tubo rotto, risalita fognaria) la velocità dell'intervento decide quanto si salva: estrazione dell'acqua, asciugatura, disinfezione e bonifica dei materiali seguono una sequenza c…
 - **Rivestimento ceramico pareti** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Piastrelle e gres per pareti di bagni e cucine: protezione da acqua e decorazione.
 - **Rivetto** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1483,6 +1557,8 @@
 ## V
 - **VAS, VIA e la valutazione ambientale degli interventi** — Valutazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Gli interventi con impatto significativo subiscono la Valutazione di Impatto Ambientale (VIA) o, a livello di piano, la Valutazione Ambientale Strategica (VAS): un processo che valuta alternative, impatti e misure di mit…
+- **Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax** — Wellness · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
+  Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifi…
 - **Ventilazione ambienti di lavoro e capannoni** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Aspirazione e ricambio nei luoghi di lavoro: salute obbligatoria e spesso progettata male.
 - **Vetro camera (doppio/triplo)** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)

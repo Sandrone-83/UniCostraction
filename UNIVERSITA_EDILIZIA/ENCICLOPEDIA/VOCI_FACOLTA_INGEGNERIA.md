@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-107 voci, 9 corsi.
+112 voci, 9 corsi.
 
 
 ## Costruire in legno
@@ -1548,7 +1548,22 @@ La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 
 ## Edilizia sanitaria e ospedaliera
 
-*Corso `OSPEDALI_E_HEALTHCARE_PACK` — 7 voci*
+*Corso `OSPEDALI_E_HEALTHCARE_PACK` — 12 voci*
+
+### La ventilazione ospedaliera: pressioni differenziate e filtrazione
+
+**Categoria:** Affidabilità · **Corso:** Edilizia sanitaria e ospedaliera
+
+L'aria negli ospedali è un dispositivo medico: le sale operatorie si mantengono in sovrappressione con aria filtrata HEPA, le camere di isolamento infettivo in depressione, i reparti di immunodepressi in protezione con filtrazione assoluta. La pressione si misura in Pascal e si controlla in continuo.
+
+- **Tecnologia e criteri:** I sistemi di ventilazione con ripresa totale o parziale, filtri finali assoluti (HEPA H13-H14) in sala operatoria, flussi laminari nelle sale a elevata protezione; le porte con indicatore di pressione; il controllo dei cambi d'aria/ora: 20-25 per le sale operatorie, 12-15 per le terapie intensive, 6-8 per le degenze; le barriere flessibili (tendaggi) per le protezioni temporanee.
+- **Applicazioni:** Sale operatorie, terapie intensive, reparti di ematologia e oncologia (isolamento protettivo), sale parto, camere di isolamento infettivo, laboratori di analisi.
+- **Vantaggi:** La pressione differenziale corretta protegge il paziente e il personale: l'aria scorre dal pulito verso lo sporco; i filtri HEPA intercettano batteri e virus trasportati dall'aria; il monitoraggio continuo allerta prima che la barriera ceda.
+- **Limiti e attenzioni:** Le porte aperte annullano la pressione differenziale: i dispositivi di tenuta e le abitudini contano quanto le macchine; i filtri HEPA vanno sostituiti e verificati (conta particelle); il rumore e le correnti d'aria fastidiose degradano il comfort di chi ci lavora ore.
+- **Costi ed economia:** Ordini di grandezza indicativi: la ventilazione di una sala operatoria completa di filtri e regolazione 40-90k€; la sostituzione dei filtri HEPA 1.000-3.000 € per unità con verifica; il monitoraggio di pressione continuo 200-500 € per camera.
+- **Caso tipico:** Durante la gestione di un paziente altamente infettivo, la camera a pressione negativa con antecamera e vestizione controllata ha permesso il ricovero sicuro proteggendo il reparto: il monitoraggio di pressione ha registrato il mantenimento della barriera per tutto il ricovero.
+- **Normativa:** Le prescrizioni sui cambi d'aria, le pressioni e le filtrazioni secondo il DPR 14/1/1997, le linee guida sulle infezioni correlate all'assistenza e le norme di settore per la ventilazione degli ambienti sanitari; i filtri secondo le classi EN 779/ISO 16890 e ISO 29463 per gli HEPA.
+- **Nota di cantiere:** La taratura delle pressioni si fa in presenza delle porte chiuse con il personale formato; gli indicatori di pressione vanno posizionati dove l'operatore li vede; il collaudo della sala operatoria include il test di integrità dei filtri (DOP/PAO scan) prima dell'uso.
 
 ### La degenza: la camera come ambiente di cura
 
@@ -1564,6 +1579,36 @@ La camera di degenza è la 'casa' del paziente per giorni o mesi: il progetto mo
 - **Caso tipico:** Reparto con camere doppie convertite in singole durante un'emergenza epidemica: la flessibilità progettuale (le pareti divisorie smontabili) ha permesso il cambio in giorni invece che mesi.
 - **Normativa:** Normativa sanitaria regionale; linee guida ministeriali; standard di accreditamento.
 - **Nota di cantiere:** La camera si progetta dal letto: si parte dal paziente sdraiato e si disegna tutto intorno.
+
+### L'impianto elettrico ospedaliero: i gruppi di sicurezza e le utenze vitali
+
+**Categoria:** Elettrica · **Corso:** Edilizia sanitaria e ospedaliera
+
+In ospedale la corrente non deve mai mancare: i gruppi eletrogeni alimentano le 'utenze vitali' (life safety) e quelle 'critiche' (sale operatorie, terapia intensiva) con autonomia garantita anche di giorni. Il progetto elettrico ospedaliero è tra i più rigorosi esistenti.
+
+- **Tecnologia e criteri:** La classificazione delle utenze: vitali (illuminazione di emergenza, impianti antincendio, gas medicali), critiche (sala operatoria, rianimazione, strumentazione di supporto vitale), differibili (climatizzazione ordinaria) e normali; le due linee di alimentazione con sezionamento automatico; l'alimentazione dei gruppi con ATS; la continuità locale (UPS) ai punti critici; il sistema di isolamento dei locali a rischio (IT system) con monitoraggio dell'isolamento per le sale operatorie.
+- **Applicazioni:** Ospedali, cliniche chirurgiche, laboratori analisi, strutture di terapia intensiva.
+- **Vantaggi:** La classificazione chiara delle utenze permette di investire dove serve: le utenze vitali hanno ridondanza totale, le altre possono essere differite minuti; il sistema IT con trasformatore di isolamento protegge i pazienti collegati alle apparecchiature dalla corrente di dispersione.
+- **Limiti e attenzioni:** L'autonomia richiesta è grande (da ore a giorni): serbatoi e contratti di rifornimento costano; i collaudi di switch su carichi reali in un ospedale operativo vanno fatti con piani di sospensione dei servizi; i locali gruppi hanno vincoli acustici e ambientali pesanti.
+- **Costi ed economia:** Ordini di grandezza indicativi: gruppo elettrogeno per ospedale 200-800 kVA 150-500k€ installato; il sistema di isolamento per una sala operatoria 10-25k€; la manutenzione con prove in carico programmate 10-30k€/anno.
+- **Caso tipico:** Un ospedale in area sismica ha verificato la catena di emergenza dopo il terremoto: gruppi avviati correttamente, utenze vitali alimentate per 72 ore fino al ripristino della rete: il collaudo annuale con prova reale aveva funzionato.
+- **Normativa:** La Norma CEI 64-8 con le prescrizioni per gli ambienti medici (sistemi IT con trasformatore di isolamento e monitoraggio), le guide CEI applicative per gli impianti negli ambienti particolari; il DPR 14/1/1997 per i requisiti minimi strutturali e funzionali.
+- **Nota di cantiere:** Le utenze vitali si marcano fisicamente sui quadri e sui cavi; le prove di switch vanno fatte a sorpresa periodica oltre che programmata: il personale deve saper reagire; i locali gruppi hanno il piano di emergenza con la logistica del carburante: senza diesel, il gruppo è un fermacarte costoso.
+
+### L'ospedale flessibile: moduli, teste di letto e adattabilità ai cambi di funzione
+
+**Categoria:** Flessibilità · **Corso:** Edilizia sanitaria e ospedaliera
+
+Le esigenze sanitarie cambiano più velocemente degli edifici: l'ospedale moderno si progetta con moduli strutturali regolari, teste di letto attrezzate e vani tecnici accessibili per trasformare una degenza in terapia intensiva o un ambulatorio in isolamento senza rifare l'edilizia.
+
+- **Tecnologia e criteri:** Il modulo strutturale di 7,5-8,4 m che ospita 2 camere da letto; la 'testa di letto' come parete tecnica con colonnine gas medicinali, prese elettriche, dati e illuminazione in modulo industriale; i corridoi tecnici continui per l'accesso ai impianti senza entrare nei locali; le pareti divisorie leggere amovibili; la sovradimensionamento delle centrali di trattamento aria per i picchi futuri.
+- **Applicazioni:** Nuove costruzioni ospedaliere, ristrutturazioni di grandi piastre di degenza, ospedali da campo e moduli prefabbricati sanitari.
+- **Vantaggi:** La trasformazione di funzione richiede giorni invece di mesi; i corridoi tecnici riducono i fermi d'esercizio per manutenzione; le teste di letto modulari permettono di aggiornare la tecnologia camera per camera.
+- **Limiti e attenzioni:** La flessibilità costa il 5-15% in più in costruzione; i moduli richiedono la disciplina progettuale dall'inizio: le colonne e i setti non si possono spostare dopo; il rischio è di pagare la flessibilità e poi mai usarla.
+- **Costi ed economia:** Ordini di grandezza indicativi: la testa di letto modulare 1.500-4.000 € a postazione; i corridoi tecnici aggiungono il 3-6% di superficie; le pareti amovibili 150-400 €/m² contro 80-150 della muratura.
+- **Caso tipico:** Durante un'emergenza pandemica, un ospedale modulare progettato con teste di letto tecniche ha convertito 30 postazioni in terapia intensiva in 10 giorni: gas, corrente e monitor erano già lì, sono bastati letti e ventilatori.
+- **Normativa:** Il DPR 14/1/1997 per i requisiti delle strutture; le norme sulle unità di trattamento aria e sulle pareti per gli ambienti sanitari secondo le schede dei produttori certificati; la flessibilità strutturale secondo le NTC2018.
+- **Nota di cantiere:** La flessibilità si decide a tavolino: dopo il progetto esecutivo è troppo tardi; i corridoi tecnici non diventino depositi: l'accesso impianti va mantenuto libero con regole d'uso; la documentazione 'as built' deve essere perfetta per cambiare funzione senza sorprese.
 
 ### I flussi ospedalieri: puliti, sporchi, pubblici e sanitari
 
@@ -1625,6 +1670,21 @@ L'imaging diagnostico (TAC, Risonanza Magnetica, PET, mammografia) richiede loca
 - **Normativa:** Manuali di siting dei produttori; normativa radioprotezione (D.Lgs 101/2020); norme elettromagnetiche.
 - **Nota di cantiere:** La prima verifica: il siting magnetico viene fatto PRIMA di scegliere il locale — il magnete decide dove vive, non il contrario.
 
+### I gas medicinali: ossigeno, aria medicale, aspirazione
+
+**Categoria:** Impianti · **Corso:** Edilizia sanitaria e ospedaliera
+
+I gas medicinali sono farmaci che viaggiano in tubi: ossigeno, aria medicale, protossido di azoto e vuoto chirurgico arrivano ai letti e alle sale da centrali dedicate con reti separate, monitorate e certificate. Un errore di progettazione può essere letale.
+
+- **Tecnologia e criteri:** Le reti in rame specialificato con raccordi brasanti o connettori specifici per gas (norma di raccordo universale per tipologia: ossigeno diverso da aspirazione, mai intercambiabili); le centrali: bombole multiple con commutazione automatica, generatori di ossigeno da aria (PSA) per grandi fabbisogni, pompe per vuoto chirurgico; gli allarmi di pressione zonali con segnalazione al centro infermieristico; i punti di prova per l'analisi della purezza.
+- **Applicazioni:** Ospedali, cliniche, case di cura, ambulatori chirurgici, reparti di terapia intensiva e sub-intensiva.
+- **Vantaggi:** Le centrali PSA producono ossigeno in loco eliminando la logistica delle bombole per il 90% del fabbisogno; la ridondanza doppia (due linee, due sorgenti) garantisce continuità anche in manutenzione; i raccordi a norma eliminano il rischio di collegamento errato tra gas diversi.
+- **Limiti e attenzioni:** Le reti vanno certificate a scadenze fisse con analisi della purezza dell'ossigeno; i materiali devono essere specifici per gas (i grassi e i flussanti sbagliati contaminano); le modifiche improvvisate (derivazioni fai-da-te) sono pericolose e illegali; il vuoto chirurgico richiede l'espulsione a norma dei liquidi aspirati.
+- **Costi ed economia:** Ordini di grandezza indicativi: il costo di un punto gas medicinale 300-800 € (rete esistente); una centrale PSA per 100+ letti 80-200k€; la manutenzione certificata annua su base contrattuale.
+- **Caso tipico:** Un ospedale ha sostituito il 90% del consumo di bombole di ossigeno con un generatore PSA alimentato da due linee di compressori ridondanti: la sicurezza di approvvigionamento è salita e il costo logistico è crollato.
+- **Normativa:** La UNI EN ISO 7396-1 (sistemi di distribuzione dei gas medicinali) come riferimento progettuale europeo; il DPR 14/1/1997 per i requisiti delle strutture sanitarie; le prescrizioni sulla manutenzione e la verifica periodica delle reti secondo la normativa tecnica e le disposizioni regionali.
+- **Nota di cantiere:** I raccordi si testano con la matrice di riferimento: mai forzare un attacco che 'quasi entra'; le condotte si puliscono e si spazzano prima della messa in servizio; il tracciamento di ogni modifica va aggiornato sulla mappa della rete: la documentazione salva vite.
+
 ### L'ospedale diffuso: digitale, territorio, riabilitazione
 
 **Categoria:** Ospedale diffuso · **Corso:** Edilizia sanitaria e ospedaliera
@@ -1639,6 +1699,21 @@ Il futuro sanitario è diffuso: l'ospedale si alleggerisce (la day surgery, la d
 - **Caso tipico:** Rete di Case della Salute in una regione: i ricoveri ordinari per patologie croniche sono calati del 15% in 3 anni (meno accessi al grande ospedale, più gestione sul territorio).
 - **Normativa:** Normativa sanitaria regionale; direttive ministeriali sulla riorganizzazione territoriale.
 - **Nota di cantiere:** La direzione: il grande ospedale fa il complesso, il territorio fa il resto — l'edilizia sanitaria del futuro è una rete.
+
+### La progettazione ospedaliera: il flusso pulito-sporco e le zone funzionali
+
+**Categoria:** Progettazione · **Corso:** Edilizia sanitaria e ospedaliera
+
+L'ospedale si progetta come un organismo: il paziente, il personale, i farmaci e i rifiuti seguono percorsi separati che non devono mai incrociarsi. Il concetto di base è la separazione dei flussi 'puliti' (cibo, farmaci, biancheria pulita) da quelli 'sporchi' (rifiuti, biancheria usata, degenze infettive).
+
+- **Tecnologia e criteri:** La zonizzazione: area pubblica (ambulatori, accettazione), area semi-restrittiva (degneze, ambulatori specialistici), area restrittiva (sale operatorie, terapie intensive, isolamento) con barriere fisiche e pressioni differenziate d'aria; i percorsi del personale dedicati; i montacarichi separati pulito/sporco; le sale operatorie a gradiente di pressione positiva (l'aria esce, non entra) mentre le camere di isolamento infettivo sono a pressione negativa.
+- **Applicazioni:** Nuovi ospedali, ristrutturazioni di reparti, cliniche e case di cura, pronto soccorso.
+- **Vantaggi:** La separazione dei flussi è la barriera n.1 contro le infezioni ospedaliere: meglio della disinfettione stessa; la zonizzazione con badge riduce gli accessi non autorizzati alle aree critiche; i percorsi logistici separati fanno lavorare l'ospedale come una fabbrica efficiente.
+- **Limiti e attenzioni:** Gli ospedali storici hanno flussi impossibili da separare: i miglioramenti sono parziali; ogni barriera in più costa spazio e personale di controllo; la flessibilità futura (cambi reparto) va progettata prima che i muri siano in opera.
+- **Costi ed economia:** Ordini di grandezza indicativi: il costo costruttivo di un ospedale 3.500-6.000 €/m² (superiore all'edilizia civile per le specifiche); una camera di isolamento con pressione negativa e ant-camera 50-100k€ in più di una degenza standard; il montacarichi pulito/sporco 40-80k€ cadauno.
+- **Caso tipico:** Durante una riorganizzazione di reparto, l'introduzione di percorsi separati del personale e delle merci ha ridotto del 30% i tempi logistici del cambio biancheria: il 'tour' del carrello sporco non attraversa più le degenze.
+- **Normativa:** Il DPR 14 gennaio 1997 (requisiti minimi per l'abilitazione e l'esercizio delle strutture ospedaliere) con le norme regionali di attuazione; le linee guida sulle infezioni correlate all'assistenza per la zonizzazione; le normative antincendio specifiche per le attività sanitarie.
+- **Nota di cantiere:** La mappa dei flussi va disegnata PRIMA della pianta: si parte dalle persone e dalle cose, non dalle stanze; le porte delle aree critiche devono essere controllate ma mai bloccanti per la fuga d'emergenza; la pressione differenziale si misura e si segnala (indicatori a porta).
 
 ### Le sale operatorie: la fabbrica della precisione
 

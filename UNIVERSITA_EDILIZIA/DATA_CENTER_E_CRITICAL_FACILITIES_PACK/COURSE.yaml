@@ -1,7 +1,7 @@
 corso: "Data center e critical facilities"
 facolta: "FACOLTA_IMPIANTI_ENERGIA"
 livello: "L3"
-schede: 7
+schede: 12
 formato: "JSONL"
 lingua: "it"
 schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

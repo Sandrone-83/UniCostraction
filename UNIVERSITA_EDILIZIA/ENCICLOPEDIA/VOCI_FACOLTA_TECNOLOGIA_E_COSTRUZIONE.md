@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-232 voci, 7 corsi.
+255 voci, 8 corsi.
 
 
 ## Progettazione digitale CAD e BIM
@@ -193,7 +193,22 @@ Lo scan-to-BIM converte la nuvola di punti del rilievo laser in un modello BIM f
 
 ## Tecnica alberghiera e hospitality
 
-*Corso `HOTEL_E_HOSPITALITY_TECNICO_PACK` — 7 voci*
+*Corso `HOTEL_E_HOSPITALITY_TECNICO_PACK` — 11 voci*
+
+### L'acustica delle camere d'albergo: il silenzio è il primo servizio
+
+**Categoria:** Acustica · **Corso:** Tecnica alberghiera e hospitality
+
+Il cliente dimentica il 90% dei dettagli tecnici ma non dimentica mai una notte insonne: l'acustica tra camere (pareti divisorie), verso i corridoi (porte) e dagli impianti (sotto e sopra) è il parametro che decide le recensioni.
+
+- **Tecnologia e criteri:** Le pareti divisorie tra camere con doppia orditura e lana fonoassorbente (Rw 55-60 dB in laboratorio, Rw 50+ in opera), le porte dei corridoi con battuta a tre guarnizioni e soglia abbassata; il massetto galleggiante negli edifici nuovi o il controsoffitto fonoassorbente nei risanamenti; l'attacco silenzioso di sifoni e scarichi; il regolatore di velocità dei ventilatori di climatizzazione per non farli udire in camera.
+- **Applicazioni:** Camere di hotel, residence, appartamenti in affitto breve, B&B di pregio.
+- **Vantaggi:** La camera silenziosa vale 10-20% di tariffa media in più sulle strutture di qualità; le pareti divisorie corrette costano meno del rimedio dopo (le recensioni negative durano anni); l'impianto silenzioso si progetta con le giuste velocità d'aria, non con le sordine.
+- **Limiti e attenzioni:** Il risanamento acustico di una camera esistente è costoso e mai perfetto; i letti a parete divisoria con testiera in muratura trasmettono il rumore: meglio la testiera sospesa; il frigo bar e il condizionatore sotto la finestra sono i classici 'rompi silenzio'.
+- **Costi ed economia:** Ordini di grandezza indicativi: parete divisoria acustica 60-120 €/m² posata; porta acustica 400-900 €; il controsoffitto fonoassorbente 40-80 €/m²; il costo di una camera insonorizzata male in recensioni negative è incalcolabile.
+- **Caso tipico:** Un hotel storico con recensioni 'rumoroso' ha investito sulle porte dei corridoi (guarnizioni e chiudiporta silenziosi) e sui sifoni: le recensioni sono passate da 3,8 a 4,5 in una stagione con un intervento di 80 € per camera.
+- **Normativa:** Il D.Lgs 42/2017 (requisiti acustici degli edifici) per i valori di isolamento tra unità; la UNI EN ISO 717-1 per la classificazione in laboratorio; per l'hotel la classificazione di categoria (stelle) secondo le norme regionali con i requisiti minimi acustici di categoria.
+- **Nota di cantiere:** La prova in opera (misura di isolamento fra due camere finite) prima della consegna dell'intero piano; i passa-impianti nelle pareti divisorie vanno sigillati con malta elastica: sono la via del rumore n.1; il frigo bar va su gambe antivibranti, non appoggiato alla parete divisoria.
 
 ### Le camere alberghiere: il prodotto che si vende
 
@@ -255,6 +270,21 @@ L'albergo è un edificio-servizio: la parte pubblica (hall, camere, ristoranti, 
 - **Normativa:** Normativa alberghiera (classificazione regionale, requisiti); normativa antincendio e igienica; specifiche delle catene.
 - **Nota di cantiere:** La prima domanda: 'dove dorme l'ospite e dove lavora il personale?' — la mappa che li separa è la pianta vera dell'albergo.
 
+### L'impiantistica alberghiera: produzione centralizzata di ACS e gestione dei picchi
+
+**Categoria:** Impianti · **Corso:** Tecnica alberghiera e hospitality
+
+L'hotel ha il picco d'acqua calda alle 7:30 di mattina (docce) e quello di corrente la sera: l'impianto deve essere dimensionato sui picchi, non sulle medie. La produzione ACS centralizzata con accumulo ben dimensionato è la soluzione standard di qualità.
+
+- **Tecnologia e criteri:** La produzione ACS: caldaie a condensazione in cascata (2-3 macchine da 100-200 kW ciascuna) o pompe di calore con accumulo; l'accumulo stratificato 1.000-3.000 litri che assorbe il picco mattutino; il ricircolo con centralina di disinfezione termica contro la legionella; le prese separate per lavanderia e cucina; il BMS che sequenzia le macchine in base al carico.
+- **Applicazioni:** Hotel di ogni categoria, residence, centri benessere con grande fabbisogno di acque calde.
+- **Vantaggi:** La cascata di caldaie piccole lavora sempre vicino al massimo rendimento; l'accumulo evita di sovradimensionare le macchine per il picco di 45 minuti; il ricircolo con sanificazione garantisce sicurezza e comfort ai piani lontani.
+- **Limiti e attenzioni:** Le tubazioni di ricircolo mal isolano disperdono il 15-25% della produzione; l'accumulo troppo piccolo fa la doccia fredda al quarto piano; la manutenzione disattesa delle caldaie in cascata porta la stagione delle lamentele.
+- **Costi ed economia:** Ordini di grandezza indicativi: sala macchine ACS per hotel 50 camere 40-80k€; l'accumulo stratificato 2.000 l 3-6k€; il BMS base per il controllo impianti 5-15k€.
+- **Caso tipico:** Un hotel balneare ha sostituito una caldaia unica da 400 kW con tre da 150: i consumi sono calati del 18% perché una macchina sola lavora al pieno carico il 70% del tempo, mentre la vecchia lavorava al 30% col massimo delle perdite.
+- **Normativa:** Le reti ACS secondo UNI EN 806; la legionellosi secondo le linee guida e le prescrizioni regionali; la classificazione energetica e gli incentivi per il rinnovo delle centrali secondo la normativa vigente (Conto Termico 3.0 per le sostituzioni).
+- **Nota di cantiere:** Il dimensionamento dell'ACS parte dal numero di camere × occupazione × litri a 40°C (50-80 l/camera/ora di punta); i ricircoli vanno bilanciati con valvole di regolazione ai rami: il primo piano non deve 'rubare' l'acqua all'ultimo; il locale caldaia in hotel si colloca lontano dalle camere: il rumore di tre caldaie si sente.
+
 ### La lavanderia alberghiera: il giro della biancheria
 
 **Categoria:** Lavanderia · **Corso:** Tecnica alberghiera e hospitality
@@ -270,6 +300,21 @@ La lavanderia è il cuore logistico dell'albergo: la biancheria (lenzuola, asciu
 - **Normativa:** Normativa igienico-sanitaria; specifiche macchinari; sicurezza (le macchine industriali).
 - **Nota di cantiere:** La regola: la biancheria sporca e quella pulita non si incontrano MAI: la separazione fisica dei flussi è sacra.
 
+### La lavanderia e la cucina tecnica: i reparti silenziosi che fanno l'hotel
+
+**Categoria:** Logistica · **Corso:** Tecnica alberghiera e hospitality
+
+Lavanderia e cucina sono i reparti produttivi dell'hotel: macchine industriali, grandi carichi elettrici e termici, acque e scarichi pesanti. Posizionarli e organizzarli bene è invisibile al cliente; farlo male si sente ovunque.
+
+- **Tecnologia e criteri:** La lavanderia: lavatrici estrattrici da 20-60 kg con caricamento a carrello, asciugatrici a gas o elettriche, stireria calandra; la cucina: linee di cottura con cappa di aspirazione dedicata (motore lontano con tiraggio idraulico), lavastoviglie a nastro, celle frigorifere; le attrezzature a pavimento con discesa dei liquidi; i sifoni a doppio tronchetto per le cucine; il locale 'sporco' di carico e quello 'pulito' di consegna.
+- **Applicazioni:** Hotel con servizio ristorante, resort, catene alberghiere con lavanderia interna.
+- **Vantaggi:** La lavanderia interna riduce i tempi e i costi del servizio esterno; la cappa con motore lontano elimina il rumore in cucina e nei tavoli vicini; la separazione carico/scarico dei carrelli mantiene l'igiene senza pensieri.
+- **Limiti e attenzioni:** Le lavanderie consumano tanto vapore e corrente: vanno collegate alla centrale termica con contabilizzazione; i pavimenti di cucina subiscono lavaggi quotidiani: il massetto e l'impermeabilizzazione devono reggere; l'odore della cucina ai tavoli estivi dipende dalla cappa e dai depuratori, non dalla fortuna.
+- **Costi ed economia:** Ordini di grandezza indicativi: lavanderia per 100 camere 80-200k€; la cucina professionale per 120 coperti 150-400k€ a seconda del livello; il depuratore di fumi di cappa 5-20k€.
+- **Caso tipico:** Un ristorante di hotel con il dehor affacciato sulla cucina ha eliminato le lamentele sull'odore installando il motore della cappa sul tetto con tiraggio idraulico e aggiungendo un depuratore a carboni attivi: il dehor è diventato il tavolo più richiesto.
+- **Normativa:** Le attrezzature alberghiere con marcatura CE secondo le direttive di prodotto; le cucine professionali seguono le prescrizioni igieniche (D.Lgs 193/2007 HACCP) e antincendio; le emissioni in atmosfera delle cucine secondo le prescrizioni ambientali regionali.
+- **Nota di cantiere:** La lavanderia vuole il pavimento con pendenze verso scarichi a griglia e resistente ai carrelli; le celle frigo lontane dai forni (la motocondensante al caldo consuma il doppio); il carico delle lavatrici industriali è dinamico: i massetti galleggianti assorbono le vibrazioni.
+
 ### La manutenzione alberghiera: l'hotel che non si ferma
 
 **Categoria:** Manutenzione · **Corso:** Tecnica alberghiera e hospitality
@@ -284,6 +329,21 @@ L'albergo è aperto 365 giorni/anno: la manutenzione deve essere programmata, si
 - **Caso tipico:** Hotel con il programma di manutenzione digitale (ogni camera ha la sua scheda interventi): le recensioni negative per guasti si sono azzerate in 18 mesi e il costo delle emergenze è calato del 40%.
 - **Normativa:** Nessuna norma cogente specifica; prassi gestionali e assicurative.
 - **Nota di cantiere:** La regola: in alberghiero non esiste 'domani sistemiamo': l'ospite paga per oggi, il guasto va risolto in ore.
+
+### La manutenzione programmata alberghiera: il piano che tiene aperto l'hotel
+
+**Categoria:** Manutenzione · **Corso:** Tecnica alberghiera e hospitality
+
+L'hotel non può chiudere: la manutenzione si fa a stagione, di notte, per piani. Il piano manutentivo alberghiero organizza camera per camera, impianto per impianto, con finestre tra un check-out e il check-in.
+
+- **Tecnologia e criteri:** Il piano per piani: ogni camera ha la scheda con i cicli (bagni e sanitari ogni 5-8 anni, moquette 8-10, imbiancatura 3-5, serramenti 15-20); la manutenzione degli impianti in notturna con sezionamenti parziali; il magazzino ricambi critici (cartucce filtro, guarnizioni, schede frigo); il software di gestione manutentiva con ticket dalla reception; le verifiche di legge (antincendio, legionella, ascensori) calendariate.
+- **Applicazioni:** Hotel di ogni taglia, residence, resort, B&B con più unità.
+- **Vantaggi:** La camera manutenuta programmata non va fuori servizio d'emergenza (il costo d'emergenza in alta stagione è triplo); il registro manutentivo dimostra la diligenza in caso di incidente; il cliente che trova tutto funzionante non segnala: la recensione parla di vacanza, non di guasti.
+- **Limiti e attenzioni:** La manutenzione alberghiera consuma budget e organizzazione: chi fa il preventivo stagionale deve avere visione dell'intero ciclo; le chiusure per manutenzione straordinaria costano carissime in alta stagione: il piano deve evitarle; il personale interno piccolo fa affidamento sui fornitori esterni: la gestione dei contratti è parte del lavoro.
+- **Costi ed economia:** Ordini di grandezza indicativi: il costo manutentivo ordinario 3-6% del fatturato alberghiero; la ristrutturazione camera 8-15k€ per la media qualità; il contratto full-service impianti 150-400 €/camera/anno.
+- **Caso tipico:** Un hotel a gestione familiare ha adottato il piano manutentivo a scaglioni: nessuna camera chiusa d'emergenza in due stagioni e il costo annuo è calato del 20% rispetto al 'sistema' ripara-quando-si-rompe.
+- **Normativa:** Le verifiche periodiche obbligatorie (antincendio, legionella, apparecchi a gas, ascensori) secondo la normativa specifica di ciascun apparato; le registrazioni nel fascicolo dell'immobile e della struttura ricettiva secondo le norme regionali di classificazione.
+- **Nota di cantiere:** La prima cosa da fare a gennaio: il piano della stagione con i fornitori impegnati per iscritto; la camera 'cavia' per provare i materiali nuovi prima di ordinarle per tutto l'hotel; il libretto degli interventi in ogni locale tecnico: chi apre un quadro deve scrivere cosa ha toccato.
 
 ### Le SPA alberghiere: il benessere come motore di fatturato
 
@@ -3211,6 +3271,206 @@ Taglio, piegatura e posa delle barre B450C con rispetto dei copriferri di proget
 - **Nota di cantiere:** Fotografa ogni armatura prima di chiudere i casseri: è la tua assicurazione. Controlla che i distanziali siano appoggiati sul cassero e non sul terreno o sull'armatura sottostante; le staffe vanno legate strette o si aprono in getto. Manodopera: prevedi un carpentiere + aiuto per ogni 100 kg/giorno su lavori semplici.
 
 
+## Risanamento e recupero edilizio
+
+*Corso `RISANAMENTO_E_RECUPERO_EDILIZIO_PACK` — 13 voci*
+
+### Le pratiche per il recupero edilizio: CILA, SCIA, edilizia libera e detrazioni
+
+**Categoria:** Agevolazioni · **Corso:** Risanamento e recupero edilizio
+
+Il recupero edilizio ha un percorso burocratico dedicato più rapido del nuovo: molti interventi di manutenzione straordinaria sono CILA o SCIA, alcuni manutenzioni ordinarie pure. Conoscere la mappa delle pratiche evita mesi di attesa e sanatorie costose.
+
+- **Tecnologia e criteri:** La mappa: manutenzione ordinaria (senza titolo, con CILA solo se esterna), manutenzione straordinaria (CILA o SCIA secondo i comuni e le opere), ristrutturazione edilizia (SCIA), i titoli abilitativi del TU edilizio (DPR 380/2001); l'edilizia libera per interventi interni senza rilevanza (elenco nazionale aggiornato); le detrazioni fiscali per il recupero (ristrutturazioni, risparmio energetico, bonus sismico) con le regole di incasso (saldo o cessione del credito); la conformità catastale e urbanistica pre-vendita.
+- **Applicazioni:** Ristrutturazioni di appartamenti, recupero sottotetti, sostituzione coperture, bonus e detrazioni, compravendite con regolarizzazioni.
+- **Vantaggi:** La pratica giusta al primo colpo risparmia mesi: la CILA parte subito dove serve; le detrazioni incassate o cedute trasformano il cantiere in investimento; la regolarità documentale vale il 10-20% sul prezzo di vendita.
+- **Limiti e attenzioni:** I regolamenti comunali differiscono: lo stesso lavoro può essere libero in un Comune e SCIA in quello vicino; le detrazioni cambiano annualmente: chi progetta sulle regole dell'anno scorso sbaglia pratica; la cessione del credito richiede documentazione impeccabile.
+- **Costi ed economia:** Ordini di grandezza indicativi: CILA/SCIA con progetto da tecnico 1.000-3.000 €; la pratica per detrazioni con asseverazioni 1.500-4.000 €; la sanatoria ex post 3-10 volte il costo della pratica fatta in tempo.
+- **Caso tipico:** Un recupero sottotetto presentato come manutenzione straordinaria in CILA è partito in 3 settimane; il vicino che ha aperto i lavori senza titolo ha pagato la sanatoria e fermato il cantiere per 6 mesi.
+- **Normativa:** Il Testo Unico dell'edilizia (DPR 380/2001) con le norme nazionali di attuazione; i regolamenti edilizi comunali per le pratiche locali; le norme di bilancio annuali per le detrazioni fiscali in corso (percentuali, massimali, cessione del credito).
+- **Nota di cantiere:** Chiedere SEMPRE al Comune la pre-asseverazione per i lavori in zona vincolata o di dubbia classificazione; la SCIA va presentata PRIMA dell'apertura del cantiere: dopo è abuso; conservare il titolo con i timbri di ricezione: in vendita lo chiederanno.
+
+### La bonifica dell'amianto in edilizia: individuazione, rimozione e smaltimento
+
+**Categoria:** Bonifiche · **Corso:** Risanamento e recupero edilizio
+
+L'amianto (eternit) copre ancora milioni di tetti e canne fumarie italiani: è pericoloso solo se libera fibre, ma la normativa ne regola la gestione con rigore. La bonifica è un lavoro di squadre specializzate, con documentazione finale obbligatoria.
+
+- **Tecnologia e criteri:** Le fasi: il censimento con verifica in laboratorio dei materiali sospetti; la scelta del metodo: rimozione (il tetto vecchio viene giù e smaltito), incapsulamento (sigillatura con prodotti che imprigionano le fibre), confinamento (chiusura del locale con lastre); la rimozione con procedure a umido, aspirazione localizzata, camere di decontaminazione e DPI dei livelli massimi; il trasporto come rifiuto pericoloso con FIR e lo smaltimento in discarica autorizzata; la certificazione di bonifica con analisi dell'aria finali.
+- **Applicazioni:** Coperture in lastre di eternit di capannoni e case, canne fumarie, condotte di aerazione, pannelli di tamponamento e pavimenti in vinil-amianto.
+- **Vantaggi:** La rimozione elimina il problema alla radice e libera il tetto per il nuovo (e per il fotovoltaico); l'incapsulamento può essere la scelta razionale dove la rimozione mette a rischio il manufatto; la documentazione di bonifica aumenta il valore dell'immobile.
+- **Limiti e attenzioni:** Il costo della rimozione e smaltimento è alto (il rifiuto pericoloso paga); le squadre abilitate sono poche e i tempi di attesa lunghi; le fibre sono invisibili: la fiducia si basa sulla documentazione, non sull'occhio.
+- **Costi ed economia:** Ordini di grandezza indicativi: rimozione eternit da tetto 25-60 €/m² (tetto compreso smaltimento); l'incapsulamento 15-30 €/m²; il censimento con campionamenti 300-1.000 €; le analisi finali dell'aria 200-600 €.
+- **Caso tipico:** Un capannone industriale con tetto in eternit ha fatto bonifica e sostituzione con pannelli coibentati nuovi: l'operazione è stata finanziabile con gli incentivi per la rimozione dell'amianto e il tetto nuovo ospita ora il fotovoltaico.
+- **Normativa:** Legge 27 marzo 1992 n. 257 (legge amianto); D.Lgs 27 settembre 2006 n. 257 (disposizioni per lo smaltimento); DPR 20 agosto 1999 n. 248 e DPR 20 maggio 2011 n. 177 (regolamento attuativo: mappatura, metodi di bonifica, corsi obbligatori); UNI 8520 (rimozione dei materiali contenenti amianto); D.Lgs 152/2006 per la gestione del rifiuto.
+- **Nota di cantiere:** Verificare SEMPRE il certificato di formazione dei lavoratori e la partita IVA abilitata prima di firmare; la zona di lavoro va recintata e segnalata; alla fine si richiede la documentazione completa (verbali, FIR, analisi): senza quella non c'è stata bonifica.
+
+### I consolidamenti strutturali: cerchiature, FRP e iniezioni
+
+**Categoria:** Consolidamento · **Corso:** Risanamento e recupero edilizio
+
+Quando il muro non regge più (fessurazioni, terremoto, sovraccarichi) si può rinforzare senza demolire: le tecniche moderne aggiungono resistenza con interventi minimi e reversibili dove possibile.
+
+- **Tecnologia e criteri:** Le cerchiature in acciaio o FRP (fibre impregnate di resina) irrigidiscono i muri; i nastri FRP orizzontali e verticali consolidano pannelli murari; le iniezioni di malta cementizia o resina ricompattano i nuclei vuoti; le barre filettate attraversano i muri con piastre di contrasto; l'incamiciatura in cls fibrorinforzato sulle fondazioni; per il cls: il carbo-ripristino con tessuti in fibra di carbonio su travi e pilastri.
+- **Applicazioni:** Muri fessurati dopo un sisma, solai che flettevano troppo, edifici con sopraelevazioni previste, ripristino dopo lesioni da cedimenti differenziali.
+- **Vantaggi:** Interventi rapidi e poco invasivi rispetto al rifacimento; i materiali FRP sono leggeri e non appesantiscono la struttura; la possibilità di intervenire per singoli elementi mantiene l'edificio abitato durante i lavori.
+- **Limiti e attenzioni:** Il consolidamento richiede il progetto dello strutturista: 'rinforzare a occhio' può spostare il problema; le superfici vanno preparate meticolosamente (spolveratura, saturazione): l'adesione è tutto; i sistemi FRP sono sensibili al fuoco e ai raggi UV: vanno protetti.
+- **Costi ed economia:** Ordini di grandezza indicativi: cerchiatura in FRP 40-90 €/m² di parete; tessuto in fibra di carbonio applicato su cls 80-150 €/m²; iniezioni di consolidamento 15-40 €/ml; la progettazione strutturale 1.500-5.000 €.
+- **Caso tipico:** Un edificio in muratura lesionato dal terremoto è stato consolidato con cerchiature in FRP e ripristinato in 4 mesi contro i 18 della demolizione e ricostruzione: il costo è stato la metà e gli inquilini sono tornati in un anno.
+- **Normativa:** Le NTC2018 (D.M. 17/01/2018) per le opere su strutture esistenti con la Circolare n. 7/2019; le schede tecniche dei prodotti con valutazione/ETA (Documento di Valutazione del Comportamento) per i sistemi FRP; le verifiche di posa secondo le istruzioni dei produttori.
+- **Nota di cantiere:** Mai intervenire senza la diagnosi della causa della lesione: consolidare un muro che cede per fondazione instabile è inutile; le temperature di posa dei FRP (5-30 °C) vanno rispettate; la garanzia del sistema dipende dalla posa certificata: tenere i verbali di applicazione.
+
+### La deumidificazione meccanica e la ventilazione controllata in edilizia umida
+
+**Categoria:** Deumidificazione · **Corso:** Risanamento e recupero edilizio
+
+Quando l'edificio non può risanare alla radice (vincoli, costi, tempi) la deumidificazione meccanica gestisce il sintoma in modo scientifico: abbassare l'umidità dell'aria impedisce la condensa e ferma la muffa.
+
+- **Tecnologia e criteri:** Il deumidificatore a refrigerazione (condensa su batteria fredda): portata 10-30 l/giorno per i locali; il deumidificatore con rotore ad adsorbione per i locali freddi (cantine); la VMC (ventilazione meccanica controllata) con flusso continuo o a umidità regolata; la deumidificazione canalizzata negli impianti di climatizzazione con ruota integrata; il controllo: igrostato a regolazione automatica con soglia 55-60% UR.
+- **Applicazioni:** Cantine e seminterrati, appartamenti con muffa stagionale, biblioteche e archivi, magazzini di materiali sensibili, case in cui il risanamento murario è rinviato.
+- **Vantaggi:** L'intervento è immediato (giorni) e non invasivo; la VMC scarica il vapore alla fonte (bagni, cucine) e mantiene l'intero appartamento sotto controllo; i consumi dei deumidificatori moderni sono gestibili (300-800 W) con il ciclo on/off a soglia.
+- **Limiti e attenzioni:** La deumidificazione non asciuga il muro saturo: gestisce l'aria, non la muratura; i deumidificatori portatili fanno rumore e vanno svuotati (o scarico a pozzetto); senza controllo della sorgente (infiltrazioni, risalita) si tira l'acqua a limitare per sempre.
+- **Costi ed economia:** Ordini di grandezza indicativi: deumidificatore portatile 150-400 €, professionale 800-2.000 €; VMC monoblocco doppio flusso con recupero 1.500-3.500 € installata; la canalizzata con ruota si quota con l'impianto di climatizzazione.
+- **Caso tipico:** Una biblioteca comunale con muffa sui volumi antichi ha installato la deumidificazione canalizzata con controllo a 50% UR: dopo 6 mesi le misure mostravano la stabilizzazione di libri e scaffali senza un solo intervento sui muri (vincolati).
+- **Normativa:** Le prestazioni dei deumidificatori secondo le schede marcate CE e le norme di prodotto applicabili; la qualità dell'aria interna secondo le linee guida nazionali; la VMC secondo le prescrizioni della normativa nazionale di ventilazione degli edifici.
+- **Nota di cantiere:** Posizionare il deumidificatore nel punto più umido con il portello lontano dal muro (10 cm di circolazione); lo scarico condensa a tubo fisso elimina lo svuotamento quotidiano; misurare i risultati con un data logger: i numeri convincono il cliente più delle promesse.
+
+### La diagnosi dell'edificio esistente: rilievo, umidità, termografia
+
+**Categoria:** Diagnosi · **Corso:** Risanamento e recupero edilizio
+
+Prima di curare bisogna capire: il rilievo dello stato di fatto, la mappatura dell'umidità con igrometro a contatto e carburo, la termografia con camera IR e la storia dell'edificio sono gli strumenti della diagnosi che distingue il risanamento serio dalla tamponatura.
+
+- **Tecnologia e criteri:** L'indagine visiva guidata da check-list (fessurazione, degradi, tracce); l'igrometro a contatto misura l'umidità del legno e delle murature in percentuale; il metodo del carburo di calcio per il dosaggio gravimetrico; la termografia invernale (almeno 20 °C di differenza interno-esterno) mostra ponti termici e umidità nascosta; il rilievo stratigrafico con picchiettature localizzate; l'archivio documentale (pratiche, visure, storico interventi).
+- **Applicazioni:** Acquisto di immobili da ristrutturare, piani di manutenzione, controversie tra compratore e venditore, sopralluoghi per riqualificazione energetica.
+- **Vantaggi:** La diagnosi documentata evita il 90% delle sorprese in corso d'opera; la mappatura dell'umidità prima/dopo permette di misurare l'efficacia del risanamento; la termografia trova ciò che l'occhio non vede (isolante assente, ponti termici, infiltrazioni).
+- **Limiti e attenzioni:** L'indagine non invasiva dà informazioni parziali: la conferma arriva solo con il campionamento locale; la termografia è una fotografia del momento (sole, stagione); i rilievi costano tempo e il cliente vuole il preventivo subito.
+- **Costi ed economia:** Ordini di grandezza indicativi: sopralluogo con termografia 300-800 €; mappatura umidità di un appartamento 200-500 €; il rilievo laser di un edificio 1.000-3.000 €.
+- **Caso tipico:** Un palazzo con macchie di umidità 'misteriose' al secondo piano è stato diagnosticato con termografia: il cornicione con caditoia interrotta scaricava l'acqua dentro il muro: il risanamento ha riguardato la lattoneria, non gli intonaci.
+- **Normativa:** Le buone prassi per le indagini su edilizia esistente secondo le NTC2018 (D.M. 17/01/2018) per i rilievi strutturali; le schede dei produttori per l'uso degli strumenti; per i beni vincolati, il nulla osta della Soprintendenza prima di qualunque indagine invasiva.
+- **Nota di cantiere:** Documentare TUTTO con fotografie georeferenziate prima di intervenire: la memoria dello stato originale è la difesa in caso di contestazione; la termografia si prenota in inverno con 15-20 °C di scarto; l'igrometro va tarato e le misure riportate su pianta con i valori.
+
+### Risanamento dopo allagamenti e danni idraulici
+
+**Categoria:** Emergenze · **Corso:** Risanamento e recupero edilizio
+
+Quando l'acqua entra in casa (alluvione, tubo rotto, risalita fognaria) la velocità dell'intervento decide quanto si salva: estrazione dell'acqua, asciugatura, disinfezione e bonifica dei materiali seguono una sequenza che va eseguita in giorni, non settimane.
+
+- **Tecnologia e criteri:** La sequenza operativa: messa in sicurezza elettrica, estrazione con pompe e aspiratori, smaltimento dei materiali non recuperabili (cartongesso, isolanti, arredi imbottiti), asciugatura forzata con deumidificatori e ventilatori (settimane per i muri), disinfezione delle superfici (rischio microbiologico), verifica dell'umidità residua prima di richiudere; il rapporto di danno per la compagnia assicurativa con perizia fotografica.
+- **Applicazioni:** Alluvioni e esondazioni, rotture di tubazioni, risalite fognarie, infiltrazioni prolungate scoperte tardi.
+- **Vantaggi:** L'asciugatura rapida limita la muffa (arriva in 48-72 ore); la documentazione fotografica immediata accelera i risarcimenti; la verifica umidometrica finale evita di chiudere muri ancora bagnati (il problema ritorna dentro l'intonaco).
+- **Limiti e attenzioni:** I materiali porosi profondi (intonaci storici, laterizio pieno) trattengono l'acqua per settimane: l'impazienza di ripristinare rovina il risultato; gli ambienti con risalita fognaria richiedono la disinfezione e la verifica della tenuta della rete: il danno si ripete se la causa resta.
+- **Costi ed economia:** Ordini di grandezza indicativi: servizio di estrazione e asciugatura forzata 1.000-4.000 € per appartamento; la perizia del danno 500-1.500 €; il ripristino di finiture allagate 100-300 €/m² a seconda dei materiali.
+- **Caso tipico:** Dopo l'allagamento di un seminterrato, l'intervento in 24 ore con pompe e deumidificatori ha salvato il parquet del piano rialzato soprastante: la differenza è stata la velocità, non la fortuna.
+- **Normativa:** Le procedure di bonifica secondo le buone prassi igieniche e le indicazioni delle autorità sanitarie in caso di alluvione; la gestione dei rifiuti contaminati secondo D.Lgs 152/2006; la perizia assicurativa secondo le regole del contratto e della polizza.
+- **Nota di cantiere:** Documentare tutto PRIMA di toccare nulla (foto video per l'assicurazione); l'elettricità va sezionata prima di entrare in acqua; non richiudere prima dei valori igrometrici di riassetto: la muffa dentro il muro si vendica in autunno.
+
+### Il risanamento con metodi tradizionali: calce, cocciopesto e sabbia
+
+**Categoria:** Metodi · **Corso:** Risanamento e recupero edilizio
+
+I materiali tradizionali ritornano nei risanamenti di qualità: la calce, il cocciopesto e le sabbie selezionate risolvono l'umidità lavorando *con* la muratura storica invece di sigillarla. La tecnica antica è spesso la più avanzata per l'edilizia pregressa.
+
+- **Tecnologia e criteri:** La malta a grassello di calce per gli intonaci di risanamento (traspirante, fungicida naturale); il cocciopesto (calce + frammenti di cotto) per le vasche, le cisterne e gli intonaci particolarmente umidi: si auto-ripara delle microfessure; la sabbia di falda pulita e le terre per i massetti drenanti; il rivestimento a intonaco 'sacrificial' che si degrada al posto del muro; le tinture a calce per le finiture.
+- **Applicazioni:** Edifici storici e vincolati, murature a sacco, cantine e volte umide, giardini pensili storici, vasche e fontane.
+- **Vantaggi:** Il cocciopesto è impermeabile all'acqua ma traspirante al vapore: la combinazione impossibile che risolve le vasche antiche; le malte a calce permettono la continua evaporazione: il muro si asciuga e resta sano; i materiali naturali non introducono chimica nel contesto storico.
+- **Limiti e attenzioni:** I tempi sono lenti: la carbonatazione della calce chiede settimane; le competenze artigianali si stanno perdendo: le squadre vere sono poche; i costi di manodopera specializzata superano i materiali industriali.
+- **Costi ed economia:** Ordini di grandezza indicativi: intonaco a grassello di calce posato 45-90 €/m²; cocciopesto 60-120 €/m² a seconda della complessità; la manodopera artigianale qualificata è la voce principale.
+- **Caso tipico:** Una cisterna storica in cocciopesto che perdeva da decenni è stata risanata con la ricetta tradizionale (cocciopesto fresco in più mani): la vasca è tornata stagna dopo 3 mesi di stagionatura, verificata con la prova di riempimento.
+- **Normativa:** La UNI EN 998-1 per le malte; le regole del restauro (D.Lgs 42/2004) per i beni vincolati; le ricette tradizionali secondo la letteratura del restauro e le schede dei produttori di calci tradizionali.
+- **Nota di cantiere:** La calce idrata va usata matura (grassello stagionato minimo 6 mesi, meglio anni); i tempi di messa in opera tra una mano e l'altra sono più lunghi: il cantiere non ha fretta e non deve averla; la protezione dal gelo e dalla pioggia nelle prime settimane è critica per la carbonatazione.
+
+### Condensa e muffa negli edifici esistenti: diagnosi e cure
+
+**Categoria:** Muffa · **Corso:** Risanamento e recupero edilizio
+
+La muffa nei punti freddi del muro è quasi sempre condensa: l'aria umida degli ambienti tocca la superficie sotto la temperatura di rugiada e l'acqua compare dal nulla. Capire se il fenomeno è superficiale (ponte termico, ventilazione scarsa) o interstiziale (vapore intrappolato nella parete) decide la cura.
+
+- **Tecnologia e criteri:** Il metodo di Glaser valuta la condensa interstiziale strato per strato; la verifica superficiale: confronto tra temperatura del muro (termometro IR) e punto di rugiada dell'aria (igrometro); le cure: interruzione dei ponti termici (cappotto, rivestimento), barriera al vapore lato caldo in climi freddi, ventilazione meccanica controllata o deumidificatori, l'eliminazione delle fonti di vapore (cucina, bagni senza aspirazione, stendino interno).
+- **Applicazioni:** Angoli nord di camere da letto, dietro gli armadi appoggiati ai muri freddi, sotto le finestre (soglie), nelle case ristrutturate con cappotto interno mal fatto.
+- **Vantaggi:** La cura della causa (ponte termico o umidità d'aria) elimina la muffa definitivamente; la VMC decentrata per singoli ambienti risolve i bagni e le cucine senza lavori impiantistici grandi; il cappotto esterno cura muffa e consumi insieme.
+- **Limiti e attenzioni:** I fungicidi e le pitture antimuffa senza cura della causa sono trucco temporaneo; l'isolamento interno sposta la superficie fredda: se mal fatto peggiora la muffa dietro l'armadio; le abitudini (stendere il bucato in casa) contano quanto l'edilizia.
+- **Costi ed economia:** Ordini di grandezza indicativi: VMC monoblocco a una stanza 300-900 €; deumidificatore portatile 150-400 €; cappotto locale di un angolo 50-100 €/m²; la verifica termigrometrica post-intervento 200-400 €.
+- **Caso tipico:** Una camera con muffa ricorrente 'dietro l'armadio' è stata curata spostando l'armadio di 5 cm dal muro, inserendo un pannello isolante riflettente dietro e installando la VMC singola nel bagno vicino: la muffa non è più tornata in 3 inverni.
+- **Normativa:** Il metodo di verifica della condensa secondo UNI EN ISO 13788; i requisiti di ventilazione degli ambienti secondo le norme nazionali di salubrità; la valutazione della muffa negli ambienti indoor secondo le linee guida sulla qualità dell'aria interna.
+- **Nota di cantiere:** Prima di imbiancare: misurare temperatura muro e rugiada, non indovinare; le cucine e i bagni devono espellere il vapore all'esterno con ventole dedicate o VMC; mai isolare internamente senza valutare la posizione dello strato di tenuta al vapore.
+
+### Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura
+
+**Categoria:** Recupero estetico · **Corso:** Risanamento e recupero edilizio
+
+La facciata è la pelle dell'edificio: intonaci degradata da umidità, sale e smog si risanano con il rispetto della compatibilità dei materiali. La regola del restauro: il nuovo intonaco deve 'comportarsi' come quello storico, altrimenti stacca.
+
+- **Tecnologia e criteri:** La scelta del risanamento parte dal supporto (calce antica vs malta cementizia); intonaci a base calce per i fabbricati storici (traspiranti, compatibili), intonaci deumidificanti per il risanamento da umidità di risalita, rasature mineriche per le finiture moderne; la rete di armatura dove il supporto è incoerente; le tinteggiature a calce o silossaniche a seconda del supporto e dell'esposizione.
+- **Applicazioni:** Risanamento di facciate di edifici storici e moderni, recupero di intonaci scrostati, tinteggiatura di intere cortine prima della vendita.
+- **Vantaggi:** L'intonaco a calce storicamente compatibile dura decenni senza staccare; l'intonaco deumidificante permette di finire prima dell'asciugatura completa del muro; la tinteggiatura silossanica protegge dal carico batterico e dallo smog.
+- **Limiti e attenzioni:** L'intonaco cementizio su muratura a calce stacca in cicli di umidità: la fretta di cemento è la causa n.1 dei distacchi; le tinteggiature acriliche su supporti umidi fanno bolle e muffa; le facciate vincolate richiedono l'approvazione della Soprintendenza sul colore e sul materiale.
+- **Costi ed economia:** Ordini di grandezza indicativi: intonaco a calce posato 35-70 €/m²; intonaco deumidificante 25-45 €/m²; tinteggiatura esterna 12-25 €/m²; il ponteggio per un edificio residenziale 15-40 €/m² di facciata.
+- **Caso tipico:** Un palazzo del centro storico con intonaci che si staccavano ogni 5 anni ha smesso di perdere pezzi dopo il rifacimento completo in malta a calce: il muro traspira come progettato 100 anni fa e l'intonaco si è adattato.
+- **Normativa:** La UNI EN 998-1 per le specifiche degli intonaci; le regole del restauro secondo il Codice dei Beni Culturali (D.Lgs 42/2004) per gli edifici vincolati; le schede dei produttori per le applicazioni su supporti particolari.
+- **Nota di cantiere:** Il supporto va bagnato (a giusta saturazione) prima dell'intonaco: il gancio meccanico dipende dall'umidità del contatto; i tempi di carbonatazione della calce sono lenti: non sigillare presto con pitture impermeabili; le finestre vanno protette in tinteggiatura: il silossanico macchia il vetro in modo permanente.
+
+### Recupero di sottotetti e interrati: altezze, luci e pratiche
+
+**Categoria:** Recupero spazi · **Corso:** Risanamento e recupero edilizio
+
+Recuperare il sottotetto o il seminterrato è il modo più rapido di guadagnare metri quadri senza cemento nuovo: le regole (altezze minime, luci, aerazione, accessi) decidono cosa si può fare e come si dichiara.
+
+- **Tecnologia e criteri:** Le regole generali (dalla normativa edilizia nazionale e dei regolamenti comunali): l'altezza minima degli ambienti abitabili (tipicamente 2,40-2,70 m a seconda dei regolamenti), i lucernai e le finestre per l'aerazione e l'illuminazione naturali nelle stanze abitabili, le scale con alzate e pedate regolari per l'accesso; l'isolamento del tetto come occasione obbligata (il sottotetto recuperato deve rispettare i valori di legge); i condotti dell'impiantistica nei recuperi di interrati: altezza tecnica da dedicare.
+- **Applicazioni:** Mansarde, sottotetti con travature a vista, seminterrati da trasformare in taverne o servizi, recuperi di locali tecnici.
+- **Vantaggi:** Il costo al m² del recupero è la metà della nuova costruzione; il sottotetto recuperato con il tetto isolato migliora tutto l'edificio (confort e bolletta); il valore dell'immobile sale più del costo dell'intervento.
+- **Limiti e attenzioni:** Le altezze giocate male lasciano ambienti 'giocattolo': la verifica si fa sullo spazio utile finito, non grezzo; gli interrati hanno rischio umidità e scarsa luce: le finestre a bocca di lupo non rendono abitabili le stanze; le pratiche comunali variano: il regolamento edilizio locale comanda.
+- **Costi ed economia:** Ordini di grandezza indicativi: recupero sottotetto 400-900 €/m² finito; recupero seminterrato 500-1.000 €/m² (con impermeabilizzazioni e luce); la pratica edilizia e la variazione catastale 1.000-3.000 €.
+- **Caso tipico:** Una mansarda 'non abitabile' per altezza è stata recuperata abbassando il solaio del piano sottostante di 20 cm e progettando le zone giorno nei colmi: 90 m² abitabili dove prima c'era un deposito.
+- **Normativa:** Il Testo Unico dell'edilizia (DPR 380/2001) per le definizioni e le procedure; i regolamenti edilizi comunali per altezze, superfici e luci; le prescrizioni antincendio e di accessibilità per i nuovi volumi abitati.
+- **Nota di cantiere:** Misurare l'altezza sul FINITO (massetto + controsoffitti + pavimento): il grezzo inganna; gli abbaini contano sul computo delle superfici: verificare come li considera il proprio Comune; l'isolamento del tetto si fa a regola d'arte nel recupero: l'occasione non si ripresenta.
+
+### Il cantiere di risanamento e i rifiuti: classificazione, formulari e costi reali
+
+**Categoria:** Rifiuti · **Corso:** Risanamento e recupero edilizio
+
+Ogni cantiere di risanamento produce tonnellate di rifiuti: mattoni, intonaci, coperture, e talvolta rifiuti speciali (amianto, piombo, idrocarburi). La gestione corretta è un obbligo di legge con formulari di identificazione e costi che vanno preventivati.
+
+- **Tecnologia e criteri:** La classificazione: rifiuti speciali non pericolosi (RINP: macerie, intonaci, legno non trattato) e pericolosi (RIP: vernici, solventi, amianto, oli); il formulario di identificazione del rifiuto (FIR) compilato dal produttore; la scelta: smaltimento in discarica autorizzata, recupero (il calcestruzzo frantumato come sottofondo) o riuso in cantiere (mattone pulito come fondo drenante); il registro di carico e scarico (obbligo per il produttore); il consorzio di riferimento (es. CO.RE.PA per l'edilizia).
+- **Applicazioni:** Cantieri di demolizione e risanamento, ristrutturazioni, bonifiche, cantieri con produzione superiore ai quantitativi domestici.
+- **Vantaggi:** La corretta gestione protegge da sanzioni pesanti (il traffico illecito di rifiuti è reato); il recupero dei materiali riduce i costi di smaltimento fino al 50% (il calcestruzzo frantumato in loco vale più del trasporto); la tracciabilità documentale è la difesa del costruttore.
+- **Limiti e attenzioni:** I costi di smaltimento sono reali e crescenti: il preventivo senza voce rifiuti è un errore di valutazione; i quantitativi stimati sbagliano sempre in difetto: prevedere il 15-25% in più; i rifiuti pericolosi richiedono tempi e siti dedicati: la logistica va pianificata.
+- **Costi ed economia:** Ordini di grandezza indicativi: smaltimento macerie RINP 30-70 €/t (variabile per regione e discarica); frantumazione e riuso in loco 8-15 €/t; il rifiuto pericoloso da 150 €/t in su a seconda della tipologia.
+- **Caso tipico:** Un cantiere di risanamento ha ridotto del 40% i costi di smaltimento frantumando il cls di demolizione e riutilizzandolo come sottofondo stradale dello stesso cantiere: documentato con FIR di recupero.
+- **Normativa:** D.Lgs 152/2006 (Testo Unico Ambientale) per la classificazione, i formulari e le responsabilità; le norme tecniche sulle macerie da costruzione e demolizione (NTCD); gli elenchi europei dei rifiuti (codici EER) per la classificazione.
+- **Nota di cantiere:** Il FIR si compila alla produzione, non alla fine: ogni cassonata ha la sua traccia; distinguere subito RINP e RIP: la commistione trasforma tutto in pericoloso; conservare copie di FIR e scontrini di pesata: l'onere della prova è di chi ha prodotto.
+
+### Il miglioramento sismico dell'esistente: rafforzare localmente o adeguare
+
+**Categoria:** Sisma · **Corso:** Risanamento e recupero edilizio
+
+Dopo un terremoto (o per prevenzione) gli edifici esistenti possono essere migliorati: il rafforzamento locale elimina le fragilità peggiori, l'adeguamento porta l'edificio ai livelli delle nuove costruzioni. Il percorso si decide con la valutazione strutturale.
+
+- **Tecnologia e criteri:** La valutazione di vulnerabilità sismica dell'esistente; le tecniche: tamponamenti rinforzati con reti e intonaci armati, collegamenti migliorati tra solai e muri (elementi di collegamento), rinforzo dei nodi con FRP, dissipatori per nuove costruzioni; la scelta rafforzamento vs adeguamento: il primo riduce il rischio a costi contenuti, il secondo richiede interventi globali e progetto completo; le agevolazioni fiscali per l'adeguamento sismico (riduzione del rischio sismico con classificazione finale).
+- **Applicazioni:** Edifici residenziali e pubblici nelle zone sismiche (quasi tutta l'Italia), palazzi con lesioni, scuole e uffici da mettere in sicurezza.
+- **Vantaggi:** Il rafforzamento locale costa la metà dell'adeguamento e può bastare per la vita residua dell'edificio; le agevolazioni fiscali attuali coprono una parte rilevante dell'investimento (percentuali sulle spese con classificazione del rischio); la sicurezza si dimostra con documenti certificati.
+- **Limiti e attenzioni:** L'adeguamento completo di un vecchio edificio può costare come ricostruirlo: va valutato con sangue freddo; i lavori su edifici occupati richiedono fasi e spostamenti; la burocrazia delle agevolazioni richiede professionisti esperti.
+- **Costi ed economia:** Ordini di grandezza indicativi: rafforzamento locale di un edificio 150-400 €/m²; adeguamento sismico completo 500-1.200 €/m²; la pratica per le agevolazioni (perizia giurata) 2-5k€.
+- **Caso tipico:** Un condominio di 8 famiglie ha fatto il rafforzamento locale con collegamenti solaio-muro e cerchiature: costo 220 €/m², agevolazioni recuperate in 5 anni e certificazione della classe di rischio aggiornata per tutte le unità.
+- **Normativa:** Le NTC2018 (D.M. 17/01/2018) per la valutazione e gli interventi sull'esistente; le agevolazioni fiscali per la riduzione del rischio sismico secondo la normativa di bilancio vigente (detrazioni con classificazione della pericolosità); la Circolare n. 7/2019 per le applicazioni.
+- **Nota di cantiere:** La classificazione del rischio PRIMA e DOPO è il documento chiave per le agevolazioni e per la vendita futura: conservarla; il cantiere su edificio occupato va pianificato per fasi con comunicazione continua ai condomini; le verifiche in corso d'opera (prove di tiro su collegamenti) documentano la qualità.
+
+### L'umidità di risalita capillare: come sale e come si risana
+
+**Categoria:** Umidità · **Corso:** Risanamento e recupero edilizio
+
+L'acqua del terreno risale nei muri per capillarità come in una cannuccia: i muri a terra delle case vecchie ne sono pieni, con efflorescenze, scrostamenti e muffa alla base. Il risanamento è uno dei lavori più richiesti dell'edilizia di recupero.
+
+- **Tecnologia e criteri:** La risalita capillare si misura con l'igrometro a profondità e il dosaggio gravimetrico; le soluzioni: il taglio murario meccanico con inserimento di barriera (ottima ma complessa), le iniezioni chimiche con pompa a bassa pressione nei fori a tamburo, i risanamenti con intonaci macroporosi deumidificanti che lasciano evaporare; la regola d'oro: la barriera va messa sotto la quota del pavimento finito, non solo al filo terra.
+- **Applicazioni:** Case antiche, ville di campagna, cantine e seminterrati, muri a confine, edifici in cui il livello stradale è salito nel tempo coprendo le zoccolature originali.
+- **Vantaggi:** Le iniezioni chimiche sono poco invasive e compatibili con i vincoli storici; il taglio meccanico è la barriera definitiva dove fattibile; gli intonaci deumidificanti permettono la messa in opera delle finiture prima che il muro sia asciutto (il muro si asciuga attraverso di loro).
+- **Limiti e attenzioni:** Il muro saturo ci mette mesi o anni ad asciugare dopo la barriera: la fretta rovina il risultato; le iniezioni fatte male (fori troppo distanti, prodotto sbagliato per il materiale) non funzionano; il rialzo della quota stradale esterno annulla la barriera interna.
+- **Costi ed economia:** Ordini di grandezza indicativi: iniezioni chimiche 30-60 €/ml di muro; taglio meccanico con barriera 80-150 €/ml; intonaco deumidificante 25-45 €/m² posato; il risanamento completo di una casa indipendente 5-20k€.
+- **Caso tipico:** Una casa di fine '800 con muri 'che non si asciugavano mai' è stata risanata con iniezioni + intonaco deumidificante: il disegno igrometrico a 12 mesi ha mostrato l'asciugatura completa dello zoccolo e la scomparsa delle muffe.
+- **Normativa:** Le prescrizioni e i prodotti secondo le norme di prodotto degli intonaci (UNI EN 998-1) e le schede tecniche dei sistemi di risanamento; per gli edifici vincolati il parere della Soprintendenza sul metodo; le verifiche di efficacia con misure igrometriche successive.
+- **Nota di cantiere:** La barriera va messa in continuità sotto i muri portanti interni, non solo sui perimetrali; gli intonaci deumidificanti non vanno mai chiusi con pitture impermeabili o carta da parati (l'acqua resta intrappolata); aspettare la stagione di asciugatura prima di giudicare il risultato.
+
+
 ## Serramenti, vetrate e porte
 
 *Corso `SERRAMENTI_E_VETRATE_PACK` — 13 voci*
@@ -3413,7 +3673,7 @@ Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + inte
 
 ## Tetti e coperture
 
-*Corso `TETTI_E_COPERTURE_PACK` — 7 voci*
+*Corso `TETTI_E_COPERTURE_PACK` — 13 voci*
 
 ### Camini, finestre da tetto e attraversamenti: i punti deboli
 
@@ -3430,6 +3690,51 @@ Ogni attraversamento della copertura è un potenziale punto di infiltrazione: ca
 - **Normativa:** Buona pratica costruttiva e istruzioni produttori; le verifiche in collaudo copertura.
 - **Nota di cantiere:** La domanda di cantiere: 'da dove passa l'acqua se batte qui?' — se la risposta è il silicone, fermare il lavoro.
 
+### Il sottotetto ventilato: la regola d'oro del tetto in legno
+
+**Categoria:** Coperture inclinate · **Corso:** Tetti e coperture
+
+Un tetto in legno dura un secolo se l'aria circola sotto la copertura: la ventilazione del sottotetto elimina il vapore che sale dagli ambienti e lo scarica prima che condensi sulle falde. La stratigrafia corretta è il segreto della longevità.
+
+- **Tecnologia e criteri:** Stratigrafia dall'interno: tavellone o listelli di controventatura, barriera al vapore lato caldo (freddo in montagna si valuta), capitolato: contro listelli che creano il canale di ventilazione, tegola di copertura; il colmo ventilato con coppi di ventilazione e presa d'aria alla gronda; nel tetto pianeggiante il principio è identico con cavedi.
+- **Applicazioni:** Tetti in legno nuovi e di ristrutturazione, coperture in laterizio e tegola portoghese, sottotetti abitabili e non.
+- **Vantaggi:** Il legno asciutto non marcisce: la ventilazione è più efficace di qualsiasi trattamento; il ventilato riduce anche il calore estivo (estate il camino d'aria disperde il calore sotto la copertura); la tegola dura di più su letto asciutto.
+- **Limiti e attenzioni:** I cavedi ostruiti da isolante sparso o teli mal posati annullano la ventilazione; nelle zone di neve alta serve la valutazione della ventilazione con manto nevoso; i fori di ventilazione mal schermati fanno entrare insetti e neve.
+- **Costi ed economia:** Ordini di grandezza indicativi: la corretta stratigrafia ventilata aggiunge 10-20 €/m² rispetto al tetto 'compattato' male; il costo di un rifacimento anticipato per marciume è 10-20 volte superiore.
+- **Caso tipico:** Un casale ristrutturato con tetto in legno 'a vista' e barriera al vapore posata a rovescio ha marcito le falde in 8 anni: il vapore interno condensava sul telo e gocciolava sulle travi. Il rifacimento con stratigrafia ventilata corretta ha risolto definitivamente.
+- **Normativa:** Le regole costruttive del legno secondo Eurocodice 5 (EN 1995) e NTC2018; le soluzioni di copertura secondo le schede di posa dei produttori di tegole e sistemi di sottotetto; la marcatura CE dei teli secondo le norme di prodotto applicabili.
+- **Nota di cantiere:** La regola pratica: l'aria deve entrare in gronda e uscire al colmo, mai il contrario; il telo posato deve essere lasciato traspirante nel verso giusto (le scritte 'alto/basso' vanno rispettate); le zone di intoppo tipiche sono i ricorsi e le faldicce con collettori: lì la muffa parte sempre prima.
+
+### Le coperture piane: guaine, vespai e il mito del tetto che non perde mai
+
+**Categoria:** Coperture piane · **Corso:** Tetti e coperture
+
+Il tetto piano è pratico e moderno ma perde al primo errore di posa: la guaina è una pelle continua che il sole degrada e le giunture tradiscono. Il principio cardine è il vespaiato: l'aria che scorre sotto la guaina la mantiene fredda e asciutta.
+
+- **Tecnologia e criteri:** Stratigrafia tipo: caldana, velo di alleggerimento o vespaiato con mattoni forati e camino di aspirazione, barriera al vapore (solo dove serve), isolante (XPS o lana), guaina: bituminosa armata con rivestimento in ardesiata o plastica (PVC-P/TPO), con giunture saldate ad aria calda; i cordoli di testa e i giunti di dilatazione sono i punti critici.
+- **Applicazioni:** Edifici moderni, terrazzi e lastrici solari, tetti tecnici di uffici, coperture con impianti sopraelevati.
+- **Vantaggi:** Il piano è sfruttabile: terrazze, impianti, pannelli FV; il vespaiato prolunga la vita della guaina riducendo le sollecitazioni termiche; le guaine sintetiche saldate garantiscono continuità se posate bene.
+- **Limiti e attenzioni:** Le guaine esposte hanno vita 15-30 anni: prima o poi vanno rifatte; i vespai ostruiti dal detrito bruciano la guaina dal basso; i passaggi impiantistici (staffe, chioccioline) forano la guaina migliaia di volte: ogni foro è un potenziale ingresso.
+- **Costi ed economia:** Ordini di grandezza indicativi: rifacimento completo del piano 60-120 €/m²; la sola guaina nuova su supporto sano 30-60 €/m²; la manutenzione programmata (giunti, pluviali) 3-8 €/m² l'anno.
+- **Caso tipico:** Un lastrico condominiale che perdeva a ogni temporale è stato risolto non con la quinta guaina ma con il ripristino del vespaiato (pulizia camini) e la risaldata delle giunture: i punti di ingresso erano le teste di staffa ossidate, non la guaina stessa.
+- **Normativa:** Le guaine bituminose seguono UNI EN 13707, le guaine in plastica UNI EN 13956, i sottotetti e accessori UNI EN 13859; la progettazione delle coperture piane segue le regole costruttive e le schede dei produttori; la tenuta all'acqua si verifica con prova di pioggia o controllo termografico.
+- **Nota di cantiere:** Il bollitore di prova (o l'attesa del temporale) non si scappa: collaudare prima di consegnare; le saldature delle giunture vanno verificate con spatola di controllo; mai posare guaine con umidità nel supporto: le bolle d'estate sono umidità intrappolata che spacca la guaina.
+
+### Il tetto verde: giardino pensile, fiorito o estensivo
+
+**Categoria:** Coperture verdi · **Corso:** Tetti e coperture
+
+La copertura vegetale trasforma il tetto piano in un giardino: isola, trattene l'acqua piovana, abbassa la temperatura estiva dell'edificio e allunga la vita della guaina. Richiede però una progettazione seria del peso e del drenaggio.
+
+- **Tecnologia e criteri:** Stratigrafia tipo: caldana, guaina di tenuta (doppia spesso), drenante a cassetta o in rotoli con veletta anti-radice, substrato di coltura (8-20 cm per estensivo, 30+ per intensivo), vegetazione: sedum e graminacee per l'estensivo, giardino vero per l'intensivo; l'irrigazione è necessaria almeno al primo impianto.
+- **Applicazioni:** Tetti di edifici residenziali e uffici, coperture di parcheggi interrati, giardini pensili, coperture che devono mitigare il calore urbano.
+- **Vantaggi:** La guaina sotto il verde dura il doppio perché protetta dai raggi UV e dagli sbalzi termici; la ritenzione dell'acqua piovana riduce il carico sulla fognatura; l'isolamento termico migliora di un ulteriore strato vivo; il valore estetico e immobiliare è immediato.
+- **Limiti e attenzioni:** Il peso: anche l'estensivo pesa 60-120 kg/m² a saturazione: il tetto va verificato; l'intensivo con alberi richiede strutture dedicate; le radici aggressive richiedono la veletta anti-radice; la manutenzione del verde è un impegno reale.
+- **Costi ed economia:** Ordini di grandezza indicativi: tetto verde estensivo 50-120 €/m² posato; intensivo/giardino 150-400 €/m²; l'irrigazione automatica aggiunge 10-25 €/m².
+- **Caso tipico:** Un edificio direzionale con tetto verde estensivo ha ridotto la temperatura superficiale estiva di oltre 20 °C rispetto al bitume: il carico di climatizzazione dell'ultimo piano si è abbassato in modo misurabile sulle bollette.
+- **Normativa:** La tenuta all'acqua della copertura secondo le norme di prodotto delle guaine (UNI EN 13707 / UNI EN 13956); i carichi secondo NTC2018; i dettagli costruttivi delle coperture a verde secondo le linee guida dei produttori di sistemi e le regole dell'arte.
+- **Nota di cantiere:** Mai piantare sul tetto senza veletta anti-radice: le radici trovano sempre il punto debole; il bordo della copertura a verde va tenuto libero dalla vegetazione con cordolo di ritegno; prevedere il punto di ispezione della guaina anche con verde: una perdita si cerca sotto il giardino, serve un piano.
+
 ### La copertura a falda: struttura, manto, ventilazione
 
 **Categoria:** Falda · **Corso:** Tetti e coperture
@@ -3444,6 +3749,21 @@ La copertura a falda (inclinazione minima 15-20° per tegole) protegge l'edifici
 - **Caso tipico:** Copertura rifatta con sottotetto ventilato: l'estate il sottotetto misura 8-10 °C in meno rispetto alla falda soleggiata; i 40 anni della copertura precedente (non ventilata) erano finiti in 25 per marciume delle orditure.
 - **Normativa:** Normativa tetti (NTC per carichi neve/vento); UNI sulle tegole e sulle costruzioni in legno; regolamenti edilizi (altezze, pendenze).
 - **Nota di cantiere:** La prima legge del tetto: l'acqua scende, non sale — ma risale per capillarità e per vento nei dettagli mal chiusi.
+
+### Il fotovoltaico sul tetto: compatibilità strutturale, tenuta e orientamento
+
+**Categoria:** Fotovoltaico su coperture · **Corso:** Tetti e coperture
+
+Il tetto è la sede naturale del fotovoltaico ma l'impianto aggiunge carichi, forature e ombreggiamenti: la compatibilità va valutata prima sul tetto vero (età, struttura, orientamento, ombre) e poi sul pannello.
+
+- **Tecnologia e criteri:** I sistemi: integrato (il modulo sostituisce la copertura) vs sopraelevato (staffe su guaina o falda); il carico tipico dell'impianto 10-15 kg/m² distribuito, le staffe concentrano carichi puntuali sulle travi; le forature di fissaggio richiedono guarnizioni certificate o sistemi zavorrati per tetti che non si possono forare.
+- **Applicazioni:** Ville e condomini con falde a sud, capannoni industriali (tetti piani con strutture a leggio), aziende con consumi diurni.
+- **Vantaggi:** Il sopraelevato sul tetto piano è spesso l'intervento più economico per superfici grandi; l'ombra dei pannelli protegge la guaina prolungandone la vita; il tetto a sud-est/sud-ovest produce quasi quanto il sud puro con inclinazione ottimizzata.
+- **Limiti e attenzioni:** I tetti vecchi vanno rifatti PRIMA del FV: smontare e rimontare costa; i comignoli, antenne e alberi vicini generano ombre che degradano la produzione (l'ombra su una stringa può dimezzarla); le strutture leggere vanno verificate per i carichi aggiuntivi e per il vento sulle vele dei pannelli.
+- **Costi ed economia:** Ordini di grandezza indicativi: impianto residenziale 6 kW chiavi in mano 7.000-12.000 € (2025-2026, in calo); su capannone industriale 0,8-1,3 €/W installato per grandi superfici; la verifica strutturale preventiva 300-800 €.
+- **Caso tipico:** Un capannone logistico ha installato 1 MWp su tetto piano con strutture zavorrate orientabili: nessuna foratura della guaina e verifica strutturale dell'orditura preliminare hanno permesso l'incentivo del Conto Termico 3.0 senza pratiche aggiuntive di messa in sicurezza.
+- **Normativa:** La connessione elettrica secondo CEI 0-21/CEI 0-16; gli incentivi secondo il Conto Termico 3.0 (D.M. 7 agosto 2025); la sicurezza strutturale secondo NTC2018 con le verifiche per carichi e azioni del vento sulle sopraelevazioni.
+- **Nota di cantiere:** Il sopralluogo misura anche le ombre: il cartellino di efficienza del modulo non conta se il tetto è ombreggiato dalle 15; le staffe vanno posate su orditura piena, mai solo su guaina; sul tetto piano valutare i corridoi di manutenzione tra i file di pannelli: lavarli ogni anno raddoppia la resa sulle falde basse.
 
 ### Gronde e pluviali: l'acqua che si porta via
 
@@ -3490,6 +3810,21 @@ La copertura è la superficie che perde e guadagna più calore (fino al 30% dell
 - **Normativa:** Normativa energetica (D.Lgs 192/2005, requisiti); UNI 11484? No: riferimento: prassi e certificazioni isolanti (marcatura CE).
 - **Nota di cantiere:** La copertura è il primo posto dove intervenire in un retrofit: rendimento massimo, invasività contenuta.
 
+### La lattoneria: grondaie, pluviali e tutti i particolari che fanno durare il tetto
+
+**Categoria:** Lattoneria · **Corso:** Tetti e coperture
+
+L'acqua che non viene raccolta bene rovina facciate e fondamenta: grondaie, pluviali, gocciolatoi e salienti (colmi, ricorsi) sono la 'plastica chirurgica' del tetto. Sono il 5% della copertura e il 50% dei problemi quando sbagliati.
+
+- **Tecnologia e criteri:** Grondaie in lamiera zincata preverniciata, rame, alluminio o PVC con sezioni da 25-33 cm; pluviali con curva di pendenza e tratto verticale; gocciolatoi di gronda in testa ai muri; camini con collare e bandella salva-facade; salienti e ricorsi con lastre sagomate a doppia scanalatura.
+- **Applicazioni:** Ogni copertura inclinata; particolari di attraversamento (camini, lucernari); facciate esposte a gocciolamento.
+- **Vantaggi:** Il rame dura come il tetto e non va mantenuto; le grondaie dimensionate bene non traboccano nemmeno in pioggia torrenziale; i particolari lattonieri ben fatti eliminano le macchie di facciata e le infiltrazioni ai camini.
+- **Limiti e attenzioni:** La lamiera zincata non verniciata dura 15-25 anni e poi va rifatta; i pluviali che scaricano sul marciapiede ghiacciano d'inverno; i salienti coperti con 'giunzioni di fortuna' in guaina espansa sono la causa n.1 di infiltrazioni ai ricorsi.
+- **Costi ed economia:** Ordini di grandezza indicativi: grondaia in lamiera posata 15-30 €/ml; pluviale 8-20 €/ml; i particolari lattonieri a giornata d'opera 300-600 €; il rame costa il doppio della lamiera e dura il triplo.
+- **Caso tipico:** Una villa con infiltrazioni persistenti al saliente nord 'risolte' tre volte con guaina ha smesso di perdere solo dopo la sostituzione del particolare lattoniero: il saliente era stato chiuso con morso e guaina invece che con lastre sagomate a doppia scanalatura.
+- **Normativa:** I sistemi di raccolta delle acque meteoriche seguono le norme di prodotto dei componenti metallici e le regole della buona costruzione; il dimensionamento della sezione di grondaia tiene conto della superficie di raccolta e dell'intensità pluviometrica locale.
+- **Nota di cantiere:** Regola pratica: la grondaia deve avere la pendenza verso i pluviali visibile (almeno 2-3 mm/m); i fori di scarico vanno lasciati liberi e non imboscati nell'intonaco; i camini senza collare di lattoneria sono infiltrazioni programmate: non si risolvono con il silicone.
+
 ### I manti di copertura: tegole, lastre metalliche, membrane
 
 **Categoria:** Manti · **Corso:** Tetti e coperture
@@ -3519,4 +3854,19 @@ Il tetto va ispezionato ogni anno (o dopo eventi eccezionali): lo smaltimento de
 - **Caso tipico:** Condominio con tetto ispezionato ogni anno: scoperta e riparata una alzatura di guaina da 40 cm per 180 €; il condominio vicino con la stessa guaina non ispezionata ha rifatto tre stanze per infiltrazioni: 12.000 €.
 - **Normativa:** Nessuna norma cogente; prassi assicurative (le polizze richiedono manutenzione).
 - **Nota di cantiere:** Da insegnare: il tetto non si vede dalla stanza, per questo si dimentica — finché piove dentro.
+
+### Il tetto sotto la neve: carichi, valanghe e guardie
+
+**Categoria:** Sicurezza inverno · **Corso:** Tetti e coperture
+
+La neve è il carico accidentale più severo per il tetto di montagna: il crollo sotto il carico nevoso è una delle cause principali di dissesto invernale. La stima del carico, la forma del tetto e le disposizioni di sicurezza decidono se il tetto regge.
+
+- **Tecnologia e criteri:** Il carico neve al suolo dipende dalla zona e dalla quota (mappe delle zone di neve della NTC2018 con i valori caratteristici); sul tetto contano accumulo, addensamento (neve bagnata pesa 2-3 volte la polvere), redistribuzione e gli accumuli locali a parapetti e camini; le guardie-neve retinute o a corpo tratteggiano le zone di stazionamento; le paraneve (gronda) proteggono il pubblico sotto le gronde.
+- **Applicazioni:** Coperture in zona montana e collina, pensiline, strutture leggere (tensostrutture, coperture in legno), edifici pubblici con accesso sotto la gronda.
+- **Vantaggi:** Un tetto progettato per la neve regge e non serve manutenzione d'emergenza; le guardie-neve ben posate trasformano lo scarico da valanga in scorrimento controllato; la forma con falde non troppo piane riduce gli accumuli.
+- **Limiti e attenzioni:** La neve bagnata di primavera può superare il carico di progetto delle coperture vecchie; le aggiunte di pannelli FV sul tetto cambiano la distribuzione dei carichi e vanno verificate; i tunnel di vento tra edifici producono accumuli anomali.
+- **Costi ed economia:** Ordini di grandezza indicativi: guardia-neve retinente posata 20-50 €/ml; la verifica strutturale del tetto esistente 500-1.500 €; il rafforzo delle strutture se insufficienti si quota a progetto.
+- **Caso tipico:** Una tensostruttura di una stazione sciistica è collassata sotto la neve bagnata di febbraio: il carico reale (neve bagnata accumulata contro il telo) era il doppio di quello stimato per neve fresca: le forme leggere richiedono la verifica del caso pessimo.
+- **Normativa:** Le azioni da neve secondo le Norme tecniche per le costruzioni (D.M. 17/01/2018) e l'Eurocodice 1 parte 1-3 (EN 1991-1-3) con le mappe di zonazione nazionale.
+- **Nota di cantiere:** Prima dell'inverno: verificare pulizia grondaie e camini di ventilazione (altrimenti la neve ristagna); togliere la neve dal tetto con attrezzatura plasticata mai a scalpello metallico; non si sgombera mai da soli sui tetti: si lavora con assicuratori e cestello quando possibile.
 

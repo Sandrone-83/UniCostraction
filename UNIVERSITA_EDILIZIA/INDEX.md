@@ -90,4 +90,11 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 
 ## Enciclopedia del sapere
 
-- [ENCICLOPEDIA.md](ENCICLOPEDIA.md) — portale enciclopedico con voci A-Z, articoli per macro-area, glossario e mappa del sapere
+- [ENCICLOPEDIA.md](ENCICLOPEDIA.md) — portale enciclopedico con voci A-Z, articoli per macro-area, glossario e mappa del sapere
+
+## Corsi del giro di approfondimento 3 (2026-10-01, bozza post-v1.0.0)
+
+- RISANAMENTO_E_RECUPERO_EDILIZIO_PACK (13 schede) — nuovo corso: diagnosi, umidità e muffa, bonifiche amianto/allagamenti, consolidamenti, miglioramento sismico, rifiuti, pratiche
+- Approfondimenti: TETTI_E_COPERTURE_PACK 7→13, PISCINE_E_WELLNESS_PACK 7→12, DATA_CENTER_E_CRITICAL_FACILITIES_PACK 7→12, OSPEDALI_E_HEALTHCARE_PACK 7→12, HOTEL_E_HOSPITALITY_TECNICO_PACK 7→11
+- Nuovo esame: ESAMI/RISANAMENTO (277 domande, chiavi riservate)
+
