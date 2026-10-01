@@ -18,3 +18,5 @@ Sistema Italia, fisco, marketing, coding: il corpo completo dell'impresa edile m
 - URBANISTICA_TERRITORIO_PACK (L2)
 - LEGISLAZIONE_PRIVATA_EDILIZIA_PACK (L2)
 - REAL_ESTATE_PACK (L2)
+## Corsi aggiunti (giro M)
+- GESTIONE_CONDOMINIO_PACK (L1-L2) — parti comuni, assemblea, millesimali, lavori e impianti centralizzati, contenzioso, supercondomini, amministratore, nuovi conflitti, acustica, manutenzione programmata, appalti

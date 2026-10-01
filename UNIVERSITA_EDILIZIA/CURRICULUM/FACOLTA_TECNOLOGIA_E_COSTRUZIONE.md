@@ -23,3 +23,5 @@ Tecnologie costruttive, materiali, posa, disegno CAD e BIM.
 
 ## Corsi aggiunti (giro L)
 - PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK (L2) — sistema costruttivo, elementi precompressi, pannelli e moduli, unioni, trasporti, marcatura CE, facciate, strutture ibride, economia
+## Corsi aggiunti (giro M)
+- EDILIZIA_AGRICOLA_ZOOTECNICA_PACK (L1-L2) — stalle, ricoveri, suinicoli, serre, silos, cantine, terrazzamenti, vincoli rurali, corrosione zootecnica, sostenibilità agricola, sicurezza

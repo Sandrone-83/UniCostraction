@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-340 voci, 15 corsi.
+351 voci, 16 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -344,6 +344,176 @@ Lo scan-to-BIM converte la nuvola di punti del rilievo laser in un modello BIM f
 - **Caso tipico:** Palazzo storico: HBIM con distacchi della malta e umidità mappati sulle pareti ha guidato la scelta di consolidamento senza demolizioni, risparmiando circa il 30% rispetto alla soluzione ipotizzata a tavolino.
 - **Normativa:** UNI 11337; linee guida HBIM per il patrimonio culturale (maturità varia, da verificare caso per caso).
 - **Nota di cantiere:** Da dichiarare sempre nel deliverable: data del rilievo, strumento, tolleranza di rappresentazione — l'as-built di oggi è il riferimento dei lavori di domani.
+
+
+## Edilizia agricola e zootecnica
+
+*Corso `EDILIZIA_AGRICOLA_ZOOTECNICA_PACK` — 11 voci*
+
+### Allevamenti suinicoli: capannoni, ventilazione e gestione dei liquami
+
+**Categoria:** Allevamenti suini · **Corso:** Edilizia agricola e zootecnica
+
+La costruzione degli allevamenti di suini: capannoni climaticamente controllati e rigidi requisiti ambientali.
+
+- **Tecnologia e criteri:** Capannoni a navata singola o doppia con aste di alimentazione e abbeveraggio, pavimentazioni in griglia parziale o totale (fessurati in cls o plastica) con canalette sottostanti; ventilazione meccanica forzata con ventilatori a parete o a tetto calibrati sui cicli di vita (maiali da 10-110 kg richiedono temperatura da 30 °C iniziale a 18-20 °C finale); riscaldamento con tappetini o radiatori per i suinetti; reparti di quarantena e isolamento; vasche e sili di stoccaggio dei liquami; impianti di lavaggio ad alta pressione con acque di prima pioggia raccolte a parte; biosicurezza con spalti, recinzioni e percorsi separati.
+- **Applicazioni:** Allevamenti di suini da ingrasso, da riproduzione, nursery e ingrasso; ristrutturazioni per il rispetto dei requisiti di benessere.
+- **Vantaggi:** Conversione efficiente del mangime, mortalità contenuta con clima controllato, gestione dei liquami centralizzata, conformità alla normativa di benessere.
+- **Limiti e attenzioni:** Odorosità molto sentita dalla vicinanza urbana, rischio epizootico alto che impone biosicurezza rigida, requisiti di distanza e di autorizzazione in regioni ad alta densità, investimenti continui su ventilazione e pavimentazioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: capannone suinicolo completo 250-500 €/m² con impianti; posta suinetto in nursery 150-300 €/posto; vasca liquami 20-60 €/m³.
+- **Caso tipico:** Ristrutturazione degli allevamenti italiani verso il benessere dei suini (coda intera, materiale manipolabile); cantieri di adeguamento delle pavimentazioni.
+- **Normativa:** Requisiti minimi di protezione dei suini secondo il decreto ministeriale vigente; D.Lgs 152/2006 (all. IV per gli allevamenti); disciplina delle aree sottoposte a vincolo di destinazione secondo normativa regionale (distanze).
+- **Nota di cantiere:** La ventilazione si dimensiona sul ciclo estivo critico: un capannone sottodimensionato in estate perde suinetti per stress termico; le canalette dei liquami si puliscono per fasi con sblocco degli animali.
+
+### Edilizia rurale e vincoli: costruire nel paesaggio agricolo
+
+**Categoria:** Ambiente · **Corso:** Edilizia agricola e zootecnica
+
+Le regole del costruire in campagna: fabbricati rurali, vincoli paesaggistici e pratiche semplificate.
+
+- **Tecnologia e criteri:** Riconoscimento dei fabbricati rurali strumentali (annessi) ai sensi della normativa catastale ed edilizia; interventi di recupero dei fabbricati rurali dismessi con finalità agrituristica e ricettiva; pratiche edilizie per gli annessi agricoli secondo il regolamento edilizio comunale e le eventuali semplificazioni per l'agricoltura; distanze dai confini e volumetrie riconosciute secondo la legge nazionale e i regolamenti locali; recupero dei borghi e dei cascinali con vincoli paesaggistici (autorizzazione paesaggistica semplificata); interconnessione con i piani paesaggistici regionali; segnalazione certificata di inizio attività dove prevista per gli interventi minori.
+- **Applicazioni:** Recupero di cascine e case coloniche, ampliamenti degli annessi di azienda agricola, agriturismi, fattorie didattiche, cantine di piccola dimensione.
+- **Vantaggi:** Valorizzazione del patrimonio rurale esistente senza consumo di nuovo suolo, possibilità di diversificazione dell'azienda agricola, pratiche più snelle degli interventi urbani dove la legge lo prevede.
+- **Limiti e attenzioni:** Vincoli paesaggistici e agro-forestali spesso molto stringenti, rischio di interpretazioni diverse tra comuni, l'abusivismo edilizio storico sul territorio agricolo è presidio dei controlli.
+- **Costi ed economia:** Ordini di grandezza indicativi: recupero cascinale con ristrutturazione pesante 800-1.800 €/m²; pratiche edilizie e paesaggistiche 2.000-15.000 € secondo complessità.
+- **Caso tipico:** Recupero di cascine lombarde e venete per agriturismi e aziende agricole; cantine e case coloniche recuperate nei territori vitati.
+- **Normativa:** DPR 380/2001 (Testo Unico Edilizia) per gli interventi sugli edifici rurali; D.Lgs 42/2004 per i vincoli paesaggistici; normativa catastale per la qualificazione dei fabbricati rurali (categorie catastali dedicate).
+- **Nota di cantiere:** Prima di acquistare un cascinale si verifica tutto: conformità urbanistica, catastale, vincoli (paesaggistici, idrogeologici, forestali) e situazione abitativa: il recupero economico nasce da una pratica pulita.
+
+### Cantine e stabilimenti vinicoli: edilizia e processo
+
+**Categoria:** Cantine · **Corso:** Edilizia agricola e zootecnica
+
+Costruire dove si trasforma l'uva: cantine con vinificazione, barriques e stabilimenti imbottigliamento.
+
+- **Tecnologia e criteri:** Locali di vinificazione con pavimentazioni in cls lavabili con pendenze e canalette di raccolta delle acque di processo; serbatoi in acciaio inox di capacità 10-500 hl con camicie di refrigerazione; locali a temperatura controllata per l'affinamento (barriques a 14-16 °C, umidità 70-80%); stabilimenti di imbottigliamento con linee automatiche, tunnel di pastorizzazione o microfiltrazione; spazi logistici di stoccaggio con scaffalature alte 6-10 m; locali di visita e sale degustazione con standard museali; impianti di depurazione delle acque di processo (fonti di inquinamento elevate nei periodi di vendemmia); sistemi di controllo accessi e tracciabilità.
+- **Applicazioni:** Cantine sociali e cooperative, aziende vinicole private, stabilimenti di imbottigliamento, distillerie e oleifici.
+- **Vantaggi:** Integrazione tra processo e spazio (flussi logistici corti), controllo termico per la qualità del vino, capacità di accoglienza turistica valorizzante, efficientamento energetico con refrigerazione centralizzata.
+- **Limiti e attenzioni:** Stagionalità intensa della produzione che stressa gli impianti, acque di processo da trattare in breve tempo, vincoli paesaggistici spesso pesanti sulle cantine di pregio, investimenti specifici del processo elevati.
+- **Costi ed economia:** Ordini di grandezza indicativi: edilizia cantina 800-1.500 €/m²; impianto di vinificazione e serbatoi 100-300 €/hl di capacità; impianto depurazione acque 100.000-500.000 €.
+- **Caso tipico:** Cantine di design in Toscana e Piemonte con architetture di pregio; ampliamenti di cantine sociali con logistica automatizzata.
+- **Normativa:** Requisiti igienico-sanitari per gli stabilimenti alimentari (Reg. CE 852/2004 e D.Lgs 193/2007 HACCP); gestione acque di processo secondo D.Lgs 152/2006; vincoli paesaggistici per le cantine in zone di pregio.
+- **Nota di cantiere:** La vendemmia non aspetta: gli impianti idraulici e di refrigerazione si collaudano prima di settembre; i getti vicino ai serbatoi in acciaio richiedono protezioni contro gli schizzi di cls.
+
+### Corrosione e materiali negli ambienti zootecnici
+
+**Categoria:** Materiali · **Corso:** Edilizia agricola e zootecnica
+
+L'ambiente aggressivo della stalla: ammoniaca, umidità e deiezioni contro i materiali da costruzione.
+
+- **Tecnologia e criteri:** Classificazione degli ambienti zootecnici come aggressivi per la corrosione (ammoniaca >20 ppm accelera la corrosione dell'acciaio zincato e del cls); protezioni per le strutture metalliche: zincatura a caldo pesante + verniciatura duplex, acciaio inox AISI 304/316 nei punti di contatto con le deiezioni; cls con basso rapporto a/c, copriferro maggiorato (4-5 cm), additivi idrorepellenti; pavimentazioni in cls con superfici antiscivolo e resistenza chimica alle deiezioni; rivestimenti epossidici per le vasche e le canalette; serramenti e grigliati in materiali non corrosivi; verifica periodica dello stato di corrosione nelle strutture di copertura.
+- **Applicazioni:** Stalle, capannoni suinicoli, locali di stoccaggio liquami, sale di mungitura, essiccatoi e opere di processo.
+- **Vantaggi:** Vita utile delle strutture moltiplicata con le protezioni corrette, manutenzione programmabile, igiene superiore con superfici lavabili e resistenti.
+- **Limiti e attenzioni:** Costi superiori dei materiali protetti, la manutenzione resta obbligatoria (lavaggi acidi controllati), il degrado nascosto delle strutture portanti richiede ispezioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: premium per materiali protetti +10-30%; rivestimento epossidico vasche 15-40 €/m²; ispezione corrosione periodica 500-2.000 €/anno per azienda.
+- **Caso tipico:** Capannoni zootecnici con strutture in acciaio zincato a spessore maggiorato; vasche liquami con rivestimenti in resina o acciaio inox.
+- **Normativa:** UNI EN ISO 12944 per la classificazione degli ambienti corrosivi e i cicli di protezione; norme sul cls per gli ambienti aggressivi (UNI EN 206 con classi di esposizione); verifiche di manutenzione programmata.
+- **Nota di cantiere:** Nella stalla la corrosione non è un dettaglio: le strutture di copertura si ispezionano ogni anno e i lavaggi disinfettanti aggressivi si scelgono compatibili con le protezioni.
+
+### Opere di sistemazione agraria: muri a secco e terrazzamenti
+
+**Categoria:** Opere di sistemazione · **Corso:** Edilizia agricola e zootecnica
+
+La costruzione tradizionale del paesaggio collinare: muri a secco e terrazzamenti per l'agricoltura eroica.
+
+- **Tecnologia e criteri:** Muri a secco in pietra locale (spessori alla base 40-60 cm, infittimento verso l'alto) costruiti a secco o con malta di calce nelle versioni restaurate; terrazzamenti con muri di sostegno in cls o cls di pietra vista, con lunghezze di 10-100 m e altezze 1-4 m; sistemi di drenaggio retro-murale con tubi forati e ghiaia per la pressione idraulica; canali di scolo superficiale lungo i cordoli; recupero e ricostruzione di muri a secco con cantieri scuola per la conservazione del paesaggio; collegamenti con reti di sentieri e strade poderali in massicciata o cls bianco.
+- **Applicazioni:** Aree collinari e montane vitate e olivate, paesaggi terrazzati (Cinque Terre, costiera amalfitana, Langhe), contrasto al dissesto idrogeologico.
+- **Vantaggi:** Conservazione del paesaggio e prevenzione del dissesto, manutenzione tradizionale a bassa tecnologia, valorizzazione turistica e culturale del territorio.
+- **Limiti e attenzioni:** Manodopera specializzata sempre più rara, costi di ricostruzione elevati per la manualità, degrado continuo se non mantenuti, vincoli paesaggistici molto stringenti.
+- **Costi ed economia:** Ordini di grandezza indicativi: ricostruzione muro a secco 150-400 €/m² di parete; terrazzamenti in cls 100-250 €/m²; cantieri scuola e manutenzione con personale formato 30-60 €/h.
+- **Caso tipico:** Recupero dei terrazzamenti delle Cinque Terre dopo l'alluvione del 2011 con cantieri scuola; ricostruzione dei muri a secco nelle Langhe e sulle coste di pregio.
+- **Normativa:** Vincoli paesaggistici (D.Lgs 42/2004) per i muri a secco storici; interventi di difesa del suolo secondo la normativa forestale e di sistemazione idraulico-forestale; PNRR e bandi per il dissesto idrogeologico e il paesaggio rurale.
+- **Nota di cantiere:** Il muro a secco è ingegneria senza cls: il drenaggio retro-murale e la selezione delle pietre decidono la vita del muro più della malta; la ricostruzione fedele chiede il cantiere scuola con i maestri murettori.
+
+### Serre per orticoltura e florovivaismo: strutture e climatizzazione
+
+**Categoria:** Serre · **Corso:** Edilizia agricola e zootecnica
+
+La serra come macchina agricola: struttura, copertura e controllo del clima interno.
+
+- **Tecnologia e criteri:** Strutture in profili zincati (zinco Z275) a capannone ad arco o a falde, con luce 8-12 m e altezza colmo 4-6 m; coperture in vetro (durata lunga, peso elevato), policarbonato alveolare o film plastici PE-EVA (rinnovo ogni 3-5 anni); sistemi di apertura laterali con tende o scorrevoli per la ventilazione naturale; schermature termiche interne; riscaldamento con caldaie a gas o biomassa, tubi di riscaldamento o termoconvettori; nebulizzazione per l'umidificazione estiva; raccolta acque piovane dalla copertura con grondaie e vasche; impianti di fertirrigazione goccia a goccia con sistemi di ricircolo delle acque di drenaggio.
+- **Applicazioni:** Orticoltura intensiva (pomodoro, cetriolo, peperone), florovivaismo, vivai, coltivazioni fuori stagione e produzione di piante madri.
+- **Vantaggi:** Resa produttiva per m² multipla rispetto al pieno campo, controllo qualitativo e fitosanitario, uso efficiente di acqua e fertilizzanti con fertirrigazione, produzione fuori stagione a prezzi migliori.
+- **Limiti e attenzioni:** Investimenti iniziali per gli impianti, consumi energetici per clima freddo, rischio botriti e malattie da eccesso di umidità, fine vita dei film plastici da gestire come rifiuti.
+- **Costi ed economia:** Ordini di grandezza indicativi: serra tecnologica completa 80-250 €/m²; serra semplice in film 30-80 €/m²; caldaia e riscaldamento 20-50 €/m²; rinnovo film 2-5 €/m².
+- **Caso tipico:** Aree serricole intensive della costa tirrenica, siciliana e pugliese; serra 'madre' per la produzione di propagazione nel florovivaismo.
+- **Normativa:** Requisiti di sicurezza per le strutture (norme UNI per le serre e carichi neve/vento regionali); gestione acque e fertilizzanti secondo D.Lgs 152/2006; normativa fitosanitaria per la produzione di piante.
+- **Nota di cantiere:** La serra si calcola sui carichi neve e vento della zona: la neve del 2017 e il vento hanno distrutto serre sottodimensionate; la pendenza minima della copertura per lo scolo è del 15-20%.
+
+### Sicurezza nei cantieri agricoli e zootecnici
+
+**Categoria:** Sicurezza · **Corso:** Edilizia agricola e zootecnica
+
+Il D.Lgs 81/08 applicato all'azienda agricola: rischi specifici e prevenzione.
+
+- **Tecnologia e criteri:** Rischi specifici dell'azienda agricola: attrezzature di lavoro (trattori con ROPS e cinture, verifiche periodiche), rimorchi e attrezzi con scudi e protezioni; rischio incendio e polveri nei silos e negli essiccatoi (classificazione zone ATEX dove necessario); rischio gas in ambiente confinato (vasche di liquami, pozzi neri) con misuratori e procedure di accesso; rischio zootecnico (animali, calci, malattie trasmissibili) con recinti e percorsi protetti; lavori in quota sui tetti (linee vita per la pulizia dei pannelli FV); rischio biologico con le procedure di igiene; formazione degli addetti alla conduzione delle macchine e alla sicurezza dei cantieri di ristrutturazione.
+- **Applicazioni:** Cantieri di ristrutturazione degli allevamenti, manutenzione degli impianti aziendali, cantieri agricoli in generale.
+- **Vantaggi:** Riduzione degli infortuni nei settori a più alta incidenza, conformità alle verifiche degli enti di vigilanza, continuità produttiva con personale formato.
+- **Limiti e attenzioni:** La frammentazione delle aziende rende la formazione costosa, i cantieri agricoli sono spesso senza PSC formale (verificare gli obblighi), la manutenzione è posticipata per la stagionalità.
+- **Costi ed economia:** Ordini di grandezza indicativi: formazione sicurezza 50-150 €/addetto/giornata; verifica periodica attrezzature 100-500 €/macchina; linee vita e DPI quota 300-2.000 €.
+- **Caso tipico:** Verifiche periodiche delle attrezzature agricole secondo il calendario del D.Lgs 81/08; cantieri di ristrutturazione delle stalle con PSC redatto dal committente.
+- **Normativa:** D.Lgs 81/2008 (Titolo I e norme per le attrezzature di lavoro e gli ambienti confinati); normativa sulla salute e sicurezza nei cantieri (Titolo IV) quando si tratta di lavori di ristrutturazione; accordi Stato-Regioni per la formazione.
+- **Nota di cantiere:** Le vasche di liquami sono ambienti confinati con rischio di morte per asfissia: accesso solo con misuratori, imbracature e presidio esterno; nessun ingresso per esperienza o coraggio.
+
+### Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo
+
+**Categoria:** Sostenibilità · **Corso:** Edilizia agricola e zootecnica
+
+Il cantiere agricolo come centrale energetica: integrazione di FV, biogas ed efficienza negli edifici rurali.
+
+- **Tecnologia e criteri:** Fotovoltaico su tetti di stalle e capannoni (potenze 20-200 kWp, tetti spioventi o piani con strutture a spessore), vantaggiosi per le grandi superfici disponibili; agrivoltaico su vigneti e pannelli rialzati dove la normativa lo consente; biogas da digestione di letame e colture dedicate (synergy: schede dedicate nel corso RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA); accumulo elettrico con batterie per l'autoconsumo degli essiccatoi e delle sale di mungitura; pompe di calore per l'acqua calda di processo e i locali di lavorazione; isolamento e ventilazione delle sale con recupero di calore; misuratori di consumo per la rendicontazione della sostenibilità (LCA dei prodotti agricoli); collegamento alle CER rurali per la vendita delle eccedenze.
+- **Applicazioni:** Aziende agricole con consumi elettrici e termici rilevanti, consorzi energetici rurali, cantine cooperative.
+- **Vantaggi:** Riduzione dei costi energetici dell'azienda, reddito dalle vendite di eccedenza e biometano, miglioramento del bilancio ambientale del prodotto, accesso a canali di vendita premium (filiera sostenibile).
+- **Limiti e attenzioni:** Investimenti complessi da pianificare con i cicli agricoli, gli incentivi cambiano a ogni manovra (verifica annuale), la gestione dei digestati e le emissioni richiedono competenze tecniche.
+- **Costi ed economia:** Ordini di grandezza indicativi: FV agricolo 800-1.200 €/kWp installato; batterie accumulo 300-600 €/kWh; recupero calore mungitura 3.000-10.000 €; CER rurale secondo la configurazione.
+- **Caso tipico:** Tetti fotovoltaici delle stalle cooperative; biogas di azienda in upgrading a biometano per l'autoconsumo dei mezzi agricoli.
+- **Normativa:** D.Lgs 28/2011 per le FER; regole GSE aggiornate per scambio, RID, CER e Tariffa Premio (verifica vigente); D.M. 7 agosto 2025 (Conto Termico 3.0) per pompe di calore ed efficienza; disciplina agrivoltaica secondo le regole attuali.
+- **Nota di cantiere:** L'energia agricola si pianifica insieme all'edilizia: la nuova stalla si predispone con portanti e cablaggi per il FV; il tetto si orienta e si calcola per i pannelli prima del progetto strutturale definitivo.
+
+### Stalle da carne e ricoveri per bovini all'aperto
+
+**Categoria:** Stalle · **Corso:** Edilizia agricola e zootecnica
+
+I ricoveri per la vita libera degli animali: piazzali, pannelli frangivento e capannoni di riparo.
+
+- **Tecnologia e criteri:** Sistemi di allestimento all'aperto (vita libera) con piazzali recintati, pannelli frangivento in cls o acciaio alti 2-2,5 m, capannoni di riparo con tettoia semplice o doppia falda, aste di abbeveraggio con abbeveratoi a zampillo, mangiatoie su piazzale con fondo in cls o in terra stabilizzata; capannoni con apertura laterale di almeno 2/3 della superficie per la ventilazione; sistemi di raccolta delle deiezioni nei piazzali con pendenze verso le canalette; punti di isolamento per gli animali malati.
+- **Applicazioni:** Allevamenti da carne (podolici, marchigiana, chianina), viticoltura mista, aziende con ampi piazzali disponibili.
+- **Vantaggi:** Costi di costruzione contenuti rispetto alla stalla piena, benessere compatibile con le razze autoctone a rusticità elevata, gestione semplice dei gruppi.
+- **Limiti e attenzioni:** Occupazione di suolo elevata, gestione del fango nei piazzali nelle stagioni piovose, flessibilità climatica limitata in inverno rigido.
+- **Costi ed economia:** Ordini di grandezza indicativi: tettoia di riparo 80-150 €/m²; piazzale recintato con pannelli 15-40 €/m lineare; complessivo vita libera 300-700 €/capo.
+- **Caso tipico:** Ricoveri per bovini da carne in pianura padana e zone appenniniche; ristrutturazioni di cascine con ricoveri rustici.
+- **Normativa:** Requisiti minimi di protezione dei bovini per i ricoveri all'aperto; distanze dagli insediamenti secondo normativa regionale per la limitazione degli odori; D.Lgs 152/2006.
+- **Nota di cantiere:** La vita libera richiede comunque il riparo e l'abbeveraggio garantiti: il capannone senza piazzale drenato diventa un fango d'inverno, con zoppie e mastiti.
+
+### Stalle da latte: requisiti strutturali e di benessere
+
+**Categoria:** Stalle · **Corso:** Edilizia agricola e zootecnica
+
+La costruzione della stalla moderna: box, mangiatoie, pavimentazioni e benessere della bovina da latte.
+
+- **Tecnologia e criteri:** Box individuali o group-housing (sistema brado) con cuccette da 1,0-1,2 m di larghezza per capo e lunghezza 2,1-2,3 m, divisori a tronchetti, materassini e lettiera; mangiatoie a corridoio 60-70 cm per capo in bovine da latte; pavimentazioni a griglia con zavorra gommata per ridurre infortuni alle mammelle; corsie di lavoro 3,5-4 m per i mezzi; saletta mungitura con ristagni e collettori a tenuta per il latte; impianto di ventilazione (tunnel o flussi incrociati); canalette di raccolta liquami con pendenze 1-1,5%; vasche di stoccaggio con volume per 120-180 giorni di produzione; altezza libera minima 2,2-2,5 m alla mangiatoia per l'areazione.
+- **Applicazioni:** Allevamenti bovini da latte nuovi e ristrutturati, convezione a group-housing, ampliamenti di capienza.
+- **Vantaggi:** Benessere conforme ai requisiti minimi di legge, riduzione del rischio mastiti e zoppie, efficiente raccolta dei liquami, qualità ambientale che si traduce in produzione.
+- **Limiti e attenzioni:** Investimenti importanti per capienza, odorigenicità da gestire con le distanze dagli insediamenti, normativa sanitaria in aggiornamento, coordinamento con la campagna di mungitura.
+- **Costi ed economia:** Ordini di grandezza indicativi: nuova costruzione stalla 1.200-2.500 €/m²; ristrutturazione box e pavimentazioni 300-800 €/capo; vasca liquami 20-60 €/m³.
+- **Caso tipico:** Conversione diffusa delle stalle italiane da fissa a group-housing con cuccette; cantieri di ristrutturazione a reparti con spostamento degli animali.
+- **Normativa:** Requisiti minimi di protezione dei bovini secondo il decreto ministeriale vigente; D.Lgs 152/2006 per gli allevamenti intensivi e la gestione dei liquami; Reg. CE 852/2004 per l'igiene nella produzione alimentare.
+- **Nota di cantiere:** La stalla si progetta intorno alla mungitura: ogni intervento avviene per reparti con spostamento degli animali; la continuità della raccolta lattea vincola i tempi di fermo della saletta.
+
+### Silos, essiccatoi e opere di stoccaggio agricolo
+
+**Categoria:** Stoccaggio · **Corso:** Edilizia agricola e zootecnica
+
+Conservare il raccolto: silos di cereali, essiccatoi e pavimentazioni di stoccaggio.
+
+- **Tecnologia e criteri:** Silos in acciaio zincato a fondo piatto o conico con capacità 100-5.000 t per cereali, muniti di coclea di estrazione, sistemi di ventilazione del grano (perdite di umidità e conservabilità), termometrie per il monitoraggio della temperatura del grano; torri di essiccazione con bruciatori a gasolio o biomassa (capacità 10-40 t/h di abbassamento umidità); pavimentazioni di stoccaggio in cls per mais, triticale e fieno con pendenze e bordi; magazzini per le balle e i macchinari con altezze 4-6 m; scale, passerelle e sistemi di trasporto meccanico (nastri, coclee); protezione antincendio e impianto di messa a terra per la polveri.
+- **Applicazioni:** Aziende cerealicole, foraggere, stabilimenti di mangimi, centri di raccolta cooperativi.
+- **Vantaggi:** Conservazione del raccolto senza perdite, gestione della filiera mangime in proprio, valorizzazione delle eccedenze, controllo della qualità commerciale.
+- **Limiti e attenzioni:** Investimenti elevati e uso stagionale, rischio incendio e polveri da gestire con formazione e manutenzione, corrosione degli sfaldamenti umidi del silo, necessità di logistica di trasporto interno.
+- **Costi ed economia:** Ordini di grandezza indicativi: silo metallico 150-400 €/t di capacità; torre essiccazione 150.000-600.000 €; pavimentazione stoccaggio 40-90 €/m².
+- **Caso tipico:** Silos diffusi nelle aziende cerealicole del nord Italia; essiccatoi collettivi delle cooperative per mais e riso.
+- **Normativa:** Normativa antincendio per i depositi di prodotti combustibili e polveri; marcatura CE dei silos e degli impianti di sollevamento; sicurezza macchine secondo direttiva macchine.
+- **Nota di cantiere:** La ventilazione del grano è la vita del silo: senza aerazione corretta il grano 'cuoce' nel silo con perdite di peso e di qualità; le coclee si verificano prima della campagna, non durante.
 
 
 ## Edilizia scolastica tecnica

@@ -182,3 +182,14 @@ Contenuto: 3 corsi nuovi (metodi costruttivi avanzati; prefabbricazione industri
 | L2 | Precauzione applicata | Riferimenti normativi il cui aggiornamento e' periodico (parametri forensi, prezzari, schede AeDES) citati in forma prudente senza numerazione puntuali non verificabili oggi | Regola del protocollo: senza fonte, nessuna numerazione precisa |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.
+
+## Giro M — 2026-10-01, bozza post-v1.1.0 (verso v1.2, NESSUN tag applicato)
+
+Contenuto: 3 corsi nuovi (edilizia agricola e zootecnica; gestione condominiale; dighe e sistemazioni idrauliche), 34 schede, 3 esami da 250 domande.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| M1 | Solo aggiunte, nessuna correzione | Contenuti classici verificabili: condominio (artt. 1117-1139 c.c., art. 68 disp. att. c.c., L. 220/2012, art. 9 L. 102/2013, UNI 10329, art. 8 D.Lgs 102/2014, D.M. 37/2008, artt. 1667-1669 c.c. gia' citati), idraulica (D.Lgs 152/2006, L. 36/1994, DPR 380/2001 Titolo IX gia' citato), agricoltura (Reg. CE 852/2004, D.Lgs 193/2007, D.Lgs 257/2006, L. 238/2004). Normativa speciale dighe e requisiti benessere animale citate in forma prudente (testo consolidato vigente) | Coerenza interna + testi normativi consolidati citati per esteso nelle schede |
+| M2 | Precauzione applicata | Norme con scadenze o dettagli che cambiano (parametri, prezziari, regole incentivi) citate con richiamo alla verifica vigente | Regola del protocollo: senza fonte, nessuna numerazione precisa |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.

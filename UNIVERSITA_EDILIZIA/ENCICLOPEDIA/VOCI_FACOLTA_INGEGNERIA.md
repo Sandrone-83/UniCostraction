@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-162 voci, 12 corsi.
+174 voci, 13 corsi.
 
 
 ## Carpenteria metallica e acciaio
@@ -589,6 +589,191 @@ Le tensostrutture coprono grandi luci con materiale teso (membrane PVC o PTFE, c
 - **Caso tipico:** Tensostruttura su centro sportivo: copertura di 60×90 m in 4 mesi di cantiere; la verifica della pretensione annuale ha mantenuto la forma perfetta dopo 8 anni e due nevicate eccezionali.
 - **Normativa:** Eurocodice 1 (azioni) e prassi per membrane; normativa antincendio delle membrane (reazione al fuoco certificata); specifiche produttori.
 - **Nota di cantiere:** Regola: in tensostruttura tutto sta nei dettagli di bordo e ancoraggio: il 90% dei guasti nasce lì.
+
+
+## Dighe e sistemazioni idrauliche
+
+*Corso `DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK` — 12 voci*
+
+### Acquedotti e reti idriche: adduttrici, serbatoi e ripartizione
+
+**Categoria:** Acque potabili · **Corso:** Dighe e sistemazioni idrauliche
+
+L'acqua che arriva in casa: le opere di captazione, adduzione e distribuzione.
+
+- **Tecnologia e criteri:** Opere di captazione sorgenti e pozzi con camere di raccolta e pre-filtrazione; adduttrici in pressione con tubi in ghisa sferoidale (DN 100-1000) o acciaio rivestito, lunghe decine di chilometri, con saracinesche e sfiati; serbatoi di accumulo e compenso (elevati, interrati, coperti) che garantiscono portata e pressione nei picchi; reti di distribuzione con tubi in PE (DN 63-315), nodi con pozzetti, valvole di sfiato e scarico; sistemi di misura delle portate e delle pressioni (telecontrollo) per la ricerca delle perdite; impianti di potabilizzazione con filtrazione, disinfezione (cloro, biossido) e fluorazione dove prevista; gestione delle perdite (leak detection) con correlatori e gas tracciante.
+- **Applicazioni:** Acquedotti comunali, reti regionali di adduzione, acquedotti rurali, reti industriali.
+- **Vantaggi:** Continuità del servizio idrico con i serbatoi di compenso, qualità garantita dalla potabilizzazione, riduzione delle perdite con il telecontrollo, standard di servizio definiti dalla legge.
+- **Limiti e attenzioni:** Investimenti continui per la sostituzione delle reti vecchie, la qualità dell'acqua si degrada nelle reti con le incrostazioni, le perdite sono difficili da trovare e costose, l'accesso alle condotte per manutenzione è complesso.
+- **Costi ed economia:** Ordini di grandezza indicativi: adduttrice in ghisa 100-300 €/m lineare secondo diametro; serbatoi 200-600 €/m³; gestione standard: la tariffa idrica copre i costi di gestione, manutenzione e ammortamento.
+- **Caso tipico:** Grandi adduttrici regionali di sussistenza (acquedotto pugliese, adduzioni alpine); programmi di sostituzione delle reti con il contrasto alle perdite.
+- **Normativa:** D.Lgs 152/2006 (requisiti delle acque destinate al consumo umano, Titolo III); L. 36/1994 (legge Galli) e normativa di recepimento per il servizio idrico integrato; standard tariffari secondo la normativa ARERA.
+- **Nota di cantiere:** Le condotte si collaudano con la prova di tenuta in pressione prima della consegna; i giunti della ghisa sferoidale si verificano uno a uno e la linea si sterilizza prima dell'immissione.
+
+### Arginature fluviali e di bonifica: la difesa delle pianure
+
+**Categoria:** Argini · **Corso:** Dighe e sistemazioni idrauliche
+
+I fiumi di pianura e la loro gabbia: argini in terra rinforzata e opere in cls.
+
+- **Tecnologia e criteri:** Argini tradizionali in terra con nucleo di miglioramento argilloso e manti erbosi, con sezioni a dorso d'asino o a doppia scarpa; argini in terra rinforzata (geogriglie e conci vegetali) per le ricostruzioni compatte; opere di rivestimento della sponda in cls, massi o gabbioni dove l'erosione è attiva; argini cellulari in cls per gli attraversamenti urbani; marciapiedi, guard rail e percorsi di manutenzione lungo gli argini; sistemi di monitoraggio delle infiltrazioni (tubi piezometrici, sonde) nelle arginature storiche; colmata e ricostruzione dopo le piene.
+- **Applicazioni:** Fiumi di pianura con centri abitati e campagne protette, reti di bonifica (Emilia-Romagna, Veneto, Polesine), attraversamenti urbani dei corsi d'acqua.
+- **Vantaggi:** Protezione di territori densamente antropizzati e produttivi, continuità delle infrastrutture di bonifica, valorizzazione degli argini come percorsi e parco fluviale.
+- **Limiti e attenzioni:** La sicurezza è relativa alla piena di progetto (le piene oltre soglia sono emergenza), la manutenzione delle sezioni erbose continua, gli argini storici possono nascondere problemi di filtrazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: ricostruzione argini 50-150 €/m lineare; opere di rivestimento 200-800 €/m lineare; manutenzione ordinaria 2.000-10.000 €/km/anno.
+- **Caso tipico:** La storia del Polesine e della grande piena del Po del 1951 come lezione di arginature; ricostruzioni in terra rinforzata dei tratti critici.
+- **Normativa:** Autorizzazioni per le opere lungo i corsi d'acqua pubblici; normativa sulla difesa del suolo, sui consorzi di bonifica e sulle reti irrigue; piani di gestione del rischio di alluvione secondo la direttiva europea.
+- **Nota di cantiere:** L'argine si tiene con la manutenzione: il taglio dell'erba, il controllo dei cunicoli animali e la pulizia degli scarichi sono la difesa della piena.
+
+### Vasche di laminazione e bacini di espansione
+
+**Categoria:** Bacini · **Corso:** Dighe e sistemazioni idrauliche
+
+L'alleato delle piene: bacini che trattengono l'onda di piena e la restituiscono lentamente.
+
+- **Tecnologia e criteri:** Bacini di laminazione in testata dei centri urbani con dighe a scorbie (threshold) o paratoie; vasche interrate o superficiali che riempiono nei picchi di piena (filling 1-6 ore) e svuotano in 12-48 ore attraverso scarichi regolati; sistemi di previsione pluviometrica e radar per l'ottimizzazione del volume disponibile; paratoie a ghigliottina azionate automaticamente; opere di collegamento con il collettore esistente (sfioratori, saracinesche); gestione del sedimento e del primo fiotto (first flush) per la qualità dell'acqua; integrazione con parchi urbani e uso a scopi ricreativi in condizioni ordinarie.
+- **Applicazioni:** Centri urbani con reti fognarie insufficienti alle piene intense, corsi d'acqua urbanizzati, bacini imbriferi con tempi di risposta rapidi.
+- **Vantaggi:** Riduzione della portata di piena che arriva al centro urbano, protezione con un volume noto e controllabile, valorizzazione urbana del bacino in condizioni ordinarie, gestione integrata con le previsioni meteo.
+- **Limiti e attenzioni:** Richiedono volumi notevoli in area urbana (costo del suolo), funzionano solo se le soglie di esercizio sono rispettate, la manutenzione di pulizia dopo gli eventi è onerosa, il primo fiotto inquinato va gestito.
+- **Costi ed economia:** Ordini di grandezza indicativi: vasche di laminazione interrate 200-600 €/m³ di volume; bacini a scerbata 30-100 €/m³; gestione e pulizia post-evento da decine di migliaia di euro.
+- **Caso tipico:** Vasche di laminazione dei grandi centri urbani europei; bacini di espansione realizzati nei parchi urbani italiani.
+- **Normativa:** Piani di gestione del rischio alluvioni e gli strumenti urbanistici per i volumi di laminazione; autorizzazioni per le opere idrauliche; gestione delle acque meteoriche di primo fiotto secondo D.Lgs 152/2006.
+- **Nota di cantiere:** La vasca di laminazione si progetta con l'evento di piena di progetto E il volume del primo fiotto da trattare: dimenticare il fiotto inquinato trasforma la vasca in fonte di inquinamento cronico.
+
+### Economia e programmazione delle grandi opere idrauliche
+
+**Categoria:** Economia · **Corso:** Dighe e sistemazioni idrauliche
+
+Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
+
+- **Tecnologia e criteri:** Stima dei costi per grandi opere con il breakdown: opere civili (diga, scarichi), impianti, espropri e mitigazioni ambientali, gestione del cantiere in montagna; programmazione pluriennale con i vincoli stagionali (imvasi, piene, innevamento); gestione delle interferenze con l'esistente (strade, linee elettriche, impianti idroelettrici in esercizio); finanziamenti pubblici e UE con i bandi e le rendicontazioni; le variabili di rischio (geologia, eventi meteo estremi, contenziosi) con le riserve di contingenza; il collaudo in fasi con l'imvaso graduale e l'esercizio di prova; i costi di esercizio e manutenzione pluriennali che pesano per decenni.
+- **Applicazioni:** Grandi dighe, acquedotti interregionali, opere di difesa del territorio, riqualificazioni fluviali.
+- **Vantaggi:** Investimenti che proteggono territori e produzioni per generazioni, finanziamenti pubblici che rendono sostenibili le opere, programmazione seria che riduce i rischi di stallo.
+- **Limiti e attenzioni:** Tempi lunghissimi (10-30 anni dalla pianificazione all'imvaso), i costi reali superano spesso i preventivi, il contenzioso ambientale e territoriale può bloccare, la manutenzione futura sottovalutata.
+- **Costi ed economia:** Ordini di grandezza indicativi: grande diga da centinaia di milioni a diversi miliardi; acquedotto interregionale 0,5-2 M€/km; la manutenzione pluriennale vale 1-3% l'anno del valore dell'opera.
+- **Caso tipico:** Grandi opere idrauliche del novecento italiano ancora in esercizio; nuove opere di laminazione e difesa finanziate con i fondi nazionali per l'idrogeologico.
+- **Normativa:** Pianificazione delle opere pubbliche secondo D.Lgs 36/2023; valutazioni ambientali (VIA/VAS) per le grandi opere; normativa sugli espropri per pubblica utilità; disciplina dei contratti di servizio idrico integrato.
+- **Nota di cantiere:** La grande opera idraulica si misura su due generazioni: chi la progetta non la vede finita; la documentazione tecnica completa è il regalo più grande a chi verrà dopo.
+
+### Fognature e depurazione: collettori, vasche e scarichi
+
+**Categoria:** Fognature · **Corso:** Dighe e sistemazioni idrauliche
+
+Il viaggio dell'acqua sporca: fognatura unita e separata, depurazione e scarico.
+
+- **Tecnologia e criteri:** Schemi di fognatura unita (tutto in un tubo) e separata (acque nere e bianche divise) con i collettori in cls o PVC (DN 200-1500); pozzetti di ispezione e caduta; impianti di sollevamento (pozzetti di sollevamento con pompe sommergibili) per i centri sotto il livello della fognatura; trattamenti primari (decantazione) e secondari (fanghi attivi, biofiltri) fino al rilascio con gli scarichi secondo i limiti di legge; vasche di prima pioggia (first flush) per i piccoli bacini urbanizzati; biogas dai fanghi con digestori e cogenerazione; gestione dei fanghi di depurazione (disidratazione, smaltimento o recupero agricolo secondo le norme); scarichi a mare o in corpo idrico con i diffusori sommersi.
+- **Applicazioni:** Reti fognarie comunali, impianti di depurazione (depuratori), depurazioni industriali preliminari, fognature parziali nei piccoli centri.
+- **Vantaggi:** Salute pubblica con la raccolta delle acque reflue, depurazione che rispetta i limiti di scarico, recupero di biogas e fanghi come risorse, protezione dei corpi idrici ricettori.
+- **Limiti e attenzioni:** Le reti separate convivono con gli allacciamenti sbagliati (acque bianche nelle nere), i depuratori richiedono competenze e personale, gli scarichi in mare sono sensibili, le vasche di prima pioggia riempiono rapidamente.
+- **Costi ed economia:** Ordini di grandezza indicativi: collettore in cls 100-400 €/m lineare; depurazione 500-2.000 €/abitante equivalente; gestione dei fanghi 30-80 €/t.
+- **Caso tipico:** Depuratori costieri con scarichi sommersi; campagne di verifica degli allacciamenti fognari nei centri storici.
+- **Normativa:** D.Lgs 152/2006 (scarichi e depurazione, con i regolamenti di recepimento delle direttive europee); normativa sulle acque reflue urbane e sulle fognature nelle zone sottoposte a vincolo; standard tariffari ARERA per il servizio idrico integrato.
+- **Nota di cantiere:** La fognatura funziona se gli allacci sono giusti: la verifica degli allacciamenti (bianche nelle nere) con le telecamere e i coloranti decide più della nuova condotta.
+
+### Opere di stabilizzazione dei versanti: dreni, palificazioni e consolidamenti
+
+**Categoria:** Frane · **Corso:** Dighe e sistemazioni idrauliche
+
+La difesa dal dissesto idrogeologico: ingegneria del versante per fermare la frana.
+
+- **Tecnologia e criteri:** Opere di drenaggio: dreni profondi (trincee drenanti con tubi forati e massa filtrante) per abbassare la falda nel versante, pozzi drenanti con pompe o drenaggi orizzontali (drains radenti); opere di sostegno: pali e palificate, muri di sostegno in cls o gabbioni, tirovalli; consolidamento del terreno: iniezioni, jet grouting, perde d'acqua di fondazione; opere di bioingegneria: idrosemina, stuoie, frangiflutti vegetali per i versanti superficiali; opere di copertura e canalizzazione delle acque meteoriche per non innaffiare il versante; monitoraggio del versante con estensimetri, inclinometri e radar.
+- **Applicazioni:** Frane in atto nei centri abitati, versanti sopra le infrastrutture stradali e ferroviarie, coste in erosione, siti post-crollo da riqualificare.
+- **Vantaggi:** Riduzione del rischio idrogeologico per le opere pubbliche e i centri abitati, integrazione tra opere strutturali e naturalistiche, efficacia scientificamente misurabile con il monitoraggio.
+- **Limiti e attenzioni:** I tempi di frana sono geologici e le opere rallentano ma non arrestano sempre, la manutenzione dei dreni è critica (si intasano), i costi sono elevati e il beneficio si valuta in decenni.
+- **Costi ed economia:** Ordini di grandezza indicativi: trincee drenanti 200-600 €/m lineare; consolidamenti con pali 500-1.500 €/m lineare; monitoraggio continuo 10.000-100.000 €/anno per sito complesso.
+- **Caso tipico:** Stabilizzazioni dei versanti delle grandi infrastrutture e dei centri storici a rischio; opere di bioingegneria sui versanti delle strade montane.
+- **Normativa:** Legge sulla difesa del suolo e la normativa forestale per gli interventi sui versanti; piani di assetto idrogeologico (PAI) con le classificazioni di rischio; autorizzazioni per le opere nelle aree vincolate.
+- **Nota di cantiere:** Il dreno si collauda misurando la portata drenata in secca: un dreno che non scarica è solo un tubo interrato; il monitoraggio pre-intervento guida la scelta tra le opere.
+
+### Opere di presa, scarichi e dissipatori
+
+**Categoria:** Opere di presa · **Corso:** Dighe e sistemazioni idrauliche
+
+L'apparato che regola l'acqua: prese, scarichi di superficie e di fondo, energodissipatori.
+
+- **Tecnologia e criteri:** Opere di presa a monte con paratoie o cancelli a ruota, bocche di presa per l'idroelettrico e l'irriguo; scarichi di superfondo per la regolazione dei deflussi e le piene (sezioni con paratoie piane o a segmento); scarichi di fondo (bottom outlets) per lo sgrondo del bacino e la qualità dell'acqua; canalizzazioni in galleria o a vista con curve di stretta; energodissipatori a salto di ski per restituire l'energia all'alveo senza erosione; paratie e manufatti di fondazione in cls con ancoraggi; sistemi di comando elettrico e di emergenza manuale.
+- **Applicazioni:** Ogni diga di una certa dimensione, opere di presa fluviale, derivazioni idroelettriche, scaricatori di piena.
+- **Vantaggi:** Controllo completo del bacino in ogni condizione idraulica, qualità dell'acqua gestibile per strati, sicurezza delle opere a valle con i deflussi controllati.
+- **Limiti e attenzioni:** Opere ad altissima responsabilità in caso di guasto (la paratoia bloccata in piena è un'emergenza nazionale), usura cavitativa nelle parti a alta velocità, manutenzione in ambienti difficili.
+- **Costi ed economia:** Ordini di grandezza indicativi: le opere di presa e scarico rappresentano 10-30% del costo di una grande diga; revisioni e collaudi periodici obbligatori.
+- **Caso tipico:** Scarichi di fondo di dighe storiche revisionati dopo decenni; energodissipatori a salto di ski delle dighe alpine.
+- **Normativa:** Normativa speciale dighe (prescrizioni di sicurezza, prove e collaudi periodici); norme idrauliche per gli scaricatori di piena; direttive sulle acque e le infrastrutture critiche.
+- **Nota di cantiere:** Ogni paratoia si collauda a vuoto e in carico prima dell'imvaso completo: il mancato collaudo delle paratoie di fondo è tra le cause più gravi delle emergenze dighe.
+
+### Sistemazione idraulica di torrenti: briglie, soglie e massi
+
+**Categoria:** Opere idrauliche · **Corso:** Dighe e sistemazioni idrauliche
+
+Guidare l'acqua in montagna: le opere di sistemazione che fermano l'erosione e l'alluvione.
+
+- **Tecnologia e criteri:** Soglie a pettine e a botti di sbarramento per la stabilizzazione del fondo; briglie in cls o pietrame a sezione variabile che riducono la pendenza del canale e trattengono i sedimenti; soglie gommate per la formazione di salti e la ricreazione ambientale; massi sciolti (rip-rap) e gabbioni per la protezione degli argini; transetti e opere di imbrigliamento per la canalizzazione; drenaggi di monte per abbassare la pressione dei terreni; boschi e opere di ingegneria naturalistica (prove di gerarchia con le opere strutturali); manutenzione ordinaria del materiale che si deposita a monte delle opere.
+- **Applicazioni:** Torrenti e fiumi montani soggetti a colate detritiche, valli con centri abitati a valle, opere di bonifica idraulico-forestale.
+- **Vantaggi:** Riduzione della velocità e dell'erosione, trattenimento dei detriti prima che raggiungano i centri abitati, ricostruzione ambientale delle sezioni fluviali, integrazione con l'ingegneria naturalistica.
+- **Limiti e attenzioni:** Le opere si riempiono di sedimenti e perdono efficienza senza manutenzione, possono deviare i danni a valle, la gabbionata si degrada nei climi aggressivi, il cantiere in alveo lavora con l'acqua che arriva.
+- **Costi ed economia:** Ordini di grandezza indicativi: briglie 3.000-20.000 €/m lineare; gabbionate 80-200 €/m² di parete; manutenzione ordinaria 5-15% del costo di costruzione l'anno.
+- **Caso tipico:** Sistemazioni post-alluvione dei torrenti liguri e veneti; reti di briglie nelle valli alpine per la difesa delle frazioni.
+- **Normativa:** Autorizzazioni per le opere in alveo e la disciplina delle acque pubbliche; piani di bacino e strumenti di pianificazione idraulica; normativa sulla difesa del suolo e la gestione del rischio idrogeologico.
+- **Nota di cantiere:** La briglia si progetta con il deflusso di piena e la soglia di tracimazione controllata: un'opera mal dimensionata di piena diventa un pericolo per i cittadini a valle.
+
+### Sicurezza delle dighe: classificazione, sorveglianza e piano di emergenza
+
+**Categoria:** Sicurezza · **Corso:** Dighe e sistemazioni idrauliche
+
+Il sistema di gestione della sicurezza: chi vigila, come si classifica, cosa si fa in emergenza.
+
+- **Tecnologia e criteri:** Classificazione delle dighe per altezza e capacità del bacino (classi I-IV con prescrizioni crescenti); sistema di sorveglianza con ispezioni periodiche (ordinarie e straordinarie), controllo strumentale (pendoli, convergenze, piezometri, stazioni di misura) e telecontrollo; gestione dell'imvaso con regole di riempimento e sgrondo; piano di emergenza con le zone di allagamento a valle (flood mapping), le sirene, le vie di fuga e le esercitazioni; responsabilità del gestore e del collaudatore; lezioni apprese dagli incidenti storici (Vajont 1963: frana nel bacino che ha generato l'onda di straripamento) integrate nella moderna gestione dei bacini.
+- **Applicazioni:** Tutte le dighe classificate, i bacini con insediamenti a valle, gli impianti idroelettrici e di irrigazione.
+- **Vantaggi:** Riduzione del rischio di rottura a livelli minimi con la gestione strumentale, la prevenzione attraverso il controllo del bacino (frane, sismi), preparazione dell'emergenza con le esercitazioni.
+- **Limiti e attenzioni:** La sicurezza costa in strumentazione e personale per sempre, il rischio residuo esiste e va comunicato, il degrado delle opere storiche richiede investimenti continui.
+- **Costi ed economia:** Ordini di grandezza indicativi: costi di sorveglianza e gestione della sicurezza 0,5-2% del valore di ricostruzione l'anno; strumentazione di nuova generazione da decine di migliaia di euro per diga.
+- **Caso tipico:** Vajont 1963 come lezione fondamentale di gestione del bacino; revisione della sicurezza delle dighe storiche italiane dopo gli eventi sismici.
+- **Normativa:** Normativa speciale sulle dighe: classificazione, requisiti di sicurezza, sorveglianza e piano di emergenza (testo consolidato vigente, con i regolamenti di dettaglio); direttive e linee guida ICOLD di riferimento internazionale.
+- **Nota di cantiere:** La diga non si consegna e basta: il collaudo definitivo avviene dopo anni di esercizio monitorato; il piano di emergenza si aggiorna con le mappe di rischio a valle.
+
+### Dighe a contrafforti e dighe in materiali sciolti
+
+**Categoria:** Tipi di diga · **Corso:** Dighe e sistemazioni idrauliche
+
+Le dighe dei grandi bacini in pianura: contrafforti in cls e dighe in terra o pietrame.
+
+- **Tecnologia e criteri:** Diga a contrafforti (buttress): paramento di monte verticale in cls sostenuto da contrafforti triangolari a valle che alleggeriscono la sezione rispetto alla gravità piena; diga in terra: nucleo argilloso impermeabile con scarpate di sabbia e ghiaia (pendenze 1:2-1:3), dreni e filtri orizzontali e verticali, prismi di monte e di valle; diga in pietrame con nucleo impermeabile o schermo di cls asfaltico; protezione delle scarpate di monte con pietrame o conglomerati contro l'onda e l'erosione; tettoia di collegamento con il corpo diga; scarichi di superfondo e di fondo.
+- **Applicazioni:** Grand bacini di laminazione e irriguo, valli larghe in pianura, altezze modeste (5-30 m) con lunghezze chilometriche.
+- **Vantaggi:** Adatte a fondazioni cedevoli e materiali locali, lavorazioni con macchine terra senza getti continui, allungabili e riparabili per fasi.
+- **Limiti e attenzioni:** Occupazione di suolo enorme, erodibilità delle scarpate da controllare per sempre, sensibilità alla colonizzazione animale dei dreni, la qualità del nucleo argilloso è critica.
+- **Costi ed economia:** Ordini di grandezza indicativi: 10-40 €/m³ di materiale piazzato; i costi di gestione delle scarpate e dei dreni durano per tutta la vita.
+- **Caso tipico:** Dighe in terra dei grandi bacini di irrigazione italiani e mediterranei; dighe a contrafforti del novecento.
+- **Normativa:** Normativa speciale dighe con prescrizioni per i materiali e la sorveglianza; UNI EN 1997 per le verifiche geotecniche; norme sugli argini e le opere di difesa del territorio.
+- **Nota di cantiere:** Le dighe in terra si costruiscono per strati compattati con il controllo in continuo della densità e dell'umidità: il nucleo argilloso non ammette 'abbastanza bene', ammette solo i valori del progetto.
+
+### Dighe a gravità e a gravità alleggerita
+
+**Categoria:** Tipi di diga · **Corso:** Dighe e sistemazioni idrauliche
+
+La diga più antica: il peso del cls che resiste alla spinta dell'acqua.
+
+- **Tecnologia e criteri:** Dighe a gravità in cls o muratura: il volume del corpo diga genera un peso sufficiente a controbilanciare la spinta idrostatica con la risultante che resta nel nocciolo centrale (no trazione); profilo triangolare con cresta minima 3-4 m e appoggio largo 0,7-0,9 volte l'altezza; variante alleggerita con grandi vuoti interni (camere di ispezione) per ridurre il cls del 30-40%; giunti di dilatazione verticali con waterstop; drenaggi di fondazione con tubi forati sotto il paramento di monte; gallerie di visita e scarichi di fondo.
+- **Applicazioni:** Valli strette e rocciose, altezze medie (10-60 m), bacini idroelettrici e di irrigazione.
+- **Vantaggi:** Robustezza e durata secolare, manutenzione contenuta, resistenza al sisma con progettazione moderna, spazi interni ispezionabili.
+- **Limiti e attenzioni:** Consumi enormi di cls, sensibilità alla qualità della roccia di fondazione, difficoltà di adeguamento in altezza, costi alti nei siti lontani dalle concreteiere.
+- **Costi ed economia:** Ordini di grandezza indicativi: costruzione 100-300 €/m³ di cls di diga; il cls rappresenta 40-70% del costo totale seconda accessibilità.
+- **Caso tipico:** Dighe a gravità alpine e appenniniche storiche in muratura rinforzate; grandi dighe a gravità alleggerite del novecento idroelettrico.
+- **Normativa:** Normativa speciale sulle dighe: classificazione per altezza e capacità, regole di sicurezza, prescrizioni di sorveglianza (testo consolidato vigente); NTC 2018 ed Eurocodici per le verifiche; normativa sulle opere che intralciano le acque pubbliche.
+- **Nota di cantiere:** Il getto della diga a gravità si pianifica in strati di 1,5-2,5 m con controllo della temperatura del cls (massa che matura): i giunti si trattano con waterstop e i drenaggi di fondazione si collaudano prima dell'imvaso.
+
+### Dighe ad arco e a cupola
+
+**Categoria:** Tipi di diga · **Corso:** Dighe e sistemazioni idrauliche
+
+La diga sottile che scarica le spinte sulla roccia delle sponde: l'arco e la cupola.
+
+- **Tecnologia e criteri:** Dighe ad arco a spinta singola o doppia (volta inclinata a monte) con spessori alla base di 5-15 m anche per altezze 100-200 m: la spinta si scarica prevalentemente sugli abutment (spallette) come compressione dell'arco; requisito fondamentale di roccia sana nelle spallette; profilo a doppia curvatura (arco verticale e orizzontale) per aumentare la rigidità; dighe a cupola (FRP shells) rare, sfruttano la geometria tridimensionale; giunti perimetrali e centrali di getto; misuratori di convergenza e pendoli per il monitoraggio della flessa; scarichi di superfondo con valvole a bicchiere o cono.
+- **Applicazioni:** Valli strette e profonde con pareti rocciose, grandi salti idroelettrici, altezze elevate con poco cls.
+- **Vantaggi:** Consumi di cls minimi per metro di altezza, spinte sulle fondazioni ridotte e prevalentemente verticali, architetture possenti nel paesaggio.
+- **Limiti e attenzioni:** Dipendenza assoluta dalla qualità delle spallette rocciose, sensibilità agli scavi e alle frane di rivestimento, controllo strumentale continuo necessario, sensibilità sismica da verificare di progetto.
+- **Costi ed economia:** Ordini di grandezza indicativi: il cls risparmiato si converte in costi di scavo e consolidamento delle spallette; costi da progetto a progetto nei grandi valichi.
+- **Caso tipico:** Grandi dighe ad arco europee e a doppia curvatura; la Hoover Dam come riferimento della diga ad arco-gravità; dighe a cupola sperimentali in alcuni paesi.
+- **Normativa:** Normativa speciale dighe con classificazione e prescrizioni; Eurocodice 8 per la sismica; linee guida internazionali ICOLD per il progetto e la sorveglianza.
+- **Nota di cantiere:** Prima dell'imvaso la diga ad arco si collauda con l'imvaso graduale e la lettura degli estensimetri: la prima stagione di riempimento è la prova definitiva della struttura.
 
 
 ## Edilizia industriale e logistica

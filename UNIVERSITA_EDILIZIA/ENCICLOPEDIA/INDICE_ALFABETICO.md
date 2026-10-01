@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-998 voci enciclopediche tratte da 61 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1032 voci enciclopediche tratte da 64 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -27,6 +27,8 @@
   Conservare il calore per separare produzione e utilizzo: dal serbatoio in acciaio ai PCM.
 - **Acqua refrigerata e torri di raffreddamento nei grandi edifici** — Grandi impianti · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Oltre una certa scala non si porta più refrigerante negli ambienti: si produce acqua refrigerata (chilled water) in centrale termica e la si distribuisce alle unità di trattamento dell'aria, con le torri di raffreddament…
+- **Acquedotti e reti idriche: adduttrici, serbatoi e ripartizione** — Acque potabili · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  L'acqua che arriva in casa: le opere di captazione, adduzione e distribuzione.
 - **Acustica percepita: il comfort che non si vede** — Acustica percepita · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il suono degli spazi: riverbero, isolamento, comfort acustico negli interni.
 - **Additivi per calcestruzzo** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -47,6 +49,8 @@
   L'agrivoltaico italiano ha un percorso di incentivi dedicato nato con il PNRR: contributo del 40% e tariffa per 20 anni, con regole operative del GSE aggiornate nel 2026. Conoscere le tappe evita di citare bandi chiusi e…
 - **Algebra di base: equazioni, proporzioni, percentuali** — Algebra · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Le operazioni che governano computi, scale, dosaggi e rendimenti.
+- **Allevamenti suinicoli: capannoni, ventilazione e gestione dei liquami** — Allevamenti suini · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  La costruzione degli allevamenti di suini: capannoni climaticamente controllati e rigidi requisiti ambientali.
 - **Alluminio estruso** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Profili estrusi con trattamento anodico o verniciato: leggero, inossidabile, per facciate e serramenti.
 - **Amianto e bonifica siti: il collegamento con la L. 257/1992** — Bonifica · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
@@ -61,6 +65,8 @@
   Impianto di sicurezza con sensori volumetrici, perimetrali, centrali, integrato alla domotica.
 - **Appalti e contabilità dei lavori per il geometra** — Appalti contabilita · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il geometra in cantiere: misure, contabilità, stime di lavori da eseguire.
+- **Appalti nel condominio: gare, contratti e gestione delle imprese** — Gare e appalti · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Come il condominio sceglie e gestisce le imprese: dalle gare alla direzione lavori.
 - **Architettura degli interni: lo spazio abitato** — Architettura interni · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Il progetto dentro l'edificio: distribuzione, materiali, luce, arredo fisso.
 - **Architettura del Novecento e contemporanea** — Storia contemporanea · corso: *Architettura* (`ARCHITETTURA_PACK`)
@@ -77,6 +83,8 @@
   Il tema centrale dell'edilizia italiana: la casa, i suoi standard, la sua evoluzione.
 - **Architettura sostenibile: il progetto clima-compatibile** — Architettura sostenibile · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Progettare con il clima, non contro: passivismo, energia quasi zero, adattamento.
+- **Arginature fluviali e di bonifica: la difesa delle pianure** — Argini · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  I fiumi di pianura e la loro gabbia: argini in terra rinforzata e opere in cls.
 - **Armadi a muro, cabine armadio e sistemi di contenimento** — Armadi e cabine · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Il contenimento su misura è il grande assente dalle planimetrie e la prima lamentela d'uso: armadi a muro (anta o patta), cabine armaggio (minimo 90×120 cm, meglio 120×160), guardaroba con configurazioni interne (doppie …
 - **Armamento ferroviario con massicciata** — Armamento tradizionale · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -105,6 +113,8 @@
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
 
 ## B
+- **B&B, affitti brevi, ricariche auto e i nuovi conflitti condominiali** — Vita quotidiana · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Le nuove frontiere del condominio: uso turistico, mobilità elettrica e tecnologia in casa.
 - **BACnet** — BUS edifici terziari · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo per l'automazione di edifici terziari (HVAC, centrali termiche, BMS).
 - **Barriera acustica (massa-smorzamento-massa)** — Isolanti acustici · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -169,6 +179,8 @@
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
+- **Cantine e stabilimenti vinicoli: edilizia e processo** — Cantine · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  Costruire dove si trasforma l'uva: cantine con vinificazione, barriques e stabilimenti imbottigliamento.
 - **Carpenteria metallica leggera per costruzioni a secco** — Carpenteria leggera · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Profili sottili zincati per contropareti, contropavimenti, tetti e strutture leggere.
 - **Carta da parati e rivestimenti murali** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -271,6 +283,8 @@
   Tegola in laterizio a canale: la copertura mediterranea per eccellenza.
 - **Cordolo in cls** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Elementi in cls prefabbricato per bordi di marciapiedi e aiuole: il confine urbano standard.
+- **Corrosione e materiali negli ambienti zootecnici** — Materiali · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  L'ambiente aggressivo della stalla: ammoniaca, umidità e deiezioni contro i materiali da costruzione.
 - **Cos'è il gusto: regole, proporzione, gerarchia visiva** — Teoria del gusto · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   Il gusto non è solo soggettività: si regge su principi riconoscibili — proporzione (sezione aurea, rapporti armonici), gerarchia visiva (cosa si vede per primo), ritmo e ripetizione, contrasto e analogia, bilanciamento d…
 - **Costi e tempi della bonifica: ordini di grandezza per il preventivo edilizio e il rischio commessa** — Economia · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
@@ -307,6 +321,12 @@
   Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica periodica alle grandi imprese e alle imprese energivore (scadenza dicembre degli anni dispari), con obbligo alternativo per piccole e medie (…
 - **Diagnosi preliminare: rilievo stratigrafico e indagini diagnostiche** — Diagnostica preliminare · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   La diagnosi preliminare ricostruisce la storia costruttiva dell'edificio attraverso il rilievo stratigrafico delle superfici, la lettura delle discontinuità murarie e le indagini non distruttive o micro-intrusive. Prove …
+- **Dighe a contrafforti e dighe in materiali sciolti** — Tipi di diga · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  Le dighe dei grandi bacini in pianura: contrafforti in cls e dighe in terra o pietrame.
+- **Dighe a gravità e a gravità alleggerita** — Tipi di diga · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  La diga più antica: il peso del cls che resiste alla spinta dell'acqua.
+- **Dighe ad arco e a cupola** — Tipi di diga · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  La diga sottile che scarica le spinte sulla roccia delle sponde: l'arco e la cupola.
 - **Dighe, invasi e opere di presa** — Opere idrauliche · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Digital twin e gestione: il modello dopo il cantiere** — Digital twin · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -347,10 +367,14 @@
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
+- **Economia e programmazione delle grandi opere idrauliche** — Economia · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Quando la robotica ripaga: il quadro economico realistico.
 - **Edilizia residenziale pubblica e housing sociale** — Edilizia pubblica · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   L'edilizia pubblica abitativa è tornata centrale: ERP (edilizia residenziale pubblica) con assegnazione a canone calmierato, housing sociale (bandi regionali e nazionali con risorse PNRR), riqualificazione del patrimonio…
+- **Edilizia rurale e vincoli: costruire nel paesaggio agricolo** — Ambiente · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  Le regole del costruire in campagna: fabbricati rurali, vincoli paesaggistici e pratiche semplificate.
 - **Elementi per solai latero-cementizi** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocchi in laterizio o polistirolo da interporsi tra i nervature dei solai: alleggeriscono e collaborano.
 - **Elettrificazione ferroviaria: 3 kV DC e 25 kV AC** — Elettrificazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -403,6 +427,8 @@
   Telaio in legno massello o lamellare, eventualmente rivestito in alluminio esterno: il serramento di pregio.
 - **Finestra in PVC** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Telaio in PVC con profili multi-camera: il serramento economico isolante standard.
+- **Fognature e depurazione: collettori, vasche e scarichi** — Fognature · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  Il viaggio dell'acqua sporca: fognatura unita e separata, depurazione e scarico.
 - **Fondazioni esistenti: diagnosi, rinforzo e recupero** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   Le fondazioni esistenti si verificano e rinforzano con tecniche non invasive o minimamente invasive: micropali, radicazioni, inghisaggi, ampliamenti di zoccolo, sotto-fondazioni, getti di alleggerimento.
 - **Fondazioni: superficiale, pali, micropali, miglioramenti** — Fondazioni · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -693,8 +719,12 @@
   Il computo metrico estimativo è l'elenco delle quantità di lavoro con i prezzi unitari e i totali: è la base dell'offerta e del pagamento a misura; le regole di misurazione devono essere dichiarate e coerenti con il capi…
 - **Il condizionatore (split): anatomia del ciclo frigorifero** — Climatizzatori · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Come funziona la macchina che raffresca: compressore, condensatore, espansione, evaporatore.
+- **Il condominio nel codice civile: parti comuni, assemblea e regolamenti** — Quadro normativo · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Le basi giuridiche del condominio: cosa sono le parti comuni, come funziona l'assemblea e i due regolamenti.
 - **Il condominio: riforma 2012, assemblea, ripartizioni** — Condominio · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   Il condominio negli edifici è regolato dalla riforma del 2012 (L. 220/2012): assemblea con maggioranze (500 millesimi per la maggioranza semplice, 2/3 del valore per le opere straordinarie), lavori straordinari obbligato…
+- **Il contenzioso condominiale: morosità, lavori e diffida dell'amministratore** — Contenzioso · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Come si gestiscono i conflitti nel condominio: dai morosi alle assemblee contestate.
 - **Il Conto Termico 3.0: la misura e i numeri (verificati ottobre 2026)** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Il Conto Termico 3.0 è il contributo a fondo perduto del GSE per interventi di efficienza energetica e rinnovabili termiche negli edifici esistenti: istituito dal D.M. 7 agosto 2025, in vigore dal 25 dicembre 2025, con d…
 - **Il contratto di appalto privato domestico: equilibrio e chiarezza** — Contratto privato · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
@@ -875,6 +905,8 @@
   Il rumore di calpestio è la struttura-borne sound generata dai passi: si attutisce con massetti galleggianti (strato elastico sotto il massetto), tappeti flottanti e giunti perimetrali; il DPCM richiede L'nT,w ≤ 58 dB tr…
 - **Il rumore esterno: facciate, serramenti e barriere** — Esterno · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   La protezione dal rumore esterno si ottiene con la facciata (muratura, serramento, vetro, cassonetto, angoli ciechi) progettata sul rumore della classe acustica dell'area; le barriere stradali attenuano la propagazione i…
+- **Il ruolo dell'amministratore di condominio: compiti, responsabilità e organizzazione** — Amministrazione · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  La figura chiave: cosa deve fare l'amministratore e dove risponde dei danni.
 - **Il sistema costruttivo a prefabbricati: logica e campi d'impiego** — Sistema costruttivo · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   L'industrializzazione dell'edilizia: elementi prodotti in stabilimento e assemblati in cantiere.
 - **Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
@@ -909,6 +941,8 @@
   Corpi illuminanti a LED: plafoniere, downlight, strisce, proiettori: la luce efficiente e di design.
 - **Impermeabilizzanti liquidi per zone umide, balconi e terrazzi** — Impermeabilizzazioni · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatura in bagni, balconi e terrazzi. Errore tipico: saltare fasce e angolari nei raccordi parete-pavimento e non rispettare gli spessori per mano…
+- **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
 - **Impianto a sprinklers** — Idraulica antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Spegnimento automatico a pioggia: la protezione antincendio più efficace al mondo.
 - **Impianto di terra (SG)** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1327,6 +1361,8 @@
   Lamiere di rame, zinco-titanio o alluminio preverniciato per gronde, camini e dettagli di copertura.
 - **Lavorazioni di superficie: taglio, levigatura, lucidatura, bocciardatura, fiammatura** — Lavorazioni - superfici · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   La finitura superficiale determina aspetto, scivolosità e resistenza della pietra: dalla superficie segata grezza alla lucidatura a specchio, passando per levigatura, bocciardatura, fiammatura e spazzolatura. Ogni proces…
+- **Lavori alle parti comuni: facciate, tetti e cappotto condominiale** — Lavori comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Il cantiere condominiale: ristrutturare parti comuni con la delibera giusta e la sicurezza di cantiere.
 - **Lavori in quota: cadute dall'alto, DPI anticaduta e linee vita** — Lavori in quota · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   La caduta dall'alto resta una delle cause principali di infortunio mortale in edilizia: banchetti di copertura, scale, scalette, mezzi di sollevamento e lavori su ponteggi o piattaforme sono le sedi tipiche. La prevenzio…
 - **Layout robotizzato dal modello BIM** — BIM-to-Robot · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1605,6 +1641,8 @@
   I mezzi di movimentazione terra (escavatori, pale gommate, caricatrici, dumper, automezzi) sono responsabili di una quota significativa degli infortuni da investimento e schiacciamento in cantiere. La gestione sicura ric…
 - **Microtunneling e perforazioni guidate (tecnologie no-dig)** — No-dig · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   La posa di condotte sotto le superfici senza aprire scavi: microtunneling e perforazioni.
+- **Millesimali, ripartizioni e tabelle di riparto** — Gestione tecnica · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  La matematica del condominio: come si formano le tabelle millesimali e come si ripartiscono le spese.
 - **Mini-idroelettrico: schemi e turbine** — Mini-idro · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Produzione idroelettrica su piccola scala con turbine idrauliche adatte a portate e salti diversi.
 - **Modbus** — BUS industriale · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -1629,6 +1667,12 @@
   Come rendere conforme un cantiere con robot e macchine automatizzate.
 
 ## O
+- **Opere di presa, scarichi e dissipatori** — Opere di presa · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  L'apparato che regola l'acqua: prese, scarichi di superficie e di fondo, energodissipatori.
+- **Opere di sistemazione agraria: muri a secco e terrazzamenti** — Opere di sistemazione · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  La costruzione tradizionale del paesaggio collinare: muri a secco e terrazzamenti per l'agricoltura eroica.
+- **Opere di stabilizzazione dei versanti: dreni, palificazioni e consolidamenti** — Frane · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  La difesa dal dissesto idrogeologico: ingegneria del versante per fermare la frana.
 - **Opere marittime e subacquee: cassoni, pali e getti subacquei** — Costruzione in mare · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Costruire nel mare e nei corsi d'acqua: opere a riva, cassoni fondati e fondazioni marine.
 - **Opere marittime: porti, dighe foranee, coste** — Porti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -1675,6 +1719,8 @@
   Verificare cosa dice il catasto e cosa c'è in realtà: la perizia per regolarizzare.
 - **Persiane, tapparelle, frangisole: l'ombra come prestazione** — Oscuranti · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Gli oscuranti esterni sono la prima schermatura solare: persiane (tradizione italiana, ottime in estate), tapparelle (comode, isolano), frangisole orientabili (prestazionali, architettonici), tende da sole per esterni; l…
+- **Piano manutentivo condominiale e ammodernamento energetico** — Manutenzione programmata · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Dal guasto all'emergenza alla manutenzione programmata: il piano che allunga la vita dell'edificio.
 - **Piastrella ceramica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Ceramica a pasta rossa o bianca (non vetrificata): il rivestimento bagno/cucina classico: economica e decorativa.
 - **Piattaforme elevatrici e montacarichi: il verticale dove l'ascensore non entra** — Soluzioni compatte · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
@@ -1847,6 +1893,8 @@
   Piattaforme software open per comandare robot eterogenei in cantiere.
 - **Rubinetteria e miscelatori** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rubinetti, miscelatori, termostatiche e doccioni: il punto di contatto con l'acqua.
+- **Rumore tra unità, decoro delle parti comuni e qualità della vita** — Acustica e decoro · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  Il condominio come ambiente di vita: acustica, decoro e gestione dei disturbi.
 
 ## S
 - **Saldature strutturali: processi, qualifica e difetti** — Saldature · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -1883,14 +1931,20 @@
   Gli occhi dell'impianto: presenza, movimento, luce, temperatura, umidità, CO2, qualità aria.
 - **Serbatoi e opere di contenimento** — Serbatoi · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idrostatica, la tenuta, la pulizia e la sicurezza; materiali: calcestruzzo (getto in opera o prefabbricato), acciaio, GRP (plastica rinforzata).
+- **Serre per orticoltura e florovivaismo: strutture e climatizzazione** — Serre · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  La serra come macchina agricola: struttura, copertura e controllo del clima interno.
 - **Sezioni, spaccati e dettagli costruttivi** — Sezioni e spaccati · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   La sezione è la vista dell'oggetto 'tagliato' lungo un piano di taglio: mostra ciò che le viste esterne nascondono (anime, stratigrafie, connessioni). Lo spaccato è una sezione applicata all'edificio; il dettaglio è un i…
 - **Sforzo normale, taglio, momento flettente: la trinità del calcolo** — Sforzi · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le tre sollecitazioni di base e le loro formule di verifica.
+- **Sicurezza delle dighe: classificazione, sorveglianza e piano di emergenza** — Sicurezza · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  Il sistema di gestione della sicurezza: chi vigila, come si classifica, cosa si fa in emergenza.
 - **Sicurezza ferroviaria: CSM, certificazione e Agenzia ERA** — Sicurezza del sistema · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Il quadro della sicurezza ferroviaria europea e nazionale: regole, certificazioni, indagini.
 - **Sicurezza informatica dell'edificio smart** — Cybersecurity · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Proteggere l'edificio connesso: reti, dispositivi, cloud, accessi remoti.
+- **Sicurezza nei cantieri agricoli e zootecnici** — Sicurezza · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  Il D.Lgs 81/08 applicato all'azienda agricola: rischi specifici e prevenzione.
 - **Sicurezza nelle grandi opere e nei cantieri sotterranei** — HSE opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Il cantiere delle grandi opere: rischi specifici e cultura della sicurezza.
 - **Sifoni e valvole antiriflusso** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1899,16 +1953,26 @@
   Sigillatura con prodotti elastici di giunti di frazionamento, raccordi tra materiali e perimetri di serramenti. Errore tipico: adesione su tre lati (il sigillante si strappa al primo movimento) e giunti riempiti a tutta …
 - **Silicone e sigillanti elastici** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Sigillanti elastomerici (silicone, MS-polimero, poliuretano) per giunti di movimento: estetici e duraturi.
+- **Silos, essiccatoi e opere di stoccaggio agricolo** — Stoccaggio · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  Conservare il raccolto: silos di cereali, essiccatoi e pavimentazioni di stoccaggio.
 - **Sistema internazionale e unità di misura in edilizia** — Unita di misura · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Le unità fondamentali e come si combinano nel lavoro quotidiano: senza queste, ogni formula è pericolosa.
+- **Sistemazione idraulica di torrenti: briglie, soglie e massi** — Opere idrauliche · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  Guidare l'acqua in montagna: le opere di sistemazione che fermano l'erosione e l'alluvione.
 - **Smalto acrilico** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice a base acqua per legno, metallo e pareti: lucida, durevole, atossica.
 - **Smalto sintetico (al solvente)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice al solvente per legno e metallo: durevole e lucida ma con VOC.
 - **Sollevamento, raddrizzamento e messa in asse di edifici esistenti** — Sollevamento opere · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
+- **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  Il cantiere agricolo come centrale energetica: integrazione di FV, biogas ed efficienza negli edifici rurali.
 - **Spogliatoi e servizi igienici: dimensionamento per utenza** — Servizi e spazi funzionali · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Spogliatoi, docce e servizi igienici devono essere dimensionati sul numero effettivo di utenti simultanei e sulle caratteristiche degli sport praticati: una squadra di calcio e una lezione di fitness hanno esigenze compl…
+- **Stalle da carne e ricoveri per bovini all'aperto** — Stalle · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  I ricoveri per la vita libera degli animali: piazzali, pannelli frangivento e capannoni di riparo.
+- **Stalle da latte: requisiti strutturali e di benessere** — Stalle · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
+  La costruzione della stalla moderna: box, mangiatoie, pavimentazioni e benessere della bovina da latte.
 - **Stampa 3D case intere (Icon Vulcan)** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Sistema mobile di stampa intero edificio in ~7-14 giorni.
 - **Stampa 3D con terra cruda e geopolimeri** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1935,6 +1999,8 @@
   Il riscaldamento locale con combustibili solidi resta diffuso per comfort e autonomia energetica: le macchine moderne a pellet e le stufe a legna di ultima generazione hanno resa e emissioni incomparabili con i vecchi ca…
 - **Sughero espanso** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Corteccia di sughero tostata in granuli agglomerati: il re degli isolanti naturali.
+- **Supercondomini, contratti di quartiere e riqualificazione di edilizia residenziale pubblica** — Innovazione · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
+  La scala del condominio si allarga: supercondomini, contratti tipo e la riqualificazione dei grandi complessi.
 
 ## T
 - **Tassello** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2009,6 +2075,8 @@
   I metodi di costruzione dei ponti senza impalcato dal basso: spinta incrementale, sbalzi simmetrici, varo.
 - **VAS, VIA e la valutazione ambientale degli interventi** — Valutazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Gli interventi con impatto significativo subiscono la Valutazione di Impatto Ambientale (VIA) o, a livello di piano, la Valutazione Ambientale Strategica (VAS): un processo che valuta alternative, impatti e misure di mit…
+- **Vasche di laminazione e bacini di espansione** — Bacini · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
+  L'alleato delle piene: bacini che trattengono l'onda di piena e la restituiscono lentamente.
 - **Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax** — Wellness · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifi…
 - **Ventilazione ambienti di lavoro e capannoni** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)

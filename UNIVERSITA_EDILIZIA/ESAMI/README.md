@@ -29,8 +29,10 @@ di apprendimento per settore.
 | DESIGN_GUSTO | ✅ 174 domande | chiavi: jsonl |
 | DIMENSIONAMENTO_FV_EOLICO | ✅ 220 domande | chiavi: jsonl |
 | DIMENSIONAMENTO_TERMOTECNICO | ✅ 250 domande | chiavi: jsonl |
+| DIGHE_IDRAULICA | ✅ 250 domande | chiavi: jsonl |
 | DISEGNO_TECNICO | ✅ 250 domande | chiavi: jsonl |
 | DOMOTICA | ✅ 300 domande | chiavi: jsonl |
+| EDILIZIA_AGRICOLA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
 | EDILIZIA_SCOLASTICA | ✅ 250 domande | chiavi: jsonl |
 | ENERGETICA_INCENTIVI | ✅ 250 domande | chiavi: jsonl |
@@ -42,6 +44,7 @@ di apprendimento per settore.
 | FERROVIE | ✅ 250 domande | chiavi: jsonl |
 | GEOMETRA_ESTIMO | ✅ 250 domande | chiavi: jsonl |
 | GEOTECNICA | ✅ 250 domande | chiavi: jsonl |
+| GESTIONE_CONDOMINIO | ✅ 250 domande | chiavi: jsonl |
 | HOTEL | ✅ 200 domande | chiavi: jsonl |
 | IMPIANTI_SPORTIVI | ✅ 250 domande | chiavi: jsonl |
 | IMPIANTI_COMPLETA | ✅ 350 domande | chiavi: jsonl |
@@ -77,7 +80,7 @@ di apprendimento per settore.
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: esame per ognuno dei 60 corsi della repository. I tre esami «legacy» dei primi giri
+Copertura: esame per ognuno dei 63 corsi della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.
 
