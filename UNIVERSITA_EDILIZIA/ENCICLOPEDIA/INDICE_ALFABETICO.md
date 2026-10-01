@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-705 voci enciclopediche tratte da 43 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+712 voci enciclopediche tratte da 43 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -44,7 +44,7 @@
 - **Antintrusione integrata** — Sicurezza · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Impianto di sicurezza con sensori volumetrici, perimetrali, centrali, integrato alla domotica.
 - **Appalti e contabilità dei lavori per il geometra** — Appalti contabilita · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
-  Il geometra in cantiere: misure, contabilità, disconti? no: stime di lavori da eseguire.
+  Il geometra in cantiere: misure, contabilità, stime di lavori da eseguire.
 - **Architettura degli interni: lo spazio abitato** — Architettura interni · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Il progetto dentro l'edificio: distribuzione, materiali, luce, arredo fisso.
 - **Architettura del Novecento e contemporanea** — Storia contemporanea · corso: *Architettura* (`ARCHITETTURA_PACK`)
@@ -275,6 +275,8 @@
   L'edilizia pubblica abitativa è tornata centrale: ERP (edilizia residenziale pubblica) con assegnazione a canone calmierato, housing sociale (bandi regionali e nazionali con risorse PNRR), riqualificazione del patrimonio…
 - **Elementi per solai latero-cementizi** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocchi in laterizio o polistirolo da interporsi tra i nervature dei solai: alleggeriscono e collaborano.
+- **EPgl,nren e edificio di riferimento: le verifiche energetiche** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  La verifica energetica di legge confronta l'indice di prestazione energetica globale non rinnovabile EPgl,nren (kWh/m² anno) dell'edificio progettato con quello dell'edificio di riferimento e con i limiti per zona climat…
 - **EPS grafite** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   EPS con particelle di grafite che riducono la conducibilità: il miglioramento del pannello economico.
 - **EPS semplice (polistirene espanso)** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -441,6 +443,8 @@
   Il parcheggio è spazio urbano critico: box interrati (costosi ma salvano superficie), parcheggi a raso (economici ma divorano territorio), parcheggi scambiatori e parcheggi di quartiere; la normativa chiede minimi (posti…
 - **I pavimenti industriali: il pavimento che porta carrelli** — Pavimenti industriali · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Il pavimento industriale è una struttura: sopporta carrelli elevatori, scaffalature alte, carichi concentrati e il traffico continuo; si getta in calcestruzzo fibrorinforzato o con rete elettrosaldata su massetto di sabb…
+- **I ponti termici: la novità 2025 con valori Ψ espliciti** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  Un ponte termico è la zona dell'involucro con flusso di calore bidimensionale (angoli, agganci balconi, davanzali, contorni di serramenti): perde energia, crea muffa e degrada la U reale. Dal 3 giugno 2026 il D.M. 28/10/…
 - **I ponti: tipologie e cenni di progetto** — Ponti cenni · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Il ponte è la struttura per eccellenza: supera un ostacolo con luci variabili; le tipologie principali: travi in c.a. o acciaio (luci 10-50 m), travate reticolari (50-150 m), stralli (100-500 m), arco (60-300 m), sospeso…
 - **I portoni industriali: sezionali, rapidi, scorrevoli** — Portoni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -463,6 +467,8 @@
   La rete gas: i materiali ammessi e le regole di posa.
 - **I tubi per l'acqua: rame, multistrato, PEX, PP-R, acciaio** — Tubi acqua · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   I materiali della rete idraulica: dove usarli e dove evitarli.
+- **I valori limite di trasmittanza U: la tabella vigente** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  La trasmittanza termica U (W/m²K) misura quanto calore attraversa un elemento per m² e per grado di differenza: il decreto Requisiti Minimi ne fissa i valori limite per pareti, coperture, pavimenti e serramenti in ogni z…
 - **I vetri del futuro: elettrocromici, fotovoltaici, autopulenti** — Vetri futuro · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   Il vetro intelligente cambia le facciate: elettrocromico (la trasmissione luminosa cambia con una tensione: si scurisce elettronicamente come gli occhiali fotocromatici ma controllato), fotovoltaico trasparente o semitra…
 - **I vincoli: paesaggistico, idrogeologico, archeologico, naturalistico** — Vincoli · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -563,6 +569,8 @@
   Il mobile su misura è micro-architettura: il disegno esecutivo (pianta, prospetti, sezioni, quotatura completa, specifica materiali e ferramenta) è il contratto tra progettista e falegname; senza di esso ogni mobile è un…
 - **Il disegno meccanico ed elettromeccanico in edilizia** — Disegno meccanico · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Oltre all'architettura, il progettista edile legge disegni meccanici: carpenterie metalliche, serramenti, opere in acciaio, componenti di impianto (quadri, centrali termiche), perni e staffe di connessione.
+- **Il DM 6 agosto 2020: i requisiti per le detrazioni fiscali** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  Per accedere alle detrazioni fiscali energetiche valgono i requisiti del D.M. 6 agosto 2020, più severi dei limiti di legge ordinari: vale la pena progettare 'per la detrazione' anche quando il cliente non la chiede anco…
 - **Il DPCM 5 dicembre 1997: i requisiti acustici passivi degli edifici** — Normativa · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Il DPCM 5/12/1997 fissa i requisiti acustici passivi degli edifici: limiti di isolamento acustico tra unità abitative, protezione dal rumore esterno e dal rumore degli impianti, con obbligo di asseverazione tecnica alla …
 - **Il drenaggio stradale: l'acqua nemica numero uno** — Drenaggio · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -721,6 +729,8 @@
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
 - **L'edge computing: il data center piccolo e ovunque** — Edge e micro · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   L'edge computing porta il calcolo vicino all'utente (il 5G, l'IoT, la guida autonoma non possono aspettare il cloud lontano): i micro-data center (un armadio rack in un edificio), i container data center (il DC in un box…
+- **L'edificio in estate: trasmittanza periodica, sfasamento e rischio muffa** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  L'involucro deve funzionare anche d'estate: la trasmittanza termica periodica Yie limita l'ingresso dell'onda di calore, lo sfasamento φ (ore) ritarda il picco verso la notte, e la verifica UNI EN ISO 13788 esclude il ri…
 - **L'edilizia del data center: struttura, pavimenti rialzati, altezze** — Struttura · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   L'edificio del data center ha esigenze particolari: i pavimenti rialzati (il sottopavimento è la plenum per l'aria fredda e i cavi, oppure tutto in over-head), le altezze generose (3-5 m sotto i controsoffitti per canali…
 - **L'edilizia libera e le variazioni catastali** — Edilizia libera · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -871,6 +881,8 @@
   La cucina è il laboratorio domestico più tecnico: layout (lineare, ad L, a U, con isola/penisola), triangolo di lavoro (lavello-forno-frigo), superfici resistenti a calore e taglio, elettrodomestici integrati con le prop…
 - **La quotatura: regole, catene di quote, riferimenti** — Quotatura · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   La quotatura trasferisce le dimensioni reali sul disegno: quote in millimetri (edilizia italiana) scritte sopra linea di quota sottile, con frecce o spigoli che toccano gli estremi misurati.
+- **La relazione tecnica ex art. 8 D.Lgs 192/2005: il documento unico** — Verifiche · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  Dalla fine del 2025 il D.M. Requisiti Minimi raccoglie in un'unica relazione tecnica (ex art. 8 D.Lgs 192/2005) tutti gli obblighi energetici dell'edificio: involucro, impianti, rinnovabili, automazione, ricarica veicoli…
 - **La responsabilità dell'impresa costruttrice: art. 1669 e decennale** — Responsabilità · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   L'art. 1669 c.c. (responsabilità del costruttore e dell'impresa) prescrive: se entro 10 anni (decennale) l'immobile mostra vizi o crolli per difetto della costruzione o del terreno, il costruttore è tenuto al risarciment…
 - **La Sagrada Familia (1882-in costruzione): il cantiere eterno** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -1049,6 +1061,8 @@
   Le formule della valutazione: come si 'legge' la capacità di una struttura che esiste.
 - **Le vie di esodo: requisiti geometrici e funzionali** — Vie esodo · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   Le vie di esodo permettono l'evacuazione: larghezza minime in funzione dell'attività e del numero di occupanti (spesso 1,20 m per corridoi e rampe nei luoghi di pubblico, verifiche sempre sul DM), porte in senso di uscit…
+- **Le zone climatiche e i gradi giorno: da dove parte ogni calcolo** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
+  L'Italia è divisa in sei zone climatiche (A-F) in base ai gradi giorno (GG): A ≤600, B 601-900, C 901-1400, D 1401-2100, E 2101-3000, F >3000; la zona determina tutti i requisiti di legge dell'edificio e dei suoi impiant…
 - **Legatura e piegatura barre automatizzata** — Automazione armature · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Macchine automatiche per piegare e legare reti e barre d'armatura.
 - **Legge 10/91 e certificazione energetica (APE)** — Normativa impianti · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)

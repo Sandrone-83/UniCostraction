@@ -81,8 +81,8 @@ Il tema centrale dell'edilizia italiana: la casa, i suoi standard, la sua evoluz
 - **Vantaggi:** La casa è il bene più costoso delle famiglie: il progetto abitativo è alta responsabilità sociale.
 - **Limiti e attenzioni:** La normativa su standard abitativi varia regionalmente: verifica locale.
 - **Costi ed economia:** Casa social housing: 1.200-1.800 €/m2; ristrutturazione: 800-1.500 €/m2.
-- **Caso tipico:** Le esperienze INA-Casa post-belliche; il co-housing danese; le housing exhibition (IVA? no: Wien, Norimberga).
-- **Normativa:** Standard abitativi regionali; L. 560/1993? no: 431/1998 (edilizia residenziale pubblica).
+- **Caso tipico:** Le esperienze INA-Casa post-belliche; il co-housing danese; le housing exhibition (Wien, Norimberga).
+- **Normativa:** Standard abitativi regionali; L. 431/1998 (edilizia residenziale pubblica).
 - **Nota di cantiere:** Un LLM che parla di casa deve conoscere la differenza tra m2 'commerciali', 'catastali' e 'calpestabili': 3 numeri diversi per la stessa stanza, con conseguenze legali.
 
 ### Architettura e luce: la progettazione luminousa
@@ -91,7 +91,7 @@ Il tema centrale dell'edilizia italiana: la casa, i suoi standard, la sua evoluz
 
 La luce naturale e artificiale come materia prima del progetto.
 
-- **Tecnologia e criteri:** Orientamento e luce: le facciate est-sud-ovest; la luce zenitale; il controllo solare (sconosciuto? no: schermature, frangisole); lighting design architettonico; la sezione della luce.
+- **Tecnologia e criteri:** Orientamento e luce: le facciate est-sud-ovest; la luce zenitale; il controllo solare (schermature, frangisole); lighting design architettonico; la sezione della luce.
 - **Applicazioni:** Abitazioni, musei, uffici, retail.
 - **Vantaggi:** La luce naturale è gratis e migliora salute e produttività: il miglior investimento dell'architettura.
 - **Limiti e attenzioni:** L'abbagliamento e i surriscaldamenti estivi sono il rischio della vetrina esagerata.
@@ -111,8 +111,8 @@ Come si diventa e di cosa si risponde: il quadro istituzionale della professione
 - **Vantaggi:** La firma dell'architetto vale: chi firma risponde con patrimonio e libertà.
 - **Limiti e attenzioni:** La burocrazia professionale è pesante: servono gestione e assicurazione.
 - **Costi ed economia:** Assicurazione RC professionale: 500-2.000 €/anno; iscrizione ordine: 200-400 €/anno.
-- **Caso tipico:** Il codice deontologico CNA/ARC? no: del Consiglio Nazionale Architetti.
-- **Normativa:** DPR 137/2012 (esame di Stato); D.Lgs 139/2005 (Codice appalti, ruoli); L. 3/2018 (LEGGE? no: professioni).
+- **Caso tipico:** del Consiglio Nazionale Architetti.
+- **Normativa:** DPR 137/2012 (esame di Stato e albi delle professioni tecniche); L. 3/2018 (riordino degli albi e dei tariffari delle professioni tecniche); D.Lgs 36/2023 (ruoli tecnici negli appalti pubblici).
 - **Nota di cantiere:** Per l'LLM: quando si firma un progetto si firma una responsabilità decennale. Il termine di responsabilità civile per le opere è 10 anni.
 
 ### Architettura del paesaggio e territorio
@@ -151,7 +151,7 @@ Come si comunica il progetto: dal disegno tecnico alla realtà virtuale.
 
 Come si interviene sul costruito storico: teorie dal 1800 a oggi e pratica quotidiana.
 
-- **Tecnologia e criteri:** Teorie: Viollet-le-Duc (restauro stilistico), Ruskin (conservazione radicale), Brandi (il metodo), la Carta di Venezia 1964; l'astrazione? no: la distinzione restauro conservativo vs ricostruttivo; il minimo intervento.
+- **Tecnologia e criteri:** Teorie: Viollet-le-Duc (restauro stilistico), Ruskin (conservazione radicale), Brandi (il metodo), la Carta di Venezia 1964; la distinzione restauro conservativo vs ricostruttivo; il minimo intervento.
 - **Applicazioni:** Cantieri in centro storico, monumenti, edilizia rurale storica.
 - **Vantaggi:** Il minimo intervento è spesso il migliore: risparmio e rispetto insieme.
 - **Limiti e attenzioni:** La valutazione sui beni culturali è di competenza delle Soprintendenze: tempi e vincoli.
@@ -682,7 +682,7 @@ Le dimensioni del corpo umano come regola del progetto.
 - **Limiti e attenzioni:** Le medie nascondo le diversità: progettare per tutti (design for all) è la sfida.
 - **Costi ed economia:** Nessun costo aggiuntivo: è conoscenza applicata.
 - **Caso tipico:** Le cucine con piani a quote diverse per i membri della famiglia; le case giapponesi su misura.
-- **Normativa:** UNI ISO 9241; standard accessibilità DM 236/1989? no: L. 13/1989 (barriere architettoniche).
+- **Normativa:** UNI ISO 9241; L. 13/1989 (barriere architettoniche).
 - **Nota di cantiere:** L'LLM deve conoscere le 20 quote fondamentali a memoria: chiedere 'a che altezza è il piano cucina?' è la prova di un progetto serio.
 
 ### Hotel design: l'ospitalità come esperienza
@@ -696,7 +696,7 @@ Progettare hotel: dalla hall alla camera, il racconto dell'accoglienza.
 - **Vantaggi:** L'hotel si giudica in 10 secondi dalla hall: il design è il primo servizio.
 - **Limiti e attenzioni:** La manutenzione di un hotel è quotidiana: materiali 'belli ma fragili' sono un errore professionale.
 - **Costi ed economia:** Ristrutturazione hotel 4-5 stelle: 1.500-3.500 €/m2; arredo camera: 8-20k€.
-- **Caso tipico:** Gli hotel di Ian Schrager/Edition; l'Albereta? no: il Bulgari Hotel Milano; agriturismi di design in Toscana.
+- **Caso tipico:** Gli hotel di Ian Schrager/Edition; il Bulgari Hotel Milano; agriturismi di design in Toscana.
 - **Normativa:** Normativa alberghiera regionale (classificazione); antincendio DM 2/9/2021.
 - **Nota di cantiere:** L'hotel che funziona ha un'identità riconoscibile in ogni dettaglio (portachiavi, profumo, musica): il design è coerenza totale, non solo estetica.
 
@@ -742,7 +742,7 @@ L'ufficio contemporaneo: flessibilità, wellbeing, ibrido.
 - **Limiti e attenzioni:** L'open space acusticamente sbagliato è la causa n.1 di insoddisfazione lavorativa.
 - **Costi ed economia:** Workplace design: 400-1.000 €/m2; phone booth acustica: 5-15k€/pz.
 - **Caso tipico:** Le sedi Google (activity based); il nuovo ufficio ibrido post-2020.
-- **Normativa:** WELL Building Standard; UNI EN 12464-1; acustica UNI 11532? no: 'da verificare' (UNI 11367 acustica uffici).
+- **Normativa:** WELL Building Standard; UNI EN 12464-1; 'da verificare' (UNI 11367 acustica uffici).
 - **Nota di cantiere:** La domanda da LLM per l'ufficio: 'quante ore di lavoro profondo richiedono le persone qui?' Da lì nasce il rapporto tra open space e sale concentrate.
 
 ### Lighting design: la scenografia della luce
@@ -756,7 +756,7 @@ Progettare la luce come si progetta una scena: strati, temperature, contrasti.
 - **Vantaggi:** La luce giusta trasforma uno spazio mediocre: il miglior rapporto costo/impatto dell'interior.
 - **Limiti e attenzioni:** La luce sbagliata distrugge anche i materiali migliori.
 - **Costi ed economia:** Progetto lighting: 3-8 €/m2; corpo illuminante di design: 100-1.000 €/pz.
-- **Caso tipico:** I negozi del lusso (luce 2700K sui prodotti, 4000K nei camerini); la cattedrale di luce di Atene? no: l'esperienza TeamLab.
+- **Caso tipico:** I negozi del lusso (luce 2700K sui prodotti, 4000K nei camerini); l'esperienza TeamLab.
 - **Normativa:** CEI EN 12464-1; UNI EN 15193.
 - **Nota di cantiere:** Regola dei tre strati: mai una sola luce a soffitto. Generale + funzionale + accenti: il segreto di ogni interno di pregio.
 

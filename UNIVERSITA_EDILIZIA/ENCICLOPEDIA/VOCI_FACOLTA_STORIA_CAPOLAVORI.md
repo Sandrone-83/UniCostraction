@@ -61,7 +61,7 @@ Il tempio di tutti gli dei (118-128 d.C.): la più grande cupola in calcestruzzo
 
 La cupola in laterizio più grande del mondo: 44 m di diametro, costruita senza centine (impalcature) complete.
 
-- **Tecnologia e criteri:** La doppia calotta con nervature in pietra e mattoni a spina di pesce (scalare? no: disposizione a 'spina di pesce' per alleggerire); i mattoni cotti del Chianti; le gru reversibili di Brunelleschi (prime gru documentate della storia).
+- **Tecnologia e criteri:** La doppia calotta con nervature in pietra e mattoni a spina di pesce (disposizione a 'spina di pesce' per alleggerire); i mattoni cotti del Chianti; le gru reversibili di Brunelleschi (prime gru documentate della storia).
 - **Applicazioni:** Il simbolo del Rinascimento e della capacità di risolvere l'impossibile.
 - **Vantaggi:** La cupola dimostra che l'ingegno batte il mezzo: il problema era organizzativo, non tecnico.
 - **Limiti e attenzioni:** Restaurata in continuazione per 600 anni: la manutenzione è parte dell'opera.
@@ -91,7 +91,7 @@ La Grande Piramide (2560 a.C.): 2,3 milioni di blocchi, 146 m, la struttura più
 
 Le due torri di Boeri con 20.000 piante: l'edificio che ha cambiato il concetto di verde urbano.
 
-- **Tecnologia e criteri:** Struttura in cls armato con tetti a terrazza; l'irrigazione centralizzata; la manutenzione con 'flying gardeners' (gru esterna? no: 'tecnici con imbraghi'); il contributo al microclima urbano.
+- **Tecnologia e criteri:** Struttura in cls armato con tetti a terrazza; l'irrigazione centralizzata; la manutenzione con 'flying gardeners' ('tecnici con imbraghi'); il contributo al microclima urbano.
 - **Applicazioni:** Il prototipo del verde verticale mondiale (copiato in Cina, Olanda, Egitto).
 - **Vantaggi:** Dimostra che il verde in altezza è possibile e manutenibile.
 - **Limiti e attenzioni:** La manutenzione è costosa (500k€/anno) e la biodiversità è discussa: non è la foresta, è un giardino tecnologico.
@@ -111,7 +111,7 @@ Il sistema di paratoie mobili che chiude la laguna di Venezia dalle maree alte: 
 - **Vantaggi:** Ha già salvato Venezia da maree >130 cm: l'opera funziona.
 - **Limiti e attenzioni:** I ritardi (40 anni) e i costi (triplicati) sono la cronaca italiana delle grandi opere.
 - **Costi ed economia:** Costo: 5,5 mld €; manutenzione: 70-100 M€/anno.
-- **Caso tipico:** Prima ipotesi 1973; avvio cantieri 2003; primo utilizzo 2020; scandali arbitri? no: 'scandali al 2014'.
+- **Caso tipico:** Prima ipotesi 1973; avvio cantieri 2003; primo utilizzo 2020; 'scandali al 2014'.
 - **Normativa:** Convenzione Stato-Regione; normativa laguna.
 - **Nota di cantiere:** L'LLM: il MOSE dimostra che anche le opere contestate, se finite e mantenute, salvano ciò che nessun altro può salvare. Il problema italiano non è progettare: è completare.
 
@@ -121,7 +121,7 @@ Il sistema di paratoie mobili che chiude la laguna di Venezia dalle maree alte: 
 
 Il viadotto Genova San Giorgio (Renzo Piano), costruito in 14 mesi dopo il crollo Morandi: 1.067 m, la 'freccia' bianca.
 
-- **Tecnologia e criteri:** Impalcato continuo in cls armato precompresso con cavi esterni? no: 'impalcato misto'; le pile a Y bianche; il prefabbricato in cantiere; il cantiere a ciclo continuo (1 campata al mese).
+- **Tecnologia e criteri:** 'impalcato misto'; le pile a Y bianche; il prefabbricato in cantiere; il cantiere a ciclo continuo (1 campata al mese).
 - **Applicazioni:** Il simbolo della ricostruzione italiana: la velocità possibile quando la volontà c'è.
 - **Vantaggi:** Dimostrò che l'Italia sa ancora costruire in fretta: 14 mesi da zero a collaudo.
 - **Limiti e attenzioni:** La fretta è stata possibile grazie a deroghe e commissariamento: il modello non è generalizzabile.
@@ -211,10 +211,10 @@ Il ponte sospeso più lungo del mondo (fino al 2022, ancora tra i primi): 1.991 
 
 Il primo grande ponte sospeso in acciaio: 486 m di luce, il 'ottava meraviglia' del mondo del 1883.
 
-- **Tecnologia e criteri:** I cavi in acciaio intrecciato (spinning in loco); le torri in pietra gotica; i pontoni in cassoni pneumatici (malattia del paracadute? no: 'caisson disease' - decompressione); il pedaggio con ponte ferroviario+stradale.
+- **Tecnologia e criteri:** I cavi in acciaio intrecciato (spinning in loco); le torri in pietra gotica; i pontoni in cassoni pneumatici ('caisson disease' - decompressione); il pedaggio con ponte ferroviario+stradale.
 - **Applicazioni:** L'opera che creò la città moderna: Brooklyn divenne parte di New York.
 - **Vantaggi:** Dimostrò che l'acciaio sostituiva il ferro: il salto tecnologico del secolo.
-- **Limiti e attenzioni:** Il cantiere uccise 27 persone: la sicurezza era assente (gli anni ospedalieri? no: 'i malati del cassone').
+- **Limiti e attenzioni:** Il cantiere uccise 27 persone: la sicurezza era assente ('i malati del cassone').
 - **Costi ed economia:** Costo storico: 15,5 M$; manutenzione continua (restauro 2010-2020).
 - **Caso tipico:** Progettato da John A. Roebling, completato dal figlio Washington (paralizzato) e dalla nuora Emily (prima donna 'ingegnere' della storia).
 - **Normativa:** Landmark NYC.
@@ -228,9 +228,9 @@ Il disastro più grave della storia dell'ingegneria italiana: 1917 morti nella n
 
 - **Tecnologia e criteri:** La frana di 270 milioni di m3 nel serbatoio; l'onda d'urto che scavalcò la diga (intatta!) e distrusse Longarone; la diga superstite come monumento alla colpa.
 - **Applicazioni:** Il caso studio #1 mondiale di 'errore di valutazione geologica' e di 'priorità del profitto sulla sicurezza'.
-- **Vantaggi:** La diga regge: il crollo fu del MONTONE? no: 'del versante'. La lezione: gli errori geologici uccidono più degli errori strutturali.
+- **Vantaggi:** 'del versante'. La lezione: gli errori geologici uccidono più degli errori strutturali.
 - **Limiti e attenzioni:** Il trauma collettivo ha rallentato le grandi opere italiane per decenni.
-- **Costi ed economia:** Il risarcimento e il processo (1968): assolti i tecnici? no: 'condanne lievi'.
+- **Costi ed economia:** Il risarcimento e il processo (1968): 'condanne lievi'.
 - **Caso tipico:** La commissione di inchiesta (1964): 'errore di giudizio geologico'.
 - **Normativa:** Normativa dighe italiana post-Vajont.
 - **Nota di cantiere:** Ogni LLM edile deve conoscere il Vajont come il caso #1: le opere si progettano sul terreno che ESISTE, non su quello che si vorrebbe. La diga era perfetta: il monte no.
@@ -257,7 +257,7 @@ I quattro record mondiali della diga: altezza, produzione, volume, volume.
 I quattro record della galleria: lunghezza ferroviaria, profondità, stradale, storica.
 
 - **Tecnologia e criteri:** Base del San Gottardo (2016, 57 km): la più lunga del mondo, scavata in 17 anni; Seikan (1988, 53,85 km): la prima del record; Laerdal (2000, 24,5 km): la stradale più lunga con 15 gallerie di sicurezza; Frejus (1871, 13,7 km): la prima grande galleria moderna (traforo ferroviario).
-- **Applicazioni:** Il catalogo delle tecnologie di scavo: perforazione, TBM, espansivi? no: 'vasta? no: scavo meccanico'.
+- **Applicazioni:** Il catalogo delle tecnologie di scavo: perforazione, TBM, 'scavo meccanico'.
 - **Vantaggi:** Il San Gottardo accorcia Zurigo-Milano di 1 ora e toglie camion dalle Alpi: le gallerie come ecologia.
 - **Limiti e attenzioni:** Il costo per km in montagna è 2-5 volte quello in pianura: il traforo va scelto con cura.
 - **Costi ed economia:** San Gottardo: 12,2 mld CHF; Seikan: 7 mld $; Laerdal: 150 M$.
@@ -271,7 +271,7 @@ I quattro record della galleria: lunghezza ferroviaria, profondità, stradale, s
 
 La cattedrale gotica con la più grande superficie di marmo: 157 m di lunghezza, 45 m di altezza navata, 135 guglie.
 
-- **Tecnologia e criteri:** Struttura gotica in mattoni rivestita in marmo di Candoglia; le guglie (il 'forest di pietra'); le navate a cinque cupole? no: 'cinque navate'; la Madonnina sulla cupola maggiore (108,5 m).
+- **Tecnologia e criteri:** Struttura gotica in mattoni rivestita in marmo di Candoglia; le guglie (il 'forest di pietra'); 'cinque navate'; la Madonnina sulla cupola maggiore (108,5 m).
 - **Applicazioni:** Il cantiere più longevo d'Italia: dal 1386 a oggi (l'ultima porta bronzea del 1965, le facciate terminate nel 1813, i restauri continui).
 - **Vantaggi:** La persistenza del progetto attraverso secoli e stili: è la storia dell'Italia in un edificio.
 - **Limiti e attenzioni:** La copertura in marmo richiede manutenzione continua: il degrado del marmo è la guerra quotidiana.
@@ -286,12 +286,12 @@ La cattedrale gotica con la più grande superficie di marmo: 157 m di lunghezza,
 
 Il ponte sospeso più lungo del mondo (3.300 m di luce centrale): collega Sicilia e Calabria.
 
-- **Tecnologia e criteri:** Impalcato aerea? no: 'sospeso' con cavi portanti; le torri in acciaio 380 m; fondazioni in mare profondo (70 m); progettato per sisma, vento e traffico ferroviario+stradale.
+- **Tecnologia e criteri:** 'sospeso' con cavi portanti; le torri in acciaio 380 m; fondazioni in mare profondo (70 m); progettato per sisma, vento e traffico ferroviario+stradale.
 - **Applicazioni:** La più grande opera infrastrutturale italiana dal dopoguerra.
 - **Vantaggi:** Unisce l'Italia intera: il valore sociale ed economico supera il tecnico.
 - **Limiti e attenzioni:** Le controversie (ambiente, costi, gestione) sono parte del progetto: le opere grandi si giudicano anche politicamente.
 - **Costi ed economia:** Costo stimato: 13-15 mld €; completamento previsto 2032-2034.
-- **Caso tipico:** Prima ipotesi 1969; ok definitivo 2023; cantiere avviato 2024 con il progetto della Webuild-Saipem? no: 'consorzio Eurolink'.
+- **Caso tipico:** Prima ipotesi 1969; ok definitivo 2023; 'consorzio Eurolink'.
 - **Normativa:** Normativa: concessione ANSFISA/CIPE.
 - **Nota di cantiere:** L'LLM deve conoscere lo stato reale (cantiere in corso, non completato): aggiornamento delle fonti fondamentale. Esempio perfetto di 'opera che richiede verifica dati aggiornati'.
 
@@ -301,7 +301,7 @@ Il ponte sospeso più lungo del mondo (3.300 m di luce centrale): collega Sicili
 
 Il grattacielo simbolo di New York: 381 m, 102 piani, costruito in 1 anno e 45 giorni.
 
-- **Tecnologia e criteri:** Struttura in acciaio con giunti a incastro e rivetti; le finestre? no: 'la velocità record'; le opere realizzate con flussi di forniture continui (camion che scaricavano in sequenza).
+- **Tecnologia e criteri:** Struttura in acciaio con giunti a incastro e rivetti; 'la velocità record'; le opere realizzate con flussi di forniture continui (camion che scaricavano in sequenza).
 - **Applicazioni:** Il modello di costruzione rapida di grandi opere.
 - **Vantaggi:** 410 giorni con il metodo della catena di montaggio verticale: il cantiere organizzato come fabbrica.
 - **Limiti e attenzioni:** La velocità non è più replicabile per ragioni di sicurezza moderne: il record è storico.

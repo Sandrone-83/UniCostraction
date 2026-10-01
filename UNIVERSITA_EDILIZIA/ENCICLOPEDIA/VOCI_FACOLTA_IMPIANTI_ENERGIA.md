@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-188 voci, 13 corsi.
+195 voci, 13 corsi.
 
 
 ## Acustica edilizia
@@ -402,7 +402,7 @@ Come si collegano i moduli: tensioni, correnti e il rapporto inverter.
 L'impianto che non si ferma mai: logica e dimensionamento degli ibridi.
 
 - **Tecnologia e criteri:** Metodo: la gerarchia di priorità: FV -> batteria -> rete (se presente) -> generatore di backup (gasolio/GPL/biometano); il dimensionamento dell'autonomia: giorni senza sole × consumo giornaliero / DoD: 3 gg × 8 kWh / 0,8 = 30 kWh di batteria; il generatore di backup: potenza = carichi essenziali (frigo, luci, PDC ridotta): 5-10 kVA; l'energy manager che commuta le fonti senza interruzioni.
-- **Applicazioni:** Case isolate, agriturismi, rifugi, B&B, cantine? no: 'aziende con continuità richiesta'.
+- **Applicazioni:** Case isolate, agriturismi, rifugi, B&B, 'aziende con continuità richiesta'.
 - **Vantaggi:** L'ibrido corretto dà l'autonomia senza il diesel quotidiano: il generatore è l'ultima spiaggia, non la routine.
 - **Limiti e attenzioni:** La complessità di gestione richiede una centralina di supervisione professionale.
 - **Costi ed economia:** Energy manager: 1.000-3.000 €; generatore backup: 2.000-8.000 €.
@@ -417,9 +417,9 @@ L'impianto che non si ferma mai: logica e dimensionamento degli ibridi.
 Vivere senza ENEL: la matematica dell'autonomia completa.
 
 - **Tecnologia e criteri:** Metodo: 1) bilancio energetico giornaliero: somma di tutti i consumi × ore (frigo 1,5 kWh/g, luci 0,5, PDC invernale 6-10...); 2) il FV dimensionato sul peggiore mese (dicembre: 1/3 della produzione estiva); 3) la batteria: 2-3 giorni di autonomia: (kWh/giorno × giorni) / DoD; 4) il backup (generatore) per le settimane di maltempo; es. casa efficiente inverno: 10 kWh/giorno → FV 6 kWp + batteria 30 kWh + generatore 8 kVA.
-- **Applicazioni:** Case isolate, baite, podere? no: 'podere' sì, postazioni remote.
-- **Vantaggi:** L'off-grid perfetto dà indipendenza e risparmio sulla tratta? no: 'sulla connessione' (chi evita il preventivo ENEL da 20k€).
-- **Limiti e attenzioni:** L'off-grid peggiora: la disciplina dei consumi è obbligatoria: niente pannelli elettrici? no: 'niente sprechi'.
+- **Applicazioni:** Case isolate, baite, 'podere' sì, postazioni remote.
+- **Vantaggi:** 'sulla connessione' (chi evita il preventivo ENEL da 20k€).
+- **Limiti e attenzioni:** 'niente sprechi'.
 - **Costi ed economia:** Il costo dell'off-grid serio: 20-60k€.
 - **Caso tipico:** Le comunità energetiche (CER) che portano il modello 'condiviso' nei paesi.
 - **Normativa:** CEI 0-16; normativa CER (ARERA).
@@ -449,7 +449,7 @@ L'acqua calda dal sole: come si dimensiona l'impianto solare termico.
 - **Tecnologia e criteri:** Metodo: l'accumulo: 40-75 l/m² di collettore piano (standard 50 l/m²); i collettori: 1,5-2 m² per persona in famiglia; il contributo solare: 40-60% del fabbisogno ACS annuo; l'orientamento: sud ±45°, inclinazione 30-60°; l'integrazione: con caldaia a condensazione o PDC (il solare scalda, l'integrazione 'rifinisce'); l'impianto a circolazione forzata con scambiatore a fascio o a piastre.
 - **Applicazioni:** Abitazioni, condomini, hotel, piscine (riscaldamento).
 - **Vantaggi:** Il solare termico è la tecnologia più semplice e robusta: rende per 25 anni con manutenzione minima.
-- **Limiti e attenzioni:** Il gelo: i collettori vanno svuotati? no: 'l'impianto con glicole' gestisce il gelo, ma la manutenzione del fluido è obbligatoria.
+- **Limiti e attenzioni:** 'l'impianto con glicole' gestisce il gelo, ma la manutenzione del fluido è obbligatoria.
 - **Costi ed economia:** Impianto famiglia 4 persone: 4 m² collettori + accumulo 200 l: 3.000-5.000 € installato.
 - **Caso tipico:** Il Conto Termico 3.0 incentiva il solare termico (premio al netto).
 - **Normativa:** UNI EN 12976; UNI/TS 12977.
@@ -458,7 +458,7 @@ L'acqua calda dal sole: come si dimensiona l'impianto solare termico.
 
 ## Dimensionamento degli impianti termotecnici
 
-*Corso `DIMENSIONAMENTO_TERMOTECNICO_PACK` — 9 voci*
+*Corso `DIMENSIONAMENTO_TERMOTECNICO_PACK` — 16 voci*
 
 ### Il dimensionamento dell'acqua calda sanitaria: accumuli, portate, ricircolo
 
@@ -469,7 +469,7 @@ Quanta acqua calda serve davvero: il dimensionamento degli accumuli e delle reti
 - **Tecnologia e criteri:** Metodo: fabbisogno 40-60 l/persona/die a 40°C; accumulo: V = fabbisogno_punto × (60/ΔT_accumulo) [accumulo a 60°C vs uso 40°C: i litri utili sono il 50% in più]; la produzione istantanea (scaldabagno/caldaia a flusso): portata doccia 6-9 l/min a 38°C; il ricircolo obbligatorio per percorsi >15-20 m (pompa con timer/temperatura); la legionella: accumulo a 60-65°C, ricircolo monitorato, scarico settimanale >60°C ai punti più lontani.
 - **Applicazioni:** Abitazioni, condomini, hotel, palestre, uffici.
 - **Vantaggi:** L'ACS è il 30-40% della bolletta energetica: dimensionarla bene vale quanto l'involucro.
-- **Limiti e attenzioni:** Gli accumuli grandi mantengono meglio la temperatura? no: 'perdono': l'accumulo perde calore in proporzione al volume: scegliere l'accumulo GIUSTO.
+- **Limiti e attenzioni:** 'perdono': l'accumulo perde calore in proporzione al volume: scegliere l'accumulo GIUSTO.
 - **Costi ed economia:** Accumulo 100 l: 150-400 €; scambiatore a fascio: +20-30% sulla caldaia.
 - **Caso tipico:** Le norme anti-legionella negli edifici pubblici (acqua a 50°C nei punti di erogazione con valvole termostatiche).
 - **Normativa:** UNI EN 806; linee guida ISS legionella.
@@ -488,7 +488,7 @@ Quanti Watt serve per ogni stanza: il metodo dei ΔT nominali.
 - **Costi ed economia:** Radiatore alluminio 600 mm: 120-200 W/elemento a ΔT50; a ΔT25 serve il doppio degli elementi.
 - **Caso tipico:** Le case in PDC con radiatori raddoppiati (o radianti) per andare a 35-45°C.
 - **Normativa:** UNI EN 442 (radiatori).
-- **Nota di cantiere:** Il trucco pratico: con PDC a 45°C, progettare come se il carico raddoppiasse: termosifoni grandi e belli o pannelli radianti. Le ali? no: 'le piastre': chi mette la PDC coi termosifoni vecchi sottodimensionati ha buttato metà dell'incentivo.
+- **Nota di cantiere:** Il trucco pratico: con PDC a 45°C, progettare come se il carico raddoppiasse: termosifoni grandi e belli o pannelli radianti. 'le piastre': chi mette la PDC coi termosifoni vecchi sottodimensionati ha buttato metà dell'incentivo.
 
 ### Esempio svolto: il dimensionamento termico di una villa di 180 m²
 
@@ -550,6 +550,96 @@ Come fanno a convivere più generatori: il dimensionamento della logica, non sol
 - **Normativa:** UNI 7129; UNI EN 15316.
 - **Nota di cantiere:** La frase d'ordine: 'prima l'accumulo, poi i generatori'. Chi compra la macchina prima del serbatoio costruisce un puzzle senza cornice.
 
+### EPgl,nren e edificio di riferimento: le verifiche energetiche
+
+**Categoria:** Normativa involucro · **Corso:** Dimensionamento degli impianti termotecnici
+
+La verifica energetica di legge confronta l'indice di prestazione energetica globale non rinnovabile EPgl,nren (kWh/m² anno) dell'edificio progettato con quello dell'edificio di riferimento e con i limiti per zona climatica: se l'edificio progettato consuma più del riferimento, il progetto non passa.
+
+- **Tecnologia e criteri:** Metodo: 1) l'edificio di riferimento ha la stessa geometria dell'edificio progettato ma con caratteristiche standard fissate dal decreto (involucro ai limiti U, impianti standard, infissi standard, orientamento identico); 2) si calcola EPgl,nren di entrambi con le UNI/TS 11300: fabbisogni di riscaldamento, raffrescamento, acqua calda, illuminazione (se presente), ventilazione; 3) verifiche: EPgl,nren progettato ≤ EPgl,nren riferimento, EPgl,nren ≤ valore limite di legge per zona e tipologia; verifiche parziali su inviluppo (H'T) e impianti (efficienza dei generatori, rendimenti stagionali ηs per riscaldamento e acqua calda, EER/SEER per raffrescamento); 4) il rapporto di forma S/V (superficie dispersente su volume) modula l'H'T limite: edifici compatti passano più facilmente; 5) il nuovo decreto 2025 modula l'H'T anche in funzione della percentuale di superficie vetrata, premiando l'illuminazione naturale degli edifici terziari.
+- **Applicazioni:** Relazione tecnica di nuova costruzione, ristrutturazione importante, riqualificazione energetica; APE; verifica per detrazioni (con metodo semplificato).
+- **Vantaggi:** Il metodo è autocoscienza del progetto: chi sa calcolare l'edificio di riferimento sa esattamente dove il proprio progetto perde punti.
+- **Limiti e attenzioni:** I calcoli sono solo così buoni quanto i dati di ingresso: ponti termici ignorati, serramenti dichiarati ottimistici e impianti tarati male rendono l'APE 'teorico' e la bolletta reale una sorpresa.
+- **Costi ed economia:** Relazione energetica completa con software certificato per un edificio residenziale medio: 800-2.500 € (oltre al progetto); il software certificato costa 300-1.500 €/anno di licenza.
+- **Caso tipico:** Villa di 200 m² in zona E con grande vetrate a sud: l'EPgl calcolato 'ottimistico' (ponti termici trascurati, VMC non conteggiata) era 62 kWh/m²a; la verifica con dati reali lo portava a 78: il progetto è stato corretto (aggiunta schermatura esterna, VMC con recupero efficiente) prima del cantiere, non dopo la prima bolletta.
+- **Normativa:** D.M. 28/10/2025 (Requisiti Minimi, in vigore dal 3/6/2026) con metodi e valori limite; UNI/TS 11300 serie (calcolo fabbisogni); D.Lgs 192/2005 (obbligo di certificazione); software certificati secondo le regole ENEA.
+- **Nota di cantiere:** La verifica EP si fa PRIMA di chiudere il progetto degli impianti: l'involucro si può aggiustare con 5 cm di isolante, l'impianto sbagliato si paga due volte.
+
+### I ponti termici: la novità 2025 con valori Ψ espliciti
+
+**Categoria:** Normativa involucro · **Corso:** Dimensionamento degli impianti termotecnici
+
+Un ponte termico è la zona dell'involucro con flusso di calore bidimensionale (angoli, agganci balconi, davanzali, contorni di serramenti): perde energia, crea muffa e degrada la U reale. Dal 3 giugno 2026 il D.M. 28/10/2025 introduce valori di trasmittanza lineica Ψ espliciti per le discontinuità più comuni.
+
+- **Tecnologia e criteri:** Quadro: 1) il vecchio DM 2015 trattava i ponti termici con maggiorazione forfettaria del 5-10% sulle dispersioni; 2) il DM 28/10/2025 introduce otto tabelle di valori Ψ (W/mK) differenziati per tipologia (aggancio balcone, davanzale e spalle serramento, architrave, cassonetto, angoli, pilastri, solai interpiano), per zona climatica e per posizione dell'isolante (esterno, interno, intercapedine); 3) per i NUOVI edifici e le ristrutturazioni importanti di primo livello l'H'T limite è modulato su S/V e quota vetrate, con i ponti termici espliciti nell'edificio di riferimento; 4) per la ristrutturazione importante di secondo livello la verifica confronta la trasmittanza media comprensiva di ponti termici con il limite maggiorato; 5) metodi di calcolo: UNI EN ISO 10211 per la modellazione bidimensionale, cataloghi Ψ del produttore, tabelle del decreto come valori di riferimento; 6) il dettaglio costruttivo è la vera leva: isolante a cappotto che intercetta il davanzale e il foro del serramento, balconi scollegati con mensola o isolante strutturale, architravi coibentate.
+- **Applicazioni:** Progetto del dettaglio costruttivo dell'involucro, verifica di legge dal 2026, diagnosi di muffa e condensa, riqualificazioni.
+- **Vantaggi:** Dal 2026 i ponti termici non sono più un'opinione: hanno un numero Ψ di legge e un contorno di verifica chiaro.
+- **Limiti e attenzioni:** I valori tabellari coprono le tipologie ricorrenti: architetture speciali richiedono il calcolo numerico (software di post-processing termico).
+- **Costi ed economia:** Correggere un ponte termico in progetto costa quasi zero (disegno); correggerlo in opera costa 50-300 €/ml di dettaglio (strappi, integrazioni isolante).
+- **Caso tipico:** Condominio con muffa ricorrente sui fregi agli architravi: il calcolo ha mostrato Ψ doppio del tabellare per l'interruzione dell'isolante in corrispondenza delle tamponature in ca: la correzione con tasselli isolanti a copertura ha eliminato la muffa in un inverno.
+- **Normativa:** D.M. 28/10/2025 (valori Ψ per tipologia, zona e posizione isolante); UNI EN ISO 10211 (calcolo termico bidimensionale); UNI EN ISO 13788 (valutazione condensa superficiale e interstiziale).
+- **Nota di cantiere:** La muffa disegna i ponti termici: ogni macchia ha la forma del flusso che l'ha causata. Il sopralluogo estivo prepara il cantiere d'inverno.
+
+### I valori limite di trasmittanza U: la tabella vigente
+
+**Categoria:** Normativa involucro · **Corso:** Dimensionamento degli impianti termotecnici
+
+La trasmittanza termica U (W/m²K) misura quanto calore attraversa un elemento per m² e per grado di differenza: il decreto Requisiti Minimi ne fissa i valori limite per pareti, coperture, pavimenti e serramenti in ogni zona climatica. Dal 3 giugno 2026 vige il D.M. 28 ottobre 2025.
+
+- **Tecnologia e criteri:** Tabella verificata (D.M. 28/10/2025, valori limite per edifici esistenti in riqualificazione energetica o ristrutturazione importante di secondo livello): pareti opache verticali / coperture / pavimenti / serramenti, in W/m²K: zona A-B: 0,40 / 0,32 / 0,42 / 3,00; zona C: 0,36 / 0,32 / 0,38 / 2,00; zona D: 0,32 / 0,26 / 0,32 / 1,80; zona E: 0,28 / 0,24 / 0,29 / 1,40; zona F: 0,26 / 0,22 / 0,28 / 1,10. Per la nuova costruzione i valori limite sono più severi (l'H'T, coefficiente medio globale di scambio dell'involucro, modulato per rapporto di forma S/V e quota di vetrate). Dati di contesto: per le DETRAZIONI FISCALI valgono limiti più stringenti del D.M. 6 agosto 2020 (es. pareti zona E: 0,23; serramenti zona E: 1,3 — calcolati senza contributo dei ponti termici). Il calcolo della U avviene con UNI EN ISO 6946 (componenti opachi) e UNI EN 10077 / metodo del serramento campione UNI EN 14351-1 per i serramenti.
+- **Applicazioni:** Verifica di legge di ogni involucro nuovo o riqualificato, scelta dei materiali, controlli in fase di collaudo energetico.
+- **Vantaggi:** Una tabella sola governa il mercato: ogni prodotto isolante o serramento si vende 'per zona' e la verifica è immediata.
+- **Limiti e attenzioni:** I valori sono riferiti al componente 'pulito': il ponte termico di installazione (spalle, davanzali, agganci) degrada la prestazione reale: il decreto 2025 introduce valori di trasmittanza lineica Ψ espliciti per i ponti termici più ricorrenti.
+- **Costi ed economia:** Passare da U 0,40 a U 0,28 su una parete (zona D→E standard) richiede in genere 4-6 cm di isolante in più: 12-25 €/m² di costo aggiuntivo, recuperabile con incentivi e bolletta.
+- **Caso tipico:** Riqualificazione di un edificio anni '70 in zona D: il progetto con serramenti U 1,8 è passato la verifica di legge ma ha fallito la verifica detrazioni (serve 1,6 secondo il DM 2020... verifica valore vigente): la scelta del 1,4 ha sbloccato entrambe. Chi progetta per la legge minima spende due volte.
+- **Normativa:** D.M. 28 ottobre 2025 (G.U. 283/2025), in vigore dal 3/6/2026, Allegato 1 e Appendici (sostituisce D.M. 26/6/2015); D.M. 6/8/2020 per i requisiti delle detrazioni fiscali; UNI EN ISO 6946; UNI EN 14351-1; UNI/TS 11300 (metodi di calcolo energetico).
+- **Nota di cantiere:** Attenzione alla differenza tra 'valore di legge' e 'valore per la detrazione': il secondo è quasi sempre più severo. Il professionista che conosce solo la prima tabella fa rilavorare il cliente.
+
+### Il DM 6 agosto 2020: i requisiti per le detrazioni fiscali
+
+**Categoria:** Normativa involucro · **Corso:** Dimensionamento degli impianti termotecnici
+
+Per accedere alle detrazioni fiscali energetiche valgono i requisiti del D.M. 6 agosto 2020, più severi dei limiti di legge ordinari: vale la pena progettare 'per la detrazione' anche quando il cliente non la chiede ancora.
+
+- **Tecnologia e criteri:** Differenze chiave (valori verificati): 1) le trasmittanze limite sono più basse: pareti opache (senza contributo dei ponti termici): zona A-B 0,38, C 0,30, D 0,26, E 0,23, F 0,22 W/m²K; serramenti: zona A-B 3,00, C 2,00, D 1,80, E 1,30, F 1,00 W/m²K (contro 1,40 della tabella ordinaria di zona E); 2) coperture e pavimenti analogamente più severe; 3) la verifica è sul componente 'pulito': il calcolo non include i ponti termici (pilastri, travi), quindi il valore dichiarato del pacchetto isolante deve essere ancora più basso nella parte piena; 4) impianti: generatori a condensazione o pompe di calore con requisiti di efficienza stagionale (ηs, SCOP/SEER secondo i valori di legge aggiornati); 5) asseverazione obbligatoria da tecnico abilitato con EGE (Esperto in Gestione dell'Energia) o certificatore, invio tramite la piattaforma ENEA (Agenzia nazionale per le nuove tecnologie); 6) finestra mobile: i valori si applicano agli interventi con data di inizio lavori e di fine lavori secondo le regole della Legge di Bilancio vigente (verificare sempre prima di quotare).
+- **Applicazioni:** Progettazione di riqualificazioni che puntano alla detrazione: involucro, serramenti, impianti, pompe di calore.
+- **Vantaggi:** Il margine tra 'di legge' e 'di detrazione' è il valore aggiunto del progettista: costruire sopra la soglia più alta costa poco e apre ogni porta.
+- **Limiti e attenzioni:** Le tabelle si aggiornano con le leggi di bilancio: il numero giusto è quello vigente alla data di FINE lavori (e inizio, secondo le regole del periodo): documentare la data di riferimento in relazione.
+- **Costi ed economia:** Sovrapprezzo medio per progettare 'al livello detrazioni' invece che 'a legge': 5-15 €/m² di involucro: il ritorno è la piena accessibilità all'incentivo.
+- **Caso tipico:** Cliente indeciso sulla detrazione: progetto fatto comunque ai livelli DM 2020 (serramenti U 1,3 in zona E): alla firma del contratto la detrazione era ancora disponibile e l'intero intervento è entrato in agevolazione; il vicino 'al limite di legge' (U 1,4) ha dovuto accontentarsi del solo miglioramento di comfort.
+- **Normativa:** D.M. 6 agosto 2020 'Requisiti tecnici per l'accesso alle detrazioni fiscali per interventi di efficienza energetica'; Legge di Bilancio in vigore (finestre temporali e aliquote); prassi ENEA per l'asseverazione e l'invio telematico.
+- **Nota di cantiere:** La data che conta è dichiarata e documentata: conservare nel fascicolo la data di inizio lavori (SCIA/permesso o contratto con data certa) e di fine lavori (verbale di collaudo/consegna): sono loro a decidere quale legge applica.
+
+### L'edificio in estate: trasmittanza periodica, sfasamento e rischio muffa
+
+**Categoria:** Normativa involucro · **Corso:** Dimensionamento degli impianti termotecnici
+
+L'involucro deve funzionare anche d'estate: la trasmittanza termica periodica Yie limita l'ingresso dell'onda di calore, lo sfasamento φ (ore) ritarda il picco verso la notte, e la verifica UNI EN ISO 13788 esclude il rischio di condensa superficiale e muffa.
+
+- **Tecnologia e criteri:** Parametri: 1) trasmittanza periodica Yie (W/m²K): valore dinamico della parete; aree con irradianza >290 W/m² nel mese di massima insolazione: pareti leggere (massa <230 kg/m²) non orientate a nord devono avere Yie <0,10 W/m²K, coperture Yie <0,18 W/m²K (il requisito era già nel DM 2015 e resta nel quadro vigente); 2) sfasamento φ: ore tra il picco esterno e il picco interno; 14-20 ore sono buone per le pareti pesanti isolate all'esterno; 3) la verifica di muffa (UNI EN ISO 13788) confronta la temperatura superficiale interna con il punto di rugiada: fattore di temperatura superficiale fRsi ≥ 0,70-0,75 come accettabilità diffusa; 4) la correzione dei ponti termici è spesso la differenza tra muffa e niente muffa; 5) la ventilazione estiva notturna e le schermature (gtot ≤0,35 in presenza di schermatura mobile) completano la strategia; 6) il deumidificativo: carico latente e sensibile estivo, con VMC o sistemi dedicati.
+- **Applicazioni:** Edilizia residenziale e terziaria del centro-sud e delle aree interne, tamponamenti in climi caldi, retrofit di edifici con sofferenza estiva.
+- **Vantaggi:** L'estate è il nuovo inverno: il comfort estivo paga in produttività (uffici) e in salute (anziani), e la norma ora lo tratta esplicitamente.
+- **Limiti e attenzioni:** Le verifiche periodiche richiedono il calcolo dinamico: software o metodi semplificati accettati; le schermature esterne devono essere mosse e mantenute (una tenda rotta vale zero).
+- **Costi ed economia:** Una schermatura esterna mobile ben fatta: 30-80 €/m² di vetro; un sistema di ventilazione notturna controllata: 1.000-4.000 € per appartamento.
+- **Caso tipico:** Uffici open space con vetro a ovest e frangisole interni: temperature operative oltre 28 °C per 60 ore/anno malgrado il climatizzatore: l'analisi periodica ha mostrato Yie doppio del limite e sfasamento di 4 ore; spostata la schermatura all'esterno e aggiunta ventilazione notturna: -3 °C di picco interno senza toccare l'impianto.
+- **Normativa:** Requisiti di trasmittanza periodica dal D.M. Requisiti Minimi (D.M. 28/10/2025, quadro ereditato dal 2015); UNI EN ISO 13788 (condensa); UNI EN ISO 13786 (proprietà termiche dinamiche); UNI EN 12464-1 e UNI EN 15193 per l'illuminazione e l'illuminazione naturale.
+- **Nota di cantiere:** La domanda estiva decisiva: 'dove va il calore di notte?' Se la risposta non esiste (masse, ventilazione, sfasamento), il climatizzatore lavora per il sole.
+
+### Le zone climatiche e i gradi giorno: da dove parte ogni calcolo
+
+**Categoria:** Normativa involucro · **Corso:** Dimensionamento degli impianti termotecnici
+
+L'Italia è divisa in sei zone climatiche (A-F) in base ai gradi giorno (GG): A ≤600, B 601-900, C 901-1400, D 1401-2100, E 2101-3000, F >3000; la zona determina tutti i requisiti di legge dell'edificio e dei suoi impianti.
+
+- **Tecnologia e criteri:** Definizioni: 1) grado giorno: per ogni giorno, la differenza tra 20 °C e la temperatura media esterna giornaliera (se positiva): sommando l'anno si ottiene il GG della località, indice della severità del clima invernale; 2) la ripartizione in zone risale al DPR 412/1993 (con elenco comunale e GG di progetto per città) e i requisiti energetici sono differenziati per zona dal decreto Requisiti Minimi; 3) tavola città (esempi verificati): A: Lampedusa; B: Palermo, Catania, Reggio Calabria; C: Bari, Napoli, Sassari; D: Roma, Ancona, Firenze, Genova; E: Milano, Bologna, Torino, Verona, Vicenza; F: Belluno, Cuneo, Aosta, Bormio; 4) le temperature di progetto esterne (t di calcolo) discendono dalla zona: da +6 °C della zona A a -15 °C e oltre della zona F (per il dimensionamento dei generatori); 5) attenzione ai microclimi: comuni montani possono avere una zona più severa di quella della piana circostante (classificazione comunale vince sulle apparenze geografiche).
+- **Applicazioni:** Ogni calcolo termotecnico italiano: involucro (limiti U), impianti (temperature di progetto), APE, incentivi, agibilità.
+- **Vantaggi:** Un solo dato (la zona del comune) apre tutte le tabelle: il primo campo di ogni software termotecnico è sempre la zona climatica.
+- **Limiti e attenzioni:** Le tabelle comunali vanno verificate su fonte aggiornata: confini comunali e riclassificazioni occasionali cambiano la zona (e i requisiti) senza cambiare il clima.
+- **Costi ed economia:** Costo zero: è un dato pubblico (tabelle DPR 412/93 aggiornate); il software lo precompila dalla selezione del comune.
+- **Caso tipico:** Due comuni confinanti della stessa provincia, uno in zona E e uno in F: stesso progetto di villa richiede involucro diverso (serramento U ≤1,40 vs ≤1,10 W/m²K) e generatore dimensionato su -9 °C invece di -5 °C: il preventivo 'copiato' dal comune vicino era tecnicamente sbagliato.
+- **Normativa:** DPR 412/1993 (norme per la progettazione, l'installazione e la manutenzione degli impianti termici degli edifici, con ripartizione climatica); D.M. Requisiti Minimi (oggi D.M. 28 ottobre 2025, in vigore dal 3 giugno 2026, che ha sostituito il D.M. 26 giugno 2015).
+- **Nota di cantiere:** Il primo campo da compilare in assoluto: comune dell'opera. Chi progetta 'a occhio' sul clima percepito sbaglia requisiti e dimensionamenti insieme.
+
 ### Il dimensionamento del pavimento/soffitto radiante
 
 **Categoria:** Radianti · **Corso:** Dimensionamento degli impianti termotecnici
@@ -593,7 +683,22 @@ Come si calcola la rete di ventilazione: dal volume d'aria alla bocchetta.
 - **Costi ed economia:** La verifica: anemometro a ogni bocchetta (50-100 €).
 - **Caso tipico:** Le VMC con sonda CO2 che modulano le portate in base all'effettiva presenza.
 - **Normativa:** UNI 10339; UNI EN 13779.
-- **Nota di cantiere:** La regola pratica: la bocchetta in camera da letto deve essere appena udibile: se la senti, è troppo veloce. Ridurre il diametro? no: aumentare: la velocità scende col quadrato del diametro.
+- **Nota di cantiere:** La regola pratica: la bocchetta in camera da letto deve essere appena udibile: se la senti, è troppo veloce. aumentare: la velocità scende col quadrato del diametro.
+
+### La relazione tecnica ex art. 8 D.Lgs 192/2005: il documento unico
+
+**Categoria:** Verifiche · **Corso:** Dimensionamento degli impianti termotecnici
+
+Dalla fine del 2025 il D.M. Requisiti Minimi raccoglie in un'unica relazione tecnica (ex art. 8 D.Lgs 192/2005) tutti gli obblighi energetici dell'edificio: involucro, impianti, rinnovabili, automazione, ricarica veicoli e qualità dell'acqua — un solo documento che sostituisce la ragnatela di adempimenti sparsi.
+
+- **Tecnologia e criteri:** Contenuto della relazione unica: 1) descrizione dell'intervento (nuova costruzione, ristrutturazione importante I o II livello, riqualificazione, ampliamento); 2) caratteristiche dell'involucro con verifiche U, H'T, Yie, ponti termici; 3) impianti termici, idrici, elettrici ed estraibili con verifiche di efficienza stagionale; 4) copertura del fabbisogno da fonti rinnovabili (obbligo FER: quota dell'ACS da solare/altre fonti secondo tipologia e zona); 5) automazione edificio (contabilizzazione, regolazione climatica, illuminazione secondo D.Lgs 102/2014 come recepito); 6) predisposizione ricarica veicoli elettrici per edifici con posti auto (condotte e cavidotti); 7) qualità delle acque: separazione reti, protezione contro il riflusso (UNI EN 1717); 8) esiti delle verifiche globali (EPgl,nren) con confronto al riferimento; 9) allegati: elaborati grafici, capitolato energetico, schede prodotto, APE. Dal 3 giugno 2026 tutti i calcoli usano le misure esterne lorde (superfici e volumi): il chiarimento ha eliminato le interpretazioni difformi del DM 2015.
+- **Applicazioni:** Pratiche edilizie di ogni intervento energetico rilevante, materiali per il collaudo energetico, fascicolo del fabbricato.
+- **Vantaggi:** Un solo documento controllabile: il tecnico che sa compilare la relazione unica domina tutti gli adempimenti che prima erano dispersi in cinque decreti.
+- **Limiti e attenzioni:** La completezza è forma e sostanza: relazioni con le voci 'non applicabili' dimenticate (automi, acqua, ricarica) sono il primo rilievo dei controllori.
+- **Costi ed economia:** Redazione relazione tecnica ex art. 8: 600-2.500 € in funzione della complessità; il software guida l'output e riduce gli errori di omissione.
+- **Caso tipico:** Villette in classe A: la relazione unica ha evidenziato che due dei sei lotti non avevano la predisposizione per colonnine richiesta per i posti auto in corte comune: integrata in corso d'opera con cavidotto condiviso, costo 900 € invece della sistemazione successiva da 4.000 €.
+- **Normativa:** D.M. 28/10/2025, Allegato 1 (relazione tecnica unica, in vigore dal 3/6/2026) che incorpora gli obblighi di D.Lgs 199/2021 (FER), D.Lgs 257/2016 (ricarica VE), D.Lgs 102/2014 (automazione), direttiva 2020/2184 (acque); D.Lgs 192/2005 (art. 8).
+- **Nota di cantiere:** La relazione ex art. 8 è la madre di tutte le verifiche: fare tabella di raccordo obbligo → capitolo → documento allegato, e spuntarla in fase di progetto, non in fase di pratica.
 
 
 ## Domotica e building automation
@@ -1246,7 +1351,7 @@ La direttiva 'Case Green' (EPBD IV, UE 2024/1275) aggiorna la direttiva sulle pr
 
 Le formule del suono negli edifici: il comfort che si misura.
 
-- **Tecnologia e criteri:** Tempo di riverbero di Sabine: T = 0,161·V/A (A = ΣS·α); il criterio di Ottavo? no: 'valutazione': T ottimale uffici 0,6-0,8 s, ristoranti 0,8-1,2 s, chiese 2-3 s; isolamento: R = L1 − L2 + 10·log(S/A); rumore = 10·log(Σ10^(Li/10)).
+- **Tecnologia e criteri:** Tempo di riverbero di Sabine: T = 0,161·V/A (A = ΣS·α); 'valutazione': T ottimale uffici 0,6-0,8 s, ristoranti 0,8-1,2 s, chiese 2-3 s; isolamento: R = L1 − L2 + 10·log(S/A); rumore = 10·log(Σ10^(Li/10)).
 - **Applicazioni:** Progetto acustico, risarcimenti da rumore, ristrutturazioni.
 - **Vantaggi:** La formula di Sabine (1898!) è ancora lo strumento n.1: una stanza si descrive con un numero.
 - **Limiti e attenzioni:** Le formule valgono per campi diffusi: le prime riflessioni e il parlato ravvicinato richiedono modelli più fini.
@@ -1266,7 +1371,7 @@ Il vapore acqueo che attraversa la parete e diventa acqua: la fisica della muffa
 - **Vantaggi:** La muffa è quasi sempre condensazione interstiziale o superficiale: la fisica la spiega e la cura.
 - **Limiti e attenzioni:** La realtà è 2D e 3D (ponti termici): il metodo di Glaser è 1D.
 - **Costi ed economia:** Le tabelle del vapore saturo sono pubbliche.
-- **Caso tipico:** Interno 20°C/55% UR → p=1280 Pa; parete con barriera insufficiente: condensa nel lana? no: 'nella lana' in inverno.
+- **Caso tipico:** Interno 20°C/55% UR → p=1280 Pa; 'nella lana' in inverno.
 - **Normativa:** UNI EN ISO 13788 (metodo Glaser).
 - **Nota di cantiere:** La muffa in basso a destra della camera nord: non è sfortuna, è fisica. Il progettista che non fa il Glaser scarica la muffa sul cliente.
 
@@ -1418,7 +1523,7 @@ Come passa il calore attraverso la parete: la formula che decide l'efficienza en
 - **Costi ed economia:** I valori λ dei materiali nelle tabelle UNI (pubbliche).
 - **Caso tipico:** Parete: intonaco 0,02/0,7 + cls 0,20/2,3 + cappotto 0,10/0,035 + intonaco 0,02/0,7 → R=3,24 → U=0,30 W/m²K.
 - **Normativa:** UNI EN ISO 6946; UNI/TS 11300.
-- **Nota di cantiere:** Il ponte termico tipico del 15-20% di perdita: verificare correnti d'aria e cerniere? no: 'sommando U·A si deve aggiungere il 15% per ponti termici': regola rapida del Legge 10.
+- **Nota di cantiere:** 'sommando U·A si deve aggiungere il 15% per ponti termici': regola rapida del Legge 10.
 
 ### La ventilazione in formule: portate, ricambi e CO2
 
@@ -1461,13 +1566,13 @@ Diffusione sonora di emergenza: messaggi chiari che guidano l'uscita.
 
 Barriere fisiche al fuoco: porte REI 60-120, pareti, serrande, vetri tagliafuoco.
 
-- **Tecnologia e criteri:** Porte metalliche certificate UNI 9723, sigillanti intumescenti, serrande coibentate, vetri EI30-120.
+- **Tecnologia e criteri:** Porte metalliche certificate secondo UNI EN 16034, sigillanti intumescenti, serrande coibentate, vetri EI30-120.
 - **Applicazioni:** Ogni edificio: corridoi, vani scale, garage interrati, laboratori.
 - **Vantaggi:** Il comparto funziona SOLO se tutte le chiusure sono a norma: una porta spalancata annulla tutto.
 - **Limiti e attenzioni:** Le porte tagliafuoco spesso vengono 'bloccate' per comodità; i fermi automatici costano e vengono tolti.
 - **Costi ed economia:** Porta REI 60: 400-1.200 €; vetro tagliafuoco: 300-800 €/m2; verifica annuale: 10-30 €/porta.
 - **Caso tipico:** Porte Dierre, Novoferm; vetri Saint-Gobain, Schott.
-- **Normativa:** UNI 9723 (porte); DM 3/8/2015 (prevenzione incendi); UNI EN 13501 (classi).
+- **Normativa:** UNI EN 16034 (porte e finestre resistenti al fuoco: marcatura CE e campo d'applicazione); DM 3/8/2015 e normativa vigente prevenzione incendi per le prescrizioni; UNI EN 13501 (classi di resistenza E/EI).
 - **Nota di cantiere:** Il controllo annuale delle chiusure tagliafuoco è l'obbligo più economico e più trascurato: un check di 1 giorno salva un intero edificio.
 
 ### Rilevazione incendi e analisi
@@ -1542,7 +1647,7 @@ Il cuore elettrico di edifici grandi: trasformazione da media tensione a bassa t
 - **Limiti e attenzioni:** Manutenzione obbligatoria con personale abilitato; spazio e costi iniziali.
 - **Costi ed economia:** Cabina 630-1000 kVA: 40-120k€ chiavi in mano; manutenzione: 3-8k€/anno.
 - **Caso tipico:** Cabine standardizzate 15/20 kV secondo norma CEI.
-- **Normativa:** CEI 0-16 (allacciamenti); DPR 462/01 (esercizio); leggi gioco? no: L.186/68.
+- **Normativa:** CEI 0-16 (allacciamenti); DPR 462/01 (esercizio); L.186/68.
 - **Nota di cantiere:** La gestione della cabina richiede un 'esercente' nominato: molti condomini lo ignorano e rischiano sanzioni e blackout.
 
 ### Cavidotti e canaline
@@ -1692,7 +1797,7 @@ Reti interne gas: dal contatore agli apparecchi, con sicurezza attiva e passiva.
 - **Limiti e attenzioni:** Le vecchie reti in gomma sono pericolo reale; verifica triennale da professionista abilitato.
 - **Costi ed economia:** Rete interna appartamento: 300-900 €; ristorante: 1-3k€; rilevatore certificato: 60-150 €.
 - **Caso tipico:** Valvole di sicurezza ora OBBLIGATORIE in nuovi impianti e in caso di ristrutturazione.
-- **Normativa:** UNI 7129; UNI 7131; legge reg. gas (DPR 144/2000).
+- **Normativa:** UNI 7129 (impianti a gas per uso domestico e similari); D.M. 24/11/1984 e s.m.i. (impianti di distribuzione e utilizzazione del gas); marcatura CE secondo Regolamento (UE) 2016/426 (apparecchi a gas); D.M. 37/2008 (conformità impianti).
 - **Nota di cantiere:** Norma chiara: in ristrutturazione l'impianto gas va MESSO A NORMA INTEGRALMENTE, non a pezzi: è l'occasione giusta per rivedere tutto.
 
 ### Caldaia a condensazione
@@ -1827,7 +1932,7 @@ Distribuzione acqua fredda e calda sanitaria (ACS) dall'allaccio ai punti di ero
 - **Limiti e attenzioni:** PPR richiede attrezzatura di saldatura; la circolazione ACS costa se non isolata bene.
 - **Costi ed economia:** Multistrato 16-20mm: 1,5-4 €/ml; collettore 8 vie: 60-150 €; installazione punto acqua: 150-350 €.
 - **Caso tipico:** Impianti a collettore (impianto a 'pettine') ora standard nelle abitazioni moderne.
-- **Normativa:** UNI EN 806; D.M. 174/2004 (requisiti acque potabili interni); D.Lgs 18/2023 (edilizia).
+- **Normativa:** UNI EN 806 (progettazione degli impianti idrici interni); D.Lgs 152/2006 (requisiti di qualità delle acque destinate al consumo umano) e D.M. 25/02/2016 (criteri di accettabilità); marcatura CE dei componenti a contatto con acqua potabile.
 - **Nota di cantiere:** L'ACS deve arrivare <25 s e >50°C (anti-legionella): percorso max 15-20 m dal generatore o inserire circolazione.
 
 ### Protezione contro rischio di contaminazione (sistemi a tenuta di rifiuto)
@@ -1996,7 +2101,7 @@ Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
 - **Vantaggi:** La canna fumaria giusta garantisce sicurezza ed efficienza: il tiraggio insufficiente soffoca la fiamma e riempie di monossido.
 - **Limiti e attenzioni:** Le canne fumarie esistenti in muratura spesso non sono idonee per a condensazione (acido corrosivo).
 - **Costi ed economia:** Canna fumaria coibentata: 60-150 €/ml installata.
-- **Caso tipico:** Le verifiche periodiche dei camini (spazzacamino) e le norme antincendio (UNI 10683? no: 'requisiti canne fumarie da verificare').
+- **Caso tipico:** Le verifiche periodiche dei camini (spazzacamino) e le norme antincendio ('requisiti canne fumarie da verificare').
 - **Normativa:** UNI 7129; UNI EN 1856 (canne fumarie metalliche).
 - **Nota di cantiere:** Il test del tiraggio: fiamma accesa alla base della canna (tiraggio 'a candela'): se la fiamma vira verso l'interno, la canna va rifatta. Mai operare 'a tentativi' con i generatori a fiamma.
 
@@ -2011,7 +2116,7 @@ Come funziona la macchina che raffresca: compressore, condensatore, espansione, 
 - **Vantaggi:** Il ciclo frigorifero è lo stesso di tutte le macchine termiche: capirlo una volta = capirle tutte.
 - **Limiti e attenzioni:** Il rendimento crolla con le temperature esterne estreme (raffrescamento a +40°C, riscaldamento a −10°C).
 - **Costi ed economia:** Split 12000 BTU (3,5 kW): 600-1.500 € installato; manutenzione: 80-150 €/anno.
-- **Caso tipico:** Il mercato italiano del condizionatore (oltre 10 milioni di split, dati ANTA? no: 'dati settore').
+- **Caso tipico:** Il mercato italiano del condizionatore (oltre 10 milioni di split, 'dati settore').
 - **Normativa:** Reg. UE 517/2014 (F-gas); UNI EN 378.
 - **Nota di cantiere:** La potenza si sceglie sul fabbisogno REALE (isolamento), non sui m2: una stanza ben coibentata da 25 m2 basta 9000 BTU, una vetrata esposta sud ne vuole 18000.
 
@@ -2021,7 +2126,7 @@ Come funziona la macchina che raffresca: compressore, condensatore, espansione, 
 
 L'anatomia della macchina del futuro: refrigerazione + idronica.
 
-- **Tecnologia e criteri:** Componenti: compressore (rotativo, scroll o R290? no: 'a doppio stadio per climi freddi'), scambiatore esterno (evaporatore a piastre o 'aerotermo con ventole'), valvola a quattro vie (inversione caldo/freddo), scambiatore interno (a piastre saldobrasate o 'tubo in tubo'), modulo idronico (pompa, vaso espansione, valvole, sonda flusso), resistenza ausiliaria, centralina con modulazione.
+- **Tecnologia e criteri:** Componenti: compressore (rotativo, 'a doppio stadio per climi freddi'), scambiatore esterno (evaporatore a piastre o 'aerotermo con ventole'), valvola a quattro vie (inversione caldo/freddo), scambiatore interno (a piastre saldobrasate o 'tubo in tubo'), modulo idronico (pompa, vaso espansione, valvole, sonda flusso), resistenza ausiliaria, centralina con modulazione.
 - **Applicazioni:** Riscaldamento invernale, raffrescamento estivo e ACS (aria-acqua).
 - **Vantaggi:** Una sola macchina per tutto: riscaldamento, raffrescamento, ACS con rendimento 300-500%.
 - **Limiti e attenzioni:** La complessità elettronica richiede installatori certificati F-gas e formazione specifica.
@@ -2041,7 +2146,7 @@ La produzione di ACS punto per punto: le tre tecnologie a confronto.
 - **Vantaggi:** Lo scaldabagno a gas istantaneo non ha accumulo: energia infinita ma portata limitata (11-17 l/min).
 - **Limiti e attenzioni:** Lo scaldabagno a gas in camera da letto è vietato (norma UNI 7129: solo camera stagna o ambienti idonei).
 - **Costi ed economia:** Scaldabagno a gas: 400-900 €; elettrico: 150-400 €; a PDC: 800-1.800 €.
-- **Caso tipico:** Lo standard italiano dello scaldabagno a gas (milioni installati); il boom dello scaldabagno a PDC per i balconi? no: 'per l'ACS efficiente'.
+- **Caso tipico:** Lo standard italiano dello scaldabagno a gas (milioni installati); 'per l'ACS efficiente'.
 - **Normativa:** UNI 7129; ecodesign.
 - **Nota di cantiere:** Il dimensionamento rapido ACS: 1 persona = 40-60 l a 40°C di accumulo. Una famiglia di 4 con docce serali: accumulo 100-150 l (scaldabagno) o 150-200 l (scaldacqua centralizzato).
 
@@ -2057,7 +2162,7 @@ Il camino che scalda l'acqua: potenza 15-25 kW con accumulo obbligatorio.
 - **Limiti e attenzioni:** SENZA accumulo il termocamino è vietato per norma (bollore istantaneo: la potenza del fuoco supera sempre l'assorbimento istantaneo).
 - **Costi ed economia:** Termocamino: 3.000-8.000 €; accumulo 1000 l: 800-1.500 €.
 - **Caso tipico:** Le installazioni central-europee (Austria, Germania) dove il termocamino+accumulo è lo standard.
-- **Normativa:** UNI 7129 (accumulo obbligatorio); UNI 10683? no: 'da verificare' camini.
+- **Normativa:** UNI 7129 (accumulo obbligatorio); 'da verificare' camini.
 - **Nota di cantiere:** La regola d'oro: accumulo = 50-100 l per kW di potenza del focolare. Chi vende il termocamino senza accumulo vende un impianto fuorilegge.
 
 ### La termostufa a pellet: anatomia del ciclo del combustibile
@@ -2107,7 +2212,7 @@ Il cuore della distribuzione moderna: il collettore e i vantaggi del pettine.
 - **Limiti e attenzioni:** Il consumo di tubo è maggiore (30-50% in più di metri lineari).
 - **Costi ed economia:** Collettore 8 vie: 60-150 €.
 - **Caso tipico:** Lo standard tedesco/italiano della distribuzione a pettine dagli anni 2000.
-- **Normativa:** UNI EN 1264? no: 'prassi progettuali'.
+- **Normativa:** 'prassi progettuali'.
 - **Nota di cantiere:** Il collaudo della rete a pettine: la prova in pressazione si fa settore per settore con il collettore: isolare una zona alla volta trova il problema in minuti, non in giorni.
 
 ### I componenti elettrici dell'impiantista: quadri, magnetotermici, differenziali
@@ -2153,7 +2258,7 @@ Il cuore che muove l'acqua nei circuiti chiusi.
 - **Costi ed economia:** Circolatore A: 150-500 €; a rotore asciutto: 200-600 €.
 - **Caso tipico:** La sostituzione dei circolatori vecchi in Italia (milioni all'anno).
 - **Normativa:** Ecodesign ERP per circolatori.
-- **Nota di cantiere:** La regola di Tarabella? no: 'la pompa non si dimensiona sulla portata massima, ma sul punto di lavoro reale': chiedere SEMPRE la curva carico-pressione del circuito, non 'quanti kW serve'.
+- **Nota di cantiere:** 'la pompa non si dimensiona sulla portata massima, ma sul punto di lavoro reale': chiedere SEMPRE la curva carico-pressione del circuito, non 'quanti kW serve'.
 
 ### I raccordi: pressare, saldare, a innesto, filettare
 
@@ -2166,8 +2271,8 @@ Come si uniscono i tubi: le 4 tecniche e quando usarle.
 - **Vantaggi:** La pressatura moderna: un operaio giunziona 50 punti al giorno con affidabilità testata.
 - **Limiti e attenzioni:** La pressatura sbagliata (ganasce sporche, tubo non a fondo) è la perdita n.1 dei cantieri moderni.
 - **Costi ed economia:** Pinza a pressare: 100-400 €.
-- **Caso tipico:** Le pressacavi? no: le presse radiali e le presse a morsetto per multistrato.
-- **Normativa:** UNI 11344 (pressione minima per giunzioni).
+- **Caso tipico:** le presse radiali e le presse a morsetto per multistrato.
+- **Normativa:** Prescrizioni dei produttori per le pressioni di pressatura e le curve di pressatura del multistrato.
 - **Nota di cantiere:** La regola del professionista: una giunzione visibile vale dieci nascoste. E una giunzione inaccessibile deve essere pressata DUE volte (sicurezza) o saldata.
 
 ### I tubi per l'acqua: rame, multistrato, PEX, PP-R, acciaio
@@ -2182,7 +2287,7 @@ I materiali della rete idraulica: dove usarli e dove evitarli.
 - **Limiti e attenzioni:** Il rame rubato nei cantieri: valutare alternative nei luoghi a rischio.
 - **Costi ed economia:** Prezzi indicativi al metro per diametro 16-20.
 - **Caso tipico:** Le reti in multistrato a collettore 'a pettine' nelle case moderne.
-- **Normativa:** UNI EN 1057 (rame); UNI 11344 (multistrato); UNI EN ISO 15874 (PP-R).
+- **Normativa:** UNI EN 1057 (rame); UNI EN ISO 15874 (PP-R); UNI EN ISO 15875 (PE-X); multistrato secondo normativa di prodotto vigente con marcatura CE.
 - **Nota di cantiere:** Il multistrato NON si lascia all'aria nel solaio: protezione UV e meccanica obbligatoria. La guaina corrugata non è optional.
 
 ### I tubi per il gas: acciaio, rame, multistrato marcato
@@ -2209,7 +2314,7 @@ I rubinetti che regolano l'acqua: i 6 tipi che devi conoscere.
 - **Tecnologia e criteri:** Valvola a sfera (apertura/chiusura totale, il nuovo standard); valvola di detenzione (regolazione fine del flusso); valvola termostatica (testina a cera/liquido, mantiene la temperatura di mandata dei corpi scaldanti); valvola miscelatrice (mescola caldo/freddo per l'ACS antiscottatura); valvola di non ritorno (senso unico obbligatorio su circolatori e sistemi); valvola di sfogo aria (sfiato automatico nei punti alti).
 - **Applicazioni:** Collettori, corpi scaldanti, impianti ACS, idronici.
 - **Vantaggi:** Le valvole giuste al posto giusto: il 50% dei malfunzionamenti idronici sono valvole sbagliate o assenti.
-- **Limiti e attenzioni:** Le testine termostatiche vanno disattivate in estate? no: 'i detentori chiusi lasciano l'aria': ogni valvola ha la sua logica d'uso.
+- **Limiti e attenzioni:** 'i detentori chiusi lasciano l'aria': ogni valvola ha la sua logica d'uso.
 - **Costi ed economia:** Valvole: 10-80 €/pz; testine termostatiche: 15-60 €.
 - **Caso tipico:** I collettori con valvole di detenzione e sfiato (standard multistrato).
 - **Normativa:** UNI EN 215 (testine termostatiche).
@@ -2337,7 +2442,7 @@ La piscina da costruzione è un serbatoio in calcestruzzo armato impermeabilizza
 - **Limiti e attenzioni:** La tenuta è critica: una fessura non riparata consuma acqua, sale e riscalda? costa denaro e mina la struttura.
 - **Costi ed economia:** Costi: piscina interrata in calcestruzzo 25-50 m²: 1.500-3.000 €/m² di vasca (finiture base); il rivestimento in mosaico: extra.
 - **Caso tipico:** Piscina con guaina PVC sotto il mosaico e getto curato (curing prolungato): dopo 12 anni, zero perdite e zero infiltrazioni strutturali; la vasca gemella senza guaina ha rifatto l'impermeabilizzazione a 6 anni per alzature e infiltrazioni.
-- **Normativa:** Normativa piscine (D.Lgs 116/1999 per le piscine? no: il riferimento è la normativa tecnica per piscine e le prescrizioni igieniche locali); UNI 13451? Riferimento: buona pratica e specifiche.
+- **Normativa:** Prescrizioni igienico-sanitarie regionali per piscine (acque di balneazione artificiali); normativa di prodotto per materiali e strutture (cls UNI EN 206, acciai UNI EN 10080, rivestimenti con marcatura CE); buona pratica progettuale e specifiche d'appalto.
 - **Nota di cantiere:** La prima legge della piscina: l'acqua è pesante (1.000 kg/m³) e sempre in movimento — la struttura e la tenuta devono rispettarla sempre.
 
 
@@ -2732,7 +2837,7 @@ Strumenti geodetici a guida automatica per il posizionamento ad alta precisione.
 - **Limiti e attenzioni:** Vista libera richiesta; umidità/polvere degradano; costo strumento.
 - **Costi ed economia:** Stazione totale robotica: 15-50k€; laser tracker: 60-150k€.
 - **Caso tipico:** Leica TS16, Trimble S7; standard nei cantieri di ponte e grattacielo.
-- **Normativa:** UNI geodesia; tracciati secondo norma (es. UNI 7317).
+- **Normativa:** Principi di geodesia e topografia: rilievi con stazione totale e livellazione secondo le tolleranze di progetto; riferimenti IGM per le reti nazionali.
 - **Nota di cantiere:** Fondamentale abbinare il rilievo continuo al modello: la stazione totale 'guida' la posa come un GPS del cantiere.
 
 ### Esoscheletri per operai

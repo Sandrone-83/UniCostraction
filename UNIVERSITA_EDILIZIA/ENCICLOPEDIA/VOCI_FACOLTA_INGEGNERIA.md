@@ -142,7 +142,7 @@ L'X-Lam (cross laminated timber) è il pannello di legno incrociato: listelli so
 - **Limiti e attenzioni:** Il costo al metro quadro è più alto della muratura tradizionale (ordine +20-40%); il gap si recupera in tempi, precisione e consumi.
 - **Costi ed economia:** Costi: pannello X-Lam 40-90 €/m² (spessori standard); struttura completa 250-450 €/m².
 - **Caso tipico:** Edificio scolastico in X-Lam a tre piani: montaggio della struttura in 3 settimane; il legno a vista nelle aule ha migliorato la percezione dello spazio e la qualità dell'ambiente dichiarata da studenti e insegnanti.
-- **Normativa:** Eurocodice 5 / NTC; marcatura CE EN 13986 (X-Lam); specifiche produttori (hub? no: Holz, Stora Enso,Mayr-Melnhof come riferimenti europei).
+- **Normativa:** Eurocodice 5 / NTC; marcatura CE EN 13986 (X-Lam); specifiche produttori (Holz, Stora Enso,Mayr-Melnhof come riferimenti europei).
 - **Nota di cantiere:** La regola: l'X-Lam si progetta CON il produttore (sistemi, connessioni, trasporti): il modello 3D nasce già costruibile.
 
 
@@ -481,7 +481,7 @@ Le formule del dimensionamento rapido delle fondazioni.
 
 Le formule del terreno: capire cosa regge e cosa spinge.
 
-- **Tecnologia e criteri:** Tensione verticale efficace σ' = γ·z (sotto falda: γ' = γ_sat − γ_w ≈ 10 kN/m³); capacità portante di Meyerhof/Vesic: q_lim ≈ cN_c + γDN_q + 0,5γBN_γ; spinta attiva di Rankine σ_a = γz·K_a − 2c√K_a con K_a = tan²(45°−φ/2); cedimento con Winkler? no: 'cedimento consolidazione': s = H·C_c/(1+e₀)·log(σ'₁/σ'₀).
+- **Tecnologia e criteri:** Tensione verticale efficace σ' = γ·z (sotto falda: γ' = γ_sat − γ_w ≈ 10 kN/m³); capacità portante di Meyerhof/Vesic: q_lim ≈ cN_c + γDN_q + 0,5γBN_γ; spinta attiva di Rankine σ_a = γz·K_a − 2c√K_a con K_a = tan²(45°−φ/2); 'cedimento consolidazione': s = H·C_c/(1+e₀)·log(σ'₁/σ'₀).
 - **Applicazioni:** Fondazioni, muri di sostegno, verifiche di scavo, consolidamenti.
 - **Vantaggi:** Le formule della geotecnica sono poche e potenti: la diagnosi del terreno inizia qui.
 - **Limiti e attenzioni:** I parametri (c, φ) vengono dalle indagini: la formula è giusta, i dati possono non esserlo.
@@ -556,7 +556,7 @@ I tre numeri che descrivono una sezione: quanto regge e quanto si flette.
 
 Le tre sollecitazioni di base e le loro formule di verifica.
 
-- **Tecnologia e criteri:** Sforzo normale N (trazione/compressione): σ = N/A. Taglio V: τ = VS/(Ib) ≈ 1,5V/A per sezione rettangolare. Momento M: σ = M/W. Tensioni: acciaio ~235 MPa (S235), cls ~14,2 MPa (C25/30) lato cls armato? no: 'calcolo tensioni'.
+- **Tecnologia e criteri:** Sforzo normale N (trazione/compressione): σ = N/A. Taglio V: τ = VS/(Ib) ≈ 1,5V/A per sezione rettangolare. Momento M: σ = M/W. Tensioni: acciaio ~235 MPa (S235), cls ~14,2 MPa (C25/30) 'calcolo tensioni'.
 - **Applicazioni:** Verifica di ogni elemento portante.
 - **Vantaggi:** Tre formule coprono il primo livello di ogni verifica: la diagnosi immediata.
 - **Limiti e attenzioni:** Le sollecitazioni combinate (N+M, M+V) richiedono interazioni specifiche.
@@ -601,7 +601,7 @@ La legge madre della statica: ogni corpo fermo ha somma di forze e momenti nulla
 
 Le 4 travi che ogni tecnico deve conoscere a memoria: i numeri della professione.
 
-- **Tecnologia e criteri:** Mensola con q uniforme: M_max = qL²/2 all'incastro, V_max = qL. Appoggiata: M_max = qL²/8 al centro, V_max = qL/2. Biapoggiata con carico centrale P: M_max = PL/4. Incastro-rottura? no: incastro-appoggio (trave con un incastro e un appoggio): M_inc = qL²/8, M_campo ≈ qL²/14.
+- **Tecnologia e criteri:** Mensola con q uniforme: M_max = qL²/2 all'incastro, V_max = qL. Appoggiata: M_max = qL²/8 al centro, V_max = qL/2. Biapoggiata con carico centrale P: M_max = PL/4. incastro-appoggio (trave con un incastro e un appoggio): M_inc = qL²/8, M_campo ≈ qL²/14.
 - **Applicazioni:** Verifiche rapide, predisposizione armature, controlli in cantiere.
 - **Vantaggi:** Le 4 formule coprono il 80% delle travi reali: la stima a mano è immediata.
 - **Limiti e attenzioni:** Le condizioni reali (vincoli intermedi, carichi variabili) richiedono il calcolo completo.
@@ -1087,7 +1087,7 @@ La frana è l'emergenza n.1 italiana: come la si conosce, la si ferma o la si co
 - **Limiti e attenzioni:** Il rischio residuo resta: la pianificazione urbana deve rispettare le pericolosità.
 - **Costi ed economia:** Rete paramassi: 50-150 €/m2; dreni profondi: 200-600 €/ml; monitoraggio: 5-50k€/sito/anno.
 - **Caso tipico:** Frana di Sarno 1998, frana di Campotosto; reti della Valtellina; progetto IFFI (inventario frane italiane).
-- **Normativa:** Piano assetto idrogeologico (PAI); L. 267/1998? no: L. 183/89 forestale; NTC per il rischio geologico.
+- **Normativa:** Piano assetto idrogeologico (PAI); L. L. 183/89 forestale; NTC per il rischio geologico.
 - **Nota di cantiere:** Prima di costruire in montagna: leggere il PAI e chiedere lo storico frane del comune. Sempre.
 
 ### Progetto di gallerie: sottovia di montagna e metropolitane
@@ -1102,7 +1102,7 @@ Il 'panino' geotecnico: scavo, sostegno, rivestimento, ventilazione e sicurezza.
 - **Limiti e attenzioni:** Sorpresa geologica = il rischio n.1; il costo può raddoppiare in corso d'opera.
 - **Costi ed economia:** Galleria in TBM: 40-150 M€/km secondo roccia; NATM: 20-80 M£/km.
 - **Caso tipico:** Base del San Gottardo (57 km, 2016, il più lungo del mondo); galleria del Ceneri; Frejus (1871).
-- **Normativa:** UNI 10439? no: AETOS Italia guide gallerie; normativa cantieri sotterranei.
+- **Normativa:** Guide italiane per le gallerie (AETOS) come riferimento tecnico; normativa di sicurezza per i cantieri in sotterraneo (D.Lgs 81/2008).
 - **Nota di cantiere:** La regola d'oro delle gallerie: 'chi scava male, paga due volte' — il sostegno economico è quello che poi crolla.
 
 ### Manutenzione e gestione del patrimonio infrastrutturale
@@ -1192,7 +1192,7 @@ Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Limiti e attenzioni:** Il rischio diga è il rischio industriale più severo: serve cultura della sicurezza totale.
 - **Costi ed economia:** Dighe grandi: miliardi di euro; manutenzione continua obbligatoria per legge (DPR 445/1999? sì: normativa dighe).
 - **Caso tipico:** Diga del Vajont (1963, 1917 morti: errore geologico, non idraulico); diga di Itaipu; Grande Dixence (285 m, più alta d'Europa).
-- **Normativa:** DPR 445/1999 (norme tecniche dighe); Legge 395/1994? no: le 'Norme per la sicurezza delle dighe' L. 1098/1971? - indicare: normativa vigente ANIDEL/CSLLPP 'da verificare'.
+- **Normativa:** DPR 445/1999 (norme tecniche dighe); le 'Norme per la sicurezza delle dighe' L. 1098/1971? - indicare: normativa vigente ANIDEL/CSLLPP 'da verificare'.
 - **Nota di cantiere:** Ogni diga italiana ha un piano di emergenza e un adempimento annuale: la manutenzione non è un optional.
 
 ### Ponti: tipologie e scelta della struttura
@@ -1356,7 +1356,7 @@ Il maestro più severo: i disastri strutturali e cosa ci hanno insegnato.
 
 Dimostrare che la struttura regge: prove di carico, prove distruttive e non distruttive.
 
-- **Tecnologia e criteri:** Prove di carico su ponti (camion zavorrati); carotaggi; sonrebend? no: sonrebend non esiste; prove su acciaio (trazione su campioni); termografia; UPV (ultrasuoni su cls).
+- **Tecnologia e criteri:** Prove di carico su ponti (camion zavorrati); carotaggi; sonrebend non esiste; prove su acciaio (trazione su campioni); termografia; UPV (ultrasuoni su cls).
 - **Applicazioni:** Collaudi finali, accettazioni, verifiche post-intervento.
 - **Vantaggi:** La prova di carico è la verità sperimentale: la relazione di calcolo è una promessa, la prova è una dimostrazione.
 - **Limiti e attenzioni:** Costo e interruzione di servizio: non sempre fattibile.
@@ -1452,7 +1452,7 @@ Il materiale che torna: legno lamellare, X-LAM, connessioni moderne.
 - **Limiti e attenzioni:** Costo superiore; umidità e tarli da gestire; fuoco da dimensionare (ma performa meglio del pensiero comune).
 - **Costi ed economia:** Struttura legno: 400-800 €/m2; X-LAM: 60-120 €/m2 di pannello.
 - **Caso tipico:** Stadio olimpico di Sapporo; Mjøstårnet Norvegia (85 m, torre in legno); ponte in legno di Rovagnate.
-- **Normativa:** EC5 (EN 1995); UNI EN 14080 (lamellare); UNI 11035? no: 'da verificare' per X-LAM (ETA produttori).
+- **Normativa:** EC5 (EN 1995); UNI EN 14080 (lamellare); 'da verificare' per X-LAM (ETA produttori).
 - **Nota di cantiere:** Il legno ha una vita di progetto centenaria se 'cappotto e scarpe' (tetto e zoccolo) sono fatti bene: il 90% dei degradi nasce dal contatto con acqua e terra.
 
 ### La muratura strutturale: blocchi, setti, rinforzi
@@ -1467,7 +1467,7 @@ Il costruttivo italiano per eccellenza: come regge e come si rafforza.
 - **Limiti e attenzioni:** La variabilità dei giunti rende ogni muro un caso a sé: servono prove in situ.
 - **Costi ed economia:** Rinforzo FRP muro: 30-80 €/m2; cordolo superiore: 30-60 €/ml.
 - **Caso tipico:** L'Aquila e Amatrice: edifici in muratura non rinforzati sono crollati; le case rinforzate con cordoli hanno retto.
-- **Normativa:** NTC2018 cap. 7 (muratura); CNR-DT 200/2013? no: 'da verificare'; Circolare NTC2018 cap. 7.
+- **Normativa:** NTC2018 cap. 7 (muratura); 'da verificare'; Circolare NTC2018 cap. 7.
 - **Nota di cantiere:** Per un LLM: ogni volta che si parla di casa italiana pre-1981 si parla di muratura non rinforzata: il rinforzo (cordoli, FRP, tiranti) è la risposta tecnica standard.
 
 ### Il progetto strutturale dei ponti: impalcato, appoggi, fondazioni
@@ -1526,7 +1526,7 @@ L'80% del lavoro italiano: capire quello che esiste e decidere se regge.
 - **Vantaggi:** Il livello di conoscenza giusto evita sia la paranoia sia gli incidenti.
 - **Limiti e attenzioni:** Le indagini costano e 'rompono': il committente va convinto con numeri.
 - **Costi ed economia:** Diagnosi completa edificio: 3-15k€; carotaggio: 150-300 €/pz.
-- **Caso tipico:** Le schede LC della Circolare 617/2009 (prima versione) e poi CNR-DT 200/2013? no: 'LC in NTC2018 cap. 8.4'.
+- **Caso tipico:** Le schede LC della Circolare 617/2009 (prima versione) 'LC in NTC2018 cap. 8.4'.
 - **Normativa:** NTC2018 cap. 8 (strutture esistenti).
 - **Nota di cantiere:** La valutazione esistente è un atto di ingegneria forense: documentare tutto, anche ciò che non si è potuto verificare (il 'non verificato' va scritto nero su bianco).
 
@@ -1536,7 +1536,7 @@ L'80% del lavoro italiano: capire quello che esiste e decidere se regge.
 
 La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 
-- **Tecnologia e criteri:** Azioni del vento dominanti (sfarzo? no: 'bufettamento', vortici); rigidezza laterale; nuclei in cls armato; outrigger; ammortizzatori di massa; acciaio vs cls in alta quota.
+- **Tecnologia e criteri:** Azioni del vento dominanti ('bufettamento', vortici); rigidezza laterale; nuclei in cls armato; outrigger; ammortizzatori di massa; acciaio vs cls in alta quota.
 - **Applicazioni:** Grattacieli, torri sperimentali, antenne, fari.
 - **Vantaggi:** L'efficienza cresce con l'altezza: il grattacielo ben fatto è sostenibile.
 - **Limiti e attenzioni:** Il vento governa tutto oltre i 100 m: le verifiche di fatica e confort sono specialistiche.
@@ -1646,7 +1646,7 @@ Il futuro sanitario è diffuso: l'ospedale si alleggerisce (la day surgery, la d
 
 La sala operatoria è l'ambiente tecnologicamente più denso dell'edilizia: il blocco operatorio (il gruppo di sale) richiede: aria a flusso laminare con filtrazione assoluta (le sale 'pulite' hanno una qualità d'aria controllatissima), i gas medicali a colonna? (a colonna di distribuzione), i pavimenti e i rivestimenti lavabili e continui, la possibilità di manutenere le attrezzature senza entrare in sala (i locali tecnici attorno).
 
-- **Tecnologia e criteri:** Elementi: il sistema di ventilazione a flusso laminare verticale (l'aria 'cade' sulla zona operatoria sterile, i ricambi 20-600? i ricambi d'aria alti, i filtri HEPA assoluti), le colonne di distribuzione dei gas (ossigeno, protossido? no: protossido esclude; anidride carbonica, aria medicale, vuoto per le aspirazioni) con le prese a parete standardizzate (i colori e le forme distinguono i gas per non scambiare mai), i controsoffitti tecnici con l'accesso dall'alto, la separazione dei percorsi (il paziente entra da una parte, il personale da un'altra, i materiali da un'altra).
+- **Tecnologia e criteri:** Elementi: il sistema di ventilazione a flusso laminare verticale (l'aria 'cade' sulla zona operatoria sterile, i ricambi 20-600? i ricambi d'aria alti, i filtri HEPA assoluti), le colonne di distribuzione dei gas (ossigeno, protossido esclude; anidride carbonica, aria medicale, vuoto per le aspirazioni) con le prese a parete standardizzate (i colori e le forme distinguono i gas per non scambiare mai), i controsoffitti tecnici con l'accesso dall'alto, la separazione dei percorsi (il paziente entra da una parte, il personale da un'altra, i materiali da un'altra).
 - **Applicazioni:** Blocchi operatori di ospedali e cliniche, ambulatori chirurgici, laboratori di alta sicurezza.
 - **Vantaggi:** La sala operatoria è il gioiello: l'efficienza del blocco (i tempi di cambio sala) decide la produttività chirurgica dell'ospedale.
 - **Limiti e attenzioni:** La rigidità progettuale: le sale mal pensate non si adattano ai robot chirurgici (il Da Vinci richiede spazi e strutture specifici).

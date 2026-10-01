@@ -2967,7 +2967,7 @@ Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatur
 - **Limiti e attenzioni:** Spessori insufficienti annullano la funzione (prodotto tirato per renderlo); tempi di attesa tra le mani e prima della piastrellatura; le poliuretaniche richiedono supporto asciutto e primer.
 - **Costi ed economia:** Fornitura+posa bagno tipo: 35-60 €/m2 di superficie impermeabilizzata; kit doccia a filo con canalina: 150-400 € a corpo. Resa: 0,3-0,6 h/m2.
 - **Caso tipico:** La maggior parte delle infiltrazioni condominiali da balconi in Italia deriva da raccordi non fasciati: le perizie CTU rilevano sistematicamente l'assenza dei pezzi speciali.
-- **Normativa:** UNI EN 14891 (prodotti impermeabilizzanti liquidi applicati sotto piastrellatura ceramica), UNI 11493 (posa piastrellature su supporti impermeabilizzati).
+- **Normativa:** UNI EN 14891 (prodotti impermeabilizzanti liquidi applicati sotto piastrellatura ceramica), prescrizioni dei produttori (posa piastrellature su supporti impermeabilizzati).
 - **Nota di cantiere:** Fai la prova di tenuta (piscinatura 24-48 ore con scarichi tappati) PRIMA di posare la ceramica e verbalizzala con foto: è la prova che ti salva in contenzioso; rispetta i consumi in kg/m2, non le mani a occhio; proteggi la membrana dai carrelli durante la posa. Manodopera: un bagno tipo (10-12 m2 impermeabilizzati) prende 1-1,5 giornate tra mani e fasce.
 
 ### Posa dell'impianto elettrico e verifiche strumentali
@@ -3072,7 +3072,7 @@ Posa a colla di piastrelle ceramiche su massetto o autolivellante. Errore tipico
 - **Limiti e attenzioni:** Rigido: trasmette le fessurazioni del supporto se non si rispettano i giunti; i grandi formati richiedono supporti molto planari e attrezzatura dedicata; posa lenta rispetto ai resilienti.
 - **Costi ed economia:** Fornitura+posa gres formato medio: 45-80 €/m2; grandi formati e mosaici: 70-130 €/m2. Resa: 0,5-1,2 h/m2 secondo formato e schema di posa.
 - **Caso tipico:** Le perizie su distacchi di pavimenti in Italia citano quasi sempre assenza di giunti perimetrali (pavimento incastrato alle pareti) o doppia spalmatura omessa su 60x120.
-- **Normativa:** UNI 11493 (progettazione, installazione e manutenzione delle piastrellature ceramiche), UNI EN 12004 (adesivi per piastrellature), UNI EN 13888 (malte per fughe).
+- **Normativa:** prescrizioni dei produttori (progettazione, installazione e manutenzione delle piastrellature ceramiche), UNI EN 12004 (adesivi per piastrellature), UNI EN 13888 (malte per fughe).
 - **Nota di cantiere:** Il supporto comanda: controlla planarità con staggia da 2 m prima di iniziare e correggi con autolivellante, non con la colla tirata a spessori; lascia sempre 5-8 mm a perimetro coperti dal battiscopa; nei bagni la pendenza verso lo scarico si verifica a getto d'acqua prima della fugatura. Manodopera: 8-15 m2/giorno per piastrellista con aiuto su formati medi.
 
 ### Posa in opera dei serramenti esterni (controtelaio e giunto di posa)
@@ -3162,7 +3162,7 @@ Realizzazione di sottofondi aderenti o galleggianti con malta sabbia-cemento a c
 - **Limiti e attenzioni:** Maturazione lenta (circa 1 cm/settimana per l'essiccazione): ritardi di cronoprogramma se non si usano premiscelati rapidi; qualità molto dipendente dalla mano d'opera; non autolivellante.
 - **Costi ed economia:** Fornitura+posa: 18-30 €/m2 per 5 cm tradizionale; premiscelato in sacco o con pompa: 22-35 €/m2. Resa: 100-200 m2/giorno per squadra da 3-4 con premiscelato pompato.
 - **Caso tipico:** Nei cantieri di ristrutturazione condominiale italiana il massetto galleggiante su materassino acustico è lo standard per rispettare i requisiti acustici D.P.C.M. 5/12/1997.
-- **Normativa:** UNI EN 13813 (massetti e materiali per massetti: classi di resistenza a compressione e flessione), UNI 11493 (requisiti del sottofondo per piastrellature).
+- **Normativa:** UNI EN 13813 (massetti e materiali per massetti: classi di resistenza a compressione e flessione); requisiti del sottofondo per piastrellature secondo prescrizioni dei produttori (collanti UNI EN 12004).
 - **Nota di cantiere:** La prova vera è il carburo di calcio: ceramica sotto il 2% di umidità residua, parquet e resilienti sotto 1,5-2% (valori di prassi: verificare le schede del produttore del rivestimento); stendi fogli di polietilene tra massetto e isolante solo se previsto come barriera scivolo; spolvera cemento a secco sulla superficie solo se richiesto e mai come rimedio a eccesso d'acqua. Manodopera: 0,15-0,30 h/m2.
 
 ### Casseforme e disarmo
@@ -3382,7 +3382,7 @@ Le coperture piane e le terrazze si impermeabilizzano: guaine bituminose (ardegi
 - **Limiti e attenzioni:** È la copertura più delicata: l'acqua ristagnante e i dettagli (salti, camini, paracolpi) concentrano l'80% dei guasti.
 - **Costi ed economia:** Costi: guaina bituminosa 20-40 €/m², PVC/TPO 30-60 €/m², liquide 25-50 €/m², posa inclusa; la protezione: extra.
 - **Caso tipico:** Terrazza impermeabilizzata con membrana PVC saldata e prova di tenuta in fase di posa: dopo 10 anni e due rifacimenti dei massetti 'gemelli' in bitume, zero infiltrazioni; la prova in cantiere ha pagato tutto.
-- **Normativa:** Norme sui prodotti e la posa (marcatura CE, istruzioni); UNI 11493? No: riferimento: specifiche e linee guida produttori; normativa antincendio delle coperture.
+- **Normativa:** Norme sui prodotti e la posa (marcatura CE, istruzioni); prescrizioni dei produttori? No: riferimento: specifiche e linee guida produttori; normativa antincendio delle coperture.
 - **Nota di cantiere:** La frase chiave: la copertura piana non deve mai vedere l'acqua ferma: pendenza, drenaggio, prova.
 
 ### L'isolamento della copertura: sopra, sotto, ventilato

@@ -231,7 +231,7 @@ Le tavole esecutive traducono il progetto definitivo in istruzioni operative: po
 
 Mettere in regola immobili irregolari: il valore economico della regolarità.
 
-- **Tecnologia e criteri:** Le verifiche pre-compravendita (visura + planimetria + conformità urbanistica); le sanatorie catastali; l'accatastamento di pertinenze e unità collabenti? no: 'accessorie'; il caso delle abusi edilizi (non sanabili in assoluto).
+- **Tecnologia e criteri:** Le verifiche pre-compravendita (visura + planimetria + conformità urbanistica); le sanatorie catastali; 'accessorie'; il caso delle abusi edilizi (non sanabili in assoluto).
 - **Applicazioni:** Compravendite, successioni, mutui.
 - **Vantaggi:** L'immobile regolare vale il 10-20% in più: la regolarità è un investimento, non una burocrazia.
 - **Limiti e attenzioni:** L'abuso edilizio non sanabile rende l'immobile invendibile: i casi vanno analizzati uno per uno.
@@ -244,7 +244,7 @@ Mettere in regola immobili irregolari: il valore economico della regolarità.
 
 **Categoria:** Appalti contabilita · **Corso:** Geometra: topografia, costruzioni e estimo
 
-Il geometra in cantiere: misure, contabilità, disconti? no: stime di lavori da eseguire.
+Il geometra in cantiere: misure, contabilità, stime di lavori da eseguire.
 
 - **Tecnologia e criteri:** Il computo metrico estimativo (lettura); la contabilità lavori (stati di avanzamento, sal, certificati di pagamento); le varianti; il collaudo finale; il ruolo nel DL.
 - **Applicazioni:** Piccoli cantieri, ristrutturazioni, manutenzioni condominiali.
@@ -252,7 +252,7 @@ Il geometra in cantiere: misure, contabilità, disconti? no: stime di lavori da 
 - **Limiti e attenzioni:** La contabilità richiede precisione documentale: le liti nascono da carta mancante.
 - **Costi ed economia:** Contabilità lavori: 2-4% del valore dei lavori; DL piccoli cantieri: 3-6%.
 - **Caso tipico:** I cantieri di ristrutturazione con SAL mensili; i condomini con amministratori tecnici.
-- **Normativa:** D.Lgs 36/2023 (codice appalti); UNI 8290 (contabilità lavori).
+- **Normativa:** D.Lgs 36/2023 (codice dei contratti pubblici) e DPR 207/2010 per la contabilità dei lavori pubblici; per il privato, prassi contrattuale (computo, SAL, perizie).
 - **Nota di cantiere:** La frase del cantiere: 'chi non misura non viene pagato'. La contabilità è la memoria del cantiere: senza di essa ogni pretesa diventa opinione.
 
 ### CTU e CTP: l'esperto nel processo civile
@@ -264,7 +264,7 @@ Il perito nel tribunale: incarichi, responsabilità, come si scrive una consulen
 - **Tecnologia e criteri:** La CTU (nomina del giudice) vs CTP (di parte); il giuramento; la parte tecnica (quaderno, sopralluogo, relazione); le domande di parte; la responsabilità del CTU (art. 2236 c.c.).
 - **Applicazioni:** Contenziosi edilizi: difetti costruzione, confini, danni da vicino, sinistri.
 - **Vantaggi:** La CTU decide processi da milioni: il perito è un potere neutrale con responsabilità piena.
-- **Limiti e attenzioni:** Il ruolo richiede formazione specifica (arbitrarietà? no: obiettività, diritto processuale).
+- **Limiti e attenzioni:** Il ruolo richiede formazione specifica (obiettività, diritto processuale).
 - **Costi ed economia:** CTU edilizia: 1.500-8k€ per incarico; CTP: 800-3k€.
 - **Caso tipico:** Le cause sui difetti di costruzione (decennale); le vertenze condominiali sui lavori.
 - **Normativa:** CPC artt. 191 ss; art. 2236 c.c. (responsabilità per cose scientifiche).
@@ -282,7 +282,7 @@ Come è fatto e come funziona il catasto fondiario ed edilizio urbano.
 - **Limiti e attenzioni:** Il catasto NON è aggiornato automaticamente: il disallineamento catastale/reale è la regola, non l'eccezione.
 - **Costi ed economia:** Visura catastale online: 1,35 € (gratis per i propri immobili); Docfa: registrazione gratuita.
 - **Caso tipico:** Il catasto napoleonico (1807): la base di tutto quello che c'è oggi.
-- **Normativa:** DPR 1142/1949 (norme catastali); DPR 138/1998? no: regolamento attuativo; Docfa software ufficiale.
+- **Normativa:** DPR 1142/1949 (norme catastali); regolamento attuativo; Docfa software ufficiale.
 - **Nota di cantiere:** La prima verifica di ogni immobile: visura catastale + planimetria. Il 30% degli immobili italiani ha incongruenze: scoprirle PRIMA della vendita vale migliaia di euro.
 
 ### Divisioni e frazionamenti: la geometria applicata al diritto
@@ -312,7 +312,7 @@ Come si registra/rettifica un immobile al catasto: il software Docfa e le pratic
 - **Limiti e attenzioni:** La distinzione catasto/urbanistica confonde tutti: sono due mondi paralleli che devono convergere.
 - **Costi ed economia:** Pratica Docfa da tecnico: 150-500 €; sanatoria catastale: 300-1.000 €.
 - **Caso tipico:** Migliaia di pratiche Docfa quotidiane in Italia; le verifiche di conformità catastale nelle compravendite (2023-2024: requisito sempre più stringente).
-- **Normativa:** Provvedimento Direttoriale 16/11/2016? no: 'norme tecniche Docfa' (DA SOSTITUIRE? meglio: 'da verificare').
+- **Normativa:** 'norme tecniche Docfa' (DA SOSTITUIRE? meglio: 'da verificare').
 - **Nota di cantiere:** L'LLM deve distinguere: CONFORMITA' CATASTALE (il fabbricato è al catasto come è costruito) vs CONFORMITA' URBANISTICA (è costruito come autorizzato): due verifiche diverse, due professionisti, due esiti possibili.
 
 ### Titoli edilizia libera per il tecnico: CILA, SCIA, PdC
@@ -351,13 +351,13 @@ Come si fa una stima credibile: ricerca comparazioni, correzioni, conclusione.
 
 La scienza del valore: costrutto, finalità, metodi.
 
-- **Tecnologia e criteri:** Il valore di mercato (OME? no: OMI, Osservatorio del Mercato Immobiliare); i metodi: comparativo (diretto), sintetico, perequativo, costruttivo, di capitalizzazione (reddito); gli stadi del valore (effettivo, di trasformazione).
+- **Tecnologia e criteri:** Il valore di mercato (OMI, Osservatorio del Mercato Immobiliare); i metodi: comparativo (diretto), sintetico, perequativo, costruttivo, di capitalizzazione (reddito); gli stadi del valore (effettivo, di trasformazione).
 - **Applicazioni:** Perizie, compravendite, espropri, successioni, garanzie bancarie.
 - **Vantaggi:** Il valore non è un'opinione: è un'applicazione di metodo su dati di mercato.
 - **Limiti e attenzioni:** I dati OMI sono mediane comunali: il valore puntuale richiede correttivi (stato, piano, esposizione).
 - **Costi ed economia:** Perizia estimativa: 300-800 € per immobile ordinario; perizie giudiziarie: 1-3k€.
 - **Caso tipico:** Le quotazioni OMI pubbliche (Agenzia delle Entrate); il mercato immobiliare italiano 2024-2025 in ripresa.
-- **Normativa:** Standard UNI/TS 11316? no: 'linee guida OMI'; Codice deontologico dei periti.
+- **Normativa:** 'linee guida OMI'; Codice deontologico dei periti.
 - **Nota di cantiere:** La frase fondamentale dell'estimo: 'il valore è il prezzo probabile in una vendita normale tra parti consapevoli'. Chi stima un valore senza dati di mercato compaRABILI non stima: racconta.
 
 ### Fotogrammetria e laser scanner: il rilievo 3D moderno
