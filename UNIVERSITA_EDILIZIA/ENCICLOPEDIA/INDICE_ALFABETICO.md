@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-712 voci enciclopediche tratte da 43 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+733 voci enciclopediche tratte da 43 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -17,6 +17,8 @@
   Leghe Fe-Cr-Ni con passivazione autorigenerante: corrosione quasi zero senza protezione.
 - **Accumulo batterie domestico** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Batterie agli ioni di litio per accumulare il FV e usarlo di sera: l'autoconsumo oltre il 60-80%.
+- **Acqua refrigerata e torri di raffreddamento nei grandi edifici** — Grandi impianti · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
+  Oltre una certa scala non si porta più refrigerante negli ambienti: si produce acqua refrigerata (chilled water) in centrale termica e la si distribuisce alle unità di trattamento dell'aria, con le torri di raffreddament…
 - **Acustica percepita: il comfort che non si vede** — Acustica percepita · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il suono degli spazi: riverbero, isolamento, comfort acustico negli interni.
 - **Additivi per calcestruzzo** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -163,6 +165,8 @@
   Filo metallico sagomato con punta e testa; il fissaggio più antico e semplice: unisce legno a legno o legno a muratura tramite attrito e resistenza a estrazione.
 - **Clash detection e coordinamento delle interferenze** — Clash detection · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   La verifica automatica delle collisioni tra discipline (clash detection) confronta solidi dei modelli federati: tubo contro trave, porta contro armadio contro montante, canalina contro intelaiatura; i clash si classifica…
+- **Climatizzazione multizona: multisplit e sistemi VRF** — Climatizzazione multizona · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
+  Quando un singolo split non basta, i sistemi multizona collegano un'unità esterna a più unità interne. I sistemi VRF/VRV portano il concetto alle grandi portate, portando il refrigerante a decine di unità interne con dos…
 - **Climatizzazione VRF/VRV multisplit** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Sistemi di climatizzazione multisplit evoluti: una sola unità esterna per decine di interni.
 - **Colla per pannelli isolanti** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -259,6 +263,8 @@
   La casa che aiuta: monitoraggio non invasivo di anziani, sicurezza, teleassistenza.
 - **Dove trovare i CAD e i modelli 3D open delle opere famose** — Risorse CAD · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   La mappa dei repositori con disegni, modelli e scansioni dei capolavori del costruito.
+- **Drenaggi e acque meteoriche: caditoie, tombini e convogliamento** — Idraulica — drenaggi · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  La gestione delle acque meteoriche superficiali protegge fondazioni, seminterrati e viabilità dal ristagno. Il sistema raccoglie con caditoie e canali, convoglia con tubazioni a pendenza controllata e, dove richiesto, in…
 - **Drone LiDAR e rilievo boschi/infrastrutture** — Droni · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Rilievo laser a scansione dal drone per vegetazione e geometrie complesse.
 - **Droni ispezione facciate, ponti e strutture alte** — Droni · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -425,6 +431,8 @@
   L'ospedale vive di flussi separati: il paziente (pubblico → sanitario), il personale (cambio → reparto), le merci (consegna → magazzino → reparto), i rifiuti (reparto → smaltimento), i defunti (reparto → obitorio → uscit…
 - **I gas medicali: ossigeno, vuoto, aria medicale** — Gas medicali · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   I gas medicali sono l'impianto vitale dell'ospedale: l'ossigeno (i pazienti in terapia intensiva), l'aria medicale (la respirazione assistita), il vuoto (le aspirazioni chirurgiche), l'anidride carbonica (la chirurgia la…
+- **I gruppi di pressurizzazione e le autoclavi** — Idraulica — pressurizzazione · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  Quando la pressione di rete non basta ad alimentare un edificio (altezze elevate, utenze contemporanee, giardini, sprinkler), entra in gioco il gruppo di pressurizzazione: pompa più autoclave che mantiene la pressione de…
 - **I manti di copertura: tegole, lastre metalliche, membrane** — Manti · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   La scelta del manto coprente definisce vita e aspetto: tegole in laterizio (marsigliesi, portoghesi, coppi: durano 50+ anni, pesanti ~40-50 kg/m²), lastre metalliche (alluminio, zinco-titanio, acciaio: leggere, per pende…
 - **I materiali a cambio di fase (PCM): il calore nel cassetto** — PCM · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
@@ -451,12 +459,18 @@
   I portoni industriali chiudono i grandi varchi: sezionali (lastre che scorrono verso l'alto lungo guide, isolati, i più usati), rapidi (PVC arrotolabili ad alta velocità, per flussi interni continui), scorrevoli laterali…
 - **I prezzi unitari e le analisi: come nasce un prezzo di costruzione** — Economia · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Il prezzo unitario di una voce di computo nasce dall'analisi dei costi: materiali a consumo, manodopera (ore e costo orario comprensivo di incidenze), mezzi d'opera, spese generali e utile di impresa; i prezzari ufficial…
+- **I quadri elettrici: il centralino di utenza e le sue protezioni** — Elettroimpianti · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  Il quadro elettrico di un edificio è il centro di controllo dell'impianto: distribuisce i circuiti, protegge persone e linee e permette la manutenzione in sicurezza. La sua progettazione segue la Norma CEI 64-8.
 - **I raccordi: pressare, saldare, a innesto, filettare** — Raccordi · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Come si uniscono i tubi: le 4 tecniche e quando usarle.
+- **I refrigeranti e la transizione F-gas: GWP, vietati e futuro** — Refrigeranti e normativa · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
+  Ogni macchina termica a ciclo frigorifero usa un refrigerante: il suo potenziale di riscaldamento globale (GWP) determina l'impatto ambientale in caso di dispersione e la sua collocazione normativa. Dal 2024 in Europa è …
 - **I rivestimenti intelligenti: aerogel, PCM, termocromici** — Materiali intelligenti · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   I materiali 'intelligenti' rispondono all'ambiente: l'aerogel (gel siliceo disidratato: il miglior isolante esistente, λ 0,014-0,020 W/mK, sottilissimo, trasparente), i PCM (phase change materials: paraffine o sali che a…
 - **I SAL: gli Stati di Avanzamento Lavori** — Contabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Lo stato di avanzamento lavori è la dichiarazione periodica (di regola mensile) del valore dei lavori eseguiti: base dei pagamenti a rate, del monitoraggio economico e della verifica dei tempi di consegna.
+- **I serramenti in ristrutturazione: misure in opera, controtelai e correzioni** — Posa e ristrutturazione · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  Montare serramenti nuovi in murature esistenti è il lavoro più delicato del settore: le misure vanno prese sul posto, le quote fuori squadro vanno corrette con i controtelai, e la tenuta tra vecchio e nuovo decide le pre…
 - **I sistemi ibridi FV + batteria + rete + generatore: il dimensionamento integrato** — Ibridi · corso: *Dimensionamento di fotovoltaico, eolico e accumulo* (`DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK`)
   L'impianto che non si ferma mai: logica e dimensionamento degli ibridi.
 - **I subappalti: la catena della responsabilità** — Responsabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
@@ -467,6 +481,8 @@
   La rete gas: i materiali ammessi e le regole di posa.
 - **I tubi per l'acqua: rame, multistrato, PEX, PP-R, acciaio** — Tubi acqua · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   I materiali della rete idraulica: dove usarli e dove evitarli.
+- **I tubi per lo scarico: PVC, PP, ABS e polietilene** — Idraulica — scarico · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  Le colonne di scarico e le derivazioni dei servizi usano tubi non in pressione (o bassa pressione) con giunzioni specifiche per acque di scarico. La scelta del materiale dipende dalla temperatura del fluido, dalla resist…
 - **I valori limite di trasmittanza U: la tabella vigente** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La trasmittanza termica U (W/m²K) misura quanto calore attraversa un elemento per m² e per grado di differenza: il decreto Requisiti Minimi ne fissa i valori limite per pareti, coperture, pavimenti e serramenti in ogni z…
 - **I vetri del futuro: elettrocromici, fotovoltaici, autopulenti** — Vetri futuro · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
@@ -651,12 +667,16 @@
   Il telaio in legno (platform framing, balloon) è il sistema a intelaiatura: telai di travi e montanti riempiti di pannelli (OSB, fibra, laterizio leggero); è il sistema più diffuso al mondo (USA, Scandinavia) e il più ec…
 - **Il termocamino: il focolare che diventa generatore idraulico** — Termocamini · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino che scalda l'acqua: potenza 15-25 kW con accumulo obbligatorio.
+- **Il trattamento dell'acqua potabile: addolcitori, filtri e separazione dei fluidi** — Idraulica — trattamento acque · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  L'acqua di rete, pur potabile, contiene durezza, sedimenti e, nei sistemi, può mescolarsi con fluidi non potabili. Il trattamento protegge le apparecchiature (caldaie, pompe di calore, scambiatori) e garantisce la salubr…
 - **Il vaso di espansione: il componente che salva l'impianto** — Vasi espansione · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Come assorbire la dilatazione dell'acqua calda: dimensionamento e manutenzione.
 - **Il verde in regime di vincolo: paesaggio e sostituzioni** — Verde vincolato · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   Il verde in aree vincolate (paesaggistico, parco, monumentale) ha regole speciali: le piante 'monumentali' sono tutelate (schedatura comunale), gli interventi su alberature vincolate richiedono autorizzazioni, le sostitu…
 - **Il verde urbano: funzioni, benefici, progetto** — Verde urbano · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   Il verde in città non è decorazione: è infrastruttura ecologica: mitiga isola di calore (le superfici verdi sono più fresche fino a 10-15 °C rispetto all'asfalto in estate), assorbe acqua piovana, filtra inquinanti, prod…
+- **Il vetro di sicurezza: stratificato, temprato e la normativa di scelta** — Sicurezza · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  Non si può montare un vetro qualunque ovunque: porte, vetrine, docce, parapetti e facciate basse richiedono vetri di sicurezza che, in caso di rottura, non feriscono le persone o restano in posizione. La scelta corretta …
 - **Il vetro: camera, triplo, basso emissivo, sicurezza** — Vetro · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + intercapedine 12-16 mm con gas argon), triplo (3 lastre, per climi freddi), basso emissivo (metallizzazione che riflette il calore interno invern…
 - **Illuminotecnica LED** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -707,10 +727,16 @@
   L'accessibilità è diritto (D.Lgs 80/1992): gli edifici pubblici e privati aperti al pubblico devono essere fruibili da disabili; il riferimento tecnico è il DM 236/1989 (requisiti minimi) aggiornato dalle norme UNI e dal…
 - **L'acciaio strutturale in formule: travi e colonne** — Acciaio · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule rapide per le verifiche in acciaio.
+- **L'accumulo termico: puffer, bollitori e stratificazione** — Accumulo termico · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
+  Accumulare il calore (o il freddo) quando la macchina lo produce meglio permette di usarlo quando serve: l'accumulo termico stacca la produzione dal consumo, ammortizza i picchi e lavora con macchine più piccole e più ef…
+- **L'acqua calda sanitaria contro la legionella: temperature, ricircolo e sanitizzazione** — Idraulica — acque calde · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  L'acqua calda stagnante a temperature favorevoli è il terreno ideale per la Legionella pneumophila. La progettazione di produzione e distribuzione dell'ACS deve tenere la rete fuori dalla fascia di pericolo e garantire l…
 - **L'acquisizione delle commesse: ricerca, offerta, gare private** — Acquisizione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   Trovare lavoro è la prima funzione dell'impresa: ricerca commesse su portali (bandi, subentri, privati), rete di collaboratori (architetti, studi, immobiliaristi), presenza digitale; per ogni commessa: analisi fattibilit…
 - **L'acustica degli ambienti di lavoro: open space, sale riunione, call center** — Interni · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Negli ambienti di lavoro l'obiettivo non è il silenzio ma la comprensibilità: il tempo di riverberazione, il rumore di fondo e la distanza critica determinano quanto si lavora bene (e quanto si stanca) in open space, sal…
+- **L'acustica dei serramenti: Rw e la scelta per zone rumorose** — Acustica · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  Il serramento è il punto debole acustico dell'involucro: la sua capacità di isolamento si esprime con il valore Rw (dB) misurato in laboratorio, e la scelta corretta dipende dal rumore esterno (strade, ferrovie, aerei) e…
 - **L'acustica in formule: riverbero, isolamento, assorbimento** — Acustica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule del suono negli edifici: il comfort che si misura.
 - **L'agenzia immobiliare: ruolo, provvigioni, normativa** — Agenzia · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
@@ -755,6 +781,8 @@
   L'imaging diagnostico (TAC, Risonanza Magnetica, PET, mammografia) richiede locali specialissimi: la Risonanza ha il magnete superconduttivo (il campo magnetico resta SEMPRE attivo: le stanze hanno regole ferree di acces…
 - **L'impermeabilizzazione: guaine, membrane liquide, coperture piane** — Guaine · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Le coperture piane e le terrazze si impermeabilizzano: guaine bituminose (ardegiate o autoaderenti, con giunti saldati), membrane sintetiche (PVC, TPO, EPDM: saldate a caldo o con nastro), membrane liquide (poliuretanich…
+- **L'impianto antincendio: idranti, naspi ed estintori** — Antincendio · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  Gli impianti di protezione attiva contro l'incendio permettono la prima manovra di spegnimento da parte degli occupanti o dei vigili del fuoco. Il dimensionamento dipende da volume, destinazione d'uso e disposizioni dell…
 - **L'impianto elettrico in formule: potenza, corrente, caduta di tensione** — Elettrica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule elettriche del cantiere e dello studio.
 - **L'impresa edile: forme giuridiche e scelta consapevole** — Struttura · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -843,6 +871,8 @@
   Il verde senza manutenzione muore o diventa pericolo: potature, concimazioni, irrigazione, trattamenti fitosanitari (con regole sui prodotti), sfalci, sostituzioni; la manutenzione si programma annualmente (calendario) e…
 - **La manutenzione delle infrastrutture viarie: il valore del preservare** — Manutenzione · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   La manutenzione programmata delle strade costa una frazzione della ricostruzione: il ciclo preserva (sigillature, microtappeti), mantiene (rattoppi, ripristini), riabilita (risurfacing) e ricostruisce; la logica è interv…
+- **La manutenzione delle macchine termiche: controlli, periodicità e documentazione** — Manutenzione · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
+  Una macchina termica ben mantenuta dura il doppio e consuma meno: la manutenzione non è un optional ma un sistema di schede, controlli periodici e verbali che dimostra la conformità e protegge la garanzia.
 - **La manutenzione industriale degli immobili: il capannone che dura** — Manutenzione industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   L'immobile industriale è una macchina da mantenere: la copertura (guaine, fissaggi, lucernari), i portoni (molle, guarnizioni), le facciate (pannelli, fissaggi al vento), i pavimenti (giunti, levigature), gli impianti; l…
 - **La massa termica e l'inerzia: la fisica del comfort estivo** — Massa termica · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
@@ -885,6 +915,8 @@
   Dalla fine del 2025 il D.M. Requisiti Minimi raccoglie in un'unica relazione tecnica (ex art. 8 D.Lgs 192/2005) tutti gli obblighi energetici dell'edificio: involucro, impianti, rinnovabili, automazione, ricarica veicoli…
 - **La responsabilità dell'impresa costruttrice: art. 1669 e decennale** — Responsabilità · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   L'art. 1669 c.c. (responsabilità del costruttore e dell'impresa) prescrive: se entro 10 anni (decennale) l'immobile mostra vizi o crolli per difetto della costruzione o del terreno, il costruttore è tenuto al risarciment…
+- **La rete gas domestica: dal contatore ai punti di utilizzo** — Impianti a gas · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  La rete interna di distribuzione del gas porta il combustibile dal contatore alle utenze (caldaia, cucina, scaldabagno) con criteri di sicurezza molto stringenti: camere stagne sugli apparecchi a fiamma libera, valvole d…
 - **La Sagrada Familia (1882-in costruzione): il cantiere eterno** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   La basilica di Gaudí a Barcellona: in costruzione da 140 anni, completamento previsto 2026-2030.
 - **La scelta delle essenze: alberi, arbusti, prati per il clima italiano** — Essenze · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
@@ -955,6 +987,8 @@
   La baia di carico è il collo di bottiglia logistico: la zona dove i camion caricano e scaricano; gli elementi: portoni sezionali o rapidi, pensiline di protezione, dock leveler (rampe regolabili che pareggiano i dislivel…
 - **Le camere alberghiere: il prodotto che si vende** — Camere · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La camera è il prodotto dell'albergo: il comfort (il letto, l'insonorizzazione, l'oscuramento), la tecnologia (Wi-Fi, TV, domotica), l'efficienza per la gestione (le superfici resistenti, il minibar, la cassaforte) e la …
+- **Le chiusure e l'accessibilità: porte automatiche, soglie e barriere architettoniche** — Accessibilità · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  Una porta è accessibile quando tutte le persone possono usarla: soglie azzerate o superabili, larghezze utili adeguate, maniglie manovrabili con una mano, aperture automatiche dove serve. La progettazione accessibile è o…
 - **Le connessioni in legno: dove le strutture si incontrano** — Connessioni · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Nel legno tutto avviene nelle connessioni: il legno è anisotropo (forte nella fibra, debole traverso) e le giunzioni concentrano gli sforzi; le connessioni moderne usano viti filettate, piastelle, angolari metallici, chi…
 - **Le coperture della piscina: proteggere e risparmiare** — Coperture · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
@@ -1011,6 +1045,8 @@
   Le piscine aperte al pubblico (hotel incluse) seguono normative igieniche regionali: la qualità dell'acqua controllata (cloro residuo 1-1,5 mg/l tipico, pH 7,2-7,6), il ricircolo obbligatorio, i bagnini, gli accessi (i p…
 - **Le pompe in formule: prevalenza, portata, potenza** — Prevalenza pompe · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Come si sceglie una pompa: la fisica del sollevamento dell'acqua.
+- **Le porte tagliafuoco e le chiusure REI** — Antincendio · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  Le chiusure tagliafuoco EI1 o REI (Resistenza, Elastica tenuta all'aria, Isolamento termico) dividono l'edificio in compartimenti e permettono l'evacuazione sicura: il loro valore in minuti (30, 60, 90, 120) dichiara qua…
 - **Le porte: interne, blindate, tagliafuoco, automatiche** — Porte · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Le porte sono funzione e sicurezza: interne (legno, vetro, laminato), blindate (sicurezza abitativa), tagliafuoco REI (compartimentazione), automatiche (flussi pubblici), scorrevoli (risparmio spazio); ogni tipologia ha …
 - **Le procedure edilizie: CILA, SCIA, Permesso di costruire** — Procedure · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -1019,6 +1055,8 @@
   Il metodo delle proiezioni ortogonali (Monge, fine '700) rappresenta un oggetto 3D su piani paralleli alle sue facce principali: pianta (vista dall'alto), alzati/prospetti (viste frontali e laterali), spaccati (sezioni).
 - **Le proprietà delle sezioni: area, inerzia, modulo resistente** — Sezioni · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   I tre numeri che descrivono una sezione: quanto regge e quanto si flette.
+- **Le protezioni differenziali e magnetotermiche: come si scelgono** — Elettroimpianti · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
+  Le protezioni sono il cuore della sicurezza elettrica: il magnetotermico protegge la linea dalle sovracorrenti, il differenziale protegge le persone dalla dispersione verso terra. La selezione corretta evita sia i rischi…
 - **Le prove in laboratorio: oedometro, taglio diretto, triassiale** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   Le prove di laboratorio misurano i parametri di progetto su campioni indisturbati: la prova oedometrica per la compressibilità e la consolidazione, il taglio diretto e la triassiale per la resistenza al taglio drenata e …
 - **Le prove penetrometriche: SPT e CPTu** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -1033,6 +1071,8 @@
   La sala operatoria è l'ambiente tecnologicamente più denso dell'edilizia: il blocco operatorio (il gruppo di sale) richiede: aria a flusso laminare con filtrazione assoluta (le sale 'pulite' hanno una qualità d'aria cont…
 - **Le scaffalature industriali: l'architettura interna del magazzino** — Scaffalature · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Le scaffalature sono strutture metalliche portanti che trasformano il volume del capannone in stoccaggio verticale: scaffali portapallet, scaffalature a gravità, drive-in, miniload automatizzati; ogni sistema ha il suo c…
+- **Le schermature solari: sole d'inverno amico, sole d'estate nemico** — Solare edilizio · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  La stessa vetrata che in inverno riscalda gratuitamente in estate surriscalda: le schermature solari (tende, persiane, frangisole, pellicole) gestiscono il rapporto di ingresso, spesso valutato con il calcolo solare dell…
 - **Le SPA alberghiere: il benessere come motore di fatturato** — SPA · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La SPA è il centro di profitto che cresce: il percorso benessere (idromassaggi, saune, bagno turco, piscina relax, sale trattamenti) porta ospiti in bassa stagione e aumenta il valore della camera; il progetto integra l'…
 - **Le strade: classificazione e geometria** — Strade · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -1385,6 +1425,8 @@
   Il materiale che torna: legno lamellare, X-LAM, connessioni moderne.
 - **Stucco in polvere** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta fine a presa rapida per riempire fessure, bugne e finiture: liscia e carteggiabile.
+- **Stufe, caminetti ed emittenti locali a legna e pellet** — Emissione locale · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
+  Il riscaldamento locale con combustibili solidi resta diffuso per comfort e autonomia energetica: le macchine moderne a pellet e le stufe a legna di ultima generazione hanno resa e emissioni incomparabili con i vecchi ca…
 - **Sughero espanso** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Corteccia di sughero tostata in granuli agglomerati: il re degli isolanti naturali.
 

@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-226 voci, 7 corsi.
+232 voci, 7 corsi.
 
 
 ## Progettazione digitale CAD e BIM
@@ -3213,7 +3213,52 @@ Taglio, piegatura e posa delle barre B450C con rispetto dei copriferri di proget
 
 ## Serramenti, vetrate e porte
 
-*Corso `SERRAMENTI_E_VETRATE_PACK` — 7 voci*
+*Corso `SERRAMENTI_E_VETRATE_PACK` — 13 voci*
+
+### Le chiusure e l'accessibilità: porte automatiche, soglie e barriere architettoniche
+
+**Categoria:** Accessibilità · **Corso:** Serramenti, vetrate e porte
+
+Una porta è accessibile quando tutte le persone possono usarla: soglie azzerate o superabili, larghezze utili adeguate, maniglie manovrabili con una mano, aperture automatiche dove serve. La progettazione accessibile è obbligo di legge e qualità di tutti i giorni.
+
+- **Tecnologia e criteri:** Porte automatiche scorrevoli, a battente motorizzato o telescopiche con sensori di presenza; soglie ribassate con scossaline e profili compensatori; maniglioni antipanico utilizzabili da tutti; controtelai con larghezze utili standard (80 cm minimo nelle abitazioni, 90+ cm nei percorsi pubblici); pulsanti a bassa altezza per disabili.
+- **Applicazioni:** Ingressi di edifici pubblici, studi medici, bagni pubblici, ascensori e vani scala, uffici, scuole, abitazioni dove vivono persone con mobilità ridotta, tutti gli edifici sottoposti a barriera architettonica zero.
+- **Vantaggi:** L'automazione elimina l'impegno fisico di apertura e chiusura; le soglie superabili riducono anche le incidenze quotidiane (carrozzine, passeggini, valigie); un percorso accessibile aumenta il valore e la fruibilità dell'edificio per tutti.
+- **Limiti e attenzioni:** Le porte automatiche richiedono manutenzione di sensori e motori; i sistemi di sicurezza (fotocellule, costanti) vanno verificati periodicamente; le soglie azzerate richiedono attenzione alla tenuta acustica e all'acqua in esterno.
+- **Costi ed economia:** Ordini di grandezza indicativi: porta automatica scorrevole d'ingresso 2.500-6.000 € installata; motore a battente 800-2.000 €; le soluzioni di soglia superabile hanno costi marginali se previste in progetto, molto più alti a cantiere avviato.
+- **Caso tipico:** L'ingresso di uno studio medico con due gradini è stato reso accessibile con una rampa e una porta a battente motorizzata a comando radar: il costo complessivo è stato contenuto perché previsto in fase di ristrutturazione, e ha permesso l'accesso a tutti i pazienti.
+- **Normativa:** D.Lgs 236/1989 e successive modifiche (superamento delle barriere architettoniche), Norma UNI 11224 (requisiti di accessibilità edifici), D.M. 236/1989 per le scuole; le porte automatiche seguono le norme di prodotto europee e le prescrizioni di sicurezza applicabili ai luoghi di pubblico accesso.
+- **Nota di cantiere:** Verificare la larghezza utile netta dopo posa di controtelaio e porta; le soglie in esterno vanno protette dall'acqua con profili di soglia certificati; i sensori delle automatiche vanno posizionati secondo il manuale del costruttore; documentare la conformità negli atti di collaudo.
+
+### L'acustica dei serramenti: Rw e la scelta per zone rumorose
+
+**Categoria:** Acustica · **Corso:** Serramenti, vetrate e porte
+
+Il serramento è il punto debole acustico dell'involucro: la sua capacità di isolamento si esprime con il valore Rw (dB) misurato in laboratorio, e la scelta corretta dipende dal rumore esterno (strade, ferrovie, aerei) e dal comfort interno desiderato.
+
+- **Tecnologia e criteri:** L'isolamento cresce con: vetrocamera con lastre di spessore dissimile (6+4, 8+4), distanza tra le lastre aumentata (14-16-20 mm), gas argon, vetro stratificato acustico (film antirumore), telaio multi-camera con guarnizioni di buona qualità; i fori di drenaggio della camera devono essere schermati acusticamente.
+- **Applicazioni:** Abitazioni su strade trafficate, camere di hotel, studi medici e professionali, uffici in centro urbano, scuole e asili, finestre verso cortili tecnici rumorosi.
+- **Vantaggi:** Ogni incremento di 10 dB di isolamento dimezza percezione del rumore; il vetro stratificato acustico migliora sia il rumore esterno sia l'isolamento ai rumori interni; i telai con tre guarnizioni e più camere riducono anche le vibrazioni.
+- **Limiti e attenzioni:** La posa conta quanto il prodotto: fessure e ponti acustici al contorno vanificano un buon vetro; l'aerazione naturale (microventilazione) riduce l'isolamento effettivo; valori Rw molto alti richiedono vetri pesanti e telai rinforzati.
+- **Costi ed economia:** Ordini di grandezza indicativi: un serramento da strada con Rw 38-42 dB costa 30-60% in più della versione base; il vetro stratificato acustico aggiunge 40-100 €/m²; il rapporto costo-beneficio si valuta sulla qualità di vita e sul valore dell'immobile.
+- **Caso tipico:** Un appartamento affacciato su una strada di scorrimento ha trasformato la camera da letto da inabitabile a silenziosa sostituendo i serramenti con versioni Rw 40 dB e vetri asimmetrici stratificati: la misurazione post-intervento ha confermato il calo di oltre 15 dB nell'ambiente.
+- **Normativa:** UNI EN ISO 10140 e UNI EN ISO 717-1 per la misura e la classificazione dell'isolamento acustico in laboratorio; il D.Lgs 42/2017 per i requisiti acustici passivi degli edifici; la valutazione in opera segue le norme UNI per il rumore di strada, ferroviario e aereo.
+- **Nota di cantiere:** Chiedere al produttore la scheda acustica del serramento completo (vetro+telaio), non solo del vetro; sigillare tutto il perimetro con schiuma e controtelaio coibentato; verificare che le cassette di areazione compatibili con l'isolamento richiesto; il rumore residuo spesso entra dai fori dei cassonetti delle tapparelle.
+
+### Le porte tagliafuoco e le chiusure REI
+
+**Categoria:** Antincendio · **Corso:** Serramenti, vetrate e porte
+
+Le chiusure tagliafuoco EI1 o REI (Resistenza, Elastica tenuta all'aria, Isolamento termico) dividono l'edificio in compartimenti e permettono l'evacuazione sicura: il loro valore in minuti (30, 60, 90, 120) dichiara quanto resistono alla fiamma.
+
+- **Tecnologia e criteri:** Porte con telaio in acciaio, pannello stratificato con materiali isolanti (lana di roccia, silicati), guarnizioni intumescenti che si espandono col calore sigillando i fessurali, chiudiporta automatici sui locali di pubblico passaggio, vetri tagliafuoco con lastre multistrato certificate nella stessa classe della porta.
+- **Applicazioni:** Ricoveri, scuole, uffici, alberghi, scale di sicurezza, porte tra box auto e vani scala, locali tecnici a rischio, tutti gli edifici soggetti a certificazione di prevenzione incendi.
+- **Vantaggi:** Rallentano la propagazione dell'incendio guadagnando i minuti dell'evacuazione; quelle con vetro mantengono la visibilità dei percorsi; i chiudiporta assicurano la porta sempre chiusa senza compromettere il transito quotidiano.
+- **Limiti e attenzioni:** Devono restare chiuse o autochiudenti: una porta tagliafuoco incuneata è un elemento non funzionante; le modifiche (fori per serrature diverse, vetri aggiunti in cantiere) invalidano la certificazione; i chiudiporta vanno manutenuti periodicamente.
+- **Costi ed economia:** Ordini di grandezza indicativi: porta tagliafuoco REI 60 standard 300-700 €; versioni con vetro e ferramenta di pregio 800-2.000 €; il chiudiporta ammortizzato 80-250 € più installazione.
+- **Caso tipico:** In un ufficio open space, la ricostruzione del percorso di fuga con porte REI 60 ai vani scala e chiudiporta certificati ha permesso la validazione del progetto agli atti del Comune secondo le prescrizioni antincendio della SCIA.
+- **Normativa:** UNI EN 1634-1 (prova di resistenza al fuoco di porte e chiusure), UNI EN 16034 (marcatura CE delle chiusure pedonali tagliafuoco), classi EI1 o REI secondo le prescrizioni antincendio applicabili al tipo di edificio; il D.M. 3 settembre 2021 per le attività soggette SCIA.
+- **Nota di cantiere:** La porta installata deve corrispondere a quella certificata (stesso telaio, pannello, vetri e guarnizioni); i fessurali tra telaio e muratura vanno chiusi con materiale a tenuta certificato; il libretto di manutenzione antincendio registra ogni controllo; mai bloccare le porte aperte.
 
 ### Le facciate continue: la vetrata architettonica
 
@@ -3304,6 +3349,51 @@ Il miglior serramento del mondo installato male è una perdita di denaro: la pos
 - **Caso tipico:** Sostituzione serramenti con fascia perimetrale a tenuta e prova doccia: dopo 3 inverni, zero infiltrazioni e zero condensa; il condominio vicino con posa 'classica' ha rifatto i davanzali umidi di 6 appartamenti.
 - **Normativa:** UNI 11673 (installazione serramenti: livelli di esecuzione); UNI 11425 (posa a regola d'arte); libretto di posa.
 - **Nota di cantiere:** Fermo al cantiere: nessun serramento si consegna senza il libretto di posa compilato e la prova di tenuta.
+
+### I serramenti in ristrutturazione: misure in opera, controtelai e correzioni
+
+**Categoria:** Posa e ristrutturazione · **Corso:** Serramenti, vetrate e porte
+
+Montare serramenti nuovi in murature esistenti è il lavoro più delicato del settore: le misure vanno prese sul posto, le quote fuori squadro vanno corrette con i controtelai, e la tenuta tra vecchio e nuovo decide le prestazioni reali.
+
+- **Tecnologia e criteri:** Rilievo laser e misurazione aperta luce di ogni vano (tre misure per lato, si lavora sul minimo); controtelaio squadratore che riporta la luce in asse anche con murature non perfette; sistemi di fissaggio a tasselli o staffe regolabili; chiusura del fessurale con schiuma bassa espansione o nastri precompressi coibenti; profili di finitura.
+- **Applicazioni:** Sostituzione serramenti in appartamenti, ristrutturazioni di edifici storici con murature irregolari, finestre in spessori di parete inesistenti o variabili, installazione di oscuranti e persiane su edifici esistenti.
+- **Vantaggi:** Il rilievo accurato evita i serramenti 'cuciti' sul posto; il controtelaio permette di correggere scostamenti di parete fino a diversi centimetri; la chiusura corretta del fessurale preserva il valore dell'investimento isolante.
+- **Limiti e attenzioni:** Le pareti molto fuori squadro possono richiedere tamponamenti e stesure a intonaco; la demolizione dei vecchi serramenti in edifici occupati va gestita per ambienti (una finestra al giorno); gli edifici vincolati richiedono profili e colori compatibili.
+- **Costi ed economia:** Ordini di grandezza indicativi: il lavoro di rilievo e posa incide per 30-50% sul costo totale del serramento; i controtelai squadratori aggiungono 20-60 € per lato; le correzioni importanti di muratura si quotano a corpo.
+- **Caso tipico:** In un palazzo anni '30 con stipiti in travertino, la sostituzione degli infissi ha usato controtelai regolabili rispettando gli spessori originari: le nuove vetrocamera hanno triplicato l'isolamento senza alterare la facciata protetta.
+- **Normativa:** Marcatura CE dei serramenti (UNI EN 14351-1) con scheda prestazionale; la posa segue le raccomandazioni dei produttori e le buone prassi di settore (linee guida sulle procedure di installazione); la dichiarazione di conformità finale dell'installatore.
+- **Nota di cantiere:** Misurare sempre a cantiere libero e verificare la diagonale; il fessurale interno va chiuso a tenuta per evitare condense tra telaio e muratura; non montare su intonaci freschi o bagni non asciutti; fotografare ogni fase prima della chiusura con i profili di finitura.
+
+### Il vetro di sicurezza: stratificato, temprato e la normativa di scelta
+
+**Categoria:** Sicurezza · **Corso:** Serramenti, vetrate e porte
+
+Non si può montare un vetro qualunque ovunque: porte, vetrine, docce, parapetti e facciate basse richiedono vetri di sicurezza che, in caso di rottura, non feriscono le persone o restano in posizione. La scelta corretta parte dal rischio del luogo e dalla norma UNI 7697.
+
+- **Tecnologia e criteri:** Vetro temperato (termicamente indurito, si frantuma in granelli non taglienti); vetro stratificato (due lastre unite da film polivinilico che trattiene i frammenti); vetro stratificato temperato che unisce entrambe le caratteristiche; spessori e composizioni crescono con il carico e le dimensioni della lastra.
+- **Applicazioni:** Porte e pareti vetrate, finestre al di sotto di una certa quota dal pavimento, box doccia, parapetti e balaustre in vetro, vetrate di vetrine e facciate, tetti e lucernari calpestabili.
+- **Vantaggi:** Il temperato offre resistenza meccanica 3-5 volte superiore al float della stessa spessore; lo stratificato resta in sede dopo la rottura proteggendo da cadute; la certificazione di ogni lastra (marchiatura sui bordi) garantisce la tracciabilità.
+- **Limiti e attenzioni:** Il temperato non può essere tagliato o forato dopo la tempratura: le lavorazioni definitive avvengono prima; le lastre di grande formato pesano molto e richiedono ferramenta adeguata; le versioni di sicurezza costano 30-80% in più del vetro base.
+- **Costi ed economia:** Ordini di grandezza indicativi: vetro temperato 8-10 mm 40-80 €/m²; stratificato 44.2 (due lastre da 4 mm) 60-110 €/m²; le composizioni su misura per parapetti e grandi formati si quotano a progetto.
+- **Caso tipico:** La sostituzione dei vetri singoli in una vetrina commerciale con stratificato temperato antiurto ha permesso la conformità alla norma di sicurezza senza cambiare telai, raddoppiando anche l'isolamento acustico e migliorando la sicurezza antintrusione.
+- **Normativa:** UNI 7697 (vetro per edilizia — criteri di applicazione e scelta del tipo di vetro), UNI EN 12150 (vetro temperato), UNI EN 14449 (vetro stratificato), UNI EN 12600 (prova di impatto pendolare classificante); i vetri per serramenti rientrano nella marcatura CE del serramento secondo UNI EN 14351-1.
+- **Nota di cantiere:** Verificare il marchio bordolato su ogni lastra installata; le finestre vicino al pavimento e le porte richiedono vetro di sicurezza per legge; le lastre in posizione di parapetto vanno scelte con il calcolo del carico orizzontale; i cantucci e le guarnizioni devono essere quelli del serramento certificato.
+
+### Le schermature solari: sole d'inverno amico, sole d'estate nemico
+
+**Categoria:** Solare edilizio · **Corso:** Serramenti, vetrate e porte
+
+La stessa vetrata che in inverno riscalda gratuitamente in estate surriscalda: le schermature solari (tende, persiane, frangisole, pellicole) gestiscono il rapporto di ingresso, spesso valutato con il calcolo solare delle ombre e il fabbisogno energetico.
+
+- **Tecnologia e criteri:** Schermature esterne (persiane orientabili, frangisole verticali e orizzontali, tende da sole, brise-soleil) che bloccano il sole prima del vetro; schermature interne (tende, veneziane, pellicole a controllo solare) che filtrano il raggio già entrato; sistemi a controllo motorizzato con sonde solari e vento.
+- **Applicazioni:** Facciate esposte a sud, ovest e est, vetrate di uffici con sovraccarico estivo, edifici in zona climatica calda, riqualificazioni energetiche che puntano anche sul miglioramento dell'estate.
+- **Vantaggi:** L'ombra esterna è molto più efficace di quella interna: blocca il calore prima che entri; le schermature orientabili lasciano passare la luce diffusa; il guadagno solare d'inverno si preserva orientando le lamelle; i sistemi motorizzati si gestiscono da domotica.
+- **Limiti e attenzioni:** Le schermature esterne soffrono il vento e richiedono materiali e ancoraggi adeguati; quelle interne hanno efficacia ridotta; le tende da sole orizzontali sono inefficaci sulle facciate verticali esposte a est e ovest; la manutenzione motori e tessuti è ricorrente.
+- **Costi ed economia:** Ordini di grandezza indicativi: frangisole in alluminio 150-400 €/m² di facciata; persiane orientabili 120-350 €/m²; tende da sole bracci estensibili 200-600 € cad.; pellicole a controllo solare 30-70 €/m² posate.
+- **Caso tipico:** Un ufficio con facciata a ovest soffriva sovratemperature pomeridiane d'estate: l'installazione di frangisole verticali orientabili ha ridotto la temperatura interna di alcuni gradi e il carico dei climatizzatori, con rientro in pochi anni sui consumi.
+- **Normativa:** Il calcolo solare delle schermature si riferisce alle norme UNI EN 13363 (metodo di calcolo del trasferimento solare di sistemi vetrati e schermature) e alle norme di prodotto delle schermature (UNI EN 13659 per persiane, UNI EN 13561 per tende da sole); la valutazione integrata entra nel calcolo energetico dell'edificio (Legge 10).
+- **Nota di cantiere:** Progettare l'ostruzione in funzione del percorso solare: ovest ed est richiedono schermi verticali, sud orizzontali; verificare la resistenza al vento dichiarata dal produttore; le guide e i cassonetti delle tende vanno posati a filo facciata senza ponti termici; motori con rilevamento vento obbligatorio in quota.
 
 ### Il vetro: camera, triplo, basso emissivo, sicurezza
 

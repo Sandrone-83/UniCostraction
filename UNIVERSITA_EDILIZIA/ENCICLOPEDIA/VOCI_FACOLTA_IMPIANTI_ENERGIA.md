@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-195 voci, 13 corsi.
+210 voci, 13 corsi.
 
 
 ## Acustica edilizia
@@ -2058,7 +2058,22 @@ La normativa energetica degli edifici: requisiti, calcoli, attestato di prestazi
 
 ## Tecnologia delle macchine termiche
 
-*Corso `MACCHINE_TERMICHE_TECNOLOGIA_PACK` — 9 voci*
+*Corso `MACCHINE_TERMICHE_TECNOLOGIA_PACK` — 15 voci*
+
+### L'accumulo termico: puffer, bollitori e stratificazione
+
+**Categoria:** Accumulo termico · **Corso:** Tecnologia delle macchine termiche
+
+Accumulare il calore (o il freddo) quando la macchina lo produce meglio permette di usarlo quando serve: l'accumulo termico stacca la produzione dal consumo, ammortizza i picchi e lavora con macchine più piccole e più efficienti.
+
+- **Tecnologia e criteri:** Bollitore per ACS (acciaio inox o smaltato, serpentina o resistenza); puffer di accumulo riscaldamento (acqua di mandata accumulata in un unico serbatoio); accumulo a stratificazione con separatori interni che tengono l'acqua calda in alto e quella fredda in basso senza mescolamento; accumuli combi con due serpentine per ACS e riscaldamento.
+- **Applicazioni:** Integrazione caldaia a biomassa con puffer per eliminare i cicli di accensione; pompa di calore con bollitore per ACS; sistemi solari termici con accumulo; teleriscaldamento; sistemi di free-cooling notturno per uffici.
+- **Vantaggi:** La caldaia a biomassa con puffer lavora sempre a pieno carico e pulizia ottimale, allungando la vita; la pompa di calore con accumulo scalda l'acqua nelle ore migliori (PV diurno, tariffe convenienti); lo stratificato minimizza le perdite di mescolamento.
+- **Limiti e attenzioni:** Ingombro: un puffer da 1.000 litri pesa oltre una tonnellata e richiede un locale idoneo; le perdite di carico delle serpentine vanno conteggiate nella portata dei circolatori; l'accumulo mal isolato disperde il calore accumulato.
+- **Costi ed economia:** Ordini di grandezza indicativi: bollitore 100-200 litri 200-600 €; puffer 500-1.000 litri 600-1.500 € più installazione; accumulo a stratificazione di qualità 1.000-3.000 € a seconda del volume e dell'isolamento.
+- **Caso tipico:** Una casa in montagna con termostufa a pellet e puffer da 800 litri brucia due cariche giornaliere a piena potenza invece di accendere e spegnere continuamente: consumo di pellet ridotto, pulizia della camera di combustione minima e comfort stabile.
+- **Normativa:** I componenti a pressione seguono la Direttiva 2014/68/UE (PED) con marcatura CE; gli scambiatori a contatto con acqua potabile in acciaio idoneo al contatto alimentare; il dimensionamento ACS tiene conto dei fabbisogni di legionellosi già trattati nelle schede dedicate.
+- **Nota di cantiere:** L'accumulo va posizionato su pavimento portante o con distribuzione del carico verificata; isolare bene puffer e bollitori (cilindri di ricambio); le sonde di temperatura devono leggere la zona giusta (alto per ACS stratificato); prevedere lo scarico e la valvola di sicurezza.
 
 ### La caldaia a condensazione: il circuito della condensa
 
@@ -2120,6 +2135,66 @@ Come funziona la macchina che raffresca: compressore, condensatore, espansione, 
 - **Normativa:** Reg. UE 517/2014 (F-gas); UNI EN 378.
 - **Nota di cantiere:** La potenza si sceglie sul fabbisogno REALE (isolamento), non sui m2: una stanza ben coibentata da 25 m2 basta 9000 BTU, una vetrata esposta sud ne vuole 18000.
 
+### Climatizzazione multizona: multisplit e sistemi VRF
+
+**Categoria:** Climatizzazione multizona · **Corso:** Tecnologia delle macchine termiche
+
+Quando un singolo split non basta, i sistemi multizona collegano un'unità esterna a più unità interne. I sistemi VRF/VRV portano il concetto alle grandi portate, portando il refrigerante a decine di unità interne con dosatura continua.
+
+- **Tecnologia e criteri:** Multisplit: un'unità esterna con 2-5 attacchi per altrettanti split interni, ognuno con la propria valvola di espansione. VRF (Variable Refrigerant Flow): una rete a due tubi (o tre con recupero di calore) serve fino a 64 unità interne con modulazione continua del flusso di refrigerante e separazione liquida/gas negli outdoor multi.
+- **Applicazioni:** Appartamenti con più stanze climatizzate (multisplit), uffici, alberghi e grandi superfici con zone a carichi diversi (VRF), condomini con un solo punto di installazione esterna.
+- **Vantaggi:** Un solo gruppo esterno per tutto l'edificio (risparmio di spazio e di impatto visivo); il VRF modula la potenza seguendo la richiesta reale con consumi parziali molto efficienti; i sistemi a recupero scaldano e raffrescano contemporaneamente diverse zone.
+- **Limiti e attenzioni:** Guasto all'unità esterna = tutto fermo (salvo ridondanze); il VRF richiede progettazione accurata delle lunghezze e dei dislivelli delle reti; i costi di manutenzione sono più alti del split singolo; le perdite di refrigerante impattano tutte le zone servite.
+- **Costi ed economia:** Ordini di grandezza indicativi: multisplit doppio 1.200-2.500 € installato; sistemi VRF da 80-150 €/kW di capacità installata in media per grandi impianti, fortemente variabile con la complessità delle reti.
+- **Caso tipico:** Un ufficio open space con facciata ovest e sale server a carico costante usa un VRF a recupero: le sale server raffrescate trasferiscono il calore estratto alle zone che lo richiedono, dimezzando i consumi rispetto a sistemi separati.
+- **Normativa:** Sistemi contenenti refrigeranti soggetti al Regolamento (UE) 2024/573: certificazione F-gas degli installatori, verifica di tenuta programmata per impianti sopra soglia di carica, etichettatura delle apparecchiature con tipo e quantità di refrigerante.
+- **Nota di cantiere:** Nelle installazioni multizona verificare la lunghezza massima di tubazione dichiarata dal produttore; i VRF vanno messi in servizio con la procedura di vuoto e caricamento del costruttore; prevedere sondini e accessori per la ricerca perdite sulle reti lunghe.
+
+### Stufe, caminetti ed emittenti locali a legna e pellet
+
+**Categoria:** Emissione locale · **Corso:** Tecnologia delle macchine termiche
+
+Il riscaldamento locale con combustibili solidi resta diffuso per comfort e autonomia energetica: le macchine moderne a pellet e le stufe a legna di ultima generazione hanno resa e emissioni incomparabili con i vecchi caminetti aperti.
+
+- **Tecnologia e criteri:** Stufa a pellet con braciere automatico, caricatore, ventilazione forzata e scarico fumi coassiale; stufa a legna con camera di combustione vermiculitica e tiraggio regolabile; inserto a pellet per caminetti esistenti; termostufa e termocamino (già trattati a parte) per chi vuole anche l'acqua calda.
+- **Applicazioni:** Riscaldamento di singoli ambienti, integrazione alla caldaia in mezza stagione, case di montagna e zone non servite da gas di rete, riscaldamento d'emergenza con backup.
+- **Vantaggi:** Rese superiori all'80-90% contro il 10-15% del caminetto aperto; il pellet ha logistica e costo prevedibili; l'autonomia dalla rete di distribuzione è un valore strategico; le stufe moderne a fiamma visibile danno il piacere del fuoco senza sprechi.
+- **Limiti e attenzioni:** Richiedono canna fumaria e spazio di stoccaggio del combustibile; le stufe a legna richiedono manutenzione quotidiana; i prezzi del pellet possono oscillare; nelle zone a limitazione delle emissioni vigono norme restrittive sui nuovi impianti.
+- **Costi ed economia:** Ordini di grandezza indicativi: stufa a pellet di media qualità 800-2.500 € installata; stufa a legna 1.000-3.500 €; il pellet in sacchi 5-7 € per 15 kg, la legna da ardere varia fortemente con la zona.
+- **Caso tipico:** Una famiglia in montagna ha sostituito il caminetto aperto con un inserto a pellet certificato: il consumo di combustibile si è ridotto a un sesto per la stessa sensazione di calore, e la casa non si sporca più di fuliggine.
+- **Normativa:** Marcatura CE e classificazione ecodesign per le apparecchiature a combustibili solidi; le norme UNI 10683 e le prescrizioni regionali sulle emissioni e sull'installazione; le canne fumarie seguono le regole già trattate nella scheda dedicata.
+- **Nota di cantiere:** La canna fumaria deve avere la sezione e l'altezza per il tiraggio corretto della macchina scelta; il fondo di stoccaggio deve essere asciutto e ventilato; la certificazione delle stufe (etichetta con resa ed emissioni) va verificata prima dell'acquisto; attenzione ai regimi di accensione per le case molto efficienti.
+
+### Acqua refrigerata e torri di raffreddamento nei grandi edifici
+
+**Categoria:** Grandi impianti · **Corso:** Tecnologia delle macchine termiche
+
+Oltre una certa scala non si porta più refrigerante negli ambienti: si produce acqua refrigerata (chilled water) in centrale termica e la si distribuisce alle unità di trattamento dell'aria, con le torri di raffreddamento che cedono a aria il calore di scarto.
+
+- **Tecnologia e criteri:** Chiller (gruppo frigorifero ad acqua) con compressori a vite o centrifughi, evaporatore e condensatore a scambio fluido; pompe di circolazione primaria e secondaria; torre di raffreddamento a circuito aperto o chiuso con riempimento e ventilatori; free-cooling per sfruttare l'aria esterna fredda nelle mezze stagioni.
+- **Applicazioni:** Uffici direzionali, ospedali, centri commerciali, data center, grandi alberghi, impianti industriali di processo.
+- **Vantaggi:** Una sola macchina frigorifera centrale serve tutto l'edificio; l'acqua refrigerata permette reti lunghe con perdite di carico gestibili; le torri garantiscono efficienza superiori al raffreddamento ad aria nei mesi caldi; il free-cooling riduce i consumi d'estate e di mezza stagione.
+- **Limiti e attenzioni:** Investimento iniziale elevato; richiede locale tecnico, personale di gestione e manutenzione programmata; le torri a circuito aperto richiedono trattamento dell'acqua di scarico e controllo legionella; i chiller a fase-out con refrigeranti vietati vanno sostituiti.
+- **Costi ed economia:** Ordini di grandezza indicativi: chiller 300-800 €/kW frigorifero installato a seconda della taglia e dell'efficienza; torre 50-150 €/kW termico; i grandi impianti vanno sempre valutati con analisi dei costi dell'intero ciclo di vita.
+- **Caso tipico:** Un data center ha dimezzato il consumo elettrico del raffreddamento sostituendo i chiller vecchi con macchine ad alta efficienza stagionale e introducendo il free-cooling notturno: il ritorno è arrivato in meno di cinque anni con i soli risparmi in bolletta.
+- **Normativa:** Regolamento (UE) 2024/573 per i refrigeranti; i chiller rientrano nei requisiti di ecodesign e etichetta energetica europea; le torri di raffreddamento a circuito aperto seguono le prescrizioni per il controllo della legionellosi nelle acque di ricircolo.
+- **Nota di cantiere:** I chiller vanno posizionati con accesso per la sostituzione delle componenti principali; le torri richiedono trattamento chimico programmato; il bilanciamento idraulico delle reti primarie/secondarie è critico per l'efficienza; il registro F-gas con le verifiche di tenuta va tenuto aggiornato.
+
+### La manutenzione delle macchine termiche: controlli, periodicità e documentazione
+
+**Categoria:** Manutenzione · **Corso:** Tecnologia delle macchine termiche
+
+Una macchina termica ben mantenuta dura il doppio e consuma meno: la manutenzione non è un optional ma un sistema di schede, controlli periodici e verbali che dimostra la conformità e protegge la garanzia.
+
+- **Tecnologia e criteri:** Controllo annuale della caldaia a gas (analisi combustione, pulizia bruciatore e scambiatore, verifica sicurezze); controllo periodico F-gas su climatizzatori e pompe di calore (tenuta, pulizia batterie, controllo carica); spurgo e controllo dell'impianto idraulico; verifica delle sonde e dei regolatori.
+- **Applicazioni:** Caldaie domestiche e condominiali, climatizzatori, pompe di calore, caldaie a biomassa (controllo molto più frequente dei fasci di scambio), VMC, impianti industriali.
+- **Vantaggi:** Consumi ridotti del 5-15% rispetto a macchine sporche; minori guasti invernali d'emergenza; validità della garanzia preservata; la documentazione completa aumenta il valore dell'immobile.
+- **Limiti e attenzioni:** Costo annuale ricorrente; la manutenzione fai-da-te rischia di invalidare la garanzia e di non essere conforme; i tecnici abilitati sono richiesti per le operazioni su gas e refrigeranti.
+- **Costi ed economia:** Ordini di grandezza indicativi: controllo annuale caldaia domestica 80-150 €; manutenzione climatizzatore 60-120 € a split; contratto di manutenzione completa per macchine grandi da preventivo annuale basato sui kW installati.
+- **Caso tipico:** Una caldaia a condensazione mai manutenuta per sei anni ha perso il 20% di resa per lo sporco nello scambiatore: la prima manutenzione regolare ha ripristinato i consumi dichiarati in etichetta e ha evidenziato una valvola di sicurezza da sostituire.
+- **Normativa:** Per le caldaie: Legge 10 obblighi di manutenzione e Libretto di impianto; per i refrigeranti: Regolamento (UE) 2024/573 con verifiche di tenuta a frequenza crescente con la carica (almeno ogni 12 mesi sopra soglie definite); la Norma UNI 7129/UNI EN 1739 per le verifiche a gas.
+- **Nota di cantiere:** Conservare tutti i verbali nel libretto di impianto; segnare le date dei prossimi controlli su ogni macchina; le analisi di combustione devono rientrare nei valori del costruttore; chi compra casa chieda sempre lo storico manutentivo.
+
 ### La pompa di calore: il circuito frigorifero al servizio dell'acqua
 
 **Categoria:** Pompe di calore · **Corso:** Tecnologia delle macchine termiche
@@ -2134,6 +2209,21 @@ L'anatomia della macchina del futuro: refrigerazione + idronica.
 - **Caso tipico:** Le PDC R32 e R290 (propano, GWP basso) della nuova generazione 2024-2026.
 - **Normativa:** F-gas; EN 378; UNI 11300.
 - **Nota di cantiere:** Il componente più delicato: il compressore. La causa n.1 di guasto prematuro è l'installazione idraulica sbagliata (acqua sporca, aria nell'impianto): il filtro a Y e il spurgo accurato valgono più della marca del compressore.
+
+### I refrigeranti e la transizione F-gas: GWP, vietati e futuro
+
+**Categoria:** Refrigeranti e normativa · **Corso:** Tecnologia delle macchine termiche
+
+Ogni macchina termica a ciclo frigorifero usa un refrigerante: il suo potenziale di riscaldamento globale (GWP) determina l'impatto ambientale in caso di dispersione e la sua collocazione normativa. Dal 2024 in Europa è in corso una transizione accelerata verso refrigeranti naturali e a basso GWP.
+
+- **Tecnologia e criteri:** Refrigeranti attuali: R32 (GWP 675 circa) sulle unità split moderne; R410A (GWP 2.088) in via di sostituzione; R134a (GWP 1.430); R290 (propano, GWP 3) e CO2 (GWP 1) nei nuovi prodotti. Il GWP misura quanto un gas riscalda l'atmosfera rispetto alla CO2 in un orizzonte di 100 anni.
+- **Applicazioni:** Scelta del climatizzatore o della pompa di calore da installare, assistenza degli impianti esistenti, valutazione ambientale di un progetto, conformità delle manutenzioni ai divieti progressivi.
+- **Vantaggi:** La transizione verso R290 e CO2 riduce drasticamente l'impronta climalterante; le macchine a basso GWP spesso usano cariche ridotte; sapere leggere l'etichetta del refrigerante aiuta a scegliere macchine future-proof.
+- **Limiti e attenzioni:** I refrigeranti naturali infiammabili (R290) richiedono prescrizioni di carica e installazione specifiche; la riparazione delle macchine con refrigeranti ad alto GWP si restringe per divieti progressivi; il costo dei refrigeranti legacy sale man mano che le quote si riducono.
+- **Costi ed economia:** Ordini di grandezza indicativi: il costo del refrigerante al chilogrammo è molto variabile e cresce con i divieti (i vecchi HFC salgono di prezzo); la manutenzione di apparecchiature con refrigeranti vietati diventa via via più onerosa fino alla sostituzione della macchina.
+- **Caso tipico:** Un condominio con pompe di calore a R410A del 2015 affronta oggi il calcolo di convenienza tra il ricarico del refrigerante (sempre più costoso) e la sostituzione preventiva con unità a R32 o R290 che accedono anche agli incentivi del Conto Termico.
+- **Normativa:** Regolamento (UE) 2024/573 sui gas fluorurati a effetto serra, in vigore dall'11 marzo 2024, che abroga il Regolamento (UE) 517/2014: dal 1° gennaio 2026 vietato l'uso di F-gas con GWP pari o superiore a 2.500 per assistenza e manutenzione di condizionatori e pompe di calore (possibile fino al 2032 solo con gas riciclati o rigenerati); dal 2027 divieto di F-gas con GWP superiore a 150 sulle pompe di calore monoblocco residenziali sotto i 12 kW.
+- **Nota di cantiere:** Leggere sempre l'etichetta della macchina prima dell'intervento; i tecnici devono avere la certificazione F-gas per maneggiare refrigeranti; non rilasciare mai refrigerante in atmosfera: il recupero è obbligatorio; in caso di nuova installazione valutare subito le macchine a basso GWP.
 
 ### Lo scaldabagno: a gas, elettrico e a pompa di calore
 
@@ -2198,7 +2288,22 @@ Cosa c'è dentro la centralina e come è fatta la rete di distribuzione.
 
 ## Materiali e componenti dell'impiantistica
 
-*Corso `MATERIALI_COMPONENTI_IMPIANTISTICA_PACK` — 9 voci*
+*Corso `MATERIALI_COMPONENTI_IMPIANTISTICA_PACK` — 18 voci*
+
+### L'impianto antincendio: idranti, naspi ed estintori
+
+**Categoria:** Antincendio · **Corso:** Materiali e componenti dell'impiantistica
+
+Gli impianti di protezione attiva contro l'incendio permettono la prima manovra di spegnimento da parte degli occupanti o dei vigili del fuoco. Il dimensionamento dipende da volume, destinazione d'uso e disposizioni delle autorità di prevenzione.
+
+- **Tecnologia e criteri:** Idranti a parete (cassette DN 45/70) alimentati da rete idrica dedicata o autopompe; naspi a muro su tamburo; estintori a polvere, CO2 o idrico pressurizzato a seconda della classe di fuoco; impianti automatici a sprinkler nelle grandi cubature.
+- **Applicazioni:** Condomini, uffici, scuole, alberghi, capannoni industriali, parcheggi interrati, aree di stoccaggio.
+- **Vantaggi:** La prima manovra incendio a portata di mano salva edifici e vite: idranti e naspi permettono l'attacco rapido anche in attesa dei mezzi dei VVF; gli estintori portatili coprono i fuochi di piccola entità.
+- **Limiti e attenzioni:** Richiedono manutenzione semestrale/annuale certificata; l'acqua degli idranti deve garantire portata e pressione minime richieste; gli impianti fissi automatici hanno costi elevati e richiedono progettazione dedicata.
+- **Costi ed economia:** Ordini di grandezza indicativi: cassetta idrante completa 150-400 €; estintore portatile a polvere 6 kg 40-80 €; la manutenzione annuale certificata 15-40 € per apparecchio; impianti a sprinkler da 30-80 €/m² a seconda della tipologia.
+- **Caso tipico:** In un capannone logistico, la presenza di estintori a polvere e cassette idranti con autopompa dimensionata sui 2 attacchi previsti dalla progettazione antincendio ha permesso di contenere l'incendio di un pallet fino all'arrivo dei VVF.
+- **Normativa:** UNI 10779 (impianti di estinzione incendi con idranti, progettazione e installazione), UNI EN 2 (classificazione dei fuochi), UNI EN 3 (estintori portatili), disposizioni delle autorità di prevenzione incendi (D.M. 3 settembre 2021 e schede VVF) per i carichi idraulici minimi.
+- **Nota di cantiere:** Gli estintori devono essere visibili, accessibili e segnalati; la manutenzione va documentata sul registro antincendio; le cassette idranti mai dietro porte chiuse; le autopompe richiedono locale idoneo e prova di funzionamento.
 
 ### I collettori (maschio/femmina) e la distribuzione a pettine
 
@@ -2229,6 +2334,126 @@ L'hardware elettrico che ogni impiantista tocca ogni giorno.
 - **Caso tipico:** I quadri di zona con differenziale dedicato (obbligatorio per bagni e cucine).
 - **Normativa:** CEI 64-8.
 - **Nota di cantiere:** La regola dell'impiantista: ogni macchina che tocca l'acqua (pompe, lavatrici, scaldabagni) deve essere alimentata da un differenziale 30 mA dedicato: la vita vale più del risparmio di un quadretto.
+
+### I quadri elettrici: il centralino di utenza e le sue protezioni
+
+**Categoria:** Elettroimpianti · **Corso:** Materiali e componenti dell'impiantistica
+
+Il quadro elettrico di un edificio è il centro di controllo dell'impianto: distribuisce i circuiti, protegge persone e linee e permette la manutenzione in sicurezza. La sua progettazione segue la Norma CEI 64-8.
+
+- **Tecnologia e criteri:** Il centralino di utenza ospita l'interruttore generale, i magnetotermici di linea, i differenziali di protezione, i dispositivi di protezione da sovratensioni (SPD tipo 1 e 2), il morsetto di terra e la ripartizione per circuiti (prese, luci, cucina, lavatrice).
+- **Applicazioni:** Centralini di abitazioni (tipicamente 8-24 moduli), quadri di appartamento, quadri di piano o condominiali, quadri di servizio per autorimesse e locali tecnici.
+- **Vantaggi:** Sicurezza delle persone con differenziali 30 mA; sezionamento rapido di ogni linea per manutenzione; protezione dei carichi da sovracorrenti e sovratensioni; espandibilità con barre DIN modulari.
+- **Limiti e attenzioni:** I quadri sovraccarichi di linee portano a dispersioni termiche e difficoltà di manutenzione; le protezioni mal coordinate scattano in modo selettivo errato; i differenziali vanno provati periodicamente con il tasto test.
+- **Costi ed economia:** Ordini di grandezza indicativi: centralino completo per abitazione 300-800 € compresa installazione; ampliamento con nuova linea 80-200 €; sostituzione differenziale 40-120 € più manodopera.
+- **Caso tipico:** In un appartamento anni '60 con quadro a fusibili, il rifacimento con centralino 12 moduli, due differenziali e SPD tipo 2 ha eliminato i vuoti di tensione e portato l'impianto a regola con la Norma CEI 64-8.
+- **Normativa:** Norma CEI 64-8 (impianti elettrici utilizzatori a tensione non superiore a 1000 V), Norma CEI 11-27/UNI EN 61439 per i quadri; la dichiarazione di conformità dell'impianto a opera del costruttore o dell'installatore.
+- **Nota di cantiere:** Ogni circuito deve avere la sua protezione dedicata; le linee di bagno e cucina su differenziale dedicato; il tasto test dei differenziali va azionato periodicamente; le prese con scheda nera sono riservate a lavatrice e lavastoviglie.
+
+### Le protezioni differenziali e magnetotermiche: come si scelgono
+
+**Categoria:** Elettroimpianti · **Corso:** Materiali e componenti dell'impiantistica
+
+Le protezioni sono il cuore della sicurezza elettrica: il magnetotermico protegge la linea dalle sovracorrenti, il differenziale protegge le persone dalla dispersione verso terra. La selezione corretta evita sia i rischi sia gli scatti intempestivi.
+
+- **Tecnologia e criteri:** Magnetotermico: curva B/C/D e corrente nominale in funzione del carico e della sezione del cavo. Differenziale: sensibilità 30 mA (protezione persone) o 300 mA (protezione incendio), tipo AC, A, F o B in funzione delle componenti in corrente continua delle apparecchiature collegate.
+- **Applicazioni:** Tutti i circuiti di un edificio: prese, illuminazione, elettrodomestici, linee di caldaia e pompa di calore, ricarica veicoli elettrici, impianti fotovoltaici.
+- **Vantaggi:** Il differenziale 30 mA salva dalle elettrocuzioni interrompendo in millisecondi; il magnetotermico a curva giusta evita i scatti fastidiosi su avviamenti di motori; le protezioni combinate (magnetodifferenziali) compattono il quadro.
+- **Limiti e attenzioni:** Il differenziale tipo AC non rileva le correnti continue pulsanti: con lavatrici moderne e carichi elettronici serve tipo A come minimo; i differenziali vanno verificati periodicamente; la selettività va studiata sui quadri a cascata.
+- **Costi ed economia:** Ordini di grandezza indicativi: magnetotermico modulare 8-25 €; differenziale puro 25-70 € a seconda della sensibilità e del tipo; magnetodifferenziale combinato 40-90 €.
+- **Caso tipico:** Una lavatrice in bagno alimentata da presa senza differenziale tipo A scattava di continuo: la sostituzione della protezione con un differenziale tipo A dedicato alla linea ha risolto il problema e aumentato la sicurezza.
+- **Normativa:** Norma CEI 64-8 per la scelta delle protezioni e dei valori di sensibilità nei locali bagnati e per l'alimentazione di apparecchiature con componenti in corrente continua.
+- **Nota di cantiere:** La protezione differenziale 30 mA è obbligatoria sui circuiti delle prese di servizio generale e nei bagni; il tasto test va premuto almeno con la periodicità consigliata dal produttore; verificare sempre che la corrente nominale del magnetotermico sia coerente con la sezione del cavo installato.
+
+### L'acqua calda sanitaria contro la legionella: temperature, ricircolo e sanitizzazione
+
+**Categoria:** Idraulica — acque calde · **Corso:** Materiali e componenti dell'impiantistica
+
+L'acqua calda stagnante a temperature favorevoli è il terreno ideale per la Legionella pneumophila. La progettazione di produzione e distribuzione dell'ACS deve tenere la rete fuori dalla fascia di pericolo e garantire la possibilità di sanificazione.
+
+- **Tecnologia e criteri:** Produzione centralizzata con bollitore mantenuto a temperature che limitano la proliferazione (di norma con accumulo a temperatura elevata e miscelazione a valle); rete a ricircolo con ritorno sempre attivo; rubinetti di scarico ai punti bassi; possibilità di thermal sanitization (innalzamento termico periodico).
+- **Applicazioni:** Alberghi, ospedali, case di riposo, palestre, condomini con produzione centralizzata, strutture con utenza fragile.
+- **Vantaggi:** Il ricircolo garantisce acqua calda ai punti lontani senza ristagni; la sanificazione termica periodica è semplice ed efficace; le centrali termiche moderne automatizzano i cicli di innalzamento termico.
+- **Limiti e attenzioni:** Il ricircolo aumenta le dispersioni di rete; temperature troppo alte richiedono miscelatori antiscottatura ai punti di erogazione; gli interventi disinfettanti chimici richiedono competenze specifiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: linea di ricircolo 30-60 €/m installata; centralina di gestione ACS e sanificazione 300-900 €; il costo energetico extra del mantenimento a temperatura elevata va valutato in fase di scelta del sistema.
+- **Caso tipico:** Una casa di riposo ha adottato la produzione ACS a temperature elevate con miscelazione termostatica a valle e cicli di sanificazione programmati: i controlli periodici sulla rete sono risultati conformi senza interventi chimici.
+- **Normativa:** Linee guida per la prevenzione e il controllo della legionellosi (G.U. e documenti di indirizzo del Ministero della Salute e delle Regioni), UNI EN 806 per i sistemi di distribuzione dell'acqua potabile all'interno degli edifici; la legge 10 richiede l'attestazione del corretto funzionamento dell'impianto di produzione ACS.
+- **Nota di cantiere:** Evitare tratti di tubazione dove l'acqua ristagna; i raccordi a bassa tolleranza batterica sono preferiti sui collettori; la temperatura all'erogatore va verificata dopo l'installazione; i punti di scarico della rete devono restare accessibili.
+
+### Drenaggi e acque meteoriche: caditoie, tombini e convogliamento
+
+**Categoria:** Idraulica — drenaggi · **Corso:** Materiali e componenti dell'impiantistica
+
+La gestione delle acque meteoriche superficiali protegge fondazioni, seminterrati e viabilità dal ristagno. Il sistema raccoglie con caditoie e canali, convoglia con tubazioni a pendenza controllata e, dove richiesto, infiltra o accumula prima dello scarico in rete.
+
+- **Tecnologia e criteri:** Caditoie stradali con sifone antiodore, canali grigliati in calcestruzzo polimerico o acciaio, tubazioni corrugate in PP o PVC con giunzioni a bicchiere, pozzetti di ispezione in PE o calcestruzzo, sistemi di prima pioggia con vasche di accumulo e, in zone sensibili, moduli di infiltrazione.
+- **Applicazioni:** Piazzali e cortili condominiali, scantinati con quota inferiore alla strada, giardini con acque di gronda, parcheggi, vialetti, capannoni con grandi superfici di copertura.
+- **Vantaggi:** La separazione delle acque piovane da quelle nere riduce i costi di depurazione; i sistemi di infiltrazione smaltiscono l'acqua in loco alleggerendo le fognature; i canali grigliati proteggono le soglie e i box auto.
+- **Limiti e attenzioni:** I sifoni antiodore richiedono manutenzione; superfici molto estreme richiedono dimensionamento attento della sezione di convogliamento; le vasche di prima pioggia occupano spazio e vanno svuotate dopo l'evento.
+- **Costi ed economia:** Ordini di grandezza indicativi: canale grigliato 20-60 €/m installato; caditoia stradale 100-300 € posata; tubazione corrugata DN 200-300 intorno a 15-35 €/m; i sistemi di accumulo e infiltrazione variano fortemente con la geometria del sito.
+- **Caso tipico:** Il cortile interno di un condominio che allagava a ogni temporale è stato risolto con il rinnovo della linea di scarico piovana, la sostituzione dei sifoni e l'installazione di una pompa di sollevamento con galleggiante nella caditoia di raccolta.
+- **Normativa:** Prescrizioni del regolamento del gestore fognario locale sulla separazione e lo scarico delle acque meteoriche; le norme UNI sulle reti di drenaggio urbano; vincoli di tutela idrogeologica e Paesaggistica per le opere di convogliamento.
+- **Nota di cantiere:** Le pendenze minime di scorrimento delle reti di drenaggio vanno rispettate con cura (valori tipici 0,5-1%); i pozzetti di ispezione ai cambi di direzione devono restare accessibili; i tombini e le caditoie vanno posati a giusta quota rispetto alla pavimentazione finita.
+
+### I gruppi di pressurizzazione e le autoclavi
+
+**Categoria:** Idraulica — pressurizzazione · **Corso:** Materiali e componenti dell'impiantistica
+
+Quando la pressione di rete non basta ad alimentare un edificio (altezze elevate, utenze contemporanee, giardini, sprinkler), entra in gioco il gruppo di pressurizzazione: pompa più autoclave che mantiene la pressione desiderata nell'impianto.
+
+- **Tecnologia e criteri:** Gruppo pompa con autoclave a membrana (serbatoio precompresso che riduce i giri del gruppo), pressostato o inverter per la regolazione; sistemi duplex con pompe alternate per la continuità di servizio; vasi di espansione dedicati per assorbire i colpi d'ariete.
+- **Applicazioni:** Ville su più livelli, condomini con altezza superiore alla pressione di rete, irrigazione, sistemi antincendio alimentati da autopompa, aumento di pressione in zone rurali.
+- **Vantaggi:** Pressione costante ai punti di prelievo anche con più rubinetti aperti; le versioni con inverter riducono consumi e usura partendo dolcemente; il serbatoio a membrana smorza i cicli di avvio.
+- **Limiti e attenzioni:** La taratura sbagliata porta a pressioni eccessive o a pompaggio continuo; le autoclave smembrate vanno ricaricate periodicamente con azoto o aria; le pompe in secco si danneggiano se non c'è l'acqua a monte.
+- **Costi ed economia:** Ordini di grandezza indicativi: gruppo completo domestico 250-700 € installato; autoclave di ricambio 60-150 €; i gruppi industriali duplex da 1.500 € in su a seconda di portata e prevalenza.
+- **Caso tipico:** In una villa su tre livelli con doccia all'ultimo piano che sgocciolava, l'installazione di un gruppo a pressione costante con inverter ha portato il comfort da insufficiente a piena pressione anche con due utenze contemporanee.
+- **Normativa:** Dimensionamento secondo le prescrizioni della normativa idraulica nazionale (D.M. 174/2004 per gli aspetti di accettazione degli impianti) e le caratteristiche di fornitura del gestore idrico locale; i componenti a contatto con acqua potabile devono essere idonei.
+- **Nota di cantiere:** Verificare sempre la pressione di rete a monte prima di scegliere il gruppo; l'autoclave va tarata a pressione inferiore di 0,2-0,3 bar a quella di avvio; prevedere la valvola di ritegno e lo scarico; i gruppi duplex richiedono logica di alternanza.
+
+### I tubi per lo scarico: PVC, PP, ABS e polietilene
+
+**Categoria:** Idraulica — scarico · **Corso:** Materiali e componenti dell'impiantistica
+
+Le colonne di scarico e le derivazioni dei servizi usano tubi non in pressione (o bassa pressione) con giunzioni specifiche per acque di scarico. La scelta del materiale dipende dalla temperatura del fluido, dalla resistenza chimica e dal tipo di posa (interrata, a vista, incassata).
+
+- **Tecnologia e criteri:** PVC rigido bianco/grigio con manicotto a innesto (solitamente incollato); PP (polipropilene) ad alto modulo resistente a temperature fino a 90 °C, con giunzione a bicchiere e guarnizione; ABS per colonne silenziate; polietilene per scarichi interrati. Le colonne pluviali possono usare PVC con manicotto elastico.
+- **Applicazioni:** Colonne di scarico di WC, lavandini, docce; scarichi di cucina; reti interrate di raccolta acque chiare e nere; pluviali e convogliamento acque meteoriche.
+- **Vantaggi:** PVC: economico, leggero, facile da tagliare e incollare. PP: silenzioso, resiste alle alte temperature, giunzioni smontabili con anelli. ABS: ottima insonorizzazione sulle colonne verticali. PE: flessibile e durevole interrato.
+- **Limiti e attenzioni:** PVC rigido trasmette molto rumore se non insonorizzato; il PVC non sopporta temperature superiori a 45-60 °C continue; le giunzioni incollate non sono smontabili; le colonne in PP richiedono attenzione alla dilatazione termica.
+- **Costi ed economia:** Ordini di grandezza indicativi: tubo PVC DN 50 intorno a 3-6 €/m, DN 100 intorno a 6-12 €/m; PP silenziato 20-40 €/m a seconda del diametro e del brand; il costo installato più che raddoppia per il lavoro di fissaggio e tracciamento.
+- **Caso tipico:** In una ristrutturazione con bagno spostato sopra la camera da letto, la colonna di scarico in PP silenziato avvolto in lana di roccia riduce il rumore dello scarico WC a livelli non percepibili: il ricorso alla versione silenziata è lo standard del comfort residenziale.
+- **Normativa:** Le reti di scarico interne seguono le prescrizioni delle norme di progettazione idraulica applicate in Italia (UNI EN 12056 per il dimensionamento dei sistemi di scarico interni) e le indicazioni dei produttori; scarichi interrati secondo le regole del gestore fognario e le norme UNI per le tubazioni interrate.
+- **Nota di cantiere:** Pendenze minime: scarico WC tipicamente 1-2 cm/m, lavabi 2-3 cm/m. Mai invertire la pendenza. I sifoni devono restare accessibili. Su colonne condivise tra più appartamenti valutare i raccordi di ispezione a ogni piano.
+
+### Il trattamento dell'acqua potabile: addolcitori, filtri e separazione dei fluidi
+
+**Categoria:** Idraulica — trattamento acque · **Corso:** Materiali e componenti dell'impiantistica
+
+L'acqua di rete, pur potabile, contiene durezza, sedimenti e, nei sistemi, può mescolarsi con fluidi non potabili. Il trattamento protegge le apparecchiature (caldaie, pompe di calore, scambiatori) e garantisce la salubrità dell'acqua che arriva ai rubinetti.
+
+- **Tecnologia e criteri:** Addolcitore a resine a scambio ionico che riduce la durezza dell'acqua; filtri a cartuccia e a sedimenti; dosatori di polifosfati per i piccoli impianti; dispositivi di separazione idraulica tra fluidi di differente qualità (sistema a protezione contro il riflusso).
+- **Applicazioni:** Protezione di caldaie e bollitori dal calcare; alimentazione di lavatrici e lavastoviglie; addolcimento in zone ad acqua molto dura; separazione tra rete e gruppi di pressurizzazione.
+- **Vantaggi:** Meno incrostazioni significa macchine termiche più efficienti e durevoli; l'acqua morbida migliora l'efficacia dei detersivi e la vita dei rubinetti; i sistemi di separazione prevengono i rischi di contaminazione.
+- **Limiti e attenzioni:** Gli addolcitori consumano sale e acqua di lavaggio; l'acqua addolcita ha contenuto sodico maggiorato, sconsigliata come acqua da bere per i soggetti a dieta iposodica; le cartucce richiedono sostituzione periodica.
+- **Costi ed economia:** Ordini di grandezza indicativi: addolcitore domestico compatto 300-800 € installato; ricarica sale 20-40 €/anno; filtri a cartuccia 20-60 € più sostituzioni annuali; i grandi impianti industriali si dimensionano su analisi dell'acqua.
+- **Caso tipico:** In una zona con acqua molto dura (fondovalle alpino), un albergo ha ridotto le revisioni straordinarie dei bollitori passando all'addolcimento centralizzato: il risparmio su manutenzione e sostituzione componenti ha ripagato l'investimento in pochi anni.
+- **Normativa:** D.Lgs 31/2001 (Direttiva Acque Potabili) per la qualità dell'acqua destinata al consumo umano; UNI EN 1717 (protezione contro il riflusso di fluidi non potabili nella rete dell'acqua potabile) che impone i dispositivi di protezione idraulica sui punti di rischio.
+- **Nota di cantiere:** Ogni punto di raccordo tra acqua potabile e circuiti non potabili deve avere il dispositivo di protezione previsto dalla UNI EN 1717; gli addolcitori vanno posizionati dove è possibile lo scarico del lavaggio; l'analisi dell'acqua è il primo passo per scegliere il trattamento giusto.
+
+### La rete gas domestica: dal contatore ai punti di utilizzo
+
+**Categoria:** Impianti a gas · **Corso:** Materiali e componenti dell'impiantistica
+
+La rete interna di distribuzione del gas porta il combustibile dal contatore alle utenze (caldaia, cucina, scaldabagno) con criteri di sicurezza molto stringenti: camere stagne sugli apparecchi a fiamma libera, valvole di intercettazione accessibili, materiali certificati per gas.
+
+- **Tecnologia e criteri:** Tubi in acciaio zincato filettato (collaudati), rame marcato specifico per gas, multistrato marcato, tubi flessibili conformi per l'allacciamento finale. La centralina di regolazione e sicurezza (es. serie UC conformi alle norme) fornisce intercettazione, filtraggio e regolazione di pressione a monte della caldaia.
+- **Applicazioni:** Alimentazione di caldaie murale e a basamento, cucine, forni, scaldabagni a gas nelle abitazioni, condomini, piccoli esercizi commerciali.
+- **Vantaggi:** Rete sicura e collaudabile; materiali marcati e tracciabili; la centralina con valvola di massima portata protegge da fughe a valle; manutenzione semplice su reti accessibili.
+- **Limiti e attenzioni:** La rete richiede la verifica di tenuta all'atto dell'accettazione e dopo ogni intervento; i materiali non marcati per gas sono vietati; i cavedi in muratura richiedono tubi addizionali di protezione o guaine.
+- **Costi ed economia:** Ordini di grandezza indicativi: posa a punto di una nuova rete in rame marcato 250-500 € per punto utilizzatore oltre al tracciamento; la centralina di regolazione con gruppo di sicurezza 80-200 € più installazione; la verifica di tenuta ha un costo da preventivo del tecnico abilitato.
+- **Caso tipico:** Nella ristrutturazione di un appartamento anni '70, la sostituzione dell'intera rete gas in acciaio ossidata con multistrato marcato ha richiesto la verifica di tenuta finale con strumento calibrato prima dell'accensione della nuova caldaia a condensazione.
+- **Normativa:** UNI 7129 (impianti a gas per uso domestico, distribuzione in media e bassa pressione), UNI 7131 (verifica di tenuta), D.M. 174/2004 per gli aspetti di accettazione: ogni intervento è sottoposto a verifica finale da parte del tecnico abilitato.
+- **Nota di cantiere:** Le valvole di intercettazione devono essere accessibili e segnalate. Camera stagna obbligatoria su cucine con apparecchi a fiamma libera in locali non conformi alle condizioni di areazione. Non interrare raccordi non protetti. Documentare con verbale di collaudo.
 
 ### L'isolamento delle tubazioni: spessori e materiali
 
