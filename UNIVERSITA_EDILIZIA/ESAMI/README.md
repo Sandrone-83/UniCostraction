@@ -20,7 +20,7 @@ di apprendimento per settore.
 | CAD_BIM | in coda | 12 schede |
 | EDILIZIA_GENERALE | in coda | Edilizia_Pack |
 | IMPIANTI_TERMICI | in coda | Macchine termiche + dimensionamento |
-| IMPIANTI_FV_EOLICO | in coda | dimensionamento FV/eolico/accumulo |
+| IMPIANTI_FV_EOLICO | ✅ 1.000 domande | dimensionamento FV/eolico/accumulo (10 schede + banco calcoli) |
 | DOMOTICA | in coda | 29 schede |
 | POSA_IN_OPERA | in coda | 22 schede |
 | STRUTTURE | in coda | ingegneria strutturale + formulario |
