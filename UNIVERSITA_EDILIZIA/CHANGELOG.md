@@ -137,3 +137,15 @@ Contenuto: 2 corsi nuovi (edilizia scolastica, bonifica siti ambientali), 2 esam
 Righe aperte nel giro: NESSUNA. Le righe aperte pendenti (B12, B13, B8/B2) sono chiuse con fonte alla voce H2-H4. Il documento CNR 1012 per opere marine resta non citato in attesa di fonte primaria: nessuna azione richiesta al materiale.
 
 Nota di rilascio: questo giro contiene CORREZIONI a schede esistenti (H1-H4), non solo aggiunte. Il prossimo tag sara' valutato con l'utente: patch v1.1.1 (se correzioni + aggiunte) oppure v1.2.0. Nessun tag applicato a questo commit.
+
+## Giro I — 2026-10-01, bozza post-v1.1.0 (verso v1.2, NESSUN tag applicato)
+
+Contenuto: 3 corsi nuovi (restauro e conservazione delle opere, impianti sportivi, pietre naturali e materiali lapidei) e 3 esami nuovi (723 domande). I corsi sono stati redatti da agenti dedicati sotto brief rigido e poi rivalidati dal curatore prima del commit.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| I1 | Nuovi pack (12+12+12 = 36 schede) | Norme citate (solo consolidato): D.Lgs 42/2004, Carta di Venezia 1964, Codice Deontologico del Restauro, NTC2018, DPR 380/2001, UNI EN 998-1, UNI EN 1015, UNI EN ISO 12572 (restauro); D.M. 18/03/1996, D.Lgs 81/2008, D.Lgs 139/2006, UNI EN 14904, UNI EN 15330-1, UNI 9182, D.Lgs 198/2009, D.M. 236/1989, D.Lgs 192/2005 (impianti sportivi); UNI EN 1469, UNI EN 1341, UNI EN 1342, UNI EN 1343, UNI EN 12057, UNI EN 12326, serie UNI EN 1001 (pietre naturali) | Norme di consolidata certezza; nessun valore numerico normativo nuovo |
+| I2 | Esami: 3 nuovi esami, 723 domande | RESTAURO_CONSERVAZIONE 223 (limite imposto dalla deduplica su 12 schede), IMPIANTI_SPORTIVI 250, PIETRE_NATURALI 250; distrattori sempre dello stesso settore; chiavi riservate fuori repo, 0 anomalie al controllo | Controllo interno su schema chiavi e lettere |
+| I3 | Validazione curatoriale | Rimosso script di generazione residuo nel pack restauro; 54 pack, 762 schede, 0 errori JSON, 0 schede fuori schema, 0 refusi | Rivalidazione indipendente rispetto ai resoconti agente |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.2.0 o v1.1.1, da decidere alla chiusura della bozza).

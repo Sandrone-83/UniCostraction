@@ -3,12 +3,14 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-888 voci enciclopediche tratte da 52 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+924 voci enciclopediche tratte da 55 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
 - **Accatastamento e regolarizzazione: il mercato immobiliare pulito** — Accatastamento · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Mettere in regola immobili irregolari: il valore economico della regolarità.
+- **Accessibilità e barriere architettoniche negli impianti sportivi** — Accessibilità · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Gli impianti sportivi devono essere fruibili da tutti: persone con disabilità motorie, sensoriali e cognitive. L'accessibilità riguarda percorsi esterni, parcheggi, ingressi, spalti, spogliatoi e servizi igienici, fino a…
 - **Accessori impianto idrico** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Flessibili, gruppi di sicurezza, vasi di espansione, filtri e riduttori di pressione: gli 'organi' dell'impianto idrico.
 - **Acciaio da cemento armato B450C** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -33,6 +35,8 @@
   Schiuma PU bicomponente che espande e aderisce: fissaggio e isolamento in un colpo: per pannelli, cassonetti e coibentazioni.
 - **Aerogel** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Gel di silice essiccato: l'isolante solido più leggero e performante al mondo.
+- **Agibilità e certificazioni degli impianti sportivi** — Normativa e certificazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Un impianto sportivo può essere aperto al pubblico solo con le autorizzazioni dovute: agibilità statica e alle attività sportive, conformità antincendio dove richiesta, idoneità delle superfici di gioco e delle attrezzat…
 - **Agrivoltaico in Italia: il percorso degli incentivi dal DM 436/2023 al 2026** — Agrivoltaico incentivi · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   L'agrivoltaico italiano ha un percorso di incentivi dedicato nato con il PNRR: contributo del 40% e tariffa per 20 anni, con regole operative del GSE aggiornate nel 2026. Conoscere le tappe evita di citare bandi chiusi e…
 - **Algebra di base: equazioni, proporzioni, percentuali** — Algebra · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -137,6 +141,8 @@
   I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli appalti pubblici di lavori, servizi e forniture (D.Lgs 36/2023): per gli edilizi coprono materiali, energia, acqua, rifiuti e salute dell'am…
 - **Camini, finestre da tetto e attraversamenti: i punti deboli** — Camini · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Ogni attraversamento della copertura è un potenziale punto di infiltrazione: camini, finestre da tetto (velux e simili), antenne, pannelli solari, lucernari; il dettaglio corretto usa le pezze speciali (lastrine, collari…
+- **Campi di gioco scoperti: recinzioni, reti di protezione e coperture** — Campi di gioco · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Il campo scoperto è completato da recinzioni perimetrali, reti di protezione sopraelevate e, dove serve continuità d'uso, da coperture: pensiline, capannoni o coperture leggere per singoli campi.
 - **Canaline da pavimento e prese a pavimento** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -211,6 +217,8 @@
   Ancoranti meccanici per carichi pesanti: espansione a cuneo, a clip, con ghiera: per macchinari e strutture.
 - **Connettore metallico per legno** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lamiere piegate (angolari, staffe, mensole a T, connettori a coda di rondine, piastre) che collegano elementi di carpenteria in legno: giunzione strutturale certificata.
+- **Consolidamento delle strutture murarie storiche** — Consolidamento murario · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Il consolidamento della muratura storica comprende cerchiature, iniezioni di malte fluidificate e tecnica del cuci e scuci per ricucire lesioni e ricostruire porzioni ammalorate. Le cerchiature introducono tiranti in acc…
 - **Contabilizzazione diretta e indiretta del calore** — Contabilizzazione · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Misurare il calore consumato da ogni unità immobiliare: obbligatoria nei condomini centralizzati.
 - **Continuità elettrica: UPS, gruppi elettrogeni e switch automatici** — Continuità elettrica · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
@@ -259,6 +267,8 @@
   Detergenti acidi per pulizia post-cantiere e biocidi antimuffa per finiture.
 - **Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2014** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica periodica alle grandi imprese e alle imprese energivore (scadenza dicembre degli anni dispari), con obbligo alternativo per piccole e medie (…
+- **Diagnosi preliminare: rilievo stratigrafico e indagini diagnostiche** — Diagnostica preliminare · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  La diagnosi preliminare ricostruisce la storia costruttiva dell'edificio attraverso il rilievo stratigrafico delle superfici, la lettura delle discontinuità murarie e le indagini non distruttive o micro-intrusive. Prove …
 - **Dighe, invasi e opere di presa** — Opere idrauliche · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Digital twin e gestione: il modello dopo il cantiere** — Digital twin · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -293,6 +303,10 @@
   Rilievo 3D da drone con foto georiferite per mappatura di cantiere e patrimonio.
 
 ## E
+- **Economia degli impianti sportivi: costruzione, gestione, affitto e sponsor** — Economia · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  L'impianto sportivo è un'impresa con un bilancio: costi di costruzione, costi di gestione annui, ricavi da affitti, abbonamenti, eventi, sponsor e contributi pubblici. Chi progetta deve pensare al modello economico prima…
+- **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Quando la robotica ripaga: il quadro economico realistico.
 - **Edilizia residenziale pubblica e housing sociale** — Edilizia pubblica · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -701,6 +715,8 @@
   Il ruolo del geometra nella filiera edilizia: cosa può fare, cosa deve sapere, come evolve.
 - **Il governo del territorio: principi costituzionali** — Principi · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   L'urbanistica italiana si fonda sugli artt. 42 e 44 della Costituzione: proprietà pubblica e privata riconosciuta ma con funzione sociale, che può essere vincolata in base ai piani; l'art. 117 attribuisce la pianificazio…
+- **Il granito: durezza e impieghi interni ed esterni** — Materiali - granito · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Il granito è una roccia magmatica acida composta prevalentemente da quarzo, feldspati e miche, tra i materiali naturali più duri e resistenti in assoluto. È la pietra di riferimento per carichi pesanti, traffico intenso …
 - **Il guasto e l'intervento correttivo: richieste, priorità e tempi di ripristino** — Gestione del guasto · corso: *Facility management e manutenzione programmata* (`FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK`)
   Nonostante la migliore manutenzione programmata, i guasti accadono: una perdita, un blackout parziale, un serramento bloccato, un climatizzatore fermo. La gestione correttiva trasforma la segnalazione in intervento con u…
 - **Il layout del campo: pitch, ground cover ratio e la produzione attesa** — Layout e produzione · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -721,6 +737,8 @@
   L'impresa edile vende fiducia: il marketing efficace è la somma di reputazione (cantieri fatti bene e visibili), referral (clienti e professionisti che raccomandano), presenza digitale (sito, foto cantieri prima/dopo, re…
 - **Il marketing immobiliare: vendere l'immobile al meglio** — Marketing immobiliare · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Un immobile venduto bene si presenta bene: fotografie professionali (luce naturale, grandangolo corretto), home staging leggero (sgombro, neutralizzazione, tessili), descrizione onesta e dettagliata, prezzo di lancio cor…
+- **Il marmo: qualità, venature, cave, macchie e resina** — Materiali - marmo · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Il marmo è calcare metamorfizzato, apprezzato per lucentezza, colori e venature uniche. Le differenze di qualità nascono dalla purezza del fondo, dalla regolarità della vena, dalle inclusioni e dal numero di macchie, cre…
 - **Il mercato immobiliare: dinamiche, cicli, indicatori** — Mercato · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Il mercato immobiliare è ciclico (cicli lunghi 8-15 anni) e locale: il valore di un appartamento dipende dal micro-mercato (quartiere, città) più che dal trend nazionale; gli indicatori chiave: compravendite, prezzi nomi…
 - **Il metodo degli stati limite: la verifica SLU di base** — Verifiche SLU · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
@@ -741,6 +759,8 @@
   Il notaio pubblico è l'ufficiale che dà certezza ai passaggi immobiliari: atto di compravendita, atto di divisione, ipoteca, trascrizione preliminare (salvaguardia chi compra su carta), servitù, diritti reali; la trascri…
 - **Il nuovo ponte di Genova (2020): la ricostruzione come risposta** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il viadotto Genova San Giorgio (Renzo Piano), costruito in 14 mesi dopo il crollo Morandi: 1.067 m, la 'freccia' bianca.
+- **Il palazzetto dello sport: geometrie, luci e altezze libere** — Tipologie e classificazione · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Il palazzetto (palasport) è un edificio a grande luce con campo centrale e spalti. La geometria della copertura — le luci tra i sostegni e le altezze libere sul piano di gioco — è il dato progettuale che condiziona tutto…
 - **Il Pantheon di Roma: la cupola che nessuno ha eguagliato** — Capolavori antichi · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il tempio di tutti gli dei (118-128 d.C.): la più grande cupola in calcestruzzo non armato mai costruita.
 - **Il patrimonio edilizio scolastico e i programmi di messa in sicurezza** — Quadro generale e normativo · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
@@ -763,6 +783,8 @@
   Il Piano Operativo di Sicurezza e' il documento con cui ogni datore di lavoro di impresa descrive come gestisce concretamente i rischi propri della propria attivita' nel cantiere specifico. Nasce dall'incrocio tra il DVR…
 - **Il preventivo edile: costi, margine, prezzo** — Preventivo · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   Il preventivo trasforma il progetto in un numero: costi diretti (materiali, manodopera, mezzi, subappalti), costi indiretti (ufficio, sicurezza, generali 8-15%), rischi (5-10%), margine netto target (8-15% sano); il prez…
+- **Il prezzo della pietra: come si forma e differenze di mercato** — Economia · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Il prezzo della pietra naturale non nasce in cava: è la somma di estrazione, resa di taglio, lavorazione, selezione estetica, scarto, logistica e margine della filiera. Comprendere la struttura del costo permette di nego…
 - **Il progetto di interni come disciplina tecnica** — Fondamenti · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Il progetto di interni è ingegnerizzazione dello spazio abitato: distribuzione, ergonomia, materiali, impianti integrati, luce, acustica, con documentazione esecutiva che i falegnami e gli installatori eseguono senza int…
 - **Il progetto strutturale dei ponti: impalcato, appoggi, fondazioni** — Ponti strutturali · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -811,6 +833,8 @@
   La copertura vegetale trasforma il tetto piano in un giardino: isola, trattene l'acqua piovana, abbassa la temperatura estiva dell'edificio e allunga la vita della guaina. Richiede però una progettazione seria del peso e…
 - **Il trattamento dell'acqua potabile: addolcitori, filtri e separazione dei fluidi** — Idraulica — trattamento acque · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   L'acqua di rete, pur potabile, contiene durezza, sedimenti e, nei sistemi, può mescolarsi con fluidi non potabili. Il trattamento protegge le apparecchiature (caldaie, pompe di calore, scambiatori) e garantisce la salubr…
+- **Il travertino romano: caratteristiche e impieghi** — Materiali - travertino · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Il travertino è un calcare di deposizione chimica che si forma intorno a sorgenti termali, con i caratteristici pori vuoti dei vacuoli originari di vegetale o gas. Il travertino romano è la variante classica dell'Italia …
 - **Il vaso di espansione: il componente che salva l'impianto** — Vasi espansione · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Come assorbire la dilatazione dell'acqua calda: dimensionamento e manutenzione.
 - **Il verde in regime di vincolo: paesaggio e sostituzioni** — Verde vincolato · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
@@ -821,6 +845,8 @@
   Non si può montare un vetro qualunque ovunque: porte, vetrine, docce, parapetti e facciate basse richiedono vetri di sicurezza che, in caso di rottura, non feriscono le persone o restano in posizione. La scelta corretta …
 - **Il vetro: camera, triplo, basso emissivo, sicurezza** — Vetro · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + intercapedine 12-16 mm con gas argon), triplo (3 lastre, per climi freddi), basso emissivo (metallizzazione che riflette il calore interno invern…
+- **Illuminazione sportiva e impianti di sicurezza: lux per disciplina, flicker e videosorveglianza** — Impianti impiantistici · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  L'illuminazione serve due padroni: l'atleta, che richiede uniformità e assenza di abbagliamento, e la televisione, che richiede livelli di illuminamento elevati e stabilità dell'immagine (assenza di flicker anche a ripre…
 - **Illuminotecnica LED** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Corpi illuminanti a LED: plafoniere, downlight, strisce, proiettori: la luce efficiente e di design.
 - **Impermeabilizzanti liquidi per zone umide, balconi e terrazzi** — Impermeabilizzazioni · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -845,6 +871,8 @@
   Il quadro dell'innovazione negli interni: materiali bio-based e riciclati a parete (feltro, sughero, canapa, terrazzo veneziano ricomposto), superfici tattili (stucco, calce, marmorino), il ritorno del legno caldo e dei …
 - **Interruttori e prese** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Placche con interruttori, prese, USB e comandi: il punto di contatto dell'impianto.
+- **Intervento antisismico sul costruito storico** — Miglioramento sismico · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  L'intervento antisismico sul costruito storico mira al miglioramento della sicurezza senza snaturare le strutture esistenti, privilegiando tecniche compatibili e il più possibile reversibili. Interventi tipici sono il ri…
 - **Intonaco civile tradizionale e premiscelato** — Finiture · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Realizzazione di intonaci interni ed esterni a più strati (rinzaffo, arriccio, finitura). Errore tipico: applicare su supporto polveroso o troppo assorbente senza preparazione (distacchi a scaglie) e non rispettare i tem…
 - **Inverter di centrale e rete interna: dal modulo alla cabina di consegna** — Inverter e rete interna · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -1051,6 +1079,8 @@
   Il legno costruito su misura: la sartoria dell'interior design.
 - **La fatica strutturale: quando le ripetizioni rompono** — Fatica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   La matematica del 'mille volte leggero vale una volta forte': ponti, gru, macchine.
+- **La filiera del cantiere di restauro** — Organizzazione di cantiere · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Il cantiere di restauro è organizzato per fasi consecutive: sopralluogo e diagnostica, messa in sicurezza, ponteggi a norma, definizione delle lavorazioni e delle maestranze specializzate, collaudo e consegna. Ogni fase …
 - **La fiscalità del personale: dipendenti, somministrazione, voucher e appalti interni** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sull'impatto fiscale e contributivo delle diverse forme di utilizzo del lavoro nell'impresa edile: lavoro dipendente a tempo indeterminato e a termine, somministrazione a tempo determinato, lavoro accessorio (vouc…
 - **La fonometria ambientale: classi acustiche e limiti di zona** — Ambiente · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
@@ -1119,6 +1149,8 @@
   L'anatomia della macchina del futuro: refrigerazione + idronica.
 - **La portanza dei pali: punta, laterale e prove di carico** — Fondazioni profonde · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   La portanza di un palo si scompone in componente di punta (resistenza del terreno di appoggio) e attrito laterale (aderenza lungo il fusto): entrambe si stimano da indagini, correlazioni e, per le opere importanti, da pr…
+- **La posa in opera della pietra naturale: malte, colle, giunti e dilatazioni** — Posa in opera · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  La posa è il momento in cui la pietra vince o perde: la malta o la colla, i giunti, le dilatazioni e la preparazione del supporto determinano la durata del rivestimento o pavimento più della qualità della lastra stessa.
 - **La posa in opera: il serramento si gioca nell'installazione** — Posa · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il miglior serramento del mondo installato male è una perdita di denaro: la posa corretta gestisce il sopralluce, l'ancoraggio al muro, la coibentazione dello spazio tra telaio e muratura, la tenuta all'acqua con i siste…
 - **La prefabbricazione industriale avanzata** — Prefabbricazione · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -1215,10 +1247,14 @@
   Lastra di gesso rivestito di carta: la base dei sistemi a secco: pareti, controsoffitti, rivestimenti.
 - **Lastra in silicato di calcio** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lastra in silicato di calcio rinforzata: ignifuga, resistente all'umidità: rivestimenti tecnici e tunnel.
+- **Lastre per rivestimenti e facciate: fissaggi meccanici, ventilate e incollaggi** — Applicazioni - rivestimenti e facciate · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Il rivestimento lapideo di facciate si realizza con tre grandi sistemi: incollaggio a malta o colle su supporto, fissaggio meccanico con angolari e staffe, e facciata ventilata con telaio portante e camera d'aria. La sce…
 - **Laterizio forato** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocco in argilla cotta con fori verticali (fino al 55% del volume): alleggerisce, isola e riduce il consumo di argilla: il mattone moderno dei muri portanti.
 - **Lattoneria in rame e zinco** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lamiere di rame, zinco-titanio o alluminio preverniciato per gronde, camini e dettagli di copertura.
+- **Lavorazioni di superficie: taglio, levigatura, lucidatura, bocciardatura, fiammatura** — Lavorazioni - superfici · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  La finitura superficiale determina aspetto, scivolosità e resistenza della pietra: dalla superficie segata grezza alla lucidatura a specchio, passando per levigatura, bocciardatura, fiammatura e spazzolatura. Ogni proces…
 - **Lavori in quota: cadute dall'alto, DPI anticaduta e linee vita** — Lavori in quota · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   La caduta dall'alto resta una delle cause principali di infortunio mortale in edilizia: banchetti di copertura, scale, scalette, mezzi di sollevamento e lavori su ponteggi o piattaforme sono le sedi tipiche. La prevenzio…
 - **Layout robotizzato dal modello BIM** — BIM-to-Robot · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1267,6 +1303,8 @@
   Le ESCo (Energy Service Company) realizzano interventi di efficienza energetica a rischio proprio: investono, misurano e verificano i risparmi, ripagandosi con una quota del beneficio ottenuto (Energy Performance Contrac…
 - **Le facciate continue: la vetrata architettonica** — Facciate continue · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   La facciata continua (curtain wall) è il sistema a montanti e traversi in alluminio e vetro delle architetture moderne: la struttura portante sta dietro al vetro, l'acqua scende per gravità e defluisce nei condotti nasco…
+- **Le famiglie delle pietre naturali** — Materiali - famiglie litiche · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Panoramica delle principali famiglie di pietre naturali usate in edilizia: calcare, travertino, granito, marmo, ardesia, quarzite, pietra calcarea tenera (pietra di Lecce, pietra forte) e arenaria. Ogni famiglia nasce da…
 - **Le finiture ai silicati e acriliche: resa, traspirabilità e limiti** — Finiture murali · corso: *Murature, intonaci e finiture murali* (`MURATURE_INTONACI_E_FINITURE_PACK`)
   Le vernici murali si dividono in due grandi famiglie: quelle minerali ai silicati, che legano chimicamente con il supporto calcareo, e quelle organiche acriliche, che formano un film plastico. La scelta incide su traspir…
 - **Le fondazioni in formule: platea, pali, micropali** — Fondazioni formule · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
@@ -1439,8 +1477,14 @@
   Miscela di cemento, sabbie selezionate e additivi in sacco: basta aggiungere acqua: la malta standard dei cantieri moderni.
 - **Malta tixotropica da ripristino** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia ad alta resistenza, fibrorinforzata, applicabile a strati spessi anche in verticale (non cola): ripristino cls ammalorato.
+- **Malte di risanamento e deumidificazione delle murature umide** — Risanamento murature umide · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Le murature umide degli edifici storici si risanano eliminando le cause di risalita capillare e asportando le parti degraderate. Le malte di risanamento, a base di calce naturale e aggregati specifici, devono essere fisi…
+- **Manutenzione della pietra naturale: pulizia, decalcificazione e rigenerazione della lucidatura** — Manutenzione · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  La pietra naturale invecchia con dignità se mantenuta: pulizia ordinaria con detergenti neutri, decalcificazione periodica dei depositi calcarei su superfici ruvide o in esterno, e rigenerazione della lucidatura quando i…
 - **Manutenzione e gestione del patrimonio infrastrutturale** — Gestione opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere invecchiano: monitoraggio, manutenzione programmata, digitalizzazione del patrimonio.
+- **Manutenzione programmata e risparmio energetico** — Gestione e sicurezza · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  La sostenibilità economica di un impianto si gioca in esercizio: manutenzione programmata delle superfici, delle strutture e degli impianti tecnologici, insieme a scelte di efficientamento energetico che incidono sui con…
 - **Marciapiedi, piste ciclabili e la città a 30 km/h** — Marciapiedi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   La viabilità dolce è la nuova frontiera urbana: marciapiedi continui e accessibili, piste ciclabili di qualità (protette, continue), zone 30 e isole ambientali; il principio è la gerarchia delle velocità: dove ci sono pe…
 - **Marmo e pietre naturali** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1517,6 +1561,10 @@
   Assi di legno massiccio incollate: il parquet tradizionale: pregiato e rinnovabile.
 - **Parquet prefinito** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tavole con supporto multistrato e essenza pregiata sopra: la stabilità del parquet moderno.
+- **Pavimentazioni sportive indoor: parquet, resina, gomma e PVC** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Le superfici indoor per palestre devono garantire l'assorbimento degli urti, l'elasticità controllata e lo stato di superficie. Le soluzioni principali sono parquet sportivo a listoni, resine poliuretaniche autolivellant…
+- **Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  All'aperto la scelta della superficie determina disciplina praticabile, frequenza d'uso e costo di esercizio: erba sintetica con riempitivi, terra battuta stabilizzata, asfalto o cemento, erba naturale ed erba ibrida a r…
 - **Perché costruire in legno: il materiale che respira** — Fondamenti · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno è il più antico dei materiali da costruzione e il più moderno: rinnovabile (cresce), sequestra CO2 (un m³ di legno stocca ~1 tonnellata di CO2), leggero (5 volte più del calcestruzzo), isolante naturale, lavorab…
 - **Persiane, tapparelle, frangisole: l'ombra come prestazione** — Oscuranti · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
@@ -1527,6 +1575,10 @@
   Non sempre serve un ascensore: per piccoli dislivelli, carichi o contesti con pochi spazio ci sono le piattaforme elevatrici (per persone in carrozzina) e i montacarichi (per merci). Regimi, limiti e costi sono diversi, …
 - **Pietra naturale a rivestimento** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lastre di pietra naturale per facciate e pareti interne: pietra di Luserna, ardesia, travertino.
+- **Pietra naturale, agglomerati, ceramica e riconglomerati: confronto e restauro** — Confronto materiali · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  Il progettista sceglie oggi tra pietra naturale, agglomerati di quarzo e marmo, gres porcellanato e riconglomerati (breccia, seminato alla veneziana, terrazzo veneziano). Ogni materiale ha il suo campo di vittoria; conos…
+- **Pietre per pavimentazioni esterne: scivolosità, spessori e posa su letto** — Applicazioni - pavimentazioni esterne · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  La pavimentazione esterna in pietra naturale richiede il giusto abbinamento tra pietra, finitura antiscivolo, spessore e tipo di posa. Gli errori più costosi nascono quasi sempre da spessori insufficienti o da superfici …
 - **Pittura al quarzo** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pittura con inerti di quarzo: riempie microfessure e durevole: la finitura dei condomini e delle pareti esterne.
 - **Pittura intumescente** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1603,6 +1655,8 @@
   Dispositivi antinquinamento per evitare risalite nei punti d'acqua: zone di protezione.
 - **Protezione da sovratensioni (SPD)** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Difesa da fulmini e manovre rete: scaricatori di sovratensione.
+- **Pulitura e trattamenti di superfici lapidee e intonaci storici** — Pulitura superfici · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  La pulitura delle superfici lapidee e degli intonaci storici va condotta con metodo graduale, dal meno invasivo al più incisivo, valutando la risposta del materiale a ogni passaggio. Acqua deionizzata, spazzolamenti mecc…
 
 ## Q
 - **Quadri elettrici** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1625,8 +1679,14 @@
   Recuperare il sottotetto o il seminterrato è il modo più rapido di guadagnare metri quadri senza cemento nuovo: le regole (altezze minime, luci, aerazione, accessi) decidono cosa si può fare e come si dichiara.
 - **Resina epossidica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento continuo in resina: senza fughe, chimicamente resistente: garage, laboratori, retail.
+- **Restauro di serramenti e infissi storici** — Restauro serramenti · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Gli infissi storici in legno o ferro vanno restaurati conservando profili, ferramenta e vetri originali quando possibile, integrando con elementi nuovi distinguibili solo dove il degrado è irreversibile. Il restauro prev…
+- **Restauro di solai e coperture antichi** — Restauro solai e coperture · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  I solai e le coperture storici in legno vanno restaurati ripristinando la funzione portante con elementi nuovi compatibili e conservando quanto più possibile il materiale originale. Le tecniche includono l'impalco, la so…
 - **Restauro e conservazione: le teorie e i metodi** — Restauro architettonico · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Come si interviene sul costruito storico: teorie dal 1800 a oggi e pratica quotidiana.
+- **Restauro energetico dell'edilizio storico** — Restauro energetico · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Il restauro energetico dell'edilizio storico mira al miglioramento dell'efficienza termica mantenendo la compatibilità con i materiali porosi e la fisica igrometrica dei muri antichi. Interventi tipici sono la coibentazi…
 - **Retail design: il negozio che vende** — Retail design · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Lo spazio commerciale come macchina di vendita: layout, percorsi, merchandising.
 - **Rete dati LAN strutturata** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1713,6 +1773,8 @@
   Vernice a base acqua per legno, metallo e pareti: lucida, durevole, atossica.
 - **Smalto sintetico (al solvente)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice al solvente per legno e metallo: durevole e lucida ma con VOC.
+- **Spogliatoi e servizi igienici: dimensionamento per utenza** — Servizi e spazi funzionali · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Spogliatoi, docce e servizi igienici devono essere dimensionati sul numero effettivo di utenti simultanei e sulle caratteristiche degli sport praticati: una squadra di calcio e una lezione di fitness hanno esigenze compl…
 - **Stampa 3D case intere (Icon Vulcan)** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Sistema mobile di stampa intero edificio in ~7-14 giorni.
 - **Stampa 3D con terra cruda e geopolimeri** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1759,6 +1821,8 @@
   Argilla espansa in granuli (leca): riempimento leggero e drenante per coperture, pavimenti e controfforme.
 - **Tipologia edilizia: residenza, ufficio, servizi, industria** — Tipologia · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Le forme dell'edilizia secondo funzione: regole, dimensioni, standard.
+- **Tipologie di impianti sportivi: dall'impianto scoperto al palazzetto dello sport** — Tipologie e classificazione · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Panoramica delle tipologie edilizie dedicate all'attività sportiva: impianti scoperti (campi di calcio, atletica, tennis, rugby), palazzetti polivalenti coperti, palestre e centri sportivi polifunzionali. Le piscine, per…
 - **Titoli edilizia libera per il tecnico: CILA, SCIA, PdC** — Edilizia libera · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Le pratiche edilizie che il cittadino (con tecnico) presenta: cosa serve per cosa.
 - **Topografia: i principi fondamentali** — Topografia principi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -1767,6 +1831,10 @@
   Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tutte le lavorazioni. Errore tipico: tracciare sugli spigoli invece che sugli assi e perdere i riferimenti al primo scavo; controllo: picchett…
 - **Transizione 5.0 e iperammortamento: il lato imprese** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Per le imprese l'efficienza energetica si incentiva anche con il credito d'imposta: il Transizione 5.0 (2024-2025) è chiuso ai nuovi investimenti dal 31/12/2025; l'iperammortamento 2026 resta per beni immateriali e per l…
+- **Trattamenti delle pietre: idrorepellenti, ceranti, anti-macchia (e quando non trattare)** — Trattamenti · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
+  I trattamenti superficiali modificano il comportamento della pietra verso acqua, oli e sporco: idrorepellenti che riducono l'assorbimento mantenendo la traspirazione, ceranti che lucidano e proteggono ma formano un film,…
+- **Tribune e gestione del pubblico: capienza, affluenza ed evacuazione** — Impianti di pubblico · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
+  Tribune e spalti sono la parte dell'impianto che governa la sicurezza collettiva: capienza ammissibile, posti per metro quadrato, vie di circolazione, scale e tempi di evacuazione verso l'esterno.
 - **Trigonometria applicata: pendenza, altezze, triangoli qualsiasi** — Trigonometria · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Sen, cos, tan: lo strumento per misurare ciò che non si può arrivare a toccare.
 - **Tubi corrugati e canaline** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1781,6 +1849,8 @@
   Tubo in polietilene reticolato con anima in alluminio: il compromesso perfetto: flessibile, ossigeno-barriera, idoneo al riscaldamento.
 - **Tubo PE-X / PE-RT** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tubi in polietilene reticolato o resistente al calore: il flessibile per pavimenti radianti e sottotraccia.
+- **Tutela delle superfici storiche e documentazione prima/dopo** — Documentazione e tutela delle superfici · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Ogni superficie storica (intonaci, affreschi, affreschi esterni, paramenti lapidei) va protetta prima dell'intervento con teli, casseformi o staccionamenti e va documentata con rilievo fotografico e grafico. La documenta…
 
 ## U
 - **Uffici e spazi di lavoro: il workplace design** — Interior terziario · corso: *Master in design* (`MASTER_DESIGN_PACK`)
@@ -1807,6 +1877,8 @@
   Spostamenti, forze e coordinate: la matematica dei 'quanto in quale direzione'.
 - **Videosorveglianza e privacy** — Videocamere · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Telecamere IP per sicurezza, con vincoli GDPR per aree comuni e lavoro.
+- **Vincoli e autorizzazioni per i beni tutelati** — Vincoli e autorizzazioni · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
+  Gli interventi su beni culturali vincolati richiedono autorizzazioni specifiche che verificano la compatibilità tecnica e materica delle lavorazioni proposte. Il procedimento coinvolge la Soprintendenza competente per te…
 - **Vite** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Elemento filettato con testa che avvita in un foro preforato o in un inserto: fissaggio avvitato a coppia controllata, smontabile.
 - **Vivibilità e comfort abitativo: oltre l'estetica** — Vivibilità · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)

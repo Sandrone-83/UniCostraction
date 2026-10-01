@@ -140,3 +140,11 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - Correzioni normative verificate e tracciate in CHANGELOG (Giro H): guida CEI 82-25 confermata e numerata nelle schede FV, riferimenti catastali Docfa (Do.C.Fa., D.M. 2 gennaio 1998 n. 28, DPR 138/1998) specificati, opere marittime con CSLP 23/09/1994 n. 156 e CNR-DT 207/2008; rimossa la UNI 9174 (prova di reazione al fuoco) da tre schede FV dove era collocata per errore
 - Nuovi esami: ESAMI/EDILIZIA_SCOLASTICA (250 domande) ed ESAMI/BONIFICA_SITI (250 domande), chiavi riservate fuori repository
 - Totale repository: 51 pack, 726 schede, 52 esami
+
+## Corsi del giro di approfondimento 9 (2026-10-01, bozza post-v1.1.0)
+
+- RESTAURO_E_CONSERVAZIONE_OPERE_PACK (12 schede, L2-L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: filiera del cantiere di restauro, diagnosi stratigrafica, malte di risanamento, pulitura superfici, consolidamento murature storiche, solai e coperture antichi, serramenti storici, antisismica del costruito storico, vincoli D.Lgs 42/2004, restauro energetico, economia del restauro
+- IMPIANTI_SPORTIVI_EDILIZIA_PACK (12 schede, L2-L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: palazzetti, pavimentazioni indoor/outdoor, tribune ed evacuazione, illuminazione sportiva, spogliatoi, accessibilità, agibilità, manutenzione, economia degli impianti
+- PIETRE_NATURALI_E_LAPIDEI_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: famiglie di pietre, lavorazioni di superficie, marmo/travertino/granito, pavimentazioni esterne, rivestimenti e facciate, trattamenti, posa, manutenzione, prezzi, confronto con agglomerati e ceramica
+- Nuovi esami: ESAMI/RESTAURO_CONSERVAZIONE (223 domande), ESAMI/IMPIANTI_SPORTIVI (250), ESAMI/PIETRE_NATURALI (250), chiavi riservate fuori repository
+- Totale repository: 54 pack, 762 schede, 55 esami

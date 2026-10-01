@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-293 voci, 11 corsi.
+329 voci, 14 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -699,6 +699,191 @@ La SPA è il centro di profitto che cresce: il percorso benessere (idromassaggi,
 - **Caso tipico:** Resort con SPA riprogettata (la piscina tecnica con i getti, il percorso caldo-freddo, la zona relax silenziosa): i day-spa pass coprono i costi di gestione e il fatturato dei trattamenti è cresciuto del 40% (il percorso 'scaldato' prepara i clienti ai massaggi).
 - **Normativa:** Normativa antincendio; igiene (le piscine e i bagni di vapore); specifiche settore.
 - **Nota di cantiere:** La SPA è teatro: la scenografia (acqua, vapore, luce, silenzio) deve funzionare tutto insieme, ogni giorno.
+
+
+## Impianti sportivi: edilizia e tecnologie
+
+*Corso `IMPIANTI_SPORTIVI_EDILIZIA_PACK` — 12 voci*
+
+### Accessibilità e barriere architettoniche negli impianti sportivi
+
+**Categoria:** Accessibilità · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Gli impianti sportivi devono essere fruibili da tutti: persone con disabilità motorie, sensoriali e cognitive. L'accessibilità riguarda percorsi esterni, parcheggi, ingressi, spalti, spogliatoi e servizi igienici, fino al campo stesso dove possibile.
+
+- **Tecnologia e criteri:** Rampa con pendenze controllate o piattaforme elevatrici dove il dislivello non è superabile a mano; postazioni per spettatori in carrozzina con spazi companion nei settori spettatori; servizi igienici accessibili con le dimensioni e le attrezzature previste; percorsi tattili e segnaletica ad alto contrasto per le disabilità visive.
+- **Applicazioni:** Ogni nuova costruzione o ristrutturazione rilevante di impianti comunali, scolastici e privati con pubblico; adeguamenti dei vecchi impianti realizzati prima dell'entrata in vigore delle norme attuali.
+- **Vantaggi:** L'accessibilità piena allarga l'utenza (cittadini anziani, genitori con passeggini, atleti paralimpici), semplifica le pratiche di agibilità e riduce il rischio di segnalazioni e contenziosi.
+- **Limiti e attenzioni:** Nei vecchi impianti l'adeguamento costa e tocca spazi vincolati come gradinate e servizi; alcune soluzioni (ascensori, piattaforme) richiedono manutenzione e personale sensibilizzato.
+- **Costi ed economia:** Ordini di grandezza indicativi: adeguamento di un servizio igienico esistente 5–15 k€; piattaforma elevatrice per superare uno scivolo di piano 10–25 k€; piano inclinato con finiture a norma 800–1.500 €/m lineare; riorganizzazione di un settore spettatori con postazioni dedicate 20–60 k€.
+- **Caso tipico:** Un palazzetto anni Settanta ha reso accessibile la tribuna creando un percorso alternativo esterno con piattaforma elevatrice e una zona posti dedicata: l'intervento, realizzato in circa trenta k€, ha permesso l'omologazione per gare paralimpiche regionali.
+- **Normativa:** Il quadro dell'accessibilità è definito dal D.Lgs 198/2009 e dalle disposizioni tecniche di attuazione del D.M. 236/1989; le prescrizioni specifiche per gli impianti a carattere sportivo si integrano con il D.M. 18/03/1996; la tutela della salute e sicurezza nei luoghi di lavoro richiama la D.Lgs 81/2008.
+- **Nota di cantiere:** Camminate il percorso completo con una carrozzina prima del collaudo, non solo con la pianta: una soglia dimenticata in un corridoio o una pendenza al 10% nel piazzale annullano anni di progettazione impeccabile.
+
+### Campi di gioco scoperti: recinzioni, reti di protezione e coperture
+
+**Categoria:** Campi di gioco · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Il campo scoperto è completato da recinzioni perimetrali, reti di protezione sopraelevate e, dove serve continuità d'uso, da coperture: pensiline, capannoni o coperture leggere per singoli campi.
+
+- **Tecnologia e criteri:** Recinzioni in rete metallica saldata o pannelli modulari su pali; reti in polipropilene o nylon tesate su funi e pali con altezze variabili per disciplina (dai 3 m del calcetto amatoriale ai 6 m e oltre per i campi da calcio certificati); coperture in carpenteria metallica leggera, membrane tensili o pannelli coibentati per campi padel e polivalenti.
+- **Applicazioni:** Cintura di sicurezza dei campi da calcio e rugby, schermi per campi da tennis e polivalenti, campi padel e calcetto coperti per uso tutto l'anno, protezione di aree sensibili esterne (parcheggi, strade, edifici vicini).
+- **Vantaggi:** Reti e recinzioni alte riducono al minimo la dispersione dei palloni e i rischi verso l'esterno; una copertura trasforma un campo stagionale in un bene a produttività annua quasi raddoppiata.
+- **Limiti e attenzioni:** Le reti sopraelevate subiscono vento e invecchiamento UV e vanno sostituite periodicamente; le coperture aumentano i costi e richiedono valutazioni di carico neve e antincendio.
+- **Costi ed economia:** Ordini di grandezza indicativi: recinzione metallica completa 60–150 €/m lineare; rete di protezione sopraelevata per campo di calcio 10–30 k€ con sostituzione ogni 5–8 anni; copertura metallica di un campo da calcetto 80–200 k€; campo da padel completo con copertura 40–90 k€.
+- **Caso tipico:** Un comune ha coperto tre campi da calcetto esistenti con strutture leggere: il canone d'affitto orario è salito di circa il 60% e il tasso di occupazione nei mesi invernali da quasi zero a oltre il 70%, ammortizzando l'investimento in pochi anni.
+- **Normativa:** Le caratteristiche dei campi di gioco, incluse recinzioni e protezioni, per l'attività agonistica si riferiscono al D.M. 18/03/1996; le coperture seguono le norme tecniche per le costruzioni per carichi neve e vento; gli eventuali prefabbricati a destinazione d'uso rientrano nella prevenzione incendi secondo il D.Lgs 139/2006 e s.m.i.
+- **Nota di cantiere:** Tendete le reti con la giusta tensione da subito e riscontrate dopo i primi mesi: reti molli scaricano la sollecitazione sui pali, reti troppo tese si strappano ai primi gelo o primo pallonazzo violento.
+
+### Economia degli impianti sportivi: costruzione, gestione, affitto e sponsor
+
+**Categoria:** Economia · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+L'impianto sportivo è un'impresa con un bilancio: costi di costruzione, costi di gestione annui, ricavi da affitti, abbonamenti, eventi, sponsor e contributi pubblici. Chi progetta deve pensare al modello economico prima ancora che alla tecnologia.
+
+- **Tecnologia e criteri:** Modelli gestionali: gestione diretta pubblica, gestione affidata a privati (gestione sportiva o concessione), gestione in partenariato; strumenti di ricavo: canoni orari, abbonamenti, organizzazione di eventi, affissioni e naming rights, corner sponsor, contributi per servizi scolastici e sociali.
+- **Applicazioni:** Impianti comunali da rilanciare, centri sportivi privati, gestione di palazzetti con eventistica ricorrente, trasformazione di impianti sottoutilizzati in poli polifunzionali.
+- **Vantaggi:** Un modello di ricavo diversificato (affitti + eventi + sponsor + servizi) copre i costi fissi anche nei mesi morti; la gestione appaltata a operatori specializzati trasferisce rischio e spesso aumenta l'uso complessivo.
+- **Limiti e attenzioni:** I ricavi da sport puro raramente coprono i costi di un palazzetto: senza eventistica, servizi collaterali e sponsor la struttura dipende da trasferimenti pubblici o dal patrimonio del gestore.
+- **Costi ed economia:** Ordini di grandezza indicativi: costi di gestione annui di un palazzetto 100–400 k€; affitto orario palestra 20–60 €/h, campo da calcetto 40–90 €/h, campo da padel 25–50 €/h, campo da tennis 15–35 €/h; sponsorizzazioni di un impianto comunale 5–50 k€/anno; il costo di costruzione va ammortizzato su 25–40 anni.
+- **Caso tipico:** Un centro sportivo pubblico in gestione a un privato ha triplicato le ore vendute introducendo padel, eventi serali sponsorizzati e corsi fitness nelle fasce morte: il canone al Comune è salito e la struttura è passata da perdita secca a pareggio operativo in tre anni.
+- **Normativa:** Gli aspetti autorizzativi e di gestione dell'impianto si inquadrano nel D.M. 18/03/1996; la sicurezza dell'attività gestionale nella D.Lgs 81/2008; gli appalti e le concessioni di servizi seguono il codice dei contratti pubblici e la normativa sulle concessioni; gli obblighi in materia di pari opportunità e non discriminazione nell'accesso all'attività sportiva si collegano alle leggi nazionali in materia sportiva.
+- **Nota di cantiere:** Scrivete il business plan con ore vendute realistiche, non con capienza teorica: l'errore numero uno è dividere il canone per mille ipotetiche ore piene, e scoprire al secondo anno che le ore piene sono trecento.
+
+### Manutenzione programmata e risparmio energetico
+
+**Categoria:** Gestione e sicurezza · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+La sostenibilità economica di un impianto si gioca in esercizio: manutenzione programmata delle superfici, delle strutture e degli impianti tecnologici, insieme a scelte di efficientamento energetico che incidono sui conti per decenni.
+
+- **Tecnologia e criteri:** Piani di manutenzione per tipologia (pavimentazioni, coperture, reti, impianti termici ed elettrici), predictive dove sensibile; efficientamento con LED, regolazione climatica zonale, pompe di calore, produzione da fonti rinnovabili (fotovoltaico sulle coperture) e monitoraggio dei consumi con contabilizzazione per ambiente.
+- **Applicazioni:** Ogni impianto coperto con gestione diretta o in appalto, ricontrattualizzazione delle forniture energetiche, riqualificazione di palazzetti datati con interventi sul involucro e sugli impianti.
+- **Vantaggi:** La manutenzione programmata costa una frazione dell'emergenza e allunga la vita degli asset (una pavimentazione curata dura anche il doppio); l'efficientamento taglia le bollette del 30–50% con payback tipici di pochi anni.
+- **Limiti e attenzioni:** Il risparmio richiede investimento iniziale e competenze di gestione dati; i contratti di gestione tradizionale spesso separano chi paga le utenze da chi manutene, vanificando gli incentivi all'efficienza.
+- **Costi ed economia:** Ordini di grandezza indicativi: manutenzione ordinaria annua 5–15 €/m² di superficie coperta (oltre alle voci specifiche delle pavimentazioni); impianto fotovoltaico da 100 kWp 80–150 k€; pompa di calore per la climatizzazione di un palazzetto 60–150 k€; gestore energetico e monitoraggio 5–20 k€/anno.
+- **Caso tipico:** Un palazzetto comunale ha installato fotovoltaico sulla copertura, sostituito caldaie con pompe di calore e introdotto scenari LED: la bolletta energetica annua è scesa di oltre il 40%, con ritorno dell'investimento complessivo stimato in meno di otto anni.
+- **Normativa:** Gli obblighi di manutenzione e verifica degli impianti tecnici seguono le leggi settoriali e la D.Lgs 81/2008 per i luoghi di lavoro; la sicurezza delle componenti passive (esodo, antincendio) dal D.Lgs 139/2006 e s.m.i.; i requisiti minimi energetici derivano dalla normativa nazionale di efficienza energetica degli edifici (direttive europee recepite in recepimento al D.Lgs 192/2005 e successive).
+- **Nota di cantiere:** Mettete contatori di consumo per servizio (campo, spogliatoi, uffici) già a impianto nuovo: senza numeri separati non saprete mai dove perdete soldi e la manutenzione resta un atto di fede.
+
+### Tribune e gestione del pubblico: capienza, affluenza ed evacuazione
+
+**Categoria:** Impianti di pubblico · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Tribune e spalti sono la parte dell'impianto che governa la sicurezza collettiva: capienza ammissibile, posti per metro quadrato, vie di circolazione, scale e tempi di evacuazione verso l'esterno.
+
+- **Tecnologia e criteri:** Soluzioni in muratura armata, acciaio, legno lamellare o prefabbricati in calcestruzzo, a gradinata fissa o retrattile; la distribuzione dei flussi si basa sulle unità di uscita, sulla lunghezza dei percorsi di esodo e sulla larghezza delle vie di fuga in funzione del pubblico previsto.
+- **Applicazioni:** Spalti fissi per palazzetti e stadi, tribune scoperte con o senza copertura, gradinate retrattili per palestre polivalenti che devono liberare il volume di gioco.
+- **Vantaggi:** Una corretta progettazione dei flussi permette capienze elevate in sicurezza e smaltisce il pubblico in pochi minuti anche in caso di emergenza; le gradinate retrattili moltiplicano l'uso dello stesso volume.
+- **Limiti e attenzioni:** Le tribune sono la parte più regolamentata e ispezionabile dell'impianto; vincoli di esodo e di posto spettatore limitano la capienza reale rispetto a quella di marketing.
+- **Costi ed economia:** Ordini di grandezza indicativi: tribuna in prefabbricato 150–400 €/posto; tribuna retrattile 250–600 €/posto; gradinata in acciaio o legno 200–450 €/posto; posto a sedere singolo con seduta 30–80 € oltre la struttura.
+- **Caso tipico:** Un palazzetto da 1.800 posti è stato riorganizzato separando i flussi dei due anelli con varchi dedicati e barriere di canalizzazione: i tempi di svuotamento in prova sono scesi da oltre 12 a meno di 8 minuti senza aumentare le uscite verso l'esterno.
+- **Normativa:** Le prescrizioni su capienza, affluenza, deflusso ed evacuazione degli impianti a carattere sportivo derivano dal D.M. 18/03/1996; gli impianti che superano le soglie di pubblico rientrano nel D.Lgs 139/2006 e s.m.i. (prevenzione incendi); i requisiti di sicurezza di gestione si collegano alla D.Lgs 81/2008.
+- **Nota di cantiere:** Collaudate le vie di esodo con una simulazione reale prima dell'apertura al pubblico: porte bloccate da lucchetti, sedili ribaltabili incastrati o corrimano mancanti emergono solo camminandoci dentro.
+
+### Illuminazione sportiva e impianti di sicurezza: lux per disciplina, flicker e videosorveglianza
+
+**Categoria:** Impianti impiantistici · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+L'illuminazione serve due padroni: l'atleta, che richiede uniformità e assenza di abbagliamento, e la televisione, che richiede livelli di illuminamento elevati e stabilità dell'immagine (assenza di flicker anche a riprese rallentate). A ciò si aggiunge l'illuminazione di sicurezza e la videosorveglianza dell'impianto.
+
+- **Tecnologia e criteri:** Proiettori LED ad alta potenza con ottiche asimmetriche e controllo DALI/DMX per scenari diversi per disciplina; gruppi di continuità e illuminazione di emergenza lungo le vie di esodo; telecamere con analitica su perimetri, varchi e tribune, integrate con l'impianto di allarme.
+- **Applicazioni:** Campi da allenamento (intorno a 200–300 lux in orizzontale), gare agonistiche indoor e outdoor (500–750 lux e oltre a seconda della disciplina), impianti televisivi HD/4K (dell'ordine di 1.400–2.000 lux con rigorosa uniformità e basso flicker), aree esterne e parcheggi per la sicurezza.
+- **Vantaggi:** Il LED dimezza i consumi rispetto alle sorgenti tradizionali, si accende istantaneamente e si regola per scenari; l'illuminazione di sicurezza conforme riduce i rischi in emergenza e le responsabilità del gestore.
+- **Limiti e attenzioni:** I livelli TV richiedono molti apparecchi e studi di abbagliamento verso i palazzi residenziali; il flicker residuo a riprese al rallentatore richiede alimentatori e dimmer di qualità; la videosorveglianza solleva questioni di privacy da gestire con policy e cartelli.
+- **Costi ed economia:** Ordini di grandezza indicativi: impianto LED per campo amatoriale 15–50 k€; impianto per palazzetto agonistico 60–150 k€; impianto TV-ready per eventi di livello 150–500 k€ e oltre; videosorveglianza di un impianto 10–50 k€; risparmio energetico tipico con il LED 40–60% sulla voce illuminazione.
+- **Caso tipico:** Un palazzetto che ospita trasmissioni televisive ha sostituito l'illuminazione tradizionale con proiettori LED studiati per scenari: la gestione passa da un unico livello acceso sempre a tre scenari (allenamento, gara, TV) con consumi ridotti di circa la metà fuori dalle gare trasmesse.
+- **Normativa:** I livelli di illuminamento e l'uniformità per disciplina derivano dal D.M. 18/03/1996 e dalle guide di progettazione illuminotecnica di riferimento nazionale (in linea generale con la UNI 9182 per l'illuminotecnica interna); l'illuminazione di emergenza e l'evacuazione seguono il D.Lgs 139/2006 e s.m.i.; i luoghi di lavoro rientrano nella D.Lgs 81/2008.
+- **Nota di cantiere:** Fate fare il collaudo fotometrico a impianto finito con relazione firmata: i lumen di catalogo non bastano, contano lux misurati in campo e il flicker verificato con la telecamera, non a occhio.
+
+### Agibilità e certificazioni degli impianti sportivi
+
+**Categoria:** Normativa e certificazioni · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Un impianto sportivo può essere aperto al pubblico solo con le autorizzazioni dovute: agibilità statica e alle attività sportive, conformità antincendio dove richiesta, idoneità delle superfici di gioco e delle attrezzature, oltre alla sicurezza dei luoghi di lavoro per chi ci opera.
+
+- **Tecnologia e criteri:** Il percorso tipico passa da titolo edilizio e collaudo statico, accatastamento, agibilità alle attività sportive (format rilasciato dall'ente pubblico competente), certificazioni delle pavimentazioni e delle attrezzature sportive con prove da laboratori accreditati, e gestione documentale della sicurezza.
+- **Applicazioni:** Nuova costruzione, ristrutturazione di impianti esistenti, cambio di destinazione d'uso di capannoni in palestre, rinnovo periodico delle certificazioni per l'omologazione agonistica.
+- **Vantaggi:** L'iter documentale completo tutela il proprietario e il gestore, qualifica l'impianto per gare ufficiali e aumenta il valore commerciale dell'immobile.
+- **Limiti e attenzioni:** L'iter è frammentato tra enti diversi e le certificazioni hanno scadenze: la scadenza dell'omologazione o del collaudo non usato per anni sono i due classici che bloccano l'apertura stagionale.
+- **Costi ed economia:** Ordini di grandezza indicativi: oneri istruttori e pratiche 2–20 k€ in funzione della complessità; prove di laboratorio su pavimentazione 2–8 k€; certificazione e omologazione di un impianto 3–15 k€; gestione documentale annua della sicurezza 3–10 k€ con consulenze esterne.
+- **Caso tipico:** Una società che gestisce un impianto in affitto ha scoperto all'avvio della stagione che l'omologazione era scaduta e il collaudo aveva più di dieci anni: la sanatoria documentale ha richiesto due mesi e rinviato l'apertura, con perdite di ricavo stimabili in decine di k€.
+- **Normativa:** La cornice tecnica è il D.M. 18/03/1996 (norme tecniche degli impianti a carattere sportivo); la prevenzione incendi per gli impianti con pubblico rilevante dal D.Lgs 139/2006 e s.m.i.; la sicurezza dei lavoratori dalla D.Lgs 81/2008; le pavimentazioni indoor dalla UNI EN 14904 e i tappeti sintetici dalla UNI EN 15330-1.
+- **Nota di cantiere:** Create un registro unico di scadenze — collaudi, omologazioni, manutenzioni antincendio, certificazioni attrezzature — con alert a sei mesi: la regola è che le pratiche si fanno prima dell'apertura, mai durante.
+
+### Pavimentazioni sportive indoor: parquet, resina, gomma e PVC
+
+**Categoria:** Pavimentazioni · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Le superfici indoor per palestre devono garantire l'assorbimento degli urti, l'elasticità controllata e lo stato di superficie. Le soluzioni principali sono parquet sportivo a listoni, resine poliuretaniche autolivellanti, gomma in rotoli e PVC vinilico.
+
+- **Tecnologia e criteri:** Il parquet sportivo è costituito da listoni di essenza dura su tavolato o pannelli di supporto, levigato e verniciato; la resina sportiva è un multistrato poliuretanico su massetto; la gomma e il PVC sono tappeti resilienti posati a secco o incollati. Le prestazioni si misurano con prove di assorbimento d'urto e deformazione verticale secondo la norma europea sulle pavimentazioni sportive indoor.
+- **Applicazioni:** Parquet per pallacanestro, pallavolo e attività polivalenti di prestigio; resina per palestre scolastiche e centri polifunzionali; gomma e PVC per pesi, fitness, spogliatoi percorsi e attività amatoriali ad alto traffico.
+- **Vantaggi:** Il parquet offre la migliore combinazione di elasticità, grip e recuperabilità; la resina è continua, igienica e resistente al carrello; gomma e PVC hanno costi e tempi di posa contenuti.
+- **Limiti e attenzioni:** Il parquet teme l'acqua e richiede levigature periodiche; la resina rigida trasmette più sollecitazioni articolari; PVC e gomma meno performanti per l'agonismo di squadra.
+- **Costi ed economia:** Ordini di grandezza indicativi: parquet sportivo posato 60–120 €/m², levigatura e verniciatura 8–15 €/m² a intervalli di 5–10 anni; resina sportiva 30–70 €/m²; gomma 25–50 €/m²; PVC 20–45 €/m². Rifacimento completo di una palestra da 1.000 m²: 40–120 k€.
+- **Caso tipico:** Una palestra scolastica con resina di 15 anni ha mostrato degrado superficiale localizzato solo nei percorsi di entrata: la manutenzione con riverniciatura selettiva ha rinnovato la superficie con una spesa di circa un terzo rispetto al rifacimento totale.
+- **Normativa:** Le prestazioni delle pavimentazioni indoor sono definite dalla UNI EN 14904 (pavimentazioni sportive indoor — requisiti e metodi di prova); l'idoneità alla certificazione agonistica delle discipline di squadra deriva dal D.M. 18/03/1996; la sicurezza dei luoghi di lavoro dalla D.Lgs 81/2008.
+- **Nota di cantiere:** Non montate il parquet prima che l'edificio sia asciutto e climatizzato: umidità residua di massetto o sottofondo gonfia i listoni e invalida la garanzia del posatore.
+
+### Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida
+
+**Categoria:** Pavimentazioni · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+All'aperto la scelta della superficie determina disciplina praticabile, frequenza d'uso e costo di esercizio: erba sintetica con riempitivi, terra battuta stabilizzata, asfalto o cemento, erba naturale ed erba ibrida a rinforzo sintetico.
+
+- **Tecnologia e criteri:** L'erba sintetica è un tappeto di fibre monofilo o fibrillato su fondo drenante con riempitivo di sabbia e granuli di gomma; la terra battuta è un impasto argilloso o stabilizzato compattato; l'erba ibrida intreccia fibre sintetiche nel terreno per rinforzare il manto naturale. Le prestazioni dei tappeti sintetici sono regolate dalla norma europea di settore.
+- **Applicazioni:** Calcio a 11, calcetto, rugby e hockey su erba sintetica; tennis e bocce su terra battuta; pattini, basket e percorsi su asfalto; stadi di alto livello con ibrido naturale.
+- **Vantaggi:** La sintetica consente 1.500–2.500 ore d'uso annue contro le 300–600 del naturale, con manutenzione ridotta; la terra battuta costa poco; l'asfalto è eterneamente praticabile; l'ibrido unisce resistenza e qualità di gioco.
+- **Limiti e attenzioni:** La sintetica surriscalda in estate e richiede la ricarica periodica del riempitivo; la terra battuta richiede irrigazione e compattatura; l'asfalto è duro con le cadute; l'ibrido ha costi di manutenzione da stadio professionistico.
+- **Costi ed economia:** Ordini di grandezza indicativi: erba sintetica completa di fondo e recinzioni 300–800 k€ per un campo di calcio a 11 (70–120 €/m² di sola superficie); terra battuta 15–40 €/m²; asfalto con finitura sportiva 20–50 €/m²; ricarica riempitivo 5–15 k€ per intervento ogni 2–4 anni; rifacimento totale della sintetica ogni 8–12 anni.
+- **Caso tipico:** Un circolo sportivo con sei campi da tennis ha convertito due campi in erba sintetica mantenendo quattro in terra: ha così garantito corsi anche d'inverno sui campi sintetici, coprendo con i ricavi aggiuntivi parte della manutenzione dei campi in terra.
+- **Normativa:** I tappeti erbosi sintetici per uso sportivo sono disciplinati dalla UNI EN 15330-1 (tappeti erbosi sintetici — specifiche per uso non professionale, campo polivalente); l'omologazione delle superfici per l'agonismo richiede le prove previste dal D.M. 18/03/1996.
+- **Nota di cantiere:** Verificate che il progettista dimensioni il fondo drenante con prove di permeabilità sul terreno reale: un campo sintetico che allaga in tre punti si rovina da lì, dove ristagna l'acqua e muore il riempitivo.
+
+### Spogliatoi e servizi igienici: dimensionamento per utenza
+
+**Categoria:** Servizi e spazi funzionali · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Spogliatoi, docce e servizi igienici devono essere dimensionati sul numero effettivo di utenti simultanei e sulle caratteristiche degli sport praticati: una squadra di calcio e una lezione di fitness hanno esigenze completamente diverse.
+
+- **Tecnologia e criteri:** Locali con armadietti singoli o modulari, panche, docce con miscelatori termostatici, servizi igienici e spogliatoi per arbitri e personale; superfici in resina o ceramica antibatterica, ventilazione meccanica controllata e scarichi a sifone doppio per gli ambienti umidi.
+- **Applicazioni:** Palestre scolastiche con picchi di uso serale, centri sportivi con più squadre contemporanee, impianti con pubblico che richiedono servizi anche per gli spettatori.
+- **Vantaggi:** Un dimensionamento corretto elimina le code negli orari di punta, riduce i conflitti tra utenti e dimezza i reclami alla gestione; la manutenzione dei locali umidi diventa economica con materiali giusti.
+- **Limiti e attenzioni:** Gli ambienti umidi sono i primi a degradarsi e quelli più soggetti a igiene e normativa: sottodimensionare docce e servizi è l'errore di progetto più comune e il più difficile da rimediare ex post.
+- **Costi ed economia:** Ordini di grandezza indicativi: realizzazione di uno spogliatoio squadra completo 15–40 k€; rifacimento bagni con sanitari e piastrelle 300–700 €/m²; cabina doccia con miscelatore 400–900 €; locale spogliatoio considerato indicativamente 1,5–2 m² per atleta come ordine di grandezza di progetto.
+- **Caso tipico:** Un centro sportivo che ospitava tornei con 300 atleti al weekend aveva docce per 60 persone: la riorganizzazione con docce modulari e fasce orarie gestite ha sbloccato i picchi senza ampliare i locali, contenendo l'investimento in pochi k€.
+- **Normativa:** I requisiti e i rapporti tra locali di servizio e utenza per gli impianti a carattere sportivo derivano dal D.M. 18/03/1996; i servizi igienici accessibili e i percorsi per persone con disabilità seguono il D.M. 236/1989 e il D.Lgs 198/2009; l'igiene e la sicurezza di uso si collegano alla D.Lgs 81/2008.
+- **Nota di cantiere:** Progettate i bagni con almeno un punto di ispezione per linea di scarico accessibile da manutentore: i primi guasti degli spogliatoi nascono sempre da scarichi intasati che nessuno riesce ad aprire.
+
+### Il palazzetto dello sport: geometrie, luci e altezze libere
+
+**Categoria:** Tipologie e classificazione · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Il palazzetto (palasport) è un edificio a grande luce con campo centrale e spalti. La geometria della copertura — le luci tra i sostegni e le altezze libere sul piano di gioco — è il dato progettuale che condiziona tutto il resto.
+
+- **Tecnologia e criteri:** Copertura con capriate in acciaio o legno lamellare con luci di 20–40 m o più; altezza libera sul campo di norma almeno 7 m per l'attività amatoriale, 9–12 m per l'attività agonistica certificata di pallavolo e pallacanestro, con quote maggiori dove il gioco prevede lanci alti.
+- **Applicazioni:** Palestre polivalenti scolastiche, palazzetti comunali, palasport con capienza da 1.000 a 5.000 posti e oltre, in versione con campo centrale unico o campo centrale più palestre collaterali.
+- **Vantaggi:** Le grandi luci riducono i sostegni nel volume di gioco e migliorano la visibilità per pubblico e telecamere; l'altezza libera corretta evita interferenze con il gioco e semplifica la certificazione agonistica.
+- **Limiti e attenzioni:** L'aumento della luce e dell'altezza cresce molto il costo strutturale e gli oneri di riscaldamento del volume; la copertura vibra e trasmette rumore, richiedendo studi di isolamento acustico.
+- **Costi ed economia:** Ordini di grandezza indicativi: costruzione di un palazzetto 700–1.500 €/m² a seconda di capienza e standard; copertura in legno lamellare o acciaio 300–700 €/m² di copertura; riscaldamento annuo di un palazzetto 30–100 k€ in funzione del clima e dell'isolamento.
+- **Caso tipico:** Un palazzetto comunale da 2.000 posti con luce di 32 m e altezza libera di 10,5 m sul campo ha ottenuto l'omologazione per pallavolo di serie nazionale: la quota libera in eccesso rispetto al minimo ha permesso di ospitare anche gare di badminton e arti marziali senza modifiche.
+- **Normativa:** Le quote minime di gioco e le caratteristiche degli impianti per attività agonistica derivano dal D.M. 18/03/1996; gli aspetti strutturali seguono le norme tecniche per le costruzioni (NTC) e l'Eurocodice strutturale; la sicurezza antincendio dal D.Lgs 139/2006 e s.m.i.
+- **Nota di cantiere:** Definite la luce e l'altezza libera solo dopo aver scelto le discipline certificate: cambiare idea in corso d'opera sulla quota del campo significa rifare impianti, sospensioni e certificazioni.
+
+### Tipologie di impianti sportivi: dall'impianto scoperto al palazzetto dello sport
+
+**Categoria:** Tipologie e classificazione · **Corso:** Impianti sportivi: edilizia e tecnologie
+
+Panoramica delle tipologie edilizie dedicate all'attività sportiva: impianti scoperti (campi di calcio, atletica, tennis, rugby), palazzetti polivalenti coperti, palestre e centri sportivi polifunzionali. Le piscine, per la specificità delle tecnologie di vasca e dei cicli idraulici, appartengono a un corso dedicato e qui sono citate solo come riferimento tipologico.
+
+- **Tecnologia e criteri:** La scelta tipologica dipende dal rapporto tra sport praticato, numero di utenti e clima: impianti scoperti in terra battuta, asfalto o erba (naturale o sintetica), palazzetti a struttura portante in acciaio o legno lamellare con copertura a luce ampia.
+- **Applicazioni:** Impianti scolastici e comunali, centri sportivi polifunzionali con più attività sotto un unico tetto, palazzetti per le discipline di squadra indoor (pallacanestro, pallavolo, calcio a 5).
+- **Vantaggi:** La classificazione corretta della tipologia determina il percorso autorizzativo, la capienza ammissibile e i costi di gestione: un impianto scoperto costa meno in costruzione e molto meno in manutenzione rispetto a un palazzetto.
+- **Limiti e attenzioni:** Gli impianti scoperti dipendono dal clima e dalla stagionalità; i palazzetti richiedono investimenti iniziali e di esercizio molto più pesanti e personale tecnico dedicato.
+- **Costi ed economia:** Ordini di grandezza indicativi: campo scoperto amatoriale in erba sintetica 300–800 k€; campo da tennis outdoor 40–120 k€; palazzetto polivalente 2–10 M€ in funzione di capienza e finiture; centro sportivo complesso 5–30 M€.
+- **Caso tipico:** Un comune di circa 30.000 abitanti realizza un centro sportivo composto da palazzetto da 1.200 posti, due campi da calcio in erba sintetica e otto campi da tennis: la combinazione impianto coperto e scoperti consente l'uso tutto l'anno e la copertura dei costi di gestione.
+- **Normativa:** Il riferimento tecnico principale è il D.M. 18/03/1996 (norme tecniche degli impianti a carattere sportivo e delle attività sportive svolte in forma agonistica); per i palazzetti con pubblico si applica inoltre il D.Lgs 139/2006 e s.m.i. (prevenzione incendi) e le norme di accessibilità del D.Lgs 198/2009.
+- **Nota di cantiere:** Prima di scegliere la tipologia, fate un censimento reale delle società sportive locali e delle ore di utilizzo richieste: un palazzetto sottoutilizzato è un macigno economico per trent'anni, non un servizio.
 
 
 ## Materiali da costruzione
@@ -3521,6 +3706,191 @@ Riconoscere le patologie murarie è la prima competenza di diagnostica edilizia:
 - **Nota di cantiere:** Documentare sempre con foto datate prima di ogni intervento: le tracce sono la prova della causa. Usare tells bianchi e di vetro per distinguere fessurazioni attive da quelle stabili. Misurare l'umidità in più punti e ad altezze diverse: un solo valore non racconta la distribuzione. Non intonacare mai prima di aver individuato e risolto la sorgente d'acqua attiva.
 
 
+## Pietre naturali e materiali lapidei
+
+*Corso `PIETRE_NATURALI_E_LAPIDEI_PACK` — 12 voci*
+
+### Pietre per pavimentazioni esterne: scivolosità, spessori e posa su letto
+
+**Categoria:** Applicazioni - pavimentazioni esterne · **Corso:** Pietre naturali e materiali lapidei
+
+La pavimentazione esterna in pietra naturale richiede il giusto abbinamento tra pietra, finitura antiscivolo, spessore e tipo di posa. Gli errori più costosi nascono quasi sempre da spessori insufficienti o da superfici lucide esposte all'acqua.
+
+- **Tecnologia e criteri:** Lo scivolosità si valuta con prove di attrito (pendolo dinamico, rampa); le finiture fiammate, bocciardate o spazzolate garantiscono classi di sicurezza adeguate all'uso pubblico. Gli spessori tipici variano da circa 2-3 cm per percorsi pedonali privati fino a 6-8 cm e oltre per traffico veicolare leggero, con formati piccoli che tollerano spessori minori. La posa avviene su letto di malta cementizia (incollaggio pieno o adesa) o su sabbia per percorsi ecologici e drenanti.
+- **Applicazioni:** Marciapiedi, piazzali privati, viali pedonali, bordi e cordoli, zone a verde, accessi carrabili, terrazze e piscine dove serve superficie sicura anche bagnata.
+- **Vantaggi:** Durabilità e ripristinabilità: una pavimentazione lapidea si stucca, si risabbia o si sostituiscono singole lastre senza rifare tutto; estetica superiore a qualsiasi conglomerato; posa su sabbia drenante utilizzabile in aree verdi.
+- **Limiti e attenzioni:** Pietre tenere e spessori sottili si scheggiano e si rilevano sotto carichi; i giunti larghi su sabbia raccolgono erbe infestanti; le superfici ruvide richiedono più manutenzione di pulizia; il costo posato è superiore alla sola fornitura.
+- **Costi ed economia:** Ordini di grandezza indicativi: lastra per esterno 2-3 cm 30-100 €/m2, fornitura e posa su malta complessiva 80-200 €/m2, posa su sabbia 50-120 €/m2; il massello in pietra naturale da posa flessibile si aggira tra 40-120 €/m2 solo materiale.
+- **Caso tipico:** Caso tipo: un viale privato in lastre di calcare 3 cm su malta adesa regge l'auto perfettamente per anni, mentre le stesse lastre posate a secco su sabbia si muovono e si rompono nel giro di una stagione sotto le ruote.
+- **Normativa:** Le lastre per pavimentazioni esterne sono coperte da UNI EN 1341, gli elementi (masselli) da UNI EN 1342 e i gradini da UNI EN 1343; le prove di scivolosità e resistenza meccanica fanno capo alla serie UNI EN 1001.
+- **Nota di cantiere:** Non risparmiare sullo spessore per risparmiare: una lastra che 'ondeggia' o si rompe si ripaga di demolizione e rifacimento; in esterno pedonale pubblico esigi sempre finitura antiscivolo certificata.
+
+### Lastre per rivestimenti e facciate: fissaggi meccanici, ventilate e incollaggi
+
+**Categoria:** Applicazioni - rivestimenti e facciate · **Corso:** Pietre naturali e materiali lapidei
+
+Il rivestimento lapideo di facciate si realizza con tre grandi sistemi: incollaggio a malta o colle su supporto, fissaggio meccanico con angolari e staffe, e facciata ventilata con telaio portante e camera d'aria. La scelta dipende da altezza, peso, vento, disegno e budget.
+
+- **Tecnologia e criteri:** L'incollaggio adesivo usa malte cementizie migliorate o colle reattive su supporto preparato; il fissaggio meccanico imbullona angolari in alluminio o acciaio inossidabile con perni o ancoranti chimici; la facciata ventilata dispone lamiere o lastre su profilati con barriere e camera d'aria ventilata, con fissaggi a vista (a vite) o invisibili (sottosquadro). Ogni sistema ha vincoli di spessore minimo della lastra e di formato massimo.
+- **Applicazioni:** Rivestimento di basi, zoccolature, ingressi e intere facciate di edifici residenziali e commerciali, esterni e interni; facciate ventilate ad alta prestazione energetica dove la pietra naturale è il rivestimento estetico.
+- **Vantaggi:** La facciata ventilata protegge l'isolamento e ne prolunga la vita, con manutenzione quasi nulla e possibilità di sostituire singole lastre; il fissaggio meccanico garantisce sicurezza anche su grandi altezze; estetica lapidea piena senza i limiti di peso del pieno portante.
+- **Limiti e attenzioni:** Sistemi meccanici e ventilati costano sensibilmente più dell'incollaggio; richiedono progettazione di dettaglio di ancoraggi e dilatazioni; errori di fissaggio su ventilata portano a lastre vibranti o scheggiate ai fori; l'incollaggio in esterno è limitato in altezza e formato.
+- **Costi ed economia:** Ordini di grandezza indicativi: rivestimento incollato fornitura più posa 100-250 €/m2, facciata ventilata in pietra naturale 250-600 €/m2 chiavi in mano, angolari e staffe singoli 8-30 €/cad secondo dimensione e materiale.
+- **Caso tipico:** Caso tipo: in un edificio direzionale di otto pianelli, la facciata ventilata in lastre di calcare 3 cm a fissaggio meccanico ha consentito, dopo un danneggiamento localizzato da impatto, la sostituzione di sole tre lastre senza alcun intervento sull'isolamento sottostante.
+- **Normativa:** Le lastre di pietra naturale per rivestimenti sono disciplinate dalla UNI EN 1469, che definisce requisiti e classificazioni di spessore; l'ancoraggio e i sistemi di fissaggio seguono le regole tecniche e le valutazioni di sicurezza della facciata (verifica a vento, EOTA per ancoranti dove applicabile).
+- **Nota di cantiere:** Sulla ventilata, verifica in cantiere il serraggio e la sede di ogni staffa con lavoro a campione prima del carico pieno: una lastra che 'suona' vuota al colpo è già un problema in arrivo.
+
+### Pietra naturale, agglomerati, ceramica e riconglomerati: confronto e restauro
+
+**Categoria:** Confronto materiali · **Corso:** Pietre naturali e materiali lapidei
+
+Il progettista sceglie oggi tra pietra naturale, agglomerati di quarzo e marmo, gres porcellanato e riconglomerati (breccia, seminato alla veneziana, terrazzo veneziano). Ogni materiale ha il suo campo di vittoria; conoscerli evita sia il vizio di pregio inutile sia l'economia che si smentisce in cantiere.
+
+- **Tecnologia e criteri:** Gli agglomerati marmorei ricompongono polvere e granuli di marmo con resine o cementi; l'agglomerato di quarzo unisce quarzo macinato a resine; il gres porcellanato sinterizza minerali ad altissima temperatura; i riconglomerati storici (terrazzo, seminato) stuccano frammenti di marmo in massello cementizio lucidato in opera; la ceramica effetto pietra riproduce esteticamente la venatura ma con prestazioni da ceramica. Il restauro di pietre danneggiate usa ricostruzioni con malte colorate, spine in resina o sostituzione di singole lastre e masotti.
+- **Applicazioni:** Scelta dei materiali per pavimenti e rivestimenti in committenza pubblica e privata, recupero di pavimenti storici, piani cucina e bagno, soluzioni di ripristino post-danno di pietre naturali esistenti.
+- **Vantaggi:** La ceramica e i grandi agglomerati offrono uniformità, bassa manutenzione e prezzi prevedibili; la pietra naturale offre unicità, riparabilità e valore che cresce con la cura; i riconglomerati storici uniscono estetica artigianale e grande durabilità una volta lucidati.
+- **Limiti e attenzioni:** L'agglomerato di quarzo teme il calore diretto e i raggi UV in esterno; il gres effetto pietra resta riconoscibile al tatto e difficilmente riparabile in loco; la pietra naturale varia lotto per lotto; il seminato richiede manodopera altamente specializzata oggi rara; la sostituzione di lastre naturali esistenti soffre il problema dell'abbinamento cromatico del lotto.
+- **Costi ed economia:** Ordini di grandezza indicativi: gres effetto pietra 25-80 €/m2, agglomerato di quarzo per piani 100-300 €/m2, agglomerato marmoreo 40-120 €/m2, terrazzo veneziano posato 120-350 €/m2; il ripristino localizzato di una lastra danneggiata costa 100-400 €/cad tra demolizione selettiva, sostituzione e rifinitura.
+- **Caso tipico:** Caso tipo: in un edificio storico con pavimento in seminato alla veneziana danneggiato da impianti, l'intervento di ricostruzione del seminato in aree limitate con graniglia di recupero ha preservato l'integrità del manufatto, mentre una sostituzione in gres avrebbe storicizzato la pavimentazione.
+- **Normativa:** I rivestimenti in pietra naturale rientrano nella UNI EN 1469, le pavimentazioni esterne in UNI EN 1341/1342 e le lastre da pavimenti interni in UNI EN 12057; agglomerati, ceramiche e riconglomerati seguono le rispettive norme specifiche di prodotto e le valutazioni di rispondenza nei capitolati.
+- **Nota di cantiere:** Quando devi sostituire pietre danneggiate in un edificio esistente, preleva per tempo un campione dell'originale e prenota la fornitura col lotto più prossimo possibile: il tempo che passa rende impossibile l'abbinamento cromatico.
+
+### Il prezzo della pietra: come si forma e differenze di mercato
+
+**Categoria:** Economia · **Corso:** Pietre naturali e materiali lapidei
+
+Il prezzo della pietra naturale non nasce in cava: è la somma di estrazione, resa di taglio, lavorazione, selezione estetica, scarto, logistica e margine della filiera. Comprendere la struttura del costo permette di negoziare e di evitare fregature.
+
+- **Tecnologia e criteri:** Dalla cava esce il blocco grezzo; la segheria a dischi o a filo lo riduce in lastre con una resa che può variare dal 30% al 70% secondo fessurazione e difetti interni; la lavorazione (levigatura, lucidatura, taglio a misura) aggiunge valore proporzionale alle ore macchina; la selezione estetica divide la produzione in classi che vendono a prezzi molto diversi; il trasporto di lastre fragili e pesanti ha un costo per unità che decresce poco con la quantità; lo scarto di taglio e le lastre 'di resa' finiscono nel mercato a prezzi stracciati.
+- **Applicazioni:** Analisi di offerta per forniture di pietra, negoziazione di capitolati, confronto tra fornitori, valutazione del rapporto qualità-prezzo di selezioni estetiche, pianificazione di forniture standardizzate su più lotti.
+- **Vantaggi:** La trasparenza della filiera permette di comprare il giusto grado di selezione per ogni zona dell'edificio (pregiato a vista, resa in parti nascoste); la possibilità di usare lastre di resa in pavimentazioni industriali dimezza i costi senza penalizzare la durata.
+- **Limiti e attenzioni:** Il prezzo al metro quadro dice poco senza resa, spessore, formato e finitura; le quotazioni 'a peso' del blocco grezzo nascondono la resa reale; le differenze tra mercato locale e importato cambiano con i costi logistici; le selezioni estetiche sono opinioni negoziabili solo se definite da campioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: blocco grezzo in cava locale 50-200 €/ton, lastra levigata comune 30-100 €/m2, lastra selezionata 100-400 €/m2, scarto di taglio di pregiate selezioni vendibile anche sotto i 20 €/m2; il costo posato tipicamente raddoppia o triplica il costo della sola fornitura.
+- **Caso tipico:** Caso reale: nel distretto delle cave di Carrara, la stessa vena produce classi commerciali che si vendono da poche decine a molte centinaia di euro al metro quadro; il compratore informato che accetta una selezione 'commerciale' invece di 'venata libera' riduce la fornitura anche del 50% mantenendo la stessa pietra.
+- **Normativa:** Le classi di prodotto e le tolleranze sono definite dalle norme di prodotto applicabili (UNI EN 1469 per lastre da rivestimento, UNI EN 1341 e UNI EN 1342 per pavimentazioni esterne, UNI EN 12057 per lastre da pavimenti interni); la valutazione economica resta contrattuale e basata su campioni di riferimento.
+- **Nota di cantiere:** In cantiere, chiudi sempre il prezzo su un campione approvato e firmato con indicazione di classe, finitura e tolleranze: la 'pietra come da campione' scritta nell'ordine vale più di qualunque promessa verbale.
+
+### Lavorazioni di superficie: taglio, levigatura, lucidatura, bocciardatura, fiammatura
+
+**Categoria:** Lavorazioni - superfici · **Corso:** Pietre naturali e materiali lapidei
+
+La finitura superficiale determina aspetto, scivolosità e resistenza della pietra: dalla superficie segata grezza alla lucidatura a specchio, passando per levigatura, bocciardatura, fiammatura e spazzolatura. Ogni processo toglie o deforma in modo diverso i cristalli superficiali.
+
+- **Tecnologia e criteri:** Taglio a disco diamantato per squadrare; levigatura con mole a grana progressiva; lucidatura con pasta abrasiva che chiude i pori e specchia il grano; bocciardatura con percussione di punta carburo che crea micro-rilievi; fiammatura con fiamma ossidrica che scaglia il quarzo (tipica del granito); spazzolatura con spazzole metalliche per effetto antichizzato.
+- **Applicazioni:** Scelta della finitura per pavimenti interni (lucido o levigato), esterni pubblici (bocciardato, fiammato, spazzolato antiscivolo), scale, bagni e soglie; la finitura è anche uno strumento estetico per contrasti cromatici nella stessa pietra.
+- **Vantaggi:** La finitura antiscivolo (bocciardatura, fiammatura) migliora drasticamente la sicurezza in esterno e in bagni; la lucidatura valorizza colore e venatura; la fiammatura ravviva la cromia del granito e maschera piccole sbavature.
+- **Limiti e attenzioni:** Il lucido è scivoloso quando bagnato e si graffia con il traffico intenso; le finiture ruvide sporcano più facilmente e raccolgono incrostazioni calcaree; la fiammatura non è applicabile a tutte le pietre (richiede quarzo sufficiente).
+- **Costi ed economia:** Ordini di grandezza indicativi: lucidatura aggiuntiva 10-30 €/m2 sulla lastra grezza, bocciardatura o fiammatura 8-25 €/m2; una finitura antiscivolo su pavimentazione esterna rappresenta in genere meno del 5% del costo posato complessivo.
+- **Caso tipico:** Caso tipo: un porticato commerciale con granito lucido bagnato dalla pioggia diventa pericoloso; rifinendo lo stesso materiale a fiammatura si risolve il problema di scivolosità mantenendo identica pietra e posa.
+- **Normativa:** Per le lastre destinate a pavimenti interni le norme di prodotto (es. UNI EN 12057 per le lastre spazzolate) definiscono tolleranze di spessore e planarità secondo la lavorazione richiesta.
+- **Nota di cantiere:** Specifica sempre la finitura con un campione fisico di riferimento firmato: 'levigato' e 'lucidato' per un cantiere sono parole troppo vaghe da sole.
+
+### Manutenzione della pietra naturale: pulizia, decalcificazione e rigenerazione della lucidatura
+
+**Categoria:** Manutenzione · **Corso:** Pietre naturali e materiali lapidei
+
+La pietra naturale invecchia con dignità se mantenuta: pulizia ordinaria con detergenti neutri, decalcificazione periodica dei depositi calcarei su superfici ruvide o in esterno, e rigenerazione della lucidatura quando il traffico l'ha spenta. Ogni pietra ha il suo regime.
+
+- **Tecnologia e criteri:** La pulizia ordinaria usa detergenti a pH neutro o lievemente alcalini; la decalcificazione usa prodotti acidi diluiti specifici (acido solfonico, fosforico, inibiti) mai acido muriatico puro che attacca carbonati e cementi di giunto; la rigenerazione della lucidatura avviene con cristallizzazione o con affinatura diamantata e ricristallizzazione, in operazioni meccanizzate su grandi superfici o a mano su piccoli elementi.
+- **Applicazioni:** Pavimenti commerciali e residenziali, bagni e wellness soggetti a calcare, top cucina e bagno, facciate esposte a smog e pioggia, pavimenti storici in marmo e graniglia da recuperare.
+- **Vantaggi:** La pietra si rigenera praticamente all'infinito: lucidatura, spazzolatura e levigatura la rinnovano eliminando decenni di usura; il costo di manutenzione annuo è una frazione della sostituzione; il valore estetico si mantiene nel tempo.
+- **Limiti e attenzioni:** Le cristallizzazioni fatte male creano patine giallastre o slittamento; gli acidi aggressivi corrodono calcari e marmi lasciando opacità permanenti; la manutenzione trascurata richiede poi lavori di ripristino costosi; alcune pietre trattate male non tornano più come prima.
+- **Costi ed economia:** Ordini di grandezza indicativi: pulizia professionale periodica 3-10 €/m2 a passaggio, decalcificazione e lavaggio intensivo 8-20 €/m2, rigenerazione lucidatura a cristallizzazione 15-40 €/m2, affinatura diamantata profonda 30-80 €/m2.
+- **Caso tipico:** Caso tipo: la hall di un albergo storico con pavimento in marmo seminato, dopo decenni di cerature accumulate, è stata ripristinata con deceratura, affinatura e ricristallizzazione tornando a uno specchio leggibile, a un costo inferiore al 15% della sostituzione.
+- **Normativa:** I metodi di pulizia e le verifiche sulle pietre fanno capo alla serie UNI EN 1001; i prodotti di manutenzione devono essere scelti in coerenza con la scheda tecnica della pietra e del trattamento esistente.
+- **Nota di cantiere:** Regola d'oro di cantiere: consegna al committente una scheda di manutenzione scritta con prodotto, dosi e frequenza; la pietra ben tenuta si ripaga, quella 'lavata come piace' si ripaga altrettanto in guai.
+
+### Le famiglie delle pietre naturali
+
+**Categoria:** Materiali - famiglie litiche · **Corso:** Pietre naturali e materiali lapidei
+
+Panoramica delle principali famiglie di pietre naturali usate in edilizia: calcare, travertino, granito, marmo, ardesia, quarzite, pietra calcarea tenera (pietra di Lecce, pietra forte) e arenaria. Ogni famiglia nasce da un diverso processo geologico e questo determina durezza, porosità, colori e comportamento in opera.
+
+- **Tecnologia e criteri:** Le rocce si dividono in magmatiche (granito, da magma raffreddato in profondità), sedimentarie (calcare, travertino, arenaria, da depositi di origine chimica o detritica) e metamorfiche (marmo, ardesia, quarzite, trasformate da pressione e calore). Da questo pedigree derivano densità, assorbimento d'acqua e resistenza all'usura.
+- **Applicazioni:** Selezione del materiale per pavimenti, rivestimenti, facciate, zoccolature, elementi sagomati e arredi urbani; primo passo di ogni capitolato lapideo per abbinare la pietra al contesto d'uso.
+- **Vantaggi:** Gamma estetica e cromatica praticamente infinita; durabilità secolare se ben scelta e posata; valore percepito elevato; molte pietre reperibili anche in ambito locale con ridotto impatto da trasporto.
+- **Limiti e attenzioni:** Prestazioni molto variabili anche entro la stessa famiglia; la pietra tenera è vulnerabile a gelo, sale e traffico; richiede progettazione attenta alla posa e alla manutenzione; peso elevato rispetto ai concorrenti leggeri.
+- **Costi ed economia:** Ordini di grandezza indicativi: pietre comuni da cava locale 30-80 €/m2 per lastra grezza, pietre pregiate selezionate 100-400 €/m2 e oltre, differenze che dipendono più da lavorazione e selezione che dal costo di estrazione.
+- **Caso tipico:** Caso tipo: in un edificio residenziale nel Salento, la scelta tra pietra di Lecce locale (tenera, poco costosa da trasporto ma fragile in esterno) e un calcare più compatto importato sposta il budget di facciata del 20-30% e ne cambia la manutenzione decennale.
+- **Normativa:** Le pietre naturali per uso strutturale e di rivestimento sono oggetto di norme di prodotto e di metodi di prova armonizzati (ad esempio la serie UNI EN 1001 per le prove su pietre naturali); la caratterizzazione mineralogica resta di norma affidata a prove di laboratorio.
+- **Nota di cantiere:** Non comprare mai 'pietra' genericamente: richiedi sempre il nome litologico, la provenienza di cava e i risultati di assorbimento e resistenza al gelo prima di chiudere il capitolato.
+
+### Il granito: durezza e impieghi interni ed esterni
+
+**Categoria:** Materiali - granito · **Corso:** Pietre naturali e materiali lapidei
+
+Il granito è una roccia magmatica acida composta prevalentemente da quarzo, feldspati e miche, tra i materiali naturali più duri e resistenti in assoluto. È la pietra di riferimento per carichi pesanti, traffico intenso e contesti aggressivi.
+
+- **Tecnologia e criteri:** Durezza elevata in scala di Mohs (intorno a 6-7), densità elevata, assorbimento d'acqua molto basso e ottima resistenza al gelo. Il colore dipende dai feldspati (rosa, rosso) e dalle miche (nero, grigio); la fiammatura ne esalta la granulometria e la rende antiscivolo; la lucidatura raggiunge specchiature profonde molto stabili nel tempo.
+- **Applicazioni:** Pavimentazioni esterne ad alto traffico, bordi stradali, piazzali, scale, soglie, piani di lavoro cucina, rivestimenti ventilati, elementi di arredo urbano e memoriale; ideale dove servono resistenza chimica e abrasione estrema.
+- **Vantaggi:** Resistenza a graffi, acidi deboli, gelo, sale e usura pressoché totale rispetto a calcare e marmo; lucidatura molto duratura; manutenzione quasi nulla anche senza trattamenti; spesso competitivo sul prezzo nelle selezioni comuni.
+- **Limiti e attenzioni:** Difficile da sagomare e da forare (richiede utensili diamantati e tempi lunghi); esteticamente freddo e monogranulare per alcuni gusti; colori uniformi meno 'calorosi' del calcare; selezioni pregiate con grani grossi o colori rari costose.
+- **Costi ed economia:** Ordini di grandezza indicativi: graniti comuni grigi/rosa in lastra 30-90 €/m2, graniti neri assoluti o pregiate selezioni 100-300 €/m2, lavorazioni speciali (fiammatura, bocciardatura) 10-25 €/m2 aggiuntive.
+- **Caso tipico:** Caso tipo: la pavimentazione di una stazione ferroviaria o di una zona di scarico merci in granito grigio fiammato, dopo vent'anni di traffico pesante, mostra usura praticamente nulla a fronte di un calcare equivalente che sarebbe già stato sostituito.
+- **Normativa:** Come pietra naturale da rivestimento rientra nella UNI EN 1469; per pavimentazioni esterne lastricate i riferimenti sono UNI EN 1341 (lastre) e UNI EN 1342 (elementi); le prove di resistenza e usura seguono la serie UNI EN 1001.
+- **Nota di cantiere:** Quando devi forare granito in cantiere (tasselli, scarichi) usa solo utensili diamantati a basso numero di giri con abbondante acqua: il calore secco crea microfratture che si propagano nello spessore.
+
+### Il marmo: qualità, venature, cave, macchie e resina
+
+**Categoria:** Materiali - marmo · **Corso:** Pietre naturali e materiali lapidei
+
+Il marmo è calcare metamorfizzato, apprezzato per lucentezza, colori e venature uniche. Le differenze di qualità nascono dalla purezza del fondo, dalla regolarità della vena, dalle inclusioni e dal numero di macchie, crepe e saldature tollerate in lastra.
+
+- **Tecnologia e criteri:** Le venature nascono dalle impurezze minerali (ossidi, silicati) migrate con la metamorfosi; le lastre vengono selezionate in cava e in segheria per classe estetica. Le crepe e i difetti vengono spesso stabilizzati con resine epossidiche o poliestere, talvolta stuccate e ritoccate con paste colorate; alcuni marmi commerciali sono diffusi quasi solo in versione resinata.
+- **Applicazioni:** Pavimenti e rivestimenti prestigiosi interni, scale, top bagno, elementi d'arredo e artistici; il marmo resinoso resta tipico dei piani cucina e bagno, mentre in esterno va scelto con cautela per sensibilità a gelo e acidi.
+- **Vantaggi:** Nessun altro materiale naturale regala la profondità ottica della lucidatura marmorea; pezzi unici per venatura; riciclabile e rifinito più volte nel tempo; patrimonio estetico riconosciuto da secoli.
+- **Limiti e attenzioni:** Sensibile agli acidi (cola, agrumi, detergenti) che corrodono il lucido lasciando aloni; attacco da parte dei sali in esterno; le versioni resinate non sopportano il calore diretto (candele, pentole); lastre pregiate molto costose e con resa di taglio bassa.
+- **Costi ed economia:** Ordini di grandezza indicativi: marmi comuni bianchi 40-120 €/m2 in lastra, marmi venati medi 100-300 €/m2, selezioni pregiate con resa scarsa oltre 400-1.000 €/m2; resinatura industriale aggiunge tipicamente 20-60 €/m2.
+- **Caso tipico:** Caso reale: le cave di Carrara forniscono bianco di qualità molto diversa a seconda della vena; lo stesso 'bianco di Carrara' commerciale può variare di due-tre volte di prezzo tra fondo omogeneo e fondo velato macchiato, con forte incidenza dello scarto di taglio.
+- **Normativa:** Le lastre di marmo per rivestimenti rientrano nella norma di prodotto UNI EN 1469; le caratteristiche meccaniche e fisiche si verificano con i metodi di prova della serie UNI EN 1001.
+- **Nota di cantiere:** In cantiere, stocca i marmi resinati lontano da calore diretto e controlla alla consegna che il campione approvato corrisponda alla classe estetica consegnata, non solo alla denominazione commerciale.
+
+### Il travertino romano: caratteristiche e impieghi
+
+**Categoria:** Materiali - travertino · **Corso:** Pietre naturali e materiali lapidei
+
+Il travertino è un calcare di deposizione chimica che si forma intorno a sorgenti termali, con i caratteristici pori vuoti dei vacuoli originari di vegetale o gas. Il travertino romano è la variante classica dell'Italia centrale, usata fin dall'antichità (Colosseo, facciate barocche).
+
+- **Tecnologia e criteri:** Le lastre si ottengono tagliando i banchi di cava in senso parallelo o perpendicolare alla deposizione, ottenendo rispettivamente la venatura a 'fior di travertino' (toni uniformi, pori a vista in filare) o a 'travertino romanato/venato' con nuvole di deposizione; i fori grandi vengono tradizionalmente stuccati a cemento o a resina, o lasciati aperti per effetto rustico.
+- **Applicazioni:** Rivestimenti di facciate e pareti esterne, cornici e modanature, pavimenti interni ed esterni a spessore adeguato, soglie e davanzali; la superficie a pori aperti è particolarmente apprezzata in stile rustico e mediterraneo.
+- **Vantaggi:** Leggero rispetto ad altre pietre compatte, caldo nell'aspetto, facile da sagomare e bucherellare per cornici; estetica inconfondibile legata alla tradizione italiana; ottima reperibilità locale nel Lazio.
+- **Limiti e attenzioni:** Porosità elevata che assorbe acqua e sporco se non trattato; sensibile al gelo negli spessori sottili; il travertino scuro o con inclusioni terrose è meno resistente; i vacuoli scheggiano ai bordi se mal posato.
+- **Costi ed economia:** Ordini di grandezza indicativi: travertino romano in lastra 40-120 €/m2 secondo selezione e spessore, sagomati e modanature 60-150 €/m.l.; la posa a incollaggio o su malta aggiunge 30-80 €/m2.
+- **Caso tipico:** Caso reale: nelle cave del distretto romano il travertino è classificato in selezioni commerciali (chiaro, noce, scuro, al verso/venato) che si differenziano di due-tre volte nel prezzo pur venendo dallo stesso banco, a dimostrazione che il valore nasce dalla selezione.
+- **Normativa:** Come pietra calcarea da rivestimento rientra nell'ambito della UNI EN 1469; le prestazioni fisico-meccaniche si verificano con i metodi della serie UNI EN 1001, con attenzione ad assorbimento e gelo-disgelo.
+- **Nota di cantiere:** Se posi travertino in esterno stendi un idrorepellente traspirante dopo la posa e la pulizia, e ritieni lo stucco dei vacuoli quasi obbligatorio su pavimentazioni calpestate con carrelli o tacchi sottili.
+
+### La posa in opera della pietra naturale: malte, colle, giunti e dilatazioni
+
+**Categoria:** Posa in opera · **Corso:** Pietre naturali e materiali lapidei
+
+La posa è il momento in cui la pietra vince o perde: la malta o la colla, i giunti, le dilatazioni e la preparazione del supporto determinano la durata del rivestimento o pavimento più della qualità della lastra stessa.
+
+- **Tecnologia e criteri:** La posa tradizionale usa malta cementizia in due strati (getto di regolarizzazione e spruzzo o stesa di collante); i sistemi moderni usano colle cementizie migliorate a spessore ridotto (sistemi a incollaggio sottile) o reattive a due componenti per formati grandi e traffico pesante. I giunti ammettono movimenti e coprono tolleranze; i giunti di dilatazione strutturali vanno rispettati e mai pavimentati 'a forza'; su grande formato e facciate entrano in gioco membrane di disaccoppiamento e sistemi di fissaggio meccanico.
+- **Applicazioni:** Posa di pavimenti e rivestimenti interni, esterne su massetti, lastre grandi formati, pavimenti sopraelevati e incollati, rivestimenti su supporti radianti e su vecchi supporti.
+- **Vantaggi:** Sistemi moderni a colla riducono spessori, pesi e tempi rispetto alla malta tradizionale; le membrane di disaccoppiamento assorbono le cricche del supporto; giunti ben dimensionati eliminano il 90% dei distacchi e delle crepe da ritiro.
+- **Limiti e attenzioni:** La malta tradizionale è lenta e pesante ma tollerante su supporti irregolari; le colle sbagliate o mal stese causano distacchi e lastre che 'suonano' vuote; i giunti troppo stretti esplodono in bordi scheggiati; la posa in fretta sul massetto non stagionato scarica umidità nella pietra.
+- **Costi ed economia:** Ordini di grandezza indicativi: posa a malta tradizionale 30-60 €/m2 di manodopera, posa a colla sottile 25-50 €/m2, sistemi con membrana o su supporti difficili 40-80 €/m2; il materiale giuntante e le profilature aggiungono 5-15 €/m.l.
+- **Caso tipico:** Caso tipo: un pavimento in lastre 60x60 posato con giunti da 2 mm e colla stesa a manciate irregolari mostra dopo un anno lastre crepate lungo i vuoti di colla; il rifacimento a spessoramento pieno e giunti corretti risolve definitivamente.
+- **Normativa:** Le tolleranze di posa e le caratteristiche delle lastre per pavimenti interni spazzolati sono definite da UNI EN 12057; per le pavimentazioni esterne valgono UNI EN 1341 e UNI EN 1342; la scelta delle colle segue le schede tecniche e le valutazioni del sistema (supporto-massa di posa-pietra).
+- **Nota di cantiere:** Controlla in cantiere due cose ogni giorno: la copertura di colla sotto la lastra (solleva un campione) e il rispetto dei giunti di dilatazione tracciati in progetto, che non si riempiono mai di colla 'perché tanto non si vede'.
+
+### Trattamenti delle pietre: idrorepellenti, ceranti, anti-macchia (e quando non trattare)
+
+**Categoria:** Trattamenti · **Corso:** Pietre naturali e materiali lapidei
+
+I trattamenti superficiali modificano il comportamento della pietra verso acqua, oli e sporco: idrorepellenti che riducono l'assorbimento mantenendo la traspirazione, ceranti che lucidano e proteggono ma formano un film, anti-macchia specifici per oli e grassi. La prima domanda è sempre se trattare o meno.
+
+- **Tecnologia e criteri:** Gli idrorepellenti a base silano-silossano o fluorurati legano chimicamente con i silicati della pietra riducendo l'angolo di bagnatura senza pellicola; i ceranti a solvente o acqua formano un film protettivo rigenerabile; gli anti-macchia oleorepellenti sono essenziali su top cucina e piani bagno. Il trattamento avviene a pennello, rullo, spruzzo bassa pressione o per immersione in officina.
+- **Applicazioni:** Protezione di facciate, pavimenti esterni, bagni, cucine, piani lavoro, pietre porose come travertino e pietra di Lecce; i trattamenti in officina (resine, idrorepellenza industriale) equiparano le prestazioni di pietre naturali porose.
+- **Vantaggi:** Riduzione drastica di aloni, macchie d'olio e assorbimento di sporco; possibilità di usare pietre porose in contesti umidi; il trattamento industriale in officina è uniforme e controllato meglio di quello in cantiere.
+- **Limiti e attenzioni:** Un trattamento sbagliato forma pellicole giallastre, aloni irregolari o blocca la traspirazione causando distacchi; i graniti e molte pietre compatte non ne traggono beneficio reale; i trattamenti vanno rinnovati periodicamente; i ceranti su pavimenti usurano a chiazze.
+- **Costi ed economia:** Ordini di grandezza indicativi: idrorepellente professionale 5-15 €/m2 a manodopera inclusa in cantiere, trattamento anti-macchia su top cucina 20-60 €/m2, resinatura industriale in officina 20-60 €/m2 secondo grado di finitura.
+- **Caso tipico:** Caso tipo: un piano cucina in marmo bianco non trattato macchia permanentemente al primo olio versato; lo stesso piano trattato con anti-macchia oleorepellente pulisce con un panno, e il trattamento si rinnova ogni 1-3 anni.
+- **Normativa:** La scelta e la verifica dei trattamenti si appoggia ai metodi di prova della serie UNI EN 1001 per la pietra naturale e alle schede tecniche del produttore; per i fissaggi chimici e i sistemi di protezione valgono le valutazioni specifiche del costruttore.
+- **Nota di cantiere:** Prima di trattare in cantiere prova sempre su uno scarto o in un'area nascosta: il peggior nemico della pietra trattata male è l'applicatore frettoloso con il rullo.
+
+
 ## Posa in opera e controlli
 
 *Corso `POSA_IN_OPERA_PACK` — 22 voci*
@@ -3854,6 +4224,191 @@ Taglio, piegatura e posa delle barre B450C con rispetto dei copriferri di proget
 - **Caso tipico:** Nelle verifiche in corso d'opera del collaudatore statico in Italia la posa armature è la fase che richiede obbligatoriamente la documentazione fotografica prima del getto.
 - **Normativa:** NTC 2018 (copriferri e ancoraggi), UNI EN 1992-1-1 (Eurocodice 2), UNI EN 13670 (esecuzione e tolleranze).
 - **Nota di cantiere:** Fotografa ogni armatura prima di chiudere i casseri: è la tua assicurazione. Controlla che i distanziali siano appoggiati sul cassero e non sul terreno o sull'armatura sottostante; le staffe vanno legate strette o si aprono in getto. Manodopera: prevedi un carpentiere + aiuto per ogni 100 kg/giorno su lavori semplici.
+
+
+## Restauro e conservazione delle opere architettoniche
+
+*Corso `RESTAURO_E_CONSERVAZIONE_OPERE_PACK` — 12 voci*
+
+### Consolidamento delle strutture murarie storiche
+
+**Categoria:** Consolidamento murario · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Il consolidamento della muratura storica comprende cerchiature, iniezioni di malte fluidificate e tecnica del cuci e scuci per ricucire lesioni e ricostruire porzioni ammalorate. Le cerchiature introducono tiranti in acciaio o catene per confinare la muratura; le iniezioni ripristinano la continuità meccanica dei letti di malta vuoti o fratturati. Il cuci e scuci sostituisce i conci danneggiati reimpiegando quelli sani e integrando con materiali compatibili e distinguibili.
+
+- **Tecnologia e criteri:** Iniezioni con malte premiscelate a calce e pozzolana o resine specifiche per il restauro, cerchiature con barre ad aderenza migliorata o catene in acciaio inox, cuci e scuci con ricomposizione dei conci, cuciture di lesione con malte strutturali fibrorinforzate.
+- **Applicazioni:** Edifici lesionati da terremoto o cedimenti fondali, torri e campanili, muri con lesioni di taglio, murature con letti di malta sgretolati o vuoti.
+- **Vantaggi:** Ripristino della capacità portante senza sostituire la muratura storica; reversibilità parziale delle tecniche di cerchiatura; mantenimento della lettura materica originale.
+- **Limiti e attenzioni:** Richiede diagnostica accurata prima dell'intervento; il cuci e scuci su grandi superfici è molto oneroso; le iniezioni non risolvono patologie di fondazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: iniezioni di consolidamento 80-180 €/m2 di muratura trattata; cerchiatura con barre 25-60 €/ml; cuci e scuci 150-350 €/m2; monitoraggio post-intervento 1-4 k€/edificio.
+- **Caso tipico:** Caso tipo: edificio in aggregato storico lesionato dal sisma, consolidato con cerchiature e iniezioni puntuali mantenendo in uso l'immobile.
+- **Normativa:** NTC2018 (D.M. 17/01/2018) per la valutazione della sicurezza e le tecniche di miglioramento; Codice Deontologico del Restauro per la compatibilità dei materiali.
+- **Nota di cantiere:** Apri il foro di iniezione solo dopo aver verificato in laboratorio la fluidità e la ritiro della malta: un'iniezione mal eseguita crea inclusioni fragili e non ripristina la continuità.
+
+### Diagnosi preliminare: rilievo stratigrafico e indagini diagnostiche
+
+**Categoria:** Diagnostica preliminare · **Corso:** Restauro e conservazione delle opere architettoniche
+
+La diagnosi preliminare ricostruisce la storia costruttiva dell'edificio attraverso il rilievo stratigrafico delle superfici, la lettura delle discontinuità murarie e le indagini non distruttive o micro-intrusive. Prove su malte, carotaggi, termografie, indagini georadar e rilievi dendrocronologici permettono di datare gli strati e mappare le patologie. Il risultato guida la scelta delle tecniche di restauro più compatibili.
+
+- **Tecnologia e criteri:** Rilievo stratigrafico con scalpellino e campionamento, carotaggi a diamante, termografia attiva e passiva, georadar, misure di umidità con igrometro, analisi in laboratorio di malte e intonaci.
+- **Applicazioni:** Edifici storici prima di qualsiasi intervento, muri con lesioni o umidità, cappelle e torri in muratura, complessi monumentali soggetti a vincolo.
+- **Vantaggi:** Evita interventi sbagliati o eccessivi; fornisce la base documentale per le autorizzazioni; permette di distinguere gli strati originali dalle aggiunte successive.
+- **Limiti e attenzioni:** Costi iniziali non trascurabili; alcune prove richiedono accessi difficili; i risultati possono essere ambigui senza confronto tra più indagini.
+- **Costi ed economia:** Ordini di grandezza indicativi: rilievo stratigrafico 20-60 €/m2; termografia 8-20 €/m2; carotaggio e analisi di malta 150-400 €/prova; campagna diagnostica completa 3-20 k€/edificio.
+- **Caso tipico:** Basilica paleocristiana in centro storico: rilievo stratigrafico delle pareti ha distinto l'intonaco originale dal rifacimento novecentesco, limitando il ripristino alle sole parti storicamente coerenti.
+- **Normativa:** D.Lgs 42/2004 e indicazioni della Carta di Venezia 1964 sulla documentazione preliminare; normativa sui beni culturali e buone prassi di restauro per le indagini.
+- **Nota di cantiere:** Documenta tutto prima di toccare: fotografa, campiona e archivia ogni stratigrafia ritrovata in cantiere, non solo quelle previste dal progetto.
+
+### Tutela delle superfici storiche e documentazione prima/dopo
+
+**Categoria:** Documentazione e tutela delle superfici · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Ogni superficie storica (intonaci, affreschi, affreschi esterni, paramenti lapidei) va protetta prima dell'intervento con teli, casseformi o staccionamenti e va documentata con rilievo fotografico e grafico. La documentazione prima/dopo, con restituzione in scala e leggenda delle patologie, costituisce il riferimento per la verifica dei risultati e per le pratiche di tutela. La schedatura puntuale delle lesioni e dei materiali consente il monitoraggio nel tempo.
+
+- **Tecnologia e criteri:** Rilievo fotografico ad alta risoluzione, fotogrammetria da drone per facciate e coperture, rilievo laser scanner, schede di lesione con mappatura su tavole, protezioni in legno o teli tecnici traspiranti.
+- **Applicazioni:** Documentazione obbligatoria per i beni vincolati, cantieri con più ditte subappaltatrici, edifici soggetti a monitoraggio strutturale nel tempo.
+- **Vantaggi:** Tracciabilità completa degli interventi; prova tecnica in caso di contestazioni; base di dati per la manutenzione programmata futura.
+- **Limiti e attenzioni:** Richiede personale formato e tempo dedicato; l'archiviazione digitale va gestita con standard aperti per non perdere i dati nel tempo.
+- **Costi ed economia:** Ordini di grandezza indicativi: rilievo fotografico e schedatura 5-15 €/m2; fotogrammetria da drone 1,5-4 €/m2 di superficie ripresa; laser scanner 30-80 €/m2; archiviazione e redazione schede 2-6 k€/intervento.
+- **Caso tipico:** Caso tipo: torre campanaria con lesioni da terremoto, documentata con laser scanner prima e dopo il consolidamento per verificare il recupero di verticalità.
+- **Normativa:** Carta di Venezia 1964 e Codice Deontologico del Restauro sulla documentazione degli interventi; D.Lgs 42/2004 per i beni sottoposto a tutela.
+- **Nota di cantiere:** Crea una cartella digitale unica per il cantiere con data nel nome file e doppia copia di sicurezza: la documentazione perde valore se non è ritrovabile in fase di collaudo.
+
+### Economia e commesse del restauro
+
+**Categoria:** Economia del restauro · **Corso:** Restauro e conservazione delle opere architettoniche
+
+L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono strutturate in Capitolato Speciale d'Appalto con prezziario dedicato, spesso con misurazioni a corpo per le lavorazioni non quantificabili in anticipo. La gestione economica richiede economie di scala limitate e una forte integrazione tra progettista, direzione lavori e impresa esecutrice.
+
+- **Tecnologia e criteri:** Capitolato Speciale d'Appalto per i lavori di restauro, computi metrici estimativi con prezziario speciale, appalti a corpo per le lavorazioni artistiche e conservative, contratti con prezzi unitari per le parti quantificabili, gestione delle varianti in corso d'opera.
+- **Applicazioni:** Commesse pubbliche su beni culturali, appalti privati su edifici vincolati, lavori con finanziamenti agevolati per il recupero del patrimonio storico.
+- **Vantaggi:** Trasparenza dei costi grazie al capitolato dettagliato; riduzione delle controversie con la misurazione a corpo per le parti incerte; valorizzazione economica del patrimonio storico.
+- **Limiti e attenzioni:** Difficoltà di preventivare con esattezza le lavorazioni conservative; i costi di sicurezza e ponteggio pesano molto sulle piccole commesse; il mercato delle imprese specializzate è ristretto.
+- **Costi ed economia:** Ordini di grandezza indicativi: restauro conservativo di edificio storico 800-1.800 €/m2 di superficie utile; lavorazioni artistiche e decorative 150-400 €/m2; direzione lavori e sicurezza 8-15% del valore dei lavori; oneri di autorizzazione e pratiche 3-8% del totale.
+- **Caso tipico:** Caso tipo: convento storico convertito in albergo diffuso, commessa suddivisa in lotti funzionali con capitolato speciale e prezzi a corpo per gli stucchi e gli affreschi recuperati.
+- **Normativa:** D.Lgs 42/2004 per la tutela che condiziona le modalità contrattuali; DPR 380/2001 per la disciplina dei lavori edilizi; Codice Deontologico del Restauro per la correttezza professionale.
+- **Nota di cantiere:** Inserisci sempre nel capitolato una voce a corpo per le emergenze conservative: il cantiere di restauro riserva sorprese e senza margine finanziario ti fermi a metà lavoro.
+
+### Intervento antisismico sul costruito storico
+
+**Categoria:** Miglioramento sismico · **Corso:** Restauro e conservazione delle opere architettoniche
+
+L'intervento antisismico sul costruito storico mira al miglioramento della sicurezza senza snaturare le strutture esistenti, privilegiando tecniche compatibili e il più possibile reversibili. Interventi tipici sono il rinforzo locale di nodi strutturali, l'inserimento di elementi di confinamento, il miglioramento dei solai e delle coperture come diaframmi e il consolidamento delle fondazioni. La scelta dell'intervento deve rispettare il principio del minimo intervento e documentare la compatibilità con il bene.
+
+- **Tecnologia e criteri:** Cuciture di rinforzo localizzate, cerchiature e tiranti, rinforzo di solai con piattabande o strati collaboranti leggeri, miglioramento delle connessioni tra muri e solai, consolidamento fondale con micropali o iniezioni, sistemi di isolamento sismico dove compatibile.
+- **Applicazioni:** Edifici storici in zone sismiche, complessi monumentali con uso pubblico, centri storici aggregati che richiedono interventi non invasivi e coordinati.
+- **Vantaggi:** Incremento della sicurezza degli occupanti; conservazione del patrimonio edilizio storico in zone a rischio; possibilità di mantenimento dell'uso e della fruizione pubblica.
+- **Limiti e attenzioni:** Il miglioramento richiede spesso compromessi con la conservazione; i rinforzi visibili alterano l'immagine del bene; i costi sono elevati per edifici complessi.
+- **Costi ed economia:** Ordini di grandezza indicativi: miglioramento sismico di edificio storico 400-900 €/m2 di superficie utile; rinforzo di nodo strutturale 2-8 k€/nodo; consolidamento fondale 150-400 €/ml di fondazione.
+- **Caso tipico:** Caso tipo: edificio storico in zona sismica ad uso scolastico, migliorato con rinforzo dei solai come diaframmi e consolidamento delle pareti perimetrali, mantenendo in uso l'edificio durante i lavori per fasi.
+- **Normativa:** NTC2018 (D.M. 17/01/2018) per i criteri di miglioramento e adeguamento sismico; Codice Deontologico del Restauro per la compatibilità degli interventi; D.Lgs 42/2004 per i beni vincolati.
+- **Nota di cantiere:** Coinvolgi la Soprintendenza fin dalla progettazione: un miglioramento sismico condiviso evita fermi lavori e varianti costose in corso d'opera.
+
+### La filiera del cantiere di restauro
+
+**Categoria:** Organizzazione di cantiere · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Il cantiere di restauro è organizzato per fasi consecutive: sopralluogo e diagnostica, messa in sicurezza, ponteggi a norma, definizione delle lavorazioni e delle maestranze specializzate, collaudo e consegna. Ogni fase richiede programmazione dei tempi legata alla stagionalità e alla maturazione dei materiali. La filiera si chiude con la redazione della relazione tecnica di fine lavori e la consegna della documentazione fotografica.
+
+- **Tecnologia e criteri:** Ponteggi a telaio certificati, ponteggi sospesi per facciate monumentali, impalcature a sbalzo, ponteggi a fune per coperture. Organizzazione per macro-lotti e micro-lotti di manutenzione programmata.
+- **Applicazioni:** Cantieri di restauro su edifici vincolati, centri storici a traffico limitato, interventi a piccola scala ripetuta nel tempo, lavori sotto la direzione di un restauratore.
+- **Vantaggi:** Riduzione dei tempi morti grazie alla pianificazione sequenziale; maggiore controllo qualitativo dei singoli strati; tracciabilità completa delle lavorazioni utile in caso di verifiche della Soprintendenza.
+- **Limiti e attenzioni:** Dipendenza forte dalle condizioni meteo e dalla stagione di posa; reperimento difficile di maestranze specializzate; avvio lento dei lavori per le autorizzazioni preliminari.
+- **Costi ed economia:** Ordini di grandezza indicativi: ponteggio a telaio 15-35 €/m2 di facciata coperta; costo organizzazione e sicurezza del cantiere 8-15% del valore dei lavori; relazione tecnica e documentazione 1-3 k€/intervento.
+- **Caso tipico:** Caso tipo: palazzo signorile ottocentesco in centro storico con facciata vincolata, intervento eseguito per lotti stagionali con ponteggio unico per pulitura, stuccatura e tinteggiatura.
+- **Normativa:** D.Lgs 42/2004 (Codice dei beni culturali e del paesaggio) per la tutela; DPR 380/2001 per la disciplina dei lavori; buone prassi del Codice Deontologico del Restauro.
+- **Nota di cantiere:** Apri il cantiere solo dopo aver chiuso la fase autorizzativa: ogni modifica in corso d'opera su superfici storiche richiede attesa e rischio di fermo lavori.
+
+### Pulitura e trattamenti di superfici lapidee e intonaci storici
+
+**Categoria:** Pulitura superfici · **Corso:** Restauro e conservazione delle opere architettoniche
+
+La pulitura delle superfici lapidee e degli intonaci storici va condotta con metodo graduale, dal meno invasivo al più incisivo, valutando la risposta del materiale a ogni passaggio. Acqua deionizzata, spazzolamenti meccanici controllati, pulitura con micro-sabbiatura a bassa pressione o con spugne di lattice e gomma sono le tecniche di base. I trattamenti di protezione idrorepellente si applicano solo dopo collaudo su campione e verifica di compatibilità.
+
+- **Tecnologia e criteri:** Idropulitura a bassa pressione, micro-sabbiatura con inerti dolci, spugne abrasive, bisturi e scalpelli per incrostazioni, biocidi specifici per degrado biologico, idrorepellenti a base di silani/silossani per la pietra.
+- **Applicazioni:** Facciate di chiese e palazzi, paramenti in pietra da taglio o a spacco, intonaci decorati, manufatti lapidei esposti all'inquinamento atmosferico.
+- **Vantaggi:** Recupero estetico senza alterare la materia originale; rallentamento del degrado da agenti atmosferici e biologici; possibilità di lavorare su superfici verticali e complesse.
+- **Limiti e attenzioni:** Rischio di danni irreversibili se si eccede nella pressione o nell'abrasione; i biocidi richiedono manutenzione periodica; i trattamenti idrorepellenti sbagliati possono bloccare il vapore.
+- **Costi ed economia:** Ordini di grandezza indicativi: pulitura manuale di intonaco 20-50 €/m2; micro-sabbiatura di pietra 35-80 €/m2; trattamento biocida 8-20 €/m2; applicazione idrorepellente 10-25 €/m2.
+- **Caso tipico:** Caso tipo: chiesa barocca con facciata in pietra tenera, pulita con acqua a bassa pressione e spugne dopo prove su campioni nascosti dal pubblico.
+- **Normativa:** Carta di Venezia 1964 e Codice Deontologico del Restauro sulla pulitura graduale; normativa sui beni culturali e buone prassi di restauro per i trattamenti di protezione.
+- **Nota di cantiere:** Prova sempre su una zona campione non visibile: se il materiale si opacizza o si sfalda, ferma subito la lavorazione e cambia tecnica.
+
+### Restauro energetico dell'edilizio storico
+
+**Categoria:** Restauro energetico · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Il restauro energetico dell'edilizio storico mira al miglioramento dell'efficienza termica mantenendo la compatibilità con i materiali porosi e la fisica igrometrica dei muri antichi. Interventi tipici sono la coibentazione interna con materiali traspiranti e a bassa densità, la sostituzione dei serramenti, l'installazione di impianti a bassa temperatura e la ventilazione meccanica controllata. Il controllo del rischio muffa tramite verifica della trasmittanza del vapore e della temperatura superficiale interna è indispensabile prima di ogni isolamento.
+
+- **Tecnologia e criteri:** Isolamento interno con fibre di legno o calce-canapa, cappotti interni ventilati, serramenti con vetri basso-emissivi e telai in legno, impianti di riscaldamento a bassa temperatura, ventilazione meccanica controllata con recupero di calore, intonaci deumidificanti.
+- **Applicazioni:** Edifici storici ad uso residenziale o ufficio, conventi e alberghi diffusi, scuole e musei ospitati in immobili antichi con esigenze di contenimento dei consumi.
+- **Vantaggi:** Riduzione dei consumi energetici senza degrado delle murature; miglioramento del comfort abitativo; accesso agli incentivi fiscali per la riqualificazione energetica.
+- **Limiti e attenzioni:** Il miglioramento prestazionale è limitato rispetto al nuovo; l'isolamento interno riduce la superficie utile; l'installazione di impianti moderni richiede attenzione alle superfici storiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: isolamento interno con materiali naturali 80-180 €/m2; sostituzione serramento con modello ad alta efficienza 400-900 €/mq; VMC 3-8 k€/appartamento; audit energetico e verifica muffa 1-3 k€/edificio.
+- **Caso tipico:** Caso tipo: palazzo storico ad uso residenziale con muffa negli angoli, risolto con isolamento interno in fibra di legno, VMC e serramenti nuovi, verificando la trasmittanza del vapore della parete risultante.
+- **Normativa:** UNI EN ISO 12572 per la determinazione della trasmittanza del vapore; DPR 380/2001 per la disciplina degli interventi edilizi; buone prassi per l'efficienza energetica del costruito storico; Carta di Venezia 1964.
+- **Nota di cantiere:** Non applicare cappotti in polistirolo o lana di roccia con pellicola sulle pareti storiche: rischi condensa interstiziale e muffa; scegli materiali a bassa resistenza al passaggio del vapore.
+
+### Restauro di serramenti e infissi storici
+
+**Categoria:** Restauro serramenti · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Gli infissi storici in legno o ferro vanno restaurati conservando profili, ferramenta e vetri originali quando possibile, integrando con elementi nuovi distinguibili solo dove il degrado è irreversibile. Il restauro prevede la rimozione dei mani di vernice o smalto, il trattamento del legno o della superficie metallica, la regolazione o sostituzione delle ferramente e l'applicazione di finiture protettive traspiranti. Dove richiesto, si migliora la prestazione termoacustica con vetri isolanti sottili e guarnizioni compatibili senza alterare l'aspetto esterno.
+
+- **Tecnologia e criteri:** Sverniciatura chimica o meccanica controllata, trattamenti consolidanti per il legno, protezione anticorrosiva per ferro e ottone, ferramenta storica revisionata o ricostruita, vetri a basso spessore con intercapedere, guarnizioni a spazzolino o silicone.
+- **Applicazioni:** Finestre e porte di edifici vincolati, persiane e scuri storici, infissi in ferro di edifici industriali dismessi, portoni di accesso in aggregati storici.
+- **Vantaggi:** Mantenimento del valore storico e architettonico degli edifici; miglioramento delle prestazioni energetiche senza sostituzione completa; durabilità superiore rispetto ai serramenti moderni di bassa gamma.
+- **Limiti e attenzioni:** La manodopera specializzata è scarsa; i tempi di asciugatura delle finiture sono lunghi; l'applicazione di vetri isolanti su telai sottili richiede verifica statica.
+- **Costi ed economia:** Ordini di grandezza indicativi: restauro di finestra in legno 300-700 €/mq di serramento; restauro di infisso in ferro 200-500 €/mq; ferramenta revisionata o nuova 80-250 €/anta; sostituzione vetro 60-150 €/mq.
+- **Caso tipico:** Caso tipo: palazzo liberty con finestre in legno dipinte e persiane, restaurate con sverniciatura, consolidamento e vetri basso-emissivi sottili, mantenendo la ferramenta originale.
+- **Normativa:** D.Lgs 42/2004 per gli elementi costitutivi dei beni vincolati; Codice Deontologico del Restauro per la distinzione tra originale e integrazione; buone prassi per la serramentistica storica.
+- **Nota di cantiere:** Smonta il serramento e porta in laboratorio tutto ciò che è possibile: il restauro in officina garantisce qualità di finitura e riduce i tempi di cantiere.
+
+### Restauro di solai e coperture antichi
+
+**Categoria:** Restauro solai e coperture · **Corso:** Restauro e conservazione delle opere architettoniche
+
+I solai e le coperture storici in legno vanno restaurati ripristinando la funzione portante con elementi nuovi compatibili e conservando quanto più possibile il materiale originale. Le tecniche includono l'impalco, la sostituzione selettiva di elementi ammalorati, il rinforzo con dispositivi metallici e la protezione biocida e ignifuga del legno. Le coperture vengono ricostruite mantenendo la stratigrafia originale di manti e sottotetti, con aggiornamento igrometrico e di sicurezza.
+
+- **Tecnologia e criteri:** Trattamenti biocidi e consolidanti per il legno, rinforzi con piastre o tiranti in acciaio, sostituzione selettiva di correnti e travetti, ricostruzione di manti in coppi o lastre su tavellone, membrane traspiranti di nuova generazione sotto i manti tradizionali.
+- **Applicazioni:** Solai in legno di palazzi storici, tetti di chiese e ville, coperture con travature a vista, sottotetti con degrado biologico da infiltrazioni.
+- **Vantaggi:** Recupero dell'efficienza strutturale senza snaturare l'assetto originale; possibilità di ispezionare e monitorare le strutture lignee; miglioramento della sicurezza antincendio e igrometrica.
+- **Limiti e attenzioni:** Il legno ammalorato richiede diagnosi di laboratorio; i rinforzi metallici devono essere isolati per evitare corrosione; gli accessi in quota complicano i lavori.
+- **Costi ed economia:** Ordini di grandezza indicativi: restauro di solaio ligneo 150-350 €/m2; rinforzo strutturale di travature 60-150 €/ml; restauro di copertura con manti tradizionali 250-500 €/m2; trattamento biocida 10-25 €/m2.
+- **Caso tipico:** Caso tipo: villa storica con solai in legno tarlati, restaurati con sostituzione selettiva dei travetti e trattamento protettivo, mantenendo i soffitti a cassettoni originali.
+- **Normativa:** NTC2018 (D.M. 17/01/2018) per la verifica strutturale; normativa antincendio e buone prassi di restauro per le strutture lignee storiche; Carta di Venezia 1964.
+- **Nota di cantiere:** Non interrare il legno storico in copertura senza verificarne il tenore di umidità: sostituisci solo gli elementi che non passano la prova di resistenza, il resto conservalo.
+
+### Malte di risanamento e deumidificazione delle murature umide
+
+**Categoria:** Risanamento murature umide · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Le murature umide degli edifici storici si risanano eliminando le cause di risalita capillare e asportando le parti degraderate. Le malte di risanamento, a base di calce naturale e aggregati specifici, devono essere fisico-meccanicamente compatibili con il supporto storico e consentire il passaggio del vapore. Sistemi di deumidificazione come barriere chimiche o elettroosmotiche si adottano quando la continuità del basamento non può essere tagliata.
+
+- **Tecnologia e criteri:** Malte di risanamento a calce NHL o CL con sabbie certificate, rivestimenti macroporosi traspiranti, barriere meccaniche di taglio, iniezioni di barriere chimiche, sistemi elettroosmotici, ventilazione forzata dei locali umidi.
+- **Applicazioni:** Edifici storici con umidità di risalita nei muri perimetrali, cantine e piani terra di palazzi antichi, muri a contatto con terreno dopo rimozione di rialzi stradali.
+- **Vantaggi:** Intervento reversibile e compatibile con i materiali storici; recupero dell'igrometria interna; riduzione del rischio di muffa e degrado biologico degli intonaci.
+- **Limiti e attenzioni:** I tempi di asciugatura sono lunghi; le barriere chimiche hanno efficacia variabile in funzione della porosità del supporto; occorre distinguere l'umidità di risalita da quella da condensa.
+- **Costi ed economia:** Ordini di grandezza indicativi: rasatura e risanamento con malta di calce 25-60 €/m2; barriera chimica 40-90 €/ml; taglio meccanico di intercapedine 60-120 €/ml; sistema elettroosmotico 50-100 €/ml.
+- **Caso tipico:** Caso tipo: palazzo storico con seminterrato umido e muffa, risanato con malte macroporose a calce dopo diagnosi termoigrometrica che escludeva la condensa.
+- **Normativa:** UNI EN 998-1 per le malte da intonaco e da muratura; UNI EN 1015 per i metodi di prova delle malte fresche e indurite; buone prassi per il risanamento dell'edilizio storico.
+- **Nota di cantiere:** Non sigillare mai con cemento o resine impermeabili un muro umido in edificio storico: intrappoli l'umidità e acceleri il degrado.
+
+### Vincoli e autorizzazioni per i beni tutelati
+
+**Categoria:** Vincoli e autorizzazioni · **Corso:** Restauro e conservazione delle opere architettoniche
+
+Gli interventi su beni culturali vincolati richiedono autorizzazioni specifiche che verificano la compatibilità tecnica e materica delle lavorazioni proposte. Il procedimento coinvolge la Soprintendenza competente per territorio e può includere la presentazione di relazioni tecniche, tavole esplicative e campionature di materiali. Le sanzioni per lavori non autorizzati su beni tutelati sono pesanti, con possibili ordinanze di ripristino a carico del responsabile.
+
+- **Tecnologia e criteri:** Pratica di autorizzazione con relazione tecnica illustrativa, tavole di progetto, relazione fotografica, eventuale sopralluogo con funzionario della Soprintendenza, comunicazioni di inizio lavori e collaudo finale, SCIA alternativa solo per le tipologie ammesse.
+- **Applicazioni:** Lavori su facciate di edifici vincolati, interventi interni su beni culturali, manutenzione ordinaria e straordinaria su immobili sottoposti a vincolo paesaggistico.
+- **Vantaggi:** Garanzia di tutela del valore culturale; chiarezza dei limiti progettuali; coinvolgimento precoce dell'amministrazione che riduce i rischi di fermo lavori.
+- **Limiti e attenzioni:** Tempi di autorizzazione lunghi e variabili; i requisiti documentali sono onerosi per i piccoli interventi; le indicazioni possono imporre varianti ai materiali previsti.
+- **Costi ed economia:** Ordini di grandezza indicativi: istruttoria e pratica autorizzativa 2-10 k€/intervento in base alla complessità; relazione tecnica specialistica 1,5-5 k€; sopralluoghi e varianti documentali 0,5-2 k€.
+- **Caso tipico:** Caso tipo: condominio in centro storico con facciata vincolata, intervento di tinteggiatura modificato su richiesta della Soprintendenza con prova a campione prima dell'esecuzione completa.
+- **Normativa:** D.Lgs 42/2004 (Codice dei beni culturali e del paesaggio) per vincoli e autorizzazioni; DPR 380/2001 per la disciplina edilizia; Carta di Venezia 1964 e Codice Deontologico del Restauro come riferimenti etici e tecnici.
+- **Nota di cantiere:** Prepara il fascicolo autorizzativo come se dovesse passare il vaglio di un restauratore: documentazione fotografica, campioni di materiale e giustificazione di ogni scelta tecnica.
 
 
 ## Risanamento e recupero edilizio
