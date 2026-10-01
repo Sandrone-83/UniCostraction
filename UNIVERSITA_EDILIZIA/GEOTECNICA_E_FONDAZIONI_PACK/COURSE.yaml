@@ -1,0 +1,9 @@
+corso: "Geotecnica e fondazioni"
+facolta: "FACOLTA_INGEGNERIA"
+livello: "L1-L3"
+schede: 15
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "UNI EN 1997-1/-2 (Eurocodice 7), UNI EN ISO 14688-1/-2, NTC 2018 (D.M. 17/01/2018), meccanica delle terre classica (Terzaghi)"
+nota_metodologica: "Contenuto di meccanica delle terre e geotecnica di base: principi consolidati, verificabili su qualsiasi testo universitario (Terzaghi, Peck, Craig, Atkinson). Norme citate a livello di ente/numero solo dove certe. I costi sono ordini di grandezza indicativi 2025-2026, da verificare con prezzario locale."

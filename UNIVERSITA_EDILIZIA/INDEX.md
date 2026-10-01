@@ -76,6 +76,10 @@ Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICU
 - PISCINE_E_WELLNESS_PACK (7 schede, L2, FACOLTA_IMPIANTI_ENERGIA)
 - HOTEL_E_HOSPITALITY_TECNICO_PACK (7 schede, L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE)
 
+## Corsi del giro approfondimento continuo (2026-10-01)
+
+- GEOTECNICA_E_FONDAZIONI_PACK (15 schede, L1-L3, FACOLTA_INGEGNERIA) — indagini, terreni, fondazioni superficiali e profonde, opere di sostegno, miglioramento terreni; contenuti classici verificabili (Terzaghi, UNI EN 1997, NTC 2018)
+
 ## Enciclopedia del sapere
 
 - [ENCICLOPEDIA.md](ENCICLOPEDIA.md) — portale enciclopedico con voci A-Z, articoli per macro-area, glossario e mappa del sapere
