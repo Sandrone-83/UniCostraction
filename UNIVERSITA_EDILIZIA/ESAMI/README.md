@@ -16,6 +16,7 @@ di apprendimento per settore.
 | Settore | Stato | Note |
 | --- | --- | --- |
 | ACUSTICA | ✅ 220 domande | chiavi: jsonl |
+| AEROPORTI | ✅ 250 domande | chiavi: jsonl |
 | ARCHITETTURA | ✅ 250 domande | chiavi: jsonl |
 | ASCENSORI | ✅ 300 domande | chiavi: jsonl |
 | BONIFICA_SITI | ✅ 250 domande | chiavi: jsonl |
@@ -35,6 +36,7 @@ di apprendimento per settore.
 | EDILIZIA_AGRICOLA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
 | EDILIZIA_SCOLASTICA | ✅ 250 domande | chiavi: jsonl |
+| EMERGENZE | ✅ 250 domande | chiavi: jsonl |
 | ENERGETICA_INCENTIVI | ✅ 250 domande | chiavi: jsonl |
 | FACILITY_MANAGEMENT | ✅ 250 domande | chiavi: jsonl |
 | FISCO_IMPRESA_EDILE | ✅ 250 domande | chiavi: jsonl |
@@ -67,6 +69,7 @@ di apprendimento per settore.
 | PERIZIE_STIME | ✅ 250 domande | chiavi: jsonl |
 | PIETRE_NATURALI | ✅ 250 domande | chiavi: jsonl |
 | POSA_IN_OPERA | ✅ 300 domande | chiavi: jsonl |
+| PORTI_MARITTIMI | ✅ 250 domande | chiavi: jsonl |
 | PREFABBRICAZIONE | ✅ 250 domande | chiavi: jsonl |
 | REAL_ESTATE | ✅ 180 domande | chiavi: jsonl |
 | RESTAURO_CONSERVAZIONE | ✅ 223 domande | chiavi: jsonl |
@@ -80,7 +83,7 @@ di apprendimento per settore.
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: esame per ognuno dei 63 corsi della repository. I tre esami «legacy» dei primi giri
+Copertura: esame per ognuno dei 66 corsi della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.
 

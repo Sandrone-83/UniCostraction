@@ -20,3 +20,5 @@ Sistema Italia, fisco, marketing, coding: il corpo completo dell'impresa edile m
 - REAL_ESTATE_PACK (L2)
 ## Corsi aggiunti (giro M)
 - GESTIONE_CONDOMINIO_PACK (L1-L2) — parti comuni, assemblea, millesimali, lavori e impianti centralizzati, contenzioso, supercondomini, amministratore, nuovi conflitti, acustica, manutenzione programmata, appalti
+## Corsi aggiunti (giro N)
+- EMERGENZE_E_RICOSTRUZIONE_PACK (L2-L3) — protezione civile (D.Lgs 1/2018), prime 72 ore, ricostruzione privata e pubblica, messa in sicurezza, SAE, ponti provvisori, filiera ricostruzione, alluvioni, prevenzione aziendale

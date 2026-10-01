@@ -24,3 +24,6 @@ Ingegneria civile e strutturale: il cuore del calcolo e delle grandi opere.
 - METODI_COSTRUTTIVI_AVANZATI_PACK (L2-L3) — top-down, cut&cover, sollevamento edifici, TBM, NATM, no-dig, jet grouting, varo ponti, casseforme, opere marine, demolizioni, digitalizzazione cantieri
 ## Corsi aggiunti (giro M)
 - DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK (L2-L3) — dighe a gravità/arco/contrafforti/terra, opere di presa e scarichi, sicurezza e classificazione, sistemazioni torrentizie, argini, laminazione, frane, acquedotti, fognature, economia opere idrauliche
+## Corsi aggiunti (giro N)
+- AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK (L2-L3) — piste e ACN/PCN, segnaletica e ILS, terminal, certificazione EASA/ENAC, rumore e ostacoli, cargo, aviazione generale, cantieri in esercizio, economia, sostenibilità
+- PORTI_E_OPERE_MARITTIME_PACK (L2-L3) — dighe foranee e banchine, terminal container e Ro-Ro, porti turistici, difesa costiera, dragaggi, demanio marittimo, clima marino, cantieri marini, shore power

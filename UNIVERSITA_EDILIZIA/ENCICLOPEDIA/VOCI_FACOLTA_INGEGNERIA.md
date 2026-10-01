@@ -3,7 +3,162 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-174 voci, 13 corsi.
+194 voci, 15 corsi.
+
+
+## Aeroporti e infrastrutture di volo
+
+*Corso `AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK` — 10 voci*
+
+### Rumore aeroportuale, ostacoli al volo e compatibilità territoriale
+
+**Categoria:** Ambientale · **Corso:** Aeroporti e infrastrutture di volo
+
+L'aeroporto e il territorio: mappe di rumore, zone di rispetto e piani di mitigazione.
+
+- **Tecnologia e criteri:** Misure e mappe di rumore aeroportuale secondo la normativa vigente (classificazione acustica degli aeroporti con zone di rispetto); le aree di rispetto (A, B, C, D) con i vincoli edilizi corrispondenti; monitoraggio continuo del rumore con centraline fisse e mobili; ostacoli alla navigazione aerea: OLS (Obstacle Limitation Surfaces) con superfici di delimitazione coniche e transitorie che vietano le costruzioni in prossimità delle piste; valutazione dei nuovi edifici alte con procedure di autorizzazione; piani di mitigazione del rumore con le rotte e le procedure operative; compensazioni e barriere foniche; coinvolgimento delle comunità con i tavoli di concertazione.
+- **Applicazioni:** Aeroporti vicini ai centri urbani, pianificazione territoriale attorno agli scali, valutazione di progetti edilizi in zona aeroportuale, procedimenti di autorizzazione degli ostacoli.
+- **Vantaggi:** Compatibilità tra lo sviluppo dello scalo e la qualità ambientale, trasparenza verso le comunità con le mappe pubbliche, prevenzione dei contenziosi con i vincoli chiari.
+- **Limiti e attenzioni:** Il rumore è percepito e politicamente sensibile, i vincoli edilizi impattano il mercato immobiliare, le mitigazioni costano e richiedono tempi, le rotte di mitigazione possono spostare il disturbo altrove.
+- **Costi ed economia:** Ordini di grandezza indicativi: sistemi di monitoraggio del rumore 100-500 k€; barriere foniche e mitigazioni edilizie 0,5-5 M€ secondo estensione; le compensazioni ambientali sono parte dei progetti di espansione.
+- **Caso tipico:** Tavoli di concertazione degli scali con le comunità locali; vincoli edilizi nelle zone di rispetto degli aeroporti nazionali.
+- **Normativa:** Normativa nazionale sulla classificazione acustica degli aeroporti e sulle zone di rispetto (testo consolidato vigente); regolamenti ICAO sulle superfici di delimitazione degli ostacoli; procedura di valutazione ambientale (D.Lgs 152/2006) per le opere.
+- **Nota di cantiere:** Prima di progettare vicino a un aeroporto si verifica la mappa di classificazione acustica e le superfici OLS: un edificio 'giusto' nella zona sbagliata diventa un ostacolo da demolire.
+
+### Aviazione generale, eliporti e aviazione leggera: infrastrutture minime
+
+**Categoria:** Aviazione leggera · **Corso:** Aeroporti e infrastrutture di volo
+
+La coda lunga del volo: aviosuperfici, eliporti e aeroporti minori.
+
+- **Tecnologia e criteri:** Aviosuperfici e aeroporti minori con piste in erba o asfalto di 600-1.200 m; eliporti con piazzali circolari, balisaggi e servizi minimi (refueling, hangar); gestione delle licenze ENAC per le aviosuperfici e i campi di volo; aviazione sportiva e scuole di volo con aree dedicate; gestione del traffico VFR (Visual Flight Rules) con le frequenze di torre e l'informazione volo; manutenzione delle pavimentazioni leggere con cicli di budget contenuti; FBO (Fixed Base Operator) per l'aviazione business nei piccoli scali; valorizzazione turistica degli aeroporti territoriali.
+- **Applicazioni:** Aeroporti regionali, campi di volo sportivi, eliporti ospedalieri e aziendali, aviosuperfici turistiche.
+- **Vantaggi:** Accessibilità del volo per la formazione, il turismo e i servizi (elisoccorso), costi di gestione contenuti rispetto agli scali maggiori, valorizzazione dei territori periferici.
+- **Limiti e attenzioni:** Sostenibilità economica debole senza volumi, standard di certificazione ridotti che impongono limiti operativi, dipendenza da enti locali e passioni private.
+- **Costi ed economia:** Ordini di grandezza indicativi: aviosuperficie semplice 0,2-1 M€; eliporto 0,3-2 M€ secondo servizi; gestione annuale di un campo di volo 50-300 k€.
+- **Caso tipico:** Rete degli aeroporti regionali italiani; eliporti di rete per l'elisoccorso e i collegamenti con le isole.
+- **Normativa:** Regolamenti ENAC per le aviosuperfici e gli eliporti; standard ICAO per le infrastrutture di volo generali; normativa per l'attività di volo sportivo e turistico.
+- **Nota di cantiere:** L'aviosuperficie non è 'il campo dietro casa': pendenze, ostacoli e gestione della fauna si verificano come in uno scalo maggiore, solo con standard ridotti.
+
+### Cargo aeroportuale, hub di merci e logistica integrata
+
+**Categoria:** Cargo · **Corso:** Aeroporti e infrastrutture di volo
+
+L'aeroporto come piattaforma logistica: terminal merci, frigo e intermodalità.
+
+- **Tecnologia e criteri:** Terminal cargo con magazzini di trasstamento, celle frigorifere per la catena del freddo, aree per merci pericolose (DGR) con standard IATA; piattaforme per gli integratori express con hub notturni di smistamento; collegamenti intermodali con la rete stradale e ferroviaria (rail hubs); movimentazione con traslochi elevabili e ULD (Unit Load Devices) conformi; sicurezza della catena merci con i regimi di sicurezza (Reg. CE 300/2008 — real: regolamento relativo alla sicurezza dell'aviazione civile per le merci); gestione della paperless con le e-AWB (air waybill elettroniche); integrazione con le zone economiche speciali e i distretti logistici.
+- **Applicazioni:** Hub cargo internazionali, piattaforme per il trasporto farmaceutico e deperibile, aeroporti regionali con ambizioni logistiche, integratori express.
+- **Vantaggi:** Valore per unità di peso delle merci aeree che giustifica i costi, catena del freddo garantita per farmaci e freschi, integrazione con la logistica terrestre che amplia il bacino d'utenza.
+- **Limiti e attenzioni:** I mercati cargo sono ciclici e sensibili alla geopolitica, l'infrastruttura costosa richiede volumi minimi, la concorrenza tra scali è forte sullo stesso bacino.
+- **Costi ed economia:** Ordini di grandezza indicativi: terminal cargo 1.000-2.500 €/m²; celle frigo 300-800 €/m²; i canoni dei magazzini aeroportuali sono tra i più alti della logistica.
+- **Caso tipico:** Hub cargo degli scali internazionali europei; piattaforme farmaceutiche certificate GDP nei principali aeroporti.
+- **Normativa:** Reg. UE 300/2008 (sicurezza dell'aviazione civile per le merci); standard IATA per le DGR e le e-AWB; requisiti GDP per la catena del freddo farmaceutica.
+- **Nota di cantiere:** Il cargo lavora di notte e in sicurezza: i cantieri vicino ai terminal merci si coordinano con gli orari di volo e i controlli di accesso.
+
+### Economia aeroportuale: investimenti, revenue e modelli di gestione
+
+**Categoria:** Economia · **Corso:** Aeroporti e infrastrutture di volo
+
+I numeri dello scalo: come si finanzia un aeroporto e da cosa vive.
+
+- **Tecnologia e criteri:** Modello economico degli aeroporti: revenue aeronautiche (tasse di scalo, atterraggio, parcheggio) e non aeronautiche (commerciali, parking, cargo); gestione in house o in concessione (modello italiano con gestori privati e partecipazioni pubbliche); finanziamento degli investimenti con i piani pluriennali e il project financing; il rapporto con le compagnie aeree: incentivi, marketing route development; il peso degli oneri di sicurezza e certificazione sui conti; le esternalità positive (indotto occupazionale e turistico) usate nei dossier di progetto; gestione degli asset immobiliari (aree dismesse, cargo city); valutazione delle espansioni con l'analisi costi-benefici.
+- **Applicazioni:** Piani di sviluppo aeroportuale, valutazioni di concessione, dossier di finanziamento delle opere.
+- **Vantaggi:** Chiarezza dei modelli di business che guida gli investimenti, la diversificazione non-aeronautica stabilizza i conti, gli studi di indotto legittimano le opere pubbliche.
+- **Limiti e attenzioni:** La stagionalità e i cicli del traffico aereo, la concorrenza tra scali sullo stesso bacino, i vincoli di concessione pubblica con gli equilibri di bilancio.
+- **Costi ed economia:** Ordini di grandezza indicativi: investimenti di espansione degli scali maggiori da centinaia di milioni a diversi miliardi; indotto occupazionale stimato per ogni milione di passeggeri annui da decine a centinaia di posti (da verificare per scalo).
+- **Caso tipico:** Modelli di gestione dei principali scali italiani con concessioni pluriennali; piani di sviluppo con le cargo city e i distretti logistici.
+- **Normativa:** D.Lgs 36/2023 per le concessioni e i contratti pubblici; regolamenti UE sulla gestione degli slot e sulle tasse aeroportuali; normativa nazionale di settore vigente.
+- **Nota di cantiere:** Il progetto aeroportuale si valuta su 20-30 anni con scenari di traffico prudenti: la storia degli scali pieni di infrastrutture sottoutilizzate insegna.
+
+### Gestione e certificazione dell'aeroporto: ENAC, EASA e sicurezza operativa
+
+**Categoria:** Gestione scalo · **Corso:** Aeroporti e infrastrutture di volo
+
+Il quadro regolatorio e gestionale dello scalo: certificazione, SMS e piano aeroportuale.
+
+- **Tecnologia e criteri:** Certificazione dell'aeroporto secondo il Reg. UE 139/2014 con il rilascio da parte dell'autorità competente (ENAC in Italia); Safety Management System (SMS) aeroportuale con la valutazione dei rischi operativi, la segnalazione degli incidenti e l'indagine; piano aeroportuale con la documentazione operativa (aerodrome manual); gestione della fauna pericolosa (wildlife management) con dissuasori e monitoraggi; controllo delle estensioni (RESAs) e delle pendenze; gestione del ghiaccio e della neve con piani di spazzamento e spargimento; gestione delle emergenze aeroportuali (RFF, soccorso e fuoco aeroportuale con categorie di protezione); coordinamento con le autorità (ENAV per il volo, dogane, sicurezza).
+- **Applicazioni:** Tutti gli aeroporti certificati, gli scali in fase di rinnovo della certificazione, gli aeroporti in transizione gestionale.
+- **Vantaggi:** Quadro certificatorio europeo uniforme che garantisce i livelli di sicurezza, la gestione del rischio documentata, l'interoperabilità tra scali nazionali e internazionali.
+- **Limiti e attenzioni:** Adempimenti documentali e di personale pesanti per gli scali minori, le sanzioni per la non conformità, il rinnovo della certificazione richiede audit continui.
+- **Costi ed economia:** Ordini di grandezza indicativi: costi di certificazione e SMS 0,5-3% dei costi operativi dello scalo; sistemi di soccorso aeroportuale (RFF) 0,5-2 M€/anno per scalo medio.
+- **Caso tipico:** Certificazione degli scali italiani secondo il regolamento europeo con audit periodici; gestione della fauna negli scali vicini a zone umide con i programmi di monitoraggio.
+- **Normativa:** Reg. UE 139/2014 e regolamenti EASA di attuazione; standard ICAO (Allegato 14) e documenti di orientamento; quadro normativo nazionale di attribuzione delle competenze (ENAC, ENAV).
+- **Nota di cantiere:** Ogni modifica alla piastra di volo o ai sistemi operativi (opere edili comprese) entra nel sistema di certificazione: le varianti vanno comunicate e approvate prima dell'esercizio.
+
+### Aeroporti sostenibili: elettrificazione, SAF e gestione delle risorse
+
+**Categoria:** Innovazione · **Corso:** Aeroporti e infrastrutture di volo
+
+Il futuro dello scalo: voli meno impattanti, energia propria e gestione delle acque.
+
+- **Tecnologia e criteri:** Elettrificazione delle operazioni di terra (GPU elettriche, bus elettrici, la pista di decollo assistita elettricamente nei progetti di breve termine); SAF (Sustainable Aviation Fuels) con obblighi di miscelazione in progressivo aumento secondo la normativa UE (RefuelEU Aviation); gestione energetica: impianti FV su pensiline e terminal, accumuli, parchi eolici laddove compatibili; gestione delle acque meteoriche delle piastre di volo (trattamenti prima dello scarico); la sfida dell'idrogeno per l'aviazione (H2 hub aeroportuali in sperimentazione); monitoraggio delle emissioni e delle microplastiche dai pneumatici; certificazioni ambientali degli scali e carbon management.
+- **Applicazioni:** Aeroporti in piani di decarbonizzazione, infrastrutture di rifornimento SAF e idrogeno, gestione ambientale degli scali.
+- **Vantaggi:** Riduzione delle emissioni di scalo e della dipendenza dai combustibili fossili, immagine ambientale che dialoga con le comunità, conformità alla normativa UE in anticipo.
+- **Limiti e attenzioni:** Gli impianti SAF e H2 sono capital intensive, la disponibilità di SAF è limitata e costosa, l'idrogeno richiede infrastrutture e sicurezza dedicate, i benefici del SAF non eliminano le emissioni di scalo.
+- **Costi ed economia:** Ordini di grandezza indicativi: SAF 2-6 volte il costo del Jet A-1; GPU elettriche e infrastrutture 0,5-3 M€ per scalo; FV aeroportuali da centinaia di kWp a diversi MWp secondo superficie.
+- **Caso tipico:** Impianti SAF in costruzione in Europa con gli obiettivi RefuelEU; parchi FV installati negli aeroporti italiani sulle aree di nuova costruzione.
+- **Normativa:** Regolamento UE RefuelEU Aviation (obblighi di SAF); normativa sulle emissioni e sulla gestione ambientale degli aeroporti; standard ICAO CORSIA per le emissioni internazionali.
+- **Nota di cantiere:** Gli impianti H2 in aeroporto cambiano la sicurezza di progetto: zone ATEX, distanze di sicurezza e nuove competenze di gestione vanno previsti prima di firmare il progetto.
+
+### Lavori in aeroporto in esercizio: coordinamento, sicurezza e finestre operative
+
+**Categoria:** Interventi · **Corso:** Aeroporti e infrastrutture di volo
+
+Costruire mentre gli aerei volano: i cantieri nello scalo operativo.
+
+- **Tecnologia e criteri:** Piano di coordinamento con l'esercente (gestore aeroportuale) con le work zone certificate; finestre di lavoro notturne (notte di scalo) con la riapertura della piastra di volo certificata al termine; gestione degli accessi con badge aeroportuali e Security Awareness; protezione dei sistemi operativi (ILS, balisaggi) con distacchi e calibrazioni dopo i lavori; gestione del FOD con barriere, coperture dei materiali e bonifica finale; coordinamento con le torri di controllo per le chiusure temporanee di vie di rullaggio; gestione delle interferenze radar e radio delle gru e delle attrezzature; documentazione delle varianti per la certificazione.
+- **Applicazioni:** Rifacimenti piazzali e piste, ampliamenti terminal, nuove infrastrutture (MRO, cargo) negli scali operativi.
+- **Vantaggi:** Continuità dell'esercizio durante i lavori con la pianificazione delle finestre, la sicurezza garantita dal coordinamento certificato, la qualità con le bonifiche finali documentate.
+- **Limiti e attenzioni:** Finestre brevi che impongono tecnologie rapide (cls ad alta resistenza precoce), i ritardi si accumulano con gli annulli per meteo o traffico, il costo del cantiere notturno è maggiorato.
+- **Costi ed economia:** Ordini di grandezza indicativi: premio notturno e di coordinamento +30-80% sul costo diretto; chiusura di una pista costa allo scalo decine di migliaia di euro l'ora in capacità persa.
+- **Caso tipico:** Rifacimenti notturni delle piste degli scali di grande traffico con riapertura quotidiana alle 6 del mattino; cantieri cargo con i work package settimanali.
+- **Normativa:** Reg. UE 139/2014 per le modifiche in esercizio; regolamenti sulla sicurezza (security) dell'accesso alle aree operativi; piani di coordinamento dell'esercente con i requisiti di certificazione.
+- **Nota di cantiere:** La regola d'oro del cantiere aeroportuale: nulla resta sulla piastra di volo che non sia documentato e bonificato; la bonifica finale firmata è il pass per riaprire.
+
+### Piste aeroportuali: geometria, pavimentazioni e portanza
+
+**Categoria:** Piste · **Corso:** Aeroporti e infrastrutture di volo
+
+La piastra di volo: dimensionamento, pavimentazioni in cls e flessibili, il sistema ACN/PCN.
+
+- **Tecnologia e criteri:** Geometrie delle piste (lunghezze 1.500-4.000 m, larghezza 45-60 m per traffico internazionale), code, piazzali e vie di rullaggio; pavimentazioni in cls lastricato (lastre 5x5 m con giunti) o flessibili (fondi stabilizzati + conglomerato bituminoso); classificazione della portanza con il sistema ACN/PCN (Aircraft Classification Number / Pavement Classification Number) che abbinano velivolo e pavimento; calcolo degli spessori sul traffico equivalente (metodo FAA e ricerca italiana); pavimentazioni dei piazzali con basi in cls rinforzato; giunti e sigillanti; drenaggi longitudinali e trasversali; rigature antiscivolo della superficie di contatto.
+- **Applicazioni:** Aeroporti di ogni dimensione: aviazione generale, scali nazionali, hub internazionali, piste militari convertite.
+- **Vantaggi:** Superfici con portanza certificata per ogni velivolo, durata con la manutenzione programmata dei giunti, drenaggio che riduce l'aquaplaning.
+- **Limiti e attenzioni:** I giunti del lastricato sono il punto debole (FOD, infiltrazioni), il calcolo del traffico richiede dati di flotta certi, gli interventi in esercizio richiedono finestre notturne.
+- **Costi ed economia:** Ordini di grandezza indicativi: nuova pista 200-600 €/m² compresa di basi; rifacimento piazzale 80-200 €/m²; manutenzione ordinaria 2-5 €/m²/anno.
+- **Caso tipico:** Espansioni degli scali italiani con nuove piste e piazzali; rifacimenti notturni dei piazzali con conglomerati ad alta resistenza rapida.
+- **Normativa:** Reg. UE 139/2014 (requisiti di certificazione e gestione degli aerodromi) con i regolamenti EASA di attuazione; standard ICAO (Allegato 14) per le geometrie; specifiche ENAC nazionali.
+- **Nota di cantiere:** Il FOD (Foreign Object Debris) è il nemico: ogni lavorazione vicino alla piastra di volo termina con la bonifica meccanica della superficie prima della riapertura.
+
+### Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea
+
+**Categoria:** Segnaletica · **Corso:** Aeroporti e infrastrutture di volo
+
+Come gli aeroplani trovano la pista: ILS, luci di avvicinamento, balisaggi e torri.
+
+- **Tecnologia e criteri:** Sistema ILS (Instrument Landing System) con componente locale e planata (radiofaro e glide path) che guida l'avvicinamento strumentale fino alla soglia; balisaggio luminoso: luci di soglia, di contorno pista, di rullaggio, di avvicinamento sequenziale (approach); segnalazione di ostacoli con luci rosse e bicolori; radioassistenze tradizionali (VOR/DME, NDB) e moderne (GBAS, sistemi satellitari); sistemi di calibrazione e monitoraggio con allarmi di disallineamento; torri di controllo (TWR) con ottica visiva e posizione di comando; sistemi di sorveglianza radar a superficie (SMR) per il controllo dei movimenti a terra.
+- **Applicazioni:** Aeroporti strumentali di ogni categoria, avvicinamenti di precisione per scali con maltempo frequente, eliporti e aeroporti minori con procedura non strumentale.
+- **Vantaggi:** Operatività garantita con visibilità ridotta, sicurezza degli avvicinamenti con i monitoraggi continui, capacità di scalo aumentata con i sistemi di superficie.
+- **Limiti e attenzioni:** Criticità elettroniche elevate con servizi ridondanti obbligatori, manutenzione specializzata certificata, interferenze da nuove costruzioni da valutare in progetto.
+- **Costi ed economia:** Ordini di grandezza indicativi: sistema ILS da 1 a 3 M€ per pista; balisaggio di una pista 0,5-2 M€; manutenzione dei sistemi di assistenza 100-500 k€/anno.
+- **Caso tipico:** Avvicinamenti di precisione (CAT II/III) degli scali con nebbia frequente; ammodernamento dei balisaggi a LED degli aeroporti nazionali.
+- **Normativa:** Standard ICAO (Allegati 10 e 14) per i sistemi di assistenza; Reg. UE 139/2014 e regolamenti EASA di attuazione; requisiti di certificazione ENAC per i sistemi operativi.
+- **Nota di cantiere:** Le work zone vicino alle radioassistenze vanno coordinate con l'esercente: un mezzo che lavora nel campo protetto dell'ILS può oscurare il segnale di avvicinamento.
+
+### Terminal passeggeri: architetture, flussi e standard di servizio
+
+**Categoria:** Terminal · **Corso:** Aeroporti e infrastrutture di volo
+
+L'edificio dell'aeroporto: progettazione dei flussi passeggeri, sicurezza e standard IATA.
+
+- **Tecnologia e criteri:** Flussi separati di imbarco (partenze, verifica sicurezza, gate) e sbarco (arrivi, ritiro bagagli, dogana); standard IATA di livello di servizio (LOS, Level of Service) con aree calcolate sui picchi orari; accettazione con check-in tradizionale, self-service e bag drop; controlli sicurezza con metal detector, scanner e standard EU (liquidi, elettronica); aree duty free e commerciali come raccolto di rendite non-aeronautiche; finger e piazzali di sosta aeromobili; movimentazione bagagli con sistemi automatici di smistamento (BHS); aree general aviation e business aviation; sostenibilità: certificazioni energetiche degli edifici, pannelli FV su pensiline e facciate.
+- **Applicazioni:** Terminal di scali nazionali e internazionali, ampliamenti stagionali degli scali turistici, riqualificazioni degli edifici esistenti.
+- **Vantaggi:** Flussi passeggeri efficienti con tempi di attesa controllati, revenue non-aeronautiche che sostengono l'economia dello scalo, edifici certificabili energeticamente, capacità di crescita modulare.
+- **Limiti e attenzioni:** Sovradimensionamento rischioso per i picchi stagionali, standard di sicurezza in continuo aggiornamento, la rigidità degli edifici in esercizio rende i lavori complessi.
+- **Costi ed economia:** Ordini di grandezza indicativi: nuovo terminal 2.000-5.000 €/m² comprensivo di impianti e BHS; ammodernamento gate 0,5-2 M€/postazione; le revenue non-aeronautiche rappresentano 30-50% del totale dei grandi scali.
+- **Caso tipico:** Terminal di grandi scali italiani ristrutturati con i nuovi standard di sicurezza; finger e code ampliati per le nuove flotte a fusoliera larga.
+- **Normativa:** Standard IATA per i livelli di servizio; regolamenti UE sulla sicurezza dell'aviazione civile (controlli passeggeri e bagagli); requisiti di accessibilità (D.Lgs 198/2021); normativa antincendio per i locali di pubblico afflusso.
+- **Nota di cantiere:** Il terminal si ristruttifica per reparti con i flussi garantiti: ogni chiusura temporanea di un settore richiede il reindirizzamento dei passeggeri con segnaletica temporanea e personale.
 
 
 ## Carpenteria metallica e acciaio
@@ -2679,4 +2834,159 @@ La sala operatoria è l'ambiente tecnologicamente più denso dell'edilizia: il b
 - **Caso tipico:** Blocco operatorio riprogettato con sale modulari e locali tecnici esterni: i tempi di cambio tra un intervento e l'altro sono calati del 25% (più sale operabili al giorno); la sala gemella 'tradizionale' dello stesso ospedale resta il collo di bottiglia.
 - **Normativa:** Normativa UNI EN ISO 14644? No: i riferimenti: linee guida ministeriali sulle sale operatorie; norme sui gas medicali (UNI EN ISO 9170); antincendio specifico.
 - **Nota di cantiere:** La domanda di progetto: 'quanto tempo perde il chirurgo tra un paziente e l'altro?' — la risposta si progetta.
+
+
+## Porti e opere marittime
+
+*Corso `PORTI_E_OPERE_MARITTIME_PACK` — 10 voci*
+
+### Cantieri marittimi: navi-cantiere, piattaforme e lavorazioni subacquee
+
+**Categoria:** Cantieri marini · **Corso:** Porti e opere marittime
+
+Come si costruisce in mare: le tecniche, le imbarcazioni e la sicurezza del cantiere marino.
+
+- **Tecnologia e criteri:** Navi-cantiere (floating cranes) per i posamenti di grandi elementi; barche-gru e pontoni per i getti marini; piattaforme di lavoro autoscandenti per i paramenti delle dighe; cassoni realizzati in banchina, varati e posati con i sistemi di traino e affondamento controllato; il cls marino gettato con tubi a perdere (tremie) e miscela autosistemante; le lavorazioni subacquee con i sommozzatori commerciali certificati per le ispezioni e i lavori leggeri; i sistemi di posa dei rivestimenti subacquei; la meteorologia marina come vincolo di pianificazione con le finestre di posa; i piani di emergenza anti-inquinamento con le barriere galleggianti.
+- **Applicazioni:** Costruzione e manutenzione di opere portuali, dighe foranee, fondazioni marine, condotte sottomarine, cantieri di ripascimento.
+- **Vantaggi:** Possibilità di lavorare oltre la costa e nei fondali profondi, precisione dei posamenti con il gps marino, lavorazione protetta dalle condizioni del mare con le piattaforme.
+- **Limiti e attenzioni:** Costi giornalieri elevati delle attrezzature marine, dipendenza totale dalle condizioni meteomarine, la sicurezza dei lavoratori in mare (overboarding), la logistica dei materiali dalla banchina.
+- **Costi ed economia:** Ordini di grandezza indicativi: noleggio barca-gru 5.000-30.000 €/giorno; operazioni subacquee certificate 1.000-5.000 €/giornata; getto marino +30-80% rispetto al getto aereo.
+- **Caso tipico:** Posamento dei cassoni delle dighe foranee con le finestre meteomarine; interventi subacquei di riparazione delle banchine.
+- **Normativa:** Normativa sulla sicurezza dei lavoratori in mare (formazione, DPI, procedure); convenzioni IMO per la prevenzione dell'inquinamento (MARPOL); norme per le attrezzature di lavoro galleggianti.
+- **Nota di cantiere:** Il mare comanda il cantiere: le finestre di posa si prenotano sulle previsioni e si perdono col mare mosso; ogni imprevisto costa giornate intere di noleggio.
+
+### Il clima marino: onde, maree e classificazione ambientale delle opere
+
+**Categoria:** Clima marino · **Corso:** Porti e opere marittime
+
+Le forze del mare che progettano le opere: moto ondoso, maree e la classificazione ambientale dei materiali.
+
+- **Tecnologia e criteri:** Moto ondoso con altezza significativa (Hs) e periodo (Tp) come azioni di progetto; le onde di tempesta con i ritorni di 50-200 anni per le opere portuali; la marea astronomica con gli estremi (sacca di marea nell'Adriatico 0,5-1,5 m, Mediterraneo 0,2-0,4 m); le mareggiate con i transfer functions per la trasmissione oltre i frangiflutti; la corrosione marina accelerata (cicli di marea, salinità, ossigeno) che classifica gli ambienti come C5-M/CX secondo ISO 12944; i materiali per il mare: cls con basso rapporto a/c e copriferro elevato, acciaio con zincatura pesante + duplex o acciai speciali; le biocorrosioni e le incrostazioni; le prove di laboratorio per la resistenza al sale.
+- **Applicazioni:** Ogni opera in mare (porti, dighe, frangiflutti, pontili), le sovrastrutture metalliche marine, i cantieri nautici.
+- **Vantaggi:** Azioni di progetto definite con le serie storiche dei dati ondametrici, materiali selezionati per la durabilità marina, manutenzione programmabile.
+- **Limiti e attenzioni:** La variabilità del clima marino in cambiamento (onde estreme più frequenti), i costi dei materiali marini, il degrado nascosto delle strutture sommerse.
+- **Costi ed economia:** Ordini di grandezza indicativi: premium dei materiali marini +20-60%; ispezioni subacquee 5.000-30.000 €/campaign; cicli di verniciatura duplex ogni 10-20 anni.
+- **Caso tipico:** Strutture portuali con classificazione CX e sistemi duplex; frangiflutti dimensionati sulle onde di ritorno 200 anni.
+- **Normativa:** ISO 12944 (classificazione ambientale e protezione anticorrosiva); norme tecniche per il calcolo delle opere marittime con le azioni ondametriche; linee guida CNR-DT 207/2008 per le costruzioni in zona sismica e ambienti particolari.
+- **Nota di cantiere:** In mare la manutenzione costa il doppio: la zincatura ritoccata male sotto l'acqua si stacca in pezzi; le ispezioni subacquee certificate documentano lo stato prima che la struttura lo dichiari da sola.
+
+### Concessioni demaniali marittime e pratiche per le opere in mare
+
+**Categoria:** Demanio · **Corso:** Porti e opere marittime
+
+La gabbia amministrativa del mare: chi può costruire, dove e con quali autorizzazioni.
+
+- **Tecnologia e criteri:** Demanio marittimo dello Stato e dei porti: concessioni per le opere fisse (banchine, pontili, frangiflutti) con le procedure del Codice della Navigazione; autorizzazioni per le opere temporanee di cantiere (piattaforme, scafi) e per le attività; le concessioni demaniali del demanio marittimo (spiaggia e mare) con i canoni; il rilascio delle aree di cantiere con il ripristino dell'ambiente; gli iter con la Capitaneria di Porto (comando della Guardia Costiera) per le interferenze con la navigazione; le valutazioni ambientali per le opere in mare; la disciplina delle aree marine protette dove le opere sono vietate o limitate.
+- **Applicazioni:** Nuove opere portuali, pontili e piattaforme, cantieri in mare, stabilimenti balneari, opere di difesa costiera.
+- **Vantaggi:** Iter riconoscibili con gli enti chiave (Demani, Capitanerie, ARPA), chiarezza sui limiti delle aree protette, tutela della navigazione con gli accordi operativi.
+- **Limiti e attenzioni:** Iter lunghi e multisoggetto, i canoni demaniali incidono sull'economia, i cambiamenti di destinazione d'uso richiedono varianti, la sensibilità ambientale crescente.
+- **Costi ed economia:** Ordini di grandezza indicativi: i canoni demaniali e le pratiche incidono 1-5% sul costo dell'opera; i tempi di autorizzazione di 6-24 mesi da pianificare.
+- **Caso tipico:** Concessioni portuali pluriennali con gli investimenti di terminalistica; pratiche per i pontili turistici con le autorizzazioni ambientali.
+- **Normativa:** Codice della Navigazione per le acque marittime; normativa demaniale (concessioni, canoni); D.Lgs 152/2006 (valutazioni ambientali e aree marine protette); regolamenti per le attività marittime.
+- **Nota di cantiere:** Il cantiere in mare è un'attività marittima: le comunicazioni alla Capitaneria, le boe di segnalazione e i piani di emergenza anti-inquinamento sono parte del cantiere, non un optional.
+
+### Opere di difesa costiera: frangiflutti, ricariche e arretramento
+
+**Categoria:** Difesa costiera · **Corso:** Porti e opere marittime
+
+Il mare che avanza: la difesa delle coste tra opere dure, ricariche e adattamento.
+
+- **Tecnologia e criteri:** Frangiflutti sommersi ed emergenti in massi (rip-rap) o cls (tetrapodi, X-block, caissons) che dissipano l'energia dell'onda prima della riva; ricariche sabbiosi con rete di sostegno dei profili (geotubi, gabbioni) che reintegrano le spiagge erose; briglie e pennelli costieri (groynes) che trattenono la deriva longitudinale del sedimento; dune artificiali e rinforzo con opere a basso impatto; arretramento gestito (managed retreat) con la rilocazione delle opere vulnerabili; ripristino degli ambienti dunali e delle posidonia come difesa naturale; monitoraggio della linea di costa con rilievi LiDAR e droni.
+- **Applicazioni:** Litorali erosi ad alta densità turistica, coste basse con insediamenti, spiagge balneari da tutelare, porti con sedimentazione dovuta alle opere.
+- **Vantaggi:** Protezione di beni turistici e insediativi, ricostruzione delle spiagge come valore economico, integrazione tra opere dure e gestione del sedimento.
+- **Limiti e attenzioni:** L'erosione si sposta lungo la costa (effetti a scafo), i frangiflutti alterano la dinamica dei litorali, le ricariche sono periodiche e costose, il cambiamento climatico alza il livello marino.
+- **Costi ed economia:** Ordini di grandezza indicativi: frangiflutti sommerso 3.000-10.000 €/m lineare; ricarica sabbiosa 15-50 €/m³ posato; gestione pluriennale del litorale con i piani costieri.
+- **Caso tipico:** Piani di difesa costiera con ricariche sabbiosi dei litorali adriatici; frangiflutti sommersi delle coste turistiche.
+- **Normativa:** Piani di assetto del territorio costiero e normativa sulla fascia demaniale marittima; valutazioni ambientali per le opere in mare (D.Lgs 152/2006); linee guida per la difesa costiera in adattamento al cambiamento climatico.
+- **Nota di cantiere:** La difesa costiera si progetta col moto ondoso di progetto E con la gestione del sedimento dell'intero litorale: l'opera che salva una spiaggia ne uccide un'altra se pensata da sola.
+
+### Dragaggi portuali e gestione dei sedimenti marini
+
+**Categoria:** Dragaggi · **Corso:** Porti e opere marittime
+
+Tenere aperto il canale: dragaggi di manutenzione e di nuovo canale, gestione delle terre emerse.
+
+- **Tecnologia e criteri:** Dragaggi con draghe a cucchiaio (dredging), aspiranti con disgregatore (cutter suction) o a scuotitore (trailing suction hopper dredge); capienze delle draghe da centinaia a decine di migliaia di m³; smaltimento dei materiali dragati: ricollocazione in mare (se inquinamento contenuto), riempimento, realizzazione di aree umide o isole; caratterizzazione dei sedimenti per la destinazione (trace analysis per i metalli pesanti); manutenzione dei canali di accesso con i piani di dragaggio pluriennali; gestione dei materiali contaminati con il confinamento o il trattamento; monitoraggio ambientale durante le operazioni con rilevamento della torbidità.
+- **Applicazioni:** Canali portuali e di accesso, bacini portuali, canali navigabili interni, ripascimento delle spiagge con i sedimenti compatibili.
+- **Vantaggi:** Navigabilità garantita con i piani di manutenzione, disponibilità di materiali per le ricariche (se compatibili), gestione integrata dei sedimenti del sistema portuale.
+- **Limiti e attenzioni:** Costi continui di manutenzione, i sedimenti contaminati vanno caratterizzati e gestiti come rifiuti, l'impatto della torbidità sui prati di posidonia, l'opinione pubblica sensibile.
+- **Costi ed economia:** Ordini di grandezza indicativi: dragaggio di manutenzione 5-20 €/m³; dragaggi con smaltimento 20-80 €/m³ secondo la destinazione; piani pluriennali da decine di migliaia a milioni di euro l'anno.
+- **Caso tipico:** Piani di dragaggio dei porti adriatici con la ricollocazione dei sedimenti; caratterizzazione dei fanghi portuali prima della destinazione.
+- **Normativa:** D.Lgs 152/2006 per la gestione dei sedimenti marini e le destinazioni; normativa sulle acque di scarico e il monitoraggio marino; convenzioni internazionali (Convention of London) per la ricollocazione in mare.
+- **Nota di cantiere:** La destinazione dei sedimenti si decide in laboratorio, non in cantiere: la caratterizzazione prima del dragaggio evita di bloccare i lavori con le analisi.
+
+### Economia portuale e logistica marittima: investimenti e catene del valore
+
+**Categoria:** Economia · **Corso:** Porti e opere marittime
+
+I numeri del porto: investimenti, occupazione e integrazione con la logistica terrestre.
+
+- **Tecnologia e criteri:** Modelli di governance dei porti: autorità di sistema portuale con i bacini portuali; investimenti infrastrutturali pubblici e investimenti terminalistici privati in concessione; le revenue portuali: tasse di ancoraggio, canoni demaniali, concessioni; il collegamento con le reti terrestri (port gates, interporti, connessioni ferroviarie); le externalità: indotto occupazionale e valore del transito; le catene logistiche internazionali con i principali operatori (carrier, terminalisti, spedizionieri); la digitalizzazione: piattaforme Port Community System per la dematerializzazione delle pratiche; la competitività dei porti italiani sulle rotte del Mediterraneo.
+- **Applicazioni:** Piani strategici portuali, valutazioni di investimento terminalistica, dossier di raccordo intermodale.
+- **Vantaggi:** Chiarezza dei modelli di business pubblico-privato, integrazione porto-terra che amplia i bacini di utenza, digitalizzazione che riduce i tempi amministrativi.
+- **Limiti e attenzioni:** La competizione tra porti sullo stesso bacino, gli investimenti infrastrutturali lunghi, le inefficienze dei collegamenti terrestri che penalizzano il porto, la stagionalità di alcuni traffici.
+- **Costi ed economia:** Ordini di grandezza indicativi: investimenti terminalistici 50-500 M€ per gli hub; indotto occupazionale stimato per i porti commerciali da migliaia a decine di migliaia di posti.
+- **Caso tipico:** Riforma delle autorità di sistema portuale con i bacini del nord e del centro-sud; i piani di sviluppo con le connessioni ferroviarie portuali.
+- **Normativa:** Codice della Navigazione e normativa sulle autorità di sistema portuale; D.Lgs 36/2023 per le concessioni e gli appalti; regolamenti UE sulla concorrenza portuale.
+- **Nota di cantiere:** Il porto è un sistema: l'investimento più costoso fallisce se il gate terrestre resta a due corsie; i progetti si valutano con la catena logistica completa.
+
+### Porti turistici e cantieri nautici: darsene, boe e assistenza
+
+**Categoria:** Porti turistici · **Corso:** Porti e opere marittime
+
+La nautica da diporto: porti turistici, cantieri di manutenzione e servizi.
+
+- **Tecnologia e criteri:** Porti turistici con darsene interne riparate, banchine d'ormeggio per imbarcazioni 6-30 m, servizi di banchina (acqua, energia, scarichi); sistemi di ormeggio su boe per i grandi yacht; travel lift e cantieri di manutenzione con rampe di varo; carenaggi con sistemi di raccolta delle acque di scarico e dei residui di sabbiatura (antifouling); sistemi di controllo accessi e servizi igienici; gestione ambientale delle acque di rifiuto nautiche con stazioni di raccolta; pontili galleggianti e passerelle; rifornimento carburante con sistemi antincendio dedicati.
+- **Applicazioni:** Porti turistici dei litorali e delle isole, marina per lo yachting di lusso, cantieri nautici di manutenzione.
+- **Vantaggi:** Ospitalità completa per la nautica con servizi di qualità, manutenzione integrata con l'ormeggio, presidio ambientale dei rifiuti nautici.
+- **Limiti e attenzioni:** Stagionalità del traffico, il fondale dei bassi richiede dragaggi continui, la sabbiatura delle carene è tra le fonti principali di inquinamento da rame e biocidi.
+- **Costi ed economia:** Ordini di grandezza indicativi: posto barca in costruzione 10.000-40.000 € per imbarcazione da 12-18 m; canone annuo 1.500-6.000 €; pontile galleggiante 300-800 €/m lineare.
+- **Caso tipico:** Marine turistiche della costa adriatica e tirrenica con i servizi integrati; cantieri con sistemi di sabbiatura a chiusura e riciclo.
+- **Normativa:** DPR 498/1992 (regolamento di disciplina delle attività marittime di diporto) come quadro; normativa ambientale sulle acque di rifiuto nautiche; autorizzazioni paesaggistiche per le opere in mare.
+- **Nota di cantiere:** La sabbiatura a vista è finita: i cantieri nautici con i sistemi a chiusura e la raccolta dei residui sono l'unico modello conforme e difendibile.
+
+### Porti sostenibili: shore power, elettrodomestici e gestione ambientale dei bacini
+
+**Categoria:** Sostenibilità · **Corso:** Porti e opere marittime
+
+Il futuro del porto: navi altra-ormeggio alimentate da terra, acque pulite e gestione delle risorse.
+
+- **Tecnologia e criteri:** Shore power (Cold Ironing): le navi in banchina si alimentano con l'energia elettrica da terra (onshore power supply) eliminando le emissioni dei generatori di bordo; requisiti tecnici di potenza (0,5-2 MW per nave), connessioni automatiche e standard internazionali; la gestione ambientale dei bacini: raccolta delle acque di rifiuto nautiche, monitoraggio della qualità delle acque, tutela delle praterie di posidonia; i pannelli fotovoltaici su capannoni portuali e le colonnine per le auto; l'idrogeno e i combustibili marini alternativi (metanolo, ammoniaca) nelle fasi di sperimentazione; le certificazioni ambientali dei porti (ECOPORTS) e i piani di gestione ambientale; la gestione dei rifiuti portuali e la rigenerazione dei sedimenti.
+- **Applicazioni:** Porti con bacini urbani vicini, terminal crociere con le grandi navi, porti in aree sensibili ambientalmente.
+- **Vantaggi:** Riduzione immediata delle emissioni in banchina (NOx, SOx, PM), immagine ambientale del porto, conformità alle normative UE sulle emissioni marittime in anticipo.
+- **Limiti e attenzioni:** Investimenti elettrici pesanti, standard tecnici in evoluzione (connessioni diverse per le flotte), il costo dell'energia, la disponibilità dei combustibili alternativi ancora limitata.
+- **Costi ed economia:** Ordini di grandezza indicativi: impianto shore power per postazione 0,5-3 M€; il premio del metanolo verde 2-4 volte il MDO; FV portuali 600-1.000 €/kWp installato.
+- **Caso tipico:** Porti con shore power operativo per le crociere; i progetti UE di combustibili marini alternativi nei porti del nord Europa.
+- **Normativa:** Normativa UE sulle emissioni marittime (sulphur directive) e sugli obblighi di shore power; regolamenti IMO sulle emissioni delle navi; la normativa ambientale dei bacini portuali.
+- **Nota di cantiere:** Lo shore power cambia il quadro elettrico del porto: i sottostazioni, i cavidotti e la gestione delle potenze di punta vanno dimensionati prima di installare la prima banchina elettrificata.
+
+### Dighe foranee, moli e banchine portuali
+
+**Categoria:** Strutture portuali · **Corso:** Porti e opere marittime
+
+L'ossatura del porto: le opere di riparo e gli attracchi delle navi.
+
+- **Tecnologia e criteri:** Dighe foranee in cls a cassoni o in massi (tetrapodi, accropodi) che proteggono il bacino dall'onda; moli in cls con banchine d'attracco dotate di cuscinetti fenders (fenditori) e bollards (gallocce) con capacità 10-150 t; banchine a dente per il Ro-Ro con rampe e pontili mobili; strutture d'attracco per navi portacontainer con portata su pila e distanze per le gru; altezza d'attracco calcolata sui dislivelli di marea; correnti e sedimentazione nel bacino; sistemi di ancoraggio e boe per i grandi fondali; manutenzione dei fenders e dei rivestimenti.
+- **Applicazioni:** Porti commerciali, terminal container, porti Ro-Ro passeggeri e traghetti, porti industriali.
+- **Vantaggi:** Riparo garantito per le operazioni di carico in sicurezza, attracchi dimensionati per le flotte di progetto, durabilità delle strutture marine con le protezioni corrette.
+- **Limiti e attenzioni:** Sedimentazione continua che richiede dragaggi, aggressione marina del cls e dell'acciaio, i cuscinetti fenders vanno sostituiti periodicamente.
+- **Costi ed economia:** Ordini di grandezza indicativi: diga foranea 10.000-30.000 €/m lineare; banchina commerciale 5.000-20.000 €/m lineare; manutenzione fenders 5-10% del valore installato ogni 5-10 anni.
+- **Caso tipico:** Digue foranee dei porti commerciali mediterranei realizzate a cassoni; ammodernamento delle banchine dei porti container.
+- **Normativa:** Normativa sulle concessioni demaniali marittime; classificazione ambientale marina per i materiali (ISO 12944 e specifiche marine); norme per gli appalti portuali e le opere marittime.
+- **Nota di cantiere:** La banchina si collauda in mare: i carichi di ormeggio di prova e l'ispezione subacquea con sonar e immersioni certificate chiudono la commessa.
+
+### Terminal container, Ro-Ro e piattaforme logistiche portuali
+
+**Categoria:** Terminalistica · **Corso:** Porti e opere marittime
+
+L'interfaccia nave-terra: terminal a contenitori, rotabili e la logistica del porto.
+
+- **Tecnologia e criteri:** Terminal container con banchine servite da gru portuali (Ship-to-Shore cranes, portata 40-100 t in spreader), piazzali con RTG (Rubber Tyred Gantry) o gru a portale su rotaia; movimentazione dei container con reach stacker e carrelli elevatori; terminal Ro-Ro con rampe a ponte mobile, piazzali di stoccaggio dei rimorchi, gates per l'imbarco dei passeggeri; connessioni ferroviarie portuali con binari di presa e stazioni di smistamento; depositi doganali e aree per le merci pericolose; sistemi informativi terminal (TOS, Terminal Operating System) per la gestione dei movimenti; sicurezza delle operazioni con i piani ISPS (International Ship and Port Facility Security).
+- **Applicazioni:** Porti gateway del traffico internazionale, hub del Mediterraneo, porti Ro-Ro dell'Adriatico, terminal intermodali.
+- **Vantaggi:** Velocità di movimentazione che riduce i tempi nave in porto, integrazione modale che allarga il bacino, efficienza con i sistemi informativi di terminal.
+- **Limiti e attenzioni:** Investimenti in attrezzature elevati, la produttività dipende dall'integrazione delle fasi, i colli di bottiglia nei gate e nei trasporti interni, la sicurezza ISPS impone procedure rigide.
+- **Costi ed economia:** Ordini di grandezza indicativi: gru STS 8-20 M€ l'una; RTG 1-3 M€; piazzale portuale 50-150 €/m²; produttività di riferimento 20-40 movimenti/ora per gru.
+- **Caso tipico:** Terminal container dei porti del nord Europa e mediterranei; piattaforme Ro-Ro adriatiche con i collegamenti con la Grecia e la Turchia.
+- **Normativa:** Codice ISPS (convenzione IMO SOLAS XI-2) per la sicurezza portuale; standard internazionali per le attrezzature portuali; regolamenti UE sulla sicurezza delle operazioni portuali.
+- **Nota di cantiere:** Il terminalista lavora 24/7: i cantieri di ampliamento si fanno per fasi con la ricollocazione dei piazzali; ogni modifica agli assi di movimentazione si simula prima con il TOS.
 

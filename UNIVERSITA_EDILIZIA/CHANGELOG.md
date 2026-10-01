@@ -193,3 +193,15 @@ Contenuto: 3 corsi nuovi (edilizia agricola e zootecnica; gestione condominiale;
 | M2 | Precauzione applicata | Norme con scadenze o dettagli che cambiano (parametri, prezziari, regole incentivi) citate con richiamo alla verifica vigente | Regola del protocollo: senza fonte, nessuna numerazione precisa |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.
+
+## Giro N — 2026-10-01, bozza post-v1.1.0 (verso v1.2, NESSUN tag applicato)
+
+Contenuto: 3 corsi nuovi (aeroporti e infrastrutture di volo; porti e opere marittime; emergenze e ricostruzione post-sisma), 31 schede, 3 esami da 250 domande. Rettifica del totale del giro M (905 -> 870 schede, errore di somma nel registro).
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| N1 | Solo aggiunte, nessuna correzione | Contenuti classici verificabili: aviazione (Reg. UE 139/2014, standard ICAO Allegati 10 e 14, Reg. UE 300/2008, RefuelEU, CORSIA), marittimo (convenzione SOLAS XI-2 ISPS, MARPOL, DPR 498/1992, ISO 12944, CNR-DT 207/2008 gia' citato), emergenze (D.Lgs 1/2018, schede AeDES e aggiornamenti, standard INSARAG). Costi marcati «Ordini di grandezza indicativi» | Coerenza interna + testi normativi consolidati citati per esteso nelle schede |
+| N2 | Rettifica registro | INDEX giro M: totale schede corretto da 905 a 870 (errore di addizione, nessuna modifica alle schede) | Conteggio diretto delle righe schede.jsonl |
+| N3 | Precauzione applicata | Numeri che variano per evento o commissario (contributi ricostruzione, premi di urgenza) citati con rimando alle delibere vigenti | Regola del protocollo: senza fonte, nessuna numerazione precisa |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.

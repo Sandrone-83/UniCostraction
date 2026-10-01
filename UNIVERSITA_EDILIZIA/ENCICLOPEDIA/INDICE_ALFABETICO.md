@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1032 voci enciclopediche tratte da 64 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1063 voci enciclopediche tratte da 67 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -43,6 +43,8 @@
   Schiuma PU bicomponente che espande e aderisce: fissaggio e isolamento in un colpo: per pannelli, cassonetti e coibentazioni.
 - **Aerogel** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Gel di silice essiccato: l'isolante solido più leggero e performante al mondo.
+- **Aeroporti sostenibili: elettrificazione, SAF e gestione delle risorse** — Innovazione · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  Il futuro dello scalo: voli meno impattanti, energia propria e gestione delle acque.
 - **Agibilità e certificazioni degli impianti sportivi** — Normativa e certificazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Un impianto sportivo può essere aperto al pubblico solo con le autorizzazioni dovute: agibilità statica e alle attività sportive, conformità antincendio dove richiesta, idoneità delle superfici di gioco e delle attrezzat…
 - **Agrivoltaico in Italia: il percorso degli incentivi dal DM 436/2023 al 2026** — Agrivoltaico incentivi · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -111,6 +113,8 @@
   La perizia periodica e la due diligence tecnica: lo stato di salute dell'edificio.
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
+- **Aviazione generale, eliporti e aviazione leggera: infrastrutture minime** — Aviazione leggera · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  La coda lunga del volo: aviosuperfici, eliporti e aeroporti minori.
 
 ## B
 - **B&B, affitti brevi, ricariche auto e i nuovi conflitti condominiali** — Vita quotidiana · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
@@ -179,8 +183,12 @@
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
+- **Cantieri marittimi: navi-cantiere, piattaforme e lavorazioni subacquee** — Cantieri marini · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  Come si costruisce in mare: le tecniche, le imbarcazioni e la sicurezza del cantiere marino.
 - **Cantine e stabilimenti vinicoli: edilizia e processo** — Cantine · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   Costruire dove si trasforma l'uva: cantine con vinificazione, barriques e stabilimenti imbottigliamento.
+- **Cargo aeroportuale, hub di merci e logistica integrata** — Cargo · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  L'aeroporto come piattaforma logistica: terminal merci, frigo e intermodalità.
 - **Carpenteria metallica leggera per costruzioni a secco** — Carpenteria leggera · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Profili sottili zincati per contropareti, contropavimenti, tetti e strutture leggere.
 - **Carta da parati e rivestimenti murali** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -251,6 +259,8 @@
   Come si compone un progetto: asse, simmetria, gerarchia, contrasto, scala.
 - **Computer vision e AI per la sicurezza di cantiere** — AI vision · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Telecamere intelligenti che rilevano DPI mancanti, zone pericolo e vicinanza a mezzi.
+- **Concessioni demaniali marittime e pratiche per le opere in mare** — Demanio · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  La gabbia amministrativa del mare: chi può costruire, dove e con quali autorizzazioni.
 - **Condensa e muffa negli edifici esistenti: diagnosi e cure** — Muffa · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   La muffa nei punti freddi del muro è quasi sempre condensa: l'aria umida degli ambienti tocca la superficie sotto la temperatura di rugiada e l'acqua compare dal nulla. Capire se il fenomeno è superficiale (ponte termico…
 - **Conglomerato bituminoso** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -327,6 +337,8 @@
   La diga più antica: il peso del cls che resiste alla spinta dell'acqua.
 - **Dighe ad arco e a cupola** — Tipi di diga · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   La diga sottile che scarica le spinte sulla roccia delle sponde: l'arco e la cupola.
+- **Dighe foranee, moli e banchine portuali** — Strutture portuali · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  L'ossatura del porto: le opere di riparo e gli attracchi delle navi.
 - **Dighe, invasi e opere di presa** — Opere idrauliche · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Digital twin e gestione: il modello dopo il cantiere** — Digital twin · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -349,6 +361,8 @@
   La casa che aiuta: monitoraggio non invasivo di anziani, sicurezza, teleassistenza.
 - **Dove trovare i CAD e i modelli 3D open delle opere famose** — Risorse CAD · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   La mappa dei repositori con disegni, modelli e scansioni dei capolavori del costruito.
+- **Dragaggi portuali e gestione dei sedimenti marini** — Dragaggi · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  Tenere aperto il canale: dragaggi di manutenzione e di nuovo canale, gestione delle terre emerse.
 - **Drenaggi e acque meteoriche: caditoie, tombini e convogliamento** — Idraulica — drenaggi · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   La gestione delle acque meteoriche superficiali protegge fondazioni, seminterrati e viabilità dal ristagno. Il sistema raccoglie con caditoie e canali, convoglia con tubazioni a pendenza controllata e, dove richiesto, in…
 - **Drone LiDAR e rilievo boschi/infrastrutture** — Droni · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -361,6 +375,8 @@
   Rilievo 3D da drone con foto georiferite per mappatura di cantiere e patrimonio.
 
 ## E
+- **Economia aeroportuale: investimenti, revenue e modelli di gestione** — Economia · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  I numeri dello scalo: come si finanzia un aeroporto e da cosa vive.
 - **Economia degli impianti sportivi: costruzione, gestione, affitto e sponsor** — Economia · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   L'impianto sportivo è un'impresa con un bilancio: costi di costruzione, costi di gestione annui, ricavi da affitti, abbonamenti, eventi, sponsor e contributi pubblici. Chi progetta deve pensare al modello economico prima…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
@@ -371,14 +387,20 @@
   Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Quando la robotica ripaga: il quadro economico realistico.
+- **Economia portuale e logistica marittima: investimenti e catene del valore** — Economia · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  I numeri del porto: investimenti, occupazione e integrazione con la logistica terrestre.
 - **Edilizia residenziale pubblica e housing sociale** — Edilizia pubblica · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   L'edilizia pubblica abitativa è tornata centrale: ERP (edilizia residenziale pubblica) con assegnazione a canone calmierato, housing sociale (bandi regionali e nazionali con risorse PNRR), riqualificazione del patrimonio…
 - **Edilizia rurale e vincoli: costruire nel paesaggio agricolo** — Ambiente · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   Le regole del costruire in campagna: fabbricati rurali, vincoli paesaggistici e pratiche semplificate.
+- **Edilizia temporanea di emergenza: SAE, map e soluzioni rapide** — Temporaneo · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Le case di emergenza: moduli abitativi, container e i villaggi della ricostruzione.
 - **Elementi per solai latero-cementizi** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocchi in laterizio o polistirolo da interporsi tra i nervature dei solai: alleggeriscono e collaborano.
 - **Elettrificazione ferroviaria: 3 kV DC e 25 kV AC** — Elettrificazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Sistemi di alimentazione elettrica dei treni sulla rete italiana e sulle linee AV.
+- **Emergenze idrauliche e alluvioni: risposta, ricostruzione e adattamento** — Alluvioni · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  La risposta alle alluvioni: soccorso, ripristino e la ricostruzione che tiene conto dell'acqua.
 - **EPgl,nren e edificio di riferimento: le verifiche energetiche** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La verifica energetica di legge confronta l'indice di prestazione energetica globale non rinnovabile EPgl,nren (kWh/m² anno) dell'edificio progettato con quello dell'edificio di riferimento e con i limiti per zona climat…
 - **EPS grafite** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -465,6 +487,8 @@
   L'impresa edile vive di rischi: il mestiere dell'imprenditore è selezionarli, prezzarli e assicurarli; i rischi principali: contenziosi (vizi, ritardi, varianti), infortuni e danni a terzi, insolvenze dei committenti, os…
 - **Gestione dell'emergenza: PEI, addestramento, evacuazione** — Gestione emergenza · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   La gestione dell'emergenza è la parte 'umana' della prevenzione: Piano di Emergenza Interno (PEI) con procedure, ruoli (addetti alle emergenze e prime evacuazione), planimetrie con percorsi e presidi, addestramento annua…
+- **Gestione e certificazione dell'aeroporto: ENAC, EASA e sicurezza operativa** — Gestione scalo · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  Il quadro regolatorio e gestionale dello scalo: certificazione, SMS e piano aeroportuale.
 - **Gestione energetica e load control** — Energia · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Monitorare e gestire i carichi elettrici: produzione FV, consumi, priorità, wallbox.
 - **Gestione illuminazione avanzata** — Illuminazione smart · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -707,6 +731,8 @@
   Il cedimento di una fondazione è accettabile se uniforme; ciò che danneggia le costruzioni è il cedimento differenziale, che flette e taglia le strutture. Si distinguono cedimenti totali, differenziali e angolari, con li…
 - **Il cliente consumatore in edilizia: diritti e doveri** — Consumatore · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   Quando il committente è un consumatore (famiglia, persona fisica per uso personale) si applica il codice del consumo (D.Lgs 206/2005): divieto di clausole vessatorie, obbligo di chiarezza contrattuale, responsabilità per…
+- **Il clima marino: onde, maree e classificazione ambientale delle opere** — Clima marino · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  Le forze del mare che progettano le opere: moto ondoso, maree e la classificazione ambientale dei materiali.
 - **Il cls armato in formule: trave e pilastro semplificati** — Calcestruzzo armato · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule pratiche del dimensionamento rapido in c.a.
 - **Il CMMS e la digitalizzazione della manutenzione: ticket, storico e GMAO** — Digitalizzazione · corso: *Facility management e manutenzione programmata* (`FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK`)
@@ -909,6 +935,8 @@
   La figura chiave: cosa deve fare l'amministratore e dove risponde dei danni.
 - **Il sistema costruttivo a prefabbricati: logica e campi d'impiego** — Sistema costruttivo · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   L'industrializzazione dell'edilizia: elementi prodotti in stabilimento e assemblati in cantiere.
+- **Il sistema della protezione civile: ruoli, livelli e codice** — Protezione civile · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Come l'Italia organizza l'emergenza: il codice della protezione civile e la catena del comando.
 - **Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda introduttiva che inquadra il carico fiscale complessivo dell'impresa edile: imposte dirette sui redditi d'impresa (IRES), imposta regionale sulle attività produttive (IRAP), imposta sul valore aggiunto (IVA) con l…
 - **Il sottotetto ventilato: la regola d'oro del tetto in legno** — Coperture inclinate · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -1181,6 +1209,8 @@
   La matematica del 'mille volte leggero vale una volta forte': ponti, gru, macchine.
 - **La filiera del cantiere di restauro** — Organizzazione di cantiere · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   Il cantiere di restauro è organizzato per fasi consecutive: sopralluogo e diagnostica, messa in sicurezza, ponteggi a norma, definizione delle lavorazioni e delle maestranze specializzate, collaudo e consegna. Ogni fase …
+- **La filiera della ricostruzione: cantieri diffusi, personale e logistica** — Filiera · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  L'industria della ricostruzione: come migliaia di cantieri piccoli diventano un sistema produttivo.
 - **La fiscalità del personale: dipendenti, somministrazione, voucher e appalti interni** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sull'impatto fiscale e contributivo delle diverse forme di utilizzo del lavoro nell'impresa edile: lavoro dipendente a tempo indeterminato e a termine, somministrazione a tempo determinato, lavoro accessorio (vouc…
 - **La fonometria ambientale: classi acustiche e limiti di zona** — Ambiente · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
@@ -1263,6 +1293,8 @@
   I locali tecnici concentrano energia e combustibili: centrali termiche con gas e combustibili liquidi, pozzi luce con quadri elettrici, locali di ricarica dei veicoli elettrici. Ognuno ha il suo quadro di prevenzione spe…
 - **La prevenzione incendi: quadro normativo e logica** — Quadro · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   La prevenzione incendi italiana si basa sul D.M. 03/08/2015 (norme tecniche di prevenzione incendi): le attività sono classificate per livello di rischio (basso, medio, alto) e conseguente regime (SCIA antincendio, autor…
+- **La prevenzione strutturale: piani di emergenza aziendali e ruolo delle imprese** — Prevenzione · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  L'impresa come soggetto di prevenzione: piani aziendali, continuità operativa e il ruolo nelle emergenze.
 - **La produzione: pianificazione e gestione del cantiere come impresa** — Produzione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   Il cantiere è una fabbrica temporanea: va pianificato come produzione (sequenze, risorse, consegne materiali), non amministrato come successione di emergenze; il capocantiere è il primo manager dell'impresa.
 - **La professione dell'architetto: esame di stato, albo, responsabilità** — Normativa architetti · corso: *Architettura* (`ARCHITETTURA_PACK`)
@@ -1283,6 +1315,12 @@
   L'art. 1669 c.c. (responsabilità del costruttore e dell'impresa) prescrive: se entro 10 anni (decennale) l'immobile mostra vizi o crolli per difetto della costruzione o del terreno, il costruttore è tenuto al risarciment…
 - **La rete gas domestica: dal contatore ai punti di utilizzo** — Impianti a gas · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   La rete interna di distribuzione del gas porta il combustibile dal contatore alle utenze (caldaia, cucina, scaldabagno) con criteri di sicurezza molto stringenti: camere stagne sugli apparecchi a fiamma libera, valvole d…
+- **La ricostruzione come rilancio: rigenerazione urbana, sociale ed economica** — Benessere · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Dopo le macerie: la ricostruzione come opportunità di rinascita dei territori.
+- **La ricostruzione privata dopo il sisma: flussi, contributi e iter** — Ricostruzione privata · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Come si ricostruiscono le case: contributi, ricostruzione agevolata e la filiera dei cantieri post-sisma.
+- **La ricostruzione pubblica: scuole, ospedali e opere strategiche** — Ricostruzione pubblica · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Il cantiere della ripresa pubblica: come si ricostruiscono le opere essenziali dopo il sisma.
 - **La rivelazione e l'allarme: rivelatori indirizzati e centrale di controllo** — Rivelazione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   Sapere subito dove è il fuoco cambia tutto: i sistemi di rivelazione indirizzati dicono la posizione esatta dell'allarme alla centrale, ai soccorsi e al personale. La scelta del tipo di rivelatore (fumo, calore, fiamma, …
 - **La Sagrada Familia (1882-in costruzione): il cantiere eterno** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -1363,6 +1401,8 @@
   La finitura superficiale determina aspetto, scivolosità e resistenza della pietra: dalla superficie segata grezza alla lucidatura a specchio, passando per levigatura, bocciardatura, fiammatura e spazzolatura. Ogni proces…
 - **Lavori alle parti comuni: facciate, tetti e cappotto condominiale** — Lavori comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   Il cantiere condominiale: ristrutturare parti comuni con la delibera giusta e la sicurezza di cantiere.
+- **Lavori in aeroporto in esercizio: coordinamento, sicurezza e finestre operative** — Interventi · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  Costruire mentre gli aerei volano: i cantieri nello scalo operativo.
 - **Lavori in quota: cadute dall'alto, DPI anticaduta e linee vita** — Lavori in quota · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   La caduta dall'alto resta una delle cause principali di infortunio mortale in edilizia: banchetti di copertura, scale, scalette, mezzi di sollevamento e lavori su ponteggi o piattaforme sono le sedi tipiche. La prevenzio…
 - **Layout robotizzato dal modello BIM** — BIM-to-Robot · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1469,6 +1509,8 @@
   Le porte sono funzione e sicurezza: interne (legno, vetro, laminato), blindate (sicurezza abitativa), tagliafuoco REI (compartimentazione), automatiche (flussi pubblici), scorrevoli (risparmio spazio); ogni tipologia ha …
 - **Le pratiche per il recupero edilizio: CILA, SCIA, edilizia libera e detrazioni** — Agevolazioni · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Il recupero edilizio ha un percorso burocratico dedicato più rapido del nuovo: molti interventi di manutenzione straordinaria sono CILA o SCIA, alcuni manutenzioni ordinarie pure. Conoscere la mappa delle pratiche evita …
+- **Le prime 72 ore dopo il sisma: ricerca, soccorso e messa in sicurezza** — Prima fase · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  La fase dorata del soccorso: USAR, esercitazioni e la logistica dell'emergenza.
 - **Le procedure edilizie: CILA, SCIA, Permesso di costruire** — Procedure · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Il titolo abilitativo dipende dall'intervento: Permesso di costruire (opere nuove, ristrutturazioni che aumentano il volume/superficie utilizzando l'edificabilità residua), SCIA (opere di ristrutturazione ordinaria senza…
 - **Le proiezioni ortogonali: il metodo di Monge** — Proiezioni · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -1631,6 +1673,8 @@
   Rivestimento liquido poliuretanico o acrilico che polimerizza formando una membrana continua senza giunti.
 - **Mense e cucine scolastiche: requisiti igienico-sanitari e flussi** — Servizi di ristorazione · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   La mensa scolastica richiede una progettazione che garantisca la sicurezza alimentare, la fluidità dei pasti e il comfort degli alunni durante i pasti. Le cucine scolastiche sono ambienti di produzione alimentare soggett…
+- **Messa in sicurezza e prevenzione del costruito sismico** — Messa in sicurezza · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Prevenire invece che curare: il piano nazionale di messa in sicurezza e le schede di valutazione.
 - **Metodi digitali di cantiere: 4D, machine control e gemelli digitali** — Digitalizzazione cantieri · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Come la digitalizzazione cambia i metodi costruttivi: dalla simulazione delle fasi al controllo macchine.
 - **Metodo NATM (scavo tradizionale ad avanzamento ridotto) in galleria** — Scavo convenzionale · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -1667,6 +1711,8 @@
   Come rendere conforme un cantiere con robot e macchine automatizzate.
 
 ## O
+- **Opere di difesa costiera: frangiflutti, ricariche e arretramento** — Difesa costiera · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  Il mare che avanza: la difesa delle coste tra opere dure, ricariche e adattamento.
 - **Opere di presa, scarichi e dissipatori** — Opere di presa · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   L'apparato che regola l'acqua: prese, scarichi di superficie e di fondo, energodissipatori.
 - **Opere di sistemazione agraria: muri a secco e terrazzamenti** — Opere di sistemazione · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -1733,6 +1779,8 @@
   Il progettista sceglie oggi tra pietra naturale, agglomerati di quarzo e marmo, gres porcellanato e riconglomerati (breccia, seminato alla veneziana, terrazzo veneziano). Ogni materiale ha il suo campo di vittoria; conos…
 - **Pietre per pavimentazioni esterne: scivolosità, spessori e posa su letto** — Applicazioni - pavimentazioni esterne · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   La pavimentazione esterna in pietra naturale richiede il giusto abbinamento tra pietra, finitura antiscivolo, spessore e tipo di posa. Gli errori più costosi nascono quasi sempre da spessori insufficienti o da superfici …
+- **Piste aeroportuali: geometria, pavimentazioni e portanza** — Piste · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  La piastra di volo: dimensionamento, pavimentazioni in cls e flessibili, il sistema ACN/PCN.
 - **Pittura al quarzo** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pittura con inerti di quarzo: riempie microfessure e durevole: la finitura dei condomini e delle pareti esterne.
 - **Pittura intumescente** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1755,6 +1803,8 @@
   Il cuore che muove l'acqua nei circuiti chiusi.
 - **Ponti e grandi strutture metalliche** — Grandi strutture · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Cenni tecnici sulle grandi strutture di acciaio: forme, cantiere e fatica.
+- **Ponti e strutture provvisorie d'emergenza** — Strutture provvisorie · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
+  Ricostruire i collegamenti in giorni: ponti Bailey, passerelle e opere di emergenza.
 - **Ponti: tipologie e scelta della struttura** — Ponti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Attraversare l'ostacolo: la storia e la tecnologia del ponte.
 - **Poroton (argilla forata ad alta isolazione)** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1765,6 +1815,10 @@
   Barriere fisiche al fuoco: porte REI 60-120, pareti, serrande, vetri tagliafuoco.
 - **Porte, chiusure e dispositivi di sicurezza dell'impianto verticale** — Porte e sicurezza · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
   Le porte sono l'elemento più usato e più pericoloso dell'impianto: migliaia di cicli all'anno, contatti con utenti distratti, bambini e carichi. La sicurezza delle porte è fatta di dispositivi ridondanti e di manutenzion…
+- **Porti sostenibili: shore power, elettrodomestici e gestione ambientale dei bacini** — Sostenibilità · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  Il futuro del porto: navi altra-ormeggio alimentate da terra, acque pulite e gestione delle risorse.
+- **Porti turistici e cantieri nautici: darsene, boe e assistenza** — Porti turistici · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  La nautica da diporto: porti turistici, cantieri di manutenzione e servizi.
 - **Portone blindato** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Porta d'ingresso con struttura antieffrazione, serrature multiple e rivestimenti.
 - **Posa del pacchetto di copertura ventilata a falda** — Coperture · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -1893,6 +1947,8 @@
   Piattaforme software open per comandare robot eterogenei in cantiere.
 - **Rubinetteria e miscelatori** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rubinetti, miscelatori, termostatiche e doccioni: il punto di contatto con l'acqua.
+- **Rumore aeroportuale, ostacoli al volo e compatibilità territoriale** — Ambientale · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  L'aeroporto e il territorio: mappe di rumore, zone di rispetto e piani di mitigazione.
 - **Rumore tra unità, decoro delle parti comuni e qualità della vita** — Acustica e decoro · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   Il condominio come ambiente di vita: acustica, decoro e gestione dei disturbi.
 
@@ -1927,6 +1983,8 @@
   La programmazione comportamentale: 'cinema', 'benvenuto', 'notte', 'emergenza'.
 - **Segnalamento ferroviario: ETCS/ERTMS e SCMT** — Segnalamento · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Sistemi di controllo e protezione automatica della marcia dei treni e distanziamento.
+- **Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea** — Segnaletica · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  Come gli aeroplani trovano la pista: ILS, luci di avvicinamento, balisaggi e torri.
 - **Sensoristica domotica** — Sensori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Gli occhi dell'impianto: presenza, movimento, luce, temperatura, umidità, CO2, qualità aria.
 - **Serbatoi e opere di contenimento** — Serbatoi · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -2021,6 +2079,10 @@
   Il quadro di tendenza corrente: ritorno al caldo (legno, ottone, tessuti naturali, colori terra) contro il decennio del grigio freddo; sostenibilità visibile (materiali riciclati mostrati, non nascosti — il mattone recup…
 - **Teoria dell'architettura: lo spazio come materia** — Teoria · corso: *Architettura* (`ARCHITETTURA_PACK`)
   I concetti con cui si giudica un'opera architettonica: spazio, luce, materia, misura.
+- **Terminal container, Ro-Ro e piattaforme logistiche portuali** — Terminalistica · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
+  L'interfaccia nave-terra: terminal a contenitori, rotabili e la logistica del porto.
+- **Terminal passeggeri: architetture, flussi e standard di servizio** — Terminal · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
+  L'edificio dell'aeroporto: progettazione dei flussi passeggeri, sicurezza e standard IATA.
 - **Termoregolazione intelligente** — Clima smart · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Controllo climatizzazione per zone con presenza, finestre aperte, apprendimento orari.
 - **Terreno alleggerito (argilla espansa)** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
