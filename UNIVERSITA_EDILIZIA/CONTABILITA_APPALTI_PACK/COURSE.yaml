@@ -1,0 +1,9 @@
+corso: "Contabilità, computo e appalti dei lavori"
+facolta: "FACOLTA_GESTIONE_SISTEMA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 36/2023, DPR 207/2010, D.Lgs 81/2008, prassi contrattualistica italiana"
+nota_metodologica: "Lato tecnico-economico della gestione dei contratti di lavori: strumenti (computo, capitolato, SAL, varianti, collaudi), ruoli e responsabilità. Complementare a LEGISLAZIONE_PRIVATA_EDILIZIA_PACK che copre il diritto privato. Norme citate solo dove certe."
