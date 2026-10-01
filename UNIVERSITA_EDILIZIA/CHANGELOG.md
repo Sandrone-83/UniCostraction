@@ -171,3 +171,14 @@ Contenuto: 3 corsi nuovi (trasporti ferroviari e stazioni; rinnovabili idriche, 
 |---|---|---|---|
 | K1 | Solo aggiunte, nessuna correzione | Nessuna scheda esistente modificata: contenuti classici verificabili (norme UNI EN consolidate: 10025, 10346, 14399, 1090, 13381, ISO 5817, ISO 12944, EN 1993; quadro ferroviario: D.Lgs 264/2008, reg. CE 352/2009; geotermia: D.Lgs 145/2013; combustibili: UNI EN ISO 17225). Costi marcati «Ordini di grandezza indicativi»; incentivi rimandati alle schede verificate del Giro J con regola di verifica annuale | Coerenza interna + testi normativi consolidati citati per esteso nelle schede |
 | K2 | Esami nuovi | FERROVIE, RINNOVABILI_IDRO, CARPENTERIA: 750 domande con distrattori solo dal pack della domanda | Controllo interno |
+
+## Giro L — 2026-10-01, bozza post-v1.1.0 (verso v1.2, NESSUN tag applicato)
+
+Contenuto: 3 corsi nuovi (metodi costruttivi avanzati; prefabbricazione industrializzata; perizie, stime e assicurazioni), 35 schede, 3 esami da 250 domande.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| L1 | Solo aggiunte, nessuna correzione | Contenuti classici verificabili: metodi costruttivi e norme geotecniche consolidate (UNI EN 1536, 1538, 12716, 14199, 12812; Eurocodice 7), prefabbricazione (UNI EN 13369, 14992, 1168, 13225, 10219; Eurocodice 4), perizie (artt. 61 ss. e 84 ss. c.p.c., artt. 1667-1669 c.c., D.L. 223/2006, art. 8 D.Lgs 102/2014, Titolo IX DPR 380/2001). Costi marcati «Ordini di grandezza indicativi» | Coerenza interna + testi normativi consolidati citati per esteso nelle schede |
+| L2 | Precauzione applicata | Riferimenti normativi il cui aggiornamento e' periodico (parametri forensi, prezzari, schede AeDES) citati in forma prudente senza numerazione puntuali non verificabili oggi | Regola del protocollo: senza fonte, nessuna numerazione precisa |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.

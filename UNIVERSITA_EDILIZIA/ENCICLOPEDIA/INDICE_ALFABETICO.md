@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-963 voci enciclopediche tratte da 58 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+998 voci enciclopediche tratte da 61 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -91,12 +91,16 @@
   L'abbattimento barriere verticali si fa con ascensori (obbligatori sopra certi piani/attività), piattaforme elevatrici (per dislivelli ridotti e carichi limitati) e montacarichi; gli impianti sono sottoposti a regole pre…
 - **Assemblaggi bullonati: sistemi HR e svolgimento A/B/C** — Assemblaggi · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   I collegamenti a bullone ad alta resistenza: precarico, superfici e calcolo.
+- **Assicurazioni del cantiere: CAR, postuma e tutela legale** — Assicurazioni · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Il sistema assicurativo che copre il cantiere durante e dopo i lavori.
 - **Assonometrie, prospettive e resa del progetto** — Assonometrie e prospettive · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Mentre le viste ortogonali danno le misure, assonometrie (isometrica, dimetrica) e prospettive (a un/due/tre punti di fuga) danno la comprensione spaziale e comunicativa: servono al cliente, non al posatore.
 - **Attuatori domotici** — Attuatori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Le mani dell'impianto: relè, dimmer, motori, valvole, attuatori multifunzione.
 - **AUC e GAC: l'autoconsumo collettivo in edificio e i gruppi di autoconsumo** — Autoconsumo collettivo · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Non tutto l'autoconsumo collettivo è una CER: l'AUC condivide energia dentro un edificio o un complesso, i GAC aggregano consumatori e produttori senza forma giuridica piena. Le regole e i vantaggi differiscono in modo p…
+- **Audit tecnico di edifici in esercizio e pre-acquisto** — Esercizio · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  La perizia periodica e la due diligence tecnica: lo stato di salute dell'edificio.
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
 
@@ -171,6 +175,8 @@
   Carte, vinilici e tessuti da parete: finitura decorativa e protettiva.
 - **Casseforme e disarmo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Allestimento, puntellamento e rimozione dei casseri per getti verticali e orizzontali. Errore tipico: disarmo anticipato con struttura non ancora resistente, o casseri non a tenuta che perdono boiacca; controllo: verific…
+- **Casseforme e opere gettate in loco: tecnologie e cedimenti** — Casseforme · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Il cassero come tecnologia: casseri tradizionali, a telaio scorrevole, a perdere e autocarranti.
 - **Cavi elettrici** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Cavi in rame isolati in PVC o gomma: la vena dell'impianto elettrico.
 - **Cavi speciali (dati, TV, domotica)** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -191,6 +197,8 @@
   Legante prodotto dalla calcinazione di calcare e argilla: il legante moderno per eccellenza: presa rapida e alta resistenza.
 - **Cenni alle tecnologie di trattamento: biopile, venting, sparging, soil washing, solidificazione** — Tecnologie · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   Dietro le strategie di bonifica stanno tecnologie concrete, ciascuna con un campo d'impiego, prestazioni e limiti onesti. Il bioventing e l'air sparging trattano idrocarburi nelle fasi non acquose e disciolte; il soil wa…
+- **Centri di prefabbricazione: stabilimenti e cicli di produzione** — Centri di produzione · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  Dentro lo stabilimento: stampi, cicli, controllo qualità e marcatura.
 - **CER e autoconsumo collettivo: l'energia condivisa** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Le Comunità Energetiche Rinnovabili (CER) e le configurazioni di autoconsumo collettivo permettono a più soggetti di condividere impianti rinnovabili e scambiarsi energia nella stessa rete bassa tensione, con incentivazi…
 - **Che cos'è il BIM: modello, processo, collaborazione** — Fondamenti BIM · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -211,6 +219,8 @@
   Malta adesiva con cemento, sabbie fini e additivi polimerici: fissa piastrelle a pavimenti e pareti: la classe definisce la performance.
 - **Collaudi e prove di carico sulle strutture** — Collaudi · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Dimostrare che la struttura regge: prove di carico, prove distruttive e non distruttive.
+- **Collaudo tecnico-amministrativo e perizia di conformità** — Sopralluogo · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  La verifica finale: cosa controlla il collaudo e cosa certifica la perizia di conformità.
 - **Collettori e valvole** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Collettori con valvole di regolazione e intercettazione: la 'centralina' di ogni impianto idrico.
 - **Colonnine di ricarica veicoli elettrici** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -273,16 +283,22 @@
   Laterizio cotto non smaltato: il pavimento rustico di tradizione toscana/umbra: caldo e naturale.
 - **Crolli storici: le lezioni che la professione deve ricordare** — Casi di crollo · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il maestro più severo: i disastri strutturali e cosa ci hanno insegnato.
+- **CTU e CTP nel processo civile** — Giustizia · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  La consulenza tecnica in tribunale: ruolo, doveri e svolgimento dell'incarico.
 - **CTU e CTP: l'esperto nel processo civile** — CTU CTP · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il perito nel tribunale: incarichi, responsabilità, come si scrive una consulenza.
 - **Cucine e bagni di pregio: le stanze che vendono la casa** — Cucine bagni · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Le due stanze che decidono il valore percepito di un'abitazione.
+- **Cut & cover e trincee foderate** — Cantieri sotterranei · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Scavo a cielo aperto seguito dalla realizzazione dell'opera e dalla ricopertura, intera o parziale.
 
 ## D
 - **D.Lgs 37/08: appalti e gestione impianti** — Normativa impianti · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   La legge italiana dell'impiantistica: installazione, manutenzione, abilitazioni dei professionisti.
 - **DALI (Digital Addressable Lighting Interface)** — Protocollo luce · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo digitale dedicato al controllo dell'illuminazione professionale.
+- **Demolizioni selettive e smontaggi controllati** — Demolizioni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Il cantiere al contrario: demolire, smontare e recuperare in sicurezza e con recupero dei materiali.
 - **Design management: dirigere la creatività** — Design management · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Come si governa il processo di design in azienda: metodo, persone, tempi.
 - **Detergenti e biocidi edili** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -327,6 +343,8 @@
 ## E
 - **Economia degli impianti sportivi: costruzione, gestione, affitto e sponsor** — Economia · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   L'impianto sportivo è un'impresa con un bilancio: costi di costruzione, costi di gestione annui, ricavi da affitti, abbonamenti, eventi, sponsor e contributi pubblici. Chi progetta deve pensare al modello economico prima…
+- **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -363,6 +381,8 @@
   Diffusione sonora di emergenza: messaggi chiari che guidano l'uscita.
 
 ## F
+- **Facciate continue e sistemi di rivestimento prefabbricati** — Facciate · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  La facciata come sistema industrializzato: pannellature leggere, ventilate e continue.
 - **Ferrovie e linee ad alta velocità** — Ferrovie · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   La rotaia: geometria, sovrastruttura, segnalamento e le gallerie dell'alta velocità.
 - **Ferrovie metropolitane e passanti urbani** — Integrazione urbana · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -855,6 +875,8 @@
   Il rumore di calpestio è la struttura-borne sound generata dai passi: si attutisce con massetti galleggianti (strato elastico sotto il massetto), tappeti flottanti e giunti perimetrali; il DPCM richiede L'nT,w ≤ 58 dB tr…
 - **Il rumore esterno: facciate, serramenti e barriere** — Esterno · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   La protezione dal rumore esterno si ottiene con la facciata (muratura, serramento, vetro, cassonetto, angoli ciechi) progettata sul rumore della classe acustica dell'area; le barriere stradali attenuano la propagazione i…
+- **Il sistema costruttivo a prefabbricati: logica e campi d'impiego** — Sistema costruttivo · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  L'industrializzazione dell'edilizia: elementi prodotti in stabilimento e assemblati in cantiere.
 - **Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda introduttiva che inquadra il carico fiscale complessivo dell'impresa edile: imposte dirette sui redditi d'impresa (IRES), imposta regionale sulle attività produttive (IRAP), imposta sul valore aggiunto (IVA) con l…
 - **Il sottotetto ventilato: la regola d'oro del tetto in legno** — Coperture inclinate · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -923,6 +945,10 @@
   La serie ISO 19650 (derivata dal britannico PAS 1192) definisce il processo: Information Requirements del committente (EIR), BIM Execution Plan (BEP) del fornitore, convenzione di denominazione degli oggetti e dei docume…
 - **Isolante riflettente (multiriflettente)** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Fogli con superfici riflettenti (alluminio) che riducono l'irraggiamento: il 'mito' e la realtà dei sottotetti.
+
+## J
+- **Jet grouting, iniezioni e miglioramento dei terreni** — Consolidamento terreni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Trasformare il terreno in un materiale di progetto: colonne, schermi e masse consolidate.
 
 ## K
 - **Klinker e rivestimenti da esterno** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1183,6 +1209,10 @@
   Il costruttivo italiano per eccellenza: come regge e come si rafforza.
 - **La palestra scolastica: struttura, altezze e sicurezza** — Spazi per l'attività motoria · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   La palestra scolastica è l'ambiente più impegnativo dell'edificio dal punto di vista strutturale: luci ampie, altezze libere importanti, sollecitazioni dinamiche da attività sportive e presenza simultanea di molti utenti…
+- **La perizia immobiliare: metodi di stima** — Estimo · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Determinare il valore di un immobile: metodo comparativo, sintetico e analitico.
+- **La perizia nel contenzioso edilizio: strategia, tempi e rischi** — Contenzioso · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Come si costruisce e si affronta un contenzioso tecnico-edilizio con la testa.
 - **La pompa di calore in formule: COP, energia, risparmio** — Pompe di calore formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   La macchina che moltiplica l'energia: come si calcola il vantaggio reale.
 - **La pompa di calore: il circuito frigorifero al servizio dell'acqua** — Pompe di calore · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -1565,12 +1595,22 @@
   Rivestimento liquido poliuretanico o acrilico che polimerizza formando una membrana continua senza giunti.
 - **Mense e cucine scolastiche: requisiti igienico-sanitari e flussi** — Servizi di ristorazione · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   La mensa scolastica richiede una progettazione che garantisca la sicurezza alimentare, la fluidità dei pasti e il comfort degli alunni durante i pasti. Le cucine scolastiche sono ambienti di produzione alimentare soggett…
+- **Metodi digitali di cantiere: 4D, machine control e gemelli digitali** — Digitalizzazione cantieri · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Come la digitalizzazione cambia i metodi costruttivi: dalla simulazione delle fasi al controllo macchine.
+- **Metodo NATM (scavo tradizionale ad avanzamento ridotto) in galleria** — Scavo convenzionale · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Il metodo austriaco: scavo per fasi ridotte con sostegno flessibile in rapida successione.
+- **Metodo top-down (costruzione dal basso verso l'alto)** — Cantieri sotterranei · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Realizzazione di scavi profondi con getto del solaio di copertura subito dopo lo scavo, che lavora come sostegno.
 - **Mezzi di movimentazione terra e trasporto in cantiere** — Movimentazione · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   I mezzi di movimentazione terra (escavatori, pale gommate, caricatrici, dumper, automezzi) sono responsabili di una quota significativa degli infortuni da investimento e schiacciamento in cantiere. La gestione sicura ric…
+- **Microtunneling e perforazioni guidate (tecnologie no-dig)** — No-dig · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  La posa di condotte sotto le superfici senza aprire scavi: microtunneling e perforazioni.
 - **Mini-idroelettrico: schemi e turbine** — Mini-idro · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Produzione idroelettrica su piccola scala con turbine idrauliche adatte a portate e salti diversi.
 - **Modbus** — BUS industriale · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
+- **Moduli completi e building system industrializzati (volumi a modulo)** — Moduli · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  Dalla cella al modulo intero: edilizia a volumi completi assemblati in stabilimento.
 - **Montaggio della carpenteria in cantiere** — Montaggio · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Dalla consegna in officina alla struttura in opera: sequenza, giunti e precisione.
 - **Moquette** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1589,14 +1629,20 @@
   Come rendere conforme un cantiere con robot e macchine automatizzate.
 
 ## O
+- **Opere marittime e subacquee: cassoni, pali e getti subacquei** — Costruzione in mare · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Costruire nel mare e nei corsi d'acqua: opere a riva, cassoni fondati e fondazioni marine.
 - **Opere marittime: porti, dighe foranee, coste** — Porti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Ingegneria del mare: difendere la costa e creare approdi sicuri.
+- **Organizzazione del cantiere e costruzione per fasi** — Organizzazione · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Il cantiere come sistema: layout, fasi, interferenze e continuità operativa.
 - **OSB (oriented strand board)** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Scaglie di legno orientate e compresse con resine: il pannello strutturale economico del telaio legno.
 - **Outdoor design: terrazzi, giardini, piscine** — Outdoor design · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Gli spazi esterni come stanze a cielo aperto: arredo, materiali, verde.
 
 ## P
+- **Pannelli di tamponamento e pareti sandwich prefabbricate** — Pareti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  La pelle dell'edificio industrializzata: pannelli portanti e non portanti, isolati in sandwich.
 - **Pannelli fonoassorbenti** — Isolanti acustici · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pannelli in lana minerale o schiuma a cellule aperte che assorbono il suono (riducono riverbero).
 - **Pannelli PIR/PUR** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1619,6 +1665,14 @@
   Classi di qualità del combustibile legnoso: il rendimento di una caldaia nasce dal legno.
 - **Perché costruire in legno: il materiale che respira** — Fondamenti · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno è il più antico dei materiali da costruzione e il più moderno: rinnovabile (cresce), sequestra CO2 (un m³ di legno stocca ~1 tonnellata di CO2), leggero (5 volte più del calcestruzzo), isolante naturale, lavorab…
+- **Perizia assicurativa e liquidazione dei sinistri edilizi** — Sinistri · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Come si valuta e si liquida un sinistro su costruzioni e cantiere.
+- **Perizia dei danni edilizi: infiltrazioni, umidità e dissesti** — Danno tecnico · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Individuare causa, entità e rimedio del danno: la perizia tecnica sui vizi più comuni.
+- **Perizia di stima dei lavori: estimo di cantiere** — Stima lavori · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Valutare il valore di opere in corso, di opere da eseguire e di varianti: l'estimo applicato al cantiere.
+- **Perizie catastali: ricostruzione della storia formale e sanatoria** — Catasto · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Verificare cosa dice il catasto e cosa c'è in realtà: la perizia per regolarizzare.
 - **Persiane, tapparelle, frangisole: l'ombra come prestazione** — Oscuranti · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Gli oscuranti esterni sono la prima schermatura solare: persiane (tradizione italiana, ottime in estate), tapparelle (comode, isolano), frangisole orientabili (prestazionali, architettonici), tende da sole per esterni; l…
 - **Piastrella ceramica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1735,6 +1789,8 @@
   La domotica comanda la VMC in base a CO2, umidità e presenza: aria pulita con minimo consumo.
 - **Qualità e certificazioni d'impresa: ISO 9001, SOA, credito** — Qualità impresa · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   Le certificazioni d'impresa sono requisiti di accesso e fattori di fiducia: ISO 9001 (qualità dei processi), SOA (qualificazione per lavori pubblici sopra soglia), attestazione di qualità ambientale e sicurezza (ISO 1400…
+- **Qualità, collaudo e marcatura CE dei prefabbricati** — Qualità · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  La garanzia dell'elemento prefabbricato: certificazioni, prove e documentazione.
 - **Quantità, computo e distinta base dal modello** — Computo dal modello · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Dal modello BIM si estraggono le quantità (quantity take-off): volumi di muratura, superfici di intonaco, metri lineari di tubazione, numero di porte per tipo; i software italiani integrano i prezzari (Prezzario DEI, REG…
 
@@ -1747,6 +1803,8 @@
   Recuperare il sottotetto o il seminterrato è il modo più rapido di guadagnare metri quadri senza cemento nuovo: le regole (altezze minime, luci, aerazione, accessi) decidono cosa si può fare e come si dichiara.
 - **Resina epossidica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento continuo in resina: senza fughe, chimicamente resistente: garage, laboratori, retail.
+- **Responsabilità della costruzione: vizi, decadenze e garanzie legali** — Responsabilità · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
+  Chi risponde di cosa nell'edilizia: i termini di decadenza e le garanzie per legge.
 - **Restauro di serramenti e infissi storici** — Restauro serramenti · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   Gli infissi storici in legno o ferro vanno restaurati conservando profili, ferramenta e vetri originali quando possibile, integrando con elementi nuovi distinguibili solo dove il degrado è irreversibile. Il restauro prev…
 - **Restauro di solai e coperture antichi** — Restauro solai e coperture · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -1847,6 +1905,8 @@
   Vernice a base acqua per legno, metallo e pareti: lucida, durevole, atossica.
 - **Smalto sintetico (al solvente)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice al solvente per legno e metallo: durevole e lucida ma con VOC.
+- **Sollevamento, raddrizzamento e messa in asse di edifici esistenti** — Sollevamento opere · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
 - **Spogliatoi e servizi igienici: dimensionamento per utenza** — Servizi e spazi funzionali · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Spogliatoi, docce e servizi igienici devono essere dimensionati sul numero effettivo di utenti simultanei e sulle caratteristiche degli sport praticati: una squadra di calcio e una lezione di fitness hanno esigenze compl…
 - **Stampa 3D case intere (Icon Vulcan)** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1863,6 +1923,8 @@
   Strumenti geodetici a guida automatica per il posizionamento ad alta precisione.
 - **Strutture alte: torri, antenne, grattacieli** — Torri · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   La verticalità estrema: le questioni strutturali specifiche delle opere alte.
+- **Strutture ibride cls-acciaio e collaboranti** — Strutture ibride · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  Il meglio dei due materiali: sezioni miste acciaio-cls e sistemi collaboranti.
 - **Strutture in acciaio: elementi e connessioni** — Acciaio strutturale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il materiale della leggerezza e della velocità: profili, aste, nodi e saldature.
 - **Strutture in legno: dal tavolato al CLT** — Legno strutturale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -1879,6 +1941,8 @@
   Dispositivo inserito in un foro della muratura o del cls che espandendosi o espandendo un manicotto blocca la vite: ancoraggio di carichi su cls e muratura.
 - **Tassello a percussione con chiodo** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tassello metallico o nylon che si ancora al cls con un chiodo a percussione: fissaggio rapido di guide, profili, rete.
+- **TBM (tunnel boring machine): EPB e doppio scudo** — Scavo meccanizzato · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  La meccanizzazione dello scavo in galleria: macchine a piena sezione con sostegno simultaneo della calotta.
 - **Tecnologia dell'architettura: l'involucro come sistema** — Tecnologia architettura · corso: *Architettura* (`ARCHITETTURA_PACK`)
   La parte tecnica del fare architettura: involucro, dettaglio costruttivo, prestazione.
 - **Tegola marsigliese e piana** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1907,8 +1971,12 @@
   Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tutte le lavorazioni. Errore tipico: tracciare sugli spigoli invece che sugli assi e perdere i riferimenti al primo scavo; controllo: picchett…
 - **Transizione 5.0 e iperammortamento: il lato imprese** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Per le imprese l'efficienza energetica si incentiva anche con il credito d'imposta: il Transizione 5.0 (2024-2025) è chiuso ai nuovi investimenti dal 31/12/2025; l'iperammortamento 2026 resta per beni immateriali e per l…
+- **Trasporti e sollevamento dei prefabbricati** — Trasporti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  Dal cancello dello stabilimento al punto di montaggio: la logistica del pesante.
 - **Trattamenti delle pietre: idrorepellenti, ceranti, anti-macchia (e quando non trattare)** — Trattamenti · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   I trattamenti superficiali modificano il comportamento della pietra verso acqua, oli e sporco: idrorepellenti che riducono l'assorbimento mantenendo la traspirazione, ceranti che lucidano e proteggono ma formano un film,…
+- **Travi, colonne e solai prefabbricati precompressi** — Elementi strutturali · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  L'ossatura portante industrializzata: elementi in cls precompresso gettati in stampo.
 - **Tribune e gestione del pubblico: capienza, affluenza ed evacuazione** — Impianti di pubblico · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Tribune e spalti sono la parte dell'impianto che governa la sicurezza collettiva: capienza ammissibile, posti per metro quadrato, vie di circolazione, scale e tempi di evacuazione verso l'esterno.
 - **Trigonometria applicata: pendenza, altezze, triangoli qualsiasi** — Trigonometria · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -1931,10 +1999,14 @@
 ## U
 - **Uffici e spazi di lavoro: il workplace design** — Interior terziario · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   L'ufficio contemporaneo: flessibilità, wellbeing, ibrido.
+- **Unioni e giunti tra elementi prefabbricati** — Unioni · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
+  Il punto critico del sistema: come i prefabbricati diventano un'opera unica.
 - **Urbanistica: la città come organismo** — Urbanistica · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Lo spazio pubblico, la densità, la mobilità: le regole della città funzionante.
 
 ## V
+- **Varo di ponti: spinta, sbalzo e grandi sollevamenti** — Costruzione ponti · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
+  I metodi di costruzione dei ponti senza impalcato dal basso: spinta incrementale, sbalzi simmetrici, varo.
 - **VAS, VIA e la valutazione ambientale degli interventi** — Valutazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Gli interventi con impatto significativo subiscono la Valutazione di Impatto Ambientale (VIA) o, a livello di piano, la Valutazione Ambientale Strategica (VAS): un processo che valuta alternative, impatti e misure di mit…
 - **Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax** — Wellness · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)

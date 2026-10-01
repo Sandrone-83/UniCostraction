@@ -58,10 +58,13 @@ di apprendimento per settore.
 | MATERIALI_COMPONENTI | ✅ 250 domande | chiavi: jsonl |
 | MATERIALI_FUTURO | ✅ 220 domande | chiavi: jsonl |
 | MURATURE_INTONACI | ✅ 250 domande | chiavi: jsonl |
+| METODI_COSTRUTTIVI | ✅ 250 domande | chiavi: jsonl |
 | OSPEDALI | ✅ 200 domande | chiavi: jsonl |
 | PISCINE | ✅ 200 domande | chiavi: jsonl |
+| PERIZIE_STIME | ✅ 250 domande | chiavi: jsonl |
 | PIETRE_NATURALI | ✅ 250 domande | chiavi: jsonl |
 | POSA_IN_OPERA | ✅ 300 domande | chiavi: jsonl |
+| PREFABBRICAZIONE | ✅ 250 domande | chiavi: jsonl |
 | REAL_ESTATE | ✅ 180 domande | chiavi: jsonl |
 | RESTAURO_CONSERVAZIONE | ✅ 223 domande | chiavi: jsonl |
 | RISANAMENTO | ✅ 277 domande | chiavi: md (legacy) |
@@ -74,7 +77,7 @@ di apprendimento per settore.
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: esame per ognuno dei 57 corsi della repository. I tre esami «legacy» dei primi giri
+Copertura: esame per ognuno dei 60 corsi della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.
 

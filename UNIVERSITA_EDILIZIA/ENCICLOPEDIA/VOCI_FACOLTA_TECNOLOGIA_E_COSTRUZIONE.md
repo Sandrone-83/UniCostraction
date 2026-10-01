@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-329 voci, 14 corsi.
+340 voci, 15 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -4224,6 +4224,176 @@ Taglio, piegatura e posa delle barre B450C con rispetto dei copriferri di proget
 - **Caso tipico:** Nelle verifiche in corso d'opera del collaudatore statico in Italia la posa armature è la fase che richiede obbligatoriamente la documentazione fotografica prima del getto.
 - **Normativa:** NTC 2018 (copriferri e ancoraggi), UNI EN 1992-1-1 (Eurocodice 2), UNI EN 13670 (esecuzione e tolleranze).
 - **Nota di cantiere:** Fotografa ogni armatura prima di chiudere i casseri: è la tua assicurazione. Controlla che i distanziali siano appoggiati sul cassero e non sul terreno o sull'armatura sottostante; le staffe vanno legate strette o si aprono in getto. Manodopera: prevedi un carpentiere + aiuto per ogni 100 kg/giorno su lavori semplici.
+
+
+## Prefabbricazione e industrializzazione edilizia
+
+*Corso `PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK` — 11 voci*
+
+### Centri di prefabbricazione: stabilimenti e cicli di produzione
+
+**Categoria:** Centri di produzione · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+Dentro lo stabilimento: stampi, cicli, controllo qualità e marcatura.
+
+- **Tecnologia e criteri:** Banchi di getto in acciaio o cls con piano di calibratura per garantire la planarità (±1-2 mm); stampi modulari per travi, pannelli e moduli con pareti a magneti o profili regolabili; ciclo di getto con betoniere a caricamento controllato e getto in vibrazione; camere di stagionatura controllata (termoigrometrica) con curing accelerato; aree di sformo e stoccaggio a magazzino con appoggi puntuali; laboratorio interno per prove su cls e su armature; tracciabilità di ogni elemento con codice e DOP.
+- **Applicazioni:** Stabilimenti di prefabbricati per edilizia, cementerie, produzione di elementi per ponti e grandi opere.
+- **Vantaggi:** Ripetibilità della qualità in ambiente controllato, produzione continua indipendente dal meteo, ottimizzazione dei consumi di cls e armature.
+- **Limiti e attenzioni:** Investimenti iniziali alti (milioni di euro per un centro attrezzato), rigidità della produzione verso variazioni del progetto, costi di manutenzione degli stampi.
+- **Costi ed economia:** Ordini di grandezza indicativi: costruzione di uno stabilimento 2-20 M€ secondo capacità; costo di produzione 60-70% del prezzo di vendita dell'elemento.
+- **Caso tipico:** Reti di centri di prefabbricazione con copertura nazionale; stabilimenti dedicati per grandi opere (gallerie, ponti) con stampi specifici.
+- **Normativa:** UNI EN 13369 e norme di prodotto per la marcatura CE; sistema di controllo di produzione in fabbrica (FPC) documentato; gestione degli scarichi e dell'acqua di processo secondo D.Lgs 152/2006.
+- **Nota di cantiere:** Lo stabilimento è un cantiere continuo: la manutenzione dei calchi e la taratura delle bilance sono la qualità del prodotto finito.
+
+### Economia dell'industrializzazione: quando conviene il prefabbricato
+
+**Categoria:** Economia · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
+
+- **Tecnologia e criteri:** Analisi comparativa per ciclo di vita tra soluzione tradizionale e industrializzata: costo diretto (produzione, trasporto, montaggio), costi indiretti (cantiere ridotto, tempi, gru), costi di esercizio (qualità, manutenzione), costi di rischio (meteo, manodopera scarsa); parametri di ripetitività (numero di elementi identici, standardizzazione delle misure); logistica di progetto che determina il raggio economico dello stabilimento (tipicamente 100-300 km).
+- **Applicazioni:** Scelta costruttiva in fase di progettazione e gara: capannoni, scuole, residenze, ospedali, ponti.
+- **Vantaggi:** Con ripetizioni >20-30 elementi identici la fabbrica batte quasi sempre il getto in loco; tempi certi riducono i costi finanziari; minori rifiuti e maggiore sicurezza abbassano i costi indiretti.
+- **Limiti e attenzioni:** Progetti unici o fortemente personalizzati perdono il vantaggio; i costi di trasporto oltre il raggio economico mangiano il risparmio; la rigidità di commessa penalizza le variazioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: risparmio 5-15% sul costo diretto in serie ripetute; riduzione dei tempi 30-60% con conseguente minore costo finanziario; costi di variazione in corso +50-200%.
+- **Caso tipico:** Programmi di edilizia scolastica e residenziale pubblica con gare a sistema costruttivo; capannoni logistici in serie con tempi di consegna certificati.
+- **Normativa:** D.Lgs 36/2023 per gli appalti integrati e il project financing dove il sistema costruttivo è parte dell'offerta; NTC 2018 per la scelta delle strutture.
+- **Nota di cantiere:** Il prefabbricato conviene quando il progetto si 'sistema' sui moduli prima della commessa: chi progetta il dettaglio dopo aver comprato gli elementi paga il doppio.
+
+### Travi, colonne e solai prefabbricati precompressi
+
+**Categoria:** Elementi strutturali · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+L'ossatura portante industrializzata: elementi in cls precompresso gettati in stampo.
+
+- **Tecnologia e criteri:** Travi in cls precompresso (armature pre-tese o tese in opera) per luci 10-30 m, con sezioni rettangolari, a doppia T o a I; colonne prefabbricate con casseri a piombo e piatti di base bullonati; solai a lastre pretensionate filo pieno (TT o predalles) che funzionano da cassero per il getto di completamento; dispositivi di sollevamento (anelli, attacchi a scomparsa) integrati; giunti di continuità gettati in loco con attese e ferri di ripresa.
+- **Applicazioni:** Coperture di capannoni e centri commerciali, solai di piani intermedi industriali, ponti con impalcato precompresso.
+- **Vantaggi:** Resistenza immediata dopo il montaggio (precompressione), luci elevate con pesi contenuti, superfici di finitura lisce dal calco.
+- **Limiti e attenzioni:** Trasporti e sollevamenti limitano luci e pesi, i giunti di continuità restano getti di cantiere, sensibilità agli urti durante il trasporto.
+- **Costi ed economia:** Ordini di grandezza indicativi: trave precompressa 60-150 €/m lineare; solaio predalles 40-90 €/m²; montaggio 20-50 €/m² compresa gru.
+- **Caso tipico:** Impalcati TT diffusi nelle coperture industriali; ponti a travi prefabbricate precompresso sulle rete secondaria.
+- **Normativa:** UNI EN 13225 per gli elementi strutturali cavi e UNI EN 1168 per solai alveolari precompressi; UNI EN 13369 per i requisiti comuni; marcatura CE.
+- **Nota di cantiere:** La trave appoggia su appoggi elastomerici o piastine con bulloni precaricati: il disallineamento superiore al millimetro si paga in tensioni parasite nel giunto.
+
+### Facciate continue e sistemi di rivestimento prefabbricati
+
+**Categoria:** Facciate · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+La facciata come sistema industrializzato: pannellature leggere, ventilate e continue.
+
+- **Tecnologia e criteri:** Sistemi a taglio termico con montanti e traversini in alluminio (facciata continua a montanti visibili o a griglia coperta) vetrati con doppie o triple lastre; facciate ventilate con pannelli di rivestimento (gres, fibrocemento, alluminio composito, cls fibrorinforzato) ancorati a sottostrutture con camera d'aria isolata; pannelli compositi (ACM) con nucleo in polietilene o minerali a seconda dei requisiti di reazione al fuoco; sistemi di ancoraggio a scomparsa con staffe inox o alluminio; giunti di dilatazione a taglio orizzontale e verticale.
+- **Applicazioni:** Uffici, direzionali, edilizia commerciale, riqualificazioni energetiche di facciate esistenti (overcladding).
+- **Vantaggi:** Rapida posa con produzione su misura, qualità di finitura controllata, possibilità di retrofit energetico senza sgombero dell'edificio, ampia libertà architettonica.
+- **Limiti e attenzioni:** Costi dei sistemi a montanti, manutenzione dei sigillanti e dei giunti, complessità dei punti singolari (angoli, fori, parapetti), reazione al fuoco dei compositi da verificare.
+- **Costi ed economia:** Ordini di grandezza indicativi: facciata ventilata 180-400 €/m²; facciata continua vetrata 350-800 €/m²; retrofit overcladding 150-350 €/m².
+- **Caso tipico:** Direzionali con facciate continue vetrate; rivestimenti ventilati di edilizia pubblica e privata; retrofit energetici con pannelli sopra facciate esistenti.
+- **Normativa:** Requisiti di reazione/resistenza al fuoco secondo il Codice prevenzione incendi (D.Lgs 139/2006) e DM applicativi; UNI EN 13830 per le facciate continue; marcatura CE dei componenti e sistemi ETA.
+- **Nota di cantiere:** La posa di una facciata continua avviene da piattaforme o da dentro l'edificio: il piano di posa definisce la sequenza dei piani e i carichi di vento ammessi per le piattaforme.
+
+### Moduli completi e building system industrializzati (volumi a modulo)
+
+**Categoria:** Moduli · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+Dalla cella al modulo intero: edilizia a volumi completi assemblati in stabilimento.
+
+- **Tecnologia e criteri:** Moduli 3D completi di struttura, tamponamenti, serramenti e impianti realizzati in linea di produzione; collegamento dei moduli in cantiere con giunti strutturali, di tamponamento e impiantistici (quick connection) accessibili da zone tecniche; sistemi costruttivi a telaio (frame) o a pannelli portanti (panelized); scalabilità verticale dei moduli con giunzioni bullonate o saldate certificata; possibilità di ri-configurazione e trasporto intermodale (ISO corner).
+- **Applicazioni:** Edilizia residenziale temporanea e permanente, studentati, hotel modulari, uffici temporanei, espansioni di edifici esistenti, health care.
+- **Vantaggi:** Tempi di realizzazione estremamente ridotti (settimane), qualità da produzione seriale, minimo impatto del cantiere su siti sensibili, possibilità di smontaggio e riuso.
+- **Limiti e attenzioni:** Spese di progettazione di sistema e certificazioni, vincoli di trasporto (moduli 3-4 m di larghezza), percezione di edilizia 'a container' da superare, costi non sempre inferiori al tradizionale.
+- **Costi ed economia:** Ordini di grandezza indicativi: modulo residenziale completato 1.200-2.500 €/m²; soluzioni speciali (camere bianche, celle) fino a 4.000 €/m²; risparmio di tempo 40-70%.
+- **Caso tipico:** Hotel e studentati modulari realizzati in tempi record; espansioni ospedaliere con moduli in emergenza; case per il disagio abitativo con moduli riutilizzabili.
+- **Normativa:** Marcatura CE dei componenti e procedure di valutazione per i sistemi costruttivi; NTC 2018 per le verifiche strutturali del sistema; agibilità secondo regolamenti edilizi locali.
+- **Nota di cantiere:** Il modulo è un prodotto finito che viaggia su strada: la logistica (permessi eccezionali, gru, sequenze di consegna) progetta il cantiere più della costruzione.
+
+### Pannelli di tamponamento e pareti sandwich prefabbricate
+
+**Categoria:** Pareti · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+La pelle dell'edificio industrializzata: pannelli portanti e non portanti, isolati in sandwich.
+
+- **Tecnologia e criteri:** Pannelli in cls gettato in stampo liscio o strutturato, armato con reti elettrosaldate e fibre, con attacchi a scomparsa per il sollevamento; pannelli sandwich con strato portante in cls, isolante (XPS, lana minerale, poliuretano) e finitura interna in cls alleggerito o gesso; giunti verticali tra pannelli con profili a camicia o getto di ricongiunzione; pannelli a doppia pelle per facciate continue con sistemi di ancoraggio a scomparsa; superfici di finitura dal calco con smalti o vernici in stabilimento.
+- **Applicazioni:** Tamponamenti di capannoni industriali, facciate di edifici commerciali e logistici, pareti di camere bianche e celle frigorifere, edilizia residenziale a pannelli portanti.
+- **Vantaggi:** Isolamento integrato e controllato in stabilimento, finiture di pregio dal calco, montaggio rapido (centinaia di m² al giorno), qualità termoigrometrica uniforme.
+- **Limiti e attenzioni:** Giunti come punto debole termico e di tenuta all'acqua, trasporti che limitano le dimensioni (4-12 m), difficoltà di modifica in cantiere.
+- **Costi ed economia:** Ordini di grandezza indicativi: pannello sandwich 60-140 €/m²; pannello portante con finitura 80-180 €/m²; posa 15-35 €/m².
+- **Caso tipico:** Facciate di centri logistici e GDO con pannelli sandwich; edilizia residenziale con pareti a pannelli portanti prefabbricati.
+- **Normativa:** UNI EN 14992 per i pannelli di tamponamento in cls; requisiti di resistenza al fuoco e reazione al fuoco secondo le norme di prodotto; marcatura CE; verifica termica secondo UNI/TS 11300.
+- **Nota di cantiere:** I giunti tra pannelli si trattano con sigillanti elastici compatibili o schiume e profili coibentati: la tenuta all'acqua di una facciata a pannelli si vince o si perde sui giunti, mai sul pannello.
+
+### Qualità, collaudo e marcatura CE dei prefabbricati
+
+**Categoria:** Qualità · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+La garanzia dell'elemento prefabbricato: certificazioni, prove e documentazione.
+
+- **Tecnologia e criteri:** Sistema di controllo di produzione in fabbrica (FPC) documentato e auditato; certificati di conformità del cls (resistenza, copriferro, additivi) per ogni gettata; prove di laboratorio su campioni prelevati a rotazione (resistenza a compressione, assorbimento, modulo elastico); verifica dimensionale e di planarità degli elementi prima dello stoccaggio; prove di carico su elementi tipo ogni campagna; marcatura CE con dichiarazione di prestazione (DOP) che riporta classe di resistenza, esposizione ambientale, reazione al fuoco; fascicolo tecnico dell'elemento consegnato al cantiere.
+- **Applicazioni:** Ogni elemento prefabbricato destinato al mercato italiano ed europeo, dai pannelli ai grandi elementi strutturali.
+- **Vantaggi:** Tracciabilità completa elemento per elemento, difetti individuati in stabilimento invece che in cantiere, scontistica sulle polizze di cantiere con prodotti certificati.
+- **Limiti e attenzioni:** Onere documentale per i piccoli produttori, costi delle prove di laboratorio, il CE copre il prodotto non il progetto dell'opera (resta onere del progettista).
+- **Costi ed economia:** Ordini di grandezza indicativi: costi di qualità e certificazione 3-8% del prezzo dell'elemento; prove di carico su campagna 2.000-10.000 €.
+- **Caso tipico:** Elementi CE marcatura con DOP tracciabile via codice QR in tutti i centri di prefabbricazione accreditati.
+- **Normativa:** UNI EN 13369 (marcatura CE e DOP); UNI EN 206 per la specificazione del cls; regolamento CPR (UE 305/2011); NTC 2018 per la verifica strutturale in opera.
+- **Nota di cantiere:** La DOP si controlla alla consegna: se manca o riporta prestazioni inferiori al progetto, l'elemento non si monta — la verifica a monte costa un viaggio, quella a valle un cantiere.
+
+### Il sistema costruttivo a prefabbricati: logica e campi d'impiego
+
+**Categoria:** Sistema costruttivo · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+L'industrializzazione dell'edilizia: elementi prodotti in stabilimento e assemblati in cantiere.
+
+- **Tecnologia e criteri:** Suddivisione dell'opera in elementi prodotti in centri di prefabbricazione con stampi a riutilizzo ciclico; classificazione in pesante (elementi strutturali in cls gettato in stampo, trasportati e montati con gru) e leggera (pannelli, profili, sistemi a secco); gradi di prefabbricazione dal componente singolo al modulo completo con impianti integrati; logica di progettazione per elementi ripetuti con tolerance di produzione e di montaggio definite.
+- **Applicazioni:** Capannoni industriali, grandi coperture, edilizia residenziale a moduli, scuole e uffici a pareti prefabbricate, ponti con impalcati precompressi.
+- **Vantaggi:** Qualità controllata in stabilimento, tempi di cantiere ridotti del 30-60%, minori rifiuti e maggiore precisione, indipendenza dalle condizioni meteo.
+- **Limiti e attenzioni:** Investimenti in stampi e logistica, rigidità progettuale verso personalizzazioni, trasporti che limitano dimensioni e pesi, connessioni tra elementi critiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: prefabbricato pesante strutturale 100-250 €/m² di elemento; montaggio e gru 30-80 €/m²; convenienza crescente con la ripetitività degli elementi.
+- **Caso tipico:** Capannoni industriali in serie in tutta Italia; edilizia scolastica e residenziale con moduli industrializzati; impalcati di ponti prefabbricati precompressi.
+- **Normativa:** UNI EN 13369 (requisiti comuni dei prodotti prefabbricati di cls) e norme di prodotto specifiche per elementi; marcatura CE con dichiarazione di prestazione (DOP); NTC 2018 per le strutture.
+- **Nota di cantiere:** La prefabbricazione si progetta fin dal concept: ogni foro, ogni giunto e ogni attacco impianti va definito prima della produzione, non in cantiere.
+
+### Strutture ibride cls-acciaio e collaboranti
+
+**Categoria:** Strutture ibride · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+Il meglio dei due materiali: sezioni miste acciaio-cls e sistemi collaboranti.
+
+- **Tecnologia e criteri:** Travi e colonne composte con profilo metallico inglobato in cls (steel reinforced concrete) o cls appoggiato su profilo (doppia T con testa superiore collaborante); connettori a taglio (tasselli, perni Nelson o reti) che garantiscono la collaborazione tra acciaio e cls; solai collaboranti con lamiera grecata (piena o forata) funzionante da cassero armato e flangia compressa con il getto di cls; travi di rinforzo incamiciate; verifiche secondo l'Eurocodice 4 con interazione parziale o completa.
+- **Applicazioni:** Edifici alti, grandi luci, solai rapidi di edilizia commerciale e industriale, rinforzi di strutture esistenti, ponti con impalcato misto.
+- **Vantaggi:** Sfrutta la resistenza a compressione del cls e a trazione dell'acciaio, solai veloci senza caseri tradizionali, rigidezza elevata con pesi contenuti, risparmio sui caseri.
+- **Limiti e attenzioni:** Costo dei connettori e delle verifiche di interazione, il getto di completamento resta in cantiere, protezione antincendio dei profili esposti, problemi di ritiro del cls nella zona collaborante.
+- **Costi ed economia:** Ordini di grandezza indicativi: lamiera grecata collaborante 15-35 €/m²; solaio collaborante completo 60-120 €/m²; travi composte 2-4 volte il costo del solo profilo.
+- **Caso tipico:** Solai in lamiera grecata standard nell'edilizia industriale e commerciale; ponti a struttura mista acciaio-cls per luci elevate.
+- **Normativa:** Eurocodice 4 (UNI EN 1994) per le strutture composte; UNI EN 1090-2 per i profili; NTC 2018 per l'applicazione nazionale.
+- **Nota di cantiere:** I connettori si saldano su profilo zincato con procedure qualificate e ritoccati dopo; la lamiera grecata piena evita l'appoggio di caseri e accelera i cicli di solaio.
+
+### Trasporti e sollevamento dei prefabbricati
+
+**Categoria:** Trasporti · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+Dal cancello dello stabilimento al punto di montaggio: la logistica del pesante.
+
+- **Tecnologia e criteri:** Trasporti su rimorchi modulari (carrelloni) con carichi fino a 40-60 t per elementi standard e mezzi eccezionali per i grandi elementi (travi di ponte fino a 100+ t); vincoli di gabarit stradale (larghezza 2,5-3,5 m, altezza 4-4,5 m) che decidono le dimensioni di fabbrica; sistemi di sollevamento con ganci, bilancieri e traverse per distribuire i carichi agli attacchi previsti; gru a torre, gru mobili (portata 50-500 t) e gantry crane per i grandi impianti; piani di sollevamento con angoli di inclinazione e punti di presa certificati.
+- **Applicazioni:** Ogni cantiere con prefabbricati pesanti: capannoni, ponti, pannelli portanti, moduli.
+- **Vantaggi:** Elementi posati in ore invece di settimane di getto e stagionatura, costruttivamente indipendente dal meteo (salvo vento forte per le gru).
+- **Limiti e attenzioni:** Costi di trasporto mezzi eccezionali elevati, necessità di strade e accessi idonei, il vento sopra i limiti ferma le gru, le tabelle di portata delle gru governano i cicli.
+- **Costi ed economia:** Ordini di grandezza indicativi: trasporto ordinario 1-3 €/t·km; mezzo eccezionale con scorte 3.000-15.000 €/viaggio; noleggio gru mobile 1.500-8.000 €/giornata.
+- **Caso tipico:** Travi di ponte da 40-60 m trasportate su più carrelli con autista al traino; moduli residenziali consegnati a 10-20 al giorno su cantiere attrezzato.
+- **Normativa:** Codice della strada per trasporti eccezionali (autorizzazioni, scorte); verifiche di sollevamento come attrezzature di lavoro (D.Lgs 81/2008); piani di manutenzione e verifica delle attrezzature di sollevamento.
+- **Nota di cantiere:** Il piano di sollevamento scritto (carichi, angoli, vento massimo, raggio) è parte del PSC: non si solleva niente che non sia nel piano firmato dal responsabile.
+
+### Unioni e giunti tra elementi prefabbricati
+
+**Categoria:** Unioni · **Corso:** Prefabbricazione e industrializzazione edilizia
+
+Il punto critico del sistema: come i prefabbricati diventano un'opera unica.
+
+- **Tecnologia e criteri:** Giunti strutturali gettati in loco: casseri a perdere o ricongiunzione a ferri di ripresa emersi, getto con cls ad alta resistenza e additivi espansivi (o ritiro compensato); giunti a secco con profili metallici saldati o bullonati e riempimento con malta espansiva; connessioni emi-incastrate (denti e spallamenti) che trasmettono sforzi per contatto; giunti di dilatazione che separano setti strutturali; sigillatura dei giunti di tamponamento con poliuretano, silicone o profili a labirinto; catene di continuità elettrica e impiantistica attraverso i giunti.
+- **Applicazioni:** Collegamenti trave-pilastro, continuità dei solai, giunti tra pannelli di tamponamento, dilatazioni di grandi edifici prefabbricati.
+- **Vantaggi:** Rigidezza e monoliticità dopo il getto di ricongiunzione, velocità del montaggio a secco dove possibile, ispezionabilità delle connessioni.
+- **Limiti e attenzioni:** I giunti gettati sono cantieri nel cantiere (umidità, temperature, stagionatura), i giunti a secco richiedono tolleranze strette, ogni giunto è potenziale punto di infiltrazione e di discontinuità termica.
+- **Costi ed economia:** Ordini di grandezza indicativi: getto di ricongiunzione 30-80 €/m lineare di giunto; connessioni metalliche speciali da progetto (100-500 €/punto secondo carico).
+- **Caso tipico:** Capannoni con colonne a dente che alloggiano le travi; edilizia residenziale con giunti gettati tra pannelli portanti.
+- **Normativa:** NTC 2018 per la verifica dei giunti come connessioni strutturali; specifiche di prodotto per malte e sistemi di connessione; norme sui cls per getti di ripresa (additivi espansivi).
+- **Nota di cantiere:** Il getto di ricongiunzione va bagnato e stagionato come ogni cls: accelerarlo con il getto 'a freddo' senza controllo produce i famosi giunti che si aprono dopo un anno.
 
 
 ## Restauro e conservazione delle opere architettoniche

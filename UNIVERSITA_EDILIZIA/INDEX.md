@@ -163,3 +163,11 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - CARPENTERIA_METALLICA_E_ACCIAIO_PACK (12 schede, L1-L2, FACOLTA_INGEGNERIA) — nuovo corso: acciai UNI EN 10025 e zincati EN 10346, profili laminati e cavi, carpenteria leggera, saldature e qualifiche (ISO 5817/9606-1/15614), bullonati HR EN 14399 e svolgimenti A/B/C, marcatura CE EN 1090 EXC1-4, prove non distruttive, corrosione ISO 12944, protezione antincendio EN 13381, montaggio, ponti e sostenibilità
 - Nuovi esami: ESAMI/FERROVIE, ESAMI/RINNOVABILI_IDRO, ESAMI/CARPENTERIA (250 domande ciascuno), chiavi riservate fuori repository, distrattori pertinenti allo stesso settore
 - Totale repository: 57 pack, 801 schede, 58 esami
+
+## Corsi del giro di approfondimento 12 — metodi costruttivi, prefabbricazione, perizie (2026-10-01, bozza post-v1.1.0)
+
+- METODI_COSTRUTTIVI_AVANZATI_PACK (13 schede, L2-L3, FACOLTA_INGEGNERIA) — nuovo corso: top-down, cut & cover, sollevamento e raddrizzamento di edifici, TBM (EPB e doppio scudo), NATM, microtunneling e HDD, jet grouting e miglioramento terreni, varo di ponti, casseforme e getti speciali, opere marittime, demolizioni controllate, organizzazione di cantiere, digitalizzazione 4D e machine control
+- PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK (11 schede, L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: sistema costruttivo a elementi, travi e solai precompressi, pannelli sandwich, moduli completi, unioni e giunti, trasporti e sollevamento, centri di produzione e marcatura CE UNI EN 13369, facciate continue e ventilate, strutture ibride cls-acciaio, economia dell'industrializzazione
+- PERIZIE_STIME_ASSICURAZIONI_PACK (11 schede, L2-L3, FACOLTA_GEOMETRI_PERITI) — nuovo corso: stima immobiliare e estimo di cantiere, CTU e CTP (artt. 61 ss. e 84 ss. c.p.c.), responsabilità della costruzione (artt. 1667-1669 c.c.), assicurazioni CAR e decennale (D.L. 223/2006), diagnosi dei danni edilizi, collaudi e conformità (DM 37/08), perizie catastali (Titolo IX DPR 380/2001), liquidazione dei sinistri, audit di edificio, strategia del contenzioso
+- Nuovi esami: ESAMI/METODI_COSTRUTTIVI, ESAMI/PREFABBRICAZIONE, ESAMI/PERIZIE_STIME (250 domande ciascuno), chiavi riservate fuori repository
+- Totale repository: 60 pack, 836 schede, 61 esami

@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-149 voci, 11 corsi.
+162 voci, 12 corsi.
 
 
 ## Carpenteria metallica e acciaio
@@ -2109,6 +2109,206 @@ La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 - **Caso tipico:** Burj Khalifa (nucleo esagonale + ali); Shanghai Tower (doppia pelle); Torre Unicredit (Milan, nucleo cls).
 - **Normativa:** EC1-1-4 (vento); NTC2018 (D.M. 17/01/2018) per azioni e verifiche; le indicazioni CNR per le strutture di grande altezza.
 - **Nota di cantiere:** Oltre certe altezze la sfida non è reggere il peso ma fermare il dondolo: il confort in cima si progetta come la struttura.
+
+
+## Metodi costruttivi avanzati
+
+*Corso `METODI_COSTRUTTIVI_AVANZATI_PACK` — 13 voci*
+
+### Cut & cover e trincee foderate
+
+**Categoria:** Cantieri sotterranei · **Corso:** Metodi costruttivi avanzati
+
+Scavo a cielo aperto seguito dalla realizzazione dell'opera e dalla ricopertura, intera o parziale.
+
+- **Tecnologia e criteri:** Scavo a cielo aperto con sostegno delle pareti (paratie, tiranti, sverniciamento di scarpate) o con tavolati; posa della struttura impermeabilizzata (fodera in cls con guaine) a botte o a spalle dritte; rinterro stratificato e compattato; variante con copertura parziale in c.a.p. o in acciaio che permette il recupero della superficie (trincea foderata) con giunti di posa prefabbricati.
+- **Applicazioni:** Metropolitane superficiali, gallerie stradali urbane, gallerie di stazione, canali e collettori, opere idrauliche coperte.
+- **Vantaggi:** Costruttivamente semplice e controllabile, ispezionabilità dell'opera durante la costruzione, adatto a geometrie complesse e grandi sezioni.
+- **Limiti e attenzioni:** Impatto superficiale duraturo sul traffico, gestione delle acque di scavo, vinci di falda; in città può richiedere rettifiche degli assi e mantenimento dei flussi.
+- **Costi ed economia:** Ordini di grandezza indicativi: 5.000-15.000 €/m lineare per sezioni stradali standard; le paratie di sostegno in ambito urbano raddoppiano la voce scavo.
+- **Caso tipico:** Tratte metropolitane e gallerie urbane a cielo aperto ricoperte; canali e vasche di laminazione coperte nei parchi urbani.
+- **Normativa:** Verifiche di stabilità delle pareti di scavo secondo Eurocodice 7; gestione acque secondo D.Lgs 152/2006; sicurezza degli scavi secondo D.Lgs 81/2008.
+- **Nota di cantiere:** Il controllo della falda decide il metodo: con falda alta servono abbassamenti o diaframmi impermeabilizzanti, e il rinterro va eseguito con materiali e compattazioni che non caricano indebitamente la struttura.
+
+### Metodo top-down (costruzione dal basso verso l'alto)
+
+**Categoria:** Cantieri sotterranei · **Corso:** Metodi costruttivi avanzati
+
+Realizzazione di scavi profondi con getto del solaio di copertura subito dopo lo scavo, che lavora come sostegno.
+
+- **Tecnologia e criteri:** Posa di diaframmi (pareti primarie in cls, pali di coronamento) o paratie con tiranti; scavo parziale, getto del solaio di copertura ancorato alle paratie; prosecuzione dello scavo sotto il solaio già realizzato, con getti dei solai intermedi man mano che lo scavo procede verso il basso; fondo ultimo con getto della platea ancorata alle paratie; puntelli temporanei ridotti al minimo perché i solai fungono da controvento.
+- **Applicazioni:** Stazioni metropolitane interrate, parcheggi e cantine profonde in città, edifici interrati dove la superficie deve restare trafficata.
+- **Vantaggi:** Superficie libera e subito riutilizzabile, deformazioni delle paratie contenute (i solai irrigidiscono il sistema), sicurezza contro il ribaltamento, minore occupazione urbana.
+- **Limiti e attenzioni:** Costi dei diaframmi e dei getti a castello, necessità di progettazione integrata paratie-solai, tempi non necessariamente inferiori al metodo tradizionale.
+- **Costi ed economia:** Ordini di grandezza indicativi: diaframmi 400-900 €/m² di parete; premium complessivo top-down +20-60% rispetto a scavo tradizionale con puntoni.
+- **Caso tipico:** Stazioni di metropolitana interrate realizzate in ambito urbano con diaframmi e solai a castello; cantieri di parcheggi interrati multipiano sotto aree pedonali.
+- **Normativa:** Norme tecniche per le opere di sostegno delle scavo (UNI EN 1536 per pali, UNI EN 1538 per diaframmi); Eurocodice 7 (UNI EN 1997-1) per le verifiche geotecniche; NTC 2018.
+- **Nota di cantiere:** La sequenza dei getti è critica: nessuno scavo sotto un solaio prima del raggiungimento della resistenza di progetto dichiarata; i puntelli provvisori si rimuovono solo con getto dell'elemento di ricambio.
+
+### Casseforme e opere gettate in loco: tecnologie e cedimenti
+
+**Categoria:** Casseforme · **Corso:** Metodi costruttivi avanzati
+
+Il cassero come tecnologia: casseri tradizionali, a telaio scorrevole, a perdere e autocarranti.
+
+- **Tecnologia e criteri:** Casseratura tradizionale in legno o metallo con puntelli (torri, transenne); caseri a telaio scorrevole per i rivestimenti di galleria (telaio metallico con casseri idraulici che avanzano con l'avanzamento del getto); caseri a perdere in cartone ondulato o materassi metallici per getti di ricongiunzione in profondità; caseri autocarranti (tunnel formwork) per gallerie; caseri per getti di cls di grandi masse con gestione termica (tubi di raffreddamento, getti per strati).
+- **Applicazioni:** Strutture in cls gettate in loco, rivestimenti di galleria, getti di ricongiunzione tra prefabbricati, grandi fondazioni e masse di cls.
+- **Vantaggi:** Adattabilità a qualsiasi geometria, integrazione con armature complesse, uso di materiali semplici disponibili ovunque.
+- **Limiti e attenzioni:** Costo della manodopera di allestimento e disarmo, sensibilità alla taratura dei carichi di getto (rischio sfondamento), tempi legati ai cicli di maturazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: noleggio caseri tradizionale 15-40 €/m²/mese; caseri scorrevoli per galleria da progetto (significativi investimenti specifici); caseri a perdere 3-10 €/m².
+- **Caso tipico:** Telai scorrevoli per le gallerie del Quadrilatero e delle grandi opere autostradali; caseri a perdere nei getti di ricongiunzione dei prefabbricati.
+- **Normativa:** Requisiti di resistenza e stabilità dei caseri secondo UNI EN 12812 (regole generali di progettazione); verifiche delle strutture provvisionali secondo NTC 2018; gestione termica dei getti di massa con riferimento alle norme sul cls.
+- **Nota di cantiere:** Lo sfondamento del cassero durante il getto è il più comune crollo di cantiere: il getto si arresta se i rilevamenti verticali superano i valori ammessi dal piano di getto.
+
+### Jet grouting, iniezioni e miglioramento dei terreni
+
+**Categoria:** Consolidamento terreni · **Corso:** Metodi costruttivi avanzati
+
+Trasformare il terreno in un materiale di progetto: colonne, schermi e masse consolidate.
+
+- **Tecnologia e criteri:** Jet grouting: monitor con ugelli ad alta pressione (300-600 bar) che erodono e miscelano il terreno con cemento, formando colonne 0,6-2,5 m di diametro; parametri controllati (pressione, portata, rotazione, sollevamento); iniezioni di consolidamento con sospensioni cementizie o chimiche (silicati, resine) a bassa e media pressione; drenaggi orizzontali e pozzi per l'abbassamento della falda; masse di jet grouting sovrapposte per schermi impermeabili sotto le paratie.
+- **Applicazioni:** Consolidamento sotto fondazioni esistenti, sostegno del fronte di scavo, schermi taglia-acqua, miglioramento dei terreni sotto le pavimentazioni, riempimento di cavità.
+- **Vantaggi:** Intervento dall'interno senza scavi, terreno trattato diventa il sostegno, possibilità di lavorare sotto edifici in esercizio con macchine di modeste dimensioni.
+- **Limiti e attenzioni:** Risultato non sempre uniforme (controllo con prove su carote), consumi di cemento elevati nei terreni organici, pianificazione del tracciato critica vicino a sottoservizi.
+- **Costi ed economia:** Ordini di grandezza indicativi: jet grouting 150-400 €/m lineare di colonna; iniezioni di consolidamento 50-200 €/m³ trattato; indagini di controllo 5-15% del valore lavori.
+- **Caso tipico:** Schermi di jet grouting per stazioni metropolitane e sottopassi; consolidamenti sotto fondazioni di edifici storici in operazioni di scavo adiacente.
+- **Normativa:** UNI EN 12716 per il jet grouting; UNI EN 12715 per le iniezioni; Eurocodice 7 per il dimensionamento; specifiche di accettazione con carotaggi e prove di resistenza.
+- **Nota di cantiere:** La verifica del diametro e della resistenza reale delle colonne si fa su carote e prove non distruttive: il costruttore dichiara i parametri di esercizio e li dimostra a campione.
+
+### Opere marittime e subacquee: cassoni, pali e getti subacquei
+
+**Categoria:** Costruzione in mare · **Corso:** Metodi costruttivi avanzati
+
+Costruire nel mare e nei corsi d'acqua: opere a riva, cassoni fondati e fondazioni marine.
+
+- **Tecnologia e criteri:** Cassoni in cls prefabbricati o gettati in banchina, varati e posati su letto preparato (scogliere di riempimento, tetrapodi); pali in cls precompresso o acciaio infissi con martelli e battipalo, anche in gruppo; getti di cls subacquei con tubi a perdere (tremie) e miscela autosistemante; piattaforme provvisorie e pontoni per i mezzi; protezione della miscela dalla dispersione con fango bentonitico di risalita; lavorazioni interrotte dalla stagione del mare.
+- **Applicazioni:** Porti, dighe foranee, moli e pontili, opere di presa, condotte sottomarine, attraversamenti fluviali.
+- **Vantaggi:** Fondazioni resistenti a carichi verticali e orizzontali, opere durature in ambiente aggressivo con le giuste protezioni, fattibilità di attraversamenti altrimenti impossibili.
+- **Limiti e attenzioni:** Costi ambientali e di sicurezza molto alti, finestre meteo marine, corrosione aggressiva (cicli di marea), logistiche di cantiere complesse.
+- **Costi ed economia:** Ordini di grandezza indicativi: opere marittime 2-10 volte il costo analogo a terra; getto subacqueo +30-80% rispetto al getto aereo; pontoni e attrezzature marine a noleggio giornaliero elevato.
+- **Caso tipico:** Dighe foranee e moli dei porti commerciali italiani realizzati con cassoni e pali; condotte sottomarine posate con barche cantiere.
+- **Normativa:** Normativa sulle concessioni demaniali marittime; classificazione ambientale marina per la protezione anticorrosiva (ISO 12944 parte CX/im2); norme sulle costruzioni portuali e sul cls in ambiente marino.
+- **Nota di cantiere:** Il mare comanda il cantiere: le finestre di posa si pianificano sulle previsioni meteomarine; il cls in ambiente marino richiede copriferro maggiorato e massa volumica controllata contro la pressione osmotica.
+
+### Varo di ponti: spinta, sbalzo e grandi sollevamenti
+
+**Categoria:** Costruzione ponti · **Corso:** Metodi costruttivi avanzati
+
+I metodi di costruzione dei ponti senza impalcato dal basso: spinta incrementale, sbalzi simmetrici, varo.
+
+- **Tecnologia e criteri:** Spinta incrementale (incremental launching): il viadotto si costruisce dietro l'imbocco e viene spinto in avanti con martinetti su pattini di scorrimento, con testa di varo provvisoria in acciaio; sbalzo simmetrico (cantilever): le campate si gettano a coppie in equilibrio dal pilaio verso il centro, con cavi di precompressione di cantiere; varo dell'impalcato prefabbricato intero o per tratti con grandi gru o cuscinetti di scorrimento; sistemi di controllo geometrico e delle tensioni durante tutte le fasi provvisorie.
+- **Applicazioni:** Viadotti su valli e corsi d'acqua, ponti in zone sismiche, attraversamenti dove l'impalcato dal basso è impossibile (alte luci, corsi d'acqua navigabili).
+- **Vantaggi:** Nessun cantiere in quota esposto e nessun appoggio nel fondovalle, qualità controllata in officina o in banco, adattamento alla morfologia.
+- **Limiti e attenzioni:** Ingegneria di fase complessa (ogni fase provvisoria va verificata), necessità di spazi dietro gli imbocchi per la spinta, equipaggiamenti specializzati.
+- **Costi ed economia:** Ordini di grandezza indicativi: attrezzature di varo 1-10% del valore strutturale; metodo scelto in fase di gara con preventivo comparato dei cicli.
+- **Caso tipico:** Viadotti autostradali a sbalzo e a spinta sulle tratte montane; varo di impalcati prefabbricati sulle linee ferroviarie in finestre di blocco.
+- **Normativa:** Verifiche di fase secondo NTC 2018 ed Eurocodici con coefficienti parziali delle condizioni provvisorie; piani di montaggio approvati dal progettista; accordi per i vari sopra linee in esercizio.
+- **Nota di cantiere:** Le fasi provvisorie NON sono dettagli secondari: la crisi di un impalcato in fase di varo è tra le cause più frequenti di crollo; ogni fase va calcolata e firmata.
+
+### Demolizioni selettive e smontaggi controllati
+
+**Categoria:** Demolizioni · **Corso:** Metodi costruttivi avanzati
+
+Il cantiere al contrario: demolire, smontare e recuperare in sicurezza e con recupero dei materiali.
+
+- **Tecnologia e criteri:** Demolizioni meccaniche con escavatori dotati di pinze e frantumi a ginocchiello; demolizioni selettive (piece by piece) con smontaggio degli elementi in ordine inverso alla costruzione; demolizioni controllate per fasi con sostegni provvisori (puntelli, controventi) e monitoraggio; bonifica preliminare di amianto, PCB e materiali pericolosi prima del cantiere; taglio di cls e acciaio con filo diamantato e demolizioni a microcariche dove serve; separazione in cantiere per il recupero di rottami e inerti.
+- **Applicazioni:** Riqualificazioni urbane, rimozione di ponti e cavalcavia, smantellamento di capannoni industriali, preparazione di aree per nuove costruzioni.
+- **Vantaggi:** Recupero di materiali (rottami ferrosi di valore, inerti da riciclare), riduzione dei rifiuti in discarica, continuità dei servizi vicini con metodi selettivi.
+- **Limiti e attenzioni:** Polveri, rumore e vibrazioni da gestire, rischio crollo non controllato, presenza di materiali pericolosi che impongono bonifiche preventive, costi di smaltimento dei rifiuti speciali.
+- **Costi ed economia:** Ordini di grandezza indicativi: demolizione meccanica 15-40 €/m³; selettiva con recupero 30-80 €/m³; smaltimento rifiuti speciali 100-500 €/t; ricavo rottami acciaio variabile col mercato.
+- **Caso tipico:** Smantellamento di viadotti e ponti con fasi notturne e monitoraggio; recupero dei materiali dei capannoni industriali dismessi nelle aree da rigenerare.
+- **Normativa:** D.Lgs 81/2008 (Titolo IV) per le demolizioni e i rischi di crollo; D.Lgs 152/2006 per la gestione dei rifiuti da costruzione e demolizione; D.M. 17/6/2015 (recupero degli inerti) per il riciclo; adempimenti su amianto (D.Lgs 257/2006).
+- **Nota di cantiere:** La demolizione si progetta come una costruzione inversa: il piano delle fasi con i sostegni provvisori va firmato dal progettista prima del primo colpo di pinza.
+
+### Metodi digitali di cantiere: 4D, machine control e gemelli digitali
+
+**Categoria:** Digitalizzazione cantieri · **Corso:** Metodi costruttivi avanzati
+
+Come la digitalizzazione cambia i metodi costruttivi: dalla simulazione delle fasi al controllo macchine.
+
+- **Tecnologia e criteri:** BIM 4D che collega il modello 3D al cronoprogramma per simulare le fasi e gli accesi; machine control su escavatori, dozer e livellatrici con antenna GPS/GNSS e sensori che guidano la lama secondo il modello di progetto; stazioni totali robotiche e laser scanner per l'as-built continuo; gemello digitale del cantiere con dati da sensori IoT (polveri, rumore, posizioni mezzi, pesate); droni per rilievi di avanzamento e calcolo volumi; piattaforme di gestione cantieristica (reportistica fotografica, SAL digitali).
+- **Applicazioni:** Grandi opere, scavi di precisione, pavimentazioni stradali, cantieri complessi con molte squadre, monitoraggi di opere esistenti.
+- **Vantaggi:** Eliminazione dei rilievi e dei riferimenti manuali, riduzione degli errori di quota, documentazione oggettiva dell'avanzamento, sicurezza migliorata con meno personale vicino alle macchine.
+- **Limiti e attenzioni:** Investimenti in hardware, software e formazione, dipendenza da copertura satellitare o reti locali, necessità di personale che sappia gestire i dati.
+- **Costi ed economia:** Ordini di grandezza indicativi: retrofit machine control 5.000-30.000 € per macchina; software 4D/gemello 5.000-50.000 €/anno; servizio droni rilievo 300-1.500 €/giornata.
+- **Caso tipico:** Cantieri stradali con finitrici guidate da GPS; scavi di fondazioni con escavatori in machine control; gemelli digitali su grandi opere infrastrutturali.
+- **Normativa:** Requisiti di sicurezza per l'uso delle macchine guidate da sistema (D.Lgs 81/2008 e norme armonizzate macchine); gestione dei dati di cantiere secondo GDPR quando rilevano persone.
+- **Nota di cantiere:** Il machine control non sostituisce il controllo umano: i rilievi a campione restano obbligatori per verificare la calibrazione del sistema sui punti di riferimento.
+
+### Microtunneling e perforazioni guidate (tecnologie no-dig)
+
+**Categoria:** No-dig · **Corso:** Metodi costruttivi avanzati
+
+La posa di condotte sotto le superfici senza aprire scavi: microtunneling e perforazioni.
+
+- **Tecnologia e criteri:** Microtunneling: macchine a pressione di terra o con miscela bentonitica che scavano e posano tubi in acciaio o cls di diametro 0,4-4 m con guida laser; spinta idraulica continua dai pozzetti di partenza; evacuazione dei detriti con circuito idraulico. Perforazioni guidate (HDD — Horizontal Directional Drilling): tracciato curvo con testa orientabile, allargamento del foro e traino della condotta; utilizzo di fanghi bentonitici per la stabilità. Sistema di rilevamento del percorso con sonde e tracciamento topografico continuo.
+- **Applicazioni:** Attraversamenti di strade, ferrovie, fiumi e corsi d'acqua per fognature, acquedotti, gasdotti, elettrodotti, pozzi di raccolta; interventi dove lo scavo aperto è vietato o impossibile.
+- **Vantaggi:** Nessuna interruzione del traffico superficiale, nessuna trincea, tempi rapidi, minore impatto ambientale e paesaggistico.
+- **Limiti e attenzioni:** Diametri e lunghezze limitate rispetto alle gallerie, sensibilità alla geologia (sassi e ghiaie difficili), gestione dei fanghi di perforazione, costo alto per singolo attraversamento.
+- **Costi ed economia:** Ordini di grandezza indicativi: microtunneling 1.500-6.000 €/m lineare; HDD 80-300 €/m a seconda di diametro e lunghezza; pozzetti di partenza/arrivo 5.000-50.000 €.
+- **Caso tipico:** Migliaia di attraversamenti realizzati per reti fognarie e gasdotti sotto autostrade e corsi d'acqua; uso standard nelle metropolitane per i sottoservizi.
+- **Normativa:** Riferimenti tecnici ASTT e norme prodotti per le tubazioni; gestione fanghi secondo D.Lgs 152/2006; accordi con i gestori delle infrastrutture attraversate.
+- **Nota di cantiere:** La precisione del tracciato è tutto: il monitoraggio continuo del percorso evita la collisione con le strutture esistenti; i fanghi di risulta si gestiscono a ciclo chiuso.
+
+### Organizzazione del cantiere e costruzione per fasi
+
+**Categoria:** Organizzazione · **Corso:** Metodi costruttivi avanzati
+
+Il cantiere come sistema: layout, fasi, interferenze e continuità operativa.
+
+- **Tecnologia e criteri:** Layout di cantiere con viabilità, aree di stoccaggio, banche di preparazione, posa degli uffici e dei servizi igienici; matrice delle interferenze tra squadre e attrezzature; cronoprogramma con cammino critico che concatena fasi strutturali, impianti e finiture; gestione dei sottoservizi e delle presenze in quota; logistica dei materiali just-in-time o a stock; rotazione dei mezzi di sollevamento; coordinamento BIM tra progettazione e fasi di cantiere (4D).
+- **Applicazioni:** Cantieri edili di ogni dimensione, cantieri urbani vincolati, complessi residenziali e industriali a lotti.
+- **Vantaggi:** Riduzione dei tempi morti e delle interferenze, sicurezza migliorata con aree definite, prevedibilità dei costi e dei consumi, qualità uniforme.
+- **Limiti e attenzioni:** Richiede pianificazione seria e personale dedicato, rigidità del piano che può scontrarsi con imprevisti, investimenti in attrezzature di cantiere.
+- **Costi ed economia:** Ordini di grandezza indicativi: costi generali di cantiere 8-15% del valore dei lavori; attrezzature e ponteggi 5-12%; ritardi del cronoprogramma costano in genere 0,5-2% del contratto al mese.
+- **Caso tipico:** Cantieri general contractor con pianificazione 4D e controllo avanzamento settimanale; cantiere urbano a lotti con logistica di trasporti programmata su fasce orarie.
+- **Normativa:** D.Lgs 81/2008 per la sicurezza e il piano di sicurezza di cantiere; D.Lgs 36/2023 per gli obblighi di esecuzione e collaudo; obblighi di gestione delle attrezzature (registro, manutenzione, verifiche periodiche).
+- **Nota di cantiere:** La buona organizzazione si vede nei dettagli: banche ordinate, materiali etichettati, percorsi pedonali segnati e mezzi revisionati. Il disordine di cantiere è il primo indicatore di rischio.
+
+### Metodo NATM (scavo tradizionale ad avanzamento ridotto) in galleria
+
+**Categoria:** Scavo convenzionale · **Corso:** Metodi costruttivi avanzati
+
+Il metodo austriaco: scavo per fasi ridotte con sostegno flessibile in rapida successione.
+
+- **Tecnologia e criteri:** Scavo per cunei o mezza sezione (prima la calotta, poi gli spalleti), avanzamenti ridotti 0,5-1,5 m; rivestimento primario rapido in cls proiettato (shotcrete) con rete elettrosaldata e puntali in acciaio o calcestruzzo; copertura a cuscinetto dove il terreno lo richiede; consolidamento preliminare del terreno (iniezioni, pipe umbrella, spiling); rivestimento definitivo in cls gettato in casseri a telaio scorrevole o a telaio autoperforante; strumentazione di controllo (convergenze, cedimenti) per gestire la celerità di intervento.
+- **Applicazioni:** Gallerie in montagna, accessi e allargamenti, gallerie di piccola sezione, cantieri dove la TBM non è economicamente giustificabile.
+- **Vantaggi:** Flessibilità totale di fronte ai cambiamenti geologici, investimenti in apparecchiature contenuti, adattamento in tempo reale alla classe di terreno (approccio osservazionale).
+- **Limiti e attenzioni:** Maggior presenza umana vicino al fronte, cicli più lenti della TBM, qualità del rivestimento dipendente dall'operatività del getto proiettato.
+- **Costi ed economia:** Ordini di grandezza indicativi: 5.000-20.000 €/m lineare secondo geologia e sezione; il costo dell'osservazione (strumentazione 1-5% del valore lavori) ripaga in sicurezza.
+- **Caso tipico:** Storico metodo delle gallerie alpine; ampiamente usato per accessi, gallerie di valico secondarie e allargamenti.
+- **Normativa:** Linee guida e norme nazionali ed europee per il progetto delle gallerie (raccomandazioni ITA/AITES e documenti nazionali); D.Lgs 81/2008 per i lavori sotterranei; Eurocodice 7.
+- **Nota di cantiere:** La regola del NATM è la rapidità: il sostegno primario segue il fronte entro distanze prefissate, e la lettura della strumentazione decide l'accelerazione o il rallentamento del ciclo.
+
+### TBM (tunnel boring machine): EPB e doppio scudo
+
+**Categoria:** Scavo meccanizzato · **Corso:** Metodi costruttivi avanzati
+
+La meccanizzazione dello scavo in galleria: macchine a piena sezione con sostegno simultaneo della calotta.
+
+- **Tecnologia e criteri:** TBM EPB (Earth Pressure Balance) per terreni a bassa copertura e falda: miscelazione del terreno scavato nella camera di scavo per controbilanciare la pressione del fronte, espulsione controllata con coclea; doppio scudo per rocce stratificate e terreni misti con rivestimento in conci (voussoir) posati dentro il manicotto; sistema di rincalzi idraulici per la spinta; impianti di separazione dei materiali in superficie; anelli prefabbricati in cls con guarnizioni di tenuta.
+- **Applicazioni:** Gallerie stradali e ferroviarie lunghe, metropolitane, collettori e condotte forzate, attraversamenti sotto corsi d'acqua e centri urbani.
+- **Vantaggi:** Velocità di avanzamento (10-30 m/giorno), sicurezza del personale lontano dal fronte, qualità del rivestimento, minore impatto superficiale con un solo pozzo di lancio e uno di arrivo.
+- **Limiti e attenzioni:** Investimenti in apparecchiature (decine di milioni), sensibilità a terreni eterogenei e cedimenti, necessità di progettazione 'su misura' della macchina, gestione dei materiali di scavo.
+- **Costi ed economia:** Ordini di grandezza indicativi: costruzione meccanizzata 8.000-30.000 €/m lineare a seconda di diametro e geologia; TBM di grande diametro 30-100+ M€ di valore macchina.
+- **Caso tipico:** Grandi gallerie stradali e ferroviarie italiane ed europee scavate con EPB e doppio scudo; linee metropolitane di recente costruzione.
+- **Normativa:** Sicurezza nei lavori sotterranei secondo D.Lgs 81/2008; verifiche geotecniche secondo Eurocodice 7 e normativa specifica per le gallerie; specifiche progettuali per il dimensionamento dei conci.
+- **Nota di cantiere:** La TBM non perdona l'improvvisazione: i parametri di pressione frontale e coppia si tarano con prove e con il controllo continuo dei cedimenti superficiali; i pozzi di lancio sono opere provvisionali a sé.
+
+### Sollevamento, raddrizzamento e messa in asse di edifici esistenti
+
+**Categoria:** Sollevamento opere · **Corso:** Metodi costruttivi avanzati
+
+Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
+
+- **Tecnologia e criteri:** Sostituzione delle fondazioni con micropali o pali radice; inserimento di martinetti idraulici o presse a puntelli tra zoccolo e struttura per sollevamenti fino a diversi metri; sistemi di raddrizzamento con tiranti post-tensionati, piastre di ripresa e getti strutturali; traslazione su binari o rulli per edifici da spostare; monitoraggio continuo con estensimetri, livelle e stazioni totali durante tutte le fasi.
+- **Applicazioni:** Edifici storici dissestati, casolari rurali da recuperare, edifici sotto cui passano nuove infrastrutture, rimessa in quota dopo cedimenti differenziali.
+- **Vantaggi:** Salvaguardia del costruito esistente, risparmio rispetto alla demolizione e ricostruzione, possibilità di rinnovare interamente le fondazioni senza smontare l'edificio.
+- **Limiti e attenzioni:** Richiede indagini strutturali approfondite, lavorazioni millimetriche con squadre specializzate, imprevedibilità del comportamento di murature antiche, costi elevati.
+- **Costi ed economia:** Ordini di grandezza indicativi: consolidamento fondazioni con micropali 150-400 €/m lineare; sollevamento e messa in asse di una villetta 30.000-150.000 € secondo entità; monitoraggio continuo 5.000-30.000 €.
+- **Caso tipico:** Sollevamento di edifici storici dopo cedimenti; traslazioni di edifici per allineamenti stradali e ferroviari (casistica internazionale ampia).
+- **Normativa:** UNI EN 14199 per i micropali; NTC 2018 e circolare applicativa per le verifiche sulle strutture esistenti; aggiornamento del quadro sismico se richiesto dalla modifica delle fondazioni.
+- **Nota di cantiere:** Nessun sollevamento senza piano di monitoraggio e valori limite di arresto: le murature antiche tollerano pochi millimetri di differenziale tra un lato e l'altro.
 
 
 ## Edilizia sanitaria e ospedaliera
