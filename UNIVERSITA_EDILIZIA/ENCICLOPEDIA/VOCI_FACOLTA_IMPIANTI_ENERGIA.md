@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-241 voci, 14 corsi.
+253 voci, 15 corsi.
 
 
 ## Acustica edilizia
@@ -3079,6 +3079,191 @@ Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con get
 - **Caso tipico:** Una suite di hotel con bagno turco privato ha richiesto la deumidificazione dedicata del locale: senza, il marmo e le porte della camera si degradavano in una stagione.
 - **Normativa:** Gli apparecchi elettrici seguono la marcatura CE e le norme di prodotto; i locali umidi seguono i requisiti elettrici dei volumi (Norma CEI 64-8) con protezioni differenziali 30 mA; le saune seguono le prescrizioni dei produttori e le regole della buona costruzione.
 - **Nota di cantiere:** La sauna va posata su pavimento lavabile con scarico; il bagno turco vuole il soffitto inclinato per far scivolare il condensa verso le pareti; i getti idromassaggio in vasca di ceramica richiedono la struttura rinforzata: il getto è una spinta continua sul rivestimento.
+
+
+## Rinnovabili idro, biomasse e geotermia
+
+*Corso `RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK` — 12 voci*
+
+### Pumped storage e accumulo idroelettrico
+
+**Categoria:** Accumulo idrico · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Grandissime batterie idrauliche: si pompano acque verso un bacino alto per rigenerare in punta.
+
+- **Tecnologia e criteri:** Due bacini a quota diversa collegati da condotta forzata; gruppo pompa-turbina reversibile (Francis reversibile o ternary set) e motore-generatore; ciclo pompaggio-turbinamento con resa 70-80%; avviamento in pochi minuti; funzioni di regolazione primaria, riserva e bilanciamento del FV/eolico.
+- **Applicazioni:** Sistemi elettrici con forte penetrazione rinnovabile, integrazione eolico/FV di valle, servizi di rete.
+- **Vantaggi:** Capacità di accumulo gigawattora, durata di scarica ore-giorni, vita >50 anni, unica tecnologia di accumulo stagionale.
+- **Limiti e attenzioni:** Richiede siti con dislivello idoneo e autorizzazioni ambientali impegnative, efficienza di ciclo limitata, investimenti da centinaia di milioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: 600-2.000 €/kW installato per potenza; il costo per kWh immagazzinato scende al crescere delle ore di bacino.
+- **Caso tipico:** Impianti di pompaggio storici in montagna riammodernati; valutazioni di nuovi bacini con dighe esistenti come riferimento europeo.
+- **Normativa:** Autorizzazioni ambientali e idroelettriche; regolamenti GSE per i servizi di flessibilità e il mercato della capacità; disciplina dighe (D.Lgs 152/2006 e norme di classifica delle dighe).
+- **Nota di cantiere:** Le dighe esistenti vanno sempre verificate per classifica e stato: un pompaggio aumenta i cicli di carico sul paramento e sulle opere di presa.
+
+### Accumulo termico: buffer, stratificazione e materiali a cambiamento di fase
+
+**Categoria:** Accumulo termico · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Conservare il calore per separare produzione e utilizzo: dal serbatoio in acciaio ai PCM.
+
+- **Tecnologia e criteri:** Serbatoi di accumulo in acciaio carbonio/inox con coibentazione e serpentine; stratificazione termica con bocchette di laminazione che mantengono zone calde sopra e fredde sotto (efficienza di stratificazione 80-95%); accumulatori a cambiamento di fase (PCM) con sali idrati o paraffine per accumulare in poco volume; accumuli combinati con serpentina FV per ACS.
+- **Applicazioni:** Sistemi con pompa di calore (riduzione dei cicli di avvio), impianti solari termici, reti di calore, integrazione P2H.
+- **Vantaggi:** Migliora il COP della PdC lavorando a carichi stabili, aumenta l'autoconsumo, riduce potenze contrattuali elettriche e gas.
+- **Limiti e attenzioni:** Ingombro e peso dei grandi volumi, dispersioni se mal coibentati, costo dei PCM ancora elevato, necessità di stratificazione ben progettata.
+- **Costi ed economia:** Ordini di grandezza indicativi: accumulo 500-1.000 L 700-2.500 € installato; PCM 3-10 volte il costo per kWh accumulato rispetto all'acqua.
+- **Caso tipico:** Accumuli combinati solare termico + caldaia di vecchia generazione ancora in esercizio; nuovi sistemi PdC + buffer standard in climatizzazione residenziale.
+- **Normativa:** Norme per recipienti a pressione dove applicabili; marcatura CE dei serbatoi; norme igieniche ACS per temperatura e ricircolo.
+- **Nota di cantiere:** L'accumulo si dimensiona sulle ore di funzionamento decoupled: PdC che lavora 4 ore al giorno richiede buffer per il resto del fabbisogno.
+
+### Biogas da digestione anaerobica
+
+**Categoria:** Biogas · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Produzione di biogas da materie organiche (agro-industriali) e conversione in energia elettrica e termica.
+
+- **Tecnologia e criteri:** Digestori anaerobici a media temperatura (mesofili 35-40 °C) con alimentazione letame e colture dedicate (miscanthus, sorgo, triticale) o scarti agroalimentari; permanenza 20-60 giorni; biogas composto da metano 50-65%, CO2 30-45%, H2S e vapore; cogenerazione CHP con rendimento elettrico 35-40% e termico 45-50%; digestato da spandere come ammendante.
+- **Applicazioni:** Aziende agricole zootecniche e agroindustriali, impianti da 100 kW a 3 MW elettrici, produzione combinata di calore di processo.
+- **Vantaggi:** Valorizza scarti e reflui, bilancia stagionalità delle fonti, digestato ricco di azoto, doppia produzione elettrica+termica.
+- **Limiti e attenzioni:** Gestione tecnica continua, emissioni odorigene da contenere, variabilità del metano in base alla sostanza, mercato degli incentivi cambiato più volte nel tempo.
+- **Costi ed economia:** Ordini di grandezza indicativi: costo impianto 3.000-7.000 €/kW elettrico; produzione specifica 4.000-7.000 kWh/kW·anno per agro; incentivi da verificare di anno in anno sul GSE.
+- **Caso tipico:** Parco italiano di impianti a biogas agro realizzato nella prima ondata FER anni 2010, oggi orientato all'upgrading a biometano.
+- **Normativa:** D.Lgs 28/2011 per l'incentivazione delle rinnovabili; disciplina dello spandimento del digestato (normativa nitrati D.Lgs 152/2006); adempimenti autorizzativi ambientali (AUA).
+- **Nota di cantiere:** La tenuta del digestore e la gestione del biogas (H2S corrosivo) sono punti critici: sensori, ventilazioni e manutenzione dei gruppi CHP decidono la vita dell'impianto.
+
+### Caldaie a biomasse legnose: cippato e pellet
+
+**Categoria:** Biomasse legnose · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Produzione di calore da legna in caldaie automatiche per edilizia civile, industriale e reti di calore.
+
+- **Tecnologia e criteri:** Caldaie a cippato con caricamento a coclea da silos, caldaie a pellet con bruciatore a fiamma invertita o a letto, potenze 20 kW-5 MW termici; rendimento 85-95% sul PCI; canne fumarie coibentate; sistemi di caricamento stoccati giorni-settimane; pannelli di controllo con modulazione di fiamma.
+- **Applicazioni:** Riscaldamento edifici civili grandi (condomini, scuole, uffici), produzione ACS, reti di teleriscaldamento, essiccazione industriale agricola.
+- **Vantaggi:** Rinnovabile gestibile a comando, sostituzione del gasolio e del metano, catena corta del combustibile, incentivi (Conto Termico) su edilizia esistente.
+- **Limiti e attenzioni:** Spazio per stoccaggio, manutenzione regolare dello scambiatore, qualità del combustibile decisiva, emissioni da gestire con camini idonei.
+- **Costi ed economia:** Ordini di grandezza indicativi: caldaia pellet 6-10 kW 4.000-9.000 € installata; centrale a cippato 200 kW 60.000-120.000 €; cippato 100-150 €/t e pellet 300-450 €/t con variazioni di mercato.
+- **Caso tipico:** Teleriscaldamenti a cippato nelle valli alpine e appenniniche; caldaie a pellet diffuse in edilizia residenziale centralizzata.
+- **Normativa:** Regolamenti Ecodesign per caldaie a biomassa (Reg. UE 813/2013); requisiti per emissioni locali secondo normativa regionale/ARPA; UNI EN 303-5 per caldaie a biomassa.
+- **Nota di cantiere:** La canna fumaria va dimensionata e isolata contro la condensa acida; il silos richiede vano antincendio con distanze dalle strutture e dalle reti.
+
+### Biometano: upgrading e iniezione in rete
+
+**Categoria:** Biometano · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Depurazione del biogas fino a qualità da gas naturale e immissione nelle reti di distribuzione.
+
+- **Tecnologia e criteri:** Upgrading con lavaggio ad acqua (scrubbing), adsorbimento con oscillazione di pressione (PSA), membrane polimeriche o lavaggio chimico amminico; rimozione di CO2, H2S, silossani e umidità; biometano con 95-99% CH4 e potere calorifico conforme alle specifiche del gestore di rete; possibilità di uso automotive (BioGNL liquefatto) o industriale.
+- **Applicazioni:** Aziende agricole e agroindustriali con connessione alla rete gas, sostituzione del gas fossile, filiere del trasporto pesante.
+- **Vantaggi:** Stoccabilità nella rete esistente, valorizzazione del biogas senza vincoli di autoconsumo, contribuzione alla decarbonizzazione del gas.
+- **Limiti e attenzioni:** CapEx di upgrading e connessione, accordo con il distributore e specifiche stringenti, variabilità di incentivazione nel tempo.
+- **Costi ed economia:** Ordini di grandezza indicativi: upgrading 300.000-800.000 € per impianti agro da 250-500 Nm³/h; tariffe di iniezione e premialità da verificare sugli schemi GSE vigenti.
+- **Caso tipico:** Crescita degli impianti a biometano in Italia tra i primi mercati europei; upgrade degli impianti a biogas esistenti verso l'iniezione in rete.
+- **Normativa:** Disciplina dell'iniezione di biometano nelle reti (requisiti di qualità e accordi con i distributori); schemi incentivanti GSE aggiornati di volta in volta; D.Lgs 28/2011 come quadro FER.
+- **Nota di cantiere:** Prima di progettare l'upgrading serve il pre-accordo col gestore di rete: portata, pressione, specifiche e punto di consegna definiscono l'impianto.
+
+### Incentivi e conto economico delle rinnovabili termiche ed elettriche
+
+**Categoria:** Economia rinnovabili · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Mappa aggiornabile degli incentivi italiani per FER elettriche e termiche, con la regola d'oro della verifica.
+
+- **Tecnologia e criteri:** Detrazioni fiscali per riqualificazione energetica e misure antisismiche (aliquote e massimali aggiornati con cadenza di legge); Conto Termico 3.0 per pompe di calore, solare termico, biomasse e reti di calore; Contratti di Acquisto Diretto (CAD) gestiti dal GSE per piccole rinnovabili elettriche; CER e configurazioni aggregate; Scambio sul Posto chiuso ai nuovi impianti e RID come alternativa; Tariffe Premio FER riconosciute ai moduli aggiornate periodicamente dal GSE.
+- **Applicazioni:** Ogni progetto di impianto rinnovabile o riqualificazione energetica in Italia, dalla villetta al campo FV.
+- **Vantaggi:** Incentivi stabili e certificati riducono i tempi di ritorno; la combinazione detrazione + CER + autoconsumo è la leva principale per l'edilizia privata.
+- **Limiti e attenzioni:** Le regole cambiano a ogni manovra di bilancio: aliquote, massimali e aperture di bando vanno sempre verificati alla data di progetto; cumuli e divieti vanno letti nel testo vigente.
+- **Costi ed economia:** Ordini di grandezza indicativi: rientro tipico 5-10 anni per PdC con incentivi, 6-12 per biomasse, 8-15 per geotermia senza detrazione agevolata — sempre da ricalcolare sul bando vigente.
+- **Caso tipico:** Aggiornamento dei pacchetti di detrazioni e del Conto Termico tracciato nei pack ENERGETICA_INCENTIVI e FOTOVOLTAICO di questa repository con fonti verificate a ottobre 2026.
+- **Normativa:** D.Lgs 28/2011; decreti requisiti minimi CAM edilizia; decreti Conto Termico (D.M. 7 agosto 2025 per la terza edizione) e aggiornamenti successivi; regole GSE per CER, RID, CAD e Tariffa Premio.
+- **Nota di cantiere:** Regola d'oro: prima di scrivere un preventivo con incentivi, verificare su GSE/ENEA/Agenzia delle Entrate il testo vigente alla data di presentazione della pratica; questa repository registra gli aggiornamenti nel CHANGELOG.
+
+### Geotermia ad alta entalpia
+
+**Categoria:** Geotermia alta entalpia · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+La geotermia da fluidi caldi profondi per produzione elettrica e diretta.
+
+- **Tecnologia e criteri:** Sorgenti naturali o pozzi profondi (1-3 km) con fluidi a 150-350 °C; impianti a flash (separazione vapore/acqua) o a ciclo binario (ORC — Organic Rankine Cycle) per temperature più basse; resa elettrica 5-20% a seconda della temperatura; possibilità di teleriscaldamento a cascata (uso diretto del calore).
+- **Applicazioni:** Aree vulcaniche attive, produzione baseload rinnovabile, teleriscaldamento urbano geotermico.
+- **Vantaggi:** Fonte continua non intermittente, basso costo marginale, combinazione elettricità+calore.
+- **Limiti e attenzioni:** Localizzata in aree specifiche, rischio indotto da reiniezione gestito con protocolli, investimenti esplorativi iniziali.
+- **Costi ed economia:** Ordini di grandezza indicativi: costo di esplorazione e pozzi la voce dominante; LCOE dei campi maturi tra i più bassi delle rinnovabili.
+- **Caso tipico:** Larderello in Toscana (provincia di Pisa-Grosseto), il più antico campo geotermico del mondo in produzione continuativa, con potenza installata complessiva dell'ordine del GW nel distretto toscano.
+- **Normativa:** Autorizzazioni per ricerca e coltivazione geotermica; discipline ambientali per pozzi e reiniezione; D.Lgs 145/2013 per il quadro autorizzativo geotermico.
+- **Nota di cantiere:** Le aree geotermiche storiche convivono con vincoli paesaggistici e termali: la valutazione di impatto integra entrambi gli aspetti.
+
+### Geotermia a bassa entalpia: sonde e pompe di calore geotermiche
+
+**Categoria:** Geotermia bassa entalpia · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Sfruttamento del calore del sottosuolo con sonde di scambio per alimentare pompe di calore.
+
+- **Tecnologia e criteri:** Sonde verticali in HDPE a doppia U in fori da 100-150 m (fino a 400 m nei sistemi più profondi) riempiti di bentonite-cemento; scambiatori orizzontali a spirale o a sonde in falda per piccoli impianti; pompe di calore geotermiche (acqua-aria, acqua-acqua) con COP 3,5-5 e SCOP stagionali elevati; rigenerazione estiva del campo sonde con ricarica del calore (free-cooling raffrescamento).
+- **Applicazioni:** Riscaldamento e raffrescamento di edilizia residenziale, terziaria, condomini, edilizia industriale leggera; integrazione con produzione ACS.
+- **Vantaggi:** Rendimenti altissimi e stabili (il sottosuolo è a temperatura costante), bassa visibilità dell'impianto, combinazione ideale con FV per copertura elettrica.
+- **Limiti e attenzioni:** Richiede terreno per il campo sonde o possibilità di trivellazione, iter autorizzativo per i fori, costo iniziale superiore alle altre pompe di calore.
+- **Costi ed economia:** Ordini di grandezza indicativi: trivellazione e sonda 40-80 €/m; PC geotermica domestica 12.000-25.000 € installata; copertura incentivi tramite Conto Termico da verificare sul bando vigente.
+- **Caso tipico:** Ampia diffusione in Europa centrale (Germania, Svezia, Svizzera) con decine di migliaia di sonde; crescita in Italia su edilizia residenziale e GDO.
+- **Normativa:** D.Lgs 145/2013 (attività geotermica: procedura semplificata per scambiatori fino a 400 m di profondità e 100 kW termici; oltre, procedura ordinaria con valutazioni ambientali); regole regionali sulle trivellazioni.
+- **Nota di cantiere:** Il campo sonde va dimensionato sul carico termico invernale e verificato per il bilancio annuo: la sovratemperatura estiva degrada il COP se non c'è ricarica.
+
+### Power-to-Heat: sfruttare l'eccedenza fotovoltaica in calore
+
+**Categoria:** Integrazione FV-termica · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Conversione dell'elettricità rinnovabile in eccedenza in calore utile, con o senza accumulo.
+
+- **Tecnologia e criteri:** Resistenze elettriche a immersione (booster) su accumuli di acqua calda sanitaria da 1.000-5.000 L; pompe di calore con multi-sorgente (FV + tariffa) e avvio su eccedenza; sistemi ibridi caldaia-PdC con logica di priorità; scambiatori estraibili per la manutenzione; controlli con meter di flusso e gestione degli stati di carica dell'accumulo.
+- **Applicazioni:** Case unifamiliari e condomini con FV esistente, produzione ACS a basso costo marginale, reti di piccola taglia e centri sportivi.
+- **Vantaggi:** Aumenta autoconsumo FV da 30% a 60-80%, riduce il prelievo da rete per ACS, sfrutta l'energia a costo quasi nullo, prepara l'edificio al futuro elettrico.
+- **Limiti e attenzioni:** Necessita accumulo dimensionato per 1-3 giorni di fabbisogno ACS, gestione tariffe e logica di controllo, rendimento della conversione diretta limitato rispetto alla PdC.
+- **Costi ed economia:** Ordini di grandezza indicativi: accumulo 1.000 L in acciaio inox 1.500-3.500 €; booster e controllo 500-1.500 €; payback tipico 4-8 anni su famiglia con FV.
+- **Caso tipico:** Retrofit diffusi di serbatoi ACS con resistenze e logica di autoconsumo su edilizia residenziale con FV anni 2010-2020.
+- **Normativa:** Norme CEI per impianti elettrici e protezioni; requisiti per il collegamento delle utenze (CEI 0-21); norme igieniche per ACS (L. 238/2004 e circolari per la prevenzione della legionella).
+- **Nota di cantiere:** L'accumulo ACS va mantenuto a temperatura di legionellosi (ricircolo periodico ≥60 °C): il booster programma i cicli quando c'è sole, non a caso.
+
+### Mini-idroelettrico: schemi e turbine
+
+**Categoria:** Mini-idro · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Produzione idroelettrica su piccola scala con turbine idrauliche adatte a portate e salti diversi.
+
+- **Tecnologia e criteri:** Schemi a flusso (bacino presa, canale/gravità, centrale, scarico) o a derivazione; turbine Pelton per salti >250 m e portate modeste, Francis per salti 30-250 m, Kaplan ed eliche per bassi salti (<30 m) e portate elevate; alternatori sincroni o asincroni, rendimento complessivo 85-92%; portata minima vitale e deflussi biologici garantiti.
+- **Applicazioni:** Torrenti e fiumi di montagna, derivazioni da acquedotti e scarichi industriali, potenze da pochi kW a 1 MW (micro <100 kW).
+- **Vantaggi:** Fonte programmabile e flessibile, vita utile >40 anni, basso impatto visivo a scala ridotta, integrazione nelle reti rurali.
+- **Limiti e attenzioni:** Dipendenza dalla portata stagionale, iter autorizzativo lungo per concessioni e vincoli ambientali, interferenze con usi irrigui e bacini.
+- **Costi ed economia:** Ordini di grandezza indicativi: costo impianto mini-idro 2.000-6.000 €/kW installato; produzione specifica da 1.500 a 4.500 kWh/kWp equivalente secondo salto e portata.
+- **Caso tipico:** Presenze diffuse di centrali storiche riammodernate nelle valli alpine; connessione di derivazioni agricole e acquedotti con concessione.
+- **Normativa:** D.Lgs 28/2011 (obiettivi FER e disciplina produzione da rinnovabili); disciplina delle acque e delle concessioni idroelettriche secondo il Testo Unico Ambiente; autorizzazione unica dove prevista.
+- **Nota di cantiere:** Prima della modifica di una derivazione occorre verificare i deflussi minimi e le interferenze con le opere di presa esistenti; la ripresa a valle va tenuta in funzione per le specie ittiche.
+
+### Pellet, cippato e certificazione dei combustibili legnosi
+
+**Categoria:** Qualità combustibile · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Classi di qualità del combustibile legnoso: il rendimento di una caldaia nasce dal legno.
+
+- **Tecnologia e criteri:** Classificazione del pellet secondo UNI EN ISO 17225-2 (ex UNI EN 14961-2) in classi A1, A2 e B con parametri su ceneri (<0,5-1,2%), potere calorifico (16-19 MJ/kg), umidità (<10%), fini e additivi; cippato classificato per funzione (UNI EN ISO 17225-1); certificazioni di filiera (ENplus per pellet, certificazioni per cippato) che tracciano origine e scambiamento; umidità del cippato fresato 25-40% contro 10-15% del pellet essiccato.
+- **Applicazioni:** Scelta del combustibile per caldaie residenziali, centrali di teleriscaldamento, stufe e termostufe.
+- **Vantaggi:** Combustibile standardizzato garantisce rendimento e basse emissioni, filiera certificata tracciabile, maggiore potere calorifico per volume stoccato.
+- **Limiti e attenzioni:** Qualità variabile del prodotto non certificato, sensibilità ai prezzi di mercato, stoccaggio del cippato con rischio di degradazione e autoaccensione.
+- **Costi ed economia:** Ordini di grandezza indicativi: pellet certificato A1 300-450 €/t; cippato 100-150 €/t; differenza di rendimento reale tra cippato ben essiccato e fresco 10-20%.
+- **Caso tipico:** Il mercato italiano del pellet è tra i maggiori d'Europa con forte importazione; certificazione ENplus adottata dalla gran parte dei produttori nazionali.
+- **Normativa:** UNI EN ISO 17225 (classi di qualità del pellet e del cippato); Reg. UE 813/2013 (etichettatura energetica e requisiti ecodesign); schemi di certificazione volontaria di filiera.
+- **Nota di cantiere:** Un pellet di classe B in una caldaia tarata per A1 sporca lo scambiatore e aumenta le emissioni: la scheda tecnica della caldaia indica le classi ammesse.
+
+### Teleriscaldamento e reti di calore
+
+**Categoria:** Reti di calore · **Corso:** Rinnovabili idro, biomasse e geotermia
+
+Distribuzione centralizzata del calore prodotto da biomasse, geotermia, recupero o cogenerazione.
+
+- **Tecnologia e criteri:** Reti a doppia tubazione con tubi preisolati in acciaio o polietilene (PE-RT) a circuito primario ad alta temperatura (90-130 °C) o basse temperature (50-70 °C per reti di 4ª generazione); cabine di sottostazione di utenza con scambiatori e contabilizzazione; fonti centralizzate: caldaie a biomassa, recupero energetico, inceneritori ottimizzati, geotermia; perdite di rete 5-15% da contenere con isolamento e controllo.
+- **Applicazioni:** Quartieri residenziali, distretti industriali, città con campo geotermico o impianti di recupero.
+- **Vantaggi:** Fonte centralizzata efficiente e monitorabile, sostituzione diffusa delle caldaie private, possibilità di miscela di fonti rinnovabili.
+- **Limiti e attenzioni:** Investimento iniziale della rete proporzionale alla lunghezza, densità di carico minima richiesta, manutenzione delle sottostazioni condominiali.
+- **Costi ed economia:** Ordini di grandezza indicativi: rete primaria 300-800 €/m lineare a seconda del diametro; sottostazione utenza 3.000-8.000 €; tariffa calore competitiva con gas in densità buone.
+- **Caso tipico:** Reti di teleriscaldamento a biomassa nelle valli alpine e appenniniche; distretti geotermici toscani; bandi per reti di calore efficienti promossi a livello nazionale e regionale.
+- **Normativa:** Requisiti di contabilizzazione del calore negli edifici (direttiva UE 2012/27 e recepimento); UNI 10200 per i sistemi di contabilizzazione; bandi e decreti per reti di calore da verificare alla data di progetto.
+- **Nota di cantiere:** La fattibilità di una rete nasce dalla densità termica: chiavi in mano si valutano linee chilometriche per MWh fatturato prima di progettare la tracciato.
 
 
 ## Robotica delle costruzioni

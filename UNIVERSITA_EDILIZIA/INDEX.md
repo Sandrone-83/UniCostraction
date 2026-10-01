@@ -155,3 +155,11 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - ENERGETICA_INCENTIVI_PACK 13→15 schede: detrazioni fiscali aggiornate con numeri verificati ad ottobre 2026 (50%/36% 2026 con limite 96.000 €, roadmap 2027-2034, esclusione caldaie a gas 2025-2027, tetto art. 16-ter TUIR per redditi oltre 75.000 €); nuove schede su RID e chiusura dello Scambio sul Posto ai nuovi impianti, e Reddito Energetico (ISEE ≤15.000/30.000 €, impianti 2-6 kW, copertura 100%)
 - Esame ENERGETICA_INCENTIVI rigenerato (220→250 domande)
 - Totale repository: 54 pack, 764 schede, 55 esami
+
+## Corsi del giro di approfondimento 11 — trasporti, rinnovabili termiche/idriche, carpenteria (2026-10-01, bozza post-v1.1.0)
+
+- FERROVIE_E_STAZIONI_PACK (13 schede, L2-L3, FACOLTA_INGEGNERIA) — nuovo corso: armamento con massicciata e slab track, manutenzione, ETCS/ERTMS e SCMT, elettrificazione 3 kV/25 kV, gallerie, viadotti e ponti, piattaforme e pensiline, lavori in stazione in esercizio, grandi nodi e stazioni AV, sicurezza CSM (D.Lgs 264/2008, reg. CE 352/2009), costi e programmazione dei cantieri lineari, passanti urbani e soppressioni PL
+- RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK (12 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA) — nuovo corso: mini-idro e turbine (Pelton/Francis/Kaplan), pumped storage, caldaie a biomassa e pellet (UNI EN ISO 17225), biogas e upgrading a biometano, geotermia bassa entalpia (D.Lgs 145/2013) e alta entalpia (Larderello), teleriscaldamento e reti di calore, power-to-heat e accumulo termico, incentivi con regola della verifica annuale
+- CARPENTERIA_METALLICA_E_ACCIAIO_PACK (12 schede, L1-L2, FACOLTA_INGEGNERIA) — nuovo corso: acciai UNI EN 10025 e zincati EN 10346, profili laminati e cavi, carpenteria leggera, saldature e qualifiche (ISO 5817/9606-1/15614), bullonati HR EN 14399 e svolgimenti A/B/C, marcatura CE EN 1090 EXC1-4, prove non distruttive, corrosione ISO 12944, protezione antincendio EN 13381, montaggio, ponti e sostenibilità
+- Nuovi esami: ESAMI/FERROVIE, ESAMI/RINNOVABILI_IDRO, ESAMI/CARPENTERIA (250 domande ciascuno), chiavi riservate fuori repository, distrattori pertinenti allo stesso settore
+- Totale repository: 57 pack, 801 schede, 58 esami

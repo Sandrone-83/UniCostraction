@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-926 voci enciclopediche tratte da 55 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+963 voci enciclopediche tratte da 58 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -13,12 +13,18 @@
   Gli impianti sportivi devono essere fruibili da tutti: persone con disabilità motorie, sensoriali e cognitive. L'accessibilità riguarda percorsi esterni, parcheggi, ingressi, spalti, spogliatoi e servizi igienici, fino a…
 - **Accessori impianto idrico** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Flessibili, gruppi di sicurezza, vasi di espansione, filtri e riduttori di pressione: gli 'organi' dell'impianto idrico.
+- **Acciai strutturali: gradi, laminati e zincati** — Acciai · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Le famiglie di acciaio da costruzione: gradi strutturali, lamiere e nastri zincati.
 - **Acciaio da cemento armato B450C** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Barre nervate per il cls armato: la resistenza a trazione del cls strutturale.
 - **Acciaio inossidabile** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Leghe Fe-Cr-Ni con passivazione autorigenerante: corrosione quasi zero senza protezione.
+- **Acciaio, sostenibilità ed economia circolare** — Sostenibilità · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  L'impronta ambientale e il costo dell'acciaio da costruzione: LCA, EPD e riciclo.
 - **Accumulo batterie domestico** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Batterie agli ioni di litio per accumulare il FV e usarlo di sera: l'autoconsumo oltre il 60-80%.
+- **Accumulo termico: buffer, stratificazione e materiali a cambiamento di fase** — Accumulo termico · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Conservare il calore per separare produzione e utilizzo: dal serbatoio in acciaio ai PCM.
 - **Acqua refrigerata e torri di raffreddamento nei grandi edifici** — Grandi impianti · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Oltre una certa scala non si porta più refrigerante negli ambienti: si produce acqua refrigerata (chilled water) in centrale termica e la si distribuisce alle unità di trattamento dell'aria, con le torri di raffreddament…
 - **Acustica percepita: il comfort che non si vede** — Acustica percepita · corso: *Master in design* (`MASTER_DESIGN_PACK`)
@@ -73,12 +79,18 @@
   Progettare con il clima, non contro: passivismo, energia quasi zero, adattamento.
 - **Armadi a muro, cabine armadio e sistemi di contenimento** — Armadi e cabine · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Il contenimento su misura è il grande assente dalle planimetrie e la prima lamentela d'uso: armadi a muro (anta o patta), cabine armaggio (minimo 90×120 cm, meglio 120×160), guardaroba con configurazioni interne (doppie …
+- **Armamento ferroviario con massicciata** — Armamento tradizionale · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Sistema rotaia-traversina-massicciata (ballasted track) della rete ferroviaria convenzionale.
+- **Armamento senza massicciata (slab track)** — Armamento avanzato · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Sopraelevato continuo in cls su cui sono ancorate rotaie o traverse bloccate, senza pietrisco.
 - **Art direction: la coerenza di marca negli spazi** — Art direction · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Come un brand vive negli spazi: identità, materiali, racconto.
 - **Ascensori e accessibilità: portare l'edificio a chiunque** — Accessibilità · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
   L'ascensore è il cuore dell'accessibilità: le norme definiscono porte, comandi, segnali e dimensioni per rendere l'impianto usabile da chi si muove in carrozzina, da non vedenti e da chiunque abbia ridotte capacità motor…
 - **Ascensori e piattaforme elevatrici: obblighi e scelte** — Ascensori · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   L'abbattimento barriere verticali si fa con ascensori (obbligatori sopra certi piani/attività), piattaforme elevatrici (per dislivelli ridotti e carichi limitati) e montacarichi; gli impianti sono sottoposti a regole pre…
+- **Assemblaggi bullonati: sistemi HR e svolgimento A/B/C** — Assemblaggi · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  I collegamenti a bullone ad alta resistenza: precarico, superfici e calcolo.
 - **Assonometrie, prospettive e resa del progetto** — Assonometrie e prospettive · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Mentre le viste ortogonali danno le misure, assonometrie (isometrica, dimetrica) e prospettive (a un/due/tre punti di fuga) danno la comprensione spaziale e comunicativa: servono al cliente, non al posatore.
 - **Attuatori domotici** — Attuatori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -101,6 +113,10 @@
   Il modello arriva in cantiere: sequenze di montaggio 4D (modello + tempi), verifica posizionamento con GPS/total station, controllo qualità su tablet (il modello come riferimento da confrontare col costruito), sicurezza …
 - **Biochar e materiali carbon-negative** — Speciali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Materiali da costruzione con biochar (carbone vegetale) che sequestrano CO₂: la frontiera della costruzione rigenerativa.
+- **Biogas da digestione anaerobica** — Biogas · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Produzione di biogas da materie organiche (agro-industriali) e conversione in energia elettrica e termica.
+- **Biometano: upgrading e iniezione in rete** — Biometano · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Depurazione del biogas fino a qualità da gas naturale e immissione nelle reti di distribuzione.
 - **Bitume liquido e primer** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Primer bituminosi per preparare i supporti e bitumi liquidi per sigillature leggere.
 - **Blocco calcestruzzo cellulare autoclavato** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -137,6 +153,8 @@
   Cls gettato per strade e pavimentazioni industriali: rigido, duraturo, con giunti.
 - **Caldaia a condensazione** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Generatore di calore a gas a rendimento 90-109%: il punto di riferimento europeo.
+- **Caldaie a biomasse legnose: cippato e pellet** — Biomasse legnose · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Produzione di calore da legna in caldaie automatiche per edilizia civile, industriale e reti di calore.
 - **CAM e sostenibilità: i criteri ambientali minimi negli appalti** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli appalti pubblici di lavori, servizi e forniture (D.Lgs 36/2023): per gli edilizi coprono materiali, energia, acqua, rifiuti e salute dell'am…
 - **Camini, finestre da tetto e attraversamenti: i punti deboli** — Camini · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -147,6 +165,8 @@
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
+- **Carpenteria metallica leggera per costruzioni a secco** — Carpenteria leggera · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Profili sottili zincati per contropareti, contropavimenti, tetti e strutture leggere.
 - **Carta da parati e rivestimenti murali** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Carte, vinilici e tessuti da parete: finitura decorativa e protettiva.
 - **Casseforme e disarmo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -245,6 +265,8 @@
   Il gusto non è solo soggettività: si regge su principi riconoscibili — proporzione (sezione aurea, rapporti armonici), gerarchia visiva (cosa si vede per primo), ritmo e ripetizione, contrasto e analogia, bilanciamento d…
 - **Costi e tempi della bonifica: ordini di grandezza per il preventivo edilizio e il rischio commessa** — Economia · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   La bonifica è la voce di preventivo più incerta di un'opera di riqualificazione: i suoi costi dipendono da quantitativi, classificazione dei rifiuti, tecnologie scelte e tempi autorizzativi. L'ingegnere edile deve saper …
+- **Costi, contratti e programmazione dei lavori ferroviari** — Economia e programma · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Come si stima, appalta e programma un cantiere lineare ferroviario.
 - **Costruzioni in zona sismica: la lezione italiana** — Sismica civile · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   L'Italia è il paese europeo più sismico: come le opere civili convivono col terremoto.
 - **Cotto** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -313,6 +335,8 @@
   L'edilizia pubblica abitativa è tornata centrale: ERP (edilizia residenziale pubblica) con assegnazione a canone calmierato, housing sociale (bandi regionali e nazionali con risorse PNRR), riqualificazione del patrimonio…
 - **Elementi per solai latero-cementizi** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocchi in laterizio o polistirolo da interporsi tra i nervature dei solai: alleggeriscono e collaborano.
+- **Elettrificazione ferroviaria: 3 kV DC e 25 kV AC** — Elettrificazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Sistemi di alimentazione elettrica dei treni sulla rete italiana e sulle linee AV.
 - **EPgl,nren e edificio di riferimento: le verifiche energetiche** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La verifica energetica di legge confronta l'indice di prestazione energetica globale non rinnovabile EPgl,nren (kWh/m² anno) dell'edificio progettato con quello dell'edificio di riferimento e con i limiti per zona climat…
 - **EPS grafite** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -341,6 +365,8 @@
 ## F
 - **Ferrovie e linee ad alta velocità** — Ferrovie · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   La rotaia: geometria, sovrastruttura, segnalamento e le gallerie dell'alta velocità.
+- **Ferrovie metropolitane e passanti urbani** — Integrazione urbana · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Le linee ferroviarie in ambito urbano: passanti, soppressioni dei passaggi a livello, cinturazioni.
 - **Fibra di gesso (Fermacell)** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lastra di gesso rinforzata con fibre di cellulosa: più resistente e resistente all'umidità del cartongesso.
 - **Fibra di legno** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -373,6 +399,8 @@
   Diagrammi momento-taglio, curve di carico, andamenti termici: leggere e capire i grafici.
 
 ## G
+- **Gallerie ferroviarie** — Opere sotterranee · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Costruzione e adeguamento delle gallerie ferroviarie, dal raddoppio sezionale alla nuova linea.
 - **Gateway e integrazione multprotocollo** — Gateway · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Come far parlare insieme KNX, BACnet, Modbus, Zigbee, Matter, cloud.
 - **Gemello digitale di cantiere e opera** — Digital twin · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -381,6 +409,10 @@
   Rettangoli, triangoli, cerchi, trapezi: calcolare superfici di lavoro senza software.
 - **Geometria solida: volumi dei corpi della costruzione** — Geometria solida · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Parallelepipedi, cilindri, piramidi, tronchi di cono: quanto materiale serve davvero.
+- **Geotermia a bassa entalpia: sonde e pompe di calore geotermiche** — Geotermia bassa entalpia · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Sfruttamento del calore del sottosuolo con sonde di scambio per alimentare pompe di calore.
+- **Geotermia ad alta entalpia** — Geotermia alta entalpia · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  La geotermia da fluidi caldi profondi per produzione elettrica e diretta.
 - **Geotessuto** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tessuto sintetico (polipropilene/poliestere) non tessuto o intrecciato: separazione, filtrazione, rinforzo.
 - **Gestione del rischio: contrattuale, assicurativo, finanziario** — Rischio · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -439,6 +471,8 @@
   Come funziona il 'GPS' dei cantieri e quando non funziona.
 - **Graffetta e filo di legatura** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Filo metallico sagomato per legatrici o staple per graffatrici: fissaggio leggero di rete, teli, guaine, isolanti.
+- **Grandi stazioni e nodi intermodali** — Grandi opere · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Architetture delle grandi stazioni moderne: hall, gallerie di stazione, interscambi e coperture.
 - **Gres porcellanato** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Ceramica compatta vetrificata: il pavimento di maggior successo: durevole, impermeabile, infinite estetiche.
 - **Grigliato in acciaio** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -863,6 +897,8 @@
   Distribuzione segnali TV terrestri/satellitari, DAB, streaming strutturato.
 - **Impregnante e vernice per legno** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prodotti che penetrano o rivestono il legno: protezione da umidità, UV e insetti.
+- **Incentivi e conto economico delle rinnovabili termiche ed elettriche** — Economia rinnovabili · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Mappa aggiornabile degli incentivi italiani per FER elettriche e termiche, con la regola d'oro della verifica.
 - **Inchiostri (mix) per stampa 3D** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   I mix stampabili: requisiti di pompa-bilità, apertura di staglio, costruibilità (buildability).
 - **Ingegneria civile sostenibile: il Green Deal delle opere** — Sostenibilita · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -873,6 +909,8 @@
   Il quadro dell'innovazione negli interni: materiali bio-based e riciclati a parete (feltro, sughero, canapa, terrazzo veneziano ricomposto), superfici tattili (stucco, calce, marmorino), il ritorno del legno caldo e dei …
 - **Interruttori e prese** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Placche con interruttori, prese, USB e comandi: il punto di contatto dell'impianto.
+- **Interventi edilizi in stazione e a ridosso dei binari** — Lavori in esercizio · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Criteri per costruire o ristrutturare edifici di stazione mentre la circolazione continua.
 - **Intervento antisismico sul costruito storico** — Miglioramento sismico · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   L'intervento antisismico sul costruito storico mira al miglioramento della sicurezza senza snaturare le strutture esistenti, privilegiando tecniche compatibili e il più possibile reversibili. Interventi tipici sono il ri…
 - **Intonaco civile tradizionale e premiscelato** — Finiture · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -1483,12 +1521,16 @@
   Malta cementizia ad alta resistenza, fibrorinforzata, applicabile a strati spessi anche in verticale (non cola): ripristino cls ammalorato.
 - **Malte di risanamento e deumidificazione delle murature umide** — Risanamento murature umide · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   Le murature umide degli edifici storici si risanano eliminando le cause di risalita capillare e asportando le parti degraderate. Le malte di risanamento, a base di calce naturale e aggregati specifici, devono essere fisi…
+- **Manutenzione dell'armamento** — Manutenzione linea · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Preservazione della geometria del binario e rinnovo programmato degli elementi usurabili.
 - **Manutenzione della pietra naturale: pulizia, decalcificazione e rigenerazione della lucidatura** — Manutenzione · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   La pietra naturale invecchia con dignità se mantenuta: pulizia ordinaria con detergenti neutri, decalcificazione periodica dei depositi calcarei su superfici ruvide o in esterno, e rigenerazione della lucidatura quando i…
 - **Manutenzione e gestione del patrimonio infrastrutturale** — Gestione opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere invecchiano: monitoraggio, manutenzione programmata, digitalizzazione del patrimonio.
 - **Manutenzione programmata e risparmio energetico** — Gestione e sicurezza · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   La sostenibilità economica di un impianto si gioca in esercizio: manutenzione programmata delle superfici, delle strutture e degli impianti tecnologici, insieme a scelte di efficientamento energetico che incidono sui con…
+- **Marcatura CE e controllo di produzione in fabbrica (FPC)** — Marcatura CE · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  UNI EN 1090: il passaporto europeo della carpenteria strutturale.
 - **Marciapiedi, piste ciclabili e la città a 30 km/h** — Marciapiedi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   La viabilità dolce è la nuova frontiera urbana: marciapiedi continui e accessibili, piste ciclabili di qualità (protette, continue), zone 30 e isole ambientali; il principio è la gerarchia delle velocità: dove ci sono pe…
 - **Marmo e pietre naturali** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1525,8 +1567,12 @@
   La mensa scolastica richiede una progettazione che garantisca la sicurezza alimentare, la fluidità dei pasti e il comfort degli alunni durante i pasti. Le cucine scolastiche sono ambienti di produzione alimentare soggett…
 - **Mezzi di movimentazione terra e trasporto in cantiere** — Movimentazione · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   I mezzi di movimentazione terra (escavatori, pale gommate, caricatrici, dumper, automezzi) sono responsabili di una quota significativa degli infortuni da investimento e schiacciamento in cantiere. La gestione sicura ric…
+- **Mini-idroelettrico: schemi e turbine** — Mini-idro · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Produzione idroelettrica su piccola scala con turbine idrauliche adatte a portate e salti diversi.
 - **Modbus** — BUS industriale · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
+- **Montaggio della carpenteria in cantiere** — Montaggio · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Dalla consegna in officina alla struttura in opera: sequenza, giunti e precisione.
 - **Moquette** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento tessile in rotoli o quadrotti: comfort acustico e termico: uffici e camere.
 - **Movimento franoso: prevenzione e mitigazione** — Frane · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -1569,6 +1615,8 @@
   Le superfici indoor per palestre devono garantire l'assorbimento degli urti, l'elasticità controllata e lo stato di superficie. Le soluzioni principali sono parquet sportivo a listoni, resine poliuretaniche autolivellant…
 - **Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   All'aperto la scelta della superficie determina disciplina praticabile, frequenza d'uso e costo di esercizio: erba sintetica con riempitivi, terra battuta stabilizzata, asfalto o cemento, erba naturale ed erba ibrida a r…
+- **Pellet, cippato e certificazione dei combustibili legnosi** — Qualità combustibile · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Classi di qualità del combustibile legnoso: il rendimento di una caldaia nasce dal legno.
 - **Perché costruire in legno: il materiale che respira** — Fondamenti · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno è il più antico dei materiali da costruzione e il più moderno: rinnovabile (cresce), sequestra CO2 (un m³ di legno stocca ~1 tonnellata di CO2), leggero (5 volte più del calcestruzzo), isolante naturale, lavorab…
 - **Persiane, tapparelle, frangisole: l'ombra come prestazione** — Oscuranti · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
@@ -1577,6 +1625,8 @@
   Ceramica a pasta rossa o bianca (non vetrificata): il rivestimento bagno/cucina classico: economica e decorativa.
 - **Piattaforme elevatrici e montacarichi: il verticale dove l'ascensore non entra** — Soluzioni compatte · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
   Non sempre serve un ascensore: per piccoli dislivelli, carichi o contesti con pochi spazio ci sono le piattaforme elevatrici (per persone in carrozzina) e i montacarichi (per merci). Regimi, limiti e costi sono diversi, …
+- **Piattaforme, banchine e pensiline ferroviarie** — Architetture di stazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Elementi edilizi delle stazioni di superficie: banchine viaggiatori, pensiline e percorsi di interconnessione.
 - **Pietra naturale a rivestimento** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lastre di pietra naturale per facciate e pareti interne: pietra di Luserna, ardesia, travertino.
 - **Pietra naturale, agglomerati, ceramica e riconglomerati: confronto e restauro** — Confronto materiali · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
@@ -1603,6 +1653,8 @@
   Combinazione caldaia a gas + pompa di calore: la PDC copre il 90% del fabbisogno, la caldaia i picchi.
 - **Pompe e circolatori: come funzionano e come si scelgono** — Pompe e circolatori · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il cuore che muove l'acqua nei circuiti chiusi.
+- **Ponti e grandi strutture metalliche** — Grandi strutture · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Cenni tecnici sulle grandi strutture di acciaio: forme, cantiere e fatica.
 - **Ponti: tipologie e scelta della struttura** — Ponti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Attraversare l'ostacolo: la storia e la tecnologia del ponte.
 - **Poroton (argilla forata ad alta isolazione)** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1637,6 +1689,8 @@
   Posa a colla di piastrelle ceramiche su massetto o autolivellante. Errore tipico: doppia spalmatura saltata su formati grandi (vuoti sotto la piastrella e rotture) e fughe assenti o troppo strette; controllo: battitura a…
 - **Posa in opera dei serramenti esterni (controtelaio e giunto di posa)** — Serramenti · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Installazione di finestre e porte esterne con controtelaio, fissaggi meccanici e giunto di posa a tre livelli. Errore tipico: schiuma espansiva come unica tenuta (si degrada ai UV e perde adesione) e fissaggi troppo radi…
+- **Power-to-Heat: sfruttare l'eccedenza fotovoltaica in calore** — Integrazione FV-termica · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Conversione dell'elettricità rinnovabile in eccedenza in calore utile, con o senza accumulo.
 - **Prefabbricazione robotizzata (off-site, DfMA)** — Off-site automation · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Fabbriche con robot saldatori, carroponte CNC e linee automatizzate per componenti edilizi.
 - **Prese e comandi esterni** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1645,6 +1699,8 @@
   Il prezzo richiesto è un'offerta, il valore di mercato è un intervallo, il prezzo di chiusura è il risultato della trattativa; la negoziazione immobiliare funziona su: informazione (chi sa di più vince), tempistica (chi …
 - **Profili acciaio HEA/IPE/UPN** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Profili laminati a caldo per carpenteria metallica: travi, pilastri, correnti: la struttura metallica per eccellenza.
+- **Profili laminati e profili cavi** — Profilati · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Il catalogo dei profili metallici: dalle travi IPE alle tubazioni strutturali.
 - **Profili metallici per cartongesso** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Profili in lamiera zincata (C, U, omega, montanti) che formano il telaio delle pareti e controsoffitti.
 - **Profilo inox per scale** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1655,12 +1711,20 @@
   Il 'panino' geotecnico: scavo, sostegno, rivestimento, ventilazione e sicurezza.
 - **Progetto stradale: tracciamento e pavimentazione** — Strade · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   La strada come opera d'ingegneria: geometria, pavimentazione, drenaggio.
+- **Protezione antincendio delle strutture metalliche** — Antincendio · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Conservare la portanza dell'acciaio al fuoco: intumescenti, vermiculite e protezioni passive.
 - **Protezione contro rischio di contaminazione (sistemi a tenuta di rifiuto)** — Idraulica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Dispositivi antinquinamento per evitare risalite nei punti d'acqua: zone di protezione.
 - **Protezione da sovratensioni (SPD)** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Difesa da fulmini e manovre rete: scaricatori di sovratensione.
+- **Protezione dalla corrosione: classi ambientali e sistemi** — Corrosione · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  Durabilità dell'acciaio: dalla classificazione ISO 12944 alla zincatura e ai cicli vernicianti.
+- **Prove non distruttive sulla carpenteria** — Collaudi NDT · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  VT, PT, MT, UT e RX: il protocollo di verifica dei giunti senza smontare nulla.
 - **Pulitura e trattamenti di superfici lapidee e intonaci storici** — Pulitura superfici · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   La pulitura delle superfici lapidee e degli intonaci storici va condotta con metodo graduale, dal meno invasivo al più incisivo, valutando la risposta del materiale a ogni passaggio. Acqua deionizzata, spazzolamenti mecc…
+- **Pumped storage e accumulo idroelettrico** — Accumulo idrico · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Grandissime batterie idrauliche: si pompano acque verso un bacino alto per rigenerare in punta.
 
 ## Q
 - **Quadri elettrici** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1727,6 +1791,8 @@
   Rubinetti, miscelatori, termostatiche e doccioni: il punto di contatto con l'acqua.
 
 ## S
+- **Saldature strutturali: processi, qualifica e difetti** — Saldature · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
+  La saldatura come cuore della carpenteria: processi, procedure e controllo della qualità.
 - **SAM100 (Semi-Automated Mason)** — Robot muratori · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Robot collaborativo che posa mattoni pieni/forati con malta, con operaio alimentatore.
 - **Sanitari** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1753,6 +1819,8 @@
   Ogni progetto ha un incentivo 'giusto': il fondo perduto (Conto Termico) vince sulla liquidità, la detrazione vince sul valore percentuale per chi ha capienza, il credito d'imposta vince sulla pianificazione d'impresa: l…
 - **Scenari, logiche e sequenze** — Scenari · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   La programmazione comportamentale: 'cinema', 'benvenuto', 'notte', 'emergenza'.
+- **Segnalamento ferroviario: ETCS/ERTMS e SCMT** — Segnalamento · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Sistemi di controllo e protezione automatica della marcia dei treni e distanziamento.
 - **Sensoristica domotica** — Sensori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Gli occhi dell'impianto: presenza, movimento, luce, temperatura, umidità, CO2, qualità aria.
 - **Serbatoi e opere di contenimento** — Serbatoi · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -1761,6 +1829,8 @@
   La sezione è la vista dell'oggetto 'tagliato' lungo un piano di taglio: mostra ciò che le viste esterne nascondono (anime, stratigrafie, connessioni). Lo spaccato è una sezione applicata all'edificio; il dettaglio è un i…
 - **Sforzo normale, taglio, momento flettente: la trinità del calcolo** — Sforzi · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le tre sollecitazioni di base e le loro formule di verifica.
+- **Sicurezza ferroviaria: CSM, certificazione e Agenzia ERA** — Sicurezza del sistema · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Il quadro della sicurezza ferroviaria europea e nazionale: regole, certificazioni, indagini.
 - **Sicurezza informatica dell'edificio smart** — Cybersecurity · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Proteggere l'edificio connesso: reti, dispositivi, cloud, accessi remoti.
 - **Sicurezza nelle grandi opere e nei cantieri sotterranei** — HSE opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -1813,6 +1883,8 @@
   La parte tecnica del fare architettura: involucro, dettaglio costruttivo, prestazione.
 - **Tegola marsigliese e piana** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tegole in laterizio piane o sagomate con aggancio meccanico: la copertura del nord e delle pendenze medie.
+- **Teleriscaldamento e reti di calore** — Reti di calore · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
+  Distribuzione centralizzata del calore prodotto da biomasse, geotermia, recupero o cogenerazione.
 - **Tendenze e stili: come si riconoscono e come si usano** — Tendenze · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il lessico degli stili dal 2000 a oggi: minimal, industrial, scandi, wabi-sabi, new classic.
 - **Tendenze edilizia e interior 2024-2026: cosa chiede il mercato** — Tendenze 2025 · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -1879,6 +1951,8 @@
   Due o più lastre unite da film plastico (PVB): i frammenti restano attaccati al film in caso di rottura.
 - **Vettori, coordinate e sistema cartesiano in cantiere** — Vettori e coordinate · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Spostamenti, forze e coordinate: la matematica dei 'quanto in quale direzione'.
+- **Viadotti e ponti ferroviari** — Opere d'arte · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
+  Opere di attraversamento per linee ferroviarie: viadotti continui, ponti ad arco e impalcati.
 - **Videosorveglianza e privacy** — Videocamere · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Telecamere IP per sicurezza, con vincoli GDPR per aree comuni e lavoro.
 - **Vincoli e autorizzazioni per i beni tutelati** — Vincoli e autorizzazioni · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)

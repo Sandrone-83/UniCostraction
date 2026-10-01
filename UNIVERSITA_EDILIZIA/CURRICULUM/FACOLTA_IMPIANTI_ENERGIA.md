@@ -22,3 +22,6 @@ Impiantistica completa, domotica, innovazione e robotica di cantiere.
 ## Corsi aggiunti (giro tipologie speciali)
 - DATA_CENTER_E_CRITICAL_FACILITIES_PACK (L3)
 - PISCINE_E_WELLNESS_PACK (L2)
+
+## Corsi aggiunti (giro K)
+- RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK (L2-L3) — mini-idro, pumped storage, biomasse e pellet, biogas/biometano, geotermia bassa e alta entalpia, teleriscaldamento, power-to-heat, accumulo termico, incentivi
