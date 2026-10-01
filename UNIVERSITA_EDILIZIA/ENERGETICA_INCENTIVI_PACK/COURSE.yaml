@@ -1,0 +1,9 @@
+corso: "Energetica edilizia e incentivi"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 13
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "GSE (Conto Termico 3.0), D.M. 7/8/2025, ENEA, D.Lgs 102/2014, D.Lgs 192/2005, D.Lgs 199/2021, fonti di settore aggiornate a ottobre 2026"
+nota_metodologica: "I dati del Conto Termico 3.0 sono stati verificati via web a ottobre 2026 su più fonti (GSE e testate di settore). Le misure fiscali cambiano con ogni legge di bilancio: dove i valori sono variabili nel tempo lo si dichiara esplicitamente. Ogni scheda riporta il riferimento normativo di base."
