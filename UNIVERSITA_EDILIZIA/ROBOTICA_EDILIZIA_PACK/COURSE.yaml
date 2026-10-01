@@ -1,5 +1,6 @@
 corso: "Robotica delle costruzioni"
 facolta: "FACOLTA_IMPIANTI_ENERGIA"
+schede: 27
 livello: "L3"
 descrizione: "Stampa 3D, robot, droni, AI vision, digital twin, economia."
 formato: "JSONL/MD"

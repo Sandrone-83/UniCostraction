@@ -1,8 +1,28 @@
 # VERSIONE — Punto di riferimento per AuraTrix
 
-## Versione corrente: **v1.0.0** — 2026-10-01
+## Versione corrente: **v1.1.0** — 2026-10-01
 
-**Stato: RILASCIATA (tag Git `v1.0.0`)**
+**Stato: RILASCIATA (tag Git `v1.1.0`)**
+
+## Cosa contiene v1.1.0 rispetto a v1.0.0 (da leggere prima di agganciare AuraTrix)
+
+- **7 corsi nuovi (73 schede nuove)**: ascensori e movimentazione verticale (10),
+  fotovoltaico campi/agrivoltaico/CER con dati incentivi verificati 10/2026 (15),
+  sicurezza di cantiere D.Lgs 81/08 (13), murature intonaci e finiture (12),
+  facility management e manutenzione programmata (12), fisco e tributi dell'impresa
+  edile (11)
+- **+20 schede di approfondimento** su 5 corsi esistenti (legno, costruzioni
+  speciali, materiali del futuro, sicurezza antincendio/accessibilità, edilizia
+  industriale)
+- **47 esami nuovi**: copertura completa — ogni corso (49/49) ha il proprio esame;
+  11.385 domande in formato standard + 3.000 legacy dei primi giri; chiavi riservate
+  fuori repository
+- **Risultato**: 49 corsi, 702 schede, 50 esami (14.385 domande totali)
+- **Correzioni**: 4 COURSE.yaml privi del conteggio `schede:` completati; nessuna
+  correzione normativa (sole aggiunte) — coerente con incremento minor
+- CHANGELOG: voci Giri C, D, E, F, G con protocollo Prima/Dopo/Fonte; le tre righe
+  «DA VERIFICARE» ereditate da v1.0.0 restano aperte ma non bloccanti (riguardano
+  solo la numerazione precisa di riferimenti già espressi in forma prudente)
 
 ## Come funziona il versionamento di questa repository
 
@@ -39,4 +59,5 @@
 
 | Tag | Data | Contenuto |
 |---|---|---|
+| v1.1.0 | 2026-10-01 | Sole aggiunte: 7 corsi nuovi (73 schede), +20 approfondimenti, 47 esami nuovi (copertura 49/49 corsi, 14.385 domande totali). Nessuna correzione normativa |
 | v1.0.0 | 2026-10-01 | Prima versione rilasciata: 42 corsi pack, enciclopedia con glossario (250+ termini), esami, CHANGELOG con 18 voci di correzione registrate (Giri A e B), licenza Auratrix |

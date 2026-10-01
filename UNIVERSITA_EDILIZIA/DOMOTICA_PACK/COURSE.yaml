@@ -1,5 +1,6 @@
 corso: "Domotica e building automation"
 facolta: "FACOLTA_IMPIANTI_ENERGIA"
+schede: 29
 livello: "L2-L3"
 descrizione: "Protocolli, sensori, sicurezza, gestione energetica, normativa."
 formato: "JSONL/MD"
