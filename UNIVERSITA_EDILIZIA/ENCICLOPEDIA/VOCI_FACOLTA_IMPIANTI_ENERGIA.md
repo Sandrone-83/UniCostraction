@@ -452,7 +452,7 @@ Quanti pannelli servono: la procedura completa con i numeri.
 - **Limiti e attenzioni:** La produzione reale varia del ±15% col meteo: il contratto deve parlare di stime, non promesse.
 - **Costi ed economia:** Simulatore PVGIS (gratuito) per i dati locali precisi.
 - **Caso tipico:** La casa media italiana (2.700 kWh/anno) con 3 kWp e autoconsumo 30%: ~1.300 kWh auto-usati + vendita del resto.
-- **Normativa:** CEI 0-21; UNI 9174.
+- **Normativa:** CEI 0-21 (connessione BT); guida CEI 82-25 per la realizzazione dei sistemi fotovoltaici (serie in parti, edizione vigente).
 - **Nota di cantiere:** Regola pratica: il FV si dimensiona sul CONSUMO, il tetto è il vincolo, la batteria è l'optional. Chi parte dal tetto ('mettiamo 20 pannelli perché ci stanno') ha capito tutto al contrario.
 
 ### Il dimensionamento delle stringhe e degli inverter
@@ -467,7 +467,7 @@ Come si collegano i moduli: tensioni, correnti e il rapporto inverter.
 - **Limiti e attenzioni:** Le curve reali di potenza variano: il rapporto 1,2 è un compromesso, non una legge.
 - **Costi ed economia:** I software di stringatura gratuiti dei produttori di inverter.
 - **Caso tipico:** Gli impianti con rapporto 1,3: perdita di resa <2% rispetto a 1,0 con costo inverter inferiore.
-- **Normativa:** CEI 0-21 (connessione degli utenti BT); le guide di settore CEI per l'installazione FV (edizione vigente).
+- **Normativa:** CEI 0-21 (connessione degli utenti BT); guida CEI 82-25 per la realizzazione dei sistemi fotovoltaici (serie in parti, edizione vigente).
 - **Nota di cantiere:** Il controllo d'installazione: la Voc di stringa si misura PRIMA del collegamento all'inverter: la lettura deve stare nel range MPPT. Un errore qui brucia l'inverter in 30 secondi.
 
 ### I sistemi ibridi FV + batteria + rete + generatore: il dimensionamento integrato
@@ -972,7 +972,7 @@ L'impianto domotico come cervello del sistema energetico: consumi, produzione, a
 - **Limiti e attenzioni:** API cloud soggette a cambi; dipendenza marca inverter.
 - **Costi ed economia:** Integrazione software: 0-1k€; hardware aggiuntivo minimo.
 - **Caso tipico:** Home Assistant Energy, Fronius, Victron (flessibili), Sonnen.
-- **Normativa:** CEI 0-21; UNI 9174 impianti generazione.
+- **Normativa:** CEI 0-21 (connessione BT); guida CEI 82-25 per i sistemi fotovoltaici (serie in parti, edizione vigente).
 - **Nota di cantiere:** La scalda-acqua con resistenza 'fotovoltaica' (SG Ready) è il primo upgrade economico: 300 € di relè, +15% autoconsumo.
 
 ### Gateway e integrazione multprotocollo
@@ -2087,7 +2087,7 @@ Generazione elettrica da sole: il cuore della transizione energetica degli edifi
 - **Limiti e attenzioni:** La resa dipende da orientamento/inclinazione/ombreggiamenti; la burocrazia (GSE) scoraggia.
 - **Costi ed economia:** Impianto 6 kWp residenziale: 7.000-12.000 € (2025) installato; capannone 100 kWp: 60.000-90.000 €.
 - **Caso tipico:** Moduli: LONGi, Jinko, Trina; inverter: SolarEdge, Fronius, Huawei, SMA.
-- **Normativa:** CEI 0-21 (BT), CEI 0-16 (MT); UNI 9174; D.Lgs 28/2011.
+- **Normativa:** CEI 0-21 (BT), CEI 0-16 (MT); guida CEI 82-25 (sistemi fotovoltaici); D.Lgs 28/2011.
 - **Nota di cantiere:** Il vero rendimento di un FV si decide al sopralluogo: alberi, comignoli, antenne possono distruggere la produzione di un tetto 'bello'.
 
 ### Adduzione gas metano e GPL

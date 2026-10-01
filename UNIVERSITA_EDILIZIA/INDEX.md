@@ -132,3 +132,11 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 
 - Esami completati per TUTTI i corsi: 37 esami nuovi (ROBOTICA 350, IMPIANTI_COMPLETA 350, CAPOLAVORI 300, STRUTTURE 300 e 33 esami da 180 a 250 domande) — totale 50 esami, 11.385 domande in formato standard + 3.000 legacy dei primi giri
 - Ogni corso della repository (49 pack) ha ora il proprio esame di valutazione; chiavi riservate fuori repository
+
+## Corsi del giro di approfondimento 8 (2026-10-02, bozza post-v1.1.0)
+
+- EDILIZIA_SCOLASTICA_TECNICO_PACK (12 schede) — nuovo corso: patrimonio scolastico e messa in sicurezza, aule e capienza, antincendio scolastico, sicurezza antintrusione, miglioramento energetico, acustica, laboratori e palestre, piattaforme elevatrici e abbattimento barriere, tettoie e cortili, pratiche e normativa
+- BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK (12 schede) — nuovo corso: indagini preliminari, caratterizzazione e campionamenti, analisi di rischio, contenimento e bonifica amianto, bonifica suoli e falde, bonifica serbatoi interrati e distributori, bonifica gasdotti, beni culturali bonificabili, sorveglianza e monitoraggi, gestione terre e rocce, sicurezza e adempimenti, economia delle bonifiche
+- Correzioni normative verificate e tracciate in CHANGELOG (Giro H): guida CEI 82-25 confermata e numerata nelle schede FV, riferimenti catastali Docfa (Do.C.Fa., D.M. 2 gennaio 1998 n. 28, DPR 138/1998) specificati, opere marittime con CSLP 23/09/1994 n. 156 e CNR-DT 207/2008; rimossa la UNI 9174 (prova di reazione al fuoco) da tre schede FV dove era collocata per errore
+- Nuovi esami: ESAMI/EDILIZIA_SCOLASTICA (250 domande) ed ESAMI/BONIFICA_SITI (250 domande), chiavi riservate fuori repository
+- Totale repository: 51 pack, 726 schede, 52 esami

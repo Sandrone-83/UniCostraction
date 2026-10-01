@@ -18,6 +18,7 @@ di apprendimento per settore.
 | ACUSTICA | ✅ 220 domande | chiavi: jsonl |
 | ARCHITETTURA | ✅ 250 domande | chiavi: jsonl |
 | ASCENSORI | ✅ 300 domande | chiavi: jsonl |
+| BONIFICA_SITI | ✅ 250 domande | chiavi: jsonl |
 | CAD_BIM | ✅ 200 domande | chiavi: jsonl |
 | CAPOLAVORI | ✅ 300 domande | chiavi: jsonl |
 | CONTABILITA_APPALTI | ✅ 200 domande | chiavi: jsonl |
@@ -30,6 +31,7 @@ di apprendimento per settore.
 | DISEGNO_TECNICO | ✅ 250 domande | chiavi: jsonl |
 | DOMOTICA | ✅ 300 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
+| EDILIZIA_SCOLASTICA | ✅ 250 domande | chiavi: jsonl |
 | ENERGETICA_INCENTIVI | ✅ 220 domande | chiavi: jsonl |
 | FACILITY_MANAGEMENT | ✅ 250 domande | chiavi: jsonl |
 | FISCO_IMPRESA_EDILE | ✅ 250 domande | chiavi: jsonl |
@@ -66,7 +68,7 @@ di apprendimento per settore.
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: esame per ognuno dei 49 corsi della repository. I tre esami «legacy» dei primi giri
+Copertura: esame per ognuno dei 51 corsi della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.
 

@@ -306,13 +306,13 @@ Come si divide un bene comune: dall'eredita al frazionamento edilizio.
 
 Come si registra/rettifica un immobile al catasto: il software Docfa e le pratiche.
 
-- **Tecnologia e criteri:** Docfa (Dichiarazione di Fabbricati): le planimetrie catastali (quotate, con simboli normalizzati); le prove (atto di provenienza, concessione); l'invio telematico; la conformità catastale vs conformità urbanistica.
+- **Tecnologia e criteri:** Docfa (Documenti Catasto Fabbricati): le planimetrie catastali (quotate, con simboli normalizzati); le prove (atto di provenienza, concessione); l'invio telematico; la conformità catastale vs conformità urbanistica.
 - **Applicazioni:** Nuove costruzioni, ristrutturazioni, variazioni (fusioni, frazionamenti).
 - **Vantaggi:** L'accatastamento regolare vale: l'immobile non accatastato ha mercato nullo.
 - **Limiti e attenzioni:** La distinzione catasto/urbanistica confonde tutti: sono due mondi paralleli che devono convergere.
 - **Costi ed economia:** Pratica Docfa da tecnico: 150-500 €; sanatoria catastale: 300-1.000 €.
 - **Caso tipico:** Migliaia di pratiche Docfa quotidiane in Italia; le verifiche di conformità catastale nelle compravendite (2023-2024: requisito sempre più stringente).
-- **Normativa:** Le disposizioni tecniche catastali vigenti (Agenzia delle Entrate, aggiornamenti Docfa); per la conformità urbanistica le norme del PRGC comunale.
+- **Normativa:** Do.C.Fa. (Documenti Catasto Fabbricati), applicativo ufficiale Agenzia delle Entrate: basi normative D.M. 2 gennaio 1998 n. 28, DPR 138/1998; Vademecum Docfa Agenzia delle Entrate; per la conformità urbanistica le norme del PRGC comunale.
 - **Nota di cantiere:** L'LLM deve distinguere: CONFORMITA' CATASTALE (il fabbricato è al catasto come è costruito) vs CONFORMITA' URBANISTICA (è costruito come autorizzato): due verifiche diverse, due professionisti, due esiti possibili.
 
 ### Titoli edilizia libera per il tecnico: CILA, SCIA, PdC

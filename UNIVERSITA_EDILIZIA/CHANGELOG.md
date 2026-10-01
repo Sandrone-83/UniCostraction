@@ -119,3 +119,21 @@ Contenuto: esame per ognuno dei 49 corsi della repository (37 esami nuovi genera
 | G3 | Validazione globale | 49 pack, 702 schede, 0 errori JSON | Script di validazione eseguito a fine giro |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).
+
+## Giro H — 2026-10-02, bozza post-v1.1.0 (verso v1.2, NESSUN tag applicato)
+
+Contenuto: 2 corsi nuovi (edilizia scolastica, bonifica siti ambientali), 2 esami nuovi (500 domande), chiusura di tutte le righe aperte «DA VERIFICARE» (B12, B13, B8/B2) su fonte primaria, correzione di una norma vera collocata su schede sbagliate (UNI 9174 citata su tre schede fotovoltaiche).
+
+| # | Scheda / Pack | PRIMA (cosa c'era) | DOPO (cosa c'e' ora) | FONTE (su cosa e' stato controllato) |
+|---|---|---|---|---|
+| H1 | DIMENSIONAMENTO_FV_EOLICO_ACCUMULO (schede 1-2), IMPIANTI_COMPLETA (stringhe/inverter), DOMOTICA (FV+accumulo) | «UNI 9174» nel campo normative di tre schede fotovoltaiche | UNI 9174 rimossa; sostituita con «guida CEI 82-25 per la realizzazione dei sistemi fotovoltaici (serie in parti, edizione vigente)» | UNI 9174:1987 (+A1:1996) = prova «Reazione al fuoco dei materiali sottoposti all'azione di una fiamma d'innesco in presenza di calore radiante» (metodo del D.M. 26/6/1984): norma vera ma NON pertinente al dimensionamento FV. Verificata il 02/10/2026 su uni.com, gbranca.it, mauromalizia.it, guida INAIL reazione al fuoco |
+| H2 | DIMENSIONAMENTO_FV_EOLICO_ACCUMULO (scheda 2) — CHIUSURA riga B12 | «guide di settore CEI per l'installazione FV (edizione vigente)» | «guida CEI 82-25 (serie in parti, edizione vigente)» | Ricerca web 01/10/2026: CEI 82-25 «Guida alla realizzazione di sistemi di generazione fotovoltaica collegati alle reti elettriche di Media e Bassa Tensione», ed. 2010 e 2022; riordino in parti (82-25/1:2026 abroga 82-25/1:2022) |
+| H3 | GEOMETRA_TOPOGRAFIA_ESTIMO (scheda Docfa) — CHIUSURA riga B13 | «Disposizioni tecniche catastali vigenti (Agenzia delle Entrate, aggiornamenti Docfa)» e espansione «Docfa (Dichiarazione di Fabbricati)» | «Do.C.Fa. (Documenti Catasto Fabbricati), applicativo ufficiale Agenzia delle Entrate: basi normative D.M. 2 gennaio 1998 n. 28, DPR 138/1998; Vademecum Docfa» e espansione corretta «Documenti Catasto Fabbricati» | Ricerca web 01/10/2026: Do.C.Fa. applicativo dal 1996, basi normative D.M. 2 gennaio 1998 n. 28 e DPR 138/1998, Vademecum Docfa ufficiale Agenzia delle Entrate |
+| H4 | INGEGNERIA_CIVILE (opere marittime) + COSTRUZIONI_SPECIALI (opere marittime) — CHIUSURA riga B8/B2 | «indicazioni tecniche di settore (CNR e circolari MIT)» e segnaposto «D.M. marina?» | «CNR-DT 207/2008 (azione del vento); Istruzioni tecniche per la progettazione delle dighe marittime (CSLP 23/09/1994 n. 156); circolari MIT; ISO 12944 (protezione dalla corrosione)» | Ricerca web 01/10/2026: CSLP 23/9/1994 n. 156 verificato; CNR-DT 207/2008 (R1/2018) confermato su cnr.it. Il documento «CNR 1012» per opere marine NON e' stato verificato: resta NON citato nel materiale |
+| H5 | 2 corsi nuovi | EDILIZIA_SCOLASTICA_TECNICO_PACK (12 schede), BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK (12 schede) | Norme di consolidata certezza settoriale; redatti da agenti dedicati sotto brief rigido e poi rivalidati dal curatore (JSON, schema 11 campi, refusi, formula costi) prima del commit | Rivalidazione curatoriale completa del giro |
+| H6 | Esami EDILIZIA_SCOLASTICA (250 domande) e BONIFICA_SITI (250 domande) | — | Chiavi riservate fuori repository (ESAMI_RISPOSTE/), distrattori sempre dello stesso settore | Controllo interno: schema chiavi validato, 0 anomalie |
+| H7 | Validazione globale | — | 51 pack, 726 schede, 0 errori JSON, 0 schede fuori schema | Script di validazione eseguito a fine giro |
+
+Righe aperte nel giro: NESSUNA. Le righe aperte pendenti (B12, B13, B8/B2) sono chiuse con fonte alla voce H2-H4. Il documento CNR 1012 per opere marine resta non citato in attesa di fonte primaria: nessuna azione richiesta al materiale.
+
+Nota di rilascio: questo giro contiene CORREZIONI a schede esistenti (H1-H4), non solo aggiunte. Il prossimo tag sara' valutato con l'utente: patch v1.1.1 (se correzioni + aggiunte) oppure v1.2.0. Nessun tag applicato a questo commit.

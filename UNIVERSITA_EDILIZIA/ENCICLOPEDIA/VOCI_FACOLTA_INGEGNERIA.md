@@ -297,7 +297,7 @@ Le opere marittime convivono con l'acqua di mare: dighe foranee e frangiflutti (
 - **Limiti e attenzioni:** Il mare risponde in anni, non in giorni: le opere sbagliate degradano lentamente ma inesorabilmente e i danni a terzi (erosione della costa vicina) sono oggetto di contenziosi lunghissimi.
 - **Costi ed economia:** Costi: molto variabili (opere marittime: migliaia di euro al metro lineare); la manutenzione è il 30-50% del costo del ciclo di vita.
 - **Caso tipico:** Porto turistico: il frangiflutti orientato seguendo l' analisi delle onde dominanti ha mantenuto la calma in banchina con mare forza 7; il porto 'gemello' con orientamento sbagliato richiede chiusura con mare forza 5.
-- **Normativa:** D.M. marina? Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione.
+- **Normativa:** Specifiche tecniche per le opere marittime (direttive MIT); per le dighe foranee le Istruzioni tecniche per la progettazione delle dighe marittime (CSLP 23/09/1994 n. 156); Eurocodice 7 (geotecnica) e Eurocodice 8 (sismica); norme sulla corrosione (ISO 12944 per le protezioni).
 - **Nota di cantiere:** La prima legge dell'ingegneria marittima: rispettare il mare come un carico vivo che cambia — mai combatterlo con la rigidità dove serve la porosità.
 
 ### I ponti: tipologie e cenni di progetto
@@ -1402,7 +1402,7 @@ Ingegneria del mare: difendere la costa e creare approdi sicuri.
 - **Limiti e attenzioni:** Le opere marine subiscono la mareggiata del secolo: il sovradimensionamento è la norma.
 - **Costi ed economia:** Diga foranea: 5-20 k€/ml; dragaggio portuale: 3-15 €/m3.
 - **Caso tipico:** Porto di Genova (diga foranea in costruzione 6 km); MOSE di Venezia (opera di difesa mareale: 5,5 mld €).
-- **Normativa:** Le azioni di progetto secondo gli Eurocodici (EN 1991) e le Norme tecniche per le costruzioni (D.M. 17/01/2018); per le opere marittime le indicazioni tecniche di settore (CNR e circolari MIT).
+- **Normativa:** Le azioni di progetto secondo gli Eurocodici (EN 1991), le Norme tecniche per le costruzioni (D.M. 17/01/2018) e CNR-DT 207/2008 (azione del vento); per le dighe marittime le Istruzioni tecniche per la progettazione delle dighe marittime (CSLP 23/09/1994 n. 156); circolari MIT per le opere marittime.
 - **Nota di cantiere:** Il MOSE insegna: le opere maritime hanno tempi biblici (1973-2020) e la manutenzione è eterna: progettare semplice da mantenere vale più del record.
 
 ### Costruzioni in zona sismica: la lezione italiana
