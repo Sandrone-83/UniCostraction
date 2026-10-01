@@ -3,7 +3,192 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-163 voci, 11 corsi.
+188 voci, 13 corsi.
+
+
+## Acustica edilizia
+
+*Corso `ACUSTICA_EDILIZIA_PACK` — 12 voci*
+
+### La fonometria ambientale: classi acustiche e limiti di zona
+
+**Categoria:** Ambiente · **Corso:** Acustica edilizia
+
+Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa alla più rumorosa) con limiti di immissione differenziati per periodo (diurno/notturno) e per tipo di sorgente; la zonizzazione acustica la determina il comune con piano attuativo.
+
+- **Tecnologia e criteri:** Quadro: 1) Legge 447/95: classificazione del territorio in classi I-VI, limiti di immissione (Lr) e di emissione (Le) per le sorgenti; 2) D.Lgs 194/05: obbligo di zonizzazione acustica, piani di classificazione, rilevamenti fonometrici strategici; 3) limiti di immissione: valori in dB(A) Leq che dipendono dalla classe (zone residenziali di norma in classe III o IV: limiti diurni intorno a 50-55 dB(A) e notturni intorno a 40-45 dB(A) seconda del comune); 4) sorgenti: strade, ferrovie, aeroporti, industrie, attività commerciali con requisiti di emissione; 5) acustica attiva: interventi sulle sorgenti, sul percorso (barriere, tunnel) e sul ricettore (facciate); 6) il piano attuativo comunale vincola i nuovi insediamenti: aree sensibili (scuole, ospedali) verso nuove infrastrutture rumorose richiedono la compensazione acustica.
+- **Applicazioni:** Piani urbanistici, nuove infrastrutture di trasporto, autorizzazioni industriali, valutazioni di impatto acustico, contenziosi di vicinato.
+- **Vantaggi:** La classe acustica dà un diritto: l'abitante di una zona classe II può pretendere il rispetto dei limiti notturni, e il progettista di una nuova strada sa a cosa attenersi prima di disegnarla.
+- **Limiti e attenzioni:** I valori esatti di limite li fissa il piano comunale: la legge quadro dà le categorie, i regolamenti locali danno i numeri; le mappe di zonizzazione possono essere datate.
+- **Costi ed economia:** Indagine fonometrica ambientale per VIA o piano: 3.000-15.000 € in funzione del numero di stazioni e notti di misura; zonizzazione comunale: 20.000-100.000 € per il piano completo.
+- **Caso tipico:** Nuovo centro logistico vicino a frazione residenziale: la valutazione previsionale ha mostrato superamento notturno di 4 dB sul limite di classe III: l'accordo con il comune ha previsto barriera fonica e chiusura notturna del piazzale in cambio dell'autorizzazione, evitando il contenzioso.
+- **Normativa:** Legge 26/10/1995 n. 447; D.Lgs. 19/08/2005 n. 194 (attuazione direttiva 2002/49/CE); norme tecniche di riferimento UNI EN ISO 1996-1/-2 (misura e descrizione); regolamenti e piani attuativi comunali.
+- **Nota di cantiere:** In fase di acquisto o progettazione, chiedere subito la classe acustica della zona: una differenza di classe può valere un trattamento di facciata da 30.000 € o un contenzioso decennale.
+
+### La bonifica acustica dell'esistente: strategie per edifici che non passano
+
+**Categoria:** Bonifica · **Corso:** Acustica edilizia
+
+Quando un edificio esistente non rispetta i requisiti (o le lamentele arrivano), si bonifica per cammini di trasmissione: tamponamenti, controsoffitti, massetti, rivestimenti, correzione dei ponti acustici.
+
+- **Tecnologia e criteri:** Diagnosi prima, intervento dopo: 1) mappatura dei cammini (misure con sorgente in vari punti, auscultazione strutturale, termografia per i vuoti); 2) interventi tipo: parete a doppia lastra con cavedio isolato davanti alla parete esistente (+8-12 dB), controsoffitto autoportante sospeso con smorzamento (+5-10 dB sul calpestio aereo), massetto flottante rifatto sopra l'esistente (+10-15 dB calpestio), rivestimento a parete con sistema a telaio isolato (+6-10 dB), doppie porte e atri per i percorsi aperti; 3) i ponti acustici (cassettoni, tubi, luci continui, travi) vanno chiusi prima di aggiungere massa: chiudere il percorso vale più che raddoppiare il materiale; 4) materiali: doppie lastre in cartongesso accoppiate con viscoelastico, lana minerale ad alta densità nei cavedi, membrane bituminose come smorzanti.
+- **Applicazioni:** Edifici residenziali e alberghi in contenzioso, cambi destinazione d'uso, edifici storici con requisiti da adeguare, scuole e uffici pubblici.
+- **Vantaggi:** La bonifica ben diagnosticata colpisce il cammino vero: i costi si contenere perché si interviene dove serve e non 'a tappeto'.
+- **Limiti e attenzioni:** Nei solai di legno antichi e nei solai in laterocemento con travetti il margine di miglioramento è fisicamente limitato (5-8 dB): gestire le aspettative con il committente è parte dell'intervento.
+- **Costi ed economia:** Bonifica parete con contro-parete isolata: 80-150 €/m²; controsoffitto acustico: 70-140 €/m²; massetto flottente di bonifica: 40-80 €/m²; campagna diagnostica preliminare: 1.000-3.000 €.
+- **Caso tipico:** Albergo in centro storico con calpestio di 62 dB in tutte le camere sottostanti: il problema era un unico tipo di massetto anni '70 incollato. La sostituzione selettiva solo dei solai delle camere (40% della superficie) ha portato l'intero albergo in conformità, risparmiando il 60% del costo 'a tappeto'.
+- **Normativa:** DPCM 5/12/1997 (valori di conformità); UNI EN ISO 16283 (verifica post-intervento); UNI EN ISO 12354 (valutazione previsionale dell'intervento).
+- **Nota di cantiere:** La regola della bonifica: mai aggiungere materiale prima di aver spento i ponti. Chi mette lana ovunque senza aver chiuso il cammino di flanking sta arricchendo il cartongessificio, non l'isolamento.
+
+### Il rumore di calpestio: massetti galleggianti e pavimenti
+
+**Categoria:** Calpestio · **Corso:** Acustica edilizia
+
+Il rumore di calpestio è la struttura-borne sound generata dai passi: si attutisce con massetti galleggianti (strato elastico sotto il massetto), tappeti flottanti e giunti perimetrali; il DPCM richiede L'nT,w ≤ 58 dB tra unità abitative.
+
+- **Tecnologia e criteri:** Principi: 1) smorzare il punto d'impatto (pavimenti resilienti, moquette, sughero); 2) interrompere il percorso strutturale (massetto galleggiante: lastra di cls separata dal solaio da un materiale elastico continuo, spessori 50-100 mm di massetto su 10-30 mm di isolante compresso); 3) evitare ponti: il massetto galleggiante non deve toccare pareti, colonne, tubazioni, gradini: il cordolo perimetrale elastico è obbligatorio; 4) il rivestimento finale conta poco rispetto al sistema completo: un gres su massetto flottante dà L'nT,w di 50-55 dB, lo stesso gres incollato sul solaio dà 75-80 dB; 5) gli impianti passanti (tubi, canne fumarie) vanno decouplati o rivestiti con materiale fonoassorbente.
+- **Applicazioni:** Edilizia residenziale e alberghiera: solai tra piani diversi, unità in verticale, palestre e locali tecnici sopra ambienti sensibili.
+- **Vantaggi:** Il massetto galleggiante è la tecnica più robusta: il costo aggiuntivo è modesto (8-20 €/m²) rispetto al rischio di asseverazione mancata.
+- **Limiti e attenzioni:** Ponte acustico al perimetro = azzeramento della prestazione; i lavori successivi (perforazioni per infissi a pavimento, scale) possono distruggere la galleggiamento locale.
+- **Costi ed economia:** Sistema massetto flottante completo: 25-50 €/m² (isolante + massetto + posa); correzione postuma in opera: 30-80 €/m² con ristrutturazione dei locali.
+- **Caso tipico:** Condominio con L'nT,w misurato di 61 dB: la causa era un unico ponte al cordolo perimetrale del vano scala, dove il massetto era 'poggiato' per errore sul muro portante. Il rifacimento di 12 metri lineari di cordolo ha portato l'intero edificio in conformità.
+- **Normativa:** DPCM 5/12/1997 (limite L'nT,w ≤ 58 dB); UNI EN ISO 717-2 (classificazione calpestio); UNI EN ISO 140-7/-8 (misura in laboratorio e opera).
+- **Nota di cantiere:** Regola pratica: il flottamento si controlla prima del getto, non dopo. Una foto del cordolo perimetrale chiuso correttamente vale più di dieci certificazioni di materiale.
+
+### Il rumore esterno: facciate, serramenti e barriere
+
+**Categoria:** Esterno · **Corso:** Acustica edilizia
+
+La protezione dal rumore esterno si ottiene con la facciata (muratura, serramento, vetro, cassonetto, angoli ciechi) progettata sul rumore della classe acustica dell'area; le barriere stradali attenuano la propagazione in esterno ma non sostituiscono la facciata.
+
+- **Tecnologia e criteri:** Elementi: 1) serramento: valore di isolamento Rw o DnT,w tipico 28-42 dB (monoblocco economico vs finestre a taglio termico con doppio vetro 4/12/4 o triplo); 2) muratura: 10 cm di cls ≈ 50 dB, 8 cm di laterizio forato intonacato ≈ 45-50 dB; 3) cassonetti e persiane: valgono 2-5 dB se chiusi bene, nulla se lasciati aperti o rotti; 4) il punto debole è quasi sempre il vetro e la permeabilità dell'infisso: un serramento da 40 dB su una parete da 50 dB vale quanto il serramento; 5) riflessioni: cortili stretti e facciate parallele concentrano il rumore (riflessioni multiple); 6) barriere stradali: l'attenuazione teorica massima ~20-25 dB per barriere molto lunghe, realistica 5-15 dB, con le estremità e gli effetti di diffrazione come fattori critici.
+- **Applicazioni:** Strade, ferrovie, aeroporti, zone industriali, ospedali e scuole vicino a sorgenti, nuove costruzioni in aree classificate ad alta emissione.
+- **Vantaggi:** La facciata giusta risolve il problema alla radice: un buon serramento ben installato protegge 24 ore su 24 senza manutenzione.
+- **Limiti e attenzioni:** Le abitudini d'uso (finestre aperte di notte in estate) possono annullare il progetto; nelle aree con rumore molto alto (oltre 70 dB) servono facciate speciali e ventilazione meccanica.
+- **Costi ed economia:** Serramento con doppio vetro 4/12/4 e telaio a taglio termico: 300-600 €/m²; triplo vetro: 450-800 €/m²; barriera stradale fonica: 400-900 €/ml.
+- **Caso tipico:** Case popolari lungo tangenziale: le camere da letto davanti alla barriera rilevavano 68 dB(A) con finestra chiusa a causa di cassonetti rotti e vetri semplici; il piano di sostituzione serramenti (triplo vetro, cassonetti coibentati) ha portato le camere a 45-48 dB(A) con la barriera stradale esistente.
+- **Normativa:** Legge 447/95 e classificazione acustica del territorio (limiti per uso degli ambienti); DPCM 5/12/1997; UNI EN ISO 12354-3 (calcolo della facciata); UNI EN ISO 1996 (descrizione e misura del rumore esterno).
+- **Nota di cantiere:** Verifica pratica: la facciata vale quanto il suo elemento più debole per il cammino aereo. Controllare cassonetti, bocchette di ventilazione, e la tenuta perimetrale degli infissi prima di firmare il collaudo acustico.
+
+### Le grandezze acustiche: decibel, frequenza, spettro
+
+**Categoria:** Fondamenti · **Corso:** Acustica edilizia
+
+L'acustica si misura in decibel (dB), scala logaritmica del rapporto tra pressioni sonore: 3 dB in più raddoppiano l'energia, 10 dB in più raddoppiano la sensazione di sonorità; l'orecchio umano percepisce da 20 Hz a 20.000 Hz, con massima sensibilità tra 1.000 e 4.000 Hz.
+
+- **Tecnologia e criteri:** Fondamenti: 1) livello di pressione sonora Lp = 20·log10(p/p0) con p0 = 20 µPa (soglia udibile); 2) combinazione di sorgenti: due sorgenti uguali danno +3 dB, dieci sorgenti uguali +10 dB; 3) le frequenze si raggruppano in bande d'ottava (63, 125, 250, 500, 1.000, 2.000, 4.000, 8.000 Hz) e terzi d'ottava per le misure precise; 4) pesature spettrali: A (simula l'orecchio, usata per il rumore ambientale e il DPCM), C (piatta, per i bassi livelli e le vibrazioni); 5) tempi di riverberazione RT60 (tempo di decadimento di 60 dB) che caratterizzano l'ambiente chiuso; 6) massa, rigidità e smorzamento come proprietà dei materiali che governano isolamento e assorbimento.
+- **Applicazioni:** Base di ogni progetto, misura e verifica acustica: dai cantieri ai concerti, dalle scuole alle fondamenta dei compressori.
+- **Vantaggi:** Una volta capita la scala logaritmica, i numeri acustici diventano leggibili: '64 dB' si scompone in bande, frequenze e pesi in modo meccanico.
+- **Limiti e attenzioni:** Il dB non è una grandezza 'assoluta' come il metro: senza specificare pesatura, banda e tempo di misura, un valore isolato è ambiguo.
+- **Costi ed economia:** Fonometro integratore professionale: noleggio 100-300 €/giorno, acquisto 800-4.000 €; fonometro classe 1 con analizzatore di bande 3.000-10.000 €; software di calcolo previsionale acustico da gratuito a 5.000 €.
+- **Caso tipico:** Contenzioso tra condomini: la misura 'a sensazione' registrata su smartphone (65 dB pesata sbagliata, tempo di misura 10 s) è stata sostituita da una misura fonometrica con fonometro classe 1, pesatura A, intervallo di osservazione di un'ora: il valore corretto era 54 dB(A) e il contenzioso si è chiuso.
+- **Normativa:** Riferimenti metrologici: IEC 61672 (fonometri); serie UNI EN ISO 1996 (rumore ambientale); UNI EN ISO 140 e UNI EN ISO 16283 (misura acustica in edilizia).
+- **Nota di cantiere:** Prima di discutere di rumore, fissare le condizioni: pesatura, banda, tempo di misura, meteo, sorgente. Chi misura senza convenzioni sta raccogliendo numeri, non prove.
+
+### Il rumore degli impianti: caldaie, VMC, pompe e condizionatori
+
+**Categoria:** Impianti · **Corso:** Acustica edilizia
+
+Gli impianti meccanici sono la prima causa di lamentele acustiche negli edifici moderni: caldaie a condensazione, unità esterne di climatizzazione, VMC, pompe di calore producono rumore di regimi che si trasmette per via aerea e strutturale.
+
+- **Tecnologia e criteri:** Sorgenti e rimedi: 1) rumore di regimi (ventilatori, compressori): si riduce con la scelta di macchine silenziose (etichetta dichiarata Lw), supporti antivibranti (base elastica, molle), flessibili antivibranti su aspirazione/mandata, silenziatori sui condotti; 2) trasmissione strutturale: le macchine vibanti vanno su basi inerziali (zoccolo di cls con interposto elastico) e non a contatto diretto con strutture rigide; 3) percorsi aeraulici: il silenziamento si progetta per tratte (calcolo di attenuazione in base a lunghezza, curve, split), con silenziatori a setti sui locali tecnici; 4) unità esterne: attenzione alla riflessione su pareti vicine (effetto 'cortile') e alle rigidezze del supporto a parete: i supporti antivibranti su struttura riducono la trasmissione al solaio; 5) la regola di progetto: Lw ammissibile = rumore di fondo ambiente - margine desiderato: il livello in sala macchine non deve 'superare' la struttura.
+- **Applicazioni:** Centrali termiche, tetti tecnici, facciate con unità esterne, cantieri di climatizzazione, VMC in residenze di pregio.
+- **Vantaggi:** Il rumore impiantistico è quasi sempre progettato male, non costruito male: intervenire in progetto costa decine di euro al mq, in bonifica centinaia.
+- **Limiti e attenzioni:** Le etichette dei prodotti danno il Lw in laboratorio: in installazione reale il valore cambia di diversi dB; le norme sul rumore di vicinato (classi acustiche) possono imporre limiti più stringenti in fascia notturna.
+- **Costi ed economia:** Supporti antivibranti seri: 50-300 € a macchina; base inerziale 500-3.000 €; silenziatori aeraulici 100-400 €/m² di sezione; bonifica postuma di un tetto tecnico: 5.000-30.000 €.
+- **Caso tipico:** Residenze di pregio con pompe di calore sul tetto: 54 dB(A) di notte in camera sottostante (limite 45 per la classe acustica); soluzione con basi inerziali + supporti a molla e barriera su due lati: -12 dB(A) in camera, costo 18.000 € su 12 unità.
+- **Normativa:** DPCM 5/12/1997 (requisiti sugli impianti); UNI EN ISO 3744 (determinazione dei livelli di potenza sonora dai macchinari); norme regionali sulle classi acustiche (attuazione legge 447/95); UNI EN 12354 per il calcolo previsionale dei livelli in opera.
+- **Nota di cantiere:** La domanda progettuale decisiva: 'a quanti dB di fondo è l'ambiente a destinazione, e quale margine voglio?' Se la risposta non c'è, il silenziamento si compra a caso.
+
+### L'acustica degli ambienti di lavoro: open space, sale riunione, call center
+
+**Categoria:** Interni · **Corso:** Acustica edilizia
+
+Negli ambienti di lavoro l'obiettivo non è il silenzio ma la comprensibilità: il tempo di riverberazione, il rumore di fondo e la distanza critica determinano quanto si lavora bene (e quanto si stanca) in open space, sale riunione e call center.
+
+- **Tecnologia e criteri:** Parametri: 1) tempo di riverberazione RT60: per la voce in uffici l'obiettivo è 0,4-0,8 s; 2) distanza critica: il punto in cui il diretto e il riflesso si equivalgono, oltre il quale la voce si 'sporca'; 3) indice di trasmissione vocale e SNR per la comprensibilità; 4) sound masking (mascheramento sonoro): una fonte controllata di rumore di fondo a 42-48 dB(A) uniforme che copre le conversazioni altrui e aumenta la privacy; 5) assorbimento sul soffitto (baffle, pannelli), pareti divisorie tra postazioni alte 1,4-1,6 m, pavimenti con caratteristiche acustiche (LVT con feltro, moquette tecnica); 6) per call center e sale meeting: trattamento completo (pareti + soffitto + pavimento) con RT60 0,3-0,5 s e attenuazione tra zone. Le norme UNI sui requisiti acustici degli uffici (UNI 11175:2016 'Impianti meccanici elettrici ed elettronici - Requisiti acustici negli ambienti di lavoro con macchine') fissano criteri progettuali.
+- **Applicazioni:** Uffici operativi, direzionali, call center, sale conferenza, studi medici e professionali, scuole e università.
+- **Vantaggi:** L'acustica corretta è produttività: la riduzione del disturbo percettivo si traduce in meno errori, meno stress e meno assenteismo auto-riportato.
+- **Limiti e attenzioni:** Il sound masking mal progettato diventa esso stesso un disturbo; gli uffici con cemento levigato e vetro dappertutto sono acusticamente ingestibili a costi ragionevoli.
+- **Costi ed economia:** Trattamento acustico open space: 30-80 €/m² di assorbimento installato; sound masking: 20-60 €/m²; sale riunione complete: 5.000-30.000 € in funzione della superficie.
+- **Caso tipico:** Open space di 120 postazioni con RT60 1,4 s: le telefonate si sentivano a 20 metri; intervento con baffle al soffitto e divisori acustici tra i cluster: RT60 0,6 s, distanza di privacy da 6 m a 2,5 m, soddisfazione rilevata +40%.
+- **Normativa:** UNI 11175:2016 (requisiti acustici degli ambienti di lavoro); UNI EN ISO 11654 (assorbitori); DPCM 5/12/1997 per i requisiti passivi tra unità; D.Lgs 81/2008 (ambiente di lavoro, comfort).
+- **Nota di cantiere:** Test in falsa scala: in cantiere, prima dei mobili, fare il 'colpo di tosse' a centro stanza. Se la coda di riverbero si sente lunga, il soffitto e le pareti vanno trattati prima che arrivino le scrivanie.
+
+### Gli indici di isolamento: Rw, DnT,w e la correzione spettrale
+
+**Categoria:** Isolamento · **Corso:** Acustica edilizia
+
+L'isolamento acustico di un elemento si valuta con indici in dB: il Rw (laboratorio), il DnT,w normalizzato per il tempo di riverberazione (in opera), con correzioni spettrali C e Ctr per rumore tipo (voce, traffico, aereo).
+
+- **Tecnologia e criteri:** Indici principali secondo UNI EN ISO 717-1: 1) Rw: indice di valutazione del potere fonoisolante misurato in laboratorio; 2) R': riduzione sonora in opera (più bassa del laboratorio per i ponti e le trasmissioni laterali); 3) DnT,w: differenza di livello normalizzata al tempo di riverberazione di riferimento (0,5 s), l'indice usato dal DPCM per i fabbricati; 4) correzioni spettrali: C (sorgenti generiche, voce) e Ctr (rumore con spettro tipo traffico stradale); la coppia Rw(C;Ctr) descrive il comportamento reale: Rw 52 (-1;-5) significa che a traffico l'elemento vale 47 dB. Il trasferimento avviene anche per via laterale (facciata, solaio perimetrale): si misura con DnT,w frazionale o livello di rumore laterale.
+- **Applicazioni:** Scelta di pareti divisorie, solai, facciate, serramenti: ogni elemento di separazione si specifica con il suo indice.
+- **Vantaggi:** Indici unificati: il serramento da 38 dB e la parete da 50 dB si confrontano sullo stesso metro, e il progetto somma i cammini di trasmissione.
+- **Limiti e attenzioni:** L'indice singolo nasconde il comportamento in frequenza: un solaio con 'buca' a 250 Hz può avere Rw buono e prestazione reale cattiva; le misure in opera includono le flanking transmission che il laboratorio non vede.
+- **Costi ed economia:** Incidenza tipica: passare da una parete interna da 45 a 52 dB di Rw costa in media 10-25 €/m² di materiale in più (doppia lastra, lana, distanziatori); il costo maggiore è quasi sempre nel dettaglio, non nel materiale.
+- **Caso tipico:** Hotel con pareti cartongesso certificate Rw 52: lamentele per voce tra camere; indagine: le cassette di ispezione dei bagni a parete comune non erano state trattate, e i due scarichi 'comunicavano'. Dieci cassette corrette, problema risolto con 3.000 € di lavoro.
+- **Normativa:** UNI EN ISO 717-1 (classificazione dell'isolamento all'aria); UNI EN ISO 717-2 (classificazione del rumore di calpestio); UNI EN ISO 140-3/-4 (metodi di misura laboratorio e opera).
+- **Nota di cantiere:** Specificare sempre la coppia (C; Ctr): specificare solo il numero senza correzione spettrale è come comprare un pneumatico senza sapere la stagione.
+
+### Materiali fonoassorbenti e fonoisolanti: non sono la stessa cosa
+
+**Categoria:** Materiali · **Corso:** Acustica edilizia
+
+Fonoassorbente riduce il rumore dentro l'ambiente (assorbe, non riflette); fonoisolante blocca il passaggio tra due ambienti (massa, elasticità, smorzamento). Confonderli è l'errore progettuale acustico più comune.
+
+- **Tecnologia e criteri:** Assorbimento: materiali porosi aperti (lana di roccio, fibra di legno, gomma piuma, tessuti tecnici) convertono l'energia sonora in calore attrito viscoso; lavorano bene a medio-alta frequenza; i pannelli fonoassorbenti con velo o foratura migliorano le basse. Isolamento: 1) massa (la legge della massa: +6 dB raddoppiando il peso); 2) sistema molla-massa (doppia parete con cavedio isolato: l'isolamento supera di molto la somma delle due singole); 3) smorzamento (viscoelastici tra lastre: il CLT acustico); 4) continuità e sigillatura (un foro dell'1% della superficie può ridurre l'isolamento di 10-20 dB). Materiali ibridi (feltri bituminosi su lastre) aggiungono smorzamento senza peso.
+- **Applicazioni:** Pareti divisorie (isolamento), sale riunioni e open space (assorbimento), studi e home theatre (entrambi), coperture di impianti e barriere.
+- **Vantaggi:** Separare i due problemi li risolve entrambi: prima si isola (il percorso strutturale), poi si assorbe (il campo sonoro).
+- **Limiti e attenzioni:** La lana in cavedio aperta assorbe ma non isola; il pannello pesante senza smorzamento isola meno di quanto pesa; i materiali 'spugna' sui muri interni non fermano il rumore dei vicini.
+- **Costi ed economia:** Lana/fibra per cavedi: 8-20 €/m²; pannelli fonoassorbenti finiti: 30-120 €/m²; membrane viscoelastiche: 10-25 €/m²; sistema parete doppia isolata: 60-130 €/m² complessivo.
+- **Caso tipico:** Open space 'insonorizzato' con pareti rivestite in pannelli spugnosi: il rumore tra postazioni restava identico; l'aggiunta di assorbitori al soffitto (baffle) e schermi tra i gruppi ha ridotto il tempo di riverberazione da 1,2 s a 0,5 s: -6 dB percettivi, produttività percepita in su.
+- **Normativa:** UNI EN ISO 11654 (classificazione dei assorbitori con coefficiente αw); UNI EN ISO 717-1 (per gli elementi di separazione); UNI EN 12354 (metodo di calcolo previsionale).
+- **Nota di cantiere:** Test rapido sul cantiere: se il materiale soffia aria attraverso i pori, è fonoassorbente; se è denso e compatto, tende all'isolamento. Mettere la 'spugna' tra i vicini non ha mai isolato nulla.
+
+### La misura in opera: UNI EN ISO 140 e 16283
+
+**Categoria:** Misure · **Corso:** Acustica edilizia
+
+La misura dell'isolamento in opera segue metodi standardizzati: ISO 140 (serie classica) e ISO 16283 (metodi operativi per il sito, in tre parti per isolamento all'aria, calpestio e facciate), con sorgente sonora, microfoni fissi e camera di ricezione.
+
+- **Tecnologia e criteri:** Metodo: 1) si genera un rumore noto nella camera sorgente (altoparlante calibrato, spettro rosa); 2) si misurano i livelli in sorgente e ricezione in più posizioni (media spaziale); 3) si misura il tempo di riverberazione della camera di ricezione per la normalizzazione (DnT); 4) per il calpestio si usa la macchina per calpestio standard (a rulli) al posto dell'altoparlante; 5) per le facciate si usa la sorgente esterna (traffic noise o altoparlante) o il metodo del livello globale; 6) l'incertezza di misura è in genere ±1-2 dB per elementi da 50 dB, con crescita sugli elementi molto isolanti; 7) i rapporti di prova riportano le condizioni di posa, i fori, le finiture: condizioni che cambiano i numeri.
+- **Applicazioni:** Asseverazioni DPCM, controlli di qualità, verifiche di contenziosi, collaudi acustici di edifici speciali (sale prove, studi).
+- **Vantaggi:** La misura standard è confrontabile: un DnT,w misurato secondo ISO 16283 a Milano e a Palermo è lo stesso numero.
+- **Limiti e attenzioni:** La misura in cantiere è sensibile alle condizioni: mobili assenti (camere vuote riverberano di più), posa ancora sporca, impianti accesi; i risultati possono variare di 2-3 dB tra visite.
+- **Costi ed economia:** Campagna completa di misure su un edificio residenziale (3-4 unità, isolamento + calpestio): 2.000-6.000 €; singola coppia di ambienti: 600-1.500 €.
+- **Caso tipico:** Verifica di contenzioso in una villa bifamiliare: le misure 'fai da te' del vicino (cellulare) davano 40 dB; la misura ISO 16283 con fonometro classe 1 ha dato 52 dB: la differenza era il tempo di riverberazione enorme della stanza vuota del misuratore improvvisato, normalizzato correttamente dal metodo.
+- **Normativa:** UNI EN ISO 140-4/-5/-7 (serie classica), UNI EN ISO 16283-1/-2/-3 (metodi operativi in sito), UNI EN ISO 717-1/-2 (classificazione dei risultati), IEC 61672-1 (fonometri di classe 1).
+- **Nota di cantiere:** Una misura seria documenta: temperatura, umidità, presenza di mobili, sorgente utilizzata, posizioni dei microfoni. Senza questi metadati, il numero non è ripetibile e non vale in una vertenza.
+
+### Il DPCM 5 dicembre 1997: i requisiti acustici passivi degli edifici
+
+**Categoria:** Normativa · **Corso:** Acustica edilizia
+
+Il DPCM 5/12/1997 fissa i requisiti acustici passivi degli edifici: limiti di isolamento acustico tra unità abitative, protezione dal rumore esterno e dal rumore degli impianti, con obbligo di asseverazione tecnica alla fine dei lavori.
+
+- **Tecnologia e criteri:** Struttura del decreto: 1) isolamento acustico: indice di valutazione DnT,w ≥ 50 dB (o indici di riduzione sonora equivalenti) per le pareti divisorie e i solai tra unità immobiliari diverse; 2) rumore di calpestio: livello di pressione del rumore di calpestio L'nT,w ≤ 58 dB per i solai tra unità abitative; 3) rumore esterno: la facciata deve garantire un isolamento adeguato al rumore dell'area (classi acustiche I-VI definite dalla legge 447/95); 4) rumore degli impianti: livelli limite nelle unità abitative di giorno e di notte; 5) asseverazione di conformità a cura di un tecnico abilitato alla fine dei lavori con misure o calcolo previsionale; 6) deroghe per edilizia esistente con possibilità di adeguamento differito. I requisiti valgono per le nuove costruzioni e i rilevanti interventi di ristrutturazione.
+- **Applicazioni:** Progettazione di ogni edificio residenziale, terziario, scolastico, sanitario in Italia: requisito di legge verificato in fase di agibilità.
+- **Vantaggi:** Chiarezza: pochi numeri, obbligatori, verificabili; l'asseverazione finale protegge committente e costruttore.
+- **Limiti e attenzioni:** Redatto nel 1997: non copre i sistemi costruttivi a secco moderni nei dettagli; le deroghe dell'esistente creano una casistica ampia.
+- **Costi ed economia:** Asseverazione acustica con misure in opera: 1.500-4.000 € per edificio residenziale medio; con calcolo previsionale da progetto: 800-2.000 €; rilevazione completa di un appartamento (isolamento, calpestio, impianti): 800-2.500 €.
+- **Caso tipico:** Condominio nuovo con asseverazione 'a calcolo': a un anno di vita, i vicini lamentano passi udibili; la verifica in opera ha mostrato L'nT,w di 61 dB contro i 58 dichiarati: il massetto galleggiante era stato posato con ponte acustico ai bordi. Il rifacimento parziale è costato 25.000 €.
+- **Normativa:** DPCM 5 dicembre 1997 'Requisiti acustici passivi degli edifici'; Legge 26 ottobre 1995 n. 447 (inquinamento acustico: classificazione acustica del territorio, limiti, sanzioni); D.Lgs. 194/2005 (attuazione direttiva 2002/49/CE sulla determinazione e gestione del rumore ambientale).
+- **Nota di cantiere:** L'asseverazione è un documento con valenza legale: chi la firma con numeri presunti invece che misurati risponde personalmente. La misura in opera costa meno della responsabilità.
+
+### Il calcolo previsionale: UNI EN ISO 12354
+
+**Categoria:** Progettazione · **Corso:** Acustica edilizia
+
+L'UNI EN ISO 12354 è il metodo europeo di calcolo previsionale dell'acustica in edilizia: stima l'isolamento di pareti, solai, facciate e il rumore di calpestio a partire dai dati dei componenti, includendo le trasmissioni laterali.
+
+- **Tecnologia e criteri:** Struttura del metodo: 1) si partono dai valori di laboratorio dei componenti (Rw, Ln,w, masse, dimensioni); 2) si calcolano i cammini di trasmissione diretta (D) e laterale (F, f, dF) con le formule della serie; 3) si combinano in energeticamente (somma logaritmica dei cammini); 4) si deriva il DnT,w o L'nT,w in opera. Parti della serie: ISO 12354-1 (isolamento all'aria fra ambienti), -2 (calpestio), -3 (facciate), -4 (rumore degli impianti). Il metodo è implementato nei software di progettazione acustica e nelle verifiche di asseverazione 'a calcolo' dove le misure non sono praticabili.
+- **Applicazioni:** Progettazione ex-novo, asseverazione a calcolo del DPCM, verifica di varianti in corso d'opera, diagnosi di edifici esistenti.
+- **Vantaggi:** Permette di decidere in progetto: la differenza tra una parete da 48 e una da 52 dB si valuta prima di costruirla, con un margine di incertezza dichiarato.
+- **Limiti e attenzioni:** I risultati dipendono dalla qualità dei dati di ingresso: la variabilità di posa (ponti, fori, flessibili) può discostare l'opera dal calcolo di 3-5 dB; il metodo è meno affidabile su costruzioni leggere complesse.
+- **Costi ed economia:** Progettazione acustica completa di un edificio residenziale medio: 2.000-8.000 € (0,5-2 €/m³ di volume lordo); il software specializzato: 1.000-5.000 €/licenza.
+- **Caso tipico:** Residenza studentesca con vincolo di costo: il calcolo previsionale ha mostrato che due soluzioni divisorie apparentemente equivalenti (a secco vs semintegno) differivano di 4 dB in DnT,w: scelta la soluzione a secco con il dettaglio corretto, asseverazione superata al primo colpo.
+- **Normativa:** UNI EN ISO 12354-1/-2/-3/-4 (metodi di calcolo); UNI EN ISO 717 (classificazione dei risultati); DPCM 5/12/1997 (valori da rispettare).
+- **Nota di cantiere:** Il calcolo previsionale è un contratto tra progettista e costruttore: se il cantiere rispetta il dettaglio progettuale, il numero esce. Se il dettaglio cambia, il calcolo va rifatto.
 
 
 ## Data center e critical facilities
@@ -849,6 +1034,206 @@ Mesh radio a basso consumo per sensori e attuatori domotici.
 - **Caso tipico:** Philips Hue, IKEA Tradfri, Samsung SmartThings, Aqara.
 - **Normativa:** Zigbee Alliance -> Connectivity Standards Alliance.
 - **Nota di cantiere:** Per un LLM: Zigbee è perfetto per il RETROFIT senza demolizioni: vale l'oro in ristrutturazioni.
+
+
+## Energetica edilizia e incentivi
+
+*Corso `ENERGETICA_INCENTIVI_PACK` — 13 voci*
+
+### L'APE: l'attestato di prestazione energetica
+
+**Categoria:** Certificazioni · **Corso:** Energetica edilizia e incentivi
+
+L'APE (Attestato di Prestazione Energetica) è il documento che certifica la prestazione energetica di un edificio o unità immobiliare: obbligatorio in vendita, locazione, nuova costruzione e ristrutturazione rilevante, redatto da certificatore energetico abilitato.
+
+- **Tecnologia e criteri:** Contenuto: 1) classe energetica (scala A4-G), indice EPgl (energia primaria globale in kWh/m² anno) riferito alla zona climatica; 2) prestazioni estive/invernali, impianti, fabbisogni; 3) raccomandazioni di miglioramento (con priorità e tempi di ritorno); 4) riferimenti: metodo unico nazionale (DPR 75/2013), software certificati, banca dati regionale/registri. Obblighi: vendita (al compratore), locazione (al locatario), nuova costruzione (agibilità), ristrutturazioni rilevanti (interventi >25% di dispersore o su impianti). Validità: 10 anni dalla data di rilascio (salvo rilevanti modifiche). Sanzioni: amministrative per la mancata esibizione (migliaia di euro secondo regioni). Nell'iter degli incentivi (CT 3.0, detrazioni) l'APE ante/post è il documento probatorio del miglioramento.
+- **Applicazioni:** Compravendite, locazioni, cantieri incentivati, piani energetici comunali, patrimoni immobiliari.
+- **Vantaggi:** È la 'carta d'identità' energetica: senza APE serio non esiste commercio né incentivo regolare.
+- **Limiti e attenzioni:** La qualità dipende dal certificatore: APE 'fotocopia' con dati presunti valgono poco e in tribunale meno.
+- **Costi ed economia:** APE di un appartamento: 150-400 €; di una villa: 300-700 €; di un edificio complesso: 800-3.000 €. Lo sconto massimo si ha con i dati reali (bollette) invece di quelli standard.
+- **Caso tipico:** Vendita di un trilocale con APE di 6 anni prima: la perizia del compratore ha richiesto l'APE aggiornato che ha mostrato una classe in meno del documento originale: rinegoziazione del prezzo di 8.000 € — l'APE vecchio costava caro al venditore.
+- **Normativa:** D.Lgs 192/2005 (origine, recepimento EPBD), D.Lgs 63/2013, DPR 75/2013 (metodo di calcolo unico nazionale); regole regionali sui registri e sulle sanzioni.
+- **Nota di cantiere:** Per il CT 3.0 l'APE va pensato in coppia (ante e post) con lo stesso certificatore: la coerenza dei due documenti è la prima verifica d'istruttoria.
+
+### CER e autoconsumo collettivo: l'energia condivisa
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+Le Comunità Energetiche Rinnovabili (CER) e le configurazioni di autoconsumo collettivo permettono a più soggetti di condividere impianti rinnovabili e scambiarsi energia nella stessa rete bassa tensione, con incentivazione specifica del GSE.
+
+- **Tecnologia e criteri:** Quadro: 1) CER: associazioni di persone fisiche, piccole imprese, enti locali con impianti rinnovabili fino a 1 MW (limite tipico della disciplina), aperte anche a chi non ha impianti (consumer); riconosciute dal GSE con statuto, regolamento interno, portale dedicato; 2) configurazioni di autoconsumo collettivo (non-CER): condivisione tra utenti nella stessa cabina secondo le regole ARERA, senza la forma associativa; 3) incentivi: tariffa premiale GSE per l'energia scambiata in rete (premio dipendente dalla dimensione e dal tipo di configurazione) + valorizzazione dell'energia immessa; 4) vantaggio chiave: chi non ha un tetto (condomini, piccoli esercizi) entra in un progetto collettivo; 5) impianti ammissibili: rinnovabili esistenti e nuovi, sistemi di accumulo; 6) aspetti pratici: misure smart dei flussi, riparto secondo il regolamento interno, gestione amministrativa (spesso affidata a società di servizi energetici).
+- **Applicazioni:** Condomini, borghi e municipaità, filiere agricole, artigiani, piccole imprese che condividono un tetto o un campo.
+- **Vantaggi:** Scalano l'autoconsumo dove il singolo non può: un condominio in CER condivide un impianto sul tetto comune e riparte il beneficio in bolletta.
+- **Limiti e attenzioni:** La complessità amministrativa è reale: statuto, contabilità dei flussi, rapporti GSE; il premio dipende da regole che si evolvono (verificare sempre le condizioni vigenti).
+- **Costi ed economia:** Costo di costituzione CER con supporto specializzato: 2.000-8.000 €; gestione annua: 1.000-4.000 €; i gestori di piattaforma offrono pacchetti chiavi in mano (verificare i costi aggiornati).
+- **Caso tipico:** Borgo di montagna: 40 famiglie in CER con idroelettrico esistente da 90 kW ammodernato: premio GSE più condivisione dell'energia: risparmio medio per famiglia alcune centinaia di euro l'anno, con il valore sociale della ripresa dell'impianto abbandonato.
+- **Normativa:** D.Lgs 199/2021 (attuazione direttiva 2018/2001/UE sulle comunità energetiche); D.Lgs 28/2011; regole applicative GSE e delibere ARERA sulle configurazioni di autoconsumo.
+- **Nota di cantiere:** Prima di proporre una CER: mappare tetto/cabina/contatori. Se i partecipanti non stanno nella stessa cabina di trasformazione, la configurazione cambia (o cade): la cabina è il confine fisico del progetto.
+
+### Conto Termico 3.0: accesso diretto, prenotazione, pratica
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+La domanda si presenta sul PortalTermico 3.0 del GSE: in accesso diretto entro 90 giorni dalla fine dei lavori, oppure con prenotazione (riservata a PA e ETS, anche tramite ESCo) che blocca l'incentivo prima dell'avvio con acconto e 18 mesi di tempo.
+
+- **Tecnologia e criteri:** Iter operativo verificato: 1) accesso diretto (privati e imprese): fine lavori → domanda entro 90 giorni → GSE valuta in 60 giorni → contratto di incentivo → erogazione (unica rata ≤15.000 €, altrimenti 2-5 rate annuali); 2) prenotazione (PA/ETS tramite ESCo anche): richiesta prima dei lavori, acconto, termine di realizzazione fino a 18 mesi; 3) allegati tipici: APE ante e post intervento (deve dimostrare il miglioramento di almeno una classe energetica per certi interventi), fatture, DURC, dichiarazione dell'installatore, schede tecniche dei prodotti dal catalogo, scelta degli apparecchi in piattaforma; 4) per le PdC: certificazione F-Gas dell'installatore; per la biomassa: certificazione CTI; 5) mantenimento: esercizio dell'impianto ≥ 5 anni, con possibili controlli e revoche; 6) SVINCOLO: in alcuni casi è possibile cedere il credito del contributo a terzi (verificare condizioni aggiornate GSE).
+- **Applicazioni:** Pratiche GSE di imprese installatrici, studi tecnici, PA con ESCo.
+- **Vantaggi:** La prenotazione PA risolve il problema della tesoreria: l'ente pubblico sa prima di cantieriare che i fondi sono bloccati.
+- **Limiti e attenzioni:** L'istruttoria è formale ma rigida: pratiche incomplete tornano indietro e perdono la corsa sul fondo a esaurimento.
+- **Costi ed economia:** Gestione pratica completa (studio tecnico): 500-2.500 € in funzione della complessità; la revoca per mancato mantenimento dell'impegno rende il contributo un debito: il contratto di manutenzione quinquennale è parte del business case.
+- **Caso tipico:** Cooperativa di housing: pratica CT 3.0 su 12 alloggi presentata dal tecnico in giornata 4 dalla fine lavori con APE post già pronto: numero in graduatoria utile; il condominio 'gemello' che ha aspettato l'APE (altri 45 giorni) è entrato dopo il primo esaurimento parziale dei fondi.
+- **Normativa:** GSE — regole applicative Conto Termico 3.0 (aggiornate; consultare la versione vigente sul portale); D.M. 7/8/2025; D.Lgs 28/2011 (incentivi energetici).
+- **Nota di cantiere:** L'APE post-intervento è il collo di bottiglia: prenotare il termotecnico per la certificazione PRIERA della fine dei lavori, non dopo. La classe energetica guadagnata è anche la prova dell'incentivo.
+
+### Conto Termico 3.0: interventi ammessi e percentuali
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+Il Conto Termico 3.0 incentiva interventi su inviluppo e impianti: pompe di calore e sistemi ibridi fino al 65%, solare termico al 65%, isolamento 40-50%, fotovoltaico al 20% solo se 'trainato' dalla pompa di calore, accumulo con costo ammissibile di 1.000 €/kWh.
+
+- **Tecnologia e criteri:** Dettaglio verificato: 1) pompe di calore e sistemi ibridi: 40-65% in base a zona climatica e tipologia (tariffa di riferimento 700 €/kW per PdC aria-acqua fino a 35 kW; per le pompe di calore premia l'alta efficienza: COP riscaldamento ≥ 3,8 ed EER ≥ 3,5 danno aliquota piena); 2) solare termico: 65% calcolato sulla superficie (tariffa di riferimento 700 €/m²); 3) biomassa certificata (classi 4-5 stelle) e caldaie a condensazione in sistema ibrido; 4) isolamento involucro: 40-50% (ambito PA e terziario; per i privati solo in interventi di trasformazione in NZEB); 5) fotovoltaico: 20% del costo ammissibile, SOLO se abbinato alla sostituzione del generatore con pompa di calore e SOLO su edifici non residenziali (settore terziario): massimale decrescente con la taglia, fino a ~1.500 €/kW per le piccole potenze; 6) accumulo: ammissibile 1.000 €/kWh, incentivo 20% (200 €/kWh), anch'esso trainato; 7) colonnine di ricarica: trainate, ambito terziario; 8) building automation: ammessa per riduzione consumi; 9) maggiorazioni: +10% per componenti prodotti in UE; +5/10/15% per moduli fotovoltaici iscritti al registro ENEA in base alla classe di efficienza.
+- **Applicazioni:** Riqualificazione termica di edifici residenziali (termico), aziende (terziario con FV), scuole e comuni (fino al 100%).
+- **Vantaggi:** La logica 'trainata' del fotovoltaico allinea l'incentivo alla decarbonizzazione del calore: il progetto integrato PdC+FV+accumulo è il target della misura.
+- **Limiti e attenzioni:** Il fotovoltaico non residenziale da solo NON entra: serve sempre la sostituzione del generatore termico; le percentuali variano per zona climatica e tipologia edificio.
+- **Costi ed economia:** Esempio verificato su fonti GSE: PdC 8-16 kW: incentivo tipico 2.000-7.500 €; caldaia biomassa classe 4-5: 1.500-5.000 €; solare termico: 1.500-4.000 €; ibrido caldaia+PdC: 2.500-8.000 €.
+- **Caso tipico:** Azienda alberghiera: sostituzione caldaia a gas con PdC 50 kW + FV 20 kWp + accumulo 10 kWh: incentivo stimato ~30.000 € tra termico (65% su parte) e traino FV/accumulo (20%); la stessa azienda con solo fotovoltaico (senza PdC) avrebbe avuto zero.
+- **Normativa:** D.M. 7/8/2025 e allegati tecnici; catalogo apparecchi GSE (i prodotti devono essere iscritti); requisiti di efficienza ENEA per le maggiorazioni; DM 37/08 per la conformità impiantistica.
+- **Nota di cantiere:** Il catalogo GSE decide: prima di quotare, verificare che il modello specifico (non la 'famiglia') sia iscritto al catalogo con la classe di efficienza dichiarata. Il modello non iscritto = incentivo azzerato.
+
+### Il Conto Termico 3.0: la misura e i numeri (verificati ottobre 2026)
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+Il Conto Termico 3.0 è il contributo a fondo perduto del GSE per interventi di efficienza energetica e rinnovabili termiche negli edifici esistenti: istituito dal D.M. 7 agosto 2025, in vigore dal 25 dicembre 2025, con dotazione di 900 milioni di euro l'anno.
+
+- **Tecnologia e criteri:** Dati verificati (ottobre 2026): 1) norma: D.M. 7 agosto 2025 (G.U. n. 224 del 26/9/2025), gestione GSE; 2) beneficiari: pubbliche amministrazioni, privati, imprese, enti del terzo settore, CER, ESCo certificate; 3) dotazione: 900 mln €/anno (500 mln privati di cui 150 mln imprese con tetto di 30 mln a impresa; 400 mln PA); 4) coperture: fino al 65% del costo ammissibile per privati e imprese; fino al 100% per scuole, strutture sanitarie e immobili dei comuni sotto i 15.000 abitanti; 5) erogazione: unica rata se ≤ 15.000 €, altrimenti 2-5 rate annuali costanti; 6) impegni: impianti in esercizio almeno 5 anni; 7) storia operativa: portale aperto il 2 febbraio 2026, sospeso il 3 marzo 2026 (1,3 mld € di richieste), riaperto il 13 aprile 2026; le risorse sono annuali e a esaurimento: verificare sempre la disponibilità sul sito GSE prima di promettere il contributo al cliente.
+- **Applicazioni:** Sostituzione di generatori con pompe di calore, solare termico, biomassa certificata, isolamento, building automation, interventi nelle PA; parte degli incentivi per la riqualificazione del parco edilizio.
+- **Vantaggi:** È un contributo in cassa, non una detrazione: non dipende dalla capienza fiscale del richiedente e arriva in mesi, non in dieci anni.
+- **Limiti e attenzioni:** Fondo a esaurimento: la rapidità della pratica decide; non cumulabile con le detrazioni fiscali statali sulle stesse spese.
+- **Costi ed economia:** Non ha costo di accesso (nessun costo per la domanda); i costi sono quelli della pratica tecnica: APE ante/post, progettazione, eventuale assistenza (1-3% dell'incentivo).
+- **Caso tipico:** Impresa metalmeccanica: pompa di calore da 40 kW + fotovoltaico trainato da 30 kWp: incentivo stimato 65% sul termico e 20% sul FV (maximale ~1.500 €/kW decrescente con la taglia); pratica in accesso diretto entro 90 giorni dalla fine lavori, prima rata dopo istruttoria GSE (60 giorni di valutazione).
+- **Normativa:** D.M. 7 agosto 2025 (Conto Termico 3.0); GSE — regole tecniche e catalogo apparecchi (aggiornato dal 15 aprile 2026); D.Lgs 28/2011 (esenzione IRPEF del contributo per le persone fisiche, art. 11).
+- **Nota di cantiere:** Regola d'oro commerciale: mai vendere il Conto Termico come 'sicuro'. Si vende come 'maggiorazione probabile se la pratica è completa e i fondi ci sono'. Il contratto con il cliente deve separare il prezzo dell'opera dall'incentivo.
+
+### Le detrazioni fiscali per l'edilizia: il sistema e i suoi limiti
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+Le detrazioni fiscali restano il grande strumento dell'edilizia italiana: la detrazione del 50% per ristrutturazioni (limite 96.000 €) è la misura strutturale, mentre le aliquote 'energetiche' sono state ridotte e modificate più volte dopo il Superbonus: i valori vigendi vanno sempre verificati sulla Legge di Bilancio corrente.
+
+- **Tecnologia e criteri:** Criteri del sistema (stabili): 1) la detrazione si riparte in 10 quote annuali (salvo cessione del credito dove prevista); 2) base: il pagamento tracciabile (bonifico parlante 'ristrutturazioni/energia') per le spese agevolabili; 3) asseverazione tecnica richiesta per gli interventi energetici (pratica ENEA per le detrazioni energetiche, sostituita dalle piattaforme previste dalla norma vigente); 4) documenti: fatture, pagamenti tracciati, APE quando dovuto, pratica online entro i termini; 5) CUMULO: non cumulabile con Conto Termico 3.0 sulle stesse spese — la scelta è alternativa; cumulabilità con contributi regionali e PNRR secondo le regole specifiche; 6) i massimali per tipologia ( finestre, cappotto, impianti) sono definiti annualmente e cambiano: mai quotare un progetto sulla base di un articolo di due anni prima.
+- **Applicazioni:** Ristrutturazioni edilizie, riqualificazione energetica, interventi sulle parti comuni condominiali, arredi connessi alla ristrutturazione.
+- **Vantaggi:** Trasformano l'imposta in investimento: per chi ha capienza fiscale il 50% in 10 anni resta competitivo con molti contributi.
+- **Limiti e attenzioni:** I valori cambiano ogni anno (legge di bilancio): la specializzazione dell'LLM deve essere sul METODO (documenti, tracciabilità, cumuli), non sui numeri dell'anno scorso.
+- **Costi ed economia:** Pratica di detrazione gestita da tecnico: 300-1.500 €; l'errore tipico (pagamento non tracciato) fa perdere l'intera agevolazione su quella fattura.
+- **Caso tipico:** Cliente con bonifico 'ristrutturazioni' fatto su conto del figlio convivente ma non intestatario: l'Agenzia delle Entrate ha negato la detrazione (non tracciato come da norma): 12.000 € di agevolazione perse per un bonifico sbagliato.
+- **Normativa:** Legge di Bilancio in vigore (valori aggiornati); TUIR art. 16-bis (ristrutturazioni) e art. 16-bis.1 (energia); prassi Agenzia delle Entrate e ENEA per le piattaforme.
+- **Nota di cantiere:** Il primo controllo di ogni pratica di detrazione: intestatario del bonifico = intestatario dell'immobile (o comproprietario), causale corretta, nel periodo dei lavori. Il 90% delle perdite nasce qui.
+
+### Scegliere l'incentivo giusto: fondo perduto, detrazione, credito
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+Ogni progetto ha un incentivo 'giusto': il fondo perduto (Conto Termico) vince sulla liquidità, la detrazione vince sul valore percentuale per chi ha capienza, il credito d'imposta vince sulla pianificazione d'impresa: la scelta si fa su tre variabili — cassa, capienza fiscale, tempi.
+
+- **Tecnologia e criteri:** Metodo decisionale: 1) lista le misure ammissibili per l'intervento (alcune sono mutuamente esclusive sulle stesse spese: CT 3.0 o detrazione, mai entrambe); 2) calcola il valore attuale: detrazione 50% in 10 anni vs contributo 65% in 1-5 rate — al tasso di attualità dell'impresa/contestatore, il 65% in cassa batte spesso il 50% diluito; 3) verifica i vincoli: capienza IRPEF/IRES, possesso immobile, classe energetica raggiungibile (serve per CT e per alcune detrazioni), apparecchi in catalogo; 4) valuta il rischio di esaurimento fondi (CT) vs rischio di variazione normativa (detrazioni annuali); 5) scrivere nel preventivo due scenari (con e senza incentivo) con la ripartizione dei rischi; 6) per le PA la scelta è quasi obbligata: CT 3.0 con prenotazione (100% per scuole/strutture sanitarie/piccoli comuni) oppure PNRR/fondi strutturali.
+- **Applicazioni:** Ogni studio tecnico che prepara preventivi energetici; ogni impresa che decide l'investimento.
+- **Vantaggi:** Il cliente giudica il professionista sullo scenario reale: chi presenta un unico numero 'con bonus' senza scenario B perde credibilità alla prima variazione di legge.
+- **Limiti e attenzioni:** Nessun incentivo copre il 100% del rischio progettuale: la sostenibilità dell'opera senza incentivo resta il test di serietà.
+- **Costi ed economia:** Tempo di analisi comparativa: 2-4 ore di tecnico per progetto tipo; i software di simulazione economica includono i moduli incentivi aggiornati (abbonamento).
+- **Caso tipico:** Famiglia con reddito medio e ristrutturazione da 80.000 € (di cui 30.000 energetici): il CT 3.0 (se ammissibile, unica rata per importi bassi) dava cassa subito ma solo sulle voci termiche; la detrazione 50% copriva tutto ma in 10 anni. Scelta: CT sul termico + detrazione sul resto — ammissibile perché spese diverse.
+- **Normativa:** Regole di cumulo del D.M. 7/8/2025 (CT 3.0) e delle leggi di bilancio (detrazioni); prassi ENEA/GSE per i raffronti spese.
+- **Nota di cantiere:** Domanda da porsi prima di firmare qualsiasi preventivo incentivato: 'questo numero cambia se il cliente non ha capienza / se il fondo finisce / se la legge cambia?' Se sì, il preventivo deve dirlo.
+
+### Transizione 5.0 e iperammortamento: il lato imprese
+
+**Categoria:** Incentivi · **Corso:** Energetica edilizia e incentivi
+
+Per le imprese l'efficienza energetica si incentiva anche con il credito d'imposta: il Transizione 5.0 (2024-2025) è chiuso ai nuovi investimenti dal 31/12/2025; l'iperammortamento 2026 resta per beni immateriali e per l'autoproduzione rinnovabile con accumulo (fino al 30/9/2028), secondo la disciplina vigente.
+
+- **Tecnologia e criteri:** Quadro verificato a ottobre 2026: 1) Transizione 5.0: credito d'imposta del 35% su investimenti in nuovi beni strumentali e software per efficienza energetica e transizione digitale/ecologica, erogato tramite piattaforma MIMIT con vincolo di consumo/risparmio misurabile; investimenti ammissibili fino al 31/12/2025 (transizione verso il nuovo ciclo); 2) Iperammortamento 2026: maggiorazione del costo deducibile per investimenti in beni materiali immateriali; per il fotovoltaico in autoconsumo con sistemi di accumulo la disciplina è rimasta tra gli strumenti principali (termine investimenti 30 settembre 2028 secondo le fonti di settore verificate); 3) logica diversa dal Conto Termico: credito d'imposta e ammortamento migliorano il bilancio d'impresa, il Conto Termico mette cassa; 4) per il fotovoltaico aziendale 'puro' (senza intervento sul riscaldamento) l'iperammortamento è oggi il riferimento principale; 5) verifiche: asseverazioni energetiche (audit o diagnosi per i crediti di efficienza), vincoli su beni nuovi, esclusi i beni ordinari.
+- **Applicazioni:** Imprese manifatturiere e dei servizi in sede propria, modernizzazione energetica degli stabilimenti, impianti fotovoltaici aziendali con accumulo.
+- **Vantaggi:** Il credito d'imposta è cumulabile con altre misure (con regole di raffronto spese) e si pianifica con il commercialista d'impresa: è uno strumento da bilancio, non da cantiere.
+- **Limiti e attenzioni:** Piattaforme con tempi e requisiti (es. pratica prima dell'installazione per alcune misure): il mancato rispetto della sequenza rende il credito insostenibile in verifica.
+- **Costi ed economia:** Assistenza per pratica Transizione/iperammortamento: 2.000-8.000 € in funzione dell'investimento; l'asseverazione energetica (audit) per il credito 35%: 3.000-15.000 € per stabilimento.
+- **Caso tipico:** Stabilimento metalmeccanico: confronto 2026 tra CT 3.0 (PdC+FV trainato, fondo perduto, solo se progetto integrato) e iperammortamento (FV+accumulo puro, beni strumentali): per il solo fotovoltaico l'iperammortamento restava l'unica via; per il progetto con pompa di calore il CT 3.0 dava cassa immediata. Il piano ha combinato entrambi su voci diverse.
+- **Normativa:** D.L. approvati per Transizione 5.0 (crediti 2024-2025) e legge di bilancio 2026; discipline iperammortamento aggiornate (verificare versione vigente); piattaforma MIMIT per i crediti energia.
+- **Nota di cantiere:** La sequenza temporale è il contenuto vero di questi incentivi: pratica/prima, acquisto poi, installazione dopo. Le imprese che comprano 'e poi vedono l'incentivo' finiscono a sostenere l'investimento intero.
+
+### I certificati bianchi (TEE): l'efficienza come titolo
+
+**Categoria:** Mercati · **Corso:** Energetica edilizia e incentivi
+
+I Titoli di Efficienza Energetica (TEE, 'certificati bianchi') sono titoli negoziabili certificanti risparmi energetici quantificati: nati con l'obbligo per i distributori di energia elettrica e gas di conseguire obiettivi annuali di risparmio, oggi funzionano come mercato degli interventi di efficienza.
+
+- **Tecnologia e criteri:** Meccanismo: 1) gli obbligati (distributori con clienti sopra soglia) devono conseguire obiettivi di risparmio energetico annui, acquistando TEE o realizzando progetti; 2) i progetti di efficienza (impianti, cogenerazione, edilizia) presentati al GSE ricevono TEE per i risparmi certificati; 3) i TEE hanno durata (tipicamente 5 anni, poi alcuni anni di conservazione secondo regole aggiornate) e prezzo di mercato fluttuante; 4) valore: 1 TEE = 1 toe (tonnellata equivalente petrolio) risparmiata; 5) il GSE gestisce registri, misure standard e verifiche; 6) il progettatore valuta se vendere i TEE subito (certo) o nei periodi di prezzo alto (rischioso); 7) per l'edilizia e gli impianti termici l'accesso è tramite schede progetto con misure standard o progetti di grande taglia.
+- **Applicazioni:** Cogenerazione e trigenerazione, recupero di calore, efficientamento di reti, impianti di grandi utenze, riqualificazione termica di edifici pubblici e privati.
+- **Vantaggi:** L'efficienza diventa un titolo: l'investimento può ripagarsi due volte (risparmio in bolletta + vendita TEE).
+- **Limiti e attenzioni:** Prezzo volatile (ha oscillato da decine a oltre 200 €/TEE negli anni: verificare quotazioni); la burocracia di certificazione scoraggia i piccoli interventi senza supporto specializzato.
+- **Costi ed economia:** Gestione pratica TEE da società specializzata: percentuale del valore (5-15%) o quota fissa; i TEE di un buon progetto di cogenerazione industriale possono valere decine di migliaia di euro l'anno.
+- **Caso tipico:** Municipalità con riqualificazione termica di 5 scuole: i TEE certificati hanno coperto il 12% dell'investimento complessivo venduti a distanza di un anno dal termine lavori (strategia di vendita frazionata concordata con la società di gestione).
+- **Normativa:** D.Lgs 28/2011 (art. 7: meccanismo dei TEE e obblighi); regole GSE per la certificazione e il mercato (aggiornate periodicamente); direttiva EED di riferimento (2012/27/UE).
+- **Nota di cantiere:** I TEE si progettano: chi decide la strategia di vendita DOPO la certificazione si accontenta del prezzo del giorno; chi la decide prima ottimizza il valore atteso.
+
+### CAM e sostenibilità: i criteri ambientali minimi negli appalti
+
+**Categoria:** Obblighi · **Corso:** Energetica edilizia e incentivi
+
+I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli appalti pubblici di lavori, servizi e forniture (D.Lgs 36/2023): per gli edilizi coprono materiali, energia, acqua, rifiuti e salute dell'ambiente interno.
+
+- **Tecnologia e criteri:** Struttura: 1) il D.Lgs 36/2023 recepisce e aggiorna i CAM per le categorie merceologiche: prodotti edilizi (cemento, acciaio, isolanti, serramenti...), servizi di progettazione, appalti di lavori con quota di progettazione che integra sostenibilità; 2) i CAM per gli edilizi includono: contenuto riciclato (es. acciaio con quota di rottame, cls con aggregati riciclati dove specificato), contenuto energetico e rinnovabili in cantiere, gestione acqua, piano di gestione rifiuti con percentuali di riciclo, requisiti di salubrità degli ambienti (emissioni VOC dei materiali); 3) nei bandi pubblici le specifiche CAM valgono come requisito di gara: l'offerta che non li dimostra è esclusa; 4) per il privato non obbligatori ma sempre più richiesti dai grandi committenti (GPP, green public procurement); 5) verifica: documentazione ambientale di prodotto (EPD - Environmental Product Declaration secondo UNI EN 15804), etichette e certificazioni di catena.
+- **Applicazioni:** Bandi di gara pubblici, commesse di catene retail e grandi corporate, edilizia scolastica e sanitaria, cantieri green.
+- **Vantaggi:** Allineano il mercato: chi produce e posa con CAM dimostrabili entra nei bandi moderni senza sconti.
+- **Limiti e attenzioni:** La documentazione ambientale di molti fornitori è ancora debole: il cantiere che non verifica prima dell'ordine scopre il problema alla consegna.
+- **Costi ed economia:** Differenziale di prezzo dei prodotti CAM: 0-10% (spesso zero sui grandi volumi); EPD di prodotto per il produttore: 2.000-8.000 € per famiglia.
+- **Caso tipico:** Gara di un polo scolastico: l'offerta con cls certificato con EPD e gestione rifiuti al 75% di riciclo ha vinto il punteggio ambientale superando un ribasso economico più alto dello 0,8%: il valore dei CAM supera il prezzo nei punteggi.
+- **Normativa:** D.Lgs 36/2023 (CAM negli appalti pubblici); DM e decreti attuativi per le singole categorie; UNI EN 15804 (EPD per prodotti da costruzione); strategia GPP nazionale.
+- **Nota di cantiere:** Il CAM si verifica in fase di offerta con documenti (EPD, dichiarazioni): chi li chiede dopo l'aggiudicazione trova fornitori impreparati e cantieri fermi.
+
+### Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2014
+
+**Categoria:** Obblighi · **Corso:** Energetica edilizia e incentivi
+
+Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica periodica alle grandi imprese e alle imprese energivore (scadenza dicembre degli anni dispari), con obbligo alternativo per piccole e medie (sistema di gestione energetico ISO 50001), e l'energy manager per grandi imprese e energivore.
+
+- **Tecnologia e criteri:** Obblighi principali: 1) diagnosi energetica: audit completo del consumo energetico di impianti e edifici, ripetuto ogni 4 anni (scadenza dicembre anni dispari: 5 dicembre), redatto secondo la norma UNI CEI 16247 da ESCo certificata o professionista; 2) grandi imprese: soglia occupati >250 o fatturato >50 mln (con possibili aggiornamenti del decreto: verificare); 3) imprese energivore: quelle con consumi rilevanti (elenco MIMIT, es. settori energivori con consumi oltre soglia definita per codice ATECO); 4) alternative per le PMI: adozione di un sistema di gestione dell'energia certificato ISO 50001 o audit energetici di qualità secondo le regole; 5) energy manager: obbligatorio per grandi imprese ed energivore, anche per le PA con consumi rilevanti; funzioni: identificare risparmi, proporre investimenti, rendicontare; 6) sanzioni: amministrative (migliaia di euro) in caso di mancata diagnosi o data mancata comunicazione al MIMIT.
+- **Applicazioni:** Imprese industriali, catene distributive grandi, PA con edilizia pubblica estesa, ESCo.
+- **Vantaggi:** La diagnosi obbligatoria è il pretesto burocratico che diventa piano di investimento: chi la fa sul serio trova il 10-20% di risparmio identificato.
+- **Limiti e attenzioni:** Formalismo diffuso: diagnosi 'fotocopia' che non portano a un investimento sono carta senza valore.
+- **Costi ed economia:** Diagnosi energetica di uno stabilimento medio: 4.000-15.000 €; per gruppi con più sedi: a listino. ISO 50001: 5.000-20.000 € di costruzione e certificazione del sistema.
+- **Caso tipico:** Fonderia medio-piccola 'energivora' non a conoscenza dell'obbligo: richiesta della diagnosi in corso di verifica: costo affrettato doppio (diagnosi + pratica) rispetto alla programmazione: 9.000 € e una violazione formalizzata che il nuovo energy manager interno ha trasformato in piano di risparmio da 40.000 €/anno.
+- **Normativa:** D.Lgs 102/2014 (efficienza energetica, recepimento direttiva EED); UNI CEI 16247 (diagnosi energetiche); decreti MIMIT con elenchi energivore e aggiornamenti soglie.
+- **Nota di cantiere:** La scadenza della diagnosi è dicembre degli anni dispari: chi si muove a ottobre dell'anno scorso trova le ESCo disponibili; chi si muove a novembre dell'anno scadenza paga il sovrapprezzo e rischia la sanzione.
+
+### Le ESCo e il contratto di servizio energetico
+
+**Categoria:** Strumenti · **Corso:** Energetica edilizia e incentivi
+
+Le ESCo (Energy Service Company) realizzano interventi di efficienza energetica a rischio proprio: investono, misurano e verificano i risparmi, ripagandosi con una quota del beneficio ottenuto (Energy Performance Contracting).
+
+- **Tecnologia e criteri:** Modello: 1) la ESCo propone un progetto di efficienza (involucro, impianti, produzione) finanziandolo in proprio o con terzi; 2) il contratto tipo (EPC) fissa la baseline dei consumi, le misure di verifica e riparto (IPMVP - International Performance Measurement and Verification Protocol come riferimento metodologico); 3) il cliente paga con una quota del risparmio verificato (shared savings) o un canone fisso garantito (guaranteed savings); 4) durata tipica 5-12 anni, alla fine gli impianti restano al cliente; 5) la ESCo gestisce manutenzione, monitoraggio e ottimizzazione per tutta la durata; 6) requisiti: certificazione (in Italia schema UNI CEI 11352 per le ESCo), capacità di misura (M&V), solidità finanziaria; 7) ambiti: PA (con CT 3.0 in prenotazione), industriale, terziario grande, condominii complessi. La figura chiave è il protocollo M&V: senza misura affidabile del risparmio non esiste contratto.
+- **Applicazioni:** Scuole e PA senza budget, stabilimenti industriali, ospedali, grandi servizi, riqualificazione di condomìni con spese comuni importanti.
+- **Vantaggi:** Trasferisce a chi sa farlo il rischio tecnico-finanziario: il cliente paga dal risparmio, non da cassa.
+- **Limiti e attenzioni:** Il costo del capitale e del rischio si paga nel prezzo: l'EPC costa di più dell'intervento a budget; la qualità della baseline decide chi guadagna davvero.
+- **Costi ed economia:** Valutazione ESCo: risparmi garantiti tipicamente 15-40% sui consumi presi in carico; la quota di riparto a favore della ESCo è definita contrattualmente per durata e rischio; le pratiche CT 3.0 in prenotazione per PA prevedono espressamente il canale ESCo.
+- **Caso tipico:** Ospedale con EPC di 9 anni su cogenerazione, involucro e illuminazione: risparmio verificato dal protocollo M&V del 28% sui consumi elettrici e 35% sui termici; al termine del contratto l'impianto è rimasto all'ospedale con gestione interna formata dalla ESCo stessa.
+- **Normativa:** UNI CEI 11352 (requisiti e certificazione ESCo); IPMVP (protocollo di misura e verifica, riferimento internazionale); D.Lgs 28/2011 (certificati bianchi e contratti di servizio energetico); D.M. 7/8/2025 (canale ESCo per la prenotazione CT 3.0).
+- **Nota di cantiere:** La prima verifica di serietà di un EPC: chi ha scritto la baseline e con quali dati (bolllette ≥ 24 mesi). La baseline su un solo anno di bolletta è il punto di partenza di ogni contestazione futura.
+
+### Direttiva Case Green (EPBD IV): cosa cambia per l'edilizia
+
+**Categoria:** Trend · **Corso:** Energetica edilizia e incentivi
+
+La direttiva 'Case Green' (EPBD IV, UE 2024/1275) aggiorna la direttiva sulle prestazioni energetiche degli edifici con l'obiettivo di edilizia a zero emissioni al 2050 e scaglioni intermedi: il recepimento nazionale definirà scadenze e strumenti — da monitorare come driver del prossimo decennio.
+
+- **Tecnologia e criteri:** Contenuti chiave (direttiva 2024/1275): 1) obiettivo 2050: edifici a zero emissioni in tutta l'UE, con traguardi intermedi al 2030 (zero emissioni per i nuovi edifici pubblici e tutti i nuovi edifici) e 2040; 2) i nuovi edifici devono essere pronti per fotovoltaico (presupposto di installazione nelle fasi di progettazione); 3) classi energetiche armonizzate (scala A-G) con obbligo di progressivo miglioramento degli edifici peggiori (F e G) al momento dei grandi interventi; 4) divieto progressivo delle caldaie a combustibili fossili (con scaglioni nazionali in definizione); 5) piani di riqualificazione nazionali e comunali con traguardi decennali; 6) aspetti sociali: protezione dei consumatori vulnerabili, riduzione della povertà energetica; 7) la direttiva va recepita: le scadenze italiane effettive dipenderanno dai decreti attuativi (stato del recepimento da verificare al momento della consultazione).
+- **Applicazioni:** Pianificazione di patrimoni immobiliari, strategie di riqualificazione aziendali, programmi di manutenzione decennali, scelta dei generatori termici.
+- **Vantaggi:** Dà direzione certa al settore: chi investe oggi in involucro e pompe di calore va nella direzione della normativa europea.
+- **Limiti e attenzioni:** Fino al recepimento i dettagli italiani (scaglioni, sanzioni, incentivi di accompagnamento) restano incerti.
+- **Costi ed economia:** Impatto stimato sui patrimoni G-F: la riqualificazione obbligata al momento dei grandi interventi creerà un mercato stabile di interventi incentivati.
+- **Caso tipico:** Patrimonio di una cooperativa: mappatura precoce delle unità in classe F/G secondo la nuova scala ha anticipato il piano di riqualificazione al 2030 con accesso a fondi PNRR regionali ancora disponibili.
+- **Normativa:** Direttiva UE 2024/1275 (EPBD IV, 'Case Green'); D.Lgs 192/2005 e s.m.i. fino al recepimento; decreti nazionali di recepimento (in aggiornamento: verificare stato).
+- **Nota di cantiere:** Regola strategica: ogni decisione di investimento termico con orizzonte 2030+ va confrontata con la traiettoria EPBD IV. Il generatore a gas installato oggi potrebbe avere vita utile normativa più breve del piano ammortamento.
 
 
 ## Formulario di fisica dell'edilizia e degli impianti

@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-92 voci, 8 corsi.
+107 voci, 9 corsi.
 
 
 ## Costruire in legno
@@ -639,6 +639,236 @@ Come si confronta l'azione con la resistenza: la regola del gioco del progetto m
 - **Caso tipico:** Verifica pilastro: N_Ed = 900 kN ≤ N_Rd = 1.200 kN -> verificato (margine 25%).
 - **Normativa:** NTC2018; EC0 (EN 1990).
 - **Nota di cantiere:** La verifica SLU non è 'passa/non passa': è un rapporto E_d/R_d. Un rapporto 0,98 e 0,50 sono tecnicamente diversi (margine) anche se entrambi 'verificati'.
+
+
+## Geotecnica e fondazioni
+
+*Corso `GEOTECNICA_E_FONDAZIONI_PACK` — 15 voci*
+
+### L'abbassamento della falda: pozzi, pompe e sifonamento
+
+**Categoria:** Acque sotterranee · **Corso:** Geotecnica e fondazioni
+
+Negli scavi sotto falda si abbassa il livello dell'acqua con pozzi d'emungimento e si verifica il rischio di sifonamento: il fondo scavo si solleva quando la pressione dell'acqua sottostante supera il peso del terreno tra fondo e falda.
+
+- **Tecnologia e criteri:** Metodi: 1) pozzi a gravità e pozzi con pompe sommerse intorno allo scavo (abbassamento locale, funziona in permeabilità media-alta); 2) edotti a sangue per il mantenimento; 3) diaframmi/impermeabilizzazioni quando l'abbassamento generale non è ammissibile (acqua preziosa, cedimenti indotti, norme di scarico). Verifica di sifonamento (approccio tensioni efficaci): il gradiente idraulico verso l'alto i = Δh/L deve stare sotto il gradiente critico icr = γ'/γw (in sabbie circa 1): si adotta un coefficiente di sicurezza in genere ≥ 1,5-2,0. Abbassare la falda su grande superficie causa cedimenti del terreno drenato: vanno valutati gli effetti sui fabbricati vicini.
+- **Applicazioni:** Scavi per box, parcheggi interrati, cantine, canali, opere idrauliche; consolidamento temporaneo o permanente.
+- **Vantaggi:** Trasforma uno scavo 'in apnea' in uno scavo asciutto e sicuro: il lavoro procede e le verifiche sono numeriche e controllabili.
+- **Limiti e attenzioni:** In sabbie fini e limi il drenaggio è lento; l'abbassamento prolungato assesta il terreno drenato (vedi vicini); le autorizzazioni allo scarico possono bloccare il cantiere.
+- **Costi ed economia:** Impianto di abbassamento: 5.000-30.000 € in funzione del numero di pozzi e portate; gestione 500-2.000 €/settimana (energia, manutenzione); il reintegro dopo lo scavo è quasi sempre obbligatorio e va messo in conto.
+- **Caso tipico:** Scavo per garage interrato a 4 m sotto falda a 1,5 m: verifica a sifonamento non superata con fondo pieno; soluzione con sovrascavo alleggerito di sabbia e griglia filtrante sopra i getti, costo aggiuntivo 15.000 € su un garage da 35.000 € — il progettista che lo ha previso ha venduto tranquillità.
+- **Normativa:** NTC 2018 (verifiche di sollevamento e sifonamento); UNI EN 1997-1 (sezione dedicata alle pressioni idrauliche); regolamenti e autorizzazioni per lo scarico delle acque di falda (ambito idraulico-autorizzativo regionale).
+- **Nota di cantiere:** La domanda da farsi prima di ogni scavo sotto falda: 'se la pompa si ferma stanotte, cosa succede?' La risposta progettuale (sifonamento, tempo di rientro, piano emergenza) è parte dell'opera.
+
+### La portanza dei pali: punta, laterale e prove di carico
+
+**Categoria:** Fondazioni profonde · **Corso:** Geotecnica e fondazioni
+
+La portanza di un palo si scompone in componente di punta (resistenza del terreno di appoggio) e attrito laterale (aderenza lungo il fusto): entrambe si stimano da indagini, correlazioni e, per le opere importanti, da prove di carico statico dinamico.
+
+- **Tecnologia e criteri:** Stima: Qp = qp·Ap con qp da penetrazioni CPTu o tabelle per tipo di terreno; Ql = Σ ql,i·As,i con ql funzione del tipo di terreno (in genere 40-120 kPa per limi argillosi, 80-150 kPa per sabbie, molto più alto in ghiaia). Verifiche: portanza assiale (compressione e trazione), carico laterale (flessione del palo), cedimento del gruppo. Prove: 1) prova di carico assiale statico con martinetto contro reazione, fino a 2-3 volte il carico di esercizio; 2) prove dinamiche PDA (Pile Driving Analyzer) su battuti; 3) prove di integrità (cross-hole, sonic). Per la trazione l'attrito laterale va ridotto rispetto al valore in compressione.
+- **Applicazioni:** Palificazioni di edifici, torri, capannoni, viadotti; rinforzi di fondazioni esistenti; pali tiranti per opere di sostegno.
+- **Vantaggi:** Le prove di carico convertono l'incertezza geotecnica in un valore misurato: su grandi palificazioni la prova su un palo pilota guida la messa in opera di centinaia di pali.
+- **Limiti e attenzioni:** Prove statiche costose e lente; le prove dinamiche su gettati in sito sono meno dirette; l'effetto gruppo può ridurre la portanza somma dei pali singoli (interferenza).
+- **Costi ed economia:** Prova di carico statico verticale: 3.000-10.000 € a prova; PDA: 300-800 € a palo; sonic logging: 150-400 € a palo. In un budget di palificazione serio le prove sono l'1-3%.
+- **Caso tipico:** Palificazione di un viadotto: prove statiche su due pali pilota hanno mostrato attrito laterale del 30% superiore alle stime da sondaggi: ridotto il numero di pali di un'elica, risparmio stimato 80.000 € su 400 pali.
+- **Normativa:** NTC 2018 (verifiche e prove); UNI EN 1997-1; UNI EN ISO 22477 (prove di carico su fondazioni profonde).
+- **Nota di cantiere:** Documentare il numero di colpi/battuta o la profondità di trivellazione palo per palo: la dispersione in cantiere è la prima informazione sulla qualità reale della palificazione.
+
+### Le fondazioni profonde: i pali
+
+**Categoria:** Fondazioni profonde · **Corso:** Geotecnica e fondazioni
+
+I pali trasferiscono i carichi in profondità, a strati portanti profondi (punta) e lungo il fusto (attrito laterale): la tipologia scelta (battuto, gettato in sito, trivellato, micropalo) dipende da terreno, carichi, vibrazioni consentite e accessibilità.
+
+- **Tecnologia e criteri:** Tipologie principali: 1) pali gettati in sito (pali trivellati con tubo di rivestimento o fango di bentonite, pali a base espansa): silenziosi, adattabili a grandi diametri (Ø 40-150+ cm) e grandi carichi; 2) pali prefabbricati infissi (cls precompresso, acciaio, legno): rapidi, qualità certificata in fabbrica, ma con vibrazioni e rotture di testa da gestire; 3) pali micropali (Ø 100-300 mm, tubo-infuso con tiranti ad alta resistenza): per spazi ridotti, consolidamenti, rinforzi, carichi medi. Meccanismo: portanza di punta Qp su terreno rigido di punta + attrito laterale Ql sui terreni attraversati; portanza limite Qlim = Qp + Ql; si verifica anche il carico strutturale del palo e il carico di gruppo con effetto di gruppo.
+- **Applicazioni:** Edifici su terreni molli spessi, pali di ormeggio e sostegno, ripristini di fondazioni esistenti, fondazioni in falda con metodo a bassa vibrazione.
+- **Vantaggi:** Sfonda la formazione cattiva e lavora dove il terreno è buono: cedimenti ridotti e controllabili, indipendenti dallo scavo di fondazione.
+- **Limiti e attenzioni:** Costo e macchine; le vibrazioni dei battuti possono danneggiare i vicini; nei gettati in sito la qualità dipende dalla corretta esecuzione ( pulizia di fondo, continuità del cls).
+- **Costi ed economia:** Indicativo 2025-2026: palo trivellato Ø60 100-200 €/ml; micropalo 150-350 €/ml; battuto precompresso Ø35-45 80-150 €/ml più trasporto e guida. La voce più costosa spesso è la prova di carico: 3.000-10.000 € per prova verticale.
+- **Caso tipico:** Rinforzo fondazioni di un edificio anni '60 lesionato: 48 micropali da 150 mm infissi dall'interno del seminterrato con micropaletti di contrasto, senza scavo esterno: ripristinato in 6 settimane con il fabbricato in esercizio.
+- **Normativa:** NTC 2018 per le verifiche di pali singoli e di gruppo; UNI EN 1997-1 (sezioni dedicate alle fondazioni profonde); UNI EN 14199 per l'esecuzione dei micropali; UNI EN 1536 per i pali gettati in sito.
+- **Nota di cantiere:** Sui pali gettati la fondazione vera è sotto terra: registrazione del cavedio (reattività, portanza del fondo), volume di cls gettato, e prova di integrità (es. sonic logging sui pali principali) valgono più di qualsiasi dichiarazione.
+
+### Fondazioni esistenti: diagnosi, rinforzo e recupero
+
+**Categoria:** Fondazioni superficiali · **Corso:** Geotecnica e fondazioni
+
+Le fondazioni esistenti si verificano e rinforzano con tecniche non invasive o minimamente invasive: micropali, radicazioni, inghisaggi, ampliamenti di zoccolo, sotto-fondazioni, getti di alleggerimento.
+
+- **Tecnologia e criteri:** Diagnosi: ricerca archivi (progetti, relazioni geotecniche), indagini (sondaggi, provini, prove penetrometriche tra le fondazioni), rilievo delle lesioni (mappa di cedimento), monitoraggio topografico. Interventi: 1) micropali sotto zoccoli esistenti (infissione con mezzi ridotti, carico tramite piastre di ripartizione); 2) radici o radicazioni (piccoli pali inclinati in cls); 3) ampliamento del piede (allargamento del fondo di appoggio); 4) sotto-fondazione (getti sotto il piede con espansione controllata o sostituzione manuale per tratti); 5) alleggerimento sovrastante (casseforme, cls alleggerito); 6) iniezioni di consolidamento dei terreni sotto il piede. Nei beni vincolati si privilegia la reversibilità e la minima invasività.
+- **Applicazioni:** Edifici storici lesionati, ampliamenti con incremento di carico, variazioni d'uso, adattamenti sismici di edifici esistenti.
+- **Vantaggi:** Recupera il valore dell'esistente senza demolizioni: i rinforzi a micropali sono eseguibili dall'interno senza scavo esterno.
+- **Limiti e attenzioni:** Il carico reale delle vecchie fondazioni è spesso incerto; gli interventi sotto carico richiedono fasi e monitoraggi attenti.
+- **Costi ed economia:** Indicativo: micropali di rinforzo 150-350 €/ml; radicazioni 200-400 €/ml; sotto-fondazioni manuali 300-600 €/ml per tratto; monitoraggio continuo 1.000-5.000 € per campagna.
+- **Caso tipico:** Palazzo vincolato con cedimenti differenziali secolari: rinforzo con 60 micropali infissi dai locali seminterrati con testa di ripartizione in acciaio, monitoraggio laser per 18 mesi: cedimenti arrestati, valore immobiliare recuperato.
+- **Normativa:** NTC 2018 (circolare e istruzioni per l'adeguamento sismico e il consolidamento); linee guida per il miglioramento sismico dell'edilizia esistente; UNI EN 1997-1 per le verifiche di rinforzo.
+- **Nota di cantiere:** Prima di rinforzare, capire: il 70% dei rinforzi di fondazione fallisce perché tratta il sintomo (lesione) senza avere individuato la causa (falda, vasca, terreno organico, carichi aggiunti nel tempo).
+
+### Il cedimento delle fondazioni: quanto è troppo
+
+**Categoria:** Fondazioni superficiali · **Corso:** Geotecnica e fondazioni
+
+Il cedimento di una fondazione è accettabile se uniforme; ciò che danneggia le costruzioni è il cedimento differenziale, che flette e taglia le strutture. Si distinguono cedimenti totali, differenziali e angolari, con limiti convenzionali legati alla rigidità strutturale.
+
+- **Tecnologia e criteri:** Stima: 1) cedimento elastico immediato (sabbie, ghiaie) da deformazioni elastiche; 2) consolidazione primaria (terreni coesivi saturi) con Teoria di Terzaghi; 3) consolidazione secondaria. Metodi: soluzione di mezzo elastico (fattori di forma, modulo di elasticità), metodo oedometrico con coefficiente di interazione. Limiti orientativi di progetto per edifici ordinari in muratura/misti: cedimento totale 2,5-5 cm, differenziale δ/L intorno a 1/500-1/1000 seconda rigidità e fragilità delle finiture. Soglie più restrittive per strutture rigide con finiture delicate (pietra, vetro strutturale).
+- **Applicazioni:** Ogni progetto di fondazione deve riportare la previsione di cedimento: statico verificato, committente informato, manutenzione pianificata.
+- **Vantaggi:** Un cedimento previsto è un cedimento gestibile: giunti, fasce di dilatazione, sequenza di rifiniture ne annullano gli effetti.
+- **Limiti e attenzioni:** I modelli danno dispersioni notevoli: la verifica ex post con topografia di cedimento (punti fissi, lastre di livellazione) resta buona pratica per le opere importanti.
+- **Costi ed economia:** Monitoraggio topografico di cedimento: 500-2.000 € per campagna con rilievi semestrali; molto meno del ripristino di una muratura lesionata (50-300 €/ml di lesione).
+- **Caso tipico:** Caso classico di insegnamento: edificio storico su due tipi di fondazione (vecchia e nuova ala): cedimento differenziale al giunto di 6 cm in 30 anni, gestito con giunto aperto e manutenzione programmata anziché rinforzi invasivi.
+- **Normativa:** UNI EN 1997-1 per le verifiche di esercizio (SLS); NTC 2018 per i contenuti del progetto geotecnico; riferimenti dei limiti di cedimento nei testi classici di progettazione (es. Burland, Biarez).
+- **Nota di cantiere:** Prima regola anti-contenzioso: fotografare e misurare le finiture dei vicini prima di iniziare lo scavo; il cedimento contestato quasi mai coincide col cedimento reale misurato su riferimenti topografici.
+
+### Le fondazioni superficiali: verifica di portanza
+
+**Categoria:** Fondazioni superficiali · **Corso:** Geotecnica e fondazioni
+
+Fondazioni superficiali (platee, plinti, travi rovesce, cordoli) appoggiano a poche profondità e trasmettono il carico al terreno per pressione: la verifica di portanza confronta la pressione di esercizio con la pressione limite del terreno divisa per un coefficiente parziale.
+
+- **Tecnologia e criteri:** Passi classici: 1) stratigrafia e parametri (φ', c' drenati; cu non drenati per argille a breve termine); 2) scelta forma (plinto, platea, trave): la platea uniforma i cedimenti, il plinto conviene su terreno regolare; 3) portanza limite con formule analitiche classiche (formule di tipo Terzaghi/Hansen/ Vesic considerate in UNI EN 1997-1 nell'approccio ai coefficienti parziali); 4) verifica GEO con γR (in genere 2,3-3,0 sul terreno secondo approccio); 5) verifica cedimenti come verifica di servizio; 6) verifica scorrimento e ribaltamento dove pertinente. Profondità minima di posa: sotto il gelo e nella zona stagionalmente variabile, in genere 0,8-1,2 m in Italia.
+- **Applicazioni:** Edifici residenziali e commerciali su terreni di buona portanza: sabbie dense, ghiaie, argille sovraconsolidate di superficie.
+- **Vantaggi:** Soluzione più economica e veloce della palificazione: nessuna macchina speciale, ispezione diretta del terreno di appoggio prima del getto.
+- **Limiti e attenzioni:** Richiede terreno con portanza adeguata entro 1-3 m; cedimenti differenziali controllabili; falda alta complica scavi e getti.
+- **Costi ed economia:** Ordine di grandezza: platea in cls armato completa di scavo, igienico, getto e impermeabilizzazione 90-180 €/m² per grandi superfici; plinti 150-300 €/m³ di cls.
+- **Caso tipico:** Villette a schiera su platea comune anziché plinti singoli: in un lotto su sabbia con falda stagionale, la platea ha eliminato i cedimenti differenziali tra unità che i plinti separati avrebbero manifestato (murature intonacate che si 'tagliano' a pettine).
+- **Normativa:** NTC 2018 (D.M. 17/01/2018) — verifiche GEO con coefficienti parziali; UNI EN 1997-1 (Eurocodice 7); UNI EN 1992-1 per il calcolo del cls di fondazione.
+- **Nota di cantiere:** Il getto della fondazione va fatto sul terreno verificato, non sul terreno di riporto: 10 cm di materiale sciolto sotto la platea possono costare il cedimento differenziale di tutta l'ala dell'edificio.
+
+### Le indagini geotecniche: sondaggi, carotaggi e campionamento
+
+**Categoria:** Indagini geotecniche · **Corso:** Geotecnica e fondazioni
+
+La campagna di indagini geotecniche ricostruisce il sottosuolo stratigrafico e misura le proprietà dei terreni prima di progettare fondazioni e scavi: sondaggi con carotaggio continuo, campioni indisturbati, prove in sito e in laboratorio.
+
+- **Tecnologia e criteri:** Strumenti base: 1) sondaggi a carotaggio continuo (ricalibratura, recupero quasi totale del campione, descrizione strato per strato); 2) sondaggi a distruzione con prelievo di campioni disturbati; 3) campionatori a parete sottile (Shelby, pistone) per campioni indisturbati coesivi; 4) prove in sito (penetrometriche, pressiometriche, dilatometriche, vane test); 5) prove di laboratorio (identificazione, oedometriche, taglio diretto, triassiali). Profondità di indagine: almeno oltre lo strato portante significativo, in genere 1,5-2 volte la larghezza dell'opera di fondazione per fondazioni superficiali.
+- **Applicazioni:** Obbligatorie in corso di progettazione di fondazioni, opere di sostegno, strade, dighe, bonifiche; la NTC 2018 (D.M. 17/01/2018) le rende parte integrante del progetto geotecnico.
+- **Vantaggi:** Riduce l'incertezza: il costo delle indagini è una frazione percentuale del costo delle fondazioni e previene crolli, cedimenti differenziali e ripristini milionari.
+- **Limiti e attenzioni:** Indagini a punti discreti: tra un sondaggio e l'altro il terreno può cambiare; i campioni indisturbati si alterano; il budget spesso limita il numero di sondaggi.
+- **Costi ed economia:** Ordini di grandezza indicativi: sondaggio con carotaggio continuo 150-300 €/ml; penetrometro statico CPTu 40-100 €/ml; pressiometrico 150-400 €/prova; vane test 100-250 €/prova. Una campagna per villette può costare 2.000-8.000 €, per un edificio grande 15.000-60.000 €.
+- **Caso tipico:** Edificio residenziale su 4 sondaggi: il quinto sondaggio (fatto su richiesta del progettista oltre il minimo richiesto) ha intercettato una lente di torba a 6 m: sostituita la platea con palificazione, costo aggiuntivo 40.000 € invece di un rischio di cedimenti differenziali in corso d'opera.
+- **Normativa:** NTC 2018 (D.M. 17/01/2018) — progettazione geotecnica e indagini; UNI EN 1997-2 (Eurocodice 7, parte 2: indagini e prove); UNI EN ISO 14688-1 (classificazione e identificazione dei terreni).
+- **Nota di cantiere:** La regola d'oro: mai risparmiare sul quinto sondaggio. Il terreno non è omogeneo e i problemi di fondazione quasi sempre nascono tra due sondaggi, non sotto un sondaggio.
+
+### Le prove in laboratorio: oedometro, taglio diretto, triassiale
+
+**Categoria:** Indagini geotecniche · **Corso:** Geotecnica e fondazioni
+
+Le prove di laboratorio misurano i parametri di progetto su campioni indisturbati: la prova oedometrica per la compressibilità e la consolidazione, il taglio diretto e la triassiale per la resistenza al taglio drenata e non drenata.
+
+- **Tecnologia e criteri:** Prova oedometrica: campione confinato lateralmente in anello, caricato a gradini: dà modulo edometrico, coefficiente di consolidazione cv, indice di compressione Cc e ricompressione Cr; base del calcolo dei cedimenti. Taglio diretto: scatola di taglio, veloce, economica: c e φ drenate, o cu non drenate; limite: piano di taglio imposto. Triassiale: campione con pressione di cella σ3 e deviatore (σ1-σ3): prove UU (non drenate rapide), CU con misura di u, CD drenate; permette la stima di c' e φ' e di cu allo stato di tensione reale; prova di riferimento per opere importanti. Vane test in sito per cu non drenato di argille tenere senza campionamento.
+- **Applicazioni:** Calibrazione dei parametri di calcolo per fondazioni, pareti, dighe, bonifiche; valutazione delle pressioni neutre in rapido carico.
+- **Vantaggi:** I triassiali CU/CD su campioni ben prelevati sono il riferimento per le grandi opere: i valori di progetto si fanno su questi numeri.
+- **Limiti e attenzioni:** Campioni indisturbati veri solo nelle argille; nelle sabbie le prove in laboratorio sono difficili e si preferisce l'interpolazione dai penetrometri; i risultati dipendono dalla qualità del campione (disturbo).
+- **Costi ed economia:** Indicativo: oedometrica 150-350 €/prova; taglio diretto 100-250 €/prova; triassiale CU con u 400-900 €/prova; pacchetto geotecnico completo (10-15 prove) 3.000-8.000 €.
+- **Caso tipico:** Progetto di un serbatoio con rilievi rapidi di riempimento: triassiali CU con misura di u hanno mostrato che il cu in rapido era metà di quello drenato: dimensionati i pali e il programma di riempimento per fasi per evitare instabilità del fondo.
+- **Normativa:** UNI EN ISO 17892 (serie delle norme di prova di laboratorio geotecnico: granulometria, Atterberg, oedometro, taglio, triassiale); UNI EN 1997-2 per l'uso dei risultati ai fini di progetto.
+- **Nota di cantiere:** Il referto di laboratorio vale quanto il prelievo: un campione 'indisturbato' trasportato male o conservato al caldo dà parametri che sembrano scientifici e non lo sono.
+
+### Le prove penetrometriche: SPT e CPTu
+
+**Categoria:** Indagini geotecniche · **Corso:** Geotecnica e fondazioni
+
+Le prove penetrometriche misurano la resistenza del terreno in profondità in modo continuo e rapido: lo SPT (dinamico, a campioni) e il CPTu (statico, elettronico, con misura della pressione neutra).
+
+- **Tecnologia e criteri:** SPT (Standard Penetration Test): prova dinamica; si conta il numero di colpi N necessari ad avanzare di 30 cm un campionatore standard con maglio da 63,5 kg caduta 76 cm; si riporta N (blows/30cm). Correzioni standard: N1(60) per energia e sovrapposizione. CPTu (Cone Penetration Test): prova statica continua; punta conica misura la resistenza di punta qc, l'attrito laterale fs e la pressione neutra u; ricostruisce stratigrafia e parametri (angolo di attrito, resistenza non drenata). Vantaggio CPTu: continuo, ripetibile, nessun campione necessario.
+- **Applicazioni:** Classificazione preliminare, verifica portanza fondazioni, valutazione rischio licuefazione in sabbie sature, controllo di ripristino terre di bonifica.
+- **Vantaggi:** Rapide ed economiche; CPTu dà un profilo continuo ogni centimetro; SPT dà anche un campione disturbato per classificazione e limiti Atterberg.
+- **Limiti e attenzioni:** SPT è semi-empirico e dipendente dall'operatore; in ghiaia il campionatore si rifiuta; il CPTu non fornisce campioni e si ferma nei terreni molto densi.
+- **Costi ed economia:** Indicativo: SPT 30-80 €/prova (incluso nel sondaggio); CPTu 40-100 €/ml con arrivo squadra e mezzo; micropenetrometro a mano (DPM) per piccoli lavori qualche centinaio di euro.
+- **Caso tipico:** Verifica licuefazione in Pianura Padana: profili CPTu in sabbie sature sotto falda con (N1)60cs bassi hanno guidato la scelta di miglioramento del terreno anziché palificazione pura in un capannone logistico.
+- **Normativa:** UNI EN ISO 22476 (norma internazionale per le prove geotecniche in sito, parti per SPT e CPT); UNI EN 1997-2 per l'interpretazione ai fini di calcolo.
+- **Nota di cantiere:** Attenzione alle tabelle di correlazione N-resistenza: valgono per terreni granulari medi e perdono attendibilità in terreni estremi (molto densi o molto sabbiosi fini sotto falda).
+
+### Il miglioramento dei terreni: precompressione, colonne di ghiaia, jet grouting
+
+**Categoria:** Miglioramento dei terreni · **Corso:** Geotecnica e fondazioni
+
+Quando il terreno è debole ma il carico deve restare, si migliora il terreno invece di sfondarlo: precompressione con riempimenti temporanei, colonne di ghiaia, vibroflottazione, jet grouting, iniezioni e consolidamenti profondi.
+
+- **Tecnologia e criteri:** Tecniche principali: 1) precompressione (surcharge): un riempimento temporaneo pari a 1,2-1,5 volte il carico finale accelera la consolidazione e pre-comprime il terreno; 2) colonne di ghiaia (stone columns): colonne di ghiaia vibro-installate (Ø 60-120 cm) che drenano e rinforzano i limi; 3) vibroflottazione: densificazione profonda di sabbie; 4) jet grouting: getto di cemento ad alta pressione che trita e mescola il terreno creando colonne cementate (Ø 60-250 cm); 5) iniezioni di consolidamento e stoppaggi. Scelta per terreno-obiettivo: drenare (colonne), densificare (vibro), cementare (jet), caricare (surcharge).
+- **Applicazioni:** Fondazioni di capannoni e parchi logistici su terreni deboli, sotto-fondazioni stradali, contenimento di sabbie licuefacenti, ripristini di frane.
+- **Vantaggi:** A volte più economico dei pali su grandi superfici e tratta il terreno invece di eluderlo; tecniche come le stone columns drenano e riducono il rischio licuefazione.
+- **Limiti e attenzioni:** Richiedono mezzi specializzati; le colonne di ghiaia in argille molli possono riflettere verso l'alto il carico (bulging); il jet grouting è il più costoso a metro.
+- **Costi ed economia:** Indicativo: colonne di ghiaia 30-80 €/ml; jet grouting 150-400 €/ml; vibroflottazione 15-40 €/m²; surcharge con gestione mesi di attesa: il costo è il tempo (e il monitoraggio).
+- **Caso tipico:** Hub logistico su 4 m di limi soffici: confronto pali vs colonne di ghiaia + precompressione: la seconda ha vinto su costo (-35%) e sui tempi (no code dei palificatori), con cedimenti residui accettabili monitorati per 2 anni.
+- **Normativa:** UNI EN 1997-1 per la verifica dell'opera migliorata; norme di esecuzione e controllo di qualità specifiche per ciascuna tecnica (rapporti di cantiere, prove di resistenza su getti, misure di cedimento).
+- **Nota di cantiere:** Il miglioramento si controlla con le misure: piombi, estensimetri, colate di prova. Senza strumentazione il miglioramento del terreno è una promessa, con la strumentazione è un fatto.
+
+### Le opere di sostegno: muri di sostegno e paratie
+
+**Categoria:** Opere di sostegno · **Corso:** Geotecnica e fondazioni
+
+Le opere di sostegno trattengono il terreno negli scavi e nelle spianate: muri a gravità, a mensola (oltre-rigido), paratie (palancole, micropali, diaframmi) e sistemi ancorati, scelti in base ad altezza, spazio, falda e vincoli sui cedimenti.
+
+- **Tecnologia e criteri:** Classificazione: 1) muri a gravità (massi, cls, gabbioni) lavorano per peso proprio, h > 4-5 m diventano ingombranti; 2) muri a mensola in cls armato infissi (Fondo gettato nel terreno che resiste per incastro): h fino a 6-8 m in terreni buoni; 3) paratie flessibili (palancole, pali, diaframmi) con puntelli o tiranti; 4) sistemi di ancoraggio (tiranti in barre o cavetti, micropali a contrasto). Verifiche: ribaltamento, scorrimento, portanza del fondo, sollevamento del fondo di scavo (sifonamento), cedimenti verso il vicino, stati limite del cls. Il carico accidentale sul terrapieno (automezzi) quasi raddoppia la spinta.
+- **Applicazioni:** Scavi urbani, rampe, spianate stradali, sostegno di fondi stradali, recupero di corpi franati.
+- **Vantaggi:** La paratie è reversibile: palancole e tiranti si rimuovono a fine scavo; i diaframmi restano ma liberano spazio interno.
+- **Limiti e attenzioni:** Cedimenti indotti verso i vicini: in area edificata l'operta di sostegno 'al limite' economica sposta il problema sulla casa del vicino.
+- **Costi ed economia:** Indicativo: gabbioni 60-120 €/m² di faccia; muro in ca infisso 250-500 €/ml; paratia di palancole noleggio+sconficco 150-350 €/ml; diaframma 400-800 €/ml; tiranti 100-250 €/ml.
+- **Caso tipico:** Scavo stradale a 5 m a filo case: danni documentati alle abitazioni durante le fasi di scavo senza puntellatura pronta; il ripristino (riparazioni + indennizzi) ha superato il costo di un sistema di puntelli a perdere già previsto in progetto.
+- **Normativa:** NTC 2018 per le verifiche geotecniche (spinte, sifonamento, stati limite); UNI EN 1997-1 per i metodi di calcolo; norme di esecuzione per palancole e getti di parete (UNI EN 1538 per i diaframmi).
+- **Nota di cantiere:** La spinta del terreno non aspetta: le paratie si puntellano prima dello scavo, non durante. Ogni metro di scavo senza puntello è un metro di spinta accumulata sulle fondazioni del vicino.
+
+### I terreni difficili: espansivi, organici, licuefacenti
+
+**Categoria:** Terreni · **Corso:** Geotecnica e fondazioni
+
+Tre famiglie di terreni creano problemi specifici: gli argillosi espansivi (gonfiano e ritirano con l'acqua), i terreni organici (torbe: compressibili per decenni) e le sabbie sature poco dense (licuefazione sismica). Ognuno ha strategie progettuali dedicate.
+
+- **Tecnologia e criteri:** Espansivi (montmorillonite): variazioni volumetriche del 5-15% tra secco e saturo; richiedono fondazioni alleggerite, camere d'aria, drenaggi perimetrali, mantenimento costante dell'umidità. Organici (torbe, fanghi): indici di vuoti e, contenuto organico alti, cedimenti primari e secondari prolungati; strategie: rimozione parziale, pali a punta portante, precompressione, alleggerimento. Licuefacenti: sabbie satura poco dense (N SPT basso, qc basso) sotto falda in zona sismica: rischio di perdita di resistenza ciclica; mitigazioni: densificazione (vibro, stone columns), drenaggio, pali a profondità non licuefacente con verifica della punta e del fusto nel terreno che si deforma. Indici di riferimento: contenuto organico, N1(60), qc normalizzato.
+- **Applicazioni:** Pianura padana (limi e sabbie licuefacenti), aree vulcaniche con pozzolane, fondovalle torbiose di montagna, argille varicolori di orizzonte appenninico.
+- **Vantaggi:** Riconoscerli precocemente da indagini costa poco e cambia completamente la strategia di fondazione: quasi mai si corre ai ripari in corso d'opera.
+- **Limiti e attenzioni:** I campioni di torba e limo organico si degradano in laboratorio: i parametri devono venire da prove in sito e da esperienza locale.
+- **Costi ed economia:** La rimozione di torba può costare 20-60 €/m³ movimentato (scavo+smaltimento+reintegro); la palificazione su terreno organico spesso raddoppia il costo a palo; la vibroflottazione antilicuefazione 15-40 €/m².
+- **Caso tipico:** Case in Pianura Padana dopo il sisma del 2012: i danni da licuefazione (liquefaction ejecta, cedimenti differenziali) hanno colpito le costruzioni su sabbie satura poco dense: le verifiche di microzonazione ora guidano di norma le fondazioni nella zona epicentrale.
+- **Normativa:** NTC 2018 (classificazione dei terreni, verifiche di sicurezza sismica geotecnica, categorie di sottosuolo); UNI EN 1997-1 e 1998-5 (progettazione geotecnica sismica); microzonazione sismica come da normativa nazionale (classificazione locale).
+- **Nota di cantiere:** Se il sondaggio dice 'torba' o 'N basso sotto falda', non è un problema di laboratorio: è una decisione di progetto che va presa prima di firmare il prezzo dell'opera.
+
+### La classificazione dei terreni: UNI EN ISO 14688
+
+**Categoria:** Terreni · **Corso:** Geotecnica e fondazioni
+
+I terreni si classificano per granulometria: argilla (<0,002 mm), limo (0,002-0,063 mm), sabbia (0,063-2 mm), ghiaia (2-63 mm); la presenza di acqua e la plasticità (limiti di Atterberg) distinguono il comportamento coesivo da quello incoerente.
+
+- **Tecnologia e criteri:** Fondamenti: 1) analisi granulometrica (setacciatura per frazioni grossolane, sedimentometria per fini); 2) limiti di Atterberg: limite liquido wL (passaggio stato liquido-plastico), limite plastico wP, indice di plasticità IP = wL - wP; argille hanno IP alto; 3) classificazione in scheletro (ghiaia/sabbia) e frazione fine; 4) terreno coesivo = fine predominante con plasticità; incoerente = scheletro con fini scarsi. Il peso di volume γ (16-22 kN/m³ tipici), la saturazione e l'indice dei vuoti e completano la descrizione di stato.
+- **Applicazioni:** Ogni progetto geotecnico parte dalla classificazione: scelta del tipo di fondazione, stima preliminare di parametri, drenaggio, scavo.
+- **Vantaggi:** Un linguaggio comune tra indagini, progetto e direzione lavori: due tecnici che parlano di 'sabbia limosa mediamente densa' intendono lo stesso materiale.
+- **Limiti e attenzioni:** La classificazione non misura da sola la resistenza: due argille con stessa plasticità possono avere resistenze molto diverse (consolidazione, struttura).
+- **Costi ed economia:** Analisi granulometrica 60-150 €/campione; limiti di Atterberg 80-200 €/campione; pacchetto di classificazione standard 150-350 € per campione.
+- **Caso tipico:** Confusione classificazione-comportamento: terreno classificato 'sabbia limosa' ma con limo plastico in realtà coesivo: il prezzo di scavo stimato su scavo a parete ripida è fallito in cantiere per ritto di parete.
+- **Normativa:** UNI EN ISO 14688-1 e -2 (classificazione, identificazione e descrizione dei terreni); UNI EN ISO 14689 (per le rocce); UNI EN 1997-2 per i riferimenti di laboratorio.
+- **Nota di cantiere:** Il nome corretto del terreno si paga: scrivere 'argilla limosa mediamente sovraconsolidata' invece di 'fanghiglia' cambia prezzi di scavo, mezzi consentiti e calcoli di parete.
+
+### La consolidazione dei terreni saturi: Terzaghi e il tempo dei cedimenti
+
+**Categoria:** Terreni · **Corso:** Geotecnica e fondazioni
+
+La consolidazione è il processo con cui un terreno saturo scarica nel tempo la pressione idraulica in eccesso e si comprime: governata dal coefficiente di consolidazione cv e dal grado di consolidazione U in funzione del fattore tempo Tv.
+
+- **Tecnologia e criteri:** Modello di Terzaghi: carico applicato istantaneamente (es. riempimento, fondazione) → u iniziale = carico → drenaggio verso i confini drenanti → u decade, σ' cresce, il volume diminuisce (cedimento). Parametri da prova oedometrica: cv (velocità) e Cc/Cs (compressione). Il cedimento finale si calcola dall'indice dei vuoti; il tempo dipende da Hdr (distanza dal drenante al quadrato): raddoppiare lo spessero dello strato compressibile → quattro volte il tempo. Consolidazione secondaria (scorrimento viscoso) continua a tempo infinito nelle torbe e argille organiche.
+- **Applicazioni:** Previsione cedimenti e loro durata: argilliti, limi, torbe, riporti; scelta tra fondazioni superficiali, pali (a punta nella formazione rigida) o miglioramento precompresso.
+- **Vantaggi:** Permette di prevedere quanto e quando si assesterà un edificio: utile per differire rifiniture, prevedere giunti, negoziare garanzie.
+- **Limiti e attenzioni:** Il modello è monodimensionale e lineare: in terreni stratificati o carichi locali serve l'analisi numerica; i parametri da campioni piccoli sottostimano la struttura reale.
+- **Costi ed economia:** Costo non del calcolo ma delle decisioni: su terreni a lenta consolidazione il risparmio dei pali rispetto alla precompressione si decide sui tempi di attesa (mesi-anni di cedimento residuo).
+- **Caso tipico:** Torre di Pisa è il caso limite: consolidazione differenziale su argille tenere. Caso moderno: capannone su 8 m di limi: previsione 25 cm di cedimento in 15 anni, uniforme, con giunto di compensazione al piano terreno; nessun danno strutturale.
+- **Normativa:** UNI EN 1997-1 per le verifiche di cedimento (EQU/STR/GEO) e i valori caratteristici; metodo di calcolo come da testi classici di meccanica delle terre (Terzaghi, Peck, Mesri).
+- **Nota di cantiere:** Sulle argille il cedimento arriva dopo, non subito: le lesioni da consolidazione compaiono a mesi o anni dal carico. Chi esegue rifiniture delicate subito dopo la costruzione sopra terreno compressibile si assume un rischio documentabile.
+
+### La tensione efficace di Terzaghi: l'acqua che 'porta' l'edificio
+
+**Categoria:** Terreni · **Corso:** Geotecnica e fondazioni
+
+La tensione efficace σ' = σ - u (Terzaghi, 1936) è il principio base della meccanica delle terre: la resistenza e la deformazione del terreno dipendono dalla parte di sforzo non portata dall'acqua nei vuoti.
+
+- **Tecnologia e criteri:** Sforzo totale σv = Σ γi·zi (peso del terreno sovrastante); pressione neutra u = γw·zw (9,81 kN/m³ per metro di colonna d'acqua); tensione efficace σ'v = σv - u. Conseguenze pratiche: 1) sotto falda, γ saturo si usa per σ ma l'acqua sottrae γw·zw; 2) abbassando la falda si aumenta σ' e quindi la portanza; 3) durante la consolidazione la pressione del carico passa gradualmente dall'acqua (u) allo scheletro (σ'); 4) sabbie satura sottoposte a cicli rapidi (terremoto) tendono alla licuefazione perché u sale fino ad annullare σ'.
+- **Applicazioni:** Fondazioni sotto falda, consolidazione, abbassamenti di falda, rischio licuefazione, sifonamento sotto dighe e diaframmi.
+- **Vantaggi:** Un unico principio spiega portanza, spinte sulle pareti, cedimenti e licuefazione: impararlo bene risolve metà della geotecnica.
+- **Limiti e attenzioni:** Terreni non saturi richiedono tensioni negative (suzione) con modelli più complessi; i terreni cementati e strutturati si discostano dal comportamento di Terzaghi.
+- **Costi ed economia:** Conseguenza economica diretta: ogni metro di abbassamento falda in scavo può costare pannelli di cofferdam + pompe + reintegro, in genere 50-300 €/m² di superficie dello scavo a seconda del regime.
+- **Caso tipico:** Scavo condominiale 6 m sotto falda a 2 m: il progetto prevedeva continuità del diaframma anziché sifonamento controllato; la verifica a sifonamento con la tensione efficace ha imposto un sovrascavo interno di alleggerimento che ha salvato l'opera in un evento di piena.
+- **Normativa:** Principio consolidato riportato in ogni testo di meccanica delle terre (Terzaghi & Peck; Craig); UNI EN 1997-1 per le verifiche di stabilità al sifonamento e di portanza in condizioni drenate/non drenate.
+- **Nota di cantiere:** Domanda da cantiere che rivela tutto: 'ma la falda dove sta oggi, non dove era alla perforazione?' — u dipende dall'acqua attuale, non da quella del sondaggio.
 
 
 ## Infrastrutture viarie e urbanizzazioni

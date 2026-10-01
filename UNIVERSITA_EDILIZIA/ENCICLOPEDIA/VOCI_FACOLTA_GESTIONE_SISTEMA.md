@@ -3,7 +3,192 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-42 voci, 4 corsi.
+54 voci, 5 corsi.
+
+
+## Contabilità, computo e appalti dei lavori
+
+*Corso `CONTABILITA_APPALTI_PACK` — 12 voci*
+
+### La chiusura di commessa: saldo, certificato di regolare esecuzione, garanzie
+
+**Categoria:** Chiusura · **Corso:** Contabilità, computo e appalti dei lavori
+
+La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definitiva, certificato di regolare esecuzione (nei pubblici, che libera la ritenuta di garanzia), restituzione delle garanzie e attivazione del periodo di garanzia decennale.
+
+- **Tecnologia e criteri:** Passi: 1) fine dei lavori: verbale di collaudo/consegna con riserve definitive; 2) saldo contabile: ultimo SAL con gli storni delle voci non eseguite e l'eventuale recupero delle trattenute; 3) certificato di regolare esecuzione (lavori pubblici): certifica l'esecuzione conforme e libera la ritenuta di garanzia, di regola dopo l'eliminazione delle riserve; 4) restituzione delle fideiussioni: cauzione provvisoria e definitiva (tipicamente il 10% dell'importo nei pubblici, da costituire a pena di decadenza dai termini); 5) periodo di garanzia: 10 anni per i difetti gravi (art. 1669 c.c.) e le garanzie contrattuali specifiche (2 anni sulle finiture e sugli impianti, di regola); 6) manuale d'uso e manutenzione: obbligatorio per legge nei cantieri di rilevante entità, utile sempre; 7) certificazioni energetiche e abitative finali (APE post-intervento) dove dovute.
+- **Applicazioni:** Ogni commessa; il rilascio delle garanzie è tesoreria dell'impresa: i ritardi amministrativi bloccano risorse.
+- **Vantaggi:** Una chiusura pulita documenta la fine delle responsabilità operative e fa partire il conteggio delle garanzie.
+- **Limiti e attenzioni:** Le riserve 'a tempo indeterminato' lasciate aperte bloccano il certificato di regolare esecuzione: la datazione delle riserve è un punto da negoziare sempre.
+- **Costi ed economia:** La cauzione definitiva del 10% immobilizzata per anni incide sul rating di tesoreria dell'impresa: la tempestività della chiusura vale denaro.
+- **Caso tipico:** Impresa che ha chiuso 14 commesse pubbliche senza richiedere il certificato di regolare esecuzione: la scoperta in fase di audit bancario ha mostrato 900.000 € di fideiussioni ancora vincolate e ritenute non liberate: la pratica di chiusura è stata formalizzata con checklist.
+- **Normativa:** D.Lgs 36/2023 e DPR 207/2010 (certificato di regolare esecuzione, cauzioni); art. 1669 e 1670 c.c. (garanzia decennale e biennale); D.M. 37/08 per le dichiarazioni di conformità impianti.
+- **Nota di cantiere:** La commessa finisce quando i documenti di chiusura sono firmati, non quando si smonta il cantiere. Chi trasloca senza chiudere le pratiche porta i suoi soldi nel camion che se ne va.
+
+### Il collaudo tecnico: fasi, soggetti e verbali
+
+**Categoria:** Collaudi · **Corso:** Contabilità, computo e appalti dei lavori
+
+Il collaudo verifica che l'opera corrisponda al progetto e sia idonea all'uso: negli appalti pubblici è previsto per regola sopra la soglia di 150.000 €, con collaudatore indipendente, fasi intermedie e finale, e verbale che fissa lo stato dell'opera.
+
+- **Tecnologia e criteri:** Struttura: 1) collaudatore (tecnico indipendente nominato dal committente o dall'autorità, non appartenente alla filiera esecutrice); 2) fasi di collaudo: stato dei luoghi preliminare (verifica delle condizioni precedenti: fondamentale per i danni contestabili), collaudi intermedi durante l'opera (getti nascosti, impianti a monte del chiuso), collaudo finale con verifiche funzionali; 3) documentazione: relazione tecnica, verbale di collaudo con esiti, elenco delle riserve (gravi: da eliminare prima dell'uso; leggere: da eliminare a tempo determinato); 4) esiti: collaudo positivo (libera l'esercizio e apre le garanzie definitive), collaudo con riserva, rifiuto; 5) nel privato il collaudo tecnico non è obbligatorio ma è buona prassi per opere di pregio, con perizia giurata o asseverazione; 6) collaudo funzionale per impianti: prove in regime, bilanciamenti, tarature.
+- **Applicazioni:** Opere pubbliche, edifici complessi, impianti, ristrutturazioni di pregio, opere con garanzie decennali da attivare.
+- **Vantaggi:** Il verbale di collaudo con riserve è la mappa dei lavori da finire: nessuna ambiguità su cosa manca per chiudere.
+- **Limiti e attenzioni:** Il collaudo non copre i difetti occulti (es. errore di progetto strutturale nascosto): la garanzia decennale corre a parte.
+- **Costi ed economia:** Onorario del collaudatore: tipicamente 1-3% dell'importo dei lavori; collaudo impiantistico completo di un edificio residenziale: 2.000-6.000 €.
+- **Caso tipico:** Residenza con collaudo finale 'lampo' senza stato dei luoghi preliminare: lesioni nel vicino attribuite al cantiere; la CTU non ha potuto escludere lo stato preesistente per mancanza di documentazione: costo condiviso a metà, 40.000 €, più lezione.
+- **Normativa:** DPR 207/2010 (collaudi per i lavori pubblici, soglie e fasi); D.Lgs 36/2023 (ruolo del collaudatore); per il privato: art. 1667 c.c. (verifica dell'opera).
+- **Nota di cantiere:** Prima azione di ogni cantiere sensibile: il rilievo fotografico datato dello stato dei luoghi, firmato dalle parti. È il documento più economico e più decisivo di tutto il contratto.
+
+### I SAL: gli Stati di Avanzamento Lavori
+
+**Categoria:** Contabilità · **Corso:** Contabilità, computo e appalti dei lavori
+
+Lo stato di avanzamento lavori è la dichiarazione periodica (di regola mensile) del valore dei lavori eseguiti: base dei pagamenti a rate, del monitoraggio economico e della verifica dei tempi di consegna.
+
+- **Tecnologia e criteri:** Struttura: 1) elenco voci di computo con la percentuale o la quantità eseguita nel periodo; 2) ammontare progressivo (a saldo) e del periodo; 3) eventuali opere a prezzi variabili ricalcolate con l'indice dichiarato; 4) trattenute: ritenuta di garanzia (tipicamente 5% nei contratti pubblici fino alla certificazione di regolare esecuzione) e ritenute previdenziali; 5) soglia di pagamento: di regola il SAL si trasforma in fattura con il pagamento nei termini contrattuali (tipicamente 30-60 gg); 6) certificazione del direttore dei lavori (o del progettista privato) che attesta la veridicità; 7) avanzamento temporale: il confronto tra % valore eseguito e % tempo trascorso dà il ritardo o il vantaggio, con le conseguenze sulle penali e sulle aspettative di consegna.
+- **Applicazioni:** Cantieri con pagamenti rateali; commesse pubbliche e private; base delle revisioni di progetto in corso d'opera.
+- **Vantaggi:** Il SAL mensile regolare è l'anticontenzioso più economico: nessuno discute numeri approvati ogni 30 giorni.
+- **Limiti e attenzioni:** I SAL 'fotografici' compilati a fine cantiere con percentuali a memoria sono il pane delle vertenze sui lavori eseguiti.
+- **Costi ed economia:** La ritenuta di garanzia immobilizza il 5% del valore fino alla fine dei lavori e al periodo di garanzia: va conteggiata nella tesoreria dell'impresa.
+- **Caso tipico:** Condominio con SAL approvati per 18 mesi: alla fine, l'impresa reclamava un extra di 60.000 € su lavori non in contratto; il confronto con i SAL firmati ha mostrato che il 90% delle voci contestate era già stato pagato: la trattativa si è chiusa a 6.000 €.
+- **Normativa:** Per i lavori pubblici: DPR 207/2010 (contabilità, pagamenti) e D.Lgs 36/2023; per il privato: prassi contrattuale (pagamenti periodici certificati dal direttore lavori).
+- **Nota di cantiere:** Il firmatario del SAL si assume responsabilità: verificare che le percentuali dichiarate corrispondano a quanto realmente eseguito e approvato, non a quanto richiesto dall'impresa per la tesoreria.
+
+### La contabilità dei lavori: misure, contabilità figurativa, giustificativi
+
+**Categoria:** Contabilità · **Corso:** Contabilità, computo e appalti dei lavori
+
+La contabilità dei lavori documenta quanto eseguito per il pagamento: misurazioni consegne a verbale, contabilità figurativa nelle opere a corpo, e conservazione dei giustificativi (DDT, fatture, foto, diari) che provano i costi.
+
+- **Tecnologia e criteri:** Metodi: 1) contabilità a misura: ogni quantità si misura e si approva con verbale di consegna (misure di scavi, getti con relazione di getto, posa con rilievi); 2) contabilità figurativa o sviluppo a corpo: per opere a corpo si riepiloga l'avanzamento per fasi approvate (spesso con criteri di riparto dichiarati nel contratto: es. struttura 40%, tamponamenti 30%, finiture 30%); 3) contabilità ordinata con documenti giustificativi per lavori in economia o eseguiti in somma urgenza; 4) strumenti: diario di cantiere quotidiano, verbali di sopralluogo con allegati fotografici, schede di consegna materiali (DDT), relazioni di prova; 5) regole d'oro: nessuna quantità senza verbale, nessun verbale senza data e firme, nessuna voce inventata a fine cantiere.
+- **Applicazioni:** Ogni cantiere con pagamenti periodici; indispensabile in contenzioso per dimostrare lo stato dei luoghi a una certa data.
+- **Vantaggi:** La contabilità quotidiana ben tenuta vale come prova: giudici e periti si fidano dei documenti contemporanei, non delle ricostruzioni.
+- **Limiti e attenzioni:** La contabilità 'di fine cantiere' ricostruita a posteriori ha valore probatorio debole e spesso si smentisce con le foto.
+- **Costi ed economia:** Costo interno: 1-3% del valore dei lavori per misurazioni e verbali continui; il recupero di un contenzioso ben documentato vale il doppio.
+- **Caso tipico:** Vicino che sostiene danni da scavo: il diario di cantiere con foto datate dei contrafforti e i verbali di controllo hanno dimostrato che le lesioni erano preesistenti (foto di uno scatto dei Vigili del Fuoco di due anni prima): causa archiviata, costo zero.
+- **Normativa:** Prassi contrattuale e giurisprudenziale; per i lavori pubblici: DPR 207/2010 (contabilità) e D.Lgs 36/2023 (art. sui pagamenti).
+- **Nota di cantiere:** Il diario di cantiere scritto il giorno stesso è prova; scritto il mese dopo è letteratura. Cinque minuti al giorno salvano cinquemila euro di perizia.
+
+### I prezzi unitari e le analisi: come nasce un prezzo di costruzione
+
+**Categoria:** Economia · **Corso:** Contabilità, computo e appalti dei lavori
+
+Il prezzo unitario di una voce di computo nasce dall'analisi dei costi: materiali a consumo, manodopera (ore e costo orario comprensivo di incidenze), mezzi d'opera, spese generali e utile di impresa; i prezzari ufficiali sono il riferimento pubblico.
+
+- **Tecnologia e criteri:** Struttura di un'analisi prezzi: 1) materiali: quantità a consumo (con sfridi del 3-10% secondo la lavorazione) × prezzo consegnato in cantiere; 2) manodopera: ore produttive per unità (dalle consistenze della manodopera) × costo orario comprensivo di retribuzione, carichi, indennità, previdenza; 3) mezzi: ore macchina × costo orario (amortamento, manutenzione, carburante, autista); 4) spese generali (di regola 12-17% secondo la tipologia e la dimensione dell'impresa) e utile di impresa (tipicamente 3-6% nei lavori edili, variabile col rischio); 5) i prezzari ufficiali (regionali e nazionali) pubblicano prezzi unitari medi costruiti con questa logica; 6) l'offerta in gara si forma scontando i prezzari (ribasso) e adegua con le analisi dei costi; 7) nei contratti pubblici la sostenibilità economica dell'offerta anomala si verifica proprio sui prezzi al di sotto del costo.
+- **Applicazioni:** Gare pubbliche, verifica di offerte, controlli prezzi, contabilità, varianti con nuovi prezzi.
+- **Vantaggi:** Chi sa costruire un prezzo sa riconoscere un prezzo impossibile: il ribasso oltre il costo reale si paga in qualità o in contenzioso.
+- **Limiti e attenzioni:** Le consistenze storiche delle manodopera soffrono l'inflazione e la carenza di manodopera: le analisi vanno aggiornate con i costi reali del momento.
+- **Costi ed economia:** Un'analisi prezzi puntuale di una voce complessa: 100-400 € a voce; i software di computo includono banche dati prezzario aggiornate (abbonamento 300-1.500 €/anno).
+- **Caso tipico:** Verifica offerta anomala: l'offerta del 28% di ribasso su un appalto da 2 milioni aveva i getti a un prezzo sotto il costo del cls consegnato: la stazione appaltante ha richiesto la dimostrazione documentata; l'impresa non ha provato: esclusa, gara ripetuta.
+- **Normativa:** Prassi estimativa italiana; DPR 207/2010 e D.Lgs 36/2023 (verifica anomalia e sostenibilità); prezzari ufficiali regionali come riferimento.
+- **Nota di cantiere:** Regola pratica: chiedere a chi offre il prezzo più basso come ci campa. Se la risposta non convince, il prezzo racconta una bugia che il cantiere pagherà.
+
+### I subappalti: la catena della responsabilità
+
+**Categoria:** Responsabilità · **Corso:** Contabilità, computo e appalti dei lavori
+
+Il subappalto delega all'esecuzione a imprese terze (subentrate, a loro volta con sub-subappalti): nei lavori pubblici è consentito nei limiti e con le comunicazioni previste dal codice; la responsabilità verso il committente resta dell'appaltatore principale.
+
+- **Tecnologia e criteri:** Quadro: 1) nei lavori pubblici il subappalto è ammesso per categorie congruenti con quelle dell'appaltatore, entro il limite di regola del 30% del valore contrattuale per categoria scorporabile, con comunicazione alla stazione appaltante; 2) l'appaltatore risponde dell'opera come se l'avesse eseguita: i subentrate non interrompono la garanzia; 3) rischio fiscale e previdenziale: la regolarità contributiva dei subappaltatori è controllata (nulla osta); 4) qualità: il capitolato si applica a catena, ma i controlli dell'appaltatore sui sub sono il vero punto debole; 5) sicurezza: i subentrate sono a loro volta obbligati con coordinamento del datore di lavoro degli scavi; 6) il privato può subappaltare liberamente nei limiti del contratto, ma la responsabilità resta solidale verso il committente.
+- **Applicazioni:** Imprese generali che specializzano (impianti, serramenti, facciate), consorzi stabili, gare a RTI.
+- **Vantaggi:** Permette a una general contractor di coprire tutte le categorie con le imprese migliori per singola voce.
+- **Limiti e attenzioni:** La catena si allunga e i controlli si assottigliano: i difetti di qualità nascono quasi sempre nel subappalto mal coordinato.
+- **Costi ed economia:** Le condizioni dei subappalti determinano i prezzi reali: uno sconto del 15% del general sul sub si traduce in materiali più economici o manodopera meno esperta.
+- **Caso tipico:** Edificio con infiltrazioni alle facciate: la causa era la posa dei sub-subappaltatore dei serramenti senza sigillatura progettuale; la responsabilità ricadeva sul general, che aveva pagato il ribasso più basso della gara.
+- **Normativa:** D.Lgs 36/2023 (subappalti: limiti, comunicazioni, controllo); art. 1676 c.c. (subappalto nel codice civile); D.Lgs 81/2008 per la sicurezza a catena.
+- **Nota di cantiere:** Domanda al general: 'chi esegue questa voce e con quale capitolato?' Se la risposta arriva dopo tre telefonate, il controllo qualità è già perso.
+
+### La sicurezza negli appalti: i ruoli secondo D.Lgs 81/2008
+
+**Categoria:** Sicurezza · **Corso:** Contabilità, computo e appalti dei lavori
+
+Nei cantieri si sovrappongono più imprese: il D.Lgs 81/2008 (Titolo IV) assegna i ruoli — committente, datore di lavoro di cantiere, dirigente, preposto, responsabili tecnici, CSE, CSP, DLV, DDL — con responsabilità che si cumulano, non si sostituiscono.
+
+- **Tecnologia e criteri:** Ruoli: 1) committente (o responsabile dei lavori per conto del committente): nomina CSP e CSE; 2) CSP (Coordinatore Sicurezza in fase di Progettazione): redige il POS e sceglie le soluzioni di cantiere sicure; 3) CSE (Coordinatore in fase di Esecuzione): vigila sul POS applicato, coordina i datori di lavoro; 4) datore di lavoro dell'impresa esecutrice: nomina RSPP, dirigenti, preposti; redige il PSC; 5) dirigente e preposto: dirigono e vigilano; 6) responsabili tecnici: piani di montaggio uso smontaggio ponteggi, calcoli di stabilità scavi; 7) DLV (Direttore dei Lavori), DDL (Direttore del collaudo): controlli tecnici; 8) obblighi non delegabili: la sicurezza si delega solo con le forme e i limiti della norma (formazione, nomina scritta, verifica idoneità). Documenti chiave: PSC, POS, verbali di coordinamento, nominativi dei preposti, Verbale di posa in sicurezza, Verbale di ripristino delle condizioni di sicurezza (VPS/VRS).
+- **Applicazioni:** Ogni cantiere con più imprese; obblighi documentali verificati da ASL/ispettorato e dalla Guardia di Finanza in caso di incidente.
+- **Vantaggi:** I ruoli chiari evitano il vuoto di responsabilità: chi deve fare cosa è scritto, chi firma risponde.
+- **Limiti e attenzioni:** Nelle piccole imprese un tecnico copre tre ruoli: il sovraccarico produce documenti formali ma controlli assenti.
+- **Costi ed economia:** CSE: 1-3% dell'importo lavori; CSP incluso nel progetto; il costo di un verbale di coordinamento mancato in caso di incidente è la responsabilità penale.
+- **Caso tipico:** Incidente per caduta dal ponteggio: il verbale di coordinamento non documentava la consegna del piano di montaggio; CSE, datore di lavoro e preposto rinviati a giudizio con capi d'imputazione distinti: la documentazione avrebbe distribuito o dimostrato le responsabilità.
+- **Normativa:** D.Lgs 81/2008 (Testo Unico Sicurezza, Titolo IV cantieri temporanei e mobili); Accordi Stato-Regioni per la formazione; norme tecniche su ponteggi, scavi e macchine.
+- **Nota di cantiere:** La sicurezza si dimostra: nominative scritte, verbali di consegna, registrazione formazione. In un incidente si giudica su carta prima ancora che sui fatti.
+
+### Il capitolato speciale d'appalto: il contratto tecnico
+
+**Categoria:** Strumenti contrattuali · **Corso:** Contabilità, computo e appalti dei lavori
+
+Il capitolato speciale d'appalto descrive le lavorazioni, i materiali, le esecuzioni e i controlli: è la parte tecnica del contratto che disciplina il 'come' di ogni voce del computo e fissa le regole di qualità.
+
+- **Tecnologia e criteri:** Contenuti tipo: 1) descrizione delle lavorazioni per ciascun gruppo (scavi, getti, posa, finiture) con riferimenti a norme di prodotto ed esecuzione; 2) materiali: caratteristiche, marcatura CE, certificazioni, prove di accettazione (soggiorni, prove di laboratorio sul cls, prove sui serramenti); 3) esecuzione: accettazione del terreno di fondazione prima del getto, cure del cls, sequenze, giunti, tolleranze dimensionali; 4) controlli e collaudi intermedi: assaggi, prove di tenuta, verifiche strumentali; 5) criteri di accettazione e rifiuto; 6) obblighi documentali: diari di cantiere, verbali di sopralluogo, piani di collaudo; 7) sicurezza: riferimenti al piano di sicurezza e ai piani operativi. Un buon capitolato è verificabile: ogni frase controllabile in cantiere con strumento o documento.
+- **Applicazioni:** Contratti privati e pubblici; disciplina del rapporto tra progetto esecutivo e esecuzione.
+- **Vantaggi:** Riduce il margine del 'non previsto': il capitolato serio trasforma la qualità da negoziazione in obbligo.
+- **Limiti e attenzioni:** Capitolati fotocopiati da altri cantieri portano norme sbagliate, materiali non disponibili, prove irrilevanti: più danni di un capitolato assente.
+- **Costi ed economia:** Redazione capitolato su misura: 2.000-8.000 € in funzione dell'opera; il costo di un capitolato copia-incolla sbagliato si scopre in collaudo.
+- **Caso tipico:** Capitolato che richiedeva il cls 'Rck 30' ma la normativa di riferimento citata era vecchia: la ditta ha consegnato il getto con le prove richieste nel capitolato ma fuori specifica del progetto; la vertenza si è risolta con la sostituzione parziale, 40.000 €, tutto documentabile sin dalla gara.
+- **Normativa:** D.Lgs 36/2023 e DPR 207/2010 (documenti di gara); per il privato, prassi: allegato tecnico al contratto di appalto; norme UNI EN di esecuzione lavori citate nel capitolato stesso.
+- **Nota di cantiere:** Test del capitolato: prendere una voce a caso e chiedersi 'con quale strumento e quale documento verifico questa frase in cantiere?'. Se la risposta non esiste, la frase è decorativa.
+
+### Il computo metrico estimativo: la misura che vale contratto
+
+**Categoria:** Strumenti contrattuali · **Corso:** Contabilità, computo e appalti dei lavori
+
+Il computo metrico estimativo è l'elenco delle quantità di lavoro con i prezzi unitari e i totali: è la base dell'offerta e del pagamento a misura; le regole di misurazione devono essere dichiarate e coerenti con il capitolato.
+
+- **Tecnologia e criteri:** Struttura: 1) corpo del computo: numero d'ordine, descrizione sintetica, voce di capitolato di riferimento, unità di misura, quantità, prezzo unitario, importo; 2) gruppi di lavorazione (scavi, strutture, tamponamenti, finiture, impianti); 3) elenco prezzi: prezzi unitari inseriti dall'appaltatore (offerta) o dal committente (base gara); 4) regole di misura: convenzioni dichiarate (es. misure nette di getto senza scomposizione, con o senza spese di ponteggio a corpo); 5) somme a corpo: voci a prezzo fermo non misurabili (accordi bonari, trasporti, ponteggi, noleggi); 6) quadro riepilogativo: lavori a misura + somme a corpo + oneri della sicurezza + eventuali opere a prezzi variabili. Le quantità si misurano in giacenza di progetto: le maggiori consumazioni di cantiere si coprono con i prezzi, non con le quantità.
+- **Applicazioni:** Tutti i contratti a misura e a corpo misto; base di gara; verifica in contabilità; estimo dei lavori di manutenzione.
+- **Vantaggi:** Trasparenza: ogni voce si può verificare in cantiere e ogni prezzo si può confrontare con il prezzario di riferimento.
+- **Limiti e attenzioni:** Le regole di misura diverse tra computi di gara e contabilità generano il 70% delle vertenze quantitative; le voci 'furbe' (quantità a piacere) nascono proprio da questa ambiguità.
+- **Costi ed economia:** Elaborazione di un computo per una ristrutturazione da 100.000 €: 1.500-4.000 € di tecnico; per opere pubbliche in gara, il computo entra nel costo di progettazione.
+- **Caso tipico:** Contenzioso su getti: la ditta chiedeva il pagamento 'a getto effettivamente conferito' (buche + sperone), il computo prevedeva la misura netta di progetto: le prove di getto documentavano un consumo superiore del 12% per lo sperone e le perdite del cavedio: la vertenza si è risolta riconoscendo la maggior consumazione solo dove il progetto l'aveva prevista (pozzetti, cordoli).
+- **Normativa:** D.Lgs 36/2023 (documenti di gara, contratto); DPR 207/2010 (regolamento di esecuzione: documenti di gara e computi); Prassi: prezzari ufficiali regionali e Documento di Indirizzo per gli standard dei servizi tecnici (criteri di redazione dei documenti di gara).
+- **Nota di cantiere:** La prima lettura del contratto da cantiere: trovare la voce 'regole di misura'. Se non c'è, ogni misura diventa negoziabile, e il meno documentato perde.
+
+### Le tipologie di appalto: a corpo, a misura, misto
+
+**Categoria:** Strumenti contrattuali · **Corso:** Contabilità, computo e appalti dei lavori
+
+Il contratto di appalto si distingue per il criterio di determinazione del prezzo: a corpo (prezzo fisso per l'opera completa), a misura (pagamento in funzione delle quantità eseguite), misto (corpo per alcune parti, misura per altre); il rischio si sposta con la tipologia.
+
+- **Tecnologia e criteri:** Schema: 1) appalto a corpo: il prezzo copre tutto quanto necessario a consegnare l'opera secondo il progetto; il rischio delle quantità è dell'appaltatore; variazioni di progetto aprono a varianti; 2) appalto a misura: il prezzo unitario è fisso, le quantità si misurano; il rischio delle quantità è del committente; 3) appalto misto: la parte a corpo copre le voci prevedibili, la parte a misura le voci incerte (scavi, fondi speciali); 4) a prezzi variabili: indicizzazione per materiali con forte volatilità (clausole di revisione prezzi); 5) nell'appalto integrato (privato) o concorso di progettazione (pubblico) il contratto copre progetto + esecuzione. La scelta dipende da completezza del progetto, prevedibilità dei terreni e volatilità dei prezzi.
+- **Applicazioni:** Privato: ristrutturazioni (misto tipico); pubblico: gare a misura su progetto esecutivo, a corpo su progetto definitivo.
+- **Vantaggi:** L'appalto a misura protegge il committente dall'incertezza dei terreni; quello a corpo protegge il committente dal rischio prezzi e dà certezza di budget.
+- **Limiti e attenzioni:** A corpo con progetto incompleto = guaranzia di varianti e contenziosi; a misura con prezzi gonfiati sulle voci incerte = gara vinta sulle quantità improbabili.
+- **Costi ed economia:** L'indennità di mancato utilizzo (scavi in appalto a corpo scoperti come più facili del previsto) spetta di regola all'appaltatore nei limiti dell'economia realizzata, secondo contratto e giurisprudenza.
+- **Caso tipico:** Villa su roccia: il computo a misura aveva 60.000 € di scavi; la roccia affiorava dopo 40 cm: la misura reale è stata 8.000 € — il committente ha pagato 52.000 € di meno; con un appalto a corpo avrebbe pagato l'intera voce.
+- **Normativa:** D.Lgs 36/2023 (tipologie e disciplina); art. 1659 e ss. c.c. per l'appalto privato; giurisprudenza consolidata su rischio delle quantità e oneri non prevedibili.
+- **Nota di cantiere:** Domanda chiave prima di firmare: 'chi porta il rischio se le quantità cambiano?' Se la risposta non è scritta nel contratto, la porterà chi ha più pazienza in perizia.
+
+### Le riserve e le perizie: la memoria tecnica del cantiere
+
+**Categoria:** Varianti · **Corso:** Contabilità, computo e appalti dei lavori
+
+La riserva è la dichiarazione contestuanea di un diritto futuro (lavori non previsti, danni, ritardi) presentata per iscritto all'atto del verbale; la perizia è il documento tecnico che quantifica la richiesta dopo.
+
+- **Tecnologia e criteri:** Strumenti: 1) riserva in verbale: dichiarazione scritta al momento dell'accettazione del verbale ('si accetta con riserva di quantificare i danni da...'); senza riserva, il verbale si intende accettato senza contestazioni; 2) riserva nel diario di cantiere e nei SAL; 3) perizia giurata del tecnico che quantifica con computo, foto e relazione tecnica; 4) contestazione tempestiva: la giurisprudenza punta sulla immediatezza della contestazione (giorni, non mesi); 5) in caso di disaccordo: CTU (consulenza tecnica d'ufficio) o arbitrato secondo contratto; 6) la documentazione contemporanea (foto datate, meteo, presenze) decide le perizie più delle argomentazioni.
+- **Applicazioni:** Danni da scavo al vicino, ritardi per cause imputabili, lavori in economia, condizioni meteorologiche eccezionali.
+- **Vantaggi:** La riserva scritta tempestiva costa zero e tiene aperte le opzioni; quella mancata chiude la porta definitivamente.
+- **Limiti e attenzioni:** Le riserve generiche ('ci riserviamo di...') senza descrizione del fatto valgono poco: la riserva deve descrivere il fatto, la data, la causa presunta.
+- **Costi ed economia:** Perizia di parte: 1.500-6.000 € in funzione della complessità; CTU in giudizio: da 5.000 € in su, oltre le spese legali.
+- **Caso tipico:** Ditta che ha documentato con foto datate e verbali meteorologici due settimane di pioggia eccezionale bloccante: la perizia ha ottenuto il riconoscimento del prolungamento dei tempi e il ripristino; la ditta 'gemella' senza documentazione ha pagato le penali.
+- **Normativa:** Giurisprudenza consolidata su verbali con riserva; prassi: regole dei contratti tipo (FIDIC, disciplinare di gara) su contestazioni e tempi.
+- **Nota di cantiere:** La firma al verbale è un atto tecnico-giuridico: chi firma senza riserve regala ciò che non ha ancora valutato. Leggere, riservare, firmare.
+
+### Le varianti in corso d'opera: quando, come, entro quanto
+
+**Categoria:** Varianti · **Corso:** Contabilità, computo e appalti dei lavori
+
+La variante in corso d'opera modifica il contratto durante l'esecuzione (materiali diversi, aggiunte, eliminazioni): nei lavori pubblici il limite complessivo è il 20% dell'importo contrattuale, con approvazione del direttore dei lavori; oltre serve nuova gara.
+
+- **Tecnologia e criteri:** Quadro: 1) varianti in corso d'opera (VCO): documentate da perizia di variante, approvate dal direttore dei lavori nei limiti di legge (per i lavori 20% dell'importo contrattuale; per forniture 10%); oltre il limite si deve procedere a nuova procedura selettiva; 2) varianti sopravvenute: dovute a cause non prevedibili (sottosuolo, vincoli scoperti); 3) varianti migliorative: proposte dall'esecutore con valutazione del risparmio da condividere; 4) nel privato le varianti seguono il contratto e il buon senso economico: storno voci = storno prezzi, aggiunte = nuovi prezzi concordati; 5) la variante si documenta con perizia (descrizione, quantità, prezzi, motivazione) e verbale di approvazione prima dell'esecuzione; 6) effetti: scostamento di cronoprogramma e di consegna da dichiarare.
+- **Applicazioni:** Ogni cantiere che scopre il vero terreno, cambia materiali per disponibilità o risponde a nuove esigenze del committente.
+- **Vantaggi:** Flessibilità controllata: l'opera si adatta senza rifare il contratto.
+- **Limiti e attenzioni:** La variante dopo l'esecuzione (retroattiva) è nata contenziosa: difficile da approvare nei pubblici e sleale nei privati.
+- **Costi ed economia:** Il 20% di un contratto da 500.000 € è 100.000 € di flessibilità: chi progetta la gara dovrebbe dimensionare le varianti attese prima di decidere prezzi e quantità.
+- **Caso tipico:** Scuola con limite varianti consumato dal 18% in fase di scavo per la falda inattesa: la variante obbligatoria sui serramenti (norma antincendio aggiornata) ha richiesto negoziazione con la stazione appaltante e un accordo bonario: 4 mesi di attesa, penali pagate, lezione sulla gestione del margine varianti.
+- **Normativa:** D.Lgs 36/2023 (art. sulle varianti in corso d'opera: limiti 20% lavori, 10% forniture); per il privato: libertà contrattuale con integrazioni scritte.
+- **Nota di cantiere:** La variante si scrive prima di eseguire, con prezzi e quantità: 'facciamo e poi vediamo' è la formula che trasforma un cantiere in un giudizio.
 
 
 ## Diritto privato dell'edilizia

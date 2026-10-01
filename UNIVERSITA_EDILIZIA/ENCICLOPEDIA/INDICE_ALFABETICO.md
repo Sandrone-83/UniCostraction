@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-653 voci enciclopediche tratte da 39 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+705 voci enciclopediche tratte da 43 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -123,6 +123,8 @@
   Cls gettato per strade e pavimentazioni industriali: rigido, duraturo, con giunti.
 - **Caldaia a condensazione** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Generatore di calore a gas a rendimento 90-109%: il punto di riferimento europeo.
+- **CAM e sostenibilità: i criteri ambientali minimi negli appalti** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli appalti pubblici di lavori, servizi e forniture (D.Lgs 36/2023): per gli edilizi coprono materiali, energia, acqua, rifiuti e salute dell'am…
 - **Camini, finestre da tetto e attraversamenti: i punti deboli** — Camini · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Ogni attraversamento della copertura è un potenziale punto di infiltrazione: camini, finestre da tetto (velux e simili), antenne, pannelli solari, lucernari; il dettaglio corretto usa le pezze speciali (lastrine, collari…
 - **Canaline da pavimento e prese a pavimento** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -151,6 +153,8 @@
   Cls con TiO₂ che degrada gli inquinanti organici con la luce: facciate e manti stradali autopulenti.
 - **Cemento Portland** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Legante prodotto dalla calcinazione di calcare e argilla: il legante moderno per eccellenza: presa rapida e alta resistenza.
+- **CER e autoconsumo collettivo: l'energia condivisa** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Le Comunità Energetiche Rinnovabili (CER) e le configurazioni di autoconsumo collettivo permettono a più soggetti di condividere impianti rinnovabili e scambiarsi energia nella stessa rete bassa tensione, con incentivazi…
 - **Che cos'è il BIM: modello, processo, collaborazione** — Fondamenti BIM · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   BIM (Building Information Modeling) non è un software: è un metodo di lavoro in cui un modello digitale condiviso, a oggetti informati, descrive geometria E dati (materiali, costi, tempi, manutenzione) dell'edificio lung…
 - **Che cos'è un data center: l'edificio che non può fermarsi** — Fondamenti · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
@@ -193,6 +197,10 @@
   Misurare il calore consumato da ogni unità immobiliare: obbligatoria nei condomini centralizzati.
 - **Conto Termico 3.0, CEE e detrazioni per impianti** — Incentivi · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Gli incentivi 2025+ per la riqualificazione energetica e gli impianti efficienti.
+- **Conto Termico 3.0: accesso diretto, prenotazione, pratica** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  La domanda si presenta sul PortalTermico 3.0 del GSE: in accesso diretto entro 90 giorni dalla fine dei lavori, oppure con prenotazione (riservata a PA e ETS, anche tramite ESCo) che blocca l'incentivo prima dell'avvio c…
+- **Conto Termico 3.0: interventi ammessi e percentuali** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Il Conto Termico 3.0 incentiva interventi su inviluppo e impianti: pompe di calore e sistemi ibridi fino al 65%, solare termico al 65%, isolamento 40-50%, fotovoltaico al 20% solo se 'trainato' dalla pompa di calore, acc…
 - **Controllo accessi** — Accessi · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Gestione ingressi: badge, RFID, QR, biometria, serrature smart.
 - **Contropareti e controsoffitti in cartongesso** — Sistemi a secco · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -227,6 +235,8 @@
   Come si governa il processo di design in azienda: metodo, persone, tempi.
 - **Detergenti e biocidi edili** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Detergenti acidi per pulizia post-cantiere e biocidi antimuffa per finiture.
+- **Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2014** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica periodica alle grandi imprese e alle imprese energivore (scadenza dicembre degli anni dispari), con obbligo alternativo per piccole e medie (…
 - **Dighe, invasi e opere di presa** — Opere idrauliche · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Digital twin e gestione: il modello dopo il cantiere** — Digital twin · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -237,6 +247,8 @@
   Le regole pratiche per dimensionare tubazioni e portate senza software.
 - **Dinamica strutturale e ingegneria sismica** — Dinamica · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Come le strutture 'ballano': periodi, smorzamento, spettri di risposta.
+- **Direttiva Case Green (EPBD IV): cosa cambia per l'edilizia** — Trend · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  La direttiva 'Case Green' (EPBD IV, UE 2024/1275) aggiorna la direttiva sulle prestazioni energetiche degli edifici con l'obiettivo di edilizia a zero emissioni al 2050 e scaglioni intermedi: il recepimento nazionale def…
 - **Divisioni e frazionamenti: la geometria applicata al diritto** — Divisioni · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si divide un bene comune: dall'eredita al frazionamento edilizio.
 - **Docfa e il procedimento di accatastamento** — Docfa · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -305,6 +317,8 @@
   Telaio in legno massello o lamellare, eventualmente rivestito in alluminio esterno: il serramento di pregio.
 - **Finestra in PVC** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Telaio in PVC con profili multi-camera: il serramento economico isolante standard.
+- **Fondazioni esistenti: diagnosi, rinforzo e recupero** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Le fondazioni esistenti si verificano e rinforzano con tecniche non invasive o minimamente invasive: micropali, radicazioni, inghisaggi, ampliamenti di zoccolo, sotto-fondazioni, getti di alleggerimento.
 - **Fondazioni: superficiale, pali, micropali, miglioramenti** — Fondazioni · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Tutto poggia sul terreno: come si dà una base sicura all'edificio.
 - **Fondo e isolante per pareti** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -349,6 +363,8 @@
   La famiglia EN 1990-1999: cosa dice ciascun codice e come si usano insieme.
 - **Gli incendi edilizi: lezioni dai casi reali** — Casi incendio · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   L'analisi degli incendi reali insegna più di ogni norma: i pattern ricorrenti in edilizia: incendi durante i lavori (saldature, flessibili, stufe da cantiere), sottodimensionamento o mancata manutenzione degli impianti e…
+- **Gli indici di isolamento: Rw, DnT,w e la correzione spettrale** — Isolamento · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  L'isolamento acustico di un elemento si valuta con indici in dB: il Rw (laboratorio), il DnT,w normalizzato per il tempo di riverberazione (in opera), con correzioni spettrali C e Ctr per rumore tipo (voce, traffico, aer…
 - **Gli investimenti immobiliari: rendite, cash flow, leva** — Investimenti · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   L'immobile come investimento si misura su: rendita lorda (canone/valore), rendita netta (al netto di spese, tasse, vuoto), cash flow mensile (entrata - rata mutuo - costi), plusvalenza (rivalutazione del capitale); la le…
 - **Gli standards urbanistici e le dotazioni** — Standards · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -397,6 +413,8 @@
   I calcestruzzi evoluti superano i limiti del materiale classico: UHPC (Ultra High Performance Concrete: resistenze 120-200 MPa, spessori ridotti del 50%, durabilità eccezionale), autoriparanti (con batteri o capsule cura…
 - **I capannoni industriali: la scatola che lavora** — Capannoni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Il capannone industriale è architettura minima massimizzata: una scatola con struttura (acciaio o precast), involucro (pannelli sandwich), grandi porte e luce naturale; il progetto giusto parte dalla logistica interna (i…
+- **I certificati bianchi (TEE): l'efficienza come titolo** — Mercati · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  I Titoli di Efficienza Energetica (TEE, 'certificati bianchi') sono titoli negoziabili certificanti risparmi energetici quantificati: nati con l'obbligo per i distributori di energia elettrica e gas di conseguire obietti…
 - **I collettori (maschio/femmina) e la distribuzione a pettine** — Collettori · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il cuore della distribuzione moderna: il collettore e i vantaggi del pettine.
 - **I componenti elettrici dell'impiantista: quadri, magnetotermici, differenziali** — Componenti elettrici · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
@@ -427,12 +445,20 @@
   Il ponte è la struttura per eccellenza: supera un ostacolo con luci variabili; le tipologie principali: travi in c.a. o acciaio (luci 10-50 m), travate reticolari (50-150 m), stralli (100-500 m), arco (60-300 m), sospeso…
 - **I portoni industriali: sezionali, rapidi, scorrevoli** — Portoni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   I portoni industriali chiudono i grandi varchi: sezionali (lastre che scorrono verso l'alto lungo guide, isolati, i più usati), rapidi (PVC arrotolabili ad alta velocità, per flussi interni continui), scorrevoli laterali…
+- **I prezzi unitari e le analisi: come nasce un prezzo di costruzione** — Economia · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Il prezzo unitario di una voce di computo nasce dall'analisi dei costi: materiali a consumo, manodopera (ore e costo orario comprensivo di incidenze), mezzi d'opera, spese generali e utile di impresa; i prezzari ufficial…
 - **I raccordi: pressare, saldare, a innesto, filettare** — Raccordi · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Come si uniscono i tubi: le 4 tecniche e quando usarle.
 - **I rivestimenti intelligenti: aerogel, PCM, termocromici** — Materiali intelligenti · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   I materiali 'intelligenti' rispondono all'ambiente: l'aerogel (gel siliceo disidratato: il miglior isolante esistente, λ 0,014-0,020 W/mK, sottilissimo, trasparente), i PCM (phase change materials: paraffine o sali che a…
+- **I SAL: gli Stati di Avanzamento Lavori** — Contabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Lo stato di avanzamento lavori è la dichiarazione periodica (di regola mensile) del valore dei lavori eseguiti: base dei pagamenti a rate, del monitoraggio economico e della verifica dei tempi di consegna.
 - **I sistemi ibridi FV + batteria + rete + generatore: il dimensionamento integrato** — Ibridi · corso: *Dimensionamento di fotovoltaico, eolico e accumulo* (`DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK`)
   L'impianto che non si ferma mai: logica e dimensionamento degli ibridi.
+- **I subappalti: la catena della responsabilità** — Responsabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Il subappalto delega all'esecuzione a imprese terze (subentrate, a loro volta con sub-subappalti): nei lavori pubblici è consentito nei limiti e con le comunicazioni previste dal codice; la responsabilità verso il commit…
+- **I terreni difficili: espansivi, organici, licuefacenti** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Tre famiglie di terreni creano problemi specifici: gli argillosi espansivi (gonfiano e ritirano con l'acqua), i terreni organici (torbe: compressibili per decenni) e le sabbie sature poco dense (licuefazione sismica). Og…
 - **I tubi per il gas: acciaio, rame, multistrato marcato** — Tubi gas · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   La rete gas: i materiali ammessi e le regole di posa.
 - **I tubi per l'acqua: rame, multistrato, PEX, PP-R, acciaio** — Tubi acqua · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
@@ -463,26 +489,38 @@
   La prima pagina di ogni progetto termico: come si calcola il carico di progetto.
 - **Il calcolo mentale e le stime rapide: l'arma segreta del professionista** — Calcolo mentale · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Ordini di grandezza, arrotondamenti intelligenti, verifiche immediate senza calcolatrice.
+- **Il calcolo previsionale: UNI EN ISO 12354** — Progettazione · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  L'UNI EN ISO 12354 è il metodo europeo di calcolo previsionale dell'acustica in edilizia: stima l'isolamento di pareti, solai, facciate e il rumore di calpestio a partire dai dati dei componenti, includendo le trasmissio…
 - **Il calcolo sismico in formule: forza, periodo, spettro** — Sismica formule · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule di base dell'ingegneria sismica: quanto trema l'edificio.
 - **Il cantiere del legno: montaggio, sequenze, precisione** — Costruzione · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano prefabbricati (tagliati, forati, numerati), la gru li posa, le squadre avvitano le connessioni; il tempo si dimezza, il cantiere resta pulit…
 - **Il capitolato di interior: documento contrattuale** — Capitolato interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Il capitolato (o schedule of finishes) dell'interior elenca per ogni ambiente: materiali, prodotti con marca/modello o equivalente, colori con codice, modalità di posa, standard di qualità, esclusioni; è la difesa di ent…
+- **Il capitolato speciale d'appalto: il contratto tecnico** — Strumenti contrattuali · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Il capitolato speciale d'appalto descrive le lavorazioni, i materiali, le esecuzioni e i controlli: è la parte tecnica del contratto che disciplina il 'come' di ogni voce del computo e fissa le regole di qualità.
 - **Il cartiglio: identificazione della tavola** — Cartiglio · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Il cartiglio è il riquadro identificativo in basso a destra di ogni tavola: titolo, scala, data, disegnatore/verificatore, numero tavola, riferimenti al progetto, loghi, e in edilizia il timbro del professionista abilita…
 - **Il catasto italiano: fogli, particelle, subalterni** — Catasto · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come è fatto e come funziona il catasto fondiario ed edilizio urbano.
+- **Il cedimento delle fondazioni: quanto è troppo** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Il cedimento di una fondazione è accettabile se uniforme; ciò che danneggia le costruzioni è il cedimento differenziale, che flette e taglia le strutture. Si distinguono cedimenti totali, differenziali e angolari, con li…
 - **Il cliente consumatore in edilizia: diritti e doveri** — Consumatore · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   Quando il committente è un consumatore (famiglia, persona fisica per uso personale) si applica il codice del consumo (D.Lgs 206/2005): divieto di clausole vessatorie, obbligo di chiarezza contrattuale, responsabilità per…
 - **Il cls armato in formule: trave e pilastro semplificati** — Calcestruzzo armato · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule pratiche del dimensionamento rapido in c.a.
+- **Il collaudo tecnico: fasi, soggetti e verbali** — Collaudi · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Il collaudo verifica che l'opera corrisponda al progetto e sia idonea all'uso: negli appalti pubblici è previsto per regola sopra la soglia di 150.000 €, con collaudatore indipendente, fasi intermedie e finale, e verbale…
 - **Il Colosseo (Anfiteatro Flavio, 80 d.C.)** — Capolavori antichi · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   L'anfiteatro più grande del mondo antico: 50.000 spettatori, 189 m x 156 m.
+- **Il computo metrico estimativo: la misura che vale contratto** — Strumenti contrattuali · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Il computo metrico estimativo è l'elenco delle quantità di lavoro con i prezzi unitari e i totali: è la base dell'offerta e del pagamento a misura; le regole di misurazione devono essere dichiarate e coerenti con il capi…
 - **Il condizionatore (split): anatomia del ciclo frigorifero** — Climatizzatori · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Come funziona la macchina che raffresca: compressore, condensatore, espansione, evaporatore.
 - **Il condominio: riforma 2012, assemblea, ripartizioni** — Condominio · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   Il condominio negli edifici è regolato dalla riforma del 2012 (L. 220/2012): assemblea con maggioranze (500 millesimi per la maggioranza semplice, 2/3 del valore per le opere straordinarie), lavori straordinari obbligato…
+- **Il Conto Termico 3.0: la misura e i numeri (verificati ottobre 2026)** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Il Conto Termico 3.0 è il contributo a fondo perduto del GSE per interventi di efficienza energetica e rinnovabili termiche negli edifici esistenti: istituito dal D.M. 7 agosto 2025, in vigore dal 25 dicembre 2025, con d…
 - **Il contratto di appalto privato domestico: equilibrio e chiarezza** — Contratto privato · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   L'appalto domestico (art. 1655 c.c.) tra privato e impresa è il contratto tipo della ristrutturazione: l'impresa si obbliga a compiere un'opera o un servizio verso corrispettivo; la chiarezza delle parti (prestazioni, te…
 - **Il controllo di gestione: SAL, consuntivi, scostamenti** — Controllo gestione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -525,6 +563,8 @@
   Il mobile su misura è micro-architettura: il disegno esecutivo (pianta, prospetti, sezioni, quotatura completa, specifica materiali e ferramenta) è il contratto tra progettista e falegname; senza di esso ogni mobile è un…
 - **Il disegno meccanico ed elettromeccanico in edilizia** — Disegno meccanico · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Oltre all'architettura, il progettista edile legge disegni meccanici: carpenterie metalliche, serramenti, opere in acciaio, componenti di impianto (quadri, centrali termiche), perni e staffe di connessione.
+- **Il DPCM 5 dicembre 1997: i requisiti acustici passivi degli edifici** — Normativa · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Il DPCM 5/12/1997 fissa i requisiti acustici passivi degli edifici: limiti di isolamento acustico tra unità abitative, protezione dal rumore esterno e dal rumore degli impianti, con obbligo di asseverazione tecnica alla …
 - **Il drenaggio stradale: l'acqua nemica numero uno** — Drenaggio · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   L'acqua è il nemico primario delle strade: il drenaggio raccoglie (bordi e cunette), allontana (caditoie e tombini), convoglia (tubi e canalette) e smaltisce (fossi e corpi idrici); il dimensionamento dipende dalla piogg…
 - **Il Duomo di Milano: 600 anni di cantiere continuo** — Capolavori medievali · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -555,6 +595,8 @@
   Il mercato immobiliare è ciclico (cicli lunghi 8-15 anni) e locale: il valore di un appartamento dipende dal micro-mercato (quartiere, città) più che dal trend nazionale; gli indicatori chiave: compravendite, prezzi nomi…
 - **Il metodo degli stati limite: la verifica SLU di base** — Verifiche SLU · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Come si confronta l'azione con la resistenza: la regola del gioco del progetto moderno.
+- **Il miglioramento dei terreni: precompressione, colonne di ghiaia, jet grouting** — Miglioramento dei terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Quando il terreno è debole ma il carico deve restare, si migliora il terreno invece di sfondarlo: precompressione con riempimenti temporanei, colonne di ghiaia, vibroflottazione, jet grouting, iniezioni e consolidamenti …
 - **Il Millau Viaduct (2004): il ponte più alto d'Europa** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il viadotto strallato della A75 in Francia: 343 m di altezza massima (più alto della Torre Eiffel).
 - **Il monitoraggio delle opere speciali: sensori e ispezioni** — Monitoraggio · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -591,6 +633,12 @@
   Come si esegue un rilievo completo: poligonale, battute, elaborazione.
 - **Il riscaldamento della piscina: estendere la stagione** — Riscaldamento · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   L'acqua della piscina si scalda con scambiatori (caldaia, pompa di calore, solare), la copertura mantiene il calore (l'evaporazione è la prima perdita: la coperta riduce il 70% delle dispersioni), la stagione si estende …
+- **Il rumore degli impianti: caldaie, VMC, pompe e condizionatori** — Impianti · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Gli impianti meccanici sono la prima causa di lamentele acustiche negli edifici moderni: caldaie a condensazione, unità esterne di climatizzazione, VMC, pompe di calore producono rumore di regimi che si trasmette per via…
+- **Il rumore di calpestio: massetti galleggianti e pavimenti** — Calpestio · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Il rumore di calpestio è la struttura-borne sound generata dai passi: si attutisce con massetti galleggianti (strato elastico sotto il massetto), tappeti flottanti e giunti perimetrali; il DPCM richiede L'nT,w ≤ 58 dB tr…
+- **Il rumore esterno: facciate, serramenti e barriere** — Esterno · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  La protezione dal rumore esterno si ottiene con la facciata (muratura, serramento, vetro, cassonetto, angoli ciechi) progettata sul rumore della classe acustica dell'area; le barriere stradali attenuano la propagazione i…
 - **Il telaio in legno: travi, pilastri e la costruzione tradizionale** — Telaio · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il telaio in legno (platform framing, balloon) è il sistema a intelaiatura: telai di travi e montanti riempiti di pannelli (OSB, fibra, laterizio leggero); è il sistema più diffuso al mondo (USA, Scandinavia) e il più ec…
 - **Il termocamino: il focolare che diventa generatore idraulico** — Termocamini · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -645,12 +693,16 @@
   Il protocollo bus cablato più diffuso al mondo per edilizia residenziale e terziaria.
 
 ## L
+- **L'abbassamento della falda: pozzi, pompe e sifonamento** — Acque sotterranee · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Negli scavi sotto falda si abbassa il livello dell'acqua con pozzi d'emungimento e si verifica il rischio di sifonamento: il fondo scavo si solleva quando la pressione dell'acqua sottostante supera il peso del terreno tr…
 - **L'accessibilità: superamento delle barriere architettoniche** — Accessibilità · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   L'accessibilità è diritto (D.Lgs 80/1992): gli edifici pubblici e privati aperti al pubblico devono essere fruibili da disabili; il riferimento tecnico è il DM 236/1989 (requisiti minimi) aggiornato dalle norme UNI e dal…
 - **L'acciaio strutturale in formule: travi e colonne** — Acciaio · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule rapide per le verifiche in acciaio.
 - **L'acquisizione delle commesse: ricerca, offerta, gare private** — Acquisizione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   Trovare lavoro è la prima funzione dell'impresa: ricerca commesse su portali (bandi, subentri, privati), rete di collaboratori (architetti, studi, immobiliaristi), presenza digitale; per ogni commessa: analisi fattibilit…
+- **L'acustica degli ambienti di lavoro: open space, sale riunione, call center** — Interni · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Negli ambienti di lavoro l'obiettivo non è il silenzio ma la comprensibilità: il tempo di riverberazione, il rumore di fondo e la distanza critica determinano quanto si lavora bene (e quanto si stanca) in open space, sal…
 - **L'acustica in formule: riverbero, isolamento, assorbimento** — Acustica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule del suono negli edifici: il comfort che si misura.
 - **L'agenzia immobiliare: ruolo, provvigioni, normativa** — Agenzia · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
@@ -659,6 +711,8 @@
   L'albergo è un edificio-servizio: la parte pubblica (hall, camere, ristoranti, wellness) deve incantare, la parte tecnica (cucine, lavanderia, magazzini, impianti, personale) deve funzionare invisibile; il rapporto tra l…
 - **L'antincendio industriale: magazzini e rischi speciali** — Antincendio industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   L'antincendio industriale segue il D.M. 03/08/2015 con le specifiche per le attività di deposito e produzione: i rischi salgono con la merce stoccata (plastiche, imballaggi, aerosol), le altezze di stoccaggio, le attivit…
+- **L'APE: l'attestato di prestazione energetica** — Certificazioni · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  L'APE (Attestato di Prestazione Energetica) è il documento che certifica la prestazione energetica di un edificio o unità immobiliare: obbligatorio in vendita, locazione, nuova costruzione e ristrutturazione rilevante, r…
 - **L'arredo urbano: panchine, giochi, ciclabili, illuminazione** — Arredo urbano · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   L'arredo urbano qualifica lo spazio pubblico: panchine e sedute, giochi per bambini (con norme di sicurezza UNI EN 1176), arredi per anziani, fontane, ciclobox, tavoli, segnaletica, superfici drenanti; la qualità dell'ar…
 - **L'attuazione urbanistica: lottizzazioni, convenzioni, piani di recupero** — Attuazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -715,10 +769,16 @@
   Il futuro sanitario è diffuso: l'ospedale si alleggerisce (la day surgery, la diagnostica veloce) e il territorio si rafforza (le case della salute, i distretti, la telemedicina); l'edilizia segue: meno grandi monoblocch…
 - **L'X-Lam (CLT): il legno che fa da muro e da solaio** — X-Lam · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   L'X-Lam (cross laminated timber) è il pannello di legno incrociato: listelli sovrapposti a strati incrociati (3-7 strati), incollati, che danno un pannello bidirezionale: porta carichi nelle due direzioni, fa pareti port…
+- **La bonifica acustica dell'esistente: strategie per edifici che non passano** — Bonifica · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Quando un edificio esistente non rispetta i requisiti (o le lamentele arrivano), si bonifica per cammini di trasmissione: tamponamenti, controsoffitti, massetti, rivestimenti, correzione dei ponti acustici.
 - **La caldaia a condensazione: il circuito della condensa** — Caldaie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Come la caldaia moderna recupera il calore latente dei fumi: i componenti aggiuntivi.
 - **La caldaia murale a gas: anatomia completa delle componenti** — Caldaie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Cosa c'è dentro la caldaia che scalda la maggior parte delle case italiane.
+- **La chiusura di commessa: saldo, certificato di regolare esecuzione, garanzie** — Chiusura · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definitiva, certificato di regolare esecuzione (nei pubblici, che libera la ritenuta di garanzia), restituzione delle garanzie e attivazione del pe…
+- **La classificazione dei terreni: UNI EN ISO 14688** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  I terreni si classificano per granulometria: argilla (<0,002 mm), limo (0,002-0,063 mm), sabbia (0,063-2 mm), ghiaia (2-63 mm); la presenza di acqua e la plasticità (limiti di Atterberg) distinguono il comportamento coes…
 - **La climatizzazione di precisione: freddo per i server** — Climatizzazione · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   I server scaldano in continuazione: la climatizzazione di precisione mantiene 22-27 °C e umidità 40-60% (con tolleranze strette, i server sono delicati); i sistemi: CRAC/CRAH (unità di precisione a liquido o ad aria), i …
 - **La compartimentazione: limitare la propagazione** — Compartimentazione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
@@ -727,6 +787,10 @@
   Comprare e vendere un immobile (o una costruzione futura: vendita su carta) richiede la verifica completa della situazione legale e fiscale PRIORA del rogito: visura catastale e ipotecaria, conformità urbanistica, stato …
 - **La condensazione e il vapore: quando l'acqua si nasconde nella parete** — Condensazione · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Il vapore acqueo che attraversa la parete e diventa acqua: la fisica della muffa.
+- **La consolidazione dei terreni saturi: Terzaghi e il tempo dei cedimenti** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  La consolidazione è il processo con cui un terreno saturo scarica nel tempo la pressione idraulica in eccesso e si comprime: governata dal coefficiente di consolidazione cv e dal grado di consolidazione U in funzione del…
+- **La contabilità dei lavori: misure, contabilità figurativa, giustificativi** — Contabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  La contabilità dei lavori documenta quanto eseguito per il pagamento: misurazioni consegne a verbale, contabilità figurativa nelle opere a corpo, e conservazione dei giustificativi (DDT, fatture, foto, diari) che provano…
 - **La continuità elettrica: UPS, gruppi elettrogeni, doppie alimentazioni** — Continuità · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   L'alimentazione del data center è a catena ridondata: due linee elettriche indipendenti (da sottostazioni diverse), gli UPS (batterie che coprono i micro-interruzioni), i gruppi elettrogeni (motoriduttori? No: generatori…
 - **La copertura a falda: struttura, manto, ventilazione** — Falda · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -747,6 +811,8 @@
   Il legno costruito su misura: la sartoria dell'interior design.
 - **La fatica strutturale: quando le ripetizioni rompono** — Fatica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   La matematica del 'mille volte leggero vale una volta forte': ponti, gru, macchine.
+- **La fonometria ambientale: classi acustiche e limiti di zona** — Ambiente · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa alla più rumorosa) con limiti di immissione differenziati per periodo (diurno/notturno) e per tipo di sorgente; la zonizzazione acustica la …
 - **La geotecnica in formule: portanza, spinta, cedimenti** — Geotecnica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule del terreno: capire cosa regge e cosa spinge.
 - **La lavanderia alberghiera: il giro della biancheria** — Lavanderia · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
@@ -771,6 +837,8 @@
   L'immobile industriale è una macchina da mantenere: la copertura (guaine, fissaggi, lucernari), i portoni (molle, guarnizioni), le facciate (pannelli, fissaggi al vento), i pavimenti (giunti, levigature), gli impianti; l…
 - **La massa termica e l'inerzia: la fisica del comfort estivo** — Massa termica · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Il peso che frena il caldo: capacità termica e fase di sfasamento.
+- **La misura in opera: UNI EN ISO 140 e 16283** — Misure · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  La misura dell'isolamento in opera segue metodi standardizzati: ISO 140 (serie classica) e ISO 16283 (metodi operativi per il sito, in tre parti per isolamento all'aria, calpestio e facciate), con sorgente sonora, microf…
 - **La modellazione agli elementi finiti (FEM): potenza e trappole** — Elementi finiti · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   SAP2000, STAAD, Midas, Robot: come funziona il software e dove mente.
 - **La moodboard professionale: come si documenta un progetto** — Moodboard · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -783,6 +851,8 @@
   La macchina che moltiplica l'energia: come si calcola il vantaggio reale.
 - **La pompa di calore: il circuito frigorifero al servizio dell'acqua** — Pompe di calore · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   L'anatomia della macchina del futuro: refrigerazione + idronica.
+- **La portanza dei pali: punta, laterale e prove di carico** — Fondazioni profonde · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  La portanza di un palo si scompone in componente di punta (resistenza del terreno di appoggio) e attrito laterale (aderenza lungo il fusto): entrambe si stimano da indagini, correlazioni e, per le opere importanti, da pr…
 - **La posa in opera: il serramento si gioca nell'installazione** — Posa · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il miglior serramento del mondo installato male è una perdita di denaro: la posa corretta gestisce il sopralluce, l'ancoraggio al muro, la coibentazione dello spazio tra telaio e muratura, la tenuta all'acqua con i siste…
 - **La prefabbricazione industriale avanzata** — Prefabbricazione · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -811,12 +881,16 @@
   La segnaletica di sicurezza (UNI EN ISO 7010) guida l'evacuazione e l'azione in emergenza: cartelli fotoluminescenti o illuminati (uscite, estintori, idranti, punto di ritrovo), planimetrie di evacuazione affisse, percor…
 - **La sicurezza del data center: fisica, logica, antincendio** — Sicurezza DC · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   La sicurezza del data center è a cipolle: fisica (cancelli, guardie, varchi con badge, telecamere, antitaccheggio? No: anti-intrusione), logica (firewall, segmentazione), ambientale (antincendio, allagamenti, polveri); o…
+- **La sicurezza negli appalti: i ruoli secondo D.Lgs 81/2008** — Sicurezza · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Nei cantieri si sovrappongono più imprese: il D.Lgs 81/2008 (Titolo IV) assegna i ruoli — committente, datore di lavoro di cantiere, dirigente, preposto, responsabili tecnici, CSE, CSP, DLV, DDL — con responsabilità che …
 - **La stampa 3D in edilizia: cosa può e cosa non può** — Stampa 3D · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   La stampa 3D edile deposita calcestruzzo a getto continuo secondo un percorso digitale: pareti portanti con geometrie libere, costruzione rapida, meno manodopera; oggi stampa pareti (il solaio e i nodi restano convenzion…
 - **La stima immobiliare comparativa nella pratica** — Estimo immobiliare · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si fa una stima credibile: ricerca comparazioni, correzioni, conclusione.
 - **La storia delle infrastrutture italiane: dalla Roma antica al TAV** — Storia infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   2500 anni di opere pubbliche italiane: cosa resta, cosa abbiamo imparato.
+- **La tensione efficace di Terzaghi: l'acqua che 'porta' l'edificio** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  La tensione efficace σ' = σ - u (Terzaghi, 1936) è il principio base della meccanica delle terre: la resistenza e la deformazione del terreno dipendono dalla parte di sforzo non portata dall'acqua nei vuoti.
 - **La termofisica dell'involucro: conduzione e trasmittanza** — Termofisica base · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Come passa il calore attraverso la parete: la formula che decide l'efficienza energetica.
 - **La termostufa a pellet: anatomia del ciclo del combustibile** — Termostufe · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -877,26 +951,40 @@
   I tetti giardino trasformano la copertura in spazio verde: stratigrafia a rovescio su piano orizzontale: protezione radici, drenaggio, filtro, substrato colturale, vegetazione; i benefici: isolamento termico aggiuntivo, …
 - **Le cucine professionali: il cuore caldo dell'albergo** — Cucine · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La cucina professionale (laboratorio + linea di cottura + lavaggio) è un'officina gastronomica: i flussi (la merce entra, il cibo esce, i piatti lavati tornano), la ventilazione (le cappe aspirano vapore e grassi: l'impi…
+- **Le detrazioni fiscali per l'edilizia: il sistema e i suoi limiti** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Le detrazioni fiscali restano il grande strumento dell'edilizia italiana: la detrazione del 50% per ristrutturazioni (limite 96.000 €) è la misura strutturale, mentre le aliquote 'energetiche' sono state ridotte e modifi…
 - **Le dighe record: Hoover, Itaipu, Tre Gole, Grande Dixence** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   I quattro record mondiali della diga: altezza, produzione, volume, volume.
 - **Le discipline del modello: architettonica, strutturale, MEP** — Discipline e federazione · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Il modello dell'edificio si costruisce per discipline distinte che poi si federano: architettonico (A), strutturale (S), meccanico/impiantistico (M), elettrico (E), idraulico (P); ogni disciplina modella i propri element…
+- **Le ESCo e il contratto di servizio energetico** — Strumenti · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Le ESCo (Energy Service Company) realizzano interventi di efficienza energetica a rischio proprio: investono, misurano e verificano i risparmi, ripagandosi con una quota del beneficio ottenuto (Energy Performance Contrac…
 - **Le facciate continue: la vetrata architettonica** — Facciate continue · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   La facciata continua (curtain wall) è il sistema a montanti e traversi in alluminio e vetro delle architetture moderne: la struttura portante sta dietro al vetro, l'acqua scende per gravità e defluisce nei condotti nasco…
 - **Le fondazioni in formule: platea, pali, micropali** — Fondazioni formule · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule del dimensionamento rapido delle fondazioni.
+- **Le fondazioni profonde: i pali** — Fondazioni profonde · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  I pali trasferiscono i carichi in profondità, a strati portanti profondi (punta) e lungo il fusto (attrito laterale): la tipologia scelta (battuto, gettato in sito, trivellato, micropalo) dipende da terreno, carichi, vib…
+- **Le fondazioni superficiali: verifica di portanza** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Fondazioni superficiali (platee, plinti, travi rovesce, cordoli) appoggiano a poche profondità e trasmettono il carico al terreno per pressione: la verifica di portanza confronta la pressione di esercizio con la pression…
 - **Le formule economiche: interesse, ammortamento, valore attuale** — Costruzione calcoli · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   La matematica del denaro nell'edilizia: investimenti, mutui, valori.
 - **Le gallerie record: San Gottardo, Seikan, Laerdal, Frejus** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   I quattro record della galleria: lunghezza ferroviaria, profondità, stradale, storica.
 - **Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni** — Garanzie · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   Le garanzie muovono denaro: il cliente chiede fideiussione (garanzia bancaria o assicurativa) a garanzia di caparra, acconti, esecuzione; l'impresa offre attestazioni di conformità, certificazioni energetiche, attestati …
+- **Le grandezze acustiche: decibel, frequenza, spettro** — Fondamenti · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  L'acustica si misura in decibel (dB), scala logaritmica del rapporto tra pressioni sonore: 3 dB in più raddoppiano l'energia, 10 dB in più raddoppiano la sensazione di sonorità; l'orecchio umano percepisce da 20 Hz a 20.…
 - **Le icone del design da conoscere: sedie, lampade, tavoli** — Icon del design · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   Un nucleo di capisaldi riconoscibili costituisce il vocabolario professionale: sedia Barcelona (Mies van der Rohe, 1929), sedia LC4 Chaise Longue (Le Corbusier/Perriand/Jeanneret), Tulip Chair (Eero Saarinen, 1956), Arco…
+- **Le indagini geotecniche: sondaggi, carotaggi e campionamento** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  La campagna di indagini geotecniche ricostruisce il sottosuolo stratigrafico e misura le proprietà dei terreni prima di progettare fondazioni e scavi: sondaggi con carotaggio continuo, campioni indisturbati, prove in sit…
 - **Le infrastrutture piccole e medie: il vero patrimonio nascosto** — Storia infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Le opere dimenticate che fanno funzionare il paese: ponti di paese, argini, acquedotti rurali, strade provinciali.
 - **Le opere di Foster, Piano, Calatrava, Zaha Hadid: la mappa del contemporaneo** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   I quattro maestri viventi del costruito: la mappa delle opere da studiare.
+- **Le opere di sostegno: muri di sostegno e paratie** — Opere di sostegno · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Le opere di sostegno trattengono il terreno negli scavi e nelle spianate: muri a gravità, a mensola (oltre-rigido), paratie (palancole, micropali, diaframmi) e sistemi ancorati, scelti in base ad altezza, spazio, falda e…
 - **Le opere marittime: dighe, scafi, pontili** — Opere marittime · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Le opere marittime convivono con l'acqua di mare: dighe foranee e frangiflutti (proteggono i porti), moli e banchine (attracco), pontili e scafi (operatività); il nemico è la forza del mare: onde, moto ondoso, corrosione…
 - **Le pareti verdi e i giardini verticali** — Pareti verdi · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
@@ -919,10 +1007,16 @@
   Il metodo delle proiezioni ortogonali (Monge, fine '700) rappresenta un oggetto 3D su piani paralleli alle sue facce principali: pianta (vista dall'alto), alzati/prospetti (viste frontali e laterali), spaccati (sezioni).
 - **Le proprietà delle sezioni: area, inerzia, modulo resistente** — Sezioni · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   I tre numeri che descrivono una sezione: quanto regge e quanto si flette.
+- **Le prove in laboratorio: oedometro, taglio diretto, triassiale** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Le prove di laboratorio misurano i parametri di progetto su campioni indisturbati: la prova oedometrica per la compressibilità e la consolidazione, il taglio diretto e la triassiale per la resistenza al taglio drenata e …
+- **Le prove penetrometriche: SPT e CPTu** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
+  Le prove penetrometriche misurano la resistenza del terreno in profondità in modo continuo e rapido: lo SPT (dinamico, a campioni) e il CPTu (statico, elettronico, con misura della pressione neutra).
 - **Le reti e il cablaggio strutturato: le autostrade dei dati** — Reti · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   Il data center è fatto di connessioni: il cablaggio strutturato (fibre ottiche e rame categorizzato) collega i rack, le sale, l'esterno; la gerarchia: spine-area (fuori), inter-building (tra edifici), intra-building (le …
 - **Le reti tecnologiche esterne: acqua, gas, elettricità, fibra** — Reti esterne · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   L'edificio esiste grazie alle reti esterne: acquedotto, fognatura, gas, elettricità, telecomunicazioni (fibra FTTH); ognuna ha il suo tracciato, la sua profondità, le sue distanze di sicurezza reciproche e dai fabbricati…
+- **Le riserve e le perizie: la memoria tecnica del cantiere** — Varianti · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  La riserva è la dichiarazione contestuanea di un diritto futuro (lavori non previsti, danni, ritardi) presentata per iscritto all'atto del verbale; la perizia è il documento tecnico che quantifica la richiesta dopo.
 - **Le sale operatorie: la fabbrica della precisione** — Sale operatorie · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   La sala operatoria è l'ambiente tecnologicamente più denso dell'edilizia: il blocco operatorio (il gruppo di sale) richiede: aria a flusso laminare con filtrazione assoluta (le sale 'pulite' hanno una qualità d'aria cont…
 - **Le scaffalature industriali: l'architettura interna del magazzino** — Scaffalature · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -943,10 +1037,14 @@
   Le mode dei materiali seguono cadenze biennali (fieri: Salone del Mobile Milano, Cersaie per ceramica): anni 2010 microcemento e cemento spatolato, grande formato gres, ottone brunito; anni 2020 ritorno del legno caldo, …
 - **Le tensostrutture: membrana tesa tra gli elementi portanti** — Tensostrutture · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Le tensostrutture coprono grandi luci con materiale teso (membrane PVC o PTFE, cavi) ancorato a puntoni, anelli o contropesi: i carichi viaggiano solo per trazione, con sezioni minime e peso estremamente contenuto.
+- **Le tipologie di appalto: a corpo, a misura, misto** — Strumenti contrattuali · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  Il contratto di appalto si distingue per il criterio di determinazione del prezzo: a corpo (prezzo fisso per l'opera completa), a misura (pagamento in funzione delle quantità eseguite), misto (corpo per alcune parti, mis…
 - **Le travi fondamentali: momenti e tagli delle 4 travi base** — Travi · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le 4 travi che ogni tecnico deve conoscere a memoria: i numeri della professione.
 - **Le valvole dell'impianto idraulico: sfera, detentore, termostatica, miscelatrice** — Valvole · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   I rubinetti che regolano l'acqua: i 6 tipi che devi conoscere.
+- **Le varianti in corso d'opera: quando, come, entro quanto** — Varianti · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
+  La variante in corso d'opera modifica il contratto durante l'esecuzione (materiali diversi, aggiunte, eliminazioni): nei lavori pubblici il limite complessivo è il 20% dell'importo contrattuale, con approvazione del dire…
 - **Le verifiche sulle strutture esistenti in formule** — Verifica esistenti · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule della valutazione: come si 'legge' la capacità di una struttura che esiste.
 - **Le vie di esodo: requisiti geometrici e funzionali** — Vie esodo · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
@@ -1017,6 +1115,8 @@
   Pannelli con anima in polipropilene a nido d'ape rivestita di geotessuto: drenaggio verticale per muri e coperture.
 - **Materiali e finiture di pregio: il vocabolario del lusso** — Materiali di pregio · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Marmi, essenze, metalli, tessuti: cosa distingue una finitura di pregio.
+- **Materiali fonoassorbenti e fonoisolanti: non sono la stessa cosa** — Materiali · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
+  Fonoassorbente riduce il rumore dentro l'ambiente (assorbe, non riflette); fonoisolante blocca il passaggio tra due ambienti (massa, elasticità, smorzamento). Confonderli è l'errore progettuale acustico più comune.
 - **Materiali per stampa 3D (malte tixotropiche)** — Speciali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malte cementizie altamente tixotropiche per stampa 3D di strutture: la costruzione senza casseforme.
 - **Matrici e sistemi di equazioni: il cuore del calcolo strutturale** — Matrici · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -1223,6 +1323,8 @@
   Tubi e raccordi in polipropilene o cloruro di polivinile per scarichi civili e pluviali.
 - **Scarichi pluviali** — Idraulica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Collezioni e smaltimento acque meteoriche: tetti, lastrici, cortili.
+- **Scegliere l'incentivo giusto: fondo perduto, detrazione, credito** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Ogni progetto ha un incentivo 'giusto': il fondo perduto (Conto Termico) vince sulla liquidità, la detrazione vince sul valore percentuale per chi ha capienza, il credito d'imposta vince sulla pianificazione d'impresa: l…
 - **Scenari, logiche e sequenze** — Scenari · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   La programmazione comportamentale: 'cinema', 'benvenuto', 'notte', 'emergenza'.
 - **Sensoristica domotica** — Sensori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -1299,6 +1401,8 @@
   Misurare la terra: coordinate, quote, riferimenti, errori.
 - **Tracciamenti, quote e controlli geometrici** — Controlli di cantiere · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tutte le lavorazioni. Errore tipico: tracciare sugli spigoli invece che sugli assi e perdere i riferimenti al primo scavo; controllo: picchett…
+- **Transizione 5.0 e iperammortamento: il lato imprese** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Per le imprese l'efficienza energetica si incentiva anche con il credito d'imposta: il Transizione 5.0 (2024-2025) è chiuso ai nuovi investimenti dal 31/12/2025; l'iperammortamento 2026 resta per beni immateriali e per l…
 - **Trigonometria applicata: pendenza, altezze, triangoli qualsiasi** — Trigonometria · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Sen, cos, tan: lo strumento per misurare ciò che non si può arrivare a toccare.
 - **Tubi corrugati e canaline** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
