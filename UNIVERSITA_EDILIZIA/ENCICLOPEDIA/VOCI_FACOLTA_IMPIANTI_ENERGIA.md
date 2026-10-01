@@ -392,7 +392,7 @@ Come si collegano i moduli: tensioni, correnti e il rapporto inverter.
 - **Limiti e attenzioni:** Le curve reali di potenza variano: il rapporto 1,2 è un compromesso, non una legge.
 - **Costi ed economia:** I software di stringatura gratuiti dei produttori di inverter.
 - **Caso tipico:** Gli impianti con rapporto 1,3: perdita di resa <2% rispetto a 1,0 con costo inverter inferiore.
-- **Normativa:** CEI 0-21; CEI 82-25 (da verificare: guida installazione FV).
+- **Normativa:** CEI 0-21 (connessione degli utenti BT); le guide di settore CEI per l'installazione FV (edizione vigente).
 - **Nota di cantiere:** Il controllo d'installazione: la Voc di stringa si misura PRIMA del collegamento all'inverter: la lettura deve stare nel range MPPT. Un errore qui brucia l'inverter in 30 secondi.
 
 ### I sistemi ibridi FV + batteria + rete + generatore: il dimensionamento integrato
@@ -2116,7 +2116,7 @@ Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
 - **Vantaggi:** La canna fumaria giusta garantisce sicurezza ed efficienza: il tiraggio insufficiente soffoca la fiamma e riempie di monossido.
 - **Limiti e attenzioni:** Le canne fumarie esistenti in muratura spesso non sono idonee per a condensazione (acido corrosivo).
 - **Costi ed economia:** Canna fumaria coibentata: 60-150 €/ml installata.
-- **Caso tipico:** Le verifiche periodiche dei camini (spazzacamino) e le norme antincendio ('requisiti canne fumarie da verificare').
+- **Caso tipico:** Le verifiche periodiche dei camini (spazzacamino) e le prescrizioni sulle canne fumarie (marcatura CE e schede del produttore).
 - **Normativa:** UNI 7129; UNI EN 1856 (canne fumarie metalliche).
 - **Nota di cantiere:** Il test del tiraggio: fiamma accesa alla base della canna (tiraggio 'a candela'): se la fiamma vira verso l'interno, la canna va rifatta. Mai operare 'a tentativi' con i generatori a fiamma.
 
@@ -2192,7 +2192,7 @@ Una macchina termica ben mantenuta dura il doppio e consuma meno: la manutenzion
 - **Limiti e attenzioni:** Costo annuale ricorrente; la manutenzione fai-da-te rischia di invalidare la garanzia e di non essere conforme; i tecnici abilitati sono richiesti per le operazioni su gas e refrigeranti.
 - **Costi ed economia:** Ordini di grandezza indicativi: controllo annuale caldaia domestica 80-150 €; manutenzione climatizzatore 60-120 € a split; contratto di manutenzione completa per macchine grandi da preventivo annuale basato sui kW installati.
 - **Caso tipico:** Una caldaia a condensazione mai manutenuta per sei anni ha perso il 20% di resa per lo sporco nello scambiatore: la prima manutenzione regolare ha ripristinato i consumi dichiarati in etichetta e ha evidenziato una valvola di sicurezza da sostituire.
-- **Normativa:** Per le caldaie: Legge 10 obblighi di manutenzione e Libretto di impianto; per i refrigeranti: Regolamento (UE) 2024/573 con verifiche di tenuta a frequenza crescente con la carica (almeno ogni 12 mesi sopra soglie definite); la Norma UNI 7129/UNI EN 1739 per le verifiche a gas.
+- **Normativa:** Per le caldaie: Legge 10 obblighi di manutenzione e Libretto di impianto; per i refrigeranti: Regolamento (UE) 2024/573 con verifiche di tenuta a frequenza crescente con la carica (almeno ogni 12 mesi sopra soglie definite); la UNI 7129 per gli impianti a gas domestici.
 - **Nota di cantiere:** Conservare tutti i verbali nel libretto di impianto; segnare le date dei prossimi controlli su ogni macchina; le analisi di combustione devono rientrare nei valori del costruttore; chi compra casa chieda sempre lo storico manutentivo.
 
 ### La pompa di calore: il circuito frigorifero al servizio dell'acqua
@@ -2252,7 +2252,7 @@ Il camino che scalda l'acqua: potenza 15-25 kW con accumulo obbligatorio.
 - **Limiti e attenzioni:** SENZA accumulo il termocamino è vietato per norma (bollore istantaneo: la potenza del fuoco supera sempre l'assorbimento istantaneo).
 - **Costi ed economia:** Termocamino: 3.000-8.000 €; accumulo 1000 l: 800-1.500 €.
 - **Caso tipico:** Le installazioni central-europee (Austria, Germania) dove il termocamino+accumulo è lo standard.
-- **Normativa:** UNI 7129 (accumulo obbligatorio); 'da verificare' camini.
+- **Normativa:** Prescrizioni sul tiraggio e sull'altezza della canna secondo le norme applicabili e le schede dei produttori; marcatura CE secondo UNI EN 1856-1 per le canne fumarie metalliche.
 - **Nota di cantiere:** La regola d'oro: accumulo = 50-100 l per kW di potenza del focolare. Chi vende il termocamino senza accumulo vende un impianto fuorilegge.
 
 ### La termostufa a pellet: anatomia del ciclo del combustibile
@@ -2347,7 +2347,7 @@ Il quadro elettrico di un edificio è il centro di controllo dell'impianto: dist
 - **Limiti e attenzioni:** I quadri sovraccarichi di linee portano a dispersioni termiche e difficoltà di manutenzione; le protezioni mal coordinate scattano in modo selettivo errato; i differenziali vanno provati periodicamente con il tasto test.
 - **Costi ed economia:** Ordini di grandezza indicativi: centralino completo per abitazione 300-800 € compresa installazione; ampliamento con nuova linea 80-200 €; sostituzione differenziale 40-120 € più manodopera.
 - **Caso tipico:** In un appartamento anni '60 con quadro a fusibili, il rifacimento con centralino 12 moduli, due differenziali e SPD tipo 2 ha eliminato i vuoti di tensione e portato l'impianto a regola con la Norma CEI 64-8.
-- **Normativa:** Norma CEI 64-8 (impianti elettrici utilizzatori a tensione non superiore a 1000 V), Norma CEI 11-27/UNI EN 61439 per i quadri; la dichiarazione di conformità dell'impianto a opera del costruttore o dell'installatore.
+- **Normativa:** Norma CEI 64-8 (impianti elettrici utilizzatori a tensione non superiore a 1000 V); UNI EN 61439 per i quadri assemblati di bassa tensione; la dichiarazione di conformità dell'impianto a opera del costruttore o dell'installatore.
 - **Nota di cantiere:** Ogni circuito deve avere la sua protezione dedicata; le linee di bagno e cucina su differenziale dedicato; il tasto test dei differenziali va azionato periodicamente; le prese con scheda nera sono riservate a lavatrice e lavastoviglie.
 
 ### Le protezioni differenziali e magnetotermiche: come si scelgono
@@ -2407,7 +2407,7 @@ Quando la pressione di rete non basta ad alimentare un edificio (altezze elevate
 - **Limiti e attenzioni:** La taratura sbagliata porta a pressioni eccessive o a pompaggio continuo; le autoclave smembrate vanno ricaricate periodicamente con azoto o aria; le pompe in secco si danneggiano se non c'è l'acqua a monte.
 - **Costi ed economia:** Ordini di grandezza indicativi: gruppo completo domestico 250-700 € installato; autoclave di ricambio 60-150 €; i gruppi industriali duplex da 1.500 € in su a seconda di portata e prevalenza.
 - **Caso tipico:** In una villa su tre livelli con doccia all'ultimo piano che sgocciolava, l'installazione di un gruppo a pressione costante con inverter ha portato il comfort da insufficiente a piena pressione anche con due utenze contemporanee.
-- **Normativa:** Dimensionamento secondo le prescrizioni della normativa idraulica nazionale (D.M. 174/2004 per gli aspetti di accettazione degli impianti) e le caratteristiche di fornitura del gestore idrico locale; i componenti a contatto con acqua potabile devono essere idonei.
+- **Normativa:** Dimensionamento secondo gli obblighi di accettazione degli impianti previsti dalla normativa nazionale vigente e le caratteristiche di fornitura del gestore idrico locale; i componenti a contatto con acqua potabile devono essere idonei.
 - **Nota di cantiere:** Verificare sempre la pressione di rete a monte prima di scegliere il gruppo; l'autoclave va tarata a pressione inferiore di 0,2-0,3 bar a quella di avvio; prevedere la valvola di ritegno e lo scarico; i gruppi duplex richiedono logica di alternanza.
 
 ### I tubi per lo scarico: PVC, PP, ABS e polietilene
@@ -2452,7 +2452,7 @@ La rete interna di distribuzione del gas porta il combustibile dal contatore all
 - **Limiti e attenzioni:** La rete richiede la verifica di tenuta all'atto dell'accettazione e dopo ogni intervento; i materiali non marcati per gas sono vietati; i cavedi in muratura richiedono tubi addizionali di protezione o guaine.
 - **Costi ed economia:** Ordini di grandezza indicativi: posa a punto di una nuova rete in rame marcato 250-500 € per punto utilizzatore oltre al tracciamento; la centralina di regolazione con gruppo di sicurezza 80-200 € più installazione; la verifica di tenuta ha un costo da preventivo del tecnico abilitato.
 - **Caso tipico:** Nella ristrutturazione di un appartamento anni '70, la sostituzione dell'intera rete gas in acciaio ossidata con multistrato marcato ha richiesto la verifica di tenuta finale con strumento calibrato prima dell'accensione della nuova caldaia a condensazione.
-- **Normativa:** UNI 7129 (impianti a gas per uso domestico, distribuzione in media e bassa pressione), UNI 7131 (verifica di tenuta), D.M. 174/2004 per gli aspetti di accettazione: ogni intervento è sottoposto a verifica finale da parte del tecnico abilitato.
+- **Normativa:** UNI 7129 (impianti a gas per uso domestico in media e bassa pressione): progettazione, installazione, collaudo e verifica di tenuta sono affidati al tecnico abilitato, con verbale finale secondo le prescrizioni vigenti.
 - **Nota di cantiere:** Le valvole di intercettazione devono essere accessibili e segnalate. Camera stagna obbligatoria su cucine con apparecchi a fiamma libera in locali non conformi alle condizioni di areazione. Non interrare raccordi non protetti. Documentare con verbale di collaudo.
 
 ### L'isolamento delle tubazioni: spessori e materiali
@@ -2556,7 +2556,7 @@ Come assorbire la dilatazione dell'acqua calda: dimensionamento e manutenzione.
 - **Vantaggi:** Il vaso espansione è la protezione n.1 contro il sovrappressione: l'impianto senza vaso muore in anni.
 - **Limiti e attenzioni:** La membrana perde gas nel tempo: la pressione cala e la valvola di sicurezza perde.
 - **Costi ed economia:** Vaso espansione 12 l: 40-80 €; 24 l: 60-120 €.
-- **Caso tipico:** La causa n.1 dei 'perdita dalla valvola di sicurezza': vaso espansione morto (da verificare).
+- **Caso tipico:** La causa n.1 della perdita dalla valvola di sicurezza: vaso di espansione scarico o a membrana danneggiata: verificare sempre la carica prima di sostituire la valvola.
 - **Normativa:** UNI 7129; prassi costruttive.
 - **Nota di cantiere:** Il test di 10 secondi: toccare il vaso in funzione: la metà inferiore deve essere fredda (acqua), la superiore tiepida (gas). Se tutto freddo o tutto caldo: membrana rotta, sostituire.
 

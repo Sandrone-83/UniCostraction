@@ -3,6 +3,11 @@
 Knowledge base universale per l'addestramento di LLM specializzati in edilizia.
 Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICULUM/.
 
+**⚠️ Versionamento: solo il materiale con un tag Git (es. `v1.0.0`) è approvato per l'uso.
+La branch `main` senza tag è bozza di lavoro. Vedi [VERSIONE.md](VERSIONE.md) per la versione
+corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
+(Prima / Dopo / Fonte di ogni correzione).**
+
 ## Facoltà e corsi
 
 | Facoltà | Livello | Corsi |

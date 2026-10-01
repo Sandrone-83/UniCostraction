@@ -742,7 +742,7 @@ L'ufficio contemporaneo: flessibilità, wellbeing, ibrido.
 - **Limiti e attenzioni:** L'open space acusticamente sbagliato è la causa n.1 di insoddisfazione lavorativa.
 - **Costi ed economia:** Workplace design: 400-1.000 €/m2; phone booth acustica: 5-15k€/pz.
 - **Caso tipico:** Le sedi Google (activity based); il nuovo ufficio ibrido post-2020.
-- **Normativa:** WELL Building Standard; UNI EN 12464-1; 'da verificare' (UNI 11367 acustica uffici).
+- **Normativa:** WELL Building Standard; UNI EN 12464-1 (illuminazione); UNI 11367 (progetto acustico degli edifici).
 - **Nota di cantiere:** La domanda da LLM per l'ufficio: 'quante ore di lavoro profondo richiedono le persone qui?' Da lì nasce il rapporto tra open space e sale concentrate.
 
 ### Lighting design: la scenografia della luce

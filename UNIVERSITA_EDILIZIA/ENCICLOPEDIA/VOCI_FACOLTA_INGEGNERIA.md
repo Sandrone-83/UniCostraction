@@ -1190,9 +1190,9 @@ Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Applicazioni:** Dissesto idrogeologico, irrigazione, produzione idroelettrica (17% elettricità Italia).
 - **Vantaggi:** L'invaso regola il fiume: protezione idraulica e risorsa insieme.
 - **Limiti e attenzioni:** Il rischio diga è il rischio industriale più severo: serve cultura della sicurezza totale.
-- **Costi ed economia:** Dighe grandi: miliardi di euro; manutenzione continua obbligatoria per legge (DPR 445/1999? sì: normativa dighe).
+- **Costi ed economia:** Dighe grandi: miliardi di euro; la manutenzione e la sorveglianza sono obblighi di legge (L. 426/1998).
 - **Caso tipico:** Diga del Vajont (1963, 1917 morti: errore geologico, non idraulico); diga di Itaipu; Grande Dixence (285 m, più alta d'Europa).
-- **Normativa:** DPR 445/1999 (norme tecniche dighe); le 'Norme per la sicurezza delle dighe' L. 1098/1971? - indicare: normativa vigente ANIDEL/CSLLPP 'da verificare'.
+- **Normativa:** L. 426/1998, art. 28 (Norme per la sicurezza delle dighe); D.M. 26 giugno 2014 (Norme tecniche per la progettazione e la costruzione degli sbarramenti di ritenuta).
 - **Nota di cantiere:** Ogni diga italiana ha un piano di emergenza e un adempimento annuale: la manutenzione non è un optional.
 
 ### Ponti: tipologie e scelta della struttura
@@ -1207,7 +1207,7 @@ Attraversare l'ostacolo: la storia e la tecnologia del ponte.
 - **Limiti e attenzioni:** La manutenzione dei ponti è trascurata ovunque: il degrado delle armature è la prima causa di criticità.
 - **Costi ed economia:** Passerella pedonale: 1-5k€/m2; viadotto autostradale: 3-8k€/m2 di impalcato.
 - **Caso tipico:** Ponte Morandi (collasso 2018: manutenzione e sistema strutturale); viadotti italiani monitorati da ANSFISA.
-- **Normativa:** Eurocodici 1-3; normativa ponti italiana 'da verificare' (CNR viadotti).
+- **Normativa:** Eurocodici 1-3 (azioni, cls, acciaio); Norme tecniche per le costruzioni (D.M. 17/01/2018); per le opere viarie la normativa di esercizio ANSFISA.
 - **Nota di cantiere:** Per un LLM: quando qualcuno dice 'ponte', le prime domande da fare sono: fondazioni? manutenzione? traffico previsto? Il ponte non è l'impalcato, è tutto il sistema.
 
 ### Opere marittime: porti, dighe foranee, coste
@@ -1222,7 +1222,7 @@ Ingegneria del mare: difendere la costa e creare approdi sicuri.
 - **Limiti e attenzioni:** Le opere marine subiscono la mareggiata del secolo: il sovradimensionamento è la norma.
 - **Costi ed economia:** Diga foranea: 5-20 k€/ml; dragaggio portuale: 3-15 €/m3.
 - **Caso tipico:** Porto di Genova (diga foranea in costruzione 6 km); MOSE di Venezia (opera di difesa mareale: 5,5 mld €).
-- **Normativa:** Normativa marina CNR-UNI (da verificare); PIANURA? no. UNI EN 1991-1-7 azioni marine.
+- **Normativa:** Le azioni di progetto secondo gli Eurocodici (EN 1991) e le Norme tecniche per le costruzioni (D.M. 17/01/2018); per le opere marittime le indicazioni tecniche di settore (CNR e circolari MIT).
 - **Nota di cantiere:** Il MOSE insegna: le opere maritime hanno tempi biblici (1973-2020) e la manutenzione è eterna: progettare semplice da mantenere vale più del record.
 
 ### Costruzioni in zona sismica: la lezione italiana
@@ -1392,7 +1392,7 @@ Come le strutture 'ballano': periodi, smorzamento, spettri di risposta.
 - **Limiti e attenzioni:** La dinamica richiede competenze: è il confine tra progettista e specialista.
 - **Costi ed economia:** Analisi dinamica pushover: 1-3k€ per edificio ordinario.
 - **Caso tipico:** Le torri di Taiwan 101 (ammortizzatore di massa 660 t visibile!); isolamento della fondazione del Municipio di Los Angeles.
-- **Normativa:** EC8 (EN 1998); NTC2018 cap. 7.3.1? (analisi): 'da verificare' dettaglio capitoli.
+- **Normativa:** EC8 (EN 1998); NTC2018 (D.M. 17/01/2018) con la Circolare applicativa C.S.LL.PP. n. 7 del 28/02/2019.
 - **Nota di cantiere:** Regola mnemonica: edificio regolare + basso = sopravvive quasi sempre; irregolare + alto + giunti mal fatti = vulnerabile. La forma sismica si decide in pianta.
 
 ### La modellazione agli elementi finiti (FEM): potenza e trappole
@@ -1452,7 +1452,7 @@ Il materiale che torna: legno lamellare, X-LAM, connessioni moderne.
 - **Limiti e attenzioni:** Costo superiore; umidità e tarli da gestire; fuoco da dimensionare (ma performa meglio del pensiero comune).
 - **Costi ed economia:** Struttura legno: 400-800 €/m2; X-LAM: 60-120 €/m2 di pannello.
 - **Caso tipico:** Stadio olimpico di Sapporo; Mjøstårnet Norvegia (85 m, torre in legno); ponte in legno di Rovagnate.
-- **Normativa:** EC5 (EN 1995); UNI EN 14080 (lamellare); 'da verificare' per X-LAM (ETA produttori).
+- **Normativa:** EC5 (EN 1995); UNI EN 14080 (legno lamellare strutturale); UNI EN 16351 (X-lam) con marcatura CE.
 - **Nota di cantiere:** Il legno ha una vita di progetto centenaria se 'cappotto e scarpe' (tetto e zoccolo) sono fatti bene: il 90% dei degradi nasce dal contatto con acqua e terra.
 
 ### La muratura strutturale: blocchi, setti, rinforzi
@@ -1467,7 +1467,7 @@ Il costruttivo italiano per eccellenza: come regge e come si rafforza.
 - **Limiti e attenzioni:** La variabilità dei giunti rende ogni muro un caso a sé: servono prove in situ.
 - **Costi ed economia:** Rinforzo FRP muro: 30-80 €/m2; cordolo superiore: 30-60 €/ml.
 - **Caso tipico:** L'Aquila e Amatrice: edifici in muratura non rinforzati sono crollati; le case rinforzate con cordoli hanno retto.
-- **Normativa:** NTC2018 cap. 7 (muratura); 'da verificare'; Circolare NTC2018 cap. 7.
+- **Normativa:** NTC2018 (D.M. 17/01/2018), capitolo sulle costruzioni in muratura; Circolare applicativa C.S.LL.PP. n. 7 del 28/02/2019.
 - **Nota di cantiere:** Per un LLM: ogni volta che si parla di casa italiana pre-1981 si parla di muratura non rinforzata: il rinforzo (cordoli, FRP, tiranti) è la risposta tecnica standard.
 
 ### Il progetto strutturale dei ponti: impalcato, appoggi, fondazioni
@@ -1482,7 +1482,7 @@ La struttura che attraversa: il sistema completo impalcato-appoggio-fondazione.
 - **Limiti e attenzioni:** La manutenzione degli appoggi è il tallone d'Achille ignorato da tutti.
 - **Costi ed economia:** Appoggio elastomerico: 500-3.000 €/pz; appoggio POT per grandi luci: 5-30k€/pz.
 - **Caso tipico:** Ponti con appoggi POT sulle tratte AV; passerelle ciclo-pedonali moderne.
-- **Normativa:** EC1-2-3; normativa ponti italiana CNR 'da verificare'.
+- **Normativa:** EC1-EC2-EC3; Norme tecniche per le costruzioni (D.M. 17/01/2018); per le opere viarie la normativa ANSFISA.
 - **Nota di cantiere:** Regola di manutenzione: gli appoggi vanno ispezionati ogni 2 anni e sostituiti ogni 30-50: il giunto che non funziona rompe l'impalcato.
 
 ### Rinforzare le strutture: FRP, camicie, spessori, precompressione
@@ -1542,7 +1542,7 @@ La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 - **Limiti e attenzioni:** Il vento governa tutto oltre i 100 m: le verifiche di fatica e confort sono specialistiche.
 - **Costi ed economia:** Struttura grattacielo: 15-30% del costo totale; indagine galleria del vento: 50-200k€.
 - **Caso tipico:** Burj Khalifa (nucleo esagonale + ali); Shanghai Tower (doppia pelle); Torre Unicredit (Milan, nucleo cls).
-- **Normativa:** EC1-1-4 (vento); normativa italiana grattacieli 'da verificare' (CNR).
+- **Normativa:** EC1-1-4 (vento); NTC2018 (D.M. 17/01/2018) per azioni e verifiche; le indicazioni CNR per le strutture di grande altezza.
 - **Nota di cantiere:** Oltre certe altezze la sfida non è reggere il peso ma fermare il dondolo: il confort in cima si progetta come la struttura.
 
 

@@ -312,7 +312,7 @@ Come si registra/rettifica un immobile al catasto: il software Docfa e le pratic
 - **Limiti e attenzioni:** La distinzione catasto/urbanistica confonde tutti: sono due mondi paralleli che devono convergere.
 - **Costi ed economia:** Pratica Docfa da tecnico: 150-500 €; sanatoria catastale: 300-1.000 €.
 - **Caso tipico:** Migliaia di pratiche Docfa quotidiane in Italia; le verifiche di conformità catastale nelle compravendite (2023-2024: requisito sempre più stringente).
-- **Normativa:** 'norme tecniche Docfa' (DA SOSTITUIRE? meglio: 'da verificare').
+- **Normativa:** Le disposizioni tecniche catastali vigenti (Agenzia delle Entrate, aggiornamenti Docfa); per la conformità urbanistica le norme del PRGC comunale.
 - **Nota di cantiere:** L'LLM deve distinguere: CONFORMITA' CATASTALE (il fabbricato è al catasto come è costruito) vs CONFORMITA' URBANISTICA (è costruito come autorizzato): due verifiche diverse, due professionisti, due esiti possibili.
 
 ### Titoli edilizia libera per il tecnico: CILA, SCIA, PdC

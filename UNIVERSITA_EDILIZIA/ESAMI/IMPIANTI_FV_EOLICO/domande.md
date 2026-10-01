@@ -6126,7 +6126,7 @@ ed è l'errore che un tecnico farebbe realisticamente sul campo.
 
 **D883.** Quale riferimento normativo o tecnico è associato a «Il dimensionamento delle stringhe e degli inverter»?
 
-   A) CEI 0-21; CEI 82-25 (da verificare: guida installazione FV).
+   A) CEI 0-21 (connessione degli utenti BT); le guide di settore CEI per l'installazione FV (edizione vigente).
    B) UNI EN 13501 (classificazione di reazione e resistenza al fuoco)
    C) UNI 9182 (impianti di condizionamento dell'aria)
    D) EN 1991 (azioni sulle strutture: neve, vento, carichi)
