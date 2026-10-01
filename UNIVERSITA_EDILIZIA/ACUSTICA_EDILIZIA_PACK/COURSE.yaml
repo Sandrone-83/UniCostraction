@@ -1,0 +1,9 @@
+corso: "Acustica edilizia"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "DPCM 5/12/1997, Legge 26/10/1995 n. 447, UNI EN ISO 717, UNI EN ISO 12354, UNI EN ISO 140, UNI EN ISO 16283, UNI EN ISO 1996, D.Lgs. 194/2005"
+nota_metodologica: "Acustica edilizia di base: grandezze, requisiti di legge italiani e metodi di calcolo e misura consolidati. Norme citate solo dove certe. Valori limite del DPCM 5/12/97 riportati come da testo del decreto."

@@ -79,6 +79,7 @@ Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICU
 ## Corsi del giro approfondimento continuo (2026-10-01)
 
 - GEOTECNICA_E_FONDAZIONI_PACK (15 schede, L1-L3, FACOLTA_INGEGNERIA) — indagini, terreni, fondazioni superficiali e profonde, opere di sostegno, miglioramento terreni; contenuti classici verificabili (Terzaghi, UNI EN 1997, NTC 2018)
+- ACUSTICA_EDILIZIA_PACK (12 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA) — DPCM 5/12/97, indici ISO 717, calcolo ISO 12354, misure ISO 16283, bonifica e fonometria ambientale
 
 ## Enciclopedia del sapere
 
