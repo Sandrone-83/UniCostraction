@@ -3,12 +3,27 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-112 voci, 9 corsi.
+124 voci, 9 corsi.
 
 
 ## Costruire in legno
 
-*Corso `COSTRUIRE_IN_LEGNO_PACK` — 9 voci*
+*Corso `COSTRUIRE_IN_LEGNO_PACK` — 13 voci*
+
+### L'acustica degli edifici in legno: il comfort silenzioso si progetta
+
+**Categoria:** Acustica · **Corso:** Costruire in legno
+
+Il legno è leggero e questo fa paura sul suono: ma l'edilizia in legno può raggiungere ottimi isolamenti acustici se le stratigrafie sono corrette. Il segreto è la massa aggiunta e gli strati sfalsati, non il materiale nudo.
+
+- **Tecnologia e criteri:** Le pareti X-Lam raggiungono buoni valori con il doppio rivestimento in cartongesso e la lana minerale interposta; i solai in legno richiedono il sospeso acustico (doppia lastra sfalsata, lana, massa); i pavimenti galleggianti con resilienti; i fonoimpedenti ai passi d'appoggio; le camere di risonanza da evitare (cavedi comunicanti).
+- **Applicazioni:** Palazzine residenziali in X-Lam, hotel in legno, scuole e uffici, pareti divisorie di intervento.
+- **Vantaggi:** L'isolamento acustico del legno si progetta con precisione industriale: i valori dichiarati sono ripetibili; il sospeso acustico cura passi e voce insieme; le scuole in legno raggiungono i requisiti di fonica di categoria superiore.
+- **Limiti e attenzioni:** I ponti acustici (travi che attraversano, sifoni comuni, cavedi tecnici) degradano tutto; il suono di impatto nei solai leggeri richiede il massetto galleggiante: senza, si sente ogni passo; la documentazione acustica previsionale è indispensabile nei lotti residenziali.
+- **Costi ed economia:** Ordini di grandezza indicativi: sospeso acustico 45-90 €/m²; parete X-Lam con doppio cartongesso 80-130 €/m²; resilienti per pavimento 5-15 €/m².
+- **Caso tipico:** Un albergo in X-Lam di 4 piani ha superato la prova acustica di legge con il doppio rivestimento sfalsato e il sospeso su tutti i solai: nessuna lamentela di rumore in 2 anni di gestione.
+- **Normativa:** I requisiti acustici passivi secondo D.Lgs 42/2017; la valutazione degli elementi in laboratorio secondo UNI EN ISO 717-1 e 717-2; le verifiche in opera secondo le norme di misura dell'isolamento acustico in edilizia.
+- **Nota di cantiere:** Il punto debole è sempre il dettaglio: i passaggi di impianti vanno doppiamente sigillati con lana e mastici; le cassette dei tenditori dei sospesi non toccano la struttura portante; la prova acustica in opera su una cella campione prima di replicare il sistema su tutto l'edificio.
 
 ### Le connessioni in legno: dove le strutture si incontrano
 
@@ -39,6 +54,21 @@ Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano
 - **Caso tipico:** Casa unifamiliare: montaggio della struttura in 6 giorni lavorativi, chiusa al tetto in 3 settimane; la casa 'gemella' in muratura dello stesso costruttore: 5 mesi alla stessa fase.
 - **Normativa:** Piano di montaggio del produttore; controllo qualità interno; sicurezza cantieri (più leggero, meno rischi).
 - **Nota di cantiere:** La regola d'oro del cantiere legno: il telo copre tutto ciò che non è ancora coperto, e ogni vite va a coppia controllata con segno a matita.
+
+### La durabilità del legno: classi di rischio, trattamenti e manutenzione
+
+**Categoria:** Durabilità · **Corso:** Costruire in legno
+
+Il legno dura secoli o marcisce in 5 anni: la differenza è la scelta della specie, la protezione dalla pioggia e l'uso corretto per la classe di rischio. La durabilità si progetta, non si spera.
+
+- **Tecnologia e criteri:** Le classi di rischio di esposizione (EN 335): dalla copertura asciutta agli elementi in acqua; le classi naturali di durabilità delle essenze (robinia e castagno in classe naturale elevata, abete bassa); i trattamenti in autoclave per le essenze poco resistenti (classe di impregnazione dichiarata); i sistemi di protezione dalla pioggia (cappotto, gronda generosa, distanziatore); le vernici e oli protettivi.
+- **Applicazioni:** Travi a vista esterne, tetti in zone piovose, arredi urbani, casette da giardino, elementi a contatto col terreno.
+- **Vantaggi:** Il legno trattato correttamente in autoclave ha garanzie fino a 25 anni in esterno; le specie naturalmente resistenti (robinia) evitano i trattamenti chimici; il dettaglio costruttivo giusto (gronda, zoccolo in pietra, capillary break) vale più di ogni trattamento.
+- **Limiti e attenzioni:** Il legno sotto i 20% di umidità non marcisce quasi mai: la progettazione sbagliata che lascia ristagni è la causa n.1 del degrado; i trattamenti di superficie vanno rifatti periodicamente; il legno a contatto diretto col terreno richiede specie o trattamenti speciali.
+- **Costi ed economia:** Ordini di grandezza indicativi: trattamento in autoclave aggiunge 10-30% al costo del legno; la robinia naturale costa il doppio dell'abete ma non va trattata; la manutenzione di vernici esterne 3-8 €/m² ogni 3-6 anni.
+- **Caso tipico:** Una tettoia in abete trattato con gronda di 60 cm e zoccolo in cls si presenta come nuova dopo 15 anni; la tettoia identica del vicino con gronda corta ha sostituito tre travetti in 10 anni: il dettaglio è la durabilità.
+- **Normativa:** La classificazione di durabilità secondo UNI EN 350 (essenze) e la classificazione di esposizione secondo UNI EN 335; i trattamenti secondo EN 335 e le schede dei trattatori autorizzati; il progetto del legno secondo Eurocodice 5 e NTC2018.
+- **Nota di cantiere:** I tagli e i fori eseguiti in cantiere vanno protetti con prodotto di riserva: il taglio del cantiere è il punto dove parte il marciume; il distanziatore tra legno e cls evita la condensa di contatto; le estremità delle travi esposte sono i punti critici: le coperture più generose prolungano la vita più dei trattamenti.
 
 ### L'economia del legno: costi, tempi, mercato
 
@@ -85,6 +115,21 @@ Il legno brucia in superficie ma ha un superpotere: carbonizza a velocità nota 
 - **Normativa:** Eurocodice 5 parte fuoco; UNI EN 13501 (classi); normativa prevenzione incendi.
 - **Nota di cantiere:** La formula da insegnare: 'il legno brucia il suo coprifuoco, l'acciaio cede improvvisamente: il legno al fuoco è prevedibile, l'acciaio no (se non protetto)'.
 
+### Il legno lamellare e i prodotti derivati: LVL, I-joist, OSB e massivi
+
+**Categoria:** Prodotti derivati · **Corso:** Costruire in legno
+
+Oltre al tavolato e all'X-Lam, l'edilizia moderna in legno usa una famiglia di prodotti industriali dalle prestazioni calibrate: il lamellare incollato, il legno microlamellare (LVL), le travi a I e i pannelli OSB. Conoscerli significa poter progettare con il mezzo giusto ogni elemento.
+
+- **Tecnologia e criteri:** Il legno lamellare incollato GL24-GL32: listelli giuntati a pettine e incollati; il LVL: listelli sottili orientati tutti nello stesso verso per elevata resistenza alla trazione e flessione; gli I-joist: anima in OSB con ali in lamellare, leggeri e dritti per le luci medie; l'OSB: pannelli di scaglie orientate per pareti e sottofondi; i pannelli massici di legno per finiture e pavimenti; le loro marcature CE secondo le norme di prodotto con classi strutturali dichiarate.
+- **Applicazioni:** Travi di grande luce, solai con I-joist, pareti a telaio rivestite in OSB, coperture industriali, rinforzi strutturali.
+- **Vantaggi:** Ogni prodotto ha la prestazione 'di targa' certificata: il calcolo è affidabile; gli I-joist pesano un terzo di una trave piena equivalente; il LVL permette luci e carichi che il legno massiccio non reggerebbe.
+- **Limiti e attenzioni:** Le anime in OSB degli I-joist non sopportano carichi concentrati senza rinforzi; i pannelli OSB temono l'umidità prolungata: vanno protetti; i prodotti incollati richiedono la catena di custodia e la marcatura CE per essere strutturali.
+- **Costi ed economia:** Ordini di grandezza indicativi: LVL 25-50 €/m² di pannello; I-joist 8-20 €/ml a seconda dell'altezza; OSB 3 8-15 €/m²; il lamellare GL24 20-40 €/m² di sezione a metro lineare, fortemente variabile.
+- **Caso tipico:** Una copertura industriale con luce di 24 m è stata risolta con travi in LVL a sezione ridotta: il peso dimezzato ha permesso la gru da cantiere piccola e il montaggio in 5 giorni.
+- **Normativa:** Il legno lamellare segue UNI EN 14080 con le classi di resistenza; i pannelli OSB seguono UNI EN 300 con le classi di impiego; il calcolo strutturale secondo Eurocodice 5 e NTC2018; la marcatura CE dei prodotti strutturali.
+- **Nota di cantiere:** I fori e i tagli in LVL e I-joist vanno fatti dove il calcolo prevede: tagliare l'anima di un I-joist vicino all'appoggio può ucciderlo; il magazzino al coperto dei pannelli OSB evita i rigonfiamenti prima del montaggio; le viti per OSB sono specifiche: quelle sbagliate non tirano.
+
 ### Il legno in sisma: la leggerezza che protegge
 
 **Categoria:** Sismica · **Corso:** Costruire in legno
@@ -99,6 +144,21 @@ Il legno è il materiale con il miglior rapporto resistenza/peso: nelle scosse, 
 - **Caso tipico:** Edificio in X-Lam in zona sismica: dopo una scossa forte (M5.9) le ispezioni hanno trovato fessurazioni solo in due giunti a vite (riparabili in giorni); l'edificio in c.a. confinante ha avuto danni strutturali significativi.
 - **Normativa:** NTC (Eurocodice 8 per le verifiche sismiche); linee guida per le costruzioni in legno in zona sismica.
 - **Nota di cantiere:** La domanda: 'come si comporta al sisma?' — risposta: 'pesa un quinto, si muove con la scossa e si ripara in giorni'.
+
+### I sistemi a telaio leggero: platform frame e balloon frame
+
+**Categoria:** Sistemi a telaio · **Corso:** Costruire in legno
+
+La costruzione a telaio leggero è il metodo nord-americano e oceaniano per costruire case intere con travetti e pannelli: veloce, economico, isoltante. Platform e balloon frame sono le due scuole, con comportamenti e limiti diversi.
+
+- **Tecnologia e criteri:** Il platform frame: piani impostati su una piastra di ripartizione, ogni solaio è il 'tavolo' del piano successivo; il balloon frame: orditure continue a tutta l'altezza con il solaio sospeso; le pareti: orditure da 38-45 mm (2x4, 2x6) a passo 40-60 cm con pannelli OSB e lana tra l'orditura; i rinforzi di taglio e la controventatura; il doppio rivestimento interno per la retrazione.
+- **Applicazioni:** Ville unifamiliari, villette a schiera, ampliamenti e sopraelevazioni leggere, case prefabbricate di qualità.
+- **Vantaggi:** La velocità di cantiere: la struttura di una villa in una settimana; l'isolamento continuo senza ponti termici da correnti d'aria; le stesse squadre fanno struttura e pareti; l'integrazione degli impianti nell'orditura senza tracciamenti in muratura.
+- **Limiti e attenzioni:** La retrazione del legno va gestita nei serramenti e nelle finiture; l'acustica richiede il doppio rivestimento sfalsato; in Italia l'industrializzazione locale è meno diffusa che in nord Europa: i costi di manodopera specializzata pesano.
+- **Costi ed economia:** Ordini di grandezza indicativi: struttura e chiusura a telaio 250-450 €/m² di pavimento; la chiusura completa di parete con isolante e rivestimenti 120-220 €/m²; rispetto alla muratura tradizionale: più veloce, costi simili in Italia.
+- **Caso tipico:** Una villetta a schiera in platform frame è stata eretta e chiusa in 15 giorni di cantiere organizzato: l'acquisto 'a secco' ha permesso i lavori in inverno senza i tempi di maturazione dei getti.
+- **Normativa:** Il calcolo secondo Eurocodice 5 e NTC2018; la marcatura CE dei prodotti da costruzione in legno; le regole antisismiche per le costruzioni leggere secondo le NTC; la reazione al fuoco dei componenti secondo le classi EN 13501.
+- **Nota di cantiere:** L'orditura va progettata per integrare impianti e aperture: le traslazioni in corso d'opera costrano; la protezione dal sole e dalla pioggia durante il montaggio evita il rigonfiamento dei pannelli; le piastre di ripartizione dei solai devono essere orizzontate al millimetro.
 
 ### Il telaio in legno: travi, pilastri e la costruzione tradizionale
 
@@ -148,7 +208,7 @@ L'X-Lam (cross laminated timber) è il pannello di legno incrociato: listelli so
 
 ## Costruzioni speciali e opere d'ingegneria
 
-*Corso `COSTRUZIONI_SPECIALI_PACK` — 9 voci*
+*Corso `COSTRUZIONI_SPECIALI_PACK` — 13 voci*
 
 ### Le strutture composte acciaio-calcestruzzo avanzate
 
@@ -179,6 +239,36 @@ Oltre alle membrane, le grandi luci si coprono con gusci sottili (calcestruzzo, 
 - **Caso tipico:** Capannone con reticolare 40×80: la verifica in fase di progetto del camino passante (solaio forato, anello di tenuta) ha evitato la classica infiltrazione camino che invece è emersa nel capannone 'gemello' progettato senza dettaglio.
 - **Normativa:** Eurocodice 3 (acciaio), Eurocodice 2 (calcestruzzo); normativa neve UNI EN 1991-1-3.
 - **Nota di cantiere:** Nelle coperture leggere il diavolo è nei dettagli: ogni foro, ogni attraversamento, ogni giunzione è un futuro punto di infiltrazione se non disegnato.
+
+### Le coperture retrattili e pieghevoli: l'edificio che si apre
+
+**Categoria:** Coperture mobili · **Corso:** Costruzioni speciali e opere d'ingegneria
+
+Stadi e piscine olimpiche hanno coperture che si aprono e chiudono in pochi minuti: l'ingegneria dei meccanismi si somma a quella strutturale. Il movimento continuo impone precisione e manutenzione particolari.
+
+- **Tecnologia e criteri:** I sistemi: scorrimento su binari (il tetto si apre come una torta), impacchettamento (i pannelli si ripiegano come una fisarmonica), rotazione (le porzioni ruotano su perni), smontaggio (strutture con elementi rimovibili); i meccanismi: carrelli, cremagliere, funi e motori ridondanti; le guarnizioni mobili e la drenaggio delle giunzioni aperte; la sicurezza: rilevamento ostacoli e arresti di emergenza.
+- **Applicazioni:** Stadi multifunzione, piscine coperte/scoperte, anfiteatri, atrii di grandi centri commerciali.
+- **Vantaggi:** Un solo impianto per due funzioni (interno ed esterno): il ritorno economico è doppio; gli eventi all'aperto senza rischio meteo programmano la stagione; l'apertura estiva riduce i costi di climatizzazione.
+- **Limiti e attenzioni:** Il costo iniziale è 3-5 volte quello di una copertura fissa equivalente; la manutenzione meccanica è continua e richiede specialisti; i dettagli di tenuta in movimento sono il tallone d'Achille: le infiltrazioni si manifestano ai giunti.
+- **Costi ed economia:** Ordini di grandezza indicativi: copertura retrattile 800-2.000 €/m² di superficie mobile; i contratti di manutenzione full-service 3-8% l'anno del valore dell'impianto.
+- **Caso tipico:** Una piscina comunale con copertura retrattile ha esteso la stagione balneare da 4 a 12 mesi: i ricavi annuali coprono la manutenzione del meccanismo e avanzano.
+- **Normativa:** La progettazione segue NTC2018 e gli Eurocodici; i meccanismi seguono la Direttiva Macchine (D.Lgs 17/2010) con marcatura e valutazione del rischio; le prove di funzionamento e i piani di manutenzione sono obbligatori per la messa in servizio.
+- **Nota di cantiere:** La sincronizzazione dei movimenti va collaudata con percorsi a vuoto e carico prima della consegna; i binari e le guide vanno tenuti liberi da detriti: un sassolino blocca un carrello da 10 tonnellate; la formazione del personale di gestione è parte dell'opera.
+
+### Le cupole: la geometria che copre senza pilastri
+
+**Categoria:** Cupole · **Corso:** Costruzioni speciali e opere d'ingegneria
+
+La cupola è la copertura più antica delle grandi luci: dalla Pantheon al Brunelleschi, converte il peso in compressione lungo nervature e meridiani. La sua costruzione richiede la forma giusta, i materiali giusti e una messa in opera rispettosa della geometria.
+
+- **Tecnologia e criteri:** Le cupole in muratura (a spessore doppio, con catene di contenimento), le cupole in cls gettate su cassero a terra e sollevate (cupole a spinta controllata), le cupole in acciaio o alluminio a doppia curvatura, le cupole geodetiche (reticolari di aste su geometria sferica), le cupole in vetro e acciaio con sistemi di supporto ad asta; il consolidamento delle cupole storiche con cerchiature e iniezioni.
+- **Applicazioni:** Chiese e edifici storici, cupole industriali di silos, cupole geodetiche di edifici sportivi e coperture di osservatori, coperture di planetari.
+- **Vantaggi:** La cupola copre le grandi luci senza colonne interne: la libertà di spazio è totale; la doppia curvatura dà rigidità con spessori minimi; la cupola geodetica si prefabbrica e monta in tempi rapidi.
+- **Limiti e attenzioni:** Le spinte orizzontali della cupola devono essere contenute da catene, tamburi o contrafforti: l'errore di equilibrio si paga; le cupole in muratura storica richiedono il rispetto dei materiali originali; il solaio di imposta è il punto critico di infiltrazioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: cupola geodetica 400-900 €/m² di proiezione; cupola in cls 300-700 €/m²; il restauro di cupole storiche si quota per indagini preliminari.
+- **Caso tipico:** La copertura geodetica di un planetario è stata montata in 10 giorni con tutti gli elementi prefabbricati numerati: la precisione della geometria ha permesso l'assemblaggio senza modifiche in cantiere.
+- **Normativa:** Il calcolo secondo NTC2018 e gli Eurocodici; per le cupole storiche le regole del D.Lgs 42/2004 e le linee guida del restauro; le verifiche di forma secondo le teorie della scienza delle costruzioni.
+- **Nota di cantiere:** La cupola si costruisce 'a spinta controllata': il sollevamento o il getto simmetrico evitano gli sforzi di flessione; i punti di appoggio vanno monitorati durante il cantiere; le lucernari e gli oculari della cupola sono i dettagli più delicati per la tenuta.
 
 ### Il monitoraggio delle opere speciali: sensori e ispezioni
 
@@ -255,6 +345,36 @@ Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idros
 - **Normativa:** Normativa idraulica (D.Lgs 152/2006); Eurocodice 8 per le vasche in sisma; specifiche settore acquedottistico.
 - **Nota di cantiere:** Domande da porre: cosa contiene? chi lo ispeziona e come? cosa succede se trabocca o si rompe? — tre risposte progettano il serbatoio.
 
+### Le strutture gonfiabili: padiglioni, coperture e magazzini d'aria
+
+**Categoria:** Strutture pneumatiche · **Corso:** Costruzioni speciali e opere d'ingegneria
+
+La copertura che si regge con l'aria: membrane tenute in tensione da una pressione interna costante, dai padiglioni temporanei ai magazzini industriali interi. L'aria è la struttura: gestirla significa gestire il vento, la neve e le perdite.
+
+- **Tecnologia e criteri:** Le tipologie: a cuscino d'aria singolo (telone pressurizzato continuo), a doppia membrana con camera intermedia isolante, ibride con cavi di controvento; i sistemi di mantenimento della pressione: ventilatori ridondanti con sensori; le porte di sicurezza con chiuse pneumatiche; il controllo carichi: la struttura si sgonfia se la neve supera il limite (allarmi e sistemi di riscaldamento).
+- **Applicazioni:** Padiglioni fieristici e sportivi temporanei, coperture di campi da tennis, magazzini industriali rapidi, tensostrutture per eventi.
+- **Vantaggi:** Costo e tempi minimi: un campo da tennis coperto in 4-6 settimane; la trasparenza delle membrane diffuse la luce naturale senza luci artificiali di giorno; smontabili e ripetibili su altri siti.
+- **Limiti e attenzioni:** La dipendenza continua dalla corrente (il ventilatore non si ferma mai): serve l'UPS; i limiti di carico neve sono reali: in zona nevosa servono sistemi di riscaldamento o smontaggio; la vita delle membrane 15-30 anni con manutenzione.
+- **Costi ed economia:** Ordini di grandezza indicativi: copertura gonfiabile 150-400 €/m²; il riscaldamento anti-neve aggiunge 20-50 €/m² con consumi; la sostituzione della membrana 30-60% del costo iniziale.
+- **Caso tipico:** Un magazzino logistico in struttura pneumatica è stato montato in 30 giorni per coprire un picco produttivo stagionale, poi smontato e rivenduto: il costo è stato un terzo del capannone provvisorio in acciaio.
+- **Normativa:** La progettazione secondo le norme sulle strutture provvisionali e le indicazioni dei produttori; la sicurezza elettrica dei ventilatori secondo la Norma CEI 64-8; le verifiche ai carichi neve e vento secondo NTC2018 con i limiti dichiarati dal produttore.
+- **Nota di cantiere:** La continuità elettrica è critica: UPS e gruppo di continuità per i ventilatori; i bordi e le fondazioni vanno ancorati contro il vento di soffio; l'allarme pressione con telefonata al gestore è obbligatorio: l'oscillazione di pressione avvisa prima del crollo.
+
+### Le strutture sospese: cavi, catenarie e la forma della forza
+
+**Categoria:** Strutture sospese · **Corso:** Costruzioni speciali e opere d'ingegneria
+
+Punti o grandi coperture: quando la luce è enorme, la struttura funziona come una fune tesa tra due appoggi. L'ingegneria dei cavi usa la forma della catenaria (la curva che la fune descrive da sola) per trasformare peso e vento in trazione pura.
+
+- **Tecnologia e criteri:** Le catenarie: funi o catene che lavorano solo a trazione con la forma di equilibrio; le strutture a cavo teso con tiranti attivi e martinetti di regolazione; le membrane pretensionate con bordi in cavo; le reti sospese per coperture (funicolari in due direzioni); i controventi in acciaio tesi per le strutture alte; gli ancoraggi e i deviatori che trasferiscono le forze alla terra.
+- **Applicazioni:** Coperture di stadi e impianti sportivi, passerelle e ponti pedonali, coperture di pensiline, tensostrutture avanzate, antenne e torri tese.
+- **Vantaggi:** L'efficienza strutturale è massima: il cavo lavora solo a trazione senza sforzi parassiti; i pesi si riducono al minimo assoluto; la forma delle coperture a fune è l'architettura più leggera esistente.
+- **Limiti e attenzioni:** La deformazione è parte del progetto: i cavi si muovono con carichi e temperatura (martinetti di ricalibrazione); il vento sulle membrane richiede la prova in galleria o l'analisi avanzata; i dettagli di ancoraggio decidono la vita dell'opera.
+- **Costi ed economia:** Ordini di grandezza indicativi: copertura a rete sospesa 150-400 €/m²; i sistemi di tiranti in acciaio 30-80 €/kg installato; la prova in galleria del vento per le grandi opere 50-300k€.
+- **Caso tipico:** La copertura a funi di un campo da tennis ha resistito a una tempesta che ha danneggiato le coperture tradizionali vicine: il cavo tirato funziona, il tetto rigido si è spezzato.
+- **Normativa:** Il calcolo dei cavi e delle membrane secondo Eurocodice 3 (EN 1993) e le raccomandazioni del settore; l'analisi del vento secondo EC1-1-4; per le grandi opere le verifiche sperimentali in galleria secondo le prassi internazionali.
+- **Nota di cantiere:** I tiranti si tensionano a cricchetti calibrati con lettura dei carichi: la tensione 'a sensazione' è vietata; le ganasce e i deviatori vanno protetti dalla corrosione e ispezionabili; la ricalibrazione annuale dei sistemi tesi è manutenzione vera.
+
 ### Le strutture in vetro: la trasparenza strutturale
 
 **Categoria:** Strutture vetro · **Corso:** Costruzioni speciali e opere d'ingegneria
@@ -288,7 +408,7 @@ Le tensostrutture coprono grandi luci con materiale teso (membrane PVC o PTFE, c
 
 ## Edilizia industriale e logistica
 
-*Corso `EDILIZIA_INDUSTRIALE_LOGISTICA_PACK` — 8 voci*
+*Corso `EDILIZIA_INDUSTRIALE_LOGISTICA_PACK` — 12 voci*
 
 ### L'antincendio industriale: magazzini e rischi speciali
 
@@ -335,6 +455,36 @@ Il capannone industriale è architettura minima massimizzata: una scatola con st
 - **Normativa:** Normativa capannoni (logistica, antincendio DM 2015, energetica); NTC per la struttura; normativa agro-industriale se applicabile.
 - **Nota di cantiere:** La prima domanda: 'cosa succede DENTRO questo capannone?' — la risposta decide altezze, luci, pavimenti e porte.
 
+### La climatizzazione dei capannoni: riscaldamento ad alta quota, destratificazione e ventilazione
+
+**Categoria:** Climatizzazione · **Corso:** Edilizia industriale e logistica
+
+Riscaldare un capannone di 8 metri di altezza come un ufficio è uno spreco: l'aria calda sale e il pavimento resta freddo. La climatizzazione industriale ragiona in zone, in destratificazione e in ricambio d'aria controllato.
+
+- **Tecnologia e criteri:** I generatori d'aria calda a soffitto o a parete per il riscaldamento rapido; i destratificatori (ventilatori a soffitto grandi) che rimandano già l'aria calda accumulata sotto il tetto; i pannelli radianti a soffitto o parete (irraggiano e scaldano i corpi, non l'aria: ideale per baie); la ventilazione con ricuperatori di calore e porte a campana o fast-fold; le zone termiche separate per i magazzini freddi.
+- **Applicazioni:** Capannoni produttivi e logistici, officine, aree di lavoro con ricambi d'aria elevati.
+- **Vantaggi:** I pannelli radianti riducono i consumi del 30-50% rispetto all'aria calda nei capannoni alti; la destratificazione recupera gratis il calore perso sotto il tetto; le zone termiche evitano di riscaldare i corridoi dei carrelli.
+- **Limiti e attenzioni:** I ricambi d'aria dei processi (pitture, saldature) impongono grandi ventilazioni: serve il ricupero di calore; i portoni aperti a ogni carico buttano via l'aria calda: le barriere d'aria aiutano ma non sostituiscono l'abitudine; la manutenzione dei generatori a gas è obbligatoria e ricorrente.
+- **Costi ed economia:** Ordini di grandezza indicativi: pannelli radianti 40-90 €/m² riscaldato; i destratificatori 300-1.500 € l'uno; le porte a campana 3.000-10.000 €.
+- **Caso tipico:** Un'officina con soffitto a 9 m ha dimezzato la bolletta con i pannelli radianti al posto dei cannoni ad aria: il confort a pavimento è migliorato e il carburante dei generatori è calato del 45%.
+- **Normativa:** Gli impianti termici secondo la normativa nazionale (requisiti di legge e rendimento); la sicurezza dei generatori a gas secondo UNI 7129; la ventilazione dei luoghi di lavoro secondo D.Lgs 81/2008 con i ricambi minimi per attività.
+- **Nota di cantiere:** La collocazione dei pannelli radianti evita le baie (le porte aperte rubano l'irraggiamento); i destratificatori si dimensionano sulla distanza dal soffitto; la manutenzione dei generatori a gas con l'analisi di combustione annuale è obbligo di legge.
+
+### Le aree esterne dello stabilimento: viabilità interna, banchine e pavimentazioni
+
+**Categoria:** Esterni · **Corso:** Edilizia industriale e logistica
+
+Il capannone finisce alla porta del portone: fuori ci sono le piste di manovra dei mezzi pesanti, le banchine di carico, i piazzali drenanti e i marciapiedi. L'area esterna progettata male blocca la logistica e allaga con la prima pioggia.
+
+- **Tecnologia e criteri:** Le piste di manovra con raggi adeguati ai mezzi (il semirimorchio vuole 12,5-18 m di raggio); le pavimentazioni drenanti o a fessi per i piazzali di stazionamento; le banchine con i tombini di raccolta e il dislivello idraulico verso i caditoie; la segnaletica orizzontale e la barriera pedonale; l'illuminazione dei piazzali per il turno notturno; i guard-rail ai bordi banchina.
+- **Applicazioni:** Piazzali di manovra per tir, aree di sosta dei mezzi, percorsi pedonali di sicurezza, piste ciclabili aziendali.
+- **Vantaggi:** La viabilità fluida riduce i tempi di carico-scarico e gli incidenti; le pavimentazioni drenanti eliminano le pozze ghiacciate d'inverno; la separazione pedoni-mezzi con le barriere fisiche è la prevenzione che costa meno.
+- **Limiti e attenzioni:** Le piste con i raggi sbagliati costringono le manovre a tre tempi: la produttività ne soffre; le pavimentazioni drenanti si intasano se non manutenute; l'illuminazione scarsa nei piazzali è il primo rischio infortunistico del turno di notte.
+- **Costi ed economia:** Ordini di grandezza indicativi: pavimentazione industriale di piazzale 40-90 €/m²; la segnaletica orizzontale 3-8 €/ml; i guard-rail di banchina 40-100 €/ml.
+- **Caso tipico:** Uno stabilimento con i turni notturni ha ridotto gli infortuni pedonali del 60% separando i percorsi con barriere continue e raddoppiando l'illuminazione nei punti di attraversamento.
+- **Normativa:** La segnaletica stradale interna secondo le regole della sicurezza sul lavoro (D.Lgs 81/2008); le pavimentazioni drenanti secondo le norme tecniche di settore; l'illuminazione dei luoghi di lavoro secondo i valori di UNI EN 12464-2 per le aree esterne.
+- **Nota di cantiere:** La pendenza dei piazzali verso i tombini (1-2%) si verifica prima della consegna; le banchine vanno provate con il carico del muletto pieno; la manutenzione dei drenaggi prima dell'autunno evita i laghi di prima pioggia.
+
 ### L'illuminazione industriale: la luce che produce
 
 **Categoria:** Illuminazione industriale · **Corso:** Edilizia industriale e logistica
@@ -349,6 +499,36 @@ La luce industriale è produttività e sicurezza: gli impianti moderni a LED ad 
 - **Caso tipico:** Magazzino con illuminazione a sensori di presenza per corsie: il consumo elettrico dell'illuminazione è calato del 55% e gli errori di picking del 20% (confronto anno su anno).
 - **Normativa:** UNI EN 12464-1 (lux); CEI 64-8; normativa emergenza.
 - **Nota di cantiere:** La verifica rapida: 'il prelevatore legge il codice prodotto senza strizzare gli occhi?' — se no, l'illuminazione è sbagliata.
+
+### Gli spazi ufficio nel capannone: mezzanini, partizioni e acustica
+
+**Categoria:** Interni · **Corso:** Edilizia industriale e logistica
+
+Il capannone moderno ospita uffici, spogliatoi e mense al piano terra o sui mezzanini: la costruzione leggera a secco divide e sovrappone gli spazi senza toccare la struttura portante. L'acustica e la sicurezza diventano le priorità.
+
+- **Tecnologia e criteri:** I mezzanini autoportanti in acciaio leggero su scaffalature o strutture dedicate (la verifica strutturale conta il peso di archivi e persone); le partizioni in cartongesso doppia lastra con lana per l'acustica; i controsoffitti con faretti e canaline; i pavimenti tecnici sopraelevati per i locali tecnici; le scale di collegamento con le verifiche antincendio (le scale dei mezzanini contano come vie di esodo).
+- **Applicazioni:** Uffici direzionali nei capannoni, sale riunioni sopra i magazzini, spogliatoi e refettori produttivi.
+- **Vantaggi:** I mezzanini ricavano il doppio della superficie utile raddoppiando il valore dell'immobile; la costruzione a secco è rapida e pulita; le partizioni si riconfigurano con l'evoluzione dell'organizzazione.
+- **Limiti e attenzioni:** Il carico sul mezzanino va dichiarato e verificato (gli archivi pesano); l'acustica tra ufficio e produzione richiede il doppio cartongesso sfalsato e la tenuta perimetrale; i mezzanini nei capannoni antincendio vanno autorizzati come varianti.
+- **Costi ed economia:** Ordini di grandezza indicativi: mezzanino in struttura leggera 200-450 €/m²; la partizione acustica doppia 80-150 €/m²; gli uffini 'chiavi in mano' 700-1.200 €/m².
+- **Caso tipico:** Un'azienda ha raddoppiato gli uffici con un mezzanino sopra il magazzino ricambi: la produzione non si è fermata e i nuovi uffici sono entrati in funzione in 6 settimane.
+- **Normativa:** La struttura del mezzanino secondo NTC2018; la sicurezza antincendio (compartimentazione, esodo) secondo le prescrizioni antincendio applicabili alla nuova destinazione; l'accessibilità dei nuovi spazi secondo le regole sulle barriere architettoniche.
+- **Nota di cantiere:** Il permesso per il mezzanino non è una formalità: coinvolge struttura, antincendio e spazi; le prese e i dati nei pavimenti tecnici si pianificano prima della posa; la prova di carico del mezzanino si documenta con verbale.
+
+### I pannelli coibentati e l'involucro industriale: tenuta, ponti termici e durabilità
+
+**Categoria:** Involucro · **Corso:** Edilizia industriale e logistica
+
+Il capannone moderno è un involucro di pannelli coibentati che fanno da parete, copertura e isolamento in un colpo solo. La differenza tra un involucro che dura 30 anni e uno che perde in 5 sta nei dettagli di posa e nei ponti termici.
+
+- **Tecnologia e criteri:** I pannelli coibentati: due lamiere d'acciaio con anima in poliuretano o lana minerale, spessori 40-150 mm, giunzione a 'maschio-femmina' con gomma; i fissaggi a scomparsa o a vista con rondelle; i profili di sopra e sottofinestra, le bave di gronda e i camini passanti; la gestione dei ponti termici (le lamiere continue diventano ponte: serve la rotura o i pannelli con isolante continuo).
+- **Applicazioni:** Coperture e pareti di capannoni, celle frigorifere, edifici logistici, coperture a falda secca.
+- **Vantaggi:** La velocità di chiusura: 1.000 m² di capannone in una settimana; l'isolamento integrato senza stratigrafie da costruire; la manutenzione quasi nulla sulla lamiera preverniciata garantita 20-30 anni.
+- **Limiti e attenzioni:** Le giunzioni sono il tallone d'Achille: la gomma che invecchia lascia passare acqua e aria; i ponti termici inaccettabili nei capannoni climatizzati di precisione; la lamiera grecata in costa marina richiede vernici speciali o acciaio zincato a caldo maggiorato.
+- **Costi ed economia:** Ordini di grandezza indicativi: pannello coibentato da copertura 25-50 €/m² (materiale), posato 35-70 €/m²; il pannello da parete 20-45 €/m² materiale; il rifacimento della copertura di un capannone 30-60 €/m².
+- **Caso tipico:** Un capannone logistico in zona umida ha risolto la condensa interna passando dai pannelli a giunzione standard a quelli con isolante continuo e doppia giunzione: la differenza di 8 €/m² ha eliminato le gocce sulle scaffalature.
+- **Normativa:** I pannelli coibentati con marcatura CE secondo le norme di prodotto (EN 14509); la reazione al fuoco secondo le classi richieste dalla destinazione (le celle e i capannoni hanno classi diverse); i valori di isolamento secondo la normativa energetica vigente per gli edifici industriali.
+- **Nota di cantiere:** I fori per i fissaggi vanno fatti con punta fresata mai con la fiamma (i bordi bruciati arrugginiscono); la posa si fa con la staffa orizzontata e il controllo della pendenza della falda; i sottofondi dei pannelli vanno tenuti asciutti durante il montaggio.
 
 ### La manutenzione industriale degli immobili: il capannone che dura
 

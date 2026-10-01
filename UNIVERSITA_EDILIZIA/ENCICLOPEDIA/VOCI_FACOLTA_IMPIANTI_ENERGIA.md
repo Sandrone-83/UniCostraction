@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-220 voci, 13 corsi.
+224 voci, 13 corsi.
 
 
 ## Acustica edilizia
@@ -3233,7 +3233,7 @@ Strutture indossabili attive (motore) o passive (molle) che aiutano a sollevare 
 
 ## Prevenzione incendi e accessibilità
 
-*Corso `SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK` — 9 voci*
+*Corso `SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK` — 13 voci*
 
 ### L'accessibilità: superamento delle barriere architettoniche
 
@@ -3325,6 +3325,36 @@ La gestione dell'emergenza è la parte 'umana' della prevenzione: Piano di Emerg
 - **Normativa:** D.M. 03/08/2015 (capo gestione); D.Lgs 81/2008 (emergenze); UNI ISO 45001 (sistemi gestione sicurezza).
 - **Nota di cantiere:** Il PEI va trattato come il libretto dell'auto: revisionato ogni anno, consultato prima di ogni modifica dell'edificio.
 
+### La gestione dei fumi: sfumatoi, pressioni e il controllo dell'evacuazione
+
+**Categoria:** Gestione fumi · **Corso:** Prevenzione incendi e accessibilità
+
+Nell'incendio la vittima n.1 è il fumo: le sale gremite degli edifici pubblici si evacuano in sicurezza se i fumi vanno dove li mandiamo noi. La gestione attiva dei fumi usa sfumatoi, ventilazione e pressioni controllate.
+
+- **Tecnologia e criteri:** Gli sfumatoi naturali a cupola o a lamelle che sfruttano il camino termico; gli sfumatori meccanici con ventilatori e condotte dedicate; l'evacuazione assistita dei locali con ventilatori di sovrapressione per le scale e le vie di esodo; le porte tagliafuoco con fermi di regolazione per controllare i flussi; il calcolo del tasso di riempimento dei locali e del tempo di evacuazione.
+- **Applicazioni:** Teatri, centri commerciali, stadi, parcheggi interrati (dove i fumi si scaricano con le ventole di estrazione), i vani scala degli edifici alti.
+- **Vantaggi:** Le vie di esodo libere da fumi danno i minuti che salvano: la visibilità è vita; la sovrapressione delle scale impedisce l'ingresso del fumo nei percorsi verticali; l'automazione con rilevatori di fumo comanda tutto in pochi secondi.
+- **Limiti e attenzioni:** La gestione attiva richiede corrente e manutenzione: i sistemi si provano periodicamente; i calcoli fumi sono specialistici: vanno affidati a professionisti abilitati; i falsi allarmi costano: la taratura dei rilevatori va fatta con cura.
+- **Costi ed economia:** Ordini di grandezza indicativi: sfumatori meccanici per un parcheggio interrato 20-60 €/m² di superficie; gli sfumatoi naturali per un tetto commerciale 30-80 €/m²; i collaudi e le prove funzionali 2-5k€.
+- **Caso tipico:** In un centro commerciale l'attivazione degli sfumatori durante un incendio al ristorante ha tenuto il corridoio principale libero da fumi: l'evacuazione di 2.000 persone è avvenuta senza intossicati.
+- **Normativa:** Le prescrizioni sulla gestione dei fumi secondo le regole tecniche antincendio vigenti (D.M. 3 settembre 2021 per le attività soggette SCIA e le norme specifiche per i luoghi di pubblico spettacolo); le verifiche funzionali periodiche secondo le prescrizioni dei vigili del fuoco.
+- **Nota di cantiere:** Gli sfumatoi vanno collaudati con la 'prova fumi' o equivalente prima della consegna; le centraline di comando vanno provate con simulazione di allarme; la manutenzione dei ventilatori e delle caditoie è semestrale.
+
+### La prevenzione incendi nei locali tecnici: centrali termiche, pozzi luce e ricarica veicoli
+
+**Categoria:** Locali rischio · **Corso:** Prevenzione incendi e accessibilità
+
+I locali tecnici concentrano energia e combustibili: centrali termiche con gas e combustibili liquidi, pozzi luce con quadri elettrici, locali di ricarica dei veicoli elettrici. Ognuno ha il suo quadro di prevenzione specifico.
+
+- **Tecnologia e criteri:** Le centrali termiche: resistenza al fuoco delle pareti (i valori REI secondo la destinazione), le porte tagliafuoco, la tenuta dei locali gas con i grigliati di ventilazione superiori e inferiori, i rilevatori gas e di fumo; i locali elettrici: il rischio principale è l'incendio iniziato dai quadri, con estintori idonei (a CO2 per i locali chiusi); la ricarica veicoli elettrici: i locali con dispositivi di scarico fumi e la separazione dai locali a rischio.
+- **Applicazioni:** Cantieri di ristrutturazione con nuove centrali, garage condominiali, autorimesse, depositi di bombole.
+- **Vantaggi:** La prevenzione specifica del locale riduce il rischio globale dell'edificio: il fuoco che parte in centrale non trova strada; la corretta ventilazione dei locali gas elimina il rischio di esplosione; i documenti di conformità salvano in fase di collaudo.
+- **Limiti e attenzioni:** I locali tecnici 'creati' nei recuperi spesso non rispettano le dimensioni minime di ventilazione: l'errore si scopre in collaudo; le attrezzature vanno mantenute: un rilevatore gas spento è un pericolo dormiente; la ricarica dei veicoli nei vecchi garage richiede valutazioni caso per caso.
+- **Costi ed economia:** Ordini di grandezza indicativi: la messa in sicurezza di una centrale termica esistente 2-8k€; la colonna montante di scarico fumi per i locali ricarica 1-4k€; i rilevatori gas certificati 100-300 € l'uno.
+- **Caso tipico:** Un condominio che ha trasformato il deposito in locale caldaia ha dovuto aggiungere la tenuta REI, la porta tagliafuoco e la ventilazione naturale: il collaudo della caldaia non passava senza quelle opere.
+- **Normativa:** Le disposizioni per la prevenzione incendi secondo la normativa vigente (regole tecniche e prescrizioni dei vigili del fuoco per le attività soggette); gli impianti a gas secondo UNI 7129; la sicurezza elettrica secondo Norma CEI 64-8; i requisiti delle autorimesse secondo le prescrizioni antincendio applicabili.
+- **Nota di cantiere:** La verifica della tenuta dei locali gas si fa con i grigliati dimensionati (la sezione di aerazione è calcolata sull'altezza del locale); i locali tecnici vanno tenuti liberi da depositi: il cartone accanto alla caldaia è il primo combustibile; la manutenzione dei rilevatori va calendarizzata con verbali.
+
 ### La prevenzione incendi: quadro normativo e logica
 
 **Categoria:** Quadro · **Corso:** Prevenzione incendi e accessibilità
@@ -3340,6 +3370,21 @@ La prevenzione incendi italiana si basa sul D.M. 03/08/2015 (norme tecniche di p
 - **Normativa:** D.M. 03/08/2015; regolamento di esecuzione del TULPS (D.P.R. 635/1982, parte); D.Lgs 139/2006 (Codice sicura).
 - **Nota di cantiere:** Prima domanda su un locale commerciale: 'che livello di rischio incendio ha questa attività e che titolo mi serve?' — decide costi e tempi dell'apertura.
 
+### La rivelazione e l'allarme: rivelatori indirizzati e centrale di controllo
+
+**Categoria:** Rivelazione · **Corso:** Prevenzione incendi e accessibilità
+
+Sapere subito dove è il fuoco cambia tutto: i sistemi di rivelazione indirizzati dicono la posizione esatta dell'allarme alla centrale, ai soccorsi e al personale. La scelta del tipo di rivelatore (fumo, calore, fiamma, gas) dipende dall'ambiente.
+
+- **Tecnologia e criteri:** I rivelatori di fumo ottici (luce diffusa) per la maggior parte degli ambienti; i rivelatori di calore (a scatto fisso o di velocità) per le cucine e i garage dove il fumo è normale; i rivelatori di fiamma UV/IR per i depositi; i rivelatori di gas per i locali a rischio; i rivelatori di fumo ad aspirazione per i data center e le gallerie; le centrali di rivelazione indirizzate con display testuale e collegamento ai soccorsi.
+- **Applicazioni:** Ogni edificio pubblico e aziendale: uffici, hotel, scuole, industrie, data center, magazzini.
+- **Vantaggi:** L'indirizzamento porta i soccorsi nel punto esatto in metà tempo; i rivelatori adatti all'ambiente eliminano i falsi allarmi (il fumo della cucina non deve evacuare l'hotel); la manutenzione dei sistemi indirizzati è più rapida con la diagnosi da centrale.
+- **Limiti e attenzioni:** I falsi allarmi inquinano la credibilità: il boy who cried wolf; i rivelatori vanno mantenuti (pulizia e prova) altrimenti sono decorazioni; i sistemi obsoleti senza pezzi di ricambio vanno rifatti.
+- **Costi ed economia:** Ordini di grandezza indicativi: impianto di rivelazione indirizzato 3-8 €/m² di superficie; la centrale con collegamento ai soccorsi 1-3k€; la manutenzione annuale certificata 1-3 €/punto.
+- **Caso tipico:** Un hotel con rivelatori ottici in corridoi e camera e rivelatori di calore in cucine ha ridotto i falsi allarmi a zero in due anni: la gestione dell'emergenza non si scontra più con la tostapane.
+- **Normativa:** Gli impianti di rivelazione secondo le norme di prodotto (EN 54) e le regole di installazione; i collegamenti alla centrale operativa dei vigili del fuoco secondo le prescrizioni locali; la manutenzione secondo le prescrizioni vigili del fuoco con verbali periodici.
+- **Nota di cantiere:** La posizione dei rivelatori segue le regole (al centro dei locali, lontano da correnti d'aria); la prova funzionale di ogni punto si fa in consegna; la batteria di emergenza della centrale si verifica ogni anno.
+
 ### La segnaletica di sicurezza e i controlli documentali
 
 **Categoria:** Segnaletica · **Corso:** Prevenzione incendi e accessibilità
@@ -3354,6 +3399,21 @@ La segnaletica di sicurezza (UNI EN ISO 7010) guida l'evacuazione e l'azione in 
 - **Caso tipico:** Controllo VVF in un centro commerciale: segnaletica ottima ma revisione estintori scaduta di 4 mesi: diffida con termine di 15 giorni; il registro digitale delle scadenze (semplice foglio con alert) avrebbe evitato la diffida e l'ansia.
 - **Normativa:** UNI EN ISO 7010 (segnaletica); UNI 11292 (planimetrie evacuazione); D.M. 03/08/2015 (documentazione).
 - **Nota di cantiere:** Il registro delle scadenze (estintori, porte, prove, formazione) è la spina dorsale della conformità: chi non ha il registro, non ha la conformità.
+
+### Le verifiche periodiche antincendio: il calendario che salva l'edificio
+
+**Categoria:** Verifiche · **Corso:** Prevenzione incendi e accessibilità
+
+L'impianto antincendio funziona se qualcuno lo prova: le verifiche periodiche (estintori, porte tagliafuoco, rivelatori, idranti, luci di emergenza) sono obblighi di legge con scadenze precise e verbali che dimostrano la diligenza.
+
+- **Tecnologia e criteri:** Il calendario delle scadenze: estintori (controllo interno annuale e manutenzione certificata periodica), porte tagliafuoco (controllo semestrale di guarnizioni e chiudiporta), rivelatori e centrali (manutenzione annuale con prova funzionale), idranti e naspi (controllo periodico della pressione e delle cassette), luci di emergenza (prova mensile e funzionale annuale), le vie di esodo (controllo dell'accessibilità continuo); il registro antincendio che raccoglie tutto.
+- **Applicazioni:** Tutti gli edifici: uffici, condomini, industrie, scuole, luoghi di pubblico accesso.
+- **Vantaggi:** La diligenza dimostrata protegge penalmente e civilmente il gestore; le verifiche scoprono i guasti prima dell'emergenza; il registro aggiornato velocizza i controlli dei vigili del fuoco senza sanzioni.
+- **Limiti e attenzioni:** Le scadenze sfuggono facilmente senza un calendario centralizzato; i verbali finti sono peggio dell'assenza: la responsabilità resta; le verifiche fatte male (un occhiata veloce) non valgono.
+- **Costi ed economia:** Ordini di grandezza indicativi: il controllo annuale completo di un ufficio medio 300-800 €; il contratto di manutenzione antincendio integrata 1.000-3.000 €/anno per gli edifici medi.
+- **Caso tipico:** Una scuola con il registro antincendio impeccabile ha superato l'ispezione dei vigili del fuoco in 20 minuti senza osservazioni; la scuola vicina senza verbali ha avuto la sospensione delle attività in attesa dei controlli.
+- **Normativa:** Le verifiche periodiche secondo la normativa antincendio vigente (D.M. 3 settembre 2021 e le prescrizioni specifiche per categoria di attività); la manutenzione degli estintori secondo UNI 9994; le porte tagliafuoco secondo le regole di manutenzione della marcatura CE.
+- **Nota di cantiere:** Il registro antincendio va tenuto in formato cartaceo o digitale ma accessibile all'ispettore; le scadenze si mettono in calendario con un mese di anticipo; il nome del responsabile dell'edificio e il suo sostituto vanno scritti nel piano di emergenza.
 
 ### Le vie di esodo: requisiti geometrici e funzionali
 

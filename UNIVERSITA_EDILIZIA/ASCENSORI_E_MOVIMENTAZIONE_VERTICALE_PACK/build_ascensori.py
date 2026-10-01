@@ -1,0 +1,173 @@
+# -*- coding: utf-8 -*-
+"""Crea ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK: 10 schede."""
+import io, json, os
+
+PACK = "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK"
+ROOT = os.path.dirname(os.path.abspath(__file__))   # .../UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK
+
+SCHEde = [
+{"categoria": "Tecnologia di base",
+"nome": "Come funziona un ascensore: cabina, contrappeso, macchina e apparecchiature",
+"descrizione": "L'ascensore è il mezzo di trasporto verticale più diffuso al mondo: pochi componenti, un principio fisico semplice (il contrappeso bilancia la cabina) e un sistema di sicurezza ridondante. Conoscere i componenti permette di parlare con il manutentore e capire i preventivi.",
+"tecnologia": "La cabina con telaio e pavimento viaggia sulle guide; il contrappeso (~peso cabina + 40-50% del carico) bilancia il sistema e riduce il lavoro del motore; la macchina (a ingranaggi o gearless) aziona le funi o il pistone; le apparecchiature di comando (quadro, inverter, scheda) regolano velocità e fermate; il limitatore di velocità e il paracadute sono i dispositivi di sicurezza ultimi; i fermi magnetici e i finecorsa definiscono i percorsi.",
+"applicazioni": "Condòmini, uffici, hotel, ospedali, centri commerciali: ogni edificio sopra i pochi piani ne prevede almeno uno.",
+"vantaggi": "Il contrappeso fa sì che il motore muova solo la differenza di peso: consumi ridotti rispetto a un sistema non bilanciato; l'azionamento con inverter rende le partenze e le frenate morbide e precise.",
+"limiti": "Le funi sono elementi di usura da sostituire a scadenza; il pozzo e la sala macchine (o MRL senza sala) occupano spazio strutturale che va progettato prima; l'acqua in pozzo è il nemico numero uno di cabine e apparecchiature.",
+"costi_e_economia": "Ordini di grandezza indicativi: ascensore nuovo per condomino 30-80k€ installato; la manutenzione ordinaria 500-1.500 €/anno; la revisione funi ogni 5 anni circa come costo singolo rilevante.",
+"casi_real_world": "Un condominio ha ridotto i consumi del 40% sostituendo il vecchio avviatore stella-triangolo con un quadro a inverter: stessa macchina, stesse funi, metà bolletta.",
+"normative": "DPR 162/1999 (regime di installazione e manutenzione), UNI EN 81-20 e 81-50 (requisiti costruttivi delle nuove installazioni), D.Lgs 81/2008 per gli obblighi del datore di lavoro sugli ascensori di aziende.",
+"note_cantiere": "In ristrutturazione il pozzo esistente va rilavato e verificato in quota: un errore di un centimetro sui fermi si sente a ogni piano per trent'anni; la ventilazione del pozzo evita condense sulle schede; il vano macchina (se c'è) va tenuto asciutto e a temperatura controllata."
+},
+{"categoria": "Selezione e dimensionamento",
+"nome": "Scegliere e dimensionare l'ascensore: portata, velocità, servizio atteso",
+"descrizione": "Un ascensore giusto non è il più grande: è quello con portata, velocità e numero giusti per il flusso di persone atteso. Il sovradimensionamento costa spazio e denaro, il sottodimensionamento crea code permanenti.",
+"tecnologia": "La portata si sceglie sui flussi: abitazioni 4-6 persone (300-450 kg), uffici 8-13 (630-1000 kg), ospedali per barelle (20+ persone o ascensori letto); la velocità cresce con l'altezza di corsa (0,63-1 m/s in condominio, 1,6-2,5 m/s in torri); il tempo di percorso e il tempo di fermata definiscono la qualità del servizio; i calcoli di trasporto stimano l'attesa media nei palazzi alti; i gruppi multipli e la destinazione intelligente (destination control) ottimizzano i flussi intensi.",
+"applicazioni": "Nuove costruzioni residenziali e direzionali, ristrutturazioni di hotel e ospedali, adeguamenti di stabili in cambio d'uso.",
+"vantaggi": "Il dimensionamento corretto evita code negli orari di punta: il costo extra di un ascensore in più è minore del danno d'immagine di una hall con dieci persone in attesa; il destination control in uffici e hotel riduce l'attesa del 20-30%.",
+"limiti": "Le simulazioni di flusso richiedono dati d'uso previsionali incerti; in edilizia residenziale i flussi sono imprevedibili: meglio un margine; la velocità alta in un edificio basso è inutile e fastidiosa (pressione auricolare, tempi morti).",
+"costi_e_economia": "Ordini di grandezza indicativi: ogni ulteriore fermata aggiunge costo all'apparato e al cantiere; il passage da 1 a 1,6 m/s incide sull'apparato ma non sul pozzo; i sistemi destination aggiungono 15-30% sull'impianto.",
+"casi_real_world": "Un hotel di 8 piani aveva code di 6 minuti alle 8:30: il gruppo era sottodimensionato. Con la riconfigurazione a controllo destinazione le attese sono scese a 90 secondi senza sostituire gli impianti.",
+"normative": "UNI EN 81-20 per i requisiti delle nuove installazioni; le raccomandazioni di settore (ISO 4190) sulle portate e dimensioni dei pozzi; DPR 162/1999 per l'installazione.",
+"note_cantiere": "Definire portata e velocità prima di progettare il pozzo: cambiarle dopo significa ripensare guide, macchina e quadro; negli edifici misti (uffici+residenze) prevedere gruppi separati per non mischiare i flussi."
+},
+{"categoria": "Installazione in edificio esistente",
+"nome": "L'ascensore dove non c'era: installazione in edifici esistenti",
+"descrizione": "Il 70% del patrimonio edilizio italiano è senza ascensore: l'installazione in opera esistente è un intervento strutturale completo, con vincoli che vanno dall'appezzamento del vano scala alla luce del tetto.",
+"tecnologia": "I sistemi senza locale macchina (MRL) riducono l'ingombro verticale; i minimi ascensori e le piattaforme per i piccoli tagli; l'installazione in vano scala con riduzione della larghezza delle rampe, compensata da piattaforme di rientro; l'esterno dell'edificio: torri scala in metallo e vetro agganciate alla facciata con fondazioni proprie; i fori di piano con traversine e rinforzi; l'abbattimento di parte di scale e volte con ricostruzione.",
+"applicazioni": "Condomini storici senza ascensore, edifici pubblici da adeguare all'accessibilità, scuole e uffici in edilizia anni '50-'70.",
+"vantaggi": "L'MRL elimina la sala macchine: un piano in più di residenza o un tetto più basso; l'installazione esterna non intacca i vani scala esistenti e funziona in edifici occupati; l'ascensore alza il valore dell'immobile più di quanto costa.",
+"limiti": "L'installazione in un edificio occupato richiede la gestione di rumori, polveri e blackout programmati; le fondazioni esterne possono impattare reinterri e cavedi; il distacco acustico dal nucleo scale va progettato: la cabina 'sull'orecchio' dei condomini genera liti.",
+"costi_e_economia": "Ordini di grandezza indicativi: installazione MRL in esistente 45-100k€ a seconda dei piani; la torre esterna in metallo 20-50k€ oltre l'impianto; i contributi per l'abbattimento barriere architettoniche variano per regione e vanno verificati di volta in volta.",
+"casi_real_world": "Un palazzo anni '60 di 5 piani ha installato un MRL ricavando il pozzo da un locale al pianterreno e alleggerendo la scala: cantiere in 6 settimane, edificio sempre abitato, valore immobiliare rivalutato.",
+"normative": "DPR 162/1999 (installazione in esistente), D.Lgs 42/2004 se l'edificio è vincolato, le regole urbanistiche comunali per le torri esterne, UNI EN 81-20/81-50 per l'impianto, D.Lgs 81/2008 per la sicurezza dei cantieri in edifici occupati.",
+"note_cantiere": "Prima del sondaggio del vano scala valutare la posizione dei cavedi impianti: spostare l'ascensore di un metro a progetto costa zero, in cantiere costa una variante; il collaudo con carichi porta pesi su ogni piano e verifica fermate in quota."
+},
+{"categoria": "Manutenzione",
+"nome": "La manutenzione dell'ascensore: scadenze, obblighi e controllo del servizio",
+"descrizione": "L'ascensore è l'impianto più regolamentato della casa: la manutenzione non è un consiglio ma un obbligo di legge, con scadenze precise e un registro che documenta tutto. Un condominio organizzato evita fermi e sanzioni.",
+"tecnologia": "La manutenzione ordinaria periodica (di norma mensile) con i controlli di funi, apparecchiature, porte e sicurezze; la manutenzione straordinaria sulle parti di usura; la verifica funzionale con scadenze pluriennali (ogni 5 anni per funi e apparecchiature secondo UNI EN 13015); il registro di manutenzione a bordo macchina; il contratto di manutenzione con tempi di intervento; il piano di evacuazione dei passeggeri bloccati.",
+"applicazioni": "Tutti gli ascensori installati in Italia: condomini, aziende, enti pubblici, senza distinzioni.",
+"vantaggi": "L'ascensore mantenuto dura 25-30 anni prima della modernizzazione; la documentazione a posto protegge l'amministratore e il condominio in caso di incidente; l'intervento preventivo costa la decima parte dell'uscita d'emergenza.",
+"limiti": "I contratti 'a chiamata' sembrano economici ma trasferiscono il rischio sul proprietario; il risparmio sulla manutenzione si paga in fermi frequenti e nella vita residua dell'impianto.",
+"costi_e_economia": "Ordini di grandezza indicativi: contratto ordinario 40-120 €/mese per ascensore; la verifica quinquennale 300-800 €; le chiamate extra fuori contratto 80-200 € l'una.",
+"casi_real_world": "Un condominio passato da contratto a chiamata a contratto ordinario ha dimezzato i fermi in un anno: i guasti venivano trovati alla visita mensile, non dai residenti bloccati.",
+"normative": "DPR 162/1999 con le scadenze di manutenzione, UNI EN 13015 (programma di manutenzione), D.Lgs 81/2008 per gli ascensori in uso aziendale, D.Lgs 42/2017 e le disposizioni condominiali per gli obblighi di chi gestisce.",
+"note_cantiere": "Il registro di manutenzione va compilato a ogni intervento: una pagina bianca in caso di ispezione è un problema; le verifiche quinquennali vanno programmate con anticipo per non incappare in proroghe irregolari; la prova di evacuazione va fatta con la ditta e i soccorsi esterni almeno a campione."
+},
+{"categoria": "Modernizzazione",
+"nome": "La modernizzazione: rinnovare l'ascensore vecchio senza buttare il pozzo",
+"descrizione": "Quando l'impianto ha 25-30 anni, la modernizzazione parziale o totale mantiene il pozzo e le guide e sostituisce tutto il resto: macchina, quadro, cabina, porte. È l'intervento che restituisce sicurezza e consumi a una frazione del costo del nuovo.",
+"tecnologia": "I livelli di intervento: parziale (quadro, pulsantiera, porte), media (macchina e avvolgimento), totale (cabina, apparecchiature, macchina); la conversione a MRL dove il vano macchine è da recuperare; l'adozione di azionamenti a risparmio energetico e illuminazione a LED permanente; i nuovi apparati di sicurezza sulle porte e i rilevatori di ostacoli; la teleassistenza con allarme GSM.",
+"applicazioni": "Condomini con impianti degli anni '70-'90, edifici direzionali da riposizionare, hotel in ristrutturazione.",
+"vantaggi": "Il pozzo esistente è l'elemento più costoso da realizzare: la modernizzazione lo conserva; l'intervento si fà in tempi brevi (1-3 settimane) con blocco limitato del servizio; consumi e affidabilità tornano ai livelli dei nuovi.",
+"limiti": "Se il pozzo è fuori norma o le guide sono consumate, la modernizzazione non basta; l'economia dell'intervento va confrontata col costo del nuovo: sopra certe soglie conviene sostituire.",
+"costi_e_economia": "Ordini di grandezza indicativi: modernizzazione parziale 10-20k€, totale 25-50k€, contro 30-80k€ del nuovo completo; il risparmio energetico con inverter e LED 30-50% sulla voce ascensore.",
+"casi_real_world": "Un ufficio pubblico ha modernizzato 4 ascensori di 30 anni mantenendo pozzi e guide: spesa del 40% rispetto alla sostituzione, certificazione di conformità rinnovata, guasti quasi azzerati.",
+"normative": "DPR 162/1999 (l'intervento si collauda come installazione sostanziale), UNI EN 81-20/81-50 per i componenti introdotti, la valutazione di rischio sui componenti mantenuti secondo D.Lgs 81/2008 quando in ambito aziendale.",
+"note_cantiere": "La scelta di cosa mantenere va documentata con una perizia: le guide e i tirafondi possono restare solo se in tolleranza; durante i lavori serve un piano di mobilità sostitutiva (scale o piattaforma temporanea) nei palazzi alti."
+},
+{"categoria": "Accessibilità",
+"nome": "Ascensori e accessibilità: portare l'edificio a chiunque",
+"descrizione": "L'ascensore è il cuore dell'accessibilità: le norme definiscono porte, comandi, segnali e dimensioni per rendere l'impianto usabile da chi si muove in carrozzina, da non vedenti e da chiunque abbia ridotte capacità motorie o sensoriali.",
+"tecnologia": "Le dimensioni minime di cabina per carrozzina (le porte con apertura utile sufficiente, i comandi a altezza raggiungibile); le porte con tempo di apertura prolungato e riapertura fotocellula; i pulsanti con numerazione a rilievo e braille, con contrasto visivo; la segnaletica acustica di arrivo piano e la sintesi vocale; la soglia di cabina a filo pavimento senza scalini; i pulsanti di allarme riconoscibili al tatto e il funzionamento in black-out con soccorso automatico.",
+"applicazioni": "Edifici pubblici, scuole, ospedali, uffici aperti al pubblico, condomini in adeguamento.",
+"vantaggi": "L'edificio accessibile serve tutti: genitori con passeggini, anziani, persone temporaneamente inabili; l'accessibilità piena elimina le barriere normative più contestate nei controlli.",
+"limiti": "I vecchi pozzi piccoli non ospitano cabine a norma: servono interventi strutturali o soluzioni compatte; la segnaletica sensoriale richiede la manutenzione: un sintetizzatore guasto rende l'impianto non conforme.",
+"costi_e_economia": "Ordini di grandezza indicativi: la dotazione accessibile piena aggiunge 10-20% sull'ascensore nuovo; il retrofit dei comandi e della segnaletica su impianto esistente 2-8k€; i benefici fiscali e i contributi per l'abbattimento barriere vanno verificati sui bandi vigenti.",
+"casi_real_world": "Un comune ha azzerato le segnalazioni sulle barriere del municipio modernizzando 3 ascensori con cabine più grandi, sintesi vocale e porte a riapertura prolungata: il costo dell'adeguamento era inferiore a una sola controversia legale.",
+"normative": "DPR 162/1999, UNI EN 81-70 (requisiti di accessibilità delle cabine), D.Lgs 198/2009 (norme per il superamento delle barriere architettoniche), D.M. 236/1989 per le prescrizioni dei luoghi di lavoro, D.Lgs 42/2017 per l'accessibilità in edilizia residenziale.",
+"note_cantiere": "Verificare l'accessibilità non solo in cabina ma al percorso: una soglia di 3 cm all'ingresso del vano vanifica il lavoro; i comandi vanno collaudati a mano (luce, contrasto, rilievo) e non solo a vista; il piano di evacuazione deve considerare l'utenza con disabilità."
+},
+{"categoria": "Soluzioni compatte",
+"nome": "Piattaforme elevatrici e montacarichi: il verticale dove l'ascensore non entra",
+"descrizione": "Non sempre serve un ascensore: per piccoli dislivelli, carichi o contesti con pochi spazio ci sono le piattaforme elevatrici (per persone in carrozzina) e i montacarichi (per merci). Regimi, limiti e costi sono diversi, e va evitata la confusione tra i due mondi.",
+"tecnologia": "Le piattaforme elevatrici: cabine aperte o chiuse a bassa velocità per dislivelli fino a pochi metri, con barre di comando a mantenimento premute (dead man's); i montacarichi: a cartella o a portello, per merci con personale di servizio, portate da 300 a 3000 kg; i montascale a piattaforma per scale esistenti senza pozzo; i sistemi a incastellatura con binari a parete o autoportanti; i vincoli: i montacarichi non trasportano persone salvo specifica omologazione.",
+"applicazioni": "Negozi con mezzanino, scuole con piccoli dislivelli, case private su più livelli, ristoranti e laboratori per il servizio cucina.",
+"vantaggi": "Costano la metà o meno di un ascensore e si installano in settimane; le piattaforme a incastellatura esterna risolvono dislivelli dove scavare il pozzo è impossibile; i montacarichi tolgono fatica e rischio dal trasporto merci interno.",
+"limiti": "Le piattaforme hanno velocità e comfort inferiori: sono per tragitti brevi; i montacarichi trasportare persone è vietato se non omologato; il valore immobiliare di una piattaforma non equivale a quello di un ascensore vero.",
+"costi_e_economia": "Ordini di grandezza indicativi: piattaforma elevatrice 8-25k€; montacarichi a cartella 6-15k€; montascale a piattaforma 5-12k€; manutenzione più leggera dell'ascensore, 200-600 €/anno.",
+"casi_real_world": "Una biblioteca con un dislivello di 1,8 m tra sala e archivio ha installato una piattaforma a incastellatura in due settimane: costo un quarto dell'ascensore equivalente e accessibilità piena per i carrozzini.",
+"normative": "DPR 162/1999 anche per le piattaforme se nel suo perimetro, la direttiva macchine (D.Lgs 17/2010) e le norme di prodotto specifiche per le piattaforme elevatrici, i regolamenti di esercizio per i montacarichi con personale.",
+"note_cantiere": "Definire subito se trasporterà persone: cambia tutto (norme, collaudo, costi); le piattaforme esterne vanno progettate con il riparo dal gelo e dalla pioggia: i quadri a bordo soffrono; la pendenza della rampa di accesso alla piattaforma è il controllo più frequemente fallito."
+},
+{"categoria": "Scale mobili e tappeti",
+"nome": "Scale mobili e tappeti mobili: il trasporto orizzontale-inclinato",
+"descrizione": "Centri commerciali, metropolitane e stazioni vivono di scale mobili e tappeti: impianti pubblici, intensissimi, che vanno progettati sul flusso e mantenuti con rigore quasi ospedaliero.",
+"tecnologia": "Le scale mobili: gradini concatenati su una pista a gradino, con motore e freno principale e un freno aggiuntivo; il pettine di piano che sprofonda in caso di ostacolo; le balaustre con funi di traino e spazzole di sicurezza; i sensori di ostacolo, di sovraccarico e di direzione; i tappeti mobili per percorsi orizzontali o lievi pendenze a velocità maggiore; il controllo di velocità: ogni deviazione dalla taratura arresta l'impianto.",
+"applicazioni": "Centri commerciali, aeroporti, stazioni, metropolitane, grandi uffici e ospedali con flussi continui.",
+"vantaggi": "Muovono migliaia di persone all'ora senza sale d'attesa: il flusso continuo batte ogni ascensore; i tappeti mobili coprono distanze lunghe senza sforzo per l'utente.",
+"limiti": "L'uso intensivo pubblico consuma tutto in fretta: le catene e i gradini hanno vite utili definite in orario di servizio; sono impianti chiusi al pubblico durante la manutenzione: i fermi vanno pianificati; gli incidenti accadono quasi sempre ai bordi: l'addestramento dell'utente finale conta.",
+"costi_e_economia": "Ordini di grandezza indicativi: scala mobile 40-100k€ a seconda di luce e larghezza; tappeto mobile 20-60k€/ml; la manutenzione intensiva per impianto pubblico 3-10k€/anno.",
+"casi_real_world": "Una stazione ha ridotto gli interventi di emergenza del 70% passando dalla manutenzione a calendario flessibile a quella condizionata con monitoraggio continuo delle vibrazioni e dei consumi.",
+"normative": "EN 115-1 e la parte 2 per le verifiche (norme armonizzate per le scale mobili), DPR 162/1999 per l'installazione in Italia, D.Lgs 81/2008 per l'uso aziendale, le norme locali di sicurezza antincendio per i vani.",
+"note_cantiere": "La luce di installazione va calcolata sulla corsa più lunga e sulla manutenzione: il passaggio libero sotto la scala mobile va mantenuto; i collaudi iniziali con caricamento gradini sono obbligatori; l'addestramento del personale di esercizio è parte dell'installazione."
+},
+{"categoria": "Porte e sicurezza",
+"nome": "Porte, chiusure e dispositivi di sicurezza dell'impianto verticale",
+"descrizione": "Le porte sono l'elemento più usato e più pericoloso dell'impianto: migliaia di cicli all'anno, contatti con utenti distratti, bambini e carichi. La sicurezza delle porte è fatta di dispositivi ridondanti e di manutenzione puntuale.",
+"tecnologia": "Le porte a bipartizione centrale o laterale con motore di azionamento; i dispositivi di riapertura (fotocellule o costole sensibili) che riaprono su ostacolo; i contatti di blocco che impediscono la marcia a porte aperte; i pulsanti di apertura con tempo prolungato per accessibilità; le luci di cortesia a bordo telaio; gli sblocchi esterni per i soccorsi; sulle piattaforme e i montacarichi le chiusure a chiave e i contatti di porta normalmente chiusi.",
+"applicazioni": "Ogni impianto verticale: le porte di piano e di cabina sono presenti ovunque.",
+"vantaggi": "I moderni sensori di ostacolo riducono quasi a zero gli inceppamenti da ostacoli: il rischio residuo è il vandalismo o la mancata manutenzione; le porte con tempo di apertura prolungato curano l'accessibilità senza modifiche strutturali.",
+"limiti": "Le fotocellule sporche o fuori squadro sono la causa n.1 delle riaperture fantasma e dei fermi; le porte vecchie a cardini spingere sono incompatibili con i requisiti di sicurezza attuali: la sostituzione è quasi sempre obbligatoria.",
+"costi_e_economia": "Ordini di grandezza indicativi: la sostituzione di una porta di piano 3-8k€; l'aggiunta di fotocellule su porte esistenti 1-3k€; le chiusure di sicurezza su montacarichi 500-1.500 €.",
+"casi_real_world": "Un supermercato aveva fermi quotidiani alle porte del montacarichi: la pulizia semestrale dei contatti e la taratura delle fotocellule hanno azzerato gli interventi per 18 mesi consecutivi.",
+"normative": "UNI EN 81-20 e 81-50 per i requisiti di sicurezza delle porte, UNI EN 81-70 per le porte accessibili, DPR 162/1999 per l'installazione e manutenzione, le norme di prodotto per i componenti (conformità CE).",
+"note_cantiere": "Le fotocellule vanno pulite a ogni manutenzione: la polvere è il guasto più banale e più frequente; i tamponi di fine corsa delle porte si regolano: una porta che sbatte è un guasto annunciato; gli sblocchi di piano vanno verificati funzionanti a ogni visita: sono la via di fuga in emergenza."
+},
+{"categoria": "Energia e sostenibilità",
+"nome": "L'ascensore energetico: consumi, rigenerazione e scelte efficienti",
+"descrizione": "L'ascensore pesa per l'1-5% dei consumi elettrici di un edificio: le scelte giuste (inverter, LED, rigenerazione) lo trasformano da utenza a quasi-nulla, e in regime smart building diventa anche flessibile per la rete.",
+"tecnologia": "La ripartizione dei consumi: standby (illuminazione, quadri, ventilazione) che spesso supera il moto vero e proprio; gli azionamenti a frequenza variabile che recuperano energia in discesa; i sistemi di rigenerazione che restituiscono energia alla rete invece di dissiparla sulle resistenze; l'illuminazione LED permanente con spegnimento in standby; la classificazione energetica degli impianti (classi da A a G secondo lo standard VDI 4707); l'integrazione domotica con spegnimento programmato dei piani.",
+"applicazioni": "Condomini, uffici, hotel: in particolare gli edifici in certificazione energetica (LEED, BREEAM) dove gli ascensori efficienti danno crediti.",
+"vantaggi": "L'impianto efficiente consuma 30-60% in meno; la rigenerazione rende l'ascensore quasi un piccolo generatore nei palazzi alti; il standby intelligente elimina il consumo notturno che nessuno vede mai in bolletta.",
+"limiti": "La rigenerazione conviene sui percorsi lunghi e intensivi: in un condominio basso il recupero è modesto; i componenti efficienti hanno costi maggiori di primo impianto che si ripagano in anni.",
+"costi_e_economia": "Ordini di grandezza indicativi: il costo extra di un impianto classe A rispetto a un G è 10-25%; il risparmio annuo in un palazzo di 6 piani 100-300 €; la rigenerazione si ripaga in 5-10 anni dove il traffico è intenso.",
+"casi_real_world": "Una torre direzionale di 12 piani ha abbattuto i consumi degli ascensori del 55% con gruppi gearless a rigenerazione e standby intelligente: il risparmio annuo copre il costo della teleassistenza.",
+"normative": "Lo standard VDI 4707 per la classificazione energetica degli ascensori (riferimento di settore, non norma italiana cogente), le regole dell'efficienza energetica edilizia (D.Lgs 192/2005), il regolamento impianti termici per il contesto energetico complessivo.",
+"note_cantiere": "Chiedere in offerta la classe energetica secondo VDI 4707: è la base per confrontare i preventivi; verificare lo standby reale con misura: i quadri che restano accesi di notte costano di più di quanto sembra; la teleassistenza permette di tarare i consumi dopo il primo anno di esercizio."
+}
+]
+
+os.makedirs(os.path.join(ROOT, "schede"), exist_ok=True)
+out = os.path.join(ROOT, "schede", "schede.jsonl")
+with io.open(out, "w", encoding="utf-8") as f:
+    for s in SCHEde:
+        f.write(json.dumps(s, ensure_ascii=False) + "\n")
+print("schede:", len(SCHEde))
+
+yaml = """---
+corso: "Ascensori e movimentazione verticale"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L1-L2"
+schede: 10
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+---
+"""
+io.open(os.path.join(ROOT, "COURSE.yaml"), "w", encoding="utf-8").write(yaml)
+
+readme = """# ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK — Ascensori, piattaforme, montacarichi, scale mobili
+
+**Facoltà:** FACOLTA_TECNOLOGIA_E_COSTRUZIONE · **Livello:** L1-L2 · **Schede:** 10
+
+## Contenuto
+La tecnologia completa del trasporto verticale: come funziona un ascensore
+(cabina, contrappeso, macchina, sicurezze), selezione e dimensionamento sui flussi,
+installazione in edifici esistenti (MRL, torri esterne), manutenzione con scadenze
+(UNI EN 13015), modernizzazione, accessibilità (UNI EN 81-70), piattaforme
+elevatrici e montacarichi, scale mobili (EN 115-1), porte e dispositivi di
+sicurezza, consumi e rigenerazione energetica.
+
+## Formato
+- `schede/schede.jsonl` — una scheda per riga, 11 campi standard.
+- `COURSE.yaml` — metadati del corso.
+
+## Uso per l'addestramento
+Adatto a: amministratori di condominio, progettisti di retrofit, imprese che
+installano e mantengono impianti, dialogo con utenti e autorità. Le scadenze
+legali (DPR 162/1999) e le distinzioni tra ascensore, piattaforma e montacarichi
+sono il cuore del corso.
+"""
+io.open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8").write(readme)
+print("pack creato")

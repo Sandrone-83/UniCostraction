@@ -98,3 +98,9 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - Approfondimenti: TETTI_E_COPERTURE_PACK 7→13, PISCINE_E_WELLNESS_PACK 7→12, DATA_CENTER_E_CRITICAL_FACILITIES_PACK 7→12, OSPEDALI_E_HEALTHCARE_PACK 7→12, HOTEL_E_HOSPITALITY_TECNICO_PACK 7→11
 - Nuovo esame: ESAMI/RISANAMENTO (277 domande, chiavi riservate)
 
+
+## Corsi del giro di approfondimento 4 (2026-10-01, bozza post-v1.0.0)
+
+- ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK (10 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: tecnologia ascensori, dimensionamento sui flussi, installazione in esistente (MRL), manutenzione UNI EN 13015, modernizzazione, accessibilità UNI EN 81-70, piattaforme e montacarichi, scale mobili EN 115-1, porte e sicurezza, efficienza e rigenerazione
+- Approfondimenti: COSTRUIRE_IN_LEGNO_PACK 9→13, COSTRUZIONI_SPECIALI_PACK 9→13, MATERIALI_DEL_FUTURO_PACK 9→13, SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK 9→13, EDILIZIA_INDUSTRIALE_LOGISTICA_PACK 8→12 (totale +20 schede)
+- Totale repository: 44 pack, 639 schede, 0 errori JSON

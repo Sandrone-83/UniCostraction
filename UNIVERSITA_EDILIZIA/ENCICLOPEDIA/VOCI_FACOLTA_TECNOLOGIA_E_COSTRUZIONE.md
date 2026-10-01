@@ -3,7 +3,162 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-255 voci, 8 corsi.
+269 voci, 9 corsi.
+
+
+## Ascensori e movimentazione verticale
+
+*Corso `ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK` — 10 voci*
+
+### Ascensori e accessibilità: portare l'edificio a chiunque
+
+**Categoria:** Accessibilità · **Corso:** Ascensori e movimentazione verticale
+
+L'ascensore è il cuore dell'accessibilità: le norme definiscono porte, comandi, segnali e dimensioni per rendere l'impianto usabile da chi si muove in carrozzina, da non vedenti e da chiunque abbia ridotte capacità motorie o sensoriali.
+
+- **Tecnologia e criteri:** Le dimensioni minime di cabina per carrozzina (le porte con apertura utile sufficiente, i comandi a altezza raggiungibile); le porte con tempo di apertura prolungato e riapertura fotocellula; i pulsanti con numerazione a rilievo e braille, con contrasto visivo; la segnaletica acustica di arrivo piano e la sintesi vocale; la soglia di cabina a filo pavimento senza scalini; i pulsanti di allarme riconoscibili al tatto e il funzionamento in black-out con soccorso automatico.
+- **Applicazioni:** Edifici pubblici, scuole, ospedali, uffici aperti al pubblico, condomini in adeguamento.
+- **Vantaggi:** L'edificio accessibile serve tutti: genitori con passeggini, anziani, persone temporaneamente inabili; l'accessibilità piena elimina le barriere normative più contestate nei controlli.
+- **Limiti e attenzioni:** I vecchi pozzi piccoli non ospitano cabine a norma: servono interventi strutturali o soluzioni compatte; la segnaletica sensoriale richiede la manutenzione: un sintetizzatore guasto rende l'impianto non conforme.
+- **Costi ed economia:** Ordini di grandezza indicativi: la dotazione accessibile piena aggiunge 10-20% sull'ascensore nuovo; il retrofit dei comandi e della segnaletica su impianto esistente 2-8k€; i benefici fiscali e i contributi per l'abbattimento barriere vanno verificati sui bandi vigenti.
+- **Caso tipico:** Un comune ha azzerato le segnalazioni sulle barriere del municipio modernizzando 3 ascensori con cabine più grandi, sintesi vocale e porte a riapertura prolungata: il costo dell'adeguamento era inferiore a una sola controversia legale.
+- **Normativa:** DPR 162/1999, UNI EN 81-70 (requisiti di accessibilità delle cabine), D.Lgs 198/2009 (norme per il superamento delle barriere architettoniche), D.M. 236/1989 per le prescrizioni dei luoghi di lavoro, D.Lgs 42/2017 per l'accessibilità in edilizia residenziale.
+- **Nota di cantiere:** Verificare l'accessibilità non solo in cabina ma al percorso: una soglia di 3 cm all'ingresso del vano vanifica il lavoro; i comandi vanno collaudati a mano (luce, contrasto, rilievo) e non solo a vista; il piano di evacuazione deve considerare l'utenza con disabilità.
+
+### L'ascensore energetico: consumi, rigenerazione e scelte efficienti
+
+**Categoria:** Energia e sostenibilità · **Corso:** Ascensori e movimentazione verticale
+
+L'ascensore pesa per l'1-5% dei consumi elettrici di un edificio: le scelte giuste (inverter, LED, rigenerazione) lo trasformano da utenza a quasi-nulla, e in regime smart building diventa anche flessibile per la rete.
+
+- **Tecnologia e criteri:** La ripartizione dei consumi: standby (illuminazione, quadri, ventilazione) che spesso supera il moto vero e proprio; gli azionamenti a frequenza variabile che recuperano energia in discesa; i sistemi di rigenerazione che restituiscono energia alla rete invece di dissiparla sulle resistenze; l'illuminazione LED permanente con spegnimento in standby; la classificazione energetica degli impianti (classi da A a G secondo lo standard VDI 4707); l'integrazione domotica con spegnimento programmato dei piani.
+- **Applicazioni:** Condomini, uffici, hotel: in particolare gli edifici in certificazione energetica (LEED, BREEAM) dove gli ascensori efficienti danno crediti.
+- **Vantaggi:** L'impianto efficiente consuma 30-60% in meno; la rigenerazione rende l'ascensore quasi un piccolo generatore nei palazzi alti; il standby intelligente elimina il consumo notturno che nessuno vede mai in bolletta.
+- **Limiti e attenzioni:** La rigenerazione conviene sui percorsi lunghi e intensivi: in un condominio basso il recupero è modesto; i componenti efficienti hanno costi maggiori di primo impianto che si ripagano in anni.
+- **Costi ed economia:** Ordini di grandezza indicativi: il costo extra di un impianto classe A rispetto a un G è 10-25%; il risparmio annuo in un palazzo di 6 piani 100-300 €; la rigenerazione si ripaga in 5-10 anni dove il traffico è intenso.
+- **Caso tipico:** Una torre direzionale di 12 piani ha abbattuto i consumi degli ascensori del 55% con gruppi gearless a rigenerazione e standby intelligente: il risparmio annuo copre il costo della teleassistenza.
+- **Normativa:** Lo standard VDI 4707 per la classificazione energetica degli ascensori (riferimento di settore, non norma italiana cogente), le regole dell'efficienza energetica edilizia (D.Lgs 192/2005), il regolamento impianti termici per il contesto energetico complessivo.
+- **Nota di cantiere:** Chiedere in offerta la classe energetica secondo VDI 4707: è la base per confrontare i preventivi; verificare lo standby reale con misura: i quadri che restano accesi di notte costano di più di quanto sembra; la teleassistenza permette di tarare i consumi dopo il primo anno di esercizio.
+
+### L'ascensore dove non c'era: installazione in edifici esistenti
+
+**Categoria:** Installazione in edificio esistente · **Corso:** Ascensori e movimentazione verticale
+
+Il 70% del patrimonio edilizio italiano è senza ascensore: l'installazione in opera esistente è un intervento strutturale completo, con vincoli che vanno dall'appezzamento del vano scala alla luce del tetto.
+
+- **Tecnologia e criteri:** I sistemi senza locale macchina (MRL) riducono l'ingombro verticale; i minimi ascensori e le piattaforme per i piccoli tagli; l'installazione in vano scala con riduzione della larghezza delle rampe, compensata da piattaforme di rientro; l'esterno dell'edificio: torri scala in metallo e vetro agganciate alla facciata con fondazioni proprie; i fori di piano con traversine e rinforzi; l'abbattimento di parte di scale e volte con ricostruzione.
+- **Applicazioni:** Condomini storici senza ascensore, edifici pubblici da adeguare all'accessibilità, scuole e uffici in edilizia anni '50-'70.
+- **Vantaggi:** L'MRL elimina la sala macchine: un piano in più di residenza o un tetto più basso; l'installazione esterna non intacca i vani scala esistenti e funziona in edifici occupati; l'ascensore alza il valore dell'immobile più di quanto costa.
+- **Limiti e attenzioni:** L'installazione in un edificio occupato richiede la gestione di rumori, polveri e blackout programmati; le fondazioni esterne possono impattare reinterri e cavedi; il distacco acustico dal nucleo scale va progettato: la cabina 'sull'orecchio' dei condomini genera liti.
+- **Costi ed economia:** Ordini di grandezza indicativi: installazione MRL in esistente 45-100k€ a seconda dei piani; la torre esterna in metallo 20-50k€ oltre l'impianto; i contributi per l'abbattimento barriere architettoniche variano per regione e vanno verificati di volta in volta.
+- **Caso tipico:** Un palazzo anni '60 di 5 piani ha installato un MRL ricavando il pozzo da un locale al pianterreno e alleggerendo la scala: cantiere in 6 settimane, edificio sempre abitato, valore immobiliare rivalutato.
+- **Normativa:** DPR 162/1999 (installazione in esistente), D.Lgs 42/2004 se l'edificio è vincolato, le regole urbanistiche comunali per le torri esterne, UNI EN 81-20/81-50 per l'impianto, D.Lgs 81/2008 per la sicurezza dei cantieri in edifici occupati.
+- **Nota di cantiere:** Prima del sondaggio del vano scala valutare la posizione dei cavedi impianti: spostare l'ascensore di un metro a progetto costa zero, in cantiere costa una variante; il collaudo con carichi porta pesi su ogni piano e verifica fermate in quota.
+
+### La manutenzione dell'ascensore: scadenze, obblighi e controllo del servizio
+
+**Categoria:** Manutenzione · **Corso:** Ascensori e movimentazione verticale
+
+L'ascensore è l'impianto più regolamentato della casa: la manutenzione non è un consiglio ma un obbligo di legge, con scadenze precise e un registro che documenta tutto. Un condominio organizzato evita fermi e sanzioni.
+
+- **Tecnologia e criteri:** La manutenzione ordinaria periodica (di norma mensile) con i controlli di funi, apparecchiature, porte e sicurezze; la manutenzione straordinaria sulle parti di usura; la verifica funzionale con scadenze pluriennali (ogni 5 anni per funi e apparecchiature secondo UNI EN 13015); il registro di manutenzione a bordo macchina; il contratto di manutenzione con tempi di intervento; il piano di evacuazione dei passeggeri bloccati.
+- **Applicazioni:** Tutti gli ascensori installati in Italia: condomini, aziende, enti pubblici, senza distinzioni.
+- **Vantaggi:** L'ascensore mantenuto dura 25-30 anni prima della modernizzazione; la documentazione a posto protegge l'amministratore e il condominio in caso di incidente; l'intervento preventivo costa la decima parte dell'uscita d'emergenza.
+- **Limiti e attenzioni:** I contratti 'a chiamata' sembrano economici ma trasferiscono il rischio sul proprietario; il risparmio sulla manutenzione si paga in fermi frequenti e nella vita residua dell'impianto.
+- **Costi ed economia:** Ordini di grandezza indicativi: contratto ordinario 40-120 €/mese per ascensore; la verifica quinquennale 300-800 €; le chiamate extra fuori contratto 80-200 € l'una.
+- **Caso tipico:** Un condominio passato da contratto a chiamata a contratto ordinario ha dimezzato i fermi in un anno: i guasti venivano trovati alla visita mensile, non dai residenti bloccati.
+- **Normativa:** DPR 162/1999 con le scadenze di manutenzione, UNI EN 13015 (programma di manutenzione), D.Lgs 81/2008 per gli ascensori in uso aziendale, D.Lgs 42/2017 e le disposizioni condominiali per gli obblighi di chi gestisce.
+- **Nota di cantiere:** Il registro di manutenzione va compilato a ogni intervento: una pagina bianca in caso di ispezione è un problema; le verifiche quinquennali vanno programmate con anticipo per non incappare in proroghe irregolari; la prova di evacuazione va fatta con la ditta e i soccorsi esterni almeno a campione.
+
+### La modernizzazione: rinnovare l'ascensore vecchio senza buttare il pozzo
+
+**Categoria:** Modernizzazione · **Corso:** Ascensori e movimentazione verticale
+
+Quando l'impianto ha 25-30 anni, la modernizzazione parziale o totale mantiene il pozzo e le guide e sostituisce tutto il resto: macchina, quadro, cabina, porte. È l'intervento che restituisce sicurezza e consumi a una frazione del costo del nuovo.
+
+- **Tecnologia e criteri:** I livelli di intervento: parziale (quadro, pulsantiera, porte), media (macchina e avvolgimento), totale (cabina, apparecchiature, macchina); la conversione a MRL dove il vano macchine è da recuperare; l'adozione di azionamenti a risparmio energetico e illuminazione a LED permanente; i nuovi apparati di sicurezza sulle porte e i rilevatori di ostacoli; la teleassistenza con allarme GSM.
+- **Applicazioni:** Condomini con impianti degli anni '70-'90, edifici direzionali da riposizionare, hotel in ristrutturazione.
+- **Vantaggi:** Il pozzo esistente è l'elemento più costoso da realizzare: la modernizzazione lo conserva; l'intervento si fà in tempi brevi (1-3 settimane) con blocco limitato del servizio; consumi e affidabilità tornano ai livelli dei nuovi.
+- **Limiti e attenzioni:** Se il pozzo è fuori norma o le guide sono consumate, la modernizzazione non basta; l'economia dell'intervento va confrontata col costo del nuovo: sopra certe soglie conviene sostituire.
+- **Costi ed economia:** Ordini di grandezza indicativi: modernizzazione parziale 10-20k€, totale 25-50k€, contro 30-80k€ del nuovo completo; il risparmio energetico con inverter e LED 30-50% sulla voce ascensore.
+- **Caso tipico:** Un ufficio pubblico ha modernizzato 4 ascensori di 30 anni mantenendo pozzi e guide: spesa del 40% rispetto alla sostituzione, certificazione di conformità rinnovata, guasti quasi azzerati.
+- **Normativa:** DPR 162/1999 (l'intervento si collauda come installazione sostanziale), UNI EN 81-20/81-50 per i componenti introdotti, la valutazione di rischio sui componenti mantenuti secondo D.Lgs 81/2008 quando in ambito aziendale.
+- **Nota di cantiere:** La scelta di cosa mantenere va documentata con una perizia: le guide e i tirafondi possono restare solo se in tolleranza; durante i lavori serve un piano di mobilità sostitutiva (scale o piattaforma temporanea) nei palazzi alti.
+
+### Porte, chiusure e dispositivi di sicurezza dell'impianto verticale
+
+**Categoria:** Porte e sicurezza · **Corso:** Ascensori e movimentazione verticale
+
+Le porte sono l'elemento più usato e più pericoloso dell'impianto: migliaia di cicli all'anno, contatti con utenti distratti, bambini e carichi. La sicurezza delle porte è fatta di dispositivi ridondanti e di manutenzione puntuale.
+
+- **Tecnologia e criteri:** Le porte a bipartizione centrale o laterale con motore di azionamento; i dispositivi di riapertura (fotocellule o costole sensibili) che riaprono su ostacolo; i contatti di blocco che impediscono la marcia a porte aperte; i pulsanti di apertura con tempo prolungato per accessibilità; le luci di cortesia a bordo telaio; gli sblocchi esterni per i soccorsi; sulle piattaforme e i montacarichi le chiusure a chiave e i contatti di porta normalmente chiusi.
+- **Applicazioni:** Ogni impianto verticale: le porte di piano e di cabina sono presenti ovunque.
+- **Vantaggi:** I moderni sensori di ostacolo riducono quasi a zero gli inceppamenti da ostacoli: il rischio residuo è il vandalismo o la mancata manutenzione; le porte con tempo di apertura prolungato curano l'accessibilità senza modifiche strutturali.
+- **Limiti e attenzioni:** Le fotocellule sporche o fuori squadro sono la causa n.1 delle riaperture fantasma e dei fermi; le porte vecchie a cardini spingere sono incompatibili con i requisiti di sicurezza attuali: la sostituzione è quasi sempre obbligatoria.
+- **Costi ed economia:** Ordini di grandezza indicativi: la sostituzione di una porta di piano 3-8k€; l'aggiunta di fotocellule su porte esistenti 1-3k€; le chiusure di sicurezza su montacarichi 500-1.500 €.
+- **Caso tipico:** Un supermercato aveva fermi quotidiani alle porte del montacarichi: la pulizia semestrale dei contatti e la taratura delle fotocellule hanno azzerato gli interventi per 18 mesi consecutivi.
+- **Normativa:** UNI EN 81-20 e 81-50 per i requisiti di sicurezza delle porte, UNI EN 81-70 per le porte accessibili, DPR 162/1999 per l'installazione e manutenzione, le norme di prodotto per i componenti (conformità CE).
+- **Nota di cantiere:** Le fotocellule vanno pulite a ogni manutenzione: la polvere è il guasto più banale e più frequente; i tamponi di fine corsa delle porte si regolano: una porta che sbatte è un guasto annunciato; gli sblocchi di piano vanno verificati funzionanti a ogni visita: sono la via di fuga in emergenza.
+
+### Scale mobili e tappeti mobili: il trasporto orizzontale-inclinato
+
+**Categoria:** Scale mobili e tappeti · **Corso:** Ascensori e movimentazione verticale
+
+Centri commerciali, metropolitane e stazioni vivono di scale mobili e tappeti: impianti pubblici, intensissimi, che vanno progettati sul flusso e mantenuti con rigore quasi ospedaliero.
+
+- **Tecnologia e criteri:** Le scale mobili: gradini concatenati su una pista a gradino, con motore e freno principale e un freno aggiuntivo; il pettine di piano che sprofonda in caso di ostacolo; le balaustre con funi di traino e spazzole di sicurezza; i sensori di ostacolo, di sovraccarico e di direzione; i tappeti mobili per percorsi orizzontali o lievi pendenze a velocità maggiore; il controllo di velocità: ogni deviazione dalla taratura arresta l'impianto.
+- **Applicazioni:** Centri commerciali, aeroporti, stazioni, metropolitane, grandi uffici e ospedali con flussi continui.
+- **Vantaggi:** Muovono migliaia di persone all'ora senza sale d'attesa: il flusso continuo batte ogni ascensore; i tappeti mobili coprono distanze lunghe senza sforzo per l'utente.
+- **Limiti e attenzioni:** L'uso intensivo pubblico consuma tutto in fretta: le catene e i gradini hanno vite utili definite in orario di servizio; sono impianti chiusi al pubblico durante la manutenzione: i fermi vanno pianificati; gli incidenti accadono quasi sempre ai bordi: l'addestramento dell'utente finale conta.
+- **Costi ed economia:** Ordini di grandezza indicativi: scala mobile 40-100k€ a seconda di luce e larghezza; tappeto mobile 20-60k€/ml; la manutenzione intensiva per impianto pubblico 3-10k€/anno.
+- **Caso tipico:** Una stazione ha ridotto gli interventi di emergenza del 70% passando dalla manutenzione a calendario flessibile a quella condizionata con monitoraggio continuo delle vibrazioni e dei consumi.
+- **Normativa:** EN 115-1 e la parte 2 per le verifiche (norme armonizzate per le scale mobili), DPR 162/1999 per l'installazione in Italia, D.Lgs 81/2008 per l'uso aziendale, le norme locali di sicurezza antincendio per i vani.
+- **Nota di cantiere:** La luce di installazione va calcolata sulla corsa più lunga e sulla manutenzione: il passaggio libero sotto la scala mobile va mantenuto; i collaudi iniziali con caricamento gradini sono obbligatori; l'addestramento del personale di esercizio è parte dell'installazione.
+
+### Scegliere e dimensionare l'ascensore: portata, velocità, servizio atteso
+
+**Categoria:** Selezione e dimensionamento · **Corso:** Ascensori e movimentazione verticale
+
+Un ascensore giusto non è il più grande: è quello con portata, velocità e numero giusti per il flusso di persone atteso. Il sovradimensionamento costa spazio e denaro, il sottodimensionamento crea code permanenti.
+
+- **Tecnologia e criteri:** La portata si sceglie sui flussi: abitazioni 4-6 persone (300-450 kg), uffici 8-13 (630-1000 kg), ospedali per barelle (20+ persone o ascensori letto); la velocità cresce con l'altezza di corsa (0,63-1 m/s in condominio, 1,6-2,5 m/s in torri); il tempo di percorso e il tempo di fermata definiscono la qualità del servizio; i calcoli di trasporto stimano l'attesa media nei palazzi alti; i gruppi multipli e la destinazione intelligente (destination control) ottimizzano i flussi intensi.
+- **Applicazioni:** Nuove costruzioni residenziali e direzionali, ristrutturazioni di hotel e ospedali, adeguamenti di stabili in cambio d'uso.
+- **Vantaggi:** Il dimensionamento corretto evita code negli orari di punta: il costo extra di un ascensore in più è minore del danno d'immagine di una hall con dieci persone in attesa; il destination control in uffici e hotel riduce l'attesa del 20-30%.
+- **Limiti e attenzioni:** Le simulazioni di flusso richiedono dati d'uso previsionali incerti; in edilizia residenziale i flussi sono imprevedibili: meglio un margine; la velocità alta in un edificio basso è inutile e fastidiosa (pressione auricolare, tempi morti).
+- **Costi ed economia:** Ordini di grandezza indicativi: ogni ulteriore fermata aggiunge costo all'apparato e al cantiere; il passage da 1 a 1,6 m/s incide sull'apparato ma non sul pozzo; i sistemi destination aggiungono 15-30% sull'impianto.
+- **Caso tipico:** Un hotel di 8 piani aveva code di 6 minuti alle 8:30: il gruppo era sottodimensionato. Con la riconfigurazione a controllo destinazione le attese sono scese a 90 secondi senza sostituire gli impianti.
+- **Normativa:** UNI EN 81-20 per i requisiti delle nuove installazioni; le raccomandazioni di settore (ISO 4190) sulle portate e dimensioni dei pozzi; DPR 162/1999 per l'installazione.
+- **Nota di cantiere:** Definire portata e velocità prima di progettare il pozzo: cambiarle dopo significa ripensare guide, macchina e quadro; negli edifici misti (uffici+residenze) prevedere gruppi separati per non mischiare i flussi.
+
+### Piattaforme elevatrici e montacarichi: il verticale dove l'ascensore non entra
+
+**Categoria:** Soluzioni compatte · **Corso:** Ascensori e movimentazione verticale
+
+Non sempre serve un ascensore: per piccoli dislivelli, carichi o contesti con pochi spazio ci sono le piattaforme elevatrici (per persone in carrozzina) e i montacarichi (per merci). Regimi, limiti e costi sono diversi, e va evitata la confusione tra i due mondi.
+
+- **Tecnologia e criteri:** Le piattaforme elevatrici: cabine aperte o chiuse a bassa velocità per dislivelli fino a pochi metri, con barre di comando a mantenimento premute (dead man's); i montacarichi: a cartella o a portello, per merci con personale di servizio, portate da 300 a 3000 kg; i montascale a piattaforma per scale esistenti senza pozzo; i sistemi a incastellatura con binari a parete o autoportanti; i vincoli: i montacarichi non trasportano persone salvo specifica omologazione.
+- **Applicazioni:** Negozi con mezzanino, scuole con piccoli dislivelli, case private su più livelli, ristoranti e laboratori per il servizio cucina.
+- **Vantaggi:** Costano la metà o meno di un ascensore e si installano in settimane; le piattaforme a incastellatura esterna risolvono dislivelli dove scavare il pozzo è impossibile; i montacarichi tolgono fatica e rischio dal trasporto merci interno.
+- **Limiti e attenzioni:** Le piattaforme hanno velocità e comfort inferiori: sono per tragitti brevi; i montacarichi trasportare persone è vietato se non omologato; il valore immobiliare di una piattaforma non equivale a quello di un ascensore vero.
+- **Costi ed economia:** Ordini di grandezza indicativi: piattaforma elevatrice 8-25k€; montacarichi a cartella 6-15k€; montascale a piattaforma 5-12k€; manutenzione più leggera dell'ascensore, 200-600 €/anno.
+- **Caso tipico:** Una biblioteca con un dislivello di 1,8 m tra sala e archivio ha installato una piattaforma a incastellatura in due settimane: costo un quarto dell'ascensore equivalente e accessibilità piena per i carrozzini.
+- **Normativa:** DPR 162/1999 anche per le piattaforme se nel suo perimetro, la direttiva macchine (D.Lgs 17/2010) e le norme di prodotto specifiche per le piattaforme elevatrici, i regolamenti di esercizio per i montacarichi con personale.
+- **Nota di cantiere:** Definire subito se trasporterà persone: cambia tutto (norme, collaudo, costi); le piattaforme esterne vanno progettate con il riparo dal gelo e dalla pioggia: i quadri a bordo soffrono; la pendenza della rampa di accesso alla piattaforma è il controllo più frequemente fallito.
+
+### Come funziona un ascensore: cabina, contrappeso, macchina e apparecchiature
+
+**Categoria:** Tecnologia di base · **Corso:** Ascensori e movimentazione verticale
+
+L'ascensore è il mezzo di trasporto verticale più diffuso al mondo: pochi componenti, un principio fisico semplice (il contrappeso bilancia la cabina) e un sistema di sicurezza ridondante. Conoscere i componenti permette di parlare con il manutentore e capire i preventivi.
+
+- **Tecnologia e criteri:** La cabina con telaio e pavimento viaggia sulle guide; il contrappeso (~peso cabina + 40-50% del carico) bilancia il sistema e riduce il lavoro del motore; la macchina (a ingranaggi o gearless) aziona le funi o il pistone; le apparecchiature di comando (quadro, inverter, scheda) regolano velocità e fermate; il limitatore di velocità e il paracadute sono i dispositivi di sicurezza ultimi; i fermi magnetici e i finecorsa definiscono i percorsi.
+- **Applicazioni:** Condòmini, uffici, hotel, ospedali, centri commerciali: ogni edificio sopra i pochi piani ne prevede almeno uno.
+- **Vantaggi:** Il contrappeso fa sì che il motore muova solo la differenza di peso: consumi ridotti rispetto a un sistema non bilanciato; l'azionamento con inverter rende le partenze e le frenate morbide e precise.
+- **Limiti e attenzioni:** Le funi sono elementi di usura da sostituire a scadenza; il pozzo e la sala macchine (o MRL senza sala) occupano spazio strutturale che va progettato prima; l'acqua in pozzo è il nemico numero uno di cabine e apparecchiature.
+- **Costi ed economia:** Ordini di grandezza indicativi: ascensore nuovo per condomino 30-80k€ installato; la manutenzione ordinaria 500-1.500 €/anno; la revisione funi ogni 5 anni circa come costo singolo rilevante.
+- **Caso tipico:** Un condominio ha ridotto i consumi del 40% sostituendo il vecchio avviatore stella-triangolo con un quadro a inverter: stessa macchina, stesse funi, metà bolletta.
+- **Normativa:** DPR 162/1999 (regime di installazione e manutenzione), UNI EN 81-20 e 81-50 (requisiti costruttivi delle nuove installazioni), D.Lgs 81/2008 per gli obblighi del datore di lavoro sugli ascensori di aziende.
+- **Nota di cantiere:** In ristrutturazione il pozzo esistente va rilavato e verificato in quota: un errore di un centimetro sui fermi si sente a ogni piano per trent'anni; la ventilazione del pozzo evita condense sulle schede; il vano macchina (se c'è) va tenuto asciutto e a temperatura controllata.
 
 
 ## Progettazione digitale CAD e BIM
@@ -2798,7 +2953,22 @@ Blocchi in cls o clinker che si incastrano su letto sabbioso: pavimentazioni per
 
 ## Materiali del futuro e costruzione innovativa
 
-*Corso `MATERIALI_DEL_FUTURO_PACK` — 9 voci*
+*Corso `MATERIALI_DEL_FUTURO_PACK` — 13 voci*
+
+### Il bambù strutturale certificato: il materiale che cresce in 5 anni
+
+**Categoria:** Bambù · **Corso:** Materiali del futuro e costruzione innovativa
+
+Il bambù ha resistenza specifica superiore all'acciaio e cresce come erba: nei tropici costruisce da millenni. La versione moderna 'certificata' (trattata e testata) arriva in Europa per opere leggere e temporanee.
+
+- **Tecnologia e criteri:** Le canne di bambù con diametri 4-12 cm e pareti cave; i trattamenti di conservazione (borace) che rendono le canne resistenti a tarli e funghi; i sistemi di connessione con fascette, giunti in acciaio e incollaggi; i pannelli e i parquet in fibra di bambù pressata per le finiture; le certificazioni strutturali con classi di resistenza dichiarate.
+- **Applicazioni:** Opere temporanee e padiglioni, arredi e pergole, coperture leggere in contesti tropicali, finiture e pavimenti in fibra pressata.
+- **Vantaggi:** La sostenibilità è massima: cresce di metri l'anno senza irrigazione; la resistenza al peso è eccezionale; l'estetica naturale è un valore di progetto.
+- **Limiti e attenzioni:** La durabilità naturale è bassa senza trattamento: il bambù non trattato dura 2-5 anni; il controllo qualità della canna è più variabile del legno lamellare; la normativa strutturale europea lo accetta con valutazioni specifiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: canne trattate certificate 5-15 €/ml; le opere specializzate 200-600 €/m²; le finiture in fibra pressata 30-80 €/m².
+- **Caso tipico:** Un padiglione espositivo temporaneo in bambù certificato è stato montato in una settimana per una biennale e smontato senza rifiuti: il materiale è tornato al fornitore per il riciclo.
+- **Normativa:** I prodotti in bambù seguono le valutazioni tecniche specifiche e le schede dei produttori certificati; le opere temporanee seguono le norme sulle strutture provvisionali; la reazione al fuoco richiede trattamenti dichiarati.
+- **Nota di cantiere:** Le canne vanno protette dalla pioggia diretta nei giunti: il ristagno uccide il bambù; le fascette metalliche vanno in inox per evitare le macchie; la verifica delle canne una per una in cantiere elimina i pezzi incrinati.
 
 ### I materiali bio-based: canapa, bambù, fibre naturali
 
@@ -2845,6 +3015,21 @@ I calcestruzzi evoluti superano i limiti del materiale classico: UHPC (Ultra Hig
 - **Normativa:** Norme sui calcestruzzi (EN 206 e specifiche produttori); per UHPC: linee guida e documenti d'applicazione ( SETRA/AFGC di riferimento internazionale).
 - **Nota di cantiere:** La regola: il materiale avanzato si giustifica nel costo del ciclo di vita, non nel prezzo d'acquisto.
 
+### I compositi fibrorinforzati strutturali: ponti, travi e rinforzi in FRP
+
+**Categoria:** FRP · **Corso:** Materiali del futuro e costruzione innovativa
+
+Le fibre di carbonio e vetro impregnate di resina creano materiali più leggeri dell'acciaio e resistenti alla corrosione: i profili in FRP costruiscono ponti pedonali, passerelle e rinforzi dove l'acciaio arrugginisce e il cls pesa troppo.
+
+- **Tecnologia e criteri:** I profili pultrusi (fibre tirate attraverso la resina in stampi): angolari, travi, tubi con marcatura e proprietà certificate; le armature in fibra di vetro per il cls al posto dell'acciaio in ambienti aggressivi (ponti marini, piscine); i connettori e le giunzioni con giunti incollati e bullonati; la protezione dal fuoco con intumescenti.
+- **Applicazioni:** Passerelle ciclabili e pedonali, parapetti e scale esterne, strutture in ambienti chimicamente aggressivi, rinforzi strutturali, arredi urbani.
+- **Vantaggi:** Peso un quarto dell'acciaio: i trasporti e i montaggi costano meno; immuni alla ruggine: niente manutenzione di verniciatura in ambiente marino; resistenza chimica per le piscine e le acque reflue.
+- **Limiti e attenzioni:** Il costo al chilo è 3-5 volte l'acciaio (il risparmio è nei cicli di vita); il comportamento al fuoco richiede la protezione; le giunzioni sono il punto debole: richiedono progettazione attenta.
+- **Costi ed economia:** Ordini di grandezza indicativi: profili in FRP 15-40 €/kg; la passerella FRP installata 400-900 €/m² contro 300-700 dell'acciaio zincato ma senza manutenzione; i rinforzi FRP applicati 80-150 €/m².
+- **Caso tipico:** Una passerella pedonale sul litorale è in profili FRP dopo che la precedente in acciaio ha richiesto tre riqualificazioni anti-ruggine in 15 anni: la FRP richiede solo lavaggi.
+- **Normativa:** Le verifiche strutturali secondo i documenti tecnici di settore e le linee guida sulle strutture in compositi; i prodotti con ETA o valutazione del comportamento; il fuoco secondo le classi di reazione e le protezioni previste.
+- **Nota di cantiere:** I profili FRP si tagliano con lame al diamante: le seghe comune le sfaldano; le viti e i bulloni in inox evitano le corrosioni galvaniche; la posa in estate richiede attenzione alla dilatazione: il FRP si dilata di più dell'acciaio.
+
 ### Come valutare un materiale innovativo: TRL, LCA, norme
 
 **Categoria:** Innovazione criteri · **Corso:** Materiali del futuro e costruzione innovativa
@@ -2859,6 +3044,21 @@ Il professionista di fronte all'innovazione usa strumenti: il TRL (Technology Re
 - **Caso tipico:** Materiale isolante 'rivoluzionario' proposto dal rappresentante: TRL 4, nessuna EPD, track record zero: la verifica ha evitato un cappotto sperimentale su 40 appartamenti; tre anni dopo il prodotto non esiste più.
 - **Normativa:** UNI EN ISO 14040/44 (LCA); regolamento UE 305/2011 (marcatura CE); linee guida TRL (NASA-origin, uso settoriale).
 - **Nota di cantiere:** La frase da insegnare: 'Mi mostri EPD, marcatura CE, casi studio di 5 anni e il costo del ciclo di vita' — quattro richieste che smascherano il 90% delle innovazioni premature.
+
+### I leganti a basso impatto: geopolimeri, magnesiaci e calci speciali
+
+**Categoria:** Leganti verdi · **Corso:** Materiali del futuro e costruzione innovativa
+
+La produzione del cemento pesa per l'8% delle emissioni globali di CO2: i leganti alternativi (geopolimeri da scorie e metakaolin, magnesiaci dalla magnesite, calci speciali) promettono calcestruzzi con impronta carbonica ridotta del 40-80%.
+
+- **Tecnologia e criteri:** I geopolimeri: reazione tra metakaolin o scorie d'alto forno e attivatori alcalini: induriscono come la ceramica; i leganti magnesiaci: carbonato di magnesio reagente con sali e filler; le calcie speciali NHL per il restauro compatibile; i cls con clinker ridotto e aggiunte minerali (cenere, fumo di silice) già oggi nel commercio.
+- **Applicazioni:** Elementi prefabbricati, cls di struttura con requisiti ambientali, restauro con malte NHL, ambienti aggressivi dove i geopolimeri resistono meglio.
+- **Vantaggi:** La riduzione di CO2 è drastica: il geopolymerico arriva a -80%; i geopolimeri resistono agli attacchi chimici meglio del Portland; alcuni leganti assorbono CO2 in carbonatazione attiva.
+- **Limiti e attenzioni:** La filiera è giovane: i prodotti standardizzati sono pochi; l'attivatore alcalino dei geopolimeri richiede cautele di maneggiamento; la normativa strutturale li accetta con percorso specifico (valutazioni tecniche).
+- **Costi ed economia:** Ordini di grandezza indicativi: geopolimerici +20-50% sul cls tradizionale oggi, in calo con le scale; le malte NHL 2-4 volte la malta cementizia.
+- **Caso tipico:** Una pavimentazione industriale in cls con clinker ridotto al 50% ha raggiunto le stesse prestazioni del tradizionale con il 40% di CO2 in meno: il costo extra è stato il 5%.
+- **Normativa:** I cls con aggiunte seguono la UNI EN 206 e le norme nazionali di applicazione; i leganti non tradizionali seguono la strada delle valutazioni tecniche (ETA) e delle specifiche progettuali dedicate.
+- **Nota di cantiere:** I geopolimeri hanno tempi di posa diversi: la maturazione va verificata; le malte NHL si posano con tecniche diverse dal cemento: le squadre vanno formate.
 
 ### I rivestimenti intelligenti: aerogel, PCM, termocromici
 
@@ -2904,6 +3104,21 @@ Il riciclato avanzato trasforma rifiuti in risorsa strutturale: plastiche ricicl
 - **Caso tipico:** Pista ciclabile in asfalto con gomma riciclata: il rumore al passaggio delle bici è ridotto percettibilmente e l'elasticità ha migliorato il comfort; il Comune ha usato il dato per la comunicazione ambientale del bando Europa.
 - **Normativa:** Normative sui materiali riciclati (CTU e linee guida nazionali; marcatura CE dove applicabile); norme ambientali sui rifiuti (D.Lgs 152/2006).
 - **Nota di cantiere:** La regola: il riciclato serio ha certificazione di provenienza e di prestazione: 'è riciclato' non basta.
+
+### I materiali che si misurano: sensori integrati e cls smart
+
+**Categoria:** Sensori integrati · **Corso:** Materiali del futuro e costruzione innovativa
+
+La prossima generazione di materiali 'parla': fibre ottiche e sensori integrati nel calcestruzzo e nelle strutture riportano deformazioni, temperature e umidità in tempo reale. L'edilizia diventa manutenibile in modo predittivo.
+
+- **Tecnologia e criteri:** Le fibre ottiche distribuite lungo la struttura misurano deformazioni e temperature su chilometri; i sensori MEMS incastonati nel cls rilevano vibrazioni e cedimenti; i sistemi di monitoraggio strutturale (SHM) con centraline e trasmissione dati; i cls 'self-sensing' con fibre conduttive che variano resistenza con le deformazioni.
+- **Applicazioni:** Ponti e viadotti monitorati, dighe e grandi opere, edifici in zona sismica con centraline permanenti, pavimenti industriali monitorati per i carrelli.
+- **Vantaggi:** La manutenzione predittiva sostituisce quella programmata: si interviene quando serve davvero; la vita residua si stima sui dati reali; le assicurazioni premiano le strutture monitorate.
+- **Limiti e attenzioni:** Il costo dell'installazione e della piattaforma dati è significativo; i dati vanno interpretati da chi sa leggerli: il sensore da solo non salva nessuno; la durata dei sensori nel cls è decennale ma va verificata.
+- **Costi ed economia:** Ordini di grandezza indicativi: monitoraggio di un viadotto 50-300k€ di primo impianto; le piattaforme cloud di gestione dati 5-20k€/anno.
+- **Caso tipico:** Un viadotto autostradale con monitoraggio continuo ha anticipato di due anni la sostituzione dei giunti: il costo del monitoraggio è stato un decimo del danno evitato.
+- **Normativa:** I sistemi di monitoraggio seguono le norme tecniche di settore e le specifiche progettuali; la sicurezza dei dati e delle comunicazioni segue le regole del gestore; per le opere pubbliche gli obblighi di monitoraggio seguono le normative di settore.
+- **Nota di cantiere:** I sensori vanno posizionati dove la struttura 'racconta': il progetto dei punti di misura è parte del progetto strutturale; la protezione dei cavi e delle centraline dal cantiere è critica; il collaudo dei sistemi di monitoraggio si fa prima del getto.
 
 ### La stampa 3D in edilizia: cosa può e cosa non può
 

@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-771 voci enciclopediche tratte da 44 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+801 voci enciclopediche tratte da 45 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -67,6 +67,8 @@
   Il contenimento su misura è il grande assente dalle planimetrie e la prima lamentela d'uso: armadi a muro (anta o patta), cabine armaggio (minimo 90×120 cm, meglio 120×160), guardaroba con configurazioni interne (doppie …
 - **Art direction: la coerenza di marca negli spazi** — Art direction · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Come un brand vive negli spazi: identità, materiali, racconto.
+- **Ascensori e accessibilità: portare l'edificio a chiunque** — Accessibilità · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  L'ascensore è il cuore dell'accessibilità: le norme definiscono porte, comandi, segnali e dimensioni per rendere l'impianto usabile da chi si muove in carrozzina, da non vedenti e da chiunque abbia ridotte capacità motor…
 - **Ascensori e piattaforme elevatrici: obblighi e scelte** — Ascensori · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   L'abbattimento barriere verticali si fa con ascensori (obbligatori sopra certi piani/attività), piattaforme elevatrici (per dislivelli ridotti e carichi limitati) e montacarichi; gli impianti sono sottoposti a regole pre…
 - **Assonometrie, prospettive e resa del progetto** — Assonometrie e prospettive · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -183,6 +185,8 @@
   Il colore come strumento progettuale: teoria, percezione, applicazione.
 - **Combinazioni delle azioni e stati limite** — Combinazioni · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Come si mettono insieme le azioni: le regole del gioco del calcolo strutturale.
+- **Come funziona un ascensore: cabina, contrappeso, macchina e apparecchiature** — Tecnologia di base · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  L'ascensore è il mezzo di trasporto verticale più diffuso al mondo: pochi componenti, un principio fisico semplice (il contrappeso bilancia la cabina) e un sistema di sicurezza ridondante. Conoscere i componenti permette…
 - **Come valutare un materiale innovativo: TRL, LCA, norme** — Innovazione criteri · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   Il professionista di fronte all'innovazione usa strumenti: il TRL (Technology Readiness Level: scala 1-9 dalla ricerca al prodotto commerciale), la LCA (Life Cycle Assessment: il bilancio ambientale dall'estrazione alla …
 - **Compensato (plywood)** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -379,6 +383,8 @@
   L'isolamento acustico di un elemento si valuta con indici in dB: il Rw (laboratorio), il DnT,w normalizzato per il tempo di riverberazione (in opera), con correzioni spettrali C e Ctr per rumore tipo (voce, traffico, aer…
 - **Gli investimenti immobiliari: rendite, cash flow, leva** — Investimenti · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   L'immobile come investimento si misura su: rendita lorda (canone/valore), rendita netta (al netto di spese, tasse, vuoto), cash flow mensile (entrata - rata mutuo - costi), plusvalenza (rivalutazione del capitale); la le…
+- **Gli spazi ufficio nel capannone: mezzanini, partizioni e acustica** — Interni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
+  Il capannone moderno ospita uffici, spogliatoi e mense al piano terra o sui mezzanini: la costruzione leggera a secco divide e sovrappone gli spazi senza toccare la struttura portante. L'acustica e la sicurezza diventano…
 - **Gli standards urbanistici e le dotazioni** — Standards · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Le leggi (DM 1444/1968 e leggi regionali) fissano gli standard minimi di servizi urbani per abitante: scuole ( mq/abitante), verde, parcheggi, servizi sociali, deporti; sui nuovi insediamenti il privato deve dotarli o ve…
 - **Gli stili di interno: da classico a contemporaneo, con occhio critico** — Interior stili · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -431,6 +437,8 @@
   Il cuore della distribuzione moderna: il collettore e i vantaggi del pettine.
 - **I componenti elettrici dell'impiantista: quadri, magnetotermici, differenziali** — Componenti elettrici · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   L'hardware elettrico che ogni impiantista tocca ogni giorno.
+- **I compositi fibrorinforzati strutturali: ponti, travi e rinforzi in FRP** — FRP · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
+  Le fibre di carbonio e vetro impregnate di resina creano materiali più leggeri dell'acciaio e resistenti alla corrosione: i profili in FRP costruiscono ponti pedonali, passerelle e rinforzi dove l'acciaio arrugginisce e …
 - **I consolidamenti strutturali: cerchiature, FRP e iniezioni** — Consolidamento · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Quando il muro non regge più (fessurazioni, terremoto, sovraccarichi) si può rinforzare senza demolire: le tecniche moderne aggiungono resistenza con interventi minimi e reversibili dove possibile.
 - **I flussi ospedalieri: puliti, sporchi, pubblici e sanitari** — Flussi · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
@@ -441,6 +449,8 @@
   I gas medicinali sono farmaci che viaggiano in tubi: ossigeno, aria medicale, protossido di azoto e vuoto chirurgico arrivano ai letti e alle sale da centrali dedicate con reti separate, monitorate e certificate. Un erro…
 - **I gruppi di pressurizzazione e le autoclavi** — Idraulica — pressurizzazione · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Quando la pressione di rete non basta ad alimentare un edificio (altezze elevate, utenze contemporanee, giardini, sprinkler), entra in gioco il gruppo di pressurizzazione: pompa più autoclave che mantiene la pressione de…
+- **I leganti a basso impatto: geopolimeri, magnesiaci e calci speciali** — Leganti verdi · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
+  La produzione del cemento pesa per l'8% delle emissioni globali di CO2: i leganti alternativi (geopolimeri da scorie e metakaolin, magnesiaci dalla magnesite, calci speciali) promettono calcestruzzi con impronta carbonic…
 - **I livelli di affidabilità Tier e la ridondanza N+1** — Affidabilità · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   Un data center non può spegnersi: il settore ragiona per livelli di disponibilità (Tier I-IV) che definiscono quante componenti in più (ridondanza) ci devono essere per garantire la continuità anche quando qualcosa si gu…
 - **I manti di copertura: tegole, lastre metalliche, membrane** — Manti · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -449,6 +459,8 @@
   I PCM (Phase Change Materials) immagazzinano calore come la ghicciolo? No: come il ghiaccio nella borsa frigo: assorbono calore fondendosi e lo restituiscono solidificando; integrati in intonaci, mattoni o pannelli, 'rad…
 - **I materiali bio-based: canapa, bambù, fibre naturali** — Bio-based · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   I materiali da fonti biologiche crescono rapidi e sequestrano CO2: canapa edile (calce-canapa, blocchi, isolanti: ottimo isolante igrometrico), bambù strutturale (tuboli con resistenza specifica paragonabile all'acciaio)…
+- **I materiali che si misurano: sensori integrati e cls smart** — Sensori integrati · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
+  La prossima generazione di materiali 'parla': fibre ottiche e sensori integrati nel calcestruzzo e nelle strutture riportano deformazioni, temperature e umidità in tempo reale. L'edilizia diventa manutenibile in modo pre…
 - **I materiali degli infissi: legno, alluminio, PVC, acciaio, misti** — Materiali · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il telaio del serramento si sceglie per durabilità, isolamento, manutenzione e prezzo: legno (nobile, isolante, va mantenuto ogni 4-6 anni), alluminio (sottile, resistente, ponti termici da gestire), PVC (economico, isol…
 - **I materiali per interni: resilienza, manutenzione, pregio** — Materiali interni · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -457,6 +469,8 @@
   Il riciclato avanzato trasforma rifiuti in risorsa strutturale: plastiche riciclate in elementi arredo e tubazioni, aggregati da demolizione selezionata (con percentuali crescenti nel calcestruzzo), CO2 mineralizzata nel…
 - **I mezzi di estinzione: estintori, idranti, naspi** — Estinzione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   I mezzi di estinzione manuali sono la prima risposta: estintori a polvere (universali, sporcano), a CO2 (locali elettrici, non lasciano residui), idranti a parete con naspo (portata e getto minimo per attività), impianti…
+- **I pannelli coibentati e l'involucro industriale: tenuta, ponti termici e durabilità** — Involucro · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
+  Il capannone moderno è un involucro di pannelli coibentati che fanno da parete, copertura e isolamento in un colpo solo. La differenza tra un involucro che dura 30 anni e uno che perde in 5 sta nei dettagli di posa e nei…
 - **I parcheggi: progettare l'auto senza rovinare il quartiere** — Parcheggi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   Il parcheggio è spazio urbano critico: box interrati (costosi ma salvano superficie), parcheggi a raso (economici ma divorano territorio), parcheggi scambiatori e parcheggi di quartiere; la normativa chiede minimi (posti…
 - **I pavimenti industriali: il pavimento che porta carrelli** — Pavimenti industriali · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -481,6 +495,8 @@
   Lo stato di avanzamento lavori è la dichiarazione periodica (di regola mensile) del valore dei lavori eseguiti: base dei pagamenti a rate, del monitoraggio economico e della verifica dei tempi di consegna.
 - **I serramenti in ristrutturazione: misure in opera, controtelai e correzioni** — Posa e ristrutturazione · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Montare serramenti nuovi in murature esistenti è il lavoro più delicato del settore: le misure vanno prese sul posto, le quote fuori squadro vanno corrette con i controtelai, e la tenuta tra vecchio e nuovo decide le pre…
+- **I sistemi a telaio leggero: platform frame e balloon frame** — Sistemi a telaio · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
+  La costruzione a telaio leggero è il metodo nord-americano e oceaniano per costruire case intere con travetti e pannelli: veloce, economico, isoltante. Platform e balloon frame sono le due scuole, con comportamenti e lim…
 - **I sistemi ibridi FV + batteria + rete + generatore: il dimensionamento integrato** — Ibridi · corso: *Dimensionamento di fotovoltaico, eolico e accumulo* (`DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK`)
   L'impianto che non si ferma mai: logica e dimensionamento degli ibridi.
 - **I subappalti: la catena della responsabilità** — Responsabilità · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
@@ -505,6 +521,8 @@
   Pittura a base acqua per interni: la finitura standard di ogni parete: traspirante, veloce, economica.
 - **IFC: il formato aperto per lo scambio dei modelli** — IFC e openBIM · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   IFC (Industry Foundation Classes, ISO 16739) è lo schema aperto con cui i modelli BIM passano tra software diversi: geometria, proprietà, gerarchie di oggetti; è la base dell'openBIM (collaborazione senza vincolo a un un…
+- **Il bambù strutturale certificato: il materiale che cresce in 5 anni** — Bambù · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
+  Il bambù ha resistenza specifica superiore all'acciaio e cresce come erba: nei tropici costruisce da millenni. La versione moderna 'certificata' (trattata e testata) arriva in Europa per opere leggere e temporanee.
 - **Il BIM nelle gare pubbliche italiane** — BIM e gare · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Con il DM 312/2021 il BIM è obbligatorio per le commesse pubbliche oltre soglia progressiva (interamente dal 2025 per lavori > 1 M€): gare con requisiti informativi, consegna IFC, a volte premi di qualità informativa; le…
 - **Il Bosco Verticale (Milano, 2014): il grattacielo che respira** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -623,6 +641,8 @@
   L'umidità è il nemico silenzioso del legno: gonfia, ritrae (fino all'8% in larghezza), marcisce ai ristagni; la protezione è nei dettagli: il legno strutturale resta in classe di umidità 1-2 (interno protetto o sotto cop…
 - **Il legno in sisma: la leggerezza che protegge** — Sismica · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno è il materiale con il miglior rapporto resistenza/peso: nelle scosse, le forze sismiche sono proporzionali alla massa — un edificio in legno pesa 4-5 volte meno di uno in calcestruzzo, quindi subisce forze 4-5 v…
+- **Il legno lamellare e i prodotti derivati: LVL, I-joist, OSB e massivi** — Prodotti derivati · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
+  Oltre al tavolato e all'X-Lam, l'edilizia moderna in legno usa una famiglia di prodotti industriali dalle prestazioni calibrate: il lamellare incollato, il legno microlamellare (LVL), le travi a I e i pannelli OSB. Conos…
 - **Il legno strutturale in formule: flessione e taglio** — Legno · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule del legno lamellare: leggero ma esigente.
 - **Il linguaggio del disegno tecnico: perché esiste** — Fondamenti · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -767,6 +787,8 @@
   Trovare lavoro è la prima funzione dell'impresa: ricerca commesse su portali (bandi, subentri, privati), rete di collaboratori (architetti, studi, immobiliaristi), presenza digitale; per ogni commessa: analisi fattibilit…
 - **L'acustica degli ambienti di lavoro: open space, sale riunione, call center** — Interni · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Negli ambienti di lavoro l'obiettivo non è il silenzio ma la comprensibilità: il tempo di riverberazione, il rumore di fondo e la distanza critica determinano quanto si lavora bene (e quanto si stanca) in open space, sal…
+- **L'acustica degli edifici in legno: il comfort silenzioso si progetta** — Acustica · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
+  Il legno è leggero e questo fa paura sul suono: ma l'edilizia in legno può raggiungere ottimi isolamenti acustici se le stratigrafie sono corrette. Il segreto è la massa aggiunta e gli strati sfalsati, non il materiale n…
 - **L'acustica dei serramenti: Rw e la scelta per zone rumorose** — Acustica · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il serramento è il punto debole acustico dell'involucro: la sua capacità di isolamento si esprime con il valore Rw (dB) misurato in laboratorio, e la scelta corretta dipende dal rumore esterno (strade, ferrovie, aerei) e…
 - **L'acustica delle camere d'albergo: il silenzio è il primo servizio** — Acustica · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
@@ -783,6 +805,10 @@
   L'APE (Attestato di Prestazione Energetica) è il documento che certifica la prestazione energetica di un edificio o unità immobiliare: obbligatorio in vendita, locazione, nuova costruzione e ristrutturazione rilevante, r…
 - **L'arredo urbano: panchine, giochi, ciclabili, illuminazione** — Arredo urbano · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   L'arredo urbano qualifica lo spazio pubblico: panchine e sedute, giochi per bambini (con norme di sicurezza UNI EN 1176), arredi per anziani, fontane, ciclobox, tavoli, segnaletica, superfici drenanti; la qualità dell'ar…
+- **L'ascensore dove non c'era: installazione in edifici esistenti** — Installazione in edificio esistente · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  Il 70% del patrimonio edilizio italiano è senza ascensore: l'installazione in opera esistente è un intervento strutturale completo, con vincoli che vanno dall'appezzamento del vano scala alla luce del tetto.
+- **L'ascensore energetico: consumi, rigenerazione e scelte efficienti** — Energia e sostenibilità · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  L'ascensore pesa per l'1-5% dei consumi elettrici di un edificio: le scelte giuste (inverter, LED, rigenerazione) lo trasformano da utenza a quasi-nulla, e in regime smart building diventa anche flessibile per la rete.
 - **L'attuazione urbanistica: lottizzazioni, convenzioni, piani di recupero** — Attuazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenzionata (l'imprenditore costruisce infrastrutture e standard in cambio delle aree edificabili), piani di recupero (edilizia consolidata), pro…
 - **L'economia del legno: costi, tempi, mercato** — Economia · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
@@ -863,6 +889,8 @@
   La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definitiva, certificato di regolare esecuzione (nei pubblici, che libera la ritenuta di garanzia), restituzione delle garanzie e attivazione del pe…
 - **La classificazione dei terreni: UNI EN ISO 14688** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   I terreni si classificano per granulometria: argilla (<0,002 mm), limo (0,002-0,063 mm), sabbia (0,063-2 mm), ghiaia (2-63 mm); la presenza di acqua e la plasticità (limiti di Atterberg) distinguono il comportamento coes…
+- **La climatizzazione dei capannoni: riscaldamento ad alta quota, destratificazione e ventilazione** — Climatizzazione · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
+  Riscaldare un capannone di 8 metri di altezza come un ufficio è uno spreco: l'aria calda sale e il pavimento resta freddo. La climatizzazione industriale ragiona in zone, in destratificazione e in ricambio d'aria control…
 - **La climatizzazione di precisione: freddo per i server** — Climatizzazione · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   I server scaldano in continuazione: la climatizzazione di precisione mantiene 22-27 °C e umidità 40-60% (con tolleranze strette, i server sono delicati); i sistemi: CRAC/CRAH (unità di precisione a liquido o ad aria), i …
 - **La compartimentazione: limitare la propagazione** — Compartimentazione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
@@ -895,6 +923,8 @@
   Il disastro più grave della storia dell'ingegneria italiana: 1917 morti nella notte del 9 ottobre 1963.
 - **La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0** — Digitalizzazione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   La trasformazione digitale dell'impresa edile parte dalla contabilità e arriva al cantiere: gestionale contabile integrato, fatturazione elettronica, ordini e magazzino digitali, presenze cantieri via app, documenti di c…
+- **La durabilità del legno: classi di rischio, trattamenti e manutenzione** — Durabilità · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
+  Il legno dura secoli o marcisce in 5 anni: la differenza è la scelta della specie, la protezione dalla pioggia e l'uso corretto per la classe di rischio. La durabilità si progetta, non si spera.
 - **La falegnameria su misura: boiserie, librerie, arredi custom** — Custom · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il legno costruito su misura: la sartoria dell'interior design.
 - **La fatica strutturale: quando le ripetizioni rompono** — Fatica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
@@ -903,6 +933,8 @@
   Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa alla più rumorosa) con limiti di immissione differenziati per periodo (diurno/notturno) e per tipo di sorgente; la zonizzazione acustica la …
 - **La geotecnica in formule: portanza, spinta, cedimenti** — Geotecnica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule del terreno: capire cosa regge e cosa spinge.
+- **La gestione dei fumi: sfumatoi, pressioni e il controllo dell'evacuazione** — Gestione fumi · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
+  Nell'incendio la vittima n.1 è il fumo: le sale gremite degli edifici pubblici si evacuano in sicurezza se i fumi vanno dove li mandiamo noi. La gestione attiva dei fumi usa sfumatoi, ventilazione e pressioni controllate…
 - **La lattoneria: grondaie, pluviali e tutti i particolari che fanno durare il tetto** — Lattoneria · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   L'acqua che non viene raccolta bene rovina facciate e fondamenta: grondaie, pluviali, gocciolatoi e salienti (colmi, ricorsi) sono la 'plastica chirurgica' del tetto. Sono il 5% della copertura e il 50% dei problemi quan…
 - **La lavanderia alberghiera: il giro della biancheria** — Lavanderia · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
@@ -923,6 +955,8 @@
   Il tetto va ispezionato ogni anno (o dopo eventi eccezionali): lo smaltimento del fogliame dalle gronde, il controllo dei fissaggi e delle guaine, la verifica dei pluviali, la pulizia delle zone 'fredde'; la manutenzione…
 - **La manutenzione del verde: il contratto che fa vivere il giardino** — Manutenzione verde · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   Il verde senza manutenzione muore o diventa pericolo: potature, concimazioni, irrigazione, trattamenti fitosanitari (con regole sui prodotti), sfalci, sostituzioni; la manutenzione si programma annualmente (calendario) e…
+- **La manutenzione dell'ascensore: scadenze, obblighi e controllo del servizio** — Manutenzione · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  L'ascensore è l'impianto più regolamentato della casa: la manutenzione non è un consiglio ma un obbligo di legge, con scadenze precise e un registro che documenta tutto. Un condominio organizzato evita fermi e sanzioni.
 - **La manutenzione delle infrastrutture viarie: il valore del preservare** — Manutenzione · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   La manutenzione programmata delle strade costa una frazzione della ricostruzione: il ciclo preserva (sigillature, microtappeti), mantiene (rattoppi, ripristini), riabilita (risurfacing) e ricostruisce; la logica è interv…
 - **La manutenzione delle macchine termiche: controlli, periodicità e documentazione** — Manutenzione · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -937,6 +971,8 @@
   La misura dell'isolamento in opera segue metodi standardizzati: ISO 140 (serie classica) e ISO 16283 (metodi operativi per il sito, in tre parti per isolamento all'aria, calpestio e facciate), con sorgente sonora, microf…
 - **La modellazione agli elementi finiti (FEM): potenza e trappole** — Elementi finiti · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   SAP2000, STAAD, Midas, Robot: come funziona il software e dove mente.
+- **La modernizzazione: rinnovare l'ascensore vecchio senza buttare il pozzo** — Modernizzazione · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  Quando l'impianto ha 25-30 anni, la modernizzazione parziale o totale mantiene il pozzo e le guide e sostituisce tutto il resto: macchina, quadro, cabina, porte. È l'intervento che restituisce sicurezza e consumi a una f…
 - **La moodboard professionale: come si documenta un progetto** — Moodboard · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   La moodboard è il documento che traduce il gusto in scelte: palette colori, materiali (campioni fisici o immagini), referenze iconografiche, arredi selezionati, il 'perché' di ogni scelta; è lo strumento che allinea clie…
 - **La muratura strutturale in formule: verifica semplificata dei setti** — Muratura · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
@@ -953,6 +989,8 @@
   Il miglior serramento del mondo installato male è una perdita di denaro: la posa corretta gestisce il sopralluce, l'ancoraggio al muro, la coibentazione dello spazio tra telaio e muratura, la tenuta all'acqua con i siste…
 - **La prefabbricazione industriale avanzata** — Prefabbricazione · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   La prefabbricazione sposta la produzione dal cantiere allo stabilimento: elementi in c.a. (travi, pilastri, lastre), scatolari, pannelli di facciata, moduli completi (volumi); i benefici sono industriali: qualità control…
+- **La prevenzione incendi nei locali tecnici: centrali termiche, pozzi luce e ricarica veicoli** — Locali rischio · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
+  I locali tecnici concentrano energia e combustibili: centrali termiche con gas e combustibili liquidi, pozzi luce con quadri elettrici, locali di ricarica dei veicoli elettrici. Ognuno ha il suo quadro di prevenzione spe…
 - **La prevenzione incendi: quadro normativo e logica** — Quadro · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   La prevenzione incendi italiana si basa sul D.M. 03/08/2015 (norme tecniche di prevenzione incendi): le attività sono classificate per livello di rischio (basso, medio, alto) e conseguente regime (SCIA antincendio, autor…
 - **La produzione: pianificazione e gestione del cantiere come impresa** — Produzione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -975,6 +1013,8 @@
   L'art. 1669 c.c. (responsabilità del costruttore e dell'impresa) prescrive: se entro 10 anni (decennale) l'immobile mostra vizi o crolli per difetto della costruzione o del terreno, il costruttore è tenuto al risarciment…
 - **La rete gas domestica: dal contatore ai punti di utilizzo** — Impianti a gas · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   La rete interna di distribuzione del gas porta il combustibile dal contatore alle utenze (caldaia, cucina, scaldabagno) con criteri di sicurezza molto stringenti: camere stagne sugli apparecchi a fiamma libera, valvole d…
+- **La rivelazione e l'allarme: rivelatori indirizzati e centrale di controllo** — Rivelazione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
+  Sapere subito dove è il fuoco cambia tutto: i sistemi di rivelazione indirizzati dicono la posizione esatta dell'allarme alla centrale, ai soccorsi e al personale. La scelta del tipo di rivelatore (fumo, calore, fiamma, …
 - **La Sagrada Familia (1882-in costruzione): il cantiere eterno** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   La basilica di Gaudí a Barcellona: in costruzione da 140 anni, completamento previsto 2026-2030.
 - **La scelta delle essenze: alberi, arbusti, prati per il clima italiano** — Essenze · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
@@ -1043,6 +1083,8 @@
   Lamiere di rame, zinco-titanio o alluminio preverniciato per gronde, camini e dettagli di copertura.
 - **Layout robotizzato dal modello BIM** — BIM-to-Robot · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Robot che tracciano e posano da soli layout di cantiere e componenti partendo dal BIM.
+- **Le aree esterne dello stabilimento: viabilità interna, banchine e pavimentazioni** — Esterni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
+  Il capannone finisce alla porta del portone: fuori ci sono le piste di manovra dei mezzi pesanti, le banchine di carico, i piazzali drenanti e i marciapiedi. L'area esterna progettata male blocca la logistica e allaga co…
 - **Le aste immobiliari: opportunità e procedure** — Aste · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Le aste giudiziarie vendono immobili pignorati con sconti potenziali del 20-50% rispetto al mercato, ma con rischi: immobili occupati (svuotamento a carico dell'aggiudicatario), vizi e abusi, spese di custodia, riscatto …
 - **Le azioni sulle struttura: carichi permanenti, variabili, eccezionali** — Azioni · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -1059,10 +1101,14 @@
   La copertura della piscina non è un optional: mantiene il calore (il 70% delle perdite è evaporazione), mantiene pulita l'acqua (le foglie e la polvere), aumenta la sicurezza (i bambini e gli animali), prolunga la vita d…
 - **Le coperture piane: guaine, vespai e il mito del tetto che non perde mai** — Coperture piane · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Il tetto piano è pratico e moderno ma perde al primo errore di posa: la guaina è una pelle continua che il sole degrada e le giunture tradiscono. Il principio cardine è il vespaiato: l'aria che scorre sotto la guaina la …
+- **Le coperture retrattili e pieghevoli: l'edificio che si apre** — Coperture mobili · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
+  Stadi e piscine olimpiche hanno coperture che si aprono e chiudono in pochi minuti: l'ingegneria dei meccanismi si somma a quella strutturale. Il movimento continuo impone precisione e manutenzione particolari.
 - **Le coperture verdi: tetti giardino** — Coperture verdi · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   I tetti giardino trasformano la copertura in spazio verde: stratigrafia a rovescio su piano orizzontale: protezione radici, drenaggio, filtro, substrato colturale, vegetazione; i benefici: isolamento termico aggiuntivo, …
 - **Le cucine professionali: il cuore caldo dell'albergo** — Cucine · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La cucina professionale (laboratorio + linea di cottura + lavaggio) è un'officina gastronomica: i flussi (la merce entra, il cibo esce, i piatti lavati tornano), la ventilazione (le cappe aspirano vapore e grassi: l'impi…
+- **Le cupole: la geometria che copre senza pilastri** — Cupole · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
+  La cupola è la copertura più antica delle grandi luci: dalla Pantheon al Brunelleschi, converte il peso in compressione lungo nervature e meridiani. La sua costruzione richiede la forma giusta, i materiali giusti e una m…
 - **Le detrazioni fiscali per l'edilizia: il sistema e i suoi limiti** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Le detrazioni fiscali restano il grande strumento dell'edilizia italiana: la detrazione del 50% per ristrutturazioni (limite 96.000 €) è la misura strutturale, mentre le aliquote 'energetiche' sono state ridotte e modifi…
 - **Le dighe record: Hoover, Itaipu, Tre Gole, Grande Dixence** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -1149,8 +1195,12 @@
   Le strutture miste sfruttano la collaborazione acciaio-calcestruzzo: travi con piattabanda (slim floor), solette collaboranti su lamiera grecata, colonne riempite (CFST: concrete-filled steel tubes); il vantaggio è l'alt…
 - **Le strutture esistenti: rilievo, indagini, valutazione** — Strutture esistenti · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   L'80% del lavoro italiano: capire quello che esiste e decidere se regge.
+- **Le strutture gonfiabili: padiglioni, coperture e magazzini d'aria** — Strutture pneumatiche · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
+  La copertura che si regge con l'aria: membrane tenute in tensione da una pressione interna costante, dai padiglioni temporanei ai magazzini industriali interi. L'aria è la struttura: gestirla significa gestire il vento, …
 - **Le strutture in vetro: la trasparenza strutturale** — Strutture vetro · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Il vetro strutturale porta carichi: facciate a montanti e traversi, coperture reticolari in vetro, scale e pavimenti calpestabili; il vetro è fragile a urto e a tensioni concentrate: il progetto si gioca sui bordi, i for…
+- **Le strutture sospese: cavi, catenarie e la forma della forza** — Strutture sospese · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
+  Punti o grandi coperture: quando la luce è enorme, la struttura funziona come una fune tesa tra due appoggi. L'ingegneria dei cavi usa la forma della catenaria (la curva che la fune descrive da sola) per trasformare peso…
 - **Le tavole esecutive: il disegno che va in cantiere** — Tavole esecutive · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Le tavole esecutive traducono il progetto definitivo in istruzioni operative: posizioni, quote, materiali con riferimento al capitolato, dettagli costruttivi, lavorazioni connesse, con la precisione sufficiente a che ogn…
 - **Le tendenze dei materiali: dal microcemento al legno di recupero** — Tendenze materiali · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -1167,6 +1217,8 @@
   I rubinetti che regolano l'acqua: i 6 tipi che devi conoscere.
 - **Le varianti in corso d'opera: quando, come, entro quanto** — Varianti · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   La variante in corso d'opera modifica il contratto durante l'esecuzione (materiali diversi, aggiunte, eliminazioni): nei lavori pubblici il limite complessivo è il 20% dell'importo contrattuale, con approvazione del dire…
+- **Le verifiche periodiche antincendio: il calendario che salva l'edificio** — Verifiche · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
+  L'impianto antincendio funziona se qualcuno lo prova: le verifiche periodiche (estintori, porte tagliafuoco, rivelatori, idranti, luci di emergenza) sono obblighi di legge con scadenze precise e verbali che dimostrano la…
 - **Le verifiche sulle strutture esistenti in formule** — Verifica esistenti · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule della valutazione: come si 'legge' la capacità di una struttura che esiste.
 - **Le vie di esodo: requisiti geometrici e funzionali** — Vie esodo · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
@@ -1301,6 +1353,8 @@
   Gli oscuranti esterni sono la prima schermatura solare: persiane (tradizione italiana, ottime in estate), tapparelle (comode, isolano), frangisole orientabili (prestazionali, architettonici), tende da sole per esterni; l…
 - **Piastrella ceramica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Ceramica a pasta rossa o bianca (non vetrificata): il rivestimento bagno/cucina classico: economica e decorativa.
+- **Piattaforme elevatrici e montacarichi: il verticale dove l'ascensore non entra** — Soluzioni compatte · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  Non sempre serve un ascensore: per piccoli dislivelli, carichi o contesti con pochi spazio ci sono le piattaforme elevatrici (per persone in carrozzina) e i montacarichi (per merci). Regimi, limiti e costi sono diversi, …
 - **Pietra naturale a rivestimento** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lastre di pietra naturale per facciate e pareti interne: pietra di Luserna, ardesia, travertino.
 - **Pittura al quarzo** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1331,6 +1385,8 @@
   Porte a battente, scorrevoli o a scomparsa in legno, laminato o vetro: la finitura degli interni.
 - **Porte tagliafuoco e compartimentazione** — Antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Barriere fisiche al fuoco: porte REI 60-120, pareti, serrande, vetri tagliafuoco.
+- **Porte, chiusure e dispositivi di sicurezza dell'impianto verticale** — Porte e sicurezza · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  Le porte sono l'elemento più usato e più pericoloso dell'impianto: migliaia di cicli all'anno, contatti con utenti distratti, bambini e carichi. La sicurezza delle porte è fatta di dispositivi ridondanti e di manutenzion…
 - **Portone blindato** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Porta d'ingresso con struttura antieffrazione, serrature multiple e rivestimenti.
 - **Posa del pacchetto di copertura ventilata a falda** — Coperture · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -1443,6 +1499,8 @@
   Da 1:50 a 1:200: come si converte il disegno in dimensioni reali e viceversa.
 - **Scale di rappresentazione e formati dei fogli** — Scale e formati · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   La scala è il rapporto tra disegno e realtà: edilizia usa soprattutto 1:50 e 1:100 (piante/sezioni), 1:20 o 1:10 (dettagli), 1:200 (schembi/ubicazione); i formati foglio seguono la serie A (A0 841×1189, A1 594×841, A2 42…
+- **Scale mobili e tappeti mobili: il trasporto orizzontale-inclinato** — Scale mobili e tappeti · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  Centri commerciali, metropolitane e stazioni vivono di scale mobili e tappeti: impianti pubblici, intensissimi, che vanno progettati sul flusso e mantenuti con rigore quasi ospedaliero.
 - **Scan-to-BIM: dal rilievo alla modello dell'esistente** — Scan-to-BIM · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Lo scan-to-BIM converte la nuvola di punti del rilievo laser in un modello BIM fedele dell'esistente (HBIM per i beni storici): geometria semplificata LOD 200-300 con la giusta approssimazione delle irregolarità reali.
 - **Scarichi acque nere e grigie** — Idraulica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1451,6 +1509,8 @@
   Tubi e raccordi in polipropilene o cloruro di polivinile per scarichi civili e pluviali.
 - **Scarichi pluviali** — Idraulica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Collezioni e smaltimento acque meteoriche: tetti, lastrici, cortili.
+- **Scegliere e dimensionare l'ascensore: portata, velocità, servizio atteso** — Selezione e dimensionamento · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
+  Un ascensore giusto non è il più grande: è quello con portata, velocità e numero giusti per il flusso di persone atteso. Il sovradimensionamento costa spazio e denaro, il sottodimensionamento crea code permanenti.
 - **Scegliere l'incentivo giusto: fondo perduto, detrazione, credito** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Ogni progetto ha un incentivo 'giusto': il fondo perduto (Conto Termico) vince sulla liquidità, la detrazione vince sul valore percentuale per chi ha capienza, il credito d'imposta vince sulla pianificazione d'impresa: l…
 - **Scenari, logiche e sequenze** — Scenari · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
