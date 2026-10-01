@@ -1,7 +1,7 @@
 corso: "Dimensionamento degli impianti termotecnici"
 facolta: "FACOLTA_IMPIANTI_ENERGIA"
 livello: "L2"
-schede: 9
+schede: 16
 formato: "JSONL"
 lingua: "it"
 schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
