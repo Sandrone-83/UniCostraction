@@ -12,3 +12,6 @@ Tecnologie costruttive, materiali, posa, disegno CAD e BIM.
 
 ## Corsi aggiunti (giro disegno/design/CAD-BIM)
 - CAD_BIM_PROGETTAZIONE_PACK (L2)
+
+## Corsi aggiunti (giro rami infiniti)
+- MATERIALI_DEL_FUTURO_PACK (L3)

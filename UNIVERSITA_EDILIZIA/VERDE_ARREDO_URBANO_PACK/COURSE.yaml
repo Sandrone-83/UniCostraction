@@ -1,0 +1,7 @@
+corso: "Verde urbano e arredo urbano"
+facolta: "FACOLTA_ARCHITETTURA_DESIGN"
+livello: "L2"
+schede: 10
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

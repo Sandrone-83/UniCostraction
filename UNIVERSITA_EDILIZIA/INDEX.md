@@ -52,3 +52,15 @@ Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICU
   Le risposte corrette NON sono in repository: vivono in ESAMI_RISPOSTE/ (fuori repo,
   consegnate solo al proprietario) per permettere la valutazione imparziale del LLM.
 - ESAMI/README.md — piano completo dei settori d'esame.
+
+## Corsi del giro rami infiniti (2026-10-01)
+
+- MASTER_IMPRESA_EDILE_PACK (12 schede, L3, FACOLTA_GESTIONE_SISTEMA) — master per imprenditori edili
+- URBANISTICA_TERRITORIO_PACK (10 schede, L2, FACOLTA_GESTIONE_SISTEMA)
+- LEGISLAZIONE_PRIVATA_EDILIZIA_PACK (10 schede, L2, FACOLTA_GESTIONE_SISTEMA)
+- REAL_ESTATE_PACK (10 schede, L2, FACOLTA_GESTIONE_SISTEMA)
+- SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK (9 schede, L2, FACOLTA_IMPIANTI_ENERGIA)
+- COSTRUZIONI_SPECIALI_PACK (9 schede, L3, FACOLTA_INGEGNERIA)
+- INFRASTRUTTURE_VIARIE_PACK (10 schede, L2, FACOLTA_INGEGNERIA)
+- VERDE_ARREDO_URBANO_PACK (10 schede, L2, FACOLTA_ARCHITETTURA_DESIGN)
+- MATERIALI_DEL_FUTURO_PACK (9 schede, L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE)

@@ -15,3 +15,6 @@ Impiantistica completa, domotica, innovazione e robotica di cantiere.
 - MATERIALI_COMPONENTI_IMPIANTISTICA_PACK
 - DIMENSIONAMENTO_TERMOTECNICO_PACK
 - DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK
+
+## Corsi aggiunti (giro rami infiniti)
+- SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK (L2)

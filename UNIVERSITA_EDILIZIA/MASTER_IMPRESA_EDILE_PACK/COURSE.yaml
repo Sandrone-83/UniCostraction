@@ -1,0 +1,7 @@
+corso: "Master in gestione d'impresa edile"
+facolta: "FACOLTA_GESTIONE_SISTEMA"
+livello: "L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

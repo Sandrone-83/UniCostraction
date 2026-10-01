@@ -12,3 +12,9 @@ Sistema Italia, fisco, marketing, coding: il corpo completo dell'impresa edile m
 - Coding_Master_Pack_3
 - Coding_Master_Pack_4
 - Coding_Master_Pack_5
+
+## Corsi aggiunti (giro rami infiniti)
+- MASTER_IMPRESA_EDILE_PACK (L3)
+- URBANISTICA_TERRITORIO_PACK (L2)
+- LEGISLAZIONE_PRIVATA_EDILIZIA_PACK (L2)
+- REAL_ESTATE_PACK (L2)

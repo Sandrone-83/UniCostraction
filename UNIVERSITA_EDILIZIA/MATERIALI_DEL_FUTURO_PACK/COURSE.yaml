@@ -1,0 +1,7 @@
+corso: "Materiali del futuro e costruzione innovativa"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L3"
+schede: 9
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]

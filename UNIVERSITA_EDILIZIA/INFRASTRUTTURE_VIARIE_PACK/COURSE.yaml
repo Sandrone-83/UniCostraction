@@ -1,0 +1,7 @@
+corso: "Infrastrutture viarie e urbanizzazioni"
+facolta: "FACOLTA_INGEGNERIA"
+livello: "L2"
+schede: 10
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
