@@ -127,3 +127,8 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - FISCO_TRIBUTI_IMPRESA_EDILE_PACK (11 schede, L2, FACOLTA_GESTIONE_SISTEMA) — nuovo corso: IRES/IRAP/IVA, forfettario edile, reverse charge, ritenute, DURC, ISA, controlli (valori fiscali marcati da verificare annualmente)
 - Nuovi esami: SICUREZZA_CANTIERE, MURATURE_INTONACI, FACILITY_MANAGEMENT, FISCO_IMPRESA_EDILE (pack nuovi) + DISEGNO_TECNICO, DOMOTICA, POSA_IN_OPERA, MATERIALI_COMPONENTI, INGEGNERIA_CIVILE (corsi che non ne avevano): 2.050 domande nuove, chiavi riservate
 - Totale repository: 49 pack, 702 schede
+
+## Corsi del giro di approfondimento 7 (2026-10-01, bozza post-v1.0.0)
+
+- Esami completati per TUTTI i corsi: 37 esami nuovi (ROBOTICA 350, IMPIANTI_COMPLETA 350, CAPOLAVORI 300, STRUTTURE 300 e 33 esami da 180 a 250 domande) — totale 50 esami, 11.385 domande in formato standard + 3.000 legacy dei primi giri
+- Ogni corso della repository (49 pack) ha ora il proprio esame di valutazione; chiavi riservate fuori repository

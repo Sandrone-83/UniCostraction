@@ -15,35 +15,60 @@ di apprendimento per settore.
 
 | Settore | Stato | Note |
 | --- | --- | --- |
-| MATERIALEDILE | ✅ 1.000 domande | dimostratore completo (162 schede) |
-| DISEGNO_TECNICO | in coda | 14 schede |
-| CAD_BIM | in coda | 12 schede |
-| EDILIZIA_GENERALE | in coda | Edilizia_Pack |
-| IMPIANTI_TERMICI | in coda | Macchine termiche + dimensionamento |
-| IMPIANTI_FV_EOLICO | ✅ 1.000 domande | dimensionamento FV/eolico/accumulo (10 schede + banco calcoli) |
-| ASCENSORI | ✅ 300 domande | ascensori, piattaforme, montacarichi, scale mobili (10 schede) |
-| FOTOVOLTAICO_CER | ✅ 400 domande | campi FV a terra, agrivoltaico, CER/AUC/GAC, BESS (15 schede) |
-| SICUREZZA_CANTIERE | ✅ 250 domande | D.Lgs 81/08, PSC, POS, ponteggi, scavi, attrezzature (13 schede) |
-| MURATURE_INTONACI | ✅ 250 domande | laterizi, AAC, malte, intonaci, finiture, patologie (12 schede) |
-| FACILITY_MANAGEMENT | ✅ 250 domande | piani manutenzione, legionella, adempimenti ricorrenti, CMMS (12 schede) |
-| FISCO_IMPRESA_EDILE | ✅ 250 domande | IVA edilizia, forfettario 86%, ritenute, DURC, ISA (11 schede) |
-| DISEGNO_TECNICO | ✅ 250 domande | proiezioni, quotatura, tavole esecutive, rilievo (14 schede) |
-| DOMOTICA | ✅ 300 domande | protocolli, attuatori, scenari, sicurezza informatica (29 schede) |
-| POSA_IN_OPERA | ✅ 300 domande | getti, murature, massetti, pavimenti, serramenti (22 schede) |
-| MATERIALI_COMPONENTI | ✅ 250 domande | tubi, raccordi, valvole, quadri elettrici, protezioni (18 schede) |
-| INGEGNERIA_CIVILE | ✅ 250 domande | dighe, strade, ferrovie, gallerie, opere marittime (16 schede) |
-| DOMOTICA | in coda | 29 schede |
-| POSA_IN_OPERA | in coda | 22 schede |
-| STRUTTURE | in coda | ingegneria strutturale + formulario |
-| INGEGNERIA_CIVILE | in coda | 16 schede |
-| ARCHITETTURA_DESIGN | in coda | architettura + master design |
-| INTERIOR_TECNICO | in coda | 11 schede |
-| DESIGN_TENDENZE | in coda | 11 schede |
-| ROBOTICA_EDILIZIA | in coda | 27 schede |
-| GEOMETRA_ESTIMO | in coda | 15 schede |
-| STORIA_CAPOLAVORI | in coda | 25 schede |
-| MATEMATICA_FISICA | in coda | matematica + formulari |
-| CODING | in coda | Coding_Master_Pack 1-5 |
+| ACUSTICA | ✅ 220 domande | chiavi: jsonl |
+| ARCHITETTURA | ✅ 250 domande | chiavi: jsonl |
+| ASCENSORI | ✅ 300 domande | chiavi: jsonl |
+| CAD_BIM | ✅ 200 domande | chiavi: jsonl |
+| CAPOLAVORI | ✅ 300 domande | chiavi: jsonl |
+| CONTABILITA_APPALTI | ✅ 200 domande | chiavi: jsonl |
+| COSTRUZIONI_LEGNO | ✅ 220 domande | chiavi: jsonl |
+| COSTRUZIONI_SPECIALI | ✅ 220 domande | chiavi: jsonl |
+| DATA_CENTER | ✅ 200 domande | chiavi: jsonl |
+| DESIGN_GUSTO | ✅ 174 domande | chiavi: jsonl |
+| DIMENSIONAMENTO_FV_EOLICO | ✅ 220 domande | chiavi: jsonl |
+| DIMENSIONAMENTO_TERMOTECNICO | ✅ 250 domande | chiavi: jsonl |
+| DISEGNO_TECNICO | ✅ 250 domande | chiavi: jsonl |
+| DOMOTICA | ✅ 300 domande | chiavi: jsonl |
+| EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
+| ENERGETICA_INCENTIVI | ✅ 220 domande | chiavi: jsonl |
+| FACILITY_MANAGEMENT | ✅ 250 domande | chiavi: jsonl |
+| FISCO_IMPRESA_EDILE | ✅ 250 domande | chiavi: jsonl |
+| FORMULARIO_FISICA | ✅ 220 domande | chiavi: jsonl |
+| FORMULARIO_STRUTTURE | ✅ 250 domande | chiavi: jsonl |
+| FOTOVOLTAICO_CER | ✅ 400 domande | chiavi: jsonl |
+| GEOMETRA_ESTIMO | ✅ 250 domande | chiavi: jsonl |
+| GEOTECNICA | ✅ 250 domande | chiavi: jsonl |
+| HOTEL | ✅ 200 domande | chiavi: jsonl |
+| IMPIANTI_COMPLETA | ✅ 350 domande | chiavi: jsonl |
+| IMPIANTI_FV_EOLICO | ✅ 1000 (legacy) domande | chiavi: jsonl |
+| INFRASTRUTTURE | ✅ 175 domande | chiavi: jsonl |
+| INGEGNERIA_CIVILE | ✅ 250 domande | chiavi: jsonl |
+| INTERIOR_TECNICO | ✅ 200 domande | chiavi: jsonl |
+| LEGISLAZIONE_EDILIZIA | ✅ 167 domande | chiavi: jsonl |
+| MACCHINE_TERMICHE | ✅ 250 domande | chiavi: jsonl |
+| MASTER_DESIGN | ✅ 250 domande | chiavi: jsonl |
+| MASTER_IMPRESA | ✅ 173 domande | chiavi: jsonl |
+| MATEMATICA | ✅ 220 domande | chiavi: jsonl |
+| MATERIALEDILE | ✅ 1000 (legacy) domande | chiavi: jsonl |
+| MATERIALI_COMPONENTI | ✅ 250 domande | chiavi: jsonl |
+| MATERIALI_FUTURO | ✅ 220 domande | chiavi: jsonl |
+| MURATURE_INTONACI | ✅ 250 domande | chiavi: jsonl |
+| OSPEDALI | ✅ 200 domande | chiavi: jsonl |
+| PISCINE | ✅ 200 domande | chiavi: jsonl |
+| POSA_IN_OPERA | ✅ 300 domande | chiavi: jsonl |
+| REAL_ESTATE | ✅ 180 domande | chiavi: jsonl |
+| RISANAMENTO | ✅ 277 domande | chiavi: md (legacy) |
+| ROBOTICA | ✅ 350 domande | chiavi: jsonl |
+| SICUREZZA_ANTINCENDIO | ✅ 220 domande | chiavi: jsonl |
+| SICUREZZA_CANTIERE | ✅ 250 domande | chiavi: jsonl |
+| STRUTTURE | ✅ 300 domande | chiavi: jsonl |
+| TETTI_COPERTURE | ✅ 220 domande | chiavi: jsonl |
+| URBANISTICA | ✅ 180 domande | chiavi: jsonl |
+| VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
+
+Copertura: esame per ognuno dei 49 corsi della repository. I tre esami «legacy» dei primi giri
+(MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
+chiavi complete e valide, schema dei campi diverso dal generatore attuale.
 
 ## Metodo di generazione
 Script `build_esami.py`: 15 modelli di domanda per scheda (definizione, categoria,

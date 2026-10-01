@@ -107,3 +107,15 @@ Contenuto: 4 corsi nuovi (sicurezza cantiere, murature/intonaci/finiture, facili
 | F3 | Validazione globale | 49 pack, 702 schede, 0 errori JSON, 0 schede fuori schema, 0 refusi noti | Script di validazione eseguito a fine giro |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).
+
+## Giro G — 2026-10-01, bozza post-v1.0.0 (commit corrente)
+
+Contenuto: esame per ognuno dei 49 corsi della repository (37 esami nuovi generati con build_esami_giro7.py). Totale 50 esami: 11.385 domande in formato standard del generatore corrente + 3 esami legacy dei primi giri (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) con chiavi complete e valide in formato storico.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| G1 | 37 esami nuovi (8.285 domande) | Distrattori sempre dello stesso settore; split clausole protetto da abbreviazioni (D.Lgs., art.) e filtro frammenti numerici; conteggio domande/chiavi verificato esame per esame | Controllo interno automatico: 0 esami senza chiavi, 0 disallineamenti nel formato nuovo |
+| G2 | Copertura completa | Ogni pack (49/49) ha il proprio esame in ESAMI/ | Rilevamento automatico pack-vs-esami |
+| G3 | Validazione globale | 49 pack, 702 schede, 0 errori JSON | Script di validazione eseguito a fine giro |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).
