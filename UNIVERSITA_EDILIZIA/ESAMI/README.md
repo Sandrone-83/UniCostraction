@@ -23,6 +23,15 @@ di apprendimento per settore.
 | IMPIANTI_FV_EOLICO | ✅ 1.000 domande | dimensionamento FV/eolico/accumulo (10 schede + banco calcoli) |
 | ASCENSORI | ✅ 300 domande | ascensori, piattaforme, montacarichi, scale mobili (10 schede) |
 | FOTOVOLTAICO_CER | ✅ 400 domande | campi FV a terra, agrivoltaico, CER/AUC/GAC, BESS (15 schede) |
+| SICUREZZA_CANTIERE | ✅ 250 domande | D.Lgs 81/08, PSC, POS, ponteggi, scavi, attrezzature (13 schede) |
+| MURATURE_INTONACI | ✅ 250 domande | laterizi, AAC, malte, intonaci, finiture, patologie (12 schede) |
+| FACILITY_MANAGEMENT | ✅ 250 domande | piani manutenzione, legionella, adempimenti ricorrenti, CMMS (12 schede) |
+| FISCO_IMPRESA_EDILE | ✅ 250 domande | IVA edilizia, forfettario 86%, ritenute, DURC, ISA (11 schede) |
+| DISEGNO_TECNICO | ✅ 250 domande | proiezioni, quotatura, tavole esecutive, rilievo (14 schede) |
+| DOMOTICA | ✅ 300 domande | protocolli, attuatori, scenari, sicurezza informatica (29 schede) |
+| POSA_IN_OPERA | ✅ 300 domande | getti, murature, massetti, pavimenti, serramenti (22 schede) |
+| MATERIALI_COMPONENTI | ✅ 250 domande | tubi, raccordi, valvole, quadri elettrici, protezioni (18 schede) |
+| INGEGNERIA_CIVILE | ✅ 250 domande | dighe, strade, ferrovie, gallerie, opere marittime (16 schede) |
 | DOMOTICA | in coda | 29 schede |
 | POSA_IN_OPERA | in coda | 22 schede |
 | STRUTTURE | in coda | ingegneria strutturale + formulario |

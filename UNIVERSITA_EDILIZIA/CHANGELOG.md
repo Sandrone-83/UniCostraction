@@ -95,3 +95,15 @@ Contenuto: nuovo corso FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK (15 schede), nuo
 | E3 | Validazione globale | 45 pack, 654 schede, 0 errori JSON, 0 schede fuori schema | Script di validazione eseguito a fine giro |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).
+
+## Giro F — 2026-10-01, bozza post-v1.0.0 (commit corrente)
+
+Contenuto: 4 corsi nuovi (sicurezza cantiere, murature/intonaci/finiture, facility management, fisco tributi impresa edile) e 9 esami nuovi (2.050 domande). I 4 corsi sono stati redatti da agenti dedicati sotto brief con regole rigide (nessuna norma inventata, costi «ordini di grandezza», caso reale + note in ogni scheda) e poi rivalidati dal curatore prima del commit.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| F1 | Nuovi pack (13+12+12+11 = 48 schede) | Norme citate (solo consolidato): D.Lgs 81/08 con art. 17/37/77 e Allegati XL/XLIV/XLV/XV/XXXVII, UNI EN 12811, UNI EN 795, UNI EN 998-1/998-2, UNI EN 771-1/771-4, UNI EN 1745, UNI EN 1015, UNI 10329, UNI CEI 64-8, DPR 412/1993, D.Lgs 28/2011 art. 15, TUIR, DPR 633/1972, D.Lgs 124/2004, D.Lgs 148/2017; valori fiscali non strutturali marcati «da verificare per l'anno in corso» | Norme di consolidata certezza; valori fiscali verificabili solo su testo vigente: prudenza applicata |
+| F2 | Esami: 9 nuovi esami, 2.050 domande | Distrattori sempre dello stesso settore (stesso pack); corretto split delle clausole protetto dalle abbreviazioni (D.Lgs., D.M., art.) e filtro frammenti numerici; chiavi riservate fuori repo, 0 anomalie al controllo | Controllo interno automatico su 5.050 chiavi totali |
+| F3 | Validazione globale | 49 pack, 702 schede, 0 errori JSON, 0 schede fuori schema, 0 refusi noti | Script di validazione eseguito a fine giro |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche l'utente non approva il prossimo tag (v1.1.0 previsto per sole aggiunte).

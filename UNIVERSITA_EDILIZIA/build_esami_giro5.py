@@ -11,11 +11,14 @@ WS = os.path.dirname(ROOT)
 
 random.seed(41)
 
+ABBR = r'(D\.Lgs|D\.P\.R|D\.M|D\.L|D\.Lgsl|Art|art|C\.M|S\.p\.A|ecc|circ|Circ|Prot|prot|n|NN|UU|TT|GG)'
+
 def clauses(text):
+    t = re.sub(ABBR + r'\.', r'\1§', text or '')
     out = []
-    for c in re.split(r'[;.]\s*', text or ''):
-        c = c.strip(' ;.')
-        if len(c) > 15:
+    for c in re.split(r'[;]|(?<!\d)\.\s+', t):
+        c = c.replace('§', '.').strip(' ;.')
+        if len(c) > 15 and not (re.match(r'^\d{3}\b', c) and not re.search(r'(MHz|€|%|mm|cm|m²|kW|MWh|GW|kWp|°C|bar)', c)):
             out.append(c)
     return out
 
@@ -216,5 +219,6 @@ def gen(pack, titolo, target):
                                ensure_ascii=False) + "\n")
     print(titolo, "domande:", len(QUESTIONS), "->", outdir)
 
-gen("ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK", "ASCENSORI", 300)
-gen("FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK", "FOTOVOLTAICO_CER", 400)
+if __name__ == "__main__":
+    gen("ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK", "ASCENSORI", 300)
+    gen("FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK", "FOTOVOLTAICO_CER", 400)

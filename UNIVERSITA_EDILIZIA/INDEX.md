@@ -90,14 +90,22 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 
 ## Enciclopedia del sapere
 
-- [ENCICLOPEDIA.md](ENCICLOPEDIA.md) — portale enciclopedico con voci A-Z, articoli per macro-area, glossario e mappa del sapere
-
-## Corsi del giro di approfondimento 3 (2026-10-01, bozza post-v1.0.0)
-
-- RISANAMENTO_E_RECUPERO_EDILIZIO_PACK (13 schede) — nuovo corso: diagnosi, umidità e muffa, bonifiche amianto/allagamenti, consolidamenti, miglioramento sismico, rifiuti, pratiche
-- Approfondimenti: TETTI_E_COPERTURE_PACK 7→13, PISCINE_E_WELLNESS_PACK 7→12, DATA_CENTER_E_CRITICAL_FACILITIES_PACK 7→12, OSPEDALI_E_HEALTHCARE_PACK 7→12, HOTEL_E_HOSPITALITY_TECNICO_PACK 7→11
-- Nuovo esame: ESAMI/RISANAMENTO (277 domande, chiavi riservate)
-
+- [ENCICLOPEDIA.md](ENCICLOPEDIA.md) — portale enciclopedico con voci A-Z, articoli per macro-area, glossario e mappa del sapere
+
+
+
+## Corsi del giro di approfondimento 3 (2026-10-01, bozza post-v1.0.0)
+
+
+
+- RISANAMENTO_E_RECUPERO_EDILIZIO_PACK (13 schede) — nuovo corso: diagnosi, umidità e muffa, bonifiche amianto/allagamenti, consolidamenti, miglioramento sismico, rifiuti, pratiche
+
+- Approfondimenti: TETTI_E_COPERTURE_PACK 7→13, PISCINE_E_WELLNESS_PACK 7→12, DATA_CENTER_E_CRITICAL_FACILITIES_PACK 7→12, OSPEDALI_E_HEALTHCARE_PACK 7→12, HOTEL_E_HOSPITALITY_TECNICO_PACK 7→11
+
+- Nuovo esame: ESAMI/RISANAMENTO (277 domande, chiavi riservate)
+
+
+
 
 ## Corsi del giro di approfondimento 4 (2026-10-01, bozza post-v1.0.0)
 
@@ -110,3 +118,12 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK (15 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA) — nuovo corso master: campi FV utility, siti e risorsa, layout (pitch/GCR/PR/P50-P90), moduli TOPCon/HJT/bifacciali, inverter di centrale, strutture (pali/viti/tracker), agrivoltaico e incentivi verificati 2026 (DM 436/2023, regole GSE 27/3/2026), iter autorizzativi D.Lgs 190/2024, connessione di rete, CER/AUC/GAC con tariffa 60-120 €/MWh verificata, BESS, economia del MWp
 - Nuovi esami: ESAMI/ASCENSORI (300 domande) ed ESAMI/FOTOVOLTAICO_CER (400 domande), chiavi riservate fuori repository; distrattori pertinenti allo stesso settore
 - Totale repository: 45 pack, 654 schede
+
+## Corsi del giro di approfondimento 6 (2026-10-01, bozza post-v1.0.0)
+
+- SICUREZZA_CANTIERE_DLSGS81_PACK (13 schede, L1-L2, FACOLTA_GESTIONE_SISTEMA) — nuovo corso: D.Lgs 81/08 Titolo IV, soggetti, PSC, POS, DVR, ponteggi, lavori in quota, scavi, attrezzature, formazione, cultura della sicurezza
+- MURATURE_INTONACI_E_FINITURE_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: laterizi, cls alleggerito/AAC, malte, intonaci tradizionali e premiscelati, finiture minerali e decorative, patologie
+- FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK (12 schede, L2-L3, FACOLTA_GESTIONE_SISTEMA) — nuovo corso: piani di manutenzione (UNI 10329), legionella, adempimenti ricorrenti, SLA, contratti, CMMS, costi
+- FISCO_TRIBUTI_IMPRESA_EDILE_PACK (11 schede, L2, FACOLTA_GESTIONE_SISTEMA) — nuovo corso: IRES/IRAP/IVA, forfettario edile, reverse charge, ritenute, DURC, ISA, controlli (valori fiscali marcati da verificare annualmente)
+- Nuovi esami: SICUREZZA_CANTIERE, MURATURE_INTONACI, FACILITY_MANAGEMENT, FISCO_IMPRESA_EDILE (pack nuovi) + DISEGNO_TECNICO, DOMOTICA, POSA_IN_OPERA, MATERIALI_COMPONENTI, INGEGNERIA_CIVILE (corsi che non ne avevano): 2.050 domande nuove, chiavi riservate
+- Totale repository: 49 pack, 702 schede
