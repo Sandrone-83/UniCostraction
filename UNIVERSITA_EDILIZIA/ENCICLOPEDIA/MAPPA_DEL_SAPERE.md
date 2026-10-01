@@ -1,0 +1,23 @@
+# MAPPA DEL SAPERE — enciclopedia a livelli
+
+> *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
+> *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
+
+Il sapere costruttivo organizzato per livelli di profondità: ogni livello costruisce sul precedente, ogni ramo si collega agli altri.
+
+| Livello | Significato | Corsi |
+| --- | --- | --- |
+| **L0 — Alfabetizzazione** | Il mondo delle costruzioni spiegato da zero | `CAPOLAVORI_E_STORIA_OPERE_PACK`, `MATEMATICA_PER_COSTRUIRE_PACK` |
+| **L1 — Fondamento universitario** | Le basi professionali di ogni disciplina | `MATERIALEDILE_PACK`, `ARCHITETTURA_PACK`, `DISEGNO_TECNICO_MANUALE_PACK`, `FORMULARIO_FISICA_IMPIANTI_PACK`, `GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`, `MACCHINE_TERMICHE_TECNOLOGIA_PACK`, `MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`, `POSA_IN_OPERA_PACK`, `TETTI_E_COPERTURE_PACK` |
+| **L2 — Competenza professionale** | Il mestiere in tutte le sue specializzazioni | `CAD_BIM_PROGETTAZIONE_PACK`, `COSTRUIRE_IN_LEGNO_PACK`, `DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK`, `DIMENSIONAMENTO_TERMOTECNICO_PACK`, `DOMOTICA_PACK`, `EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`, `FORMULARIO_FISICA_IMPIANTI_PACK`, `FORMULARIO_STRUTTURE_PACK`, `GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`, `HOTEL_E_HOSPITALITY_TECNICO_PACK`, `IMPIANTI_COMPLETA_PACK`, `INFRASTRUTTURE_VIARIE_PACK`, `INGEGNERIA_CIVILE_PACK`, `INGEGNERIA_STRUTTURALE_PACK`, `INTERIOR_PROGETTAZIONE_TECNICA_PACK`, `LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`, `PISCINE_E_WELLNESS_PACK`, `POSA_IN_OPERA_PACK`, `REAL_ESTATE_PACK`, `SERRAMENTI_E_VETRATE_PACK`, `SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`, `TETTI_E_COPERTURE_PACK`, `URBANISTICA_TERRITORIO_PACK`, `VERDE_ARREDO_URBANO_PACK` |
+| **L3 — Master e specializzazione** | Il vertice di ogni ramo | `ARCHITETTURA_PACK`, `CAPOLAVORI_E_STORIA_OPERE_PACK`, `COSTRUZIONI_SPECIALI_PACK`, `DATA_CENTER_E_CRITICAL_FACILITIES_PACK`, `DESIGN_GUSTO_TENDENZE_PACK`, `DOMOTICA_PACK`, `INGEGNERIA_STRUTTURALE_PACK`, `MASTER_DESIGN_PACK`, `MASTER_IMPRESA_EDILE_PACK`, `MATERIALI_DEL_FUTURO_PACK`, `OSPEDALI_E_HEALTHCARE_PACK`, `ROBOTICA_EDILIZIA_PACK` |
+
+## I ponti tra i rami (esempi di collegamento enciclopedico)
+
+- La **muratura** (MATERIALEDILE) incontra la **posa** (POSA_IN_OPERA), la **sicurezza** (SICUREZZA), il **computo** (Edilizia_Pack) e il **restauro** (corsi storici).
+- Gli **impianti** (IMPIANTI_COMPLETA, DIMENSIONAMENTO) incontrano la **domotica** (DOMOTICA), la **robotica** (ROBOTICA_EDILIZIA) e l'**antincendio** (SICUREZZA_ANTINCENDIO).
+- Il **disegno tecnico** (DISEGNO_TECNICO) alimenta il **CAD/BIM** (CAD_BIM), che alimenta la **progettazione** (INGEGNERIA, ARCHITETTURA) e il **cantiere** (POSA_IN_OPERA).
+- L'**impresa edile** (MASTER_IMPRESA) si collega alla **legge** (LEGISLAZIONE_PRIVATA), agli **appalti**, al **real estate** (REAL_ESTATE) e all'**urbanistica** (URBANISTICA).
+- La **storia** (Storia, CAPOLAVORI) spiega il **presente**: i materiali, le tecniche, i vincoli e il gusto (DESIGN_GUSTO).
+- Il **legno** (COSTRUIRE_IN_LEGNO) incontra la **sismica** (INGEGNERIA_STRUTTURALE), il **fuoco** (SICUREZZA_ANTINCENDIO) e l'**economia** (MASTER_IMPRESA).
+- Le **tipologie speciali** (OSPEDALI, DATA_CENTER, HOTEL, INDUSTRIALE) applicano tutto il sapere trasversale: flussi, impianti, normativa, manutenzione.

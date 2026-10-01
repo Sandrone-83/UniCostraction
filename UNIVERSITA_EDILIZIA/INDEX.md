@@ -75,3 +75,7 @@ Architettura a 4 livelli: vedi ARCHITETTURA.md. Manifest delle facoltà: CURRICU
 - OSPEDALI_E_HEALTHCARE_PACK (7 schede, L3, FACOLTA_INGEGNERIA)
 - PISCINE_E_WELLNESS_PACK (7 schede, L2, FACOLTA_IMPIANTI_ENERGIA)
 - HOTEL_E_HOSPITALITY_TECNICO_PACK (7 schede, L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE)
+
+## Enciclopedia del sapere
+
+- [ENCICLOPEDIA.md](ENCICLOPEDIA.md) — portale enciclopedico con voci A-Z, articoli per macro-area, glossario e mappa del sapere
