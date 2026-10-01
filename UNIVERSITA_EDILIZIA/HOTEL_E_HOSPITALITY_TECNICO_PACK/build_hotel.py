@@ -1,0 +1,125 @@
+# -*- coding: utf-8 -*-
+"""HOTEL_E_HOSPITALITY_TECNICO_PACK: organizzazione tecnica alberghiera, back of house, cucine, manutenzione."""
+import json, os
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+
+def s(cat, nome, desc, tec, app, van, lim, cos, casi, norm, note):
+    return dict(categoria=cat, nome=nome, descrizione=desc, tecnologia=tec,
+                applicazioni=app, vantaggi=van, limiti=lim, costi_e_economia=cos,
+                casi_real_world=casi, normative=norm, note_cantiere=note)
+
+DATA = [
+s("Fondamenti", "L'albergo come macchina: front of house e back of house",
+ "L'albergo è un edificio-servizio: la parte pubblica (hall, camere, ristoranti, wellness) deve incantare, la parte tecnica (cucine, lavanderia, magazzini, impianti, personale) deve funzionare invisibile; il rapporto tra le due (i flussi di persone, merci, biancheria, rifiuti) decide l'efficienza.",
+ "Principi: la separazione totale tra i flussi ospite e quelli di servizio (le camere si riforniscono dai corridoi di servizio? No: dai corridoi dedicati), la verticalizzazione funzionale (le cucine sotto la sala, la lavanderia ai piani intermedi, il deposito biancheria vicino), la flessibilità (le camere convertible? le camere 'convertibili' doppie/matrimoniali), il risparmio energetico (i ricircoli d'aria, l'acqua calda sanitaria centralizzata con contabilizzazione).",
+ "Alberghi di ogni categoria, resort, B&B di pregio, ostelli moderni.",
+ "L'albergo efficiente guadagna da dove non si vede: i consumi tagliati, i tempi di cambio camera ridotti, il personale che non si incrocia mai con gli ospiti.",
+ "La separazione dei flussi 'costa metratura' (i corridoi di servizio sono spazio non vendibile).",
+ "Costi: la componente tecnica (back of house) è il 25-35% della superficie di un albergo ben progettato.",
+ "Albergo riorganizzato con il flusso biancheria dedicato (montacarichi e depositi ai piani): i tempi di cambio camera sono calati del 25% e le lamentele per i carrelli nei corridoi azzerate.",
+ "Normativa alberghiera (classificazione regionale, requisiti); normativa antincendio e igienica; specifiche delle catene.",
+ "La prima domanda: 'dove dorme l'ospite e dove lavora il personale?' — la mappa che li separa è la pianta vera dell'albergo."),
+s("Camere", "Le camere alberghiere: il prodotto che si vende",
+ "La camera è il prodotto dell'albergo: il comfort (il letto, l'insonorizzazione, l'oscuramento), la tecnologia (Wi-Fi, TV, domotica), l'efficienza per la gestione (le superfici resistenti, il minibar, la cassaforte) e la manutenibilità (i mobili robusti, i rivestimenti lavabili).",
+ "Standard: la camera di categoria 3 stelle (16-20 m², bagno 3,5-4,5 m²), la 4 stelle (20-26 m²), la 5 stelle (oltre 26 m² con i servizi); gli elementi tecnici: il letto (il materasso di qualità è l'investimento che i clienti sentono), l'oscuramento totale (le tapparelle o i doppi tendaggi: il sonno venduto), l'insonorizzazione (le pareti tra camere con lana minerale, le porte con i battenti? i telai con i sigilli), la climatizzazione silenziosa, i punti luce scenografati, il bagno con la doccia walk-in (il must moderno).",
+ "Nuovi alberghi, ristrutturazioni di camere, standard di catena.",
+ "La camera 'giusta' fa tornare i clienti: il sonno buono è l'unico prodotto veramente ricordato.",
+ "Il design audace invecchia male: le camere 'di moda' richiedono rinnovi ogni 5-7 anni invece che ogni 12-15.",
+ "Costi: la camera completa (arredi, bagni, finiture, impianti): 25.000-80.000 € per chiavi? per camera secondo categoria.",
+ "Albergo che ha investito in materassi top e insonorizzazione (dopo i reclami): le recensioni sono passate dal 7,8 al 9,2 in un anno con identico design.",
+ "Normativa di classificazione regionale (i requisiti minimi); normativa antincendio camere (i rivelatori fumi obbligatori).",
+ "La gerarchia degli investimenti camera: 1) letto e silenzio, 2) bagno e doccia, 3) tecnologia, 4) estetica."),
+s("Cucine", "Le cucine professionali: il cuore caldo dell'albergo",
+ "La cucina professionale (laboratorio + linea di cottura + lavaggio) è un'officina gastronomica: i flussi (la merce entra, il cibo esce, i piatti lavati tornano), la ventilazione (le cappe aspirano vapore e grassi: l'impianto più critico), le attrezzature (cucine, forni, abbattitori), l'igiene (le superfici lavabili, lo scarico dei grassi).",
+ "Elementi: il laboratorio (la preparazione: banchi in acciaio, abbattitori di temperatura obbligatori per la sicurezza alimentare), la linea di cottura (le cappe aspiranti dimensionate sui fuochi, i sistemi di spegnimento automatico), il lavaggio (le lavastoviglie a cesta? i lavastoviglie professionali ad alta temperatura, la zona smaltimento), lo scarico dei grassi (il separatore di grassi obbligatorio prima della rete fognaria), la pavimentazione (gres antiscivolo, le caditoie), la sicurezza (l'HACCP: i piani di controllo igienico).",
+ "Ristoranti alberghieri, grandi cucine di resort, mense, catering.",
+ "La cucina efficiente serve 300 coperti con 10 cuochi invece di 15: l'organizzazione dell'ambiente vale quanto il talento.",
+ "La ventilazione sottodimensionata rende la cucina infernale e la sala odorata: l'errore più comune e più odiato.",
+ "Costi: la cucina professionale attrezzata: 2.000-5.000 €/m² (arredi e macchinari); la cappa aspirante: 3.000-15.000 €.",
+ "Cucina di resort riprogettata con il flusso 'merce → preparazione → cottura → uscita' lineare e l'abbattitore vicino alla linea: i tempi di servizio sono calati del 30% e gli sprechi alimentari del 20%.",
+ "Normativa HACCEP (Reg. CE 852/2004); normativa antincendio cucine; normativa igienica regionale.",
+ "La cucina si progetta con lo chef: chi disegna 'una cucina standard' per un ristorante serio paga la variante in corso d'opera."),
+s("Lavanderia", "La lavanderia alberghiera: il giro della biancheria",
+ "La lavanderia è il cuore logistico dell'albergo: la biancheria (lenzuola, asciugamani, tovaglie) gira in ciclo continuo; il flusso (sporco in arrivo → lavaggio → asciugatura → stiro → ripiegamento → deposito pulito → distribuzione) richiede i locali giusti (il lavatoio separato dal stiro, il deposito pulito separato da quello sporco).",
+ "Sistemi: le lavatrici industriali (40-120 kg di carico), gli asciugatori a tamburo, i calandri (le macchine da stiro a rullo), i ripiegatori automatici; la logistica: i carrelli dedicati (sporchi e puliti separati, mai incrociati), il montacarichi o il vano scala dedicato, il deposito pulito con gli scaffali chiusi (la polvere non entra); l'outsourcing: molti alberghi esternalizzano (il servizio di lavanderia industriale porta e ritira).",
+ "Alberghi grandi e medi, resort, ospedali (cenni).",
+ "La lavanderia interna efficiente garantisce l'autonomia (nessun ritardo dell'esterno) e la qualità; quella esternalizzata libera spazio e personale.",
+ "La lavanderia mal organizzata è il collo di bottiglia quotidiano: la biancheria manca sempre al momento sbagliato.",
+ "Costi: lavanderia industriale attrezzata: 100.000-400.000 €; l'esternalizzazione: 0,8-1,5 €/kg di biancheria.",
+ "Resort con lavanderia riorganizzata su flusso unidirezionale (sporco in entrata, pulito in uscita, mai incroci) e il ripiegatore automatico: il personale della lavanderia è passato da 6 a 4 persone con capacità aumentata.",
+ "Normativa igienico-sanitaria; specifiche macchinari; sicurezza (le macchine industriali).",
+ "La regola: la biancheria sporca e quella pulita non si incontrano MAI: la separazione fisica dei flussi è sacra."),
+s("Manutenzione", "La manutenzione alberghiera: l'hotel che non si ferma",
+ "L'albergo è aperto 365 giorni/anno: la manutenzione deve essere programmata, silenziosa e continua; il programma copre: le camere (il turnover di manutenzione leggera), gli impianti (clima, acqua calda, elettrico), le aree pubbliche, le attrezzature (cucine, lavanderia), la facciata e il tetto.",
+ "Organizzazione: il preventivo (le camere ispezionate a rotazione: ogni camera entra in manutenzione leggera ogni 3-6 mesi), il programma annuale (i climi prima dell'estate, le caldaie prima dell'inverno, la facciata ciclica), il pronto intervento (il tecnico interno o il contratto con ditta esterna per i guasti), il magazzino ricambi (i rubinetti, le cartucce, le lampade, i telecomandi), la documentazione (il registro di ogni intervento per camera: la storia dell'immobile).",
+ "Gestioni alberghiere di ogni dimensione.",
+ "L'albergo mantenuto si vede: le recensioni parlano di 'tutto funziona', il valore si mantiene, le ristrutturazioni si rimandano di anni.",
+ "La manutenzione 'a emergenza' brucia il personale e uccide le recensioni (la doccia fredda del mattino è il ricordo eterno).",
+ "Costi: manutenzione programmata: 3-6% del fatturato o 10-20 €/camera/mese.",
+ "Hotel con il programma di manutenzione digitale (ogni camera ha la sua scheda interventi): le recensioni negative per guasti si sono azzerate in 18 mesi e il costo delle emergenze è calato del 40%.",
+ "Nessuna norma cogente specifica; prassi gestionali e assicurative.",
+ "La regola: in alberghiero non esiste 'domani sistemiamo': l'ospite paga per oggi, il guasto va risolto in ore."),
+s("Energetica", "L'efficienza energetica alberghiera: il costo nascosto numero uno",
+ "L'energia è il secondo costo di un albergo dopo il personale: i consumi (clima, acqua calda, cucina, lavanderia, illuminazione) si tagliano con la regolazione (i contabilizzatori sulle camere), le pompe di calore (l'acqua calda sanitaria a pompa di calore vale un risparmio del 50-60%), il ricircolo controllato, l'illuminazione LED con sensori.",
+ "Interventi: la contabilizzazione (sapere quanto consuma ogni reparto: senza dati non si gestisce), il VMC con recupero di calore (l'aria viziata esce scaldata? No: il recuperatore scambia il calore: l'aria fresca entra pre-riscaldata), le pompe di calore per ACS (l'acqua calda a metà prezzo), l'automazione (le camere con rilevazione presenza: clima e luci si spengono quando l'ospite esce), l'illuminazione (LED + sensori nei corridoi).",
+ "Hotel in gestione, ristrutturazioni energetiche, certificazioni ambientali (Green Key, GSTC).",
+ "L'hotel efficiente riduce i costi e vende di più (il mercato premia la sostenibilità dichiarata).",
+ "L'intervento energetico sbagliato (la pompa di calore malestratificata? il bollitore mal gestito) scontenta ospiti (acqua fredda ai picchi) e spreca comunque.",
+ "Costi: il retrofit energetico: 3-8 anni di ritorno secondo gli interventi; le detrazioni fiscali dove applicabili.",
+ "Hotel con pompe di calore per ACS, contabilizzatori e LED: i consumi energetici sono calati del 35% in 3 anni; la parte restante (la climatizzazione delle aree comuni) è il prossimo intervento pianificato.",
+ "D.Lgs 192/2005 (requisiti energetici); contabilizzazione calore (D.Lgs 102/2014); specifiche settore.",
+ "La domanda annuale del direttore: 'quanto consumiamo per camera occupata?' — il benchmark che guida tutto."),
+s("SPA", "Le SPA alberghiere: il benessere come motore di fatturato",
+ "La SPA è il centro di profitto che cresce: il percorso benessere (idromassaggi, saune, bagno turco, piscina relax, sale trattamenti) porta ospiti in bassa stagione e aumenta il valore della camera; il progetto integra l'acqua (la piscina tecnica, gli idromassaggi), il vapore (l'hammam), il calore (la sauna) e il relax (le zone quiet con i lettini).",
+ "Elementi: la piscina tecnica (28-30 °C, i getti d'acqua, il fondo in mosaico), il percorso kneipp (l'alternanza caldo/freddo), la zona relax (il silenzio regna: l'acustica assorbente, la luce soffusa), i cabine trattamenti (i lettini, le luci regolabili, i lavabi dedicati), l'igiene (i percorsi obbligatori doccia, i pavimenti antiscivolo), la separazione (l'area SPA è spesso separata dall'area fitness e dalle famiglie con bambini in certi orari).",
+ "Resort, alberghi 4-5 stelle, centri benessere urbani.",
+ "La SPA vende il fuori stagione: l'hotel di montagna con la SPA piena anche a gennaio, quello di mare a novembre.",
+ "La SPA mal gestita (l'acqua fredda, il vapore scarso, il personale assente) è un passivo: il cliente la prova una volta e basta.",
+ "Costi: la SPA alberghiera: 1.500-4.000 €/m² (attrezzata); i ricavi: il day-spa pass (50-120 €) e i trattamenti.",
+ "Resort con SPA riprogettata (la piscina tecnica con i getti, il percorso caldo-freddo, la zona relax silenziosa): i day-spa pass coprono i costi di gestione e il fatturato dei trattamenti è cresciuto del 40% (il percorso 'scaldato' prepara i clienti ai massaggi).",
+ "Normativa antincendio; igiene (le piscine e i bagni di vapore); specifiche settore.",
+ "La SPA è teatro: la scenografia (acqua, vapore, luce, silenzio) deve funzionare tutto insieme, ogni giorno."),
+]
+
+README = """# HOTEL_E_HOSPITALITY_TECNICO_PACK — L'organizzazione tecnica dell'albergo
+
+**Facoltà:** FACOLTA_TECNOLOGIA_E_COSTRUZIONE · **Livello:** L2 · **Schede:** {n}
+
+## Contenuto
+L'albergo come macchina operativa: front of house e back of house con i flussi
+separati, la camera come prodotto (sonno, silenzio, doccia), le cucine
+professionali (flussi, cappe, HACCP), la lavanderia (il ciclo della biancheria
+senza incroci), la manutenzione programmata 365 giorni, l'efficienza energetica
+(contabilizzazione, pompe di calore, VMC a recupero) e le SPA come motore di
+fatturato (piscine tecniche, percorsi, zone relax).
+
+## Formato
+- `schede/schede.jsonl` — una scheda per riga, 11 campi standard.
+- `COURSE.yaml` — metadati del corso.
+
+## Uso per l'addestramento
+Adatto a: gestori alberghieri, progettisti di ricettività, consulenza su
+manutenzione e consumi, conversazioni su flussi e standard di catena. Il filo
+conduttore: l'ospite vede solo il front, ma paga (e torna) per come funziona
+tutto il resto.
+""".format(n=len(DATA))
+
+COURSE = """corso: "Tecnica alberghiera e hospitality"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L2"
+schede: {n}
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+""".format(n=len(DATA))
+
+os.makedirs(os.path.join(ROOT, "schede"), exist_ok=True)
+with open(os.path.join(ROOT, "schede", "schede.jsonl"), "w", encoding="utf-8") as f:
+    for d in DATA:
+        f.write(json.dumps(d, ensure_ascii=False) + "\n")
+with open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8") as f:
+    f.write(README)
+with open(os.path.join(ROOT, "COURSE.yaml"), "w", encoding="utf-8") as f:
+    f.write(COURSE)
+print("OK", len(DATA), "schede")

@@ -15,3 +15,8 @@ Tecnologie costruttive, materiali, posa, disegno CAD e BIM.
 
 ## Corsi aggiunti (giro rami infiniti)
 - MATERIALI_DEL_FUTURO_PACK (L3)
+
+## Corsi aggiunti (giro tipologie speciali)
+- SERRAMENTI_E_VETRATE_PACK (L2)
+- TETTI_E_COPERTURE_PACK (L1-L2)
+- HOTEL_E_HOSPITALITY_TECNICO_PACK (L2)

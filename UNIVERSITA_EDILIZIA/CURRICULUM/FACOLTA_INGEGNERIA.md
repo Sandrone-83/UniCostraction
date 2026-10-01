@@ -12,3 +12,8 @@ Ingegneria civile e strutturale: il cuore del calcolo e delle grandi opere.
 ## Corsi aggiunti (giro rami infiniti)
 - COSTRUZIONI_SPECIALI_PACK (L3)
 - INFRASTRUTTURE_VIARIE_PACK (L2)
+
+## Corsi aggiunti (giro tipologie speciali)
+- COSTRUIRE_IN_LEGNO_PACK (L2)
+- EDILIZIA_INDUSTRIALE_LOGISTICA_PACK (L2)
+- OSPEDALI_E_HEALTHCARE_PACK (L3)

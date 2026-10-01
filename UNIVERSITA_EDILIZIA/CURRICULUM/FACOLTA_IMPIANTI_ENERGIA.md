@@ -18,3 +18,7 @@ Impiantistica completa, domotica, innovazione e robotica di cantiere.
 
 ## Corsi aggiunti (giro rami infiniti)
 - SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK (L2)
+
+## Corsi aggiunti (giro tipologie speciali)
+- DATA_CENTER_E_CRITICAL_FACILITIES_PACK (L3)
+- PISCINE_E_WELLNESS_PACK (L2)
