@@ -235,3 +235,15 @@ Contenuto: 1 corso nuovo (patologie edili e diagnostica strumentale, 12 schede),
 | P7 | Validazione globale | — | 67 pack, 913 schede, 0 errori JSON, 0 schede fuori schema, 0 refusi «aplicazioni/tegnologia», conteggi COURSE.yaml coerenti | Script di validazione eseguito a fine giro |
 
 Righe aperte nel giro: soglia di rata unica del Conto Termico 3.0 (P3) da chiudere sulla fonte primaria (Regole Applicative GSE, testo integrale) alla prossima esecuzione; bando nazionale Reddito Energetico 2026 non ancora pubblicato: riverificare alla prossima esecuzione. Il materiale resta bozza finche' l'utente non approva il prossimo tag.
+
+## Giro Q — 2026-10-02, bozza post-v1.2.0 (verso v1.3, NESSUN tag applicato)
+
+Contenuto: 2 corsi nuovi (illuminazione tecnica e illuminotecnica; mezzi di sollevamento e movimentazione), 22 schede, 2 esami da 500 domande totali. Temi scelti per coprire gap verificati: nessun pack dedicato all'illuminotecnica (solo citazioni laterali) e ai mezzi di sollevamento (solo menzioni sparse in altri corsi). Cumulativo con Giro P (task automatico): 69 pack, 935 schede, 70 esami.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| Q1 | Solo aggiunte, nessuna correzione | Illuminotecnica: norme consolidate citate per esteso (UNI EN 12464-1, UNI EN 1838, UNI EN 13032, serie UNI EN 13201, CEI 64-8, Reg. (UE) 2019/2020); valori specifici di illuminamento rimandati al testo vigente della norma invece di essere copiati, per non rischiare cifre non aggiornate | Coerenza interna + norme consolidate citate per esteso nelle schede |
+| Q2 | Solo aggiunte, nessuna correzione | Sollevamento e movimentazione: D.Lgs 81/2008 (attrezzature di lavoro, verifiche periodiche) e norme UNI EN consolidate (12810, 12811, 280, 13000, 14492-2, 818, ISO 4309, 1492); scadenze precise rimandate all'Allegato XXX vigente | Come Q1 |
+| Q3 | Controllo qualita' | Verifica durante la scrittura: corretto in bozza un carattere errato («allarme di inclinazione»); zero marker residui nei due pack | Controllo interno sui file generati |
+
+Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.

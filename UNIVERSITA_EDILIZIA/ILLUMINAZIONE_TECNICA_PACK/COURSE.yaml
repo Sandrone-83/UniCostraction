@@ -1,0 +1,9 @@
+corso: "Illuminazione tecnica e illuminotecnica"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L1-L2"
+schede: 11
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "UNI EN 12464-1, UNI EN 1838, UNI EN 13032, serie UNI EN 13201, CEI 64-8, Regolamento (UE) 2019/2020, D.Lgs 81/2008, direttiva 2014/35/UE"
+nota_metodologica: "Illuminotecnica operativa: grandezze fotometriche, norma sui livelli di illuminamento, LED, impianto, esterno, emergenza, efficienza, calcolo, manutenzione e verifica in opera. Norme citate solo dove consolidate; per le soglie specifiche degli ambienti si rimanda al testo vigente della UNI EN 12464-1."

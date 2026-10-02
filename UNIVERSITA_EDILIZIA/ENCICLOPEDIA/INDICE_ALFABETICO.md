@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1075 voci enciclopediche tratte da 68 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1097 voci enciclopediche tratte da 70 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -111,6 +111,8 @@
   Non tutto l'autoconsumo collettivo è una CER: l'AUC condivide energia dentro un edificio o un complesso, i GAC aggregano consumatori e produttori senza forma giuridica piena. Le regole e i vantaggi differiscono in modo p…
 - **Audit tecnico di edifici in esercizio e pre-acquisto** — Esercizio · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   La perizia periodica e la due diligence tecnica: lo stato di salute dell'edificio.
+- **Autogru e camion-gru: diagrammi di carico, slancio e contrappesi** — Autogru · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  L'autogru e' la soluzione flessibile: arriva, starga, solleva e riparte. Ma la sua capacita' crolla con la distanza: il diagramma di carico e' la sua carta d'identita'.
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
 - **Aviazione generale, eliporti e aviazione leggera: infrastrutture minime** — Aviazione leggera · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
@@ -193,6 +195,8 @@
   Prelievo di carote di calcestruzzo e determinazione in laboratorio della resistenza a compressione: la prova di riferimento per la valutazione delle strutture esistenti. L'errore tipico è prelevare carote troppo corte o …
 - **Carpenteria metallica leggera per costruzioni a secco** — Carpenteria leggera · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Profili sottili zincati per contropareti, contropavimenti, tetti e strutture leggere.
+- **Carriponte, portali e sistemi di movimentazione industriale** — Industria · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Nelle officine, nei magazzini e nelle prefabbricazioni la movimentazione e' industriale: carriponte su rotaie, portali semi-automatici e sistemi di stoccaggio che lavorano migliaia di cicli l'anno.
 - **Carta da parati e rivestimenti murali** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Carte, vinilici e tessuti da parete: finitura decorativa e protettiva.
 - **Casseforme e disarmo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -403,6 +407,8 @@
   Le regole del costruire in campagna: fabbricati rurali, vincoli paesaggistici e pratiche semplificate.
 - **Edilizia temporanea di emergenza: SAE, map e soluzioni rapide** — Temporaneo · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Le case di emergenza: moduli abitativi, container e i villaggi della ricostruzione.
+- **Efficienza energetica e gestione intelligente della luce** — Efficienza · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  La luce e' spesso la prima voce in bolletta di uffici e retail: sensori di presenza, daylight harvesting e regolazione oraria tagliano consumi senza togliere qualita' visiva.
 - **Elementi per solai latero-cementizi** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocchi in laterizio o polistirolo da interporsi tra i nervature dei solai: alleggeriscono e collaborano.
 - **Elettrificazione ferroviaria: 3 kV DC e 25 kV AC** — Elettrificazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -561,6 +567,8 @@
   Sistemi di raccolta acque piovane in PVC o metallo: proteggono la facciata e raccolgono l'acqua.
 - **Gronde e pluviali: l'acqua che si porta via** — Gronde · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Il sistema di raccolta (gronde per falde, pluviali per piani) dimensiona e convoglia l'acqua piovana verso lo scarico o il recupero; il dimensionamento dipende dalla superficie di raccolta e dalla pioggia intensa di zona…
+- **Gru a torre: componenti, fondazioni, ancoraggi e cantiere** — Gru a torre · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  La gru a torre e' il mezzo simbolo del cantiere edile: alta, potente, presente per mesi. Funziona solo se base, ancoraggi e interferenze sono stati progettati, non improvvisati.
 - **Guaina bituminosa poliestere** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rotolo di bitume modificato con polimeri, rinforzato in poliestere: la copertura impermeabile tradizionale dei tetti piani.
 - **Guaina EPDM e PVC** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -719,6 +727,8 @@
   Le verifiche rapide che ogni tecnico deve saper fare senza computer.
 - **Il calcolo del fabbisogno termico: da dove si parte** — Fabbisogno · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La prima pagina di ogni progetto termico: come si calcola il carico di progetto.
+- **Il calcolo illuminotecnico: metodo del flusso totale e software** — Progetto · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  Il calcolo serve a garantire i livelli richiesti dalla norma prima di comprare un apparecchio: il metodo del flusso totale da' una stima rapida, i software fotometrici danno la simulazione vera.
 - **Il calcolo mentale e le stime rapide: l'arma segreta del professionista** — Calcolo mentale · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Ordini di grandezza, arrotondamenti intelligenti, verifiche immediate senza calcolatrice.
 - **Il calcolo previsionale: UNI EN ISO 12354** — Progettazione · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
@@ -947,6 +957,8 @@
   La figura chiave: cosa deve fare l'amministratore e dove risponde dei danni.
 - **Il sistema costruttivo a prefabbricati: logica e campi d'impiego** — Sistema costruttivo · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   L'industrializzazione dell'edilizia: elementi prodotti in stabilimento e assemblati in cantiere.
+- **Il sistema dei mezzi di sollevamento in cantiere: classificazione e scelta** — Fondamenti · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Sollevare e movimentare e' meta' del lavoro di un cantiere: materiali, prefabbricati, casseforme, attrezzature. Scegliere il mezzo giusto significa dimensionarlo su tre variabili: peso, raggio orizzontale e altezza di so…
 - **Il sistema della protezione civile: ruoli, livelli e codice** — Protezione civile · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Come l'Italia organizza l'emergenza: il codice della protezione civile e la catena del comando.
 - **Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
@@ -975,10 +987,14 @@
   Non si può montare un vetro qualunque ovunque: porte, vetrine, docce, parapetti e facciate basse richiedono vetri di sicurezza che, in caso di rottura, non feriscono le persone o restano in posizione. La scelta corretta …
 - **Il vetro: camera, triplo, basso emissivo, sicurezza** — Vetro · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + intercapedine 12-16 mm con gas argon), triplo (3 lastre, per climi freddi), basso emissivo (metallizzazione che riflette il calore interno invern…
+- **Illuminazione esterna: stradale, aree verdi e tutto il cielo** — Esterno · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  L'illuminazione esterna serve viabilita', sicurezza e fruizione notturna degli spazi, ma va contenuta: l'obiettivo e' la luce giusta dove serve, con controllo dell'emissione verso l'alto.
 - **Illuminazione sportiva e impianti di sicurezza: lux per disciplina, flicker e videosorveglianza** — Impianti impiantistici · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   L'illuminazione serve due padroni: l'atleta, che richiede uniformità e assenza di abbagliamento, e la televisione, che richiede livelli di illuminamento elevati e stabilità dell'immagine (assenza di flicker anche a ripre…
 - **Illuminotecnica LED** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Corpi illuminanti a LED: plafoniere, downlight, strisce, proiettori: la luce efficiente e di design.
+- **Imbragature, stralli e attrezzature di sollevamento accessorie** — Sotto il gancio · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Il carico viaggia appeso a funi, catene, stralli e ganci: e' la parte meno appariscente e piu' pericolosa di tutto il sistema. Il fattore di utilizzo e la geometria dell'imbragatura decidono se il carico arriva o cade.
 - **Impermeabilizzanti liquidi per zone umide, balconi e terrazzi** — Impermeabilizzazioni · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatura in bagni, balconi e terrazzi. Errore tipico: saltare fasce e angolari nei raccordi parete-pavimento e non rispettare gli spessori per mano…
 - **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
@@ -1105,6 +1121,8 @@
   La legge madre della statica: ogni corpo fermo ha somma di forze e momenti nulla.
 - **L'idraulica degli impianti in formule: portata, perdite, pressione** — Idraulica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule del fluire dell'acqua negli edifici: pressione, portata, perdite di carico.
+- **L'illuminazione di emergenza: norma UNI EN 1838 e adempimenti** — Sicurezza · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  In caso di black-out l'illuminazione di emergenza deve garantire l'evacuazione: percorsi, uscite, zone ad alto rischio. E' un impianto obbligatorio con requisiti di funzionalita' e verifiche periodiche.
 - **L'illuminazione industriale: la luce che produce** — Illuminazione industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   La luce industriale è produttività e sicurezza: gli impianti moderni a LED ad alta baia ( High bay 8-12 m) con regolazione (sensori di presenza e luce diurna) consumano la metà dei vecchi apparecchi a sodio; i requisiti:…
 - **L'illuminazione naturale e artificiale degli ambienti didattici** — Comfort ambientale · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
@@ -1123,6 +1141,8 @@
   Gli impianti di protezione attiva contro l'incendio permettono la prima manovra di spegnimento da parte degli occupanti o dei vigili del fuoco. Il dimensionamento dipende da volume, destinazione d'uso e disposizioni dell…
 - **L'impianto di trattamento dell'acqua della piscina: filtrazione, disinfezione, bilancio idrico** — Trattamento acque · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   L'acqua della piscina è un circuito chiuso che va filtrato, disinfezionato e bilanciato continuamente: la qualità dell'acqua si misura con pochi parametri (cloro libero, pH, torbidità) che devono stare in fascia giorno d…
+- **L'impianto elettrico della luce: quadri, linee e sicurezza** — Impianto · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  L'illuminazione e' un carico elettrico: il circuito va progettato come impianto, con quadro, protezioni, sezioni di cavo adeguate e canalizzazioni secondo le regole degli impianti elettrici.
 - **L'impianto elettrico in formule: potenza, corrente, caduta di tensione** — Elettrica formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Le formule elettriche del cantiere e dello studio.
 - **L'impianto elettrico ospedaliero: i gruppi di sicurezza e le utenze vitali** — Elettrica · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
@@ -1283,6 +1303,8 @@
   La verifica rapida dei muri portanti esistenti.
 - **La muratura strutturale: blocchi, setti, rinforzi** — Muratura strutturale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il costruttivo italiano per eccellenza: come regge e come si rafforza.
+- **La norma UNI EN 12464-1: livelli di illuminamento per ambiente** — Fondamenti · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  La norma europea (adottata in Italia come UNI EN 12464-1) fissa i valori minimi medi di illuminamento misurati sul piano di riferimento di ciascun ambiente di lavoro: uffici con attivita' di scrittura e lettura, scuole, …
 - **La palestra scolastica: struttura, altezze e sicurezza** — Spazi per l'attività motoria · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   La palestra scolastica è l'ambiente più impegnativo dell'edificio dal punto di vista strutturale: luci ampie, altezze libere importanti, sollecitazioni dinamiche da attività sportive e presenza simultanea di molti utenti…
 - **La perizia immobiliare: metodi di stima** — Estimo · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
@@ -1481,6 +1503,8 @@
   Le garanzie muovono denaro: il cliente chiede fideiussione (garanzia bancaria o assicurativa) a garanzia di caparra, acconti, esecuzione; l'impresa offre attestazioni di conformità, certificazioni energetiche, attestati …
 - **Le grandezze acustiche: decibel, frequenza, spettro** — Fondamenti · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   L'acustica si misura in decibel (dB), scala logaritmica del rapporto tra pressioni sonore: 3 dB in più raddoppiano l'energia, 10 dB in più raddoppiano la sensazione di sonorità; l'orecchio umano percepisce da 20 Hz a 20.…
+- **Le grandezze fotometriche: lumen, lux, candela, nit** — Fondamenti · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  Il lessico minimo per ragionare sulla luce: flusso luminoso (lumen, lm), intensita' (candela, cd), illuminamento (lux, lx = lm/m²), luminanza (nit, cd/m²) e grandezze cromatiche (temperatura di colore in kelvin, indice d…
 - **Le icone del design da conoscere: sedie, lampade, tavoli** — Icon del design · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   Un nucleo di capisaldi riconoscibili costituisce il vocabolario professionale: sedia Barcelona (Mies van der Rohe, 1929), sedia LC4 Chaise Longue (Le Corbusier/Perriand/Jeanneret), Tulip Chair (Eero Saarinen, 1956), Arco…
 - **Le indagini geotecniche: sondaggi, carotaggi e campionamento** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -1547,6 +1571,8 @@
   Le scaffalature sono strutture metalliche portanti che trasformano il volume del capannone in stoccaggio verticale: scaffali portapallet, scaffalature a gravità, drive-in, miniload automatizzati; ogni sistema ha il suo c…
 - **Le schermature solari: sole d'inverno amico, sole d'estate nemico** — Solare edilizio · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   La stessa vetrata che in inverno riscalda gratuitamente in estate surriscalda: le schermature solari (tende, persiane, frangisole, pellicole) gestiscono il rapporto di ingresso, spesso valutato con il calcolo solare dell…
+- **Le sorgenti LED: chip, driver, binning e schemi ottici** — Sorgenti · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  Il LED ha sostituito incandescenza, fluorescenza e scarica: lunga vita, elevata efficienza, controllo istantaneo e dimmerabilita'. Ma la qualita' di un apparecchio LED dipende da chip, alimentatore (driver), selezione cr…
 - **Le SPA alberghiere: il benessere come motore di fatturato** — SPA · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La SPA è il centro di profitto che cresce: il percorso benessere (idromassaggi, saune, bagno turco, piscina relax, sale trattamenti) porta ospiti in bassa stagione e aumenta il valore della camera; il progetto integra l'…
 - **Le strade: classificazione e geometria** — Strade · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -1621,6 +1647,8 @@
   Piattaforma di controllo di rete per automazione edilizia (storica).
 - **Lubrificanti e olii** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Olii lubrificanti per attrezzature e casseforme: sbloccanti e stacchi per il cls.
+- **Luce per uffici, scuole, sanita', industria e retail** — Architettura della luce · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  Ogni tipologia ha bisogni luminosi diversi: l'errore e' usare la stessa soluzione ovunque. La luce giusta migliora performance, sicurezza e vendite.
 - **LVT (luxury vinyl tile)** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lastre o doghe in vinile con decoro realistico: il pavimento resilienti di pregio: caldo, silenzioso, impermeabile.
 
@@ -1649,6 +1677,8 @@
   Le opere invecchiano: monitoraggio, manutenzione programmata, digitalizzazione del patrimonio.
 - **Manutenzione programmata e risparmio energetico** — Gestione e sicurezza · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   La sostenibilità economica di un impianto si gioca in esercizio: manutenzione programmata delle superfici, delle strutture e degli impianti tecnologici, insieme a scelte di efficientamento energetico che incidono sui con…
+- **Manutenzione, deprezzamento e relamping** — Manutenzione · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  Un impianto di illuminazione non si mantiene da solo: sorgenti degradano, ottiche si sporcano, batterie di emergenza invecchiano. La manutenzione programmata mantiene i valori di progetto.
 - **Marcatura CE e controllo di produzione in fabbrica (FPC)** — Marcatura CE · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   UNI EN 1090: il passaporto europeo della carpenteria strutturale.
 - **Marciapiedi, piste ciclabili e la città a 30 km/h** — Marciapiedi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -1757,6 +1787,8 @@
   Distribuzione del calore (e fresco) per irraggiamento: il comfort termico più efficiente.
 - **Pannello isolante accoppiato (PIR + cartongesso)** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pannello sandwich con isolante (PIR/lana) + lastra in cartongesso: l'isolamento interno rapido.
+- **Paranchi, verricelli, montacarichi e mini-gru da cantiere** — Sollevamento verticale · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Per muovere carichi in verticale dentro il cantiere — sacchi, casseforme, attrezzature — esistono macchine piccole ma decisive: paranchi a fune o catena, verricelli, montacarichi a cremagliera e mini-gru autocarrate.
 - **Parete in cartongesso doppia lastra** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Due lastre per lato con telaio metallico e lana interposta: la parete divisoria acustica standard.
 - **Parquet in legno massello** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1781,10 +1813,14 @@
   Verificare cosa dice il catasto e cosa c'è in realtà: la perizia per regolarizzare.
 - **Persiane, tapparelle, frangisole: l'ombra come prestazione** — Oscuranti · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Gli oscuranti esterni sono la prima schermatura solare: persiane (tradizione italiana, ottime in estate), tapparelle (comode, isolano), frangisole orientabili (prestazionali, architettonici), tende da sole per esterni; l…
+- **Piani di sollevamento, segnali e direzione delle manovre** — Piani di manovra · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Ogni sollevamento delicato si progetta prima di muovere il gancio: piano di sollevamento, zona di esclusione, segnalatore dedicato e comunicazioni chiare tra cabina e terra.
 - **Piano manutentivo condominiale e ammodernamento energetico** — Manutenzione programmata · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   Dal guasto all'emergenza alla manutenzione programmata: il piano che allunga la vita dell'edificio.
 - **Piastrella ceramica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Ceramica a pasta rossa o bianca (non vetrificata): il rivestimento bagno/cucina classico: economica e decorativa.
+- **Piattaforme di lavoro elevabili (PLE): tipi, stabilizzatori e uso corretto** — PLE · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  La PLE (piattaforma di lavoro elevabile) sostituisce scala e impalcatura per lavori brevi in quota: pulizia facciate, manutenzione impianti, tinteggiatura. E' veloce ma va usata dentro i suoi limiti.
 - **Piattaforme elevatrici e montacarichi: il verticale dove l'ascensore non entra** — Soluzioni compatte · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
   Non sempre serve un ascensore: per piccoli dislivelli, carichi o contesti con pochi spazio ci sono le piattaforme elevatrici (per persone in carrozzina) e i montacarichi (per merci). Regimi, limiti e costi sono diversi, …
 - **Piattaforme, banchine e pensiline ferroviarie** — Architetture di stazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -1817,6 +1853,10 @@
   Combinazione caldaia a gas + pompa di calore: la PDC copre il 90% del fabbisogno, la caldaia i picchi.
 - **Pompe e circolatori: come funzionano e come si scelgono** — Pompe e circolatori · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il cuore che muove l'acqua nei circuiti chiusi.
+- **Ponteggi metallici a telai: montaggio, vincoli e carichi ammissibili** — Ponteggi a telai · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Il ponteggio a telai e' la spina dorsale dei lavori su facciata: una struttura temporanea metallica che deve reggere persone, materiali e talvolta gru a piattaforma. Va montata da personale abilitato secondo progetto.
+- **Ponteggi multidirezionali, sospesi e strutture speciali** — Ponteggi speciali · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Quando la facciata e' complessa — cupole, torri, ponti, fronti in quota su roccia — il ponteggio a telai non basta: entrano i sistemi multidirezionali (fermate su ogni direzione) o i ponteggi sospesi.
 - **Ponti e grandi strutture metalliche** — Grandi strutture · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Cenni tecnici sulle grandi strutture di acciaio: forme, cantiere e fatica.
 - **Ponti e strutture provvisorie d'emergenza** — Strutture provvisorie · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
@@ -2167,6 +2207,10 @@
   Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifi…
 - **Ventilazione ambienti di lavoro e capannoni** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Aspirazione e ricambio nei luoghi di lavoro: salute obbligatoria e spesso progettata male.
+- **Verifica in opera: luxmetro, accettazione e documentazione** — Controlli · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
+  La fase finale e' la verifica: misurare i lux reali a impianto completato e confrontarli con la relazione di calcolo, poi archiviare la documentazione.
+- **Verifiche, manutenzione e adempimenti degli apparecchi di sollevamento** — Adempimenti · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
+  Le attrezzature di sollevamento sono tra i pochi oggetti del cantiere con obblighi di legge scritti nel sangue: verifiche iniziali, periodiche e straordinarie, libretti e personale formato. Mancarli e' reato e disgrazia …
 - **Vetro camera (doppio/triplo)** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vetri separati da spaziatori con gas: l'isolamento termico e acustico delle finestre.
 - **Vetro cellulare (foam glass)** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
