@@ -259,3 +259,19 @@ Contenuto: strumentazione di valutazione, nessuna modifica a schede o norme.
 | R3 | Controllo qualita' | `ESAMI/RISPOSTE_CANDIDATO/` esclusa dal tracciamento git tramite `.git/info/exclude` (non `.gitignore`): risposte e verbali restano locali | Coerenza con la regola 'chiavi e risposte fuori repository' |
 
 Righe aperte nel giro: nessuna.
+
+## Giro S — 2026-10-02, bozza post-v1.2.0 (verso v1.3, NESSUN tag applicato)
+
+Contenuto: audit di discriminante degli esami, rigenerazione DESIGN_GUSTO, nuovo esame SERRAMENTI, 3 schede aggiunte a SERRAMENTI_E_VETRATE_PACK.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| S1 | Audit | `ESAMI/AUDIT_CONTENT_LOCKED.md`: classificazione di tutte le 16.388 domande dei 73 esami in LOCKED/MISTO/PATTERN. Esito: 13% locked; molti settori sotto il 10%. Origine: la gara di ammissione ha mostrato un candidato senza corpus al 97% su DESIGN_GUSTO (errori solo su quadri normativi testuali) | Gara di ammissione del 2026-10-02 (ILLUMINAZIONE 100% addestrato vs DESIGN_GUSTO 97% non addestrato) |
+| S2 | Strumento nuovo | `build_esami_design_v2.py`: generatore content-locked (cloze numeriche e su nomi propri con distrattori delle schede sorelle; solo tipi locked: casi reali, costi, note di cantiere, norme, quota ridotta vantaggi/limiti; eliminati 'appartiene alla tecnologia', 'NON appartiene', applicazioni, riassunti). Guard: mai cancellare il numero che fa parte del nome di legge/decreto/articolo | Rimedio all'errore di misura scoperto con S1 |
+| S3 | Rigenerazione | ESAMI/DESIGN_GUSTO rigenerato con il criterio v2: 116 domande (37 cloze), verifica automatica 116/116 risposte presenti testualmente nelle schede fonte. Chiavi riservate aggiornate in ESAMI_RISPOSTE (fuori repo); risposte candidato v1 archiviate in ESAMI/RISPOSTE_CANDIDATO/_archivio_gara_v1/ | Verifica script su chiavi vs schede.jsonl |
+| S4 | Materiale nuovo | 3 schede aggiunte a SERRAMENTI_E_VETRATE_PACK (da 13 a 16): 'Marcatura CE, DoP e classificazioni prestazionali (UNI EN 14351-1)', 'Requisiti di legge: Legge 10 e DM requisiti minimi per gli infissi', 'Antieffrazione: classi RC e vetri antisfondamento (P1A-P5A)' — angoli non coperti dalle 13 schede preesistenti. Norme citate solo UNI/EN reali; costi dichiarati come ordini di grandezza indicativi | Integrazione, non duplicazione: verificata la copertura preesistente del pack |
+| S5 | Esame nuovo | ESAMI/SERRAMENTI (195 domande, 56 cloze): primo esame creato direttamente col criterio v2; verifica automatica 195/195 risposte presenti testualmente nelle schede fonte | `build_esami_giro_o.py` + verifica script |
+
+Righe aperte nel giro:
+- Rigenerazione graduale degli esami sotto il 10% di LOCK partendo dai settori che AuraTrix userà prima (DIMENSIONAMENTO_TERMOTECNICO 2%, ENERGETICA_INCENTIVI 2%, FOTOVOLTAICO_CER 5%).
+- Il pack SERRAMENTI_E_VETRO creato per errore in questo giro è stato eliminato dopo il riscontro del duplicato (SERRAMENTI_E_VETRATE_PACK esisteva già): nessun residuo in repo.
