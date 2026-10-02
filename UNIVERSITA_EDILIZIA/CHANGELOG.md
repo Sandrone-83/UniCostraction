@@ -329,3 +329,20 @@ Contenuto: verifica su fonte primaria del Conto Termico 3.0, nuovo pack CAPPOTTO
 | U5 | Indice | Manifest FACOLTA_TECNOLOGIA_E_COSTRUZIONE senza CAPPOTTO_ETICS | Aggiunto CAPPOTTO_ETICS_PACK (L2) con nota esame; aggiunta nota esame SERRAMENTI su SERRAMENTI_E_VETRATE_PACK | Coerenza interna |
 
 Righe aperte nel giro: nessuna. Le percentuali Conto Termico 3.0 vanno rilette sulle Regole Applicative GSE vigenti a ogni aggiornamento (la regola 'da verificare' resta attiva per tutti i valori incentivanti).
+
+## Giro V — 2026-10-02, bozza post-v1.3.0 (verso v1.4, NESSUN tag applicato)
+
+Contenuto: 3 schede Conto Termico 3.0 dai gap delle Regole Applicative GSE + fix del generatore d'esami su unità di misura.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| V1 | Materiale nuovo | ENERGETICA_INCENTIVI_PACK: 15 schede | 18 schede, con: «Conto Termico 3.0: gli errori che fanno rigettare o sospendere la pratica», «Conto Termico 3.0: massimali, costi ammissibili e calcolo dell'incentivo», «Conto Termico 3.0: multi-intervento, cumuli e maggiorazioni» | Regole Applicative del D.M. 7 agosto 2025, gse.it ('Regole_Applicative_CT_3_0.pdf'), verificato il 02/10/2026 |
+| V2 | Correzione su fonte | Scheda «Conto Termico 3.0: accesso diretto, prenotazione, pratica»: «soglia unica rata 5.000-15.000 € da verificare» | Soglia confermata 15.000 € (accesso diretto fino a 15.000 € = rata unica; oltre = 2/5 rate annuali; prenotazione: PA/ETS non economici in rata unica anche oltre soglia; acconto sul minore tra massimale prenotato e importo contrattualizzato; ETS economici misti Titolo II+III → multi-rata alla durata massima dei Titolo II) | Come V1 |
+| V3 | Fix refuso | Scheda «accesso diretto, prenotazione, pratica», note_cantiere: «PRIERA della data di consegna» | «PRIMA della data di consegna» | Controllo ortografico interno |
+| V4 | Fix generatore | `build_esami_design_v2.py`, regex NUM: l'alternativa unità provava «m» prima di «mesi»/«mln» e «ml» prima di «mln», mangiando l'inizio della parola successiva: cloze corrotte tipo «___n privati» (da «500 mln privati») e «___esi di tempo» (da «18 mesi di tempo»). La verifica chiavi↔schede NON li intercettava (la risposta resta sottostringa del testo scheda): intercettati solo in campionamento visivo | Unità riordinate per lunghezza decrescente + «mln» aggiunto + lookahead che vieta l'unità come prefisso di parola. Test su 13 casi limite: tutti corretti («500 mln», «18 mesi», «500 ml», «18 m»...) | Test regex dedicato + grep «___[a-z]» su tutti gli esami: da 32 corrotte a 0 |
+| V5 | Rigenerazione | ESAMI/ENERGETICA_INCENTIVI (250 domande) + esami v2 pre-esistenti con cloze corrotte: FOTOVOLTAICO_CER (14), DESIGN_GUSTO (9), SERRAMENTI (5), DIMENSIONAMENTO_TERMOTECNICO (3), CAPPOTTO (1) | Tutti rigenerati con generatore fixato: ENERGETICA_INCENTIVI 250 (125 cloze), FOTOVOLTAICO_CER 240 (93), DESIGN_GUSTO 116 (37), SERRAMENTI 195 (56), DIMENSIONAMENTO_TERMOTECNICO 207 (93), CAPPOTTO 117 (38). Verifica chiavi↔schede: 1.165/1.165 = 0 fail; cloze corrotte 0/6 esami | `build_esami_design_v2.py` (fix V4) + verifica script sui 6 esami |
+| V6 | Nota conteggi | FOTOVOLTAICO_CER target 241 → 240; DIMENSIONAMENTO_TERMOTECNICO target 212 → 207 | Il fix restringe leggermente il pool di cloze valide (candidati prima validi solo come token corrotti): deficit di 1 e 5 domande, non compensabili senza reintrodurre casi ambigui. Conteggio dichiarato onestamente; esami comunque sopra soglia d'uso | Verifica script |
+
+Righe aperte nel giro:
+- Le cloze dei 6 esami rigenerati sono ora pulite; gli esami generati da generatori v1 (pre-v2) risultano a 0 cloze corrotte al controllo «___[a-z]» e non sono toccati.
+- Valori incentivanti Conto Termico 3.0: rileggere le Regole Applicative GSE vigenti a ogni aggiornamento di materiale (regola 'da verificare' sempre attiva in output).

@@ -22,7 +22,12 @@ random.seed(73)
 
 ABBR = r'(D\.Lgs|D\.P\.R|D\.M|D\.L|Art|art|C\.M|ecc|circ|Circ|Prot|prot|n)'
 
-NUM = re.compile(r"\d+(?:[.,]\d+)?(?:-\d+(?:[.,]\d+)?)?\s?(?:€/ml|€/m²|€/punto luce|€/\s?5\s?L|€/giorno|kWh|MWh|kWp|kW|MW|GW|kJ|mm|cm|m²|ml|m|g|kg|t|K|°C|bar|%|€|anni|giorni|mesi|mani|V|A|W)?")
+# Unità in ordine di lunghezza decrescente (la regex prova le alternative in ordine:
+# prima "kW" di "kWh" lascerebbe "h" orfano idem per m/ml/mln, g/kg, mesi/m...).
+# Il lookahead finale vieta che l'unità sia solo un prefisso della parola successiva
+# (es. "18 m" dentro "18 mesi" o "500 ml" dentro "500 mln"): in quel caso il match
+# dell'unità fallisce e si cade sul numero da solo, che è corretto.
+NUM = re.compile(r"\d+(?:[.,]\d+)?(?:-\d+(?:[.,]\d+)?)?\s?(?:€/punto luce|€/giorno|€/ml|€/m²|€/\s?5\s?L|giorni|anni|mesi|mani|kWh|MWh|kWp|mln|kW|MW|GW|kJ|mm|cm|m²|ml|kg|bar|°C|V|A|W|g|t|K|m|€|%)?(?![a-zàèéìòù])")
 PROP = re.compile(r"\b[A-ZÀÈÉÌÒÙ][a-zàèéìòù]{2,}\b")
 STOP = set(["La","Le","Il","I","Lo","Gli","Un","Una","Uno","E","O","Ma","Che","Chi","Cosa","Come","Quando","Dove","Per","Con","Non","È","Sono","Ha","Hanno","Si","Lo","Al","Allo","Alla","Alle","Ai","Ne","Il","Questo","Questa","Queste","Da","Di","Del","Della","Dello","Delle","Dei","In","A","Su","Se","Una","Vero","Falso"])
 
