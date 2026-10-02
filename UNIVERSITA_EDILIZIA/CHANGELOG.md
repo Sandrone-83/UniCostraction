@@ -247,3 +247,15 @@ Contenuto: 2 corsi nuovi (illuminazione tecnica e illuminotecnica; mezzi di soll
 | Q3 | Controllo qualita' | Verifica durante la scrittura: corretto in bozza un carattere errato («allarme di inclinazione»); zero marker residui nei due pack | Controllo interno sui file generati |
 
 Righe aperte nel giro: nessuna. Il materiale resta bozza finche' l'utente non approva il tag.
+
+## Giro R — 2026-10-02, bozza post-v1.2.0 (verso v1.3, NESSUN tag applicato)
+
+Contenuto: strumentazione di valutazione, nessuna modifica a schede o norme.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| R1 | Strumento nuovo | `ESAMI/PROTOCOLLO_VALUTAZIONE.md`: regole di amministrazione e giudizio degli esami (soglie 90/80/70/50, riservatezza chiavi) | Regole espresse dall'utente nelle sessioni di progetto |
+| R2 | Strumento nuovo | `valuta_esami.py`: genera schede di risposta vuote (`template`) e corregge (`valuta`) producendo il verbale con giudizi per settore e, solo per le domande errate, lettera corretta e fonte da ripassare. Compatibile con entrambi i formati di chiave (standard con lettera, legacy con lettera diretta o testuale) | Test eseguito su risposte simulate: ACUSTICA 94% (Eccellente), SOLLEVAMENTO 56% (Insufficiente), 68 settori segnati 'non sostenuto'; chiavi legacy MATERIALEDILE e IMPIANTI_FV_EOLICO derivate al 100% |
+| R3 | Controllo qualita' | `ESAMI/RISPOSTE_CANDIDATO/` esclusa dal tracciamento git tramite `.git/info/exclude` (non `.gitignore`): risposte e verbali restano locali | Coerenza con la regola 'chiavi e risposte fuori repository' |
+
+Righe aperte nel giro: nessuna.
