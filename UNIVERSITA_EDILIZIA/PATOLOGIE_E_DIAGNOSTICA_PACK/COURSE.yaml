@@ -1,0 +1,9 @@
+corso: "Patologie edili e diagnostica strumentale"
+facolta: "FACOLTA_INGEGNERIA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "NTC 2018, UNI EN 12504-1/-2/-4, UNI EN 13187, UNI EN ISO 13788, ASTM C876, UNI EN ISO 12696, UNI EN 206, D.Lgs 42/2004, D.Lgs 81/2008, raccomandazioni RILEM"
+nota_metodologica: "Diagnostica strumentale e patologie del costruito: metodo, prove non distruttive e semi-distruttive, degrado chimico, umidita', monitoraggio. Norme citate solo dove certe; valori di accettazione delle prove da verificare sul testo vigente e sulle linee guida di settore."

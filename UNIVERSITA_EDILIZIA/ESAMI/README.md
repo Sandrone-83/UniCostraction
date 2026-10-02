@@ -66,6 +66,7 @@ di apprendimento per settore.
 | METODI_COSTRUTTIVI | ✅ 250 domande | chiavi: jsonl |
 | OSPEDALI | ✅ 200 domande | chiavi: jsonl |
 | PISCINE | ✅ 200 domande | chiavi: jsonl |
+| PATOLOGIE_DIAGNOSTICA | ✅ 250 domande | chiavi: jsonl |
 | PERIZIE_STIME | ✅ 250 domande | chiavi: jsonl |
 | PIETRE_NATURALI | ✅ 250 domande | chiavi: jsonl |
 | POSA_IN_OPERA | ✅ 300 domande | chiavi: jsonl |

@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-194 voci, 15 corsi.
+206 voci, 16 corsi.
 
 
 ## Aeroporti e infrastrutture di volo
@@ -2834,6 +2834,191 @@ La sala operatoria è l'ambiente tecnologicamente più denso dell'edilizia: il b
 - **Caso tipico:** Blocco operatorio riprogettato con sale modulari e locali tecnici esterni: i tempi di cambio tra un intervento e l'altro sono calati del 25% (più sale operabili al giorno); la sala gemella 'tradizionale' dello stesso ospedale resta il collo di bottiglia.
 - **Normativa:** Normativa UNI EN ISO 14644? No: i riferimenti: linee guida ministeriali sulle sale operatorie; norme sui gas medicali (UNI EN ISO 9170); antincendio specifico.
 - **Nota di cantiere:** La domanda di progetto: 'quanto tempo perde il chirurgo tra un paziente e l'altro?' — la risposta si progetta.
+
+
+## Patologie edili e diagnostica strumentale
+
+*Corso `PATOLOGIE_E_DIAGNOSTICA_PACK` — 12 voci*
+
+### Corrosione delle armature: mappatura dei potenziali e resistività
+
+**Categoria:** Degrado dei materiali · **Corso:** Patologie edili e diagnostica strumentale
+
+Valutazione dello stato di corrosione dei ferri senza demolire: mappatura del potenziale di semicella, misura della resistività elettrica del calcestruzzo e stima della corrente di corrosione. L'errore tipico è leggere un potenziale negativo come 'corrosione certa' senza considerare umidità e ossigeno; il controllo è l'incrocio delle tre misure e lo scasso di verifica nei punti peggiori.
+
+- **Tecnologia e criteri:** Mappatura del potenziale con elettrodo di riferimento (rame/solfato di rame) su griglia 20-50 cm, secondo il metodo internazionale ASTM C876 (valori più negativi di circa -350 mV CSE indicano probabilità di corrosione > 90%, tra -200 e -350 zona incerta); resistività con metodo Wenner a 4 elettrodi (sotto ~10-12 kΩ·cm la corrosione, se presente, è veloce); stima della velocità di corrosione con misura della resistenza di polarizzazione lineare (LPR); scassi di conferma sui punti critici per calibrare la mappa.
+- **Applicazioni:** Parcheggi interrati, ponti e viadotti, facciate e balconi degradati, strutture marine, verifica preliminare prima di interventi di ripristino o protezione catodica.
+- **Vantaggi:** Mappa l'estensione del problema prima di demolire: converte il ripristino da 'a macchia d'olio' a 'per zone', con risparmi tipici del 30-60% sulle demolizioni; ripetibile nel tempo per verificare l'efficacia dell'intervento.
+- **Limiti e attenzioni:** Richiede continuità elettrica dei ferri (da verificare) e bagnatura del cls; su superfici asciutte o rivestite la misura è impossibile o falsa; interpretazione non banale: serve esperienza specifica.
+- **Costi ed economia:** Ordini di grandezza indicativi: mappatura potenziale + resistività su 200-500 m² 1.500-4.000 € con report; la verifica con scassi aggiunge 300-800 €.
+- **Caso tipico:** Prassi consolidata nei piani di manutenzione dei viadotti autostradali italiani: le mappe di potenziale ripetute nel tempo guidano i ripristini per priorità oggettiva invece che per degrado visibile.
+- **Normativa:** ASTM C876 (metodo di riferimento internazionale per la mappatura del potenziale); UNI EN ISO 12696 (protezione catodica dell'acciaio nel calcestruzzo) per gli interventi successivi.
+- **Nota di cantiere:** Bagna la superficie prima della misura (il contatto ionico è tutto) e verifica la continuità elettrica tra due ferri lontani prima di mappare: senza continuità la mappa non significa nulla; lo scasso di verifica sul punto peggiore e su uno 'sano' non è opzionale: è la calibrazione che rende la mappa difendibile.
+
+### Degrado del calcestruzzo: carbonatazione, cloruri e reazione alcali-aggregato
+
+**Categoria:** Degrado dei materiali · **Corso:** Patologie edili e diagnostica strumentale
+
+Le tre patologie chimiche principali del calcestruzzo armato: carbonatazione del copriferro, penetrazione di cloruri e reazione alcali-aggregato (ASR). L'errore tipico è trattare il sintomo (ferro arrugginito, espulsione del copriferro) senza misurare l'avanzamento della causa; il controllo è la misura della profondità di carbonatazione e del contenuto di cloruri.
+
+- **Tecnologia e criteri:** Carbonatazione: spruzzata di fenolftaleina alcolica sulla superficie fresca di frattura o carota (la zona carbonatata resta incolore, quella sana vira al viola); profondità tipiche 1-4 mm/anno radice quadrata del tempo, oltre il copriferro = depassivazione; cloruri: prelievo di polveri a strati di profondità e dosaggio (limite di innesco corrosione tipico 0,4% in massa sul cemento secondo la prassi consolidata); ASR: esame petrografico su sezione sottile per i gel di reazione e la mappatura delle fessure a ragnatela.
+- **Applicazioni:** Strutture esistenti degli anni 60-90, parcheggi interrati, opere esposte a salsedine o sali disgelanti, serbatoi e strutture industriali.
+- **Vantaggi:** La misura della profondità di carbonatazione trasforma il giudizio da estetico a previsionale: consente di stimare gli anni residui prima della corrosione e di dimensionare l'intervento (rivestimento, ripristino, protezione catodica).
+- **Limiti e attenzioni:** Le prove sono puntuali: servono più prelievi per una mappa; la fenolftaleina richiede superficie fresca (scasso o carota); l'ASR è difficile da arrestare quando avanzata.
+- **Costi ed economia:** Ordini di grandezza indicativi: test fenolftaleina durante carotaggio 20-50 € a punto; dosaggio cloruri in laboratorio 50-120 € a campione; esame petrografico 200-500 € a campione; indagine completa su facciata o parcheggio 2.000-8.000 €.
+- **Caso tipico:** I balconi degli anni 70 in zone marine italiane mostrano il percorso tipico: carbonatazione + cloruri → depassivazione → corrosione → espulsione del copriferro; la riqualificazione fatta senza misurare i cloruri residui nel conglomerato fallisce in 3-5 anni.
+- **Normativa:** NTC 2018 (durabilità e classi di esposizione per le nuove opere, usata come riferimento di confronto); UNI EN 206 (classi di esposizione e limiti per i nuovi getti); per i limiti di cloruri e la depassivazione: prassi consolidata e letteratura tecnica di settore (da verificare caso per caso).
+- **Nota di cantiere:** La fenolftaleina si spruzza SUBITO sulla superficie fresca: aspetta dieci minuti e la carbonatazione superficiale della frattura falsifica la misura; nelle ristrutturazioni di balconi il cls contaminato va demolito fino a conglomerato sano dietro il ferro, non solo dove si vede la ruggine: il cloruro nascosto riattiva la corrosione sotto il ripristino nuovo.
+
+### Endoscopia, prelievi e prove con piastre piane sulle murature storiche
+
+**Categoria:** Indagini sulle murature · **Corso:** Patologie edili e diagnostica strumentale
+
+Indagini mirate sulle murature esistenti: endoscopia nei paramenti per leggere la sezione reale (muratura a sacco, nucleo scaduto), prelievi di elementi per prove di laboratorio e prove in situ con piastre piane (flat-jack) per misurare tensione in opera e rigidezza. L'errore tipico è stimare la resistenza di una muratura a sacco dalle tabelle senza verificare il nucleo.
+
+- **Tecnologia e criteri:** Endoscopio a fibra ottica in fori da 12-20 mm (poi ripristinati) per classificare la sezione: paramenti, nucleo, vuoti, qualità della malta; prelievo di blocchi e malta per prove di compressione e analisi chimiche (dosaggi, presenza di sali); martinetto piatto: taglio della muratura, inserimento della piastra e pressurizzazione fino al ritorno delle misure (prova a piastra singola per lo stato tensionale, doppia piastra per il modulo elastico e la resistenza a compressione in situ); riferimento tecnico: raccomandazioni RILEM per le prove con piastre piane.
+- **Applicazioni:** Edifici storici e vincolati, verifiche sismiche del costruito in muratura, diagnosi prima di consolidamenti e iniezioni, controllo di qualità post-intervento.
+- **Vantaggi:** Rispondono alla domanda decisiva sulle murature (cosa c'è dentro e quanto porta) con danno minimo; la doppia piastra dà parametri meccanici reali utilizzabili nel modello di calcolo.
+- **Limiti e attenzioni:** Prove semi-distruttive: fori e tagli da ripristinare a regola (specie su edifici vincolati, con autorizzazione); il dato è locale e va esteso con criterio; costi superiori alle sole prove visive.
+- **Costi ed economia:** Ordini di grandezza indicativi: endoscopia 40-100 € a foro con report; prova con doppia piastra piana 800-2.000 € a punto prova (allestimento incluso); campagna tipo su edificio storico (endoscopie + 2-4 piastre + prelievi) 3.000-10.000 €.
+- **Caso tipico:** Nei cantieri di ricostruzione post-sisma del cratere italiano, le prove con doppia piastra sulle murature a sacco hanno guidato la scelta tra cucitura, iniezione di malta e ricostruzione: il nucleo scaduto trovato in endoscopia spiega crolli che la sezione esterna non faceva prevedere.
+- **Normativa:** NTC 2018 e Circolare esplicativa (livelli di conoscenza per le murature esistenti); raccomandazioni RILEM sulle prove con martinetti piani (riferimento tecnico consolidato); D.Lgs 42/2004 per gli interventi su edifici vincolati.
+- **Nota di cantiere:** Il foro endoscopico si chiude subito con tassello e malta compatibile: su edificio vincolato fotografa prima e dopo e tieni il diario dei punti indagati; con la piastra piana il taglio si fa con disco a catena o filo, mai a percussione: il martello demolitore sulla muratura storica misura il danno, non la muratura.
+
+### Termografia a infrarossi sull'involucro
+
+**Categoria:** Indagini termiche · **Corso:** Patologie edili e diagnostica strumentale
+
+Ispezione con termocamera delle superfici per localizzare ponti termici, distacchi di intonaco e cappotto, infiltrazioni d'acqua e percorsi impiantistici annegati. L'errore tipico è interpretare come difetto un'anomalia termica prodotta da sole diretto o riflessi; il controllo è il confronto con la stessa ripresa in condizioni diverse.
+
+- **Tecnologia e criteri:** Termocamere con risoluzione tipica 320x240 pixel o superiore e sensibilità termica (NETD) inferiore a 50 mK; ripresa dall'interno con differenza di temperatura interno-esterno di almeno 5-10 °C (meglio 15-20 °C), al mattino presto o in condizioni di regime stabile, senza pioggia recente; per i distacchi di rivestimenti serve un transitorio termico (riscaldamento solare serale); elaborazione con palette ferro e report con foto accoppiata visibile/IR.
+- **Applicazioni:** Audit energetici, ricerca infiltrazioni in copertura e facciata, controllo della posa del cappotto, localizzazione di tubazioni e cavi prima dei carotaggi, verifica di umidità da risalita.
+- **Vantaggi:** Rapida, non distruttiva, copre grandi superfici in poche ore; immagini immediate e comprensibili anche al committente non tecnico.
+- **Limiti e attenzioni:** È qualitativa: mostra anomalie superficiali, non misura la causa; falsata da sole, vento, riflessi e materiali lucidi (bassa emissività); non vede oltre pochi centimetri di spessore.
+- **Costi ed economia:** Ordini di grandezza indicativi: termocamera professionale 2.000-8.000 €; rilievo con relazione su appartamento 250-600 €, su edificio condominiale 600-1.500 €.
+- **Caso tipico:** Pratica tipo di diagnosi condominiale: la termografia serale estiva evidenzia i distacchi del cappotto come zone più calde, guidando le martellate di verifica solo sui punti critici invece che sull'intera facciata.
+- **Normativa:** UNI EN 13187 (caratterizzazione qualitativa termografica degli edifici); UNI EN ISO 6781 (prestazione termica degli edifici, rilevamento qualitativo a infrarossi, da verificare l'edizione vigente).
+- **Nota di cantiere:** Non riprendere mai una facciata colpita dal sole nelle ultime 3-4 ore: vedrai il riscaldamento, non i difetti; segna le anomalie sulla foto visibile e batti a percussione prima di scrivere 'distacco': la termocamera indica dove cercare, non cosa c'è.
+
+### Il percorso diagnostico: dal sopralluogo al piano di indagini
+
+**Categoria:** Metodo diagnostico · **Corso:** Patologie edili e diagnostica strumentale
+
+La diagnosi sul costruito è un processo a imbuto: storia dell'edificio, analisi dei dissesti, ipotesi di causa, piano di indagini minimo necessario, interpretazione e rapporto conclusivo con il piano di intervento. L'errore tipico è ordinare prove costose prima di aver formulato l'ipotesi da verificare.
+
+- **Tecnologia e criteri:** Fase 1: raccolta documentale (progetti, collaudi, manutenzioni, foto storiche) e sopralluogo con rilievo dei dissesti (mappa fessurativa, deformazioni, umidità); fase 2: classificazione delle lesioni per forma, direzione e ampiezza (passive/attive); fase 3: piano di indagini calibrato (prove non distruttive prima, semi-distruttive e distruttive solo dove servono); fase 4: rapporto diagnostico con catena causale dissesto-causa-prova e piano di intervento; fase 5: eventuale monitoraggio per distinguere fenomeni atttivi da quelli stabilizzati.
+- **Applicazioni:** Perizie di danno, acquisti immobiliari, verifiche sismiche di edifici esistenti, degrado di facciate e solai, contenziosi tra imprese e committenti.
+- **Vantaggi:** Riduce i costi delle indagini (solo le prove necessarie), rende il rapporto difendibile in sede tecnica e legale, evita diagnosi 'a intuito' che non reggono al contraddittorio.
+- **Limiti e attenzioni:** Richiede esperienza multidisciplinare (strutture, materiali, fisica edile); il piano di indagini troppo povero espone a conclusioni errate; nessuna prova singola è conclusiva senza contesto.
+- **Costi ed economia:** Ordini di grandezza indicativi: sopralluogo e relazione preliminare su unità immobiliare 300-800 €; percorso diagnostico completo su edificio medio (rilievo + 2-4 tipi di indagine + rapporto) 5.000-20.000 €.
+- **Caso tipico:** Nel contenzioso tipo per infiltrazioni e fessurazioni di un condominio, il CTU che vince la causa è quello che documenta la catena causale: dissesto osservato, ipotesi, prova che la conferma, esclusione delle cause alternative.
+- **Normativa:** NTC 2018 (valutazione della sicurezza delle costruzioni esistenti, livelli di conoscenza e fattori di confidenza); artt. 1667-1669 c.c. per le prescrizioni dei difetti; linee guida professionali di settore per i protocolli di prova.
+- **Nota di cantiere:** Fotografa tutto con scala metrica in foto e dati GPS/data: la mappa fessurativa rifatta dopo 6-12 mesi è la prova più economica e più forte che esista per capire se una lesione è attiva; non firmare mai una diagnosi senza aver visto l'edificio di persona.
+
+### Monitoraggio strutturale: fessurimetri, inclinometri e sensoristica dinamica
+
+**Categoria:** Monitoraggio · **Corso:** Patologie edili e diagnostica strumentale
+
+Misura continua o periodica dell'evoluzione di lesioni, rotazioni e risposta dinamica per decidere se un dissesto è attivo e se un intervento ha funzionato. L'errore tipico è installare fessurimetri senza registrazione dati e leggerli 'ogni tanto'; il controllo è la serie storica confrontata con temperatura e stagione.
+
+- **Tecnologia e criteri:** Fessurimetri meccanici (vetro/graduati) per letture periodiche ed elettrici (potenziometrici, a corda vibrante) con acquisizione automatica oraria; termocompensazione delle serie (le lesioni 'respirano' con la stagione di 0,2-0,5 mm anche se stabili); inclinometri e stazioni totali robotizzate per rotazioni e spostamenti assoluti; accelerometri per l'identificazione dinamica ambientale (frequenze proprie, variazione dopo eventi o interventi); piattaforme cloud con soglie di allarme automatiche; durata minima significativa: 6-12 mesi per distinguere trend da stagionalità.
+- **Applicazioni:** Edifici lesionati in attesa di intervento, cantieri adiacenti a costruzioni esistenti (scavi, demolizioni, vibrazioni), ponti e opere pubbliche, verifica post-consolidamento, beni culturali.
+- **Vantaggi:** Converte il giudizio su dissesti attivi/stabilizzati da opinione a dato; le soglie di allarme proteggono persone e cantiere; documentazione oggettiva preziosa in contenzioso e per le assicurazioni.
+- **Limiti e attenzioni:** I sensori senza manutenzione muoiono in pochi mesi (batterie, connessione, vandalismo); la mole di dati senza interpretazione è inutile; il monitoraggio misura gli effetti, non rimuove la causa.
+- **Costi ed economia:** Ordini di grandezza indicativi: kit base con 4-8 sensori e acquisizione 3.000-10.000 € installato; gestione e report 100-500 €/mese; sistemi complessi su ponti o edifici sensibili 20-100 k€.
+- **Caso tipico:** Prassi consolidata nei grandi scavi urbani italiani (metropolitane, parcheggi): gli edifici del fronte scavo vengono strumentati prima dei lavori con soglie di attenzione e allarme concordate, e i dati condivisi hanno ridotto drasticamente i contenziosi per danni presunti.
+- **Normativa:** NTC 2018 (controlli e collaudo); prassi consolidata e linee guida di settore per il monitoraggio strutturale; D.Lgs 81/2008 per la sicurezza durante le attività di installazione in quota.
+- **Nota di cantiere:** Prima di installare la sensoristica, zero-assoluto: foto, misura iniziale e data certa registrate sul verbale con il committente; leggi i dati con il grafico della temperatura affiancato: una lesione che si apre d'inverno e si chiude d'estate è stagionale, non strutturale; il fessurimetro di vetro rotto va sostituito lo stesso giorno e la rottura va fotografata: è un dato, non un rifiuto.
+
+### Prove di carico su solai
+
+**Categoria:** Prove di struttura · **Corso:** Patologie edili e diagnostica strumentale
+
+Carico controllato di un solaio con misura delle frecce e del recupero a scarico per verificarne il comportamento reale. L'errore tipico è caricare troppo in fretta o senza puntoni di sicurezza sotto il solaio; il controllo è su velocità di carico, letture a gradini e confronto freccia misurata/teorica.
+
+- **Tecnologia e criteri:** Carico con sacchi di sabbia, serbatoi d'acqua o casseforme zavorrate distribuito a gradini (tipicamente 4-5 step fino al carico di prova, mantenuto 12-24 ore); strumentazione: frecce con comparatori centesimali o livellazione di precisione su almeno 3-5 punti, controllo fessurativo ai bordi; scarico a gradini con misura del recupero (recupero atteso > 70-80% della freccia elastica per comportamento soddisfacente, da valutare caso per caso); puntoni di sicurezza sotto il solaio regolati a pochi mm dalla struttura.
+- **Applicazioni:** Collaudi statici, verifica di solai degradata o di cui manca il progetto, cambio di destinazione d'uso con aumento dei carichi, controllo post-intervento di rinforzo.
+- **Vantaggi:** È la prova globale più convincente: misura la risposta reale della struttura assemblata, incluse le connessioni che nessun calcolo vede; spesso evita rinforzi costosi quando il comportamento è migliore del previsto.
+- **Limiti e attenzioni:** Costosa e organizzativamente pesante (carico, strumentazione, sicurezza, giorni di attesa); prova elastica: non misura la resistenza ultima, ma la rigidezza e l'assenza di anomalie; su solai molto degradata va progettata con cautela per non provocare il danno che si vuole escludere.
+- **Costi ed economia:** Ordini di grandezza indicativi: prova di carico su campata di solaio (allestimento, carico, strumentazione, relazione) 3.000-10.000 € a seconda di accessibilità e carichi; molto meno di un rinforzo strutturale completo.
+- **Caso tipico:** Prassi italiana consolidata nei collaudi di edifici scolastici e industriali: la prova di carico documentata su solaio in dubbio ha spesso convertito un rinforzo preventivo da decine di migliaia di euro in un semplice monitoraggio.
+- **Normativa:** NTC 2018 (collaudo statico e controlli in corso d'opera); prassi professionale consolidata per le modalità di carico e i criteri di accettazione.
+- **Nota di cantiere:** I puntoni di sicurezza sotto il solaio NON si toccano durante la prova e si regolano quasi a contatto: servono solo se qualcosa cede; carica simmetrico e a gradini, leggendo le frecce a ogni step: se la freccia cresce in modo non lineare, fermi tutto; il recupero a scarico si misura la mattina dopo, non a fine giornata frettolosamente.
+
+### Carotaggi e prove di compressione
+
+**Categoria:** Prove sul calcestruzzo · **Corso:** Patologie edili e diagnostica strumentale
+
+Prelievo di carote di calcestruzzo e determinazione in laboratorio della resistenza a compressione: la prova di riferimento per la valutazione delle strutture esistenti. L'errore tipico è prelevare carote troppo corte o danneggiate dal prelievo; il controllo è sul rapporto altezza/diametro e sul confinamento lontano da ferri e bordi.
+
+- **Tecnologia e criteri:** Carotiere a corona diamantata raffreddata ad acqua, diametro tipico 75-100 mm (almeno 2-3 volte la dimensione massima dell'aggregato); la carota va tagliata e rettificata (o cappata con malta/zolfo) a rapporto altezza/diametro pari a 1 (prova) o 2 (prelievo); conversione della resistenza della carota a quella del cubo/cilindro standard con coefficienti di forma; piano di prelievo con almeno 3 carote per zona omogenea.
+- **Applicazioni:** Verifiche sismiche e di collaudo, contenziosi sulla qualità del getto, valutazione di strutture degradate o datate senza documentazione.
+- **Vantaggi:** Dato diretto e difendibile della resistenza reale in opera; consente anche esami petrografici, misura della carbonatazione e controllo della compattazione sullo stesso campione.
+- **Limiti e attenzioni:** Distruttiva: lascia fori da ripristinare con malta tixotropica; il prelievo può indebolire localmente elementi tozzi; costo e tempi di laboratorio (7-28 giorni); il risultato è puntuale, non dell'intera struttura.
+- **Costi ed economia:** Ordini di grandezza indicativi: prelievo 100-250 € a carota (più trasferta e ripristino), prova di compressione in laboratorio 30-70 € a provetta; campagna tipo su edificio (6-12 carote + prove) 1.500-4.000 €.
+- **Caso tipico:** Nei contenziosi per resistenza insufficiente dei getti, il giudizio tecnico si decide quasi sempre sulle carote: la documentazione fotografica del prelievo, della lunghezza e della frattura di prova è ciò che rende il dato inattaccabile.
+- **Normativa:** UNI EN 12504-1 (prelievo di carote, esame e determinazione della resistenza a compressione); NTC 2018 (combinazione con i livelli di conoscenza).
+- **Nota di cantiere:** Prima di forare passa il pacometro: forare un tondo d'armatura costa il ripristino e un ferro tagliato; numera la carota con posizione e direzione prima di staccarla; il foro va ripristinato subito con malta senza ritiro, non 'alla fine del lavoro': un foro aperto in un solaio è un'infiltrazione garantita.
+
+### Pacometro, misura dei copriferri e georadar (GPR)
+
+**Categoria:** Prove sul calcestruzzo · **Corso:** Patologie edili e diagnostica strumentale
+
+Localizzazione delle armature, misura del copriferro e stima del diametro dei ferri senza demolire. L'errore tipico è fidarsi della stima del diametro data dallo strumento su ferri ravvicinati; il controllo è la verifica puntuale con piccolo scasso dove il dato è critico.
+
+- **Tecnologia e criteri:** Pacometri a induzione elettromagnetica con correzione per spaziatura dei ferri: precisione del copriferro tipica ±1-3 mm fino a 60-80 mm di profondità; oltre e con ferri accoppiati la lettura degrada; georadar con antenne da 1,5-2,6 GHz per il calcestruzzo: mappa ferri, tubazioni, vuoti e spessori fino a 40-60 cm, con interpretazione dei radargrammi da parte di personale esperto; entrambe le tecniche richiedono una calibrazione su punti noti della struttura.
+- **Applicazioni:** Ricostruzione dell'armatura di elementi senza elaborati (verifiche sismiche), controllo copriferri prima di perforazioni e carotaggi, ricerca di cavi e tubazioni prima dei lavori.
+- **Vantaggi:** Non distruttive e rapide; il pacometro costa poco e risponde subito; il GPR mappa volumi interi e trova anche i non metallici (PVC, vuoti, cavi).
+- **Limiti e attenzioni:** Il pacometro non distingue ferri sovrapposti e perde precisione oltre gli 80 mm; il GPR produce dati che richiedono interpretazione esperta (non è una foto); umidità e armature elettrosaldate dense riducono la penetrazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: pacometro professionale 1.500-5.000 €, rilievo copriferri su edificio medio 400-1.200 €; indagine GPR 1.500-4.000 €/giornata con elaborazione.
+- **Caso tipico:** Scenario tipico di ristrutturazione con nuove aperture su solaio: mappatura GPR preventiva che trova i tondi e i precompressi dei travetti, spostando i fori di 10-15 cm ed evitando il taglio di un teso l'armatura.
+- **Normativa:** Prassi consolidata e istruzioni dei costruttori di strumenti; per il copriferro come parametro di durabilità: NTC 2018 e UNI EN 1992-1-1; norme di prodotto specifiche per gli strumenti da verificare sull'edizione vigente.
+- **Nota di cantiere:** Prima di qualsiasi perforazione strutturale: pacometro, segno a pennarello, seconda passata incrociata; dove il dato decide (taglio di un ferro principale) fai lo scasso di verifica da 5 cm: cinque minuti di scalpello battono qualsiasi strumento; registra sempre la profondità utile dichiarata dallo strumento, oltre non sei in misura ma in ipotesi.
+
+### Prove sclerometriche (martello Schmidt)
+
+**Categoria:** Prove sul calcestruzzo · **Corso:** Patologie edili e diagnostica strumentale
+
+Stima della resistenza superficiale del calcestruzzo mediante l'indice di rimbalzo del martello a percussione. L'errore tipico è convertire l'indice di rimbalzo in resistenza con curve generiche e trattarlo come dato di progetto; il controllo è la taratura con carotaggi sullo stesso elemento.
+
+- **Tecnologia e criteri:** Sclerometro tipo N (energia 2,207 Nm); superficie preparata con mola abrasiva, griglia di almeno 9-12 battute per zona, scarto dei valori anomali e mediana come indice; direzione ortogonale alla superficie con correzione per l'inclinazione; la conversione in resistenza richiede curve di correlazione tarate su carote prelevate dallo stesso conglomerato (SonReb o calibrazione diretta).
+- **Applicazioni:** Screening rapido di omogeneità su pilastri, travi e solai; confronto tra zone dello stesso getto; supporto alla scelta dei punti di carotaggio.
+- **Vantaggi:** Economica, immediata, non distruttiva, ripetibile; ideale come mappa di confronto per guidare le prove distruttive.
+- **Limiti e attenzioni:** Misura solo la pelle del calcestruzzo (i primi 20-30 mm): superfici carbonatate, umide o scalificate falsano il dato; da sola non è una prova di resistenza accettabile in collaudo.
+- **Costi ed economia:** Ordini di grandezza indicativi: sclerometro professionale 400-900 €; campagna con relazione su edificio medio 500-1.500 €; la calibrazione con 3-6 carote aggiunge 300-800 €.
+- **Caso tipico:** Prassi consolidata nelle verifiche sismiche di edifici pubblici italiani: la mappa sclerometrica per piano evidenzia i pilastri deboli dove concentrare i carotaggi, riducendo le perforazioni a quelle strettamente necessarie.
+- **Normativa:** UNI EN 12504-2 (prove non distruttive: determinazione dell'indice sclerometrico); NTC 2018 per l'impiego dei risultati nella valutazione di sicurezza.
+- **Nota di cantiere:** Pulisci sempre la superficie con la pietra abrasiva e batti su pasta di getto sana, mai su rinzaffo o fessure; se l'elemento è umido o carbonatato, segnalo: il valore sarà falso alto (carbonatazione) o falso basso (acqua); il numero giusto di battute costa un minuto, quello sbagliato costa una causa.
+
+### Prove ultrasoniche di omogeneità
+
+**Categoria:** Prove sul calcestruzzo · **Corso:** Patologie edili e diagnostica strumentale
+
+Misura della velocità di propagazione di impulsi ultrasonori attraverso il calcestruzzo per valutarne omogeneità, fessurazioni interne e qualità; combinata con lo sclerometro nel metodo SonReb per la stima della resistenza. L'errore tipico è leggere velocità alte come 'buona qualità' su elementi con fessure parallele alla direzione di prova.
+
+- **Tecnologia e criteri:** Generatore di impulsi con trasduttori da 50-60 kHz (calcestruzzo) accoppiati con grasso o gel; configurazioni diretta (trasmissione attraverso lo spessore, la più affidabile), semidiretta e superficiale; la velocità tipica del cls sano è 3.800-4.500 m/s, valori inferiori indicano difetti o umidità variabile; metodo SonReb: combinazione della velocità ultrasonica con l'indice sclerometrico per stimare la resistenza con incertezza ridotta rispetto alle singole prove.
+- **Applicazioni:** Mappatura di omogeneità di pilastri e pareti, ricerca di nidi di ghiaia interni, valutazione dei danni da incendio, controllo della profondità delle fessure, stima della resistenza con SonReb.
+- **Vantaggi:** Non distruttiva e sensibile ai difetti INTERNI (dove sclerometro non arriva); ripetibile nel tempo per seguire l'evoluzione del degrado.
+- **Limiti e attenzioni:** Richiede accesso a due facce per la configurazione diretta; l'umidità aumenta la velocità apparente (falsa qualità); le armature parallele al percorso accelerano l'impulso e falsano la misura; la stima SonReb resta una stima da calibrare con carote.
+- **Costi ed economia:** Ordini di grandezza indicativi: strumento ultrasonico 2.000-6.000 €; campagna combinata sclerometro+ultrasuoni (SonReb) su edificio medio 1.000-3.000 € oltre al costo delle carote di taratura.
+- **Caso tipico:** Dopo gli incendi di capannoni, la prassi diagnostica italiana confronta la velocità ultrasonica degli elementi investiti dalle fiamme con quella di elementi identici non danneggiati: il calo di velocità delimita la zona da demolire o rinforzare.
+- **Normativa:** UNI EN 12504-4 (determinazione della velocità degli impulsi ultrasonici); per il SonReb: letteratura tecnica consolidata e linee guida professionali di settore.
+- **Nota di cantiere:** L'accoppiamento acustico è tutto: superficie pulita, grasso abbondante, pressione costante; segna la posizione dei trasduttori con una dima per ripetere la misura identica tra un anno; se leggi velocità anomale vicino ai ferri, sposta la linea di misura prima di concludere che il cls è difettoso.
+
+### Diagnosi dell'umidità: risalita capillare, condensa e infiltrazioni
+
+**Categoria:** Umidità e fisica edile · **Corso:** Patologie edili e diagnostica strumentale
+
+Distinzione strumentale tra le tre cause di umidità in parete (risalita capillare, condensa superficiale/interstiziale, infiltrazione), perché ognuna ha una cura diversa e quella sbagliata peggiora il danno. L'errore tipico è trattare come risalita ciò che è condensa; il controllo è la misura dell'umidità in profondità e del regime termico.
+
+- **Tecnologia e criteri:** Igrometri ad impedenza (lettura superficiale comparativa) e a perforazione con elettrodi (profondità 30-140 mm); metodo gravimetrico/carburo di calcio su prelievi per il contenuto d'umidità assoluto (CM%); termoigrometri per il calcolo del punto di rugiada in ambiente; termografia per la mappa delle zone fredde; per la condensa interstiziale il calcolo secondo UNI EN ISO 13788 (metodo di Glaser) su stratigrafia reale; sali igroscopici (nitrati, solfati) come firma della risalita: analisi su prelievo.
+- **Applicazioni:** Piani terra e seminterrati, edifici storici con murature in mattoni pieni o pietra, locali con muffe ricorrenti, verifica post-risanamento.
+- **Vantaggi:** La distinzione corretta della causa evita l'errore più costoso del risanamento (barriera chimica dove serve ventilazione o viceversa); le misure sono economiche e ripetibili.
+- **Limiti e attenzioni:** L'igrometro ad impedenza dà valori comparativi, non assoluti; la stagionalità falsifica i quadri (risalita peggiore in primavera, condensa in inverno): una sola campagna può non bastare; i sali igroscopici mantengono il muro 'umido' anche dopo la cura strutturale.
+- **Costi ed economia:** Ordini di grandezza indicativi: kit carburo di calcio 200-400 €, misura professionale 30-60 € a punto; diagnosi completa di un appartamento (igrometria in profondità + termografia + punto di rugiada) 300-800 €; monitoraggio stagionale 6-12 mesi 500-1.500 €.
+- **Caso tipico:** Scenario tipo: parete perimetrale con muffa dietro gli armadi venduta come 'risalita' e trattata con iniezioni chimiche inutili: la misura del punto di rugiada mostrava condensa da ponte termico; risolta con isolamento dall'interno e ventilazione, a un decimo del costo.
+- **Normativa:** UNI EN ISO 13788 (prestazione igrometrica dei componenti edilizi, condensa superficiale e interstiziale); prassi consolidata per le misure con carburo di calcio e le soglie di posa dei rivestimenti.
+- **Nota di cantiere:** Misura sempre in profondità E in superficie: umidità alta solo in superficie = condensa, alta anche a 10 cm di profondità = risalita o infiltrazione; il muro 'che tira su' ha quasi sempre sali: se dopo l'intonaco di risanamento tornano le macchie, non è la barriera che ha fallito ma l'intonaco sbagliato (serve macroporoso, non cementizio).
 
 
 ## Porti e opere marittime

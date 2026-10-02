@@ -195,3 +195,10 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - ESAMI/RISANAMENTO ricostruito come coppia coerente (277 domande + chiave riservata), chiave del test da 1.000 domande rimossa dal tracciamento git
 - Dettaglio correzioni: CHANGELOG.md, sezione Giro O (voci O1–O5)
 - Totale repository (invariato): 66 pack, 901 schede, 67 esami
+
+## Corsi del giro di approfondimento 15 — diagnostica strumentale + verifica incentivi (2026-10-02, bozza post-v1.2.0)
+
+- PATOLOGIE_E_DIAGNOSTICA_PACK (12 schede, L2-L3, FACOLTA_INGEGNERIA) — nuovo corso: percorso diagnostico a imbuto, termografia UNI EN 13187, sclerometro UNI EN 12504-2, carotaggi UNI EN 12504-1, pacometro/GPR, ultrasuoni e SonReb (UNI EN 12504-4), prove di carico su solai, degrado chimico del cls (carbonatazione/cloruri/ASR), mappatura corrosione ASTM C876, diagnosi umidità (UNI EN ISO 13788), endoscopia e piastre piane su murature storiche, monitoraggio strutturale
+- Verifica incentivi 02/10/2026 (fonti: agenziaentrate.gov.it, gse.it e stampa tecnica concordante): detrazioni edilizie confermate senza modifiche; correzioni alle schede 1, 3, 14, 15 di ENERGETICA_INCENTIVI_PACK (soglia rata unica CT 3.0 marcata da verificare, meccanismo RID con delibere ARERA 280/07 e 78/2025/R/efr e PMG 47,5 €/MWh, struttura del contributo Reddito Energetico 2.000 € + 1.500 €/kW e batteria esclusa) — dettaglio PRIMA/DOPO/FONTE in CHANGELOG.md, Giro P
+- Nuovo esame: ESAMI/PATOLOGIE_DIAGNOSTICA (250 domande), chiavi riservate fuori repository
+- Totale repository: 67 pack, 913 schede, 68 esami

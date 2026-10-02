@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1063 voci enciclopediche tratte da 67 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1075 voci enciclopediche tratte da 68 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -189,6 +189,8 @@
   Costruire dove si trasforma l'uva: cantine con vinificazione, barriques e stabilimenti imbottigliamento.
 - **Cargo aeroportuale, hub di merci e logistica integrata** — Cargo · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
   L'aeroporto come piattaforma logistica: terminal merci, frigo e intermodalità.
+- **Carotaggi e prove di compressione** — Prove sul calcestruzzo · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Prelievo di carote di calcestruzzo e determinazione in laboratorio della resistenza a compressione: la prova di riferimento per la valutazione delle strutture esistenti. L'errore tipico è prelevare carote troppo corte o …
 - **Carpenteria metallica leggera per costruzioni a secco** — Carpenteria leggera · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Profili sottili zincati per contropareti, contropavimenti, tetti e strutture leggere.
 - **Carta da parati e rivestimenti murali** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -293,6 +295,8 @@
   Tegola in laterizio a canale: la copertura mediterranea per eccellenza.
 - **Cordolo in cls** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Elementi in cls prefabbricato per bordi di marciapiedi e aiuole: il confine urbano standard.
+- **Corrosione delle armature: mappatura dei potenziali e resistività** — Degrado dei materiali · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Valutazione dello stato di corrosione dei ferri senza demolire: mappatura del potenziale di semicella, misura della resistività elettrica del calcestruzzo e stima della corrente di corrosione. L'errore tipico è leggere u…
 - **Corrosione e materiali negli ambienti zootecnici** — Materiali · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   L'ambiente aggressivo della stalla: ammoniaca, umidità e deiezioni contro i materiali da costruzione.
 - **Cos'è il gusto: regole, proporzione, gerarchia visiva** — Teoria del gusto · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -321,12 +325,16 @@
   La legge italiana dell'impiantistica: installazione, manutenzione, abilitazioni dei professionisti.
 - **DALI (Digital Addressable Lighting Interface)** — Protocollo luce · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo digitale dedicato al controllo dell'illuminazione professionale.
+- **Degrado del calcestruzzo: carbonatazione, cloruri e reazione alcali-aggregato** — Degrado dei materiali · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Le tre patologie chimiche principali del calcestruzzo armato: carbonatazione del copriferro, penetrazione di cloruri e reazione alcali-aggregato (ASR). L'errore tipico è trattare il sintomo (ferro arrugginito, espulsione…
 - **Demolizioni selettive e smontaggi controllati** — Demolizioni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cantiere al contrario: demolire, smontare e recuperare in sicurezza e con recupero dei materiali.
 - **Design management: dirigere la creatività** — Design management · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Come si governa il processo di design in azienda: metodo, persone, tempi.
 - **Detergenti e biocidi edili** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Detergenti acidi per pulizia post-cantiere e biocidi antimuffa per finiture.
+- **Diagnosi dell'umidità: risalita capillare, condensa e infiltrazioni** — Umidità e fisica edile · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Distinzione strumentale tra le tre cause di umidità in parete (risalita capillare, condensa superficiale/interstiziale, infiltrazione), perché ognuna ha una cura diversa e quella sbagliata peggiora il danno. L'errore tip…
 - **Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2014** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica periodica alle grandi imprese e alle imprese energivore (scadenza dicembre degli anni dispari), con obbligo alternativo per piccole e medie (…
 - **Diagnosi preliminare: rilievo stratigrafico e indagini diagnostiche** — Diagnostica preliminare · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -401,6 +409,8 @@
   Sistemi di alimentazione elettrica dei treni sulla rete italiana e sulle linee AV.
 - **Emergenze idrauliche e alluvioni: risposta, ricostruzione e adattamento** — Alluvioni · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   La risposta alle alluvioni: soccorso, ripristino e la ricostruzione che tiene conto dell'acqua.
+- **Endoscopia, prelievi e prove con piastre piane sulle murature storiche** — Indagini sulle murature · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Indagini mirate sulle murature esistenti: endoscopia nei paramenti per leggere la sezione reale (muratura a sacco, nucleo scaduto), prelievi di elementi per prove di laboratorio e prove in situ con piastre piane (flat-ja…
 - **EPgl,nren e edificio di riferimento: le verifiche energetiche** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La verifica energetica di legge confronta l'indice di prestazione energetica globale non rinnovabile EPgl,nren (kWh/m² anno) dell'edificio progettato con quello dell'edificio di riferimento e con i limiti per zona climat…
 - **EPS grafite** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -875,6 +885,8 @@
   Il tempio di tutti gli dei (118-128 d.C.): la più grande cupola in calcestruzzo non armato mai costruita.
 - **Il patrimonio edilizio scolastico e i programmi di messa in sicurezza** — Quadro generale e normativo · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   Il patrimonio scolastico italiano è in larga parte costruito tra gli anni Cinquanta e gli anni Settanta, con edifici spesso privi di requisiti antisismici, energetici e funzionali adeguati. Il D.Lgs 62/2017 ha riconosciu…
+- **Il percorso diagnostico: dal sopralluogo al piano di indagini** — Metodo diagnostico · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  La diagnosi sul costruito è un processo a imbuto: storia dell'edificio, analisi dei dissesti, ipotesi di causa, piano di indagini minimo necessario, interpretazione e rapporto conclusivo con il piano di intervento. L'err…
 - **Il personale: CCNL, artigiani, appalti interni e crescita delle competenze** — Personale · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   La manodopera è il cuore e il rischio maggiore dell'impresa edile: contrattualistica (CCNL edilizia e industria, part-time, somministrazione), gestione dei rapporti (assunzioni, dimissioni, malattie, infortuni), sviluppo…
 - **Il piano di caratterizzazione: campionamenti, matrici e parametri analitici** — Indagini · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
@@ -910,7 +922,7 @@
 - **Il raffreddamento del data center: corridoio freddo, corridoio caldo e free cooling** — Raffreddamento · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   Il 40% dell'energia di un data center va nel raffreddamento: organizzare i flussi d'aria (corridoio freddo chiuso davanti ai server, caldo dietro) è l'intervento che più riduce i consumi prima ancora di comprare macchine…
 - **Il Reddito Energetico: fotovoltaico senza anticipo per famiglie con ISEE basso (verificati ottobre 2026)** — Incentivi rinnovabili · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
-  Il Reddito Energetico nazionale (GSE) copre il 100% del costo di un impianto fotovoltaico da 2 a 6 kW per i nuclei con ISEE fino a 15.000 euro (30.000 euro con almeno 4 figli a carico): impianto installato da operatore c…
+  Il Reddito Energetico nazionale (GSE, istituito dal D.M. MASE 8 agosto 2023, operativo dal maggio 2024) copre fino al 100% del costo di un impianto fotovoltaico da 2 a 6 kW per i nuclei con ISEE fino a 15.000 euro (30.00…
 - **Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sul regime forfettario di cui all'art. 1, commi da 54 a 89, della L. 190/2014, applicabile ai professionisti e imprenditori individuali, inclusi gli artigiani edili che operano come ditta individuale. Copre i requ…
 - **Il rilievo con laser scanner e fotogrammetria** — Rilievo laser scanner · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -1362,7 +1374,7 @@
 - **La vasca da costruzione: struttura, tenuta, forma** — Vasche · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   La piscina da costruzione è un serbatoio in calcestruzzo armato impermeabilizzato: la struttura (getto in opera o casseri a perdere), l'impermeabilizzazione (guaina PVC o ceramica? le guaine liquide o i rivestimenti), il…
 - **La vendita dell'energia FV: dal Rap allo Scambio sul Posto chiuso, il RID (verificati ottobre 2026)** — Incentivi rinnovabili · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
-  Come si valorizza oggi l'energia fotovoltaica immessa in rete: lo Scambio sul Posto non accetta piu' impianti nuovi (ultimo accesso agli impianti in esercizio prima del 29 maggio 2025) e il meccanismo di riferimento e' i…
+  Come si valorizza oggi l'energia fotovoltaica immessa in rete: lo Scambio sul Posto non accetta piu' impianti nuovi (ultimo accesso agli impianti in esercizio prima del 29 maggio 2025) e il meccanismo di riferimento per …
 - **La ventilazione in formule: portate, ricambi e CO2** — VMC calcoli · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Quanta aria serve davvero: il calcolo della VMC e del comfort degli interni.
 - **La ventilazione ospedaliera: pressioni differenziate e filtrazione** — Affidabilità · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
@@ -1693,6 +1705,8 @@
   Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
 - **Moduli completi e building system industrializzati (volumi a modulo)** — Moduli · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Dalla cella al modulo intero: edilizia a volumi completi assemblati in stabilimento.
+- **Monitoraggio strutturale: fessurimetri, inclinometri e sensoristica dinamica** — Monitoraggio · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Misura continua o periodica dell'evoluzione di lesioni, rotazioni e risposta dinamica per decidere se un dissesto è attivo e se un intervento ha funzionato. L'errore tipico è installare fessurimetri senza registrazione d…
 - **Montaggio della carpenteria in cantiere** — Montaggio · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Dalla consegna in officina alla struttura in opera: sequenza, giunti e precisione.
 - **Moquette** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1731,6 +1745,8 @@
   Gli spazi esterni come stanze a cielo aperto: arredo, materiali, verde.
 
 ## P
+- **Pacometro, misura dei copriferri e georadar (GPR)** — Prove sul calcestruzzo · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Localizzazione delle armature, misura del copriferro e stima del diametro dei ferri senza demolire. L'errore tipico è fidarsi della stima del diametro data dallo strumento su ferri ravvicinati; il controllo è la verifica…
 - **Pannelli di tamponamento e pareti sandwich prefabbricate** — Pareti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La pelle dell'edificio industrializzata: pannelli portanti e non portanti, isolati in sandwich.
 - **Pannelli fonoassorbenti** — Isolanti acustici · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1873,8 +1889,14 @@
   Difesa da fulmini e manovre rete: scaricatori di sovratensione.
 - **Protezione dalla corrosione: classi ambientali e sistemi** — Corrosione · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Durabilità dell'acciaio: dalla classificazione ISO 12944 alla zincatura e ai cicli vernicianti.
+- **Prove di carico su solai** — Prove di struttura · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Carico controllato di un solaio con misura delle frecce e del recupero a scarico per verificarne il comportamento reale. L'errore tipico è caricare troppo in fretta o senza puntoni di sicurezza sotto il solaio; il contro…
 - **Prove non distruttive sulla carpenteria** — Collaudi NDT · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   VT, PT, MT, UT e RX: il protocollo di verifica dei giunti senza smontare nulla.
+- **Prove sclerometriche (martello Schmidt)** — Prove sul calcestruzzo · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Stima della resistenza superficiale del calcestruzzo mediante l'indice di rimbalzo del martello a percussione. L'errore tipico è convertire l'indice di rimbalzo in resistenza con curve generiche e trattarlo come dato di …
+- **Prove ultrasoniche di omogeneità** — Prove sul calcestruzzo · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Misura della velocità di propagazione di impulsi ultrasonori attraverso il calcestruzzo per valutarne omogeneità, fessurazioni interne e qualità; combinata con lo sclerometro nel metodo SonReb per la stima della resisten…
 - **Pulitura e trattamenti di superfici lapidee e intonaci storici** — Pulitura superfici · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   La pulitura delle superfici lapidee e degli intonaci storici va condotta con metodo graduale, dal meno invasivo al più incisivo, valutando la risposta del materiale a ogni passaggio. Acqua deionizzata, spazzolamenti mecc…
 - **Pumped storage e accumulo idroelettrico** — Accumulo idrico · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
@@ -2083,6 +2105,8 @@
   L'interfaccia nave-terra: terminal a contenitori, rotabili e la logistica del porto.
 - **Terminal passeggeri: architetture, flussi e standard di servizio** — Terminal · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
   L'edificio dell'aeroporto: progettazione dei flussi passeggeri, sicurezza e standard IATA.
+- **Termografia a infrarossi sull'involucro** — Indagini termiche · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
+  Ispezione con termocamera delle superfici per localizzare ponti termici, distacchi di intonaco e cappotto, infiltrazioni d'acqua e percorsi impiantistici annegati. L'errore tipico è interpretare come difetto un'anomalia …
 - **Termoregolazione intelligente** — Clima smart · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Controllo climatizzazione per zone con presenza, finestre aperte, apprendimento orari.
 - **Terreno alleggerito (argilla espansa)** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
