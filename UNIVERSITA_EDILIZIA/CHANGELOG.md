@@ -315,3 +315,17 @@ Contenuto: rigenerazione content-locked dei tre esami sotto il 10% di LOCK che A
 Righe aperte nel giro:
 - Rigenerazione degli altri settori sotto il 10% di LOCK secondo la scala di priorità d'uso da parte di AuraTrix.
 - Valori incentivi: la scheda Conto Termico 3.0 va riletta sulle Regole Applicative GSE vigenti al prossimo aggiornamento di materiale (già segnalato in scheda).
+
+## Giro U — 2026-10-02, bozza post-v1.3.0 (verso v1.4, NESSUN tag applicato)
+
+Contenuto: verifica su fonte primaria del Conto Termico 3.0, nuovo pack CAPPOTTO_ETICS + esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| U1 | Correzione su fonte | Scheda «Il Conto Termico 3.0»: soglia unica rata «5.000 € o 15.000 € a seconda delle fonti: da verificare» | Soglia confermata 15.000 € (unica rata per incentivo ≤ 15.000 €); la soglia 5.000 € appartiene al precedente Conto Termico 2.0. Aggiunti: acconto 2/5 (5 anni) o 50% (2 anni), conclusione lavori 12 mesi (36 nZEB), corrispettivo GSE 1% max 250 €, maggiorazione +10% componenti UE, 40% base/50% zone E-F/55% combinato per superfici opache | Regole Applicative del D.M. 7 agosto 2025, gse.it (documento 'Regole_Applicative_CT_3_0.pdf'), verificato il 02/10/2026 |
+| U2 | Rigenerazione | ESAMI/ENERGETICA_INCENTIVI (Giro T, scheda non ancora corretta) | Rigenerato dopo la correzione U1: 250 domande (127 cloze); verifica chiavi↔schede 250/250 | `build_esami_giro_t.py` + verifica script |
+| U3 | Materiale nuovo | (assente) | CAPPOTTO_ETICS_PACK: 10 schede (materiali isolanti λ, sistema ETICS a strati, posa, dettagli, posizione isolamento/muffa, ponti termici, antincendio, patologie, cantieri, economia). Norme solo reali: UNI EN 13162-13166, 13501-1, ISO 13788/10211/14683, 998-1, 15824, 12810/12811, EAD 040083-00-0404 | Costruzione ex novo su conoscenza tecnica consolidata; nessuna sovrapposizione con pack esistenti (verificato: cappotto citato ma non trattato in pack dedicato) |
+| U4 | Esame nuovo | (assente) | ESAMI/CAPPOTTO: 117 domande v2 (38 cloze); verifica chiavi↔schede 117/117 | `build_esami_design_v2.py` + verifica script |
+| U5 | Indice | Manifest FACOLTA_TECNOLOGIA_E_COSTRUZIONE senza CAPPOTTO_ETICS | Aggiunto CAPPOTTO_ETICS_PACK (L2) con nota esame; aggiunta nota esame SERRAMENTI su SERRAMENTI_E_VETRATE_PACK | Coerenza interna |
+
+Righe aperte nel giro: nessuna. Le percentuali Conto Termico 3.0 vanno rilette sulle Regole Applicative GSE vigenti a ogni aggiornamento (la regola 'da verificare' resta attiva per tutti i valori incentivanti).
