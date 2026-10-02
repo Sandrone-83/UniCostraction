@@ -275,3 +275,27 @@ Contenuto: audit di discriminante degli esami, rigenerazione DESIGN_GUSTO, nuovo
 Righe aperte nel giro:
 - Rigenerazione graduale degli esami sotto il 10% di LOCK partendo dai settori che AuraTrix userà prima (DIMENSIONAMENTO_TERMOTECNICO 2%, ENERGETICA_INCENTIVI 2%, FOTOVOLTAICO_CER 5%).
 - Il pack SERRAMENTI_E_VETRO creato per errore in questo giro è stato eliminato dopo il riscontro del duplicato (SERRAMENTI_E_VETRATE_PACK esisteva già): nessun residuo in repo.
+
+## RILASCIO v1.3.0 — 2026-10-02 (tag applicato su approvazione esplicita dell'utente)
+
+**Cosa fissa questo tag:** lo stato della repository al Giro S (commit indicato nel tag). AuraTrix si aggancia a QUESTA versione: tutto ciò che arriva dopo (Giro T in poi) è bozza fino al prossimo tag approvato.
+
+### Livello di verifica di v1.3.0 (cosa è stato controllato e come)
+
+| Ambito | Verifica eseguita | Esito |
+|---|---|---|
+| Chiavi esami ↔ schede | Controllo automatico: ogni risposta corretta di ogni esame deve comparire testualmente nella scheda fonte dichiarata nella chiave | Superato per tutti gli esami verificati nel Giro R–S (inclusi i 73 settori e i due esami su misura da 1.000 domande); esami rigenerati v2 (DESIGN_GUSTO 116/116, SERRAMENTI 195/195) |
+| Discriminante esami | Audit di classificazione LOCKED/MISTO/PATTERN su tutte le domande | 13% locked; audit pubblicato in `ESAMI/AUDIT_CONTENT_LOCKED.md` |
+| Norme citate nelle CORREZIONI | Ogni correzione normativa riporta: cosa c'era → cosa c'è → fonte di verifica (testo norma o fonte primaria) | Formato attivo dal Giro H (es. UNI 9174, riga H1); obbligatorio per tutti i giri successivi |
+| Norme citate nelle schede preesistenti (giri A–G) | Verifica di coerenza interna e di realtà della norma, NON verifica sul testo ufficiale per ogni singola citazione | Parziale: vedi regola sotto |
+
+### Regola operativa per AuraTrix (vincolante)
+
+1. **Righe «verificate su fonte primaria»** (changelog con fonte indicata): citabili come fatto, con riferimento alla versione v1.3.0.
+2. **Tutto il resto delle citazioni normative e dei valori di legge nelle schede**: da trattare come «da verificare sul testo vigente» prima di citarli a un cliente. Formulazione obbligata in output: «secondo [riferimento, edizione da confermare]» — mai come fatto secco.
+3. **Costi/prezzi**: ordini di grandezza indicativi con data di riferimento; mai quotare un cliente senza listino aggiornato.
+4. Se una verifica esterna scopre un errore: si corregge e si registra una riga changelog nel formato tre colonne (prima/dopo/fonte). Senza fonte, la riga resta «DA VERIFICARE» e non entra nel training come fatto.
+
+### Numeri di v1.3.0
+
+70+ pack, 900+ schede, 73 esami pubblici (~16.400 domande) + 2 esami su misura da 1.000 domande; chiavi e risposte candidato fuori repository (`ESAMI_RISPOSTE/`, esclusa via `.git/info/exclude`).
