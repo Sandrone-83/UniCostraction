@@ -103,11 +103,15 @@ def gen(pack, titolo, target):
                 if not ms:
                     continue
                 m = random.choice(ms)
-                tok = m.group(0).strip()
-                prev = c[:m.start()].rstrip().split(" ")[-1].rstrip(".:") if c[:m.start()].strip() else ""
+                raw = m.group(0)
+                tok = raw.strip()
+                # indici della parte stripped: evita che la \s? della regex mangi lo spazio dopo il numero
+                s0 = m.start() + (len(raw) - len(raw.lstrip()))
+                s1 = m.end() - (len(raw) - len(raw.rstrip()))
+                prev = c[:s0].rstrip().split(" ")[-1].rstrip(".:") if c[:s0].strip() else ""
                 if prev in ("Legge", "D.Lgs", "D.M", "DM", "Art", "n", "del", "CIR", "Circ"):
                     continue  # mai cancellare numeri che sono parte del nome di legge/decreto/articolo
-                cloze = (c[:m.start()] + "___" + c[m.end():]).strip()
+                cloze = (c[:s0] + "___" + c[s1:]).strip()
                 if "___" not in cloze or len(cloze) < 30:
                     continue
                 visibili = {x.group(0).strip() for x in ms} - {tok}

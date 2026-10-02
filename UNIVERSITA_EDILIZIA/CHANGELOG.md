@@ -299,3 +299,19 @@ Righe aperte nel giro:
 ### Numeri di v1.3.0
 
 70+ pack, 900+ schede, 73 esami pubblici (~16.400 domande) + 2 esami su misura da 1.000 domande; chiavi e risposte candidato fuori repository (`ESAMI_RISPOSTE/`, esclusa via `.git/info/exclude`).
+
+## Giro T — 2026-10-02, bozza post-v1.3.0 (verso v1.4, NESSUN tag applicato)
+
+Contenuto: rigenerazione content-locked dei tre esami sotto il 10% di LOCK che AuraTrix studia per primo.
+
+| # | Tipo | Dettaglio | Fonte |
+|---|---|---|---|
+| T1 | Rigenerazione | ESAMI/DIMENSIONAMENTO_TERMOTECNICO: da 250 domande (2% locked) a 212 domande v2 (98 cloze). Verifica automatica chiavi↔schede: 212/212 risposte presenti testualmente nelle schede fonte | `build_esami_giro_t.py` (criterio v2) + verifica script |
+| T2 | Rigenerazione | ESAMI/ENERGETICA_INCENTIVI: da 250 (2% locked) a 249 v2 (124 cloze). Verifica: 249/249 | Come T1 |
+| T3 | Rigenerazione | ESAMI/FOTOVOLTAICO_CER: da 400 (5% locked) a 244 v2 (97 cloze). Verifica: 244/244 | Come T1 |
+| T4 | Fix qualità | `build_esami_design_v2.py`: corretto indice cloze (la \s? della regex NUM mangiava lo spazio dopo il numero: '___per' invece di '___ per'). Rigenerati i tre esami del giro; DESIGN_GUSTO v2 e SERRAMENTI (già verificati e consegnati con chiavi) non toccati per non invalidare le chiavi già consegnate | Controllo visivo sulle cloze dei tre esami |
+| T5 | Nota critica | ESAMI/ENERGETICA_INCENTIVI contiene una scheda che dichiara esplicitamente discrepanze tra fonti di settore (es. soglie Conto Termico 3.0 riportate come 5.000 € o 15.000 € a seconda delle fonti): la scheda marca il valore come 'da verificare sulle Regole Applicative GSE vigenti'. Le domande cloze su quel dato verificano la conoscenza della SCHEDA (che riporta la discrepanza), non il valore di legge: l'applicazione della regola 'da verificare' resta vincolante in output | Regola operativa v1.3.0 (changelog di rilascio) |
+
+Righe aperte nel giro:
+- Rigenerazione degli altri settori sotto il 10% di LOCK secondo la scala di priorità d'uso da parte di AuraTrix.
+- Valori incentivi: la scheda Conto Termico 3.0 va riletta sulle Regole Applicative GSE vigenti al prossimo aggiornamento di materiale (già segnalato in scheda).
