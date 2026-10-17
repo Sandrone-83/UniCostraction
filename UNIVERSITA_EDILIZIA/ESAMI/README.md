@@ -34,6 +34,7 @@ di apprendimento per settore.
 | DISEGNO_TECNICO | ✅ 250 domande | chiavi: jsonl |
 | DOMOTICA | ✅ 300 domande | chiavi: jsonl |
 | EDILIZIA_AGRICOLA | ✅ 250 domande | chiavi: jsonl |
+| EDILIZIA_CIRCOLARE_LCA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
 | EDILIZIA_SCOLASTICA | ✅ 250 domande | chiavi: jsonl |
 | EMERGENZE | ✅ 250 domande | chiavi: jsonl |

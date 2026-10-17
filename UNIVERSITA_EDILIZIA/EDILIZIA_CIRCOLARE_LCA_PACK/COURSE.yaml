@@ -1,0 +1,9 @@
+corso: "Edilizia circolare e LCA"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "ISO 14040/14044, UNI EN 15978, UNI EN 15804, ISO 14025, ISO 20887, ISO 15686-5, UNI EN 12620, UNI EN 13242, UNI EN ISO 19650, D.Lgs 152/2006 Parte IV (con art. 185 e D.M. 161/2012), D.Lgs 36/2023, D.M. 23 giugno 2022 (CAM Edilizia), Regolamento (UE) 305/2011, Direttiva (UE) 2024/1275 (EPBD)"
+nota_metodologica: "Metodo LCA, EPD, embodied carbon, design for disassembly, demolizione selettiva, riuso, CAM, LCC, rifiuti di cantiere, filiere di riciclo, strumenti digitali, economia della circolarita'. Norme citate solo dove di consolidata certezza; decreti End of Waste e soglie RENTRI in forma prudente ('da verificare nella versione vigente'); i valori economici sono ordini di grandezza con forte variabilita' regionale; recepimento nazionale EPBD sul GWP del ciclo di vita da verificare sui decreti attuativi."

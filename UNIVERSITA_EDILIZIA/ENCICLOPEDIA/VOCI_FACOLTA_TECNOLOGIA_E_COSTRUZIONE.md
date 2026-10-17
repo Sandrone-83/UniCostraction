@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-362 voci, 17 corsi.
+387 voci, 19 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -346,6 +346,161 @@ Lo scan-to-BIM converte la nuvola di punti del rilievo laser in un modello BIM f
 - **Nota di cantiere:** Da dichiarare sempre nel deliverable: data del rilievo, strumento, tolleranza di rappresentazione — l'as-built di oggi è il riferimento dei lavori di domani.
 
 
+## Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+*Corso `CAPPOTTO_ETICS_PACK` — 10 voci*
+
+### Reazione al fuoco e vincoli in altezza: EPS vs lana minerale
+
+**Categoria:** Antincendio · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+La reazione al fuoco dell'isolante vincola il progetto: lana minerale Euroclasse A1/A2 (non contribuisce), EPS con fiamma ritardante Euroclasse E (contribuisce ma si autoestinguerebbe? no: E = combustibile con gocciolamento), finiture e strati di collante/rasante determinano la classe del sistema completo (classificazione UNI EN 13501-1). Edifici alti, vicini a confini, ospedali e scuole spingono verso soluzioni A2 o migliori.
+
+- **Tecnologia e criteri:** Criteri: classe di reazione del sistema ETICS completo (non del solo pannello); vincoli per altezza e destinazione d'uso secondo normativa antincendio e regolamenti locali; soluzioni in lana minerale con finiture intonaco per classe migliore; barriere antincendio orizzontali tra piani secondo valutazione del sistema; distanze da confini, grondaie e aree esterne.
+- **Applicazioni:** Progettazione di edifici >4 piani, strutture sanitarie e scolastiche, condomìni in zona densificata.
+- **Vantaggi:** La lana minerale elimina il rischio propagazione: le facciate in classe A2 danno tranquillità assicurativa e amministrativa; i costi extra rispetto a EPS sono contenuti se confrontati con il rischio; la scelta 'sicura' facilita i permessi.
+- **Limiti e attenzioni:** Il costo della lana minerale è +30-60% rispetto all'EPS; i sistemi ad alta classe richiedono componenti certificate e posa più rigida; le verifiche di conformità aumentano i tempi; un errore di miscelazione componenti può abbassare la classe certificata.
+- **Costi ed economia:** Ordini di grandezza indicativi: supplemento lana di roccia vs EPS +20-40 €/m²; sistema ETICS in classe A2 completo: +30-60 €/m² rispetto al sistema EPS base.
+- **Caso tipico:** Residenza per anziani con vincolo di classe A2: il progetto base in EPS sarebbe stato rifiutato in istruttoria. La conversione a sistema in lana di roccia con finitura minerale passò la verifica al primo giro: il sovrapprezzo (≈45 €/m² su 1.200 m²) era inferiore al costo di un fermo istruttorio.
+- **Normativa:** UNI EN 13501-1 (classificazione reazione al fuoco); valutazioni tecniche europee dei sistemi ETICS (reazione al fuoco come caratteristica del sistema); normativa antincendio per altezza e destinazione d'uso (DM interni e regolamenti locali).
+- **Nota di cantiere:** Regola per il LLM: la classe di reazione al fuoco si dichiara per il SISTEMA completo (pannello+collante+rasante+finitura): dire 'EPS classe E' non basta a certificare la facciata. Ogni progetto superiore ai 4 piani va verificato con il classificatore antincendio prima della scelta dell'isolante.
+
+### Cantieri di cappotto: organizzazione, ponteggi, tempi, sicurezza
+
+**Categoria:** Cantieri · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+Il cantiere del cappotto è logistica: ponteggio a servizio continuo della facciata, protezione dal vento e pioggia, stoccaggio dei pannelli (al riparo da sole e pioggia), gestione dei giunti di fase, coordinamento con altri lavori (finestre, lattoneria, tinteggiatura). Il ponteggio vale 12-25 €/m²: incide più della scelta tra EPS e lana di roccia in molti appalti.
+
+- **Tecnologia e criteri:** Organizzazione tipo: verifica supporto e segnalazione difetti, posa pannelli (giorni per facciata di palazzina), maturazione, rasatura+rete, finitura; protezione di pioggia e vento forte (il vento sopra i 10-15 m/s ferma la posa dei pannelli leggeri); coordinamento dei passaggi (tubi, gronde, condizionatori) PRIMA del rasante; pulizia continua (i pannelli tagliati lasciano palline EPS che il vento sparge).
+- **Applicazioni:** Appalti di ristrutturazione di condomìni e edilizia terziaria; coordinamento tra imprese (cappotto, serramenti, lattoneria, tinteggi).
+- **Vantaggi:** La buona organizzazione dimezza i tempi: i dettagli e i passaggi risolti prima del rasante evitano forature e rattoppi; la protezione dalle intemperie salva il risultato; la pulizia del cantiere è il primo biglietto da visita (e il primo controllo qualità).
+- **Limiti e attenzioni:** Il ponteggio dipende da terzi (ritardi bloccano tutto); il maltempo ferma la posa e dilata i tempi; il coordinamento con altre imprese richiede un direttore lavori presente; i vicinati lamentano polvere e palline EPS (gestione del cantiere inclusa).
+- **Costi ed economia:** Costi accessori indicativi: ponteggio 12-25 €/m² (noleggio+montaggio), protezioni e reti 2-5 €/m², trasporto e smaltimento 1-3 €/m².
+- **Caso tipico:** Cantiere di condominio con cappotto e sostituzione serramenti sovrapposti: le finestre sono arrivate dopo il rasante: i fori per i cassonetti hanno bucato il cappotto fresco in 14 punti. Il coordinamento sequenziale (serramenti PRIMA del rasante) sarebbe costato zero in più: le riparazioni costarono 3.200 €.
+- **Normativa:** Requisiti ponteggi: UNI EN 12810 e UNI EN 12811 (ponteggi di accesso e di servizio); sicurezza cantieri D.Lgs 81/2008 (Titolo IV); istruzioni di posa dei sistemi ETICS (sospensione per vento/pioggia).
+- **Nota di cantiere:** Domanda guida per il LLM: 'cosa arriva prima, il cappotto o gli altri lavori?' — la sequenza corretta per i lavori di facciata è: struttura e tetti, impianti di facciata, serramenti, cappotto, finiture esterne. Ogni inversione si paga in riparazioni.
+
+### I dettagli che fanno fallire il cappotto: zoccolo, davanzali, cappelli, giunzioni
+
+**Categoria:** Dettagli · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+Le patologie del cappotto nascono quasi sempre nei dettagli, non nel campo: zoccolo (spessori, protezione da urti e pioggia battente), davanzali e soglie di finestre (taglio termico e tenuta), cappello di coronamento (protezione dall'acqua), giunzioni tra fasi lavorative e tra corpi di fabbrica, controtelai, attraversamenti di tubi e cassonetti, parapetti. Ogni passaggio va risolto con profili, sigillature coerenti e continuità dello strato isolante.
+
+- **Tecnologia e criteri:** Dettaglio tipo: profilo zoccolo con spessore crescente o taglio a 45°; davanzale con sporgenza, ritorno protetto e sigillatura perimetrale elastica; cappello con profilo gocciolatoio e coronamento; giunzione verticale con profilo e rete a sovrapposizione ≥ 10 cm; controtelai ancorati al telaio isolato o interrotti dall'isolante; passaggi tubi con collare e sigillatura; parapetti con taglio termico o isolamento continuo.
+- **Applicazioni:** Progettazione esecutiva, preventivi con computo dei particolari, collaudi e diagnostica delle patologie in garanzia.
+- **Vantaggi:** Un dettaglio risolto bene vale più di 2 cm di isolante in più: la continuità dello strato è la vera prestazione; i profili metallici costano pochi euro al metro e salvano la facciata; la sigillatura elastica ai davanzali elimina le infiltrazioni estetiche e strutturali.
+- **Limiti e attenzioni:** I dettagli richiedono progetto e non improvvisazione di cantiere; i pezzi speciali costano e rallentano; la manutenzione futura (rifacimento sigillature ogni 8-15 anni) va dichiarata al committente; l'errore di dettaglio si paga caro (sostituzione localizzata ma esteticamente visibile).
+- **Costi ed economia:** Ordini di grandezza indicativi: profili perimetrali 2-6 €/m; sigillatura perimetrale professionale 3-8 €/m; rifacimento locale di un dettaglio compromesso 60-150 €/punto.
+- **Caso tipico:** Villa con muffa persistente sotto i davanzali dopo il cappotto: la diagnostica mostrava davanzali non ripassati e giunti di sigillatura assenti: l'acqua di risalita capillare e pioggia batteva il davanzale freddo. Rifacimento dei dettagli con profilo, ritorno isolato e sigillatura: problema risolto in 3 giorni di lavoro.
+- **Normativa:** Linee guida dei sistemi ETICS per i particolari costruttivi; regole dell'arte per sigillature elastiche (EN 15651 per i prodotti sigillanti facciate).
+- **Nota di cantiere:** Domanda guida per il LLM: 'dove finisce il cappotto?' — Se la risposta è 'al davanzale e basta', il progetto è incompleto. La continuità dello strato isolante si verifica disegno per disegno: zoccolo, davanzali, cappelli, giunzioni, controtelai, attraversamenti.
+
+### Costi e benefici del cappotto: il conto professionale
+
+**Categoria:** Economia · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+Il cappotto è l'intervento di riqualificazione con il miglior rapporto costo/beneficio disponibile in Italia: il costo completo si misura in €/m² di parete trattata e il beneficio in kWh/anno risparmiati e in comfort (temperatura superficiale, niente muffa). Il conto professionale include: isolante, colla/tasselli/rete/rasante/finitura, ponteggio, manodopera, dettagli, oneri di cantiere.
+
+- **Tecnologia e criteri:** Struttura del costo tipica (percentuali indicative su totale posato): materiali sistema 25-35%, manodopera 30-40%, ponteggio 15-25%, dettagli e profili 5-10%, oneri e trasporti 5-10%. Benefici tipici: su muratura antica non isolata il risparmio invernale varia dal 20 al 40% del fabbisogno di riscaldamento (in funzione di zona, spessore, ponte termici); il comfort estivo migliora con l'inerzia protetta.
+- **Applicazioni:** Preventivi, analisi di fattibilità, confronto tra offerte (stesso sistema e stesso spessore), detrazioni e Conto Termico 3.0 (per l'isolamento delle superfici opache: percentuali e soglie da verificare sulle Regole Applicative GSE vigenti).
+- **Vantaggi:** L'investimento si ripaga in 5-12 anni tipicamente (in funzione del clima e del costo dell'energia); il valore immobiliare aumenta (classe energetica e assenza di muffa); l'intervento è il più rapido per migliorare una classe energetica di un livello intero.
+- **Limiti e attenzioni:** Il risparmio reale può deludere se ponti termici e finestre restano cattivi (il cappotto da solo non basta); il payback dipende dal prezzo dell'energia; il bonus fiscale cambia nel tempo e va verificato all'anno di intervento; la qualità del cantiere sposta il risultato più dello spessore.
+- **Costi ed economia:** Ordini di grandezza indicativi: cappotto EPS 10 cm completo 60-100 €/m²; cappotto in lana di roccia 80-130 €/m²; payback tipico 5-12 anni; incentivo Conto Termico 3.0 per superfici opache: percentuali e massimali da verificare sulle Regole Applicative GSE vigenti (l'edizione 2025 riporta 40% base, 50% zone climatiche E e F, 55% in combinazione con altri interventi ammissibili).
+- **Caso tipico:** Confronto di due preventivi per la stessa palazzina: offerta A 62 €/m² (sistema completo, ponteggio incluso) vs offerta B 54 €/m² (materiale sconosciuto, ponteggio escluso, dettagli non quotati). Il conto corretto portò B a 71 €/m²: la 'convenienza' era un miraggio. L'offerta A fu scelta: lavori finiti in 6 settimane con zero pezze.
+- **Normativa:** D.Lgs 192/2005 (requisiti energetici); Conto Termico 3.0 (D.M. 7/8/2025 e Regole Applicative GSE per percentuali e massimali); UNI EN ISO 13790 (calcolo fabbisogno energetico).
+- **Nota di cantiere:** Per il LLM: il confronto tra preventivi di cappotto si fa a parità di SISTEMA (stesso EAD, stesso spessore, stesso ponte), altrimenti è un confronto tra cose diverse. La voce 'materiale isolante €/m²' da sola non dice il prezzo dell'opera: mancano ponteggio, manodopera, dettagli e oneri.
+
+### I materiali isolanti: EPS, lana di roccia, XPS, sughero, fibra di legno, aerogel
+
+**Categoria:** Materiali isolanti · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+L'isolante scelto decide prestazione, incendio, spessore e prezzo. Famiglie principali: EPS (polistirene espanso: economico, idrofobo trattato, Euroclasse E o migliore con fiamma ritardante), lana di roccia e lana di vetro (minerali: incombustibili Euroclasse A1/A2, traspiranti, piú costose), XPS (estruse: compressione elevata, idrofobo, per sottosuolo e sottopavimento), sughero espanso (naturale, traspirante, costoso), fibre di legno (traspiranti, buone inerzia), aerogel e pannelli sottili ad alta prestazione per spazi di pregio.
+
+- **Tecnologia e criteri:** Conduttività termica tipica λ (W/(mK), valori di catalogo indicativi): EPS 0,036-0,040; lana di roccia 0,034-0,042; XPS 0,030-0,036; sughero 0,037-0,050; fibre di legno 0,038-0,045; aerogel 0,014-0,018; pannelli isolanti sottili a vuoto (VIP) 0,004-0,008. Spessori abituali cappotto: 8-16 cm residenziale (fino a 20+ su edifici in muratura pesante antica). Densità e compressione: XPS 300-500 kPa per carichi.
+- **Applicazioni:** Scelta dell'isolante in progetto in funzione di λ (spessore), reazione al fuoco (classe edificio), traspirabilità (muro esistente), budget e disponibilità locale.
+- **Vantaggi:** Lana di roccia: sicurezza incendio e acustica al top; EPS: il miglior costo per prestazione; XPS: insensibile all'acqua per basi e fondazioni; sughero e fibre: muri storici traspiranti; aerogel: ristrutturazioni di pregio con spessori minimi.
+- **Limiti e attenzioni:** EPS: Euroclasse E (limiti in altezza e vicino fuochi), degrada con UV e solventi; XPS non traspira (attenzione all'interstiziale); lana minerale: richiede protezione dagli schizzi e compressione controllata; aerogel e VIP: costo altissimo e VIP sensibile a forature (perde prestazione se forato).
+- **Costi ed economia:** Ordini di grandezza indicativi (solo isolante, 10 cm, 2024-2026): EPS 8-15 €/m², lana di roccia 14-24 €/m², XPS 16-28 €/m², sughero 30-55 €/m², fibra di legno 25-45 €/m², aerogel 80-150 €/m².
+- **Caso tipico:** Palazzina in centro storico con facciata cieca da 45 cm: il cappotto esterno in fibra di legno 10 cm scelse traspirabilità e finitura a calce (coerente con il borgo), rinunciando al risparmio dell'EPS: nessun problema di interstiziale nei successivi 5 inverni di monitoraggio.
+- **Normativa:** UNI EN 13162 (prodotti isolanti: lana minerale); UNI EN 13163 (EPS); UNI EN 13164 (XPS); UNI EN 13165 (PUR/PIR); UNI EN 13501-1 (classificazione reazione al fuoco); dichiarazioni di prestazione (DoP) dei prodotti isolanti.
+- **Nota di cantiere:** Verità da insegnare: il λ di catalogo vale in laboratorio: in opera contano anche posa, umidità e ponti di installazione. Il classico guadagno reale rispetto al progetto teorico è del 10-20% in peggio se la posa è disattenta.
+
+### Patologie del cappotto: crepe, alghe, distacchi, riparazioni
+
+**Categoria:** Patologie · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+Le patologie tipiche del cappotto: fessurazione del rasante (posa, movimenti del supporto, caldo), macchie biologiche (alghe su finiture a nord, condensa), distacchi localizzati (colla insufficiente o supporto sporco), danni meccanici (urti, giochi), scolorimento e degrado UV (finiture scadenti). La diagnosi corretta distingue la causa strutturale da quella di finitura: la cura cambia.
+
+- **Tecnologia e criteri:** Diagnostica: termografia (ponti termici e distacchi pieni/vuoti), percussione per distacchi, anamnesi del cantiere (componenti usati, stagione, giunzioni), campionatura rasante; riparazioni: taglio della zona malata fino a pannello sano, ricollaggio con rasante dello stesso sistema, rete di ripresa con sovrapposizione, rasatura e finitura; protezione degli spigoli con profili.
+- **Applicazioni:** Diagnostica pre-acquisto di immobili ristrutturati, manutenzione programmata del patrimonio, gestione garanzie.
+- **Vantaggi:** La riparazione localizzata ben eseguità è invisibile e durevole se usa le componenti del sistema originario; la termografia trova i distacchi prima che cadano; la finitura di qualità (silossanica, quarzo) riduce alghe e sporco del 50-70%.
+- **Limiti e attenzioni:** Le riparazioni con materiali non compatibili danno il classico 'pezzo' visibile; l'intervento su metà facciata espone la differenza cromatica; l'attesa di maturazione tra rasature rallenta il cantiere; la garanzia del sistema richiede riparazioni con componenti originali.
+- **Costi ed economia:** Ordini di grandezza indicativi: riparazione localizzata 40-120 €/punto; lavaggio finitura e trattamento anti-alghe 4-10 €/m²; rifacimento rasante di una zona 15-35 €/m².
+- **Caso tipico:** Condominio con 'bolle' sul cappotto a 3 anni dal collaudo: la percussione mappò distacchi pieni su 60 m²; la causa era colla stesa su intonaco non decerato e bagnato. Il rifacimento della zona con preparazione corretta costò 25 €/m² e non ha dato più problemi in 6 anni.
+- **Normativa:** Linee guida dei sistemi per le riparazioni; UNI EN 998-1 (malte); UNI EN 15824 (intonaci organici: requisiti).
+- **Nota di cantiere:** Per il LLM: la domanda 'perché si è rotto?' si risponde con DIAGNOSI, non con stucco: la causa prima (colla, giunto, ponte termico, urto) determina la cura. La riparazione a stucco senza rete di ripresa è una pezza che si rivede in un inverno.
+
+### Il cappotto come cura dei ponti termici: angoli, pilastri, balconi
+
+**Categoria:** Ponti termici · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+Il ponteggio termico localizzato (Ψ, W/mK) brucia il beneficio dell'isolamento: angoli, pilastri in cemento a vista, travi di balcone, cornicioni, pilastrini di cantina. Il cappotto continuo esterno è la cura più efficace: copre gli elementi sporgenti e uniforma la superficie. Il punto critico tipico è il balcone: la trave che taglia il cappotto è un ponte termico seriale.
+
+- **Tecnologia e criteri:** Strategie: cappotto continuo anche sulle spalle dei balconi dove possibile; coibentazione del capitello del balcone (lato superiore o inferiore della trave) con sistemi a piastra; interruzione termica strutturale del nuovo balcone (connettori termoisolanti certificati); correzione degli angoli interni con isolamento rinforzato; verifica pre-intervento con termografia o calcolo dei Ψ.
+- **Applicazioni:** Ristrutturazioni di edifici con balconi sporgenti, torri in cemento, edifici industriali con pilastri a vista.
+- **Vantaggi:** Il cappotto cura i ponti termici esistenti senza demolire: balconi, angoli e pilastri coperti migliorano subito temperatura superficiale (niente muffa e condensa); la termografia prima/dopo documenta il miglioramento per Legge 10 e garanzie.
+- **Limiti e attenzioni:** Il balcone incastrato resta il punto debole: la cura perfetta richiede demolizione e ricostruzione con interruzione (costo alto) o accettazione di un ponte residuo; i dettagli di interruzione sono delicati in facciata a vento; le finiture sui profili metallici vanno coordinate.
+- **Costi ed economia:** Ordini di grandezza indicativi: coibentazione capitello balcone 150-400 €/punto; balcone nuovo con interruzione termica +800-2.000 € rispetto al tradizionale; termografia pre/post 250-600 €.
+- **Caso tipico:** Condominio con muffa sui soffitti dei balconi al piano rialzato: la termografia mostrava ponti termici alle travi dei balconi coperte solo parzialmente. Il rifacimento dei capitelli coibentati e la chiusura continua del cappotto sui fianchi risolsero la muffa in una stagione.
+- **Normativa:** UNI EN ISO 10211 (calcolo dei ponti termici); UNI EN ISO 14683 (valori Ψ tabellari); cataloghi Ψ dei produttori per i dettagli tipo; linee guida nazionali per la correzione dei ponti termici.
+- **Nota di cantiere:** Per il LLM: quando un cliente chiede 'il cappotto mi toglie la muffa?', la risposta professionale dipende dai ponti termici: la termografia pre-intervento li trova; la strategia balconi/angoli/pilastri si decide PRIMA del contratto, non sul ponteggio.
+
+### La posa del cappotto: superficie, colla, tasselli, rete, rasante
+
+**Categoria:** Posa · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+La posa vale il 70% del cappotto: gli errori di posa sono la prima causa di crepe, distacchi e muffa. Sequenza professionale: verifica piano di posa (tolleranze della facciata), guida a filo o profili, spessore minimo e regolarità, applicazione collante, posa pannelli incrociando i giunti, attesa di maturazione (giorni), rasante+rete, finitura. Condizioni: superficie asciutta, temperature tipiche tra +5 °C e +30 °C senza gelo né sole diretto violento, protezione da pioggia e vento.
+
+- **Tecnologia e criteri:** Tecnica: collante a striscie perimetrali con schiacciotto centrale (camera d'aria contro i vuoti); pannelli incollati a incastro con giunti sfalsati; tassellazione dopo 2-3 giorni di maturazione (se prevista dal sistema); rasante con rete premessa o applicata durante la rasatura; bordi e spigoli con profili a goccia e profili di protezione; giunzioni tra fasi lavorative con rete a sovrapposizione e profili di giunzione.
+- **Applicazioni:** Cantieri di ristrutturazione residenziale, edilizia terziaria, capannoni e strutture industriali di medi/piccola scala.
+- **Vantaggi:** La posa a regola d'arte elimina il 90% delle patologie: la rete integrale e i profili perimetrali sono il costo più basso e il beneficio più alto dell'intero cappotto; la verifica intermedia (controllo colla, passo tasselli) prima del rasante evita il ripristino a opera finita.
+- **Limiti e attenzioni:** Dipende fortemente dalla manodopera: la stessa sacca di colla dà risultati opposti; il caldo secco estivo fa ritirare il rasante in fessure; la pioggia su pannelli freschi degrada la tenuta; i ponteggi sporchi e il maltrattamento post-posa causano danni locali.
+- **Costi ed economia:** Costo posa (manodopera) indicativo: 30-60 €/m² comprensivo di ponteggio (il ponteggio da solo vale 12-25 €/m²).
+- **Caso tipico:** Cantiere estivo a 35 °C: rasature a mezzogiorno su facciata sud: fessurazione diffusa entro luglio. Il rifacimento delle rasature in fascia oraria controllata (mattina/sera) con protezione solare risolse: la lezione entra in cantiere come regola di programmazione.
+- **Normativa:** Istruzioni di posa dei sistemi ETICS (documento vincolante); requisiti delle malte: UNI EN 998-1 (malte per intonaci e cappotti); regole dell'arte ETICS (valutazione tecnica del sistema applicata).
+- **Nota di cantiere:** Per il LLM: le tre domande di collaudo visivo prima del rasante sono: 1) la colla copre ≥ il 40% della superficie del pannello senza vuoti? 2) i tasselli sono a passo di scheda tecnica (bordi rinforzati)? 3) la rete è integrale senza pezzi a martello? Se una delle tre è no, il difetto va corretto PRIMA del rasante.
+
+### Dove isolare: esterno, interno, intercapedine e il rischio muffa interstiziale
+
+**Categoria:** Posizione isolamento · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+La posizione dell'isolamento decide funzionamento igrometrico e prezzo. Isolamento esterno (ETICS o ventilato): la struttura resta calda e traspira verso l'interno, il rischio interstiziale è basso se il muro esistente è asciutto. Isolamento interno: più economico e possibile su facciate vincolate, ma sposta il punto di rugiada verso l'interno: richiede materiali specifici (perm-selectivi, fibre), attenzione a ponti termici e mobili appoggiati. Cappotto intercapedine: possibile in alcune murature a doppia parete.
+
+- **Tecnologia e criteri:** Criteri di scelta: esposizione e rischio muffa (interno solo con calcolo igrometrico), facciate vincolate (esterno non ammissibile: interno con materiali ad altra diffusione al vapore), igiene (mobili appoggiati sulle pareti nord: correnti fredde e muffa), ventilazione dell'ambiente (cappa e VMC incidono), tenuta all'aria dell'involucro.
+- **Applicazioni:** Ristrutturazioni di edifici vincolati, interni di locali tecnici, torri e corpi non raggiungibili dall'esterno.
+- **Vantaggi:** L'esterno protegge la struttura e aumenta l'inerzia termica estiva; l'interno è rapido e non tocca la facciata (vantaggio estetico e amministrativo); l'intercapedine recupera spazi vuoti esistenti.
+- **Limiti e attenzioni:** L'interno mal fatto è la prima causa di muffa post-ristrutturazione; l'esterno costa di più e richiede ponteggio; l'intercapedine dipende dalla geometria esistente; in ogni caso serve la verifica igrometrica (software o nomogrammi) prima di decidere.
+- **Costi ed economia:** Costi comparativi indicativi: cappotto esterno completo 60-130 €/m² (con ponteggio), isolamento interno con materiali igrometrici 45-90 €/m², intercapedine a insufflaggio 25-60 €/m² (solo se la geometria lo consente).
+- **Caso tipico:** Appartamento anni '60 con muffa ricorrente sulle pareti nord interne dopo un 'cappotto interno economico' in EPS: il calcolo igrometrico mostrava il punto di rugiada dentro il muro umido. Soluzione: rimozione, essiccazione della parete e rifacimento in fibra di legno con barriera sagomata: nessuna muffa nei successivi inverni.
+- **Normativa:** UNI EN ISO 13788 (progettazione contro la condensa interstiziale: metodo del Glaser); requisiti igrometrici per materiali interni nelle linee guida dei sistemi; ventilazione UNI EN 15665 (criteri generali ventilazione residenziale).
+- **Nota di cantiere:** Regola per il LLM: consigliare l'isolamento interno su parete perimetrale senza aver visto l'igrometro del muro e calcolato il rischio di rugiada è un errore professionale: la muffa post-intervento è la contestazione più comune e la più costosa in garanzia.
+
+### Il sistema ETICS a colla: gli strati e il funzionamento d'insieme
+
+**Categoria:** Sistemi ETICS · **Corso:** Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie
+
+Il cappotto ETICS (External Thermal Insulation Composite System) è un sistema a strati composto: collante di fissaggio, pannello isolante, tasselli meccanici di ancoraggio, rete di rinforzo armata con rasante, finitura (civile, vernice, rivestimento). È un KIT certificato: le componenti devono stare insieme come da valutazione tecnica europea (EAD 040083-00-0404, ex ETAG 004), non si miscelano a piacere.
+
+- **Tecnologia e criteri:** Strati funzionali: collante applicato a striscie perimetrali e schiacciotti centrali su superficie regolare; tasselli con chiodo in acciaio/plastica a passo indicativo 4-6/m² in zona ordinaria e di più ai bordi (passo tipico: 4-6/m² zona campo, rinforzato sotto 2/m² ai bordi, angoli e controtelai — sempre secondo valutazione del sistema); rete incollata su tutta la superficie con giunti scoperti o sovrapposti secondo scheda tecnica (mai pezzi scomposti); rasante 3-5 mm; finitura dopo maturazione (giorni, non ore).
+- **Applicazioni:** Nuove costruzioni, ristrutturazioni di edifici residenziali e terziario, recupero del patrimonio con risanamento energetico.
+- **Vantaggi:** Il sistema a strati pesa 25-40 kg/m² in meno di un muro equivalente; interrompe i ponti termici in modo continuo; la finitura protegge l'isolante da UV e urti; i tempi di cantiere sono rapidi (giorni per facciata).
+- **Limiti e attenzioni:** È un sistema 'meticoloso': ogni strato dipende dal precedente; la garanzia decade se si usano componenti non previsti dalla valutazione; le facciate esposte a nord o con salsedine richiedono finiture dedicate; l'incendio in facciata è il limite strutturale (vedi scheda antincendio).
+- **Costi ed economia:** Ordini di grandezza indicativi (materiale+posa): 60-100 €/m² EPS 10 cm; 80-130 €/m² lana di roccia; sovrapprezzo finitura silossanica o rivestimento +10-30 €/m².
+- **Caso tipico:** Cantiere con rete posata 'a pezzi' sopra il rasante (pratica scorretta): dopo due inverni la facciata mostrava mappe di fessure in corrispondenza dei giunti. Il rifacimento rasante+rete integrale costò 18 €/m² contro i 4 €/m² di posa corretta originaria.
+- **Normativa:** EAD 040083-00-0404 (ex ETAG 004: sistemi ETICS, valutazione tecnica europea); marcatura CE dei sistemi ETICS; schede tecniche dei produttori di sistemi (componenti vincolate alla valutazione).
+- **Nota di cantiere:** Regola d'oro: il cappotto non si compone al momento dal ferramenta sotto casa: si specifica un SISTEMA con valutazione tecnica e si posa con le sue componenti. Il tassello giusto è quello del sistema (chiodo, lunghezza, testa), non quello 'simile'.
+
+
 ## Edilizia agricola e zootecnica
 
 *Corso `EDILIZIA_AGRICOLA_ZOOTECNICA_PACK` — 11 voci*
@@ -514,6 +669,191 @@ Conservare il raccolto: silos di cereali, essiccatoi e pavimentazioni di stoccag
 - **Caso tipico:** Silos diffusi nelle aziende cerealicole del nord Italia; essiccatoi collettivi delle cooperative per mais e riso.
 - **Normativa:** Normativa antincendio per i depositi di prodotti combustibili e polveri; marcatura CE dei silos e degli impianti di sollevamento; sicurezza macchine secondo direttiva macchine.
 - **Nota di cantiere:** La ventilazione del grano è la vita del silo: senza aerazione corretta il grano 'cuoce' nel silo con perdite di peso e di qualità; le coclee si verificano prima della campagna, non durante.
+
+
+## Edilizia circolare e LCA
+
+*Corso `EDILIZIA_CIRCOLARE_LCA_PACK` — 12 voci*
+
+### Demolizione selettiva e recupero degli inerti in opera
+
+**Categoria:** Cantiere e demolizione · **Corso:** Edilizia circolare e LCA
+
+La demolizione selettiva e' la rimozione pianificata e separata dei materiali di un edificio (prima il rilievo delle sostanze pericolose, poi le finiture, poi gli impianti, infine la struttura) per massimizzare recupero e riciclo e ridurre la frazione da discarica: e' il primo anello dell'edilizia circolare in cantiere.
+
+- **Tecnologia e criteri:** Sequenza: 1) censimento preliminare dei materiali e indagine sulle sostanze pericolose (amianto: vincoli specifici, verificare la normativa vigente su rimozione e smaltimento); 2) piano di demolizione e gestione dei rifiuti con codici CER del capitolo 17 (17 01 01 calcestruzzo, 17 01 02 mattoni, 17 01 03 piastrelle e ceramiche, 17 01 07 miscele di cls/mattoni/ceramica, 17 05 04 terre e rocce non pericolose); 3) demolizione per strati con raccolta separata; 4) eventuale frantumazione in sito con vagliatura e deferrizzazione per produrre aggregato riciclato; 5) destinazione: riuso in sito (riempimenti, sottofondi) o avvio a impianto di recupero (operazioni R5/R13) o a discarica solo per l'inerzia residua. Gli aggregati riciclati per opere strutturali o civili richiedono conformita' alle norme di prodotto (UNI EN 12620 per il cls, UNI EN 13242 per opere non legate o legate idraulicamente) e cessazione della qualifica di rifiuto secondo la disciplina End of Waste: riferimenti applicativi da verificare sui decreti ministeriali vigenti.
+- **Applicazioni:** Demolizioni urbane con vincoli di logistica, commesse pubbliche con CAM e percentuali di recupero prescritte, grandi interventi di rigenerazione urbana, opere dove il riempimento in sito riduce acquisti e trasporti.
+- **Vantaggi:** Taglia costi di smaltimento e acquisto di vergine in un colpo solo; la frantumazione in sito elimina trasporti (e CO2) su entrambe le direzioni; percentuali di recupero oltre il 70-90% in peso sono realistiche sulle strutture in cls/muratura ben gestite.
+- **Limiti e attenzioni:** Richiede spazio di cantiere per stoccati separati e per l'eventuale frantumatore; la qualita' dell'aggregato riciclato e' variabile e va certificata con prove; tempi piu' lunghi della demolizione tradizionale; misto con pericolosi (amianto, vernici) contamina l'intero lotto: la separazione va fatta PRIMA, non dopo.
+- **Costi ed economia:** Ordini di grandezza indicativi: smaltimento in discarica di inerte misto: 25-60 €/t (piu' trasporto); conferimento a impianto di recupero: 5-20 €/t; aggregato riciclato venduto: 8-15 €/t contro i 10-20 €/t del vergine di cava (forte variabilita' regionale); frantumazione in sito: 8-20 €/t trattati, conveniente tipicamente oltre i 5.000-10.000 t; demolizione selettiva: +10-30% sul costo della demolizione tradizionale, spesso compensato dai minori smaltimenti.
+- **Caso tipico:** Caso tipo: demolizione di un comparto industriale con frantumazione in sito del cls di cordoli e pavimentazioni: l'aggregato riciclato, certificato, e' riutilizzato per i rilevati delle nuove platee e dei sottofondi stradali interni; a consuntivo gli autotreni di rifiuti in uscita si riducono drasticamente e il conto economico della demolizione migliora.
+- **Normativa:** D.Lgs 152/2006 Parte IV (gestione rifiuti, operazioni di recupero R5/R13, elenco europeo dei rifiuti capitolo 17); UNI EN 12620 e UNI EN 13242 (aggregati); disciplina End of Waste: decreti ministeriali di settore, da verificare nella versione vigente; per amianto e sostanze pericolose: normativa specifica vigente (da verificare).
+- **Nota di cantiere:** La partita si gioca nel censimento iniziale: un sopralluogo serio (che materiali, dove, in che stato) evita il disastro classico del misto contaminato che nessun impianto vuole piu'. Stoccati separati con cartelli e codici CER dal giorno uno: il rimescolamento successivo e' il killer economico della demolizione selettiva.
+
+### Gestione dei rifiuti di cantiere: obblighi, documenti e trappole
+
+**Categoria:** Cantiere e demolizione · **Corso:** Edilizia circolare e LCA
+
+I rifiuti di cantiere sono rifiuti speciali a tutti gli effetti: il produttore (l'impresa o il committente, secondo il caso) ne risponde dalla produzione alla destinazione finale, con documenti obbligatori e responsabilita' penale. La gestione corretta e' un adempimento, non un optional.
+
+- **Tecnologia e criteri:** Adempimenti base (D.Lgs 152/2006 Parte IV): attribuzione del codice CER corretto (capitolo 17 per costruzione e demolizione; distinguere i pericolosi, marcati con asterisco, es. 17 06 05* materiali contenenti amianto); registro di carico e scarico dei rifiuti; formulario di identificazione per ogni trasporto; verifica dell'iscrizione dei trasportatori e dei destinatari (albo gestori ambientali); tracciabilita' telematica secondo il sistema vigente (RENTRI) per i soggetti obbligati: soglie e decorrenze da verificare sul regolamento attuativo vigente. Terre e rocce da scavo: regime dedicato (art. 185 D.Lgs 152/2006 e D.M. 161/2012): se riutilizzabili non sono rifiuti, ma serve piano di utilizzo e prove ambientali; gestite male diventano rifiuti a tutti gli effetti. Stoccaggio temporaneo in cantiere: limiti di tempo e quantita', aree identificate, copertura per i materiali che possono dilavare.
+- **Applicazioni:** Ogni cantiere edile, dal piccolo rifacimento bagno (rifiuti in capannone dell'impresa con registro) alla grande opera (piano rifiuti, stoccati multipli, auditor della stazione appaltante); demolizioni; scavi con terre da riutilizzare.
+- **Vantaggi:** La gestione documentale corretta protegge l'impresa penalmente e civilmente; la separazione spinta riduce i costi (il misto costa sempre piu' del mono-materiale); i rifiuti ben caratterizzati trovano impianti disposti a prenderli a prezzi migliori.
+- **Limiti e attenzioni:** Le trappole sono procedurali: codice CER sbagliato, destinatario non autorizzato per quel codice, formulario compilato male, superamento dei limiti dello stoccaggio temporaneo: sanzioni anche penali e, in appalto pubblico, possibili contestazioni gravi; la filiera degli impianti non e' uniforme sul territorio.
+- **Costi ed economia:** Ordini di grandezza indicativi: smaltimento misto C&D in discarica: 25-60 €/t + trasporto; inerti separati a recupero: 5-20 €/t; frazioni di valore (ferro, metalli): ricavo invece che costo; pericolosi (amianto, contenitori contaminati): 100-300 €/t e oltre secondo tipologia; gestione documentale dedicata su cantiere medio-grande: 2-8 k€/anno.
+- **Caso tipico:** Caso tipo: cantiere con scavo importante: le terre, caratterizzate con prove preliminari, sono riutilizzate per i rilevati dello stesso lotto e di un cantiere vicino con piano di utilizzo condiviso: nessun formulario come rifiuto, nessun costo di discarica, risparmio sull'acquisto di materiale di riempimento.
+- **Normativa:** D.Lgs 152/2006 Parte IV (artt. 184-193: definizioni, registro, formulario); decisione 2000/532/CE (elenco europeo dei rifiuti); art. 185 D.Lgs 152/2006 e D.M. 161/2012 (terre e rocce da scavo); regolamento sul sistema di tracciabilita' telematica dei rifiuti (RENTRI): riferimenti attuativi da verificare nella versione vigente.
+- **Nota di cantiere:** Tre controlli che salvano: 1) il destinatario e' autorizzato per QUEL codice CER (non 'in generale'); 2) il formulario lo compila chi sa cosa sta caricando, non l'autista; 3) lo stoccaggio temporaneo ha scadenza: segnarla sul registro di cantiere il giorno che inizia. Chi subentra a lavori iniziati da altri verifichi subito lo stato dei rifiuti esistenti: la responsabilita' non si eredita, ma il disordine si'.
+
+### Riuso dei componenti e passaporto dei materiali
+
+**Categoria:** Cantiere e demolizione · **Corso:** Edilizia circolare e LCA
+
+Il riuso diretto dei componenti (travi, pavimentazioni, serramenti, sanitari, porte, controsoffitti) conserva il valore del prodotto intero invece di ridurlo a materia prima: e' il gradino piu' alto della gerarchia circolare dopo la prevenzione, ma richiede di sapere cosa c'e' nell'edificio e in che stato e'.
+
+- **Tecnologia e criteri:** Flusso operativo: inventario pre-demolizione (componenti, quantita', stato, compatibilita' dimensionale); valutazione di idoneita' al riuso (integrita', prestazioni residue, presenza di trattamenti pericolosi); smontaggio non distruttivo; stoccaggio protetto; eventuale ricondizionamento e test; reimmissione nello stesso cantiere (riuso in sito, il caso piu' efficiente) o sul mercato del second-hand edile. Il passaporto dei materiali (material passport) e' la scheda digitale che registra composizione, origine, caratteristiche e istruzioni di smontaggio di ogni componente: puo' vivere dentro il modello BIM come attributi degli oggetti. Per i componenti strutturali riusati (es. profili di acciaio) serve verifica delle caratteristiche meccaniche e tracciabilita': la marcatura CE per il reimpiego in nuova opera e' tema regolatorio in evoluzione, da verificare caso per caso.
+- **Applicazioni:** Ristrutturazioni dove il riuso in sito e' immediato (pavimentazioni in legno o cotto recuperate, porte d'epoca, radiators), demolizioni con componenti industriali standardizzati (profili metallici, pannelli sandwich, cabine), restauro con materiali coevi di reintegro.
+- **Vantaggi:** Valore conservato: una trave riusata vale molto piu' del suo rottame; riduzione forte di embodied carbon (nessuna riproduzione); appeal commerciale per committenti sensibili e per il restauro (coerenza materica).
+- **Limiti e attenzioni:** Mercato frammentato: tempi e quantita' raramente coincidono con il bisogno del cantiere acquirente; costi di smontaggio, stoccaggio e certificazione possono mangiare il margine; responsabilita' prestazionale del componente riusato da regolare contrattualmente; dimensioni non standard complicano il reimpiego progettuale.
+- **Costi ed economia:** Ordini di grandezza indicativi: componenti architettonici di pregio (pavimenti in cotto o legno antico, serramenti storici) riusati: 20-60% del costo del nuovo equivalente di pari qualita'; profili metallici di recupero: 30-50% del nuovo se certificabili; il riuso in sito evita sia lo smaltimento (25-60 €/t) sia l'acquisto.
+- **Caso tipico:** Caso tipo: recupero delle capriate lignee di un capannone in demolizione: collaudate visivamente e con prove di classificazione, ricondizionate e reimpiegate nella nuova copertura dello stesso lotto, con documentazione allegata al fascicolo; il committente ottiene valore architettonico e riduzione del GWP dei moduli A1-A3.
+- **Normativa:** D.Lgs 152/2006 Parte IV (la preparazione per il riutilizzo e' operazione di recupero); ISO 20887 (progettazione per smontaggio); Regolamento (UE) n. 305/2011 per la marcatura CE dei prodotti da costruzione (condizioni per il reimpiego da verificare); CAM Edilizia (D.M. 23 giugno 2022) per i criteri di recupero negli appalti.
+- **Nota di cantiere:** Il riuso si perde per incuria, non per tecnologia: componenti smontati bene ma lasciati alle intemperie o spostati col muletto senza protezione diventano rifiuti in una settimana. Stoccaggio coperto, su traversi, con etichetta: trattare il riuso come un magazzino, non come una discarica elegante.
+
+### L'economia della circolarita' in cantiere: conti, mercati e barriere
+
+**Categoria:** Economia · **Corso:** Edilizia circolare e LCA
+
+L'edilizia circolare regge se i conti tornano: costi evitati di discarica e di acquisto, ricavi da materiali recuperati, punteggi in gara, valore dell'asset. Le barriere sono logistiche, documentali e di mercato: conoscerle e' cio' che distingue un progetto circolare da una brochure.
+
+- **Tecnologia e criteri:** Conto economico tipo della demolizione circolare: voce positiva = smaltimenti evitati (25-60 €/t per il misto), acquisti di vergine evitati (10-20 €/t per gli inerti), ricavi da metalli e componenti riusati, eventuali punteggi di gara; voce negativa = maggior tempo di demolizione selettiva (+10-30%), stoccati e movimentazioni interne, prove e certificazioni dell'aggregato riciclato, gestione documentale. Il punto di pareggio dipende da: quantita' (la frantumazione in sito conviene oltre soglie dell'ordine di migliaia di tonnellate), distanza dagli impianti (oltre 30-50 km il trasporto puo' mangiare il margine), presenza di contaminanti. Mercato: la domanda di riciclati cresce dove i CAM e i capitolati la creano; il prezzo del riciclato e' tipicamente 10-30% sotto il vergine ma la disponibilita' non e' uniforme. Incentivi e fiscalita' collegati (crediti d'imposta per il recupero, dove attivi): verificare sui provvedimenti vigenti con la stessa regola usata per le schede degli incentivi: fonte primaria, anno per anno.
+- **Applicazioni:** Piani economici di demolizioni e grandi ristrutturazioni; offerte tecniche con criteri ambientali; scelte di filiera di impresa (accordi stabili con impianti di recupero); valutazione di bancabilita' di interventi con obiettivi ESG.
+- **Vantaggi:** Approccio a costo totale che premia l'organizzazione: l'impresa con filiera rodata trasforma un adempimento in margine; riduce l'esposizione alla volatilita' dei prezzi delle materie prime vergini; documenta risultati misurabili per committenti e finanziatori.
+- **Limiti e attenzioni:** Il margine e' fragile: basta un lotto contaminato o un impianto chiuso per ribaltarlo; i prezzi dei riciclati non hanno un listino pubblico stabile; i tempi della demolizione selettiva mal tollerano cronoprogrammi compressi; la rendicontazione ambientale ha costi fissi che pesano sui piccoli lavori.
+- **Costi ed economia:** Ordini di grandezza indicativi: su una demolizione di 10.000 t la differenza tra gestione tradizionale (tutto a discarica) e circolare (separazione + frantumazione + riuso) puo' valere 50-150 k€ a favore della circolare, con varianza alta legata a logistica e contaminanti; investimento in attrezzatura propria di frantumazione giustificabile solo su volumi pluriannuali stabili.
+- **Caso tipico:** Caso tipo: impresa che vince una serie di appalti pubblici con criteri ambientali grazie a un accordo pluriennale con un impianto di recupero inerti e a un parco mezzi con frantumatore mobile condiviso: i costi fissi della filiera sono ammortizzati su piu' cantieri e il punteggio tecnico ambientale diventa un vantaggio competitivo ripetibile.
+- **Normativa:** D.Lgs 152/2006 Parte IV (quadro rifiuti e recupero); D.Lgs 36/2023 e CAM Edilizia (D.M. 23 giugno 2022) per la domanda pubblica; disciplina End of Waste: decreti ministeriali vigenti, da verificare; eventuali agevolazioni fiscali collegate al recupero: da verificare sui provvedimenti dell'anno in corso.
+- **Nota di cantiere:** Fare il conto economico della circolarita' PRIMA della demolizione, con numeri veri dei propri impianti di riferimento: smaltimento, trasporto, ricavo atteso. E mettere nel contratto col committente chi guadagna il valore dei materiali recuperati: se non e' scritto, diventa la prima lite del cantiere.
+
+### Il riciclo per filiera: acciaio, gesso, bitume, legno, calcestruzzo
+
+**Categoria:** Materiali e filiere · **Corso:** Edilizia circolare e LCA
+
+Le filiere del riciclo edile hanno maturita' molto diverse: acciaio e metalli sono un ciclo chiuso consolidato, il gesso e la frazione lapidea del calcestruzzo sono a meta' strada, i misti e i compositi sono ancora un problema. Conoscere la filiera decide cosa conviene separare davvero.
+
+- **Tecnologia e criteri:** Acciaio e metalli: ciclo elettrico da rottame maturo (la produzione italiana di acciaio da costruzione e' prevalentemente da forno elettrico): riciclo quasi totale, valore di mercato positivo, separazione in cantiere gia' economicamente motivata. Gesso (cartongesso): riciclabile se puro e separato dagli accoppiati (cartongesso accoppiato a isolanti o barriere e' problematico): richiede stoccaggio dedicato e impianti specifici non uniformi sul territorio. Bitume (fresato d'asfalto, RAP): riutilizzo in nuovo conglomerato bituminoso consolidato nei capitolati stradali, con percentuali dipendenti da capitolato e controlli; in edilizia vale per pavimentazioni esterne. Legno: gerarchia riuso > pannelli (il truciolare italiano usa in gran parte legno riciclato) > energia; il legno trattato o verniciato va in filiere dedicate. Calcestruzzo e inerti: frantumazione e vagliatura danno aggregato riciclato per sottofondi, riempimenti e, con certificazione UNI EN 12620, anche per nuovo cls non strutturale o con limiti di impiego secondo la normativa di settore: la variabilita' della materia prima impone prove e accettazione continua.
+- **Applicazioni:** Cantieri di demolizione e ristrutturazione con raccolta differenziata spinta; opere pubbliche con percentuali CAM di riciclato; produzione di conglomerati e prefabbricati con contenuto riciclato certificato.
+- **Vantaggi:** Le filiere mature (metalli) pagano il materiale invece di farsi pagare lo smaltimento; per inerti e RAP il riciclo riduce simultaneamente cava, trasporto e discarica; il contenuto riciclato certificato vale punteggio in gare CAM e certificazioni.
+- **Limiti e attenzioni:** La frazione critica e' sempre il misto e il contaminato: cartongesso bagnato, inerti misti a plastiche e legno, bitume misto a terra; la distanza dagli impianti puo' annullare il vantaggio economico (regola pratica: oltre 30-50 km il conto va rifatto); qualita' variabile dei riciclati = costi di controllo.
+- **Costi ed economia:** Ordini di grandezza indicativi: ferro e metalli da cantiere: ricavo (quotazioni variabili, centinaia di €/t per il ferro, migliaia per il rame); cartongesso puro a recupero: 15-40 €/t; RAP avviato a centrale: 0-10 €/t con riacquisto del conglomerato con riciclato spesso in parita' col vergine; aggregato da cls riciclato: 8-15 €/t contro 10-20 €/t del vergine.
+- **Caso tipico:** Caso tipo: demolizione di un edificio scolastico con raccolta in 6 stoccati separati (ferro, inerte cls, cartongesso, legno, misto, pericolosi): a consuntivo il ferro copre i costi di gestione delle frazioni deboli e la percentuale di recupero supera l'85% in peso, documentata per la stazione appaltante con formulari e pesate.
+- **Normativa:** D.Lgs 152/2006 Parte IV; UNI EN 12620 (aggregati per calcestruzzo) e UNI EN 13242 (aggregati per opere civili); serie UNI EN 13108 (conglomerati bituminosi) e capitolati di settore per il RAP; norme di prodotto armonizzate per marcatura CE dei materiali con contenuto riciclato.
+- **Nota di cantiere:** Prima di promettere percentuali di riciclo in offerta, telefonare agli impianti della zona: quali frazioni prendono, a che prezzo, con quali limiti di contaminazione. La filiera si progetta come il resto del cantiere; chi scopre a meta' lavoro che il cartongesso non lo vuole nessuno ha gia' perso il margine.
+
+### Embodied carbon: l'impronta di carbonio incorporata nei materiali
+
+**Categoria:** Metodo e metriche · **Corso:** Edilizia circolare e LCA
+
+L'embodied carbon e' la somma delle emissioni di gas serra legate a produzione, trasporto, posa, manutenzione e fine vita dei materiali di un edificio (moduli A, B parziali, C e D): si contrappone al carbonio operativo dell'energia in esercizio e diventa dominante man mano che gli edifici si avvicinano all'energia quasi zero.
+
+- **Tecnologia e criteri:** Si calcola come somma dei GWP dei moduli A1-A5, B1-B5 (sostituzioni), C1-C4, riportando separatamente il modulo D secondo UNI EN 15978. Regole pratiche del settore: la struttura portante e' tipicamente la voce piu' pesante in un edificio nuovo (seguita da involucro e pavimentazioni); il cls e' dominato dal clinker del cemento, l'acciaio dal mix di produzione (ciclo integrale vs forno elettrico da rottame), l'alluminio dall'energia di elettrolisi; il legno strutturale puo' presentare GWP A1-A3 molto bassi, con il carbonio biogenico contabilizzato a parte e chiuso in C3/C4. I valori assoluti variano molto con banca dati e geometrie: citare sempre la fonte del dato.
+- **Applicazioni:** Selezione delle strutture in fase preliminare, obiettivi di decarbonizzazione di sviluppatori e fondi, requisiti emergenti EPBD sul GWP del ciclo di vita, benchmark di portafoglio immobiliare.
+- **Vantaggi:** Individua dove agire davvero: in un nZEB la maggior parte del carbonio 'di vita' e' gia' incorporato al collaudo, quindi le leve sono mix design del cls, contenuto di rottame dell'acciaio, riuso e design for disassembly.
+- **Limiti e attenzioni:** Benchmark non ancora normati in Italia: le fasce circolanti in letteratura derivano da studi con ipotesi diverse; il credito del modulo D dipende da scenari di riciclo futuri non garantiti; attenzione al doppio conteggio tra carbonio biogenico e modulo D.
+- **Costi ed economia:** Ordini di grandezza indicativi: ridurre il GWP A1-A3 del cls con miscele a ridotto clinker o additivi ha sovracosti tipici contenuti (0-8% sulla fornitura del cls) ma richiede prove e omologazioni; l'acciaio da forno elettrico (pratica standard in Italia) e' gia' la via a basso carbonio senza sovrapprezzo strutturale.
+- **Caso tipico:** Caso tipo: due capannoni gemelli, uno con struttura metallica da forno elettrico e giunti bullonati smontabili, l'altro in cls gettato in opera: a parita' di funzione il primo presenta un GWP A1-A3 inferiore e un potenziale di recupero a fine vita documentabile in fase di permesso.
+- **Normativa:** UNI EN 15978 (moduli e metodo); UNI EN 15804 (dati di prodotto); Direttiva (UE) 2024/1275 (EPBD) per l'introduzione progressiva della dichiarazione del GWP del ciclo di vita: dettagli attuativi nazionali da verificare sui decreti di recepimento.
+- **Nota di cantiere:** Il carbonio si 'firma' al momento degli ordini: centrale di betonaggio, produttore di acciaio e distanza di trasporto decidono il risultato piu' di qualsiasi dichiarazione a fine lavori. Inserire i requisiti ambientali nei contratti di fornitura, non solo nella relazione.
+
+### Il metodo LCA applicato all'edilizia: fasi, moduli e indicatori
+
+**Categoria:** Metodo e metriche · **Corso:** Edilizia circolare e LCA
+
+La valutazione del ciclo di vita (LCA) e' il metodo standardizzato per quantificare gli impatti ambientali di un edificio o di un prodotto da costruzione dalla culla alla tomba: estrazione delle materie, trasporti, cantiere, uso, manutenzione, fine vita e potenziali benefici del riciclo oltre confine di sistema.
+
+- **Tecnologia e criteri:** Struttura della norma di settore UNI EN 15978 (ereditata dalla EN 15978): moduli A1-A3 (produzione dei materiali), A4-A5 (trasporto in cantiere e costruzione), B1-B5 (uso e manutenzione/sostituzioni), B6-B7 (energia e acqua in esercizio), C1-C4 (fine vita: demolizione, trasporto, trattamento, smaltimento), D (benefici e carichi oltre il confine di sistema, es. energia recuperata o materiale riciclato che sostituisce il vergine). Procedura LCA secondo ISO 14040/14044: definizione di obiettivo e campo (unita' funzionale, es. 1 m2 di pavimento lordo per un periodo di riferimento di 50-60 anni), inventario dei flussi (LCI), valutazione degli impatti (LCIA), interpretazione. Indicatori tipici: GWP (kg CO2 equivalente), energia primaria totale e non rinnovabile, formazione di ozono fotochimico, acidificazione, eutrofizzazione, consumo idrico.
+- **Applicazioni:** Confronto di alternative progettuali (struttura in cls vs acciaio vs legno a parita' di funzione), certificazioni di sostenibilita' degli edifici, requisiti CAM negli appalti pubblici, report ESG di committenti e sviluppatori, futuri adempimenti EPBD sul carbonio del ciclo di vita.
+- **Vantaggi:** Sposta la valutazione dal solo consumo operativo (B6) all'intero ciclo: evita di 'risolvere' l'energia in bolletta spostando gli impatti nei materiali; rende confrontabili le scelte con numeri, non con slogan.
+- **Limiti e attenzioni:** Il risultato dipende fortemente dalle banche dati di inventario, dalle ipotesi di vita utile e dallo scenario energetico futuro del modulo B6: due LCA sullo stesso edificio con ipotesi diverse possono differire di molto. Serve dichiarare sempre le ipotesi.
+- **Costi ed economia:** Ordini di grandezza indicativi: studio LCA di un edificio residenziale medio con software commerciale e banca dati: 5-15 k€ a seconda del dettaglio; licenze software LCA e banche dati: 1-5 k€/anno per postazione; LCA di prodotto ai fini EPD: in genere compresa nel costo complessivo della certificazione.
+- **Caso tipico:** Caso tipo: committenza pubblica che richiede in gara il GWP del ciclo di vita; il progettista confronta tre strutture portanti equivalenti e documenta che la soluzione mista legno-cls riduce il GWP dei moduli A1-A3 rispetto al solo cls, a parita' di costo di costruzione.
+- **Normativa:** ISO 14040 e ISO 14044 (principi e requisiti LCA); UNI EN 15978 (valutazione della prestazione ambientale degli edifici); UNI EN 15804 (regole di categoria di prodotto per l'edilizia); Direttiva (UE) 2024/1275 (EPBD): introduce il calcolo progressivo dell'impronta di carbonio del ciclo di vita degli edifici nuovi (dal 2028 per i grandi edifici, dal 2030 per tutti): recepimento nazionale da verificare sui decreti attuativi.
+- **Nota di cantiere:** L'LCA si fa in progettazione, ma si vince in cantiere: se il capitolato prescrive un materiale per il suo GWP e poi in opera ne arriva uno equivalente 'solo di nome', il beneficio calcolato evapora. Tenere tracciati i certificati dei materiali effettivamente posati.
+
+### Life Cycle Costing: il costo globale dell'opera nel ciclo di vita
+
+**Categoria:** Metodo e metriche · **Corso:** Edilizia circolare e LCA
+
+Il Life Cycle Costing (LCC) calcola il costo totale di un edificio o componente nel suo ciclo di vita: costruzione, energia, manutenzione, sostituzioni, fine vita, attualizzati a oggi. E' la controparte economica dell'LCA ambientale e la base seria per confrontare alternative che 'costano uguale' solo alla consegna.
+
+- **Tecnologia e criteri:** Metodo della ISO 15686-5 (life cycle costing per edifici): periodo di analisi coerente con la vita utile di progetto (tipicamente 30-60 anni), tasso di attualizzazione dichiarato, voci: investimento iniziale, energia e acqua in esercizio, manutenzione programmata e straordinaria, sostituzioni di componenti a vita piu' breve (coperture, impianti, finiture), costi di fine vita meno il valore residuo. Confronto tra alternative a parita' di funzione e di periodo. La sensibilita' del risultato a tasso di attualizzazione e prezzi energetici va sempre mostrata (analisi di sensibilita'), perche' a tassi alti il futuro 'non pesa' e vince sempre l'opzione piu' cheap iniziale.
+- **Applicazioni:** Scelta tra sistemi di copertura, facciata, generazione e involucro con vite e manutenzioni diverse; gare pubbliche con criterio dell'offerta economicamente piu' vantaggiosa che includono costi di gestione; piani di manutenzione programmata obbligatori per gli appalti pubblici.
+- **Vantaggi:** Rende visibile il costo nascosto delle scelte cheap: una copertura piu' costosa del 20% ma con vita doppia e manutenzione dimezzata vince quasi sempre su 40 anni; strumento decisivo nella trattativa con il committente per giustificare la qualita'.
+- **Limiti e attenzioni:** Dipende da previsioni (prezzi energetici, tassi, vite utili) intrinsecamente incerte: il risultato e' uno scenario, non un fatto; i dati di vita utile reale dei componenti sono scarsi e spesso di origine produttore; richiede disciplina nella raccolta dei costi di gestione, che pochi committenti hanno.
+- **Costi ed economia:** Ordini di grandezza indicativi: analisi LCC di supporto alla progettazione di un edificio medio: 3-10 k€; su scala componente (es. confronto tra 3 coperture) 1-3 k€; il valore in gioco: le voci di gestione su 50 anni superano tipicamente il costo di costruzione per edifici terziari e sanitari.
+- **Caso tipico:** Caso tipo: scelta del sistema di facciata per un edificio direzionale: l'opzione a elementi prefabbricati con giunti sostituibili costa +8% iniziale, ma l'LCC a 40 anni con sostituzione programmata dei soli elementi degradati risulta inferiore alla facciata tradizionale da rifare integralmente a meta' vita.
+- **Normativa:** ISO 15686-5 (edifici e beni costruiti — life cycle costing); D.Lgs 36/2023 (criteri di aggiudicazione con costi del ciclo di vita; piani di manutenzione dell'opera); UNI EN 15978 come riferimento parallelo per il perimetro dei moduli di ciclo di vita.
+- **Nota di cantiere:** Il piano di manutenzione non e' un adempimento cartaceo: consegnarlo con prezzi veri, scadenze vere e pezzi di ricambio identificati. Chi costruisce sa dove la manutenzione sara' difficile (canaline inaccessibili, giunti murati): segnalarlo al progettista prima del collaudo vale piu' di dieci pagine di relazione.
+
+### I CAM Edilizia: criteri ambientali minimi negli appalti di lavori
+
+**Categoria:** Normativa e appalti · **Corso:** Edilizia circolare e LCA
+
+I CAM (Criteri Ambientali Minimi) per l'edilizia sono i requisiti ambientali che le stazioni appaltanti devono applicare agli appalti pubblici di nuova costruzione, ristrutturazione e manutenzione: coprono il ciclo completo, dal progetto ai materiali al cantiere alla demolizione.
+
+- **Tecnologia e criteri:** Riferimento: D.M. 23 giugno 2022 (CAM Edilizia), reso operativo dall'obbligo del D.Lgs 36/2023 (codice dei contratti pubblici: applicazione dei CAM negli appalti, art. 57). Aree di criterio tipiche: progettazione per durabilita', adattabilita' e disassemblabilita'; contenuto minimo di materiale riciclato o recuperato per categorie di componenti (misture, intonaci, pavimentazioni, materiali isolanti); gestione dei rifiuti di cantiere e della demolizione con percentuali di recupero; contenimento di sostanze pericolose nei materiali; prestazioni energetiche e idriche; qualita' dell'aria interna (emissioni dei materiali). La verifica in gara avviene con dichiarazioni, EPD, certificazioni di prodotto e relazioni di cantiere: l'impresa deve essere attrezzata a produrre le evidenze, non solo a prometterle.
+- **Applicazioni:** Tutti gli appalti pubblici di lavori edili sopra le soglie di applicazione del codice; per estensione volontaria, capitolati privati con obiettivi ESG; progettazione di opere che dovranno reggere la verifica CAM in fase esecutiva.
+- **Vantaggi:** Crea domanda stabile per materiali riciclati e certificati (effetto mercato); uniforma le richieste ambientali invece di lasciarle alla fantasia dei singoli capitolati; premia le imprese organizzate sulla documentazione.
+- **Limiti e attenzioni:** Complessita' documentale alta: l'offerta tecnicamente migliore puo' perdere su un certificato mancante; alcuni criteri (percentuali di riciclato) non hanno ancora mercato di fornitura uniforme sul territorio; verifiche in opera disomogenee tra stazioni appaltanti.
+- **Costi ed economia:** Ordini di grandezza indicativi: l'adeguamento documentale e di filiera per un'impresa media (procedure, fornitori certificati, formazione) e' dell'ordine di 5-20 k€/anno; sui singoli lavori l'incidenza dei criteri ambientali sul prezzo e' tipicamente 0-5% secondo la categoria di intervento.
+- **Caso tipico:** Caso tipo: gara di riqualificazione di un edificio scolastico con criteri CAM su riciclato dei materiali e recupero dei rifiuti di demolizione: l'impresa vincente e' quella che ha gia' in essere accordi con un impianto di recupero inerti e fornitori con EPD, e li documenta in offerta senza clausole sospensive.
+- **Normativa:** D.Lgs 36/2023 (codice dei contratti pubblici, applicazione dei CAM); D.M. 23 giugno 2022 (CAM Edilizia); D.Lgs 152/2006 Parte IV per la gestione dei rifiuti; UNI EN 15804 e ISO 14025 per le evidenze di prodotto.
+- **Nota di cantiere:** La gara CAM si vince in ufficio prima che in cantiere: costruire la lista fornitori certificati e il dossier documentale quando NON c'e' una scadenza. In esecuzione, nominare un responsabile della raccolta evidenze (foto stoccati, formulari, DDT, certificati): senza evidenze il criterio e' come non applicato, e la DL puo' contestarlo.
+
+### Le EPD: dichiarazioni ambientali di prodotto per l'edilizia
+
+**Categoria:** Prodotti e dichiarazioni · **Corso:** Edilizia circolare e LCA
+
+La EPD (Environmental Product Declaration) e' la dichiarazione ambientale di Tipo III di un prodotto da costruzione: dati LCA verificati da terza parte secondo regole di categoria (PCR), pubblicati da un program operator e validi 5 anni.
+
+- **Tecnologia e criteri:** Base normativa: ISO 14025 (dichiarazioni di Tipo III) e UNI EN 15804 (PCR orizzontale per i prodotti da costruzione, oggi nella versione con emendamento A2 che ha reso obbligatori GWP-GHG e moduli C1-C4 e D). Contenuto: i moduli A1-A3 (fabbrica), almeno un set di moduli a scelta fino a C4 e D, indicatori ambientali, uso di risorse, rifiuti. Il dato chiave per il committente e' il GWP degli A1-A3 ('carbonio incorporato alla consegna'). La verifica indipendente e la registrazione presso un program operator (nazionale o internazionale) sono cio' che distingue una EPD da un'autodichiarazione.
+- **Applicazioni:** Capitolati e gare con criteri ambientali (CAM), certificazioni di edificio, scelta dei materiali in progettazione LCA, comunicazione ambientale dei produttori verso progettisti e imprese.
+- **Vantaggi:** Dato verificato e confrontabile a parita' di unita' dichiarata; solleva il progettista dal dover ricostruire l'inventario di ogni prodotto; premia i produttori che hanno ottimizzato processo e materie prime.
+- **Limiti e attenzioni:** La EPD e' una fotografia del prodotto di uno stabilimento in un anno: non trasferibile acriticamente ad altri stabilimenti o miscele diverse; EPD 'di settore' (medie) meno rappresentative di quelle specifiche; attenzione a confrontare solo EPD con la stessa unita' dichiarata e gli stessi moduli.
+- **Costi ed economia:** Ordini di grandezza indicativi: per un produttore, studio LCA + verifica terza parte + registrazione di una EPD di prodotto: 10-30 k€; per il progettista/impresa l'accesso ai dati e' gratuito (registri pubblici dei program operator).
+- **Caso tipico:** Caso tipo: in una gara con criterio di punteggio ambientale, l'impresa sostituisce in offerta un cls di miscela standard con uno a ridotto contenuto di clinker dotato di EPD specifica, migliorando il punteggio tecnico senza variare la classe di resistenza richiesta.
+- **Normativa:** ISO 14025; UNI EN 15804 (con A2:2019); Regolamento (UE) n. 305/2011 (CPR, condizioni generali per le dichiarazioni ambientali dei prodotti da costruzione); per il quadro italiano degli appalti: D.Lgs 36/2023 e CAM Edilizia (D.M. 23 giugno 2022).
+- **Nota di cantiere:** Quando la DL chiede l'EPD di un prodotto, chiedere subito al fornitore il documento registrato (numero di registrazione e scadenza), non la brochure: se arriva in opera un prodotto senza EPD valida dove era un requisito di capitolato, la sostituzione a lavoro finito e' un problema serio.
+
+### Design for disassembly: progettare edifici smontabili e riutilizzabili
+
+**Categoria:** Progettazione · **Corso:** Edilizia circolare e LCA
+
+Il design for disassembly (DfD) e' l'approccio progettuale che rende un edificio scomponibile a fine vita o durante la vita: connessioni reversibili, strati separati per durata, componenti identificabili e accessibili, cosi' che materiali e parti tornino al ciclo del riuso invece che alla discarica.
+
+- **Tecnologia e criteri:** Principi codificati dalla ISO 20887 (design for disassembly and adaptability): indipendenza degli strati dell'edificio (struttura, involucro, impianti, finiture hanno vite diverse e devono poter essere sostituiti senza distruggersi a vicenda); connessioni meccaniche (bulloni, giunti a secco) preferite a quelle chimiche (adesivi, getti monolitici); standardizzazione e modularita' dei componenti; accessibilita' dei punti di connessione; documentazione del 'passaporto del materiale' che registra cosa c'e' nell'edificio e come smontarlo; scelta di materiali durevoli e mono-materiale dove possibile (i compositi incollati sono il nemico del riciclo).
+- **Applicazioni:** Strutture metalliche e in legno a secco, facciate continue con elementi sostituibili, pavimenti e controsoffitti tecnici, edilizia temporanea e allestimenti, edifici pubblici con obiettivi di circolarita' (CAM).
+- **Vantaggi:** Trasforma il fine vita da costo a valore residuo; riduce i tempi di ristrutturazione (gli impianti accessibili si sostituiscono senza demolizioni); aumenta la bancabilita' dell'asset per committenti con obiettivi ESG.
+- **Limiti e attenzioni:** Richiede disciplina esecutiva che il cantiere tradizionale non ha (il giunto reversibile mal posato e' peggio del getto); il mercato del riuso dei componenti e' ancora piccolo e i prezzi non garantiscono il ritorno; la marcatura CE di un componente riutilizzato in nuova opera e' un tema regolatorio aperto: da verificare caso per caso.
+- **Costi ed economia:** Ordini di grandezza indicativi: il sovracosto di progettazione e dettaglio DfD e' modesto (1-3% sulla progettazione); i giunti a secco possono costare in opera come o meno del getto equivalente; il beneficio si materializza alla prima ristrutturazione o al fine vita (risparmio demolizione 20-40% secondo casi di letteratura, da verificare sul caso specifico).
+- **Caso tipico:** Caso tipo: edificio direzionale con struttura in acciaio bullonata, solai misti con connettori smontabili e facciata a elementi prefabbricati registrati in un passaporto digitale dei materiali: a 30 anni la riconversione a residenziale sostituisce involucro e impianti senza demolire la struttura.
+- **Normativa:** ISO 20887:2020 (principi di design for disassembly and adaptability); per il contesto: D.Lgs 152/2006 Parte IV (rifiuti) e CAM Edilizia (D.M. 23 giugno 2022, criteri di disassemblabilita' e contenuto riciclato); Regolamento (UE) n. 305/2011 (CPR) per la marcatura dei prodotti.
+- **Nota di cantiere:** Il DfD muore nei dettagli esecutivi improvvisati: ogni modifica in opera (un getto di completamento 'per fare presto', una schiuma sigillante sul giunto a secco) va registrata. Consegnare al committente la documentazione di smontaggio insieme al fascicolo dell'opera.
+
+### Strumenti digitali per la circolarita': BIM-LCA, EPD digitali, banche materiali
+
+**Categoria:** Strumenti digitali · **Corso:** Edilizia circolare e LCA
+
+La circolarita' si misura sui dati: modelli BIM con attributi ambientali, EPD in formato digitale leggibile dai software, banche dati LCA e piattaforme di scambio dei materiali di recupero. Chi padroneggia la catena del dato progetta, gareggia e rendiconta piu' velocemente.
+
+- **Tecnologia e criteri:** Catena del dato tipica: 1) modello BIM con computo delle quantita' affidabile (il punto debole e' sempre la qualita' del computo); 2) associazione di ogni materiale a un dataset ambientale (EPD specifiche di prodotto o dataset di banche dati LCA nazionali e internazionali); 3) calcolo automatico degli indicatori per moduli UNI EN 15978 con esportazione per fasi di vita; 4) EPD digitali in formato macchina-leggibile (standard ILCD) che alimentano i software senza trascrizione manuale; 5) passaporto dei materiali come attributi del modello (composizione, istruzioni di smontaggio, potenziale di recupero); 6) piattaforme di banca materiali che mettono in contatto chi smonta e chi cerca componenti di recupero. Interoperabilita' via IFC: verificare che gli attributi ambientali sopravvivano allo scambio tra software.
+- **Applicazioni:** Progettazione LCA in gare con criteri ambientali; rendicontazione CAM con computo diretto dal modello; gestione del patrimonio per committenti con portafogli (priorita' di intervento su GWP incorporato); documentazione del fine vita pianificato.
+- **Vantaggi:** Elimina la trascrizione manuale (prima fonte di errori negli LCA); rende il confronto tra alternative quasi in tempo reale durante lo sviluppo del progetto; il modello con passaporto materiali e' un asset consegnabile che aumenta il valore della commessa.
+- **Limiti e attenzioni:** Garbage in, garbage out: un computo BIM impreciso produce un LCA precisamente sbagliato; la copertura di EPD digitali sui prodotti realmente usati in Italia e' ancora parziale; gli attributi ambientali si perdono spesso negli scambi IFC tra piattaforme diverse: testare il flusso prima di prometterlo in offerta.
+- **Costi ed economia:** Ordini di grandezza indicativi: software BIM-LCA e banche dati: 1-5 k€/anno per postazione; configurazione di template e librerie aziendali: 5-20 k€ una tantum; per il committente, il passaporto digitale dei materiali come elaborato aggiuntivo: 2-10 k€ secondo le dimensioni dell'opera.
+- **Caso tipico:** Caso tipo: progettista che consegna in gara il GWP per moduli calcolato dal modello con tre varianti strutturali, con gli indicatori esportati direttamente dalla libreria EPD dei prodotti previsti in capitolato: la stazione appaltante verifica il metodo (computo + dataset dichiarati) invece di fidarsi di una tabella manuale.
+- **Normativa:** UNI EN 15978 e UNI EN 15804 (metodo e dati); ISO 14025 e formato ILCD per le EPD digitali; UNI EN ISO 19650 (gestione informativa BIM) per il quadro dei flussi informativi; CAM Edilizia (D.M. 23 giugno 2022) per le evidenze in appalto.
+- **Nota di cantiere:** Il modello ambientale si aggiorna con gli ordini reali: se in opera arriva un cemento o un isolante diverso dal progetto, qualcuno deve aggiornare dataset e computo, altrimenti la rendicontazione finale descrive un edificio che non esiste. Assegnare questo compito per iscritto nel piano di gestione informativa.
 
 
 ## Edilizia scolastica tecnica
@@ -5123,7 +5463,7 @@ L'acqua del terreno risale nei muri per capillarità come in una cannuccia: i mu
 
 ## Serramenti, vetrate e porte
 
-*Corso `SERRAMENTI_E_VETRATE_PACK` — 13 voci*
+*Corso `SERRAMENTI_E_VETRATE_PACK` — 16 voci*
 
 ### Le chiusure e l'accessibilità: porte automatiche, soglie e barriere architettoniche
 
@@ -5200,6 +5540,21 @@ I serramenti durano decenni se mantenuti: le guarnizioni (gomme che invecchiano)
 - **Normativa:** Nessuna norma cogente; prassi produttori e manutentori.
 - **Nota di cantiere:** La frase da insegnare: il serramento è come la macchina: il tagliando costa poco, il motore fuso costa tutto.
 
+### Marcatura CE, DoP e classificazioni prestazionali (UNI EN 14351-1)
+
+**Categoria:** Marcatura e conformità · **Corso:** Serramenti, vetrate e porte
+
+Dal 2013 finestre e porte esterne devono recare la marcatura CE: il costruttore dichiara le prestazioni (Uw, permeabilità all'aria, tenuta all'acqua, resistenza al vento) in un Documento di Prestazione (DoP) che accompagna ogni fornitura. Le classificazioni si esprimono con le norme della serie UNI EN 12207 (aria), UNI EN 12208 (acqua), UNI EN 12210 (vento), UNI EN 14351-1 (prodotto).
+
+- **Tecnologia e criteri:** Richiesta obbligatoria in appalto: DoP del modello esatto consegnato; etichetta CE applicata sul telaio (o documento che la accompagna); valore Uw riferito all'insieme completo telaio+vetro e alla dimensione standard di prova; classi dichiarate: permeabilità all'aria (da 0 a 4, la 4 è la migliore), tenuta all'acqua (da 1A a 9A), resistenza al vento (da C1 a C5 / B1-B5 per le ante); verifica che il valore Uw del DoP corrisponda a quanto preventivato.
+- **Applicazioni:** Collaudi di fine lavori, verifiche in detrazioni energetiche, contenziosi tra committenti e imprese, gare con specifica prestazionale.
+- **Vantaggi:** Il DoP rende confrontabili le offerte su dati oggettivi e tutela entrambe le parti in caso di contestazione; il valore Uw dichiarato consente la verifica di legge (Legge 10) senza prove distruttive.
+- **Limiti e attenzioni:** Il valore Uw dichiarato si riferisce a una configurazione standard: dimensioni e rapporto vetro/telaio reali possono peggiorarlo (più telaio = Uw più alto); la fascia di incertezza di misura è ±0,3 W/(m²K); etichetta assente o DoP generico = prodotto non conforme alla marcatura.
+- **Costi ed economia:** Costo documentale nullo (obbligo di legge); verifica in laboratorio su campione per contenzioso: 1.500-4.000 €.
+- **Caso tipico:** Condominio che aveva accettato offerta 'Uw 1,1' scritta solo sul preventivo: all'installazione le finestre consegnate erano Uw 1,4 (legittime ma diverse). Il DoP richiesto prima del saldo dimostrò la discrepanza: saldo sospeso fino a sostituzione con il modello dichiarato.
+- **Normativa:** UNI EN 14351-1 (finestre e porte esterne: requisiti e marcatura CE); Regolamento UE 305/2011 (CPR: obbligo di DoP); UNI EN 12207, UNI EN 12208, UNI EN 12210 (classificazioni aria/acqua/vento); UNI EN ISO 12631 (calcolo Uw).
+- **Nota di cantiere:** Per il LLM: la prima verifica di un serramento consegnato è DoP + etichetta CE: senza questi il prodotto non doveva neanche essere installato. Diffidare di valori Uw 'commerciali' non presenti sul DoP del modello esatto consegnato.
+
 ### I materiali degli infissi: legno, alluminio, PVC, acciaio, misti
 
 **Categoria:** Materiali · **Corso:** Serramenti, vetrate e porte
@@ -5274,6 +5629,36 @@ Montare serramenti nuovi in murature esistenti è il lavoro più delicato del se
 - **Caso tipico:** In un palazzo anni '30 con stipiti in travertino, la sostituzione degli infissi ha usato controtelai regolabili rispettando gli spessori originari: le nuove vetrocamera hanno triplicato l'isolamento senza alterare la facciata protetta.
 - **Normativa:** Marcatura CE dei serramenti (UNI EN 14351-1) con scheda prestazionale; la posa segue le raccomandazioni dei produttori e le buone prassi di settore (linee guida sulle procedure di installazione); la dichiarazione di conformità finale dell'installatore.
 - **Nota di cantiere:** Misurare sempre a cantiere libero e verificare la diagonale; il fessurale interno va chiuso a tenuta per evitare condense tra telaio e muratura; non montare su intonaci freschi o bagni non asciutti; fotografare ogni fase prima della chiusura con i profili di finitura.
+
+### Requisiti di legge: Legge 10 e DM requisiti minimi per gli infissi
+
+**Categoria:** Prestazioni energetiche · **Corso:** Serramenti, vetrate e porte
+
+La normativa energetica italiana (D.Lgs 192/2005, c.d. Legge 10) impone limiti di trasmittanza per i serramenti. Con il DM 26/6/2015 (requisiti minimi) il valore di riferimento per infissi in nuova costruzione è Uw ≤ 1,4 W/(m²K); la sostituzione in ristrutturazione è quasi sempre obbligo di miglioramento (valore nuovo sensibilmente migliore di quello esistente, secondo la tipologia d'intervento). L'APE (Attestato di Prestazione Energetica) riporta gli infissi con Uw dichiarato.
+
+- **Tecnologia e criteri:** In fase di progetto: verifica Uw secondo l'edizione vigente al titolo abilitativo; in ristrutturazione: documentazione del miglioramento (foto vecchi infissi, valori stimati, DoP nuovi); detrazioni fiscali legate al miglioramento documentato; coordinamento tra Legge 10, APE e pratica edilizia.
+- **Applicazioni:** Nuove costruzioni, ristrutturazioni con detrazioni, pratiche Legge 10 firmate da tecnici abilitati, perizie per vendita immobili.
+- **Vantaggi:** I requisiti hanno spinto il mercato: oggi Uw 1,2-1,3 è standard di serie in PVC e legno-alluminio con low-e e argon; le detrazioni rendono il miglioramento anti-economico da NON fare; un serramento a norma alza la classe energetica dell'immobile nel collocamento di mercato.
+- **Limiti e attenzioni:** La verifica di legge riguarda progetto e APE: un serramento performante installato senza pratica resta irregolare; i valori limite cambiano nel tempo e per tipologia d'intervento: va verificata l'edizione vigente; i vecchi infissi a vetro singolo superano i 4-5 W/(m²K): la sostituzione ripaga in pochi anni.
+- **Costi ed economia:** Ordini di grandezza: salto Uw 2,8 -> 1,2 vale su una casa media 1.000-2.000 kWh/anno di risparmio termico (stima orientativa su clima di pianura); detrazioni fiscali rientrano in percentuali periodiche da verificare all'anno di intervento.
+- **Caso tipico:** Casa anni '70 ristrutturata: serramenti da Uw ~3,0 (alluminio anni '80 con vetro singolo) a Uw 1,1 (legno-alluminio, tripla lastra low-e e argon): risparmio misurato in bimestrale di circa 1.800 kWh/anno su riscaldamento, coerente con la simulazione Legge 10.
+- **Normativa:** D.Lgs 192/2005 (Legge 10, rendimento energetico); DM 26/6/2015 (requisiti minimi degli edifici); UNI/TS 11300 e UNI EN ISO 12631 (metodi di calcolo); D.Lgs 28/2011 (obblighi certificatori energetici).
+- **Nota di cantiere:** Nota per il LLM: citare sempre l'edizione vigente: i valori limite sono cambiati nel tempo (da 1,6 a 1,4 W/(m²K) e oltre) e cambiano per tipologia d'intervento. In dubbio, il tecnico che firma la Legge 10 indica il valore applicabile: il LLM non sostituisce quella verifica.
+
+### Antieffrazione: classi RC e vetri antisfondamento (P1A-P5A)
+
+**Categoria:** Sicurezza · **Corso:** Serramenti, vetrate e porte
+
+La resistenza antieffrazione si classifica secondo UNI EN 1627 in classi RC: RC1-RC2 (ladro occasionale, attrezzi semplici, pochi minuti), RC3 (cacciavite e piede di porco, 5 minuti), RC4 (utensili pesanti, 10 minuti), RC5-RC6 (utensili elettrici, tempo breve). Il vetro è la parte debole: UNI EN 356 classifica i vetri antisfondamento P1A-P5A (dal corpo molle alla scala a pioli e accetta).
+
+- **Tecnologia e criteri:** Composizione RC tipica: telaio rinforzato + ferramenta con punti di chiusura perimetrali multipli + vetro stratificato antisfondamento (P2A-P4A in funzione della classe) + cerniere con perni antifurto + cilindro europeo antistrappo con defender. La classe si dichiara per il SERRAMENTO COMPLETO (telaio+vetro+ferramenta), non per il solo vetro.
+- **Applicazioni:** Porte e finestre al piano terra, villette, botteghe, locali con valori esposti, cantine con accesso esterno.
+- **Vantaggi:** La classe RC3 blocca la stragrande maggioranza dei tentativi reali (il ladro occasionale abbandona entro pochi minuti se non entra); il cilindro europeo con defender elimina la tecnica più diffusa (lo strappo del cilindro); vetri antisfondamento impediscono l'ingresso rapido anche a vetro rotto.
+- **Limiti e attenzioni:** Il costo cresce rapidamente con la classe (RC3 costa il 40-80% in più di RC2 sullo stesso serramento); la classe dichiarata vale solo se ferramenta e vetro sono installati come da certificazione (sostituire il vetro con float annulla la classe); le persiane chiuse aggiungono barriera ma non classe.
+- **Costi ed economia:** Ordini di grandezza indicativi: supplemento classe RC3 vs RC2 +150-400 € per serramento; vetro P4A +100-200 €/m² su stratificato base; cilindro europeo antieffrazione 80-250 €.
+- **Caso tipico:** Negozio svaligiato in 40 secondi con il classico 'calcio sul vetro': il serramento era RC2 ma il vetro, sostituito dopo un uragano con un economico non certificato, aveva azzerato la classe (risparmio di 300 €). Dopo il rifacimento con vetro P4A certificato, il secondo tentativo documentato fallì: il defender mostrava i segni della leva, la porta era intatta.
+- **Normativa:** UNI EN 1627 (classi RC1-RC6); UNI EN 1628, UNI EN 1629, UNI EN 1630 (metodi di prova antieffrazione: statico, dinamico, manuale); UNI EN 356 (vetri antisfondamento P1A-P5A); UNI EN 14449 (vetro stratificato di sicurezza).
+- **Nota di cantiere:** Principio per il LLM: l'antieffrazione è un SISTEMA (telaio+vetro+ferramenta+posa): il punto più debole decide la classe. Qualsiasi sostituzione di vetro o ferramenta fuori certificazione azzera la protezione, anche se 'sembra uguale'. Il consiglio professionale verifica SEMPRE che vetro e ferramenta corrispondano alla certificazione dichiarata.
 
 ### Il vetro di sicurezza: stratificato, temprato e la normativa di scelta
 

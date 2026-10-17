@@ -1,0 +1,1027 @@
+# AUDIT DI SICUREZZA PRE-TAG v1.4 — UniCostraction
+
+Data: 2026-10-02. Metodo: controlli automatizzati incrociati (schede ↔ esami ↔ enciclopedia).
+
+## A. Controllo schede (70 pack)
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 2, scheda «Il DPCM 5 dicembre 1997: i requisiti acustici passivi degli edifici», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 4, scheda «Il rumore di calpestio: massetti galleggianti e pavimenti», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 5, scheda «Il rumore degli impianti: caldaie, VMC, pompe e condizionatori», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 6, scheda «Materiali fonoassorbenti e fonoisolanti: non sono la stessa cosa», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 8, scheda «Il rumore esterno: facciate, serramenti e barriere», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 9, scheda «L'acustica degli ambienti di lavoro: open space, sale riunione, call center», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 10, scheda «La misura in opera: UNI EN ISO 140 e 16283», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 11, scheda «La bonifica acustica dell'esistente: strategie per edifici che non passano», campo categoria
+- **CAMPO VUOTO/CORTO** ACUSTICA_EDILIZIA_PACK riga 12, scheda «La fonometria ambientale: classi acustiche e limiti di zona», campo categoria
+- **CAMPO VUOTO/CORTO** AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK riga 1, scheda «Piste aeroportuali: geometria, pavimentazioni e portanza», campo categoria
+- **CAMPO VUOTO/CORTO** AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK riga 3, scheda «Terminal passeggeri: architetture, flussi e standard di servizio», campo categoria
+- **CAMPO VUOTO/CORTO** AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK riga 6, scheda «Cargo aeroportuale, hub di merci e logistica integrata», campo categoria
+- **CAMPO VUOTO/CORTO** AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK riga 9, scheda «Economia aeroportuale: investimenti, revenue e modelli di gestione», campo categoria
+- **CAMPO VUOTO/CORTO** ARCHITETTURA_PACK riga 1, scheda «Teoria dell'architettura: lo spazio come materia», campo categoria
+- **CAMPO VUOTO/CORTO** ARCHITETTURA_PACK riga 5, scheda «Tipologia edilizia: residenza, ufficio, servizi, industria», campo categoria
+- **CAMPO VUOTO/CORTO** ARCHITETTURA_PACK riga 8, scheda «Architettura del paesaggio e territorio», campo categoria
+- **CAMPO VUOTO/CORTO** ARCHITETTURA_PACK riga 14, scheda «Architettura residenziale: dalla casa alla città che abita», campo categoria
+- **CAMPO VUOTO/CORTO** ARCHITETTURA_PACK riga 15, scheda «Architettura e luce: la progettazione luminousa», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 2, scheda «Il quadro normativo: D.Lgs 152/2006 Parte IV, SIN e bonifiche ordinarie», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 3, scheda «Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 4, scheda «Il piano di caratterizzazione: campionamenti, matrici e parametri analitici», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 6, scheda «Le opzioni di bonifica: rimozione ex situ, trattamento in situ e contenimento», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 8, scheda «I serbatoi interrati dismessi: localizzazione, svuotamento e rimozione», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 9, scheda «Amianto e bonifica siti: il collegamento con la L. 257/1992», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 10, scheda «La bonifica in funzione del riuso edilizio: barriere, coperture, impermeabilizzazioni e monitoraggi», campo categoria
+- **CAMPO VUOTO/CORTO** BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK riga 12, scheda «Costi e tempi della bonifica: ordini di grandezza per il preventivo edilizio e il rischio commessa», campo categoria
+- **CAMPO VUOTO/CORTO** CAD_BIM_PROGETTAZIONE_PACK riga 4, scheda «ISO 19650: gestione informativa dell'edificio», campo categoria
+- **CAMPO VUOTO/CORTO** CAPOLAVORI_E_STORIA_OPERE_PACK riga 3, scheda «Il Colosseo (Anfiteatro Flavio, 80 d.C.)», campo normative
+- **CAMPO VUOTO/CORTO** CAPOLAVORI_E_STORIA_OPERE_PACK riga 5, scheda «Le piramidi di Giza: il cantiere organizzato più antico», campo normative
+- **CAMPO VUOTO/CORTO** CAPPOTTO_ETICS_PACK riga 3, scheda «La posa del cappotto: superficie, colla, tasselli, rete, rasante», campo categoria
+- **CAMPO VUOTO/CORTO** CAPPOTTO_ETICS_PACK riga 4, scheda «I dettagli che fanno fallire il cappotto: zoccolo, davanzali, cappelli, giunzioni», campo categoria
+- **CAMPO VUOTO/CORTO** CAPPOTTO_ETICS_PACK riga 8, scheda «Patologie del cappotto: crepe, alghe, distacchi, riparazioni», campo categoria
+- **CAMPO VUOTO/CORTO** CAPPOTTO_ETICS_PACK riga 9, scheda «Cantieri di cappotto: organizzazione, ponteggi, tempi, sicurezza», campo categoria
+- **CAMPO VUOTO/CORTO** CAPPOTTO_ETICS_PACK riga 10, scheda «Costi e benefici del cappotto: il conto professionale», campo categoria
+- **CAMPO VUOTO/CORTO** CARPENTERIA_METALLICA_E_ACCIAIO_PACK riga 1, scheda «Acciai strutturali: gradi, laminati e zincati», campo categoria
+- **CAMPO VUOTO/CORTO** CARPENTERIA_METALLICA_E_ACCIAIO_PACK riga 2, scheda «Profili laminati e profili cavi», campo categoria
+- **CAMPO VUOTO/CORTO** CARPENTERIA_METALLICA_E_ACCIAIO_PACK riga 4, scheda «Saldature strutturali: processi, qualifica e difetti», campo categoria
+- **CAMPO VUOTO/CORTO** CARPENTERIA_METALLICA_E_ACCIAIO_PACK riga 10, scheda «Montaggio della carpenteria in cantiere», campo categoria
+- **CAMPO VUOTO/CORTO** CONTABILITA_APPALTI_PACK riga 6, scheda «Le varianti in corso d'opera: quando, come, entro quanto», campo categoria
+- **CAMPO VUOTO/CORTO** CONTABILITA_APPALTI_PACK riga 7, scheda «Le riserve e le perizie: la memoria tecnica del cantiere», campo categoria
+- **CAMPO VUOTO/CORTO** CONTABILITA_APPALTI_PACK riga 8, scheda «Il collaudo tecnico: fasi, soggetti e verbali», campo categoria
+- **CAMPO VUOTO/CORTO** CONTABILITA_APPALTI_PACK riga 10, scheda «La sicurezza negli appalti: i ruoli secondo D.Lgs 81/2008», campo categoria
+- **CAMPO VUOTO/CORTO** CONTABILITA_APPALTI_PACK riga 11, scheda «I prezzi unitari e le analisi: come nasce un prezzo di costruzione», campo categoria
+- **CAMPO VUOTO/CORTO** CONTABILITA_APPALTI_PACK riga 12, scheda «La chiusura di commessa: saldo, certificato di regolare esecuzione, garanzie», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 2, scheda «L'X-Lam (CLT): il legno che fa da muro e da solaio», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 3, scheda «Il telaio in legno: travi, pilastri e la costruzione tradizionale», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 5, scheda «Il legno e il fuoco: la protezione che funziona», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 6, scheda «Il legno e l'umidità: protezione dalla pioggia e dalla condensa», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 7, scheda «Il legno in sisma: la leggerezza che protegge», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 9, scheda «L'economia del legno: costi, tempi, mercato», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUIRE_IN_LEGNO_PACK riga 11, scheda «L'acustica degli edifici in legno: il comfort silenzioso si progetta», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUZIONI_SPECIALI_PACK riga 4, scheda «Serbatoi e opere di contenimento», campo categoria
+- **CAMPO VUOTO/CORTO** COSTRUZIONI_SPECIALI_PACK riga 10, scheda «Le cupole: la geometria che copre senza pilastri», campo categoria
+- **CAMPO VUOTO/CORTO** DATA_CENTER_E_CRITICAL_FACILITIES_PACK riga 4, scheda «Le reti e il cablaggio strutturato: le autostrade dei dati», campo categoria
+- **CAMPO VUOTO/CORTO** DATA_CENTER_E_CRITICAL_FACILITIES_PACK riga 6, scheda «L'edilizia del data center: struttura, pavimenti rialzati, altezze», campo categoria
+- **CAMPO VUOTO/CORTO** DATA_CENTER_E_CRITICAL_FACILITIES_PACK riga 12, scheda «Il cablaggio strutturato e la sala di rete: dorsali, ottica e gestione cavi», campo categoria
+- **CAMPO VUOTO/CORTO** DESIGN_GUSTO_TENDENZE_PACK riga 4, scheda «La cultura del colore: psicologia, luce, temperatura», campo categoria
+- **CAMPO VUOTO/CORTO** DESIGN_GUSTO_TENDENZE_PACK riga 5, scheda «La luce come materia di progetto: naturale e artificiale», campo categoria
+- **CAMPO VUOTO/CORTO** DESIGN_GUSTO_TENDENZE_PACK riga 8, scheda «La moodboard professionale: come si documenta un progetto», campo categoria
+- **CAMPO VUOTO/CORTO** DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK riga 5, scheda «Sicurezza delle dighe: classificazione, sorveglianza e piano di emergenza», campo categoria
+- **CAMPO VUOTO/CORTO** DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK riga 7, scheda «Arginature fluviali e di bonifica: la difesa delle pianure», campo categoria
+- **CAMPO VUOTO/CORTO** DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK riga 8, scheda «Vasche di laminazione e bacini di espansione», campo categoria
+- **CAMPO VUOTO/CORTO** DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK riga 9, scheda «Opere di stabilizzazione dei versanti: dreni, palificazioni e consolidamenti», campo categoria
+- **CAMPO VUOTO/CORTO** DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK riga 11, scheda «Fognature e depurazione: collettori, vasche e scarichi», campo categoria
+- **CAMPO VUOTO/CORTO** DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK riga 12, scheda «Economia e programmazione delle grandi opere idrauliche», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK riga 4, scheda «Il dimensionamento dell'accumulo in batteria: autoconsumo e backup», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK riga 5, scheda «Il dimensionamento dell'eolico: la curva di potenza e la realtà dei siti», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK riga 6, scheda «I sistemi ibridi FV + batteria + rete + generatore: il dimensionamento integrato», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK riga 7, scheda «Il dimensionamento off-grid: l'autonomia totale senza rete», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_TERMOTECNICO_PACK riga 4, scheda «Il dimensionamento del pavimento/soffitto radiante», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_TERMOTECNICO_PACK riga 5, scheda «Il dimensionamento dell'acqua calda sanitaria: accumuli, portate, ricircolo», campo categoria
+- **CAMPO VUOTO/CORTO** DIMENSIONAMENTO_TERMOTECNICO_PACK riga 16, scheda «La relazione tecnica ex art. 8 D.Lgs 192/2005: il documento unico», campo categoria
+- **STRINGA STALE** DIMENSIONAMENTO_TERMOTECNICO_PACK, «La relazione tecnica ex art. 8 D.Lgs 192/2005: il documento unico»: contiene «D.Lgs 102/2014»
+- **CAMPO VUOTO/CORTO** DISEGNO_TECNICO_MANUALE_PACK riga 4, scheda «La quotatura: regole, catene di quote, riferimenti», campo categoria
+- **CAMPO VUOTO/CORTO** DISEGNO_TECNICO_MANUALE_PACK riga 6, scheda «Il cartiglio: identificazione della tavola», campo categoria
+- **CAMPO VUOTO/CORTO** DISEGNO_TECNICO_MANUALE_PACK riga 13, scheda «Il disegno CAD 2D: layer, blocchi, coordinate», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 4, scheda «BACnet», campo nome
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 5, scheda «Modbus», campo nome
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 7, scheda «Zigbee», campo nome
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 7, scheda «Zigbee», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 8, scheda «Z-Wave», campo nome
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 8, scheda «Z-Wave», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 9, scheda «Matter e Thread», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 10, scheda «Wi-Fi domotico», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 11, scheda «Bluetooth Mesh (illuminazione)», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 12, scheda «Gateway e integrazione multprotocollo», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 13, scheda «Sensoristica domotica», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 14, scheda «Attuatori domotici», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 17, scheda «Scenari, logiche e sequenze», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 19, scheda «Antintrusione integrata», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 21, scheda «Controllo accessi», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 22, scheda «Gestione energetica e load control», campo categoria
+- **CAMPO VUOTO/CORTO** DOMOTICA_PACK riga 26, scheda «Domotica assistiva e senior living», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 1, scheda «Stalle da latte: requisiti strutturali e di benessere», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 2, scheda «Stalle da carne e ricoveri per bovini all'aperto», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 4, scheda «Serre per orticoltura e florovivaismo: strutture e climatizzazione», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 6, scheda «Cantine e stabilimenti vinicoli: edilizia e processo», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 8, scheda «Edilizia rurale e vincoli: costruire nel paesaggio agricolo», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 9, scheda «Corrosione e materiali negli ambienti zootecnici», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_AGRICOLA_ZOOTECNICA_PACK riga 11, scheda «Sicurezza nei cantieri agricoli e zootecnici», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_INDUSTRIALE_LOGISTICA_PACK riga 1, scheda «I capannoni industriali: la scatola che lavora», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_INDUSTRIALE_LOGISTICA_PACK riga 5, scheda «I portoni industriali: sezionali, rapidi, scorrevoli», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_INDUSTRIALE_LOGISTICA_PACK riga 9, scheda «I pannelli coibentati e l'involucro industriale: tenuta, ponti termici e durabilità», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_INDUSTRIALE_LOGISTICA_PACK riga 11, scheda «Gli spazi ufficio nel capannone: mezzanini, partizioni e acustica», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_INDUSTRIALE_LOGISTICA_PACK riga 12, scheda «Le aree esterne dello stabilimento: viabilità interna, banchine e pavimentazioni», campo categoria
+- **CAMPO VUOTO/CORTO** EDILIZIA_SCOLASTICA_TECNICO_PACK riga 8, scheda «La sicurezza antincendio nelle scuole», campo categoria
+- **CAMPO VUOTO/CORTO** EMERGENZE_E_RICOSTRUZIONE_PACK riga 8, scheda «La filiera della ricostruzione: cantieri diffusi, personale e logistica», campo categoria
+- **CAMPO VUOTO/CORTO** EMERGENZE_E_RICOSTRUZIONE_PACK riga 9, scheda «La ricostruzione come rilancio: rigenerazione urbana, sociale ed economica», campo categoria
+- **CAMPO VUOTO/CORTO** EMERGENZE_E_RICOSTRUZIONE_PACK riga 10, scheda «Emergenze idrauliche e alluvioni: risposta, ricostruzione e adattamento», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 1, scheda «Il Conto Termico 3.0: la misura e i numeri (verificati ottobre 2026)», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 2, scheda «Conto Termico 3.0: interventi ammessi e percentuali», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 3, scheda «Conto Termico 3.0: accesso diretto, prenotazione, pratica», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 4, scheda «CER e autoconsumo collettivo: l'energia condivisa», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 6, scheda «Le detrazioni fiscali per l'edilizia: il sistema e i suoi limiti», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 7, scheda «Iperammortamento 2026-2028 e fine del ciclo Transizione 5.0», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 8, scheda «Scegliere l'incentivo giusto: fondo perduto, detrazione, credito», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 9, scheda «Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2024», campo categoria
+- **STRINGA STALE** ENERGETICA_INCENTIVI_PACK, «Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2024»: contiene «D.Lgs 102/2014»
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 10, scheda «I certificati bianchi (TEE): l'efficienza come titolo», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 11, scheda «CAM e sostenibilità: i criteri ambientali minimi negli appalti», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 12, scheda «Direttiva Case Green (EPBD IV): cosa cambia per l'edilizia», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 13, scheda «Le ESCo e il contratto di servizio energetico», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 16, scheda «Conto Termico 3.0: gli errori che fanno rigettare o sospendere la pratica», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 17, scheda «Conto Termico 3.0: massimali, costi ammissibili e calcolo dell'incentivo», campo categoria
+- **CAMPO VUOTO/CORTO** ENERGETICA_INCENTIVI_PACK riga 18, scheda «Conto Termico 3.0: multi-intervento, cumuli e maggiorazioni», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 1, scheda «L'equilibrio: ΣF=0, ΣM=0 e le reazioni vincolari», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 2, scheda «Le travi fondamentali: momenti e tagli delle 4 travi base», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 3, scheda «Le proprietà delle sezioni: area, inerzia, modulo resistente», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 4, scheda «Sforzo normale, taglio, momento flettente: la trinità del calcolo», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 8, scheda «L'acciaio strutturale in formule: travi e colonne», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 8, scheda «L'acciaio strutturale in formule: travi e colonne», campo normative
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 9, scheda «Il legno strutturale in formule: flessione e taglio», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 9, scheda «Il legno strutturale in formule: flessione e taglio», campo normative
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 10, scheda «La muratura strutturale in formule: verifica semplificata dei setti», campo categoria
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 13, scheda «Le fondazioni in formule: platea, pali, micropali», campo normative
+- **CAMPO VUOTO/CORTO** FORMULARIO_STRUTTURE_PACK riga 14, scheda «La fatica strutturale: quando le ripetizioni rompono», campo categoria
+- **CAMPO VUOTO/CORTO** FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK riga 4, scheda «I moduli di nuova generazione: TOPCon, HJT, PERC, bifacciali e degradazione», campo categoria
+- **CAMPO VUOTO/CORTO** FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK riga 11, scheda «Le CER: comunità energetiche e autoconsumo collettivo», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 3, scheda «Gli strumenti del topografo: stazioni totali, GNSS, livelli», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 4, scheda «Il rilievo topografico: da terreno a disegno», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 5, scheda «GNSS e GPS: posizionamento satellitare per l'edilizia», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 7, scheda «Il catasto italiano: fogli, particelle, subalterni», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 8, scheda «Docfa e il procedimento di accatastamento», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 12, scheda «CTU e CTP: l'esperto nel processo civile», campo categoria
+- **CAMPO VUOTO/CORTO** GEOMETRA_TOPOGRAFIA_ESTIMO_PACK riga 13, scheda «Divisioni e frazionamenti: la geometria applicata al diritto», campo categoria
+- **CAMPO VUOTO/CORTO** GEOTECNICA_E_FONDAZIONI_PACK riga 3, scheda «La classificazione dei terreni: UNI EN ISO 14688», campo categoria
+- **CAMPO VUOTO/CORTO** GEOTECNICA_E_FONDAZIONI_PACK riga 4, scheda «La tensione efficace di Terzaghi: l'acqua che 'porta' l'edificio», campo categoria
+- **CAMPO VUOTO/CORTO** GEOTECNICA_E_FONDAZIONI_PACK riga 5, scheda «La consolidazione dei terreni saturi: Terzaghi e il tempo dei cedimenti», campo categoria
+- **CAMPO VUOTO/CORTO** GEOTECNICA_E_FONDAZIONI_PACK riga 13, scheda «I terreni difficili: espansivi, organici, licuefacenti», campo categoria
+- **STRINGA STALE** GESTIONE_CONDOMINIO_PACK, «Il condominio nel codice civile: parti comuni, assemblea e regolamenti»: contiene «PRIERA»
+- **STRINGA STALE** GESTIONE_CONDOMINIO_PACK, «Piano manutentivo condominiale e ammodernamento energetico»: contiene «D.Lgs 102/2014»
+- **CAMPO VUOTO/CORTO** HOTEL_E_HOSPITALITY_TECNICO_PACK riga 2, scheda «Le camere alberghiere: il prodotto che si vende», campo categoria
+- **CAMPO VUOTO/CORTO** HOTEL_E_HOSPITALITY_TECNICO_PACK riga 3, scheda «Le cucine professionali: il cuore caldo dell'albergo», campo categoria
+- **STRINGA STALE** HOTEL_E_HOSPITALITY_TECNICO_PACK, «L'efficienza energetica alberghiera: il costo nascosto numero uno»: contiene «D.Lgs 102/2014»
+- **CAMPO VUOTO/CORTO** HOTEL_E_HOSPITALITY_TECNICO_PACK riga 7, scheda «Le SPA alberghiere: il benessere come motore di fatturato», campo categoria
+- **CAMPO VUOTO/CORTO** HOTEL_E_HOSPITALITY_TECNICO_PACK riga 8, scheda «L'acustica delle camere d'albergo: il silenzio è il primo servizio», campo categoria
+- **CAMPO VUOTO/CORTO** HOTEL_E_HOSPITALITY_TECNICO_PACK riga 9, scheda «L'impiantistica alberghiera: produzione centralizzata di ACS e gestione dei picchi», campo categoria
+- **CAMPO VUOTO/CORTO** HOTEL_E_HOSPITALITY_TECNICO_PACK riga 10, scheda «La lavanderia e la cucina tecnica: i reparti silenziosi che fanno l'hotel», campo categoria
+- **CAMPO VUOTO/CORTO** ILLUMINAZIONE_TECNICA_PACK riga 3, scheda «Le sorgenti LED: chip, driver, binning e schemi ottici», campo categoria
+- **CAMPO VUOTO/CORTO** ILLUMINAZIONE_TECNICA_PACK riga 4, scheda «L'impianto elettrico della luce: quadri, linee e sicurezza», campo categoria
+- **CAMPO VUOTO/CORTO** ILLUMINAZIONE_TECNICA_PACK riga 5, scheda «Illuminazione esterna: stradale, aree verdi e tutto il cielo», campo categoria
+- **CAMPO VUOTO/CORTO** ILLUMINAZIONE_TECNICA_PACK riga 6, scheda «L'illuminazione di emergenza: norma UNI EN 1838 e adempimenti», campo categoria
+- **CAMPO VUOTO/CORTO** ILLUMINAZIONE_TECNICA_PACK riga 8, scheda «Il calcolo illuminotecnico: metodo del flusso totale e software», campo categoria
+- **CAMPO VUOTO/CORTO** ILLUMINAZIONE_TECNICA_PACK riga 11, scheda «Verifica in opera: luxmetro, accettazione e documentazione», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 1, scheda «Adduzione acqua potabile», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 2, scheda «Scarichi acque nere e grigie», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 3, scheda «Scarichi pluviali», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 6, scheda «Adduzione gas metano e GPL», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 7, scheda «Protezione contro rischio di contaminazione (sistemi a tenuta di rifiuto)», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 8, scheda «Addolcimento e trattamento acque», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 9, scheda «Cabina di trasformazione MT/BT», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 10, scheda «Quadro generale di bassa tensione», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 11, scheda «Impianto di terra (SG)», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 12, scheda «Protezione da sovratensioni (SPD)», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 13, scheda «Cavidotti e canaline», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 14, scheda «Impianto TV, satellitare e broadcast», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 15, scheda «Rete dati LAN strutturata», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 16, scheda «Caldaia a condensazione», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 17, scheda «Pompa di calore aria-acqua», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 18, scheda «Pannelli radianti a pavimento/parete/soffitto», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 19, scheda «VMC: ventilazione meccanica controllata», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 20, scheda «Climatizzazione VRF/VRV multisplit», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 21, scheda «Ventilazione ambienti di lavoro e capannoni», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 22, scheda «Pompe di calore ibrido (integrazione)», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 26, scheda «Fotovoltaico: stringhe, inverter e connessione», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 27, scheda «Accumulo batterie domestico», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 28, scheda «Colonnine di ricarica veicoli elettrici», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_COMPLETA_PACK riga 32, scheda «Conto Termico 3.0, CEE e detrazioni per impianti», campo categoria
+- **CAMPO VUOTO/CORTO** IMPIANTI_SPORTIVI_EDILIZIA_PACK riga 12, scheda «Economia degli impianti sportivi: costruzione, gestione, affitto e sponsor», campo categoria
+- **CAMPO VUOTO/CORTO** INFRASTRUTTURE_VIARIE_PACK riga 1, scheda «Le strade: classificazione e geometria», campo categoria
+- **CAMPO VUOTO/CORTO** INFRASTRUTTURE_VIARIE_PACK riga 3, scheda «L'ingegneria del traffico: segnaletica e sicurezza stradale», campo categoria
+- **CAMPO VUOTO/CORTO** INFRASTRUTTURE_VIARIE_PACK riga 6, scheda «I parcheggi: progettare l'auto senza rovinare il quartiere», campo categoria
+- **CAMPO VUOTO/CORTO** INFRASTRUTTURE_VIARIE_PACK riga 9, scheda «Il drenaggio stradale: l'acqua nemica numero uno», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 3, scheda «Idraulica di base per le costruzioni: portate, canali, condotte», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 5, scheda «Progetto stradale: tracciamento e pavimentazione», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 6, scheda «Ferrovie e linee ad alta velocità», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 7, scheda «Progetto aeroportuale: piste, piazzali, terminal», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 8, scheda «Opere marittime: porti, dighe foranee, coste», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 9, scheda «Progetto di gallerie: sottovia di montagna e metropolitane», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 11, scheda «Movimento franoso: prevenzione e mitigazione», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 13, scheda «Ponti: tipologie e scelta della struttura», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_CIVILE_PACK riga 16, scheda «Sicurezza nelle grandi opere e nei cantieri sotterranei», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_STRUTTURALE_PACK riga 1, scheda «Le azioni sulle struttura: carichi permanenti, variabili, eccezionali», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_STRUTTURALE_PACK riga 8, scheda «Dinamica strutturale e ingegneria sismica», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_STRUTTURALE_PACK riga 15, scheda «Strutture alte: torri, antenne, grattacieli», campo categoria
+- **CAMPO VUOTO/CORTO** INGEGNERIA_STRUTTURALE_PACK riga 16, scheda «Collaudi e prove di carico sulle strutture», campo categoria
+- **CAMPO VUOTO/CORTO** INTERIOR_PROGETTAZIONE_TECNICA_PACK riga 2, scheda «Ergonomia degli ambienti domestici: le misure che contano», campo categoria
+- **CAMPO VUOTO/CORTO** INTERIOR_PROGETTAZIONE_TECNICA_PACK riga 3, scheda «La progettazione tecnica della cucina», campo categoria
+- **CAMPO VUOTO/CORTO** INTERIOR_PROGETTAZIONE_TECNICA_PACK riga 4, scheda «La progettazione tecnica del bagno», campo categoria
+- **CAMPO VUOTO/CORTO** LEGISLAZIONE_PRIVATA_EDILIZIA_PACK riga 2, scheda «La locazione abitativa: legge 431/1998, canone concordato», campo categoria
+- **CAMPO VUOTO/CORTO** LEGISLAZIONE_PRIVATA_EDILIZIA_PACK riga 5, scheda «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni», campo categoria
+- **CAMPO VUOTO/CORTO** LEGISLAZIONE_PRIVATA_EDILIZIA_PACK riga 9, scheda «Il notaio in edilizia: rogiti, ipoteche, trascrizioni», campo categoria
+- **CAMPO VUOTO/CORTO** MACCHINE_TERMICHE_TECNOLOGIA_PACK riga 1, scheda «La caldaia murale a gas: anatomia completa delle componenti», campo categoria
+- **CAMPO VUOTO/CORTO** MACCHINE_TERMICHE_TECNOLOGIA_PACK riga 2, scheda «La caldaia a condensazione: il circuito della condensa», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_DESIGN_PACK riga 12, scheda «La falegnameria su misura: boiserie, librerie, arredi custom», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_DESIGN_PACK riga 14, scheda «Tendenze e stili: come si riconoscono e come si usano», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_DESIGN_PACK riga 15, scheda «Ergonomia e antropometria: misure che salvano i progetti», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_IMPRESA_EDILE_PACK riga 1, scheda «L'impresa edile: forme giuridiche e scelta consapevole», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_IMPRESA_EDILE_PACK riga 7, scheda «Finanza agevolata e incentivi per l'impresa edile», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_IMPRESA_EDILE_PACK riga 8, scheda «Il personale: CCNL, artigiani, appalti interni e crescita delle competenze», campo categoria
+- **CAMPO VUOTO/CORTO** MASTER_IMPRESA_EDILE_PACK riga 11, scheda «Gestione del rischio: contrattuale, assicurativo, finanziario», campo categoria
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 3, scheda «Algebra di base: equazioni, proporzioni, percentuali», campo categoria
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 5, scheda «Geometria solida: volumi dei corpi della costruzione», campo normative
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 6, scheda «Trigonometria applicata: pendenza, altezze, triangoli qualsiasi», campo normative
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 7, scheda «Vettori, coordinate e sistema cartesiano in cantiere», campo normative
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 8, scheda «Matrici e sistemi di equazioni: il cuore del calcolo strutturale», campo categoria
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 9, scheda «Funzioni e lettura dei grafici tecnici», campo normative
+- **CAMPO VUOTO/CORTO** MATEMATICA_PER_COSTRUIRE_PACK riga 13, scheda «Il calcolo mentale e le stime rapide: l'arma segreta del professionista», campo normative
+- **CAMPO VUOTO/CORTO** MATERIALI_COMPONENTI_IMPIANTISTICA_PACK riga 2, scheda «I tubi per il gas: acciaio, rame, multistrato marcato», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_COMPONENTI_IMPIANTISTICA_PACK riga 4, scheda «I raccordi: pressare, saldare, a innesto, filettare», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_COMPONENTI_IMPIANTISTICA_PACK riga 5, scheda «Le valvole dell'impianto idraulico: sfera, detentore, termostatica, miscelatrice», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_COMPONENTI_IMPIANTISTICA_PACK riga 9, scheda «I componenti elettrici dell'impiantista: quadri, magnetotermici, differenziali», campo normative
+- **CAMPO VUOTO/CORTO** MATERIALI_DEL_FUTURO_PACK riga 2, scheda «I materiali bio-based: canapa, bambù, fibre naturali», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_DEL_FUTURO_PACK riga 3, scheda «La stampa 3D in edilizia: cosa può e cosa non può», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_DEL_FUTURO_PACK riga 7, scheda «I materiali a cambio di fase (PCM): il calore nel cassetto», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_DEL_FUTURO_PACK riga 10, scheda «I compositi fibrorinforzati strutturali: ponti, travi e rinforzi in FRP», campo categoria
+- **CAMPO VUOTO/CORTO** MATERIALI_DEL_FUTURO_PACK riga 13, scheda «Il bambù strutturale certificato: il materiale che cresce in 5 anni», campo categoria
+- **CAMPO VUOTO/CORTO** METODI_COSTRUTTIVI_AVANZATI_PACK riga 6, scheda «Microtunneling e perforazioni guidate (tecnologie no-dig)», campo categoria
+- **CAMPO VUOTO/CORTO** MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK riga 3, scheda «Autogru e camion-gru: diagrammi di carico, slancio e contrappesi», campo categoria
+- **CAMPO VUOTO/CORTO** MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK riga 4, scheda «Piattaforme di lavoro elevabili (PLE): tipi, stabilizzatori e uso corretto», campo categoria
+- **CAMPO VUOTO/CORTO** MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK riga 8, scheda «Carriponte, portali e sistemi di movimentazione industriale», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 1, scheda «I laterizi forati: classi di resistenza, foratura e scelta per setti e tamponamenti», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 2, scheda «I blocchi in cls alleggerito e in AAC (gasbeton): densità, isolamento e posa a colla», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 3, scheda «La malta da muratura: classi di resistenza, dosi e malte premiscelate», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 4, scheda «I setti in cls armato e le tamponature leggere», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 5, scheda «L'intonaco tradizionale sabbia e calce-cemento: struttura, spessori e fasi», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 6, scheda «Gli intonaci premiscelati e deumidificanti: quando servono davvero», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 7, scheda «L'intonaco a calce e le finiture a calce (marmorino, spatolato): pregio e manutenzione», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 10, scheda «Le patologie delle murature: fessurazione, eflorescenze, degrado da umidità, rilevamento e cause», campo categoria
+- **CAMPO VUOTO/CORTO** MURATURE_INTONACI_E_FINITURE_PACK riga 11, scheda «Le murature perimetrali a telaio: sistema d'involucro e ponti termici», campo categoria
+- **CAMPO VUOTO/CORTO** OSPEDALI_E_HEALTHCARE_PACK riga 2, scheda «I flussi ospedalieri: puliti, sporchi, pubblici e sanitari», campo categoria
+- **CAMPO VUOTO/CORTO** OSPEDALI_E_HEALTHCARE_PACK riga 5, scheda «La degenza: la camera come ambiente di cura», campo categoria
+- **CAMPO VUOTO/CORTO** OSPEDALI_E_HEALTHCARE_PACK riga 6, scheda «L'imaging diagnostico: Tac, Risonanza, i locali blindati», campo categoria
+- **CAMPO VUOTO/CORTO** OSPEDALI_E_HEALTHCARE_PACK riga 9, scheda «I gas medicinali: ossigeno, aria medicale, aspirazione», campo categoria
+- **CAMPO VUOTO/CORTO** OSPEDALI_E_HEALTHCARE_PACK riga 10, scheda «L'impianto elettrico ospedaliero: i gruppi di sicurezza e le utenze vitali», campo categoria
+- **CAMPO VUOTO/CORTO** PERIZIE_STIME_ASSICURAZIONI_PACK riga 1, scheda «La perizia immobiliare: metodi di stima», campo categoria
+- **CAMPO VUOTO/CORTO** PERIZIE_STIME_ASSICURAZIONI_PACK riga 3, scheda «CTU e CTP nel processo civile», campo categoria
+- **CAMPO VUOTO/CORTO** PERIZIE_STIME_ASSICURAZIONI_PACK riga 8, scheda «Perizie catastali: ricostruzione della storia formale e sanatoria», campo categoria
+- **CAMPO VUOTO/CORTO** PERIZIE_STIME_ASSICURAZIONI_PACK riga 9, scheda «Perizia assicurativa e liquidazione dei sinistri edilizi», campo categoria
+- **CAMPO VUOTO/CORTO** PERIZIE_STIME_ASSICURAZIONI_PACK riga 10, scheda «Audit tecnico di edifici in esercizio e pre-acquisto», campo categoria
+- **STRINGA STALE** PERIZIE_STIME_ASSICURAZIONI_PACK, «Audit tecnico di edifici in esercizio e pre-acquisto»: contiene «D.Lgs 102/2014»
+- **CAMPO VUOTO/CORTO** PIETRE_NATURALI_E_LAPIDEI_PACK riga 11, scheda «Il prezzo della pietra: come si forma e differenze di mercato», campo categoria
+- **CAMPO VUOTO/CORTO** PISCINE_E_WELLNESS_PACK riga 1, scheda «La vasca da costruzione: struttura, tenuta, forma», campo categoria
+- **CAMPO VUOTO/CORTO** PISCINE_E_WELLNESS_PACK riga 6, scheda «Le coperture della piscina: proteggere e risparmiare», campo categoria
+- **CAMPO VUOTO/CORTO** PISCINE_E_WELLNESS_PACK riga 8, scheda «Le tipologie di piscina: skimmer, a sfioro, interrate e sopraelevate», campo categoria
+- **CAMPO VUOTO/CORTO** PISCINE_E_WELLNESS_PACK riga 11, scheda «Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax», campo categoria
+- **CAMPO VUOTO/CORTO** PISCINE_E_WELLNESS_PACK riga 12, scheda «La sicurezza in piscina: annegamento, scivoli e accessibilità», campo categoria
+- **CAMPO VUOTO/CORTO** PORTI_E_OPERE_MARITTIME_PACK riga 5, scheda «Dragaggi portuali e gestione dei sedimenti marini», campo categoria
+- **CAMPO VUOTO/CORTO** PORTI_E_OPERE_MARITTIME_PACK riga 6, scheda «Concessioni demaniali marittime e pratiche per le opere in mare», campo categoria
+- **CAMPO VUOTO/CORTO** PORTI_E_OPERE_MARITTIME_PACK riga 8, scheda «Economia portuale e logistica marittima: investimenti e catene del valore», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 4, scheda «Posa di muratura portante e di tamponamento in laterizio», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 5, scheda «Posa di blocchi in calcestruzzo aerato autoclavato (AAC/gasbeton)», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 6, scheda «Posa del solaio in laterocemento», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 12, scheda «Intonaco civile tradizionale e premiscelato», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 17, scheda «Posa dell'impianto idrico-sanitario e collaudo in pressione», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 18, scheda «Posa dell'impianto elettrico e verifiche strumentali», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 19, scheda «Posa del pacchetto di copertura ventilata a falda», campo categoria
+- **CAMPO VUOTO/CORTO** POSA_IN_OPERA_PACK riga 20, scheda «Ancoraggi meccanici e chimici nel calcestruzzo e nella muratura», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 3, scheda «Pannelli di tamponamento e pareti sandwich prefabbricate», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 4, scheda «Moduli completi e building system industrializzati (volumi a modulo)», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 5, scheda «Unioni e giunti tra elementi prefabbricati», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 6, scheda «Trasporti e sollevamento dei prefabbricati», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 8, scheda «Facciate continue e sistemi di rivestimento prefabbricati», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 10, scheda «Qualità, collaudo e marcatura CE dei prefabbricati», campo categoria
+- **CAMPO VUOTO/CORTO** PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK riga 11, scheda «Economia dell'industrializzazione: quando conviene il prefabbricato», campo categoria
+- **CAMPO VUOTO/CORTO** REAL_ESTATE_PACK riga 1, scheda «Il mercato immobiliare: dinamiche, cicli, indicatori», campo categoria
+- **CAMPO VUOTO/CORTO** REAL_ESTATE_PACK riga 4, scheda «L'agenzia immobiliare: ruolo, provvigioni, normativa», campo categoria
+- **CAMPO VUOTO/CORTO** REAL_ESTATE_PACK riga 5, scheda «Il mutuo immobiliare: tassi, spread, surroga», campo categoria
+- **CAMPO VUOTO/CORTO** REAL_ESTATE_PACK riga 7, scheda «Le aste immobiliari: opportunità e procedure», campo categoria
+- **CAMPO VUOTO/CORTO** RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK riga 1, scheda «Mini-idroelettrico: schemi e turbine», campo categoria
+- **CAMPO VUOTO/CORTO** RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK riga 5, scheda «Biogas da digestione anaerobica», campo categoria
+- **CAMPO VUOTO/CORTO** RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK riga 6, scheda «Biometano: upgrading e iniezione in rete», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 1, scheda «La diagnosi dell'edificio esistente: rilievo, umidità, termografia», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 2, scheda «L'umidità di risalita capillare: come sale e come si risana», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 3, scheda «Condensa e muffa negli edifici esistenti: diagnosi e cure», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 5, scheda «La bonifica dell'amianto in edilizia: individuazione, rimozione e smaltimento», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 7, scheda «Il miglioramento sismico dell'esistente: rafforzare localmente o adeguare», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 9, scheda «Risanamento dopo allagamenti e danni idraulici», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 10, scheda «Il cantiere di risanamento e i rifiuti: classificazione, formulari e costi reali», campo categoria
+- **CAMPO VUOTO/CORTO** RISANAMENTO_E_RECUPERO_EDILIZIO_PACK riga 13, scheda «Il risanamento con metodi tradizionali: calce, cocciopesto e sabbia», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 12, scheda «Droni rilievo fotogrammetrico», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 13, scheda «Droni ispezione facciate, ponti e strutture alte», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 14, scheda «Drone LiDAR e rilievo boschi/infrastrutture», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 15, scheda «Droni logistica di cantiere», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 16, scheda «Esoscheletri per operai», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 22, scheda «Computer vision e AI per la sicurezza di cantiere», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 26, scheda «Economia e ROI della robotica edilizia», campo categoria
+- **CAMPO VUOTO/CORTO** ROBOTICA_EDILIZIA_PACK riga 27, scheda «Limiti, barriere e rischi della robotica edilizia», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 1, scheda «I materiali degli infissi: legno, alluminio, PVC, acciaio, misti», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 2, scheda «Il vetro: camera, triplo, basso emissivo, sicurezza», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 3, scheda «La posa in opera: il serramento si gioca nell'installazione», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 4, scheda «Persiane, tapparelle, frangisole: l'ombra come prestazione», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 6, scheda «Le porte: interne, blindate, tagliafuoco, automatiche», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 8, scheda «Il vetro di sicurezza: stratificato, temprato e la normativa di scelta», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 11, scheda «L'acustica dei serramenti: Rw e la scelta per zone rumorose», campo categoria
+- **CAMPO VUOTO/CORTO** SERRAMENTI_E_VETRATE_PACK riga 16, scheda «Antieffrazione: classi RC e vetri antisfondamento (P1A-P5A)», campo categoria
+- **CAMPO VUOTO/CORTO** SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK riga 1, scheda «La prevenzione incendi: quadro normativo e logica», campo categoria
+- **CAMPO VUOTO/CORTO** SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK riga 2, scheda «Le vie di esodo: requisiti geometrici e funzionali», campo categoria
+- **CAMPO VUOTO/CORTO** SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK riga 7, scheda «Ascensori e piattaforme elevatrici: obblighi e scelte», campo categoria
+- **CAMPO VUOTO/CORTO** SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK riga 13, scheda «Le verifiche periodiche antincendio: il calendario che salva l'edificio», campo categoria
+- **CAMPO VUOTO/CORTO** SICUREZZA_CANTIERE_DLSGS81_PACK riga 1, scheda «Il quadro normativo: D.Lgs 81/2008 Titolo IV e gli allegati», campo categoria
+- **CAMPO VUOTO/CORTO** TETTI_E_COPERTURE_PACK riga 1, scheda «La copertura a falda: struttura, manto, ventilazione», campo categoria
+- **CAMPO VUOTO/CORTO** TETTI_E_COPERTURE_PACK riga 2, scheda «I manti di copertura: tegole, lastre metalliche, membrane», campo categoria
+- **CAMPO VUOTO/CORTO** TETTI_E_COPERTURE_PACK riga 3, scheda «L'impermeabilizzazione: guaine, membrane liquide, coperture piane», campo categoria
+- **CAMPO VUOTO/CORTO** TETTI_E_COPERTURE_PACK riga 4, scheda «Gronde e pluviali: l'acqua che si porta via», campo categoria
+- **CAMPO VUOTO/CORTO** TETTI_E_COPERTURE_PACK riga 5, scheda «Camini, finestre da tetto e attraversamenti: i punti deboli», campo categoria
+- **CAMPO VUOTO/CORTO** URBANISTICA_TERRITORIO_PACK riga 1, scheda «Il governo del territorio: principi costituzionali», campo categoria
+- **CAMPO VUOTO/CORTO** URBANISTICA_TERRITORIO_PACK riga 2, scheda «Gli strumenti urbanistici: PSC, Piano operativo, Piano regolatore», campo categoria
+- **CAMPO VUOTO/CORTO** URBANISTICA_TERRITORIO_PACK riga 3, scheda «Gli standards urbanistici e le dotazioni», campo categoria
+- **CAMPO VUOTO/CORTO** URBANISTICA_TERRITORIO_PACK riga 4, scheda «I vincoli: paesaggistico, idrogeologico, archeologico, naturalistico», campo categoria
+- **CAMPO VUOTO/CORTO** URBANISTICA_TERRITORIO_PACK riga 5, scheda «Le procedure edilizie: CILA, SCIA, Permesso di costruire», campo categoria
+- **CAMPO VUOTO/CORTO** VERDE_ARREDO_URBANO_PACK riga 8, scheda «La scelta delle essenze: alberi, arbusti, prati per il clima italiano», campo categoria
+
+Schede totali lette: **951**. Problemi A: **332**.
+
+## B. Verifica chiavi esami (risposta ricostruibile dalla scheda fonte)
+- **ACUSTICA**: 183 problemi
+  - n. 1: risposta NON ricostruibile da «Gli indici di isolamento: Rw, DnT,w e la correzione spettrale»
+  - n. 2: risposta NON ricostruibile da «Le grandezze acustiche: decibel, frequenza, spettro»
+  - n. 3: risposta NON ricostruibile da «Gli indici di isolamento: Rw, DnT,w e la correzione spettrale»
+  - n. 5: risposta NON ricostruibile da «Le grandezze acustiche: decibel, frequenza, spettro»
+  - n. 6: risposta NON ricostruibile da «Gli indici di isolamento: Rw, DnT,w e la correzione spettrale»
+  - n. 7: risposta NON ricostruibile da «Gli indici di isolamento: Rw, DnT,w e la correzione spettrale»
+  - n. 8: risposta NON ricostruibile da «Il DPCM 5 dicembre 1997: i requisiti acustici passivi degli edifici»
+  - n. 9: risposta NON ricostruibile da «Gli indici di isolamento: Rw, DnT,w e la correzione spettrale»
+  - ... e altri 175
+- **AEROPORTI**: 215 problemi
+  - n. 1: risposta NON ricostruibile da «Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea»
+  - n. 2: risposta NON ricostruibile da «Piste aeroportuali: geometria, pavimentazioni e portanza»
+  - n. 3: risposta NON ricostruibile da «Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea»
+  - n. 4: risposta NON ricostruibile da «Terminal passeggeri: architetture, flussi e standard di servizio»
+  - n. 6: risposta NON ricostruibile da «Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea»
+  - n. 7: risposta NON ricostruibile da «Piste aeroportuali: geometria, pavimentazioni e portanza»
+  - n. 8: risposta NON ricostruibile da «Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea»
+  - n. 9: risposta NON ricostruibile da «Segnaletica, balisaggio e sistemi di assistenza alla navigazione aerea»
+  - ... e altri 207
+- **ARCHITETTURA**: 175 problemi
+  - n. 1: risposta NON ricostruibile da «Architettura del paesaggio e territorio»
+  - n. 2: risposta NON ricostruibile da «Tecnologia dell'architettura: l'involucro come sistema»
+  - n. 4: risposta NON ricostruibile da «Architettura del paesaggio e territorio»
+  - n. 5: risposta NON ricostruibile da «Architettura del paesaggio e territorio»
+  - n. 7: risposta NON ricostruibile da «Teoria dell'architettura: lo spazio come materia»
+  - n. 8: risposta NON ricostruibile da «Tecnologia dell'architettura: l'involucro come sistema»
+  - n. 9: risposta NON ricostruibile da «Teoria dell'architettura: lo spazio come materia»
+  - n. 10: risposta NON ricostruibile da «Restauro e conservazione: le teorie e i metodi»
+  - ... e altri 167
+- **ASCENSORI**: 224 problemi
+  - n. 1: risposta NON ricostruibile da «L'ascensore dove non c'era: installazione in edifici esistenti»
+  - n. 3: risposta NON ricostruibile da «L'ascensore dove non c'era: installazione in edifici esistenti»
+  - n. 4: risposta NON ricostruibile da «La manutenzione dell'ascensore: scadenze, obblighi e controllo del servizio»
+  - n. 5: risposta NON ricostruibile da «Come funziona un ascensore: cabina, contrappeso, macchina e apparecchiature»
+  - n. 6: risposta NON ricostruibile da «La modernizzazione: rinnovare l'ascensore vecchio senza buttare il pozzo»
+  - n. 8: risposta NON ricostruibile da «Scegliere e dimensionare l'ascensore: portata, velocità, servizio atteso»
+  - n. 9: risposta NON ricostruibile da «Come funziona un ascensore: cabina, contrappeso, macchina e apparecchiature»
+  - n. 11: risposta NON ricostruibile da «La manutenzione dell'ascensore: scadenze, obblighi e controllo del servizio»
+  - ... e altri 216
+- **BONIFICA_SITI**: 179 problemi
+  - n. 1: risposta NON ricostruibile da «Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste»
+  - n. 2: risposta NON ricostruibile da «Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste»
+  - n. 3: risposta NON ricostruibile da «Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste»
+  - n. 4: risposta NON ricostruibile da «Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste»
+  - n. 5: risposta NON ricostruibile da «Il piano di caratterizzazione: campionamenti, matrici e parametri analitici»
+  - n. 6: risposta NON ricostruibile da «Il piano di caratterizzazione: campionamenti, matrici e parametri analitici»
+  - n. 7: risposta NON ricostruibile da «Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste»
+  - n. 8: risposta NON ricostruibile da «I siti contaminati e l'edilizia: quando la bonifica è la fase zero del progetto»
+  - ... e altri 171
+- **CAD_BIM**: 134 problemi
+  - n. 1: risposta NON ricostruibile da «Gli authoring BIM: Revit, Archicad, Allplan, Edificius»
+  - n. 2: risposta NON ricostruibile da «Le discipline del modello: architettonica, strutturale, MEP»
+  - n. 3: risposta NON ricostruibile da «IFC: il formato aperto per lo scambio dei modelli»
+  - n. 4: risposta NON ricostruibile da «IFC: il formato aperto per lo scambio dei modelli»
+  - n. 5: risposta NON ricostruibile da «ISO 19650: gestione informativa dell'edificio»
+  - n. 6: risposta NON ricostruibile da «ISO 19650: gestione informativa dell'edificio»
+  - n. 7: risposta NON ricostruibile da «IFC: il formato aperto per lo scambio dei modelli»
+  - n. 11: risposta NON ricostruibile da «ISO 19650: gestione informativa dell'edificio»
+  - ... e altri 126
+- **CAPOLAVORI**: 272 problemi
+  - n. 1: risposta NON ricostruibile da «La cupola del Brunelleschi (Santa Maria del Fiore, 1436)»
+  - n. 3: risposta NON ricostruibile da «Il Colosseo (Anfiteatro Flavio, 80 d.C.)»
+  - n. 4: risposta NON ricostruibile da «Il Colosseo (Anfiteatro Flavio, 80 d.C.)»
+  - n. 5: risposta NON ricostruibile da «Il Colosseo (Anfiteatro Flavio, 80 d.C.)»
+  - n. 6: risposta NON ricostruibile da «Il Colosseo (Anfiteatro Flavio, 80 d.C.)»
+  - n. 8: risposta NON ricostruibile da «La cupola del Brunelleschi (Santa Maria del Fiore, 1436)»
+  - n. 9: risposta NON ricostruibile da «La cupola del Brunelleschi (Santa Maria del Fiore, 1436)»
+  - n. 10: risposta NON ricostruibile da «Il Pantheon di Roma: la cupola che nessuno ha eguagliato»
+  - ... e altri 264
+- OK CAPPOTTO: 117 chiavi
+- **CARPENTERIA**: 204 problemi
+  - n. 1: risposta NON ricostruibile da «Carpenteria metallica leggera per costruzioni a secco»
+  - n. 2: risposta NON ricostruibile da «Profili laminati e profili cavi»
+  - n. 3: risposta NON ricostruibile da «Carpenteria metallica leggera per costruzioni a secco»
+  - n. 4: risposta NON ricostruibile da «Profili laminati e profili cavi»
+  - n. 5: risposta NON ricostruibile da «Profili laminati e profili cavi»
+  - n. 6: risposta NON ricostruibile da «Acciai strutturali: gradi, laminati e zincati»
+  - n. 7: risposta NON ricostruibile da «Saldature strutturali: processi, qualifica e difetti»
+  - n. 8: risposta NON ricostruibile da «Acciai strutturali: gradi, laminati e zincati»
+  - ... e altri 196
+- **CONTABILITA_APPALTI**: 161 problemi
+  - n. 2: risposta NON ricostruibile da «Le tipologie di appalto: a corpo, a misura, misto»
+  - n. 3: risposta NON ricostruibile da «Le tipologie di appalto: a corpo, a misura, misto»
+  - n. 5: risposta NON ricostruibile da «Il computo metrico estimativo: la misura che vale contratto»
+  - n. 6: risposta NON ricostruibile da «Le tipologie di appalto: a corpo, a misura, misto»
+  - n. 7: risposta NON ricostruibile da «Le tipologie di appalto: a corpo, a misura, misto»
+  - n. 9: risposta NON ricostruibile da «Il computo metrico estimativo: la misura che vale contratto»
+  - n. 10: risposta NON ricostruibile da «Il computo metrico estimativo: la misura che vale contratto»
+  - n. 11: risposta NON ricostruibile da «Le tipologie di appalto: a corpo, a misura, misto»
+  - ... e altri 153
+- **COSTRUZIONI_LEGNO**: 147 problemi
+  - n. 1: risposta NON ricostruibile da «Il legno e l'umidità: protezione dalla pioggia e dalla condensa»
+  - n. 2: risposta NON ricostruibile da «Il telaio in legno: travi, pilastri e la costruzione tradizionale»
+  - n. 5: risposta NON ricostruibile da «Il legno e l'umidità: protezione dalla pioggia e dalla condensa»
+  - n. 8: risposta NON ricostruibile da «L'X-Lam (CLT): il legno che fa da muro e da solaio»
+  - n. 9: risposta NON ricostruibile da «Il legno e l'umidità: protezione dalla pioggia e dalla condensa»
+  - n. 10: risposta NON ricostruibile da «Il telaio in legno: travi, pilastri e la costruzione tradizionale»
+  - n. 11: risposta NON ricostruibile da «Il legno e l'umidità: protezione dalla pioggia e dalla condensa»
+  - n. 12: risposta NON ricostruibile da «Il telaio in legno: travi, pilastri e la costruzione tradizionale»
+  - ... e altri 139
+- **COSTRUZIONI_SPECIALI**: 153 problemi
+  - n. 1: risposta NON ricostruibile da «Le opere marittime: dighe, scafi, pontili»
+  - n. 2: risposta NON ricostruibile da «Gusci, reticolari e coperture leggere a grande luce»
+  - n. 3: risposta NON ricostruibile da «Le opere marittime: dighe, scafi, pontili»
+  - n. 4: risposta NON ricostruibile da «Gusci, reticolari e coperture leggere a grande luce»
+  - n. 6: risposta NON ricostruibile da «Gusci, reticolari e coperture leggere a grande luce»
+  - n. 7: risposta NON ricostruibile da «Le strutture in vetro: la trasparenza strutturale»
+  - n. 8: risposta NON ricostruibile da «Le strutture in vetro: la trasparenza strutturale»
+  - n. 9: risposta NON ricostruibile da «Le opere marittime: dighe, scafi, pontili»
+  - ... e altri 145
+- **DATA_CENTER**: 106 problemi
+  - n. 4: risposta NON ricostruibile da «Che cos'è un data center: l'edificio che non può fermarsi»
+  - n. 9: risposta NON ricostruibile da «I livelli di affidabilità Tier e la ridondanza N+1»
+  - n. 10: risposta NON ricostruibile da «La sicurezza del data center: fisica, logica, antincendio»
+  - n. 12: risposta NON ricostruibile da «La sicurezza del data center: fisica, logica, antincendio»
+  - n. 15: risposta NON ricostruibile da «La sicurezza del data center: fisica, logica, antincendio»
+  - n. 18: risposta NON ricostruibile da «Che cos'è un data center: l'edificio che non può fermarsi»
+  - n. 20: risposta NON ricostruibile da «La sicurezza del data center: fisica, logica, antincendio»
+  - n. 21: risposta NON ricostruibile da «La sicurezza del data center: fisica, logica, antincendio»
+  - ... e altri 98
+- OK DESIGN_GUSTO: 116 chiavi
+- **DIGHE_IDRAULICA**: 219 problemi
+  - n. 1: risposta NON ricostruibile da «Dighe a contrafforti e dighe in materiali sciolti»
+  - n. 3: risposta NON ricostruibile da «Dighe ad arco e a cupola»
+  - n. 4: risposta NON ricostruibile da «Dighe a gravità e a gravità alleggerita»
+  - n. 5: risposta NON ricostruibile da «Dighe a gravità e a gravità alleggerita»
+  - n. 7: risposta NON ricostruibile da «Dighe ad arco e a cupola»
+  - n. 8: risposta NON ricostruibile da «Dighe a contrafforti e dighe in materiali sciolti»
+  - n. 9: risposta NON ricostruibile da «Dighe a gravità e a gravità alleggerita»
+  - n. 10: risposta NON ricostruibile da «Dighe ad arco e a cupola»
+  - ... e altri 211
+- **DIMENSIONAMENTO_FV_EOLICO**: 182 problemi
+  - n. 1: risposta NON ricostruibile da «Il cablaggio DC e AC del fotovoltaico: sezioni e protezioni»
+  - n. 2: risposta NON ricostruibile da «Il cablaggio DC e AC del fotovoltaico: sezioni e protezioni»
+  - n. 3: risposta NON ricostruibile da «Il cablaggio DC e AC del fotovoltaico: sezioni e protezioni»
+  - n. 4: risposta NON ricostruibile da «Il dimensionamento dell'accumulo in batteria: autoconsumo e backup»
+  - n. 6: risposta NON ricostruibile da «Il dimensionamento del fotovoltaico: dal consumo ai kWp»
+  - n. 7: risposta NON ricostruibile da «Il cablaggio DC e AC del fotovoltaico: sezioni e protezioni»
+  - n. 8: risposta NON ricostruibile da «Il dimensionamento del fotovoltaico: dal consumo ai kWp»
+  - n. 9: risposta NON ricostruibile da «Il dimensionamento del fotovoltaico: dal consumo ai kWp»
+  - ... e altri 174
+- OK DIMENSIONAMENTO_TERMOTECNICO: 207 chiavi
+- **DISEGNO_TECNICO**: 181 problemi
+  - n. 1: risposta NON ricostruibile da «Sezioni, spaccati e dettagli costruttivi»
+  - n. 3: risposta NON ricostruibile da «La quotatura: regole, catene di quote, riferimenti»
+  - n. 4: risposta NON ricostruibile da «Scale di rappresentazione e formati dei fogli»
+  - n. 6: risposta NON ricostruibile da «Assonometrie, prospettive e resa del progetto»
+  - n. 7: risposta NON ricostruibile da «Assonometrie, prospettive e resa del progetto»
+  - n. 9: risposta NON ricostruibile da «Sezioni, spaccati e dettagli costruttivi»
+  - n. 10: risposta NON ricostruibile da «Il cartiglio: identificazione della tavola»
+  - n. 11: risposta NON ricostruibile da «Assonometrie, prospettive e resa del progetto»
+  - ... e altri 173
+- **DOMOTICA**: 192 problemi
+  - n. 1: risposta NON ricostruibile da «KNX Secure (cybersecurity)»
+  - n. 3: risposta NON ricostruibile da «KNX Secure (cybersecurity)»
+  - n. 6: risposta NON ricostruibile da «KNX/EIB (bus europeo)»
+  - n. 7: risposta NON ricostruibile da «KNX Secure (cybersecurity)»
+  - n. 8: risposta NON ricostruibile da «BACnet»
+  - n. 9: risposta NON ricostruibile da «Bluetooth Mesh (illuminazione)»
+  - n. 12: risposta NON ricostruibile da «BACnet»
+  - n. 14: risposta NON ricostruibile da «BACnet»
+  - ... e altri 184
+- **EDILIZIA_AGRICOLA**: 211 problemi
+  - n. 2: risposta NON ricostruibile da «Allevamenti suinicoli: capannoni, ventilazione e gestione dei liquami»
+  - n. 3: risposta NON ricostruibile da «Stalle da latte: requisiti strutturali e di benessere»
+  - n. 4: risposta NON ricostruibile da «Stalle da latte: requisiti strutturali e di benessere»
+  - n. 5: risposta NON ricostruibile da «Allevamenti suinicoli: capannoni, ventilazione e gestione dei liquami»
+  - n. 6: risposta NON ricostruibile da «Stalle da latte: requisiti strutturali e di benessere»
+  - n. 8: risposta NON ricostruibile da «Stalle da latte: requisiti strutturali e di benessere»
+  - n. 9: risposta NON ricostruibile da «Stalle da latte: requisiti strutturali e di benessere»
+  - n. 11: risposta NON ricostruibile da «Allevamenti suinicoli: capannoni, ventilazione e gestione dei liquami»
+  - ... e altri 203
+- **EDILIZIA_INDUSTRIALE**: 98 problemi
+  - n. 1: risposta NON ricostruibile da «Le scaffalature industriali: l'architettura interna del magazzino»
+  - n. 2: risposta NON ricostruibile da «I portoni industriali: sezionali, rapidi, scorrevoli»
+  - n. 6: risposta NON ricostruibile da «I portoni industriali: sezionali, rapidi, scorrevoli»
+  - n. 7: risposta NON ricostruibile da «I portoni industriali: sezionali, rapidi, scorrevoli»
+  - n. 8: risposta NON ricostruibile da «I portoni industriali: sezionali, rapidi, scorrevoli»
+  - n. 9: risposta NON ricostruibile da «I pannelli coibentati e l'involucro industriale: tenuta, ponti termici e durabilità»
+  - n. 10: risposta NON ricostruibile da «Le scaffalature industriali: l'architettura interna del magazzino»
+  - n. 11: risposta NON ricostruibile da «Le scaffalature industriali: l'architettura interna del magazzino»
+  - ... e altri 90
+- **EDILIZIA_SCOLASTICA**: 212 problemi
+  - n. 1: risposta NON ricostruibile da «Il patrimonio edilizio scolastico e i programmi di messa in sicurezza»
+  - n. 2: risposta NON ricostruibile da «Le aule: dimensionamento, arredi e capienza»
+  - n. 3: risposta NON ricostruibile da «Il patrimonio edilizio scolastico e i programmi di messa in sicurezza»
+  - n. 4: risposta NON ricostruibile da «Il patrimonio edilizio scolastico e i programmi di messa in sicurezza»
+  - n. 5: risposta NON ricostruibile da «Le aule: dimensionamento, arredi e capienza»
+  - n. 6: risposta NON ricostruibile da «Le aule: dimensionamento, arredi e capienza»
+  - n. 7: risposta NON ricostruibile da «Le aule: dimensionamento, arredi e capienza»
+  - n. 8: risposta NON ricostruibile da «Le aule: dimensionamento, arredi e capienza»
+  - ... e altri 204
+- **EMERGENZE**: 215 problemi
+  - n. 2: risposta NON ricostruibile da «Il sistema della protezione civile: ruoli, livelli e codice»
+  - n. 4: risposta NON ricostruibile da «Il sistema della protezione civile: ruoli, livelli e codice»
+  - n. 6: risposta NON ricostruibile da «Il sistema della protezione civile: ruoli, livelli e codice»
+  - n. 7: risposta NON ricostruibile da «Le prime 72 ore dopo il sisma: ricerca, soccorso e messa in sicurezza»
+  - n. 8: risposta NON ricostruibile da «Le prime 72 ore dopo il sisma: ricerca, soccorso e messa in sicurezza»
+  - n. 9: risposta NON ricostruibile da «La ricostruzione privata dopo il sisma: flussi, contributi e iter»
+  - n. 10: risposta NON ricostruibile da «Le prime 72 ore dopo il sisma: ricerca, soccorso e messa in sicurezza»
+  - n. 11: risposta NON ricostruibile da «La ricostruzione privata dopo il sisma: flussi, contributi e iter»
+  - ... e altri 207
+- OK ENERGETICA_INCENTIVI: 250 chiavi
+- **FACILITY_MANAGEMENT**: 200 problemi
+  - n. 3: risposta NON ricostruibile da «Il facility management: la gestione dell'edificio come servizio»
+  - n. 4: risposta NON ricostruibile da «La manutenzione degli impianti termoidraulici: verifiche, libretto e controlli effettivi»
+  - n. 5: risposta NON ricostruibile da «La manutenzione degli impianti termoidraulici: verifiche, libretto e controlli effettivi»
+  - n. 6: risposta NON ricostruibile da «Il facility management: la gestione dell'edificio come servizio»
+  - n. 8: risposta NON ricostruibile da «La manutenzione degli impianti termoidraulici: verifiche, libretto e controlli effettivi»
+  - n. 9: risposta NON ricostruibile da «La manutenzione degli impianti termoidraulici: verifiche, libretto e controlli effettivi»
+  - n. 10: risposta NON ricostruibile da «Il piano di manutenzione programmata: classi UNI 10329, dal piano al calendario»
+  - n. 12: risposta NON ricostruibile da «La manutenzione degli impianti termoidraulici: verifiche, libretto e controlli effettivi»
+  - ... e altri 192
+- **FERROVIE**: 196 problemi
+  - n. 1: risposta NON ricostruibile da «Armamento ferroviario con massicciata»
+  - n. 2: risposta NON ricostruibile da «Segnalamento ferroviario: ETCS/ERTMS e SCMT»
+  - n. 3: risposta NON ricostruibile da «Elettrificazione ferroviaria: 3 kV DC e 25 kV AC»
+  - n. 4: risposta NON ricostruibile da «Armamento ferroviario con massicciata»
+  - n. 6: risposta NON ricostruibile da «Armamento senza massicciata (slab track)»
+  - n. 7: risposta NON ricostruibile da «Armamento senza massicciata (slab track)»
+  - n. 8: risposta NON ricostruibile da «Segnalamento ferroviario: ETCS/ERTMS e SCMT»
+  - n. 9: risposta NON ricostruibile da «Segnalamento ferroviario: ETCS/ERTMS e SCMT»
+  - ... e altri 188
+- **FISCO_IMPRESA_EDILE**: 196 problemi
+  - n. 2: risposta NON ricostruibile da «Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)»
+  - n. 4: risposta NON ricostruibile da «Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti»
+  - n. 5: risposta NON ricostruibile da «Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)»
+  - n. 7: risposta NON ricostruibile da «Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti»
+  - n. 8: risposta NON ricostruibile da «Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)»
+  - n. 9: risposta NON ricostruibile da «Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti»
+  - n. 11: risposta NON ricostruibile da «Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)»
+  - n. 12: risposta NON ricostruibile da «L'IVA nell'edilizia: aliquote, reverse charge e fatturazione elettronica»
+  - ... e altri 188
+- **FORMULARIO_FISICA**: 188 problemi
+  - n. 1: risposta NON ricostruibile da «La massa termica e l'inerzia: la fisica del comfort estivo»
+  - n. 2: risposta NON ricostruibile da «La termofisica dell'involucro: conduzione e trasmittanza»
+  - n. 4: risposta NON ricostruibile da «Il fabbisogno energetico rapido: kWh/m²·anno in formule»
+  - n. 5: risposta NON ricostruibile da «La termofisica dell'involucro: conduzione e trasmittanza»
+  - n. 7: risposta NON ricostruibile da «La condensazione e il vapore: quando l'acqua si nasconde nella parete»
+  - n. 8: risposta NON ricostruibile da «La condensazione e il vapore: quando l'acqua si nasconde nella parete»
+  - n. 9: risposta NON ricostruibile da «La massa termica e l'inerzia: la fisica del comfort estivo»
+  - n. 10: risposta NON ricostruibile da «La termofisica dell'involucro: conduzione e trasmittanza»
+  - ... e altri 180
+- **FORMULARIO_STRUTTURE**: 207 problemi
+  - n. 1: risposta NON ricostruibile da «Le proprietà delle sezioni: area, inerzia, modulo resistente»
+  - n. 2: risposta NON ricostruibile da «Sforzo normale, taglio, momento flettente: la trinità del calcolo»
+  - n. 3: risposta NON ricostruibile da «Sforzo normale, taglio, momento flettente: la trinità del calcolo»
+  - n. 4: risposta NON ricostruibile da «L'equilibrio: ΣF=0, ΣM=0 e le reazioni vincolari»
+  - n. 5: risposta NON ricostruibile da «Sforzo normale, taglio, momento flettente: la trinità del calcolo»
+  - n. 7: risposta NON ricostruibile da «Le proprietà delle sezioni: area, inerzia, modulo resistente»
+  - n. 8: risposta NON ricostruibile da «L'equilibrio: ΣF=0, ΣM=0 e le reazioni vincolari»
+  - n. 10: risposta NON ricostruibile da «Le proprietà delle sezioni: area, inerzia, modulo resistente»
+  - ... e altri 199
+- OK FOTOVOLTAICO_CER: 240 chiavi
+- **GEOMETRA_ESTIMO**: 201 problemi
+  - n. 2: risposta NON ricostruibile da «Il rilievo topografico: da terreno a disegno»
+  - n. 4: risposta NON ricostruibile da «GNSS e GPS: posizionamento satellitare per l'edilizia»
+  - n. 6: risposta NON ricostruibile da «Il rilievo topografico: da terreno a disegno»
+  - n. 9: risposta NON ricostruibile da «Il rilievo topografico: da terreno a disegno»
+  - n. 10: risposta NON ricostruibile da «GNSS e GPS: posizionamento satellitare per l'edilizia»
+  - n. 11: risposta NON ricostruibile da «GNSS e GPS: posizionamento satellitare per l'edilizia»
+  - n. 12: risposta NON ricostruibile da «Gli strumenti del topografo: stazioni totali, GNSS, livelli»
+  - n. 13: risposta NON ricostruibile da «Gli strumenti del topografo: stazioni totali, GNSS, livelli»
+  - ... e altri 193
+- **GEOTECNICA**: 207 problemi
+  - n. 2: risposta NON ricostruibile da «Le indagini geotecniche: sondaggi, carotaggi e campionamento»
+  - n. 4: risposta NON ricostruibile da «Le prove penetrometriche: SPT e CPTu»
+  - n. 5: risposta NON ricostruibile da «Le prove penetrometriche: SPT e CPTu»
+  - n. 6: risposta NON ricostruibile da «Le indagini geotecniche: sondaggi, carotaggi e campionamento»
+  - n. 8: risposta NON ricostruibile da «Le indagini geotecniche: sondaggi, carotaggi e campionamento»
+  - n. 9: risposta NON ricostruibile da «Le indagini geotecniche: sondaggi, carotaggi e campionamento»
+  - n. 10: risposta NON ricostruibile da «Le indagini geotecniche: sondaggi, carotaggi e campionamento»
+  - n. 11: risposta NON ricostruibile da «Le prove penetrometriche: SPT e CPTu»
+  - ... e altri 199
+- **GESTIONE_CONDOMINIO**: 199 problemi
+  - n. 1: risposta NON ricostruibile da «Il condominio nel codice civile: parti comuni, assemblea e regolamenti»
+  - n. 3: risposta NON ricostruibile da «Millesimali, ripartizioni e tabelle di riparto»
+  - n. 4: risposta NON ricostruibile da «Il condominio nel codice civile: parti comuni, assemblea e regolamenti»
+  - n. 5: risposta NON ricostruibile da «Il condominio nel codice civile: parti comuni, assemblea e regolamenti»
+  - n. 6: risposta NON ricostruibile da «Lavori alle parti comuni: facciate, tetti e cappotto condominiale»
+  - n. 7: risposta NON ricostruibile da «Il condominio nel codice civile: parti comuni, assemblea e regolamenti»
+  - n. 8: risposta NON ricostruibile da «Lavori alle parti comuni: facciate, tetti e cappotto condominiale»
+  - n. 11: risposta NON ricostruibile da «Il condominio nel codice civile: parti comuni, assemblea e regolamenti»
+  - ... e altri 191
+- **HOTEL**: 89 problemi
+  - n. 2: risposta NON ricostruibile da «La lavanderia alberghiera: il giro della biancheria»
+  - n. 5: risposta NON ricostruibile da «L'acustica delle camere d'albergo: il silenzio è il primo servizio»
+  - n. 6: risposta NON ricostruibile da «L'acustica delle camere d'albergo: il silenzio è il primo servizio»
+  - n. 9: risposta NON ricostruibile da «L'impiantistica alberghiera: produzione centralizzata di ACS e gestione dei picchi»
+  - n. 10: risposta NON ricostruibile da «L'acustica delle camere d'albergo: il silenzio è il primo servizio»
+  - n. 11: risposta NON ricostruibile da «L'impiantistica alberghiera: produzione centralizzata di ACS e gestione dei picchi»
+  - n. 12: risposta NON ricostruibile da «L'acustica delle camere d'albergo: il silenzio è il primo servizio»
+  - n. 13: risposta NON ricostruibile da «L'impiantistica alberghiera: produzione centralizzata di ACS e gestione dei picchi»
+  - ... e altri 81
+- **ILLUMINAZIONE**: 162 problemi
+  - n. 1: risposta NON ricostruibile da «Le sorgenti LED: chip, driver, binning e schemi ottici»
+  - n. 2: risposta NON ricostruibile da «L'impianto elettrico della luce: quadri, linee e sicurezza»
+  - n. 3: risposta NON ricostruibile da «L'impianto elettrico della luce: quadri, linee e sicurezza»
+  - n. 4: risposta NON ricostruibile da «L'illuminazione di emergenza: norma UNI EN 1838 e adempimenti»
+  - n. 6: risposta NON ricostruibile da «L'impianto elettrico della luce: quadri, linee e sicurezza»
+  - n. 8: risposta NON ricostruibile da «Le grandezze fotometriche: lumen, lux, candela, nit»
+  - n. 9: risposta NON ricostruibile da «Le grandezze fotometriche: lumen, lux, candela, nit»
+  - n. 10: risposta NON ricostruibile da «Le grandezze fotometriche: lumen, lux, candela, nit»
+  - ... e altri 154
+- **IMPIANTI_COMPLETA**: 177 problemi
+  - n. 1: risposta NON ricostruibile da «Pompa di calore aria-acqua»
+  - n. 2: risposta NON ricostruibile da «Adduzione acqua potabile»
+  - n. 3: risposta NON ricostruibile da «Cavidotti e canaline»
+  - n. 5: risposta NON ricostruibile da «Adduzione acqua potabile»
+  - n. 6: risposta NON ricostruibile da «Cavidotti e canaline»
+  - n. 7: risposta NON ricostruibile da «Adduzione acqua potabile»
+  - n. 8: risposta NON ricostruibile da «Adduzione acqua potabile»
+  - n. 10: risposta NON ricostruibile da «Pompa di calore aria-acqua»
+  - ... e altri 169
+- **IMPIANTI_FV_EOLICO**: 2000 problemi
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - ... e altri 1992
+- **IMPIANTI_SPORTIVI**: 114 problemi
+  - n. 2: risposta NON ricostruibile da «Illuminazione sportiva e impianti di sicurezza: lux per disciplina, flicker e videosorveglianza»
+  - n. 9: risposta NON ricostruibile da «Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida»
+  - n. 10: risposta NON ricostruibile da «Pavimentazioni sportive indoor: parquet, resina, gomma e PVC»
+  - n. 11: risposta NON ricostruibile da «Illuminazione sportiva e impianti di sicurezza: lux per disciplina, flicker e videosorveglianza»
+  - n. 12: risposta NON ricostruibile da «Campi di gioco scoperti: recinzioni, reti di protezione e coperture»
+  - n. 14: risposta NON ricostruibile da «Campi di gioco scoperti: recinzioni, reti di protezione e coperture»
+  - n. 16: risposta NON ricostruibile da «Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida»
+  - n. 19: risposta NON ricostruibile da «Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida»
+  - ... e altri 106
+- **INFRASTRUTTURE**: 35 problemi
+  - n. 1: risposta NON ricostruibile da «Le pavimentazioni stradali: flessibili e rigide»
+  - n. 9: risposta NON ricostruibile da «Le reti tecnologiche esterne: acqua, gas, elettricità, fibra»
+  - n. 12: risposta NON ricostruibile da «Le pavimentazioni stradali: flessibili e rigide»
+  - n. 17: risposta NON ricostruibile da «Le reti tecnologiche esterne: acqua, gas, elettricità, fibra»
+  - n. 19: risposta NON ricostruibile da «Le pavimentazioni stradali: flessibili e rigide»
+  - n. 21: risposta NON ricostruibile da «Le reti tecnologiche esterne: acqua, gas, elettricità, fibra»
+  - n. 25: risposta NON ricostruibile da «Le pavimentazioni stradali: flessibili e rigide»
+  - n. 31: risposta NON ricostruibile da «Le pavimentazioni stradali: flessibili e rigide»
+  - ... e altri 27
+- **INGEGNERIA_CIVILE**: 203 problemi
+  - n. 1: risposta NON ricostruibile da «Meccanica dei solidi per il progettista civile»
+  - n. 2: risposta NON ricostruibile da «Meccanica dei solidi per il progettista civile»
+  - n. 3: risposta NON ricostruibile da «Idraulica di base per le costruzioni: portate, canali, condotte»
+  - n. 4: risposta NON ricostruibile da «Meccanica dei solidi per il progettista civile»
+  - n. 5: risposta NON ricostruibile da «Idraulica di base per le costruzioni: portate, canali, condotte»
+  - n. 6: risposta NON ricostruibile da «Idraulica di base per le costruzioni: portate, canali, condotte»
+  - n. 8: risposta NON ricostruibile da «Idraulica di base per le costruzioni: portate, canali, condotte»
+  - n. 9: risposta NON ricostruibile da «Dighe, invasi e opere di presa»
+  - ... e altri 195
+- **INTERIOR_TECNICO**: 143 problemi
+  - n. 1: risposta NON ricostruibile da «La progettazione tecnica del bagno»
+  - n. 3: risposta NON ricostruibile da «La progettazione tecnica del bagno»
+  - n. 4: risposta NON ricostruibile da «La progettazione tecnica del bagno»
+  - n. 5: risposta NON ricostruibile da «La progettazione tecnica della cucina»
+  - n. 6: risposta NON ricostruibile da «La progettazione tecnica del bagno»
+  - n. 7: risposta NON ricostruibile da «La progettazione tecnica della cucina»
+  - n. 8: risposta NON ricostruibile da «Ergonomia degli ambienti domestici: le misure che contano»
+  - n. 11: risposta NON ricostruibile da «La progettazione tecnica del bagno»
+  - ... e altri 135
+- **LEGISLAZIONE_EDILIZIA**: 34 problemi
+  - n. 4: risposta NON ricostruibile da «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni»
+  - n. 6: risposta NON ricostruibile da «La responsabilità dell'impresa costruttrice: art. 1669 e decennale»
+  - n. 7: risposta NON ricostruibile da «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni»
+  - n. 9: risposta NON ricostruibile da «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni»
+  - n. 11: risposta NON ricostruibile da «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni»
+  - n. 19: risposta NON ricostruibile da «La responsabilità dell'impresa costruttrice: art. 1669 e decennale»
+  - n. 22: risposta NON ricostruibile da «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni»
+  - n. 26: risposta NON ricostruibile da «Le garanzie in edilizia: fideiussioni, certificazioni e attestazioni»
+  - ... e altri 26
+- **MACCHINE_TERMICHE**: 167 problemi
+  - n. 1: risposta NON ricostruibile da «La caldaia a condensazione: il circuito della condensa»
+  - n. 2: risposta NON ricostruibile da «Il condizionatore (split): anatomia del ciclo frigorifero»
+  - n. 3: risposta NON ricostruibile da «Lo scaldabagno: a gas, elettrico e a pompa di calore»
+  - n. 5: risposta NON ricostruibile da «I refrigeranti e la transizione F-gas: GWP, vietati e futuro»
+  - n. 6: risposta NON ricostruibile da «Canne fumarie e camini: materiali e tiraggio»
+  - n. 7: risposta NON ricostruibile da «Canne fumarie e camini: materiali e tiraggio»
+  - n. 8: risposta NON ricostruibile da «La caldaia a condensazione: il circuito della condensa»
+  - n. 11: risposta NON ricostruibile da «Lo scaldabagno: a gas, elettrico e a pompa di calore»
+  - ... e altri 159
+- **MASTER_DESIGN**: 198 problemi
+  - n. 1: risposta NON ricostruibile da «Color design: la psicologia e la tecnica del colore»
+  - n. 3: risposta NON ricostruibile da «Design management: dirigere la creatività»
+  - n. 4: risposta NON ricostruibile da «Design management: dirigere la creatività»
+  - n. 5: risposta NON ricostruibile da «Lighting design: la scenografia della luce»
+  - n. 6: risposta NON ricostruibile da «Materiali e finiture di pregio: il vocabolario del lusso»
+  - n. 7: risposta NON ricostruibile da «Materiali e finiture di pregio: il vocabolario del lusso»
+  - n. 8: risposta NON ricostruibile da «Materiali e finiture di pregio: il vocabolario del lusso»
+  - n. 9: risposta NON ricostruibile da «Design management: dirigere la creatività»
+  - ... e altri 190
+- **MASTER_IMPRESA**: 14 problemi
+  - n. 5: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 8: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 11: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 34: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 43: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 51: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 62: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - n. 73: risposta NON ricostruibile da «La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0»
+  - ... e altri 6
+- **MATEMATICA**: 170 problemi
+  - n. 3: risposta NON ricostruibile da «Gli errori: cifre significative, arrotondamenti, ordini di grandezza»
+  - n. 4: risposta NON ricostruibile da «Gli errori: cifre significative, arrotondamenti, ordini di grandezza»
+  - n. 5: risposta NON ricostruibile da «Geometria piana: aree e perimetri delle figure del cantiere»
+  - n. 6: risposta NON ricostruibile da «Geometria piana: aree e perimetri delle figure del cantiere»
+  - n. 9: risposta NON ricostruibile da «Algebra di base: equazioni, proporzioni, percentuali»
+  - n. 10: risposta NON ricostruibile da «Algebra di base: equazioni, proporzioni, percentuali»
+  - n. 11: risposta NON ricostruibile da «Geometria piana: aree e perimetri delle figure del cantiere»
+  - n. 12: risposta NON ricostruibile da «Trigonometria applicata: pendenza, altezze, triangoli qualsiasi»
+  - ... e altri 162
+- **MATERIALEDILE**: 2000 problemi
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - numerazione: atteso 1 trovato None
+  - n. None: fonte malformato «»
+  - ... e altri 1992
+- **MATERIALI_COMPONENTI**: 213 problemi
+  - n. 1: risposta NON ricostruibile da «I tubi per il gas: acciaio, rame, multistrato marcato»
+  - n. 2: risposta NON ricostruibile da «L'isolamento delle tubazioni: spessori e materiali»
+  - n. 4: risposta NON ricostruibile da «I tubi per il gas: acciaio, rame, multistrato marcato»
+  - n. 5: risposta NON ricostruibile da «I tubi per l'acqua: rame, multistrato, PEX, PP-R, acciaio»
+  - n. 6: risposta NON ricostruibile da «I tubi per l'acqua: rame, multistrato, PEX, PP-R, acciaio»
+  - n. 7: risposta NON ricostruibile da «L'isolamento delle tubazioni: spessori e materiali»
+  - n. 9: risposta NON ricostruibile da «L'isolamento delle tubazioni: spessori e materiali»
+  - n. 10: risposta NON ricostruibile da «L'isolamento delle tubazioni: spessori e materiali»
+  - ... e altri 205
+- **MATERIALI_FUTURO**: 165 problemi
+  - n. 1: risposta NON ricostruibile da «I calcestruzzi del futuro: UHPC, autoriparanti, translucidi»
+  - n. 3: risposta NON ricostruibile da «I rivestimenti intelligenti: aerogel, PCM, termocromici»
+  - n. 4: risposta NON ricostruibile da «I rivestimenti intelligenti: aerogel, PCM, termocromici»
+  - n. 5: risposta NON ricostruibile da «I rivestimenti intelligenti: aerogel, PCM, termocromici»
+  - n. 6: risposta NON ricostruibile da «I rivestimenti intelligenti: aerogel, PCM, termocromici»
+  - n. 7: risposta NON ricostruibile da «I materiali bio-based: canapa, bambù, fibre naturali»
+  - n. 10: risposta NON ricostruibile da «I materiali bio-based: canapa, bambù, fibre naturali»
+  - n. 11: risposta NON ricostruibile da «I calcestruzzi del futuro: UHPC, autoriparanti, translucidi»
+  - ... e altri 157
+- **METODI_COSTRUTTIVI**: 206 problemi
+  - n. 1: risposta NON ricostruibile da «Sollevamento, raddrizzamento e messa in asse di edifici esistenti»
+  - n. 2: risposta NON ricostruibile da «Cut & cover e trincee foderate»
+  - n. 3: risposta NON ricostruibile da «Cut & cover e trincee foderate»
+  - n. 5: risposta NON ricostruibile da «Metodo top-down (costruzione dal basso verso l'alto)»
+  - n. 6: risposta NON ricostruibile da «Sollevamento, raddrizzamento e messa in asse di edifici esistenti»
+  - n. 7: risposta NON ricostruibile da «Metodo top-down (costruzione dal basso verso l'alto)»
+  - n. 8: risposta NON ricostruibile da «Metodo top-down (costruzione dal basso verso l'alto)»
+  - n. 9: risposta NON ricostruibile da «Cut & cover e trincee foderate»
+  - ... e altri 198
+- **MURATURE_INTONACI**: 197 problemi
+  - n. 1: risposta NON ricostruibile da «I laterizi forati: classi di resistenza, foratura e scelta per setti e tamponamenti»
+  - n. 2: risposta NON ricostruibile da «I laterizi forati: classi di resistenza, foratura e scelta per setti e tamponamenti»
+  - n. 3: risposta NON ricostruibile da «La malta da muratura: classi di resistenza, dosi e malte premiscelate»
+  - n. 5: risposta NON ricostruibile da «I blocchi in cls alleggerito e in AAC (gasbeton): densità, isolamento e posa a colla»
+  - n. 7: risposta NON ricostruibile da «La malta da muratura: classi di resistenza, dosi e malte premiscelate»
+  - n. 8: risposta NON ricostruibile da «I laterizi forati: classi di resistenza, foratura e scelta per setti e tamponamenti»
+  - n. 9: risposta NON ricostruibile da «I laterizi forati: classi di resistenza, foratura e scelta per setti e tamponamenti»
+  - n. 10: risposta NON ricostruibile da «La malta da muratura: classi di resistenza, dosi e malte premiscelate»
+  - ... e altri 189
+- **OSPEDALI**: 97 problemi
+  - n. 1: risposta NON ricostruibile da «I gas medicinali: ossigeno, aria medicale, aspirazione»
+  - n. 2: risposta NON ricostruibile da «I gas medicinali: ossigeno, aria medicale, aspirazione»
+  - n. 4: risposta NON ricostruibile da «La progettazione ospedaliera: il flusso pulito-sporco e le zone funzionali»
+  - n. 6: risposta NON ricostruibile da «L'imaging diagnostico: Tac, Risonanza, i locali blindati»
+  - n. 10: risposta NON ricostruibile da «L'imaging diagnostico: Tac, Risonanza, i locali blindati»
+  - n. 11: risposta NON ricostruibile da «La progettazione ospedaliera: il flusso pulito-sporco e le zone funzionali»
+  - n. 12: risposta NON ricostruibile da «L'imaging diagnostico: Tac, Risonanza, i locali blindati»
+  - n. 14: risposta NON ricostruibile da «I gas medicinali: ossigeno, aria medicale, aspirazione»
+  - ... e altri 89
+- **PATOLOGIE_DIAGNOSTICA**: 195 problemi
+  - n. 2: risposta NON ricostruibile da «Carotaggi e prove di compressione»
+  - n. 4: risposta NON ricostruibile da «Carotaggi e prove di compressione»
+  - n. 5: risposta NON ricostruibile da «Termografia a infrarossi sull'involucro»
+  - n. 6: risposta NON ricostruibile da «Termografia a infrarossi sull'involucro»
+  - n. 7: risposta NON ricostruibile da «Il percorso diagnostico: dal sopralluogo al piano di indagini»
+  - n. 8: risposta NON ricostruibile da «Il percorso diagnostico: dal sopralluogo al piano di indagini»
+  - n. 9: risposta NON ricostruibile da «Prove sclerometriche (martello Schmidt)»
+  - n. 12: risposta NON ricostruibile da «Prove sclerometriche (martello Schmidt)»
+  - ... e altri 187
+- **PERIZIE_STIME**: 204 problemi
+  - n. 1: risposta NON ricostruibile da «La perizia immobiliare: metodi di stima»
+  - n. 2: risposta NON ricostruibile da «La perizia immobiliare: metodi di stima»
+  - n. 3: risposta NON ricostruibile da «Perizia di stima dei lavori: estimo di cantiere»
+  - n. 4: risposta NON ricostruibile da «Perizia di stima dei lavori: estimo di cantiere»
+  - n. 5: risposta NON ricostruibile da «Perizia di stima dei lavori: estimo di cantiere»
+  - n. 6: risposta NON ricostruibile da «La perizia immobiliare: metodi di stima»
+  - n. 7: risposta NON ricostruibile da «Perizia di stima dei lavori: estimo di cantiere»
+  - n. 9: risposta NON ricostruibile da «CTU e CTP nel processo civile»
+  - ... e altri 196
+- **PIETRE_NATURALI**: 161 problemi
+  - n. 1: risposta NON ricostruibile da «Pietre per pavimentazioni esterne: scivolosità, spessori e posa su letto»
+  - n. 2: risposta NON ricostruibile da «Il marmo: qualità, venature, cave, macchie e resina»
+  - n. 5: risposta NON ricostruibile da «Il marmo: qualità, venature, cave, macchie e resina»
+  - n. 6: risposta NON ricostruibile da «Lavorazioni di superficie: taglio, levigatura, lucidatura, bocciardatura, fiammatura»
+  - n. 8: risposta NON ricostruibile da «Il granito: durezza e impieghi interni ed esterni»
+  - n. 9: risposta NON ricostruibile da «Pietre per pavimentazioni esterne: scivolosità, spessori e posa su letto»
+  - n. 10: risposta NON ricostruibile da «Lavorazioni di superficie: taglio, levigatura, lucidatura, bocciardatura, fiammatura»
+  - n. 11: risposta NON ricostruibile da «Il marmo: qualità, venature, cave, macchie e resina»
+  - ... e altri 153
+- **PISCINE**: 68 problemi
+  - n. 2: risposta NON ricostruibile da «Il riscaldamento della piscina: pompe di calore, scambiatori e coperture»
+  - n. 6: risposta NON ricostruibile da «Il riscaldamento della piscina: pompe di calore, scambiatori e coperture»
+  - n. 8: risposta NON ricostruibile da «Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax»
+  - n. 9: risposta NON ricostruibile da «Le tipologie di piscina: skimmer, a sfioro, interrate e sopraelevate»
+  - n. 11: risposta NON ricostruibile da «Le tipologie di piscina: skimmer, a sfioro, interrate e sopraelevate»
+  - n. 12: risposta NON ricostruibile da «Il riscaldamento della piscina: pompe di calore, scambiatori e coperture»
+  - n. 14: risposta NON ricostruibile da «Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax»
+  - n. 15: risposta NON ricostruibile da «Il riscaldamento della piscina: pompe di calore, scambiatori e coperture»
+  - ... e altri 60
+- **PORTI_MARITTIMI**: 205 problemi
+  - n. 1: risposta NON ricostruibile da «Terminal container, Ro-Ro e piattaforme logistiche portuali»
+  - n. 2: risposta NON ricostruibile da «Dighe foranee, moli e banchine portuali»
+  - n. 3: risposta NON ricostruibile da «Terminal container, Ro-Ro e piattaforme logistiche portuali»
+  - n. 4: risposta NON ricostruibile da «Dighe foranee, moli e banchine portuali»
+  - n. 5: risposta NON ricostruibile da «Dighe foranee, moli e banchine portuali»
+  - n. 6: risposta NON ricostruibile da «Terminal container, Ro-Ro e piattaforme logistiche portuali»
+  - n. 7: risposta NON ricostruibile da «Porti turistici e cantieri nautici: darsene, boe e assistenza»
+  - n. 8: risposta NON ricostruibile da «Dighe foranee, moli e banchine portuali»
+  - ... e altri 197
+- **POSA_IN_OPERA**: 262 problemi
+  - n. 1: risposta NON ricostruibile da «Casseforme e disarmo»
+  - n. 2: risposta NON ricostruibile da «Getto e vibratura del calcestruzzo»
+  - n. 3: risposta NON ricostruibile da «Getto e vibratura del calcestruzzo»
+  - n. 4: risposta NON ricostruibile da «Posa delle armature e copriferri»
+  - n. 5: risposta NON ricostruibile da «Getto e vibratura del calcestruzzo»
+  - n. 6: risposta NON ricostruibile da «Casseforme e disarmo»
+  - n. 8: risposta NON ricostruibile da «Getto e vibratura del calcestruzzo»
+  - n. 9: risposta NON ricostruibile da «Getto e vibratura del calcestruzzo»
+  - ... e altri 254
+- **PREFABBRICAZIONE**: 208 problemi
+  - n. 1: risposta NON ricostruibile da «Moduli completi e building system industrializzati (volumi a modulo)»
+  - n. 2: risposta NON ricostruibile da «Il sistema costruttivo a prefabbricati: logica e campi d'impiego»
+  - n. 3: risposta NON ricostruibile da «Pannelli di tamponamento e pareti sandwich prefabbricate»
+  - n. 4: risposta NON ricostruibile da «Travi, colonne e solai prefabbricati precompressi»
+  - n. 6: risposta NON ricostruibile da «Pannelli di tamponamento e pareti sandwich prefabbricate»
+  - n. 7: risposta NON ricostruibile da «Il sistema costruttivo a prefabbricati: logica e campi d'impiego»
+  - n. 8: risposta NON ricostruibile da «Moduli completi e building system industrializzati (volumi a modulo)»
+  - n. 9: risposta NON ricostruibile da «Il sistema costruttivo a prefabbricati: logica e campi d'impiego»
+  - ... e altri 200
+- **REAL_ESTATE**: 95 problemi
+  - n. 3: risposta NON ricostruibile da «Il mutuo immobiliare: tassi, spread, surroga»
+  - n. 4: risposta NON ricostruibile da «Il mutuo immobiliare: tassi, spread, surroga»
+  - n. 6: risposta NON ricostruibile da «L'agenzia immobiliare: ruolo, provvigioni, normativa»
+  - n. 7: risposta NON ricostruibile da «La valutazione immobiliare: i tre metodi»
+  - n. 9: risposta NON ricostruibile da «Il mutuo immobiliare: tassi, spread, surroga»
+  - n. 10: risposta NON ricostruibile da «Locazione breve e affitti turistici: mercato e regole»
+  - n. 11: risposta NON ricostruibile da «Locazione breve e affitti turistici: mercato e regole»
+  - n. 13: risposta NON ricostruibile da «La valutazione immobiliare: i tre metodi»
+  - ... e altri 87
+- OK RESTAURO_CONSERVAZIONE: 223 chiavi
+- **RINNOVABILI_IDRO**: 198 problemi
+  - n. 3: risposta NON ricostruibile da «Caldaie a biomasse legnose: cippato e pellet»
+  - n. 4: risposta NON ricostruibile da «Pellet, cippato e certificazione dei combustibili legnosi»
+  - n. 5: risposta NON ricostruibile da «Mini-idroelettrico: schemi e turbine»
+  - n. 6: risposta NON ricostruibile da «Pellet, cippato e certificazione dei combustibili legnosi»
+  - n. 8: risposta NON ricostruibile da «Pumped storage e accumulo idroelettrico»
+  - n. 9: risposta NON ricostruibile da «Pumped storage e accumulo idroelettrico»
+  - n. 10: risposta NON ricostruibile da «Mini-idroelettrico: schemi e turbine»
+  - n. 11: risposta NON ricostruibile da «Mini-idroelettrico: schemi e turbine»
+  - ... e altri 190
+- **RISANAMENTO**: 208 problemi
+  - n. 1: risposta NON ricostruibile da «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»
+  - n. 2: risposta NON ricostruibile da «L'umidità di risalita capillare: come sale e come si risana»
+  - n. 3: risposta NON ricostruibile da «Condensa e muffa negli edifici esistenti: diagnosi e cure»
+  - n. 4: risposta NON ricostruibile da «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»
+  - n. 5: risposta NON ricostruibile da «Condensa e muffa negli edifici esistenti: diagnosi e cure»
+  - n. 6: risposta NON ricostruibile da «Il risanamento delle facciate: intonaci antichi, deumidificanti e tinteggiatura»
+  - n. 7: risposta NON ricostruibile da «La diagnosi dell'edificio esistente: rilievo, umidità, termografia»
+  - n. 8: risposta NON ricostruibile da «L'umidità di risalita capillare: come sale e come si risana»
+  - ... e altri 200
+- **ROBOTICA**: 52 problemi
+  - n. 4: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - n. 5: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - n. 14: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - n. 16: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - n. 18: risposta NON ricostruibile da «Normativa sicurezza robotica in cantiere»
+  - n. 32: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - n. 40: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - n. 47: risposta NON ricostruibile da «Stampante 3D per calcestruzzo (extrusion)»
+  - ... e altri 44
+- OK SERRAMENTI: 195 chiavi
+- **SICUREZZA_ANTINCENDIO**: 143 problemi
+  - n. 1: risposta NON ricostruibile da «La prevenzione incendi: quadro normativo e logica»
+  - n. 3: risposta NON ricostruibile da «La prevenzione incendi: quadro normativo e logica»
+  - n. 4: risposta NON ricostruibile da «L'accessibilità: superamento delle barriere architettoniche»
+  - n. 5: risposta NON ricostruibile da «L'accessibilità: superamento delle barriere architettoniche»
+  - n. 6: risposta NON ricostruibile da «Gestione dell'emergenza: PEI, addestramento, evacuazione»
+  - n. 7: risposta NON ricostruibile da «La prevenzione incendi: quadro normativo e logica»
+  - n. 9: risposta NON ricostruibile da «Ascensori e piattaforme elevatrici: obblighi e scelte»
+  - n. 10: risposta NON ricostruibile da «L'accessibilità: superamento delle barriere architettoniche»
+  - ... e altri 135
+- **SICUREZZA_CANTIERE**: 208 problemi
+  - n. 1: risposta NON ricostruibile da «I soggetti del cantiere: committente, CSE, CSP, DL e subappalti a catena»
+  - n. 2: risposta NON ricostruibile da «Il quadro normativo: D.Lgs 81/2008 Titolo IV e gli allegati»
+  - n. 3: risposta NON ricostruibile da «Il PSC (Piano di Sicurezza e Coordinamento): contenuti e aggiornamento»
+  - n. 4: risposta NON ricostruibile da «Il PSC (Piano di Sicurezza e Coordinamento): contenuti e aggiornamento»
+  - n. 5: risposta NON ricostruibile da «Il quadro normativo: D.Lgs 81/2008 Titolo IV e gli allegati»
+  - n. 6: risposta NON ricostruibile da «Il PSC (Piano di Sicurezza e Coordinamento): contenuti e aggiornamento»
+  - n. 7: risposta NON ricostruibile da «I soggetti del cantiere: committente, CSE, CSP, DL e subappalti a catena»
+  - n. 8: risposta NON ricostruibile da «Il quadro normativo: D.Lgs 81/2008 Titolo IV e gli allegati»
+  - ... e altri 200
+- **SOLLEVAMENTO**: 184 problemi
+  - n. 2: risposta NON ricostruibile da «Autogru e camion-gru: diagrammi di carico, slancio e contrappesi»
+  - n. 3: risposta NON ricostruibile da «Autogru e camion-gru: diagrammi di carico, slancio e contrappesi»
+  - n. 4: risposta NON ricostruibile da «Piattaforme di lavoro elevabili (PLE): tipi, stabilizzatori e uso corretto»
+  - n. 5: risposta NON ricostruibile da «Piattaforme di lavoro elevabili (PLE): tipi, stabilizzatori e uso corretto»
+  - n. 6: risposta NON ricostruibile da «Piattaforme di lavoro elevabili (PLE): tipi, stabilizzatori e uso corretto»
+  - n. 7: risposta NON ricostruibile da «Il sistema dei mezzi di sollevamento in cantiere: classificazione e scelta»
+  - n. 8: risposta NON ricostruibile da «Piattaforme di lavoro elevabili (PLE): tipi, stabilizzatori e uso corretto»
+  - n. 9: risposta NON ricostruibile da «Ponteggi metallici a telai: montaggio, vincoli e carichi ammissibili»
+  - ... e altri 176
+- **STRUTTURE**: 255 problemi
+  - n. 3: risposta NON ricostruibile da «Le azioni sulle struttura: carichi permanenti, variabili, eccezionali»
+  - n. 4: risposta NON ricostruibile da «Strutture in acciaio: elementi e connessioni»
+  - n. 5: risposta NON ricostruibile da «Combinazioni delle azioni e stati limite»
+  - n. 6: risposta NON ricostruibile da «Strutture in acciaio: elementi e connessioni»
+  - n. 7: risposta NON ricostruibile da «Le azioni sulle struttura: carichi permanenti, variabili, eccezionali»
+  - n. 8: risposta NON ricostruibile da «Le azioni sulle struttura: carichi permanenti, variabili, eccezionali»
+  - n. 12: risposta NON ricostruibile da «Strutture in acciaio: elementi e connessioni»
+  - n. 13: risposta NON ricostruibile da «Le azioni sulle struttura: carichi permanenti, variabili, eccezionali»
+  - ... e altri 247
+- **TETTI_COPERTURE**: 138 problemi
+  - n. 1: risposta NON ricostruibile da «Il sottotetto ventilato: la regola d'oro del tetto in legno»
+  - n. 2: risposta NON ricostruibile da «I manti di copertura: tegole, lastre metalliche, membrane»
+  - n. 3: risposta NON ricostruibile da «Il sottotetto ventilato: la regola d'oro del tetto in legno»
+  - n. 5: risposta NON ricostruibile da «I manti di copertura: tegole, lastre metalliche, membrane»
+  - n. 6: risposta NON ricostruibile da «Il sottotetto ventilato: la regola d'oro del tetto in legno»
+  - n. 7: risposta NON ricostruibile da «La copertura a falda: struttura, manto, ventilazione»
+  - n. 12: risposta NON ricostruibile da «I manti di copertura: tegole, lastre metalliche, membrane»
+  - n. 13: risposta NON ricostruibile da «La copertura a falda: struttura, manto, ventilazione»
+  - ... e altri 130
+- **URBANISTICA**: 88 problemi
+  - n. 1: risposta NON ricostruibile da «I vincoli: paesaggistico, idrogeologico, archeologico, naturalistico»
+  - n. 2: risposta NON ricostruibile da «VAS, VIA e la valutazione ambientale degli interventi»
+  - n. 3: risposta NON ricostruibile da «Gli standards urbanistici e le dotazioni»
+  - n. 6: risposta NON ricostruibile da «VAS, VIA e la valutazione ambientale degli interventi»
+  - n. 7: risposta NON ricostruibile da «Il governo del territorio: principi costituzionali»
+  - n. 9: risposta NON ricostruibile da «Gli standards urbanistici e le dotazioni»
+  - n. 11: risposta NON ricostruibile da «Gli standards urbanistici e le dotazioni»
+  - n. 12: risposta NON ricostruibile da «I vincoli: paesaggistico, idrogeologico, archeologico, naturalistico»
+  - ... e altri 80
+- **VERDE_URBANO**: 16 problemi
+  - n. 13: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 22: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 26: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 34: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 39: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 61: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 63: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - n. 74: risposta NON ricostruibile da «La progettazione del giardino: i principi del progetto verde»
+  - ... e altri 8
+
+Settori chiavi: **72**. Chiavi totali: **18439**. Problemi B: **14529**.
+
+## C. Cloze corrotte nei fogli domande (pattern ___lettera)
+Nessuna cloze corrotta su 72 fogli domande.
+Problemi C: **0**.
+
+## D. Riferimenti stale in ENCICLOPEDIA/
+- INDICE_ALFABETICO.md riga 342: «D.Lgs 102/2014»
+- INDICE_ALFABETICO.md riga 343: «D.Lgs 102/2014»
+- INDICE_ALFABETICO.md riga 2164: «Transizione 5.0 e iperammortamento: il lato imprese»
+- INDICE_ALFABETICO.md riga 342: «gli obblighi D.Lgs 102/2014»
+- VOCI_FACOLTA_GEOMETRI_PERITI.md riga 530: «D.Lgs 102/2014»
+- VOCI_FACOLTA_GESTIONE_SISTEMA.md riga 1056: «PRIERA»
+- VOCI_FACOLTA_GESTIONE_SISTEMA.md riga 1040: «D.Lgs 102/2014»
+- VOCI_FACOLTA_IMPIANTI_ENERGIA.md riga 1266: «PRIERA»
+- VOCI_FACOLTA_IMPIANTI_ENERGIA.md riga 769: «D.Lgs 102/2014»
+- VOCI_FACOLTA_IMPIANTI_ENERGIA.md riga 775: «D.Lgs 102/2014»
+- VOCI_FACOLTA_IMPIANTI_ENERGIA.md riga 1405: «D.Lgs 102/2014»
+- VOCI_FACOLTA_IMPIANTI_ENERGIA.md riga 1413: «D.Lgs 102/2014»
+- VOCI_FACOLTA_TECNOLOGIA_E_COSTRUZIONE.md riga 765: «D.Lgs 102/2014»
+Problemi D: **13**.
+
+## ESITO
+- Schede lette: 951 | Problemi schede: 332
+- Chiavi esami: 18439 su 72 settori | Problemi: 14529
+- Cloze corrotte: 0
+- Riferimenti stale enciclopedia: 13
+- **TOTALE PROBLEMI: 14874**

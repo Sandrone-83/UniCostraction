@@ -718,7 +718,7 @@ Quale di questi NON appartiene alla tecnologia descritta nella scheda «Il dimen
 
 Secondo la scheda «Il dimensionamento delle stringhe e degli inverter», a quali riferimenti normativi fare riferimento?
 
-- A) le guide di settore CEI per l'installazione FV (edizione vigente)
+- A) guida CEI 82-25 per la realizzazione dei sistemi fotovoltaici (serie in parti, edizione vigente)
 - B) normativa CER (ARERA)
 - C) UNI EN 14825 (SCOP)
 - D) normativa connessione

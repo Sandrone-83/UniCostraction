@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1097 voci enciclopediche tratte da 70 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1125 voci enciclopediche tratte da 72 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -61,6 +61,8 @@
   Scelta, foratura e installazione di tasselli metallici a espansione, a sottosquadro e di ancoraggi chimici a resina. Errore tipico: foro non pulito nella resina (aderenza dimezzata) e tassello a espansione troppo vicino …
 - **Ancorante chimico** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Sistema di ancoraggio con cartuccia di resina (poliestere, vinilestere, epossidica) e barra filettata o bullone: l'adesione chimica al cls sostituisce l'espansione meccanica.
+- **Antieffrazione: classi RC e vetri antisfondamento (P1A-P5A)** — Sicurezza · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  La resistenza antieffrazione si classifica secondo UNI EN 1627 in classi RC: RC1-RC2 (ladro occasionale, attrezzi semplici, pochi minuti), RC3 (cacciavite e piede di porco, 5 minuti), RC4 (utensili pesanti, 10 minuti), R…
 - **Antigelo e sverniciatori** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prodotti per il cantiere invernale e la manutenzione: antigelo per cls, sverniciatori, sgrassatori.
 - **Antintrusione integrata** — Sicurezza · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -185,6 +187,8 @@
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
+- **Cantieri di cappotto: organizzazione, ponteggi, tempi, sicurezza** — Cantieri · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  Il cantiere del cappotto è logistica: ponteggio a servizio continuo della facciata, protezione dal vento e pioggia, stoccaggio dei pannelli (al riparo da sole e pioggia), gestione dei giunti di fase, coordinamento con al…
 - **Cantieri marittimi: navi-cantiere, piattaforme e lavorazioni subacquee** — Cantieri marini · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
   Come si costruisce in mare: le tecniche, le imbarcazioni e la sicurezza del cantiere marino.
 - **Cantine e stabilimenti vinicoli: edilizia e processo** — Cantine · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -285,8 +289,14 @@
   Gli incentivi 2025+ per la riqualificazione energetica e gli impianti efficienti.
 - **Conto Termico 3.0: accesso diretto, prenotazione, pratica** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   La domanda si presenta sul PortalTermico 3.0 del GSE: in accesso diretto entro 90 giorni dalla fine dei lavori, oppure con prenotazione (riservata a PA e ETS, anche tramite ESCo) che blocca l'incentivo prima dell'avvio c…
+- **Conto Termico 3.0: gli errori che fanno rigettare o sospendere la pratica** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  L'istruttoria GSE è severa sulle formalità: le istanze carenti dei requisiti di ammissione sono improcedibili, le integrazioni richieste sospendono i termini del procedimento (secondo la legge 241/1990) e il sopralluogo …
 - **Conto Termico 3.0: interventi ammessi e percentuali** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
-  Il Conto Termico 3.0 incentiva interventi su inviluppo e impianti: pompe di calore e sistemi ibridi fino al 65%, solare termico al 65%, isolamento 40-50%, fotovoltaico al 20% solo se 'trainato' dalla pompa di calore, acc…
+  Il Conto Termico 3.0 incentiva interventi su inviluppo e impianti con DUE famiglie di algoritmi: l'involucro (Titolo II) è a percentuale della spesa entro costi massimi unitari (Itot = %spesa × C × S ≤ Imax); i generator…
+- **Conto Termico 3.0: massimali, costi ammissibili e calcolo dell'incentivo** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  L'incentivo non è 'una percentuale della spesa': sono due famiglie di formule. Per l'involucro (Titolo II): I_tot = %spesa × C × S_int, con I_tot ≤ I_max; se il costo specifico sostenuto C (€/m²) supera il valore massimo…
+- **Conto Termico 3.0: multi-intervento, cumuli e maggiorazioni** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Il Conto Termico 3.0 premia le riqualificazioni organiche: il multi-intervento somma gli incentivi dei singoli lavori, il numero delle rate è il massimo tra le durate dei singoli interventi (con distribuzione equa dell'i…
 - **Controllo accessi** — Accessi · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Gestione ingressi: badge, RFID, QR, biometria, serrature smart.
 - **Contropareti e controsoffitti in cartongesso** — Sistemi a secco · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -305,6 +315,8 @@
   L'ambiente aggressivo della stalla: ammoniaca, umidità e deiezioni contro i materiali da costruzione.
 - **Cos'è il gusto: regole, proporzione, gerarchia visiva** — Teoria del gusto · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   Il gusto non è solo soggettività: si regge su principi riconoscibili — proporzione (sezione aurea, rapporti armonici), gerarchia visiva (cosa si vede per primo), ritmo e ripetizione, contrasto e analogia, bilanciamento d…
+- **Costi e benefici del cappotto: il conto professionale** — Economia · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  Il cappotto è l'intervento di riqualificazione con il miglior rapporto costo/beneficio disponibile in Italia: il costo completo si misura in €/m² di parete trattata e il beneficio in kWh/anno risparmiati e in comfort (te…
 - **Costi e tempi della bonifica: ordini di grandezza per il preventivo edilizio e il rischio commessa** — Economia · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   La bonifica è la voce di preventivo più incerta di un'opera di riqualificazione: i suoi costi dipendono da quantitativi, classificazione dei rifiuti, tecnologie scelte e tempi autorizzativi. L'ingegnere edile deve saper …
 - **Costi, contratti e programmazione dei lavori ferroviari** — Economia e programma · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -331,16 +343,20 @@
   Protocollo digitale dedicato al controllo dell'illuminazione professionale.
 - **Degrado del calcestruzzo: carbonatazione, cloruri e reazione alcali-aggregato** — Degrado dei materiali · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Le tre patologie chimiche principali del calcestruzzo armato: carbonatazione del copriferro, penetrazione di cloruri e reazione alcali-aggregato (ASR). L'errore tipico è trattare il sintomo (ferro arrugginito, espulsione…
+- **Demolizione selettiva e recupero degli inerti in opera** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  La demolizione selettiva e' la rimozione pianificata e separata dei materiali di un edificio (prima il rilievo delle sostanze pericolose, poi le finiture, poi gli impianti, infine la struttura) per massimizzare recupero …
 - **Demolizioni selettive e smontaggi controllati** — Demolizioni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cantiere al contrario: demolire, smontare e recuperare in sicurezza e con recupero dei materiali.
+- **Design for disassembly: progettare edifici smontabili e riutilizzabili** — Progettazione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  Il design for disassembly (DfD) e' l'approccio progettuale che rende un edificio scomponibile a fine vita o durante la vita: connessioni reversibili, strati separati per durata, componenti identificabili e accessibili, c…
 - **Design management: dirigere la creatività** — Design management · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Come si governa il processo di design in azienda: metodo, persone, tempi.
 - **Detergenti e biocidi edili** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Detergenti acidi per pulizia post-cantiere e biocidi antimuffa per finiture.
 - **Diagnosi dell'umidità: risalita capillare, condensa e infiltrazioni** — Umidità e fisica edile · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Distinzione strumentale tra le tre cause di umidità in parete (risalita capillare, condensa superficiale/interstiziale, infiltrazione), perché ognuna ha una cura diversa e quella sbagliata peggiora il danno. L'errore tip…
-- **Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2014** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
-  Il D.Lgs 102/2014 (attuazione della direttiva EED) impone: diagnosi energetica periodica alle grandi imprese e alle imprese energivore (scadenza dicembre degli anni dispari), con obbligo alternativo per piccole e medie (…
+- **Diagnosi energetica e energy manager: gli obblighi D.Lgs 102/2024** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Il D.Lgs 102/2024 (recepimento della direttiva EED 2023/1791/UE, in vigore dal 10 ottobre 2025) ha riformato gli obblighi nazionali di efficienza energetica, sostituendo il precedente D.Lgs 102/2014: diagnosi energetica …
 - **Diagnosi preliminare: rilievo stratigrafico e indagini diagnostiche** — Diagnostica preliminare · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   La diagnosi preliminare ricostruisce la storia costruttiva dell'edificio attraverso il rilievo stratigrafico delle superfici, la lettura delle discontinuità murarie e le indagini non distruttive o micro-intrusive. Prove …
 - **Dighe a contrafforti e dighe in materiali sciolti** — Tipi di diga · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
@@ -371,6 +387,8 @@
   L'impianto domotico come cervello del sistema energetico: consumi, produzione, accumulo, EV.
 - **Domotica assistiva e senior living** — Assistiva · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   La casa che aiuta: monitoraggio non invasivo di anziani, sicurezza, teleassistenza.
+- **Dove isolare: esterno, interno, intercapedine e il rischio muffa interstiziale** — Posizione isolamento · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  La posizione dell'isolamento decide funzionamento igrometrico e prezzo. Isolamento esterno (ETICS o ventilato): la struttura resta calda e traspira verso l'interno, il rischio interstiziale è basso se il muro esistente è…
 - **Dove trovare i CAD e i modelli 3D open delle opere famose** — Risorse CAD · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   La mappa dei repositori con disegni, modelli e scansioni dei capolavori del costruito.
 - **Dragaggi portuali e gestione dei sedimenti marini** — Dragaggi · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
@@ -413,6 +431,8 @@
   Blocchi in laterizio o polistirolo da interporsi tra i nervature dei solai: alleggeriscono e collaborano.
 - **Elettrificazione ferroviaria: 3 kV DC e 25 kV AC** — Elettrificazione · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Sistemi di alimentazione elettrica dei treni sulla rete italiana e sulle linee AV.
+- **Embodied carbon: l'impronta di carbonio incorporata nei materiali** — Metodo e metriche · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  L'embodied carbon e' la somma delle emissioni di gas serra legate a produzione, trasporto, posa, manutenzione e fine vita dei materiali di un edificio (moduli A, B parziali, C e D): si contrappone al carbonio operativo d…
 - **Emergenze idrauliche e alluvioni: risposta, ricostruzione e adattamento** — Alluvioni · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   La risposta alle alluvioni: soccorso, ripristino e la ricostruzione che tiene conto dell'acqua.
 - **Endoscopia, prelievi e prove con piastre piane sulle murature storiche** — Indagini sulle murature · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
@@ -499,6 +519,8 @@
   La geotermia da fluidi caldi profondi per produzione elettrica e diretta.
 - **Geotessuto** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tessuto sintetico (polipropilene/poliestere) non tessuto o intrecciato: separazione, filtrazione, rinforzo.
+- **Gestione dei rifiuti di cantiere: obblighi, documenti e trappole** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  I rifiuti di cantiere sono rifiuti speciali a tutti gli effetti: il produttore (l'impresa o il committente, secondo il caso) ne risponde dalla produzione alla destinazione finale, con documenti obbligatori e responsabili…
 - **Gestione del rischio: contrattuale, assicurativo, finanziario** — Rischio · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   L'impresa edile vive di rischi: il mestiere dell'imprenditore è selezionarli, prezzarli e assicurarli; i rischi principali: contenziosi (vizi, ritardi, varianti), infortuni e danni a terzi, insolvenze dei committenti, os…
 - **Gestione dell'emergenza: PEI, addestramento, evacuazione** — Gestione emergenza · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
@@ -595,12 +617,14 @@
   I blocchi alleggeriti in conglomerato cementizio alleggerito con argilla espansa o pomice, e i blocchi in autoclaved aerated concrete (AAC, detto gasbeton o silicato di calcio cellulare), coprono la nicchia delle muratur…
 - **I calcestruzzi del futuro: UHPC, autoriparanti, translucidi** — Calcestruzzi avanzati · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   I calcestruzzi evoluti superano i limiti del materiale classico: UHPC (Ultra High Performance Concrete: resistenze 120-200 MPa, spessori ridotti del 50%, durabilità eccezionale), autoriparanti (con batteri o capsule cura…
+- **I CAM Edilizia: criteri ambientali minimi negli appalti di lavori** — Normativa e appalti · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  I CAM (Criteri Ambientali Minimi) per l'edilizia sono i requisiti ambientali che le stazioni appaltanti devono applicare agli appalti pubblici di nuova costruzione, ristrutturazione e manutenzione: coprono il ciclo compl…
 - **I campi fotovoltaici a terra: anatomia di un impianto utility** — Utility scale · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Il campo fotovoltaico a terra (utility scale) è un vero e proprio impianto industriale: migliaia di moduli, strutture di campo, inverter, cabine elettriche, rete interna in cavidotti e un muro di confine. Capirne l'anato…
 - **I capannoni industriali: la scatola che lavora** — Capannoni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Il capannone industriale è architettura minima massimizzata: una scatola con struttura (acciaio o precast), involucro (pannelli sandwich), grandi porte e luce naturale; il progetto giusto parte dalla logistica interna (i…
 - **I certificati bianchi (TEE): l'efficienza come titolo** — Mercati · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
-  I Titoli di Efficienza Energetica (TEE, 'certificati bianchi') sono titoli negoziabili certificanti risparmi energetici quantificati: nati con l'obbligo per i distributori di energia elettrica e gas di conseguire obietti…
+  I Titoli di Efficienza Energetica (TEE, 'certificati bianchi') sono titoli negoziabili certificanti risparmi energetici quantificati: nati con i decreti interministeriali 20 luglio 2004 (elettrico e gas), che hanno posto…
 - **I collettori (maschio/femmina) e la distribuzione a pettine** — Collettori · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il cuore della distribuzione moderna: il collettore e i vantaggi del pettine.
 - **I componenti elettrici dell'impiantista: quadri, magnetotermici, differenziali** — Componenti elettrici · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
@@ -613,6 +637,8 @@
   Gran parte della manutenzione viene appaltata a ditte esterne specializzate. Il contratto di manutenzione definisce per iscritto cosa viene mantenuto, con quale frequenza, a quali condizioni economiche e con quali livell…
 - **I controlli e le sanzioni: verifiche fiscali, parametri e come prepararsi** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sul sistema dei controlli fiscali a cui è esposta l'impresa edile: verifiche della Guardia di Finanza e dell'Agenzia delle Entrate, accertamento basato su parametri, controlli formali e automatizzati, e sanzioni c…
+- **I dettagli che fanno fallire il cappotto: zoccolo, davanzali, cappelli, giunzioni** — Dettagli · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  Le patologie del cappotto nascono quasi sempre nei dettagli, non nel campo: zoccolo (spessori, protezione da urti e pioggia battente), davanzali e soglie di finestre (taglio termico e tenuta), cappello di coronamento (pr…
 - **I flussi ospedalieri: puliti, sporchi, pubblici e sanitari** — Flussi · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   L'ospedale vive di flussi separati: il paziente (pubblico → sanitario), il personale (cambio → reparto), le merci (consegna → magazzino → reparto), i rifiuti (reparto → smaltimento), i defunti (reparto → obitorio → uscit…
 - **I gas medicali: ossigeno, vuoto, aria medicale** — Gas medicali · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
@@ -637,6 +663,8 @@
   La prossima generazione di materiali 'parla': fibre ottiche e sensori integrati nel calcestruzzo e nelle strutture riportano deformazioni, temperature e umidità in tempo reale. L'edilizia diventa manutenibile in modo pre…
 - **I materiali degli infissi: legno, alluminio, PVC, acciaio, misti** — Materiali · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Il telaio del serramento si sceglie per durabilità, isolamento, manutenzione e prezzo: legno (nobile, isolante, va mantenuto ogni 4-6 anni), alluminio (sottile, resistente, ponti termici da gestire), PVC (economico, isol…
+- **I materiali isolanti: EPS, lana di roccia, XPS, sughero, fibra di legno, aerogel** — Materiali isolanti · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  L'isolante scelto decide prestazione, incendio, spessore e prezzo. Famiglie principali: EPS (polistirene espanso: economico, idrofobo trattato, Euroclasse E o migliore con fiamma ritardante), lana di roccia e lana di vet…
 - **I materiali per interni: resilienza, manutenzione, pregio** — Materiali interni · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
   Ogni materiale interno ha un profilo d'uso: resistenza all'usura, alla macchia, all'umidità, alla luce (ingiallimento), alla fiamma, e un profilo manutentivo (riparabile? sostituibile?); scegliere significa abbinare il p…
 - **I materiali riciclati avanzati: plastica, CO2, rifiuti in costruzione** — Riciclati avanzati · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
@@ -743,6 +771,8 @@
   Il capitolato (o schedule of finishes) dell'interior elenca per ogni ambiente: materiali, prodotti con marca/modello o equivalente, colori con codice, modalità di posa, standard di qualità, esclusioni; è la difesa di ent…
 - **Il capitolato speciale d'appalto: il contratto tecnico** — Strumenti contrattuali · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Il capitolato speciale d'appalto descrive le lavorazioni, i materiali, le esecuzioni e i controlli: è la parte tecnica del contratto che disciplina il 'come' di ogni voce del computo e fissa le regole di qualità.
+- **Il cappotto come cura dei ponti termici: angoli, pilastri, balconi** — Ponti termici · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  Il ponteggio termico localizzato (Ψ, W/mK) brucia il beneficio dell'isolamento: angoli, pilastri in cemento a vista, travi di balcone, cornicioni, pilastrini di cantina. Il cappotto continuo esterno è la cura più efficac…
 - **Il cartiglio: identificazione della tavola** — Cartiglio · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Il cartiglio è il riquadro identificativo in basso a destra di ogni tavola: titolo, scala, data, disegnatore/verificatore, numero tavola, riferimenti al progetto, loghi, e in edilizia il timbro del professionista abilita…
 - **Il catasto italiano: fogli, particelle, subalterni** — Catasto · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -873,6 +903,8 @@
   Il mercato immobiliare è ciclico (cicli lunghi 8-15 anni) e locale: il valore di un appartamento dipende dal micro-mercato (quartiere, città) più che dal trend nazionale; gli indicatori chiave: compravendite, prezzi nomi…
 - **Il metodo degli stati limite: la verifica SLU di base** — Verifiche SLU · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Come si confronta l'azione con la resistenza: la regola del gioco del progetto moderno.
+- **Il metodo LCA applicato all'edilizia: fasi, moduli e indicatori** — Metodo e metriche · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  La valutazione del ciclo di vita (LCA) e' il metodo standardizzato per quantificare gli impatti ambientali di un edificio o di un prodotto da costruzione dalla culla alla tomba: estrazione delle materie, trasporti, canti…
 - **Il miglioramento dei terreni: precompressione, colonne di ghiaia, jet grouting** — Miglioramento dei terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   Quando il terreno è debole ma il carico deve restare, si migliora il terreno invece di sfondarlo: precompressione con riempimenti temporanei, colonne di ghiaia, vibroflottazione, jet grouting, iniezioni e consolidamenti …
 - **Il miglioramento sismico dell'esistente: rafforzare localmente o adeguare** — Sisma · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
@@ -935,6 +967,8 @@
   Il Reddito Energetico nazionale (GSE, istituito dal D.M. MASE 8 agosto 2023, operativo dal maggio 2024) copre fino al 100% del costo di un impianto fotovoltaico da 2 a 6 kW per i nuclei con ISEE fino a 15.000 euro (30.00…
 - **Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sul regime forfettario di cui all'art. 1, commi da 54 a 89, della L. 190/2014, applicabile ai professionisti e imprenditori individuali, inclusi gli artigiani edili che operano come ditta individuale. Copre i requ…
+- **Il riciclo per filiera: acciaio, gesso, bitume, legno, calcestruzzo** — Materiali e filiere · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  Le filiere del riciclo edile hanno maturita' molto diverse: acciaio e metalli sono un ciclo chiuso consolidato, il gesso e la frazione lapidea del calcestruzzo sono a meta' strada, i misti e i compositi sono ancora un pr…
 - **Il rilievo con laser scanner e fotogrammetria** — Rilievo laser scanner · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Il rilievo moderno dell'esistente: scanner laser terrestre (LiDAR) che misura milioni di punti (nuvola di punti) o fotogrammetria da drone/foto, restituiti in piante, sezioni e modelli 3D con precisione millimetrica.
 - **Il rilievo topografico: da terreno a disegno** — Rilievi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -961,6 +995,8 @@
   Sollevare e movimentare e' meta' del lavoro di un cantiere: materiali, prefabbricati, casseforme, attrezzature. Scegliere il mezzo giusto significa dimensionarlo su tre variabili: peso, raggio orizzontale e altezza di so…
 - **Il sistema della protezione civile: ruoli, livelli e codice** — Protezione civile · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Come l'Italia organizza l'emergenza: il codice della protezione civile e la catena del comando.
+- **Il sistema ETICS a colla: gli strati e il funzionamento d'insieme** — Sistemi ETICS · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  Il cappotto ETICS (External Thermal Insulation Composite System) è un sistema a strati composto: collante di fissaggio, pannello isolante, tasselli meccanici di ancoraggio, rete di rinforzo armata con rasante, finitura (…
 - **Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda introduttiva che inquadra il carico fiscale complessivo dell'impresa edile: imposte dirette sui redditi d'impresa (IRES), imposta regionale sulle attività produttive (IRAP), imposta sul valore aggiunto (IVA) con l…
 - **Il sottotetto ventilato: la regola d'oro del tetto in legno** — Coperture inclinate · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -1029,6 +1065,8 @@
   Realizzazione di intonaci interni ed esterni a più strati (rinzaffo, arriccio, finitura). Errore tipico: applicare su supporto polveroso o troppo assorbente senza preparazione (distacchi a scaglie) e non rispettare i tem…
 - **Inverter di centrale e rete interna: dal modulo alla cabina di consegna** — Inverter e rete interna · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Dalla corrente continua dei moduli alla corrente alternata di rete: inverter, cabine di trasformazione e la rete interna in cavidotto sono il sistema nervoso del campo. La scelta tra string inverter e central inverter ca…
+- **Iperammortamento 2026-2028 e fine del ciclo Transizione 5.0** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
+  Per le imprese il ciclo Transizione 5.0 (credito d'imposta 35-45% su investimenti effettuati entro il 31/12/2025) e' chiuso ai nuovi investimenti; la L. 199/2025 (Legge di Bilancio 2026, artt. 427-436) ha reintrodotto l'…
 - **Irrigazione smart** — Irrigazione · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Irrigazione giardini e giardini pensili guidata da meteo e umidità del suolo.
 - **ISO 19650: gestione informativa dell'edificio** — ISO 19650 · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -1097,6 +1135,8 @@
   Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenzionata (l'imprenditore costruisce infrastrutture e standard in cambio delle aree edificabili), piani di recupero (edilizia consolidata), pro…
 - **L'economia del legno: costi, tempi, mercato** — Economia · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
+- **L'economia della circolarita' in cantiere: conti, mercati e barriere** — Economia · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  L'edilizia circolare regge se i conti tornano: costi evitati di discarica e di acquisto, ricavi da materiali recuperati, punteggi in gara, valore dell'asset. Le barriere sono logistiche, documentali e di mercato: conosce…
 - **L'economia di un campo FV: CAPEX, OPEX, LCOE e l'esempio del MWp** — Economia di progetto · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Il fotovoltaico a terra è un investimento finanziario: si valuta come un'impresa. CAPEX, OPEX, produzione attesa, prezzo dell'energia e sconto determinano la bancabilità. L'esempio svolto del MWp mette insieme tutto il c…
 - **L'edge computing: il data center piccolo e ovunque** — Edge e micro · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
@@ -1317,6 +1357,8 @@
   L'anatomia della macchina del futuro: refrigerazione + idronica.
 - **La portanza dei pali: punta, laterale e prove di carico** — Fondazioni profonde · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   La portanza di un palo si scompone in componente di punta (resistenza del terreno di appoggio) e attrito laterale (aderenza lungo il fusto): entrambe si stimano da indagini, correlazioni e, per le opere importanti, da pr…
+- **La posa del cappotto: superficie, colla, tasselli, rete, rasante** — Posa · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  La posa vale il 70% del cappotto: gli errori di posa sono la prima causa di crepe, distacchi e muffa. Sequenza professionale: verifica piano di posa (tolleranze della facciata), guida a filo o profili, spessore minimo e …
 - **La posa in opera della pietra naturale: malte, colle, giunti e dilatazioni** — Posa in opera · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   La posa è il momento in cui la pietra vince o perde: la malta o la colla, i giunti, le dilatazioni e la preparazione del supporto determinano la durata del rivestimento o pavimento più della qualità della lastra stessa.
 - **La posa in opera: il serramento si gioca nell'installazione** — Posa · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
@@ -1481,6 +1523,8 @@
   I quattro record mondiali della diga: altezza, produzione, volume, volume.
 - **Le discipline del modello: architettonica, strutturale, MEP** — Discipline e federazione · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Il modello dell'edificio si costruisce per discipline distinte che poi si federano: architettonico (A), strutturale (S), meccanico/impiantistico (M), elettrico (E), idraulico (P); ogni disciplina modella i propri element…
+- **Le EPD: dichiarazioni ambientali di prodotto per l'edilizia** — Prodotti e dichiarazioni · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  La EPD (Environmental Product Declaration) e' la dichiarazione ambientale di Tipo III di un prodotto da costruzione: dati LCA verificati da terza parte secondo regole di categoria (PCR), pubblicati da un program operator…
 - **Le ESCo e il contratto di servizio energetico** — Strumenti · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Le ESCo (Energy Service Company) realizzano interventi di efficienza energetica a rischio proprio: investono, misurano e verificano i risparmi, ripagandosi con una quota del beneficio ottenuto (Energy Performance Contrac…
 - **Le facciate continue: la vetrata architettonica** — Facciate continue · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
@@ -1623,6 +1667,8 @@
   Listelli di legno incollati a strati: sezioni e luci impossibili col massiccio: la struttura in legno moderna.
 - **Legno massiccio (tavole/listelli)** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tavolame segato essiccato: abete rossi, pino, larice, castagno, rovere: il materiale naturale per eccellenza.
+- **Life Cycle Costing: il costo globale dell'opera nel ciclo di vita** — Metodo e metriche · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  Il Life Cycle Costing (LCC) calcola il costo totale di un edificio o componente nel suo ciclo di vita: costruzione, energia, manutenzione, sostituzioni, fine vita, attualizzati a oggi. E' la controparte economica dell'LC…
 - **Lighting design: la scenografia della luce** — Lighting design · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Progettare la luce come si progetta una scena: strati, temperature, contrasti.
 - **Limiti, barriere e rischi della robotica edilizia** — Criticità · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1681,6 +1727,8 @@
   Un impianto di illuminazione non si mantiene da solo: sorgenti degradano, ottiche si sporcano, batterie di emergenza invecchiano. La manutenzione programmata mantiene i valori di progetto.
 - **Marcatura CE e controllo di produzione in fabbrica (FPC)** — Marcatura CE · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   UNI EN 1090: il passaporto europeo della carpenteria strutturale.
+- **Marcatura CE, DoP e classificazioni prestazionali (UNI EN 14351-1)** — Marcatura e conformità · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  Dal 2013 finestre e porte esterne devono recare la marcatura CE: il costruttore dichiara le prestazioni (Uw, permeabilità all'aria, tenuta all'acqua, resistenza al vento) in un Documento di Prestazione (DoP) che accompag…
 - **Marciapiedi, piste ciclabili e la città a 30 km/h** — Marciapiedi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   La viabilità dolce è la nuova frontiera urbana: marciapiedi continui e accessibili, piste ciclabili di qualità (protette, continue), zone 30 e isole ambientali; il principio è la gerarchia delle velocità: dove ci sono pe…
 - **Marmo e pietre naturali** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1795,6 +1843,8 @@
   Assi di legno massiccio incollate: il parquet tradizionale: pregiato e rinnovabile.
 - **Parquet prefinito** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tavole con supporto multistrato e essenza pregiata sopra: la stabilità del parquet moderno.
+- **Patologie del cappotto: crepe, alghe, distacchi, riparazioni** — Patologie · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  Le patologie tipiche del cappotto: fessurazione del rasante (posa, movimenti del supporto, caldo), macchie biologiche (alghe su finiture a nord, condensa), distacchi localizzati (colla insufficiente o supporto sporco), d…
 - **Pavimentazioni sportive indoor: parquet, resina, gomma e PVC** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Le superfici indoor per palestre devono garantire l'assorbimento degli urti, l'elasticità controllata e lo stato di superficie. Le soluzioni principali sono parquet sportivo a listoni, resine poliuretaniche autolivellant…
 - **Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
@@ -1961,8 +2011,12 @@
   Metallo rosso per tubazioni idrauliche, elettriche e lattoneria: durabilità millenaria, battericida naturale.
 - **Rappresentazione dell'architettura: disegno, rendering, realtà virtuale** — Rappresentazione · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Come si comunica il progetto: dal disegno tecnico alla realtà virtuale.
+- **Reazione al fuoco e vincoli in altezza: EPS vs lana minerale** — Antincendio · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
+  La reazione al fuoco dell'isolante vincola il progetto: lana minerale Euroclasse A1/A2 (non contribuisce), EPS con fiamma ritardante Euroclasse E (contribuisce ma si autoestinguerebbe? no: E = combustibile con gocciolame…
 - **Recupero di sottotetti e interrati: altezze, luci e pratiche** — Recupero spazi · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Recuperare il sottotetto o il seminterrato è il modo più rapido di guadagnare metri quadri senza cemento nuovo: le regole (altezze minime, luci, aerazione, accessi) decidono cosa si può fare e come si dichiara.
+- **Requisiti di legge: Legge 10 e DM requisiti minimi per gli infissi** — Prestazioni energetiche · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
+  La normativa energetica italiana (D.Lgs 192/2005, c.d. Legge 10) impone limiti di trasmittanza per i serramenti. Con il DM 26/6/2015 (requisiti minimi) il valore di riferimento per infissi in nuova costruzione è Uw ≤ 1,4…
 - **Resina epossidica** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento continuo in resina: senza fughe, chimicamente resistente: garage, laboratori, retail.
 - **Responsabilità della costruzione: vizi, decadenze e garanzie legali** — Responsabilità · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
@@ -1993,6 +2047,8 @@
   Accanto ai rischi scenografici (cadute, ribaltamenti) il cantiere edile convive con rischi insidiosi che agiscono nel tempo: l'esposizione ad amianto durante demolizioni e manutenzioni di edifici degli anni '50-'90, le a…
 - **Ritenute d'acconto e certificazioni: la catena delle ritenute nei subappalti** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sul meccanismo delle ritenute d'acconto nella filiera edile: chi versa, chi trattiene, chi certifica. Copre le ritenute sui compensi per prestazioni di lavoro autonomo e sui corrispettivi dei subappalti, le modali…
+- **Riuso dei componenti e passaporto dei materiali** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  Il riuso diretto dei componenti (travi, pavimentazioni, serramenti, sanitari, porte, controsoffitti) conserva il valore del prodotto intero invece di ridurlo a materia prima: e' il gradino piu' alto della gerarchia circo…
 - **Rivestimento ceramico pareti** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Piastrelle e gres per pareti di bagni e cucine: protezione da acqua e decorazione.
 - **Rivetto** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2105,6 +2161,8 @@
   La matematica dell'incertezza: cosa dicono davvero 5 prove su 5 campioni.
 - **Stazioni totali robotiche e laser tracker** — Strumentazione · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Strumenti geodetici a guida automatica per il posizionamento ad alta precisione.
+- **Strumenti digitali per la circolarita': BIM-LCA, EPD digitali, banche materiali** — Strumenti digitali · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
+  La circolarita' si misura sui dati: modelli BIM con attributi ambientali, EPD in formato digitale leggibile dai software, banche dati LCA e piattaforme di scambio dei materiali di recupero. Chi padroneggia la catena del …
 - **Strutture alte: torri, antenne, grattacieli** — Torri · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 - **Strutture ibride cls-acciaio e collaboranti** — Strutture ibride · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
@@ -2161,8 +2219,6 @@
   Misurare la terra: coordinate, quote, riferimenti, errori.
 - **Tracciamenti, quote e controlli geometrici** — Controlli di cantiere · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tutte le lavorazioni. Errore tipico: tracciare sugli spigoli invece che sugli assi e perdere i riferimenti al primo scavo; controllo: picchett…
-- **Transizione 5.0 e iperammortamento: il lato imprese** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
-  Per le imprese l'efficienza energetica si incentiva anche con il credito d'imposta: il Transizione 5.0 (2024-2025) è chiuso ai nuovi investimenti dal 31/12/2025; l'iperammortamento 2026 resta per beni immateriali e per l…
 - **Trasporti e sollevamento dei prefabbricati** — Trasporti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Dal cancello dello stabilimento al punto di montaggio: la logistica del pesante.
 - **Trattamenti delle pietre: idrorepellenti, ceranti, anti-macchia (e quando non trattare)** — Trattamenti · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)

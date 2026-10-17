@@ -136,7 +136,7 @@ Il quadro normativo di «Serbatoi e opere di contenimento» comprende anche:
 - A) specifiche settore acquedottistico
 - B) La progettazione secondo le norme sulle strutture provvisionali e le indicazioni dei produttori
 - C) i meccanismi seguono la Direttiva Macchine (D.Lgs 17/2010) con marcatura e valutazione del rischio
-- D) D.M. marina? Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
+- D) Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
 
 ## Domanda 16
 
@@ -153,7 +153,7 @@ Quale riferimento normativo è citato nella scheda «Le opere marittime: dighe, 
 
 - A) Normativa precast (Eurocodice 2 parte precompresso e specifiche UNI)
 - B) specifiche settore acquedottistico
-- C) D.M. marina? Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
+- C) Specifiche tecniche per le opere marittime (direttive MIT)
 - D) Eurocodice con documenti applicativi)
 
 ## Domanda 18
@@ -601,7 +601,7 @@ Per la scheda «Le opere marittime: dighe, scafi, pontili», quale di questi ele
 
 Quale riferimento normativo è citato nella scheda «Gusci, reticolari e coperture leggere a grande luce»?
 
-- A) D.M. marina? Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
+- A) Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
 - B) le prove di funzionamento e i piani di manutenzione sono obbligatori per la messa in servizio
 - C) Eurocodice 3 (acciaio), Eurocodice 2 (calcestruzzo)
 - D) Eurocodice 1 (azioni) e prassi per membrane
@@ -900,7 +900,7 @@ Quale riferimento normativo è citato nella scheda «Le tensostrutture: membrana
 
 - A) Normativa idraulica (D.Lgs 152/2006)
 - B) Il calcolo dei cavi e delle membrane secondo Eurocodice 3 (EN 1993) e le raccomandazioni del settore
-- C) D.M. marina? Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
+- C) Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
 - D) Eurocodice 1 (azioni) e prassi per membrane
 
 ## Domanda 101
@@ -1621,7 +1621,7 @@ Quale riferimento normativo è citato nella scheda «Serbatoi e opere di conteni
 - A) Normativa idraulica (D.Lgs 152/2006)
 - B) Eurocodice 3 (acciaio), Eurocodice 2 (calcestruzzo)
 - C) i meccanismi seguono la Direttiva Macchine (D.Lgs 17/2010) con marcatura e valutazione del rischio
-- D) D.M. marina? Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
+- D) Riferimento: specifiche tecniche per le opere marittime (direttive MIT), Eurocodice 7 e 8, norme corrosione
 
 ## Domanda 181
 
