@@ -1,0 +1,721 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_version": "G2-package-metadata",
+  "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+  "package": "Fondamenti_Pack",
+  "metadata_only": true,
+  "source_lot": {
+    "lot_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+    "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+    "observed_at": "2026-10-17",
+    "raw_root": "Fondamenti_Pack/raw/gutenberg",
+    "record_count": 14
+  },
+  "records": [
+    {
+      "source_record_id": "G1-001",
+      "source_kind": "public_domain_work",
+      "title": "The Nicomachean Ethics",
+      "author": "Aristotle (tr. W. D. Ross)",
+      "version_date": {
+        "value": "1925",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+        "url": "https://www.gutenberg.org/ebooks/8438"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "The Nicomachean Ethics, Aristotle (tr. W. D. Ross) (1925) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-002",
+      "source_kind": "public_domain_work",
+      "title": "Calculus Made Easy",
+      "author": "Silvanus P. Thompson",
+      "version_date": {
+        "value": "1914",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+        "url": "https://archive.org/details/in.ernet.dli.2015.94125"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Calculus Made Easy, Silvanus P. Thompson (1914) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-003",
+      "source_kind": "public_domain_work",
+      "title": "Discourse on the Method",
+      "author": "René Descartes",
+      "version_date": {
+        "value": "1637",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+        "url": "https://www.gutenberg.org/ebooks/59"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Discourse on the Method, René Descartes (1637) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-004",
+      "source_kind": "public_domain_work",
+      "title": "Relativity: The Special and General Theory",
+      "author": "Albert Einstein (tr. Robert W. Lawson)",
+      "version_date": {
+        "value": "1920",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+        "url": "https://www.gutenberg.org/ebooks/30155"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Relativity: The Special and General Theory, Albert Einstein (tr. Robert W. Lawson) (1920) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-005",
+      "source_kind": "public_domain_work",
+      "title": "The Elements of Euclid",
+      "author": "Euclid (ed. school edition)",
+      "version_date": {
+        "value": "1882",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+        "url": "https://archive.org/details/elementsofeuclid00eucl_0"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "The Elements of Euclid, Euclid (ed. school edition) (1882) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-006",
+      "source_kind": "public_domain_work",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "author": "Edwin A. Abbott",
+      "version_date": {
+        "value": "1884",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+        "url": "https://www.gutenberg.org/ebooks/201"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Flatland: A Romance of Many Dimensions, Edwin A. Abbott (1884) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-007",
+      "source_kind": "public_domain_work",
+      "title": "The Critique of Pure Reason",
+      "author": "Immanuel Kant (tr. J. M. D. Meiklejohn)",
+      "version_date": {
+        "value": "1855",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+        "url": "https://www.gutenberg.org/ebooks/4280"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "The Critique of Pure Reason, Immanuel Kant (tr. J. M. D. Meiklejohn) (1855) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-008",
+      "source_kind": "public_domain_work",
+      "title": "Elements of Chemistry",
+      "author": "Antoine Lavoisier (tr. Robert Kerr)",
+      "version_date": {
+        "value": "1790",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+        "url": "https://www.gutenberg.org/ebooks/30775"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Elements of Chemistry, Antoine Lavoisier (tr. Robert Kerr) (1790) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-009",
+      "source_kind": "public_domain_work",
+      "title": "Meditations",
+      "author": "Marcus Aurelius (tr. George Long)",
+      "version_date": {
+        "value": "1862",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+        "url": "https://www.gutenberg.org/ebooks/2680"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Meditations, Marcus Aurelius (tr. George Long) (1862) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-010",
+      "source_kind": "public_domain_work",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "author": "Isaac Newton (tr. Andrew Motte)",
+      "version_date": {
+        "value": "1729",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+        "url": "https://www.gutenberg.org/ebooks/28233"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Philosophiae Naturalis Principia Mathematica (English), Isaac Newton (tr. Andrew Motte) (1729) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-011",
+      "source_kind": "public_domain_work",
+      "title": "On the Origin of Species",
+      "author": "Charles Darwin",
+      "version_date": {
+        "value": "1859",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+        "url": "https://www.gutenberg.org/ebooks/1228"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "On the Origin of Species, Charles Darwin (1859) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-012",
+      "source_kind": "public_domain_work",
+      "title": "The Republic",
+      "author": "Plato (tr. Benjamin Jowett)",
+      "version_date": {
+        "value": "1892",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "The Republic, Plato (tr. Benjamin Jowett) (1892) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-013",
+      "source_kind": "public_domain_work",
+      "title": "The Problems of Philosophy",
+      "author": "Bertrand Russell",
+      "version_date": {
+        "value": "1912",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+        "url": "https://www.gutenberg.org/ebooks/5827"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "The Problems of Philosophy, Bertrand Russell (1912) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "source_record_id": "G1-014",
+      "source_kind": "public_domain_work",
+      "title": "Tractatus Logico-Philosophicus",
+      "author": "Ludwig Wittgenstein (tr. C. K. Ogden)",
+      "version_date": {
+        "value": "1922",
+        "kind": "publication_year",
+        "basis": "Fondamenti_Pack/parsed/classici_fondamenti.jsonl record metadata"
+      },
+      "raw_file": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "locator": {
+        "path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+        "url": "https://archive.org/details/tractatuslogicop1971witt"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+      },
+      "license": {
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]",
+        "local_statement": "Public domain (opere pubblicate prima del 1930; traduzioni antiche)"
+      },
+      "attribution": "Tractatus Logico-Philosophicus, Ludwig Wittgenstein (tr. C. K. Ogden) (1922) - public domain",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il lotto registra il file raw esistente; nessuna nuova trasformazione o copia di testo è stata applicata."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-17",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "metadata_cross_checked_against_local_manifest_and_parsed_record"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_license_terms",
+          "independent_legal_public_domain_status"
+        ]
+      },
+      "limitations": [
+        "La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    }
+  ],
+  "package_limitations": [
+    "Questo file contiene esclusivamente metadati di provenienza e non incorpora testo dei 14 file raw.",
+    "La licenza è una dichiarazione osservata nei file locali; non costituisce un parere giuridico indipendente.",
+    "La corrispondenza con il lotto G1 è verificata dal test package-level; disponibilità degli URL, termini correnti e stato giuridico indipendente restano non verificati."
+  ]
+}
