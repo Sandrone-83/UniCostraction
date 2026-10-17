@@ -1,0 +1,2702 @@
+{
+  "schema_version": "g1.v1",
+  "tool": "tools/uni_inventory_g1.py",
+  "scope": {
+    "root": ".",
+    "included": [
+      "**/COURSE.yaml",
+      "**/README.md",
+      "**/schede.jsonl",
+      "**/ESAMI/**"
+    ],
+    "excluded_directories": [
+      ".git",
+      "tests",
+      "work"
+    ],
+    "deduplicated": false,
+    "source_of_truth": "filesystem bytes in the selected checkout"
+  },
+  "evidence": {
+    "files": [
+      {
+        "path": "CAD_Library/COURSE.yaml",
+        "sha256": "637049ed88c43d40cdea5f3296972b5763ac28818268be60424eb553ebd5f256",
+        "category": "course_manifest",
+        "size_bytes": 226,
+        "signals": [],
+        "normalized_text_sha256": "99d021830746520fccb43f6a3b33f5e304599eee61a78e467d7542065d4cb251",
+        "course_title": "Disegno tecnico e dataset CAD",
+        "course_title_key": "disegno tecnico e dataset cad"
+      },
+      {
+        "path": "CAD_Library/README.md",
+        "sha256": "58f4ab9e1b829498c7e4ab83940c4912b1bbdbb3086336306c335f184c41e1be",
+        "category": "readme",
+        "size_bytes": 6577,
+        "signals": [],
+        "normalized_text_sha256": "83a7fa9bb14e2fb62194d8d19fe37ef41a0a28068f42a72698828b9814e18e3e"
+      },
+      {
+        "path": "CAD_Library/training_corpus/README.md",
+        "sha256": "aeb509feaf0cf9850fce11865926cb291da086804c57099c828799d1b59c31ff",
+        "category": "readme",
+        "size_bytes": 4881,
+        "signals": [],
+        "normalized_text_sha256": "9c8215a91760812bf8753d6ceed60755a83fd410cab821e0f55dcd0fa19e72d5"
+      },
+      {
+        "path": "Coding_Master_Pack/COURSE.yaml",
+        "sha256": "fc371231d40f8faf0993a6c64dbe8bf1835f6007f2753fba060c7b3ec35da6db",
+        "category": "course_manifest",
+        "size_bytes": 210,
+        "signals": [],
+        "normalized_text_sha256": "5d05b0618645a805f737a365ae61341614c907ed46f8274a3013965853f00ea2",
+        "course_title": "Coding — modulo 1",
+        "course_title_key": "coding — modulo 1"
+      },
+      {
+        "path": "Coding_Master_Pack/README.md",
+        "sha256": "db329c8beca6b091445b0c891a25babe2412bb857f4ef93a23cf2e7f31c35f93",
+        "category": "readme",
+        "size_bytes": 2158,
+        "signals": [],
+        "normalized_text_sha256": "5d3bc09924d77a62a27f663e70639d2a41015e895b5417e4480c54c0909742ba"
+      },
+      {
+        "path": "Coding_Master_Pack_2/COURSE.yaml",
+        "sha256": "6e36e35d788f36f89cf578becb31cf61aa50d393ae8a99b894633dcf37666e0f",
+        "category": "course_manifest",
+        "size_bytes": 210,
+        "signals": [],
+        "normalized_text_sha256": "b888d18e8c999504156e97051c7b5cf6ddb7bdbdd0c3efa59e7f7a76abc36744",
+        "course_title": "Coding — modulo 2",
+        "course_title_key": "coding — modulo 2"
+      },
+      {
+        "path": "Coding_Master_Pack_2/README.md",
+        "sha256": "f069f44a133f4a3d245e7e7a8221c0e32ceccb92bfc18e3866faea4aa40d3934",
+        "category": "readme",
+        "size_bytes": 2132,
+        "signals": [],
+        "normalized_text_sha256": "9cf9d1a679d23b143201efb148218a2c2b3e7553cff96bc3114aaaee3580e5ec"
+      },
+      {
+        "path": "Coding_Master_Pack_3/COURSE.yaml",
+        "sha256": "f4b972972c5514d9bbd071d1f452110ff899e7acab9e29561e93278d3d462a7e",
+        "category": "course_manifest",
+        "size_bytes": 210,
+        "signals": [],
+        "normalized_text_sha256": "b895ba5176d24ecb7e3a4bc9d5f73415f169440b7495b8dcafeb9be3f5aae261",
+        "course_title": "Coding — modulo 3",
+        "course_title_key": "coding — modulo 3"
+      },
+      {
+        "path": "Coding_Master_Pack_3/README.md",
+        "sha256": "c88c05875b24d85a6e273a41399ee3de3d79c1dd9f69998a888c60f49fd4a73d",
+        "category": "readme",
+        "size_bytes": 2063,
+        "signals": [],
+        "normalized_text_sha256": "0ff302b58d94f16dacc5627eff91932823dd5546bf27a8987eb47cb74f52893e"
+      },
+      {
+        "path": "Coding_Master_Pack_4/COURSE.yaml",
+        "sha256": "4e82191386c72ba2f3dfbfb885b9dbdc742032971db29a35103d563973a8d9e7",
+        "category": "course_manifest",
+        "size_bytes": 210,
+        "signals": [],
+        "normalized_text_sha256": "57fb3563eb3c54a8f177f2fdad8499d1259ebc9e2f812841e891b5257137db91",
+        "course_title": "Coding — modulo 4",
+        "course_title_key": "coding — modulo 4"
+      },
+      {
+        "path": "Coding_Master_Pack_4/README.md",
+        "sha256": "60f6ae9a0bc6c31ebe98e9595f3f8fdee37b2668119d456f48cc03fc898f474a",
+        "category": "readme",
+        "size_bytes": 1245,
+        "signals": [],
+        "normalized_text_sha256": "3074d34b5c90fd83a32a249d97b0912285f7bfc04481520f8631e9cc50eb56a9"
+      },
+      {
+        "path": "Coding_Master_Pack_5/COURSE.yaml",
+        "sha256": "2f075aae7d76a71082849b629574e473a144a5ce9149484bbc4c6473bf70aa21",
+        "category": "course_manifest",
+        "size_bytes": 210,
+        "signals": [],
+        "normalized_text_sha256": "ed50ec56b36d2eab705a723e78d87ccd3c541d0e87b6cbee426c1b625a147e8e",
+        "course_title": "Coding — modulo 5",
+        "course_title_key": "coding — modulo 5"
+      },
+      {
+        "path": "Coding_Master_Pack_5/README.md",
+        "sha256": "062c518fc221545825a8d5c4d147a51b2ca368b2392bfa7e4931d973b80ee434",
+        "category": "readme",
+        "size_bytes": 1550,
+        "signals": [],
+        "normalized_text_sha256": "c10c2c61d5609653b5fc43feab15a0745dc24801ca50115245886712e8d64799"
+      },
+      {
+        "path": "Digitale_Marketing_Pack/COURSE.yaml",
+        "sha256": "d80f884d170a0f4c3f74b91be068d5071e4360e2b0527d325861df4bea085c1a",
+        "category": "course_manifest",
+        "size_bytes": 201,
+        "signals": [],
+        "normalized_text_sha256": "d456d8351f0af81b4dcd03a9b7dca4e4969f3f9dcf184255091a010abedd00ca",
+        "course_title": "Marketing e digitale per imprese edili",
+        "course_title_key": "marketing e digitale per imprese edili"
+      },
+      {
+        "path": "Digitale_Marketing_Pack/README.md",
+        "sha256": "ab6ece135c5c805827c8bef1ea5e2cfff7d3bc14828d9fb6b330d472a0faeefc",
+        "category": "readme",
+        "size_bytes": 2598,
+        "signals": [],
+        "normalized_text_sha256": "32438a283932fef2fcfe92a8a0190af5b0c853c1636cbe62d21e6d91b7a6ca3d"
+      },
+      {
+        "path": "Edilizia_Pack/COURSE.yaml",
+        "sha256": "f0c6ba9c09b1dcbd44d7dfff0b7952b9677019422cdfa6c734e9fc83cbfbf45f",
+        "category": "course_manifest",
+        "size_bytes": 234,
+        "signals": [],
+        "normalized_text_sha256": "b3d7c32079e3d808ded86d2e6987b7e8ddb1e7a1829b97fa03c954cd01233518",
+        "course_title": "Tecnologia e costruzioni",
+        "course_title_key": "tecnologia e costruzioni"
+      },
+      {
+        "path": "Edilizia_Pack/README.md",
+        "sha256": "0b5946b7c6fc4d4f8b13458effe3aa8a967f7f521b69bdf3c20ad522c09de928",
+        "category": "readme",
+        "size_bytes": 16597,
+        "signals": [],
+        "normalized_text_sha256": "737802a7b69f7b94c6832ec0620e5ba4ba26b61088757bf475c212dd66151198"
+      },
+      {
+        "path": "Fondamenti_Pack/COURSE.yaml",
+        "sha256": "7b16a18f07d8475b45ac4e93689b90d4b1aac63b1d887e7d92fd5443eb9a39f4",
+        "category": "course_manifest",
+        "size_bytes": 175,
+        "signals": [],
+        "normalized_text_sha256": "b7eed0d5e78b04fd257b1391f24548e641800deda44c748a03c89c51f786d97b",
+        "course_title": "Fondamenti scientifici",
+        "course_title_key": "fondamenti scientifici"
+      },
+      {
+        "path": "Fondamenti_Pack/README.md",
+        "sha256": "7c735a1f1641c51db0f6275e76b7c03dbaac9ccf17c85511e0263eda0afb8064",
+        "category": "readme",
+        "size_bytes": 3024,
+        "signals": [],
+        "normalized_text_sha256": "78eb0d450b1cc110a287a0c1e21d770e3753df9e97b3c8a59be24e4cd99037c4"
+      },
+      {
+        "path": "Italia_Sistema_Pack/COURSE.yaml",
+        "sha256": "a5e7a5c84fb598e009bd1e4c147dc10243dc00d09c204d87be37f8d6cf59b036",
+        "category": "course_manifest",
+        "size_bytes": 191,
+        "signals": [],
+        "normalized_text_sha256": "a5bb256ab66f4c9849d75514c68d7169ae46389d51e1dfa0b37155ca1b102323",
+        "course_title": "Sistema Italia",
+        "course_title_key": "sistema italia"
+      },
+      {
+        "path": "Italia_Sistema_Pack/README.md",
+        "sha256": "f7e0bce01bc557432fbb21bcbfc85009ac8d94142dd45ca3203379397e7050da",
+        "category": "readme",
+        "size_bytes": 2151,
+        "signals": [],
+        "normalized_text_sha256": "1048d7b912bf0e9ded0d03c942535e48e3d1b0015d2a1bc120ab2ccba00e6703"
+      },
+      {
+        "path": "MATERIALEDILE_PACK/COURSE.yaml",
+        "sha256": "0e44327a8956b84b263603bebced99040fc7e5430b37d2ffeafac2ef0d90a5d3",
+        "category": "course_manifest",
+        "size_bytes": 216,
+        "signals": [],
+        "normalized_text_sha256": "63280b09620878ba0dbaa9307d4780e4d1cab4b7fdac0cd9a5e137f29a6b1d29",
+        "course_title": "Materiali da costruzione",
+        "course_title_key": "materiali da costruzione"
+      },
+      {
+        "path": "MATERIALEDILE_PACK/README.md",
+        "sha256": "c026f3def1b13bee67c5221823aad3e7dbfb91d3de5a20312d0473dd06ac0add",
+        "category": "readme",
+        "size_bytes": 2599,
+        "signals": [],
+        "normalized_text_sha256": "b845c4d37edb0a8ae1ef5917254e01dc7309a5618d833b4e1ca41cae8b4bf451"
+      },
+      {
+        "path": "README.md",
+        "sha256": "7848b7e0a397b0394b300445e1a570edad9d722ed7e5e9ed30ddbf8ba068a73b",
+        "category": "readme",
+        "size_bytes": 439,
+        "signals": [],
+        "normalized_text_sha256": "20a96f58fb5e613533f0d6299863acebc42eec0fe47f101baf873fd5a0af8194"
+      },
+      {
+        "path": "Storia_Pack/COURSE.yaml",
+        "sha256": "24e7165eaa5f9fbc208b7e8b7ad232dc076d63f3c9e6145d8462abb34551f814",
+        "category": "course_manifest",
+        "size_bytes": 206,
+        "signals": [],
+        "normalized_text_sha256": "e7d79d06291205305b46721a9780c10f2ca5aca781b621880f08fdecdc7cd93e",
+        "course_title": "Storia dell'edilizia e architettura",
+        "course_title_key": "storia dell'edilizia e architettura"
+      },
+      {
+        "path": "Storia_Pack/README.md",
+        "sha256": "39e73a292286221b84ec8ec79536594a4c0723a15a02f4d8fd6a0e04a71ac1c4",
+        "category": "readme",
+        "size_bytes": 2302,
+        "signals": [],
+        "normalized_text_sha256": "fd932ae0d0ce99d3597ad50c08c27c28e646b25634a6f3e9ab6dbe4a89e67c36"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/COURSE.yaml",
+        "sha256": "a4904d0d782281a00ebb0bce732e5568fe85ab157649acaa761796fae0fdb8b7",
+        "category": "course_manifest",
+        "size_bytes": 658,
+        "signals": [],
+        "normalized_text_sha256": "39b3302dac28382f2a4ee16595bec207cacf96e2e81107cfe28e1a0bf576334f",
+        "course_title": "Acustica edilizia",
+        "course_title_key": "acustica edilizia"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/schede/schede.jsonl",
+        "sha256": "0c2152b2ef56d49d93c484569167bffb3f7d5901be90a4a8791b99a85efdb5a3",
+        "category": "course_cards",
+        "size_bytes": 31254,
+        "signals": [],
+        "normalized_text_sha256": "646f6826a21c61c4148d14be949ba1748eaa89a0ab9dbdde8739c96ada5451fc"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+        "sha256": "61e93f15e657a80dee0f38428de8393e4449ffbfcb9762f79b24e22c5a6d611c",
+        "category": "course_manifest",
+        "size_bytes": 337,
+        "signals": [],
+        "normalized_text_sha256": "cd4b7e4852773b8ba87c3281b3d2bcdc26ff9f9c94c9d0eda8a17ed3bae751b2",
+        "course_title": "Aeroporti e infrastrutture di volo",
+        "course_title_key": "aeroporti e infrastrutture di volo"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/README.md",
+        "sha256": "a258c2c27d22ed96825b715c308691b11de7f972ad9c445846b3086062467757",
+        "category": "readme",
+        "size_bytes": 530,
+        "signals": [],
+        "normalized_text_sha256": "cc94c6f7f5b646326b62a3ad91adfe06e0e1b769154e260a70082e0b6ca26998"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/schede/schede.jsonl",
+        "sha256": "82a33fc2db6884650812bebc0e22442804d196aac3a05af3579e4b328915023e",
+        "category": "course_cards",
+        "size_bytes": 21751,
+        "signals": [],
+        "normalized_text_sha256": "c839d1aa89234fd6032dc1de0c9e86c0833baca5702a8f7205121f60f3fa7eaa"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/COURSE.yaml",
+        "sha256": "8278ea21e41bb63efaf1eaf8b7104f9f87ad00908a052e54fd64ad25e475d23e",
+        "category": "course_manifest",
+        "size_bytes": 276,
+        "signals": [],
+        "normalized_text_sha256": "9d52b8cbe2be855b830f7878a7d5fde583aec210cbe96c5189a146138f5b799d",
+        "course_title": "Architettura",
+        "course_title_key": "architettura"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/README.md",
+        "sha256": "8210e3199f7b30dad9ad8ae9016259d0d209e6797a26ecb6e70407d80abd6887",
+        "category": "readme",
+        "size_bytes": 131,
+        "signals": [],
+        "normalized_text_sha256": "e3ca7ee4f4379382c48dd5c53377b7ee7848e3455f644cd34cefd7ce4d44f437"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/schede/schede.jsonl",
+        "sha256": "6ee2d46b95e2dc2180a6e771fc06473b8bad7dc39fe57563da6e49ff8af96b0a",
+        "category": "course_cards",
+        "size_bytes": 16890,
+        "signals": [],
+        "normalized_text_sha256": "c697a77d00437a31a1cc3581999dc59a3c79bbcf6fa774802ff1e003fee14c02"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/COURSE.yaml",
+        "sha256": "d901b55fd6b5ef464a7fec00cb207c73992823f705df3ede0e2dd110b3ac3a47",
+        "category": "course_manifest",
+        "size_bytes": 315,
+        "signals": [],
+        "normalized_text_sha256": "5a5044c4e9b9d0924673dbedcd23a69f812d1f7e7a9d64e3deea1a71d5dfface",
+        "course_title": "Ascensori e movimentazione verticale",
+        "course_title_key": "ascensori e movimentazione verticale"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/README.md",
+        "sha256": "6cdaf1fe3e9c9acbd14483b59b59e75511167cec29a778a93e44dae54fa2ae74",
+        "category": "readme",
+        "size_bytes": 1071,
+        "signals": [],
+        "normalized_text_sha256": "15082cedd002f008899a3a81f46a5e16469a1a3da009d3367acbea58f1f853e2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/schede/schede.jsonl",
+        "sha256": "fa9646c1915d15b8996ff0de61fff236e41cb965d874495cd16e929b029baea3",
+        "category": "course_cards",
+        "size_bytes": 24244,
+        "signals": [],
+        "normalized_text_sha256": "385c5cdc330112070453d7905c5beaad722f9d7b7a316201e1f396876aa9521a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/COURSE.yaml",
+        "sha256": "8af914b3a0d0d240ec033c7d0fbc8c4a996879ad1282321b427cb28f9debb665",
+        "category": "course_manifest",
+        "size_bytes": 310,
+        "signals": [],
+        "normalized_text_sha256": "08a7c7633a9c534e13e8c1574636667a4c96c01767b5f4cec2bc4158a76bce4a",
+        "course_title": "Bonifica siti ambientali per l'edilizia",
+        "course_title_key": "bonifica siti ambientali per l'edilizia"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/README.md",
+        "sha256": "1cfc72f55424ab73330312776b6e59dd78f6a3c737971cae5926a3e3d9913b26",
+        "category": "readme",
+        "size_bytes": 1944,
+        "signals": [],
+        "normalized_text_sha256": "b0b690ee46ddcb144e31000f68468d11efda59130e229558fc539b7c5f1ea08c"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/schede/schede.jsonl",
+        "sha256": "e530841136eee34ffc91f64e88374a695456e5a16f1552ba1ff7b3fb5de5e29f",
+        "category": "course_cards",
+        "size_bytes": 38779,
+        "signals": [],
+        "normalized_text_sha256": "91f1f41c57b48519e1457486ab989486fb63a235e0e07663170af58ee8d40ef6"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/COURSE.yaml",
+        "sha256": "546cf4d7a9dcc1b0ad60d4a06f35ecce7a9bb5fb7bc9c56467612895561f18e2",
+        "category": "course_manifest",
+        "size_bytes": 298,
+        "signals": [],
+        "normalized_text_sha256": "8736cd5ffbaea6fb71ba28581391b73f0d3816c230f5958f32ef4a3e0c026cae",
+        "course_title": "Progettazione digitale CAD e BIM",
+        "course_title_key": "progettazione digitale cad e bim"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/README.md",
+        "sha256": "ca67a705995b789623eb47ac09310ba870f3611eeaa10c8dd7a05f599193d918",
+        "category": "readme",
+        "size_bytes": 1215,
+        "signals": [],
+        "normalized_text_sha256": "a8b3ed43d40c4851eb17e66fd42bc7c3016a718c6287c80342bf0de1b2aabc7d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/schede/schede.jsonl",
+        "sha256": "1a0acf07d3251bfe5d258de968acf72e347d7cc0983191e5f218d19b558e3b26",
+        "category": "course_cards",
+        "size_bytes": 21728,
+        "signals": [],
+        "normalized_text_sha256": "cfbd4f37d43bc408fa8473e8b7e8c355df6214d6544c1ad2836e96f35a566213"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/COURSE.yaml",
+        "sha256": "d1a362d2abd03c65b3d953d066a043ab6d416ab2dfbd818e1508619a627477da",
+        "category": "course_manifest",
+        "size_bytes": 293,
+        "signals": [],
+        "normalized_text_sha256": "e9f0da9f760b3ea0e165ddfe5d7c421c73b82a1c059b7458c5d8f830dab6efde",
+        "course_title": "Capolavori e storia delle opere",
+        "course_title_key": "capolavori e storia delle opere"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/README.md",
+        "sha256": "d6949cf45e556d309e50417d04c234872a3fba1c4c47c1096298037d77dd62aa",
+        "category": "readme",
+        "size_bytes": 192,
+        "signals": [],
+        "normalized_text_sha256": "e627391e495ace4b7b1372a00916ac600f641e08498092d985dfc4383878698f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/schede/schede.jsonl",
+        "sha256": "bb2306f84382682db55bdc63a8c78571bd7fd0250bc3aa8f17db85344e9daec8",
+        "category": "course_cards",
+        "size_bytes": 29523,
+        "signals": [],
+        "normalized_text_sha256": "c680d8385d6ceac0c834c93435d4148c4aa2c4e92cd1e0edee38a377ffa80ee2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/COURSE.yaml",
+        "sha256": "387842a9e62b8e21142b4644eb0d7efc592a6b273ca3178b7fd604240486be71",
+        "category": "course_manifest",
+        "size_bytes": 341,
+        "signals": [],
+        "normalized_text_sha256": "f0dedc60a9fec7db74a3cf16d83accac38578d8862f769ace557b672d327d7ca",
+        "course_title": "Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie",
+        "course_title_key": "isolamento termico a cappotto (etics): materiali, sistemi, posa e patologie"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/README.md",
+        "sha256": "bceeb04c591d1a3fff0fc252f1621267c47b37008e9023966cedaf6ed924d9b7",
+        "category": "readme",
+        "size_bytes": 777,
+        "signals": [],
+        "normalized_text_sha256": "10f4fcef455cd99bd54d51276f5016dcc31e82631e9346941d731c5175ba35eb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/schede/schede.jsonl",
+        "sha256": "39ac3be13ac7e1461e222141f4e4d488bffcec5a7fab8ff1d9e7c171a8245d4a",
+        "category": "course_cards",
+        "size_bytes": 27278,
+        "signals": [],
+        "normalized_text_sha256": "6a61174aae0358b7262359bc330ace838ff2a0c80b3a3709fa2cdd8bd20a7c39"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/COURSE.yaml",
+        "sha256": "0d9e6d44d96e033bce5b09a03d7bc73e0af7a6cb99981037828034b893993637",
+        "category": "course_manifest",
+        "size_bytes": 266,
+        "signals": [],
+        "normalized_text_sha256": "c91d15bc8ba4f5c22b91309b4d5dc0bff0a674d06c7f128946afab44a9057be8",
+        "course_title": "Carpenteria metallica e acciaio",
+        "course_title_key": "carpenteria metallica e acciaio"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/README.md",
+        "sha256": "bacac03711dbb62f4e92c9282b05e893925c5a713b963a48de75cec5aa9fbbcc",
+        "category": "readme",
+        "size_bytes": 393,
+        "signals": [],
+        "normalized_text_sha256": "52f55351e4b513261c34e7b0810d5c01ca17e0bbacb240aa25a66992b667c645"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/schede/schede.jsonl",
+        "sha256": "947d3f469030b21b783277d1f8d87e2a9f27706a626b4fc0bbce492132135a72",
+        "category": "course_cards",
+        "size_bytes": 21652,
+        "signals": [],
+        "normalized_text_sha256": "76d778bcb7d90fde4b0aabe3d14300886fa024b8278e9ac24cf9ef7a14e2956a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/COURSE.yaml",
+        "sha256": "da75b576760e602dcd89b8d22341c76e447ef9a376ea4e21fc264fc2dc68759b",
+        "category": "course_manifest",
+        "size_bytes": 670,
+        "signals": [],
+        "normalized_text_sha256": "51f99eb7db094d4f4123e2c83e751bd8b6bbf2ea55589e0690354fc954aa4188",
+        "course_title": "Contabilità, computo e appalti dei lavori",
+        "course_title_key": "contabilità, computo e appalti dei lavori"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/schede/schede.jsonl",
+        "sha256": "0642999ccd9f34a4301063585e0fa469b2e9af634670c2304727ba5297ed6962",
+        "category": "course_cards",
+        "size_bytes": 29834,
+        "signals": [],
+        "normalized_text_sha256": "e3cdcec4d987b800ec74e3fccf0bd50d00c454af2c66e6cf86bb380de0b2bda8"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/COURSE.yaml",
+        "sha256": "5b3acece2550a0e952515a2801bd61ed018cdf65a124749c89e4d160253a6817",
+        "category": "course_manifest",
+        "size_bytes": 270,
+        "signals": [],
+        "normalized_text_sha256": "db3bf11447bfb334fe07c62e0abfccdf1476419754df4ad9566f5e8a51116ecd",
+        "course_title": "Costruire in legno",
+        "course_title_key": "costruire in legno"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/README.md",
+        "sha256": "499bca7a0ea5cf0e0635667214a84db6e352c02e63940c7e3bfdd50b00d5cc6f",
+        "category": "readme",
+        "size_bytes": 1074,
+        "signals": [],
+        "normalized_text_sha256": "4ad78c2f0fce9ae63ece64dcdc921f59cc71386cc0d1dc713554d6e73f991b75"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/schede/schede.jsonl",
+        "sha256": "690d4e698172429af75753e16ea4b9f86b92e972a62dbca54fafc58bf7e7a017",
+        "category": "course_cards",
+        "size_bytes": 26981,
+        "signals": [],
+        "normalized_text_sha256": "6cbd15fb7a24df0fa39630942e13447c482129209dbb0353a2548214e29b92f1"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/COURSE.yaml",
+        "sha256": "93668fe6c616c578272f900ad2af340d521378fd1d8e2b9dc1438f9972a4a133",
+        "category": "course_manifest",
+        "size_bytes": 293,
+        "signals": [],
+        "normalized_text_sha256": "275763d017a29f1764a21ddd985ef40d3a9924f7e8ded5a96fb0fbeb9ee1903f",
+        "course_title": "Costruzioni speciali e opere d'ingegneria",
+        "course_title_key": "costruzioni speciali e opere d'ingegneria"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/README.md",
+        "sha256": "79cf1f91026e0bbe6cf97919c811795d42f0c30f89440abdd55361e868fa1039",
+        "category": "readme",
+        "size_bytes": 994,
+        "signals": [],
+        "normalized_text_sha256": "87e2449abac4e7ecf2297bc33e84ae6f224001edec28f0725bf7fec86f24f436"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/schede/schede.jsonl",
+        "sha256": "0797b83bcb4b306fecf58ab4d8da196219b3dcbe6246cd0360524dab20ea5f59",
+        "category": "course_cards",
+        "size_bytes": 26949,
+        "signals": [],
+        "normalized_text_sha256": "f7e871db3cce5ba8f68e43d1bcbd3f276f175b82370c02f54c889ceb7a467d44"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/COURSE.yaml",
+        "sha256": "f6a58415e7209849900e0c260922b922d6a0081924ccc36165ad7c482358f342",
+        "category": "course_manifest",
+        "size_bytes": 291,
+        "signals": [],
+        "normalized_text_sha256": "2b5d799ed201dd378a7f3ed24754277da476dae7fe696c4460980621e4a64607",
+        "course_title": "Data center e critical facilities",
+        "course_title_key": "data center e critical facilities"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/README.md",
+        "sha256": "9685295827073d8676e5421a5aea6df9644d3992db2a40fafaeecacbf9cad1fe",
+        "category": "readme",
+        "size_bytes": 1078,
+        "signals": [],
+        "normalized_text_sha256": "2fb7cc50192b0eddb0bd12d5a77b898774e1285b290960d8d86f20ca8f4cf9d5"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/schede/schede.jsonl",
+        "sha256": "84e6cf0950fdd6ce2030be5500f6404af09e2e974d19a3b8b44fc9b5ee1bbd0e",
+        "category": "course_cards",
+        "size_bytes": 26425,
+        "signals": [],
+        "normalized_text_sha256": "a3695bb7bc5a37378948d7e75af09557f0f61d41f752e2adec4922f5e00365f8"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/COURSE.yaml",
+        "sha256": "b05ad0b2b0da92a0bc2e6794d0372655bf3f4398549fb64f359659f1d38db219",
+        "category": "course_manifest",
+        "size_bytes": 299,
+        "signals": [],
+        "normalized_text_sha256": "ed277d3d104b5e6c29211ecb0ddab9e4f5b4e7a9940bbf2741c8e350d0c936c1",
+        "course_title": "Design, gusto e tendenze dell'edilizia",
+        "course_title_key": "design, gusto e tendenze dell'edilizia"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/README.md",
+        "sha256": "5b8bd0c385fcfc1c82e84c0fb98be5bf6374261ae0d8da76da8c96b43dd53d25",
+        "category": "readme",
+        "size_bytes": 1294,
+        "signals": [],
+        "normalized_text_sha256": "3929f09b0f47f3e721b5df3cf77dd470933213a26064d94f4acc3c4c536b3753"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/schede/schede.jsonl",
+        "sha256": "f28529a8de42dbf1a2eea0ce4d90ed9f19708d1f64052c5b44097212acec66da",
+        "category": "course_cards",
+        "size_bytes": 22024,
+        "signals": [],
+        "normalized_text_sha256": "9cff3436968b8e3ed6a6ca66b7c25a5ebf33349a7ffa1cfdb6e03a521d346ccb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/COURSE.yaml",
+        "sha256": "6991c767d72ed91dc35132f3382967dd35a4678d9e03342bd2dc01d5ccb6a873",
+        "category": "course_manifest",
+        "size_bytes": 343,
+        "signals": [],
+        "normalized_text_sha256": "c505321d99b0837ee0d0fd946cc494346bc6e8dde555365b116f2a49cba86692",
+        "course_title": "Dighe e sistemazioni idrauliche",
+        "course_title_key": "dighe e sistemazioni idrauliche"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/README.md",
+        "sha256": "cde794fab809dc17bddc5be797a55725e261d0c7d513bffad8ac1b822d3ff6fc",
+        "category": "readme",
+        "size_bytes": 486,
+        "signals": [],
+        "normalized_text_sha256": "f6f06ef360784a3fd34856a85f142a051c245d990cfe13148f3280991cdc44fb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/schede/schede.jsonl",
+        "sha256": "c3609359a5dfe985abb96dc48cb32fb72f6869f554795eef79de721886ec4e5e",
+        "category": "course_cards",
+        "size_bytes": 25729,
+        "signals": [],
+        "normalized_text_sha256": "9b06117d7734e093fbe029885cde665fca3af5359498f3626ecc49b2d77ed016"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/COURSE.yaml",
+        "sha256": "67016a9dac34262c833a98a5fbc8e9ae26c0a1ffe482981ed104a350c942360a",
+        "category": "course_manifest",
+        "size_bytes": 308,
+        "signals": [],
+        "normalized_text_sha256": "6e7a97efa1efe2b01febbc689cc9eabdaa7f654be6f4bfd8fd3915c334919215",
+        "course_title": "Dimensionamento di fotovoltaico, eolico e accumulo",
+        "course_title_key": "dimensionamento di fotovoltaico, eolico e accumulo"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/README.md",
+        "sha256": "e6ac4f001b39ed4366753d30d718bf0704d0604c6435abb026f3df3d594dbcec",
+        "category": "readme",
+        "size_bytes": 198,
+        "signals": [],
+        "normalized_text_sha256": "6dbd3c060315ff34b886139aade74ded0e513594617e9758bf18ea3451e677c2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/schede/schede.jsonl",
+        "sha256": "b12ffcca2922fbe617a42c6d5613157daceb2d915eb889783a226443f9dc914e",
+        "category": "course_cards",
+        "size_bytes": 14348,
+        "signals": [],
+        "normalized_text_sha256": "98ee01a0ad4457dae9f55b901890f6685eb82f71e56346570afc94154a979813"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/COURSE.yaml",
+        "sha256": "1d4b4d33043b5e19584d2b131613d8e8e2df39a8ee951c9a680fb2107832cf43",
+        "category": "course_manifest",
+        "size_bytes": 301,
+        "signals": [],
+        "normalized_text_sha256": "1e60752884b25af8ff998186a4970e92e5810bcfb5b4b4c89277daccc68859f0",
+        "course_title": "Dimensionamento degli impianti termotecnici",
+        "course_title_key": "dimensionamento degli impianti termotecnici"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/README.md",
+        "sha256": "14d5ca7950b52eb1012857b9d06f4157ef9361b047a5af252eb7930ae8d22f3e",
+        "category": "readme",
+        "size_bytes": 203,
+        "signals": [],
+        "normalized_text_sha256": "1c8b8059850b56d07b452ff505b1eb673ab335cd5187803ff392cc3a389ade0d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/schede/schede.jsonl",
+        "sha256": "7e15855fe0fed3112399d555db325e7d4a5937397ba89f12cf15cde3925dbabd",
+        "category": "course_cards",
+        "size_bytes": 32874,
+        "signals": [],
+        "normalized_text_sha256": "8e5e44769242b517c70972471a3e4f64eca9cfbad8c991c124f4cb327ef1872d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/COURSE.yaml",
+        "sha256": "2de01f7d2949d38c1d91fcd2b973c1b58d08993e1535b1e7a875a4c05d2b1229",
+        "category": "course_manifest",
+        "size_bytes": 291,
+        "signals": [],
+        "normalized_text_sha256": "a3c691ba20b96a6047d43d94235cf34a73b25a6c1e6a4058ba8c2835e586b644",
+        "course_title": "Disegno tecnico e rappresentazione",
+        "course_title_key": "disegno tecnico e rappresentazione"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/README.md",
+        "sha256": "d94a7ba1a1c7d76cb00e33e142eae5fe2e8f5f4ae086aa88773a15448fc052be",
+        "category": "readme",
+        "size_bytes": 1257,
+        "signals": [],
+        "normalized_text_sha256": "aa80f2d33d966bb42120a7432fa9ba6e6a0581526b3b6d0041180f1c9ae19023"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/schede/schede.jsonl",
+        "sha256": "9256056b7eb6abf981e5e6ccd7f176287bbce0d215f2a0546dd81545d4e920f6",
+        "category": "course_cards",
+        "size_bytes": 24280,
+        "signals": [],
+        "normalized_text_sha256": "cbc4c42db98b56406f038edf29e7c541098079fb780399aa3b3683a76b982756"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/COURSE.yaml",
+        "sha256": "c1ec1af8c517b10120a2066fc11bbdf30c3f4117f9df81b102db627c6baf32f9",
+        "category": "course_manifest",
+        "size_bytes": 223,
+        "signals": [],
+        "normalized_text_sha256": "c22321a74e987f8174a49ad3c0378a0bd0c1762626bd94a8e4c92db37220060a",
+        "course_title": "Domotica e building automation",
+        "course_title_key": "domotica e building automation"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/README.md",
+        "sha256": "b9cba2fc56c0ed1786f24a607a6cbd53ee01429d5fca9398c7248bbb4dfe4f81",
+        "category": "readme",
+        "size_bytes": 217,
+        "signals": [],
+        "normalized_text_sha256": "89f0d5e6604ce7295d5777da6b0bc32ee0f5de90ef47f1dae866e30e9617ca1a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/schede/schede.jsonl",
+        "sha256": "21dca0a49e40186b668429e28d0fee5b20be2c65e667da70d8bb60342d25e6af",
+        "category": "course_cards",
+        "size_bytes": 27057,
+        "signals": [],
+        "normalized_text_sha256": "df684873981483b71e1fc32cf315a2d71989462997777383260179087272bdda"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/COURSE.yaml",
+        "sha256": "ca0789afb9ff3a4ba8c3ff9963b6417273817d785ddbf78077fa918cebfb4632",
+        "category": "course_manifest",
+        "size_bytes": 301,
+        "signals": [],
+        "normalized_text_sha256": "b6984fa14be07f733b02c086e1be85482c664d9941326f3173bfa6af2222ab12",
+        "course_title": "Edilizia agricola e zootecnica",
+        "course_title_key": "edilizia agricola e zootecnica"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/README.md",
+        "sha256": "257a605599314e4402cad870cdc2a6436bc831e7581d288903517b64bb235a37",
+        "category": "readme",
+        "size_bytes": 431,
+        "signals": [],
+        "normalized_text_sha256": "a50e8eabcb2d20760988a16844089a1d0f2503a96cb9a170d9092988692402ea"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/schede/schede.jsonl",
+        "sha256": "09f25eada1bbf23b0275ce459dc0dc74fdd4ca380c13b2e267be29c00165ad94",
+        "category": "course_cards",
+        "size_bytes": 24230,
+        "signals": [],
+        "normalized_text_sha256": "dde424e01e48e7c3e96cc166b0b3dbebd15ab97096de85252c8c3697cdb959bf"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/COURSE.yaml",
+        "sha256": "01a09bd006c6099156f1f0e126aacb5f8a829ce351cdbc4e8583708499dd6a61",
+        "category": "course_manifest",
+        "size_bytes": 1118,
+        "signals": [],
+        "normalized_text_sha256": "79186cd7c594a48105eafd1d8f95e9bfc9b0dcb5875cc08c9e37139a0ed91095",
+        "course_title": "Edilizia circolare e LCA",
+        "course_title_key": "edilizia circolare e lca"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/README.md",
+        "sha256": "124e0cc15098fc77fd4c14ab4391070bc4604e0c9ee8ab8bce1904a92ad045ed",
+        "category": "readme",
+        "size_bytes": 962,
+        "signals": [],
+        "normalized_text_sha256": "a99016467fcd7e0871991b5d3ede2e175541dc7e2a8d5745623cd1dc8df2c7bd"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/schede/schede.jsonl",
+        "sha256": "d6ef3d5e7dbf122f6c0c4d44f354698efeeef7474e613522171b2b9ab6160cc8",
+        "category": "course_cards",
+        "size_bytes": 41072,
+        "signals": [],
+        "normalized_text_sha256": "0de1f4de1bf3a50ca78f963b202da0068320ccf47e4e3195084c909aab4e8bea"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/COURSE.yaml",
+        "sha256": "3a3d49bf7d0ecd9d087a4a61e01cc4f0b9aaa743bc5e74e3898680fa81758415",
+        "category": "course_manifest",
+        "size_bytes": 284,
+        "signals": [],
+        "normalized_text_sha256": "98967051730d3318da97dbc314fcd4bd38f902d835896f9c4074e6d3145466fe",
+        "course_title": "Edilizia industriale e logistica",
+        "course_title_key": "edilizia industriale e logistica"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/README.md",
+        "sha256": "76fa70224e9095da3c956076444f2a57a918d3ff6389e062e34d420d67bb1c8f",
+        "category": "readme",
+        "size_bytes": 1141,
+        "signals": [],
+        "normalized_text_sha256": "2c4614c0ac280f48716e38935874458cd6b80c40b2701d85ef9c229543456254"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/schede/schede.jsonl",
+        "sha256": "316973485a08498c81cbb2ad2d92ce0d863d0ddf463855408b4f682693448e2b",
+        "category": "course_cards",
+        "size_bytes": 25147,
+        "signals": [],
+        "normalized_text_sha256": "efafa16de3c46a3420ed9c8ddf3e829eb23aa85dcd48cff8645fa72f4e13b68c"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/COURSE.yaml",
+        "sha256": "b71b2978b6cc00d1f19d59fd4c53374d33545e69b2f6f64feca4d4b4c40cb597",
+        "category": "course_manifest",
+        "size_bytes": 306,
+        "signals": [],
+        "normalized_text_sha256": "2f35c9b6f5695969d9cc6549a9c77f12e2fc8a80e11ca08259c5f4f3e2e6592e",
+        "course_title": "Edilizia scolastica tecnica",
+        "course_title_key": "edilizia scolastica tecnica"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/README.md",
+        "sha256": "d6e0dd3d74fb4090c4d4d098d84271f81609aa9882293aca7fdee7f7e7169d86",
+        "category": "readme",
+        "size_bytes": 1325,
+        "signals": [],
+        "normalized_text_sha256": "5c56b99086ecc407ee1b2014cdb9d2d2b32efc8a5222ed7fab5cece3715a3dc7"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/schede/schede.jsonl",
+        "sha256": "e504781ff1e18d1186b035a9f9f3be9ae31f31be3e2930f9517c0205ce86b144",
+        "category": "course_cards",
+        "size_bytes": 77846,
+        "signals": [],
+        "normalized_text_sha256": "fda6e156bb65e5af798cb2c922e5fc58f96aa0b1be047f65fa50a8dc20d5694f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/COURSE.yaml",
+        "sha256": "7a1d7d38aa739f3695907776cd87d999cfcb9d2c3ed693cb3fa88192e25ecab6",
+        "category": "course_manifest",
+        "size_bytes": 344,
+        "signals": [],
+        "normalized_text_sha256": "1af4fe2b7566210d4e959e91f31ea20078b8b28568a411eb9ca1ef5ab39e3f8a",
+        "course_title": "Emergenze e ricostruzione post-sisma",
+        "course_title_key": "emergenze e ricostruzione post-sisma"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/README.md",
+        "sha256": "f8560a2bee436ed0d1358beb6bd6fcacff017e756c0eff1d920adcbe10ac5e22",
+        "category": "readme",
+        "size_bytes": 553,
+        "signals": [],
+        "normalized_text_sha256": "94371aafe27b44ee57e96e3f7388a56e0f0d8304570be47a7894c5f0d9b660b4"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/schede/schede.jsonl",
+        "sha256": "961ed33e696e4ea29e567e062420d5d3b864e44d1d66de846ed85caf04ce3d3c",
+        "category": "course_cards",
+        "size_bytes": 24035,
+        "signals": [],
+        "normalized_text_sha256": "68f97bb08e60e076d3f233b3092dace8ebdf3734dff923ea22e9deb7dff143b4"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/COURSE.yaml",
+        "sha256": "2d4dff461458fb39528fb0e4c2cf11e37d432b585af9e6f4f0035717fb90e0f4",
+        "category": "course_manifest",
+        "size_bytes": 756,
+        "signals": [],
+        "normalized_text_sha256": "d11521c58a5e008bd96ab8f5222e6d6111f25f289eb206e3eb9f763d4f184f54",
+        "course_title": "Energetica edilizia e incentivi",
+        "course_title_key": "energetica edilizia e incentivi"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/README.md",
+        "sha256": "e588842b917985941539711506f95143046e4c28023281b1e36ee2f9efb2ed57",
+        "category": "readme",
+        "size_bytes": 257,
+        "signals": [],
+        "normalized_text_sha256": "ddd7e24f138e07fd5471f4d49a4ee4b38095f4c885094000177cf276d5aa4fd8"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/schede/schede.jsonl",
+        "sha256": "a64d49757e5f72f9eda8a9687a441b4a5c4df742f8ce4d20d2d9b80aa7a90d14",
+        "category": "course_cards",
+        "size_bytes": 64830,
+        "signals": [],
+        "normalized_text_sha256": "b0cde20e182c54037cfa32bfedbfc98bf58c3d4c21922c607737de6a6988943a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/ACUSTICA/domande.md",
+        "sha256": "62adc576fa153ad830c81833251d2e184e232bb022e5d9aafc927a1745265a30",
+        "category": "exam_questions",
+        "size_bytes": 136909,
+        "signals": [],
+        "normalized_text_sha256": "8b70e38e37eabeb744dd91ff4d6187e67459bbc2305860ccb48b384c52c75c12"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/AEROPORTI/domande.md",
+        "sha256": "e846d9e57b47205efc3cce884f83127bb9b7153da238ef60e82a372062b6751b",
+        "category": "exam_questions",
+        "size_bytes": 131181,
+        "signals": [],
+        "normalized_text_sha256": "5c0ce9635007b46bfefc33e5d6ad59945b7ab93f7aa321427aa998d44f4b51ba"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/ARCHITETTURA/domande.md",
+        "sha256": "12b57ee32cc7ad7d1ff2e1268bbdf1fb8eb17253ed2965f51be8d4eaf6b7cb63",
+        "category": "exam_questions",
+        "size_bytes": 94092,
+        "signals": [],
+        "normalized_text_sha256": "0de18d1f99f3dd711b5d4e3174a58abc2c676111748ea27200d8d3a9e2401e83"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/ASCENSORI/domande.md",
+        "sha256": "6347bd6ae9bc0e8abdc1d9cfee6ad1271d36aa7ce0e220ea78fde04b42a7613a",
+        "category": "exam_questions",
+        "size_bytes": 156908,
+        "signals": [],
+        "normalized_text_sha256": "467b867d71b604057a6e0be388813621239250ad4e8140c36f17136c9a9a758f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/AUDIT_CONTENT_LOCKED.md",
+        "sha256": "106b0458e014f46dbdaf1cfa90021b0a7565cca4af9caec72b71275d3d6b2688",
+        "category": "exam_document",
+        "size_bytes": 4103,
+        "signals": [],
+        "normalized_text_sha256": "e2482666d09640c462e76f5b1d349b7cd049a8dd7b7bb5e5ea2165a6f10e9854"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/BONIFICA_SITI/domande.md",
+        "sha256": "96226facf8abfdf44dc118201c3dfa440522b82c6e6370977ab6cfdb09448c4a",
+        "category": "exam_questions",
+        "size_bytes": 192998,
+        "signals": [],
+        "normalized_text_sha256": "a35bf110f9992f6aa76b2424d2fa671cb50c9233189da41d607bd56749884aee"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/CAD_BIM/domande.md",
+        "sha256": "b46bf142c338a524c39702a29da1da0209c17480e5ef8629c678bbf480295848",
+        "category": "exam_questions",
+        "size_bytes": 93231,
+        "signals": [],
+        "normalized_text_sha256": "8d147bdf979ab5ec1bf0d682535c3c58b8f22ac275046dc529062894b76f786d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/CAPOLAVORI/domande.md",
+        "sha256": "002ed414e6b769a7c3db073b4f7890423ec01206e3c795004f8de6de726bbcbd",
+        "category": "exam_questions",
+        "size_bytes": 117507,
+        "signals": [],
+        "normalized_text_sha256": "8bf7e5ca7c54ebb883c2531fe8e7bf012c8e64a500453d5b543a1e17c5d2196e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md",
+        "sha256": "1f50f4ca422e85bf784568dff71303bb6eb48dbfa01e05f945e90329c4b41b80",
+        "category": "exam_questions",
+        "size_bytes": 71231,
+        "signals": [],
+        "normalized_text_sha256": "b61969b5706a6e22503aa1c977e3e2c8d56cf91b4e60168a1896e2841309b65c"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/CARPENTERIA/domande.md",
+        "sha256": "f2ea1f2051a779a94f1c1d9bf0f0b7648c6f872cf603a4fa67b619c2dae64ea8",
+        "category": "exam_questions",
+        "size_bytes": 121231,
+        "signals": [],
+        "normalized_text_sha256": "4060525cc9db0a9f1a949c100488a5b28f6005f33eb7db19a51c6338f997ac2f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/CONTABILITA_APPALTI/domande.md",
+        "sha256": "9aabd6ae7722ad058e3967f815e44aee302f86c70f3f96343298ca8b1ea6f77e",
+        "category": "exam_questions",
+        "size_bytes": 113328,
+        "signals": [],
+        "normalized_text_sha256": "b4c9904351a3c1dbf300445f167f38a44241dfbdc5bb8af59660f4ba82976dbe"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_LEGNO/domande.md",
+        "sha256": "d265c55b1de3cb3ffec951f228b11945514594ae14a2529ba310b66f98289f2b",
+        "category": "exam_questions",
+        "size_bytes": 128210,
+        "signals": [],
+        "normalized_text_sha256": "da708f1e329f879b18ff39efd889e0160bd3c058cab386f7e5e7d632474b5bc0"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_SPECIALI/domande.md",
+        "sha256": "a3e15199000d2d415c237f9583bb96d3a30da4a1b65c1e0b78c3ada5f36be18b",
+        "category": "exam_questions",
+        "size_bytes": 131308,
+        "signals": [],
+        "normalized_text_sha256": "551f53e2be8fcfabe7e93a16f89bedaab422cb617f547f983f3ad5ca294a8991"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DATA_CENTER/domande.md",
+        "sha256": "a0f2b10fdc8f5d6a8813f36c425b2b7bdec0080a4cbe549eb90c47fa828e88c9",
+        "category": "exam_questions",
+        "size_bytes": 126228,
+        "signals": [],
+        "normalized_text_sha256": "f244aa1b79d954b7910b1a9ce0b3ae3ce3306b9809e001a2fc5e241597e16461"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md",
+        "sha256": "a1474dcd3679b1d8c49815159419c532cb3c10eb07579b1667a3e9511b666af6",
+        "category": "exam_questions",
+        "size_bytes": 65378,
+        "signals": [],
+        "normalized_text_sha256": "85f5e0bffe64c40fefddc3132df4e105e6ffa64bc9f6d37953cf107d7db59e6d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DIGHE_IDRAULICA/domande.md",
+        "sha256": "b00d1c0c24b5ddd77c6598408f63caaf6f7d48e44a6523a6efad9749f3de9e7c",
+        "category": "exam_questions",
+        "size_bytes": 130417,
+        "signals": [],
+        "normalized_text_sha256": "5251109e57ffbf35b9493e5d93c840d2bfeb60c694f2f24f638be8e1cf186b46"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_FV_EOLICO/domande.md",
+        "sha256": "e8f29dde83d7d66bc4bee98186b71733712ea7c6d1f24fc4fd6833c44418eab2",
+        "category": "exam_questions",
+        "size_bytes": 107797,
+        "signals": [],
+        "normalized_text_sha256": "8a8d623b0cfdb4fec417bd0cd27cecb43adb5ead184987410295044f508dc188"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md",
+        "sha256": "e63603fde58dc62347b7a09870b5667fc1a401305bb32dabe146bf74799d186a",
+        "category": "exam_questions",
+        "size_bytes": 95742,
+        "signals": [],
+        "normalized_text_sha256": "631bfa1f3c5a6c837763f4bed638a7b31466985abdb17637e81688e7417ecd41"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DISEGNO_TECNICO/domande.md",
+        "sha256": "6c09ee84a681a024dd18cd9945694c04fd6e4d446e8dad598b8b92724bef01b9",
+        "category": "exam_questions",
+        "size_bytes": 129964,
+        "signals": [],
+        "normalized_text_sha256": "f7e584e8721bb74766ab5d240a9aecb53caa6b08ce0f506663ab2e204015629f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/DOMOTICA/domande.md",
+        "sha256": "fa23e3311890e42e4057c2bb0a9caa2480d4a9c18d9bf4868f4476e3a01e085d",
+        "category": "exam_questions",
+        "size_bytes": 87107,
+        "signals": [],
+        "normalized_text_sha256": "c984666027322e9e1005f66880a267412413c1de509fe662f6f2d96f27979910"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_AGRICOLA/domande.md",
+        "sha256": "556935e9806756dc5c19892fb5d22fdf35279e5c087198918494dc7c75a9b3c7",
+        "category": "exam_questions",
+        "size_bytes": 140824,
+        "signals": [],
+        "normalized_text_sha256": "2a642667e995fc5dd628e354ff934f5406e2405dc688cb1ac3a1aad3af8721e6"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_CIRCOLARE_LCA/domande.md",
+        "sha256": "22cfce7584c4d74429d296cd18e510e9188e9ed0508e27d3e1d1e3460ac667be",
+        "category": "exam_questions",
+        "size_bytes": 207344,
+        "signals": [],
+        "normalized_text_sha256": "cea902cbce60bf76d0a62bc75b04bc507d2e983d1a5bb14e9af05609964de352"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_INDUSTRIALE/domande.md",
+        "sha256": "f85be975d31d7be37be6a28d7d48237f9e0dcfd27af33cd7f45c0f70ebe178ae",
+        "category": "exam_questions",
+        "size_bytes": 126299,
+        "signals": [],
+        "normalized_text_sha256": "e9f01b0a717bf404755b1f5e2cf090fba877ccfb024d604bfe281d48cdd1865e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_SCOLASTICA/domande.md",
+        "sha256": "ec47a01f9bd35e0a6e6e7c4f8551166acb82d8cb16f94adccbf776556c73aaff",
+        "category": "exam_questions",
+        "size_bytes": 231867,
+        "signals": [],
+        "normalized_text_sha256": "66afd86ad8daa5a8483072902d87d33500f2cca614eba9aa9b547f052a677137"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/EMERGENZE/domande.md",
+        "sha256": "aab0791377201edaf11006a330aed439cc48951c1909eab967a5e5a67a520af1",
+        "category": "exam_questions",
+        "size_bytes": 147560,
+        "signals": [],
+        "normalized_text_sha256": "8fb5699487c6725b906d4d0930c9c750167afce53b84b72e856855697617abab"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md",
+        "sha256": "6b4cd18e7335f71ba0165ad1d9615e1e1fccc7d2d784ad18988a4fb9d680669a",
+        "category": "exam_questions",
+        "size_bytes": 146951,
+        "signals": [],
+        "normalized_text_sha256": "0794a191ac2e1d7995ee6e532c91cb7a8245c616dd3d818274c629331cce1a91"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/FACILITY_MANAGEMENT/domande.md",
+        "sha256": "1073a495d2b1fba1964fad59e1d3e33dcb4904c52ffe36165fa58ab4da6a462f",
+        "category": "exam_questions",
+        "size_bytes": 199339,
+        "signals": [],
+        "normalized_text_sha256": "7411fcfdd1b4122c754001bf6d6306091ad90d97b44885bf681878eb87c651a2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/FERROVIE/domande.md",
+        "sha256": "8b3b7c607b4f2ad1a1470b08b1b88456edc2a86ae18a9a8aacf85d3345cc8751",
+        "category": "exam_questions",
+        "size_bytes": 127505,
+        "signals": [],
+        "normalized_text_sha256": "39e9b1c78d00e16e4f8a7ab0b57a43d127fe46d71a35626724d40c87d9262e81"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/FISCO_IMPRESA_EDILE/domande.md",
+        "sha256": "360c985a18e3dbc42889d1890facb7f34fc1c3302a69adec8b6e9b6074bf993f",
+        "category": "exam_questions",
+        "size_bytes": 232521,
+        "signals": [],
+        "normalized_text_sha256": "55503433a2d7be8d7d7cb38fccfb22ba9082e959bd1293bb26e01d68c2e6914a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md",
+        "sha256": "71d7ebd2817dd93affa4fef7bbde89df6785f1d0a4657d98db021e0cb6181706",
+        "category": "exam_questions",
+        "size_bytes": 82778,
+        "signals": [],
+        "normalized_text_sha256": "9df8382b94c1f84ef3e6a19ee445b134bc73236714c2c20ef02711a076e59eb8"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_STRUTTURE/domande.md",
+        "sha256": "d4780be2c5c0847ae4e00956ce7ed97bba8255da5a14f154c8c0ea55fbf5e876",
+        "category": "exam_questions",
+        "size_bytes": 100660,
+        "signals": [],
+        "normalized_text_sha256": "780c36a689c988d23b28c9839995bd94fff98d61cfe5858f4dbadb67fa8fcc4d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md",
+        "sha256": "88779c8e2b862e67cfdb8fb0c3784a2429b3e4f63bf71a49b59ee0565cb425ea",
+        "category": "exam_questions",
+        "size_bytes": 130531,
+        "signals": [],
+        "normalized_text_sha256": "61d32cf36dbaa3e4179be8102f9b16341be838ed419709889cf6c701193af3ab"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/GEOMETRA_ESTIMO/domande.md",
+        "sha256": "f2a2e29177d200e487b6fcc1c2833fcb6af14bce77f460e64300a068909ef150",
+        "category": "exam_questions",
+        "size_bytes": 90685,
+        "signals": [],
+        "normalized_text_sha256": "40e9ee1456ee95d0dfae215f9185e0fb38058f85f406e5469389fdf56548676a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/GEOTECNICA/domande.md",
+        "sha256": "89769bc408675e22b1fb3c2eacb1efa9d1ef20534bf0523ddb9ea535615014ac",
+        "category": "exam_questions",
+        "size_bytes": 127646,
+        "signals": [],
+        "normalized_text_sha256": "c74b1103a1fea4498dbdce79a78571308c5c9334d49b5f71fbfeb60d7351d864"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/GESTIONE_CONDOMINIO/domande.md",
+        "sha256": "7c8a26f52ec3ff1731733a831685f84ddc70e20df1352a109e7c09e289d94bdb",
+        "category": "exam_questions",
+        "size_bytes": 146282,
+        "signals": [],
+        "normalized_text_sha256": "f58663db7547ee23497611dfcca81c6c055f888a1f4e02f703e0adae611d9b20"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/HOTEL/domande.md",
+        "sha256": "ced292f8212cc39d44cca6af1cf2c95d3e729d4d3da1f493b3024a6921414e14",
+        "category": "exam_questions",
+        "size_bytes": 124856,
+        "signals": [],
+        "normalized_text_sha256": "899de377e66665c431789a17a29b29ea3031c0203e6a9b5fa7f16c709a519bdb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/ILLUMINAZIONE/domande.md",
+        "sha256": "ecbf760e8154dba225886582ee0289d1b59bafef22c340cdc1db463803997625",
+        "category": "exam_questions",
+        "size_bytes": 131485,
+        "signals": [],
+        "normalized_text_sha256": "bb509c01c03505d4b26983a66bd3aabbc8e119b1d03ad42486833477f7a1d535"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_COMPLETA/domande.md",
+        "sha256": "7050d2ab2ff059c6e27b5925b153a9b7850aab1d52a83e6eca008a8a1bf4eb4b",
+        "category": "exam_questions",
+        "size_bytes": 128247,
+        "signals": [],
+        "normalized_text_sha256": "91b64618de5e6eeaa7c0cd1deab6894848632b42c910c6b24480fc48ebbcc868"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md",
+        "sha256": "e03caa8af20dbc4ba76b7cdfa4d089c0f505c137921d71458c1d5aa3442a3590",
+        "category": "exam_questions",
+        "size_bytes": 236218,
+        "signals": [],
+        "normalized_text_sha256": "6a7449ac3dd240c292e43b7d61508a1015266d8f2fa9389ec17db58875cd856a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_SPORTIVI/domande.md",
+        "sha256": "0e2a41a019f49a37d58d8d273f47b1cc182a0dd70d50649a0a59b3c2bbdd5a68",
+        "category": "exam_questions",
+        "size_bytes": 151357,
+        "signals": [],
+        "normalized_text_sha256": "3e93d525c05c9604983f610e3b371d6211acd6e7bbe7e093d470d6eca9a6cbc2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md",
+        "sha256": "251f12cb9352c8705a927b313e3f2f659875f1dd706111b0321b02888f6d3e43",
+        "category": "exam_questions",
+        "size_bytes": 120062,
+        "signals": [],
+        "normalized_text_sha256": "2ad46bb2fb6a5f817d727673241d1cc101ce31565e94e9285b5665f4f3c068a2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/INGEGNERIA_CIVILE/domande.md",
+        "sha256": "86ce944352df4ef2c42cb5bcf4d5b176edc10c65159ad1ba7e3f604faeb5620b",
+        "category": "exam_questions",
+        "size_bytes": 86528,
+        "signals": [],
+        "normalized_text_sha256": "45fcb161a55781515fe62e51d036e60133e26b4476ccc3bc60dcc58ed11265af"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/INTERIOR_TECNICO/domande.md",
+        "sha256": "303acd93f010f79a33dda6820396314e8140cc26f9c53d68192932878a3dd8f3",
+        "category": "exam_questions",
+        "size_bytes": 95382,
+        "signals": [],
+        "normalized_text_sha256": "460341c7b7a91de1f31709e7ac8bb6723e4acf2420472dc7de5bae969f3aa06a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md",
+        "sha256": "e4f4520f9e9306902dc2c97625322f08950e59a8a55cf3e38063185fa0ccbc3f",
+        "category": "exam_questions",
+        "size_bytes": 112597,
+        "signals": [],
+        "normalized_text_sha256": "60ba40cdbb2a56a591aaa8badc4242d5ee08875783a6f2d93886beed7bcfc449"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MACCHINE_TERMICHE/domande.md",
+        "sha256": "d92217c9655ec57470da244e02e01bc008a5777f99780828d34d364f96f194fa",
+        "category": "exam_questions",
+        "size_bytes": 136423,
+        "signals": [],
+        "normalized_text_sha256": "f61e5e039f24523a20abc39935ec59b0e1d4d8d303738148e116daf44f985b39"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MASTER_DESIGN/domande.md",
+        "sha256": "fa1c90f74977d976f418153b997cee3a8576594c0302e040a596708d22919555",
+        "category": "exam_questions",
+        "size_bytes": 97541,
+        "signals": [],
+        "normalized_text_sha256": "5722752b03085e4a7345a9bca8d3da21cc5d3c8b3c44bdac1c9fa1f67e4c2716"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md",
+        "sha256": "f4bbaaf46079374e981cc656e81748d0a264bffc57a2fa614ec0988f6bb95f2d",
+        "category": "exam_questions",
+        "size_bytes": 112826,
+        "signals": [],
+        "normalized_text_sha256": "a30300a6dc32ed8f027de5c2a7d71a81a8c9996ed51d2e790cc360ed74a55535"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MATEMATICA/domande.md",
+        "sha256": "cef22e121b8e6c47d894c7a782c8219c7bd35f9022991d8cdfdbaec009a5b2bb",
+        "category": "exam_questions",
+        "size_bytes": 79526,
+        "signals": [],
+        "normalized_text_sha256": "8109dccd52ecfcf4e03b5501fec9529e932759bf0f0f74d2f487bc0768ea161f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md",
+        "sha256": "b2437654343ed576de4e7c98eda63cb0148116c4ab9b78412342bf4c9879ee92",
+        "category": "exam_questions",
+        "size_bytes": 320322,
+        "signals": [],
+        "normalized_text_sha256": "7ecf84f87a15efb72645870a2df2dc08884fcbaa5818e532c94bd7f7ab0caa2b"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_COMPONENTI/domande.md",
+        "sha256": "4d36c340e74bf4752d412240d01b018c79a23851b49aa344c10a284e318033be",
+        "category": "exam_questions",
+        "size_bytes": 124227,
+        "signals": [],
+        "normalized_text_sha256": "b6b925630ce2043c5c2ed1fb009d1bd7076268c49d494cde53bdc29a1f6da1b3"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_FUTURO/domande.md",
+        "sha256": "99060e614c8ac0bc817f3bdf06956320e088e8117c7d25b94184a20d628a0cf1",
+        "category": "exam_questions",
+        "size_bytes": 120717,
+        "signals": [],
+        "normalized_text_sha256": "add76dbdeb3b14dae88fa25a9dfca55bccbf1a5b3f1fb82477b19d9994255bfb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/METODI_COSTRUTTIVI/domande.md",
+        "sha256": "d67de03687daebbb1ec1ed67bd0288e76b33425007e318130e88f932085917f6",
+        "category": "exam_questions",
+        "size_bytes": 128085,
+        "signals": [],
+        "normalized_text_sha256": "4a52b0b55e24bacbb77784887ce3940ae00594611341043559d3698b5b67ab64"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/MURATURE_INTONACI/domande.md",
+        "sha256": "27b9e104a0a65f7aa1351af0af3661ef4a5035d95755bf15a38c22d6f99f1ce0",
+        "category": "exam_questions",
+        "size_bytes": 215635,
+        "signals": [],
+        "normalized_text_sha256": "63f2a5b5674268a98bde9142b38709027c28cebeb39d4df3324c3ad18088e811"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/OSPEDALI/domande.md",
+        "sha256": "1f33b2b7ef23067301b4272312d950d0c9e8c7a90516cadd15d34a12ca8d691f",
+        "category": "exam_questions",
+        "size_bytes": 136104,
+        "signals": [],
+        "normalized_text_sha256": "9d93e6a63809e727cab8c2aa121cb6380ab33bd556dfc448a4430325b720c2e0"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PATOLOGIE_DIAGNOSTICA/domande.md",
+        "sha256": "e1c2f70dff873f1225d0a3eb261e400d48e945d57bcf30b51541f362c5906174",
+        "category": "exam_questions",
+        "size_bytes": 147121,
+        "signals": [],
+        "normalized_text_sha256": "d06248689ace766347d2d33d537b5293a2e72e1206f64fe639604c2eb85ebb75"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PERIZIE_STIME/domande.md",
+        "sha256": "1aeea6096054e4fcf67d91d32954ab1274fb21930eb6302399bc16414c4cd3cc",
+        "category": "exam_questions",
+        "size_bytes": 147456,
+        "signals": [],
+        "normalized_text_sha256": "a5f291516aa14e9ec443f9cdcae90e0e9b47a3871f8e86515d6458cbe2b14e75"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PIETRE_NATURALI/domande.md",
+        "sha256": "67a4a7ae80e6a4b64063ac98ce44cdca00501b9ed9eb6818627c0ab1d0621cb9",
+        "category": "exam_questions",
+        "size_bytes": 136731,
+        "signals": [],
+        "normalized_text_sha256": "2d2aed35cd2644af1551058b7d2a303dccdbd7aaac677bc2b2241db1784e1d75"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PISCINE/domande.md",
+        "sha256": "1888e45580477cfe2871639e1f72ea9b26ca150c82deaf6e8b6aade7b7c61913",
+        "category": "exam_questions",
+        "size_bytes": 120185,
+        "signals": [],
+        "normalized_text_sha256": "54015194530f659afccd5b67b79173766c18d118d7b4d1d9b4fdb6adc349c1ab"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PORTI_MARITTIMI/domande.md",
+        "sha256": "bbcd0c35f27d4ccc62bb82e93c881ae7b3ab3436ebdbf30ade896788cae04652",
+        "category": "exam_questions",
+        "size_bytes": 125123,
+        "signals": [],
+        "normalized_text_sha256": "226726a77d954803c4e286d3c97611351044b71c918f2f6567aa8ccfff21a0a4"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/POSA_IN_OPERA/domande.md",
+        "sha256": "4ee63bc8b16c75e84dd995cb8757a6346bcf605fd5c3069173f4f7fda407ab25",
+        "category": "exam_questions",
+        "size_bytes": 132144,
+        "signals": [],
+        "normalized_text_sha256": "bf5e374e78aa41f17d2b27e580f93a4ce6c3d2ab5eb3435a7029e21a8f4be037"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PREFABBRICAZIONE/domande.md",
+        "sha256": "0fcb2ddfab424811b11a4141f3930b861367b4efd52256b151bf9e7fa54eaa5e",
+        "category": "exam_questions",
+        "size_bytes": 143504,
+        "signals": [],
+        "normalized_text_sha256": "1c399019b0b7161e8334bd116ead22495e35bb273ad8af2e1d7b76d8a0c50f8e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/PROTOCOLLO_VALUTAZIONE.md",
+        "sha256": "40e89fd22273d6a6d7448bdb04276b5047d50250742f3121bd8ee3fa41d1dd6b",
+        "category": "exam_document",
+        "size_bytes": 2718,
+        "signals": [],
+        "normalized_text_sha256": "67dfe452dde48d0fc0c7071a09b7c4ae16c25d2b66f120010db6fb035ffaf4a2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/README.md",
+        "sha256": "0b13e1c2ba95de7afdee5c7267b09f860bb56c29145016c4676be126bbcfabdd",
+        "category": "exam_readme",
+        "size_bytes": 5147,
+        "signals": [],
+        "normalized_text_sha256": "3bae694f0902392dc83b7ee7bc7b2cd21e077b086e37ba8c03524799a31cd84f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/REAL_ESTATE/domande.md",
+        "sha256": "cfafa51cf407737dfc0b63f6431271ebc5999bef862faab9fe97b6a18124c635",
+        "category": "exam_questions",
+        "size_bytes": 108056,
+        "signals": [],
+        "normalized_text_sha256": "c7dd11151bd20e61324d02ac0722602598f9962d198e041220d26b2561217ad0"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md",
+        "sha256": "93da21aa775676a5603e33a89486dfeb18a622d5fd9933174510bb6a9ca2ecf6",
+        "category": "exam_questions",
+        "size_bytes": 135375,
+        "signals": [],
+        "normalized_text_sha256": "71a42412a8abcc0784e57e18ae4bd5185f6f0ad34adf7886b937ce67ca4464fb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/RINNOVABILI_IDRO/domande.md",
+        "sha256": "ff64cdea63457e4bf74e6ee2f3250c954172d0786eed2f08f278319de2ba1a1b",
+        "category": "exam_questions",
+        "size_bytes": 122955,
+        "signals": [],
+        "normalized_text_sha256": "08b05d3bf418c5bef3597624d9578fc214b721564f7f2488dd7b68390a772148"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/RISANAMENTO/domande.md",
+        "sha256": "bd6f8e23656f1fc045cbdfbea73677637e6942ff0f0e6d4717944531cb43f574",
+        "category": "exam_questions",
+        "size_bytes": 171505,
+        "signals": [],
+        "normalized_text_sha256": "88c2507e1ba70ea86427bc69d06f336668d5142cea5065fda8fe80f74622b28b"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/ROBOTICA/domande.md",
+        "sha256": "d03558413fb621d5402f41b9eb859227755e6c7baa812000af2432769d874c6b",
+        "category": "exam_questions",
+        "size_bytes": 112418,
+        "signals": [],
+        "normalized_text_sha256": "b8c780c96fdac55097a35f12be5e38470ae761ba5c8e494d9925baa7034dc07a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md",
+        "sha256": "23538a4a642c9320177db080c6998fb42acfc5d100522061f2f9f0e1c6ce2b18",
+        "category": "exam_questions",
+        "size_bytes": 104086,
+        "signals": [],
+        "normalized_text_sha256": "47b9bb0f8389160fcdb59a5c8f55aa6a3d5e195865930d534783c166c7ac0adb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_ANTINCENDIO/domande.md",
+        "sha256": "8338491729bec115706197d0bd5c8a2ec3cda91754a53ce5e1ce48c0a2108b2b",
+        "category": "exam_questions",
+        "size_bytes": 146439,
+        "signals": [],
+        "normalized_text_sha256": "05634f7b8d53785517e61e6589208205a4dba8d64994aea738e609d4b3af82cb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_CANTIERE/domande.md",
+        "sha256": "c1dac9c3c2bb17ca463094729153e9fb57b5cdf0427aaf4e38d4454b9bfee9c1",
+        "category": "exam_questions",
+        "size_bytes": 233353,
+        "signals": [],
+        "normalized_text_sha256": "fee2181431b7bb96760298fe7c7fcbf03010130a73976c783969a8211eb97dc0"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/SOLLEVAMENTO/domande.md",
+        "sha256": "b137996baf3486e5e5a1fcb92d6bb51b125f2ed4c7ee460d0059156496834ca2",
+        "category": "exam_questions",
+        "size_bytes": 157119,
+        "signals": [],
+        "normalized_text_sha256": "372c5725c6b0e5127835010a0d9ea64200067af9f4e03ffba85b0502cd910d2c"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE/domande.md",
+        "sha256": "cd86b25a65648f06749319341190f0d9d7a2db99ec943808c567614270104c1e",
+        "category": "exam_questions",
+        "size_bytes": 105651,
+        "signals": [],
+        "normalized_text_sha256": "d254a2ec80f1b3e4c49d4c66c01d5f6aa0e32fb0e9a99142b9aad1745c684acf"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/TETTI_COPERTURE/domande.md",
+        "sha256": "e5bbe9cc3e6f0af6699abf5cf539fee26a83a6da752ef7183e6cc3d6367e9ff4",
+        "category": "exam_questions",
+        "size_bytes": 143806,
+        "signals": [],
+        "normalized_text_sha256": "fe90a0a8a67f5ab0bb636e4604fc8a64f3b92f65719ede3db1227ab1175ffb13"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/URBANISTICA/domande.md",
+        "sha256": "b63181e6362b238e65bdcde62bd82929db82bbae53220aad84cc0494aeb7a46f",
+        "category": "exam_questions",
+        "size_bytes": 104947,
+        "signals": [],
+        "normalized_text_sha256": "2130a64c058e483d42297156551c435133ebc42b8d8a93b96e789b6638b46388"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md",
+        "sha256": "09397ed7da3f7a9adaf2659a2bd218e48c6efaab69c6f7c3ae601a5884cc4414",
+        "category": "exam_questions",
+        "size_bytes": 105986,
+        "signals": [],
+        "normalized_text_sha256": "7c7ef1f31ebc7fdc1c17d17f315a0f77d23a40bc33d8693967071aff660c6d1e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/COURSE.yaml",
+        "sha256": "7196ff41c5d679caf209f3cd270d6ee2566cb441eba389ef0b454ed2268573f3",
+        "category": "course_manifest",
+        "size_bytes": 317,
+        "signals": [],
+        "normalized_text_sha256": "418554bb31fee85dd8379d523f469158c06ec5597dcdae8408f06783d555d02e",
+        "course_title": "Facility management e manutenzione programmata",
+        "course_title_key": "facility management e manutenzione programmata"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/README.md",
+        "sha256": "73e6b6e3af32527fc02672069dbd71b1679d65ade31fadb6982f022feef00a32",
+        "category": "readme",
+        "size_bytes": 1784,
+        "signals": [],
+        "normalized_text_sha256": "87fb1769f007137557648cee6b43bd9d2afae6cfc2660e0540764448f9fa1f62"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/schede/schede.jsonl",
+        "sha256": "9c0388836dbd03d7b505dd1c7c466ed5106686dbf73c50994ff8cb21a2491d8c",
+        "category": "course_cards",
+        "size_bytes": 48948,
+        "signals": [],
+        "normalized_text_sha256": "8e3f9036d16ac29f63541467036c10d3678df605f175ba78c1ac331e1bde3319"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/COURSE.yaml",
+        "sha256": "de9d0844dc10ab4a59159633dbd1f95ad9208afce0e737deb90c4640d35bd483",
+        "category": "course_manifest",
+        "size_bytes": 233,
+        "signals": [],
+        "normalized_text_sha256": "acf41937fdfaffed649ac9c2d28e8f83f4ccf6187822a12f21ae54d7c07641d0",
+        "course_title": "Ferrovie e stazioni",
+        "course_title_key": "ferrovie e stazioni"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/README.md",
+        "sha256": "92dc7aa6a6dbe6d9e00745d0c922dcf10a7dadc2666ee1c5bff19524c3fdb8d2",
+        "category": "readme",
+        "size_bytes": 411,
+        "signals": [],
+        "normalized_text_sha256": "6b4e9ca9b71ac4713866216f3a1d7ac23dacd4dce74727dbd234a0466c24c40e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/schede/schede.jsonl",
+        "sha256": "df2ff806b175ac120431706caca47310243ddbd3a47dcb9af82f3f739fc0935c",
+        "category": "course_cards",
+        "size_bytes": 23784,
+        "signals": [],
+        "normalized_text_sha256": "97858b7cf19b7d019ac46249f0554890a8974b241101bb585715a3a9ccd3c5c1"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/COURSE.yaml",
+        "sha256": "b7302d76882754acc0a724f3a50c9c8b5ff7226a2738261568adec98787efd4a",
+        "category": "course_manifest",
+        "size_bytes": 302,
+        "signals": [],
+        "normalized_text_sha256": "0c2912f29ece396dfc03b5f445aff712fbdd8607709b5216c4379247619eb28f",
+        "course_title": "Fisco e tributi dell'impresa edile",
+        "course_title_key": "fisco e tributi dell'impresa edile"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/README.md",
+        "sha256": "b2e51eb1c5c1974a13bf6da5941805e1d352fac82552c2232b7cc7995f492330",
+        "category": "readme",
+        "size_bytes": 1552,
+        "signals": [],
+        "normalized_text_sha256": "bc37b305b66d6974917e9318a4b29f1491f4b6724606982fece5c315b75c12a6"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/schede/schede.jsonl",
+        "sha256": "e808e5bf708e9c5e17d8567f39fbd2ff2b398ea6a6f9ff861c66fecdda888f9b",
+        "category": "course_cards",
+        "size_bytes": 52212,
+        "signals": [],
+        "normalized_text_sha256": "6c6fa95e9f6549b915f6bbaf34d24551375fa7837259463f3b626e94540470ca"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/COURSE.yaml",
+        "sha256": "3bc4cb65276dab2973e38b0092a7433637f279026ea16c3e08e04614a6851f58",
+        "category": "course_manifest",
+        "size_bytes": 312,
+        "signals": [],
+        "normalized_text_sha256": "31a9f3c1ae62c8394014d55410d614450f784ea63a790f5d79ccd484af8a395f",
+        "course_title": "Formulario di fisica dell'edilizia e degli impianti",
+        "course_title_key": "formulario di fisica dell'edilizia e degli impianti"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/README.md",
+        "sha256": "712521d5b8243e0c357bb7ffaa3c6c50f47d6e01a8fe96d38b73e47b0b05fc50",
+        "category": "readme",
+        "size_bytes": 196,
+        "signals": [],
+        "normalized_text_sha256": "f5d82774fe54f3e4892305755ca8c36fe53c34ea0054794840d6e64eaac4d7ac"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/schede/schede.jsonl",
+        "sha256": "4edd961af145c96f20291db7a59422d3384c51e608005454b3314898ea2369cd",
+        "category": "course_cards",
+        "size_bytes": 15428,
+        "signals": [],
+        "normalized_text_sha256": "b25ad66bdc9f0f85d18160d481ab7e72c468cfc684c0ad9fe6611dbd415ff0ef"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+        "sha256": "c49e6b78b6f7e52841743ce654ffe9bd6b3cd384baaca8074b317a7edfdbd8c2",
+        "category": "course_manifest",
+        "size_bytes": 285,
+        "signals": [],
+        "normalized_text_sha256": "214c1174315320ab1d0ac46f40667b2951f366744d9413ae180c01feaf84576c",
+        "course_title": "Formulario di calcolo strutturale",
+        "course_title_key": "formulario di calcolo strutturale"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/README.md",
+        "sha256": "fc12cdde641d095472c5857ce24f1f0bf519d60fbe755ac39933f2cc05028850",
+        "category": "readme",
+        "size_bytes": 188,
+        "signals": [],
+        "normalized_text_sha256": "1f40bc601ad5809cdc527239afd902e9dfa2fab3a52945fff212b46b16239266"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/schede/schede.jsonl",
+        "sha256": "450ed4dbee2dc7d666c2a3bab43d1894b5a0fc13856a8fa0aad82b94f5f34b53",
+        "category": "course_cards",
+        "size_bytes": 17644,
+        "signals": [],
+        "normalized_text_sha256": "e1d8f6b70d71cad5d0dd2fa48669ceb4a3403fdfc08c275eeff66c2da16a1a51"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/COURSE.yaml",
+        "sha256": "2de28af2c44bc5f85b7b8671de15c392e1d1bf0796cf1cef4365939cdfdbecb6",
+        "category": "course_manifest",
+        "size_bytes": 311,
+        "signals": [],
+        "normalized_text_sha256": "66f64db479a3078735e98b6343923d4d6dd27a01b5eed2cf8fa9576bd829a044",
+        "course_title": "Fotovoltaico a terra, agrivoltaico e CER",
+        "course_title_key": "fotovoltaico a terra, agrivoltaico e cer"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/README.md",
+        "sha256": "10a400d16e5f40a8a7a68ffe068b2b0949ceeacac338fb04c48bc5cdf4ddd9a6",
+        "category": "readme",
+        "size_bytes": 1245,
+        "signals": [],
+        "normalized_text_sha256": "e6eea4f3851de31bf0e748a3bc697ce4e6be7d264886a8234983af0a39bf1b5f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/schede/schede.jsonl",
+        "sha256": "a7fc265e1dfbbf8f42294ebbe5de37ef5823a03af8bc416879d708537f650a2e",
+        "category": "course_cards",
+        "size_bytes": 43660,
+        "signals": [],
+        "normalized_text_sha256": "906c07588d0ad33869e54cb4c2e27e33d84bd247ea3f0ed2589aa61a96d5e281"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/COURSE.yaml",
+        "sha256": "2777c2190e3f102e8a1d3a0c5a00515dcb17f36f7d4e33f5ecb1f0cb2a5a92f1",
+        "category": "course_manifest",
+        "size_bytes": 302,
+        "signals": [],
+        "normalized_text_sha256": "52d63078bed8309c045099693f24f52d4b120a754b8f48e1de2adccf05ec20bc",
+        "course_title": "Geometra: topografia, costruzioni e estimo",
+        "course_title_key": "geometra: topografia, costruzioni e estimo"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/README.md",
+        "sha256": "ee526a82eb0af8dcc77d024734e1c0806b32f1760bfa1e429a8421e4262494f6",
+        "category": "readme",
+        "size_bytes": 168,
+        "signals": [],
+        "normalized_text_sha256": "6d225bd8cb55f2f64c476698500a0118b05a20a34fda5789e50b251b1cfe68be"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/schede/schede.jsonl",
+        "sha256": "9147c532523b222a036e278e1e0d8674ef7d31dd9d9b0f4892a73d8b0de50fb2",
+        "category": "course_cards",
+        "size_bytes": 18279,
+        "signals": [],
+        "normalized_text_sha256": "3cf423f14666c110f2486fbd9df649c85e025b767913d98372760dc7355b407d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/COURSE.yaml",
+        "sha256": "c196a33c5312d54c3465e610ee9e52c921b121ef28fea42d2d2aa5846511fac1",
+        "category": "course_manifest",
+        "size_bytes": 742,
+        "signals": [],
+        "normalized_text_sha256": "26f1b4172c002b55761ae4f54b9407a449dee4f122fc783e8707db0510b495bf",
+        "course_title": "Geotecnica e fondazioni",
+        "course_title_key": "geotecnica e fondazioni"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/schede/schede.jsonl",
+        "sha256": "593a4a9178e6c1023995a02fb08d957a44a07e5a15edb134c9abad40764a8189",
+        "category": "course_cards",
+        "size_bytes": 36506,
+        "signals": [],
+        "normalized_text_sha256": "7294284431e70d8236348fb3db9075b0033ddeb78031687b04fa76717c5d0021"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/COURSE.yaml",
+        "sha256": "c298f806f184236fdc8fa84980b034282f2ebb78c556574f9dc2da9de2e713ad",
+        "category": "course_manifest",
+        "size_bytes": 328,
+        "signals": [],
+        "normalized_text_sha256": "b7a3745107418114273ebd9538e340b3e5d40f10c4b37eb00c55c45119e1a9b1",
+        "course_title": "Gestione condominiale",
+        "course_title_key": "gestione condominiale"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/README.md",
+        "sha256": "0135787c97529859dcf14a105b51e3acff8324cfd7719653ebd8b8ef222ef2e9",
+        "category": "readme",
+        "size_bytes": 460,
+        "signals": [],
+        "normalized_text_sha256": "fc9158402ae970314046835ded31134707fc6af2104497c2ed367d850c71b97c"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/schede/schede.jsonl",
+        "sha256": "3239274e2ceb6ae110997ce3b620da578d40b28106ddeb1ddf61d6f843eab69b",
+        "category": "course_cards",
+        "size_bytes": 24502,
+        "signals": [],
+        "normalized_text_sha256": "5804f703ea0583f8cdb2962b98762dbcb21d7e5815441ac58210f1c189a42f4b"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/COURSE.yaml",
+        "sha256": "da2cd0a5ef23c4104fcdd7413cd56557b1fb3695f7be8eb3fb30f03386e324c9",
+        "category": "course_manifest",
+        "size_bytes": 299,
+        "signals": [],
+        "normalized_text_sha256": "30f36fd1053d9923ec2d9d7456d745d30f0b5d3abd889e3c81a669777d383568",
+        "course_title": "Tecnica alberghiera e hospitality",
+        "course_title_key": "tecnica alberghiera e hospitality"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/README.md",
+        "sha256": "1f098aaf4ae3b424b636357c3cccee9118330c13dc1884f7b8849c6792cbd598",
+        "category": "readme",
+        "size_bytes": 1027,
+        "signals": [],
+        "normalized_text_sha256": "ee0877d68de6671c2f2577c846f2daad2e7ff9592e2aebbc23a9b7f8c1be8b2a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/schede/schede.jsonl",
+        "sha256": "ee7db5093c56897ec79a050f8fe4c23e17606c836dae1f2bf240fa30a0b4d3e8",
+        "category": "course_cards",
+        "size_bytes": 23643,
+        "signals": [],
+        "normalized_text_sha256": "de5f72da1296bd5a272b004a5582517d613a3562ce924c0744a4d1ceebedb5e4"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/COURSE.yaml",
+        "sha256": "2702e476233d6c5eb43bc86ae9842c558ae60255da972ff850e56450d18a730a",
+        "category": "course_manifest",
+        "size_bytes": 772,
+        "signals": [],
+        "normalized_text_sha256": "b5569008c896e7b441d187a40b7cc61027b0b82f484fae484ddae63a6d4c67de",
+        "course_title": "Illuminazione tecnica e illuminotecnica",
+        "course_title_key": "illuminazione tecnica e illuminotecnica"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/README.md",
+        "sha256": "a617f91bc8d6c0a6138ea24299409071e793c379bd204eb3897d2f73e8381fad",
+        "category": "readme",
+        "size_bytes": 920,
+        "signals": [],
+        "normalized_text_sha256": "b8877d975bbb6b19e146e8bc90ece5951b4f2de09a064d9448d082a9cdd6bed9"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/schede/schede.jsonl",
+        "sha256": "834282e070402e7885511079cdeebc6ba736d60e628fb43f6a8930198a2f9512",
+        "category": "course_cards",
+        "size_bytes": 21041,
+        "signals": [],
+        "normalized_text_sha256": "d732cf8f66a719320e530a73270780d85090fd9d1228edf25593d2090ecbb210"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/COURSE.yaml",
+        "sha256": "838cb654d466943f2915f42202ee02a9c888e2aaa20d262d2b6ac67e837a080a",
+        "category": "course_manifest",
+        "size_bytes": 217,
+        "signals": [],
+        "normalized_text_sha256": "6188583a6e30ccdd9f8d28a75aec2f52c77dca61153ccbfb9057a43d7e0dc908",
+        "course_title": "Impiantistica completa",
+        "course_title_key": "impiantistica completa"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/README.md",
+        "sha256": "eab104aa2b588ea1b60deef1c0901e7ead321818f22a526e89278e2754bc49b3",
+        "category": "readme",
+        "size_bytes": 204,
+        "signals": [],
+        "normalized_text_sha256": "cf6f72ca5aa33e3e13534361b72d74f5de6b8785ded417d668c26c752cd79d8a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/schede/schede.jsonl",
+        "sha256": "7bd33beb613debf6694d92752e56f6ea1640b1cbab06888d528e1743db7d9859",
+        "category": "course_cards",
+        "size_bytes": 36576,
+        "signals": [],
+        "normalized_text_sha256": "9b6808ae97ebe90edb85970bdad5030e073d2d535e90ab0f0fe40efdd4aabf74"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/COURSE.yaml",
+        "sha256": "383f6b52457f9cb5ff3901edbcd0e1d9e75af57493ee82543dda9ea12a35ba65",
+        "category": "course_manifest",
+        "size_bytes": 319,
+        "signals": [],
+        "normalized_text_sha256": "cfb01408af80a8e658deaf879bd6d03b1f819a737c899dfee7f90a3af789b631",
+        "course_title": "Impianti sportivi: edilizia e tecnologie",
+        "course_title_key": "impianti sportivi: edilizia e tecnologie"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/README.md",
+        "sha256": "b7136134c86ea55de940f556074ddd40889ff34e0f43bf00702c81f99cdf2e01",
+        "category": "readme",
+        "size_bytes": 2282,
+        "signals": [],
+        "normalized_text_sha256": "5485d85513d0f167a0b132849fad02df2725686f9faf69f583aef558e25cbc27"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/schede/schede.jsonl",
+        "sha256": "b424a6173e1dc71c38f7744ac8234cc9e04ebead00d58cc18f43758d46cebf47",
+        "category": "course_cards",
+        "size_bytes": 30528,
+        "signals": [],
+        "normalized_text_sha256": "346ab1aabe01551417209cd2f7329d354daf7c9c7950903932bfb275fd4810a2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/COURSE.yaml",
+        "sha256": "a13ee35367c3e23b2c518ef4151c32b01744ae5c1ae0f16f7ffe1c95ec73036b",
+        "category": "course_manifest",
+        "size_bytes": 290,
+        "signals": [],
+        "normalized_text_sha256": "ffe61fb7c448e251377d4ffed4dd9413c21358e911747303eaed5ade1119466c",
+        "course_title": "Infrastrutture viarie e urbanizzazioni",
+        "course_title_key": "infrastrutture viarie e urbanizzazioni"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/README.md",
+        "sha256": "0951878aac40134fd54475b589d7196d54796d11c665d9c76f53e336e4f64280",
+        "category": "readme",
+        "size_bytes": 967,
+        "signals": [],
+        "normalized_text_sha256": "b4d93ea9e04877e2bd52ad7c8da9426c3710f21666c510fd6c1f21552ad23e7f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/schede/schede.jsonl",
+        "sha256": "f833e39e3a8fbcd2a242a507d8e23feb830b1b8333fdee1087b65f997d7b450d",
+        "category": "course_cards",
+        "size_bytes": 18724,
+        "signals": [],
+        "normalized_text_sha256": "62a83497f5dd5f0e7906316d96aaaf9f288080a54d433781f25859a960787fca"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/COURSE.yaml",
+        "sha256": "37d5e0328c141aacace62b15c00d6750c05802e5b870c936c86a702285bcdcb2",
+        "category": "course_manifest",
+        "size_bytes": 269,
+        "signals": [],
+        "normalized_text_sha256": "0767e9b5a15a978c2a679dd806669437cdab84029d8eeba12d39300b01297ad0",
+        "course_title": "Ingegneria civile",
+        "course_title_key": "ingegneria civile"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/README.md",
+        "sha256": "692c38e899a385819e4f02ef2a1c77ef885ca565739083aa2d7f9acf4646de17",
+        "category": "readme",
+        "size_bytes": 163,
+        "signals": [],
+        "normalized_text_sha256": "bc5ead887b6d964d543dd70f0885fa56c4baf8d9784531751d5fda3340985933"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/schede/schede.jsonl",
+        "sha256": "26ccee7893e49c929e1934f9c728cfe5931e97ab317c8d3848b39a650dfd7faf",
+        "category": "course_cards",
+        "size_bytes": 17811,
+        "signals": [],
+        "normalized_text_sha256": "61e1c5bc021c4ecbb1aed530fb84e7be44d558fb474140baa4ab3fb674045304"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/COURSE.yaml",
+        "sha256": "04dd02e4a900e2d19588b02162bf3f6c972cd0a1c8313ceb4e5f24604e302738",
+        "category": "course_manifest",
+        "size_bytes": 277,
+        "signals": [],
+        "normalized_text_sha256": "4cfee789e1df65e98806a44f1629367be9fba1e7944e1ea8d0b38b01617d0aa3",
+        "course_title": "Ingegneria strutturale",
+        "course_title_key": "ingegneria strutturale"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/README.md",
+        "sha256": "e8385f78ecb695ba320101f6a72d23d5f93c0a44394c8dd04271520787de42f1",
+        "category": "readme",
+        "size_bytes": 156,
+        "signals": [],
+        "normalized_text_sha256": "4adb53a3feef031356f82aa97e88b0e7926a5fd1387463529ea6910c5a565663"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/schede/schede.jsonl",
+        "sha256": "ed4dddfdacb1e1a0b5e3ee5052ebe7f30ee7e9a4cd4818d34a75190a80324662",
+        "category": "course_cards",
+        "size_bytes": 20106,
+        "signals": [],
+        "normalized_text_sha256": "06a905e868dff35742b9e592a95bbc8bdf12ad4217e30295d96a5c6a105e435b"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/COURSE.yaml",
+        "sha256": "b358388efa4dba75f4212ad66b8831fe7051316d2f83597cc88670c3fc337952",
+        "category": "course_manifest",
+        "size_bytes": 296,
+        "signals": [],
+        "normalized_text_sha256": "e2bbb128fe2eabdca72ee2bcc8fa65a5e41938ab88dc1cfa9a574b548f901f42",
+        "course_title": "Progettazione tecnica degli interni",
+        "course_title_key": "progettazione tecnica degli interni"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/README.md",
+        "sha256": "1faa815e3a2de0fc1ad8a7897fc8832bdde3708f38c0ba58f1a7226b2ff3a300",
+        "category": "readme",
+        "size_bytes": 1277,
+        "signals": [],
+        "normalized_text_sha256": "b8b249803754236541d2757532ae8ae6ec1572c1124545bdbfc4d65424c9f8f2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/schede/schede.jsonl",
+        "sha256": "0a9127dc0a4bd8185de4abcfa188315a5a47bed3cb93a0a7340495cbc65b86aa",
+        "category": "course_cards",
+        "size_bytes": 21470,
+        "signals": [],
+        "normalized_text_sha256": "46ad4944f9a7a7e9667d73d099b89e68bb9cfeab586f0e22aab56835bfbd93bd"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/COURSE.yaml",
+        "sha256": "0c2c62e8bb9eb0a9573f0ab2f94737c7ddf37af22c910cf42ad6b5f7c91f2a3b",
+        "category": "course_manifest",
+        "size_bytes": 287,
+        "signals": [],
+        "normalized_text_sha256": "e0d840fd76576b70f8d6458aaa207108aa8c499d5aa133492412f6a236c5886b",
+        "course_title": "Diritto privato dell'edilizia",
+        "course_title_key": "diritto privato dell'edilizia"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/README.md",
+        "sha256": "3321fc02d25150268a27203602a7333e8c3a6e9d1d95bc6f3d95d993184a13a9",
+        "category": "readme",
+        "size_bytes": 936,
+        "signals": [],
+        "normalized_text_sha256": "864dd547a5ee3ef801a3e26aa27c560400d525c43b1822200e8a94e6a5902519"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/schede/schede.jsonl",
+        "sha256": "4a5f8d27a9909be917191b1367bf23c44c030f07fa6ff52a3f8dddd92065230d",
+        "category": "course_cards",
+        "size_bytes": 18707,
+        "signals": [],
+        "normalized_text_sha256": "17ae77fa32cd04db10b6a0ff37e7745a0980dfeee3fea06cd2018f56f3aa1b40"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/COURSE.yaml",
+        "sha256": "8e9513173fc1d067c925b74fb377866273f5d8c802018ab884ceeb9259f76c6a",
+        "category": "course_manifest",
+        "size_bytes": 292,
+        "signals": [],
+        "normalized_text_sha256": "6102ac226a55610224a190ffcdc8fb5f4669430faeb925b5dcf3039b19286d2e",
+        "course_title": "Tecnologia delle macchine termiche",
+        "course_title_key": "tecnologia delle macchine termiche"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/README.md",
+        "sha256": "8cd1f6b78faecee8ffec86493ff3044d166d865361243988e12b07b6f09359c3",
+        "category": "readme",
+        "size_bytes": 181,
+        "signals": [],
+        "normalized_text_sha256": "69a11c78731cdf01e352b85189b7221bd1fe04a82c88e0edd8a6964f3fa9309d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/schede/schede.jsonl",
+        "sha256": "3b6bd7e596e1f29a166b7ff8f73bbdd2fc7200e357a463565ea24e37e5ba2c26",
+        "category": "course_cards",
+        "size_bytes": 27340,
+        "signals": [],
+        "normalized_text_sha256": "b9309f3f43e935d8ebd5edf342cb331a1a0d067adf77949dec53d76907a8c5f2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/COURSE.yaml",
+        "sha256": "f30b555a6b270b3f9e1dcad681753d8557dcf1f2c9179e1dbf3f712ffd88a191",
+        "category": "course_manifest",
+        "size_bytes": 277,
+        "signals": [],
+        "normalized_text_sha256": "b0efbd41a1c30efa1b229abe7865e8fcf991e18c28468553ab8a164fc9929794",
+        "course_title": "Master in design",
+        "course_title_key": "master in design"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/README.md",
+        "sha256": "fe611492031b653db419e49972c41f1697b693c7bff94fe712ae026b7aa238a7",
+        "category": "readme",
+        "size_bytes": 151,
+        "signals": [],
+        "normalized_text_sha256": "2f2b0b5407d23b5305f93ab4c4a98e9cbcf8daba5a335d705d45c450946271c3"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/schede/schede.jsonl",
+        "sha256": "ea591745516dc3778c5709491d5e39343e0602e47ed990e790303b44da7230ba",
+        "category": "course_cards",
+        "size_bytes": 17977,
+        "signals": [],
+        "normalized_text_sha256": "d82b8649ef5cb9bd35223ed79a20750fbf4aaf610a291333482d35415e9ba9ef"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/COURSE.yaml",
+        "sha256": "93e1b045416758064976d0d4acd526c69a3514e0b342cf5455af7f1ad0ae1a6e",
+        "category": "course_manifest",
+        "size_bytes": 292,
+        "signals": [],
+        "normalized_text_sha256": "e1cdbd94b797b603e4d5c4eabb191b70f0c5cd504f99123ab6df0e7023bfd533",
+        "course_title": "Master in gestione d'impresa edile",
+        "course_title_key": "master in gestione d'impresa edile"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/README.md",
+        "sha256": "cf708fda2ac8126cc710feb3c94a73df3005ea2083e17fe98be05cce034ede53",
+        "category": "readme",
+        "size_bytes": 1010,
+        "signals": [],
+        "normalized_text_sha256": "f9d66d63d923ae5bd229377ead6b211572163e9992d934fcc31ccf3211e240ee"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/schede/schede.jsonl",
+        "sha256": "d4321f1ce2e5f981725d440c1f2192f03fc9983fd91aae361e4fadef6f8e20d1",
+        "category": "course_cards",
+        "size_bytes": 21514,
+        "signals": [],
+        "normalized_text_sha256": "0f0a5c8ecdee4893d216e28b3d43ce160ae33e0fb8cddbc3cd854689717cb171"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/COURSE.yaml",
+        "sha256": "1be2d402cc1cd25c051b2ab10944f932656d2784c655da2b7227c7048dfbb82f",
+        "category": "course_manifest",
+        "size_bytes": 281,
+        "signals": [],
+        "normalized_text_sha256": "8cd4005f57d29979198b902daa302bd4bc14e04f96b0521ccf584118ae39caca",
+        "course_title": "Matematica per costruire",
+        "course_title_key": "matematica per costruire"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/README.md",
+        "sha256": "4c9f0209833c2d5d11ff50e045f64b4f0fb394ea4db08d088535f767b63a95a7",
+        "category": "readme",
+        "size_bytes": 173,
+        "signals": [],
+        "normalized_text_sha256": "b120fc8b91d7e282f2ee827a33d95c04f3543c1b89c91be29791bc851e0f04dd"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/schede/schede.jsonl",
+        "sha256": "a6274e1cb989f180918d7a279d42fe963588a72f47bc336bce8d861a06ccf7bf",
+        "category": "course_cards",
+        "size_bytes": 14551,
+        "signals": [],
+        "normalized_text_sha256": "adaa2087c95a01952ada10bc1ffc518b579b7641667ee6d57e1bf6c83d7cc235"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/COURSE.yaml",
+        "sha256": "08cc5199756370475cdb4f11b84c495fa89720cae853996ebe1fd86956e15129",
+        "category": "course_manifest",
+        "size_bytes": 299,
+        "signals": [],
+        "normalized_text_sha256": "8c13a7d2696026fb886d4f040f4946626f403f46f2329d4cd01b02efde0a691a",
+        "course_title": "Materiali e componenti dell'impiantistica",
+        "course_title_key": "materiali e componenti dell'impiantistica"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/README.md",
+        "sha256": "c2892251139b09da98cd74e39c8a2556da95b16fe29b8e8180617737f5e9f256",
+        "category": "readme",
+        "size_bytes": 163,
+        "signals": [],
+        "normalized_text_sha256": "35f8ab0ba4524ab6a77ff0c9863d9852adf47d1b61101fdac19fd2bce8881a29"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/schede/schede.jsonl",
+        "sha256": "74d1e677e9f3ea42496d3f66b5e55c6aee6afe17544d19164201c044ad420767",
+        "category": "course_cards",
+        "size_bytes": 32785,
+        "signals": [],
+        "normalized_text_sha256": "a54cbe09ce2bb29f88a3efeef061d05ae809da47f4a8e8d2db36c7d4ac714354"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/COURSE.yaml",
+        "sha256": "5b457be167ddbe5c54dec4e1108064b328df2b80544f00a7cdb95a544c27a5e1",
+        "category": "course_manifest",
+        "size_bytes": 311,
+        "signals": [],
+        "normalized_text_sha256": "487b15700a768b5619c11e564809367a8e27c032526aca9bcc5f707906dd8fec",
+        "course_title": "Materiali del futuro e costruzione innovativa",
+        "course_title_key": "materiali del futuro e costruzione innovativa"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/README.md",
+        "sha256": "4a0ff6c4ab251bd487cb67ad0a4ebc8df5cd8b98bf121379d35c042cbe5bf69f",
+        "category": "readme",
+        "size_bytes": 1041,
+        "signals": [],
+        "normalized_text_sha256": "ef0e837a0dcb44ab79f6867427f8621ece5c5974da82f8b9fcf3a38469430c74"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/schede/schede.jsonl",
+        "sha256": "a88199f26d2e9b4c7bb17912dc1c841ad5f0aae7f543c1a9431cbc0882e20f56",
+        "category": "course_cards",
+        "size_bytes": 26774,
+        "signals": [],
+        "normalized_text_sha256": "e817fc479d03756dc67bb85b56d9d7b8697df4aea006139a91e92bde863b67d9"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/COURSE.yaml",
+        "sha256": "05f0b635a2abac3a1db297055f2df44245bccceabd29bc2d98b6884d1a776f6a",
+        "category": "course_manifest",
+        "size_bytes": 312,
+        "signals": [],
+        "normalized_text_sha256": "8ac2a488bbe0cf90e32289e07928a5f69d4377a3d1aace39f5601c69dc266cac",
+        "course_title": "Metodi costruttivi avanzati",
+        "course_title_key": "metodi costruttivi avanzati"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/README.md",
+        "sha256": "29a06bda993aae85950f16482d79ce57d828e267f8b73bce8ed00075a8c79761",
+        "category": "readme",
+        "size_bytes": 452,
+        "signals": [],
+        "normalized_text_sha256": "75f6d2737a4b5ae3de297a6eea9f11b9d1005f24988fb62185417badc4c3bf18"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/schede/schede.jsonl",
+        "sha256": "fe5257aa7998ba7186ce51bce6c8560344820eb521b1e17dbb06fa1dd0a00a92",
+        "category": "course_cards",
+        "size_bytes": 26034,
+        "signals": [],
+        "normalized_text_sha256": "50f6beb131c6dc4be5216b598520907ed568d30d29e32cde45b4e7f5a40144e8"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/COURSE.yaml",
+        "sha256": "bc2060e9316525b3e596d3ee69d91001325a17bc0cc218316623bd9e1cd34e9a",
+        "category": "course_manifest",
+        "size_bytes": 708,
+        "signals": [],
+        "normalized_text_sha256": "2a00cff6601c57552bbd70968caf23f83c4cfd46a73c14f37cd6288c8ade6e00",
+        "course_title": "Mezzi di sollevamento e movimentazione",
+        "course_title_key": "mezzi di sollevamento e movimentazione"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/README.md",
+        "sha256": "902e00f5163bbbba228f656f2a8c1c7fd2f324a7d5a4ea75204e44d40d9af5a2",
+        "category": "readme",
+        "size_bytes": 857,
+        "signals": [],
+        "normalized_text_sha256": "4f574ef215d4c1a63d59b7ecce4c880c246e6048d186a3dd2e10e08a268054c6"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/schede/schede.jsonl",
+        "sha256": "f2fc102ddd24fc8e61cbcb238ef4b812c27ed79c574c6762ad0cbe3e943b6b7e",
+        "category": "course_cards",
+        "size_bytes": 21341,
+        "signals": [],
+        "normalized_text_sha256": "778b32c34ca84a1cb32b3012cf81fbb408d3fcb3b90eb170a9022a8f3a6b8867"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/COURSE.yaml",
+        "sha256": "10c2547326292924db9f97c2f31b138df514f972a766f68376dda7c7e47298ea",
+        "category": "course_manifest",
+        "size_bytes": 315,
+        "signals": [],
+        "normalized_text_sha256": "af6b953627d53ed16807770eca6f12beae6277c37b128c669efc3aaa4dcb6c1f",
+        "course_title": "Murature, intonaci e finiture murali",
+        "course_title_key": "murature, intonaci e finiture murali"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/README.md",
+        "sha256": "cb5791487129841f2039932a002dc78117df2c94c596b6158c699854e9f237a0",
+        "category": "readme",
+        "size_bytes": 1616,
+        "signals": [],
+        "normalized_text_sha256": "60fb8fabf57f89c146f4d281941f7dd2316914bc4ed3abcf50dca9e8cb724d66"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/schede/schede.jsonl",
+        "sha256": "614df3bd678daf7209a16af32d35b17c09667b743fa440d8796884bd904d5b7c",
+        "category": "course_cards",
+        "size_bytes": 49720,
+        "signals": [],
+        "normalized_text_sha256": "01cef860957d22a024126e2d426677413fdecca2d338b25a69674ddf79a36d6f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/COURSE.yaml",
+        "sha256": "c6c1d746e244618b948e7d8e11c31d862601b30f7806e2c35672cfd46b5a15ca",
+        "category": "course_manifest",
+        "size_bytes": 284,
+        "signals": [],
+        "normalized_text_sha256": "4c8364ba147f4afac5ed73e9271cbdfe8933d55ed916ef1506b1d5698f98acc4",
+        "course_title": "Edilizia sanitaria e ospedaliera",
+        "course_title_key": "edilizia sanitaria e ospedaliera"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/README.md",
+        "sha256": "514bd1ef546384dd0bcbb05dfd6534e3a3a969e1607b1768f9286d9b32462a68",
+        "category": "readme",
+        "size_bytes": 1158,
+        "signals": [],
+        "normalized_text_sha256": "11366c39319145f429ad5a435ee3df0b029989c17d91bbc2fa8e8628384235b7"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/schede/schede.jsonl",
+        "sha256": "d62b6dae9e25c8e23b09bf5e786efbba2f2ccf9a21efc7e55f6f7b639e42e4f1",
+        "category": "course_cards",
+        "size_bytes": 28018,
+        "signals": [],
+        "normalized_text_sha256": "66c8f2d6989de7007381cbf0b9e471e5a96be193c71294bc00e2cecad261a9db"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/COURSE.yaml",
+        "sha256": "33656c3f435b2cfea3c6e295d2f377b48990f44a0c4ca5b424ae61710c05d8f7",
+        "category": "course_manifest",
+        "size_bytes": 756,
+        "signals": [],
+        "normalized_text_sha256": "0c3fe8e362b57043b4030815dfea0393b8f014f8f24edd1c7a47f4489d4f4d00",
+        "course_title": "Patologie edili e diagnostica strumentale",
+        "course_title_key": "patologie edili e diagnostica strumentale"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/README.md",
+        "sha256": "4706ff3107212702413a5ea81ef20dcd0be6c8bf810695f79a7c6347d0141f8a",
+        "category": "readme",
+        "size_bytes": 759,
+        "signals": [],
+        "normalized_text_sha256": "b48809f80a4b7f22593065c2eb6f109111f6bb344f07ae7881bad01f7358a1ff"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/schede/schede.jsonl",
+        "sha256": "887c6053c6d4329c329ee187a85f6d1c00e348686be3bf03b68cf1c05f53c3e9",
+        "category": "course_cards",
+        "size_bytes": 31460,
+        "signals": [],
+        "normalized_text_sha256": "38921676fa792645a118032c9e64f321043c0ff9a154792aba2837df8b368deb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/COURSE.yaml",
+        "sha256": "d86a612f4479ef17432253a274322395f6a804201f34d04f22c9981c0b55cb99",
+        "category": "course_manifest",
+        "size_bytes": 329,
+        "signals": [],
+        "normalized_text_sha256": "8a8b7900a0bde47b75013136c59bfe77253659a29d3773a5242bbfbf46268cc1",
+        "course_title": "Perizie, stime e assicurazioni",
+        "course_title_key": "perizie, stime e assicurazioni"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/README.md",
+        "sha256": "2db04a6d85b6e2eab82730564d50b48612a10a6d2a51e15c9455a016124dac6a",
+        "category": "readme",
+        "size_bytes": 454,
+        "signals": [],
+        "normalized_text_sha256": "04ec7a05b0dc0da92cf9190ce073c9171170e83491795b1684c0db72753d561c"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/schede/schede.jsonl",
+        "sha256": "28ba314e5f49a56eac82065497faebe36a779157fc94eb9bd4dceb6ab6872427",
+        "category": "course_cards",
+        "size_bytes": 22388,
+        "signals": [],
+        "normalized_text_sha256": "2c4b063cc9095c70d99c9e77319a2ed2d6885f2bfcd6b92da52e857c413b9b00"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/COURSE.yaml",
+        "sha256": "df61e7816376d62879418303bef65181ffa2a23907bc26ede062c07cad212119",
+        "category": "course_manifest",
+        "size_bytes": 314,
+        "signals": [],
+        "normalized_text_sha256": "07eb8d1ae164a09b6377d286db6fda334aac5f06a2a5eae1a2bdd203d20e5136",
+        "course_title": "Pietre naturali e materiali lapidei",
+        "course_title_key": "pietre naturali e materiali lapidei"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/README.md",
+        "sha256": "42646351782535d354ea6fd4ad948b94e4a3c23296df4e29a7dadf628952f110",
+        "category": "readme",
+        "size_bytes": 1756,
+        "signals": [],
+        "normalized_text_sha256": "3e341d71a6ffce567fd038ea8909facbd4781c1bae299e66beb1198c795d8676"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/schede/schede.jsonl",
+        "sha256": "6153d74f3073d7a59107ad4878a8fe5787511cd94661e674097cf7b192c28333",
+        "category": "course_cards",
+        "size_bytes": 31789,
+        "signals": [],
+        "normalized_text_sha256": "b1e84c10db38d71f75b55310aaa10df91014efdf630837ea192724959f11ed60"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/COURSE.yaml",
+        "sha256": "42aaf1efdd03f1641f1068fe6d3d65706ff979a11034dcd9867a213299062044",
+        "category": "course_manifest",
+        "size_bytes": 283,
+        "signals": [],
+        "normalized_text_sha256": "d2da318952daddaf8d3ff06c8a9e9fa2d82b224feeace73ab7569432fdccaae4",
+        "course_title": "Piscine e centri wellness",
+        "course_title_key": "piscine e centri wellness"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/README.md",
+        "sha256": "64b3844c8d2af21cfb5de8e869e57775a390b40ddd654905242c5f860f1fa7fa",
+        "category": "readme",
+        "size_bytes": 1096,
+        "signals": [],
+        "normalized_text_sha256": "6809fb6bb0d95da8efa5c2bd23169401622f7f3341e3bafb3f63915eceb7e622"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/schede/schede.jsonl",
+        "sha256": "5d59084280d0ed6985fd89066f0dbf0aec3c15f7af95baa94f6b93d169a02ccb",
+        "category": "course_cards",
+        "size_bytes": 25117,
+        "signals": [],
+        "normalized_text_sha256": "3ec7147530c3edecf5f5ada8d2c7ddf89d4bef77d33f2f768766e5a91eef4919"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/COURSE.yaml",
+        "sha256": "ced4abb06d94c8efb249fcce846c843ff52f6bf16745dd34edf912e8f7778b4a",
+        "category": "course_manifest",
+        "size_bytes": 329,
+        "signals": [],
+        "normalized_text_sha256": "eff62ec7c69dd51d52d48f88e04e8909c1d32e3a16029ce2dc8a8aa7c26c23bd",
+        "course_title": "Porti e opere marittime",
+        "course_title_key": "porti e opere marittime"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/README.md",
+        "sha256": "400f7a109078df3864523fa5677d312fd65b4d06dda47a9c72ff6bc3453a01e9",
+        "category": "readme",
+        "size_bytes": 449,
+        "signals": [],
+        "normalized_text_sha256": "9269947ccfbd63500bde198e19ffd898636e281ceadcc44cfe83cb37eaaa6a45"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/schede/schede.jsonl",
+        "sha256": "9da39467883679ec307d438f119375d2681dadcea04ef8fd48d5ba0461a90a90",
+        "category": "course_cards",
+        "size_bytes": 21323,
+        "signals": [],
+        "normalized_text_sha256": "5bd891badbfef2d695bbb309ed65d54373c69c0905a28e76d971b773741ce2ca"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/COURSE.yaml",
+        "sha256": "b074d96ebb5e838de79f6688455dd0e8ba7b84f50cb66c01b6fb5ff26e06470b",
+        "category": "course_manifest",
+        "size_bytes": 239,
+        "signals": [],
+        "normalized_text_sha256": "ebbbf6336bc7512517377f96bb01b655a6bb01543373bc5e7daa872eae551f7a",
+        "course_title": "Posa in opera e controlli",
+        "course_title_key": "posa in opera e controlli"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/README.md",
+        "sha256": "b191ea22b0365a70bab7fa2a4b6ebbe1f03b870ab4f9fa18a0e87b42e858f320",
+        "category": "readme",
+        "size_bytes": 681,
+        "signals": [],
+        "normalized_text_sha256": "fbe6f05021c304a9d8c4a8cf896a11b31f92759d4270d079a59fc4131ef57809"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/schede/schede.jsonl",
+        "sha256": "8d85e054995f562ac47b925e29c72eae7ae9ae76bbc1eccadac4947533034db8",
+        "category": "course_cards",
+        "size_bytes": 50619,
+        "signals": [],
+        "normalized_text_sha256": "16597ed7295bc330f660b1805b4b5e15ce2d043b31297118a9d7c7563c7c1747"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/COURSE.yaml",
+        "sha256": "6c26150e88519fbbdf5344b14213d391f762713310f8cf13e8462a317509acb0",
+        "category": "course_manifest",
+        "size_bytes": 334,
+        "signals": [],
+        "normalized_text_sha256": "a453dbf93c0d91bafe5553e8a36aeef6d62d35015460c232d3f41ee8ea2bc18b",
+        "course_title": "Prefabbricazione e industrializzazione edilizia",
+        "course_title_key": "prefabbricazione e industrializzazione edilizia"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/README.md",
+        "sha256": "ff7a4954b4d4690a0eb95045c5aa9ba285cfb0db0bd7b55ef77209555758e7be",
+        "category": "readme",
+        "size_bytes": 438,
+        "signals": [],
+        "normalized_text_sha256": "843996cac07381f96c78c64483c237fcee618624ef4a8e883e959bc482f624a3"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/schede/schede.jsonl",
+        "sha256": "1e1b5e696c65408b5eca67cb19d9ed9a7f3379f0f26180ec47cd67b9da9871dd",
+        "category": "course_cards",
+        "size_bytes": 21474,
+        "signals": [],
+        "normalized_text_sha256": "32b1f729308b27c81639a109b94654cfa30e813792b0265d6a0877e68a7a7c0b"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/COURSE.yaml",
+        "sha256": "043524535e897281be04ac966130e3caaec23d9e94f3e674b34013bb65b110fe",
+        "category": "course_manifest",
+        "size_bytes": 305,
+        "signals": [],
+        "normalized_text_sha256": "d722f99f54c488dbee50b324928330a1ecfe4a74356e59ddb9a0af7131ae3f39",
+        "course_title": "Mercato immobiliare, valutazione e investimenti",
+        "course_title_key": "mercato immobiliare, valutazione e investimenti"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/README.md",
+        "sha256": "ca23a27f6e83e85ebce4bb8b3c8733328a959069620f64cbc5b3af6bbc72c2fe",
+        "category": "readme",
+        "size_bytes": 989,
+        "signals": [],
+        "normalized_text_sha256": "c16590dcd8aa10fa79707dbf3b4f56eaab326e37b7585b2e729f6b9aa7734c6d"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/schede/schede.jsonl",
+        "sha256": "dfead9788a5ba2b8ccb4e0369893e1ca61aa3cd874b2ad5152ac07cb2eb71568",
+        "category": "course_cards",
+        "size_bytes": 18518,
+        "signals": [],
+        "normalized_text_sha256": "8a3f779920b17bb328f3b0143ad4ce0371dccb064ef6c0fecca381b66df696b6"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/COURSE.yaml",
+        "sha256": "e612c60f209dfca2255748b405a26a864cdc99f43e29d17fc09f8341c73c54b3",
+        "category": "course_manifest",
+        "size_bytes": 331,
+        "signals": [],
+        "normalized_text_sha256": "4727e13d3add2fa63ccedc76fa6d11ca7a7ae1a2420550a7d7acae4cc418df71",
+        "course_title": "Restauro e conservazione delle opere architettoniche",
+        "course_title_key": "restauro e conservazione delle opere architettoniche"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/README.md",
+        "sha256": "3c82f9aeca89a14294aef6e7023dc2a98502e08d409df2aac00a02614aa7627b",
+        "category": "readme",
+        "size_bytes": 1785,
+        "signals": [],
+        "normalized_text_sha256": "e8ae4d92bbad96f27c7505a78b0ae1491d684b11f90733fce881f3d6ad6a4d24"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/schede/schede.jsonl",
+        "sha256": "cc1a0cf7a9cf5363e92380cde66312a467d369720afafbdbe8f85501f8150eb4",
+        "category": "course_cards",
+        "size_bytes": 26787,
+        "signals": [],
+        "normalized_text_sha256": "69285c193ec34a5cefff9adb77abae3dbb59c7f64e86943f7ccf175ab53073eb"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/COURSE.yaml",
+        "sha256": "62a3f6cdeba7ab4c1fc3d9f49742531c96b2c49cbfeb58116ac2f9be22b57a60",
+        "category": "course_manifest",
+        "size_bytes": 287,
+        "signals": [],
+        "normalized_text_sha256": "3ffedabfb7e276ad2b8d1de60736129746af84463435a62029a34b0ed06228ea",
+        "course_title": "Rinnovabili idro, biomasse e geotermia",
+        "course_title_key": "rinnovabili idro, biomasse e geotermia"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/README.md",
+        "sha256": "ef98df2dea710de6c6c7183bc7404cd62c454ec36407b5fe932a26bb4eea1d12",
+        "category": "readme",
+        "size_bytes": 402,
+        "signals": [],
+        "normalized_text_sha256": "4912a0386f955555cb64fc7e4f36632b3f6d6948035bdc6ee53735b3059eaa72"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/schede/schede.jsonl",
+        "sha256": "ca44eeadc446ceb7d608d64f66d348fee7f7dc65b86e748b4e24f097a1bb01a1",
+        "category": "course_cards",
+        "size_bytes": 21437,
+        "signals": [],
+        "normalized_text_sha256": "9d20bdfd7d9f81befa629292c7a20f1a2f7a69b5636c7a73653656ef2eb7427e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/COURSE.yaml",
+        "sha256": "24e9f974252aab520ca665716d9d6fbb5fe682412107e57b42f1981a5a49027c",
+        "category": "course_manifest",
+        "size_bytes": 297,
+        "signals": [],
+        "normalized_text_sha256": "69bd1ff9e86079fa19b31ecf1fb8e0971f5c7eab925ee697705790ec2b2919dd",
+        "course_title": "Risanamento e recupero edilizio",
+        "course_title_key": "risanamento e recupero edilizio"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/README.md",
+        "sha256": "b68af82dc47953ddbe7579bd1e1ae1beeab0ce9b320fac24879d0c15823ec0bc",
+        "category": "readme",
+        "size_bytes": 439,
+        "signals": [],
+        "normalized_text_sha256": "623584676a940e5dd2a7d1314ed65d73143ea505ccce7dbfb713a638f8c3d7ae"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/schede/schede.jsonl",
+        "sha256": "0870f94779f887cd47acaafb3e24842ad88682b4fae175105fa5b6c3e5c10a8b",
+        "category": "course_cards",
+        "size_bytes": 33828,
+        "signals": [],
+        "normalized_text_sha256": "6e2dd368061a0c15a9ecbcabf7be14b44c68345e37a3826c7ed8175e28ae34a3"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/COURSE.yaml",
+        "sha256": "bfedeea3ad76c1a23f17601e4f76526018c1654302fc52c370b984a750615c8c",
+        "category": "course_manifest",
+        "size_bytes": 212,
+        "signals": [],
+        "normalized_text_sha256": "02264a1bf5bb767bdd386906346eaa8dbcebcf8d0e997d4d13a9321015929d94",
+        "course_title": "Robotica delle costruzioni",
+        "course_title_key": "robotica delle costruzioni"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/README.md",
+        "sha256": "7e47110abc765d2b06000ad8d90d8a363718d05dceff08955f86cd2efee7b4aa",
+        "category": "readme",
+        "size_bytes": 237,
+        "signals": [],
+        "normalized_text_sha256": "f192c23fcc4962c34f09d94f8825d6baa36319135439f3efebf25a9e44072094"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/schede/schede.jsonl",
+        "sha256": "4a7e9bcb9e847696b0a0cb31d08221f1364307a2eaa0809297696c58e53df6d0",
+        "category": "course_cards",
+        "size_bytes": 27087,
+        "signals": [],
+        "normalized_text_sha256": "fb0b50502e6778153df87162c5eeb7a8ea74d29c5cb11e48a370ef1667988ec2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/COURSE.yaml",
+        "sha256": "a4952809e548239c3ecf0c6b9ae4c4295bc6741ccd21ea704b95350187316fef",
+        "category": "course_manifest",
+        "size_bytes": 293,
+        "signals": [],
+        "normalized_text_sha256": "ec91e9fa8544ad52bec2d68faf5caf05a181156ec46f4d7022ef13b0f4ce0164",
+        "course_title": "Serramenti, vetrate e porte",
+        "course_title_key": "serramenti, vetrate e porte"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/README.md",
+        "sha256": "c2be1e22337a3cc2135c73a50959f67880e8897a2113eb63026b0df016d68b33",
+        "category": "readme",
+        "size_bytes": 953,
+        "signals": [],
+        "normalized_text_sha256": "3c5783afa4bc669d69b906658521b4b3b3ac03359700e788b875479aa5e8257b"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/schede/schede.jsonl",
+        "sha256": "be9531334a9996ead8b882882d88fff8569f9ad7cdce77210c6eed71d836346d",
+        "category": "course_cards",
+        "size_bytes": 37356,
+        "signals": [],
+        "normalized_text_sha256": "7bd043f0c8db71c2bcf7b33a6d0ff053f9040231e0208de30998123dcddfc6ee"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/COURSE.yaml",
+        "sha256": "e5904ffdb7eb18d66cbca7a7f22d62bdf49dd5d5b588f5eb8ac6684a26bfac6d",
+        "category": "course_manifest",
+        "size_bytes": 294,
+        "signals": [],
+        "normalized_text_sha256": "ab36031657cf1e8ef4358fa683f3111bf7c491776e79d4dd69a4081cab4ad574",
+        "course_title": "Prevenzione incendi e accessibilità",
+        "course_title_key": "prevenzione incendi e accessibilità"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/README.md",
+        "sha256": "78da55e510665ac92938b789909c777a178d40c4e8aed4e75e75dd21d59082ac",
+        "category": "readme",
+        "size_bytes": 908,
+        "signals": [],
+        "normalized_text_sha256": "548f6913fb0341a43c8b7813622fb6b601fae934e3366cccaf796068b3103c75"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/schede/schede.jsonl",
+        "sha256": "b19b16a131ee496d3bc06aa3459670299219de3570047b4741da53aa9e5722b2",
+        "category": "course_cards",
+        "size_bytes": 27922,
+        "signals": [],
+        "normalized_text_sha256": "1f743d80dfdba3f7372498db5bedcedb4f88a44811d1b996d51782e800fdf6df"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/COURSE.yaml",
+        "sha256": "bc1cde088bcb731fa01bcc32f8f209c491dbef7c659b56449f143e503be8b3b8",
+        "category": "course_manifest",
+        "size_bytes": 306,
+        "signals": [],
+        "normalized_text_sha256": "04497392dbdd1c0b4e44dc39301530b83dcdbccd10301c2a7ae783e994d0702a",
+        "course_title": "Sicurezza di cantiere (D.Lgs 81/08)",
+        "course_title_key": "sicurezza di cantiere (d.lgs 81/08)"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/README.md",
+        "sha256": "e33bcfc0dbca0dd58e388cf85081dd12210425268f32eec2eec59652d1ee89ee",
+        "category": "readme",
+        "size_bytes": 1341,
+        "signals": [],
+        "normalized_text_sha256": "c7fc4a6ad2af88bc33cfff0c00a6984441859265eff0f3f5a7179b6783be06ee"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/schede/schede.jsonl",
+        "sha256": "fb4fb02ff9c2c809f42e1e97d3216fc26604b5135e786530f68d48fc6c4af2f2",
+        "category": "course_cards",
+        "size_bytes": 49859,
+        "signals": [],
+        "normalized_text_sha256": "e8851109818922ea961fc474fdc5b6b1541c6658ae85533d5b3d0d5cddb9a610"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/COURSE.yaml",
+        "sha256": "dbdf948267323bde073d539a73429e46afb8f6f1f2a12c665d1fa7aed004fde7",
+        "category": "course_manifest",
+        "size_bytes": 286,
+        "signals": [],
+        "normalized_text_sha256": "4541ffa16ad848c5c7df393c457934222e515f6f480b1cec53090588459bf8d2",
+        "course_title": "Tetti e coperture",
+        "course_title_key": "tetti e coperture"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/README.md",
+        "sha256": "805664ddb33d05ac9be1ad4d46d981e7fc23a0a1a569adebec840beea0b18a91",
+        "category": "readme",
+        "size_bytes": 953,
+        "signals": [],
+        "normalized_text_sha256": "f1985047c7e6c7acda91ec53a10b74ce65bf7ac9b1afd90ccb8d4a02326dec6e"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/schede/schede.jsonl",
+        "sha256": "2e9f7281e4e537c5b21dd81a6abfcc056a1a56d14aba10298f89ded71eee102b",
+        "category": "course_cards",
+        "size_bytes": 28270,
+        "signals": [],
+        "normalized_text_sha256": "673c7b8ba6cd756ba2f2ad8d44a7bcb7cf0b5912689cdda2d5bbd1e084d70ad2"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/COURSE.yaml",
+        "sha256": "0a1e74a90f3a47f7d14fadc36f361c107861b994a7e4b8df2082c2c14ee11e06",
+        "category": "course_manifest",
+        "size_bytes": 302,
+        "signals": [],
+        "normalized_text_sha256": "33c8ff57425d8ae2d25f4ad4983f14308478f532d595f56fd4aef04904f0ba98",
+        "course_title": "Urbanistica, territorio e procedure edilizie",
+        "course_title_key": "urbanistica, territorio e procedure edilizie"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/README.md",
+        "sha256": "a205cc2474eb277df3824da630cbd318c9b31ea033f06fd6779b9e5c14815135",
+        "category": "readme",
+        "size_bytes": 1064,
+        "signals": [],
+        "normalized_text_sha256": "8fc2bd638248f85d97841424de5f3d7e13512287b4fcc3fa1e97509cac7bc692"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/schede/schede.jsonl",
+        "sha256": "4fb4530dbbe8bf2751749852690d16ff9873030df59cdbc3434351dc2ada303a",
+        "category": "course_cards",
+        "size_bytes": 18681,
+        "signals": [],
+        "normalized_text_sha256": "51bfc955abfba9c6e49bccd6dd2db155836c2ae9d66eafe333f183a2ae51312f"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/COURSE.yaml",
+        "sha256": "9af9cf49ac7925c9845ea654b6beaed0a1ba64bbccfec0c59dc90c3d8ecb6e28",
+        "category": "course_manifest",
+        "size_bytes": 289,
+        "signals": [],
+        "normalized_text_sha256": "1560f2908f7da2f0a01da1f932d0567f37363d548bd0b8f15c8a8d985e7f359f",
+        "course_title": "Verde urbano e arredo urbano",
+        "course_title_key": "verde urbano e arredo urbano"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/README.md",
+        "sha256": "6ad1eba7e610e7f66435d20c30b3942e5cc263a779177017934bb4392086e631",
+        "category": "readme",
+        "size_bytes": 1047,
+        "signals": [],
+        "normalized_text_sha256": "edce6a38727fccb99af955ce73bffa0021dc02f9ba310af1dbcf01f9d2de1a8a"
+      },
+      {
+        "path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/schede/schede.jsonl",
+        "sha256": "57c693bb713f6b1771a13880f3d3a00ca8c3e39b67b8bd1a11e1b9df86e9b239",
+        "category": "course_cards",
+        "size_bytes": 19050,
+        "signals": [],
+        "normalized_text_sha256": "8a9e7b595c416b7b0cdbe83dffd96e0a68aeca92b174bc2e02b34ce4e2e0b3c5"
+      }
+    ],
+    "counts_by_category": {
+      "course_cards": 71,
+      "course_manifest": 83,
+      "exam_document": 2,
+      "exam_questions": 73,
+      "exam_readme": 1,
+      "readme": 82
+    }
+  },
+  "interpretation": {
+    "possible_duplicate_groups": [],
+    "boundaries": [
+      "Signals are candidates for human review, not duplicate decisions.",
+      "No source file was deduplicated, moved, overwritten, or deleted.",
+      "A shared schema, topic, or exam/pack name is not by itself evidence of duplicate content."
+    ]
+  }
+}
