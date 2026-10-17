@@ -1,0 +1,258 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_SOURCE_RECORD_SCHEMA_G1.json",
+  "title": "UNI source record schema G1",
+  "description": "Schema minimale per registrare provenance locale senza incorporare il contenuto della fonte.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "lot_id",
+    "scope",
+    "observed_at",
+    "records"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "G1"
+    },
+    "lot_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "root_path",
+        "selection_rule",
+        "excluded_paths"
+      ],
+      "properties": {
+        "root_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "selection_rule": {
+          "type": "string",
+          "minLength": 1
+        },
+        "excluded_paths": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "observed_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "records": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/source_record"
+      }
+    }
+  },
+  "$defs": {
+    "source_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "record_id",
+        "source_kind",
+        "title",
+        "locator",
+        "version_date",
+        "hash",
+        "license",
+        "attribution",
+        "transformation",
+        "verification_status",
+        "limitations"
+      ],
+      "properties": {
+        "record_id": {
+          "type": "string",
+          "pattern": "^G1-[0-9]{3}$"
+        },
+        "source_kind": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "author": {
+          "type": "string",
+          "minLength": 1
+        },
+        "locator": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "path"
+          ],
+          "properties": {
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "url": {
+              "type": "string",
+              "format": "uri"
+            }
+          }
+        },
+        "version_date": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "kind",
+            "basis"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "minLength": 1
+            },
+            "kind": {
+              "type": "string",
+              "minLength": 1
+            },
+            "basis": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "hash": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "algorithm",
+            "value"
+          ],
+          "properties": {
+            "algorithm": {
+              "type": "string",
+              "const": "SHA-256"
+            },
+            "value": {
+              "type": "string",
+              "pattern": "^[A-Fa-f0-9]{64}$"
+            }
+          }
+        },
+        "license": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "label",
+            "basis_path",
+            "basis_selector",
+            "local_statement"
+          ],
+          "properties": {
+            "label": {
+              "type": "string",
+              "minLength": 1
+            },
+            "basis_path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "basis_selector": {
+              "type": "string",
+              "minLength": 1
+            },
+            "local_statement": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 1
+        },
+        "transformation": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "status",
+            "description"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "source_preserving",
+                "transformed"
+              ]
+            },
+            "description": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "verification_status": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "state",
+            "checked_at",
+            "checks",
+            "not_checked"
+          ],
+          "properties": {
+            "state": {
+              "type": "string",
+              "enum": [
+                "observed_local",
+                "partially_verified",
+                "unverified",
+                "blocked"
+              ]
+            },
+            "checked_at": {
+              "type": "string",
+              "format": "date"
+            },
+            "checks": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "not_checked": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "limitations": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}
