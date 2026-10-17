@@ -1,8 +1,8 @@
 # UNI Corpus G0 — audit tecnico, fonti e provenance
 
-Data audit: 2026-10-17  
-Worktree: `C:\Users\Alessandro\Documents\Codex\2026-10-17\unicostruction-university\worktrees\uni-corpus`  
-Branch: `codex/uni-corpus`  
+Data audit: 2026-10-17
+Worktree: `C:\Users\Alessandro\Documents\Codex\2026-10-17\unicostruction-university\worktrees\uni-corpus`
+Branch: `codex/uni-corpus`
 Base osservata: `afab387` (`v1.3.0-7-gafab387`)
 
 ## Scopo e limiti
@@ -28,12 +28,12 @@ La classificazione `source_kind` è deliberatamente conservativa:
 
 | Area | Evidenza osservata | Stato audit |
 | --- | --- | --- |
-| `UNIVERSITA_EDILIZIA` | 71 directory `*_PACK`, 71 `COURSE.yaml`, 71 `schede/schede.jsonl`, 69 `README.md`, 73 directory esame | Struttura ampia; provenance non uniforme nei pack | 
-| README mancanti | `ACUSTICA_EDILIZIA_PACK`, `CONTABILITA_APPALTI_PACK`, `ENERGETICA_INCENTIVI_PACK`, `GEOTECNICA_E_FONDAZIONI_PACK` | Gap documentale, nessuna modifica fatta | 
-| `Edilizia_Pack` | `README.md`, `HANDOFF.md`, `manifest.json`, `licenze_audit.json`; fonti raw in manuali USA, eCFR, norme italiane, UFGS, NPS/FEMA e BIM/IFC | Registro esistente; `parsed/` dichiarata nei documenti non presente nel worktree osservato | 
-| `Fondamenti_Pack` | `README.md`, `HANDOFF.md`, `manifest.json`, `licenze_audit.json`, 14 file raw Gutenberg e directory `parsed` | È il candidato più semplice per un primo lotto source-preserving | 
-| Fonti locali universitarie | `UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/README.md` e `Regole_Applicative_CT_3_0_GSE.pdf` | Fonte ufficiale locale presente, ma ambito dinamico e singola provenance esplicita | 
-| Formule | `MATEMATICA_PER_COSTRUIRE_PACK`, `FORMULARIO_STRUTTURE_PACK`, `FORMULARIO_FISICA_IMPIANTI_PACK` con schema didattico a 11 campi | Curabili come interpretazione/esempio dopo audit formula-per-formula | 
+| `UNIVERSITA_EDILIZIA` | 71 directory `*_PACK`, 71 `COURSE.yaml`, 71 `schede/schede.jsonl`, 69 `README.md`, 73 directory esame | Struttura ampia; provenance non uniforme nei pack |
+| README mancanti | `ACUSTICA_EDILIZIA_PACK`, `CONTABILITA_APPALTI_PACK`, `ENERGETICA_INCENTIVI_PACK`, `GEOTECNICA_E_FONDAZIONI_PACK` | Gap documentale, nessuna modifica fatta |
+| `Edilizia_Pack` | `README.md`, `HANDOFF.md`, `manifest.json`, `licenze_audit.json`; fonti raw in manuali USA, eCFR, norme italiane, UFGS, NPS/FEMA e BIM/IFC | Registro esistente; `parsed/` dichiarata nei documenti non presente nel worktree osservato |
+| `Fondamenti_Pack` | `README.md`, `HANDOFF.md`, `manifest.json`, `licenze_audit.json`, 14 file raw Gutenberg e directory `parsed` | È il candidato più semplice per un primo lotto source-preserving |
+| Fonti locali universitarie | `UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/README.md` e `Regole_Applicative_CT_3_0_GSE.pdf` | Fonte ufficiale locale presente, ma ambito dinamico e singola provenance esplicita |
+| Formule | `MATEMATICA_PER_COSTRUIRE_PACK`, `FORMULARIO_STRUTTURE_PACK`, `FORMULARIO_FISICA_IMPIANTI_PACK` con schema didattico a 11 campi | Curabili come interpretazione/esempio dopo audit formula-per-formula |
 
 ## Registro di corpus e decisione di curabilità
 
