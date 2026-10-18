@@ -1,0 +1,263 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-cluster-review-packet-g13a.v1.json",
+  "title": "UniCostraction G13-A deterministic cluster review packet",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "tool",
+    "base_commit",
+    "source_reports",
+    "scope",
+    "review_contract",
+    "coverage",
+    "batches",
+    "clusters",
+    "boundaries"
+  ],
+  "properties": {
+    "schema_version": { "const": "g13a.v1" },
+    "tool": { "const": "tools/uni_cluster_review_packet_g13_a.py" },
+    "base_commit": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+    "source_reports": { "$ref": "#/$defs/sourceReports" },
+    "scope": { "$ref": "#/$defs/scope" },
+    "review_contract": { "$ref": "#/$defs/reviewContract" },
+    "coverage": { "$ref": "#/$defs/coverage" },
+    "batches": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/batch" }
+    },
+    "clusters": {
+      "type": "array",
+      "minItems": 85,
+      "maxItems": 85,
+      "items": { "$ref": "#/$defs/cluster" }
+    },
+    "boundaries": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "sourceReport": {
+      "type": "object",
+      "required": ["path", "schema_version", "sha256"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "schema_version": { "type": "string", "minLength": 1 },
+        "sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+      },
+      "additionalProperties": false
+    },
+    "sourceReports": {
+      "type": "object",
+      "required": ["g11_priority", "g12_decision_contract", "g4_pack_exam_map"],
+      "properties": {
+        "g11_priority": { "$ref": "#/$defs/sourceReport" },
+        "g12_decision_contract": { "$ref": "#/$defs/sourceReport" },
+        "g4_pack_exam_map": { "$ref": "#/$defs/sourceReport" }
+      },
+      "additionalProperties": false
+    },
+    "scope": {
+      "type": "object",
+      "required": [
+        "index_level",
+        "human_review_required",
+        "answers_read",
+        "didactic_content_copied",
+        "didactic_content_modified",
+        "deduplication_performed",
+        "automatic_merge_or_reject",
+        "decision_made",
+        "source_of_truth"
+      ],
+      "properties": {
+        "index_level": { "const": "g11_connected_component" },
+        "human_review_required": { "const": true },
+        "answers_read": { "const": false },
+        "didactic_content_copied": { "const": false },
+        "didactic_content_modified": { "const": false },
+        "deduplication_performed": { "const": false },
+        "automatic_merge_or_reject": { "const": false },
+        "decision_made": { "const": false },
+        "source_of_truth": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "reviewContract": {
+      "type": "object",
+      "required": [
+        "source",
+        "schema_version",
+        "initial_decision",
+        "allowed_decisions",
+        "evidence_ref_required_for_non_null_decision",
+        "reviewer_required",
+        "rationale_required",
+        "decision_is_not_an_action"
+      ],
+      "properties": {
+        "source": { "const": "docs/coordination/UNI_CLUSTER_REVIEW_G12_A.json" },
+        "schema_version": { "const": "g12a.v1" },
+        "initial_decision": { "const": null },
+        "allowed_decisions": {
+          "const": ["distinct", "merge_candidate", "reject_candidate", "needs_source_review"]
+        },
+        "evidence_ref_required_for_non_null_decision": { "const": true },
+        "reviewer_required": { "const": true },
+        "rationale_required": { "const": true },
+        "decision_is_not_an_action": { "const": true }
+      },
+      "additionalProperties": false
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "cluster_count",
+        "batch_count",
+        "pending_count",
+        "decided_count",
+        "all_decisions_null",
+        "all_reviewers_null",
+        "all_rationales_null",
+        "all_evidence_refs_null"
+      ],
+      "properties": {
+        "cluster_count": { "const": 85 },
+        "batch_count": { "type": "integer", "minimum": 1 },
+        "pending_count": { "const": 85 },
+        "decided_count": { "const": 0 },
+        "all_decisions_null": { "const": true },
+        "all_reviewers_null": { "const": true },
+        "all_rationales_null": { "const": true },
+        "all_evidence_refs_null": { "const": true }
+      },
+      "additionalProperties": false
+    },
+    "batch": {
+      "type": "object",
+      "required": [
+        "batch_id",
+        "priority_rank_start",
+        "priority_rank_end",
+        "cluster_count",
+        "cluster_ids",
+        "pending_count"
+      ],
+      "properties": {
+        "batch_id": { "type": "string", "pattern": "^batch-[0-9]{2}$" },
+        "priority_rank_start": { "type": "integer", "minimum": 1 },
+        "priority_rank_end": { "type": "integer", "minimum": 1 },
+        "cluster_count": { "type": "integer", "minimum": 1 },
+        "cluster_ids": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+        "pending_count": { "type": "integer", "minimum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "required": ["decision", "evidence_ref", "reviewer", "rationale"],
+      "properties": {
+        "decision": {
+          "type": ["string", "null"],
+          "enum": [null, "distinct", "merge_candidate", "reject_candidate", "needs_source_review"]
+        },
+        "evidence_ref": { "type": ["string", "null"] },
+        "reviewer": { "type": ["string", "null"] },
+        "rationale": { "type": ["string", "null"] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "decision": { "type": "string" } } },
+          "then": {
+            "properties": {
+              "evidence_ref": { "type": "string", "minLength": 1 },
+              "reviewer": { "type": "string", "minLength": 1 },
+              "rationale": { "type": "string", "minLength": 1 }
+            }
+          }
+        }
+      ],
+      "additionalProperties": false
+    },
+    "examRef": {
+      "type": "object",
+      "required": ["exam_id", "exam_path", "classification", "legacy_observed", "source_files"],
+      "properties": {
+        "exam_id": { "type": "string", "minLength": 1 },
+        "exam_path": { "type": "string", "minLength": 1 },
+        "classification": { "type": "string", "minLength": 1 },
+        "legacy_observed": { "type": "boolean" },
+        "source_files": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      },
+      "additionalProperties": false
+    },
+    "packRef": {
+      "type": "object",
+      "required": ["pack_id", "pack_path", "classification", "mapping_relation", "source_files"],
+      "properties": {
+        "pack_id": { "type": "string", "minLength": 1 },
+        "pack_path": { "type": "string", "minLength": 1 },
+        "classification": { "type": "string", "minLength": 1 },
+        "mapping_relation": { "type": "string", "minLength": 1 },
+        "source_files": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      },
+      "additionalProperties": false
+    },
+    "cluster": {
+      "type": "object",
+      "required": [
+        "cluster_id",
+        "priority_rank",
+        "priority_key",
+        "g11",
+        "references",
+        "batch",
+        "g12_contract_ref",
+        "review"
+      ],
+      "properties": {
+        "cluster_id": { "type": "string", "pattern": "^component-[0-9]{4}$" },
+        "priority_rank": { "type": "integer", "minimum": 1, "maximum": 85 },
+        "priority_key": { "type": "object" },
+        "g11": {
+          "type": "object",
+          "required": ["source_group", "collision_count", "unit_count", "unit_refs"],
+          "properties": {
+            "source_group": { "enum": ["cards", "public_exams"] },
+            "collision_count": { "type": "integer", "minimum": 1 },
+            "unit_count": { "type": "integer", "minimum": 1 },
+            "unit_refs": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+          },
+          "additionalProperties": false
+        },
+        "references": {
+          "type": "object",
+          "required": ["exam_refs", "pack_refs", "pack_reference_mode"],
+          "properties": {
+            "exam_refs": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/examRef" } },
+            "pack_refs": { "type": "array", "items": { "$ref": "#/$defs/packRef" } },
+            "pack_reference_mode": { "const": "observed_g4_candidates_preserved" }
+          },
+          "additionalProperties": false
+        },
+        "batch": {
+          "type": "object",
+          "required": ["batch_id", "batch_rank"],
+          "properties": {
+            "batch_id": { "type": "string", "pattern": "^batch-[0-9]{2}$" },
+            "batch_rank": { "type": "integer", "minimum": 1 }
+          },
+          "additionalProperties": false
+        },
+        "g12_contract_ref": { "type": "string", "minLength": 1 },
+        "review": { "$ref": "#/$defs/review" }
+      },
+      "additionalProperties": false
+    }
+  }
+}
