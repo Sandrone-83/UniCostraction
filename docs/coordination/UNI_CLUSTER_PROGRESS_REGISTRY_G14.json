@@ -1,0 +1,52 @@
+{
+  "cluster_progress_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "required_unresolved_states": [
+      "blocked",
+      "pending",
+      "open"
+    ],
+    "record_requirements": [
+      "evidence_ref",
+      "reviewer",
+      "rationale"
+    ],
+    "limitations": [
+      "Metadata-only cluster progress registry; it records workflow pointers, not content or correctness.",
+      "Blocked and open entries remain unresolved and cannot be promoted by this artifact.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "cluster_progress_registries": [
+    {
+      "cluster_id": "placeholder-blocked-cluster",
+      "state": "blocked",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "item_refs": [
+        "placeholder"
+      ]
+    },
+    {
+      "cluster_id": "placeholder-open-cluster",
+      "state": "open",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "item_refs": [
+        "placeholder"
+      ]
+    }
+  ]
+}

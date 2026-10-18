@@ -36,6 +36,33 @@ TEXT_SUFFIXES = frozenset(
 JSON_SUFFIXES = frozenset({".json", ".jsonl"})
 ALLOWED_STATES = frozenset({"blocked", "pending", "open", "resolved"})
 EXPECTED_PUBLIC_EXAM_PAYLOAD_COUNT = 73
+G14_CONTRACT_KEYS = frozenset(
+    {
+        "cluster_progress_contract",
+        "per_pack_queue_contract",
+    }
+)
+G14_COLLECTION_KEYS = {
+    "cluster_progress_contract": "cluster_progress_registries",
+    "per_pack_queue_contract": "per_pack_queue",
+}
+G14_REQUIRED_RECORD_FIELDS = frozenset({"evidence_ref", "reviewer", "rationale"})
+G14_REQUIRED_UNRESOLVED_STATES = frozenset({"blocked", "open"})
+G14_PROMOTION_KEYS = frozenset(
+    {
+        "promoted",
+        "promotion",
+        "promotion_status",
+        "promotion_state",
+        "promoted_to",
+        "published",
+        "publication_status",
+        "released",
+        "release_status",
+        "approved",
+        "approval_status",
+    }
+)
 REQUIRED_COORDINATION_ARTIFACTS = frozenset(
     {
         "PUBLIC_EXAM_FIXTURE_MANIFEST_G3.json",
@@ -49,6 +76,9 @@ REQUIRED_COORDINATION_ARTIFACTS = frozenset(
         "UNI_EVIDENCE_LICENSE_MATRIX_G11.json",
         "UNI_REDUNDANCY_DECISION_RECORDS_G12.json",
         "UNI_SOURCE_LICENSE_CHECKLIST_G12.json",
+        "UNI_CLUSTER_PROGRESS_REGISTRY_G14.json",
+        "UNI_PER_PACK_QUEUE_G14.json",
+        "UNI_QA_WORKFLOW_EVIDENCE_G14.md",
     }
 )
 
@@ -299,6 +329,38 @@ def _contract_issues(payload: Any, location: str = "$") -> list[str]:
                         f"{contract_location}.answer_key_separation.public: must be false"
                     )
 
+        if contract_name in G14_CONTRACT_KEYS:
+            required_fields = contract.get("record_requirements")
+            if not _non_empty_strings(required_fields) or not G14_REQUIRED_RECORD_FIELDS <= set(
+                required_fields
+            ):
+                issues.append(
+                    f"{contract_location}.record_requirements: evidence_ref, reviewer and rationale required"
+                )
+            unresolved = contract.get("required_unresolved_states")
+            if not _non_empty_strings(unresolved) or not G14_REQUIRED_UNRESOLVED_STATES <= set(
+                unresolved
+            ):
+                issues.append(
+                    f"{contract_location}.required_unresolved_states: blocked and open required"
+                )
+            collection_name = G14_COLLECTION_KEYS[contract_name]
+            records = payload.get(collection_name)
+            if not isinstance(records, list) or not records:
+                issues.append(f"{location}.{collection_name}: non-empty list required")
+            else:
+                seen_states: set[str] = set()
+                for index, record in enumerate(records):
+                    record_location = f"{location}.{collection_name}[{index}]"
+                    issues.extend(_g14_record_issues(record, record_location, allowed_set))
+                    if isinstance(record, dict) and isinstance(record.get("state"), str):
+                        seen_states.add(record["state"])
+                missing_states = sorted(G14_REQUIRED_UNRESOLVED_STATES - seen_states)
+                issues.extend(
+                    f"{location}.{collection_name}: missing workflow state {state}"
+                    for state in missing_states
+                )
+
         # Records are checked from the payload, not from the contract itself.
         # Contract state describes the workflow container and does not itself
         # require an evidence_ref.
@@ -344,6 +406,66 @@ def _record_coherence_issues(
     elif isinstance(value, list):
         for index, child in enumerate(value):
             issues.extend(_record_coherence_issues(child, f"{location}[{index}]", allowed_states))
+    return issues
+
+
+def _normalise_key(key: str) -> str:
+    return re.sub(r"[\s-]+", "_", key.casefold().strip())
+
+
+def _promotion_issues(value: Any, location: str) -> list[str]:
+    """Reject positive publication/promotion flags in G14 workflow records."""
+
+    issues: list[str] = []
+    if isinstance(value, dict):
+        for key, child in value.items():
+            if isinstance(key, str) and _normalise_key(key) in G14_PROMOTION_KEYS:
+                safe_values = {
+                    None,
+                    False,
+                    "",
+                    "none",
+                    "not_promoted",
+                    "not_published",
+                    "not_released",
+                    "not_approved",
+                    "placeholder",
+                }
+                normalised_value = (
+                    _normalise_key(child) if isinstance(child, str) else child
+                )
+                if normalised_value not in safe_values:
+                    issues.append(f"{location}.{key}: promotion/publication must remain negative")
+            issues.extend(_promotion_issues(child, f"{location}.{key}"))
+    elif isinstance(value, list):
+        for index, child in enumerate(value):
+            issues.extend(_promotion_issues(child, f"{location}[{index}]"))
+    return issues
+
+
+def _g14_record_issues(
+    record: Any, location: str, allowed_states: set[str]
+) -> list[str]:
+    """Validate the required evidence workflow shape for G14-C records."""
+
+    if not isinstance(record, dict):
+        return [f"{location}: record must be an object"]
+    issues: list[str] = []
+    state = record.get("state")
+    if not isinstance(state, str) or not state.strip():
+        issues.append(f"{location}.state: non-empty state required")
+    elif state not in allowed_states:
+        issues.append(f"{location}.state: not declared in allowed_states")
+    for field in sorted(G14_REQUIRED_RECORD_FIELDS):
+        value = record.get(field)
+        if not isinstance(value, str) or not value.strip():
+            issues.append(f"{location}.{field}: non-empty string required")
+    if state in {"blocked", "open"}:
+        if record.get("decision") is not None:
+            issues.append(f"{location}.decision: blocked/open records cannot carry a decision")
+        if record.get("resolved") is True:
+            issues.append(f"{location}.resolved: blocked/open records cannot be resolved")
+    issues.extend(_promotion_issues(record, location))
     return issues
 
 

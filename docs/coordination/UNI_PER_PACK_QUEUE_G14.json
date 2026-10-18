@@ -1,0 +1,48 @@
+{
+  "per_pack_queue_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "required_unresolved_states": [
+      "blocked",
+      "pending",
+      "open"
+    ],
+    "record_requirements": [
+      "evidence_ref",
+      "reviewer",
+      "rationale"
+    ],
+    "limitations": [
+      "Metadata-only per-pack queue; queue order is a review signal and not a grade or correctness judgment.",
+      "Blocked and open pack entries remain unresolved and cannot be promoted by this artifact.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "per_pack_queue": [
+    {
+      "pack_id": "placeholder-blocked-pack",
+      "state": "blocked",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "queue_position": "placeholder"
+    },
+    {
+      "pack_id": "placeholder-open-pack",
+      "state": "open",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "queue_position": "placeholder"
+    }
+  ]
+}
