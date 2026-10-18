@@ -1,0 +1,81 @@
+{
+  "schema_version": "G3-source-metadata",
+  "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+  "metadata_only": true,
+  "scope": {
+    "package": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+    "source_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+    "selection_basis": "Fonte ufficiale locale già presente; nessuna copia o trasformazione del PDF"
+  },
+  "records": [
+    {
+      "source_record_id": "G3-2-001",
+      "source_kind": "primary_official",
+      "title": "Regole Applicative del D.M. 7 agosto 2025 — Incentivazione di interventi di piccole dimensioni per l'incremento dell'efficienza energetica e per la produzione di energia termica da fonti rinnovabili",
+      "entity": "GSE (Gestore dei Servizi Energetici)",
+      "locator": {
+        "path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+        "url": null,
+        "url_status": "not_recorded_in_local_metadata"
+      },
+      "version_date": {
+        "value": "5 dicembre 2025",
+        "kind": "document_date",
+        "basis": "PDF, copertina pagina 1"
+      },
+      "document_reference": {
+        "value": "D.M. 7 agosto 2025",
+        "kind": "referenced_measure",
+        "basis": "PDF, copertina pagina 1 e README locale"
+      },
+      "observed_pdf_metadata": {
+        "page_count": 172,
+        "author": "Di Giamberardino Luciana (GSE)",
+        "creation_date": "16 dicembre 2025",
+        "modification_date": "17 dicembre 2025"
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "6BEE1738B9D690FCDD2AFF21078807D0C0D286EEDFCC6092DE416BA50E167F7A"
+      },
+      "license_reuse": {
+        "status": "not_declared",
+        "local_statement": "Il README locale qualifica il file come documento ufficiale GSE scaricato da gse.it, ma non dichiara una licenza né permessi di riuso.",
+        "basis_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/README.md"
+      },
+      "attribution": "GSE (Gestore dei Servizi Energetici), Regole Applicative del D.M. 7 agosto 2025.",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Il record registra esclusivamente metadati del PDF locale; il PDF non è stato modificato, copiato o trasformato."
+      },
+      "verification_status": {
+        "state": "blocked",
+        "checked_at": "2026-10-18",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "pdf_metadata_observed",
+          "cover_and_local_readme_cross_checked"
+        ],
+        "not_checked": [
+          "registered_gse_url_for_this_pdf",
+          "external_url_availability",
+          "current_validity_or_applicability",
+          "independent_license_or_reuse_clearance",
+          "legal_validity",
+          "accuracy_or_completeness_of_incentive_values"
+        ]
+      },
+      "limitations": [
+        "Il manifest è bloccato perché nel PDF, nel README locale e nella storia del branch non è stato trovato un URL GSE già registrato per questo specifico PDF; gse.it è citato solo come dominio, non come locator completo.",
+        "Il PDF è identificato come fonte ufficiale GSE sulla base di copertina, autore PDF e README locale; ciò non dimostra vigenza corrente, validità legale o completezza normativa.",
+        "Nessuna licenza o autorizzazione di riuso è dichiarata nei metadati locali; la presenza del file nella repository non equivale a permesso di riproduzione o distribuzione.",
+        "Il record non incorpora testo, tabelle, valori incentivanti o interpretazioni e non valida le schede che lo citano."
+      ]
+    }
+  ],
+  "blocking_notes": [
+    "Non inventare o derivare un URL GSE dal solo dominio gse.it.",
+    "Non dichiarare vigenza corrente, validità legale o riuso autorizzato finché URL e termini di riuso non sono registrati e verificati."
+  ]
+}
