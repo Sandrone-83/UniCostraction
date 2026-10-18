@@ -1,0 +1,46 @@
+{
+  "template_import_export_review_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "record_requirements": [
+      "decision",
+      "evidence_ref",
+      "reviewer",
+      "rationale"
+    ],
+    "limitations": [
+      "Metadata-only human workflow review; it records pointers and transition state, not content correctness.",
+      "Template and import-export checks remain pending until a named reviewer records evidence.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "template_import_export_reviews": [
+    {
+      "review_id": "placeholder-template-review",
+      "review_kind": "template",
+      "state": "pending",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "decision": null
+    },
+    {
+      "review_id": "placeholder-import-export-review",
+      "review_kind": "import_export",
+      "state": "pending",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "decision": null
+    }
+  ]
+}

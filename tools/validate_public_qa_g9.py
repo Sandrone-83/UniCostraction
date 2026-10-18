@@ -29,7 +29,28 @@ ALLOWED_STATES = frozenset({"blocked", "pending", "open", "resolved"})
 STATE_COLLECTION_KEYS = frozenset(
     {"artifacts", "checks", "entries", "findings", "items", "records"}
 )
-CONTRACT_KEYS = frozenset({"ledger_contract", "publication_contract", "report_contract"})
+CONTRACT_KEYS = frozenset(
+    {
+        "ledger_contract",
+        "publication_contract",
+        "report_contract",
+        "template_import_export_review_contract",
+        "report_pack_source_review_contract",
+    }
+)
+G16_CONTRACT_KEYS = frozenset(
+    {
+        "template_import_export_review_contract",
+        "report_pack_source_review_contract",
+    }
+)
+G16_ARTIFACT_PATHS = frozenset(
+    {
+        Path("docs/coordination/UNI_TEMPLATE_IMPORT_EXPORT_REVIEW_G16.json"),
+        Path("docs/coordination/UNI_REPORT_PACK_SOURCE_REVIEW_G16.json"),
+        Path("docs/coordination/UNI_QA_FULL_CHECKOUT_G16.md"),
+    }
+)
 FORBIDDEN_FIELDS = frozenset(
     {
         "answer",
@@ -95,6 +116,8 @@ def _tracked_paths() -> tuple[Path, ...]:
 
 def _is_public_artifact(path: Path) -> bool:
     path_text = path.as_posix()
+    if path in G16_ARTIFACT_PATHS:
+        return path.suffix.casefold() in TEXT_SUFFIXES
     if not path_text.startswith(tuple(f"{root}/" for root in PUBLIC_ARTIFACT_ROOTS)):
         return False
     if path.suffix.casefold() not in TEXT_SUFFIXES:
@@ -106,7 +129,8 @@ def _is_public_artifact(path: Path) -> bool:
 def public_artifact_paths() -> tuple[Path, ...]:
     """Return tracked public QA reports, manifests, and ledgers."""
 
-    return tuple(sorted(path for path in _tracked_paths() if _is_public_artifact(path)))
+    tracked = set(_tracked_paths())
+    return tuple(sorted(path for path in tracked | G16_ARTIFACT_PATHS if _is_public_artifact(path)))
 
 
 def _looks_like_numeric_scalar_map(value: dict[Any, Any]) -> bool:
@@ -123,7 +147,9 @@ def _looks_like_numeric_scalar_map(value: dict[Any, Any]) -> bool:
     )
 
 
-def forbidden_structure_issues(value: Any, location: str = "$") -> list[str]:
+def forbidden_structure_issues(
+    value: Any, location: str = "$", allowed_fields: frozenset[str] = frozenset()
+) -> list[str]:
     """Return answer/response/grade/solution and numeric-map findings."""
 
     issues: list[str] = []
@@ -131,12 +157,20 @@ def forbidden_structure_issues(value: Any, location: str = "$") -> list[str]:
         if _looks_like_numeric_scalar_map(value):
             issues.append(f"{location}: numeric question-to-scalar map")
         for key, child in value.items():
-            if isinstance(key, str) and _normalise_field_name(key) in FORBIDDEN_FIELDS:
+            if (
+                isinstance(key, str)
+                and _normalise_field_name(key) in FORBIDDEN_FIELDS
+                and _normalise_field_name(key) not in allowed_fields
+            ):
                 issues.append(f"{location}.{key}: forbidden structured field")
-            issues.extend(forbidden_structure_issues(child, f"{location}.{key}"))
+            issues.extend(
+                forbidden_structure_issues(child, f"{location}.{key}", allowed_fields)
+            )
     elif isinstance(value, list):
         for index, child in enumerate(value):
-            issues.extend(forbidden_structure_issues(child, f"{location}[{index}]"))
+            issues.extend(
+                forbidden_structure_issues(child, f"{location}[{index}]", allowed_fields)
+            )
     return issues
 
 
@@ -251,9 +285,15 @@ def issues_for_file(path: Path) -> list[str]:
     if path.suffix.casefold() in JSON_SUFFIXES:
         try:
             for index, payload in enumerate(_json_values(path)):
+                allowed_fields = (
+                    frozenset({"rationale"})
+                    if isinstance(payload, dict)
+                    and any(key in G16_CONTRACT_KEYS for key in payload)
+                    else frozenset()
+                )
                 issues.extend(
                     f"$[{index}].{issue}" if issue.startswith("$") else issue
-                    for issue in forbidden_structure_issues(payload)
+                    for issue in forbidden_structure_issues(payload, allowed_fields=allowed_fields)
                 )
                 if path.suffix.casefold() == ".json":
                     issues.extend(_contract_issues(payload))

@@ -40,6 +40,13 @@ G12_ARTIFACT_PATHS = frozenset(
         Path("docs/coordination/UNI_QA_DECISION_RECORDS_G12.md"),
     }
 )
+G16_ARTIFACT_PATHS = frozenset(
+    {
+        Path("docs/coordination/UNI_TEMPLATE_IMPORT_EXPORT_REVIEW_G16.json"),
+        Path("docs/coordination/UNI_REPORT_PACK_SOURCE_REVIEW_G16.json"),
+        Path("docs/coordination/UNI_QA_FULL_CHECKOUT_G16.md"),
+    }
+)
 TEXT_SUFFIXES = frozenset(
     {".csv", ".json", ".jsonl", ".md", ".rst", ".tsv", ".txt", ".yaml", ".yml"}
 )
@@ -61,6 +68,16 @@ G12_CONTRACT_KEYS = frozenset(
         "source_license_checklist_contract",
     }
 )
+G16_CONTRACT_KEYS = frozenset(
+    {
+        "template_import_export_review_contract",
+        "report_pack_source_review_contract",
+    }
+)
+G16_COLLECTION_KEYS = {
+    "template_import_export_review_contract": "template_import_export_reviews",
+    "report_pack_source_review_contract": "report_pack_source_reviews",
+}
 
 # The names are field names only.  A natural-language occurrence such as
 # "quale risposta è corretta" is not a finding unless it has a field shape.
@@ -230,12 +247,12 @@ def _is_g12_integrated_artifact(path: Path) -> bool:
 
 
 def public_artifact_paths() -> tuple[Path, ...]:
-    """Return all public exams and G9/G10/G11/G12 audit artifacts."""
+    """Return all public exams and G9/G10/G11/G12/G16 audit artifacts."""
 
     exam_paths = set(public_exam_paths())
     existing_integrated_paths = {
         path
-        for path in G11_ARTIFACT_PATHS | G12_ARTIFACT_PATHS
+        for path in G11_ARTIFACT_PATHS | G12_ARTIFACT_PATHS | G16_ARTIFACT_PATHS
         if (REPOSITORY_ROOT / path).is_file()
     }
     paths = {
@@ -247,6 +264,7 @@ def public_artifact_paths() -> tuple[Path, ...]:
             or _is_g10_audit(path)
             or _is_g11_integrated_artifact(path)
             or _is_g12_integrated_artifact(path)
+            or path in G16_ARTIFACT_PATHS
         )
     }
     return tuple(sorted(paths | existing_integrated_paths))
@@ -270,7 +288,9 @@ def _looks_like_numeric_scalar_map(value: dict[Any, Any]) -> bool:
     )
 
 
-def forbidden_structure_issues(value: Any, location: str = "$") -> list[str]:
+def forbidden_structure_issues(
+    value: Any, location: str = "$", allowed_fields: frozenset[str] = frozenset()
+) -> list[str]:
     """Return findings without including any field value or answer text."""
 
     issues: list[str] = []
@@ -278,12 +298,20 @@ def forbidden_structure_issues(value: Any, location: str = "$") -> list[str]:
         if _looks_like_numeric_scalar_map(value):
             issues.append(f"{location}: numeric question-to-scalar map")
         for key, child in value.items():
-            if isinstance(key, str) and _normalise_field_name(key) in FORBIDDEN_FIELDS:
+            if (
+                isinstance(key, str)
+                and _normalise_field_name(key) in FORBIDDEN_FIELDS
+                and _normalise_field_name(key) not in allowed_fields
+            ):
                 issues.append(f"{location}.{key}: forbidden structured field")
-            issues.extend(forbidden_structure_issues(child, f"{location}.{key}"))
+            issues.extend(
+                forbidden_structure_issues(child, f"{location}.{key}", allowed_fields)
+            )
     elif isinstance(value, list):
         for index, child in enumerate(value):
-            issues.extend(forbidden_structure_issues(child, f"{location}[{index}]"))
+            issues.extend(
+                forbidden_structure_issues(child, f"{location}[{index}]", allowed_fields)
+            )
     return issues
 
 
@@ -331,7 +359,7 @@ def _contract_issues(payload: Any) -> list[str]:
         (
             (key, value)
             for key, value in payload.items()
-            if key in CONTRACT_KEYS | G11_CONTRACT_KEYS | G12_CONTRACT_KEYS
+            if key in CONTRACT_KEYS | G11_CONTRACT_KEYS | G12_CONTRACT_KEYS | G16_CONTRACT_KEYS
             and isinstance(value, dict)
         ),
         None,
@@ -356,7 +384,7 @@ def _contract_issues(payload: Any) -> list[str]:
     state = contract.get("state")
     if state is not None and state not in allowed_set:
         issues.append(f"$.{contract_name}.state: state is not declared in allowed_states")
-    if contract_name in G11_CONTRACT_KEYS | G12_CONTRACT_KEYS:
+    if contract_name in G11_CONTRACT_KEYS | G12_CONTRACT_KEYS | G16_CONTRACT_KEYS:
         if state is None:
             issues.append(
                 f"$.{contract_name}.state: required for integrated artifacts"
@@ -409,6 +437,27 @@ def _contract_issues(payload: Any) -> list[str]:
                         issues.append(
                             f"{location}.evidence_ref: non-empty string required when decision is non-null"
                         )
+    if contract_name in G16_CONTRACT_KEYS:
+        collection_name = G16_COLLECTION_KEYS[contract_name]
+        records = payload.get(collection_name)
+        if not isinstance(records, list) or not records:
+            issues.append(f"$.{collection_name}: non-empty list required")
+        else:
+            for index, record in enumerate(records):
+                location = f"$.{collection_name}[{index}]"
+                if not isinstance(record, dict):
+                    issues.append(f"{location}: record must be an object")
+                    continue
+                for field in ("evidence_ref", "reviewer", "rationale"):
+                    value = record.get(field)
+                    if not isinstance(value, str) or not value.strip():
+                        issues.append(f"{location}.{field}: non-empty string required")
+                if "decision" not in record:
+                    issues.append(f"{location}.decision: field is required")
+                elif record["decision"] is not None and record.get("state") != "resolved":
+                    issues.append(
+                        f"{location}.decision: non-null decisions require resolved state"
+                    )
     return issues
 
 
@@ -422,9 +471,15 @@ def issues_for_file(path: Path) -> list[str]:
     if path.suffix.casefold() in JSON_SUFFIXES:
         try:
             for index, payload in enumerate(_json_values(path)):
+                allowed_fields = (
+                    frozenset({"rationale"})
+                    if isinstance(payload, dict)
+                    and any(key in G16_CONTRACT_KEYS for key in payload)
+                    else frozenset()
+                )
                 issues.extend(
                     f"$[{index}].{issue}" if issue.startswith("$") else issue
-                    for issue in forbidden_structure_issues(payload)
+                    for issue in forbidden_structure_issues(payload, allowed_fields=allowed_fields)
                 )
                 if path.suffix.casefold() == ".json":
                     issues.extend(_contract_issues(payload))

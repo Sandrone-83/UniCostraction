@@ -1,0 +1,46 @@
+{
+  "report_pack_source_review_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "record_requirements": [
+      "decision",
+      "evidence_ref",
+      "reviewer",
+      "rationale"
+    ],
+    "limitations": [
+      "Metadata-only human workflow review; it records report-pack and source pointers, not factual or legal clearance.",
+      "Report-pack and source checks remain pending until a named reviewer records evidence.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "report_pack_source_reviews": [
+    {
+      "review_id": "placeholder-report-pack-review",
+      "review_kind": "report_pack",
+      "state": "pending",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "decision": null
+    },
+    {
+      "review_id": "placeholder-source-review",
+      "review_kind": "source",
+      "state": "pending",
+      "evidence_ref": "placeholder",
+      "reviewer": "placeholder",
+      "rationale": "placeholder",
+      "decision": null
+    }
+  ]
+}

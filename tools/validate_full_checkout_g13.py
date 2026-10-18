@@ -64,6 +64,17 @@ G14_PROMOTION_KEYS = frozenset(
         "approval_status",
     }
 )
+G16_CONTRACT_KEYS = frozenset(
+    {
+        "template_import_export_review_contract",
+        "report_pack_source_review_contract",
+    }
+)
+G16_COLLECTION_KEYS = {
+    "template_import_export_review_contract": "template_import_export_reviews",
+    "report_pack_source_review_contract": "report_pack_source_reviews",
+}
+G16_REQUIRED_RECORD_FIELDS = frozenset({"decision", "evidence_ref", "rationale", "reviewer"})
 REQUIRED_COORDINATION_ARTIFACTS = frozenset(
     {
         "PUBLIC_EXAM_FIXTURE_MANIFEST_G3.json",
@@ -80,6 +91,9 @@ REQUIRED_COORDINATION_ARTIFACTS = frozenset(
         "UNI_CLUSTER_PROGRESS_REGISTRY_G14.json",
         "UNI_PER_PACK_QUEUE_G14.json",
         "UNI_QA_WORKFLOW_EVIDENCE_G14.md",
+        "UNI_TEMPLATE_IMPORT_EXPORT_REVIEW_G16.json",
+        "UNI_REPORT_PACK_SOURCE_REVIEW_G16.json",
+        "UNI_QA_FULL_CHECKOUT_G16.md",
     }
 )
 
@@ -129,6 +143,26 @@ G15_REPORT_SPECS: dict[str, dict[str, Any]] = {
     "UNI_PER_PACK_QUEUE_G14.json": {
         "state_paths": ("per_pack_queue_contract.state",),
         "collections": {"per_pack_queue": {"count": 2, "states": {"blocked": 1, "open": 1}}},
+    },
+    "UNI_TEMPLATE_IMPORT_EXPORT_REVIEW_G16.json": {
+        "state_paths": ("template_import_export_review_contract.state",),
+        "collections": {
+            "template_import_export_reviews": {
+                "count": 2,
+                "states": {"pending": 2},
+                "decision_null": True,
+            }
+        },
+    },
+    "UNI_REPORT_PACK_SOURCE_REVIEW_G16.json": {
+        "state_paths": ("report_pack_source_review_contract.state",),
+        "collections": {
+            "report_pack_source_reviews": {
+                "count": 2,
+                "states": {"pending": 2},
+                "decision_null": True,
+            }
+        },
     },
 }
 EXPECTED_PUBLIC_EXAM_FILE_COUNT = 76
@@ -430,6 +464,23 @@ def _contract_issues(payload: Any, location: str = "$") -> list[str]:
                     for state in missing_states
                 )
 
+        if contract_name in G16_CONTRACT_KEYS:
+            required_fields = contract.get("record_requirements")
+            if not _non_empty_strings(required_fields) or not G16_REQUIRED_RECORD_FIELDS <= set(
+                required_fields
+            ):
+                issues.append(
+                    f"{contract_location}.record_requirements: decision, evidence_ref, reviewer and rationale required"
+                )
+            collection_name = G16_COLLECTION_KEYS[contract_name]
+            records = payload.get(collection_name)
+            if not isinstance(records, list) or not records:
+                issues.append(f"{location}.{collection_name}: non-empty list required")
+            else:
+                for index, record in enumerate(records):
+                    record_location = f"{location}.{collection_name}[{index}]"
+                    issues.extend(_g16_record_issues(record, record_location, allowed_set))
+
         # Records are checked from the payload, not from the contract itself.
         # Contract state describes the workflow container and does not itself
         # require an evidence_ref.
@@ -538,6 +589,39 @@ def _g14_record_issues(
     return issues
 
 
+def _g16_record_issues(
+    record: Any, location: str, allowed_states: set[str]
+) -> list[str]:
+    """Validate G16 human-review records and their decision transition."""
+
+    if not isinstance(record, dict):
+        return [f"{location}: record must be an object"]
+    issues: list[str] = []
+    state = record.get("state")
+    if not isinstance(state, str) or not state.strip():
+        issues.append(f"{location}.state: non-empty state required")
+    elif state not in allowed_states:
+        issues.append(f"{location}.state: not declared in allowed_states")
+    for field in sorted(G16_REQUIRED_RECORD_FIELDS):
+        if field not in record:
+            issues.append(f"{location}.{field}: field is required")
+            continue
+        if field != "decision" and (
+            not isinstance(record[field], str) or not record[field].strip()
+        ):
+            issues.append(f"{location}.{field}: non-empty string required")
+    decision = record.get("decision")
+    if decision is not None and state != "resolved":
+        issues.append(f"{location}.decision: non-null decisions require resolved state")
+    if decision is not None:
+        if not isinstance(record.get("evidence_ref"), str) or not record["evidence_ref"].strip():
+            issues.append(f"{location}.evidence_ref: non-empty string required for decision")
+        for field in ("reviewer", "rationale"):
+            if not isinstance(record.get(field), str) or not record[field].strip():
+                issues.append(f"{location}.{field}: non-empty string required for decision")
+    return issues
+
+
 _MISSING = object()
 
 
@@ -616,6 +700,12 @@ def report_state_count_issues(root: Path = REPOSITORY_ROOT) -> list[str]:
                     f"{location}.{collection_name}: expected state counts "
                     f"{dict(sorted(expected_states.items()))}, found {dict(sorted(actual_states.items()))}"
                 )
+            if contract.get("decision_null"):
+                for index, record in enumerate(records):
+                    if not isinstance(record, dict) or record.get("decision", _MISSING) is not None:
+                        issues.append(
+                            f"{location}.{collection_name}[{index}].decision: initial canonical decision must be null"
+                        )
 
         source_manifest = spec.get("source_manifest")
         if isinstance(source_manifest, str):
