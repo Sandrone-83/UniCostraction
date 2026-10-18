@@ -1,0 +1,486 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_version": "g20.v1",
+  "artifact_type": "unicostraction_advanced_facets_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap for six advanced facets; records observed evidence, proposed gates and explicit blockers without promoting knowledge.",
+  "snapshot": {
+    "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
+    "branch": "codex/uni-inventory",
+    "observed_on": "2026-10-18",
+    "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
+    "release_status": "blocked",
+    "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
+  },
+  "decision_contract": {
+    "default_state": "blocked",
+    "states": [
+      "observed",
+      "proposed",
+      "needs-review",
+      "blocked",
+      "future"
+    ],
+    "canonical_key": "skill_id",
+    "non_redundancy_rule": "Each facet routes to existing canonical owner candidates. Aliases and lifecycle facets are filters or cross-links, not additional skills.",
+    "source_separation": [
+      "source",
+      "interpretation",
+      "example",
+      "hypothesis"
+    ],
+    "promotion_rule": "No facet moves beyond roadmap-only until provenance, version/effective context, rights, deterministic runtime evidence where relevant, evaluation and qualified human review agree.",
+    "external_action_boundary": "No automatic filing, sending, payment, publication, certification, signing, professional approval or execution is authorized."
+  },
+  "source_register": [
+    {
+      "source_id": "S01",
+      "path": "docs/coordination/UNI_SKILL_TAXONOMY_G17.json",
+      "locator": "lines 15-21, 23-53, 330-353",
+      "observed": "Canonical skill ownership, facet and alias rules, evidence states, G20 future phase and non-goals are recorded.",
+      "limit": "The taxonomy states that structural evidence does not establish semantic, factual, legal, licensing or professional correctness."
+    },
+    {
+      "source_id": "S02",
+      "path": "docs/coordination/UNI_SKILL_DEPENDENCY_GRAPH_G18.json",
+      "locator": "lines 56-63, 164-184, 200-208, 224-232",
+      "observed": "G18 defines non-overlap, evidence/document lifecycle, runtime/interoperability and professional-review families with explicit gates.",
+      "limit": "The graph records proposals and gate definitions, not successful implementation or runtime execution."
+    },
+    {
+      "source_id": "S03",
+      "path": "docs/coordination/UNI_SKILL_COVERAGE_MATRIX_G19.json",
+      "locator": "lines 6-23, 25-38, 114-153, 204-214",
+      "observed": "G19 records BIM/IFC, Blender, CAD and PDF/computo/SAL reference-library rows as blocked and says their implementation paths are not present in the inventory checkout.",
+      "limit": "The recorded implementation evidence is in codex/uni-corpus at the stated commit, not in the selected inventory HEAD."
+    },
+    {
+      "source_id": "S04",
+      "path": "CAD_Library/training_corpus/README.md",
+      "locator": "lines 1-60; CAD_Library/training_corpus/manifest.jsonl",
+      "observed": "The local README describes raw/parsed CAD data, parser formats and a manifest with source/licence classes; it distinguishes permissive and research material and lists exclusions.",
+      "limit": "This is corpus and parser evidence, not a CAD API integration, geometric truth or professional acceptance."
+    },
+    {
+      "source_id": "S05",
+      "path": "Edilizia_Pack/raw/bim_ifc/ifc_models/; Edilizia_Pack/raw/bim_ifc/ifc_models/LICENSE; Edilizia_Pack/manifest.json; Edilizia_Pack/serialize_edilizia.py",
+      "locator": "serialize_edilizia.py lines 194-221",
+      "observed": "Raw IFC samples and a local MIT notice are present; the manifest and serializer describe a six-building index and header/entity metadata fields.",
+      "limit": "The generated parsed/ifc_bim_index.jsonl is absent in this checkout; no complete IFC QA result is claimed."
+    },
+    {
+      "source_id": "S06",
+      "path": "Edilizia_Pack/extract_pdf_text.py",
+      "locator": "lines 1-34",
+      "observed": "A local pypdf-based extractor writes page markers, checkpoints every 25 pages and supports restart/completion handling.",
+      "limit": "Script presence does not establish extraction fidelity, lifecycle approval, rights or professional use."
+    },
+    {
+      "source_id": "S07",
+      "path": "Edilizia_Pack/README.md",
+      "locator": "lines 110-119, 155-163",
+      "observed": "The README describes SAL/glossary coverage and a technical-document corpus containing a SAL template with retentions, while warning that parsed content and cited references require verification before professional use.",
+      "limit": "The described parsed/documenti_tecnici.jsonl is absent in this checkout; no reconciler or approved financial ledger is observed."
+    },
+    {
+      "source_id": "S08",
+      "path": "Edilizia_Pack/serialize_edilizia.py",
+      "locator": "lines 58-77, 175-192",
+      "observed": "A local normative register contains source labels, URLs and date/currentness wording and assigns different licence labels during serialization.",
+      "limit": "The register is not evidence that a source is current, authoritative for a question or sufficient for legal advice."
+    }
+  ],
+  "facets": [
+    {
+      "facet_id": "g20.cad_api",
+      "label": "CAD API",
+      "status": "future",
+      "release_status": "blocked",
+      "canonical_owner_candidates": [
+        "digital.cad_bim_and_interoperability",
+        "aec.design_representation"
+      ],
+      "cross_cutting_families": [
+        "g18.runtime_interoperability_validation",
+        "g18.evidence_document_control"
+      ],
+      "non_redundancy_rationale": "An API wrapper or geometry operation is an execution facet of CAD/BIM interoperability. It must not become a second CAD skill or a professional design/conformity claim.",
+      "local_evidence": [
+        {
+          "source_id": "S04",
+          "observed": "CAD_Library/training_corpus/README.md describes DXF/STEP/3DS raw and parsed data, a source/licence manifest and parser tooling.",
+          "not_observed": "A target CAD API adapter, live desktop integration or acceptance result."
+        },
+        {
+          "source_id": "S03",
+          "observed": "G19 records cad-autocad-freecad in codex/uni-corpus, release blocked, and absent from the inventory checkout.",
+          "not_observed": "That SKILL.md in this checkout."
+        }
+      ],
+      "prerequisites": [
+        "Target API/application and version pinned.",
+        "Read/create/transform/export operation contract and geometry invariants defined.",
+        "Deterministic fixture, environment and fail-closed error contract recorded.",
+        "Fixture source, derivative rights and attribution recorded; research-only material excluded from commercial/training route until cleared."
+      ],
+      "expected_evidence": [
+        "API/version manifest and command log.",
+        "Input/output checksums and structured operation result.",
+        "Entity/type counts, units, coordinate frame, bounding-box and identity invariants.",
+        "Negative-case reproduction and rights record.",
+        "Qualified CAD review when output is intended as a professional deliverable."
+      ],
+      "runtime_tests": [
+        "Read-only parse of permissive DXF and STEP fixtures; repeat and compare structured output.",
+        "Export/import round trip with declared invariants.",
+        "Malformed input and unsupported-version rejection.",
+        "Missing dependency, timeout and licence-policy failure retained as evidence."
+      ],
+      "licensing_gate": "Use the local manifest's permissive/research classes as a policy input, retain upstream notices and separately clear the target SDK, plug-ins, fonts, blocks and derivatives.",
+      "professional_review": "CAD technician, architect or engineer reviews units, coordinates, layers, dimensions, topology and the intended deliverable; file integrity is kept separate from geometric accuracy and conformity.",
+      "blocked_states": [
+        "Target API or version unknown.",
+        "Runtime unavailable or round trip changes an invariant.",
+        "Fixture or derivative rights unresolved.",
+        "Output is presented as a professional drawing without qualified review."
+      ],
+      "claims_not_made": [
+        "No CAD API implementation is claimed.",
+        "No live AutoCAD/FreeCAD result is claimed.",
+        "No geometry, regulatory conformity or authorisation is certified."
+      ]
+    },
+    {
+      "facet_id": "g20.ifc_qa",
+      "label": "IFC QA",
+      "status": "future",
+      "release_status": "blocked",
+      "canonical_owner_candidates": [
+        "digital.cad_bim_and_interoperability",
+        "digital.asset_validation_and_data"
+      ],
+      "cross_cutting_families": [
+        "g18.runtime_interoperability_validation",
+        "g18.evidence_document_control"
+      ],
+      "non_redundancy_rationale": "IFC QA records model checks against a canonical BIM/interoperability owner; it does not duplicate IFC teaching content or certify design adequacy.",
+      "local_evidence": [
+        {
+          "source_id": "S05",
+          "observed": "Raw IFC samples and a local MIT notice are present; the manifest/serializer describe six-building index fields including schema, file name and sampled entity types.",
+          "not_observed": "Generated parsed/ifc_bim_index.jsonl or a complete QA report."
+        },
+        {
+          "source_id": "S03",
+          "observed": "G19 records bim-ifc-openbim in codex/uni-corpus with release blocked and inventory-head presence false.",
+          "not_observed": "The referenced SKILL.md in this checkout."
+        }
+      ],
+      "prerequisites": [
+        "IFC parser and schema/profile pinned.",
+        "Every model inventoried with checksum, source and licence.",
+        "Checks separated into lexical, schema, geometric and semantic classes.",
+        "Severity and professional escalation rules defined."
+      ],
+      "expected_evidence": [
+        "Per-file manifest, header/schema and tool version.",
+        "Entity/relationship/property findings and coordinate/unit report.",
+        "Deterministic report hash and malformed-model reproduction.",
+        "MIT attribution and rights record.",
+        "BIM coordinator decision and limitations."
+      ],
+      "runtime_tests": [
+        "Parse each local IFC fixture and compare summaries across two runs.",
+        "Flag missing header/schema fields rather than silently accepting them.",
+        "Detect duplicate GlobalIds, missing required properties, invalid references and unit/coordinate anomalies.",
+        "Retain a failing report for truncated or malformed input."
+      ],
+      "licensing_gate": "Retain the local MIT notice and upstream attribution; separately clear parser, schema profile, property set, derivative and downstream publication terms.",
+      "professional_review": "BIM coordinator or qualified design professional reviews profile, thresholds, coordinates and any decision affecting a deliverable or contract.",
+      "blocked_states": [
+        "Parser/schema version or model provenance unknown.",
+        "Generated index absent or raw model invalid/truncated.",
+        "Coordinates/units not interpretable.",
+        "Semantic findings unreviewed or QA is used as design approval."
+      ],
+      "claims_not_made": [
+        "No complete IFC QA implementation is claimed.",
+        "No clash-free, constructible or professionally conforming model is certified."
+      ]
+    },
+    {
+      "facet_id": "g20.blender_automation",
+      "label": "Blender automation",
+      "status": "future",
+      "release_status": "blocked",
+      "canonical_owner_candidates": [
+        "digital.asset_validation_and_data",
+        "media.visual_storytelling_and_content"
+      ],
+      "cross_cutting_families": [
+        "g18.runtime_interoperability_validation",
+        "g18.provenance_source_governance"
+      ],
+      "non_redundancy_rationale": "Blender automation is a reproducible asset/render workflow, not a second architecture/CAD/media curriculum and not a way to promote interpreted geometry to verified reality.",
+      "local_evidence": [
+        {
+          "source_id": "S03",
+          "observed": "G19 records blender-3d-render in codex/uni-corpus with release blocked and inventory-head presence false.",
+          "not_observed": "A Blender executable, .blend fixture or bpy automation in the selected checkout."
+        }
+      ],
+      "prerequisites": [
+        "Blender version and execution mode pinned.",
+        "Approved or clearly synthetic fixture with source geometry separated from interpretation.",
+        "Scene contract for units, collections, camera, materials and outputs.",
+        "External asset, texture, font, HDRI and plug-in register."
+      ],
+      "expected_evidence": [
+        "Blender version, command log and scene/script checksums.",
+        "Object/material/camera/collection manifest.",
+        "Deterministic rerun result and render metadata/hash.",
+        "Asset attribution/rights and visual/geometric review record."
+      ],
+      "runtime_tests": [
+        "Headless scene open and expected object/collection assertions.",
+        "Two runs compared using a normalized scene manifest.",
+        "Controlled-fixture render compared with declared tolerance.",
+        "Failure on missing assets, invalid paths, hidden dependencies or unseeded randomness."
+      ],
+      "licensing_gate": "Blender software terms and every scene asset/derivative require separate review; no local Blender asset licence is established.",
+      "professional_review": "Architect/technician or visualization reviewer checks basis, scale, interpretation, camera and intended use; real-property 3D/render work waits for approved 2D/source basis.",
+      "blocked_states": [
+        "Runtime or approved source geometry unavailable.",
+        "Asset rights missing or incompatible.",
+        "Script incomplete or non-deterministic.",
+        "Concept render labelled as surveyed, authorised, compliant or construction-ready."
+      ],
+      "claims_not_made": [
+        "No Blender runtime or automation implementation is claimed.",
+        "No render is claimed to be an as-built survey or compliant model."
+      ]
+    },
+    {
+      "facet_id": "g20.pdf_lifecycle",
+      "label": "PDF lifecycle",
+      "status": "future",
+      "release_status": "blocked",
+      "canonical_owner_candidates": [
+        "documents.technical_records_and_reports",
+        "documents.evidence_provenance_and_audit",
+        "documents.templates_and_review_gates"
+      ],
+      "cross_cutting_families": [
+        "g18.evidence_document_control",
+        "g18.provenance_source_governance"
+      ],
+      "non_redundancy_rationale": "Lifecycle state, hashes, extraction and review govern a document artifact; the PDF container does not duplicate the technical subject or make it authoritative.",
+      "local_evidence": [
+        {
+          "source_id": "S06",
+          "observed": "The local extractor uses pypdf, page markers and restart checkpoints.",
+          "not_observed": "An end-to-end lifecycle test or approved publication workflow."
+        },
+        {
+          "source_id": "S03",
+          "observed": "G19 records documents-pdf-computo-sal-due-diligence in codex/uni-corpus with release blocked and inventory-head presence false.",
+          "not_observed": "The referenced SKILL.md in this checkout."
+        },
+        {
+          "source_id": "S02",
+          "observed": "G18 requires artifact state, version, decision, reviewer and audit trail and says a document-shaped file is not an authorized professional document.",
+          "not_observed": "Any approval for a specific local PDF."
+        }
+      ],
+      "prerequisites": [
+        "Lifecycle states and transition permissions defined.",
+        "Source hash, page count, metadata, tool/version, output hash and reviewer fields defined.",
+        "Native text versus OCR, redaction, retention and publication policy defined."
+      ],
+      "expected_evidence": [
+        "Source PDF/checksum and page-count record.",
+        "Extracted text with page anchors, log and restart/recovery record.",
+        "Visual spot-check, rights decision, state transitions and reviewer log.",
+        "Final disposition, including blocked outcome when required."
+      ],
+      "runtime_tests": [
+        "Known-PDF extraction with page markers and repeat comparison.",
+        "Interrupt at checkpoint and resume; rerun completed source.",
+        "Corrupt/encrypted/unreadable input failure with explicit result.",
+        "Human spot-check for page/text loss and path/encoding/redaction controls."
+      ],
+      "licensing_gate": "Treat manifest licence fields as inputs to review; separately handle official acts, public-domain, CC BY-SA, commercial sources and derived OCR/text with attribution and publication/training decisions.",
+      "professional_review": "Document controller plus the relevant engineer, architect, accountant or lawyer reviews completeness, version, scope, signatures and intended use.",
+      "blocked_states": [
+        "Hash/version, extraction completeness or rights missing.",
+        "OCR/page loss, privacy/redaction or reviewer decision open.",
+        "Wrong lifecycle state or template mistaken for signed/filed document."
+      ],
+      "claims_not_made": [
+        "No completed PDF lifecycle is claimed.",
+        "No extraction result is claimed to be complete, current, reusable or professionally approved."
+      ]
+    },
+    {
+      "facet_id": "g20.sal_reconciliation",
+      "label": "SAL reconciliation",
+      "status": "future",
+      "release_status": "blocked",
+      "canonical_owner_candidates": [
+        "documents.technical_records_and_reports",
+        "business.enterprise_and_project_operations",
+        "science.explainable_calculation"
+      ],
+      "cross_cutting_families": [
+        "g18.evidence_document_control",
+        "g18.professional_review_release"
+      ],
+      "non_redundancy_rationale": "SAL reconciliation compares supplied progress, quantity, contract and payment records; it is not a new accounting/price-list skill and cannot replace responsible professional approval.",
+      "local_evidence": [
+        {
+          "source_id": "S07",
+          "observed": "The README describes SAL/glossary coverage and a described document corpus containing a SAL template with retentions.",
+          "not_observed": "The referenced parsed/documenti_tecnici.jsonl, a reconciler, an approved measurement ledger, price-list provenance or financial integration."
+        },
+        {
+          "source_id": "S02",
+          "observed": "G18 requires evidence lifecycle and qualified review for financial/professional claims.",
+          "not_observed": "A reviewer decision for a real SAL."
+        }
+      ],
+      "prerequisites": [
+        "Versioned input contract for items, measurements, units, quantities, prices, periods, prior/current/cumulative SAL, retentions, taxes and currency.",
+        "Source/computed separation, exact decimal arithmetic, variation-order and approval fields.",
+        "Tolerance and rounding rules approved by the responsible professional."
+      ],
+      "expected_evidence": [
+        "Immutable input packet and hashes.",
+        "Source-to-line-item mapping and calculation trace.",
+        "Prior/current/cumulative totals, retention/tax/currency treatment.",
+        "Discrepancy, duplicate/missing-source and independent-recomputation report.",
+        "Signed or explicitly pending human decision."
+      ],
+      "runtime_tests": [
+        "Synthetic exact-decimal reconciliation and deterministic rerun.",
+        "Rounding at line and total levels.",
+        "Duplicate lines, missing measurements, changed prices, cumulative regressions, currency mismatch and unsupported variation cases.",
+        "Inconsistent SAL must produce blocked and no automatic invoice/payment/reminder/filing."
+      ],
+      "licensing_gate": "Clear rights for every price list, contract, invoice, template and imported document; educational/public-domain labels do not clear commercial prezzari or customer records.",
+      "professional_review": "Direttore dei lavori/contabilità lavori and, where contractual or financial consequences exist, accountant or contract administrator review the source, variations, retentions, taxes and disposition.",
+      "blocked_states": [
+        "Approved measurement or contract baseline missing.",
+        "Price-list/source rights, arithmetic, currency or variation approval unresolved.",
+        "Cumulative totals do not reconcile or reviewer absent.",
+        "Request implies automatic send, pay, certify or file."
+      ],
+      "claims_not_made": [
+        "No SAL reconciler or financial integration is claimed.",
+        "No quantity, price, retention, tax or payment correctness is certified."
+      ]
+    },
+    {
+      "facet_id": "g20.current_law_lookup",
+      "label": "Current-law lookup",
+      "status": "future",
+      "release_status": "blocked",
+      "canonical_owner_candidates": [
+        "pa.italian_public_administration",
+        "pa.urban_building_procedures",
+        "pa.procurement_tax_safety_and_compliance"
+      ],
+      "cross_cutting_families": [
+        "g18.context_jurisdiction_time",
+        "g18.provenance_source_governance",
+        "g18.professional_review_release"
+      ],
+      "non_redundancy_rationale": "Lookup selects and scopes sources for existing PA/legal skills; it does not copy statutes into a second corpus, turn historical text into current law or provide legal advice.",
+      "local_evidence": [
+        {
+          "source_id": "S08",
+          "observed": "The local NORME register records titles, source labels, URLs and date/currentness wording and assigns different licence labels during serialization.",
+          "not_observed": "Generated parsed/norme_italiane.jsonl or current validity for a particular question on 2026-10-18."
+        },
+        {
+          "source_id": "S01",
+          "observed": "G17 states that current-law/professional-compliance answers require jurisdiction, effective date, source and qualified review.",
+          "not_observed": "A legal reviewer decision or authoritative answer."
+        },
+        {
+          "source_id": "S02",
+          "observed": "G18 defines jurisdiction/time context and professional-review stop conditions.",
+          "not_observed": "A current-law lookup runtime."
+        }
+      ],
+      "prerequisites": [
+        "Jurisdiction and question date required.",
+        "Authoritative source preference and source hierarchy recorded.",
+        "Publication/effective/repeal/amendment dates, retrieval time and checksum recorded.",
+        "Original source separated from interpretation; stale/conflict behavior defined.",
+        "Qualified reviewer route for legal, procurement, safety, tax or permit claims."
+      ],
+      "expected_evidence": [
+        "Query scope and source/version/effective-date record.",
+        "Retrieval timestamp, checksum and permitted citation anchor.",
+        "Interpretation/source separation, conflict or staleness flag and limitation.",
+        "Reviewer role, decision and reproducible escalation/no-answer result."
+      ],
+      "runtime_tests": [
+        "Specified jurisdiction/date must be carried into the result.",
+        "Older source must produce a staleness flag.",
+        "Conflicting versions must escalate.",
+        "Missing date/source must produce blocked.",
+        "Citation retention and no-filing/no-sending/no-certification boundary tested."
+      ],
+      "licensing_gate": "Verify rights and attribution for each edition, transcription, translation and derivative; a URL or public-act label is not blanket publication/training clearance.",
+      "professional_review": "Qualified legal reviewer for legal interpretation and qualified technical/procurement/safety reviewer for domain claims; record scope and decision.",
+      "blocked_states": [
+        "Jurisdiction or effective date missing.",
+        "Source secondary/stale or amendment/repeal status unresolved.",
+        "Conflicting sources, rights or reviewer unresolved.",
+        "Output would be used as legal, permit, procurement, safety, tax or professional advice."
+      ],
+      "claims_not_made": [
+        "No current-law answer is certified.",
+        "No legal interpretation, advice or professional compliance is claimed."
+      ]
+    }
+  ],
+  "global_blockers": [
+    "G19 reference-library SKILL.md paths are recorded as absent from the inventory checkout.",
+    "Generated parsed artifacts described by local README/serializer evidence are absent for IFC, normative and technical-document indexes where noted.",
+    "No facet has a completed provenance packet, rights decision, deterministic runtime report and qualified professional sign-off in this decision log.",
+    "Static presence, parsing or unit-test success cannot be promoted to production safety, design adequacy, legal validity, financial correctness or professional conformity."
+  ],
+  "release_gates": [
+    {
+      "gate_id": "G20-E01",
+      "label": "Canonical mapping and non-redundancy",
+      "pass_when": "One canonical owner and alias resolution are reviewed; no facet creates a duplicate domain skill.",
+      "does_not_prove": "Semantic equivalence, source correctness or content completeness."
+    },
+    {
+      "gate_id": "G20-E02",
+      "label": "Provenance, context and rights",
+      "pass_when": "Source/interpretation/example/hypothesis, version/effective context, jurisdiction/period, attribution and rights are recorded; otherwise status remains blocked.",
+      "does_not_prove": "That the source is factually correct or currently authoritative."
+    },
+    {
+      "gate_id": "G20-E03",
+      "label": "Runtime and failure evidence",
+      "pass_when": "The target workflow runs with deterministic fixtures, environment metadata, reproducible outputs and retained negative cases.",
+      "does_not_prove": "Production safety, structural adequacy, legal validity or professional conformity."
+    },
+    {
+      "gate_id": "G20-E04",
+      "label": "Professional review and release",
+      "pass_when": "The appropriate qualified reviewer records scope, limitations and decision; all open blockers are visible and no automatic external action is implied.",
+      "does_not_prove": "Global completeness or certification."
+    }
+  ],
+  "non_goals": [
+    "Do not modify corpus, source packs, exams or fixtures as part of this roadmap artifact.",
+    "Do not merge or delete similar content based on text similarity alone.",
+    "Do not expose protected exam answers.",
+    "Do not publish, file, send, pay, sign, certify or execute an external action."
+  ]
+}
