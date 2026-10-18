@@ -1,0 +1,1292 @@
+{
+  "schema_version": "g14a.v1",
+  "tool": "tools/uni_cluster_review_progress_g14_a.py",
+  "input": {
+    "path": "docs/coordination/UNI_CLUSTER_REVIEW_PACKET_G13_A.json",
+    "schema_version": "g13a.v1",
+    "cluster_count": 85,
+    "batch_count": 9,
+    "packet_sha256": "a50a332cff7ca091ddef9fa208da1a66cf4c2938f6ff00926bea25cb70477849"
+  },
+  "scope": {
+    "tracking_level": "g13_cluster",
+    "initial_status": "open",
+    "human_review_required": true,
+    "answers_read": false,
+    "didactic_content_copied": false,
+    "didactic_content_modified": false,
+    "automatic_card_modification": false,
+    "automatic_exam_modification": false,
+    "source_of_truth": "G13 cluster review packet metadata"
+  },
+  "workflow": {
+    "allowed_statuses": [
+      "open",
+      "in_review",
+      "decided"
+    ],
+    "evidence_ref_required_for_decided": true,
+    "reviewer_required_for_in_review_or_decided": true,
+    "rationale_required_for_in_review_or_decided": true,
+    "decided_is_not_an_action": true
+  },
+  "coverage": {
+    "cluster_count": 85,
+    "batch_count": 9,
+    "status_counts": {
+      "open": 85,
+      "in_review": 0,
+      "decided": 0
+    },
+    "open_count": 85,
+    "in_review_count": 0,
+    "decided_count": 0,
+    "pending_count": 85,
+    "all_evidence_refs_null": true,
+    "all_reviewers_null": true,
+    "all_rationales_null": true
+  },
+  "batches": [
+    {
+      "batch_id": "batch-01",
+      "priority_rank_start": 1,
+      "priority_rank_end": 10,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0036",
+        "component-0025",
+        "component-0033",
+        "component-0001",
+        "component-0002",
+        "component-0004",
+        "component-0007",
+        "component-0011",
+        "component-0012",
+        "component-0022"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-02",
+      "priority_rank_start": 11,
+      "priority_rank_end": 20,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0071",
+        "component-0072",
+        "component-0073",
+        "component-0074",
+        "component-0075",
+        "component-0076",
+        "component-0079",
+        "component-0080",
+        "component-0083",
+        "component-0084"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-03",
+      "priority_rank_start": 21,
+      "priority_rank_end": 30,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0081",
+        "component-0082",
+        "component-0003",
+        "component-0005",
+        "component-0009",
+        "component-0010",
+        "component-0024",
+        "component-0028",
+        "component-0032",
+        "component-0035"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-04",
+      "priority_rank_start": 31,
+      "priority_rank_end": 40,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0037",
+        "component-0038",
+        "component-0039",
+        "component-0043",
+        "component-0048",
+        "component-0051",
+        "component-0052",
+        "component-0050",
+        "component-0006",
+        "component-0008"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-05",
+      "priority_rank_start": 41,
+      "priority_rank_end": 50,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0013",
+        "component-0014",
+        "component-0015",
+        "component-0016",
+        "component-0017",
+        "component-0018",
+        "component-0019",
+        "component-0020",
+        "component-0021",
+        "component-0023"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-06",
+      "priority_rank_start": 51,
+      "priority_rank_end": 60,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0026",
+        "component-0027",
+        "component-0029",
+        "component-0030",
+        "component-0031",
+        "component-0034",
+        "component-0040",
+        "component-0041",
+        "component-0042",
+        "component-0044"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-07",
+      "priority_rank_start": 61,
+      "priority_rank_end": 70,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0045",
+        "component-0046",
+        "component-0047",
+        "component-0049",
+        "component-0053",
+        "component-0054",
+        "component-0055",
+        "component-0056",
+        "component-0057",
+        "component-0058"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-08",
+      "priority_rank_start": 71,
+      "priority_rank_end": 80,
+      "cluster_count": 10,
+      "cluster_ids": [
+        "component-0059",
+        "component-0060",
+        "component-0061",
+        "component-0062",
+        "component-0063",
+        "component-0064",
+        "component-0065",
+        "component-0066",
+        "component-0067",
+        "component-0068"
+      ],
+      "status_counts": {
+        "open": 10,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    },
+    {
+      "batch_id": "batch-09",
+      "priority_rank_start": 81,
+      "priority_rank_end": 85,
+      "cluster_count": 5,
+      "cluster_ids": [
+        "component-0069",
+        "component-0070",
+        "component-0077",
+        "component-0078",
+        "component-0085"
+      ],
+      "status_counts": {
+        "open": 5,
+        "in_review": 0,
+        "decided": 0
+      },
+      "decided_count": 0
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "component-0036",
+      "priority_rank": 1,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0025",
+      "priority_rank": 2,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0033",
+      "priority_rank": 3,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0001",
+      "priority_rank": 4,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0002",
+      "priority_rank": 5,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0004",
+      "priority_rank": 6,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0007",
+      "priority_rank": 7,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0011",
+      "priority_rank": 8,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0012",
+      "priority_rank": 9,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0022",
+      "priority_rank": 10,
+      "batch": {
+        "batch_id": "batch-01",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0071",
+      "priority_rank": 11,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0072",
+      "priority_rank": 12,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0073",
+      "priority_rank": 13,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0074",
+      "priority_rank": 14,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0075",
+      "priority_rank": 15,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0076",
+      "priority_rank": 16,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0079",
+      "priority_rank": 17,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0080",
+      "priority_rank": 18,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0083",
+      "priority_rank": 19,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0084",
+      "priority_rank": 20,
+      "batch": {
+        "batch_id": "batch-02",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0081",
+      "priority_rank": 21,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0082",
+      "priority_rank": 22,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0003",
+      "priority_rank": 23,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0005",
+      "priority_rank": 24,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0009",
+      "priority_rank": 25,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0010",
+      "priority_rank": 26,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0024",
+      "priority_rank": 27,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0028",
+      "priority_rank": 28,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0032",
+      "priority_rank": 29,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0035",
+      "priority_rank": 30,
+      "batch": {
+        "batch_id": "batch-03",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0037",
+      "priority_rank": 31,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0038",
+      "priority_rank": 32,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0039",
+      "priority_rank": 33,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0043",
+      "priority_rank": 34,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0048",
+      "priority_rank": 35,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0051",
+      "priority_rank": 36,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0052",
+      "priority_rank": 37,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0050",
+      "priority_rank": 38,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0006",
+      "priority_rank": 39,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0008",
+      "priority_rank": 40,
+      "batch": {
+        "batch_id": "batch-04",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0013",
+      "priority_rank": 41,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0014",
+      "priority_rank": 42,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0015",
+      "priority_rank": 43,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0016",
+      "priority_rank": 44,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0017",
+      "priority_rank": 45,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0018",
+      "priority_rank": 46,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0019",
+      "priority_rank": 47,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0020",
+      "priority_rank": 48,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0021",
+      "priority_rank": 49,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0023",
+      "priority_rank": 50,
+      "batch": {
+        "batch_id": "batch-05",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0026",
+      "priority_rank": 51,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0027",
+      "priority_rank": 52,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0029",
+      "priority_rank": 53,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0030",
+      "priority_rank": 54,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0031",
+      "priority_rank": 55,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0034",
+      "priority_rank": 56,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0040",
+      "priority_rank": 57,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0041",
+      "priority_rank": 58,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0042",
+      "priority_rank": 59,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0044",
+      "priority_rank": 60,
+      "batch": {
+        "batch_id": "batch-06",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0045",
+      "priority_rank": 61,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0046",
+      "priority_rank": 62,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0047",
+      "priority_rank": 63,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0049",
+      "priority_rank": 64,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0053",
+      "priority_rank": 65,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0054",
+      "priority_rank": 66,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0055",
+      "priority_rank": 67,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0056",
+      "priority_rank": 68,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0057",
+      "priority_rank": 69,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0058",
+      "priority_rank": 70,
+      "batch": {
+        "batch_id": "batch-07",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0059",
+      "priority_rank": 71,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0060",
+      "priority_rank": 72,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0061",
+      "priority_rank": 73,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0062",
+      "priority_rank": 74,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0063",
+      "priority_rank": 75,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0064",
+      "priority_rank": 76,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 6
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0065",
+      "priority_rank": 77,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 7
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0066",
+      "priority_rank": 78,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 8
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0067",
+      "priority_rank": 79,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 9
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0068",
+      "priority_rank": 80,
+      "batch": {
+        "batch_id": "batch-08",
+        "batch_rank": 10
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0069",
+      "priority_rank": 81,
+      "batch": {
+        "batch_id": "batch-09",
+        "batch_rank": 1
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0070",
+      "priority_rank": 82,
+      "batch": {
+        "batch_id": "batch-09",
+        "batch_rank": 2
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0077",
+      "priority_rank": 83,
+      "batch": {
+        "batch_id": "batch-09",
+        "batch_rank": 3
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0078",
+      "priority_rank": 84,
+      "batch": {
+        "batch_id": "batch-09",
+        "batch_rank": 4
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    },
+    {
+      "cluster_id": "component-0085",
+      "priority_rank": 85,
+      "batch": {
+        "batch_id": "batch-09",
+        "batch_rank": 5
+      },
+      "status": "open",
+      "evidence_ref": null,
+      "reviewer": null,
+      "rationale": null
+    }
+  ],
+  "boundaries": [
+    "The register tracks one workflow status for each G13 cluster and aggregate counts for each G13 batch.",
+    "The initial register uses status=open and null evidence_ref, reviewer and rationale for every cluster.",
+    "in_review requires a non-empty reviewer and rationale; evidence_ref may remain null until closure.",
+    "decided requires a non-empty evidence_ref, reviewer and rationale; a cluster cannot be closed without evidence.",
+    "The register never changes, merges, rejects or deletes card or exam files.",
+    "The G13 packet remains the initial all-null review packet and is not rewritten by this tool."
+  ]
+}

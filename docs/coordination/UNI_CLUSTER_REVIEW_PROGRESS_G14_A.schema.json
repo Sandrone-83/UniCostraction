@@ -1,0 +1,139 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-cluster-review-progress-g14a.v1.json",
+  "title": "UniCostraction G14-A cluster review progress register",
+  "type": "object",
+  "required": ["schema_version", "tool", "input", "scope", "workflow", "coverage", "batches", "clusters", "boundaries"],
+  "properties": {
+    "schema_version": { "const": "g14a.v1" },
+    "tool": { "const": "tools/uni_cluster_review_progress_g14_a.py" },
+    "input": { "$ref": "#/$defs/input" },
+    "scope": { "$ref": "#/$defs/scope" },
+    "workflow": { "$ref": "#/$defs/workflow" },
+    "coverage": { "$ref": "#/$defs/coverage" },
+    "batches": { "type": "array", "minItems": 9, "maxItems": 9, "items": { "$ref": "#/$defs/batch" } },
+    "clusters": { "type": "array", "minItems": 85, "maxItems": 85, "items": { "$ref": "#/$defs/cluster" } },
+    "boundaries": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "input": {
+      "type": "object",
+      "required": ["path", "schema_version", "cluster_count", "batch_count", "packet_sha256"],
+      "properties": {
+        "path": { "const": "docs/coordination/UNI_CLUSTER_REVIEW_PACKET_G13_A.json" },
+        "schema_version": { "const": "g13a.v1" },
+        "cluster_count": { "const": 85 },
+        "batch_count": { "const": 9 },
+        "packet_sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+      },
+      "additionalProperties": false
+    },
+    "scope": {
+      "type": "object",
+      "required": ["tracking_level", "initial_status", "human_review_required", "answers_read", "didactic_content_copied", "didactic_content_modified", "automatic_card_modification", "automatic_exam_modification", "source_of_truth"],
+      "properties": {
+        "tracking_level": { "const": "g13_cluster" },
+        "initial_status": { "const": "open" },
+        "human_review_required": { "const": true },
+        "answers_read": { "const": false },
+        "didactic_content_copied": { "const": false },
+        "didactic_content_modified": { "const": false },
+        "automatic_card_modification": { "const": false },
+        "automatic_exam_modification": { "const": false },
+        "source_of_truth": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "workflow": {
+      "type": "object",
+      "required": ["allowed_statuses", "evidence_ref_required_for_decided", "reviewer_required_for_in_review_or_decided", "rationale_required_for_in_review_or_decided", "decided_is_not_an_action"],
+      "properties": {
+        "allowed_statuses": { "const": ["open", "in_review", "decided"] },
+        "evidence_ref_required_for_decided": { "const": true },
+        "reviewer_required_for_in_review_or_decided": { "const": true },
+        "rationale_required_for_in_review_or_decided": { "const": true },
+        "decided_is_not_an_action": { "const": true }
+      },
+      "additionalProperties": false
+    },
+    "statusCounts": {
+      "type": "object",
+      "required": ["open", "in_review", "decided"],
+      "properties": {
+        "open": { "type": "integer", "minimum": 0 },
+        "in_review": { "type": "integer", "minimum": 0 },
+        "decided": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "coverage": {
+      "type": "object",
+      "required": ["cluster_count", "batch_count", "status_counts", "open_count", "in_review_count", "decided_count", "pending_count", "all_evidence_refs_null", "all_reviewers_null", "all_rationales_null"],
+      "properties": {
+        "cluster_count": { "const": 85 },
+        "batch_count": { "const": 9 },
+        "status_counts": { "$ref": "#/$defs/statusCounts" },
+        "open_count": { "type": "integer", "minimum": 0 },
+        "in_review_count": { "type": "integer", "minimum": 0 },
+        "decided_count": { "type": "integer", "minimum": 0 },
+        "pending_count": { "type": "integer", "minimum": 0 },
+        "all_evidence_refs_null": { "type": "boolean" },
+        "all_reviewers_null": { "type": "boolean" },
+        "all_rationales_null": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "batch": {
+      "type": "object",
+      "required": ["batch_id", "priority_rank_start", "priority_rank_end", "cluster_count", "cluster_ids", "status_counts", "decided_count"],
+      "properties": {
+        "batch_id": { "type": "string", "pattern": "^batch-[0-9]{2}$" },
+        "priority_rank_start": { "type": "integer", "minimum": 1 },
+        "priority_rank_end": { "type": "integer", "minimum": 1 },
+        "cluster_count": { "type": "integer", "minimum": 1 },
+        "cluster_ids": { "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^component-[0-9]{4}$" } },
+        "status_counts": { "$ref": "#/$defs/statusCounts" },
+        "decided_count": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "auditField": { "type": ["string", "null"] },
+    "cluster": {
+      "type": "object",
+      "required": ["cluster_id", "priority_rank", "batch", "status", "evidence_ref", "reviewer", "rationale"],
+      "properties": {
+        "cluster_id": { "type": "string", "pattern": "^component-[0-9]{4}$" },
+        "priority_rank": { "type": "integer", "minimum": 1, "maximum": 85 },
+        "batch": {
+          "type": "object",
+          "required": ["batch_id", "batch_rank"],
+          "properties": {
+            "batch_id": { "type": "string", "pattern": "^batch-[0-9]{2}$" },
+            "batch_rank": { "type": "integer", "minimum": 1 }
+          },
+          "additionalProperties": false
+        },
+        "status": { "enum": ["open", "in_review", "decided"] },
+        "evidence_ref": { "$ref": "#/$defs/auditField" },
+        "reviewer": { "$ref": "#/$defs/auditField" },
+        "rationale": { "$ref": "#/$defs/auditField" }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "status": { "const": "open" } } },
+          "then": { "properties": { "evidence_ref": { "const": null }, "reviewer": { "const": null }, "rationale": { "const": null } } }
+        },
+        {
+          "if": { "properties": { "status": { "enum": ["in_review", "decided"] } } },
+          "then": { "properties": { "reviewer": { "type": "string", "minLength": 1 }, "rationale": { "type": "string", "minLength": 1 } } }
+        },
+        {
+          "if": { "properties": { "status": { "const": "decided" } } },
+          "then": { "properties": { "evidence_ref": { "type": "string", "minLength": 1 } } }
+        }
+      ],
+      "additionalProperties": false
+    }
+  }
+}
