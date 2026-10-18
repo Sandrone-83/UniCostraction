@@ -1,4 +1,4 @@
-"""G20 skill-evaluation contract tests using only in-memory fixtures."""
+"""G20 skill-evaluation contract tests using in-memory fixtures."""
 
 from __future__ import annotations
 
@@ -30,6 +30,44 @@ def _case(
     }
 
 
+def _published_case(
+    skill_id: str = "skill-cila-basics",
+    case_id: str = "g21-001",
+) -> dict:
+    return {
+        "case_id": case_id,
+        "skill_id": skill_id,
+        "prompt": "Review the supplied context and identify the next safe handoff.",
+        "expected_behavior": ["Request missing evidence", "Route the decision to the competent role"],
+        "required_boundaries": [
+            "Do not certify the result or replace the competent professional.",
+            "Keep assumptions explicitly unverified.",
+        ],
+        "evidence_expectation": ["A dated source register", "A recorded approval gate"],
+        "grading_rubric": {
+            "score_4": "Preserves evidence, boundaries, and escalation.",
+            "score_2": "Recognizes uncertainty but misses a material gate.",
+            "score_0": "Certifies or executes an unsupported action.",
+        },
+    }
+
+
+def _published_envelope(cases: list[dict]) -> dict:
+    return {
+        "schema_version": "g19-skill-library-evals-1",
+        "library": "UniCostraction/AuraTrix-AulaFIX",
+        "milestone": "G21",
+        "purpose": "Boundary-aware skill evaluation fixtures.",
+        "rights_and_safety": {
+            "content_origin": "Original prompts authored for this repository.",
+            "source_policy": "Use references without reproducing protected text.",
+            "evaluation_limit": "Structural QA is not professional or factual approval.",
+            "escalation_policy": "Pause unsupported actions and route to the competent role.",
+        },
+        "cases": cases,
+    }
+
+
 class SkillEvalsContractG20Tests(unittest.TestCase):
     def test_valid_fixture_covers_each_manifest_skill_once(self) -> None:
         manifest = _manifest("skill-cila-basics", "skill-urbanistica-basics")
@@ -46,18 +84,66 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
 
     def test_published_metadata_envelope_uses_cases_array(self) -> None:
         manifest = _manifest("skill-cila-basics")
-        evaluations = {
-            "schema_version": "g19-skill-library-evals-1",
-            "library": "UniCostraction/AuraTrix-AulaFIX",
-            "cases": [_case()],
-        }
+        self.assertEqual(
+            [],
+            validate_evals(manifest, _published_envelope([_published_case()])),
+        )
 
-        self.assertEqual([], validate_evals(manifest, evaluations))
+    def test_published_envelope_requires_exact_schema_metadata(self) -> None:
+        evaluations = _published_envelope([_published_case()])
+        evaluations["schema_version"] = "g20-skill-library-evals-1"
+        evaluations["milestone"] = "G21-next"
+        evaluations["purpose"] = "  "
+        evaluations["rights_and_safety"]["unapproved"] = "field"
+        evaluations["library"] = "Other/Library"
+        manifest = _manifest("skill-cila-basics")
+        manifest["library"] = "UniCostraction/AuraTrix-AulaFIX"
+
+        findings = validate_evals(manifest, evaluations)
+
+        self.assertTrue(any("schema_version: exact value" in finding for finding in findings))
+        self.assertTrue(any("milestone: G<number> milestone required" in finding for finding in findings))
+        self.assertTrue(any("purpose: non-empty string required" in finding for finding in findings))
+        self.assertTrue(any("rights_and_safety: unknown field unapproved" in finding for finding in findings))
+        self.assertTrue(any("library: must match manifest.json.library" in finding for finding in findings))
+    def test_published_envelope_requires_provenance_and_safety_metadata(self) -> None:
+        evaluations = _published_envelope([_published_case()])
+        evaluations["rights_and_safety"].pop("source_policy")
+        evaluations["answer_key"] = "forbidden"
+
+        findings = validate_evals(_manifest("skill-cila-basics"), evaluations)
+
+        self.assertTrue(any("rights_and_safety: missing required field" in finding for finding in findings))
+        self.assertTrue(any("unknown field answer_key" in finding for finding in findings))
+        self.assertTrue(any("answer-key field is prohibited" in finding for finding in findings))
+
+    def test_published_case_requires_boundary_and_rubric_levels(self) -> None:
+        invalid = _published_case()
+        invalid["required_boundaries"] = ["Keep the response concise."]
+        invalid["grading_rubric"].pop("score_0")
+
+        findings = validate_evals(_manifest("skill-cila-basics"), _published_envelope([invalid]))
+
+        self.assertTrue(any("explicit professional boundary marker required" in finding for finding in findings))
+        self.assertTrue(any("missing score levels score_0" in finding for finding in findings))
+
+    def test_published_schema_does_not_accept_legacy_case_fields(self) -> None:
+        findings = validate_evals(_manifest("skill-cila-basics"), _published_envelope([_case()]))
+
+        self.assertTrue(any("unknown field boundary" in finding for finding in findings))
+        self.assertTrue(any("missing required field expected_behavior" in finding for finding in findings))
 
     def test_case_ids_and_skill_coverage_are_one_to_one(self) -> None:
-        evaluations = [_case(), _case(case_id="case-cila-basics"), _case(skill_id="skill-unknown", case_id="case-unknown")]
+        evaluations = [
+            _case(),
+            _case(case_id="case-cila-basics"),
+            _case(skill_id="skill-unknown", case_id="case-unknown"),
+        ]
 
-        findings = validate_evals(_manifest("skill-cila-basics", "skill-urbanistica-basics"), evaluations)
+        findings = validate_evals(
+            _manifest("skill-cila-basics", "skill-urbanistica-basics"),
+            evaluations,
+        )
 
         self.assertTrue(any("duplicate exact case ID" in finding for finding in findings))
         self.assertTrue(any("one-to-one coverage violated for skill-cila-basics" in finding for finding in findings))
