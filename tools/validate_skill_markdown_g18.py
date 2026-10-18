@@ -24,6 +24,7 @@ REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_LIBRARY = REPOSITORY_ROOT / "skills"
 MANIFEST_NAME = "manifest.json"
 SKILL_FILENAME = "SKILL.md"
+LEGACY_AUXILIARY_FILES = frozenset({"skill-library.schema.json", "evals/evals.json", "evals/README.md"})
 
 REQUIRED_FRONT_MATTER = frozenset({"name", "description", "metadata"})
 REQUIRED_METADATA = frozenset({"skill_id", "category"})
@@ -389,10 +390,20 @@ def _validate_legacy_library(root: Path, manifest: dict[str, Any]) -> list[str]:
         if path.is_symlink():
             findings.append(f"{location}: symlinked files are not allowed")
             continue
-        if relative == Path(MANIFEST_NAME) or relative == Path("skill-library.schema.json"):
+        relative_posix = relative.as_posix()
+        if relative == Path(MANIFEST_NAME) or relative_posix in LEGACY_AUXILIARY_FILES:
+            if relative_posix == "evals/evals.json":
+                try:
+                    evaluation_data = _read_json(path)
+                    if not isinstance(evaluation_data, (dict, list)):
+                        findings.append("evals/evals.json: JSON object or list required")
+                except (DuplicateJSONKeyError, UnicodeDecodeError, ValueError, json.JSONDecodeError):
+                    findings.append("evals/evals.json: valid UTF-8 JSON without duplicate keys required")
             continue
         if path.name != SKILL_FILENAME:
-            findings.append(f"{location}: unsupported file; only root manifest.json, optional schema JSON and SKILL.md are allowed")
+            findings.append(
+                f"{location}: unsupported file; only root manifest.json, approved evaluation artifacts, optional schema JSON and SKILL.md are allowed"
+            )
             continue
         skill_files.append(path)
         try:
