@@ -1,0 +1,163 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-cluster-review-batch-g16a.v1.json",
+  "title": "UniCostraction G16-A single-batch controlled review envelope",
+  "type": "object",
+  "required": ["schema_version", "tool", "mode", "source_reports", "scope", "review_contract", "batch", "entries", "boundaries"],
+  "properties": {
+    "schema_version": { "const": "g16a.v1" },
+    "tool": { "const": "tools/uni_cluster_review_batch_g16_a.py" },
+    "mode": { "enum": ["template", "reviewed"] },
+    "source_reports": { "$ref": "#/$defs/sourceReports" },
+    "scope": { "$ref": "#/$defs/scope" },
+    "review_contract": { "$ref": "#/$defs/reviewContract" },
+    "batch": { "$ref": "#/$defs/batch" },
+    "entries": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/entry" } },
+    "boundaries": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "sourceReport": {
+      "type": "object",
+      "required": ["path", "schema_version", "sha256"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "schema_version": { "type": "string", "minLength": 1 },
+        "sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+      },
+      "additionalProperties": false
+    },
+    "sourceReports": {
+      "type": "object",
+      "required": ["g13_packet", "g14_progress"],
+      "properties": {
+        "g13_packet": { "$ref": "#/$defs/sourceReport" },
+        "g14_progress": { "$ref": "#/$defs/sourceReport" }
+      },
+      "additionalProperties": false
+    },
+    "scope": {
+      "type": "object",
+      "required": ["batch_level", "human_review_required", "template", "import_validated", "human_fields_only", "answers_read", "didactic_content_copied", "didactic_content_modified", "canonical_packets_modified", "automatic_decision", "source_of_truth"],
+      "properties": {
+        "batch_level": { "const": "single_g13_batch" },
+        "human_review_required": { "const": true },
+        "template": { "type": "boolean" },
+        "import_validated": { "type": "boolean" },
+        "human_fields_only": { "const": true },
+        "answers_read": { "const": false },
+        "didactic_content_copied": { "const": false },
+        "didactic_content_modified": { "const": false },
+        "canonical_packets_modified": { "const": false },
+        "automatic_decision": { "const": false },
+        "source_of_truth": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "reviewContract": {
+      "type": "object",
+      "required": ["initial_decision", "allowed_decisions", "evidence_ref_required_for_non_null_decision", "reviewer_required_for_non_null_decision", "rationale_required_for_non_null_decision", "decision_is_not_an_action"],
+      "properties": {
+        "initial_decision": { "const": null },
+        "allowed_decisions": { "const": ["distinct", "merge_candidate", "reject_candidate", "needs_source_review"] },
+        "evidence_ref_required_for_non_null_decision": { "const": true },
+        "reviewer_required_for_non_null_decision": { "const": true },
+        "rationale_required_for_non_null_decision": { "const": true },
+        "decision_is_not_an_action": { "const": true }
+      },
+      "additionalProperties": false
+    },
+    "batch": {
+      "type": "object",
+      "required": ["batch_id", "priority_rank_start", "priority_rank_end", "cluster_count", "cluster_ids"],
+      "properties": {
+        "batch_id": { "type": "string", "pattern": "^batch-[0-9]{2}$" },
+        "priority_rank_start": { "type": "integer", "minimum": 1 },
+        "priority_rank_end": { "type": "integer", "minimum": 1 },
+        "cluster_count": { "type": "integer", "minimum": 1 },
+        "cluster_ids": { "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^component-[0-9]{4}$" } }
+      },
+      "additionalProperties": false
+    },
+    "g11": {
+      "type": "object",
+      "required": ["source_group", "collision_count", "unit_count", "unit_refs"],
+      "properties": {
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "collision_count": { "type": "integer", "minimum": 1 },
+        "unit_count": { "type": "integer", "minimum": 1 },
+        "unit_refs": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+      },
+      "additionalProperties": false
+    },
+    "examRef": {
+      "type": "object",
+      "required": ["exam_id", "exam_path", "classification", "legacy_observed", "source_files"],
+      "properties": {
+        "exam_id": { "type": "string", "minLength": 1 },
+        "exam_path": { "type": "string", "minLength": 1 },
+        "classification": { "type": "string", "minLength": 1 },
+        "legacy_observed": { "type": "boolean" },
+        "source_files": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      },
+      "additionalProperties": false
+    },
+    "packRef": {
+      "type": "object",
+      "required": ["pack_id", "pack_path", "classification", "mapping_relation", "source_files"],
+      "properties": {
+        "pack_id": { "type": "string", "minLength": 1 },
+        "pack_path": { "type": "string", "minLength": 1 },
+        "classification": { "type": "string", "minLength": 1 },
+        "mapping_relation": { "type": "string", "minLength": 1 },
+        "source_files": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      },
+      "additionalProperties": false
+    },
+    "references": {
+      "type": "object",
+      "required": ["exam_refs", "pack_refs", "pack_reference_mode"],
+      "properties": {
+        "exam_refs": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/examRef" } },
+        "pack_refs": { "type": "array", "items": { "$ref": "#/$defs/packRef" } },
+        "pack_reference_mode": { "const": "observed_g4_candidates_preserved" }
+      },
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "required": ["decision", "evidence_ref", "reviewer", "rationale"],
+      "properties": {
+        "decision": { "type": ["string", "null"], "enum": [null, "distinct", "merge_candidate", "reject_candidate", "needs_source_review"] },
+        "evidence_ref": { "type": ["string", "null"] },
+        "reviewer": { "type": ["string", "null"] },
+        "rationale": { "type": ["string", "null"] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "decision": { "type": "null" } } },
+          "then": { "properties": { "evidence_ref": { "const": null }, "reviewer": { "const": null }, "rationale": { "const": null } } }
+        },
+        {
+          "if": { "properties": { "decision": { "type": "string" } } },
+          "then": { "properties": { "evidence_ref": { "type": "string", "minLength": 1 }, "reviewer": { "type": "string", "minLength": 1 }, "rationale": { "type": "string", "minLength": 1 } } }
+        }
+      ],
+      "additionalProperties": false
+    },
+    "entry": {
+      "type": "object",
+      "required": ["cluster_id", "priority_rank", "batch_rank", "g11", "references", "g12_contract_ref", "review"],
+      "properties": {
+        "cluster_id": { "type": "string", "pattern": "^component-[0-9]{4}$" },
+        "priority_rank": { "type": "integer", "minimum": 1 },
+        "batch_rank": { "type": "integer", "minimum": 1 },
+        "g11": { "$ref": "#/$defs/g11" },
+        "references": { "$ref": "#/$defs/references" },
+        "g12_contract_ref": { "type": "string", "minLength": 1 },
+        "review": { "$ref": "#/$defs/review" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

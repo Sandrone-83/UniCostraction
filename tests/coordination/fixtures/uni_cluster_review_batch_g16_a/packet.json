@@ -1,0 +1,68 @@
+{
+  "schema_version": "g13a.v1",
+  "tool": "tools/uni_cluster_review_packet_g13_a.py",
+  "source_reports": {},
+  "scope": {},
+  "review_contract": {},
+  "coverage": {
+    "cluster_count": 3,
+    "batch_count": 2,
+    "pending_count": 3,
+    "decided_count": 0,
+    "all_decisions_null": true,
+    "all_reviewers_null": true,
+    "all_rationales_null": true,
+    "all_evidence_refs_null": true
+  },
+  "batches": [
+    {
+      "batch_id": "batch-01",
+      "priority_rank_start": 1,
+      "priority_rank_end": 2,
+      "cluster_count": 2,
+      "cluster_ids": ["component-0001", "component-0002"],
+      "pending_count": 2
+    },
+    {
+      "batch_id": "batch-02",
+      "priority_rank_start": 3,
+      "priority_rank_end": 3,
+      "cluster_count": 1,
+      "cluster_ids": ["component-0003"],
+      "pending_count": 1
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "component-0001",
+      "priority_rank": 1,
+      "priority_key": {},
+      "g11": {"source_group": "cards", "collision_count": 1, "unit_count": 1, "unit_refs": ["synthetic:placeholder-0001"]},
+      "references": {"exam_refs": [{"exam_id": "synthetic-alpha", "exam_path": "synthetic/alpha", "classification": "placeholder", "legacy_observed": false, "source_files": ["synthetic/alpha/source.md"]}], "pack_refs": [], "pack_reference_mode": "observed_g4_candidates_preserved"},
+      "batch": {"batch_id": "batch-01", "batch_rank": 1},
+      "g12_contract_ref": "synthetic/g12#component-0001",
+      "review": {"decision": null, "evidence_ref": null, "reviewer": null, "rationale": null}
+    },
+    {
+      "cluster_id": "component-0002",
+      "priority_rank": 2,
+      "priority_key": {},
+      "g11": {"source_group": "cards", "collision_count": 1, "unit_count": 1, "unit_refs": ["synthetic:placeholder-0002"]},
+      "references": {"exam_refs": [{"exam_id": "synthetic-beta", "exam_path": "synthetic/beta", "classification": "placeholder", "legacy_observed": false, "source_files": ["synthetic/beta/source.md"]}], "pack_refs": [], "pack_reference_mode": "observed_g4_candidates_preserved"},
+      "batch": {"batch_id": "batch-01", "batch_rank": 2},
+      "g12_contract_ref": "synthetic/g12#component-0002",
+      "review": {"decision": null, "evidence_ref": null, "reviewer": null, "rationale": null}
+    },
+    {
+      "cluster_id": "component-0003",
+      "priority_rank": 3,
+      "priority_key": {},
+      "g11": {"source_group": "cards", "collision_count": 1, "unit_count": 1, "unit_refs": ["synthetic:placeholder-0003"]},
+      "references": {"exam_refs": [{"exam_id": "synthetic-gamma", "exam_path": "synthetic/gamma", "classification": "placeholder", "legacy_observed": false, "source_files": ["synthetic/gamma/source.md"]}], "pack_refs": [], "pack_reference_mode": "observed_g4_candidates_preserved"},
+      "batch": {"batch_id": "batch-02", "batch_rank": 1},
+      "g12_contract_ref": "synthetic/g12#component-0003",
+      "review": {"decision": null, "evidence_ref": null, "reviewer": null, "rationale": null}
+    }
+  ],
+  "boundaries": ["synthetic placeholder only; no exam text"]
+}
