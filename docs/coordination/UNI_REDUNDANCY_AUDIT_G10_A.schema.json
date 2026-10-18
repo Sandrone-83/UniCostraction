@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-redundancy-audit-g10a.v1.json",
+  "title": "UniCostraction G10-A redundancy audit",
+  "type": "object",
+  "required": ["schema_version", "tool", "scope", "normalization", "similarity", "evidence", "results", "boundaries"],
+  "properties": {
+    "schema_version": { "const": "g10a.v1" },
+    "tool": { "const": "tools/uni_redundancy_audit_g10_a.py" },
+    "scope": {
+      "type": "object",
+      "required": ["root", "included", "excluded_directories", "answers_read", "didactic_content_modified", "automatic_deduplication", "source_of_truth"],
+      "properties": {
+        "root": { "const": "." },
+        "included": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 2 },
+        "excluded_directories": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "answers_read": { "const": false },
+        "didactic_content_modified": { "const": false },
+        "automatic_deduplication": { "const": false },
+        "source_of_truth": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "normalization": {
+      "type": "object",
+      "required": ["version", "steps", "content_hash_boundary"],
+      "properties": {
+        "version": { "const": "g10a-conservative-v1" },
+        "steps": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 },
+        "content_hash_boundary": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "similarity": {
+      "type": "object",
+      "required": ["metric", "threshold", "minimum_unique_tokens", "maximum_token_posting_frequency", "comparison_scope", "candidate_bound", "candidate_generation"],
+      "properties": {
+        "metric": { "const": "token_set_jaccard" },
+        "threshold": { "type": "number", "minimum": 0, "maximum": 1 },
+        "minimum_unique_tokens": { "type": "integer", "minimum": 1 },
+        "maximum_token_posting_frequency": { "type": "integer", "minimum": 1 },
+        "comparison_scope": { "const": "within_source_group_only" },
+        "candidate_bound": { "type": "integer", "minimum": 1 },
+        "candidate_generation": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "evidence": {
+      "type": "object",
+      "required": ["files", "units", "file_counts_by_source_group", "unit_counts_by_source_group"],
+      "properties": {
+        "files": { "type": "array", "items": { "$ref": "#/$defs/fileEvidence" } },
+        "units": { "type": "array", "items": { "$ref": "#/$defs/unitEvidence" } },
+        "file_counts_by_source_group": { "type": "object", "additionalProperties": { "type": "integer", "minimum": 0 } },
+        "unit_counts_by_source_group": { "type": "object", "additionalProperties": { "type": "integer", "minimum": 0 } }
+      },
+      "additionalProperties": false
+    },
+    "results": {
+      "type": "object",
+      "required": ["duplicate_exact", "candidate_review", "distinct", "classification_by_unit", "classification_counts", "candidate_pairs_truncated"],
+      "properties": {
+        "duplicate_exact": { "type": "array", "items": { "$ref": "#/$defs/exactGroup" } },
+        "candidate_review": { "type": "array", "items": { "$ref": "#/$defs/candidate" } },
+        "distinct": {
+          "type": "object",
+          "required": ["unit_ids", "interpretation"],
+          "properties": {
+            "unit_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+            "interpretation": { "type": "string", "minLength": 1 }
+          },
+          "additionalProperties": false
+        },
+        "classification_by_unit": { "type": "object", "additionalProperties": { "enum": ["duplicate_exact", "candidate_review", "distinct"] } },
+        "classification_counts": { "type": "object", "required": ["duplicate_exact", "candidate_review", "distinct"], "additionalProperties": { "type": "integer", "minimum": 0 } },
+        "candidate_pairs_truncated": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "boundaries": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 }
+  },
+  "$defs": {
+    "fileEvidence": {
+      "type": "object",
+      "required": ["path", "source_group", "unit_kind", "raw_sha256", "normalized_file_sha256", "unit_count", "parse_errors", "parse_complete"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "unit_kind": { "enum": ["card", "exam_question"] },
+        "raw_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "normalized_file_sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" },
+        "unit_count": { "type": "integer", "minimum": 0 },
+        "question_formats": { "type": "array", "items": { "type": "string" } },
+        "parse_errors": { "type": "array", "items": { "type": "string" } },
+        "parse_complete": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "unitEvidence": {
+      "type": "object",
+      "required": ["unit_id", "source_path", "source_group", "unit_kind", "ordinal", "raw_sha256", "content_sha256", "normalized_content_sha256", "unique_token_count", "classification"],
+      "properties": {
+        "unit_id": { "type": "string", "minLength": 1 },
+        "source_path": { "type": "string", "minLength": 1 },
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "unit_kind": { "enum": ["card", "exam_question"] },
+        "ordinal": { "type": "integer", "minimum": 1 },
+        "question_number": { "type": "integer", "minimum": 1 },
+        "question_format": { "type": "string", "minLength": 1 },
+        "raw_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "content_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "normalized_content_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "unique_token_count": { "type": "integer", "minimum": 0 },
+        "classification": { "enum": ["duplicate_exact", "candidate_review", "distinct"] }
+      },
+      "additionalProperties": false
+    },
+    "exactGroup": {
+      "type": "object",
+      "required": ["group_id", "match_basis", "content_sha256", "unit_ids", "source_groups", "interpretation"],
+      "properties": {
+        "group_id": { "type": "string", "minLength": 1 },
+        "match_basis": { "const": "content_sha256" },
+        "content_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "unit_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 2, "uniqueItems": true },
+        "source_groups": { "type": "array", "items": { "enum": ["cards", "public_exams"] }, "uniqueItems": true },
+        "interpretation": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "candidate": {
+      "type": "object",
+      "required": ["candidate_id", "left_unit_id", "right_unit_id", "source_group", "metric", "score", "threshold", "shared_token_count", "union_token_count", "interpretation"],
+      "properties": {
+        "candidate_id": { "type": "string", "minLength": 1 },
+        "left_unit_id": { "type": "string", "minLength": 1 },
+        "right_unit_id": { "type": "string", "minLength": 1 },
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "metric": { "const": "token_set_jaccard" },
+        "score": { "type": "number", "minimum": 0, "maximum": 1 },
+        "threshold": { "type": "number", "minimum": 0, "maximum": 1 },
+        "shared_token_count": { "type": "integer", "minimum": 1 },
+        "union_token_count": { "type": "integer", "minimum": 1 },
+        "interpretation": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
