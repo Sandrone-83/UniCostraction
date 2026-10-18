@@ -24,6 +24,11 @@ osservati. Parte con `review_status: "pending"` e con una decisione nulla.
 `uncertainty`, `legacy_observed` e `candidate_ids` non vengono riscritti come
 equivalenze canoniche.
 
+Snapshot della coda verificato dal gate G7-A: **6 item**, tutti **pending**,
+di cui **2 esami legacy unmatched**.
+
+<!-- G7-A review: queue_items=6; pending=6; legacy_unmatched=2 -->
+
 ## Regole di revisione
 
 - I candidati sono segnali di nome/documentazione derivati da G4, non prove di

@@ -1,0 +1,557 @@
+{
+  "schema_version": "g7a.v1",
+  "tool": "tools/uni_release_readiness_g7.py",
+  "status": "blocked",
+  "release_ready": false,
+  "review_state": "pending",
+  "mismatch_count": 0,
+  "source_reports": {
+    "dashboard": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+    "review": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+    "dashboard_documentation": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.md",
+    "review_documentation": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.md"
+  },
+  "observed_snapshot": {
+    "dashboard": {
+      "observed.packs": 71,
+      "observed.schede.jsonl_rows": 963,
+      "observed.schede.declared_total": 963,
+      "observed.exams": 73,
+      "observed.exam_pack_pairs": 73,
+      "mapping.observed_pair_count": 73,
+      "mapping.pair_relation_counts.exact_name": 14,
+      "mapping.pair_relation_counts.alias_observed": 59,
+      "unmatched.pack_count": 0,
+      "unmatched.exam_count": 2,
+      "unmatched.total_items": 2,
+      "pending_human_review.queue_item_count": 6,
+      "pending_human_review.pending_count": 6,
+      "pending_human_review.status_counts.pending": 6,
+      "pending_human_review.status_counts.decided": 0,
+      "pending_human_review.item_type_counts.pack": 2,
+      "pending_human_review.item_type_counts.exam": 4,
+      "pending_human_review.uncertainty_counts.ambiguous_observed_candidates": 4,
+      "pending_human_review.uncertainty_counts.unmatched_legacy_domain": 2
+    },
+    "review": {
+      "counts.queue_items": 6,
+      "counts.ambiguous_pack": 2,
+      "counts.ambiguous_exam": 2,
+      "counts.legacy_unmatched_exam": 2,
+      "counts.pending": 6
+    }
+  },
+  "open_review": {
+    "pending_g5": 6,
+    "unmatched_legacy": 2,
+    "automatic_resolution": false
+  },
+  "blocking_conditions": [
+    "pending_human_review: 6 G5 item remain pending",
+    "unmatched_legacy: 2 legacy exam remain unmatched"
+  ],
+  "checks": [
+    {
+      "check_id": "recomputed_dashboard_contract.observed.packs",
+      "path": "observed.packs",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 71,
+      "observed": 71
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.observed.schede.jsonl_rows",
+      "path": "observed.schede.jsonl_rows",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 963,
+      "observed": 963
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.observed.schede.declared_total",
+      "path": "observed.schede.declared_total",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 963,
+      "observed": 963
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.observed.exams",
+      "path": "observed.exams",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.observed.exam_pack_pairs",
+      "path": "observed.exam_pack_pairs",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.mapping.observed_pair_count",
+      "path": "mapping.observed_pair_count",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.mapping.pair_relation_counts.exact_name",
+      "path": "mapping.pair_relation_counts.exact_name",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 14,
+      "observed": 14
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.mapping.pair_relation_counts.alias_observed",
+      "path": "mapping.pair_relation_counts.alias_observed",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 59,
+      "observed": 59
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.unmatched.pack_count",
+      "path": "unmatched.pack_count",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 0,
+      "observed": 0
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.unmatched.exam_count",
+      "path": "unmatched.exam_count",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.unmatched.total_items",
+      "path": "unmatched.total_items",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.queue_item_count",
+      "path": "pending_human_review.queue_item_count",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.pending_count",
+      "path": "pending_human_review.pending_count",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.status_counts.pending",
+      "path": "pending_human_review.status_counts.pending",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.status_counts.decided",
+      "path": "pending_human_review.status_counts.decided",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 0,
+      "observed": 0
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.item_type_counts.pack",
+      "path": "pending_human_review.item_type_counts.pack",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.item_type_counts.exam",
+      "path": "pending_human_review.item_type_counts.exam",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 4,
+      "observed": 4
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.uncertainty_counts.ambiguous_observed_candidates",
+      "path": "pending_human_review.uncertainty_counts.ambiguous_observed_candidates",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 4,
+      "observed": 4
+    },
+    {
+      "check_id": "recomputed_dashboard_contract.pending_human_review.uncertainty_counts.unmatched_legacy_domain",
+      "path": "pending_human_review.uncertainty_counts.unmatched_legacy_domain",
+      "source": "selected checkout filesystem via G6 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.observed.packs",
+      "path": "observed.packs",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 71,
+      "observed": 71
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.observed.schede.jsonl_rows",
+      "path": "observed.schede.jsonl_rows",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 963,
+      "observed": 963
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.observed.schede.declared_total",
+      "path": "observed.schede.declared_total",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 963,
+      "observed": 963
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.observed.exams",
+      "path": "observed.exams",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.observed.exam_pack_pairs",
+      "path": "observed.exam_pack_pairs",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.mapping.observed_pair_count",
+      "path": "mapping.observed_pair_count",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.mapping.pair_relation_counts.exact_name",
+      "path": "mapping.pair_relation_counts.exact_name",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 14,
+      "observed": 14
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.mapping.pair_relation_counts.alias_observed",
+      "path": "mapping.pair_relation_counts.alias_observed",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 59,
+      "observed": 59
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.unmatched.pack_count",
+      "path": "unmatched.pack_count",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 0,
+      "observed": 0
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.unmatched.exam_count",
+      "path": "unmatched.exam_count",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.unmatched.total_items",
+      "path": "unmatched.total_items",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.queue_item_count",
+      "path": "pending_human_review.queue_item_count",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.pending_count",
+      "path": "pending_human_review.pending_count",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.status_counts.pending",
+      "path": "pending_human_review.status_counts.pending",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.status_counts.decided",
+      "path": "pending_human_review.status_counts.decided",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 0,
+      "observed": 0
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.item_type_counts.pack",
+      "path": "pending_human_review.item_type_counts.pack",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.item_type_counts.exam",
+      "path": "pending_human_review.item_type_counts.exam",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 4,
+      "observed": 4
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.uncertainty_counts.ambiguous_observed_candidates",
+      "path": "pending_human_review.uncertainty_counts.ambiguous_observed_candidates",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 4,
+      "observed": 4
+    },
+    {
+      "check_id": "tracked_dashboard_matches_recomputed.pending_human_review.uncertainty_counts.unmatched_legacy_domain",
+      "path": "pending_human_review.uncertainty_counts.unmatched_legacy_domain",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_review_contract.counts.queue_items",
+      "path": "counts.queue_items",
+      "source": "selected checkout filesystem via G5 builder",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "recomputed_review_contract.counts.ambiguous_pack",
+      "path": "counts.ambiguous_pack",
+      "source": "selected checkout filesystem via G5 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_review_contract.counts.ambiguous_exam",
+      "path": "counts.ambiguous_exam",
+      "source": "selected checkout filesystem via G5 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_review_contract.counts.legacy_unmatched_exam",
+      "path": "counts.legacy_unmatched_exam",
+      "source": "selected checkout filesystem via G5 builder",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "recomputed_review_contract.counts.pending",
+      "path": "counts.pending",
+      "source": "selected checkout filesystem via G5 builder",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "tracked_review_matches_recomputed.counts.queue_items",
+      "path": "counts.queue_items",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "tracked_review_matches_recomputed.counts.ambiguous_pack",
+      "path": "counts.ambiguous_pack",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_review_matches_recomputed.counts.ambiguous_exam",
+      "path": "counts.ambiguous_exam",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_review_matches_recomputed.counts.legacy_unmatched_exam",
+      "path": "counts.legacy_unmatched_exam",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "tracked_review_matches_recomputed.counts.pending",
+      "path": "counts.pending",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "cross_report.pending_count",
+      "path": "pending_human_review.pending_count == counts.pending",
+      "source": "G6 dashboard / G5 review report",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "cross_report.legacy_unmatched_count",
+      "path": "unmatched.exam_count == counts.legacy_unmatched_exam",
+      "source": "G6 dashboard / G5 review report",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    },
+    {
+      "check_id": "review_safety.all_items_pending",
+      "path": "all_items_pending",
+      "source": "G5 review queue generated from selected checkout",
+      "status": "pass",
+      "expected": true,
+      "observed": true
+    },
+    {
+      "check_id": "review_safety.all_decisions_null",
+      "path": "all_decisions_null",
+      "source": "G5 review queue generated from selected checkout",
+      "status": "pass",
+      "expected": true,
+      "observed": true
+    },
+    {
+      "check_id": "review_safety.legacy_items_have_no_candidates",
+      "path": "legacy_items_have_no_candidates",
+      "source": "G5 review queue generated from selected checkout",
+      "status": "pass",
+      "expected": true,
+      "observed": true
+    },
+    {
+      "check_id": "review_safety.legacy_items_pending",
+      "path": "legacy_items_pending",
+      "source": "G5 review queue generated from selected checkout",
+      "status": "pass",
+      "expected": true,
+      "observed": true
+    },
+    {
+      "check_id": "dashboard_documentation.packs",
+      "path": "packs",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.md",
+      "status": "pass",
+      "expected": 71,
+      "observed": 71
+    },
+    {
+      "check_id": "dashboard_documentation.schede",
+      "path": "schede",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.md",
+      "status": "pass",
+      "expected": 963,
+      "observed": 963
+    },
+    {
+      "check_id": "dashboard_documentation.exams",
+      "path": "exams",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.md",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "dashboard_documentation.pairs",
+      "path": "pairs",
+      "source": "docs/coordination/UNI_COMPLETENESS_DASHBOARD_G6.md",
+      "status": "pass",
+      "expected": 73,
+      "observed": 73
+    },
+    {
+      "check_id": "review_documentation.queue_items",
+      "path": "queue_items",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.md",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "review_documentation.pending",
+      "path": "pending",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.md",
+      "status": "pass",
+      "expected": 6,
+      "observed": 6
+    },
+    {
+      "check_id": "review_documentation.legacy_unmatched",
+      "path": "legacy_unmatched",
+      "source": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.md",
+      "status": "pass",
+      "expected": 2,
+      "observed": 2
+    }
+  ],
+  "mismatches": [],
+  "scope": {
+    "content_modified": false,
+    "didactic_content_reviewed": false,
+    "semantic_association_inferred": false,
+    "pending_or_unmatched_closed": false
+  },
+  "boundaries": [
+    "The gate checks structural counts, report parity, documentation markers, and review-state invariants only.",
+    "Six G5 pending items remain pending and require human review.",
+    "Two legacy unmatched exams remain unmatched; no name-only fallback is accepted.",
+    "A coherent gate is still blocked while open review work remains.",
+    "No questions, answers, schede content, sources, mappings, or review decisions are edited."
+  ]
+}

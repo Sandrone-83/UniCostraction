@@ -15,4 +15,9 @@ Il report separa quattro piani che non vanno sommati come se fossero la stessa c
 
 Il confronto `COURSE.yaml: schede` ↔ righe non vuote di `schede/schede.jsonl` è riportato separatamente per pack. Un conteggio coincidente è solo una verifica strutturale: non certifica il contenuto didattico, la correttezza normativa o la copertura d'esame.
 
+Snapshot strutturale osservato usato dal gate G7-A: **71 pack**, **963 righe
+`schede`**, **73 esami**, **73 coppie esame-pack**.
+
+<!-- G7-A observed: packs=71; schede=963; exams=73; pairs=73 -->
+
 G6-A non modifica domande, risposte, schede, fonti, mapping o decisioni di revisione e non considera i pending come completati.
