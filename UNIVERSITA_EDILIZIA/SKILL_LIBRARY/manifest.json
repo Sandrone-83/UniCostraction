@@ -1,0 +1,138 @@
+{
+  "library": "UniCostraction/AuraTrix-AulaFIX",
+  "version": "0.1.0",
+  "generated_at": "2026-10-18",
+  "skills": [
+    {
+      "id": "architecture-project-workflow",
+      "path": "architecture-project-workflow/SKILL.md",
+      "title": "Architettura e workflow di progetto",
+      "domain": "progettazione edilizia",
+      "scope": "Dalla richiesta iniziale al pacchetto progettuale revisionato, con tracciabilità delle decisioni e dei limiti.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "quadro nazionale dell'attività edilizia e dei titoli", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "principi e terminologia per la gestione informativa del patrimonio costruito", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://eubim.eu/handbook/", "authority": "EU BIM Task Group", "purpose": "riferimento europeo per strategie e consegne BIM", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "structural-civil-engineering",
+      "path": "structural-civil-engineering/SKILL.md",
+      "title": "Ingegneria strutturale e civile",
+      "domain": "strutture e opere civili",
+      "scope": "Impostazione, controllo e documentazione di analisi strutturali e civili senza sostituire il progettista abilitato.",
+      "source_refs": [
+        {"url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=18A00716&atto.dataPubblicazioneGazzetta=2018-02-20", "authority": "Gazzetta Ufficiale", "purpose": "NTC 2018", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eurocodes.jrc.ec.europa.eu/", "authority": "European Commission JRC", "purpose": "portale ufficiale degli Eurocodici e dei documenti di supporto", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "raccordo con disciplina edilizia nazionale", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_standard_paid_or_restricted_reference_only"
+    },
+    {
+      "id": "construction-site-safety",
+      "path": "construction-site-safety/SKILL.md",
+      "title": "Cantiere e sicurezza",
+      "domain": "sicurezza sul lavoro e cantiere",
+      "scope": "Pianificazione documentale e controllo operativo del cantiere con arresto prudenziale sui rischi non verificati.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 e aggiornamenti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://osha.europa.eu/en/legislation", "authority": "EU-OSHA", "purpose": "quadro europeo di salute e sicurezza sul lavoro", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.inail.it/portale/it.html", "authority": "INAIL", "purpose": "guide e orientamenti istituzionali da verificare per la lavorazione", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "bim-ifc-openbim",
+      "path": "bim-ifc-openbim/SKILL.md",
+      "title": "BIM, IFC e openBIM",
+      "domain": "gestione informativa e interoperabilità",
+      "scope": "Definizione dei requisiti informativi, produzione, federazione e verifica di modelli openBIM.",
+      "source_refs": [
+        {"url": "https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/", "authority": "buildingSMART International", "purpose": "release ufficiali e schemi IFC", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://www.buildingsmart.org/standards/bsi-standards/information-delivery-specification-ids/", "authority": "buildingSMART International", "purpose": "IDS per requisiti machine-checkable", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "ISO 19650 come riferimento di gestione informativa", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_open_source_or_open_standard_reference_verify_version"
+    },
+    {
+      "id": "cad-autocad-freecad",
+      "path": "cad-autocad-freecad/SKILL.md",
+      "title": "CAD, AutoCAD e FreeCAD",
+      "domain": "disegno tecnico e modellazione parametrica",
+      "scope": "Pulizia, costruzione, controllo e pubblicazione di elaborati CAD 2D/3D con unità, riferimenti e revisioni espliciti.",
+      "source_refs": [
+        {"url": "https://help.autodesk.com/view/ACD/2026/ENU/index.html", "authority": "Autodesk", "purpose": "documentazione ufficiale AutoCAD", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://wiki.freecad.org/User_hub", "authority": "FreeCAD", "purpose": "documentazione ufficiale FreeCAD", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Where-to-find-the-online-help-for-Autodesk-AutoCAD.html", "authority": "Autodesk Support", "purpose": "mappa delle versioni della guida AutoCAD", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "blender-3d-render",
+      "path": "blender-3d-render/SKILL.md",
+      "title": "Blender, 3D e render",
+      "domain": "modellazione, visualizzazione e rendering",
+      "scope": "Costruzione di scene 3D e render verificabili come rappresentazioni, separando resa visiva da rilievo o conformità.",
+      "source_refs": [
+        {"url": "https://docs.blender.org/manual/en/latest/", "authority": "Blender Foundation", "purpose": "manuale ufficiale Blender", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.blender.org/about/license/", "authority": "Blender Foundation", "purpose": "licenze del software e dei file prodotti", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://www.khronos.org/gltf/", "authority": "Khronos Group", "purpose": "formato glTF per scambio di asset 3D", "rights_state": "official_open_source_or_open_standard_reference_verify_version"}
+      ],
+      "rights_state": "official_open_source_or_open_standard_reference_verify_version"
+    },
+    {
+      "id": "documents-pdf-computo-sal-due-diligence",
+      "path": "documents-pdf-computo-sal-due-diligence/SKILL.md",
+      "title": "Documenti, PDF, computo, SAL e due diligence",
+      "domain": "evidenze documentali e controllo tecnico",
+      "scope": "Acquisizione, indicizzazione, estrazione, confronto e consegna di documenti tecnici ed economici con catena di evidenza.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/75839.html", "authority": "ISO", "purpose": "PDF 2.0 e struttura del formato", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/38920.html", "authority": "ISO", "purpose": "PDF/A per conservazione", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3A2023%3B36~art15%21vig=", "authority": "Normattiva", "purpose": "responsabilità e ciclo del contratto pubblico quando il SAL è pubblico", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_standard_paid_or_restricted_reference_only"
+    },
+    {
+      "id": "italian-urban-planning-cadastre-pa",
+      "path": "italian-urban-planning-cadastre-pa/SKILL.md",
+      "title": "Urbanistica, catasto e pubblica amministrazione italiana",
+      "domain": "titoli edilizi, territorio e dati catastali",
+      "scope": "Ricostruzione documentata di stato urbanistico-catastale, vincoli e procedimenti amministrativi con verifica presso l'ente competente.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "DPR 380/2001", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-09-07;160", "authority": "Normattiva", "purpose": "SUAP e procedimenti produttivi", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.agenziaentrate.gov.it/portale/", "authority": "Agenzia delle Entrate", "purpose": "servizi catastali e fiscali ufficiali", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "public-procurement-company-contracts",
+      "path": "public-procurement-company-contracts/SKILL.md",
+      "title": "Appalti pubblici, impresa e contratti",
+      "domain": "ciclo contrattuale e organizzazione d'impresa",
+      "scope": "Dalla qualificazione dell'opportunità alla gestione di gara, contratto, esecuzione, SAL, varianti e contestazioni.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legge%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023, Codice dei contratti pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/-/banca-dati-nazionale-contratti-pubblici", "authority": "ANAC", "purpose": "BDNCP e tracciabilità pubblica", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262!vig=", "authority": "Normattiva", "purpose": "Codice civile per obbligazioni e contratti", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "video-editing-media",
+      "path": "video-editing-media/SKILL.md",
+      "title": "Video editing e media",
+      "domain": "postproduzione audiovisiva",
+      "scope": "Ingest, montaggio, audio, colore, sottotitoli, export e controllo diritti per contenuti tecnici e formativi.",
+      "source_refs": [
+        {"url": "https://www.ffmpeg.org/documentation.html", "authority": "FFmpeg", "purpose": "strumenti e formati di transcodifica verificabili", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://www.blackmagicdesign.com/support", "authority": "Blackmagic Design", "purpose": "manuali ufficiali DaVinci Resolve e codec supportati", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.w3.org/TR/webvtt1/", "authority": "W3C", "purpose": "formato WebVTT per sottotitoli e tracce", "rights_state": "official_open_source_or_open_standard_reference_verify_version"}
+      ],
+      "rights_state": "official_open_source_or_open_standard_reference_verify_version"
+    }
+  ],
+  "rights_policy": "I file della tranche sono sintesi originali e non riproducono testo di terzi. Le URL sono riferimenti di autorità; non conferiscono licenza di redistribuzione dei testi, standard, manuali, marchi, dataset, immagini o media. Prima di pubblicare, addestrare, incorporare o consegnare materiale esterno verificare versione, termini, attribuzione, privacy, diritti d'autore e autorizzazione d'uso."
+}

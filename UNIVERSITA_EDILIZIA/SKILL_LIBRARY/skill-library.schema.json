@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:unicostraction:schemas:skill-library",
+  "title": "UniCostraction Skill Library manifest",
+  "type": "object",
+  "required": ["library", "version", "generated_at", "skills", "rights_policy"],
+  "additionalProperties": false,
+  "properties": {
+    "library": {"const": "UniCostraction/AuraTrix-AulaFIX"},
+    "version": {"type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"},
+    "generated_at": {"type": "string", "format": "date"},
+    "skills": {
+      "type": "array",
+      "minItems": 10,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "required": ["id", "path", "title", "domain", "scope", "source_refs", "rights_state"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+          "path": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*/SKILL\\.md$"},
+          "title": {"type": "string", "minLength": 3},
+          "domain": {"type": "string", "minLength": 3},
+          "scope": {"type": "string", "minLength": 20},
+          "source_refs": {
+            "type": "array",
+            "minItems": 2,
+            "items": {"$ref": "#/$defs/source"}
+          },
+          "rights_state": {"$ref": "#/$defs/rightsState"}
+        }
+      }
+    },
+    "rights_policy": {"type": "string", "minLength": 40}
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["url", "authority", "purpose", "rights_state"],
+      "additionalProperties": false,
+      "properties": {
+        "url": {"type": "string", "format": "uri", "pattern": "^https://"},
+        "authority": {"type": "string", "minLength": 3},
+        "purpose": {"type": "string", "minLength": 10},
+        "rights_state": {"$ref": "#/$defs/rightsState"}
+      }
+    },
+    "rightsState": {
+      "type": "string",
+      "enum": [
+        "official_reference_only_no_text_reproduced",
+        "official_standard_paid_or_restricted_reference_only",
+        "official_open_source_or_open_standard_reference_verify_version",
+        "official_public_legal_text_verify_current_consolidation"
+      ]
+    }
+  }
+}
