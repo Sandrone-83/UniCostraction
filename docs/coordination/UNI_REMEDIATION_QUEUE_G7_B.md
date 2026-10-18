@@ -27,15 +27,19 @@ Il PDF G3 compare sia nella categoria del blocco sia in quella della licenza man
 
 Sono fuori dal perimetro di questa coda, e quindi non sono implicitamente chiusi, i residui G6 relativi a disponibilità URL esterna, clearance indipendente per licenze dichiarate, vigenza/versione corrente e accuratezza contenutistica o legale.
 
-## Contratto di un item
+## Contratto di stato e checklist
 
-Ogni item ha `status=open`, un `source_ref` riconducibile a un `record_key` G6 oppure a un hash di alias G6, i codici osservati, criteri di chiusura e vincoli. `closure_evidence` resta vuoto finché una verifica successiva non produce evidenza esplicita. La coda non contiene payload protetti (`text`, `content`, domande, risposte o soluzioni).
+Ogni item ha uno `status` tra `open` e `resolved`, un `source_ref` riconducibile a un `record_key` G6 oppure a un hash di alias G6, i codici osservati, criteri di chiusura e vincoli. Un item `resolved` deve avere un `evidence_ref` non vuoto; la transizione `open -> resolved` è rifiutata dal validatore se il riferimento manca. Un item `open` mantiene `evidence_ref=null` e la relativa checklist in `pending`.
 
-Gli alias sono riportati ma non deduplicati automaticamente. `representation_count=2` descrive due rappresentazioni nei manifest, non autorizza a cancellare o riscrivere nessun file.
+`closure_checklist` è un artefatto machine-readable generato per ogni item: contiene un controllo per ciascun criterio, il tipo di controllo, lo stato e l'eventuale `evidence_ref`. La checklist non chiude alcun item per inferenza: nella coda G7-B tutti i controlli restano `pending`.
+
+`closure_evidence` resta vuoto finché una verifica successiva non produce evidenza esplicita. La coda non contiene payload protetti (`text`, `content`, domande, risposte o soluzioni).
+
+Gli alias sono riportati ma non deduplicati automaticamente. `representation_count=2` descrive due rappresentazioni nei manifest, non autorizza a cancellare o riscrivere nessun file. Il validatore richiede che ogni item alias abbia controlli distinti per relazione alias e decisione di deduplicazione (`independence.must_be_distinct=true`); il fatto che due file abbiano lo stesso hash non viene trattato come deduplicazione eseguita.
 
 ## Criteri di chiusura
 
-Un item può passare da `open` a `closed` solo in un aggiornamento successivo, con evidenze verificabili e riesecuzione del controllo G6:
+Un item può passare da `open` a `resolved` solo in un aggiornamento successivo, con evidenze verificabili e riesecuzione del controllo G6:
 
 - `missing_manifest_id`: il manifest sorgente dichiara esplicitamente `manifest_id`; il valore è approvato dal proprietario del corpus e il nuovo G6 non segnala più il codice residuo.
 - `missing_metadata_only`: il manifest sorgente dichiara esplicitamente il booleano `metadata_only`; valore e perimetro sono approvati, senza scegliere automaticamente `true` o `false`.
@@ -44,8 +48,8 @@ Un item può passare da `open` a `closed` solo in un aggiornamento successivo, c
 - `gse_context_only`: il record resta marcato `context_only` finché non viene rivalutato; una fonte primaria per il PDF è identificata e valutata separatamente; la pagina GSE non viene trattata come prova di identità, vigenza, licenza o riuso. Il relativo item PDF si chiude con criteri propri.
 - `alias_not_deduplicated`: il proprietario registra il record canonico e la relazione alias, riconcilia i riferimenti senza cancellare o riscrivere payload, ricontrolla hash/percorso e il nuovo G6 non segnala più la revisione alias.
 
-La presenza di un’evidenza locale o di una pagina istituzionale non basta da sola a chiudere una lacuna. Le verifiche legali, di vigenza, accuratezza e correttezza dei contenuti restano distinte da questo artefatto metadata-only.
+La presenza di un’evidenza locale o di una pagina istituzionale non basta da sola a chiudere una lacuna. Per un item alias risolto, i due controlli indipendenti devono inoltre avere `evidence_ref` distinti. Le verifiche legali, di vigenza, accuratezza e correttezza dei contenuti restano distinte da questo artefatto metadata-only.
 
 ## Validazione
 
-Il test `tests/test_g7_remediation_queue.py` controlla schema e identità, conteggi, tracciabilità completa a G6, confini G1/G3/GSE/alias, assenza di payload e determinismo della generazione. Il file JSON Schema associato è `UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json`.
+Il test `tests/test_g7_remediation_queue.py` controlla schema e identità, conteggi, tracciabilità completa a G6, transizioni di stato, obbligo di `evidence_ref`, checklist, indipendenza alias/deduplicazione, confini G1/G3/GSE/alias, assenza di payload e determinismo della generazione. Il file JSON Schema associato è `UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json`.

@@ -46,6 +46,7 @@
       "item_id": "G7-B-MANIFEST-ID-20fb331aae60",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -82,6 +83,7 @@
       "item_id": "G7-B-MANIFEST-ID-d8ace45a8272",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -118,6 +120,7 @@
       "item_id": "G7-B-MANIFEST-ID-3100c5a811ae",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -154,6 +157,7 @@
       "item_id": "G7-B-MANIFEST-ID-216f877f179e",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -190,6 +194,7 @@
       "item_id": "G7-B-MANIFEST-ID-2779fa8bfa39",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -226,6 +231,7 @@
       "item_id": "G7-B-MANIFEST-ID-9ec7563b0a3d",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -262,6 +268,7 @@
       "item_id": "G7-B-MANIFEST-ID-7030cf577140",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -298,6 +305,7 @@
       "item_id": "G7-B-MANIFEST-ID-e647cf2bfa2a",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -334,6 +342,7 @@
       "item_id": "G7-B-MANIFEST-ID-a5c653dacb18",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -370,6 +379,7 @@
       "item_id": "G7-B-MANIFEST-ID-a81a59114128",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -406,6 +416,7 @@
       "item_id": "G7-B-MANIFEST-ID-91f708dc68ec",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -442,6 +453,7 @@
       "item_id": "G7-B-MANIFEST-ID-8c2ee0253a0c",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -478,6 +490,7 @@
       "item_id": "G7-B-MANIFEST-ID-846c4982f125",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -514,6 +527,7 @@
       "item_id": "G7-B-MANIFEST-ID-0b51983ef4e2",
       "category": "missing_manifest_id",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -550,6 +564,7 @@
       "item_id": "G7-B-METADATA-ONLY-20fb331aae60",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -585,6 +600,7 @@
       "item_id": "G7-B-METADATA-ONLY-d8ace45a8272",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -620,6 +636,7 @@
       "item_id": "G7-B-METADATA-ONLY-3100c5a811ae",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -655,6 +672,7 @@
       "item_id": "G7-B-METADATA-ONLY-216f877f179e",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -690,6 +708,7 @@
       "item_id": "G7-B-METADATA-ONLY-2779fa8bfa39",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -725,6 +744,7 @@
       "item_id": "G7-B-METADATA-ONLY-9ec7563b0a3d",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -760,6 +780,7 @@
       "item_id": "G7-B-METADATA-ONLY-7030cf577140",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -795,6 +816,7 @@
       "item_id": "G7-B-METADATA-ONLY-e647cf2bfa2a",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -830,6 +852,7 @@
       "item_id": "G7-B-METADATA-ONLY-a5c653dacb18",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -865,6 +888,7 @@
       "item_id": "G7-B-METADATA-ONLY-a81a59114128",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -900,6 +924,7 @@
       "item_id": "G7-B-METADATA-ONLY-91f708dc68ec",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -935,6 +960,7 @@
       "item_id": "G7-B-METADATA-ONLY-8c2ee0253a0c",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -970,6 +996,7 @@
       "item_id": "G7-B-METADATA-ONLY-846c4982f125",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1005,6 +1032,7 @@
       "item_id": "G7-B-METADATA-ONLY-0b51983ef4e2",
       "category": "missing_metadata_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1040,6 +1068,7 @@
       "item_id": "G7-B-LICENSE-d2238c6a7fbb",
       "category": "license_missing",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1075,6 +1104,7 @@
       "item_id": "G7-B-LICENSE-bb41c71f1f79",
       "category": "license_missing",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1110,6 +1140,7 @@
       "item_id": "G7-B-LICENSE-f0a2f548d65f",
       "category": "license_missing",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1145,6 +1176,7 @@
       "item_id": "G7-B-LICENSE-a1ebfdce0589",
       "category": "license_missing",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1180,6 +1212,7 @@
       "item_id": "G7-B-G3-PDF-d2238c6a7fbb",
       "category": "g3_pdf_blocked",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1220,6 +1253,7 @@
       "item_id": "G7-B-GSE-CONTEXT-bb41c71f1f79",
       "category": "gse_context_only",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1259,6 +1293,7 @@
       "item_id": "G7-B-ALIAS-97bdef2d535d",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1289,12 +1324,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-97bdef2d535d:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-97bdef2d535d:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-6869b4f3bc39",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1325,12 +1366,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-6869b4f3bc39:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-6869b4f3bc39:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-f8da041b976f",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1361,12 +1408,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-f8da041b976f:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-f8da041b976f:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-563421d594bc",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1397,12 +1450,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-563421d594bc:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-563421d594bc:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-7a1085c41974",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1433,12 +1492,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-7a1085c41974:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-7a1085c41974:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-021cd01c467f",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1469,12 +1534,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-021cd01c467f:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-021cd01c467f:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-b61a8673f48f",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1505,12 +1576,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-b61a8673f48f:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-b61a8673f48f:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-4d3158739753",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1541,12 +1618,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-4d3158739753:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-4d3158739753:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-f7d85ebf1119",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1577,12 +1660,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-f7d85ebf1119:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-f7d85ebf1119:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-2d05db44caa2",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1613,12 +1702,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-2d05db44caa2:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-2d05db44caa2:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-b81af7324bed",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1649,12 +1744,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-b81af7324bed:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-b81af7324bed:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-31b478711852",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1685,12 +1786,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-31b478711852:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-31b478711852:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-c56b274ab944",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1721,12 +1828,18 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-c56b274ab944:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-c56b274ab944:deduplication-review",
+        "must_be_distinct": true
       }
     },
     {
       "item_id": "G7-B-ALIAS-e57c136cd146",
       "category": "alias_not_deduplicated",
       "status": "open",
+      "evidence_ref": null,
       "source_ref": "alias:EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
       "source_audit": {
         "audit_id": "G6-B-provenance",
@@ -1757,6 +1870,1491 @@
         "g6_residual_code": "cross_manifest_alias_review_required",
         "representation_count": 2,
         "deduplication_performed": false
+      },
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-e57c136cd146:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-e57c136cd146:deduplication-review",
+        "must_be_distinct": true
+      }
+    }
+  ],
+  "closure_checklist": [
+    {
+      "item_id": "G7-B-MANIFEST-ID-20fb331aae60",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-20fb331aae60:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-20fb331aae60:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-20fb331aae60:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-d8ace45a8272",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-d8ace45a8272:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-d8ace45a8272:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-d8ace45a8272:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-3100c5a811ae",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-3100c5a811ae:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-3100c5a811ae:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-3100c5a811ae:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-216f877f179e",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-216f877f179e:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-216f877f179e:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-216f877f179e:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-2779fa8bfa39",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-2779fa8bfa39:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-2779fa8bfa39:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-2779fa8bfa39:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-9ec7563b0a3d",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-9ec7563b0a3d:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-9ec7563b0a3d:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-9ec7563b0a3d:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-7030cf577140",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-7030cf577140:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-7030cf577140:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-7030cf577140:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-e647cf2bfa2a",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-e647cf2bfa2a:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-e647cf2bfa2a:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-e647cf2bfa2a:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-a5c653dacb18",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-a5c653dacb18:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-a5c653dacb18:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-a5c653dacb18:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-a81a59114128",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-a81a59114128:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-a81a59114128:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-a81a59114128:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-91f708dc68ec",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-91f708dc68ec:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-91f708dc68ec:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-91f708dc68ec:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-8c2ee0253a0c",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-8c2ee0253a0c:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-8c2ee0253a0c:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-8c2ee0253a0c:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-846c4982f125",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-846c4982f125:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-846c4982f125:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-846c4982f125:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-0b51983ef4e2",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-MANIFEST-ID-0b51983ef4e2:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares a stable manifest_id.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-0b51983ef4e2:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-MANIFEST-ID-0b51983ef4e2:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-20fb331aae60",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-20fb331aae60:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-20fb331aae60:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-20fb331aae60:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-d8ace45a8272",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-d8ace45a8272:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-d8ace45a8272:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-d8ace45a8272:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-3100c5a811ae",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-3100c5a811ae:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-3100c5a811ae:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-3100c5a811ae:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-216f877f179e",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-216f877f179e:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-216f877f179e:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-216f877f179e:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-2779fa8bfa39",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-2779fa8bfa39:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-2779fa8bfa39:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-2779fa8bfa39:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-9ec7563b0a3d",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-9ec7563b0a3d:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-9ec7563b0a3d:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-9ec7563b0a3d:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-7030cf577140",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-7030cf577140:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-7030cf577140:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-7030cf577140:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-e647cf2bfa2a",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-e647cf2bfa2a:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-e647cf2bfa2a:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-e647cf2bfa2a:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-a5c653dacb18",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-a5c653dacb18:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-a5c653dacb18:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-a5c653dacb18:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-a81a59114128",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-a81a59114128:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-a81a59114128:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-a81a59114128:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-91f708dc68ec",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-91f708dc68ec:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-91f708dc68ec:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-91f708dc68ec:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-8c2ee0253a0c",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-8c2ee0253a0c:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-8c2ee0253a0c:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-8c2ee0253a0c:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-846c4982f125",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-846c4982f125:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-846c4982f125:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-846c4982f125:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-0b51983ef4e2",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-METADATA-ONLY-0b51983ef4e2:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-0b51983ef4e2:criterion-02",
+          "check_type": "criterion",
+          "criterion": "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-METADATA-ONLY-0b51983ef4e2:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the residual code for the affected records.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-d2238c6a7fbb",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-LICENSE-d2238c6a7fbb:criterion-01",
+          "check_type": "criterion",
+          "criterion": "Exact license or reuse terms are supplied with a traceable basis.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-d2238c6a7fbb:criterion-02",
+          "check_type": "criterion",
+          "criterion": "Rights and reuse are reviewed independently where the terms require it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-d2238c6a7fbb:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the missing-license residual code.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-bb41c71f1f79",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-LICENSE-bb41c71f1f79:criterion-01",
+          "check_type": "criterion",
+          "criterion": "Exact license or reuse terms are supplied with a traceable basis.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-bb41c71f1f79:criterion-02",
+          "check_type": "criterion",
+          "criterion": "Rights and reuse are reviewed independently where the terms require it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-bb41c71f1f79:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the missing-license residual code.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-f0a2f548d65f",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-LICENSE-f0a2f548d65f:criterion-01",
+          "check_type": "criterion",
+          "criterion": "Exact license or reuse terms are supplied with a traceable basis.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-f0a2f548d65f:criterion-02",
+          "check_type": "criterion",
+          "criterion": "Rights and reuse are reviewed independently where the terms require it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-f0a2f548d65f:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the missing-license residual code.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-a1ebfdce0589",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-LICENSE-a1ebfdce0589:criterion-01",
+          "check_type": "criterion",
+          "criterion": "Exact license or reuse terms are supplied with a traceable basis.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-a1ebfdce0589:criterion-02",
+          "check_type": "criterion",
+          "criterion": "Rights and reuse are reviewed independently where the terms require it.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-LICENSE-a1ebfdce0589:criterion-03",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the missing-license residual code.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-G3-PDF-d2238c6a7fbb",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-G3-PDF-d2238c6a7fbb:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The exact locator for this local PDF is registered and identity-matched.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-G3-PDF-d2238c6a7fbb:criterion-02",
+          "check_type": "criterion",
+          "criterion": "Reuse or distribution terms are evidenced for this specific PDF.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-G3-PDF-d2238c6a7fbb:criterion-03",
+          "check_type": "criterion",
+          "criterion": "Current applicability and source identity are checked without editing the PDF.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-G3-PDF-d2238c6a7fbb:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports the blocked residual for this record.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-GSE-CONTEXT-bb41c71f1f79",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-GSE-CONTEXT-bb41c71f1f79:criterion-01",
+          "check_type": "criterion",
+          "criterion": "The record remains explicitly labeled context_only unless independently reassessed.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-GSE-CONTEXT-bb41c71f1f79:criterion-02",
+          "check_type": "criterion",
+          "criterion": "A primary source record for the local PDF is identified and assessed separately.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-GSE-CONTEXT-bb41c71f1f79:criterion-03",
+          "check_type": "criterion",
+          "criterion": "Context is not used as proof of PDF identity, vigency, license, or reuse.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-GSE-CONTEXT-bb41c71f1f79:criterion-04",
+          "check_type": "criterion",
+          "criterion": "The related G3 PDF blocker is closed separately under its own criteria.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-97bdef2d535d",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-97bdef2d535d:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-97bdef2d535d:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-97bdef2d535d:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-97bdef2d535d:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-97bdef2d535d:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-97bdef2d535d:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-6869b4f3bc39",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-6869b4f3bc39:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-6869b4f3bc39:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-6869b4f3bc39:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-6869b4f3bc39:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-6869b4f3bc39:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-6869b4f3bc39:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-f8da041b976f",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-f8da041b976f:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-f8da041b976f:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-f8da041b976f:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-f8da041b976f:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-f8da041b976f:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-f8da041b976f:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-563421d594bc",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-563421d594bc:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-563421d594bc:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-563421d594bc:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-563421d594bc:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-563421d594bc:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-563421d594bc:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-7a1085c41974",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-7a1085c41974:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-7a1085c41974:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-7a1085c41974:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-7a1085c41974:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-7a1085c41974:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-7a1085c41974:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-021cd01c467f",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-021cd01c467f:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-021cd01c467f:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-021cd01c467f:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-021cd01c467f:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-021cd01c467f:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-021cd01c467f:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-b61a8673f48f",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-b61a8673f48f:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-b61a8673f48f:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-b61a8673f48f:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-b61a8673f48f:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-b61a8673f48f:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-b61a8673f48f:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-4d3158739753",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-4d3158739753:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-4d3158739753:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-4d3158739753:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-4d3158739753:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-4d3158739753:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-4d3158739753:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-f7d85ebf1119",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-f7d85ebf1119:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-f7d85ebf1119:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-f7d85ebf1119:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-f7d85ebf1119:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-f7d85ebf1119:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-f7d85ebf1119:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-2d05db44caa2",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-2d05db44caa2:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-2d05db44caa2:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-2d05db44caa2:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-2d05db44caa2:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-2d05db44caa2:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-2d05db44caa2:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-b81af7324bed",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-b81af7324bed:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-b81af7324bed:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-b81af7324bed:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-b81af7324bed:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-b81af7324bed:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-b81af7324bed:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-31b478711852",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-31b478711852:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-31b478711852:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-31b478711852:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-31b478711852:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-31b478711852:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-31b478711852:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-c56b274ab944",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-c56b274ab944:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-c56b274ab944:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-c56b274ab944:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-c56b274ab944:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-c56b274ab944:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-c56b274ab944:deduplication-review",
+        "must_be_distinct": true
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-e57c136cd146",
+      "status": "pending",
+      "checks": [
+        {
+          "check_id": "G7-B-ALIAS-e57c136cd146:alias-review",
+          "check_type": "alias_review",
+          "criterion": "The corpus owner records a canonical record and the intentional alias relationship.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-e57c136cd146:deduplication-review",
+          "check_type": "deduplication_review",
+          "criterion": "References are reconciled without deleting or rewriting source payloads.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-e57c136cd146:criterion-03",
+          "check_type": "criterion",
+          "criterion": "The hash and local path relationship is rechecked after the metadata-only change.",
+          "status": "pending",
+          "evidence_ref": null
+        },
+        {
+          "check_id": "G7-B-ALIAS-e57c136cd146:criterion-04",
+          "check_type": "criterion",
+          "criterion": "A regenerated G6 audit no longer reports this unresolved alias review.",
+          "status": "pending",
+          "evidence_ref": null
+        }
+      ],
+      "independence": {
+        "alias_check_id": "G7-B-ALIAS-e57c136cd146:alias-review",
+        "deduplication_check_id": "G7-B-ALIAS-e57c136cd146:deduplication-review",
+        "must_be_distinct": true
       }
     }
   ]

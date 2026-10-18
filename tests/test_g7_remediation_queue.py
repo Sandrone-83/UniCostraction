@@ -16,6 +16,8 @@ from build_remediation_queue_g7 import (  # noqa: E402
     CATEGORY_ORDER,
     QUEUE_SCHEMA_VERSION,
     build_queue,
+    validate_alias_deduplication_independence,
+    validate_status_transition,
     validate_queue,
 )
 
@@ -54,6 +56,7 @@ class G7RemediationQueueTest(unittest.TestCase):
         self.assertEqual(self.report["summary"]["open_item_count"], 48)
         self.assertEqual(self.report["summary"]["by_status"], {"open": 48})
         self.assertEqual(self.report["scope"]["included_categories"], list(CATEGORY_ORDER))
+        self.assertEqual(len(self.report["closure_checklist"]), 48)
 
     def test_each_item_points_to_g6_and_has_closure_contract(self) -> None:
         record_keys = {record["record_key"] for record in self.g6["records"]}
@@ -62,6 +65,7 @@ class G7RemediationQueueTest(unittest.TestCase):
             self.assertEqual(item["source_audit"]["audit_id"], self.g6["audit_id"])
             self.assertIn(item["source_ref"], record_keys | alias_refs)
             self.assertEqual(item["status"], "open")
+            self.assertIsNone(item["evidence_ref"])
             self.assertFalse(item["closure_evidence"])
             self.assertGreater(len(item["closure_criteria"]), 0)
             self.assertIn("Do not modify source files or source payloads.", item["constraints"])
@@ -78,6 +82,35 @@ class G7RemediationQueueTest(unittest.TestCase):
         self.assertEqual(gse["record"]["proof_state"], "context_only")
         aliases = [item for item in self.report["items"] if item["category"] == "alias_not_deduplicated"]
         self.assertTrue(all(item["observed_gap"]["deduplication_performed"] is False for item in aliases))
+        validate_alias_deduplication_independence(self.report)
+
+    def test_open_to_resolved_requires_evidence_ref(self) -> None:
+        item = self.report["items"][0]
+        with self.assertRaisesRegex(ValueError, "evidence_ref"):
+            validate_status_transition(item, {**item, "status": "resolved", "evidence_ref": None})
+        validate_status_transition(
+            item,
+            {**item, "status": "resolved", "evidence_ref": "evidence/g8-b/item-001.json"},
+        )
+
+    def test_snapshot_rejects_resolved_item_without_evidence_ref(self) -> None:
+        invalid = json.loads(json.dumps(self.report))
+        invalid["items"][0]["status"] = "resolved"
+        invalid["summary"]["by_status"] = {"open": 47, "resolved": 1}
+        invalid["summary"]["open_item_count"] = 47
+        invalid["closure_checklist"][0]["status"] = "complete"
+        for check in invalid["closure_checklist"][0]["checks"]:
+            check["status"] = "complete"
+            check["evidence_ref"] = "evidence/g8-b/check.json"
+        with self.assertRaisesRegex(ValueError, "evidence_ref"):
+            validate_queue(invalid)
+
+    def test_alias_and_deduplication_are_not_conflated(self) -> None:
+        invalid = json.loads(json.dumps(self.report))
+        alias = next(item for item in invalid["items"] if item["category"] == "alias_not_deduplicated")
+        alias["observed_gap"]["deduplication_performed"] = True
+        with self.assertRaisesRegex(ValueError, "deduplication"):
+            validate_queue(invalid)
 
     def test_generation_is_deterministic_and_does_not_contain_payload_keys(self) -> None:
         self.assertEqual(self.report, build_queue(ROOT))

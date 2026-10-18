@@ -31,6 +31,9 @@ CATEGORY_ORDER = (
     "alias_not_deduplicated",
 )
 
+QUEUE_STATUSES = ("open", "resolved")
+CHECKLIST_STATUSES = ("pending", "complete")
+
 PROTECTED_KEYS = {"text", "content", "question", "answer", "solution"}
 
 
@@ -71,6 +74,7 @@ def _base_item(category: str, source_ref: str, audit: dict[str, Any]) -> dict[st
         "item_id": _item_id(category, source_ref),
         "category": category,
         "status": "open",
+        "evidence_ref": None,
         "source_ref": source_ref,
         "source_audit": {
             "audit_id": audit["audit_id"],
@@ -260,8 +264,45 @@ def _build_alias_items(audit: dict[str, Any]) -> list[dict[str, Any]]:
             "The hash and local path relationship is rechecked after the metadata-only change.",
             "A regenerated G6 audit no longer reports this unresolved alias review.",
         ]
+        item["independence"] = {
+            "alias_check_id": f"{item['item_id']}:alias-review",
+            "deduplication_check_id": f"{item['item_id']}:deduplication-review",
+            "must_be_distinct": True,
+        }
         items.append(item)
     return items
+
+
+def _build_closure_checklist(item: dict[str, Any]) -> dict[str, Any]:
+    """Create an explicit, unresolved checklist from the item's criteria."""
+    checks = []
+    for index, criterion in enumerate(item["closure_criteria"], start=1):
+        if item["category"] == "alias_not_deduplicated" and index == 1:
+            check_id = item["independence"]["alias_check_id"]
+            check_type = "alias_review"
+        elif item["category"] == "alias_not_deduplicated" and index == 2:
+            check_id = item["independence"]["deduplication_check_id"]
+            check_type = "deduplication_review"
+        else:
+            check_id = f"{item['item_id']}:criterion-{index:02d}"
+            check_type = "criterion"
+        checks.append(
+            {
+                "check_id": check_id,
+                "check_type": check_type,
+                "criterion": criterion,
+                "status": "pending",
+                "evidence_ref": None,
+            }
+        )
+    checklist = {
+        "item_id": item["item_id"],
+        "status": "pending",
+        "checks": checks,
+    }
+    if item["category"] == "alias_not_deduplicated":
+        checklist["independence"] = dict(item["independence"])
+    return checklist
 
 
 def build_queue(root: Path) -> dict[str, Any]:
@@ -272,6 +313,7 @@ def build_queue(root: Path) -> dict[str, Any]:
     category_rank = {category: index for index, category in enumerate(CATEGORY_ORDER)}
     items.sort(key=lambda item: (category_rank[item["category"]], item["source_ref"]))
     categories = Counter(item["category"] for item in items)
+    closure_checklist = [_build_closure_checklist(item) for item in items]
     return {
         "$schema": "./UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json",
         "schema_version": QUEUE_SCHEMA_VERSION,
@@ -300,6 +342,7 @@ def build_queue(root: Path) -> dict[str, Any]:
             "by_category": {category: categories.get(category, 0) for category in CATEGORY_ORDER},
         },
         "items": items,
+        "closure_checklist": closure_checklist,
     }
 
 
@@ -315,6 +358,77 @@ def _walk_keys(value: Any) -> set[str]:
     return keys
 
 
+def _require_evidence_ref(value: Any, context: str) -> None:
+    if not isinstance(value, str) or not value.strip():
+        raise ValueError(f"{context} requires a non-empty evidence_ref")
+
+
+def validate_status_transition(previous: dict[str, Any], current: dict[str, Any]) -> None:
+    """Validate one item state transition without inferring closure evidence."""
+    previous_status = previous.get("status")
+    current_status = current.get("status")
+    if previous_status not in QUEUE_STATUSES or current_status not in QUEUE_STATUSES:
+        raise ValueError("Unknown G7 queue status")
+    if previous_status == "resolved" and current_status != "resolved":
+        raise ValueError("A resolved G7 item cannot be reopened")
+    if current_status == "resolved":
+        _require_evidence_ref(current.get("evidence_ref"), "resolved transition")
+
+
+def validate_queue_transition(previous: dict[str, Any], current: dict[str, Any]) -> None:
+    """Compatibility name for callers validating a single item transition."""
+    validate_status_transition(previous, current)
+
+
+def validate_alias_deduplication_independence(queue: dict[str, Any]) -> None:
+    """Ensure alias identity and deduplication remain separate decisions."""
+    alias_hashes: set[str] = set()
+    checklist_by_item = {entry.get("item_id"): entry for entry in queue["closure_checklist"]}
+    for item in queue["items"]:
+        is_alias = item["category"] == "alias_not_deduplicated"
+        if not is_alias:
+            if item.get("source_ref", "").startswith("alias:") or "alias_group" in item:
+                raise ValueError("Alias metadata is only valid for alias_not_deduplicated items")
+            continue
+
+        alias_group = item.get("alias_group") or {}
+        alias_hash = alias_group.get("hash_sha256")
+        if not isinstance(alias_hash, str) or not alias_hash:
+            raise ValueError("Alias item is missing its observed hash")
+        if alias_hash in alias_hashes:
+            raise ValueError("Alias hash is represented more than once")
+        alias_hashes.add(alias_hash)
+        if item.get("source_ref") != "alias:" + alias_hash:
+            raise ValueError("Alias source_ref is not tied to the observed hash")
+        if item.get("observed_gap", {}).get("deduplication_performed") is not False:
+            raise ValueError("Alias observation must not claim deduplication was performed")
+        if alias_group.get("representation_count", 0) < 2:
+            raise ValueError("An alias review requires at least two representations")
+        independence = item.get("independence") or {}
+        if independence.get("must_be_distinct") is not True:
+            raise ValueError("Alias and deduplication reviews must be independent")
+        alias_check_id = independence.get("alias_check_id")
+        dedup_check_id = independence.get("deduplication_check_id")
+        if not alias_check_id or not dedup_check_id or alias_check_id == dedup_check_id:
+            raise ValueError("Alias and deduplication checks need distinct identifiers")
+        checklist = checklist_by_item.get(item["item_id"])
+        if checklist is None:
+            raise ValueError("Alias item has no closure checklist")
+        check_ids = {check["check_id"] for check in checklist["checks"]}
+        if {alias_check_id, dedup_check_id} - check_ids:
+            raise ValueError("Alias independence checks are absent from the checklist")
+        if item["status"] == "resolved":
+            refs = {
+                check["check_id"]: check.get("evidence_ref")
+                for check in checklist["checks"]
+                if check["check_id"] in {alias_check_id, dedup_check_id}
+            }
+            _require_evidence_ref(refs.get(alias_check_id), "alias review")
+            _require_evidence_ref(refs.get(dedup_check_id), "deduplication review")
+            if refs[alias_check_id] == refs[dedup_check_id]:
+                raise ValueError("Alias and deduplication closure evidence must be independent")
+
+
 def validate_queue(queue: dict[str, Any]) -> None:
     required = {
         "$schema",
@@ -326,6 +440,7 @@ def validate_queue(queue: dict[str, Any]) -> None:
         "scope",
         "summary",
         "items",
+        "closure_checklist",
     }
     missing = required - set(queue)
     if missing:
@@ -341,19 +456,50 @@ def validate_queue(queue: dict[str, Any]) -> None:
         raise ValueError("Queue category summary failed")
     if queue["summary"]["item_count"] != len(queue["items"]):
         raise ValueError("Queue item count failed")
-    if queue["summary"]["open_item_count"] != len(queue["items"]):
-        raise ValueError("Queue contains a non-open item")
+    statuses = Counter(item.get("status") for item in queue["items"])
+    if dict(statuses) != queue["summary"]["by_status"]:
+        raise ValueError("Queue status summary failed")
+    if queue["summary"]["open_item_count"] != statuses.get("open", 0):
+        raise ValueError("Queue open item count failed")
+    if len(queue["closure_checklist"]) != len(queue["items"]):
+        raise ValueError("Closure checklist count failed")
     if _walk_keys(queue) & PROTECTED_KEYS:
         raise ValueError("Queue contains protected payload keys")
     seen: set[str] = set()
+    checklist_by_item = {entry.get("item_id"): entry for entry in queue["closure_checklist"]}
     for item in queue["items"]:
         if item["item_id"] in seen:
             raise ValueError(f"Duplicate item_id: {item['item_id']}")
         seen.add(item["item_id"])
-        if item["category"] not in CATEGORY_ORDER or item["status"] != "open":
+        if item["category"] not in CATEGORY_ORDER or item["status"] not in QUEUE_STATUSES:
             raise ValueError("Invalid item category or status")
         if not item["closure_criteria"] or not item["constraints"]:
             raise ValueError("Item closure contract is incomplete")
+        if item["status"] == "open":
+            if item.get("evidence_ref") is not None:
+                raise ValueError("Open items cannot carry closure evidence_ref")
+        else:
+            _require_evidence_ref(item.get("evidence_ref"), f"item {item['item_id']}")
+        checklist = checklist_by_item.get(item["item_id"])
+        if checklist is None or checklist.get("status") not in CHECKLIST_STATUSES:
+            raise ValueError("Item closure checklist is missing or invalid")
+        checks = checklist.get("checks") or []
+        if len(checks) != len(item["closure_criteria"]):
+            raise ValueError("Checklist does not cover every closure criterion")
+        for check in checks:
+            if check.get("status") not in CHECKLIST_STATUSES:
+                raise ValueError("Invalid checklist status")
+            if check.get("status") == "pending" and check.get("evidence_ref") is not None:
+                raise ValueError("Pending checklist checks cannot carry evidence")
+            if check.get("status") == "complete":
+                _require_evidence_ref(check.get("evidence_ref"), "complete checklist check")
+        if item["status"] == "open" and checklist["status"] != "pending":
+            raise ValueError("Open item checklist must remain pending")
+        if item["status"] == "resolved" and checklist["status"] != "complete":
+            raise ValueError("Resolved item checklist must be complete")
+    if set(checklist_by_item) != seen:
+        raise ValueError("Closure checklist item ids do not match queue items")
+    validate_alias_deduplication_independence(queue)
 
 
 def write_queue(root: Path) -> Path:

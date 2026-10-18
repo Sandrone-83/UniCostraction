@@ -13,7 +13,8 @@
     "source_audit",
     "scope",
     "summary",
-    "items"
+    "items",
+    "closure_checklist"
   ],
   "properties": {
     "$schema": {"const": "./UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json"},
@@ -55,6 +56,10 @@
     "items": {
       "type": "array",
       "items": {"$ref": "#/$defs/remediationItem"}
+    },
+    "closure_checklist": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/closureChecklist"}
     }
   },
   "$defs": {
@@ -65,6 +70,7 @@
         "item_id",
         "category",
         "status",
+        "evidence_ref",
         "source_ref",
         "source_audit",
         "observed_gap",
@@ -84,7 +90,8 @@
             "alias_not_deduplicated"
           ]
         },
-        "status": {"const": "open"},
+        "status": {"enum": ["open", "resolved"]},
+        "evidence_ref": {"type": ["string", "null"]},
         "source_ref": {"type": "string", "minLength": 1},
         "source_audit": {
           "type": "object",
@@ -100,8 +107,110 @@
         "observed_gap": {"type": "object"},
         "closure_evidence": {"type": "array", "items": {"type": "string"}},
         "closure_criteria": {"type": "array", "minItems": 1, "items": {"type": "string"}},
-        "constraints": {"type": "array", "minItems": 1, "items": {"type": "string"}}
+        "constraints": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "independence": {
+          "type": "object",
+          "required": ["alias_check_id", "deduplication_check_id", "must_be_distinct"],
+          "properties": {
+            "alias_check_id": {"type": "string", "minLength": 1},
+            "deduplication_check_id": {"type": "string", "minLength": 1},
+            "must_be_distinct": {"const": true}
+          },
+          "additionalProperties": false
+        }
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"status": {"const": "resolved"}}},
+          "then": {
+            "properties": {
+              "evidence_ref": {"type": "string", "minLength": 1}
+            }
+          }
+        },
+        {
+          "if": {"properties": {"status": {"const": "open"}}},
+          "then": {
+            "properties": {
+              "evidence_ref": {"type": "null"}
+            }
+          }
+        },
+        {
+          "if": {"properties": {"category": {"const": "alias_not_deduplicated"}}},
+          "then": {"required": ["alias_group", "independence"]}
+        }
+      ]
+    },
+    "closureChecklist": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["item_id", "status", "checks"],
+      "properties": {
+        "item_id": {"type": "string", "minLength": 1},
+        "status": {"enum": ["pending", "complete"]},
+        "checks": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/closureCheck"}
+        },
+        "independence": {
+          "type": "object",
+          "required": ["alias_check_id", "deduplication_check_id", "must_be_distinct"],
+          "properties": {
+            "alias_check_id": {"type": "string", "minLength": 1},
+            "deduplication_check_id": {"type": "string", "minLength": 1},
+            "must_be_distinct": {"const": true}
+          },
+          "additionalProperties": false
+        }
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"status": {"const": "complete"}}},
+          "then": {
+            "properties": {
+              "checks": {
+                "items": {"$ref": "#/$defs/completeClosureCheck"}
+              }
+            }
+          }
+        },
+        {
+          "if": {"properties": {"status": {"const": "pending"}}},
+          "then": {
+            "properties": {
+              "checks": {
+                "items": {"$ref": "#/$defs/pendingClosureCheck"}
+              }
+            }
+          }
+        }
+      ]
+    },
+    "closureCheck": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["check_id", "check_type", "criterion", "status", "evidence_ref"],
+      "properties": {
+        "check_id": {"type": "string", "minLength": 1},
+        "check_type": {"enum": ["criterion", "alias_review", "deduplication_review"]},
+        "criterion": {"type": "string", "minLength": 1},
+        "status": {"enum": ["pending", "complete"]},
+        "evidence_ref": {"type": ["string", "null"]}
       }
+    },
+    "pendingClosureCheck": {
+      "allOf": [
+        {"$ref": "#/$defs/closureCheck"},
+        {"properties": {"status": {"const": "pending"}, "evidence_ref": {"type": "null"}}}
+      ]
+    },
+    "completeClosureCheck": {
+      "allOf": [
+        {"$ref": "#/$defs/closureCheck"},
+        {"properties": {"status": {"const": "complete"}, "evidence_ref": {"type": "string", "minLength": 1}}}
+      ]
     }
   }
 }
