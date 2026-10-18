@@ -1,0 +1,28 @@
+{
+  "evidence_license_matrix_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "The matrix records evidence and license review pointers only.",
+      "A pointer does not prove that evidence is current, authoritative, complete, or commercially usable.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "evidence_license_matrix": [
+    {
+      "record_id": "placeholder-record",
+      "state": "pending",
+      "evidence_ref": "placeholder",
+      "license_ref": "placeholder"
+    }
+  ]
+}

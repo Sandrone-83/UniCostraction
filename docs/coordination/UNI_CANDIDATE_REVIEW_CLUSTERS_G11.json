@@ -1,0 +1,30 @@
+{
+  "candidate_review_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "Metadata-only cluster inventory; it does not assess candidate content or correctness.",
+      "Cluster membership is a review pointer and not an exam result.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "candidate_review_clusters": [
+    {
+      "cluster_id": "placeholder-cluster",
+      "state": "pending",
+      "scope": "placeholder",
+      "item_refs": [
+        "placeholder"
+      ]
+    }
+  ]
+}

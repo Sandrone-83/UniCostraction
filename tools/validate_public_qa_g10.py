@@ -1,10 +1,11 @@
-"""G10 structural gate for protected exams and provenance audits.
+"""G10/G11 structural gate for protected exams and provenance audits.
 
 The gate is deliberately negative and metadata-only.  It scans every tracked
-text file below ``UNIVERSITA_EDILIZIA/ESAMI`` plus the G9/G10 public audit
+text file below ``UNIVERSITA_EDILIZIA/ESAMI`` plus the G9/G10/G11 public audit
 artifacts, looking only for structured answer, grading, explanation, solution,
-or numeric question-to-value shapes.  It never reads or reconstructs an
-answer key.
+or numeric question-to-value shapes.  G11 integrated artifacts also require a
+metadata contract for limitations, states, and answer-key separation.  It
+never reads or reconstructs an answer key.
 """
 
 from __future__ import annotations
@@ -22,6 +23,15 @@ REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 PUBLIC_EXAMS_PREFIX = "UNIVERSITA_EDILIZIA/ESAMI/"
 COORDINATION_PREFIX = "docs/coordination/"
 PUBLIC_QA_ROOTS = ("docs/coordination", "reports")
+EXPECTED_PUBLIC_EXAM_PAYLOAD_COUNT = 73
+G11_ARTIFACT_PATHS = frozenset(
+    {
+        Path("docs/coordination/UNI_CANDIDATE_REVIEW_CLUSTERS_G11.json"),
+        Path("docs/coordination/UNI_PRIORITY_QUEUES_G11.json"),
+        Path("docs/coordination/UNI_EVIDENCE_LICENSE_MATRIX_G11.json"),
+        Path("docs/coordination/UNI_QA_INTEGRATED_G11.md"),
+    }
+)
 TEXT_SUFFIXES = frozenset(
     {".csv", ".json", ".jsonl", ".md", ".rst", ".tsv", ".txt", ".yaml", ".yml"}
 )
@@ -29,6 +39,13 @@ JSON_SUFFIXES = frozenset({".json", ".jsonl"})
 ALLOWED_STATES = frozenset({"blocked", "pending", "open", "resolved"})
 CONTRACT_KEYS = frozenset(
     {"audit_contract", "ledger_contract", "publication_contract", "report_contract"}
+)
+G11_CONTRACT_KEYS = frozenset(
+    {
+        "candidate_review_contract",
+        "priority_queue_contract",
+        "evidence_license_matrix_contract",
+    }
 )
 
 # The names are field names only.  A natural-language occurrence such as
@@ -154,6 +171,19 @@ def public_exam_paths() -> tuple[Path, ...]:
     )
 
 
+@lru_cache(maxsize=1)
+def public_exam_payload_paths() -> tuple[Path, ...]:
+    """Return the explicit 73 public ``*/domande.md`` exam payloads."""
+
+    return tuple(
+        sorted(
+            Path(PUBLIC_EXAMS_PREFIX) / exam_dir.name / "domande.md"
+            for exam_dir in (REPOSITORY_ROOT / PUBLIC_EXAMS_PREFIX.rstrip("/")).iterdir()
+            if exam_dir.is_dir() and (exam_dir / "domande.md").is_file()
+        )
+    )
+
+
 def _is_g9_public_artifact(path: Path) -> bool:
     path_text = path.as_posix()
     if not path_text.startswith(tuple(f"{root}/" for root in PUBLIC_QA_ROOTS)):
@@ -177,17 +207,30 @@ def _is_g10_audit(path: Path) -> bool:
     )
 
 
+def _is_g11_integrated_artifact(path: Path) -> bool:
+    """Recognise only the checked-in G11 integrated QA artifact set."""
+
+    return path in G11_ARTIFACT_PATHS and path.suffix.casefold() in TEXT_SUFFIXES
+
+
 def public_artifact_paths() -> tuple[Path, ...]:
-    """Return all public exams and G9/G10 audit artifacts."""
+    """Return all public exams and G9/G10/G11 audit artifacts."""
 
     exam_paths = set(public_exam_paths())
-    return tuple(
-        sorted(
-            path
-            for path in _tracked_paths()
-            if path in exam_paths or _is_g9_public_artifact(path) or _is_g10_audit(path)
+    existing_g11_paths = {
+        path for path in G11_ARTIFACT_PATHS if (REPOSITORY_ROOT / path).is_file()
+    }
+    paths = {
+        path
+        for path in _tracked_paths()
+        if (
+            path in exam_paths
+            or _is_g9_public_artifact(path)
+            or _is_g10_audit(path)
+            or _is_g11_integrated_artifact(path)
         )
-    )
+    }
+    return tuple(sorted(paths | existing_g11_paths))
 
 
 def _normalise_field_name(name: str) -> str:
@@ -266,7 +309,11 @@ def _contract_issues(payload: Any) -> list[str]:
     if not isinstance(payload, dict):
         return ["$: public audit artifact must be a JSON object"]
     found = next(
-        ((key, value) for key, value in payload.items() if key in CONTRACT_KEYS and isinstance(value, dict)),
+        (
+            (key, value)
+            for key, value in payload.items()
+            if key in CONTRACT_KEYS | G11_CONTRACT_KEYS and isinstance(value, dict)
+        ),
         None,
     )
     if found is None:
@@ -289,6 +336,23 @@ def _contract_issues(payload: Any) -> list[str]:
     state = contract.get("state")
     if state is not None and state not in allowed_set:
         issues.append(f"$.{contract_name}.state: state is not declared in allowed_states")
+    if contract_name in G11_CONTRACT_KEYS:
+        if state is None:
+            issues.append(f"$.{contract_name}.state: required for G11 integrated artifacts")
+        separation = contract.get("answer_key_separation")
+        if not isinstance(separation, dict):
+            issues.append(
+                f"$.{contract_name}.answer_key_separation: metadata object required"
+            )
+        else:
+            if separation.get("status") != "separate":
+                issues.append(
+                    f"$.{contract_name}.answer_key_separation.status: must be separate"
+                )
+            if separation.get("public") is not False:
+                issues.append(
+                    f"$.{contract_name}.answer_key_separation.public: must be false"
+                )
     return issues
 
 
@@ -313,14 +377,40 @@ def issues_for_file(path: Path) -> list[str]:
     return issues
 
 
+def integrated_g11_contract_issues(path: Path) -> list[str]:
+    """Apply the G11 contract to one known integrated JSON artifact."""
+
+    if path not in G11_ARTIFACT_PATHS or path.suffix.casefold() != ".json":
+        return []
+    try:
+        payload = next(iter(_json_values(REPOSITORY_ROOT / path)))
+    except (FileNotFoundError, json.JSONDecodeError) as error:
+        return [f"{path.as_posix()}: invalid G11 JSON artifact ({error})"]
+    return _contract_issues(payload)
+
+
 def validate_public_artifacts(root: Path = REPOSITORY_ROOT) -> list[str]:
     if root != REPOSITORY_ROOT:
         raise ValueError("the G10 checker is bound to its repository root")
-    return [
+    findings = [
         f"{path.as_posix()}: {issue}"
         for path in public_artifact_paths()
         for issue in issues_for_file(REPOSITORY_ROOT / path)
     ]
+    payload_paths = public_exam_payload_paths()
+    if len(payload_paths) != EXPECTED_PUBLIC_EXAM_PAYLOAD_COUNT:
+        findings.append(
+            "UNIVERSITA_EDILIZIA/ESAMI: expected "
+            f"{EXPECTED_PUBLIC_EXAM_PAYLOAD_COUNT} explicit domande.md payloads, "
+            f"found {len(payload_paths)}"
+        )
+    findings.extend(
+        f"{path.as_posix()}: {issue}"
+        for path in payload_paths
+        for issue in issues_for_file(REPOSITORY_ROOT / path)
+        if path not in public_artifact_paths()
+    )
+    return findings
 
 
 def main() -> int:
@@ -338,7 +428,9 @@ def main() -> int:
     if findings:
         print("\n".join(findings))
         return 1
-    print(f"valid: {len(args.paths) or len(public_artifact_paths())} public G10 artifacts")
+    print(
+        f"valid: {len(args.paths) or len(public_artifact_paths())} public G10/G11 artifacts"
+    )
     return 0
 
 

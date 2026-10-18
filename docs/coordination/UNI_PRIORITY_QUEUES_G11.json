@@ -1,0 +1,30 @@
+{
+  "priority_queue_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "Metadata-only queue inventory; priority is a review workflow signal, not a grade.",
+      "Queue order does not encode a question-to-value mapping or a correctness judgment.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "priority_queues": [
+    {
+      "queue_id": "placeholder-queue",
+      "state": "open",
+      "items": [
+        "placeholder"
+      ],
+      "ordering_basis": "placeholder"
+    }
+  ]
+}

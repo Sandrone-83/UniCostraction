@@ -6,7 +6,7 @@ Worktree autorizzato: `C:\Users\Alessandro\Documents\Codex\2026-10-17\unicostruc
 
 Branch: `codex/uni-qa-provenance`
 
-Base: `fe0423c84c20dca27754a0609c4aaffa4012f3fb` (G9)
+Base: `6fbf5ae773affd03c74cf52d29d20908b91e32fc` (G10)
 
 ## Perimetro
 
@@ -17,6 +17,11 @@ strutturale tutti i 76 file pubblici tracciati sotto
 comprende quindi anche `README.md`, `PROTOCOLLO_VALUTAZIONE.md` e
 `AUDIT_CONTENT_LOCKED.md`, oltre ai due audit metadata-only G10 di
 anti-ridondanza e provenienza.
+
+Lo stesso guard riconosce anche gli artefatti integrati G11-C in
+`docs/coordination/`: candidate-review clusters, priority queues e matrice
+evidence/licenza. Per ciascuno richiede un contratto con limiti, stati ammessi
+e separazione della chiave protetta.
 
 Il guard cerca soltanto forme strutturate per answer key, correct option,
 explanation, solution, score, response, grade e varianti italiane, oltre a
