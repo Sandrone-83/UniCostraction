@@ -57,6 +57,15 @@ PUBLISHED_ENVELOPE_REQUIRED_FIELDS = frozenset(
 )
 PUBLISHED_ENVELOPE_ALLOWED_FIELDS = PUBLISHED_ENVELOPE_REQUIRED_FIELDS
 PUBLISHED_SCHEMA_VERSION = "g19-skill-library-evals-1"
+PUBLISHED_MANIFEST_FIELDS = frozenset(
+    {"library", "version", "generated_at", "skills", "rights_policy"}
+)
+PUBLISHED_MANIFEST_ENTRY_FIELDS = frozenset(
+    {"id", "path", "title", "domain", "scope", "source_refs", "rights_state"}
+)
+PUBLISHED_SOURCE_REF_FIELDS = frozenset({"url", "authority", "purpose", "rights_state"})
+MANIFEST_DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+MANIFEST_SKILL_PATH_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*/SKILL\.md$")
 RIGHTS_AND_SAFETY_FIELDS = frozenset(
     {
         "content_origin",
@@ -137,6 +146,78 @@ def _non_empty_string_mapping(value: Any) -> bool:
         and bool(value)
         and all(_is_non_empty_string(key) and _is_non_empty_string(item) for key, item in value.items())
     )
+
+
+def _published_manifest_issues(manifest: Any, location: str) -> list[str]:
+    """Validate the published manifest envelope when its metadata is present."""
+
+    if not isinstance(manifest, dict):
+        return []
+    metadata_fields = PUBLISHED_MANIFEST_FIELDS - {"skills"}
+    if not any(field in manifest for field in metadata_fields):
+        return []
+
+    issues: list[str] = []
+    missing = sorted(PUBLISHED_MANIFEST_FIELDS - set(manifest))
+    issues.extend(f"{location}: missing required field {field}" for field in missing)
+    unknown = sorted(set(manifest) - PUBLISHED_MANIFEST_FIELDS)
+    issues.extend(f"{location}: unknown field {field}" for field in unknown)
+
+    for field in ("library", "version", "rights_policy"):
+        if field in manifest and not _is_non_empty_string(manifest[field]):
+            issues.append(f"{location}.{field}: non-empty string required")
+    generated_at = manifest.get("generated_at")
+    if not _is_non_empty_string(generated_at) or not MANIFEST_DATE_PATTERN.fullmatch(generated_at):
+        if "generated_at" in manifest:
+            issues.append(f"{location}.generated_at: YYYY-MM-DD date required")
+
+    skills = manifest.get("skills")
+    if not isinstance(skills, list) or not skills:
+        if "skills" in manifest:
+            issues.append(f"{location}.skills: non-empty list required")
+        return issues
+
+    for index, entry in enumerate(skills):
+        entry_location = f"{location}.skills[{index}]"
+        if not isinstance(entry, dict):
+            issues.append(f"{entry_location}: manifest entry must be an object")
+            continue
+        missing_entry = sorted(PUBLISHED_MANIFEST_ENTRY_FIELDS - set(entry))
+        issues.extend(f"{entry_location}: missing required field {field}" for field in missing_entry)
+        unknown_entry = sorted(set(entry) - PUBLISHED_MANIFEST_ENTRY_FIELDS)
+        issues.extend(f"{entry_location}: unknown field {field}" for field in unknown_entry)
+        for field in ("id", "path", "title", "domain", "scope", "rights_state"):
+            if field in entry and not _is_non_empty_string(entry[field]):
+                issues.append(f"{entry_location}.{field}: non-empty string required")
+        skill_id = entry.get("id")
+        if "id" in entry and not _is_slug(skill_id):
+            issues.append(f"{entry_location}.id: lowercase hyphenated skill ID required")
+        skill_path = entry.get("path")
+        if "path" in entry and (
+            not isinstance(skill_path, str)
+            or not MANIFEST_SKILL_PATH_PATTERN.fullmatch(skill_path)
+            or (isinstance(skill_id, str) and skill_path != f"{skill_id}/SKILL.md")
+        ):
+            issues.append(f"{entry_location}.path: normalized <skill-id>/SKILL.md path required")
+
+        source_refs = entry.get("source_refs")
+        if not isinstance(source_refs, list) or not source_refs:
+            if "source_refs" in entry:
+                issues.append(f"{entry_location}.source_refs: non-empty list required")
+            continue
+        for source_index, source in enumerate(source_refs):
+            source_location = f"{entry_location}.source_refs[{source_index}]"
+            if not isinstance(source, dict):
+                issues.append(f"{source_location}: source reference must be an object")
+                continue
+            missing_source = sorted(PUBLISHED_SOURCE_REF_FIELDS - set(source))
+            issues.extend(f"{source_location}: missing required field {field}" for field in missing_source)
+            unknown_source = sorted(set(source) - PUBLISHED_SOURCE_REF_FIELDS)
+            issues.extend(f"{source_location}: unknown field {field}" for field in unknown_source)
+            for field in PUBLISHED_SOURCE_REF_FIELDS:
+                if field in source and not _is_non_empty_string(source[field]):
+                    issues.append(f"{source_location}.{field}: non-empty string required")
+    return issues
 
 
 def _manifest_skill_ids(manifest: Any) -> tuple[set[str], list[str]]:
@@ -312,6 +393,8 @@ def validate_evals(manifest: Any, evaluations: Any) -> list[str]:
     """Validate in-memory manifest/evaluation data and return sorted findings."""
 
     manifest_ids, findings = _manifest_skill_ids(manifest)
+    findings.extend(_published_manifest_issues(manifest, "manifest.json"))
+    findings.extend(_answer_key_findings(manifest, "manifest.json"))
     cases, published_envelope = _evaluation_cases(evaluations)
     if published_envelope and isinstance(evaluations, dict):
         findings.extend(_published_envelope_issues(evaluations, manifest, "evals/evals.json"))

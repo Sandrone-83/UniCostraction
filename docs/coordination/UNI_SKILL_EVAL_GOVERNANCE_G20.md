@@ -87,6 +87,24 @@ test in memoria: quel formato usa `boundary`, `evidence`, `rubric`,
 `negative_case` e `negative_case_markers`. Il formato pubblicato envelope non
 può mischiare questi campi legacy.
 
+## Manifest pubblicato e delta G22
+
+Quando il manifest espone i metadati pubblicati `library`, `version`,
+`generated_at` e `rights_policy`, G20 applica il contratto manifest strict:
+questi sono gli unici campi top-level ammessi e devono essere non vuoti;
+`generated_at` usa `YYYY-MM-DD`; `skills` è una lista non vuota.
+
+Ogni entry pubblicata richiede esattamente `id`, `path`, `title`, `domain`,
+`scope`, `source_refs` e `rights_state`. Il path deve essere
+`<skill-id>/SKILL.md`. Ogni `source_refs` è una lista non vuota di oggetti con
+`url`, `authority`, `purpose` e `rights_state`, tutti non vuoti. Questi controlli
+rendono esplicita la provenienza dichiarata e il limite d'uso; non verificano la
+raggiungibilità, l'autorevolezza o la licenza effettiva delle fonti.
+
+La fixture G22 usa lo stesso envelope eval pubblicato, con milestone `G22` e
+copertura one-to-one per il lotto aggiunto. Il corpus e l'inventory restano
+fuori dal perimetro di questo worktree QA.
+
 ## Copertura, negative case e answer key
 
 Ogni skill dichiarata nel manifest deve avere esattamente un case e ogni case
