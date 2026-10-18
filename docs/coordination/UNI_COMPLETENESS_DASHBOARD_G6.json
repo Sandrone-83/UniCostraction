@@ -1,0 +1,1391 @@
+{
+  "schema_version": "g6a.v1",
+  "tool": "tools/uni_completeness_dashboard_g6.py",
+  "scope": {
+    "university_pack_selector": "UNIVERSITA_EDILIZIA/*_PACK",
+    "schede_selector": "UNIVERSITA_EDILIZIA/*_PACK/schede/schede.jsonl",
+    "exam_source": "G4 pack/exam map built from the selected checkout filesystem",
+    "review_source": "G5 review queue built from the selected checkout filesystem",
+    "content_modified": false
+  },
+  "sources": {
+    "mapping": {
+      "path": "docs/coordination/UNI_PACK_EXAM_MAP_G4.json",
+      "schema_version": "g4.v1"
+    },
+    "review": {
+      "path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "schema_version": "g5.v1"
+    }
+  },
+  "observed": {
+    "packs": 71,
+    "schede": {
+      "jsonl_rows": 963,
+      "declared_total": 963,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0
+    },
+    "exams": 73,
+    "exam_pack_pairs": 73
+  },
+  "pack_card_completeness": {
+    "packs_with_course_manifest": 71,
+    "packs_with_schede_jsonl": 71,
+    "packs_with_matching_declared_observed_schede": 71,
+    "status_counts": {
+      "complete_observed": 71,
+      "source_missing": 0,
+      "jsonl_invalid": 0,
+      "declared_count_missing": 0,
+      "declared_observed_mismatch": 0
+    }
+  },
+  "mapping": {
+    "observed_pair_count": 73,
+    "pair_relation_counts": {
+      "exact_name": 14,
+      "alias_observed": 59
+    },
+    "pack_classification_counts": {
+      "exact_name": 13,
+      "alias_observed": 56,
+      "unmatched_pack": 0,
+      "unmatched_exam": 0,
+      "ambiguous": 2
+    },
+    "exam_classification_counts": {
+      "exact_name": 14,
+      "alias_observed": 55,
+      "unmatched_pack": 0,
+      "unmatched_exam": 2,
+      "ambiguous": 2
+    },
+    "alias_observed": {
+      "pair_count": 59,
+      "pack_count": 56,
+      "exam_count": 55
+    }
+  },
+  "unmatched": {
+    "pack_count": 0,
+    "exam_count": 2,
+    "total_items": 2
+  },
+  "pending_human_review": {
+    "queue_item_count": 6,
+    "status_counts": {
+      "pending": 6,
+      "decided": 0
+    },
+    "pending_count": 6,
+    "item_type_counts": {
+      "pack": 2,
+      "exam": 4
+    },
+    "uncertainty_counts": {
+      "ambiguous_observed_candidates": 4,
+      "unmatched_legacy_domain": 2
+    }
+  },
+  "pack_card_observations": [
+    {
+      "pack_id": "ACUSTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "ARCHITETTURA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 15,
+      "observed_rows": 15,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "CAD_BIM_PROGETTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 25,
+      "observed_rows": 25,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "CAPPOTTO_ETICS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "CONTABILITA_APPALTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "COSTRUIRE_IN_LEGNO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "COSTRUZIONI_SPECIALI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DESIGN_GUSTO_TENDENZE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 16,
+      "observed_rows": 16,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DISEGNO_TECNICO_MANUALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 14,
+      "observed_rows": 14,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "DOMOTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 29,
+      "observed_rows": 29,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "EDILIZIA_CIRCOLARE_LCA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "ENERGETICA_INCENTIVI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 18,
+      "observed_rows": 18,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "FERROVIE_E_STAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "FORMULARIO_FISICA_IMPIANTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "FORMULARIO_STRUTTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 15,
+      "observed_rows": 15,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 15,
+      "observed_rows": 15,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 15,
+      "observed_rows": 15,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "GEOTECNICA_E_FONDAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 15,
+      "observed_rows": 15,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "GESTIONE_CONDOMINIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "ILLUMINAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "IMPIANTI_COMPLETA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 34,
+      "observed_rows": 34,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "INGEGNERIA_CIVILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 16,
+      "observed_rows": 16,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 18,
+      "observed_rows": 18,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 15,
+      "observed_rows": 15,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MASTER_DESIGN_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 16,
+      "observed_rows": 16,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MASTER_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MATEMATICA_PER_COSTRUIRE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 18,
+      "observed_rows": 18,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MATERIALI_DEL_FUTURO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "OSPEDALI_E_HEALTHCARE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "PISCINE_E_WELLNESS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "PORTI_E_OPERE_MARITTIME_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "POSA_IN_OPERA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 22,
+      "observed_rows": 22,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 11,
+      "observed_rows": 11,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "REAL_ESTATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 12,
+      "observed_rows": 12,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "ROBOTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 27,
+      "observed_rows": 27,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "SERRAMENTI_E_VETRATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 16,
+      "observed_rows": 16,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "TETTI_E_COPERTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 13,
+      "observed_rows": 13,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "URBANISTICA_TERRITORIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    },
+    {
+      "pack_id": "VERDE_ARREDO_URBANO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK",
+      "manifest_path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/COURSE.yaml",
+      "cards_path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/schede/schede.jsonl",
+      "manifest_exists": true,
+      "cards_exists": true,
+      "declared_schede": 10,
+      "observed_rows": 10,
+      "malformed_json_rows": 0,
+      "non_object_json_rows": 0,
+      "status": "complete_observed"
+    }
+  ],
+  "observed_exam_pack_pairs": [
+    {
+      "pack_id": "ACUSTICA_EDILIZIA_PACK",
+      "exam_id": "ACUSTICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "exam_id": "AEROPORTI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "exam_id": "INFRASTRUTTURE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "ARCHITETTURA_PACK",
+      "exam_id": "ARCHITETTURA",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "exam_id": "ASCENSORI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "exam_id": "BONIFICA_SITI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "CAD_BIM_PROGETTAZIONE_PACK",
+      "exam_id": "CAD_BIM",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "exam_id": "CAPOLAVORI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "CAPPOTTO_ETICS_PACK",
+      "exam_id": "CAPPOTTO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "exam_id": "CARPENTERIA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "CONTABILITA_APPALTI_PACK",
+      "exam_id": "CONTABILITA_APPALTI",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "COSTRUIRE_IN_LEGNO_PACK",
+      "exam_id": "COSTRUZIONI_LEGNO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "COSTRUZIONI_SPECIALI_PACK",
+      "exam_id": "COSTRUZIONI_SPECIALI",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "exam_id": "DATA_CENTER",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "DESIGN_GUSTO_TENDENZE_PACK",
+      "exam_id": "DESIGN_GUSTO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "exam_id": "DIGHE_IDRAULICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "exam_id": "DIMENSIONAMENTO_FV_EOLICO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "exam_id": "DIMENSIONAMENTO_TERMOTECNICO",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "DISEGNO_TECNICO_MANUALE_PACK",
+      "exam_id": "DISEGNO_TECNICO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "DOMOTICA_PACK",
+      "exam_id": "DOMOTICA",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "exam_id": "EDILIZIA_AGRICOLA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "EDILIZIA_CIRCOLARE_LCA_PACK",
+      "exam_id": "EDILIZIA_CIRCOLARE_LCA",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "exam_id": "EDILIZIA_INDUSTRIALE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "exam_id": "EDILIZIA_SCOLASTICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "exam_id": "EMERGENZE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "ENERGETICA_INCENTIVI_PACK",
+      "exam_id": "ENERGETICA_INCENTIVI",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "exam_id": "FACILITY_MANAGEMENT",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "FERROVIE_E_STAZIONI_PACK",
+      "exam_id": "FERROVIE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "exam_id": "FISCO_IMPRESA_EDILE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "FORMULARIO_FISICA_IMPIANTI_PACK",
+      "exam_id": "FORMULARIO_FISICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "FORMULARIO_STRUTTURE_PACK",
+      "exam_id": "FORMULARIO_STRUTTURE",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "FORMULARIO_STRUTTURE_PACK",
+      "exam_id": "STRUTTURE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "exam_id": "FOTOVOLTAICO_CER",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "exam_id": "GEOMETRA_ESTIMO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "GEOTECNICA_E_FONDAZIONI_PACK",
+      "exam_id": "GEOTECNICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "GESTIONE_CONDOMINIO_PACK",
+      "exam_id": "GESTIONE_CONDOMINIO",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "exam_id": "HOTEL",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "ILLUMINAZIONE_TECNICA_PACK",
+      "exam_id": "ILLUMINAZIONE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "IMPIANTI_COMPLETA_PACK",
+      "exam_id": "IMPIANTI_COMPLETA",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "exam_id": "IMPIANTI_SPORTIVI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+      "exam_id": "INFRASTRUTTURE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "INGEGNERIA_CIVILE_PACK",
+      "exam_id": "INGEGNERIA_CIVILE",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+      "exam_id": "STRUTTURE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "exam_id": "INTERIOR_TECNICO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "exam_id": "LEGISLAZIONE_EDILIZIA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "exam_id": "MACCHINE_TERMICHE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MASTER_DESIGN_PACK",
+      "exam_id": "MASTER_DESIGN",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "MASTER_IMPRESA_EDILE_PACK",
+      "exam_id": "MASTER_IMPRESA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MATEMATICA_PER_COSTRUIRE_PACK",
+      "exam_id": "MATEMATICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "exam_id": "MATERIALI_COMPONENTI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MATERIALI_DEL_FUTURO_PACK",
+      "exam_id": "MATERIALI_FUTURO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "exam_id": "METODI_COSTRUTTIVI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "exam_id": "SOLLEVAMENTO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "exam_id": "MURATURE_INTONACI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "OSPEDALI_E_HEALTHCARE_PACK",
+      "exam_id": "OSPEDALI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "exam_id": "PATOLOGIE_DIAGNOSTICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "exam_id": "PERIZIE_STIME",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "exam_id": "PIETRE_NATURALI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "PISCINE_E_WELLNESS_PACK",
+      "exam_id": "PISCINE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "PORTI_E_OPERE_MARITTIME_PACK",
+      "exam_id": "PORTI_MARITTIMI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "POSA_IN_OPERA_PACK",
+      "exam_id": "POSA_IN_OPERA",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "exam_id": "PREFABBRICAZIONE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "REAL_ESTATE_PACK",
+      "exam_id": "REAL_ESTATE",
+      "relation": "exact_name"
+    },
+    {
+      "pack_id": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "exam_id": "RESTAURO_CONSERVAZIONE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "exam_id": "RINNOVABILI_IDRO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "exam_id": "RISANAMENTO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "ROBOTICA_EDILIZIA_PACK",
+      "exam_id": "ROBOTICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "SERRAMENTI_E_VETRATE_PACK",
+      "exam_id": "SERRAMENTI",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "exam_id": "SICUREZZA_ANTINCENDIO",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "exam_id": "SICUREZZA_CANTIERE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "TETTI_E_COPERTURE_PACK",
+      "exam_id": "TETTI_COPERTURE",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "URBANISTICA_TERRITORIO_PACK",
+      "exam_id": "URBANISTICA",
+      "relation": "alias_observed"
+    },
+    {
+      "pack_id": "VERDE_ARREDO_URBANO_PACK",
+      "exam_id": "VERDE_URBANO",
+      "relation": "alias_observed"
+    }
+  ],
+  "boundaries": [
+    "Observed counts describe filesystem rows and records only; they do not certify educational or normative correctness.",
+    "alias_observed is a bounded name/documentation signal, not proof of semantic coverage or equivalence.",
+    "unmatched remains unmatched until explicit evidence is reviewed; no fallback association is created.",
+    "pending_human_review remains pending and is not counted as decided or completed.",
+    "Declared schede totals and observed JSONL rows are reported separately; a match is structural evidence only.",
+    "No questions, answers, schede content, source files, or review decisions are edited by this tool."
+  ]
+}
