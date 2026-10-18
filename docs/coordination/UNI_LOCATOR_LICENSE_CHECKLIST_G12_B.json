@@ -1,0 +1,158 @@
+{
+  "$schema": "./UNI_LOCATOR_LICENSE_CHECKLIST_G12_B_SCHEMA.json",
+  "schema_version": "G12-B-locator-license-checklist",
+  "checklist_id": "G12-B-locator-license",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "source_commit": "5609b4eb965e4b45d4520a563f2403b1f9fce980",
+  "scope": {
+    "input_manifests": [
+      "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json"
+    ],
+    "record_scope": "Ogni elemento source_records dei manifest G5 e G10 presenti nel checkout G11.",
+    "excluded_payloads": [
+      "testo XML/HTML/PDF e altri payload delle fonti",
+      "schede, domande, risposte e soluzioni d'esame",
+      "qualsiasi trasformazione o modifica dei file sorgente"
+    ],
+    "live_verification_policy": "Registrare solo esiti live effettivamente osservati; se il controllo non è disponibile, conservare blocked o observed_local.",
+    "promotion_policy": "Nessun campo claim_ready può diventare true; contesto ufficiale e raggiungibilità non sono licenza né clearance legale."
+  },
+  "summary": {
+    "record_count": 2,
+    "claim_ready_count": 0,
+    "legal_clearance_required_count": 2,
+    "by_locator_reachable_state": {
+      "observed_live": 1,
+      "observed_local": 1,
+      "blocked": 0
+    },
+    "by_official_context_state": {
+      "observed_live": 1,
+      "observed_local": 1,
+      "blocked": 0
+    },
+    "by_license_source_specific_state": {
+      "observed_live": 0,
+      "observed_local": 1,
+      "blocked": 1
+    },
+    "blocker_count": 2
+  },
+  "records": [
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json#G10-B-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json",
+      "manifest_id": "G10-B-EU-EPBD-2024-1275",
+      "source_record_id": "G10-B-001",
+      "source_kind": "primary_official",
+      "title": "Direttiva (UE) 2024/1275 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sulla prestazione energetica nell'edilizia (rifusione)",
+      "locator_reachable_observed": {
+        "state": "observed_live",
+        "value": true,
+        "live_check": "passed",
+        "basis": "Il locator ELI ufficiale EUR-Lex è stato raggiunto e ha esposto il documento 32024L1275.",
+        "evidence_refs": [
+          "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita",
+          "https://eur-lex.europa.eu/content/help/data-reuse/reuse-contents-eurlex-details.html?locale=en",
+          "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011D0833"
+        ]
+      },
+      "official_context_observed": {
+        "state": "observed_live",
+        "value": true,
+        "live_check": "passed",
+        "basis": "La pagina ufficiale EUR-Lex di contesto riuso è stata raggiunta e osservata.",
+        "evidence_refs": [
+          "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita",
+          "https://eur-lex.europa.eu/content/help/data-reuse/reuse-contents-eurlex-details.html?locale=en",
+          "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011D0833"
+        ]
+      },
+      "license_source_specific": {
+        "state": "blocked",
+        "value": false,
+        "live_check": "passed",
+        "basis": "Il contesto live EUR-Lex richiama riuso gratuito soggetto a condizioni di copyright, ma non stabilisce una licenza source-specific per questo atto.",
+        "evidence_refs": [
+          "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita",
+          "https://eur-lex.europa.eu/content/help/data-reuse/reuse-contents-eurlex-details.html?locale=en",
+          "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011D0833"
+        ]
+      },
+      "legal_clearance_required": {
+        "required": true,
+        "state": "required",
+        "basis": "La catalogazione metadata-only non sostituisce la verifica dei diritti e della clearance per l'uso previsto."
+      },
+      "claim_ready": false,
+      "blocker": {
+        "state": "blocked",
+        "codes": [
+          "source_specific_license_not_established",
+          "official_context_is_not_source_license",
+          "independent_legal_clearance_required",
+          "claim_not_ready"
+        ],
+        "reason": "Il locator e il contesto ufficiale sono stati osservati live, ma il contesto di riuso non è una licenza source-specific; la clearance legale resta richiesta e il record non è claim-ready.",
+        "promotion_forbidden": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "source_record_id": "G5-001",
+      "source_kind": "primary_official",
+      "title": "29 CFR Part 1926 — Safety and Health Regulations for Construction",
+      "locator_reachable_observed": {
+        "state": "observed_local",
+        "value": true,
+        "live_check": "blocked",
+        "basis": "Il locator esatto è presente nel record e nei registri locali; il controllo live del contenuto dell'endpoint è rimasto bloccato dalla dimensione della risposta.",
+        "evidence_refs": [
+          "https://www.ecfr.gov/current/title-29/part-1926"
+        ]
+      },
+      "official_context_observed": {
+        "state": "observed_local",
+        "value": true,
+        "live_check": "blocked",
+        "basis": "Il contesto ufficiale è registrato localmente sul locator eCFR; non è stata ottenuta una osservazione live completa della pagina esatta.",
+        "evidence_refs": [
+          "https://www.ecfr.gov/current/title-29/part-1926"
+        ]
+      },
+      "license_source_specific": {
+        "state": "observed_local",
+        "value": true,
+        "live_check": "blocked",
+        "basis": "La dichiarazione public-domain è associata localmente al record OSHA-1926 tramite il registro; non è una clearance legale indipendente e i termini source-specific non sono stati controllati live.",
+        "evidence_refs": [
+          "https://www.ecfr.gov/current/title-29/part-1926",
+          "Edilizia_Pack/licenze_audit.json",
+          "Edilizia_Pack/manifest.json"
+        ]
+      },
+      "legal_clearance_required": {
+        "required": true,
+        "state": "required",
+        "basis": "La catalogazione metadata-only non sostituisce la verifica dei diritti e della clearance per l'uso previsto."
+      },
+      "claim_ready": false,
+      "blocker": {
+        "state": "blocked",
+        "codes": [
+          "exact_locator_live_check_blocked",
+          "official_context_live_check_blocked",
+          "source_specific_license_terms_live_not_checked",
+          "independent_legal_clearance_required",
+          "claim_not_ready"
+        ],
+        "reason": "Il locator e la dichiarazione di licenza sono osservati localmente; la verifica live dell'endpoint e la clearance legale indipendente non sono disponibili, quindi non è consentita alcuna promozione.",
+        "promotion_forbidden": true
+      }
+    }
+  ]
+}
