@@ -1,0 +1,492 @@
+{
+  "schema_version": "g9a.v1",
+  "tool": "tools/uni_human_evidence_packet_g9_a.py",
+  "scope": {
+    "source_of_truth": "selected checkout through G5 review, G8 ledger, and G7 readiness builders",
+    "didactic_content_reviewed": false,
+    "didactic_content_copied": false,
+    "semantic_association_inferred": false,
+    "content_modified": false,
+    "automatic_resolution": false
+  },
+  "source_reports": {
+    "g5_review": {
+      "path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+      "schema_version": "g5.v1"
+    },
+    "g8_ledger": {
+      "path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+      "markdown_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.md",
+      "schema_version": "g8a.v1"
+    },
+    "g7_readiness": {
+      "path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+      "markdown_path": "docs/coordination/UNI_RELEASE_READINESS_G7.md",
+      "schema_version": "g7a.v1",
+      "status": "blocked",
+      "release_ready": false,
+      "mismatch_count": 0
+    }
+  },
+  "coverage": {
+    "pending_g5": 6,
+    "legacy_unmatched_exams": 2,
+    "unique_item_count": 6,
+    "pending_queue_ids": [
+      "exam:IMPIANTI_FV_EOLICO",
+      "exam:INFRASTRUTTURE",
+      "exam:MATERIALEDILE",
+      "exam:STRUTTURE",
+      "pack:AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "pack:FORMULARIO_STRUTTURE_PACK"
+    ],
+    "legacy_unmatched_queue_ids": [
+      "exam:IMPIANTI_FV_EOLICO",
+      "exam:MATERIALEDILE"
+    ],
+    "legacy_is_subset_of_pending": true,
+    "duplicate_entries": false
+  },
+  "items": [
+    {
+      "identifier": {
+        "queue_id": "exam:IMPIANTI_FV_EOLICO",
+        "record_id": "exam:IMPIANTI_FV_EOLICO",
+        "item_type": "exam",
+        "item_id": "IMPIANTI_FV_EOLICO",
+        "classification": "unmatched_exam",
+        "uncertainty": "unmatched_legacy_domain",
+        "legacy_observed": true
+      },
+      "observed_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "block_reason": "The exam is explicitly legacy and has no observed pack candidate; the current metadata cannot establish an association.",
+      "evidence_to_collect": [
+        {
+          "evidence_id": "explicit_association_or_disposition",
+          "description": "A source or project-maintained record that either names one existing pack for this exam or explicitly records why it remains unmatched.",
+          "required": true
+        },
+        {
+          "evidence_id": "legacy_scope_provenance",
+          "description": "Metadata establishing the legacy record's origin, scope, and applicable version or time context.",
+          "required": true
+        },
+        {
+          "evidence_id": "review_audit",
+          "description": "Reviewer identity, date, cited evidence paths, and a note explaining the selected allowed outcome.",
+          "required": true
+        }
+      ],
+      "allowed_decisions": [
+        "associate_with_explicit_evidence",
+        "keep_unmatched",
+        "defer"
+      ],
+      "no_auto_resolution": {
+        "forbidden": true,
+        "required_actor": "human_reviewer",
+        "prohibited_basis": [
+          "name_only_overlap",
+          "bounded_root_overlap",
+          "directory_proximity",
+          "legacy_flag_alone",
+          "didactic_content_or_answer_inference"
+        ],
+        "required_condition": "An allowed decision needs explicit cited evidence and a reviewer note; otherwise the item remains open."
+      },
+      "linkage": {
+        "g5": {
+          "report_path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+          "queue_id": "exam:IMPIANTI_FV_EOLICO",
+          "review_status": "pending"
+        },
+        "g8": {
+          "report_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+          "record_id": "exam:IMPIANTI_FV_EOLICO",
+          "evidence_state": "human_review_required"
+        },
+        "g7": {
+          "report_path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+          "status": "blocked",
+          "relevant_check_ids": [
+            "cross_report.pending_count",
+            "review_safety.all_items_pending",
+            "review_safety.all_decisions_null",
+            "cross_report.legacy_unmatched_count",
+            "review_safety.legacy_items_have_no_candidates",
+            "review_safety.legacy_items_pending"
+          ]
+        }
+      }
+    },
+    {
+      "identifier": {
+        "queue_id": "exam:INFRASTRUTTURE",
+        "record_id": "exam:INFRASTRUTTURE",
+        "item_type": "exam",
+        "item_id": "INFRASTRUTTURE",
+        "classification": "ambiguous",
+        "uncertainty": "ambiguous_observed_candidates",
+        "legacy_observed": false
+      },
+      "observed_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "block_reason": "Observed naming or documentation signals leave multiple candidates; no canonical association has been established.",
+      "evidence_to_collect": [
+        {
+          "evidence_id": "explicit_candidate_association",
+          "description": "A source or project-maintained record that names exactly one candidate association for this pack or exam.",
+          "required": true
+        },
+        {
+          "evidence_id": "candidate_scope_disambiguation",
+          "description": "Evidence identifying the candidate's scope, version, or ownership and addressing the competing observed candidates.",
+          "required": true
+        },
+        {
+          "evidence_id": "review_audit",
+          "description": "Reviewer identity, date, cited evidence paths, and a note explaining the selected allowed outcome.",
+          "required": true
+        }
+      ],
+      "allowed_decisions": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "no_auto_resolution": {
+        "forbidden": true,
+        "required_actor": "human_reviewer",
+        "prohibited_basis": [
+          "name_only_overlap",
+          "bounded_root_overlap",
+          "directory_proximity",
+          "legacy_flag_alone",
+          "didactic_content_or_answer_inference"
+        ],
+        "required_condition": "An allowed decision needs explicit cited evidence and a reviewer note; otherwise the item remains open."
+      },
+      "linkage": {
+        "g5": {
+          "report_path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+          "queue_id": "exam:INFRASTRUTTURE",
+          "review_status": "pending"
+        },
+        "g8": {
+          "report_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+          "record_id": "exam:INFRASTRUTTURE",
+          "evidence_state": "human_review_required"
+        },
+        "g7": {
+          "report_path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+          "status": "blocked",
+          "relevant_check_ids": [
+            "cross_report.pending_count",
+            "review_safety.all_items_pending",
+            "review_safety.all_decisions_null"
+          ]
+        }
+      }
+    },
+    {
+      "identifier": {
+        "queue_id": "exam:MATERIALEDILE",
+        "record_id": "exam:MATERIALEDILE",
+        "item_type": "exam",
+        "item_id": "MATERIALEDILE",
+        "classification": "unmatched_exam",
+        "uncertainty": "unmatched_legacy_domain",
+        "legacy_observed": true
+      },
+      "observed_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "block_reason": "The exam is explicitly legacy and has no observed pack candidate; the current metadata cannot establish an association.",
+      "evidence_to_collect": [
+        {
+          "evidence_id": "explicit_association_or_disposition",
+          "description": "A source or project-maintained record that either names one existing pack for this exam or explicitly records why it remains unmatched.",
+          "required": true
+        },
+        {
+          "evidence_id": "legacy_scope_provenance",
+          "description": "Metadata establishing the legacy record's origin, scope, and applicable version or time context.",
+          "required": true
+        },
+        {
+          "evidence_id": "review_audit",
+          "description": "Reviewer identity, date, cited evidence paths, and a note explaining the selected allowed outcome.",
+          "required": true
+        }
+      ],
+      "allowed_decisions": [
+        "associate_with_explicit_evidence",
+        "keep_unmatched",
+        "defer"
+      ],
+      "no_auto_resolution": {
+        "forbidden": true,
+        "required_actor": "human_reviewer",
+        "prohibited_basis": [
+          "name_only_overlap",
+          "bounded_root_overlap",
+          "directory_proximity",
+          "legacy_flag_alone",
+          "didactic_content_or_answer_inference"
+        ],
+        "required_condition": "An allowed decision needs explicit cited evidence and a reviewer note; otherwise the item remains open."
+      },
+      "linkage": {
+        "g5": {
+          "report_path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+          "queue_id": "exam:MATERIALEDILE",
+          "review_status": "pending"
+        },
+        "g8": {
+          "report_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+          "record_id": "exam:MATERIALEDILE",
+          "evidence_state": "human_review_required"
+        },
+        "g7": {
+          "report_path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+          "status": "blocked",
+          "relevant_check_ids": [
+            "cross_report.pending_count",
+            "review_safety.all_items_pending",
+            "review_safety.all_decisions_null",
+            "cross_report.legacy_unmatched_count",
+            "review_safety.legacy_items_have_no_candidates",
+            "review_safety.legacy_items_pending"
+          ]
+        }
+      }
+    },
+    {
+      "identifier": {
+        "queue_id": "exam:STRUTTURE",
+        "record_id": "exam:STRUTTURE",
+        "item_type": "exam",
+        "item_id": "STRUTTURE",
+        "classification": "ambiguous",
+        "uncertainty": "ambiguous_observed_candidates",
+        "legacy_observed": false
+      },
+      "observed_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE/domande.md"
+      ],
+      "block_reason": "Observed naming or documentation signals leave multiple candidates; no canonical association has been established.",
+      "evidence_to_collect": [
+        {
+          "evidence_id": "explicit_candidate_association",
+          "description": "A source or project-maintained record that names exactly one candidate association for this pack or exam.",
+          "required": true
+        },
+        {
+          "evidence_id": "candidate_scope_disambiguation",
+          "description": "Evidence identifying the candidate's scope, version, or ownership and addressing the competing observed candidates.",
+          "required": true
+        },
+        {
+          "evidence_id": "review_audit",
+          "description": "Reviewer identity, date, cited evidence paths, and a note explaining the selected allowed outcome.",
+          "required": true
+        }
+      ],
+      "allowed_decisions": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "no_auto_resolution": {
+        "forbidden": true,
+        "required_actor": "human_reviewer",
+        "prohibited_basis": [
+          "name_only_overlap",
+          "bounded_root_overlap",
+          "directory_proximity",
+          "legacy_flag_alone",
+          "didactic_content_or_answer_inference"
+        ],
+        "required_condition": "An allowed decision needs explicit cited evidence and a reviewer note; otherwise the item remains open."
+      },
+      "linkage": {
+        "g5": {
+          "report_path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+          "queue_id": "exam:STRUTTURE",
+          "review_status": "pending"
+        },
+        "g8": {
+          "report_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+          "record_id": "exam:STRUTTURE",
+          "evidence_state": "human_review_required"
+        },
+        "g7": {
+          "report_path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+          "status": "blocked",
+          "relevant_check_ids": [
+            "cross_report.pending_count",
+            "review_safety.all_items_pending",
+            "review_safety.all_decisions_null"
+          ]
+        }
+      }
+    },
+    {
+      "identifier": {
+        "queue_id": "pack:AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+        "record_id": "pack:AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+        "item_type": "pack",
+        "item_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+        "classification": "ambiguous",
+        "uncertainty": "ambiguous_observed_candidates",
+        "legacy_observed": false
+      },
+      "observed_files": [
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/README.md",
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/schede/schede.jsonl"
+      ],
+      "block_reason": "Observed naming or documentation signals leave multiple candidates; no canonical association has been established.",
+      "evidence_to_collect": [
+        {
+          "evidence_id": "explicit_candidate_association",
+          "description": "A source or project-maintained record that names exactly one candidate association for this pack or exam.",
+          "required": true
+        },
+        {
+          "evidence_id": "candidate_scope_disambiguation",
+          "description": "Evidence identifying the candidate's scope, version, or ownership and addressing the competing observed candidates.",
+          "required": true
+        },
+        {
+          "evidence_id": "review_audit",
+          "description": "Reviewer identity, date, cited evidence paths, and a note explaining the selected allowed outcome.",
+          "required": true
+        }
+      ],
+      "allowed_decisions": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "no_auto_resolution": {
+        "forbidden": true,
+        "required_actor": "human_reviewer",
+        "prohibited_basis": [
+          "name_only_overlap",
+          "bounded_root_overlap",
+          "directory_proximity",
+          "legacy_flag_alone",
+          "didactic_content_or_answer_inference"
+        ],
+        "required_condition": "An allowed decision needs explicit cited evidence and a reviewer note; otherwise the item remains open."
+      },
+      "linkage": {
+        "g5": {
+          "report_path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+          "queue_id": "pack:AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+          "review_status": "pending"
+        },
+        "g8": {
+          "report_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+          "record_id": "pack:AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+          "evidence_state": "human_review_required"
+        },
+        "g7": {
+          "report_path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+          "status": "blocked",
+          "relevant_check_ids": [
+            "cross_report.pending_count",
+            "review_safety.all_items_pending",
+            "review_safety.all_decisions_null"
+          ]
+        }
+      }
+    },
+    {
+      "identifier": {
+        "queue_id": "pack:FORMULARIO_STRUTTURE_PACK",
+        "record_id": "pack:FORMULARIO_STRUTTURE_PACK",
+        "item_type": "pack",
+        "item_id": "FORMULARIO_STRUTTURE_PACK",
+        "classification": "ambiguous",
+        "uncertainty": "ambiguous_observed_candidates",
+        "legacy_observed": false
+      },
+      "observed_files": [
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/README.md",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/schede/schede.jsonl"
+      ],
+      "block_reason": "Observed naming or documentation signals leave multiple candidates; no canonical association has been established.",
+      "evidence_to_collect": [
+        {
+          "evidence_id": "explicit_candidate_association",
+          "description": "A source or project-maintained record that names exactly one candidate association for this pack or exam.",
+          "required": true
+        },
+        {
+          "evidence_id": "candidate_scope_disambiguation",
+          "description": "Evidence identifying the candidate's scope, version, or ownership and addressing the competing observed candidates.",
+          "required": true
+        },
+        {
+          "evidence_id": "review_audit",
+          "description": "Reviewer identity, date, cited evidence paths, and a note explaining the selected allowed outcome.",
+          "required": true
+        }
+      ],
+      "allowed_decisions": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "no_auto_resolution": {
+        "forbidden": true,
+        "required_actor": "human_reviewer",
+        "prohibited_basis": [
+          "name_only_overlap",
+          "bounded_root_overlap",
+          "directory_proximity",
+          "legacy_flag_alone",
+          "didactic_content_or_answer_inference"
+        ],
+        "required_condition": "An allowed decision needs explicit cited evidence and a reviewer note; otherwise the item remains open."
+      },
+      "linkage": {
+        "g5": {
+          "report_path": "docs/coordination/UNI_PACK_EXAM_REVIEW_G5.json",
+          "queue_id": "pack:FORMULARIO_STRUTTURE_PACK",
+          "review_status": "pending"
+        },
+        "g8": {
+          "report_path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+          "record_id": "pack:FORMULARIO_STRUTTURE_PACK",
+          "evidence_state": "human_review_required"
+        },
+        "g7": {
+          "report_path": "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+          "status": "blocked",
+          "relevant_check_ids": [
+            "cross_report.pending_count",
+            "review_safety.all_items_pending",
+            "review_safety.all_decisions_null"
+          ]
+        }
+      }
+    }
+  ],
+  "boundaries": [
+    "The two legacy unmatched exams are represented once each because they are already part of the six pending G5 items.",
+    "Observed files are metadata references; no question, answer, schede, or source content is copied into this packet.",
+    "Allowed decisions do not constitute educational, normative, legal, or semantic approval.",
+    "No item may be auto-resolved; unresolved or deferred items remain open in G5/G8/G7."
+  ]
+}

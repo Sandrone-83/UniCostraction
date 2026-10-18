@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-human-evidence-packet-g9a.v1.json",
+  "title": "UniCostraction G9-A human evidence packet",
+  "type": "object",
+  "required": ["schema_version", "tool", "scope", "source_reports", "coverage", "items", "boundaries"],
+  "properties": {
+    "schema_version": { "const": "g9a.v1" },
+    "tool": { "const": "tools/uni_human_evidence_packet_g9_a.py" },
+    "scope": {
+      "type": "object",
+      "required": ["source_of_truth", "didactic_content_reviewed", "didactic_content_copied", "semantic_association_inferred", "content_modified", "automatic_resolution"],
+      "properties": {
+        "source_of_truth": { "type": "string", "minLength": 1 },
+        "didactic_content_reviewed": { "const": false },
+        "didactic_content_copied": { "const": false },
+        "semantic_association_inferred": { "const": false },
+        "content_modified": { "const": false },
+        "automatic_resolution": { "const": false }
+      },
+      "additionalProperties": false
+    },
+    "source_reports": {
+      "type": "object",
+      "required": ["g5_review", "g8_ledger", "g7_readiness"],
+      "properties": {
+        "g5_review": { "$ref": "#/$defs/sourceReport" },
+        "g8_ledger": {
+          "allOf": [
+            { "$ref": "#/$defs/sourceReport" },
+            { "type": "object", "required": ["markdown_path"] }
+          ]
+        },
+        "g7_readiness": {
+          "type": "object",
+          "required": ["path", "markdown_path", "schema_version", "status", "release_ready", "mismatch_count"],
+          "properties": {
+            "path": { "type": "string", "minLength": 1 },
+            "markdown_path": { "type": "string", "minLength": 1 },
+            "schema_version": { "type": "string", "minLength": 1 },
+            "status": { "enum": ["blocked", "ready"] },
+            "release_ready": { "type": "boolean" },
+            "mismatch_count": { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "coverage": {
+      "type": "object",
+      "required": ["pending_g5", "legacy_unmatched_exams", "unique_item_count", "pending_queue_ids", "legacy_unmatched_queue_ids", "legacy_is_subset_of_pending", "duplicate_entries"],
+      "properties": {
+        "pending_g5": { "type": "integer", "minimum": 0 },
+        "legacy_unmatched_exams": { "type": "integer", "minimum": 0 },
+        "unique_item_count": { "type": "integer", "minimum": 0 },
+        "pending_queue_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "legacy_unmatched_queue_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "legacy_is_subset_of_pending": { "const": true },
+        "duplicate_entries": { "const": false }
+      },
+      "additionalProperties": false
+    },
+    "items": { "type": "array", "items": { "$ref": "#/$defs/packetItem" }, "uniqueItems": true },
+    "boundaries": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+  },
+  "$defs": {
+    "sourceReport": {
+      "type": "object",
+      "required": ["path", "schema_version"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "schema_version": { "type": "string", "minLength": 1 },
+        "markdown_path": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "packetItem": {
+      "type": "object",
+      "required": ["identifier", "observed_files", "block_reason", "evidence_to_collect", "allowed_decisions", "no_auto_resolution", "linkage"],
+      "properties": {
+        "identifier": {
+          "type": "object",
+          "required": ["queue_id", "record_id", "item_type", "item_id", "classification", "uncertainty", "legacy_observed"],
+          "properties": {
+            "queue_id": { "type": "string", "minLength": 1 },
+            "record_id": { "type": "string", "minLength": 1 },
+            "item_type": { "enum": ["pack", "exam"] },
+            "item_id": { "type": "string", "minLength": 1 },
+            "classification": { "type": "string", "minLength": 1 },
+            "uncertainty": { "enum": ["ambiguous_observed_candidates", "unmatched_legacy_domain"] },
+            "legacy_observed": { "type": "boolean" }
+          },
+          "additionalProperties": false
+        },
+        "observed_files": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "block_reason": { "type": "string", "minLength": 1 },
+        "evidence_to_collect": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["evidence_id", "description", "required"],
+            "properties": {
+              "evidence_id": { "type": "string", "minLength": 1 },
+              "description": { "type": "string", "minLength": 1 },
+              "required": { "const": true }
+            },
+            "additionalProperties": false
+          },
+          "minItems": 1
+        },
+        "allowed_decisions": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true },
+        "no_auto_resolution": {
+          "type": "object",
+          "required": ["forbidden", "required_actor", "prohibited_basis", "required_condition"],
+          "properties": {
+            "forbidden": { "const": true },
+            "required_actor": { "const": "human_reviewer" },
+            "prohibited_basis": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 },
+            "required_condition": { "type": "string", "minLength": 1 }
+          },
+          "additionalProperties": false
+        },
+        "linkage": {
+          "type": "object",
+          "required": ["g5", "g8", "g7"],
+          "properties": {
+            "g5": { "$ref": "#/$defs/itemLink" },
+            "g8": { "$ref": "#/$defs/itemLink" },
+            "g7": {
+              "type": "object",
+              "required": ["report_path", "status", "relevant_check_ids"],
+              "properties": {
+                "report_path": { "type": "string", "minLength": 1 },
+                "status": { "enum": ["blocked", "ready"] },
+                "relevant_check_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true }
+              },
+              "additionalProperties": false
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "itemLink": {
+      "type": "object",
+      "required": ["report_path"],
+      "properties": {
+        "report_path": { "type": "string", "minLength": 1 },
+        "queue_id": { "type": "string", "minLength": 1 },
+        "record_id": { "type": "string", "minLength": 1 },
+        "review_status": { "type": "string", "minLength": 1 },
+        "evidence_state": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
