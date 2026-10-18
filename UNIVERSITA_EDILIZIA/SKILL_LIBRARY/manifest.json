@@ -1,7 +1,7 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.3.0",
-  "generated_at": "2026-10-18",
+  "version": "0.4.0",
+  "generated_at": "2026-10-19",
   "skills": [
     {
       "id": "architecture-project-workflow",
@@ -289,6 +289,72 @@
         {"url": "https://www.anticorruzione.it/", "authority": "ANAC", "purpose": "atti e dati istituzionali per contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
       ],
       "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "survey-geospatial-topography-control",
+      "path": "survey-geospatial-topography-control/SKILL.md",
+      "title": "Controllo operativo di rilievo geospaziale e topografico",
+      "domain": "rilievo, geospaziale e topografia",
+      "scope": "Gating di CRS, epoca, controlli, residui, filtri e riconciliazione di rilievi topografici e geospaziali per uno scopo dichiarato.",
+      "source_refs": [
+        {"url": "https://www.ogc.org/standards/", "authority": "OGC", "purpose": "standard ufficiali per dati e servizi geospaziali", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://knowledge-base.inspire.ec.europa.eu/", "authority": "European Commission INSPIRE", "purpose": "specifiche e metadati europei per interoperabilità geospaziale", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.igmi.org/", "authority": "Istituto Geografico Militare", "purpose": "riferimenti e prodotti cartografici ufficiali italiani", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "geotechnical-foundation-data-gating",
+      "path": "geotechnical-foundation-data-gating/SKILL.md",
+      "title": "Gating dei dati geotecnici per fondazioni",
+      "domain": "geotecnica, fondazioni e dati di sottosuolo",
+      "scope": "Controllo di sufficienza, copertura, provenienza, variabilità e scenari dei dati geotecnici prima del dimensionamento professionale.",
+      "source_refs": [
+        {"url": "https://eurocodes.jrc.ec.europa.eu/EN-Eurocodes/eurocode-7-geotechnical-design", "authority": "European Commission JRC", "purpose": "portale ufficiale europeo per Eurocodice 7", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.gazzettaufficiale.it/eli/id/2018/02/20/18A00716/sg", "authority": "Gazzetta Ufficiale", "purpose": "Norme tecniche per le costruzioni e allegati ufficiali", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/", "authority": "Normattiva", "purpose": "testi italiani vigenti e multivigenti da verificare", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "commissioning-facility-asset-handover",
+      "path": "commissioning-facility-asset-handover/SKILL.md",
+      "title": "Commissioning e handover di facility e asset",
+      "domain": "commissioning, facility e asset management",
+      "scope": "Tracciabilità di requisiti, test, asset, issue, formazione e documenti nel passaggio da costruzione a esercizio.",
+      "source_refs": [
+        {"url": "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/80/68021.html", "authority": "ISO", "purpose": "ISO 41001 per sistemi di gestione delle facility", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://committee.iso.org/sites/tc251/home/projects/published/iso-55001.html", "authority": "ISO TC 251", "purpose": "ISO 55001 e gestione degli asset lungo il ciclo di vita", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "ISO 19650 per gestione dell'informazione nel ciclo di vita", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_standard_paid_or_restricted_reference_only"
+    },
+    {
+      "id": "circular-materials-lca-inventory",
+      "path": "circular-materials-lca-inventory/SKILL.md",
+      "title": "Inventario circolare e LCA operativa per costruzioni",
+      "domain": "circolarità, materiali e LCA operativa",
+      "scope": "Inventario riconciliato di materiali, quantità, fonti, confini e scenari per analisi circolare e LCA operativa.",
+      "source_refs": [
+        {"url": "https://environment.ec.europa.eu/topics/circular-economy/levels_en", "authority": "European Commission", "purpose": "quadro Level(s) per prestazioni e ciclo di vita degli edifici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://environment.ec.europa.eu/topics/waste-and-recycling/construction-and-demolition-waste_en", "authority": "European Commission", "purpose": "riferimento istituzionale per rifiuti da costruzione e demolizione", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iso.org/standard/37456.html", "authority": "ISO", "purpose": "principi e quadro per valutazioni del ciclo di vita", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://eplca.jrc.ec.europa.eu/", "authority": "European Commission JRC", "purpose": "piattaforma europea per metodi e dataset LCA", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-robotics-industrialization",
+      "path": "construction-robotics-industrialization/SKILL.md",
+      "title": "Robotics e industrializzazione controllata in cantiere",
+      "domain": "robotics, automazione e industrializzazione",
+      "scope": "Readiness di robot e workcell: caso d'uso, simulazione, FAT/SAT, sicurezza, KPI, manutenzione e fallback.",
+      "source_refs": [
+        {"url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj", "authority": "Unione europea", "purpose": "Regolamento (UE) 2023/1230 sulle macchine", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/standard/73933.html", "authority": "ISO", "purpose": "ISO 10218-1:2025 e sicurezza dei robot industriali", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/obp/ui?_escaped_fragment_=iso%3Apub%3APUB200102", "authority": "ISO", "purpose": "riferimento ufficiale alla serie ISO 10218", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
     }
   ],
   "rights_policy": "I file della tranche sono sintesi originali e non riproducono testo di terzi. Le URL sono riferimenti di autorità; non conferiscono licenza di redistribuzione dei testi, standard, manuali, marchi, dataset, immagini o media. Prima di pubblicare, addestrare, incorporare o consegnare materiale esterno verificare versione, termini, attribuzione, privacy, diritti d'autore e autorizzazione d'uso."
