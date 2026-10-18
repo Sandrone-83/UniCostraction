@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UniCostraction G5 source provenance manifest",
+  "type": "object",
+  "required": [
+    "$schema",
+    "schema_version",
+    "manifest_id",
+    "metadata_only",
+    "observed_at",
+    "scope",
+    "source_records",
+    "interpretation_records",
+    "official_context_records",
+    "related_blockers"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_SOURCE_RECORD_SCHEMA_G5.json"},
+    "schema_version": {"const": "G5-source-metadata"},
+    "manifest_id": {"type": "string", "pattern": "^G5-"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": "string", "format": "date"},
+    "scope": {
+      "type": "object",
+      "required": ["package", "source_path", "selection_basis"],
+      "properties": {
+        "package": {"type": "string"},
+        "source_path": {"type": "string"},
+        "selection_basis": {"type": "string"}
+      }
+    },
+    "source_records": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/source_record"}
+    },
+    "interpretation_records": {
+      "type": "array",
+      "items": {"type": "object"}
+    },
+    "official_context_records": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/context_record"}
+    },
+    "related_blockers": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/blocker"}
+    }
+  },
+  "$defs": {
+    "source_record": {
+      "type": "object",
+      "required": [
+        "source_record_id",
+        "source_kind",
+        "title",
+        "entity",
+        "source",
+        "version",
+        "document_metadata",
+        "hash",
+        "license_reuse",
+        "attribution",
+        "transformation",
+        "verification_status",
+        "limitations"
+      ],
+      "properties": {
+        "source_record_id": {"type": "string", "pattern": "^G5-"},
+        "source_kind": {"const": "primary_official"},
+        "title": {"type": "string"},
+        "entity": {"type": "string"},
+        "source": {
+          "type": "object",
+          "required": ["local_path", "url", "locator_status", "registry_basis"],
+          "properties": {
+            "local_path": {"type": "string"},
+            "url": {"type": "string", "format": "uri"},
+            "locator_status": {"const": "observed_exact_url"},
+            "registry_basis": {"type": "object"}
+          }
+        },
+        "version": {"type": "object"},
+        "document_metadata": {"type": "object"},
+        "hash": {
+          "type": "object",
+          "required": ["algorithm", "value"],
+          "properties": {
+            "algorithm": {"const": "SHA-256"},
+            "value": {"type": "string", "pattern": "^[A-Fa-f0-9]{64}$"}
+          }
+        },
+        "license_reuse": {"type": "object"},
+        "attribution": {"type": "string"},
+        "transformation": {"type": "object"},
+        "verification_status": {"type": "object"},
+        "limitations": {"type": "array", "minItems": 1}
+      }
+    },
+    "context_record": {
+      "type": "object",
+      "required": ["context_record_id", "related_source_record_id", "url", "relationship"],
+      "properties": {
+        "context_record_id": {"type": "string", "pattern": "^G5-CONTEXT-"},
+        "related_source_record_id": {"type": "string", "pattern": "^G5-"},
+        "url": {"type": "string", "format": "uri"},
+        "relationship": {"const": "official_locator_context_only"}
+      }
+    },
+    "blocker": {
+      "type": "object",
+      "required": ["candidate", "state", "reason", "evidence"],
+      "properties": {
+        "candidate": {"type": "string"},
+        "state": {"const": "blocked"},
+        "reason": {"type": "string"},
+        "evidence": {"type": "array", "minItems": 1}
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "$schema": "./UNI_SOURCE_RECORD_SCHEMA_G5.json",
+  "schema_version": "G5-source-metadata",
+  "manifest_id": "G5-ECFR-OSHA-1926",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "scope": {
+    "package": "Edilizia_Pack",
+    "source_path": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml",
+    "selection_basis": "Fonte ufficiale eCFR già presente localmente, con URL e base di licenza espliciti nei registri Edilizia_Pack; nessuna copia, trasformazione o serializzazione del file sorgente.",
+    "excluded_paths": [
+      "Edilizia_Pack/parsed",
+      "UNIVERSITA_EDILIZIA/ESAMI"
+    ]
+  },
+  "source_records": [
+    {
+      "source_record_id": "G5-001",
+      "source_kind": "primary_official",
+      "title": "29 CFR Part 1926 — Safety and Health Regulations for Construction",
+      "entity": "U.S. Department of Labor / OSHA",
+      "source": {
+        "local_path": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml",
+        "url": "https://www.ecfr.gov/current/title-29/part-1926",
+        "locator_status": "observed_exact_url",
+        "registry_basis": {
+          "audit_path": "Edilizia_Pack/licenze_audit.json",
+          "audit_selector": "fonti[id=OSHA-1926]",
+          "package_manifest_path": "Edilizia_Pack/manifest.json",
+          "package_manifest_selector": "doc=29 CFR 1926 OSHA Construction"
+        }
+      },
+      "version": {
+        "value": null,
+        "kind": "not_recorded_in_local_file",
+        "basis": "L'XML contiene il placeholder di data _SUBSTITUTE_DATE_; il manifest registra il locator corrente, non una snapshot di vigenza."
+      },
+      "document_metadata": {
+        "format": "XML",
+        "root_element": "DIV5",
+        "part_number": "1926",
+        "citation": "29 CFR Part 1926",
+        "file_size_bytes": 3519595
+      },
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "EB9BA469FA297F97A7FA34B40D317179F68B9036DF3F19DB42FC6C2B19777D52"
+      },
+      "license_reuse": {
+        "status": "observed_local",
+        "label": "Public domain (regolamento Governo federale USA)",
+        "commercial_use_local_statement": true,
+        "attribution_local_statement": "no",
+        "basis_path": "Edilizia_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=OSHA-1926]",
+        "caution": "Dichiarazione osservata nei registri locali, non parere legale indipendente."
+      },
+      "attribution": "U.S. Department of Labor, Occupational Safety and Health Administration, 29 CFR Part 1926.",
+      "transformation": {
+        "status": "source_preserving",
+        "description": "Registrati soltanto metadati, locator e hash del file XML già presente; il file sorgente non è stato modificato o copiato."
+      },
+      "verification_status": {
+        "state": "observed_local",
+        "checked_at": "2026-10-18",
+        "checks": [
+          "local_file_exists",
+          "sha256_recomputed",
+          "exact_url_cross_checked_against_local_package_manifest_and_license_audit",
+          "xml_root_part_and_citation_observed"
+        ],
+        "not_checked": [
+          "external_url_availability",
+          "current_content_as_of_observed_at",
+          "independent_legal_clearance",
+          "current_regulatory_applicability",
+          "technical_accuracy_or_completeness"
+        ]
+      },
+      "limitations": [
+        "Il locator è verificato localmente nei registri, ma la disponibilità esterna e il contenuto corrente della pagina non sono stati validati in questo manifest.",
+        "La licenza è una dichiarazione osservata nel registro locale; non equivale a parere legale o a verifica indipendente dei diritti su eventuali trasformazioni.",
+        "Il record non contiene testo XML, sezioni regolamentari, interpretazioni, valori tecnici o risposte d'esame."
+      ]
+    }
+  ],
+  "interpretation_records": [],
+  "official_context_records": [
+    {
+      "context_record_id": "G5-CONTEXT-001",
+      "related_source_record_id": "G5-001",
+      "url": "https://www.ecfr.gov/current/title-29/part-1926",
+      "relationship": "official_locator_context_only",
+      "description": "Locator istituzionale correlato alla fonte; non è una copia del contenuto, non aggiunge una versione e non dimostra da solo vigenza o accuratezza.",
+      "license_reuse": "not_assessed_separately"
+    }
+  ],
+  "related_blockers": [
+    {
+      "candidate": "GSE Conto Termico 3.0 PDF locale",
+      "state": "blocked",
+      "reason": "Il PDF GSE già registrato non ha un URL esatto locale per quel file e non ha termini di riuso dichiarati nei metadati osservati; non viene promosso in G5.",
+      "evidence": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+        "record=G3-2-001",
+        "verification_status.state=blocked"
+      ]
+    }
+  ]
+}
