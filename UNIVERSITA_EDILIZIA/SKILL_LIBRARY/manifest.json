@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "generated_at": "2026-10-18",
   "skills": [
     {
@@ -23,7 +23,7 @@
       "domain": "strutture e opere civili",
       "scope": "Impostazione, controllo e documentazione di analisi strutturali e civili senza sostituire il progettista abilitato.",
       "source_refs": [
-        {"url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=18A00716&atto.dataPubblicazioneGazzetta=2018-02-20", "authority": "Gazzetta Ufficiale", "purpose": "NTC 2018", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=18A00716&atto.dataPubblicazioneGazzetta=2018-02-20", "authority": "Gazzetta Ufficiale", "purpose": "Norme NTC 2018", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://eurocodes.jrc.ec.europa.eu/", "authority": "European Commission JRC", "purpose": "portale ufficiale degli Eurocodici e dei documenti di supporto", "rights_state": "official_reference_only_no_text_reproduced"},
         {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "raccordo con disciplina edilizia nazionale", "rights_state": "official_public_legal_text_verify_current_consolidation"}
       ],
@@ -208,6 +208,85 @@
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legge%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "Codice dei contratti pubblici quando il rapporto è pubblico", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262!vig=", "authority": "Normattiva", "purpose": "Codice civile per obbligazioni e contratti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://eur-lex.europa.eu/eli/reg/2014/910/oj", "authority": "EUR-Lex", "purpose": "identità digitale, firme e servizi fiduciari da verificare per territorio e versione", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "autocad-api-drawing-qa",
+      "path": "autocad-api-drawing-qa/SKILL.md",
+      "title": "API AutoCAD e QA del disegno",
+      "domain": "automazione CAD e controllo elaborati",
+      "scope": "Automazione AutoCAD via API e controllo riproducibile di geometria, proprietà, riferimenti e pubblicazione senza certificare il progetto.",
+      "source_refs": [
+        {"url": "https://help.autodesk.com/view/OARX/2027/ENU/", "authority": "Autodesk", "purpose": "documentazione ufficiale AutoCAD Developer e ObjectARX per API e release", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Customization/files/GUID-A6C680F2-DE2E-418A-A182-E4884073338A.htm", "authority": "Autodesk", "purpose": "compatibilità Managed .NET per release AutoCAD", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-ActiveX/files/GUID-FF023966-A01D-4B64-8957-7C0F02BF8162.htm", "authority": "Autodesk", "purpose": "riferimenti ActiveX e type library per automazione", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "ifc-ids-bcf-validation",
+      "path": "ifc-ids-bcf-validation/SKILL.md",
+      "title": "Validazione IFC con IDS e BCF",
+      "domain": "validazione BIM machine-checkable",
+      "scope": "Validazione di modelli IFC contro IDS e gestione di issue BCF con evidenza, coordinate, responsabilità e chiusura verificabile.",
+      "source_refs": [
+        {"url": "https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/", "authority": "buildingSMART International", "purpose": "release e schema ufficiali IFC", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://technical.buildingsmart.org/projects/information-delivery-specification-ids/", "authority": "buildingSMART International", "purpose": "specifica IDS machine-readable per requisiti informativi", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://github.com/buildingSMART/BCF-API", "authority": "buildingSMART International", "purpose": "API ufficiale/open per issue BCF e coordinamento", "rights_state": "official_open_source_or_open_standard_reference_verify_version"}
+      ],
+      "rights_state": "official_open_source_or_open_standard_reference_verify_version"
+    },
+    {
+      "id": "blender-procedural-architecture",
+      "path": "blender-procedural-architecture/SKILL.md",
+      "title": "Blender procedurale per architettura",
+      "domain": "generazione parametrica e render automation",
+      "scope": "Generazione deterministica di scene architettoniche Blender con script, seed, asset, scala, camere e render tracciabili.",
+      "source_refs": [
+        {"url": "https://docs.blender.org/api/current/", "authority": "Blender Foundation", "purpose": "API Python ufficiale della release Blender", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://docs.blender.org/manual/en/latest/advanced/command_line/arguments.html", "authority": "Blender Foundation", "purpose": "esecuzione da riga di comando e background", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.blender.org/about/license/", "authority": "Blender Foundation", "purpose": "licenza del software Blender", "rights_state": "official_open_source_or_open_standard_reference_verify_version"}
+      ],
+      "rights_state": "official_open_source_or_open_standard_reference_verify_version"
+    },
+    {
+      "id": "controlled-official-document-lifecycle",
+      "path": "controlled-official-document-lifecycle/SKILL.md",
+      "title": "Lifecycle controllato dei documenti ufficiali",
+      "domain": "generazione documentale e PDF",
+      "scope": "Generazione e ciclo di vita controllato di PDF e documenti con fonti, versioni, approvazioni, firme, accessi, pubblicazione e ritiro.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/75839.html", "authority": "ISO", "purpose": "specifica PDF 2.0 e struttura del formato", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/38920.html", "authority": "ISO", "purpose": "riferimento PDF/A per conservazione", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.agid.gov.it/it/linee-guida", "authority": "AgID", "purpose": "linee guida istituzionali per documenti e PA da verificare per contesto", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_standard_paid_or_restricted_reference_only"
+    },
+    {
+      "id": "sal-progress-quantity-reconciliation",
+      "path": "sal-progress-quantity-reconciliation/SKILL.md",
+      "title": "Riconciliazione SAL, avanzamento e quantità",
+      "domain": "contabilità lavori e riconciliazione quantitativa",
+      "scope": "Riconciliazione di SAL, libretti misure, computi, varianti, ordini e pagamenti con formule, versioni e scarti espliciti.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "Codice dei contratti pubblici nel testo vigente", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/-/banca-dati-nazionale-contratti-pubblici", "authority": "ANAC", "purpose": "banca dati e tracciabilità istituzionale dei contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.gazzettaufficiale.it/", "authority": "Gazzetta Ufficiale", "purpose": "pubblicazione originaria degli atti ufficiali", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "current-law-pa-source-gating",
+      "path": "current-law-pa-source-gating/SKILL.md",
+      "title": "Lookup di legge vigente e fonti PA",
+      "domain": "ricerca normativa e amministrazione pubblica",
+      "scope": "Ricerca di fonti normative e amministrative correnti con cancelli di giurisdizione, efficacia, versione, data, gerarchia e applicabilità.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/", "authority": "Normattiva", "purpose": "banca dati italiana della legislazione vigente e multivigente", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gazzettaufficiale.it/", "authority": "Gazzetta Ufficiale", "purpose": "pubblicazione e archivio ufficiale degli atti italiani", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/homepage.html?locale=it", "authority": "Unione europea", "purpose": "atti, testi consolidati e identificativi CELEX del diritto UE", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/", "authority": "ANAC", "purpose": "atti e dati istituzionali per contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
       ],
       "rights_state": "official_public_legal_text_verify_current_consolidation"
     }
