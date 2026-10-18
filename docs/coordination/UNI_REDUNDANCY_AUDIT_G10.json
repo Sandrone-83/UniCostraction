@@ -1,0 +1,26 @@
+{
+  "audit_version": 1,
+  "audit_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "Metadata and structure only; semantic duplicate adjudication is not performed.",
+      "No answer key, response, grade, explanation, solution, or score material is stored here."
+    ]
+  },
+  "scope": {
+    "path_prefix": "UNIVERSITA_EDILIZIA/ESAMI/",
+    "file_count": 76,
+    "text_file_count": 76
+  },
+  "duplicate_review": {
+    "state": "pending",
+    "outcome": "not_assessed",
+    "note": "placeholder"
+  }
+}

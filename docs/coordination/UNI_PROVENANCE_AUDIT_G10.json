@@ -1,0 +1,30 @@
+{
+  "audit_version": 1,
+  "audit_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "The audit records structural inventory and provenance pointers only.",
+      "A path or digest does not prove source authority, license clearance, factual correctness, or educational correctness.",
+      "No answer key, response, grade, explanation, solution, or score material is stored here."
+    ]
+  },
+  "scope": {
+    "path_prefix": "UNIVERSITA_EDILIZIA/ESAMI/",
+    "file_count": 76,
+    "text_file_count": 76,
+    "hash_algorithm": "sha256",
+    "source_manifest": "docs/coordination/PUBLIC_EXAM_FIXTURE_MANIFEST_G3.json"
+  },
+  "provenance_review": {
+    "state": "pending",
+    "source_review": "not_assessed",
+    "license_review": "not_assessed",
+    "note": "placeholder"
+  }
+}
