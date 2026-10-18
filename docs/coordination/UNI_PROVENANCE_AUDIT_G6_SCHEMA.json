@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_PROVENANCE_AUDIT_G6_SCHEMA.json",
+  "title": "UniCostraction G6-B deterministic metadata-only provenance audit",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "$schema",
+    "schema_version",
+    "audit_id",
+    "metadata_only",
+    "observed_at",
+    "scope",
+    "summary",
+    "manifests",
+    "records",
+    "alias_groups"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_PROVENANCE_AUDIT_G6_SCHEMA.json"},
+    "schema_version": {"const": "G6-provenance-audit"},
+    "audit_id": {"const": "G6-B-provenance"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": ["string", "null"]},
+    "scope": {"type": "object"},
+    "summary": {"type": "object"},
+    "manifests": {"type": "array"},
+    "records": {"type": "array"},
+    "alias_groups": {"type": "array"}
+  }
+}

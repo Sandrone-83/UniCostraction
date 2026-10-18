@@ -1,0 +1,1563 @@
+{
+  "$schema": "./UNI_PROVENANCE_AUDIT_G6_SCHEMA.json",
+  "schema_version": "G6-provenance-audit",
+  "audit_id": "G6-B-provenance",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "scope": {
+    "manifest_count": 4,
+    "input_manifests": [
+      "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json"
+    ],
+    "excluded_payloads": [
+      "PDF bytes/content",
+      "XML bytes/content",
+      "course cards and values",
+      "exam questions, answers, and solutions"
+    ],
+    "state_policy": "No state is promoted. verified is emitted only when explicitly present in an input manifest; observed_local remains observed_local."
+  },
+  "summary": {
+    "record_count": 33,
+    "by_proof_state": {
+      "verified": 0,
+      "observed_local": 29,
+      "context_only": 2,
+      "blocked": 2
+    },
+    "by_url_status": {
+      "declared": 31,
+      "not_declared": 2
+    },
+    "by_license_status": {
+      "declared": 29,
+      "not_declared": 4
+    },
+    "residual_code_counts": {
+      "blocked_until_missing_metadata_or_evidence_is_supplied": 2,
+      "content_or_legal_accuracy_not_checked": 1,
+      "context_does_not_prove_source_vigency_or_reuse": 2,
+      "current_version_or_vigency_not_checked": 1,
+      "exact_url_not_declared": 2,
+      "external_url_availability_not_checked": 29,
+      "independent_license_clearance_not_checked": 29,
+      "license_or_reuse_terms_not_declared": 4,
+      "manifest_id_not_declared_lot_id_used_as_reference": 14,
+      "manifest_metadata_only_flag_not_declared": 14
+    }
+  },
+  "manifests": [
+    {
+      "path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "manifest_id_source": "lot_id_fallback",
+      "schema_version": "G1",
+      "metadata_only": null,
+      "metadata_only_flag": "not_declared",
+      "collection_counts": {
+        "records": 14
+      }
+    },
+    {
+      "path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "manifest_id_source": "manifest_id",
+      "schema_version": "G2-package-metadata",
+      "metadata_only": true,
+      "metadata_only_flag": "declared_true",
+      "collection_counts": {
+        "records": 14
+      }
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "manifest_id_source": "manifest_id",
+      "schema_version": "G3-source-metadata",
+      "metadata_only": true,
+      "metadata_only_flag": "declared_true",
+      "collection_counts": {
+        "records": 2
+      }
+    },
+    {
+      "path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "manifest_id_source": "manifest_id",
+      "schema_version": "G5-source-metadata",
+      "metadata_only": true,
+      "metadata_only_flag": "declared_true",
+      "collection_counts": {
+        "source_records": 1,
+        "official_context_records": 1,
+        "related_blockers": 1
+      }
+    }
+  ],
+  "records": [
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-001",
+      "record_kind": "source",
+      "title": "The Nicomachean Ethics",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/8438",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-002",
+      "record_kind": "source",
+      "title": "Calculus Made Easy",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://archive.org/details/in.ernet.dli.2015.94125",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-003",
+      "record_kind": "source",
+      "title": "Discourse on the Method",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/59",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-004",
+      "record_kind": "source",
+      "title": "Relativity: The Special and General Theory",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/30155",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-005",
+      "record_kind": "source",
+      "title": "The Elements of Euclid",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://archive.org/details/elementsofeuclid00eucl_0",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-006",
+      "record_kind": "source",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/201",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-007",
+      "record_kind": "source",
+      "title": "The Critique of Pure Reason",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/4280",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-008",
+      "record_kind": "source",
+      "title": "Elements of Chemistry",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/30775",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-009",
+      "record_kind": "source",
+      "title": "Meditations",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/2680",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-010",
+      "record_kind": "source",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/28233",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-011",
+      "record_kind": "source",
+      "title": "On the Origin of Species",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/1228",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-012",
+      "record_kind": "source",
+      "title": "The Republic",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/1497",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-013",
+      "record_kind": "source",
+      "title": "The Problems of Philosophy",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/5827",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-014",
+      "record_kind": "source",
+      "title": "Tractatus Logico-Philosophicus",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://archive.org/details/tractatuslogicop1971witt",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_id": "G3-2-001",
+      "record_kind": "source",
+      "title": "Regole Applicative del D.M. 7 agosto 2025 — Incentivazione di interventi di piccole dimensioni per l'incremento dell'efficienza energetica e per la produzione di energia termica da fonti rinnovabili",
+      "entity": "GSE (Gestore dei Servizi Energetici)",
+      "source_kind": "primary_official",
+      "local_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+      "url": {
+        "status": "not_declared",
+        "value": null,
+        "basis": null
+      },
+      "license": {
+        "status": "not_declared",
+        "label": "Il README locale qualifica il file come documento ufficiale GSE scaricato da gse.it, ma non dichiara una licenza né permessi di riuso.",
+        "basis_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/README.md",
+        "basis_selector": null
+      },
+      "proof_state": "blocked",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "6BEE1738B9D690FCDD2AFF21078807D0C0D286EEDFCC6092DE416BA50E167F7A"
+      },
+      "residual_codes": [
+        "exact_url_not_declared",
+        "license_or_reuse_terms_not_declared",
+        "blocked_until_missing_metadata_or_evidence_is_supplied"
+      ],
+      "residuals": [
+        "not_checked:registered_gse_url_for_this_pdf",
+        "not_checked:external_url_availability",
+        "not_checked:current_validity_or_applicability",
+        "not_checked:independent_license_or_reuse_clearance",
+        "not_checked:legal_validity",
+        "not_checked:accuracy_or_completeness_of_incentive_values",
+        "limitation:Il manifest è bloccato perché nel PDF, nel README locale e nella storia del branch non è stato trovato un URL GSE già registrato per questo specifico PDF; gse.it è citato solo come dominio, non come locator completo.",
+        "limitation:Il PDF è identificato come fonte ufficiale GSE sulla base di copertina, autore PDF e README locale; ciò non dimostra vigenza corrente, validità legale o completezza normativa.",
+        "limitation:Nessuna licenza o autorizzazione di riuso è dichiarata nei metadati locali; la presenza del file nella repository non equivale a permesso di riproduzione o distribuzione.",
+        "limitation:Il record non incorpora testo, tabelle, valori incentivanti o interpretazioni e non valida le schede che lo citano."
+      ]
+    },
+    {
+      "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_id": "G3-2-002",
+      "record_kind": "context",
+      "title": "Modulistica CT 2.0 - Conto Termico 3.0",
+      "entity": "GSE (Gestore dei Servizi Energetici)",
+      "source_kind": "official_context_page",
+      "local_path": null,
+      "url": {
+        "status": "declared",
+        "value": "https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico-3-0/modulistica-ct-2",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "not_declared",
+        "label": "La pagina è registrata soltanto come contesto istituzionale correlato; la sua presenza non dichiara una licenza o un permesso di riuso del PDF locale.",
+        "basis_path": null,
+        "basis_selector": null
+      },
+      "proof_state": "context_only",
+      "hash": null,
+      "residual_codes": [
+        "license_or_reuse_terms_not_declared",
+        "context_does_not_prove_source_vigency_or_reuse"
+      ],
+      "residuals": [
+        "not_checked:identity_of_the_local_pdf",
+        "not_checked:registered_gse_url_for_the_local_pdf",
+        "not_checked:current_validity_or_applicability_of_the_pdf",
+        "not_checked:independent_license_or_reuse_clearance",
+        "not_checked:legal_validity",
+        "not_checked:accuracy_or_completeness_of_incentive_values",
+        "limitation:La pagina correlata non è prova dell'URL esatto del PDF locale, della sua vigenza corrente, validità legale o completezza.",
+        "limitation:La pagina correlata non è prova di una licenza o autorizzazione al riuso, riproduzione o distribuzione del PDF.",
+        "limitation:Il record non incorpora testo, tabelle, valori incentivanti o interpretazioni e non cambia lo stato blocked del record G3-2-001.",
+        "context_relation:{\"description\": \"Pagina istituzionale GSE correlata al Conto Termico 3.0 e alla modulistica; non è registrata come locator del PDF locale e non prova la sua vigenza o il suo riuso.\", \"related_source_record_id\": \"G3-2-001\", \"relationship\": \"institutional_context_only\"}"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-001",
+      "record_kind": "source",
+      "title": "The Nicomachean Ethics",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/8438",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-002",
+      "record_kind": "source",
+      "title": "Calculus Made Easy",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://archive.org/details/in.ernet.dli.2015.94125",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-003",
+      "record_kind": "source",
+      "title": "Discourse on the Method",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/59",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-004",
+      "record_kind": "source",
+      "title": "Relativity: The Special and General Theory",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/30155",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-005",
+      "record_kind": "source",
+      "title": "The Elements of Euclid",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://archive.org/details/elementsofeuclid00eucl_0",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-006",
+      "record_kind": "source",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/201",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-007",
+      "record_kind": "source",
+      "title": "The Critique of Pure Reason",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/4280",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-008",
+      "record_kind": "source",
+      "title": "Elements of Chemistry",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/30775",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-009",
+      "record_kind": "source",
+      "title": "Meditations",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/2680",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-010",
+      "record_kind": "source",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/28233",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-011",
+      "record_kind": "source",
+      "title": "On the Origin of Species",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/1228",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-012",
+      "record_kind": "source",
+      "title": "The Republic",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/1497",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-013",
+      "record_kind": "source",
+      "title": "The Problems of Philosophy",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://www.gutenberg.org/ebooks/5827",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-014",
+      "record_kind": "source",
+      "title": "Tractatus Logico-Philosophicus",
+      "entity": null,
+      "source_kind": "public_domain_work",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "url": {
+        "status": "declared",
+        "value": "https://archive.org/details/tractatuslogicop1971witt",
+        "basis": "locator.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain",
+        "basis_path": "Fondamenti_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=GUTENBERG-CLASSICI]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "manifest_metadata_only_flag_not_declared",
+        "manifest_id_not_declared_lot_id_used_as_reference"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_license_terms",
+        "not_checked:independent_legal_public_domain_status",
+        "limitation:La licenza è riportata come dichiarazione osservata nei file locali e non come parere giuridico indipendente.",
+        "limitation:Il record non contiene il testo della fonte né una validazione di accuratezza o completezza.",
+        "limitation:L'anno è il metadato locale della pubblicazione/opera, non una revisione del file raw."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "BLOCKER-001",
+      "record_kind": "blocker",
+      "title": "GSE Conto Termico 3.0 PDF locale",
+      "entity": null,
+      "source_kind": null,
+      "local_path": null,
+      "url": {
+        "status": "not_declared",
+        "value": null,
+        "basis": null
+      },
+      "license": {
+        "status": "not_declared",
+        "label": null,
+        "basis_path": null,
+        "basis_selector": null
+      },
+      "proof_state": "blocked",
+      "hash": null,
+      "residual_codes": [
+        "exact_url_not_declared",
+        "license_or_reuse_terms_not_declared",
+        "blocked_until_missing_metadata_or_evidence_is_supplied"
+      ],
+      "residuals": [
+        "blocker_reason:Il PDF GSE già registrato non ha un URL esatto locale per quel file e non ha termini di riuso dichiarati nei metadati osservati; non viene promosso in G5.",
+        "blocker_evidence:UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+        "blocker_evidence:record=G3-2-001",
+        "blocker_evidence:verification_status.state=blocked"
+      ],
+      "blocker": {
+        "reason": "Il PDF GSE già registrato non ha un URL esatto locale per quel file e non ha termini di riuso dichiarati nei metadati osservati; non viene promosso in G5.",
+        "evidence": [
+          "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+          "record=G3-2-001",
+          "verification_status.state=blocked"
+        ]
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "G5-001",
+      "record_kind": "source",
+      "title": "29 CFR Part 1926 — Safety and Health Regulations for Construction",
+      "entity": "U.S. Department of Labor / OSHA",
+      "source_kind": "primary_official",
+      "local_path": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml",
+      "url": {
+        "status": "declared",
+        "value": "https://www.ecfr.gov/current/title-29/part-1926",
+        "basis": "source.url"
+      },
+      "license": {
+        "status": "declared",
+        "label": "Public domain (regolamento Governo federale USA)",
+        "basis_path": "Edilizia_Pack/licenze_audit.json",
+        "basis_selector": "fonti[id=OSHA-1926]"
+      },
+      "proof_state": "observed_local",
+      "hash": {
+        "algorithm": "SHA-256",
+        "value": "EB9BA469FA297F97A7FA34B40D317179F68B9036DF3F19DB42FC6C2B19777D52"
+      },
+      "residual_codes": [
+        "external_url_availability_not_checked",
+        "independent_license_clearance_not_checked",
+        "current_version_or_vigency_not_checked",
+        "content_or_legal_accuracy_not_checked"
+      ],
+      "residuals": [
+        "not_checked:external_url_availability",
+        "not_checked:current_content_as_of_observed_at",
+        "not_checked:independent_legal_clearance",
+        "not_checked:current_regulatory_applicability",
+        "not_checked:technical_accuracy_or_completeness",
+        "limitation:Il locator è verificato localmente nei registri, ma la disponibilità esterna e il contenuto corrente della pagina non sono stati validati in questo manifest.",
+        "limitation:La licenza è una dichiarazione osservata nel registro locale; non equivale a parere legale o a verifica indipendente dei diritti su eventuali trasformazioni.",
+        "limitation:Il record non contiene testo XML, sezioni regolamentari, interpretazioni, valori tecnici o risposte d'esame."
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "G5-CONTEXT-001",
+      "record_kind": "context",
+      "title": null,
+      "entity": null,
+      "source_kind": null,
+      "local_path": null,
+      "url": {
+        "status": "declared",
+        "value": "https://www.ecfr.gov/current/title-29/part-1926",
+        "basis": "url"
+      },
+      "license": {
+        "status": "not_declared",
+        "label": null,
+        "basis_path": null,
+        "basis_selector": null
+      },
+      "proof_state": "context_only",
+      "hash": null,
+      "residual_codes": [
+        "license_or_reuse_terms_not_declared",
+        "context_does_not_prove_source_vigency_or_reuse"
+      ],
+      "residuals": []
+    }
+  ],
+  "alias_groups": [
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "hash_sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "hash_sha256": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "hash_sha256": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "hash_sha256": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "hash_sha256": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "hash_sha256": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "hash_sha256": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "hash_sha256": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "hash_sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "hash_sha256": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "hash_sha256": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "hash_sha256": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "hash_sha256": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    },
+    {
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "hash_sha256": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "representation_count": 2,
+      "residual_code": "cross_manifest_alias_review_required"
+    }
+  ]
+}
