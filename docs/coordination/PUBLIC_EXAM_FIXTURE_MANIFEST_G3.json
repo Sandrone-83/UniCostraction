@@ -1,0 +1,300 @@
+{
+  "manifest_version": 1,
+  "algorithm": "sha256",
+  "scope": "UNIVERSITA_EDILIZIA/ESAMI/*/domande.md",
+  "file_count": 73,
+  "files": [
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/ACUSTICA/domande.md",
+      "sha256": "62adc576fa153ad830c81833251d2e184e232bb022e5d9aafc927a1745265a30"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/AEROPORTI/domande.md",
+      "sha256": "e846d9e57b47205efc3cce884f83127bb9b7153da238ef60e82a372062b6751b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/ARCHITETTURA/domande.md",
+      "sha256": "12b57ee32cc7ad7d1ff2e1268bbdf1fb8eb17253ed2965f51be8d4eaf6b7cb63"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/ASCENSORI/domande.md",
+      "sha256": "6347bd6ae9bc0e8abdc1d9cfee6ad1271d36aa7ce0e220ea78fde04b42a7613a"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/BONIFICA_SITI/domande.md",
+      "sha256": "96226facf8abfdf44dc118201c3dfa440522b82c6e6370977ab6cfdb09448c4a"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/CAD_BIM/domande.md",
+      "sha256": "b46bf142c338a524c39702a29da1da0209c17480e5ef8629c678bbf480295848"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/CAPOLAVORI/domande.md",
+      "sha256": "002ed414e6b769a7c3db073b4f7890423ec01206e3c795004f8de6de726bbcbd"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md",
+      "sha256": "1f50f4ca422e85bf784568dff71303bb6eb48dbfa01e05f945e90329c4b41b80"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/CARPENTERIA/domande.md",
+      "sha256": "f2ea1f2051a779a94f1c1d9bf0f0b7648c6f872cf603a4fa67b619c2dae64ea8"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/CONTABILITA_APPALTI/domande.md",
+      "sha256": "9aabd6ae7722ad058e3967f815e44aee302f86c70f3f96343298ca8b1ea6f77e"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_LEGNO/domande.md",
+      "sha256": "d265c55b1de3cb3ffec951f228b11945514594ae14a2529ba310b66f98289f2b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_SPECIALI/domande.md",
+      "sha256": "a3e15199000d2d415c237f9583bb96d3a30da4a1b65c1e0b78c3ada5f36be18b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DATA_CENTER/domande.md",
+      "sha256": "a0f2b10fdc8f5d6a8813f36c425b2b7bdec0080a4cbe549eb90c47fa828e88c9"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md",
+      "sha256": "a1474dcd3679b1d8c49815159419c532cb3c10eb07579b1667a3e9511b666af6"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DIGHE_IDRAULICA/domande.md",
+      "sha256": "b00d1c0c24b5ddd77c6598408f63caaf6f7d48e44a6523a6efad9749f3de9e7c"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_FV_EOLICO/domande.md",
+      "sha256": "e8f29dde83d7d66bc4bee98186b71733712ea7c6d1f24fc4fd6833c44418eab2"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md",
+      "sha256": "e63603fde58dc62347b7a09870b5667fc1a401305bb32dabe146bf74799d186a"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DISEGNO_TECNICO/domande.md",
+      "sha256": "6c09ee84a681a024dd18cd9945694c04fd6e4d446e8dad598b8b92724bef01b9"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/DOMOTICA/domande.md",
+      "sha256": "fa23e3311890e42e4057c2bb0a9caa2480d4a9c18d9bf4868f4476e3a01e085d"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_AGRICOLA/domande.md",
+      "sha256": "556935e9806756dc5c19892fb5d22fdf35279e5c087198918494dc7c75a9b3c7"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_CIRCOLARE_LCA/domande.md",
+      "sha256": "22cfce7584c4d74429d296cd18e510e9188e9ed0508e27d3e1d1e3460ac667be"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_INDUSTRIALE/domande.md",
+      "sha256": "f85be975d31d7be37be6a28d7d48237f9e0dcfd27af33cd7f45c0f70ebe178ae"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_SCOLASTICA/domande.md",
+      "sha256": "ec47a01f9bd35e0a6e6e7c4f8551166acb82d8cb16f94adccbf776556c73aaff"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/EMERGENZE/domande.md",
+      "sha256": "aab0791377201edaf11006a330aed439cc48951c1909eab967a5e5a67a520af1"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md",
+      "sha256": "6b4cd18e7335f71ba0165ad1d9615e1e1fccc7d2d784ad18988a4fb9d680669a"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/FACILITY_MANAGEMENT/domande.md",
+      "sha256": "1073a495d2b1fba1964fad59e1d3e33dcb4904c52ffe36165fa58ab4da6a462f"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/FERROVIE/domande.md",
+      "sha256": "8b3b7c607b4f2ad1a1470b08b1b88456edc2a86ae18a9a8aacf85d3345cc8751"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/FISCO_IMPRESA_EDILE/domande.md",
+      "sha256": "360c985a18e3dbc42889d1890facb7f34fc1c3302a69adec8b6e9b6074bf993f"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md",
+      "sha256": "71d7ebd2817dd93affa4fef7bbde89df6785f1d0a4657d98db021e0cb6181706"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_STRUTTURE/domande.md",
+      "sha256": "d4780be2c5c0847ae4e00956ce7ed97bba8255da5a14f154c8c0ea55fbf5e876"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md",
+      "sha256": "88779c8e2b862e67cfdb8fb0c3784a2429b3e4f63bf71a49b59ee0565cb425ea"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/GEOMETRA_ESTIMO/domande.md",
+      "sha256": "f2a2e29177d200e487b6fcc1c2833fcb6af14bce77f460e64300a068909ef150"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/GEOTECNICA/domande.md",
+      "sha256": "89769bc408675e22b1fb3c2eacb1efa9d1ef20534bf0523ddb9ea535615014ac"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/GESTIONE_CONDOMINIO/domande.md",
+      "sha256": "7c8a26f52ec3ff1731733a831685f84ddc70e20df1352a109e7c09e289d94bdb"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/HOTEL/domande.md",
+      "sha256": "ced292f8212cc39d44cca6af1cf2c95d3e729d4d3da1f493b3024a6921414e14"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/ILLUMINAZIONE/domande.md",
+      "sha256": "ecbf760e8154dba225886582ee0289d1b59bafef22c340cdc1db463803997625"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_COMPLETA/domande.md",
+      "sha256": "7050d2ab2ff059c6e27b5925b153a9b7850aab1d52a83e6eca008a8a1bf4eb4b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md",
+      "sha256": "e03caa8af20dbc4ba76b7cdfa4d089c0f505c137921d71458c1d5aa3442a3590"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_SPORTIVI/domande.md",
+      "sha256": "0e2a41a019f49a37d58d8d273f47b1cc182a0dd70d50649a0a59b3c2bbdd5a68"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md",
+      "sha256": "251f12cb9352c8705a927b313e3f2f659875f1dd706111b0321b02888f6d3e43"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/INGEGNERIA_CIVILE/domande.md",
+      "sha256": "86ce944352df4ef2c42cb5bcf4d5b176edc10c65159ad1ba7e3f604faeb5620b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/INTERIOR_TECNICO/domande.md",
+      "sha256": "303acd93f010f79a33dda6820396314e8140cc26f9c53d68192932878a3dd8f3"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md",
+      "sha256": "e4f4520f9e9306902dc2c97625322f08950e59a8a55cf3e38063185fa0ccbc3f"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MACCHINE_TERMICHE/domande.md",
+      "sha256": "d92217c9655ec57470da244e02e01bc008a5777f99780828d34d364f96f194fa"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MASTER_DESIGN/domande.md",
+      "sha256": "fa1c90f74977d976f418153b997cee3a8576594c0302e040a596708d22919555"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md",
+      "sha256": "f4bbaaf46079374e981cc656e81748d0a264bffc57a2fa614ec0988f6bb95f2d"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MATEMATICA/domande.md",
+      "sha256": "cef22e121b8e6c47d894c7a782c8219c7bd35f9022991d8cdfdbaec009a5b2bb"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md",
+      "sha256": "b2437654343ed576de4e7c98eda63cb0148116c4ab9b78412342bf4c9879ee92"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_COMPONENTI/domande.md",
+      "sha256": "4d36c340e74bf4752d412240d01b018c79a23851b49aa344c10a284e318033be"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_FUTURO/domande.md",
+      "sha256": "99060e614c8ac0bc817f3bdf06956320e088e8117c7d25b94184a20d628a0cf1"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/METODI_COSTRUTTIVI/domande.md",
+      "sha256": "d67de03687daebbb1ec1ed67bd0288e76b33425007e318130e88f932085917f6"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/MURATURE_INTONACI/domande.md",
+      "sha256": "27b9e104a0a65f7aa1351af0af3661ef4a5035d95755bf15a38c22d6f99f1ce0"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/OSPEDALI/domande.md",
+      "sha256": "1f33b2b7ef23067301b4272312d950d0c9e8c7a90516cadd15d34a12ca8d691f"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/PATOLOGIE_DIAGNOSTICA/domande.md",
+      "sha256": "e1c2f70dff873f1225d0a3eb261e400d48e945d57bcf30b51541f362c5906174"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/PERIZIE_STIME/domande.md",
+      "sha256": "1aeea6096054e4fcf67d91d32954ab1274fb21930eb6302399bc16414c4cd3cc"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/PIETRE_NATURALI/domande.md",
+      "sha256": "67a4a7ae80e6a4b64063ac98ce44cdca00501b9ed9eb6818627c0ab1d0621cb9"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/PISCINE/domande.md",
+      "sha256": "1888e45580477cfe2871639e1f72ea9b26ca150c82deaf6e8b6aade7b7c61913"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/PORTI_MARITTIMI/domande.md",
+      "sha256": "bbcd0c35f27d4ccc62bb82e93c881ae7b3ab3436ebdbf30ade896788cae04652"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/POSA_IN_OPERA/domande.md",
+      "sha256": "4ee63bc8b16c75e84dd995cb8757a6346bcf605fd5c3069173f4f7fda407ab25"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/PREFABBRICAZIONE/domande.md",
+      "sha256": "0fcb2ddfab424811b11a4141f3930b861367b4efd52256b151bf9e7fa54eaa5e"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/REAL_ESTATE/domande.md",
+      "sha256": "cfafa51cf407737dfc0b63f6431271ebc5999bef862faab9fe97b6a18124c635"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md",
+      "sha256": "93da21aa775676a5603e33a89486dfeb18a622d5fd9933174510bb6a9ca2ecf6"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/RINNOVABILI_IDRO/domande.md",
+      "sha256": "ff64cdea63457e4bf74e6ee2f3250c954172d0786eed2f08f278319de2ba1a1b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/RISANAMENTO/domande.md",
+      "sha256": "bd6f8e23656f1fc045cbdfbea73677637e6942ff0f0e6d4717944531cb43f574"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/ROBOTICA/domande.md",
+      "sha256": "d03558413fb621d5402f41b9eb859227755e6c7baa812000af2432769d874c6b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md",
+      "sha256": "23538a4a642c9320177db080c6998fb42acfc5d100522061f2f9f0e1c6ce2b18"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_ANTINCENDIO/domande.md",
+      "sha256": "8338491729bec115706197d0bd5c8a2ec3cda91754a53ce5e1ce48c0a2108b2b"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_CANTIERE/domande.md",
+      "sha256": "c1dac9c3c2bb17ca463094729153e9fb57b5cdf0427aaf4e38d4454b9bfee9c1"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/SOLLEVAMENTO/domande.md",
+      "sha256": "b137996baf3486e5e5a1fcb92d6bb51b125f2ed4c7ee460d0059156496834ca2"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE/domande.md",
+      "sha256": "cd86b25a65648f06749319341190f0d9d7a2db99ec943808c567614270104c1e"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/TETTI_COPERTURE/domande.md",
+      "sha256": "e5bbe9cc3e6f0af6699abf5cf539fee26a83a6da752ef7183e6cc3d6367e9ff4"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/URBANISTICA/domande.md",
+      "sha256": "b63181e6362b238e65bdcde62bd82929db82bbae53220aad84cc0494aeb7a46f"
+    },
+    {
+      "path": "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md",
+      "sha256": "09397ed7da3f7a9adaf2659a2bd218e48c6efaab69c6f7c3ae601a5884cc4414"
+    }
+  ]
+}
