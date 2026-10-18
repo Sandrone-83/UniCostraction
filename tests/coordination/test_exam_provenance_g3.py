@@ -32,6 +32,7 @@ EXPECTED_MANIFEST_KEYS = {
     "scope",
     "file_count",
     "files",
+    "publication_contract",
 }
 EXPECTED_ENTRY_KEYS = {"path", "sha256"}
 
@@ -82,6 +83,13 @@ class ExamProvenanceG3Tests(unittest.TestCase):
             self.assertEqual(EXPECTED_ENTRY_KEYS, set(entry))
             self.assertRegex(entry["path"], r"^UNIVERSITA_EDILIZIA/ESAMI/.+/domande\.md$")
             self.assertRegex(entry["sha256"], r"^[0-9a-f]{64}$")
+
+        contract = manifest["publication_contract"]
+        self.assertEqual("blocked", contract["state"])
+        self.assertEqual({"pending", "blocked"}, set(contract["allowed_states"]))
+        self.assertTrue(contract["limitations"])
+        self.assertEqual("separate", contract["answer_key_separation"]["status"])
+        self.assertFalse(contract["answer_key_separation"]["public"])
 
     def test_manifest_matches_public_exam_checkout(self) -> None:
         """Every public exam path and byte hash matches the checked-out fixture."""

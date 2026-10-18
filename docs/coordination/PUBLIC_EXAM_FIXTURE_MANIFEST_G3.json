@@ -3,6 +3,22 @@
   "algorithm": "sha256",
   "scope": "UNIVERSITA_EDILIZIA/ESAMI/*/domande.md",
   "file_count": 73,
+  "publication_contract": {
+    "state": "blocked",
+    "allowed_states": [
+      "pending",
+      "blocked"
+    ],
+    "limitations": [
+      "Structural publication QA only; it does not establish educational, factual, normative, legal, or professional correctness.",
+      "The manifest does not inspect free text, images, binary assets, or semantic answer leakage."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false,
+      "note": "The answer key is outside the public publication material."
+    }
+  },
   "files": [
     {
       "path": "UNIVERSITA_EDILIZIA/ESAMI/ACUSTICA/domande.md",

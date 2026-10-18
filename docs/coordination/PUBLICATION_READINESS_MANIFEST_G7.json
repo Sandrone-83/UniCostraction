@@ -1,0 +1,31 @@
+{
+  "manifest_version": 1,
+  "publication_contract": {
+    "state": "blocked",
+    "allowed_states": [
+      "pending",
+      "blocked"
+    ],
+    "limitations": [
+      "Structural publication QA only; it does not establish educational, factual, normative, legal, or professional correctness.",
+      "The manifest does not inspect free text, images, binary assets, or semantic answer leakage."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false,
+      "note": "The answer key is outside the public publication material."
+    }
+  },
+  "artifacts": [
+    {
+      "path": "docs/coordination/UNI_PUBLICATION_READINESS_G7.md",
+      "kind": "readiness_remediation_report",
+      "status": "blocked"
+    },
+    {
+      "path": "docs/coordination/PUBLIC_EXAM_FIXTURE_MANIFEST_G3.json",
+      "kind": "public_manifest",
+      "status": "blocked"
+    }
+  ]
+}
