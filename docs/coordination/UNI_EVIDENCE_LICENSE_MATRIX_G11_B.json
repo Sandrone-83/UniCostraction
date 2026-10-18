@@ -1,0 +1,102 @@
+{
+  "$schema": "./UNI_EVIDENCE_LICENSE_MATRIX_G11_B_SCHEMA.json",
+  "schema_version": "G11-B-evidence-license-matrix",
+  "matrix_id": "G11-B-evidence-license",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "scope": {
+    "input_manifests": [
+      "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json"
+    ],
+    "record_scope": "Ogni elemento source_records dei manifest G5 e G10 presenti nel checkout.",
+    "excluded_payloads": [
+      "testo XML/HTML/PDF e altri payload delle fonti",
+      "schede, domande, risposte e soluzioni d'esame",
+      "record normalizzati con chiave records che non sono source_records"
+    ],
+    "verification_policy": "Questa matrice non esegue richieste live: lo stato massimo è observed_local; le lacune restano blocked.",
+    "claim_policy": "Nessun record della matrice è claim-ready; la Direttiva (UE) 2024/1275 resta metadata-only."
+  },
+  "summary": {
+    "record_count": 2,
+    "claim_ready_count": 0,
+    "by_locator_status": {
+      "observed_local": 2,
+      "blocked": 0
+    },
+    "by_official_context_status": {
+      "observed_local": 2,
+      "blocked": 0
+    },
+    "by_license_status": {
+      "observed_local": 1,
+      "blocked": 1
+    },
+    "by_evidence_status": {
+      "observed_local": 1,
+      "blocked": 1
+    },
+    "blocker_count": 2
+  },
+  "rows": [
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json#G10-B-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json",
+      "manifest_id": "G10-B-EU-EPBD-2024-1275",
+      "source_record_id": "G10-B-001",
+      "source_kind": "primary_official",
+      "title": "Direttiva (UE) 2024/1275 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sulla prestazione energetica nell'edilizia (rifusione)",
+      "locator_status": "observed_local",
+      "official_context_status": "observed_local",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "verification_date": "2026-10-18",
+      "claim_ready": false,
+      "blocker": {
+        "state": "blocked",
+        "codes": [
+          "live_locator_recheck_not_performed",
+          "source_specific_license_not_established",
+          "official_context_is_not_source_license",
+          "claim_ready_not_allowed"
+        ],
+        "reason": "Il locator e il contesto EUR-Lex sono registrati come metadati osservati localmente; non è stata stabilita una licenza specifica per l'atto e il record non è claim-ready.",
+        "evidence_refs": [
+          "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita",
+          "https://eur-lex.europa.eu/content/help/data-reuse/reuse-contents-eurlex-details.html?locale=en",
+          "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011D0833"
+        ],
+        "live_verification": false
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "source_record_id": "G5-001",
+      "source_kind": "primary_official",
+      "title": "29 CFR Part 1926 — Safety and Health Regulations for Construction",
+      "locator_status": "observed_local",
+      "official_context_status": "observed_local",
+      "license_status": "observed_local",
+      "evidence_status": "observed_local",
+      "verification_date": "2026-10-18",
+      "claim_ready": false,
+      "blocker": {
+        "state": "blocked",
+        "codes": [
+          "live_locator_not_checked",
+          "current_license_terms_not_checked",
+          "independent_legal_clearance_not_checked",
+          "current_content_or_regulatory_status_not_checked"
+        ],
+        "reason": "Il record è supportato da osservazioni locali (file, registri, hash e locator), ma non da una verifica live dell'URL, dei termini correnti o della clearance legale indipendente.",
+        "evidence_refs": [
+          "https://www.ecfr.gov/current/title-29/part-1926"
+        ],
+        "live_verification": false
+      }
+    }
+  ]
+}

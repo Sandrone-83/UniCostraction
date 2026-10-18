@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_EVIDENCE_LICENSE_MATRIX_G11_B_SCHEMA.json",
+  "title": "UniCostraction G11-B deterministic evidence and licence matrix",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "matrix_id",
+    "metadata_only",
+    "observed_at",
+    "scope",
+    "summary",
+    "rows"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_EVIDENCE_LICENSE_MATRIX_G11_B_SCHEMA.json"},
+    "schema_version": {"const": "G11-B-evidence-license-matrix"},
+    "matrix_id": {"const": "G11-B-evidence-license"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["input_manifests", "record_scope", "excluded_payloads", "verification_policy", "claim_policy"],
+      "properties": {
+        "input_manifests": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "record_scope": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "verification_policy": {"type": "string", "minLength": 1},
+        "claim_policy": {"type": "string", "minLength": 1}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["record_count", "claim_ready_count", "by_locator_status", "by_official_context_status", "by_license_status", "by_evidence_status", "blocker_count"],
+      "properties": {
+        "record_count": {"type": "integer", "minimum": 0},
+        "claim_ready_count": {"const": 0},
+        "by_locator_status": {"$ref": "#/$defs/status_counts"},
+        "by_official_context_status": {"$ref": "#/$defs/status_counts"},
+        "by_license_status": {"$ref": "#/$defs/status_counts"},
+        "by_evidence_status": {"$ref": "#/$defs/status_counts"},
+        "blocker_count": {"type": "integer", "minimum": 0}
+      }
+    },
+    "rows": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/row"}
+    }
+  },
+  "$defs": {
+    "status_counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["observed_local", "blocked"],
+      "properties": {
+        "observed_local": {"type": "integer", "minimum": 0},
+        "blocked": {"type": "integer", "minimum": 0}
+      }
+    },
+    "row": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["record_key", "manifest_path", "manifest_id", "source_record_id", "source_kind", "title", "locator_status", "official_context_status", "license_status", "evidence_status", "verification_date", "claim_ready", "blocker"],
+      "properties": {
+        "record_key": {"type": "string", "pattern": "^.+#[^#]+$"},
+        "manifest_path": {"type": "string", "minLength": 1},
+        "manifest_id": {"type": "string", "minLength": 1},
+        "source_record_id": {"type": "string", "minLength": 1},
+        "source_kind": {"type": "string", "minLength": 1},
+        "title": {"type": "string", "minLength": 1},
+        "locator_status": {"enum": ["observed_local", "blocked"]},
+        "official_context_status": {"enum": ["observed_local", "blocked"]},
+        "license_status": {"enum": ["observed_local", "blocked"]},
+        "evidence_status": {"enum": ["observed_local", "blocked"]},
+        "verification_date": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+        "claim_ready": {"const": false},
+        "blocker": {"$ref": "#/$defs/blocker"}
+      }
+    },
+    "blocker": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state", "codes", "reason", "evidence_refs", "live_verification"],
+      "properties": {
+        "state": {"const": "blocked"},
+        "codes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "reason": {"type": "string", "minLength": 1},
+        "evidence_refs": {"type": "array", "minItems": 1, "items": {"type": "string", "format": "uri"}},
+        "live_verification": {"const": false}
+      }
+    }
+  }
+}
