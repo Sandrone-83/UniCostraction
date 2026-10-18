@@ -1,0 +1,3354 @@
+{
+  "schema_version": "g12a.v1",
+  "tool": "tools/uni_cluster_review_g12_a.py",
+  "input": {
+    "path": "docs/coordination/UNI_REDUNDANCY_PRIORITY_G11_A.json",
+    "schema_version": "g11a.v1",
+    "component_count": 85,
+    "component_ids_sha256": "b5467541d289c3773aca6ab982e7604459203be2f54ed93ecd9601f7ce47d234",
+    "report_sha256": "eb4342042a45dd2645012fed073b43535ed254bd746a55380df6200ac40101e6"
+  },
+  "scope": {
+    "decision_level": "connected_component",
+    "initial_decision": null,
+    "allowed_decisions": [
+      "distinct",
+      "merge_candidate",
+      "reject_candidate",
+      "needs_source_review"
+    ],
+    "human_review_required": true,
+    "answers_read": false,
+    "didactic_content_copied": false,
+    "didactic_content_modified": false,
+    "automatic_card_modification": false,
+    "automatic_exam_modification": false,
+    "automatic_merge_or_reject": false,
+    "files_deleted": false,
+    "source_of_truth": "G11 priority queue component metadata"
+  },
+  "review_policy": {
+    "evidence_ref_required_for_non_null_decision": true,
+    "reviewer_required": true,
+    "rationale_required": true,
+    "null_initial_state_is_pending": true,
+    "decision_is_not_an_action": true
+  },
+  "coverage": {
+    "component_count": 85,
+    "pending_count": 85,
+    "decided_count": 0,
+    "all_decisions_null": true
+  },
+  "review_queue": [
+    {
+      "component_id": "component-0036",
+      "priority_rank": 1,
+      "priority_key": {
+        "collision_count": 78,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 13,
+        "source_group": "public_exams",
+        "component_id": "component-0036"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0174",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0202",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0335",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0339",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0549",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0557",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0633",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0695",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0719",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0826",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0871",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0917",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0921"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 78,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0025",
+      "priority_rank": 2,
+      "priority_key": {
+        "collision_count": 10,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 5,
+        "source_group": "public_exams",
+        "component_id": "component-0025"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0083",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0201",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0720",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0966",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0976"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 10,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0033",
+      "priority_rank": 3,
+      "priority_key": {
+        "collision_count": 10,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 5,
+        "source_group": "public_exams",
+        "component_id": "component-0033"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0142",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0468",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0681",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0828",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0977"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 10,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0001",
+      "priority_rank": 4,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0001"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md#question-0026",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md#question-0029",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md#question-0074",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md#question-0085"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0002",
+      "priority_rank": 5,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0002"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md#question-0008",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md#question-0063",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md#question-0096",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md#question-0111"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0004",
+      "priority_rank": 6,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0004"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0054",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0089",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0130",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0155"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0007",
+      "priority_rank": 7,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0007"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md#question-0027",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md#question-0105",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md#question-0117",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md#question-0152"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0011",
+      "priority_rank": 8,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0011"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0029",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0513",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0610",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0639"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0012",
+      "priority_rank": 9,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0012"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0036",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0241",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0540",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0912"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0022",
+      "priority_rank": 10,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0022"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0071",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0216",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0223",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0533"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0071",
+      "priority_rank": 11,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0071"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0003",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0028",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0070",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0084"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0072",
+      "priority_rank": 12,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0072"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0056",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0094",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0114",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md#question-0167"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0073",
+      "priority_rank": 13,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0073"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0025",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0046",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0050",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0102"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0074",
+      "priority_rank": 14,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0074"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0044",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0057",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0078",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md#question-0112"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0075",
+      "priority_rank": 15,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0075"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0003",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0122",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0125",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0149"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0076",
+      "priority_rank": 16,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0076"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0036",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0112",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0154",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md#question-0173"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0079",
+      "priority_rank": 17,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0079"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0023",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0088",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0134",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0201"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0080",
+      "priority_rank": 18,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0080"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0084",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0116",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0141",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0216"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0083",
+      "priority_rank": 19,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0083"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0001",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0008",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0047",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0143"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0084",
+      "priority_rank": 20,
+      "priority_key": {
+        "collision_count": 6,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0084"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0006",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0046",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0087",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0129"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 6,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0081",
+      "priority_rank": 21,
+      "priority_key": {
+        "collision_count": 5,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0081"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0132",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0140",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0142",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0217"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 5,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0082",
+      "priority_rank": 22,
+      "priority_key": {
+        "collision_count": 4,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 4,
+        "source_group": "public_exams",
+        "component_id": "component-0082"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md#question-0064",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md#question-0072",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md#question-0111",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md#question-0158"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 4,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0003",
+      "priority_rank": 23,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0003"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md#question-0085",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md#question-0096",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md#question-0161"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0005",
+      "priority_rank": 24,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0005"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0092",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0136",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md#question-0212"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0009",
+      "priority_rank": 25,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0009"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0002",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0127",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0279"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0010",
+      "priority_rank": 26,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0010"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0009",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0376",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0779"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0024",
+      "priority_rank": 27,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0024"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0081",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0782",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0939"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0028",
+      "priority_rank": 28,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0028"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0110",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0251",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0933"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0032",
+      "priority_rank": 29,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0032"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0139",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0246",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0382"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0035",
+      "priority_rank": 30,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0035"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0169",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0397",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0907"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0037",
+      "priority_rank": 31,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0037"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0175",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0395",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0852"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0038",
+      "priority_rank": 32,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0038"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0189",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0263",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0797"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0039",
+      "priority_rank": 33,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0039"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0192",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0307",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0978"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0043",
+      "priority_rank": 34,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0043"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0224",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0669",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0794"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0048",
+      "priority_rank": 35,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0048"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0304",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0524",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0525"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0051",
+      "priority_rank": 36,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0051"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0348",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0637",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0893"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0052",
+      "priority_rank": 37,
+      "priority_key": {
+        "collision_count": 3,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0052"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0385",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0445",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0971"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 3,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0050",
+      "priority_rank": 38,
+      "priority_key": {
+        "collision_count": 2,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 3,
+        "source_group": "public_exams",
+        "component_id": "component-0050"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0324",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0556",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0634"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 2,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0006",
+      "priority_rank": 39,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0006"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md#question-0049",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md#question-0157"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0008",
+      "priority_rank": 40,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0008"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md#question-0060",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md#question-0174"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0013",
+      "priority_rank": 41,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0013"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0038",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0922"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0014",
+      "priority_rank": 42,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0014"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0040",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0972"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0015",
+      "priority_rank": 43,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0015"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0044",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0515"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0016",
+      "priority_rank": 44,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0016"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0045",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0200"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0017",
+      "priority_rank": 45,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0017"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0050",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0272"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0018",
+      "priority_rank": 46,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0018"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0053",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0080"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0019",
+      "priority_rank": 47,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0019"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0056",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0076"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0020",
+      "priority_rank": 48,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0020"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0060",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0166"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0021",
+      "priority_rank": 49,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0021"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0065",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0144"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0023",
+      "priority_rank": 50,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0023"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0072",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0352"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0026",
+      "priority_rank": 51,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0026"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0094",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0108"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0027",
+      "priority_rank": 52,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0027"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0100",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0363"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0029",
+      "priority_rank": 53,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0029"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0113",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0875"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0030",
+      "priority_rank": 54,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0030"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0130",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0778"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0031",
+      "priority_rank": 55,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0031"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0136",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0788"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0034",
+      "priority_rank": 56,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0034"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0160",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0179"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0040",
+      "priority_rank": 57,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0040"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0205",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0469"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0041",
+      "priority_rank": 58,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0041"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0211",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0242"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0042",
+      "priority_rank": 59,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0042"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0217",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0530"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0044",
+      "priority_rank": 60,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0044"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0235",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0666"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0045",
+      "priority_rank": 61,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0045"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0260",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0303"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0046",
+      "priority_rank": 62,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0046"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0293",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0521"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0047",
+      "priority_rank": 63,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0047"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0295",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0884"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0049",
+      "priority_rank": 64,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0049"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0317",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0366"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0053",
+      "priority_rank": 65,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0053"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0413",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0668"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0054",
+      "priority_rank": 66,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0054"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0450",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0742"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0055",
+      "priority_rank": 67,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0055"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0467",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0623"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0056",
+      "priority_rank": 68,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0056"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0523",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0814"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0057",
+      "priority_rank": 69,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0057"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0550",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0990"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0058",
+      "priority_rank": 70,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0058"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0574",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0717"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0059",
+      "priority_rank": 71,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0059"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0584",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0819"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0060",
+      "priority_rank": 72,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0060"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0591",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0876"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0061",
+      "priority_rank": 73,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0061"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0652",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0692"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0062",
+      "priority_rank": 74,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0062"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0653",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0902"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0063",
+      "priority_rank": 75,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0063"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0663",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0705"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0064",
+      "priority_rank": 76,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0064"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0693",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0747"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0065",
+      "priority_rank": 77,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0065"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0702",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0827"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0066",
+      "priority_rank": 78,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0066"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0774",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0868"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0067",
+      "priority_rank": 79,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0067"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0811",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0914"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0068",
+      "priority_rank": 80,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0068"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0861",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0967"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0069",
+      "priority_rank": 81,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0069"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0867",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0943"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0070",
+      "priority_rank": 82,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0070"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0987",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md#question-0991"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0077",
+      "priority_rank": 83,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0077"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md#question-0213",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md#question-0622"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0078",
+      "priority_rank": 84,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0078"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0021",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md#question-0179"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    },
+    {
+      "component_id": "component-0085",
+      "priority_rank": 85,
+      "priority_key": {
+        "collision_count": 1,
+        "coverage_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "node_count": 2,
+        "source_group": "public_exams",
+        "component_id": "component-0085"
+      },
+      "source_group": "public_exams",
+      "unit_ids": [
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0018",
+        "exam:UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md#question-0044"
+      ],
+      "coverage": {
+        "source_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md"
+        ],
+        "pack_paths": [],
+        "exam_paths": [
+          "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md"
+        ],
+        "source_file_count": 1,
+        "pack_count": 0,
+        "exam_count": 1,
+        "coverage_count": 1
+      },
+      "collision_count": 1,
+      "review": {
+        "decision": null,
+        "evidence_ref": null,
+        "reviewer": null,
+        "rationale": null
+      }
+    }
+  ],
+  "boundaries": [
+    "The queue contains one human-review record per G11 connected component.",
+    "A component is a review unit, not proof of semantic, didactic, factual, normative or licensing equivalence.",
+    "Only the four declared decisions are allowed; null means pending and is the initial state.",
+    "A non-null decision requires a non-empty evidence_ref, reviewer and rationale.",
+    "No card or exam file may be modified, merged, rejected or deleted automatically by this contract.",
+    "The contract contains identifiers, metrics and provenance metadata only; it contains no exam answers or didactic bodies."
+  ]
+}

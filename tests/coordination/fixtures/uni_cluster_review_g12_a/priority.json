@@ -1,0 +1,57 @@
+{
+  "schema_version": "g11a.v1",
+  "results": {
+    "queue": [
+      {
+        "component_id": "component-0001",
+        "priority_rank": 1,
+        "priority_key": {
+          "collision_count": 2,
+          "coverage_count": 2,
+          "pack_count": 1,
+          "exam_count": 0,
+          "node_count": 2,
+          "source_group": "cards",
+          "component_id": "component-0001"
+        },
+        "source_group": "cards",
+        "unit_ids": ["card:PACK_A/schede/schede.jsonl#line-0001", "card:PACK_B/schede/schede.jsonl#line-0001"],
+        "coverage": {
+          "source_paths": ["PACK_A/schede/schede.jsonl", "PACK_B/schede/schede.jsonl"],
+          "pack_paths": ["PACK_A", "PACK_B"],
+          "exam_paths": [],
+          "source_file_count": 2,
+          "pack_count": 2,
+          "exam_count": 0,
+          "coverage_count": 2
+        },
+        "collision_count": 2
+      },
+      {
+        "component_id": "component-0002",
+        "priority_rank": 2,
+        "priority_key": {
+          "collision_count": 1,
+          "coverage_count": 2,
+          "pack_count": 0,
+          "exam_count": 1,
+          "node_count": 2,
+          "source_group": "public_exams",
+          "component_id": "component-0002"
+        },
+        "source_group": "public_exams",
+        "unit_ids": ["exam:ALPHA/domande.md#question-0001", "exam:BETA/domande.md#question-0001"],
+        "coverage": {
+          "source_paths": ["ALPHA/domande.md", "BETA/domande.md"],
+          "pack_paths": [],
+          "exam_paths": ["ALPHA/domande.md", "BETA/domande.md"],
+          "source_file_count": 2,
+          "pack_count": 0,
+          "exam_count": 2,
+          "coverage_count": 2
+        },
+        "collision_count": 1
+      }
+    ]
+  }
+}
