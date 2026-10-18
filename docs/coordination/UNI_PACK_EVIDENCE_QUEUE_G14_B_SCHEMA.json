@@ -1,0 +1,155 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_PACK_EVIDENCE_QUEUE_G14_B_SCHEMA.json",
+  "title": "UniCostraction G14-B metadata-only pack evidence queue",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "schema_version", "queue_id", "metadata_only", "observed_at", "source_commit", "source_audit", "scope", "summary", "items", "closure_checklist"],
+  "properties": {
+    "$schema": {"const": "./UNI_PACK_EVIDENCE_QUEUE_G14_B_SCHEMA.json"},
+    "schema_version": {"const": "G14-B-pack-evidence-queue"},
+    "queue_id": {"const": "G14-B-pack-evidence-queue"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "source_commit": {"const": "7bdaa0a33260fb5380f02f0a8b41ec6e625a1b44"},
+    "source_audit": {"$ref": "#/$defs/sourceAudit"},
+    "scope": {"$ref": "#/$defs/scope"},
+    "summary": {"$ref": "#/$defs/summary"},
+    "items": {"type": "array", "minItems": 70, "maxItems": 70, "items": {"$ref": "#/$defs/item"}},
+    "closure_checklist": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/closureCriterion"}}
+  },
+  "$defs": {
+    "sourceAudit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["audit_id", "report", "report_base_commit", "queue_source_commit"],
+      "properties": {
+        "audit_id": {"const": "G13-B-pack-provenance-coverage"},
+        "report": {"const": "docs/coordination/UNI_PACK_PROVENANCE_COVERAGE_G13_B.json"},
+        "report_base_commit": {"type": "string", "pattern": "^[0-9a-f]{40}$"},
+        "queue_source_commit": {"const": "7bdaa0a33260fb5380f02f0a8b41ec6e625a1b44"}
+      }
+    },
+    "separationPolicy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "interpretation", "context", "legal_clearance", "automatic_semantic_mapping"],
+      "properties": {
+        "source": {"type": "string", "minLength": 1},
+        "interpretation": {"type": "string", "minLength": 1},
+        "context": {"type": "string", "minLength": 1},
+        "legal_clearance": {"type": "string", "minLength": 1},
+        "automatic_semantic_mapping": {"const": "prohibited"}
+      }
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["input_report", "included_pack_count", "selection_rule", "matching_policy", "no_semantic_mapping", "excluded_payloads", "separation_policy"],
+      "properties": {
+        "input_report": {"const": "docs/coordination/UNI_PACK_PROVENANCE_COVERAGE_G13_B.json"},
+        "included_pack_count": {"const": 70},
+        "selection_rule": {"type": "string", "minLength": 1},
+        "matching_policy": {"type": "string", "minLength": 1},
+        "no_semantic_mapping": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "separation_policy": {"$ref": "#/$defs/separationPolicy"}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["item_count", "blocked_count", "closure_ready_count", "by_status", "by_blocker_code"],
+      "properties": {
+        "item_count": {"const": 70},
+        "blocked_count": {"const": 70},
+        "closure_ready_count": {"const": 0},
+        "by_status": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+        "by_blocker_code": {"type": "object", "minProperties": 1, "additionalProperties": {"type": "integer", "minimum": 0}}
+      }
+    },
+    "sourceRequirements": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_record_status", "evidence_required", "locator_required", "license_proof_required"],
+      "properties": {
+        "source_record_status": {"const": "missing_explicit_record"},
+        "evidence_required": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "locator_required": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "license_proof_required": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "interpretation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "human_review_required", "automatic_semantic_mapping_prohibited", "requirements"],
+      "properties": {
+        "status": {"const": "separate_and_pending"},
+        "human_review_required": {"const": true},
+        "automatic_semantic_mapping_prohibited": {"const": true},
+        "requirements": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "context": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "requirements"],
+      "properties": {
+        "status": {"const": "separate_and_pending"},
+        "requirements": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "legalClearance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "independent_review_required", "requirements"],
+      "properties": {
+        "status": {"const": "required"},
+        "independent_review_required": {"const": true},
+        "requirements": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "blocked": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state", "reason", "codes", "promotion_forbidden"],
+      "properties": {
+        "state": {"const": "blocked"},
+        "reason": {"type": "string", "minLength": 1},
+        "codes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "promotion_forbidden": {"const": true}
+      }
+    },
+    "closureCriterion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["criterion_id", "requirement", "status", "evidence_ref"],
+      "properties": {
+        "criterion_id": {"type": "string", "minLength": 1},
+        "requirement": {"type": "string", "minLength": 1},
+        "status": {"const": "pending"},
+        "evidence_ref": {"type": "null"}
+      }
+    },
+    "item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["queue_item_id", "pack_id", "pack_path", "course_yaml", "status", "source", "interpretation", "context", "legal_clearance", "blocked", "closure_criteria", "automatic_semantic_mapping_prohibited", "constraints"],
+      "properties": {
+        "queue_item_id": {"type": "string", "pattern": "^G14-B-.+_PACK$"},
+        "pack_id": {"type": "string", "pattern": "^.+_PACK$"},
+        "pack_path": {"type": "string", "pattern": "^UNIVERSITA_EDILIZIA/.+_PACK$"},
+        "course_yaml": {"type": "string", "pattern": "^UNIVERSITA_EDILIZIA/.+_PACK/COURSE\\.yaml$"},
+        "status": {"const": "blocked"},
+        "source": {"$ref": "#/$defs/sourceRequirements"},
+        "interpretation": {"$ref": "#/$defs/interpretation"},
+        "context": {"$ref": "#/$defs/context"},
+        "legal_clearance": {"$ref": "#/$defs/legalClearance"},
+        "blocked": {"$ref": "#/$defs/blocked"},
+        "closure_criteria": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/closureCriterion"}},
+        "automatic_semantic_mapping_prohibited": {"const": true},
+        "constraints": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    }
+  }
+}
