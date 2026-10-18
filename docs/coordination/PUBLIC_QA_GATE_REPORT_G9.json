@@ -1,0 +1,50 @@
+{
+  "report_version": 1,
+  "report_contract": {
+    "limitations": [
+      "Structural metadata validation only; it does not establish factual, educational, normative, legal, professional, or publication correctness.",
+      "The guard checks field names and data shapes; it does not inspect free text, images, binary assets, or semantically disguised answer material.",
+      "An evidence_ref is an auditable pointer shape, not proof that the referenced evidence is current, complete, authoritative, or correct."
+    ],
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "required_unresolved_states": [
+      "blocked",
+      "pending",
+      "open"
+    ],
+    "resolved_requires": [
+      "evidence_ref"
+    ]
+  },
+  "entries": [
+    {
+      "id": "placeholder-blocked",
+      "state": "blocked",
+      "evidence_ref": null,
+      "note": "placeholder"
+    },
+    {
+      "id": "placeholder-pending",
+      "state": "pending",
+      "evidence_ref": null,
+      "note": "placeholder"
+    },
+    {
+      "id": "placeholder-open",
+      "state": "open",
+      "evidence_ref": null,
+      "note": "placeholder"
+    },
+    {
+      "id": "placeholder-resolved",
+      "state": "resolved",
+      "evidence_ref": "placeholder",
+      "note": "placeholder"
+    }
+  ]
+}
