@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "generated_at": "2026-10-18",
   "skills": [
     {
@@ -132,6 +132,84 @@
         {"url": "https://www.w3.org/TR/webvtt1/", "authority": "W3C", "purpose": "formato WebVTT per sottotitoli e tracce", "rights_state": "official_open_source_or_open_standard_reference_verify_version"}
       ],
       "rights_state": "official_open_source_or_open_standard_reference_verify_version"
+    },
+    {
+      "id": "materials-construction-methods-prefab",
+      "path": "materials-construction-methods-prefab/SKILL.md",
+      "title": "Materiali, metodi costruttivi e prefabbricazione",
+      "domain": "materiali, sistemi costruttivi e prefabbricazione",
+      "scope": "Selezione, comparazione e controllo di materiali, metodi costruttivi e componenti prefabbricati fino alla posa e al collaudo documentale.",
+      "source_refs": [
+        {"url": "https://single-market-economy.ec.europa.eu/sectors/construction/construction-products-regulation-cpr_en", "authority": "European Commission", "purpose": "quadro europeo per prodotti da costruzione e prestazioni dichiarate", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://eur-lex.europa.eu/eli/reg/2011/305/oj", "authority": "EUR-Lex", "purpose": "Regolamento (UE) n. 305/2011 sui prodotti da costruzione", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81!vig=", "authority": "Normattiva", "purpose": "sicurezza delle lavorazioni e delle fasi di montaggio", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "mep-energy-systems",
+      "path": "mep-energy-systems/SKILL.md",
+      "title": "Impianti MEP e sistemi energetici",
+      "domain": "impianti meccanici, elettrici, idrici ed energia",
+      "scope": "Definizione, coordinamento e verifica documentale di impianti MEP, rinnovabili, automazione e prestazioni energetiche senza sostituire il progettista abilitato.",
+      "source_refs": [
+        {"url": "https://eur-lex.europa.eu/eli/dir/2024/1275/oj", "authority": "EUR-Lex", "purpose": "direttiva europea sulla prestazione energetica degli edifici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192!vig=", "authority": "Normattiva", "purpose": "quadro italiano della prestazione energetica degli edifici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gse.it/servizi-per-te/efficienza-energetica", "authority": "Gestore dei Servizi Energetici", "purpose": "schede e meccanismi ufficiali da verificare per incentivi e rendicontazione", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "environmental-resilience-lca-diagnostics",
+      "path": "environmental-resilience-lca-diagnostics/SKILL.md",
+      "title": "Resilienza ambientale, LCA, diagnostica e recupero",
+      "domain": "ambiente, ciclo di vita, patologie e recupero edilizio",
+      "scope": "Impostazione tracciabile di valutazioni LCA, analisi di rischio climatico, diagnosi del costruito e piani di recupero con evidenze e incertezze esplicite.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/37456.html", "authority": "ISO", "purpose": "principi e quadro per valutazioni del ciclo di vita", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://environment.ec.europa.eu/topics/circular-economy/levels_en", "authority": "European Commission", "purpose": "metodo europeo Level(s) per prestazioni e ciclo di vita degli edifici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152!vig=", "authority": "Normattiva", "purpose": "disciplina ambientale italiana, rifiuti e matrici ambientali", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
+    },
+    {
+      "id": "world-construction-history-1800-present",
+      "path": "world-construction-history-1800-present/SKILL.md",
+      "title": "Storia mondiale della costruzione dal 1800 a oggi",
+      "domain": "storia globale dell'architettura, dell'ingegneria e dell'edilizia",
+      "scope": "Ricerca e costruzione di percorsi comparativi sulla cultura costruttiva mondiale dal 1800 al presente, distinguendo fonti, periodi, territori e livelli di certezza.",
+      "source_refs": [
+        {"url": "https://www.loc.gov/collections/", "authority": "Library of Congress", "purpose": "collezioni primarie e cataloghi per fonti storiche e iconografiche", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.getty.edu/research/tools/vocabularies/", "authority": "Getty Research Institute", "purpose": "vocabolari e controllo terminologico per ricerca storico-artistica", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://whc.unesco.org/en/", "authority": "UNESCO World Heritage Centre", "purpose": "schede e contesto istituzionale per patrimonio costruito e territori", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-business-operations",
+      "path": "construction-business-operations/SKILL.md",
+      "title": "Impresa di costruzioni, imprenditorialità e operations",
+      "domain": "gestione d'impresa, commesse e operations edilizie",
+      "scope": "Pianificazione economica e operativa di imprese e commesse edilizie con controllo di costi, capacità, approvvigionamenti, cassa e indicatori.",
+      "source_refs": [
+        {"url": "https://www.istat.it/classificazioni/", "authority": "ISTAT", "purpose": "classificazioni economiche e codici di attività da verificare per periodo", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.agenziaentrate.gov.it/portale/", "authority": "Agenzia delle Entrate", "purpose": "adempimenti fiscali, fatturazione e regimi da verificare nel caso concreto", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.inail.it/portale/it.html", "authority": "INAIL", "purpose": "prevenzione, gestione del rischio e indicazioni istituzionali per il lavoro", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "contracts-compliance-legal-drafting",
+      "path": "contracts-compliance-legal-drafting/SKILL.md",
+      "title": "Contratti, compliance e drafting legale controllato",
+      "domain": "documenti contrattuali, conformità e controllo giuridico",
+      "scope": "Preparazione controllata di bozze, matrici di clausole, registri di conformità e comunicazioni contrattuali senza sostituire avvocato, notaio o organo autorizzato.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legge%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "Codice dei contratti pubblici quando il rapporto è pubblico", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262!vig=", "authority": "Normattiva", "purpose": "Codice civile per obbligazioni e contratti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/eli/reg/2014/910/oj", "authority": "EUR-Lex", "purpose": "identità digitale, firme e servizi fiduciari da verificare per territorio e versione", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_public_legal_text_verify_current_consolidation"
     }
   ],
   "rights_policy": "I file della tranche sono sintesi originali e non riproducono testo di terzi. Le URL sono riferimenti di autorità; non conferiscono licenza di redistribuzione dei testi, standard, manuali, marchi, dataset, immagini o media. Prima di pubblicare, addestrare, incorporare o consegnare materiale esterno verificare versione, termini, attribuzione, privacy, diritti d'autore e autorizzazione d'uso."
