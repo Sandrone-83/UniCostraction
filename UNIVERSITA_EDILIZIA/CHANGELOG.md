@@ -411,3 +411,21 @@ Righe aperte nel giro:
 - EPBD (UE) 2024/1275: recepimento nazionale e decreti attuativi sul GWP del ciclo di vita da verificare.
 - CER: i termini del contributo PNRR chiuso (30/11/2025, 30/6/2026, 31/8/2026) derivano da stampa tecnica concordante: riscontro su documento GSE/MASE primario alla prossima verifica.
 - Eredità committata in questo giro: audit sicurezza pre-tag v1.4 del run interrotto del 02/10/2026 (AUDIT_SICUREZZA_V1_4.md, audit_sicurezza_v1_4.py, fix_stale_sicurezza.py, voci enciclopedia e due domande d'esame risincronizzate). Le 326 segnalazioni «campo corto» dell'audit sono falsi positivi di soglia: nessuna azione sulle schede.
+
+## Giro Z — 2026-10-18, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente (correttivo CT 3.0, Reddito Energetico) con 1 correzione e 1 conferma; nuovo pack RETROFIT_NZEB_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| Z1 | Verifica senza correzione | Scheda «Il Conto Termico 3.0»: nota «decreto correttivo in itinere (superata la Conferenza Stato-Regioni a ottobre 2026)» | Confermata senza modifiche: il correttivo non è ancora pubblicato in GU; la convocazione della Conferenza Stato-Regioni sullo schema di decreto è stata protocollata il 14/10/2026 | edilizia.com (16/10/2026), bibus.acca.it (aggiornato 13/10/2026) — verifica web 18/10/2026 |
+| Z2 | Precisazione su fonte | Scheda «Il Reddito Energetico»: «quota Sud esaurita in giornata» | «fondi esauriti in pochi giorni con sportello aperto dal 13 al 23 maggio 2025»; data di verifica aggiornata al 18 ottobre 2026 (bando 2026 ancora non pubblicato: si attende il decreto di rifinanziamento MASE) | kilowattchiaro.it (stato al 6/7/2026: sportello 13-23 maggio 2025, esaurimento in dieci giorni), reonic.com (14/8/2026) — verifica web 18/10/2026 |
+| Z3 | Nuovo pack | — | RETROFIT_NZEB_PACK (12 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA): riqualificazione profonda, diagnosi strumentale, fabric first, pompe di calore su impianti esistenti, VMC, FV/accumulo/EV, condominio e contabilizzazione, combinato energia+sismica, cantiere abitato, M&V (IPMVP), economia, documentazione APE/Legge 10. Norme citate solo di consolidata certezza; incentivi rinviati alle schede del pack Energetica con regola di verifica annuale | Norme di consolidata certezza; nessun valore normativo inventato |
+| Z4 | Nuovo esame | — | ESAMI/RETROFIT_NZEB: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored) | build_esami_giro5.py |
+| Z5 | Validazione | — | Validazione globale: 72 pack, 975 schede, 74 esami; JSON e 11 chiavi OK su tutte le righe, 0 refusi, COURSE.yaml coerenti | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: il correttivo (schema protocollato 14/10/2026) va verificato sulla GU e sulle Regole Applicative GSE appena pubblicato.
+- Reddito Energetico: pubblicazione del decreto di rifinanziamento/bando 2026 da verificare sul portale GSE a ogni aggiornamento.
+- EPBD (UE) 2024/1275: recepimento nazionale e decreti attuativi (GWP ciclo di vita, predisposizione EV) da verificare.
+- CER: riscontro su documento GSE/MASE primario dei termini del contributo PNRR chiuso (30/11/2025) alla prossima verifica.

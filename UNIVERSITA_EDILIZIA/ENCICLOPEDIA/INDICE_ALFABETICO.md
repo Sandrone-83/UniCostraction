@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1125 voci enciclopediche tratte da 72 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1137 voci enciclopediche tratte da 73 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -383,6 +383,8 @@
   Come si divide un bene comune: dall'eredita al frazionamento edilizio.
 - **Docfa e il procedimento di accatastamento** — Docfa · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si registra/rettifica un immobile al catasto: il software Docfa e le pratiche.
+- **Documentazione e certificazione del retrofit: APE, relazione ex Legge 10, asseverazioni** — Documentazione · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Il retrofit produce un edificio nuovo nelle prestazioni: la documentazione e' cio' che lo certifica. APE ante e post, relazione tecnica di progetto, asseverazioni per gli incentivi e fascicolo di cantiere sono il pacchet…
 - **Domotica + fotovoltaico e accumulo** — FV integrato · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   L'impianto domotico come cervello del sistema energetico: consumi, produzione, accumulo, EV.
 - **Domotica assistiva e senior living** — Assistiva · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -463,6 +465,8 @@
   Diffusione sonora di emergenza: messaggi chiari che guidano l'uscita.
 
 ## F
+- **Fabric first: l'involucro prima di tutto** — Involucro · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Nel retrofit l'involucro e' il primo cantiere: ogni kWh di fabbisogno tagliato con isolamento, serramenti e tenuta all'aria riduce la taglia e i consumi di tutto cio' che verra' dopo. 'Fabric first' significa finanziare …
 - **Facciate continue e sistemi di rivestimento prefabbricati** — Facciate · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La facciata come sistema industrializzato: pannellature leggere, ventilate e continue.
 - **Ferrovie e linee ad alta velocità** — Ferrovie · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -497,6 +501,8 @@
   La formazione e' il pilastro della prevenzione in cantiere: il D.Lgs 81/08 prevede la formazione generale e specifica per ogni lavoratore (secondo i contenuti dell'Accordo Stato-Regioni), l'addestramento pratico sulle at…
 - **Fotogrammetria e laser scanner: il rilievo 3D moderno** — Fotogrammetria scanner · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il rilievo che produce nuvole di punti e modelli 3D fotorealistici.
+- **Fotovoltaico, accumulo e ricarica EV integrati nel retrofit** — Rinnovabili · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Il fotovoltaico in copertura chiude il bilancio del retrofit: alimenta la pompa di calore e la VMC con elettricita' autoprodotta, l'accumulo sposta l'autoconsumo verso la sera e la colonnina prepara l'edificio alla mobil…
 - **Fotovoltaico: stringhe, inverter e connessione** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Generazione elettrica da sole: il cuore della transizione energetica degli edifici.
 - **Funzioni e lettura dei grafici tecnici** — Funzioni e grafici · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -765,6 +771,8 @@
   Le formule di base dell'ingegneria sismica: quanto trema l'edificio.
 - **Il cantiere del legno: montaggio, sequenze, precisione** — Costruzione · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano prefabbricati (tagliati, forati, numerati), la gru li posa, le squadre avvitano le connessioni; il tempo si dimezza, il cantiere resta pulit…
+- **Il cantiere del retrofit in edificio abitato** — Cantiere · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  La maggior parte dei retrofit si esegue con le persone dentro casa: rumore, polvere, finestre aperte d'inverno, impianti spenti per ore. Organizzare il cantiere 'abitato' e' una disciplina a se' che decide la riuscita co…
 - **Il cantiere di risanamento e i rifiuti: classificazione, formulari e costi reali** — Rifiuti · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Ogni cantiere di risanamento produce tonnellate di rifiuti: mattoni, intonaci, coperture, e talvolta rifiuti speciali (amianto, piombo, idrocarburi). La gestione corretta è un obbligo di legge con formulari di identifica…
 - **Il capitolato di interior: documento contrattuale** — Capitolato interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -871,6 +879,8 @@
   Quanta energia produce un pannello: le formule della resa solare.
 - **Il fotovoltaico sul tetto: compatibilità strutturale, tenuta e orientamento** — Fotovoltaico su coperture · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Il tetto è la sede naturale del fotovoltaico ma l'impianto aggiunge carichi, forature e ombreggiamenti: la compatibilità va valutata prima sul tetto vero (età, struttura, orientamento, ombre) e poi sul pannello.
+- **Il generatore nel retrofit: pompe di calore su impianti esistenti** — Impianti · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Sostituire la caldaia con una pompa di calore e' il cuore impiantistico del retrofit, ma il successo dipende da una domanda tecnica precaria: a che temperatura di mandata puo' lavorare l'impianto esistente? Se i terminal…
 - **Il geometra/perito moderno: la professione ai tempi dell'AI** — Professione · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il ruolo del geometra nella filiera edilizia: cosa può fare, cosa deve sapere, come evolve.
 - **Il governo del territorio: principi costituzionali** — Principi · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -967,6 +977,8 @@
   Il Reddito Energetico nazionale (GSE, istituito dal D.M. MASE 8 agosto 2023, operativo dal maggio 2024) copre fino al 100% del costo di un impianto fotovoltaico da 2 a 6 kW per i nuclei con ISEE fino a 15.000 euro (30.00…
 - **Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sul regime forfettario di cui all'art. 1, commi da 54 a 89, della L. 190/2014, applicabile ai professionisti e imprenditori individuali, inclusi gli artigiani edili che operano come ditta individuale. Copre i requ…
+- **Il retrofit del condominio: delibere, riparti e impianto centralizzato** — Condominio · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Il condominio e' il terreno piu' difficile e piu' promettente del retrofit: parti comuni da isolare, centrale termica unica da elettrificare, decine di proprietari da convincere. La tecnica e' la stessa dell'unifamiliare…
 - **Il riciclo per filiera: acciaio, gesso, bitume, legno, calcestruzzo** — Materiali e filiere · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   Le filiere del riciclo edile hanno maturita' molto diverse: acciaio e metalli sono un ciclo chiuso consolidato, il gesso e la frazione lapidea del calcestruzzo sono a meta' strada, i misti e i compositi sono ancora un pr…
 - **Il rilievo con laser scanner e fotogrammetria** — Rilievo laser scanner · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -1135,6 +1147,8 @@
   Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenzionata (l'imprenditore costruisce infrastrutture e standard in cambio delle aree edificabili), piani di recupero (edilizia consolidata), pro…
 - **L'economia del legno: costi, tempi, mercato** — Economia · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
+- **L'economia del retrofit: costi, ritorni e accesso agli incentivi** — Economia · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Il retrofit profondo si vende con i numeri: costo per intervento, risparmio annuo atteso, tempo di ritorno e mappa degli incentivi cumulabili. Il tecnico che padroneggia il conto economico trasforma un preventivo in un p…
 - **L'economia della circolarita' in cantiere: conti, mercati e barriere** — Economia · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   L'edilizia circolare regge se i conti tornano: costi evitati di discarica e di acquisto, ricavi da materiali recuperati, punteggi in gara, valore dell'asset. Le barriere sono logistiche, documentali e di mercato: conosce…
 - **L'economia di un campo FV: CAPEX, OPEX, LCOE e l'esempio del MWp** — Economia di progetto · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -1265,6 +1279,8 @@
   La camera di degenza è la 'casa' del paziente per giorni o mesi: il progetto moderno privilegia le camere con servizi private o doppie (l'isolamento dell'infezione, la dignità), la vista verde (il contatto con la natura …
 - **La deumidificazione meccanica e la ventilazione controllata in edilizia umida** — Deumidificazione · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Quando l'edificio non può risanare alla radice (vincoli, costi, tempi) la deumidificazione meccanica gestisce il sintoma in modo scientifico: abbassare l'umidità dell'aria impedisce la condensa e ferma la muffa.
+- **La diagnosi del retrofit: audit energetico e rilievo strumentale** — Diagnosi · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Nessun retrofit serio parte senza diagnosi: audit energetico dei consumi reali, rilievo geometrico e stratigrafico dell'involucro, prove strumentali su tenuta all'aria e ponti termici. La diagnosi fissa la linea di base …
 - **La diagnosi dell'edificio esistente: rilievo, umidità, termografia** — Diagnosi · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Prima di curare bisogna capire: il rilievo dello stato di fatto, la mappatura dell'umidità con igrometro a contatto e carburo, la termografia con camera IR e la storia dell'edificio sono gli strumenti della diagnosi che …
 - **La diagnostica e il monitoraggio degli edifici gestiti: sensori, contabilizzazione ed energia** — Diagnostica e monitoraggio · corso: *Facility management e manutenzione programmata* (`FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK`)
@@ -1397,6 +1413,8 @@
   Come si ricostruiscono le case: contributi, ricostruzione agevolata e la filiera dei cantieri post-sisma.
 - **La ricostruzione pubblica: scuole, ospedali e opere strategiche** — Ricostruzione pubblica · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Il cantiere della ripresa pubblica: come si ricostruiscono le opere essenziali dopo il sisma.
+- **La riqualificazione energetica profonda: cos'e' e quando conviene** — Strategia · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Il retrofit profondo (deep renovation) e' l'intervento integrato su involucro, impianti e fonti rinnovabili che porta un edificio esistente vicino allo standard nZEB: non e' la somma di lavori separati ma un progetto uni…
 - **La rivelazione e l'allarme: rivelatori indirizzati e centrale di controllo** — Rivelazione · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   Sapere subito dove è il fuoco cambia tutto: i sistemi di rivelazione indirizzati dicono la posizione esatta dell'allarme alla centrale, ai soccorsi e al personale. La scelta del tipo di rivelatore (fumo, calore, fiamma, …
 - **La Sagrada Familia (1882-in costruzione): il cantiere eterno** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -1441,6 +1459,8 @@
   Come si valorizza oggi l'energia fotovoltaica immessa in rete: lo Scambio sul Posto non accetta piu' impianti nuovi (ultimo accesso agli impianti in esercizio prima del 29 maggio 2025) e il meccanismo di riferimento per …
 - **La ventilazione in formule: portate, ricambi e CO2** — VMC calcoli · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Quanta aria serve davvero: il calcolo della VMC e del comfort degli interni.
+- **La ventilazione meccanica controllata nel retrofit** — Impianti · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Piu' l'involucro diventa stagno, piu' l'aria va cambiata a macchina: la VMC con recupero di calore e' l'impianto che nel retrofit garantisce qualita' dell'aria e tiene sotto controllo umidita' e muffe, recuperando il 80-…
 - **La ventilazione ospedaliera: pressioni differenziate e filtrazione** — Affidabilità · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   L'aria negli ospedali è un dispositivo medico: le sale operatorie si mantengono in sovrappressione con aria filtrata HEPA, le camere di isolamento infettivo in depressione, i reparti di immunodepressi in protezione con f…
 - **La viabilità in cantiere: il cantiere che non strangola la colla** — Viabilità cantiere · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -1779,6 +1799,8 @@
   La matematica del condominio: come si formano le tabelle millesimali e come si ripartiscono le spese.
 - **Mini-idroelettrico: schemi e turbine** — Mini-idro · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Produzione idroelettrica su piccola scala con turbine idrauliche adatte a portate e salti diversi.
+- **Misura e verifica dei risparmi: il retrofit si giudica a consuntivo** — Verifica · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Il retrofit promette risparmi: la misura e verifica (M&V) e' la disciplina che controlla se sono arrivati davvero. Senza M&V il progetto e' una promessa; con M&V diventa un risultato documentato che protegge progettista,…
 - **Modbus** — BUS industriale · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
 - **Moduli completi e building system industrializzati (volumi a modulo)** — Moduli · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
@@ -2035,6 +2057,8 @@
   Cablaggio dati ethernet dell'edificio: dorsali e punti rete in ogni ambiente.
 - **Rete elettrosaldata** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Reti di barre saldate in fabbrica: per solai, massetti, riprese di getto: distribuiscono armatura con velocità.
+- **Retrofit energetico e miglioramento sismico: l'intervento combinato** — Integrazione · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
+  Sul patrimonio esistente energia e sismica si fanno nello stesso cantiere o non si fanno affatto: ponteggio, pratiche e disagi sono gli stessi, e combinare cappotto con rinforzi (cerchiature, FRP, placcaggi) e' la strate…
 - **Rilevazione incendi e analisi** — Antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Sensori che rilevano fumo, calore, fiamma, gas: il primo anello della catena di sicurezza.
 - **Rinforzare le strutture: FRP, camicie, spessori, precompressione** — Rinforzi strutturali · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)

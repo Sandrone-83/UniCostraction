@@ -75,6 +75,7 @@ di apprendimento per settore.
 | PREFABBRICAZIONE | ✅ 250 domande | chiavi: jsonl |
 | REAL_ESTATE | ✅ 180 domande | chiavi: jsonl |
 | RESTAURO_CONSERVAZIONE | ✅ 223 domande | chiavi: jsonl |
+| RETROFIT_NZEB | ✅ 250 domande | chiavi: jsonl |
 | RISANAMENTO | ✅ 277 domande | chiavi: md (legacy) |
 | ROBOTICA | ✅ 350 domande | chiavi: jsonl |
 | RINNOVABILI_IDRO | ✅ 250 domande | chiavi: jsonl |

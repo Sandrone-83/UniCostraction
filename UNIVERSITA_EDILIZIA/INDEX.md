@@ -218,3 +218,10 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - Nuovo esame: ESAMI/EDILIZIA_CIRCOLARE_LCA (250 domande), chiavi riservate fuori repository
 - Rettifica conteggi: i totali dichiarati nelle sezioni precedenti (69 pack) non includevano CAPPOTTO_ETICS_PACK; totali misurati oggi sui file: 71 pack, 963 schede, 73 esami
 - Totale repository: 71 pack, 963 schede, 73 esami
+
+## Giro Z — retrofit nZEB + verifica incentivi (2026-10-18, bozza post-v1.3.0, NESSUN tag applicato)
+
+- RETROFIT_NZEB_PACK (12 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA) — nuovo corso: riqualificazione energetica profonda integrata, diagnosi con audit/termografia/blower door (UNI CEI EN 16247, UNI EN 13187, UNI EN ISO 9972), strategia fabric first, pompe di calore su impianti esistenti (temperatura di mandata e radiatori), VMC nel retrofit (UNI EN 16798, UNI EN 13141/13142), FV+accumulo+EV integrati, retrofit del condominio (artt. 1120-1122-bis c.c., L. 220/2012, contabilizzazione D.Lgs 102/2014 e UNI 10200), intervento combinato energia+sismica (NTC D.M. 17/1/2018, Circolare 7/2019), cantiere in edificio abitato, misura e verifica dei risparmi (IPMVP), economia del retrofit con rinvio alle schede incentivi, documentazione APE/Legge 10/asseverazioni
+- Verifica incentivi 18/10/2026 (fonti: stampa tecnica concordante — bibus.acca.it, edilizia.com, kilowattchiaro.it, reonic.com): correttivo Conto Termico 3.0 ancora in itinere (convocazione Conferenza Stato-Regioni protocollata il 14/10/2026): scheda già corretta, nessuna modifica; Reddito Energetico: bando 2026 ancora non pubblicato (si attende decreto di rifinanziamento MASE), precisata la durata dello sportello 2025 (13-23 maggio 2025, fondi esauriti in pochi giorni — prima era scritto «quota Sud esaurita in giornata») — dettaglio in CHANGELOG.md, Giro Z
+- Nuovo esame: ESAMI/RETROFIT_NZEB (250 domande), chiavi riservate fuori repository
+- Totale repository: 72 pack, 975 schede, 74 esami

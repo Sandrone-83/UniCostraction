@@ -1,0 +1,9 @@
+corso: "Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 192/2005, D.M. 26/6/2015, L. 10/1991, UNI/TS 11300, UNI CEI EN 16247, UNI EN ISO 9972, UNI EN 13187, UNI EN ISO 13788, UNI EN ISO 10211, UNI EN 12831, UNI EN 16798, UNI EN 13141/13142, D.Lgs 28/2011, D.Lgs 102/2014, UNI 10200, CEI 0-21, D.M. 37/2008, D.M. 17/1/2018 (NTC), Circolare C.S.LL.PP. n. 7/2019, artt. 1120-1122-bis c.c., L. 220/2012, D.Lgs 81/2008, Direttiva (UE) 2024/1275, protocollo IPMVP"
+nota_metodologica: "Retrofit profondo integrato (involucro+impianti+rinnovabili): strategia, diagnosi, interventi, cantiere abitato, verifica a consuntivo, economia e documentazione. Norme citate solo di consolidata certezza; recepimento nazionale EPBD e incentivi specifici rinviati ai decreti attuativi e alle schede del pack Energetica e Incentivi con regola di verifica annuale su fonte primaria; valori economici come ordini di grandezza indicativi."
