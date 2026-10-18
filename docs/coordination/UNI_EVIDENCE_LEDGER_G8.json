@@ -1,0 +1,50 @@
+{
+  "ledger_version": 1,
+  "ledger_contract": {
+    "limitations": [
+      "Structural metadata validation only; it does not establish factual, educational, normative, legal, or professional correctness.",
+      "An evidence_ref is an auditable pointer shape, not proof that the referenced evidence is current, complete, or authoritative.",
+      "The ledger does not inspect free text, images, binary assets, or semantically disguised answer material."
+    ],
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "required_unresolved_states": [
+      "blocked",
+      "pending",
+      "open"
+    ],
+    "resolved_requires": [
+      "evidence_ref"
+    ]
+  },
+  "entries": [
+    {
+      "id": "placeholder-blocked",
+      "state": "blocked",
+      "evidence_ref": null,
+      "remediation": "placeholder"
+    },
+    {
+      "id": "placeholder-pending",
+      "state": "pending",
+      "evidence_ref": null,
+      "remediation": "placeholder"
+    },
+    {
+      "id": "placeholder-open",
+      "state": "open",
+      "evidence_ref": null,
+      "remediation": "placeholder"
+    },
+    {
+      "id": "placeholder-resolved",
+      "state": "resolved",
+      "evidence_ref": "placeholder",
+      "remediation": "placeholder"
+    }
+  ]
+}
