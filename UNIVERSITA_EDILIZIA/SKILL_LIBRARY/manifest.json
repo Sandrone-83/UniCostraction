@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -353,6 +353,71 @@
         {"url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj", "authority": "Unione europea", "purpose": "Regolamento (UE) 2023/1230 sulle macchine", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.iso.org/standard/73933.html", "authority": "ISO", "purpose": "ISO 10218-1:2025 e sicurezza dei robot industriali", "rights_state": "official_standard_paid_or_restricted_reference_only"},
         {"url": "https://www.iso.org/obp/ui?_escaped_fragment_=iso%3Apub%3APUB200102", "authority": "ISO", "purpose": "riferimento ufficiale alla serie ISO 10218", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "fire-engineering-performance-verification",
+      "path": "fire-engineering-performance-verification/SKILL.md",
+      "title": "Fire engineering e verifica prestazionale antincendio",
+      "domain": "fire engineering e prevenzione incendi",
+      "scope": "Impostazione e audit di scenari, modelli, prove e condizioni operative per dimostrazioni prestazionali antincendio.",
+      "source_refs": [
+        {"url": "https://www.vigilfuoco.it/codice-di-prevenzione-incendi", "authority": "Corpo Nazionale dei Vigili del Fuoco", "purpose": "portale ufficiale del Codice di prevenzione incendi", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.vigilfuoco.it/servizi-le-aziende-e-i-professionisti/prevenzione-incendi/testi-coordinati-di-prevenzione/testi-coordinati-prevenzione-regole-tecniche-suddivise-per-attivita?page=9", "authority": "Corpo Nazionale dei Vigili del Fuoco", "purpose": "regole tecniche e testi coordinati per attività", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.gazzettaufficiale.it/eli/gu/2015/08/20/192/so/51/sg/pdf", "authority": "Gazzetta Ufficiale", "purpose": "pubblicazione del DM 3 agosto 2015", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "building-acoustics-performance-control",
+      "path": "building-acoustics-performance-control/SKILL.md",
+      "title": "Controllo prestazionale dell'acustica edilizia",
+      "domain": "acustica edilizia",
+      "scope": "Controllo di requisiti, percorsi, misure, incertezze e diagnosi per isolamento, impatto, facciata, impianti e riverberazione.",
+      "source_refs": [
+        {"url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=97A10190&atto.dataPubblicazioneGazzetta=1997-12-22&elenco30giorni=false", "authority": "Gazzetta Ufficiale", "purpose": "DPCM 5 dicembre 1997 sui requisiti acustici passivi", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/standard/55997.html?browse=ics", "authority": "ISO", "purpose": "ISO 16283-1 per misure in opera dell'isolamento acustico", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/committee/48558/x/catalogue/", "authority": "ISO/TC 43/SC 2", "purpose": "catalogo ufficiale degli standard di acustica edilizia", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "urban-hydraulics-stormwater-gating",
+      "path": "urban-hydraulics-stormwater-gating/SKILL.md",
+      "title": "Gating di idraulica urbana e stormwater",
+      "domain": "idraulica urbana, drenaggio e stormwater",
+      "scope": "Controllo di bacini, quote, piogge, reti, invasi, qualità, scenari di allagamento e manutenzione.",
+      "source_refs": [
+        {"url": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A32007L0060", "authority": "Unione europea", "purpose": "Direttiva 2007/60/CE sulla gestione del rischio di alluvioni", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152!vig=", "authority": "Normattiva", "purpose": "disciplina italiana di acque, scarichi e ambiente", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.isprambiente.gov.it/it", "authority": "ISPRA", "purpose": "dati e riferimenti istituzionali ambientali", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "heritage-conservation-diagnostics",
+      "path": "heritage-conservation-diagnostics/SKILL.md",
+      "title": "Conservazione del patrimonio e diagnostica edilizia",
+      "domain": "conservazione del patrimonio e diagnostica",
+      "scope": "Conoscenza stratigrafica, rilievo dei fenomeni, campionamento, diagnosi e compatibilità degli interventi sul patrimonio.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=004G0066&atto.dataPubblicazioneGazzetta=2004-02-24&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=d0c88cc2-b987-416f-a2e6-e878348303ab&tabID=&tipoDettaglio=multivigenza&title=lbl.dettaglioAtto", "authority": "Normattiva", "purpose": "D.Lgs. 42/2004, Codice dei beni culturali e del paesaggio", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://cultura.gov.it/", "authority": "Ministero della Cultura", "purpose": "riferimenti istituzionali per tutela e patrimonio culturale", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iccrom.org/", "authority": "ICCROM", "purpose": "riferimenti internazionali di conservazione", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-schedule-cost-risk-control",
+      "path": "construction-schedule-cost-risk-control/SKILL.md",
+      "title": "Pianificazione integrata di tempi, costi e rischio di cantiere",
+      "domain": "pianificazione tempi, costi e rischio di cantiere",
+      "scope": "Baseline, misurazione, varianze, forecast, rischio e change control per project controls di cantiere.",
+      "source_refs": [
+        {"url": "https://committee.iso.org/sites/tc258/home/projects/published/iso-21502.html", "authority": "ISO TC 258", "purpose": "ISO 21502:2020, guida ufficiale al project management", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 e ciclo dei contratti pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/-/banca-dati-nazionale-contratti-pubblici", "authority": "ANAC", "purpose": "dati e tracciabilità istituzionale dei contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
