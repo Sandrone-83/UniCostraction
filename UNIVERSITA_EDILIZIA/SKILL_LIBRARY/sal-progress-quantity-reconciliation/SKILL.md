@@ -15,7 +15,7 @@ Attiva questa skill quando occorre confrontare quantità eseguite, computo/contr
 
 Richiedi contratto e quadro economico vigenti, elenco prezzi e revisione, computo baseline, libretti/verbali firmati, periodi e data di cut-off, unità, quantità precedenti, correnti e cumulative, percentuali, ritenute, varianti, anticipazioni, IVA, fatture/pagamenti, foto georiferite e ruolo del certificatore. Definisci se il lavoro è pubblico o privato e quale registro è autoritativo.
 
-## Procedura originale
+## Workflow
 
 1. Crea una chiave stabile per ogni voce: contratto/variante, codice, descrizione, unità, prezzo, revisione e WBS; non unire righe simili senza mappatura.
 2. Congela il cut-off e normalizza solo formati dichiarati. Conserva unità originarie, conversione, arrotondamento e autore; una conversione non è una misurazione.
@@ -42,7 +42,7 @@ Consegna matrice voce/WBS, registro fonti e versioni, foglio formule, confronto 
 
 Conserva hash dei documenti, data di ricezione, pagine/righe, foto e coordinate, versioni del computo/prezziario, script o foglio, formule, arrotondamenti, soglie e log. Per ogni scarto conserva valore sorgente, valore riconciliato, criterio e decisione; registra chi ha approvato la correzione e quando.
 
-## Confini professionali e diritti
+## Confini professionali e legali
 
 Una riconciliazione automatica non è validazione del SAL, collaudo, certificato di pagamento, revisione contabile o parere legale. Non alterare libretti, firme, verbali o registri autoritativi; non inviare richieste di pagamento né attestare lavori senza autorizzazione e competenza. Tratta dati economici, personali e contrattuali come riservati.
 
@@ -55,7 +55,7 @@ Una riconciliazione automatica non è validazione del SAL, collaudo, certificato
 - **Scarto nascosto in arrotondamento:** mostra valore prima/dopo e soglia applicata.
 - **SAL pubblico trattato come privato:** ferma l'output e verifica disciplina, ruoli e registro ufficiale.
 
-## Strumenti e fonti ufficiali
+## Strumenti
 
 Usa foglio o script deterministico con test sulle formule, parser PDF, manifest, viewer immagini e repository con audit. Per i profili pubblici verifica sempre release e applicabilità:
 
@@ -64,6 +64,8 @@ Usa foglio o script deterministico con test sulle formule, parser PDF, manifest,
 - [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/): pubblicazione originaria e atti ufficiali.
 - [ISO — ISO 19650](https://www.iso.org/standard/68078.html): gestione informativa come riferimento separato, a pagamento/restricted.
 
-## Stato dei diritti
+## Fonti ufficiali e diritti
+
+Normattiva D.Lgs. 36/2023: https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=
 
 Normattiva, ANAC e Gazzetta sono fonti istituzionali da verificare per versione e contesto; ISO è riferimento ufficiale a pagamento/restricted. La matrice, le formule e il workflow di riconciliazione sono originali e non sostituiscono l'attestazione del ruolo competente.

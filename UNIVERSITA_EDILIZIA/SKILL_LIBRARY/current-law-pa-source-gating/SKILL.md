@@ -15,7 +15,7 @@ Attiva questa skill quando una risposta dipende da legge, regolamento, atto ammi
 
 Prima raccogli domanda precisa, materia, Stato/Regione/Provincia/Comune o ente, settore e destinatario, data dell'evento e data alla quale serve la regola, procedimento, ruolo dell'utente, versione già citata, livello di urgenza e output autorizzato. Se la giurisdizione, il territorio o la data di efficacia non sono noti, lo stato deve essere `blocked`.
 
-## Procedura originale a cancelli
+## Workflow
 
 1. **Gate di giurisdizione:** separa UE, Stato, Regione, ente locale, autorità indipendente e fonte interna; non usare un atto nazionale per colmare una competenza locale.
 2. **Gate di identificazione:** registra tipo, numero, data, titolo, articolo/allegato, ELI/CELEX/URL, autorità emanante e atto modificatore; cerca anche la fonte originaria quando serve.
@@ -42,7 +42,7 @@ Consegna una scheda di ricerca con quesito, giurisdizione, cronologia, gerarchia
 
 Salva URL canonico, identificativo atto, autorità, data di pubblicazione/accesso, versione o consolidamento, pagina/articolo, hash del download quando possibile, query usata e screenshot solo come supporto. Registra l'atto modificatore e la ragione per cui una fonte è stata preferita. Non archiviare copie di testi oltre i diritti e le policy applicabili.
 
-## Confini professionali, legali e diritti
+## Confini professionali e legali
 
 La ricerca non è parere legale, interpretazione autentica, attestazione urbanistica, consulenza amministrativa o sostituzione dell'ufficio competente. Non inventare articoli, termini, sanzioni o prassi; non compilare, firmare, inviare o depositare moduli senza autorizzazione. Rispetta copyright, termini dei portali, dati personali e licenze; il testo normativo e il commento possono avere regimi diversi.
 
@@ -55,7 +55,7 @@ La ricerca non è parere legale, interpretazione autentica, attestazione urbanis
 - **URL cambiato o pagina non autenticata:** cerca l'archivio ufficiale e registra il nuovo identificativo.
 - **Richiesta di "certezza" su fatti incompleti:** consegna una matrice di verifica, non una conclusione assoluta.
 
-## Strumenti e fonti ufficiali
+## Strumenti
 
 Usa ricerca avanzata, identificativi ELI/CELEX, archivi ufficiali, download con hash e un registro versioni. Per l'Italia e l'UE parti da:
 
@@ -65,6 +65,8 @@ Usa ricerca avanzata, identificativi ELI/CELEX, archivi ufficiali, download con 
 - [ANAC](https://www.anticorruzione.it/): atti e dati istituzionali per contratti pubblici; verificare ambito e aggiornamento.
 - [AgID — linee guida](https://www.agid.gov.it/it/linee-guida): linee guida e indirizzi PA, da distinguere dagli atti normativi.
 
-## Stato dei diritti
+## Fonti ufficiali e diritti
+
+Normattiva e Gazzetta Ufficiale: https://www.normattiva.it/
 
 Normattiva, Gazzetta Ufficiale, EUR-Lex, ANAC e AgID sono riferimenti istituzionali: si usano per ricerca e citazione responsabile, non come licenza generale di ripubblicazione. Le norme ISO, quando consultate, sono riferimenti ufficiali a pagamento/restricted. Il protocollo a cancelli e il registro delle evidenze sono originali; la verifica professionale resta obbligatoria per l'uso decisionale.

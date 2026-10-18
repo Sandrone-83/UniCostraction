@@ -15,7 +15,7 @@ Attiva questa skill quando serve leggere, modificare, generare o controllare DWG
 
 Prima di operare raccogli file originale e copia di lavoro, release AutoCAD/API, sistema operativo, unità, UCS/WCS, scala, standard layer/naming, xref, font, plotter, misura campione, obiettivo, autorizzazione di scrittura e formato atteso. Registra se il job deve aprire AutoCAD o può usare ObjectDBX/strumenti offline.
 
-## Procedura originale
+## Workflow
 
 1. Crea un `job.json` con input, API target, versione, comando, parametri, timestamp, operatore e hash; rifiuta input non identificati.
 2. Esegui un inventario non distruttivo: header, unità, extents, layer, blocchi, proxy, xref, annotazioni, layout, viewport, stili, errori di apertura e oggetti non nativi.
@@ -42,7 +42,7 @@ Consegna un registro job, inventario iniziale, script o comando riproducibile, D
 
 Conserva hash e percorso relativo dell'originale, versione API, DLL/TLB/add-in, script, variabili di sistema, locale, driver di stampa, dipendenze e log. Per ogni violazione salva handle/entità, layer, coordinate o pagina, regola applicata e screenshot quando il testo non basta. Se un controllo è euristico dichiaralo.
 
-## Confini professionali e diritti
+## Confini professionali e legali
 
 API e QA non certificano il rilievo, la conformità urbanistica, la sicurezza, la stabilità o la titolarità del disegno. Non firmare, timbrare, inviare o sovrascrivere il master senza autorizzazione. Verifica licenze Autodesk, SDK, font, blocchi, immagini, xref e codice di terzi prima di redistribuire un package. Non riprodurre testo protetto della documentazione ufficiale.
 
@@ -55,7 +55,7 @@ API e QA non certificano il rilievo, la conformità urbanistica, la sicurezza, l
 - **QA solo visivo:** aggiungi controllo numerico e riapertura indipendente; il render di una tavola non basta.
 - **Xref/font/proxy assenti:** marca il risultato come parziale e non sostituire silenziosamente l'asset.
 
-## Strumenti e fonti ufficiali
+## Strumenti
 
 Usa l'API prevista dalla release, PowerShell/.NET o AutoLISP solo in ambienti autorizzati, un viewer indipendente, parser DXF, PDF viewer e checksum. Verifica prima la documentazione Autodesk per la release effettiva:
 
@@ -63,6 +63,8 @@ Usa l'API prevista dalla release, PowerShell/.NET o AutoLISP solo in ambienti au
 - [Autodesk — Managed .NET compatibility](https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Customization/files/GUID-A6C680F2-DE2E-418A-A182-E4884073338A.htm): matrice di compatibilità; non inferire compatibilità dal solo nome del plugin.
 - [Autodesk — ActiveX API migration](https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-ActiveX/files/GUID-FF023966-A01D-4B64-8957-7C0F02BF8162.htm): riferimenti alle type library e release.
 
-## Stato dei diritti
+## Fonti ufficiali e diritti
+
+Autodesk ObjectARX e AutoCAD API: https://help.autodesk.com/view/OARX/2027/ENU/
 
 Le fonti Autodesk sono riferimenti ufficiali alla documentazione e alle API, non autorizzazioni a redistribuire SDK, codice, font o file proprietari. La procedura e i controlli qui descritti sono originali; verificare sempre termini, release e licenze dell'ambiente reale.

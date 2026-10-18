@@ -15,7 +15,7 @@ Attiva questa skill quando la scena deve essere costruita o rigenerata da parame
 
 Raccogli obiettivo (studio, didattica, vendita o verifica), fonte geometrica, unità/origine/nord, parametri e range, seed, versione Blender, motore, GPU/CPU, risoluzione, frame, formato, percorso output, asset, texture, HDRI, font, persone, diritti e livello di fedeltà richiesto. Identifica cosa è misurato, dedotto, completato o puramente illustrativo.
 
-## Procedura originale
+## Workflow
 
 1. Crea un file di configurazione versionato con schema, valori, seed, unità, coordinate, release Blender e hash degli input; fallisci se un parametro obbligatorio è implicito.
 2. Genera una scena factory-clean: collezioni per sorgenti, geometria procedurale, asset, camere, luci, annotazioni e output; non dipendere da preferenze locali.
@@ -41,7 +41,7 @@ Consegna script/config, `.blend`, eventuale package asset, render diagnostico/fi
 
 Registra hash di input, script, config, `.blend`, asset e render; conserva versione Blender, motore, device, seed, locale, dipendenze e log. Per ogni asset segna autore, URL, licenza, data di accesso, modifica e uso previsto. Per fotogrammetria o AI annota copertura, punti non osservati e metodo, senza chiamare il risultato rilievo.
 
-## Confini professionali e diritti
+## Confini professionali e legali
 
 Una scena procedurale o un render non è progetto, rilievo, collaudo, computo o prova di conformità. Non presentare come esistente una superficie generata da regole. Blender, add-on, modelli, texture, HDRI, font, persone e musica hanno diritti separati: autorizza e attribuisci prima della consegna pubblica.
 
@@ -54,7 +54,7 @@ Una scena procedurale o un render non è progetto, rilievo, collaudo, computo o 
 - **Variazione casuale che cambia il messaggio:** limita RNG a stream nominati e confronta il diff.
 - **Render scambiato per stato di fatto:** aggiungi overlay e nota di natura rappresentativa.
 
-## Strumenti e fonti ufficiali
+## Strumenti
 
 Usa Blender ufficiale, Python `bpy`, esecuzione `--background --python`, viewer immagini/glTF e checksum. Prima di assumere API o flag verifica:
 
@@ -63,6 +63,8 @@ Usa Blender ufficiale, Python `bpy`, esecuzione `--background --python`, viewer 
 - [Blender — scripting](https://docs.blender.org/manual/en/latest/advanced/scripting/index.html): ambienti e limiti di automazione.
 - [Blender — license](https://www.blender.org/about/license/): licenza del software; verificare separatamente asset e add-on.
 
-## Stato dei diritti
+## Fonti ufficiali e diritti
+
+Blender Python API: https://docs.blender.org/api/current/
 
 La documentazione Blender è riferimento ufficiale; il software è distribuito secondo la licenza dichiarata dal progetto, mentre gli asset e i file esterni non sono automaticamente liberi. La procedura, lo schema di provenienza e i controlli di determinismo sono originali.

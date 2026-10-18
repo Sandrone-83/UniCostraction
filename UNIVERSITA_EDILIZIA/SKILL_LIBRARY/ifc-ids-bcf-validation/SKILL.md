@@ -15,7 +15,7 @@ Attiva questa skill per validare proprietà, classificazioni, relazioni, unità 
 
 Richiedi IFC originale, schema e MVD, IDS/XSD e versione, requisiti contrattuali collegati, coordinate e sistema di riferimento, disciplina, milestone, software/exporter, CDE, BCF version/API, responsabili, severità e criterio di chiusura. Se manca il requisito normativo o contrattuale, produci una verifica informativa limitata e non una non-conformità.
 
-## Procedura originale
+## Workflow
 
 1. Registra file, hash, schema IFC, exporter, timestamp, IDS/BCF version e configurazione checker in una busta di consegna immutabile.
 2. Esegui preflight: parse schema, unità, coordinate, project/site/building/storey, GUID univoci, relazioni, oggetti senza classe, proprietà duplicate e geometrie non leggibili.
@@ -42,7 +42,7 @@ Consegna manifest degli input, log di validazione, report per requisito/entità,
 
 Conserva IFC/IDS/BCF originali, hash, versione del checker, ambiente, log completo, query/regole, timestamp e operatore. Per ogni esito conserva GUID IFC, percorso di proprietà, valore osservato, valore atteso e fonte del requisito. Per i viewpoint registra camera, selezione e coordinate; uno snapshot senza modello non è evidenza sufficiente.
 
-## Confini professionali e diritti
+## Confini professionali e legali
 
 IFC, IDS e BCF verificano scambio e gestione delle informazioni; non certificano calcolo strutturale, sicurezza, conformità urbanistica, prestazione o esecuzione. Non pubblicare modelli con dati personali, sicurezza critica o proprietà intellettuale senza autorizzazione. Standard e specifiche possono avere licenze proprie: non copiare schema, testo o asset oltre quanto consentito.
 
@@ -55,7 +55,7 @@ IFC, IDS e BCF verificano scambio e gestione delle informazioni; non certificano
 - **Issue duplicata o senza owner:** deduplica per requisito/entità/fase, preservando la storia.
 - **Eccezione approvata usata come conformità:** mantieni separati `pass`, `waived` e `not_applicable`.
 
-## Strumenti e fonti ufficiali
+## Strumenti
 
 Usa validator IFC e IDS versionati, parser schema, viewer con supporto BCF, API BCF e CDE con audit. Verifica le release effettive presso:
 
@@ -64,6 +64,8 @@ Usa validator IFC e IDS versionati, parser schema, viewer con supporto BCF, API 
 - [buildingSMART — BCF API repository](https://github.com/buildingSMART/BCF-API): API e versioni open per issue e coordinamento.
 - [ISO — ISO 19650](https://www.iso.org/standard/68078.html): riferimento di gestione informativa, a pagamento/restricted; non riprodurre il testo.
 
-## Stato dei diritti
+## Fonti ufficiali e diritti
+
+buildingSMART IFC/IDS/BCF: https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/
 
 IFC, IDS e BCF sono riferimenti ufficiali/open da verificare per release, licenza e implementazione; ISO 19650 è riferimento ufficiale con accesso/licenza propri. La procedura di validazione e il modello di issue sono originali e non equivalgono a una certificazione buildingSMART o ISO.
