@@ -1,0 +1,423 @@
+{
+  "schema_version": "g5.v1",
+  "tool": "tools/uni_pack_exam_review_g5.py",
+  "source_report": {
+    "path": "docs/coordination/UNI_PACK_EXAM_MAP_G4.json",
+    "schema_version": "g4.v1",
+    "counts": {
+      "packs": 71,
+      "exams": 73,
+      "observed_pairs": 73,
+      "pack_classifications": {
+        "exact_name": 13,
+        "alias_observed": 56,
+        "unmatched_pack": 0,
+        "ambiguous": 2
+      },
+      "exam_classifications": {
+        "exact_name": 14,
+        "alias_observed": 55,
+        "unmatched_exam": 2,
+        "ambiguous": 2
+      }
+    }
+  },
+  "scope": {
+    "queue_selection": [
+      "pack records classified ambiguous by G4",
+      "exam records classified ambiguous by G4",
+      "exam records classified unmatched_exam with legacy_observed=true"
+    ],
+    "source_of_truth": "selected checkout filesystem through the G4 report",
+    "content_modified": false
+  },
+  "method": {
+    "ordering": "review_priority ascending, item type pack before exam, then stable casefolded item_id",
+    "pending_state": "every generated item starts with review_status=pending and null decision",
+    "semantic_inference": false,
+    "canonical_association": "never assigned by this tool"
+  },
+  "counts": {
+    "queue_items": 6,
+    "ambiguous_pack": 2,
+    "ambiguous_exam": 2,
+    "legacy_unmatched_exam": 2,
+    "pending": 6
+  },
+  "review_queue": [
+    {
+      "queue_id": "pack:AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "item_type": "pack",
+      "item_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "classification": "ambiguous",
+      "uncertainty": "ambiguous_observed_candidates",
+      "legacy_observed": false,
+      "review_priority": 1,
+      "review_reason": "More than one observed exam candidate remains for this pack.",
+      "review_prompt": "Confirm one candidate only with explicit human/source evidence, or keep the pack unresolved; do not infer semantic equivalence.",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/README.md"
+      ],
+      "candidate_ids": [
+        "AEROPORTI",
+        "INFRASTRUTTURE"
+      ],
+      "observed_candidates": [
+        {
+          "exam_id": "AEROPORTI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "aeroport"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "AEROPORTI",
+                "matched_roots": [
+                  "aeroport"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/ESAMI/AEROPORTI/domande.md",
+            "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+          ]
+        },
+        {
+          "exam_id": "INFRASTRUTTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md",
+            "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+          ]
+        }
+      ],
+      "review_status": "pending",
+      "allowed_outcomes": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "decision": {
+        "outcome": null,
+        "selected_id": null,
+        "reviewer_note": null
+      },
+      "queue_order": 1
+    },
+    {
+      "queue_id": "pack:FORMULARIO_STRUTTURE_PACK",
+      "item_type": "pack",
+      "item_id": "FORMULARIO_STRUTTURE_PACK",
+      "classification": "ambiguous",
+      "uncertainty": "ambiguous_observed_candidates",
+      "legacy_observed": false,
+      "review_priority": 1,
+      "review_reason": "More than one observed exam candidate remains for this pack.",
+      "review_prompt": "Confirm one candidate only with explicit human/source evidence, or keep the pack unresolved; do not infer semantic equivalence.",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/README.md"
+      ],
+      "candidate_ids": [
+        "FORMULARIO_STRUTTURE",
+        "STRUTTURE"
+      ],
+      "observed_candidates": [
+        {
+          "exam_id": "FORMULARIO_STRUTTURE",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "formulario_strutture",
+            "exam_value": "formulario_strutture"
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_STRUTTURE/domande.md",
+            "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+          ]
+        },
+        {
+          "exam_id": "STRUTTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE/domande.md",
+            "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+          ]
+        }
+      ],
+      "review_status": "pending",
+      "allowed_outcomes": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "decision": {
+        "outcome": null,
+        "selected_id": null,
+        "reviewer_note": null
+      },
+      "queue_order": 2
+    },
+    {
+      "queue_id": "exam:INFRASTRUTTURE",
+      "item_type": "exam",
+      "item_id": "INFRASTRUTTURE",
+      "classification": "ambiguous",
+      "uncertainty": "ambiguous_observed_candidates",
+      "legacy_observed": false,
+      "review_priority": 1,
+      "review_reason": "More than one observed pack candidate remains for this exam.",
+      "review_prompt": "Confirm one candidate only with explicit human/source evidence, or keep the exam unresolved; do not infer semantic equivalence.",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "candidate_ids": [
+        "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+        "INFRASTRUTTURE_VIARIE_PACK"
+      ],
+      "observed_candidates": [
+        {
+          "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+            "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/README.md"
+          ]
+        },
+        {
+          "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/COURSE.yaml",
+            "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/README.md"
+          ]
+        }
+      ],
+      "review_status": "pending",
+      "allowed_outcomes": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "decision": {
+        "outcome": null,
+        "selected_id": null,
+        "reviewer_note": null
+      },
+      "queue_order": 3
+    },
+    {
+      "queue_id": "exam:STRUTTURE",
+      "item_type": "exam",
+      "item_id": "STRUTTURE",
+      "classification": "ambiguous",
+      "uncertainty": "ambiguous_observed_candidates",
+      "legacy_observed": false,
+      "review_priority": 1,
+      "review_reason": "More than one observed pack candidate remains for this exam.",
+      "review_prompt": "Confirm one candidate only with explicit human/source evidence, or keep the exam unresolved; do not infer semantic equivalence.",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "candidate_ids": [
+        "FORMULARIO_STRUTTURE_PACK",
+        "INGEGNERIA_STRUTTURALE_PACK"
+      ],
+      "observed_candidates": [
+        {
+          "pack_id": "FORMULARIO_STRUTTURE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+            "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/README.md"
+          ]
+        },
+        {
+          "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          },
+          "source_files": [
+            "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/COURSE.yaml",
+            "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/README.md"
+          ]
+        }
+      ],
+      "review_status": "pending",
+      "allowed_outcomes": [
+        "associate_with_explicit_evidence",
+        "keep_unresolved",
+        "defer"
+      ],
+      "decision": {
+        "outcome": null,
+        "selected_id": null,
+        "reviewer_note": null
+      },
+      "queue_order": 4
+    },
+    {
+      "queue_id": "exam:IMPIANTI_FV_EOLICO",
+      "item_type": "exam",
+      "item_id": "IMPIANTI_FV_EOLICO",
+      "classification": "unmatched_exam",
+      "uncertainty": "unmatched_legacy_domain",
+      "legacy_observed": true,
+      "review_priority": 2,
+      "review_reason": "The exam is explicitly legacy and has no observed pack candidate.",
+      "review_prompt": "Locate explicit source/documentation evidence for an association, or retain it as unmatched; no name-only fallback is allowed.",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "candidate_ids": [],
+      "observed_candidates": [],
+      "review_status": "pending",
+      "allowed_outcomes": [
+        "associate_with_explicit_evidence",
+        "keep_unmatched",
+        "defer"
+      ],
+      "decision": {
+        "outcome": null,
+        "selected_id": null,
+        "reviewer_note": null
+      },
+      "queue_order": 5
+    },
+    {
+      "queue_id": "exam:MATERIALEDILE",
+      "item_type": "exam",
+      "item_id": "MATERIALEDILE",
+      "classification": "unmatched_exam",
+      "uncertainty": "unmatched_legacy_domain",
+      "legacy_observed": true,
+      "review_priority": 2,
+      "review_reason": "The exam is explicitly legacy and has no observed pack candidate.",
+      "review_prompt": "Locate explicit source/documentation evidence for an association, or retain it as unmatched; no name-only fallback is allowed.",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "candidate_ids": [],
+      "observed_candidates": [],
+      "review_status": "pending",
+      "allowed_outcomes": [
+        "associate_with_explicit_evidence",
+        "keep_unmatched",
+        "defer"
+      ],
+      "decision": {
+        "outcome": null,
+        "selected_id": null,
+        "reviewer_note": null
+      },
+      "queue_order": 6
+    }
+  ],
+  "boundaries": [
+    "Queue entries are review work items, not accepted pack/exam mappings.",
+    "Candidate IDs and evidence are observed name/documentation signals only.",
+    "Ambiguous records retain classification=ambiguous and list every observed candidate.",
+    "Legacy unmatched records retain legacy_observed=true and candidate_ids=[].",
+    "A decision.selected_id stays null until a human supplies explicit evidence.",
+    "No semantic fallback, question content, answers, or source content is used.",
+    "No corpus file is edited, merged, moved, overwritten, or deleted."
+  ]
+}
