@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_PACK_SOURCE_COHERENCE_G16_B_SCHEMA.json",
+  "title": "UniCostraction G16-B metadata-only pack/source coherence report",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "schema_version", "coherence_id", "metadata_only", "observed_at", "base_commit", "scope", "summary", "input_reports", "packs", "limitations"],
+  "properties": {
+    "$schema": {"const": "./UNI_PACK_SOURCE_COHERENCE_G16_B_SCHEMA.json"},
+    "schema_version": {"const": "G16-B-pack-source-coherence"},
+    "coherence_id": {"const": "G16-B-pack-source-coherence"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "base_commit": {"const": "6d0f5920d253a09491e739aadcd705cde0539212"},
+    "scope": {"$ref": "#/$defs/scope"},
+    "summary": {"$ref": "#/$defs/summary"},
+    "input_reports": {"type": "array", "minItems": 3, "maxItems": 3, "items": {"$ref": "#/$defs/inputReport"}},
+    "packs": {"type": "array", "minItems": 71, "maxItems": 71, "items": {"$ref": "#/$defs/pack"}},
+    "limitations": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+  },
+  "$defs": {
+    "state": {"enum": ["blocked", "observed_local"]},
+    "scope": {
+      "type": "object", "additionalProperties": false,
+      "required": ["input_reports", "matching_policy", "state_policy", "evidence_request_policy", "remediation_policy", "no_semantic_mapping", "excluded_payloads"],
+      "properties": {
+        "input_reports": {"type": "array", "const": ["docs/coordination/UNI_PACK_PROVENANCE_COVERAGE_G13_B.json", "docs/coordination/UNI_PACK_EVIDENCE_QUEUE_G14_B.json", "docs/coordination/UNI_MANIFEST_RECONCILIATION_G15_B.json"]},
+        "matching_policy": {"type": "string", "minLength": 1},
+        "state_policy": {"type": "string", "minLength": 1},
+        "evidence_request_policy": {"type": "string", "minLength": 1},
+        "remediation_policy": {"type": "string", "minLength": 1},
+        "no_semantic_mapping": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "summary": {
+      "type": "object", "additionalProperties": false,
+      "required": ["pack_count", "unique_pack_count", "g13_pack_count", "g14_queue_count", "g15_pack_count", "g14_blocked_count", "coherence_blocked_count", "coherence_observed_local_count", "g13_source_observed_local_count", "g13_locator_observed_local_count", "evidence_request_count", "remediation_reference_count"],
+      "properties": {
+        "pack_count": {"const": 71}, "unique_pack_count": {"const": 71}, "g13_pack_count": {"const": 71}, "g14_queue_count": {"const": 70}, "g15_pack_count": {"const": 71}, "g14_blocked_count": {"const": 70},
+        "coherence_blocked_count": {"type": "integer", "minimum": 0}, "coherence_observed_local_count": {"type": "integer", "minimum": 0}, "g13_source_observed_local_count": {"type": "integer", "minimum": 0}, "g13_locator_observed_local_count": {"type": "integer", "minimum": 0}, "evidence_request_count": {"const": 71}, "remediation_reference_count": {"type": "integer", "minimum": 71}
+      }
+    },
+    "inputReport": {
+      "type": "object", "additionalProperties": false,
+      "required": ["report_id", "path", "schema_version", "artifact_id", "observed_at", "source_commit", "row_count"],
+      "properties": {
+        "report_id": {"enum": ["G13", "G14", "G15"]}, "path": {"type": "string", "minLength": 1}, "schema_version": {"type": "string", "minLength": 1}, "artifact_id": {"type": "string", "minLength": 1}, "observed_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"}, "source_commit": {"type": "string", "pattern": "^[0-9a-f]{40}$"}, "row_count": {"type": "integer", "minimum": 1}
+      }
+    },
+    "states": {
+      "type": "object", "additionalProperties": false, "required": ["source_record", "locator", "license", "evidence"],
+      "properties": {"source_record": {"$ref": "#/$defs/state"}, "locator": {"$ref": "#/$defs/state"}, "license": {"$ref": "#/$defs/state"}, "evidence": {"$ref": "#/$defs/state"}}
+    },
+    "g13": {
+      "type": "object", "additionalProperties": false, "required": ["source_record_present", "locator_present", "license_status", "evidence_status", "remediation_codes"],
+      "properties": {"source_record_present": {"$ref": "#/$defs/state"}, "locator_present": {"$ref": "#/$defs/state"}, "license_status": {"$ref": "#/$defs/state"}, "evidence_status": {"$ref": "#/$defs/state"}, "remediation_codes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}}
+    },
+    "g14": {
+      "type": "object", "additionalProperties": false, "required": ["queue_item_id", "status", "blocker_codes"],
+      "properties": {"queue_item_id": {"type": ["string", "null"]}, "status": {"enum": ["blocked", "not_queued"]}, "blocker_codes": {"type": "array", "items": {"type": "string", "minLength": 1}}}
+    },
+    "g15": {
+      "type": "object", "additionalProperties": false, "required": ["package_scope_status", "source_record_keys", "remediation_open"],
+      "properties": {"package_scope_status": {"enum": ["exact_manifest_scope", "no_exact_manifest_scope"]}, "source_record_keys": {"type": "array", "items": {"type": "string", "minLength": 1}}, "remediation_open": {"const": true}}
+    },
+    "requirements": {
+      "type": "object", "additionalProperties": false, "required": ["evidence", "locator", "license_proof"],
+      "properties": {"evidence": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}, "locator": {"type": "array", "items": {"type": "string", "minLength": 1}}, "license_proof": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}}
+    },
+    "evidenceRequest": {
+      "type": "object", "additionalProperties": false, "required": ["status", "origin_report", "queue_item_id", "request_refs", "requirements"],
+      "properties": {"status": {"$ref": "#/$defs/state"}, "origin_report": {"enum": ["G13", "G14"]}, "queue_item_id": {"type": ["string", "null"]}, "request_refs": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}, "requirements": {"$ref": "#/$defs/requirements"}}
+    },
+    "remediation": {
+      "type": "object", "additionalProperties": false, "required": ["status", "open", "references"],
+      "properties": {"status": {"$ref": "#/$defs/state"}, "open": {"const": true}, "references": {"type": "array", "minItems": 3, "items": {"type": "string", "minLength": 1}}}
+    },
+    "pack": {
+      "type": "object", "additionalProperties": false,
+      "required": ["pack_id", "pack_path", "course_yaml", "status", "states", "g13", "g14", "g15", "evidence_request", "remediation", "matching_note"],
+      "properties": {"pack_id": {"type": "string", "pattern": "^.+_PACK$"}, "pack_path": {"type": "string", "pattern": "^UNIVERSITA_EDILIZIA/.+_PACK$"}, "course_yaml": {"type": "string", "pattern": "^UNIVERSITA_EDILIZIA/.+_PACK/COURSE\\.yaml$"}, "status": {"$ref": "#/$defs/state"}, "states": {"$ref": "#/$defs/states"}, "g13": {"$ref": "#/$defs/g13"}, "g14": {"$ref": "#/$defs/g14"}, "g15": {"$ref": "#/$defs/g15"}, "evidence_request": {"$ref": "#/$defs/evidenceRequest"}, "remediation": {"$ref": "#/$defs/remediation"}, "matching_note": {"type": "string", "minLength": 1}}
+    }
+  }
+}
