@@ -50,7 +50,7 @@ Registra file grezzi e derivati, hash, timestamp con fuso, operatore, strumento/
 
 I link e gli identificativi sono provenance di ricerca. Il procedimento, i record di controllo e le checklist sono originali; non copiare testi, dataset o tavole protette. Lo stato diritti della skill è reference_only: citazione e interoperabilità non autorizzano redistribuzione di dati o specifiche complete.
 
-## Confini professionali e limiti
+## Confini professionali e legali
 
 La skill non esegue rilievi, non certifica precisione, quote, confini, volumetrie, agibilità o conformità catastale/urbanistica. Non sostituisce topografo, geometra, ingegnere, autorità cartografica o responsabile della sicurezza. Un risultato pass significa soltanto adeguato allo scopo e alla tolleranza registrati; dati senza CRS, epoca, controlli o autorizzazione sono inutilizzabili per decisioni.
 

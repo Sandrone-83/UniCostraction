@@ -50,7 +50,7 @@ Registra manuali e dichiarazioni del fabbricante, configurazione, seriali, firmw
 
 Fonti UE e identificativi sono provenance ufficiale; gli standard ISO sono restricted. Procedura, gate, record e KPI di esempio sono originali e non riproducono manuali o clausole protette. Stato diritti della skill: reference_only; la responsabilità di conformità resta al fabbricante, datore di lavoro e professionisti competenti.
 
-## Confini professionali e limiti
+## Confini professionali e legali
 
 La skill non certifica macchina, marcatura CE, sicurezza funzionale, conformità del cantiere, qualità del prodotto o capacità produttiva. Non bypassa interlock, non impartisce comandi operativi e non sostituisce valutazione dei rischi, coordinamento sicurezza, fabbricante, integratore o manutentore. Simulazione e demo non provano condizioni ambientali, persone reali o variabilità di produzione.
 

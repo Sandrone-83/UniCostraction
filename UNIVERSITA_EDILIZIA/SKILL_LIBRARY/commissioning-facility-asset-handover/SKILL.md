@@ -50,7 +50,7 @@ Conserva requisiti approvati, versioni di disegni e modelli, script, log, trend,
 
 Le fonti ISO sono restricted: si citano identificativo, titolo e concetto necessario senza copiare clausole. Matrici, script esemplificativi, record e procedura sono originali. Diritti della skill: reference_only; la consegna di dati di progetto resta soggetta a contratto, riservatezza e ruoli.
 
-## Confini professionali e limiti
+## Confini professionali e legali
 
 La skill non sostituisce collaudatore, direttore lavori, progettista, responsabile sicurezza, manutentore, gestore energetico o owner. Non abilita impianti, non certifica prestazione energetica, antincendio, elettrica, strutturale o cybersecurity e non concede accessi a BMS. Un test superato vale solo per configurazione, condizioni, strumenti e criterio registrati.
 

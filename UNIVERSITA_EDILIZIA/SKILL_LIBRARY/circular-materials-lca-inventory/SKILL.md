@@ -51,7 +51,7 @@ Registra BOQ o estratto modello, codici prodotto, pesate, schede tecniche, EPD e
 
 Le fonti EC e JRC si usano come riferimento e provenance; i testi ISO e i dataset possono essere restricted. La matrice, le formule di riconciliazione e la procedura sono originali. Stato diritti della skill: reference_only; nessun logo, EPD o claim di terzi viene ripubblicato senza autorizzazione.
 
-## Confini professionali e limiti
+## Confini professionali e legali
 
 La skill non esegue verifica indipendente di EPD, non certifica LCA, CAM, tassonomia, carbon neutrality, salubrità o conformità rifiuti e non sostituisce LCA practitioner, progettista ambientale, direzione lavori o autorità. Un inventario completo non equivale a una dichiarazione ambientale verificata; fattori proxy e dati vecchi restano limitazioni.
 

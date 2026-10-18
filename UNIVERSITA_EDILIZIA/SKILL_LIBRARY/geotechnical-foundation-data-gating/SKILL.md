@@ -50,7 +50,7 @@ Conserva riferimenti a rapporto di prova, registro di campo, log macchina, certi
 
 Le fonti sono riferimenti ufficiali e non vengono riprodotte. Il modello di gate, le matrici di sufficienza e la procedura sono originali. Stato diritti: reference_only per standard e atti; eventuali norme tecniche editoriali restano restricted e si consultano tramite copia autorizzata.
 
-## Confini professionali e limiti
+## Confini professionali e legali
 
 La skill non esegue indagini, non interpreta definitivamente il terreno, non sceglie fondazioni, non calcola portanza/cedimenti, non valuta stabilità o rischio sismico e non firma relazioni. Non sostituisce geologo, ingegnere geotecnico, direttore lavori o laboratorio qualificato. Dati storici, correlazioni generiche e immagini non sono prova sufficiente di sicurezza.
 
