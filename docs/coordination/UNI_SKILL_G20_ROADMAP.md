@@ -1,4 +1,129 @@
-# UniCostraction G20/G21 — advanced facets and release-coverage roadmap
+# UniCostraction G20/G21/G22 — advanced facets, release coverage and governance
+
+Status: roadmap-only, release=blocked, G22 governance observed on 2026-10-19
+in the requested codex/uni-inventory worktree. G22 is a control layer over
+G21 release coverage; it does not implement, certify or promote any domain
+facet.
+
+## G22 - governance extension
+
+G22 governs how G21 decisions are changed, evidenced, escalated, approved,
+refreshed and withdrawn. The five areas below are deliberately cross-cutting:
+they do not create new CAD, IFC, Blender, PDF, SAL or current-law skills and
+they do not replace their domain or professional owners.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, gate or prior coordination
+  artifact was observed;
+- **planned** means the governance packet, control, probe or decision record is
+  specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  exception or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G22 areas
+
+| G22 area | Governance purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary |
+|---|---|---|---|---|---|---|
+| g22.change_control | Version every scope, mapping, gate and release decision; retain impact and rollback references. | Controls change to G21 records; it does not duplicate facet ownership or silently merge/delete content. | Change request links to the affected source, interpretation, evidence and decision IDs. | A changed source, asset, derivative or tool triggers a fresh rights decision; old clearance is not inherited automatically. | Material changes record observation date, effective date, jurisdiction and refresh consequence. | Change approval is not domain/professional sign-off; role and scope remain explicit. |
+| g22.evidence_audit_ledger | Make evidence packets, observations, failures, decisions and reviewers traceable and reproducible. | Provides audit traceability; it does not turn a manifest, hash or log into substantive correctness. | Source/interpretation/example/hypothesis separation, locator, version or date, checksum where applicable, and observed-by record. | Asset, fixture, output and derivative rights are recorded per evidence item, including unknown or restricted states. | Time-sensitive evidence carries retrieval/observation time, validity context and stale/refresh status. | Audit completeness does not authorize a professional conclusion; the qualified reviewer must assess the content. |
+| g22.risk_exception_escalation | Classify risks and exceptions, assign an owner, compensating control, expiry and escalation path. | Governs unresolved risk; it does not waive a domain, legal, licence or safety requirement. | Exception rationale points to the exact missing or conflicting evidence and preserves the negative case. | No exception can bypass unknown, incompatible or unapproved rights for publication/training/use. | Expired or stale evidence escalates; no silent carry-forward across law, tool or jurisdiction changes. | High-risk exceptions require the appropriate qualified reviewer; a coordinator cannot self-approve. |
+| g22.roles_separation | Separate source, rights, currentness, runtime, domain and release decisions and record accountable roles. | Defines responsibility and segregation; it does not perform CAD, BIM, legal, financial or safety review. | Each role is linked to the exact evidence packet and decision version it reviewed. | Rights reviewer authority is distinct from domain/professional review and cannot be inferred from a technical check. | Current-law or time-sensitive interpretations require the competent jurisdiction/domain reviewer. | No self-review for material release; sign-off is scoped, named, dated and version-linked. |
+| g22.release_refresh_rollback | Define release, refresh, revocation, rollback and post-release monitoring for a scoped route. | Governs lifecycle disposition; it does not imply global completeness or automatic external execution. | Release record enumerates passed gates, open blockers, evidence snapshot and rollback target. | Release is blocked while an applicable source, asset, derivative or tool rights decision is unresolved. | Refresh/sunset/revocation triggers are explicit; currentness is rechecked before continued use. | Release cannot certify, file, send, pay, sign, publish, execute or replace professional approval. |
+
+### G22 coverage matrix
+
+The matrix is conservative and cumulative. A structural verified mark records
+only the presence of a governance control in local coordination documents.
+Every G22 area remains blocked until its operational evidence and applicable
+professional review exist.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Change control | Yes | Yes | Yes | Yes | G17/G18/G21 provide versioned taxonomy, gates and release coverage; a complete change-request ledger, impact record and rollback exercise are not evidenced. |
+| Evidence and audit ledger | Yes | Yes | Yes | Yes | Source register, source-separation rule and evidence lifecycle gates exist; reproducible per-artifact audit packets and retained observations are not complete. |
+| Risk and exception escalation | Yes | Yes | Yes | No | Blocked states and professional boundaries exist; risk classes, exception approvals, expiries, compensating controls and escalation records are not evidenced. |
+| Roles and separation of responsibilities | Yes | Yes | Yes | Yes | G18/G21 role-specific professional boundaries exist; named, qualified, conflict-checked and version-linked approvals are not evidenced. |
+| Release, refresh and rollback | Yes | Yes | Yes | No | G21 release remains blocked and source/currentness gates exist; a tested refresh/revocation/rollback packet and post-release monitoring are not evidenced. |
+
+### G22 source, licence, currentness and professional gates
+
+For every proposed release or refresh, the packet must contain all of the
+following, with not-applicable decisions justified rather than omitted:
+
+1. **Source gate.** Identify the canonical owner, source locator, source
+   category, interpretation/example/hypothesis separation, version or
+   effective date, observation/retrieval date, jurisdiction where material and
+   the exact evidence or negative case supporting the decision.
+2. **Licence gate.** Record rights for source, fixture, tool, plug-in, font,
+   block, derivative and output as applicable. Unknown, incompatible or
+   unreviewed rights keep the route blocked; a URL, manifest label or local
+   notice is not blanket clearance.
+3. **Currentness gate.** For law and other time-sensitive material, record
+   territory, effective period, retrieval time, amendment/repeal/conflict
+   behavior and refresh/sunset trigger. If currentness is not material, record
+   why.
+4. **Professional-boundary gate.** Name the role qualified to review the
+   relevant content, exact version and scope, limitations, decision and date.
+   Technical, legal, financial, safety, document and visual reviews remain
+   distinct; structural verification never substitutes for sign-off.
+5. **Runtime and audit gate.** Where a route is executable, retain pinned
+   environment, deterministic input/output, negative cases, failure
+   reproduction and an auditable decision record. Static presence is not
+   runtime proof.
+
+### G22 release criteria
+
+Release remains blocked unless all applicable criteria pass for the scoped
+route; a failed or unknown criterion is an explicit blocker, not an inferred
+pass:
+
+1. Scope, canonical ownership and non-redundancy mapping are frozen.
+2. The source/evidence packet is complete and traceable to exact local
+   records, versions or dates.
+3. Licence and derivative-right decisions are explicit for every material
+   source, asset, fixture, tool and output.
+4. Currentness, jurisdiction and refresh behavior are recorded wherever
+   claims can change over time or territory.
+5. Runtime/evaluation evidence and negative cases exist wherever the route is
+   executable or produces a consequential artifact.
+6. Risk and exceptions have an accountable owner, rationale, compensating
+   control, expiry and escalation; no exception bypasses rights or
+   professional boundaries.
+7. Required professional review is independent, qualified, scoped,
+   version-linked and dated.
+8. The release record names passed gates, remaining limitations, refresh
+   triggers and tested rollback/revocation target.
+9. The release is scoped and reversible; it authorizes no automatic filing,
+   sending, payment, publication, certification, signing, execution or
+   professional approval.
+
+### G22 stop conditions and sequence
+
+G22 remains blocked when any source, licence, currentness, evidence, runtime,
+exception, role-separation, rollback or qualified-review gate is missing,
+unknown, stale, conflicting or expired. A structural verified mark may remain
+alongside blocked because it records control presence, not readiness.
+
+1. **G22-00 - freeze governance scope.** Keep the six G20 facets and seven
+   G21 areas; add only the five G22 governance areas.
+2. **G22-01 - establish traceability.** Assign stable change, evidence, risk,
+   role and release record identifiers and link them to the scoped route.
+3. **G22-02 - exercise controls.** Reproduce at least one change, one negative
+   evidence case, one escalation and one rollback/refresh case per applicable
+   route.
+4. **G22-03 - independent review.** Recheck source, rights, currentness and
+   professional boundaries with role-specific reviewers.
+5. **G22-04 - scoped decision.** Release only when every applicable criterion
+   agrees; otherwise retain blocked and report the missing gate.
+
+No G22 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G22 status promotes a reference-only
+source to verified knowledge.
 
 ## G21 - release and coverage extension
 

@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g21.v1",
-  "artifact_type": "unicostraction_g20_g21_coverage_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap and G21 release-coverage matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge.",
+  "schema_version": "g22.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_governance_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage and G22 governance matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G21 release and coverage extension over the six G20 facets",
+    "generation": "G22 governance extension over G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -606,6 +606,185 @@
       }
     ]
   },
+  "g22_areas": [
+    {
+      "area_id": "g22.change_control",
+      "label": "Change control",
+      "purpose": "Version every scope, mapping, gate and release decision and retain impact and rollback references.",
+      "non_redundant_boundary": "Controls changes to G21 records; it does not duplicate facet ownership or silently merge, delete or transfer content.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Stable change-request record", "Impact and affected-evidence map", "Rollback reference and exercised change record"],
+      "source_gate": "The change request links to affected source, interpretation, evidence and decision IDs, with version or observation context.",
+      "licence_gate": "A changed source, asset, derivative or tool triggers a fresh rights decision; prior clearance is not inherited automatically.",
+      "currentness_gate": "Material changes record observation date, effective date, jurisdiction and refresh consequence.",
+      "professional_boundary": "Change approval is not domain or professional sign-off; reviewer role and scope remain explicit.",
+      "blocked_when": ["Affected records or impact are not traceable", "Rights or currentness impact is unknown", "Rollback target or accountable approver is missing"]
+    },
+    {
+      "area_id": "g22.evidence_audit_ledger",
+      "label": "Evidence and audit ledger",
+      "purpose": "Make evidence packets, observations, failures, decisions and reviewers traceable and reproducible.",
+      "non_redundant_boundary": "Provides audit traceability; it does not turn a manifest, hash or log into substantive correctness.",
+      "existing_evidence": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+      "planned_evidence": ["Per-artifact audit packet", "Retained observation and negative-case record", "Reviewer decision linked to exact version"],
+      "source_gate": "Source, interpretation, example and hypothesis are separated and each observation has locator, version or date and reproducibility context.",
+      "licence_gate": "Asset, fixture, output and derivative rights are recorded per evidence item, including unknown or restricted states.",
+      "currentness_gate": "Time-sensitive evidence carries retrieval or observation time, validity context and stale or refresh status.",
+      "professional_boundary": "Audit completeness does not authorize a professional conclusion; qualified review assesses content separately.",
+      "blocked_when": ["Evidence item lacks source or version context", "Negative or failed result is discarded", "Audit trail cannot reproduce the decision"]
+    },
+    {
+      "area_id": "g22.risk_exception_escalation",
+      "label": "Risk and exception escalation",
+      "purpose": "Classify risks and exceptions and assign an owner, compensating control, expiry and escalation path.",
+      "non_redundant_boundary": "Governs unresolved risk; it does not waive a domain, legal, licence or safety requirement.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Risk classification", "Exception approval with expiry", "Escalation and compensating-control record"],
+      "source_gate": "Exception rationale points to exact missing or conflicting evidence and preserves the negative case.",
+      "licence_gate": "No exception bypasses unknown, incompatible or unapproved rights for publication, training or use.",
+      "currentness_gate": "Expired or stale evidence escalates; no silent carry-forward occurs across law, tool or jurisdiction changes.",
+      "professional_boundary": "High-risk exceptions require the appropriate qualified reviewer; a coordinator cannot self-approve.",
+      "blocked_when": ["Risk class or owner is missing", "Exception has no expiry, rationale or compensating control", "Escalation or qualified review is unresolved"]
+    },
+    {
+      "area_id": "g22.roles_separation",
+      "label": "Roles and separation of responsibilities",
+      "purpose": "Separate source, rights, currentness, runtime, domain and release decisions and record accountable roles.",
+      "non_redundant_boundary": "Defines responsibility and segregation; it does not perform CAD, BIM, legal, financial or safety review.",
+      "existing_evidence": ["S01", "S02"],
+      "planned_evidence": ["Role assignment matrix", "Conflict or self-review check", "Version-linked approval record"],
+      "source_gate": "Each role links to the exact evidence packet and decision version reviewed.",
+      "licence_gate": "Rights-review authority is distinct from domain or professional review and cannot be inferred from a technical check.",
+      "currentness_gate": "Current-law or other time-sensitive interpretations require the competent jurisdiction or domain reviewer.",
+      "professional_boundary": "No self-review for material release; sign-off is scoped, named, qualified, dated and version-linked.",
+      "blocked_when": ["Role or authority is undefined", "Material release is self-reviewed", "Review scope, qualification or version linkage is missing"]
+    },
+    {
+      "area_id": "g22.release_refresh_rollback",
+      "label": "Release, refresh and rollback",
+      "purpose": "Define release, refresh, revocation, rollback and post-release monitoring for a scoped route.",
+      "non_redundant_boundary": "Governs lifecycle disposition; it does not imply global completeness or automatic external execution.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Scoped release record", "Refresh and revocation trigger", "Tested rollback target and post-release monitor"],
+      "source_gate": "The release record enumerates passed gates, open blockers, evidence snapshot and rollback target.",
+      "licence_gate": "Release is blocked while an applicable source, asset, derivative or tool rights decision is unresolved.",
+      "currentness_gate": "Refresh, sunset and revocation triggers are explicit and currentness is rechecked before continued use.",
+      "professional_boundary": "Release cannot certify, file, send, pay, sign, publish, execute or replace professional approval.",
+      "blocked_when": ["Upstream gate or blocker is unresolved", "Refresh or revocation trigger is missing", "Rollback is untested or release implies automatic external action"]
+    }
+  ],
+  "g22_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, boundary or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required governance packet, control, probe or decision is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, exception, role or professional-use gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g22.change_control",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "Complete change-request ledger, impact record and rollback exercise are not evidenced."
+      },
+      {
+        "area_id": "g22.evidence_audit_ledger",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+        "missing_gate": "Reproducible per-artifact audit packets and retained observations are not complete."
+      },
+      {
+        "area_id": "g22.risk_exception_escalation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "Risk classes, exception approvals, expiries, compensating controls and escalation records are not evidenced."
+      },
+      {
+        "area_id": "g22.roles_separation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02"],
+        "missing_gate": "Named, qualified, conflict-checked and version-linked approvals are not evidenced."
+      },
+      {
+        "area_id": "g22.release_refresh_rollback",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "Tested refresh, revocation, rollback and post-release monitoring packet are not evidenced."
+      }
+    ]
+  },
+  "g22_release_criteria": [
+    {
+      "criterion_id": "G22-R01",
+      "label": "Frozen scope and non-redundancy",
+      "pass_when": "Scoped route, canonical owner and non-redundancy mapping are fixed and all affected records are identified.",
+      "does_not_prove": "That the content is technically, legally or professionally correct."
+    },
+    {
+      "criterion_id": "G22-R02",
+      "label": "Complete source and evidence packet",
+      "pass_when": "Source, interpretation, example and hypothesis are separated and linked to exact records, versions or dates.",
+      "does_not_prove": "That a source is authoritative, current or sufficient for the intended decision."
+    },
+    {
+      "criterion_id": "G22-R03",
+      "label": "Explicit licence and derivative rights",
+      "pass_when": "Rights and attribution decisions exist for every material source, asset, fixture, tool, derivative and output.",
+      "does_not_prove": "That a manifest label, URL or local notice is blanket clearance."
+    },
+    {
+      "criterion_id": "G22-R04",
+      "label": "Currentness and jurisdiction",
+      "pass_when": "Territory, effective period, retrieval time, amendment or repeal context and refresh behavior are recorded where material.",
+      "does_not_prove": "That the resulting interpretation is legal advice or a current professional conclusion."
+    },
+    {
+      "criterion_id": "G22-R05",
+      "label": "Runtime and evaluation evidence",
+      "pass_when": "Executable routes have pinned environment, deterministic results, negative cases and reproducible failures where applicable.",
+      "does_not_prove": "Production safety, structural adequacy, financial correctness or professional conformity."
+    },
+    {
+      "criterion_id": "G22-R06",
+      "label": "Risk and exception control",
+      "pass_when": "Each exception has owner, rationale, compensating control, expiry and escalation, with no rights or professional gate bypass.",
+      "does_not_prove": "That an exception makes a blocked route releasable by itself."
+    },
+    {
+      "criterion_id": "G22-R07",
+      "label": "Independent qualified review",
+      "pass_when": "Required review is role-specific, qualified, independent, scoped, version-linked and dated.",
+      "does_not_prove": "Approval outside the reviewed artifact, role or jurisdiction."
+    },
+    {
+      "criterion_id": "G22-R08",
+      "label": "Refresh, revocation and rollback",
+      "pass_when": "Refresh triggers, sunset or revocation behavior, rollback target and post-release monitoring are recorded and tested where applicable.",
+      "does_not_prove": "Permanent validity or global completeness."
+    },
+    {
+      "criterion_id": "G22-R09",
+      "label": "Scoped reversible release",
+      "pass_when": "The release record names passed gates and limitations, remains scoped and reversible, and authorizes no automatic external action.",
+      "does_not_prove": "Filing, sending, payment, publication, certification, signing, execution or professional approval."
+    }
+  ],
   "global_blockers": [
     "G19 reference-library SKILL.md paths are recorded as absent from the inventory checkout.",
     "Generated parsed artifacts described by local README/serializer evidence are absent for IFC, normative and technical-document indexes where noted.",
