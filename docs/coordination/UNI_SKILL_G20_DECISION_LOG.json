@@ -1,12 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g20.v1",
-  "artifact_type": "unicostraction_advanced_facets_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap for six advanced facets; records observed evidence, proposed gates and explicit blockers without promoting knowledge.",
+  "schema_version": "g21.v1",
+  "artifact_type": "unicostraction_g20_g21_coverage_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap and G21 release-coverage matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
-    "observed_on": "2026-10-18",
+    "observed_on": "2026-10-19",
+    "generation": "G21 release and coverage extension over the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -445,6 +446,166 @@
       ]
     }
   ],
+  "g21_areas": [
+    {
+      "area_id": "g21.nonredundancy_mapping",
+      "label": "Canonical non-redundancy and mapping",
+      "purpose": "Resolve each G20 facet to one canonical owner and record aliases and human review decisions.",
+      "non_redundant_boundary": "Does not create a seventh domain skill or authorize automatic merge, deletion or ownership transfer.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Per-facet canonical owner decision", "Alias resolution record", "Human semantic review queue"],
+      "source_gate": "Owner, source purpose, canonical ID and semantic decision must be traceable.",
+      "licence_gate": "Rights are recorded when a mapping crosses source packs or uses derivatives; similarity is not licence clearance.",
+      "professional_boundary": "Human curator reviews provenance, intent and semantic equivalence; similarity alone is not approval.",
+      "blocked_when": ["Owner or alias unresolved", "Semantic equivalence not reviewed", "Mapping would merge/delete or transfer ownership without a human decision"]
+    },
+    {
+      "area_id": "g21.provenance_context",
+      "label": "Provenance and context",
+      "purpose": "Attach source, interpretation, example, hypothesis, version/effective date, jurisdiction/period and lifecycle.",
+      "non_redundant_boundary": "Governance metadata does not replace the technical or legal subject owner.",
+      "existing_evidence": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+      "planned_evidence": ["Per-artifact provenance packet", "Version/checksum record", "Reviewer and observation record"],
+      "source_gate": "Source, interpretation, example and hypothesis are separate and the observation is reproducible.",
+      "licence_gate": "Source and derivative terms/attribution are recorded before training or publication.",
+      "professional_boundary": "Reviewer confirms scope and limitations; source presence is not authority.",
+      "blocked_when": ["Source or version/effective context missing", "Jurisdiction/period material but absent", "Reviewer or provenance decision missing"]
+    },
+    {
+      "area_id": "g21.licence_rights",
+      "label": "Licence and rights",
+      "purpose": "Decide permitted use, attribution, derivative, publication and training route per source or asset.",
+      "non_redundant_boundary": "A manifest label, URL or public-act label is not blanket clearance.",
+      "existing_evidence": ["S01", "S02", "S04", "S05", "S06", "S08"],
+      "planned_evidence": ["Per-source rights decision", "Attribution/notice packet", "Publication/training disposition"],
+      "source_gate": "Source identity, snapshot/checksum and provenance resolve before rights decision.",
+      "licence_gate": "Unknown, incompatible or unreviewed terms keep the route blocked; tools, plugins, fonts and derivatives are separate subjects.",
+      "professional_boundary": "Rights reviewer decides publication/training disposition; domain review remains separate.",
+      "blocked_when": ["Licence unknown or incompatible", "Attribution/derivative terms incomplete", "Commercial or publication route lacks explicit approval"]
+    },
+    {
+      "area_id": "g21.runtime_interoperability",
+      "label": "Runtime and interoperability",
+      "purpose": "Require target-environment probes, deterministic outputs and retained failures for applicable G20 workflows.",
+      "non_redundant_boundary": "Tests workflow behavior; it does not duplicate CAD, BIM, document, finance or legal content.",
+      "existing_evidence": ["S02", "S04", "S05", "S06"],
+      "planned_evidence": ["Fixture/environment manifest", "Positive and negative runtime reports", "Reproduction data and output hashes"],
+      "source_gate": "Fixture, tool/version, command, output and failure reproduction are recorded.",
+      "licence_gate": "Fixtures, tools, plugins and outputs have compatible terms for the intended route.",
+      "professional_boundary": "Runtime success does not prove design adequacy, legal validity or professional conformity.",
+      "blocked_when": ["Target environment or version unknown", "Runtime evidence absent or non-reproducible", "Failure is silently discarded", "Static check is used as professional approval"]
+    },
+    {
+      "area_id": "g21.professional_review",
+      "label": "Professional review",
+      "purpose": "Assign qualified reviewers and record scope, limitations, decision and date.",
+      "non_redundant_boundary": "Defines a stop boundary; it does not perform engineering, legal, accounting or safety practice.",
+      "existing_evidence": ["S01", "S02"],
+      "planned_evidence": ["Role assignment", "Version-linked review record", "Approved/blocked decision with limitations"],
+      "source_gate": "Review packet links to the exact source and evidence version.",
+      "licence_gate": "Professional reviewer cannot clear rights outside the review scope; rights gate remains separate.",
+      "professional_boundary": "CAD/BIM/visual, document, financial/SAL and legal reviewers are role-specific; no sign-off is inferred.",
+      "blocked_when": ["Required qualified reviewer absent", "Scope or limitations missing", "Sign-off is treated as broader than the reviewed artifact"]
+    },
+    {
+      "area_id": "g21.currentness_jurisdiction",
+      "label": "Currentness and jurisdiction",
+      "purpose": "Make current-law and time-sensitive claims carry territory, effective date, retrieval time, freshness and conflict behavior.",
+      "non_redundant_boundary": "Routes to existing PA/legal owners; it does not create a second legal corpus or advice skill.",
+      "existing_evidence": ["S01", "S02", "S08"],
+      "planned_evidence": ["Query scope", "Authoritative source/version record", "Staleness/conflict decision"],
+      "source_gate": "Preserve source, amendment/repeal context, retrieval timestamp and conflict evidence.",
+      "licence_gate": "Edition, transcription, translation and derivative permissions are checked separately.",
+      "professional_boundary": "Qualified legal or domain professional reviews interpretation; missing context stops the route.",
+      "blocked_when": ["Jurisdiction or effective date missing", "Source stale/secondary or amendment status unresolved", "Conflict or legal review unresolved"]
+    },
+    {
+      "area_id": "g21.release_evaluation",
+      "label": "Scoped release evaluation",
+      "purpose": "Aggregate structural, provenance, semantic, runtime, rights and professional decisions for a scoped release.",
+      "non_redundant_boundary": "Releases a scoped route only; it does not imply global completeness or certification.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Coverage matrix", "Open-blocker register", "Scoped release decision"],
+      "source_gate": "All upstream evidence IDs and open blockers remain visible.",
+      "licence_gate": "No release while an applicable rights decision is unresolved.",
+      "professional_boundary": "Release records qualified review and forbids automatic filing, sending, payment, certification, signing or execution.",
+      "blocked_when": ["Any applicable upstream gate open", "Coverage status lacks evidence reference", "Release would imply global completeness or automatic external action"]
+    }
+  ],
+  "coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, boundary or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required packet, probe, review or decision is specified but not established as complete.",
+      "blocked": "At least one release or professional-use gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g21.nonredundancy_mapping",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "Per-facet semantic decisions and alias review remain open."
+      },
+      {
+        "area_id": "g21.provenance_context",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+        "missing_gate": "Per-artifact version/effective context and reviewer packets are not complete."
+      },
+      {
+        "area_id": "g21.licence_rights",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S04", "S05", "S06", "S08"],
+        "missing_gate": "No blanket clearance or complete per-source publication/training decision is evidenced."
+      },
+      {
+        "area_id": "g21.runtime_interoperability",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S02", "S04", "S05", "S06"],
+        "missing_gate": "No G21 deterministic evidence packet proves all six workflows."
+      },
+      {
+        "area_id": "g21.professional_review",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02"],
+        "missing_gate": "No qualified G21 sign-off is inferred from documentation or static checks."
+      },
+      {
+        "area_id": "g21.currentness_jurisdiction",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S08"],
+        "missing_gate": "Current validity, conflict resolution and legal review remain open."
+      },
+      {
+        "area_id": "g21.release_evaluation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "Release remains blocked while upstream gates remain open."
+      }
+    ]
+  },
   "global_blockers": [
     "G19 reference-library SKILL.md paths are recorded as absent from the inventory checkout.",
     "Generated parsed artifacts described by local README/serializer evidence are absent for IFC, normative and technical-document indexes where noted.",
@@ -453,25 +614,25 @@
   ],
   "release_gates": [
     {
-      "gate_id": "G20-E01",
+      "gate_id": "G21-E01",
       "label": "Canonical mapping and non-redundancy",
       "pass_when": "One canonical owner and alias resolution are reviewed; no facet creates a duplicate domain skill.",
       "does_not_prove": "Semantic equivalence, source correctness or content completeness."
     },
     {
-      "gate_id": "G20-E02",
+      "gate_id": "G21-E02",
       "label": "Provenance, context and rights",
       "pass_when": "Source/interpretation/example/hypothesis, version/effective context, jurisdiction/period, attribution and rights are recorded; otherwise status remains blocked.",
       "does_not_prove": "That the source is factually correct or currently authoritative."
     },
     {
-      "gate_id": "G20-E03",
+      "gate_id": "G21-E03",
       "label": "Runtime and failure evidence",
       "pass_when": "The target workflow runs with deterministic fixtures, environment metadata, reproducible outputs and retained negative cases.",
       "does_not_prove": "Production safety, structural adequacy, legal validity or professional conformity."
     },
     {
-      "gate_id": "G20-E04",
+      "gate_id": "G21-E04",
       "label": "Professional review and release",
       "pass_when": "The appropriate qualified reviewer records scope, limitations and decision; all open blockers are visible and no automatic external action is implied.",
       "does_not_prove": "Global completeness or certification."

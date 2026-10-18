@@ -1,4 +1,73 @@
-# UniCostraction G20 — roadmap for six advanced facets
+# UniCostraction G20/G21 — advanced facets and release-coverage roadmap
+
+## G21 - release and coverage extension
+
+G21 is a release-control layer, not a new domain curriculum. It consumes the
+six G20 facets and makes their readiness evidence visible. A G21 area may have
+more than one mark in the matrix because the states are cumulative:
+
+- **existing** means a local contract, source register, boundary or prior
+  coordination artifact exists;
+- **planned** means the required packet, probe, review or decision is specified
+  but is not established as complete;
+- **blocked** means at least one release or professional-use gate is open;
+- **verified (structural)** means only that the named local artifact, field,
+  path or deterministic document check was observed. It never means factual,
+  technical, legal, licence, runtime, financial or professional correctness.
+
+### New G21 areas
+
+| G21 area | Purpose over G20 | Canonical/non-redundant boundary | Source gate | Licence gate | Professional boundary |
+|---|---|---|---|---|---|
+| g21.nonredundancy_mapping | Resolve each facet to one canonical owner and record aliases/review decisions. | Does not create a seventh domain skill or merge/delete similar content automatically. | G17/G18 IDs, owner, source purpose and human semantic decision. | Record rights when mapping crosses source packs or derivatives. | Human curator reviews intent, provenance and semantic equivalence; similarity is not approval. |
+| g21.provenance_context | Attach source, interpretation, example, hypothesis, version/effective date, jurisdiction/period and lifecycle. | Does not replace the technical/legal subject owner. | Complete per-artifact source packet and reproducible observation date. | Source and derivative terms/attribution recorded before training or publication. | Reviewer confirms scope and limitations; source presence is not authority. |
+| g21.licence_rights | Decide permitted use, attribution, derivative, publication and training route. | Does not treat a manifest label or URL as blanket clearance. | Source identity, snapshot/checksum and provenance resolve first. | Unknown or incompatible terms keep the route blocked; decision is per source/asset. | Rights reviewer decides publication/training disposition; domain review remains separate. |
+| g21.runtime_interoperability | Require target-environment probes, deterministic outputs and retained failures for applicable G20 routes. | Tests workflow behavior; does not duplicate CAD, BIM, document, finance or legal content. | Fixture, tool/version, command, output and failure reproduction recorded. | Fixtures, tools, plugins and outputs have compatible terms. | Runtime success does not prove design adequacy, legal validity or professional conformity. |
+| g21.professional_review | Assign the qualified reviewer and record scope, limitations, decision and date. | Defines a stop boundary; it does not perform engineering, legal, accounting or safety practice. | Review packet links to exact version and evidence. | Reviewer may not clear rights outside authority; rights gate remains separate. | CAD/BIM/visual, document, financial/SAL and legal reviewers are role-specific; no sign-off is inferred. |
+| g21.currentness_jurisdiction | Make current-law and time-sensitive claims carry territory, effective date, retrieval time, freshness and conflict behavior. | Routes to existing PA/legal skills; does not create a second legal corpus or advice skill. | Prefer authoritative source; preserve amendment/repeal and conflict evidence. | Edition, transcription, translation and derivative permissions are checked separately. | Qualified legal or domain professional reviews interpretation; missing context stops the route. |
+| g21.release_evaluation | Aggregate structural, provenance, semantic, runtime, rights and professional decisions for a scoped release. | Releases a scoped route only; it does not imply global completeness. | All upstream evidence IDs and open blockers visible. | No release while an applicable rights decision is unresolved. | Release records qualified review and forbids automatic filing, sending, payment, certification or execution. |
+
+### G21 coverage matrix
+
+The matrix is deliberately conservative. Verified is structural only; an empty
+cell means that state is not evidenced for the area. The matrix itself is a
+coordination artifact, not a claim that the underlying content is ready.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Canonical non-redundancy and mapping | Yes | Yes | Yes | Yes | G17/G18 contracts and G20 owner candidates exist; per-facet semantic decisions and alias review remain open. |
+| Provenance and context | Yes | Yes | Yes | Yes | G20 source register and source-separation rules exist; per-artifact version/effective context and reviewer packets are not complete. |
+| Licence and rights | Yes | Yes | Yes | No | Local manifests/notices and G20 licence gates exist; no blanket clearance or complete per-source publication/training decisions are evidenced. |
+| Runtime and interoperability | Yes | Yes | Yes | No | G18 runtime gate and G20 proposed probes exist; no G21 deterministic evidence packet proves all six workflows. |
+| Professional review | Yes | Yes | Yes | No | Professional-boundary text exists; no qualified G21 sign-off is inferred from documentation or static checks. |
+| Currentness and jurisdiction | Yes | Yes | Yes | No | G17/G18 vocabulary and local normative register exist; current validity, conflict resolution and legal review remain open. |
+| Scoped release evaluation | Yes | Yes | Yes | Yes | G20 decision log and this G21 matrix exist structurally; release is blocked while upstream gates remain open. |
+
+### G21 stop conditions
+
+G21 remains blocked for a facet when any applicable source packet, licence
+decision, runtime result, semantic mapping, currentness field or qualified
+review is missing. A structural verified mark may be retained alongside
+blocked; it records that the control exists, not that the facet passes.
+
+No G21 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G21 status promotes a reference-only
+source to verified knowledge.
+
+### G21 sequence
+
+1. **G21-00 - freeze scope.** Keep the six G20 facet IDs and add only the seven
+   cross-cutting G21 areas above; do not add duplicate domain IDs.
+2. **G21-01 - make coverage explicit.** Maintain the matrix and attach every
+   existing, planned, blocked or structural verified mark to a source or
+   decision record.
+3. **G21-02 - close evidence packets.** Build per-facet provenance, rights,
+   runtime and reviewer packets; preserve negative and unresolved cases.
+4. **G21-03 - review currentness and risk.** Apply jurisdiction/effective-date
+   checks to law and professional claims, and domain-specific review to
+   technical, financial, safety and visual outputs.
+5. **G21-04 - scoped decision.** Release only a facet whose applicable gates
+   agree. Keep all other facets explicitly blocked and report the missing gate.
 
 Status: `roadmap-only`, `release=blocked`, observed on 2026-10-18 in the
 requested `codex/uni-inventory` worktree. This document defines controlled
