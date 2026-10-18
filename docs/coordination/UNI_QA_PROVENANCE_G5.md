@@ -31,9 +31,9 @@ Resta consentita la prosa che dichiara esplicitamente l'assenza o la
 separazione della chiave, per esempio `Risposte NON presenti: il file chiave è
 riservato (fuori repository)` e `Le chiavi restano fuori repository`. Restano
 lecite anche frasi naturali delle domande o della documentazione quando il
-termine non è un campo strutturato. Una riga strutturata come
-`correct_letter: ...`, `explanation: ...`, `risposte: ...` o `score: ...` è invece
-bloccata, anche se il valore è nullo o dichiara “non pubblicato”, salvo il
+termine non è un campo strutturato. I nomi `correct_letter`, `explanation`,
+`risposte` e `score`, quando usati come campi strutturati, sono invece
+bloccati anche se il valore è nullo o dichiara “non pubblicato”, salvo il
 marker documentale di assenza riconosciuto esplicitamente.
 
 ## Limiti
