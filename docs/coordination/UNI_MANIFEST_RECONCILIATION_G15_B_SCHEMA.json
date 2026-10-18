@@ -1,0 +1,268 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_MANIFEST_RECONCILIATION_G15_B_SCHEMA.json",
+  "title": "UniCostraction G15-B deterministic manifest and report reconciliation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "reconciliation_id",
+    "metadata_only",
+    "observed_at",
+    "base_commit",
+    "scope",
+    "summary",
+    "input_reports",
+    "manifest_inventory",
+    "record_reconciliation",
+    "duplicate_alias_groups",
+    "pack_reconciliation",
+    "limitations"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_MANIFEST_RECONCILIATION_G15_B_SCHEMA.json"},
+    "schema_version": {"const": "G15-B-manifest-reconciliation"},
+    "reconciliation_id": {"const": "G15-B-manifest-reconciliation"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "base_commit": {"const": "8567297743ea5e4c94c1c0b6a0f18c7886ebc6fc"},
+    "scope": {"$ref": "#/$defs/scope"},
+    "summary": {"$ref": "#/$defs/summary"},
+    "input_reports": {"type": "array", "minItems": 10, "items": {"$ref": "#/$defs/inputReport"}},
+    "manifest_inventory": {"type": "array", "minItems": 5, "items": {"$ref": "#/$defs/manifest"}},
+    "record_reconciliation": {"type": "array", "items": {"$ref": "#/$defs/record"}},
+    "duplicate_alias_groups": {"type": "array", "items": {"$ref": "#/$defs/aliasGroup"}},
+    "pack_reconciliation": {"type": "array", "items": {"$ref": "#/$defs/pack"}},
+    "limitations": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+  },
+  "$defs": {
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "input_report_range",
+        "expected_report_ids",
+        "available_report_ids",
+        "missing_report_ids",
+        "current_checkout_only",
+        "matching_policy",
+        "deduplication_policy",
+        "semantic_matching_policy",
+        "promotion_policy",
+        "excluded_payloads"
+      ],
+      "properties": {
+        "input_report_range": {"const": "G5-G14"},
+        "expected_report_ids": {"const": ["G5", "G6", "G7", "G8", "G9", "G10", "G11", "G12", "G13", "G14"]},
+        "available_report_ids": {"type": "array", "items": {"type": "string", "pattern": "^G(5|6|7|8|9|10|11|12|13|14)$"}},
+        "missing_report_ids": {"const": ["G8"]},
+        "current_checkout_only": {"const": true},
+        "matching_policy": {"type": "string", "minLength": 1},
+        "deduplication_policy": {"type": "string", "minLength": 1},
+        "semantic_matching_policy": {"type": "string", "minLength": 1},
+        "promotion_policy": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "input_report_count",
+        "available_report_count",
+        "missing_report_count",
+        "manifest_count",
+        "record_count",
+        "alias_group_count",
+        "record_rows_with_aliases",
+        "record_rows_with_open_remediation",
+        "pack_count",
+        "pack_rows_with_exact_manifest_scope",
+        "g14_blocked_pack_count",
+        "claim_ready_record_count"
+      ],
+      "properties": {
+        "input_report_count": {"const": 10},
+        "available_report_count": {"type": "integer", "minimum": 0},
+        "missing_report_count": {"const": 1},
+        "manifest_count": {"const": 5},
+        "record_count": {"type": "integer", "minimum": 0},
+        "alias_group_count": {"type": "integer", "minimum": 0},
+        "record_rows_with_aliases": {"type": "integer", "minimum": 0},
+        "record_rows_with_open_remediation": {"type": "integer", "minimum": 0},
+        "pack_count": {"const": 71},
+        "pack_rows_with_exact_manifest_scope": {"type": "integer", "minimum": 0},
+        "g14_blocked_pack_count": {"type": "integer", "minimum": 0},
+        "claim_ready_record_count": {"const": 0}
+      }
+    },
+    "inputReport": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["report_id", "path", "kind", "collection", "present", "schema_version", "artifact_id", "observed_at", "item_count", "status"],
+      "properties": {
+        "report_id": {"type": "string", "pattern": "^G(5|6|7|8|9|10|11|12|13|14)$"},
+        "path": {"type": "string", "minLength": 1},
+        "kind": {"enum": ["manifest", "report"]},
+        "collection": {"type": "string", "minLength": 1},
+        "present": {"type": "boolean"},
+        "schema_version": {"type": ["string", "null"]},
+        "artifact_id": {"type": ["string", "null"]},
+        "observed_at": {"type": ["string", "null"]},
+        "item_count": {"type": "integer", "minimum": 0},
+        "status": {"enum": ["available", "missing_in_checkout"]},
+        "absence_reason": {"type": "string", "minLength": 1}
+      }
+    },
+    "manifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["manifest_path", "manifest_id", "schema_version", "metadata_only", "record_container", "record_count", "declared_package_scope", "package_scope_status", "package_scope_basis", "scope_root"],
+      "properties": {
+        "manifest_path": {"type": "string", "minLength": 1},
+        "manifest_id": {"type": ["string", "null"]},
+        "schema_version": {"type": ["string", "null"]},
+        "metadata_only": {"type": ["boolean", "null"]},
+        "record_container": {"enum": ["records", "source_records"]},
+        "record_count": {"type": "integer", "minimum": 0},
+        "declared_package_scope": {"type": ["string", "null"]},
+        "package_scope_status": {"enum": ["declared", "not_declared"]},
+        "package_scope_basis": {"type": "string", "minLength": 1},
+        "scope_root": {"type": ["string", "null"]}
+      }
+    },
+    "pathHash": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["local_path", "path_status", "hash_algorithm", "hash_sha256", "hash_status", "identity_key"],
+      "properties": {
+        "local_path": {"type": ["string", "null"]},
+        "path_status": {"enum": ["declared", "not_declared"]},
+        "hash_algorithm": {"type": ["string", "null"]},
+        "hash_sha256": {"type": ["string", "null"]},
+        "hash_status": {"enum": ["declared", "not_declared"]},
+        "identity_key": {"type": ["string", "null"]}
+      }
+    },
+    "packageScope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["declared", "status", "basis", "scope_root"],
+      "properties": {
+        "declared": {"type": ["string", "null"]},
+        "status": {"enum": ["declared", "not_declared"]},
+        "basis": {"type": "string", "minLength": 1},
+        "scope_root": {"type": ["string", "null"]}
+      }
+    },
+    "licenseStatus": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state", "basis", "source_specific"],
+      "properties": {
+        "state": {"enum": ["declared", "observed_local", "blocked", "not_declared", "not_available"]},
+        "basis": {"type": "string", "minLength": 1},
+        "source_specific": {"type": ["boolean", "null"]}
+      }
+    },
+    "evidenceStatus": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["state", "basis", "g6_proof_state", "g9_status", "g11_status", "g12_license_state", "claim_ready", "promotion"],
+      "properties": {
+        "state": {"enum": ["verified", "observed_local", "context_only", "blocked", "not_available"]},
+        "basis": {"type": "string", "minLength": 1},
+        "g6_proof_state": {"type": ["string", "null"]},
+        "g9_status": {"type": ["string", "null"]},
+        "g11_status": {"type": ["string", "null"]},
+        "g12_license_state": {"type": ["string", "null"]},
+        "claim_ready": {"const": false},
+        "promotion": {"const": "not_promoted"}
+      }
+    },
+    "remediation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["g7_items", "g9_item_ids", "g9_residual_codes", "g11_blocker_codes", "g12_blocker_codes", "open"],
+      "properties": {
+        "g7_items": {"type": "array", "items": {"$ref": "#/$defs/g7ItemRef"}},
+        "g9_item_ids": {"type": "array", "items": {"type": "string"}},
+        "g9_residual_codes": {"type": "array", "items": {"type": "string"}},
+        "g11_blocker_codes": {"type": "array", "items": {"type": "string"}},
+        "g12_blocker_codes": {"type": "array", "items": {"type": "string"}},
+        "open": {"type": "boolean"}
+      }
+    },
+    "g7ItemRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["item_id", "category", "status", "source_ref"],
+      "properties": {
+        "item_id": {"type": "string", "minLength": 1},
+        "category": {"type": "string", "minLength": 1},
+        "status": {"type": "string", "minLength": 1},
+        "source_ref": {"type": "string", "minLength": 1}
+      }
+    },
+    "record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["record_key", "manifest_path", "manifest_id", "record_id", "record_kind", "title", "source_kind", "source_reports", "path_hash", "package_scope", "license_status", "evidence_status", "alias_group_ids", "remediation"],
+      "properties": {
+        "record_key": {"type": "string", "minLength": 1},
+        "manifest_path": {"type": "string", "minLength": 1},
+        "manifest_id": {"type": ["string", "null"]},
+        "record_id": {"type": "string", "minLength": 1},
+        "record_kind": {"type": "string", "minLength": 1},
+        "title": {"type": ["string", "null"]},
+        "source_kind": {"type": ["string", "null"]},
+        "source_reports": {"type": "array", "items": {"type": "string"}},
+        "path_hash": {"$ref": "#/$defs/pathHash"},
+        "package_scope": {"$ref": "#/$defs/packageScope"},
+        "license_status": {"$ref": "#/$defs/licenseStatus"},
+        "evidence_status": {"$ref": "#/$defs/evidenceStatus"},
+        "alias_group_ids": {"type": "array", "items": {"type": "string"}},
+        "remediation": {"$ref": "#/$defs/remediation"}
+      }
+    },
+    "aliasGroup": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["alias_group_id", "relation", "local_path", "hash_sha256", "record_keys", "representation_count", "review_status", "deduplication_performed", "semantic_deduplication_performed", "remediation_refs"],
+      "properties": {
+        "alias_group_id": {"type": "string", "pattern": "^G15-B-ALIAS-[0-9]{3}$"},
+        "relation": {"const": "exact_path_hash_alias"},
+        "local_path": {"type": "string", "minLength": 1},
+        "hash_sha256": {"type": "string", "pattern": "^[A-F0-9]{64}$"},
+        "record_keys": {"type": "array", "minItems": 2, "uniqueItems": true, "items": {"type": "string"}},
+        "representation_count": {"type": "integer", "minimum": 2},
+        "review_status": {"const": "open"},
+        "deduplication_performed": {"const": false},
+        "semantic_deduplication_performed": {"const": false},
+        "remediation_refs": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "pack": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pack_id", "pack_path", "course_yaml", "package_scope_matches", "package_scope_status", "source_record_keys", "g13_source_record_status", "g13_license_status", "g13_evidence_status", "g13_remediation_codes", "g14_queue_item_id", "g14_status", "g14_blocker_codes", "remediation_open"],
+      "properties": {
+        "pack_id": {"type": "string", "minLength": 1},
+        "pack_path": {"type": "string", "minLength": 1},
+        "course_yaml": {"type": ["string", "null"]},
+        "package_scope_matches": {"type": "array", "items": {"type": "string"}},
+        "package_scope_status": {"enum": ["exact_manifest_scope", "no_exact_manifest_scope"]},
+        "source_record_keys": {"type": "array", "items": {"type": "string"}},
+        "g13_source_record_status": {"type": "string", "minLength": 1},
+        "g13_license_status": {"type": "string", "minLength": 1},
+        "g13_evidence_status": {"type": "string", "minLength": 1},
+        "g13_remediation_codes": {"type": "array", "items": {"type": "string"}},
+        "g14_queue_item_id": {"type": ["string", "null"]},
+        "g14_status": {"type": "string", "minLength": 1},
+        "g14_blocker_codes": {"type": "array", "items": {"type": "string"}},
+        "remediation_open": {"type": "boolean"}
+      }
+    }
+  }
+}

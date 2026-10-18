@@ -1,0 +1,5136 @@
+{
+  "$schema": "./UNI_MANIFEST_RECONCILIATION_G15_B_SCHEMA.json",
+  "schema_version": "G15-B-manifest-reconciliation",
+  "reconciliation_id": "G15-B-manifest-reconciliation",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "base_commit": "8567297743ea5e4c94c1c0b6a0f18c7886ebc6fc",
+  "scope": {
+    "input_report_range": "G5-G14",
+    "expected_report_ids": [
+      "G5",
+      "G6",
+      "G7",
+      "G8",
+      "G9",
+      "G10",
+      "G11",
+      "G12",
+      "G13",
+      "G14"
+    ],
+    "available_report_ids": [
+      "G5",
+      "G6",
+      "G7",
+      "G9",
+      "G10",
+      "G11",
+      "G12",
+      "G13",
+      "G14"
+    ],
+    "missing_report_ids": [
+      "G8"
+    ],
+    "current_checkout_only": true,
+    "matching_policy": "Only explicit record keys, manifest paths, exact path+SHA-256 identity, and explicit manifest scope.package are admissible.",
+    "deduplication_policy": "Exact path+SHA-256 aliases remain separate representations; no deduplication is performed.",
+    "semantic_matching_policy": "Course names, titles, topics, COURSE.yaml fonti, text similarity, and presumed subject correspondence are not matching bases.",
+    "promotion_policy": "Licence, evidence, vigency, legal clearance, and claim-ready state are copied or blocked conservatively; no state is promoted by this reconciliation.",
+    "excluded_payloads": [
+      "PDF, XML, HTML, manuals, standards, prices, manufacturer data, and source text",
+      "COURSE.yaml content beyond report-provided pack identifiers and paths",
+      "schede JSONL, exam questions, answers, and solutions",
+      "live URL requests and independent legal or technical review"
+    ]
+  },
+  "summary": {
+    "input_report_count": 10,
+    "available_report_count": 9,
+    "missing_report_count": 1,
+    "manifest_count": 5,
+    "record_count": 34,
+    "alias_group_count": 14,
+    "record_rows_with_aliases": 28,
+    "record_rows_with_open_remediation": 34,
+    "pack_count": 71,
+    "pack_rows_with_exact_manifest_scope": 1,
+    "g14_blocked_pack_count": 70,
+    "claim_ready_record_count": 0
+  },
+  "input_reports": [
+    {
+      "report_id": "G5",
+      "path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "kind": "manifest",
+      "collection": "source_records",
+      "present": true,
+      "schema_version": "G5-source-metadata",
+      "artifact_id": "G5-ECFR-OSHA-1926",
+      "observed_at": "2026-10-18",
+      "item_count": 1,
+      "status": "available"
+    },
+    {
+      "report_id": "G6",
+      "path": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json",
+      "kind": "report",
+      "collection": "records",
+      "present": true,
+      "schema_version": "G6-provenance-audit",
+      "artifact_id": "G6-B-provenance",
+      "observed_at": "2026-10-18",
+      "item_count": 33,
+      "status": "available"
+    },
+    {
+      "report_id": "G7",
+      "path": "docs/coordination/UNI_REMEDIATION_QUEUE_G7_B.json",
+      "kind": "report",
+      "collection": "items",
+      "present": true,
+      "schema_version": "G7-B-remediation-queue",
+      "artifact_id": "G7-B-provenance-remediation",
+      "observed_at": "2026-10-18",
+      "item_count": 48,
+      "status": "available"
+    },
+    {
+      "report_id": "G8",
+      "path": "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+      "kind": "report",
+      "collection": "ledger",
+      "present": false,
+      "schema_version": null,
+      "artifact_id": null,
+      "observed_at": null,
+      "item_count": 0,
+      "status": "missing_in_checkout",
+      "absence_reason": "Report G8 is not present in the requested checkout at the G15-B base."
+    },
+    {
+      "report_id": "G9",
+      "path": "docs/coordination/UNI_CLAIM_COVERAGE_G9_B.json",
+      "kind": "report",
+      "collection": "records",
+      "present": true,
+      "schema_version": "G9-B-claim-coverage",
+      "artifact_id": "G9-B-claim-coverage",
+      "observed_at": "2026-10-18",
+      "item_count": 33,
+      "status": "available"
+    },
+    {
+      "report_id": "G10",
+      "path": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json",
+      "kind": "manifest",
+      "collection": "source_records",
+      "present": true,
+      "schema_version": "G10-B-source-metadata",
+      "artifact_id": "G10-B-EU-EPBD-2024-1275",
+      "observed_at": "2026-10-18",
+      "item_count": 1,
+      "status": "available"
+    },
+    {
+      "report_id": "G11",
+      "path": "docs/coordination/UNI_EVIDENCE_LICENSE_MATRIX_G11_B.json",
+      "kind": "report",
+      "collection": "rows",
+      "present": true,
+      "schema_version": "G11-B-evidence-license-matrix",
+      "artifact_id": "G11-B-evidence-license",
+      "observed_at": "2026-10-18",
+      "item_count": 2,
+      "status": "available"
+    },
+    {
+      "report_id": "G12",
+      "path": "docs/coordination/UNI_LOCATOR_LICENSE_CHECKLIST_G12_B.json",
+      "kind": "report",
+      "collection": "records",
+      "present": true,
+      "schema_version": "G12-B-locator-license-checklist",
+      "artifact_id": "G12-B-locator-license",
+      "observed_at": "2026-10-18",
+      "item_count": 2,
+      "status": "available"
+    },
+    {
+      "report_id": "G13",
+      "path": "docs/coordination/UNI_PACK_PROVENANCE_COVERAGE_G13_B.json",
+      "kind": "report",
+      "collection": "packs",
+      "present": true,
+      "schema_version": "G13-B-pack-provenance-coverage",
+      "artifact_id": "G13-B-pack-provenance-coverage",
+      "observed_at": "2026-10-18",
+      "item_count": 71,
+      "status": "available"
+    },
+    {
+      "report_id": "G14",
+      "path": "docs/coordination/UNI_PACK_EVIDENCE_QUEUE_G14_B.json",
+      "kind": "report",
+      "collection": "items",
+      "present": true,
+      "schema_version": "G14-B-pack-evidence-queue",
+      "artifact_id": "G14-B-pack-evidence-queue",
+      "observed_at": "2026-10-18",
+      "item_count": 70,
+      "status": "available"
+    }
+  ],
+  "manifest_inventory": [
+    {
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "schema_version": "G2-package-metadata",
+      "metadata_only": true,
+      "record_container": "records",
+      "record_count": 14,
+      "declared_package_scope": null,
+      "package_scope_status": "not_declared",
+      "package_scope_basis": "not_declared",
+      "scope_root": null
+    },
+    {
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "schema_version": "G3-source-metadata",
+      "metadata_only": true,
+      "record_container": "records",
+      "record_count": 2,
+      "declared_package_scope": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+      "package_scope_status": "declared",
+      "package_scope_basis": "manifest.scope.package",
+      "scope_root": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf"
+    },
+    {
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "schema_version": "G1",
+      "metadata_only": null,
+      "record_container": "records",
+      "record_count": 14,
+      "declared_package_scope": null,
+      "package_scope_status": "not_declared",
+      "package_scope_basis": "not_declared",
+      "scope_root": "Fondamenti_Pack/raw/gutenberg"
+    },
+    {
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json",
+      "manifest_id": "G10-B-EU-EPBD-2024-1275",
+      "schema_version": "G10-B-source-metadata",
+      "metadata_only": true,
+      "record_container": "source_records",
+      "record_count": 1,
+      "declared_package_scope": "docs/coordination",
+      "package_scope_status": "declared",
+      "package_scope_basis": "manifest.scope.package",
+      "scope_root": null
+    },
+    {
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "schema_version": "G5-source-metadata",
+      "metadata_only": true,
+      "record_container": "source_records",
+      "record_count": 1,
+      "declared_package_scope": "Edilizia_Pack",
+      "package_scope_status": "declared",
+      "package_scope_basis": "manifest.scope.package",
+      "scope_root": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml"
+    }
+  ],
+  "record_reconciliation": [
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-001",
+      "record_kind": "source",
+      "title": "The Nicomachean Ethics",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt#A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-001"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-2d05db44caa2",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-2d05db44caa2"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-002",
+      "record_kind": "source",
+      "title": "Calculus Made Easy",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt#C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-002"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-31b478711852",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-31b478711852"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-003",
+      "record_kind": "source",
+      "title": "Discourse on the Method",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt#7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-003"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-563421d594bc",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-563421d594bc"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-004",
+      "record_kind": "source",
+      "title": "Relativity: The Special and General Theory",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt#86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-004"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-7a1085c41974",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-7a1085c41974"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-005",
+      "record_kind": "source",
+      "title": "The Elements of Euclid",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt#A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-005"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-f7d85ebf1119",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-f7d85ebf1119"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-006",
+      "record_kind": "source",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt#03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-006"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-97bdef2d535d",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-97bdef2d535d"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-007",
+      "record_kind": "source",
+      "title": "The Critique of Pure Reason",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt#9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-007"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-4d3158739753",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-4d3158739753"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-008",
+      "record_kind": "source",
+      "title": "Elements of Chemistry",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt#E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-008"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-c56b274ab944",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-c56b274ab944"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-009",
+      "record_kind": "source",
+      "title": "Meditations",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt#6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-009"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-f8da041b976f",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-f8da041b976f"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-010",
+      "record_kind": "source",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt#A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-010"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-b81af7324bed",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-b81af7324bed"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-011",
+      "record_kind": "source",
+      "title": "On the Origin of Species",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt#EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-011"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-e57c136cd146",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-e57c136cd146"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-012",
+      "record_kind": "source",
+      "title": "The Republic",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt#917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-012"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-b61a8673f48f",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-b61a8673f48f"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-013",
+      "record_kind": "source",
+      "title": "The Problems of Philosophy",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt#2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-013"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-6869b4f3bc39",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-6869b4f3bc39"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-014",
+      "record_kind": "source",
+      "title": "Tractatus Logico-Philosophicus",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt#88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-014"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-021cd01c467f",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-021cd01c467f"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_id": "G3-2-001",
+      "record_kind": "source",
+      "title": "Regole Applicative del D.M. 7 agosto 2025 — Incentivazione di interventi di piccole dimensioni per l'incremento dell'efficienza energetica e per la produzione di energia termica da fonti rinnovabili",
+      "source_kind": "primary_official",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "6BEE1738B9D690FCDD2AFF21078807D0C0D286EEDFCC6092DE416BA50E167F7A",
+        "hash_status": "declared",
+        "identity_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf#6BEE1738B9D690FCDD2AFF21078807D0C0D286EEDFCC6092DE416BA50E167F7A"
+      },
+      "package_scope": {
+        "declared": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+        "status": "declared",
+        "basis": "manifest.scope.package",
+        "scope_root": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf"
+      },
+      "license_status": {
+        "state": "not_declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "blocked",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "blocked",
+        "g9_status": "blocked",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-G3-PDF-d2238c6a7fbb",
+            "category": "g3_pdf_blocked",
+            "status": "open",
+            "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001"
+          },
+          {
+            "item_id": "G7-B-LICENSE-d2238c6a7fbb",
+            "category": "license_missing",
+            "status": "open",
+            "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-G3-PDF-d2238c6a7fbb",
+          "G7-B-LICENSE-d2238c6a7fbb"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+          "g6:exact_url_not_declared",
+          "g6:license_or_reuse_terms_not_declared",
+          "license_missing",
+          "url_missing"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_id": "G3-2-002",
+      "record_kind": "context",
+      "title": "Modulistica CT 2.0 - Conto Termico 3.0",
+      "source_kind": "official_context_page",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": null,
+        "path_status": "not_declared",
+        "hash_algorithm": null,
+        "hash_sha256": null,
+        "hash_status": "not_declared",
+        "identity_key": null
+      },
+      "package_scope": {
+        "declared": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+        "status": "declared",
+        "basis": "manifest.scope.package",
+        "scope_root": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf"
+      },
+      "license_status": {
+        "state": "not_declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "context_only",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "context_only",
+        "g9_status": "context_only",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-GSE-CONTEXT-bb41c71f1f79",
+            "category": "gse_context_only",
+            "status": "open",
+            "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002"
+          },
+          {
+            "item_id": "G7-B-LICENSE-bb41c71f1f79",
+            "category": "license_missing",
+            "status": "open",
+            "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-GSE-CONTEXT-bb41c71f1f79",
+          "G7-B-LICENSE-bb41c71f1f79"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:context_does_not_prove_source_vigency_or_reuse",
+          "g6:license_or_reuse_terms_not_declared",
+          "license_missing",
+          "source_record_missing"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-001",
+      "record_kind": "source",
+      "title": "The Nicomachean Ethics",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt#A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-001"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-2d05db44caa2",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-20fb331aae60",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-20fb331aae60",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-2d05db44caa2",
+          "G7-B-MANIFEST-ID-20fb331aae60",
+          "G7-B-METADATA-ONLY-20fb331aae60"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-002",
+      "record_kind": "source",
+      "title": "Calculus Made Easy",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt#C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-002"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-31b478711852",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-d8ace45a8272",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-d8ace45a8272",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-31b478711852",
+          "G7-B-MANIFEST-ID-d8ace45a8272",
+          "G7-B-METADATA-ONLY-d8ace45a8272"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-003",
+      "record_kind": "source",
+      "title": "Discourse on the Method",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt#7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-003"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-563421d594bc",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-3100c5a811ae",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-3100c5a811ae",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-563421d594bc",
+          "G7-B-MANIFEST-ID-3100c5a811ae",
+          "G7-B-METADATA-ONLY-3100c5a811ae"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-004",
+      "record_kind": "source",
+      "title": "Relativity: The Special and General Theory",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt#86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-004"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-7a1085c41974",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-216f877f179e",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-216f877f179e",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-7a1085c41974",
+          "G7-B-MANIFEST-ID-216f877f179e",
+          "G7-B-METADATA-ONLY-216f877f179e"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-005",
+      "record_kind": "source",
+      "title": "The Elements of Euclid",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt#A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-005"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-f7d85ebf1119",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-2779fa8bfa39",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-2779fa8bfa39",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-f7d85ebf1119",
+          "G7-B-MANIFEST-ID-2779fa8bfa39",
+          "G7-B-METADATA-ONLY-2779fa8bfa39"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-006",
+      "record_kind": "source",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt#03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-006"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-97bdef2d535d",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-9ec7563b0a3d",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-9ec7563b0a3d",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-97bdef2d535d",
+          "G7-B-MANIFEST-ID-9ec7563b0a3d",
+          "G7-B-METADATA-ONLY-9ec7563b0a3d"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-007",
+      "record_kind": "source",
+      "title": "The Critique of Pure Reason",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt#9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-007"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-4d3158739753",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-7030cf577140",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-7030cf577140",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-4d3158739753",
+          "G7-B-MANIFEST-ID-7030cf577140",
+          "G7-B-METADATA-ONLY-7030cf577140"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-008",
+      "record_kind": "source",
+      "title": "Elements of Chemistry",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt#E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-008"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-c56b274ab944",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-e647cf2bfa2a",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-e647cf2bfa2a",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-c56b274ab944",
+          "G7-B-MANIFEST-ID-e647cf2bfa2a",
+          "G7-B-METADATA-ONLY-e647cf2bfa2a"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-009",
+      "record_kind": "source",
+      "title": "Meditations",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt#6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-009"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-f8da041b976f",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-a5c653dacb18",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-a5c653dacb18",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-f8da041b976f",
+          "G7-B-MANIFEST-ID-a5c653dacb18",
+          "G7-B-METADATA-ONLY-a5c653dacb18"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-010",
+      "record_kind": "source",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt#A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-010"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-b81af7324bed",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-a81a59114128",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-a81a59114128",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-b81af7324bed",
+          "G7-B-MANIFEST-ID-a81a59114128",
+          "G7-B-METADATA-ONLY-a81a59114128"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-011",
+      "record_kind": "source",
+      "title": "On the Origin of Species",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt#EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-011"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-e57c136cd146",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-91f708dc68ec",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-91f708dc68ec",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-e57c136cd146",
+          "G7-B-MANIFEST-ID-91f708dc68ec",
+          "G7-B-METADATA-ONLY-91f708dc68ec"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-012",
+      "record_kind": "source",
+      "title": "The Republic",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt#917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-012"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-b61a8673f48f",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-8c2ee0253a0c",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-8c2ee0253a0c",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-b61a8673f48f",
+          "G7-B-MANIFEST-ID-8c2ee0253a0c",
+          "G7-B-METADATA-ONLY-8c2ee0253a0c"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-013",
+      "record_kind": "source",
+      "title": "The Problems of Philosophy",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt#2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-013"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-6869b4f3bc39",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-846c4982f125",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-846c4982f125",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-6869b4f3bc39",
+          "G7-B-MANIFEST-ID-846c4982f125",
+          "G7-B-METADATA-ONLY-846c4982f125"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-014",
+      "record_kind": "source",
+      "title": "Tractatus Logico-Philosophicus",
+      "source_kind": "public_domain_work",
+      "source_reports": [
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+        "hash_status": "declared",
+        "identity_key": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt#88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+      },
+      "package_scope": {
+        "declared": null,
+        "status": "not_declared",
+        "basis": "not_declared",
+        "scope_root": "Fondamenti_Pack/raw/gutenberg"
+      },
+      "license_status": {
+        "state": "declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [
+        "G15-B-ALIAS-014"
+      ],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-ALIAS-021cd01c467f",
+            "category": "alias_not_deduplicated",
+            "status": "open",
+            "source_ref": "alias:88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6"
+          },
+          {
+            "item_id": "G7-B-MANIFEST-ID-0b51983ef4e2",
+            "category": "missing_manifest_id",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+          },
+          {
+            "item_id": "G7-B-METADATA-ONLY-0b51983ef4e2",
+            "category": "missing_metadata_only",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-ALIAS-021cd01c467f",
+          "G7-B-MANIFEST-ID-0b51983ef4e2",
+          "G7-B-METADATA-ONLY-0b51983ef4e2"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked",
+          "g6:manifest_id_not_declared_lot_id_used_as_reference",
+          "g6:manifest_metadata_only_flag_not_declared"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json#G10-B-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json",
+      "manifest_id": "G10-B-EU-EPBD-2024-1275",
+      "record_id": "G10-B-001",
+      "record_kind": "source",
+      "title": "Direttiva (UE) 2024/1275 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sulla prestazione energetica nell'edilizia (rifusione)",
+      "source_kind": "primary_official",
+      "source_reports": [
+        "G10",
+        "G11",
+        "G12"
+      ],
+      "path_hash": {
+        "local_path": null,
+        "path_status": "not_declared",
+        "hash_algorithm": null,
+        "hash_sha256": null,
+        "hash_status": "not_declared",
+        "identity_key": null
+      },
+      "package_scope": {
+        "declared": "docs/coordination",
+        "status": "declared",
+        "basis": "manifest.scope.package",
+        "scope_root": null
+      },
+      "license_status": {
+        "state": "blocked",
+        "basis": "G11.evidence_license_matrix",
+        "source_specific": false
+      },
+      "evidence_status": {
+        "state": "blocked",
+        "basis": "G12.locator_license_checklist",
+        "g6_proof_state": "context_only",
+        "g9_status": null,
+        "g11_status": "blocked",
+        "g12_license_state": "blocked",
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [],
+      "remediation": {
+        "g7_items": [],
+        "g9_item_ids": [],
+        "g9_residual_codes": [],
+        "g11_blocker_codes": [
+          "claim_ready_not_allowed",
+          "live_locator_recheck_not_performed",
+          "official_context_is_not_source_license",
+          "source_specific_license_not_established"
+        ],
+        "g12_blocker_codes": [
+          "claim_not_ready",
+          "independent_legal_clearance_required",
+          "official_context_is_not_source_license",
+          "source_specific_license_not_established"
+        ],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "BLOCKER-001",
+      "record_kind": "blocker",
+      "title": "GSE Conto Termico 3.0 PDF locale",
+      "source_kind": null,
+      "source_reports": [
+        "G5",
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": null,
+        "path_status": "not_declared",
+        "hash_algorithm": null,
+        "hash_sha256": null,
+        "hash_status": "not_declared",
+        "identity_key": null
+      },
+      "package_scope": {
+        "declared": "Edilizia_Pack",
+        "status": "declared",
+        "basis": "manifest.scope.package",
+        "scope_root": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml"
+      },
+      "license_status": {
+        "state": "not_declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "blocked",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "blocked",
+        "g9_status": "blocked",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-LICENSE-f0a2f548d65f",
+            "category": "license_missing",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-LICENSE-f0a2f548d65f"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+          "g6:exact_url_not_declared",
+          "g6:license_or_reuse_terms_not_declared",
+          "license_missing",
+          "source_record_missing",
+          "url_missing"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "G5-001",
+      "record_kind": "source",
+      "title": "29 CFR Part 1926 — Safety and Health Regulations for Construction",
+      "source_kind": "primary_official",
+      "source_reports": [
+        "G11",
+        "G12",
+        "G5",
+        "G6",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml",
+        "path_status": "declared",
+        "hash_algorithm": "SHA-256",
+        "hash_sha256": "EB9BA469FA297F97A7FA34B40D317179F68B9036DF3F19DB42FC6C2B19777D52",
+        "hash_status": "declared",
+        "identity_key": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml#EB9BA469FA297F97A7FA34B40D317179F68B9036DF3F19DB42FC6C2B19777D52"
+      },
+      "package_scope": {
+        "declared": "Edilizia_Pack",
+        "status": "declared",
+        "basis": "manifest.scope.package",
+        "scope_root": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml"
+      },
+      "license_status": {
+        "state": "observed_local",
+        "basis": "G11.evidence_license_matrix",
+        "source_specific": true
+      },
+      "evidence_status": {
+        "state": "observed_local",
+        "basis": "G11.evidence_license_matrix",
+        "g6_proof_state": "observed_local",
+        "g9_status": "observed_local",
+        "g11_status": "observed_local",
+        "g12_license_state": "observed_local",
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [],
+      "remediation": {
+        "g7_items": [],
+        "g9_item_ids": [],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:content_or_legal_accuracy_not_checked",
+          "g6:current_version_or_vigency_not_checked",
+          "g6:external_url_availability_not_checked",
+          "g6:independent_license_clearance_not_checked"
+        ],
+        "g11_blocker_codes": [
+          "current_content_or_regulatory_status_not_checked",
+          "current_license_terms_not_checked",
+          "independent_legal_clearance_not_checked",
+          "live_locator_not_checked"
+        ],
+        "g12_blocker_codes": [
+          "claim_not_ready",
+          "exact_locator_live_check_blocked",
+          "independent_legal_clearance_required",
+          "official_context_live_check_blocked",
+          "source_specific_license_terms_live_not_checked"
+        ],
+        "open": true
+      }
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "G5-CONTEXT-001",
+      "record_kind": "context",
+      "title": null,
+      "source_kind": null,
+      "source_reports": [
+        "G5",
+        "G6",
+        "G7",
+        "G9"
+      ],
+      "path_hash": {
+        "local_path": null,
+        "path_status": "not_declared",
+        "hash_algorithm": null,
+        "hash_sha256": null,
+        "hash_status": "not_declared",
+        "identity_key": null
+      },
+      "package_scope": {
+        "declared": "Edilizia_Pack",
+        "status": "declared",
+        "basis": "manifest.scope.package",
+        "scope_root": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml"
+      },
+      "license_status": {
+        "state": "not_declared",
+        "basis": "G6.provenance_audit",
+        "source_specific": null
+      },
+      "evidence_status": {
+        "state": "context_only",
+        "basis": "G6.provenance_audit",
+        "g6_proof_state": "context_only",
+        "g9_status": "context_only",
+        "g11_status": null,
+        "g12_license_state": null,
+        "claim_ready": false,
+        "promotion": "not_promoted"
+      },
+      "alias_group_ids": [],
+      "remediation": {
+        "g7_items": [
+          {
+            "item_id": "G7-B-LICENSE-a1ebfdce0589",
+            "category": "license_missing",
+            "status": "open",
+            "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+          }
+        ],
+        "g9_item_ids": [
+          "G7-B-LICENSE-a1ebfdce0589"
+        ],
+        "g9_residual_codes": [
+          "claim_not_ready",
+          "evidence_not_verified",
+          "explicit_claim_ready_evidence_missing",
+          "g6:context_does_not_prove_source_vigency_or_reuse",
+          "g6:license_or_reuse_terms_not_declared",
+          "license_missing",
+          "source_record_missing"
+        ],
+        "g11_blocker_codes": [],
+        "g12_blocker_codes": [],
+        "open": true
+      }
+    }
+  ],
+  "duplicate_alias_groups": [
+    {
+      "alias_group_id": "G15-B-ALIAS-001",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "hash_sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-2d05db44caa2"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-002",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "hash_sha256": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-31b478711852"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-003",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "hash_sha256": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-563421d594bc"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-004",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "hash_sha256": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-7a1085c41974"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-005",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "hash_sha256": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-f7d85ebf1119"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-006",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "hash_sha256": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-97bdef2d535d"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-007",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "hash_sha256": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-4d3158739753"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-008",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "hash_sha256": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-c56b274ab944"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-009",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "hash_sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-f8da041b976f"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-010",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "hash_sha256": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-b81af7324bed"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-011",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "hash_sha256": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-e57c136cd146"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-012",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "hash_sha256": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-b61a8673f48f"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-013",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "hash_sha256": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-6869b4f3bc39"
+      ]
+    },
+    {
+      "alias_group_id": "G15-B-ALIAS-014",
+      "relation": "exact_path_hash_alias",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "hash_sha256": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "representation_count": 2,
+      "review_status": "open",
+      "deduplication_performed": false,
+      "semantic_deduplication_performed": false,
+      "remediation_refs": [
+        "G7-B-ALIAS-021cd01c467f"
+      ]
+    }
+  ],
+  "pack_reconciliation": [
+    {
+      "pack_id": "ACUSTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-ACUSTICA_EDILIZIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "ARCHITETTURA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-ARCHITETTURA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "CAD_BIM_PROGETTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-CAD_BIM_PROGETTAZIONE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "CAPPOTTO_ETICS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-CAPPOTTO_ETICS_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "CONTABILITA_APPALTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-CONTABILITA_APPALTI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "COSTRUIRE_IN_LEGNO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-COSTRUIRE_IN_LEGNO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "COSTRUZIONI_SPECIALI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-COSTRUZIONI_SPECIALI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DESIGN_GUSTO_TENDENZE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DESIGN_GUSTO_TENDENZE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DISEGNO_TECNICO_MANUALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DISEGNO_TECNICO_MANUALE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "DOMOTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-DOMOTICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "EDILIZIA_CIRCOLARE_LCA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-EDILIZIA_CIRCOLARE_LCA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "ENERGETICA_INCENTIVI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/COURSE.yaml",
+      "package_scope_matches": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json"
+      ],
+      "package_scope_status": "exact_manifest_scope",
+      "source_record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002"
+      ],
+      "g13_source_record_status": "observed_local",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": null,
+      "g14_status": "not_queued",
+      "g14_blocker_codes": [],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "FERROVIE_E_STAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-FERROVIE_E_STAZIONI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "FORMULARIO_FISICA_IMPIANTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-FORMULARIO_FISICA_IMPIANTI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "FORMULARIO_STRUTTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-FORMULARIO_STRUTTURE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "GEOTECNICA_E_FONDAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-GEOTECNICA_E_FONDAZIONI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "GESTIONE_CONDOMINIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-GESTIONE_CONDOMINIO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "ILLUMINAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-ILLUMINAZIONE_TECNICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "IMPIANTI_COMPLETA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-IMPIANTI_COMPLETA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-INFRASTRUTTURE_VIARIE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "INGEGNERIA_CIVILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-INGEGNERIA_CIVILE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-INGEGNERIA_STRUTTURALE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MASTER_DESIGN_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MASTER_DESIGN_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MASTER_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MASTER_IMPRESA_EDILE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MATEMATICA_PER_COSTRUIRE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MATEMATICA_PER_COSTRUIRE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MATERIALI_DEL_FUTURO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MATERIALI_DEL_FUTURO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-MURATURE_INTONACI_E_FINITURE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "OSPEDALI_E_HEALTHCARE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-OSPEDALI_E_HEALTHCARE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "PISCINE_E_WELLNESS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-PISCINE_E_WELLNESS_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "PORTI_E_OPERE_MARITTIME_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-PORTI_E_OPERE_MARITTIME_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "POSA_IN_OPERA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-POSA_IN_OPERA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "REAL_ESTATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-REAL_ESTATE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "ROBOTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-ROBOTICA_EDILIZIA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "SERRAMENTI_E_VETRATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-SERRAMENTI_E_VETRATE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "TETTI_E_COPERTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-TETTI_E_COPERTURE_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "URBANISTICA_TERRITORIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-URBANISTICA_TERRITORIO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    },
+    {
+      "pack_id": "VERDE_ARREDO_URBANO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/COURSE.yaml",
+      "package_scope_matches": [],
+      "package_scope_status": "no_exact_manifest_scope",
+      "source_record_keys": [],
+      "g13_source_record_status": "blocked",
+      "g13_license_status": "blocked",
+      "g13_evidence_status": "blocked",
+      "g13_remediation_codes": [
+        "evidence_not_observed_local_for_all_matched_records",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_record_missing_for_pack",
+        "source_specific_license_not_declared"
+      ],
+      "g14_queue_item_id": "G14-B-VERDE_ARREDO_URBANO_PACK",
+      "g14_status": "blocked",
+      "g14_blocker_codes": [
+        "context_not_substitutive",
+        "evidence_not_observed_for_pack",
+        "interpretation_not_authorized",
+        "legal_clearance_required",
+        "license_proof_not_observed_for_pack",
+        "locator_not_observed_for_pack",
+        "source_record_missing_for_pack"
+      ],
+      "remediation_open": true
+    }
+  ],
+  "limitations": [
+    "G8 is explicitly absent from this checkout and is not imported from another branch or reconstructed.",
+    "The report reconciles declared metadata and prior report states; it does not prove source accuracy, current URL availability, licence clearance, legal status, or regulatory vigency.",
+    "An exact path+SHA-256 alias is reported as a review relationship, not as a destructive or semantic deduplication decision."
+  ]
+}
