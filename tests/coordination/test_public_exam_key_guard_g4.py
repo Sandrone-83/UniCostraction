@@ -78,7 +78,6 @@ FORBIDDEN_FIELD_NAMES = frozenset(
         "explanations",
         "spiegazione",
         "spiegazioni",
-        "rationale",
         "motivazione",
         "justification",
         "answer_explanation",
