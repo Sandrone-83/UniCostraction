@@ -1,0 +1,4963 @@
+{
+  "schema_version": "g4.v1",
+  "tool": "tools/uni_pack_exam_map_g4.py",
+  "scope": {
+    "pack_root": "UNIVERSITA_EDILIZIA",
+    "exam_root": "UNIVERSITA_EDILIZIA/ESAMI",
+    "pack_selector": "UNIVERSITA_EDILIZIA/*_PACK",
+    "exam_selector": "UNIVERSITA_EDILIZIA/ESAMI/*/domande.md",
+    "included_evidence": [
+      "pack and exam directory names",
+      "COURSE.yaml first corso value",
+      "pack README first heading",
+      "exam domande.md first ESAME heading",
+      "explicit legacy rows in UNIVERSITA_EDILIZIA/ESAMI/README.md"
+    ],
+    "source_of_truth": "selected checkout filesystem",
+    "content_modified": false
+  },
+  "method": {
+    "exact_name": "pack directory stem without _PACK equals exam directory key",
+    "alias_observed": "all non-stopword bounded name roots of one observed label occur in the other side's labels",
+    "ambiguous": "more than one observed candidate remains for the item",
+    "unmatched": "no observed name candidate; no semantic fallback is applied",
+    "normalization": "Unicode NFKD, ASCII fold, casefold, tokenization; bounded Italian suffix stripping only for name signals",
+    "semantic_inference": false
+  },
+  "counts": {
+    "packs": 71,
+    "exams": 73,
+    "observed_pairs": 73,
+    "pack_classifications": {
+      "exact_name": 13,
+      "alias_observed": 56,
+      "unmatched_pack": 0,
+      "ambiguous": 2
+    },
+    "exam_classifications": {
+      "exact_name": 14,
+      "alias_observed": 55,
+      "unmatched_exam": 2,
+      "ambiguous": 2
+    }
+  },
+  "packs": [
+    {
+      "pack_id": "ACUSTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK",
+      "directory_name": "ACUSTICA_EDILIZIA_PACK",
+      "directory_key": "acustica_edilizia",
+      "course_title": "Acustica edilizia",
+      "readme_heading": null,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/COURSE.yaml"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "ACUSTICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "acust"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ACUSTICA",
+                "matched_roots": [
+                  "acust"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "directory_name": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "directory_key": "aeroporti_e_infrastrutture_di_volo",
+      "course_title": "Aeroporti e infrastrutture di volo",
+      "readme_heading": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/README.md"
+      ],
+      "classification": "ambiguous",
+      "candidate_exams": [
+        {
+          "exam_id": "AEROPORTI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "aeroport"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "AEROPORTI",
+                "matched_roots": [
+                  "aeroport"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "exam_id": "INFRASTRUTTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "ARCHITETTURA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK",
+      "directory_name": "ARCHITETTURA_PACK",
+      "directory_key": "architettura",
+      "course_title": "Architettura",
+      "readme_heading": "Architettura",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "ARCHITETTURA",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "architettura",
+            "exam_value": "architettura"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "directory_name": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "directory_key": "ascensori_e_movimentazione_verticale",
+      "course_title": "Ascensori e movimentazione verticale",
+      "readme_heading": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "ASCENSORI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "ascensor"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ASCENSORI",
+                "matched_roots": [
+                  "ascensor"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "directory_name": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "directory_key": "bonifica_siti_ambientali_edilizia",
+      "course_title": "Bonifica siti ambientali per l'edilizia",
+      "readme_heading": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "BONIFICA_SITI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "bonif",
+              "siti"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "BONIFICA_SITI",
+                "matched_roots": [
+                  "bonif",
+                  "siti"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "CAD_BIM_PROGETTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK",
+      "directory_name": "CAD_BIM_PROGETTAZIONE_PACK",
+      "directory_key": "cad_bim_progettazione",
+      "course_title": "Progettazione digitale CAD e BIM",
+      "readme_heading": "CAD_BIM_PROGETTAZIONE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "CAD_BIM",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "bim",
+              "cad"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CAD_BIM",
+                "matched_roots": [
+                  "bim",
+                  "cad"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "directory_name": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "directory_key": "capolavori_e_storia_opere",
+      "course_title": "Capolavori e storia delle opere",
+      "readme_heading": "Capolavori e storia delle opere",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "CAPOLAVORI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "capolavor"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CAPOLAVORI",
+                "matched_roots": [
+                  "capolavor"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "CAPPOTTO_ETICS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK",
+      "directory_name": "CAPPOTTO_ETICS_PACK",
+      "directory_key": "cappotto_etics",
+      "course_title": "Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie",
+      "readme_heading": "CAPPOTTO_ETICS_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "CAPPOTTO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "cappott"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CAPPOTTO",
+                "matched_roots": [
+                  "cappott"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "directory_name": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "directory_key": "carpenteria_metallica_e_acciaio",
+      "course_title": "Carpenteria metallica e acciaio",
+      "readme_heading": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "CARPENTERIA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "carpenteri"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CARPENTERIA",
+                "matched_roots": [
+                  "carpenteri"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "CONTABILITA_APPALTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK",
+      "directory_name": "CONTABILITA_APPALTI_PACK",
+      "directory_key": "contabilita_appalti",
+      "course_title": "Contabilità, computo e appalti dei lavori",
+      "readme_heading": null,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/COURSE.yaml"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "CONTABILITA_APPALTI",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "contabilita_appalti",
+            "exam_value": "contabilita_appalti"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "COSTRUIRE_IN_LEGNO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK",
+      "directory_name": "COSTRUIRE_IN_LEGNO_PACK",
+      "directory_key": "costruire_in_legno",
+      "course_title": "Costruire in legno",
+      "readme_heading": "COSTRUIRE_IN_LEGNO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "COSTRUZIONI_LEGNO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "costru",
+              "legno"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "COSTRUZIONI_LEGNO",
+                "matched_roots": [
+                  "costru",
+                  "legno"
+                ]
+              },
+              {
+                "pack_label": "COSTRUIRE_IN_LEGNO",
+                "matched_roots": [
+                  "costru",
+                  "legno"
+                ]
+              },
+              {
+                "pack_label": "Costruire in legno",
+                "matched_roots": [
+                  "costru",
+                  "legno"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "COSTRUZIONI_SPECIALI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK",
+      "directory_name": "COSTRUZIONI_SPECIALI_PACK",
+      "directory_key": "costruzioni_speciali",
+      "course_title": "Costruzioni speciali e opere d'ingegneria",
+      "readme_heading": "COSTRUZIONI_SPECIALI_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "COSTRUZIONI_SPECIALI",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "costruzioni_speciali",
+            "exam_value": "costruzioni_speciali"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "directory_name": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "directory_key": "data_center_e_critical_facilities",
+      "course_title": "Data center e critical facilities",
+      "readme_heading": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "DATA_CENTER",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "center",
+              "data"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DATA_CENTER",
+                "matched_roots": [
+                  "center",
+                  "data"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DESIGN_GUSTO_TENDENZE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK",
+      "directory_name": "DESIGN_GUSTO_TENDENZE_PACK",
+      "directory_key": "design_gusto_tendenze",
+      "course_title": "Design, gusto e tendenze dell'edilizia",
+      "readme_heading": "DESIGN_GUSTO_TENDENZE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "DESIGN_GUSTO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "design",
+              "gusto"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DESIGN_GUSTO",
+                "matched_roots": [
+                  "design",
+                  "gusto"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "directory_name": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "directory_key": "dighe_e_sistemazioni_idrauliche",
+      "course_title": "Dighe e sistemazioni idrauliche",
+      "readme_heading": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "DIGHE_IDRAULICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "dighe",
+              "idraul"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DIGHE_IDRAULICA",
+                "matched_roots": [
+                  "dighe",
+                  "idraul"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "directory_name": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "directory_key": "dimensionamento_fv_eolico_accumulo",
+      "course_title": "Dimensionamento di fotovoltaico, eolico e accumulo",
+      "readme_heading": "Dimensionamento di fotovoltaico, eolico e accumulo",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "DIMENSIONAMENTO_FV_EOLICO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "dimensionament",
+              "eolic",
+              "fv"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DIMENSIONAMENTO_FV_EOLICO",
+                "matched_roots": [
+                  "dimensionament",
+                  "eolic",
+                  "fv"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "directory_name": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "directory_key": "dimensionamento_termotecnico",
+      "course_title": "Dimensionamento degli impianti termotecnici",
+      "readme_heading": "Dimensionamento degli impianti termotecnici",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "DIMENSIONAMENTO_TERMOTECNICO",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "dimensionamento_termotecnico",
+            "exam_value": "dimensionamento_termotecnico"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DISEGNO_TECNICO_MANUALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK",
+      "directory_name": "DISEGNO_TECNICO_MANUALE_PACK",
+      "directory_key": "disegno_tecnico_manuale",
+      "course_title": "Disegno tecnico e rappresentazione",
+      "readme_heading": "DISEGNO TECNICO MANUALE PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "DISEGNO_TECNICO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "disegn",
+              "tecnic"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DISEGNO_TECNICO",
+                "matched_roots": [
+                  "disegn",
+                  "tecnic"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "DOMOTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK",
+      "directory_name": "DOMOTICA_PACK",
+      "directory_key": "domotica",
+      "course_title": "Domotica e building automation",
+      "readme_heading": "DOMOTICA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "DOMOTICA",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "domotica",
+            "exam_value": "domotica"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "directory_name": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "directory_key": "edilizia_agricola_zootecnica",
+      "course_title": "Edilizia agricola e zootecnica",
+      "readme_heading": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "EDILIZIA_AGRICOLA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "agricol",
+              "edilizi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EDILIZIA_AGRICOLA",
+                "matched_roots": [
+                  "agricol",
+                  "edilizi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "EDILIZIA_CIRCOLARE_LCA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK",
+      "directory_name": "EDILIZIA_CIRCOLARE_LCA_PACK",
+      "directory_key": "edilizia_circolare_lca",
+      "course_title": "Edilizia circolare e LCA",
+      "readme_heading": "Edilizia circolare e LCA",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "EDILIZIA_CIRCOLARE_LCA",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "edilizia_circolare_lca",
+            "exam_value": "edilizia_circolare_lca"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "directory_name": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "directory_key": "edilizia_industriale_logistica",
+      "course_title": "Edilizia industriale e logistica",
+      "readme_heading": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "EDILIZIA_INDUSTRIALE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edilizi",
+              "industri"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EDILIZIA_INDUSTRIALE",
+                "matched_roots": [
+                  "edilizi",
+                  "industri"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "directory_name": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "directory_key": "edilizia_scolastica_tecnico",
+      "course_title": "Edilizia scolastica tecnica",
+      "readme_heading": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "EDILIZIA_SCOLASTICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edilizi",
+              "scolast"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EDILIZIA_SCOLASTICA",
+                "matched_roots": [
+                  "edilizi",
+                  "scolast"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "directory_name": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "directory_key": "emergenze_e_ricostruzione",
+      "course_title": "Emergenze e ricostruzione post-sisma",
+      "readme_heading": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "EMERGENZE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "emergenz"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EMERGENZE",
+                "matched_roots": [
+                  "emergenz"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "ENERGETICA_INCENTIVI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+      "directory_name": "ENERGETICA_INCENTIVI_PACK",
+      "directory_key": "energetica_incentivi",
+      "course_title": "Energetica edilizia e incentivi",
+      "readme_heading": null,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/COURSE.yaml"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "ENERGETICA_INCENTIVI",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "energetica_incentivi",
+            "exam_value": "energetica_incentivi"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "directory_name": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "directory_key": "facility_management_e_manutenzione",
+      "course_title": "Facility management e manutenzione programmata",
+      "readme_heading": "Facility Management e Manutenzione Programmata",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "FACILITY_MANAGEMENT",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "facility",
+              "management"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FACILITY_MANAGEMENT",
+                "matched_roots": [
+                  "facility",
+                  "management"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "FERROVIE_E_STAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK",
+      "directory_name": "FERROVIE_E_STAZIONI_PACK",
+      "directory_key": "ferrovie_e_stazioni",
+      "course_title": "Ferrovie e stazioni",
+      "readme_heading": "FERROVIE_E_STAZIONI_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "FERROVIE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "ferrovi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FERROVIE",
+                "matched_roots": [
+                  "ferrovi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "directory_name": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "directory_key": "fisco_tributi_impresa_edile",
+      "course_title": "Fisco e tributi dell'impresa edile",
+      "readme_heading": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "FISCO_IMPRESA_EDILE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edile",
+              "fisco",
+              "impres"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FISCO_IMPRESA_EDILE",
+                "matched_roots": [
+                  "edile",
+                  "fisco",
+                  "impres"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "FORMULARIO_FISICA_IMPIANTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK",
+      "directory_name": "FORMULARIO_FISICA_IMPIANTI_PACK",
+      "directory_key": "formulario_fisica_impianti",
+      "course_title": "Formulario di fisica dell'edilizia e degli impianti",
+      "readme_heading": "Formulario di fisica dell'edilizia e degli impianti",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "FORMULARIO_FISICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "fisic",
+              "formulari"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FORMULARIO_FISICA",
+                "matched_roots": [
+                  "fisic",
+                  "formulari"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "FORMULARIO_STRUTTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK",
+      "directory_name": "FORMULARIO_STRUTTURE_PACK",
+      "directory_key": "formulario_strutture",
+      "course_title": "Formulario di calcolo strutturale",
+      "readme_heading": "Formulario di calcolo strutturale",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/README.md"
+      ],
+      "classification": "ambiguous",
+      "candidate_exams": [
+        {
+          "exam_id": "FORMULARIO_STRUTTURE",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "formulario_strutture",
+            "exam_value": "formulario_strutture"
+          }
+        },
+        {
+          "exam_id": "STRUTTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "directory_name": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "directory_key": "fotovoltaico_campi_agrivoltaico_cer",
+      "course_title": "Fotovoltaico a terra, agrivoltaico e CER",
+      "readme_heading": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "FOTOVOLTAICO_CER",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "cer",
+              "fotovolta"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FOTOVOLTAICO_CER",
+                "matched_roots": [
+                  "cer",
+                  "fotovolta"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "directory_name": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "directory_key": "geometra_topografia_estimo",
+      "course_title": "Geometra: topografia, costruzioni e estimo",
+      "readme_heading": "Geometra: topografia, costruzioni e estimo",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "GEOMETRA_ESTIMO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "estim",
+              "geometr"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "GEOMETRA_ESTIMO",
+                "matched_roots": [
+                  "estim",
+                  "geometr"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "GEOTECNICA_E_FONDAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK",
+      "directory_name": "GEOTECNICA_E_FONDAZIONI_PACK",
+      "directory_key": "geotecnica_e_fondazioni",
+      "course_title": "Geotecnica e fondazioni",
+      "readme_heading": null,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/COURSE.yaml"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "GEOTECNICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "geotecn"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "GEOTECNICA",
+                "matched_roots": [
+                  "geotecn"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "GESTIONE_CONDOMINIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK",
+      "directory_name": "GESTIONE_CONDOMINIO_PACK",
+      "directory_key": "gestione_condominio",
+      "course_title": "Gestione condominiale",
+      "readme_heading": "GESTIONE_CONDOMINIO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "GESTIONE_CONDOMINIO",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "gestione_condominio",
+            "exam_value": "gestione_condominio"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "directory_name": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "directory_key": "hotel_e_hospitality_tecnico",
+      "course_title": "Tecnica alberghiera e hospitality",
+      "readme_heading": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "HOTEL",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "hotel"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "HOTEL",
+                "matched_roots": [
+                  "hotel"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "ILLUMINAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK",
+      "directory_name": "ILLUMINAZIONE_TECNICA_PACK",
+      "directory_key": "illuminazione_tecnica",
+      "course_title": "Illuminazione tecnica e illuminotecnica",
+      "readme_heading": "Illuminazione tecnica e illuminotecnica",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "ILLUMINAZIONE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "illumina"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ILLUMINAZIONE",
+                "matched_roots": [
+                  "illumina"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "IMPIANTI_COMPLETA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK",
+      "directory_name": "IMPIANTI_COMPLETA_PACK",
+      "directory_key": "impianti_completa",
+      "course_title": "Impiantistica completa",
+      "readme_heading": "IMPIANTI_COMPLETA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "IMPIANTI_COMPLETA",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "impianti_completa",
+            "exam_value": "impianti_completa"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "directory_name": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "directory_key": "impianti_sportivi_edilizia",
+      "course_title": "Impianti sportivi: edilizia e tecnologie",
+      "readme_heading": "Impianti sportivi: edilizia e tecnologie",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "IMPIANTI_SPORTIVI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "impiant",
+              "sportiv"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "IMPIANTI_SPORTIVI",
+                "matched_roots": [
+                  "impiant",
+                  "sportiv"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK",
+      "directory_name": "INFRASTRUTTURE_VIARIE_PACK",
+      "directory_key": "infrastrutture_viarie",
+      "course_title": "Infrastrutture viarie e urbanizzazioni",
+      "readme_heading": "INFRASTRUTTURE_VIARIE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "INFRASTRUTTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "INGEGNERIA_CIVILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK",
+      "directory_name": "INGEGNERIA_CIVILE_PACK",
+      "directory_key": "ingegneria_civile",
+      "course_title": "Ingegneria civile",
+      "readme_heading": "Ingegneria civile",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "INGEGNERIA_CIVILE",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "ingegneria_civile",
+            "exam_value": "ingegneria_civile"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK",
+      "directory_name": "INGEGNERIA_STRUTTURALE_PACK",
+      "directory_key": "ingegneria_strutturale",
+      "course_title": "Ingegneria strutturale",
+      "readme_heading": "Ingegneria strutturale",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "STRUTTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "directory_name": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "directory_key": "interior_progettazione_tecnica",
+      "course_title": "Progettazione tecnica degli interni",
+      "readme_heading": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "INTERIOR_TECNICO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "interior",
+              "tecnic"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INTERIOR_TECNICO",
+                "matched_roots": [
+                  "interior",
+                  "tecnic"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "directory_name": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "directory_key": "legislazione_privata_edilizia",
+      "course_title": "Diritto privato dell'edilizia",
+      "readme_heading": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "LEGISLAZIONE_EDILIZIA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edilizi",
+              "legisla"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "LEGISLAZIONE_EDILIZIA",
+                "matched_roots": [
+                  "edilizi",
+                  "legisla"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "directory_name": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "directory_key": "macchine_termiche_tecnologia",
+      "course_title": "Tecnologia delle macchine termiche",
+      "readme_heading": "Tecnologia delle macchine termiche",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "MACCHINE_TERMICHE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "macchin",
+              "termich"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MACCHINE_TERMICHE",
+                "matched_roots": [
+                  "macchin",
+                  "termich"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MASTER_DESIGN_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK",
+      "directory_name": "MASTER_DESIGN_PACK",
+      "directory_key": "master_design",
+      "course_title": "Master in design",
+      "readme_heading": "Master in design",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "MASTER_DESIGN",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "master_design",
+            "exam_value": "master_design"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MASTER_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK",
+      "directory_name": "MASTER_IMPRESA_EDILE_PACK",
+      "directory_key": "master_impresa_edile",
+      "course_title": "Master in gestione d'impresa edile",
+      "readme_heading": "MASTER_IMPRESA_EDILE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "MASTER_IMPRESA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "impres",
+              "master"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MASTER_IMPRESA",
+                "matched_roots": [
+                  "impres",
+                  "master"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MATEMATICA_PER_COSTRUIRE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK",
+      "directory_name": "MATEMATICA_PER_COSTRUIRE_PACK",
+      "directory_key": "matematica_per_costruire",
+      "course_title": "Matematica per costruire",
+      "readme_heading": "Matematica per costruire",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "MATEMATICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "matemat"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MATEMATICA",
+                "matched_roots": [
+                  "matemat"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "directory_name": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "directory_key": "materiali_componenti_impiantistica",
+      "course_title": "Materiali e componenti dell'impiantistica",
+      "readme_heading": "Materiali e componenti dell'impiantistica",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "MATERIALI_COMPONENTI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "component",
+              "materi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MATERIALI_COMPONENTI",
+                "matched_roots": [
+                  "component",
+                  "materi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MATERIALI_DEL_FUTURO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK",
+      "directory_name": "MATERIALI_DEL_FUTURO_PACK",
+      "directory_key": "materiali_del_futuro",
+      "course_title": "Materiali del futuro e costruzione innovativa",
+      "readme_heading": "MATERIALI_DEL_FUTURO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "MATERIALI_FUTURO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "futur",
+              "materi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MATERIALI_FUTURO",
+                "matched_roots": [
+                  "futur",
+                  "materi"
+                ]
+              },
+              {
+                "pack_label": "MATERIALI_DEL_FUTURO",
+                "matched_roots": [
+                  "futur",
+                  "materi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "directory_name": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "directory_key": "metodi_costruttivi_avanzati",
+      "course_title": "Metodi costruttivi avanzati",
+      "readme_heading": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "METODI_COSTRUTTIVI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "costruttiv",
+              "metod"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "METODI_COSTRUTTIVI",
+                "matched_roots": [
+                  "costruttiv",
+                  "metod"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "directory_name": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "directory_key": "mezzi_sollevamento_movimentazione",
+      "course_title": "Mezzi di sollevamento e movimentazione",
+      "readme_heading": "Mezzi di sollevamento e movimentazione",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "SOLLEVAMENTO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "sollevament"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SOLLEVAMENTO",
+                "matched_roots": [
+                  "sollevament"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK",
+      "directory_name": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "directory_key": "murature_intonaci_e_finiture",
+      "course_title": "Murature, intonaci e finiture murali",
+      "readme_heading": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "MURATURE_INTONACI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "intonac",
+              "muratur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MURATURE_INTONACI",
+                "matched_roots": [
+                  "intonac",
+                  "muratur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "OSPEDALI_E_HEALTHCARE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK",
+      "directory_name": "OSPEDALI_E_HEALTHCARE_PACK",
+      "directory_key": "ospedali_e_healthcare",
+      "course_title": "Edilizia sanitaria e ospedaliera",
+      "readme_heading": "OSPEDALI_E_HEALTHCARE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "OSPEDALI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "osped"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "OSPEDALI",
+                "matched_roots": [
+                  "osped"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "directory_name": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "directory_key": "patologie_e_diagnostica",
+      "course_title": "Patologie edili e diagnostica strumentale",
+      "readme_heading": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "PATOLOGIE_DIAGNOSTICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "diagnost",
+              "patologi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PATOLOGIE_DIAGNOSTICA",
+                "matched_roots": [
+                  "diagnost",
+                  "patologi"
+                ]
+              },
+              {
+                "pack_label": "PATOLOGIE_E_DIAGNOSTICA",
+                "matched_roots": [
+                  "diagnost",
+                  "patologi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "directory_name": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "directory_key": "perizie_stime_assicurazioni",
+      "course_title": "Perizie, stime e assicurazioni",
+      "readme_heading": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "PERIZIE_STIME",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "perizi",
+              "stime"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PERIZIE_STIME",
+                "matched_roots": [
+                  "perizi",
+                  "stime"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "directory_name": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "directory_key": "pietre_naturali_e_lapidei",
+      "course_title": "Pietre naturali e materiali lapidei",
+      "readme_heading": "Pietre naturali e materiali lapidei",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "PIETRE_NATURALI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "natur",
+              "pietr"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PIETRE_NATURALI",
+                "matched_roots": [
+                  "natur",
+                  "pietr"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "PISCINE_E_WELLNESS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK",
+      "directory_name": "PISCINE_E_WELLNESS_PACK",
+      "directory_key": "piscine_e_wellness",
+      "course_title": "Piscine e centri wellness",
+      "readme_heading": "PISCINE_E_WELLNESS_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "PISCINE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "piscin"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PISCINE",
+                "matched_roots": [
+                  "piscin"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "PORTI_E_OPERE_MARITTIME_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK",
+      "directory_name": "PORTI_E_OPERE_MARITTIME_PACK",
+      "directory_key": "porti_e_opere_marittime",
+      "course_title": "Porti e opere marittime",
+      "readme_heading": "PORTI_E_OPERE_MARITTIME_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "PORTI_MARITTIMI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "marittim",
+              "porti"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PORTI_MARITTIMI",
+                "matched_roots": [
+                  "marittim",
+                  "porti"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "POSA_IN_OPERA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK",
+      "directory_name": "POSA_IN_OPERA_PACK",
+      "directory_key": "posa_in_opera",
+      "course_title": "Posa in opera e controlli",
+      "readme_heading": "POSA_IN_OPERA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "POSA_IN_OPERA",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "posa_in_opera",
+            "exam_value": "posa_in_opera"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "directory_name": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "directory_key": "prefabbricazione_industrializzata",
+      "course_title": "Prefabbricazione e industrializzazione edilizia",
+      "readme_heading": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "PREFABBRICAZIONE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "prefabbrica"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PREFABBRICAZIONE",
+                "matched_roots": [
+                  "prefabbrica"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "REAL_ESTATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK",
+      "directory_name": "REAL_ESTATE_PACK",
+      "directory_key": "real_estate",
+      "course_title": "Mercato immobiliare, valutazione e investimenti",
+      "readme_heading": "REAL_ESTATE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_exams": [
+        {
+          "exam_id": "REAL_ESTATE",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "real_estate",
+            "exam_value": "real_estate"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "directory_name": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "directory_key": "restauro_e_conservazione_opere",
+      "course_title": "Restauro e conservazione delle opere architettoniche",
+      "readme_heading": "Restauro e conservazione delle opere architettoniche",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "RESTAURO_CONSERVAZIONE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "conserva",
+              "restaur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "RESTAURO_CONSERVAZIONE",
+                "matched_roots": [
+                  "conserva",
+                  "restaur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "directory_name": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "directory_key": "rinnovabili_idro_biomassa_geotermia",
+      "course_title": "Rinnovabili idro, biomasse e geotermia",
+      "readme_heading": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "RINNOVABILI_IDRO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "idro",
+              "rinnovabil"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "RINNOVABILI_IDRO",
+                "matched_roots": [
+                  "idro",
+                  "rinnovabil"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "directory_name": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "directory_key": "risanamento_e_recupero_edilizio",
+      "course_title": "Risanamento e recupero edilizio",
+      "readme_heading": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "RISANAMENTO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "risanament"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "RISANAMENTO",
+                "matched_roots": [
+                  "risanament"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "ROBOTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK",
+      "directory_name": "ROBOTICA_EDILIZIA_PACK",
+      "directory_key": "robotica_edilizia",
+      "course_title": "Robotica delle costruzioni",
+      "readme_heading": "ROBOTICA_EDILIZIA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "ROBOTICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "robot"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ROBOTICA",
+                "matched_roots": [
+                  "robot"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "SERRAMENTI_E_VETRATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK",
+      "directory_name": "SERRAMENTI_E_VETRATE_PACK",
+      "directory_key": "serramenti_e_vetrate",
+      "course_title": "Serramenti, vetrate e porte",
+      "readme_heading": "SERRAMENTI_E_VETRATE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "SERRAMENTI",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "serrament"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SERRAMENTI",
+                "matched_roots": [
+                  "serrament"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "directory_name": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "directory_key": "sicurezza_antincendio_accessibilita",
+      "course_title": "Prevenzione incendi e accessibilità",
+      "readme_heading": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "SICUREZZA_ANTINCENDIO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "antincendi",
+              "sicurezz"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SICUREZZA_ANTINCENDIO",
+                "matched_roots": [
+                  "antincendi",
+                  "sicurezz"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "directory_name": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "directory_key": "sicurezza_cantiere_dlsgs81",
+      "course_title": "Sicurezza di cantiere (D.Lgs 81/08)",
+      "readme_heading": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "SICUREZZA_CANTIERE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "canti",
+              "sicurezz"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SICUREZZA_CANTIERE",
+                "matched_roots": [
+                  "canti",
+                  "sicurezz"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "TETTI_E_COPERTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK",
+      "directory_name": "TETTI_E_COPERTURE_PACK",
+      "directory_key": "tetti_e_coperture",
+      "course_title": "Tetti e coperture",
+      "readme_heading": "TETTI_E_COPERTURE_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "TETTI_COPERTURE",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "copertur",
+              "tetti"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "TETTI_COPERTURE",
+                "matched_roots": [
+                  "copertur",
+                  "tetti"
+                ]
+              },
+              {
+                "pack_label": "TETTI_E_COPERTURE",
+                "matched_roots": [
+                  "copertur",
+                  "tetti"
+                ]
+              },
+              {
+                "pack_label": "Tetti e coperture",
+                "matched_roots": [
+                  "copertur",
+                  "tetti"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "URBANISTICA_TERRITORIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK",
+      "directory_name": "URBANISTICA_TERRITORIO_PACK",
+      "directory_key": "urbanistica_territorio",
+      "course_title": "Urbanistica, territorio e procedure edilizie",
+      "readme_heading": "URBANISTICA_TERRITORIO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "URBANISTICA",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "urbanist"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "URBANISTICA",
+                "matched_roots": [
+                  "urbanist"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "VERDE_ARREDO_URBANO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK",
+      "directory_name": "VERDE_ARREDO_URBANO_PACK",
+      "directory_key": "verde_arredo_urbano",
+      "course_title": "Verde urbano e arredo urbano",
+      "readme_heading": "VERDE_ARREDO_URBANO_PACK",
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/COURSE.yaml",
+        "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_exams": [
+        {
+          "exam_id": "VERDE_URBANO",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "urban",
+              "verde"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "VERDE_URBANO",
+                "matched_roots": [
+                  "urban",
+                  "verde"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "exam_id": "ACUSTICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/ACUSTICA",
+      "directory_name": "ACUSTICA",
+      "directory_key": "acustica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/ACUSTICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "ACUSTICA_EDILIZIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "acust"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ACUSTICA",
+                "matched_roots": [
+                  "acust"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "AEROPORTI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/AEROPORTI",
+      "directory_name": "AEROPORTI",
+      "directory_key": "aeroporti",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/AEROPORTI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "aeroport"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "AEROPORTI",
+                "matched_roots": [
+                  "aeroport"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "ARCHITETTURA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/ARCHITETTURA",
+      "directory_name": "ARCHITETTURA",
+      "directory_key": "architettura",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/ARCHITETTURA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "ARCHITETTURA_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "architettura",
+            "exam_value": "architettura"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "ASCENSORI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/ASCENSORI",
+      "directory_name": "ASCENSORI",
+      "directory_key": "ascensori",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/ASCENSORI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "ascensor"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ASCENSORI",
+                "matched_roots": [
+                  "ascensor"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "BONIFICA_SITI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/BONIFICA_SITI",
+      "directory_name": "BONIFICA_SITI",
+      "directory_key": "bonifica_siti",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/BONIFICA_SITI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "bonif",
+              "siti"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "BONIFICA_SITI",
+                "matched_roots": [
+                  "bonif",
+                  "siti"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "CAD_BIM",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/CAD_BIM",
+      "directory_name": "CAD_BIM",
+      "directory_key": "cad_bim",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/CAD_BIM/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "CAD_BIM_PROGETTAZIONE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "bim",
+              "cad"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CAD_BIM",
+                "matched_roots": [
+                  "bim",
+                  "cad"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "CAPOLAVORI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/CAPOLAVORI",
+      "directory_name": "CAPOLAVORI",
+      "directory_key": "capolavori",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/CAPOLAVORI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "capolavor"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CAPOLAVORI",
+                "matched_roots": [
+                  "capolavor"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "CAPPOTTO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO",
+      "directory_name": "CAPPOTTO",
+      "directory_key": "cappotto",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/CAPPOTTO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "CAPPOTTO_ETICS_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "cappott"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CAPPOTTO",
+                "matched_roots": [
+                  "cappott"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "CARPENTERIA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/CARPENTERIA",
+      "directory_name": "CARPENTERIA",
+      "directory_key": "carpenteria",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/CARPENTERIA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "carpenteri"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "CARPENTERIA",
+                "matched_roots": [
+                  "carpenteri"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "CONTABILITA_APPALTI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/CONTABILITA_APPALTI",
+      "directory_name": "CONTABILITA_APPALTI",
+      "directory_key": "contabilita_appalti",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/CONTABILITA_APPALTI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "CONTABILITA_APPALTI_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "contabilita_appalti",
+            "exam_value": "contabilita_appalti"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "COSTRUZIONI_LEGNO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_LEGNO",
+      "directory_name": "COSTRUZIONI_LEGNO",
+      "directory_key": "costruzioni_legno",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_LEGNO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "COSTRUIRE_IN_LEGNO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "costru",
+              "legno"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "COSTRUZIONI_LEGNO",
+                "matched_roots": [
+                  "costru",
+                  "legno"
+                ]
+              },
+              {
+                "pack_label": "COSTRUIRE_IN_LEGNO",
+                "matched_roots": [
+                  "costru",
+                  "legno"
+                ]
+              },
+              {
+                "pack_label": "Costruire in legno",
+                "matched_roots": [
+                  "costru",
+                  "legno"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "COSTRUZIONI_SPECIALI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_SPECIALI",
+      "directory_name": "COSTRUZIONI_SPECIALI",
+      "directory_key": "costruzioni_speciali",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/COSTRUZIONI_SPECIALI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "COSTRUZIONI_SPECIALI_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "costruzioni_speciali",
+            "exam_value": "costruzioni_speciali"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DATA_CENTER",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DATA_CENTER",
+      "directory_name": "DATA_CENTER",
+      "directory_key": "data_center",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DATA_CENTER/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "center",
+              "data"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DATA_CENTER",
+                "matched_roots": [
+                  "center",
+                  "data"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DESIGN_GUSTO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO",
+      "directory_name": "DESIGN_GUSTO",
+      "directory_key": "design_gusto",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DESIGN_GUSTO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "DESIGN_GUSTO_TENDENZE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "design",
+              "gusto"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DESIGN_GUSTO",
+                "matched_roots": [
+                  "design",
+                  "gusto"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DIGHE_IDRAULICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DIGHE_IDRAULICA",
+      "directory_name": "DIGHE_IDRAULICA",
+      "directory_key": "dighe_idraulica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DIGHE_IDRAULICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "dighe",
+              "idraul"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DIGHE_IDRAULICA",
+                "matched_roots": [
+                  "dighe",
+                  "idraul"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DIMENSIONAMENTO_FV_EOLICO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_FV_EOLICO",
+      "directory_name": "DIMENSIONAMENTO_FV_EOLICO",
+      "directory_key": "dimensionamento_fv_eolico",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_FV_EOLICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "dimensionament",
+              "eolic",
+              "fv"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DIMENSIONAMENTO_FV_EOLICO",
+                "matched_roots": [
+                  "dimensionament",
+                  "eolic",
+                  "fv"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DIMENSIONAMENTO_TERMOTECNICO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO",
+      "directory_name": "DIMENSIONAMENTO_TERMOTECNICO",
+      "directory_key": "dimensionamento_termotecnico",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DIMENSIONAMENTO_TERMOTECNICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "dimensionamento_termotecnico",
+            "exam_value": "dimensionamento_termotecnico"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DISEGNO_TECNICO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DISEGNO_TECNICO",
+      "directory_name": "DISEGNO_TECNICO",
+      "directory_key": "disegno_tecnico",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DISEGNO_TECNICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "DISEGNO_TECNICO_MANUALE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "disegn",
+              "tecnic"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "DISEGNO_TECNICO",
+                "matched_roots": [
+                  "disegn",
+                  "tecnic"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "DOMOTICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/DOMOTICA",
+      "directory_name": "DOMOTICA",
+      "directory_key": "domotica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/DOMOTICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "DOMOTICA_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "domotica",
+            "exam_value": "domotica"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "EDILIZIA_AGRICOLA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_AGRICOLA",
+      "directory_name": "EDILIZIA_AGRICOLA",
+      "directory_key": "edilizia_agricola",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_AGRICOLA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "agricol",
+              "edilizi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EDILIZIA_AGRICOLA",
+                "matched_roots": [
+                  "agricol",
+                  "edilizi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "EDILIZIA_CIRCOLARE_LCA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_CIRCOLARE_LCA",
+      "directory_name": "EDILIZIA_CIRCOLARE_LCA",
+      "directory_key": "edilizia_circolare_lca",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_CIRCOLARE_LCA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "EDILIZIA_CIRCOLARE_LCA_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "edilizia_circolare_lca",
+            "exam_value": "edilizia_circolare_lca"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "EDILIZIA_INDUSTRIALE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_INDUSTRIALE",
+      "directory_name": "EDILIZIA_INDUSTRIALE",
+      "directory_key": "edilizia_industriale",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_INDUSTRIALE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edilizi",
+              "industri"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EDILIZIA_INDUSTRIALE",
+                "matched_roots": [
+                  "edilizi",
+                  "industri"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "EDILIZIA_SCOLASTICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_SCOLASTICA",
+      "directory_name": "EDILIZIA_SCOLASTICA",
+      "directory_key": "edilizia_scolastica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/EDILIZIA_SCOLASTICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edilizi",
+              "scolast"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EDILIZIA_SCOLASTICA",
+                "matched_roots": [
+                  "edilizi",
+                  "scolast"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "EMERGENZE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/EMERGENZE",
+      "directory_name": "EMERGENZE",
+      "directory_key": "emergenze",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/EMERGENZE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "emergenz"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "EMERGENZE",
+                "matched_roots": [
+                  "emergenz"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "ENERGETICA_INCENTIVI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI",
+      "directory_name": "ENERGETICA_INCENTIVI",
+      "directory_key": "energetica_incentivi",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/ENERGETICA_INCENTIVI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "ENERGETICA_INCENTIVI_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "energetica_incentivi",
+            "exam_value": "energetica_incentivi"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "FACILITY_MANAGEMENT",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/FACILITY_MANAGEMENT",
+      "directory_name": "FACILITY_MANAGEMENT",
+      "directory_key": "facility_management",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/FACILITY_MANAGEMENT/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "facility",
+              "management"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FACILITY_MANAGEMENT",
+                "matched_roots": [
+                  "facility",
+                  "management"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "FERROVIE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/FERROVIE",
+      "directory_name": "FERROVIE",
+      "directory_key": "ferrovie",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/FERROVIE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "FERROVIE_E_STAZIONI_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "ferrovi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FERROVIE",
+                "matched_roots": [
+                  "ferrovi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "FISCO_IMPRESA_EDILE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/FISCO_IMPRESA_EDILE",
+      "directory_name": "FISCO_IMPRESA_EDILE",
+      "directory_key": "fisco_impresa_edile",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/FISCO_IMPRESA_EDILE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edile",
+              "fisco",
+              "impres"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FISCO_IMPRESA_EDILE",
+                "matched_roots": [
+                  "edile",
+                  "fisco",
+                  "impres"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "FORMULARIO_FISICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA",
+      "directory_name": "FORMULARIO_FISICA",
+      "directory_key": "formulario_fisica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_FISICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "FORMULARIO_FISICA_IMPIANTI_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "fisic",
+              "formulari"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FORMULARIO_FISICA",
+                "matched_roots": [
+                  "fisic",
+                  "formulari"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "FORMULARIO_STRUTTURE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_STRUTTURE",
+      "directory_name": "FORMULARIO_STRUTTURE",
+      "directory_key": "formulario_strutture",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/FORMULARIO_STRUTTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "FORMULARIO_STRUTTURE_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "formulario_strutture",
+            "exam_value": "formulario_strutture"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "FOTOVOLTAICO_CER",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER",
+      "directory_name": "FOTOVOLTAICO_CER",
+      "directory_key": "fotovoltaico_cer",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/FOTOVOLTAICO_CER/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "cer",
+              "fotovolta"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "FOTOVOLTAICO_CER",
+                "matched_roots": [
+                  "cer",
+                  "fotovolta"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "GEOMETRA_ESTIMO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/GEOMETRA_ESTIMO",
+      "directory_name": "GEOMETRA_ESTIMO",
+      "directory_key": "geometra_estimo",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/GEOMETRA_ESTIMO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "estim",
+              "geometr"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "GEOMETRA_ESTIMO",
+                "matched_roots": [
+                  "estim",
+                  "geometr"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "GEOTECNICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/GEOTECNICA",
+      "directory_name": "GEOTECNICA",
+      "directory_key": "geotecnica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/GEOTECNICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "GEOTECNICA_E_FONDAZIONI_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "geotecn"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "GEOTECNICA",
+                "matched_roots": [
+                  "geotecn"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "GESTIONE_CONDOMINIO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/GESTIONE_CONDOMINIO",
+      "directory_name": "GESTIONE_CONDOMINIO",
+      "directory_key": "gestione_condominio",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/GESTIONE_CONDOMINIO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "GESTIONE_CONDOMINIO_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "gestione_condominio",
+            "exam_value": "gestione_condominio"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "HOTEL",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/HOTEL",
+      "directory_name": "HOTEL",
+      "directory_key": "hotel",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/HOTEL/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "hotel"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "HOTEL",
+                "matched_roots": [
+                  "hotel"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "ILLUMINAZIONE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/ILLUMINAZIONE",
+      "directory_name": "ILLUMINAZIONE",
+      "directory_key": "illuminazione",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/ILLUMINAZIONE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "ILLUMINAZIONE_TECNICA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "illumina"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ILLUMINAZIONE",
+                "matched_roots": [
+                  "illumina"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "IMPIANTI_COMPLETA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_COMPLETA",
+      "directory_name": "IMPIANTI_COMPLETA",
+      "directory_key": "impianti_completa",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_COMPLETA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "IMPIANTI_COMPLETA_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "impianti_completa",
+            "exam_value": "impianti_completa"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "IMPIANTI_FV_EOLICO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO",
+      "directory_name": "IMPIANTI_FV_EOLICO",
+      "directory_key": "impianti_fv_eolico",
+      "exam_heading": null,
+      "legacy_observed": true,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_FV_EOLICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "unmatched_exam",
+      "candidate_packs": []
+    },
+    {
+      "exam_id": "IMPIANTI_SPORTIVI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_SPORTIVI",
+      "directory_name": "IMPIANTI_SPORTIVI",
+      "directory_key": "impianti_sportivi",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/IMPIANTI_SPORTIVI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "impiant",
+              "sportiv"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "IMPIANTI_SPORTIVI",
+                "matched_roots": [
+                  "impiant",
+                  "sportiv"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "INFRASTRUTTURE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE",
+      "directory_name": "INFRASTRUTTURE",
+      "directory_key": "infrastrutture",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/INFRASTRUTTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "ambiguous",
+      "candidate_packs": [
+        {
+          "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "infrastruttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INFRASTRUTTURE",
+                "matched_roots": [
+                  "infrastruttur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "INGEGNERIA_CIVILE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/INGEGNERIA_CIVILE",
+      "directory_name": "INGEGNERIA_CIVILE",
+      "directory_key": "ingegneria_civile",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/INGEGNERIA_CIVILE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "INGEGNERIA_CIVILE_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "ingegneria_civile",
+            "exam_value": "ingegneria_civile"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "INTERIOR_TECNICO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/INTERIOR_TECNICO",
+      "directory_name": "INTERIOR_TECNICO",
+      "directory_key": "interior_tecnico",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/INTERIOR_TECNICO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "interior",
+              "tecnic"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "INTERIOR_TECNICO",
+                "matched_roots": [
+                  "interior",
+                  "tecnic"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "LEGISLAZIONE_EDILIZIA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA",
+      "directory_name": "LEGISLAZIONE_EDILIZIA",
+      "directory_key": "legislazione_edilizia",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/LEGISLAZIONE_EDILIZIA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "edilizi",
+              "legisla"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "LEGISLAZIONE_EDILIZIA",
+                "matched_roots": [
+                  "edilizi",
+                  "legisla"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MACCHINE_TERMICHE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MACCHINE_TERMICHE",
+      "directory_name": "MACCHINE_TERMICHE",
+      "directory_key": "macchine_termiche",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MACCHINE_TERMICHE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "macchin",
+              "termich"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MACCHINE_TERMICHE",
+                "matched_roots": [
+                  "macchin",
+                  "termich"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MASTER_DESIGN",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MASTER_DESIGN",
+      "directory_name": "MASTER_DESIGN",
+      "directory_key": "master_design",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MASTER_DESIGN/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "MASTER_DESIGN_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "master_design",
+            "exam_value": "master_design"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MASTER_IMPRESA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA",
+      "directory_name": "MASTER_IMPRESA",
+      "directory_key": "master_impresa",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MASTER_IMPRESA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MASTER_IMPRESA_EDILE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "impres",
+              "master"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MASTER_IMPRESA",
+                "matched_roots": [
+                  "impres",
+                  "master"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MATEMATICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MATEMATICA",
+      "directory_name": "MATEMATICA",
+      "directory_key": "matematica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MATEMATICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MATEMATICA_PER_COSTRUIRE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "matemat"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MATEMATICA",
+                "matched_roots": [
+                  "matemat"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MATERIALEDILE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE",
+      "directory_name": "MATERIALEDILE",
+      "directory_key": "materialedile",
+      "exam_heading": null,
+      "legacy_observed": true,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MATERIALEDILE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "unmatched_exam",
+      "candidate_packs": []
+    },
+    {
+      "exam_id": "MATERIALI_COMPONENTI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_COMPONENTI",
+      "directory_name": "MATERIALI_COMPONENTI",
+      "directory_key": "materiali_componenti",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_COMPONENTI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "component",
+              "materi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MATERIALI_COMPONENTI",
+                "matched_roots": [
+                  "component",
+                  "materi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MATERIALI_FUTURO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_FUTURO",
+      "directory_name": "MATERIALI_FUTURO",
+      "directory_key": "materiali_futuro",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MATERIALI_FUTURO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MATERIALI_DEL_FUTURO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "futur",
+              "materi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MATERIALI_FUTURO",
+                "matched_roots": [
+                  "futur",
+                  "materi"
+                ]
+              },
+              {
+                "pack_label": "MATERIALI_DEL_FUTURO",
+                "matched_roots": [
+                  "futur",
+                  "materi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "METODI_COSTRUTTIVI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/METODI_COSTRUTTIVI",
+      "directory_name": "METODI_COSTRUTTIVI",
+      "directory_key": "metodi_costruttivi",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/METODI_COSTRUTTIVI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "costruttiv",
+              "metod"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "METODI_COSTRUTTIVI",
+                "matched_roots": [
+                  "costruttiv",
+                  "metod"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "MURATURE_INTONACI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/MURATURE_INTONACI",
+      "directory_name": "MURATURE_INTONACI",
+      "directory_key": "murature_intonaci",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/MURATURE_INTONACI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MURATURE_INTONACI_E_FINITURE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "intonac",
+              "muratur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "MURATURE_INTONACI",
+                "matched_roots": [
+                  "intonac",
+                  "muratur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "OSPEDALI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/OSPEDALI",
+      "directory_name": "OSPEDALI",
+      "directory_key": "ospedali",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/OSPEDALI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "OSPEDALI_E_HEALTHCARE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "osped"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "OSPEDALI",
+                "matched_roots": [
+                  "osped"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "PATOLOGIE_DIAGNOSTICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/PATOLOGIE_DIAGNOSTICA",
+      "directory_name": "PATOLOGIE_DIAGNOSTICA",
+      "directory_key": "patologie_diagnostica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/PATOLOGIE_DIAGNOSTICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "diagnost",
+              "patologi"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PATOLOGIE_DIAGNOSTICA",
+                "matched_roots": [
+                  "diagnost",
+                  "patologi"
+                ]
+              },
+              {
+                "pack_label": "PATOLOGIE_E_DIAGNOSTICA",
+                "matched_roots": [
+                  "diagnost",
+                  "patologi"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "PERIZIE_STIME",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/PERIZIE_STIME",
+      "directory_name": "PERIZIE_STIME",
+      "directory_key": "perizie_stime",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/PERIZIE_STIME/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "perizi",
+              "stime"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PERIZIE_STIME",
+                "matched_roots": [
+                  "perizi",
+                  "stime"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "PIETRE_NATURALI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/PIETRE_NATURALI",
+      "directory_name": "PIETRE_NATURALI",
+      "directory_key": "pietre_naturali",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/PIETRE_NATURALI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "natur",
+              "pietr"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PIETRE_NATURALI",
+                "matched_roots": [
+                  "natur",
+                  "pietr"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "PISCINE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/PISCINE",
+      "directory_name": "PISCINE",
+      "directory_key": "piscine",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/PISCINE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "PISCINE_E_WELLNESS_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "piscin"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PISCINE",
+                "matched_roots": [
+                  "piscin"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "PORTI_MARITTIMI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/PORTI_MARITTIMI",
+      "directory_name": "PORTI_MARITTIMI",
+      "directory_key": "porti_marittimi",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/PORTI_MARITTIMI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "PORTI_E_OPERE_MARITTIME_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "marittim",
+              "porti"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PORTI_MARITTIMI",
+                "matched_roots": [
+                  "marittim",
+                  "porti"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "POSA_IN_OPERA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/POSA_IN_OPERA",
+      "directory_name": "POSA_IN_OPERA",
+      "directory_key": "posa_in_opera",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/POSA_IN_OPERA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "POSA_IN_OPERA_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "posa_in_opera",
+            "exam_value": "posa_in_opera"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "PREFABBRICAZIONE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/PREFABBRICAZIONE",
+      "directory_name": "PREFABBRICAZIONE",
+      "directory_key": "prefabbricazione",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/PREFABBRICAZIONE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "prefabbrica"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "PREFABBRICAZIONE",
+                "matched_roots": [
+                  "prefabbrica"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "REAL_ESTATE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/REAL_ESTATE",
+      "directory_name": "REAL_ESTATE",
+      "directory_key": "real_estate",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/REAL_ESTATE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "exact_name",
+      "candidate_packs": [
+        {
+          "pack_id": "REAL_ESTATE_PACK",
+          "relation": "exact_name",
+          "evidence": {
+            "relation": "exact_name",
+            "signal": "pack_stem_equals_exam_directory",
+            "pack_value": "real_estate",
+            "exam_value": "real_estate"
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "RESTAURO_CONSERVAZIONE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE",
+      "directory_name": "RESTAURO_CONSERVAZIONE",
+      "directory_key": "restauro_conservazione",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/RESTAURO_CONSERVAZIONE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "conserva",
+              "restaur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "RESTAURO_CONSERVAZIONE",
+                "matched_roots": [
+                  "conserva",
+                  "restaur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "RINNOVABILI_IDRO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/RINNOVABILI_IDRO",
+      "directory_name": "RINNOVABILI_IDRO",
+      "directory_key": "rinnovabili_idro",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/RINNOVABILI_IDRO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "idro",
+              "rinnovabil"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "RINNOVABILI_IDRO",
+                "matched_roots": [
+                  "idro",
+                  "rinnovabil"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "RISANAMENTO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/RISANAMENTO",
+      "directory_name": "RISANAMENTO",
+      "directory_key": "risanamento",
+      "exam_heading": null,
+      "legacy_observed": true,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/RISANAMENTO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "risanament"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "RISANAMENTO",
+                "matched_roots": [
+                  "risanament"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "ROBOTICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/ROBOTICA",
+      "directory_name": "ROBOTICA",
+      "directory_key": "robotica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/ROBOTICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "ROBOTICA_EDILIZIA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "robot"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "ROBOTICA",
+                "matched_roots": [
+                  "robot"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "SERRAMENTI",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI",
+      "directory_name": "SERRAMENTI",
+      "directory_key": "serramenti",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/SERRAMENTI/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "SERRAMENTI_E_VETRATE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "serrament"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SERRAMENTI",
+                "matched_roots": [
+                  "serrament"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "SICUREZZA_ANTINCENDIO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_ANTINCENDIO",
+      "directory_name": "SICUREZZA_ANTINCENDIO",
+      "directory_key": "sicurezza_antincendio",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_ANTINCENDIO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "antincendi",
+              "sicurezz"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SICUREZZA_ANTINCENDIO",
+                "matched_roots": [
+                  "antincendi",
+                  "sicurezz"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "SICUREZZA_CANTIERE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_CANTIERE",
+      "directory_name": "SICUREZZA_CANTIERE",
+      "directory_key": "sicurezza_cantiere",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/SICUREZZA_CANTIERE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "canti",
+              "sicurezz"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SICUREZZA_CANTIERE",
+                "matched_roots": [
+                  "canti",
+                  "sicurezz"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "SOLLEVAMENTO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/SOLLEVAMENTO",
+      "directory_name": "SOLLEVAMENTO",
+      "directory_key": "sollevamento",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/SOLLEVAMENTO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "sollevament"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "SOLLEVAMENTO",
+                "matched_roots": [
+                  "sollevament"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "STRUTTURE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE",
+      "directory_name": "STRUTTURE",
+      "directory_key": "strutture",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/STRUTTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "ambiguous",
+      "candidate_packs": [
+        {
+          "pack_id": "FORMULARIO_STRUTTURE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "struttur"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "STRUTTURE",
+                "matched_roots": [
+                  "struttur"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "TETTI_COPERTURE",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/TETTI_COPERTURE",
+      "directory_name": "TETTI_COPERTURE",
+      "directory_key": "tetti_coperture",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/TETTI_COPERTURE/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "TETTI_E_COPERTURE_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "copertur",
+              "tetti"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "TETTI_COPERTURE",
+                "matched_roots": [
+                  "copertur",
+                  "tetti"
+                ]
+              },
+              {
+                "pack_label": "TETTI_E_COPERTURE",
+                "matched_roots": [
+                  "copertur",
+                  "tetti"
+                ]
+              },
+              {
+                "pack_label": "Tetti e coperture",
+                "matched_roots": [
+                  "copertur",
+                  "tetti"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "URBANISTICA",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/URBANISTICA",
+      "directory_name": "URBANISTICA",
+      "directory_key": "urbanistica",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/URBANISTICA/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "URBANISTICA_TERRITORIO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "urbanist"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "URBANISTICA",
+                "matched_roots": [
+                  "urbanist"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exam_id": "VERDE_URBANO",
+      "exam_path": "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO",
+      "directory_name": "VERDE_URBANO",
+      "directory_key": "verde_urbano",
+      "exam_heading": null,
+      "legacy_observed": false,
+      "source_files": [
+        "UNIVERSITA_EDILIZIA/ESAMI/VERDE_URBANO/domande.md",
+        "UNIVERSITA_EDILIZIA/ESAMI/README.md"
+      ],
+      "classification": "alias_observed",
+      "candidate_packs": [
+        {
+          "pack_id": "VERDE_ARREDO_URBANO_PACK",
+          "relation": "alias_observed",
+          "evidence": {
+            "relation": "alias_observed",
+            "signal": "bounded_name_root_overlap",
+            "shared_roots": [
+              "urban",
+              "verde"
+            ],
+            "directional_matches": [
+              {
+                "exam_label": "VERDE_URBANO",
+                "matched_roots": [
+                  "urban",
+                  "verde"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "boundaries": [
+    "A candidate is a name/documentation signal, not proof of pack coverage or semantic equivalence.",
+    "Legacy status is reported only when explicitly observed in the local exam README.",
+    "No questions, answers, schede.jsonl records, or pack content are used to infer a mapping.",
+    "No source content is edited, merged, moved, overwritten, or deleted.",
+    "Ambiguous and unmatched items require human review before any canonical association is declared."
+  ]
+}
