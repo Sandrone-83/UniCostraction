@@ -19,6 +19,7 @@ professional correctness.
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import hashlib
 import json
 import re
@@ -81,6 +82,56 @@ REQUIRED_COORDINATION_ARTIFACTS = frozenset(
         "UNI_QA_WORKFLOW_EVIDENCE_G14.md",
     }
 )
+
+# G15-C freezes the metadata-only report inventory that G10-G14 expose.  The
+# values are workflow counts, not content or correctness claims.  Keeping the
+# expected state counts here makes a missing, duplicated, or silently promoted
+# report fail closed during a full-checkout scan.
+G15_REPORT_SPECS: dict[str, dict[str, Any]] = {
+    "UNI_PROVENANCE_AUDIT_G10.json": {
+        "state_paths": ("audit_contract.state", "provenance_review.state"),
+        "count_paths": {"scope.file_count": 76, "scope.text_file_count": 76},
+        "source_manifest": "docs/coordination/PUBLIC_EXAM_FIXTURE_MANIFEST_G3.json",
+    },
+    "UNI_REDUNDANCY_AUDIT_G10.json": {
+        "state_paths": ("audit_contract.state", "duplicate_review.state"),
+        "count_paths": {"scope.file_count": 76, "scope.text_file_count": 76},
+    },
+    "UNI_CANDIDATE_REVIEW_CLUSTERS_G11.json": {
+        "state_paths": ("candidate_review_contract.state",),
+        "collections": {"candidate_review_clusters": {"count": 1, "states": {"pending": 1}}},
+    },
+    "UNI_PRIORITY_QUEUES_G11.json": {
+        "state_paths": ("priority_queue_contract.state",),
+        "collections": {"priority_queues": {"count": 1, "states": {"open": 1}}},
+    },
+    "UNI_EVIDENCE_LICENSE_MATRIX_G11.json": {
+        "state_paths": ("evidence_license_matrix_contract.state",),
+        "collections": {"evidence_license_matrix": {"count": 1, "states": {"pending": 1}}},
+    },
+    "UNI_REDUNDANCY_DECISION_RECORDS_G12.json": {
+        "state_paths": ("redundancy_decision_contract.state",),
+        "collections": {"redundancy_decision_records": {"count": 1, "states": {"pending": 1}}},
+    },
+    "UNI_SOURCE_LICENSE_CHECKLIST_G12.json": {
+        "state_paths": ("source_license_checklist_contract.state",),
+        "collections": {"source_license_checklist": {"count": 2, "states": {"pending": 2}}},
+    },
+    "UNI_CLUSTER_PROGRESS_REGISTRY_G14.json": {
+        "state_paths": ("cluster_progress_contract.state",),
+        "collections": {
+            "cluster_progress_registries": {
+                "count": 2,
+                "states": {"blocked": 1, "open": 1},
+            }
+        },
+    },
+    "UNI_PER_PACK_QUEUE_G14.json": {
+        "state_paths": ("per_pack_queue_contract.state",),
+        "collections": {"per_pack_queue": {"count": 2, "states": {"blocked": 1, "open": 1}}},
+    },
+}
+EXPECTED_PUBLIC_EXAM_FILE_COUNT = 76
 
 # These are payload field names, not ordinary prose.  ``answer_key_separation``
 # is intentionally absent: it is the allowed metadata declaration that the
@@ -205,6 +256,24 @@ def scoped_paths(root: Path = REPOSITORY_ROOT) -> tuple[Path, ...]:
     """Return the unique tracked text files covered by the G13 contract."""
 
     return tuple(sorted(path for path in _tracked_paths(root) if _is_scoped_path(path)))
+
+
+def determinism_issues(
+    root: Path = REPOSITORY_ROOT, paths: tuple[Path, ...] | None = None
+) -> list[str]:
+    """Check that the full-checkout inventory has a stable, unique order."""
+
+    root = root.resolve()
+    first = scoped_paths(root) if paths is None else tuple(paths)
+    second = scoped_paths(root)
+    issues: list[str] = []
+    if first != second:
+        issues.append("scope: repeated tracked-path inventory is not deterministic")
+    if first != tuple(sorted(first)):
+        issues.append("scope: tracked-path inventory is not sorted")
+    if len(first) != len(set(first)):
+        issues.append("scope: tracked-path inventory contains duplicates")
+    return issues
 
 
 def _looks_like_numeric_scalar_map(value: dict[Any, Any]) -> bool:
@@ -469,7 +538,101 @@ def _g14_record_issues(
     return issues
 
 
-def _manifest_issues(payload: Any, root: Path, location: str) -> list[str]:
+_MISSING = object()
+
+
+def _value_at_path(payload: Any, dotted_path: str) -> Any:
+    value = payload
+    for part in dotted_path.split("."):
+        if not isinstance(value, dict) or part not in value:
+            return _MISSING
+        value = value[part]
+    return value
+
+
+def _state_counts(records: Any) -> Counter[str]:
+    if not isinstance(records, list):
+        return Counter({"<not-a-list>": 1})
+    counts: Counter[str] = Counter()
+    for record in records:
+        if not isinstance(record, dict):
+            counts["<non-object>"] += 1
+            continue
+        state = record.get("state")
+        counts[state if isinstance(state, str) and state.strip() else "<missing>"] += 1
+    return counts
+
+
+def report_state_count_issues(root: Path = REPOSITORY_ROOT) -> list[str]:
+    """Validate deterministic states and cardinalities for G10-G14 reports."""
+
+    root = root.resolve()
+    issues: list[str] = []
+    tracked = frozenset(_tracked_paths(root))
+    for filename, spec in sorted(G15_REPORT_SPECS.items()):
+        relative = Path(COORDINATION_PREFIX) / filename
+        location = f"{relative.as_posix()}"
+        path = root / relative
+        if relative not in tracked or not path.is_file():
+            issues.append(f"{location}: required report is missing or untracked")
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, UnicodeError, json.JSONDecodeError) as error:
+            issues.append(f"{location}: cannot read JSON report ({error})")
+            continue
+        if not isinstance(payload, dict):
+            issues.append(f"{location}: report must be a JSON object")
+            continue
+
+        for state_path in spec.get("state_paths", ()):
+            value = _value_at_path(payload, state_path)
+            if not isinstance(value, str) or value not in ALLOWED_STATES:
+                issues.append(
+                    f"{location}.{state_path}: state must be one of {sorted(ALLOWED_STATES)}"
+                )
+
+        for count_path, expected in spec.get("count_paths", {}).items():
+            value = _value_at_path(payload, count_path)
+            if value != expected:
+                issues.append(
+                    f"{location}.{count_path}: expected count {expected}, found {value!r}"
+                )
+
+        for collection_name, contract in spec.get("collections", {}).items():
+            records = payload.get(collection_name, _MISSING)
+            expected_count = contract["count"]
+            expected_states = Counter(contract["states"])
+            if not isinstance(records, list):
+                issues.append(f"{location}.{collection_name}: expected list")
+                continue
+            if len(records) != expected_count:
+                issues.append(
+                    f"{location}.{collection_name}: expected count {expected_count}, found {len(records)}"
+                )
+            actual_states = _state_counts(records)
+            if actual_states != expected_states:
+                issues.append(
+                    f"{location}.{collection_name}: expected state counts "
+                    f"{dict(sorted(expected_states.items()))}, found {dict(sorted(actual_states.items()))}"
+                )
+
+        source_manifest = spec.get("source_manifest")
+        if isinstance(source_manifest, str):
+            manifest_path = Path(source_manifest)
+            if manifest_path not in tracked or not (root / manifest_path).is_file():
+                issues.append(
+                    f"{location}.scope.source_manifest: tracked manifest is missing"
+                )
+    return issues
+
+
+def _manifest_issues(
+    payload: Any,
+    root: Path,
+    location: str,
+    tracked_paths: frozenset[Path] | None = None,
+) -> list[str]:
     """Validate public fixture manifest paths and digests when present."""
 
     if not isinstance(payload, dict):
@@ -480,20 +643,41 @@ def _manifest_issues(payload: Any, root: Path, location: str) -> list[str]:
     if not all("path" in item and "sha256" in item for item in files):
         return []
     issues: list[str] = []
+    if payload.get("algorithm") != "sha256":
+        issues.append(f"{location}.algorithm: sha256 required")
     file_count = payload.get("file_count")
     if file_count != len(files):
         issues.append(f"{location}.file_count: does not match files length")
     paths = [item.get("path") for item in files]
     if len(paths) != len(set(paths)):
         issues.append(f"{location}.files: duplicate manifest path")
+    string_paths = [path for path in paths if isinstance(path, str)]
+    if len(string_paths) != len({path.casefold() for path in string_paths}):
+        issues.append(f"{location}.files: duplicate manifest path by case")
+    if string_paths != sorted(string_paths):
+        issues.append(f"{location}.files: paths must be sorted deterministically")
+    if tracked_paths is None:
+        tracked_paths = frozenset(_tracked_paths(root))
     for index, item in enumerate(files):
         relative = item.get("path")
         digest = item.get("sha256")
         entry_location = f"{location}.files[{index}]"
-        if not isinstance(relative, str) or not relative.strip() or Path(relative).is_absolute():
-            issues.append(f"{entry_location}.path: repository-relative path required")
+        if (
+            not isinstance(relative, str)
+            or not relative.strip()
+            or "\\" in relative
+            or Path(relative).is_absolute()
+            or relative != Path(relative).as_posix()
+            or any(part in {"", ".", ".."} for part in Path(relative).parts)
+        ):
+            issues.append(
+                f"{entry_location}.path: normalized repository-relative POSIX path required"
+            )
             continue
-        target = root / Path(relative)
+        relative_path = Path(relative)
+        if relative_path not in tracked_paths:
+            issues.append(f"{entry_location}.path: path is not tracked by Git")
+        target = root / relative_path
         try:
             target.resolve().relative_to(root.resolve())
         except ValueError:
@@ -511,7 +695,9 @@ def _manifest_issues(payload: Any, root: Path, location: str) -> list[str]:
     return issues
 
 
-def issues_for_file(path: Path, root: Path) -> list[str]:
+def issues_for_file(
+    path: Path, root: Path, tracked_paths: frozenset[Path] | None = None
+) -> list[str]:
     """Return value-free structural findings for one scoped file."""
 
     text = path.read_text(encoding="utf-8")
@@ -526,7 +712,7 @@ def issues_for_file(path: Path, root: Path) -> list[str]:
                 for issue in forbidden_structure_issues(payload)
             )
             issues.extend(_contract_issues(payload, location))
-            issues.extend(_manifest_issues(payload, root, location))
+            issues.extend(_manifest_issues(payload, root, location, tracked_paths))
     except json.JSONDecodeError as error:
         issues.append(f"JSON parse error: {error.msg}")
     return issues
@@ -536,28 +722,43 @@ def validate_checkout(root: Path = REPOSITORY_ROOT) -> list[str]:
     """Scan a complete checkout and return deterministic, value-free findings."""
 
     root = root.resolve()
+    tracked_paths = frozenset(_tracked_paths(root))
     paths = scoped_paths(root)
     findings: list[str] = []
+    findings.extend(determinism_issues(root, paths))
     exam_payloads = [
         path
         for path in paths
         if path.as_posix().casefold().startswith(PUBLIC_EXAMS_PREFIX.casefold())
         and path.name.casefold() == "domande.md"
     ]
+    exam_text_files = [
+        path
+        for path in paths
+        if path.as_posix().casefold().startswith(PUBLIC_EXAMS_PREFIX.casefold())
+    ]
     coordination_names = {path.name for path in paths if path.as_posix().startswith(COORDINATION_PREFIX)}
     if len(exam_payloads) != EXPECTED_PUBLIC_EXAM_PAYLOAD_COUNT:
         findings.append(
             f"{PUBLIC_EXAMS_PREFIX}: expected {EXPECTED_PUBLIC_EXAM_PAYLOAD_COUNT} domande.md payloads, found {len(exam_payloads)}"
         )
+    if len(exam_text_files) != EXPECTED_PUBLIC_EXAM_FILE_COUNT:
+        findings.append(
+            f"{PUBLIC_EXAMS_PREFIX}: expected {EXPECTED_PUBLIC_EXAM_FILE_COUNT} text files, found {len(exam_text_files)}"
+        )
     missing = sorted(REQUIRED_COORDINATION_ARTIFACTS - coordination_names)
     findings.extend(f"docs/coordination: missing required artifact {name}" for name in missing)
+    findings.extend(report_state_count_issues(root))
     if not any(path.as_posix().casefold().startswith(PUBLIC_EXAMS_PREFIX.casefold()) for path in paths):
         findings.append("scope: ESAMI text material is missing")
     if not any(path.as_posix().casefold().startswith(COORDINATION_PREFIX.casefold()) for path in paths):
         findings.append("scope: docs/coordination text material is missing")
     for path in paths:
         absolute = root / path
-        findings.extend(f"{path.as_posix()}: {issue}" for issue in issues_for_file(absolute, root))
+        findings.extend(
+            f"{path.as_posix()}: {issue}"
+            for issue in issues_for_file(absolute, root, tracked_paths)
+        )
     return findings
 
 
