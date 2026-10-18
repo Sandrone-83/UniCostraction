@@ -35,6 +35,7 @@ class G3GseProvenanceManifestTest(unittest.TestCase):
         self.assertEqual(self.manifest["schema_version"], "G3-source-metadata")
         self.assertEqual(self.manifest["manifest_id"], "G3-2-ENERGETICA-GSE-CT3")
         self.assertTrue(self.manifest["metadata_only"])
+        self.assertEqual(len(self.manifest["records"]), 2)
         self.assertEqual(self.record["source_record_id"], "G3-2-001")
         self.assertEqual(self.record["source_kind"], "primary_official")
         self.assertIn("Regole Applicative del D.M. 7 agosto 2025", self.record["title"])
@@ -47,6 +48,29 @@ class G3GseProvenanceManifestTest(unittest.TestCase):
         self.assertIsNone(self.record["locator"]["url"])
         self.assertEqual(self.record["locator"]["url_status"], "not_recorded_in_local_metadata")
 
+    def test_manifest_records_gse_page_as_context_only(self) -> None:
+        context = self.manifest["records"][1]
+        self.assertEqual(context["source_record_id"], "G3-2-002")
+        self.assertEqual(context["source_kind"], "official_context_page")
+        self.assertEqual(context["entity"], "GSE (Gestore dei Servizi Energetici)")
+        self.assertIsNone(context["locator"]["path"])
+        self.assertEqual(
+            context["locator"]["url"],
+            "https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico-3-0/modulistica-ct-2",
+        )
+        self.assertEqual(context["locator"]["url_status"], "observed_exact_url")
+        self.assertEqual(context["context_relation"]["related_source_record_id"], "G3-2-001")
+        self.assertEqual(context["context_relation"]["relationship"], "institutional_context_only")
+        self.assertEqual(context["verification_status"]["state"], "context_only")
+        self.assertEqual(context["license_reuse"]["status"], "not_declared")
+        self.assertEqual(context["observed_page_metadata"]["section_heading"], "Conto Termico 3.0")
+        self.assertEqual(context["observed_page_metadata"]["navigation_label"], "MODULISTICA CT 2.0")
+
+        relation_text = json.dumps(context["context_relation"], ensure_ascii=False).lower()
+        self.assertIn("non", relation_text)
+        self.assertIn("vigenza", relation_text)
+        self.assertIn("riuso", relation_text)
+
     def test_manifest_hash_matches_pdf_and_supporting_readme_exists(self) -> None:
         self.assertTrue(SOURCE_PATH.is_file(), SOURCE_PATH)
         self.assertTrue(README_PATH.is_file(), README_PATH)
@@ -56,11 +80,12 @@ class G3GseProvenanceManifestTest(unittest.TestCase):
 
     def test_manifest_is_explicitly_blocked_without_invented_url_or_reuse_claim(self) -> None:
         self.assertEqual(self.record["verification_status"]["state"], "blocked")
+        self.assertIsNone(self.record["locator"]["url"])
         self.assertEqual(self.record["license_reuse"]["status"], "not_declared")
         self.assertIn("URL GSE", self.record["limitations"][0])
         self.assertIn("Non inventare", self.manifest["blocking_notes"][0])
 
-        serialized = json.dumps(self.manifest, ensure_ascii=False).lower()
+        serialized = json.dumps(self.record, ensure_ascii=False).lower()
         for forbidden_key in ("text", "content", "question", "answer", "solution", "incentive_values"):
             self.assertNotIn(f'"{forbidden_key}"', serialized)
         self.assertNotIn("https://", serialized)

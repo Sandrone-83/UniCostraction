@@ -72,6 +72,65 @@
         "Nessuna licenza o autorizzazione di riuso è dichiarata nei metadati locali; la presenza del file nella repository non equivale a permesso di riproduzione o distribuzione.",
         "Il record non incorpora testo, tabelle, valori incentivanti o interpretazioni e non valida le schede che lo citano."
       ]
+    },
+    {
+      "source_record_id": "G3-2-002",
+      "source_kind": "official_context_page",
+      "title": "Modulistica CT 2.0 - Conto Termico 3.0",
+      "entity": "GSE (Gestore dei Servizi Energetici)",
+      "locator": {
+        "path": null,
+        "url": "https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico-3-0/modulistica-ct-2",
+        "url_status": "observed_exact_url"
+      },
+      "context_relation": {
+        "related_source_record_id": "G3-2-001",
+        "relationship": "institutional_context_only",
+        "description": "Pagina istituzionale GSE correlata al Conto Termico 3.0 e alla modulistica; non è registrata come locator del PDF locale e non prova la sua vigenza o il suo riuso."
+      },
+      "observed_page_metadata": {
+        "page_title": "Modulistica CT 2",
+        "section_heading": "Conto Termico 3.0",
+        "navigation_label": "MODULISTICA CT 2.0"
+      },
+      "version_date": {
+        "value": null,
+        "kind": "not_recorded",
+        "basis": "Nessuna data di versione della pagina registrata nel controllo osservato"
+      },
+      "license_reuse": {
+        "status": "not_declared",
+        "local_statement": "La pagina è registrata soltanto come contesto istituzionale correlato; la sua presenza non dichiara una licenza o un permesso di riuso del PDF locale.",
+        "basis_path": null
+      },
+      "attribution": "GSE (Gestore dei Servizi Energetici), pagina istituzionale Modulistica CT 2.0.",
+      "transformation": {
+        "status": "metadata_only",
+        "description": "Registrati esclusivamente URL e metadati osservati della pagina; nessun contenuto della pagina o PDF è stato copiato o trasformato."
+      },
+      "verification_status": {
+        "state": "context_only",
+        "checked_at": "2026-10-18",
+        "checks": [
+          "exact_url_observed",
+          "page_title_observed",
+          "section_heading_observed",
+          "navigation_label_observed"
+        ],
+        "not_checked": [
+          "identity_of_the_local_pdf",
+          "registered_gse_url_for_the_local_pdf",
+          "current_validity_or_applicability_of_the_pdf",
+          "independent_license_or_reuse_clearance",
+          "legal_validity",
+          "accuracy_or_completeness_of_incentive_values"
+        ]
+      },
+      "limitations": [
+        "La pagina correlata non è prova dell'URL esatto del PDF locale, della sua vigenza corrente, validità legale o completezza.",
+        "La pagina correlata non è prova di una licenza o autorizzazione al riuso, riproduzione o distribuzione del PDF.",
+        "Il record non incorpora testo, tabelle, valori incentivanti o interpretazioni e non cambia lo stato blocked del record G3-2-001."
+      ]
     }
   ],
   "blocking_notes": [
