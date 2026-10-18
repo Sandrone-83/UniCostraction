@@ -1,0 +1,1763 @@
+{
+  "$schema": "./UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json",
+  "schema_version": "G7-B-remediation-queue",
+  "queue_id": "G7-B-provenance-remediation",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "source_audit": {
+    "audit_id": "G6-B-provenance",
+    "report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json",
+    "record_count": 33
+  },
+  "scope": {
+    "included_categories": [
+      "missing_manifest_id",
+      "missing_metadata_only",
+      "license_missing",
+      "g3_pdf_blocked",
+      "gse_context_only",
+      "alias_not_deduplicated"
+    ],
+    "excluded_residual_codes": [
+      "external_url_availability_not_checked",
+      "independent_license_clearance_not_checked",
+      "current_version_or_vigency_not_checked",
+      "content_or_legal_accuracy_not_checked"
+    ],
+    "policy": "Only G6-observed gaps are queued; no gap is closed by this report."
+  },
+  "summary": {
+    "item_count": 48,
+    "open_item_count": 48,
+    "by_status": {
+      "open": 48
+    },
+    "by_category": {
+      "missing_manifest_id": 14,
+      "missing_metadata_only": 14,
+      "license_missing": 4,
+      "g3_pdf_blocked": 1,
+      "gse_context_only": 1,
+      "alias_not_deduplicated": 14
+    }
+  },
+  "items": [
+    {
+      "item_id": "G7-B-MANIFEST-ID-20fb331aae60",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-001",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-d8ace45a8272",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-002",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-3100c5a811ae",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-003",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-216f877f179e",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-004",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-2779fa8bfa39",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-005",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-9ec7563b0a3d",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-006",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-7030cf577140",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-007",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-e647cf2bfa2a",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-008",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-a5c653dacb18",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-009",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-a81a59114128",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-010",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-91f708dc68ec",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-011",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-8c2ee0253a0c",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-012",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-846c4982f125",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-013",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-0b51983ef4e2",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares a stable manifest_id.",
+        "The chosen identifier is reviewed by the corpus owner; it is not inferred by this queue.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-014",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_id_not_declared_lot_id_used_as_reference",
+        "field": "manifest_id",
+        "g6_manifest_id_source": "lot_id_fallback",
+        "g6_effective_reference": "G1-FONDAMENTI-GUTENBERG-RAW"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-20fb331aae60",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-001",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-d8ace45a8272",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-002",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-3100c5a811ae",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-003",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-216f877f179e",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-004",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-2779fa8bfa39",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-005",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-9ec7563b0a3d",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-006",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-7030cf577140",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-007",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-e647cf2bfa2a",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-008",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-a5c653dacb18",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-009",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-a81a59114128",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-010",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-91f708dc68ec",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-011",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-8c2ee0253a0c",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-012",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-846c4982f125",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-013",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-0b51983ef4e2",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The source manifest explicitly declares the reviewed boolean metadata_only value.",
+        "The declared value and its scope are approved by the corpus owner; this queue does not choose it.",
+        "A regenerated G6 audit no longer reports the residual code for the affected records."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+        "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+        "record_id": "G1-014",
+        "record_kind": "source",
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+        "proof_state": "observed_local"
+      },
+      "observed_gap": {
+        "g6_residual_code": "manifest_metadata_only_flag_not_declared",
+        "field": "metadata_only",
+        "g6_manifest_metadata_only_flag": "not_declared"
+      }
+    },
+    {
+      "item_id": "G7-B-LICENSE-d2238c6a7fbb",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "Exact license or reuse terms are supplied with a traceable basis.",
+        "Rights and reuse are reviewed independently where the terms require it.",
+        "A regenerated G6 audit no longer reports the missing-license residual code."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+        "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+        "record_id": "G3-2-001",
+        "record_kind": "source",
+        "local_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+        "proof_state": "blocked"
+      },
+      "observed_gap": {
+        "g6_residual_code": "license_or_reuse_terms_not_declared",
+        "license_status": "not_declared",
+        "license_label_observed_by_g6": "Il README locale qualifica il file come documento ufficiale GSE scaricato da gse.it, ma non dichiara una licenza né permessi di riuso."
+      }
+    },
+    {
+      "item_id": "G7-B-LICENSE-bb41c71f1f79",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "Exact license or reuse terms are supplied with a traceable basis.",
+        "Rights and reuse are reviewed independently where the terms require it.",
+        "A regenerated G6 audit no longer reports the missing-license residual code."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+        "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+        "record_id": "G3-2-002",
+        "record_kind": "context",
+        "local_path": null,
+        "proof_state": "context_only"
+      },
+      "observed_gap": {
+        "g6_residual_code": "license_or_reuse_terms_not_declared",
+        "license_status": "not_declared",
+        "license_label_observed_by_g6": "La pagina è registrata soltanto come contesto istituzionale correlato; la sua presenza non dichiara una licenza o un permesso di riuso del PDF locale."
+      }
+    },
+    {
+      "item_id": "G7-B-LICENSE-f0a2f548d65f",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "Exact license or reuse terms are supplied with a traceable basis.",
+        "Rights and reuse are reviewed independently where the terms require it.",
+        "A regenerated G6 audit no longer reports the missing-license residual code."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+        "manifest_id": "G5-ECFR-OSHA-1926",
+        "record_id": "BLOCKER-001",
+        "record_kind": "blocker",
+        "local_path": null,
+        "proof_state": "blocked"
+      },
+      "observed_gap": {
+        "g6_residual_code": "license_or_reuse_terms_not_declared",
+        "license_status": "not_declared",
+        "license_label_observed_by_g6": null
+      }
+    },
+    {
+      "item_id": "G7-B-LICENSE-a1ebfdce0589",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "Exact license or reuse terms are supplied with a traceable basis.",
+        "Rights and reuse are reviewed independently where the terms require it.",
+        "A regenerated G6 audit no longer reports the missing-license residual code."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
+        "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+        "manifest_id": "G5-ECFR-OSHA-1926",
+        "record_id": "G5-CONTEXT-001",
+        "record_kind": "context",
+        "local_path": null,
+        "proof_state": "context_only"
+      },
+      "observed_gap": {
+        "g6_residual_code": "license_or_reuse_terms_not_declared",
+        "license_status": "not_declared",
+        "license_label_observed_by_g6": null
+      }
+    },
+    {
+      "item_id": "G7-B-G3-PDF-d2238c6a7fbb",
+      "category": "g3_pdf_blocked",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The exact locator for this local PDF is registered and identity-matched.",
+        "Reuse or distribution terms are evidenced for this specific PDF.",
+        "Current applicability and source identity are checked without editing the PDF.",
+        "A regenerated G6 audit no longer reports the blocked residual for this record."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+        "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+        "record_id": "G3-2-001",
+        "record_kind": "source",
+        "local_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+        "proof_state": "blocked"
+      },
+      "observed_gap": {
+        "g6_residual_codes": [
+          "exact_url_not_declared",
+          "license_or_reuse_terms_not_declared",
+          "blocked_until_missing_metadata_or_evidence_is_supplied"
+        ],
+        "proof_state": "blocked",
+        "local_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf"
+      }
+    },
+    {
+      "item_id": "G7-B-GSE-CONTEXT-bb41c71f1f79",
+      "category": "gse_context_only",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The record remains explicitly labeled context_only unless independently reassessed.",
+        "A primary source record for the local PDF is identified and assessed separately.",
+        "Context is not used as proof of PDF identity, vigency, license, or reuse.",
+        "The related G3 PDF blocker is closed separately under its own criteria."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "record": {
+        "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+        "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+        "record_id": "G3-2-002",
+        "record_kind": "context",
+        "local_path": null,
+        "proof_state": "context_only"
+      },
+      "observed_gap": {
+        "g6_residual_codes": [
+          "license_or_reuse_terms_not_declared",
+          "context_does_not_prove_source_vigency_or_reuse"
+        ],
+        "proof_state": "context_only",
+        "role": "institutional context; not a source locator for the local PDF"
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-97bdef2d535d",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+        "hash_sha256": "03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-6869b4f3bc39",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+        "hash_sha256": "2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-f8da041b976f",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+        "hash_sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-563421d594bc",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+        "hash_sha256": "7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-7a1085c41974",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+        "hash_sha256": "86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-021cd01c467f",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+        "hash_sha256": "88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-b61a8673f48f",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+        "hash_sha256": "917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-4d3158739753",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+        "hash_sha256": "9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-f7d85ebf1119",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+        "hash_sha256": "A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-2d05db44caa2",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+        "hash_sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-b81af7324bed",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+        "hash_sha256": "A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-31b478711852",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+        "hash_sha256": "C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-c56b274ab944",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+        "hash_sha256": "E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    },
+    {
+      "item_id": "G7-B-ALIAS-e57c136cd146",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+      "source_audit": {
+        "audit_id": "G6-B-provenance",
+        "audit_report": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"
+      },
+      "closure_evidence": [],
+      "closure_criteria": [
+        "The corpus owner records a canonical record and the intentional alias relationship.",
+        "References are reconciled without deleting or rewriting source payloads.",
+        "The hash and local path relationship is rechecked after the metadata-only change.",
+        "A regenerated G6 audit no longer reports this unresolved alias review."
+      ],
+      "constraints": [
+        "Do not modify source files or source payloads.",
+        "Do not infer missing provenance, license, URL, or legal status.",
+        "Do not promote a proof state from metadata alone."
+      ],
+      "alias_group": {
+        "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+        "hash_sha256": "EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+        "record_keys": [
+          "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+          "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+        ],
+        "representation_count": 2
+      },
+      "observed_gap": {
+        "g6_residual_code": "cross_manifest_alias_review_required",
+        "representation_count": 2,
+        "deduplication_performed": false
+      }
+    }
+  ]
+}

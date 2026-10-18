@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json",
+  "title": "UniCostraction G7-B provenance remediation queue",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "queue_id",
+    "metadata_only",
+    "observed_at",
+    "source_audit",
+    "scope",
+    "summary",
+    "items"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_REMEDIATION_QUEUE_G7_B_SCHEMA.json"},
+    "schema_version": {"const": "G7-B-remediation-queue"},
+    "queue_id": {"const": "G7-B-provenance-remediation"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": ["string", "null"]},
+    "source_audit": {
+      "type": "object",
+      "required": ["audit_id", "report", "record_count"],
+      "properties": {
+        "audit_id": {"const": "G6-B-provenance"},
+        "report": {"const": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"},
+        "record_count": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": false
+    },
+    "scope": {
+      "type": "object",
+      "required": ["included_categories", "excluded_residual_codes", "policy"],
+      "properties": {
+        "included_categories": {"type": "array", "items": {"type": "string"}},
+        "excluded_residual_codes": {"type": "array", "items": {"type": "string"}},
+        "policy": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "summary": {
+      "type": "object",
+      "required": ["item_count", "open_item_count", "by_status", "by_category"],
+      "properties": {
+        "item_count": {"type": "integer", "minimum": 0},
+        "open_item_count": {"type": "integer", "minimum": 0},
+        "by_status": {"type": "object"},
+        "by_category": {"type": "object"}
+      },
+      "additionalProperties": false
+    },
+    "items": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/remediationItem"}
+    }
+  },
+  "$defs": {
+    "remediationItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "item_id",
+        "category",
+        "status",
+        "source_ref",
+        "source_audit",
+        "observed_gap",
+        "closure_evidence",
+        "closure_criteria",
+        "constraints"
+      ],
+      "properties": {
+        "item_id": {"type": "string", "minLength": 1},
+        "category": {
+          "enum": [
+            "missing_manifest_id",
+            "missing_metadata_only",
+            "license_missing",
+            "g3_pdf_blocked",
+            "gse_context_only",
+            "alias_not_deduplicated"
+          ]
+        },
+        "status": {"const": "open"},
+        "source_ref": {"type": "string", "minLength": 1},
+        "source_audit": {
+          "type": "object",
+          "required": ["audit_id", "audit_report"],
+          "properties": {
+            "audit_id": {"const": "G6-B-provenance"},
+            "audit_report": {"const": "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json"}
+          },
+          "additionalProperties": false
+        },
+        "record": {"type": "object"},
+        "alias_group": {"type": "object"},
+        "observed_gap": {"type": "object"},
+        "closure_evidence": {"type": "array", "items": {"type": "string"}},
+        "closure_criteria": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "constraints": {"type": "array", "minItems": 1, "items": {"type": "string"}}
+      }
+    }
+  }
+}
