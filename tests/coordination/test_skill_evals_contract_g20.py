@@ -44,6 +44,16 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
 
         self.assertEqual([], validate_evals(manifest, evaluations))
 
+    def test_published_metadata_envelope_uses_cases_array(self) -> None:
+        manifest = _manifest("skill-cila-basics")
+        evaluations = {
+            "schema_version": "g19-skill-library-evals-1",
+            "library": "UniCostraction/AuraTrix-AulaFIX",
+            "cases": [_case()],
+        }
+
+        self.assertEqual([], validate_evals(manifest, evaluations))
+
     def test_case_ids_and_skill_coverage_are_one_to_one(self) -> None:
         evaluations = [_case(), _case(case_id="case-cila-basics"), _case(skill_id="skill-unknown", case_id="case-unknown")]
 

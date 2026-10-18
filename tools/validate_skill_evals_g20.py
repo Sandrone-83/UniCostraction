@@ -34,6 +34,17 @@ REQUIRED_EVAL_FIELDS = frozenset(
     }
 )
 ALLOWED_EVAL_FIELDS = REQUIRED_EVAL_FIELDS
+PUBLISHED_EVAL_FIELDS = frozenset(
+    {
+        "case_id",
+        "skill_id",
+        "prompt",
+        "expected_behavior",
+        "required_boundaries",
+        "evidence_expectation",
+        "grading_rubric",
+    }
+)
 SAFE_NEGATIVE_CASE_MARKERS = frozenset(
     {
         "ambiguous-input",
@@ -149,17 +160,35 @@ def _eval_field_issues(record: Any, location: str) -> list[str]:
         return [f"{location}: evaluation case must be an object"]
 
     issues: list[str] = []
-    missing = sorted(REQUIRED_EVAL_FIELDS - set(record))
+    published_schema = any(field in record for field in (PUBLISHED_EVAL_FIELDS - {"case_id", "skill_id", "prompt"}))
+    required_fields = PUBLISHED_EVAL_FIELDS if published_schema else REQUIRED_EVAL_FIELDS
+    allowed_fields = PUBLISHED_EVAL_FIELDS if published_schema else ALLOWED_EVAL_FIELDS
+    missing = sorted(required_fields - set(record))
     issues.extend(f"{location}: missing required field {field}" for field in missing)
-    unknown = sorted(set(record) - ALLOWED_EVAL_FIELDS)
+    unknown = sorted(set(record) - allowed_fields)
     issues.extend(f"{location}: unknown field {field}" for field in unknown)
     issues.extend(_answer_key_findings(record, location))
 
-    for field in ("case_id", "skill_id", "prompt", "boundary"):
+    for field in ("case_id", "skill_id", "prompt"):
         if field in record and not _is_non_empty_string(record[field]):
             issues.append(f"{location}.{field}: non-empty string required")
     if "case_id" in record and not _is_slug(record["case_id"]):
         issues.append(f"{location}.case_id: lowercase hyphenated case ID required")
+
+    if published_schema:
+        for field in ("expected_behavior", "required_boundaries", "evidence_expectation"):
+            if field in record and not _non_empty_string_list(record[field]):
+                issues.append(f"{location}.{field}: non-empty list of strings required")
+        grading = record.get("grading_rubric")
+        if not isinstance(grading, dict) or not grading or any(
+            not _is_non_empty_string(value) for value in grading.values()
+        ):
+            if "grading_rubric" in record:
+                issues.append(f"{location}.grading_rubric: non-empty string mapping required")
+        return issues
+
+    if "boundary" in record and not _is_non_empty_string(record["boundary"]):
+        issues.append(f"{location}.boundary: non-empty string required")
     if "evidence" in record and not _non_empty_string_list(record["evidence"]):
         issues.append(f"{location}.evidence: non-empty list of strings required")
     if "rubric" in record and not _non_empty_string_list(record["rubric"]):
@@ -185,11 +214,15 @@ def _eval_field_issues(record: Any, location: str) -> list[str]:
             issues.append(f"{location}.negative_case_markers: must be empty for non-negative case")
     return issues
 
-
 def validate_evals(manifest: Any, evaluations: Any) -> list[str]:
     """Validate in-memory manifest/evaluation data and return sorted findings."""
 
     manifest_ids, findings = _manifest_skill_ids(manifest)
+    # The published G19/G20 artifact is an object carrying metadata and a
+    # cases array. Accept only that explicit envelope; the case-level
+    # contract remains unchanged and no unknown envelope fields are inferred.
+    if isinstance(evaluations, dict):
+        evaluations = evaluations.get("cases")
     if not isinstance(evaluations, list) or not evaluations:
         findings.append("evals/evals.json: non-empty JSON array required")
         return sorted(set(findings))
