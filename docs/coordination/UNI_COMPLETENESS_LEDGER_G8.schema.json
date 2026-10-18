@@ -1,0 +1,180 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-completeness-ledger-g8a.v1.json",
+  "title": "UniCostraction G8-A completeness evidence ledger",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "tool",
+    "scope",
+    "source_reports",
+    "dashboard_counts",
+    "counts",
+    "open_review",
+    "packs",
+    "exams",
+    "boundaries"
+  ],
+  "properties": {
+    "schema_version": { "const": "g8a.v1" },
+    "tool": { "const": "tools/uni_completeness_ledger_g8.py" },
+    "scope": {
+      "type": "object",
+      "required": [
+        "source_of_truth",
+        "didactic_content_reviewed",
+        "semantic_association_inferred",
+        "content_modified"
+      ],
+      "properties": {
+        "source_of_truth": { "type": "string" },
+        "didactic_content_reviewed": { "const": false },
+        "semantic_association_inferred": { "const": false },
+        "content_modified": { "const": false }
+      },
+      "additionalProperties": false
+    },
+    "source_reports": {
+      "type": "object",
+      "required": ["dashboard", "review"],
+      "properties": {
+        "dashboard": { "$ref": "#/$defs/sourceReport" },
+        "review": { "$ref": "#/$defs/sourceReport" }
+      },
+      "additionalProperties": false
+    },
+    "dashboard_counts": {
+      "type": "object",
+      "required": [
+        "observed",
+        "pack_card_completeness",
+        "mapping",
+        "unmatched",
+        "pending_human_review"
+      ],
+      "properties": {
+        "observed": { "type": "object" },
+        "pack_card_completeness": { "type": "object" },
+        "mapping": { "type": "object" },
+        "unmatched": { "type": "object" },
+        "pending_human_review": { "type": "object" }
+      },
+      "additionalProperties": false
+    },
+    "counts": {
+      "type": "object",
+      "required": ["records", "evidence_state"],
+      "properties": {
+        "records": {
+          "type": "object",
+          "required": ["packs", "exams"],
+          "properties": {
+            "packs": { "type": "integer", "minimum": 0 },
+            "exams": { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        },
+        "evidence_state": {
+          "type": "object",
+          "required": ["packs", "exams", "total"],
+          "properties": {
+            "packs": { "$ref": "#/$defs/stateCounts" },
+            "exams": { "$ref": "#/$defs/stateCounts" },
+            "total": { "$ref": "#/$defs/stateCounts" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "open_review": {
+      "type": "object",
+      "required": [
+        "pending_g5",
+        "legacy_unmatched_exams",
+        "pending_queue_ids",
+        "automatic_resolution",
+        "pending_or_unmatched_closed"
+      ],
+      "properties": {
+        "pending_g5": { "type": "integer", "minimum": 0 },
+        "legacy_unmatched_exams": { "type": "integer", "minimum": 0 },
+        "pending_queue_ids": { "type": "array", "items": { "type": "string" } },
+        "automatic_resolution": { "const": false },
+        "pending_or_unmatched_closed": { "const": false }
+      },
+      "additionalProperties": false
+    },
+    "packs": { "type": "array", "items": { "$ref": "#/$defs/ledgerEntry" } },
+    "exams": { "type": "array", "items": { "$ref": "#/$defs/ledgerEntry" } },
+    "boundaries": { "type": "array", "items": { "type": "string" } }
+  },
+  "$defs": {
+    "sourceReport": {
+      "type": "object",
+      "required": ["path", "schema_version"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "schema_version": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "stateCounts": {
+      "type": "object",
+      "required": ["evidence_present", "human_review_required"],
+      "properties": {
+        "evidence_present": { "type": "integer", "minimum": 0 },
+        "human_review_required": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "humanReview": {
+      "type": "object",
+      "required": ["required", "queue_ids", "uncertainties", "legacy_unmatched"],
+      "properties": {
+        "required": { "type": "boolean" },
+        "queue_ids": { "type": "array", "items": { "type": "string" } },
+        "uncertainties": { "type": "array", "items": { "type": "string" } },
+        "legacy_unmatched": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "dashboardReference": {
+      "type": "object",
+      "required": ["report_path", "count_paths", "counts"],
+      "properties": {
+        "report_path": { "type": "string", "minLength": 1 },
+        "count_paths": { "type": "object", "minProperties": 1, "additionalProperties": { "type": "string" } },
+        "counts": { "type": "object", "minProperties": 1 }
+      },
+      "additionalProperties": false
+    },
+    "ledgerEntry": {
+      "type": "object",
+      "required": [
+        "record_id",
+        "item_type",
+        "item_id",
+        "evidence_state",
+        "classification",
+        "source_files",
+        "dashboard_reference",
+        "observed",
+        "human_review"
+      ],
+      "properties": {
+        "record_id": { "type": "string", "minLength": 1 },
+        "item_type": { "enum": ["pack", "exam"] },
+        "item_id": { "type": "string", "minLength": 1 },
+        "evidence_state": { "enum": ["evidence_present", "human_review_required"] },
+        "classification": { "type": "string", "minLength": 1 },
+        "source_files": { "type": "array", "items": { "type": "string" } },
+        "dashboard_reference": { "$ref": "#/$defs/dashboardReference" },
+        "observed": { "type": "object" },
+        "human_review": { "$ref": "#/$defs/humanReview" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
