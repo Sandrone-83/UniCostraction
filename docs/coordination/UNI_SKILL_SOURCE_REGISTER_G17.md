@@ -42,6 +42,15 @@ capitolati, formulari o codice non compatibile con la licenza del repository.
 | SRC-ADE-DOCFA | catasto | https://agenziaentrate.gov.it/portale/web/guest/schede/fabbricatiterreni/aggiornamento-catasto-fabbricati-docfa/docfa-versioni-precedenti/software-docfa-4003 | Riconoscimento del workflow Docfa e dei requisiti software | Versione storica: non presentarla come requisito corrente senza controllo live. |
 | SRC-EU-EPBD | energia/edifici | https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita | Concetti e obblighi europei su prestazione energetica degli edifici | Fonte UE da leggere nella versione vigente e nel recepimento nazionale; non sostituisce il diritto italiano applicabile. |
 
+## Fonti G18 da verificare nella revisione delle skill
+
+| ID | Area | Fonte ufficiale | Utilizzo ammesso nella skill | Diritti / stato |
+|---|---|---|---|---|
+| SRC-JRC-EUROCODES | strutture/metodi | https://eurocodes.jrc.ec.europa.eu/en-eurocodes | Mappa delle famiglie Eurocodici, ambiti di applicazione, NDP e differenza fra guida e testo normativo | JRC è fonte istituzionale; gli Eurocodici restano standard CEN con diritti propri. Non copiare il testo. |
+| SRC-ILO-CONSTRUCTION-SAFETY | sicurezza internazionale | https://www.ilo.org/resource/other/safety-and-health-construction-revised-edition | Contesto comparativo per sistemi di gestione OSH e prevenzione dei rischi di cantiere | Codice ILO da citare e usare secondo i termini della pubblicazione; non sostituisce D.Lgs. 81/2008 o norme locali. |
+| SRC-UNEP-BUILDINGS-GSR | ambiente/clima | https://wedocs.unep.org/entities/publication/dd0a1d99-dba3-46da-93ab-ef2a26fc3c14 | Dati e indicatori globali su edifici, materiali, energia, resilienza e decarbonizzazione | Pubblicazione istituzionale con licenza indicata nella scheda; verificare eccezioni e usare dati con anno/edizione. |
+| SRC-JRC-EUROCODES-FAQ | strutture/licensing | https://eurocodes.jrc.ec.europa.eu/faq | Esplicitare nella skill che JRC non redistribuisce gli standard e che l'accesso al testo dipende dagli enti CEN/NSB | Riferimento di licensing; non è autorizzazione alla copia o alla redistribuzione. |
+
 ## Stati di provenienza
 
 - `reference_only`: la skill può collegare la fonte, ma nessun testo esterno è
