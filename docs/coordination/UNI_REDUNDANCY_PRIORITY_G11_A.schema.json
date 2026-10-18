@@ -1,0 +1,139 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/uni-redundancy-priority-g11a.v1.json",
+  "title": "UniCostraction G11-A redundancy priority queue",
+  "type": "object",
+  "required": ["schema_version", "tool", "input", "scope", "priority_rule", "results", "boundaries"],
+  "properties": {
+    "schema_version": { "const": "g11a.v1" },
+    "tool": { "const": "tools/uni_redundancy_priority_g11_a.py" },
+    "input": {
+      "type": "object",
+      "required": ["path", "schema_version", "candidate_pair_count", "candidate_ids_sha256", "candidate_records_sha256", "report_sha256"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "schema_version": { "const": "g10a.v1" },
+        "candidate_pair_count": { "type": "integer", "minimum": 0 },
+        "candidate_ids_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "candidate_records_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "report_sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+      },
+      "additionalProperties": false
+    },
+    "scope": {
+      "type": "object",
+      "required": ["relation_source", "relation_reused_without_recalculation", "answers_read", "didactic_content_copied", "didactic_content_modified", "automatic_deduplication", "files_deleted", "source_of_truth"],
+      "properties": {
+        "relation_source": { "const": "G10 results.candidate_review" },
+        "relation_reused_without_recalculation": { "const": true },
+        "answers_read": { "const": false },
+        "didactic_content_copied": { "const": false },
+        "didactic_content_modified": { "const": false },
+        "automatic_deduplication": { "const": false },
+        "files_deleted": { "const": false },
+        "source_of_truth": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "priority_rule": {
+      "type": "object",
+      "required": ["collision_count_definition", "coverage_count_definition", "ordering", "priority_rank_definition", "tie_breakers_are_deterministic"],
+      "properties": {
+        "collision_count_definition": { "type": "string", "minLength": 1 },
+        "coverage_count_definition": { "type": "string", "minLength": 1 },
+        "ordering": { "type": "array", "const": ["collision_count desc", "coverage_count desc", "pack_count desc", "exam_count desc", "node_count desc", "source_group asc", "component_id asc"] },
+        "priority_rank_definition": { "type": "string", "minLength": 1 },
+        "tie_breakers_are_deterministic": { "const": true }
+      },
+      "additionalProperties": false
+    },
+    "results": {
+      "type": "object",
+      "required": ["candidate_pair_count", "connected_component_count", "unit_count", "candidate_pair_ids", "queue"],
+      "properties": {
+        "candidate_pair_count": { "type": "integer", "minimum": 0 },
+        "connected_component_count": { "type": "integer", "minimum": 0 },
+        "unit_count": { "type": "integer", "minimum": 0 },
+        "candidate_pair_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "queue": { "type": "array", "items": { "$ref": "#/$defs/component" } }
+      },
+      "additionalProperties": false
+    },
+    "boundaries": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 }
+  },
+  "$defs": {
+    "candidatePair": {
+      "type": "object",
+      "required": ["candidate_id", "left_unit_id", "right_unit_id", "source_group", "metric", "score", "threshold", "shared_token_count", "union_token_count", "interpretation"],
+      "properties": {
+        "candidate_id": { "type": "string", "minLength": 1 },
+        "left_unit_id": { "type": "string", "minLength": 1 },
+        "right_unit_id": { "type": "string", "minLength": 1 },
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "metric": { "const": "token_set_jaccard" },
+        "score": { "type": "number", "minimum": 0, "maximum": 1 },
+        "threshold": { "type": "number", "minimum": 0, "maximum": 1 },
+        "shared_token_count": { "type": "integer", "minimum": 1 },
+        "union_token_count": { "type": "integer", "minimum": 1 },
+        "interpretation": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "coverage": {
+      "type": "object",
+      "required": ["source_paths", "pack_paths", "exam_paths", "source_file_count", "pack_count", "exam_count", "coverage_count"],
+      "properties": {
+        "source_paths": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "pack_paths": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "exam_paths": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "source_file_count": { "type": "integer", "minimum": 0 },
+        "pack_count": { "type": "integer", "minimum": 0 },
+        "exam_count": { "type": "integer", "minimum": 0 },
+        "coverage_count": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "humanReview": {
+      "type": "object",
+      "required": ["required", "decision", "decision_values", "instruction"],
+      "properties": {
+        "required": { "const": true },
+        "decision": { "const": null },
+        "decision_values": { "type": "array", "items": { "enum": ["keep_both", "not_redundant", "merge_candidate", "needs_source_review"] }, "minItems": 1, "uniqueItems": true },
+        "instruction": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "priorityKey": {
+      "type": "object",
+      "required": ["collision_count", "coverage_count", "pack_count", "exam_count", "node_count", "source_group", "component_id"],
+      "properties": {
+        "collision_count": { "type": "integer", "minimum": 1 },
+        "coverage_count": { "type": "integer", "minimum": 0 },
+        "pack_count": { "type": "integer", "minimum": 0 },
+        "exam_count": { "type": "integer", "minimum": 0 },
+        "node_count": { "type": "integer", "minimum": 2 },
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "component_id": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "component": {
+      "type": "object",
+      "required": ["component_id", "priority_rank", "priority_key", "source_group", "unit_ids", "coverage", "collision_count", "pairs", "human_review"],
+      "properties": {
+        "component_id": { "type": "string", "pattern": "^component-[0-9]{4}$" },
+        "priority_rank": { "type": "integer", "minimum": 1 },
+        "priority_key": { "$ref": "#/$defs/priorityKey" },
+        "source_group": { "enum": ["cards", "public_exams"] },
+        "unit_ids": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 2, "uniqueItems": true },
+        "coverage": { "$ref": "#/$defs/coverage" },
+        "collision_count": { "type": "integer", "minimum": 1 },
+        "pairs": { "type": "array", "items": { "$ref": "#/$defs/candidatePair" }, "minItems": 1 },
+        "human_review": { "$ref": "#/$defs/humanReview" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
