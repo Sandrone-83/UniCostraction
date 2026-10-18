@@ -1,0 +1,185 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_CLAIM_COVERAGE_G9_B_SCHEMA.json",
+  "title": "UniCostraction G9-B deterministic provenance index and claim coverage",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "audit_id",
+    "metadata_only",
+    "observed_at",
+    "scope",
+    "summary",
+    "records",
+    "remediation_coverage",
+    "residuals"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_CLAIM_COVERAGE_G9_B_SCHEMA.json"},
+    "schema_version": {"const": "G9-B-claim-coverage"},
+    "audit_id": {"const": "G9-B-claim-coverage"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": ["string", "null"]},
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["input_reports", "record_scope", "excluded_payloads", "state_policy"],
+      "properties": {
+        "input_reports": {"type": "array", "minItems": 2, "items": {"type": "string", "minLength": 1}},
+        "record_scope": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "state_policy": {"type": "string", "minLength": 1}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "record_count",
+        "source_record_present_count",
+        "url_present_count",
+        "license_present_count",
+        "claim_ready_count",
+        "by_evidence_status",
+        "remediation_item_count",
+        "remediation_open_item_count",
+        "remediation_claim_ready_count",
+        "residual_count"
+      ],
+      "properties": {
+        "record_count": {"type": "integer", "minimum": 0},
+        "source_record_present_count": {"type": "integer", "minimum": 0},
+        "url_present_count": {"type": "integer", "minimum": 0},
+        "license_present_count": {"type": "integer", "minimum": 0},
+        "claim_ready_count": {"type": "integer", "minimum": 0},
+        "by_evidence_status": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["verified", "observed_local", "context_only", "blocked"],
+          "properties": {
+            "verified": {"type": "integer", "minimum": 0},
+            "observed_local": {"type": "integer", "minimum": 0},
+            "context_only": {"type": "integer", "minimum": 0},
+            "blocked": {"type": "integer", "minimum": 0}
+          }
+        },
+        "remediation_item_count": {"const": 48},
+        "remediation_open_item_count": {"type": "integer", "minimum": 0},
+        "remediation_claim_ready_count": {"type": "integer", "minimum": 0},
+        "residual_count": {"type": "integer", "minimum": 0}
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/recordIndex"}
+    },
+    "remediation_coverage": {
+      "type": "array",
+      "minItems": 48,
+      "maxItems": 48,
+      "items": {"$ref": "#/$defs/remediationCoverage"}
+    },
+    "residuals": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/residual"}
+    }
+  },
+  "$defs": {
+    "recordIndex": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "record_key",
+        "manifest_path",
+        "manifest_id",
+        "record_id",
+        "record_kind",
+        "title",
+        "local_path",
+        "source_record_present",
+        "url_present",
+        "license_present",
+        "evidence_status",
+        "claim_ready",
+        "evidence_basis",
+        "residual_codes"
+      ],
+      "properties": {
+        "record_key": {"type": "string", "minLength": 1},
+        "manifest_path": {"type": "string", "minLength": 1},
+        "manifest_id": {"type": "string", "minLength": 1},
+        "record_id": {"type": "string", "minLength": 1},
+        "record_kind": {"enum": ["source", "context", "blocker"]},
+        "title": {"type": ["string", "null"]},
+        "local_path": {"type": ["string", "null"]},
+        "source_record_present": {"type": "boolean"},
+        "url_present": {"type": "boolean"},
+        "license_present": {"type": "boolean"},
+        "evidence_status": {"enum": ["verified", "observed_local", "context_only", "blocked"]},
+        "claim_ready": {"type": "boolean"},
+        "evidence_basis": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["source_record", "url", "license", "evidence_status", "claim_ready"],
+          "properties": {
+            "source_record": {"type": "string", "minLength": 1},
+            "url": {"type": "string", "minLength": 1},
+            "license": {"type": "string", "minLength": 1},
+            "evidence_status": {"type": "string", "minLength": 1},
+            "claim_ready": {"type": "string", "minLength": 1}
+          }
+        },
+        "residual_codes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "remediationCoverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "item_id",
+        "category",
+        "status",
+        "source_ref",
+        "record_keys",
+        "record_count",
+        "coverage",
+        "residual_codes"
+      ],
+      "properties": {
+        "item_id": {"type": "string", "minLength": 1},
+        "category": {"type": "string", "minLength": 1},
+        "status": {"enum": ["open", "resolved"]},
+        "source_ref": {"type": "string", "minLength": 1},
+        "record_keys": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "record_count": {"type": "integer", "minimum": 1},
+        "coverage": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["source_record_present", "url_present", "license_present", "evidence_statuses", "claim_ready"],
+          "properties": {
+            "source_record_present": {"type": "boolean"},
+            "url_present": {"type": "boolean"},
+            "license_present": {"type": "boolean"},
+            "evidence_statuses": {"type": "array", "minItems": 1, "items": {"enum": ["verified", "observed_local", "context_only", "blocked"]}},
+            "claim_ready": {"type": "boolean"}
+          }
+        },
+        "residual_codes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "residual": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["code", "record_count", "item_count", "record_keys", "item_ids"],
+      "properties": {
+        "code": {"type": "string", "minLength": 1},
+        "record_count": {"type": "integer", "minimum": 0},
+        "item_count": {"type": "integer", "minimum": 0},
+        "record_keys": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "item_ids": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      }
+    }
+  }
+}

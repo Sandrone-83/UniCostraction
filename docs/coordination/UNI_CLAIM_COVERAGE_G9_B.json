@@ -1,0 +1,3163 @@
+{
+  "$schema": "./UNI_CLAIM_COVERAGE_G9_B_SCHEMA.json",
+  "schema_version": "G9-B-claim-coverage",
+  "audit_id": "G9-B-claim-coverage",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "scope": {
+    "input_reports": [
+      "docs/coordination/UNI_PROVENANCE_AUDIT_G6.json",
+      "docs/coordination/UNI_REMEDIATION_QUEUE_G7_B.json"
+    ],
+    "record_scope": "All normalized G6 records; source_record_present distinguishes source from context/blocker.",
+    "excluded_payloads": [
+      "PDF bytes/content",
+      "XML bytes/content",
+      "course cards and values",
+      "exam questions, answers, and solutions"
+    ],
+    "state_policy": "evidence_status is copied from G6 proof_state. claim_ready requires explicit claim_ready=true evidence; no field is promoted from URL, license, hash, local presence, or queue status."
+  },
+  "summary": {
+    "record_count": 33,
+    "source_record_present_count": 30,
+    "url_present_count": 31,
+    "license_present_count": 29,
+    "claim_ready_count": 0,
+    "by_evidence_status": {
+      "verified": 0,
+      "observed_local": 29,
+      "context_only": 2,
+      "blocked": 2
+    },
+    "remediation_item_count": 48,
+    "remediation_open_item_count": 48,
+    "remediation_claim_ready_count": 0,
+    "residual_count": 17
+  },
+  "records": [
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-001",
+      "record_kind": "source",
+      "title": "The Nicomachean Ethics",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-002",
+      "record_kind": "source",
+      "title": "Calculus Made Easy",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-003",
+      "record_kind": "source",
+      "title": "Discourse on the Method",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-004",
+      "record_kind": "source",
+      "title": "Relativity: The Special and General Theory",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-005",
+      "record_kind": "source",
+      "title": "The Elements of Euclid",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-006",
+      "record_kind": "source",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-007",
+      "record_kind": "source",
+      "title": "The Critique of Pure Reason",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-008",
+      "record_kind": "source",
+      "title": "Elements of Chemistry",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-009",
+      "record_kind": "source",
+      "title": "Meditations",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-010",
+      "record_kind": "source",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-011",
+      "record_kind": "source",
+      "title": "On the Origin of Species",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-012",
+      "record_kind": "source",
+      "title": "The Republic",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-013",
+      "record_kind": "source",
+      "title": "The Problems of Philosophy",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_id": "G1-014",
+      "record_kind": "source",
+      "title": "Tractatus Logico-Philosophicus",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_id": "G3-2-001",
+      "record_kind": "source",
+      "title": "Regole Applicative del D.M. 7 agosto 2025 — Incentivazione di interventi di piccole dimensioni per l'incremento dell'efficienza energetica e per la produzione di energia termica da fonti rinnovabili",
+      "local_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/Regole_Applicative_CT_3_0_GSE.pdf",
+      "source_record_present": true,
+      "url_present": false,
+      "license_present": false,
+      "evidence_status": "blocked",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:exact_url_not_declared",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+        "url_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_id": "G3-2-002",
+      "record_kind": "context",
+      "title": "Modulistica CT 2.0 - Conto Termico 3.0",
+      "local_path": null,
+      "source_record_present": false,
+      "url_present": true,
+      "license_present": false,
+      "evidence_status": "context_only",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:context_does_not_prove_source_vigency_or_reuse",
+        "source_record_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-001",
+      "record_kind": "source",
+      "title": "The Nicomachean Ethics",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Aristotle_Ethics_pg8438.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-002",
+      "record_kind": "source",
+      "title": "Calculus Made Easy",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Calculus_Made_Easy_Thompson.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-003",
+      "record_kind": "source",
+      "title": "Discourse on the Method",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Descartes_Discourse_pg59.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-004",
+      "record_kind": "source",
+      "title": "Relativity: The Special and General Theory",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Einstein_Relativity_pg30155.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-005",
+      "record_kind": "source",
+      "title": "The Elements of Euclid",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Euclid_Elements.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-006",
+      "record_kind": "source",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Flatland_pg201.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-007",
+      "record_kind": "source",
+      "title": "The Critique of Pure Reason",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Kant_Critique_pg4280.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-008",
+      "record_kind": "source",
+      "title": "Elements of Chemistry",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Lavoisier_Chemistry_pg30775.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-009",
+      "record_kind": "source",
+      "title": "Meditations",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Marcus_Meditations_pg2680.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-010",
+      "record_kind": "source",
+      "title": "Philosophiae Naturalis Principia Mathematica (English)",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Newton_Principia_pg28233.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-011",
+      "record_kind": "source",
+      "title": "On the Origin of Species",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Origin_Species_pg1228.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-012",
+      "record_kind": "source",
+      "title": "The Republic",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Plato_Republic_pg1497.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-013",
+      "record_kind": "source",
+      "title": "The Problems of Philosophy",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Russell_Problems_pg5827.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_id": "G1-014",
+      "record_kind": "source",
+      "title": "Tractatus Logico-Philosophicus",
+      "local_path": "Fondamenti_Pack/raw/gutenberg/Wittgenstein_Tractatus_tractatuslogicop1971witt.txt",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "BLOCKER-001",
+      "record_kind": "blocker",
+      "title": "GSE Conto Termico 3.0 PDF locale",
+      "local_path": null,
+      "source_record_present": false,
+      "url_present": false,
+      "license_present": false,
+      "evidence_status": "blocked",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:exact_url_not_declared",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+        "source_record_missing",
+        "url_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "G5-001",
+      "record_kind": "source",
+      "title": "29 CFR Part 1926 — Safety and Health Regulations for Construction",
+      "local_path": "Edilizia_Pack/raw/ecfr/29CFR1926_construction.xml",
+      "source_record_present": true,
+      "url_present": true,
+      "license_present": true,
+      "evidence_status": "observed_local",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:current_version_or_vigency_not_checked",
+        "g6:content_or_legal_accuracy_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "record_key": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_id": "G5-CONTEXT-001",
+      "record_kind": "context",
+      "title": null,
+      "local_path": null,
+      "source_record_present": false,
+      "url_present": true,
+      "license_present": false,
+      "evidence_status": "context_only",
+      "claim_ready": false,
+      "evidence_basis": {
+        "source_record": "G6 record_kind and record_id; no source payload read",
+        "url": "G6 url.status and url.value",
+        "license": "G6 license.status and license.label",
+        "evidence_status": "G6 proof_state copied without promotion",
+        "claim_ready": "not promoted; G6 has no explicit claim_ready=true evidence for this record"
+      },
+      "residual_codes": [
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:context_does_not_prove_source_vigency_or_reuse",
+        "source_record_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    }
+  ],
+  "remediation_coverage": [
+    {
+      "item_id": "G7-B-ALIAS-021cd01c467f",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:88F528760B8EE4DFEE44E3AD9B83ED06DAE4E57BDE3308F03115F6CCB4705BB6",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-2d05db44caa2",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-31b478711852",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:C24B6E367D112398B488AAF61BE728EC125E3B251212BA98CEFFB73FD9ADBF0F",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-4d3158739753",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:9E44B1BC6042DA4AEB669D4F3F585037A5488A2908E7EC225F9431C43F6720FC",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-563421d594bc",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:7768BA8D3895BE3D6F1492733FFAB983D69875CC743EDD23A1840E1530D02924",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-6869b4f3bc39",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:2505EA57849C64ABE7962FFE56972174C9160606348E08CB7876D46B2C5B2D96",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-7a1085c41974",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:86ED8156239455CBB6ED33E06097707D3AB7C40D46E9AA5FF32D3C3F94EF68FD",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-97bdef2d535d",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:03DD4508636E44AB9B37EFDA856745545F22EA5ACE95E2EB16C3EF50307CD9F7",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-b61a8673f48f",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:917C1CB469E1A8EBA6083808764D7131DA8D79140B575B4214C9D02A73EC4528",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-b81af7324bed",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:A734045637DEEF5F22CE71D469DEB44B19F73583D9576A9646DB8DD3431B30AB",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-c56b274ab944",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:E23A6F8685CA0A2B7E60C57AF9357C56803AD08E0D1B91F6B55800D28524D1E9",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-e57c136cd146",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:EDEDA9C0BF8761EFED092C303B46C1C92DE956838CBA6249A33BEDFD6D7363B4",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-f7d85ebf1119",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:A274721324564572153A54D31E94FB9A15E18481B71085293484750941799EDD",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-ALIAS-f8da041b976f",
+      "category": "alias_not_deduplicated",
+      "status": "open",
+      "source_ref": "alias:6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+      ],
+      "record_count": 2,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference"
+      ]
+    },
+    {
+      "item_id": "G7-B-G3-PDF-d2238c6a7fbb",
+      "category": "g3_pdf_blocked",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": false,
+        "license_present": false,
+        "evidence_statuses": [
+          "blocked"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:exact_url_not_declared",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+        "url_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-GSE-CONTEXT-bb41c71f1f79",
+      "category": "gse_context_only",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": false,
+        "url_present": true,
+        "license_present": false,
+        "evidence_statuses": [
+          "context_only"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:context_does_not_prove_source_vigency_or_reuse",
+        "source_record_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-a1ebfdce0589",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": false,
+        "url_present": true,
+        "license_present": false,
+        "evidence_statuses": [
+          "context_only"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:context_does_not_prove_source_vigency_or_reuse",
+        "source_record_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-bb41c71f1f79",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": false,
+        "url_present": true,
+        "license_present": false,
+        "evidence_statuses": [
+          "context_only"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:context_does_not_prove_source_vigency_or_reuse",
+        "source_record_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-d2238c6a7fbb",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": false,
+        "license_present": false,
+        "evidence_statuses": [
+          "blocked"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:exact_url_not_declared",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+        "url_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-LICENSE-f0a2f548d65f",
+      "category": "license_missing",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": false,
+        "url_present": false,
+        "license_present": false,
+        "evidence_statuses": [
+          "blocked"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:exact_url_not_declared",
+        "g6:license_or_reuse_terms_not_declared",
+        "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+        "source_record_missing",
+        "url_missing",
+        "license_missing",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-0b51983ef4e2",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-20fb331aae60",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-216f877f179e",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-2779fa8bfa39",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-3100c5a811ae",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-7030cf577140",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-846c4982f125",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-8c2ee0253a0c",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-91f708dc68ec",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-9ec7563b0a3d",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-a5c653dacb18",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-a81a59114128",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-d8ace45a8272",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-MANIFEST-ID-e647cf2bfa2a",
+      "category": "missing_manifest_id",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-0b51983ef4e2",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-20fb331aae60",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-216f877f179e",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-2779fa8bfa39",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-3100c5a811ae",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-7030cf577140",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-846c4982f125",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-8c2ee0253a0c",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-91f708dc68ec",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-9ec7563b0a3d",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-a5c653dacb18",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-a81a59114128",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-d8ace45a8272",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    },
+    {
+      "item_id": "G7-B-METADATA-ONLY-e647cf2bfa2a",
+      "category": "missing_metadata_only",
+      "status": "open",
+      "source_ref": "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008"
+      ],
+      "record_count": 1,
+      "coverage": {
+        "source_record_present": true,
+        "url_present": true,
+        "license_present": true,
+        "evidence_statuses": [
+          "observed_local"
+        ],
+        "claim_ready": false
+      },
+      "residual_codes": [
+        "remediation_open",
+        "g6:external_url_availability_not_checked",
+        "g6:independent_license_clearance_not_checked",
+        "g6:manifest_metadata_only_flag_not_declared",
+        "g6:manifest_id_not_declared_lot_id_used_as_reference",
+        "evidence_not_verified",
+        "explicit_claim_ready_evidence_missing",
+        "claim_not_ready"
+      ]
+    }
+  ],
+  "residuals": [
+    {
+      "code": "claim_not_ready",
+      "record_count": 33,
+      "item_count": 48,
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "evidence_not_verified",
+      "record_count": 33,
+      "item_count": 48,
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "explicit_claim_ready_evidence_missing",
+      "record_count": 33,
+      "item_count": 48,
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "g6:blocked_until_missing_metadata_or_evidence_is_supplied",
+      "record_count": 2,
+      "item_count": 3,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001"
+      ],
+      "item_ids": [
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f"
+      ]
+    },
+    {
+      "code": "g6:content_or_legal_accuracy_not_checked",
+      "record_count": 1,
+      "item_count": 0,
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001"
+      ],
+      "item_ids": []
+    },
+    {
+      "code": "g6:context_does_not_prove_source_vigency_or_reuse",
+      "record_count": 2,
+      "item_count": 3,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79"
+      ]
+    },
+    {
+      "code": "g6:current_version_or_vigency_not_checked",
+      "record_count": 1,
+      "item_count": 0,
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001"
+      ],
+      "item_ids": []
+    },
+    {
+      "code": "g6:exact_url_not_declared",
+      "record_count": 2,
+      "item_count": 3,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001"
+      ],
+      "item_ids": [
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f"
+      ]
+    },
+    {
+      "code": "g6:external_url_availability_not_checked",
+      "record_count": 29,
+      "item_count": 42,
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "g6:independent_license_clearance_not_checked",
+      "record_count": 29,
+      "item_count": 42,
+      "record_keys": [
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-001",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-002",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-003",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-004",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-005",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-006",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-007",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-008",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-009",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-010",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-011",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-012",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-013",
+        "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-001"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "g6:license_or_reuse_terms_not_declared",
+      "record_count": 4,
+      "item_count": 6,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f"
+      ]
+    },
+    {
+      "code": "g6:manifest_id_not_declared_lot_id_used_as_reference",
+      "record_count": 14,
+      "item_count": 42,
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "g6:manifest_metadata_only_flag_not_declared",
+      "record_count": 14,
+      "item_count": 42,
+      "record_keys": [
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-003",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-004",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-005",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-006",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-007",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-008",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-009",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-010",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-011",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-012",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-013",
+        "docs/coordination/UNI_CORPUS_LOTTO_G1.json#G1-014"
+      ],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "license_missing",
+      "record_count": 4,
+      "item_count": 6,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f"
+      ]
+    },
+    {
+      "code": "remediation_open",
+      "record_count": 0,
+      "item_count": 48,
+      "record_keys": [],
+      "item_ids": [
+        "G7-B-ALIAS-021cd01c467f",
+        "G7-B-ALIAS-2d05db44caa2",
+        "G7-B-ALIAS-31b478711852",
+        "G7-B-ALIAS-4d3158739753",
+        "G7-B-ALIAS-563421d594bc",
+        "G7-B-ALIAS-6869b4f3bc39",
+        "G7-B-ALIAS-7a1085c41974",
+        "G7-B-ALIAS-97bdef2d535d",
+        "G7-B-ALIAS-b61a8673f48f",
+        "G7-B-ALIAS-b81af7324bed",
+        "G7-B-ALIAS-c56b274ab944",
+        "G7-B-ALIAS-e57c136cd146",
+        "G7-B-ALIAS-f7d85ebf1119",
+        "G7-B-ALIAS-f8da041b976f",
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f",
+        "G7-B-MANIFEST-ID-0b51983ef4e2",
+        "G7-B-MANIFEST-ID-20fb331aae60",
+        "G7-B-MANIFEST-ID-216f877f179e",
+        "G7-B-MANIFEST-ID-2779fa8bfa39",
+        "G7-B-MANIFEST-ID-3100c5a811ae",
+        "G7-B-MANIFEST-ID-7030cf577140",
+        "G7-B-MANIFEST-ID-846c4982f125",
+        "G7-B-MANIFEST-ID-8c2ee0253a0c",
+        "G7-B-MANIFEST-ID-91f708dc68ec",
+        "G7-B-MANIFEST-ID-9ec7563b0a3d",
+        "G7-B-MANIFEST-ID-a5c653dacb18",
+        "G7-B-MANIFEST-ID-a81a59114128",
+        "G7-B-MANIFEST-ID-d8ace45a8272",
+        "G7-B-MANIFEST-ID-e647cf2bfa2a",
+        "G7-B-METADATA-ONLY-0b51983ef4e2",
+        "G7-B-METADATA-ONLY-20fb331aae60",
+        "G7-B-METADATA-ONLY-216f877f179e",
+        "G7-B-METADATA-ONLY-2779fa8bfa39",
+        "G7-B-METADATA-ONLY-3100c5a811ae",
+        "G7-B-METADATA-ONLY-7030cf577140",
+        "G7-B-METADATA-ONLY-846c4982f125",
+        "G7-B-METADATA-ONLY-8c2ee0253a0c",
+        "G7-B-METADATA-ONLY-91f708dc68ec",
+        "G7-B-METADATA-ONLY-9ec7563b0a3d",
+        "G7-B-METADATA-ONLY-a5c653dacb18",
+        "G7-B-METADATA-ONLY-a81a59114128",
+        "G7-B-METADATA-ONLY-d8ace45a8272",
+        "G7-B-METADATA-ONLY-e647cf2bfa2a"
+      ]
+    },
+    {
+      "code": "source_record_missing",
+      "record_count": 3,
+      "item_count": 4,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-002",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#G5-CONTEXT-001"
+      ],
+      "item_ids": [
+        "G7-B-GSE-CONTEXT-bb41c71f1f79",
+        "G7-B-LICENSE-a1ebfdce0589",
+        "G7-B-LICENSE-bb41c71f1f79",
+        "G7-B-LICENSE-f0a2f548d65f"
+      ]
+    },
+    {
+      "code": "url_missing",
+      "record_count": 2,
+      "item_count": 3,
+      "record_keys": [
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json#G3-2-001",
+        "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json#BLOCKER-001"
+      ],
+      "item_ids": [
+        "G7-B-G3-PDF-d2238c6a7fbb",
+        "G7-B-LICENSE-d2238c6a7fbb",
+        "G7-B-LICENSE-f0a2f548d65f"
+      ]
+    }
+  ]
+}
