@@ -1,0 +1,182 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_SOURCE_RECORD_SCHEMA_G10_B.json",
+  "title": "UniCostraction G10-B official source metadata manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "manifest_id",
+    "metadata_only",
+    "observed_at",
+    "scope",
+    "source_records",
+    "interpretation_records",
+    "official_context_records",
+    "license_records",
+    "related_blockers"
+  ],
+  "properties": {
+    "$schema": {"const": "./UNI_SOURCE_RECORD_SCHEMA_G10_B.json"},
+    "schema_version": {"const": "G10-B-source-metadata"},
+    "manifest_id": {"const": "G10-B-EU-EPBD-2024-1275"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["package", "selection_basis", "excluded_payloads", "reuse_boundary"],
+      "properties": {
+        "package": {"type": "string", "minLength": 1},
+        "selection_basis": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "reuse_boundary": {"type": "string", "minLength": 1}
+      }
+    },
+    "source_records": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": {"$ref": "#/$defs/source_record"}
+    },
+    "interpretation_records": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": {"$ref": "#/$defs/interpretation_record"}
+    },
+    "official_context_records": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": {"$ref": "#/$defs/context_record"}
+    },
+    "license_records": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": {"$ref": "#/$defs/license_record"}
+    },
+    "related_blockers": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/blocker"}
+    }
+  },
+  "$defs": {
+    "source_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_record_id",
+        "source_kind",
+        "title",
+        "entity",
+        "source",
+        "version",
+        "interpretation_record_id",
+        "context_record_id",
+        "license_record_id",
+        "evidence_status",
+        "claim_ready",
+        "transformation",
+        "limitations"
+      ],
+      "properties": {
+        "source_record_id": {"const": "G10-B-001"},
+        "source_kind": {"const": "primary_official"},
+        "title": {"type": "string", "minLength": 1},
+        "entity": {"type": "string", "minLength": 1},
+        "source": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["official_url", "url_status", "locator_kind", "local_payload_status"],
+          "properties": {
+            "official_url": {"type": "string", "format": "uri"},
+            "url_status": {"const": "verified_direct"},
+            "locator_kind": {"const": "EUR-Lex ELI official-journal page"},
+            "local_payload_status": {"const": "not_added"}
+          }
+        },
+        "version": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["act_date", "official_page_observation", "status"],
+          "properties": {
+            "act_date": {"const": "2024-04-24"},
+            "official_page_observation": {"type": "string", "minLength": 1},
+            "status": {"const": "observed_on_official_page"}
+          }
+        },
+        "interpretation_record_id": {"const": "G10-B-INTERP-001"},
+        "context_record_id": {"const": "G10-B-CONTEXT-001"},
+        "license_record_id": {"const": "G10-B-LICENSE-001"},
+        "evidence_status": {"const": "context_only"},
+        "claim_ready": {"const": false},
+        "transformation": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["status", "description"],
+          "properties": {
+            "status": {"const": "metadata_only"},
+            "description": {"type": "string", "minLength": 1}
+          }
+        },
+        "limitations": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "interpretation_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["interpretation_record_id", "related_source_record_id", "scope", "statement", "status"],
+      "properties": {
+        "interpretation_record_id": {"const": "G10-B-INTERP-001"},
+        "related_source_record_id": {"const": "G10-B-001"},
+        "scope": {"const": "catalogue_selection_only"},
+        "statement": {"type": "string", "minLength": 1},
+        "status": {"const": "non_normative"}
+      }
+    },
+    "context_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["context_record_id", "related_source_record_id", "url", "relationship", "observed_context", "status"],
+      "properties": {
+        "context_record_id": {"const": "G10-B-CONTEXT-001"},
+        "related_source_record_id": {"const": "G10-B-001"},
+        "url": {"type": "string", "format": "uri"},
+        "relationship": {"const": "official_reuse_context_only"},
+        "observed_context": {"type": "string", "minLength": 1},
+        "status": {"const": "context_only"}
+      }
+    },
+    "license_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["license_record_id", "related_source_record_id", "label", "url", "status", "terms_observed", "not_a_source_specific_license", "limitations"],
+      "properties": {
+        "license_record_id": {"const": "G10-B-LICENSE-001"},
+        "related_source_record_id": {"const": "G10-B-001"},
+        "label": {"const": "EUR-Lex reuse policy and Commission Decision 2011/833/EU context"},
+        "url": {"type": "string", "format": "uri"},
+        "status": {"const": "declared_context_only"},
+        "terms_observed": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "not_a_source_specific_license": {"const": true},
+        "limitations": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "blocker": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["blocker_id", "related_source_record_id", "state", "reason", "evidence"],
+      "properties": {
+        "blocker_id": {"const": "G10-B-BLOCKER-001"},
+        "related_source_record_id": {"const": "G10-B-001"},
+        "state": {"const": "blocked"},
+        "reason": {"type": "string", "minLength": 1},
+        "evidence": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    }
+  }
+}

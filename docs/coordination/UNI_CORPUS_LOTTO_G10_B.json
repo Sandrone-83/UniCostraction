@@ -1,0 +1,103 @@
+{
+  "$schema": "./UNI_SOURCE_RECORD_SCHEMA_G10_B.json",
+  "schema_version": "G10-B-source-metadata",
+  "manifest_id": "G10-B-EU-EPBD-2024-1275",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "scope": {
+    "package": "docs/coordination",
+    "selection_basis": "Fonte primaria ufficiale EUR-Lex pertinente alla prestazione energetica nell'edilizia, con pagina ELI dell'atto e contesto ufficiale di riuso registrati separatamente.",
+    "excluded_payloads": [
+      "testo HTML/XML/PDF della direttiva",
+      "valori, soglie, scadenze o interpretazioni normative",
+      "schede del corso",
+      "domande, risposte o soluzioni d'esame"
+    ],
+    "reuse_boundary": "Il record consente soltanto catalogazione e riferimento alla fonte; non autorizza estrazione, riproduzione o riuso commerciale del testo senza una verifica specifica dei diritti applicabili."
+  },
+  "source_records": [
+    {
+      "source_record_id": "G10-B-001",
+      "source_kind": "primary_official",
+      "title": "Direttiva (UE) 2024/1275 del Parlamento europeo e del Consiglio, del 24 aprile 2024, sulla prestazione energetica nell'edilizia (rifusione)",
+      "entity": "Parlamento europeo e Consiglio dell'Unione europea; Ufficio delle pubblicazioni dell'Unione europea",
+      "source": {
+        "official_url": "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita",
+        "url_status": "verified_direct",
+        "locator_kind": "EUR-Lex ELI official-journal page",
+        "local_payload_status": "not_added"
+      },
+      "version": {
+        "act_date": "2024-04-24",
+        "official_page_observation": "La pagina ufficiale osservata espone l'atto pubblicato l'8 maggio 2024 e indica una versione consolidata corrente datata 24 maggio 2026.",
+        "status": "observed_on_official_page"
+      },
+      "interpretation_record_id": "G10-B-INTERP-001",
+      "context_record_id": "G10-B-CONTEXT-001",
+      "license_record_id": "G10-B-LICENSE-001",
+      "evidence_status": "context_only",
+      "claim_ready": false,
+      "transformation": {
+        "status": "metadata_only",
+        "description": "Registrati esclusivamente identificativo, titolo, locator, osservazioni di versione e riferimenti di riuso; nessun contenuto della fonte è stato copiato o aggiunto al repository."
+      },
+      "limitations": [
+        "L'URL della pagina ufficiale è stato verificato come locator diretto, ma questo record non congela una copia né garantisce che la pagina o la versione consolidata restino invariate.",
+        "Il contesto EUR-Lex e la Decisione 2011/833/UE descrivono condizioni generali di riuso, ma non sono registrati come licenza specifica per questo singolo atto.",
+        "Non è stata fatta alcuna interpretazione normativa, verifica di recepimento nazionale, valutazione di vigenza operativa o controllo di accuratezza tecnica.",
+        "Il record non è claim-ready e non modifica schede, esami o payload del corpus."
+      ]
+    }
+  ],
+  "interpretation_records": [
+    {
+      "interpretation_record_id": "G10-B-INTERP-001",
+      "related_source_record_id": "G10-B-001",
+      "scope": "catalogue_selection_only",
+      "statement": "La pertinenza a edilizia ed energia è una classificazione di catalogo basata sul titolo ufficiale; non è un'interpretazione del contenuto né un parere sulla sua applicazione.",
+      "status": "non_normative"
+    }
+  ],
+  "official_context_records": [
+    {
+      "context_record_id": "G10-B-CONTEXT-001",
+      "related_source_record_id": "G10-B-001",
+      "url": "https://eur-lex.europa.eu/content/help/data-reuse/reuse-contents-eurlex-details.html?locale=en",
+      "relationship": "official_reuse_context_only",
+      "observed_context": "La pagina di aiuto EUR-Lex dichiara che i dati EUR-Lex possono essere riutilizzati gratuitamente, soggetti alle condizioni di copyright.",
+      "status": "context_only"
+    }
+  ],
+  "license_records": [
+    {
+      "license_record_id": "G10-B-LICENSE-001",
+      "related_source_record_id": "G10-B-001",
+      "label": "EUR-Lex reuse policy and Commission Decision 2011/833/EU context",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011D0833",
+      "status": "declared_context_only",
+      "terms_observed": [
+        "La Decisione 2011/833/UE prevede in generale il riuso dei documenti della Commissione per fini commerciali o non commerciali alle condizioni applicabili.",
+        "Le condizioni possono includere attribuzione della fonte, non distorsione del significato e non responsabilità.",
+        "La pagina EUR-Lex richiama condizioni di copyright e non equivale a una licenza source-specific per questo atto."
+      ],
+      "not_a_source_specific_license": true,
+      "limitations": [
+        "Non è stata inventata una licenza Creative Commons o una concessione source-specific.",
+        "Restano da verificare eventuali diritti di terzi, condizioni specifiche della pagina o dell'edizione e l'uso concreto previsto."
+      ]
+    }
+  ],
+  "related_blockers": [
+    {
+      "blocker_id": "G10-B-BLOCKER-001",
+      "related_source_record_id": "G10-B-001",
+      "state": "blocked",
+      "reason": "Il locator ufficiale è verificabile, ma il contesto di riuso non dimostra una licenza specifica per il testo di questo atto; il record resta context_only e non claim-ready.",
+      "evidence": [
+        "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/ita",
+        "https://eur-lex.europa.eu/content/help/data-reuse/reuse-contents-eurlex-details.html?locale=en",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011D0833"
+      ]
+    }
+  ]
+}
