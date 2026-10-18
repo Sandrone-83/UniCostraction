@@ -138,6 +138,70 @@ class SkillMarkdownContractG18Tests(unittest.TestCase):
             findings = validate_library(self.ROOT)
         self.assertTrue(any("manifest.json: file must not be empty" in issue for issue in findings))
 
+    def test_published_unicostraction_v01_layout_is_supported(self) -> None:
+        """G18 must validate the real G17 layout, not only the future contract."""
+
+        legacy_skill = """---
+name: skill-cila-basics
+description: Metadata-only legacy workflow fixture.
+metadata:
+  library: UniCostraction/AuraTrix-AulaFIX
+  version: 0.1.0
+  domain: edilizia
+---
+
+# Skill legacy
+
+## Attivazione
+Attiva con contesto sufficiente e assunzioni registrate.
+
+## Input minimo
+Raccogli documenti, località e obiettivo.
+
+## Workflow
+Controlla input, fonte, revisione e handoff.
+
+## Output
+Prepara una bozza tracciabile per revisione.
+
+## Quality gates
+Nessun output passa senza controllo umano.
+
+## Evidenza e provenienza
+Registra fonte, data, versione e hash quando possibile.
+
+## Confini professionali e legali
+Il risultato richiede professionista, verifica normativa e autorizzazione; non è consulenza legale.
+
+## Failure modes
+Blocca dati mancanti e fonti discordanti.
+
+## Strumenti
+Usa editor, registro e controlli di integrità.
+
+## Fonti ufficiali e diritti
+Fonte: https://example.invalid/source. Procedura originale; licenza e diritti di riuso richiedono verifica.
+"""
+        root = self.ROOT
+        manifest_path = root / "manifest.json"
+        skill_path = root / "skill-cila-basics" / "SKILL.md"
+        manifest = {
+            "library": "UniCostraction/AuraTrix-AulaFIX",
+            "version": "0.1.0",
+            "skills": [{"id": "skill-cila-basics", "path": "skill-cila-basics/SKILL.md"}],
+        }
+        with patch(
+            "tools.validate_skill_markdown_g18._library_files",
+            return_value=(manifest_path, skill_path),
+        ), patch(
+            "tools.validate_skill_markdown_g18._read_json",
+            return_value=manifest,
+        ), patch(
+            "tools.validate_skill_markdown_g18._read_utf8",
+            side_effect=lambda path: legacy_skill if path == skill_path else "{}",
+        ), patch.object(Path, "is_file", return_value=True):
+            self.assertEqual([], validate_library(root))
+
 
 if __name__ == "__main__":
     unittest.main()

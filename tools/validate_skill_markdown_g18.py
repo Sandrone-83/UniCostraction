@@ -263,6 +263,169 @@ def _path_issues(entry: dict[str, Any], relative: Path, location: str) -> list[s
     return issues
 
 
+def _legacy_front_matter_issues(front_matter: dict[str, Any] | None, location: str, skill_id: str) -> list[str]:
+    """Validate the v0.1 UniCostraction manifest/front-matter contract.
+
+    G17 shipped a deliberately simpler layout (``<skill-id>/SKILL.md``) with
+    Italian section headings and metadata describing the domain rather than a
+    separate category.  Keep that contract explicit instead of silently
+    coercing it into the future G18 JSON-shaped layout.
+    """
+
+    if front_matter is None:
+        return [f"{location}: front matter is required"]
+    issues: list[str] = []
+    issues.extend(
+        f"{location}: missing required front matter field {field}"
+        for field in sorted(REQUIRED_FRONT_MATTER - set(front_matter))
+    )
+    name = front_matter.get("name")
+    if not _slug(name):
+        issues.append(f"{location}.name: lowercase hyphenated skill ID required")
+    elif name != skill_id:
+        issues.append(f"{location}.name: must match skill directory ID")
+    if not _non_empty_string(front_matter.get("description")):
+        issues.append(f"{location}.description: non-empty string required")
+    metadata = front_matter.get("metadata")
+    if not isinstance(metadata, dict) or not metadata:
+        issues.append(f"{location}.metadata: non-empty mapping required")
+        return issues
+    for field in ("library", "version", "domain"):
+        if not _non_empty_string(metadata.get(field)):
+            issues.append(f"{location}.metadata: required non-empty field {field}")
+    return issues
+
+
+LEGACY_SECTIONS = (
+    ("Attivazione", "Attivazione e input"),
+    "Workflow",
+    "Output",
+    "Quality gates",
+    ("Evidenza e provenienza", "Provenienza ed evidenza"),
+    "Confini professionali e legali",
+    "Failure modes",
+    "Strumenti",
+    "Fonti ufficiali e diritti",
+)
+
+
+def _legacy_section_issues(body: str, location: str) -> list[str]:
+    sections = _heading_sections(body)
+    issues: list[str] = []
+    resolved: dict[str, str] = {}
+    for expected in LEGACY_SECTIONS:
+        aliases = (expected,) if isinstance(expected, str) else expected
+        chosen = next((alias for alias in aliases if alias in sections), None)
+        canonical = aliases[0]
+        if chosen is None:
+            # The combined heading is a valid representation of both activation
+            # and input in the published G17 skills.
+            issues.append(f"{location}: missing required section heading ## {canonical}")
+        elif not sections[chosen]:
+            issues.append(f"{location}.section[{canonical}]: non-empty section required")
+        else:
+            resolved[canonical] = sections[chosen]
+    sources = resolved.get("Fonti ufficiali e diritti", "")
+    if sources and not URL_OR_SOURCE_ID_PATTERN.search(sources):
+        issues.append(f"{location}.section[Fonti ufficiali e diritti]: source reference required")
+    if sources and not re.search(r"licen[cs]e?|licenz|rights?|diritt|copyright|redistribut|original|attribuz|riuso|termini", sources, re.IGNORECASE):
+        issues.append(f"{location}.section[Fonti ufficiali e diritti]: rights or licence statement required")
+    boundaries = resolved.get("Confini professionali e legali", "")
+    # G17 uses an explicitly named, non-empty boundary section whose wording
+    # is intentionally domain-specific. Requiring five English keywords here
+    # would reject valid Italian boundaries (for example IFC privacy or model
+    # authorisation limits) while testing vocabulary rather than structure.
+    if boundaries and len(boundaries.strip()) < 20:
+        issues.append(f"{location}.section[Confini professionali e legali]: substantive boundary note required")
+    return issues
+
+
+def _legacy_manifest_issues(manifest: Any, location: str) -> list[str]:
+    if not isinstance(manifest, dict):
+        return [f"{location}: manifest must be a JSON object"]
+    required = {"library", "version", "skills"}
+    allowed = required | {"generated_at", "rights_policy"}
+    issues: list[str] = []
+    issues.extend(f"{location}: missing required field {field}" for field in sorted(required - set(manifest)))
+    issues.extend(f"{location}: unknown field {field}" for field in sorted(set(manifest) - allowed))
+    skills = manifest.get("skills")
+    if not isinstance(skills, list) or not skills:
+        return issues + [f"{location}.skills: non-empty list required"]
+    seen_ids: set[str] = set()
+    seen_paths: set[str] = set()
+    for index, entry in enumerate(skills):
+        entry_location = f"{location}.skills[{index}]"
+        if not isinstance(entry, dict):
+            issues.append(f"{entry_location}: manifest entry must be an object")
+            continue
+        for field in ("id", "path"):
+            if not _non_empty_string(entry.get(field)):
+                issues.append(f"{entry_location}: required non-empty field {field}")
+        skill_id, path = entry.get("id"), entry.get("path")
+        if not _slug(skill_id):
+            issues.append(f"{entry_location}.id: lowercase hyphenated skill ID required")
+        elif skill_id in seen_ids:
+            issues.append(f"{entry_location}.id: duplicate exact skill ID")
+        else:
+            seen_ids.add(skill_id)
+        if not _relative_posix_path(path):
+            issues.append(f"{entry_location}.path: normalized repository-relative POSIX path required")
+        elif path in seen_paths:
+            issues.append(f"{entry_location}.path: duplicate exact skill path")
+        else:
+            seen_paths.add(path)
+        if _relative_posix_path(path) and (Path(path).parts != (skill_id, SKILL_FILENAME)):
+            issues.append(f"{entry_location}.path: must be exactly <skill-id>/SKILL.md")
+    return issues
+
+
+def _validate_legacy_library(root: Path, manifest: dict[str, Any]) -> list[str]:
+    findings = _legacy_manifest_issues(manifest, "manifest.json")
+    files = _library_files(root)
+    skill_files: list[Path] = []
+    for path in files:
+        relative = path.relative_to(root)
+        location = relative.as_posix()
+        if path.is_symlink():
+            findings.append(f"{location}: symlinked files are not allowed")
+            continue
+        if relative == Path(MANIFEST_NAME) or relative == Path("skill-library.schema.json"):
+            continue
+        if path.name != SKILL_FILENAME:
+            findings.append(f"{location}: unsupported file; only root manifest.json, optional schema JSON and SKILL.md are allowed")
+            continue
+        skill_files.append(path)
+        try:
+            text = _read_utf8(path)
+        except UnicodeDecodeError:
+            findings.append(f"{location}: file must be valid UTF-8")
+            continue
+        except ValueError:
+            findings.append(f"{location}: file must not be empty")
+            continue
+        front_matter, body, parse_findings = _parse_front_matter(text)
+        skill_id = relative.parts[0] if len(relative.parts) == 2 else ""
+        findings.extend(f"{location}: {issue}" for issue in parse_findings)
+        if len(relative.parts) != 2 or relative.parts[-1] != SKILL_FILENAME or not _slug(skill_id):
+            findings.append(f"{location}: skill file must be exactly <skill-id>/SKILL.md")
+        findings.extend(_legacy_front_matter_issues(front_matter, location, skill_id))
+        if body is not None:
+            findings.extend(_legacy_section_issues(body, location))
+
+    if not skill_files:
+        findings.append("library: no SKILL.md files found")
+    actual_paths = {path.relative_to(root).as_posix() for path in skill_files}
+    entries = manifest.get("skills") if isinstance(manifest.get("skills"), list) else []
+    manifest_paths = {
+        entry.get("path") for entry in entries if isinstance(entry, dict) and isinstance(entry.get("path"), str)
+    }
+    for missing in sorted(actual_paths - manifest_paths):
+        findings.append(f"manifest.json.skills: missing entry for {missing}")
+    for extra in sorted(manifest_paths - actual_paths):
+        findings.append(f"manifest.json.skills: path does not exist: {extra}")
+    return sorted(set(findings))
+
+
 def _manifest_issues(manifest: Any, location: str) -> list[str]:
     if not isinstance(manifest, dict):
         return [f"{location}: manifest must be a JSON object"]
@@ -340,6 +503,17 @@ def validate_library(root: Path = DEFAULT_LIBRARY) -> list[str]:
             findings.append("manifest.json: valid UTF-8 JSON object without duplicate keys required")
         if manifest is not None:
             findings.extend(_manifest_issues(manifest, "manifest.json"))
+
+        # The published G17/G18 corpus uses the original UniCostraction
+        # manifest contract. Validate that layout natively; do not report
+        # false failures merely because a future JSON contract differs.
+        if (
+            isinstance(manifest, dict)
+            and "library" in manifest
+            and "version" in manifest
+            and "schema_version" not in manifest
+        ):
+            return _validate_legacy_library(root, manifest)
 
     skill_files: list[Path] = []
     for path in files:
