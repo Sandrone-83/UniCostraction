@@ -1,11 +1,12 @@
-"""G10/G11 structural gate for protected exams and provenance audits.
+"""G10/G11/G12 structural gate for protected exams and provenance audits.
 
 The gate is deliberately negative and metadata-only.  It scans every tracked
-text file below ``UNIVERSITA_EDILIZIA/ESAMI`` plus the G9/G10/G11 public audit
+text file below ``UNIVERSITA_EDILIZIA/ESAMI`` plus the G9/G10/G11/G12 public audit
 artifacts, looking only for structured answer, grading, explanation, solution,
 or numeric question-to-value shapes.  G11 integrated artifacts also require a
-metadata contract for limitations, states, and answer-key separation.  It
-never reads or reconstructs an answer key.
+metadata contract for limitations, states, and answer-key separation.  G12
+decision records additionally require review metadata and conditional evidence
+pointers.  It never reads or reconstructs an answer key.
 """
 
 from __future__ import annotations
@@ -32,6 +33,13 @@ G11_ARTIFACT_PATHS = frozenset(
         Path("docs/coordination/UNI_QA_INTEGRATED_G11.md"),
     }
 )
+G12_ARTIFACT_PATHS = frozenset(
+    {
+        Path("docs/coordination/UNI_REDUNDANCY_DECISION_RECORDS_G12.json"),
+        Path("docs/coordination/UNI_SOURCE_LICENSE_CHECKLIST_G12.json"),
+        Path("docs/coordination/UNI_QA_DECISION_RECORDS_G12.md"),
+    }
+)
 TEXT_SUFFIXES = frozenset(
     {".csv", ".json", ".jsonl", ".md", ".rst", ".tsv", ".txt", ".yaml", ".yml"}
 )
@@ -45,6 +53,12 @@ G11_CONTRACT_KEYS = frozenset(
         "candidate_review_contract",
         "priority_queue_contract",
         "evidence_license_matrix_contract",
+    }
+)
+G12_CONTRACT_KEYS = frozenset(
+    {
+        "redundancy_decision_contract",
+        "source_license_checklist_contract",
     }
 )
 
@@ -111,10 +125,6 @@ FORBIDDEN_FIELDS = frozenset(
         "explanations",
         "spiegazione",
         "spiegazioni",
-        "rationale",
-        "motivazione",
-        "motivazioni",
-        "justification",
         "answer_explanation",
         "spiegazione_risposta",
     }
@@ -213,12 +223,20 @@ def _is_g11_integrated_artifact(path: Path) -> bool:
     return path in G11_ARTIFACT_PATHS and path.suffix.casefold() in TEXT_SUFFIXES
 
 
+def _is_g12_integrated_artifact(path: Path) -> bool:
+    """Recognise only the checked-in G12 decision/checklist artifact set."""
+
+    return path in G12_ARTIFACT_PATHS and path.suffix.casefold() in TEXT_SUFFIXES
+
+
 def public_artifact_paths() -> tuple[Path, ...]:
-    """Return all public exams and G9/G10/G11 audit artifacts."""
+    """Return all public exams and G9/G10/G11/G12 audit artifacts."""
 
     exam_paths = set(public_exam_paths())
-    existing_g11_paths = {
-        path for path in G11_ARTIFACT_PATHS if (REPOSITORY_ROOT / path).is_file()
+    existing_integrated_paths = {
+        path
+        for path in G11_ARTIFACT_PATHS | G12_ARTIFACT_PATHS
+        if (REPOSITORY_ROOT / path).is_file()
     }
     paths = {
         path
@@ -228,9 +246,10 @@ def public_artifact_paths() -> tuple[Path, ...]:
             or _is_g9_public_artifact(path)
             or _is_g10_audit(path)
             or _is_g11_integrated_artifact(path)
+            or _is_g12_integrated_artifact(path)
         )
     }
-    return tuple(sorted(paths | existing_g11_paths))
+    return tuple(sorted(paths | existing_integrated_paths))
 
 
 def _normalise_field_name(name: str) -> str:
@@ -312,7 +331,8 @@ def _contract_issues(payload: Any) -> list[str]:
         (
             (key, value)
             for key, value in payload.items()
-            if key in CONTRACT_KEYS | G11_CONTRACT_KEYS and isinstance(value, dict)
+            if key in CONTRACT_KEYS | G11_CONTRACT_KEYS | G12_CONTRACT_KEYS
+            and isinstance(value, dict)
         ),
         None,
     )
@@ -336,9 +356,11 @@ def _contract_issues(payload: Any) -> list[str]:
     state = contract.get("state")
     if state is not None and state not in allowed_set:
         issues.append(f"$.{contract_name}.state: state is not declared in allowed_states")
-    if contract_name in G11_CONTRACT_KEYS:
+    if contract_name in G11_CONTRACT_KEYS | G12_CONTRACT_KEYS:
         if state is None:
-            issues.append(f"$.{contract_name}.state: required for G11 integrated artifacts")
+            issues.append(
+                f"$.{contract_name}.state: required for integrated artifacts"
+            )
         separation = contract.get("answer_key_separation")
         if not isinstance(separation, dict):
             issues.append(
@@ -353,6 +375,40 @@ def _contract_issues(payload: Any) -> list[str]:
                 issues.append(
                     f"$.{contract_name}.answer_key_separation.public: must be false"
                 )
+    if contract_name in G12_CONTRACT_KEYS:
+        collection_name = (
+            "redundancy_decision_records"
+            if contract_name == "redundancy_decision_contract"
+            else "source_license_checklist"
+        )
+        records = payload.get(collection_name)
+        if not isinstance(records, list) or not records:
+            issues.append(f"$.{collection_name}: non-empty list required")
+        else:
+            for index, record in enumerate(records):
+                location = f"$.{collection_name}[{index}]"
+                if not isinstance(record, dict):
+                    issues.append(f"{location}: record must be an object")
+                    continue
+                state = record.get("state")
+                if not isinstance(state, str) or not state.strip():
+                    issues.append(f"{location}.state: non-empty state required")
+                elif state not in allowed_set:
+                    issues.append(
+                        f"{location}.state: state is not declared in allowed_states"
+                    )
+                for field in ("reviewer", "rationale"):
+                    value = record.get(field)
+                    if not isinstance(value, str) or not value.strip():
+                        issues.append(
+                            f"{location}.{field}: non-empty string required"
+                        )
+                if "decision" in record and record["decision"] is not None:
+                    evidence_ref = record.get("evidence_ref")
+                    if not isinstance(evidence_ref, str) or not evidence_ref.strip():
+                        issues.append(
+                            f"{location}.evidence_ref: non-empty string required when decision is non-null"
+                        )
     return issues
 
 

@@ -1,0 +1,40 @@
+{
+  "source_license_checklist_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "Metadata-only source and licence checklist; pointers do not prove authority or clearance.",
+      "Checklist state records workflow status and not factual, legal, or commercial usability.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "source_license_checklist": [
+    {
+      "check_id": "placeholder-source-check",
+      "kind": "source",
+      "state": "pending",
+      "decision": null,
+      "evidence_ref": null,
+      "reviewer": "placeholder",
+      "rationale": "placeholder"
+    },
+    {
+      "check_id": "placeholder-license-check",
+      "kind": "license",
+      "state": "pending",
+      "decision": null,
+      "evidence_ref": null,
+      "reviewer": "placeholder",
+      "rationale": "placeholder"
+    }
+  ]
+}

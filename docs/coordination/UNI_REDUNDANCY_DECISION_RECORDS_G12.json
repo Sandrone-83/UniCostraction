@@ -1,0 +1,31 @@
+{
+  "redundancy_decision_contract": {
+    "state": "pending",
+    "allowed_states": [
+      "blocked",
+      "pending",
+      "open",
+      "resolved"
+    ],
+    "limitations": [
+      "Metadata-only decision record shape; no semantic duplicate adjudication is published.",
+      "A decision is a workflow record and not an exam answer, grade, or correctness judgment.",
+      "The protected answer key remains separate and is not represented in this artifact."
+    ],
+    "answer_key_separation": {
+      "status": "separate",
+      "public": false
+    }
+  },
+  "redundancy_decision_records": [
+    {
+      "record_id": "placeholder-record",
+      "cluster_id": "placeholder-cluster",
+      "state": "pending",
+      "decision": null,
+      "evidence_ref": null,
+      "reviewer": "placeholder",
+      "rationale": "placeholder"
+    }
+  ]
+}
