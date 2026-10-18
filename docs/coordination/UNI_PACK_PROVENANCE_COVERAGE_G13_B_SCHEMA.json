@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://unicostruction.local/schemas/UNI_PACK_PROVENANCE_COVERAGE_G13_B_SCHEMA.json",
+  "title": "UniCostraction G13-B metadata-only pack provenance coverage audit",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "schema_version", "audit_id", "metadata_only", "observed_at", "base_commit", "scope", "manifest_inventory", "summary", "packs"],
+  "properties": {
+    "$schema": {"const": "./UNI_PACK_PROVENANCE_COVERAGE_G13_B_SCHEMA.json"},
+    "schema_version": {"const": "G13-B-pack-provenance-coverage"},
+    "audit_id": {"const": "G13-B-pack-provenance-coverage"},
+    "metadata_only": {"const": true},
+    "observed_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "base_commit": {"const": "5563510cbf40c1e2a5476cb64be845947c68e710"},
+    "scope": {"$ref": "#/$defs/scope"},
+    "manifest_inventory": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/manifest_inventory"}},
+    "summary": {"$ref": "#/$defs/summary"},
+    "packs": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/pack"}}
+  },
+  "$defs": {
+    "state": {"enum": ["observed_local", "blocked"]},
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["course_root", "course_glob", "expected_course_count", "input_manifests", "manifest_record_scope", "matching_policy", "no_semantic_matching", "excluded_payloads", "state_policy"],
+      "properties": {
+        "course_root": {"type": "string", "const": "UNIVERSITA_EDILIZIA"},
+        "course_glob": {"type": "string", "minLength": 1},
+        "expected_course_count": {"const": 71},
+        "input_manifests": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "manifest_record_scope": {"type": "string", "minLength": 1},
+        "matching_policy": {"type": "string", "minLength": 1},
+        "no_semantic_matching": {"type": "string", "minLength": 1},
+        "excluded_payloads": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "state_policy": {"type": "string", "minLength": 1}
+      }
+    },
+    "manifest_inventory": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["manifest_path", "manifest_id", "record_container", "record_count", "scope_package"],
+      "properties": {
+        "manifest_path": {"type": "string", "minLength": 1},
+        "manifest_id": {"type": "string", "minLength": 1},
+        "record_container": {"enum": ["records", "source_records", "none"]},
+        "record_count": {"type": "integer", "minimum": 0},
+        "scope_package": {"type": ["string", "null"]}
+      }
+    },
+    "counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["observed_local", "blocked"],
+      "properties": {
+        "observed_local": {"type": "integer", "minimum": 0},
+        "blocked": {"type": "integer", "minimum": 0}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pack_count", "manifest_record_count", "matched_pack_count", "unmatched_pack_count", "by_source_record_present", "by_locator_present", "by_license_status", "by_evidence_status", "remediation_required_count"],
+      "properties": {
+        "pack_count": {"const": 71},
+        "manifest_record_count": {"type": "integer", "minimum": 0},
+        "matched_pack_count": {"type": "integer", "minimum": 0},
+        "unmatched_pack_count": {"type": "integer", "minimum": 0},
+        "by_source_record_present": {"$ref": "#/$defs/counts"},
+        "by_locator_present": {"$ref": "#/$defs/counts"},
+        "by_license_status": {"$ref": "#/$defs/counts"},
+        "by_evidence_status": {"$ref": "#/$defs/counts"},
+        "remediation_required_count": {"type": "integer", "minimum": 0}
+      }
+    },
+    "matched_source_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["manifest_path", "manifest_id", "source_record_id", "match_basis"],
+      "properties": {
+        "manifest_path": {"type": "string", "minLength": 1},
+        "manifest_id": {"type": "string", "minLength": 1},
+        "source_record_id": {"type": "string", "minLength": 1},
+        "match_basis": {"enum": ["scope.package_exact", "scope.source_path_under_pack", "record.locator.path_under_pack"]}
+      }
+    },
+    "pack": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pack_id", "pack_path", "course_yaml", "course_name", "fonti_field_present", "source_record_present", "locator_present", "license_status", "evidence_status", "remediation_required", "remediation_codes", "matched_source_records", "matching_note"],
+      "properties": {
+        "pack_id": {"type": "string", "pattern": "^.+_PACK$"},
+        "pack_path": {"type": "string", "pattern": "^UNIVERSITA_EDILIZIA/.+_PACK$"},
+        "course_yaml": {"type": "string", "pattern": "^UNIVERSITA_EDILIZIA/.+_PACK/COURSE\\.yaml$"},
+        "course_name": {"type": "string", "minLength": 1},
+        "fonti_field_present": {"type": "boolean"},
+        "source_record_present": {"$ref": "#/$defs/state"},
+        "locator_present": {"$ref": "#/$defs/state"},
+        "license_status": {"$ref": "#/$defs/state"},
+        "evidence_status": {"$ref": "#/$defs/state"},
+        "remediation_required": {"const": true},
+        "remediation_codes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "matched_source_records": {"type": "array", "items": {"$ref": "#/$defs/matched_source_record"}},
+        "matching_note": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

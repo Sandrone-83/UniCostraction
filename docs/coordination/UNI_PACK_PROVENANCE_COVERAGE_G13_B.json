@@ -1,0 +1,1523 @@
+{
+  "$schema": "./UNI_PACK_PROVENANCE_COVERAGE_G13_B_SCHEMA.json",
+  "schema_version": "G13-B-pack-provenance-coverage",
+  "audit_id": "G13-B-pack-provenance-coverage",
+  "metadata_only": true,
+  "observed_at": "2026-10-18",
+  "base_commit": "5563510cbf40c1e2a5476cb64be845947c68e710",
+  "scope": {
+    "course_root": "UNIVERSITA_EDILIZIA",
+    "course_glob": "UNIVERSITA_EDILIZIA/**/COURSE.yaml",
+    "expected_course_count": 71,
+    "input_manifests": [
+      "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json"
+    ],
+    "manifest_record_scope": "Manifest records and source_records explicitly present in the listed local manifests.",
+    "matching_policy": "Only exact manifest scope.package, scope.source_path, or record locator/local path under the pack path establishes a match.",
+    "no_semantic_matching": "COURSE.yaml fonti, course names, titles, document topics, and text similarity are never used for matching.",
+    "excluded_payloads": [
+      "COURSE.yaml source text beyond the observed fonti-field presence",
+      "schede JSONL and course-card payloads",
+      "PDF, XML, HTML, source text, exam questions, answers, and solutions",
+      "live URL requests or current license/legal verification"
+    ],
+    "state_policy": "The audit emits only observed_local or blocked; missing or insufficient evidence is never promoted."
+  },
+  "manifest_inventory": [
+    {
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G1.json",
+      "manifest_id": "G1-FONDAMENTI-GUTENBERG-RAW",
+      "record_container": "records",
+      "record_count": 14,
+      "scope_package": null
+    },
+    {
+      "manifest_path": "Fondamenti_Pack/PROVENANCE_MANIFEST_G2.json",
+      "manifest_id": "G2-FONDAMENTI-PACK-G1-PROVENANCE",
+      "record_container": "records",
+      "record_count": 14,
+      "scope_package": null
+    },
+    {
+      "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+      "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+      "record_container": "records",
+      "record_count": 2,
+      "scope_package": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK"
+    },
+    {
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G5_ECFR.json",
+      "manifest_id": "G5-ECFR-OSHA-1926",
+      "record_container": "source_records",
+      "record_count": 1,
+      "scope_package": "Edilizia_Pack"
+    },
+    {
+      "manifest_path": "docs/coordination/UNI_CORPUS_LOTTO_G10_B.json",
+      "manifest_id": "G10-B-EU-EPBD-2024-1275",
+      "record_container": "source_records",
+      "record_count": 1,
+      "scope_package": "docs/coordination"
+    }
+  ],
+  "summary": {
+    "pack_count": 71,
+    "manifest_record_count": 32,
+    "matched_pack_count": 1,
+    "unmatched_pack_count": 70,
+    "by_source_record_present": {
+      "observed_local": 1,
+      "blocked": 70
+    },
+    "by_locator_present": {
+      "observed_local": 1,
+      "blocked": 70
+    },
+    "by_license_status": {
+      "observed_local": 0,
+      "blocked": 71
+    },
+    "by_evidence_status": {
+      "observed_local": 0,
+      "blocked": 71
+    },
+    "remediation_required_count": 71
+  },
+  "packs": [
+    {
+      "pack_id": "ACUSTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK/COURSE.yaml",
+      "course_name": "Acustica edilizia",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK/COURSE.yaml",
+      "course_name": "Aeroporti e infrastrutture di volo",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "ARCHITETTURA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK/COURSE.yaml",
+      "course_name": "Architettura",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK/COURSE.yaml",
+      "course_name": "Ascensori e movimentazione verticale",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK/COURSE.yaml",
+      "course_name": "Bonifica siti ambientali per l'edilizia",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "CAD_BIM_PROGETTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK/COURSE.yaml",
+      "course_name": "Progettazione digitale CAD e BIM",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK/COURSE.yaml",
+      "course_name": "Capolavori e storia delle opere",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "CAPPOTTO_ETICS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK/COURSE.yaml",
+      "course_name": "Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK/COURSE.yaml",
+      "course_name": "Carpenteria metallica e acciaio",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "CONTABILITA_APPALTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK/COURSE.yaml",
+      "course_name": "Contabilità, computo e appalti dei lavori",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "COSTRUIRE_IN_LEGNO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK/COURSE.yaml",
+      "course_name": "Costruire in legno",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "COSTRUZIONI_SPECIALI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK/COURSE.yaml",
+      "course_name": "Costruzioni speciali e opere d'ingegneria",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK/COURSE.yaml",
+      "course_name": "Data center e critical facilities",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DESIGN_GUSTO_TENDENZE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK/COURSE.yaml",
+      "course_name": "Design, gusto e tendenze dell'edilizia",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK/COURSE.yaml",
+      "course_name": "Dighe e sistemazioni idrauliche",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK/COURSE.yaml",
+      "course_name": "Dimensionamento di fotovoltaico, eolico e accumulo",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK/COURSE.yaml",
+      "course_name": "Dimensionamento degli impianti termotecnici",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DISEGNO_TECNICO_MANUALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK/COURSE.yaml",
+      "course_name": "Disegno tecnico e rappresentazione",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "DOMOTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/DOMOTICA_PACK/COURSE.yaml",
+      "course_name": "Domotica e building automation",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK/COURSE.yaml",
+      "course_name": "Edilizia agricola e zootecnica",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "EDILIZIA_CIRCOLARE_LCA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK/COURSE.yaml",
+      "course_name": "Edilizia circolare e LCA",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK/COURSE.yaml",
+      "course_name": "Edilizia industriale e logistica",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK/COURSE.yaml",
+      "course_name": "Edilizia scolastica tecnica",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK/COURSE.yaml",
+      "course_name": "Emergenze e ricostruzione post-sisma",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "ENERGETICA_INCENTIVI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/COURSE.yaml",
+      "course_name": "Energetica edilizia e incentivi",
+      "fonti_field_present": true,
+      "source_record_present": "observed_local",
+      "locator_present": "observed_local",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [
+        {
+          "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+          "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+          "source_record_id": "G3-2-001",
+          "match_basis": "scope.package_exact"
+        },
+        {
+          "manifest_path": "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK/fonti/PROVENANCE_MANIFEST_G3_GSE_CT3.json",
+          "manifest_id": "G3-2-ENERGETICA-GSE-CT3",
+          "source_record_id": "G3-2-002",
+          "match_basis": "scope.package_exact"
+        }
+      ],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK/COURSE.yaml",
+      "course_name": "Facility management e manutenzione programmata",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "FERROVIE_E_STAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK/COURSE.yaml",
+      "course_name": "Ferrovie e stazioni",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK/COURSE.yaml",
+      "course_name": "Fisco e tributi dell'impresa edile",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "FORMULARIO_FISICA_IMPIANTI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK/COURSE.yaml",
+      "course_name": "Formulario di fisica dell'edilizia e degli impianti",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "FORMULARIO_STRUTTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK/COURSE.yaml",
+      "course_name": "Formulario di calcolo strutturale",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK/COURSE.yaml",
+      "course_name": "Fotovoltaico a terra, agrivoltaico e CER",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK/COURSE.yaml",
+      "course_name": "Geometra: topografia, costruzioni e estimo",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "GEOTECNICA_E_FONDAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK/COURSE.yaml",
+      "course_name": "Geotecnica e fondazioni",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "GESTIONE_CONDOMINIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK/COURSE.yaml",
+      "course_name": "Gestione condominiale",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK/COURSE.yaml",
+      "course_name": "Tecnica alberghiera e hospitality",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "ILLUMINAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK/COURSE.yaml",
+      "course_name": "Illuminazione tecnica e illuminotecnica",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "IMPIANTI_COMPLETA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK/COURSE.yaml",
+      "course_name": "Impiantistica completa",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK/COURSE.yaml",
+      "course_name": "Impianti sportivi: edilizia e tecnologie",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "INFRASTRUTTURE_VIARIE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK/COURSE.yaml",
+      "course_name": "Infrastrutture viarie e urbanizzazioni",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "INGEGNERIA_CIVILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK/COURSE.yaml",
+      "course_name": "Ingegneria civile",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "INGEGNERIA_STRUTTURALE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK/COURSE.yaml",
+      "course_name": "Ingegneria strutturale",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK/COURSE.yaml",
+      "course_name": "Progettazione tecnica degli interni",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK/COURSE.yaml",
+      "course_name": "Diritto privato dell'edilizia",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK/COURSE.yaml",
+      "course_name": "Tecnologia delle macchine termiche",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MASTER_DESIGN_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK/COURSE.yaml",
+      "course_name": "Master in design",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MASTER_IMPRESA_EDILE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK/COURSE.yaml",
+      "course_name": "Master in gestione d'impresa edile",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MATEMATICA_PER_COSTRUIRE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK/COURSE.yaml",
+      "course_name": "Matematica per costruire",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK/COURSE.yaml",
+      "course_name": "Materiali e componenti dell'impiantistica",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MATERIALI_DEL_FUTURO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK/COURSE.yaml",
+      "course_name": "Materiali del futuro e costruzione innovativa",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK/COURSE.yaml",
+      "course_name": "Metodi costruttivi avanzati",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK/COURSE.yaml",
+      "course_name": "Mezzi di sollevamento e movimentazione",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "MURATURE_INTONACI_E_FINITURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK/COURSE.yaml",
+      "course_name": "Murature, intonaci e finiture murali",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "OSPEDALI_E_HEALTHCARE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK/COURSE.yaml",
+      "course_name": "Edilizia sanitaria e ospedaliera",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK/COURSE.yaml",
+      "course_name": "Patologie edili e diagnostica strumentale",
+      "fonti_field_present": true,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK/COURSE.yaml",
+      "course_name": "Perizie, stime e assicurazioni",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK/COURSE.yaml",
+      "course_name": "Pietre naturali e materiali lapidei",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "PISCINE_E_WELLNESS_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK/COURSE.yaml",
+      "course_name": "Piscine e centri wellness",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "PORTI_E_OPERE_MARITTIME_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK/COURSE.yaml",
+      "course_name": "Porti e opere marittime",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "POSA_IN_OPERA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK/COURSE.yaml",
+      "course_name": "Posa in opera e controlli",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK/COURSE.yaml",
+      "course_name": "Prefabbricazione e industrializzazione edilizia",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "REAL_ESTATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK/COURSE.yaml",
+      "course_name": "Mercato immobiliare, valutazione e investimenti",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK/COURSE.yaml",
+      "course_name": "Restauro e conservazione delle opere architettoniche",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK/COURSE.yaml",
+      "course_name": "Rinnovabili idro, biomasse e geotermia",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK/COURSE.yaml",
+      "course_name": "Risanamento e recupero edilizio",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "ROBOTICA_EDILIZIA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK/COURSE.yaml",
+      "course_name": "Robotica delle costruzioni",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "SERRAMENTI_E_VETRATE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK/COURSE.yaml",
+      "course_name": "Serramenti, vetrate e porte",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK/COURSE.yaml",
+      "course_name": "Prevenzione incendi e accessibilità",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK/COURSE.yaml",
+      "course_name": "Sicurezza di cantiere (D.Lgs 81/08)",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "TETTI_E_COPERTURE_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK/COURSE.yaml",
+      "course_name": "Tetti e coperture",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "URBANISTICA_TERRITORIO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK/COURSE.yaml",
+      "course_name": "Urbanistica, territorio e procedure edilizie",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    },
+    {
+      "pack_id": "VERDE_ARREDO_URBANO_PACK",
+      "pack_path": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK",
+      "course_yaml": "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK/COURSE.yaml",
+      "course_name": "Verde urbano e arredo urbano",
+      "fonti_field_present": false,
+      "source_record_present": "blocked",
+      "locator_present": "blocked",
+      "license_status": "blocked",
+      "evidence_status": "blocked",
+      "remediation_required": true,
+      "remediation_codes": [
+        "source_record_missing_for_pack",
+        "locator_missing_or_not_present_for_all_matched_records",
+        "source_specific_license_not_declared",
+        "evidence_not_observed_local_for_all_matched_records"
+      ],
+      "matched_source_records": [],
+      "matching_note": "Match uses only explicit manifest scope/local path metadata; COURSE.yaml fonti, titles, and text similarity are not used to establish provenance."
+    }
+  ]
+}
