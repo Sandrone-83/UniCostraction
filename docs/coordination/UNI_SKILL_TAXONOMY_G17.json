@@ -1,0 +1,355 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_version": "g17.v1",
+  "artifact_type": "unicostraction_global_skill_taxonomy",
+  "purpose": "Canonical, non-redundant skill library for AuraTrix/AulaFIX over AEC, Italian public administration and law, construction history 1800-present, digital tools, documents, business and media.",
+  "snapshot": {
+    "checkout": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
+    "branch": "codex/uni-inventory",
+    "commit": "7baaf477b6333fda44d345d407a217e5a750a312",
+    "remote": "https://github.com/Sandrone-83/UniCostraction.git",
+    "observed_on": "2026-10-18",
+    "source_scope": "Tracked HEAD only. G16 was already present in the branch before G17 work; its files are not attributed to G17 and are not modified.",
+    "content_boundary": "The repository evidence establishes structure, paths and deterministic counts; it does not establish factual, technical, legal, educational, licensing or professional correctness."
+  },
+  "non_redundancy_contract": {
+    "canonical_key": "skill_id",
+    "primary_owner_rule": "Every skill has exactly one canonical branch and one canonical skill_id. A source pack is assigned to exactly one primary branch in this artifact.",
+    "facet_rule": "Geography, period, lifecycle, actor, artifact type and risk are facets. Facets may filter or cross-link a canonical skill but never create a second copy of it.",
+    "alias_rule": "Aliases and historical names resolve to the canonical skill_id; they are not additional skills.",
+    "evidence_rule": "A structural presence or a reference is not promoted to verified knowledge. Promotion requires provenance, version/date, rights, expert review and evaluation evidence.",
+    "source_rule": "Source, interpretation, example and hypothesis remain separate fields in downstream records."
+  },
+  "state_definitions": [
+    {
+      "id": "verified_structural",
+      "meaning": "Path, manifest, count or deterministic report was observed in the selected checkout.",
+      "allowed_claim": "The artifact exists in the observed snapshot.",
+      "not_proven": "Semantic, factual, legal, didactic, licensing or real-world correctness."
+    },
+    {
+      "id": "reference_only",
+      "meaning": "Material is available as a reference corpus or example, but is not approved as authoritative answer knowledge.",
+      "next_gate": "Attach provenance, jurisdiction/period, rights, review and evaluation evidence."
+    },
+    {
+      "id": "needs_review",
+      "meaning": "A human decision is still required for scope, mapping, provenance, semantic equivalence or coverage.",
+      "current_examples": "Six G5 pending items, two unmatched legacy exams and 85 open G14 review clusters."
+    },
+    {
+      "id": "blocked",
+      "meaning": "A release or operational gate prevents promotion or automation.",
+      "current_example": "G7 release-readiness is BLOCKED while pending and unmatched review remains open."
+    },
+    {
+      "id": "future",
+      "meaning": "A desired branch or subskill is not evidenced as implemented in this checkout and is roadmap work."
+    },
+    {
+      "id": "verified_knowledge",
+      "meaning": "A future promotion state reserved for reviewed, versioned and provenance-backed knowledge.",
+      "current_count": 0,
+      "warning": "No current repository count promotes content to this state."
+    }
+  ],
+  "current_inventory": {
+    "tracked_files_total": 6767,
+    "tracked_files_excluding_tests": 6708,
+    "course_manifests_total": 83,
+    "course_manifests_universita_edilizia": 71,
+    "course_manifests_root_packs": 12,
+    "schede_jsonl_files": 71,
+    "schede_jsonl_rows": 963,
+    "public_exam_files": 73,
+    "public_exam_questions": 18689,
+    "content_units_cards_plus_public_exam_questions": 19652,
+    "jsonl_files_total_excluding_tests": 255,
+    "jsonl_lines_total_excluding_tests": 37381,
+    "cad_library_tracked_paths": 5859,
+    "edilizia_pack_tracked_paths": 297,
+    "exam_pack_pairs": 73,
+    "exam_pack_mapping": {
+      "exact_name_pairs": 14,
+      "alias_observed_pairs": 59,
+      "legacy_unmatched_exam_files": 2,
+      "ambiguous_review_items": 4
+    },
+    "release_readiness": {
+      "status": "blocked",
+      "g5_pending_items": 6,
+      "g5_decided_items": 0,
+      "g14_clusters_total": 85,
+      "g14_open": 85,
+      "g14_in_review": 0,
+      "g14_decided": 0,
+      "source_reports": [
+        "docs/coordination/UNI_COMPLETENESS_LEDGER_G8.json",
+        "docs/coordination/UNI_RELEASE_READINESS_G7.json",
+        "docs/coordination/UNI_REDUNDANCY_AUDIT_G10_A.json",
+        "docs/coordination/UNI_CLUSTER_REVIEW_PROGRESS_G14_A.json"
+      ]
+    },
+    "source_posture": {
+      "structural_counts_verified": true,
+      "content_correctness_verified": false,
+      "authoritative_knowledge_promoted": 0,
+      "reference_only_content": true,
+      "licensing_review_complete": false,
+      "professional_signoff_complete": false
+    }
+  },
+  "facet_vocabulary": {
+    "geography": ["IT", "EU", "world", "comparative", "unknown"],
+    "period": ["1800-1899", "1900-1945", "1946-1989", "1990-2009", "2010-present", "current-law", "unknown"],
+    "lifecycle": ["brief", "design", "approval", "procurement", "construction", "commissioning", "operation", "maintenance", "diagnosis", "recovery", "decommissioning"],
+    "artifact": ["concept", "calculation", "drawing", "model", "specification", "estimate", "contract", "permit", "report", "exam", "dataset", "media_asset"],
+    "risk": ["educational", "technical", "legal", "financial", "safety", "privacy", "licensing", "publication"],
+    "source_posture": ["verified_knowledge", "reference_only", "needs_review", "blocked", "future"]
+  },
+  "added_skill_library_branches": [
+    {
+      "branch_id": "aec.design_representation",
+      "label": "AEC design, representation and public realm",
+      "scope": "Architecture, technical drawing, interiors, specialized buildings, landscape and urban furniture.",
+      "skill_ids": ["aec.design_representation", "aec.interior_and_specialized_buildings", "aec.public_realm_and_landscape"],
+      "primary_pack_refs": [
+        "UNIVERSITA_EDILIZIA/ARCHITETTURA_PACK",
+        "UNIVERSITA_EDILIZIA/DISEGNO_TECNICO_MANUALE_PACK",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_SCOLASTICA_TECNICO_PACK",
+        "UNIVERSITA_EDILIZIA/INTERIOR_PROGETTAZIONE_TECNICA_PACK",
+        "UNIVERSITA_EDILIZIA/MASTER_DESIGN_PACK",
+        "UNIVERSITA_EDILIZIA/OSPEDALI_E_HEALTHCARE_PACK",
+        "UNIVERSITA_EDILIZIA/VERDE_ARREDO_URBANO_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"}
+    },
+    {
+      "branch_id": "aec.materials_methods",
+      "label": "AEC materials, envelopes and construction methods",
+      "scope": "Materials, assemblies, envelopes, finishes, site execution, industrialization and lifting/movement.",
+      "skill_ids": ["aec.materials_and_components", "aec.envelopes_and_finishes", "aec.construction_methods_and_execution"],
+      "primary_pack_refs": [
+        "Edilizia_Pack",
+        "MATERIALEDILE_PACK",
+        "UNIVERSITA_EDILIZIA/CAPPOTTO_ETICS_PACK",
+        "UNIVERSITA_EDILIZIA/COSTRUIRE_IN_LEGNO_PACK",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_AGRICOLA_ZOOTECNICA_PACK",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_INDUSTRIALE_LOGISTICA_PACK",
+        "UNIVERSITA_EDILIZIA/MATERIALI_DEL_FUTURO_PACK",
+        "UNIVERSITA_EDILIZIA/METODI_COSTRUTTIVI_AVANZATI_PACK",
+        "UNIVERSITA_EDILIZIA/MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK",
+        "UNIVERSITA_EDILIZIA/MURATURE_INTONACI_E_FINITURE_PACK",
+        "UNIVERSITA_EDILIZIA/PIETRE_NATURALI_E_LAPIDEI_PACK",
+        "UNIVERSITA_EDILIZIA/POSA_IN_OPERA_PACK",
+        "UNIVERSITA_EDILIZIA/PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK",
+        "UNIVERSITA_EDILIZIA/SERRAMENTI_E_VETRATE_PACK",
+        "UNIVERSITA_EDILIZIA/TETTI_E_COPERTURE_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"}
+    },
+    {
+      "branch_id": "aec.structures_infrastructure",
+      "label": "AEC structures, geotechnics and infrastructure",
+      "scope": "Structural engineering, geotechnics, civil works, transport, ports, airports and hydraulic works.",
+      "skill_ids": ["aec.structural_engineering", "aec.geotechnics_and_foundations", "aec.infrastructure_and_hydraulic_works"],
+      "primary_pack_refs": [
+        "UNIVERSITA_EDILIZIA/AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK",
+        "UNIVERSITA_EDILIZIA/CARPENTERIA_METALLICA_E_ACCIAIO_PACK",
+        "UNIVERSITA_EDILIZIA/COSTRUZIONI_SPECIALI_PACK",
+        "UNIVERSITA_EDILIZIA/DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK",
+        "UNIVERSITA_EDILIZIA/FERROVIE_E_STAZIONI_PACK",
+        "UNIVERSITA_EDILIZIA/GEOTECNICA_E_FONDAZIONI_PACK",
+        "UNIVERSITA_EDILIZIA/INFRASTRUTTURE_VIARIE_PACK",
+        "UNIVERSITA_EDILIZIA/INGEGNERIA_CIVILE_PACK",
+        "UNIVERSITA_EDILIZIA/INGEGNERIA_STRUTTURALE_PACK",
+        "UNIVERSITA_EDILIZIA/PORTI_E_OPERE_MARITTIME_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"}
+    },
+    {
+      "branch_id": "aec.building_systems_energy",
+      "label": "AEC building systems, energy and critical facilities",
+      "scope": "MEP, acoustics, thermal systems, renewables, lighting, automation, data centers, fire and accessibility interfaces.",
+      "skill_ids": ["aec.mep_and_building_services", "aec.energy_and_renewables", "aec.automation_critical_facilities_and_safety"],
+      "primary_pack_refs": [
+        "UNIVERSITA_EDILIZIA/ACUSTICA_EDILIZIA_PACK",
+        "UNIVERSITA_EDILIZIA/ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK",
+        "UNIVERSITA_EDILIZIA/DATA_CENTER_E_CRITICAL_FACILITIES_PACK",
+        "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK",
+        "UNIVERSITA_EDILIZIA/DIMENSIONAMENTO_TERMOTECNICO_PACK",
+        "UNIVERSITA_EDILIZIA/DOMOTICA_PACK",
+        "UNIVERSITA_EDILIZIA/ENERGETICA_INCENTIVI_PACK",
+        "UNIVERSITA_EDILIZIA/FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK",
+        "UNIVERSITA_EDILIZIA/ILLUMINAZIONE_TECNICA_PACK",
+        "UNIVERSITA_EDILIZIA/IMPIANTI_COMPLETA_PACK",
+        "UNIVERSITA_EDILIZIA/MACCHINE_TERMICHE_TECNOLOGIA_PACK",
+        "UNIVERSITA_EDILIZIA/MATERIALI_COMPONENTI_IMPIANTISTICA_PACK",
+        "UNIVERSITA_EDILIZIA/PISCINE_E_WELLNESS_PACK",
+        "UNIVERSITA_EDILIZIA/RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"}
+    },
+    {
+      "branch_id": "aec.environment_resilience",
+      "label": "AEC environment, diagnosis, conservation and resilience",
+      "scope": "Remediation, circular construction, LCA, post-disaster reconstruction, pathology, recovery and conservation.",
+      "skill_ids": ["aec.environmental_remediation_and_lca", "aec.pathology_diagnosis_and_recovery", "aec.conservation_and_resilience"],
+      "primary_pack_refs": [
+        "UNIVERSITA_EDILIZIA/BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK",
+        "UNIVERSITA_EDILIZIA/EDILIZIA_CIRCOLARE_LCA_PACK",
+        "UNIVERSITA_EDILIZIA/EMERGENZE_E_RICOSTRUZIONE_PACK",
+        "UNIVERSITA_EDILIZIA/PATOLOGIE_E_DIAGNOSTICA_PACK",
+        "UNIVERSITA_EDILIZIA/RESTAURO_E_CONSERVAZIONE_OPERE_PACK",
+        "UNIVERSITA_EDILIZIA/RISANAMENTO_E_RECUPERO_EDILIZIO_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"}
+    },
+    {
+      "branch_id": "pa.italy_legal_admin",
+      "label": "Italian PA, legal, administrative and compliance workflows",
+      "scope": "Italian system, urban and building procedures, procurement/accounting, tax, private law, construction safety and compliance interfaces.",
+      "skill_ids": ["pa.italian_public_administration", "pa.urban_building_procedures", "pa.procurement_tax_safety_and_compliance"],
+      "primary_pack_refs": [
+        "Italia_Sistema_Pack",
+        "UNIVERSITA_EDILIZIA/CONTABILITA_APPALTI_PACK",
+        "UNIVERSITA_EDILIZIA/FISCO_TRIBUTI_IMPRESA_EDILE_PACK",
+        "UNIVERSITA_EDILIZIA/LEGISLAZIONE_PRIVATA_EDILIZIA_PACK",
+        "UNIVERSITA_EDILIZIA/SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK",
+        "UNIVERSITA_EDILIZIA/SICUREZZA_CANTIERE_DLSGS81_PACK",
+        "UNIVERSITA_EDILIZIA/URBANISTICA_TERRITORIO_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "safety_boundary": "No current-law or professional-compliance answer is authoritative without jurisdiction, effective date, source and qualified human review."
+    },
+    {
+      "branch_id": "history.world_construction_1800_present",
+      "label": "World construction and architecture history, 1800-present",
+      "scope": "Chronology, works, technologies, materials, actors, movements and comparative world context from 1800 to the present.",
+      "skill_ids": ["history.construction_1800_1945", "history.construction_1946_1989", "history.construction_1990_present_and_comparative"],
+      "primary_pack_refs": ["Storia_Pack", "UNIVERSITA_EDILIZIA/CAPOLAVORI_E_STORIA_OPERE_PACK"],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "gap": "Current presence is not proof of complete worldwide coverage, period balance or source verification."
+    },
+    {
+      "branch_id": "digital.tools_data",
+      "label": "Digital tools, CAD/BIM, coding, automation and data",
+      "scope": "CAD assets and interoperability, BIM, coding modules, robotics, automation, data handling and AI-adjacent workflows.",
+      "skill_ids": ["digital.cad_bim_and_interoperability", "digital.coding_automation_and_ai", "digital.asset_validation_and_data"],
+      "primary_pack_refs": [
+        "CAD_Library",
+        "Coding_Master_Pack",
+        "Coding_Master_Pack_2",
+        "Coding_Master_Pack_3",
+        "Coding_Master_Pack_4",
+        "Coding_Master_Pack_5",
+        "UNIVERSITA_EDILIZIA/CAD_BIM_PROGETTAZIONE_PACK",
+        "UNIVERSITA_EDILIZIA/ROBOTICA_EDILIZIA_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "technical_boundary": "Asset presence, parsability or static examples do not prove runtime interoperability or production safety."
+    },
+    {
+      "branch_id": "science.foundation_calculation",
+      "label": "Scientific foundations, mathematics, physics and explainable calculation",
+      "scope": "Foundational science, mathematics, physics and construction formulas kept separate from professional sign-off.",
+      "skill_ids": ["science.math_and_physics_for_construction", "science.formulas_and_measurement", "science.explainable_calculation"],
+      "primary_pack_refs": [
+        "Fondamenti_Pack",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_FISICA_IMPIANTI_PACK",
+        "UNIVERSITA_EDILIZIA/FORMULARIO_STRUTTURE_PACK",
+        "UNIVERSITA_EDILIZIA/MATEMATICA_PER_COSTRUIRE_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "technical_boundary": "A formula or worked example requires assumptions, units, applicability limits and review before operational use."
+    },
+    {
+      "branch_id": "documents.evidence_workflows",
+      "label": "Technical documents, records, evidence and review workflows",
+      "scope": "Technical records, surveys, estimates, reports, evidence packets, review states and controlled document lifecycle.",
+      "skill_ids": ["documents.technical_records_and_reports", "documents.evidence_provenance_and_audit", "documents.templates_and_review_gates"],
+      "primary_pack_refs": [
+        "UNIVERSITA_EDILIZIA/GEOMETRA_TOPOGRAFIA_ESTIMO_PACK",
+        "UNIVERSITA_EDILIZIA/PERIZIE_STIME_ASSICURAZIONI_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "gap": "A document-shaped file is not evidence of a complete, authorized or legally usable professional document workflow."
+    },
+    {
+      "branch_id": "business.real_estate_operations",
+      "label": "Construction business, real estate and operations",
+      "scope": "Construction enterprise management, real estate, facility management, condominium, hospitality and operational delivery.",
+      "skill_ids": ["business.real_estate_and_valuation", "business.enterprise_and_project_operations", "business.facility_clients_and_delivery"],
+      "primary_pack_refs": [
+        "UNIVERSITA_EDILIZIA/FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK",
+        "UNIVERSITA_EDILIZIA/GESTIONE_CONDOMINIO_PACK",
+        "UNIVERSITA_EDILIZIA/HOTEL_E_HOSPITALITY_TECNICO_PACK",
+        "UNIVERSITA_EDILIZIA/IMPIANTI_SPORTIVI_EDILIZIA_PACK",
+        "UNIVERSITA_EDILIZIA/MASTER_IMPRESA_EDILE_PACK",
+        "UNIVERSITA_EDILIZIA/REAL_ESTATE_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "financial_boundary": "Market, investment, tax and insurance content requires date, territory, source and professional review."
+    },
+    {
+      "branch_id": "media.communication",
+      "label": "Media, marketing, visual communication and publication",
+      "scope": "Marketing for construction companies, visual language, content operations, media assets, rights and publication controls.",
+      "skill_ids": ["media.marketing_and_positioning", "media.visual_storytelling_and_content", "media.rights_brand_and_publication"],
+      "primary_pack_refs": [
+        "Digitale_Marketing_Pack",
+        "UNIVERSITA_EDILIZIA/DESIGN_GUSTO_TENDENZE_PACK"
+      ],
+      "state": {"implementation": "verified_structural", "knowledge": "reference_only", "review": "needs_review", "promotion": "blocked"},
+      "publication_boundary": "No automatic publication, endorsement or rights clearance is implied by the presence of a marketing or media reference."
+    }
+  ],
+  "coverage_invariants": {
+    "canonical_branches": 12,
+    "canonical_skills": 36,
+    "course_manifest_primary_assignments": 83,
+    "primary_assignment_target": "Each of the 83 non-test COURSE.yaml paths is assigned once in primary_pack_refs; this is a proposed taxonomy mapping and remains needs_review until audited.",
+    "expected_unassigned_primary_packs": 0,
+    "duplicate_skill_ids_allowed": false,
+    "promotion_without_provenance_allowed": false
+  },
+  "roadmap": [
+    {
+      "phase": "G17-baseline",
+      "state": "verified_structural",
+      "objective": "Freeze the deterministic snapshot, canonical IDs, one-owner rule and explicit status vocabulary.",
+      "deliverables": ["This JSON taxonomy", "UNI_MASTER_CATALOG_G17.md"],
+      "knowledge_posture": "Reference-only; no verified knowledge promotion."
+    },
+    {
+      "phase": "G18-resolution",
+      "state": "needs_review",
+      "objective": "Resolve the six G5 pending items, two legacy unmatched exams and 85 G14 clusters with evidence references and human decisions.",
+      "guardrails": ["Do not merge, delete or rewrite corpus content from a similarity signal alone.", "Keep public exam questions separate from answer keys."]
+    },
+    {
+      "phase": "G19-provenance",
+      "state": "blocked_until_evidence",
+      "objective": "Attach source, version/effective date, jurisdiction or period, rights/license and reviewer to each candidate skill record.",
+      "promotion_rule": "Only records passing source, provenance, expert review and evaluation gates may move from reference_only to verified_knowledge."
+    },
+    {
+      "phase": "G20-branch-expansion",
+      "state": "future",
+      "objective": "Fill missing coverage without creating parallel skills: worldwide 1800-present history grid; current Italian PA/legal versioning; controlled document templates; reproducible CAD/BIM/runtime checks; business/media rights and publication evidence.",
+      "outputs": ["Versioned skill records", "Alias registry", "Source/provenance manifest", "Evaluation sets with protected answers", "Human approval log"]
+    },
+    {
+      "phase": "G21-release",
+      "state": "blocked",
+      "objective": "Release only after structural, provenance, semantic, runtime and professional gates agree.",
+      "required_checks": ["Deterministic inventory", "Duplicate and near-duplicate review", "Source/license review", "Targeted tests", "Runtime or browser checks where applicable", "Qualified human sign-off for legal, safety, financial and professional claims"]
+    }
+  ],
+  "non_goals": [
+    "This artifact does not rewrite or deduplicate corpus files.",
+    "This artifact does not certify a law, standard, calculation, price, product, exam answer or professional document.",
+    "This artifact does not claim that all world history, Italian law, digital tools or media rights are currently covered.",
+    "This artifact does not authorize sending, payment, publication, professional filing or execution."
+  ]
+}
