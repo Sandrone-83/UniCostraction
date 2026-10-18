@@ -1,9 +1,10 @@
-"""G4 guard for answer-key, scoring, and correct-answer leakage.
+"""G4/G5 guard for answer-key, scoring, and correct-answer leakage.
 
-The guard inspects only tracked files under the public ``ESAMI`` tree and
-tracked files whose name identifies a public manifest.  It checks field names
-and data shapes, never expected answers, option letters, scores, or answer-key
-fixtures.  Documentary prose such as ``Risposte NON presenti`` remains legal.
+The guard inspects tracked files under the public ``ESAMI`` tree, coordination
+documents, corpus documents, and tracked files whose name identifies a public
+manifest.  It checks field names and data shapes, never expected answers,
+option letters, scores, or answer-key fixtures.  Documentary prose such as
+``Risposte NON presenti`` remains legal.
 
 This is a repository-boundary check, not a semantic assessment of the
 questions or their options.
@@ -15,36 +16,65 @@ import json
 import re
 import subprocess
 import unittest
+from functools import lru_cache
 from pathlib import Path
 from typing import Any, Iterable
 
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
 PUBLIC_EXAMS_PREFIX = "UNIVERSITA_EDILIZIA/ESAMI/"
+COORDINATION_PREFIX = "docs/coordination/"
+TEXT_SUFFIXES = frozenset(
+    {".csv", ".json", ".jsonl", ".md", ".rst", ".tsv", ".txt", ".yaml", ".yml"}
+)
 
 # These names describe a payload field, not ordinary prose.  In particular,
-# generic ``chiave``/``chiavi`` and plural ``risposte`` are deliberately not
-# listed because the public documentation uses them as legitimate notices.
+# generic ``chiave``/``chiavi`` are deliberately not listed because the public
+# documentation uses them as legitimate notices.  ``risposte`` is guarded as
+# a field but has an explicit absence-marker exception below.
 FORBIDDEN_FIELD_NAMES = frozenset(
     {
         "answer",
+        "answers",
         "answer_key",
         "answerkey",
         "correct_answer",
+        "correct_answers",
         "correct_option",
+        "correct_options",
         "correct_response",
+        "correct_letter",
+        "correct_letters",
         "lettera",
+        "lettere",
+        "lettera_corretta",
+        "lettere_corrette",
+        "lettera_esatta",
+        "lettere_esatte",
         "points",
         "punteggio",
+        "punteggi",
         "risposta",
+        "risposte",
         "risposta_corretta",
         "risposta_esatta",
         "risposte_corrette",
         "risposte_esatte",
         "score",
+        "scores",
         "solution",
         "soluzione",
         "solutions",
+        "soluzioni",
+        "explanation",
+        "explanations",
+        "spiegazione",
+        "spiegazioni",
+        "rationale",
+        "motivazione",
+        "justification",
+        "answer_explanation",
+        "spiegazione_risposta",
         "total_score",
         "max_score",
         "question_score",
@@ -69,33 +99,60 @@ STRUCTURED_FIELD_PATTERN = re.compile(
 )
 
 QUESTION_KEY_PATTERN = re.compile(r"^\d+$")
+DOCUMENTARY_MARKER_PATTERN = re.compile(
+    r"(?ix)^\s*(?:[-*]\s+)?(?:\|\s*)?"
+    r"(?:risposte?\s+non\s+presenti\b|"
+    r"(?:la\s+)?chiav(?:e|i)\s+(?:resta|restano|e|sono)\s+fuori\s+repository\b|"
+    r"(?:il\s+)?punteggio\s+non\s+(?:e\s+)?pubblicat[oa]\b)"
+)
 
 
-def _tracked_paths() -> list[Path]:
+@lru_cache(maxsize=1)
+def _tracked_paths() -> tuple[Path, ...]:
     result = subprocess.run(
         ["git", "ls-files", "-z"],
         cwd=REPOSITORY_ROOT,
         check=True,
         capture_output=True,
     )
-    return [
+    return tuple(
         Path(item)
         for item in result.stdout.decode("utf-8").split("\0")
         if item
-    ]
+    )
 
 
 def _is_public_manifest(path: Path) -> bool:
     return "manifest" in path.name.casefold()
 
 
-def _guarded_paths() -> list[Path]:
-    return sorted(
+def _is_coordination_document(path: Path) -> bool:
+    return path.as_posix().casefold().startswith(COORDINATION_PREFIX.casefold())
+
+
+def _is_corpus_document(path: Path) -> bool:
+    """Identify text metadata/document files in any corpus-named path.
+
+    Binary CAD assets can live beside corpus metadata.  They are deliberately
+    outside this textual structural guard; a binary/content review is a
+    separate control.
+    """
+    return (
+        any("corpus" in component.casefold() for component in path.parts)
+        and path.suffix.casefold() in TEXT_SUFFIXES
+    )
+
+
+@lru_cache(maxsize=1)
+def _guarded_paths() -> tuple[Path, ...]:
+    return tuple(sorted(
         path
         for path in _tracked_paths()
         if path.as_posix().casefold().startswith(PUBLIC_EXAMS_PREFIX.casefold())
         or _is_public_manifest(path)
-    )
+        or _is_coordination_document(path)
+        or _is_corpus_document(path)
+    ))
 
 
 def _normalise_field_name(name: str) -> str:
@@ -138,6 +195,7 @@ def _text_field_issues(text: str) -> list[str]:
     return [
         f"line {line_number}: structured answer/score marker"
         for line_number, line in enumerate(text.splitlines(), start=1)
+        if not DOCUMENTARY_MARKER_PATTERN.search(line)
         if STRUCTURED_FIELD_PATTERN.search(line)
     ]
 
@@ -177,6 +235,8 @@ class PublicExamKeyGuardG4Tests(unittest.TestCase):
             )
         )
         self.assertTrue(any(_is_public_manifest(path) for path in paths))
+        self.assertTrue(any(_is_coordination_document(path) for path in paths))
+        self.assertTrue(any(_is_corpus_document(path) for path in paths))
         self.assertEqual(len(paths), len(set(paths)))
 
     def test_tracked_exams_and_public_manifests_have_no_key_or_score_structure(self) -> None:
@@ -202,9 +262,19 @@ class PublicExamKeyGuardG4Tests(unittest.TestCase):
             self.assertEqual([], _text_field_issues(marker), marker)
 
     def test_structural_markers_are_rejected_without_expected_answers(self) -> None:
-        self.assertTrue(_text_field_issues("risposta_corretta: non pubblicata"))
-        self.assertTrue(_text_field_issues("score: non pubblicato"))
+        for marker in (
+            "risposta_corretta: non pubblicata",
+            "correct_letter: placeholder",
+            "explanation: testo esplicativo",
+            "score: non pubblicato",
+            "risposte: []",
+            "spiegazioni: []",
+        ):
+            self.assertTrue(_text_field_issues(marker), marker)
         self.assertTrue(_json_field_issues({"answer_key": None}))
+        self.assertTrue(_json_field_issues({"correct_letter": None}))
+        self.assertTrue(_json_field_issues({"explanation": None}))
+        self.assertTrue(_json_field_issues({"score": None}))
         self.assertTrue(
             _json_field_issues({"1": None, "2": None, "3": None})
         )
