@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1137 voci enciclopediche tratte da 73 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1150 voci enciclopediche tratte da 74 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -195,6 +195,8 @@
   Costruire dove si trasforma l'uva: cantine con vinificazione, barriques e stabilimenti imbottigliamento.
 - **Cargo aeroportuale, hub di merci e logistica integrata** — Cargo · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
   L'aeroporto come piattaforma logistica: terminal merci, frigo e intermodalità.
+- **Carichi e verifiche strutturali per il verde pensile** — Strutture · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde e' un carico permanente aggiuntivo che la struttura deve portare per decenni, nella condizione peggiore: substrato saturo d'acqua. La verifica strutturale preliminare e' il primo passo del progetto, non un…
 - **Carotaggi e prove di compressione** — Prove sul calcestruzzo · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Prelievo di carote di calcestruzzo e determinazione in laboratorio della resistenza a compressione: la prova di riferimento per la valutazione delle strutture esistenti. L'errore tipico è prelevare carote troppo corte o …
 - **Carpenteria metallica leggera per costruzioni a secco** — Carpenteria leggera · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -305,6 +307,8 @@
   I controsoffitti in cartongesso o pannelli minerali risolvono: abbassamenti, integrazione impianti (clima, elettrico, acustica), creazione di geometrie luminose; i sistemi a secco (pareti, controsoffitti) sono la norma n…
 - **Controsoffitto in cartongesso** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Struttura in profili sospesi con lastre di cartongesso: controsoffitti per cavi, luci, climatizzazione.
+- **Coperture a verde: estensivo, intensivo e semi-intensivo** — Fondamenti · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde e' una copertura stratificata che ospita vegetazione sopra l'impermeabilizzazione. La scelta fondamentale e' la tipologia: estensiva (substrato sottile, vegetazione autoctona resistente, poca manutenzione)…
 - **Coppo** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tegola in laterizio a canale: la copertura mediterranea per eccellenza.
 - **Cordolo in cls** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -469,6 +473,8 @@
   Nel retrofit l'involucro e' il primo cantiere: ogni kWh di fabbisogno tagliato con isolamento, serramenti e tenuta all'aria riduce la taglia e i consumi di tutto cio' che verra' dopo. 'Fabric first' significa finanziare …
 - **Facciate continue e sistemi di rivestimento prefabbricati** — Facciate · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La facciata come sistema industrializzato: pannellature leggere, ventilate e continue.
+- **Facciate vegetali: rampicanti, feltri e cassette** — Facciate · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  La facciata vegetale porta il verde in verticale: dai rampicanti autoctoni con griglie alle pareti verdi coltivate con sistemi idroponici a feltro o cassette. E' l'intervento che migliora microclima e immagine degli edif…
 - **Ferrovie e linee ad alta velocità** — Ferrovie · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   La rotaia: geometria, sovrastruttura, segnalamento e le gallerie dell'alta velocità.
 - **Ferrovie metropolitane e passanti urbani** — Integrazione urbana · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -535,6 +541,8 @@
   Il quadro regolatorio e gestionale dello scalo: certificazione, SMS e piano aeroportuale.
 - **Gestione energetica e load control** — Energia · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Monitorare e gestire i carichi elettrici: produzione FV, consumi, priorità, wallbox.
+- **Gestione idrica dei tetti verdi: drenaggio, accumulo e irrigazione** — Idraulica · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  L'acqua e' la risorsa e il rischio del tetto verde: il sistema deve trattenere l'acqua per la vegetazione, smaltire le piene senza ristagni e integrare con irrigazione nelle siccita'. Un tetto verde ben fatto e' anche un…
 - **Gestione illuminazione avanzata** — Illuminazione smart · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Controllo luci: accensioni sceniche, dimmer, presenza, luce naturale integrata (daylight harvesting).
 - **Getto e vibratura del calcestruzzo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -617,6 +625,8 @@
   Il design che parte dall'utente: ricerca, empatia, test.
 
 ## I
+- **I benefici del verde pensile: acqua, clima, energia e biodiversita'** — Prestazioni · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde restituisce prestazioni misurabili: laminazione delle piene, mitigazione dell'isola di calore, protezione dell'impermeabilizzazione, habitat. Presentarle con ordini di grandezza onesti (non slogan) e' cio'…
 - **I biocementi e i materiali da micelio: la costruzione naturale** — Biocementi · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   La frontiera bio: i biocementi (batteri che induriscono la sabbia precipitando carbonato di calcio: il 'cemento' lo fanno i microbi), i mattoni da micelio (il micelio dei funghi cresce su scarti agricoli e li lega in blo…
 - **I blocchi in cls alleggerito e in AAC (gasbeton): densità, isolamento e posa a colla** — Murature · corso: *Murature, intonaci e finiture murali* (`MURATURE_INTONACI_E_FINITURE_PACK`)
@@ -773,6 +783,8 @@
   Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano prefabbricati (tagliati, forati, numerati), la gru li posa, le squadre avvitano le connessioni; il tempo si dimezza, il cantiere resta pulit…
 - **Il cantiere del retrofit in edificio abitato** — Cantiere · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   La maggior parte dei retrofit si esegue con le persone dentro casa: rumore, polvere, finestre aperte d'inverno, impianti spenti per ore. Organizzare il cantiere 'abitato' e' una disciplina a se' che decide la riuscita co…
+- **Il cantiere del tetto verde: sequenza, stagionalita' e protezioni** — Cantiere · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  La posa del tetto verde e' un cantiere di precisione in quota: ogni strato copre il precedente per sempre, la membrana va protetta da tutto cio' che segue e la stagione decide quando si posa la vegetazione. L'organizzazi…
 - **Il cantiere di risanamento e i rifiuti: classificazione, formulari e costi reali** — Rifiuti · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Ogni cantiere di risanamento produce tonnellate di rifiuti: mattoni, intonaci, coperture, e talvolta rifiuti speciali (amianto, piombo, idrocarburi). La gestione corretta è un obbligo di legge con formulari di identifica…
 - **Il capitolato di interior: documento contrattuale** — Capitolato interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -1149,6 +1161,8 @@
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
 - **L'economia del retrofit: costi, ritorni e accesso agli incentivi** — Economia · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Il retrofit profondo si vende con i numeri: costo per intervento, risparmio annuo atteso, tempo di ritorno e mappa degli incentivi cumulabili. Il tecnico che padroneggia il conto economico trasforma un preventivo in un p…
+- **L'economia del verde pensile: costi, incentivi e valore** — Economia · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde si decide con il conto economico completo: costo di costruzione, manutenzione annua, benefici monetizzabili (idraulica, durata della membrana, comfort) e incentivi disponibili. E' un investimento a ritorno…
 - **L'economia della circolarita' in cantiere: conti, mercati e barriere** — Economia · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   L'edilizia circolare regge se i conti tornano: costi evitati di discarica e di acquisto, ricavi da materiali recuperati, punteggi in gara, valore dell'asset. Le barriere sono logistiche, documentali e di mercato: conosce…
 - **L'economia di un campo FV: CAPEX, OPEX, LCOE e l'esempio del MWp** — Economia di progetto · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -1423,6 +1437,8 @@
   Un campo FV rende per 30 anni: la scelta del sito è la decisione irreversibile. Irraggiamento, orografia, terreno, vincoli e polveri determinano più della metà della differenza di rendimento tra un buon sito e un cattivo…
 - **La scelta delle essenze: alberi, arbusti, prati per il clima italiano** — Essenze · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
   La scelta delle piante è la decisione che vale decenni: gli alberi da fusto alto per le strade (platano, tiglio, frassino, cipresso? No: cipresso non da fusto alto urbano), gli arbusti per le aiuole (lauroceraso, viburno…
+- **La scelta delle specie: dal tappeto a sedum al giardino pensile** — Vegetazione · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  La vegetazione del tetto verde vive in condizioni estreme: substrato sottile, vento, sole battente, gelo. La scelta delle specie e' agronomia applicata all'edilizia: piante sbagliate muoiono in una stagione e trasformano…
 - **La segnaletica di sicurezza e i controlli documentali** — Segnaletica · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   La segnaletica di sicurezza (UNI EN ISO 7010) guida l'evacuazione e l'azione in emergenza: cartelli fotoluminescenti o illuminati (uscite, estintori, idranti, punto di ritrovo), planimetrie di evacuazione affisse, percor…
 - **La sicurezza antincendio nelle scuole** — Sicurezza · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
@@ -1441,6 +1457,8 @@
   Come si fa una stima credibile: ricerca comparazioni, correzioni, conclusione.
 - **La storia delle infrastrutture italiane: dalla Roma antica al TAV** — Storia infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   2500 anni di opere pubbliche italiane: cosa resta, cosa abbiamo imparato.
+- **La stratigrafia del tetto verde: strato per strato** — Tecnologia · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde funziona come un sistema: ogni strato ha un compito e l'errore di uno compromette tutti. Dal basso verso l'alto: supporto, impermeabilizzazione anti-radice, protezione, drenaggio/accumulo, filtro, substrat…
 - **La tensione efficace di Terzaghi: l'acqua che 'porta' l'edificio** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   La tensione efficace σ' = σ - u (Terzaghi, 1936) è il principio base della meccanica delle terre: la resistenza e la deformazione del terreno dipendono dalla parte di sforzo non portata dall'acqua nei vuoti.
 - **La termofisica dell'involucro: conduzione e trasmittanza** — Termofisica base · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
@@ -1451,6 +1469,8 @@
   La torre in ferro puddellato di 300 m: l'emblema dell'ingegneria del XIX secolo.
 - **La tutela dell'operatore: riserve, verbali, perizie** — Tutela operatore · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
   L'impresa e il professionista devono proteggersi DURANTE il rapporto: le riserve scritte (entro 24-48 ore dall'evento), i verbali di sopralluogo firmati, le perizie asseverate nei casi controversi, la documentazione foto…
+- **La UNI 11235 e la progettazione delle coperture a verde** — Progettazione · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  La UNI 11235 e' la norma italiana di riferimento per le coperture a verde: definisce requisiti, strati, controlli e collaudo. Progettare 'secondo UNI 11235' e' la dicitura che distingue un tetto verde professionale da un…
 - **La valutazione immobiliare: i tre metodi** — Valutazione · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   La stima professionale usa tre metodi: comparativo (da immobili simili venduti — il metodo principe per residenziale), costruttivo (valore = terreno + costo di ricostruzione - deperimento, utile per immobili speciali), r…
 - **La vasca da costruzione: struttura, tenuta, forma** — Vasche · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
@@ -1739,6 +1759,8 @@
   Preservazione della geometria del binario e rinnovo programmato degli elementi usurabili.
 - **Manutenzione della pietra naturale: pulizia, decalcificazione e rigenerazione della lucidatura** — Manutenzione · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   La pietra naturale invecchia con dignità se mantenuta: pulizia ordinaria con detergenti neutri, decalcificazione periodica dei depositi calcarei su superfici ruvide o in esterno, e rigenerazione della lucidatura quando i…
+- **Manutenzione e collaudo: il tetto verde nel tempo** — Manutenzione · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde e' un organismo: richiede manutenzione minima ma vera, e il suo collaudo iniziale decide i decenni seguenti. Il piano di manutenzione e' parte del progetto (UNI 11235) e la sua assenza e' il primo sintomo …
 - **Manutenzione e gestione del patrimonio infrastrutturale** — Gestione opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere invecchiano: monitoraggio, manutenzione programmata, digitalizzazione del patrimonio.
 - **Manutenzione programmata e risparmio energetico** — Gestione e sicurezza · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
@@ -2233,6 +2255,8 @@
   Controllo climatizzazione per zone con presenza, finestre aperte, apprendimento orari.
 - **Terreno alleggerito (argilla espansa)** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Argilla espansa in granuli (leca): riempimento leggero e drenante per coperture, pavimenti e controfforme.
+- **Tetti verdi, fotovoltaico e biosolare: l'integrazione in copertura** — Integrazione · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  La copertura e' la risorsa piu' contesa dell'edificio: verde, fotovoltaico, solare termico, antenne, camini. L'integrazione biosolare (tetto verde + FV) e' la soluzione che li fa convivere, con benefici reciproci reali e…
 - **Tipologia edilizia: residenza, ufficio, servizi, industria** — Tipologia · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Le forme dell'edilizia secondo funzione: regole, dimensioni, standard.
 - **Tipologie di impianti sportivi: dall'impianto scoperto al palazzetto dello sport** — Tipologie e classificazione · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
@@ -2287,6 +2311,8 @@
   Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifi…
 - **Ventilazione ambienti di lavoro e capannoni** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Aspirazione e ricambio nei luoghi di lavoro: salute obbligatoria e spesso progettata male.
+- **Verde pensile tra edilizia e vincoli: pratiche e regolamenti** — Pratiche · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
+  Il tetto verde e' quasi sempre intervento semplice dal punto di vista edilizio, ma non sempre: incidenza strutturale, altezze, vincoli paesaggistici e regolamenti comunali (che talvolta lo incentivano) decidono la pratic…
 - **Verifica in opera: luxmetro, accettazione e documentazione** — Controlli · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   La fase finale e' la verifica: misurare i lux reali a impianto completato e confrontarli con la relazione di calcolo, poi archiviare la documentazione.
 - **Verifiche, manutenzione e adempimenti degli apparecchi di sollevamento** — Adempimenti · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)

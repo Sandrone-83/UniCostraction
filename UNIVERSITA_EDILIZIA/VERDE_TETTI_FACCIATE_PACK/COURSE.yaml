@@ -1,0 +1,9 @@
+corso: "Tetti verdi e facciate vegetali"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L2-L3"
+schede: 13
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "UNI 11235 (coperture a verde), UNI EN 13948 (resistenza alla penetrazione delle radici), D.M. 17/1/2018 (NTC), Circolare C.S.LL.PP. n. 7/2019, UNI EN 1991-1-4 (vento), DPR 380/2001, D.Lgs 42/2004 (vincoli), D.Lgs 81/2008, D.M. 37/2008, CEI 0-21, UNI/TS 11300, regolamenti edilizi comunali (da verificare localmente)"
+nota_metodologica: "Verde pensile estensivo/intensivo, stratigrafie, carichi strutturali, facciate vegetali, gestione idrica, vegetazione, pratiche, cantiere, manutenzione, prestazioni, economia, integrazione biosolare. Norme citate solo di consolidata certezza; edizioni UNI da verificare nella versione vigente; incentivi rinviati al pack Energetica e Incentivi con regola di verifica annuale su fonte primaria; benefici prestazionali presentati come ordini di grandezza di letteratura, mai come garanzie."

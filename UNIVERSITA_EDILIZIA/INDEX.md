@@ -225,3 +225,10 @@ corrente e [CHANGELOG.md](CHANGELOG.md) per il registro completo delle verifiche
 - Verifica incentivi 18/10/2026 (fonti: stampa tecnica concordante — bibus.acca.it, edilizia.com, kilowattchiaro.it, reonic.com): correttivo Conto Termico 3.0 ancora in itinere (convocazione Conferenza Stato-Regioni protocollata il 14/10/2026): scheda già corretta, nessuna modifica; Reddito Energetico: bando 2026 ancora non pubblicato (si attende decreto di rifinanziamento MASE), precisata la durata dello sportello 2025 (13-23 maggio 2025, fondi esauriti in pochi giorni — prima era scritto «quota Sud esaurita in giornata») — dettaglio in CHANGELOG.md, Giro Z
 - Nuovo esame: ESAMI/RETROFIT_NZEB (250 domande), chiavi riservate fuori repository
 - Totale repository: 72 pack, 975 schede, 74 esami
+
+## Giro AA — tetti verdi e facciate vegetali + verifica incentivi (2026-10-19, bozza post-v1.3.0, NESSUN tag applicato)
+
+- VERDE_TETTI_FACCIATE_PACK (13 schede, L2-L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE) — nuovo corso: tipologie estensivo/intensivo/semi-intensivo, stratigrafia secondo UNI 11235, carichi e verifiche strutturali (NTC, peso a saturazione idrica), facciate vegetali (rampicanti guidati, feltri idroponici, cassette), gestione idrica e laminazione, scelta delle specie, pratiche edilizie e vincoli (DPR 380/2001, D.Lgs 42/2004), cantiere con collaudo di tenuta, manutenzione e piano di gestione, benefici misurabili (idraulica, clima, durata membrana), economia completa, integrazione biosolare con fotovoltaico
+- Verifica incentivi 19/10/2026 (fonte istituzionale via stampa tecnica: edilizia.com del 16/10/2026 che cita la convocazione della Presidenza del Consiglio): precisata la nota sul correttivo Conto Termico 3.0 — lo schema è all'ordine del giorno della Conferenza Unificata del 22/10/2026 (punto 3, intesa ex art. 10 co. 2 D.Lgs 199/2021), NON ancora superata né pubblicata; la formulazione precedente («superata la Conferenza Stato-Regioni») era imprecisa — dettaglio in CHANGELOG.md, Giro AA
+- Nuovo esame: ESAMI/VERDE_TETTI_FACCIATE (250 domande), chiavi riservate fuori repository
+- Totale repository: 73 pack, 988 schede, 75 esami

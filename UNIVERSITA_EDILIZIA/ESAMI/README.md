@@ -84,6 +84,7 @@ di apprendimento per settore.
 | STRUTTURE | ✅ 300 domande | chiavi: jsonl |
 | TETTI_COPERTURE | ✅ 220 domande | chiavi: jsonl |
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
+| VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
 Copertura: esame per ognuno dei 66 corsi della repository. I tre esami «legacy» dei primi giri

@@ -429,3 +429,20 @@ Righe aperte nel giro:
 - Reddito Energetico: pubblicazione del decreto di rifinanziamento/bando 2026 da verificare sul portale GSE a ogni aggiornamento.
 - EPBD (UE) 2024/1275: recepimento nazionale e decreti attuativi (GWP ciclo di vita, predisposizione EV) da verificare.
 - CER: riscontro su documento GSE/MASE primario dei termini del contributo PNRR chiuso (30/11/2025) alla prossima verifica.
+
+## Giro AA — 2026-10-19, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente (correttivo CT 3.0) con 1 correzione di precisione; nuovo pack VERDE_TETTI_FACCIATE_PACK (13 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AA1 | Correzione di precisione | Scheda «Il Conto Termico 3.0», nota: «un decreto correttivo del D.M. 7/8/2025 e' in itinere (superata la Conferenza Stato-Regioni a ottobre 2026…)» | «lo schema di modifica e' all'ordine del giorno della Conferenza Unificata del 22 ottobre 2026 (convocazione protocollata il 14/10/2026, intesa ex art. 10 co. 2 D.Lgs 199/2021). L'iscrizione all'ordine del giorno NON equivale a regole gia' operative: contenuti, esito e data di entrata in vigore da verificare sul testo pubblicato in GU e sulle Regole Applicative GSE aggiornate» | edilizia.com del 16/10/2026, che documenta la convocazione ufficiale della Presidenza del Consiglio (Conferenza Unificata 22/10/2026, punto 3) — verifica web 19/10/2026 |
+| AA2 | Nuovo pack | — | VERDE_TETTI_FACCIATE_PACK (13 schede, L2-L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): tipologie, stratigrafia UNI 11235, carichi a saturazione (NTC), facciate vegetali, gestione idrica, specie, pratiche e vincoli, cantiere con collaudo di tenuta, manutenzione, benefici con ordini di grandezza prudenti, economia, integrazione biosolare FV. Norme citate solo di consolidata certezza (UNI 11235, UNI EN 13948, NTC, DPR 380/2001, D.Lgs 42/2004); benefici mai presentati come garanzie | Norme di consolidata certezza; regolamenti comunali e incentivi marcati da verificare |
+| AA3 | Nuovo esame | — | ESAMI/VERDE_TETTI_FACCIATE: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored) | build_esami_giro5.py |
+| AA4 | Validazione | — | Validazione globale: 73 pack, 988 schede, 75 esami; JSON e 11 chiavi OK su tutte le righe, 0 refusi, COURSE.yaml coerenti | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: esito della Conferenza Unificata del 22/10/2026 e pubblicazione del correttivo in GU: da verificare alla prossima esecuzione, con eventuale aggiornamento delle schede 1-3 di ENERGETICA_INCENTIVI_PACK.
+- Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: recepimento nazionale da verificare.
+- CER: riscontro su fonte primaria GSE/MASE dei termini PNRR chiusi.
