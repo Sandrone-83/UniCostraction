@@ -55,6 +55,8 @@ Conservare rilievo, foto con data/posizione, planimetria e revisione, schemi di 
 
 ## Fonti ufficiali e diritti
 
+I contenuti della skill sono originali e sintetici: rispettare copyright, licenze, termini d'uso dei portali e diritti sugli asset; non redistribuire testi o allegati protetti.
+
 - [D.Lgs. 285/1992, art. 21, su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A1992-04-30%3B285~art21%21vig=): opere, depositi e cantieri stradali; `official_public_legal_text_verify_current_consolidation`.
 - [D.P.R. 495/1992, art. 30, su Normattiva](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=30&atto.codiceRedazionale=092G0531&atto.dataPubblicazioneGazzetta=1992-12-28): segnalamento temporaneo e aggiornamenti; `official_public_legal_text_verify_current_consolidation`.
 - [D.M. 10 luglio 2002 in Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2002/09/26/02A09965/sg): disciplinare tecnico e schemi per categoria di strada; `official_public_legal_text_verify_current_consolidation`.

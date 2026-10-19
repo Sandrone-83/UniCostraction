@@ -55,6 +55,8 @@ Conservare origine del rifiuto, schede di processo, analisi, fotografie dei cont
 
 ## Fonti ufficiali e diritti
 
+I contenuti della skill sono originali e sintetici: rispettare copyright, licenze, termini d'uso dei portali e diritti sugli asset; non redistribuire testi o allegati protetti.
+
 - [D.Lgs. 152/2006 su Normattiva](https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511): Parte quarta e artt. 188-bis, 189, 190, 193; `official_public_legal_text_verify_current_consolidation`.
 - [Regolamento RENTRI e D.M. 59/2023](https://www.rentri.gov.it/normative/regolamento-rentri): registri, FIR, iscrizione e trasmissione; `official_reference_only_no_text_reproduced` con verifica degli aggiornamenti.
 - [Portale RENTRI](https://www.rentri.gov.it/): servizi, modelli, verifiche e calendario; `official_reference_only_no_text_reproduced`.

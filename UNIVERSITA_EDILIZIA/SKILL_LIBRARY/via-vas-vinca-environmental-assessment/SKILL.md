@@ -55,6 +55,8 @@ Per ogni dato indicare ente autore, titolo, URL o protocollo, data di pubblicazi
 
 ## Fonti ufficiali e diritti
 
+I contenuti della skill sono originali e sintetici: rispettare copyright, licenze, termini d'uso dei portali e diritti sugli asset; non redistribuire testi o allegati protetti.
+
 - [D.Lgs. 152/2006 su Normattiva](https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511): Parte seconda, VIA e VAS; `official_public_legal_text_verify_current_consolidation`.
 - [D.P.R. 357/1997 su Normattiva](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=097G0390&atto.dataPubblicazioneGazzetta=1997-10-23&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=&tipoDettaglio=originario&title=lbl.dettaglioAtto): VIncA e Natura 2000; `official_public_legal_text_verify_current_consolidation`.
 - [Linee guida nazionali VIncA del MASE](https://www.mase.gov.it/sites/default/files/archivio/allegati/rete_natura_2000/linee_guida_nazionali_valutazione_di_incidenza_2019.pdf): integrazione procedurale e istruzioni; `official_reference_only_no_text_reproduced`.

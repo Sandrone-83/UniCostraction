@@ -53,6 +53,8 @@ Conservare versione di piante e stratigrafie, schede tecniche, rapporti di labor
 
 ## Fonti ufficiali e diritti
 
+I contenuti della skill sono originali e sintetici: rispettare copyright, licenze, termini d'uso dei portali e diritti sugli asset; non redistribuire testi o allegati protetti.
+
 - [Legge 447/1995 su Normattiva](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=095G0477&atto.dataPubblicazioneGazzetta=1995-10-30&bloccoAggiornamentoBreadCrumb=true&dataVigenza=&generaTabId=true&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto): legge quadro sull'inquinamento acustico; `official_public_legal_text_verify_current_consolidation`.
 - [DPCM 5 dicembre 1997 in Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/1997/12/22/97A10190/sg): requisiti acustici passivi degli edifici; `official_public_legal_text_verify_current_consolidation`.
 - [D.Lgs. 194/2005 su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2005%3B194): mappatura e gestione del rumore ambientale, solo quando il caso la richiama; `official_public_legal_text_verify_current_consolidation`.

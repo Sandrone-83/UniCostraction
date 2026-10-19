@@ -60,6 +60,8 @@ Per ogni dato conservare titolo del documento, autore o soggetto che lo ha forni
 
 ## Fonti ufficiali e diritti
 
+I contenuti della skill sono originali e sintetici: rispettare copyright, licenze, termini d'uso dei portali e diritti sugli asset; non redistribuire testi o allegati protetti.
+
 - [D.Lgs. 192/2005 su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2005%3B192~art1): quadro nazionale della prestazione energetica; `official_public_legal_text_verify_current_consolidation`.
 - [D.P.R. 75/2013 su Normattiva](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=13G00115&atto.dataPubblicazioneGazzetta=2013-06-27): qualificazione e indipendenza del certificatore; `official_public_legal_text_verify_current_consolidation`.
 - [D.M. 26 giugno 2015 e linee guida APE](https://www.apecampania.enea.it/doc/dm_26062015.pdf): linee guida, format e metodi; `official_public_legal_text_verify_current_consolidation` con verifica della vigenza regionale/nazionale.
