@@ -1,9 +1,72 @@
-# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28/G29/G30 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28/G29/G30/G31 — advanced facets, release coverage and governance
 
 Status: roadmap-only, release=blocked, G30 authority-boundary governance
 observed on 2026-10-19 in the requested codex/uni-inventory worktree. G30 is
 an administrative-pathway and competent-handoff layer over G29; it does not
 implement, certify, file, protocol, authorize or promote any domain facet.
+
+## G31 - sector boundaries for certifications, environmental assessments, waste and road safety
+
+G31 adds five non-redundant coordination areas. The first four constrain the meaning of sector-specific outputs; the fifth routes cross-sector risk to competent review. This is a source/licence/currentness/professional-boundary/runtime governance layer, not a technical correctness finding.
+
+### Explicit sector limits
+
+| Sector | Coordination-only meaning | Explicit limit | Required boundary |
+|---|---|---|---|
+| Certifications | Source-bounded evidence map, checklist, draft certificate fields or review questions | Never a certificate, attestation, conformity declaration, certification decision or professional sign-off | Competent certifier and, where applicable, the responsible authority/process |
+| Environmental assessments | Research notes, source-bounded indicators, screening inputs, issue lists or draft assessment structure | Never an official environmental assessment, approval, permit, compliance conclusion or environmental authorization | Competent environmental professional and responsible authority |
+| Waste | Source-bounded inventory, candidate classification, handling/traceability checklist or draft record | Never an authoritative waste classification, transport/handling authorization, acceptance, official register or compliance decision | Competent waste professional/operator and responsible authority |
+| Road safety | Observations, risk hypotheses, inspection prompts, evidence map or draft analysis | Never an official road-safety assessment, traffic/road authorization, safety clearance, order or compliance sign-off | Competent road-safety professional and responsible road authority |
+
+Across all four sectors, a generated report, checklist, calculation, preview, hash, commit or draft package remains non-authoritative. It cannot create legal effect, professional conformity, authority acceptance or a certification/assessment/authorization status. G31 therefore preserves the G29 claim boundary and G30 competent handoff while making these four sector limits explicit.
+
+### G31 areas and non-redundancy
+
+| Area | Scope | Why it is not a duplicate | Required evidence before any release candidate |
+|---|---|---|---|
+| `g31.certification_boundary` | Certification-like outputs, attestations and conformity language | Specializes the generic G29/G30 boundary around certification status and sign-off | Identified source, licence decision, currentness check, qualified review path and runtime negative test |
+| `g31.environmental_assessment_boundary` | Environmental screening, indicators, assessment drafts and approval language | Specializes the boundary around environmental assessment/approval; it does not decide environmental correctness | Source snapshot, licence/currentness record, professional/authority handoff and runtime negative test |
+| `g31.waste_boundary` | Waste inventory, candidate classification, handling, transport and traceability | Adds lifecycle/traceability constraints distinct from the general administrative pathway | Source and licence record, currentness check, competent review and blocked-action runtime test |
+| `g31.road_safety_boundary` | Road-safety observations, risks, inspections and authority-facing drafts | Separates safety observations from official road/traffic decisions and permits | Source/currentness evidence, licence gate, competent road-authority route and runtime negative test |
+| `g31.competent_review_escalation` | Cross-sector routing, review ownership and fail-closed escalation | Specializes G30 handoff for the four high-consequence sectors; it does not replace the handoff contract | Named reviewer/authority role, source/licence/currentness evidence, runtime escalation trace and reversible package |
+
+### G31 gates
+
+Every area must pass all five gates before it can be considered for a release candidate. A gate is a prerequisite, not evidence that the underlying technical, legal, environmental, waste or safety conclusion is correct.
+
+1. **Source gate:** every material statement points to an identified local source or is marked as an unresolved question; no unsupported sector conclusion is promoted.
+2. **Licence gate:** source access, reuse, transformation and publication status are recorded; unknown or incompatible terms block release.
+3. **Currentness gate:** the source snapshot/date, applicable version and re-check trigger are recorded; stale or unknown currentness blocks release.
+4. **Professional-boundary gate:** certification, environmental, waste and road-safety outputs are labelled research/draft/coordination-only and require the competent professional/authority for any official act.
+5. **Runtime gate:** the negative paths are exercised so the runtime refuses or routes certification, environmental, waste and road-safety claims as official outcomes; structural text/JSON checks do not substitute for runtime evidence.
+
+### G31 coverage matrix
+
+`existing` means a prior local governance contract is present; `planned` means G31 adds the scoped work; `blocked` means no authoritative release is allowed without all gates; `verified_structural` means only that the coordination artifact contains the required fields and relationships, not that the sector output is technically correct.
+
+| G31 area | existing | planned | blocked | verified_structural | Release interpretation |
+|---|---:|---:|---:|---:|---|
+| `g31.certification_boundary` | true | true | true | true | Draft evidence/checklist only; certification status remains external |
+| `g31.environmental_assessment_boundary` | true | true | true | true | Research/screening structure only; official assessment/approval remains external |
+| `g31.waste_boundary` | true | true | true | true | Inventory/traceability draft only; authoritative classification/authorization remains external |
+| `g31.road_safety_boundary` | true | true | true | true | Observation/risk draft only; road-safety decision remains external |
+| `g31.competent_review_escalation` | true | true | true | true | Routing package only; competent review and authority action remain external |
+
+### G31 reversible release criteria
+
+Release remains `blocked` unless all criteria are evidenced. A release candidate must be reversible: it is an append-only coordination record or draft package with an owner, source/licence/currentness metadata, explicit non-authoritative labels, a rollback/reference identifier and no automatic filing, certification, authorization or external action.
+
+- R31.1: all five G31 areas are present with distinct scope and non-redundancy rationale.
+- R31.2: the certification limit is visible wherever certificate, attestation, conformity or sign-off language could appear.
+- R31.3: the environmental-assessment limit is visible wherever screening, assessment, approval, permit or compliance language could appear.
+- R31.4: the waste limit is visible wherever classification, handling, transport, traceability, acceptance or authorization language could appear.
+- R31.5: the road-safety limit is visible wherever safety assessment, clearance, traffic/road authorization or compliance language could appear.
+- R31.6: source, licence and currentness evidence exists for every material claim or the item is explicitly unresolved.
+- R31.7: professional-boundary ownership and competent authority/professional escalation are explicit for each sector.
+- R31.8: runtime tests demonstrate refusal/routing of official-sector claims; structural verification is labelled separately.
+- R31.9: the package can be withdrawn or superseded without changing corpus or QA content and without asserting technical correctness.
+
+Any missing source, licence decision, currentness record, professional owner or runtime negative-path evidence keeps the area `blocked`. A failed or stale gate must be recorded as a blocker, not silently downgraded to `verified_structural`.
 
 ## G30 - administrative pathways and competent-authority boundary
 

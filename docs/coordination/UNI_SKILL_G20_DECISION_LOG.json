@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g30.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_g29_g30_authority_boundary_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency, G28 research/draft/official-act boundary, G29 financial/legal/administrative claim boundaries and G30 administrative-pathway/competent-authority matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g31.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_g29_g30_g31_sector_boundary_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency, G28 research/draft/official-act boundary, G29 financial/legal/administrative claim boundaries, G30 administrative-pathway/competent-authority matrix and G31 certification/environmental/waste/road-safety boundaries for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G30 administrative-pathway and competent-authority extension over G29 claim boundaries, G28 state boundaries, G27 thresholds/conflict/transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G31 certification/environmental/waste/road-safety sector-boundary extension over G30 administrative pathways, G29 claim boundaries, G28 state boundaries, G27 thresholds/conflict/transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -2319,6 +2319,138 @@
       "pass_when": "Release is scoped, reversible and human-controlled, and creates no automatic filing, protocol, payment, publication, certification, signing, authorization, administrative effect or professional approval.",
       "does_not_prove": "Technical, legal, administrative or professional correctness, effect, acceptance or official status."
     }
+  ],
+  "g31_claim_limits": {
+    "certifications": {
+      "coordination_meaning": "Source-bounded evidence map, checklist, draft certificate fields or review questions.",
+      "explicit_limit": "Not a certificate, attestation, conformity declaration, certification decision or professional sign-off.",
+      "required_boundary": "Competent certifier and, where applicable, the responsible authority/process.",
+      "release_state": "blocked"
+    },
+    "environmental_assessments": {
+      "coordination_meaning": "Research notes, source-bounded indicators, screening inputs, issue lists or draft assessment structure.",
+      "explicit_limit": "Not an official environmental assessment, approval, permit, compliance conclusion or environmental authorization.",
+      "required_boundary": "Competent environmental professional and responsible authority.",
+      "release_state": "blocked"
+    },
+    "waste": {
+      "coordination_meaning": "Source-bounded inventory, candidate classification, handling/traceability checklist or draft record.",
+      "explicit_limit": "Not an authoritative waste classification, transport/handling authorization, acceptance, official register or compliance decision.",
+      "required_boundary": "Competent waste professional/operator and responsible authority.",
+      "release_state": "blocked"
+    },
+    "road_safety": {
+      "coordination_meaning": "Observations, risk hypotheses, inspection prompts, evidence map or draft analysis.",
+      "explicit_limit": "Not an official road-safety assessment, traffic/road authorization, safety clearance, order or compliance sign-off.",
+      "required_boundary": "Competent road-safety professional and responsible road authority.",
+      "release_state": "blocked"
+    },
+    "competent_review": {
+      "coordination_meaning": "Cross-sector routing, review ownership and fail-closed escalation.",
+      "explicit_limit": "A routing package does not transfer duty, sign, certify, file, authorize or establish professional correctness.",
+      "required_boundary": "Named competent professional and/or responsible authority for the exact sector and jurisdiction.",
+      "release_state": "blocked"
+    },
+    "global_boundary": "Report, checklist, calculation, preview, hash, commit or draft package cannot create legal effect, professional conformity, authority acceptance or a certification/assessment/authorization status."
+  },
+  "g31_areas": [
+    {
+      "area_id": "g31.certification_boundary",
+      "label": "Certification boundary",
+      "purpose": "Bound certification-like outputs, attestations and conformity language to source-bounded research or draft review material.",
+      "non_redundant_boundary": "Specializes the generic G29/G30 boundary around certification status and sign-off; it does not issue or simulate a certification.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Certification-language inventory", "Source/licence/currentness record", "Competent certifier review route", "Official-claim refusal exercise"],
+      "source_gate": "Every certification-like statement is linked to a local source or marked unresolved; source interpretation is separated from the draft wording.",
+      "licence_gate": "Certificate forms, marks, templates, extracts, attachments and derivatives have explicit access, reuse and disclosure decisions.",
+      "currentness_gate": "Applicable scheme/version, jurisdiction, date, validity horizon, supersession and revalidation trigger are recorded.",
+      "professional_boundary": "Only the competent certifier/process can establish certification, attestation, conformity or sign-off; generated material remains draft.",
+      "runtime_gate": "Runtime refuses or routes certificate, attestation, conformity and sign-off claims; no automatic signature, issuance or publication.",
+      "blocked_when": ["Source, licence or currentness is unresolved", "Competent certifier/process is not identified", "Draft is presented as certificate, conformity or sign-off"]
+    },
+    {
+      "area_id": "g31.environmental_assessment_boundary",
+      "label": "Environmental assessment boundary",
+      "purpose": "Bound environmental screening, indicators, assessment drafts and approval language without asserting environmental correctness or official effect.",
+      "non_redundant_boundary": "Specializes G29/G30 claims for environmental assessment and approval; it does not decide an assessment, permit or authorization.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Indicator/source map", "Licence and currentness snapshot", "Environmental professional/authority handoff", "Approval-claim refusal exercise"],
+      "source_gate": "Indicators, assumptions, context and unresolved questions are source-linked; no environmental conclusion is inferred from a checklist or draft.",
+      "licence_gate": "Environmental datasets, maps, reports, forms, excerpts and derivatives have explicit use and publication decisions.",
+      "currentness_gate": "Dataset/report version, observation or effective date, jurisdiction, validity horizon and re-check trigger are recorded.",
+      "professional_boundary": "A competent environmental professional and responsible authority remain necessary for any official assessment, approval, permit or compliance conclusion.",
+      "runtime_gate": "Runtime labels screening as draft and refuses or routes assessment, approval, permit and compliance claims; no automatic filing or authorization.",
+      "blocked_when": ["Environmental source/context or currentness is missing", "Professional/authority route is undefined", "Draft is presented as official assessment, approval or compliance"]
+    },
+    {
+      "area_id": "g31.waste_boundary",
+      "label": "Waste boundary",
+      "purpose": "Bound waste inventory, candidate classification, handling, transport and traceability material to research or draft coordination.",
+      "non_redundant_boundary": "Adds lifecycle and traceability constraints distinct from the general administrative pathway; it does not establish an authoritative waste status or authorization.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Waste inventory and evidence map", "Licence/currentness record", "Competent operator/professional review route", "Blocked transport/authorization exercise"],
+      "source_gate": "Material, context, candidate classification, handling assumptions and traceability questions are linked to identified sources or marked unresolved.",
+      "licence_gate": "Registers, transport records, forms, datasets, extracts and attachments have explicit access, reuse and disclosure decisions.",
+      "currentness_gate": "Applicable source/version, jurisdiction, date, status, validity horizon, supersession and re-check trigger are recorded.",
+      "professional_boundary": "Competent waste professional/operator and responsible authority remain necessary for classification, handling, transport, acceptance or authorization decisions.",
+      "runtime_gate": "Runtime blocks or routes authoritative classification, acceptance, transport/handling authorization and official-record claims; no automatic external action.",
+      "blocked_when": ["Source, licence or currentness is unresolved", "Competent waste route is missing", "Draft is presented as authoritative classification, acceptance or authorization"]
+    },
+    {
+      "area_id": "g31.road_safety_boundary",
+      "label": "Road-safety boundary",
+      "purpose": "Bound road-safety observations, risk hypotheses, inspections and authority-facing drafts without claiming an official safety decision.",
+      "non_redundant_boundary": "Separates safety observations from official road/traffic decisions, permits and compliance sign-off; it does not certify road safety.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Observation/risk evidence map", "Source/licence/currentness snapshot", "Road-safety professional/authority route", "Official-decision refusal exercise"],
+      "source_gate": "Observation, location/context, assumptions, risk hypothesis and unresolved questions are linked to identified sources or marked unresolved.",
+      "licence_gate": "Maps, imagery, inspection material, reports, forms and derivatives have explicit use, reuse and publication decisions.",
+      "currentness_gate": "Observation date, map/report/version, jurisdiction, temporary status and re-check trigger are recorded.",
+      "professional_boundary": "Competent road-safety professional and responsible road authority remain necessary for assessment, clearance, order, authorization or compliance sign-off.",
+      "runtime_gate": "Runtime distinguishes observation/risk draft from official assessment, clearance, traffic/road authorization and compliance; no automatic authority action.",
+      "blocked_when": ["Location/source/currentness is unresolved", "Competent road authority/professional route is missing", "Draft is presented as official safety assessment or authorization"]
+    },
+    {
+      "area_id": "g31.competent_review_escalation",
+      "label": "Competent review escalation",
+      "purpose": "Route certification, environmental, waste and road-safety outputs to the named competent professional or authority with explicit scope and stop conditions.",
+      "non_redundant_boundary": "Specializes G30 handoff for the four sectors; it does not replace the existing handoff contract or transfer professional responsibility.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Bounded sector handoff packet", "Named reviewer/authority role", "Acknowledgement/refusal/escalation trace", "Reversible withdrawal record"],
+      "source_gate": "Recipient role, exact artifact, source snapshot, questions, assumptions, limitations and pending decision are recorded.",
+      "licence_gate": "Handoff content, attachments, excerpts and recipient channel have explicit rights and disclosure decisions.",
+      "currentness_gate": "Handoff date, jurisdiction, validity horizon, deadline, superseded status and revalidation route are explicit.",
+      "professional_boundary": "Handoff requests review; it does not sign, certify, file, authorize, accept or establish professional correctness.",
+      "runtime_gate": "Preview, acknowledgement, clarification, refusal, escalation, safe-stop and withdrawal paths are reproducible; sending remains human-controlled.",
+      "blocked_when": ["Recipient role or authority is undefined", "Scope, limitations or response status is missing", "Handoff is treated as certification, authorization or professional sign-off"]
+    }
+  ],
+  "g31_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation, authority, acceptance or correctness proof.",
+      "planned": "The G31 sector-boundary work is specified but not established as complete or authoritative.",
+      "blocked": "At least one source, licence, currentness, runtime, authority or professional gate is open; no authoritative sector release is allowed.",
+      "verified_structural": "Only the named local artifact, field, relationship or deterministic document check was observed; this is not semantic, factual, legal, licensing, runtime, official or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {"area_id": "g31.certification_boundary", "existing": true, "planned": true, "blocked": true, "verified_structural": true, "release_interpretation": "Draft evidence/checklist only; certification status remains external."},
+      {"area_id": "g31.environmental_assessment_boundary", "existing": true, "planned": true, "blocked": true, "verified_structural": true, "release_interpretation": "Research/screening structure only; official assessment/approval remains external."},
+      {"area_id": "g31.waste_boundary", "existing": true, "planned": true, "blocked": true, "verified_structural": true, "release_interpretation": "Inventory/traceability draft only; authoritative classification/authorization remains external."},
+      {"area_id": "g31.road_safety_boundary", "existing": true, "planned": true, "blocked": true, "verified_structural": true, "release_interpretation": "Observation/risk draft only; road-safety decision remains external."},
+      {"area_id": "g31.competent_review_escalation", "existing": true, "planned": true, "blocked": true, "verified_structural": true, "release_interpretation": "Routing package only; competent review and authority action remain external."}
+    ]
+  },
+  "g31_release_criteria": [
+    {"criterion_id": "G31-R01", "label": "Five distinct sector-boundary areas", "pass_when": "All five G31 areas are present with distinct scope and non-redundancy rationale.", "does_not_prove": "Technical, legal, environmental, waste or road-safety correctness."},
+    {"criterion_id": "G31-R02", "label": "Certification limit", "pass_when": "Certificate, attestation, conformity and sign-off language is visibly bounded and routed to the competent certifier/process.", "does_not_prove": "Certification, attestation, conformity or professional sign-off."},
+    {"criterion_id": "G31-R03", "label": "Environmental assessment limit", "pass_when": "Screening, assessment, approval, permit and compliance language is visibly bounded and routed to competent review.", "does_not_prove": "An official environmental assessment, approval, permit or compliance conclusion."},
+    {"criterion_id": "G31-R04", "label": "Waste limit", "pass_when": "Classification, handling, transport, traceability, acceptance and authorization language is visibly bounded and routed to competent review.", "does_not_prove": "Authoritative waste classification, acceptance, authorization or official record."},
+    {"criterion_id": "G31-R05", "label": "Road-safety limit", "pass_when": "Safety assessment, clearance, traffic/road authorization and compliance language is visibly bounded and routed to competent review.", "does_not_prove": "An official road-safety assessment, clearance, order, authorization or compliance sign-off."},
+    {"criterion_id": "G31-R06", "label": "Source, licence and currentness gates", "pass_when": "Every material claim has source, rights and currentness evidence or is explicitly unresolved.", "does_not_prove": "That a source is factually correct, sufficient or currently authoritative."},
+    {"criterion_id": "G31-R07", "label": "Professional boundary and escalation", "pass_when": "Named competent professional/authority ownership, scope, limitations and escalation path are recorded for each sector.", "does_not_prove": "That a professional or authority has reviewed, signed, accepted or acted."},
+    {"criterion_id": "G31-R08", "label": "Runtime negative paths", "pass_when": "Runtime tests demonstrate refusal/routing of official-sector claims, safe stop and human-controlled handoff; structural checks are reported separately.", "does_not_prove": "Production safety, technical adequacy, legal validity or professional conformity."},
+    {"criterion_id": "G31-R09", "label": "Reversible non-authoritative release", "pass_when": "The coordination record or draft package is withdrawable/supersedable, labelled non-authoritative, owner-linked and creates no automatic filing, certification, authorization or external action.", "does_not_prove": "Technical, legal, environmental, waste or road-safety correctness, effect or acceptance."}
   ],
   "global_blockers": [
     "G19 reference-library SKILL.md paths are recorded as absent from the inventory checkout.",
