@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g22.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_governance_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage and G22 governance matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge.",
+  "schema_version": "g23.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_assurance_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance and G23 assurance matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G22 governance extension over G21 release coverage and the six G20 facets",
+    "generation": "G23 assurance governance extension over G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -783,6 +783,185 @@
       "label": "Scoped reversible release",
       "pass_when": "The release record names passed gates and limitations, remains scoped and reversible, and authorizes no automatic external action.",
       "does_not_prove": "Filing, sending, payment, publication, certification, signing, execution or professional approval."
+    }
+  ],
+  "g23_areas": [
+    {
+      "area_id": "g23.control_effectiveness",
+      "label": "Control effectiveness",
+      "purpose": "Test whether each applicable G22 control is designed, exercised and produces retained evidence.",
+      "non_redundant_boundary": "Evaluates control operation; it does not redefine G22 controls or prove the underlying facet correct.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Executed-control sample", "Positive and negative control result", "Retained effectiveness review"],
+      "source_gate": "Test claims link to the exact control, source packet, fixture, result and negative case.",
+      "licence_gate": "Test fixtures, tools, outputs and derivatives have recorded rights for the assurance route.",
+      "currentness_gate": "Test date, tool/version, jurisdiction and refresh trigger are recorded where material.",
+      "professional_boundary": "A passed control test is not engineering, legal, financial, safety or professional acceptance.",
+      "blocked_when": ["Control test is absent or non-reproducible", "Failure is discarded", "Control result is presented as technical correctness"]
+    },
+    {
+      "area_id": "g23.coverage_measurement",
+      "label": "Coverage measurement",
+      "purpose": "Define denominators, indicators, trend windows and evidence-quality signals for scoped coverage.",
+      "non_redundant_boundary": "Measures coverage and evidence health; it does not replace the audit ledger or turn a percentage into correctness.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Metric definition", "Population/denominator record", "Trend baseline and quality interpretation"],
+      "source_gate": "Metric definition, population, exclusions, source IDs and observation window are explicit.",
+      "licence_gate": "Inputs and derived reports respect source, dataset, fixture and output rights.",
+      "currentness_gate": "Window, retrieval date, effective period and stale-data behavior are explicit.",
+      "professional_boundary": "Metrics are decision support only; qualified reviewers interpret consequential results.",
+      "blocked_when": ["Denominator or exclusions are undefined", "Metric inputs are not traceable", "A percentage is used as a correctness or compliance claim"]
+    },
+    {
+      "area_id": "g23.incident_nonconformance",
+      "label": "Incident and nonconformance",
+      "purpose": "Record deviations, failed gates, recurrence, corrective action and closure evidence.",
+      "non_redundant_boundary": "Handles observed nonconformance and remediation; it does not waive or approve G22 exceptions.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Incident register", "Containment and corrective-action record", "Closure and recurrence check"],
+      "source_gate": "Incident record preserves trigger, evidence, impact, containment, corrective action and verification.",
+      "licence_gate": "Incident artifacts, logs, fixtures and derivatives retain their use and disclosure decisions.",
+      "currentness_gate": "Incident time, affected version, jurisdiction and active or revoked status are retained.",
+      "professional_boundary": "Material technical, legal, financial, safety or professional incidents escalate to the appropriate role.",
+      "blocked_when": ["Impact or containment is unknown", "Corrective action lacks owner or verification", "Recurrence or escalation status is unresolved"]
+    },
+    {
+      "area_id": "g23.dependency_impact",
+      "label": "Dependency impact",
+      "purpose": "Trace how source, tool, licence, version, skill-owner or role changes propagate across scoped routes.",
+      "non_redundant_boundary": "Performs impact analysis over dependencies; it does not replace G22 change control or ownership review.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Dependency edge record", "Affected-route impact analysis", "Owner review and decision"],
+      "source_gate": "Dependency edge, affected artifact, evidence snapshot and impact decision are traceable.",
+      "licence_gate": "Upstream and downstream source, tool, plug-in and derivative rights are rechecked after impact.",
+      "currentness_gate": "Version, effective date, jurisdiction and end-of-support or refresh signals are recorded.",
+      "professional_boundary": "Subject-matter owners review consequential impacts; graph presence is not design or compliance approval.",
+      "blocked_when": ["Dependency edge or affected route is unknown", "Impact analysis is incomplete", "Owner or professional review is missing"]
+    },
+    {
+      "area_id": "g23.bounded_attestation",
+      "label": "Bounded attestation",
+      "purpose": "Record what a scoped evidence packet supports, what remains unknown and who accepted that bounded statement.",
+      "non_redundant_boundary": "Binds a claim to evidence and limitations; it does not create certification, professional sign-off or global readiness.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Evidence-linked attestation", "Residual-unknowns register", "Scoped acceptance record"],
+      "source_gate": "Attestation cites the exact evidence snapshot, source status, limitations and residual unknowns.",
+      "licence_gate": "Attestation route and any publication, training or use disposition have explicit rights decisions.",
+      "currentness_gate": "Attestation carries observation date, validity horizon, jurisdiction and revalidation trigger.",
+      "professional_boundary": "Acceptance is role- and scope-bound; it cannot certify, file, send, pay, sign, publish, execute or replace professional approval.",
+      "blocked_when": ["Evidence snapshot or limitations are missing", "Residual unknowns are hidden", "Acceptance is treated as certification or professional sign-off"]
+    }
+  ],
+  "g23_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required assurance packet, metric, exercise, review or decision is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, incident, dependency or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g23.control_effectiveness",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No complete executed-control sample, retained failure or effectiveness conclusion is evidenced."
+      },
+      {
+        "area_id": "g23.coverage_measurement",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No approved denominator, metric run, trend baseline or quality interpretation is evidenced."
+      },
+      {
+        "area_id": "g23.incident_nonconformance",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No incident register, corrective-action evidence or recurrence check is evidenced."
+      },
+      {
+        "area_id": "g23.dependency_impact",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No completed propagation exercise across a scoped route is evidenced."
+      },
+      {
+        "area_id": "g23.bounded_attestation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No evidence-linked attestation with residual unknowns and acceptance record is evidenced."
+      }
+    ]
+  },
+  "g23_release_criteria": [
+    {
+      "criterion_id": "G23-R01",
+      "label": "Frozen assurance scope",
+      "pass_when": "Route, canonical owner, applicable G22 controls and G23 assurance scope are fixed.",
+      "does_not_prove": "Technical, legal, financial, safety or professional correctness."
+    },
+    {
+      "criterion_id": "G23-R02",
+      "label": "Exercised controls",
+      "pass_when": "Each applicable G22 control has a reproducible positive or negative result with retained inputs, environment and output.",
+      "does_not_prove": "That the underlying facet is correct or professionally fit."
+    },
+    {
+      "criterion_id": "G23-R03",
+      "label": "Defined coverage measurement",
+      "pass_when": "Metrics identify population, denominator, exclusions, time window, source evidence and interpretation limits.",
+      "does_not_prove": "That a coverage percentage is a quality, compliance or correctness certificate."
+    },
+    {
+      "criterion_id": "G23-R04",
+      "label": "Incident and nonconformance control",
+      "pass_when": "Deviations have containment, owner, corrective action, verification, recurrence status and escalation where required.",
+      "does_not_prove": "That an unresolved deviation is harmless or waived."
+    },
+    {
+      "criterion_id": "G23-R05",
+      "label": "Dependency impact review",
+      "pass_when": "Changed sources, tools, licences, versions, owners, roles and currentness conditions have scoped impact decisions.",
+      "does_not_prove": "That a dependency graph proves design adequacy or legal compliance."
+    },
+    {
+      "criterion_id": "G23-R06",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Source provenance, rights, validity horizon, jurisdiction and revalidation behavior are explicit and reviewable.",
+      "does_not_prove": "That a source is authoritative, current or cleared for every use."
+    },
+    {
+      "criterion_id": "G23-R07",
+      "label": "Professional boundary review",
+      "pass_when": "Qualified, role-specific review covers the exact evidence version, scope, limitations and date.",
+      "does_not_prove": "Approval outside the reviewed artifact, role or jurisdiction."
+    },
+    {
+      "criterion_id": "G23-R08",
+      "label": "Bounded attestation",
+      "pass_when": "An evidence-linked acceptance record states support, limitations, residual unknowns, validity horizon and reviewer.",
+      "does_not_prove": "Certification, professional sign-off or global readiness."
+    },
+    {
+      "criterion_id": "G23-R09",
+      "label": "Scoped monitored release",
+      "pass_when": "Release is scoped, reversible and monitored under G22 refresh/rollback controls and authorizes no automatic external action.",
+      "does_not_prove": "Filing, sending, payment, publication, certification, signing, execution or technical correctness."
     }
   ],
   "global_blockers": [

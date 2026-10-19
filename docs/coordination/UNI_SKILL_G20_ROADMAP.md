@@ -1,9 +1,128 @@
-# UniCostraction G20/G21/G22 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G22 governance observed on 2026-10-19
-in the requested codex/uni-inventory worktree. G22 is a control layer over
-G21 release coverage; it does not implement, certify or promote any domain
+Status: roadmap-only, release=blocked, G23 assurance governance observed on
+2026-10-19 in the requested codex/uni-inventory worktree. G23 is an assurance
+layer over G22 controls; it does not implement, certify or promote any domain
 facet.
+
+## G23 - assurance governance extension
+
+G23 checks whether the G22 governance controls are defined, exercised,
+measured, incident-aware, dependency-aware and bounded in their attestations.
+It is not a sixth governance family and does not create new CAD, IFC, Blender,
+PDF, SAL or current-law skills. The five areas below test or constrain G22;
+they do not repeat its change-control, evidence-ledger, exception, role or
+release/rollback responsibilities.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the assurance packet, metric, exercise, review or decision
+  is specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  incident, dependency or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G23 areas
+
+| G23 area | Assurance purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary |
+|---|---|---|---|---|---|---|
+| g23.control_effectiveness | Test whether each applicable G22 control is designed, exercised and produces retained evidence. | Evaluates control operation; it does not redefine G22 controls or prove the underlying facet correct. | Test claims link to the exact control, source packet, fixture, result and negative case. | Test fixtures, tools, outputs and derivatives have recorded rights for the assurance route. | Test date, tool/version, jurisdiction and refresh trigger are recorded where material. | A passed control test is not engineering, legal, financial, safety or professional acceptance. |
+| g23.coverage_measurement | Define denominators, indicators, trend windows and evidence quality signals for scoped coverage. | Measures coverage and evidence health; it does not replace the audit ledger or turn a percentage into correctness. | Metric definition, population, exclusions, source IDs and observation window are explicit. | Inputs and derived reports respect source, dataset, fixture and output rights. | Window, retrieval date, effective period and stale-data behavior are explicit. | Metrics are decision support only; qualified reviewers interpret consequential results. |
+| g23.incident_nonconformance | Record deviations, failed gates, recurrence, corrective action and closure evidence. | Handles observed nonconformance and remediation; it does not waive or approve G22 exceptions. | Incident record preserves trigger, evidence, impact, containment, corrective action and verification. | Incident artifacts, logs, fixtures and derivatives retain their use and disclosure decisions. | Incident time, affected version, jurisdiction and active/revoked status are retained. | Material technical, legal, financial, safety or professional incidents escalate to the appropriate role. |
+| g23.dependency_impact | Trace how source, tool, licence, version, skill-owner or role changes propagate across scoped routes. | Performs impact analysis over dependencies; it does not replace G22 change control or ownership review. | Dependency edge, affected artifact, evidence snapshot and impact decision are traceable. | Upstream and downstream source, tool, plug-in and derivative rights are rechecked after impact. | Version, effective date, jurisdiction and end-of-support or refresh signals are recorded. | Subject-matter owners review consequential impacts; graph presence is not design or compliance approval. |
+| g23.bounded_attestation | Record what a scoped evidence packet supports, what remains unknown and who accepted that bounded statement. | Binds a claim to evidence and limitations; it does not create certification, professional sign-off or global readiness. | Attestation cites the exact evidence snapshot, source status, limitations and residual unknowns. | Attestation route and any publication/training/use disposition have explicit rights decisions. | Attestation carries observation date, validity horizon, jurisdiction and revalidation trigger. | Acceptance is role- and scope-bound; it cannot certify, file, send, pay, sign, publish, execute or replace professional approval. |
+
+### G23 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that a control or contract is present in local coordination evidence.
+Every G23 area remains blocked until the relevant assurance exercise, evidence,
+gates and professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Control effectiveness | Yes | Yes | Yes | No | G22 defines controls and stop conditions; no complete executed-control sample, retained failure or effectiveness conclusion is evidenced. |
+| Coverage measurement | Yes | Yes | Yes | Yes | G21/G22 matrices and state definitions exist structurally; no approved denominator, metric run, trend baseline or quality interpretation is evidenced. |
+| Incident and nonconformance | Yes | Yes | Yes | No | Blocked states and exception controls exist; no incident register, corrective-action evidence or recurrence check is evidenced. |
+| Dependency impact | Yes | Yes | Yes | Yes | G18 dependency/gate concepts and G22 change-control boundaries exist; no completed propagation exercise across a scoped route is evidenced. |
+| Bounded attestation | Yes | Yes | Yes | Yes | G22 release criteria and professional boundaries exist; no evidence-linked attestation with residual unknowns and acceptance record is evidenced. |
+
+### G23 source, licence, currentness and professional gates
+
+Each assurance packet must contain all applicable gates, with a justified
+not-applicable decision where a gate truly does not apply:
+
+1. **Source gate.** Link the assurance claim to canonical ownership, source
+   locator, source/interpretation/example/hypothesis separation, version or
+   effective date, observation window, jurisdiction where material and the
+   exact positive or negative evidence.
+2. **Licence gate.** Record rights for source, dataset, fixture, tool,
+   plug-in, font, block, derivative, log and output as applicable. Unknown,
+   incompatible or unreviewed rights keep the route blocked.
+3. **Currentness gate.** Record retrieval/observation time, validity horizon,
+   amendment/repeal or version context, stale-data behavior and revalidation
+   trigger for time-sensitive evidence.
+4. **Professional-boundary gate.** Identify the qualified role, reviewed
+   scope, exact evidence version, limitations, decision and date. Assurance
+   metrics and control results do not become technical, legal, financial,
+   safety or professional correctness.
+5. **Operational evidence gate.** Retain reproducible control tests, metric
+   inputs, incident/dependency records, failures and bounded acceptance. A
+   static field or passing parser is not operational proof.
+
+### G23 release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. The route, canonical owner, G22 controls and G23 assurance scope are fixed.
+2. Each applicable G22 control has an exercised positive or negative result
+   with reproducible inputs, environment and retained output.
+3. Coverage metrics identify population, denominator, exclusions, time window,
+   source evidence and interpretation limits.
+4. Incidents and nonconformances have containment, owner, corrective action,
+   verification, recurrence status and escalation where required.
+5. Dependency impact is assessed for changed sources, tools, licences,
+   versions, owners, roles and currentness conditions.
+6. Source, licence, currentness and professional-boundary gates are explicit
+   and independently reviewable.
+7. Residual unknowns and risks are visible; no metric or control result
+   silently converts blocked evidence into a pass.
+8. A bounded attestation identifies evidence snapshot, scope, limitations,
+   validity horizon, reviewer and acceptance decision.
+9. Release is scoped, reversible and monitored under G22 refresh/rollback
+   controls, and authorizes no automatic filing, sending, payment,
+   publication, certification, signing, execution or professional approval.
+
+### G23 stop conditions and sequence
+
+G23 remains blocked when assurance tests are absent or non-reproducible, a
+metric denominator is undefined, an incident is unresolved, dependency impact
+is unknown, source/licence/currentness evidence is stale or incomplete, or a
+bounded statement would be mistaken for professional correctness. Structural
+verification may remain alongside blocked because it records control presence,
+not operational effectiveness.
+
+1. **G23-00 - freeze assurance scope.** Keep the six G20 facets, seven G21
+   areas and five G22 areas; add only the five G23 assurance areas.
+2. **G23-01 - define measurement.** Fix control tests, metric denominators,
+   evidence quality indicators and route-specific observation windows.
+3. **G23-02 - exercise and record.** Retain positive/negative tests, one
+   incident or nonconformance path and one dependency-impact exercise where
+   applicable.
+4. **G23-03 - review bounded claims.** Recheck source, rights, currentness,
+   professional scope and residual unknowns with role-specific reviewers.
+5. **G23-04 - scoped decision.** Release only when all applicable criteria
+   agree; otherwise retain blocked and report the missing gate.
+
+No G23 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G23 status declares technical
+correctness or promotes a reference-only source to verified knowledge.
 
 ## G22 - governance extension
 
