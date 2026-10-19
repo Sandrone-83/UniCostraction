@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -418,6 +418,73 @@
         {"url": "https://committee.iso.org/sites/tc258/home/projects/published/iso-21502.html", "authority": "ISO TC 258", "purpose": "ISO 21502:2020, guida ufficiale al project management", "rights_state": "official_standard_paid_or_restricted_reference_only"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 e ciclo dei contratti pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.anticorruzione.it/-/banca-dati-nazionale-contratti-pubblici", "authority": "ANAC", "purpose": "dati e tracciabilità istituzionale dei contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "road-infrastructure-bridge-engineering",
+      "path": "road-infrastructure-bridge-engineering/SKILL.md",
+      "title": "Infrastrutture stradali e ponti: conoscenza e rischio operativo",
+      "domain": "infrastrutture stradali e ponti",
+      "scope": "Censimento, ispezione, rischio, monitoraggio e priorità di intervento per strade, ponti e opere d'arte.",
+      "source_refs": [
+        {"url": "https://mit.gov.it/index.php/normativa/decreto-ministeriale-numero-578-del-17122020", "authority": "Ministero delle Infrastrutture e dei Trasporti", "purpose": "linee guida per gestione del rischio e monitoraggio dei ponti esistenti", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.mit.gov.it/documentazione/il-decreto-legislativo-n-352011-adozione-delle-linee-guida-per-la-gestione-della", "authority": "Ministero delle Infrastrutture e dei Trasporti", "purpose": "linee guida per sicurezza delle infrastrutture stradali", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285!vig=", "authority": "Normattiva", "purpose": "Codice della strada e disciplina nazionale", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "rail-transport-interface-safety",
+      "path": "rail-transport-interface-safety/SKILL.md",
+      "title": "Ferrovie e trasporti: sicurezza delle interfacce",
+      "domain": "ferrovie, trasporti e sicurezza di interfaccia",
+      "scope": "Hazard log, responsabilità e dimostrazione del rischio alle interfacce tra infrastruttura, esercizio, lavori, sistemi e utenti.",
+      "source_refs": [
+        {"url": "https://www.era.europa.eu/domains/common-safety-methods", "authority": "European Union Agency for Railways", "purpose": "metodi comuni europei di sicurezza ferroviaria", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.era.europa.eu/content/recommendation-common-safety-method-risk-evaluation-and-assessment_en", "authority": "European Union Agency for Railways", "purpose": "valutazione e gestione del rischio ferroviario", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://eur-lex.europa.eu/eli/dir/2016/798/oj", "authority": "Unione europea", "purpose": "Direttiva (UE) 2016/798 sulla sicurezza ferroviaria", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.ansfisa.gov.it/", "authority": "ANSFISA", "purpose": "autorità italiana per sicurezza ferroviaria e trasporti", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "building-energy-decarbonization",
+      "path": "building-energy-decarbonization/SKILL.md",
+      "title": "Energia e decarbonizzazione degli edifici",
+      "domain": "energia e decarbonizzazione degli edifici",
+      "scope": "Baseline, end-use, scenari, roadmap e misura/verifica della riduzione energetica ed emissiva degli edifici.",
+      "source_refs": [
+        {"url": "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/eng", "authority": "Unione europea", "purpose": "Direttiva (UE) 2024/1275 sulla prestazione energetica degli edifici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/standard/69426.html", "authority": "ISO", "purpose": "ISO 50001:2018 per sistemi di gestione dell'energia", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.enea.it/it", "authority": "ENEA", "purpose": "riferimenti e strumenti istituzionali italiani per efficienza energetica", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "accessibility-universal-design",
+      "path": "accessibility-universal-design/SKILL.md",
+      "title": "Accessibilità e universal design verificabili",
+      "domain": "accessibilità e universal design",
+      "scope": "Requisiti, journey, continuità dei percorsi, test con utenti e gestione delle barriere per edifici, spazi e servizi.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=089G0298&atto.dataPubblicazioneGazzetta=1989-06-23&bloccoAggiornamentoBreadCrumb=true&dataVigenza=10%2F07%2F2021&generaTabId=true&qId=&tabID=&tipoDettaglio=singolavigenza&title=lbl.dettaglioAtto", "authority": "Normattiva", "purpose": "DM 236/1989 per accessibilità, adattabilità e visitabilità", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996-07-24;503!vig=", "authority": "Normattiva", "purpose": "DPR 503/1996 per edifici, spazi e servizi pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html", "authority": "United Nations", "purpose": "Convenzione ONU sui diritti delle persone con disabilità", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-waste-soil-management",
+      "path": "construction-waste-soil-management/SKILL.md",
+      "title": "Rifiuti di cantiere e terre/rocce: tracciabilità operativa",
+      "domain": "rifiuti di cantiere e terre/rocce",
+      "scope": "Classificazione documentale, caratterizzazione, segregazione, movimento e destinazione di rifiuti, terre e rocce.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152!vig=", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 e disciplina italiana dei rifiuti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/eli/id/2017/08/07/17G00135/CONSOLIDATED/20210730", "authority": "Normattiva", "purpose": "DPR 120/2017 su terre e rocce da scavo", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/eli/dir/2008/98/oj", "authority": "Unione europea", "purpose": "Direttiva 2008/98/CE quadro sui rifiuti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.isprambiente.gov.it/it", "authority": "ISPRA", "purpose": "riferimenti e dati istituzionali ambientali", "rights_state": "official_reference_only_no_text_reproduced"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
