@@ -1,9 +1,129 @@
-# UniCostraction G20/G21/G22/G23 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G23 assurance governance observed on
-2026-10-19 in the requested codex/uni-inventory worktree. G23 is an assurance
-layer over G22 controls; it does not implement, certify or promote any domain
-facet.
+Status: roadmap-only, release=blocked, G24 operational governance observed on
+2026-10-19 in the requested codex/uni-inventory worktree. G24 is an
+operational-assurance layer over G23; it does not implement, certify or
+promote any domain facet.
+
+## G24 - operational governance extension
+
+G24 checks whether the G23 assurance system is aligned to explicit objectives,
+preserves evidence integrity, can be reproduced across environments, can
+recover from operational disruption and learns through controlled feedback.
+These five areas are distinct from the G22 controls and G23 assurance
+activities: G24 evaluates their system-level operation without redefining
+change control, audit records, incident handling, dependency analysis or
+release authority.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the operational packet, exercise, review or decision is
+  specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  continuity or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G24 areas
+
+| G24 area | Operational purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g24.control_objective_alignment | Map a scoped objective to applicable G22 controls, G23 assurance checks, evidence and release decisions. | Tests control-system alignment; it does not create a new control, metric or domain owner. | Objective, scope, canonical owner, evidence references and exclusions are explicit. | Objective route, inputs, fixtures and outputs have intended-use and derivative-right decisions. | Objective period, jurisdiction, version and review horizon are recorded where material. | Alignment is governance review, not technical, legal, financial, safety or professional approval. | Mapping is replayed against the current route and detects missing or contradictory controls. |
+| g24.evidence_integrity_chain | Verify identity, custody, transformation history, checksums and linkage across an evidence packet. | Tests integrity of the evidence chain; it does not replace G22 audit records or establish substantive truth. | Every transformation links input, operation, output, checksum or equivalent integrity marker and observer. | Copying, transformation, storage, log and output rights are recorded; restricted evidence remains restricted. | Observation time, source version, validity horizon and invalidation trigger are preserved. | Integrity is not correctness; the qualified reviewer assesses the content and intended use. | The chain is reconstructed from retained artifacts and fails closed on missing or mismatched links. |
+| g24.reproducibility_portability | Re-run scoped controls and evidence checks across pinned environments, versions and permitted operating contexts. | Tests repeatability and portability; it does not replace route-specific runtime tests or professional review. | Fixture, source snapshot, command, environment, expected result and variance policy are recorded. | Environments, dependencies, fixtures and generated outputs are cleared for the repeat route. | Re-run date, tool/version, jurisdiction and stale-source behavior are recorded. | Repeatability does not prove design adequacy, legal validity, financial correctness or conformity. | Positive, negative and controlled-variance runs are reproducible; unexplained variance blocks. |
+| g24.continuity_recovery | Exercise continuity, checkpoint restoration and controlled recovery when a source, tool, dependency or reviewer path is unavailable. | Tests operational resilience; it does not replace G22 release rollback, revocation or exception authority. | Recovery target, dependency assumptions, checkpoint evidence and recovery decision are traceable. | Backup, checkpoint, tool, plugin, asset and restored output rights are verified for the recovery route. | Recovery uses the correct source/version and records outage time, validity and revalidation needs. | Recovery is not permission to issue a professional deliverable without the required reviewer. | Failure injection, restore, integrity check and safe-stop behavior are recorded; automatic external action is forbidden. |
+| g24.feedback_adaptation | Convert measured results, incidents, reviews and residual unknowns into controlled improvement priorities. | Governs learning from evidence; it does not close incidents, approve changes or alter releases automatically. | Feedback item links to metric, incident, review, source and affected decision with rationale. | Feedback data and derived recommendations respect source, disclosure, training and derivative rights. | Trend window, observation date, effective context and revalidation trigger are explicit. | Improvement priority is not a professional conclusion; qualified owners decide consequential changes. | Feedback replay demonstrates that a recommendation is traceable and cannot silently change runtime behavior. |
+
+### G24 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that a system-level contract is present in local coordination evidence.
+Every G24 area remains blocked until its operational exercise, evidence, gates
+and professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Control-objective alignment | Yes | Yes | Yes | Yes | G22 controls and G23 assurance criteria exist; no complete objective-to-control map with exclusions and contradiction review is evidenced. |
+| Evidence-integrity chain | Yes | Yes | Yes | Yes | G21/G22 provenance, checksums and audit concepts exist; no reconstructed end-to-end chain with mismatch/absence failures is evidenced. |
+| Reproducibility and portability | Yes | Yes | Yes | No | G23 runtime/evaluation gates exist; no cross-environment rerun packet with explained variance is evidenced. |
+| Continuity and recovery | Yes | Yes | Yes | No | G22 refresh/rollback boundary exists; no failure-injection, checkpoint-restore and safe-stop exercise is evidenced. |
+| Feedback and adaptation | Yes | Yes | Yes | Yes | G23 metrics, incidents and bounded claims exist structurally; no closed feedback loop with controlled recommendation replay is evidenced. |
+
+### G24 source, licence, currentness, professional and runtime gates
+
+Every G24 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link the objective, integrity claim, rerun, recovery or
+   feedback item to canonical ownership, source locator, source/interpretation/
+   example/hypothesis separation, version or effective date, observation time,
+   jurisdiction and exact positive or negative evidence.
+2. **Licence gate.** Record rights for source, dataset, fixture, environment,
+   tool, plug-in, asset, log, backup, derivative and output as applicable.
+   Unknown, incompatible or unreviewed rights keep the route blocked.
+3. **Currentness gate.** Record validity horizon, retrieval/observation time,
+   amendment/repeal or version context, stale-data behavior, invalidation and
+   revalidation triggers.
+4. **Professional-boundary gate.** Identify the qualified role, exact
+   evidence version, reviewed scope, limitations, decision and date.
+   Operational resilience or repeatability never becomes professional
+   correctness or sign-off.
+5. **Runtime gate.** Retain reproducible positive, negative, variance,
+   failure-injection, recovery and feedback-replay results where applicable.
+   Static presence, a hash or a passing parser is not runtime proof.
+
+### G24 reversible-release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. Objective, route, canonical owner, G22 controls and G23 assurance scope
+   are frozen and non-contradictory.
+2. Evidence identity and transformation chain reconstruct without unexplained
+   gaps, mismatches or unowned artifacts.
+3. Source, licence and derivative-right decisions cover the full release,
+   recovery and replay route.
+4. Currentness, jurisdiction, validity horizon and revalidation triggers are
+   explicit for material claims and dependencies.
+5. Runtime replay covers positive, negative and controlled-variance cases;
+   unexplained variance or non-reproducible behavior blocks release.
+6. Continuity and recovery exercise the declared checkpoint, restore,
+   integrity check, safe-stop and human escalation path.
+7. Feedback, incident and measurement signals are traceable, bounded and
+   cannot silently modify the released route.
+8. Qualified, role-specific professional review covers the exact evidence
+   version, limitations, residual unknowns and intended use.
+9. Release is scoped, reversible, monitored and revocable under G22/G23
+   controls, and authorizes no automatic filing, sending, payment,
+   publication, certification, signing, execution or professional approval.
+
+### G24 stop conditions and sequence
+
+G24 remains blocked when objective alignment is incomplete, evidence-chain
+integrity cannot be reconstructed, reruns diverge without explanation,
+continuity recovery is untested, feedback is untraceable, any source/licence/
+currentness/runtime/professional gate is open, or a bounded result would be
+mistaken for technical correctness. Structural verification may remain
+alongside blocked because it records contract presence, not operation.
+
+1. **G24-00 - freeze operational scope.** Keep the six G20 facets, seven G21
+   areas, five G22 areas and five G23 areas; add only the five G24 areas.
+2. **G24-01 - map and preserve.** Establish objective-to-control maps and
+   reconstruct evidence identity and transformation chains.
+3. **G24-02 - replay and recover.** Run cross-environment variance cases and
+   failure-injection/checkpoint-recovery exercises where applicable.
+4. **G24-03 - review feedback.** Trace metrics, incidents and residual
+   unknowns into bounded recommendations with role-specific review.
+5. **G24-04 - reversible decision.** Release only when all applicable
+   criteria agree and a tested recovery/revocation path remains available.
+
+No G24 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G24 status declares technical
+correctness or promotes a reference-only source to verified knowledge.
 
 ## G23 - assurance governance extension
 

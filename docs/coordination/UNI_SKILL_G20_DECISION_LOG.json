@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g23.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_assurance_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance and G23 assurance matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g24.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_operational_governance_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance and G24 operational-governance matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G23 assurance governance extension over G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G24 operational governance extension over G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -961,6 +961,190 @@
       "criterion_id": "G23-R09",
       "label": "Scoped monitored release",
       "pass_when": "Release is scoped, reversible and monitored under G22 refresh/rollback controls and authorizes no automatic external action.",
+      "does_not_prove": "Filing, sending, payment, publication, certification, signing, execution or technical correctness."
+    }
+  ],
+  "g24_areas": [
+    {
+      "area_id": "g24.control_objective_alignment",
+      "label": "Control-objective alignment",
+      "purpose": "Map a scoped objective to applicable G22 controls, G23 assurance checks, evidence and release decisions.",
+      "non_redundant_boundary": "Tests control-system alignment; it does not create a new control, metric or domain owner.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Objective-to-control map", "Exclusion and contradiction review", "Scoped alignment decision"],
+      "source_gate": "Objective, scope, canonical owner, evidence references and exclusions are explicit.",
+      "licence_gate": "Objective route, inputs, fixtures and outputs have intended-use and derivative-right decisions.",
+      "currentness_gate": "Objective period, jurisdiction, version and review horizon are recorded where material.",
+      "professional_boundary": "Alignment is governance review, not technical, legal, financial, safety or professional approval.",
+      "runtime_gate": "Mapping is replayed against the current route and detects missing or contradictory controls.",
+      "blocked_when": ["Objective or scope is ambiguous", "Control mapping has unexplained gaps or contradictions", "Alignment is presented as domain correctness"]
+    },
+    {
+      "area_id": "g24.evidence_integrity_chain",
+      "label": "Evidence-integrity chain",
+      "purpose": "Verify identity, custody, transformation history, checksums and linkage across an evidence packet.",
+      "non_redundant_boundary": "Tests integrity of the evidence chain; it does not replace G22 audit records or establish substantive truth.",
+      "existing_evidence": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+      "planned_evidence": ["Input/output chain map", "Checksum or integrity record", "Missing-link and mismatch report"],
+      "source_gate": "Every transformation links input, operation, output, checksum or equivalent integrity marker and observer.",
+      "licence_gate": "Copying, transformation, storage, log and output rights are recorded; restricted evidence remains restricted.",
+      "currentness_gate": "Observation time, source version, validity horizon and invalidation trigger are preserved.",
+      "professional_boundary": "Integrity is not correctness; the qualified reviewer assesses content and intended use.",
+      "runtime_gate": "The chain is reconstructed from retained artifacts and fails closed on missing or mismatched links.",
+      "blocked_when": ["Artifact identity or transformation is untraceable", "Checksum or equivalent integrity check mismatches", "Integrity is presented as factual or technical correctness"]
+    },
+    {
+      "area_id": "g24.reproducibility_portability",
+      "label": "Reproducibility and portability",
+      "purpose": "Re-run scoped controls and evidence checks across pinned environments, versions and permitted operating contexts.",
+      "non_redundant_boundary": "Tests repeatability and portability; it does not replace route-specific runtime tests or professional review.",
+      "existing_evidence": ["S01", "S02", "S04", "S05", "S06"],
+      "planned_evidence": ["Cross-environment rerun packet", "Controlled-variance report", "Portability limitation decision"],
+      "source_gate": "Fixture, source snapshot, command, environment, expected result and variance policy are recorded.",
+      "licence_gate": "Environments, dependencies, fixtures and generated outputs are cleared for the repeat route.",
+      "currentness_gate": "Rerun date, tool/version, jurisdiction and stale-source behavior are recorded.",
+      "professional_boundary": "Repeatability does not prove design adequacy, legal validity, financial correctness or conformity.",
+      "runtime_gate": "Positive, negative and controlled-variance runs are reproducible; unexplained variance blocks.",
+      "blocked_when": ["Environment or dependency cannot be recreated", "Variance is unexplained or output is non-deterministic", "Repeatability is used as professional approval"]
+    },
+    {
+      "area_id": "g24.continuity_recovery",
+      "label": "Continuity and recovery",
+      "purpose": "Exercise continuity, checkpoint restoration and controlled recovery when a source, tool, dependency or reviewer path is unavailable.",
+      "non_redundant_boundary": "Tests operational resilience; it does not replace G22 release rollback, revocation or exception authority.",
+      "existing_evidence": ["S01", "S02", "S03", "S06"],
+      "planned_evidence": ["Failure-injection record", "Checkpoint and restore report", "Safe-stop and human-escalation record"],
+      "source_gate": "Recovery target, dependency assumptions, checkpoint evidence and recovery decision are traceable.",
+      "licence_gate": "Backup, checkpoint, tool, plug-in, asset and restored output rights are verified for recovery.",
+      "currentness_gate": "Recovery uses the correct source/version and records outage time, validity and revalidation needs.",
+      "professional_boundary": "Recovery is not permission to issue a professional deliverable without the required reviewer.",
+      "runtime_gate": "Failure injection, restore, integrity check and safe-stop behavior are recorded; automatic external action is forbidden.",
+      "blocked_when": ["Recovery target or checkpoint is missing", "Restore or integrity check is untested", "Recovery bypasses human escalation or professional review"]
+    },
+    {
+      "area_id": "g24.feedback_adaptation",
+      "label": "Feedback and adaptation",
+      "purpose": "Convert measured results, incidents, reviews and residual unknowns into controlled improvement priorities.",
+      "non_redundant_boundary": "Governs learning from evidence; it does not close incidents, approve changes or alter releases automatically.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Traceable feedback item", "Bounded improvement recommendation", "Owner review and replay record"],
+      "source_gate": "Feedback links to metric, incident, review, source and affected decision with rationale.",
+      "licence_gate": "Feedback data and derived recommendations respect source, disclosure, training and derivative rights.",
+      "currentness_gate": "Trend window, observation date, effective context and revalidation trigger are explicit.",
+      "professional_boundary": "Improvement priority is not a professional conclusion; qualified owners decide consequential changes.",
+      "runtime_gate": "Feedback replay demonstrates that a recommendation is traceable and cannot silently change runtime behavior.",
+      "blocked_when": ["Feedback source or rationale is missing", "Recommendation changes behavior without review", "Trend or currentness context is stale or ambiguous"]
+    }
+  ],
+  "g24_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required operational packet, exercise, review or decision is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, continuity or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g24.control_objective_alignment",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No complete objective-to-control map with exclusions and contradiction review is evidenced."
+      },
+      {
+        "area_id": "g24.evidence_integrity_chain",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+        "missing_gate": "No reconstructed end-to-end chain with mismatch and missing-link failures is evidenced."
+      },
+      {
+        "area_id": "g24.reproducibility_portability",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S04", "S05", "S06"],
+        "missing_gate": "No cross-environment rerun packet with explained variance is evidenced."
+      },
+      {
+        "area_id": "g24.continuity_recovery",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03", "S06"],
+        "missing_gate": "No failure-injection, checkpoint-restore and safe-stop exercise is evidenced."
+      },
+      {
+        "area_id": "g24.feedback_adaptation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No closed feedback loop with controlled recommendation replay is evidenced."
+      }
+    ]
+  },
+  "g24_release_criteria": [
+    {
+      "criterion_id": "G24-R01",
+      "label": "Frozen objective and route",
+      "pass_when": "Objective, route, canonical owner, applicable G22 controls and G23 assurance scope are fixed and non-contradictory.",
+      "does_not_prove": "Technical, legal, financial, safety or professional correctness."
+    },
+    {
+      "criterion_id": "G24-R02",
+      "label": "Reconstructed evidence integrity",
+      "pass_when": "Evidence identity and transformation chain reconstruct without unexplained gaps, mismatches or unowned artifacts.",
+      "does_not_prove": "That the evidence is factually correct or substantively sufficient."
+    },
+    {
+      "criterion_id": "G24-R03",
+      "label": "Source, licence and derivative rights",
+      "pass_when": "Rights decisions cover the full release, recovery, replay and feedback route.",
+      "does_not_prove": "That a URL, manifest, checksum or local notice is blanket clearance."
+    },
+    {
+      "criterion_id": "G24-R04",
+      "label": "Currentness and validity horizon",
+      "pass_when": "Currentness, jurisdiction, validity horizon, invalidation and revalidation triggers are explicit for material claims and dependencies.",
+      "does_not_prove": "That the route is current legal advice or a professional conclusion."
+    },
+    {
+      "criterion_id": "G24-R05",
+      "label": "Runtime replay and variance",
+      "pass_when": "Positive, negative and controlled-variance cases replay with reproducible outputs; unexplained variance blocks.",
+      "does_not_prove": "Production safety, design adequacy, financial correctness or professional conformity."
+    },
+    {
+      "criterion_id": "G24-R06",
+      "label": "Continuity and recovery",
+      "pass_when": "Declared checkpoint, restore, integrity check, safe-stop and human-escalation paths are exercised where applicable.",
+      "does_not_prove": "That recovery authorizes external action or professional delivery."
+    },
+    {
+      "criterion_id": "G24-R07",
+      "label": "Feedback boundedness",
+      "pass_when": "Metrics, incidents, reviews and residual unknowns produce traceable, role-reviewed recommendations that cannot silently alter runtime behavior.",
+      "does_not_prove": "That a recommendation is a professional or technical decision."
+    },
+    {
+      "criterion_id": "G24-R08",
+      "label": "Professional boundary review",
+      "pass_when": "Qualified, role-specific review covers exact evidence version, intended use, limitations, residual unknowns and date.",
+      "does_not_prove": "Approval outside the reviewed artifact, role or jurisdiction."
+    },
+    {
+      "criterion_id": "G24-R09",
+      "label": "Reversible monitored release",
+      "pass_when": "Release is scoped, reversible, monitored and revocable under G22/G23 controls, with a tested recovery path and no automatic external action.",
       "does_not_prove": "Filing, sending, payment, publication, certification, signing, execution or technical correctness."
     }
   ],
