@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -552,6 +552,76 @@
         {"url": "https://committee.iso.org/sites/tc258/home/projects/published/iso-21512.html", "authority": "ISO TC 258", "purpose": "ISO 21512 per implementazione dell'earned value management", "rights_state": "official_standard_paid_or_restricted_reference_only"},
         {"url": "https://web.aacei.org/resources/publications/recommended-practices", "authority": "AACE International", "purpose": "Recommended Practices professionali per cost engineering e stima", "rights_state": "official_reference_only_no_text_reproduced"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per fasi e ruoli dei contratti pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "site-fire-emergency-management",
+      "path": "site-fire-emergency-management/SKILL.md",
+      "title": "Sicurezza antincendio e piani di emergenza di cantiere",
+      "domain": "sicurezza antincendio e piani di emergenza di cantiere",
+      "scope": "Piani, ruoli, vie di esodo, lavori a caldo, prove e aggiornamenti di emergenza per cantieri in evoluzione.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per salute e sicurezza sul lavoro", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gazzettaufficiale.it/eli/gu/2021/10/04/237/sg/html", "authority": "Gazzetta Ufficiale", "purpose": "DM 2 settembre 2021 per gestione antincendio in emergenza", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.vigilfuoco.it/servizi-le-aziende-e-i-professionisti/prevenzione-incendi", "authority": "Vigili del Fuoco", "purpose": "portale istituzionale prevenzione incendi", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iso.org/standard/50038.html", "authority": "ISO", "purpose": "ISO 22320 per gestione degli incidenti", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "occupational-health-exposure-hygiene",
+      "path": "occupational-health-exposure-hygiene/SKILL.md",
+      "title": "Salute occupazionale, esposizioni e igiene industriale",
+      "domain": "salute occupazionale, esposizioni e igiene industriale",
+      "scope": "Caratterizzazione, campionamento, controllo e tracciabilità delle esposizioni professionali in cantiere.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per valutazione di agenti e rischi occupazionali", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.inail.it/portale/prevenzione-e-sicurezza/it/come-fare-per/conoscere-il-rischio/agenti-chimici.html", "authority": "INAIL", "purpose": "riferimenti istituzionali su agenti chimici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.inail.it/portale/prevenzione-e-sicurezza/it/come-fare-per/conoscere-il-rischio/banca-dati-esposizione-silice.html", "authority": "INAIL", "purpose": "banca dati istituzionale per esposizione a silice", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://osha.europa.eu/en/legislation", "authority": "EU-OSHA", "purpose": "quadro europeo di salute e sicurezza sul lavoro", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-quality-itp-nonconformity",
+      "path": "construction-quality-itp-nonconformity/SKILL.md",
+      "title": "Gestione qualità, ITP e nonconformità di costruzione",
+      "domain": "gestione qualità, ITP e nonconformità",
+      "scope": "Piani di ispezione e prova, punti hold/witness, tracciabilità, NCR e CAPA nell'esecuzione dei lavori.",
+      "source_refs": [
+        {"url": "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/07/03/70398.html", "authority": "ISO", "purpose": "ISO 10005:2018 per piani qualità", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/9001.html", "authority": "ISO", "purpose": "ISO 9001 per sistemi di gestione della qualità", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per contratti pubblici quando pertinente", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/", "authority": "ANAC", "purpose": "atti e indicazioni istituzionali sui contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "mep-testing-commissioning",
+      "path": "mep-testing-commissioning/SKILL.md",
+      "title": "Collaudi, testing e messa in servizio MEP",
+      "domain": "collaudi, testing e messa in servizio MEP",
+      "scope": "Readiness, pre-functional check, TAB, test funzionali, integrazione, trend e retest degli impianti MEP.",
+      "source_refs": [
+        {"url": "https://www.ashrae.org/technical-resources/standards-and-guidelines/titles-purposes-and-scopes", "authority": "ASHRAE", "purpose": "Guideline 0 e processo di commissioning", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/80/68021.html", "authority": "ISO", "purpose": "ISO 41001 per facility management", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/69426.html", "authority": "ISO", "purpose": "ISO 50001 per gestione e verifica dell'energia", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per sicurezza delle prove e dei lavori", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "claims-dispute-avoidance",
+      "path": "claims-dispute-avoidance/SKILL.md",
+      "title": "Gestione reclami, claims e dispute avoidance",
+      "domain": "gestione reclami, claims e dispute avoidance",
+      "scope": "Early warning, cronologia, notice gate, causalità, quantum e percorsi collaborativi per prevenire escalation contrattuali.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/71580.html", "authority": "ISO", "purpose": "ISO 10002:2018 per gestione dei reclami", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/committee/53934/x/catalogue/", "authority": "ISO/TC 176", "purpose": "ISO 10003:2018 per risoluzione esterna delle dispute", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per rimedi nei contratti pubblici quando applicabile", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/", "authority": "ANAC", "purpose": "atti e indicazioni istituzionali per contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
