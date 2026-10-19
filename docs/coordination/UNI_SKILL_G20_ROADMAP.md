@@ -1,9 +1,147 @@
-# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28/G29 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G28 governance observed on 2026-10-19
-in the requested codex/uni-inventory worktree. G28 is an artifact-status and
-official-use boundary layer over G27; it does not implement, certify or
-promote any domain facet.
+Status: roadmap-only, release=blocked, G29 claim-risk governance observed on
+2026-10-19 in the requested codex/uni-inventory worktree. G29 is a
+financial/legal/administrative claim-boundary layer over G28; it does not
+implement, certify or promote any domain facet.
+
+## G29 - financial, legal and administrative claim boundaries
+
+G29 prevents a research item, draft, report, calculation or coordination
+release from being read as a financial, legal or administrative conclusion.
+It separates claim type, evidence, assumptions, authority, currentness and
+professional review. It does not create new CAD, IFC, Blender, PDF, SAL or
+current-law skills, and it does not replace accounting, quantity-surveying,
+tax, legal, engineering, safety, procurement or public-administration
+authority.
+
+### Explicit claim limits
+
+| Claim class | Allowed coordination meaning | Explicit limit |
+|---|---|---|
+| **Financial** | A source-bounded comparison, reconciliation, arithmetic result, estimate draft or unresolved variance with assumptions and units recorded. | Not an accounting record, tax position, valuation, payment instruction, budget approval, certified quantity, cost entitlement, SAL approval or financial advice. |
+| **Legal** | A source-bounded citation, jurisdiction/effective-date lookup, issue list or research summary with uncertainty and source status visible. | Not legal advice, legal opinion, compliance certification, rights clearance, permit entitlement, litigation position or authoritative interpretation. |
+| **Administrative** | A research/draft checklist, form-field mapping, process description or missing-document list with authority and status unresolved. | Not a permit, authorization, protocol, filing, public record, official communication, administrative decision or evidence of acceptance by an authority. |
+
+The G29 coordination release is documentation only. No financial, legal or
+administrative claim becomes authoritative because it appears in a roadmap,
+decision log, draft, report, calculation, publication preview, hash or commit.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the claim-boundary packet, review, escalation or decision
+  is specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  financial, legal, administrative or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G29 areas
+
+| G29 area | Claim-governance purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g29.financial_claim_boundary | Bound costs, prices, quantities, SAL, reconciliations, taxes, valuations and financial comparisons to source, assumptions, units and status. | Controls financial claim scope; it does not perform accounting, valuation, quantity surveying, tax or payment approval. | Claim links to supplied records, source/evidence snapshot, units, period, assumptions, calculation steps and unresolved variance. | Price lists, rates, templates, data, software, outputs and derivatives have separate use and publication rights. | Period, price-date, contract version, index, jurisdiction, currency and refresh trigger are explicit. | Qualified accountant, quantity surveyor, cost professional or other competent reviewer remains separate; arithmetic is not financial correctness. | Reconciliation, unit conversion, missing-input, rounding, negative and sensitivity cases are reproducible and fail closed. |
+| g29.legal_claim_boundary | Bound legal citations, current-law lookups, rights, compliance issues and interpretations to jurisdiction, source and uncertainty. | Controls legal claim scope; it does not give legal advice, opinion, certification or authoritative interpretation. | Claim links to authoritative or identified source, locator, effective date, jurisdiction, interpretation boundary and contrary/unknown evidence. | Statutes, standards, translations, commentary, extracts and derivatives have separately recorded rights and attribution. | Retrieval time, effective/repeal/amendment status, territorial scope and conflict/revalidation trigger are explicit. | Qualified legal or domain professional reviews interpretation; source lookup is not legal advice or compliance approval. | Citation, version, jurisdiction, conflict, stale-source and no-answer paths are reproducible; uncertainty blocks. |
+| g29.administrative_claim_boundary | Bound permit, form, protocol, filing, public-administration and procedural claims to the responsible authority and process status. | Controls administrative claim scope; it does not issue, file, protocol, authorize or prove acceptance by an authority. | Claim links to authority, procedure, form/version, required evidence, submission state and official-record reference if supplied. | Forms, portals, instructions, attachments, public records and derivatives have explicit use, disclosure and publication rights. | Territory, procedure version, effective date, deadline, status and withdrawal/correction route are explicit. | Competent administrative, legal or professional authority remains separate; checklist or template is not an administrative decision. | Field mapping, missing-document, status-change, rejection and no-authority paths are reproducible; sending remains human-controlled. |
+| g29.cross_domain_claim_composition | Prevent a single output from silently combining financial, legal, administrative, technical or professional claims with different gates. | Composes claim boundaries; it does not collapse domains, transfer authority or replace G28 state separation. | Each proposition has type, source, evidence, assumptions, confidence boundary and owner; mixed claims retain component links. | Each component and combined output has rights and disclosure decisions; one cleared source does not clear the whole output. | Each component carries its own period, jurisdiction, version and refresh status; conflicts remain visible. | Required financial, legal, administrative and technical reviewers are role-specific; composition is not joint approval. | Mixed-case routing, missing-component, contradictory-status and fail-closed output tests are retained. |
+| g29.claim_escalation_disposition | Route high-risk, uncertain or consequential claims to research-only, draft, blocked, refusal or qualified review dispositions. | Governs disposition and escalation; it does not replace G27 thresholds, G25 challenge or G28 official-act authority. | Disposition links to risk, source gaps, assumptions, user purpose, reviewer role, decision and residual unknowns. | Blocked/refused routes preserve rights and do not expose restricted source or derivative material. | Escalation includes currentness, deadline, jurisdiction and revalidation conditions. | Qualified reviewer, refusal or no-answer boundary is explicit; escalation is not a claim of correctness. | Routing and safe-stop behavior are exercised on high-risk, ambiguous, stale and unsupported claims. |
+
+### G29 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that a claim-boundary contract is present in local coordination evidence.
+Every G29 area remains blocked until its operational evidence, gates, review and
+professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Financial claim boundary | Yes | Yes | Yes | Yes | G20 SAL and G21/G28 source/state controls exist; no complete assumptions, unit/period, reconciliation and qualified financial-review packet is evidenced. |
+| Legal claim boundary | Yes | Yes | Yes | Yes | G20 current-law and G28 official-use controls exist; no current jurisdiction/effective-source, conflict and qualified legal-review packet is evidenced. |
+| Administrative claim boundary | Yes | Yes | Yes | Yes | G28 official-act/protocol boundary exists; no authority-linked process, submission-state, rejection or no-filing exercise is evidenced. |
+| Cross-domain claim composition | Yes | Yes | Yes | Yes | G21 provenance and G27 conflict controls exist; no proposition-level mixed-claim routing with component gates is evidenced. |
+| Claim escalation and disposition | Yes | Yes | Yes | Yes | G23 assurance, G25 challenge and G27 thresholds exist; no high-risk/stale/unsupported routing and safe-stop packet is evidenced. |
+
+### G29 source, licence, currentness, professional and runtime gates
+
+Every G29 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link each financial, legal, administrative, technical or
+   professional proposition to canonical ownership, source locator,
+   source/interpretation/example/hypothesis separation, assumptions, exact
+   evidence, version/effective date, observation time and jurisdiction.
+2. **Licence gate.** Record rights separately for source, rate, price list,
+   contract, statute, standard, form, portal, dataset, fixture, tool,
+   translation, excerpt, derivative, report and output. Unknown, incompatible
+   or unreviewed rights keep the route blocked.
+3. **Currentness gate.** Record period, currency, effective/repeal/amendment
+   status, retrieval time, jurisdiction, deadline, stale/revoked status and
+   revalidation trigger for each material claim.
+4. **Professional-boundary gate.** Identify the qualified financial, legal,
+   administrative or technical role, exact artifact version, intended use,
+   assumptions, limitations, authority, decision and date. A calculation,
+   citation or checklist never becomes professional correctness.
+5. **Runtime gate.** Retain arithmetic/reconciliation, citation/conflict,
+   form/status, mixed-claim routing and escalation/safe-stop results where
+   applicable. Static presence is not runtime proof.
+
+### G29 reversible-release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. Each proposition is classified as financial, legal, administrative,
+   technical, professional, research or draft, with audience and intended use
+   bounded.
+2. Financial claims expose source records, units, period, assumptions,
+   calculation/reconciliation steps, variance and non-advice limitation.
+3. Legal claims expose source, jurisdiction, effective/currentness status,
+   interpretation boundary, uncertainty and non-legal-advice limitation.
+4. Administrative claims expose responsible authority, procedure/form status,
+   required evidence and no-filing/no-protocol/no-acceptance limitation.
+5. Mixed outputs preserve component gates, owners, rights, currentness and
+   unresolved conflicts; no domain clearance transfers to another domain.
+6. Source, licence, currentness, runtime and professional-boundary gates cover
+   every claim, derivative, audience and intended use.
+7. High-risk, stale, unsupported or consequential claims route to blocked,
+   refusal, research-only, draft or qualified review with residual unknowns.
+8. Qualified, role-specific review covers exact artifact, scope, limitations,
+   authority, intended use and date; no self-review bypass exists.
+9. Release is scoped, reversible, revocable and human-controlled, and creates
+   no official act, legal effect, financial entitlement, administrative
+   acceptance or automatic filing, sending, payment, publication, signing or
+   execution.
+
+### G29 stop conditions and sequence
+
+G29 remains blocked when a financial claim lacks units or assumptions, a legal
+claim lacks jurisdiction or current source context, an administrative claim
+lacks authority or process status, domains are silently combined, any source/
+licence/currentness/runtime/professional gate is open, or a limitation would
+be mistaken for correctness. Structural verification may remain alongside
+blocked because it records contract presence, not claim validity.
+
+1. **G29-00 - freeze claim classes.** Keep financial, legal, administrative,
+   technical, professional, research and draft distinctions explicit across
+   the six G20 facets and G21–G28 controls.
+2. **G29-01 - bound inputs.** Record source, assumptions, units, period,
+   jurisdiction, authority, rights and currentness for each proposition.
+3. **G29-02 - route mixed and risky claims.** Apply proposition-level gates,
+   escalation, refusal and safe-stop behavior to compound outputs.
+4. **G29-03 - review limits.** Obtain role-specific financial, legal,
+   administrative or technical review where required; preserve unknowns.
+5. **G29-04 - reversible decision.** Release only when claim classes, gates,
+   limits and disposition evidence agree and no official or professional
+   effect is inferred.
+
+No G29 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G29 status declares technical,
+financial, legal or administrative correctness, advice, entitlement or
+official acceptance.
 
 ## G28 - research, draft and official-act boundary
 

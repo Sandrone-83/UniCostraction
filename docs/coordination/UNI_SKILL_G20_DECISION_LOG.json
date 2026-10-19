@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g28.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_state_boundary_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency and G28 research/draft/official-act boundary matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g29.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_g29_claim_boundary_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency, G28 research/draft/official-act boundary and G29 financial/legal/administrative claim-boundary matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G28 research/draft/official-act boundary extension over G27 thresholds, conflict and transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G29 financial/legal/administrative claim-boundary extension over G28 state boundaries, G27 thresholds/conflict/transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -1901,6 +1901,205 @@
       "label": "Reversible non-official release",
       "pass_when": "Release is scoped, reversible, revocable and human-controlled, and creates no automatic official act or external action.",
       "does_not_prove": "Payment, certification, signing, execution, professional approval or legal effect."
+    }
+  ],
+  "g29_claim_limits": {
+    "financial": {
+      "allowed_coordination_meaning": "Source-bounded comparison, reconciliation, arithmetic result, estimate draft or unresolved variance with assumptions and units recorded.",
+      "explicit_limit": "Not an accounting record, tax position, valuation, payment instruction, budget approval, certified quantity, cost entitlement, SAL approval or financial advice."
+    },
+    "legal": {
+      "allowed_coordination_meaning": "Source-bounded citation, jurisdiction/effective-date lookup, issue list or research summary with uncertainty and source status visible.",
+      "explicit_limit": "Not legal advice, legal opinion, compliance certification, rights clearance, permit entitlement, litigation position or authoritative interpretation."
+    },
+    "administrative": {
+      "allowed_coordination_meaning": "Research or draft checklist, form-field mapping, process description or missing-document list with authority and status unresolved.",
+      "explicit_limit": "Not a permit, authorization, protocol, filing, public record, official communication, administrative decision or evidence of acceptance by an authority."
+    },
+    "global_boundary": "No financial, legal or administrative claim becomes authoritative because it appears in a roadmap, decision log, draft, report, calculation, publication preview, hash or commit."
+  },
+  "g29_areas": [
+    {
+      "area_id": "g29.financial_claim_boundary",
+      "label": "Financial claim boundary",
+      "purpose": "Bound costs, prices, quantities, SAL, reconciliations, taxes, valuations and financial comparisons to source, assumptions, units and status.",
+      "non_redundant_boundary": "Controls financial claim scope; it does not perform accounting, valuation, quantity surveying, tax or payment approval.",
+      "existing_evidence": ["S01", "S02", "S03", "S07"],
+      "planned_evidence": ["Financial-claim schema", "Assumption/unit/period record", "Reconciliation and qualified-review packet"],
+      "source_gate": "Claim links to supplied records, source/evidence snapshot, units, period, assumptions, calculation steps and unresolved variance.",
+      "licence_gate": "Price lists, rates, templates, data, software, outputs and derivatives have separate use and publication rights.",
+      "currentness_gate": "Period, price-date, contract version, index, jurisdiction, currency and refresh trigger are explicit.",
+      "professional_boundary": "Qualified accountant, quantity surveyor, cost professional or other competent reviewer remains separate; arithmetic is not financial correctness.",
+      "runtime_gate": "Reconciliation, unit conversion, missing-input, rounding, negative and sensitivity cases are reproducible and fail closed.",
+      "blocked_when": ["Units, period or assumptions are missing", "Variance or missing input is unresolved", "Arithmetic is presented as financial advice, entitlement or approval"]
+    },
+    {
+      "area_id": "g29.legal_claim_boundary",
+      "label": "Legal claim boundary",
+      "purpose": "Bound legal citations, current-law lookups, rights, compliance issues and interpretations to jurisdiction, source and uncertainty.",
+      "non_redundant_boundary": "Controls legal claim scope; it does not give legal advice, opinion, certification or authoritative interpretation.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Legal-claim schema", "Jurisdiction/effective-source record", "Conflict and qualified-review packet"],
+      "source_gate": "Claim links to authoritative or identified source, locator, effective date, jurisdiction, interpretation boundary and contrary or unknown evidence.",
+      "licence_gate": "Statutes, standards, translations, commentary, extracts and derivatives have separately recorded rights and attribution.",
+      "currentness_gate": "Retrieval time, effective/repeal/amendment status, territorial scope and conflict/revalidation trigger are explicit.",
+      "professional_boundary": "Qualified legal or domain professional reviews interpretation; source lookup is not legal advice or compliance approval.",
+      "runtime_gate": "Citation, version, jurisdiction, conflict, stale-source and no-answer paths are reproducible; uncertainty blocks.",
+      "blocked_when": ["Jurisdiction or effective status is missing", "Conflict or contrary source is unresolved", "Lookup is presented as legal advice, certification or rights clearance"]
+    },
+    {
+      "area_id": "g29.administrative_claim_boundary",
+      "label": "Administrative claim boundary",
+      "purpose": "Bound permit, form, protocol, filing, public-administration and procedural claims to the responsible authority and process status.",
+      "non_redundant_boundary": "Controls administrative claim scope; it does not issue, file, protocol, authorize or prove acceptance by an authority.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Authority/procedure record", "Form and required-evidence map", "Submission-state and rejection exercise"],
+      "source_gate": "Claim links to authority, procedure, form/version, required evidence, submission state and official-record reference if supplied.",
+      "licence_gate": "Forms, portals, instructions, attachments, public records and derivatives have explicit use, disclosure and publication rights.",
+      "currentness_gate": "Territory, procedure version, effective date, deadline, status and withdrawal/correction route are explicit.",
+      "professional_boundary": "Competent administrative, legal or professional authority remains separate; checklist or template is not an administrative decision.",
+      "runtime_gate": "Field mapping, missing-document, status-change, rejection and no-authority paths are reproducible; sending remains human-controlled.",
+      "blocked_when": ["Authority or process status is missing", "Required evidence or deadline is unclear", "Checklist or template is presented as permit, filing or acceptance"]
+    },
+    {
+      "area_id": "g29.cross_domain_claim_composition",
+      "label": "Cross-domain claim composition",
+      "purpose": "Prevent a single output from silently combining financial, legal, administrative, technical or professional claims with different gates.",
+      "non_redundant_boundary": "Composes claim boundaries; it does not collapse domains, transfer authority or replace G28 state separation.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Proposition-level claim map", "Component-gate record", "Mixed-claim routing and fail-closed packet"],
+      "source_gate": "Each proposition has type, source, evidence, assumptions, confidence boundary and owner; mixed claims retain component links.",
+      "licence_gate": "Each component and combined output has rights and disclosure decisions; one cleared source does not clear the whole output.",
+      "currentness_gate": "Each component carries its own period, jurisdiction, version and refresh status; conflicts remain visible.",
+      "professional_boundary": "Financial, legal, administrative and technical reviewers are role-specific; composition is not joint approval.",
+      "runtime_gate": "Mixed-case routing, missing-component, contradictory-status and fail-closed output tests are retained.",
+      "blocked_when": ["Component claim type or owner is missing", "One domain's clearance is transferred to another", "Mixed output hides contradiction or uncertainty"]
+    },
+    {
+      "area_id": "g29.claim_escalation_disposition",
+      "label": "Claim escalation and disposition",
+      "purpose": "Route high-risk, uncertain or consequential claims to research-only, draft, blocked, refusal or qualified-review dispositions.",
+      "non_redundant_boundary": "Governs disposition and escalation; it does not replace G27 thresholds, G25 challenge or G28 official-act authority.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Risk/disposition record", "Escalation and refusal packet", "High-risk/stale/unsupported routing exercise"],
+      "source_gate": "Disposition links to risk, source gaps, assumptions, user purpose, reviewer role, decision and residual unknowns.",
+      "licence_gate": "Blocked or refused routes preserve rights and do not expose restricted source or derivative material.",
+      "currentness_gate": "Escalation includes currentness, deadline, jurisdiction and revalidation conditions.",
+      "professional_boundary": "Qualified reviewer, refusal or no-answer boundary is explicit; escalation is not a claim of correctness.",
+      "runtime_gate": "Routing and safe-stop behavior are exercised on high-risk, ambiguous, stale and unsupported claims.",
+      "blocked_when": ["Risk or disposition is missing", "High-risk route bypasses escalation", "Refusal/safe-stop behavior is untested"]
+    }
+  ],
+  "g29_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation, authority, claim correctness or professional correctness proof.",
+      "planned": "Required claim-boundary packet, review, escalation or decision is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, financial, legal, administrative or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial, official or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g29.financial_claim_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S07"],
+        "missing_gate": "No complete assumptions, unit/period, reconciliation and qualified financial-review packet is evidenced."
+      },
+      {
+        "area_id": "g29.legal_claim_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No current jurisdiction/effective-source, conflict and qualified legal-review packet is evidenced."
+      },
+      {
+        "area_id": "g29.administrative_claim_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No authority-linked process, submission-state, rejection or no-filing exercise is evidenced."
+      },
+      {
+        "area_id": "g29.cross_domain_claim_composition",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No proposition-level mixed-claim routing with component gates is evidenced."
+      },
+      {
+        "area_id": "g29.claim_escalation_disposition",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No high-risk, stale or unsupported routing and safe-stop packet is evidenced."
+      }
+    ]
+  },
+  "g29_release_criteria": [
+    {
+      "criterion_id": "G29-R01",
+      "label": "Explicit claim class and intended use",
+      "pass_when": "Each proposition is classified as financial, legal, administrative, technical, professional, research or draft, with audience and intended use bounded.",
+      "does_not_prove": "Technical, legal, financial, administrative, safety or professional correctness."
+    },
+    {
+      "criterion_id": "G29-R02",
+      "label": "Financial claim limits",
+      "pass_when": "Financial claims expose source records, units, period, assumptions, calculation/reconciliation steps, variance and non-advice limitation.",
+      "does_not_prove": "Accounting record, tax position, valuation, payment instruction, budget approval, certified quantity, cost entitlement, SAL approval or financial advice."
+    },
+    {
+      "criterion_id": "G29-R03",
+      "label": "Legal claim limits",
+      "pass_when": "Legal claims expose source, jurisdiction, effective/currentness status, interpretation boundary, uncertainty and non-legal-advice limitation.",
+      "does_not_prove": "Legal advice, legal opinion, compliance certification, rights clearance, permit entitlement, litigation position or authoritative interpretation."
+    },
+    {
+      "criterion_id": "G29-R04",
+      "label": "Administrative claim limits",
+      "pass_when": "Administrative claims expose responsible authority, procedure/form status, required evidence and no-filing/no-protocol/no-acceptance limitation.",
+      "does_not_prove": "Permit, authorization, protocol, filing, public record, administrative decision or authority acceptance."
+    },
+    {
+      "criterion_id": "G29-R05",
+      "label": "Separated mixed-claim gates",
+      "pass_when": "Mixed outputs preserve component gates, owners, rights, currentness and unresolved conflicts; no domain clearance transfers to another domain.",
+      "does_not_prove": "Joint approval, combined correctness or professional conformity."
+    },
+    {
+      "criterion_id": "G29-R06",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Provenance, rights, validity horizon, jurisdiction, period, deadlines, revalidation and disclosure conditions cover every claim and derivative.",
+      "does_not_prove": "That a source is authoritative, current or cleared for every use."
+    },
+    {
+      "criterion_id": "G29-R07",
+      "label": "Runtime and professional boundary gates",
+      "pass_when": "Arithmetic/reconciliation, citation/conflict, form/status, mixed-routing and escalation/safe-stop tests have retained results where applicable, with qualified review.",
+      "does_not_prove": "Technical correctness, professional sign-off, official status or external acceptance."
+    },
+    {
+      "criterion_id": "G29-R08",
+      "label": "High-risk disposition",
+      "pass_when": "High-risk, stale, unsupported or consequential claims route to blocked, refusal, research-only, draft or qualified review with residual unknowns.",
+      "does_not_prove": "That escalation or refusal establishes a positive claim."
+    },
+    {
+      "criterion_id": "G29-R09",
+      "label": "Reversible non-authoritative release",
+      "pass_when": "Release is scoped, reversible, revocable and human-controlled, and creates no official act, legal effect, financial entitlement, administrative acceptance or automatic external action.",
+      "does_not_prove": "Payment, certification, signing, execution, professional approval, legal effect or technical correctness."
     }
   ],
   "global_blockers": [
