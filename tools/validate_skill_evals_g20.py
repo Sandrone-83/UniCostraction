@@ -1,4 +1,4 @@
-"""G20/G23/G24 structural validator for skill evaluation cases.
+"""G20/G23/G24/G25 structural validator for skill evaluation cases.
 
 The validator checks the evaluation contract and its one-to-one relationship
 with the skill IDs declared by ``manifest.json``.  It deliberately validates
@@ -422,7 +422,7 @@ def validate_evals(
     evaluations: Any,
     expected_milestone: str | None = None,
 ) -> list[str]:
-    """Validate in-memory manifest/evaluation data and return sorted findings."""
+    """Validate in-memory data; an optional selector pins the published milestone exactly."""
 
     manifest_ids, findings = _manifest_skill_ids(manifest)
     findings.extend(_published_manifest_issues(manifest, "manifest.json"))
@@ -503,7 +503,7 @@ def validate_library(
     root: Path = DEFAULT_LIBRARY,
     expected_milestone: str | None = None,
 ) -> list[str]:
-    """Validate ``manifest.json`` and ``evals/evals.json`` under ``root``."""
+    """Validate the library envelope, optionally requiring an exact milestone."""
 
     root = Path(root).resolve()
     if not root.exists():
@@ -525,7 +525,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--milestone",
         dest="expected_milestone",
-        help="require this published G<number> milestone",
+        help="require this published G<number> milestone, for example G25",
     )
     args = parser.parse_args(argv)
     findings = validate_library(args.library, args.expected_milestone)
