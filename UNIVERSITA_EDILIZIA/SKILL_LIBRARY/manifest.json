@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -832,6 +832,74 @@
         {"url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10226611", "authority": "Garante per la protezione dei dati personali", "purpose": "videosorveglianza e dati dei lavoratori", "rights_state": "official_reference_only_no_text_reproduced"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=", "authority": "Normattiva", "purpose": "D.Lgs. 196/2003 Codice privacy", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en", "authority": "EDPB", "purpose": "linee guida europee sulla protezione dei dati", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "expropriation-easement-land-acquisition",
+      "path": "expropriation-easement-land-acquisition/SKILL.md",
+      "title": "Espropri, servitù e acquisizione di aree",
+      "domain": "espropri, servitù e acquisizione aree",
+      "scope": "Fascicolo tecnico-operativo per particelle, diritti, vincoli, fasi procedimentali, servitù, occupazioni e indennità.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=001G0372&atto.dataPubblicazioneGazzetta=2001-08-16", "authority": "Normattiva", "purpose": "DPR 327/2001 espropriazione per pubblica utilità", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.agenziaentrate.gov.it/portale/schede/pagamenti/servizi-catastali-e-ipotecari", "authority": "Agenzia delle Entrate", "purpose": "servizi catastali e ipotecari", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "DPR 380/2001 per coordinamento edilizio", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "project-financial-planning-cashflow",
+      "path": "project-financial-planning-cashflow/SKILL.md",
+      "title": "Pianificazione economico-finanziaria e cash flow di commessa",
+      "domain": "pianificazione economico-finanziaria e cash flow di commessa",
+      "scope": "Baseline economica, impegni, costi maturati, fatture, incassi, pagamenti, forecast e scenari di liquidità della commessa.",
+      "source_refs": [
+        {"url": "https://committee.iso.org/sites/tc258/home/projects/published/iso-21508-ed2.html", "authority": "ISO", "purpose": "earned value management", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://openbdap.rgs.mef.gov.it/it/Home/PerimetroInvestimentiPubblici", "authority": "RGS/OpenBDAP", "purpose": "monitoraggio finanziario, fisico e procedurale delle opere", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://bdap-opendata.rgs.mef.gov.it/tema/opere-pubbliche", "authority": "RGS/Open Data", "purpose": "piano costi, pagamenti, finanziamenti e iter delle opere pubbliche", "rights_state": "official_open_data_verify_catalogue_license"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00044&atto.dataPubblicazioneGazzetta=2023-03-31", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per contratto e programmazione", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "tender-document-bid-no-bid",
+      "path": "tender-document-bid-no-bid/SKILL.md",
+      "title": "Gestione documenti di gara e bid/no-bid",
+      "domain": "documenti di gara e bid/no-bid",
+      "scope": "Ricezione versionata del pacchetto di gara, matrice di conformità, requisiti, rischio, capacità e gate di partecipazione.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00044&atto.dataPubblicazioneGazzetta=2023-03-31", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 su procedure, documenti e offerte", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/-/pubblicazione-dei-dati-relativi-ai-contratti-pubblici-di-lavori-servizi-e-forniture-art.-37-", "authority": "ANAC", "purpose": "pubblicità e trasparenza dei contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.agid.gov.it/it/piattaforme/sistema-gestione-procedimenti-amministrativi/documento-informatico", "authority": "AgID", "purpose": "documento informatico e gestione digitale", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "building-energy-audit-diagnosis",
+      "path": "building-energy-audit-diagnosis/SKILL.md",
+      "title": "Audit energetico e diagnosi dell'edificio",
+      "domain": "audit energetico e diagnosi dell'edificio",
+      "scope": "Campagna dati, inventario end-use, bilancio, baseline, misure di efficienza, costi e piano di misura/verifica dell'edificio.",
+      "source_refs": [
+        {"url": "https://pnpe2.enea.it/diagnosi_energetiche", "authority": "ENEA PNPE2", "purpose": "diagnosi energetiche degli edifici e linee guida", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2014%3B102~art8%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 102/2014 efficienza energetica e diagnosi", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L1791", "authority": "EUR-Lex", "purpose": "Direttiva UE 2023/1791 e criteri degli audit", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/iso-50001-energy-management.html", "authority": "ISO", "purpose": "gestione dell'energia e miglioramento continuo", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-site-noise-vibration-emissions",
+      "path": "construction-site-noise-vibration-emissions/SKILL.md",
+      "title": "Gestione di rumore, vibrazioni ed emissioni di cantiere",
+      "domain": "rumore, vibrazioni ed emissioni di cantiere",
+      "scope": "Baseline, autorizzazioni, controlli e monitoraggio di rumore, vibrazioni, polveri ed emissioni verso ricettori e ambiente.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=095G0477&atto.dataPubblicazioneGazzetta=1995-10-30&bloccoAggiornamentoBreadCrumb=true&dataVigenza=&generaTabId=true&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto", "authority": "Normattiva", "purpose": "Legge 447/1995 inquinamento acustico", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 tutela ambientale, aria ed emissioni", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.inail.it/portale/prevenzione-e-sicurezza/it/come-fare-per/conoscere-il-rischio/agenti-fisici/vibrazioni.html", "authority": "INAIL", "purpose": "rischio vibrazioni e distinzione occupazionale", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 raccordo sicurezza lavoratori", "rights_state": "official_public_legal_text_verify_current_consolidation"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
