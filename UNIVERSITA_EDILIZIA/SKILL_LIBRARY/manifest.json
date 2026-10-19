@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -622,6 +622,76 @@
         {"url": "https://www.iso.org/committee/53934/x/catalogue/", "authority": "ISO/TC 176", "purpose": "ISO 10003:2018 per risoluzione esterna delle dispute", "rights_state": "official_standard_paid_or_restricted_reference_only"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per rimedi nei contratti pubblici quando applicabile", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.anticorruzione.it/", "authority": "ANAC", "purpose": "atti e indicazioni istituzionali per contratti pubblici", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "bim-4d-5d-planning-control",
+      "path": "bim-4d-5d-planning-control/SKILL.md",
+      "title": "Pianificazione e controllo BIM 4D/5D",
+      "domain": "pianificazione e controllo BIM 4D/5D",
+      "scope": "Collegamento auditabile tra modello, WBS/CBS, programma, quantità, costi e avanzamento.",
+      "source_refs": [
+        {"url": "https://www.buildingsmart.org/standards/bsi-standards/information-delivery-manual/", "authority": "buildingSMART International", "purpose": "metodologia IDM per processi e flussi informativi", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "ISO 19650 per gestione dell'informazione nel ciclo di vita", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "ciclo dei contratti pubblici quando pertinente", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://web.aacei.org/resources/publications/recommended-practices", "authority": "AACE International", "purpose": "riferimenti professionali per cost e schedule", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-machine-automation-safety",
+      "path": "construction-machine-automation-safety/SKILL.md",
+      "title": "Sicurezza macchine e automazione di cantiere",
+      "domain": "sicurezza macchine e automazione di cantiere",
+      "scope": "Scenari, interfacce, barriere, configurazione e prove sicure per macchine e automazioni in cantiere.",
+      "source_refs": [
+        {"url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj", "authority": "EUR-Lex", "purpose": "Regolamento (UE) 2023/1230 sulle macchine", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://osha.europa.eu/en/legislation/directive/regulation-20231230eu-machinery", "authority": "EU-OSHA", "purpose": "sintesi istituzionale sulla sicurezza delle macchine", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per uso sicuro delle attrezzature", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/standard/51528.html", "authority": "ISO", "purpose": "ISO 12100 per valutazione e riduzione del rischio macchina", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "metrology-calibration-measurement-quality",
+      "path": "metrology-calibration-measurement-quality/SKILL.md",
+      "title": "Metrologia, calibrazione e qualità delle misure",
+      "domain": "metrologia, calibrazione e qualità delle misure",
+      "scope": "Idoneità allo scopo, calibrazione, riferibilità, incertezza e impatto dei risultati di misura.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/10012", "authority": "ISO", "purpose": "ISO 10012:2026 per sistemi di gestione della misura", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/66912.html", "authority": "ISO", "purpose": "ISO/IEC 17025 per laboratori di prova e taratura", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.bipm.org/en/committees/jc/jcgm/wg2", "authority": "BIPM", "purpose": "vocabolario internazionale di metrologia", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.accredia.it/", "authority": "Accredia", "purpose": "accreditamento italiano e verifica dello scope dei laboratori", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "site-water-energy-carbon-accounting",
+      "path": "site-water-energy-carbon-accounting/SKILL.md",
+      "title": "Gestione acqua, energia di cantiere e carbon accounting",
+      "domain": "gestione acqua, energia di cantiere e carbon accounting",
+      "scope": "Confini, dati, fattori, KPI e azioni per acqua, energia e CO2e operativa del cantiere.",
+      "source_refs": [
+        {"url": "https://www.iso.org/iso-50001-energy-management.html", "authority": "ISO", "purpose": "ISO 50001 per gestione dell'energia", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/renewable-energy/carbon-footprint", "authority": "ISO", "purpose": "riferimenti ISO 14064 e LCA per carbon footprint", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iso.org/standard/68256.html", "authority": "ISO", "purpose": "ISO 46001 per efficienza idrica", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.isprambiente.gov.it/it", "authority": "ISPRA", "purpose": "dati e riferimenti ambientali istituzionali", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "training-competence-operational-handover",
+      "path": "training-competence-operational-handover/SKILL.md",
+      "title": "Formazione, competenza e handover operativo",
+      "domain": "formazione, competenza e handover operativo",
+      "scope": "Competenze osservabili, prove pratiche, briefing e passaggio controllato a chi gestisce asset e processi.",
+      "source_refs": [
+        {"url": "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/06/94/69459.html", "authority": "ISO", "purpose": "ISO 10015:2019 per competenze e sviluppo delle persone", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.inail.it/portale/formazione/it.html", "authority": "INAIL", "purpose": "formazione e sicurezza sul lavoro", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per ruoli e formazione di sicurezza", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/80/68021.html", "authority": "ISO", "purpose": "ISO 41001 per gestione di facility e servizi", "rights_state": "official_standard_paid_or_restricted_reference_only"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
