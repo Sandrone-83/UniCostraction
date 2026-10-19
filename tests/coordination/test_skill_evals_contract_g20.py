@@ -60,7 +60,7 @@ def _case(
 
 def _published_case(
     skill_id: str = "skill-cila-basics",
-    case_id: str = "g22-001",
+    case_id: str = "g23-001",
 ) -> dict:
     return {
         "case_id": case_id,
@@ -80,11 +80,11 @@ def _published_case(
     }
 
 
-def _published_envelope(cases: list[dict]) -> dict:
+def _published_envelope(cases: list[dict], milestone: str = "G23") -> dict:
     return {
         "schema_version": "g19-skill-library-evals-1",
         "library": "UniCostraction/AuraTrix-AulaFIX",
-        "milestone": "G22",
+        "milestone": milestone,
         "purpose": "Boundary-aware skill evaluation fixtures.",
         "rights_and_safety": {
             "content_origin": "Original prompts authored for this repository.",
@@ -117,19 +117,41 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
             validate_evals(manifest, _published_envelope([_published_case()])),
         )
 
-    def test_g22_published_manifest_and_evals_cover_each_skill_once(self) -> None:
+    def test_g23_published_manifest_and_evals_cover_each_skill_once(self) -> None:
         manifest = _published_manifest(
             "skill-cila-basics",
             "fire-engineering-performance-verification",
         )
         evaluations = _published_envelope(
             [
-                _published_case("skill-cila-basics", "g22-001"),
-                _published_case("fire-engineering-performance-verification", "g22-002"),
+                _published_case("skill-cila-basics", "g23-001"),
+                _published_case("fire-engineering-performance-verification", "g23-002"),
             ]
         )
 
         self.assertEqual([], validate_evals(manifest, evaluations))
+
+    def test_g23_manifest_rejects_invalid_date_duplicate_path_and_skill_slug(self) -> None:
+        manifest = _published_manifest("skill-cila-basics", "skill-urbanistica-basics")
+        manifest["generated_at"] = "2026-02-30"
+        manifest["skills"][1]["id"] = "Skill Urbanistica"
+
+        findings = validate_evals(
+            manifest,
+            _published_envelope([_published_case("skill-cila-basics")]),
+        )
+
+        self.assertTrue(any("generated_at: YYYY-MM-DD date required" in finding for finding in findings))
+        self.assertTrue(any("skills[1].id: lowercase hyphenated skill ID required" in finding for finding in findings))
+
+        duplicate_path_manifest = _published_manifest("skill-cila-basics", "skill-urbanistica-basics")
+        duplicate_path_manifest["skills"][1]["id"] = "skill-cila-basics"
+        duplicate_path_manifest["skills"][1]["path"] = "skill-cila-basics/SKILL.md"
+        duplicate_findings = validate_evals(
+            duplicate_path_manifest,
+            _published_envelope([_published_case("skill-cila-basics")]),
+        )
+        self.assertTrue(any("skills[1].path: duplicate exact skill path" in finding for finding in duplicate_findings))
 
     def test_published_manifest_requires_provenance_and_limits(self) -> None:
         manifest = _published_manifest("skill-cila-basics")
@@ -150,7 +172,7 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
     def test_published_envelope_requires_exact_schema_metadata(self) -> None:
         evaluations = _published_envelope([_published_case()])
         evaluations["schema_version"] = "g20-skill-library-evals-1"
-        evaluations["milestone"] = "G22-next"
+        evaluations["milestone"] = "G23-next"
         evaluations["purpose"] = "  "
         evaluations["rights_and_safety"]["unapproved"] = "field"
         evaluations["library"] = "Other/Library"

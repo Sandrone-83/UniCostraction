@@ -9,6 +9,8 @@ correctness.
 
 from __future__ import annotations
 
+from datetime import date
+
 import argparse
 import json
 import re
@@ -131,6 +133,15 @@ def _read_json(path: Path) -> Any:
 def _is_non_empty_string(value: Any) -> bool:
     return isinstance(value, str) and bool(value.strip())
 
+def _is_iso_date(value: Any) -> bool:
+    if not isinstance(value, str) or not MANIFEST_DATE_PATTERN.fullmatch(value):
+        return False
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        return False
+    return True
+
 
 def _is_slug(value: Any) -> bool:
     return isinstance(value, str) and bool(SLUG_PATTERN.fullmatch(value))
@@ -167,7 +178,7 @@ def _published_manifest_issues(manifest: Any, location: str) -> list[str]:
         if field in manifest and not _is_non_empty_string(manifest[field]):
             issues.append(f"{location}.{field}: non-empty string required")
     generated_at = manifest.get("generated_at")
-    if not _is_non_empty_string(generated_at) or not MANIFEST_DATE_PATTERN.fullmatch(generated_at):
+    if not _is_iso_date(generated_at):
         if "generated_at" in manifest:
             issues.append(f"{location}.generated_at: YYYY-MM-DD date required")
 
@@ -177,6 +188,7 @@ def _published_manifest_issues(manifest: Any, location: str) -> list[str]:
             issues.append(f"{location}.skills: non-empty list required")
         return issues
 
+    seen_paths: set[str] = set()
     for index, entry in enumerate(skills):
         entry_location = f"{location}.skills[{index}]"
         if not isinstance(entry, dict):
@@ -199,6 +211,10 @@ def _published_manifest_issues(manifest: Any, location: str) -> list[str]:
             or (isinstance(skill_id, str) and skill_path != f"{skill_id}/SKILL.md")
         ):
             issues.append(f"{entry_location}.path: normalized <skill-id>/SKILL.md path required")
+        elif skill_path in seen_paths:
+            issues.append(f"{entry_location}.path: duplicate exact skill path")
+        elif isinstance(skill_path, str):
+            seen_paths.add(skill_path)
 
         source_refs = entry.get("source_refs")
         if not isinstance(source_refs, list) or not source_refs:
@@ -340,6 +356,8 @@ def _eval_field_issues(record: Any, location: str, published_schema: bool | None
             issues.append(f"{location}.{field}: non-empty string required")
     if "case_id" in record and not _is_slug(record["case_id"]):
         issues.append(f"{location}.case_id: lowercase hyphenated case ID required")
+    if "skill_id" in record and not _is_slug(record["skill_id"]):
+        issues.append(f"{location}.skill_id: lowercase hyphenated skill ID required")
 
     if published_schema:
         for field in ("expected_behavior", "required_boundaries", "evidence_expectation"):
