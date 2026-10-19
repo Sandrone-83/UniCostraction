@@ -1,9 +1,130 @@
-# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G27 governance observed on 2026-10-19
-in the requested codex/uni-inventory worktree. G27 is a second-level
-governance layer over G26; it does not implement, certify or promote any
-domain facet.
+Status: roadmap-only, release=blocked, G28 governance observed on 2026-10-19
+in the requested codex/uni-inventory worktree. G28 is an artifact-status and
+official-use boundary layer over G27; it does not implement, certify or
+promote any domain facet.
+
+## G28 - research, draft and official-act boundary
+
+G28 separates research material, a draft artifact and an official act. It
+defines the controls required to classify, review, transition, reconcile and
+communicate those states without implying that a file, report, release or
+coordination commit is an official act. It does not create new CAD, IFC,
+Blender, PDF, SAL or current-law skills, and it does not replace the
+authority, signature, protocol, filing or professional process required
+outside this roadmap.
+
+### Explicit state separation
+
+| State | Meaning in this roadmap | What it does not mean | Permitted transition |
+|---|---|---|---|
+| **research** | Source material, observations, references, interpretations, examples or hypotheses retained for investigation. | Not a verified answer, advice, design, estimate, filing, certification or official act. | Research may inform a draft only after provenance, scope, rights and currentness gates are recorded. |
+| **draft** | A proposed or generated artifact prepared for review, revision or internal coordination. | Not signed, protocoled, filed, issued, certified, legally effective or professionally approved. | Draft may enter an authorized external process only with explicit review, authority, version and transition evidence. |
+| **official act** | An act recognized only through the competent external or organizational authority and its required process, such as authorization, signature, protocol, filing or issuance. | Never inferred from filename, format, release status, hash, publication, model output or this repository commit. | Creation, amendment, withdrawal or revocation follows the applicable authority; this roadmap cannot perform or simulate it. |
+
+The G28 coordination release is itself a roadmap/documentation release, not a
+draft official act and not an official act. No automatic transition from
+research to draft or from draft to official act is authorized.
+
+### G28 areas
+
+| G28 area | Governance purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g28.research_classification | Classify research evidence, observations, interpretations, examples and hypotheses before reuse. | Governs research labeling; it does not turn source presence into truth or replace G27 source/provenance gates. | Item has source locator, source type, observer, context, version/date and explicit interpretation boundary. | Research source, copy, excerpt and derivative use are recorded separately from later draft or official use. | Retrieval/observation time, effective period, jurisdiction and staleness status are explicit. | Research classification is not technical, legal, financial, safety or professional advice. | Classification and blocked-use behavior replay on source, interpretation, hypothesis and unknown cases. |
+| g28.draft_lifecycle_control | Control creation, revision, review, watermark/status, versioning and withdrawal of proposed drafts. | Governs draft state; it does not replace G26 policy versioning, G27 release communication or official authority. | Draft links to research inputs, evidence snapshot, author, reviewers, version and change rationale. | Draft content, template, assets, excerpts and derivatives have intended-use rights before circulation. | Draft date, validity horizon, jurisdiction, superseded status and review deadline are visible. | Draft review is not sign-off, certification, legal advice or professional approval. | Create, revise, compare, withdraw and block official-use actions on drafts are tested. |
+| g28.official_act_authority_gate | Record the authority, role, required signature/protocol/filing process and evidence needed before an act can be recognized as official. | Defines the boundary to official status; it does not issue, sign, file, certify or simulate an act. | Authority, source basis, exact version, decision record and required external process are identified. | Official-use, publication, record and derivative rights are assessed separately from research/draft rights. | Effective date, jurisdiction, legal/procedural validity window and revocation route are explicit. | Competent professional/legal/organizational authority must act within scope; no repository status substitutes for it. | Authority gate fails closed without required human action, signature, protocol or filing evidence. |
+| g28.state_transition_reconciliation | Reconcile research inputs, draft revisions and any externally supplied official-act record without collapsing their identities. | Checks transitions and identity; it does not authorize a transition or overwrite an official record. | Each state has distinct identifier, evidence snapshot, version, predecessor/successor and transition decision. | Transition, export, archive, redaction and official-record references retain per-state rights decisions. | Transition time, effective date, jurisdiction, supersession and withdrawal status agree across records. | Reconciliation confirms records correspond; it is not substantive or professional correctness. | Mismatch, missing predecessor, duplicate identity or unauthorized transition blocks and is retained. |
+| g28.publication_protocol_boundary | Separate internal circulation, draft publication, official publication, protocol, filing and public record actions. | Defines channel and act boundaries; it does not replace G27 reporting, G26 access or external publication authority. | Channel, audience, artifact state, evidence snapshot, publication decision and official-record reference are linked. | Channel, attachment, excerpt, translation, publication and public-record rights are explicit. | Publication date, jurisdiction, validity, superseded/revoked state and correction route are recorded. | Publication or protocol is not authorized by a document generator; required qualified authority remains separate. | Preview, redaction, acknowledgement, protocol-reference and revocation checks are tested; sending remains human-controlled. |
+
+### G28 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that a state-boundary contract is present in local coordination evidence.
+Every G28 area remains blocked until its operational evidence, gates, review and
+professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Research classification | Yes | Yes | Yes | Yes | G21 provenance and G27 source gates exist; no complete research taxonomy with blocked-use replay and staleness evidence is evidenced. |
+| Draft lifecycle control | Yes | Yes | Yes | Yes | G22 versioning and G26 policy controls exist; no draft watermark/status, revision, withdrawal or official-use block exercise is evidenced. |
+| Official-act authority gate | Yes | Yes | Yes | No | Professional and release boundaries exist; no authorized authority, signature/protocol/filing packet is evidenced or inferred. |
+| State-transition reconciliation | Yes | Yes | Yes | Yes | G25 invariants and G27 conflict controls exist; no three-state identity reconciliation with unauthorized-transition negatives is evidenced. |
+| Publication and protocol boundary | Yes | Yes | Yes | No | G26 access and G27 transparency boundaries exist; no preview-to-protocol separation, revocation or public-record exercise is evidenced. |
+
+### G28 source, licence, currentness, professional and runtime gates
+
+Every G28 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link each state and transition to canonical ownership,
+   source locator, source/interpretation/example/hypothesis separation, exact
+   evidence, author/reviewer, version/effective date, observation time and
+   jurisdiction.
+2. **Licence gate.** Record rights separately for research, draft circulation,
+   official use, publication, protocol, filing, archive, attachment, excerpt
+   and derivative output. Unknown, incompatible or unreviewed rights keep the
+   route blocked.
+3. **Currentness gate.** Record retrieval/observation time, effective period,
+   validity horizon, superseded/stale/revoked state, correction route and
+   revalidation trigger for every material state.
+4. **Professional-boundary gate.** Identify the qualified role or competent
+   authority, exact artifact version, intended use, scope, limitations,
+   required signature/protocol action, decision and date. A draft or release
+   never becomes an official act by implication.
+5. **Runtime gate.** Retain classification, draft withdrawal, authority
+   fail-closed, transition reconciliation, preview/protocol and revocation
+   results where applicable. Static presence is not runtime proof.
+
+### G28 reversible-release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. State is explicit as research, draft or official act; no artifact has
+   multiple unqualified meanings.
+2. Research evidence is classified with provenance, interpretation boundary,
+   rights, currentness and blocked-use behavior before draft reuse.
+3. Draft lifecycle has author, version, status, watermark or equivalent
+   labeling, review state, withdrawal route and no-official-use control.
+4. Official-act authority, required role, signature/protocol/filing process
+   and external evidence are identified; none is inferred from this release.
+5. State-transition reconciliation proves distinct identities, predecessors,
+   successors, versions, rights and unauthorized-transition failures.
+6. Source, licence, currentness, runtime and professional-boundary gates
+   cover every state, derivative, channel, attachment and intended use.
+7. Publication, protocol and public-record paths are separated from internal
+   research/draft circulation and remain human-controlled.
+8. Qualified or competent-authority review covers exact artifact, intended
+   use, limitations, authority, residual unknowns and date.
+9. Release is scoped, reversible, revocable and human-controlled, with no
+   automatic filing, sending, payment, publication, certification, signing,
+   execution or creation of an official act.
+
+### G28 stop conditions and sequence
+
+G28 remains blocked when research is presented as a result, a draft is
+presented as signed or official, authority or protocol evidence is missing,
+states cannot be reconciled, publication is conflated with filing, any source/
+licence/currentness/runtime/professional gate is open, or governance language
+would be mistaken for correctness. Structural verification may remain
+alongside blocked because it records contract presence, not official status.
+
+1. **G28-00 - freeze state vocabulary.** Keep research, draft and official act
+   distinct across the six G20 facets and all G21–G27 governance areas.
+2. **G28-01 - classify research.** Record source type, context, rights,
+   currentness and blocked-use behavior before draft reuse.
+3. **G28-02 - control drafts.** Apply status, version, review, watermark,
+   withdrawal and official-use blocking to proposed artifacts.
+4. **G28-03 - reconcile authority.** Require the competent process and human
+   evidence for any external official-act record; never infer it locally.
+5. **G28-04 - reversible decision.** Release only when state, transition,
+   publication and revocation evidence agree and no official act is simulated.
+
+No G28 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G28 status declares technical
+correctness or promotes a research source, draft or repository commit to an
+official act.
 
 ## G27 - thresholds, conflict and transparency extension
 

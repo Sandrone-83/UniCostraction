@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g27.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_thresholds_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship and G27 thresholds/conflict/transparency matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g28.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_state_boundary_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency and G28 research/draft/official-act boundary matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G27 thresholds, conflict and transparency extension over G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G28 research/draft/official-act boundary extension over G27 thresholds, conflict and transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -1698,6 +1698,209 @@
       "label": "Reversible human-controlled release",
       "pass_when": "Release is scoped, reversible, revocable and human-controlled, with runtime evidence and no automatic external action.",
       "does_not_prove": "Payment, certification, signing, execution, professional approval or technical correctness."
+    }
+  ],
+  "g28_state_separation": {
+    "research": {
+      "meaning": "Source material, observations, references, interpretations, examples or hypotheses retained for investigation.",
+      "does_not_mean": "Verified answer, advice, design, estimate, filing, certification or official act.",
+      "transition_to_draft_requires": ["Provenance", "Scope", "Rights", "Currentness", "Blocked-use behavior"]
+    },
+    "draft": {
+      "meaning": "A proposed or generated artifact prepared for review, revision or internal coordination.",
+      "does_not_mean": "Signed, protocoled, filed, issued, certified, legally effective or professionally approved artifact.",
+      "transition_to_official_act_requires": ["Explicit authority", "Exact version", "Qualified or competent review", "Required signature/protocol/filing process", "External evidence"]
+    },
+    "official_act": {
+      "meaning": "An act recognized only through the competent external or organizational authority and its required process.",
+      "does_not_mean": "A status inferred from filename, format, release, hash, publication, model output or repository commit.",
+      "local_roadmap_boundary": "This repository cannot create, simulate, sign, protocol, file, issue, certify or revoke an official act."
+    },
+    "coordination_release_status": "The G28 roadmap/decision-log release is documentation only; it is neither a draft official act nor an official act.",
+    "automatic_transition": false
+  },
+  "g28_areas": [
+    {
+      "area_id": "g28.research_classification",
+      "label": "Research classification",
+      "purpose": "Classify research evidence, observations, interpretations, examples and hypotheses before reuse.",
+      "non_redundant_boundary": "Governs research labeling; it does not turn source presence into truth or replace G27 source and provenance gates.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Research taxonomy", "Blocked-use replay", "Staleness and interpretation-boundary record"],
+      "source_gate": "Item has source locator, source type, observer, context, version/date and explicit interpretation boundary.",
+      "licence_gate": "Research source, copy, excerpt and derivative use are recorded separately from later draft or official use.",
+      "currentness_gate": "Retrieval/observation time, effective period, jurisdiction and staleness status are explicit.",
+      "professional_boundary": "Research classification is not technical, legal, financial, safety or professional advice.",
+      "runtime_gate": "Classification and blocked-use behavior replay on source, interpretation, hypothesis and unknown cases.",
+      "blocked_when": ["Source type or interpretation boundary is missing", "Staleness or rights context is unknown", "Research is used as an official or professional result"]
+    },
+    {
+      "area_id": "g28.draft_lifecycle_control",
+      "label": "Draft lifecycle control",
+      "purpose": "Control creation, revision, review, watermark/status, versioning and withdrawal of proposed drafts.",
+      "non_redundant_boundary": "Governs draft state; it does not replace G26 policy versioning, G27 release communication or official authority.",
+      "existing_evidence": ["S01", "S02", "S03", "S06", "S07"],
+      "planned_evidence": ["Draft status/version record", "Revision and reviewer history", "Withdrawal and official-use block exercise"],
+      "source_gate": "Draft links to research inputs, evidence snapshot, author, reviewers, version and change rationale.",
+      "licence_gate": "Draft content, template, assets, excerpts and derivatives have intended-use rights before circulation.",
+      "currentness_gate": "Draft date, validity horizon, jurisdiction, superseded status and review deadline are visible.",
+      "professional_boundary": "Draft review is not sign-off, certification, legal advice or professional approval.",
+      "runtime_gate": "Create, revise, compare, withdraw and block official-use actions on drafts are tested.",
+      "blocked_when": ["Draft status or version is ambiguous", "Withdrawal or official-use block is untested", "Draft is circulated as signed or final"]
+    },
+    {
+      "area_id": "g28.official_act_authority_gate",
+      "label": "Official-act authority gate",
+      "purpose": "Record authority, role, required signature/protocol/filing process and evidence needed before an act can be recognized as official.",
+      "non_redundant_boundary": "Defines the boundary to official status; it does not issue, sign, file, certify or simulate an act.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Authority record", "Required-process checklist", "External signature/protocol/filing evidence"],
+      "source_gate": "Authority, source basis, exact version, decision record and required external process are identified.",
+      "licence_gate": "Official-use, publication, record and derivative rights are assessed separately from research and draft rights.",
+      "currentness_gate": "Effective date, jurisdiction, legal/procedural validity window and revocation route are explicit.",
+      "professional_boundary": "Competent professional, legal or organizational authority must act within scope; no repository status substitutes for it.",
+      "runtime_gate": "Authority gate fails closed without required human action, signature, protocol or filing evidence.",
+      "blocked_when": ["Authority or required process is missing", "Signature/protocol/filing evidence is absent", "Draft or repository status is treated as official"]
+    },
+    {
+      "area_id": "g28.state_transition_reconciliation",
+      "label": "State-transition reconciliation",
+      "purpose": "Reconcile research inputs, draft revisions and any externally supplied official-act record without collapsing their identities.",
+      "non_redundant_boundary": "Checks transitions and identity; it does not authorize a transition or overwrite an official record.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Three-state identity map", "Predecessor/successor record", "Unauthorized-transition negative cases"],
+      "source_gate": "Each state has distinct identifier, evidence snapshot, version, predecessor/successor and transition decision.",
+      "licence_gate": "Transition, export, archive, redaction and official-record references retain per-state rights decisions.",
+      "currentness_gate": "Transition time, effective date, jurisdiction, supersession and withdrawal status agree across records.",
+      "professional_boundary": "Reconciliation confirms records correspond; it is not substantive or professional correctness.",
+      "runtime_gate": "Mismatch, missing predecessor, duplicate identity or unauthorized transition blocks and is retained.",
+      "blocked_when": ["State identity or predecessor is missing", "Transition is unauthorized or non-reproducible", "Reconciliation is used to infer official status"]
+    },
+    {
+      "area_id": "g28.publication_protocol_boundary",
+      "label": "Publication and protocol boundary",
+      "purpose": "Separate internal circulation, draft publication, official publication, protocol, filing and public-record actions.",
+      "non_redundant_boundary": "Defines channel and act boundaries; it does not replace G27 reporting, G26 access or external publication authority.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Channel/audience/state record", "Preview and redaction evidence", "Protocol/reference and revocation exercise"],
+      "source_gate": "Channel, audience, artifact state, evidence snapshot, publication decision and official-record reference are linked.",
+      "licence_gate": "Channel, attachment, excerpt, translation, publication and public-record rights are explicit.",
+      "currentness_gate": "Publication date, jurisdiction, validity, superseded/revoked state and correction route are recorded.",
+      "professional_boundary": "Publication or protocol is not authorized by a document generator; required qualified authority remains separate.",
+      "runtime_gate": "Preview, redaction, acknowledgement, protocol-reference and revocation checks are tested; sending remains human-controlled.",
+      "blocked_when": ["Artifact state or audience is unbounded", "Protocol or filing is inferred from publication", "Revocation or correction path is untested"]
+    }
+  ],
+  "g28_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation, official status or correctness proof.",
+      "planned": "Required state-boundary packet, transition, authority, publication or review is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, authority, transition or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial, official or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g28.research_classification",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No complete research taxonomy with blocked-use replay and staleness evidence is evidenced."
+      },
+      {
+        "area_id": "g28.draft_lifecycle_control",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S06", "S07"],
+        "missing_gate": "No draft watermark/status, revision, withdrawal or official-use block exercise is evidenced."
+      },
+      {
+        "area_id": "g28.official_act_authority_gate",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No authorized authority, signature, protocol or filing packet is evidenced or inferred."
+      },
+      {
+        "area_id": "g28.state_transition_reconciliation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No three-state identity reconciliation with unauthorized-transition negatives is evidenced."
+      },
+      {
+        "area_id": "g28.publication_protocol_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No preview-to-protocol separation, revocation or public-record exercise is evidenced."
+      }
+    ]
+  },
+  "g28_release_criteria": [
+    {
+      "criterion_id": "G28-R01",
+      "label": "Explicit research, draft or official-act state",
+      "pass_when": "State is explicit and no artifact has multiple unqualified meanings.",
+      "does_not_prove": "Technical, legal, financial, safety, professional or official correctness."
+    },
+    {
+      "criterion_id": "G28-R02",
+      "label": "Research classification before reuse",
+      "pass_when": "Research evidence has provenance, interpretation boundary, rights, currentness and blocked-use behavior before draft reuse.",
+      "does_not_prove": "That research is a verified answer, advice, design, estimate or official act."
+    },
+    {
+      "criterion_id": "G28-R03",
+      "label": "Controlled draft lifecycle",
+      "pass_when": "Draft has author, version, status, watermark or equivalent label, review state, withdrawal route and official-use block.",
+      "does_not_prove": "Signature, filing, certification, legal effect or professional approval."
+    },
+    {
+      "criterion_id": "G28-R04",
+      "label": "Official-act authority",
+      "pass_when": "Competent authority, required role, exact version, signature/protocol/filing process and external evidence are identified.",
+      "does_not_prove": "That this repository or a generated file is an official act."
+    },
+    {
+      "criterion_id": "G28-R05",
+      "label": "Three-state reconciliation",
+      "pass_when": "Distinct identities, predecessors, successors, versions, rights and unauthorized-transition failures are reconciled.",
+      "does_not_prove": "Substantive correctness or authority to transition."
+    },
+    {
+      "criterion_id": "G28-R06",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Provenance, rights, validity horizon, jurisdiction, supersession, correction and revocation conditions cover every state and derivative.",
+      "does_not_prove": "That a source is authoritative, current or cleared for every use."
+    },
+    {
+      "criterion_id": "G28-R07",
+      "label": "Runtime and professional boundary gates",
+      "pass_when": "Classification, draft withdrawal, authority fail-closed, reconciliation, preview/protocol and revocation tests have retained results where applicable, with qualified review.",
+      "does_not_prove": "Technical correctness, professional sign-off or official status."
+    },
+    {
+      "criterion_id": "G28-R08",
+      "label": "Publication/protocol separation",
+      "pass_when": "Internal circulation, draft publication, official publication, protocol, filing and public-record actions remain distinct and human-controlled.",
+      "does_not_prove": "Publication, protocol or filing by implication."
+    },
+    {
+      "criterion_id": "G28-R09",
+      "label": "Reversible non-official release",
+      "pass_when": "Release is scoped, reversible, revocable and human-controlled, and creates no automatic official act or external action.",
+      "does_not_prove": "Payment, certification, signing, execution, professional approval or legal effect."
     }
   ],
   "global_blockers": [
