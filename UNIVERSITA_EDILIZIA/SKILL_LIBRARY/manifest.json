@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -692,6 +692,76 @@
         {"url": "https://www.inail.it/portale/formazione/it.html", "authority": "INAIL", "purpose": "formazione e sicurezza sul lavoro", "rights_state": "official_reference_only_no_text_reproduced"},
         {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per ruoli e formazione di sicurezza", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/80/68021.html", "authority": "ISO", "purpose": "ISO 41001 per gestione di facility e servizi", "rights_state": "official_standard_paid_or_restricted_reference_only"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "life-cycle-embodied-carbon",
+      "path": "life-cycle-embodied-carbon/SKILL.md",
+      "title": "Valutazione del ciclo di vita e carbon embodied",
+      "domain": "ciclo di vita e carbon embodied",
+      "scope": "Goal/scope, inventario, scenari, fattori e review per LCA e carbonio incorporato di prodotti e opere.",
+      "source_refs": [
+        {"url": "https://www.iso.org/committee/54854/x/catalogue/", "authority": "ISO", "purpose": "ISO 14040/14044 per principi, quadro e requisiti LCA", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/71206.html", "authority": "ISO", "purpose": "ISO 14067 per carbon footprint dei prodotti", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://environment.ec.europa.eu/topics/circular-economy/product-environmental-footprint_en", "authority": "Commissione europea", "purpose": "Product Environmental Footprint", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.environdec.com/", "authority": "EPD International", "purpose": "programma EPD e PCR pubblicate", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "multi-hazard-resilient-design",
+      "path": "multi-hazard-resilient-design/SKILL.md",
+      "title": "Progettazione resiliente a sisma, alluvione e vento",
+      "domain": "progettazione resiliente a sisma, alluvione e vento",
+      "scope": "Scenari multi-pericolo, vulnerabilità, prestazioni, continuità e recovery senza sostituire il progetto firmato.",
+      "source_refs": [
+        {"url": "https://eurocodes.jrc.ec.europa.eu/en-eurocodes/eurocodes-family", "authority": "European Commission JRC", "purpose": "Eurocode 8 e famiglia Eurocodici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://eurocodes.jrc.ec.europa.eu/en-eurocodes-about-en-eurocodes/major-concepts-en-eurocodes", "authority": "European Commission JRC", "purpose": "azioni, robustezza, durabilità e affidabilità", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.protezionecivile.gov.it/it/", "authority": "Dipartimento della Protezione Civile", "purpose": "dati e pianificazione di protezione civile", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.isprambiente.gov.it/it/attivita/suolo-e-territorio/dissesto-idrogeologico", "authority": "ISPRA", "purpose": "dati istituzionali su dissesto e territorio", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "soil-contaminant-management",
+      "path": "soil-contaminant-management/SKILL.md",
+      "title": "Gestione suolo e contaminanti",
+      "domain": "gestione suolo e contaminanti",
+      "scope": "Screening, lotti, campionamento, catena di custodia, caratterizzazione e tracciabilità di suoli e contaminanti.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152!vig=", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 e disciplina ambientale", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/eli/id/2017/08/07/17G00135/CONSOLIDATED/20210730", "authority": "Normattiva", "purpose": "DPR 120/2017 su terre e rocce da scavo", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/eli/dir/2004/35/oj", "authority": "EUR-Lex", "purpose": "Direttiva 2004/35/CE sulla responsabilità ambientale", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.isprambiente.gov.it/it", "authority": "ISPRA", "purpose": "dati e indirizzi ambientali istituzionali", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-traffic-logistics-safety",
+      "path": "construction-traffic-logistics-safety/SKILL.md",
+      "title": "Logistica e sicurezza del traffico di cantiere",
+      "domain": "logistica e sicurezza del traffico di cantiere",
+      "scope": "Layout, flussi, consegne, segregazione pedoni-mezzi e interfacce con traffico pubblico.",
+      "source_refs": [
+        {"url": "https://eguides.osha.europa.eu/vehicle-safety/themes/workplace-transport-safety", "authority": "EU-OSHA", "purpose": "sicurezza del trasporto sul luogo di lavoro", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per sicurezza di cantiere e attrezzature", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285!vig=", "authority": "Normattiva", "purpose": "Codice della strada", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.inail.it/content/dam/inail-hub-site/documenti/catalogo-generale/2016/06/La%20sicurezza%20sul%20lavoro%20nei%20cantieri%20stradali.%20Opuscolo%20informativo%20per%20i%20lavoratori.pdf", "authority": "INAIL", "purpose": "riferimento informativo per cantieri stradali", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "photo-laserscan-asbuilt-control",
+      "path": "photo-laserscan-asbuilt-control/SKILL.md",
+      "title": "Documentazione fotografica, laser scan e controllo as-built",
+      "domain": "documentazione fotografica, laser scan e as-built control",
+      "scope": "Acquisizione, qualità, riferimento, confronto e versionamento di foto, nuvole di punti e as-built.",
+      "source_refs": [
+        {"url": "https://www.usgs.gov/special-topics/earth-mri/science/topographic-lidar-surveys", "authority": "USGS", "purpose": "point cloud e rilievi lidar topografici", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.buildingsmart.org/standards/bsi-standards/information-delivery-manual/", "authority": "buildingSMART International", "purpose": "flussi informativi e consegne dell'asset", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "ISO 19650 per gestione dell'informazione", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42!vig=", "authority": "Normattiva", "purpose": "vincoli e autorizzazioni per beni culturali quando pertinenti", "rights_state": "official_public_legal_text_verify_current_consolidation"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
