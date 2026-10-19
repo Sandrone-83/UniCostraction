@@ -1,9 +1,154 @@
-# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28/G29 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27/G28/G29/G30 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G29 claim-risk governance observed on
-2026-10-19 in the requested codex/uni-inventory worktree. G29 is a
-financial/legal/administrative claim-boundary layer over G28; it does not
-implement, certify or promote any domain facet.
+Status: roadmap-only, release=blocked, G30 authority-boundary governance
+observed on 2026-10-19 in the requested codex/uni-inventory worktree. G30 is
+an administrative-pathway and competent-handoff layer over G29; it does not
+implement, certify, file, protocol, authorize or promote any domain facet.
+
+## G30 - administrative pathways and competent-authority boundary
+
+G30 separates preparation of administrative materials from submission,
+protocol, effect, authorization and professional responsibility. It covers
+pratiche, depositi, SCIA and autorizzazioni as bounded research/draft
+pathways, plus the handoff to a competent professional and authority. It does
+not create a new administrative or legal skill, and it does not replace the
+competent authority or the qualified professional required by the applicable
+process.
+
+### Explicit authority and professional limit
+
+- A prepared **pratica** or dossier is a research/draft package, not a
+  submitted, accepted or approved practice.
+- A prepared **deposito** is a draft submission package, not a protocol
+  receipt, deposited record or evidence of acceptance.
+- A **SCIA** checklist, field mapping or draft is not by itself a declaration
+  with established effect, verified compliance or authority acceptance.
+- An **autorizzazione** request, template or draft decision is not an
+  authorization, permit, clearance or official act.
+- A handoff to a qualified professional or competent authority is a request
+  for review or action, not a signature, certification, filing, protocol,
+  issuance or professional sign-off.
+
+Only the competent authority and the competent professional, acting through
+the applicable process and within their scope, can establish the relevant
+official, legal or professional status. A roadmap, decision log, generated
+file, hash, commit or publication preview cannot establish it.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the pathway, authority packet, professional handoff,
+  review or decision is specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  authority, administrative or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, administrative or
+  professional correctness.
+
+### G30 areas
+
+| G30 area | Governance purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g30.pratiche_boundary | Bound a pratica or dossier to authority, procedure, required evidence, state and competent review without asserting submission or acceptance. | Operationalizes G29 administrative limits for practices; it does not issue, file, approve or certify a practice. | Authority, procedure, form/version, property/project context, required evidence and status are source-linked. | Forms, plans, attachments, templates, extracts and derivatives have explicit use, disclosure and publication rights. | Procedure version, territory, effective date, deadline, status and correction/withdrawal route are explicit. | Qualified professional and competent authority review remain separate; checklist completeness is not conformity. | Field validation, missing-document, version, rejection and no-authority paths are reproducible; sending remains human-controlled. |
+| g30.deposits_boundary | Bound a deposito package to its responsible authority, submission channel, protocol evidence and status without inferring deposit or acceptance. | Operationalizes the deposit path; it does not create a protocol receipt, deposited record or official filing. | Depositor/authority, package version, required contents, channel, submission attempt and official reference if supplied are linked. | Package, drawings, forms, attachments, portal content and archive/export rights are recorded separately. | Filing window, jurisdiction, form/version, submission time, status and correction/revocation route are explicit. | Competent professional prepares or reviews as required; a package is not signed or certified by generation. | Package build, validation, submission-preview, rejection and protocol-reference checks are reproducible; actual sending is human-controlled. |
+| g30.scia_boundary | Bound SCIA-related research/draft materials to procedure, authority, declarations, evidence, status and professional review without claiming legal effect. | Applies G29 claim limits to SCIA pathways; it does not determine effect, compliance or acceptance. | Procedure, competent authority, declaration fields, attachments, source rules, reviewer and status are identified. | Forms, declarations, technical attachments, portals, translations and derivatives have explicit rights and disclosure decisions. | Territory, applicable version, submission/status date, deadlines, amendments, withdrawal and revalidation are recorded. | Qualified professional and competent authority remain responsible for the declaration and any required technical assertion. | Field/schema validation, missing evidence, inconsistent status, no-authority and safe-stop cases are retained; no automatic SCIA transmission. |
+| g30.autorizzazioni_boundary | Bound authorization requests and draft decisions to authority, scope, prerequisites, review and decision status without presenting a request as authorization. | Separates request, review and decision; it does not grant, simulate or certify an authorization. | Authority, legal/procedural basis, scope, prerequisites, evidence, decision version and official reference if supplied are linked. | Application, evidence, plans, reports, decision text, publication and archive rights are checked separately. | Jurisdiction, effective period, deadline, conditions, supersession, suspension and revocation route are explicit. | Competent authority and qualified professional review are distinct; a draft decision is not approval. | Prerequisite, condition, missing-document, refusal, suspension and revocation paths are reproducible; issuance remains human-controlled. |
+| g30.competent_handoff | Record the bounded handoff from research/draft preparation to the competent professional or authority with scope, questions, evidence and pending actions. | Governs handoff and accountability; it does not transfer duty, authorize action or replace professional review. | Handoff identifies recipient role/authority, exact artifact, evidence snapshot, questions, assumptions, limitations and response status. | Handoff content, attachments, excerpts and recipient channel have explicit rights and disclosure decisions. | Handoff date, validity horizon, jurisdiction, deadline, revalidation and superseded status are explicit. | Competence, independence, scope, decision, signature and date are recorded by the professional/authority, not inferred locally. | Handoff preview, acknowledgement, clarification, refusal, escalation and safe-stop paths are tested; sending remains human-controlled. |
+
+### G30 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that an administrative-pathway contract is present in local coordination
+evidence. Every G30 area remains blocked until its operational evidence,
+authority, professional review and gates are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Pratiche boundary | Yes | Yes | Yes | Yes | G28 state separation and G29 administrative limits exist; no authority-linked dossier, status, rejection or no-acceptance exercise is evidenced. |
+| Depositi boundary | Yes | Yes | Yes | Yes | G28 protocol boundary and G29 process limits exist; no channel validation, submission-preview, protocol-reference or rejection exercise is evidenced. |
+| SCIA boundary | Yes | Yes | Yes | Yes | G28 official-act boundary and G29 administrative claim limits exist; no competent-authority/professional review packet or no-transmission exercise is evidenced. |
+| Autorizzazioni boundary | Yes | Yes | Yes | Yes | G28 official-act and G29 legal/administrative boundaries exist; no authority-linked prerequisite, condition, refusal, suspension or revocation exercise is evidenced. |
+| Competent professional handoff | Yes | Yes | Yes | Yes | G22 role separation and G25 challenge controls exist; no bounded handoff, acknowledgement, clarification or refusal packet is evidenced. |
+
+### G30 source, licence, currentness, professional and runtime gates
+
+Every G30 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link practice, deposit, SCIA, authorization or handoff
+   fields to the responsible authority, procedure/form/version, source
+   locator, source/interpretation/example/hypothesis separation, required
+   evidence, observation time and jurisdiction.
+2. **Licence gate.** Record rights separately for forms, portals, plans,
+   drawings, reports, technical attachments, translations, templates,
+   archive, public record, excerpts and derivatives. Unknown, incompatible or
+   unreviewed rights keep the route blocked.
+3. **Currentness gate.** Record territory, procedure/version, effective date,
+   deadline, submission/status time, conditions, supersession, suspension,
+   withdrawal/revocation and revalidation triggers.
+4. **Professional-boundary gate.** Identify the competent authority and
+   qualified professional, exact artifact version, intended process, scope,
+   assumptions, limitations, required signature/protocol action, decision and
+   date. Preparation never becomes professional approval.
+5. **Runtime gate.** Retain field validation, missing-document, status,
+   rejection/refusal, suspension/revocation, handoff and safe-stop results
+   where applicable. Static presence is not runtime, authority or acceptance
+   proof.
+
+### G30 reversible-release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. Pathway is explicitly classified as pratica, deposito, SCIA,
+   autorizzazione or competent-professional handoff, with state and intended
+   process bounded.
+2. Responsible authority, qualified professional, jurisdiction, procedure,
+   role, required action and decision boundary are identified.
+3. Source, licence and currentness gates cover every form, field, attachment,
+   technical input, derivative, channel, deadline and status.
+4. A prepared package is visibly distinct from submitted, protocoled,
+   effective, accepted, authorized or officially recorded material.
+5. Runtime tests cover validation, missing evidence, rejection/refusal,
+   status changes, suspension/revocation, handoff and safe-stop behavior;
+   actual sending remains human-controlled.
+6. Required professional review covers exact artifact, scope, assumptions,
+   limitations, intended process, authority, residual unknowns and date.
+7. No document, checklist, SCIA material, request or draft decision is
+   represented as permit, authorization, protocol, filing, acceptance or
+   official act.
+8. Handoff, escalation, correction and revocation paths are traceable and
+   reversible without destroying required records or inventing acceptance.
+9. Release is scoped, reversible and human-controlled, and creates no
+   automatic filing, protocol, payment, publication, certification, signing,
+   authorization, administrative effect or professional approval.
+
+### G30 stop conditions and sequence
+
+G30 remains blocked when the responsible authority or professional is unknown,
+the procedure or version is stale, a package is presented as submitted or
+accepted, SCIA effect is inferred, an authorization request is presented as
+authorization, any source/licence/currentness/runtime/professional gate is
+open, or a handoff is treated as sign-off. Structural verification may remain
+alongside blocked because it records contract presence, not official status.
+
+1. **G30-00 - freeze pathway vocabulary.** Keep pratica, deposito, SCIA,
+   autorizzazione and competent-professional handoff distinct across G28/G29.
+2. **G30-01 - identify authority and professional.** Record role, scope,
+   procedure, required action, evidence, currentness and limitations.
+3. **G30-02 - validate the package.** Run field, missing-document, status,
+   rejection/refusal, suspension/revocation and safe-stop cases.
+4. **G30-03 - hand off without transfer of duty.** Preserve exact artifact,
+   questions, assumptions, acknowledgement, refusal and response status.
+5. **G30-04 - reversible decision.** Release only when pathway, authority,
+   professional review, runtime evidence and non-official boundary agree.
+
+No G30 area authorizes automatic publication, filing, protocol, payment,
+sending, certification, signing, authorization or execution. No G30 status
+declares technical, legal, administrative or professional correctness, effect,
+acceptance or official status.
 
 ## G29 - financial, legal and administrative claim boundaries
 

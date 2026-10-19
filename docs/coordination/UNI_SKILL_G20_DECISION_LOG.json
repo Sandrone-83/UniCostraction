@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g29.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_g29_claim_boundary_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency, G28 research/draft/official-act boundary and G29 financial/legal/administrative claim-boundary matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g30.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_g28_g29_g30_authority_boundary_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship, G27 thresholds/conflict/transparency, G28 research/draft/official-act boundary, G29 financial/legal/administrative claim boundaries and G30 administrative-pathway/competent-authority matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G29 financial/legal/administrative claim-boundary extension over G28 state boundaries, G27 thresholds/conflict/transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G30 administrative-pathway and competent-authority extension over G29 claim boundaries, G28 state boundaries, G27 thresholds/conflict/transparency, G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -2100,6 +2100,224 @@
       "label": "Reversible non-authoritative release",
       "pass_when": "Release is scoped, reversible, revocable and human-controlled, and creates no official act, legal effect, financial entitlement, administrative acceptance or automatic external action.",
       "does_not_prove": "Payment, certification, signing, execution, professional approval, legal effect or technical correctness."
+    }
+  ],
+  "g30_authority_boundary": {
+    "pratica": {
+      "meaning": "Research or draft package prepared for a procedure.",
+      "does_not_mean": "Submitted, accepted or approved practice.",
+      "required_authority": "Competent authority for the applicable procedure.",
+      "required_professional": "Qualified professional where the process or technical content requires one."
+    },
+    "deposito": {
+      "meaning": "Draft submission package prepared for the responsible channel.",
+      "does_not_mean": "Protocol receipt, deposited record or evidence of acceptance.",
+      "required_authority": "Responsible authority and its designated submission channel.",
+      "required_professional": "Qualified professional where preparation, signature or technical responsibility is required."
+    },
+    "scia": {
+      "meaning": "Research, checklist, field mapping or draft SCIA-related material.",
+      "does_not_mean": "A declaration with established effect, verified compliance or authority acceptance.",
+      "required_authority": "Competent authority and applicable procedure.",
+      "required_professional": "Qualified professional for any required technical assertion, declaration or review."
+    },
+    "autorizzazione": {
+      "meaning": "Request, prerequisite package or draft decision for an authorization pathway.",
+      "does_not_mean": "Authorization, permit, clearance or official act.",
+      "required_authority": "Competent decision-making authority.",
+      "required_professional": "Qualified professional where the applicable process requires technical or professional responsibility."
+    },
+    "competent_handoff": {
+      "meaning": "Bounded request for review or action by a competent professional or authority.",
+      "does_not_mean": "Signature, certification, filing, protocol, issuance or professional sign-off.",
+      "required_authority": "The named competent authority where an official process is involved.",
+      "required_professional": "The named qualified professional within scope where professional review is required."
+    },
+    "global_boundary": "Preparation, checklist, template, draft, preview, hash, commit or generated file cannot establish official status, legal effect, authority acceptance or professional correctness.",
+    "automatic_action": false
+  },
+  "g30_areas": [
+    {
+      "area_id": "g30.pratiche_boundary",
+      "label": "Pratiche boundary",
+      "purpose": "Bound a pratica or dossier to authority, procedure, required evidence, state and competent review without asserting submission or acceptance.",
+      "non_redundant_boundary": "Operationalizes G29 administrative limits for practices; it does not issue, file, approve or certify a practice.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Authority-linked dossier", "Status and required-evidence record", "Rejection and no-acceptance exercise"],
+      "source_gate": "Authority, procedure, form/version, property or project context, required evidence and status are source-linked.",
+      "licence_gate": "Forms, plans, attachments, templates, extracts and derivatives have explicit use, disclosure and publication rights.",
+      "currentness_gate": "Procedure version, territory, effective date, deadline, status and correction or withdrawal route are explicit.",
+      "professional_boundary": "Qualified professional and competent authority review remain separate; checklist completeness is not conformity.",
+      "runtime_gate": "Field validation, missing-document, version, rejection and no-authority paths are reproducible; sending remains human-controlled.",
+      "blocked_when": ["Authority or procedure is missing", "Required evidence or status is unresolved", "Dossier is presented as submitted, accepted or approved"]
+    },
+    {
+      "area_id": "g30.deposits_boundary",
+      "label": "Depositi boundary",
+      "purpose": "Bound a deposito package to its responsible authority, submission channel, protocol evidence and status without inferring deposit or acceptance.",
+      "non_redundant_boundary": "Operationalizes the deposit path; it does not create a protocol receipt, deposited record or official filing.",
+      "existing_evidence": ["S01", "S02", "S03", "S06"],
+      "planned_evidence": ["Submission-channel record", "Package validation", "Protocol-reference and rejection exercise"],
+      "source_gate": "Depositor/authority, package version, required contents, channel, submission attempt and official reference if supplied are linked.",
+      "licence_gate": "Package, drawings, forms, attachments, portal content and archive/export rights are recorded separately.",
+      "currentness_gate": "Filing window, jurisdiction, form/version, submission time, status and correction/revocation route are explicit.",
+      "professional_boundary": "Competent professional prepares or reviews as required; a package is not signed or certified by generation.",
+      "runtime_gate": "Package build, validation, submission preview, rejection and protocol-reference checks are reproducible; actual sending is human-controlled.",
+      "blocked_when": ["Channel or required contents are missing", "Protocol evidence is absent or unverified", "Package is presented as filed or accepted"]
+    },
+    {
+      "area_id": "g30.scia_boundary",
+      "label": "SCIA boundary",
+      "purpose": "Bound SCIA-related research and draft materials to procedure, authority, declarations, evidence, status and professional review without claiming legal effect.",
+      "non_redundant_boundary": "Applies G29 claim limits to SCIA pathways; it does not determine effect, compliance or acceptance.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Procedure and declaration map", "Attachment/status record", "Competent-authority/professional review and no-transmission exercise"],
+      "source_gate": "Procedure, competent authority, declaration fields, attachments, source rules, reviewer and status are identified.",
+      "licence_gate": "Forms, declarations, technical attachments, portals, translations and derivatives have explicit rights and disclosure decisions.",
+      "currentness_gate": "Territory, applicable version, submission/status date, deadlines, amendments, withdrawal and revalidation are recorded.",
+      "professional_boundary": "Qualified professional and competent authority remain responsible for the declaration and required technical assertion.",
+      "runtime_gate": "Field/schema validation, missing evidence, inconsistent status, no-authority and safe-stop cases are retained; no automatic SCIA transmission.",
+      "blocked_when": ["Procedure or authority is unresolved", "Required declaration or technical evidence is missing", "SCIA material is presented as effective, compliant or accepted"]
+    },
+    {
+      "area_id": "g30.autorizzazioni_boundary",
+      "label": "Autorizzazioni boundary",
+      "purpose": "Bound authorization requests and draft decisions to authority, scope, prerequisites, review and decision status without presenting a request as authorization.",
+      "non_redundant_boundary": "Separates request, review and decision; it does not grant, simulate or certify an authorization.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Authority/prerequisite record", "Condition and decision-status map", "Refusal, suspension and revocation exercise"],
+      "source_gate": "Authority, legal or procedural basis, scope, prerequisites, evidence, decision version and official reference if supplied are linked.",
+      "licence_gate": "Application, evidence, plans, reports, decision text, publication and archive rights are checked separately.",
+      "currentness_gate": "Jurisdiction, effective period, deadline, conditions, supersession, suspension and revocation route are explicit.",
+      "professional_boundary": "Competent authority and qualified professional review are distinct; a draft decision is not approval.",
+      "runtime_gate": "Prerequisite, condition, missing-document, refusal, suspension and revocation paths are reproducible; issuance remains human-controlled.",
+      "blocked_when": ["Authority or prerequisites are missing", "Decision status or conditions are unresolved", "Request or draft decision is presented as authorization"]
+    },
+    {
+      "area_id": "g30.competent_handoff",
+      "label": "Competent professional handoff",
+      "purpose": "Record the bounded handoff from research or draft preparation to the competent professional or authority with scope, questions, evidence and pending actions.",
+      "non_redundant_boundary": "Governs handoff and accountability; it does not transfer duty, authorize action or replace professional review.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Bounded handoff packet", "Acknowledgement and clarification record", "Refusal and escalation exercise"],
+      "source_gate": "Handoff identifies recipient role/authority, exact artifact, evidence snapshot, questions, assumptions, limitations and response status.",
+      "licence_gate": "Handoff content, attachments, excerpts and recipient channel have explicit rights and disclosure decisions.",
+      "currentness_gate": "Handoff date, validity horizon, jurisdiction, deadline, revalidation and superseded status are explicit.",
+      "professional_boundary": "Competence, independence, scope, decision, signature and date are recorded by the professional or authority, not inferred locally.",
+      "runtime_gate": "Handoff preview, acknowledgement, clarification, refusal, escalation and safe-stop paths are tested; sending remains human-controlled.",
+      "blocked_when": ["Recipient role or authority is undefined", "Handoff response or limitations are missing", "Handoff is treated as signature, certification or professional sign-off"]
+    }
+  ],
+  "g30_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation, authority, acceptance or correctness proof.",
+      "planned": "Required administrative-pathway, authority, professional-handoff or review packet is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, authority, administrative or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, administrative, official or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g30.pratiche_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No authority-linked dossier, status, rejection or no-acceptance exercise is evidenced."
+      },
+      {
+        "area_id": "g30.deposits_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S06"],
+        "missing_gate": "No channel validation, submission preview, protocol-reference or rejection exercise is evidenced."
+      },
+      {
+        "area_id": "g30.scia_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No competent-authority/professional review packet or no-transmission exercise is evidenced."
+      },
+      {
+        "area_id": "g30.autorizzazioni_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No authority-linked prerequisite, condition, refusal, suspension or revocation exercise is evidenced."
+      },
+      {
+        "area_id": "g30.competent_handoff",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No bounded handoff, acknowledgement, clarification or refusal packet is evidenced."
+      }
+    ]
+  },
+  "g30_release_criteria": [
+    {
+      "criterion_id": "G30-R01",
+      "label": "Explicit pathway classification",
+      "pass_when": "Pathway is classified as pratica, deposito, SCIA, autorizzazione or competent-professional handoff, with state and intended process bounded.",
+      "does_not_prove": "Technical, legal, administrative or professional correctness, effect or acceptance."
+    },
+    {
+      "criterion_id": "G30-R02",
+      "label": "Competent authority and professional",
+      "pass_when": "Responsible authority, qualified professional, jurisdiction, procedure, role, required action and decision boundary are identified.",
+      "does_not_prove": "That the named party has acted, signed, filed, protocoled, authorized or accepted anything."
+    },
+    {
+      "criterion_id": "G30-R03",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Rights, provenance, procedure/version, effective date, deadline, status, conditions, revocation and revalidation cover every form, field, attachment and derivative.",
+      "does_not_prove": "That a source, form or procedure is authoritative or sufficient for the actual process."
+    },
+    {
+      "criterion_id": "G30-R04",
+      "label": "Non-official package boundary",
+      "pass_when": "Prepared package is visibly distinct from submitted, protocoled, effective, accepted, authorized or officially recorded material.",
+      "does_not_prove": "Submission, protocol, legal effect, administrative decision or authority acceptance."
+    },
+    {
+      "criterion_id": "G30-R05",
+      "label": "Runtime pathway tests",
+      "pass_when": "Validation, missing evidence, rejection/refusal, status changes, suspension/revocation, handoff and safe-stop tests have retained results; sending remains human-controlled.",
+      "does_not_prove": "Operational acceptance, professional conformity or official process completion."
+    },
+    {
+      "criterion_id": "G30-R06",
+      "label": "Professional review boundary",
+      "pass_when": "Required professional review covers exact artifact, scope, assumptions, limitations, intended process, authority, residual unknowns and date.",
+      "does_not_prove": "Professional sign-off when it is not recorded by the competent professional."
+    },
+    {
+      "criterion_id": "G30-R07",
+      "label": "SCIA and authorization limits",
+      "pass_when": "SCIA material, authorization requests and draft decisions state that effect, compliance, authorization and acceptance require the competent process.",
+      "does_not_prove": "SCIA effect, compliance, permit, authorization, clearance or official act."
+    },
+    {
+      "criterion_id": "G30-R08",
+      "label": "Handoff, correction and revocation",
+      "pass_when": "Handoff, escalation, clarification, correction, withdrawal and revocation paths are traceable and reversible without inventing acceptance.",
+      "does_not_prove": "That a handoff transfers legal, administrative or professional responsibility."
+    },
+    {
+      "criterion_id": "G30-R09",
+      "label": "Reversible non-official release",
+      "pass_when": "Release is scoped, reversible and human-controlled, and creates no automatic filing, protocol, payment, publication, certification, signing, authorization, administrative effect or professional approval.",
+      "does_not_prove": "Technical, legal, administrative or professional correctness, effect, acceptance or official status."
     }
   ],
   "global_blockers": [
