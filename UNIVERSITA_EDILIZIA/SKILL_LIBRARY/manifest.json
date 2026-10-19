@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -900,6 +900,74 @@
         {"url": "https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 tutela ambientale, aria ed emissioni", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.inail.it/portale/prevenzione-e-sicurezza/it/come-fare-per/conoscere-il-rischio/agenti-fisici/vibrazioni.html", "authority": "INAIL", "purpose": "rischio vibrazioni e distinzione occupazionale", "rights_state": "official_reference_only_no_text_reproduced"},
         {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 raccordo sicurezza lavoratori", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "landscape-environmental-authorizations",
+      "path": "landscape-environmental-authorizations/SKILL.md",
+      "title": "Gestione paesaggistica e autorizzazioni ambientali",
+      "domain": "gestione paesaggistica e autorizzazioni ambientali",
+      "scope": "Screening di vincoli, regime procedimentale, fascicolo, pareri, prescrizioni e monitoraggio per interventi paesaggistici e ambientali.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3A2004%3B42~art146%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 42/2004 Codice dei beni culturali e del paesaggio", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/eli/stato/DECRETO_DEL_PRESIDENTE_DELLA_REPUBBLICA/2017/02/13/31/CONSOLIDATED", "authority": "Normattiva", "purpose": "DPR 31/2017 esclusioni e autorizzazione paesaggistica semplificata", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 matrici e procedimenti ambientali", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "seismic-structural-deposits",
+      "path": "seismic-structural-deposits/SKILL.md",
+      "title": "Pratiche sismiche e deposito delle opere strutturali",
+      "domain": "pratiche sismiche e deposito opere strutturali",
+      "scope": "Classificazione, fascicolo, deposito, autorizzazione, integrazioni e chiusura delle pratiche strutturali in zona sismica.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.presidente.repubblica%3A2001%3B380~art93%21vig=", "authority": "Normattiva", "purpose": "DPR 380/2001 preavviso e deposito in zona sismica", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.della.repubblica%3A2001-06-06%3B380~art94bis=", "authority": "Normattiva", "purpose": "DPR 380/2001 categorie degli interventi strutturali", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gazzettaufficiale.it/eli/id/2018/02/20/18A00716/sg", "authority": "Gazzetta Ufficiale", "purpose": "D.M. 17 gennaio 2018 Norme tecniche per le costruzioni", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://mit.gov.it/node/9701", "authority": "Ministero delle infrastrutture e dei trasporti", "purpose": "circolare esplicativa NTC", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "advanced-pregeo-docfa-conformity",
+      "path": "advanced-pregeo-docfa-conformity/SKILL.md",
+      "title": "Catasto avanzato Pregeo/Docfa e controllo di conformità",
+      "domain": "catasto avanzato Pregeo/Docfa e conformità",
+      "scope": "Riconciliazione di rilievo, particelle, subalterni, Pregeo, Docfa, stato fisico, titoli edilizi e risultati della presentazione.",
+      "source_refs": [
+        {"url": "https://assistenzaipocat.agenziaentrate.gov.it/", "authority": "Agenzia delle Entrate", "purpose": "assistenza ufficiale a Pregeo, Docfa e presentazione documenti", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://assistenzaipocat.agenziaentrate.gov.it/Knowledgebases/New_Sister_TP/attach/4.2_Presentazione_doc_catastali.pdf", "authority": "Agenzia delle Entrate", "purpose": "presentazione documenti catastali tramite SISTER", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.agenziaentrate.gov.it/portale/documents/20143/6021699/Risoluzione_nuova_versione_Pregeo_accessibile.pdf", "authority": "Agenzia delle Entrate", "purpose": "Risoluzione 20/E e aggiornamento Pregeo", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "DPR 380/2001 raccordo con titoli edilizi", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "fire-vvf-scia-practice-management",
+      "path": "fire-vvf-scia-practice-management/SKILL.md",
+      "title": "Prevenzione incendi: pratiche VVF e SCIA",
+      "domain": "prevenzione incendi, pratiche VVF e SCIA",
+      "scope": "Assoggettabilità, fascicolo, valutazione progetto, SCIA, rinnovi, controlli, prescrizioni e gestione documentale delle pratiche VVF.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=011G0193&atto.dataPubblicazioneGazzetta=2011-09-22", "authority": "Normattiva", "purpose": "DPR 151/2011 procedimenti e attività soggette", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.vigilfuoco.it/servizi-le-aziende-e-i-professionisti/servizi-line-di-prevenzione-incendi/modulistica", "authority": "Corpo Nazionale dei Vigili del Fuoco", "purpose": "modulistica PIN aggiornata", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.vigilfuoco.it/servizi-le-aziende-e-i-professionisti/prevenzione-incendi/testi-coordinati-di-prevenzione/testi-coordinati-di-prevenzione-regole-tecniche-suddivise-per-attivita?page=28", "authority": "Corpo Nazionale dei Vigili del Fuoco", "purpose": "regole tecniche coordinate per attività", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "workplace-accessibility-barrier-management",
+      "path": "workplace-accessibility-barrier-management/SKILL.md",
+      "title": "Accessibilità e barriere nei luoghi di lavoro",
+      "domain": "accessibilità e barriere nei luoghi di lavoro",
+      "scope": "Audit di percorsi, uso, emergenza, accomodamenti, remediation e manutenzione dell'accessibilità nei luoghi di lavoro.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=089G0298&atto.dataPubblicazioneGazzetta=1989-06-23&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=19%2F03%2F2026&generaTabId=true&qId=&tabID=&tipoDettaglio=singolavigenza&title=lbl.dettaglioAtto", "authority": "Normattiva", "purpose": "D.M. 236/1989 accessibilità, adattabilità e visitabilità", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 salute e sicurezza nei luoghi di lavoro", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=011G0193&atto.dataPubblicazioneGazzetta=2011-09-22", "authority": "Normattiva", "purpose": "DPR 151/2011 raccordo con esodo e prevenzione incendi", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-03;18", "authority": "Normattiva", "purpose": "Legge 18/2009 Convenzione ONU sui diritti delle persone con disabilità", "rights_state": "official_public_legal_text_verify_current_consolidation"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
