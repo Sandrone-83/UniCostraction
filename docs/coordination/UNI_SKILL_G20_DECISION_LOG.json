@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g25.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_accountability_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance and G25 accountability matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g26.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_stewardship_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability and G26 stewardship matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G25 accountability and assurance-closure extension over G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G26 stewardship and lifecycle-closure extension over G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -1327,6 +1327,190 @@
     },
     {
       "criterion_id": "G25-R09",
+      "label": "Reversible human-controlled release",
+      "pass_when": "Release is scoped, reversible, revocable and human-controlled, with runtime evidence and no automatic external action.",
+      "does_not_prove": "Payment, certification, signing, execution, professional approval or technical correctness."
+    }
+  ],
+  "g26_areas": [
+    {
+      "area_id": "g26.ownership_accountability",
+      "label": "Ownership and accountability",
+      "purpose": "Assign accountable owners for obligations, decisions, blockers, exceptions, reviews and follow-up across the scoped route.",
+      "non_redundant_boundary": "Maintains ongoing accountability; it does not replace G22 role separation, G25 challenge or domain ownership.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Obligation register", "Accountable-owner handover", "Escalation exercise"],
+      "source_gate": "Owner assignment links to scope, source packet, decision, obligation and escalation evidence.",
+      "licence_gate": "Accountable owner may not infer rights; each use and derivative decision remains explicit.",
+      "currentness_gate": "Ownership start/end, version, jurisdiction and handover or review dates are recorded.",
+      "professional_boundary": "Qualified role and authority are distinct from administrative ownership; no owner self-signs professional acceptance.",
+      "runtime_gate": "Ownership and escalation paths are exercised with positive, unavailable-owner and handover cases.",
+      "blocked_when": ["Obligation or accountable owner is missing", "Handover or escalation is untested", "Administrative ownership is presented as professional authority"]
+    },
+    {
+      "area_id": "g26.policy_versioning",
+      "label": "Policy versioning",
+      "purpose": "Keep governance policies, gate definitions, templates and release contracts compatible across versions.",
+      "non_redundant_boundary": "Manages policy compatibility; it does not replace G22 change control or G25 invariant checks.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Policy compatibility matrix", "Migration record", "Upgrade/downgrade and incompatibility report"],
+      "source_gate": "Policy change links to affected source, control, evidence, decision and migration record.",
+      "licence_gate": "Policy templates, examples, fixtures and derived guidance carry their own rights decisions.",
+      "currentness_gate": "Effective date, superseded version, jurisdiction, sunset and migration window are explicit.",
+      "professional_boundary": "Policy compatibility is not technical, legal or professional approval of governed content.",
+      "runtime_gate": "Version negotiation, upgrade, downgrade and incompatible-policy failures are tested and retained.",
+      "blocked_when": ["Policy version or compatibility is undefined", "Migration is not reproducible", "Incompatible policy is allowed to pass silently"]
+    },
+    {
+      "area_id": "g26.access_segmentation",
+      "label": "Access segmentation",
+      "purpose": "Limit evidence, review, release and communication access by role, purpose, sensitivity and least privilege.",
+      "non_redundant_boundary": "Governs access paths; it does not replace G25 retention/disposition or professional review.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Role-based access map", "Grant/deny/revoke evidence", "Break-glass and safe-stop report"],
+      "source_gate": "Access grant links to artifact, purpose, source status, reviewer role and audit record.",
+      "licence_gate": "Access, copy, export, disclosure and derivative permissions are checked per asset.",
+      "currentness_gate": "Access validity, review date, revocation trigger and jurisdictional restrictions are recorded.",
+      "professional_boundary": "Access is not authorization to conclude, certify, publish or perform professional work.",
+      "runtime_gate": "Grant, deny, revoke, break-glass and safe-stop behavior are tested without automatic external action.",
+      "blocked_when": ["Role or purpose is over-broad", "Revoke or break-glass behavior is untested", "Access is treated as approval or publication authority"]
+    },
+    {
+      "area_id": "g26.audit_readiness",
+      "label": "Audit readiness",
+      "purpose": "Prepare a bounded, retrievable packet showing scope, evidence, gates, decisions, exceptions and limitations for an authorized review.",
+      "non_redundant_boundary": "Prepares evidence for review; it does not conduct an audit, issue assurance or replace independent challenge.",
+      "existing_evidence": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+      "planned_evidence": ["Bounded packet index", "Redaction and access record", "Retrieval and integrity exercise"],
+      "source_gate": "Packet index, locators, versions, checksums, negative cases and decision trail are complete.",
+      "licence_gate": "Packet assembly, redaction, export and reviewer access respect licence, confidentiality and disclosure terms.",
+      "currentness_gate": "Packet snapshot, validity horizon, jurisdiction, refresh status and superseded records are identified.",
+      "professional_boundary": "Audit readiness is not a professional attestation; the authorized reviewer decides within scope.",
+      "runtime_gate": "Packet build, retrieval, redaction and integrity verification are reproducible; missing evidence blocks.",
+      "blocked_when": ["Packet index or negative cases are incomplete", "Redaction or access controls are untested", "Readiness is presented as an audit conclusion"]
+    },
+    {
+      "area_id": "g26.exit_decommission",
+      "label": "Exit and decommission",
+      "purpose": "Retire a scoped route, dependency, policy, communication and runtime safely when superseded, revoked or unsupported.",
+      "non_redundant_boundary": "Governs route closure; it does not duplicate G25 retention/disposition or G24 recovery.",
+      "existing_evidence": ["S01", "S02", "S03", "S06"],
+      "planned_evidence": ["Exit decision", "Dependency-disable record", "Archive, revocation and safe-stop exercise"],
+      "source_gate": "Exit decision links to affected sources, evidence, open obligations, users, dependencies and closure evidence.",
+      "licence_gate": "Revocation, archive, deletion, export and derivative handling follow each applicable right and disclosure decision.",
+      "currentness_gate": "Sunset date, superseding version, jurisdiction, stale/revoked state and reactivation conditions are explicit.",
+      "professional_boundary": "Decommissioning cannot withdraw required professional records or imply that closure resolves prior professional risk.",
+      "runtime_gate": "Disable, revoke, archive-check, restore-check and safe-stop behavior are tested; no automatic external action.",
+      "blocked_when": ["Open obligations or affected dependencies are unknown", "Disable or revocation is untested", "Closure destroys required records or is presented as risk resolution"]
+    }
+  ],
+  "g26_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required stewardship packet, check, review or decision is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, access, audit or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g26.ownership_accountability",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No obligation register, accountable-owner handover or escalation exercise is evidenced."
+      },
+      {
+        "area_id": "g26.policy_versioning",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No policy compatibility, migration, upgrade/downgrade or incompatibility exercise is evidenced."
+      },
+      {
+        "area_id": "g26.access_segmentation",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No role-based grant/deny/revoke, break-glass or least-privilege evidence is present."
+      },
+      {
+        "area_id": "g26.audit_readiness",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+        "missing_gate": "No bounded retrievable packet with redaction and negative cases is evidenced."
+      },
+      {
+        "area_id": "g26.exit_decommission",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02", "S03", "S06"],
+        "missing_gate": "No route-closure, dependency-disable, archive-check or safe-stop exercise is evidenced."
+      }
+    ]
+  },
+  "g26_release_criteria": [
+    {
+      "criterion_id": "G26-R01",
+      "label": "Accountable ownership",
+      "pass_when": "Accountable owner, scope, obligations, escalation and handover conditions are explicit and current.",
+      "does_not_prove": "Technical, legal, financial, safety or professional correctness."
+    },
+    {
+      "criterion_id": "G26-R02",
+      "label": "Compatible policy versions",
+      "pass_when": "Policy and gate versions are compatible with the route, evidence snapshot, tools, templates and jurisdiction; incompatible versions fail closed.",
+      "does_not_prove": "That a policy or template is correct for governed content."
+    },
+    {
+      "criterion_id": "G26-R03",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Rights, provenance, validity horizon, jurisdiction, supersession, revocation and revalidation conditions are explicit for the full route.",
+      "does_not_prove": "That a source is authoritative, current or cleared for every use."
+    },
+    {
+      "criterion_id": "G26-R04",
+      "label": "Segmented access",
+      "pass_when": "Role-based grant, deny, revoke and safe-stop tests pass; break-glass use is bounded and logged where applicable.",
+      "does_not_prove": "Authorization to conclude, certify, publish or perform professional work."
+    },
+    {
+      "criterion_id": "G26-R05",
+      "label": "Bounded audit packet",
+      "pass_when": "Packet is retrievable, redacted as required, linked to negative cases and reviewable without inventing missing evidence.",
+      "does_not_prove": "An audit conclusion, assurance statement or professional attestation."
+    },
+    {
+      "criterion_id": "G26-R06",
+      "label": "Exit and decommission readiness",
+      "pass_when": "Exit, dependency-disable, archive, revocation and safe-stop paths are exercised and do not destroy retained obligations or records.",
+      "does_not_prove": "That closure resolves prior technical, legal, financial, safety or professional risk."
+    },
+    {
+      "criterion_id": "G26-R07",
+      "label": "Runtime evidence",
+      "pass_when": "Owner handover, policy compatibility, access controls, packet retrieval and exit behaviors have retained positive and negative runtime evidence where applicable.",
+      "does_not_prove": "Production safety, design adequacy, legal validity or professional conformity."
+    },
+    {
+      "criterion_id": "G26-R08",
+      "label": "Professional boundary review",
+      "pass_when": "Qualified, role-specific review covers exact artifact, intended use, limitations, authority, residual unknowns and date, with no self-review bypass.",
+      "does_not_prove": "Approval outside the reviewed artifact, role or jurisdiction."
+    },
+    {
+      "criterion_id": "G26-R09",
       "label": "Reversible human-controlled release",
       "pass_when": "Release is scoped, reversible, revocable and human-controlled, with runtime evidence and no automatic external action.",
       "does_not_prove": "Payment, certification, signing, execution, professional approval or technical correctness."

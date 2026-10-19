@@ -1,9 +1,131 @@
-# UniCostraction G20/G21/G22/G23/G24/G25 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25/G26 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G25 accountability governance observed
-on 2026-10-19 in the requested codex/uni-inventory worktree. G25 is an
-assurance-closure layer over G24; it does not implement, certify or promote
-any domain facet.
+Status: roadmap-only, release=blocked, G26 stewardship governance observed on
+2026-10-19 in the requested codex/uni-inventory worktree. G26 is a lifecycle
+stewardship layer over G25; it does not implement, certify or promote any
+domain facet.
+
+## G26 - stewardship and lifecycle-closure extension
+
+G26 governs who remains accountable, how governance policies stay compatible,
+how access is segmented, how a scoped route is made audit-ready and how it is
+retired or decommissioned. It does not create new CAD, IFC, Blender, PDF, SAL
+or current-law skills. These five areas close stewardship gaps around G25
+without repeating G22 role/change/audit/release controls, G23 assurance or
+G24/G25 replay, recovery, claims, challenge, retention and communication.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the stewardship packet, check, review or decision is
+  specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  access, audit or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G26 areas
+
+| G26 area | Stewardship purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g26.ownership_accountability | Assign accountable owners for obligations, decisions, blockers, exceptions, reviews and follow-up across the scoped route. | Maintains ongoing accountability; it does not replace G22 role separation, G25 challenge or domain ownership. | Owner assignment links to scope, source packet, decision, obligation and escalation evidence. | Accountable owner may not infer rights; each use and derivative decision remains explicit. | Ownership start/end, version, jurisdiction and handover or review dates are recorded. | Qualified role and authority are distinct from administrative ownership; no owner self-signs professional acceptance. | Ownership and escalation paths are exercised with positive, unavailable-owner and handover cases. |
+| g26.policy_versioning | Keep governance policies, gate definitions, templates and release contracts compatible across versions. | Manages policy compatibility; it does not replace G22 change control or G25 invariant checks. | Policy change links to affected source, control, evidence, decision and migration record. | Policy templates, examples, fixtures and derived guidance carry their own rights decisions. | Effective date, superseded version, jurisdiction, sunset and migration window are explicit. | Policy compatibility is not technical, legal or professional approval of governed content. | Version negotiation, upgrade, downgrade and incompatible-policy failures are tested and retained. |
+| g26.access_segmentation | Limit evidence, review, release and communication access by role, purpose, sensitivity and least privilege. | Governs access paths; it does not replace G25 retention/disposition or professional review. | Access grant links to artifact, purpose, source status, reviewer role and audit record. | Access, copy, export, disclosure and derivative permissions are checked per asset. | Access validity, review date, revocation trigger and jurisdictional restrictions are recorded. | Access is not authorization to conclude, certify, publish or perform professional work. | Grant, deny, revoke, break-glass and safe-stop behavior are tested without automatic external action. |
+| g26.audit_readiness | Prepare a bounded, retrievable packet showing scope, evidence, gates, decisions, exceptions and limitations for an authorized review. | Prepares evidence for review; it does not conduct an audit, issue assurance or replace independent challenge. | Packet index, locators, versions, checksums, negative cases and decision trail are complete. | Packet assembly, redaction, export and reviewer access respect licence, confidentiality and disclosure terms. | Packet snapshot, validity horizon, jurisdiction, refresh status and superseded records are identified. | Audit readiness is not a professional attestation; the authorized reviewer decides within scope. | Packet build, retrieval, redaction and integrity verification are reproducible; missing evidence blocks. |
+| g26.exit_decommission | Retire a scoped route, dependency, policy, communication and runtime safely when it is superseded, revoked or no longer supported. | Governs route closure; it does not duplicate G25 retention/disposition or G24 recovery. | Exit decision links to affected sources, evidence, open obligations, users, dependencies and closure evidence. | Revocation, archive, deletion, export and derivative handling follow each applicable right and disclosure decision. | Sunset date, superseding version, jurisdiction, stale/revoked state and reactivation conditions are explicit. | Decommissioning cannot withdraw required professional records or imply that closure resolves prior professional risk. | Disable, revoke, archive, restore-check and safe-stop behavior are tested; no automatic external action. |
+
+### G26 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that a stewardship contract is present in local coordination evidence.
+Every G26 area remains blocked until its operational evidence, gates, review and
+professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Ownership and accountability | Yes | Yes | Yes | Yes | G22 role separation and G25 challenge boundaries exist; no obligation register, accountable-owner handover or escalation exercise is evidenced. |
+| Policy versioning | Yes | Yes | Yes | Yes | G22 change control and G25 invariants exist; no policy compatibility, migration, upgrade/downgrade or incompatibility exercise is evidenced. |
+| Access segmentation | Yes | Yes | Yes | No | Rights, review and retention gates exist; no role-based grant/deny/revoke, break-glass or least-privilege evidence is present. |
+| Audit readiness | Yes | Yes | Yes | Yes | G22 audit/evidence controls and G25 challenge records exist structurally; no bounded retrievable packet with redaction and negative cases is evidenced. |
+| Exit and decommission | Yes | Yes | Yes | No | G22/G25 revocation and G24 recovery boundaries exist; no route-closure, dependency-disable, archive-check or safe-stop exercise is evidenced. |
+
+### G26 source, licence, currentness, professional and runtime gates
+
+Every G26 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link ownership, policy, access, audit or exit decisions to
+   canonical ownership, source locator, source/interpretation/example/
+   hypothesis separation, exact evidence, version/effective date,
+   observation time and jurisdiction.
+2. **Licence gate.** Record rights for source, dataset, fixture, policy,
+   template, tool, export, redaction, archive, backup, communication and
+   output as applicable. Unknown, incompatible or unreviewed rights keep the
+   route blocked.
+3. **Currentness gate.** Record effective/superseded version, validity
+   horizon, retrieval/observation time, stale/revoked status, sunset,
+   revalidation and handover or reactivation triggers.
+4. **Professional-boundary gate.** Identify the qualified role, exact
+   artifact version, reviewed scope, limitations, authority, decision and
+   date. Stewardship and audit readiness do not become technical, legal,
+   financial, safety or professional correctness.
+5. **Runtime gate.** Retain owner handover, policy compatibility, access
+   grant/deny/revoke, packet retrieval/redaction and exit/safe-stop results
+   where applicable. Static presence is not runtime proof.
+
+### G26 reversible-release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. Accountable owner, scope, obligations, escalation and handover conditions
+   are explicit and current.
+2. Policy and gate versions are compatible with the route, evidence snapshot,
+   tools, templates and jurisdiction; incompatible versions fail closed.
+3. Source, licence and derivative-right decisions cover governance artifacts,
+   access, export, archive, communication and exit.
+4. Currentness, supersession, validity horizon, sunset, revocation and
+   reactivation conditions are explicit.
+5. Role-based access tests prove grant, deny, revoke and safe-stop behavior;
+   break-glass use is bounded and logged where applicable.
+6. A bounded audit packet is retrievable, redacted as required, linked to
+   negative cases and reviewable without inventing missing evidence.
+7. Exit/decommission and dependency-disable paths are exercised, reversible
+   where required and do not destroy retained obligations or records.
+8. Qualified, role-specific professional review covers exact artifact,
+   intended use, limitations, authority, residual unknowns and date, with no
+   self-review bypass.
+9. Release is scoped, reversible, revocable and human-controlled, with
+   runtime evidence and no automatic filing, sending, payment, publication,
+   certification, signing, execution or professional approval.
+
+### G26 stop conditions and sequence
+
+G26 remains blocked when accountability is unassigned, policy versions
+conflict, access is over-broad or untested, audit evidence is incomplete,
+closure would destroy required records, any source/licence/currentness/
+runtime/professional gate is open, or stewardship language would be mistaken
+for correctness. Structural verification may remain alongside blocked because
+it records contract presence, not operational acceptance.
+
+1. **G26-00 - freeze stewardship scope.** Keep the six G20 facets, seven G21
+   areas, five G22 areas, five G23 areas, five G24 areas and five G25 areas;
+   add only the five G26 areas.
+2. **G26-01 - assign and version.** Record accountable owners, obligations,
+   policy versions, compatibility and handover conditions.
+3. **G26-02 - segment and prepare.** Exercise access controls and build a
+   bounded audit packet with negative cases and redaction decisions.
+4. **G26-03 - close safely.** Test decommission, dependency disable, archive
+   checks, revocation and safe-stop behavior where applicable.
+5. **G26-04 - reversible decision.** Release only when all applicable
+   criteria agree and stewardship, audit and exit paths remain available.
+
+No G26 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G26 status declares technical
+correctness or promotes a reference-only source to verified knowledge.
 
 ## G25 - accountability and assurance-closure extension
 
