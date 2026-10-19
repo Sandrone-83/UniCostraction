@@ -1,9 +1,131 @@
-# UniCostraction G20/G21/G22/G23/G24 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G24 operational governance observed on
-2026-10-19 in the requested codex/uni-inventory worktree. G24 is an
-operational-assurance layer over G23; it does not implement, certify or
-promote any domain facet.
+Status: roadmap-only, release=blocked, G25 accountability governance observed
+on 2026-10-19 in the requested codex/uni-inventory worktree. G25 is an
+assurance-closure layer over G24; it does not implement, certify or promote
+any domain facet.
+
+## G25 - accountability and assurance-closure extension
+
+G25 constrains how claims stay scoped, how cross-stage invariants are checked,
+how decisions receive independent challenge, how evidence is retained or
+disposed, and how release limitations are communicated. It does not create new
+CAD, IFC, Blender, PDF, SAL or current-law skills. The five areas below govern
+accountability around G24 without repeating G22 change/audit/exception/release
+controls or G23/G24 assurance, replay, recovery and feedback activities.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the closure packet, check, review or decision is specified
+  but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  retention or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G25 areas
+
+| G25 area | Accountability purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g25.claim_scope_management | Define claim types, audience, intended use, exclusions, limitations and residual unknowns for a scoped route. | Governs claim scope and drift; it does not replace G23 bounded attestation or make a claim true. | Claim links to canonical owner, source packet, evidence snapshot, audience and exact support. | Intended publication, training, internal use and derivative routes have separate rights decisions. | Claim date, validity horizon, jurisdiction, version and revalidation trigger are explicit. | Scope record cannot be legal, technical, financial, safety or professional approval. | Scope is replayed against the route and fails closed when evidence or audience exceeds the declared boundary. |
+| g25.invariant_consistency | Check that source, licence, currentness, runtime, professional and release states do not contradict one another. | Checks cross-stage invariants; it does not define the underlying controls or substitute for their evidence. | Each invariant points to the exact records and resolves source/interpretation/example/hypothesis status. | No invariant may mark a route pass when an applicable source or derivative right is unknown. | Currentness status, effective date, jurisdiction and refresh state agree across records. | A consistent record set is not professional correctness or sign-off. | Invariant checks run on representative positive and negative packets and stop on contradictions. |
+| g25.independent_challenge_review | Provide a second-line challenge of scope, evidence, gates, exceptions and release rationale before disposition. | Challenges decisions without becoming the domain reviewer, release approver or incident owner. | Challenger receives the exact evidence snapshot and records objections, tests and resolution. | Challenger verifies that rights decisions are in scope but does not grant rights beyond authority. | Challenger checks observation date, version, jurisdiction and staleness handling. | Independence, qualification, role separation and unresolved objections are explicit; challenge is not certification. | Challenge can reproduce the relevant check or retain a failed reproduction; unresolved variance blocks. |
+| g25.retention_disposition | Set retention, access, legal-hold, archive, revocation and disposal rules for evidence and derived artifacts. | Governs evidence lifecycle after capture; it does not replace integrity, backup/recovery or source provenance. | Retention class links to source, artifact type, decision, access record and disposition event. | Retention, copying, archive, deletion and derivative storage respect licence, confidentiality and disclosure terms. | Retention clock, effective period, stale/revoked status and revalidation or disposal trigger are recorded. | Retention policy does not authorize use of an artifact for professional work or override a required reviewer. | Archive/restore/disposal tests prove access control and safe-stop behavior without automatic external action. |
+| g25.release_communication_traceability | Record who receives a scoped release, its limitations, changes, blockers, revocation and required human actions. | Communicates an approved disposition; it does not approve, publish globally or replace G24 monitoring/feedback. | Message or notice links to release record, evidence snapshot, audience, version and limitations. | Distribution channel, attachments, excerpts and derivatives have explicit rights and disclosure decisions. | Notice carries release date, validity horizon, jurisdiction, change/revocation trigger and refresh owner. | Communication cannot be filing, certification, legal advice or professional direction without the qualified role. | Delivery, acknowledgement, revocation and safe-stop behavior are tested in the target environment; sending remains human-controlled. |
+
+### G25 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that an accountability contract is present in local coordination
+evidence. Every G25 area remains blocked until its operational evidence,
+gates, challenge and professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Claim-scope management | Yes | Yes | Yes | Yes | G23 bounded attestation and G24 route controls exist; no complete claim taxonomy, audience test or scope-drift exercise is evidenced. |
+| Invariant consistency | Yes | Yes | Yes | Yes | G21–G24 gate vocabulary exists; no cross-record contradiction corpus and fail-closed invariant run is evidenced. |
+| Independent challenge review | Yes | Yes | Yes | No | Professional boundaries and release gates exist; no independent challenge packet with objections, reproduction and resolution is evidenced. |
+| Retention and disposition | Yes | Yes | Yes | Yes | G22 evidence lifecycle and G24 recovery concepts exist; no retention-class, access, legal-hold, archive/disposal exercise is evidenced. |
+| Release communication traceability | Yes | Yes | Yes | Yes | G22/G24 scoped release and monitoring boundaries exist; no target-channel delivery, acknowledgement or revocation exercise is evidenced. |
+
+### G25 source, licence, currentness, professional and runtime gates
+
+Every G25 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link each claim, invariant, challenge, retention action or
+   notice to canonical ownership, source locator, source/interpretation/
+   example/hypothesis separation, evidence snapshot, version/effective date,
+   observation time, audience and jurisdiction.
+2. **Licence gate.** Record rights for source, dataset, fixture, tool,
+   derivative, archive, backup, log, message, attachment and output as
+   applicable. Unknown, incompatible or unreviewed rights keep the route
+   blocked.
+3. **Currentness gate.** Record validity horizon, retrieval/observation time,
+   amendment/repeal or version context, stale/revoked status, retention clock,
+   revalidation and communication-revocation triggers.
+4. **Professional-boundary gate.** Identify the qualified role, exact
+   evidence version, reviewed scope, limitations, objections, decision and
+   date. Accountability controls do not become technical, legal, financial,
+   safety or professional correctness.
+5. **Runtime gate.** Retain scope replays, invariant checks, challenge
+   reproductions, archive/restore/disposal tests and delivery/revocation
+   results where applicable. Static presence is not runtime proof.
+
+### G25 release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. Claim, audience, intended use, exclusions and residual unknowns are frozen
+   and do not exceed the evidence scope.
+2. Source, licence, currentness, runtime, professional and release states
+   satisfy declared cross-stage invariants with no contradiction.
+3. Evidence snapshot, transformation references, retention class and access
+   decision are traceable and reproducible.
+4. Independent challenge is completed by the required role, with objections,
+   reproduction attempts, resolutions and unresolved items visible.
+5. Retention, archive, legal-hold, revocation and disposal behavior is
+   explicit and exercised where applicable.
+6. Communication audience, channel, version, limitations, blockers and human
+   actions are recorded; delivery is not implied by document generation.
+7. Currentness and licence gates cover the message, archive, derivative and
+   target use, not only the originating source.
+8. Qualified review covers the exact artifact, scope, limitations, intended
+   use, residual unknowns and date; no self-review bypass exists.
+9. Release is scoped, reversible, revocable and human-controlled, with
+   runtime evidence and no automatic filing, sending, payment, publication,
+   certification, signing, execution or professional approval.
+
+### G25 stop conditions and sequence
+
+G25 remains blocked when a claim exceeds its evidence, cross-stage states
+contradict, challenge is missing, retention/disposal is undefined, a notice
+cannot be revoked, any source/licence/currentness/runtime/professional gate is
+open, or accountability language would be mistaken for correctness. Structural
+verification may remain alongside blocked because it records contract
+presence, not operational acceptance.
+
+1. **G25-00 - freeze accountability scope.** Keep the six G20 facets, seven
+   G21 areas, five G22 areas, five G23 areas and five G24 areas; add only the
+   five G25 areas.
+2. **G25-01 - bound claims and invariants.** Define claim taxonomy, audiences,
+   exclusions and cross-stage no-contradiction checks.
+3. **G25-02 - challenge and preserve.** Run independent challenge and
+   retention/archive/disposal exercises with negative cases.
+4. **G25-03 - trace communication.** Test scoped notice, acknowledgement,
+   limitation visibility and revocation/safe-stop behavior.
+5. **G25-04 - reversible decision.** Release only when all applicable
+   criteria agree and challenged, retained and revocable evidence remains
+   available.
+
+No G25 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G25 status declares technical
+correctness or promotes a reference-only source to verified knowledge.
 
 ## G24 - operational governance extension
 

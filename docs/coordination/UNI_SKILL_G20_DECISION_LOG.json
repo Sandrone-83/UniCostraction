@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g24.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_operational_governance_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance and G24 operational-governance matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g25.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_accountability_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance and G25 accountability matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G24 operational governance extension over G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G25 accountability and assurance-closure extension over G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -1146,6 +1146,190 @@
       "label": "Reversible monitored release",
       "pass_when": "Release is scoped, reversible, monitored and revocable under G22/G23 controls, with a tested recovery path and no automatic external action.",
       "does_not_prove": "Filing, sending, payment, publication, certification, signing, execution or technical correctness."
+    }
+  ],
+  "g25_areas": [
+    {
+      "area_id": "g25.claim_scope_management",
+      "label": "Claim-scope management",
+      "purpose": "Define claim types, audience, intended use, exclusions, limitations and residual unknowns for a scoped route.",
+      "non_redundant_boundary": "Governs claim scope and drift; it does not replace G23 bounded attestation or make a claim true.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Claim taxonomy", "Audience and scope test", "Scope-drift decision"],
+      "source_gate": "Claim links to canonical owner, source packet, evidence snapshot, audience and exact support.",
+      "licence_gate": "Intended publication, training, internal-use and derivative routes have separate rights decisions.",
+      "currentness_gate": "Claim date, validity horizon, jurisdiction, version and revalidation trigger are explicit.",
+      "professional_boundary": "Scope record cannot be legal, technical, financial, safety or professional approval.",
+      "runtime_gate": "Scope is replayed against the route and fails closed when evidence or audience exceeds the declared boundary.",
+      "blocked_when": ["Claim exceeds the evidence scope", "Audience or intended use is undefined", "Scope replay does not fail closed"]
+    },
+    {
+      "area_id": "g25.invariant_consistency",
+      "label": "Invariant consistency",
+      "purpose": "Check that source, licence, currentness, runtime, professional and release states do not contradict one another.",
+      "non_redundant_boundary": "Checks cross-stage invariants; it does not define the underlying controls or substitute for their evidence.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Invariant catalogue", "Contradiction corpus", "Fail-closed invariant run"],
+      "source_gate": "Each invariant points to exact records and resolves source, interpretation, example and hypothesis status.",
+      "licence_gate": "No invariant marks a route pass when an applicable source or derivative right is unknown.",
+      "currentness_gate": "Currentness status, effective date, jurisdiction and refresh state agree across records.",
+      "professional_boundary": "A consistent record set is not professional correctness or sign-off.",
+      "runtime_gate": "Invariant checks run on representative positive and negative packets and stop on contradictions.",
+      "blocked_when": ["Cross-stage records contradict", "Invariant or contradiction case is untested", "A consistent packet is presented as correctness"]
+    },
+    {
+      "area_id": "g25.independent_challenge_review",
+      "label": "Independent challenge review",
+      "purpose": "Provide a second-line challenge of scope, evidence, gates, exceptions and release rationale before disposition.",
+      "non_redundant_boundary": "Challenges decisions without becoming the domain reviewer, release approver or incident owner.",
+      "existing_evidence": ["S01", "S02"],
+      "planned_evidence": ["Independent challenge packet", "Objection and reproduction record", "Resolution or residual-objection decision"],
+      "source_gate": "Challenger receives the exact evidence snapshot and records objections, tests and resolution.",
+      "licence_gate": "Challenger verifies that rights decisions are in scope but does not grant rights beyond authority.",
+      "currentness_gate": "Challenger checks observation date, version, jurisdiction and staleness handling.",
+      "professional_boundary": "Independence, qualification, role separation and unresolved objections are explicit; challenge is not certification.",
+      "runtime_gate": "Challenge can reproduce the relevant check or retain a failed reproduction; unresolved variance blocks.",
+      "blocked_when": ["Challenger is not independent or qualified", "Objection or reproduction is not retained", "Residual objection is silently treated as resolved"]
+    },
+    {
+      "area_id": "g25.retention_disposition",
+      "label": "Retention and disposition",
+      "purpose": "Set retention, access, legal-hold, archive, revocation and disposal rules for evidence and derived artifacts.",
+      "non_redundant_boundary": "Governs evidence lifecycle after capture; it does not replace integrity, backup/recovery or source provenance.",
+      "existing_evidence": ["S01", "S02", "S03", "S06"],
+      "planned_evidence": ["Retention class", "Access and legal-hold record", "Archive/restore/disposal exercise"],
+      "source_gate": "Retention class links to source, artifact type, decision, access record and disposition event.",
+      "licence_gate": "Retention, copying, archive, deletion and derivative storage respect licence, confidentiality and disclosure terms.",
+      "currentness_gate": "Retention clock, effective period, stale/revoked status and revalidation or disposal trigger are recorded.",
+      "professional_boundary": "Retention policy does not authorize use of an artifact for professional work or override a required reviewer.",
+      "runtime_gate": "Archive, restore and disposal tests prove access control and safe-stop behavior without automatic external action.",
+      "blocked_when": ["Retention or access class is undefined", "Legal hold or revocation behavior is untested", "Disposal removes required evidence without recorded decision"]
+    },
+    {
+      "area_id": "g25.release_communication_traceability",
+      "label": "Release communication traceability",
+      "purpose": "Record who receives a scoped release, its limitations, changes, blockers, revocation and required human actions.",
+      "non_redundant_boundary": "Communicates an approved disposition; it does not approve, publish globally or replace G24 monitoring or feedback.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Audience/channel record", "Acknowledgement and limitation record", "Revocation notice exercise"],
+      "source_gate": "Message or notice links to release record, evidence snapshot, audience, version and limitations.",
+      "licence_gate": "Distribution channel, attachments, excerpts and derivatives have explicit rights and disclosure decisions.",
+      "currentness_gate": "Notice carries release date, validity horizon, jurisdiction, change or revocation trigger and refresh owner.",
+      "professional_boundary": "Communication cannot be filing, certification, legal advice or professional direction without the qualified role.",
+      "runtime_gate": "Delivery, acknowledgement, revocation and safe-stop behavior are tested in the target environment; sending remains human-controlled.",
+      "blocked_when": ["Audience or channel is unbounded", "Limitations or revocation path is not communicated", "Delivery test implies automatic sending or professional direction"]
+    }
+  ],
+  "g25_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required accountability packet, check, review or decision is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, retention or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g25.claim_scope_management",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No complete claim taxonomy, audience test or scope-drift exercise is evidenced."
+      },
+      {
+        "area_id": "g25.invariant_consistency",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No cross-record contradiction corpus and fail-closed invariant run is evidenced."
+      },
+      {
+        "area_id": "g25.independent_challenge_review",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": false,
+        "evidence_refs": ["S01", "S02"],
+        "missing_gate": "No independent challenge packet with objections, reproduction and resolution is evidenced."
+      },
+      {
+        "area_id": "g25.retention_disposition",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S06"],
+        "missing_gate": "No retention-class, access, legal-hold, archive or disposal exercise is evidenced."
+      },
+      {
+        "area_id": "g25.release_communication_traceability",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No target-channel delivery, acknowledgement or revocation exercise is evidenced."
+      }
+    ]
+  },
+  "g25_release_criteria": [
+    {
+      "criterion_id": "G25-R01",
+      "label": "Bounded claim and audience",
+      "pass_when": "Claim, audience, intended use, exclusions and residual unknowns are frozen and do not exceed evidence scope.",
+      "does_not_prove": "Technical, legal, financial, safety or professional correctness."
+    },
+    {
+      "criterion_id": "G25-R02",
+      "label": "Cross-stage invariant consistency",
+      "pass_when": "Source, licence, currentness, runtime, professional and release states satisfy declared invariants with no contradiction.",
+      "does_not_prove": "That a consistent record set is substantively correct."
+    },
+    {
+      "criterion_id": "G25-R03",
+      "label": "Traceable evidence and disposition",
+      "pass_when": "Evidence snapshot, transformation references, retention class and access decision are traceable and reproducible.",
+      "does_not_prove": "That retention or integrity proves truth or authorizes professional use."
+    },
+    {
+      "criterion_id": "G25-R04",
+      "label": "Independent challenge",
+      "pass_when": "Required independent challenge records objections, reproduction attempts, resolutions and unresolved items.",
+      "does_not_prove": "Certification, domain sign-off or automatic release approval."
+    },
+    {
+      "criterion_id": "G25-R05",
+      "label": "Retention and revocation behavior",
+      "pass_when": "Retention, archive, legal-hold, revocation and disposal behavior is explicit and exercised where applicable.",
+      "does_not_prove": "That an artifact may be used beyond its rights, validity or professional scope."
+    },
+    {
+      "criterion_id": "G25-R06",
+      "label": "Release communication",
+      "pass_when": "Audience, channel, version, limitations, blockers and required human actions are recorded; delivery is not implied by document generation.",
+      "does_not_prove": "Filing, sending, publication, legal advice or professional direction."
+    },
+    {
+      "criterion_id": "G25-R07",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Current source provenance, rights, validity horizon, jurisdiction, retention and communication-revocation triggers are explicit.",
+      "does_not_prove": "That a source is authoritative, current or cleared for every use."
+    },
+    {
+      "criterion_id": "G25-R08",
+      "label": "Professional boundary review",
+      "pass_when": "Qualified, role-specific review covers exact artifact, scope, limitations, intended use, residual unknowns and date, with no self-review bypass.",
+      "does_not_prove": "Approval outside the reviewed artifact, role or jurisdiction."
+    },
+    {
+      "criterion_id": "G25-R09",
+      "label": "Reversible human-controlled release",
+      "pass_when": "Release is scoped, reversible, revocable and human-controlled, with runtime evidence and no automatic external action.",
+      "does_not_prove": "Payment, certification, signing, execution, professional approval or technical correctness."
     }
   ],
   "global_blockers": [
