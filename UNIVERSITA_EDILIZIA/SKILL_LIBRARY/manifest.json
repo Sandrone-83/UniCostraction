@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -762,6 +762,76 @@
         {"url": "https://www.buildingsmart.org/standards/bsi-standards/information-delivery-manual/", "authority": "buildingSMART International", "purpose": "flussi informativi e consegne dell'asset", "rights_state": "official_reference_only_no_text_reproduced"},
         {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "ISO 19650 per gestione dell'informazione", "rights_state": "official_standard_paid_or_restricted_reference_only"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42!vig=", "authority": "Normattiva", "purpose": "vincoli e autorizzazioni per beni culturali quando pertinenti", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "digital-signature-pec-practice-management",
+      "path": "digital-signature-pec-practice-management/SKILL.md",
+      "title": "Gestione documentale, firme digitali e PEC per pratiche",
+      "domain": "documento informatico, firme digitali e PEC",
+      "scope": "Manifest documentale, firme, PEC, ricevute, protocollazione e conservazione per pratiche tecniche e amministrative.",
+      "source_refs": [
+        {"url": "https://www.agid.gov.it/it/piattaforme/sistema-gestione-procedimenti-amministrativi/documento-informatico", "authority": "AgID", "purpose": "documento informatico e linee guida di gestione/conservazione", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.agid.gov.it/en/piattaforme/posta-elettronica-certificata/elenco-gestori-pec", "authority": "AgID", "purpose": "elenco dei gestori PEC", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2005-03-07%3B82", "authority": "Normattiva", "purpose": "D.Lgs. 82/2005 Codice dell'amministrazione digitale", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/eli/reg/2014/910/oj", "authority": "EUR-Lex", "purpose": "Regolamento eIDAS sui servizi fiduciari", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "advanced-real-estate-technical-due-diligence",
+      "path": "advanced-real-estate-technical-due-diligence/SKILL.md",
+      "title": "Due diligence tecnica immobiliare avanzata",
+      "domain": "due diligence tecnica immobiliare avanzata",
+      "scope": "Stato fisico, documentale, impiantistico, ambientale, rischio e CAPEX/OPEX di un immobile con registro delle evidenze.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20", "authority": "Normattiva", "purpose": "DPR 380/2001 per quadro edilizio", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.agenziaentrate.gov.it/portale/schede/pagamenti/servizi-catastali-e-ipotecari", "authority": "Agenzia delle Entrate", "purpose": "servizi catastali e ipotecari ufficiali", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.iso.org/standard/83054.html", "authority": "ISO", "purpose": "ISO 55001 per gestione dell'asset", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.vigilfuoco.it/servizi-le-aziende-e-i-professionisti/prevenzione-incendi", "authority": "Vigili del Fuoco", "purpose": "fonti e procedimenti antincendio", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "operational-lifecycle-cost-evaluation",
+      "path": "operational-lifecycle-cost-evaluation/SKILL.md",
+      "title": "Valutazione dei costi operativi e del ciclo di vita",
+      "domain": "costi operativi e ciclo di vita",
+      "scope": "Confronto di CAPEX, OPEX, energia, manutenzione, rinnovi, downtime e fine vita per decisioni sull'asset.",
+      "source_refs": [
+        {"url": "https://committee.iso.org/standard/61148.html?browse=tc", "authority": "ISO", "purpose": "ISO 15686-5:2017 per life-cycle costing", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/83054.html", "authority": "ISO", "purpose": "ISO 55001 per gestione del valore dell'asset", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/iso-50001-energy-management.html", "authority": "ISO", "purpose": "ISO 50001 per prestazioni energetiche", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://environment.ec.europa.eu/topics/circular-economy/levels_en", "authority": "Commissione europea", "purpose": "Level(s) per performance del costruito", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "procurement-subcontractor-supply-chain-qualification",
+      "path": "procurement-subcontractor-supply-chain-qualification/SKILL.md",
+      "title": "Procurement, subappalto e qualificazione della filiera",
+      "domain": "procurement, subappalto e qualificazione filiera",
+      "scope": "Qualifica, onboarding, subappalto, filiera critica, requisiti, audit e monitoraggio dei fornitori.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per contratti pubblici e subappalto", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.anticorruzione.it/documents/91439/56f8f8cd-6004-5fcc-a05c-0aad83f7bbf7", "authority": "ANAC", "purpose": "atti e orientamenti sul Codice dei contratti", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.50130.durc-online.html", "authority": "INPS", "purpose": "DURC Online e regolarità contributiva", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 per requisiti di sicurezza", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "construction-site-privacy-personal-data",
+      "path": "construction-site-privacy-personal-data/SKILL.md",
+      "title": "Privacy e dati personali in cantiere",
+      "domain": "privacy e dati personali in cantiere",
+      "scope": "Minimizzazione, ruoli, informative, accessi, retention e incidenti per dati di lavoratori, visitatori e terzi.",
+      "source_refs": [
+        {"url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj", "authority": "EUR-Lex", "purpose": "GDPR, Regolamento UE 2016/679", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10226611", "authority": "Garante per la protezione dei dati personali", "purpose": "videosorveglianza e dati dei lavoratori", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=", "authority": "Normattiva", "purpose": "D.Lgs. 196/2003 Codice privacy", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en", "authority": "EDPB", "purpose": "linee guida europee sulla protezione dei dati", "rights_state": "official_reference_only_no_text_reproduced"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
