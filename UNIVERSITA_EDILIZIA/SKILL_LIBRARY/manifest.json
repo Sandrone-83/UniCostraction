@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -485,6 +485,73 @@
         {"url": "https://www.normattiva.it/eli/id/2017/08/07/17G00135/CONSOLIDATED/20210730", "authority": "Normattiva", "purpose": "DPR 120/2017 su terre e rocce da scavo", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://eur-lex.europa.eu/eli/dir/2008/98/oj", "authority": "Unione europea", "purpose": "Direttiva 2008/98/CE quadro sui rifiuti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.isprambiente.gov.it/it", "authority": "ISPRA", "purpose": "riferimenti e dati istituzionali ambientali", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "bim-cde-information-security",
+      "path": "bim-cde-information-security/SKILL.md",
+      "title": "Gestione BIM/CDE e sicurezza informativa",
+      "domain": "gestione BIM/CDE e sicurezza informativa",
+      "scope": "Governance di ambienti comuni di dati, accessi, versioni, transmittal, continuità, incidenti e diritti dell'informazione BIM.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/68078.html", "authority": "ISO", "purpose": "ISO 19650 per gestione dell'informazione nel ciclo di vita", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/27001?archive=all", "authority": "ISO", "purpose": "ISO/IEC 27001 per sistemi di gestione della sicurezza informativa", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj", "authority": "Unione europea", "purpose": "Direttiva NIS2 per reti e sistemi informativi", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "digital-twin-sensor-monitoring",
+      "path": "digital-twin-sensor-monitoring/SKILL.md",
+      "title": "Digital twin e sensori per il monitoraggio del costruito",
+      "domain": "digital twin, sensori e monitoraggio",
+      "scope": "Identità, osservazioni, sincronizzazione, pipeline, qualità e allarmi per una rappresentazione operativa di asset e sistemi.",
+      "source_refs": [
+        {"url": "https://committee.iso.org/standard/75066.html?browse=ics", "authority": "ISO", "purpose": "ISO 23247-1 per principi di digital twin framework", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.ogc.org/standards/sensorthings/", "authority": "Open Geospatial Consortium", "purpose": "OGC SensorThings API per dati IoT e osservazioni geospaziali", "rights_state": "official_open_source_or_open_standard_reference_verify_version"},
+        {"url": "https://docs.ogc.org/is/18-088/18-088.html", "authority": "Open Geospatial Consortium", "purpose": "modello e interfaccia SensorThings API Part 1", "rights_state": "official_open_source_or_open_standard_reference_verify_version"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "predictive-maintenance-reliability",
+      "path": "predictive-maintenance-reliability/SKILL.md",
+      "title": "Manutenzione predittiva e affidabilità degli asset",
+      "domain": "manutenzione predittiva e affidabilità",
+      "scope": "Failure data, criticità, segnali, modelli, soglie, work order e feedback per decisioni manutentive condizionate.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/83054.html", "authority": "ISO", "purpose": "ISO 55001:2024 per asset management e azione predittiva", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://www.iso.org/standard/64076.html?trk=public_post_comment-text", "authority": "ISO", "purpose": "ISO 14224 per raccolta e scambio di dati di affidabilità e manutenzione", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://committee.iso.org/sites/tc251/home/projects/published/iso-55001.html", "authority": "ISO TC 251", "purpose": "riferimenti ufficiali alla serie ISO 55000", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "sustainable-procurement-cam-esg",
+      "path": "sustainable-procurement-cam-esg/SKILL.md",
+      "title": "Procurement sostenibile, CAM ed ESG",
+      "domain": "procurement sostenibile, CAM ed ESG",
+      "scope": "Criteri, prove, scoring e controlli di esecuzione per CAM, sostenibilità di filiera e claim ESG.",
+      "source_refs": [
+        {"url": "https://www.iso.org/standard/63026.html", "authority": "ISO", "purpose": "ISO 20400 per procurement sostenibile", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://gpp.mase.gov.it/sites/default/files/2024-08/allegato-tecnico-CAM-edilizia-07-06-2022-rev-correttivo.pdf", "authority": "MASE", "purpose": "CAM edilizia per lavori e gestione del cantiere", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "Codice dei contratti pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/eli/dir/2022/2464/oj", "authority": "Unione europea", "purpose": "Direttiva CSRD sulla rendicontazione di sostenibilità", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "probabilistic-estimating-cost-engineering",
+      "path": "probabilistic-estimating-cost-engineering/SKILL.md",
+      "title": "Stima probabilistica e cost engineering",
+      "domain": "stima probabilistica e cost engineering",
+      "scope": "Base estimate, range, distribuzioni, correlazioni, contingency, percentili, sensitività e forecast quantitativo.",
+      "source_refs": [
+        {"url": "https://committee.iso.org/sites/tc258/home/projects/published/iso-21502.html", "authority": "ISO TC 258", "purpose": "ISO 21502 per contesto e gestione di progetto", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://committee.iso.org/sites/tc258/home/projects/published/iso-21512.html", "authority": "ISO TC 258", "purpose": "ISO 21512 per implementazione dell'earned value management", "rights_state": "official_standard_paid_or_restricted_reference_only"},
+        {"url": "https://web.aacei.org/resources/publications/recommended-practices", "authority": "AACE International", "purpose": "Recommended Practices professionali per cost engineering e stima", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2023-03-31%3B36%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 36/2023 per fasi e ruoli dei contratti pubblici", "rights_state": "official_public_legal_text_verify_current_consolidation"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
