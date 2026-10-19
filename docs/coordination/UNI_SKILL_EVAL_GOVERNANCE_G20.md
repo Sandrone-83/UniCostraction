@@ -87,7 +87,7 @@ test in memoria: quel formato usa `boundary`, `evidence`, `rubric`,
 `negative_case` e `negative_case_markers`. Il formato pubblicato envelope non
 può mischiare questi campi legacy.
 
-## Manifest pubblicato e delta G22/G23/G24/G25
+## Manifest pubblicato e delta G22/G23/G24/G25/G26
 
 Quando il manifest espone i metadati pubblicati `library`, `version`,
 `generated_at` e `rights_policy`, G20 applica il contratto manifest strict:
@@ -101,7 +101,7 @@ Ogni entry pubblicata richiede esattamente `id`, `path`, `title`, `domain`,
 rendono esplicita la provenienza dichiarata e il limite d'uso; non verificano la
 raggiungibilità, l'autorevolezza o la licenza effettiva delle fonti.
 
-Le fixture G22/G23/G24/G25 usano lo stesso envelope eval pubblicato, con milestone `G22`, `G23`, `G24` o `G25` e
+Le fixture G22/G23/G24/G25/G26 usano lo stesso envelope eval pubblicato, con milestone `G22`, `G23`, `G24`, `G25` o `G26` e
 copertura one-to-one per il lotto aggiunto. Il corpus e l'inventory restano
 fuori dal perimetro di questo worktree QA.
 
