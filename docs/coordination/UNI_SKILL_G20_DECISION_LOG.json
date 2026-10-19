@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "schema_version": "g26.v1",
-  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_stewardship_decision_log",
-  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability and G26 stewardship matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
+  "schema_version": "g27.v1",
+  "artifact_type": "unicostraction_g20_g21_g22_g23_g24_g25_g26_g27_thresholds_decision_log",
+  "purpose": "Source-backed, non-redundant roadmap, G21 release coverage, G22 governance, G23 assurance, G24 operational governance, G25 accountability, G26 stewardship and G27 thresholds/conflict/transparency matrix for six advanced facets; records observed evidence, planned work and explicit blockers without promoting knowledge or technical correctness.",
   "snapshot": {
     "worktree": "C:\\Users\\Alessandro\\Documents\\Codex\\2026-10-17\\unicostruction-university\\worktrees\\uni-inventory",
     "branch": "codex/uni-inventory",
     "observed_on": "2026-10-19",
-    "generation": "G26 stewardship and lifecycle-closure extension over G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
+    "generation": "G27 thresholds, conflict and transparency extension over G26 stewardship, G25 accountability, G24 operational governance, G23 assurance, G22 controls, G21 release coverage and the six G20 facets",
     "source_scope": "Selected checkout plus explicitly identified G19 reference records; no external claims are added.",
     "release_status": "blocked",
     "content_boundary": "Structural presence, a manifest, a README, a serializer or a proposed test does not prove factual, technical, legal, licensing, runtime, financial, educational or professional correctness."
@@ -1511,6 +1511,190 @@
     },
     {
       "criterion_id": "G26-R09",
+      "label": "Reversible human-controlled release",
+      "pass_when": "Release is scoped, reversible, revocable and human-controlled, with runtime evidence and no automatic external action.",
+      "does_not_prove": "Payment, certification, signing, execution, professional approval or technical correctness."
+    }
+  ],
+  "g27_areas": [
+    {
+      "area_id": "g27.control_performance_thresholds",
+      "label": "Control-performance thresholds",
+      "purpose": "Define bounded indicators, action thresholds, alert semantics and escalation without turning measurements into correctness claims.",
+      "non_redundant_boundary": "Adds decision thresholds over G23 metrics; it does not replace coverage measurement, risk classification or domain acceptance.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Threshold catalogue", "Boundary and missing-data replay", "Escalation decision"],
+      "source_gate": "Threshold links to metric definition, population, source evidence, baseline, exclusions and decision owner.",
+      "licence_gate": "Threshold inputs, fixtures, reports and derived alerts have explicit use and derivative-right decisions.",
+      "currentness_gate": "Observation window, effective date, refresh period, jurisdiction and threshold review date are explicit.",
+      "professional_boundary": "Threshold breach triggers review; it is not technical, legal, financial, safety or professional judgment.",
+      "runtime_gate": "Threshold and alert behavior are replayed on positive, boundary, negative and missing-data cases; ambiguity fails closed.",
+      "blocked_when": ["Population or threshold semantics are undefined", "Boundary or missing-data replay is absent", "Alert result is presented as correctness"]
+    },
+    {
+      "area_id": "g27.conflict_resolution",
+      "label": "Conflict resolution",
+      "purpose": "Resolve conflicting source, gate, role, currentness, licence or release records with precedence, escalation and residual uncertainty.",
+      "non_redundant_boundary": "Resolves conflicts between records; it does not replace G25 invariants or invent missing evidence.",
+      "existing_evidence": ["S01", "S02", "S03", "S08"],
+      "planned_evidence": ["Precedence catalogue", "Authorized conflict decision", "Unresolved-conflict exercise"],
+      "source_gate": "Each conflict links to exact records, source status, contradiction, precedence rule and decision rationale.",
+      "licence_gate": "Conflicting rights claims remain blocked until an authorized rights decision resolves them.",
+      "currentness_gate": "Effective dates, jurisdiction, supersession, retrieval time and conflict horizon are recorded.",
+      "professional_boundary": "Resolution role, authority, independence and limitations are explicit; resolution is not professional correctness.",
+      "runtime_gate": "Conflict fixtures exercise precedence, tie, stale-record and no-resolution paths; unresolved cases stop.",
+      "blocked_when": ["Precedence or authority is undefined", "Conflict path is untested", "Unresolved conflict is silently treated as resolved"]
+    },
+    {
+      "area_id": "g27.third_party_boundary",
+      "label": "Third-party boundary",
+      "purpose": "Define evidence, responsibility, service, tool and dependency boundaries when an external party or supplied artifact affects the route.",
+      "non_redundant_boundary": "Delimits responsibility and reliance; it does not replace dependency impact, licence review or professional ownership.",
+      "existing_evidence": ["S01", "S02", "S03", "S04", "S05"],
+      "planned_evidence": ["Third-party responsibility record", "Supplied-artifact assumptions", "Substitution and outage exercise"],
+      "source_gate": "Third-party identity, supplied evidence, scope, responsibility, assumptions, contact and exit condition are recorded.",
+      "licence_gate": "Contract, source, tool, service, asset, output and derivative rights are checked separately.",
+      "currentness_gate": "Third-party version, service date, jurisdiction, support window and revalidation trigger are explicit.",
+      "professional_boundary": "External input does not transfer professional duty; qualified owners review consequential reliance.",
+      "runtime_gate": "Substitution, outage, timeout, degraded and supplied-artifact validation cases are exercised without automatic external action.",
+      "blocked_when": ["Third-party responsibility or assumption is unbounded", "Substitution or outage behavior is untested", "External input is treated as professional approval"]
+    },
+    {
+      "area_id": "g27.assurance_sampling",
+      "label": "Assurance sampling",
+      "purpose": "Select representative, boundary, negative and high-risk cases for repeatable assurance review.",
+      "non_redundant_boundary": "Governs sample design and sufficiency evidence; it does not conduct the audit or make sampled content correct.",
+      "existing_evidence": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+      "planned_evidence": ["Sampling frame", "Retained selection seed", "Boundary, negative and resampling report"],
+      "source_gate": "Sampling frame, population, exclusions, selection method, seed and source/evidence links are retained.",
+      "licence_gate": "Sampled artifacts, fixtures, outputs and excerpts have rights and disclosure decisions.",
+      "currentness_gate": "Sampling period, version, jurisdiction, freshness and resampling trigger are recorded.",
+      "professional_boundary": "Qualified reviewer sets or approves material sampling scope; sample result is not professional sign-off.",
+      "runtime_gate": "Selection and replay use a retained seed and reproduce the same cases; missing population data blocks.",
+      "blocked_when": ["Population or selection method is incomplete", "Seeded replay is not reproducible", "Sample result is presented as universal correctness"]
+    },
+    {
+      "area_id": "g27.transparency_reporting",
+      "label": "Transparency reporting",
+      "purpose": "Produce bounded status reports showing coverage, blockers, limitations, confidence boundaries and change history to an authorized audience.",
+      "non_redundant_boundary": "Aggregates governance status; it does not replace release communication, audit packet, attestation or professional advice.",
+      "existing_evidence": ["S01", "S02", "S03"],
+      "planned_evidence": ["Bounded status report", "Stale-data warning", "Authorized preview and redaction record"],
+      "source_gate": "Report values link to source records, evidence snapshot, matrix state, blocker and report version.",
+      "licence_gate": "Report, chart, attachment, excerpt and distribution route have explicit rights and disclosure decisions.",
+      "currentness_gate": "Report date, validity horizon, jurisdiction, superseded status and refresh owner are visible.",
+      "professional_boundary": "Transparency report states its limits and cannot certify, file, publish as authority or direct professional action.",
+      "runtime_gate": "Report generation, redaction, distribution preview and stale-data warning are reproducible; sending remains human-controlled.",
+      "blocked_when": ["Report values or blockers are not traceable", "Stale or superseded state is hidden", "Report implies authority or automatic publication"]
+    }
+  ],
+  "g27_coverage_matrix": {
+    "state_definitions": {
+      "existing": "A local contract, source register, matrix, gate or prior coordination artifact exists; this is not implementation or correctness proof.",
+      "planned": "Required thresholds, conflict, third-party, sampling or reporting packet is specified but not established as complete.",
+      "blocked": "At least one source, licence, currentness, runtime, conflict, third-party or professional gate is open.",
+      "verified_structural": "Only a named local artifact, field, path or deterministic document check was observed; this is not semantic, factual, legal, licence, runtime, financial or professional verification."
+    },
+    "matrix_is_cumulative": true,
+    "rows": [
+      {
+        "area_id": "g27.control_performance_thresholds",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No threshold calibration, boundary-case replay or escalation evidence is evidenced."
+      },
+      {
+        "area_id": "g27.conflict_resolution",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S08"],
+        "missing_gate": "No precedence catalogue, authorized resolution or unresolved-conflict exercise is evidenced."
+      },
+      {
+        "area_id": "g27.third_party_boundary",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S04", "S05"],
+        "missing_gate": "No external-input responsibility, substitution or outage exercise is evidenced."
+      },
+      {
+        "area_id": "g27.assurance_sampling",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08"],
+        "missing_gate": "No retained sample frame, seed, boundary cases or resampling decision is evidenced."
+      },
+      {
+        "area_id": "g27.transparency_reporting",
+        "existing": true,
+        "planned": true,
+        "blocked": true,
+        "verified_structural": true,
+        "evidence_refs": ["S01", "S02", "S03"],
+        "missing_gate": "No bounded status report with stale-data warning and authorized preview is evidenced."
+      }
+    ]
+  },
+  "g27_release_criteria": [
+    {
+      "criterion_id": "G27-R01",
+      "label": "Frozen scope and threshold population",
+      "pass_when": "Scope, audience, metric population, objective, route and accountable owner are fixed; thresholds do not exceed evidence or authority.",
+      "does_not_prove": "Technical, legal, financial, safety or professional correctness."
+    },
+    {
+      "criterion_id": "G27-R02",
+      "label": "Threshold and alert replay",
+      "pass_when": "Thresholds and alerts replay correctly on positive, boundary, negative and missing-data cases with escalation and fail-closed behavior.",
+      "does_not_prove": "That an alert or threshold represents substantive correctness."
+    },
+    {
+      "criterion_id": "G27-R03",
+      "label": "Authorized conflict resolution",
+      "pass_when": "Conflicts have explicit records, precedence, authorized resolution, residual uncertainty and no invented evidence.",
+      "does_not_prove": "Legal, technical, financial, safety or professional validity."
+    },
+    {
+      "criterion_id": "G27-R04",
+      "label": "Third-party reliance boundary",
+      "pass_when": "Third-party responsibilities, assumptions, rights, support window and substitution or outage behavior are documented and exercised.",
+      "does_not_prove": "That an external artifact or service is correct or professionally accepted."
+    },
+    {
+      "criterion_id": "G27-R05",
+      "label": "Reproducible assurance sample",
+      "pass_when": "Sample frame, selection method, seed, exclusions, boundary cases and resampling trigger are retained and reproducible.",
+      "does_not_prove": "That sampled results generalize to all content or establish correctness."
+    },
+    {
+      "criterion_id": "G27-R06",
+      "label": "Source, licence and currentness gates",
+      "pass_when": "Provenance, rights, validity horizon, jurisdiction, supersession, refresh and disclosure conditions are explicit for every input and report.",
+      "does_not_prove": "That a source is authoritative, current or cleared for every use."
+    },
+    {
+      "criterion_id": "G27-R07",
+      "label": "Bounded transparency report",
+      "pass_when": "Report exposes coverage, blockers, limitations, stale status, change history and uncertainty without implying correctness or authority.",
+      "does_not_prove": "An audit conclusion, certification, publication authority or professional advice."
+    },
+    {
+      "criterion_id": "G27-R08",
+      "label": "Professional boundary review",
+      "pass_when": "Qualified, role-specific review covers exact report or decision version, scope, intended use, limitations, authority, residual unknowns and date.",
+      "does_not_prove": "Approval outside the reviewed artifact, role or jurisdiction."
+    },
+    {
+      "criterion_id": "G27-R09",
       "label": "Reversible human-controlled release",
       "pass_when": "Release is scoped, reversible, revocable and human-controlled, with runtime evidence and no automatic external action.",
       "does_not_prove": "Payment, certification, signing, execution, professional approval or technical correctness."

@@ -1,9 +1,133 @@
-# UniCostraction G20/G21/G22/G23/G24/G25/G26 — advanced facets, release coverage and governance
+# UniCostraction G20/G21/G22/G23/G24/G25/G26/G27 — advanced facets, release coverage and governance
 
-Status: roadmap-only, release=blocked, G26 stewardship governance observed on
-2026-10-19 in the requested codex/uni-inventory worktree. G26 is a lifecycle
-stewardship layer over G25; it does not implement, certify or promote any
+Status: roadmap-only, release=blocked, G27 governance observed on 2026-10-19
+in the requested codex/uni-inventory worktree. G27 is a second-level
+governance layer over G26; it does not implement, certify or promote any
 domain facet.
+
+## G27 - thresholds, conflict and transparency extension
+
+G27 defines how governance signals become bounded thresholds, how conflicting
+records are resolved, how third-party responsibilities are delimited, how
+assurance samples are selected and how status is reported transparently. It
+does not create new CAD, IFC, Blender, PDF, SAL or current-law skills. These
+five areas extend G26 without repeating ownership, policy compatibility,
+access, audit readiness, exit/decommission, claim scope, challenge, retention
+or release communication controls.
+
+The matrix uses cumulative states:
+
+- **existing** means a local contract, register, matrix, gate or prior
+  coordination artifact was observed;
+- **planned** means the G27 packet, threshold, resolution, sample, report or
+  decision is specified but not evidenced as complete;
+- **blocked** means an applicable source, licence, currentness, runtime,
+  conflict, third-party or professional gate remains open;
+- **verified (structural)** means only that the named document field,
+  reference, matrix row or deterministic structural check exists. It never
+  means factual, technical, legal, licence, runtime, financial or professional
+  correctness.
+
+### G27 areas
+
+| G27 area | Governance purpose | Non-redundant boundary | Source gate | Licence gate | Currentness gate | Professional boundary | Runtime gate |
+|---|---|---|---|---|---|---|---|
+| g27.control_performance_thresholds | Define bounded indicators, action thresholds, alert semantics and escalation without turning measurements into correctness claims. | Adds decision thresholds over G23 metrics; it does not replace coverage measurement, risk classification or domain acceptance. | Threshold links to metric definition, population, source evidence, baseline, exclusions and decision owner. | Threshold inputs, fixtures, reports and derived alerts have explicit use and derivative-right decisions. | Observation window, effective date, refresh period, jurisdiction and threshold review date are explicit. | Threshold breach triggers review; it is not technical, legal, financial, safety or professional judgment. | Threshold and alert behavior are replayed on positive, boundary, negative and missing-data cases; fail-closed on ambiguity. |
+| g27.conflict_resolution | Resolve conflicting source, gate, role, currentness, licence or release records with precedence, escalation and residual uncertainty. | Resolves conflicts between records; it does not replace G25 invariants or invent missing evidence. | Each conflict links to exact records, source status, contradiction, precedence rule and decision rationale. | Conflicting rights claims remain blocked until an authorized rights decision resolves them. | Effective dates, jurisdiction, supersession, retrieval time and conflict horizon are recorded. | Resolution role, authority, independence and limitations are explicit; resolution is not professional correctness. | Conflict fixtures exercise precedence, tie, stale-record and no-resolution paths; unresolved cases stop. |
+| g27.third_party_boundary | Define evidence, responsibility, service, tool and dependency boundaries when an external party or supplied artifact affects the route. | Delimits responsibility and reliance; it does not replace dependency impact, licence review or professional ownership. | Third-party identity, supplied evidence, scope, responsibility, assumptions, contact and exit condition are recorded. | Contract, source, tool, service, asset, output and derivative rights are checked separately. | Third-party version, service date, jurisdiction, support window and revalidation trigger are explicit. | External input does not transfer professional duty; qualified owners review consequential reliance. | Substitution, outage, timeout, degraded and supplied-artifact validation cases are exercised without automatic external action. |
+| g27.assurance_sampling | Select representative, boundary, negative and high-risk cases for repeatable assurance review. | Governs sample design and sufficiency evidence; it does not conduct the audit or make sampled content correct. | Sampling frame, population, exclusions, selection method, seed and source/evidence links are retained. | Sampled artifacts, fixtures, outputs and excerpts have rights and disclosure decisions. | Sampling period, version, jurisdiction, freshness and resampling trigger are recorded. | Qualified reviewer sets or approves material sampling scope; sample result is not professional sign-off. | Selection and replay use a retained seed and reproduce the same cases; missing population data blocks. |
+| g27.transparency_reporting | Produce bounded status reports showing coverage, blockers, limitations, confidence boundaries and change history to an authorized audience. | Aggregates governance status; it does not replace release communication, audit packet, attestation or professional advice. | Report values link to source records, evidence snapshot, matrix state, blocker and report version. | Report, chart, attachment, excerpt and distribution route have explicit rights and disclosure decisions. | Report date, validity horizon, jurisdiction, superseded status and refresh owner are visible. | Transparency report states its limits and cannot certify, file, publish as authority or direct professional action. | Report generation, redaction, distribution preview and stale-data warning are reproducible; sending remains human-controlled. |
+
+### G27 coverage matrix
+
+The matrix is conservative and cumulative. Structural verified marks identify
+only that a G27 contract is present in local coordination evidence. Every G27
+area remains blocked until its operational evidence, gates, review and
+professional boundaries are satisfied.
+
+| Area | Existing | Planned | Blocked | Verified (structural only) | Coverage evidence / missing gate |
+|---|---:|---:|---:|---:|---|
+| Control-performance thresholds | Yes | Yes | Yes | Yes | G23 metrics and G26 stewardship controls exist; no threshold calibration, boundary-case replay or escalation evidence is evidenced. |
+| Conflict resolution | Yes | Yes | Yes | Yes | G25 invariants and challenge boundaries exist; no precedence catalogue, authorized resolution or unresolved-conflict exercise is evidenced. |
+| Third-party boundary | Yes | Yes | Yes | Yes | G24 dependency and G26 ownership controls exist; no external-input responsibility, substitution or outage exercise is evidenced. |
+| Assurance sampling | Yes | Yes | Yes | Yes | G26 audit readiness and G23 coverage concepts exist; no retained sample frame, seed, boundary cases or resampling decision is evidenced. |
+| Transparency reporting | Yes | Yes | Yes | Yes | G25 communication and G26 audit packet boundaries exist; no bounded status report with stale-data warning and authorized preview is evidenced. |
+
+### G27 source, licence, currentness, professional and runtime gates
+
+Every G27 packet must satisfy all applicable gates, with a documented
+not-applicable rationale when a gate genuinely does not apply:
+
+1. **Source gate.** Link thresholds, conflicts, third-party reliance, samples
+   or reports to canonical ownership, source locator, source/interpretation/
+   example/hypothesis separation, exact evidence, version/effective date,
+   observation time, population and jurisdiction.
+2. **Licence gate.** Record rights for source, dataset, fixture, service,
+   contract, tool, sample, chart, excerpt, report, attachment and output as
+   applicable. Unknown, incompatible or unreviewed rights keep the route
+   blocked.
+3. **Currentness gate.** Record validity horizon, retrieval/observation time,
+   amendment/repeal or version context, stale/superseded status, threshold
+   review, resampling and report-refresh triggers.
+4. **Professional-boundary gate.** Identify the qualified role, exact
+   artifact version, reviewed scope, authority, limitations, unresolved
+   uncertainty, decision and date. Governance signals do not become
+   technical, legal, financial, safety or professional correctness.
+5. **Runtime gate.** Retain threshold replays, conflict fixtures, third-party
+   outage/substitution tests, seeded sample reruns and report generation or
+   stale-warning results where applicable. Static presence is not runtime
+   proof.
+
+### G27 reversible-release criteria
+
+Release remains blocked unless every applicable criterion passes for the
+scoped route. A missing, stale, conflicting or unknown item is a blocker:
+
+1. Scope, audience, metric population, objective, route and accountable owner
+   are fixed; thresholds do not exceed evidence or authority.
+2. Thresholds and alerts replay correctly on positive, boundary, negative and
+   missing-data cases, with escalation and fail-closed behavior.
+3. Conflicts have explicit records, precedence, authorized resolution,
+   residual uncertainty and no invented evidence.
+4. Third-party responsibilities, assumptions, rights, support window and
+   substitution/outage behavior are documented and exercised.
+5. Assurance sample frame, selection method, seed, exclusions, boundary cases
+   and resampling trigger are retained and reproducible.
+6. Source, licence, currentness, runtime and professional-boundary gates cover
+   every input, derivative, report and intended use.
+7. Transparency report exposes coverage, blockers, limitations, stale status,
+   change history and uncertainty without implying correctness or authority.
+8. Qualified, role-specific review covers exact report or decision version,
+   scope, intended use, limitations, authority, residual unknowns and date.
+9. Release is scoped, reversible, revocable and human-controlled, with
+   runtime evidence and no automatic filing, sending, payment, publication,
+   certification, signing, execution or professional approval.
+
+### G27 stop conditions and sequence
+
+G27 remains blocked when a threshold lacks a defined population, a conflict
+has no authorized resolution, third-party reliance is unbounded, sampling is
+not reproducible, reporting hides limitations or stale status, any source/
+licence/currentness/runtime/professional gate is open, or governance language
+would be mistaken for correctness. Structural verification may remain
+alongside blocked because it records contract presence, not acceptance.
+
+1. **G27-00 - freeze second-level scope.** Keep the six G20 facets, seven G21
+   areas, five G22 areas, five G23 areas, five G24 areas and five G25 areas;
+   add only the five G27 areas.
+2. **G27-01 - set thresholds and conflicts.** Define populations, boundary
+   cases, alerts, precedence, escalation and unresolved-state behavior.
+3. **G27-02 - bound reliance and samples.** Record third-party boundaries and
+   run seeded assurance sampling with negative and high-risk cases.
+4. **G27-03 - report transparently.** Generate bounded status reports with
+   stale-data warnings, blockers, limitations and authorized preview.
+5. **G27-04 - reversible decision.** Release only when all applicable
+   criteria agree and conflict, reliance, sample and reporting evidence
+   remain available for reversal.
+
+No G27 area authorizes automatic publication, filing, payment, sending,
+certification, signing or execution. No G27 status declares technical
+correctness or promotes a reference-only source to verified knowledge.
 
 ## G26 - stewardship and lifecycle-closure extension
 
