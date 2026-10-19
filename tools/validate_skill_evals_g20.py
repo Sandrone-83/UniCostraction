@@ -1,4 +1,4 @@
-"""G20 structural validator for skill evaluation cases.
+"""G20/G23/G24 structural validator for skill evaluation cases.
 
 The validator checks the evaluation contract and its one-to-one relationship
 with the skill IDs declared by ``manifest.json``.  It deliberately validates
@@ -286,7 +286,12 @@ def _answer_key_findings(value: Any, location: str) -> Iterable[str]:
             yield from _answer_key_findings(child, f"{location}[{index}]")
 
 
-def _published_envelope_issues(envelope: dict[str, Any], manifest: Any, location: str) -> list[str]:
+def _published_envelope_issues(
+    envelope: dict[str, Any],
+    manifest: Any,
+    location: str,
+    expected_milestone: str | None = None,
+) -> list[str]:
     issues: list[str] = []
     missing = sorted(PUBLISHED_ENVELOPE_REQUIRED_FIELDS - set(envelope))
     issues.extend(f"{location}: missing required field {field}" for field in missing)
@@ -302,6 +307,11 @@ def _published_envelope_issues(envelope: dict[str, Any], manifest: Any, location
     if not _is_non_empty_string(milestone) or not MILESTONE_PATTERN.fullmatch(milestone):
         if "milestone" in envelope:
             issues.append(f"{location}.milestone: G<number> milestone required")
+    if expected_milestone is not None:
+        if not isinstance(expected_milestone, str) or not MILESTONE_PATTERN.fullmatch(expected_milestone):
+            issues.append(f"{location}.milestone: expected selector G<number> required")
+        elif milestone != expected_milestone:
+            issues.append(f"{location}.milestone: expected {expected_milestone}")
 
     manifest_library = manifest.get("library") if isinstance(manifest, dict) else None
     if _is_non_empty_string(manifest_library) and _is_non_empty_string(envelope.get("library")):
@@ -407,7 +417,11 @@ def _eval_field_issues(record: Any, location: str, published_schema: bool | None
             issues.append(f"{location}.negative_case_markers: must be empty for non-negative case")
     return issues
 
-def validate_evals(manifest: Any, evaluations: Any) -> list[str]:
+def validate_evals(
+    manifest: Any,
+    evaluations: Any,
+    expected_milestone: str | None = None,
+) -> list[str]:
     """Validate in-memory manifest/evaluation data and return sorted findings."""
 
     manifest_ids, findings = _manifest_skill_ids(manifest)
@@ -415,7 +429,7 @@ def validate_evals(manifest: Any, evaluations: Any) -> list[str]:
     findings.extend(_answer_key_findings(manifest, "manifest.json"))
     cases, published_envelope = _evaluation_cases(evaluations)
     if published_envelope and isinstance(evaluations, dict):
-        findings.extend(_published_envelope_issues(evaluations, manifest, "evals/evals.json"))
+        findings.extend(_published_envelope_issues(evaluations, manifest, "evals/evals.json", expected_milestone))
         findings.extend(_answer_key_findings(evaluations, "evals/evals.json"))
     if not cases:
         findings.append("evals/evals.json: non-empty cases list required")
@@ -485,7 +499,10 @@ def _read_json_findings(path: Path, label: str) -> tuple[Any | None, list[str]]:
         return None, [f"{label}: valid UTF-8 JSON required"]
 
 
-def validate_library(root: Path = DEFAULT_LIBRARY) -> list[str]:
+def validate_library(
+    root: Path = DEFAULT_LIBRARY,
+    expected_milestone: str | None = None,
+) -> list[str]:
     """Validate ``manifest.json`` and ``evals/evals.json`` under ``root``."""
 
     root = Path(root).resolve()
@@ -498,15 +515,20 @@ def validate_library(root: Path = DEFAULT_LIBRARY) -> list[str]:
     evaluations, eval_findings = _read_json_findings(root / EVALS_RELATIVE_PATH, EVALS_RELATIVE_PATH.as_posix())
     findings = [*manifest_findings, *eval_findings]
     if manifest is not None and evaluations is not None:
-        findings.extend(validate_evals(manifest, evaluations))
+        findings.extend(validate_evals(manifest, evaluations, expected_milestone))
     return sorted(set(findings))
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("library", nargs="?", type=Path, default=DEFAULT_LIBRARY, help="skill-library root")
+    parser.add_argument(
+        "--milestone",
+        dest="expected_milestone",
+        help="require this published G<number> milestone",
+    )
     args = parser.parse_args(argv)
-    findings = validate_library(args.library)
+    findings = validate_library(args.library, args.expected_milestone)
     if findings:
         print("\n".join(findings))
         return 1

@@ -1,4 +1,4 @@
-"""G20/G22 skill-evaluation contract tests using in-memory fixtures."""
+"""G20/G23/G24 skill-evaluation contract tests using in-memory fixtures."""
 
 from __future__ import annotations
 
@@ -60,7 +60,7 @@ def _case(
 
 def _published_case(
     skill_id: str = "skill-cila-basics",
-    case_id: str = "g23-001",
+    case_id: str = "g24-001",
 ) -> dict:
     return {
         "case_id": case_id,
@@ -80,7 +80,7 @@ def _published_case(
     }
 
 
-def _published_envelope(cases: list[dict], milestone: str = "G23") -> dict:
+def _published_envelope(cases: list[dict], milestone: str = "G24") -> dict:
     return {
         "schema_version": "g19-skill-library-evals-1",
         "library": "UniCostraction/AuraTrix-AulaFIX",
@@ -117,21 +117,21 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
             validate_evals(manifest, _published_envelope([_published_case()])),
         )
 
-    def test_g23_published_manifest_and_evals_cover_each_skill_once(self) -> None:
+    def test_g24_published_manifest_and_evals_cover_each_skill_once(self) -> None:
         manifest = _published_manifest(
             "skill-cila-basics",
             "fire-engineering-performance-verification",
         )
         evaluations = _published_envelope(
             [
-                _published_case("skill-cila-basics", "g23-001"),
-                _published_case("fire-engineering-performance-verification", "g23-002"),
+                _published_case("skill-cila-basics", "g24-001"),
+                _published_case("fire-engineering-performance-verification", "g24-002"),
             ]
         )
 
         self.assertEqual([], validate_evals(manifest, evaluations))
 
-    def test_g23_manifest_rejects_invalid_date_duplicate_path_and_skill_slug(self) -> None:
+    def test_g24_manifest_rejects_invalid_date_duplicate_path_and_skill_slug(self) -> None:
         manifest = _published_manifest("skill-cila-basics", "skill-urbanistica-basics")
         manifest["generated_at"] = "2026-02-30"
         manifest["skills"][1]["id"] = "Skill Urbanistica"
@@ -153,6 +153,20 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
         )
         self.assertTrue(any("skills[1].path: duplicate exact skill path" in finding for finding in duplicate_findings))
 
+    def test_previous_published_milestone_remains_compatible(self) -> None:
+        manifest = _published_manifest("skill-cila-basics")
+        evaluations = _published_envelope(
+            [_published_case("skill-cila-basics", "g23-001")],
+            milestone="G23",
+        )
+
+        self.assertEqual([], validate_evals(manifest, evaluations))
+        self.assertEqual([], validate_evals(manifest, evaluations, expected_milestone="G23"))
+        findings = validate_evals(manifest, evaluations, expected_milestone="G24")
+        self.assertTrue(any("milestone: expected G24" in finding for finding in findings))
+        invalid_selector_findings = validate_evals(manifest, evaluations, expected_milestone="G24-next")
+        self.assertTrue(any("expected selector G<number> required" in finding for finding in invalid_selector_findings))
+
     def test_published_manifest_requires_provenance_and_limits(self) -> None:
         manifest = _published_manifest("skill-cila-basics")
         manifest["rights_policy"] = "  "
@@ -172,7 +186,7 @@ class SkillEvalsContractG20Tests(unittest.TestCase):
     def test_published_envelope_requires_exact_schema_metadata(self) -> None:
         evaluations = _published_envelope([_published_case()])
         evaluations["schema_version"] = "g20-skill-library-evals-1"
-        evaluations["milestone"] = "G23-next"
+        evaluations["milestone"] = "G24-next"
         evaluations["purpose"] = "  "
         evaluations["rights_and_safety"]["unapproved"] = "field"
         evaluations["library"] = "Other/Library"
