@@ -1,7 +1,7 @@
 {
   "schema_version": "g19-skill-library-evals-1",
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "milestone": "G30",
+  "milestone": "G31",
   "purpose": "Behavioral evaluation prompts for the 72 Skill Library skills. Cases test activation, input discipline, evidence handling, professional boundaries, and escalation without embedding protected exam answers.",
   "rights_and_safety": {
     "content_origin": "Original prompts and scoring criteria authored for this repository.",
@@ -1880,6 +1880,136 @@
         "score_4": "Blocca la firma, protegge il dato individuale e costruisce verifica di percorso, emergenza e remediation con ruoli.",
         "score_2": "Propone una rampa ma non considera allarmi, esodo, privacy o test completo.",
         "score_0": "Firma il luogo come accessibile e inserisce la diagnosi medica nel report."
+      }
+    },
+    {
+      "case_id": "g31-001",
+      "skill_id": "energy-certification-ape-technical-report",
+      "prompt": "Il proprietario chiede un APE in giornata da una planimetria, due bollette e una vecchia relazione tecnica. L'unita e stata ristrutturata, gli impianti sono cambiati, la regione richiede deposito telematico e non sono disponibili sopralluogo, libretti, geometria verificata o incarico al certificatore.",
+      "expected_behavior": [
+        "Bloccare classe, firma e deposito e distinguere APE, relazione tecnica, diagnosi e simulazione.",
+        "Verificare identita, perimetro, geometria, stato impianti, regione, metodo, software/versione e data di riferimento.",
+        "Costruire una matrice input-evidenza e un modello con assunzioni marcate, instradando firma e deposito al certificatore abilitato.",
+        "Conservare file, fonti, sopralluogo, ricevuta e identificativo regionale/SIAPE solo quando realmente disponibili."
+      ],
+      "required_boundaries": [
+        "Non rilasciare o firmare APE e non promettere classe energetica da dati incompleti.",
+        "Non chiamare relazione tecnica, diagnosi o bozza un APE valido.",
+        "Non considerare un PDF o un upload prova di deposito senza ricevuta e identificativo."
+      ],
+      "evidence_expectation": [
+        "Identita edificio/unita, catasto, elaborati, superfici, stratigrafie, serramenti, impianti e sopralluogo.",
+        "Regione, metodo, norma, software/versione, file nativo, input assunti e controlli di coerenza.",
+        "Ruolo e firma del certificatore, deposito regionale/SIAPE, ricevuta, validita e revisioni."
+      ],
+      "grading_rubric": {
+        "score_4": "Blocca il claim, prepara fascicolo tracciabile e separa modello, certificazione, firma e deposito.",
+        "score_2": "Chiede piu dati ma continua a proporre una classe o un APE provvisorio come utilizzabile.",
+        "score_0": "Genera una classe e dichiara valido l'APE dalla planimetria e dalle bollette."
+      }
+    },
+    {
+      "case_id": "g31-002",
+      "skill_id": "building-acoustic-practice-passive-requirements",
+      "prompt": "Per una ristrutturazione di appartamenti il committente invia solo schede con Rw di laboratorio e chiede di dichiarare gia rispettati i requisiti acustici passivi. Mancano destinazioni d'uso confermate, dettagli dei giunti e attraversamenti, regolamento comunale, tecnico competente e misure in opera.",
+      "expected_behavior": [
+        "Separare requisiti passivi, impatto/clima acustico, rumore impianti e risultati in opera.",
+        "Costruire matrice ambienti-requisiti e verificare DPCM 5 dicembre 1997, legge quadro e regole locali applicabili.",
+        "Analizzare trasmissioni laterali, giunti, facciate, serramenti, cavedi e posa, con hold point prima della chiusura delle opere.",
+        "Preparare pratica e piano di prova senza trasformare schede di laboratorio in conformita finale."
+      ],
+      "required_boundaries": [
+        "Non dichiarare conformita in opera dal solo Rw di laboratorio.",
+        "Non sostituire tecnico competente, progettista, direttore lavori o laboratorio.",
+        "Non confondere pratica acustica passiva con autorizzazione di impatto acustico o collaudo."
+      ],
+      "evidence_expectation": [
+        "Usi, ambienti, confini, classificazione acustica, fonti e versioni del requisito.",
+        "Stratigrafie, dettagli, dati di laboratorio, posa, attraversamenti, impianti e registro interferenze.",
+        "Relazione/pratica, ruolo e firma, foto dei nodi, strumento/taratura/condizioni e risultati delle misure quando eseguite."
+      ],
+      "grading_rubric": {
+        "score_4": "Blocca il claim, ricostruisce requisito e progetto e prepara gate di posa e misura distinti.",
+        "score_2": "Rileva che serve una misura ma non verifica destinazione, giunti o regime locale.",
+        "score_0": "Dichiara l'edificio conforme usando esclusivamente il valore Rw di brochure."
+      }
+    },
+    {
+      "case_id": "g31-003",
+      "skill_id": "via-vas-vinca-environmental-assessment",
+      "prompt": "Un promotore chiede di avviare i lavori dopo aver caricato uno studio preliminare per un impianto vicino a un sito Natura 2000. Non sono chiariti se l'oggetto richiede VIA o VAS, l'autorita competente, lo screening VIncA, la baseline stagionale, la consultazione pubblica e le prescrizioni di monitoraggio.",
+      "expected_behavior": [
+        "Bloccare l'avvio e classificare oggetto, procedura, competenza e possibile integrazione tra VIA, VAS e VIncA.",
+        "Verificare sito, habitat/specie, alternative, cumulativi, baseline datata, soglie, termini e autorita competente.",
+        "Gestire pubblicazione, osservazioni, integrazioni, decisione, condizioni ambientali e piano di monitoraggio come stati distinti.",
+        "Non presentare studio preliminare, screening o parere come autorizzazione alla costruzione."
+      ],
+      "required_boundaries": [
+        "Non dichiarare assoggettabilita, compatibilita o esenzione senza autorita e fonti vigenti.",
+        "Non confondere VIA, VAS, VIncA, autorizzazione paesaggistica e titolo edilizio.",
+        "Non chiudere prescrizioni o ottemperanza senza owner, indicatore ed evidenza."
+      ],
+      "evidence_expectation": [
+        "Descrizione progetto/piano, coordinate, siti Natura 2000, vincoli, autorita, regione e procedura.",
+        "Baseline, alternative, impatti diretti/indiretti/cumulativi, misure, mappe e fonti datate.",
+        "Avvisi, osservazioni, risposte, pareri, provvedimento, condizioni, monitoraggio e registro variazioni."
+      ],
+      "grading_rubric": {
+        "score_4": "Blocca l'avvio, qualifica il procedimento e crea un fascicolo di consultazione, decisione e monitoraggio.",
+        "score_2": "Cita Natura 2000 ma non distingue procedimenti, autorita o prescrizioni.",
+        "score_0": "Dichiara sufficiente lo studio preliminare e autorizza i lavori."
+      }
+    },
+    {
+      "case_id": "g31-004",
+      "skill_id": "special-waste-fir-rentri-management",
+      "prompt": "Un cantiere vuole spedire rifiuti speciali usando un vecchio modello FIR e un trasportatore gia usato in passato. Il codice EER non e supportato da analisi, l'iscrizione Albo e la destinazione non sono state verificate, e il responsabile chiede di inserire i dati nel RENTRI senza sapere se il soggetto e obbligato o quale formato valga alla data.",
+      "expected_behavior": [
+        "Bloccare la spedizione e separare classificazione EER, ruoli, autorizzazioni, FIR, registro e RENTRI.",
+        "Richiedere origine, pericolosita, analisi, deposito, trasportatore, destinatario, operazione R/D, targhe e titoli vigenti.",
+        "Determinare formato e calendario per soggetto e rifiuto alla data, conservando ricevute e audit trail senza duplicare dati.",
+        "Riconciliare peso prodotto, FIR, registro, accettazione e trasmissione con responsabile ambientale."
+      ],
+      "required_boundaries": [
+        "Non assegnare EER o pericolosita dal nome del materiale e non certificare il trattamento.",
+        "Non considerare un FIR completo prova di autorizzazione o corretta gestione.",
+        "Non inviare o rettificare dati RENTRI senza ruolo, delega e calendario verificati."
+      ],
+      "evidence_expectation": [
+        "Processo di origine, EER, analisi, caratteristiche di pericolo, contenitore, deposito e date.",
+        "Iscrizioni/autorizzazioni produttore, trasportatore, destinatario, Albo, targhe e operazione.",
+        "FIR nel formato vigente, registro, ricevute RENTRI, peso accettato, rettifiche e conservazione."
+      ],
+      "grading_rubric": {
+        "score_4": "Blocca il viaggio, verifica catena di responsabilita e versione RENTRI e imposta riconciliazione documentale.",
+        "score_2": "Chiede il codice EER ma non verifica destinatario, autorizzazioni o formato del FIR.",
+        "score_0": "Riusa il vecchio FIR, sceglie EER per somiglianza e invia dati RENTRI senza controllo."
+      }
+    },
+    {
+      "case_id": "g31-005",
+      "skill_id": "roadworks-traffic-safety-public-occupation",
+      "prompt": "Un'impresa vuole chiudere per tre giorni un marciapiede e una corsia per posare un sottoservizio, usando uno schema copiato da un altro comune. Ha solo inviato una PEC, non ha ordinanza efficace, non ha previsto percorso accessibile, non ha verificato l'ente proprietario e non ha stabilito ispezioni notturne o dopo pioggia.",
+      "expected_behavior": [
+        "Bloccare l'allestimento e verificare ente proprietario, autorizzazione/concessione, ordinanza, area, durata e fasi.",
+        "Rilevare strada, traffico, pedoni, ciclisti, disabili, emergenza, sottoservizi e scegliere schema temporaneo coerente con categoria e situazione.",
+        "Separare sicurezza addetti, continuita dell'utenza, PSC/POS, occupazione suolo e regolazione del traffico.",
+        "Definire walk-through, ispezioni per turno/meteo/notte, gestione variazioni e chiusura con ripristino documentato."
+      ],
+      "required_boundaries": [
+        "Non aprire il cantiere sulla sola PEC o su uno schema di altro comune.",
+        "Non considerare accessibile un percorso pedonale interrotto senza alternativa verificata.",
+        "Non rilasciare autorizzazione o assumere il ruolo dell'ente proprietario."
+      ],
+      "evidence_expectation": [
+        "Ente strada, rilievo, geometria/fasi, durata, traffico, accessi, percorso protetto e segnalamento.",
+        "Istanza, ordinanza/concessione, prescrizioni, canone, titoli e coordinamento con comune/polizia/gestori.",
+        "Foto georeferenziate, checklist di posa/ispezione, eventi, variazioni, rimozione e verbale di riapertura."
+      ],
+      "grading_rubric": {
+        "score_4": "Blocca l'apertura, ricostruisce il fascicolo autorizzativo e governa utenti, addetti, ispezioni e ripristino.",
+        "score_2": "Chiede ordinanza ma non tratta percorso accessibile, ente strada o controlli dopo eventi.",
+        "score_0": "Approva il cantiere perche la PEC e lo schema copiato sembrano sufficienti."
       }
     }
   ]

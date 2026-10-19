@@ -1,6 +1,6 @@
 {
   "library": "UniCostraction/AuraTrix-AulaFIX",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "generated_at": "2026-10-19",
   "skills": [
     {
@@ -968,6 +968,78 @@
         {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 salute e sicurezza nei luoghi di lavoro", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=011G0193&atto.dataPubblicazioneGazzetta=2011-09-22", "authority": "Normattiva", "purpose": "DPR 151/2011 raccordo con esodo e prevenzione incendi", "rights_state": "official_public_legal_text_verify_current_consolidation"},
         {"url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-03;18", "authority": "Normattiva", "purpose": "Legge 18/2009 Convenzione ONU sui diritti delle persone con disabilità", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "energy-certification-ape-technical-report",
+      "path": "energy-certification-ape-technical-report/SKILL.md",
+      "title": "Certificazione energetica, APE e relazione tecnica",
+      "domain": "certificazione energetica, APE e relazione tecnica",
+      "scope": "Fascicolo di input, modello, controllo e consegna al certificatore per APE e relazione tecnica, distinto da diagnosi e progettazione energetica.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2005%3B192~art1", "authority": "Normattiva", "purpose": "D.Lgs. 192/2005 prestazione energetica degli edifici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=13G00115&atto.dataPubblicazioneGazzetta=2013-06-27", "authority": "Normattiva", "purpose": "DPR 75/2013 qualificazione e indipendenza dei certificatori", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.apecampania.enea.it/doc/dm_26062015.pdf", "authority": "ENEA/Gazzetta Ufficiale", "purpose": "DM 26 giugno 2015 linee guida APE", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.efficienzaenergetica.enea.it/servizi-per/pubblica-amministrazione/per-le-regioni/sistema-informativo-sugli-attestati-di-prestazione-energetica.html", "authority": "ENEA", "purpose": "SIAPE e sistema informativo nazionale APE", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "building-acoustic-practice-passive-requirements",
+      "path": "building-acoustic-practice-passive-requirements/SKILL.md",
+      "title": "Pratiche acustiche edilizie e requisiti passivi",
+      "domain": "pratiche acustiche edilizie e requisiti passivi",
+      "scope": "Matrice dei requisiti passivi, relazione acustica, dettagli contro trasmissioni laterali e gate prima delle misure in opera.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=095G0477&atto.dataPubblicazioneGazzetta=1995-10-30&bloccoAggiornamentoBreadCrumb=true&dataVigenza=&generaTabId=true&tabID=&tipoDettaglio=vigente&title=lbl.dettaglioAtto", "authority": "Normattiva", "purpose": "Legge 447/1995 legge quadro sull'inquinamento acustico", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gazzettaufficiale.it/eli/id/1997/12/22/97A10190/sg", "authority": "Gazzetta Ufficiale", "purpose": "DPCM 5 dicembre 1997 requisiti acustici passivi degli edifici", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2005%3B194", "authority": "Normattiva", "purpose": "D.Lgs. 194/2005 rumore ambientale quando applicabile", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "via-vas-vinca-environmental-assessment",
+      "path": "via-vas-vinca-environmental-assessment/SKILL.md",
+      "title": "Valutazioni ambientali VIA, VAS e VIncA",
+      "domain": "valutazioni ambientali VIA VAS VIncA",
+      "scope": "Classificazione, screening, studi, consultazione, provvedimenti, prescrizioni e monitoraggio degli iter VIA, VAS e VIncA.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 Parte seconda VIA e VAS", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=097G0390&atto.dataPubblicazioneGazzetta=1997-10-23&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=&tipoDettaglio=originario&title=lbl.dettaglioAtto", "authority": "Normattiva", "purpose": "DPR 357/1997 valutazione di incidenza e Natura 2000", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.mase.gov.it/sites/default/files/archivio/allegati/rete_natura_2000/linee_guida_nazionali_valutazione_di_incidenza_2019.pdf", "authority": "MASE", "purpose": "Linee guida nazionali VIncA e integrazione procedurale", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011L0092", "authority": "EUR-Lex", "purpose": "Direttiva 2011/92/UE VIA", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0042", "authority": "EUR-Lex", "purpose": "Direttiva 2001/42/CE VAS", "rights_state": "official_public_legal_text_verify_current_consolidation"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "special-waste-fir-rentri-management",
+      "path": "special-waste-fir-rentri-management/SKILL.md",
+      "title": "Rifiuti speciali, FIR e RENTRI",
+      "domain": "rifiuti speciali, FIR e RENTRI",
+      "scope": "Tracciabilita di classificazione, ruoli, FIR, registri, RENTRI, autorizzazioni, ricevute e riconciliazione delle movimentazioni.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/eli/id/2006/04/14/006G0171/CONSOLIDATED/20220511", "authority": "Normattiva", "purpose": "D.Lgs. 152/2006 Parte quarta e tracciabilita rifiuti", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.rentri.gov.it/normative/regolamento-rentri", "authority": "RENTRI/MASE", "purpose": "DM 59/2023 regolamento RENTRI, registri e FIR", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.rentri.gov.it/", "authority": "RENTRI/MASE", "purpose": "portale, servizi, modelli e aggiornamenti operativi", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://supporto.rentri.gov.it/", "authority": "RENTRI/MASE", "purpose": "supporto e FAQ sui formati e adempimenti", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.albonazionalegestoriambientali.it/", "authority": "Albo Nazionale Gestori Ambientali", "purpose": "verifica iscrizioni e categorie dei gestori", "rights_state": "official_reference_only_no_text_reproduced"}
+      ],
+      "rights_state": "official_reference_only_no_text_reproduced"
+    },
+    {
+      "id": "roadworks-traffic-safety-public-occupation",
+      "path": "roadworks-traffic-safety-public-occupation/SKILL.md",
+      "title": "Cantieri stradali, traffico e occupazione di suolo",
+      "domain": "sicurezza cantieri stradali e occupazione suolo",
+      "scope": "Fasi di cantiere, schemi di segnalamento, percorsi protetti, autorizzazioni, ordinanze e chiusura dell'occupazione stradale.",
+      "source_refs": [
+        {"url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A1992-04-30%3B285~art21%21vig=", "authority": "Normattiva", "purpose": "D.Lgs. 285/1992 art. 21 cantieri stradali", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=30&atto.codiceRedazionale=092G0531&atto.dataPubblicazioneGazzetta=1992-12-28", "authority": "Normattiva", "purpose": "DPR 495/1992 art. 30 segnalamento temporaneo", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.gazzettaufficiale.it/eli/id/2002/09/26/02A09965/sg", "authority": "Gazzetta Ufficiale", "purpose": "DM 10 luglio 2002 disciplinare tecnico cantieri stradali", "rights_state": "official_public_legal_text_verify_current_consolidation"},
+        {"url": "https://www.mit.gov.it/sites/default/files/media/normativa/2016-02/Decreto_Ministeriale_10-07-2002_all_1.pdf", "authority": "Ministero delle infrastrutture e dei trasporti", "purpose": "schemi segnaletici temporanei per categoria di strada", "rights_state": "official_reference_only_no_text_reproduced"},
+        {"url": "https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED", "authority": "Normattiva", "purpose": "D.Lgs. 81/2008 sicurezza degli addetti esposti al traffico", "rights_state": "official_public_legal_text_verify_current_consolidation"}
       ],
       "rights_state": "official_reference_only_no_text_reproduced"
     }
