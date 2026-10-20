@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-124 voci, 11 corsi.
+136 voci, 12 corsi.
 
 
 ## Bonifica siti ambientali per l'edilizia
@@ -1409,6 +1409,191 @@ La forma giuridica decide tasse, responsabilità e accesso ai lavori: ditta indi
 - **Caso tipico:** Impresa di ristrutturazioni passata da ditta individuale a Srl dopo un danno da infiltrazione: la società ha isolato il patrimonio familiare da un risarcimento da 180.000 €.
 - **Normativa:** Codice civile artt. 2110 e ss. (imprenditore); legge 1423/1956 (forme societarie); registro imprese.
 - **Nota di cantiere:** La forma giuridica si rivede a ogni scalino di fatturato: non è un matrimonio, è un abito da cambiare quando cresci.
+
+
+## Prezziario e listini: fonti, analisi e uso operativo
+
+*Corso `PREZZIARIO_E_LISTINI_PACK` — 12 voci*
+
+### Aggiornamento dei prezzi, indici ISTAT e revisione prezzi
+
+**Categoria:** Aggiornamento e congiuntura · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+I prezzi di costruzione si muovono con la congiuntura: materie prime, energia, trasporti, manodopera. Gli strumenti per tenerne conto sono l'aggiornamento periodico dei prezzari, gli indici ISTAT e, nei contratti pubblici di lunga durata, la revisione prezzi.
+
+- **Tecnologia e criteri:** Indici ISTAT dei prezzi alla produzione per le costruzioni (aggregati per costruzioni residenziali e non residenziali e per settori); aggiornamento annuale o semestrale dei prezzari regionali; revisione prezzi contrattuale: il prezzo si aggiorna in funzione dello scostamento degli indici tra data base e data dello stato di avanzamento, con soglie e quote non revisionabili secondo la disciplina vigente; meccanismi straordinari di compensazione sono stati introdotti nel 2022-2023 per lo shock dei prezzi (oggi non piu' operativi).
+- **Applicazioni:** Appalti pubblici di durata pluriennale; aggiornamento di computi redatti in anni precedenti; rivalutazione di stime e perizie datate; analisi del rischio prezzi in offerta.
+- **Vantaggi:** Gli indici ufficiali sono oggettivi e opponibili; la revisione prezzi protegge impresa e stazione appaltante nei contratti lunghi; l'aggiornamento regolare dei prezzari riduce il contenzioso sulla congruita'.
+- **Limiti e attenzioni:** Gli indici sono medi nazionali: possono non riflettere il prezzo reale di una singola regione o lavorazione; tra data di misura dello scostamento e riconoscimento passano mesi; gli indici settoriali (es. ferro, bitume) si muovono piu' dell'indice generale.
+- **Costi ed economia:** Ordini di grandezza indicativi: volatilita' storica degli indici delle costruzioni: +10-20% annui di punta nel biennio 2021-2023, normalizzazione a +1-3% annui nel 2024-2025 (verificare i dati correnti sulla banca dati ISTAT); su un lavoro pluriennale da 2 M€ uno scostamento del 10% vale 200 k€ di revisione potenziale.
+- **Caso tipico:** Caso tipo: appalto di edilizia scolastica della durata di 30 mesi; con indici in crescita del 6% annuo, l'impresa attiva la revisione prezzi prevista dal contratto e ottiene l'aggiornamento sugli importi dei SAL maturati dopo la soglia, coprendo il rincaro di acciaio e isolanti.
+- **Normativa:** D.Lgs 36/2023 e correttivi (disciplina della revisione prezzi nei contratti pubblici, con soglie e modalita': verificare il testo vigente); ISTAT, indici dei prezzi alla produzione per le costruzioni (fonte statistica ufficiale).
+- **Nota di cantiere:** Se il lavoro dura piu' di un anno, inserisci in offerta il rischio prezzi: controlla la disciplina di revisione del contratto PRIMA di ribassare, non dopo.
+
+### Prezzari digitali, software di computo e BIM 5D
+
+**Categoria:** Digitale e interoperabilita' · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+I prezzari sono oggi banche dati: XML scaricabili dai portali regionali, importabili nei software di computo e collegabili ai modelli BIM per il computo automatico delle quantita' (5D). La digitalizzazione accelera il lavoro ma non elimina il giudizio tecnico.
+
+- **Tecnologia e criteri:** Formati: pubblicazione dei prezzari in formati aperti (XML/CSV) e in schemi di interscambio diffusi tra i software di computo; software: editor di voci, tabelle di misurazione, contabilita' integrata, confronto edizioni; BIM 5D: le quantita' derivano dal modello (proprieta' degli oggetti IFC) e si agganciano alle voci di prezzario tramite regole di mapping (classificazioni e codici); le variazioni di progetto aggiornano computo e stima in automatico.
+- **Applicazioni:** Computo metrico e contabilita' digitali; gare con computo in formato aperto; stazioni appaltanti BIM-based; controllo di gestione d'impresa con preventivo-consuntivo per voce.
+- **Vantaggi:** Velocita' e tracciabilita': ogni misura resta agganciata alla voce e al dato di modello; aggiornamento immediato a fronte di varianti; riduzione degli errori di trascrizione; archiviazione delle edizioni dei prezzari per la ricostruzione storica.
+- **Limiti e attenzioni:** Il mapping automatico modello-prezzario va sempre verificato: regole di misurazione diverse (netto/lordo) producono quantita' sbagliate pur con software corretto; edizioni digitali non sempre tempestive rispetto al PDF ufficiale; licenze e formazione hanno costi ricorrenti.
+- **Costi ed economia:** Ordini di grandezza indicativi: software di computo e contabilita' 300-1.500 euro/licenza annua secondo moduli; moduli 5D/BIM aggiuntivi 500-2.000 euro/anno; formazione 300-1.000 euro/operatore; il tempo di redazione di un computo di media complessita' si riduce tipicamente del 30-50% rispetto al metodo manuale.
+- **Caso tipico:** Caso tipo: stazione appaltante che richiede il computo in formato digitale aperto; le imprese importano il prezzario regionale XML, compilano misure e ribassi e consegnano un file verificabile automaticamente, riducendo errori formali e tempi di verifica della gara.
+- **Normativa:** D.Lgs 36/2023 (digitalizzazione del ciclo di vita dei contratti pubblici); D.M. 312/2021 (BIM: metodi e strumenti digitali nei contratti pubblici) per l'evoluzione dei requisiti BIM; formati aperti e interoperabilita' secondo le regole tecniche AGID.
+- **Nota di cantiere:** Archivia SEMPRE il file prezzario usato in gara (edizione digitale, non solo il PDF): tra due anni nessuno ti ridara' quell'edizione dal portale, e ti servira' in contenzioso.
+
+### I prezziari ufficiali: regionali e camerali
+
+**Categoria:** Fonti dei prezzi · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+I prezziari ufficiali sono le banche dati di prezzi unitari delle lavorazioni edili pubblicate da soggetti pubblici: ogni regione pubblica il proprio prezzario dei lavori pubblici (cadenza annuale o semestrale) e le camere di commercio pubblicano prezzari territoriali. Negli appalti pubblici costituiscono la base della stima dei lavori e il riferimento in caso di contenzioso.
+
+- **Tecnologia e criteri:** Pubblicazione in PDF consultabile e in formato aperto (XML/CSV) importabile nei software di computo; struttura ad albero per categorie e lavorazioni (scavi, murature, pavimenti, impianti); prezzi medi rilevati su un campione di cantieri e forniture del territorio; molte regioni indicano per ogni voce la percentuale di incidenza della manodopera, richiesta per la verifica della congruita' delle offerte.
+- **Applicazioni:** Stima dell'importo a base di gara nei lavori pubblici; computi metrici di massima in progettazione; perizie di variante; consulenze tecniche di parte e d'ufficio nei contenziosi; verifica di congruita' dei preventivi nell'edilizia privata.
+- **Vantaggi:** Gratuiti e ufficialmente riconosciuti; omogenei sul territorio regionale; aggiornati con cadenza regolare; citabili in atti giudiziari senza necessita' di prova della fonte; formato interoperabile con i software di contabilita'.
+- **Limiti e attenzioni:** Prezzi medi che non colgono le specificita' del singolo contesto (centro storico, quota di montagna, isola minore); ritardo rispetto alla congiuntura: in fasi inflazive possono sottostimare il mercato; copertura incompleta delle lavorazioni specialistiche e innovative; scostamenti tra regioni anche del 10-15% su voci omologhe.
+- **Costi ed economia:** Ordini di grandezza indicativi: accesso gratuito (download dai portali regionali e camerali); software di computo che li importano 300-1.500 euro/licenza annua; la scelta del prezzario sbagliato (edizione o regione) puo' spostare una stima del 10-15%, cioe' 10-150 k€ su un intervento da 100 k€-1 M€.
+- **Caso tipico:** Caso tipo: stazione appaltante che stima la riqualificazione energetica di una scuola con il prezzario regionale; il RUP adotta l'edizione piu' recente disponibile alla data di pubblicazione del bando, la indica negli atti di gara e la usa per la verifica di congruita' dell'offerta.
+- **Normativa:** D.Lgs 36/2023 (codice dei contratti pubblici): la stima dei lavori pubblici si basa sui prezziari di riferimento individuati con decreti del Ministero delle infrastrutture e dei trasporti (verificare il decreto vigente); prezzari adottati con atti regionali.
+- **Nota di cantiere:** Scrivi sempre nel computo edizione e data del prezzario usato: in perizia e in giudizio la prima contestazione e' proprio sul prezzario di riferimento.
+
+### Prezzari tipologici privati e listini dei materiali
+
+**Categoria:** Fonti dei prezzi · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+Accanto ai prezziari pubblici operano prezzari tipologici editi da operatori specializzati (con analisi di costo piu' dettagliate e aggiornamento rapido) e i listini di produttori e distributori di materiali, che esprimono prezzi lordi di vendita da cui partire con le scontistiche.
+
+- **Tecnologia e criteri:** Prezzari tipologici: voci con analisi completa (manodopera, materiali, noli), aggiornamento semestrale o annuale, banche dati integrabili nei software di computo; listini fornitori: prezzi di listino lordo per articolo, con scontistiche riservate per categoria di cliente e volume, condizioni di trasporto e pagamento.
+- **Applicazioni:** Edilizia privata e preventivi d'impresa; voci mancanti nei prezziari ufficiali (lavorazioni specialistiche, materiali innovativi); aggiornamento congiunturale rapido dei costi; contrattazione con i fornitori.
+- **Vantaggi:** Dettaglio analitico superiore ai prezziari pubblici; rapidita' di aggiornamento in fasi congiunturali; copertura di lavorazioni e materiali assenti dai prezzari ufficiali; base reale per la contrattazione di acquisto.
+- **Limiti e attenzioni:** Costo di abbonamento; metodologie non uniformi tra gli editori (confronti diretti difficili); i listini lordi NON sono prezzi di mercato: senza la scontistica reale si sovrastima sistematicamente; nessun valore ufficiale in sede giudiziaria.
+- **Costi ed economia:** Ordini di grandezza indicativi: abbonamenti a prezzari tipologici 200-800 euro/anno; listini fornitori gratuiti per i clienti; sconto medio praticato sul listino lordo dei materiali edili 20-40% secondo filiera, volumi e anzianita' del cliente; trasporto e scarico possono aggiungere 3-8% sul materiale pesante.
+- **Caso tipico:** Caso tipo: impresa che formula l'offerta per un intervento privato combinando il prezzario tipologico per le voci correnti e le quotazioni storiche dei propri fornitori per i materiali principali (laterizi, isolanti, serramenti), documentando le scontistiche in fattura.
+- **Normativa:** Nessuna norma specifica; nei lavori pubblici l'uso di fonti diverse dai prezziari ufficiali deve essere motivato (D.Lgs 36/2023, principio della stima su prezziari di riferimento).
+- **Nota di cantiere:** Non mischiare fonti diverse nella stessa categoria di lavorazioni senza motivarlo per iscritto: in sede di variante o di contabilita' la domanda arriva sempre.
+
+### Costi della sicurezza: stima a parte e non ribassabili
+
+**Categoria:** Procedure operative · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+I costi per la sicurezza nei cantieri temporanei o mobili hanno una disciplina speciale: si stimano nel Piano di Sicurezza e Coordinamento, si indicano separatamente nell'offerta e NON sono soggetti a ribasso d'asta. E' una delle poche certezze assolute della contrattualistica edilizia.
+
+- **Tecnologia e criteri:** Stima: il coordinatore per la progettazione redige il PSC con l'elenco analitico dei costi della sicurezza (ponteggi e protezioni collettive, recinzioni e segnaletica, DPI collettivi, impianti di cantiere e linee vita, servizi igienici, addestramento specifico, opere provvisionali); in gara l'offerta indica separatamente costi della manodopera e costi della sicurezza, entrambi non assoggettati a ribasso.
+- **Applicazioni:** Gare pubbliche e private soggette al Titolo IV; verifica di congruita' delle offerte; contabilita' e perizie (i costi sicurezza seguono la quantificazione del PSC); contestazioni sul ribasso applicato a voci non ribassabili.
+- **Vantaggi:** Tutela concreta: il ribasso non puo' erodere la sicurezza; l'elenco analitico del PSC rende i costi verificabili voce per voce; chiarezza in sede di contabilita' e di contenzioso.
+- **Limiti e attenzioni:** Il confine tra 'costo della sicurezza' e normale costo di produzione puo' essere controverso (es. ponteggio di servizio e di protezione); PSC generici con voci stimate in modo forfettario espongono a contestazioni; aggiornamenti in corso d'opera richiedono integrazione del piano.
+- **Costi ed economia:** Ordini di grandezza indicativi: costi della sicurezza da PSC pari a 1,5-3% dell'importo lavori per edilizia ordinaria, fino a 5-8% per cantieri complessi o con lavorazioni a rischio (scavi profondi, quota, amianto); su un lavoro da 1 M€ si tratta di 15-80 k€ non ribassabili.
+- **Caso tipico:** Caso tipo: in una gara con ribasso del 25% la stazione appaltante verifica che il ribasso sia stato applicato solo sull'importo soggetto a ribasso: l'offerta che aveva ribassato anche i costi sicurezza del PSC e' stata ritenuta incongrua ed esclusa.
+- **Normativa:** D.Lgs 81/2008, Titolo IV, art. 95 (contenuto dell'offerta: i costi della sicurezza non sono assoggettati a ribasso d'asta); D.Lgs 36/2023 (indicazione separata dei costi della manodopera e della sicurezza nell'offerta).
+- **Nota di cantiere:** Scorpora sempre la sicurezza nell'offerta e controlla che il ribasso parta dall'importo giusto: ribassare la sicurezza e' un errore che si paga con l'esclusione o con la verifica di anomalia.
+
+### I nuovi prezzi: procedura per voci mancanti
+
+**Categoria:** Procedure operative · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+Quando in corso d'opera serve una lavorazione assente dal prezzario di riferimento (variante, imprevisto, soluzione innovativa), si forma un 'nuovo prezzo'. E' il punto piu' delicato della contabilita': qui nascono la maggior parte delle riserve e dei contenziosi.
+
+- **Tecnologia e criteri:** Procedura: (1) ricerca della voce piu' analoga nel prezzario di riferimento e in altri prezzari ufficiali (regioni limitrofe, camerali); (2) se non esiste, analisi del prezzo ex novo con le regole dell'analisi (manodopera, materiali, mezzi, oneri); (3) confronto e trattativa tra impresa e direzione lavori, con assistenza contabile; (4) approvazione del soggetto competente secondo il contratto; (5) se non c'e' accordo, la determinazione segue le procedure contrattuali e l'impresa puo' avanzare riserva. Ogni nuovo prezzo deve indicare fonti, data e percentuale di manodopera.
+- **Applicazioni:** Perizie di variante e suppletive; SAL con lavorazioni non previste; imprevisti in scavo e strutture (rinvenimenti, cavità, amianto); lavorazioni innovative senza copertura di prezzario.
+- **Vantaggi:** Consente di proseguire i lavori senza fermare il cantiere; formalizza criteri oggettivi (analogia o analisi) che reggono in sede di verifica; l'accordo scritto chiude la partita economica in corso d'opera.
+- **Limiti e attenzioni:** Tempi lunghi: la trattativa puo' durare settimane mentre il cantiere corre; senza accordo si entra nel terreno delle riserve e del contenzioso; l'analogia con voci di altre regioni e' sempre contestabile.
+- **Costi ed economia:** Ordini di grandezza indicativi: redazione tecnica di un nuovo prezzo 150-500 euro/voce; tempi tipici di definizione 2-8 settimane; i nuovi prezzi nelle perizie di variante incidono tipicamente per il 2-10% dell'importo complessivo, con punte oltre il 20% in ristrutturazioni con molti imprevisti.
+- **Caso tipico:** Caso tipo: durante lo scavo di una platea si intercetta una falda non prevista; serve una pompa di sollevamento fissa con pozzetto. Non essendoci voce in prezzario, la DL costruisce il nuovo prezzo da quotazioni del materiale e produttivita' misurata, approvato con verbale e conteggiato nel SAL successivo.
+- **Normativa:** D.Lgs 36/2023 e relativa disciplina attuativa su varianti e contabilita' (verificare il testo vigente); UNI 10333 per i criteri di misura; prassi contrattuale consolidata per la formazione dei nuovi prezzi.
+- **Nota di cantiere:** Verbala subito, anche solo con foto e misure firmate da DL e impresa: un nuovo prezzo discusso sei mesi dopo, a lavoro coperto, non si ricostruisce piu'.
+
+### Listini fornitori e scontistica: la materia prima dell'offerta
+
+**Categoria:** Procedure operative · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+L'impresa non compra ai prezzi di prezzario ma ai prezzi reali dei fornitori: listini lordi, scontistiche, condizioni di trasporto e pagamento. Gestire bene la scontistica e' una delle principali leve di margine.
+
+- **Tecnologia e criteri:** Struttura commerciale: listino lordo pubblico; sconti in condotta per categoria cliente e volume (cumulabili ma attenzione alla base di calcolo: sconti successivi si applicano sul netto, non sul lordo); extra-sconti promozionali; condizioni accessorie: trasporto franco cantiere o escluso, scarico, resi e stoccaggio, dilazioni di pagamento (tipiche 60-90 giorni fine mese), eventuali maggiorazioni per piccoli quantitativi e consegne urgenti.
+- **Applicazioni:** Formazione del prezzo d'offerta; acquisti e programma forniture; verifica economica delle varianti; valutazione del cash-flow di commessa (pagamenti fornitori vs SAL).
+- **Vantaggi:** La scontistica reale fotografa il costo vero, aggiornato alla congiuntura; condizioni di pagamento e trasporto incidono sul margine quanto lo sconto; la negoziazione su volumi di commessa puo' migliorare i margini del 2-5%.
+- **Limiti e attenzioni:** Gli sconti sono riservati e non documentabili in sede pubblica se non con fattura; listini diversi tra regioni e filiere; in fasi di carenza (materie prime, energia) lo sconto si riduce e i prezzi reali superano i prezzari ufficiali.
+- **Costi ed economia:** Ordini di grandezza indicativi: sconto medio sul listino lordo dei materiali edili 20-40% (laterizi e inerti verso il basso, finiture e idrosanitari verso l'alto); trasporto e scarico 3-8% sul materiale pesante; dilazione 60-90 gg equivale a un beneficio finanziario dell'1-2% annuo sul valore acquistato.
+- **Caso tipico:** Caso tipo: per una commessa da 400 k€ di materiali l'impresa negozia con due distributori condizioni quadro (sconto base + extra-sconto volume + trasporto franco cantiere) e blocca i prezzi per 12 mesi, proteggendo il margine dalle oscillazioni dei listini.
+- **Normativa:** Nessuna norma specifica; rileva la disciplina IVA (aliquote edilizie: 10% e 4% secondo il caso, art. 7 L. 488/1999 e tabella A DPR 633/1972) e la documentazione fiscale degli acquisti (DPR 633/1972).
+- **Nota di cantiere:** Registra per ogni commessa sconto pattuito e condizioni con conferma scritta del fornitore: il listino da solo non prova nulla e il margine lo perdi proprio li'.
+
+### Spese generali, utile d'impresa e oneri accessori
+
+**Categoria:** Procedure operative · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+Il prezzo unitario di prezzario non e' il costo diretto: include le spese generali d'impresa (struttura, cantieri, amministrazione) e l'utile. Capire questa struttura serve a leggere i prezzi, formare le offerte e verificare le richieste economiche.
+
+- **Tecnologia e criteri:** Struttura ricognitiva di prassi consolidata (gia' D.M. LL.PP. 11 dicembre 1978): costo diretto (manodopera + materiali + mezzi) + spese generali 13-17% del costo diretto + utile d'impresa circa 10%; l'effetto composizione porta gli oneri accessori complessivi intorno al 25-30% del costo diretto; gli oneri per la sicurezza da piano (PSC) si stimano a parte e non si sommano meccanicamente.
+- **Applicazioni:** Passaggio da costo diretto a prezzo d'offerta; lettura critica dei prezzi di prezzario; verifica di preventivi d'impresa; analisi di congruita'; scomposizione dei prezzi nei contenziosi.
+- **Vantaggi:** Schema semplice, noto e accettato in sede tecnica e giudiziaria; permette confronti omogenei tra imprese e tra fonti di prezzo; utile per stimare rapidamente il margine potenziale di una commessa.
+- **Limiti e attenzioni:** Le percentuali storiche sono prassi, non legge: imprese strutturate possono avere spese generali reali del 10-20% secondo dimensione e organizzazione; applicarle meccanicamente a cantieri atipici (molto piccoli o molto complessi) distorce la stima.
+- **Costi ed economia:** Ordini di grandezza indicativi: su un costo diretto di 100 €, prezzo di prezzario tipico 125-130 €; per una commessa da 500 k€ di costo diretto, spese generali valutabili in 65-85 k€ e utile atteso 35-60 k€ (prima di ribassi e imprevisti).
+- **Caso tipico:** Caso tipo: nella verifica di un preventivo privato il progettista scompone il prezzo dell'impresa: costo diretto stimato 380 k€, prezzo richiesto 480 k€ (oneri 26%): la struttura e' coerente con la prassi e la trattativa si sposta sulle voci di costo diretto anomale.
+- **Normativa:** D.M. LL.PP. 11 dicembre 1978 (percentuali ricognitive storiche di spese generali e utile, tuttora prassi di riferimento); UNI 10333 per la struttura del prezzo unitario.
+- **Nota di cantiere:** Quando ribassi, ricorda che spese generali e utile sono il cuscinetto: un ribasso del 20% su prezzi con oneri del 25% lascia all'impresa un margine quasi nullo. Fai i conti prima, non in cantiere.
+
+### Errori tipici e contenziosi nell'uso dei prezziari
+
+**Categoria:** Qualita' e contenziosi · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+La maggior parte dei contenziosi tecnici edilizi passa dai prezzi: edizione sbagliata, voce applicata a lavorazione diversa, misura non conforme alle regole del prezzario. Conoscere gli errori tipici e' la migliore prevenzione.
+
+- **Tecnologia e criteri:** Errori ricorrenti: (1) uso di un'edizione non vigente o della regione sbagliata; (2) applicazione di una voce a lavorazione diversa da quella descritta (es. intonaco civile vs premiscelato); (3) doppi conteggi di prestazioni gia' incluse (sottofondi, trasporti, ponteggi); (4) misura non conforme alla regola della voce (lordo/netto, vuoto per pieno); (5) ignorare la percentuale di manodopera in gara; (6) applicare il ribasso anche sui costi sicurezza; (7) nuovi prezzi formati senza fonti documentali. Nei contenziosi la battaglia si gioca su edizione, descrizioni e misurazioni: CTP e CTU ricostruiscono voci e quantita'.
+- **Applicazioni:** Prevenzione in redazione computo e contabilita'; assistenza in perizie di variante; consulenze tecniche di parte e d'ufficio; audit interni di commessa.
+- **Vantaggi:** Un protocollo di controllo (fonte, edizione, descrizione, misura, manodopera, sicurezza) elimina la quasi totalita' degli errori contestabili; la documentazione delle scelte rende difendibile ogni numero.
+- **Limiti e attenzioni:** Nessun protocollo elimina la discrezionalita' sulle voci borderline: resta spazio alla trattativa e, in caso, al giudizio tecnico; la ricostruzione ex post di scelte non documentate e' costosa e incerta.
+- **Costi ed economia:** Ordini di grandezza indicativi: consulenza tecnica di parte in un contenzioso su contabilita' 3-15 k€ secondo complessita'; una CTU e' fissata dal giudice a preventivo; una voce contestata male puo' valere da sola 5-50 k€; il costo di un controllo preventivo interno e' dell'ordine di ore di tecnico, non di parcelle.
+- **Caso tipico:** Caso tipo: contenzioso su perizia di variante: l'impresa aveva applicato voci di un prezzario regionale diverso da quello di riferimento del contratto, con prezzi mediamente superiori del 12%; il giudice ha accolto la ricostruzione della CTU basata sul prezzario corretto, riducendo la richiesta di circa 40 k€.
+- **Normativa:** D.Lgs 36/2023 (prezziari di riferimento e contabilita'); UNI 10333 (criteri di misurazione); D.Lgs 81/2008 art. 95 (non ribassabilita' dei costi della sicurezza); regole di misurazione e note in testa a ciascun prezzario regionale.
+- **Nota di cantiere:** Tieni un registro delle scelte di prezzario (fonte, edizione, voce, motivazione) per ogni computo: e' dieci minuti di lavoro oggi e la tua difesa completa in udienza tra tre anni.
+
+### Il costo orario della manodopera edile
+
+**Categoria:** Struttura e analisi · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+Il costo orario della manodopera e' il mattone base dell'analisi dei prezzi e il parametro di legge per la verifica della congruita' delle offerte pubbliche. Si costruisce dalle tabelle dei contratti collettivi applicate all'impresa (edilizia industria o artigianato).
+
+- **Tecnologia e criteri:** Composizione: retribuzione tabellare CCNL per livello e qualifica (operaio comune, qualificato, specializzato, caposquadra), voci fisse (contingenza, EDR, scatti, superminimi, mensilita' aggiuntive riproporzionate); oneri sociali e assicurativi a carico ditta (incidenza tipica 42-46% della retribuzione imponibile); accantonamento TFR (circa 7%); contributi a cassa edile ed enti bilaterali; il totale annuo si divide per le ore lavorabili effettive (teoriche meno festivita', ferie, intemperie stimate).
+- **Applicazioni:** Analisi dei nuovi prezzi; verifica della congruita' del costo della manodopera indicato separatamente nelle offerte pubbliche; stima del costo del personale nei preventivi; confronto tra offerte.
+- **Vantaggi:** Base oggettiva e aggiornata dai rinnovi contrattuali; parametro riconosciuto da stazioni appaltanti e giudici; permette di separare la componente lavoro dalle oscillazioni dei materiali.
+- **Limiti e attenzioni:** Variabilita' per CCNL applicato (industria vs artigianato) e per territorio; le tabelle danno il costo, non la produttivita': lo stesso costo orario con produttivita' diverse genera prezzi diversi; i rinnovi CCNL spostano il costo anche del 3-6% in un anno.
+- **Costi ed economia:** Ordini di grandezza indicativi: costo orario comprensivo di oneri (2025-2026, da aggiornare ai rinnovi CCNL): operaio comune 26-32 €/h, operaio specializzato 30-38 €/h, caposquadra 35-45 €/h; un cantiere di 10 operai per 8 h/giorno impegna 2.500-3.600 €/giorno di sola manodopera.
+- **Caso tipico:** Caso tipo: in una gara pubblica l'offerta risulta anomala; la stazione appaltante verifica il costo della manodopera dichiarato a fronte delle tabelle CCNL e delle quantita' di lavoro implicite nel computo, escludendo l'offerta che non copre neppure il costo tabellare.
+- **Normativa:** CCNL edilizia industria e artigianato (tabelle retributive e costo orario pubblicate dalle associazioni e dagli enti bilaterali); D.Lgs 36/2023: indicazione separata e verifica dei costi della manodopera e della sicurezza nelle offerte.
+- **Nota di cantiere:** Chiedi sempre all'impresa quale CCNL applica davvero: un costo orario da edilizia industria spacciato per artigianato (o viceversa) sballa ogni verifica di congruita'.
+
+### L'analisi dei prezzi: metodo e struttura
+
+**Categoria:** Struttura e analisi · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+L'analisi dei prezzi ricostruisce il prezzo unitario di una lavorazione scomponendolo negli elementi elementari: manodopera, materiali, mezzi d'opera, piu' spese generali e utile. E' lo strumento per stimare voci non in prezzario e per verificare la congruita' dei prezzi d'offerta.
+
+- **Tecnologia e criteri:** Metodo: per ogni unita' di misura si quantificano (1) ore di manodopera per qualifica x costo orario, secondo produttivita' misurate o da manuali; (2) quantita' di materiali x prezzo franco cantiere, comprensivo di sfridi (3-8%); (3) ore di mezzi e attrezzature x costo orario di nolo/comprendo; si somma il costo diretto e si applicano spese generali e utile. Le incidenze tipiche in edilizia: manodopera 35-45%, materiali 45-55%, mezzi 5-15% del costo diretto.
+- **Applicazioni:** Nuovi prezzi per voci mancanti; verifica di congruita' delle offerte anomale; stime in contenzioso; valutazione di varianti; negoziazione di prezzi in edilizia privata.
+- **Vantaggi:** Trasparenza: mostra da dove viene il prezzo e permette di aggiornarlo per singola componente; adattabile a qualunque contesto e lavorazione; strumento riconosciuto in sede tecnica e giudiziaria.
+- **Limiti e attenzioni:** Richiede produttivita' realistiche: produttivita' tabellari applicate acriticamente a contesti difficili (cantieri in quota, spazi angusti) sottostimano il costo reale; i costi orari dei mezzi includono o escludono operatore e gasolio secondo la fonte: va dichiarato.
+- **Costi ed economia:** Ordini di grandezza indicativi: esempio muratura in blocchi di laterizio 25 cm fornita e posata: materiali 18-25 €/m2, manodopera 20-30 €/m2 (0,6-0,9 h/m2 di squadra), mezzi 1-2 €/m2: costo diretto 40-57 €/m2, che con oneri accessori diventa prezzo di prezzario 55-75 €/m2; redazione professionale di un'analisi 150-500 euro/voce.
+- **Caso tipico:** Caso tipo: per una parete in blocchi di calcestruzzo vibrocompresso faccia-a-vista, assente dal prezzario regionale, il perito costruisce l'analisi da produttivita' misurata su cantiere analogo (0,75 h/m2) e quotazioni reali del materiale, ottenendo un prezzo accolto in perizia.
+- **Normativa:** UNI 10333 (computo metrico estimativo, criteri generali); prassi consolidata sulle percentuali ricognitive (gia' D.M. LL.PP. 11 dicembre 1978: spese generali 13-17%, utile 10%); D.Lgs 36/2023 per la congruita' delle offerte su manodopera e sicurezza.
+- **Nota di cantiere:** Quando costruisci un'analisi, allega sempre le fonti: listino o fattura del materiale, tabella CCNL per il costo orario, misura della produttivita'. Un'analisi senza fonti vale zero in perizia.
+
+### Struttura di una voce di prezzario
+
+**Categoria:** Struttura e analisi · **Corso:** Prezziario e listini: fonti, analisi e uso operativo
+
+Ogni voce di prezzario e' un piccolo contratto tecnico: definisce cosa si misura, come si misura e cosa e' compreso nel prezzo. Leggerla male e' la causa piu' frequente di errori di computo e di contenziosi.
+
+- **Tecnologia e criteri:** Elementi della voce: codice alfanumerico gerarchico (categoria, subcategoria, progressivo); descrizione estesa con la lavorazione completa e le modalita' di esecuzione; unita' di misura (m, m2, m3, kg, t, h, cad, a corpo) e regole di misurazione (netto/lordo, vuoto per pieno entro soglie date); prezzo unitario; percentuale di incidenza della manodopera; note esplicative (altezze, condizioni particolari, trasporti inclusi o esclusi, sconti quantita').
+- **Applicazioni:** Redazione del computo metrico; contabilita' dei lavori; verifica delle voci di offerta; confronto tra voci simili di prezzari diversi; stesura di nuovi prezzi per analogia.
+- **Vantaggi:** Standardizzazione della misura: due tecnici che applicano la stessa voce ottengono la stessa quantita'; la descrizione estesa delimita le prestazioni e riduce le dispute su cosa sia 'compreso'.
+- **Limiti e attenzioni:** Le descrizioni vanno lette integralmente: una voce che include gia' sottofondo, trasporto o ponteggio conteggiati due volte genera errore a favore o a carico; le regole di misurazione cambiano tra prezzari (es. trincee misurate a scavo o a riporto).
+- **Costi ed economia:** Ordini di grandezza indicativi: nessun costo diretto di consultazione; un errore di lettura della descrizione (doppio conteggio o misura errata) genera contestazioni dell'ordine dell'1-5% dell'importo, cioe' 1-50 k€ su lavori da 100 k€ a 1 M€.
+- **Caso tipico:** Caso tipo: in contabilita' la voce 'pavimento in gres posato a colla' del prezzario include gia' il massetto di sottofondo; l'impresa aveva conteggiato il massetto a parte: la direzione lavori storna la voce duplicata con riduzione del 3% sul SAL interessato.
+- **Normativa:** D.Lgs 36/2023 (uso dei prezziari nella stima); UNI 10333 (computo metrico estimativo: criteri generali di misurazione); regole di misurazione specifiche in testa a ciascun prezzario regionale.
+- **Nota di cantiere:** Prima di applicare una voce leggi TUTTA la descrizione e le note in testa al capitolo del prezzario: e' li' che si nascondono le esclusioni e i 'compresi'.
 
 
 ## Mercato immobiliare, valutazione e investimenti

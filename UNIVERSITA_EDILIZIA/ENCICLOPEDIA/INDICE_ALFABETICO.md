@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1150 voci enciclopediche tratte da 74 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1162 voci enciclopediche tratte da 75 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -45,6 +45,8 @@
   Gel di silice essiccato: l'isolante solido più leggero e performante al mondo.
 - **Aeroporti sostenibili: elettrificazione, SAF e gestione delle risorse** — Innovazione · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
   Il futuro dello scalo: voli meno impattanti, energia propria e gestione delle acque.
+- **Aggiornamento dei prezzi, indici ISTAT e revisione prezzi** — Aggiornamento e congiuntura · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  I prezzi di costruzione si muovono con la congiuntura: materie prime, energia, trasporti, manodopera. Gli strumenti per tenerne conto sono l'aggiornamento periodico dei prezzari, gli indici ISTAT e, nei contratti pubblic…
 - **Agibilità e certificazioni degli impianti sportivi** — Normativa e certificazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Un impianto sportivo può essere aperto al pubblico solo con le autorizzazioni dovute: agibilità statica e alle attività sportive, conformità antincendio dove richiesta, idoneità delle superfici di gioco e delle attrezzat…
 - **Agrivoltaico in Italia: il percorso degli incentivi dal DM 436/2023 al 2026** — Agrivoltaico incentivi · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -319,6 +321,8 @@
   L'ambiente aggressivo della stalla: ammoniaca, umidità e deiezioni contro i materiali da costruzione.
 - **Cos'è il gusto: regole, proporzione, gerarchia visiva** — Teoria del gusto · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   Il gusto non è solo soggettività: si regge su principi riconoscibili — proporzione (sezione aurea, rapporti armonici), gerarchia visiva (cosa si vede per primo), ritmo e ripetizione, contrasto e analogia, bilanciamento d…
+- **Costi della sicurezza: stima a parte e non ribassabili** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  I costi per la sicurezza nei cantieri temporanei o mobili hanno una disciplina speciale: si stimano nel Piano di Sicurezza e Coordinamento, si indicano separatamente nell'offerta e NON sono soggetti a ribasso d'asta. E' …
 - **Costi e benefici del cappotto: il conto professionale** — Economia · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
   Il cappotto è l'intervento di riqualificazione con il miglior rapporto costo/beneficio disponibile in Italia: il costo completo si misura in €/m² di parete trattata e il beneficio in kWh/anno risparmiati e in comfort (te…
 - **Costi e tempi della bonifica: ordini di grandezza per il preventivo edilizio e il rischio commessa** — Economia · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
@@ -453,6 +457,8 @@
   Le dimensioni ergonomiche sono il lessico minimo del progettista di interni: altezze di lavoro, spazi di manovra, profondità di uso; si basano su antropometria (popolazione europea: statura media uomo ~176 cm, donna ~164…
 - **Ergonomia e antropometria: misure che salvano i progetti** — Ergonomia · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Le dimensioni del corpo umano come regola del progetto.
+- **Errori tipici e contenziosi nell'uso dei prezziari** — Qualita' e contenziosi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  La maggior parte dei contenziosi tecnici edilizi passa dai prezzi: edizione sbagliata, voce applicata a lavorazione diversa, misura non conforme alle regole del prezzario. Conoscere gli errori tipici e' la migliore preve…
 - **Escavatori e mezzi pesanti teleoperati** — Macchine teleoperate · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Buldozer, escavatori e dumper comandati a distanza per cantieri pericolosi.
 - **Esempio svolto: il dimensionamento termico di una villa di 180 m²** — Esempio completo · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
@@ -689,6 +695,8 @@
   I mezzi di estinzione manuali sono la prima risposta: estintori a polvere (universali, sporcano), a CO2 (locali elettrici, non lasciano residui), idranti a parete con naspo (portata e getto minimo per attività), impianti…
 - **I moduli di nuova generazione: TOPCon, HJT, PERC, bifacciali e degradazione** — Moduli · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Il modulo fotovoltaico è cambiato più negli ultimi 5 anni che nei 30 precedenti: le celle TOPCon e HJT stanno sostituendo il PERC, i bifacciali sono diventati standard nei campi, e la garanzia di degradazione ha dichiara…
+- **I nuovi prezzi: procedura per voci mancanti** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  Quando in corso d'opera serve una lavorazione assente dal prezzario di riferimento (variante, imprevisto, soluzione innovativa), si forma un 'nuovo prezzo'. E' il punto piu' delicato della contabilita': qui nascono la ma…
 - **I pannelli coibentati e l'involucro industriale: tenuta, ponti termici e durabilità** — Involucro · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Il capannone moderno è un involucro di pannelli coibentati che fanno da parete, copertura e isolamento in un colpo solo. La differenza tra un involucro che dura 30 anni e uno che perde in 5 sta nei dettagli di posa e nei…
 - **I parcheggi: progettare l'auto senza rovinare il quartiere** — Parcheggi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -705,6 +713,8 @@
   I portoni industriali chiudono i grandi varchi: sezionali (lastre che scorrono verso l'alto lungo guide, isolati, i più usati), rapidi (PVC arrotolabili ad alta velocità, per flussi interni continui), scorrevoli laterali…
 - **I prezzi unitari e le analisi: come nasce un prezzo di costruzione** — Economia · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Il prezzo unitario di una voce di computo nasce dall'analisi dei costi: materiali a consumo, manodopera (ore e costo orario comprensivo di incidenze), mezzi d'opera, spese generali e utile di impresa; i prezzari ufficial…
+- **I prezziari ufficiali: regionali e camerali** — Fonti dei prezzi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  I prezziari ufficiali sono le banche dati di prezzi unitari delle lavorazioni edili pubblicate da soggetti pubblici: ogni regione pubblica il proprio prezzario dei lavori pubblici (cadenza annuale o semestrale) e le came…
 - **I quadri elettrici: il centralino di utenza e le sue protezioni** — Elettroimpianti · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il quadro elettrico di un edificio è il centro di controllo dell'impianto: distribuisce i circuiti, protegge persone e linee e permette la manutenzione in sicurezza. La sua progettazione segue la Norma CEI 64-8.
 - **I raccordi: pressare, saldare, a innesto, filettare** — Raccordi · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
@@ -829,6 +839,8 @@
   Il controllo di gestione misura se il cantiere sta producendo margine: contabilità interna per commessa (ricavi, costi maturati, margine), confronto preventivo/consuntivo a voci, analisi degli scostamenti (perché il cost…
 - **Il costo della manutenzione: budget, euro per metro quadro e mix preventivo-correttivo** — Economia della manutenzione · corso: *Facility management e manutenzione programmata* (`FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK`)
   La manutenzione costa e il suo budget va costruito con logica, non per sottrazione dall'anno precedente. I riferimenti usati dal facility manager sono il costo per metro quadro, il rapporto tra manutenzione preventiva e …
+- **Il costo orario della manodopera edile** — Struttura e analisi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  Il costo orario della manodopera e' il mattone base dell'analisi dei prezzi e il parametro di legge per la verifica della congruita' delle offerte pubbliche. Si costruisce dalle tabelle dei contratti collettivi applicate…
 - **Il credito d'imposta per l'adeguamento sismico e le agevolazioni collegate** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sulle agevolazioni fiscali per gli interventi di adeguamento sismico e riqualificazione antisismica degli edifici, dal punto di vista dell'impresa edile che esegue i lavori e del committente che fruisce del benefi…
 - **Il design italiano: dal dopoguerra a oggi** — Storia del design italiano · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -1143,6 +1155,8 @@
   L'agrivoltaico fa convivere il fotovoltaico con la coltivazione: pannelli sopraelevati sopra le colture, in serra fotovoltaica o intercalati tra le file. Non è un FV su terreno agricolo con la coltura come pretesto: è un…
 - **L'albergo come macchina: front of house e back of house** — Fondamenti · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   L'albergo è un edificio-servizio: la parte pubblica (hall, camere, ristoranti, wellness) deve incantare, la parte tecnica (cucine, lavanderia, magazzini, impianti, personale) deve funzionare invisibile; il rapporto tra l…
+- **L'analisi dei prezzi: metodo e struttura** — Struttura e analisi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  L'analisi dei prezzi ricostruisce il prezzo unitario di una lavorazione scomponendolo negli elementi elementari: manodopera, materiali, mezzi d'opera, piu' spese generali e utile. E' lo strumento per stimare voci non in …
 - **L'analisi di rischio sanitario ambientale: concetti e criteri** — Valutazione · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   L'analisi di rischio sanitario ambientale è il momento in cui i dati di caratterizzazione vengono tradotti in una valutazione delle conseguenze potenziali per la salute umana e gli ecosistemi, considerando i futuri scena…
 - **L'antincendio industriale: magazzini e rischi speciali** — Antincendio industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -1717,6 +1731,8 @@
   Pannelli decorativi in legno, MDF laccato o poliuretano per pareti d'accento: il design di interni.
 - **Listello per controsoffitto** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Listelli segati essiccati (abete, piallati) per controsoffitti a doghe e finiture a vista.
+- **Listini fornitori e scontistica: la materia prima dell'offerta** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  L'impresa non compra ai prezzi di prezzario ma ai prezzi reali dei fornitori: listini lordi, scontistiche, condizioni di trasporto e pagamento. Gestire bene la scontistica e' una delle principali leve di margine.
 - **Lo scaldabagno: a gas, elettrico e a pompa di calore** — Scaldabagni · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   La produzione di ACS punto per punto: le tre tecnologie a confronto.
 - **Lo stoccaggio nei campi FV: BESS, ibridazione e revenue stacking** — Stoccaggio · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -1999,6 +2015,10 @@
   Fabbriche con robot saldatori, carroponte CNC e linee automatizzate per componenti edilizi.
 - **Prese e comandi esterni** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prese, interruttori e luci per esterni: grado IP44-IP65 per resistere ad acqua e polvere.
+- **Prezzari digitali, software di computo e BIM 5D** — Digitale e interoperabilita' · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  I prezzari sono oggi banche dati: XML scaricabili dai portali regionali, importabili nei software di computo e collegabili ai modelli BIM per il computo automatico delle quantita' (5D). La digitalizzazione accelera il la…
+- **Prezzari tipologici privati e listini dei materiali** — Fonti dei prezzi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  Accanto ai prezziari pubblici operano prezzari tipologici editi da operatori specializzati (con analisi di costo piu' dettagliate e aggiornamento rapido) e i listini di produttori e distributori di materiali, che esprimo…
 - **Prezzo, valore e trattativa: come si negozia un immobile** — Trattativa · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Il prezzo richiesto è un'offerta, il valore di mercato è un intervallo, il prezzo di chiusura è il risultato della trattativa; la negoziazione immobiliare funziona su: informazione (chi sa di più vince), tempistica (chi …
 - **Profili acciaio HEA/IPE/UPN** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2189,6 +2209,8 @@
   Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
 - **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   Il cantiere agricolo come centrale energetica: integrazione di FV, biogas ed efficienza negli edifici rurali.
+- **Spese generali, utile d'impresa e oneri accessori** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  Il prezzo unitario di prezzario non e' il costo diretto: include le spese generali d'impresa (struttura, cantieri, amministrazione) e l'utile. Capire questa struttura serve a leggere i prezzi, formare le offerte e verifi…
 - **Spogliatoi e servizi igienici: dimensionamento per utenza** — Servizi e spazi funzionali · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Spogliatoi, docce e servizi igienici devono essere dimensionati sul numero effettivo di utenti simultanei e sulle caratteristiche degli sport praticati: una squadra di calcio e una lezione di fitness hanno esigenze compl…
 - **Stalle da carne e ricoveri per bovini all'aperto** — Stalle · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2209,6 +2231,8 @@
   Strumenti geodetici a guida automatica per il posizionamento ad alta precisione.
 - **Strumenti digitali per la circolarita': BIM-LCA, EPD digitali, banche materiali** — Strumenti digitali · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   La circolarita' si misura sui dati: modelli BIM con attributi ambientali, EPD in formato digitale leggibile dai software, banche dati LCA e piattaforme di scambio dei materiali di recupero. Chi padroneggia la catena del …
+- **Struttura di una voce di prezzario** — Struttura e analisi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
+  Ogni voce di prezzario e' un piccolo contratto tecnico: definisce cosa si misura, come si misura e cosa e' compreso nel prezzo. Leggerla male e' la causa piu' frequente di errori di computo e di contenziosi.
 - **Strutture alte: torri, antenne, grattacieli** — Torri · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 - **Strutture ibride cls-acciaio e collaboranti** — Strutture ibride · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)

@@ -73,6 +73,7 @@ di apprendimento per settore.
 | POSA_IN_OPERA | ✅ 300 domande | chiavi: jsonl |
 | PORTI_MARITTIMI | ✅ 250 domande | chiavi: jsonl |
 | PREFABBRICAZIONE | ✅ 250 domande | chiavi: jsonl |
+| PREZZIARIO_LISTINI | ✅ 250 domande | chiavi: jsonl |
 | REAL_ESTATE | ✅ 180 domande | chiavi: jsonl |
 | RESTAURO_CONSERVAZIONE | ✅ 223 domande | chiavi: jsonl |
 | RETROFIT_NZEB | ✅ 250 domande | chiavi: jsonl |

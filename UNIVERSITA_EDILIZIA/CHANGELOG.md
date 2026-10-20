@@ -446,3 +446,24 @@ Righe aperte nel giro:
 - Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
 - EPBD (UE) 2024/1275: recepimento nazionale da verificare.
 - CER: riscontro su fonte primaria GSE/MASE dei termini PNRR chiusi.
+
+## Giro AB — 2026-10-20, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente (aliquote 2027, nuovo TUIR, caldaie a fossile, Legge di Bilancio 2027) con 2 aggiornamenti alla scheda detrazioni; nuovo pack PREZZIARIO_E_LISTINI_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AB1 | Correzione sostanziale | Scheda «Le detrazioni fiscali per l'edilizia», campo tecnologia: tra gli interventi agevolabili figurava «la nuova installazione (non in sostituzione)» di caldaia unica a fossile | «secondo l'interpretazione di settore basata sulla definizione EPBD di "installazione" (che include acquisto, assemblaggio e messa in funzione), l'esclusione si estende anche alla NUOVA installazione di caldaia unica a condensazione a combustibile fossile: interpretazione in evoluzione, verificare la prassi AdE vigente prima di applicarla al caso concreto» | bibus.acca.it (aggiornato 12/10/2026: la definizione EPBD di installazione copre anche la nuova installazione di caldaia unica) — verifica web 20/10/2026 |
+| AB2 | Nota di aggiornamento normativo | Scheda «Le detrazioni fiscali per l'edilizia», campo normative: riferimenti al TUIR (DPR 917/1986) e alla L. 199/2025 senza menzione della riforma | Aggiunta: «dal 1/1/2027 il TUIR (DPR 917/1986) e' sostituito dal nuovo Testo Unico delle imposte sui redditi, D.Lgs 19 giugno 2026 n. 117 (GU n. 152 del 3/7/2026, in vigore dal 4/7/2026, applicazione dal 1/1/2027), che ricolloca le disposizioni sui bonus edilizi: aggiornare i riferimenti alla numerazione vigente dal 2027; la Legge di Bilancio 2027 (in discussione ottobre-dicembre 2026) puo' modificare aliquote e limiti dal 2027: verificare il testo definitivo» | studiocerbone.com (13/8/2026), brocardi.it (24/7/2026), miolegale.it (21/7/2026), bibus.acca.it (8/7/2026): fonti concordanti su D.Lgs 117/2026, GU n. 152 del 3/7/2026, applicazione dal 1/1/2027 in attuazione dell'art. 21 L. 111/2023 — verifica web 20/10/2026 |
+| AB3 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia»: roadmap aliquote 2026 = 50%/36%, 2027 = 36%/30% (limite 96.000 euro), dal 2028 = 30% su 48.000 euro | Confermata senza modifiche: fonti concordanti (ottobre 2026) ribadiscono 2027 = 36% abitazione principale / 30% altri casi e dal 2028 30% su 48.000 euro; nessuna proroga del 50/36 in alcun testo; criterio di cassa (conta la data del bonifico); LdB 2027 ancora in scrittura (DPFP approvato 2/10/2026) | bibus.acca.it (12/10/2026), cantiericloud.com (5/8/2026), gromia.com, fiscomania.com — verifica web 20/10/2026 |
+| AB4 | Nuovo pack | — | PREZZIARIO_E_LISTINI_PACK (12 schede, L2-L3, FACOLTA_GESTIONE_SISTEMA): prezziari ufficiali regionali e camerali, prezzari tipologici e listini, struttura delle voci, analisi dei prezzi, costo orario manodopera da CCNL, nuovi prezzi, scontistica, indici ISTAT e revisione prezzi, spese generali e utile, sicurezza non ribassabile (D.Lgs 81/2008 art. 95), prezzari digitali e BIM 5D, errori e contenziosi. NON ridondante con CONTABILITA_APPALTI_PACK (SAL, varianti, riserve). Norme citate solo di consolidata certezza; decreti attuativi marcati da verificare nella versione vigente | Norme di consolidata certezza; nessun valore normativo inventato |
+| AB5 | Nuovo esame | — | ESAMI/PREZZIARIO_LISTINI: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata | build_esami_giro5.py |
+| AB6 | Validazione | — | Validazione globale: 74 pack, 1000 schede, 76 esami; JSON e 11 chiavi OK su tutte le righe, 0 refusi, COURSE.yaml coerenti | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: VERIFICA PRIORITARIA al prossimo giro — esito della Conferenza Unificata del 22/10/2026 (dopodomani rispetto a questo giro) e pubblicazione del correttivo in GU, con aggiornamento delle schede 1-3 di ENERGETICA_INCENTIVI_PACK.
+- Legge di Bilancio 2027: testo definitivo (dicembre 2026) per conferma o modifica di aliquote e limiti detrazioni dal 2027.
+- Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (la stampa di settore indica artt. 371-373, ma da fonte singola: da verificare sul testo GU prima di citarli nelle schede).
+- Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: recepimento nazionale da verificare.
+- CER: riscontro su fonte primaria GSE/MASE dei termini PNRR chiusi.

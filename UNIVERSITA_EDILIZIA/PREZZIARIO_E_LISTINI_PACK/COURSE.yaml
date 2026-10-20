@@ -1,0 +1,9 @@
+corso: "Prezziario e listini: fonti, analisi e uso operativo"
+facolta: "FACOLTA_GESTIONE_SISTEMA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 36/2023 e correttivi, D.Lgs 81/2008 (Titolo IV, art. 95), D.M. LL.PP. 11/12/1978 (prassi spese generali e utile), UNI 10333 (computo metrico estimativo), CCNL edilizia industria e artigianato (costo orario manodopera), indici ISTAT dei prezzi alla produzione per le costruzioni, D.M. 312/2021 (BIM), prezzari regionali e camerali vigenti, DPR 633/1972 (IVA)"
+nota_metodologica: "Fonti dei prezzi (prezziari ufficiali, tipologici, listini), struttura delle voci, analisi dei prezzi, costo orario della manodopera, nuovi prezzi, scontistica, revisione prezzi e indici ISTAT, spese generali e utile, sicurezza non ribassabile, prezzari digitali e BIM 5D, errori e contenziosi. NON ripete contabilita' lavori, SAL, varianti e riserve (vedi CONTABILITA_APPALTI_PACK). Prezzi come fasce indicative con unita'; decreti attuativi marcati 'da verificare nella versione vigente'; nessun riferimento normativo incerto con numero puntuale."
