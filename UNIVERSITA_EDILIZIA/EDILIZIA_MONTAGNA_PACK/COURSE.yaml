@@ -1,0 +1,9 @@
+corso: "Edilizia in montagna e ambienti difficili"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.M. 17/1/2018 (NTC) e Circolare C.S.LL.PP. n. 7/2019, UNI EN 1991-1-3 (neve), UNI EN 1997 (geotecnica), UNI EN 206 (cls classi XF), UNI EN ISO 13788 (condensa), DPR 412/1993 e DPR 74/2013 (zone climatiche), D.M. 26/6/2015 (requisiti minimi), D.Lgs 42/2004 (paesaggio), D.Lgs 152/2006 (difesa suolo e scarichi), DPR 380/2001, D.Lgs 81/2008 (Titolo IV), D.M. 37/2008, normativa regionale valanghe e decoro alpino (da verificare localmente)"
+nota_metodologica: "Cantiere e logistica in quota, carico neve e gelo, fondazioni e versanti, valanghe, edilizia alpina tradizionale, involucro in zona climatica F, impianti antigelo, accessi e sicurezza invernale, vincoli paesaggistici, mezzi speciali (teleferiche, elicottero). Norme nazionali citate solo di consolidata certezza; normativa regionale e locale marcata 'da verificare localmente'; prezzi come fasce indicative; nessun nome di azienda."

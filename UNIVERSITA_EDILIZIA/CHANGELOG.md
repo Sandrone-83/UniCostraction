@@ -467,3 +467,24 @@ Righe aperte nel giro:
 - Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
 - EPBD (UE) 2024/1275: recepimento nazionale da verificare.
 - CER: riscontro su fonte primaria GSE/MASE dei termini PNRR chiusi.
+
+## Giro AC — 2026-10-21, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente (CT 3.0 in attesa seduta 22/10, CER/PNRR, Reddito Energetico, detrazioni) con 1 correzione di precisione; nuovo pack EDILIZIA_MONTAGNA_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AC1 | Correzione di precisione | Scheda «Gli incentivi delle CER» (FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK): «CHIUSO a nuove domande dal 30/11/2025 (accordi di finanziamento entro il 30/6/2026, erogazione entro il 31/8/2026): resta pienamente attiva la tariffa incentivante, che non ha scadenza a bando» | «CHIUSO a nuove domande: risorse esaurite gia' il 21/11/2025 al raggiungimento della soglia di 795,5 milioni di euro comunicata dal MASE (termine ordinario 30/11/2025); con il DL 19/2026, art. 27, gli accordi di concessione andavano firmati entro il 30/6/2026 e la realizzazione e' ammessa entro 24 mesi dall'accordo, con limite invalicabile al 31/12/2027, con il GSE soggetto attuatore unico; resta attiva la tariffa incentivante, ammessa a sportello entro il contingente di 5 GW e comunque non oltre il 31/12/2027»; normative: «DL 19/2026 art. 27, convertito con L. 50/2026» | naturalnzeb.it (31/7/2026: soglia 795,5 M€ al 21/11/2025), tuoingegnere.altervista.org (22/7/2026: 30/6/2026 = firma accordi, 24 mesi, limite 31/12/2027, GSE attuatore unico), prefina.it (17/8/2026: D.L. 19/2026 conv. L. 50/2026, contingente 5 GW e 31/12/2027 per la tariffa), comunita-energetica.it (24/8/2026), greenmood.org (5/9/2026: regole GSE 27/3/2026) — verifica web 21/10/2026 |
+| AC2 | Verifica senza correzione | Schede 1-3 ENERGETICA_INCENTIVI_PACK sul correttivo CT 3.0 (seduta Conferenza Unificata 22/10/2026) | Confermate senza modifiche: la seduta e' fissata domani 22/10/2026 (convocazione protocollata 14/10/2026), nessun esito pubblicato alla data di verifica; il riferimento operativo resta il D.M. 7/8/2025 con Regole Applicative GSE del 19/12/2025 | edilizia.com (16/10/2026) — verifica web 21/10/2026 |
+| AC3 | Verifica senza correzione | Scheda «Il Reddito Energetico»: sportello chiuso, in attesa del decreto di rifinanziamento | Confermato: ad ottobre 2026 nessun nuovo bando pubblicato; requisiti ISEE (15.000/30.000 euro) e contributo (2.000 + 1.500 euro/kW) ribaditi dalle fonti | reonic.com (14/8/2026), greenmood.org (5/9/2026), tancredisolarsystem.com (12/8/2026) — verifica web 21/10/2026 |
+| AC4 | Verifica senza correzione | Scheda detrazioni: 2026 = 50%/36%, 2027 = 36%/30%, limite 96.000 euro | Confermato da fonti concordanti aggiornate a ottobre 2026; nessuna proroga del 50% oltre il 2026 in alcun testo | greenmood.org (5/9/2026), solarsicily.com (20/10/2026) — verifica web 21/10/2026 |
+| AC5 | Nuovo pack | — | EDILIZIA_MONTAGNA_PACK (12 schede, L2-L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): cantiere in quota, carico neve (NTC, UNI EN 1991-1-3), gelo-disgelo e getti invernali, fondazioni su pendii, versanti e opere di sostegno, valanghe e zonizzazione, edilizia alpina tradizionale, involucro in zona F, impianti antigelo, accessi e sicurezza invernale, vincoli paesaggistici e decoro alpino, mezzi speciali (teleferiche, elicottero). Norme nazionali solo di consolidata certezza; normativa regionale marcata da verificare localmente | Norme di consolidata certezza; nessun valore normativo inventato |
+| AC6 | Nuovo esame | — | ESAMI/EDILIZIA_MONTAGNA: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata | build_esami_giro5.py |
+| AC7 | Validazione | — | Validazione globale: 75 pack, 1012 schede, 77 esami; JSON e 11 chiavi OK su tutte le righe, 0 refusi, COURSE.yaml coerenti | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: VERIFICA PRIORITARIA al prossimo giro — esito della Conferenza Unificata del 22/10/2026 (domani) e pubblicazione del correttivo in GU, con eventuale aggiornamento delle schede 1-3 di ENERGETICA_INCENTIVI_PACK.
+- Legge di Bilancio 2027: testo definitivo (dicembre 2026) per conferma o modifica di aliquote e limiti detrazioni dal 2027.
+- Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (stampa di settore indica artt. 371-373, da fonte singola: verificare sul testo GU).
+- Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: recepimento nazionale da verificare.

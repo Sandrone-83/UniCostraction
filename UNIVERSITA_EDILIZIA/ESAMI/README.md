@@ -36,6 +36,7 @@ di apprendimento per settore.
 | EDILIZIA_AGRICOLA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_CIRCOLARE_LCA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
+| EDILIZIA_MONTAGNA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_SCOLASTICA | ✅ 250 domande | chiavi: jsonl |
 | EMERGENZE | ✅ 250 domande | chiavi: jsonl |
 | ENERGETICA_INCENTIVI | ✅ 250 domande | chiavi: jsonl |

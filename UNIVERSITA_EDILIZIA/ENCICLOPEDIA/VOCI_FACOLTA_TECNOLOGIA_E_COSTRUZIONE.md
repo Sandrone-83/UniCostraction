@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-400 voci, 20 corsi.
+412 voci, 21 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -854,6 +854,191 @@ La circolarita' si misura sui dati: modelli BIM con attributi ambientali, EPD in
 - **Caso tipico:** Caso tipo: progettista che consegna in gara il GWP per moduli calcolato dal modello con tre varianti strutturali, con gli indicatori esportati direttamente dalla libreria EPD dei prodotti previsti in capitolato: la stazione appaltante verifica il metodo (computo + dataset dichiarati) invece di fidarsi di una tabella manuale.
 - **Normativa:** UNI EN 15978 e UNI EN 15804 (metodo e dati); ISO 14025 e formato ILCD per le EPD digitali; UNI EN ISO 19650 (gestione informativa BIM) per il quadro dei flussi informativi; CAM Edilizia (D.M. 23 giugno 2022) per le evidenze in appalto.
 - **Nota di cantiere:** Il modello ambientale si aggiorna con gli ordini reali: se in opera arriva un cemento o un isolante diverso dal progetto, qualcuno deve aggiornare dataset e computo, altrimenti la rendicontazione finale descrive un edificio che non esiste. Assegnare questo compito per iscritto nel piano di gestione informativa.
+
+
+## Edilizia in montagna e ambienti difficili
+
+*Corso `EDILIZIA_MONTAGNA_PACK` — 12 voci*
+
+### Gelo e disgelo: getti invernali, materiali e dettagli antigelo
+
+**Categoria:** Azioni climatiche · **Corso:** Edilizia in montagna e ambienti difficili
+
+I cicli gelo-disgelo sono il principale agente di degrado delle costruzioni di montagna: l'acqua che gela nei pori aumenta di volume e sfasa calcestruzzi, pietre e intonaci. Progettare per il gelo significa scegliere materiali resistenti e dettagli che non trattengono acqua.
+
+- **Tecnologia e criteri:** Prescrizioni: calcestruzzi esposti al gelo con classe di esposizione XF (XF1-XF4 secondo presenza d'acqua e sali), rapporto a/c basso, contenuto d'aria inglobata (additive aeranti, tipicamente 4-6%); mattoni e pietre naturali con prova di gelivita'; intonaci con bassa assorbenza; dettagli: gronde e pluviali dimensionati per ghiaccio, copertine inclinate e gocciolatoi, parapetti senza ristagni; getti invernali: temperatura dell'impasto mai sotto +5 gradi C, protezione termica del getto (teli coibenti, riscaldamento) per almeno 48-72 ore, mai gettare su supporto ghiacciato; profondita' di posa delle tubature sotto la profondita' di gelo locale.
+- **Applicazioni:** Strutture esposte in quota; cordonature, marciapiedi e pavimentazioni esterne; murature in pietra a vista; opere idrauliche di montagna; getti di tarda stagione.
+- **Vantaggi:** Materiali e dettagli corretti eliminano la manutenzione ciclica da disgelo; le miscele aerate costano poco e alzano molto la durabilita'; i dettagli di drenaggio (gocciolatoi, copertine) sono economici in costruzione e costosissimi da aggiungere dopo.
+- **Limiti e attenzioni:** Le prove di gelivita' su pietre e laterizi locali non sono sempre disponibili: serve prudenza sulle forniture non certificate; il getto invernale protetto costa e rallenta; nessun materiale resiste a ristagno continuo piu' gelo: i dettagli contano piu' dei materiali.
+- **Costi ed economia:** Ordini di grandezza indicativi: calcestruzzo XF con aerante +5-12 euro/m3 rispetto allo standard; protezione invernale dei getti (teli, riscaldamento, gestione) +8-20 euro/m3 o 1-3 k€ a gettata; rifacimento di cordonature degradate dal gelo 40-90 euro/m lineare; posa di tubature a profondita' maggiorata +20-40% sulla voce di scavo.
+- **Caso tipico:** Caso tipo: cordonatura in cls di un parcheggio a 1.300 m disgregata in tre inverni per getto standard non aerato e ristagno sotto la neve; il rifacimento usa miscela XF4 con aerante, pendenze corrette e giunti ravvicinati, senza ulteriori dissesti negli inverni successivi.
+- **Normativa:** UNI EN 206 e norme nazionali di applicazione per le classi di esposizione XF del calcestruzzo; NTC (D.M. 17/1/2018) per durabilita' e ambiente aggressivo; UNI EN 771 per i requisiti di gelivita' degli elementi per muratura.
+- **Nota di cantiere:** Da ottobre in poi, prima di ogni getto controlla la temperatura notturna prevista, non quella del momento: se scendi sotto zero entro tre giorni, proteggi il getto o rimanda. Un getto bruciato dal gelo non si recupera.
+
+### Il carico neve sulle coperture: verifiche e dettagli
+
+**Categoria:** Azioni climatiche · **Corso:** Edilizia in montagna e ambienti difficili
+
+La neve e' l'azione variabile dominante delle coperture di montagna: i carichi crescono con la quota e con l'esposizione, e gli accumuli localizzati (dossi, barriere, compluvi) valgono piu' del carico uniforme. La verifica segue le NTC con l'Eurocodice 1.
+
+- **Tecnologia e criteri:** Metodo: carico neve al suolo qs,k in funzione della zona NTC (I alpina, I appenninica, II, III) e della quota sul mare, con aumento progressivo oltre i 200 m; carico in copertura s = mi x CE x Ct x qs,k con coefficienti di forma mi che tengono conto di accumuli da vento, sporgenze, cambi di quota e ostacoli (camini, sovrappensi); tetti a falde con angoli oltre i 60 gradi scaricano parzialmente; verifica delle sovrastrutture leggere (lucernari, pannelli solari) come ostacoli che generano accumulo; attenzione alla neve bagnata primaverile, piu' densa della neve fresca.
+- **Applicazioni:** Dimensionamento di capriate, travi e arcarecci; verifica di coperture esistenti in ristrutturazione; progetto di falde con cambi di quota, canali e attrezzature in copertura; valutazione di tetti piani in quota.
+- **Vantaggi:** Il metodo NTC/EC1 fornisce mappe e formule consolidate; i coefficienti di forma colgono i punti critici reali (accumuli) dove avvengono la maggior parte dei crolli; il progetto corretto della falda (pendenza, sporgenza, sbalzo) riduce i carichi prima ancora di aumentare le sezioni.
+- **Limiti e attenzioni:** Le mappe di zona sono generali: microclimi locali (valli chiuse, versanti sopravvento) possono dare carichi reali superiori; le coperture esistenti, pensate per carichi storici inferiori, risultano spesso sottodimensionate rispetto alle verifiche attuali; il calcolo non copre la mancata manutenzione (neve mai rimossa per anni).
+- **Costi ed economia:** Ordini di grandezza indicativi: carichi neve al suolo in area alpina compresi tra circa 1,5 e 6 kN/m2 secondo zona e quota (valori da mappa NTC); il passaggio da 1.000 a 1.800 m puo' raddoppiare il carico di progetto; adeguamento strutturale di una copertura esistente sottodimensionata 80-200 euro/m2 di copertura; rimozione neve stagionale da copertura piana 3-8 euro/m2 a intervento.
+- **Caso tipico:** Caso tipo: verifica di un fienile in legno degli anni Sessanta a 1.400 m da convertire in abitazione: il carico neve NTC attuale supera di oltre il doppio quello storico di progetto; si interviene con doppi arcarecci e tiranti, mantenendo le capriate esistenti.
+- **Normativa:** D.M. 17/1/2018 (NTC, capitolo azioni della neve) e Circolare C.S.LL.PP. n. 7/2019; UNI EN 1991-1-3 (Eurocodice 1, azioni della neve) con relativo Allegato Nazionale.
+- **Nota di cantiere:** In quota non fidarti della copertura esistente 'che ha sempre retto': rifai il calcolo con la quota reale del sito e controlla gli accumuli dietro camini e sovrappensi, che e' dove cedono le travi.
+
+### Valanghe: zone di esposizione, opere di protezione e vincoli
+
+**Categoria:** Azioni climatiche · **Corso:** Edilizia in montagna e ambienti difficili
+
+Nelle zone esposte, la valanga e' un vincolo di localizzazione prima che un carico: le carte di pericolosità valanghiva definiscono dove si puo' costruire e con quali prescrizioni; le opere di protezione (deviatori, frangitratta, rinterri) riguardano opere specifiche e infrastrutture.
+
+- **Tecnologia e criteri:** Strumenti: carte e perimetrazioni di pericolosità valanghiva redatte dalle regioni e dalle province autonome (zone a diverso grado di esposizione, spesso non edificabili o edificabili con prescrizioni); certificati e verifiche di compatibilita' dove richiesti dalla normativa locale; opere di protezione: terrazzamenti e opere di sostegno nella zona di distacco (prevenzione attiva), deviatori e cumuli frangivalanga nella zona di scorrimento, rinterri e barriere a protezione puntuale degli edifici (protezione passiva); verifiche strutturali per le pressioni d'urto della valanga in zona di arresto secondo la letteratura tecnica specializzata; manutenzione del bosco di protezione come presidio permanente.
+- **Applicazioni:** Localizzazione di nuovi edifici e ampliamenti in comuni esposti; difesa di edifici e infrastrutture esistenti; progetto di opere in zona di distacco per impianti e vie di comunicazione.
+- **Vantaggi:** Rispettare la zonizzazione valanghiva elimina il rischio alla radice, senza costi strutturali; le opere nella zona di distacco proteggono piu' beni insieme; il bosco di protezione, dove presente, e' l'opera piu' economica che esista.
+- **Limiti e attenzioni:** Le opere strutturali contro le valanghe in zona di scorrimento sono costose e non sempre efficaci su eventi estremi; la zonizzazione puo' rendere non edificabili aree gia' urbanizzate nei documenti precedenti, con contenziosi; la manutenzione delle opere e del bosco e' continua e spesso sottofinanziata.
+- **Costi ed economia:** Ordini di grandezza indicativi: relazione di compatibilita' valanghiva da tecnico specializzato 2-8 k€ secondo complessita'; opere nella zona di distacco (rinterri, reti, opere di sostegno) da decine a centinaia di k€ per tratto; barriere e deviatori in zona di scorrimento 2.000-8.000 euro/m lineare; il rispetto della zonizzazione in fase di acquisto del terreno costa zero e vale piu' di qualunque opera.
+- **Caso tipico:** Caso tipo: progetto di un residence ai margini dell'abitato in comune alpino: la carta di pericolosità classifica parte dell'area come esposta; il progetto sposta i volumi nella zona libera e usa la fascia esposta solo per parcheggi interrati con rinterro orientato, accettato dagli uffici.
+- **Normativa:** Normativa regionale e delle province autonome in materia di pericolosità valanghiva e vincoli di edificabilita' (da verificare localmente); D.Lgs 152/2006 (difesa del suolo); D.M. 17/1/2018 (NTC) per le azioni eccezionali ove applicabili.
+- **Nota di cantiere:** Prima di comprare o progettare, scarica la carta di pericolosità valanghiva del comune e verifica dove cade l'area: una zona rossa non si 'sistema' con un muro piu' spesso, si rispetta e basta.
+
+### Accessi, vie di cantiere e sicurezza invernale
+
+**Categoria:** Cantiere in quota · **Corso:** Edilizia in montagna e ambienti difficili
+
+In montagna l'accesso e' un'opera provvisionale a se': strade sterrate in pendenza, tornanti, ponti con portate limitate, neve e ghiaccio per mesi. La sicurezza del trasporto vale quanto quella delle lavorazioni.
+
+- **Tecnologia e criteri:** Elementi: studio della via di accesso (pendenze, raggi, portate, larghezze utili per betoniere e autogru; a volte serve uno scarico intermedio con mezzi piu' piccoli); realizzazione o adeguamento di piste di cantiere con drenaggi e cunette (e ripristino a fine lavori, spesso obbligatorio); gestione invernale: piano neve e ghiaccio, sale o sabbia, mezzi con catene o cingoli; sicurezza: barriere e delimitazioni sui versanti, protezione dai rotolamenti, piani di emergenza con tempi di soccorso realistici in quota (118 e soccorso alpino), comunicazioni radio dove il cellulare non prende; PSC che tratti esplicitamente meteo, accessi, caduta massi e isolamento del cantiere.
+- **Applicazioni:** Cantieri serviti da strade comunali o forestali; cantieri raggiungibili solo con mezzi cingolati; lavori invernali in localita' sciistiche; cantieri in valli con unico accesso.
+- **Vantaggi:** Una pista di cantiere ben fatta dimezza i tempi di trasporto e i danni ai mezzi; il piano neve evita fermi improvvisi e incidenti; l'accordo con i gestori stradali (e il ripristino finale) evita contenziosi con il comune.
+- **Limiti e attenzioni:** L'adeguamento degli accessi puo' costare quanto una lavorazione principale su piccole opere; i limiti di portata di ponti e strade vincolano il tipo di mezzi (niente betoniere piene su certi ponti); in inverno ogni giorno di cantiere costa di piu' e rende di meno.
+- **Costi ed economia:** Ordini di grandezza indicativi: realizzazione/adeguamento di pista sterrata di cantiere 40-100 euro/m lineare; servizio invernale sgombero neve per cantiere medio 1,5-6 k€/stagione; scarico intermedio e doppio trasporto +20-50% sui costi di fornitura; penali o ripristini stradali per mancato accordo: da qualche k€ a decine secondo danno.
+- **Caso tipico:** Caso tipo: costruzione di una villa a 1.300 m con ultimo chilometro su strada forestale: accordo con il comune per l'adeguamento di due curve e un ponticello, pista mantenuta con drenaggi, ripristino a prato a fine lavori come da vincolo; il cantiere non ha mai perso un giorno per accessi.
+- **Normativa:** D.Lgs 81/2008, Titolo IV (PSC: rischi di accesso e trasporto); codice della strada e ordinanze dei gestori per mezzi eccezionali; vincoli paesaggistici e forestali sulle piste (D.Lgs 42/2004; da verificare localmente).
+- **Nota di cantiere:** Percorri l'accesso con il mezzo piu' grande che userai PRIMA di firmare il cronoprogramma: la curva che non fai con l'autogru la scopri meglio con un furgone che con la gru gia' noleggiata.
+
+### Il cantiere di montagna: logistica, stagionalita' e finestre meteo
+
+**Categoria:** Cantiere in quota · **Corso:** Edilizia in montagna e ambienti difficili
+
+Costruire in montagna significa progettare prima il cantiere dell'edificio: strade di accesso strette e con pendenze forti, stagione utile breve, meteo che comanda il cronoprogramma. La logistica pesa sui costi piu' delle lavorazioni stesse.
+
+- **Tecnologia e criteri:** Parametri di progetto del cantiere: quota (sopra i 1.200-1.500 m la stagione dei getti e delle opere esterne si riduce tipicamente a maggio-ottobre); capacita' e pendenza della viabilita' di accesso (autobetoniera e autoarticolati richiedono pendenze massime e raggi di curvatura verificati); aree di stoccaggio limitate in pendio; approvvigionamento idrico ed elettrico spesso da realizzare; previsioni meteo operative (bollettini regionali) integrate nella programmazione settimanale; piano invernale: sgombero neve, protezione getti, chiusura e messa in sicurezza stagionale.
+- **Applicazioni:** Nuove costruzioni e ristrutturazioni sopra i 1.000 m; rifugi e bivacchi; opere di protezione del territorio; ampliamenti di impianti e strutture ricettive alpine.
+- **Vantaggi:** Una programmazione stagionale corretta concentra le lavorazioni sensibili (getti, impermeabilizzazioni, facciate) nei mesi affidabili e riduce fermi e rifacimenti; stoccaggi pianificati a inizio stagione proteggono dalle interruzioni stradali invernali.
+- **Limiti e attenzioni:** Finestra operativa breve: un ritardo di 3-4 settimane in estate puo' slittare la fine lavori di un anno intero; costi di trasporto e mobilitazione sensibilmente superiori alla pianura; reperibilita' di manodopera e mezzi piu' difficile; varianti meteo non contrattualizzabili in dettaglio.
+- **Costi ed economia:** Ordini di grandezza indicativi: maggiorazione logistica complessiva sui costi di costruzione in quota +15-40% rispetto a fondovalle; trasporto calcestruzzo oltre 30-45 minuti di percorrenza richiede miscele ritardanti (+3-8 euro/m3); installazione cantiere in quota 20-60 k€ secondo accessibilita'; sgombero neve e protezioni invernali 2-8 k€/stagione per cantieri medi.
+- **Caso tipico:** Caso tipo: ristrutturazione di una baita a 1.600 m raggiungibile solo con fuoristrada; il cronoprogramma concentra scavi e getti tra giugno e settembre, con consegna materiali lapidei e serramenti programmata a luglio e chiusura invernale del cantiere a ottobre con copertura provvisoria stagionale.
+- **Normativa:** D.Lgs 81/2008, Titolo IV (cantieri temporanei o mobili: il PSC deve trattare esplicitamente rischio meteo, accessi e invernata); NTC (D.M. 17/1/2018) per le azioni ambientali; regolamenti edilizi comunali montani (da verificare localmente).
+- **Nota di cantiere:** Ordina i materiali a lunga consegna a inizio primavera e stocca in sito prima dell'estate: a ottobre la strada che oggi ti sembra comoda puo' chiuderti il cantiere fino a maggio.
+
+### Sollevamento e trasporto speciali: teleferiche, elicottero e gru in quota
+
+**Categoria:** Cantiere in quota · **Corso:** Edilizia in montagna e ambienti difficili
+
+Quando la strada non basta, i materiali volano o scorrono su funi: teleferiche da cantiere per i lavori lunghi, elicottero per i trasporti concentrati, gru a fune e argani per i siti impervi. La scelta e' economica oltre che tecnica.
+
+- **Tecnologia e criteri:** Soluzioni: teleferica da cantiere (portate tipiche da 5 a 30 quintali, installazione e collaudo, smontaggio a fine lavori): ideale per flussi continui su cantieri di mesi; elicottero da lavoro: trasporto a gancio di carichi imbullonati o in benne, costo orario elevato ma produttivita' altissima (in un giorno di volo si spostano centinaia di tonnellate se il sito e' organizzato); gru a torre o automotrici in quota: attenzione a vento, fondazioni su roccia, accessi; argani e paranchi per movimentazioni interne brevi; organizzazione del punto di carico e scarico, segnali e addetti dedicati, piani di volo e autorizzazioni ENAC per l'elicottero.
+- **Applicazioni:** Rifugi e opere senza accesso stradale; opere di difesa del territorio in alveo o su versante; costruzioni in siti con vincoli che vietano nuove piste; smantellamenti e recuperi in quota.
+- **Vantaggi:** L'elicottero annulla il problema dell'accesso e comprime i tempi (il costo si giudica sul giorno, non sull'ora); la teleferica rende autonomo un cantiere lungo senza piste invasive; entrambe riducono l'impatto ambientale rispetto a nuove strade.
+- **Limiti e attenzioni:** Elicottero: finestra meteo stretta (vento e nebbia fermano tutto), costo orario che punisce la disorganizzazione, autorizzazioni e personale specializzato obbligatori; teleferica: investimento iniziale e tempi di montaggio/smontaggio, manutenzione e verifiche periodiche; entrambe richiedono logistica di carico impeccabile: i colli devono essere pronti quando il mezzo arriva.
+- **Costi ed economia:** Ordini di grandezza indicativi: elicottero da lavoro 3.000-6.000 euro/ora di volo (piu' posizionamento): un giorno organizzato muove 100-300 t; teleferica da cantiere installazione 30-150 k€ secondo lunghezza e portata, con canoni di noleggio mensili; gru in quota con fondazioni speciali +20-40% sulle voci standard; l'alternativa stradale (nuova pista) spesso supera questi costi su cantieri brevi.
+- **Caso tipico:** Caso tipo: ristrutturazione di un rifugio a 2.400 m senza accesso: installazione di teleferica da 10 quintali per la stagione dei lavori e un solo giorno di volo per i carichi voluminosi (serramenti, caldaia); il cronoprogramma si e' chiuso in stagione senza costruire alcuna pista.
+- **Normativa:** D.Lgs 81/2008 (attrezzature di sollevamento: verifiche e conduttori qualificati); regole INAIL e ASL per apparecchi di sollevamento; autorizzazioni e piani di volo ENAC per trasporti a mezzo elicottero; verifiche periodiche delle funivie da cantiere secondo la normativa tecnica vigente (da verificare caso per caso).
+- **Nota di cantiere:** Se usi l'elicottero, il cantiere vero e' il punto di carico: colli pesati, imbragati e in sequenza, addetti formati e radio aperte. Ogni minuto di volo sprecato sono cento euro, e l'elicottero non aspetta nessuno.
+
+### Edilizia tradizionale alpina: murature in pietra, tetti in lose e legno strutturale
+
+**Categoria:** Costruzione alpina · **Corso:** Edilizia in montagna e ambienti difficili
+
+L'edilizia alpina storica e' un sistema costruttivo coerente: murature portanti in pietra, solai e capriate in legno, coperture in lose o scandole, rinterri contro il pendio. Ristrutturare bene significa capire quel sistema, non sostituirlo con un altro.
+
+- **Tecnologia e criteri:** Elementi: murature in pietra a due paramenti con nucleo di riempimento (spessori tipici 50-80 cm), deboli agli sforzi orizzontali e agli ammorsamenti mancanti; capriate tradizionali alla savoiarda o alla piemontese con catene; coperture in lose di pietra (peso complessivo indicativo 300-500 kg/m2: verifica delle travi obbligatoria) o in scandole di legno; rinterri a monte con drenaggio; interventi coerenti: catene e cerchiature, cuciture e ricuciture, miglioramento dell'ammorsamento degli angoli, sostituzione puntuale di travi marce, coibentazione dall'interno con materiali traspiranti, ventilazione del sottotetto.
+- **Applicazioni:** Recupero di baite, fienili e fabbricati rurali; ristrutturazioni in centri storici alpini vincolati; nuove costruzioni in contesto che riprendono il sistema tradizionale.
+- **Vantaggi:** La massa muraria regola umidita' e temperatura; i materiali locali sono coerenti con il clima e con il paesaggio; gli interventi di miglioramento (catene, ammorsamenti) costano poco rispetto alla sostituzione e conservano il valore culturale.
+- **Limiti e attenzioni:** Le murature in pietra hanno resistenza a compressione modesta e comportamento sismico debole senza ammorsamenti efficaci; i tetti in lose pesano molto e non si posano su strutture leggere; la coibentazione dall'esterno e' spesso vietata dai vincoli e quella dall'interno riduce le superfici; reperire squadratori di lose e manodopera specializzata e' sempre piu' difficile.
+- **Costi ed economia:** Ordini di grandezza indicativi: ricostruzione o restauro di muratura in pietra 250-450 euro/m2 di paramento; copertura in lose tradizionale fornita e posata 250-450 euro/m2 (con struttura di supporto adeguata), in scandole 150-280 euro/m2; cerchiatura o catena metallica 80-150 euro/m lineare; ristrutturazione completa di un fabbricato rurale 1.500-2.800 euro/m2 secondo stato di conservazione.
+- **Caso tipico:** Caso tipo: recupero di un fienile con copertura in lose in comune valdostano: la verifica mostra arcarecci insufficienti; si mantengono le lose su nuova orditura dimensionata al peso reale, con catene di piano e coibentazione traspirante sotto il manto, nel rispetto delle prescrizioni paesaggistiche.
+- **Normativa:** D.Lgs 42/2004 (tutela del paesaggio e dei beni culturali); D.M. 17/1/2018 (NTC: costruzioni esistenti in muratura e miglioramento sismico); regolamenti edilizi e del decoro alpino dei comuni e delle regioni (da verificare localmente).
+- **Nota di cantiere:** Quando apri un tetto in lose, pesa davvero una losa e misura la sezione delle travi prima di promettere di 'tenere tutto com'e': il manto in pietra e' bello ma e' il carico permanente piu' pesante che troverai in cantiere.
+
+### Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota
+
+**Categoria:** Impianti in quota · **Corso:** Edilizia in montagna e ambienti difficili
+
+Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di rete e' un metro di scavo in roccia o in gelo.
+
+- **Tecnologia e criteri:** Prescrizioni idrauliche: posa sotto la profondita' di gelo locale (in alta montagna puo' superare 1,0-1,5 m: da verificare con il dato climatico locale); dove non possibile, coibentazione e cavo scaldante con termostato; riduttori di pressione sugli acquedotti con grandi dislivelli; valvole di scarico e svuotamento per gli edifici a uso stagionale; fognature: pendenze minime rispettate anche in terreno roccioso (costo scavo), pozzetti isolati, piccoli impianti di depurazione locale ove il collettore manca (scarichi secondo normativa ambientale); energia: linee elettriche in cavo interrato, gruppi elettrogeni di emergenza per rifugi e utenze isolate, fotovoltaico con carico neve dimensionato e angoli di falda che favoriscono lo scarico; pompe di calore in quota: attenzione al calo di prestazione a temperature estremamente basse (modelli adatti a climi rigidi, sbrinamenti frequenti) e alla integrazione con caldaia o biomassa.
+- **Applicazioni:** Baite e residenze isolate; rifugi e strutture ricettive; frazioni senza acquedotto o fognatura; edifici stagionali con svuotamento invernale.
+- **Vantaggi:** Lo svuotamento stagionale ben progettato azzera i danni da gelo nelle case chiuse d'inverno; i sistemi autonomi (FV, biomassa, depurazione locale) rendono abitabili luoghi senza reti; i cavi scaldanti termostatati costano poco e salvano i tratti non interrabili.
+- **Limiti e attenzioni:** Gli allacci lunghi in roccia costano piu' dell'impianto stesso; le pompe di calore aria-acqua sotto i -15 gradi perdono potenza proprio quando serve; gli impianti di depurazione locali richiedono manutenzione e autorizzazioni allo scarico; la manutenzione invernale di impianti in luoghi isolati e' un impegno, non un optional.
+- **Costi ed economia:** Ordini di grandezza indicativi: scavo per rete interrata in terreno montano 60-150 euro/m lineare (in roccia anche oltre); allaccio idrico o fognario a distanza superiore ai 100 m: 10-30 k€; sistema antigelo con cavo scaldante 40-90 euro/m installato; piccola depurazione locale 8-25 k€; gruppo elettrogeno con commutazione per rifugio 5-20 k€.
+- **Caso tipico:** Caso tipo: baita a 1.700 m senza fognatura: posa di condotta verso piccolo impianto a fanghi attivi in cassone coibentato, linea idrica a 1,2 m di profondita' con pozzetto di scarico invernale, svuotamento autunnale guidato da valvole in punto basso.
+- **Normativa:** D.Lgs 152/2006 (scarichi e depurazione); D.M. 37/2008 (impianti: progetto e conformita'); regolamenti degli acquedotti e gestori locali (da verificare); norme CEI per gli impianti elettrici in luoghi particolari.
+- **Nota di cantiere:** Disegna l'impianto idrico pensando a come lo svuoti, non solo a come lo riempi: valvole di scarico nei punti bassi e pendenze continue. La prima casa che ti gelano i tubi a Natale ti insegna questa regola, ma e' meglio impararla prima.
+
+### Involucro edilizio in clima rigido: zona climatica F, ponti termici e condensa
+
+**Categoria:** Involucro in clima rigido · **Corso:** Edilizia in montagna e ambienti difficili
+
+Le localita' di alta montagna cadono in zona climatica F (oltre 3.000 gradi giorno): dispersioni invernali estreme, rischio condensa interstiziale, ponti termici che diventano muffe. L'involucro va progettato per il caso peggiore, non per la media.
+
+- **Tecnologia e criteri:** Prestazioni: trasmittanze di parete tipiche di progetto in zona F sotto 0,20-0,25 W/m2K con isolamento continuo (cappotti spessi 16-24 cm o pareti a cassa vuota riempite); serramenti con triplo vetro e telai a taglio termico (Uw sotto 1,1-1,3 W/m2K); eliminazione sistematica dei ponti termici (balconi con giunti a taglio termico, davanzali passanti isolati); verifica igrometrica con il metodo del diagramma di Glaser per la condensa interstiziale; VMC per la qualita' dell'aria con involucro tenuto; protezione delle tubazioni esterne e dei sottotetti ventilati dal vento gelo; attenzione all'apporto solare invernale come risorsa reale nelle valli soleggiate.
+- **Applicazioni:** Nuove abitazioni e residenze turistiche in quota; riqualificazioni energetiche in zona climatica E ed F; recupero di sottotetti; edifici con uso stagionale discontinuo (case vacanza, seconde case).
+- **Vantaggi:** In zona F il risparmio energetico per ogni intervento e' massimo: i costi di isolamento si ripagano in pochi inverni; l'eliminazione dei ponti termici risolve in via definitiva muffe e condense tipiche delle case di montagna; la VMC consente tenuta all'aria senza problemi igrometrici.
+- **Limiti e attenzioni:** Nelle ristrutturazioni con vincoli lo spessore interno disponibile e' limitato; gli edifici usati solo in alcune settimane dell'anno hanno dinamiche termiche particolari (ramp-up, rischio gelo impianti) che penalizzano le soluzioni 'standard'; il costo dei serramenti ad alta prestazione pesa sulle piccole ristrutturazioni.
+- **Costi ed economia:** Ordini di grandezza indicativi: cappotto in quota spessori 16-20 cm 90-140 euro/m2 posato; serramento triplo vetro 500-800 euro/m2; giunti a taglio termico per balconi 400-900 euro/cad; VMC centralizzata per unita' abitativa 3-6 k€; i consumi di riscaldamento in zona F non isolata possono superare 200-250 kWh/m2 anno: l'intervento profondo li dimezza o piu'.
+- **Caso tipico:** Caso tipo: appartamento in condominio a 1.500 m con muffa ricorrente sugli angoli: la diagnosi mostra ponti termici sui cordoli e assenza di ventilazione; si interviene con coibentazione interna degli angoli, sostituzione serramenti e VMC puntuale, eliminando il problema.
+- **Normativa:** DPR 412/1993 e DPR 74/2013 (zone climatiche e regolazione impianti); D.M. 26/6/2015 (requisiti minimi, trasmittanze limite per zona climatica); UNI/TS 11300 (calcolo prestazioni); UNI EN ISO 13788 (condensa interstiziale, metodo Glaser).
+- **Nota di cantiere:** In zona F non accettare mai un ponte termico 'tanto e' poco': a -15 gradi esterni quel poco diventa condensa certa. E proteggi i tubi dell'acqua nei sottotetti ventilati: il vento di gennaio li gela in una notte.
+
+### Vincoli paesaggistici e regolamenti edilizi in ambito alpino
+
+**Categoria:** Quadro e vincoli · **Corso:** Edilizia in montagna e ambienti difficili
+
+Quasi tutto il territorio montano italiano e' vincolato: paesaggio, boschi, demanio idrogeologico, distanze da corsi d'acqua, regolamenti di decoro alpino. Il progetto nasce dai vincoli, non vi si adatta dopo.
+
+- **Tecnologia e criteri:** Quadro: vincolo paesaggistico (D.Lgs 42/2004) con autorizzazione paesaggistica semplificata o ordinaria secondo l'intervento; piani paesaggistici regionali con prescrizioni puntuali (materiali, colori, coperture, recinzioni); vincolo idrogeologico e pertinenze fluviali (distanze da rispettare, autorizzazioni dei geni civili); vincolo forestale e di vincolo idrogeologico sugli sboscamenti; regolamenti edilizi di decoro alpino: tipologie ammesse, falde, manti (lose, scandole, lamiera secondo zona), rapporti di massa, colori; prassi: pre-consultazione con gli uffici prima del deposito, tavole dedicate ai materiali e agli inserimenti.
+- **Applicazioni:** Qualunque nuovo intervento in comuni montani; ristrutturazioni con modifiche di sagoma o manto; realizzazione di piste, piazzali e pertinenze esterne; cambi d'uso in centri storici alpini.
+- **Vantaggi:** Le prescrizioni, se lette subito, danno un progetto coerente con il contesto e autorizzazioni piu' rapide; la pre-consultazione evita bocciature e rifacimenti; il rispetto del decoro alpino tutela anche il valore immobiliare.
+- **Limiti e attenzioni:** Tempi autorizzativi piu' lunghi che in pianura; prescrizioni puntuali possono imporre materiali costosi (lose, scandole); le distanze dai corsi d'acqua riducono aree edificabili gia' piccole; differenze forti tra regioni: la stessa opera e' ammessa in una valle e vietata nell'altra.
+- **Costi ed economia:** Ordini di grandezza indicativi: relazione paesaggistica e pratica autorizzativa 2-8 k€ secondo complessita'; maggior costo di manti in lose o scandole rispetto a coperture comuni: +150-350 euro/m2; tempi aggiuntivi tipici 2-6 mesi per l'autorizzazione paesaggistica (da pianificare nel cronoprogramma).
+- **Caso tipico:** Caso tipo: ampliamento di un albergo in comune con piano paesaggistico: la pre-consultazione porta a ridurre l'altezza di un metro e a coprire in lose come i fabbricati vicini; l'autorizzazione arriva al primo passaggio senza sospensive.
+- **Normativa:** D.Lgs 42/2004 (codice dei beni culturali e del paesaggio, parte terza); piani paesaggistici regionali; DPR 380/2001 (titoli abilitativi); normativa forestale e idrogeologica nazionale e regionale (da verificare localmente).
+- **Nota di cantiere:** Non comprare mai materiali di copertura o di facciata prima dell'autorizzazione paesaggistica in zona vincolata: se ti impongono lose al posto della lamiera, il magazzino non te li riprende.
+
+### Fondazioni su pendii e terreni montani
+
+**Categoria:** Terreno e fondazioni · **Corso:** Edilizia in montagna e ambienti difficili
+
+In montagna la fondazione e' prima di tutto un problema di pendio: carichi trasmessi su terreno in scivolamento potenziale, roccia affiorante ma fratturata, falde di ruscellamento. Il progetto geotecnico viene prima della scelta della tipologia.
+
+- **Tecnologia e criteri:** Indagini: sondaggi e prove penetrometriche ove raggiungibili (in quota servono mezzi cingolati o slitte), sismica di rifrazione per la profondita' del bedrock, monitoraggio piezometrico stagionale; soluzioni: plinti e travi rovesce su roccia affiorante con tiranti di ancoraggio; fondazioni a gradoni in pendio (mai riempimenti poggiati su terreno sciolto); micropali e pali trivellati ove la roccia e' profonda; vespai e drenaggi contro il ristagno; attenzione al rapporto con le opere di sostegno a monte (la fondazione non e' il muro di contenimento del pendio, salvo verifica esplicita).
+- **Applicazioni:** Edifici su versante; ampliamenti con scavi a ridosso di pendii; piccole opere (garage, terrazze) su terrazzamenti; ristrutturazioni con carichi aumentati su fondazioni storiche in pietra.
+- **Vantaggi:** Le fondazioni a gradoni seguono la morfologia e riducono gli sbancamenti; l'ancoraggio in roccia offre portanze elevate con volumi di getto contenuti; un drenaggio ben fatto risolve meta' dei problemi di stabilita' locale.
+- **Limiti e attenzioni:** Il bedrock affiorante in superficie puo' essere un blocco staccato o una placca fratturata: serve sempre conferma con indagine; i micropali in quota hanno costi di mobilitazione alti per piccoli lavori; su falde detritiche la portanza cambia di metro in metro.
+- **Costi ed economia:** Ordini di grandezza indicativi: indagine geotecnica di base in montagna 3-8 k€ (mobilitazione mezzi inclusa); fondazioni a gradoni in cls armato 350-550 euro/m3 di getto posato in quota; micropali 60-110 euro/m lineare compresa mobilitazione; ancoraggi e tiranti in roccia 150-400 euro/m secondo lunghezza e prova di carico.
+- **Caso tipico:** Caso tipo: ampliamento di una residenza a 1.200 m su terrazzamento storico: l'indagine mostra riporto sciolto per 2-3 m sopra il bedrock; si scelgono micropali infissi in roccia con platea, e il riempimento esistente resta alleggerito e drenato.
+- **Normativa:** D.M. 17/1/2018 (NTC, capitolo opere geotecniche) e Circolare n. 7/2019; UNI EN 1997 (Eurocodice 7); indagini geotecniche secondo la normativa nazionale sulle indagini del sottosuolo (norme UNI EN ISO 22475 e seguenti, da applicare tramite progettista geotecnico).
+- **Nota di cantiere:** Non usare mai il materiale di scavo del pendio come riempimento sotto una platea: si comprime per anni. Spalla a monte drenata e riempimenti solo con materiale selezionato, o non ne esci piu'.
+
+### Stabilita' dei versanti e opere di sostegno in ambito edilizio
+
+**Categoria:** Terreno e fondazioni · **Corso:** Edilizia in montagna e ambienti difficili
+
+Ogni costruzione in pendio interagisce con la stabilita' del versante: scavi a valle che tolgono sostegno, carichi nuovi a monte, acqua che cambia percorso. Le opere di sostegno vanno dimensionate come strutture, non come 'muretti'.
+
+- **Tecnologia e criteri:** Soluzioni: muri di sostegno in cls armato a mensola o a gravita'; gabbionate e paramassi (flessibili, drenanti, adatte a piccoli spostamenti); palificate e berlinesi per scavi importanti; reti e chiodature per fronti rocciose; barriere paramassi e frenaneve a monte degli edifici; drenaggi trasversali e sottomurazioni come parte integrante del sistema; verifiche: ribaltamento, scorrimento, carico limite del terreno e spinta globale del pendio con indagine geotecnica dedicata.
+- **Applicazioni:** Scavi per nuovi volumi in pendio; realizzazione di piazzali e accessi; protezione di edifici sotto fronti rocciose o pendii detritici; recupero di terrazzamenti in dissesto.
+- **Vantaggi:** Gabbioni e paramassi assorbono cedimenti senza fessurarsi e drenano da soli; le palificate permettono scavi verticali anche a ridosso di edifici; un sostegno ben drenato dura decenni senza manutenzione.
+- **Limiti e attenzioni:** Nessuna opera di sostegno locale stabilizza un versante in movimento profondo: serve prima la diagnosi geologica; le opere rigide mal drenate cedono per sovrapressione idraulica, non per spinta delle terre; i costi crescono rapidamente con l'altezza.
+- **Costi ed economia:** Ordini di grandezza indicativi: gabbionate fornite e posate 120-220 euro/m3; muri in cls armato a mensola 300-500 euro/m2 di paramento; palificate con micropali e spritz 500-1.000 euro/m2 di fronte; reti paramassi ad alta resistenza 80-180 euro/m2; barriere paramassi 2.000-6.000 euro/m lineare secondo energia di progetto.
+- **Caso tipico:** Caso tipo: scavo per un garage interrato a monte di una casa in paese: palificata con micropali e getto di spritz a protezione dello scavo, monitorata con targhe ottiche durante tutta la fase di scavo, senza cedimenti misurabili dell'edificio esistente.
+- **Normativa:** D.M. 17/1/2018 (NTC: opere di sostegno e stabilita' dei pendii) e Circolare n. 7/2019; UNI EN 1997 (Eurocodice 7); D.Lgs 152/2006 (difesa del suolo: quadro generale); autorizzazioni dei geni civili regionali ove previste (da verificare localmente).
+- **Nota di cantiere:** Prima di scavare a valle di un muro esistente, misura e fotografa tutto e metti almeno tre targhe di monitoraggio: se il muro si muove, vuoi saperlo dal primo millimetro, non dalla crepa sul pavimento.
 
 
 ## Edilizia scolastica tecnica

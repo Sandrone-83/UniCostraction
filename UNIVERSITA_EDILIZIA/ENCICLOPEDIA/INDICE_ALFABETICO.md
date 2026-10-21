@@ -3,12 +3,14 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1162 voci enciclopediche tratte da 75 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1174 voci enciclopediche tratte da 76 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
 - **Accatastamento e regolarizzazione: il mercato immobiliare pulito** — Accatastamento · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Mettere in regola immobili irregolari: il valore economico della regolarità.
+- **Accessi, vie di cantiere e sicurezza invernale** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  In montagna l'accesso e' un'opera provvisionale a se': strade sterrate in pendenza, tornanti, ponti con portate limitate, neve e ghiaccio per mesi. La sicurezza del trasporto vale quanto quella delle lavorazioni.
 - **Accessibilità e barriere architettoniche negli impianti sportivi** — Accessibilità · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Gli impianti sportivi devono essere fruibili da tutti: persone con disabilità motorie, sensoriali e cognitive. L'accessibilità riguarda percorsi esterni, parcheggi, ingressi, spalti, spogliatoi e servizi igienici, fino a…
 - **Accessori impianto idrico** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -435,6 +437,8 @@
   Le regole del costruire in campagna: fabbricati rurali, vincoli paesaggistici e pratiche semplificate.
 - **Edilizia temporanea di emergenza: SAE, map e soluzioni rapide** — Temporaneo · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Le case di emergenza: moduli abitativi, container e i villaggi della ricostruzione.
+- **Edilizia tradizionale alpina: murature in pietra, tetti in lose e legno strutturale** — Costruzione alpina · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  L'edilizia alpina storica e' un sistema costruttivo coerente: murature portanti in pietra, solai e capriate in legno, coperture in lose o scandole, rinterri contro il pendio. Ristrutturare bene significa capire quel sist…
 - **Efficienza energetica e gestione intelligente della luce** — Efficienza · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   La luce e' spesso la prima voce in bolletta di uffici e retail: sensori di presenza, daylight harvesting e regolazione oraria tagliano consumi senza togliere qualita' visiva.
 - **Elementi per solai latero-cementizi** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -505,6 +509,8 @@
   Il viaggio dell'acqua sporca: fognatura unita e separata, depurazione e scarico.
 - **Fondazioni esistenti: diagnosi, rinforzo e recupero** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   Le fondazioni esistenti si verificano e rinforzano con tecniche non invasive o minimamente invasive: micropali, radicazioni, inghisaggi, ampliamenti di zoccolo, sotto-fondazioni, getti di alleggerimento.
+- **Fondazioni su pendii e terreni montani** — Terreno e fondazioni · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  In montagna la fondazione e' prima di tutto un problema di pendio: carichi trasmessi su terreno in scivolamento potenziale, roccia affiorante ma fratturata, falde di ruscellamento. Il progetto geotecnico viene prima dell…
 - **Fondazioni: superficiale, pali, micropali, miglioramenti** — Fondazioni · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Tutto poggia sul terreno: come si dà una base sicura all'edificio.
 - **Fondo e isolante per pareti** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -525,6 +531,8 @@
   Costruzione e adeguamento delle gallerie ferroviarie, dal raddoppio sezionale alla nuova linea.
 - **Gateway e integrazione multprotocollo** — Gateway · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Come far parlare insieme KNX, BACnet, Modbus, Zigbee, Matter, cloud.
+- **Gelo e disgelo: getti invernali, materiali e dettagli antigelo** — Azioni climatiche · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  I cicli gelo-disgelo sono il principale agente di degrado delle costruzioni di montagna: l'acqua che gela nei pori aumenta di volume e sfasa calcestruzzi, pietre e intonaci. Progettare per il gelo significa scegliere mat…
 - **Gemello digitale di cantiere e opera** — Digital twin · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Modello vivo dell'opera aggiornato in tempo reale da sensori, rilievi e avanzamento.
 - **Geometria piana: aree e perimetri delle figure del cantiere** — Geometria piana · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -795,6 +803,8 @@
   La maggior parte dei retrofit si esegue con le persone dentro casa: rumore, polvere, finestre aperte d'inverno, impianti spenti per ore. Organizzare il cantiere 'abitato' e' una disciplina a se' che decide la riuscita co…
 - **Il cantiere del tetto verde: sequenza, stagionalita' e protezioni** — Cantiere · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   La posa del tetto verde e' un cantiere di precisione in quota: ogni strato copre il precedente per sempre, la membrana va protetta da tutto cio' che segue e la stagione decide quando si posa la vegetazione. L'organizzazi…
+- **Il cantiere di montagna: logistica, stagionalita' e finestre meteo** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Costruire in montagna significa progettare prima il cantiere dell'edificio: strade di accesso strette e con pendenze forti, stagione utile breve, meteo che comanda il cronoprogramma. La logistica pesa sui costi piu' dell…
 - **Il cantiere di risanamento e i rifiuti: classificazione, formulari e costi reali** — Rifiuti · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Ogni cantiere di risanamento produce tonnellate di rifiuti: mattoni, intonaci, coperture, e talvolta rifiuti speciali (amianto, piombo, idrocarburi). La gestione corretta è un obbligo di legge con formulari di identifica…
 - **Il capitolato di interior: documento contrattuale** — Capitolato interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -803,6 +813,8 @@
   Il capitolato speciale d'appalto descrive le lavorazioni, i materiali, le esecuzioni e i controlli: è la parte tecnica del contratto che disciplina il 'come' di ogni voce del computo e fissa le regole di qualità.
 - **Il cappotto come cura dei ponti termici: angoli, pilastri, balconi** — Ponti termici · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
   Il ponteggio termico localizzato (Ψ, W/mK) brucia il beneficio dell'isolamento: angoli, pilastri in cemento a vista, travi di balcone, cornicioni, pilastrini di cantina. Il cappotto continuo esterno è la cura più efficac…
+- **Il carico neve sulle coperture: verifiche e dettagli** — Azioni climatiche · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  La neve e' l'azione variabile dominante delle coperture di montagna: i carichi crescono con la quota e con l'esposizione, e gli accumuli localizzati (dossi, barriere, compluvi) valgono piu' del carico uniforme. La verifi…
 - **Il cartiglio: identificazione della tavola** — Cartiglio · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
   Il cartiglio è il riquadro identificativo in basso a destra di ogni tavola: titolo, scala, data, disegnatore/verificatore, numero tavola, riferimenti al progetto, loghi, e in edilizia il timbro del professionista abilita…
 - **Il catasto italiano: fogli, particelle, subalterni** — Catasto · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -1071,6 +1083,8 @@
   Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatura in bagni, balconi e terrazzi. Errore tipico: saltare fasce e angolari nei raccordi parete-pavimento e non rispettare gli spessori per mano…
 - **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
+- **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di re…
 - **Impianto a sprinklers** — Idraulica antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Spegnimento automatico a pioggia: la protezione antincendio più efficace al mondo.
 - **Impianto di terra (SG)** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1101,6 +1115,8 @@
   Realizzazione di intonaci interni ed esterni a più strati (rinzaffo, arriccio, finitura). Errore tipico: applicare su supporto polveroso o troppo assorbente senza preparazione (distacchi a scaglie) e non rispettare i tem…
 - **Inverter di centrale e rete interna: dal modulo alla cabina di consegna** — Inverter e rete interna · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Dalla corrente continua dei moduli alla corrente alternata di rete: inverter, cabine di trasformazione e la rete interna in cavidotto sono il sistema nervoso del campo. La scelta tra string inverter e central inverter ca…
+- **Involucro edilizio in clima rigido: zona climatica F, ponti termici e condensa** — Involucro in clima rigido · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Le localita' di alta montagna cadono in zona climatica F (oltre 3.000 gradi giorno): dispersioni invernali estreme, rischio condensa interstiziale, ponti termici che diventano muffe. L'involucro va progettato per il caso…
 - **Iperammortamento 2026-2028 e fine del ciclo Transizione 5.0** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Per le imprese il ciclo Transizione 5.0 (credito d'imposta 35-45% su investimenti effettuati entro il 31/12/2025) e' chiuso ai nuovi investimenti; la L. 199/2025 (Legge di Bilancio 2026, artt. 427-436) ha reintrodotto l'…
 - **Irrigazione smart** — Irrigazione · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -2205,6 +2221,8 @@
   Vernice a base acqua per legno, metallo e pareti: lucida, durevole, atossica.
 - **Smalto sintetico (al solvente)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice al solvente per legno e metallo: durevole e lucida ma con VOC.
+- **Sollevamento e trasporto speciali: teleferiche, elicottero e gru in quota** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Quando la strada non basta, i materiali volano o scorrono su funi: teleferiche da cantiere per i lavori lunghi, elicottero per i trasporti concentrati, gru a fune e argani per i siti impervi. La scelta e' economica oltre…
 - **Sollevamento, raddrizzamento e messa in asse di edifici esistenti** — Sollevamento opere · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
 - **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2213,6 +2231,8 @@
   Il prezzo unitario di prezzario non e' il costo diretto: include le spese generali d'impresa (struttura, cantieri, amministrazione) e l'utile. Capire questa struttura serve a leggere i prezzi, formare le offerte e verifi…
 - **Spogliatoi e servizi igienici: dimensionamento per utenza** — Servizi e spazi funzionali · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Spogliatoi, docce e servizi igienici devono essere dimensionati sul numero effettivo di utenti simultanei e sulle caratteristiche degli sport praticati: una squadra di calcio e una lezione di fitness hanno esigenze compl…
+- **Stabilita' dei versanti e opere di sostegno in ambito edilizio** — Terreno e fondazioni · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Ogni costruzione in pendio interagisce con la stabilita' del versante: scavi a valle che tolgono sostegno, carichi nuovi a monte, acqua che cambia percorso. Le opere di sostegno vanno dimensionate come strutture, non com…
 - **Stalle da carne e ricoveri per bovini all'aperto** — Stalle · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   I ricoveri per la vita libera degli animali: piazzali, pannelli frangivento e capannoni di riparo.
 - **Stalle da latte: requisiti strutturali e di benessere** — Stalle · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2325,6 +2345,8 @@
   Lo spazio pubblico, la densità, la mobilità: le regole della città funzionante.
 
 ## V
+- **Valanghe: zone di esposizione, opere di protezione e vincoli** — Azioni climatiche · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Nelle zone esposte, la valanga e' un vincolo di localizzazione prima che un carico: le carte di pericolosità valanghiva definiscono dove si puo' costruire e con quali prescrizioni; le opere di protezione (deviatori, fran…
 - **Varo di ponti: spinta, sbalzo e grandi sollevamenti** — Costruzione ponti · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   I metodi di costruzione dei ponti senza impalcato dal basso: spinta incrementale, sbalzi simmetrici, varo.
 - **VAS, VIA e la valutazione ambientale degli interventi** — Valutazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -2357,6 +2379,8 @@
   Telecamere IP per sicurezza, con vincoli GDPR per aree comuni e lavoro.
 - **Vincoli e autorizzazioni per i beni tutelati** — Vincoli e autorizzazioni · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   Gli interventi su beni culturali vincolati richiedono autorizzazioni specifiche che verificano la compatibilità tecnica e materica delle lavorazioni proposte. Il procedimento coinvolge la Soprintendenza competente per te…
+- **Vincoli paesaggistici e regolamenti edilizi in ambito alpino** — Quadro e vincoli · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
+  Quasi tutto il territorio montano italiano e' vincolato: paesaggio, boschi, demanio idrogeologico, distanze da corsi d'acqua, regolamenti di decoro alpino. Il progetto nasce dai vincoli, non vi si adatta dopo.
 - **Vite** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Elemento filettato con testa che avvita in un foro preforato o in un inserto: fissaggio avvitato a coppia controllata, smontabile.
 - **Vivibilità e comfort abitativo: oltre l'estetica** — Vivibilità · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
