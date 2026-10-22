@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1174 voci enciclopediche tratte da 76 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1186 voci enciclopediche tratte da 77 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -25,6 +25,8 @@
   L'impronta ambientale e il costo dell'acciaio da costruzione: LCA, EPD e riciclo.
 - **Accumulo batterie domestico** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Batterie agli ioni di litio per accumulare il FV e usarlo di sera: l'autoconsumo oltre il 60-80%.
+- **Accumulo termico a sali fusi: la differenza tra sole e centrale solare** — Accumulo e blocco di potenza · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  L'accumulo termico e' cio' che distingue il CSP dal fotovoltaico: il calore raccolto di giorno si conserva in serbatoi di sali fusi e si restituisce alla sera, rendendo la produzione programmabile. E' la voce che giustif…
 - **Accumulo termico: buffer, stratificazione e materiali a cambiamento di fase** — Accumulo termico · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Conservare il calore per separare produzione e utilizzo: dal serbatoio in acciaio ai PCM.
 - **Acqua refrigerata e torri di raffreddamento nei grandi edifici** — Grandi impianti · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -259,6 +261,8 @@
   La verifica finale: cosa controlla il collaudo e cosa certifica la perizia di conformità.
 - **Collettori e valvole** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Collettori con valvole di regolazione e intercettazione: la 'centralina' di ogni impianto idrico.
+- **Collettori parabolici lineari: la tecnologia matura del CSP** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  I collettori parabolici (parabolic trough) sono la tecnologia CSP piu' installata al mondo: file di specchi cilindro-parabolici inseguono il sole su un asse e concentrano la radiazione su un tubo ricevitore posto nel fuo…
 - **Colonnine di ricarica veicoli elettrici** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Infrastruttura di ricarica privata e condominiale: la nuova frontiera degli edifici.
 - **Color design: la psicologia e la tecnica del colore** — Color design · corso: *Master in design* (`MASTER_DESIGN_PACK`)
@@ -337,6 +341,8 @@
   Laterizio cotto non smaltato: il pavimento rustico di tradizione toscana/umbra: caldo e naturale.
 - **Crolli storici: le lezioni che la professione deve ricordare** — Casi di crollo · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il maestro più severo: i disastri strutturali e cosa ci hanno insegnato.
+- **CSP in Italia: radiazione diretta, siti idonei e l'esperienza nazionale** — Contesto italiano · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  L'Italia ha DNI buona solo in aree limitate (Sicilia, Sardegna, Puglia ionica, zone costiere del Sud) e un'esperienza industriale reale: l'impianto a sali fusi in Sicilia e' stato il primo al mondo con accumulo integrato…
 - **CTU e CTP nel processo civile** — Giustizia · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   La consulenza tecnica in tribunale: ruolo, doveri e svolgimento dell'incarico.
 - **CTU e CTP: l'esperto nel processo civile** — CTU CTP · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -389,6 +395,8 @@
   Come le strutture 'ballano': periodi, smorzamento, spettri di risposta.
 - **Direttiva Case Green (EPBD IV): cosa cambia per l'edilizia** — Trend · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   La direttiva 'Case Green' (EPBD IV, UE 2024/1275) aggiorna la direttiva sulle prestazioni energetiche degli edifici con l'obiettivo di edilizia a zero emissioni al 2050 e scaglioni intermedi: il recepimento nazionale def…
+- **Dish-Stirling: il solare a concentrazione di piccola taglia e il suo stato reale** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Il dish-Stirling e' un concentratore parabolico puntuale (dish) con un motore Stirling nel fuoco: converte direttamente in elettricita' senza ciclo a vapore, in taglie unitarie di pochi kW. Tecnologia elegante, mai decol…
 - **Divisioni e frazionamenti: la geometria applicata al diritto** — Divisioni · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si divide un bene comune: dall'eredita al frazionamento edilizio.
 - **Docfa e il procedimento di accatastamento** — Docfa · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -421,6 +429,8 @@
   I numeri dello scalo: come si finanzia un aeroporto e da cosa vive.
 - **Economia degli impianti sportivi: costruzione, gestione, affitto e sponsor** — Economia · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   L'impianto sportivo è un'impresa con un bilancio: costi di costruzione, costi di gestione annui, ricavi da affitti, abbonamenti, eventi, sponsor e contributi pubblici. Chi progetta deve pensare al modello economico prima…
+- **Economia del CSP: CAPEX, LCOE, confronto con il fotovoltaico e quando ha senso** — Economia e prospettive · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Il giudizio economico sul CSP oggi parte da un dato: il fotovoltaico con batterie ha cambiato il riferimento di prezzo. Il CSP resta competitivo dove serve energia rinnovabile programmabile di lunga durata e dove la fili…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -775,6 +785,8 @@
   Il bambù ha resistenza specifica superiore all'acciaio e cresce come erba: nei tropici costruisce da millenni. La versione moderna 'certificata' (trattata e testata) arriva in Europa per opere leggere e temporanee.
 - **Il BIM nelle gare pubbliche italiane** — BIM e gare · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Con il DM 312/2021 il BIM è obbligatorio per le commesse pubbliche oltre soglia progressiva (interamente dal 2025 per lavori > 1 M€): gare con requisiti informativi, consegna IFC, a volte premi di qualità informativa; le…
+- **Il blocco di potenza: generatore di vapore, turbina e bilancio di centrale** — Accumulo e blocco di potenza · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Il blocco di potenza del CSP e' una piccola centrale termoelettrica convenzionale: generatore di vapore alimentato dal campo solare, turbina a vapore, condensatore, alternatore. Conoscerne i numeri evita di confondere la…
 - **Il Bosco Verticale (Milano, 2014): il grattacielo che respira** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Le due torri di Boeri con 20.000 piante: l'edificio che ha cambiato il concetto di verde urbano.
 - **Il Burj Khalifa (2010): l'edificio più alto del mondo** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -797,6 +809,8 @@
   L'UNI EN ISO 12354 è il metodo europeo di calcolo previsionale dell'acustica in edilizia: stima l'isolamento di pareti, solai, facciate e il rumore di calpestio a partire dai dati dei componenti, includendo le trasmissio…
 - **Il calcolo sismico in formule: forza, periodo, spettro** — Sismica formule · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule di base dell'ingegneria sismica: quanto trema l'edificio.
+- **Il cantiere CSP: fondazioni degli specchi, montaggio del campo e commissioning** — Cantiere · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Costruire un campo solare a concentrazione e' un cantiere di carpenteria di precisione su scala industriale: migliaia di fondazioni puntuali, montaggio di specchi a tolleranze millimetriche, collaudo ottico. La parte edi…
 - **Il cantiere del legno: montaggio, sequenze, precisione** — Costruzione · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano prefabbricati (tagliati, forati, numerati), la gru li posa, le squadre avvitano le connessioni; il tempo si dimezza, il cantiere resta pulit…
 - **Il cantiere del retrofit in edificio abitato** — Cantiere · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
@@ -1047,6 +1061,8 @@
   Il cappotto ETICS (External Thermal Insulation Composite System) è un sistema a strati composto: collante di fissaggio, pannello isolante, tasselli meccanici di ancoraggio, rete di rinforzo armata con rasante, finitura (…
 - **Il sistema tributario italiano: l'architettura di base (IRES, IRAP, IVA, addizionali)** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda introduttiva che inquadra il carico fiscale complessivo dell'impresa edile: imposte dirette sui redditi d'impresa (IRES), imposta regionale sulle attività produttive (IRAP), imposta sul valore aggiunto (IVA) con l…
+- **Il solare a concentrazione (CSP): principio e famiglie di impianto** — Fondamenti · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Il solare termodinamico concentra la radiazione diretta del sole con specchi per riscaldare un fluido a alta temperatura e produrre elettricita' con un ciclo termodinamico. A differenza del fotovoltaico usa solo la compo…
 - **Il sottotetto ventilato: la regola d'oro del tetto in legno** — Coperture inclinate · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Un tetto in legno dura un secolo se l'aria circola sotto la copertura: la ventilazione del sottotetto elimina il vapore che sale dagli ambienti e lo scarica prima che condensi sulle falde. La stratigrafia corretta è il s…
 - **Il telaio in legno: travi, pilastri e la costruzione tradizionale** — Telaio · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
@@ -1125,6 +1141,8 @@
   La serie ISO 19650 (derivata dal britannico PAS 1192) definisce il processo: Information Requirements del committente (EIR), BIM Execution Plan (BEP) del fornitore, convenzione di denominazione degli oggetti e dei docume…
 - **Isolante riflettente (multiriflettente)** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Fogli con superfici riflettenti (alluminio) che riducono l'irraggiamento: il 'mito' e la realtà dei sottotetti.
+- **Iter autorizzativo e connessione: VIA, autorizzazione unica e incentivi** — Iter autorizzativo · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Un impianto CSP e' un progetto industriale: VIA, autorizzazione unica, connessione alla rete, eventuale accesso agli incentivi FER. L'iter dura anni e determina la fattibilita' piu' della tecnologia.
 
 ## J
 - **Jet grouting, iniezioni e miglioramento dei terreni** — Consolidamento terreni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -1743,6 +1761,8 @@
   Progettare la luce come si progetta una scena: strati, temperature, contrasti.
 - **Limiti, barriere e rischi della robotica edilizia** — Criticità · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   La verità critica: cosa NON funziona ancora nella costruzione robotizzata.
+- **Linear Fresnel e i concentratori a specchi piani** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Il linear Fresnel usa file di specchi quasi piani vicino al suolo che puntano su un ricevitore lineare sospeso: struttura semplice, costruzione quasi edile, concentrazione e temperature inferiori ai trough ma costi di ca…
 - **Listelli 3D e pannelli decorativi** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pannelli decorativi in legno, MDF laccato o poliuretano per pareti d'accento: il design di interni.
 - **Listello per controsoffitto** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2221,6 +2241,8 @@
   Vernice a base acqua per legno, metallo e pareti: lucida, durevole, atossica.
 - **Smalto sintetico (al solvente)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice al solvente per legno e metallo: durevole e lucida ma con VOC.
+- **Solare a media temperatura in edilizia e industria: calore, cooling e reti di calore** — Integrazione edilizia · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Sotto la scala delle centrali, il solare termico a concentrazione di piccola taglia (trough compatti, Fresnel) produce calore a 100-250 gradi C per processi industriali, teleriscaldamento e raffrescamento ad assorbimento…
 - **Sollevamento e trasporto speciali: teleferiche, elicottero e gru in quota** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Quando la strada non basta, i materiali volano o scorrono su funi: teleferiche da cantiere per i lavori lunghi, elicottero per i trasporti concentrati, gru a fune e argani per i siti impervi. La scelta e' economica oltre…
 - **Sollevamento, raddrizzamento e messa in asse di edifici esistenti** — Sollevamento opere · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -2309,6 +2331,8 @@
   Le pratiche edilizie che il cittadino (con tecnico) presenta: cosa serve per cosa.
 - **Topografia: i principi fondamentali** — Topografia principi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Misurare la terra: coordinate, quote, riferimenti, errori.
+- **Torri solari a ricevitore centrale** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
+  Nella torre solare centinaia o migliaia di eliostati (specchi piani inseguitori a due assi) concentrano la radiazione su un ricevitore in cima a una torre: si raggiungono temperature oltre i 565 gradi C e concentrazioni …
 - **Tracciamenti, quote e controlli geometrici** — Controlli di cantiere · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tutte le lavorazioni. Errore tipico: tracciare sugli spigoli invece che sugli assi e perdere i riferimenti al primo scavo; controllo: picchett…
 - **Trasporti e sollevamento dei prefabbricati** — Trasporti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)

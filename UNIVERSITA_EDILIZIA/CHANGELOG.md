@@ -488,3 +488,23 @@ Righe aperte nel giro:
 - Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (stampa di settore indica artt. 371-373, da fonte singola: verificare sul testo GU).
 - Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
 - EPBD (UE) 2024/1275: recepimento nazionale da verificare.
+
+## Giro AD — 2026-10-22, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente (CT 3.0: seduta in giornata; LdB 2027: ipotesi Ecobonus 65%) con 1 nota di precisione; nuovo pack SOLARE_TERMODINAMICO_CSP_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AD1 | Nota di aggiornamento | Scheda «Le detrazioni fiscali per l'edilizia», campo normative: la nota sulla LdB 2027 si fermava alla generica possibilita' di modifica di aliquote e limiti | Aggiunte: ipotesi in discussione di un Ecobonus rafforzato al 65% per l'abitazione principale nell'ambito della flessibilita' UE per la sicurezza energetica (COM(2026) 553 dell'8/10/2026, ~14,4 miliardi per l'energia nel 2027-2028), marcata come NON operativa e da non inserire nei preventivi; ricordato che il Bonus Barriere Architettoniche 75% si e' fermato alle spese entro il 31/12/2025 | corriere.it (11/10/2026), edilizia.com (12 e 14/10/2026, con ricostruzione Camera sulle aliquote vigenti), bibus.acca.it (12 e 15/10/2026), edilportale.com (16/10/2026) — verifica web 22/10/2026 |
+| AD2 | Verifica senza correzione | Schede 1-3 ENERGETICA_INCENTIVI_PACK sul correttivo CT 3.0 | Confermate senza modifiche: la seduta della Conferenza Unificata e' fissata OGGI 22/10/2026 alle 12:00; la verifica e' stata eseguita alle 05:47, prima della seduta: nessun esito pubblicabile. Riferimento operativo invariato: D.M. 7/8/2025 e Regole Applicative GSE del 19/12/2025 | edilizia.com (16/10/2026) — verifica web 22/10/2026 ore 05:47 |
+| AD3 | Verifica senza correzione | Scheda detrazioni: 2026 = 50%/36%, 2027 = 36%/30%, limite 96.000 euro | Riconfermato: la ricostruzione della Camera dei deputati in sede DPFP riporta le stesse aliquote 2026-2027; nessuna proroga del 50% approvata | edilizia.com (14/10/2026: tabella Camera su L. 199/2025), pmi.it (14/10/2026), pgcasa.it (16/10/2026) — verifica web 22/10/2026 |
+| AD4 | Nuovo pack | — | SOLARE_TERMODINAMICO_CSP_PACK (12 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA): principio CSP e DNI, trough, torri, Fresnel, dish-Stirling, accumulo a sali fusi, blocco di potenza, integrazione edilizia, contesto italiano, autorizzazioni, cantiere e commissioning, economia e confronto con FV. Norme citate solo di consolidata certezza (D.Lgs 28/2011, D.Lgs 387/2003, D.Lgs 152/2006); decreti FER marcati da verificare nel quadro vigente | Norme di consolidata certezza; prezzi/rendimenti come fasce di letteratura |
+| AD5 | Nuovo esame | — | ESAMI/SOLARE_TERMODINAMICO_CSP: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata | build_esami_giro5.py |
+| AD6 | Validazione | — | Validazione globale: 76 pack, 1024 schede, 78 esami; JSON e 11 chiavi OK su tutte le righe, 0 refusi, COURSE.yaml coerenti | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: VERIFICA PRIORITARIA al prossimo giro — esito della Conferenza Unificata del 22/10/2026 (svoltasi oggi alle 12:00, DOPO questa verifica) e pubblicazione del correttivo in GU, con eventuale aggiornamento delle schede 1-3 di ENERGETICA_INCENTIVI_PACK.
+- Legge di Bilancio 2027: seguire l'iter del Ddl (atteso in Parlamento) e l'eventuale conversione dell'ipotesi Ecobonus 65%; testo definitivo a dicembre 2026.
+- Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (stampa di settore indica artt. 371-373, da fonte singola: verificare sul testo GU).
+- Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: recepimento nazionale da verificare.

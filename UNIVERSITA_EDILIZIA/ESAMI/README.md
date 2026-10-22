@@ -83,6 +83,7 @@ di apprendimento per settore.
 | RINNOVABILI_IDRO | ✅ 250 domande | chiavi: jsonl |
 | SICUREZZA_ANTINCENDIO | ✅ 220 domande | chiavi: jsonl |
 | SICUREZZA_CANTIERE | ✅ 250 domande | chiavi: jsonl |
+| SOLARE_TERMODINAMICO_CSP | ✅ 250 domande | chiavi: jsonl |
 | STRUTTURE | ✅ 300 domande | chiavi: jsonl |
 | TETTI_COPERTURE | ✅ 220 domande | chiavi: jsonl |
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |

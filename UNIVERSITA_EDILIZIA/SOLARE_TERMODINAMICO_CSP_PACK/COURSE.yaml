@@ -1,0 +1,9 @@
+corso: "Solare termodinamico (CSP) e solare a concentrazione"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 28/2011, D.Lgs 387/2003 (autorizzazione unica FER), D.Lgs 152/2006 (VIA), D.M. 7/8/2025 (Conto Termico 3.0) e regole applicative GSE, D.M. 37/2008, CEI 0-16/0-21, direttiva PED (apparecchi a pressione), UNI EN 12975 (collettori solari termici), D.Lgs 81/2008 (Titolo IV), letteratura tecnica internazionale su CSP (LCOE, CAPEX, rendimenti come ordini di grandezza)"
+nota_metodologica: "Principio CSP e famiglie, collettori parabolici, torri, linear Fresnel, dish-Stirling (stato reale), accumulo a sali fusi, blocco di potenza, integrazione edilizia (calore di processo, solar cooling), contesto italiano (DNI, siti, esperienza a sali fusi), iter autorizzativo e connessione, cantiere e commissioning, economia e confronto con FV. Prezzi e rendimenti come fasce di letteratura; decreti FER marcati da verificare nel quadro vigente; nessun nome di azienda, casi reali descritti in forma anonima."
