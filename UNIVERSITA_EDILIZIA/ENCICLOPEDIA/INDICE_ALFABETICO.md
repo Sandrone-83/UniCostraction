@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1186 voci enciclopediche tratte da 77 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1198 voci enciclopediche tratte da 78 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -387,6 +387,8 @@
   Le opere che trattengono l'acqua: tipologie, funzionamento, sicurezza.
 - **Digital twin e gestione: il modello dopo il cantiere** — Digital twin · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Il digital twin è il gemello digitale dell'edificio in esercizio: modello as-built + dati sensori (IoT) + storico manutentivo; alimenta la gestione energetica, la manutenzione predittiva, la gestione degli spazi.
+- **Digital twin urbano: quando il modello digitale della citta' serve davvero** — Dati e piattaforme · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  Il digital twin urbano e' il modello digitale aggiornato della citta': edifici, reti, strade, sensori. Serve quando si devono simulare scenari (piani di traffico, rischio idraulico, piano energetico) e non solo 'guardare…
 - **Dimensionamento rapido elettrico** — Dimensionamento · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Le regole pratiche per sezioni di cavo e protezioni dell'impianto elettrico.
 - **Dimensionamento rapido idraulico** — Dimensionamento · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -567,6 +569,8 @@
   Monitorare e gestire i carichi elettrici: produzione FV, consumi, priorità, wallbox.
 - **Gestione idrica dei tetti verdi: drenaggio, accumulo e irrigazione** — Idraulica · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   L'acqua e' la risorsa e il rischio del tetto verde: il sistema deve trattenere l'acqua per la vegetazione, smaltire le piene senza ristagni e integrare con irrigazione nelle siccita'. Un tetto verde ben fatto e' anche un…
+- **Gestione idrica smart: perdite, drenaggio urbano e monitoraggio delle reti** — Servizi urbani · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  L'acqua e' il servizio dove la sensoristica ripaga di piu': distrettualizzazione e contatori smart riducono le perdite delle reti idriche, i sensori di livello su tombini e corsi d'acqua alimentano la protezione civile, …
 - **Gestione illuminazione avanzata** — Illuminazione smart · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Controllo luci: accensioni sceniche, dimmer, presenza, luce naturale integrata (daylight harvesting).
 - **Getto e vibratura del calcestruzzo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -1089,6 +1093,8 @@
   Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + intercapedine 12-16 mm con gas argon), triplo (3 lastre, per climi freddi), basso emissivo (metallizzazione che riflette il calore interno invern…
 - **Illuminazione esterna: stradale, aree verdi e tutto il cielo** — Esterno · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   L'illuminazione esterna serve viabilita', sicurezza e fruizione notturna degli spazi, ma va contenuta: l'obiettivo e' la luce giusta dove serve, con controllo dell'emissione verso l'alto.
+- **Illuminazione pubblica intelligente: LED, telegestione e punto luce come nodo** — Servizi urbani · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  La riqualificazione LED con telegestione e' il progetto smart city piu' maturo: ogni punto luce diventa un nodo indirizzabile che si accende, dimezza e segnala guasti da solo. Il palo diventa poi infrastruttura per senso…
 - **Illuminazione sportiva e impianti di sicurezza: lux per disciplina, flicker e videosorveglianza** — Impianti impiantistici · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   L'illuminazione serve due padroni: l'atleta, che richiede uniformità e assenza di abbagliamento, e la televisione, che richiede livelli di illuminamento elevati e stabilità dell'immagine (assenza di flicker anche a ripre…
 - **Illuminotecnica LED** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1213,6 +1219,8 @@
   Il tetto verde si decide con il conto economico completo: costo di costruzione, manutenzione annua, benefici monetizzabili (idraulica, durata della membrana, comfort) e incentivi disponibili. E' un investimento a ritorno…
 - **L'economia della circolarita' in cantiere: conti, mercati e barriere** — Economia · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   L'edilizia circolare regge se i conti tornano: costi evitati di discarica e di acquisto, ricavi da materiali recuperati, punteggi in gara, valore dell'asset. Le barriere sono logistiche, documentali e di mercato: conosce…
+- **L'economia della smart city: CAPEX, OPEX, bandi e modelli di partenariato** — Economia · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  I progetti smart falliscono piu' spesso sui numeri di gestione che sulla tecnologia: ogni sensore ha un OPEX per dieci anni. Il modello economico (bando, partenariato, gara di servizio) decide cosa sopravvive dopo l'inau…
 - **L'economia di un campo FV: CAPEX, OPEX, LCOE e l'esempio del MWp** — Economia di progetto · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Il fotovoltaico a terra è un investimento finanziario: si valuta come un'impresa. CAPEX, OPEX, produzione attesa, prezzo dell'energia e sconto determinano la bancabilità. L'esempio svolto del MWp mette insieme tutto il c…
 - **L'edge computing: il data center piccolo e ovunque** — Edge e micro · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
@@ -1221,6 +1229,8 @@
   Gli edifici invecchiano: coperture, facciate, impianti e infissi hanno vita utile finita e costi di ricambio prevedibili. Il piano pluriennale di conservazione programma nel tempo gli interventi straordinari, accumulando…
 - **L'edificio in estate: trasmittanza periodica, sfasamento e rischio muffa** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   L'involucro deve funzionare anche d'estate: la trasmittanza termica periodica Yie limita l'ingresso dell'onda di calore, lo sfasamento φ (ore) ritarda il picco verso la notte, e la verifica UNI EN ISO 13788 esclude il ri…
+- **L'edificio pubblico nella smart city: BEMS, scuole e il patrimonio misurato** — Edifici pubblici · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  Scuole, uffici, palestre comunali sono i primi edifici della smart city: un sistema di gestione energetica (BEMS) che legge contatori e temperature li trasforma da bollette a dati, e la manutenzione da emergenza a progra…
 - **L'edilizia del data center: struttura, pavimenti rialzati, altezze** — Struttura · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   L'edificio del data center ha esigenze particolari: i pavimenti rialzati (il sottopavimento è la plenum per l'aria fredda e i cavi, oppure tutto in over-head), le altezze generose (3-5 m sotto i controsoffitti per canali…
 - **L'edilizia libera e le variazioni catastali** — Edilizia libera · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -1429,6 +1439,8 @@
   Determinare il valore di un immobile: metodo comparativo, sintetico e analitico.
 - **La perizia nel contenzioso edilizio: strategia, tempi e rischi** — Contenzioso · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   Come si costruisce e si affronta un contenzioso tecnico-edilizio con la testa.
+- **La piattaforma dati urbana e la control room: dove i dati diventano servizio** — Dati e piattaforme · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  Sensori senza piattaforma sono numeri persi: la piattaforma dati comunale raccoglie, storicizza e rende leggibili i dati del territorio. La control room e' il suo volto operativo: cruscotti, allarmi, stato dei servizi in…
 - **La pompa di calore in formule: COP, energia, risparmio** — Pompe di calore formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   La macchina che moltiplica l'energia: come si calcola il vantaggio reale.
 - **La pompa di calore: il circuito frigorifero al servizio dell'acqua** — Pompe di calore · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -1497,6 +1509,8 @@
   L'annegamento è tra le prime cause di morte accidentale infantile: la sicurezza della piscina si progetta con la vasca e si mantiene con le regole d'uso. Recinzioni, allarmi, scalette e illuminazione fanno la differenza …
 - **La sicurezza negli appalti: i ruoli secondo D.Lgs 81/2008** — Sicurezza · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   Nei cantieri si sovrappongono più imprese: il D.Lgs 81/2008 (Titolo IV) assegna i ruoli — committente, datore di lavoro di cantiere, dirigente, preposto, responsabili tecnici, CSE, CSP, DLV, DDL — con responsabilità che …
+- **La smart city: architettura a livelli e cosa significa davvero** — Architettura · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  Smart city non e' uno slogan ma un'architettura tecnica: sensori sul territorio, reti di comunicazione, una piattaforma dati, applicazioni per i servizi. Chi progetta o gestisce edilizia pubblica ci lavora dentro: l'edif…
 - **La soppressione incendio nei data center: gas puliti e pre-action** — Soppressione incendi · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   L'acqua e i server non vanno d'accordo: i data center usano impianti a gas (FM-200, Novec/fluorochetomi o inerte) che spengono senza bagnare, oppure spruzzatori pre-action che intervengano solo quando serve davvero, mini…
 - **La stampa 3D in edilizia: cosa può e cosa non può** — Stampa 3D · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
@@ -1875,6 +1889,8 @@
   Produzione idroelettrica su piccola scala con turbine idrauliche adatte a portate e salti diversi.
 - **Misura e verifica dei risparmi: il retrofit si giudica a consuntivo** — Verifica · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Il retrofit promette risparmi: la misura e verifica (M&V) e' la disciplina che controlla se sono arrivati davvero. Senza M&V il progetto e' una promessa; con M&V diventa un risultato documentato che protegge progettista,…
+- **Mobilita' smart: parcheggi sensorizzati, traffico e ricarica dei veicoli elettrici** — Servizi urbani · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  La mobilita' e' il servizio smart piu' visibile: sensori sui parcheggi, conteggi di traffico, colonnine di ricarica, pannelli informativi. Funziona quando i dati alimentano decisioni (prezzi, varchi, manutenzione), non q…
 - **Modbus** — BUS industriale · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
 - **Moduli completi e building system industrializzati (volumi a modulo)** — Moduli · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
@@ -2057,6 +2073,8 @@
   Accanto ai prezziari pubblici operano prezzari tipologici editi da operatori specializzati (con analisi di costo piu' dettagliate e aggiornamento rapido) e i listini di produttori e distributori di materiali, che esprimo…
 - **Prezzo, valore e trattativa: come si negozia un immobile** — Trattativa · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Il prezzo richiesto è un'offerta, il valore di mercato è un intervallo, il prezzo di chiusura è il risultato della trattativa; la negoziazione immobiliare funziona su: informazione (chi sa di più vince), tempistica (chi …
+- **Privacy, cybersecurity e governance dei dati urbani** — Governance · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  La smart city raccoglie dati in spazi pubblici: telecamere, flussi, consumi, spostamenti. Il perimetro legale (GDPR, NIS2) non e' un ostacolo ma il progetto: chi non lo progetta prima lo subisce dopo, con sanzioni e serv…
 - **Profili acciaio HEA/IPE/UPN** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Profili laminati a caldo per carpenteria metallica: travi, pilastri, correnti: la struttura metallica per eccellenza.
 - **Profili laminati e profili cavi** — Profilati · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -2137,6 +2155,8 @@
   Reti di barre saldate in fabbrica: per solai, massetti, riprese di getto: distribuiscono armatura con velocità.
 - **Retrofit energetico e miglioramento sismico: l'intervento combinato** — Integrazione · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Sul patrimonio esistente energia e sismica si fanno nello stesso cantiere o non si fanno affatto: ponteggio, pratiche e disagi sono gli stessi, e combinare cappotto con rinforzi (cerchiature, FRP, placcaggi) e' la strate…
+- **Rifiuti urbani smart: cassonetti sensorizzati, raccolta a misura e tariffazione puntuale** — Servizi urbani · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  La raccolta dei rifiuti e' il servizio dove i sensori cambiano i conti: cassonetti che dicono quando sono pieni, raccolte pianificate sul riempimento reale invece che sul calendario, tariffe calcolate su quanto si confer…
 - **Rilevazione incendi e analisi** — Antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Sensori che rilevano fumo, calore, fiamma, gas: il primo anello della catena di sicurezza.
 - **Rinforzare le strutture: FRP, camicie, spessori, precompressione** — Rinforzi strutturali · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -2207,6 +2227,8 @@
   Come gli aeroplani trovano la pista: ILS, luci di avvicinamento, balisaggi e torri.
 - **Sensoristica domotica** — Sensori · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Gli occhi dell'impianto: presenza, movimento, luce, temperatura, umidità, CO2, qualità aria.
+- **Sensoristica urbana e reti IoT: LoRaWAN, NB-IoT e la scelta della connettivita'** — Architettura · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  I sensori urbani (aria, rumore, livelli idraulici, parcheggi, cassonetti) parlano con reti a basso consumo: la scelta tra LoRaWAN proprietario comunale e NB-IoT dell'operatore decide costi, autonomia e governance per die…
 - **Serbatoi e opere di contenimento** — Serbatoi · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idrostatica, la tenuta, la pulizia e la sicurezza; materiali: calcestruzzo (getto in opera o prefabbricato), acciaio, GRP (plastica rinforzata).
 - **Serre per orticoltura e florovivaismo: strutture e climatizzazione** — Serre · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2241,6 +2263,8 @@
   Vernice a base acqua per legno, metallo e pareti: lucida, durevole, atossica.
 - **Smalto sintetico (al solvente)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Vernice al solvente per legno e metallo: durevole e lucida ma con VOC.
+- **Smart district e rigenerazione urbana: il quartiere come unita' di progetto** — Rigenerazione · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
+  Il livello giusto della smart city spesso non e' la citta' intera ma il quartiere: ex aree industriali, comparti scolastici, distretti fieristici. Nel distretto si integrano energia, mobilita', verde e servizi con numeri…
 - **Solare a media temperatura in edilizia e industria: calore, cooling e reti di calore** — Integrazione edilizia · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Sotto la scala delle centrali, il solare termico a concentrazione di piccola taglia (trough compatti, Fresnel) produce calore a 100-250 gradi C per processi industriali, teleriscaldamento e raffrescamento ad assorbimento…
 - **Sollevamento e trasporto speciali: teleferiche, elicottero e gru in quota** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)

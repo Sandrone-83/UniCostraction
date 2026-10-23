@@ -1,0 +1,9 @@
+corso: "Smart city: sensoristica, piattaforme e servizi urbani"
+facolta: "FACOLTA_GESTIONE_SISTEMA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "Reg. UE 2016/679 (GDPR), D.Lgs 138/2024 (NIS2), D.Lgs 82/2005 (CAD), D.Lgs 36/2023 (appalti), D.M. 312/2021 (BIM), D.Lgs 152/2006, ARERA (servizio idrico), AGID (interoperabilita' e sicurezza PA), DPR 74/2013, D.Lgs 102/2014; bandi e programmi di finanziamento marcati da verificare"
+nota_metodologica: "Architettura smart city, illuminazione pubblica intelligente, reti IoT (LoRaWAN/NB-IoT), piattaforma dati e control room, digital twin, mobilita' e ricarica EV, gestione idrica smart, edifici pubblici e BEMS, smart district, privacy e cybersecurity, economia (CAPEX/OPEX, partenariati). Distinta da domotica (scala edificio) e CAD/BIM (scala progetto): qui la scala urbana. Prezzi come fasce indicative; bandi chiusi segnalati come tali; nessun nome di azienda."

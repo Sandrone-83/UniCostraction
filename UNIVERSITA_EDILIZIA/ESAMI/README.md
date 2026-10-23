@@ -22,6 +22,7 @@ di apprendimento per settore.
 | BONIFICA_SITI | ✅ 250 domande | chiavi: jsonl |
 | CAD_BIM | ✅ 200 domande | chiavi: jsonl |
 | CAPOLAVORI | ✅ 300 domande | chiavi: jsonl |
+| CAPPOTTO | ✅ 117 domande | chiavi: jsonl |
 | CARPENTERIA | ✅ 250 domande | chiavi: jsonl |
 | CONTABILITA_APPALTI | ✅ 200 domande | chiavi: jsonl |
 | COSTRUZIONI_LEGNO | ✅ 220 domande | chiavi: jsonl |
@@ -50,6 +51,7 @@ di apprendimento per settore.
 | GEOTECNICA | ✅ 250 domande | chiavi: jsonl |
 | GESTIONE_CONDOMINIO | ✅ 250 domande | chiavi: jsonl |
 | HOTEL | ✅ 200 domande | chiavi: jsonl |
+| ILLUMINAZIONE | ✅ 250 domande | chiavi: jsonl |
 | IMPIANTI_SPORTIVI | ✅ 250 domande | chiavi: jsonl |
 | IMPIANTI_COMPLETA | ✅ 350 domande | chiavi: jsonl |
 | IMPIANTI_FV_EOLICO | ✅ 1000 (legacy) domande | chiavi: jsonl |
@@ -81,16 +83,20 @@ di apprendimento per settore.
 | RISANAMENTO | ✅ 277 domande | chiavi: md (legacy) |
 | ROBOTICA | ✅ 350 domande | chiavi: jsonl |
 | RINNOVABILI_IDRO | ✅ 250 domande | chiavi: jsonl |
+| SERRAMENTI | ✅ 195 domande | chiavi: jsonl |
 | SICUREZZA_ANTINCENDIO | ✅ 220 domande | chiavi: jsonl |
 | SICUREZZA_CANTIERE | ✅ 250 domande | chiavi: jsonl |
+| SMART_CITY | ✅ 250 domande | chiavi: jsonl |
 | SOLARE_TERMODINAMICO_CSP | ✅ 250 domande | chiavi: jsonl |
+| SOLLEVAMENTO | ✅ 250 domande | chiavi: jsonl |
 | STRUTTURE | ✅ 300 domande | chiavi: jsonl |
 | TETTI_COPERTURE | ✅ 220 domande | chiavi: jsonl |
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: esame per ognuno dei 66 corsi della repository. I tre esami «legacy» dei primi giri
+Copertura: 79 esami (uno per settore, denominazioni storiche incluse) a copertura dei 77 pack
+didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.
 

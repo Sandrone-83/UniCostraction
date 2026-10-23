@@ -22,3 +22,5 @@ Sistema Italia, fisco, marketing, coding: il corpo completo dell'impresa edile m
 - GESTIONE_CONDOMINIO_PACK (L1-L2) — parti comuni, assemblea, millesimali, lavori e impianti centralizzati, contenzioso, supercondomini, amministratore, nuovi conflitti, acustica, manutenzione programmata, appalti
 ## Corsi aggiunti (giro N)
 - EMERGENZE_E_RICOSTRUZIONE_PACK (L2-L3) — protezione civile (D.Lgs 1/2018), prime 72 ore, ricostruzione privata e pubblica, messa in sicurezza, SAE, ponti provvisori, filiera ricostruzione, alluvioni, prevenzione aziendale
+## Corsi aggiunti (giro AE)
+- SMART_CITY_PACK (L2-L3) — architettura smart city a livelli, illuminazione pubblica telegestita, reti IoT, piattaforma dati e control room, digital twin, mobilita' e ricarica EV, gestione idrica smart, edifici pubblici e BEMS, smart district, rifiuti smart e tariffazione puntuale, privacy/cybersecurity (GDPR, NIS2), economia CAPEX/OPEX
