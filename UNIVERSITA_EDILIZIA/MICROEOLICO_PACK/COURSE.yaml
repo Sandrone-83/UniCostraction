@@ -1,0 +1,9 @@
+corso: "Microeolico e minieolico: tecnologia, autorizzazioni e cantiere"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 13
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "CEI EN 61400-2, EN 61400-12-1, Direttiva Macchine 2006/42/CE, D.Lgs 387/2003, D.Lgs 28/2011 (soglia PAS eolico marcata da verificare), D.Lgs 152/2006, D.Lgs 42/2004, DPR 380/2001, CEI 0-21, CEI 0-16, L. 447/1995, DPCM 14/11/1997, NTC D.M. 17/1/2018, EN 1090-1/-2, D.Lgs 81/2008, D.M. 37/2008, D.M. 414/2023 (CACER), D.Lgs 199/2021; prezzi e producibilita' come fasce di letteratura ed esperienza di settore"
+nota_metodologica: "Filiera completa del piccolo eolico (fino a ~200 kW): fisica del vento, HAWT/VAWT, taglie, misura in sito, torri e fondazioni, connessione rete, autorizzazioni, impatti (rumore/flicker), cantiere, manutenzione, economia, integrazione (ibridi, CER). NON ridondante con DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK (che tratta il dimensionamento energetico e la curva di potenza): qui autorizzazioni, strutture, connessione, cantiere, gestione ed economia. Prezzi come fasce indicative; soglie autorizzative marcate da verificare; nessun nome di azienda."

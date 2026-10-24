@@ -25,3 +25,6 @@ Impiantistica completa, domotica, innovazione e robotica di cantiere.
 
 ## Corsi aggiunti (giro K)
 - RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK (L2-L3) — mini-idro, pumped storage, biomasse e pellet, biogas/biometano, geotermia bassa e alta entalpia, teleriscaldamento, power-to-heat, accumulo termico, incentivi
+
+## Corsi aggiunti (giro AF)
+- MICROEOLICO_PACK (L2-L3) — fisica del vento di piccola taglia, HAWT/VAWT, taglie, misura in sito, torri e fondazioni (NTC, EN 1090), connessione rete (CEI 0-21/0-16), autorizzazioni (PAS, AU, vincoli), rumore e flicker, cantiere, manutenzione, economia, ibridi FV-eolico e CER

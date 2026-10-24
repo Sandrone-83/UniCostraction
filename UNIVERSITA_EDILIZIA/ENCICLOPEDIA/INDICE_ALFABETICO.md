@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1198 voci enciclopediche tratte da 78 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1211 voci enciclopediche tratte da 79 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -123,6 +123,8 @@
   L'autogru e' la soluzione flessibile: arriva, starga, solleva e riparte. Ma la sua capacita' crolla con la distanza: il diagramma di carico e' la sua carta d'identita'.
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
+- **Autorizzazioni: attivita' libera, PAS, Autorizzazione Unica e i vincoli** — Normativa · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Il procedimento cambia con la taglia: sotto soglia l'impianto e' quasi edilizia libera, sopra diventa pratica ambientale. La mappa dei vincoli del territorio (paesaggio, avifauna, infrastrutture) decide prima ancora del …
 - **Aviazione generale, eliporti e aviazione leggera: infrastrutture minime** — Aviazione leggera · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
   La coda lunga del volo: aviosuperfici, eliporti e aeroporti minori.
 
@@ -193,6 +195,8 @@
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
+- **Cantiere e montaggio: logistica, sollevamento, collaudi e sicurezza** — Cantiere · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Il montaggio di una turbina e' un giorno di gru e mesi di preparazione: accessi, piazzale, plinto maturo, meteo. La finestra di vento debole per alzare il rotore si aspetta, non si improvvisa.
 - **Cantieri di cappotto: organizzazione, ponteggi, tempi, sicurezza** — Cantieri · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
   Il cantiere del cappotto è logistica: ponteggio a servizio continuo della facciata, protezione dal vento e pioggia, stoccaggio dei pannelli (al riparo da sole e pioggia), gestione dei giunti di fase, coordinamento con al…
 - **Cantieri marittimi: navi-cantiere, piattaforme e lavorazioni subacquee** — Cantieri marini · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
@@ -285,6 +289,8 @@
   La muffa nei punti freddi del muro è quasi sempre condensa: l'aria umida degli ambienti tocca la superficie sotto la temperatura di rugiada e l'acqua compare dal nulla. Capire se il fenomeno è superficiale (ponte termico…
 - **Conglomerato bituminoso** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Miscela di bitume e aggregati per manti stradali: flessibile, veloce, riparabile.
+- **Connessione alla rete: CEI 0-21, CEI 0-16, SPI e l'iter col distributore** — Impianti · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  La connessione e' la meta' elettrica del progetto: senza iter corretto col distributore la turbina gira ma non immette. Le regole tecniche CEI 0-21 (BT) e CEI 0-16 (MT) e la protezione di interfaccia sono il cuore della …
 - **Connettore a strappo / ancoraggio pesante** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Ancoranti meccanici per carichi pesanti: espansione a cuneo, a clip, con ghiera: per macchinari e strutture.
 - **Connettore metallico per legno** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -463,6 +469,8 @@
   La risposta alle alluvioni: soccorso, ripristino e la ricostruzione che tiene conto dell'acqua.
 - **Endoscopia, prelievi e prove con piastre piane sulle murature storiche** — Indagini sulle murature · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Indagini mirate sulle murature esistenti: endoscopia nei paramenti per leggere la sezione reale (muratura a sacco, nucleo scaduto), prelievi di elementi per prove di laboratorio e prove in situ con piastre piane (flat-ja…
+- **Eolico e edifici: integrazione vera, ibridi FV-eolico-accumulo e il ruolo nelle CER** — Integrazione · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Il piccolo eolico da' il meglio in squadra: col fotovoltaico copre la notte e l'inverno, con l'accumulo livella il profilo, nelle comunita' energetiche alza la quota di energia condivisa nelle ore in cui il sole non c'e'…
 - **EPgl,nren e edificio di riferimento: le verifiche energetiche** — Normativa involucro · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La verifica energetica di legge confronta l'indice di prestazione energetica globale non rinnovabile EPgl,nren (kWh/m² anno) dell'edificio progettato con quello dell'edificio di riferimento e con i limiti per zona climat…
 - **EPS grafite** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -481,6 +489,8 @@
   Il progetto termico completo passo per passo, con i numeri veri.
 - **Esempio svolto: impianto FV 6 kWp con accumulo 5 kWh per una famiglia tipo** — Esempio FV · corso: *Dimensionamento di fotovoltaico, eolico e accumulo* (`DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK`)
   Il progetto FV completo, dal tetto alla bolletta.
+- **Esercizio e manutenzione: controlli periodici, guasti tipici e monitoraggio** — Gestione · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Una turbina piccola e' una macchina rotante all'aperto per 20-25 anni: la manutenzione non e' un optional ma la voce che decide il ritorno economico. Chi la pianifica dorme; chi la subisce paga la gru due volte.
 - **Esoscheletri per operai** — Wearable · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Strutture indossabili attive (motore) o passive (molle) che aiutano a sollevare e tenere posizioni.
 - **Estetica, lusso e qualità: distinguere il pregio dall'apparire** — Estetica e lusso · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -1213,6 +1223,8 @@
   Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenzionata (l'imprenditore costruisce infrastrutture e standard in cambio delle aree edificabili), piani di recupero (edilizia consolidata), pro…
 - **L'economia del legno: costi, tempi, mercato** — Economia · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
+- **L'economia del piccolo eolico: costi veri, incentivi e quando il conto torna** — Economia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Il business plan del microeolico si regge su tre gambe: vento misurato, autoconsumo alto, costi di gestione onesti. Tolta una gamba, il progetto cade. I numeri di questa scheda sono fasce di letteratura ed esperienza di …
 - **L'economia del retrofit: costi, ritorni e accesso agli incentivi** — Economia · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Il retrofit profondo si vende con i numeri: costo per intervento, risparmio annuo atteso, tempo di ritorno e mappa degli incentivi cumulabili. Il tecnico che padroneggia il conto economico trasforma un preventivo in un p…
 - **L'economia del verde pensile: costi, incentivi e valore** — Economia · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
@@ -1373,6 +1385,8 @@
   L'industria della ricostruzione: come migliaia di cantieri piccoli diventano un sistema produttivo.
 - **La fiscalità del personale: dipendenti, somministrazione, voucher e appalti interni** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sull'impatto fiscale e contributivo delle diverse forme di utilizzo del lavoro nell'impresa edile: lavoro dipendente a tempo indeterminato e a termine, somministrazione a tempo determinato, lavoro accessorio (vouc…
+- **La fisica onesta del vento di piccola taglia: potenza, cubatura e turbolenza** — Fondamenti · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Il microeolico vive o muore sulla risorsa: la potenza disponibile cresce col CUBO della velocita' del vento, quindi un sito da 4 m/s e uno da 6 m/s non differiscono del 50% ma di oltre il 200%. Prima di parlare di macchi…
 - **La fonometria ambientale: classi acustiche e limiti di zona** — Ambiente · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa alla più rumorosa) con limiti di immissione differenziati per periodo (diurno/notturno) e per tipo di sorgente; la zonizzazione acustica la …
 - **La geotecnica in formule: portanza, spinta, cedimenti** — Geotecnica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
@@ -1419,6 +1433,8 @@
   La manutenzione è la fase più lunga della vita di un edificio scolastico e condiziona la sicurezza, la funzionalità e i costi di esercizio. Un piano manutentivo programmato permette di prevenire guasti, rispettare gli ob…
 - **La massa termica e l'inerzia: la fisica del comfort estivo** — Massa termica · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   Il peso che frena il caldo: capacità termica e fase di sfasamento.
+- **La misura del vento in sito: anemometria, campagne di misura e atlanti** — Progettazione · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  L'unica verita' sul vento e' quella misurata in sito alla quota del mozzo. Tra atlante e realta' c'e' di mezzo la micrositing: la campagna anemometrica e' il costo piu' piccolo e piu' decisivo del progetto.
 - **La misura in opera: UNI EN ISO 140 e 16283** — Misure · corso: *Acustica edilizia* (`ACUSTICA_EDILIZIA_PACK`)
   La misura dell'isolamento in opera segue metodi standardizzati: ISO 140 (serie classica) e ISO 16283 (metodi operativi per il sito, in tre parti per isolamento all'aria, calpestio e facciate), con sorgente sonora, microf…
 - **La modellazione agli elementi finiti (FEM): potenza e trappole** — Elementi finiti · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -2191,6 +2207,8 @@
   L'aeroporto e il territorio: mappe di rumore, zone di rispetto e piani di mitigazione.
 - **Rumore tra unità, decoro delle parti comuni e qualità della vita** — Acustica e decoro · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   Il condominio come ambiente di vita: acustica, decoro e gestione dei disturbi.
+- **Rumore, ombreggiamento e distanze: gli impatti da gestire prima che diventino ricorsi** — Ambiente · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Il piccolo eolico fallisce piu' spesso per un vicino che per il vento: rumore notturno, ombra lampeggiante, impatto visivo. La legge acustica e le distanze di buon senso si gestiscono in progetto, non in causa.
 
 ## S
 - **Saldature strutturali: processi, qualifica e difetti** — Saldature · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -2317,6 +2335,8 @@
   La scala del condominio si allarga: supercondomini, contratti tipo e la riqualificazione dei grandi complessi.
 
 ## T
+- **Taglie e architettura d'impianto: micro (fino a 20 kW), mini (20-200 kW) e il confine col grande eolico** — Tecnologia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  La taglia decide tutto: normativa, connessione, struttura, business plan. La fascia fino a 20 kW e' il mondo dell'autoconsumo domestico-agricolo; le 50-200 kW servono utenze produttive; oltre si entra nella logica del gr…
 - **Tassello** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Dispositivo inserito in un foro della muratura o del cls che espandendosi o espandendo un manicotto blocca la vite: ancoraggio di carichi su cls e muratura.
 - **Tassello a percussione con chiodo** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2355,6 +2375,8 @@
   Le pratiche edilizie che il cittadino (con tecnico) presenta: cosa serve per cosa.
 - **Topografia: i principi fondamentali** — Topografia principi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Misurare la terra: coordinate, quote, riferimenti, errori.
+- **Torri e fondazioni del piccolo eolico: strutture, NTC e il cantiere di base** — Strutture · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Torre e fondazione sono il 25-40% del costo e il 100% del rischio strutturale: il vento che fa produrre la macchina e' lo stesso che la carica. Per l'impresa edile e' la parte di lavoro piu' concreta e piu' controllabile…
 - **Torri solari a ricevitore centrale** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Nella torre solare centinaia o migliaia di eliostati (specchi piani inseguitori a due assi) concentrano la radiazione su un ricevitore in cima a una torre: si raggiungono temperature oltre i 565 gradi C e concentrazioni …
 - **Tracciamenti, quote e controlli geometrici** — Controlli di cantiere · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -2381,6 +2403,10 @@
   Tubo in polietilene reticolato con anima in alluminio: il compromesso perfetto: flessibile, ossigeno-barriera, idoneo al riscaldamento.
 - **Tubo PE-X / PE-RT** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tubi in polietilene reticolato o resistente al calore: il flessibile per pavimenti radianti e sottotraccia.
+- **Turbine ad asse orizzontale (HAWT): la tecnologia di riferimento della piccola taglia** — Tecnologia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Le turbine a asse orizzontale con 2-3 pale dominano il piccolo eolico per un motivo semplice: rendimento aerodinamico superiore, curve di potenza certificate e decenni di affidabilita' dimostrata. Dal kilowatt domestico …
+- **Turbine ad asse verticale (VAWT): Savonius, Darrieus e la verita' sui tetti** — Tecnologia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
+  Le turbine verticali promettono tutto (funzionano con ogni direzione del vento, silenziose, da tetto) e mantengono poco: rendimenti bassi, pochi dati certificati, montaggio su edifici che e' quasi sempre un errore. Conos…
 - **Tutela delle superfici storiche e documentazione prima/dopo** — Documentazione e tutela delle superfici · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   Ogni superficie storica (intonaci, affreschi, affreschi esterni, paramenti lapidei) va protetta prima dell'intervento con teli, casseformi o staccionamenti e va documentata con rilievo fotografico e grafico. La documenta…
 

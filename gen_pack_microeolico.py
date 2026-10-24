@@ -1,0 +1,236 @@
+# -*- coding: utf-8 -*-
+# Giro AF (2026-10-24): genera MICROEOLICO_PACK (12 schede, L2-L3, FACOLTA_IMPIANTI_ENERGIA)
+import json, io, os
+
+BASE = r'UNIVERSITA_EDILIZIA/MICROEOLICO_PACK'
+os.makedirs(os.path.join(BASE, 'schede'), exist_ok=True)
+
+KEYS = ['categoria','nome','descrizione','tecnologia','applicazioni','vantaggi','limiti',
+        'costi_e_economia','casi_real_world','normative','note_cantiere']
+
+S = []
+def add(**kw):
+    assert list(kw.keys()) == KEYS, list(kw.keys())
+    assert kw['costi_e_economia'].startswith('Ordini di grandezza indicativi: '), kw['nome']
+    S.append(kw)
+
+add(
+ categoria="Fondamenti",
+ nome="La fisica onesta del vento di piccola taglia: potenza, cubatura e turbolenza",
+ descrizione="Il microeolico vive o muore sulla risorsa: la potenza disponibile cresce col CUBO della velocita' del vento, quindi un sito da 4 m/s e uno da 6 m/s non differiscono del 50% ma di oltre il 200%. Prima di parlare di macchina si parla di sito.",
+ tecnologia="Fisica: potenza specifica del vento P = 0,5 * rho * v^3 (circa 0,6 * v^3 W/m2 a livello del mare): a 5 m/s ~75 W/m2, a 7 m/s ~206 W/m2; il rotore ne cattura una frazione (Cp teorico max 0,59, reale 0,25-0,40 per le piccole macchine). Fattori che degradano la risorsa: turbolenza da ostacoli (edifici, alberi, rilievi: il disturbo si estende 10-20 volte l'altezza dell'ostacolo sottovento), scia tra macchine vicine, altezza del mozzo insufficiente (il vento cresce con la quota secondo profili logaritmici/esponenziali con esponente 0,14-0,30 secondo la rugosita' del terreno); durata: servono distribuzioni annue (curva di Weibull), non la media puntuale; la producibilita' si esprime in ore equivalenti: siti italiani buoni per il piccolo eolico danno 1.200-2.500 ore equivalenti/anno; sotto le 1.000 ore l'investimento raramente si ripaga.",
+ applicazioni="Valutazione preliminare di fattibilita' di un impianto di piccola taglia; confronto con fotovoltaico su siti ventosi; consulenza pre-acquisto per evitare installazioni destinate a deludere.",
+ vantaggi="La fisica del cubo premia chi misura: un sito medio-buono scoperto con dati veri rende il doppio di uno scelto 'a occhio'; la produzione eolica e' spesso complementare al FV (notte, inverno, maltempo), utile in isola o con accumulo.",
+ limiti="In ambito urbano e periurbano la turbolenza uccide sia la produzione sia la macchina (fatica); i siti italiani veramente ventosi sono una minoranza del territorio; l'errore del 10% sulla stima del vento diventa il 30% sulla producibilita'.",
+ costi_e_economia="Ordini di grandezza indicativi: studio preliminare di fattibilita' su dati esistenti 500-2.000 euro; campagna anemometrica strumentale di 12 mesi 3-10 k€ (palina, sensori, registrazione); un errore di sito su un impianto da 20 kW vale 15-40 k€ di mancata produzione in vita utile.",
+ casi_real_world="Caso tipo: agricoltore tentato da una turbina da 10 kW 'da catalogo 20.000 kWh/anno': la misura in sito da' 3,8 m/s medi a 18 m; il computo onesto da' 6.500 kWh/anno. Rinuncia documentata: il miglior investimento e' quello non fatto.",
+ normative="Nessuna norma prescrive la misura, ma la produzione certificata si riferisce a condizioni standard (EN 61400-12-1 per le prove di potenza); gli atlanti eolici nazionali (ENEA/RSE) danno solo la risorsa di fondo su scala chilometrica, non il sito.",
+ note_cantiere="Non firmare mai un ordine di microeolico senza almeno i dati di una stazione meteo vicina rielaborati sul sito: chi vende 'tanto vento' senza numeri vende fumo. Il vento si misura, non si racconta."
+)
+
+add(
+ categoria="Tecnologia",
+ nome="Turbine ad asse orizzontale (HAWT): la tecnologia di riferimento della piccola taglia",
+ descrizione="Le turbine a asse orizzontale con 2-3 pale dominano il piccolo eolico per un motivo semplice: rendimento aerodinamico superiore, curve di potenza certificate e decenni di affidabilita' dimostrata. Dal kilowatt domestico alle 200 kW aziendali la logica costruttiva e' la stessa.",
+ tecnologia="Architettura: rotore a 2-3 pale in vetroresina o carbonio (diametro 3-25 m secondo la taglia); moltiplicatore assente nelle macchine piccole (direct drive) o presente nelle medie; generatore sincrono a magneti permanenti con raddrizzatore e inverter di rete; imbardata attiva (motore di yaw) oltre i 20-30 kW, passiva con banderuola sotto; sistemi di protezione dal vento forte: pitch (variazione passo), stallo aerodinamico controllato, freno meccanico di parcheggio e freno elettromagnetico di emergenza; curve di potenza certificate secondo EN 61400-12-1 sui modelli seri; rumorosita' dichiarata in potenza sonora LWA (le macchine serie la pubblicano).",
+ applicazioni="Aziende agricole e zootecniche, piccole industrie, utenze isolate con backup, impianti ibridi FV-eolico, comunita' energetiche con profilo serale/invernale.",
+ vantaggi="Rendimento piu' alto della categoria (Cp reale 0,30-0,40); tecnologia matura con ricambi e assistenza disponibili; curva di potenza certificata permette business plan seri; taglia scalabile dal residenziale all'industriale minore.",
+ limiti="Richiede vento pulito: su sito turbolento la fatica meccanica accorcia la vita; la torre e' invasiva nel paesaggio; le protezioni dal vento forte (pitch) aggiungono costo e manutenzione; il montaggio richiede mezzi di sollevamento.",
+ costi_e_economia="Ordini di grandezza indicativi: macchina da 10 kW fornita 25-45 k€; da 50-60 kW 120-220 k€; torre e fondazione incidono per il 25-40% del costo totale; installato chiavi in mano 3.000-5.500 €/kW per taglie 5-20 kW, 2.000-3.500 €/kW per taglie 50-100 kW.",
+ casi_real_world="Caso tipo: caseificio in collina ventosa (5,8 m/s misurati a 30 m) installa una 60 kW su torre da 30 m: 130-150 MWh/anno in autoconsumo quasi totale, rientro stimato 8-11 anni con prezzi elettrici 2024-2026.",
+ normative="CEI EN 61400-2 (requisiti di progetto delle turbine di piccola taglia, fino a 200 m2 di area spazzata); Direttiva Macchine 2006/42/CE e marcatura CE; EN 61400-12-1 (misura della curva di potenza); CEI 0-21/0-16 per l'interfaccia di rete.",
+ note_cantiere="Chiedi sempre il certificato della curva di potenza secondo EN 61400-12-1, non la brochure: se il costruttore non l'ha, la macchina non e' un investimento, e' una scommessa. E controlla chi fa assistenza entro 200 km."
+)
+
+add(
+ categoria="Tecnologia",
+ nome="Turbine ad asse verticale (VAWT): Savonius, Darrieus e la verita' sui tetti",
+ descrizione="Le turbine verticali promettono tutto (funzionano con ogni direzione del vento, silenziose, da tetto) e mantengono poco: rendimenti bassi, pochi dati certificati, montaggio su edifici che e' quasi sempre un errore. Conoscerle serve a sconsigliarle bene, salvo nicchie vere.",
+ tecnologia="Tipologie: Savonius (a resistenza, semplicissima, Cp 0,10-0,15, avviamento eccellente: adatta a pompe, caricabatterie, sensoristica, non a produzione di rete); Darrieus e derivate a elica (a portanza, Cp 0,25-0,35, non autoavvianti: servono avviatore o Savonius integrata); varianti elicoidali per ridurre le pulsazioni di coppia; integrazione su edifici: il flusso sul bordo del tetto e' accelerato ma intensamente turbolento e pulsante; le macchine da parapetto raccolgono frazioni della potenza dichiarata e trasmettono vibrazioni alla struttura; i pochi prodotti seri pubblicano curve secondo EN 61400-12-1: quelli che non le pubblicano vanno trattati come soprammobili rotanti.",
+ applicazioni="Nicchie reali: alimentazione di stazioni di misura e segnaletica isolate, didattica, pompe meccaniche, impianti dimostrativi; quasi mai produzione elettrica di rete economicamente sensata in ambito urbano.",
+ vantaggi="Funzionano con vento variabile in direzione senza imbardata; rumorosita' e impatto visivo contenuti nelle taglie piccole; semplicita' meccanica della Savonius (quasi indistruttibile); valore dimostrativo e didattico.",
+ limiti="Rendimenti inferiori alle orizzontali di pari costo; il mercato pullula di prodotti senza curve certificate con dichiarazioni di producibilita' irrealistiche; sui tetti la turbolenza taglia la produzione e la fatica vibrazionale danneggia macchina e copertura; pochi ricambi e assistenza.",
+ costi_e_economia="Ordini di grandezza indicativi: macchina verticale da 1-3 kW per alimentazione isolata 3-10 k€ installata; le 'da tetto' pubblicizzate a 2-5 k€ con promesse di 1.500-3.000 kWh/anno in citta' producono spesso 100-400 kWh/anno reali: costo del kWh prodotto insostenibile.",
+ casi_real_world="Caso tipo documentato in letteratura di settore: piccolo parco di turbine da parapetto su edificio commerciale monitorato un anno: producibilita' tra il 5% e il 15% delle attese di vendita, vibrazioni trasmesse ai solai, disattivazione. Controesempio positivo: Savonius da 400 W su stazione meteo alpina, batteria sempre carica da anni.",
+ normative="CEI EN 61400-2 si applica anche alle verticali (area spazzata < 200 m2); Direttiva Macchine 2006/42/CE; per l'ancoraggio su edifici esistenti: verifiche strutturali secondo NTC (D.M. 17/1/2018) sul supporto e sulle vibrazioni indotte.",
+ note_cantiere="Se il cliente insiste per la turbina da tetto, proponi un data logger anemometrico sul parapetto per tre mesi prima dell'acquisto: i numeri lo convinceranno gratis. Su edifici esistenti fai sempre verificare l'ancoraggio e le vibrazioni da uno strutturista."
+)
+
+add(
+ categoria="Tecnologia",
+ nome="Taglie e architettura d'impianto: micro (fino a 20 kW), mini (20-200 kW) e il confine col grande eolico",
+ descrizione="La taglia decide tutto: normativa, connessione, struttura, business plan. La fascia fino a 20 kW e' il mondo dell'autoconsumo domestico-agricolo; le 50-200 kW servono utenze produttive; oltre si entra nella logica del grande eolico con gare e VIA.",
+ tecnologia="Segmenti: micro (fino a 20 kW): direct drive, imbardata passiva, inverter monofase/trifase BT, torre 12-24 m, iter semplificato; mini (20-200 kW): imbardata attiva, pitch o stallo, cabina di media tensione sopra i 100 kW circa, torri 25-40 m, fondazioni importanti; confine: sopra i 200 kW le macchine di 'piccola taglia' lasciano il passo a turbine commerciali standard e la normativa autorizzativa si fa piena (AU con VIA); architettura impianto: macchina, quadro di generatore, inverter o interfaccia CEI, cabina di connessione, SCADA locale, eventuale accumulo; in isola: configura con gruppo elettrogeno o batteria (l'eolico da solo non fa rete).",
+ applicazioni="Autoconsumo residenziale ventoso (fino a 20 kW); aziende agricole, caseifici, cantine (30-100 kW); piccola industria energy-intensive (100-200 kW); impianti ibridi FV+eolico+accumulo per livellare il profilo.",
+ vantaggi="La fascia fino a 60 kW gode del procedimento autorizzativo semplificato (PAS); l'autoconsumo diretto valorizza il kWh al prezzo pieno di bolletta; le taglie piccole usano gru e fondazioni accessibili alle imprese edili locali.",
+ limiti="Il costo specifico (€/kW) cresce al diminuire della taglia: il micro e' 2-3 volte piu' caro del grande eolico a parita' di kW; sotto i 5 kW i costi fissi di connessione e pratiche pesano troppo; oltre i 200 kW il confronto col grande eolico commerciale e' impietoso.",
+ costi_e_economia="Ordini di grandezza indicativi: installato chiavi in mano 3.000-5.500 €/kW (5-20 kW), 2.000-3.500 €/kW (50-100 kW), 1.800-2.800 €/kW (100-200 kW); i costi fissi (connessione, pratiche, progetto) valgono 15-30 k€ quasi indipendenti dalla taglia.",
+ casi_real_world="Caso tipo: cantina vinicola con consumo serale-notturno (frigo) installa 60 kW in PAS: l'abbinamento col profilo di carico notturno porta l'autoconsumo oltre l'80%, mentre il FV esistente copre il giorno: il mix riduce il prelievo di punta invernale.",
+ normative="D.Lgs 28/2011 (disciplina FER e procedimenti; la soglia PAS per l'eolico di piccola taglia e' comunemente 60 kW: verificare il testo vigente e le disposizioni attuative); CEI EN 61400-2 per le macchine fino a 200 m2 di area spazzata; CEI 0-21/0-16 per la connessione.",
+ note_cantiere="Prima di scegliere la taglia, guarda la curva di carico dell'utente, non solo il vento: una 60 kW su utenza da 30 kW medi regala energia alla rete a prezzo basso. La taglia giusta e' quella che massimizza l'autoconsumo, non la producibilita'."
+)
+
+add(
+ categoria="Progettazione",
+ nome="La misura del vento in sito: anemometria, campagne di misura e atlanti",
+ descrizione="L'unica verita' sul vento e' quella misurata in sito alla quota del mozzo. Tra atlante e realta' c'e' di mezzo la micrositing: la campagna anemometrica e' il costo piu' piccolo e piu' decisivo del progetto.",
+ tecnologia="Strumenti: palina anemometrica (tubolare tirantata da 10-30 m o torretta a traliccio) con anemometri a coppette o ultrasuoni a due altezze (per stimare il profilo verticale), banderuola, data logger con trasmissione; durata minima seria 12 mesi (stagionalita'), correlazione con serie storiche di stazioni vicine (metodo MCP, measure-correlate-predict) per estendere a 10-20 anni; atlanti: le mappe nazionali (ENEA/RSE, scala chilometrica) servono allo screening, non al business plan; software di micrositing (modelli lineari tipo WAsP o CFD per terreni complessi) per trasportare la misura sul punto esatto della torre; output: velocita' media alla quota del mozzo, distribuzione di Weibull, intensita' di turbolenza, producibilita' lorda e netta (P50 e P90 per il finanziamento).",
+ applicazioni="Qualsiasi impianto sopra i 5-10 kW; due diligence per finanziamenti; verifica post-vendita di producibilita' contestata; screening multi-sito per aziende con piu' particelle.",
+ vantaggi="Riduce il rischio dell'investimento di un ordine di grandezza; la P90 bancabile parla la lingua delle banche; la misura a due altezze rivela se conviene una torre piu' alta (decisione da decine di k€).",
+ limiti="12 mesi sono un costo e un ritardo che il cliente non vuole mai pagare; su terreno complesso (crinali, boschi) anche la misura puntuale va trasportata con modelli, che hanno errori propri; le stazioni di riferimento italiane sono sparse: la correlazione puo' essere debole.",
+ costi_e_economia="Ordini di grandezza indicativi: palina anemometrica da 18-24 m con sensoristica e gestione annuale 5-12 k€; riuso di dati di stazioni terze + studio MCP 1,5-5 k€; modellazione CFD su terreno complesso 2-6 k€; tutto insieme vale il 3-8% dell'investimento e ne decide il 100%.",
+ casi_real_world="Caso tipo: due particelle confinanti dello stesso comune collinare: la palina sulla prima misura 6,1 m/s a 24 m, sulla seconda (dietro un crinalo) 4,2 m/s. Stesso atlante, producibilita' quasi dimezzata: l'impianto si fa solo sulla prima.",
+ normative="La misura della producibilita' segue la prassi IEC/EN 61400 (EN 61400-12-1 per le curve, linee guida di settore per il resource assessment); nessun obbligo di legge di campagna anemometrica, ma i finanziatori la richiedono di fatto.",
+ note_cantiere="Monta la palina dove andra' davvero la torre, non dove e' comodo: 50 metri di spostamento su un crinale cambiano il progetto. E firma nel contratto chi possiede i dati della campagna: serviranno a ogni contestazione futura."
+)
+
+add(
+ categoria="Strutture",
+ nome="Torri e fondazioni del piccolo eolico: strutture, NTC e il cantiere di base",
+ descrizione="Torre e fondazione sono il 25-40% del costo e il 100% del rischio strutturale: il vento che fa produrre la macchina e' lo stesso che la carica. Per l'impresa edile e' la parte di lavoro piu' concreta e piu' controllabile del progetto.",
+ tecnologia="Torri: palo rastremato in acciaio (estetica, manutenzione bassa, costo alto; le taglie piccole usano anche versioni ribaltabili con verricello per la manutenzione senza gru), traliccio (economico, impatto visivo, salita scomoda), tubolare tirantato (solo micro taglie, tiranti su plinti: attenzione all'ingombro al suolo); fondazioni: plinto in c.a. (tipicamente 30-150 mc per taglie 10-100 kW secondo vento e terreno) con gabbia di ancoraggio fornita dal costruttore; verifiche secondo NTC: azione del vento (capitolo 3.3, pressione cinetica con categorie di esposizione), fatica (spettro dei cicli), ribaltamento e scorrimento del plinto, interazione terreno-struttura; tirante d'opera: cls classe adeguata all'ambiente (XC/XF), copriferro, maturazione prima del montaggio (resistenza caratteristica: normalmente 28 giorni, verificare il progetto); torri in acciaio: carpenteria con marcatura CE secondo EN 1090-1/-2 (classe di esecuzione EXC2 tipica).",
+ applicazioni="Ogni impianto: e' la quota 'edilizia' del lavoro, appaltabile a imprese locali; i plinti ribaltabili riguardano le taglie fino a 20-30 kW.",
+ vantaggi="Lavoro standard per un'impresa di strutture: scavo, armatura, getto; la torre ribaltabile elimina la gru in manutenzione (risparmio ricorrente); il plinto ben fatto dura piu' della macchina e puo' ospitare la sostituzione futura.",
+ limiti="La gabbia di ancoraggio ha tolleranze millimetriche: un errore di posa blocca il montaggio della torre; i getti invernali in quota richiedono protezione dal gelo; il ripristino dei tiranti e dei plinti e' vincolo paesaggistico visibile; smantellamento a fine vita: prevederlo e finanziarlo.",
+ costi_e_economia="Ordini di grandezza indicativi: plinto e opere civili per 10-20 kW 8-20 k€; per 50-100 kW 25-60 k€ (40-100 mc di cls, 4-10 t di acciaio); torre in palo da 24-30 m fornita 15-40 k€ secondo taglia; gru di montaggio 3-10 k€/giorno.",
+ casi_real_world="Caso tipo: impianto da 20 kW con torre ribaltabile da 24 m su plinto da 35 mc: la manutenzione annuale si fa abbassando la torre con il verricello in mezza giornata, senza noleggio gru: in 15 anni il risparmio copre il sovrapprezzo della torre.",
+ normative="NTC D.M. 17/1/2018 (azioni del vento, fatica, fondazioni); EN 1090-1/-2 (carpenteria metallica CE); CEI EN 61400-2 (carichi di progetto della macchina da fornire allo strutturista); D.Lgs 81/2008 per il cantiere di scavo e montaggio.",
+ note_cantiere="Pretendi dal costruttore i carichi alla base (taglio, momento, torsione) PRIMA di ordinare il plinto, e fai posare la gabbia di ancoraggio con dima e livella laser: mezzo grado di dislivello sui tiranti diventa un problema di gru e di garanzia il giorno del montaggio."
+)
+
+add(
+ categoria="Impianti",
+ nome="Connessione alla rete: CEI 0-21, CEI 0-16, SPI e l'iter col distributore",
+ descrizione="La connessione e' la meta' elettrica del progetto: senza iter corretto col distributore la turbina gira ma non immette. Le regole tecniche CEI 0-21 (BT) e CEI 0-16 (MT) e la protezione di interfaccia sono il cuore della pratica.",
+ tecnologia="Iter: richiesta di connessione al distributore (TICA) con dati di macchina e di rete; preventivo (TICA accettato definisce tempi e corrispettivi); realizzazione secondo la soluzione di connessione; collaudo e attivazione; protezioni: SPI (sistema di protezione di interfaccia) con funzioni di frequenza e tensione secondo CEI 0-21 (sotto i 11,08 kW possibile SPI integrata autocertificata; sopra, prova dell'interfaccia con verbale) e CEI 0-16 in media tensione (prova obbligatoria con strumentazione tarata); inverter certificato CEI 0-21 per le taglie che lo prevedono; telecontrollo obbligatorio oltre soglie di potenza secondo le regole del distributore; regimes: autoconsumo, cessione parziale o totale (Ritiro Dedicato GSE o vendita sul mercato).",
+ applicazioni="Ogni impianto connesso; rilevante anche in retrofit: aggiungere eolico a un FV esistente cambia la sezione di connessione e va ritrattata col distributore.",
+ vantaggi="Iter standardizzato e tempi abbastanza prevedibili per il piccolo eolico; l'SPI integrata sotto gli 11,08 kW semplifica; il Ritiro Dedicato GSE offre un prezzo minimo garantito di fatto per le taglie piccole (verificare il quadro vigente).",
+ limiti="Le reti rurali deboli impongono potenziamenti a carico del richiedente (costo decisivo, a volte proibitivo); i tempi del distributore non dipendono dal cantiere; l'aggiunta a connessione esistente riapre pratica e protezioni.",
+ costi_e_economia="Ordini di grandezza indicativi: corrispettivi di connessione per piccole taglie da poche centinaia di euro (BT semplice) a 5-30 k€ se servono lavori di rete; quadro, SPI esterna e collaudi 2-6 k€; potenziamento di linea MT: puo' superare il costo della turbina, verificarlo col preventivo TICA prima di ordinare la macchina.",
+ casi_real_world="Caso tipo: azienda agricola con cabina MT a 800 m: il TICA prevede estensione di linea e trasformatore dedicato per 28 k€; il progetto passa da 100 kW a 60 kW con connessione in BT esistente potenziata: capex elettrico dimezzato, business plan salvo.",
+ normative="CEI 0-21 (regola tecnica di riferimento per le connessioni in BT) e CEI 0-16 (per le MT); delibere ARERA sulla connessione (TICA e corrispettivi); D.Lgs 28/2011 per i regimi di accesso; DPR 380/2001 per la parte edilizia della cabina.",
+ note_cantiere="Invia la domanda di connessione nello stesso mese in cui firmi l'ordine della macchina: i tempi del distributore (60-120 giorni lavorativi, spesso di piu') sono il collo di bottiglia reale del cantiere, non la consegna della turbina."
+)
+
+add(
+ categoria="Normativa",
+ nome="Autorizzazioni: attivita' libera, PAS, Autorizzazione Unica e i vincoli",
+ descrizione="Il procedimento cambia con la taglia: sotto soglia l'impianto e' quasi edilizia libera, sopra diventa pratica ambientale. La mappa dei vincoli del territorio (paesaggio, avifauna, infrastrutture) decide prima ancora del vento.",
+ tecnologia="Scala dei procedimenti: micro impianti su edifici o di potenza minima possono rientrare in attivita' libera (verificare il glossario dell'edilizia libera e le leggi regionali); PAS (Procedura Autorizzativa Semplificata) per l'eolico di piccola taglia — soglia comunemente 60 kW secondo il D.Lgs 28/2011 e s.m.i.: verificare il testo vigente e le regole regionali — con silenzio-assenso dopo i termini e verifica di assenza di vincoli; Autorizzazione Unica (art. 12 D.Lgs 387/2003) sopra soglia, con VIA quando richiesta dalle soglie del D.Lgs 152/2006 (la VIA per eolico scatta sopra 1 MW, verificare aggiornamenti); vincoli: D.Lgs 42/2004 (paesaggistico: aree tutelate, zone di rispetto), distanze da strade, ferrovie, elettrodotti, aeroporti (ENAV/ENAC e radar militari: verifica preliminare obbligatoria sui crinali), tutela avifauna (siti Natura 2000: valutazione di incidenza); pareri: soprintendenza, ente parco, regione.",
+ applicazioni="Pratica autorizzativa di ogni impianto; due diligence di acquisto di progetti gia' autorizzati (il titolo si trasferisce, ma va verificato).",
+ vantaggi="La PAS sotto i 60 kW ha tempi definiti e costi contenuti; l'attivita' libera dove applicabile riduce il progetto all'aspetto elettrico e strutturale; la verifica vincoli precoce evita investimenti in misura e progetto su siti infattibili.",
+ limiti="Il mosaico regionale: soglie, modulistica e interpretazioni cambiano (alcune regioni hanno leggi proprie sulle rinnovabili); i vincoli paesaggistici sulle aree collinari e costiere — proprio quelle ventose — sono frequenti; il parere ENAV sui radar puo' bloccare siti altrimenti perfetti.",
+ costi_e_economia="Ordini di grandezza indicativi: pratica PAS con verifiche di vincolo 2-6 k€ di tecnico; Autorizzazione Unica con studi ambientali 15-50 k€ e 12-24 mesi; la verifica preliminare vincoli/radar su mappa: poche centinaia di euro, il miglior acquisto del progetto.",
+ casi_real_world="Caso tipo: impianto da 55 kW su crinale: la verifica ENAV preliminare segnala interferenza con radar militare a 40 km; si sposta la torre di 300 m sotto la quota di schermo: parere positivo, PAS approvata nei termini.",
+ normative="D.Lgs 387/2003 (AU per FER); D.Lgs 28/2011 (semplificazioni e PAS; soglia eolico da verificare nel testo vigente); D.Lgs 152/2006 (VIA e valutazione di incidenza); D.Lgs 42/2004 (vincoli paesaggistici); DPR 380/2001 (titolo edilizio); normativa ENAV/ENAC sulle interferenze radio e ostacoli alla navigazione aerea.",
+ note_cantiere="Apri la pratica dalla mappa dei vincoli, non dalla turbina: mezza giornata sui portali di regione, soprintendenza ed ENAV costa poche ore e ti dice se il sito e' vivo. Presentare la PAS su sito vincolato e' buttare via mesi e credibilita'."
+)
+
+add(
+ categoria="Ambiente",
+ nome="Rumore, ombreggiamento e distanze: gli impatti da gestire prima che diventino ricorsi",
+ descrizione="Il piccolo eolico fallisce piu' spesso per un vicino che per il vento: rumore notturno, ombra lampeggiante, impatto visivo. La legge acustica e le distanze di buon senso si gestiscono in progetto, non in causa.",
+ tecnologia="Rumore: la sorgente e' aerodinamica (pale) e meccanica (generatore, moltiplicatore); i costruttori seri dichiarano la potenza sonora LWA; la previsione al ricettore si fa con propagazione acustica (distanza, schermi, vento a favore che 'porta' il rumore); limiti: L. 447/1995 (legge quadro) e DPCM 14/11/1997 (valori limite delle sorgenti per classi di destinazione d'uso del territorio; i limiti piu' stringenti valgono nelle ore notturne); ombreggiamento (shadow flicker): l'ombra rotante delle pale sulle finestre si calcola con la geometria sole-rotore; regola tecnica di settore: contenere sotto soglie orarie annue sul ricettore (riferimenti tecnici internazionali usati anche nelle AU italiane; verificare la prassi regionale); lampeggio notturno e segnalazione aerea: ostacoli al volo secondo regole ENAC per torri oltre soglia di altezza; impatto visivo: valutazione in sede di vincolo paesaggistico.",
+ applicazioni="Impianti con ricettori (case, strade, sentieri) entro 200-500 m; sedi AU con istanze di terzi; verifica di conformita' acustica post-installazione.",
+ vantaggi="Le macchine moderne a velocita' variabile riducono il rumore alle basse velocita' del vento; la valutazione predittiva documentata disarma la gran parte delle contestazioni; le distanze corrette proteggono anche il produttore (meno reclami, meno fermi).",
+ limiti="La propagazione notturna in valle (inversione termica) fa arrivare il rumore piu' lontano dei modelli standard; il flicker si elimina solo con distanza o curtailment (logica di spegnimento nelle ore critiche: perde produzione); in sede di ricorso il costo della difesa supera quello della prevenzione.",
+ costi_e_economia="Ordini di grandezza indicativi: studio acustico previsionale 1,5-5 k€; misura fonometrica di conformita' post-installazione 1-3 k€; logica di curtailment anti-flicker: perdita di produzione tipicamente sotto il 2-5% se ben impostata.",
+ casi_real_world="Caso tipo: turbina da 60 kW a 250 m da un'abitazione: lo studio previsionale stima superamento notturno in condizioni di vento favorevole al ricettore; si adotta curtailment notturno sopra i 9 m/s di vento e si sposta la torre di 60 m: conformita' misurata, zero reclami in tre anni.",
+ normative="L. 447/1995 (legge quadro sull'inquinamento acustico); DPCM 14/11/1997 (valori limite delle sorgenti sonore); classificazione acustica comunale; regole ENAC per la segnalazione degli ostacoli al volo; D.Lgs 42/2004 per l'impatto visivo; prassi regionali sul flicker (da verificare localmente).",
+ note_cantiere="Misura il clima acustico di fondo PRIMA dell'installazione (una settimana di fonometro): se poi arriva il reclamo, la differenza prima/dopo e' l'unica difesa che conta. Senza il 'prima' misurato, ogni discussione e' persa in partenza."
+)
+
+add(
+ categoria="Cantiere",
+ nome="Cantiere e montaggio: logistica, sollevamento, collaudi e sicurezza",
+ descrizione="Il montaggio di una turbina e' un giorno di gru e mesi di preparazione: accessi, piazzale, plinto maturo, meteo. La finestra di vento debole per alzare il rotore si aspetta, non si improvvisa.",
+ tecnologia="Fasi: preparazione accessi e piazzale (pista per autogru fino a 100-200 t per le taglie medie; piazzale in stabilizzato livellato); scavo e plinto (vedi scheda strutture: maturazione documentata con prove su cubi/cilindri); posa torre a sezioni con bulloneria a coppia controllata (chiave dinamometrica/idraulica, certificato di serraggio); montaggio navicella e rotore (assemblato al suolo nelle taglie piccole: unico sollevamento); cablaggio e quadro; collaudi: verifica bulloneria, allineamento, prove elettriche (CEI 64-8 per la parte BT dell'impianto di cantiere e di connessione; Dichiarazione di Conformita' secondo D.M. 37/2008), collaudo funzionale a vento crescente, primo avviamento documentato; sicurezza: D.Lgs 81/2008, lavoro in quota (linee vita sulla torre, DPI anticaduta), piano di sollevamento, coordinamento con il meteo (soglia operativa tipica 8-12 m/s al suolo per i sollevamenti principali, secondo manuale della gru).",
+ applicazioni="Montaggio di ogni impianto; smontaggio e rimontaggio per retrofit o revamping; opere di ripristino finale.",
+ vantaggi="Il cantiere tipo dura 3-10 giorni di lavoro effettivo: impatto sul territorio minimo se la preparazione e' stata seria; l'impresa edile locale puo' fare tutta la parte civile; il collaudo documentato e' la base della garanzia.",
+ limiti="Il meteo comanda: una settimana di vento forte con la gru ferma costa migliaia di euro al giorno; gli accessi in collina (tornanti, fondo) vanno verificati col trasporto eccezionale prima, non con la torre in viaggio; la bulloneria a coppia non certificata e' il primo motivo di contestazione in garanzia.",
+ costi_e_economia="Ordini di grandezza indicativi: autogru 100-200 t con squadra 4-10 k€/giorno; preparazione piazzale e accessi 3-15 k€; cantiere completo di montaggio per taglia 20-60 kW 15-40 k€ oltre plinto e forniture.",
+ casi_real_world="Caso tipo: montaggio di una 60 kW in collina: pista di accesso rifatta in stabilizzato (900 k€), finestra meteo di 36 ore sfruttata al mattino presto, rotore assemblato a terra e alzato in un unico sollevamento; avviamento il giorno dopo con SPI collaudata.",
+ normative="D.Lgs 81/2008 (sicurezza: lavori in quota, sollevamenti, scavi); D.M. 37/2008 (conformita' degli impianti elettrici); EN 1090 per le parti metalliche; manuale del costruttore (coppie, sequenze, limiti meteo) come documento di cantiere obbligatorio.",
+ note_cantiere="Blocca la data della gru solo a plinto maturo e documentato (prove di resistenza alla mano), e prevedi nel contratto chi paga il fermo-gru per meteo: se non e' scritto, lo paga chi ha la firma piu' debole."
+)
+
+add(
+ categoria="Gestione",
+ nome="Esercizio e manutenzione: controlli periodici, guasti tipici e monitoraggio",
+ descrizione="Una turbina piccola e' una macchina rotante all'aperto per 20-25 anni: la manutenzione non e' un optional ma la voce che decide il ritorno economico. Chi la pianifica dorme; chi la subisce paga la gru due volte.",
+ tecnologia="Piano tipo del costruttore: ispezione semestrale/annuale (bulloneria e riserraggio a coppia, pale: leading edge, crepe, drenaggi; cuscinetti e lubrificazione; freni; imbardata; anemometro e banderuola; quadro elettrico e inverter; torre: corrosione, tiranti, fondazioni: fessurazioni); telegestione: SCADA con allarmi (vibrazione, sovratemperatura, anomalie di produzione) e storico; guasti tipici: cuscinetti del generatore, pale in vetroresina (erosione del bordo d'attacco: riparabile), elettronica di potenza (fulminazioni: la protezione SPD e' la prima linea), banderuole e sensori; manutenzione su torre ribaltabile vs gru: la differenza di costo per intervento e' di un ordine di grandezza; pezzi di ricambio: tenere a magazzino fusibili, sensori, kit cuscinetti per i modelli piu' diffusi.",
+ applicazioni="Contratti di manutenzione full service o a chiamata; revamping a meta' vita (sostituzione generatore/inverter); monitoraggio della producibilita' verso il business plan.",
+ vantaggi="Il telegestito intercetta i guasti prima del fermo macchina; la manutenzione programmata costa meta' della riparazione d'emergenza; lo storico SCADA documenta la conformita' per garanzie e assicurazioni.",
+ limiti="L'assistenza sul piccolo eolico in Italia e' un mosaico: marche senza rete locale diventano orfane; i costi della gru per taglie non ribaltabili rendono caro ogni intervento; l'usura del bordo d'attacco delle pale in siti sabbiosi/pioggia intensa richiede riparazioni ricorrenti.",
+ costi_e_economia="Ordini di grandezza indicativi: contratto di manutenzione annuale 5-15% del costo della macchina spalmiato su 20 anni (in pratica 1-3 k€/anno per 10-20 kW, 4-10 k€/anno per 50-100 kW); sostituzione inverter a meta' vita 3-10 k€; riparazione pale 2-8 k€ a intervento.",
+ casi_real_world="Caso tipo: parco di tre macchine da 20 kW della stessa marca gestito con contratto full service e torri ribaltabili: disponibilita' media 97% in dieci anni; la quarta macchina di marca senza assistenza locale, ferma 14 mesi per un cuscinetto, e' il controesempio da manuale.",
+ normative="Manuale uso e manutenzione del costruttore (Direttiva Macchine 2006/42/CE: parte della documentazione obbligatoria); D.Lgs 81/2008 per i lavori di manutenzione in quota; obblighi GSE/distributore per mantenere i requisiti di connessione (CEI 0-21/0-16) e gli eventuali incentivi.",
+ note_cantiere="Alla firma del contratto chiedi: chi e' il tecnico di riferimento, dove sono i ricambi, quante macchine di questa marca ha in gestione entro 200 km. Se le risposte sono vaghe, il prezzo basso della turbina ti costera' il doppio in fermi macchina."
+)
+
+add(
+ categoria="Economia",
+ nome="L'economia del piccolo eolico: costi veri, incentivi e quando il conto torna",
+ descrizione="Il business plan del microeolico si regge su tre gambe: vento misurato, autoconsumo alto, costi di gestione onesti. Tolta una gamba, il progetto cade. I numeri di questa scheda sono fasce di letteratura ed esperienza di settore, non quotazioni.",
+ tecnologia="Struttura dei costi: CAPEX chiavi in mano (macchina, torre, plinto, connessione, pratiche): 3.000-5.500 €/kW per 5-20 kW, 2.000-3.500 €/kW per 50-100 kW; OPEX: manutenzione, assicurazione, canoni, gestione pratiche: 3-6% del CAPEX/anno; ricavi: autoconsumo valorizzato al prezzo evitato di bolletta (variabile: nel 2024-2026 per utenze non domestiche tipicamente 0,15-0,30 €/kWh), cessione in rete via Ritiro Dedicato GSE o mercato (prezzi zonali; per le taglie piccole il RID offre prezzi minimi di fatto: verificare il quadro vigente), eventuali detrazioni fiscali (il microeolico NON e' Ecobonus: valutare caso per caso la normativa fiscale vigente; per le imprese conta l'ammortamento e l'eventuale credito d'imposta beni strumentali se applicabile); rientro: 7-12 anni in siti buoni con autoconsumo >60%; oltre 15 anni il progetto e' fragile.",
+ applicazioni="Valutazione d'investimento per aziende agricole e industriali minori; confronto eolico vs FV su stesso sito; due diligence su impianti esistenti in vendita.",
+ vantaggi="Con vento misurato (>5,5 m/s al mozzo) e autoconsumo alto, il piccolo eolico batte il FV per producibilita' specifica in inverno e di notte; la vita utile 20-25 anni supera quella dell'inverter FV; l'ibrido FV+eolico riduce la taglia dell'accumulo.",
+ limiti="Il costo specifico alto e la manutenzione meccanica rendono il conto sensibilissimo agli errori di stima del vento; i prezzi elettrici bassi (fasi di calo del PUN) allungano i rientri; l'incentivo stabile dedicato al piccolo eolico non c'e': il progetto si regge sull'autoconsumo.",
+ costi_e_economia="Ordini di grandezza indicativi: impianto 20 kW chiavi in mano 70-110 k€, producibilita' in sito buono 30-50 MWh/anno; impianto 60 kW 150-250 k€, 100-180 MWh/anno; costo livellato dell'energia (LCOE) in siti buoni 0,10-0,20 €/kWh, in siti medi 0,25-0,40 €/kWh: il confronto col prezzo di bolletta decide tutto.",
+ casi_real_world="Caso tipo: azienda zootecnica (stalla con ventilazione h24, carico costante) con 6,2 m/s misurati: 60 kW, autoconsumo 92%, CAPEX 190 k€, OPEX 8 k€/anno, risparmio annuo 24-32 k€ ai prezzi 2024-2026: rientro 7-8 anni. Stesso impianto su utenza diurna senza FV: autoconsumo 45%, rientro oltre 14 anni.",
+ normative="D.Lgs 28/2011 (regimi di accesso e Ritiro Dedicato); delibere ARERA su prezzi minimi e corrispettivi (da verificare nelle versioni vigenti); normativa fiscale su ammortamenti e crediti d'imposta (da verificare anno per anno: il quadro cambia con le leggi di bilancio).",
+ note_cantiere="Fai il business plan sulla P90 della producibilita' e con l'OPEX pieno: se il progetto regge il caso prudente, reggera' anche la realta'. Chi presenta il caso P50 con manutenzione zero sta vendendo la macchina, non l'impianto."
+)
+
+add(
+ categoria="Integrazione",
+ nome="Eolico e edifici: integrazione vera, ibridi FV-eolico-accumulo e il ruolo nelle CER",
+ descrizione="Il piccolo eolico da' il meglio in squadra: col fotovoltaico copre la notte e l'inverno, con l'accumulo livella il profilo, nelle comunita' energetiche alza la quota di energia condivisa nelle ore in cui il sole non c'e'. L'integrazione sull'edificio, invece, resta quasi sempre una cattiva idea.",
+ tecnologia="Ibrido FV+eolico: i profili di produzione sono anticorrelati (il vento produce di notte e d'inverno, il FV di giorno e d'estate): a parita' di energia annua il mix riduce i picchi di immissione e la taglia della batteria; architettura: inverter separati o ibrido multi-sorgente, EMS che ottimizza autoconsumo e batteria; CER: l'eolico fino a 1 MW puo' essere impianto della comunita' (stessa cabina primaria), e l'energia condivisa notturna/invernale aumenta l'incentivabile (tariffa premio del D.M. 414/2023; regole GSE); edifici: turbine su tetto sconsigliate (vibrazioni, turbolenza, producibilita' ridicola: vedi scheda VAWT); integrazione sensata: paleo eoliche in aree aziendali, ex cave, piazzali industriali con vincoli gestiti; isole e utenze off-grid: eolico+batteria+gruppo elettrogeno in gestione integrata.",
+ applicazioni="Aziende con carichi serali/notturni (caseifici, celle frigo, allevamenti); CER con profili di consumo distribuiti sulle 24 ore; siti off-grid (rifugi, stazioni di pompaggio, ripetitori); revamping di parchi FV con aggiunta eolica.",
+ vantaggi="Il mix FV+eolico alza l'autoconsumo senza batterie enormi; in CER la produzione eolica serale vale la tariffa premio nelle ore in cui il FV tace; sui siti off-grid l'eolico riduce drasticamente le ore del gruppo elettrogeno.",
+ limiti="Due fonti = due pratiche, due manutenzioni, due filiere di assistenza; l'EMS mal configurato annulla i vantaggi (batteria caricata/scaricata male); in CER l'eolico aggiunge complessita' di misura e rendicontazione GSE.",
+ costi_e_economia="Ordini di grandezza indicativi: aggiungere 20 kW eolici a un FV aziendale esistente costa 80-130 k€ (connessione spesso da rivedere); in CER l'energia eolica condivisa e' remunerata con la stessa tariffa premio del FV (valori secondo D.M. 414/2023, verificare il quadro vigente); il risparmio sulla batteria per livellare il profilo: 10-30% della taglia in kWh secondo i profili.",
+ casi_real_world="Caso tipo: CER di borgo collinare con 80 kW FV sul municipio e 20 kW eolici sul piazzale del depuratore: la quota di energia condivisa nelle ore serali raddoppia rispetto al solo FV e l'incentivabile annuo cresce di oltre un terzo, misurato dal GSE.",
+ normative="D.M. 7 dicembre 2023 n. 414 (decreto CACER) e regole GSE per le configurazioni; D.Lgs 199/2021 (autoconsumo diffuso); CEI 0-21/0-16 per la connessione multi-fonte; per le turbine su edificio: NTC (D.M. 17/1/2018) per ancoraggi e vibrazioni e prassi acustica.",
+ note_cantiere="In un ibrido progetta subito l'EMS e la logica di batteria con chi fara' la manutenzione: l'impianto perfetto su carta con il gestionale mal configurato perde il 10-20% di valore ogni anno. E ricorda al cliente: eolico sul tetto no, eolico sul piazzale si'."
+)
+
+# --- scrittura schede.jsonl ---
+p_jsonl = os.path.join(BASE, 'schede', 'schede.jsonl')
+out = io.open(p_jsonl, 'w', encoding='utf-8', newline='\n')
+for s in S:
+    out.write(json.dumps(s, ensure_ascii=False) + '\n')
+out.close()
+
+# --- COURSE.yaml ---
+course = """corso: "Microeolico e minieolico: tecnologia, autorizzazioni e cantiere"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 13
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "CEI EN 61400-2, EN 61400-12-1, Direttiva Macchine 2006/42/CE, D.Lgs 387/2003, D.Lgs 28/2011 (soglia PAS eolico marcata da verificare), D.Lgs 152/2006, D.Lgs 42/2004, DPR 380/2001, CEI 0-21, CEI 0-16, L. 447/1995, DPCM 14/11/1997, NTC D.M. 17/1/2018, EN 1090-1/-2, D.Lgs 81/2008, D.M. 37/2008, D.M. 414/2023 (CACER), D.Lgs 199/2021; prezzi e producibilita' come fasce di letteratura ed esperienza di settore"
+nota_metodologica: "Filiera completa del piccolo eolico (fino a ~200 kW): fisica del vento, HAWT/VAWT, taglie, misura in sito, torri e fondazioni, connessione rete, autorizzazioni, impatti (rumore/flicker), cantiere, manutenzione, economia, integrazione (ibridi, CER). NON ridondante con DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK (che tratta il dimensionamento energetico e la curva di potenza): qui autorizzazioni, strutture, connessione, cantiere, gestione ed economia. Prezzi come fasce indicative; soglie autorizzative marcate da verificare; nessun nome di azienda."
+"""
+open(os.path.join(BASE, 'COURSE.yaml'), 'w', encoding='utf-8').write(course)
+
+# --- README.md ---
+readme = """# Microeolico e minieolico: tecnologia, autorizzazioni e cantiere
+
+Corso di livello L2-L3 (FACOLTA_IMPIANTI_ENERGIA) sulla filiera completa del piccolo eolico fino a ~200 kW: fisica onesta del vento (potenza col cubo della velocità, turbolenza, ore equivalenti), turbine ad asse orizzontale e verticale (con la verità sulle «da tetto»), taglie e architetture d'impianto, misura della risorsa in sito (paline anemometriche, MCP, atlanti), torri e fondazioni secondo NTC ed EN 1090, connessione alla rete (CEI 0-21/0-16, SPI, iter col distributore), autorizzazioni (attività libera, PAS, AU, vincoli paesaggistici ed ENAV), impatti (rumore secondo L. 447/1995 e DPCM 14/11/1997, shadow flicker, distanze), cantiere e montaggio, esercizio e manutenzione, economia (CAPEX €/kW, OPEX, LCOE, rientri) e integrazione (ibridi FV-eolico-accumulo, CER, off-grid).
+
+**Schede: 13** — formato JSONL con le 11 chiavi standard dell'Università dell'Edilizia.
+
+Regola metodologica: non ridondante con DIMENSIONAMENTO_FV_EOLICO_ACCUMULO_PACK (che tratta il dimensionamento energetico e la curva di potenza): qui la filiera installativa, autorizzativa, strutturale ed economica. Prezzi come fasce indicative con unità; soglia PAS eolica marcata «da verificare»; nessun nome di aziende.
+"""
+open(os.path.join(BASE, 'README.md'), 'w', encoding='utf-8').write(readme)
+
+# --- verifica finale ---
+rows = [json.loads(l) for l in open(p_jsonl, encoding='utf-8') if l.strip()]
+assert len(rows) == 13, len(rows)
+for r in rows:
+    assert list(r.keys()) == KEYS, r['nome']
+    assert 'aplicazioni' not in r and 'tegnologia' not in r
+print('OK:', p_jsonl, '-', len(rows), 'schede, chiavi e ordine corretti')
