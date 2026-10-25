@@ -1,0 +1,9 @@
+corso: "Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "UNI EN 13707, UNI EN 13956, UNI EN 13969, UNI EN 1928, UNI EN 13967, UNI EN 14891, UNI EN 1504-2/1504-9, EAD 030350-00-0402 (ex ETAG 005), EN 14695, UNI 11235, UNI 11493-1, D.M. 174/2004, UNI EN 12845, Reg. UE 305/2011 (CPR), NTC D.M. 17/1/2018, D.Lgs 152/2006, D.Lgs 81/2008, D.M. 37/2008, CEI 64-8"
+nota_metodologica: "Impermeabilizzazioni oltre il tetto piano: regimi idraulici (pressione positiva/negativa), membrane bituminose per opere speciali, sintetiche (PVC-P/FPO/EPDM), liquidi (poliuretano/PMMA/poliurea), bentonite, interrati su esistente (osmotiche, iniezioni, cavedii), coperture rovescie e carrellabili, vasche e serbatoi (anche potabili), ponti sotto manto, gallerie, dettagli e giunti (waterstop), controlli e collaudi di tenuta. Distinto da TETTI_E_COPERTURE_PACK (coperture ordinarie) e POSA_IN_OPERA_PACK (liquidi per zone umide/balconi). Prezzi come fasce indicative; norme solo di consolidata certezza; nessun nome di azienda."

@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1211 voci enciclopediche tratte da 79 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1223 voci enciclopediche tratte da 80 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -29,6 +29,8 @@
   L'accumulo termico e' cio' che distingue il CSP dal fotovoltaico: il calore raccolto di giorno si conserva in serbatoi di sali fusi e si restituisce alla sera, rendendo la produzione programmabile. E' la voce che giustif…
 - **Accumulo termico: buffer, stratificazione e materiali a cambiamento di fase** — Accumulo termico · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Conservare il calore per separare produzione e utilizzo: dal serbatoio in acciaio ai PCM.
+- **Acqua e strutture: pressione positiva, pressione negativa e la scelta della strategia** — Fondamenti · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Impermeabilizzare non significa 'mettere una guaina': significa decidere da che parte spinge l'acqua, con che pressione, per quanti anni e con quali accessi di manutenzione. La strategia (barriera stagna, sistema drenant…
 - **Acqua refrigerata e torri di raffreddamento nei grandi edifici** — Grandi impianti · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Oltre una certa scala non si porta più refrigerante negli ambienti: si produce acqua refrigerata (chilled water) in centrale termica e la si distribuisce alle unità di trattamento dell'aria, con le torri di raffreddament…
 - **Acquedotti e reti idriche: adduttrici, serbatoi e ripartizione** — Acque potabili · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
@@ -139,6 +141,8 @@
   La più grande chiesa del mondo: 220 m di lunghezza, la cupola di Michelangelo (42 m di diametro interno).
 - **Bentonite (panetti e gole)** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Argilla bentonite sodica che gonfiandosi a contatto con l'acqua forma una barriera impermeabile autocicatrizzante.
+- **Bentonite e sistemi idroespansivi: la barriera autosigillante contro terra** — Opere interrate · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Le membrane bentonitiche sfruttano un principio elegante: l'argilla a contatto con l'acqua si espande e autosigilla le piccole lesioni. Contro terra nuova sono un sistema provato; richiedono pero' confinamento permanente…
 - **BIM in cantiere: sequenze, sicurezza, qualità** — BIM in cantiere · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Il modello arriva in cantiere: sequenze di montaggio 4D (modello + tempi), verifica posizionamento con GPS/total station, controllo qualità su tablet (il modello come riferimento da confrontare col costruito), sicurezza …
 - **Biochar e materiali carbon-negative** — Speciali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -313,6 +317,8 @@
   L'incentivo non è 'una percentuale della spesa': sono due famiglie di formule. Per l'involucro (Titolo II): I_tot = %spesa × C × S_int, con I_tot ≤ I_max; se il costo specifico sostenuto C (€/m²) supera il valore massimo…
 - **Conto Termico 3.0: multi-intervento, cumuli e maggiorazioni** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   Il Conto Termico 3.0 premia le riqualificazioni organiche: il multi-intervento somma gli incentivi dei singoli lavori, il numero delle rate è il massimo tra le durate dei singoli interventi (con distribuzione equa dell'i…
+- **Controlli e collaudo di tenuta: flood test, prove elettroniche, termografia** — Collaudo · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Un'impermeabilizzazione non collaudata e' un'ipotesi. I metodi di prova esistono, costano poco rispetto all'opera e trasformano la consegna da fiducia a documento: il collaudo di tenuta va in contratto, non tra i desider…
 - **Controllo accessi** — Accessi · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Gestione ingressi: badge, RFID, QR, biometria, serrature smart.
 - **Contropareti e controsoffitti in cartongesso** — Sistemi a secco · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -323,6 +329,8 @@
   Struttura in profili sospesi con lastre di cartongesso: controsoffitti per cavi, luci, climatizzazione.
 - **Coperture a verde: estensivo, intensivo e semi-intensivo** — Fondamenti · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   Il tetto verde e' una copertura stratificata che ospita vegetazione sopra l'impermeabilizzazione. La scelta fondamentale e' la tipologia: estensiva (substrato sottile, vegetazione autoctona resistente, poca manutenzione)…
+- **Coperture rovescie e pensili carrellabili: la membrana sotto tutto** — Coperture · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Nella copertura rovescia la membrana lavora sotto l'isolante e sotto il carico: invisibile, piu' protetta dagli shock termici, ma irraggiungibile senza smontare tutto. Progetto, posa e collaudo devono essere perfetti la …
 - **Coppo** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tegola in laterizio a canale: la copertura mediterranea per eccellenza.
 - **Cordolo in cls** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -551,6 +559,8 @@
 ## G
 - **Gallerie ferroviarie** — Opere sotterranee · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Costruzione e adeguamento delle gallerie ferroviarie, dal raddoppio sezionale alla nuova linea.
+- **Gallerie: impermeabilizzazione tra paramento e rivestimento definitivo** — Infrastrutture · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  In galleria l'acqua di montagna cerca il calcestruzzo: la membrana a losanga tra il rivestimento provvisorio e quello definitivo, con il drenaggio che la accompagna, decide se la galleria vivra' asciutta o perdera' per s…
 - **Gateway e integrazione multprotocollo** — Gateway · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Come far parlare insieme KNX, BACnet, Modbus, Zigbee, Matter, cloud.
 - **Gelo e disgelo: getti invernali, materiali e dettagli antigelo** — Azioni climatiche · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
@@ -585,6 +595,8 @@
   Controllo luci: accensioni sceniche, dimmer, presenza, luce naturale integrata (daylight harvesting).
 - **Getto e vibratura del calcestruzzo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Operazioni di getto, costipamento con vibratore a immersione e maturazione umida del calcestruzzo strutturale. L'errore tipico è la segregazione per getto da altezza eccessiva o per iper-vibratura; il controllo è su clas…
+- **Giunti, risvolti e dettagli: dove nascono il 90% dei dissesti** — Dettagli · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Le membrane non perdono quasi mai in campo aperto: perdono ai giunti di getto, ai risvolti, alle emergenze, agli attraversamenti. I dettagli sono il vero prodotto dell'impermeabilizzazione: disegnarli, ordinarli e collau…
 - **Gli acquedotti romani: l'ingegneria dell'acqua per 500 anni** — Capolavori antichi · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   11 acquedotti portavano a Roma 1,1 milioni di m3 di acqua al giorno: più di molte città moderne.
 - **Gli adempimenti autorizzativi dei grandi fotovoltaici: iter, vincoli, tempi** — Autorizzazioni · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
@@ -1113,6 +1125,8 @@
   Il carico viaggia appeso a funi, catene, stralli e ganci: e' la parte meno appariscente e piu' pericolosa di tutto il sistema. Il fattore di utilizzo e la geometria dell'imbragatura decidono se il carico arriva o cade.
 - **Impermeabilizzanti liquidi per zone umide, balconi e terrazzi** — Impermeabilizzazioni · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatura in bagni, balconi e terrazzi. Errore tipico: saltare fasce e angolari nei raccordi parete-pavimento e non rispettare gli spessori per mano…
+- **Impermeabilizzazioni liquide: poliuretano, PMMA e poliurea a spruzzo senza giunti** — Membrane · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Dove le membrane incontrano troppi dettagli (sfiati, emergenze, ringhiere, geometrie curve) la risposta moderna e' il liquido: si applica a rullo o a spruzzo e polimerizza in un manto continuo senza un solo giunto.
 - **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
@@ -1885,6 +1899,10 @@
   Tensioni, deformazioni, stati limite: il linguaggio base di tutto il calcolo strutturale.
 - **Membrana liquida elastomerica** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento liquido poliuretanico o acrilico che polimerizza formando una membrana continua senza giunti.
+- **Membrane bituminose per opere speciali: APP/SBS oltre la copertura piana** — Membrane · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Le membrane bitume-polimero sono il cavallo da tiro dell'impermeabilizzazione italiana: ma su opere speciali (interrati, vasche, rovescie) le regole del tetto piano non bastano: servono armature portanti, protezioni mecc…
+- **Membrane sintetiche PVC-P, FPO/TPO ed EPDM: leggerezza, grandi superfici, serbatoi** — Membrane · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Le membrane sintetiche coprono i campi dove il bitume fatica: grandi superfici continue, serbatoi, geometrie complesse, esposizione UV. Sono sistemi di marca e di posa certificata: il cantiere giusto o niente.
 - **Mense e cucine scolastiche: requisiti igienico-sanitari e flussi** — Servizi di ristorazione · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   La mensa scolastica richiede una progettazione che garantisca la sicurezza alimentare, la fluidità dei pasti e il comfort degli alunni durante i pasti. Le cucine scolastiche sono ambienti di produzione alimentare soggett…
 - **Messa in sicurezza e prevenzione del costruito sismico** — Messa in sicurezza · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
@@ -2023,6 +2041,8 @@
   Pittura con resine silossaniche: traspirante, idrorepellente e duratura: la finitura tecnica per facciate.
 - **Pittura termoisolante e riflettente** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pitture con microsfere cave o pigmenti riflettenti che riducono la dispersione o il surriscaldamento estivo.
+- **Platee e pareti contro terra su esistente: vesciche, cavedii drenanti e risanamento dall'interno** — Opere interrate · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Sull'esistente non si scava: il 90% degli interrati italiani va impermeabilizzato dall'interno, cioe' in pressione negativa. E' il terreno dove si giocano (e si perdono) piu' soldi: malte osmotiche, iniezioni, cavedii is…
 - **Poliuretano a spruzzo (spray foam)** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Schiuma PU rigida a spruzzo che impermeabilizza e isola in un'applicazione: tetti, cavedi, serbatoi.
 - **Pompa di calore aria-acqua** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -2039,6 +2059,8 @@
   Cenni tecnici sulle grandi strutture di acciaio: forme, cantiere e fatica.
 - **Ponti e strutture provvisorie d'emergenza** — Strutture provvisorie · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Ricostruire i collegamenti in giorni: ponti Bailey, passerelle e opere di emergenza.
+- **Ponti e viadotti: l'impermeabilizzazione sotto il manto stradale** — Infrastrutture · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Sotto l'asfalto di un ponte c'e' un impacco che protegge il cls e le armature dall'acqua e dai sali disgelanti: quando fallisce, il degrado arriva alle armature e il conto diventa strutturale. E' la scheda che manca a qu…
 - **Ponti: tipologie e scelta della struttura** — Ponti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Attraversare l'ostacolo: la storia e la tecnologia del ponte.
 - **Poroton (argilla forata ad alta isolazione)** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2427,6 +2449,8 @@
   Gli interventi con impatto significativo subiscono la Valutazione di Impatto Ambientale (VIA) o, a livello di piano, la Valutazione Ambientale Strategica (VAS): un processo che valuta alternative, impatti e misure di mit…
 - **Vasche di laminazione e bacini di espansione** — Bacini · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   L'alleato delle piene: bacini che trattengono l'onda di piena e la restituiscono lentamente.
+- **Vasche di laminazione, serbatoi antincendio e acqua potabile: tenuta e idoneita'** — Vasche e serbatoi · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
+  Le vasche devono tenere l'acqua dentro (serbatoi) o gestirla in sicurezza (laminazione): due problemi diversi con gli stessi materiali. Se poi l'acqua e' potabile, entra in gioco l'idoneita' sanitaria del materiale, non …
 - **Vasche idromassaggio, spa e percorsi benessere: la tecnologia del relax** — Wellness · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifi…
 - **Ventilazione ambienti di lavoro e capannoni** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)

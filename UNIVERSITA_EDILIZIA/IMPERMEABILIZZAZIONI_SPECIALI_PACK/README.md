@@ -1,0 +1,7 @@
+# Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta
+
+Corso di livello L2-L3 (FACOLTA_TECNOLOGIA_E_COSTRUZIONE) sull'impermeabilizzazione oltre la copertura piana ordinaria: regimi idraulici (pressione positiva vs negativa, falda, capillarità), membrane bituminose per opere speciali (doppio strato, protezioni, rinterri), membrane sintetiche (PVC-P, FPO/TPO, EPDM) per grandi superfici e serbatoi, impermeabilizzazioni liquide (poliuretano, PMMA, poliurea a spruzzo), bentonite e sistemi idroespansivi contro terra, risanamento di interrati esistenti in pressione negativa (osmotiche, iniezioni, cavedii drenanti), coperture rovescie e carrellabili, vasche di laminazione e serbatoi (antincendio, irrigui, acqua potabile con D.M. 174/2004), impalcati da ponte sotto manto stradale (EN 14695) e giunti di dilatazione, gallerie (losanga + drenaggio), dettagli e giunti (waterstop, prefabbricati, movimenti di progetto), controlli e collaudi di tenuta (flood test, prove elettroniche, termografia, provini di giunto).
+
+**Schede: 12** — formato JSONL con le 11 chiavi standard dell'Università dell'Edilizia.
+
+Regola metodologica: non ridondante con TETTI_E_COPERTURE_PACK (coperture ordinarie) e POSA_IN_OPERA_PACK (liquidi per zone umide/balconi): qui opere interrate, infrastrutture, vasche e collaudi. Prezzi come fasce indicative con unità; norme solo di consolidata certezza; nessun nome di aziende.

@@ -27,3 +27,6 @@ Tecnologie costruttive, materiali, posa, disegno CAD e BIM.
 - EDILIZIA_AGRICOLA_ZOOTECNICA_PACK (L1-L2) — stalle, ricoveri, suinicoli, serre, silos, cantine, terrazzamenti, vincoli rurali, corrosione zootecnica, sostenibilità agricola, sicurezza
 ## Corsi aggiunti (giro S-U)
 - CAPPOTTO_ETICS_PACK (L2) — isolamento a cappotto: materiali (EPS/lana/XPS/sughero/fibra/aerogel), sistema ETICS a strati, posa, dettagli (zoccolo, davanzali, cappelli, giunzioni), posizione dell'isolamento e muffa interstiziale, ponti termici, antincendio, patologie e riparazioni, cantiere, conto economico — ESAME: ESAMI/CAPPOTTO
+
+## Corsi aggiunti (giro AG)
+- IMPERMEABILIZZAZIONI_SPECIALI_PACK (L2-L3) — regimi idraulici, membrane bituminose/sintetiche/liquide per opere speciali, bentonite, interrati su esistente, coperture rovescie, vasche e serbatoi, ponti (EN 14695), gallerie, giunti e waterstop, collaudi di tenuta — ESAME: ESAMI/IMPERMEABILIZZAZIONI

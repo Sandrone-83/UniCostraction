@@ -548,3 +548,24 @@ Righe aperte nel giro:
 - Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (artt. 371-373 da fonte singola: verificare sul testo GU).
 - Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
 - EPBD (UE) 2024/1275: recepimento nazionale da verificare.
+
+## Giro AG — 2026-10-25, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente conclusa SENZA correzioni (tutti i valori in scheda confermati dalle fonti); nuovo pack IMPERMEABILIZZAZIONI_SPECIALI_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AG1 | Verifica senza correzione | Scheda «Il Conto Termico 3.0»: nota intesa con osservazioni del 22/10/2026, in attesa di GU | Confermata: il decreto correttivo NON risulta pubblicato in GU ne' adottato in via definitiva; la stampa di settore conferma che il testo puo' ancora cambiare e che le nuove regole si applicheranno solo dopo la pubblicazione | cogenlab.com (23/10/2026: «non ancora in vigore... resta da vedere quali richieste il MASE accogliera'»), gruppoinnoveco.it (22/10/2026) — verifica web 25/10/2026 |
+| AG2 | Verifica senza correzione | Scheda detrazioni: nota capitolo «casa» della manovra 2027 (Giro AF: proroga 50%/36%, bonus mobili, Ecobonus 65%, CT 700-800 mln; NON approvato) | Confermata: nessun testo del Ddl di Bilancio 2027 ancora pubblicato; il quadro resta quello delle ipotesi in discussione | studiofrancescaseniga.it (24/10/2026), iter Ddl non ancora concluso — verifica web 25/10/2026 |
+| AG3 | Verifica senza correzione | Scheda «Gli incentivi delle CER»: tariffe 80/70/60 + integrazione max 120/110/100, 20 anni, entro 5 GW e 31/12/2027; PNRR 40% chiuso; nota IVA Risposta AdE 22/2026 | Riconfermato tutto dalla stessa fonte aggiornata al 24/10/2026; nessuna variazione | greenmood.org (aggiornato 24/10/2026) — verifica web 25/10/2026 |
+| AG4 | Verifica senza correzione | Scheda «Il Reddito Energetico»: sportello chiuso, decreto di rifinanziamento atteso | Confermato: nessuna pubblicazione nuova rinvenuta | monitoraggio fonti di settore — verifica web 25/10/2026 |
+| AG5 | Nuovo pack | — | IMPERMEABILIZZAZIONI_SPECIALI_PACK (12 schede, L2-L3, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): fondamenti dei regimi idraulici, membrane bituminose/sintetiche/liquide per opere speciali, bentonite, interrati su esistente, coperture rovescie, vasche e serbatoi, ponti e gallerie, dettagli e waterstop, collaudi di tenuta. Norme solo di consolidata certezza (serie UNI EN 13707/13956/13969/1928/14891/1504, EAD ex ETAG 005, EN 14695, UNI EN 12845, D.M. 174/2004, Reg. UE 305/2011, NTC D.M. 17/1/2018, D.Lgs 152/2006) | Norme di consolidata certezza; prezzi come fasce di letteratura/esperienza; nessun nome di azienda |
+| AG6 | Nuovo esame | — | ESAMI/IMPERMEABILIZZAZIONI: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 81 esami su 79 pack) | build_esami_giro5.py |
+| AG7 | Validazione | — | Validazione globale: 79 pack, 1061 schede, 81 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti. Nota nota invariata: 109 schede storiche senza prefisso «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: VERIFICA PRIORITARIA al prossimo giro — pubblicazione del correttivo in GU e Regole Applicative GSE; poi conferma dei contenuti sul testo definitivo.
+- Legge di Bilancio 2027: attesa del testo del Ddl (presentazione alle Camere); sorte di proroga 50%/36%, bonus mobili, Ecobonus 65%, potenziamento CT.
+- Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (artt. 371-373 da fonte singola: verificare sul testo GU).
+- Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: recepimento nazionale da verificare.
