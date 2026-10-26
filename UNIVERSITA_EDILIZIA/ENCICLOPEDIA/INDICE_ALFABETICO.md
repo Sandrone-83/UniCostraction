@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1223 voci enciclopediche tratte da 80 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1235 voci enciclopediche tratte da 81 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -33,6 +33,8 @@
   Impermeabilizzare non significa 'mettere una guaina': significa decidere da che parte spinge l'acqua, con che pressione, per quanti anni e con quali accessi di manutenzione. La strategia (barriera stagna, sistema drenant…
 - **Acqua refrigerata e torri di raffreddamento nei grandi edifici** — Grandi impianti · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Oltre una certa scala non si porta più refrigerante negli ambienti: si produce acqua refrigerata (chilled water) in centrale termica e la si distribuisce alle unità di trattamento dell'aria, con le torri di raffreddament…
+- **Acque di prima pioggia: sbarramento, trattamento e scarico a norma** — Trattamento · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  I primi millimetri di pioggia lavano le superfici e concentrano solidi, oli e metalli: la norma italiana li distingue dalle seconde piogge e ne disciplina raccolta, trattamento e scarico. E' il capitolo che decide se un …
 - **Acquedotti e reti idriche: adduttrici, serbatoi e ripartizione** — Acque potabili · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   L'acqua che arriva in casa: le opere di captazione, adduzione e distribuzione.
 - **Acustica percepita: il comfort che non si vede** — Acustica percepita · corso: *Master in design* (`MASTER_DESIGN_PACK`)
@@ -57,6 +59,8 @@
   Un impianto sportivo può essere aperto al pubblico solo con le autorizzazioni dovute: agibilità statica e alle attività sportive, conformità antincendio dove richiesta, idoneità delle superfici di gioco e delle attrezzat…
 - **Agrivoltaico in Italia: il percorso degli incentivi dal DM 436/2023 al 2026** — Agrivoltaico incentivi · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   L'agrivoltaico italiano ha un percorso di incentivi dedicato nato con il PNRR: contributo del 40% e tariffa per 20 anni, con regole operative del GSE aggiornate nel 2026. Conoscere le tappe evita di citare bandi chiusi e…
+- **Alberi come infrastruttura blu-verde: fosse drenanti e cellule radicolari** — Verde · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  L'albero urbano e' la sola infrastruttura che apprezza nel tempo: intercetta la pioggia in chioma, evapotraspira, ombreggia e — se la fossa e' progettata — gestisce volumi di runoff. Le cellule radicolari (soil cells) da…
 - **Algebra di base: equazioni, proporzioni, percentuali** — Algebra · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Le operazioni che governano computi, scale, dosaggi e rendimenti.
 - **Allevamenti suinicoli: capannoni, ventilazione e gestione dei liquami** — Allevamenti suini · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -109,6 +113,8 @@
   L'ascensore è il cuore dell'accessibilità: le norme definiscono porte, comandi, segnali e dimensioni per rendere l'impianto usabile da chi si muove in carrozzina, da non vedenti e da chiunque abbia ridotte capacità motor…
 - **Ascensori e piattaforme elevatrici: obblighi e scelte** — Ascensori · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   L'abbattimento barriere verticali si fa con ascensori (obbligatori sopra certi piani/attività), piattaforme elevatrici (per dislivelli ridotti e carichi limitati) e montacarichi; gli impianti sono sottoposti a regole pre…
+- **Asfalto drenante e calcestruzzo poroso: la pavimentazione continua che beve** — Pavimentazioni · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Le pavimentazioni drenanti continue (asfalto poroso, conglomerato drenante, calcestruzzo permeabile) lasciano passare l'acqua attraverso la struttura invece di farla scorrere sopra: zero ruscellamento superficiale in ese…
 - **Assemblaggi bullonati: sistemi HR e svolgimento A/B/C** — Assemblaggi · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   I collegamenti a bullone ad alta resistenza: precarico, superfici e calcolo.
 - **Assicurazioni del cantiere: CAR, postuma e tutela legale** — Assicurazioni · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
@@ -827,6 +833,8 @@
   Le verifiche rapide che ogni tecnico deve saper fare senza computer.
 - **Il calcolo del fabbisogno termico: da dove si parte** — Fabbisogno · corso: *Dimensionamento degli impianti termotecnici* (`DIMENSIONAMENTO_TERMOTECNICO_PACK`)
   La prima pagina di ogni progetto termico: come si calcola il carico di progetto.
+- **Il calcolo idrologico delle opere di mitigazione: metodo razionale, invaso e curve pluviometriche** — Fondamenti · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Le opere SUDS si dimensionano su numeri, non sull'estetica: portate di progetto, volumi di invaso, tempi di svuotamento. I due strumenti base del progettista italiano sono il metodo razionale per le portate e il metodo d…
 - **Il calcolo illuminotecnico: metodo del flusso totale e software** — Progetto · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   Il calcolo serve a garantire i livelli richiesti dalla norma prima di comprare un apparecchio: il metodo del flusso totale da' una stima rapida, i software fotometrici danno la simulazione vera.
 - **Il calcolo mentale e le stime rapide: l'arma segreta del professionista** — Calcolo mentale · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -1159,6 +1167,8 @@
   L'intervento antisismico sul costruito storico mira al miglioramento della sicurezza senza snaturare le strutture esistenti, privilegiando tecniche compatibili e il più possibile reversibili. Interventi tipici sono il ri…
 - **Intonaco civile tradizionale e premiscelato** — Finiture · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Realizzazione di intonaci interni ed esterni a più strati (rinzaffo, arriccio, finitura). Errore tipico: applicare su supporto polveroso o troppo assorbente senza preparazione (distacchi a scaglie) e non rispettare i tem…
+- **Invarianza idraulica e mitigazione: il principio che sta cambiando l'urbanistica italiana** — Fondamenti · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  L'invarianza idraulica e idrogeologica e' il principio per cui un intervento urbanistico non deve aumentare la portata ne' peggiorare il regime dei deflussi rispetto allo stato ante-operam: cio' che il terreno assorbiva …
 - **Inverter di centrale e rete interna: dal modulo alla cabina di consegna** — Inverter e rete interna · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Dalla corrente continua dei moduli alla corrente alternata di rete: inverter, cabine di trasformazione e la rete interna in cavidotto sono il sistema nervoso del campo. La scelta tra string inverter e central inverter ca…
 - **Involucro edilizio in clima rigido: zona climatica F, ponti termici e condensa** — Involucro in clima rigido · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
@@ -1859,6 +1869,8 @@
   Il tetto verde e' un organismo: richiede manutenzione minima ma vera, e il suo collaudo iniziale decide i decenni seguenti. Il piano di manutenzione e' parte del progetto (UNI 11235) e la sua assenza e' il primo sintomo …
 - **Manutenzione e gestione del patrimonio infrastrutturale** — Gestione opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Le opere invecchiano: monitoraggio, manutenzione programmata, digitalizzazione del patrimonio.
+- **Manutenzione e monitoraggio delle NBS: il capitolo che decide se funzionano** — Gestione · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Le soluzioni basate sulla natura non falliscono in fase di progetto: falliscono in fase di gestione. Clogging delle pavimentazioni, sedimenti nei forebay, vegetazione abbandonata, valvole bloccate: un piano di manutenzio…
 - **Manutenzione programmata e risparmio energetico** — Gestione e sicurezza · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   La sostenibilità economica di un impianto si gioca in esercizio: manutenzione programmata delle superfici, delle strutture e degli impianti tecnologici, insieme a scelte di efficientamento energetico che incidono sui con…
 - **Manutenzione, deprezzamento e relamping** — Manutenzione · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
@@ -1873,6 +1885,8 @@
   Pietre naturali lucidate o levigate: marmo, travertino, granito, ardesia: il pregio eterno.
 - **Masselli autobloccanti** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Blocchi in cls o clinker che si incastrano su letto sabbioso: pavimentazioni permeabili e riparabili.
+- **Masselli autobloccanti permeabili e grigliati: la drenante discreta** — Pavimentazioni · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  La drenante discreta non fa passare l'acqua attraverso il materiale ma attraverso i giunti e i fori: masselli con giunti allargati riempiti di aggregato fine, grigliati con celle a terra o ghiaia. Sistema robusto, ripara…
 - **Massetti e autolivellanti premiscelati** — Sottofondi e massetti · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Sottofondi autolivellanti cementizi o a base anidrite per regolarizzare supporti prima di rivestimenti sottili. Errore tipico: saltare il primer o applicare su supporto polverulento (distacco a fogli); controllo: test di…
 - **Massetto tradizionale sabbia-cemento** — Sottofondi e massetti · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -2163,6 +2177,8 @@
   Dal modello BIM si estraggono le quantità (quantity take-off): volumi di muratura, superfici di intonaco, metri lineari di tubazione, numero di porte per tipo; i software italiani integrano i prezzari (Prezzario DEI, REG…
 
 ## R
+- **Rain garden e celle di bioritenzione: stratigrafia, dimensionamento e piante** — Bioretention · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Il rain garden e' una depressione vegetata che raccoglie l'acqua meteorica dalle superfici vicine, la filtra attraverso un substrato ingegnerizzato e la restituisce per infiltrazione, evapotraspirazione o scarico ritarda…
 - **Rame** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Metallo rosso per tubazioni idrauliche, elettriche e lattoneria: durabilità millenaria, battericida naturale.
 - **Rappresentazione dell'architettura: disegno, rendering, realtà virtuale** — Rappresentazione · corso: *Architettura* (`ARCHITETTURA_PACK`)
@@ -2271,6 +2287,8 @@
   I sensori urbani (aria, rumore, livelli idraulici, parcheggi, cassonetti) parlano con reti a basso consumo: la scelta tra LoRaWAN proprietario comunale e NB-IoT dell'operatore decide costi, autonomia e governance per die…
 - **Serbatoi e opere di contenimento** — Serbatoi · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idrostatica, la tenuta, la pulizia e la sicurezza; materiali: calcestruzzo (getto in opera o prefabbricato), acciaio, GRP (plastica rinforzata).
+- **Serbatoi geocellulari interrati: la detenzione modulare sotto piazzali** — Detenzione · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Quando il volume di laminazione non trova posto in superficie, si costruisce sotto: i serbatoi geocellulari (moduli in plastica ad alta superficie vuota) realizzano invasi interrati sotto parcheggi e piazzali, eventualme…
 - **Serre per orticoltura e florovivaismo: strutture e climatizzazione** — Serre · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   La serra come macchina agricola: struttura, copertura e controllo del clima interno.
 - **Sezioni, spaccati e dettagli costruttivi** — Sezioni e spaccati · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -2355,6 +2373,8 @@
   Corteccia di sughero tostata in granuli agglomerati: il re degli isolanti naturali.
 - **Supercondomini, contratti di quartiere e riqualificazione di edilizia residenziale pubblica** — Innovazione · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   La scala del condominio si allarga: supercondomini, contratti tipo e la riqualificazione dei grandi complessi.
+- **Swales e canali vegetati: convogliare trattando invece di tubare** — Conveyance · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Lo swale e' un canale superficiale vegetato a sezione larga e bassa che convoglia l'acqua rallentandola, filtrandola e facendone infiltrare una parte. Sostituisce o riduce la rete tubata tradizionale e trasforma l'infras…
 
 ## T
 - **Taglie e architettura d'impianto: micro (fino a 20 kW), mini (20-200 kW) e il confine col grande eolico** — Tecnologia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
@@ -2413,6 +2433,8 @@
   Tribune e spalti sono la parte dell'impianto che governa la sicurezza collettiva: capienza ammissibile, posti per metro quadrato, vie di circolazione, scale e tempi di evacuazione verso l'esterno.
 - **Trigonometria applicata: pendenza, altezze, triangoli qualsiasi** — Trigonometria · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Sen, cos, tan: lo strumento per misurare ciò che non si può arrivare a toccare.
+- **Trincee drenanti e pozzi perdenti: restituire l'acqua al sottosuolo** — Infiltrazione · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  Quando il terreno infiltra e la falda e' profonda, la soluzione piu' economica e piu' giusta e' restituire l'acqua meteorica al sottosuolo: trincee drenanti (lineari, sotto pavimentazioni o verde) e pozzi perdenti (puntu…
 - **Tubi corrugati e canaline** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tubi flessibili in PVC o canaline in plastica/metallo che proteggono i cavi.
 - **Tubo fognante forato (drenaggio)** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2487,6 +2509,8 @@
   Ricambio d'aria con recupero di calore: obbligatoria (di fatto) nelle case efficienti e passive.
 
 ## W
+- **Wetland costruiti e fitodepurazione per acque meteoriche urbane** — Trattamento · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
+  I wetland costruiti (superficial flow o a flusso sottosuperficiale) trattano le acque meteoriche come tratterebbero un reflusso leggero: sedimentazione, filtrazione vegetale, processi biologici. Per le acque di piazzale …
 - **Wi-Fi domotico** — Wireless · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Dispositivi smart direttamente sulla rete Wi-Fi dell'edificio.
 

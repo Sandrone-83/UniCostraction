@@ -30,3 +30,6 @@ Tecnologie costruttive, materiali, posa, disegno CAD e BIM.
 
 ## Corsi aggiunti (giro AG)
 - IMPERMEABILIZZAZIONI_SPECIALI_PACK (L2-L3) — regimi idraulici, membrane bituminose/sintetiche/liquide per opere speciali, bentonite, interrati su esistente, coperture rovescie, vasche e serbatoi, ponti (EN 14695), gallerie, giunti e waterstop, collaudi di tenuta — ESAME: ESAMI/IMPERMEABILIZZAZIONI
+
+## Corsi aggiunti (giro AH)
+- INFRASTRUTTURE_VERDI_BLU_PACK (L2-L3) — drenaggio urbano sostenibile (SUDS) e NBS: invarianza idraulica, calcolo idrologico (metodo razionale/invaso), rain garden, swales, pavimentazioni drenanti continue e discrete, trincee e pozzi perdenti, prima pioggia e trattamento, wetland, serbatoi geocellulari, alberi e cellule radicolari, manutenzione — ESAME: ESAMI/INFRASTRUTTURE_VERDI_BLU

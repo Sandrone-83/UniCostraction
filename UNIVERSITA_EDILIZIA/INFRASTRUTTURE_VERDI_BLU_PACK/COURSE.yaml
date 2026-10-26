@@ -1,0 +1,9 @@
+corso: "Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 152/2006, D.Lgs 49/2010, Direttiva 2007/60/CE, Direttiva 2000/60/CE, UNI EN 752, serie UNI EN 13108, UNI EN 1338, NTC D.M. 17/1/2018, D.Lgs 36/2023; metodi razionale e dell'invaso (pratica consolidata); strumenti di invarianza regionali e locali (da verificare caso per caso)"
+nota_metodologica: "Drenaggio urbano sostenibile (SUDS) e soluzioni basate sulla natura (NBS) con taglio progettuale-idraulico: invarianza idraulica e quadro normativo, calcolo idrologico (metodo razionale, metodo dell'invaso, curve pluviometriche), rain garden e bioritenzione, swales, pavimentazioni drenanti continue (asfalto poroso, cls drenante) e discrete (masselli permeabili, grigliati), trincee drenanti e pozzi perdenti, acque di prima pioggia e trattamento (dissabbiatori, disoleatori), wetland costruiti, serbatoi geocellulari interrati, alberi e cellule radicolari, manutenzione e monitoraggio. NON ridondante con: DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK (grandi opere e bacini di scala idrografica), VERDE_TETTI_FACCIATE_PACK (verde pensile), IMPERMEABILIZZAZIONI_SPECIALI_PACK (tenuta di vasche e opere interrate), SMART_CITY_PACK (sensoristica e gestione digitale dell'acqua), VERDE_ARREDO_URBANO_PACK (taglio arredo: qui il taglio e' idraulico-progettuale con dimensionamenti). Prezzi come fasce indicative; norme solo di consolidata certezza, strumenti locali citati come da verificare; nessun nome di azienda."
