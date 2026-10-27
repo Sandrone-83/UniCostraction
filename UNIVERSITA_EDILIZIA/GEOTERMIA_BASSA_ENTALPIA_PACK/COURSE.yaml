@@ -1,0 +1,9 @@
+corso: "Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 28/2011, D.Lgs 152/2006, D.Lgs 192/2005 e s.m.i., D.Lgs 199/2021, D.M. 7/8/2025 (Conto Termico 3.0), NTC D.M. 17/1/2018, D.M. 37/2008, D.Lgs 81/2008, DPR 380/2001, D.Lgs 36/2023, serie UNI/TS 11300, UNI EN 14825; TRT e bilanciamento pluriennale secondo pratica consolidata internazionale; norme regionali citate come da verificare"
+nota_metodologica: "Geotermia a bassa entalpia con taglio avanzato e operativo: fisica del sottosuolo come volano termico, conducibilita' e TRT, sonde verticali (perforazione, cementazione, prove), collettori orizzontali, pali energetici e opere termoattive (coordinamento strutturale-termico), sistemi aperti di falda (emungimento, reimmissione, chimica), pompa di calore geotermica e SPF, bilanciamento termico pluriennale e deriva, iter autorizzativo e tutela acque (quadro nazionale + strumenti regionali da verificare), integrazione NZEB con FV e free cooling, conto economico e incentivi (con rimando a verifica su fonti ufficiali), cantiere e collaudo documentato. NON ridondante con RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK (unica scheda di panorama sulla bassa entalpia: qui il corso completo) e INFRASTRUTTURE_VERDI_BLU_PACK (drenaggio: li' il sottosuolo infiltra acqua meteorica, qui scambia calore). Prezzi come fasce indicative; norme solo di consolidata certezza; nessun nome di azienda."

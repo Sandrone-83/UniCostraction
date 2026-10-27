@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1235 voci enciclopediche tratte da 81 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1247 voci enciclopediche tratte da 82 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -275,6 +275,8 @@
   La verifica finale: cosa controlla il collaudo e cosa certifica la perizia di conformità.
 - **Collettori e valvole** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Collettori con valvole di regolazione e intercettazione: la 'centralina' di ogni impianto idrico.
+- **Collettori orizzontali e trincee: la geotermia di superficie** — Scambiatori · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Dove c'e' superficie libera e il terreno e' umido, il collettore orizzontale scambia con il primo metro e mezzo di terreno a costi bassissimi: tubi in polietilene posati in trincea o distesi a spirale. E' la geotermia de…
 - **Collettori parabolici lineari: la tecnologia matura del CSP** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   I collettori parabolici (parabolic trough) sono la tecnologia CSP piu' installata al mondo: file di specchi cilindro-parabolici inseguono il sole su un asse e concentrano la radiazione su un tubo ricevitore posto nel fuo…
 - **Colonnine di ricarica veicoli elettrici** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -297,6 +299,8 @@
   La gabbia amministrativa del mare: chi può costruire, dove e con quali autorizzazioni.
 - **Condensa e muffa negli edifici esistenti: diagnosi e cure** — Muffa · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   La muffa nei punti freddi del muro è quasi sempre condensa: l'aria umida degli ambienti tocca la superficie sotto la temperatura di rugiada e l'acqua compare dal nulla. Capire se il fenomeno è superficiale (ponte termico…
+- **Conducibilita' termica del terreno e TRT: dimensionare su dati misurati, non su tabelle** — Indagini · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  La resa di un campo sonde dipende da un numero: la conducibilita' termica del terreno. Le tabelle danno ordini di grandezza; il progetto serio si fa su misura in sito. Il Thermal Response Test (TRT) su una sonda pilota e…
 - **Conglomerato bituminoso** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Miscela di bitume e aggregati per manti stradali: flessibile, veloce, riparabile.
 - **Connessione alla rete: CEI 0-21, CEI 0-16, SPI e l'iter col distributore** — Impianti · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
@@ -311,6 +315,8 @@
   Misurare il calore consumato da ogni unità immobiliare: obbligatoria nei condomini centralizzati.
 - **Continuità elettrica: UPS, gruppi elettrogeni e switch automatici** — Continuità elettrica · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   La corrente del data center arriva da due strade: la rete e il diesel. L'UPS (gruppo di continuità) copre i secondi dello switch, il gruppo elettrogeno copre le ore del blackout, l'ATS (commutatore automatico) sceglie la…
+- **Conto economico della geotermia: investimento, incentivi e tempi di ritorno** — Economia · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  La geotermia a bassa entalpia si giudica sul ciclo di vita: capex piu' alto dell'aerotermia, opex tra i piu' bassi della climatizzazione, vita degli scambiatori superiore all'edificio. Gli incentivi italiani (Conto Termi…
 - **Conto Termico 3.0, CEE e detrazioni per impianti** — Incentivi · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Gli incentivi 2025+ per la riqualificazione energetica e gli impianti efficienti.
 - **Conto Termico 3.0: accesso diretto, prenotazione, pratica** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -581,6 +587,8 @@
   Sfruttamento del calore del sottosuolo con sonde di scambio per alimentare pompe di calore.
 - **Geotermia ad alta entalpia** — Geotermia alta entalpia · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   La geotermia da fluidi caldi profondi per produzione elettrica e diretta.
+- **Geotermia, fotovoltaico e free cooling: l'edificio NZEB che si regge su tre gambe** — Integrazione · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  La pompa di calore geotermica e' elettrica: accoppiata al fotovoltaico diventa climatizzazione a fonte rinnovabile in loco; accoppiata al free cooling geotermico estivo azzera quasi il consumo di raffrescamento. E' lo sc…
 - **Geotessuto** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tessuto sintetico (polipropilene/poliestere) non tessuto o intrecciato: separazione, filtrazione, rinforzo.
 - **Gestione dei rifiuti di cantiere: obblighi, documenti e trappole** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
@@ -815,6 +823,8 @@
   IFC (Industry Foundation Classes, ISO 16739) è lo schema aperto con cui i modelli BIM passano tra software diversi: geometria, proprietà, gerarchie di oggetti; è la base dell'openBIM (collaborazione senza vincolo a un un…
 - **Il bambù strutturale certificato: il materiale che cresce in 5 anni** — Bambù · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   Il bambù ha resistenza specifica superiore all'acciaio e cresce come erba: nei tropici costruisce da millenni. La versione moderna 'certificata' (trattata e testata) arriva in Europa per opere leggere e temporanee.
+- **Il bilanciamento termico pluriennale: la deriva del terreno e' il vincolo vero** — Progettazione · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Un campo geotermico non si dimensiona sulla potenza di punta: si dimensiona sull'energia annua scambiata e sul suo segno. Se estraggo sempre e non restituisco mai, il terreno si raffredda anno dopo anno e il sistema muor…
 - **Il BIM nelle gare pubbliche italiane** — BIM e gare · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Con il DM 312/2021 il BIM è obbligatorio per le commesse pubbliche oltre soglia progressiva (interamente dal 2025 per lavori > 1 M€): gare con requisiti informativi, consegna IFC, a volte premi di qualità informativa; le…
 - **Il blocco di potenza: generatore di vapore, turbina e bilancio di centrale** — Accumulo e blocco di potenza · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
@@ -1183,6 +1193,8 @@
   Fogli con superfici riflettenti (alluminio) che riducono l'irraggiamento: il 'mito' e la realtà dei sottotetti.
 - **Iter autorizzativo e connessione: VIA, autorizzazione unica e incentivi** — Iter autorizzativo · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Un impianto CSP e' un progetto industriale: VIA, autorizzazione unica, connessione alla rete, eventuale accesso agli incentivi FER. L'iter dura anni e determina la fattibilita' piu' della tecnologia.
+- **Iter autorizzativo e tutela delle acque sotterranee: prima si verifica, poi si perfora** — Iter · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  La geotermia a bassa entalpia tocca il sottosuolo e spesso le acque: il quadro autorizzativo italiano e' nazionale nei principi (tutela delle acque) e regionale nelle procedure. La parola d'ordine del progettista: verifi…
 
 ## J
 - **Jet grouting, iniezioni e miglioramento dei terreni** — Consolidamento terreni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -1415,6 +1427,8 @@
   Il territorio si classifica in sei classi acustiche (I-VI, dalla più silenziosa alla più rumorosa) con limiti di immissione differenziati per periodo (diurno/notturno) e per tipo di sorgente; la zonizzazione acustica la …
 - **La geotecnica in formule: portanza, spinta, cedimenti** — Geotecnica · corso: *Formulario di calcolo strutturale* (`FORMULARIO_STRUTTURE_PACK`)
   Le formule del terreno: capire cosa regge e cosa spinge.
+- **La geotermia a bassa entalpia: il sottosuolo come sorgente e volano termico** — Fondamenti · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Sotto i primi metri di terreno la temperatura si stabilizza intorno a valori prossimi alla media annua dell'aria del luogo (in Italia tipicamente 10-14 C oltre i 10-15 m di profondita'). La geotermia a bassa entalpia usa…
 - **La gestione dei fumi: sfumatoi, pressioni e il controllo dell'evacuazione** — Gestione fumi · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   Nell'incendio la vittima n.1 è il fumo: le sale gremite degli edifici pubblici si evacuano in sicurezza se i fumi vanno dove li mandiamo noi. La gestione attiva dei fumi usa sfumatoi, ventilazione e pressioni controllate…
 - **La lattoneria: grondaie, pluviali e tutti i particolari che fanno durare il tetto** — Lattoneria · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -1481,6 +1495,8 @@
   Come si costruisce e si affronta un contenzioso tecnico-edilizio con la testa.
 - **La piattaforma dati urbana e la control room: dove i dati diventano servizio** — Dati e piattaforme · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
   Sensori senza piattaforma sono numeri persi: la piattaforma dati comunale raccoglie, storicizza e rende leggibili i dati del territorio. La control room e' il suo volto operativo: cruscotti, allarmi, stato dei servizi in…
+- **La pompa di calore geotermica: selezione, prestazioni e integrazione** — Impianto · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Il cuore del sistema e' una pompa di calore acqua-acqua (o salamoia-acqua): la sorgente stabile le permette prestazioni stagionali che l'aerotermia non raggiunge. Ma la macchina e' solo meta' del sistema: l'altra meta' e…
 - **La pompa di calore in formule: COP, energia, risparmio** — Pompe di calore formule · corso: *Formulario di fisica dell'edilizia e degli impianti* (`FORMULARIO_FISICA_IMPIANTI_PACK`)
   La macchina che moltiplica l'energia: come si calcola il vantaggio reale.
 - **La pompa di calore: il circuito frigorifero al servizio dell'acqua** — Pompe di calore · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -1985,6 +2001,8 @@
 ## P
 - **Pacometro, misura dei copriferri e georadar (GPR)** — Prove sul calcestruzzo · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Localizzazione delle armature, misura del copriferro e stima del diametro dei ferri senza demolire. L'errore tipico è fidarsi della stima del diametro data dallo strumento su ferri ravvicinati; il controllo è la verifica…
+- **Pali energetici e opere di fondazione termoattive: la struttura che climatizza** — Scambiatori · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Se l'edificio ha bisogno di pali di fondazione, quei pali possono diventare scambiatori geotermici: si immergono circuiti in polietilene nella gabbia d'armatura prima del getto e la fondazione lavora due volte. Il costo …
 - **Pannelli di tamponamento e pareti sandwich prefabbricate** — Pareti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La pelle dell'edificio industrializzata: pannelli portanti e non portanti, isolati in sandwich.
 - **Pannelli fonoassorbenti** — Isolanti acustici · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2013,6 +2031,8 @@
   Classi di qualità del combustibile legnoso: il rendimento di una caldaia nasce dal legno.
 - **Perché costruire in legno: il materiale che respira** — Fondamenti · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno è il più antico dei materiali da costruzione e il più moderno: rinnovabile (cresce), sequestra CO2 (un m³ di legno stocca ~1 tonnellata di CO2), leggero (5 volte più del calcestruzzo), isolante naturale, lavorab…
+- **Perforazione, prove e collaudo: gli errori geotermici si pagano per trent'anni** — Cantiere · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Il cantiere geotermico concentra il rischio in poche settimane: perforazioni, cementazioni, allacci, collaudo. Gli errori fatti qui non si vedono in superficie e non si riparano: la difesa e' un protocollo di verifica do…
 - **Perizia assicurativa e liquidazione dei sinistri edilizi** — Sinistri · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   Come si valuta e si liquida un sinistro su costruzioni e cantiere.
 - **Perizia dei danni edilizi: infiltrazioni, umidità e dissesti** — Danno tecnico · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
@@ -2115,6 +2135,8 @@
   Installazione di finestre e porte esterne con controtelaio, fissaggi meccanici e giunto di posa a tre livelli. Errore tipico: schiuma espansiva come unica tenuta (si degrada ai UV e perde adesione) e fissaggi troppo radi…
 - **Power-to-Heat: sfruttare l'eccedenza fotovoltaica in calore** — Integrazione FV-termica · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Conversione dell'elettricità rinnovabile in eccedenza in calore utile, con o senza accumulo.
+- **Pozzi di falda (open loop): emungimento e reimmissione dell'acqua di falda** — Scambiatori · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  Il sistema a circuito aperto preleva acqua di falda, la attraversa nello scambiatore della pompa di calore e la reimmette nel medesimo acquifero: la massima efficienza geotermica disponibile, subordinata a portata, autor…
 - **Prefabbricazione robotizzata (off-site, DfMA)** — Off-site automation · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Fabbriche con robot saldatori, carroponte CNC e linee automatizzate per componenti edilizi.
 - **Prese e comandi esterni** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2329,6 +2351,8 @@
   Quando la strada non basta, i materiali volano o scorrono su funi: teleferiche da cantiere per i lavori lunghi, elicottero per i trasporti concentrati, gru a fune e argani per i siti impervi. La scelta e' economica oltre…
 - **Sollevamento, raddrizzamento e messa in asse di edifici esistenti** — Sollevamento opere · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
+- **Sonde geotermiche verticali: perforazione, immissione e cementazione** — Scambiatori · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
+  La sonda verticale e' lo scambiatore geotermico piu' diffuso: un foro profondo, un circuito in polietilene immerso e una cementazione termoconduttiva che chiude l'intercapedine. Semplice nel concetto, implacabile nell'es…
 - **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   Il cantiere agricolo come centrale energetica: integrazione di FV, biogas ed efficienza negli edifici rurali.
 - **Spese generali, utile d'impresa e oneri accessori** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
