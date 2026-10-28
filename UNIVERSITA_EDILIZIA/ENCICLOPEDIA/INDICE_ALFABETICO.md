@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1247 voci enciclopediche tratte da 82 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1259 voci enciclopediche tratte da 83 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -815,6 +815,8 @@
   Il vetro intelligente cambia le facciate: elettrocromico (la trasmissione luminosa cambia con una tensione: si scurisce elettronicamente come gli occhiali fotocromatici ma controllato), fotovoltaico trasparente o semitra…
 - **I vincoli: paesaggistico, idrogeologico, archeologico, naturalistico** — Vincoli · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Il territorio è attraversato da vincoli sovrapposti: paesaggistico (Codice dei beni culturali, D.Lgs 42/2004: nulla osta Soprintendenza per quasi tutto il territorio italiano), idrogeologico (aree di pericolosità PAI/PGR…
+- **IBC, IRC, ASCE 7 e NFPA: i codici americani e il confronto col sistema europeo** — Internazionale · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Chi lavora con committenti internazionali incontra il sistema americano: International Building Code (IBC) per l'edilizia, IRC per il residenziale, ASCE 7 per i carichi, NFPA per l'antincendio, ACI/AISC per i materiali. …
 - **Idraulica di base per le costruzioni: portate, canali, condotte** — Idraulica · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Acqua in pressione e a pelo libero: il minimo indispensabile per progettare opere idrauliche.
 - **Idropittura (pittura murale)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1071,6 +1073,8 @@
   Il Reddito Energetico nazionale (GSE, istituito dal D.M. MASE 8 agosto 2023, operativo dal maggio 2024) copre fino al 100% del costo di un impianto fotovoltaico da 2 a 6 kW per i nuclei con ISEE fino a 15.000 euro (30.00…
 - **Il regime forfettario per artigiani edili: requisiti, coefficiente di redditività e limiti** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda sul regime forfettario di cui all'art. 1, commi da 54 a 89, della L. 190/2014, applicabile ai professionisti e imprenditori individuali, inclusi gli artigiani edili che operano come ditta individuale. Copre i requ…
+- **Il Regolamento (UE) 305/2011 (CPR): il mercato unico dei prodotti da costruzione** — CPR · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Il Construction Products Regulation e' la legge europea dei materiali da costruzione: stabilisce come un prodotto dimostra le sue prestazioni e circola nel mercato unico. Non e' un marchio di qualita': e' un sistema di d…
 - **Il retrofit del condominio: delibere, riparti e impianto centralizzato** — Condominio · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Il condominio e' il terreno piu' difficile e piu' promettente del retrofit: parti comuni da isolare, centrale termica unica da elettrificare, decine di proprietari da convincere. La tecnica e' la stessa dell'unifamiliare…
 - **Il riciclo per filiera: acciaio, gesso, bitume, legno, calcestruzzo** — Materiali e filiere · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
@@ -1097,6 +1101,8 @@
   La figura chiave: cosa deve fare l'amministratore e dove risponde dei danni.
 - **Il sistema costruttivo a prefabbricati: logica e campi d'impiego** — Sistema costruttivo · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   L'industrializzazione dell'edilizia: elementi prodotti in stabilimento e assemblati in cantiere.
+- **Il sistema degli Eurocodici (EN 1990-1999): struttura, NDP e Annessi Nazionali** — Eurocodici · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Gli Eurocodici sono la famiglia europea delle norme di progettazione strutturale: dieci volumi, una grammatica comune (stati limite, coefficienti parziali), e un meccanismo di adattamento nazionale (i Parametri Determina…
 - **Il sistema dei mezzi di sollevamento in cantiere: classificazione e scelta** — Fondamenti · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
   Sollevare e movimentare e' meta' del lavoro di un cantiere: materiali, prefabbricati, casseforme, attrezzature. Scegliere il mezzo giusto significa dimensionarlo su tre variabili: peso, raggio orizzontale e altezza di so…
 - **Il sistema della protezione civile: ruoli, livelli e codice** — Protezione civile · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
@@ -1189,6 +1195,8 @@
   Irrigazione giardini e giardini pensili guidata da meteo e umidità del suolo.
 - **ISO 19650: gestione informativa dell'edificio** — ISO 19650 · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   La serie ISO 19650 (derivata dal britannico PAS 1192) definisce il processo: Information Requirements del committente (EIR), BIM Execution Plan (BEP) del fornitore, convenzione di denominazione degli oggetti e dei docume…
+- **ISO, EN, UNI: leggere la sigla di una norma come una carta d'identita'** — Internazionale · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  UNI EN ISO 9001, EN 1997-1, UNI/TR, prEN: la sigla di una norma racconta chi l'ha scritta, a che livello vale e in che stato si trova. Saperla leggere evita di citare progetti come norme, guide come requisiti, edizioni n…
 - **Isolante riflettente (multiriflettente)** — Isolanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Fogli con superfici riflettenti (alluminio) che riducono l'irraggiamento: il 'mito' e la realtà dei sottotetti.
 - **Iter autorizzativo e connessione: VIA, autorizzazione unica e incentivi** — Iter autorizzativo · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
@@ -1429,6 +1437,8 @@
   Le formule del terreno: capire cosa regge e cosa spinge.
 - **La geotermia a bassa entalpia: il sottosuolo come sorgente e volano termico** — Fondamenti · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
   Sotto i primi metri di terreno la temperatura si stabilizza intorno a valori prossimi alla media annua dell'aria del luogo (in Italia tipicamente 10-14 C oltre i 10-15 m di profondita'). La geotermia a bassa entalpia usa…
+- **La gerarchia delle fonti tecniche: legge, decreto, norma volontaria, guida** — Fondamenti · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  In edilizia convivono fonti di forza diversa: leggi e decreti (vincolanti), regolamenti UE (direttamente applicabili), norme tecniche UNI/EN/ISO (volontarie, ma...), circolari e guide. Sapere chi comanda cosa e' la prima…
 - **La gestione dei fumi: sfumatoi, pressioni e il controllo dell'evacuazione** — Gestione fumi · corso: *Prevenzione incendi e accessibilità* (`SICUREZZA_ANTINCENDIO_ACCESSIBILITA_PACK`)
   Nell'incendio la vittima n.1 è il fumo: le sale gremite degli edifici pubblici si evacuano in sicurezza se i fumi vanno dove li mandiamo noi. La gestione attiva dei fumi usa sfumatoi, ventilazione e pressioni controllate…
 - **La lattoneria: grondaie, pluviali e tutti i particolari che fanno durare il tetto** — Lattoneria · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
@@ -1485,6 +1495,8 @@
   La verifica rapida dei muri portanti esistenti.
 - **La muratura strutturale: blocchi, setti, rinforzi** — Muratura strutturale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il costruttivo italiano per eccellenza: come regge e come si rafforza.
+- **La norma nel contratto e in cantiere: capitolati, accettazione e responsabilita'** — Pratica · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  La norma tecnica diventa obbligo quando il contratto la richiama: capitolato, computo, piano di posa. Scrivere bene i richiami normativi (norma giusta, edizione giusta, prestazione verificabile) e' la differenza tra un c…
 - **La norma UNI EN 12464-1: livelli di illuminamento per ambiente** — Fondamenti · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   La norma europea (adottata in Italia come UNI EN 12464-1) fissa i valori minimi medi di illuminamento misurati sul piano di riferimento di ciascun ambiente di lavoro: uffici con attivita' di scrittura e lettura, scuole, …
 - **La palestra scolastica: struttura, altezze e sicurezza** — Spazi per l'attività motoria · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
@@ -1601,6 +1613,8 @@
   Piu' l'involucro diventa stagno, piu' l'aria va cambiata a macchina: la VMC con recupero di calore e' l'impianto che nel retrofit garantisce qualita' dell'aria e tiene sotto controllo umidita' e muffe, recuperando il 80-…
 - **La ventilazione ospedaliera: pressioni differenziate e filtrazione** — Affidabilità · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   L'aria negli ospedali è un dispositivo medico: le sale operatorie si mantengono in sovrappressione con aria filtrata HEPA, le camere di isolamento infettivo in depressione, i reparti di immunodepressi in protezione con f…
+- **La via ETA: EAD, EOTA e la valutazione tecnica europea dei prodotti innovativi** — CPR · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Non tutti i prodotti hanno una norma armonizzata: i sistemi innovativi (kit compositi, ancoranti speciali, sistemi a spruzzo) ottengono la marcatura CE attraverso la Valutazione Tecnica Europea (ETA), rilasciata dagli en…
 - **La viabilità in cantiere: il cantiere che non strangola la colla** — Viabilità cantiere · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   Il cantiere in strada o in centro deve convivere con la viabilità: il piano di traffico (PdT) definisce deviazioni, restringimenti, segnaletica temporanea, presidi; in Italia la gestione del traffico in deroga è regolata…
 - **La VMC centralizzata: anatomia della macchina e della rete** — VMC tecnologia · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -1679,6 +1693,8 @@
   Scheda sul rapporto tra le agevolazioni fiscali per il cliente finale (bonus edilizi) e la gestione fiscale dell'impresa edile che esegue i lavori. Copre il ruolo dell'impresa come centro di costo e soggetto obbligato al…
 - **Le dighe record: Hoover, Itaipu, Tre Gole, Grande Dixence** — Capolavori infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   I quattro record mondiali della diga: altezza, produzione, volume, volume.
+- **Le direttive UE che stanno ridisegnando l'edilizia: EPBD 'Case Green', RED III, Ecodesign** — Direttive · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Tre direttive/regolamenti europei stanno cambiando il perimetro del lavoro edile: la EPBD 'Case Green' (prestazione energetica degli edifici), la RED III (rinnovabili) e il regolamento Ecodesign per i prodotti sostenibil…
 - **Le discipline del modello: architettonica, strutturale, MEP** — Discipline e federazione · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Il modello dell'edificio si costruisce per discipline distinte che poi si federano: architettonico (A), strutturale (S), meccanico/impiantistico (M), elettrico (E), idraulico (P); ogni disciplina modella i propri element…
 - **Le EPD: dichiarazioni ambientali di prodotto per l'edilizia** — Prodotti e dichiarazioni · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
@@ -1719,6 +1735,8 @@
   Il rasante (o colore) e le finiture minerali a silossanico con quarzo coprono il segmento tra l'intonaco e la vernice: sono rivestimenti sottili, minerale, resistenti e traspiranti. Conoscerne le differenze tra rasante f…
 - **Le murature perimetrali a telaio: sistema d'involucro e ponti termici** — Murature · corso: *Murature, intonaci e finiture murali* (`MURATURE_INTONACI_E_FINITURE_PACK`)
   Nell'edilizia a telaio in cls o acciaio la muratura perimetrale è un sistema stratificato: struttura portante, tamponamento, isolamento, barriera e finitura. Il punto critico è il controllo dei ponti termici, i punti dov…
+- **Le norme armonizzate e la presunzione di conformita': la Gazzetta UE che conta** — Norme · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Una norma diventa 'armonizzata' quando la Commissione la cita nella Gazzetta Ufficiale dell'Unione: da quel momento i prodotti conformi godono della presunzione di conformita' ai requisiti del CPR. L'elenco delle norme c…
 - **Le opere di Foster, Piano, Calatrava, Zaha Hadid: la mappa del contemporaneo** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   I quattro maestri viventi del costruito: la mappa delle opere da studiare.
 - **Le opere di sostegno: muri di sostegno e paratie** — Opere di sostegno · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -1893,6 +1911,8 @@
   Un impianto di illuminazione non si mantiene da solo: sorgenti degradano, ottiche si sporcano, batterie di emergenza invecchiano. La manutenzione programmata mantiene i valori di progetto.
 - **Marcatura CE e controllo di produzione in fabbrica (FPC)** — Marcatura CE · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   UNI EN 1090: il passaporto europeo della carpenteria strutturale.
+- **Marcatura CE e Dichiarazione di Prestazione (DoP): cosa deve contenere, cosa NON certifica** — CPR · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  La marcatura CE su un prodotto da costruzione e' la punta visibile di un fascicolo: la DoP. Il marchio dice 'il fabbricante dichiara'; la DoP dice 'cosa' e 'quanto'. Leggere una DoP e' una competenza di cantiere quotidia…
 - **Marcatura CE, DoP e classificazioni prestazionali (UNI EN 14351-1)** — Marcatura e conformità · corso: *Serramenti, vetrate e porte* (`SERRAMENTI_E_VETRATE_PACK`)
   Dal 2013 finestre e porte esterne devono recare la marcatura CE: il costruttore dichiara le prestazioni (Uw, permeabilità all'aria, tenuta all'acqua, resistenza al vento) in un Documento di Prestazione (DoP) che accompag…
 - **Marciapiedi, piste ciclabili e la città a 30 km/h** — Marciapiedi · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
@@ -1977,6 +1997,8 @@
   Il quadro normativo e economico completo per progettare e preventivare.
 - **Normativa sicurezza robotica in cantiere** — Sicurezza robotica · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Come rendere conforme un cantiere con robot e macchine automatizzate.
+- **NTC 2018 ed Eurocodici: il doppio binario italiano e come lavorarci senza incidenti** — Eurocodici · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  In Italia la legge delle costruzioni sono le NTC (D.M. 17/1/2018); gli Eurocodici sono il grande riferimento tecnico europeo richiamato come strumento. Il progettista lavora sul doppio binario: quadro nazionale per obbli…
 
 ## O
 - **Opere di difesa costiera: frangiflutti, ricariche e arretramento** — Difesa costiera · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
@@ -2505,6 +2527,8 @@
   Il tetto verde e' quasi sempre intervento semplice dal punto di vista edilizio, ma non sempre: incidenza strutturale, altezze, vincoli paesaggistici e regolamenti comunali (che talvolta lo incentivano) decidono la pratic…
 - **Verifica in opera: luxmetro, accettazione e documentazione** — Controlli · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   La fase finale e' la verifica: misurare i lux reali a impianto completato e confrontarli con la relazione di calcolo, poi archiviare la documentazione.
+- **Verificare certificati e marchi: falsi documenti, banche dati e controlli in due minuti** — Pratica · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
+  Il mercato dei materiali vive di documenti: DoP, certificati di costanza, marchi volontari, rapporti di prova. Quasi tutti verificabili online in pochi minuti — e quasi mai verificati. I falsi esistono: marchi CE apposti…
 - **Verifiche, manutenzione e adempimenti degli apparecchi di sollevamento** — Adempimenti · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
   Le attrezzature di sollevamento sono tra i pochi oggetti del cantiere con obblighi di legge scritti nel sangue: verifiche iniziali, periodiche e straordinarie, libretti e personale formato. Mancarli e' reato e disgrazia …
 - **Vetro camera (doppio/triplo)** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)

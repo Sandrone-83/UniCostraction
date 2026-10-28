@@ -72,6 +72,7 @@ di apprendimento per settore.
 | MURATURE_INTONACI | ✅ 250 domande | chiavi: jsonl |
 | METODI_COSTRUTTIVI | ✅ 250 domande | chiavi: jsonl |
 | MICROEOLICO | ✅ 250 domande | chiavi: jsonl |
+| NORMATIVA_UE_INTERNAZIONALE | ✅ 250 domande | chiavi: jsonl |
 | OSPEDALI | ✅ 200 domande | chiavi: jsonl |
 | PISCINE | ✅ 200 domande | chiavi: jsonl |
 | PATOLOGIE_DIAGNOSTICA | ✅ 250 domande | chiavi: jsonl |
@@ -99,7 +100,7 @@ di apprendimento per settore.
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 83 esami (uno per settore, denominazioni storiche incluse) a copertura degli 81 pack
+Copertura: 84 esami (uno per settore, denominazioni storiche incluse) a copertura degli 82 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.

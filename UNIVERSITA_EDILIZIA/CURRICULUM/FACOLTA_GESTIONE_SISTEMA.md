@@ -24,3 +24,6 @@ Sistema Italia, fisco, marketing, coding: il corpo completo dell'impresa edile m
 - EMERGENZE_E_RICOSTRUZIONE_PACK (L2-L3) — protezione civile (D.Lgs 1/2018), prime 72 ore, ricostruzione privata e pubblica, messa in sicurezza, SAE, ponti provvisori, filiera ricostruzione, alluvioni, prevenzione aziendale
 ## Corsi aggiunti (giro AE)
 - SMART_CITY_PACK (L2-L3) — architettura smart city a livelli, illuminazione pubblica telegestita, reti IoT, piattaforma dati e control room, digital twin, mobilita' e ricarica EV, gestione idrica smart, edifici pubblici e BEMS, smart district, rifiuti smart e tariffazione puntuale, privacy/cybersecurity (GDPR, NIS2), economia CAPEX/OPEX
+
+## Corsi aggiunti (giro AJ)
+- NORMATIVA_UE_INTERNAZIONALE_PACK (L2-L3) — gerarchia delle fonti tecniche, CPR Reg. (UE) 305/2011, marcatura CE e DoP (NPD, AVCP, NANDO), via ETA/EAD/EOTA, norme armonizzate e GUUE, sistema Eurocodici EN 1990-1999 con NDP e Annessi Nazionali, doppio binario NTC 2018/Eurocodici, direttive EPBD 'Case Green'/RED III/ESPR, codici USA IBC/IRC/ASCE 7/NFPA e AHJ, sigle ISO/EN/UNI (TS, TR, prEN, corrigendum), verifica certificati e falsi documenti (NANDO/EOTA/Accredia, ISO/IEC 17025), la norma nel contratto e in cantiere — ESAME: ESAMI/NORMATIVA_UE_INTERNAZIONALE

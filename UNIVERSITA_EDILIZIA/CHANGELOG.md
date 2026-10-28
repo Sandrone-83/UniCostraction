@@ -1,4 +1,26 @@
 
+## Giro AJ — 2026-10-28, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (CT 3.0 correttivo ancora non in GU; Ddl LdB 2027 ancora non presentato; CER e Reddito Energetico confermati); nuovo pack NORMATIVA_UE_INTERNAZIONALE_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AJ1 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK): nota del 27/10 (Rep. atti n. 144/CU del 22/10, osservazioni Regioni non vincolanti, regime vigente D.D. MASE 72/2026, tabella piccoli Comuni 100%/80%) | Confermata integralmente: infobuildenergia.it del 26/10/2026 ribadisce che il decreto correttivo NON e' operativo finche' non adottato e pubblicato in GU; unico dettaglio nuovo (riunione tecnica del 21/9) marginale, non vale una modifica | infobuildenergia.it (26/10/2026) — verifica web 28/10/2026 |
+| AJ2 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia»: nota DPB 2027 appesa ieri (DPB 15/10 senza bonus casa, baseline di legge 2027: 36%/30% su 96.000 euro) | Confermata: al 28/10 il Ddl di Bilancio 2027 NON risulta ancora presentato (pmi.it: possibile slittamento oltre il 20 ottobre; pagina iter aggiornata al 28/10 ancora in attesa); nessun secondo append in due giorni sulla stessa scheda (rumore) | pmi.it (28/10/2026) — verifica web 28/10/2026 |
+| AJ3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza accesso 31/12/2027, PNRR 40% chiuso, DL 19/2026 art. 27 conv. L. 50/2026, nota IVA Risposta AdE 22/2026 | Confermato tutto: nessun provvedimento nuovo oltre la richiesta di proroga al 2030 (lettera associazioni 29/9/2026); dato GSE 3.630 configurazioni/302,9 MW al 30/6/2026 invariato | italiasolare.eu (29/9/2026), stampa di settore concordante — verifica web 28/10/2026 |
+| AJ4 | Verifica senza correzione | Scheda «Il Reddito Energetico»: sportello chiuso, rifinanziamento atteso | Confermato: nessun bando pubblicato; rifinanziamento solo tra le ipotesi di stampa per la LdB 2027 | bibilus.acca.it (5/10/2026) — verifica web 28/10/2026 |
+| AJ5 | Nuovo pack | — | NORMATIVA_UE_INTERNAZIONALE_PACK (12 schede, L2-L3, FACOLTA_GESTIONE_SISTEMA): gerarchia fonti tecniche, CPR Reg. (UE) 305/2011, marcatura CE e DoP (NPD, AVCP, NANDO), via ETA/EAD/EOTA, norme armonizzate e GUUE, Eurocodici EN 1990-1999 con NDP e Annessi Nazionali, doppio binario NTC 2018/Eurocodici, EPBD (UE) 2024/1275 + RED III (UE) 2023/2413 (D.Lgs 5/2026) + ESPR Reg. (UE) 2024/1781, codici USA IBC/IRC/ASCE 7/ACI/AISC/NFPA e AHJ, sigle ISO/EN/UNI, verifica certificati e falsi (NANDO/EOTA/Accredia, ISO/IEC 17025), norma in contratto (art. 1669 c.c.). Riferimenti prudenti: nuovo CPR citato come «adottato a fine 2024, applicazione progressiva, da verificare su EUR-Lex» (senza numero); seconda generazione Eurocodici «in pubblicazione progressiva, da verificare» | Norme di consolidata certezza; prezzi come fasce indicative; nessun nome di azienda |
+| AJ6 | Nuovo esame | — | ESAMI/NORMATIVA_UE_INTERNAZIONALE: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 84 esami su 82 pack) | build_esami_giro5.py |
+| AJ7 | Validazione | — | Validazione globale: 82 pack, 1097 schede, 84 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (82/82). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (conteggio stretto, non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- Conto Termico 3.0: VERIFICA PRIORITARIA al prossimo giro — pubblicazione del correttivo in GU e nuove Regole Applicative GSE.
+- Legge di Bilancio 2027: testo del Ddl atteso (non presentato al 28/10; possibile slittamento oltre il 20/10); sorte di proroga 50%/36%, Ecobonus 65%, bonus mobili, potenziamento CT.
+- Nuovo TUIR (D.Lgs 117/2026): numeri degli articoli che ricollocano i bonus edilizi (artt. 371-373 da fonte singola: verificare sul testo GU).
+- Reddito Energetico: decreto di rifinanziamento/bando 2026 da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: Italia destinataria di due richiami UE sul recepimento (stampa di settore 26/10/2026): stato del recepimento nazionale da verificare.
+- CER: richiesta delle associazioni di prorogare gli incentivi al 2030 (29/9/2026): monitorare eventuali provvedimenti.
+
 ## Giro AI — 2026-10-27, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione (scheda detrazioni: DPB 2027 inviato il 15/10 NON cita i bonus casa; baseline di legge confermata); nuovo pack GEOTERMIA_BASSA_ENTALPIA_PACK (12 schede) con esame.
