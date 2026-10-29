@@ -52,6 +52,7 @@ di apprendimento per settore.
 | GEOTERMIA_BASSA_ENTALPIA | ✅ 250 domande | chiavi: jsonl |
 | GESTIONE_CONDOMINIO | ✅ 250 domande | chiavi: jsonl |
 | HOTEL | ✅ 200 domande | chiavi: jsonl |
+| IDROELETTRICO_PICCOLA_TAGLIA | ✅ 250 domande | chiavi: jsonl |
 | ILLUMINAZIONE | ✅ 250 domande | chiavi: jsonl |
 | IMPERMEABILIZZAZIONI | ✅ 250 domande | chiavi: jsonl |
 | IMPIANTI_SPORTIVI | ✅ 250 domande | chiavi: jsonl |
@@ -100,7 +101,7 @@ di apprendimento per settore.
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 84 esami (uno per settore, denominazioni storiche incluse) a copertura degli 82 pack
+Copertura: 85 esami (uno per settore, denominazioni storiche incluse) a copertura degli 83 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.

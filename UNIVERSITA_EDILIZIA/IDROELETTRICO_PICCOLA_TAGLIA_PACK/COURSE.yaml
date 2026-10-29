@@ -1,0 +1,9 @@
+corso: "Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio"
+facolta: "FACOLTA_IMPIANTI_ENERGIA"
+livello: "L2-L3"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 79/1999, D.Lgs 28/2011, D.Lgs 152/2006, D.Lgs 42/2004, R.D. 1775/1933 (T.U. acque), Direttiva 2000/60/CE, Direttiva 92/43/CEE, DM 37/2008, D.Lgs 81/2008, NTC D.M. 17/1/2018, norme CEI 0-21 e CEI 0-16, Direttiva Macchine 2006/42/CE, Direttiva BT 2014/35/UE ed EMC 2014/30/UE, serie IEC 60193 (prove turbine, riferimento generale), delibere ARERA/TICA e disciplina GSE RID citate come da verificare nella versione vigente; leggi regionali su concessioni e canoni citate come da verificare"
+nota_metodologica: "Corso completo sul mini/micro/pico idroelettrico con taglio operativo: fisica (P=9,81*Q*H*eta), idrologia e curve di durata, deflusso ecologico, opere civili di presa e condotte, parco turbine (Pelton, Francis, Kaplan/elica, Banki-Michell, coclea, PAT) con campi di applicazione e rendimenti tipici di letteratura, generatore e regolazione, connessione rete (CEI 0-21/0-16, SPI, TICA), iter autorizzativo (concessione, autorizzazione unica, VIA, paesaggio), economia (CAPEX, ore equivalenti, RID con prezzi da verificare), recuperi su reti esistenti, cantiere in alveo e collaudo, esercizio e manutenzione. NON ridondante con RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK (2 schede di panorama: qui il corso completo) ne' con DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK (opere idrauliche civili, non impianti di produzione). Prezzi come fasce indicative; norme solo di consolidata certezza; nessun nome di azienda."

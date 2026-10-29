@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1259 voci enciclopediche tratte da 83 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1271 voci enciclopediche tratte da 84 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -207,6 +207,8 @@
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
 - **Cantiere e montaggio: logistica, sollevamento, collaudi e sicurezza** — Cantiere · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   Il montaggio di una turbina e' un giorno di gru e mesi di preparazione: accessi, piazzale, plinto maturo, meteo. La finestra di vento debole per alzare il rotore si aspetta, non si improvvisa.
+- **Cantiere idroelettrico: lavori in alveo, finestre stagionali, sicurezza e collaudo** — Cantiere · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Il cantiere idroelettrico convive con l'acqua viva: le opere in alveo si fanno in finestre stagionali ristrette (magra estivo-autunnale, e spesso ulteriori limitazioni per la fauna ittica definite dagli enti), con by-pas…
 - **Cantieri di cappotto: organizzazione, ponteggi, tempi, sicurezza** — Cantieri · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
   Il cantiere del cappotto è logistica: ponteggio a servizio continuo della facciata, protezione dal vento e pioggia, stoccaggio dei pannelli (al riparo da sole e pioggia), gestione dei giunti di fase, coordinamento con al…
 - **Cantieri marittimi: navi-cantiere, piattaforme e lavorazioni subacquee** — Cantieri marini · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
@@ -303,6 +305,8 @@
   La resa di un campo sonde dipende da un numero: la conducibilita' termica del terreno. Le tabelle danno ordini di grandezza; il progetto serio si fa su misura in sito. Il Thermal Response Test (TRT) su una sonda pilota e…
 - **Conglomerato bituminoso** — Stradali · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Miscela di bitume e aggregati per manti stradali: flessibile, veloce, riparabile.
+- **Connessione alla rete elettrica: CEI 0-21, CEI 0-16, SPI e iter col distributore** — Connessione · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Vendere energia richiede la connessione alla rete pubblica secondo le regole tecniche del distributore. In bassa tensione (tipicamente fino a 100 kW) vale la norma CEI 0-21; in media tensione la CEI 0-16: definiscono pro…
 - **Connessione alla rete: CEI 0-21, CEI 0-16, SPI e l'iter col distributore** — Impianti · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   La connessione e' la meta' elettrica del progetto: senza iter corretto col distributore la turbina gira ma non immette. Le regole tecniche CEI 0-21 (BT) e CEI 0-16 (MT) e la protezione di interfaccia sono il cuore della …
 - **Connettore a strappo / ancoraggio pesante** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -383,6 +387,8 @@
   La legge italiana dell'impiantistica: installazione, manutenzione, abilitazioni dei professionisti.
 - **DALI (Digital Addressable Lighting Interface)** — Protocollo luce · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo digitale dedicato al controllo dell'illuminazione professionale.
+- **Deflusso ecologico (DMV/DEC): rilascio continuo, misura e compatibilita' col fiume** — Ambiente · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Ogni derivazione lascia nel tratto fluviale sottratto un deflusso minimo che deve garantire la funzionalita' dell'ecosistema acquatico: storicamente chiamato DMV (deflusso minimo vitale), oggi deflusso ecologico (DEC) ne…
 - **Degrado del calcestruzzo: carbonatazione, cloruri e reazione alcali-aggregato** — Degrado dei materiali · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Le tre patologie chimiche principali del calcestruzzo armato: carbonatazione del copriferro, penetrazione di cloruri e reazione alcali-aggregato (ASR). L'errore tipico è trattare il sintomo (ferro arrugginito, espulsione…
 - **Demolizione selettiva e recupero degli inerti in opera** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
@@ -459,6 +465,8 @@
   L'impianto sportivo è un'impresa con un bilancio: costi di costruzione, costi di gestione annui, ricavi da affitti, abbonamenti, eventi, sponsor e contributi pubblici. Chi progetta deve pensare al modello economico prima…
 - **Economia del CSP: CAPEX, LCOE, confronto con il fotovoltaico e quando ha senso** — Economia e prospettive · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Il giudizio economico sul CSP oggi parte da un dato: il fotovoltaico con batterie ha cambiato il riferimento di prezzo. Il CSP resta competitivo dove serve energia rinnovabile programmabile di lunga durata e dove la fili…
+- **Economia del piccolo idroelettrico: CAPEX, producibilita', ricavi e O&M** — Economia · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Il piccolo idroelettrico e' un investimento capital-intensive a vita lunghissima: CAPEX tipico 2.500-6.000 €/kW installato per mini-idro (sotto i 100 kW anche 5.000-12.000 €/kW), con opere civili 40-60%, elettromeccanico…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -511,6 +519,8 @@
   Il progetto FV completo, dal tetto alla bolletta.
 - **Esercizio e manutenzione: controlli periodici, guasti tipici e monitoraggio** — Gestione · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   Una turbina piccola e' una macchina rotante all'aperto per 20-25 anni: la manutenzione non e' un optional ma la voce che decide il ritorno economico. Chi la pianifica dorme; chi la subisce paga la gru due volte.
+- **Esercizio e manutenzione: griglie, sedimenti, usura turbine e telecontrollo** — Esercizio · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Un piccolo impianto idroelettrico ben costruito produce per decenni, ma solo se gestito: la manutenzione ordinaria e' poca cosa fatta con costanza. Attivita' tipiche: pulizia griglie (da quotidiana in autunno con fogliam…
 - **Esoscheletri per operai** — Wearable · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Strutture indossabili attive (motore) o passive (molle) che aiutano a sollevare e tenere posizioni.
 - **Estetica, lusso e qualità: distinguere il pregio dall'apparire** — Estetica e lusso · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
@@ -547,6 +557,8 @@
   Telaio in legno massello o lamellare, eventualmente rivestito in alluminio esterno: il serramento di pregio.
 - **Finestra in PVC** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Telaio in PVC con profili multi-camera: il serramento economico isolante standard.
+- **Fisica del piccolo idroelettrico: portata, salto, potenza e classificazione di taglia** — Fondamenti · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  La potenza di un impianto idroelettrico e' sempre il prodotto di tre termini: portata turbinata Q (m3/s), salto lordo H (m) e rendimento complessivo. La formula pratica e' P(kW) = 9,81 x Q x H x eta, con 9,81 = peso spec…
 - **Fognature e depurazione: collettori, vasche e scarichi** — Fognature · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Il viaggio dell'acqua sporca: fognatura unita e separata, depurazione e scarico.
 - **Fondazioni esistenti: diagnosi, rinforzo e recupero** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -579,6 +591,8 @@
   I cicli gelo-disgelo sono il principale agente di degrado delle costruzioni di montagna: l'acqua che gela nei pori aumenta di volume e sfasa calcestruzzi, pietre e intonaci. Progettare per il gelo significa scegliere mat…
 - **Gemello digitale di cantiere e opera** — Digital twin · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Modello vivo dell'opera aggiornato in tempo reale da sensori, rilievi e avanzamento.
+- **Generatore, regolazione e quadri: la parte elettrica dell'impianto a lama d'acqua** — Macchine · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Il gruppo elettrogeno converte la potenza meccanica in elettrica e tiene l'impianto in rete. Due scelte di macchina: generatore asincrono (gabbia di scoiattolo): semplice, robusto, economico, tipico fino a qualche centin…
 - **Geometria piana: aree e perimetri delle figure del cantiere** — Geometria piana · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Rettangoli, triangoli, cerchi, trapezi: calcolare superfici di lavoro senza software.
 - **Geometria solida: volumi dei corpi della costruzione** — Geometria solida · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -819,6 +833,10 @@
   Chi lavora con committenti internazionali incontra il sistema americano: International Building Code (IBC) per l'edilizia, IRC per il residenziale, ASCE 7 per i carichi, NFPA per l'antincendio, ACI/AISC per i materiali. …
 - **Idraulica di base per le costruzioni: portate, canali, condotte** — Idraulica · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Acqua in pressione e a pelo libero: il minimo indispensabile per progettare opere idrauliche.
+- **Idroelettrico senza nuova derivazione: recuperi su acquedotti, depuratori, canali e dighe esistenti** — Recuperi · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  La meta' piu' sostenibile (e spesso piu' rapida) del piccolo idro e' quella che non deriva acqua nuova: recupera energia dove l'acqua scende gia'. Campi tipici: nodi di riduzione della pressione negli acquedotti (al post…
+- **Idrologia per il piccolo idroelettrico: curve di durata, dati e siti non misurati** — Fondamenti · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  La portata di un corso d'acqua e' la variabile che decide tutto e quella piu' difficile da conoscere. Lo strumento di base e' la curva di durata delle portate: per ogni valore Q dice per quanti giorni all'anno quel valor…
 - **Idropittura (pittura murale)** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pittura a base acqua per interni: la finitura standard di ogni parete: traspirante, veloce, economica.
 - **IFC: il formato aperto per lo scambio dei modelli** — IFC e openBIM · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -1203,6 +1221,8 @@
   Un impianto CSP e' un progetto industriale: VIA, autorizzazione unica, connessione alla rete, eventuale accesso agli incentivi FER. L'iter dura anni e determina la fattibilita' piu' della tecnologia.
 - **Iter autorizzativo e tutela delle acque sotterranee: prima si verifica, poi si perfora** — Iter · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
   La geotermia a bassa entalpia tocca il sottosuolo e spesso le acque: il quadro autorizzativo italiano e' nazionale nei principi (tutela delle acque) e regionale nelle procedure. La parola d'ordine del progettista: verifi…
+- **Iter autorizzativo: concessione di derivazione, autorizzazione unica, VIA e vincoli** — Iter · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Un impianto idroelettrico ha bisogno di due titoli distinti: il titolo idrico (concessione di derivazione di acqua pubblica per uso idroelettrico) e il titolo edilizio-impiantistico (autorizzazione alla costruzione ed es…
 
 ## J
 - **Jet grouting, iniezioni e miglioramento dei terreni** — Consolidamento terreni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -2003,6 +2023,8 @@
 ## O
 - **Opere di difesa costiera: frangiflutti, ricariche e arretramento** — Difesa costiera · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
   Il mare che avanza: la difesa delle coste tra opere dure, ricariche e adattamento.
+- **Opere di presa, adduzione e condotte forzate: il 50% del costo e dei guai** — Opere civili · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  Nel piccolo idroelettrico le opere civili pesano per il 40-60% dell'investimento e concentrano quasi tutti i rischi di cantiere. Lo schema tipo: opera di presa sul corso d'acqua (soglia o boccata laterale con griglia gro…
 - **Opere di presa, scarichi e dissipatori** — Opere di presa · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   L'apparato che regola l'acqua: prese, scarichi di superficie e di fondo, energodissipatori.
 - **Opere di sistemazione agraria: muri a secco e terrazzamenti** — Opere di sistemazione · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2497,6 +2519,8 @@
   Le turbine a asse orizzontale con 2-3 pale dominano il piccolo eolico per un motivo semplice: rendimento aerodinamico superiore, curve di potenza certificate e decenni di affidabilita' dimostrata. Dal kilowatt domestico …
 - **Turbine ad asse verticale (VAWT): Savonius, Darrieus e la verita' sui tetti** — Tecnologia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   Le turbine verticali promettono tutto (funzionano con ogni direzione del vento, silenziose, da tetto) e mantengono poco: rendimenti bassi, pochi dati certificati, montaggio su edifici che e' quasi sempre un errore. Conos…
+- **Turbine idrauliche di piccola taglia: Pelton, Francis, Kaplan, Banki-Michell, coclea e PAT** — Macchine · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
+  La scelta della turbina e' dettata da salto e portata, e dentro la coppia giusta dal campo di parzializzazione. Pelton (azione): salti da 40-50 m a oltre 500 m, portate piccole-medie; rendimento di picco 88-92% e curva p…
 - **Tutela delle superfici storiche e documentazione prima/dopo** — Documentazione e tutela delle superfici · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   Ogni superficie storica (intonaci, affreschi, affreschi esterni, paramenti lapidei) va protetta prima dell'intervento con teli, casseformi o staccionamenti e va documentata con rilievo fotografico e grafico. La documenta…
 
