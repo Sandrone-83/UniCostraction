@@ -1,0 +1,587 @@
+# -*- coding: utf-8 -*-
+"""Giro AL (30/10/2026): genera PONTEGGI_OPERE_PROVVISIONALI_PACK (12 schede, L1-L2,
+FACOLTA_TECNOLOGIA_E_COSTRUZIONE). Tema: ponteggi, trabattelli, casseforme, puntelli,
+sostegni di scavo, protezioni provvisionali, ponti su cavalletti, calcolo, gestione.
+Gap verificato: nei pack esistenti i ponteggi compaiono solo incidentalmente (1 scheda
+in MEZZI_SOLLEVAMENTO, casseforme in METODI/POSA): nessun corso dedicato.
+Norme solo di consolidata certezza (D.Lgs 81/2008 Titolo IV, serie UNI EN note).
+"""
+import json, os
+
+BASE = os.path.join('UNIVERSITA_EDILIZIA', 'PONTEGGI_OPERE_PROVVISIONALI_PACK')
+KEYS = ["categoria","nome","descrizione","tecnologia","applicazioni","vantaggi","limiti",
+        "costi_e_economia","casi_real_world","normative","note_cantiere"]
+
+S = []
+def add(**kw):
+    assert list(kw.keys()) == KEYS, f"chiavi errate: {list(kw.keys())}"
+    assert kw['costi_e_economia'].startswith('Ordini di grandezza indicativi: ')
+    S.append(kw)
+
+add(
+categoria="Fondamenti",
+nome="Le opere provvisionali: la meta' invisibile del cantiere che decide sicurezza e qualita'",
+descrizione=("Opera provvisionale e' tutto cio' che si costruisce per costruire e si smonta a fine lavori: "
+    "ponteggi, casseforme, puntelli, centine, sostegni di scavo, protezioni perimetrali, coperture "
+    "provvisionali, ponti di servizio. Non resta nell'opera finita, ma da essa dipendono la sicurezza dei "
+    "lavoratori, la qualita' delle strutture (una cassaforma che cede rovina il getto) e una quota "
+    "significativa dei costi: nei lavori edili ordinari le opere provvisionali pesano tipicamente il 10-20% "
+    "del valore dei lavori strutturali, con punte superiori nei consolidamenti e nei restauri. Il D.Lgs "
+    "81/2008 (Titolo IV, cantieri temporanei o mobili) le disciplina come attrezzature di lavoro a tutti gli "
+    "effetti: progetto, montaggio, verifica e uso sono obblighi del datore di lavoro e del coordinatore."),
+tecnologia=("Documento chiave: il PiMUS (Piano di Montaggio, Uso e Smontaggio) per i ponteggi, previsto "
+    "dall'art. 133 del D.Lgs 81/2008: chi monta, con quali mezzi, in che sequenza, con quali DPI e con "
+    "quali controlli. Per casseforme e sostegni vale il progetto di cantiere: calcolo della pressione del "
+    "getto, verifica dei puntelli, sequenza di disarmo. Regola generale: ogni opera provvisionale e' un "
+    "piccolo progetto strutturale, con carichi, vincoli e verifiche, anche quando si monta 'a regola "
+    "d'arte'."),
+applicazioni=("Ogni cantiere edile: nuove costruzioni (casseforme, puntelli), ristrutturazioni e cappotti "
+    "(ponteggi di facciata), coperture (protezioni, reti), scavi (sostegni), demolizioni (schermi), "
+    "manutenzioni su coperture e facciate (trabattelli, torri)."),
+vantaggi=("Pensare le provvisionali come un sotto-progetto riduce infortuni e contenziosi: la gran parte "
+    "degli infortuni gravi in edilizia avviene per cadute dall'alto, e la caduta avviene quasi sempre da "
+    "un'opera provvisionale assente, montata male o usata oltre i suoi limiti. Un ponteggio ben progettato "
+    "accelera anche la produzione: banchi sicuri e continui fanno rendere le squadre."),
+limiti=("Costi spesso sottostimati in offerta: ponteggio a noleggio per mesi, montaggio specialistico, "
+    "manutenzione in esercizio. Le provvisionali ereditano i vincoli del contesto (suolo, vento, vicini, "
+    "viabilita') e non perdonano l'improvvisazione: un ancoraggio mancante non si vede finche' non serve."),
+costi_e_economia=("Ordini di grandezza indicativi: quota opere provvisionali sul valore lavori strutturali: "
+    "10-20% (nuove costruzioni), 15-30% (restauri e consolidamenti); ponteggio di facciata noleggiato e "
+    "montato: 15-35 €/m2 di facciata per i primi mesi + 1,5-4 €/m2/mese di giacenza; cassaforma+puntellatura "
+    "solai: 25-60 €/m2 di solaio gettato."),
+casi_real_world=("Caso tipo: ristrutturazione condominiale con cappotto e rifacimento balconi: 2.400 m2 di "
+    "ponteggio multidirezionale con sbalzi sui balconi, PiMUS con sequenze a torre (montaggio e spostamento "
+    "per lotti), durata 14 mesi: voce provvisionali al 18% del valore lavori; nessun infortunio grazie ai "
+    "controlli settimanali documentati degli ancoraggi."),
+normative=("D.Lgs 81/2008 Titolo IV (cantieri temporanei o mobili), in particolare artt. 131-141 per "
+    "ponteggi e opere provvisionali; POS/PSC per l'organizzazione di cantiere; norme della serie UNI EN per "
+    "i singoli sistemi (vedi schede dedicate). Riferimenti puntuali nelle schede seguenti."),
+note_cantiere=("Metti le provvisionali nel computo come voci vere, con quantita' e mesi di giacenza, non "
+    "come percentuale a corpo: e' la prima voce che sfora. E fai firmare a chi monta il verbale di consegna "
+    "del ponteggio: senza consegna, ogni giorno di uso e' un rischio tuo."),
+)
+
+add(
+categoria="Ponteggi",
+nome="Ponteggi metallici a telai prefabbricati: componenti, autorizzazione ministeriale e PiMUS",
+descrizione=("Il ponteggio a telai prefabbricati e' lo standard del cantiere edile italiano: telai in "
+    "acciaio (luce tipica 1,80 m, profondita' 1,05-1,25 m) sovrapposti e collegati da traversi, "
+    "parapetti, diagonali di controvento, impalcati in tavole metalliche o multistrato, basette "
+    "regolabili a vite su piastre di ripartizione, ancoraggi alla struttura con tasselli e occhielli. "
+    "Per legge (art. 136 D.Lgs 81/2008) i componenti devono essere conformi all'autorizzazione "
+    "ministeriale rilasciata dal Ministero del Lavoro al costruttore: ogni sistema ha i suoi schemi "
+    "tipo autorizzati (altezze massime, maglia degli ancoraggi, zavorre). Fuori schema tipo serve il "
+    "progetto con calcolo a firma di professionista abilitato."),
+tecnologia=("Montaggio per livelli successivi da impalcato completo e protetto; basetta su terreno "
+    "consistente o su tavola di ripartizione; ancoraggi secondo lo schema tipo (tipicamente ogni due "
+    "impalcati in altezza e ogni tre campate in lunghezza, comunque secondo l'autorizzazione del "
+    "sistema); impalcati completi senza vuoti superiori a 20 cm, con fermapiede; accessi interni a "
+    "botola o torri scale esterne; mantovane e schermi dove serve. Controlli: verticalita' (tolleranza "
+    "di montaggio limitata), serraggio giunti, integrita' tavole, presenza di tutti i parapetti."),
+applicazioni=("Facciate di edifici fino a 20-30 m (oltre servono schemi speciali o multidirezionali), "
+    "cappotti, rifacimenti intonaci, coperture (come base per protezioni), piccole opere interne."),
+vantaggi=("Economico, rapido, ricambi ovunque, squadre che lo conoscono a memoria; per facciate regolari "
+    "e' imbattibile in costo/tempo. L'autorizzazione ministeriale standardizza i comportamenti: chi "
+    "rispetta lo schema tipo e' gia' in regola col calcolo."),
+limiti=("Rigido su geometrie complesse (sbalzi, aggetti, cortine curve): si adatta male e genera vuoti "
+    "pericolosi; portata degli impalcati limitata (non e' un ponteggio da carico senza verifica); su "
+    "terreni cedevoli o piani inclinati richiede basi speciali; lo schema tipo NON copre ancoraggi su "
+    "murature deboli o intonaci inconsistenti senza verifica puntuale."),
+costi_e_economia=("Ordini di grandezza indicativi: Noleggio+montaggio+smontaggio: 15-35 €/m2 di facciata "
+    "(edifici semplici fino a 20 m); giacenza: 1,5-4 €/m2/mese; ancoraggio con tassello e occhiello: "
+    "8-20 €/punto; eventuale progetto fuori schema tipo: 800-3.000 € a elaborato."),
+casi_real_world=("Caso tipo: palazzina 4 piani, rifacimento facciate: 1.100 m2 di ponteggio a telai su "
+    "basette registrabili con tavole di ripartizione su marciapiede (occupazione suolo pubblico con "
+    "mantovana), schema tipo del costruttore, consegna con verbale e PiMUS del noleggiatore integrato "
+    "dal POS dell'impresa."),
+normative=("D.Lgs 81/2008 artt. 130-136 (ponteggi metallici fissi: definizioni, autorizzazione "
+    "ministeriale, PiMUS ex art. 133); UNI EN 12810 (ponteggi di facciata: componenti) e UNI EN 12811 "
+    "(requisiti prestazionali e metodi di verifica) nelle edizioni vigenti; UNI EN 74 (giunti); "
+    "Accordi Stato-Regioni sulla formazione degli addetti al montaggio."),
+note_cantiere=("Conta gli ancoraggi davvero: apri il disegno dello schema tipo, segna i punti sul "
+    "ponteggio e verificali uno a uno a fine montaggio. Il ponteggio che cede lo fa quasi sempre per "
+    "ancoraggi mancanti o tirati su intonaco marcio, mai per colpa del telaio."),
+)
+
+add(
+categoria="Ponteggi",
+nome="Ponteggi multidirezionali: il sistema per geometrie complesse, sbalzi e grandi carichi",
+descrizione=("Il ponteggio multidirezionale (a montanti e traversi con giunti a rosetta o a coppiglia) "
+    "e' l'evoluzione modulare che risolve cio' che il telaio prefabbricato non puo': facciate con "
+    "sbalzi e rientri, campate irregolari, ponteggi da sostegno (torri di carico per casseforme), "
+    "coperture provvisionali, ponteggi sospesi e sbalzati. I nodi accettano connessioni in piu' "
+    "direzioni e angolazioni, i carichi si immettono nei montanti con continuita' strutturale: le "
+    "classi di carico della UNI EN 12811 arrivano a 6,00 kN/m2 (classe 6) per usi da sostegno. Il "
+    "sistema e' piu' costoso e richiede montatori esperti: il progetto di cantiere diventa la regola, "
+    "non l'eccezione."),
+tecnologia=("Componenti: montanti con rosette a passo 50 cm, traversi orizzontali, diagonali "
+    "verticali e orizzontali, corpi speciali (consoles per sbalzi fino a 1-2 m, travi reticolari per "
+    "campate libere, basi a collare per sospesi). Verifiche: stabilita' dei montanti (carico di punta "
+    "con eccentricita' del nodo), trazione/compressione dei giunti, ancoraggi progettati per azioni "
+    "di vento e sbandamento; per torri di sostegno: carico per piede, controventi in entrambe le "
+    "direzioni, basi ripartite. Documentazione: progetto con relazione di calcolo, PiMUS specifico, "
+    "verbali di collaudo statico prima del carico."),
+applicazioni=("Facciate storiche e complesse, ponteggi per coperture e volte, torri di sostegno per "
+    "getti di solai alti o ponti, ponteggi industriali (centrali, serbatoi), palchi e tribune "
+    "provvisionali (con normativa spettacoli), ponteggi su viabilita' con luci libere."),
+vantaggi=("Adattabilita' quasi totale, portate elevate certificate, possibilita' di campate libere e "
+    "sbalzi impossibili ai telai; un solo sistema copre facciata, sostegno e copertura provvisionale: "
+    "logistica di cantiere semplificata nei lavori complessi."),
+limiti=("Costo sensibilmente superiore (noleggio e montaggio); il nodo multidirezionale e' forte solo "
+    "se serrato correttamente: il controllo del serraggio dei giunti a cuneo e' voce di collaudo; la "
+    "liberta' geometrica tenta soluzioni 'creative' che richiedono sempre il calcolo: niente schemi "
+    "tipo a coprire l'improvvisazione."),
+costi_e_economia=("Ordini di grandezza indicativi: Noleggio+montaggio: 25-60 €/m2 di facciata "
+    "(geometrie complesse), torri di sostegno 40-90 €/m3 di volume sostenuto al mese; progetto e "
+    "calcolo: 1.500-8.000 € secondo complessita'; collaudi statici documentati: 300-1.000 € a "
+    "sessione."),
+casi_real_world=("Caso tipo: restauro chiesa con copertura da rifare: gabbia multidirezionale "
+    "indipendente dalla struttura con campate libere sopra le navate (travi reticolari da 12 m), "
+    "copertura provvisionale temporanea per lavorare al riparo tutto l'anno; progetto strutturale "
+    "dedicato, collaudo a carichi di prova prima dell'uso."),
+normative=("D.Lgs 81/2008 artt. 130-136 e PiMUS (art. 133); UNI EN 12810-12811 (componenti e classi di "
+    "carico: 0,75-6,00 kN/m2), UNI EN 12812 per le opere di sostegno (falsework); progetto e calcolo "
+    "secondo NTC (D.M. 17/1/2018) quando richiesto; autorizzazione ministeriale dei sistemi ex art. "
+    "136 D.Lgs 81/2008."),
+note_cantiere=("Sui multidirezionali il nemico e' il giunto non battuto: il cuneo della rosetta va "
+    "serrato a martello fino a battuta, e si vede a occhio. Fai un giro 'martello in mano' prima di "
+    "caricare: ogni giunto che suona vuoto e' un nodo che non c'e'."),
+)
+
+add(
+categoria="Ponteggi",
+nome="Trabattelli e torri mobili: la regola del 3:1, gli stabilizzatori e gli errori che uccidono",
+descrizione=("Il trabattello (torre mobile in alluminio o acciaio su ruote) e' l'attrezzatura piu' "
+    "usata e piu' sottovalutata del piccolo cantiere: montaggio rapido, spostamento agevole, impalcato "
+    "di lavoro fino a 8-12 m secondo modello. Le regole di vita sono poche e non negoziabili: altezza "
+    "libera non superiore a 3 volte la dimensione minima di base (meno all'esterno o con vento, "
+    "secondo libretto), stabilizzatori (bracci allargatori) montati e appoggiati come da libretto, "
+    "ruote frenate durante l'uso, MAI spostare la torre con persone o materiali sopra, salita solo "
+    "dalla scala interna con botola chiusa in quota. Le torri devono essere conformi alla UNI EN 1004 "
+    "(torri di accesso e di lavoro mobili) e corredate di libretto di istruzioni del costruttore."),
+tecnologia=("Componenti: telai di base con ruote piroettanti frenabili, piani orizzontali e diagonali, "
+    "impalcati con botola, parapetti completi sull'impalcato di lavoro, stabilizzatori telescopici. "
+    "Montaggio: verifica del piano di appoggio (portante, orizzontale, lontano da scavi e coperture "
+    "di vuoti), controllo completezza componenti prima del montaggio, verifica finale con checklist; "
+    "uso: carico massimo da libretto (tipicamente 150-200 kg/m2 sull'impalcato, ma conta il carico "
+    "complessivo della torre), divieto di aggancio di carichi esterni (paranchi a braccio senza "
+    "verifica), divieto di uso come sostegno per altre attrezzature."),
+applicazioni=("Manutenzioni e impianti in quota (elettricisti, idraulici, pittori), lavori interni su "
+    "soffitti e pareti alte, cantieri piccoli e veloci, luoghi dove il ponteggio fisso non e' "
+    "giustificato."),
+vantaggi=("Rapidissimo, economico, spostabile da due persone, ingombro minimo; per lavori di ore o "
+    "giorni in quota e' la scelta corretta: meglio un trabattello ben montato che una scala 'tanto "
+    "faccio in fretta'."),
+limiti=("Stabilita' dipendente dall'appoggio: terreni molli, pendenze, tombini e chiusini sono trappole; "
+    "il vento esterno riduce drasticamente l'altezza ammissibile; tentazione costante di usarlo oltre "
+    "il libretto (senza stabilizzatori, spostandolo carico, poggiando scale sopra): e' tra le "
+    "attrezzature con piu' infortuni per caduta in rapporto all'uso."),
+costi_e_economia=("Ordini di grandezza indicativi: Acquisto torre in alluminio H lavoro 6-8 m: "
+    "1.500-4.000 €; noleggio: 40-90 €/settimana; stabilizzatori e accessori spesso inclusi ma "
+    "verificarli: un trabattello senza stabilizzatori e' un trabattello da fermare."),
+casi_real_world=("Caso tipo: manutenzione corpi illuminanti in palestra con soffitto a 9 m: torre "
+    "mobile H lavoro 9,2 m con stabilizzatori sui quattro lati, appoggio verificato sul parquet "
+    "(tavole di ripartizione), montaggio da personale formato, checklist firmata a ogni spostamento "
+    "di area."),
+normative=("D.Lgs 81/2008 Titolo III (attrezzature di lavoro) e Titolo IV per l'uso in cantiere; UNI "
+    "EN 1004 (torri mobili: materiali, dimensioni, carichi); libretto del costruttore come documento "
+    "vincolante; formazione degli addetti secondo Accordi Stato-Regioni per le attrezzature di "
+    "lavoro."),
+note_cantiere=("Prima di salire guarda tre cose: stabilizzatori aperti e appoggiati, ruote frenate, "
+    "botola che si chiude. Se manca una delle tre, scendi e sistema. E non fidarti del 'tanto e' "
+    "pieno di gente intorno': la torre cade in un secondo, la gente intorno non la tiene."),
+)
+
+add(
+categoria="Casseforme",
+nome="Casseforme per getti in calcestruzzo: pressione del getto fresco, velocita' di riempimento e disarmo",
+descrizione=("La cassaforma e' lo stampo del calcestruzzo fresco e ne subisce la spinta: un getto "
+    "fluido esercita sulle pareti una pressione idrostatica che cresce con l'altezza e con la "
+    "velocita' di riempimento, finche' la presa non la blocca. Per pilastri alti 3-4 m gettati "
+    "rapidamente le pressioni laterali possono superare i 60-80 kN/m2 alla base: una cassaforma "
+    "sottodimensionata si deforma (pilastro 'a botte') o si apre (fuoriuscita e fermo getto). Le "
+    "casseforme moderne sono sistemi modulari in acciaio o alluminio con pannelli, traversi, tiranti "
+    "passanti e puntelli di allineamento; per i solai si usano tavolati su travi reticolari in "
+    "legno (travi H20) sostenuti da puntelli a piastra o telai."),
+tecnologia=("Dimensionamento: pressione di progetto in funzione di altezza, velocita' di riempimento "
+    "(m/ora), temperatura e consistenza del getto (le classi S4-S5 e gli autocompattanti spingono di "
+    "piu': con SCC la pressione va assunta idrostatica piena salvo diverse indicazioni del "
+    "fornitore della cassaforma); verifica di pannelli (flessione), traversi, tiranti (trazione), "
+    "saldature e giunzioni; disarmo: tempi legati alla maturazione del calcestruzzo (pareti "
+    "verticali: 12-24 ore se non portanti; solai: disarmo a resistenza controllata, con "
+    "ripuntellatura immediata secondo progetto). Pulizia e disarmante a ogni riuso: la qualita' "
+    "della faccia a vista dipende dallo stampo, non dalla fortuna."),
+applicazioni=("Strutture gettate in opera: pilastri, pareti, travi, solai, opere di sostegno, "
+    "fondazioni; cassaforme speciali: rampanti e autocarrate per pareti alte (dighe, nuclei di "
+    "edifici alti), casseforme termiche per getti invernali, casseri a perdere."),
+vantaggi=("Sistemi modulari industrializzati: produttivita' alta, finiture ripetibili, costi "
+    "ammortizzabili su molti riusi; il controllo della spinta e' noto e calcolabile: il problema "
+    "non e' la tecnica, e' la fretta."),
+limiti=("Il getto autocompattante e gli additivi acceleranti cambiano le regole della pressione: chi "
+    "dimensiona 'come sempre' rischia il cedimento; il disarmo anticipato per recuperare casseforme "
+    "e' la causa classica di crolli di solai in costruzione; casseforme usurate o miste tra sistemi "
+    "diversi producono fughe di latte e discontinuita' geometriche."),
+costi_e_economia=("Ordini di grandezza indicativi: Noleggio cassaforma modulare pareti: 1-3 €/m2/giorno; "
+    "sistema solai (travi H20 + tavolato + puntelli): 0,8-2 €/m2/giorno; fornitura con montaggio "
+    "(carpenteria): 25-60 €/m2 di superficie gettata; ripuntellatura e controlli post-disarmo inclusi "
+    "nel prezzo di cantiere, mai 'a favore'."),
+casi_real_world=("Caso tipo: edificio in c.a. 6 piani: casseforme modulari per i nuclei, sistema a "
+    "tavoli per i solai da 400 m2/piano, ciclo settimanale per piano; disarmo solaio a 7 giorni con "
+    "ripuntellatura immediata su due piani inferiori secondo progetto delle fasi; nessun cedimento "
+    "misurabile ai controlli topografici."),
+normative=("UNI EN 12812 (falsework: requisiti prestazionali e metodi di verifica) per casseforme e "
+    "opere di sostegno; NTC (D.M. 17/1/2018) per le verifiche strutturali e le fasi di costruzione; "
+    "D.Lgs 81/2008 Titolo IV per montaggio e lavoro sui piani; istruzioni del costruttore dei "
+    "sistemi come riferimento operativo."),
+note_cantiere=("Segna sul Gantt la data di disarmo di ogni solaio e chi l'ha autorizzata: il disarmo "
+    "e' una decisione tecnica (resistenza misurata o maturazione equivalente), non una scadenza di "
+    "magazzino. E quando getti SCC in pareti alte: riduci la velocita' di riempimento o ridimensiona "
+    "i tiranti, perche' la spinta e' quella idrostatica piena."),
+)
+
+add(
+categoria="Casseforme",
+nome="Puntelli, travi e sostegni di solaio: il sistema che regge il getto finche' non e' struttura",
+descrizione=("Finche' il calcestruzzo non raggiunge la resistenza di progetto, il solaio e' retto "
+    "dalle opere provvisionali: puntelli in acciaio regolabili (classi per portata), telai "
+    "prefabbricati, travi reticolari in legno H20, forcelle e piastre di ripartizione. La maglia dei "
+    "puntelli si calcola sui carichi della fase di getto: peso proprio del getto fresco, casseforme, "
+    "personale e mezzi (sovraccarico di servizio tipicamente 1,5-3 kN/m2 secondo fase). Il punto "
+    "debole non e' il puntello in se' ma la catena: puntello inclinato, terreno che cede sotto la "
+    "piastra, forcella non centrata, ripuntellatura dimenticata dopo il disarmo delle travi."),
+tecnologia=("Sequenza corretta: piano di puntellazione da progetto (maglia, classe puntelli, basi) — "
+    "posa su terreno/solaio verificato (sui solai sottostanti: ripartizione e controllo della "
+    "capacita' del solaio inferiore, spesso decisivo) — allineamento e registrazione — controllo "
+    "prima del getto (checklist firmata) — sorveglianza durante il getto (cedimenti, inclinazioni) — "
+    "disarmo per fasi con ripuntellatura immediata dove prevista. I crolli in fase di getto sono "
+    "quasi sempre progressivi: un puntello cede, il carico migra sui vicini, il sistema collassa in "
+    "secondi."),
+applicazioni=("Solai gettati in opera a ogni quota, travi e cordoli, coperture in c.a., sopraelevazioni "
+    "su strutture esistenti (verifica della capacita' portante dell'esistente come base di "
+    "puntellazione), rinforzi provvisionali in consolidamenti."),
+vantaggi=("Sistema semplice, controllabile, riconfigurabile; la puntellazione ben progettata permette "
+    "cicli di getto rapidi e sicuri; su edifici ripetitivi (residenziale multipiano) la maglia "
+    "standardizzata riduce tempi ed errori."),
+limiti=("Dipendenza totale dalla base d'appoggio: su terreno il puntello affonda, su solaio esistente "
+    "la capacita' va verificata; i puntelli recuperati e usurati (filettature spanate, piegature) "
+    "perdono portata senza segni evidenti; la ripuntellatura e' la fase piu' saltata per fretta: e "
+    "quella dove avvengono i crolli."),
+costi_e_economia=("Ordini di grandezza indicativi: Puntello classe D/E a noleggio: 0,10-0,30 "
+    "€/pezzo/giorno; trave H20: 0,15-0,40 €/m/giorno; progetto piano di puntellazione e fasi: "
+    "500-2.500 € a edificio tipo; conseguenze di un crollo in getto: non economiche, penali."),
+casi_real_world=("Caso tipo: sopraelevazione in c.a. su edificio anni Sessanta: verifica dei solai "
+    "esistenti come base di puntellazione, ripartitori in legno e maglia ridotta sui solai "
+    "sottostanti, monitoraggio con livelli ottici durante i getti; solaio esistente rinforzato con "
+    "ripuntellatura permanente durante tutta la fase."),
+normative=("UNI EN 12812 (falsework); UNI EN 1065 (puntelli regolabili in acciaio: caratteristiche e "
+    "verifiche); NTC (D.M. 17/1/2018) per carichi e fasi; D.Lgs 81/2008 Titolo IV; istruzioni del "
+    "costruttore su classi e combinazioni ammesse (altezze, eccentricita')."),
+note_cantiere=("Prima di ogni getto cammina SOTTO il solaio da gettare, non sopra: guarda puntelli "
+    "dritti, piastre appoggiate, forcelle centrate, nessun puntello 'appoggiato al muro perche' "
+    "tanto tiene lo stesso'. Dieci minuti sotto valgono piu' di un'ora sopra."),
+)
+
+add(
+categoria="Scavi",
+nome="Sostegni provvisionali degli scavi: scarpate, badinaggi e blindaggi che salvano la vita",
+descrizione=("Lo scavo a cielo aperto uccide per ribaltamento dei fronti: un metro cubo di terra pesa "
+    "1.600-2.000 kg e non da' segnali prima di cedere. Il D.Lgs 81/2008 (Titolo IV, Capo II) impone "
+    "la scelta tra tre strategie: scavo a scarpata (fronte inclinato secondo l'angolo ammissibile "
+    "del terreno: terreni sciolti tipicamente 30-45 gradi), scavo con opere di sostegno (badinaggi e "
+    "blindaggi: tavolati orizzontali o verticali puntellati con martinetti) oppure scavo a sezione "
+    "obbligata con opere permanenti anticipate (paratie, micropali, diaframmi). La scelta dipende da "
+    "terreno, acqua, profondita' e ingombro: in ogni caso sopra 1,50 m di profondita' il fronte "
+    "verticale non sostenuto e' fuori legge e fuori buon senso."),
+tecnologia=("Elementi: tavolati in legno o pannelli metallici, correnti orizzontali, martinetti "
+    "idraulici o meccanici contro parete; blindaggi scorrevoli (trench box) per fognature: il "
+    "casserone scende con lo scavo e protegge gli operatori nel tratto aperto; accessi con scale "
+    "adeguate ogni 15 m di scavo o meno; parapetti di bordo scavo e arresti per i mezzi a distanza "
+    "di sicurezza dal ciglio; controllo dell'acqua (pompe, wellpoint) perche' l'acqua toglie "
+    "coesione e trasforma un fronte stabile in una frana."),
+applicazioni=("Scavi per fondazioni, fognature e sottoservizi, vasche e cisterne interrate, "
+    "bonifiche con rimozione terreni, allacci e riparazioni in trincea."),
+vantaggi=("Blindaggi e trench box industrializzati: posa rapida, protezione certa, riutilizzo "
+    "immediato; la scarpata non costa nulla in materiali (ma costa in terreno e spazio); la "
+    "progettazione del sostegno e' voce piccola a fronte del rischio eliminato."),
+limiti=("La scarpata richiede spazio che in citta' non c'e'; i badinaggi tradizionali in legno "
+    "dipendono dall'esperienza di chi li posa: fatti male sono peggio di niente perche' danno falsa "
+    "sicurezza; pioggia e vibrazioni dei mezzi degradano il fronte nel tempo: il controllo e' "
+    "quotidiano, non una tantum."),
+costi_e_economia=("Ordini di grandezza indicativi: Trench box a noleggio: 100-300 €/settimana a "
+    "modulo; badinaggio tradizionale fornito e posato: 15-40 €/m2 di parete sostenuta; "
+    "progetto/verifica sostegni di scavo: 500-3.000 € a lotto; wellpoint per abbassamento falda: "
+    "5-30 €/m/giorno secondo estensione."),
+casi_real_world=("Caso tipo: posa fognatura a 2,8 m in strada urbana: avanzamento con trench box "
+    "da 4 m, scavo e posa tubo dentro il casserone, riempimento contestuale; fronti mai scoperti "
+    "oltre il modulo; verifica giornaliera del CSE su sponde e accessi."),
+normative=("D.Lgs 81/2008 Titolo IV Capo II (scavi, fondazioni, opere di sostegno; obblighi su "
+    "scarpate, sostegni, accessi); progetto delle opere di sostegno secondo NTC (D.M. 17/1/2018) "
+    "cap. 6 (opere di sostegno); segnaletica e protezioni secondo Titolo V e allegati."),
+note_cantiere=("Se devi scendere in uno scavo e davanti a te c'e' un fronte verticale piu' alto di "
+    "te, fermati: non esiste 'solo cinque minuti per un allaccio'. Chi e' sepolto fino al torace "
+    "muore schiacciato anche se la testa e' fuori: la terra non perdona e non aspetta i soccorsi."),
+)
+
+add(
+categoria="Protezioni",
+nome="Protezioni collettive provvisionali: parapetti di bordo, reti di sicurezza e coperture temporanee",
+descrizione=("La protezione collettiva viene prima dei DPI: un parapetto protegge tutti, sempre, "
+    "senza dipendere dal comportamento. I sistemi tipici: parapetti provvisionali di bordo solaio "
+    "(montanti infissi o a morsa, corrente superiore a 1 m, intermedio, fermapiede; conformi alla "
+    "UNI EN 13374 che li classifica in classi A-B-C secondo l'azione statica e dinamica richiesta), "
+    "reti di sicurezza (UNI EN 1263-1: tipi S per uso orizzontale, V per perimetrali con bordo di "
+    "raccolta, U per verticali, T sospese), coperture provvisionali leggere per lavorare al coperto, "
+    "schermi e mantovane a protezione dei passanti, ponteggi di guardia per accessi pubblici."),
+tecnologia=("Posa e verifica: i parapetti di bordo vanno montati PRIMA che il bordo esista (fase di "
+    "getto/puntellazione), non dopo; le reti si posano il piu' vicino possibile sotto il piano di "
+    "lavoro (altezza di caduta nella rete limitata secondo libretto), con sovrapposizioni e "
+    "agganci verificati, e si ispezionano dopo ogni evento (caduta di persona o materiale: rete da "
+    "sostituire o ricontrollare); le coperture provvisionali su telai o multidirezionale vanno "
+    "verificate per vento e neve come strutture vere: un telone sottovento e' una vela."),
+applicazioni=("Edifici in elevazione (bordi solai, aperture vani scala e ascensori), lavori su "
+    "coperture (reti interne sotto il manto, parapetti di perimetro), cantieri adiacenti a "
+    "viabilita' e pubblico (mantovane, schermi), ristrutturazioni con edificio parzialmente "
+    "occupato."),
+vantaggi=("Efficacia indipendente dal fattore umano: proteggono anche il distratto, il nuovo "
+    "assunto, il visitatore; costi modesti rispetto al rischio; molti sistemi sono a secco, "
+    "riutilizzabili e rapidi."),
+limiti=("Richiedono manutenzione in esercizio: il parapetto smontato 'per un attimo' per scaricare "
+    "materiale e' la fotografia di quasi tutti gli incidenti da bordo solaio; le reti raccolgono "
+    "detriti e neve (carichi non previsti); le coperture provvisionali sottodimensionate al vento "
+    "crollano e portano via anche il ponteggio."),
+costi_e_economia=("Ordini di grandezza indicativi: Parapetto provvisoriale di bordo fornito e posato: "
+    "8-18 €/m; rete di sicurezza posata: 4-10 €/m2; mantovana su suolo pubblico: 20-45 €/m; "
+    "copertura provvisionale leggera: 25-70 €/m2 di copertura."),
+casi_real_world=("Caso tipo: edificio in c.a. 8 piani: parapetti classe B su tutti i bordi dal "
+    "primo getto, reti tipo S sotto i ponteggi di facciata ai cambi di lavorazione, mantovana "
+    "sull'unico accesso pedonale; due eventi di caduta materiali intercettati dalle reti senza "
+    "conseguenze, con sostituzione documentata del tratto."),
+normative=("UNI EN 13374 (protezioni temporanee dei bordi: classi e prove); UNI EN 1263-1 (reti di "
+    "sicurezza); D.Lgs 81/2008 Titolo IV (protezioni contro le cadute dall'alto: priorita' alle "
+    "misure collettive) e Titolo V (segnaletica); istruzioni del costruttore per posa e limiti "
+    "d'uso."),
+note_cantiere=("Fai la foto ai parapetti ogni lunedì: se a meta' settimana ne manca un tratto, "
+    "qualcuno l'ha smontato e non l'ha rimesso. La regola e' una: chi smonta una protezione la "
+    "presidia finche' non la rimonta, e la rimonta prima di andare via. Sempre."),
+)
+
+add(
+categoria="Ponteggi",
+nome="Ponti su cavalletti, passerelle e accessi provvisionali: l'autorizzazione ministeriale e i controlli",
+descrizione=("I ponti su cavalletti (cavalletti metallici con impalcato passante, usati su coperture "
+    "continue e facciate basse) e le passerelle di servizio sono opere provvisionali con disciplina "
+    "propria: come i ponteggi, i ponti su cavalletti richiedono componenti conformi ad autorizzazione "
+    "ministeriale (art. 141 D.Lgs 81/2008) e libretto con schemi tipo; gli accessi provvisionali "
+    "(scale di cantiere, rampe, passerelle tra ponteggi e verso gli impalcati) devono garantire "
+    "passaggio sicuro con parapetti completi, pendenza controllata e appoggi stabili. Sono le opere "
+    "su cui si inciampa piu' spesso: tavole non fissate, dislivelli improvvisi, parapetti interrotti "
+    "proprio dove serve la mano."),
+tecnologia=("Controlli chiave sui ponti su cavalletti: cavalletti appoggiati su piano portante e "
+    "orizzontale, collegati controventati, impalcato continuo e fissato, parapetti su entrambi i "
+    "lati, carichi da libretto rispettati (sono ponti di lavoro, non depositi); passerelle: larghezza "
+    "utile sufficiente al transito (e al trasporto materiali se previsto), pendenze oltre il 20% con "
+    "listelli antiscivolo, tavole con fermapiede laterali; accessi: scala interna al ponteggio con "
+    "botola, mai la facciata del ponteggio come 'scala'."),
+applicazioni=("Lavori su coperture a falda continua (linee vita e ponti su cavalletti), facciate di "
+    "edifici bassi estesi (ville, capannoni), collegamenti tra corpi di fabbrica in cantiere, "
+    "superamento di ostacoli al suolo (scavi, condotte)."),
+vantaggi=("Rapidita' e leggerezza: un ponte su cavalletti copre lunghe campate con poco materiale e "
+    "nessun appoggio intermedio; soluzione economica per coperture e facciate basse dove il "
+    "ponteggio pieno costerebbe il doppio."),
+limiti=("Rigidamente legati allo schema autorizzato: campate, carichi e appoggi fuori libretto "
+    "richiedono progetto; su coperture delicate (tenero, lastre fibrocemento) l'appoggio va "
+    "ripartito e verificato; la manutenzione in esercizio e' scarsa per natura (opera 'di passaggio'): "
+    "va ispezionata come le altre."),
+costi_e_economia=("Ordini di grandezza indicativi: Ponte su cavalletti noleggiato e montato: 25-55 €/m "
+    "di campata; passerella metallica con parapetti: 40-90 €/m; scala torre di accesso a noleggio: "
+    "80-200 €/mese a torre."),
+casi_real_world=("Caso tipo: rifacimento copertura di capannone industriale con pannelli: ponti su "
+    "cavalletti per le squadre manto, linee vita temporanee per i passaggi, passerella di "
+    "collegamento al ponteggio di facciata; controlli quotidiani pre-ingresso su fissaggi tavole e "
+    "parapetti."),
+normative=("D.Lgs 81/2008 art. 141 (ponti su cavalletti) e Titolo IV per gli accessi; autorizzazione "
+    "ministeriale e libretto del costruttore; UNI EN 12811 per i requisiti prestazionali dei "
+    "componenti analoghi; Titolo III per le attrezzature connesse (PLE per accessi alternativi)."),
+note_cantiere=("Cammina tu per primo ogni mattina il percorso degli operai: scala, passerella, ponte. "
+    "Se tu inciampi, loro cadono. E ogni tavola che si muove sotto il piede va fermata (viti o "
+    "morsetti) subito, non 'dopo il getto'."),
+)
+
+add(
+categoria="Progetto",
+nome="Progettare le opere provvisionali: carichi, vento, combinazioni e quando serve il calcolo firmato",
+descrizione=("Non tutte le provvisionali nascono uguali: lo schema tipo autorizzato (ponteggio a "
+    "telai entro altezze e maglie standard, ponte su cavalletti da libretto) e' gia' un progetto "
+    "implicito; fuori da quei binari — ponteggi alti, sbalzati, sospesi, da carico, casseforme per "
+    "getti spinti, sostegni di scavo profondi, coperture provvisionali — serve la relazione di "
+    "calcolo firmata da professionista. Le azioni da combinare: carichi di servizio (persone, "
+    "materiali, mezzi secondo le classi UNI EN 12811), vento (azione dominante su ponteggi alti e "
+    "coperture: telature e reti aumentano la superficie esposta), neve sulle coperture "
+    "provvisionali, azioni del getto su casseforme e falsework, eccentricita' e imperfezioni."),
+tecnologia=("Metodo: modello strutturale semplificato ma realistico (vincoli di ancoraggio reali, "
+    "semi-rigidita' dei nodi dei sistemi modulari), verifiche agli stati limite secondo NTC con i "
+    "coefficienti delle fasi transitorie, attenzione ai dettagli che i software non vedono: "
+    "appoggio su terreno (portata ammissibile sotto le basette), muratura esistente dietro gli "
+    "ancoraggi (tassello su mattone pieno ok, su intonaco su forato no), doppio ponteggio "
+    "accostato, carichi concentrati dei depositi. Il progetto finisce nel POS/PiMUS: schema di "
+    "montaggio, sequenze, controlli in esercizio."),
+applicazioni=("Ponteggi oltre gli schemi tipo, torri di sostegno e falsework, casseforme speciali, "
+    "coperture provvisionali, blindaggi di scavi profondi, qualsiasi provvisionale che regga "
+    "persone o getti fuori dai manuali dei noleggiatori."),
+vantaggi=("Il calcolo firmato chiarisce responsabilita' e limiti d'uso: chi monta sa cosa deve "
+    "ottenere, chi usa sa cosa non puo' fare; in contenzioso (infortunio, cedimento) e' la "
+    "differenza tra un evento e una colpa; spesso ottimizza anche i costi: schemi tipo troppo "
+    "prudenziali costano piu' di un progetto mirato."),
+limiti=("Tempi e costi del progetto vanno messi in cronoprogramma (settimane, non giorni): se il "
+    "calcolo arriva a ponteggio gia' montato, e' carta per l'assicurazione, non ingegneria; il "
+    "progetto resta valido finche' il cantiere non cambia (telature aggiunte, carichi diversi, "
+    "stagione): va aggiornato, non archiviato."),
+costi_e_economia=("Ordini di grandezza indicativi: Relazione di calcolo ponteggio fuori schema tipo: "
+    "800-3.000 €; progetto falsework/torri di sostegno: 1.500-8.000 €; verifica terza parte dove "
+    "richiesta: 400-1.500 €; aggiornamento per variante sostanziale: 300-1.000 €."),
+casi_real_world=("Caso tipo: ponteggio telato per cantiere in zona ventosa costiera, altezza 34 m: "
+    "calcolo con azione del vento su teli (coefficienti di forma maggiorati), ancoraggi "
+    "ridistribuiti e zavorre di base; dopo un evento di vento forte ispezione straordinaria "
+    "prescritta dal progetto: tre ancoraggi ricaricati, ponteggio confermato."),
+normative=("NTC (D.M. 17/1/2018) per azioni e verifiche (fasi transitorie incluse); UNI EN "
+    "12811-12812 (requisiti e metodi di prova/verifica per ponteggi e falsework); D.Lgs 81/2008 "
+    "artt. 133-136 (PiMUS e autorizzazioni); Circolare applicativa delle NTC per le strutture "
+    "provvisionali: verificare edizione vigente."),
+note_cantiere=("Quando il progetto dice 'ancoraggio ogni X', il cantiere legge 'piu' o meno ogni "
+    "X': metti nel progetto anche la tolleranza (+- mezza campata) e il controllo (chi conta e "
+    "quando). E scrivi in copertina il carico massimo per impalcato in linguaggio da cantiere: "
+    "'max 2 bancali di blocchi per piano' si capisce, '3,00 kN/m2' no."),
+)
+
+add(
+categoria="Gestione",
+nome="Montaggio, consegna e controlli in esercizio: la vita dell'opera provvisionale in cantiere",
+descrizione=("Un'opera provvisionale e' sicura tre volte: quando si monta, quando si consegna, ogni "
+    "giorno che la si usa. Montaggio: personale formato e autorizzato (per ponteggi e simili serve "
+    "formazione specifica), sequenze da PiMUS, DPI anticaduta durante il montaggio stesso (la fase "
+    "piu' pericolosa). Consegna: verbale di collaudo/consegna tra montatore e impresa utilizzatrice "
+    "con data, estensione, scostamenti dallo schema e carichi ammessi. Esercizio: controlli "
+    "periodici documentati (settimanali e dopo eventi eccezionali: vento forte, urti di mezzi, "
+    "modifiche), divieto di modifiche non autorizzate, gestione dei subentri (ogni impresa che usa "
+    "il ponteggio deve conoscerne limiti e stato)."),
+tecnologia=("Strumenti di gestione: targa di identificazione del ponteggio (sistema, data montaggio, "
+    "classe di carico) all'accesso; registro controlli con checklist (ancoraggi, giunti, impalcati, "
+    "parapetti, accessi, basi); procedura modifiche: solo il montatore autorizzato, con aggiornamento "
+    "PiMUS e nuova consegna; pianificazione degli smontaggi parziali (facciata finita: si smonta a "
+    "lotti, mai 'a macchia'); coordinamento CSE-imprese su uso condiviso e interferenze (gru che "
+    "carica sul ponteggio: vietato salvo verifica)."),
+applicazioni=("Ogni cantiere con ponteggi oltre qualche settimana di durata, cantieri multi-impresa "
+    "(condomini, grandi ristrutturazioni), opere provvisionali condivise tra lavorazioni diverse."),
+vantaggi=("I controlli periodici costano poche ore al mese e intercettano il degrado prima "
+    "dell'incidente (ancoraggi allentati, tavole rotte, basi assestate); la consegna documentata "
+    "chiarisce le responsabilita' tra noleggiatore, montatore e imprese utenti; il registro e' la "
+    "prova della diligenza in caso di verifica ASL/ISPESL (oggi INL)."),
+limiti=("Nei cantieri lunghi l'abitudine anestetizza: il controllo diventa firma senza giro; i "
+    "subentri multipli disperdono la memoria (chi ha spostato quella diagonale?); eventi "
+    "eccezionali notturni o festivi richiedono una procedura di rientro-in-servizio che nessuno "
+    "scrive mai: va prevista nel POS."),
+costi_e_economia=("Ordini di grandezza indicativi: Controllo periodico documentato (esterno): "
+    "80-200 € a visita per ponteggi di media estensione; verbali e registro gestiti internamente: "
+    "2-4 ore/mese di preposto; reintegro ancoraggi e componenti dopo eventi: 200-1.500 € a "
+    "intervento."),
+casi_real_world=("Caso tipo: cantiere ospedaliero durata 26 mesi: ponteggio multidirezionale con "
+    "registro controlli bisettimanali, targhe agli accessi, procedura post-evento (vento > 70 "
+    "km/h: ispezione prima del rientro); tre ispezioni straordinarie in due anni, otto ancoraggi "
+    "reintegrati, zero non conformita' aperte alle verifiche esterne."),
+normative=("D.Lgs 81/2008 artt. 131-137 (montaggio, PiMUS, formazione addetti, controlli); "
+    "Accordi Stato-Regioni sulla formazione (montaggio ponteggi e attrezzature); Titolo IV per "
+    "coordinamento e POS; libretto/autorizzazione del sistema per limiti e controlli del "
+    "costruttore."),
+note_cantiere=("Il verbale di consegna del ponteggio non e' burocrazia: e' il confine tra 'me "
+    "l'hanno consegnato cosi'' e 'l'ho rovinato io'. Non usare mai un ponteggio senza verbale, e "
+    "se ti serve cambiare qualcosa chiama il montatore: una diagonale tagliata per far passare "
+    "un carico ha gia' mandato all'ospedale troppe persone."),
+)
+
+add(
+categoria="Attrezzature",
+nome="Scale portatili e lavori in appoggio: UNI EN 131, appoggio corretto e i divieti che salvano",
+descrizione=("La scala portatile e' l'attrezzatura piu' diffusa e piu' banalizzata: eppure le cadute da "
+    "scala restano tra le prime cause di infortunio in edilizia e manutenzione. La norma di prodotto e' "
+    "la UNI EN 131 (scale portatili: materiali, dimensioni, prove, marcatura); il D.Lgs 81/2008 ne "
+    "disciplina l'uso come attrezzatura di lavoro: piano di appoggio stabile e orizzontale, appoggio "
+    "superiore sicuro, inclinazione corretta (circa 75 gradi: la regola pratica 1 a 4, un metro di "
+    "distanza dalla parete ogni quattro di altezza), bloccaggio o tenuta da seconda persona dove non "
+    "ancorabile, divieto di lavoro sugli ultimi gradini, divieto di uso come passerella o ponteggio. "
+    "Le scale doppie a cavalletto non si usano appoggiate in posizione distesa salvo libretto che lo "
+    "consenta."),
+tecnologia=("Controlli pre-uso: montanti senza lesioni ne' piegature, pioli integri e ben fissati, "
+    "piedini antiscivolo presenti, cinghie di apertura delle doppie efficienti, marcatura e portata "
+    "leggibili. In uso: tre punti di contatto sempre, attrezzi in cintura o issati, mai sporgersi "
+    "oltre i montanti (ombelico dentro la scala), spostamenti frequenti invece di allungamenti; per "
+    "lavori prolungati o con forze in orizzontale (trapani, scalpelli) la scala non e' il posto di "
+    "lavoro giusto: servono trabattello o PLE."),
+applicazioni=("Accessi brevi e lavori di durata limitata in quota (ispezioni, piccole riparazioni), "
+    "accesso a impalcati e botole, cantieri piccoli e manutenzioni diffuse; scale di cantiere "
+    "provvisorie tra quote solo se progettate e protette come accessi."),
+vantaggi=("Immediate, economiche, ovunque disponibili: per lavori veramente brevi e leggeri sono la "
+    "scelta corretta e proporzionata; una scala buona e ben appoggiata e' piu' sicura di un'improvvisazione "
+    "su cassette e bancali."),
+limiti=("Nessuna protezione collettiva: tutto dipende da appoggio e comportamento; su superfici "
+    "irregolari, bagnate o inclinate il rischio sale rapidamente; la tentazione dei lavori 'lunghi' "
+    "sulla scala (stuccare mezza parete) e' la madre degli infortuni: oltre pochi minuti o con carichi "
+    "serve altra attrezzatura."),
+costi_e_economia=("Ordini di grandezza indicativi: Scala doppia professionale in alluminio 8+8 gradini: "
+    "150-400 €; scala semplice 3-5 m: 80-250 €; ispezione e ritiro scale danneggiate: costo "
+    "gestionale, nessun costo se fatto per tempo; una caduta da 2 m: infortunio medio-grave e "
+    "settimane di stop."),
+casi_real_world=("Caso tipo: impresa di manutenzione con parco scale censito: marcatura progressiva, "
+    "controllo trimestrale documentato, ritiro immediato di due scale con pioli incriniti; procedura "
+    "interna: lavori oltre 20 minuti in quota solo con trabattello."),
+normative=("UNI EN 131 (scale portatili, serie completa: requisiti, prove, istruzioni); D.Lgs 81/2008 "
+    "Titolo III (attrezzature: uso conforme e controlli) e Titolo IV per il cantiere; istruzioni del "
+    "costruttore vincolanti per posizione d'uso e gradini vietati."),
+note_cantiere=("Butta le scale riparate con filo e nastro: una scala riparata in cantiere e' un "
+    "infortunio prenotato. E controlla SEMPRE i piedini: una scala senza gommini sul pavimento "
+    "liscio scivola sotto il peso proprio quando ci sei tu sopra."),
+)
+
+os.makedirs(os.path.join(BASE, 'schede'), exist_ok=True)
+with open(os.path.join(BASE, 'schede', 'schede.jsonl'), 'w', encoding='utf-8', newline='\n') as f:
+    for r in S:
+        f.write(json.dumps(r, ensure_ascii=False) + '\n')
+
+course = '''corso: "Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione"
+facolta: "FACOLTA_TECNOLOGIA_E_COSTRUZIONE"
+livello: "L1-L2"
+schede: 12
+formato: "JSONL"
+lingua: "it"
+schema_campi: [categoria, nome, descrizione, tecnologia, applicazioni, vantaggi, limiti, costi_e_economia, casi_real_world, normative, note_cantiere]
+fonti: "D.Lgs 81/2008 (Titolo IV cantieri: artt. 130-141, PiMUS art. 133, autorizzazione ministeriale art. 136, ponti su cavalletti art. 141; Titolo III attrezzature), UNI EN 12810, UNI EN 12811 (classi di carico), UNI EN 12812 (falsework), UNI EN 1065 (puntelli), UNI EN 1004 (torri mobili), UNI EN 13374 (protezioni bordi), UNI EN 1263-1 (reti), UNI EN 74 (giunti), UNI EN 131 (scale), NTC D.M. 17/1/2018 (azioni e fasi transitorie), Accordi Stato-Regioni formazione; istruzioni e autorizzazioni ministeriali dei sistemi come riferimento operativo"
+nota_metodologica: "Corso operativo sulle opere provvisionali di cantiere: inquadramento (quota sui costi, PiMUS, Titolo IV), ponteggi a telai (componenti, autorizzazione ministeriale, schemi tipo, ancoraggi), multidirezionali (nodi, classi di carico UNI EN 12811, torri di sostegno), trabattelli e torri mobili (UNI EN 1004, regola 3:1, stabilizzatori), casseforme e pressione del getto fresco (anche SCC), puntelli e sostegni di solaio (UNI EN 1065, ripuntellatura), sostegni di scavo (scarpate, badinaggi, trench box), protezioni collettive (UNI EN 13374, reti UNI EN 1263-1), ponti su cavalletti e accessi (art. 141), progetto e calcolo fuori schema tipo (vento, azioni, tolleranze), gestione in esercizio (consegna, controlli, registro). NON ridondante: nei pack esistenti i ponteggi compaiono solo incidentalmente (MEZZI_SOLLEVAMENTO: 1 scheda sui telai; METODI/POSA: casseforme lato getto); qui il corso completo dedicato. Prezzi come fasce indicative; norme solo di consolidata certezza; nessun nome di azienda."
+'''
+with open(os.path.join(BASE, 'COURSE.yaml'), 'w', encoding='utf-8', newline='\n') as f:
+    f.write(course)
+
+readme = ('# Ponteggi e opere provvisionali\n\n'
+    'Corso L1-L2 della Facolta di Tecnologia e Costruzione: le opere provvisionali di cantiere come '
+    'sistema — ponteggi a telai prefabbricati (componenti, autorizzazione ministeriale ex art. 136 '
+    'D.Lgs 81/2008, PiMUS, ancoraggi), ponteggi multidirezionali (nodi a rosetta, classi di carico '
+    'UNI EN 12811, torri di sostegno), trabattelli e torri mobili (UNI EN 1004, regola del 3:1), '
+    'casseforme e pressione del getto fresco (incluso SCC), puntelli e sostegni di solaio (UNI EN '
+    '1065, ripuntellatura), sostegni di scavo (scarpate, badinaggi, trench box), protezioni '
+    'collettive provvisionali (parapetti UNI EN 13374, reti UNI EN 1263-1, coperture temporanee), '
+    'ponti su cavalletti e accessi (art. 141), progetto e calcolo fuori schema tipo, gestione in '
+    'esercizio (consegna, controlli periodici, registro).\n\n'
+    '**Schede: 12**\n\n'
+    'Non ridondante con MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK (1 scheda sui telai), '
+    'METODI_COSTRUTTIVI_AVANZATI_PACK e POSA_IN_OPERA_PACK (casseforme lato getto): qui il corso '
+    'dedicato completo.\n')
+with open(os.path.join(BASE, 'README.md'), 'w', encoding='utf-8', newline='\n') as f:
+    f.write(readme)
+
+with open(os.path.join(BASE, 'schede', 'schede.jsonl'), encoding='utf-8') as f:
+    rows = [json.loads(l) for l in f if l.strip()]
+assert len(rows) == 12, f"attese 12 schede, trovate {len(rows)}"
+for r in rows:
+    assert list(r.keys()) == KEYS
+    assert r['costi_e_economia'].startswith('Ordini di grandezza indicativi: ')
+    blob = json.dumps(r, ensure_ascii=False)
+    assert 'aplicazioni' not in blob and 'tegnologia' not in blob
+print(f"OK: {os.path.join(BASE, 'schede', 'schede.jsonl')} - {len(rows)} schede, chiavi e ordine corretti")

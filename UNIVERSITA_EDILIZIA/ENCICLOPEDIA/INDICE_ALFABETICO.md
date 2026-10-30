@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1271 voci enciclopediche tratte da 84 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1283 voci enciclopediche tratte da 85 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -231,6 +231,8 @@
   Allestimento, puntellamento e rimozione dei casseri per getti verticali e orizzontali. Errore tipico: disarmo anticipato con struttura non ancora resistente, o casseri non a tenuta che perdono boiacca; controllo: verific…
 - **Casseforme e opere gettate in loco: tecnologie e cedimenti** — Casseforme · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cassero come tecnologia: casseri tradizionali, a telaio scorrevole, a perdere e autocarranti.
+- **Casseforme per getti in calcestruzzo: pressione del getto fresco, velocita' di riempimento e disarmo** — Casseforme · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  La cassaforma e' lo stampo del calcestruzzo fresco e ne subisce la spinta: un getto fluido esercita sulle pareti una pressione idrostatica che cresce con l'altezza e con la velocita' di riempimento, finche' la presa non …
 - **Cavi elettrici** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Cavi in rame isolati in PVC o gomma: la vena dell'impianto elettrico.
 - **Cavi speciali (dati, TV, domotica)** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1763,6 +1765,8 @@
   Le opere di sostegno trattengono il terreno negli scavi e nelle spianate: muri a gravità, a mensola (oltre-rigido), paratie (palancole, micropali, diaframmi) e sistemi ancorati, scelti in base ad altezza, spazio, falda e…
 - **Le opere marittime: dighe, scafi, pontili** — Opere marittime · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Le opere marittime convivono con l'acqua di mare: dighe foranee e frangiflutti (proteggono i porti), moli e banchine (attracco), pontili e scafi (operatività); il nemico è la forza del mare: onde, moto ondoso, corrosione…
+- **Le opere provvisionali: la meta' invisibile del cantiere che decide sicurezza e qualita'** — Fondamenti · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Opera provvisionale e' tutto cio' che si costruisce per costruire e si smonta a fine lavori: ponteggi, casseforme, puntelli, centine, sostegni di scavo, protezioni perimetrali, coperture provvisionali, ponti di servizio.…
 - **Le opzioni di bonifica: rimozione ex situ, trattamento in situ e contenimento** — Bonifica · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   Dopo la caratterizzazione e la valutazione del rischio, il progetto di bonifica sceglie tra tre famiglie strategiche: rimozione ex situ (scavo e trasporto a impianto di trattamento o discarica), trattamento in situ o in …
 - **Le pareti verdi e i giardini verticali** — Pareti verdi · corso: *Verde urbano e arredo urbano* (`VERDE_ARREDO_URBANO_PACK`)
@@ -2003,6 +2007,8 @@
   Misura continua o periodica dell'evoluzione di lesioni, rotazioni e risposta dinamica per decidere se un dissesto è attivo e se un intervento ha funzionato. L'errore tipico è installare fessurimetri senza registrazione d…
 - **Montaggio della carpenteria in cantiere** — Montaggio · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Dalla consegna in officina alla struttura in opera: sequenza, giunti e precisione.
+- **Montaggio, consegna e controlli in esercizio: la vita dell'opera provvisionale in cantiere** — Gestione · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Un'opera provvisionale e' sicura tre volte: quando si monta, quando si consegna, ogni giorno che la si usa. Montaggio: personale formato e autorizzato (per ponteggi e simili serve formazione specifica), sequenze da PiMUS…
 - **Moquette** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rivestimento tessile in rotoli o quadrotti: comfort acustico e termico: uffici e camere.
 - **Movimento franoso: prevenzione e mitigazione** — Frane · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -2129,16 +2135,22 @@
   Combinazione caldaia a gas + pompa di calore: la PDC copre il 90% del fabbisogno, la caldaia i picchi.
 - **Pompe e circolatori: come funzionano e come si scelgono** — Pompe e circolatori · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il cuore che muove l'acqua nei circuiti chiusi.
+- **Ponteggi metallici a telai prefabbricati: componenti, autorizzazione ministeriale e PiMUS** — Ponteggi · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Il ponteggio a telai prefabbricati e' lo standard del cantiere edile italiano: telai in acciaio (luce tipica 1,80 m, profondita' 1,05-1,25 m) sovrapposti e collegati da traversi, parapetti, diagonali di controvento, impa…
 - **Ponteggi metallici a telai: montaggio, vincoli e carichi ammissibili** — Ponteggi a telai · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
   Il ponteggio a telai e' la spina dorsale dei lavori su facciata: una struttura temporanea metallica che deve reggere persone, materiali e talvolta gru a piattaforma. Va montata da personale abilitato secondo progetto.
 - **Ponteggi multidirezionali, sospesi e strutture speciali** — Ponteggi speciali · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
   Quando la facciata e' complessa — cupole, torri, ponti, fronti in quota su roccia — il ponteggio a telai non basta: entrano i sistemi multidirezionali (fermate su ogni direzione) o i ponteggi sospesi.
+- **Ponteggi multidirezionali: il sistema per geometrie complesse, sbalzi e grandi carichi** — Ponteggi · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Il ponteggio multidirezionale (a montanti e traversi con giunti a rosetta o a coppiglia) e' l'evoluzione modulare che risolve cio' che il telaio prefabbricato non puo': facciate con sbalzi e rientri, campate irregolari, …
 - **Ponti e grandi strutture metalliche** — Grandi strutture · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Cenni tecnici sulle grandi strutture di acciaio: forme, cantiere e fatica.
 - **Ponti e strutture provvisorie d'emergenza** — Strutture provvisorie · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Ricostruire i collegamenti in giorni: ponti Bailey, passerelle e opere di emergenza.
 - **Ponti e viadotti: l'impermeabilizzazione sotto il manto stradale** — Infrastrutture · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
   Sotto l'asfalto di un ponte c'e' un impacco che protegge il cls e le armature dall'acqua e dai sali disgelanti: quando fallisce, il degrado arriva alle armature e il conto diventa strutturale. E' la scheda che manca a qu…
+- **Ponti su cavalletti, passerelle e accessi provvisionali: l'autorizzazione ministeriale e i controlli** — Ponteggi · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  I ponti su cavalletti (cavalletti metallici con impalcato passante, usati su coperture continue e facciate basse) e le passerelle di servizio sono opere provvisionali con disciplina propria: come i ponteggi, i ponti su c…
 - **Ponti: tipologie e scelta della struttura** — Ponti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Attraversare l'ostacolo: la storia e la tecnologia del ponte.
 - **Poroton (argilla forata ad alta isolazione)** — Laterizi e blocchi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2201,6 +2213,8 @@
   Profili in lamiera zincata (C, U, omega, montanti) che formano il telaio delle pareti e controsoffitti.
 - **Profilo inox per scale** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Corrimano e supporti in acciaio inox satinato: le scale moderne e i parapetti.
+- **Progettare le opere provvisionali: carichi, vento, combinazioni e quando serve il calcolo firmato** — Progetto · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Non tutte le provvisionali nascono uguali: lo schema tipo autorizzato (ponteggio a telai entro altezze e maglie standard, ponte su cavalletti da libretto) e' gia' un progetto implicito; fuori da quei binari — ponteggi al…
 - **Progetto aeroportuale: piste, piazzali, terminal** — Aeroporti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Come si costruisce un aeroporto: pista, viabilità aerea, terminal, quota di progetto.
 - **Progetto di gallerie: sottovia di montagna e metropolitane** — Gallerie · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -2215,6 +2229,8 @@
   Difesa da fulmini e manovre rete: scaricatori di sovratensione.
 - **Protezione dalla corrosione: classi ambientali e sistemi** — Corrosione · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Durabilità dell'acciaio: dalla classificazione ISO 12944 alla zincatura e ai cicli vernicianti.
+- **Protezioni collettive provvisionali: parapetti di bordo, reti di sicurezza e coperture temporanee** — Protezioni · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  La protezione collettiva viene prima dei DPI: un parapetto protegge tutti, sempre, senza dipendere dal comportamento. I sistemi tipici: parapetti provvisionali di bordo solaio (montanti infissi o a morsa, corrente superi…
 - **Prove di carico su solai** — Prove di struttura · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Carico controllato di un solaio con misura delle frecce e del recupero a scarico per verificarne il comportamento reale. L'errore tipico è caricare troppo in fretta o senza puntoni di sicurezza sotto il solaio; il contro…
 - **Prove non distruttive sulla carpenteria** — Collaudi NDT · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -2227,6 +2243,8 @@
   La pulitura delle superfici lapidee e degli intonaci storici va condotta con metodo graduale, dal meno invasivo al più incisivo, valutando la risposta del materiale a ogni passaggio. Acqua deionizzata, spazzolamenti mecc…
 - **Pumped storage e accumulo idroelettrico** — Accumulo idrico · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Grandissime batterie idrauliche: si pompano acque verso un bacino alto per rigenerare in punta.
+- **Puntelli, travi e sostegni di solaio: il sistema che regge il getto finche' non e' struttura** — Casseforme · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Finche' il calcestruzzo non raggiunge la resistenza di progetto, il solaio e' retto dalle opere provvisionali: puntelli in acciaio regolabili (classi per portata), telai prefabbricati, travi reticolari in legno H20, forc…
 
 ## Q
 - **Quadri elettrici** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2329,6 +2347,8 @@
   La scala è il rapporto tra disegno e realtà: edilizia usa soprattutto 1:50 e 1:100 (piante/sezioni), 1:20 o 1:10 (dettagli), 1:200 (schembi/ubicazione); i formati foglio seguono la serie A (A0 841×1189, A1 594×841, A2 42…
 - **Scale mobili e tappeti mobili: il trasporto orizzontale-inclinato** — Scale mobili e tappeti · corso: *Ascensori e movimentazione verticale* (`ASCENSORI_E_MOVIMENTAZIONE_VERTICALE_PACK`)
   Centri commerciali, metropolitane e stazioni vivono di scale mobili e tappeti: impianti pubblici, intensissimi, che vanno progettati sul flusso e mantenuti con rigore quasi ospedaliero.
+- **Scale portatili e lavori in appoggio: UNI EN 131, appoggio corretto e i divieti che salvano** — Attrezzature · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  La scala portatile e' l'attrezzatura piu' diffusa e piu' banalizzata: eppure le cadute da scala restano tra le prime cause di infortunio in edilizia e manutenzione. La norma di prodotto e' la UNI EN 131 (scale portatili:…
 - **Scan-to-BIM: dal rilievo alla modello dell'esistente** — Scan-to-BIM · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Lo scan-to-BIM converte la nuvola di punti del rilievo laser in un modello BIM fedele dell'esistente (HBIM per i beni storici): geometria semplificata LOD 200-300 con la giusta approssimazione delle irregolarità reali.
 - **Scarichi acque nere e grigie** — Idraulica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -2397,6 +2417,8 @@
   Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
 - **Sonde geotermiche verticali: perforazione, immissione e cementazione** — Scambiatori · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
   La sonda verticale e' lo scambiatore geotermico piu' diffuso: un foro profondo, un circuito in polietilene immerso e una cementazione termoconduttiva che chiude l'intercapedine. Semplice nel concetto, implacabile nell'es…
+- **Sostegni provvisionali degli scavi: scarpate, badinaggi e blindaggi che salvano la vita** — Scavi · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Lo scavo a cielo aperto uccide per ribaltamento dei fronti: un metro cubo di terra pesa 1.600-2.000 kg e non da' segnali prima di cedere. Il D.Lgs 81/2008 (Titolo IV, Capo II) impone la scelta tra tre strategie: scavo a …
 - **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   Il cantiere agricolo come centrale energetica: integrazione di FV, biogas ed efficienza negli edifici rurali.
 - **Spese generali, utile d'impresa e oneri accessori** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
@@ -2489,6 +2511,8 @@
   Torre e fondazione sono il 25-40% del costo e il 100% del rischio strutturale: il vento che fa produrre la macchina e' lo stesso che la carica. Per l'impresa edile e' la parte di lavoro piu' concreta e piu' controllabile…
 - **Torri solari a ricevitore centrale** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Nella torre solare centinaia o migliaia di eliostati (specchi piani inseguitori a due assi) concentrano la radiazione su un ricevitore in cima a una torre: si raggiungono temperature oltre i 565 gradi C e concentrazioni …
+- **Trabattelli e torri mobili: la regola del 3:1, gli stabilizzatori e gli errori che uccidono** — Ponteggi · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
+  Il trabattello (torre mobile in alluminio o acciaio su ruote) e' l'attrezzatura piu' usata e piu' sottovalutata del piccolo cantiere: montaggio rapido, spostamento agevole, impalcato di lavoro fino a 8-12 m secondo model…
 - **Tracciamenti, quote e controlli geometrici** — Controlli di cantiere · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Impianto degli assi di cantiere, controllo di quote, piombo e squadri durante tutte le lavorazioni. Errore tipico: tracciare sugli spigoli invece che sugli assi e perdere i riferimenti al primo scavo; controllo: picchett…
 - **Trasporti e sollevamento dei prefabbricati** — Trasporti · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)

@@ -80,6 +80,7 @@ di apprendimento per settore.
 | PERIZIE_STIME | ✅ 250 domande | chiavi: jsonl |
 | PIETRE_NATURALI | ✅ 250 domande | chiavi: jsonl |
 | POSA_IN_OPERA | ✅ 300 domande | chiavi: jsonl |
+| PONTEGGI_OPERE_PROVVISIONALI | ✅ 250 domande | chiavi: jsonl |
 | PORTI_MARITTIMI | ✅ 250 domande | chiavi: jsonl |
 | PREFABBRICAZIONE | ✅ 250 domande | chiavi: jsonl |
 | PREZZIARIO_LISTINI | ✅ 250 domande | chiavi: jsonl |
@@ -101,7 +102,7 @@ di apprendimento per settore.
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 85 esami (uno per settore, denominazioni storiche incluse) a copertura degli 83 pack
+Copertura: 86 esami (uno per settore, denominazioni storiche incluse) a copertura degli 84 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.

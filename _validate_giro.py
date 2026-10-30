@@ -37,7 +37,7 @@ for p in packs:
             if isinstance(ce, str) and not ce.startswith('Ordini di grandezza indicativi: '):
                 # prefisso obbligatorio per i contenuti NUOVI; nei pack legacy pre-esistenti
                 # (giri precedenti o edit manuali del proprietario) e' debito noto: warning.
-                if p in ('NORMATIVA_UE_INTERNAZIONALE_PACK', 'IDROELETTRICO_PICCOLA_TAGLIA_PACK'):
+                if p in ('NORMATIVA_UE_INTERNAZIONALE_PACK', 'IDROELETTRICO_PICCOLA_TAGLIA_PACK', 'PONTEGGI_OPERE_PROVVISIONALI_PACK'):
                     errors.append(f"{p} riga {i}: costi_e_economia senza prefisso richiesto")
                 else:
                     warnings.append(f"{p} riga {i}: prefisso costi mancante (legacy)")

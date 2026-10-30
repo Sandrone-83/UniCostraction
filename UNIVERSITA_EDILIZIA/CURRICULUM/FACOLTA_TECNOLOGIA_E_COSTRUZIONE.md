@@ -33,3 +33,6 @@ Tecnologie costruttive, materiali, posa, disegno CAD e BIM.
 
 ## Corsi aggiunti (giro AH)
 - INFRASTRUTTURE_VERDI_BLU_PACK (L2-L3) — drenaggio urbano sostenibile (SUDS) e NBS: invarianza idraulica, calcolo idrologico (metodo razionale/invaso), rain garden, swales, pavimentazioni drenanti continue e discrete, trincee e pozzi perdenti, prima pioggia e trattamento, wetland, serbatoi geocellulari, alberi e cellule radicolari, manutenzione — ESAME: ESAMI/INFRASTRUTTURE_VERDI_BLU
+
+## Corsi aggiunti (giro AL)
+- PONTEGGI_OPERE_PROVVISIONALI_PACK (L1-L2) — opere provvisionali di cantiere: quota sui costi e PiMUS (art. 133 D.Lgs 81/2008), ponteggi a telai (autorizzazione ministeriale art. 136, schemi tipo, ancoraggi), multidirezionali (nodi a rosetta, classi UNI EN 12811, torri di sostegno), trabattelli e torri mobili (UNI EN 1004, regola 3:1, stabilizzatori), scale portatili (UNI EN 131), casseforme e pressione del getto fresco (anche SCC), puntelli e sostegni di solaio (UNI EN 1065, ripuntellatura), sostegni di scavo (scarpate, badinaggi, trench box), protezioni collettive (parapetti UNI EN 13374, reti UNI EN 1263-1), ponti su cavalletti (art. 141) e accessi, progetto e calcolo fuori schema tipo (vento, azioni), gestione in esercizio (consegna, controlli, registro) — ESAME: ESAMI/PONTEGGI_OPERE_PROVVISIONALI
