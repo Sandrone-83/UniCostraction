@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1283 voci enciclopediche tratte da 85 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1295 voci enciclopediche tratte da 86 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -389,12 +389,18 @@
   La legge italiana dell'impiantistica: installazione, manutenzione, abilitazioni dei professionisti.
 - **DALI (Digital Addressable Lighting Interface)** — Protocollo luce · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo digitale dedicato al controllo dell'illuminazione professionale.
+- **Decostruzione selettiva operativa e strip-out: smontare prima di abbattere** — Demolizioni — decostruzione e rifiuti · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  L'approccio inverso alla costruzione: prima delle macchine, il cantiere rimuove manualmente o con piccoli mezzi finiture, impianti e componenti recuperabili (strip-out), poi procede per strati verso le strutture. Qui il …
 - **Deflusso ecologico (DMV/DEC): rilascio continuo, misura e compatibilita' col fiume** — Ambiente · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
   Ogni derivazione lascia nel tratto fluviale sottratto un deflusso minimo che deve garantire la funzionalita' dell'ecosistema acquatico: storicamente chiamato DMV (deflusso minimo vitale), oggi deflusso ecologico (DEC) ne…
 - **Degrado del calcestruzzo: carbonatazione, cloruri e reazione alcali-aggregato** — Degrado dei materiali · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Le tre patologie chimiche principali del calcestruzzo armato: carbonatazione del copriferro, penetrazione di cloruri e reazione alcali-aggregato (ASR). L'errore tipico è trattare il sintomo (ferro arrugginito, espulsione…
+- **Demolizione meccanica con mezzi pesanti: pinze, martelli demolitori e high-reach** — Demolizioni — tecniche esecutive · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  La tecnica piu' diffusa per l'abbattimento di edifici: macchine operatrici equipaggiate con attrezzature idrauliche di frantumazione e taglio che aggrediscono la struttura dall'alto verso il basso, su letto di materiale …
 - **Demolizione selettiva e recupero degli inerti in opera** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   La demolizione selettiva e' la rimozione pianificata e separata dei materiali di un edificio (prima il rilievo delle sostanze pericolose, poi le finiture, poi gli impianti, infine la struttura) per massimizzare recupero …
+- **Demolizioni in contesto urbano e con terzi presenti: schermi, protezioni e viabilita'** — Demolizioni — impatto e contesto · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Demolire in citta' abitata significa lavorare con il pubblico a ridosso: pedoni, residenti, attivita' in esercizio, edifici adiacenti condivisi o accostati. Richiede protezioni fisiche, organizzazione delle finestre di l…
 - **Demolizioni selettive e smontaggi controllati** — Demolizioni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cantiere al contrario: demolire, smontare e recuperare in sicurezza e con recupero dei materiali.
 - **Design for disassembly: progettare edifici smontabili e riutilizzabili** — Progettazione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
@@ -473,6 +479,8 @@
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
+- **Economia e contabilita' della demolizione: prezzi, crediti da recupero ed errori di preventivo** — Demolizioni — economia e contabilita' · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Come si forma davvero il costo di una demolizione e come va contabilizzata: la voce dominante non e' l'abbattimento ma la gestione dei materiali, e l'errore di preventivo piu' frequente e' la sottostima di trasporti e co…
 - **Economia e programmazione delle grandi opere idrauliche** — Economia · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -579,6 +587,8 @@
   Il fotovoltaico in copertura chiude il bilancio del retrofit: alimenta la pompa di calore e la VMC con elettricita' autoprodotta, l'accumulo sposta l'autoconsumo verso la sera e la colonnina prepara l'edificio alla mobil…
 - **Fotovoltaico: stringhe, inverter e connessione** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Generazione elettrica da sole: il cuore della transizione energetica degli edifici.
+- **Frantumazione in sito e riutilizzo degli inerti come aggregato riciclato** — Demolizioni — decostruzione e rifiuti · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Trasformare il risultante di demolizione in aggregato direttamente in cantiere, con impianto mobile: il materiale rientra in opera come sottofondo, rilevato o riempimento, riducendo trasporti, conferimenti e acquisto di …
 - **Funzioni e lettura dei grafici tecnici** — Funzioni e grafici · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Diagrammi momento-taglio, curve di carico, andamenti termici: leggere e capire i grafici.
 
@@ -1059,6 +1069,8 @@
   La manodopera è il cuore e il rischio maggiore dell'impresa edile: contrattualistica (CCNL edilizia e industria, part-time, somministrazione), gestione dei rapporti (assunzioni, dimissioni, malattie, infortuni), sviluppo…
 - **Il piano di caratterizzazione: campionamenti, matrici e parametri analitici** — Indagini · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   Il piano di caratterizzazione è il documento che traduce i sospetti delle indagini preliminari in dati analitici. Definisce dove campionare (punti e profondita', in genere su griglie e diacche), quali matrici raccogliere…
+- **Il piano di demolizione allegato al POS: sequenze, puntellamenti e zone di ricaduta** — Demolizioni — indagini e pianificazione · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Documento tecnico-operativo obbligatorio che descrive come la struttura viene 'smontata' in sicurezza: analisi del manufatto, scelta delle tecniche, successione ordinata delle lavorazioni, opere di rafforzamento e puntel…
 - **Il piano di manutenzione programmata: classi UNI 10329, dal piano al calendario** — Manutenzione programmata · corso: *Facility management e manutenzione programmata* (`FACILITY_MANAGEMENT_E_MANUTENZIONE_PACK`)
   La manutenzione programmata organizza gli interventi prima che il guasto avvenga, sulla base di scadenze fisse (tempo) o di condizione (stato). La UNI 10329 distingue la manutenzione in quattro classi: ordinaria (conserv…
 - **Il piano fiscale dell'impresa: scelte annuali, acconti, ravvedimento e il commercialista come alleato** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
@@ -1427,6 +1439,8 @@
   La cupola in laterizio più grande del mondo: 44 m di diametro, costruita senza centine (impalcature) complete.
 - **La degenza: la camera come ambiente di cura** — Degenza · corso: *Edilizia sanitaria e ospedaliera* (`OSPEDALI_E_HEALTHCARE_PACK`)
   La camera di degenza è la 'casa' del paziente per giorni o mesi: il progetto moderno privilegia le camere con servizi private o doppie (l'isolamento dell'infezione, la dignità), la vista verde (il contatto con la natura …
+- **La demolizione con esplosivo: implosioni controllate di torri, camini e grandi volumi** — Demolizioni — metodi speciali · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Tecnica specialistica che abbatte la struttura in pochi secondi innescando il crollo per gravita' mediante cariche esplosive poste sugli elementi portanti critici, con direzionalita' di caduta progettata. Riservata a man…
 - **La deumidificazione meccanica e la ventilazione controllata in edilizia umida** — Deumidificazione · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Quando l'edificio non può risanare alla radice (vincoli, costi, tempi) la deumidificazione meccanica gestisce il sintoma in modo scientifico: abbassare l'umidità dell'aria impedisce la condensa e ferma la muffa.
 - **La diagnosi del retrofit: audit energetico e rilievo strumentale** — Diagnosi · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
@@ -1747,6 +1761,8 @@
   Il lessico minimo per ragionare sulla luce: flusso luminoso (lumen, lm), intensita' (candela, cd), illuminamento (lux, lx = lm/m²), luminanza (nit, cd/m²) e grandezze cromatiche (temperatura di colore in kelvin, indice d…
 - **Le icone del design da conoscere: sedie, lampade, tavoli** — Icon del design · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
   Un nucleo di capisaldi riconoscibili costituisce il vocabolario professionale: sedia Barcelona (Mies van der Rohe, 1929), sedia LC4 Chaise Longue (Le Corbusier/Perriand/Jeanneret), Tulip Chair (Eero Saarinen, 1956), Arco…
+- **Le indagini conoscitive pre-demolizione: rilievo, materiali, servizi e vincoli** — Demolizioni — indagini e pianificazione · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  La fase zero di ogni demolizione: capire COSA si demolisce prima di decidere COME. Comprende il rilievo geometrico e strutturale, l'identificazione dei materiali e delle sostanze pericolose, la mappatura dei servizi atti…
 - **Le indagini geotecniche: sondaggi, carotaggi e campionamento** — Indagini geotecniche · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   La campagna di indagini geotecniche ricostruisce il sottosuolo stratigrafico e misura le proprietà dei terreni prima di progettare fondazioni e scavi: sondaggi con carotaggio continuo, campioni indisturbati, prove in sit…
 - **Le indagini preliminari: analisi storica, aerofotogrammetria, visite e interviste** — Indagini · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
@@ -1983,6 +1999,8 @@
   Prevenire invece che curare: il piano nazionale di messa in sicurezza e le schede di valutazione.
 - **Metodi digitali di cantiere: 4D, machine control e gemelli digitali** — Digitalizzazione cantieri · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Come la digitalizzazione cambia i metodi costruttivi: dalla simulazione delle fasi al controllo macchine.
+- **Metodi speciali: agenti espansivi, idrodemolizione e robot radiocomandati** — Demolizioni — metodi speciali · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Tre tecniche di nicchia che risolvono contesti dove meccanica ed esplosivo non sono praticabili: fessurazione senza vibrazioni con agenti espansivi, asportazione selettiva del calcestruzzo degradato con acqua ad altissim…
 - **Metodo NATM (scavo tradizionale ad avanzamento ridotto) in galleria** — Scavo convenzionale · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il metodo austriaco: scavo per fasi ridotte con sostegno flessibile in rapida successione.
 - **Metodo top-down (costruzione dal basso verso l'alto)** — Cantieri sotterranei · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -2129,6 +2147,8 @@
   Sull'esistente non si scava: il 90% degli interrati italiani va impermeabilizzato dall'interno, cioe' in pressione negativa. E' il terreno dove si giocano (e si perdono) piu' soldi: malte osmotiche, iniezioni, cavedii is…
 - **Poliuretano a spruzzo (spray foam)** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Schiuma PU rigida a spruzzo che impermeabilizza e isola in un'applicazione: tetti, cavedi, serbatoi.
+- **Polveri, rumore e vibrazioni in demolizione: prevenzione alla fonte e monitoraggio** — Demolizioni — impatto e contesto · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  I tre impatti fisici caratteristici del cantiere di demolizione. La norma prescrive l'abbattimento alla fonte delle polveri; il monitoraggio strumentale di vibrazioni e rumore tutela edifici vicini, recettori sensibili e…
 - **Pompa di calore aria-acqua** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Macchina frigorifera inversa che scalda (e raffresca) usando l'aria esterna: 1 kWh elettrico -> 3-5 kWh termici.
 - **Pompe di calore ibrido (integrazione)** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -2293,6 +2313,8 @@
   Reti di barre saldate in fabbrica: per solai, massetti, riprese di getto: distribuiscono armatura con velocità.
 - **Retrofit energetico e miglioramento sismico: l'intervento combinato** — Integrazione · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Sul patrimonio esistente energia e sismica si fanno nello stesso cantiere o non si fanno affatto: ponteggio, pratiche e disagi sono gli stessi, e combinare cappotto con rinforzi (cerchiature, FRP, placcaggi) e' la strate…
+- **Rifiuti da demolizione: codici CER 17, bilancio di massa e percorso documentale** — Demolizioni — decostruzione e rifiuti · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  La demolizione e' un processo di produzione di rifiuti: ogni tonnellata deve avere un codice, un documento di trasporto e una destinazione tracciata. Il bilancio di massa stimato in fase di piano guida preventivo e crono…
 - **Rifiuti urbani smart: cassonetti sensorizzati, raccolta a misura e tariffazione puntuale** — Servizi urbani · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
   La raccolta dei rifiuti e' il servizio dove i sensori cambiano i conti: cassonetti che dicono quando sono pieni, raccolte pianificate sul riempimento reale invece che sul calendario, tariffe calcolate su quanto si confer…
 - **Rilevazione incendi e analisi** — Antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -2469,6 +2491,8 @@
 ## T
 - **Taglie e architettura d'impianto: micro (fino a 20 kW), mini (20-200 kW) e il confine col grande eolico** — Tecnologia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   La taglia decide tutto: normativa, connessione, struttura, business plan. La fascia fino a 20 kW e' il mondo dell'autoconsumo domestico-agricolo; le 50-200 kW servono utenze produttive; oltre si entra nella logica del gr…
+- **Taglio controllato: filo diamantato, seghe a disco e carotaggi per il dissezionamento** — Demolizioni — tecniche esecutive · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
+  Famiglia di tecniche 'chirurgiche' che separano la struttura in conci di peso controllato invece di frantumarla: permettono demolizioni precise, quasi prive di vibrazioni, anche su spessori elevati e in strutture armate.
 - **Tassello** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Dispositivo inserito in un foro della muratura o del cls che espandendosi o espandendo un manicotto blocca la vite: ancoraggio di carichi su cls e muratura.
 - **Tassello a percussione con chiodo** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)

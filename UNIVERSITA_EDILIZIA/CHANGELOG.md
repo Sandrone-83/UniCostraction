@@ -1,4 +1,25 @@
 
+## Giro AM — 2026-11-01, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 articolato ancora non pubblicato; CT 3.0 correttivo con intesa CU 22/10 gia' in scheda e ancora non in GU; CER e Reddito Energetico confermati); nuovo pack DEMOLIZIONI_FINE_VITA_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AM1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note AK1 (29/10) e AL1 (30/10) con proroga annunciata 50%/36% e mappa nuovo TUIR | Confermata: al 01/11/2026 l'articolato ufficiale del DDL Bilancio 2027 NON risulta ancora pubblicato; il comunicato del Governo (riportato da orizzontescuola.it 29/10) conferma «Per il 2027 sono confermate le detrazioni per le ristrutturazioni edilizie»: nessun terzo append in tre giorni (rumore), riga aperta prioritaria sull'articolato | orizzontescuola.it (29/10/2026), pmi.it (29-30/10/2026) — verifica web 01/11/2026 |
+| AM2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota ottobre 2026 aggiornata al 23/10 (intesa Conferenza Unificata 22/10/2026 con osservazioni; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata integralmente: l'intesa CU del 22/10 e' GIA' in scheda; fonti del 27/10 ribadiscono che il correttivo NON e' ancora stato adottato dal MASE ne' pubblicato in GU: valgono le regole vigenti | termicofacile.it (27/10/2026), annachiaracastagna.com (24/10/2026) — verifica web 01/11/2026 |
+| AM3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza accesso 31/12/2027 (o 5 GW), DL 19/2026 art. 27 | Confermato: nessun provvedimento nuovo oltre la richiesta delle associazioni di prorogare gli incentivi al 2030 (lettera 29/9/2026) | stampa di settore — verifica web 01/11/2026 |
+| AM4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi 300 mln/30.000 nuclei in LdB 2027) | Confermata: nessun bando pubblicato, decreto di rifinanziamento non in GU | stampa di settore — verifica web 01/11/2026 |
+| AM5 | Nuovo pack | — | DEMOLIZIONI_FINE_VITA_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): indagini pre-demolizione, piano allegato al POS (art. 151), demolizione meccanica e high-reach, taglio controllato (filo diamantato, carotaggi), esplosivo e implosioni (TULPS), metodi speciali (espansivi, idrodemolizione, robot), decostruzione selettiva operativa e strip-out, rifiuti CER 17 e bilancio di massa, frantumazione in sito (UNI EN 13242; End of Waste nazionale aggregati C&D: da verificare), polveri/rumore/vibrazioni (UNI 9916, L. 447/1995), contesto urbano, economia e contabilita'. Norme solo di consolidata certezza: Sezione VIII Titolo IV D.Lgs 81/2008 artt. 150-156 verificata su fonti tecniche concordanti (insic.it, ediltecnico.it, puntosicuro.it, Cass. pen. n. 29644/2025) | Norme di consolidata certezza verificate 01/11/2026; prezzi come fasce indicative; nessun nome di azienda |
+| AM6 | Nuovo esame | — | ESAMI/DEMOLIZIONI_FINE_VITA: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 87 esami su 85 pack) | build_esami_giro5.py |
+| AM7 | Validazione | — | Validazione globale: 85 pack, 1133 schede, 87 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (85/85). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: VERIFICA PRIORITARIA — pubblicazione dell'articolato ufficiale presentato in Parlamento: conferma di proroga 50%/36%, durata, perimetro (Sismabonus acquisti?), Bonus Mobili 5.000 euro; iter Camera/Senato fino all'approvazione finale entro il 31/12/2026; coordinamento col nuovo TUIR (art. 373) in vigore dal 1/1/2027.
+- Conto Termico 3.0: adozione del correttivo da parte del MASE, pubblicazione in GU e nuove Regole Applicative GSE.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE (ipotesi 300 mln/30.000 nuclei).
+- EPBD (UE) 2024/1275: due richiami UE all'Italia sul recepimento (stampa di settore 26/10/2026): stato da verificare.
+- CER: richiesta delle associazioni di prorogare gli incentivi al 2030 (29/9/2026): monitorare.
+
 ## Giro AL — 2026-10-30, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con DUE correzioni (mappa nuovo TUIR artt. 17/371/372/373/376 confermata da fonti concordanti; Reddito Energetico: stato sportello + ipotesi rifinanziamento 300 mln/30.000 nuclei); nuovo pack PONTEGGI_OPERE_PROVVISIONALI_PACK (12 schede) con esame.
