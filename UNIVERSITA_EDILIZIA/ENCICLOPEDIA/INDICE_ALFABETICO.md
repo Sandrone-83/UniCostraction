@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1295 voci enciclopediche tratte da 86 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1307 voci enciclopediche tratte da 87 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -487,6 +487,8 @@
   Quando la robotica ripaga: il quadro economico realistico.
 - **Economia portuale e logistica marittima: investimenti e catene del valore** — Economia · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
   I numeri del porto: investimenti, occupazione e integrazione con la logistica terrestre.
+- **Edifici in muratura e meccanismi locali: il nemico numero uno del patrimonio storico** — Sismica — edifici esistenti · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Nei centri storici italiani il danno sismico nasce quasi sempre da meccanismi locali: pareti che ribaltano fuori piano, facciate che si staccano, archi e volte che cedono. La verifica dei meccanismi locali e' obbligatori…
 - **Edilizia residenziale pubblica e housing sociale** — Edilizia pubblica · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   L'edilizia pubblica abitativa è tornata centrale: ERP (edilizia residenziale pubblica) con assegnazione a canone calmierato, housing sociale (bandi regionali e nazionali con risorse PNRR), riqualificazione del patrimonio…
 - **Edilizia rurale e vincoli: costruire nel paesaggio agricolo** — Ambiente · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -617,6 +619,8 @@
   La pompa di calore geotermica e' elettrica: accoppiata al fotovoltaico diventa climatizzazione a fonte rinnovabile in loco; accoppiata al free cooling geotermico estivo azzera quasi il consumo di raffrescamento. E' lo sc…
 - **Geotessuto** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Tessuto sintetico (polipropilene/poliestere) non tessuto o intrecciato: separazione, filtrazione, rinforzo.
+- **Gerarchia delle resistenze e dettagli costruttivi nel cemento armato** — Sismica — progetto delle opere nuove · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Il cuore della progettazione antisismica del c.a.: far plasticizzare le travi prima dei pilastri, i meccanismi flessionali prima di quelli taglianti, e confinare dove la struttura deve deformarsi senza perdere resistenza…
 - **Gestione dei rifiuti di cantiere: obblighi, documenti e trappole** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   I rifiuti di cantiere sono rifiuti speciali a tutti gli effetti: il produttore (l'impresa o il committente, secondo il caso) ne risponde dalla produzione alla destinazione finale, con documenti obbligatori e responsabili…
 - **Gestione del rischio: contrattuale, assicurativo, finanziario** — Rischio · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -889,6 +893,8 @@
   Costruire un campo solare a concentrazione e' un cantiere di carpenteria di precisione su scala industriale: migliaia di fondazioni puntuali, montaggio di specchi a tolleranze millimetriche, collaudo ottico. La parte edi…
 - **Il cantiere del legno: montaggio, sequenze, precisione** — Costruzione · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il cantiere in legno è un montaggio, non una costruzione: gli elementi arrivano prefabbricati (tagliati, forati, numerati), la gru li posa, le squadre avvitano le connessioni; il tempo si dimezza, il cantiere resta pulit…
+- **Il cantiere del miglioramento sismico: sequenze, controlli in opera ed errori tipici** — Sismica — cantiere e qualita' · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  L'intervento antisismico sull'esistente si vince in cantiere: FRP che aderisce, betoncino con rete ben connessa, tiranti tesi, nodi ripresi. La qualita' esecutiva determina se la classe di rischio dichiarata e' vera o so…
 - **Il cantiere del retrofit in edificio abitato** — Cantiere · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   La maggior parte dei retrofit si esegue con le persone dentro casa: rumore, polvere, finestre aperte d'inverno, impianti spenti per ore. Organizzare il cantiere 'abitato' e' una disciplina a se' che decide la riuscita co…
 - **Il cantiere del tetto verde: sequenza, stagionalita' e protezioni** — Cantiere · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
@@ -1385,6 +1391,8 @@
   La copertura è la superficie che perde e guadagna più calore (fino al 30% delle dispersioni dell'edificio): si isola con lana o polistirofe sopra la struttura (sotto il manto, falda ventilata), sotto la struttura (contro…
 - **L'isolamento delle tubazioni: spessori e materiali** — Isolamento tubazioni · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il cappotto dei tubi: dove obbligatorio, di quanto e con cosa.
+- **L'isolamento sismico alla base: principi, dispositivi e progetto del gap sismico** — Sismica — protezione avanzata · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  La strategia che 'scollega' l'edificio dal terreno: dispositivi flessibili orizzontalmente interposti tra fondazioni e sopraelevazione allungano il periodo proprio e riducono drasticamente le accelerazioni trasmesse. Tec…
 - **L'IVA nell'edilizia: aliquote, reverse charge e fatturazione elettronica** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
   Scheda dedicata all'imposta sul valore aggiunto nel settore edile, uno dei tributi più delicati per imprese di costruzione. Copre le aliquote differenziate per tipologia di intervento (acquisto prima casa, ristrutturazio…
 - **L'organizzazione aziendale: ruoli, organigramma, deleghe** — Organizzazione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -1411,6 +1419,8 @@
   La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definitiva, certificato di regolare esecuzione (nei pubblici, che libera la ritenuta di garanzia), restituzione delle garanzie e attivazione del pe…
 - **La classificazione dei terreni: UNI EN ISO 14688** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
   I terreni si classificano per granulometria: argilla (<0,002 mm), limo (0,002-0,063 mm), sabbia (0,063-2 mm), ghiaia (2-63 mm); la presenza di acqua e la plasticità (limiti di Atterberg) distinguono il comportamento coes…
+- **La classificazione del rischio sismico degli edifici: classi da A+ a G, PAM e IS-V** — Sismica — classificazione e incentivi · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Il D.M. 58/2017 introduce una classificazione del rischio sismico analoga a quella energetica: otto classi (da A+ a G) assegnate da tecnici abilitati su due parametri: la perdita annua media attesa (PAM, economica) e l'i…
 - **La climatizzazione dei capannoni: riscaldamento ad alta quota, destratificazione e ventilazione** — Climatizzazione · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   Riscaldare un capannone di 8 metri di altezza come un ufficio è uno spreco: l'aria calda sale e il pavimento resta freddo. La climatizzazione industriale ragiona in zone, in destratificazione e in ricambio d'aria control…
 - **La climatizzazione di precisione: freddo per i server** — Climatizzazione · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
@@ -1453,6 +1463,8 @@
   Il disastro più grave della storia dell'ingegneria italiana: 1917 morti nella notte del 9 ottobre 1963.
 - **La digitalizzazione dell'impresa: gestionale, personale, cantiere 4.0** — Digitalizzazione · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
   La trasformazione digitale dell'impresa edile parte dalla contabilità e arriva al cantiere: gestionale contabile integrato, fatturazione elettronica, ordini e magazzino digitali, presenze cantieri via app, documenti di c…
+- **La dissipazione energetica: dissipatori isteretici, viscosi, ad attrito e TMD** — Sismica — protezione avanzata · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  L'altra strategia della protezione passiva: inserire nella struttura 'fusibili' meccanici che assorbono energia sismica deformandosi o scorrendo, proteggendo gli elementi portanti. Applicabile sia al nuovo sia — ed e' il…
 - **La durabilità del legno: classi di rischio, trattamenti e manutenzione** — Durabilità · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno dura secoli o marcisce in 5 anni: la differenza è la scelta della specie, la protezione dalla pioggia e l'uso corretto per la classe di rischio. La durabilità si progetta, non si spera.
 - **La falegnameria su misura: boiserie, librerie, arredi custom** — Custom · corso: *Master in design* (`MASTER_DESIGN_PACK`)
@@ -1537,6 +1549,8 @@
   La norma europea (adottata in Italia come UNI EN 12464-1) fissa i valori minimi medi di illuminamento misurati sul piano di riferimento di ciascun ambiente di lavoro: uffici con attivita' di scrittura e lettura, scuole, …
 - **La palestra scolastica: struttura, altezze e sicurezza** — Spazi per l'attività motoria · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
   La palestra scolastica è l'ambiente più impegnativo dell'edificio dal punto di vista strutturale: luci ampie, altezze libere importanti, sollecitazioni dinamiche da attività sportive e presenza simultanea di molti utenti…
+- **La pericolosita' sismica in Italia: zonazione storica, PGA, spettri e periodi di ritorno** — Sismica — pericolo e azione · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Il punto di partenza di ogni progetto in zona sismica: capire QUANTO scuote il sito. In Italia l'azione sismica non si legge piu' sulla vecchia zonazione a 4 zone ma si ricava dalla pericolosita' di base su reticolo di c…
 - **La perizia immobiliare: metodi di stima** — Estimo · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   Determinare il valore di un immobile: metodo comparativo, sintetico e analitico.
 - **La perizia nel contenzioso edilizio: strategia, tempi e rischi** — Contenzioso · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
@@ -1639,6 +1653,8 @@
   La UNI 11235 e' la norma italiana di riferimento per le coperture a verde: definisce requisiti, strati, controlli e collaudo. Progettare 'secondo UNI 11235' e' la dicitura che distingue un tetto verde professionale da un…
 - **La valutazione immobiliare: i tre metodi** — Valutazione · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   La stima professionale usa tre metodi: comparativo (da immobili simili venduti — il metodo principe per residenziale), costruttivo (valore = terreno + costo di ricostruzione - deperimento, utile per immobili speciali), r…
+- **La valutazione sismica degli edifici esistenti: livelli di conoscenza e fattori di confidenza** — Sismica — edifici esistenti · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  L'80% del patrimonio italiano e' anteriore alle norme sismiche moderne: valutarlo significa lavorare con informazioni incomplete. Le NTC disciplinano l'incertezza con i livelli di conoscenza: piu' indagini fai, meno pena…
 - **La vasca da costruzione: struttura, tenuta, forma** — Vasche · corso: *Piscine e centri wellness* (`PISCINE_E_WELLNESS_PACK`)
   La piscina da costruzione è un serbatoio in calcestruzzo armato impermeabilizzato: la struttura (getto in opera o casseri a perdere), l'impermeabilizzazione (guaina PVC o ceramica? le guaine liquide o i rivestimenti), il…
 - **La vendita dell'energia FV: dal Rap allo Scambio sul Posto chiuso, il RID (verificati ottobre 2026)** — Incentivi rinnovabili · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -2019,6 +2035,8 @@
   La mobilita' e' il servizio smart piu' visibile: sensori sui parcheggi, conteggi di traffico, colonnine di ricarica, pannelli informativi. Funziona quando i dati alimentano decisioni (prezzi, varchi, manutenzione), non q…
 - **Modbus** — BUS industriale · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Protocollo seriale/TCP semplice per controllori, inverter, centrali misura.
+- **Modellazione e metodi di analisi: forza laterale, modale, pushover e time-history** — Sismica — analisi · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Come si trasforma lo spettro in forze e spostamenti sulla struttura: dai metodi lineari semplificati per edifici regolari alla dinamica non lineare per valutazioni avanzate. La scelta del metodo non e' un gusto del proge…
 - **Moduli completi e building system industrializzati (volumi a modulo)** — Moduli · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Dalla cella al modulo intero: edilizia a volumi completi assemblati in stabilimento.
 - **Monitoraggio strutturale: fessurimetri, inclinometri e sensoristica dinamica** — Monitoraggio · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
@@ -2461,6 +2479,8 @@
   Prototipi e componenti strutturali in acciaio/alluminio stampati in 3D.
 - **Stampante 3D per calcestruzzo (extrusion)** — Stampa 3D edilizia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Stampanti a braccio/portalino che estrudono strati di calcestruzzo rapido per pareti portanti.
+- **Stati limite sismici e verifiche: SLO, SLD, SLV, SLC e gli spostamenti interpiano** — Sismica — pericolo e azione · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  La logica prestazionale delle NTC: la struttura deve attraversare terremoti di intensita' crescente con prestazioni decrescenti ma controllate — operativita' piena, danno limitato, salvaguardia della vita, prevenzione de…
 - **Statistica per il cantiere: medie, dispersione, affidabilità** — Statistica · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   La matematica dell'incertezza: cosa dicono davvero 5 prove su 5 campioni.
 - **Stazioni totali robotiche e laser tracker** — Strumentazione · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -2473,6 +2493,8 @@
   La verticalità estrema: le questioni strutturali specifiche delle opere alte.
 - **Strutture ibride cls-acciaio e collaboranti** — Strutture ibride · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Il meglio dei due materiali: sezioni miste acciaio-cls e sistemi collaboranti.
+- **Strutture in acciaio e in legno in zona sismica: duttilita' e connessioni** — Sismica — progetto delle opere nuove · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Due materiali con comportamento sismico opposto nel peso ma simile nella logica: l'acciaio conta sulla duttilita' dei meccanismi dissipativi progettati, il legno sulla leggerezza e sulla dissipazione concentrata nelle co…
 - **Strutture in acciaio: elementi e connessioni** — Acciaio strutturale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Il materiale della leggerezza e della velocità: profili, aste, nodi e saldature.
 - **Strutture in legno: dal tavolato al CLT** — Legno strutturale · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -2493,6 +2515,8 @@
   La taglia decide tutto: normativa, connessione, struttura, business plan. La fascia fino a 20 kW e' il mondo dell'autoconsumo domestico-agricolo; le 50-200 kW servono utenze produttive; oltre si entra nella logica del gr…
 - **Taglio controllato: filo diamantato, seghe a disco e carotaggi per il dissezionamento** — Demolizioni — tecniche esecutive · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
   Famiglia di tecniche 'chirurgiche' che separano la struttura in conci di peso controllato invece di frantumarla: permettono demolizioni precise, quasi prive di vibrazioni, anche su spessori elevati e in strutture armate.
+- **Tamponature, partizioni, impianti e contenuti: il danno che costa di piu'** — Sismica — elementi non strutturali · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
+  Nei terremoti moderni la struttura regge e il conto lo pagano gli elementi non strutturali: tamponature che si disarticolano, controsoffitti che cadono, impianti che si staccano, contenuti che si rovesciano. Le NTC impon…
 - **Tassello** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Dispositivo inserito in un foro della muratura o del cls che espandendosi o espandendo un manicotto blocca la vite: ancoraggio di carichi su cls e muratura.
 - **Tassello a percussione con chiodo** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)

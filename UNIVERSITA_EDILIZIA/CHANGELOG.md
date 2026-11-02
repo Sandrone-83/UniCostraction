@@ -1,4 +1,25 @@
 
+## Giro AN — 2026-11-02, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 articolato ancora non pubblicato; CT 3.0 correttivo con intesa CU 22/10 gia' in scheda e ancora non in GU; CER e Reddito Energetico confermati); nuovo pack INGEGNERIA_SISMICA_ISOLAMENTO_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AN1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note AK1/AL1 con proroga annunciata 50%/36% e mappa nuovo TUIR | Confermata: al 02/11/2026 l'articolato ufficiale del DDL Bilancio 2027 NON risulta ancora pubblicato; le rassegne di studi di consulenza ribadiscono solo le misure gia' note: nessun nuovo append (rumore), riga aperta prioritaria | datastudio2c.it, mrconsulenti.it (~29/10/2026) — verifica web 02/11/2026 |
+| AN2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota ottobre 2026 aggiornata al 23/10 (intesa Conferenza Unificata 22/10/2026; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata integralmente: il via libera della Conferenza Stato-Regioni e' GIA' in scheda; l'adozione MASE e la pubblicazione in GU risultano ancora assenti: valgono le regole vigenti | my-pratiche.it (~29/10/2026) — verifica web 02/11/2026 |
+| AN3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza accesso 31/12/2027 (o 5 GW), DL 19/2026 art. 27 | Confermato: nessun provvedimento nuovo oltre la richiesta delle associazioni di prorogare gli incentivi al 2030 (lettera 29/9/2026) | stampa di settore — verifica web 02/11/2026 |
+| AN4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi 300 mln/30.000 nuclei in LdB 2027) | Confermata: nessun bando pubblicato, decreto di rifinanziamento non in GU | stampa di settore — verifica web 02/11/2026 |
+| AN5 | Nuovo pack | — | INGEGNERIA_SISMICA_ISOLAMENTO_PACK (12 schede, L2-L3, FACOLTA_INGEGNERIA): pericolosita' e spettri, stati limite e drift, metodi di analisi e coefficiente q, gerarchia delle resistenze nel c.a., acciaio e legno in sisma, valutazione degli esistenti (LC1-LC3, FC), muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base (HDRB/LRB/FPS, gap sismico), dissipazione (BRB, viscosi), elementi non strutturali, cantiere del miglioramento. Norme solo di consolidata certezza: NTC D.M. 17/1/2018 (Cap. 2-3-4-7-8), Circolare 21/1/2019 n. 7, EN 1998-1/3, UNI EN 15129, D.M. 58/2017 e 65/2017, L. 64/1974 | Norme di consolidata certezza; prezzi come fasce indicative; nessun nome di azienda |
+| AN6 | Nuovo esame | — | ESAMI/INGEGNERIA_SISMICA_ISOLAMENTO: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 88 esami su 86 pack) | build_esami_giro5.py |
+| AN7 | Validazione | — | Validazione globale: 86 pack, 1145 schede, 88 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (86/86). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: VERIFICA PRIORITARIA — pubblicazione dell'articolato ufficiale presentato in Parlamento: conferma di proroga 50%/36%, durata, perimetro (Sismabonus acquisti?), Bonus Mobili 5.000 euro; iter Camera/Senato fino all'approvazione finale entro il 31/12/2026; coordinamento col nuovo TUIR (art. 373) in vigore dal 1/1/2027.
+- Conto Termico 3.0: adozione del correttivo da parte del MASE, pubblicazione in GU e nuove Regole Applicative GSE.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE (ipotesi 300 mln/30.000 nuclei).
+- EPBD (UE) 2024/1275: due richiami UE all'Italia sul recepimento (stampa di settore 26/10/2026): stato da verificare.
+- CER: richiesta delle associazioni di prorogare gli incentivi al 2030 (29/9/2026): monitorare.
+
 ## Giro AM — 2026-11-01, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 articolato ancora non pubblicato; CT 3.0 correttivo con intesa CU 22/10 gia' in scheda e ancora non in GU; CER e Reddito Energetico confermati); nuovo pack DEMOLIZIONI_FINE_VITA_PACK (12 schede) con esame.
