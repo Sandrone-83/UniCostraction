@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1307 voci enciclopediche tratte da 87 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1319 voci enciclopediche tratte da 88 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -429,6 +429,8 @@
   Il digital twin è il gemello digitale dell'edificio in esercizio: modello as-built + dati sensori (IoT) + storico manutentivo; alimenta la gestione energetica, la manutenzione predittiva, la gestione degli spazi.
 - **Digital twin urbano: quando il modello digitale della citta' serve davvero** — Dati e piattaforme · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
   Il digital twin urbano e' il modello digitale aggiornato della citta': edifici, reti, strade, sensori. Serve quando si devono simulare scenari (piani di traffico, rischio idraulico, piano energetico) e non solo 'guardare…
+- **Dimensionamento geometrico: posti auto, corsie, ingombri di manovra e svincoli** — Parcheggi — geometria · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  La geometria del parcheggio decide la sua usabilita' quotidiana: dimensioni degli stalli, larghezze delle corsie, ingombri di manovra e svincoli. Un layout tirato al millimetro fa risparmiare struttura ma genera danni e …
 - **Dimensionamento rapido elettrico** — Dimensionamento · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Le regole pratiche per sezioni di cavo e protezioni dell'impianto elettrico.
 - **Dimensionamento rapido idraulico** — Dimensionamento · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -481,6 +483,8 @@
   L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
 - **Economia e contabilita' della demolizione: prezzi, crediti da recupero ed errori di preventivo** — Demolizioni — economia e contabilita' · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
   Come si forma davvero il costo di una demolizione e come va contabilizzata: la voce dominante non e' l'abbattimento ma la gestione dei materiali, e l'errore di preventivo piu' frequente e' la sottostima di trasporti e co…
+- **Economia e gestione dei parcheggi: costi per posto, forme di gestione e contabilita'** — Parcheggi — economia e gestione · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  Il parcheggio e' un investimento immobiliare con metriche proprie: costo per posto realizzato, ricavo per posto gestito, payback e valore pertinenziale. Capire dove si forma il costo (scavo vs struttura vs impianti) deci…
 - **Economia e programmazione delle grandi opere idrauliche** — Economia · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1105,6 +1109,8 @@
   La gestione dei siti contaminati in Italia si regge sul D.Lgs 152/2006, Parte IV (Gestione dei siti contaminati), successivamente modificato e integrato. Il decreto distingue i siti di interesse nazionale (SIN), di dimen…
 - **Il quadro normativo: D.Lgs 81/2008 Titolo IV e gli allegati** — Normativa · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   Il Decreto Legislativo 9 aprile 2008, n. 81 (Testo Unico in materia di salute e sicurezza sul lavoro) ha completato in Italia l'adeguamento alla direttiva UE 92/57/CE sui cantieri temporanei o mobili. Il Titolo IV (artic…
+- **Il quadro normativo: obbligo di dotazione (Tognoli), standard comunali e titoli edilizi** — Parcheggi — quadro e standard · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  Il parcheggio non e' una scelta ma, nella maggior parte dei casi, un obbligo di legge agganciato al titolo edilizio: la dotazione minima di posti auto nasce dalla legge nazionale e dagli standard urbanistici comunali, e …
 - **Il raffreddamento del data center: corridoio freddo, corridoio caldo e free cooling** — Raffreddamento · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   Il 40% dell'energia di un data center va nel raffreddamento: organizzare i flussi d'aria (corridoio freddo chiuso davanti ai server, caldo dietro) è l'intervento che più riduce i consumi prima ancora di comprare macchine…
 - **Il Reddito Energetico: fotovoltaico senza anticipo per famiglie con ISEE basso (verificati ottobre 2026)** — Incentivi rinnovabili · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -1293,6 +1299,8 @@
   L'analisi dei prezzi ricostruisce il prezzo unitario di una lavorazione scomponendolo negli elementi elementari: manodopera, materiali, mezzi d'opera, piu' spese generali e utile. E' lo strumento per stimare voci non in …
 - **L'analisi di rischio sanitario ambientale: concetti e criteri** — Valutazione · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   L'analisi di rischio sanitario ambientale è il momento in cui i dati di caratterizzazione vengono tradotti in una valutazione delle conseguenze potenziali per la salute umana e gli ecosistemi, considerando i futuri scena…
+- **L'antincendio delle autorimesse: il D.M. 1/2/1986 e la prevenzione incendi** — Parcheggi — sicurezza antincendio · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  Le autorimesse sono un'attivita' a rischio incendio specifico (combustibile liquido, veicoli, caricamento elettrico crescente): il D.M. 1 febbraio 1986 ne detta da sempre le regole di compartimentazione, ventilazione, vi…
 - **L'antincendio industriale: magazzini e rischi speciali** — Antincendio industriale · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
   L'antincendio industriale segue il D.M. 03/08/2015 con le specifiche per le attività di deposito e produzione: i rischi salgono con la merce stoccata (plastiche, imballaggi, aerosol), le altezze di stoccaggio, le attivit…
 - **L'APE: l'attestato di prestazione energetica** — Certificazioni · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -1599,6 +1607,8 @@
   L'art. 1669 c.c. (responsabilità del costruttore e dell'impresa) prescrive: se entro 10 anni (decennale) l'immobile mostra vizi o crolli per difetto della costruzione o del terreno, il costruttore è tenuto al risarciment…
 - **La rete gas domestica: dal contatore ai punti di utilizzo** — Impianti a gas · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   La rete interna di distribuzione del gas porta il combustibile dal contatore alle utenze (caldaia, cucina, scaldabagno) con criteri di sicurezza molto stringenti: camere stagne sugli apparecchi a fiamma libera, valvole d…
+- **La ricarica dei veicoli elettrici nei parcheggi: norme, potenze e gestione dell'energia** — Parcheggi — ricarica EV · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  La domanda di ricarica domestica e aziendale sta trasformando parcheggi e box: serve portare potenza, protezioni e segnalazione ai singoli stalli, spesso in edifici con quadri e contatori dimensionati per altro. In condo…
 - **La ricostruzione come rilancio: rigenerazione urbana, sociale ed economica** — Benessere · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
   Dopo le macerie: la ricostruzione come opportunità di rinascita dei territori.
 - **La ricostruzione privata dopo il sisma: flussi, contributi e iter** — Ricostruzione privata · corso: *Emergenze e ricostruzione post-sisma* (`EMERGENZE_E_RICOSTRUZIONE_PACK`)
@@ -2101,6 +2111,14 @@
   Pannello sandwich con isolante (PIR/lana) + lastra in cartongesso: l'isolamento interno rapido.
 - **Paranchi, verricelli, montacarichi e mini-gru da cantiere** — Sollevamento verticale · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
   Per muovere carichi in verticale dentro il cantiere — sacchi, casseforme, attrezzature — esistono macchine piccole ma decisive: paranchi a fune o catena, verricelli, montacarichi a cremagliera e mini-gru autocarrate.
+- **Parcheggi a silos e in copertura: strutture multipiano, parapetti e carichi dinamici** — Parcheggi — tipologie · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  Quando il terreno manca e lo scavo costa troppo, il parcheggio sale: silos multipiano fuori terra e piani di copertura carrabili. La struttura e' semplice in apparenza, ma carichi veicolari, impatti, parapetti e impermea…
+- **Parcheggi esterni e viabilita' interna: pavimentazioni, drenaggio, segnaletica e verde** — Parcheggi — esterni e viabilita' · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  Il parcheggio esterno sembra la soluzione banale, ma decide l'immagine del lotto e gestisce acqua meteorica, gerarchie pedoni-veicoli e relazioni col verde. Pavimentazione, drenaggio e segnaletica sono il suo scheletro t…
+- **Parcheggi interrati: struttura, imposta, copertura e rapporto con l'edificio** — Parcheggi — tipologie · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  L'autorimessa interrata e' la soluzione piu' diffusa sotto gli edifici nuovi: condivide fondazioni e struttura col fabbricato, lavora contro la spinta del terreno e dell'eventuale falda, e deve convivere con impianti, se…
+- **Parcheggi meccanizzati e automatici: car stacker, sistemi puzzle e torri** — Parcheggi — tipologie · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  La meccanizzazione moltiplica i posti dove lo spazio non basta: piattaforme che sollevano, traslano e impilano le auto, dai semplici car stacker condominiali ai silos automatici con robot di trasferimento. Sono macchine …
 - **Parete in cartongesso doppia lastra** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Due lastre per lato con telaio metallico e lana interposta: la parete divisoria acustica standard.
 - **Parquet in legno massello** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2109,6 +2127,8 @@
   Tavole con supporto multistrato e essenza pregiata sopra: la stabilità del parquet moderno.
 - **Patologie del cappotto: crepe, alghe, distacchi, riparazioni** — Patologie · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
   Le patologie tipiche del cappotto: fessurazione del rasante (posa, movimenti del supporto, caldo), macchie biologiche (alghe su finiture a nord, condensa), distacchi localizzati (colla insufficiente o supporto sporco), d…
+- **Patologie tipiche di parcheggi e autorimesse: infiltrazioni, degrado dei solai e manutenzione** — Parcheggi — patologie e manutenzione · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  I parcheggi inveciano male perche' vivono tra acqua, sali, oli e vibrazioni: infiltrazioni dalle coperture interrate, carbonatazione e degrado dei solai carrabili, giunti che perdono, finiture che si sollevano. La manute…
 - **Pavimentazioni sportive indoor: parquet, resina, gomma e PVC** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Le superfici indoor per palestre devono garantire l'assorbimento degli urti, l'elasticità controllata e lo stato di superficie. Le soluzioni principali sono parquet sportivo a listoni, resine poliuretaniche autolivellant…
 - **Pavimentazioni sportive outdoor: erba sintetica, terra battuta, asfalto ed erba ibrida** — Pavimentazioni · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
@@ -2303,6 +2323,8 @@
   Il rain garden e' una depressione vegetata che raccoglie l'acqua meteorica dalle superfici vicine, la filtra attraverso un substrato ingegnerizzato e la restituisce per infiltrazione, evapotraspirazione o scarico ritarda…
 - **Rame** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Metallo rosso per tubazioni idrauliche, elettriche e lattoneria: durabilità millenaria, battericida naturale.
+- **Rampe e accessi carrabili: pendenze, visibilita', cancelli e sicurezza** — Parcheggi — geometria · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  La rampa e' il collo di bottiglia dell'autorimessa: concentra il traffico, i rischi di strisciamento, i problemi di drenaggio e la prima impressione dell'utente. Pendenze, raggi di raccordo, visibilita' e automazioni van…
 - **Rappresentazione dell'architettura: disegno, rendering, realtà virtuale** — Rappresentazione · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Come si comunica il progetto: dal disegno tecnico alla realtà virtuale.
 - **Reazione al fuoco e vincoli in altezza: EPS vs lana minerale** — Antincendio · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
@@ -2619,6 +2641,8 @@
   Il wellness domestico e alberghiero ha tecnologie proprie: idromassaggio con getti d'aria-acqua, saune finlandesi, bagno turco e percorsi Kneipp. Ogni apparato ha esigenze elettriche, idrauliche e di ventilazione specifi…
 - **Ventilazione ambienti di lavoro e capannoni** — HVAC · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Aspirazione e ricambio nei luoghi di lavoro: salute obbligatoria e spesso progettata male.
+- **Ventilazione e qualita' dell'aria nelle autorimesse: monossido, fumi e manutenzione** — Parcheggi — sicurezza antincendio · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
+  L'aria di un'autorimessa si contamina per definizione: monossido di carbonio, polveri, vapori di carburante e — in caso d'incendio — fumi caldi. La ventilazione ha un duplice compito igienico e antincendio, ed e' la voce…
 - **Verde pensile tra edilizia e vincoli: pratiche e regolamenti** — Pratiche · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   Il tetto verde e' quasi sempre intervento semplice dal punto di vista edilizio, ma non sempre: incidenza strutturale, altezze, vincoli paesaggistici e regolamenti comunali (che talvolta lo incentivano) decidono la pratic…
 - **Verifica in opera: luxmetro, accettazione e documentazione** — Controlli · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)

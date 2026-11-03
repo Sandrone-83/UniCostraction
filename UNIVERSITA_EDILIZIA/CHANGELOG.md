@@ -1,4 +1,25 @@
 
+## Giro AO — 2026-11-03, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 articolato ancora non pubblicato sui portali parlamentari; CT 3.0 correttivo con intesa CU 22/10 gia' in scheda e ancora non in GU; CER e Reddito Energetico confermati); nuovo pack PARCHEGGI_AUTORIMESSE_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AO1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note AK1/AL1 con proroga annunciata 50%/36% e mappa nuovo TUIR | Confermata: al 03/11/2026 l'articolato NON risulta ancora sui portali ufficiali di Camera/Senato; il calendario del Centro Studi Parlamentari NOMOS prevedeva la trasmissione in Parlamento nella finestra 29/10-2/11: monitorare l'imminente pubblicazione, nessun nuovo append | nomoscsp.com, senato.it, camera.it — verifica web 03/11/2026 |
+| AO2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota ottobre 2026 aggiornata al 23/10 (intesa Conferenza Unificata 22/10/2026; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata: adozione MASE e pubblicazione in GU del correttivo ancora assenti; valgono le regole vigenti | stampa di settore — verifica web 03/11/2026 |
+| AO3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza accesso 31/12/2027 (o 5 GW), DL 19/2026 art. 27 | Confermato: nessun provvedimento nuovo oltre la richiesta di proroga al 2030 (lettera associazioni 29/9/2026) | stampa di settore — verifica web 03/11/2026 |
+| AO4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi rifinanziamento in LdB 2027) | Confermata: nessun bando pubblicato, decreto di rifinanziamento non in GU | stampa di settore — verifica web 03/11/2026 |
+| AO5 | Nuovo pack | — | PARCHEGGI_AUTORIMESSE_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): Tognoli e standard, geometria e rampe, interrati, antincendio D.M. 1/2/1986 e DPR 151/2011, ventilazione CO, silos e coperture, meccanizzati (UNI EN 14010), ricarica EV (D.Lgs 257/2016, CEI 64-8/722, 1122-bis c.c.), esterni, patologie, economia per posto auto. Norme solo di consolidata certezza; regolamenti comunali citati come da verificare | Norme di consolidata certezza; prezzi come fasce indicative; nessun nome di azienda |
+| AO6 | Nuovo esame | — | ESAMI/PARCHEGGI_AUTORIMESSE: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 89 esami su 87 pack) | build_esami_giro5.py |
+| AO7 | Validazione | — | Validazione globale: 87 pack, 1157 schede, 89 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (87/87). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: VERIFICA PRIORITARIA — trasmissione e pubblicazione dell'articolato sui portali parlamentari (prevista 29/10-2/11 secondo NOMOS): conferma di proroga 50%/36%, durata, perimetro (Sismabonus acquisti?), Bonus Mobili 5.000 euro; iter Camera/Senato entro il 31/12/2026; coordinamento col nuovo TUIR (art. 373) dal 1/1/2027.
+- Conto Termico 3.0: adozione del correttivo da parte del MASE, pubblicazione in GU e nuove Regole Applicative GSE.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: due richiami UE all'Italia sul recepimento: stato da verificare.
+- CER: richiesta delle associazioni di prorogare gli incentivi al 2030 (29/9/2026): monitorare.
+
 ## Giro AN — 2026-11-02, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 articolato ancora non pubblicato; CT 3.0 correttivo con intesa CU 22/10 gia' in scheda e ancora non in GU; CER e Reddito Energetico confermati); nuovo pack INGEGNERIA_SISMICA_ISOLAMENTO_PACK (12 schede) con esame.
