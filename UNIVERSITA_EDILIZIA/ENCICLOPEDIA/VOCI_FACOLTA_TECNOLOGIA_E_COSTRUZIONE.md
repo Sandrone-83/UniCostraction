@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-472 voci, 26 corsi.
+484 voci, 27 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -6369,6 +6369,191 @@ Gli interventi su beni culturali vincolati richiedono autorizzazioni specifiche 
 - **Caso tipico:** Caso tipo: condominio in centro storico con facciata vincolata, intervento di tinteggiatura modificato su richiesta della Soprintendenza con prova a campione prima dell'esecuzione completa.
 - **Normativa:** D.Lgs 42/2004 (Codice dei beni culturali e del paesaggio) per vincoli e autorizzazioni; DPR 380/2001 per la disciplina edilizia; Carta di Venezia 1964 e Codice Deontologico del Restauro come riferimenti etici e tecnici.
 - **Nota di cantiere:** Prepara il fascicolo autorizzativo come se dovesse passare il vaglio di un restauratore: documentazione fotografica, campioni di materiale e giustificazione di ogni scelta tecnica.
+
+
+## Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+*Corso `RETAIL_CENTRI_COMMERCIALI_PACK` — 12 voci*
+
+### Aree esterne, parcheggi a raso e viabilità di contorno
+
+**Categoria:** Aree esterne · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Nel retail le aree esterne sono parte del prodotto: parcheggi a raso capienti e leggibili, viabilità di accesso e svincoli, percorsi pedonali protetti dai varchi alle gallerie, aree di carico separate dai flussi clienti, verde e mitigazione. La progettazione deve gestire picchi di traffico (weekend, promozioni), sicurezza pedonale e drenaggio di grandi superfici impermeabili.
+
+- **Tecnologia e criteri:** Parcheggi a raso con stalli 2,50x5,00 m, corsie e isole di manovra dimensionate per i picchi; pavimentazioni flessibili (conglomerato bituminoso) o rigide (cls) secondo traffico e carichi, con drenaggio e sistemi di prima pioggia; pensiline fotovoltaiche su campate di stallo; segnaletica orizzontale e verticale, illuminazione a LED con controllo; separazione netta tra rete pedonale e veicolare; opere di mitigazione viaria a carico del promotore (rotatorie, svincoli) spesso in convenzione.
+- **Applicazioni:** Centri commerciali e retail park (grandi parcheggi di superficie), supermercati di prossimità, drive-in e curbside pickup, piazzali di carico con dock.
+- **Vantaggi:** Parcheggio a raso = costo basso per posto e flessibilità d’uso; pensiline fotovoltaiche producono energia e ombra; buona viabilità interna riduce incidenti e contenziosi.
+- **Limiti e attenzioni:** Grandi superfici impermeabili impongono opere idrauliche (vasche di laminazione, invarianza) costose; i parcheggi a raso consumano suolo e sono esposti a vincoli paesaggistici e di mitigazione; la manutenzione di bituminosi e segnaletica è continua.
+- **Costi ed economia:** Ordini di grandezza indicativi: parcheggio a raso completo (fondazione, pavimento, drenaggio, segnaletica) 35-70 €/m2, cioè 900-1.800 €/posto; pensilina fotovoltaica su stalli 1.500-2.500 €/posto (conta come impianto FV); vasca di laminazione 80-200 €/m3.
+- **Caso tipico:** Caso tipo: retail park con 1.400 posti a raso; la convenzione urbanistica finanzia una rotatoria e l’attraversamento pedonale sopraelevato; le pensiline fotovoltaiche coprono il 30% dei consumi elettrici e fanno ombra estiva.
+- **Normativa:** L. 122/1989 e standard comunali/regionali per la dotazione (per il commerciale: standard regionali e comunali, da verificare); D.Lgs 285/1992 (viabilità); D.Lgs 152/2006 (acque, prima pioggia); D.M. 236/1989 (percorsi pedonali accessibili); rinvio a PARCHEGGI_AUTORIMESSE_PACK per geometria e dettagli.
+- **Nota di cantiere:** Separa fisicamente carichi e clienti: un dock che scarica nel flusso pedonale è un incidente annunciato. E non risparmiare sul drenaggio del piazzale: l’allagamento del parcheggio nel weekend di punta è il peggior biglietto da visita possibile.
+
+### Economia del retail: costi, canoni e redditività
+
+**Categoria:** Economia · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Il retail edilizio si giudica sulla redditività immobiliare: costo di sviluppo (area, costruzione, autorizzazioni, fit-out incentives), ricavi (canoni base + overage sul fatturato, service charge per spazi comuni) e valore finale (rendimento da locazione). Chi progetta deve sapere che ogni scelta tecnica (luci, impianti, manutenibilità) entra nel piano economico e nel canone sostenibile.
+
+- **Tecnologia e criteri:** Struttura dei costi per format: retail park shell 600-1.000 €/m2, centro commerciale con galleria 1.000-1.600 €/m2 di GLA complessiva (shell + comuni), fit-out a carico tenant con eventuale contributo landlord; service charge 15-40 €/m2/mese secondo servizi; canoni variabili per formato e posizione con overage 3-8% del fatturato oltre soglia; valutazione per capitalizzazione del reddito con yield di mercato (da verificare per piazza e momento).
+- **Applicazioni:** Studi di fattibilità di nuovi sviluppi, negoziazioni con anchor e tenant, piani di riqualificazione, due diligence per compravendita di centri esistenti.
+- **Vantaggi:** Il modello shell & core ripartisce i costi tra gestore e tenant; gli overage allineano gli interessi; la manutenibilità progettata abbassa le service charge e rende il centro competitivo.
+- **Limiti e attenzioni:** I costi delle parti comuni (galleria, parcheggi, impianti) sono tutti a carico del gestore e non producono canone diretto; i capex di medio periodo (coperture, facciate, impianti) sono sottovalutati nei piani; l’e-commerce comprime i canoni dei format deboli.
+- **Costi ed economia:** Ordini di grandezza indicativi: sviluppo retail park 10.000 m2 GLA: 8-15 M€ opere più area; centro commerciale 30.000 m2 GLA: 40-70 M€; due diligence tecnica per acquisizione 30-100 k€; piano capex decennale prudente 5-10 €/m2/anno.
+- **Caso tipico:** Caso tipo: acquisizione di un centro semivuoto; la due diligence tecnica quantifica in 6 M€ i capex necessari (copertura, impianti, facciata) e il piano di re-letting con nuovo mix riporta l’occupancy sopra il 90% in tre anni.
+- **Normativa:** L. 392/1978 (locazioni commerciali); normativa contabile e fiscale per valorizzazioni (da verificare con il fiscalista); standard valutativi internazionali (RICS) per le perizie; nessun riferimento normativo edilizio specifico: è materia economico-gestionale.
+- **Nota di cantiere:** Quando stimi un retail, non fermarti al costo di costruzione: chiedi sempre il piano service charge e il capex decennale. Un centro costruito a basso costo con impianti energivori è un affare che si svaluta da solo.
+
+### Fit-out dei negozi e capitolari landlord/tenant
+
+**Categoria:** Fit-out · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Il gestore consegna i box in shell & core (o in grezzo avanzato) e il conduttore realizza il fit-out: pavimenti, controsoffitti, impianti dedicati, arredi, insegne interne. Il capitolato tecnico del landlord definisce cosa è a carico di chi, le prestazioni minime (carichi, potenze, allacci, finiture proibite) e le procedure di approvazione dei progetti dei negozi: è il documento che evita il contenzioso quotidiano.
+
+- **Tecnologia e criteri:** Capitolato tipico: carichi ammessi sui solai e pavimentazioni, potenze elettriche e allacci (contatori dedicati), punti di scarico idrici e grasso per food, limiti per canalizzazioni e attraversamenti della galleria, altezze e materiali delle vetrine e delle serrande, ore di lavoro consentite, regole antincendio per materiali e arredi, ripristino a fine contratto (exit).
+- **Applicazioni:** Tutti i centri commerciali e retail park gestiti unitariamente; vale anche per gallerie di stazioni e aeroporti e per gli shop-in-shop dei grandi magazzini.
+- **Vantaggi:** Capitolato chiaro = fit-out veloci e omogenei; ripartizione dei costi esplicita; tutela dell’immagine complessiva e delle prestazioni degli impianti comuni.
+- **Limiti e attenzioni:** Capitolati troppo rigidi scoraggiano i tenant; la gestione delle approvazioni richiede un ufficio tecnico del gestore sempre attivo; i ripristini di fine contratto sono la prima causa di lite.
+- **Costi ed economia:** Ordini di grandezza indicativi: fit-out negozio standard 400-900 €/m2; food e ristorazione con cucina 1.200-2.500 €/m2; contributo fit-out del landlord (ove previsto) 100-400 €/m2; redazione capitolato e gestione approvazioni 20-80 k€/centro.
+- **Caso tipico:** Caso tipo: centro che introduce un capitolato tecnico standard con template di progetto; i tempi medi di approvazione dei fit-out passano da 90 a 30 giorni e i lavori in galleria avvengono solo in fascia notturna concordata.
+- **Normativa:** Contratti di locazione commerciale (L. 392/1978) e clausole tecniche; regolamento di gestione del centro; norme antincendio e igieniche richiamate nel capitolato; D.Lgs 81/2008 per i lavori di fit-out in ambienti aperti al pubblico (DUVRI e coordinamento).
+- **Nota di cantiere:** Imponi sopralluogo congiunto a inizio e fine lavori con verbale fotografico: lo stato dei luoghi è l’unico modo di chiudere bene (e farsi pagare) il ripristino. E non far partire nessun fit-out senza approvazione scritta del progetto antincendio del box.
+
+### Formati retail e quadro autorizzatorio del commercio
+
+**Categoria:** Formati e autorizzazioni · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Il retail edilizio si classifica per formato: esercizi di vicinato, medie strutture di vendita, grandi strutture di vendita (supermercati, ipermercati, grandi magazzini), centri commerciali (aggregazione unitaria di esercizi intorno a una galleria comune con parcheggi condivisi), retail park e factory outlet. Ogni formato ha una soglia dimensionale e un diverso iter autorizzatorio: più il formato cresce, più l’autorizzazione si sposta dalla SCIA comunale all’autorizzazione regionale, con studi di impatto commerciale e verifiche di compatibilità con i piani commerciali.
+
+- **Tecnologia e criteri:** Classificazione ex D.Lgs 114/1998: medie strutture (superficie di vendita oltre 150 m2 e fino a 1.500 m2 nei comuni fino a 10.000 abitanti, oltre 250 m2 e fino a 2.500 m2 nei comuni oltre 10.000 abitanti), grandi strutture oltre le soglie delle medie, grandi strutture oltre le soglie delle medie; centro commerciale = insieme progettato e gestito unitariamente, con galleria comune, parcheggi e dotazioni collettive. Le regioni fissano soglie, tetti e procedure nei piani commerciali territoriali: le soglie esatte vanno verificate regione per regione.
+- **Applicazioni:** Nuovi insediamenti commerciali, ampliamenti, riconversioni di immobili esistenti a uso vendita, verifica di fattibilità urbanistica prima dello studio di fattibilità economica.
+- **Vantaggi:** Quadro autorizzatorio definito fin dal preliminare; dimensionamento coerente con bacino e piani commerciali; evita investimenti su siti non compatibili.
+- **Limiti e attenzioni:** Normativa commerciale fortemente regionalizzata: le soglie nazionali sono un riferimento, ma le leggi regionali possono differire sensibilmente; i piani commerciali possono prevedere moratorie o tetti comunali; tempi di autorizzazione lunghi (mesi-anni) per grandi strutture.
+- **Costi ed economia:** Ordini di grandezza indicativi: studio di impatto commerciale e fattibilità 20-80 k€; istruttoria autorizzativa grande struttura 12-36 mesi; oneri di urbanizzazione e opere a scomputo variabili per comune, spesso 5-15% del costo di costruzione.
+- **Caso tipico:** Caso tipo: sviluppo di un retail park su area ex industriale dismessa; il piano commerciale regionale impone lo studio di impatto sul commercio insediato; ottenuta l’autorizzazione con prescrizioni su viabilità e mitigazione, il cantiere parte a 18 mesi dal deposito.
+- **Normativa:** D.Lgs 26/3/1998 n. 114 (riforma del commercio); D.Lgs 26/3/2010 n. 59 (SCIA e attività commerciali); leggi regionali di attuazione e piani commerciali territoriali (da verificare per la regione); DPR 380/2001 per i titoli edilizi.
+- **Nota di cantiere:** Prima di comprare un’area o firmare un preliminare per un retail, fai verificare al tecnico la compatibilità col piano commerciale comunale e regionale: un sito perfetto urbanisticamente può essere invendibile autorizzativamente per tetto di superficie.
+
+### Impianti HVAC e refrigerazione commerciale
+
+**Categoria:** Impianti · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Il retail climatizza grandi volumi con ricambi elevati (porte sempre aperte, affollamento variabile) e, nei food, gestisce la refrigerazione dei banchi e delle celle: due mondi impiantistici distinti ma integrabili, con forte attenzione ai consumi (l’energia è tra le prime voci di costo gestionale) e alla qualità dell’aria.
+
+- **Tecnologia e criteri:** HVAC: unità rooftop (packaged) o UTA con free cooling per gallerie e superfici vendita, laminazione con barriere d’aria agli ingressi, recuperatori; refrigerazione food: centrali a CO2 transcritica con recupero di calore per ACS e post-riscaldamento, banchi chiusi con porte, telecontrollo fughe refrigerante; gestione BMS centralizzata con monitoraggio consumi e tariffe orarie.
+- **Applicazioni:** Supermercati e ipermercati (refrigerazione + comfort), gallerie commerciali (comfort e IAQ), food court (estrazione fumi di cucina con scrubber o precipitatori), palestre e cinema interni.
+- **Vantaggi:** CO2 transcritica = refrigerante naturale a basso GWP, conforme alla stretta F-gas; recupero di calore riduce caldaie; rooftop = manutenzione in copertura senza disturbare le vendite; BMS = diagnosi e risparmio continui.
+- **Limiti e attenzioni:** CO2 transcritica richiede frigoristi formati e componenti rated per alte pressioni (fino a ~90 bar lato gas cooler); il free cooling funziona solo con gestione entalpica ben regolata; le barriere d’aria mal dimensionate fanno spifferi o consumi inutili.
+- **Costi ed economia:** Ordini di grandezza indicativi: HVAC rooftop/UTA per superficie vendita 60-130 €/m2 serviti; centrale CO2 transcritica supermercato 2.000-4.000 m2: 300-700 k€; BMS centro commerciale 5-15 €/m2; recupero calore su ACS con payback spesso 3-6 anni.
+- **Caso tipico:** Caso tipo: supermercato che sostituisce centrale HFC con CO2 transcritica e banchi chiusi; il recupero di calore copre ACS e post-riscaldamento, i consumi elettrici complessivi calano di oltre il 20% e la carica di refrigerante fluorurato si azzera.
+- **Normativa:** Reg. (UE) 517/2014 e Reg. (UE) 2024/573 (gas fluorurati, divieti e quote); D.Lgs 192/2005 (requisiti impianti); UNI EN 378 (sicurezza impianti frigoriferi); D.Lgs 152/2006 (emissioni in atmosfera per cucine); norme CEI per la parte elettrica.
+- **Nota di cantiere:** Fai collaudare la CO2 da personale con abilitazione specifica e verifica i certificati delle saldature ad alta pressione: un giunto debole lato transcritico è un rischio serio. E prevedi la telemetria fughe da subito: il registro F-gas è obbligatorio e controllato.
+
+### Involucro del retail: facciate, vetrate, pensiline e ingressi
+
+**Categoria:** Involucro · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+L’involucro commerciale ha tre anime: la facciata architettonica (immagine e brand, spesso in facciata continua o rivestimenti metallici/ventilati), le vetrate di ingresso e vetrina (trasparenza, sicurezza), e gli elementi funzionali (pensiline, portali, segni distintivi, chiusure tecniche). Deve rispondere a requisiti energetici, acustici, di sicurezza (vetri di sicurezza, evacuazione) e manutentivi: i materiali scelti per l’effetto devono sopravvivere a trolley, pulizie e micro-atti vandalici.
+
+- **Tecnologia e criteri:** Facciate continue montanti-traversi o cellule (UNI EN 13830) con vetri camera basso-emissivi; facciate ventilate in lamiera, HPL, gres o alucobond-type (attenzione alla reazione al fuoco dei compositi: verificare classe e posa); vetrate di sicurezza secondo UNI 7697 (stratificato/temprato a seconda della posizione); porte automatiche scorrevoli e portali; pensiline in acciaio-vetro con scarichi dedicati; involucro opaco in pannelli coibentati o sistemi a secco con verifica termoigrometrica.
+- **Applicazioni:** Ingressi e court, vetrine di galleria, facciate esterne di ipermercati e retail park, rivestimenti dei volumi tecnici, pensiline di carico e pedonali.
+- **Vantaggi:** Facciata continua = velocità di montaggio e prestazioni certificate; vetrine ampie supportano le vendite; sistemi ventilati proteggono la struttura e consentono rebranding con rifacimento limitato.
+- **Limiti e attenzioni:** Grand vetrate = problemi energetici e abbagliamento da governare (schermature, vetri selettivi); pannelli compositi con reazione al fuoco non idonea hanno causato disastri noti: la classe dei materiali va verificata in progetto e in cantiere; la sostituzione di lastre grandi e costosa e va prevista logisticamente.
+- **Costi ed economia:** Ordini di grandezza indicativi: facciata continua vetrata 400-800 €/m2; facciata ventilata 180-400 €/m2; pensiline acciaio-vetro 600-1.200 €/m2; portali automatici 8-25 k€/cad.
+- **Caso tipico:** Caso tipo: restyling di un centro degli anni ’90: si mantengono struttura e galleria e si sostituisce l’involucro con facciata continua e lamiera microforata retroilluminata; il centro resta aperto con fasi notturne, nessuna interruzione delle vendite.
+- **Normativa:** UNI EN 13830 (facciate continue); UNI 7697 (criteri di sicurezza per vetri); UNI EN 13501-1 e decreti di classificazione (reazione al fuoco); D.Lgs 192/2005 (prestazione energetica involucro); NTC D.M. 17/1/2018 (azione vento su pensiline e facciate).
+- **Nota di cantiere:** Fai approvare i campioni veri (mock-up) prima dell’ordine: il colore del pannello sul catalogo e quello in opera sono due materiali diversi. E prevedi i punti di ancoraggio per la manutenzione (binari, ganci): una facciata non manutenibile diventa brutta in cinque anni.
+
+### Masterplan, layout e tenant mix del centro commerciale
+
+**Categoria:** Masterplan e layout · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Il layout di un centro commerciale nasce dal masterplan: posizione dell’anchor (ipermercato o grande magazzino), conformazione della galleria (lineare, a L, a T, a corte centrale), distribuzione delle unità medie e piccole, food court, accessi e collegamenti con i parcheggi. Il tenant mix (composizione merceologica) e la geometria della galleria determinano i flussi pedonali e il rendimento commerciale: la progettazione edilizia deve servire la strategia commerciale, non viceversa.
+
+- **Tecnologia e criteri:** Parametri tipici: GLA (superficie lorda affittabile) da 5.000 m2 (centro di prossimità) a oltre 60.000 m2 (regionale); galleria larga 8-16 m con altezze libere 4-7 m; court centrale come nodo visivo e distributivo; rapporto parcheggi/GLA indicativo 4-6 posti per 100 m2 secondo standard regionali e comunali; percorsi pedonali con pavimentazioni continue e luce naturale da lanterne o shed sulla galleria.
+- **Applicazioni:** Centri commerciali di nuova costruzione, retail park, ampliamenti di gallerie esistenti, ripensamento dei flussi in occasione di restyling.
+- **Vantaggi:** Layout chiaro = flussi equilibrati e canoni sostenibili; galleria come spazio pubblico coperto aumenta tempi di permanenza; anchor ben posizionate trainano le unità minori.
+- **Limiti e attenzioni:** Errori di layout sono quasi irrecuperabili senza demolizioni; gallerie troppo lunghe generano zone morte a basso traffico; doppi carichi di progetto (commerciale + impianti + finiture ricche) alzano i costi della galleria ben oltre quelli dei box.
+- **Costi ed economia:** Ordini di grandezza indicativi: progettazione masterplan e concept 1,5-3% del costo dell’opera; costo costruzione galleria comune finita 1.500-2.500 €/m2; box in shell 700-1.200 €/m2.
+- **Caso tipico:** Caso tipo: centro commerciale a galleria lineare con anchor ai due estremi; la court centrale dimezza la distanza percettiva e concentra i servizi (food court, toilette, info point); le unità in prossimità della court registrano i canoni più alti.
+- **Normativa:** D.Lgs 114/1998 (centro commerciale come gestione unitaria); D.M. 236/1989 (accessibilità percorsi); NTC D.M. 17/1/2018 (sovraccarichi gallerie 4-5 kN/m2 secondo categoria); standard parcheggi da normativa regionale e comunale (da verificare).
+- **Nota di cantiere:** Congela la maglia strutturale solo dopo il tenant mix preliminare: cambiare un anchor in corsa vuol dire rifare luci, carichi e impianti. Prevedi giunti e tolleranze per box divisibili: i negozi si aggregano e si dividono di continuo.
+
+### Antincendio nelle grandi superfici commerciali
+
+**Categoria:** Prevenzione incendi · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Le attività commerciali aperte al pubblico con superficie oltre soglia sono soggette al controllo dei Vigili del Fuoco e alla progettazione secondo il Codice di prevenzione incendi. I nodi critici sono: esodo in presenza di grande affollamento (migliaia di occupanti, molti non familiari col luogo), controllo di fumi e calore in galleria (spazi alti e comunicanti), compartimentazione tra box e galleria, protezione delle corsie di carico e dei magazzini.
+
+- **Tecnologia e criteri:** Strategie del Codice D.M. 3/8/2015: esodo orizzontale verso spazi scoperti o compartimenti adiacenti, larghezze di uscita dimensionate sull’affollamento ipotizzato (persone/m2 per tipo di attività), SEFC (sistemi di evacuazione forzata di fumi e calore) in galleria secondo UNI EN 12101, sprinkler secondo UNI EN 12845, reazione al fuoco dei materiali di finitura (classi europee UNI EN 13501-1), rivelazione automatica e impianto di allarme vocale (EVAC) per la gestione ordinata dell’esodo.
+- **Applicazioni:** Centri commerciali, ipermercati, grandi magazzini, retail park, outlet; anche singoli negozi oltre le soglie di soggezione ai controlli di prevenzione incendi.
+- **Vantaggi:** Approccio prestazionale del Codice consente soluzioni su misura per gallerie e grandi volumi; SEFC ben progettato mantiene gli strati liberi da fumi per i tempi di esodo; sprinkler riduce drasticamente il danno atteso.
+- **Limiti e attenzioni:** Costi impiantistici rilevanti (sprinkler, SEFC, EVAC possono valere il 10-15% del costo impianti); gestione e manutenzione obbligatorie e continuative; in galleria la compartimentazione tra box e spazio comune condiziona serramenti e finiture.
+- **Costi ed economia:** Ordini di grandezza indicativi: sprinkler 40-80 €/m2 protetti; SEFC in galleria 20-50 k€ per serranda/gruppo; EVAC per centro medio 80-250 k€; pratica VVF con aggiornamento attività 3-10 k€ di parcelle.
+- **Caso tipico:** Caso tipo: ampliamento di una galleria con nuova court; la soluzione prestazionale dimostra, con simulazione di esodo e fumi, che le uscite esistenti più una nuova uscita di compartimento garantiscono l’esodo nei tempi richiesti, evitando un tunnel antincendio di 60 m.
+- **Normativa:** DPR 151/2011 (attività soggette ai controlli: attività commerciali aperte al pubblico oltre 400 m2); D.M. 3/8/2015 (Codice prevenzione incendi) e regola tecnica specifica per le attività commerciali (verificare versione vigente); UNI EN 12101 (controllo fumi); UNI EN 12845 (sprinkler); UNI EN 13501-1 (reazione al fuoco).
+- **Nota di cantiere:** Non lasciare la progettazione antincendio alla fine: larghezze di esodo, SEFC e vani impianto cambiano la geometria della galleria. E verifica sempre chi gestisce: un impianto perfetto senza manutenzione programmata e una responsabilità penale, non una protezione.
+
+### Retro-logistica, baie di carico e magazzino vendita
+
+**Categoria:** Retro-logistica · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Dietro la superficie vendita sta la macchina logistica: piazzali per mezzi pesanti, baie di carico con dock levellers, magazzino scorte, celle frigo, aree resi e rifiuti. Dimensionarla male vuol dire consegne lente, mezzi in manovra tra i clienti e costi operativi permanenti; dimensionarla bene è invisibile al cliente ma decisiva per i margini.
+
+- **Tecnologia e criteri:** Piazzali in cls per mezzi fino a 44 t con raggi di manovra per autoarticolati; baie con pedane elettroidrauliche, portali sezionali coibentati e paracolpi; tunnel di carico isotermici per il fresco; magazzino con scaffalature e altezza utile 6-9 m; celle frigo positive e negative con pannelli e pavimenti coibentati; area rifiuti con compattatori e celle per organico; percorsi separati da quelli pedonali e recintati.
+- **Applicazioni:** Supermercati e ipermercati (fresco e secco), brico e DIY (carichi pesanti e lunghi), grandi magazzini con e-commerce interno (dark store), centri con raccolta centralizzata.
+- **Vantaggi:** Baie ben progettate = tempi di scarico dimezzati e meno danni; tunnel isotermici proteggono la catena del freddo; separazione flussi = sicurezza e assicurazioni più serene.
+- **Limiti e attenzioni:** Il piazzale cls costa più del bituminoso ma dura sotto i carrelli; le baie sono vincoli geometrici rigidi (altezze, pendenze max 10% di avvicinamento) che non si recuperano; sottodimensionare il magazzino sposta scorte in vendita e peggiora il negozio.
+- **Costi ed economia:** Ordini di grandezza indicativi: piazzale cls per mezzi pesanti 60-100 €/m2; baia completa (pedana, portale, paracolpi, tunnel) 8-20 k€/cad.; cella frigo industriale 500-1.200 €/m3; compattatori e area rifiuti attrezzata 30-100 k€.
+- **Caso tipico:** Caso tipo: ipermercato con 8 baie di cui 2 isotermiche per il fresco; l’avvicinamento in leggera contro-pendenza verso il dock e la pedana a scomparsa consentono lo scarico in 20 minuti per bilico; il magazzino a 7 m utili ospita le scorte promozionali.
+- **Normativa:** D.Lgs 81/2008 (luoghi di lavoro, movimentazione); UNI EN 349 e Direttiva Macchine 2006/42/CE (pedane e sicurezza); normativa igienico-sanitaria per celle e catena del freddo (HACCP); rinvio a EDILIZIA_INDUSTRIALE_LOGISTICA_PACK per magazzini e dock avanzati.
+- **Nota di cantiere:** Prova la manovra con l’automezzo più grande previsto prima di gettare: le sagome di manovra su carta non bastano. E metti paracolpi seri e luci di segnalazione alle baie: il primo bilico distratto li ripaga tutti.
+
+### Riqualificazione e riconversione dei centri esistenti
+
+**Categoria:** Riqualificazione · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Molti centri commerciali di prima generazione sono obsoleti: format superati, involucri energetici pessimi, anchor fallite. La riqualificazione spazia dal restyling (facciate, galleria, servizi) alla riconversione funzionale (de-malling verso retail park, inserimento di sanità, logistica urbana, residenziale) fino alla demolizione parziale. È il mercato in crescita più interessante del retail edilizio.
+
+- **Tecnologia e criteri:** Restyling: nuova facciata, rifacimento galleria (pavimenti, luci, servizi), efficientamento impianti e fotovoltaico; riconversione: riduzione GLA e introduzione di funzioni non retail (palestre, cliniche, uffici, dark store), con cambi di destinazione d’uso e verifiche di standard; retrofit energetico: cappotto o ventilate, sostituzione gruppi frigo, BMS, pensiline fotovoltaiche.
+- **Applicazioni:** Centri degli anni ’80-’90 da ripensare, ipermercati con eccesso di superficie, gallerie svuotate dall’e-commerce, siti con vincoli che premiavano il riuso rispetto al nuovo.
+- **Vantaggi:** Il riuso conserva posizione, viabilità e bacino già consolidati; spesso costa meno del nuovo e ha iter autorizzativi più rapidi; il mix di funzioni stabilizza i flussi oltre il weekend.
+- **Limiti e attenzioni:** Strutture datate impongono adeguamenti (sismico, antincendio, accessibilità) che possono mangiare il margine; i cambi di destinazione d’uso incontrano vincoli di piano commerciale; la gestione del cantiere a centro aperto è complessa e costosa.
+- **Costi ed economia:** Ordini di grandezza indicativi: restyling inviluppo + galleria 300-700 €/m2 trattati; retrofit energetico profondo 150-400 €/m2; riconversione parziale con opere strutturali 800-1.500 €/m2 riconvertiti; sempre da confrontare col valore d’uso, non col solo costo.
+- **Caso tipico:** Caso tipo: centro anni ’90 con anchor dismessa: si riduce la galleria, si converte l’anchor in polo sanitario e fitness, si rifanno facciata e copertura con fotovoltaico; il centro torna pieno con mix retail-servizi e canoni rivalutati.
+- **Normativa:** DPR 380/2001 (ristrutturazione, cambi destinazione d’uso art. 23-ter); normativa antisismica per adeguamento/miglioramento (NTC D.M. 17/1/2018); normativa antincendio per le nuove attività; D.Lgs 192/2005 e Direttiva (UE) 2024/1275 EPBD per il retrofit energetico.
+- **Nota di cantiere:** Prima di promettere una riconversione, fai la diagnosi vera: struttura, amianto eventuale, antincendio e destinazioni d’uso esistenti. Il rilievo laser scan del centro esistente si ripaga evitando varianti ogni settimana.
+
+### Strutture di grande luce per il retail
+
+**Categoria:** Strutture · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Le grandi superfici di vendita richiedono luci libere di 16-32 m per lasciare flessibilità agli scaffali e ai layout: le soluzioni tipiche sono telai in c.a. prefabbricato con travi precompresse, capriate metalliche reticolari o a traliccio, e per la copertura elementi alveolari, lamiera grecata collaborante o pannelli sandwich. La maglia pilastri (tipicamente 8x16 m o 16x16 m) è scelta con il committente perchè condiziona layout, scaffalature e parcheggi.
+
+- **Tecnologia e criteri:** Prefabbricato in c.a.: pilastri a bicchiere o con piastra, travi a I o a T precompresse luce 16-24 m, tegoli alveolari o TT; acciaio: capriate reticolari luce 24-40 m con arcarecci, controventi di parete e di falda; fondazioni: plinti o platea a seconda del terreno; pavimentazione industriale in cls fibrorinforzato 18-25 cm con giunti segati o armati, planarietà controllata per scaffalature e carrelli.
+- **Applicazioni:** Ipermercati e supermercati, box dei retail park, brico e DIY, cash & carry, grandi magazzini; anche palestre e cinema inseriti nei centri (vasche e sale richiedono strutture dedicate).
+- **Vantaggi:** Grand luci senza pilastri intermedi = massima flessibilità commerciale; prefabbricazione = tempi rapidi e qualità controllata; coperture metalliche leggere riducono le azioni sismiche.
+- **Limiti e attenzioni:** Il prefabbricato impone nodi e appoggi da dettagliare bene (appoggi travi, bicchieri, neoprene); coperture metalliche soffrono condensa se non corrette in stratigrafia; la pavimentazione industriale è critica: errori di planarietà o giunti sbagliati si pagano per decenni.
+- **Costi ed economia:** Ordini di grandezza indicativi: struttura prefabbricata in c.a. con copertura 180-300 €/m2 coperti; capriata metallica con lamiera e pannello 100-180 €/m2; pavimento industriale armato con giunti 45-80 €/m2.
+- **Caso tipico:** Caso tipo: ipermercato 12.000 m2 con maglia 16x8 m, pilastri a bicchiere e travi precompresse da 20 m; la copertura a tegoli TT consente gli impianti a vista sottotrave; il pavimento con fibre e giunti armati regge il traffico dei transpallet da 20 anni.
+- **Normativa:** NTC D.M. 17/1/2018 (azioni neve, vento, sisma; sovraccarichi vendita); Eurocodici EN 1990-1994 e NA nazionali; UNI EN 1090 (esecuzione strutture metalliche, marcatura CE); D.M. 14/1/2008 revocato ma storicamente rilevante per opere esistenti.
+- **Nota di cantiere:** Definisci subito con il committente la planimetria dei carichi (scaffali, magazzino, celle frigo): un solaio pensato per 5 kN/m2 non regge il magazzino da 15. E controlla le tolleranze dei bicchieri prima del getto di completamento: recuperare un pilastro fuori piombo costa più del pilastro.
+
+### Titoli edilizi, agibilità e autorizzazioni di esercizio
+
+**Categoria:** Titoli e agibilità · **Corso:** Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail
+
+Un centro commerciale è un incrocio di titoli: titolo edilizio per la costruzione, autorizzazione commerciale per il formato, agibilità per l’uso, SCIA antincendio per le attività soggette, pareri sanitari per food e benessere, insegne e pubblicità. Aprire senza uno di questi atti vuol dire sanzioni, chiusura o impossibilità di contratti seri con i tenant.
+
+- **Tecnologia e criteri:** Sequenza tipica: autorizzazione commerciale (regionale o comunale secondo formato e legge regionale), PdC o SCIA edilizia coerente, collaudi statici e impianti, SCIA antincendio con esito dei controlli VVF, segnalazione certificata di agibilità, autorizzazioni sanitarie per somministrazione, comunicazioni per insegne; per i tenant: SCIA di subingresso o variazione, adeguamenti impiantistici certificati.
+- **Applicazioni:** Nuove costruzioni retail, ampliamenti, cambi di destinazione d’uso verso commerciale, aperture e subingressi di negozi, food court e sale giochi.
+- **Vantaggi:** Sequenza corretta = apertura senza sorprese e finanziabilità; agibilità e antincendio chiariscono responsabilità tra gestore e tenant.
+- **Limiti e attenzioni:** Iter lunghi e non paralleli: un ritardo VVF blocca l’apertura stagionale; il cambio destinazione d’uso può richiedere standard e opere non previsti; ogni variante commerciale può richiedere adeguamento del titolo edilizio.
+- **Costi ed economia:** Ordini di grandezza indicativi: pratiche autorizzative complesse per centro medio 50-200 k€ di parcelle tecniche; SCIA antincendio e aggiornamenti 3-15 k€; varianti in corso d’opera con impatto autorizzativo possono costare mesi più che euro.
+- **Caso tipico:** Caso tipo: apertura di un retail park a novembre; la SCIA antincendio era stata depositata con un layout superato; il controllo VVF prescrive adeguamenti che slittano l’apertura a febbraio: il danno commerciale supera di gran lunga il costo della pratica corretta.
+- **Normativa:** DPR 380/2001 (titoli edilizi, agibilità art. 24, cambi destinazione art. 23-ter); D.Lgs 114/1998 e D.Lgs 59/2010 (autorizzazioni e SCIA commerciali); DPR 151/2011 (SCIA antincendio); normativa sanitaria regionale per somministrazione (da verificare); Codice della strada e norme pubblicità per insegne.
+- **Nota di cantiere:** Tieni un cronoprogramma delle autorizzazioni separato da quello dei lavori: il cantiere finisce, le carte no. E fai firmare ai tenant un allegato tecnico che chiarisce chi fa cosa su impianti e pratiche del box.
 
 
 ## Risanamento e recupero edilizio

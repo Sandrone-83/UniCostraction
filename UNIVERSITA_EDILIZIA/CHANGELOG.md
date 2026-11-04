@@ -1,4 +1,25 @@
 
+## Giro AP — 2026-11-04, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione (articolato DDL Bilancio 2027 bollinato verificato: nota datata alla scheda detrazioni); nuovo pack RETAIL_CENTRI_COMMERCIALI_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AP1 | Correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note AK1/AL1/AO1 con proroga 50%/36% riportata da stampa e ipotesi Ecobonus 65% ancora aperta; articolato non verificato | Aggiunta nota datata 04/11/2026 con l'articolato bollinato (trasmesso al Parlamento il 30/10/2026): art. 4 introduce artt. 360-bis/ter/quater del nuovo TUIR; Ecobonus 2027 proposto 36% (50% abitazione principale), max 96.000 euro/u.i., parti comuni 40.000 euro x unita', 10 quote, escluse caldaie uniche a fossili; Sismabonus 36%/50% max 96.000 euro (parti comuni 96.000 x n.); Bonus ristrutturazioni 36%/50% max 96.000 euro; arredo 50% su 5.000 euro collegato al recupero edilizio; elettrodomestici 50 M€ 2027 a decreto attuativo; ritorno al 65% NON presente; STATO: proposta in esame parlamentare, non operativa | edilizia.com (con PDF del testo bollinato, art. 4, pp. 3-8), Il Sole 24 Ore 1/11/2026, comunicato CdM n. 195 del 28/10/2026 — verifica web 04/11/2026 |
+| AP2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota aggiornata al 23/10 (intesa Conferenza Unificata 22/10/2026; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata: adozione MASE e pubblicazione in GU del correttivo ancora assenti al 04/11/2026; valgono le regole vigenti | stampa di settore — verifica web 04/11/2026 |
+| AP3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza accesso 31/12/2027 (o 5 GW), DL 19/2026 art. 27 | Confermato: nessun provvedimento nuovo oltre la richiesta di proroga al 2030 (lettera associazioni 29/9/2026); il «possibile rifinanziamento» citato da stampa (~3/11) resta ipotesi gia' coperta dalla nota AL2 | stampa di settore — verifica web 04/11/2026 |
+| AP4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi rifinanziamento in LdB 2027) | Confermata: nessun bando pubblicato, decreto di rifinanziamento non in GU; bando CER Taranto (PN JTF) e' regionale, fuori perimetro nazionale | stampa di settore — verifica web 04/11/2026 |
+| AP5 | Nuovo pack | — | RETAIL_CENTRI_COMMERCIALI_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015, SEFC, sprinkler), strutture di grande luce, involucro (UNI EN 13830, UNI 7697), HVAC e CO2 transcritica (F-gas), aree esterne e parcheggi a raso, retro-logistica e dock, titoli e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e de-malling, economia del retail. Verifica ridondanza su 87 pack: solo 2 hit non strutturali (illuminotecnica, retail design) | Norme di consolidata certezza; prezzi come fasce indicative; nessun nome di azienda |
+| AP6 | Nuovo esame | — | ESAMI/RETAIL_CENTRI_COMMERCIALI: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 90 esami su 88 pack) | build_esami_giro5.py |
+| AP7 | Validazione | — | Validazione globale: 88 pack, 1169 schede, 90 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (88/88). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: iter parlamentare fino al 31/12/2026: verificare il testo definitivo (aliquote, massimali, condizioni possono cambiare), il coordinamento col nuovo TUIR (art. 373: 30%/36%) e la pubblicazione in GU; solo allora le schede passano da «proposta» a regime.
+- Conto Termico 3.0: adozione del correttivo da parte del MASE, pubblicazione in GU e nuove Regole Applicative GSE.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: due richiami UE all'Italia sul recepimento: stato da verificare.
+- CER: richiesta delle associazioni di prorogare gli incentivi al 2030 (29/9/2026): monitorare.
+
 ## Giro AO — 2026-11-03, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 articolato ancora non pubblicato sui portali parlamentari; CT 3.0 correttivo con intesa CU 22/10 gia' in scheda e ancora non in GU; CER e Reddito Energetico confermati); nuovo pack PARCHEGGI_AUTORIMESSE_PACK (12 schede) con esame.

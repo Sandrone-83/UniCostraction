@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1319 voci enciclopediche tratte da 88 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1331 voci enciclopediche tratte da 89 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -77,6 +77,8 @@
   La resistenza antieffrazione si classifica secondo UNI EN 1627 in classi RC: RC1-RC2 (ladro occasionale, attrezzi semplici, pochi minuti), RC3 (cacciavite e piede di porco, 5 minuti), RC4 (utensili pesanti, 10 minuti), R…
 - **Antigelo e sverniciatori** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prodotti per il cantiere invernale e la manutenzione: antigelo per cls, sverniciatori, sgrassatori.
+- **Antincendio nelle grandi superfici commerciali** — Prevenzione incendi · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Le attività commerciali aperte al pubblico con superficie oltre soglia sono soggette al controllo dei Vigili del Fuoco e alla progettazione secondo il Codice di prevenzione incendi. I nodi critici sono: esodo in presenz…
 - **Antintrusione integrata** — Sicurezza · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Impianto di sicurezza con sensori volumetrici, perimetrali, centrali, integrato alla domotica.
 - **Appalti e contabilità dei lavori per il geometra** — Appalti contabilita · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -99,6 +101,8 @@
   Il tema centrale dell'edilizia italiana: la casa, i suoi standard, la sua evoluzione.
 - **Architettura sostenibile: il progetto clima-compatibile** — Architettura sostenibile · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Progettare con il clima, non contro: passivismo, energia quasi zero, adattamento.
+- **Aree esterne, parcheggi a raso e viabilità di contorno** — Aree esterne · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Nel retail le aree esterne sono parte del prodotto: parcheggi a raso capienti e leggibili, viabilità di accesso e svincoli, percorsi pedonali protetti dai varchi alle gallerie, aree di carico separate dai flussi clienti…
 - **Arginature fluviali e di bonifica: la difesa delle pianure** — Argini · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   I fiumi di pianura e la loro gabbia: argini in terra rinforzata e opere in cls.
 - **Armadi a muro, cabine armadio e sistemi di contenimento** — Armadi e cabine · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -477,6 +481,8 @@
   Il giudizio economico sul CSP oggi parte da un dato: il fotovoltaico con batterie ha cambiato il riferimento di prezzo. Il CSP resta competitivo dove serve energia rinnovabile programmabile di lunga durata e dove la fili…
 - **Economia del piccolo idroelettrico: CAPEX, producibilita', ricavi e O&M** — Economia · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
   Il piccolo idroelettrico e' un investimento capital-intensive a vita lunghissima: CAPEX tipico 2.500-6.000 €/kW installato per mini-idro (sotto i 100 kW anche 5.000-12.000 €/kW), con opere civili 40-60%, elettromeccanico…
+- **Economia del retail: costi, canoni e redditività** — Economia · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Il retail edilizio si giudica sulla redditività immobiliare: costo di sviluppo (area, costruzione, autorizzazioni, fit-out incentives), ricavi (canoni base + overage sul fatturato, service charge per spazi comuni) e val…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -575,6 +581,8 @@
   Telaio in PVC con profili multi-camera: il serramento economico isolante standard.
 - **Fisica del piccolo idroelettrico: portata, salto, potenza e classificazione di taglia** — Fondamenti · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
   La potenza di un impianto idroelettrico e' sempre il prodotto di tre termini: portata turbinata Q (m3/s), salto lordo H (m) e rendimento complessivo. La formula pratica e' P(kW) = 9,81 x Q x H x eta, con 9,81 = peso spec…
+- **Fit-out dei negozi e capitolari landlord/tenant** — Fit-out · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Il gestore consegna i box in shell & core (o in grezzo avanzato) e il conduttore realizza il fit-out: pavimenti, controsoffitti, impianti dedicati, arredi, insegne interne. Il capitolato tecnico del landlord definisce co…
 - **Fognature e depurazione: collettori, vasche e scarichi** — Fognature · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Il viaggio dell'acqua sporca: fognatura unita e separata, depurazione e scarico.
 - **Fondazioni esistenti: diagnosi, rinforzo e recupero** — Fondazioni superficiali · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -585,6 +593,8 @@
   Tutto poggia sul terreno: come si dà una base sicura all'edificio.
 - **Fondo e isolante per pareti** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Fissativi e isolanti che preparano il supporto: fissano la polvere, uniformano l'assorbimento, bloccano macchie.
+- **Formati retail e quadro autorizzatorio del commercio** — Formati e autorizzazioni · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Il retail edilizio si classifica per formato: esercizi di vicinato, medie strutture di vendita, grandi strutture di vendita (supermercati, ipermercati, grandi magazzini), centri commerciali (aggregazione unitaria di eser…
 - **Formazione, addestramento, nominativi (art. 37 e 77) e segnaletica** — Formazione · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   La formazione e' il pilastro della prevenzione in cantiere: il D.Lgs 81/08 prevede la formazione generale e specifica per ogni lavoratore (secondo i contenuti dell'Accordo Stato-Regioni), l'addestramento pratico sulle at…
 - **Fotogrammetria e laser scanner: il rilievo 3D moderno** — Fotogrammetria scanner · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -1197,6 +1207,8 @@
   Dove le membrane incontrano troppi dettagli (sfiati, emergenze, ringhiere, geometrie curve) la risposta moderna e' il liquido: si applica a rullo o a spruzzo e polimerizza in un manto continuo senza un solo giunto.
 - **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
+- **Impianti HVAC e refrigerazione commerciale** — Impianti · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Il retail climatizza grandi volumi con ricambi elevati (porte sempre aperte, affollamento variabile) e, nei food, gestisce la refrigerazione dei banchi e delle celle: due mondi impiantistici distinti ma integrabili, con …
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di re…
 - **Impianto a sprinklers** — Idraulica antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1231,6 +1243,8 @@
   L'invarianza idraulica e idrogeologica e' il principio per cui un intervento urbanistico non deve aumentare la portata ne' peggiorare il regime dei deflussi rispetto allo stato ante-operam: cio' che il terreno assorbiva …
 - **Inverter di centrale e rete interna: dal modulo alla cabina di consegna** — Inverter e rete interna · corso: *Fotovoltaico a terra, agrivoltaico e CER* (`FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK`)
   Dalla corrente continua dei moduli alla corrente alternata di rete: inverter, cabine di trasformazione e la rete interna in cavidotto sono il sistema nervoso del campo. La scelta tra string inverter e central inverter ca…
+- **Involucro del retail: facciate, vetrate, pensiline e ingressi** — Involucro · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  L’involucro commerciale ha tre anime: la facciata architettonica (immagine e brand, spesso in facciata continua o rivestimenti metallici/ventilati), le vetrate di ingresso e vetrina (trasparenza, sicurezza), e gli elemen…
 - **Involucro edilizio in clima rigido: zona climatica F, ponti termici e condensa** — Involucro in clima rigido · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Le localita' di alta montagna cadono in zona climatica F (oltre 3.000 gradi giorno): dispersioni invernali estreme, rischio condensa interstiziale, ponti termici che diventano muffe. L'involucro va progettato per il caso…
 - **Iperammortamento 2026-2028 e fine del ciclo Transizione 5.0** — Incentivi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
@@ -1993,6 +2007,8 @@
   Sottofondi autolivellanti cementizi o a base anidrite per regolarizzare supporti prima di rivestimenti sottili. Errore tipico: saltare il primer o applicare su supporto polverulento (distacco a fogli); controllo: test di…
 - **Massetto tradizionale sabbia-cemento** — Sottofondi e massetti · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Realizzazione di sottofondi aderenti o galleggianti con malta sabbia-cemento a consistenza terra umida. Errore tipico: dosi troppo povere (polverizzazione in superficie) o eccesso d'acqua (ritiro e crepe); controllo: pro…
+- **Masterplan, layout e tenant mix del centro commerciale** — Masterplan e layout · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Il layout di un centro commerciale nasce dal masterplan: posizione dell’anchor (ipermercato o grande magazzino), conformazione della galleria (lineare, a L, a T, a corte centrale), distribuzione delle unità medie e picc…
 - **Mastice bituminoso e sigillanti** — Impermeabilizzanti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Mastice bituminoso denso per sigillare giunti, cordoli, penetrazioni e riparazioni di guaine.
 - **Materassino drenante** — Geotecnica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2351,6 +2367,8 @@
   Cablaggio dati ethernet dell'edificio: dorsali e punti rete in ogni ambiente.
 - **Rete elettrosaldata** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Reti di barre saldate in fabbrica: per solai, massetti, riprese di getto: distribuiscono armatura con velocità.
+- **Retro-logistica, baie di carico e magazzino vendita** — Retro-logistica · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Dietro la superficie vendita sta la macchina logistica: piazzali per mezzi pesanti, baie di carico con dock levellers, magazzino scorte, celle frigo, aree resi e rifiuti. Dimensionarla male vuol dire consegne lente, mezz…
 - **Retrofit energetico e miglioramento sismico: l'intervento combinato** — Integrazione · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
   Sul patrimonio esistente energia e sismica si fanno nello stesso cantiere o non si fanno affatto: ponteggio, pratiche e disagi sono gli stessi, e combinare cappotto con rinforzi (cerchiature, FRP, placcaggi) e' la strate…
 - **Rifiuti da demolizione: codici CER 17, bilancio di massa e percorso documentale** — Demolizioni — decostruzione e rifiuti · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
@@ -2361,6 +2379,8 @@
   Sensori che rilevano fumo, calore, fiamma, gas: il primo anello della catena di sicurezza.
 - **Rinforzare le strutture: FRP, camicie, spessori, precompressione** — Rinforzi strutturali · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   Le tecniche per dare nuova vita a cls e acciaio esistente.
+- **Riqualificazione e riconversione dei centri esistenti** — Riqualificazione · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Molti centri commerciali di prima generazione sono obsoleti: format superati, involucri energetici pessimi, anchor fallite. La riqualificazione spazia dal restyling (facciate, galleria, servizi) alla riconversione funzio…
 - **Riqualificazione urbana: contratti di quartiere, periferie, rigenerazione** — Riqualificazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   La politica urbana nazionale degli ultimi decenni si è concentrata sulla riqualificazione: Contratti di Quartiere (anni 2000), Bando Periferie (2016-2022), Contratti di Fiume, rigenerazione urbana e sociale: interventi i…
 - **Risanamento dopo allagamenti e danni idraulici** — Emergenze · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
@@ -2513,6 +2533,8 @@
   Ogni voce di prezzario e' un piccolo contratto tecnico: definisce cosa si misura, come si misura e cosa e' compreso nel prezzo. Leggerla male e' la causa piu' frequente di errori di computo e di contenziosi.
 - **Strutture alte: torri, antenne, grattacieli** — Torri · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   La verticalità estrema: le questioni strutturali specifiche delle opere alte.
+- **Strutture di grande luce per il retail** — Strutture · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Le grandi superfici di vendita richiedono luci libere di 16-32 m per lasciare flessibilità agli scaffali e ai layout: le soluzioni tipiche sono telai in c.a. prefabbricato con travi precompresse, capriate metalliche ret…
 - **Strutture ibride cls-acciaio e collaboranti** — Strutture ibride · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Il meglio dei due materiali: sezioni miste acciaio-cls e sistemi collaboranti.
 - **Strutture in acciaio e in legno in zona sismica: duttilita' e connessioni** — Sismica — progetto delle opere nuove · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
@@ -2573,6 +2595,8 @@
   Le forme dell'edilizia secondo funzione: regole, dimensioni, standard.
 - **Tipologie di impianti sportivi: dall'impianto scoperto al palazzetto dello sport** — Tipologie e classificazione · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Panoramica delle tipologie edilizie dedicate all'attività sportiva: impianti scoperti (campi di calcio, atletica, tennis, rugby), palazzetti polivalenti coperti, palestre e centri sportivi polifunzionali. Le piscine, per…
+- **Titoli edilizi, agibilità e autorizzazioni di esercizio** — Titoli e agibilità · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
+  Un centro commerciale è un incrocio di titoli: titolo edilizio per la costruzione, autorizzazione commerciale per il formato, agibilità per l’uso, SCIA antincendio per le attività soggette, pareri sanitari per food e …
 - **Titoli edilizia libera per il tecnico: CILA, SCIA, PdC** — Edilizia libera · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Le pratiche edilizie che il cittadino (con tecnico) presenta: cosa serve per cosa.
 - **Topografia: i principi fondamentali** — Topografia principi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)

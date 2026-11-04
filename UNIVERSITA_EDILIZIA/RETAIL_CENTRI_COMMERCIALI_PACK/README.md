@@ -1,0 +1,7 @@
+# Edilizia retail e centri commerciali
+
+Corso L1-L2 della Facolta di Tecnologia e Costruzione: la grande distribuzione e il commercio organizzato come tipologia edilizia completa — formati e quadro autorizzatorio (D.Lgs 114/1998, soglie regionali), masterplan, layout e tenant mix (GLA, gallerie, anchor, court), antincendio nelle grandi superfici aperte al pubblico (DPR 151/2011, Codice D.M. 3/8/2015, SEFC, sprinkler, EVAC), strutture di grande luce (prefabbricato in c.a., capriate metalliche, pavimenti industriali), involucro commerciale (facciate continue e ventilate, vetrate di sicurezza, pensiline), impianti HVAC e refrigerazione commerciale a CO2 (F-gas, recupero calore, BMS), aree esterne e parcheggi a raso (drenaggio, pensiline fotovoltaiche, viabilita'), retro-logistica e baie di carico, titoli edilizi, agibilita' e autorizzazioni di esercizio, fit-out dei negozi e capitolari landlord/tenant, riqualificazione e riconversione dei centri esistenti (restyling, de-malling, retrofit) ed economia del retail (costi per format, canoni, service charge, capex).
+
+**Schede: 12**
+
+Non ridondante con ILLUMINAZIONE_TECNICA_PACK (progetto illuminotecnico), MASTER_DESIGN_PACK (retail design ed esperienza), EDILIZIA_INDUSTRIALE_LOGISTICA_PACK (magazzini, cui si rinvia per la logistica avanzata) e PARCHEGGI_AUTORIMESSE_PACK (geometria della sosta, cui si rinvia): qui la tipologia commerciale completa — autorizzativa, strutturale, antincendio, impiantistica ed economica — assente altrove.
