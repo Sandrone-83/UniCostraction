@@ -36,6 +36,7 @@ di apprendimento per settore.
 | DISEGNO_TECNICO | ✅ 250 domande | chiavi: jsonl |
 | DOMOTICA | ✅ 300 domande | chiavi: jsonl |
 | EDILIZIA_AGRICOLA | ✅ 250 domande | chiavi: jsonl |
+| EDILIZIA_CIMITERIALE | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_CIRCOLARE_LCA | ✅ 250 domande | chiavi: jsonl |
 | EDILIZIA_INDUSTRIALE | ✅ 200 domande | chiavi: jsonl |
 | EDILIZIA_MONTAGNA | ✅ 250 domande | chiavi: jsonl |
@@ -106,7 +107,7 @@ di apprendimento per settore.
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 90 esami (uno per settore, denominazioni storiche incluse) a copertura degli 88 pack
+Copertura: 91 esami (uno per settore, denominazioni storiche incluse) a copertura degli 89 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.

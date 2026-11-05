@@ -1,4 +1,25 @@
 
+## Giro AQ — 2026-11-05, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 arrivato alla Camera con contenuti coerenti con la nota AP1 del 04/11; CT 3.0 correttivo con intesa CU 22/10 ancora non in vigore; CER e Reddito Energetico confermati); nuovo pack EDILIZIA_CIMITERIALE_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AQ1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): nota AP1 del 04/11/2026 con l'articolato bollinato (art. 4: artt. 360-bis/ter/quater; 36%/50%; massimali 96.000 euro) | Confermata: il DDL e' arrivato alla Camera (05/11); i contenuti dell'art. 4 riportati dalla stampa sono coerenti con la nota; iter parlamentare in corso fino al 31/12/2026: nessun nuovo append | fiscoetasse.com, tuoingegnere.altervista.org (05/11/2026) — verifica web 05/11/2026 |
+| AQ2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota aggiornata al 23/10 (intesa Conferenza Unificata 22/10/2026; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata: Rep. atti 144/CU del 22/10/2026; adozione MASE e pubblicazione in GU ancora assenti al 05/11/2026; osservazioni Regioni non vincolanti | infobuildenergia.it, termicofacile.it (26-27/10/2026) — verifica web 05/11/2026 |
+| AQ3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza accesso 31/12/2027 (o 5 GW), nota sulla richiesta di proroga al 2030 | Confermato: la lettera congiunta delle associazioni al Ministro MASE (inizio ottobre) chiede l'estensione al 31/12/2030 o 5 GW; nessun provvedimento nuovo | solareb2b.it (newsletter novembre 2026) — verifica web 05/11/2026 |
+| AQ4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi rifinanziamento in LdB 2027) | Confermata: nessun bando pubblicato, decreto di rifinanziamento non in GU | stampa di settore — verifica web 05/11/2026 |
+| AQ5 | Nuovo pack | — | EDILIZIA_CIMITERIALE_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): piani cimiteriali e DPR 285/1990, idrogeologia del sito, organizzazione funzionale, sepolture in terra, loculi e colombari prefabbricati, tombe private e cappelle, ossari e cinerari (L. 130/2001), forni crematori, impianti e servizi, sicurezza e manutenzione, accessibilita' e paesaggio, economia delle concessioni. Verifica ridondanza su 88 pack: nessun titolo sulla tipologia cimiteriale | Norme di consolidata certezza (distanze e franchi con invito a verifica del testo vigente); prezzi come fasce indicative; nessun nome di azienda |
+| AQ6 | Nuovo esame | — | ESAMI/EDILIZIA_CIMITERIALE: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 91 esami su 89 pack) | build_esami_giro5.py |
+| AQ7 | Validazione | — | Validazione globale: 89 pack, 1181 schede, 91 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (89/89). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: iter alla Camera fino al 31/12/2026: verificare emendamenti su art. 4 (aliquote, massimali, eventuale rientro del 65%), coordinamento col nuovo TUIR (art. 373) e pubblicazione in GU.
+- Conto Termico 3.0: adozione del correttivo da parte del MASE e pubblicazione in GU; richieste delle Regioni (riserva 400 M€, 100% annuo piccoli Comuni) da verificare nel testo definitivo.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- CER: richiesta delle associazioni di estensione al 31/12/2030 o 5 GW (lettera al Ministro, ottobre 2026): monitorare.
+- EPBD (UE) 2024/1275: richiami UE all'Italia sul recepimento: stato da verificare.
+
 ## Giro AP — 2026-11-04, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione (articolato DDL Bilancio 2027 bollinato verificato: nota datata alla scheda detrazioni); nuovo pack RETAIL_CENTRI_COMMERCIALI_PACK (12 schede) con esame.

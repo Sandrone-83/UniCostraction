@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1331 voci enciclopediche tratte da 89 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1343 voci enciclopediche tratte da 90 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -13,6 +13,8 @@
   In montagna l'accesso e' un'opera provvisionale a se': strade sterrate in pendenza, tornanti, ponti con portate limitate, neve e ghiaccio per mesi. La sicurezza del trasporto vale quanto quella delle lavorazioni.
 - **Accessibilità e barriere architettoniche negli impianti sportivi** — Accessibilità · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Gli impianti sportivi devono essere fruibili da tutti: persone con disabilità motorie, sensoriali e cognitive. L'accessibilità riguarda percorsi esterni, parcheggi, ingressi, spalti, spogliatoi e servizi igienici, fino a…
+- **Accessibilità, accoglienza e progetto del paesaggio** — Accessibilità e paesaggio · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Il cimitero è un luogo pubblico di prossimità quotidiana: deve essere accessibile a anziani e disabili (D.M. 236/1989), leggibile nei percorsi, dotato di sedute e ombra, e inserito nel paesaggio con cura: recinzioni mi…
 - **Accessori impianto idrico** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Flessibili, gruppi di sicurezza, vasi di espansione, filtri e riduttori di pressione: gli 'organi' dell'impianto idrico.
 - **Acciai strutturali: gradi, laminati e zincati** — Acciai · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -491,6 +493,8 @@
   Come si forma davvero il costo di una demolizione e come va contabilizzata: la voce dominante non e' l'abbattimento ma la gestione dei materiali, e l'errore di preventivo piu' frequente e' la sottostima di trasporti e co…
 - **Economia e gestione dei parcheggi: costi per posto, forme di gestione e contabilita'** — Parcheggi — economia e gestione · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
   Il parcheggio e' un investimento immobiliare con metriche proprie: costo per posto realizzato, ricavo per posto gestito, payback e valore pertinenziale. Capire dove si forma il costo (scavo vs struttura vs impianti) deci…
+- **Economia e gestione: concessioni, costi e investimenti** — Economia e gestione · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Il cimitero si autofinanzia in parte con le concessioni (loculi, tombe private, cinerari) e in parte con il bilancio comunale: la tariffa della concessione dovrebbe coprire costruzione, manutenzione del periodo concesso …
 - **Economia e programmazione delle grandi opere idrauliche** — Economia · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -597,6 +601,8 @@
   Il retail edilizio si classifica per formato: esercizi di vicinato, medie strutture di vendita, grandi strutture di vendita (supermercati, ipermercati, grandi magazzini), centri commerciali (aggregazione unitaria di eser…
 - **Formazione, addestramento, nominativi (art. 37 e 77) e segnaletica** — Formazione · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   La formazione e' il pilastro della prevenzione in cantiere: il D.Lgs 81/08 prevede la formazione generale e specifica per ogni lavoratore (secondo i contenuti dell'Accordo Stato-Regioni), l'addestramento pratico sulle at…
+- **Forni crematori: tecnologia, emissioni e inserimento** — Forni crematori · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Il forno crematorio è l’impianto tecnologicamente più complesso del sistema cimiteriale: camera di combustione a ~800-1.000 °C, post-combustione, sistema di abbattimento fumi (filtrazione, adsorbimento), gestione dei r…
 - **Fotogrammetria e laser scanner: il rilievo 3D moderno** — Fotogrammetria scanner · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il rilievo che produce nuvole di punti e modelli 3D fotorealistici.
 - **Fotovoltaico, accumulo e ricarica EV integrati nel retrofit** — Rinnovabili · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
@@ -1207,6 +1213,8 @@
   Dove le membrane incontrano troppi dettagli (sfiati, emergenze, ringhiere, geometrie curve) la risposta moderna e' il liquido: si applica a rullo o a spruzzo e polimerizza in un manto continuo senza un solo giunto.
 - **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
+- **Impianti e servizi: acqua, scarichi, luce, obitorio** — Impianti e servizi · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Il cimitero ha una dotazione impiantistica specifica: rete idrica con fontanelle distribuite per i fiori e l’irrigazione del verde, scarichi separati, illuminazione funzionale e di sicurezza, obitorio con celle mortuarie…
 - **Impianti HVAC e refrigerazione commerciale** — Impianti · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Il retail climatizza grandi volumi con ricambi elevati (porte sempre aperte, affollamento variabile) e, nei food, gestisce la refrigerazione dei banchi e delle celle: due mondi impiantistici distinti ma integrabili, con …
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
@@ -1945,6 +1953,8 @@
   L'ecosistema dei programmi: cosa usa davvero la professione.
 - **Locazione breve e affitti turistici: mercato e regole** — Locazione breve · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   La locazione breve (affitti turistici, Airbnb-style) è un mercato cresciuto enormemente: rendimenti potenziali superiori alla locazione tradizionale (in zone turistiche anche del doppio), ma con carico gestionale (check-…
+- **Loculi e colombari prefabbricati** — Loculi e colombari · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  I blocchi di loculi (celle per feretri sovrapposte in file) e i colombari (celle per urne cinerarie) sono la risposta alla scarsità di suolo: sistemi prefabbricati in calcestruzzo armato, modulari e impilabili, con tela…
 - **LOD e LOIN: quanta informazione nel modello** — LOD e informativa · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   Il LOD (Level of Development, standard americano; in Italia spesso 'Level of Detail') indica quanto l'elemento del modello è affidabile: LOD 100 concettuale, 200 generico, 300 produzione esecutiva, 400 fabbricazione, 500…
 - **Logaritmi, esponenziali e decadimenti: la matematica del tempo** — Logaritmi e esponenziali · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
@@ -2105,8 +2115,12 @@
   Ingegneria del mare: difendere la costa e creare approdi sicuri.
 - **Organizzazione del cantiere e costruzione per fasi** — Organizzazione · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cantiere come sistema: layout, fasi, interferenze e continuità operativa.
+- **Organizzazione funzionale: campi, servizi e flussi** — Organizzazione · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Un cimitero è un organismo complesso: zone di sepoltura in terra (campi comuni e campi a rotazione), blocchi di loculi e colombari, tombe private e cappelle, servizi (ingresso con parco, uffici, obitorio, camere ardenti…
 - **OSB (oriented strand board)** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Scaglie di legno orientate e compresse con resine: il pannello strutturale economico del telaio legno.
+- **Ossari, cinerari e gestione delle esumazioni** — Ossari e ceneri · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Il ciclo cimiteriale si chiude con le esumazioni: a fine periodo le salme non mineralizzate vanno all’ossario comune, le ossa raccolte in ossari individuali o comuni, e le ceneri in cinerari/columbari. La normativa sulla…
 - **Outdoor design: terrazzi, giardini, piscine** — Outdoor design · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Gli spazi esterni come stanze a cielo aperto: arredo, materiali, verde.
 
@@ -2325,6 +2339,8 @@
   Quadri con interruttori magnetotermici, differenziali e moduli: il 'cervello' dell'impianto elettrico.
 - **Quadro generale di bassa tensione** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Distribuzione e protezione dell'energia elettrica di un edificio.
+- **Quadro normativo e pianificazione cimiteriale** — Quadro normativo · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Il cimitero è un’opera pubblica con disciplina propria: la costruzione, l’ampliamento e la gestione sono regolati dal Regolamento di Polizia Mortuaria e dalle leggi regionali, con piani cimiteriali comunali che dimensio…
 - **Qualità dell'aria e CO2-driven ventilation** — VMC integrata · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   La domotica comanda la VMC in base a CO2, umidità e presenza: aria pulita con minimo consumo.
 - **Qualità e certificazioni d'impresa: ISO 9001, SOA, credito** — Qualità impresa · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)
@@ -2453,6 +2469,8 @@
   Gli occhi dell'impianto: presenza, movimento, luce, temperatura, umidità, CO2, qualità aria.
 - **Sensoristica urbana e reti IoT: LoRaWAN, NB-IoT e la scelta della connettivita'** — Architettura · corso: *Smart city: sensoristica, piattaforme e servizi urbani* (`SMART_CITY_PACK`)
   I sensori urbani (aria, rumore, livelli idraulici, parcheggi, cassonetti) parlano con reti a basso consumo: la scelta tra LoRaWAN proprietario comunale e NB-IoT dell'operatore decide costi, autonomia e governance per die…
+- **Sepolture in terra e campi comuni** — Sepolture in terra · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  La sepoltura in terra resta la forma più tradizionale: fosse singole in campi comuni, con periodo di sepoltura legato ai tempi di mineralizzazione delle salme (in Italia orientativamente 10 anni, secondo normativa mortu…
 - **Serbatoi e opere di contenimento** — Serbatoi · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
   Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idrostatica, la tenuta, la pulizia e la sicurezza; materiali: calcestruzzo (getto in opera o prefabbricato), acciaio, GRP (plastica rinforzata).
 - **Serbatoi geocellulari interrati: la detenzione modulare sotto piazzali** — Detenzione · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
@@ -2473,6 +2491,8 @@
   Il D.Lgs 81/08 applicato all'azienda agricola: rischi specifici e prevenzione.
 - **Sicurezza nelle grandi opere e nei cantieri sotterranei** — HSE opere · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Il cantiere delle grandi opere: rischi specifici e cultura della sicurezza.
+- **Sicurezza statica e manutenzione programmata** — Sicurezza e manutenzione · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  I cimiteri concentrano rischi statici spesso sottovalutati: blocchi di loculi vetusti, cappelle private con rivestimenti pericolanti, muri di sostegno, alberi ad alto fusto vicino alle strutture. I crolli di loculi avven…
 - **Sifoni e valvole antiriflusso** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Sifoni a bottiglia e valvole antiriflusso: la protezione dai cattivi odori e dal riflusso delle acque.
 - **Sigillatura elastica di giunti e serramenti** — Sigillature · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
@@ -2599,6 +2619,8 @@
   Un centro commerciale è un incrocio di titoli: titolo edilizio per la costruzione, autorizzazione commerciale per il formato, agibilità per l’uso, SCIA antincendio per le attività soggette, pareri sanitari per food e …
 - **Titoli edilizia libera per il tecnico: CILA, SCIA, PdC** — Edilizia libera · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Le pratiche edilizie che il cittadino (con tecnico) presenta: cosa serve per cosa.
+- **Tombe private, cappelle gentilizie ed edicole** — Tombe private · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  Le tombe private e le cappelle gentilizie sono piccole costruzioni a tutti gli effetti: fondazioni, elevazioni, coperture, finiture lapidee, serramenti. Ricadono nel perimetro cimiteriale con concessione di area e vincol…
 - **Topografia: i principi fondamentali** — Topografia principi · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Misurare la terra: coordinate, quote, riferimenti, errori.
 - **Torri e fondazioni del piccolo eolico: strutture, NTC e il cantiere di base** — Strutture · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
@@ -2693,6 +2715,8 @@
   Gli interventi su beni culturali vincolati richiedono autorizzazioni specifiche che verificano la compatibilità tecnica e materica delle lavorazioni proposte. Il procedimento coinvolge la Soprintendenza competente per te…
 - **Vincoli paesaggistici e regolamenti edilizi in ambito alpino** — Quadro e vincoli · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Quasi tutto il territorio montano italiano e' vincolato: paesaggio, boschi, demanio idrogeologico, distanze da corsi d'acqua, regolamenti di decoro alpino. Il progetto nasce dai vincoli, non vi si adatta dopo.
+- **Vincolo idrogeologico e scelta del sito** — Sito e geologia · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
+  La sepoltura in terra impone requisiti geologici stringenti: il sito deve garantire che il fondo delle fosse resti sopra il massimo livello della falda acquifera con un franco di sicurezza, che il terreno sia sufficiente…
 - **Vite** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Elemento filettato con testa che avvita in un foro preforato o in un inserto: fissaggio avvitato a coppia controllata, smontabile.
 - **Vivibilità e comfort abitativo: oltre l'estetica** — Vivibilità · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
