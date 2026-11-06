@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-496 voci, 28 corsi.
+508 voci, 29 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -7184,6 +7184,191 @@ Il vetro è il cuore prestazionale del serramento: vetro camera (2 lastre + inte
 - **Caso tipico:** Vetrata sud-est con vetro selettivo a basso g: la sovratemperatura estiva interna è scomparsa senza schermature esterne; la vetrata gemella a vetro standard aveva reso la stanza inutilizzabile dalle 14 alle 18 in estate.
 - **Normativa:** UNI EN 674/675/676 (metodi prova Ug); UNI EN 1279 (vetro camera durabilità); UNI EN 12150/14449 (temperato/stratificato).
 - **Nota di cantiere:** La domanda non è 'quanto costa il vetro?' ma 'quanto calore entra ed esce da questo vetro in questa esposizione?'
+
+
+## Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+*Corso `TEATRI_LOCALI_SPETTACOLO_PACK` — 12 voci*
+
+### Acustica della sala: riverbero, intelligibilità, isolamento
+
+**Categoria:** Acustica · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+L’acustica è la prestazione che definisce una sala da spettacolo: tempo di riverbero ottimale per la funzione (prosa, lirica, concerto), distribuzione uniforme del suono, assenza di echi e focalizzazioni, isolamento dai rumori esterni e dagli impianti. Si progetta con la geometria prima ancora che coi materiali: nessun pannello corregge una forma sbagliata.
+
+- **Tecnologia e criteri:** Parametri: tempo di riverbero medio ottimale orientativo 0,7-1,0 s per la prosa, 1,4-1,8 s per lirica e concerti sinfonici (volume dipendente); geometria: superfici laterali riflettenti vicino al proscenio, soffitto come riflettore, fondo assorbente; materiali fonoassorbenti calibrati (tendaggi, pannelli microforati, risuonatori); isolamento: box-in-box per le sale critiche, porte acustiche, soglia di rumore di fondo NR 20-25; impianti su supporti antivibranti con canalizzazioni insonorizzate.
+- **Applicazioni:** Nuove sale, risanamento acustico di sale esistenti, conversione di cinema (troppo ‘sordi’ per la prosa), contenimento del rumore verso il vicinato per live club.
+- **Vantaggi:** L’acustica corretta si percepisce e vende biglietti; la progettazione geometrica precoce costa poco e rende molto; il box-in-box risolve il rapporto col vicinato.
+- **Limiti e attenzioni:** Correzioni a posteriori costano care e sono limitate; la multifunzione (prosa + musica amplificata) richiede acustica variabile costosa; il rumore degli impianti è il difetto più comune e più trascurato.
+- **Costi ed economia:** Ordini di grandezza indicativi: progetto acustico con misurazioni 15-60 k€; trattamenti acustici della sala 100-400 €/m2 di superficie trattata; box-in-box per live club 300-700 €/m2 di involucro interno.
+- **Caso tipico:** Caso tipo: ex cinema con riverbero di 0,5 s convertito in teatro di prosa: superfici laterali riflettenti al proscenio, soffitto parzialmente liberato dalle controsoffittature assorbenti, fondo con pannelli variabili: il riverbero sale a 0,9 s e la sala torna agibile acusticamente.
+- **Normativa:** UNI EN ISO 3382-1 (misurazione parametri acustici delle sale); L. 447/1995 e DPCM 5/12/1997 (limiti di rumore verso l’esterno); D.M. 236/1989 per i percorsi; rinvio a ACUSTICA_EDILIZIA_PACK per i fondamenti.
+- **Nota di cantiere:** Fai misurare l’acustica a sala vuota e a sala piena prima della consegna: le poltrone cambiano il riverbero. E ascolta la sala con gli impianti accesi al minimo sindacale: il ronzio che il progettista non sente, il pubblico sì.
+
+### Back of house: camerini, produzione e logistica scenica
+
+**Categoria:** Back of house · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Dietro il palco lavora la produzione: camerini, sartoria e costumeria, magazzini scene e costumi, officina, sala prove, carico e scarico delle scenografie con accesso al livello del palco. Il back of house ben progettato riduce i tempi di allestimento e i costi di produzione: quello sbagliato costringe le compagnie a lavorare per strada.
+
+- **Tecnologia e criteri:** Elementi: varco di carico al livello palco con portone dimensionato ai container scenici (orientativamente 3x4 m o più), piazzale di manovra per mezzi pesanti, montacarichi scenico per i depositi fuori quota; camerini con servizi e docce (collettivi e di rappresentanza), sartoria con lavanderia, magazzini con controllo di umidità per costumi e strumenti; sala prove con acustica e pavimento da danza; percorsi artisti separati dal pubblico.
+- **Applicazioni:** Teatri di produzione e di circuito, centri di residenza artistica, ampliamenti di sale esistenti, riuso di volumi adiacenti come depositi.
+- **Vantaggi:** Logistica scenica efficiente attira le produzioni (le tournée scelgono le sale dove si carica in sicurezza); depositi a norma conservano il patrimonio di scene e costumi; la sala prove moltiplica la redditività della struttura.
+- **Limiti e attenzioni:** Il varco di carico è un vincolo geometrico rigido (altezze, raggi di manovra) che nei centri storici è spesso impossibile da ricavare; i magazzini in teatro competono per lo spazio con tutto il resto; la sicurezza delle movimentazioni sceniche richiede procedure e formazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: varco di carico con portone e montacarichi 80-250 k€; camerini finiti 1.200-2.000 €/m2; magazzino scene con scaffalature e controllo climatico 600-1.000 €/m2.
+- **Caso tipico:** Caso tipo: teatro che ricava il carico scenico dal cortile posteriore con portone a tutta altezza e montacarichi da 3 t: le produzioni che prima scaricavano in strada con permessi eccezionali ora lavorano in coperto e la sala entra nel circuito nazionale.
+- **Normativa:** D.Lgs 81/2008 (movimentazione, lavoro in quota, camerini come luoghi di lavoro); D.M. 19/8/1996 (locali di servizio); normativa antincendio per i depositi (materiali scenici infiammabili); D.M. 236/1989 (accessibilità anche per gli artisti).
+- **Nota di cantiere:** Progetta il percorso della scenografia dal camion al palco con le misure del container più grande previsto: ogni centimetro di strozzatura si paga a ogni allestimento. E non mettere il magazzino costumi sopra la caldaia: l’umidità e il calore rovinano il patrimonio.
+
+### Economia e gestione della sala da spettacolo
+
+**Categoria:** Economia · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Una sala da spettacolo vive di ricavi da biglietteria, spazi accessori, convenzioni e contributi pubblici (lo spettacolo dal vivo è sostenuto dal FUS e da fondi regionali): il progetto edilizio incide su tutti. Posti vendibili, costi di esercizio (energia, manutenzione macchinismo, personale di sicurezza) e capacità di attrarre produzioni decidono la sostenibilità: il teatro progettato senza il piano di gestione è un monumento ai costi.
+
+- **Tecnologia e criteri:** Voci economiche: costo di costruzione per posto (sala media finita 8.000-15.000 €/posto, fortemente variabile); esercizio: energia, manutenzione programmata del macchinismo (contratti full-service), personale tecnico e di sicurezza per serata; ricavi: biglietti, abbonamenti, affitto sala per eventi, bar e guardaroba, contributi pubblici legati a programmazione e accessibilità; piano capex per sostituzione poltrone, rinnovo impianti scenici, adeguamenti normativi.
+- **Applicazioni:** Studi di fattibilità di nuove sale, piani di rilancio di teatri chiusi, valutazione di riuso di cinema e spazi dismessi, programmazione dei capex pluriennali.
+- **Vantaggi:** Il legame tra qualità edilizia e ricavi è diretto (confort, acustica, logistica attirano pubblico e produzioni); i fondi pubblici premiano accessibilità e programmazione; gli spazi flessibili moltiplicano i giorni di apertura.
+- **Limiti e attenzioni:** I costi fissi di sicurezza e manutenzione gravano anche a sala chiusa; il pubblico pagante copre raramente tutto: serve il mix contributi-ricavi; gli adeguamenti normativi periodici sono capex non rinviabili.
+- **Costi ed economia:** Ordini di grandezza indicativi: nuovo teatro medio 400-600 posti 8-25 M€; esercizio annuo sala media 300 k€-1 M€; manutenzione macchinismo scenico 20-60 k€/anno; ristrutturazione poltrone e platea 300-700 €/posto.
+- **Caso tipico:** Caso tipo: fondazione che gestisce un teatro riaperto con black box e foyer affittabile: i 220 giorni/anno di apertura (spettacoli + eventi) coprono i costi fissi e il fondo capex sostituisce le poltrone al decimo anno senza debiti.
+- **Normativa:** Normativa sullo spettacolo dal vivo e FUS (riferimenti ministeriali, da verificare); D.M. 19/8/1996 per gli standard che condizionano i costi; contratti di manutenzione e D.Lgs 81/2008 per il personale.
+- **Nota di cantiere:** Quando presenti il progetto, porta anche il conto economico di gestione: chi finanzia vuole sapere come la sala vive dopo l’inaugurazione. E metti nel piano il fondo ricambi del macchinismo: l’argano fermo il giorno della prima è la fine della reputazione.
+
+### Spazi per il pubblico: foyer, servizi, accessibilità
+
+**Categoria:** Front of house · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Il front of house vende l’esperienza: biglietteria, guardaroba, foyer, bar, servizi igienici dimensionati sull’affollamento degli intervalli, percorsi accessibili a ogni posto riservato. Sono gli spazi che la commissione di vigilanza misura per prima e che il pubblico ricorda: un teatro con servizi insufficienti perde pubblico indipendentemente dal cartellone.
+
+- **Tecnologia e criteri:** Indici: foyer 0,3-0,6 m2/spettatore secondo livello; servizi igienici dimensionati sulla capienza con riparto e numero di apparecchi secondo regolamento (D.M. 19/8/1996 e normativa igienica); posti per spettatori con disabilità in posizioni integrate (non solo in fondo), con percorsi dedicati dall’ingresso, servizi accessibili e posti accompagnatori; segnaletica, illuminazione di accoglienza, spazi bar con sicurezza alimentare.
+- **Applicazioni:** Nuove sale, ampliamento foyer in teatri esistenti, adeguamento servizi igienici, inserimento dell’accessibilità completa in sale storiche.
+- **Vantaggi:** Foyer adeguati abilitano eventi collaterali (conferenze, ricevimenti) e ricavi accessori; l’accessibilità integrata è requisito di legge e qualità civile; servizi dimensionati sugli intervalli eliminano le code.
+- **Limiti e attenzioni:** Nei teatri storici il front of house è quasi sempre sottodimensionato e l’ampliamento urta i vincoli; i posti accessibili ricavati a posteriori sono spesso marginali; la gestione bar richiede requisiti igienici aggiuntivi.
+- **Costi ed economia:** Ordini di grandezza indicativi: ristrutturazione foyer e servizi 1.000-2.000 €/m2; adeguamento servizi igienici a norma 30-100 k€; piattaforma elevatrice integrata 20-50 k€.
+- **Caso tipico:** Caso tipo: teatro storico che ricava il nuovo foyer nell’atrio delle biglietterie e raddoppia i servizi con un corpo aggiunto in corte: gli intervalli tornano vivibili e i ricavi del bar coprono il nuovo personale di sala.
+- **Normativa:** D.M. 19/8/1996 (servizi e spazi); D.M. 236/1989 (accessibilità); normativa igienica per somministrazione (da verificare); regolamenti di igiene locali.
+- **Nota di cantiere:** Conta gli apparecchi igienici sull’intervallo di 15 minuti, non sulla giornata: è lì che la fila si forma. E collauda il percorso accessibile con una carrozzina vera dalla biglietteria alla poltrona: ogni barriera nascosta salta fuori.
+
+### Climatizzazione e qualità dell’aria nelle sale
+
+**Categoria:** HVAC · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Climatizzare una sala da spettacolo significa gestire carichi termici elevati e variabili (affollamento, luci sceniche) con requisiti acustici severissimi: l’impianto deve essere potente e silenzioso (NR 20-25 in sala), con ricambi d’aria adeguati alla capienza e nessun moto d’aria percepibile sul pubblico e sulla scena (i costumi leggeri tradiscono ogni spiffero).
+
+- **Tecnologia e criteri:** Impianti ad aria primaria con grandi UTA a bassa velocità, condotte silenziate (silenziatori a setti, plenum), immissione dal basso (bocchette sotto-poltrona) o dall’alto a induzione controllata, estrazione in sommità; controllo CO2 per modulare i ricambi sull’affollamento reale; unità su supporti antivibranti, isolate acusticamente dalla sala; regolazione a zone (sala, palco, foyer) per gestire le diverse occorrenze.
+- **Applicazioni:** Sale nuove ed esistenti, riqualificazione energetica dei teatri, adeguamento dei ricambi post-pandemia, contenimento del rumore impiantistico.
+- **Vantaggi:** Aria ben progettata = confort invisibile e acustica intatta; il controllo CO2 riduce i consumi nelle sale a mezzo servizio; l’immissione dal basso usa la stratificazione a favore.
+- **Limiti e attenzioni:** I silenziatori e le basse velocità richiedono condotte grandi: spazi tecnici da prevedere in struttura; la riqualificazione in sale storiche trova raramente i vani impianto adeguati; il controllo delle turbolenze in scena impone prove a regimi reali.
+- **Costi ed economia:** Ordini di grandezza indicativi: HVAC sala con requisiti NR 25 120-250 €/m2 di sala; silenziatori e plenum 20-50 k€; controllo CO2 con sondaggio 5-15 k€.
+- **Caso tipico:** Caso tipo: riqualificazione di teatro con UTA in centrale lontana, condotte silenziate e immissione sotto-poltrona: il rumore di fondo scende sotto NR 25 e i consumi calano del 30% con il controllo a CO2.
+- **Normativa:** D.M. 19/8/1996 (aerazione); UNI EN ISO 7730 (confort); normativa sui ricambi per luoghi di pubblico spettacolo (da verificare); rinvio a ACUSTICA_EDILIZIA_PACK per i livelli NR.
+- **Nota di cantiere:** Prova l’impianto a piena portata con la sala vuota e il tecnico acustico presente: il fischio della bocchetta si sente solo a teatro in silenzio. E metti le serrande motorizzate dove la manutenzione ci arriva davvero.
+
+### Impianto elettrico scenico, reti e sicurezza
+
+**Categoria:** Impianti tecnici · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+La sala da spettacolo ha un impianto elettrico doppio: quello di servizio (illuminazione, prese, ausiliari) e quello scenico (potenze per dimmer e luci, reti dati DMX, audio, video). A questi si aggiungono gli impianti di sicurezza: illuminazione di emergenza, EVAC, rivelazione incendi, continuità elettrica per i servizi essenziali. La separazione fisica e logica tra i sistemi è la regola che evita i guasti in replica.
+
+- **Tecnologia e criteri:** Impianto scenico: quadri con potenze dedicate (centinaia di kW per sale medie), dimmer o relay, distribuzione a bacchetta e graticcia, prese di potenza normalizzate, rete DMX/ethernet scenico, ponti radio; servizio: illuminazione foyer e sala con scenografie, UPS e generatori per EVAC e emergenza, rivelazione e spegnimento selettivo; cablaggi con cavi resistenti al fuoco per i servizi di sicurezza; verifiche CEI e collaudi prima dell’agibilità.
+- **Applicazioni:** Nuove sale, rifacimento impianti di teatri esistenti, adeguatezza delle potenze per produzioni moderne (LED wall, automazione scenica), messa a norma delle parti elettriche.
+- **Vantaggi:** Potenze e reti ben dimensionate ospitano qualsiasi produzione senza noleggi di gruppi; la separazione dei sistemi contiene i guasti; la continuità dei servizi di sicurezza è requisito di agibilità.
+- **Limiti e attenzioni:** Le potenze sceniche crescono (LED wall, motori): quadri sottodimensionati si saturano in pochi anni; i cavi scenici subiscono usura meccanica continua e vanno sostituiti a rotazione; il coordinamento con l’acustica (rumore di dimmer e ventole) è spesso dimenticato.
+- **Costi ed economia:** Ordini di grandezza indicativi: impianto elettrico completo sala media (scenico + servizio) 80-200 €/m2; quadro dimmer/ridistribuzione scenica 100-400 k€; gruppo elettrogeno per emergenza 30-80 k€.
+- **Caso tipico:** Caso tipo: teatro che raddoppia la potenza scenica a 600 kW con nuovo quadro e dorsale dati in fibra: le produzioni con LED wall non richiedono più gruppi elettrogeni a noleggio e la sala entra nei circuiti delle tournée.
+- **Normativa:** CEI 64-8 (impianti elettrici, luoghi con affollamento); D.M. 19/8/1996 (requisiti impianti); normativa CEI per i luoghi di spettacolo (da verificare nelle parti specifiche); D.Lgs 81/2008 (manutenzione impianti scenici).
+- **Nota di cantiere:** Fai il collaudo dell’impianto con la produzione più esigente prevista, non con le luci di casa: scopri i limiti del quadro in prova, non alla prima. E documenta ogni linea scenica: in replica il buio non ammette schemi approssimativi.
+
+### Palcoscenico e torre scenica: geometria e macchinismo
+
+**Categoria:** Palcoscenico · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Il palcoscenico è la macchina produttiva del teatro: piano di lavoro, torre scenica per il volo delle scene, graticcia, ponti mobili, argani, proscenio con sipario e quinte. Le sue dimensioni e il suo macchinismo determinano cosa la sala può ospitare: una torre assente o bassa esclude l’opera; un retropalo inesistente impedisce il montaggio delle produzioni in tournée.
+
+- **Tecnologia e criteri:** Dimensioni tipiche: boccascena 8-14 m per teatri medi; torre scenica con altezza libera 2-2,5 volte l’altezza del boccascena; graticcia a carico distribuito (orientativamente 3-5 kN/m2 secondo uso — da verificare in progetto); argani motorizzati a fune con controllo di posizione e carico, ponti mobili e camminamenti di servizio; piano palco in assi di legno su travatura ispezionabile, con botole e carri scenici; retropalo e lateralità dimensionate per le produzioni ospitate.
+- **Applicazioni:** Teatri di nuova costruzione, rifunzionalizzazione di sale con aggiunta di torre, ammodernamento del macchinismo (da argani manuali a motorizzati), adeguamento alla sicurezza macchine.
+- **Vantaggi:** Macchinismo moderno = tempi di allestimento dimezzati e sicurezza del personale; la torre ben dimensionata apre al cartellone lirico; l’ispezionabilità del piano palco previene i cedimenti.
+- **Limiti e attenzioni:** Il macchinismo scenico è costoso e richiede manutenzione specialistica obbligatoria; la torre scenica è un volume edilizio imponente con impatto urbanistico; sale senza torre restano limitate al repertorio leggero.
+- **Costi ed economia:** Ordini di grandezza indicativi: macchinismo scenico completo per teatro medio 500 k€-2 M€; argano motorizzato 5-15 k€/cad.; piano palco ispezionabile 400-800 €/m2; volume di torre in muratura o acciaio 150-250 €/m3.
+- **Caso tipico:** Caso tipo: teatro comunale che sostituisce 40 argani manuali a verricello con 24 argani motorizzati a controllo numerico e graticcia nuova: gli allestimenti passano da due giorni a mezza giornata e gli infortuni di movimentazione si azzerano.
+- **Normativa:** Direttiva Macchine 2006/42/CE (argani e ponti come macchine); D.Lgs 81/2008 (lavoro in quota, attrezzature); D.M. 19/8/1996 (requisiti del palcoscenico); NTC D.M. 17/1/2018 (strutture della torre).
+- **Nota di cantiere:** Prevedi la manutenzione del macchinismo nel progetto: camminamenti di accesso, punti di ancoraggio, spazi per lo smontaggio degli argani. Un argano che non si può ispezionare in sicurezza è un guasto annunciato.
+
+### Agibilità e licenza dei locali di pubblico spettacolo
+
+**Categoria:** Quadro normativo · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Teatri, cinema, sale da concerto e locali di pubblico spettacolo sono attività sottoposte a licenza di pubblica sicurezza e ad agibilità per l’affollamento: oltre al titolo edilizio servono la conformità al regolamento di costruzione specifico, il nulla osta antincendio e la licenza di esercizio con la capienza autorizzata. La commissione di vigilanza sui locali di pubblico spettacolo verifica periodicamente le condizioni: l’agibilità non è un atto una tantum ma uno stato da mantenere.
+
+- **Tecnologia e criteri:** Iter tipico: titolo edilizio (PdC/SCIA) con destinazione d’uso spettacolo, verifica al regolamento di costruzione dei locali di pubblico spettacolo (superfici minime, altezze, uscite, servizi), progetto antincendio e SCIA ai VVF per le attività soggette, richiesta di licenza al Comune (TULPS), sopralluogo della commissione di vigilanza e rilascio dell’agibilità con capienza massima (persone ammesse); verifiche periodiche e rinnovi; per sale storiche, deroghe motivate su parametri puntuali con misure compensative.
+- **Applicazioni:** Apertura di nuove sale, riapertura di teatri chiusi, cambi di destinazione d’uso verso spettacolo (ex cinema, ex chiese, capannoni), verifiche periodiche e aumenti di capienza.
+- **Vantaggi:** Agibilità e capienza formalizzate chiariscono le condizioni di esercizio e la responsabilità; la commissione di vigilanza è un interlocutore unico per sicurezza e igiene.
+- **Limiti e attenzioni:** Iter multiplo (edilizio, antincendio, pubblica sicurezza) con tempi lunghi; le sale in edifici esistenti incontrano parametri difficili da rispettare senza opere; la capienza autorizzata può essere inferiore a quella fisica: il gestore pianifica su quella.
+- **Costi ed economia:** Ordini di grandezza indicativi: pratiche di agibilità e licenza per sala media 10-40 k€ di parcelle; adeguamenti per ottenere l’agibilità in edificio esistente da 50 k€ a oltre 500 k€ secondo lo stato.
+- **Caso tipico:** Caso tipo: riapertura di un cinema degli anni ’50 come teatro: la commissione concede l’agibilità con capienza ridotta a 299 posti e prescrizione di due nuove uscite di emergenza e della revisione delle poltrone fisse.
+- **Normativa:** R.D. 773/1931 TULPS (licenza, artt. 68 e seguenti); D.M. 19/8/1996 (regolamento di costruzione dei locali di pubblico spettacolo); DPR 151/2011 (attività soggette VVF); DPR 380/2001 (titoli edilizi); regolamenti regionali e comunali (da verificare).
+- **Nota di cantiere:** Verifica sempre la capienza autorizzata prima di progettare palchi, gradinate o servizi: è lei che comanda. E tieni i verbali della commissione di vigilanza come oro: sono la storia clinica della sala.
+
+### Esodo e prevenzione incendi nelle sale con affollamento
+
+**Categoria:** Sicurezza antincendio · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+La sala da spettacolo è il caso scolastico di esodo in presenza di affollamento: centinaia o migliaia di persone, al buio, con attenzione altrove. Il progetto antincendio combina compartimentazione (palcoscenico verso sala), controllo dei fumi, larghezze di esodo dimensionate sulla capienza, illuminazione di sicurezza e gestione dell’evacuazione: qui gli errori si pagano in vite, non in varianti.
+
+- **Tecnologia e criteri:** Elementi: separazione sala/palcoscenico con sipario tagliafuoco e compartimentazione EI secondo regolamento; uscite di sala dimensionate sul deflusso (moduli di uscita per unità di larghezza secondo D.M. 19/8/1996 e Codice D.M. 3/8/2015), distribuite su più lati; vie di esodo sgombre e segnalate, illuminazione di emergenza e antipanico; porte con maniglioni antipanico aprenti nel senso dell’esodo; EVAC e servizio di sicurezza con addetti formati; controllo fumi in sala secondo geometria.
+- **Applicazioni:** Sale di ogni dimensione, teatri storici con vincoli (misure compensative), spazi temporanei (tensostrutture per spettacolo, con normativa specifica), riaperture con aumento di capienza.
+- **Vantaggi:** Il regolamento specifico del settore offre parametri chiari; la separazione sala/palco contiene il rischio del lato più pericoloso (scena con materiali scenici); l’approccio prestazionale del Codice aiuta le sale storiche.
+- **Limiti e attenzioni:** Nei teatri storici le larghezze di esodo sono il vincolo che fissa la capienza; i materiali scenici (legno, tessuti, gommapiuma) alimentano il carico d’incendio: servono regole di gestione, non solo impianti; i costi di adeguamento possono superare quelli del restauro.
+- **Costi ed economia:** Ordini di grandezza indicativi: adeguamento antincendio sala esistente (uscite, EVAC, sipario tagliafuoco, illuminazione) 100-500 k€; sipario tagliafuoco 30-100 k€; gestione sicurezza in esercizio: personale dedicato per serata.
+- **Caso tipico:** Caso tipo: teatro storico che ottiene l’aumento di capienza da 400 a 520 posti con soluzione prestazionale: due nuove uscite laterali, sipario tagliafuoco revisionato e piano di evacuazione con addetti dedicati approvati dalla commissione.
+- **Normativa:** D.M. 19/8/1996 (esodo, separazioni); D.M. 3/8/2015 (Codice prevenzione incendi); DPR 151/2011 (soggezione VVF); UNI EN 12101 (controllo fumi); normativa sulle tensostrutture per spettacolo (da verificare).
+- **Nota di cantiere:** Non trattare mai l’esodo come un disegno a posteriori: le uscite si contano in fase di pianta. E imponi al gestore il registro dei materiali scenici: la scenografia infiammabile vanifica il miglior progetto antincendio.
+
+### Strutture di sala e torre: grandi luci senza pilastri
+
+**Categoria:** Strutture · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+La sala da spettacolo impone spazi senza supporti intermedi: platea e palchi appoggiati a strutture perimetrali, copertura di grande luce, torre scenica alta e snella, gallerie a sbalzo. Le soluzioni classiche (muratura e capriate in legno o ferro) e quelle moderne (c.a., acciaio, strutture reticolari) devono integrare acustica (masse e isolamento), impianti (passaggi in copertura) e sicurezza (compartimentazione).
+
+- **Tecnologia e criteri:** Copertura sala: capriate metalliche o reticolari luce 15-35 m, o travi in c.a.; gallerie e palchi: strutture in c.a. gettato o acciaio con sbalzi 2-5 m; torre scenica: telai in c.a. o acciaio con controventi, carichi di graticcia e argani in sommità; fondazioni su terreni variabili con attenzione ai cedimenti differenziali tra corpi di fabbrica diversi; verifiche sismiche su edifici con grandi vuoti e masse in quota.
+- **Applicazioni:** Teatri di nuova costruzione, sopraelevazioni di torri sceniche, consolidamento di capriate storiche in legno, inserimento di gallerie in sale esistenti.
+- **Vantaggi:** Le strutture moderne liberano la sala da ogni vincolo di appoggio; l’acciaio consente torri leggere e rapide; il consolidamento delle capriate storiche conserva il valore documentale.
+- **Limiti e attenzioni:** I cedimenti differenziali tra corpi (sala, torre, foyer) sono la patologia tipica; le grandi luci in copertura complicano l’integrazione impiantistica; le gallerie a sbalzo richiedono verifiche rigorose di deformazione e vibrazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: struttura completa sala+torre 250-450 €/m2 di superficie coperta; capriata metallica di sala 100-180 €/m2; consolidamento di capriata storica in legno 30-80 k€/campata.
+- **Caso tipico:** Caso tipo: restauro di teatro ottocentesco: le capriate in legno, verificate con prove di carico locali e rinforzate con tiranti, restano in servizio; la nuova torre scenica in acciaio appoggia su fondazioni indipendenti per non caricare le murature storiche.
+- **Normativa:** NTC D.M. 17/1/2018 (azioni, sisma, edifici con grandi luci); UNI EN 1090 (acciaio); normativa sul consolidamento delle strutture storiche (Circolare NTC, da verificare).
+- **Nota di cantiere:** Separa staticamente i corpi nuovi da quelli storici e misura prima di fidarti dei disegni d’epoca: il muro del proscenio non è mai dove la pianta dice. Nei teatri storici prevedi sempre la campagna di indagini strutturali prima del progetto definitivo.
+
+### Adeguamento e riuso dei teatri storici
+
+**Categoria:** Teatri storici · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+Il patrimonio teatrale italiano è fatto di sale storiche vincolate: l’adeguamento alla sicurezza e alla funzionalità contemporanea deve passare attraverso il rispetto del documento monumentale. Il progetto lavora su misure compensative, impianti reversibili, inserimenti leggibili e dialogo continuo con la Soprintendenza: l’obiettivo è una sala agibile e sicura che resti se stessa.
+
+- **Tecnologia e criteri:** Strategie: valutazione prestazionale antincendio con misure compensative dove i parametri del regolamento sono irraggiungibili; impianti reversibili e a secco (passaggi in controsoffitti tecnici ispezionabili, centrali remote); inserimento di corpi scala e uscite nuove in posizioni di rispetto; consolidamento strutturale compatibile (tiranti, rinforzi locali); acustica recuperata liberando le superfici storiche dai rivestimenti incongrui; documentazione con rilievo laser scan e HBIM.
+- **Applicazioni:** Teatri all’italiana vincolati, sale in palazzi storici, cinema-teatro del Novecento, riaperture dopo lunghi abbandoni.
+- **Vantaggi:** Il valore culturale sostiene finanziamenti dedicati (pubblici e fondazioni); l’approccio prestazionale consente l’agibilità senza snaturare; il restauro integrato (struttura, acustica, decoro) restituisce sale altrimenti perdute.
+- **Limiti e attenzioni:** Iter lungo con due autorità (Soprintendenza e commissione di vigilanza) dai requisiti a volte confliggenti; costi imprevedibili (le sorprese dietro gli intonaci sono la regola); la capienza finale può restare limitata dalle geometrie storiche.
+- **Costi ed economia:** Ordini di grandezza indicativi: restauro integrale di teatro storico medio 5-20 M€; rilievo laser scan e indagini preliminari 50-150 k€; percentuale di imprevisti da accantonare 15-25%.
+- **Caso tipico:** Caso tipo: riapertura di teatro chiuso dagli anni ’90: HBIM completo, consolidamento dei palchi in legno con rinforzi nascosti, sipario tagliafuoco nuovo, impianti a secco sotto la platea smontabile: agibilità per 350 posti con decoro integrale restaurato.
+- **Normativa:** D.Lgs 42/2004 (vincoli e autorizzazioni); D.M. 19/8/1996 e D.M. 3/8/2015 (con valutazione prestazionale); NTC D.M. 17/1/2018 (costruzioni esistenti); rinvio a RESTAURO_CONSERVAZIONE_PACK per le tecniche conservative.
+- **Nota di cantiere:** Prima di promettere tempi e costi su un teatro storico, apri i saggi: le capriate, i palchi e le murature raccontano la verità solo a cantiere aperto. E porta in Soprintendenza le soluzioni, non i problemi: il dialogo tecnico anticipato dimezza l’iter.
+
+### Tipologie di sala e dimensionamento per spettatore
+
+**Categoria:** Tipologie e sala · **Corso:** Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala
+
+La sala da spettacolo si dimensiona attorno al rapporto palcoscenico-pubblico: teatro all’italiana (sala a ferro di cavallo con palchi), sala con platea e gallerie, anfiteatro e arena, black box flessibile, sala da concerto a vigna. Ogni tipologia ha indici di superficie per posto, distanze di visibilità e requisiti acustici propri: la scelta tipologica è la prima decisione strutturale, perchè fissa luci, altezze e impianti.
+
+- **Tecnologia e criteri:** Indici tipici: superficie sala 0,6-1,0 m2/posto in platea (poltrone) e oltre in black box; larghezza poltrona 0,50-0,60 m, passo tra file 0,80-1,05 m (1,00-1,05 dove serve l’esodo tra file occupate secondo il regolamento); visibilità: alzata tra file 8-12 cm in platea, maggiore in galleria, con verifica grafica del cono visivo; distanza massima di visione 20-30 m per prosa, oltre per lirica e concerti; il regolamento D.M. 19/8/1996 fissa i minimi di legge.
+- **Applicazioni:** Progetto di nuove sale, riconfigurazione di platee, verifica della capienza in ristrutturazioni, conversione di cinema in teatri.
+- **Vantaggi:** Indici corretti = confort e visibilità che giustificano il prezzo del biglietto; la black box massimizza la flessibilità d’uso; il teatro all’italiana conserva acustica e gerarchia sociale dei posti.
+- **Limiti e attenzioni:** Aumentare i posti a scapito di passo file e visibilità produce sale scomode e problemi in commissione; le gradinate ripide migliorano la vista ma complicano l’esodo e l’accessibilità; ogni tipologia vincola il macchinismo scenico.
+- **Costi ed economia:** Ordini di grandezza indicativi: poltrona teatrale installata 250-700 €/posto; gradinata telescopica motorizzata per black box 1.500-3.000 €/posto; solo sala (finita, senza impianti scenici) 1.500-2.500 €/m2.
+- **Caso tipico:** Caso tipo: black box comunale da 250 posti con gradinate telescopiche: la stessa sala ospita prosa, concerti e convegni cambiando configurazione in mezza giornata; la capienza autorizzata varia per configurazione ed è registrata in licenza.
+- **Normativa:** D.M. 19/8/1996 (dimensioni minime, passi, uscite); D.M. 236/1989 (posti per disabili); normativa regionale sullo spettacolo (da verificare).
+- **Nota di cantiere:** Disegna la visibilità con la sezione vera e il punto di vista dell’ultima fila, non a sentimento: il posto che vede metà palco esiste per sempre. E misura il passo file con le poltrone vere: il campione da catalogo non basta.
 
 
 ## Tetti e coperture

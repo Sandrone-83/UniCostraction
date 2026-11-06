@@ -1,4 +1,25 @@
 
+## Giro AR — 2026-11-06, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione (conferma art. 4 DDL Bilancio 2027 + precisazioni su 360-ter/360-quater, art. 37 Superbonus e nuovi fondi GSE per FV ed efficienza PA: nota datata alla scheda detrazioni); nuovo pack TEATRI_LOCALI_SPETTACOLO_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AR1 | Correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): nota del 04/11/2026 con l'articolato bollinato dell'art. 4 | Aggiunta nota datata 06/11/2026: conferma dei contenuti (36%/50%, massimali 96.000 euro; parti comuni Ecobonus 40.000 euro x unita', Sismabonus 96.000 euro x unita') + precisazioni: art. 360-ter supera i massimali Ecobonus per tipologia e non ripropone il limite maggiorato energia+sisma congiunti; art. 360-quater richiama solo i mobili (elettrodomestici al comma 2, 50 M€ 2027 a decreto); art. 37: quote crediti Superbonus 2023 ulteriormente ripartite in 10 rate dal 2027 (salva opzione ex art. 9(4) D.L. 176/2022); fondi GSE proposti: efficienza edifici pubblici 600 M€ 2028 + 500 M€/anno 2029-2030 (fino al 100% con riduzione EP >= 30%) e FV <=1 MW fino al 40% via FER-X (800 M€ 2028 + 200 M€/anno, 3 GW); post-sisma: 100% danno puntuale in centri storici/borghi cratere 2016, 20 M€ borghi 2009, GEDISI. Tutto in esame parlamentare, non operativo | bibus.acca.it (agg. 06/11/2026), finanzaefisco.com, ingenio-web.it — verifica web 06/11/2026 |
+| AR2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota 23/10 (intesa CU 22/10, Rep. atti 144/CU; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata: adozione MASE e pubblicazione in GU ancora assenti al 06/11/2026; valgono le regole vigenti | pmi.it (03/11/2026) — verifica web 06/11/2026 |
+| AR3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza 31/12/2027 (o 5 GW), richiesta di estensione al 2030 | Confermato: nessun provvedimento nuovo; resta la richiesta delle associazioni al Ministro (ottobre 2026) | stampa di settore — verifica web 06/11/2026 |
+| AR4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi rifinanziamento) | Confermata: nessun bando pubblicato | stampa di settore — verifica web 06/11/2026 |
+| AR5 | Nuovo pack | — | TEATRI_LOCALI_SPETTACOLO_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): agibilita' TULPS e D.M. 19/8/1996, tipologie di sala, esodo e antincendio, acustica, palcoscenico e torre scenica, strutture di grande luce, impianti scenici, HVAC silenziato, front/back of house, teatri storici, economia. Verifica ridondanza su 89 pack: nessun titolo sullo spettacolo dal vivo | Norme di consolidata certezza (TULPS, D.M. 19/8/1996, DPR 151/2011, D.M. 3/8/2015); prezzi come fasce indicative; nessun nome di azienda |
+| AR6 | Nuovo esame | — | ESAMI/TEATRI_LOCALI_SPETTACOLO: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 92 esami su 90 pack) | build_esami_giro5.py |
+| AR7 | Validazione | — | Validazione globale: 90 pack, 1193 schede, 92 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (90/90). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: iter alla Camera fino al 31/12/2026: verificare emendamenti (rientro del 65%, perimetro bonus arredo/elettrodomestici, disciplina interventi congiunti energia+sisma), decreti attuativi dei fondi GSE (FV <=1 MW, efficienza PA) e coordinamento col nuovo TUIR.
+- Conto Termico 3.0: adozione MASE e pubblicazione in GU del correttivo.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- CER: richiesta delle associazioni di estensione al 31/12/2030 o 5 GW: monitorare.
+- EPBD (UE) 2024/1275: richiami UE all'Italia sul recepimento: stato da verificare.
+
 ## Giro AQ — 2026-11-05, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027 arrivato alla Camera con contenuti coerenti con la nota AP1 del 04/11; CT 3.0 correttivo con intesa CU 22/10 ancora non in vigore; CER e Reddito Energetico confermati); nuovo pack EDILIZIA_CIMITERIALE_PACK (12 schede) con esame.

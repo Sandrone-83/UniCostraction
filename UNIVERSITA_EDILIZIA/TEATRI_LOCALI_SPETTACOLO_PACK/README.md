@@ -1,0 +1,7 @@
+# Teatri e locali di pubblico spettacolo
+
+Corso L1-L2 della Facolta di Tecnologia e Costruzione: la sala da spettacolo come tipologia edilizia completa — agibilita' e licenza (TULPS R.D. 773/1931, regolamento di costruzione D.M. 19/8/1996, commissione di vigilanza e capienza autorizzata), tipologie di sala e dimensionamento per spettatore (indici, passi file, visibilita'), esodo e prevenzione incendi con grande affollamento (sipario tagliafuoco, moduli di uscita, EVAC), acustica di sala (tempo di riverbero per funzione, NR 20-25, box-in-box), palcoscenico e torre scenica (geometria, graticcia, argani motorizzati e Direttiva Macchine), strutture di grande luce senza pilastri (capriate, gallerie a sbalzo, torri), impianto elettrico scenico e di sicurezza (potenze, dimmer, reti DMX, continuita'), climatizzazione a bassa rumorosita' (immissione sotto-poltrona, controllo CO2), front of house (foyer, servizi igienici per l'intervallo, accessibilita' integrata), back of house (varco di carico scenico, camerini, depositi), adeguamento e riuso dei teatri storici (misure compensative, impianti reversibili, dialogo con Soprintendenza) ed economia e gestione della sala (costo per posto, FUS, capex pluriennali).
+
+**Schede: 12**
+
+Non ridondante: nessun pack esistente tratta lo spettacolo dal vivo. ACUSTICA_EDILIZIA_PACK e ILLUMINAZIONE_TECNICA_PACK restano i riferimenti per i fondamenti acustici e illuminotecnici; qui la tipologia edilizia completa — autorizzativa, strutturale, impiantistica, scenotecnica ed economica.
