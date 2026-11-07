@@ -1,0 +1,7 @@
+# Uffici e terziario
+
+Corso L1-L2 della Facolta di Tecnologia e Costruzione: l'edificio per uffici come tipologia edilizia completa — requisiti igienico-edilizi dei luoghi di lavoro (D.Lgs 81/2008 Titolo II e allegato IV, DPR 303/1956, regolamenti comunali), postazioni al videoterminale ed ergonomia (Titolo VII, 500 lux, sedute regolabili, pause), modelli di workplace (cell office, open space, activity-based, lavoro agile L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3 open plan, NR degli impianti), illuminazione naturale e artificiale (UNI EN 12464-1, UGR, DALI), torri direzionali (maglia strutturale, core, interpiano, facciate continue UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, controsoffitti tecnici, VAV, fan coil, travi fredde, BMS), fit-out Cat A/Cat B e capitolari landlord/tenant (reinstatement), certificazioni di sostenibilita' (LEED, BREEAM, WELL come processi prestazionali), sicurezza ed emergenza (DVR, piani di evacuazione e prove, DUVRI e multi-tenant), retrofit e riconversioni (overcladding, ufficio-residenza, obsolescenza) ed economia del terziario (canoni, service charge, capex, valutazioni).
+
+**Schede: 12**
+
+Non ridondante: gli uffici compaiono solo in schede singole (ACUSTICA_EDILIZIA_PACK per gli open space, ILLUMINAZIONE_TECNICA_PACK per la luce, MASTER_DESIGN_PACK per il workplace design, EDILIZIA_INDUSTRIALE_LOGISTICA_PACK per gli uffici di stabilimento). Qui la tipologia edilizia completa: normativa del lavoro, comfort, struttura, impianti, fit-out, certificazioni ed economia.

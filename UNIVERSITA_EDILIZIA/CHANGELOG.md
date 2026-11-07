@@ -1,4 +1,25 @@
 
+## Giro AS — 2026-11-07, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027: conferme integrali alle note AP1/AR1, nessun emendamento sostanziale; CT 3.0 correttivo non in vigore; CER e Reddito Energetico confermati); nuovo pack UFFICI_E_TERZIARIO_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AS1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note del 04/11 (articolato bollinato) e 06/11 (precisazioni art. 4, art. 37, fondi GSE) | Confermata integralmente: ulteriori analisi di stampa riportano gli stessi contenuti (aliquote 50%/36%, massimali 96.000 euro, arredo 5.000 euro, art. 37 Superbonus, fondi FV/PA); nessun emendamento sostanziale noto; ipotesi politica di riapertura del condono edilizio 2003 (nodo Campania): solo ipotesi, nessun testo | lexperto.it (05/11/2026), bibus.acca.it (agg. 05/11/2026) — verifica web 07/11/2026 |
+| AS2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota 23/10 (intesa CU 22/10, Rep. atti 144/CU; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata: il correttivo risulta ancora «in arrivo» (non adottato ne' in GU); valgono le regole vigenti | segugio.it (02/11/2026), pmi.it (03/11/2026) — verifica web 07/11/2026 |
+| AS3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza 31/12/2027 (o 5 GW), richiesta estensione al 2030 | Confermato: nessun provvedimento nuovo | stampa di settore — verifica web 07/11/2026 |
+| AS4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi rifinanziamento) | Confermata: nessun bando pubblicato | stampa di settore — verifica web 07/11/2026 |
+| AS5 | Nuovo pack | — | UFFICI_E_TERZIARIO_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): requisiti igienico-edilizi, ergonomia VDT, workplace, comfort e acustica open plan, illuminazione, torri direzionali, impianti flessibili, fit-out Cat A/B, certificazioni, sicurezza ed emergenza, retrofit e conversioni, economia. Verifica ridondanza su 90 pack: solo schede singole non strutturali | Norme di consolidata certezza (D.Lgs 81/2008, DPR 303/1956, UNI EN 12464-1, ISO 7730, ISO 3382-3, UNI EN 13830); valori puntuali marcati da verificare; prezzi come fasce indicative; nessun nome di azienda |
+| AS6 | Nuovo esame | — | ESAMI/UFFICI_TERZIARIO: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 93 esami su 91 pack) | build_esami_giro5.py |
+| AS7 | Validazione | — | Validazione globale: 91 pack, 1205 schede, 93 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (91/91). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: iter alla Camera fino al 31/12/2026: emendamenti su art. 4 (rientro 65%, perimetro arredo/elettrodomestici), decreti attuativi fondi GSE, ipotesi condono edilizio 2003 (nodo Campania): da verificare se e quando diventa testo.
+- Conto Termico 3.0: adozione MASE e pubblicazione in GU del correttivo.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- CER: richiesta delle associazioni di estensione al 31/12/2030 o 5 GW: monitorare.
+- EPBD (UE) 2024/1275: richiami UE all'Italia sul recepimento: stato da verificare.
+
 ## Giro AR — 2026-11-06, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione (conferma art. 4 DDL Bilancio 2027 + precisazioni su 360-ter/360-quater, art. 37 Superbonus e nuovi fondi GSE per FV ed efficienza PA: nota datata alla scheda detrazioni); nuovo pack TEATRI_LOCALI_SPETTACOLO_PACK (12 schede) con esame.
