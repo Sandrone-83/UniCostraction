@@ -1,4 +1,25 @@
 
+## Giro AT — 2026-11-08, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027: solo novita' di calendario parlamentare, contenuti confermati; CT 3.0 correttivo non in vigore; CER e Reddito Energetico confermati); nuovo pack EDILIZIA_RELIGIOSA_CHIESE_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AT1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note del 04/11 (articolato bollinato) e 06/11 (precisazioni art. 4, art. 37, fondi GSE) | Confermata integralmente: nessun emendamento sostanziale noto; unico fatto nuovo e' il calendario parlamentare: audizioni alla Camera 9-12/11/2026 (con audizione del Ministro Giorgetti) e termine per la presentazione degli emendamenti fissato al 17/11/2026: notizia di iter, non di merito | pmi.it (06/11/2026, articolo sul calendario della Legge di Bilancio 2027) — verifica web 08/11/2026 |
+| AT2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0» (ENERGETICA_INCENTIVI_PACK, riga 1): nota 23/10 (intesa CU 22/10, Rep. atti 144/CU; regime vigente D.M. 7/8/2025 + Regole GSE + D.D. MASE 72/2026) | Confermata: il correttivo risulta ancora non adottato dal MASE ne' pubblicato in GU; valgono le regole vigenti | pmi.it (03/11/2026) — verifica web 08/11/2026 |
+| AT3 | Verifica senza correzione | Schede CER: tariffe DM 414/2023, scadenza 31/12/2027 (o 5 GW), richiesta estensione al 2030 | Confermato: nessun provvedimento nuovo | stampa di settore — verifica web 08/11/2026 |
+| AT4 | Verifica senza correzione | Scheda «Il Reddito Energetico» (ENERGETICA_INCENTIVI_PACK, riga 15): nota AL2 (sportello chiuso, ipotesi rifinanziamento) | Confermata: nessun bando pubblicato | stampa di settore — verifica web 08/11/2026 |
+| AT5 | Nuovo pack | — | EDILIZIA_RELIGIOSA_CHIESE_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): titoli edilizi e quadro giuridico, chiesa post-conciliare, sicurezza ed esodo, impianti e antincendio su storico, microclima e conservazione, acustica, campanili, coperture lignee, restauro e liturgia, riuso, oratori, economia e manutenzione programmata. Verifica ridondanza su 91 pack: unico hit «chiesa» irrilevante (utenze domestiche in FACILITY_MANAGEMENT) | Norme di consolidata certezza (DPR 380/2001, D.Lgs 42/2004, L. 121/1985, L. 222/1985, D.M. 1444/1968, CEI 64-8, CEI EN 62305, NTC 2018, UNI 10829, UNI 11119, D.M. 236/1989); applicabilita' TULPS/DPR 151/2011 ai luoghi di culto marcata «da verificare»; aliquote Art Bonus marcate «da verificare su agenziaentrate.gov.it»; prezzi come fasce indicative; nessun nome di azienda |
+| AT6 | Nuovo esame | — | ESAMI/EDILIZIA_RELIGIOSA_CHIESE: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 94 esami su 92 pack) | build_esami_giro5.py |
+| AT7 | Validazione | — | Validazione globale: 92 pack, 1217 schede, 94 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (92/92). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027: audizioni alla Camera 9-12/11/2026 (con Giorgetti), termine emendamenti 17/11/2026, approvazione definitiva entro il 31/12/2026: verificare gli emendamenti su art. 4 (rientro 65%, perimetro arredo/elettrodomestici), decreti attuativi fondi GSE, ipotesi condono edilizio 2003 (nodo Campania): da verificare se e quando diventa testo.
+- Conto Termico 3.0: adozione MASE e pubblicazione in GU del correttivo.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- CER: richiesta delle associazioni di estensione al 31/12/2030 o 5 GW: monitorare.
+- EPBD (UE) 2024/1275: richiami UE all'Italia sul recepimento: stato da verificare.
+
 ## Giro AS — 2026-11-07, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con NESSUNA correzione (DDL Bilancio 2027: conferme integrali alle note AP1/AR1, nessun emendamento sostanziale; CT 3.0 correttivo non in vigore; CER e Reddito Energetico confermati); nuovo pack UFFICI_E_TERZIARIO_PACK (12 schede) con esame.

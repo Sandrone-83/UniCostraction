@@ -1,0 +1,9 @@
+nome: Edilizia Religiosa e Chiese
+codice: EDILIZIA_RELIGIOSA_CHIESE
+pack: EDILIZIA_RELIGIOSA_CHIESE_PACK
+livello: L1-L2
+schede: 12
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, EDILIZIA_BASE]
+giro: AT
+data: 2026-11-08

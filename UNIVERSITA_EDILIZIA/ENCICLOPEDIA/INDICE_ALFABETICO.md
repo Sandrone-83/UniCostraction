@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1367 voci enciclopediche tratte da 92 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1379 voci enciclopediche tratte da 93 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -41,6 +41,8 @@
   L'acqua che arriva in casa: le opere di captazione, adduzione e distribuzione.
 - **Acustica della sala: riverbero, intelligibilità, isolamento** — Acustica · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
   L’acustica è la prestazione che definisce una sala da spettacolo: tempo di riverbero ottimale per la funzione (prosa, lirica, concerto), distribuzione uniforme del suono, assenza di echi e focalizzazioni, isolamento dai…
+- **Acustica e impianto di amplificazione nelle chiese** — Edilizia di culto — acustica · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  La chiesa è l'ambiente acusticamente più ostile alla parola: tempi di riverbero T60 di 3-6 s (ottimali per la parola sarebbero 1-2 s), superfici dure, volumi alti, cupole e volte che focalizzano il suono. Risultato tipic…
 - **Acustica percepita: il comfort che non si vede** — Acustica percepita · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il suono degli spazi: riverbero, isolamento, comfort acustico negli interni.
 - **Additivi per calcestruzzo** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -213,6 +215,8 @@
   I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli appalti pubblici di lavori, servizi e forniture (D.Lgs 36/2023): per gli edilizi coprono materiali, energia, acqua, rifiuti e salute dell'am…
 - **Camini, finestre da tetto e attraversamenti: i punti deboli** — Camini · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Ogni attraversamento della copertura è un potenziale punto di infiltrazione: camini, finestre da tetto (velux e simili), antenne, pannelli solari, lucernari; il dettaglio corretto usa le pezze speciali (lastrine, collari…
+- **Campanili e torri: statica, campane e vibrazioni** — Edilizia di culto — strutture verticali · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  Il campanile è l'elemento strutturalmente più fragile del complesso religioso: torre muraria alta 20-60 m, snella (rapporto altezza/larghezza 5-10), spesso addossata alla chiesa (interazione dinamica), con cellette apert…
 - **Campi di gioco scoperti: recinzioni, reti di protezione e coperture** — Campi di gioco · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Il campo scoperto è completato da recinzioni perimetrali, reti di protezione sopraelevate e, dove serve continuità d'uso, da coperture: pensiline, capannoni o coperture leggere per singoli campi.
 - **Canaline da pavimento e prese a pavimento** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -277,6 +281,8 @@
   BIM (Building Information Modeling) non è un software: è un metodo di lavoro in cui un modello digitale condiviso, a oggetti informati, descrive geometria E dati (materiali, costi, tempi, manutenzione) dell'edificio lung…
 - **Che cos'è un data center: l'edificio che non può fermarsi** — Fondamenti · corso: *Data center e critical facilities* (`DATA_CENTER_E_CRITICAL_FACILITIES_PACK`)
   Il data center è l'edificio della continuità: ospita i server che tengono in funzione aziende, servizi, cloud; ogni interruzione costa migliaia di euro al minuto (stime settoriali per i servizi finanziari e cloud), quind…
+- **Chiesa parrocchiale moderna: requisiti funzionali e dimensionali** — Edilizia di culto — progettazione · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  La chiesa cattolica post-conciliare (Vaticano II) è progettata attorno all'aula assembleare: la comunità radunata deve vedere e sentire il presbiterio, che non è più un fondale distante ma un piano rialzato centrale o se…
 - **Chiodo** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Filo metallico sagomato con punta e testa; il fissaggio più antico e semplice: unisce legno a legno o legno a muratura tramite attrito e resistenza a estrazione.
 - **Clash detection e coordinamento delle interferenze** — Clash detection · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
@@ -367,6 +373,8 @@
   Struttura in profili sospesi con lastre di cartongesso: controsoffitti per cavi, luci, climatizzazione.
 - **Coperture a verde: estensivo, intensivo e semi-intensivo** — Fondamenti · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   Il tetto verde e' una copertura stratificata che ospita vegetazione sopra l'impermeabilizzazione. La scelta fondamentale e' la tipologia: estensiva (substrato sottile, vegetazione autoctona resistente, poca manutenzione)…
+- **Coperture lignee storiche: capriate, patologie e infiltrazioni** — Edilizia di culto — coperture storiche · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  La copertura lignea è il cuore costruttivo della chiesa storica: capriate (palladiane, alla sansoviniana, a tirante e catena) in larice o abete, luci 12-25 m, orditura secondaria e manto in coppi o lastre di pietra sui v…
 - **Coperture rovescie e pensili carrellabili: la membrana sotto tutto** — Coperture · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
   Nella copertura rovescia la membrana lavora sotto l'isolante e sotto il carico: invisibile, piu' protetta dagli shock termici, ma irraggiungibile senza smontare tutto. Progetto, posa e collaudo devono essere perfetti la …
 - **Coppo** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -461,6 +469,8 @@
   La direttiva 'Case Green' (EPBD IV, UE 2024/1275) aggiorna la direttiva sulle prestazioni energetiche degli edifici con l'obiettivo di edilizia a zero emissioni al 2050 e scaglioni intermedi: il recepimento nazionale def…
 - **Dish-Stirling: il solare a concentrazione di piccola taglia e il suo stato reale** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Il dish-Stirling e' un concentratore parabolico puntuale (dish) con un motore Stirling nel fuoco: converte direttamente in elettricita' senza ciclo a vapore, in taglie unitarie di pochi kW. Tecnologia elegante, mai decol…
+- **Dismissione e riuso delle chiese: destinazioni compatibili** — Edilizia di culto — riuso · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  L'Italia conta decine di migliaia di chiese, molte sottoutilizzate o chiuse per mancanza di clero e fedeli. Il riuso è la via per non abbandonarle: la chiusura al culto richiede atto canonico (sconsacrazione o relegazion…
 - **Divisioni e frazionamenti: la geometria applicata al diritto** — Divisioni · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si divide un bene comune: dall'eredita al frazionamento edilizio.
 - **Docfa e il procedimento di accatastamento** — Docfa · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
@@ -519,6 +529,8 @@
   Quando la robotica ripaga: il quadro economico realistico.
 - **Economia portuale e logistica marittima: investimenti e catene del valore** — Economia · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
   I numeri del porto: investimenti, occupazione e integrazione con la logistica terrestre.
+- **Economia, finanziamento e manutenzione programmata degli edifici di culto** — Edilizia di culto — economia e gestione · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  La manutenzione delle chiese è storicamente reattiva ('si ripara quando cade'): risultato, costi 3-5 volte maggiori e patologie avanzate. La manutenzione programmata (piano quinquennale: copertura, facciate, impianti, ca…
 - **Edifici in muratura e meccanismi locali: il nemico numero uno del patrimonio storico** — Sismica — edifici esistenti · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
   Nei centri storici italiani il danno sismico nasce quasi sempre da meccanismi locali: pareti che ribaltano fuori piano, facciate che si staccano, archi e volte che cedono. La verifica dei meccanismi locali e' obbligatori…
 - **Edilizia residenziale pubblica e housing sociale** — Edilizia pubblica · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
@@ -1239,6 +1251,8 @@
   La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
 - **Impianti e servizi: acqua, scarichi, luce, obitorio** — Impianti e servizi · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
   Il cimitero ha una dotazione impiantistica specifica: rete idrica con fontanelle distribuite per i fiori e l’irrigazione del verde, scarichi separati, illuminazione funzionale e di sicurezza, obitorio con celle mortuarie…
+- **Impianti elettrici e prevenzione incendi negli edifici di culto storici** — Edilizia di culto — impianti elettrici e antincendio · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  Il rischio incendio nelle chiese storiche è alto: strutture lignee di copertura, ceri e candele, impianti elettrici vetusti cablati negli anni '50-'70 su murature portanti, riscaldatori portatili. Le cause tipiche di inn…
 - **Impianti HVAC e refrigerazione commerciale** — Impianti · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Il retail climatizza grandi volumi con ricambi elevati (porte sempre aperte, affollamento variabile) e, nei food, gestisce la refrigerazione dei banchi e delle celle: due mondi impiantistici distinti ma integrabili, con …
 - **Impianti per uffici: flessibilità e tecnologie** — Impianti e flessibilità · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)
@@ -1979,6 +1993,8 @@
   Le batterie stanno entrando nei campi fotovoltaici: spostare il mezzogiorno di produzione sulla sera, vendere servizi alla rete, ridurre il curtailment. La batteria è un asset economico complesso, non solo tecnico.
 - **Lo strumento del progettista: software strutturali italiani e internazionali** — Software strutturali · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
   L'ecosistema dei programmi: cosa usa davvero la professione.
+- **Locali di culto: titoli edilizi e assetto giuridico** — Edilizia di culto — quadro normativo · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  Le chiese e i locali di culto sono edilizia a tutti gli effetti: nuove costruzioni richiedono Permesso di Costruire, interventi sulle esistenti seguono la scala SCIA/CILA/manutenzione del DPR 380/2001, e serve l'agibilit…
 - **Locazione breve e affitti turistici: mercato e regole** — Locazione breve · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   La locazione breve (affitti turistici, Airbnb-style) è un mercato cresciuto enormemente: rendimenti potenziali superiori alla locazione tradizionale (in zone turistiche anche del doppio), ma con carico gestionale (check-…
 - **Loculi e colombari prefabbricati** — Loculi e colombari · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
@@ -2141,6 +2157,8 @@
   Costruire nel mare e nei corsi d'acqua: opere a riva, cassoni fondati e fondazioni marine.
 - **Opere marittime: porti, dighe foranee, coste** — Porti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Ingegneria del mare: difendere la costa e creare approdi sicuri.
+- **Oratori, sale parrocchiali e pertinenze: normativa e progettazione** — Edilizia di culto — pertinenze · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  Le pertinenze della chiesa (oratorio, sale catechesi, cucina parrocchiale, salone, palestra parrocchiale) sono edilizia ordinaria aperta al pubblico: si applicano TULPS, DPR 380, accessibilità D.M. 236/1989, igiene per c…
 - **Organizzazione del cantiere e costruzione per fasi** — Organizzazione · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cantiere come sistema: layout, fasi, interferenze e continuità operativa.
 - **Organizzazione funzionale: campi, servizi e flussi** — Organizzazione · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
@@ -2407,6 +2425,8 @@
   Gli infissi storici in legno o ferro vanno restaurati conservando profili, ferramenta e vetri originali quando possibile, integrando con elementi nuovi distinguibili solo dove il degrado è irreversibile. Il restauro prev…
 - **Restauro di solai e coperture antichi** — Restauro solai e coperture · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   I solai e le coperture storici in legno vanno restaurati ripristinando la funzione portante con elementi nuovi compatibili e conservando quanto più possibile il materiale originale. Le tecniche includono l'impalco, la so…
+- **Restauro e adeguamento liturgico delle chiese storiche** — Edilizia di culto — restauro e liturgia · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  L'adeguamento liturgico post-conciliare delle chiese storiche (spostare l'altare verso l'assemblea, creare il presbiterio, riposizionare ambo e sede) è il principale motivo di intervento sul vincolato. Il quadro: D.Lgs 4…
 - **Restauro e conservazione: le teorie e i metodi** — Restauro architettonico · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Come si interviene sul costruito storico: teorie dal 1800 a oggi e pratica quotidiana.
 - **Restauro energetico dell'edilizio storico** — Restauro energetico · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -2437,6 +2457,8 @@
   La politica urbana nazionale degli ultimi decenni si è concentrata sulla riqualificazione: Contratti di Quartiere (anni 2000), Bando Periferie (2016-2022), Contratti di Fiume, rigenerazione urbana e sociale: interventi i…
 - **Risanamento dopo allagamenti e danni idraulici** — Emergenze · corso: *Risanamento e recupero edilizio* (`RISANAMENTO_E_RECUPERO_EDILIZIO_PACK`)
   Quando l'acqua entra in casa (alluvione, tubo rotto, risalita fognaria) la velocità dell'intervento decide quanto si salva: estrazione dell'acqua, asciugatura, disinfezione e bonifica dei materiali seguono una sequenza c…
+- **Riscaldamento e microclima delle chiese: comfort vs conservazione** — Edilizia di culto — clima e comfort · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  Riscaldare una chiesa è un problema di compromesso: volumi 3-5 volte quelli di un teatro a pari posti, uso intermittente (2-4 ore a funzione, spesso solo festivo), murature storiche sensibili all'umidità e opere d'arte (…
 - **Rischi poco evidenti: amianto, atmosfere pericclose, linee elettriche, rumore, vibrazioni** — Rischi specifici · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   Accanto ai rischi scenografici (cadute, ribaltamenti) il cantiere edile convive con rischi insidiosi che agiscono nel tempo: l'esposizione ad amianto durante demolizioni e manutenzioni di edifici degli anni '50-'90, le a…
 - **Ritenute d'acconto e certificazioni: la catena delle ritenute nei subappalti** — Fisco e tributi dell'impresa edile · corso: *Fisco e tributi dell'impresa edile* (`FISCO_TRIBUTI_IMPRESA_EDILE_PACK`)
@@ -2519,6 +2541,8 @@
   Le tre sollecitazioni di base e le loro formule di verifica.
 - **Sicurezza delle dighe: classificazione, sorveglianza e piano di emergenza** — Sicurezza · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Il sistema di gestione della sicurezza: chi vigila, come si classifica, cosa si fa in emergenza.
+- **Sicurezza ed esodo nelle chiese aperte al pubblico** — Edilizia di culto — sicurezza · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
+  Le chiese accolgono assemblee variabili da decine a migliaia di persone, spesso anziane o in piedi, con porte storiche, sagome irregolari e vie di esodo non progettate per l'affollamento moderno. Il punto delicato: i luo…
 - **Sicurezza ferroviaria: CSM, certificazione e Agenzia ERA** — Sicurezza del sistema · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Il quadro della sicurezza ferroviaria europea e nazionale: regole, certificazioni, indagini.
 - **Sicurezza informatica dell'edificio smart** — Cybersecurity · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
