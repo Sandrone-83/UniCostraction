@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1379 voci enciclopediche tratte da 93 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1391 voci enciclopediche tratte da 94 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -11,6 +11,8 @@
   Mettere in regola immobili irregolari: il valore economico della regolarità.
 - **Accessi, vie di cantiere e sicurezza invernale** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   In montagna l'accesso e' un'opera provvisionale a se': strade sterrate in pendenza, tornanti, ponti con portate limitate, neve e ghiaccio per mesi. La sicurezza del trasporto vale quanto quella delle lavorazioni.
+- **Accessibilita' spinta: oltre il D.M. 236/1989** — Residenzialita' per anziani — accessibilita' e sicurezza · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Il D.M. 236/1989 e' il pavimento normativo, non il soffitto: in una RSA gli utenti non sono visitatori occasionali ma residenti permanenti con disabilita' multiple (motoria + visiva + cognitiva). L'accessibilita' di eser…
 - **Accessibilità e barriere architettoniche negli impianti sportivi** — Accessibilità · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Gli impianti sportivi devono essere fruibili da tutti: persone con disabilità motorie, sensoriali e cognitive. L'accessibilità riguarda percorsi esterni, parcheggi, ingressi, spalti, spogliatoi e servizi igienici, fino a…
 - **Accessibilità, accoglienza e progetto del paesaggio** — Accessibilità e paesaggio · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
@@ -371,6 +373,8 @@
   I controsoffitti in cartongesso o pannelli minerali risolvono: abbassamenti, integrazione impianti (clima, elettrico, acustica), creazione di geometrie luminose; i sistemi a secco (pareti, controsoffitti) sono la norma n…
 - **Controsoffitto in cartongesso** — Cartongesso e sistemi a secco · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Struttura in profili sospesi con lastre di cartongesso: controsoffitti per cavi, luci, climatizzazione.
+- **Convertire edifici esistenti in residenze per anziani** — Residenzialita' per anziani — conversioni · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Ex alberghi, ex scuole, conventi, ex colonie e palazzi signorili sono i candidati classici alla conversione in residenze per anziani: strutture gia' dotate di camere con bagno (alberghi) o di grandi spazi comuni (scuole/…
 - **Coperture a verde: estensivo, intensivo e semi-intensivo** — Fondamenti · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   Il tetto verde e' una copertura stratificata che ospita vegetazione sopra l'impermeabilizzazione. La scelta fondamentale e' la tipologia: estensiva (substrato sottile, vegetazione autoctona resistente, poca manutenzione)…
 - **Coperture lignee storiche: capriate, patologie e infiltrazioni** — Edilizia di culto — coperture storiche · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
@@ -407,6 +411,8 @@
   La consulenza tecnica in tribunale: ruolo, doveri e svolgimento dell'incarico.
 - **CTU e CTP: l'esperto nel processo civile** — CTU CTP · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Il perito nel tribunale: incarichi, responsabilità, come si scrive una consulenza.
+- **Cucina, lavanderia e logistica interna** — Residenzialita' per anziani — servizi e logistica · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  La ristorazione in RSA e' somministrazione a collettivita' fragile: si applica il sistema HACCP (Reg. CE 852/2004) con layout a marcia in avanti: ricevimento merci -> stoccaggio (frigo/celle con registrazione temperature…
 - **Cucine e bagni di pregio: le stanze che vendono la casa** — Cucine bagni · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Le due stanze che decidono il valore percepito di un'abitazione.
 - **Cut & cover e trincee foderate** — Cantieri sotterranei · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -513,6 +519,8 @@
   Il valore degli uffici si legge con i numeri: canone per metro quadrato, service charge, capex programmati, costi di fit-out e di locazione (rent free, contributi), tasso di sfitto e valore di capitalizzazione. Il tecnic…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
+- **Economia delle residenze per anziani: costi, rette, gestione** — Residenzialita' per anziani — economia · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Il piano economico di una residenza per anziani si regge su: (a) costo di investimento (costruzione/conversione + arredi tecnici + pratiche: 60-120 k€/posto letto per nuova RSA accreditata, da verificare con i conti loca…
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
   L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
 - **Economia e contabilita' della demolizione: prezzi, crediti da recupero ed errori di preventivo** — Demolizioni — economia e contabilita' · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
@@ -693,6 +701,8 @@
   Controllo luci: accensioni sceniche, dimmer, presenza, luce naturale integrata (daylight harvesting).
 - **Getto e vibratura del calcestruzzo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Operazioni di getto, costipamento con vibratore a immersione e maturazione umida del calcestruzzo strutturale. L'errore tipico è la segregazione per getto da altezza eccessiva o per iper-vibratura; il controllo è su clas…
+- **Giardini protetti e spazi esterni terapeutici** — Residenzialita' per anziani — spazi esterni · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Lo spazio esterno in una residenza per anziani non e' decoro: e' spazio terapeutico. Il giardino protetto (fondamentale nei nuclei demenze) ha percorso anulare continuo che ritorna sempre al punto di ingresso, recinzione…
 - **Giunti, risvolti e dettagli: dove nascono il 90% dei dissesti** — Dettagli · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
   Le membrane non perdono quasi mai in campo aperto: perdono ai giunti di getto, ai risvolti, alle emergenze, agli attraversamenti. I dettagli sono il vero prodotto dell'impermeabilizzazione: disegnarli, ordinarli e collau…
 - **Gli acquedotti romani: l'ingegneria dell'acqua per 500 anni** — Capolavori antichi · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -1257,6 +1267,8 @@
   Il retail climatizza grandi volumi con ricambi elevati (porte sempre aperte, affollamento variabile) e, nei food, gestisce la refrigerazione dei banchi e delle celle: due mondi impiantistici distinti ma integrabili, con …
 - **Impianti per uffici: flessibilità e tecnologie** — Impianti e flessibilità · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)
   L’impianto degli uffici vive di riconfigurazioni: i tenant cambiano, le postazioni si spostano, i carichi crescono. Le tecnologie chiave sono il pavimento sopraelevato (distribuzione elettrica e dati accessibile), i cont…
+- **Impianti speciali: chiamata infermiera, gas medicali, ACS antilegionella** — Residenzialita' per anziani — impianti · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  La dotazione impiantistica della RSA e' sanitaria leggera: (a) impianto di chiamata infermiera da ogni letto e da ogni bagno (tirante), con ripetizione al posto infermieri di modulo e log degli interventi; (b) gas medica…
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di re…
 - **Impianto a sprinklers** — Idraulica antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1487,6 +1499,8 @@
   Come la caldaia moderna recupera il calore latente dei fumi: i componenti aggiuntivi.
 - **La caldaia murale a gas: anatomia completa delle componenti** — Caldaie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Cosa c'è dentro la caldaia che scalda la maggior parte delle case italiane.
+- **La camera in RSA: dimensioni, bagno, ausili** — Residenzialita' per anziani — progettazione degli spazi · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  La camera della RSA non e' una camera d'albergo con un letto in piu': deve consentire manovra di carrozzina attorno al letto, trasferimenti con sollevatore, assistenza di due operatori, presenza di un familiare. Valori r…
 - **La chiusura di commessa: saldo, certificato di regolare esecuzione, garanzie** — Chiusura · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definitiva, certificato di regolare esecuzione (nei pubblici, che libera la ritenuta di garanzia), restituzione delle garanzie e attivazione del pe…
 - **La classificazione dei terreni: UNI EN ISO 14688** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -2141,6 +2155,8 @@
   Come rendere conforme un cantiere con robot e macchine automatizzate.
 - **NTC 2018 ed Eurocodici: il doppio binario italiano e come lavorarci senza incidenti** — Eurocodici · corso: *Normativa europea e internazionale per l'edilizia: CPR, marcatura CE, ETA, Eurocodici, codici USA* (`NORMATIVA_UE_INTERNAZIONALE_PACK`)
   In Italia la legge delle costruzioni sono le NTC (D.M. 17/1/2018); gli Eurocodici sono il grande riferimento tecnico europeo richiamato come strumento. Il progettista lavora sul doppio binario: quadro nazionale per obbli…
+- **Nuclei domestici e deistituzionalizzazione: il modello household** — Residenzialita' per anziani — modelli evoluti · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Il modello evoluto delle residenze per anziani supera il 'reparto': nuclei domestici (household) da 12-20 posti organizzati come una casa: soggiorno-cucina del nucleo dove gli ospiti partecipano alla vita quotidiana (odo…
 
 ## O
 - **Opere di difesa costiera: frangiflutti, ricariche e arretramento** — Difesa costiera · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
@@ -2335,6 +2351,8 @@
   Fabbriche con robot saldatori, carroponte CNC e linee automatizzate per componenti edilizi.
 - **Prese e comandi esterni** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prese, interruttori e luci per esterni: grado IP44-IP65 per resistere ad acqua e polvere.
+- **Prevenzione incendi nelle residenze per anziani: evacuazione progressiva** — Residenzialita' per anziani — antincendio · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Le residenze per anziani con ospiti non autosufficienti sono tra le attivita' soggette ai controlli di prevenzione incendi (case di cura e ricovero nel DPR 151/2011 — verificare la voce e le soglie sull'elenco aggiornato…
 - **Prezzari digitali, software di computo e BIM 5D** — Digitale e interoperabilita' · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
   I prezzari sono oggi banche dati: XML scaricabili dai portali regionali, importabili nei software di computo e collegabili ai modelli BIM per il computo automatico delle quantita' (5D). La digitalizzazione accelera il la…
 - **Prezzari tipologici privati e listini dei materiali** — Fonti dei prezzi · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
@@ -2479,6 +2497,8 @@
   Robot semi-automatici per la posa di piastrelle grandi formato e levigatura.
 - **ROS e middleware robotici in edilizia** — Middleware · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Piattaforme software open per comandare robot eterogenei in cantiere.
+- **RSA e residenze per anziani: quadro autorizzativo e titoli** — Residenzialita' per anziani — quadro normativo · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Le strutture residenziali per anziani (RSA, case di riposo, residenze protette) stanno a cavallo di due regimi: quello EDILIZIO (titolo abilitativo DPR 380/2001, agibilita', antincendio, accessibilita') e quello SOCIO-SA…
 - **Rubinetteria e miscelatori** — Idraulica · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Rubinetti, miscelatori, termostatiche e doccioni: il punto di contatto con l'acqua.
 - **Rumore aeroportuale, ostacoli al volo e compatibilità territoriale** — Ambientale · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
@@ -2585,6 +2605,8 @@
   Lo scavo a cielo aperto uccide per ribaltamento dei fronti: un metro cubo di terra pesa 1.600-2.000 kg e non da' segnali prima di cedere. Il D.Lgs 81/2008 (Titolo IV, Capo II) impone la scelta tra tre strategie: scavo a …
 - **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   Il cantiere agricolo come centrale energetica: integrazione di FV, biogas ed efficienza negli edifici rurali.
+- **Spazi comuni, percorsi e wayfinding** — Residenzialita' per anziani — progettazione degli spazi · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  In una residenza per anziani gli spazi comuni sono il cuore funzionale: soggiorni di piano (20-40 posti per modulo), sala da pranzo (spesso 1,5-2 m2/posto per turno), palestra/fisioterapia, ambulatorio, spazi di relazion…
 - **Spazi per il pubblico: foyer, servizi, accessibilità** — Front of house · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
   Il front of house vende l’esperienza: biglietteria, guardaroba, foyer, bar, servizi igienici dimensionati sull’affollamento degli intervalli, percorsi accessibili a ogni posto riservato. Sono gli spazi che la commissione…
 - **Spese generali, utile d'impresa e oneri accessori** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
@@ -2685,6 +2707,8 @@
   La sala da spettacolo si dimensiona attorno al rapporto palcoscenico-pubblico: teatro all’italiana (sala a ferro di cavallo con palchi), sala con platea e gallerie, anfiteatro e arena, black box flessibile, sala da conce…
 - **Tipologie di workplace: cell office, open space, activity-based** — Workplace · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)
   Il layout degli uffici è cambiato: dall’ufficio chiuso (cell office) all’open space, fino all’activity-based working (postazioni non assegnate, zone per focus, collaborazione, riunioni, phone booth) accelerato dal lavor…
+- **Tipologie residenziali: RSA, case di riposo, residenze protette, senior living** — Residenzialita' per anziani — tipologie · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
+  Il continuum residenziale per anziani copre esigenze molto diverse: (a) senior living/co-housing e alloggi indipendenti con servizi (utenti autonomi, edilizia quasi ordinaria + servizi); (b) case di riposo e residenze pr…
 - **Titoli edilizi, agibilità e autorizzazioni di esercizio** — Titoli e agibilità · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Un centro commerciale è un incrocio di titoli: titolo edilizio per la costruzione, autorizzazione commerciale per il formato, agibilità per l’uso, SCIA antincendio per le attività soggette, pareri sanitari per food e …
 - **Titoli edilizia libera per il tecnico: CILA, SCIA, PdC** — Edilizia libera · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)

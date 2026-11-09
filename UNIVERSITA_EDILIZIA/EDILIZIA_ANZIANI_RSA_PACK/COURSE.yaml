@@ -1,0 +1,9 @@
+nome: Edilizia per Anziani e RSA
+codice: EDILIZIA_ANZIANI_RSA
+pack: EDILIZIA_ANZIANI_RSA_PACK
+livello: L1-L2
+schede: 12
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, EDILIZIA_BASE, OSPEDALI_E_HEALTHCARE]
+giro: AU
+data: 2026-11-09
