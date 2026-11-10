@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1391 voci enciclopediche tratte da 94 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1403 voci enciclopediche tratte da 95 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -215,6 +215,10 @@
   Produzione di calore da legna in caldaie automatiche per edilizia civile, industriale e reti di calore.
 - **CAM e sostenibilità: i criteri ambientali minimi negli appalti** — Obblighi · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   I CAM (Criteri Ambientali Minimi) sono i requisiti ambientali obbligatori negli appalti pubblici di lavori, servizi e forniture (D.Lgs 36/2023): per gli edilizi coprono materiali, energia, acqua, rifiuti e salute dell'am…
+- **Camere bianche in sanita': sale operatorie e preparazioni farmaceutiche** — Camere bianche — sanitario · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  In ambito sanitario le camere bianche compaiono in due ambiti: (1) le SALE OPERATORIE (trattate nel pack OSPEDALI_E_HEALTHCARE per la parte funzionale: qui la prospettiva impiantistica cleanroom): UTA dedicate, filtrazio…
+- **Camere bianche: classi ISO 14644-1 e principi di funzionamento** — Camere bianche — classificazione · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  La camera bianca (cleanroom) e' un ambiente in cui la concentrazione di particelle aerodisperse e' controllata entro limiti dichiarati. La classificazione internazionale e' la ISO 14644-1: le classi vanno da ISO 1 (la pi…
 - **Camini, finestre da tetto e attraversamenti: i punti deboli** — Camini · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Ogni attraversamento della copertura è un potenziale punto di infiltrazione: camini, finestre da tetto (velux e simili), antenne, pannelli solari, lucernari; il dettaglio corretto usa le pezze speciali (lastrine, collari…
 - **Campanili e torri: statica, campane e vibrazioni** — Edilizia di culto — strutture verticali · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
@@ -247,6 +251,8 @@
   Nelle officine, nei magazzini e nelle prefabbricazioni la movimentazione e' industriale: carriponte su rotaie, portali semi-automatici e sistemi di stoccaggio che lavorano migliaia di cicli l'anno.
 - **Carta da parati e rivestimenti murali** — Pitture e finiture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Carte, vinilici e tessuti da parete: finitura decorativa e protettiva.
+- **Cascata di pressione, airlock e tenuta dell'involucro** — Camere bianche — pressurizzazione · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  La barriera aerodinamica e' la seconda linea di difesa dopo la filtrazione: gli ambienti piu' puliti si mantengono in SOVRAPPRESSIONE rispetto ai contigui (tipicamente +10-+20 Pa per grado, con valori di progetto 5-15 Pa…
 - **Casseforme e disarmo** — Strutture in c.a. · corso: *Posa in opera e controlli* (`POSA_IN_OPERA_PACK`)
   Allestimento, puntellamento e rimozione dei casseri per getti verticali e orizzontali. Errore tipico: disarmo anticipato con struttura non ancora resistente, o casseri non a tenuta che perdono boiacca; controllo: verific…
 - **Casseforme e opere gettate in loco: tecnologie e cedimenti** — Casseforme · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -289,6 +295,8 @@
   Filo metallico sagomato con punta e testa; il fissaggio più antico e semplice: unisce legno a legno o legno a muratura tramite attrito e resistenza a estrazione.
 - **Clash detection e coordinamento delle interferenze** — Clash detection · corso: *Progettazione digitale CAD e BIM* (`CAD_BIM_PROGETTAZIONE_PACK`)
   La verifica automatica delle collisioni tra discipline (clash detection) confronta solidi dei modelli federati: tubo contro trave, porta contro armadio contro montante, canalina contro intelaiatura; i clash si classifica…
+- **Cleanroom farmaceutiche: gradi GMP A/B/C/D e Annex 1 (2022)** — Camere bianche — farmaceutico · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  Nel farmaceutico sterile la classificazione segue i gradi delle EU GMP: grado A (zona critica, es. punto di riempimento asettico: flusso unidirezionale), grado B (sfondo del grado A per la preparazione asettica), gradi C…
 - **Climatizzazione e qualità dell’aria nelle sale** — HVAC · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
   Climatizzare una sala da spettacolo significa gestire carichi termici elevati e variabili (affollamento, luci sceniche) con requisiti acustici severissimi: l’impianto deve essere potente e silenzioso (NR 20-25 in sala), …
 - **Climatizzazione multizona: multisplit e sistemi VRF** — Climatizzazione multizona · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -519,6 +527,8 @@
   Il valore degli uffici si legge con i numeri: canone per metro quadrato, service charge, capex programmati, costi di fit-out e di locazione (rent free, contributi), tasso di sfitto e valore di capitalizzazione. Il tecnic…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
+- **Economia delle camere bianche: capex, opex, TCO** — Camere bianche — economia · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  Il conto economico della cleanroom si legge sul TCO (total cost of ownership), non sul solo capex: (1) capex fortemente dipendente dalla classe (ISO 8: 2.500-5.000 €/m2; ISO 5: 5.000-10.000 €/m2 e oltre; farmaceutico GMP…
 - **Economia delle residenze per anziani: costi, rette, gestione** — Residenzialita' per anziani — economia · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
   Il piano economico di una residenza per anziani si regge su: (a) costo di investimento (costruzione/conversione + arredi tecnici + pratiche: 60-120 k€/posto letto per nuova RSA accreditata, da verificare con i conti loca…
 - **Economia e commesse del restauro** — Economia del restauro · corso: *Restauro e conservazione delle opere architettoniche* (`RESTAURO_E_CONSERVAZIONE_OPERE_PACK`)
@@ -623,6 +633,8 @@
   Telaio in legno massello o lamellare, eventualmente rivestito in alluminio esterno: il serramento di pregio.
 - **Finestra in PVC** — Serramenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Telaio in PVC con profili multi-camera: il serramento economico isolante standard.
+- **Finiture e materiali non particellari: pareti, pavimenti, controsoffitti** — Camere bianche — finiture · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  Ogni superficie interna della cleanroom deve essere: liscia, non sfogliante, lavabile con disinfettanti, resistente agli agenti chimici di pulizia, priva di fughe aperte e spigoli che trattengono particella. Soluzioni co…
 - **Fisica del piccolo idroelettrico: portata, salto, potenza e classificazione di taglia** — Fondamenti · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
   La potenza di un impianto idroelettrico e' sempre il prodotto di tre termini: portata turbinata Q (m3/s), salto lordo H (m) e rendimento complessivo. La formula pratica e' P(kW) = 9,81 x Q x H x eta, con 9,81 = peso spec…
 - **Fit-out degli uffici: Cat A, Cat B e capitolari** — Fit-out · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)
@@ -781,6 +793,8 @@
   Progettare hotel: dalla hall alla camera, il racconto dell'accoglienza.
 - **Human centered design: progettare per le persone reali** — Human centered · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il design che parte dall'utente: ricerca, empatia, test.
+- **HVAC per camere bianche: ricircolo, FFU e filtrazione terminale** — Camere bianche — impianti HVAC · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  L'impianto HVAC e' il cuore della cleanroom: non climatizza soltanto, MANTIENE la classe. Architetture ricorrenti: (a) ISO 8-7 con diluizione turbolenta: UTA con prefiltrazione e filtrazione intermedia (F7-F9) + diffusor…
 
 ## I
 - **I benefici del verde pensile: acqua, clima, energia e biodiversita'** — Prestazioni · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
@@ -1759,6 +1773,8 @@
   Il cantiere in strada o in centro deve convivere con la viabilità: il piano di traffico (PdT) definisce deviazioni, restringimenti, segnaletica temporanea, presidi; in Italia la gestione del traffico in deroga è regolata…
 - **La VMC centralizzata: anatomia della macchina e della rete** — VMC tecnologia · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Cosa c'è dentro la centralina e come è fatta la rete di distribuzione.
+- **Laboratori di biosicurezza (BSL): la pressione inversa** — Camere bianche — biosicurezza · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  Il laboratorio di biosicurezza (BSL 1-4 secondo l'agente manipolato, classificazione OMS recepita nei D.Lgs italiani sugli agenti biologici) lavora con logica INVERSA alla cleanroom industriale: non protegge il prodotto …
 - **Lamiera bugnata/diamond** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lamiera con rilievi a rombi o a goccia: superficie antiscivolo per scale, pedane, pavimentazioni industriali.
 - **Lamiera coibentata sandwich** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -1793,6 +1809,8 @@
   Costruire mentre gli aerei volano: i cantieri nello scalo operativo.
 - **Lavori in quota: cadute dall'alto, DPI anticaduta e linee vita** — Lavori in quota · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   La caduta dall'alto resta una delle cause principali di infortunio mortale in edilizia: banchetti di copertura, scale, scalette, mezzi di sollevamento e lavori su ponteggi o piattaforme sono le sedi tipiche. La prevenzio…
+- **Layout e flussi: persone, materiali, prodotto, rifiuti** — Camere bianche — layout e flussi · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  Il layout della cleanroom e' un progetto di FLUSSI prima che di spazi: le persone entrano attraverso la cascata di spogliatoi (gowning: pre-gowning -> spogliatoio sporcO -> lavaggio -> gowning pulito con tuta, cuffia, co…
 - **Layout robotizzato dal modello BIM** — BIM-to-Robot · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Robot che tracciano e posano da soli layout di cantiere e componenti partendo dal BIM.
 - **Le aree esterne dello stabilimento: viabilità interna, banchine e pavimentazioni** — Esterni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -2117,6 +2135,8 @@
   Realizzazione di scavi profondi con getto del solaio di copertura subito dopo lo scavo, che lavora come sostegno.
 - **Mezzi di movimentazione terra e trasporto in cantiere** — Movimentazione · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   I mezzi di movimentazione terra (escavatori, pale gommate, caricatrici, dumper, automezzi) sono responsabili di una quota significativa degli infortuni da investimento e schiacciamento in cantiere. La gestione sicura ric…
+- **Microelettronica e industria di precisione: AMC, ESD, vibrazioni** — Camere bianche — microelettronica e industria · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  La microelettronica e le produzioni di precisione (ottica, MEMS, display) hanno esigenze oltre la particella: (a) AMC (contaminazione molecolare aeriforme: acidi, basi, organici, dopanti) controllata con filtri chimici a…
 - **Microtunneling e perforazioni guidate (tecnologie no-dig)** — No-dig · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   La posa di condotte sotto le superfici senza aprire scavi: microtunneling e perforazioni.
 - **Millesimali, ripartizioni e tabelle di riparto** — Gestione tecnica · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
@@ -2133,6 +2153,8 @@
   Come si trasforma lo spettro in forze e spostamenti sulla struttura: dai metodi lineari semplificati per edifici regolari alla dinamica non lineare per valutazioni avanzate. La scelta del metodo non e' un gusto del proge…
 - **Moduli completi e building system industrializzati (volumi a modulo)** — Moduli · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Dalla cella al modulo intero: edilizia a volumi completi assemblati in stabilimento.
+- **Monitoraggio in esercizio e manutenzione: la classe si mantiene, non si eredita** — Camere bianche — esercizio · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  La classe raggiunta in collaudo decade senza gestione: filtri che si intasano, guarnizioni che invecchiano, porte che sbattono, personale nuovo. Il programma di esercizio: monitoraggio continuo o periodico di particelle …
 - **Monitoraggio strutturale: fessurimetri, inclinometri e sensoristica dinamica** — Monitoraggio · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)
   Misura continua o periodica dell'evoluzione di lesioni, rotazioni e risposta dinamica per decidere se un dissesto è attivo e se un intervento ha funzionato. L'errore tipico è installare fessurimetri senza registrazione d…
 - **Montaggio della carpenteria in cantiere** — Montaggio · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
@@ -2409,6 +2431,8 @@
   Distribuzione e protezione dell'energia elettrica di un edificio.
 - **Quadro normativo e pianificazione cimiteriale** — Quadro normativo · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
   Il cimitero è un’opera pubblica con disciplina propria: la costruzione, l’ampliamento e la gestione sono regolati dal Regolamento di Polizia Mortuaria e dalle leggi regionali, con piani cimiteriali comunali che dimensio…
+- **Qualifica e validazione: DQ, IQ, OQ, PQ e test di collaudo** — Camere bianche — qualifica · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
+  La cleanroom si consegna 'validata', non solo 'finita'. Il percorso di qualifica: DQ (Design Qualification: il progetto soddisfa i requisiti dell'utenza), IQ (Installation Qualification: l'installazione corrisponde al pr…
 - **Qualità dell'aria e CO2-driven ventilation** — VMC integrata · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   La domotica comanda la VMC in base a CO2, umidità e presenza: aria pulita con minimo consumo.
 - **Qualità e certificazioni d'impresa: ISO 9001, SOA, credito** — Qualità impresa · corso: *Master in gestione d'impresa edile* (`MASTER_IMPRESA_EDILE_PACK`)

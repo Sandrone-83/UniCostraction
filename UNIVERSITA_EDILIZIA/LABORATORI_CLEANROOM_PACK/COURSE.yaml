@@ -1,0 +1,9 @@
+nome: Laboratori e Camere Bianche (Cleanroom)
+codice: LABORATORI_CLEANROOM
+pack: LABORATORI_CLEANROOM_PACK
+livello: L1-L2
+schede: 12
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, DIMENSIONAMENTO_TERMOTECNICO, OSPEDALI_E_HEALTHCARE]
+giro: AV
+data: 2026-11-10

@@ -1,4 +1,24 @@
 
+## Giro AV — 2026-11-10, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione (AV1: integrazione dettagli tecnici dello schema di correttivo CT 3.0); nuovo pack LABORATORI_CLEANROOM_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AV1 | Correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): nota 23/10 con i contenuti dello schema di correttivo (riserve 300 M€, 100% Comuni solo primo intervento, soglie prenotazioni, APE/diagnosi estesi, mandatario all'incasso, dettagli schermature/illuminazione/biomasse) | Aggiunta integrazione datata 10/11/2026: lo schema prevederebbe inoltre (da confermare sul testo in GU) — rimozione del limite che impediva di qualificare come sostituzione il generatore a biomassa in caso di distacco da rete di teleriscaldamento non efficiente; esclusione degli immobili in categoria catastale D/7; coefficienti correttivi dell'incentivo per le biomasse fino a 1,5 legati alla riduzione percentuale del particolato primario. Adozione MASE e GU ancora assenti | businessonline.it (06/11/2026) — verifica web 10/11/2026 |
+| AV2 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note del 04/11, 06/11, 08/11 | Confermata: nessun emendamento sostanziale noto; settimana delle audizioni alla Camera (9-12/11/2026), termine emendamenti 17/11/2026 | stampa tecnica fiscale (verifica web 10/11/2026) |
+| AV3 | Verifica senza correzione | Schede CER e Reddito Energetico: proroga saldo PNRR al 31/12/2026 (nota AU1), richiesta estensione CER al 2030, sportello RE chiuso | Confermato: nessuna novita'; Reddito Energetico: nessun bando nuovo | stampa di settore — verifica web 10/11/2026 |
+| AV4 | Nuovo pack | — | LABORATORI_CLEANROOM_PACK (12 schede, L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE): classificazione ISO 14644-1, HVAC con FFU e filtri EN 1822, cascata di pressione, finiture, flussi e gowning, GMP farmaceutico (Annex 1 2022, CCS), microelettronica (AMC/ESD/vibrazioni), sanitario, qualifica DQ/IQ/OQ/PQ, monitoraggio in esercizio, BSL (Titolo X D.Lgs 81/2008), economia e TCO. Verifica ridondanza su 93 pack: unico hit = sale operatorie in OSPEDALI (prospettiva sanitaria) | Norme di consolidata certezza (UNI EN ISO 14644-1/-2/-3/-4, EN 1822, EU GMP Annex 1 ed. 2022, EN 61340-5-1, D.Lgs 81/2008 Titolo X, UNI 10339, UNI EN 16798); riferimenti ISPESL/INAIL e UNI 11420 marcati «da verificare»; prezzi come fasce indicative; nessun nome di azienda |
+| AV5 | Nuovo esame | — | ESAMI/LABORATORI_CLEANROOM: 250 domande, chiavi in ESAMI_RISPOSTE (fuori repository, gitignored); tabella ESAMI/README aggiornata (copertura 96 esami su 94 pack) | build_esami_giro5.py |
+| AV6 | Validazione | — | Validazione globale: 94 pack, 1241 schede, 96 esami; JSON valido e 11 chiavi in ordine esatto su tutte le righe, 0 refusi aplicazioni/tegnologia, COURSE.yaml coerenti (94/94). Nota nota invariata: 109 schede storiche senza il prefisso esatto «Ordini di grandezza indicativi: » (non modificate) | Script di validazione python |
+
+Righe aperte nel giro:
+- DDL Bilancio 2027 (A.C. 3174): audizioni alla Camera 9-12/11/2026, termine emendamenti 17/11/2026, approvazione entro il 31/12/2026: verificare gli emendamenti su art. 4 (rientro 65%, perimetro arredo/elettrodomestici), decreti attuativi fondi GSE, ipotesi condono edilizio 2003: da verificare se e quando diventa testo.
+- Conto Termico 3.0: adozione MASE e pubblicazione in GU del correttivo; verificare se il testo finale recepisce le osservazioni CU e conferma i dettagli tecnici (teleriscaldamento, D/7, coefficienti biomassa).
+- CER: richiesta delle associazioni di estensione al 31/12/2030 o 5 GW (decisione chiesta entro fine 2026): monitorare; verificare la nota GSE sulla proroga saldo PNRR al 31/12/2026 sul portale GSE.
+- Reddito Energetico: decreto di rifinanziamento/bando da verificare sul portale GSE.
+- EPBD (UE) 2024/1275: richiami UE all'Italia sul recepimento: stato da verificare.
+
 ## Giro AU — 2026-11-09, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione (AU1: proroga GSE del termine di richiesta saldo PNRR CER al 31/12/2026); nuovo pack EDILIZIA_ANZIANI_RSA_PACK (12 schede) con esame.
