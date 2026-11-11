@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1403 voci enciclopediche tratte da 95 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1415 voci enciclopediche tratte da 96 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -11,6 +11,8 @@
   Mettere in regola immobili irregolari: il valore economico della regolarità.
 - **Accessi, vie di cantiere e sicurezza invernale** — Cantiere in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   In montagna l'accesso e' un'opera provvisionale a se': strade sterrate in pendenza, tornanti, ponti con portate limitate, neve e ghiaccio per mesi. La sicurezza del trasporto vale quanto quella delle lavorazioni.
+- **Accessibilita' culturale: fisica, sensoriale, cognitiva** — Edilizia culturale — inclusione · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  L'accessibilita' del museo ha tre livelli: (1) fisico (D.M. 236/1989: rampe, ascensori, servizi, percorsi senza barriere: il minimo di legge); (2) sensoriale: percorsi tattili e tavolette in rilievo per non vedenti, audi…
 - **Accessibilita' spinta: oltre il D.M. 236/1989** — Residenzialita' per anziani — accessibilita' e sicurezza · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
   Il D.M. 236/1989 e' il pavimento normativo, non il soffitto: in una RSA gli utenti non sono visitatori occasionali ma residenti permanenti con disabilita' multiple (motoria + visiva + cognitiva). L'accessibilita' di eser…
 - **Accessibilità e barriere architettoniche negli impianti sportivi** — Accessibilità · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
@@ -113,6 +115,8 @@
   Il tema centrale dell'edilizia italiana: la casa, i suoi standard, la sua evoluzione.
 - **Architettura sostenibile: il progetto clima-compatibile** — Architettura sostenibile · corso: *Architettura* (`ARCHITETTURA_PACK`)
   Progettare con il clima, non contro: passivismo, energia quasi zero, adattamento.
+- **Archivi e biblioteche: conservazione di carta e consultazione** — Edilizia culturale — archivi e biblioteche · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  Archivi e biblioteche vivono del doppio mandato conservazione + accesso: i documenti si conservano al buio, al fresco e stabili (depositi), ma si consultano in sale luminose e accoglienti. Il progetto distingue nettament…
 - **Aree esterne, parcheggi a raso e viabilità di contorno** — Aree esterne · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Nel retail le aree esterne sono parte del prodotto: parcheggi a raso capienti e leggibili, viabilità di accesso e svincoli, percorsi pedonali protetti dai varchi alle gallerie, aree di carico separate dai flussi clienti…
 - **Arginature fluviali e di bonifica: la difesa delle pianure** — Argini · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
@@ -383,6 +387,8 @@
   Struttura in profili sospesi con lastre di cartongesso: controsoffitti per cavi, luci, climatizzazione.
 - **Convertire edifici esistenti in residenze per anziani** — Residenzialita' per anziani — conversioni · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
   Ex alberghi, ex scuole, conventi, ex colonie e palazzi signorili sono i candidati classici alla conversione in residenze per anziani: strutture gia' dotate di camere con bagno (alberghi) o di grandi spazi comuni (scuole/…
+- **Convertire edifici storici in musei: vincolo e reversibilita'** — Edilizia culturale — conversioni · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  Il caso italiano tipico e' il museo IN edificio storico (palazzo, convento, caserma, ex opificio): l'edificio e' esso stesso il primo pezzo della collezione. I principi: minimo intervento e reversibilita' (allestimenti a…
 - **Coperture a verde: estensivo, intensivo e semi-intensivo** — Fondamenti · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   Il tetto verde e' una copertura stratificata che ospita vegetazione sopra l'impermeabilizzazione. La scelta fondamentale e' la tipologia: estensiva (substrato sottile, vegetazione autoctona resistente, poca manutenzione)…
 - **Coperture lignee storiche: capriate, patologie e infiltrazioni** — Edilizia di culto — coperture storiche · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
@@ -445,6 +451,8 @@
   Demolire in citta' abitata significa lavorare con il pubblico a ridosso: pedoni, residenti, attivita' in esercizio, edifici adiacenti condivisi o accostati. Richiede protezioni fisiche, organizzazione delle finestre di l…
 - **Demolizioni selettive e smontaggi controllati** — Demolizioni · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
   Il cantiere al contrario: demolire, smontare e recuperare in sicurezza e con recupero dei materiali.
+- **Depositi museali e bibliotecari: carichi, scaffalature, ordine** — Edilizia culturale — depositi · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  Il deposito e' il cuore conservativo: ospita la maggior parte delle collezioni dei musei generalisti e la quasi totalita' dei fondi di biblioteche e archivi. Requisiti: struttura con carichi adeguati (scaffalature fisse …
 - **Design for disassembly: progettare edifici smontabili e riutilizzabili** — Progettazione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   Il design for disassembly (DfD) e' l'approccio progettuale che rende un edificio scomponibile a fine vita o durante la vita: connessioni reversibili, strati separati per durata, componenti identificabili e accessibili, c…
 - **Design management: dirigere la creatività** — Design management · corso: *Master in design* (`MASTER_DESIGN_PACK`)
@@ -535,6 +543,8 @@
   L'economia del restauro si caratterizza per costi di manodopera specializzata elevati, tempi di lavorazione lunghi e incertezza sulle condizioni di cantiere che richiede analisi preliminari accurate. Le commesse sono str…
 - **Economia e contabilita' della demolizione: prezzi, crediti da recupero ed errori di preventivo** — Demolizioni — economia e contabilita' · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
   Come si forma davvero il costo di una demolizione e come va contabilizzata: la voce dominante non e' l'abbattimento ma la gestione dei materiali, e l'errore di preventivo piu' frequente e' la sottostima di trasporti e co…
+- **Economia e gestione degli edifici culturali** — Edilizia culturale — economia · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  Il bilancio del museo/grande biblioteca si regge su: ricavi da biglietteria e servizi (bookshop, caffetteria, eventi, affitti spazi), finanziamento pubblico (comune/regione/stato, spesso dominante), sponsor e fondazioni,…
 - **Economia e gestione dei parcheggi: costi per posto, forme di gestione e contabilita'** — Parcheggi — economia e gestione · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
   Il parcheggio e' un investimento immobiliare con metriche proprie: costo per posto realizzato, ricavo per posto gestito, payback e valore pertinenziale. Capire dove si forma il costo (scavo vs struttura vs impianti) deci…
 - **Economia e gestione della sala da spettacolo** — Economia · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
@@ -595,6 +605,8 @@
   Una turbina piccola e' una macchina rotante all'aperto per 20-25 anni: la manutenzione non e' un optional ma la voce che decide il ritorno economico. Chi la pianifica dorme; chi la subisce paga la gru due volte.
 - **Esercizio e manutenzione: griglie, sedimenti, usura turbine e telecontrollo** — Esercizio · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
   Un piccolo impianto idroelettrico ben costruito produce per decenni, ma solo se gestito: la manutenzione ordinaria e' poca cosa fatta con costanza. Attivita' tipiche: pulizia griglie (da quotidiana in autunno con fogliam…
+- **Esodo e affollamento nelle grandi mostre e nei musei** — Edilizia culturale — pubblico · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  I musei e le grandi mostre gestiscono affollamenti variabili (da giornate normali a picchi da blockbuster): l'esodo si dimensiona sull'affollamento massimo ammesso, gestito con biglietteria a fasce orarie e conteggio ing…
 - **Esodo e prevenzione incendi nelle sale con affollamento** — Sicurezza antincendio · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
   La sala da spettacolo è il caso scolastico di esodo in presenza di affollamento: centinaia o migliaia di persone, al buio, con attenzione altrove. Il progetto antincendio combina compartimentazione (palcoscenico verso s…
 - **Esoscheletri per operai** — Wearable · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -1135,6 +1147,8 @@
   Le opere speciali (ponti, tensostrutture, gusci, opere marittime) si affidano al monitoraggio: sensori (estensimetri, accelerometri, celle di carico, inclinometri), ispezioni programmate, prove non distruttive; il dato n…
 - **Il MOSE di Venezia (2020): la barriera che difende un tesoro** — Capolavori contemporanei · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il sistema di paratoie mobili che chiude la laguna di Venezia dalle maree alte: 78 paratoie, 4 bocche di porto, 5,5 mld €.
+- **Il museo: percorso espositivo, servizi e flessibilita'** — Edilizia culturale — progettazione · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  Il museo contemporaneo non e' un contenitore di sale ma un sistema: percorso espositivo (flessibile per mostre temporanee), servizi al pubblico (biglietteria, guardaroba, servizi, bookshop, caffetteria, spazi educativi, …
 - **Il mutuo immobiliare: tassi, spread, surroga** — Mutuo · corso: *Mercato immobiliare, valutazione e investimenti* (`REAL_ESTATE_PACK`)
   Il mutuo ipotecario finanzia l'acquisto: a tasso fisso (certezza, in genere più caro inizialmente), variabile (Euribor + spread, rischio/ opportunità), misto; i parametri: LTV (loan to value, max 80% tipico), TAEG (costo…
 - **Il notaio in edilizia: rogiti, ipoteche, trascrizioni** — Notaio · corso: *Diritto privato dell'edilizia* (`LEGISLAZIONE_PRIVATA_EDILIZIA_PACK`)
@@ -1279,6 +1293,8 @@
   Il rischio incendio nelle chiese storiche è alto: strutture lignee di copertura, ceri e candele, impianti elettrici vetusti cablati negli anni '50-'70 su murature portanti, riscaldatori portatili. Le cause tipiche di inn…
 - **Impianti HVAC e refrigerazione commerciale** — Impianti · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Il retail climatizza grandi volumi con ricambi elevati (porte sempre aperte, affollamento variabile) e, nei food, gestisce la refrigerazione dei banchi e delle celle: due mondi impiantistici distinti ma integrabili, con …
+- **Impianti museali: HVAC per il microclima, BMS e monitoraggio** — Edilizia culturale — impianti · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  L'impiantistica museale serve tre padroni: il comfort dei visitatori, la conservazione delle opere, l'integrita' dell'edificio. Architettura tipica: UTA con controllo T+UR (non solo temperatura), diffusione a bassa veloc…
 - **Impianti per uffici: flessibilità e tecnologie** — Impianti e flessibilità · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)
   L’impianto degli uffici vive di riconfigurazioni: i tenant cambiano, le postazioni si spostano, i carichi crescono. Le tecnologie chiave sono il pavimento sopraelevato (distribuzione elettrica e dati accessibile), i cont…
 - **Impianti speciali: chiamata infermiera, gas medicali, ACS antilegionella** — Residenzialita' per anziani — impianti · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
@@ -2039,6 +2055,8 @@
   Piattaforma di controllo di rete per automazione edilizia (storica).
 - **Lubrificanti e olii** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Olii lubrificanti per attrezzature e casseforme: sbloccanti e stacchi per il cls.
+- **Luce e opere: illuminazione espositiva e foto-degrado** — Edilizia culturale — luce · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  La luce e' insieme lo strumento espositivo e il primo agente di degrado fotochimico: il danno e' cumulativo e irreversibile (si misura in lux·ora cumulate). Livelli di riferimento consolidati: materiali molto sensibili (…
 - **Luce per uffici, scuole, sanita', industria e retail** — Architettura della luce · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
   Ogni tipologia ha bisogni luminosi diversi: l'errore e' usare la stessa soluzione ovunque. La luce giusta migliora performance, sicurezza e vendite.
 - **LVT (luxury vinyl tile)** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2135,6 +2153,8 @@
   Realizzazione di scavi profondi con getto del solaio di copertura subito dopo lo scavo, che lavora come sostegno.
 - **Mezzi di movimentazione terra e trasporto in cantiere** — Movimentazione · corso: *Sicurezza di cantiere (D.Lgs 81/08)* (`SICUREZZA_CANTIERE_DLSGS81_PACK`)
   I mezzi di movimentazione terra (escavatori, pale gommate, caricatrici, dumper, automezzi) sono responsabili di una quota significativa degli infortuni da investimento e schiacciamento in cantiere. La gestione sicura ric…
+- **Microclima per la conservazione: temperatura, umidita', inquinanti** — Edilizia culturale — conservazione · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  La conservazione delle collezioni richiede stabilita' ambientale piu' che valori assoluti: gli sbalzi rapidi di T e UR deformano legni, tele, carte e metalli. Valori di riferimento consolidati (da adattare al materiale e…
 - **Microelettronica e industria di precisione: AMC, ESD, vibrazioni** — Camere bianche — microelettronica e industria · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
   La microelettronica e le produzioni di precisione (ottica, MEMS, display) hanno esigenze oltre la particella: (a) AMC (contaminazione molecolare aeriforme: acidi, basi, organici, dopanti) controllata con filtri chimici a…
 - **Microtunneling e perforazioni guidate (tecnologie no-dig)** — No-dig · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -2167,6 +2187,8 @@
   La frana è l'emergenza n.1 italiana: come la si conosce, la si ferma o la si convive.
 - **Muri e opere di sostegno del terreno** — Opere di sostegno · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Tenere su il terreno: muri a gravità, a contrafforti, ancorati, gabbioni, paratie.
+- **Musei, biblioteche e archivi: quadro normativo e titoli** — Edilizia culturale — quadro normativo · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  Gli edifici per la cultura (musei, biblioteche, archivi) seguono l'edilizia ordinaria (titoli DPR 380/2001, agibilita', accessibilita' D.M. 236/1989, sicurezza D.Lgs 81/2008) con tre sovrapposizioni specifiche: (1) il D.…
 
 ## N
 - **Nastri e guarnizioni smorzanti** — Isolanti acustici · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2407,6 +2429,8 @@
   Difesa da fulmini e manovre rete: scaricatori di sovratensione.
 - **Protezione dalla corrosione: classi ambientali e sistemi** — Corrosione · corso: *Carpenteria metallica e acciaio* (`CARPENTERIA_METALLICA_E_ACCIAIO_PACK`)
   Durabilità dell'acciaio: dalla classificazione ISO 12944 alla zincatura e ai cicli vernicianti.
+- **Protezione delle collezioni: antincendio, antintrusione, emergenze** — Edilizia culturale — sicurezza delle collezioni · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
+  La sicurezza del museo protegge tre beni: le persone (esodo ordinario), le opere (fuoco, furto, acqua, atti vandalici) e l'edificio (spesso vincolato). Antincendio per le collezioni: rivelazione precoce (aspirazione in d…
 - **Protezioni collettive provvisionali: parapetti di bordo, reti di sicurezza e coperture temporanee** — Protezioni · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
   La protezione collettiva viene prima dei DPI: un parapetto protegge tutti, sempre, senza dipendere dal comportamento. I sistemi tipici: parapetti provvisionali di bordo solaio (montanti infissi o a morsa, corrente superi…
 - **Prove di carico su solai** — Prove di struttura · corso: *Patologie edili e diagnostica strumentale* (`PATOLOGIE_E_DIAGNOSTICA_PACK`)

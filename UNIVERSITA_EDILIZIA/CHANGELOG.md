@@ -1,4 +1,19 @@
 
+## Giro AW — 2026-11-11, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con NESSUNA correzione (conferme DDL Bilancio 2027 e calendario emendamenti, CT 3.0 correttivo ancora assente, CER/RE fermi); nuovo pack MUSEI_BIBLIOTECHE_ARCHIVI_PACK (12 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AW1 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note del 04/11, 06/11, 08/11 | Confermata: conferme stampa 11/11 su art. 4 del DDL Bilancio 2027 (A.C. 3174-bis) — 50% prima casa / 36% altri immobili, massimale 96.000 euro, parti comuni condominiali Ecobonus con massimale 40.000 euro per u.i., Bonus Mobili 50% su 5.000 euro, elettrodomestici 50 Meuro 2027 a decreto MIMIT-MEF; ipotesi Ecobonus 65% prima casa solo in discussione, NON nel testo; calendario: emendamenti entro 17/11 ore 18, vaglio ammissibilita' 23-24/11, Aula primi di dicembre; il 4/11 stralciati artt. 69 c.8, 105, 115 (testo rinominato C. 3174-bis) | pmi.it (11/11/2026) — verifica web 11/11/2026 |
+| AW2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): nota 10/11 | Confermata: schema di correttivo ancora NON adottato dal MASE ne' pubblicato in GU | monitoraggio MASE/GU e stampa tecnica — verifica web 11/11/2026 |
+| AW3 | Verifica senza correzione | Schede CER (FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK): note vigenti | Confermate: nessuna novita'; sportello Reddito Energetico ancora chiuso | gse.it — verifica web 11/11/2026 |
+| AW4 | Nuovo pack | — | MUSEI_BIBLIOTECHE_ARCHIVI_PACK: 12 schede (quadro normativo D.Lgs 42/2004 + CAM musei D.M. 23/6/2022; progettazione museo; microclima UNI 10829; luce e foto-degrado; depositi e compattabili UNI EN 16893; protezione collezioni; esodo e affollamento; accessibilita' culturale; archivi e biblioteche; conversioni di edifici storici; HVAC e BMS; economia e gestione), livello L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE | redazione interna |
+| AW5 | Nuovo esame | — | ESAMI/MUSEI_BIBLIOTECHE_ARCHIVI: 250 domande; chiavi in ESAMI_RISPOSTE (fuori repository) | build_esami_giro5 |
+| AW6 | Validazione | 94 pack / 1241 schede / 96 esami | 95 pack / 1253 schede / 97 esami; 0 errori; 109 warning legacy invariati | _validate_giro.py |
+
+Righe aperte nel giro: DDL Bilancio 2027 — emendamenti entro 17/11 ore 18, vaglio 23-24/11, Aula primi di dicembre (ipotesi Ecobonus 65% prima casa da verificare sull'approvazione); CT 3.0 — adozione correttivo MASE e pubblicazione GU; CER — decisione semplificazioni entro fine 2026 e saldo contributi PNRR al 31/12/2026; Reddito Energetico — riapertura sportello GSE; EPBD — recepimento.
+
 ## Giro AV — 2026-11-10, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione (AV1: integrazione dettagli tecnici dello schema di correttivo CT 3.0); nuovo pack LABORATORI_CLEANROOM_PACK (12 schede) con esame.

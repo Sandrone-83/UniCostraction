@@ -37,7 +37,7 @@ for p in packs:
             if isinstance(ce, str) and not ce.startswith('Ordini di grandezza indicativi: '):
                 # prefisso obbligatorio per i contenuti NUOVI; nei pack legacy pre-esistenti
                 # (giri precedenti o edit manuali del proprietario) e' debito noto: warning.
-                if p in ('NORMATIVA_UE_INTERNAZIONALE_PACK', 'IDROELETTRICO_PICCOLA_TAGLIA_PACK', 'PONTEGGI_OPERE_PROVVISIONALI_PACK', 'DEMOLIZIONI_FINE_VITA_PACK', 'INGEGNERIA_SISMICA_ISOLAMENTO_PACK', 'PARCHEGGI_AUTORIMESSE_PACK', 'RETAIL_CENTRI_COMMERCIALI_PACK', 'EDILIZIA_CIMITERIALE_PACK', 'TEATRI_LOCALI_SPETTACOLO_PACK', 'UFFICI_E_TERZIARIO_PACK', 'EDILIZIA_RELIGIOSA_CHIESE_PACK', 'EDILIZIA_ANZIANI_RSA_PACK', 'LABORATORI_CLEANROOM_PACK'):
+                if p in ('NORMATIVA_UE_INTERNAZIONALE_PACK', 'IDROELETTRICO_PICCOLA_TAGLIA_PACK', 'PONTEGGI_OPERE_PROVVISIONALI_PACK', 'DEMOLIZIONI_FINE_VITA_PACK', 'INGEGNERIA_SISMICA_ISOLAMENTO_PACK', 'PARCHEGGI_AUTORIMESSE_PACK', 'RETAIL_CENTRI_COMMERCIALI_PACK', 'EDILIZIA_CIMITERIALE_PACK', 'TEATRI_LOCALI_SPETTACOLO_PACK', 'UFFICI_E_TERZIARIO_PACK', 'EDILIZIA_RELIGIOSA_CHIESE_PACK', 'EDILIZIA_ANZIANI_RSA_PACK', 'LABORATORI_CLEANROOM_PACK', 'MUSEI_BIBLIOTECHE_ARCHIVI_PACK'):
                     errors.append(f"{p} riga {i}: costi_e_economia senza prefisso richiesto")
                 else:
                     warnings.append(f"{p} riga {i}: prefisso costi mancante (legacy)")
