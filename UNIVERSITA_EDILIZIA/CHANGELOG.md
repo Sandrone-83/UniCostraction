@@ -1,4 +1,19 @@
 
+## Giro AX — 2026-11-12, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (AX1: nota 12/11 su calendario parlamentare, Ecobonus 65% fuori dal testo, art. 37 senza eccezioni sisma, richiesta ANCE); nuovo pack FUNIVIE_IMPIANTI_A_FUNE_PACK (13 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AX1 | Correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note fino all'08/11/2026 | Aggiunta nota datata 12/11/2026: audizioni Manovra 9-12/11 davanti alle commissioni Bilancio riunite; termine emendamenti 17/11 ore 18, vaglio ammissibilita' 23-24/11, Aula primi di dicembre; Ecobonus 65% prima casa confermato FUORI dal testo governativo (eventuale ingresso solo per emendamenti); art. 37 (rateizzazione decennale crediti Superbonus spese 2023): quota 2027 stimata circa 20,5 miliardi (circa 2 miliardi nel 2027, 18,5 rinviati al 2028-2036), NESSUNA eccezione per le aree del cratere sismico, Corte dei Conti in audizione (09/11) segnala contrazione di liquidita' per i titolari; ANCE chiede 1,4 miliardi per il caro materiali, NON recepiti nel testo al 12/11 | pmi.it (05/11 e 10-11/11/2026), bibus.acca.it (06/11/2026), ediltecnico.it (09/11/2026), edilizia-ai.it (09/11/2026), edilportale.com (10/11/2026), milanofinanza.it (09/11/2026) — verifica web 12/11/2026 |
+| AX2 | Verifica senza correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): note 23/10 e 10/11 | Confermata: schema di correttivo (intesa Conferenza Unificata 22/10/2026) ancora NON adottato dal MASE ne' pubblicato in GU; restano valide le regole vigenti | businessonline.it (06/11/2026) — verifica web 12/11/2026 |
+| AX3 | Verifica senza correzione | Schede CER e Reddito Energetico (FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK, ENERGETICA_INCENTIVI_PACK riga 15): note vigenti | Confermate: tariffa premio DM 414/2023 (80/70/60 + integrazione, max 120/110/100 euro/MWh) invariata; contributo PNRR 40% chiuso al 30/11/2025 con saldo prorogato al 31/12/2026; Reddito Energetico: sportello chiuso, nessuna riapertura confermata | greenmood.org (09/11/2026), stilcaenergy.com (11/11/2026) — verifica web 12/11/2026 |
+| AX4 | Nuovo pack | — | FUNIVIE_IMPIANTI_A_FUNE_PACK: 13 schede (normativa D.Lgs 162/2004 + L. 41/2021; tipologie; stazioni; piloni e fondazioni in quota; funi/morse/MRT; soccorso ed evacuazione; funicolari; autorizzazioni e controlli; esercizio climatico; revamping; economia; mobilita' urbana; VIA e paesaggio), livello L1-L2, FACOLTA_INGEGNERIA | redazione interna |
+| AX5 | Nuovo esame | — | ESAMI/FUNIVIE_IMPIANTI_A_FUNE: 250 domande; chiavi in ESAMI_RISPOSTE (fuori repository) | build_esami_giro5 |
+| AX6 | Validazione | 95 pack / 1253 schede / 97 esami | 96 pack / 1266 schede / 98 esami; 0 errori; 109 warning legacy invariati | _validate_giro.py |
+
+Righe aperte nel giro: DDL Bilancio 2027 — emendamenti entro 17/11 ore 18, vaglio 23-24/11, Aula primi di dicembre (Ecobonus 65% prima casa possibile solo per via emendamentale; richiesta ANCE caro materiali in sospeso); CT 3.0 — adozione correttivo MASE e pubblicazione GU; CER — saldo contributi PNRR al 31/12/2026; Reddito Energetico — riapertura sportello GSE; EPBD — recepimento; decreto attuativo L. 41/2021 (sicurezza funiviaria) — numero e stato da verificare su normattiva.it.
+
 ## Giro AW — 2026-11-11, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con NESSUNA correzione (conferme DDL Bilancio 2027 e calendario emendamenti, CT 3.0 correttivo ancora assente, CER/RE fermi); nuovo pack MUSEI_BIBLIOTECHE_ARCHIVI_PACK (12 schede) con esame.

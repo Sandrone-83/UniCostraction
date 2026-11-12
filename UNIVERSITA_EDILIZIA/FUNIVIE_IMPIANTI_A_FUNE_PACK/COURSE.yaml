@@ -1,0 +1,9 @@
+nome: Funivie e Impianti a Fune per il Trasporto di Persone
+codice: FUNIVIE_IMPIANTI_A_FUNE
+pack: FUNIVIE_IMPIANTI_A_FUNE_PACK
+livello: L1-L2
+schede: 13
+facolta: FACOLTA_INGEGNERIA
+prerequisiti: [FONDAMENTI, EDILIZIA_MONTAGNA, INGEGNERIA_CIVILE]
+giro: AX
+data: 2026-11-12

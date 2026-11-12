@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1415 voci enciclopediche tratte da 96 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1428 voci enciclopediche tratte da 97 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -151,10 +151,14 @@
   L'autogru e' la soluzione flessibile: arriva, starga, solleva e riparte. Ma la sua capacita' crolla con la distanza: il diagramma di carico e' la sua carta d'identita'.
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Malta cementizia autolivellante colorata in massa: crea superfici continue dal design contemporaneo su massetti e scale.
+- **Autorizzazione, verifica di primo impianto e controlli in esercizio** — Iter e controlli · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  L'iter di un impianto nuovo si articola in: concessione/autorizzazione dell'ente territoriale competente (Regione o Provincia autonoma) con valutazione ambientale; approvazione del progetto da parte della commissione pre…
 - **Autorizzazioni: attivita' libera, PAS, Autorizzazione Unica e i vincoli** — Normativa · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   Il procedimento cambia con la taglia: sotto soglia l'impianto e' quasi edilizia libera, sopra diventa pratica ambientale. La mappa dei vincoli del territorio (paesaggio, avifauna, infrastrutture) decide prima ancora del …
 - **Aviazione generale, eliporti e aviazione leggera: infrastrutture minime** — Aviazione leggera · corso: *Aeroporti e infrastrutture di volo* (`AEROPORTI_E_INFRASTRUTTURE_DI_VOLO_PACK`)
   La coda lunga del volo: aviosuperfici, eliporti e aeroporti minori.
+- **Azionamenti, gruppi di soccorso ed evacuazione dei passeggeri** — Sicurezza ed esercizio · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  L'azionamento principale e' elettrico (motori da 100 kW a oltre 2 MW sulle grandi va-e-vieni), con convertitori e controllo vettoriale della velocita'. Ogni impianto deve poter evacuare i passeggeri in linea: gruppo elet…
 
 ## B
 - **B&B, affitti brevi, ricariche auto e i nuovi conflitti condominiali** — Vita quotidiana · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
@@ -413,6 +417,8 @@
   La bonifica è la voce di preventivo più incerta di un'opera di riqualificazione: i suoi costi dipendono da quantitativi, classificazione dei rifiuti, tecnologie scelte e tempi autorizzativi. L'ingegnere edile deve saper …
 - **Costi, contratti e programmazione dei lavori ferroviari** — Economia e programma · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Come si stima, appalta e programma un cantiere lineare ferroviario.
+- **Costruzione, esercizio e piano industriale di un impianto a fune** — Economia · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  Il modello economico di un impianto a fune regge su tre pilastri: capex iniziale (opere civili 25-45%, parte meccanica 40-55%, progettazione e iter 10-20%), opex stagionale (personale di esercizio e manutenzione, energia…
 - **Costruzioni in zona sismica: la lezione italiana** — Sismica civile · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   L'Italia è il paese europeo più sismico: come le opere civili convivono col terremoto.
 - **Cotto** — Pavimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -677,6 +683,12 @@
   Generazione elettrica da sole: il cuore della transizione energetica degli edifici.
 - **Frantumazione in sito e riutilizzo degli inerti come aggregato riciclato** — Demolizioni — decostruzione e rifiuti · corso: *Demolizioni tecniche e fine vita degli edifici: indagini preliminari, piano di demolizione, tecniche esecutive e metodi speciali, decostruzione operativa, rifiuti CER 17 e frantumazione in sito, impatti, contesto urbano, economia* (`DEMOLIZIONI_FINE_VITA_PACK`)
   Trasformare il risultante di demolizione in aggregato direttamente in cantiere, con impianto mobile: il materiale rientra in opera come sottofondo, rilevato o riempimento, riducendo trasporti, conferimenti e acquisto di …
+- **Funi, veicoli e dispositivi di sicurezza: il cuore meccanico dell'impianto** — Componenti meccanici · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  La fune e' l'organo che porta e traina: trefoli d'acciaio a elevata resistenza, diametri tipici 20-60 mm, vita dipendente da fatica e corrosione. I veicoli (cabine, seggiole, ganci traino) si collegano alla fune tramite …
+- **Funicolari terrestri: veicoli su rotaia per pendenze estreme** — Tipologie · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  La funicolare terrestre e' un impianto con veicoli su binario (scartamento metrico o simile) trainati da fune: due vetture collegate si scambiano il peso sulle rampe, con stazione motrice a monte. Pendenze possibili fino…
+- **Funivie urbane e mobilita' a fune: la cabinovia come trasporto pubblico** — Mobilita' urbana · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  La mobilita' a fune urbana (cable transit) usa cabinovie ad ammorsamento automatico integrate nel trasporto pubblico: stazioni a filo pavimento, bigliettazione TPL, cadenzamento continuo, portate 2.000-5.000 persone/h pe…
 - **Funzioni e lettura dei grafici tecnici** — Funzioni e grafici · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   Diagrammi momento-taglio, curve di carico, andamenti termici: leggere e capire i grafici.
 
@@ -1285,6 +1297,8 @@
   Applicazione di membrane liquide cementizie o poliuretaniche sotto piastrellatura in bagni, balconi e terrazzi. Errore tipico: saltare fasce e angolari nei raccordi parete-pavimento e non rispettare gli spessori per mano…
 - **Impermeabilizzazioni liquide: poliuretano, PMMA e poliurea a spruzzo senza giunti** — Membrane · corso: *Impermeabilizzazioni speciali: opere interrate, vasche, ponti e collaudi di tenuta* (`IMPERMEABILIZZAZIONI_SPECIALI_PACK`)
   Dove le membrane incontrano troppi dettagli (sfiati, emergenze, ringhiere, geometrie curve) la risposta moderna e' il liquido: si applica a rullo o a spruzzo e polimerizza in un manto continuo senza un solo giunto.
+- **Impianti a fune per il trasporto di persone: definizioni, attori e iter autorizzativo** — Quadro normativo · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  Gli impianti a fune per il trasporto di persone (funivie, funicolari, cabinovie, seggiovie, sciovie) sono opere a meta' strada tra costruzione e macchinario: le opere civili (stazioni, fondazioni dei sostegni, gallerie) …
 - **Impianti centralizzati, contabilizzazione calore e acqua calda comune** — Impianti comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
   La gestione tecnica degli impianti centralizzati: dai contatori di calore alla legionella.
 - **Impianti e servizi: acqua, scarichi, luce, obitorio** — Impianti e servizi · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
@@ -1319,6 +1333,8 @@
   I mix stampabili: requisiti di pompa-bilità, apertura di staglio, costruibilità (buildability).
 - **Ingegneria civile sostenibile: il Green Deal delle opere** — Sostenibilita · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
   Costruire clima-compatibile: cementi basso carbonio, riciclo, energia nelle opere.
+- **Inserimento ambientale: VIA, paesaggio e mitigazione degli impatti** — Progetto e ambiente · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  Un impianto a fune attraversa ambienti protetti: boschi, zone valanghive, aree Natura 2000, paesaggi vincolati. Il progetto ambientale comprende: studio degli attraversamenti faunistici e degli sfalci (minimi e mirati), …
 - **Interior design residenziale di pregio** — Interior residenziale · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   La casa di lusso: distribuzione, materiali, custom, tecnologia integrata.
 - **Interior design: tendenze e innovazione 2024-2026** — Tendenze interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -1973,6 +1989,8 @@
   Il LED ha sostituito incandescenza, fluorescenza e scarica: lunga vita, elevata efficienza, controllo istantaneo e dimmerabilita'. Ma la qualita' di un apparecchio LED dipende da chip, alimentatore (driver), selezione cr…
 - **Le SPA alberghiere: il benessere come motore di fatturato** — SPA · corso: *Tecnica alberghiera e hospitality* (`HOTEL_E_HOSPITALITY_TECNICO_PACK`)
   La SPA è il centro di profitto che cresce: il percorso benessere (idromassaggi, saune, bagno turco, piscina relax, sale trattamenti) porta ospiti in bassa stagione e aumenta il valore della camera; il progetto integra l'…
+- **Le stazioni: opere edili, macchine e flussi di imbarco** — Opere civili · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  Le stazioni (monte e valle, piu' eventuali intermedie) sono edifici industriali con vincoli speciali: ospitano pulegge motrici o di rinvio (diametri fino a 6 m), gruppi di tensionamento della fune (carrelli su rotaia o m…
 - **Le strade: classificazione e geometria** — Strade · corso: *Infrastrutture viarie e urbanizzazioni* (`INFRASTRUTTURE_VIARIE_PACK`)
   Le strade si classificano per funzione (autostrade, strade extraurbane principali/secondarie/locali, strade urbane) e ogni classe ha la sua geometria: larghezza carreggiata, raggio minimo delle curve, pendenze longitudin…
 - **Le strutture composte acciaio-calcestruzzo avanzate** — Compositi avanzati · corso: *Costruzioni speciali e opere d'ingegneria* (`COSTRUZIONI_SPECIALI_PACK`)
@@ -2649,6 +2667,8 @@
   Interventi su costruzioni dissestate: si solleva, si raddrizza o si trasla l'edificio invece di demolirlo.
 - **Sonde geotermiche verticali: perforazione, immissione e cementazione** — Scambiatori · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
   La sonda verticale e' lo scambiatore geotermico piu' diffuso: un foro profondo, un circuito in polietilene immerso e una cementazione termoconduttiva che chiude l'intercapedine. Semplice nel concetto, implacabile nell'es…
+- **Sostegni di linea e fondazioni in quota: piloni, plinti e ancoraggi** — Opere civili · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  I sostegni di linea (piloni in acciaio zincato, alti da pochi metri a oltre 30 m) portano le batterie di rulli su cui scorre la fune. Le fondazioni sono il nodo critico in montagna: plinti in c.a. su roccia, micropali o …
 - **Sostegni provvisionali degli scavi: scarpate, badinaggi e blindaggi che salvano la vita** — Scavi · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
   Lo scavo a cielo aperto uccide per ribaltamento dei fronti: un metro cubo di terra pesa 1.600-2.000 kg e non da' segnali prima di cedere. Il D.Lgs 81/2008 (Titolo IV, Capo II) impone la scelta tra tre strategie: scavo a …
 - **Sostenibilità in azienda agricola: fotovoltaico, biogas e autoconsumo** — Sostenibilità · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2817,6 +2837,8 @@
   Lo spazio pubblico, la densità, la mobilità: le regole della città funzionante.
 
 ## V
+- **Va-e-vieni, cabinovie, seggiovie, sciovie: scegliere il sistema giusto** — Tipologie · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  La scelta del tipo di impianto si decide su tre numeri: portata oraria richiesta, pendenza e lunghezza della tratta, condizioni climatiche del sito. La funivia va-e-vieni (cabine da 20-150 posti su funi portanti, trainat…
 - **Valanghe: zone di esposizione, opere di protezione e vincoli** — Azioni climatiche · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Nelle zone esposte, la valanga e' un vincolo di localizzazione prima che un carico: le carte di pericolosità valanghiva definiscono dove si puo' costruire e con quali prescrizioni; le opere di protezione (deviatori, fran…
 - **Varo di ponti: spinta, sbalzo e grandi sollevamenti** — Costruzione ponti · corso: *Metodi costruttivi avanzati* (`METODI_COSTRUTTIVI_AVANZATI_PACK`)
@@ -2833,6 +2855,8 @@
   Aspirazione e ricambio nei luoghi di lavoro: salute obbligatoria e spesso progettata male.
 - **Ventilazione e qualita' dell'aria nelle autorimesse: monossido, fumi e manutenzione** — Parcheggi — sicurezza antincendio · corso: *Parcheggi e autorimesse: quadro normativo (Tognoli e standard), geometria (posti, corsie, rampe), parcheggi interrati, antincendio D.M. 1/2/1986, ventilazione e CO, silos e coperture carrabili, parcheggi meccanizzati, ricarica EV, parcheggi esterni, patologie e manutenzione, economia per posto auto* (`PARCHEGGI_AUTORIMESSE_PACK`)
   L'aria di un'autorimessa si contamina per definizione: monossido di carbonio, polveri, vapori di carburante e — in caso d'incendio — fumi caldi. La ventilazione ha un duplice compito igienico e antincendio, ed e' la voce…
+- **Vento, ghiaccio, neve e valanghe: l'esercizio invernale degli impianti** — Esercizio in condizioni climatiche · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  L'esercizio degli impianti a fune in ambiente alpino e' una gestione del rischio climatico. Vento: oltre soglie definite dal regolamento di esercizio (tipicamente raffiche di 60-90 km/h secondo esposizione) l'impianto ra…
 - **Verde pensile tra edilizia e vincoli: pratiche e regolamenti** — Pratiche · corso: *Tetti verdi e facciate vegetali* (`VERDE_TETTI_FACCIATE_PACK`)
   Il tetto verde e' quasi sempre intervento semplice dal punto di vista edilizio, ma non sempre: incidenza strutturale, altezze, vincoli paesaggistici e regolamenti comunali (che talvolta lo incentivano) decidono la pratic…
 - **Verifica in opera: luxmetro, accettazione e documentazione** — Controlli · corso: *Illuminazione tecnica e illuminotecnica* (`ILLUMINAZIONE_TECNICA_PACK`)
@@ -2861,6 +2885,8 @@
   Quasi tutto il territorio montano italiano e' vincolato: paesaggio, boschi, demanio idrogeologico, distanze da corsi d'acqua, regolamenti di decoro alpino. Il progetto nasce dai vincoli, non vi si adatta dopo.
 - **Vincolo idrogeologico e scelta del sito** — Sito e geologia · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
   La sepoltura in terra impone requisiti geologici stringenti: il sito deve garantire che il fondo delle fosse resti sopra il massimo livello della falda acquifera con un franco di sicurezza, che il terreno sia sufficiente…
+- **Vita utile, revamping e dismissione degli impianti a fune** — Manutenzione e revamping · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
+  Un impianto a fune ben mantenuto supera i 30-40 anni, ma i componenti invecchiano a velocita' diverse: veicoli e morse 20-30 anni, funi 10-25 anni secondo fatica e manutenzione, azionamenti e quadri 15-25 anni, opere civ…
 - **Vite** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Elemento filettato con testa che avvita in un foro preforato o in un inserto: fissaggio avvitato a coppia controllata, smontabile.
 - **Vivibilità e comfort abitativo: oltre l'estetica** — Vivibilità · corso: *Design, gusto e tendenze dell'edilizia* (`DESIGN_GUSTO_TENDENZE_PACK`)
