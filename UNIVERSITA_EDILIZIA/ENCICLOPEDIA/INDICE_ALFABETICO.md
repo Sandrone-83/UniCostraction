@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1428 voci enciclopediche tratte da 97 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1442 voci enciclopediche tratte da 98 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -91,6 +91,8 @@
   La resistenza antieffrazione si classifica secondo UNI EN 1627 in classi RC: RC1-RC2 (ladro occasionale, attrezzi semplici, pochi minuti), RC3 (cacciavite e piede di porco, 5 minuti), RC4 (utensili pesanti, 10 minuti), R…
 - **Antigelo e sverniciatori** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prodotti per il cantiere invernale e la manutenzione: antigelo per cls, sverniciatori, sgrassatori.
+- **Antincendio in istituto penitenziario: evacuare chi non puo' fuggire** — Antincendio ed emergenze · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  La strategia antincendio negli istituti penitenziari non puo' contare sull'esodo immediato: le persone detenute sono fisicamente vincolate. Il progetto si basa su: compartimentazione spinta per sezione (porte REI, taglia…
 - **Antincendio nelle grandi superfici commerciali** — Prevenzione incendi · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Le attività commerciali aperte al pubblico con superficie oltre soglia sono soggette al controllo dei Vigili del Fuoco e alla progettazione secondo il Codice di prevenzione incendi. I nodi critici sono: esodo in presenz…
 - **Antintrusione integrata** — Sicurezza · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
@@ -119,6 +121,8 @@
   Archivi e biblioteche vivono del doppio mandato conservazione + accesso: i documenti si conservano al buio, al fresco e stabili (depositi), ma si consultano in sale luminose e accoglienti. Il progetto distingue nettament…
 - **Aree esterne, parcheggi a raso e viabilità di contorno** — Aree esterne · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Nel retail le aree esterne sono parte del prodotto: parcheggi a raso capienti e leggibili, viabilità di accesso e svincoli, percorsi pedonali protetti dai varchi alle gallerie, aree di carico separate dai flussi clienti…
+- **Aree sanitarie, REMS e salute in istituto: progettare per la cura in custodia** — Sanita' penitenziaria · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  L'istituto ospita un presidio sanitario: ambulatori, infermeria con camere di degenza osservata, servizio odontoiatrico, spazi per la salute mentale, farmacia con stoccaggio controllato. Le REMS (residenze per l'esecuzio…
 - **Arginature fluviali e di bonifica: la difesa delle pianure** — Argini · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   I fiumi di pianura e la loro gabbia: argini in terra rinforzata e opere in cls.
 - **Armadi a muro, cabine armadio e sistemi di contenimento** — Armadi e cabine · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -415,6 +419,8 @@
   Il cappotto è l'intervento di riqualificazione con il miglior rapporto costo/beneficio disponibile in Italia: il costo completo si misura in €/m² di parete trattata e il beneficio in kWh/anno risparmiati e in comfort (te…
 - **Costi e tempi della bonifica: ordini di grandezza per il preventivo edilizio e il rischio commessa** — Economia · corso: *Bonifica siti ambientali per l'edilizia* (`BONIFICA_SITI_AMBIENTALI_EDILIZIA_PACK`)
   La bonifica è la voce di preventivo più incerta di un'opera di riqualificazione: i suoi costi dipendono da quantitativi, classificazione dei rifiuti, tecnologie scelte e tempi autorizzativi. L'ingegnere edile deve saper …
+- **Costi, appalti e manutenzione dell'edilizia penitenziaria** — Economia e gestione · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  L'edilizia penitenziaria costa piu' dell'edilizia ordinaria: sicurezza passiva, impianti speciali, materiali antivandalo e cantieri protetti portano i costi al mq a 1,5-2,5 volte quelli di una scuola. La committenza e' p…
 - **Costi, contratti e programmazione dei lavori ferroviari** — Economia e programma · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Come si stima, appalta e programma un cantiere lineare ferroviario.
 - **Costruzione, esercizio e piano industriale di un impianto a fune** — Economia · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
@@ -495,6 +501,8 @@
   Come le strutture 'ballano': periodi, smorzamento, spettri di risposta.
 - **Direttiva Case Green (EPBD IV): cosa cambia per l'edilizia** — Trend · corso: *Energetica edilizia e incentivi* (`ENERGETICA_INCENTIVI_PACK`)
   La direttiva 'Case Green' (EPBD IV, UE 2024/1275) aggiorna la direttiva sulle prestazioni energetiche degli edifici con l'obiettivo di edilizia a zero emissioni al 2050 e scaglioni intermedi: il recepimento nazionale def…
+- **Diritti, standard europei e futuro dell'edilizia penitenziaria** — Prospettive · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  L'edilizia carceraria si muove dove si muovono i diritti: gli standard CPT e le sentenze CEDU spingono verso spazi minimi garantiti, normalizzazione degli ambienti, eliminazione delle condizioni degradanti. Le prospettiv…
 - **Dish-Stirling: il solare a concentrazione di piccola taglia e il suo stato reale** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Il dish-Stirling e' un concentratore parabolico puntuale (dish) con un motore Stirling nel fuoco: converte direttamente in elettricita' senza ciclo a vapore, in taglie unitarie di pochi kW. Tecnologia elegante, mai decol…
 - **Dismissione e riuso delle chiese: destinazioni compatibili** — Edilizia di culto — riuso · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
@@ -567,6 +575,8 @@
   La manutenzione delle chiese è storicamente reattiva ('si ripara quando cade'): risultato, costi 3-5 volte maggiori e patologie avanzate. La manutenzione programmata (piano quinquennale: copertura, facciate, impianti, ca…
 - **Edifici in muratura e meccanismi locali: il nemico numero uno del patrimonio storico** — Sismica — edifici esistenti · corso: *Ingegneria sismica e protezione sismica: pericolosita' e spettri, stati limite, analisi, gerarchia delle resistenze, acciaio e legno in sisma, valutazione degli esistenti, muratura e meccanismi locali, classificazione del rischio D.M. 58/2017, isolamento alla base, dissipazione, elementi non strutturali, cantiere del miglioramento* (`INGEGNERIA_SISMICA_ISOLAMENTO_PACK`)
   Nei centri storici italiani il danno sismico nasce quasi sempre da meccanismi locali: pareti che ribaltano fuori piano, facciate che si staccano, archi e volte che cedono. La verifica dei meccanismi locali e' obbligatori…
+- **Edilizia penitenziaria: ordinamento, standard e attori** — Quadro normativo · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  L'edilizia carceraria e' regolata dall'ordinamento penitenziario (L. 26 luglio 1975 n. 354 e regolamento di esecuzione DPR 30 giugno 2000 n. 230), dalle sentenze della Corte EDU sul sovraffollamento (in particolare il gi…
 - **Edilizia residenziale pubblica e housing sociale** — Edilizia pubblica · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   L'edilizia pubblica abitativa è tornata centrale: ERP (edilizia residenziale pubblica) con assegnazione a canone calmierato, housing sociale (bandi regionali e nazionali con risorse PNRR), riqualificazione del patrimonio…
 - **Edilizia rurale e vincoli: costruire nel paesaggio agricolo** — Ambiente · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -623,6 +633,8 @@
   La scienza del valore: costrutto, finalità, metodi.
 - **Evacuazione vocale e emergenza** — Antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Diffusione sonora di emergenza: messaggi chiari che guidano l'uscita.
+- **Ex carceri: dismissione, restauro e riconversione degli edifici penitenziari storici** — Recupero · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  Il patrimonio penitenziario storico (panopticon ottocenteschi, ex conventi e fortezze convertiti) si dismette lentamente e si riconverte con fatica: vincolo culturale (D.Lgs 42/2004), strutture pensate per il controllo (…
 
 ## F
 - **Fabric first: l'involucro prima di tutto** — Involucro · corso: *Retrofit nZEB: riqualificazione energetica profonda degli edifici esistenti* (`RETROFIT_NZEB_PACK`)
@@ -1315,6 +1327,8 @@
   La dotazione impiantistica della RSA e' sanitaria leggera: (a) impianto di chiamata infermiera da ogni letto e da ogni bagno (tirante), con ripetizione al posto infermieri di modulo e log degli interventi; (b) gas medica…
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di re…
+- **Impianti tecnologici di sicurezza: controllo centralizzato, video e comunicazioni** — Impianti speciali · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  La centrale operativa di un istituto comanda: stato e comando delle porte (elettroserrature), videosorveglianza (centinaia di telecamere con registrazione certificata), interfonia di cella e di sezione, rilevazione intru…
 - **Impianto a sprinklers** — Idraulica antincendio · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Spegnimento automatico a pioggia: la protezione antincendio più efficace al mondo.
 - **Impianto di terra (SG)** — Elettrica · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
@@ -1547,6 +1561,8 @@
   Cosa c'è dentro la caldaia che scalda la maggior parte delle case italiane.
 - **La camera in RSA: dimensioni, bagno, ausili** — Residenzialita' per anziani — progettazione degli spazi · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
   La camera della RSA non e' una camera d'albergo con un letto in piu': deve consentire manovra di carrozzina attorno al letto, trasferimenti con sollevatore, assistenza di due operatori, presenza di un familiare. Valori r…
+- **La cella: dimensioni, servizi, arredi e qualita' ambientale** — Progettazione · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  La cella e' l'unita' abitativa coatta: deve garantire dignita' (standard CPT: 6 mq singola, 4 mq per detenuto in multipla, escluso il bagno), sicurezza (niente appigli, spigoli o parti smontabili utilizzabili come arma o…
 - **La chiusura di commessa: saldo, certificato di regolare esecuzione, garanzie** — Chiusura · corso: *Contabilità, computo e appalti dei lavori* (`CONTABILITA_APPALTI_PACK`)
   La fine dei lavori chiude il cerchio amministrativo: verbale di consegna definitiva, certificato di regolare esecuzione (nei pubblici, che libera la ritenuta di garanzia), restituzione delle garanzie e attivazione del pe…
 - **La classificazione dei terreni: UNI EN ISO 14688** — Terreni · corso: *Geotecnica e fondazioni* (`GEOTECNICA_E_FONDAZIONI_PACK`)
@@ -1833,6 +1849,8 @@
   Blocco in argilla cotta con fori verticali (fino al 55% del volume): alleggerisce, isola e riduce il consumo di argilla: il mattone moderno dei muri portanti.
 - **Lattoneria in rame e zinco** — Coperture · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Lamiere di rame, zinco-titanio o alluminio preverniciato per gronde, camini e dettagli di copertura.
+- **Lavorare dentro un istituto in esercizio: logistica, scorte e regole del cantiere protetto** — Cantiere in istituto · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  Il cantiere in istituto operativo e' un cantiere dentro un organismo che non si ferma mai: le aree di lavoro sono separate con recinzioni fisiche presidiate; il personale e' soggetto a verifiche di ingresso (documenti, c…
 - **Lavorazioni di superficie: taglio, levigatura, lucidatura, bocciardatura, fiammatura** — Lavorazioni - superfici · corso: *Pietre naturali e materiali lapidei* (`PIETRE_NATURALI_E_LAPIDEI_PACK`)
   La finitura superficiale determina aspetto, scivolosità e resistenza della pietra: dalla superficie segata grezza alla lucidatura a specchio, passando per levigatura, bocciardatura, fiammatura e spazzolatura. Ogni proces…
 - **Lavori alle parti comuni: facciate, tetti e cappotto condominiale** — Lavori comuni · corso: *Gestione condominiale* (`GESTIONE_CONDOMINIO_PACK`)
@@ -2295,6 +2313,8 @@
   Il legno è il più antico dei materiali da costruzione e il più moderno: rinnovabile (cresce), sequestra CO2 (un m³ di legno stocca ~1 tonnellata di CO2), leggero (5 volte più del calcestruzzo), isolante naturale, lavorab…
 - **Perforazione, prove e collaudo: gli errori geotermici si pagano per trent'anni** — Cantiere · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
   Il cantiere geotermico concentra il rischio in poche settimane: perforazioni, cementazioni, allacci, collaudo. Gli errori fatti qui non si vedono in superficie e non si riparano: la difesa e' un protocollo di verifica do…
+- **Perimetro, cinta e recinzioni: il confine dell'istituto** — Sicurezza perimetrale · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  Il perimetro penitenziario e' un sistema stratificato: cinta muraria (storica o in pannelli prefabbricati armati, altezza tipica 5-8 m), spazio di rispetto interno illuminato e videosorvegliato, seconda recinzione con ri…
 - **Perizia assicurativa e liquidazione dei sinistri edilizi** — Sinistri · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   Come si valuta e si liquida un sinistro su costruzioni e cantiere.
 - **Perizia dei danni edilizi: infiltrazioni, umidità e dissesti** — Danno tecnico · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
@@ -2431,6 +2451,8 @@
   Profili in lamiera zincata (C, U, omega, montanti) che formano il telaio delle pareti e controsoffitti.
 - **Profilo inox per scale** — Metalli · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Corrimano e supporti in acciaio inox satinato: le scale moderne e i parapetti.
+- **Progettare il nuovo istituto: tipologie moderne e cantiere da zero** — Nuove costruzioni · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  Il nuovo istituto penitenziario moderno abbandona il panopticon per il modello a campus: edifici separati per funzione (sezioni detentive, servizi, lavoro, sanita', amministrazione), perimetro compatto, sezioni piccole c…
 - **Progettare le opere provvisionali: carichi, vento, combinazioni e quando serve il calcolo firmato** — Progetto · corso: *Ponteggi e opere provvisionali: ponteggi a telai e multidirezionali, trabattelli, casseforme, puntelli, sostegni di scavo, protezioni, ponti su cavalletti, calcolo e gestione* (`PONTEGGI_OPERE_PROVVISIONALI_PACK`)
   Non tutte le provvisionali nascono uguali: lo schema tipo autorizzato (ponteggio a telai entro altezze e maglie standard, ponte su cavalletti da libretto) e' gia' un progetto implicito; fuori da quei binari — ponteggi al…
 - **Progetto aeroportuale: piste, piazzali, terminal** — Aeroporti · corso: *Ingegneria civile* (`INGEGNERIA_CIVILE_PACK`)
@@ -2619,6 +2641,8 @@
   Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idrostatica, la tenuta, la pulizia e la sicurezza; materiali: calcestruzzo (getto in opera o prefabbricato), acciaio, GRP (plastica rinforzata).
 - **Serbatoi geocellulari interrati: la detenzione modulare sotto piazzali** — Detenzione · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
   Quando il volume di laminazione non trova posto in superficie, si costruisce sotto: i serbatoi geocellulari (moduli in plastica ad alta superficie vuota) realizzano invasi interrati sotto parcheggi e piazzali, eventualme…
+- **Serramenti, grate e chiusure di sicurezza: la pelle dell'istituto** — Sicurezza passiva · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  Le chiusure di sicurezza in un istituto penitenziario lavorano su tre livelli: perimetro (cinta, portoni, recinzioni), edificio (facciate con grate e serramenti certificati) e locale (porte di cella e di sezione). Le por…
 - **Serre per orticoltura e florovivaismo: strutture e climatizzazione** — Serre · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
   La serra come macchina agricola: struttura, copertura e controllo del clima interno.
 - **Sezioni, spaccati e dettagli costruttivi** — Sezioni e spaccati · corso: *Disegno tecnico e rappresentazione* (`DISEGNO_TECNICO_MANUALE_PACK`)
@@ -2677,6 +2701,8 @@
   In una residenza per anziani gli spazi comuni sono il cuore funzionale: soggiorni di piano (20-40 posti per modulo), sala da pranzo (spesso 1,5-2 m2/posto per turno), palestra/fisioterapia, ambulatorio, spazi di relazion…
 - **Spazi per il pubblico: foyer, servizi, accessibilità** — Front of house · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
   Il front of house vende l’esperienza: biglietteria, guardaroba, foyer, bar, servizi igienici dimensionati sull’affollamento degli intervalli, percorsi accessibili a ogni posto riservato. Sono gli spazi che la commissione…
+- **Spazi trattamentali, colloqui e aree passeggio: l'istituto oltre la cella** — Spazi comuni · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  La funzione rieducativa della pena (art. 27 Cost.) si traduce in spazi: scuola e aule, biblioteca, laboratori di lavoro, sale sociali e attivita' per sezione, cappella/luoghi di culto, palestra e campo sportivo, sale col…
 - **Spese generali, utile d'impresa e oneri accessori** — Procedure operative · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
   Il prezzo unitario di prezzario non e' il costo diretto: include le spese generali d'impresa (struttura, cantieri, amministrazione) e l'utile. Capire questa struttura serve a leggere i prezzi, formare le offerte e verifi…
 - **Spogliatoi e servizi igienici: dimensionamento per utenza** — Servizi e spazi funzionali · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
@@ -2771,6 +2797,8 @@
   Le forme dell'edilizia secondo funzione: regole, dimensioni, standard.
 - **Tipologie di impianti sportivi: dall'impianto scoperto al palazzetto dello sport** — Tipologie e classificazione · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Panoramica delle tipologie edilizie dedicate all'attività sportiva: impianti scoperti (campi di calcio, atletica, tennis, rugby), palazzetti polivalenti coperti, palestre e centri sportivi polifunzionali. Le piscine, per…
+- **Tipologie di istituto e organizzazione in circuiti e sezioni** — Progettazione · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
+  L'istituto penitenziario si organizza per circuiti (alta sicurezza, media sicurezza, custodia attenuata) e sezioni detentive autosufficienti: ogni sezione ha celle, spazi comuni (sala socialita', docce, cucinetta), acces…
 - **Tipologie di sala e dimensionamento per spettatore** — Tipologie e sala · corso: *Teatri e locali di pubblico spettacolo: agibilita' e licenza (TULPS, D.M. 19/8/1996, commissione di vigilanza), tipologie di sala e dimensionamento per spettatore, esodo e prevenzione incendi con affollamento, acustica di sala (riverbero, NR, box-in-box), palcoscenico e torre scenica (macchinismo, graticcia, argani), strutture di grande luce, impianto elettrico scenico e sicurezza, HVAC a bassa rumorosita', front of house (foyer, servizi, accessibilita'), back of house (carico scenico, camerini, depositi), adeguamento dei teatri storici, economia e gestione della sala* (`TEATRI_LOCALI_SPETTACOLO_PACK`)
   La sala da spettacolo si dimensiona attorno al rapporto palcoscenico-pubblico: teatro all’italiana (sala a ferro di cavallo con palchi), sala con platea e gallerie, anfiteatro e arena, black box flessibile, sala da conce…
 - **Tipologie di workplace: cell office, open space, activity-based** — Workplace · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)

@@ -1,4 +1,20 @@
 
+## Giro AY — 2026-11-13, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (AY1: modello unico SUER D.M. 223/2026 nel pack FV); nuovo pack EDILIZIA_CARCERARIA_PACK (14 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AY1 | Correzione | Scheda «Gli adempimenti autorizzativi dei grandi fotovoltaici» (FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK, riga 9): campo normative senza riferimento al modello unico SUER | Aggiunta nota datata 13/11/2026: il MASE ha adottato il D.M. 15 luglio 2026 n. 223, che istituisce il modello unico semplificato per la presentazione delle pratiche al SUER (Sportello Unico per le Energie Rinnovabili) nell'ambito del D.Lgs 190/2024; da verificare il testo del decreto sul sito MASE | bibus.acca.it (10/11/2026) — verifica web 13/11/2026 |
+| AY2 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): nota del 12/11/2026 | Confermata: audizioni Manovra concluse il 12/11; memoria CNEL dell'11/11 conferma art. 4 (50%/36%, massimale 96.000 euro, bonus mobili 50% su 5.000 euro, 50 milioni elettrodomestici 2027); CNA/Confartigianato chiedono Ecobonus 65% e bonus mobili a 10.000 euro: fuori dal testo; stampa 12-13/11 riferisce discussione su possibile stralcio dell'art. 37 (crediti Superbonus in 10 rate) — NON confermato; emendamenti entro il 17/11 ore 18 | cnel.it memoria audizione (11/11/2026), pmi.it (13/11/2026), tuoingegnere.altervista.org (12/11/2026) — verifica web 13/11/2026 |
+| AY3 | Verifica senza correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): note 23/10 e 10/11 | Confermata: correttivo ancora NON adottato dal MASE ne' pubblicato in GU | monitoraggio MASE/GU e stampa tecnica — verifica web 13/11/2026 |
+| AY4 | Verifica senza correzione | Schede CER e Reddito Energetico: note vigenti | Confermate: nessuna novita'; sportello RE ancora chiuso | gse.it e stampa di settore — verifica web 13/11/2026 |
+| AY5 | Nuovo pack | — | EDILIZIA_CARCERARIA_PACK: 14 schede (normativa L. 354/1975 + DPR 230/2000 + CPT/CEDU; circuiti e sezioni; cella; chiusure di sicurezza; spazi trattamentali; perimetro; impianti di sicurezza; antincendio; sanita' e REMS; riconversione ex carceri; nuove costruzioni; cantiere in istituto; economia; standard europei), livello L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE | redazione interna |
+| AY6 | Nuovo esame | — | ESAMI/EDILIZIA_CARCERARIA: 250 domande; chiavi in ESAMI_RISPOSTE (fuori repository) | build_esami_giro5 |
+| AY7 | Validazione | 96 pack / 1266 schede / 98 esami | 97 pack / 1280 schede / 99 esami; 0 errori; 109 warning legacy invariati | _validate_giro.py |
+
+Righe aperte nel giro: DDL Bilancio 2027 — emendamenti entro 17/11 ore 18, vaglio 23-24/11, Aula primi di dicembre (possibile stralcio art. 37 da verificare; richieste CNA/Confartigianato fuori dal testo); CT 3.0 — adozione correttivo MASE e pubblicazione GU; modello unico SUER D.M. 223/2026 — testo da verificare su mase.gov.it; CER — saldo contributi PNRR al 31/12/2026; Reddito Energetico — riapertura sportello GSE; EPBD — recepimento.
+
 ## Giro AX — 2026-11-12, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (AX1: nota 12/11 su calendario parlamentare, Ecobonus 65% fuori dal testo, art. 37 senza eccezioni sisma, richiesta ANCE); nuovo pack FUNIVIE_IMPIANTI_A_FUNE_PACK (13 schede) con esame.
