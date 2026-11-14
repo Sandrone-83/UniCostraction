@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-582 voci, 35 corsi.
+595 voci, 36 corsi.
 
 
 ## Ascensori e movimentazione verticale
@@ -2179,6 +2179,206 @@ La palestra scolastica è l'ambiente più impegnativo dell'edificio dal punto di
 - **Caso tipico:** Caso tipo: un comune deve sostituire una palestra scolastica anni Sessanta non più conforme alle esigenze sismiche e funzionali. Il progetto prevede una nuova palestra a pianta rettangolare con luce libera di 18 m e altezza libera di 7,5 m, struttura in acciaio a portali con controventi, copertura con pannelli coibentati e lucernari, pareti con fascia tamburello, pavimento in legno sportivo. Il cantiere si svolge in parallelo alla demolizione della palestra esistente, con uso di una palestra convenzionata in attesa. La palestra viene consegnata con collaudo statico, verifica acustica, collaudo degli impianti e certificazione delle attrezzature sportive, e viene aperta anche alle società sportive locali con convenzione regolata.
 - **Normativa:** Norme Tecniche per le Costruzioni (D.M. 17 gennaio 2018) per il progetto strutturale, con attenzione agli ambienti di assembramento. Norme tecniche per l'edilizia scolastica (Ministero dei Lavori Pubblici, norme tecniche aggiornate relative all'edilizia scolastica) per i requisiti degli spazi per l'educazione fisica. DPCM 5 dicembre 1997 per i requisiti acustici. UNI EN 12464-1 per l'illuminotecnica. Codice di prevenzione incendi (D.Lgs 139/2006 e s.m.i.) per gli adempimenti antincendio degli ambienti di assemblaggio. D.Lgs 81/2008 per la sicurezza di attrezzature e luoghi di lavoro.
 - **Nota di cantiere:** La sicurezza del cantiere in demolizione e ricostruzione di palestre vicine ad edifici occupati richiede recinzioni certificate e monitoraggio delle vibrazioni durante le demolizioni. Le strutture in acciaio richiedono controllo qualità delle saldature e della carpenteria, con verbali di collaudo del costruttore. La posa del pavimento sportivo va protetta fino alla fine dei lavori, con calendario di posa concordato e ambienti consegnati a umidità controllata. Le attrezzature sportive vanno installate da ditte specializzate con prove di carico e certificati di conformità. Prima della consegna eseguire la verifica acustica e illuminotecnica in situ e consegnare il manuale di manutenzione del pavimento sportivo e delle attrezzature.
+
+
+## FIERE_E_CONGRESSI_PACK
+
+*Corso `FIERE_E_CONGRESSI_PACK` — 13 voci*
+
+### Accessibilita' e servizi al pubblico: il polo a misura di tutti
+
+**Categoria:** Accessibilita' · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il polo fieristico serve migliaia di visitatori con esigenze diverse: percorsi accessibili dai parcheggi ai padiglioni (navette, percorsi coperti), ingressi senza barriere con biglietteria ribassata, servizi igienici dimensionati sui picchi (non sulla media: le code delle pause congressuali sono il vero dimensionamento), percorsi tattili e segnaletica per non vedenti, sale quiete per persone con ipersensibilita', nursery, punti ristoro accessibili, posteggi disabili in numero coerente con l'affluenza (minimo normativo piu' quota eventi). Il riferimento tecnico resta il D.M. 236/1989, con l'attenzione cresciuta verso l'accessibilita' sensoriale e cognitiva oltre che motoria.
+
+- **Tecnologia e criteri:** Percorsi principali con larghezza libera >= 1,50 m (meglio 2,40 m nei flussi bidirezionali); rampe <= 8% con pianerottoli; servizi igienici con rapporto posti/affluenza studiato sui picchi (indicativo: 1 WC/150-250 visitatori in fiera, piu' le postazioni disabili distribuite); audioguide e sistemi a induzione magnetica nelle sale congressuali; mappa accessibilita' pubblicata online prima dell'evento.
+- **Applicazioni:** Fiere aperte al pubblico, congressi, eventi familiari, manifestazioni con pubblico anziano o scolaresche.
+- **Vantaggi:** L'accessibilita' fatta bene allarga il pubblico (anziani, famiglie, disabili) e riduce i reclami; i servizi dimensionati sui picchi sono il primo indicatore di qualita' percepita; la mappa accessibilita' online riduce le richieste di assistenza in loco.
+- **Limiti e attenzioni:** I servizi igienici nei padiglioni storici sono sottodimensionati e difficili da ampliare (colonne montanti); l'accessibilita' sensoriale e cognitiva e' terreno nuovo: pochi standard, molta sperimentazione.
+- **Costi ed economia:** Ordini di grandezza indicativi: blocco servizi nuovo 100-300 k€; adeguamento accessibilita' di ingresso e percorsi 50-200 k€; sistemi a induzione magnetica per sala congressi 10-40 k€; mappa e segnaletica accessibile 10-40 k€.
+- **Caso tipico:** Caso tipo: salone del libro con forte pubblico di famiglie: introduzione di sale quiete, nursery e percorsi tattili; recensioni del pubblico sulla voce 'accoglienza' migliorate misuratamente nell'edizione successiva.
+- **Normativa:** D.M. 236/1989; L. 13/1989; DPR 380/2001; UNI EN 17210 (accessibilita' dell'ambiente costruito, quadro europeo).
+- **Nota di cantiere:** Conta i servizi igienici nell'ora di punta dell'evento piu' affollato dell'anno, non il martedi' pomeriggio: la fila di 20 minuti e' il modo piu' veloce di farsi ricordare male.
+
+### Stand e allestimenti temporanei: strutture, materiali e regole del gioco
+
+**Categoria:** Allestimenti · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Lo stand e' un edificio di tre giorni: strutture modulari in alluminio, pareti in pannelli, grafiche in PVC o tessuto, pavimentazioni rialzate con canaline, soppalchi per gli stand piu' grandi (con verifica statica e scale di sicurezza). Le regole del polo fissano: altezze massime, distanze dai corridoi, divieto o procedura per gli ancoraggi alla platea, obbligo di materiali con classe di reazione al fuoco dichiarata (documentazione da consegnare in fase di montaggio), certificazione di corretta posa per le strutture sopra soglia (soppalchi, coperture, torri). Il montaggio e' lavoro in quota e in affollamento: DUVRI tra gestore, espositore e allestitore, ponteggi o PLE, DPI obbligatori.
+
+- **Tecnologia e criteri:** Sistemi modulari in profili di alluminio con nodi standardizzati; pavimentazioni rialzate 5-15 cm con canaline integrate; tessuti e grafiche con certificati di reazione al fuoco (classe 1 nazionale o B-s1,d0 europea secondo la richiesta del polo); soppalchi con calcolo strutturale firmato e collaudo in opera; illuminazione a LED con alimentatori in luogo accessibile.
+- **Applicazioni:** Stand espositivi, aree demo con macchinari, strutture per eventi temporanei in esterni, installazioni scenografiche.
+- **Vantaggi:** La modularita' abbatte tempi e costi di allestimento; la documentazione antincendio controllata in ingresso protegge gestore e organizzatore; i soppalchi certificati aprono la seconda quota di visibilita' agli espositori premium.
+- **Limiti e attenzioni:** La fretta del montaggio produce scorciatoie pericolose (ancoraggi non dichiarati, materiali senza certificati); i rifiuti di fine evento sono enormi se lo stand non e' riutilizzabile; lo spazio tra regole scritte e prassi reale va presidiato con controlli veri.
+- **Costi ed economia:** Ordini di grandezza indicativi: stand modulare base 80-250 €/mq per evento (noleggio e montaggio); stand personalizzato 300-800 €/mq; soppalco stand 400-900 €/mq; depositi cauzionali per rifiuti e ripristino 10-50 €/mq.
+- **Caso tipico:** Caso tipo: polo che ha introdotto il 'libretto dello stand': certificati materiali, schemi elettrici e dichiarazione di corretta posa obbligatori prima dell'apertura; calo immediato delle contestazioni VVF e degli incidenti di montaggio.
+- **Normativa:** D.Lgs 81/2008 Titolo IV (cantieri temporanei, applicabile al montaggio); UNI EN 13501-1 (reazione al fuoco) e norme nazionali sui materiali; regolamento del polo fieristico (documento contrattuale); CEI 64-8 per gli impianti degli stand.
+- **Nota di cantiere:** Non accettare mai il certificato di reazione al fuoco 'della stessa serie': o il certificato ha il nome del prodotto esatto in fiera, o lo stand non apre. Le eccezioni le paghi tu.
+
+### Economia del polo fieristico: costi, ricavi e modello di gestione
+
+**Categoria:** Economia · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il modello economico fieristico ha tre gambe: affitto degli spazi espositivi (il canone al mq per evento, con minimi e servizi a parte), servizi agli espositori (allestimenti, energia, dati, logistica: margini alti), eventi propri o in partnership. I costi: personale, energia dei grandi volumi, manutenzione di strutture enormi, marketing territoriale. La gestione vincente massimizza i giorni di occupazione (eventi back-to-back) e la quota servizi sul fatturato (obiettivo tipico 30-50%). I poli pubblici lavorano spesso in pareggio gestionale con ricadute sul territorio; i modelli PPP caricano sul privato la costruzione in cambio della gestione pluriennale.
+
+- **Tecnologia e criteri:** Pricing dinamico per calendario e posizione stand; contabilita' per evento (centro di costo/ricavo); misura dei consumi per stand; contratti di manutenzione full-service; dashboard KPI (occupazione, ricavo/mq, NPS espositori); modelli di partnership con gli organizzatori (rischio condiviso).
+- **Applicazioni:** Poli fieristici nazionali e regionali; centri congressi; gestioni miste pubblico-privato; valutazioni di nuovi investimenti espositivi.
+- **Vantaggi:** La leva servizi trasforma un canone immobiliare in margine commerciale; l'occupazione continua stabilizza i conti; l'indotto territoriale giustifica il sostegno pubblico.
+- **Limiti e attenzioni:** Concorrenza tra poli e con i formati digitali; il calendario eventi si decide con anni di anticipo (rischio di portafoglio); i costi fissi non scendono quando il mercato scende.
+- **Costi ed economia:** Ordini di grandezza indicativi: canone espositivo base 60-200 €/mq per evento di piu' giorni; servizi aggiuntivi 30-80% del canone; costi di gestione di un polo medio 5-30 milioni/anno; investimento in marketing territoriale 2-8% del fatturato.
+- **Caso tipico:** Caso tipo: polo regionale in difficolta' che passa da gestione passiva a direzionale: calendario concentrato in cluster tematici, servizi interni (allestimenti, energia, dati) portati al 40% del fatturato, pareggio raggiunto in quattro stagioni.
+- **Normativa:** Normativa civilistica e fiscale ordinaria; disciplina degli aiuti di Stato per i sostegni pubblici (GBER e de minimis) dove pertinente; D.Lgs 36/2023 per gli appalti dei gestori pubblici.
+- **Nota di cantiere:** Il canone al mq paga i muri; i servizi pagano gli utili. Se il tuo polo fattura solo spazi, stai gestendo un magazzino, non una fiera.
+
+### Logistica fieristica: carico, allestimento e smontaggio in 72 ore
+
+**Categoria:** Flussi e logistica · **Corso:** FIERE_E_CONGRESSI_PACK
+
+La vita di un padiglione si misura nei giorni di allestimento: 2-4 giorni per trasformare il capannone vuoto in una fiera pronta. La logistica e' progetto: piazzali di carico con bocche di lupo dimensionate per gli autoarticolati (altezza libera 4,5-5 m), rampe carrabili ai piani, percorsi muletti separati dai visitatori, aree di stoccaggio casse vuote durante l'evento, biglietteria con code gestibili nei picchi (barriere a serpentina, 2-4 mq/persona in attesa). Lo smontaggio e' la fase piu' critica: tempi contrattuali stretti, sovrapposizione con l'evento successivo, gestione dei rifiuti degli allestimenti (materiale ligneo, moquette, grafiche) con obbligo di ripristino del padiglione 'come consegnato'.
+
+- **Tecnologia e criteri:** Bocche di carico con paracolpi e pedane di livellamento; segnaletica orizzontale con corsie muletti; area casse vuote con inventario; gestione rifiuti con isole ecologiche per materiale (legno, moquette, PVC grafico, RAEE); prenotazione slot di carico/scarico per espositore; verifica finale del padiglione con verbale e foto.
+- **Applicazioni:** Fiere di settore, saloni con macchinari pesanti, eventi con scadenze ravvicinate (back-to-back), trasferte di padiglioni tra citta'.
+- **Vantaggi:** La logistica veloce e' un argomento commerciale (gli organizzatori pagano per i tempi di allestimento brevi); la separazione dei flussi mezzi/persone elimina gli incidenti piu' gravi del settore; l'inventario casse riduce i contenziosi di fine evento.
+- **Limiti e attenzioni:** Gli slot di carico in conflitto generano code su strada pubblica (rapporti con il comune); lo smontaggio notturno costa il doppio in straordinari; i materiali abbandonati dagli espositori restano un costo della gestione.
+- **Costi ed economia:** Ordini di grandezza indicativi: realizzazione bocche di carico attrezzate 20-60 k€ cad.; gestione rifiuti di fine evento grande 30-150 k€; personale logistico di allestimento 50-200 k€/evento grande; danni da ripristino non addebitati 1-5% del canone.
+- **Caso tipico:** Caso tipo: salone con 1.200 espositori e finestre di allestimento di 48 ore: introduzione degli slot prenotati di carico e del deposito cauzionale per lo smaltimento; tempi medi di uscita dimezzati e padiglione riconsegnato senza contenziosi.
+- **Normativa:** D.Lgs 81/2008 (cantieri e lavori di allestimento, DUVRI); regolamenti dei poli fieristici su orari e modalita' logistiche; normativa rifiuti (D.Lgs 152/2006) per gli allestimenti.
+- **Nota di cantiere:** Il giorno piu' pericoloso della fiera e' l'ultimo: muletti di fretta, telai smontati sopra la testa, cavi scoperti. Il tuo piano sicurezza si scrive per lo smontaggio, non per l'inaugurazione.
+
+### Impianti tecnologici fieristici: trincee, potenza, aria e dati a pavimento
+
+**Categoria:** Impianti · **Corso:** FIERE_E_CONGRESSI_PACK
+
+L'infrastruttura impiantistica del padiglione moderno e' sotto i piedi: trincee tecniche ispezionabili a passo regolare (tipico 6 m) con quadri elettrici, prese industriali (63-125 A), aria compressa (6-10 bar per macchinari espositivi), scarichi e acqua per gli stand food, rete dati in fibra e rame. In copertura: HVAC per grandi volumi (UTA ad alta portata con free-cooling, recuperatori), illuminazione naturale controllata (luci di capannone con schermi antiabbagliamento) piu' elettrica dimmerabile. La potenza impegnata di un padiglione attrezzato e' di 50-150 W/mq di media, con picchi ben oltre per eventi speciali: la cabina di trasformazione dedicata e' obbligatoria.
+
+- **Tecnologia e criteri:** Trincee con chiusini carrabili classe D400; dorsali in sbarre e cavidotti di riserva (regola: 30% di spazio libero); misura dell'energia per stand (fatturazione agli espositori); UPS per sicurezza e biglietteria; BMS con gestione per zone (solo i padiglioni occupati si climatizzano); impianto di ricambio aria dimensionato anche per carichi da folla estrema (5.000-15.000 persone/padiglione).
+- **Applicazioni:** Fiere di settore con macchinari in funzione; eventi con cucine live; congressi con regia e streaming; allestimenti con realta' immersiva ad alto consumo.
+- **Vantaggi:** La trincea a pavimento elimina cavi volanti e cunicoli improvvisati (sicurezza e velocita' di allestimento); la misura per stand trasforma l'energia da costo a ricavo; il BMS per zone dimezza i consumi nei periodi di bassa occupazione.
+- **Limiti e attenzioni:** Le trincee si riempiono di materiali abbandonati: serve disciplina di fine evento con verbale di riconsegna; la potenza di picco non si improvvisa: eventi speciali richiedono gruppi elettrogeni noleggiati e verifiche di rete; l'umidita' e l'acqua nelle trincee sono nemici cronici.
+- **Costi ed economia:** Ordini di grandezza indicativi: rete di trincee attrezzate 400-800 €/m lineare; cabina elettrica dedicata 300-800 k€; HVAC padiglione 10.000 mq 1-3 milioni; revamping impianti di un padiglione 2-6 milioni.
+- **Caso tipico:** Caso tipo: fiera di macchinari con 400 stand alimentati: la gestione ha introdotto la prenotazione dei carichi in fase di iscrizione stand, con assegnazione quadri e verifica giornaliera dei consumi; eliminati i blackout del primo giorno.
+- **Normativa:** CEI 64-8 (impianti elettrici, ambienti particolari e manifestazioni temporanee); D.Lgs 81/2008 (lavori in allestimento); UNI EN 13779 (ventilazione); normativa sulle verifiche periodiche (DPR 462/2001) per i quadri delle trincee.
+- **Nota di cantiere:** Alla fine di ogni evento fai il giro trincee con il capo impianti e la fotocamera: quello che trovi (acqua, scarti, cavi scoperti) lo riscrivi nel verbale di riconsegna e lo addebiti. Altrimenti lo paghi tu al prossimo evento.
+
+### Titoli edilizi, agibilita' e prevenzione incendi del polo e degli eventi
+
+**Categoria:** Normativa · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il polo fieristico vive di titoli stratificati: titolo edilizio del complesso (PdC/SCIA secondo le opere), agibilita' dei singoli edifici (DPR 380/2001, art. 80 e ss.), prevenzione incendi con SCIA al VVF per le attivita' soggette (la categoria esatta per mostre, fiere e congressi va verificata sull'elenco del DPR 151/2011 e s.m.i. in funzione di capienza e configurazione), e per ogni grande evento temporaneo la pratica presso la commissione comunale/provinciale di vigilanza (agibilita' temporanea, D.M. 19/8/1996 per gli spettacoli). Il gestore mantiene un fascicolo del fabbricato aggiornato: varianti di allestimento, verifiche periodiche degli impianti (DPR 462/2001), verbali delle commissioni.
+
+- **Tecnologia e criteri:** Fascicolo del fabbricato digitale con planimetrie aggiornate per evento; pratiche VVF gestite per scadenze (SCIA iniziale, aggiornamenti, rinnovi); rapporto continuativo con la commissione di vigilanza per gli eventi ricorrenti; documentazione di agibilita' per ogni sala e padiglione con capienza autorizzata; archivio dei verbali con evidenza delle prescrizioni chiuse.
+- **Applicazioni:** Poli fieristici, centri congressi, palazzetti riconvertiti a eventi, spazi espositivi temporanei in edifici con altro uso prevalente.
+- **Vantaggi:** Il fascicolo aggiornato dimezza i tempi delle pratiche per evento; il rapporto consolidato con la commissione stabilizza i tempi di rilascio delle agibilita' temporanee; la conformita' continua protegge il gestore in caso di incidente.
+- **Limiti e attenzioni:** Le prescrizioni delle commissioni variano per territorio: standardizzare e' difficile; i tempi delle pratiche temporanee mal si combinano con eventi decisi in ritardo; ogni variante strutturale dimenticata invalida il titolo.
+- **Costi ed economia:** Ordini di grandezza indicativi: pratica di agibilita' temporanea per evento grande 2-10 k€ di costi tecnici; consulenza prevenzione incendi continuativa 20-80 k€/anno; adeguamenti a prescrizioni commissioni 10-200 k€ a intervento.
+- **Caso tipico:** Caso tipo: gestione di polo con 40 eventi/anno: creazione di un ufficio titoli con fascicolo digitale e calendario pratiche; tempi medi di rilascio delle agibilita' temporanee ridotti da 45 a 20 giorni.
+- **Normativa:** DPR 380/2001; DPR 151/2011 e s.m.i.; D.M. 19/8/1996 (locali di pubblico spettacolo, applicabilita' da verificare); DPR 462/2001; D.Lgs 42/2004 per i complessi storici.
+- **Nota di cantiere:** Tieni nel fascicolo anche le foto degli eventi passati: quando la commissione chiede 'come era allestito l'anno scorso', rispondi in dieci secondi e la pratica cammina.
+
+### Il centro congressi: sale, acustica e tecnologia per l'evento
+
+**Categoria:** Progettazione · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il centro congressi vende ore di sale perfette: plenaria con gradonata (300-3.000 posti, visibilita' totale sul palco), sale divisibili con pareti mobili insonorizzate (Rw tipico 50-55 dB), foyer dimensionato per i flussi di pausa (1,5-2,5 mq/persona), sale stampa, regia tecnica con controllo luci-audio-video, traduzione simultanea con cabine fisse, backstage e camerini. L'acustica e' il cuore tecnico: tempi di riverbero controllati (0,8-1,2 s nelle sale parlate), isolamento tra sale in uso simultaneo, silenziosita' degli impianti (NR 25-30). Il catering congressuale ha logica propria: cucine di finitura vicine alle sale, percorsi trolleys separati dal pubblico.
+
+- **Tecnologia e criteri:** Pareti mobili a pannelli sospesi con doppie guarnizioni; palchi modulari e gradonate smontabili; sistemi AV nativi IP (audio Dante, video su rete); cabine ISO 2603 per interpreti (da verificare la versione corrente della norma); illuminazione scenica con controllo DMX; microfonazione a colonna o array direzionale per la parola in grandi volumi.
+- **Applicazioni:** Centri congressi urbani, auditorium aziendali, sale assemblee di grandi organizzazioni, spazi congressuali in alberghi e campus.
+- **Vantaggi:** Le sale divisibili moltiplicano il prodotto vendibile (tre eventi medi battono un evento grande mancato); l'acustica fatta bene e' il primo motivo di ritorno dei clienti; il centro congressi alimenta hotel e ristorazione del territorio.
+- **Limiti e attenzioni:** Tecnologia AV obsoleta in 5-7 anni: budget di rinnovo continuo; le pareti mobili male installate perdono l'isolamento in pochi anni (giunzioni); il mercato congressuale e' sensibile alle mode e alla congiuntura.
+- **Costi ed economia:** Ordini di grandezza indicativi: centro congressi 2.500-5.000 €/mq; parete mobile insonorizzata 1.000-2.000 €/mq; impianto AV plenaria 0,3-1,5 milioni; acustica di sala grande (rivestimenti e correzioni) 150-500 k€.
+- **Caso tipico:** Caso reale noto: il centro congressi dell'EUR a Roma, inaugurato nel 2016 con sala plenaria sospesa nell'involucro vetrato, e' il riferimento italiano per integrazione tra architettura icona e tecnologia congressuale; i centri minori puntano su divisibilita' e costi di gestione bassi.
+- **Normativa:** D.M. 236/1989 (accessibilita'); DPR 380/2001 (agibilita'); UNI EN ISO 3382 (acustica delle sale, misurazioni); classificazione prevenzione incendi delle attivita' (da verificare sul DPR 151/2011 e s.m.i.).
+- **Nota di cantiere:** Collauda le pareti mobili con due eventi rumorosi simultanei simulati, non con il fonometro a vuoto: il cliente che sente l'evento di fianco non ti da' la seconda occasione.
+
+### Il futuro del settore: ibrido fisico-digitale, sostenibilita' e nuovi formati
+
+**Categoria:** Prospettive · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il settore fieristico-congressuale si trasforma: eventi ibridi (fisico + streaming con regia dedicata), padiglioni a energia quasi zero (fotovoltaico in copertura su superfici enormi, pompe di calore, BMS), allestimenti circolari (stand a noleggio riutilizzabili, materiali certificati, misura dell'impronta carbonica dell'evento), spazi congressuali diffusi (hub satellite collegati), misura dell'esperienza con dati reali (flussi, dwell time, heatmap). La sostenibilita' diventa criterio di scelta degli organizzatori: certificazioni di gestione sostenibile degli eventi (ISO 20121) sempre piu' richieste nei capitolati internazionali.
+
+- **Tecnologia e criteri:** Regie streaming integrate nelle sale; fotovoltaico di copertura multi-MW con accumulo; stand modulari circolari con passaporto dei materiali; sensoristica di flusso (contapersone, WiFi analytics nel rispetto del GDPR); certificazione ISO 20121 del sistema di gestione evento; report di sostenibilita' per evento (energia, rifiuti, trasporti).
+- **Applicazioni:** Fiere internazionali con buyer remoti; congressi medico-scientifici con ECM a distanza; eventi corporate con obiettivi ESG; poli in riconversione energetica.
+- **Vantaggi:** L'ibrido allarga il pubblico senza cannibalizzare il fisico (se progettato bene); la sostenibilita' certificata vince i capitolati internazionali; i dati di flusso vendono insight agli espositori.
+- **Limiti e attenzioni:** La regia ibrida costa e richiede competenze nuove; la circolarita' degli allestimenti riduce i margini del modello 'usa e getta'; i dati di flusso richiedono governance privacy seria.
+- **Costi ed economia:** Ordini di grandezza indicativi: regia streaming permanente per sala grande 100-400 k€; fotovoltaico di copertura 800-1.200 €/kWp installato; certificazione ISO 20121 20-60 k€ di implementazione; piattaforma dati di flusso 30-100 k€/anno.
+- **Caso tipico:** Caso tipo: salone internazionale con 30% di buyer esteri bloccati: edizione ibrida con regia dedicata e matchmaking digitale; quota estera mantenuta, edizione successiva tornata fisica con il digitale come servizio premium.
+- **Normativa:** ISO 20121 (gestione sostenibile degli eventi); GDPR per i dati di flusso; normativa energetica edilizia per i retrofit (D.Lgs 192/2005 e s.m.i.); linee guida ESG di settore (riferimento generale).
+- **Nota di cantiere:** Il primo evento ibrido fallisce sempre sullo stesso punto: l'audio per chi segue da remoto. Investi nel microfono della sala prima che nella telecamera: chi non sente, chiude.
+
+### Riconversione delle aree fieristiche storiche urbane: dalla fiera al quartiere
+
+**Categoria:** Recupero · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Molti quartieri fieristici storici sono nati dentro le citta' e sono diventati aree pregiate da trasformare: il percorso tipico vede il trasferimento del polo in sede moderna e la riconversione dell'area urbana a mix di residenze, uffici, cultura e verde. Il progetto di riconversione affronta: demolizione selettiva dei padiglioni senza valore, conservazione degli edifici icona (palazzi storici, torri, ingressi monumentali), bonifica dei terreni (decenni di uso industriale-espositivo), nuovo schema viario e paesaggistico, tempi lunghi con gestione transitoria dell'area (eventi temporanei durante la trasformazione).
+
+- **Tecnologia e criteri:** Due diligence su strutture esistenti (possibilita' di riuso di padiglioni come hub sportivi, culturali, produttivi); caratterizzazione ambientale dei suoli (D.Lgs 152/2006); masterplan con fasi e usi transitori; conservazione mirata degli elementi identitari; incentivi e strumenti urbanistici (programmi integrati, accordi pubblico-privato).
+- **Applicazioni:** Aree fieristiche storiche dismesse o in trasferimento; padiglioni icona da conservare; trasformazioni di grandi aree urbane con eredita' espositiva.
+- **Vantaggi:** Aree centrali di grande dimensione (rare in citta' consolidate); l'eredita' fieristica da' identita' al nuovo quartiere; gli usi transitori mantengono viva l'area durante l'iter (e generano ricavi).
+- **Limiti e attenzioni:** Iter lunghi (10-20 anni dal trasferimento al completamento); bonifiche con sorprese; contenziosi su valori e destinazioni; la conservazione degli edifici icona costa piu' della demolizione ma e' quasi sempre obbligata.
+- **Costi ed economia:** Ordini di grandezza indicativi: masterplan e iter di trasformazione 1-5 milioni; bonifica di area industriale-espositiva 50-300 €/mq di superficie; riuso di padiglione storico 1.200-3.000 €/mq; gestione transitoria con eventi 0,5-2 milioni/anno di costi/ricavi.
+- **Caso tipico:** Caso reale noto: la trasformazione dell'area della Fiera di Milano citta' dopo il trasferimento a Rho-Pero: conservazione di edifici storici, nuovo quartiere misto con torri e parco, gestione transitoria decennale con eventi e usi temporanei.
+- **Normativa:** D.Lgs 152/2006 (bonifiche); D.Lgs 42/2004 (tutela degli edifici icona); strumenti urbanistici comunali (programmi integrati di intervento, varianti); DPR 380/2001.
+- **Nota di cantiere:** Nell'area fieristica storica, il primo rilievo e' ambientale e non architettonico: serbatoi, oli, ramificazioni e 50 anni di vernici. Il budget bonifica lo scopri con le indagini, non con la stima.
+
+### Esodo e sicurezza nelle grandi affollate: folla, eventi e gestione emergenze
+
+**Categoria:** Sicurezza · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Un padiglione in evento e' un locale affollato con migliaia di persone che non conoscono l'edificio: l'esodo si progetta per la folla che corre male. Riferimenti: vie e uscite dimensionate sulla densita' di progetto, segnaletica alta e leggibile in ogni allestimento (gli stand coprono i cartelli bassi), illuminazione di sicurezza su percorsi liberi da allestimenti, gestione dell'affollamento nei colli di bottiglia (biglietterie, uscite verso i parcheggi, scale dei collegamenti). Per gli eventi temporanei nei locali di pubblico spettacolo vale la disciplina della commissione di vigilanza locale (agibilita' temporanea per l'evento); la classificazione di prevenzione incendi delle attivita' fieristiche e congressuali va verificata sull'elenco del DPR 151/2011 e s.m.i. per la specifica configurazione.
+
+- **Tecnologia e criteri:** Studio dell'esodo con modelli di simulazione della folla per gli eventi a piena capienza; corridoi di esodo protetti dagli allestimenti con bande rispetto a pavimento; controllo accessi con contapersone per la capienza reale; piano di emergenza con addetti dedicati e addestramento per evento; megafonia di emergenza sovrapposta all'audio dell'evento; presidi VVF in loco per gli eventi maggiori.
+- **Applicazioni:** Fiere di settore aperte al pubblico, concerti indoor in padiglioni, congressi con migliaia di partecipanti, eventi con pubblico in piedi.
+- **Vantaggi:** La simulazione della folla trova i colli di bottiglia prima dell'evento; i corridoi protetti dagli allestimenti rendono l'esodo indipendente dal layout degli stand; il contapersone reale evita sia il sovraffollamento sia le chiusure precauzionali eccessive.
+- **Limiti e attenzioni:** Ogni allestimento cambia la geometria dell'esodo: il controllo in fase di montaggio e' continuo; gli eventi in piedi con palco hanno dinamiche di folla diverse dai convegni; i costi del personale di sicurezza crescono con la capienza.
+- **Costi ed economia:** Ordini di grandezza indicativi: studio di esodo e simulazione folla 20-80 k€ per edificio; personale sicurezza evento grande 20-100 k€; adeguamento segnaletica e illuminazione di sicurezza di un padiglione 50-200 k€.
+- **Caso tipico:** Caso tipo: evento con 12.000 visitatori/giorno in padiglione singolo: simulazione dell'esodo con strozzatura all'uscita nord, apertura di due uscite secondarie protette e riposizionamento della biglietteria; evento svolto senza criticita' e verbale della commissione di vigilanza positivo.
+- **Normativa:** DPR 151/2011 e s.m.i. (classificazione da verificare); D.M. 19/8/1996 per gli spettacoli temporanei (applicabilita' da verificare per la specifica manifestazione); D.Lgs 81/2008; UNI EN 13200 (impianti per spettatori, per gli aspetti pertinenti).
+- **Nota di cantiere:** Fai il giro dell'esodo alle 8 del mattino di apertura, con le luci dell'evento accese e gli stand finiti: i cartelli coperti e le uscite bloccate si vedono solo in quel momento, non sul progetto.
+
+### Le grandi coperture espositive: campate, controventi e carichi
+
+**Categoria:** Strutture · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il padiglione espositivo chiede luce libera e altezza: travi reticolari o a parete piena in acciaio con campate 30-80 m (oltre 100 m per gli edifici icona), passo 12-24 m, altezza libera 8-16 m per i camion in fase di allestimento e per i rigging degli eventi. I carichi di copertura sono bassi (nessun solaio) ma gli appendimenti no: le travi portano luci, travi americane, schermi, segnaletica con carichi concentrati tipici di 5-30 kN per punto, fino a 100+ kN per le scene dei grandi eventi. I controventi devono convivere con aperture enormi: portali controventati sui fronti, croci in copertura, nuclei in c.a. ai blocchi servizi. Le pavimentazioni sono il vero elemento strutturale di progetto: platee continue da 20-35 cm su terreno consolidato, giunti controllati, finitura quarzata o resina.
+
+- **Tecnologia e criteri:** Acciaio S355-S460 per le grandi campate; nodi cerniera tra trave e pilastro per il controllo delle deformazioni; ancoraggi chimici o meccanici per gli allestimenti dove consentiti; platee con armatura diffusa e fibre; pozzetti e trincee integrate nel disegno strutturale; sistemi di controvento rimovibili per le aperture tra padiglioni accoppiabili.
+- **Applicazioni:** Padiglioni fieristici, hangar logistici espositivi, palazzetti dello sport riconvertibili, terminal di eventi temporanei.
+- **Vantaggi:** L'acciaio consente tempi di montaggio rapidi e riconfigurazioni; la platea progettata bene porta qualsiasi allestimento senza rinforzi puntuali; la trave reticolare lascia passare gli impianti.
+- **Limiti e attenzioni:** Le deformazioni delle grandi campate (freccia L/250-L/400) si vedono sulle facciate vetrate: dettagli delicati; la manutenzione delle carpenterie alte costa (piattaforme, verifiche bulloni); i carichi da rigging reali degli eventi moderni superano spesso le ipotesi di progetto degli edifici vecchi.
+- **Costi ed economia:** Ordini di grandezza indicativi: carpenteria di copertura 60-120 kg/mq di acciaio, costo montato 3-6 €/kg; platea espositiva finita 120-250 €/mq; verifica e rinforzo per rigging eccezionale 10-50 k€ a intervento.
+- **Caso tipico:** Caso tipo: padiglione anni Ottanta con travi progettate senza margine per rigging: per ospitare eventi con scene sospese da 80 kN sono stati inseriti portali ausiliari smontabili sotto trave, trasformando il limite in un servizio venduto agli organizzatori.
+- **Normativa:** NTC D.M. 17/1/2018 (azioni, acciaio, esistenti); UNI EN 1991-1-1 e UNI EN 1993 (acciaio); capitolati dei poli fieristici per i carichi ammessi da rigging (documento di gestione, da richiedere all'ente).
+- **Nota di cantiere:** Fatti dare SEMPRE il 'rigging plan' dell'evento prima di autorizzare gli appendimenti: il carico dichiarato a voce dall'allestitore e' sistematicamente il 30-50% in meno di quello reale.
+
+### Coperture temporanee per eventi: tensostrutture, geodetiche e palchi da esterno
+
+**Categoria:** Strutture temporanee · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Quando l'evento supera i padiglioni, si costruisce il temporaneo: tensostrutture e coperture a membrana (luci 10-60 m), strutture geodetiche smontabili, palchi da esterno con copertura e torri di ritardo, tribune prefabbricate. Ogni struttura temporanea e' un'opera provvisionale con regole proprie: progetto e verifica statica sul sito specifico (vento e neve del luogo, non generici), ancoraggi al terreno con tirafondi o zavorre (blocchi di cls), tempi di montaggio e smontaggio documentati, controlli in esercizio giornalieri (tensionamenti, bullonature), smontaggio obbligatorio entro i termini autorizzati.
+
+- **Tecnologia e criteri:** Membrane in poliestere spalmato PVC o PTFE con certificazione di reazione al fuoco; tirafondi elicoidali con prove di estrazione; zavorre calcolate sul vento di progetto del sito; anemometri con soglie di allarme e procedure di sgombero; tribune e palchi con certificati di collaudo per configurazione; elettrificazione in cavo schermato con interruttori dedicati.
+- **Applicazioni:** Eventi fieristici in esterni, padiglioni aggiuntivi stagionali, palchi per cerimonie e concerti, tribune per manifestazioni sportive temporanee.
+- **Vantaggi:** Il temporaneo rende possibile l'evento dove il permanente non c'e'; tempi di montaggio di giorni, non mesi; il noleggio trasforma il capex in costo evento.
+- **Limiti e attenzioni:** Il vento e' il padrone: oltre soglia si sgombera, punto (caso Astroworld e crolli di palchi insegnano); i permessi per occupazione suolo e le verifiche statiche hanno tempi non comprimibili; la logistica di montaggio in siti urbani e' complessa.
+- **Costi ed economia:** Ordini di grandezza indicativi: tensostruttura a noleggio 40-120 €/mq per evento; palco coperto per grandi eventi 30-150 k€; tribuna prefabbricata 50-150 €/posto; verifiche e pratiche per struttura temporanea 5-30 k€.
+- **Caso tipico:** Casi reali noti: i crolli di strutture temporanee per eventi (coperture e palchi in Italia e all'estero, con vittime) hanno portato a controlli piu' stringenti su progetto, ancoraggi e monitoraggio meteo in esercizio.
+- **Normativa:** D.Lgs 81/2008 (opere provvisionali); NTC D.M. 17/1/2018 (azioni di vento e neve per il sito); UNI EN 13782 (sicurezza delle strutture temporanee per eventi, tendoni); D.M. 19/8/1996 per gli spettacoli (applicabilita' da verificare).
+- **Nota di cantiere:** L'anemometro della struttura temporanea lo leggi tu, non il fornitore: quando segna la soglia, l'ordine di sgombero lo dai tu e lo dai per iscritto. Il vento non accetta proroghe.
+
+### Polo fieristico e centro congressi: tipologie, programmi e dimensionamento
+
+**Categoria:** Tipologie · **Corso:** FIERE_E_CONGRESSI_PACK
+
+Il polo fieristico e' un sistema di grandi contenitori flessibili: padiglioni espositivi (campate 30-120 m, altezze libere 8-16 m, superfici lorde 5.000-30.000 mq ciascuno), spazi esterni attrezzati, servizi comuni (biglietteria, ristorazione, sale stampa, uffici organizzatori), piazzali di carico. Il centro congressi e' invece un organismo di sale: plenaria (300-3.000 posti), sale divisibili con pareti mobili, foyer per i flussi, sale stampa e regia, catering dedicato. Il dimensionamento parte dai mq espositivi netti vendibili (tipicamente il 60-70% del lordo padiglione) e dal calendario eventi: la redditivita' si gioca sull'occupazione annua, non sui picchi.
+
+- **Tecnologia e criteri:** Indicatori di progetto: rapporto netto/lordo 0,6-0,75; modulo strutturale delle trincee impianti 6x6 m o multipli; carichi di progetto delle pavimentazioni espositive 10-15 kN/mq (veicoli e macchinari) contro i 3-5 kN/mq della categoria C folla; parcheggi 1 posto/25-40 mq espositivi netti secondo bacino; filtri acustici tra padiglione e citta'.
+- **Applicazioni:** Quartieri fieristici nazionali e regionali; centri congressi urbani e di destinazione (turismo congressuale); palazzi degli affari con sale riunioni; padiglioni espositivi permanenti con programmi misti.
+- **Vantaggi:** Flessibilita' quasi totale dello spazio (lo stesso padiglione ospita fiera, concerto, assemblea); economie di scala sulla gestione; attrattivita' territoriale misurabile (turismo d'affari con spesa media elevata).
+- **Limiti e attenzioni:** Mercato ciclico e competitivo (ogni citta' vuole il suo polo); costi fissi di gestione alti anche a calendario vuoto; obsolescenza rapida delle aspettative degli espositori (punti luce, dati, altezze).
+- **Costi ed economia:** Ordini di grandezza indicativi: padiglione espositivo nuovo 1.500-3.000 €/mq; centro congressi 2.500-5.000 €/mq; masterplan di quartiere fieristico 0,5-2 milioni; studio di fattibilita' economica 50-200 k€.
+- **Caso tipico:** Caso reale noto: il quartiere fieristico di Rho-Pero, inaugurato nel 2005, ha impostato lo standard italiano del polo moderno (8 padiglioni, asse centrale coperto, logistica dedicata); i poli regionali storici si sono riposizionati su eventi specializzati.
+- **Normativa:** DPR 380/2001 (titoli edilizi); NTC D.M. 17/1/2018; UNI EN 1991-1-1 (categorie di carico); regolamenti edilizi comunali e piani delle regole per le aree fieristiche; prevenzione incendi secondo la classificazione delle attivita' (categoria da verificare sul DPR 151/2011 e s.m.i.).
+- **Nota di cantiere:** Prima di disegnare il padiglione, chiedi il calendario eventi degli ultimi 3 anni del bacino: se gli eventi grandi sono meno di 10 all'anno, progetta per la flessibilita', non per il record di superficie.
 
 
 ## Tecnica alberghiera e hospitality

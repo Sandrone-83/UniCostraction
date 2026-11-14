@@ -52,6 +52,7 @@ di apprendimento per settore.
 | FORMULARIO_STRUTTURE | ✅ 250 domande | chiavi: jsonl |
 | FOTOVOLTAICO_CER | ✅ 400 domande | chiavi: jsonl |
 | FERROVIE | ✅ 250 domande | chiavi: jsonl |
+| FIERE_E_CONGRESSI | ✅ 250 domande | chiavi: jsonl |
 | FUNIVIE_IMPIANTI_A_FUNE | ✅ 250 domande | chiavi: jsonl |
 | GEOMETRA_ESTIMO | ✅ 250 domande | chiavi: jsonl |
 | GEOTECNICA | ✅ 250 domande | chiavi: jsonl |
@@ -115,7 +116,7 @@ di apprendimento per settore.
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 99 esami (uno per settore, denominazioni storiche incluse) a copertura dei 97 pack
+Copertura: 100 esami (uno per settore, denominazioni storiche incluse) a copertura dei 98 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.

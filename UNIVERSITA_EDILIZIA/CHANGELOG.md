@@ -1,4 +1,20 @@
 
+
+## Giro AZ — 2026-11-14, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (AZ1: bando MASE «Distretti a Energia Positiva» in preparazione, nella scheda CER del pack FV); nuovo pack FIERE_E_CONGRESSI_PACK (13 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| AZ1 | Correzione | Scheda «Gli incentivi delle CER» (FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK, riga 12): campo normative senza riferimento ai Distretti a Energia Positiva | Aggiunta nota datata 14/11/2026: in preparazione il bando MASE «Distretti a Energia Positiva» (dotazione indicata circa 50 milioni di euro, fino a 10 milioni per progetto, 80% destinato a otto regioni del Mezzogiorno, Comuni sopra 50.000 abitanti; incontro di progettazione partecipata segnalato al 23/11/2026); bando NON ancora pubblicato, da verificare su mase.gov.it | edilportale.com via tuoingegnere.altervista.org (12/11/2026) — verifica web 14/11/2026 |
+| AZ2 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note fino al 12/11/2026 | Confermata: nessun valore cambiato; ANCE in audizione chiede di salvaguardare i crediti da sconto in fattura e modificare i tetti Ecobonus condominiali; termine emendamenti 17/11 ore 18, vaglio 23-24/11, Aula primi di dicembre | milanofinanza.it (09/11/2026), edilportale.com (12/11/2026) — verifica web 14/11/2026 |
+| AZ3 | Verifica senza correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): note 23/10 e 10/11 | Confermata: correttivo (intesa Conferenza Unificata 22/10, Rep. atti n. 144/CU) ancora NON adottato dal MASE ne' pubblicato in GU | monitoraggio MASE/GU e stampa tecnica — verifica web 14/11/2026 |
+| AZ4 | Nuovo pack | — | FIERE_E_CONGRESSI_PACK: 13 schede (tipologie e dimensionamento; grandi coperture espositive; impianti a trincea; centri congressi; logistica allestimento; esodo grandi affollate; stand temporanei; titoli edilizi e agibilita'; accessibilita'; coperture temporanee UNI EN 13782; riconversione aree storiche; economia gestione; futuro ibrido ISO 20121), livello L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE | redazione interna |
+| AZ5 | Nuovo esame | — | ESAMI/FIERE_E_CONGRESSI: 250 domande; chiavi in ESAMI_RISPOSTE (fuori repository) | build_esami_giro5 |
+| AZ6 | Validazione | 97 pack / 1280 schede / 99 esami | 98 pack / 1293 schede / 100 esami; 0 errori; 109 warning legacy invariati | _validate_giro.py |
+
+Righe aperte nel giro: DDL Bilancio 2027 — emendamenti entro 17/11 ore 18, vaglio 23-24/11, Aula primi di dicembre (richieste ANCE su crediti sconto in fattura e tetti Ecobonus condominiali); bando «Distretti a Energia Positiva» — pubblicazione da verificare su mase.gov.it (incontro di progettazione partecipata segnalato al 23/11/2026); CT 3.0 — adozione correttivo MASE e pubblicazione GU; CER — saldo contributi PNRR al 31/12/2026; Reddito Energetico — riapertura sportello GSE; EPBD — recepimento.
+
 ## Giro AY — 2026-11-13, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (AY1: modello unico SUER D.M. 223/2026 nel pack FV); nuovo pack EDILIZIA_CARCERARIA_PACK (14 schede) con esame.

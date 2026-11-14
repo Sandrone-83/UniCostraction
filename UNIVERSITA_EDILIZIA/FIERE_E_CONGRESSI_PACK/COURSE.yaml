@@ -1,0 +1,9 @@
+nome: Fiere, Congressi e Grandi Spazi per Eventi
+codice: FIERE_E_CONGRESSI
+pack: FIERE_E_CONGRESSI_PACK
+livello: L1-L2
+schede: 13
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, TEATRI_LOCALI_SPETTACOLO, COSTRUZIONI_SPECIALI]
+giro: AZ
+data: 2026-11-14
