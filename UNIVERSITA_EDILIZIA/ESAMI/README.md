@@ -108,6 +108,7 @@ di apprendimento per settore.
 | SMART_CITY | ✅ 250 domande | chiavi: jsonl |
 | SOLARE_TERMODINAMICO_CSP | ✅ 250 domande | chiavi: jsonl |
 | SOLLEVAMENTO | ✅ 250 domande | chiavi: jsonl |
+| STAZIONI_SERVIZIO | ✅ 250 domande | chiavi: jsonl |
 | STRUTTURE | ✅ 300 domande | chiavi: jsonl |
 | TETTI_COPERTURE | ✅ 220 domande | chiavi: jsonl |
 | TEATRI_LOCALI_SPETTACOLO | ✅ 250 domande | chiavi: jsonl |
@@ -116,7 +117,7 @@ di apprendimento per settore.
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 100 esami (uno per settore, denominazioni storiche incluse) a copertura dei 98 pack
+Copertura: 101 esami (uno per settore, denominazioni storiche incluse) a copertura dei 99 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.

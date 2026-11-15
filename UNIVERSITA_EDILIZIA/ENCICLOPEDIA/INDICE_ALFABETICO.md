@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1455 voci enciclopediche tratte da 99 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1469 voci enciclopediche tratte da 100 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -333,6 +333,8 @@
   I collettori parabolici (parabolic trough) sono la tecnologia CSP piu' installata al mondo: file di specchi cilindro-parabolici inseguono il sole su un asse e concentrano la radiazione su un tubo ricevitore posto nel fuo…
 - **Colonnine di ricarica veicoli elettrici** — FER · corso: *Impiantistica completa* (`IMPIANTI_COMPLETA_PACK`)
   Infrastruttura di ricarica privata e condominiale: la nuova frontiera degli edifici.
+- **Colonnine EV pubbliche e hub di ricarica: potenza, rete e regole** — Transizione · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La ricarica pubblica dei veicoli elettrici e' diventata un'infrastruttura edilizia a se': dalla colonnina AC da 22 kW in parcheggio urbano all'hub di ricarica rapida con 4-12 stalli DC da 150-350 kW (HPC). Gli elementi d…
 - **Color design: la psicologia e la tecnica del colore** — Color design · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   Il colore come strumento progettuale: teoria, percezione, applicazione.
 - **Combinazioni delle azioni e stati limite** — Combinazioni · corso: *Ingegneria strutturale* (`INGEGNERIA_STRUTTURALE_PACK`)
@@ -571,6 +573,8 @@
   Una sala da spettacolo vive di ricavi da biglietteria, spazi accessori, convenzioni e contributi pubblici (lo spettacolo dal vivo è sostenuto dal FUS e da fondi regionali): il progetto edilizio incide su tutti. Posti ve…
 - **Economia e gestione: concessioni, costi e investimenti** — Economia e gestione · corso: *Edilizia cimiteriale: quadro normativo e piani cimiteriali (DPR 285/1990, distanze), vincolo idrogeologico e scelta del sito, organizzazione funzionale e flussi, sepolture in terra e campi comuni, loculi e colombari prefabbricati, tombe private e cappelle gentilizie, ossari cinerari e dispersione ceneri (L. 130/2001), forni crematori (emissioni, autorizzazioni), impianti e servizi (obitorio, laboratorio marmisti), sicurezza statica e manutenzione programmata, accessibilita' e paesaggio, economia e gestione (concessioni, tariffe)* (`EDILIZIA_CIMITERIALE_PACK`)
   Il cimitero si autofinanzia in parte con le concessioni (loculi, tombe private, cinerari) e in parte con il bilancio comunale: la tariffa della concessione dovrebbe coprire costruzione, manutenzione del periodo concesso …
+- **Economia e gestione: margini, non-oil e la transizione della rete** — Economia · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  L'economia della stazione si regge su una verita' scomoda: il margine sul carburante e' sottile (pochi centesimi al litro sul prezzo finale, dominato da accise e quotazioni), e la redditivita' reale arriva dal non-oil: b…
 - **Economia e programmazione delle grandi opere idrauliche** — Economia · corso: *Dighe e sistemazioni idrauliche* (`DIGHE_E_SISTEMAZIONI_IDRAULICHE_PACK`)
   Quanto costa e come si programma una grande opera idraulica: il cantiere che dura anni.
 - **Economia e ROI della robotica edilizia** — Economia · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
@@ -803,8 +807,12 @@
   La cassetta degli attrezzi: come funzionano e quando usarli.
 - **Gli strumenti urbanistici: PSC, Piano operativo, Piano regolatore** — Strumenti · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Lo strumento fondamentale è il Piano Strutturale Comunale (PSC, dove adottato) o il vecchio PRG: il PSC detta destinazioni d'uso, vincoli e indirizzi; il piano operativo (o le NTA del PRG) traducono in regole numerate (i…
+- **GNL, biocarburanti e nuovi prodotti liquidi: cosa cambia nel sito** — Impianti · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  Il GNL (gas naturale liquefatto a circa -162 °C) porta in stazione la criogenia: serbatoio criogenico coibentato in vuoto, pompe sommerse criogeniche, tubazioni isolate sotto vuoto, zone di sicurezza per dispersione di g…
 - **GNSS e GPS: posizionamento satellitare per l'edilizia** — GNSS · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come funziona il 'GPS' dei cantieri e quando non funziona.
+- **GPL e metano: depositi, compressori e particolarita' impiantistiche** — Impianti · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  L'erogazione di GPL richiede un deposito proprio (serbatoio interrato o fuori terra, tipicamente 5-25 mc) con distanze e dotazioni dedicate: valvole di eccesso flusso, limitatore di riempimento, sfiato di sicurezza orien…
 - **Graffetta e filo di legatura** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Filo metallico sagomato per legatrici o staple per graffatrici: fissaggio leggero di rete, teli, guaine, isolanti.
 - **Grandi stazioni e nodi intermodali** — Grandi opere · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
@@ -1337,6 +1345,8 @@
   L’impianto degli uffici vive di riconfigurazioni: i tenant cambiano, le postazioni si spostano, i carichi crescono. Le tecnologie chiave sono il pavimento sopraelevato (distribuzione elettrica e dati accessibile), i cont…
 - **Impianti speciali: chiamata infermiera, gas medicali, ACS antilegionella** — Residenzialita' per anziani — impianti · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
   La dotazione impiantistica della RSA e' sanitaria leggera: (a) impianto di chiamata infermiera da ogni letto e da ogni bagno (tirante), con ripetizione al posto infermieri di modulo e log degli interventi; (b) gas medica…
+- **Impianti speciali: stazioni marittime, fluviali, aziendali e per l'aviazione leggera** — Tipologie · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  Accanto alla rete stradale esistono categorie speciali con regole e tecnologie proprie. Gli impianti marittimi (bunkeraggio e rifornimento diporto) operano su pontili o chiatte con serbatoi a terra o a bordo, tubazioni s…
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di re…
 - **Impianti tecnologici di sicurezza: controllo centralizzato, video e comunicazioni** — Impianti speciali · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
@@ -1363,6 +1373,8 @@
   Costruire clima-compatibile: cementi basso carbonio, riciclo, energia nelle opere.
 - **Inserimento ambientale: VIA, paesaggio e mitigazione degli impatti** — Progetto e ambiente · corso: *FUNIVIE_IMPIANTI_A_FUNE_PACK* (`FUNIVIE_IMPIANTI_A_FUNE_PACK`)
   Un impianto a fune attraversa ambienti protetti: boschi, zone valanghive, aree Natura 2000, paesaggi vincolati. Il progetto ambientale comprende: studio degli attraversamenti faunistici e degli sfalci (minimi e mirati), …
+- **Integrare la ricarica EV nella stazione tradizionale: retrofit energetico del piazzale** — Transizione · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La conversione della stazione tradizionale in stazione multi-energia e' l'intervento piu' frequente del decennio: si aggiungono colonnine rapide sfruttando pensilina, edificio di servizio e posizione, si copre la pensili…
 - **Interior design residenziale di pregio** — Interior residenziale · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   La casa di lusso: distribuzione, materiali, custom, tecnologia integrata.
 - **Interior design: tendenze e innovazione 2024-2026** — Tendenze interior · corso: *Progettazione tecnica degli interni* (`INTERIOR_PROGETTAZIONE_TECNICA_PACK`)
@@ -1797,6 +1809,8 @@
   L'acqua e i server non vanno d'accordo: i data center usano impianti a gas (FM-200, Novec/fluorochetomi o inerte) che spengono senza bagnare, oppure spruzzatori pre-action che intervengano solo quando serve davvero, mini…
 - **La stampa 3D in edilizia: cosa può e cosa non può** — Stampa 3D · corso: *Materiali del futuro e costruzione innovativa* (`MATERIALI_DEL_FUTURO_PACK`)
   La stampa 3D edile deposita calcestruzzo a getto continuo secondo un percorso digitale: pareti portanti con geometrie libere, costruzione rapida, meno manodopera; oggi stampa pareti (il solaio e i nodi restano convenzion…
+- **La stazione di rifornimento come tipologia: quadro, categorie e titoli** — Tipologie · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La stazione di servizio e' un impianto commerciale-tecnologico regolato da una disciplina propria: vende carburanti (liquidi, gassosi, elettricita') con apparecchiature certificate, gestisce serbatoi di liquidi infiammab…
 - **La stima immobiliare comparativa nella pratica** — Estimo immobiliare · corso: *Geometra: topografia, costruzioni e estimo* (`GEOMETRA_TOPOGRAFIA_ESTIMO_PACK`)
   Come si fa una stima credibile: ricerca comparazioni, correzioni, conclusione.
 - **La storia delle infrastrutture italiane: dalla Roma antica al TAV** — Storia infrastrutture · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
@@ -1875,6 +1889,8 @@
   La caduta dall'alto resta una delle cause principali di infortunio mortale in edilizia: banchetti di copertura, scale, scalette, mezzi di sollevamento e lavori su ponteggi o piattaforme sono le sedi tipiche. La prevenzio…
 - **Layout e flussi: persone, materiali, prodotto, rifiuti** — Camere bianche — layout e flussi · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
   Il layout della cleanroom e' un progetto di FLUSSI prima che di spazi: le persone entrano attraverso la cascata di spogliatoi (gowning: pre-gowning -> spogliatoio sporcO -> lavaggio -> gowning pulito con tuta, cuffia, co…
+- **Layout funzionale: piazzale, isole, flussi e area scarico cisterna** — Layout · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  Il layout di una stazione si progetta su tre flussi che non devono mai incrociarsi in modo pericoloso: veicoli in rifornimento (ingresso-isola-uscita con raggi di curvatura adeguati), autocisterna in scarico (postazione …
 - **Layout robotizzato dal modello BIM** — BIM-to-Robot · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Robot che tracciano e posano da soli layout di cantiere e componenti partendo dal BIM.
 - **Le aree esterne dello stabilimento: viabilità interna, banchine e pavimentazioni** — Esterni · corso: *Edilizia industriale e logistica* (`EDILIZIA_INDUSTRIALE_LOGISTICA_PACK`)
@@ -2081,6 +2097,8 @@
   La verità critica: cosa NON funziona ancora nella costruzione robotizzata.
 - **Linear Fresnel e i concentratori a specchi piani** — Tecnologie di campo solare · corso: *Solare termodinamico (CSP) e solare a concentrazione* (`SOLARE_TERMODINAMICO_CSP_PACK`)
   Il linear Fresnel usa file di specchi quasi piani vicino al suolo che puntano su un ricevitore lineare sospeso: struttura semplice, costruzione quasi edile, concentrazione e temperature inferiori ai trough ma costi di ca…
+- **Linee, erogatori e recupero vapori: l'impianto di distribuzione** — Impianti · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  Dai serbatoi ai punti erogazione il carburante viaggia in tubazioni a doppia parete in polietilene con intercapedine monitorata, posate in trincee con letto di sabbia e dotate di pozzetti ispezionabili alle estremita'. S…
 - **Listelli 3D e pannelli decorativi** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Pannelli decorativi in legno, MDF laccato o poliuretano per pareti d'accento: il design di interni.
 - **Listello per controsoffitto** — Legno e derivati · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2327,6 +2345,8 @@
   All'aperto la scelta della superficie determina disciplina praticabile, frequenza d'uso e costo di esercizio: erba sintetica con riempitivi, terra battuta stabilizzata, asfalto o cemento, erba naturale ed erba ibrida a r…
 - **Pellet, cippato e certificazione dei combustibili legnosi** — Qualità combustibile · corso: *Rinnovabili idro, biomasse e geotermia* (`RINNOVABILI_IDRO_BIOMASSA_GEOTERMIA_PACK`)
   Classi di qualità del combustibile legnoso: il rendimento di una caldaia nasce dal legno.
+- **Pensilina, edificio di servizio e arredi: la parte edilizia visibile** — Strutture · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La pensilina e' il segno riconoscibile della stazione: struttura in acciaio con colonne sulle isole o sulle corsie, copertura leggera in lamiera o pannelli sandwich, fascia perimetrale con brand e illuminazione integrata…
 - **Perché costruire in legno: il materiale che respira** — Fondamenti · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno è il più antico dei materiali da costruzione e il più moderno: rinnovabile (cresce), sequestra CO2 (un m³ di legno stocca ~1 tonnellata di CO2), leggero (5 volte più del calcestruzzo), isolante naturale, lavorab…
 - **Perforazione, prove e collaudo: gli errori geotermici si pagano per trent'anni** — Cantiere · corso: *Geotermia a bassa entalpia avanzata: sonde, pali energetici, falda, bilanciamento e cantiere* (`GEOTERMIA_BASSA_ENTALPIA_PACK`)
@@ -2453,6 +2473,8 @@
   Fabbriche con robot saldatori, carroponte CNC e linee automatizzate per componenti edilizi.
 - **Prese e comandi esterni** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prese, interruttori e luci per esterni: grado IP44-IP65 per resistere ad acqua e polvere.
+- **Prevenzione incendi e ATEX: la regola tecnica e le zone classificate** — Sicurezza · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La stazione di servizio e' attivita' a rilevanza antincendio: il riferimento tecnico e' la regola dedicata agli impianti di distribuzione di carburanti, che fissa distanze di sicurezza tra serbatoi, erogatori, edifici, c…
 - **Prevenzione incendi nelle residenze per anziani: evacuazione progressiva** — Residenzialita' per anziani — antincendio · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
   Le residenze per anziani con ospiti non autosufficienti sono tra le attivita' soggette ai controlli di prevenzione incendi (case di cura e ricovero nel DPR 151/2011 — verificare la voce e le soglie sull'elenco aggiornato…
 - **Prezzari digitali, software di computo e BIM 5D** — Digitale e interoperabilita' · corso: *Prezziario e listini: fonti, analisi e uso operativo* (`PREZZIARIO_E_LISTINI_PACK`)
@@ -2663,6 +2685,8 @@
   Serbatoi, vasche e bacini contengono liquidi: il progetto tratta la spinta idrostatica, la tenuta, la pulizia e la sicurezza; materiali: calcestruzzo (getto in opera o prefabbricato), acciaio, GRP (plastica rinforzata).
 - **Serbatoi geocellulari interrati: la detenzione modulare sotto piazzali** — Detenzione · corso: *Infrastrutture verdi-blu: drenaggio urbano sostenibile, invarianza idraulica e NBS* (`INFRASTRUTTURE_VERDI_BLU_PACK`)
   Quando il volume di laminazione non trova posto in superficie, si costruisce sotto: i serbatoi geocellulari (moduli in plastica ad alta superficie vuota) realizzano invasi interrati sotto parcheggi e piazzali, eventualme…
+- **Serbatoi interrati: doppia camera, monitoraggio e ancoraggio** — Impianti · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  Il cuore ambientale dell'impianto e' il blocco serbatoi: oggi si installano esclusivamente serbatoi a doppia parete (doppia camera) in acciaio o in vetroresina, con intercapedine monitorata in continuo da vacuostato o pr…
 - **Serramenti, grate e chiusure di sicurezza: la pelle dell'istituto** — Sicurezza passiva · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
   Le chiusure di sicurezza in un istituto penitenziario lavorano su tre livelli: perimetro (cinta, portoni, recinzioni), edificio (facciate con grate e serramenti certificati) e locale (porte di cella e di sezione). Le por…
 - **Serre per orticoltura e florovivaismo: strutture e climatizzazione** — Serre · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2677,6 +2701,8 @@
   Le chiese accolgono assemblee variabili da decine a migliaia di persone, spesso anziane o in piedi, con porte storiche, sagome irregolari e vie di esodo non progettate per l'affollamento moderno. Il punto delicato: i luo…
 - **Sicurezza ferroviaria: CSM, certificazione e Agenzia ERA** — Sicurezza del sistema · corso: *Ferrovie e stazioni* (`FERROVIE_E_STAZIONI_PACK`)
   Il quadro della sicurezza ferroviaria europea e nazionale: regole, certificazioni, indagini.
+- **Sicurezza in esercizio e ambiente: procedure, scarichi e manutenzione programmata** — Sicurezza · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La stazione in esercizio e' un cantiere permanente a rischio controllato: scarichi cisterna quotidiani, pubblico che rifornisce in self-service, fornitori e manutentori in zone ATEX. La sicurezza si regge su procedure sc…
 - **Sicurezza informatica dell'edificio smart** — Cybersecurity · corso: *Domotica e building automation* (`DOMOTICA_PACK`)
   Proteggere l'edificio connesso: reti, dispositivi, cloud, accessi remoti.
 - **Sicurezza nei cantieri agricoli e zootecnici** — Sicurezza · corso: *Edilizia agricola e zootecnica* (`EDILIZIA_AGRICOLA_ZOOTECNICA_PACK`)
@@ -2749,6 +2775,8 @@
   La logica prestazionale delle NTC: la struttura deve attraversare terremoti di intensita' crescente con prestazioni decrescenti ma controllate — operativita' piena, danno limitato, salvaguardia della vita, prevenzione de…
 - **Statistica per il cantiere: medie, dispersione, affidabilità** — Statistica · corso: *Matematica per costruire* (`MATEMATICA_PER_COSTRUIRE_PACK`)
   La matematica dell'incertezza: cosa dicono davvero 5 prove su 5 campioni.
+- **Stazioni di rifornimento a idrogeno (HRS): 350 e 700 bar** — Transizione · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
+  La stazione a idrogeno e' il salto di paradigma impiantistico: gas compresso a 350 bar (mezzi pesanti e bus) o 700 bar (auto), erogato con protocolli di comunicazione tra veicolo e colonnina che controllano pressione, te…
 - **Stazioni totali robotiche e laser tracker** — Strumentazione · corso: *Robotica delle costruzioni* (`ROBOTICA_EDILIZIA_PACK`)
   Strumenti geodetici a guida automatica per il posizionamento ad alta precisione.
 - **Strumenti digitali per la circolarita': BIM-LCA, EPD digitali, banche materiali** — Strumenti digitali · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)

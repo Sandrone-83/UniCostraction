@@ -1,0 +1,9 @@
+nome: Stazioni di Servizio e Infrastrutture di Rifornimento
+codice: STAZIONI_SERVIZIO
+pack: STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK
+livello: L1-L2
+schede: 14
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, IMPIANTI_COMPLETA, BONIFICA_SITI_AMBIENTALI_EDILIZIA]
+giro: BA
+data: 2026-11-15

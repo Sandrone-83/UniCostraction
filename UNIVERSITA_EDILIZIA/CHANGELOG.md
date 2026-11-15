@@ -1,5 +1,22 @@
 
 
+
+## Giro BA — 2026-11-15, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (BA1: giurisprudenza 2026 sull'agrivoltaico nella scheda dedicata del pack FV); nuovo pack STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK (14 schede) con esame.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| BA1 | Correzione | Scheda «L'agrivoltaico: energia e agricoltura sullo stesso metro quadro» (FOTOVOLTAICO_CAMPI_AGRIVOLTAICO_CER_PACK, riga 7): campo normative con prescrizioni regionali ma senza la giurisprudenza 2026 | Aggiunta nota datata 15/11/2026: Consiglio di Stato, Sez. IV, n. 6003 del 22/7/2026 — illegittime le prescrizioni regionali (lombarde) che riferiscono 40% e 70% alla SAU: il riferimento corretto e' la superficie totale del sistema agrivoltaico (STOT), LAOR = Spv/STOT <= 40%, almeno 70% della STOT ad attivita' agricola; TAR Campania, Napoli, Sez. VII, n. 5295 del 23/9/2026 nella stessa direzione; Corte costituzionale n. 127/2026 — divieto FV a terra in zone agricole legittimo ma non esteso all'agrivoltaico con moduli elevati (testo da verificare su cortecostituzionale.it); indicazione operativa: distinguere sempre SAU e STOT negli elaborati con numeratore, denominatore e risultato | bibus.acca.it (16/10 e 11/11/2026), lavoripubblici.it (14/10/2026), cipssrl.net (16/10/2026), giustizia-amministrativa.it (massimario), greensquareitalia.it (21/07/2026) — verifica web 15/11/2026 |
+| BA2 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note fino al 12/11/2026 | Confermata: 50% prima casa / 36% altri immobili, tetto 96.000 euro; termine emendamenti 17/11 ore 18, poi vaglio ammissibilita' e Aula primi di dicembre; nessun valore cambiato | pmi.it (11/11/2026), infocilento.it (14/11/2026) — verifica web 15/11/2026 |
+| BA3 | Verifica senza correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): note 23/10 e 10/11 | Confermata: correttivo ancora NON pubblicato in GU; dettagli stampa (diagnosi pre-intervento e APE post anche per infissi e schermature, plafond 900 Meuro/anno, 300 Me garantiti a PA e privati, 100% ai Comuni una tantum) gia' coperti dalla dicitura «da confermare sul testo in GU» | infobuildenergia.it (11/11/2026), tuoingegnere.altervista.org (12/11/2026), pmi.it (11/11/2026) — verifica web 15/11/2026 |
+| BA4 | Verifica senza correzione | Schede CER e Reddito Energetico: note vigenti | Confermate: RE sportello chiuso, nessuna riapertura confermata; tariffa premio CER invariata; bando Distretti a Energia Positiva non ancora pubblicato (nota AZ1 invariata, incontro progettazione partecipata al 23/11/2026) | stilcaenergy.com (11/11/2026), bonusfotovoltaico.it (12/11/2026), tuoingegnere.altervista.org (12/11/2026) — verifica web 15/11/2026 |
+| BA5 | Nuovo pack | — | STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK: 14 schede (quadro D.Lgs 32/1998 e titoli; layout e area scarico; serbatoi doppia camera; linee ed erogatori Stage I/II; prevenzione incendi D.M. 24/5/2002 e ATEX; GPL e metano; GNL e biocarburanti; idrogeno D.M. 23/10/2018; colonnine EV e AFIR Reg. UE 2023/1804; integrazione EV in stazione; pensilina ed edificio di servizio; sicurezza e ambiente in esercizio; economia e transizione; impianti speciali), livello L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE | redazione interna |
+| BA6 | Nuovo esame | — | ESAMI/STAZIONI_SERVIZIO: 250 domande; chiavi in ESAMI_RISPOSTE (fuori repository) | build_esami_giro5 |
+| BA7 | Validazione | 98 pack / 1293 schede / 100 esami | 99 pack / 1307 schede / 101 esami; 0 errori; 109 warning legacy invariati | _validate_giro.py |
+
+Righe aperte nel giro: DDL Bilancio 2027 — termine emendamenti 17/11 ore 18, vaglio 23-24/11, Aula primi di dicembre; bando «Distretti a Energia Positiva» — pubblicazione da verificare su mase.gov.it (incontro progettazione partecipata segnalato al 23/11/2026); CT 3.0 — adozione correttivo MASE e pubblicazione GU; CER — saldo contributi PNRR al 31/12/2026; Reddito Energetico — riapertura sportello GSE; EPBD — recepimento.
+
 ## Giro AZ — 2026-11-14, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (AZ1: bando MASE «Distretti a Energia Positiva» in preparazione, nella scheda CER del pack FV); nuovo pack FIERE_E_CONGRESSI_PACK (13 schede) con esame.
