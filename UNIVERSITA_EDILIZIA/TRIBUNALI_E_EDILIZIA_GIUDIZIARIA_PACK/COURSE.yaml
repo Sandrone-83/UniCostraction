@@ -1,0 +1,9 @@
+nome: Tribunali e Edilizia Giudiziaria
+codice: TRIBUNALI_GIUSTIZIA
+pack: TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK
+livello: L1-L2
+schede: 14
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, EDILIZIA_CARCERARIA, UFFICI_E_TERZIARIO]
+giro: BB
+data: 2026-11-16

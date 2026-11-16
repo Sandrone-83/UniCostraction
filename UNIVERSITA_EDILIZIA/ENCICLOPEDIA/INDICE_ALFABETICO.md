@@ -3,7 +3,7 @@
 > *Materiale di esclusiva proprietà **Auratrix** — Tutti i diritti riservati.*
 > *Uso consentito solo ad Auratrix e ai suoi sistemi LLM. Vedi [LICENSE](../LICENSE).*
 
-1469 voci enciclopediche tratte da 100 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
+1483 voci enciclopediche tratte da 101 corsi. Ogni voce rimanda al corso di appartenenza e alle voci correlate.
 
 
 ## A
@@ -13,6 +13,8 @@
   In montagna l'accesso e' un'opera provvisionale a se': strade sterrate in pendenza, tornanti, ponti con portate limitate, neve e ghiaccio per mesi. La sicurezza del trasporto vale quanto quella delle lavorazioni.
 - **Accessibilita' culturale: fisica, sensoriale, cognitiva** — Edilizia culturale — inclusione · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
   L'accessibilita' del museo ha tre livelli: (1) fisico (D.M. 236/1989: rampe, ascensori, servizi, percorsi senza barriere: il minimo di legge); (2) sensoriale: percorsi tattili e tavolette in rilievo per non vedenti, audi…
+- **Accessibilita' e fragilita': vittime, testi vulnerabili e pubblico** — Progettazione · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  Il palazzo di giustizia riceve il pubblico piu' vario e piu' fragile: vittime di reato, minori, testimoni vulnerabili, persone con disabilita', parti sotto protezione. Oltre all'accessibilita' fisica di legge (percorsi, …
 - **Accessibilita' e servizi al pubblico: il polo a misura di tutti** — Accessibilita' · corso: *FIERE_E_CONGRESSI_PACK* (`FIERE_E_CONGRESSI_PACK`)
   Il polo fieristico serve migliaia di visitatori con esigenze diverse: percorsi accessibili dai parcheggi ai padiglioni (navette, percorsi coperti), ingressi senza barriere con biglietteria ribassata, servizi igienici dim…
 - **Accessibilita' spinta: oltre il D.M. 236/1989** — Residenzialita' per anziani — accessibilita' e sicurezza · corso: *EDILIZIA_ANZIANI_RSA_PACK* (`EDILIZIA_ANZIANI_RSA_PACK`)
@@ -93,6 +95,8 @@
   La resistenza antieffrazione si classifica secondo UNI EN 1627 in classi RC: RC1-RC2 (ladro occasionale, attrezzi semplici, pochi minuti), RC3 (cacciavite e piede di porco, 5 minuti), RC4 (utensili pesanti, 10 minuti), R…
 - **Antigelo e sverniciatori** — Chimici di cantiere · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Prodotti per il cantiere invernale e la manutenzione: antigelo per cls, sverniciatori, sgrassatori.
+- **Antincendio ed emergenza: evacuare con gli imputati in custodia** — Sicurezza · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  L'emergenza in un palazzo di giustizia ha un'incognita che altre tipologie non hanno: persone in custodia che non possono evacuare da sole. Il piano di emergenza deve prevedere procedure dedicate: gli imputati nelle came…
 - **Antincendio in istituto penitenziario: evacuare chi non puo' fuggire** — Antincendio ed emergenze · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
   La strategia antincendio negli istituti penitenziari non puo' contare sull'esodo immediato: le persone detenute sono fisicamente vincolate. Il progetto si basa su: compartimentazione spinta per sezione (porte REI, taglia…
 - **Antincendio nelle grandi superfici commerciali** — Prevenzione incendi · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
@@ -121,6 +125,8 @@
   Progettare con il clima, non contro: passivismo, energia quasi zero, adattamento.
 - **Archivi e biblioteche: conservazione di carta e consultazione** — Edilizia culturale — archivi e biblioteche · corso: *MUSEI_BIBLIOTECHE_ARCHIVI_PACK* (`MUSEI_BIBLIOTECHE_ARCHIVI_PACK`)
   Archivi e biblioteche vivono del doppio mandato conservazione + accesso: i documenti si conservano al buio, al fresco e stabili (depositi), ma si consultano in sale luminose e accoglienti. Il progetto distingue nettament…
+- **Archivi, depositi atti e corpi di reato: carichi e requisiti** — Strutture · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  Gli archivi giudiziari sono strutture pesanti travestite da stanze: i fascicoli cartacei pesano 400-700 kg/mq di scaffalatura, i corpi di reato richiedono depositi con controlli di sicurezza e catena di custodia, i tabul…
 - **Aree esterne, parcheggi a raso e viabilità di contorno** — Aree esterne · corso: *Edilizia retail e centri commerciali: formati e autorizzazioni (D.Lgs 114/1998), masterplan e tenant mix, antincendio grandi superfici (DPR 151/2011, D.M. 3/8/2015), strutture di grande luce, involucro e facciate, HVAC e refrigerazione CO2, aree esterne e parcheggi a raso, retro-logistica e baie, titoli edilizi e agibilita', fit-out e capitolari landlord/tenant, riqualificazione e riconversione, economia del retail* (`RETAIL_CENTRI_COMMERCIALI_PACK`)
   Nel retail le aree esterne sono parte del prodotto: parcheggi a raso capienti e leggibili, viabilità di accesso e svincoli, percorsi pedonali protetti dai varchi alle gallerie, aree di carico separate dai flussi clienti…
 - **Aree sanitarie, REMS e salute in istituto: progettare per la cura in custodia** — Sanita' penitenziaria · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
@@ -153,6 +159,8 @@
   Non tutto l'autoconsumo collettivo è una CER: l'AUC condivide energia dentro un edificio o un complesso, i GAC aggregano consumatori e produttori senza forma giuridica piena. Le regole e i vantaggi differiscono in modo p…
 - **Audit tecnico di edifici in esercizio e pre-acquisto** — Esercizio · corso: *Perizie, stime e assicurazioni* (`PERIZIE_STIME_ASSICURAZIONI_PACK`)
   La perizia periodica e la due diligence tecnica: lo stato di salute dell'edificio.
+- **Aule per maxiprocessi e sedi speciali: sicurezza passiva e depositerie** — Sicurezza · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  I processi di criminalita' organizzata e terrorismo richiedono aule speciali: capienza per decine di imputati e legali (300-800 posti complessivi), gabbie o recinti di sicurezza interni per gli imputati (dove ancora prev…
 - **Autogru e camion-gru: diagrammi di carico, slancio e contrappesi** — Autogru · corso: *Mezzi di sollevamento e movimentazione* (`MEZZI_SOLLEVAMENTO_MOVIMENTAZIONE_PACK`)
   L'autogru e' la soluzione flessibile: arriva, starga, solleva e riparte. Ma la sua capacita' crolla con la distanza: il diagramma di carico e' la sua carta d'identita'.
 - **Autolivellante decorativo (microtopping)** — Leganti e malte · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -233,6 +241,8 @@
   In ambito sanitario le camere bianche compaiono in due ambiti: (1) le SALE OPERATORIE (trattate nel pack OSPEDALI_E_HEALTHCARE per la parte funzionale: qui la prospettiva impiantistica cleanroom): UTA dedicate, filtrazio…
 - **Camere bianche: classi ISO 14644-1 e principi di funzionamento** — Camere bianche — classificazione · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
   La camera bianca (cleanroom) e' un ambiente in cui la concentrazione di particelle aerodisperse e' controllata entro limiti dichiarati. La classificazione internazionale e' la ISO 14644-1: le classi vanno da ISO 1 (la pi…
+- **Camere di sicurezza e percorso imputati: custodia breve in tribunale** — Sicurezza · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  Gli imputati in stato di detenzione arrivano al palazzo con la scorta e attendono l'udienza nelle camere di sicurezza: locali di custodia temporanea (ore, non giorni) con requisiti propri: accesso diretto dall'area di so…
 - **Camini, finestre da tetto e attraversamenti: i punti deboli** — Camini · corso: *Tetti e coperture* (`TETTI_E_COPERTURE_PACK`)
   Ogni attraversamento della copertura è un potenziale punto di infiltrazione: camini, finestre da tetto (velux e simili), antenne, pannelli solari, lucernari; il dettaglio corretto usa le pezze speciali (lastrine, collari…
 - **Campanili e torri: statica, campane e vibrazioni** — Edilizia di culto — strutture verticali · corso: *EDILIZIA_RELIGIOSA_CHIESE_PACK* (`EDILIZIA_RELIGIOSA_CHIESE_PACK`)
@@ -241,12 +251,16 @@
   Il campo scoperto è completato da recinzioni perimetrali, reti di protezione sopraelevate e, dove serve continuità d'uso, da coperture: pensiline, capannoni o coperture leggere per singoli campi.
 - **Canaline da pavimento e prese a pavimento** — Elettrico · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Sistemi di canaline nel massetto e prese a pavimento: gli uffici open space senza pareti.
+- **Cancellerie, uffici giudiziari e processo telematico** — Progettazione · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  Il cuore amministrativo sono le cancellerie: sportelli verso il pubblico (deposito atti, certificati, copie), retrostanti postazioni di lavoro per il personale, depositi dei fascicoli in lavorazione, archivi correnti e d…
 - **Canne fumarie e camini: materiali e tiraggio** — Canne fumarie · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
   Il camino corretto: acciaio inox 316L, coibentazione e il calcolo del tiraggio.
 - **Cantiere e montaggio: logistica, sollevamento, collaudi e sicurezza** — Cantiere · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
   Il montaggio di una turbina e' un giorno di gru e mesi di preparazione: accessi, piazzale, plinto maturo, meteo. La finestra di vento debole per alzare il rotore si aspetta, non si improvvisa.
 - **Cantiere idroelettrico: lavori in alveo, finestre stagionali, sicurezza e collaudo** — Cantiere · corso: *Idroelettrico di piccola taglia avanzato: siti, idrologia, DMV, opere, turbine, rete, autorizzazioni, economia, recuperi, cantiere, esercizio* (`IDROELETTRICO_PICCOLA_TAGLIA_PACK`)
   Il cantiere idroelettrico convive con l'acqua viva: le opere in alveo si fanno in finestre stagionali ristrette (magra estivo-autunnale, e spesso ulteriori limitazioni per la fauna ittica definite dagli enti), con by-pas…
+- **Cantiere in esercizio: lavorare dentro un tribunale aperto** — Cantiere · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  La manutenzione straordinaria di una sede giudiziaria in esercizio e' un cantiere in mezzo a un servizio che non si ferma: udienze calendarizzate con termini processuali, migliaia di fascicoli in lavorazione quotidiana, …
 - **Cantieri di cappotto: organizzazione, ponteggi, tempi, sicurezza** — Cantieri · corso: *Isolamento termico a cappotto (ETICS): materiali, sistemi, posa e patologie* (`CAPPOTTO_ETICS_PACK`)
   Il cantiere del cappotto è logistica: ponteggio a servizio continuo della facciata, protezione dal vento e pioggia, stoccaggio dei pannelli (al riparo da sole e pioggia), gestione dei giunti di fase, coordinamento con al…
 - **Cantieri marittimi: navi-cantiere, piattaforme e lavorazioni subacquee** — Cantieri marini · corso: *Porti e opere marittime* (`PORTI_E_OPERE_MARITTIME_PACK`)
@@ -555,6 +569,8 @@
   Il retail edilizio si giudica sulla redditività immobiliare: costo di sviluppo (area, costruzione, autorizzazioni, fit-out incentives), ricavi (canoni base + overage sul fatturato, service charge per spazi comuni) e val…
 - **Economia del terziario: canoni, costi e valore** — Economia · corso: *Uffici e terziario: requisiti igienico-edilizi (D.Lgs 81/2008 Titolo II, DPR 303/1956), postazioni VDT ed ergonomia (Titolo VII, 500 lux, UNI EN 12464-1), workplace (cell office, open space, activity-based, L. 81/2017), comfort termoigrometrico e acustico (UNI EN ISO 7730, ISO 3382-3), illuminazione uffici, torri direzionali (maglia, core, facciate UNI EN 13830), impianti e flessibilita' (pavimento sopraelevato, VAV, travi fredde, BMS), fit-out Cat A/Cat B e capitolari, certificazioni LEED/BREEAM/WELL, sicurezza ed emergenza (DVR, piano di evacuazione, DUVRI), retrofit e riconversioni ufficio-residenza, economia del terziario (canoni, service charge, capex, yield)* (`UFFICI_E_TERZIARIO_PACK`)
   Il valore degli uffici si legge con i numeri: canone per metro quadrato, service charge, capex programmati, costi di fit-out e di locazione (rent free, contributi), tasso di sfitto e valore di capitalizzazione. Il tecnic…
+- **Economia dell'edilizia giudiziaria: finanziamento, PPP e costi di gestione** — Economia · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  L'edilizia giudiziaria vive di finanziamenti pubblici programmati (leggi speciali e capitoli ministeriali) e, ciclicamente, di partenariato pubblico-privato: l'operatore costruisce e gestisce la sede percependo un canone…
 - **Economia dell'industrializzazione: quando conviene il prefabbricato** — Economia · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   La scelta tra getto in loco e prefabbricato si gioca su tempi, ripetitività e costi totali.
 - **Economia delle camere bianche: capex, opex, TCO** — Camere bianche — economia · corso: *LABORATORI_CLEANROOM_PACK* (`LABORATORI_CLEANROOM_PACK`)
@@ -935,6 +951,8 @@
   I prezziari ufficiali sono le banche dati di prezzi unitari delle lavorazioni edili pubblicate da soggetti pubblici: ogni regione pubblica il proprio prezzario dei lavori pubblici (cadenza annuale o semestrale) e le came…
 - **I quadri elettrici: il centralino di utenza e le sue protezioni** — Elettroimpianti · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Il quadro elettrico di un edificio è il centro di controllo dell'impianto: distribuisce i circuiti, protegge persone e linee e permette la manutenzione in sicurezza. La sua progettazione segue la Norma CEI 64-8.
+- **I quattro flussi: pubblico, magistrati, imputati, atti** — Progettazione · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  La distribuzione interna di un palazzo di giustizia nasce dalla separazione rigorosa di quattro flussi che non devono incrociarsi in modo incontrollato: il pubblico (ingressi filtrati con metal detector, sale d'attesa, a…
 - **I raccordi: pressare, saldare, a innesto, filettare** — Raccordi · corso: *Materiali e componenti dell'impiantistica* (`MATERIALI_COMPONENTI_IMPIANTISTICA_PACK`)
   Come si uniscono i tubi: le 4 tecniche e quando usarle.
 - **I refrigeranti e la transizione F-gas: GWP, vietati e futuro** — Refrigeranti e normativa · corso: *Tecnologia delle macchine termiche* (`MACCHINE_TERMICHE_TECNOLOGIA_PACK`)
@@ -1201,6 +1219,8 @@
   Il viadotto Genova San Giorgio (Renzo Piano), costruito in 14 mesi dopo il crollo Morandi: 1.067 m, la 'freccia' bianca.
 - **Il palazzetto dello sport: geometrie, luci e altezze libere** — Tipologie e classificazione · corso: *Impianti sportivi: edilizia e tecnologie* (`IMPIANTI_SPORTIVI_EDILIZIA_PACK`)
   Il palazzetto (palasport) è un edificio a grande luce con campo centrale e spalti. La geometria della copertura — le luci tra i sostegni e le altezze libere sul piano di gioco — è il dato progettuale che condiziona tutto…
+- **Il palazzo di giustizia come tipologia: uffici, committente e quadro** — Tipologie · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  L'edilizia giudiziaria ospita gli uffici giudiziari: tribunali ordinari (civile e penale), Corti d'Appello, procure, giudici di pace, uffici minorili e di sorveglianza, oltre agli uffici amministrativi di supporto. Il co…
 - **Il Pantheon di Roma: la cupola che nessuno ha eguagliato** — Capolavori antichi · corso: *Capolavori e storia delle opere* (`CAPOLAVORI_E_STORIA_OPERE_PACK`)
   Il tempio di tutti gli dei (118-128 d.C.): la più grande cupola in calcestruzzo non armato mai costruita.
 - **Il patrimonio edilizio scolastico e i programmi di messa in sicurezza** — Quadro generale e normativo · corso: *Edilizia scolastica tecnica* (`EDILIZIA_SCOLASTICA_TECNICO_PACK`)
@@ -1347,6 +1367,8 @@
   La dotazione impiantistica della RSA e' sanitaria leggera: (a) impianto di chiamata infermiera da ogni letto e da ogni bagno (tirante), con ripetizione al posto infermieri di modulo e log degli interventi; (b) gas medica…
 - **Impianti speciali: stazioni marittime, fluviali, aziendali e per l'aviazione leggera** — Tipologie · corso: *STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK* (`STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK`)
   Accanto alla rete stradale esistono categorie speciali con regole e tecnologie proprie. Gli impianti marittimi (bunkeraggio e rifornimento diporto) operano su pontili o chiatte con serbatoi a terra o a bordo, tubazioni s…
+- **Impianti speciali: videoregistrazione, udienze da remoto e reti sicure** — Impianti · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  Il palazzo di giustizia moderno e' un impianto tecnologico: ogni aula ha registrazione audio-video ufficiale dell'udienza (il verbale e' il file), videoconferenza per detenuti e testi a distanza, rete dati segregata per …
 - **Impianti tecnici in montagna: antigelo, reti idriche e fognarie, energia in quota** — Impianti in quota · corso: *Edilizia in montagna e ambienti difficili* (`EDILIZIA_MONTAGNA_PACK`)
   Gli impianti in montagna combattono il gelo e la distanza: tubazioni sotto la profondita' di gelo, tratti scoperti da proteggere, acquedotti con pressioni forti dai dislivelli, allaccii lunghi e costosi. Ogni metro di re…
 - **Impianti tecnologici di sicurezza: controllo centralizzato, video e comunicazioni** — Impianti speciali · corso: *EDILIZIA_CARCERARIA_PACK* (`EDILIZIA_CARCERARIA_PACK`)
@@ -1475,6 +1497,8 @@
   L'ascensore pesa per l'1-5% dei consumi elettrici di un edificio: le scelte giuste (inverter, LED, rigenerazione) lo trasformano da utenza a quasi-nulla, e in regime smart building diventa anche flessibile per la rete.
 - **L'attuazione urbanistica: lottizzazioni, convenzioni, piani di recupero** — Attuazione · corso: *Urbanistica, territorio e procedure edilizie* (`URBANISTICA_TERRITORIO_PACK`)
   Gli strumenti di attuazione trasformano il piano in opere: lottizzazione convenzionata (l'imprenditore costruisce infrastrutture e standard in cambio delle aree edificabili), piani di recupero (edilizia consolidata), pro…
+- **L'aula di udienza: geometria, acustica e posizioni** — Progettazione · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  L'aula di udienza e' la stanza-simbolo: banco del magistrato rialzato (30-60 cm) con visibilita' su tutta la sala, postazione del cancelliere a lato e leggermente avanzata, banchi di pubblico ministero e difese rivolti a…
 - **L'economia del legno: costi, tempi, mercato** — Economia · corso: *Costruire in legno* (`COSTRUIRE_IN_LEGNO_PACK`)
   Il legno strutturale costa più del c.a. 'a metro quadro di struttura' ma compete sul totale: i tempi di cantiere ridotti (ponteggi, sicurezza, gestione), i consumi energetici inferiori (l'involucro spesso integrato), la …
 - **L'economia del piccolo eolico: costi veri, incentivi e quando il conto torna** — Economia · corso: *Microeolico e minieolico: tecnologia, autorizzazioni e cantiere* (`MICROEOLICO_PACK`)
@@ -2615,6 +2639,8 @@
   Scheda sul meccanismo delle ritenute d'acconto nella filiera edile: chi versa, chi trattiene, chi certifica. Copre le ritenute sui compensi per prestazioni di lavoro autonomo e sui corrispettivi dei subappalti, le modali…
 - **Riuso dei componenti e passaporto dei materiali** — Cantiere e demolizione · corso: *Edilizia circolare e LCA* (`EDILIZIA_CIRCOLARE_LCA_PACK`)
   Il riuso diretto dei componenti (travi, pavimentazioni, serramenti, sanitari, porte, controsoffitti) conserva il valore del prodotto intero invece di ridurlo a materia prima: e' il gradino piu' alto della gerarchia circo…
+- **Riuso e riconversione: da edificio terziario a sede giudiziaria** — Recupero · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  La domanda ricorrente del Ministero e': questo edificio esistente puo' diventare una sede giudiziaria? La fattibilita' si gioca su sei verifiche: flussi (si riescono a separare i quattro flussi nei vani esistenti?), stru…
 - **Rivestimento ceramico pareti** — Rivestimenti · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
   Piastrelle e gres per pareti di bagni e cucine: protezione da acqua e decorazione.
 - **Rivetto** — Fissaggi · corso: *Materiali da costruzione* (`MATERIALEDILE_PACK`)
@@ -2913,6 +2939,8 @@
 ## U
 - **Uffici e spazi di lavoro: il workplace design** — Interior terziario · corso: *Master in design* (`MASTER_DESIGN_PACK`)
   L'ufficio contemporaneo: flessibilità, wellbeing, ibrido.
+- **Uffici giudiziari speciali: minorile, sorveglianza, giudice di pace** — Tipologie · corso: *TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK* (`TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK`)
+  Non tutta la giustizia e' tribunale monumentale. Gli uffici minorili richiedono ambienti de-istituzionalizzati: aule piccole a pianta libera senza banco rialzato, sale per colloqui protetti con i minori (arredi domestici…
 - **Unioni e giunti tra elementi prefabbricati** — Unioni · corso: *Prefabbricazione e industrializzazione edilizia* (`PREFABBRICAZIONE_INDUSTRIALIZZATA_PACK`)
   Il punto critico del sistema: come i prefabbricati diventano un'opera unica.
 - **Urbanistica: la città come organismo** — Urbanistica · corso: *Architettura* (`ARCHITETTURA_PACK`)

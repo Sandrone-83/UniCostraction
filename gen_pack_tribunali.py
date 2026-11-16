@@ -1,0 +1,239 @@
+# -*- coding: utf-8 -*-
+"""Giro BB (2026-11-16): TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK - 14 schede."""
+import json, os
+
+KEYS = ["categoria","nome","descrizione","tecnologia","applicazioni","vantaggi","limiti",
+        "costi_e_economia","casi_real_world","normative","note_cantiere"]
+
+S = []
+
+S.append({
+"categoria": "Tipologie",
+"nome": "Il palazzo di giustizia come tipologia: uffici, committente e quadro",
+"descrizione": "L'edilizia giudiziaria ospita gli uffici giudiziari: tribunali ordinari (civile e penale), Corti d'Appello, procure, giudici di pace, uffici minorili e di sorveglianza, oltre agli uffici amministrativi di supporto. Il committente e' il Ministero della Giustizia con le sue strutture tecniche centrali e locali, spesso in accordo con enti locali proprietari degli immobili storici. E' una tipologia ibrida: edificio pubblico ad alta frequentazione, ufficio direzionale con archivi pesanti, e struttura di sicurezza con flussi riservati e locali di custodia temporanea. La geografia giudiziaria italiana e' stata ridisegnata dai riordini degli anni Dieci con accorpamenti e soppressioni di sedi: la gran parte dell'attivita' edilizia oggi e' adeguamento, manutenzione straordinaria e riconversione di edifici esistenti, con nuove costruzioni concentrate nelle cittadelle giudiziarie dei capoluoghi.",
+"tecnologia": "Programma funzionale tipico di un tribunale di media dimensione: 8-20 aule di udienza, 60-200 uffici per magistrati e personale, cancellerie e depositi atti, archivi, camere di consiglio, locali per avvocati e consulenti, camere di sicurezza per imputati, servizi per il pubblico. Indicatori: superficie per aula 60-250 mq a seconda del rito; posti pubblico 20-200; superficie complessiva 8.000-40.000 mq per sedi di capoluogo.",
+"applicazioni": "Adeguamento e manutenzione straordinaria di palazzi di giustizia esistenti; riconversione di edifici pubblici dismessi in sedi giudiziarie; nuove cittadelle giudiziarie; adeguamento aule per esigenze processuali particolari.",
+"vantaggi": "Committente pubblico con programmazione pluriennale stabile; tipologia con regole ricorrenti e replicabili; il patrimonio esistente e' vasto e in larga parte da adeguare: mercato lungo per imprese e professionisti.",
+"limiti": "Iter decisionale lungo (piu' livelli ministeriali, enti locali, soprintendenze per gli edifici storici); vincoli di sicurezza che condizionano ogni scelta impiantistica e distributiva; finanziamenti a tranche: cantieri che si fermano e ripartono; esigenze processuali che evolvono (processo telematico, riti da remoto) piu' velocemente degli edifici.",
+"costi_e_economia": "Ordini di grandezza indicativi: nuovo palazzo di giustizia 2.500-4.500 €/mq; riqualificazione profonda di sede esistente 1.200-2.500 €/mq; adeguamento singola aula 80-300 k€; progetto di fattibilita' per riconversione 50-200 k€.",
+"casi_real_world": "Caso tipo: capoluogo con tribunale ospitato in edificio storico ottocentesco saturo: lo studio di fattibilita' ha confrontato ampliamento in sito, cittadella ex novo in area dismessa e distribuzione su due sedi; scelta la cittadella ex novo mantenendo nella sede storica il solo giudice di pace e gli uffici di prossimita'.",
+"normative": "DPR 380/2001 (titoli edilizi); D.Lgs 42/2004 per le numerose sedi vincolate; provvedimenti statali di finanziamento e riordino dell'edilizia giudiziaria e della geografia giudiziaria (riferimenti puntuali da verificare su normattiva.it); D.Lgs 50/2016 per gli appalti degli interventi; NTC D.M. 17/1/2018.",
+"note_cantiere": "Quando progetti per la giustizia chiedi subito due documenti: l'organico previsto (magistrati e personale, con le proiezioni di crescita) e il piano dei fascicoli in carico: il palazzo si dimensiona su quei numeri, non sulla superficie dell'edificio precedente."})
+
+S.append({
+"categoria": "Progettazione",
+"nome": "I quattro flussi: pubblico, magistrati, imputati, atti",
+"descrizione": "La distribuzione interna di un palazzo di giustizia nasce dalla separazione rigorosa di quattro flussi che non devono incrociarsi in modo incontrollato: il pubblico (ingressi filtrati con metal detector, sale d'attesa, accesso alle aule e agli sportelli), i magistrati e il personale (ingressi riservati, ascensori dedicati, corridoi protetti che collegano uffici, aule e camere di consiglio), gli imputati in custodia (percorso protetto dalle camere di sicurezza alle aule, con ascensore dedicato e nessun contatto visivo con il pubblico), gli atti e i fascicoli (dalle cancellerie agli uffici e alle aule, con depositi intermedi). Il fallimento progettuale piu' comune e' un edificio che costringe due flussi incompatibili sullo stesso corridoio: si risolve in esercizio con chiusure, scorte e disagi che durano decenni.",
+"tecnologia": "Filtri di accesso con varchi metal detector e controllo raggi X dei bagagli; ascensori separati per magistrati e per imputati (cabina con comando prioritario); corridoi riservati con accesso controllato da badge; scale di servizio per il trasporto atti con montacarichi; cessioni di fascia oraria per i movimenti imputati nelle fasi critiche.",
+"applicazioni": "Nuove sedi giudiziarie; riorganizzazione dei percorsi in sedi esistenti con problemi di sicurezza; conversione di edifici terziari in uffici giudiziari (la verifica dei flussi e' il primo test di fattibilita').",
+"vantaggi": "La separazione dei flussi riduce i rischi di sicurezza e le interferenze processuali; migliora l'efficienza (magistrati e atti arrivano in aula senza attraversare il pubblico); semplifica la vigilanza con personale ridotto.",
+"limiti": "Richiede superficie: nei palazzi storici i quattro flussi completi spesso non ci stanno e si accettano compromessi documentati; le chiusure di compromesso degradano nel tempo (porte lasciate aperte, badge condivisi); ogni nuovo rito o ufficio speciale ridisegna i flussi.",
+"costi_e_economia": "Ordini di grandezza indicativi: filtro di accesso completo (varco, raggi X, arredi, opere) 80-200 k€; ascensore dedicato imputati in esistente 80-250 k€; riorganizzazione distribuzione di un piano 150-500 k€.",
+"casi_real_world": "Caso tipo: palazzo anni Trenta con ascensore unico usato da tutti: il progetto ha ricavato un vano ascensore imputati in corte interna su struttura metallica esterna, riservando l'ascensore storico ai magistrati e usando le scale pubbliche per il pubblico; eliminati i 'congelamenti' dell'aula in attesa del passaggio imputati.",
+"normative": "D.Lgs 81/2008 (sicurezza dei luoghi di lavoro); linee guida ministeriali sulla sicurezza delle sedi giudiziarie (documenti interni del committente, da richiedere); D.M. 236/1989 per la parte pubblica; NTC D.M. 17/1/2018 per i nuovi vani e le strutture aggiunte.",
+"note_cantiere": "Disegna i flussi su quattro planimetrie sovrapposte con colori diversi e falli firmare uno a uno: dirigente, comandante della vigilanza, responsabile cancelleria, rappresentante avvocatura. Il flusso che non hai disegnato te lo fara' notare il primo giorno di apertura, davanti a tutti."})
+
+S.append({
+"categoria": "Progettazione",
+"nome": "L'aula di udienza: geometria, acustica e posizioni",
+"descrizione": "L'aula di udienza e' la stanza-simbolo: banco del magistrato rialzato (30-60 cm) con visibilita' su tutta la sala, postazione del cancelliere a lato e leggermente avanzata, banchi di pubblico ministero e difese rivolti al giudice, posto del teste in posizione controllata, posti per gli imputati con vigilanza ravvicinata, area pubblico separata da barriera o dislivello. La geometria serve la funzione: tutti devono sentire senza microfono nelle aule piccole, con rinforzo elettroacustico calibrato nelle grandi; la luce naturale laterale (mai frontale per il giudice) integrata da illuminazione diffusa 300-500 lux sui piani di lavoro. Le aule per collegi (tre o cinque giudici) e per i riti con piu' parti (processi con decine di imputati) richiedono larghezze e profondita' maggiori e tavoli tecnici estendibili.",
+"tecnologia": "Superfici indicative: aula monocratica 60-100 mq, collegiale 100-160 mq, grandi processi 200-400 mq; altezze libere 3,5-6 m; acustica: tempo di riverbero 0,6-1,0 s, rivestimenti fonoassorbenti selettivi, isolamento verso l'esterno 45-55 dB; impianti: microfonazione con attivazione vocale, registrazione audio-video integrata, prese dati su tutti i banchi, climatizzazione a bassa velocita' dell'aria.",
+"applicazioni": "Nuove aule; adeguamento acustico di aule esistenti; aule per riti speciali; retrofit tecnologico per registrazione e da remoto.",
+"vantaggi": "Un'aula acusticamente corretta riduce errori di trascrizione e tensione delle parti; la tecnologia integrata (registrazione ufficiale dell'udienza) elimina la verbalizzazione manuale ridondante; la modularita' dei tavoli consente riti diversi nella stessa aula.",
+"limiti": "Le aule storiche monumentali impongono compromessi tra decoro e acustica (superfici dure tutelate); il pubblico numeroso nei processi di richiamo supera sempre i posti disponibili; la manutenzione degli impianti AV e' sottostimata: aule mute o con ritorni audio sono un classico.",
+"costi_e_economia": "Ordini di grandezza indicativi: adeguamento completo aula esistente 80-300 k€; impianto registrazione audio-video per aula 20-60 k€; correzione acustica 300-900 €/mq di superficie trattata; nuova aula in edificio nuovo compresa nell'aliquota impianti speciali del progetto.",
+"casi_real_world": "Caso tipo: aula d'Assise in edificio storico con riverbero superiore a 2 s e continue richieste di ripetizione: intervento con pannelli fonoassorbenti retrostanti removibili su pareti tutelate, tendaggio tecnico e microfonazione nuova; riverbero misurato post intervento 0,9 s senza opere sulle superfici vincolate.",
+"normative": "D.M. 236/1989 (accessibilita' dell'area pubblica e dei posti per persone con disabilita'); UNI EN ISO 3382 (misurazione dell'acustica delle sale); D.Lgs 81/2008 (microclima e illuminazione dei luoghi di lavoro); capitolati tecnici del committente per le dotazioni AV (da richiedere alla stazione appaltante).",
+"note_cantiere": "Prima del collaudo fai la prova vera: udienza simulata con cancelliere che verbalizza a voce bassa e pubblico seduto in fondo: se in ultima fila non si capisce ogni parola, l'aula non e' finita, qualunque cosa dica il fonometro sui valori medi."})
+
+S.append({
+"categoria": "Sicurezza",
+"nome": "Camere di sicurezza e percorso imputati: custodia breve in tribunale",
+"descrizione": "Gli imputati in stato di detenzione arrivano al palazzo con la scorta e attendono l'udienza nelle camere di sicurezza: locali di custodia temporanea (ore, non giorni) con requisiti propri: accesso diretto dall'area di sosta dei mezzi di trasporto penitenziario senza attraversare spazi pubblici, finiture resistenti e anti-autolesionismo, servizi igienici controllabili, videosorveglianza e intercomunicante con il posto di guardia, uscita di sicurezza gestibile dalla scorta. Dal blocco camere parte il percorso protetto verso le aule: corridoi riservati o fasce orarie, ascensore dedicato con accesso esclusivo, arrivo in aula direttamente nell'area imputati. La progettazione e' coordinata con la polizia penitenziaria e con gli uffici del Ministero competenti.",
+"tecnologia": "Camere di sicurezza singole o di gruppo 6-12 mq; pareti e porte con resistenza meccanica elevata; serramenti e ferramenta con fissaggi antimanomissione; sanitari in acciaio o resina monoblocco a sicurezza; ascensore imputati con cabina rinforzata e comando da posto di guardia; area di sosta mezzi coperta e recintata con cancello carrabile comandato.",
+"applicazioni": "Nuove sedi giudiziarie; messa a norma delle camere di sicurezza esistenti; adeguamento dei percorsi imputati in palazzi storici; ampliamento per processi con numerosi detenuti.",
+"vantaggi": "La custodia breve ben progettata riduce i rischi durante le ore piu' delicate (attesa e movimentazione); il percorso dedicato elimina le sospensioni di udienza per problemi logistici; separa le responsabilita' tra gestione edificio e gestione scorte.",
+"limiti": "Norme di dettaglio non codificate in un unico testo: si lavora con il Ministero caso per caso; gli spazi sottratti alle camere di sicurezza pesano sul bilancio delle superfici; nei palazzi storici i percorsi protetti sono il vincolo piu' costoso.",
+"costi_e_economia": "Ordini di grandezza indicativi: camera di sicurezza finita 20-50 k€ cad.; blocco di 6-10 camere con servizi e posto di guardia 200-600 k€; ascensore dedicato in esistente 80-250 k€; area sosta mezzi attrezzata 50-150 k€.",
+"casi_real_world": "Caso tipo: sede penale con camere anni Settanta non piu' conformi: progetto di riordino del seminterrato con 8 camere nuove, posto di guardia con vetro blindato e ascensore dedicato; durante i lavori le udienze sono proseguite con trasferimenti coordinati in altra sede per 5 mesi.",
+"normative": "L. 354/1975 e DPR 230/2000 per i principi sulle persone private della liberta' (applicati per analogia alla custodia breve); standard europei CPT per gli spazi di custodia; D.Lgs 81/2008; indirizzi tecnici del Ministero della Giustizia (da richiedere al committente; riferimenti puntuali da verificare).",
+"note_cantiere": "Nelle camere di sicurezza ogni spigolo, ogni vite, ogni rosone e' un problema potenziale: usa finiture continue, viti antimanomissione ovunque e niente appigli. E ricorda: li' dentro la videosorveglianza copre gli angoli morti solo se la posizioni con la scorta che ti mostra dove si fermano davvero gli agenti."})
+
+S.append({
+"categoria": "Progettazione",
+"nome": "Cancellerie, uffici giudiziari e processo telematico",
+"descrizione": "Il cuore amministrativo sono le cancellerie: sportelli verso il pubblico (deposito atti, certificati, copie), retrostanti postazioni di lavoro per il personale, depositi dei fascicoli in lavorazione, archivi correnti e di deposito. Con il processo telematico il flusso cartaceo cala ma non sparisce: gli atti depositati in forma analogica vanno scansionati in ingresso (front office digitale), i fascicoli storici restano cartacei per decenni e le prove documentali fisiche continuano ad arrivare. Gli uffici dei magistrati chiedono silenzio e concentrazione: moduli singoli o doppi su corridoi riservati, con la segreteria a filtro, collegati direttamente alle aule e alle camere di consiglio.",
+"tecnologia": "Sportelli con vetri di sicurezza e passadocumenti; scanner di produzione per il front office digitale (migliaia di pagine/giorno); fascicolatori e scaffalature aperte per i fascicoli in lavorazione; reti dati ridondate con segregazione tra rete amministrativa e rete di sicurezza; sale riunioni collegiali con videoconferenza; camere di consiglio adiacenti alle aule con accesso riservato.",
+"applicazioni": "Riqualificazione delle cancellerie verso il front office digitale; ampliamento uffici per nuovi organici; messa in sicurezza dei depositi atti; nuove sedi con organizzazione paperless-oriented.",
+"vantaggi": "Il front office digitale riduce code e tempi di registrazione; la separazione sportello/retrobottega protegge il personale e i fascicoli; la progettazione per moduli consente variazioni di organico senza opere murarie.",
+"limiti": "Il cartaceo residuo e' sottostimato in ogni progetto: i depositi si saturano prima del previsto; la digitalizzazione sposta i costi sui data center e sulle reti (obsolescenza 5-7 anni); gli sportelli pubblici restano il punto di attrito quotidiano.",
+"costi_e_economia": "Ordini di grandezza indicativi: sportello cancelleria finito 15-40 k€ cad.; allestimento front office digitale (scanner, postazioni, software gestionale) 50-200 k€ per sede media; ufficio magistrato finito 300-600 €/mq oltre la finitura base; rete dati sicura per sede 100-400 k€.",
+"casi_real_world": "Caso tipo: cancelleria civile con 3 ore di coda media per il deposito cartaceo: introdotta accettazione digitale con due postazioni self-service e scansione immediata con restituzione dell'originale; tempi medi scesi sotto i 30 minuti e dimezzato il magazzino fascicoli correnti.",
+"normative": "D.Lgs 82/2005 (Codice dell'amministrazione digitale) per il processo telematico; DPR 380/2001 e regolamenti edilizi per le opere; D.Lgs 81/2008 (videoterminali e postazioni di lavoro); normativa privacy per i flussi documentali (Reg. UE 2016/679).",
+"note_cantiere": "Dimensiona il deposito fascicoli in lavorazione contando i faldoni reali di un anno tipo, non la stima del dirigente: pesa, misura, fotografa gli scaffali esistenti. Il cartaceo che 'sparira' col telematico e' come la neve di aprile: c'e' ancora a maggio."})
+
+S.append({
+"categoria": "Strutture",
+"nome": "Archivi, depositi atti e corpi di reato: carichi e requisiti",
+"descrizione": "Gli archivi giudiziari sono strutture pesanti travestite da stanze: i fascicoli cartacei pesano 400-700 kg/mq di scaffalatura, i corpi di reato richiedono depositi con controlli di sicurezza e catena di custodia, i tabulati e le perizie fisiche occupano volume per decenni (i termini di conservazione degli atti giudiziari sono lunghissimi). La collocazione corretta e' ai piani bassi o in seminterrato con struttura verificata; nei piani alti servono verifiche strutturali preventive prima di ogni nuova scaffalatura. I depositi dei corpi di reato hanno requisiti particolari: accesso controllato con registro, ambienti separati per categorie (armi, stupefacenti con custodia rafforzata, documenti, beni sequestrati ingombranti), condizioni ambientali controllate per i materiali sensibili.",
+"tecnologia": "Scaffalature compattabili su guide con verifica dei carichi dinamici; carichi di progetto per archivi 500-1.000 kg/mq secondo destinazione (verifica puntuale con i dati di scaffalatura scelta); controllo T/UR per la conservazione cartacea (18-22 °C, 45-60% UR); depositi corpi di reato con accesso a doppia persona, inventario informatizzato, celle blindate per le categorie sensibili.",
+"applicazioni": "Nuovi archivi in sedi giudiziarie; verifica e rinforzo di solai per scaffalature esistenti; riordino di depositi corpi di reato; traslochi di archivi in caso di accorpamento sedi.",
+"vantaggi": "Le compattabili raddoppiano la capacita' a parita' di superficie; la collocazione ai piani bassi con struttura dedicata elimina i rischi di sovraccarico; l'inventario informatizzato dei corpi di reato riduce le contestazioni processuali.",
+"limiti": "I solai esistenti raramente reggono le compattabili senza rinforzi (costo nascosto n. 1); la crescita archivistica e' monotona: ogni piano archivi diventa obsoleto in 10-15 anni; la gestione dei corpi di reato ingombranti (veicoli, macchinari) richiede spazi che nessun palazzo storico ha.",
+"costi_e_economia": "Ordini di grandezza indicativi: scaffalatura compattabile installata 150-300 €/mq di archivio; rinforzo solaio per archivio 300-800 €/mq; deposito corpi di reato con celle e controllo accessi 100-400 k€; microclima archivio 50-150 k€.",
+"casi_real_world": "Caso tipo: archivio sentenze al terzo piano con fessurazioni progressive sui solai in laterizio: indagine con prove di carico, spostamento urgente del 60% dei faldoni al piano terra su compattabili nuove e rinforzo dei solai con soletta collaborante prima del ripristino parziale.",
+"normative": "NTC D.M. 17/1/2018 (carichi e verifiche); UNI EN 1991-1-1 (sovraccarichi per archivi e depositi); norme di conservazione documentale (UNI 10829 per i beni archivistici analogici dove applicabile); D.Lgs 81/2008 (movimentazione manuale dei carichi per il personale).",
+"note_cantiere": "Non fidarti mai della scritta 'archivio' sulla planimetria: verifica cosa portava davvero quel solaio quando e' stato costruito. La regola spiccia che salva la carriera: faldoni al di sopra del secondo piano solo dopo una verifica strutturale scritta, mai sulla fiducia."})
+
+S.append({
+"categoria": "Impianti",
+"nome": "Impianti speciali: videoregistrazione, udienze da remoto e reti sicure",
+"descrizione": "Il palazzo di giustizia moderno e' un impianto tecnologico: ogni aula ha registrazione audio-video ufficiale dell'udienza (il verbale e' il file), videoconferenza per detenuti e testi a distanza, rete dati segregata per la giustizia telematica, chiamata del pubblico con display e sintesi vocale, controllo accessi a zone. L'infrastruttura e' ridondata: due alimentazioni, UPS sulle sale macchina, dorsali separate per sicurezza e amministrazione. Le udienze da remoto con i detenuti (introdotte per sicurezza e divenute strutturali) richiedono sale dedicate sia in tribunale sia negli istituti penitenziari, con qualita' audio-video garantita e registrazione integrata.",
+"tecnologia": "Sistemi AV nativi IP con gestione centralizzata; microfoni a colonna o gooseneck con attivazione vocale; camere a circuito chiuso nelle aule con accesso ristretto; videoconferenza con codec dedicati e linee prioritarie; sale macchina con climatizzazione ridondata N+1; cablaggio strutturato rame+fibra con prese su tutti i banchi e le postazioni.",
+"applicazioni": "Nuove sedi; retrofit tecnologico di aule esistenti; allestimento di sale per udienze da remoto; potenziamento delle reti per il processo telematico.",
+"vantaggi": "La registrazione ufficiale riduce contenziosi sul verbale; le udienze da remoto tagliano i trasporti detenuti (rischio e costo); la gestione centralizzata AV riduce i fermi aula.",
+"limiti": "Obsolescenza rapida (5-7 anni) con budget di rinnovo raramente programmato; la segregazione delle reti impone disciplina che si degrada; la qualita' delle udienze da remoto dipende anche dagli impianti degli istituti, fuori dal controllo del progettista del tribunale.",
+"costi_e_economia": "Ordini di grandezza indicativi: dotazione AV completa per aula 20-60 k€; sala udienze da remoto 30-80 k€; rete dati sicura sede media 100-400 k€; sala macchina con UPS e clima ridondato 80-250 k€; manutenzione annua sistemi AV 5-10% del valore installato.",
+"casi_real_world": "Caso tipo: distretto che ha convertito due aule minori in sale per udienze da remoto con i detenuti durante l'emergenza sanitaria: mantenute e potenziate dopo l'emergenza, oggi coprono il 40% delle udienze con detenuti del circondario, con azzeramento dei trasporti per i riti brevi.",
+"normative": "D.Lgs 82/2005 (CAD) per l'infrastruttura telematica; normativa privacy (Reg. UE 2016/679) per registrazioni e videosorveglianza con i provvedimenti del Garante sulle telecamere nei luoghi di lavoro; CEI 64-8 per gli impianti; capitolati tecnici del committente (da richiedere).",
+"note_cantiere": "Fai collaudare la registrazione d'aula con un'udienza finta di due ore complete e riascoltala tutta: i problemi (canali muti, ritorni, file corrotti) escono solo sul lungo. E documenta la segregazione delle reti con schema firmato: il primo tecnico che fa un ponte 'temporaneo' tra le due reti apre una falla che dura anni."})
+
+S.append({
+"categoria": "Sicurezza",
+"nome": "Antincendio ed emergenza: evacuare con gli imputati in custodia",
+"descrizione": "L'emergenza in un palazzo di giustizia ha un'incognita che altre tipologie non hanno: persone in custodia che non possono evacuare da sole. Il piano di emergenza deve prevedere procedure dedicate: gli imputati nelle camere di sicurezza e nelle aule sono evacuati dalle scorte verso aree di raccolta controllate e recintabili, separate dal pubblico; le aule piene di pubblico richiedono esodo calcolato e presidi formati; i depositi atti e gli archivi hanno strategie di protezione proprie (compartimentazione, rivelazione precoce, estinzione a gas o nebbie dove giustificata dal valore documentale). Le prove di evacuazione devono includere lo scenario custodia, non solo il pubblico.",
+"tecnologia": "Compartimentazione per macro-aree funzionali; rivelazione ottica di fumo con logica di allarme a due livelli (preallarme al posto di guardia, generale all'evacuazione); porte sui percorsi imputati con svincolo comandato dal posto di guardia e non automatico di folla; aree di raccolta per la custodia identificate in progetto; illuminazione di emergenza e segnaletica sui percorsi riservati.",
+"applicazioni": "Aggiornamento piani di emergenza; adeguamento antincendio in sedi esistenti; progettazione di nuove sedi; prove di evacuazione integrate con le scorte.",
+"vantaggi": "Le procedure dedicate per la custodia eliminano l'improvvisazione nel momento peggiore; la compartimentazione per macro-aree consente evacuazioni parziali senza fermare tutto il palazzo; la rivelazione precoce protegge il patrimonio documentale insostituibile.",
+"limiti": "Il coordinamento tra addetti all'emergenza e scorte richiede addestramento congiunto che si perde nei turni; nei palazzi storici la compartimentazione si scontra con le distribuzioni aperte; le aree di raccolta custodia esterne sono difficili nei centri urbani.",
+"costi_e_economia": "Ordini di grandezza indicativi: aggiornamento piano di emergenza con scenario custodia 10-30 k€; adeguamento rivelazione e segnaletica 30-120 k€; compartimentazione aggiuntiva in esistente 100-400 k€; prova di evacuazione integrata annuale 5-15 k€.",
+"casi_real_world": "Caso tipo: prova di evacuazione con imputati simulati ha rivelato che l'area di raccolta prevista era visibile dal pubblico e non presidiabile: spostata in corte interna recintata con cancello dedicato, riviste le procedure e rifatta la prova con esito positivo.",
+"normative": "D.Lgs 81/2008 (gestione emergenze); DPR 151/2011 (classificazione dell'attivita', voce da verificare sul testo vigente); regole tecniche di prevenzione incendi per gli edifici pubblici; D.M. 236/1989 per l'evacuazione di persone con disabilita'.",
+"note_cantiere": "Quando scrivi il piano di emergenza, siediti un'ora con il comandante delle scorte e chiedigli: 'se suona l'allarme mentre ho sei detenuti in tre aule, cosa fai con chi hai?'. La risposta vera e' la base del piano; la procedura copiata dal modello non la usa nessuno."})
+
+S.append({
+"categoria": "Progettazione",
+"nome": "Accessibilita' e fragilita': vittime, testi vulnerabili e pubblico",
+"descrizione": "Il palazzo di giustizia riceve il pubblico piu' vario e piu' fragile: vittime di reato, minori, testimoni vulnerabili, persone con disabilita', parti sotto protezione. Oltre all'accessibilita' fisica di legge (percorsi, ascensori, servizi, posti riservati in aula con visuale e acustica adeguate), la tipologia richiede dispositivi specifici: percorsi separati per vittime e testi che non devono incontrare imputati o parti avverse, sale di attesa protette, aule o salette per audizioni protette con collegamento video (il testimone vulnerabile depone senza essere in aula), arredi non aggressivi e segnaletica chiara per chi arriva in condizioni di stress.",
+"tecnologia": "Posti in aula per persone con disabilita' motoria integrati (non in fondo, non isolati); sistemi di ascolto assistito a induzione magnetica; percorsi LVE per ipovedenti nelle aree pubbliche; salette per audizioni protette con video bidirezionale e arredo domestico; sale di attesa separate per categorie fragili con accesso discreto.",
+"applicazioni": "Messa a norma e miglioramento dell'accessibilita' in sedi esistenti; allestimento di spazi per audizioni protette; riorganizzazione delle attese e degli sportelli per categorie fragili.",
+"vantaggi": "Migliora la qualita' della prova testimoniale (il testimone a proprio agio depone meglio); riduce gli incidenti e i reclami; allinea la sede agli standard europei sui diritti delle vittime.",
+"limiti": "Nei palazzi storici i percorsi separati per le categorie protette competono con quelli degli imputati: gerarchie di priorita' da concordare; le salette protette richiedono personale formato, non solo tecnologia; la manutenzione degli ausili (anelli magnetici, LVE) e' cronica.",
+"costi_e_economia": "Ordini di grandezza indicativi: saletta per audizioni protette 20-60 k€; sistema di ascolto assistito per aula 3-10 k€; adeguamento accessibilita' di un piano tipo 50-200 k€; segnaletica inclusiva completa 20-60 k€.",
+"casi_real_world": "Caso tipo: sezione minorile con vittime minorenni costrette ad attendere nello stesso corridoio degli adulti imputati: ricavate due sale di attesa protette con ingresso laterale e collegamento video per le audizioni, eliminando il contatto visivo senza opere strutturali.",
+"normative": "L. 13/1989 e D.M. 236/1989 (accessibilita'); DPR 503/1996 per l'eliminazione delle barriere negli edifici pubblici; direttiva UE sui diritti delle vittime e relativo recepimento nazionale (riferimenti puntuali da verificare); D.Lgs 212/2015 (presunzione di vulnerabilita', da verificare il testo).",
+"note_cantiere": "Prova il percorso del pubblico come se fossi la persona peggio preparata che entrera' mai: anziana, con il passeggino, senza occhiali, in ritardo, sotto stress. Se trovi l'aula giusta senza chiedere, il progetto funziona; se ti perdi tu, ridisegna la segnaletica."})
+
+S.append({
+"categoria": "Recupero",
+"nome": "Riuso e riconversione: da edificio terziario a sede giudiziaria",
+"descrizione": "La domanda ricorrente del Ministero e': questo edificio esistente puo' diventare una sede giudiziaria? La fattibilita' si gioca su sei verifiche: flussi (si riescono a separare i quattro flussi nei vani esistenti?), strutture (portano archivi e affollamenti?), sicurezza (filtri, camere di sicurezza, area mezzi), vincoli (soprintendenza, centro storico), impianti (potenza, reti, antincendio) e costo comparato col nuovo. Gli edifici terziari moderni con piani liberi e nuclei multipli sono i piu' convertibili; i palazzi storici a corte sono belli ma rigidi. Le caserme dismesse sono candidate frequenti: lotti grandi, perimetri controllabili, edifici ripetitivi. Il risparmio tipico del riuso ben scelto rispetto al nuovo e' del 30-50%, ma il riuso mal scelto costa piu' del nuovo e consegna un edificio peggiore.",
+"tecnologia": "Check-list di fattibilita' con punteggio sui sei criteri; indagini strutturali preliminari (carichi ammissibili dei solai, gerarchia delle resistenze); analisi dei vani ascensore per la separazione imputati; verifica della cortina edilizia per filtri e aree di sosta mezzi; modelli di layout tipo da adattare al piano esistente.",
+"applicazioni": "Conversione di uffici pubblici dismessi; riuso di caserme e complessi militari; trasferimento di uffici giudiziari da sedi fatiscenti; ampliamenti con edifici adiacenti.",
+"vantaggi": "Tempi potenzialmente piu' brevi del nuovo; riuso di patrimonio pubblico esistente (sostenibilita' amministrativa); posizioni centrali gia' servite dai trasporti.",
+"limiti": "I vincoli storici limitano fori, vani e aggiunte proprio dove servono (ascensori imputati); le strutture esistenti impongono gli archivi al piano terra e gli archivi sono gia' troppi; i costi nascosti (amianto, impianti, rinforzi) emergono in corso d'opera.",
+"costi_e_economia": "Ordini di grandezza indicativi: studio di fattibilita' comparato 50-200 k€; conversione di edificio terziario moderno 900-1.800 €/mq; conversione di edificio storico vincolato 1.500-3.000 €/mq; nuovo comparabile 2.500-4.500 €/mq.",
+"casi_real_world": "Caso reale noto: numerosi capoluoghi hanno convertito caserme dismesse in sedi giudiziarie sfruttando perimetro controllabile e lotti ampi; i casi riusciti hanno concentrato aule e pubblico nell'edificio principale e destinato i corpi secondari ad archivi, cancellerie e servizi logistici.",
+"normative": "DPR 380/2001 (cambio di destinazione d'uso e titoli); D.Lgs 42/2004 per gli edifici vincolati; NTC D.M. 17/1/2018 Cap. 8 (costruzioni esistenti); normativa federalismo demaniale e valorizzazione patrimonio pubblico (da verificare i riferimenti puntuali).",
+"note_cantiere": "Nella fattibilita' metti sempre il disegno del percorso imputati dal punto di arrivo del mezzo all'aula piu' lontana: se quel percorso richiede di attraversare la hall del pubblico anche solo per tre metri, l'edificio non e' convertibile a sede penale, qualunque sia il prezzo."})
+
+S.append({
+"categoria": "Cantiere",
+"nome": "Cantiere in esercizio: lavorare dentro un tribunale aperto",
+"descrizione": "La manutenzione straordinaria di una sede giudiziaria in esercizio e' un cantiere in mezzo a un servizio che non si ferma: udienze calendarizzate con termini processuali, migliaia di fascicoli in lavorazione quotidiana, pubblico continuo, detenuti in arrivo. La regia e' tutto: fasi per ali o per piani con traslochi temporanei delle sezioni, cantieri separati dai flussi con barriere fisiche e percorsi dedicati per mezzi e materiali, lavori rumorosi o invasivi in fasce orarie concordate (serali, weekend), protezione fisica dei fascicoli (polvere e acqua sono nemici giuridici, non solo tecnici), piano di gestione degli imprevisti con il dirigente.",
+"tecnologia": "Barriere di cantiere a tenuta di polveri con monitoraggio; percorsi materiali separati con montacarichi o fasce dedicate; coperture mobili di protezione per scaffali e apparecchiature; piano traslochi con inventario informatizzato dei fascicoli (ogni scatola tracciata); cronoprogramma condiviso con il calendario delle udienze.",
+"applicazioni": "Riqualificazioni energetiche e impiantistiche in sedi operative; sostituzione coperture e facciate con il palazzo aperto; adeguamenti antincendio e sismici per fasi.",
+"vantaggi": "Evita la chiusura totale (costo sociale enorme: processi rinviati); le fasi ben progettate mantengono la qualita' del servizio; il trasloco tracciato azzera le perdite documentali.",
+"limiti": "Costi maggiorati del 15-30% rispetto al cantiere a edificio vuoto; tempi allungati dalle fasce orarie ridotte; rischio di contenzioso con il committente sui disagi se non documentati giorno per giorno.",
+"costi_e_economia": "Ordini di grandezza indicativi: maggiorazione per cantiere in esercizio 15-30% sull'importo lavori; piano traslochi fascicoli per sede media 50-200 k€; protezioni e barriere di fase 20-80 k€ a fase; assistenza alla direzione operativa 1-3% dei lavori.",
+"casi_real_world": "Caso tipo: riqualificazione energetica di sede storica in quattro fasi annuali per ali: traslocati per primi gli uffici con i termini processuali piu' lunghi, lavori invasivi concentrati in agosto e nelle festivita', verbali settimanali di concertazione con il dirigente; zero udienze rinviate in tre anni di cantiere.",
+"normative": "D.Lgs 81/2008 (cantieri temporanei, interferenze con l'esercizio, DUVRI); D.Lgs 50/2016 (varianti e riserve in corso d'opera); capitolato speciale del committente sulle prescrizioni di fase; privacy e riservatezza per l'accesso del personale di cantiere agli uffici (Reg. UE 2016/679).",
+"note_cantiere": "Fai firmare al dirigente un calendario udienze 'intoccabili' prima dell'apertura del cantiere e attaccalo nella bacheca del direttore lavori: il getto rumoroso del giorno del processo mediatico non lo dimentica nessuno. E ogni fascicolo spostato ha una scatola con codice: quello che non e' in elenco non esiste."})
+
+S.append({
+"categoria": "Sicurezza",
+"nome": "Aule per maxiprocessi e sedi speciali: sicurezza passiva e depositerie",
+"descrizione": "I processi di criminalita' organizzata e terrorismo richiedono aule speciali: capienza per decine di imputati e legali (300-800 posti complessivi), gabbie o recinti di sicurezza interni per gli imputati (dove ancora previsti) o aree imputati separate con vigilanza ravvicinata, perimetri esternalmente difendibili con aree di rispetto, depositerie per i corpi di reato voluminosi (armi, stupefacenti in quantita', mezzi), sistemi AV ridondati per la continuita' del dibattimento. Le aule bunker storiche erano edifici dedicati; l'approccio moderno preferisce aule ordinarie adattabili con dispositivi di sicurezza attivabili (filtri rinforzati, perimetri mobili) per non costruire cattedrali usate due volte l'anno.",
+"tecnologia": "Strutture con resistenze passate al calcolo per carichi eccezionali di folla; perimetri esterni con distanze di rispetto e controllo accessi veicolare; celle e aree imputati modulari; sale stampa separate con trasmissione video; depositerie con piazzali di movimentazione mezzi e celle climatiche per stupefacenti.",
+"applicazioni": "Aule per grandi procedimenti nei distretti di Corte d'Appello; adeguamento di aule ordinarie con dispositivi attivabili; depositerie distrettuali.",
+"vantaggi": "Le aule adattabili servono i processi ordinari tutto l'anno e i maxiprocessi quando servono; la sicurezza passiva progettata bene e' quasi invisibile nell'uso quotidiano; le depositerie distrettuali razionalizzano la logistica delle prove.",
+"limiti": "Costi e tempi di approvazione elevati; il dibattito pubblico sulle 'aule bunker' e' sensibile; la manutenzione dei dispositivi usati raramente (perimetri mobili, celle modulari) e' la prima voce tagliata.",
+"costi_e_economia": "Ordini di grandezza indicativi: aula grande processuale ex novo 3-10 milioni; adeguamento aula ordinaria con dispositivi attivabili 300-900 k€; depositeria distrettuale attrezzata 1-4 milioni.",
+"casi_real_world": "Caso reale noto: le aule bunker storiche costruite per i maxiprocessi degli anni Ottanta-Novanta sono oggi riutilizzate per i grandi procedimenti ordinari e per udienze con numerosi detenuti in videoconferenza, confermando la logica dello spazio grande e sicuro riadattato.",
+"normative": "DPR 380/2001 e NTC D.M. 17/1/2018 per le opere; DPR 151/2011 per l'antincendio (affollamenti eccezionali); direttive ministeriali sulla sicurezza delle sedi e dei processi sensibili (documenti interni, da richiedere al committente).",
+"note_cantiere": "Se progetti un'aula grande, progettala per il processo ordinario a 30 posti che ci si terra' 350 giorni all'anno: il maxiprocesso arriva una volta ogni lustro e trova spazio in un'aula ben pensata; un'aula pensata solo per il maxiprocesso e' vuota e decadente per 350 giorni."})
+
+S.append({
+"categoria": "Economia",
+"nome": "Economia dell'edilizia giudiziaria: finanziamento, PPP e costi di gestione",
+"descrizione": "L'edilizia giudiziaria vive di finanziamenti pubblici programmati (leggi speciali e capitoli ministeriali) e, ciclicamente, di partenariato pubblico-privato: l'operatore costruisce e gestisce la sede percependo un canone pluriennale che copre costruzione, finanza e servizi (manutenzione, pulizia, sicurezza passiva, talvolta reception e logistica). Il canone e' il cuore del contratto: prestazioni misurabili con penali, disponibilita' degli spazi, tempi di ripristino. I costi di gestione di un palazzo di giustizia sono piu' alti di un terziario comparabile per sicurezza, orari estesi e impianti speciali: la manutenzione programmata e' l'unico argine contro la decadimento rapido che ha colpito gran parte del patrimonio.",
+"tecnologia": "Struttura del canone PPP: quota per disponibilita' + quote a prestazione con service level e penali; modelli di life-cycle cost su 20-30 anni; indicatori di gestione: costo di conduzione per mq, per magistrato, per fascicolo trattato; sistemi CAFM per manutenzione e penali.",
+"applicazioni": "Nuove cittadelle in PPP; contratti di global service per sedi esistenti; valutazioni di convenienza tra locazione passiva, PPP e costruzione diretta.",
+"vantaggi": "Il PPP trasferisce al privato rischio costruttivo e di manutenzione con obblighi misurabili; il canone a prestazione incentiva la qualita' della gestione; la programmazione su 20-30 anni stabilizza il patrimonio.",
+"limiti": "Il PPP giudiziario richiede contratti complessi (sicurezza, custodia, riservatezza) che pochi operatori sanno gestire; i canoni mal calibrati diventano insostenibili per lo Stato o perdenti per l'operatore; il contenzioso sulle penali e' quasi strutturale.",
+"costi_e_economia": "Ordini di grandezza indicativi: canone PPP per sede media 2-6 milioni/anno; costo di conduzione ordinaria 60-120 €/mq/anno (superiore al terziario standard); global service per sede 0,5-2 milioni/anno; penali tipiche 0,5-5% del canone mensile per evento.",
+"casi_real_world": "Caso tipo: distretto che ha trasferito la gestione di tre sedi in un global service unico con penali su tempi di ripristino e qualita' percepita: nel primo anno i tempi medi di chiusura guasti sono passati da 19 a 6 giorni e i reclami formalizzati si sono dimezzati.",
+"normative": "D.Lgs 50/2016 (partenariato pubblico-privato e appalti); normativa sulla contabilita' speciale per l'edilizia giudiziaria (da verificare i riferimenti puntuali); D.Lgs 36/2023 per i nuovi contratti pubblici e il PPP.",
+"note_cantiere": "Se ti chiedono di valutare un PPP giudiziario, guarda per prima cosa l'allegato prestazionale: se le penali si misurano su indicatori che il gestore non controlla (es. affollamento del pubblico), il contratto fara' contenzioso; se misurano tempi e qualita' dei servizi, puo' funzionare."})
+
+S.append({
+"categoria": "Tipologie",
+"nome": "Uffici giudiziari speciali: minorile, sorveglianza, giudice di pace",
+"descrizione": "Non tutta la giustizia e' tribunale monumentale. Gli uffici minorili richiedono ambienti de-istituzionalizzati: aule piccole a pianta libera senza banco rialzato, sale per colloqui protetti con i minori (arredi domestici, vetri a specchio unidirezionale dove previsti), ingressi discreti separati da quelli dei processi ordinari. Gli uffici di sorveglianza trattano persone in esecuzione penale: sale per colloqui riservati, spazi per i collegi, collegamenti video con gli istituti penitenziari. Il giudice di pace e' la giustizia di prossimita': sedi piccole (300-800 mq) in edifici ordinari, una o due aule, sportello pubblico come interfaccia principale; il rischio tipico e' la sede sottodimensionata rispetto al carico di contenzioso di massa (multe, piccoli debiti).",
+"tecnologia": "Aule minorili con tavolo centrale condiviso e dispositivi AV discreti; salette per colloqui protetti con acustica e arredo domestico; per il giudice di pace: sportelli anti-coda con gestione elettronica, archivi compatti ad alta densita', aule 40-80 mq convertibili.",
+"applicazioni": "Nuove sedi minorili; allestimento di uffici di sorveglianza; messa a norma e riorganizzazione delle sedi del giudice di pace; conversione di piccoli edifici pubblici in sedi di prossimita'.",
+"vantaggi": "Gli ambienti de-istituzionalizzati migliorano la qualita' dei colloqui con i minori; le sedi di prossimita' ben organizzate assorbono grandi volumi di contenzioso semplice; investimenti unitari contenuti con impatto sociale alto.",
+"limiti": "Le sedi piccole sono le prime a perdere manutenzione nei bilanci; la commistione con altri uffici nello stesso edificio crea problemi di riservatezza; l'organico variabile rende le sedi cronicamente sotto- o sovradimensionate.",
+"costi_e_economia": "Ordini di grandezza indicativi: allestimento sede giudice di pace 300-800 k€; salette colloqui protetti 15-40 k€ cad.; adeguamento ufficio minorile completo 150-500 k€.",
+"casi_real_world": "Caso tipo: ufficio minorile trasferito da piano nobile storico a edificio anni Sessanta ristrutturato: ingresso separato con giardino, tre salette colloqui con arredi domestici e video, aule senza banco rialzato; migliorata la gestione dei colloqui protetti e ridotto l'impatto emotivo sui minori.",
+"normative": "DPR 448/1988 (processo penale minorile) per i principi sui colloqui e gli ambienti; D.M. 236/1989 per l'accessibilita'; DPR 380/2001 per le opere; indirizzi del Ministero per le sedi di prossimita' (da richiedere).",
+"note_cantiere": "Per l'ufficio minorile il committente tecnico non basta: fai validare il progetto degli spazi colloqui da chi li usa (magistrati minorili e servizi sociali). La saletta 'perfetta' disegnata senza di loro avra' il divano nel posto sbagliato e la telecamera che il minore vede per prima cosa."})
+
+PACK = "TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK"
+BASE = os.path.join("UNIVERSITA_EDILIZIA", PACK)
+
+assert len(S) == 14, f"attese 14 schede, trovate {len(S)}"
+for i, s in enumerate(S):
+    assert list(s.keys()) == KEYS, f"scheda {i}: chiavi errate: {list(s.keys())}"
+    assert s["costi_e_economia"].startswith("Ordini di grandezza indicativi: "), f"scheda {i}: prefisso costi mancante"
+
+os.makedirs(os.path.join(BASE, "schede"), exist_ok=True)
+with open(os.path.join(BASE, "schede", "schede.jsonl"), "w", encoding="utf-8") as f:
+    for s in S:
+        f.write(json.dumps(s, ensure_ascii=False) + "\n")
+
+with open(os.path.join(BASE, "COURSE.yaml"), "w", encoding="utf-8") as f:
+    f.write("""nome: Tribunali e Edilizia Giudiziaria
+codice: TRIBUNALI_GIUSTIZIA
+pack: TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK
+livello: L1-L2
+schede: 14
+facolta: FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+prerequisiti: [FONDAMENTI, EDILIZIA_CARCERARIA, UFFICI_E_TERZIARIO]
+giro: BB
+data: 2026-11-16
+""")
+
+with open(os.path.join(BASE, "README.md"), "w", encoding="utf-8") as f:
+    f.write("""# TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK — Tribunali e Edilizia Giudiziaria
+
+Pack dedicato al palazzo di giustizia come tipologia: quadro e committente
+(Ministero della Giustizia, riordino della geografia giudiziaria), i quattro
+flussi separati (pubblico, magistrati, imputati, atti), l'aula di udienza
+(geometria, acustica, posizioni, registrazione), camere di sicurezza e
+percorso imputati (custodia breve), cancellerie e processo telematico,
+archivi e depositi corpi di reato (carichi 500-1.000 kg/mq, compattabili),
+impianti speciali (AV, udienze da remoto, reti sicure), antincendio con
+imputati in custodia, accessibilita' e categorie fragili (audizioni
+protette), riuso e riconversione di edifici esistenti (check-list di
+fattibilita'), cantiere in esercizio, aule per maxiprocessi e sicurezza
+passiva, economia e PPP, uffici speciali (minorile, sorveglianza, giudice
+di pace).
+
+**Schede:** 14 | **Livello:** L1-L2 | **Facolta':** FACOLTA_TECNOLOGIA_E_COSTRUZIONE
+**Esame:** ESAMI/TRIBUNALI_GIUSTIZIA (250 domande)
+
+Aggiunto nel Giro BB (2026-11-16).
+""")
+
+print(f"OK: {len(S)} schede scritte in {os.path.abspath(os.path.join(BASE, 'schede', 'schede.jsonl'))}")

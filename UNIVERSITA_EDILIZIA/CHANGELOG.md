@@ -1,6 +1,23 @@
 
 
 
+
+## Giro BB — 2026-11-16, bozza post-v1.3.0 (NESSUN tag applicato)
+
+Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (BB1: bando MASE «Decarbonizzazione industriale» in preparazione, nella scheda incentivi imprese); nuovo pack TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK (14 schede) con esame. TRAGUARDO: 100 pack nella knowledge base.
+
+| # | Tipo | Prima | Dopo | Fonte di verifica |
+|---|---|---|---|---|
+| BB1 | Correzione | Scheda «Iperammortamento 2026-2028 e fine del ciclo Transizione 5.0» (ENERGETICA_INCENTIVI_PACK, riga 7): campo normative senza i nuovi bandi MASE | Aggiunta nota datata 16/11/2026: in preparazione al MASE il bando «Decarbonizzazione industriale» (dotazione indicata circa 180 milioni di euro per imprese dei settori hard-to-abate), affiancato alla misura «Distretti a Energia Positiva» da circa 50 milioni (Comuni sopra 50.000 abitanti); per entrambe riserva dell'80% delle risorse a otto regioni del Mezzogiorno; bandi NON ancora pubblicati, da verificare su mase.gov.it | ingenio-web.it (13-15/11/2026), edilportale.com (13/11/2026) — verifica web 16/11/2026 |
+| BB2 | Verifica senza correzione | Scheda «Le detrazioni fiscali per l'edilizia» (ENERGETICA_INCENTIVI_PACK, riga 6): note fino al 12/11/2026 | Confermata: 50% prima casa / 36% altri immobili, tetto 96.000 euro; stampa 14-15/11 dà per saltata definitivamente l'ipotesi Ecobonus 65%; termine emendamenti 17/11 ore 18 | lmservizi.it (15/11/2026), today.it (16/11/2026) — verifica web 16/11/2026 |
+| BB3 | Verifica senza correzione | Scheda «Il Conto Termico 3.0: la misura e i numeri» (ENERGETICA_INCENTIVI_PACK, riga 1): note 23/10 e 10/11 | Confermata: correttivo superato il vaglio della Conferenza Stato-Regioni ma ancora NON pubblicato in GU; scheda gia' completa della vicenda PortalTermico (sospensione 3/3/2026, riapertura solo accesso diretto 13/4/2026, proroga 40 giorni, DD 72/2026 con split 450/450 Meuro PA/privati) | bibus.acca.it (13/11/2026) — verifica web 16/11/2026 |
+| BB4 | Verifica senza correzione | Schede CER e Reddito Energetico: note vigenti | Confermate: nessuna novita'; sportello RE ancora chiuso; bando Distretti a Energia Positiva non ancora pubblicato (incontro progettazione partecipata segnalato al 23/11/2026) | ingenio-web.it, edilportale.com (13-15/11/2026) — verifica web 16/11/2026 |
+| BB5 | Nuovo pack | — | TRIBUNALI_E_EDILIZIA_GIUDIZIARIA_PACK: 14 schede (quadro e committente; quattro flussi; aula di udienza; camere di sicurezza; cancellerie e PCT; archivi e corpi di reato; impianti AV e reti; antincendio con custodia; accessibilita' e fragilita'; riuso e riconversione; cantiere in esercizio; aule maxiprocessi; economia e PPP; uffici speciali), livello L1-L2, FACOLTA_TECNOLOGIA_E_COSTRUZIONE | redazione interna |
+| BB6 | Nuovo esame | — | ESAMI/TRIBUNALI_GIUSTIZIA: 250 domande; chiavi in ESAMI_RISPOSTE (fuori repository) | build_esami_giro5 |
+| BB7 | Validazione | 99 pack / 1307 schede / 101 esami | 100 pack / 1321 schede / 102 esami; 0 errori; 109 warning legacy invariati | _validate_giro.py |
+
+Righe aperte nel giro: DDL Bilancio 2027 — termine emendamenti 17/11 ore 18, poi vaglio 23-24/11 e Aula primi di dicembre (Ecobonus 65% dato per saltato dalla stampa 14-15/11); bandi MASE «Decarbonizzazione industriale» (~180 Meuro) e «Distretti a Energia Positiva» (~50 Meuro) — pubblicazione da verificare su mase.gov.it (incontro PED segnalato al 23/11/2026); CT 3.0 — pubblicazione correttivo in GU dopo intesa Conferenza Stato-Regioni; CER — saldo contributi PNRR al 31/12/2026; Reddito Energetico — riapertura sportello GSE; EPBD — recepimento.
+
 ## Giro BA — 2026-11-15, bozza post-v1.3.0 (NESSUN tag applicato)
 
 Contenuto: verifica incentivi ricorrente con UNA correzione/integrazione (BA1: giurisprudenza 2026 sull'agrivoltaico nella scheda dedicata del pack FV); nuovo pack STAZIONI_SERVIZIO_E_RIFORNIMENTO_PACK (14 schede) con esame.

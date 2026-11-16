@@ -112,12 +112,13 @@ di apprendimento per settore.
 | STRUTTURE | ✅ 300 domande | chiavi: jsonl |
 | TETTI_COPERTURE | ✅ 220 domande | chiavi: jsonl |
 | TEATRI_LOCALI_SPETTACOLO | ✅ 250 domande | chiavi: jsonl |
+| TRIBUNALI_GIUSTIZIA | ✅ 250 domande | chiavi: jsonl |
 | UFFICI_TERZIARIO | ✅ 250 domande | chiavi: jsonl |
 | URBANISTICA | ✅ 180 domande | chiavi: jsonl |
 | VERDE_TETTI_FACCIATE | ✅ 250 domande | chiavi: jsonl |
 | VERDE_URBANO | ✅ 159 domande | chiavi: jsonl |
 
-Copertura: 101 esami (uno per settore, denominazioni storiche incluse) a copertura dei 99 pack
+Copertura: 102 esami (uno per settore, denominazioni storiche incluse) a copertura dei 100 pack
 didattici della repository. I tre esami «legacy» dei primi giri
 (MATERIALEDILE, IMPIANTI_FV_EOLICO, RISANAMENTO) usano il formato dei primi generatori:
 chiavi complete e valide, schema dei campi diverso dal generatore attuale.
